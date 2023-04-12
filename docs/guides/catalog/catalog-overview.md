@@ -11,7 +11,7 @@ The **Catalog** menu contains the features related to the product assortment of 
 
 The **Catalog** menu in your redesigned Admin brings together the pages where you manage your ecommerce catalog, pricing, and inventory.
 
-![visao-geral-produto-EN](//images.ctfassets.net/alneenqid6w5/6hg7IQ4sv6sphRtywSsDMQ/be0aec115746ca9494e44e3f120983ed/image.png)
+![visao-geral-produto-EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/visao-geral-produto-EN.png)
 
 Check out the menu’s different sections and pages below.
 
