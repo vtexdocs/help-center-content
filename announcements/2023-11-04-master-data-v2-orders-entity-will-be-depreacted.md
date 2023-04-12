@@ -1,5 +1,6 @@
 ---
 title: "Master Data v2 order entity will be deprecated"
+slug: "2023-11-04-master-data-v2-orders-entity-will-be-depreacted"
 createdAt: "2023-04-11T14:47:00.000Z"
 ---
 
