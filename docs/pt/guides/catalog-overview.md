@@ -1,5 +1,5 @@
 ---
-title: Catalog - Visión general
+title: Catalog - Visão geral
 ---
 
 O menu **Catálogo** contém as funcionalidades referentes ao sortimento de produtos do seu ecommerce. Para que o seu cliente veja os produtos no site, você precisa cadastrá-los antes neste menu do seu Admin. A arquitetura do Catálogo da VTEX se baseia em quatro conceitos fundamentais:
