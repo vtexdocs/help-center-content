@@ -1,7 +1,7 @@
 ---
 title: "Se descontinuará la entidad de pedidos de Master Data v2"
 slug: "2023-11-04-master-data-v2-orders-entity-will-be-depreacted"
-createdAt: "2023-04-11T14:47:00.000Z"
+createdAt: 2023-04-11T09:18:00.000Z
 ---
 
 [Master Data v2](https://help.vtex.com/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) es una solución de la plataforma VTEX para la base de datos que se puede personalizar fácilmente. Una de sus entidades de datos nativas almacena la información de los pedidos y algunos desarrolladores la utilizan para realizar integraciones de pedidos con servicios externos como sistemas de gestión de stock o recursos.

@@ -1,7 +1,7 @@
 ---
 title: "Master Data v2 order entity will be deprecated"
 slug: "2023-11-04-master-data-v2-orders-entity-will-be-depreacted"
-createdAt: "2023-04-11T14:47:00.000Z"
+createdAt: 2023-04-11T09:18:00.000Z
 ---
 
 [Master Data v2](https://help.vtex.com/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw) is a highly customizable database solution from the VTEX platform. One of its native data entities stores order information, and some developers use it to perform order integrations with external services such as inventory or resource management systems.
