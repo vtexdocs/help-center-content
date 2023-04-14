@@ -11,7 +11,7 @@ O menu **Catálogo** contém as funcionalidades referentes ao sortimento de prod
 
 O menu **Catálogo** do Admin VTEX reúne as páginas onde você gerencia catálogo, preços e inventário do seu ecommerce.
 
-![visao-geral-produto-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/catalog-overview-capa.png)
+![visao-geral-produto-PT](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/catalog-overview-capa.jpeg)
 
 Confira abaixo mais detalhes sobre as diferentes seções e páginas deste menu.
 
