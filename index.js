@@ -402,7 +402,7 @@ ${textPT}
   let fileContents = [fileContentEN, fileContentES, fileContentPT];
  
   for (let i = 0; i < locales.length; i++) {
-    const localeFolderName = `./docs/${locales[i]}`;
+    const localeFolderName = `./docs/${fileFolders}`;
     try {
       if (!fs.existsSync(localeFolderName)) {
         fs.mkdirSync(localeFolderName);
@@ -410,7 +410,7 @@ ${textPT}
     } catch (err) {
       console.log("Error creating folder", err);
     }
-    const folderName = `./docs/${locales[i]}/${fileFolders}`;
+    const folderName = `./docs/${fileFolders}/${locales[i]}`;
     try {
       if (!fs.existsSync(folderName)) {
         fs.mkdirSync(folderName);
@@ -418,7 +418,7 @@ ${textPT}
     } catch (err) {
       console.log("Error creating folder", err);
     }
-    let filePath = `./docs/${locales[i]}/${fileFolders}/${fileNameEN}`;
+    let filePath = `./docs/${fileFolders}/${locales[i]}/${fileNameEN}`;
     fs.writeFile(filePath, fileContents[i], (err) => {
       if (err) {
         console.log(`Error occurred while creating file ${filePath}:`, err);
@@ -429,7 +429,7 @@ ${textPT}
   }
 };
 
-for (let j = 0; j < items.length; j++) {
+for (let j = 0; j < 5; j++) {
 getEntries()
   .then((items) => {
     createMarkdownFile(items[j]);
