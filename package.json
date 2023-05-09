@@ -1,0 +1,12 @@
+{
+    "name": "help-center-content",
+    "version": "1.0.0",
+    "description": "Content for VTEX Help Center",
+    "main": "index.js",
+    "repository": "https://github.com/vtexdocs/dev-portal-content",
+    "author": "Júlia Rabello <julia.rabello@vtex.com.br>",
+    "license": "MIT",
+    "dependencies": {
+        "contentful-management": "^10.35.1"
+    }
+}
