@@ -10,68 +10,71 @@ async function getEntries() {
     const space = await client.getSpace("alneenqid6w5");
     const environment = await space.getEnvironment("master");
     const entries = await environment.getEntries();
-    return entries.items;
+
+    for (let j = 0; j < entries.items.length; j++) {
+      let entry = entries.items[j];
+      createMarkdownFile(entry);
+    }
   } catch (error) {
     console.log("Error occurred while fetching entries:", error);
   }
 }
 
 function createMarkdownFile(entry) {
-
   // extract information from each entry
 
   let sys = entry.sys;
   let fields = entry.fields;
-  console.log(fields);
+//  console.log(fields);
 
   let entryId = sys.id;
   let entryType = sys.type;
-  let createdAt = sys.createdAt || '';
-  let updatedAt = sys.updatedAt || '';
-  let publishedAt = sys?.publishedAt || '';
-  let firstPublishedAt = sys?.firstPublishedAt || '';
-  let archivedAt = sys?.archivedAt || '';
+  let createdAt = sys.createdAt || "";
+  let updatedAt = sys.updatedAt || "";
+  let publishedAt = sys?.publishedAt || "";
+  let firstPublishedAt = sys?.firstPublishedAt || "";
+  let archivedAt = sys?.archivedAt || "";
   let contentType = sys.contentType.sys.id;
-  let productTeam = fields.xpTeam.pt;
-  let subcategory = fields.subcategory?.pt.sys.id || '';
+  let productTeam = fields.xpTeam?.pt || "";
+  let subcategory = fields.subcategory?.pt.sys.id || "";
   let titleEN = fields.title.en;
   let titleES = fields.title.es;
   let titlePT = fields.title.pt;
-  let author = fields.author?.pt[0].sys.id || '';
-  let tag = fields.tag?.pt || '';
+  let author = fields.author?.pt[0].sys.id || "";
+  let tag = fields.tag?.pt || "";
   let slugEN = fields.slug.en;
   let slugES = fields.slug.es;
   let slugPT = fields.slug.pt;
-  let legacySlugEN = fields.legacySlug?.en || '';
-  let legacySlugES = fields.legacySlug?.es || '';
-  let legacySlugPT = fields.legacySlug?.pt || '';
-  let textEN = fields.text?.en || '';
-  let textES = fields.text?.es || '';
-  let textPT = fields.text?.pt || '';
+  let legacySlugEN = fields.legacySlug?.en || "";
+  let legacySlugES = fields.legacySlug?.es || "";
+  let legacySlugPT = fields.legacySlug?.pt || "";
+  let textEN = fields.text?.en || "";
+  let textES = fields.text?.es || "";
+  let textPT = fields.text?.pt || "";
 
-  let kiStatusEN = fields.status?.pt[0] || '';
-  let kiStatusES = fields.status?.pt[0] || '';
-  let kiStatusPT = fields.status?.pt[0] || '';
-  let kiSummaryEN = fields.summary?.en || '';
-  let kiSummaryES = fields.summary?.es || '';
-  let kiSummaryPT = fields.summary?.pt || '';
-  let kiSimulationEN = fields.simulation?.en || '';
-  let kiSimulationES = fields.simulation?.es || '';
-  let kiSimulationPT = fields.simulation?.pt || '';
-  let kiWorkaroundEN = fields.workaround?.en || '';
-  let kiWorkaroundES = fields.workaround?.es || '';
-  let kiWorkaroundPT = fields.workaround?.pt || '';
-  let internalReference = fields.internalReference?.pt || '';
+  let kiStatusEN = fields.status?.pt[0] || "";
+  let kiStatusES = fields.status?.pt[0] || "";
+  let kiStatusPT = fields.status?.pt[0] || "";
+  let kiSummaryEN = fields.summary?.en || "";
+  let kiSummaryES = fields.summary?.es || "";
+  let kiSummaryPT = fields.summary?.pt || "";
+  let kiSimulationEN = fields.simulation?.en || "";
+  let kiSimulationES = fields.simulation?.es || "";
+  let kiSimulationPT = fields.simulation?.pt || "";
+  let kiWorkaroundEN = fields.workaround?.en || "";
+  let kiWorkaroundES = fields.workaround?.es || "";
+  let kiWorkaroundPT = fields.workaround?.pt || "";
+  let internalReference = fields.internalReference?.pt || "";
 
-  let trackId = fields.trackId?.pt.sys.id || '';
-  let trackSlugEN = fields.trackSlug?.en || '';
-  let trackSlugES = fields.trackSlug?.es || '';
-  let trackSlugPT = fields.trackSlug?.pt || '';
+  let trackId = fields.trackId?.pt.sys.id || "";
+  let trackSlugEN = fields.trackSlug?.en || "";
+  let trackSlugES = fields.trackSlug?.es || "";
+  let trackSlugPT = fields.trackSlug?.pt || "";
 
-  let announcementImageID = fields.image?.pt.id || '';
-  let announcementSynopsisEN = fields.synopsis?.en || '';
-  let announcementSynopsisES = fields.synopsis?.es || '';
-  let announcementSynopsisPT = fields.synopsis?.pt || '';
+  let announcementImageID = fields.image?.pt.id || "";
+  let announcementSynopsisEN = fields.synopsis?.en || "";
+  let announcementSynopsisES = fields.synopsis?.es || "";
+  let announcementSynopsisPT = fields.synopsis?.pt || "";
 
   // create .md files in locale folders for each item
 
@@ -80,8 +83,8 @@ function createMarkdownFile(entry) {
   const fs = require("fs");
 
   let fileNameEN = `${slugEN}.md`;
-//  let fileNameES = `${slugES}.md`;
-//  let fileNamePT = `${slugPT}.md`;
+  //  let fileNameES = `${slugES}.md`;
+  //  let fileNamePT = `${slugPT}.md`;
 
   let fileContentEN = "";
   let fileContentES = "";
@@ -90,7 +93,7 @@ function createMarkdownFile(entry) {
 
   const locales = ["en", "es", "pt"];
 
-  if (contentType === 'knownIssue') {
+  if (contentType === "knownIssue") {
     fileContentEN = `---
 title: ${titleEN}
 id: ${entryId}
@@ -179,7 +182,7 @@ ${kiWorkaroundPT}
 
 `;
     fileFolders = "known-issues";
-  } else if (contentType === 'tutorial') {
+  } else if (contentType === "tutorial") {
     fileContentEN = `---
 title: ${titleEN}
 id: ${entryId}
@@ -232,7 +235,7 @@ subcategory: ${subcategory}
 ${textPT}
 `;
     fileFolders = "tutorials";
-  } else if (contentType === 'trackArticle') {
+  } else if (contentType === "trackArticle") {
     fileContentEN = `---
 title: ${titleEN}
 id: ${entryId}
@@ -282,7 +285,7 @@ trackSlugPT: ${trackSlugPT}
 ${textPT}
 `;
     fileFolders = `tracks/${trackSlugEN}`;
-  } else if (contentType === 'frequentlyAskedQuestion') {
+  } else if (contentType === "frequentlyAskedQuestion") {
     fileContentEN = `---
 title: ${titleEN}
 id: ${entryId}
@@ -386,34 +389,40 @@ ${textPT}
 `;
     fileFolders = `announcements`;
   } else if (contentType === "category") {
-    console.log('Content type not supported.')
+    console.log("Content type not supported.");
+    return;
   } else if (contentType === "subcategory") {
-    console.log('Content type not supported.')
+    console.log("Content type not supported.");
+    return;
   } else if (contentType === "track") {
-    console.log('Content type not supported.')
+    console.log("Content type not supported.");
+    return;
   } else if (contentType === "trackTopic") {
-    console.log('Content type not supported.')
+    console.log("Content type not supported.");
+    return;
   } else if (contentType === "author") {
-    console.log('Content type not supported.')
+    console.log("Content type not supported.");
+    return;
   } else {
-    console.log('Content type not identified.')
+    console.log("Content type not identified.");
+    return;
   }
 
   let fileContents = [fileContentEN, fileContentES, fileContentPT];
- 
+
   for (let i = 0; i < locales.length; i++) {
-    const localeFolderName = `./docs/${fileFolders}`;
+    const folderName = `./docs/${fileFolders}`;
     try {
-      if (!fs.existsSync(localeFolderName)) {
-        fs.mkdirSync(localeFolderName);
+      if (!fs.existsSync(folderName)) {
+        fs.mkdirSync(folderName);
       }
     } catch (err) {
       console.log("Error creating folder", err);
     }
-    const folderName = `./docs/${fileFolders}/${locales[i]}`;
+    const localeFolderName = `./docs/${fileFolders}/${locales[i]}`;
     try {
-      if (!fs.existsSync(folderName)) {
-        fs.mkdirSync(folderName);
+      if (!fs.existsSync(localeFolderName)) {
+        fs.mkdirSync(localeFolderName);
       }
     } catch (err) {
       console.log("Error creating folder", err);
@@ -427,20 +436,6 @@ ${textPT}
       }
     });
   }
-};
-
-for (let j = 0; j < 5; j++) {
-getEntries()
-  .then((items) => {
-    createMarkdownFile(items[j]);
-  })
-  .catch((error) => console.log("Error occurred:", error));
 }
 
-/* to test a single entry, replace the `for` loop above with:
-getEntries()
-  .then((items) => {
-    createMarkdownFile(items[46]);
-  })
-  .catch((error) => console.log("Error occurred:", error));
-*/
+getEntries();
