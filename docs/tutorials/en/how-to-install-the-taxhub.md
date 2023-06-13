@@ -1,0 +1,27 @@
+---
+title: How to install the TaxHub
+id: ar3F62QNwcg8oyUwM0wWu
+status: DRAFT
+createdAt: 2017-08-02T13:10:47.510Z
+updatedAt: 2020-05-25T19:11:29.076Z
+publishedAt: 
+firstPublishedAt: 2017-08-02T13:15:16.982Z
+contentType: tutorial
+productTeam: Others
+author: 2Y2pnNkWfSoUMMYcwemq4A
+slug: how-to-install-the-taxhub
+legacySlug: how-to-install-the-taxhub
+subcategory: 
+---
+
+To install TaxHub, our tax system, follow these steps:
+
+1.	Enter the Logistics module `https://{{ACCOUNTNAME}}.vtexcommercestable.com.br/admin/logistics/#/dashboard` and set up the address of stores in the distribution centers (warehouse docks). They will be used to calculate the origin Shipping
+2.	Enter the VTEX TaxHub module `https://{{ACCOUNTNAME}}.vtexcommercebeta.com.br/admin/taxhub/#/taxes`
+3.	Click on __Installation__
+4.	Click on the symbol __+__
+5.	Fill in the App field with the name that identifies your provider 
+6.	On the same screen, install your App developed in node.js zipped in .zip format (the file name should be jurisdiction.zip)
+7.	The system will save the file automatically.
+
+![TaxHub Instalation](//images.contentful.com/alneenqid6w5/7LfwQ6CzIIEYqSwmcoUMCG/7508ba6496d5fedb913c85357a8a632e/Instalacion_TaxHub.gif)

@@ -1,0 +1,22 @@
+---
+title: Considerações de Checkout por pais  
+id: 1kYzXKaipyee8qMUcE8kew
+status: DRAFT
+createdAt: 2017-08-16T16:03:28.048Z
+updatedAt: 2020-05-25T19:03:52.530Z
+publishedAt: 
+firstPublishedAt: 
+contentType: tutorial
+productTeam: Others
+author: 
+slug: consideracoes-de-checkout-por-pais
+legacySlug: consideracoes-de-checkout-por-pais
+subcategory: 
+---
+
+Para cada pais aonde a plataforma e utilizada é necesario ter  um gateway ativo ou o que chamamos internamente de afiliaçao , segue abaixo uma lista de gateway habilitados por País com seus respectivos meios de pagamento.
+
+
+
+
+

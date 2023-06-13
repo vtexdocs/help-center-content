@@ -1,0 +1,42 @@
+---
+title:  Group by Delivery Method on Sales Performance not working as expected
+id: 8zHND5pzrt0mrIrb061Zq
+status: PUBLISHED
+createdAt: 2022-11-30T19:02:13.548Z
+updatedAt: 2022-12-01T22:14:52.118Z
+publishedAt: 2022-12-01T22:14:52.118Z
+firstPublishedAt: 2022-11-30T19:02:13.994Z
+contentType: knownIssue
+productTeam: Analytics
+author: 2mXZkbi0oi061KicTExNjo
+tag: Analytics
+slug: group-by-delivery-method-on-sales-performance-not-working-as-expected
+kiStatus: Backlog
+internalReference: 639294
+---
+
+## Summary
+
+
+When try to group by the Delivery Method on the Sales Performance Dash, an error shows up:
+_"Unable to load data. Please click the button below to reload the information."_
+ ![](https://vtexhelp.zendesk.com/attachments/token/aT7lkza6qQLaDyFJvy5G0YYED/?name=image.png)
+
+##
+
+##
+
+## Simulation
+
+
+
+1. Try to group by Delivery Method.
+
+
+##
+
+## Workaround
+
+
+Use the OMS to extract this data.
+

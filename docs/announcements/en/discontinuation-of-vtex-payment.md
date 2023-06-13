@@ -1,0 +1,19 @@
+---
+title: Discontinuation of VTEX Payment
+id: 6BkEnyzVDHfoKwPnGdqBRs
+status: PUBLISHED
+createdAt: 2022-07-07T19:20:19.592Z
+updatedAt: 2023-05-31T14:45:05.511Z
+publishedAt: 2023-05-31T14:45:05.511Z
+contentType: updates
+productTeam: Financial
+author: 4ubliktPJIsvyl1hq91RdK
+slug: discontinuation-of-vtex-payment
+legacySlug: discontinuation-of-vtex-payment
+announcementImageID: 
+announcementSynopsisEN: Discontinuation of VTEX Payment
+---
+
+<div class="alert alert-warning">
+This content is not available for this language because VTEX Payment is only available for Brazilian stores.
+</div>

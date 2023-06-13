@@ -1,0 +1,17 @@
+---
+title: Configuring Price Divergence rule
+id: 7wPUgeKAXnXSTt3YPizuSp
+status: PUBLISHED
+createdAt: 2022-01-04T21:43:40.170Z
+updatedAt: 2022-01-04T21:48:20.492Z
+publishedAt: 2022-01-04T21:48:20.492Z
+firstPublishedAt: 2022-01-04T21:48:20.492Z
+contentType: trackArticle
+productTeam: Channels
+slug: configuring-price-divergence-rule-centauro
+trackId: D8Qnjbr5lfLkUfMRhsfbj
+trackSlugEN: centauro-integration
+---
+
+<div class="alert alert-warning" role="alert">This is a regional exclusive content not applicable to 
+English speaking countries.</div>

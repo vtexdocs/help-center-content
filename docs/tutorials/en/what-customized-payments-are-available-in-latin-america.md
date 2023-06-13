@@ -1,0 +1,24 @@
+---
+title: What customized payments are available in Latin America?
+id: 6plXudxQJiwaE0key20Yoe
+status: PUBLISHED
+createdAt: 2019-01-24T20:45:37.217Z
+updatedAt: 2019-12-31T15:29:09.442Z
+publishedAt: 2019-12-31T15:29:09.442Z
+firstPublishedAt: 2019-01-24T21:58:52.021Z
+contentType: tutorial
+productTeam: Financial
+author: 245tA425AIeioKAk2eaiwS
+slug: what-customized-payments-are-available-in-latin-america
+legacySlug: what-customized-payments-are-available-in-latin-america
+subcategory: 2Xay1NOZKE2CSqKMwckOm8
+---
+
+VTEX allows your store to accept the following customized payments in Latin American countries.
+
+- __Argentina:__ Argencard, Cencosud, CMR, Cordial, Cordobesa, MercadoPago + Banco Patagonia
+- __Chile:__ CMR, Magna, Presto
+- __Colombia:__ Codensa
+- __Uruguai:__ Oca
+
+To learn how to set up these payment terms using Mercado Pago, read [this Help article](/en/tutorial/setting-up-customized-payments-using-mercadopago-latin-america).
