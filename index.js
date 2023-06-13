@@ -23,7 +23,7 @@ let contentTypes = {
   topQuestions: [], // deprecated
   concepts: [], // deprecated
   businessGuides: [], // deprecated
-  unknownContentTypes: []
+  unknownContentTypes: [],
 };
 
 async function getEntries() {
@@ -46,7 +46,10 @@ async function getEntries() {
       }
       skip += limit;
     } while (skip < totalCount);
-    console.log("Total amount of entries retrieved from Contentful:", totalCount)
+    console.log(
+      "Total amount of entries retrieved from Contentful:",
+      totalCount
+    );
     console.log("Authors:", contentTypes.authors.length);
     console.log("Tracks:", contentTypes.tracks.length);
     console.log("Known Issues:", contentTypes.knownIssues.length);
@@ -61,17 +64,72 @@ async function getEntries() {
     console.log("TopBar (deprecated):", contentTypes.topBar.length);
     console.log("TopQuestions (deprecated):", contentTypes.topQuestions.length);
     console.log("Concepts (deprecated):", contentTypes.concepts.length);
-    console.log("Business Guides (deprecated):", contentTypes.businessGuides.length);
-    console.log("Unknown Content Type:", contentTypes.unknownContentTypes.length);
+    console.log(
+      "Business Guides (deprecated):",
+      contentTypes.businessGuides.length
+    );
+    console.log(
+      "Unknown Content Type:",
+      contentTypes.unknownContentTypes.length
+    );
     console.log("Entries that generated files:", fileCount / 3); //fileCount divided by the amount of locales, since it creates one file per locale
-    console.log("Amount of errors (difference between total of entries, entries that generated files and correctly ignored entries):", totalCount - fileCount / 3 - contentTypes.authors.length - contentTypes.tracks.length - contentTypes.trackTopics.length - contentTypes.categories.length - contentTypes.subcategories.length - contentTypes.adminV4docs.length - contentTypes.topBar.length - contentTypes.topQuestions.length - contentTypes.concepts.length - contentTypes.businessGuides.length - contentTypes.unknownContentTypes.length)
+    console.log(
+      "Amount of errors (difference between total of entries, entries that generated files and correctly ignored entries):",
+      totalCount -
+        fileCount / 3 -
+        contentTypes.authors.length -
+        contentTypes.tracks.length -
+        contentTypes.trackTopics.length -
+        contentTypes.categories.length -
+        contentTypes.subcategories.length -
+        contentTypes.adminV4docs.length -
+        contentTypes.topBar.length -
+        contentTypes.topQuestions.length -
+        contentTypes.concepts.length -
+        contentTypes.businessGuides.length -
+        contentTypes.unknownContentTypes.length
+    );
   } catch (error) {
     console.log("Error occurred while fetching entry:", error);
   }
 }
 
+function isDraft(entry) {
+  return !entry.sys.publishedVersion;
+}
+
+function isChanged(entry) {
+  return (
+    !!entry.sys.publishedVersion &&
+    entry.sys.version >= entry.sys.publishedVersion + 2
+  );
+}
+
+function isPublished(entry) {
+  return (
+    !!entry.sys.publishedVersion &&
+    entry.sys.version == entry.sys.publishedVersion + 1
+  );
+}
+
+function isArchived(entry) {
+  return !!entry.sys.archivedVersion;
+}
+
 function createMarkdownFile(entry) {
   // extract information from each entry
+
+  let status;
+
+  if (isDraft(entry)) {
+    status = "DRAFT";
+  } else if (isChanged(entry)) {
+    status = "CHANGED";
+  } else if (isPublished(entry)) {
+    status = "PUBLISHED";
+  } else if (isArchived(entry)) {
+    status = "ARCHIVED";
+  };
 
   let sys = entry.sys;
   let fields = entry.fields;
@@ -86,7 +144,7 @@ function createMarkdownFile(entry) {
   let firstPublishedAt = sys?.firstPublishedAt || "";
   let archivedAt = sys?.archivedAt || "";
   let contentType = sys.contentType.sys.id;
-//  console.log(contentType);
+  //  console.log(contentType);
 
   if (contentType === "author") {
     contentTypes.authors.push(entry);
@@ -181,6 +239,7 @@ function createMarkdownFile(entry) {
     fileContentEN = `---
 title: ${titleEN}
 id: ${entryId}
+status: ${status}
 createdAt: ${createdAt}
 updatedAt: ${updatedAt}
 publishedAt: ${publishedAt}
@@ -190,7 +249,7 @@ productTeam: ${productTeam}
 author: ${author}
 tag: ${tag}
 slug: ${slugEN}
-status: ${kiStatusEN}
+kiStatus: ${kiStatusEN}
 internalReference: ${internalReference}
 ---
 
@@ -210,6 +269,7 @@ ${kiWorkaroundEN}
     fileContentES = `---
 title: ${titleES}
 id: ${entryId}
+status: ${status}
 createdAt: ${createdAt}
 updatedAt: ${updatedAt}
 publishedAt: ${publishedAt}
@@ -219,7 +279,7 @@ productTeam: ${productTeam}
 author: ${author}
 tag: ${tag}
 slug: ${slugES}
-status: ${kiStatusES}
+kiStatus: ${kiStatusES}
 internalReference: ${internalReference}
 ---
 
@@ -239,6 +299,7 @@ ${kiWorkaroundES}
     fileContentPT = `---
 title: ${titlePT}
 id: ${entryId}
+status: ${status}
 createdAt: ${createdAt}
 updatedAt: ${updatedAt}
 publishedAt: ${publishedAt}
@@ -248,7 +309,7 @@ productTeam: ${productTeam}
 author: ${author}
 tag: ${tag}
 slug: ${slugPT}
-status: ${kiStatusPT}
+kiStatus: ${kiStatusPT}
 internalReference: ${internalReference}
 ---
 
@@ -271,6 +332,7 @@ ${kiWorkaroundPT}
     fileContentEN = `---
 title: ${titleEN}
 id: ${entryId}
+status: ${status}
 createdAt: ${createdAt}
 updatedAt: ${updatedAt}
 publishedAt: ${publishedAt}
@@ -288,6 +350,7 @@ ${textEN}
     fileContentES = `---
 title: ${titleES}
 id: ${entryId}
+status: ${status}
 createdAt: ${createdAt}
 updatedAt: ${updatedAt}
 publishedAt: ${publishedAt}
@@ -305,6 +368,7 @@ ${textES}
     fileContentPT = `---
 title: ${titlePT}
 id: ${entryId}
+status: ${status}
 createdAt: ${createdAt}
 updatedAt: ${updatedAt}
 publishedAt: ${publishedAt}
@@ -325,6 +389,7 @@ ${textPT}
     fileContentEN = `---
 title: ${titleEN}
 id: ${entryId}
+status: ${status}
 createdAt: ${createdAt}
 updatedAt: ${updatedAt}
 publishedAt: ${publishedAt}
@@ -341,6 +406,7 @@ ${textEN}
     fileContentES = `---
 title: ${titleES}
 id: ${entryId}
+status: ${status}
 createdAt: ${createdAt}
 updatedAt: ${updatedAt}
 publishedAt: ${publishedAt}
@@ -357,6 +423,7 @@ ${textES}
     fileContentPT = `---
 title: ${titlePT}
 id: ${entryId}
+status: ${status}
 createdAt: ${createdAt}
 updatedAt: ${updatedAt}
 publishedAt: ${publishedAt}
@@ -376,6 +443,7 @@ ${textPT}
     fileContentEN = `---
 title: ${titleEN}
 id: ${entryId}
+status: ${status}
 createdAt: ${createdAt}
 updatedAt: ${updatedAt}
 publishedAt: ${publishedAt}
@@ -392,6 +460,7 @@ ${textEN}
     fileContentES = `---
 title: ${titleES}
 id: ${entryId}
+status: ${status}
 createdAt: ${createdAt}
 updatedAt: ${updatedAt}
 publishedAt: ${publishedAt}
@@ -408,6 +477,7 @@ ${textES}
     fileContentPT = `---
 title: ${titlePT}
 id: ${entryId}
+status: ${status}
 createdAt: ${createdAt}
 updatedAt: ${updatedAt}
 publishedAt: ${publishedAt}
@@ -427,6 +497,7 @@ ${textPT}
     fileContentEN = `---
 title: ${titleEN}
 id: ${entryId}
+status: ${status}
 createdAt: ${createdAt}
 updatedAt: ${updatedAt}
 publishedAt: ${publishedAt}
@@ -444,6 +515,7 @@ ${textEN}
     fileContentES = `---
 title: ${titleES}
 id: ${entryId}
+status: ${status}
 createdAt: ${createdAt}
 updatedAt: ${updatedAt}
 publishedAt: ${publishedAt}
@@ -461,6 +533,7 @@ ${textES}
     fileContentPT = `---
 title: ${titlePT}
 id: ${entryId}
+status: ${status}
 createdAt: ${createdAt}
 updatedAt: ${updatedAt}
 publishedAt: ${publishedAt}
