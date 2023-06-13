@@ -5,18 +5,68 @@ const client = contentful.createClient({
   accessToken: "CFPAT-7nG-G6E-h51qLhX1O2A57e5f_cnRFio5DoxoRdzzmLE",
 });
 
+let fileCount = 0;
+
+let contentTypes = {
+  authors: [],
+  tracks: [],
+  knownIssues: [],
+  tutorials: [],
+  trackArticles: [],
+  trackTopics: [],
+  faqs: [],
+  announcements: [],
+  categories: [],
+  subcategories: [],
+  adminV4docs: [], // deprecated
+  topBar: [], // deprecated
+  topQuestions: [], // deprecated
+  concepts: [], // deprecated
+  businessGuides: [], // deprecated
+  unknownContentTypes: []
+};
+
 async function getEntries() {
   try {
     const space = await client.getSpace("alneenqid6w5");
     const environment = await space.getEnvironment("master");
-    const entries = await environment.getEntries();
 
-    for (let j = 0; j < entries.items.length; j++) {
-      let entry = entries.items[j];
-      createMarkdownFile(entry);
-    }
+    let skip = 0;
+    let limit = 100;
+    let totalCount = 0;
+
+    do {
+      const response = await environment.getEntries({ skip, limit });
+      const entries = response;
+      totalCount = response.total;
+
+      for (let j = 0; j < entries.items.length; j++) {
+        let entry = entries.items[j];
+        createMarkdownFile(entry);
+      }
+      skip += limit;
+    } while (skip < totalCount);
+    console.log("Total amount of entries retrieved from Contentful:", totalCount)
+    console.log("Authors:", contentTypes.authors.length);
+    console.log("Tracks:", contentTypes.tracks.length);
+    console.log("Known Issues:", contentTypes.knownIssues.length);
+    console.log("Tutorials:", contentTypes.tutorials.length);
+    console.log("Track Articles:", contentTypes.trackArticles.length);
+    console.log("Track Topics:", contentTypes.trackTopics.length);
+    console.log("FAQs:", contentTypes.faqs.length);
+    console.log("Announcements:", contentTypes.announcements.length);
+    console.log("Categories:", contentTypes.categories.length);
+    console.log("Subcategories:", contentTypes.subcategories.length);
+    console.log("Admin V4 docs (deprecated):", contentTypes.adminV4docs.length);
+    console.log("TopBar (deprecated):", contentTypes.topBar.length);
+    console.log("TopQuestions (deprecated):", contentTypes.topQuestions.length);
+    console.log("Concepts (deprecated):", contentTypes.concepts.length);
+    console.log("Business Guides (deprecated):", contentTypes.businessGuides.length);
+    console.log("Unknown Content Type:", contentTypes.unknownContentTypes.length);
+    console.log("Entries that generated files:", fileCount / 3); //fileCount divided by the amount of locales, since it creates one file per locale
+    console.log("Amount of errors (difference between total of entries, entries that generated files and correctly ignored entries):", totalCount - fileCount / 3 - contentTypes.authors.length - contentTypes.tracks.length - contentTypes.trackTopics.length - contentTypes.categories.length - contentTypes.subcategories.length - contentTypes.adminV4docs.length - contentTypes.topBar.length - contentTypes.topQuestions.length - contentTypes.concepts.length - contentTypes.businessGuides.length - contentTypes.unknownContentTypes.length)
   } catch (error) {
-    console.log("Error occurred while fetching entries:", error);
+    console.log("Error occurred while fetching entry:", error);
   }
 }
 
@@ -36,33 +86,55 @@ function createMarkdownFile(entry) {
   let firstPublishedAt = sys?.firstPublishedAt || "";
   let archivedAt = sys?.archivedAt || "";
   let contentType = sys.contentType.sys.id;
-  console.log(contentType);
+//  console.log(contentType);
 
   if (contentType === "author") {
-    console.log("Content type not supported.");
+    contentTypes.authors.push(entry);
     return;
   }
-  
+
   let trackId = fields.trackId?.pt.sys.id || "";
   let trackSlugEN = fields.trackSlug?.en || "";
   let trackSlugES = fields.trackSlug?.es || "";
   let trackSlugPT = fields.trackSlug?.pt || "";
 
   if (contentType === "track") {
-    console.log("Content type not supported.");
+    contentTypes.tracks.push(entry);
+    return;
+  } else if (
+    contentType === "adminV4ContextualDocInAdmin" ||
+    contentType === "av4article" ||
+    contentType === "av4menuItem" ||
+    contentType === "av4menuList" ||
+    contentType === "adminV4LearnMoreList" ||
+    contentType === "adminV4LearnMoreItem"
+  ) {
+    contentTypes.adminV4docs.push(entry);
+    return;
+  } else if (contentType === "topBar") {
+    contentTypes.topBar.push(entry);
+    return;
+  } else if (contentType === "topQuestions") {
+    contentTypes.topQuestions.push(entry);
+    return;
+  } else if (contentType === "concepts") {
+    contentTypes.concepts.push(entry);
+    return;
+  } else if (contentType === "businessGuides") {
+    contentTypes.businessGuides.push(entry);
     return;
   }
 
   let productTeam = fields.xpTeam?.pt || "";
   let subcategory = fields.subcategory?.pt.sys.id || "";
-  let titleEN = fields.title.en || "";
-  let titleES = fields.title.es || "";
-  let titlePT = fields.title.pt || "";
+  let titleEN = fields.title?.en || "";
+  let titleES = fields.title?.es || "";
+  let titlePT = fields.title?.pt || "";
   let author = fields.author?.pt[0].sys.id || "";
   let tag = fields.tag?.pt || "";
-  let slugEN = fields.slug.en || "";
-  let slugES = fields.slug.es || "";
-  let slugPT = fields.slug.pt || "";
+  let slugEN = fields.slug?.en || "";
+  let slugES = fields.slug?.es || "";
+  let slugPT = fields.slug?.pt || "";
   let legacySlugEN = fields.legacySlug?.en || "";
   let legacySlugES = fields.legacySlug?.es || "";
   let legacySlugPT = fields.legacySlug?.pt || "";
@@ -94,6 +166,7 @@ function createMarkdownFile(entry) {
   const fs = require("fs");
 
   let fileNameEN = `${slugEN}.md`;
+  fileNameEN = fileNameEN.replace(/\?/g, ""); // remove all "?" characters
   //  let fileNameES = `${slugES}.md`;
   //  let fileNamePT = `${slugPT}.md`;
 
@@ -193,6 +266,7 @@ ${kiWorkaroundPT}
 
 `;
     fileFolders = "known-issues";
+    contentTypes.knownIssues.push(entry);
   } else if (contentType === "tutorial") {
     fileContentEN = `---
 title: ${titleEN}
@@ -246,6 +320,7 @@ subcategory: ${subcategory}
 ${textPT}
 `;
     fileFolders = "tutorials";
+    contentTypes.tutorials.push(entry);
   } else if (contentType === "trackArticle") {
     fileContentEN = `---
 title: ${titleEN}
@@ -296,6 +371,7 @@ trackSlugPT: ${trackSlugPT}
 ${textPT}
 `;
     fileFolders = `tracks`;
+    contentTypes.trackArticles.push(entry);
   } else if (contentType === "frequentlyAskedQuestion") {
     fileContentEN = `---
 title: ${titleEN}
@@ -346,6 +422,7 @@ legacySlug: ${legacySlugPT}
 ${textPT}
 `;
     fileFolders = "faq";
+    contentTypes.faqs.push(entry);
   } else if (contentType === "updates") {
     fileContentEN = `---
 title: ${titleEN}
@@ -399,17 +476,18 @@ announcementSynopsisPT: ${announcementSynopsisPT}
 ${textPT}
 `;
     fileFolders = `announcements`;
+    contentTypes.announcements.push(entry);
   } else if (contentType === "category") {
-    console.log("Content type not supported.");
+    contentTypes.categories.push(entry);
     return;
   } else if (contentType === "subcategory") {
-    console.log("Content type not supported.");
+    contentTypes.subcategories.push(entry);
     return;
   } else if (contentType === "trackTopic") {
-    console.log("Content type not supported.");
+    contentTypes.trackTopics.push(entry);
     return;
   } else {
-    console.log("Content type not identified.");
+    contentTypes.unknownContentTypes.push(entry);
     return;
   }
 
@@ -437,7 +515,8 @@ ${textPT}
       if (err) {
         console.log(`Error occurred while creating file ${filePath}:`, err);
       } else {
-        console.log(`File ${filePath} created successfully.`);
+        //        console.log(`File ${filePath} created successfully.`);
+        fileCount++;
       }
     });
   }
