@@ -25,7 +25,7 @@ function createMarkdownFile(entry) {
 
   let sys = entry.sys;
   let fields = entry.fields;
-//  console.log(fields);
+  //  console.log(fields);
 
   let entryId = sys.id;
   let entryType = sys.type;
@@ -37,9 +37,9 @@ function createMarkdownFile(entry) {
   let contentType = sys.contentType.sys.id;
   let productTeam = fields.xpTeam?.pt || "";
   let subcategory = fields.subcategory?.pt.sys.id || "";
-  let titleEN = fields.title.en;
-  let titleES = fields.title.es;
-  let titlePT = fields.title.pt;
+  let titleEN = fields.title.en || "";
+  let titleES = fields.title.es || "";
+  let titlePT = fields.title.pt || "";
   let author = fields.author?.pt[0].sys.id || "";
   let tag = fields.tag?.pt || "";
   let slugEN = fields.slug.en;
