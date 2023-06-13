@@ -29,12 +29,30 @@ function createMarkdownFile(entry) {
 
   let entryId = sys.id;
   let entryType = sys.type;
+
   let createdAt = sys.createdAt || "";
   let updatedAt = sys.updatedAt || "";
   let publishedAt = sys?.publishedAt || "";
   let firstPublishedAt = sys?.firstPublishedAt || "";
   let archivedAt = sys?.archivedAt || "";
   let contentType = sys.contentType.sys.id;
+  console.log(contentType);
+
+  if (contentType === "author") {
+    console.log("Content type not supported.");
+    return;
+  }
+  
+  let trackId = fields.trackId?.pt.sys.id || "";
+  let trackSlugEN = fields.trackSlug?.en || "";
+  let trackSlugES = fields.trackSlug?.es || "";
+  let trackSlugPT = fields.trackSlug?.pt || "";
+
+  if (contentType === "track") {
+    console.log("Content type not supported.");
+    return;
+  }
+
   let productTeam = fields.xpTeam?.pt || "";
   let subcategory = fields.subcategory?.pt.sys.id || "";
   let titleEN = fields.title.en || "";
@@ -42,9 +60,9 @@ function createMarkdownFile(entry) {
   let titlePT = fields.title.pt || "";
   let author = fields.author?.pt[0].sys.id || "";
   let tag = fields.tag?.pt || "";
-  let slugEN = fields.slug.en;
-  let slugES = fields.slug.es;
-  let slugPT = fields.slug.pt;
+  let slugEN = fields.slug.en || "";
+  let slugES = fields.slug.es || "";
+  let slugPT = fields.slug.pt || "";
   let legacySlugEN = fields.legacySlug?.en || "";
   let legacySlugES = fields.legacySlug?.es || "";
   let legacySlugPT = fields.legacySlug?.pt || "";
@@ -66,19 +84,12 @@ function createMarkdownFile(entry) {
   let kiWorkaroundPT = fields.workaround?.pt || "";
   let internalReference = fields.internalReference?.pt || "";
 
-  let trackId = fields.trackId?.pt.sys.id || "";
-  let trackSlugEN = fields.trackSlug?.en || "";
-  let trackSlugES = fields.trackSlug?.es || "";
-  let trackSlugPT = fields.trackSlug?.pt || "";
-
   let announcementImageID = fields.image?.pt.id || "";
   let announcementSynopsisEN = fields.synopsis?.en || "";
   let announcementSynopsisES = fields.synopsis?.es || "";
   let announcementSynopsisPT = fields.synopsis?.pt || "";
 
   // create .md files in locale folders for each item
-
-  console.log(contentType);
 
   const fs = require("fs");
 
@@ -284,7 +295,7 @@ trackSlugPT: ${trackSlugPT}
 
 ${textPT}
 `;
-    fileFolders = `tracks/${trackSlugEN}`;
+    fileFolders = `tracks`;
   } else if (contentType === "frequentlyAskedQuestion") {
     fileContentEN = `---
 title: ${titleEN}
@@ -394,13 +405,7 @@ ${textPT}
   } else if (contentType === "subcategory") {
     console.log("Content type not supported.");
     return;
-  } else if (contentType === "track") {
-    console.log("Content type not supported.");
-    return;
   } else if (contentType === "trackTopic") {
-    console.log("Content type not supported.");
-    return;
-  } else if (contentType === "author") {
     console.log("Content type not supported.");
     return;
   } else {
