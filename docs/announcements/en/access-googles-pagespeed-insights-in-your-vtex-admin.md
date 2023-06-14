@@ -11,7 +11,7 @@ author: 0QBQws7rk0t5Mnu8fgfUv
 slug: access-googles-pagespeed-insights-in-your-vtex-admin
 legacySlug: access-googles-pagespeed-insights-in-your-vtex-admin
 announcementImageID: 
-announcementSynopsisEN: Assess URL's performance through the new Webpage Performance screen, based on Google's PageSpeed Insights tool.
+excerpt: Assess URL's performance through the new Webpage Performance screen, based on Google's PageSpeed Insights tool.
 ---
 
 In the digital commerce market, providing an experience that does not allow the shopper to wait too long to find the information they need or to complete an order can be the competitive advantage between brands, racing for the same user's attention. Therefore, tracking your website's performance is important to measure and improve user experience, leading to a potential increase in sales.
