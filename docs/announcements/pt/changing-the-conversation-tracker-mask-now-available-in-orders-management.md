@@ -23,10 +23,10 @@ O [Conversation Tracker](https://help.vtex.com/pt/tutorial/conversation-tracker-
 **Todas as lojas já vem com a configuração Hard como padrão**.
 
 ## O que mudou?
- 
+
 Agora é possível mudar entre o modo Hard e Soft do Conversation Tracker acessando o módulo de Gerenciamento de Pedidos do seu Admin. Antes essa configuração estava disponível somente através do Master Data.
 
-<div class="alert alert-warning" role="alert"><strong>Atenção:</strong> Se possível, recomendamos manter sua máscara no modo Hard para a proteção de dados sensíveis dos seus clientes (como o seu e-mail).</div>
+> ⚠️ Atenção: Se possível, recomendamos manter sua máscara no modo Hard para a proteção de dados sensíveis dos seus clientes (como o seu e-mail).
 
 ## Por que realizamos esta mudança?
 
@@ -34,7 +34,7 @@ Algumas lojas precisavam que a configuração estivesse no modo Soft para conseg
 
 ## Isso vai afetar minha loja?
 
-Esta opção está disponível para todas as lojas, porém recomendamos que qualquer mudança de configuração seja feita __apenas se realmente necessária__. A configuração padrão para todas as lojas continuará sendo o modo Hard e só mudará caso você decida alterá-la.
+Esta opção está disponível para todas as lojas, porém recomendamos que qualquer mudança de configuração seja feita **apenas se realmente necessária**. A configuração padrão para todas as lojas continuará sendo o modo Hard e só mudará caso você decida alterá-la.
 
 ## Como alterar?
 

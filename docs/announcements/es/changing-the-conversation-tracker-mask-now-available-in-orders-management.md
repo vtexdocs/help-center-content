@@ -14,7 +14,7 @@ announcementImageID:
 announcementSynopsisES: Ahora es posible cambiar la máscara del Conversation Tracker (modos Soft y Hard) a través del módulo Gestión de Pedidos.
 ---
 
-[Conversation Tracker](https://help.vtex.com/es/tutorial/conversation-tracker--tutorials_195) se utiliza para unificar toda la comunicación realizada con un cliente durante el flujo de un pedido. Estos correos electrónicos, que también incluyen los mensajes enviados al correo electrónico del cliente por cualquier otro sistema integrado, se registran en la línea de tiempo del pedido en cuestión. 
+[Conversation Tracker](https://help.vtex.com/es/tutorial/conversation-tracker--tutorials_195) se utiliza para unificar toda la comunicación realizada con un cliente durante el flujo de un pedido. Estos correos electrónicos, que también incluyen los mensajes enviados al correo electrónico del cliente por cualquier otro sistema integrado, se registran en la línea de tiempo del pedido en cuestión.
 
 Conversation Tracker puede tener dos configuraciones de máscara:
 
@@ -26,20 +26,17 @@ Conversation Tracker puede tener dos configuraciones de máscara:
 
 ## ¿Qué cambió?
 
-Ahora es posible cambiar entre el modo Hard y Soft del Conversation Tracker accediendo al módulo de Gestión de Pedidos de su Admin. Antes, esta configuración estaba apenas disponible a través del Master Data. 
+Ahora es posible cambiar entre el modo Hard y Soft del Conversation Tracker accediendo al módulo de Gestión de Pedidos de su Admin. Antes, esta configuración estaba apenas disponible a través del Master Data.
 
-<div style="alert alert-warning"><strong>Atención:</strong> Si es posible, recomendamos mantener su máscara en el modo Hard para la protección de los datos sensibles de sus clientes (como su correo electrónico).</div>
+> ⚠️ Atención: Si es posible, recomendamos mantener su máscara en el modo Hard para la protección de los datos sensibles de sus clientes (como su correo electrónico).
 
-
-## ¿Por qué hicimos este cambio? 
+## ¿Por qué hicimos este cambio?
 
 Algunos clientes necesitaban que la configuración estuviera en modo "Soft" para poder integrar su tienda VTEX con algunos sistemas externos, como ERPs.
-
 
 ## ¿Esto afectará a mi tienda?
 
 Si el cambio de configuración es realmente necesario, ahora es posible hacerlo más fácilmente. Solo cambie al modo Soft si es necesario, el modo Hard sigue siendo el predeterminado para todas las tiendas.
-
 
 ## ¿Cómo cambiarlo?
 
