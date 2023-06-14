@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: access-googles-pagespeed-insights-in-your-vtex-admin
+locale: en
 legacySlug: access-googles-pagespeed-insights-in-your-vtex-admin
 announcementImageID: ''
 announcementSynopsisEN: "Assess URL's performance through the new Webpage Performance screen, based on Google's PageSpeed Insights tool."
