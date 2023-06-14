@@ -1,5 +1,5 @@
 ---
-title: inStore onboarding process improvement for a seamless experience
+title: "inStore onboarding process improvement for a seamless experience"
 id: 73mV4YZfVo6YVC3Lkxw805
 status: PUBLISHED
 createdAt: 2023-04-13T18:20:12.438Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: new-version-instore-setup
 legacySlug: new-version-instore-setup
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: New version of inStore Setup now provides automatic settings
 ---
 

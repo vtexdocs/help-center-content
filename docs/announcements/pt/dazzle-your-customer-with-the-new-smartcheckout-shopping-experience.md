@@ -1,5 +1,5 @@
 ---
-title: Encante seu cliente com a nova experiência de compra do SmartCheckout
+title: "Encante seu cliente com a nova experiência de compra do SmartCheckout"
 id: 47B91RA1WNhUfTNg5iGU0J
 status: PUBLISHED
 createdAt: 2019-05-21T22:16:15.673Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: authors_59
 slug: encante-seu-cliente-com-a-nova-experiencia-de-compra-do-smartcheckout
 legacySlug: encante-seu-cliente-com-a-nova-experiencia-de-compra-do-smartcheckout
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Saiba mais sobre as novas features do Checkout v6
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: PSE: Medio de pago para clientes en Colombia
+title: "PSE: Medio de pago para clientes en Colombia"
 id: 4T22CHOcEV3Nb2RtkJZOFB
 status: PUBLISHED
 createdAt: 2022-05-18T17:57:33.804Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: pse-medio-de-pago-para-clientes-en-colombia
 legacySlug: pse-medio-de-pago-para-clientes-en-colombia
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES:  meta-description Procesa tus ventas con uno de los medios de pago más conocidos en Colombia.
 ---
 

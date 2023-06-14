@@ -1,5 +1,5 @@
 ---
-title: Código do vendedor: evoluções na customização do inStore 
+title: "Código do vendedor: evoluções na customização do inStore "
 id: 4DsmWN3XTpdnTtNbiaxEs1
 status: PUBLISHED
 createdAt: 2021-02-04T11:40:06.468Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: codigo-vendedor-evolucoes-customizacao-instore
 legacySlug: codigo-do-vendedor-evolucoes-na-customizacao-do-instore
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Agora o cliente pode tornar o código de vendedor uma etapa obrigatória para a finalização de uma venda.
 ---
 

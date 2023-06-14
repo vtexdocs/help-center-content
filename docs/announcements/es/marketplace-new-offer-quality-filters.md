@@ -1,5 +1,5 @@
 ---
-title: Marketplace: nuevos filtros de calidad de anuncios
+title: "Marketplace: nuevos filtros de calidad de anuncios"
 id: 1fECC7oAziTif74cUV7Ess
 status: PUBLISHED
 createdAt: 2023-02-27T13:47:16.607Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: marketplace-nuevos-filtros-de-calidad-de-anuncios
 legacySlug: marketplace-nuevos-filtros-de-calidad-de-anuncios
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Lanzamos una nueva página de configuración para que los marketplaces creen requisitos para la aprobación de anuncios.
 ---
 

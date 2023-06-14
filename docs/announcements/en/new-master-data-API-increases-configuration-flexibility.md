@@ -1,5 +1,5 @@
 ---
-title: New Master Data API increases configuration flexibility
+title: "New Master Data API increases configuration flexibility"
 id: 46r2SSSWz6QQWyYwGyGwme
 status: PUBLISHED
 createdAt: 2017-12-22T14:29:00.901Z
@@ -10,7 +10,7 @@ productTeam: Master Data
 author: authors_24
 slug: new-master-data-API-increases-configuration-flexibility
 legacySlug: new-master-data-api-improves-setup-flexibility
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: New version brings features that allow more flexibility of configuration of the structures stored in Master Data
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Lançamentos de marketplace VTEX em 2022
+title: "Lançamentos de marketplace VTEX em 2022"
 id: 2hrbiew2bPvU7TJNZcLQDM
 status: PUBLISHED
 createdAt: 2022-10-17T20:24:03.654Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: lancamentos-de-marketplace-vtex-em-2022
 legacySlug: lancamentos-de-marketplace-vtex-em-2022
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Lançamos quatro novas funcionalidades para acelerar sua operação de marketplace.
 ---
 

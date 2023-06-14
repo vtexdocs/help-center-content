@@ -1,5 +1,5 @@
 ---
-title: Conheça o assistente de segurança do License Manager
+title: "Conheça o assistente de segurança do License Manager"
 id: dVVRgVI2Z2cwCWMOIKMoe
 status: PUBLISHED
 createdAt: 2018-03-12T18:56:44.981Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: 245tA425AIeioKAk2eaiwS
 slug: conheca-o-assistente-de-seguranca-do-license-manager
 legacySlug: conheca-o-assistente-de-seguranca-do-license-manager
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Uma nova feature que ajuda você a gerenciar e revisar permissões de quem acessa o admin da sua loja.
 ---
 

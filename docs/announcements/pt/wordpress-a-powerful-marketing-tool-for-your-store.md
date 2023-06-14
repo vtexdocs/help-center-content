@@ -1,5 +1,5 @@
 ---
-title: WordPress: uma poderosa ferramenta de marketing para sua loja
+title: "WordPress: uma poderosa ferramenta de marketing para sua loja"
 id: 01uDrNIgvAvHQK2H4wZ6uU
 status: PUBLISHED
 createdAt: 2021-03-15T12:39:28.150Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: wordpress-uma-poderosa-ferramenta-de-marketing-para-sua-loja
 legacySlug: wordpress-uma-poderosa-ferramenta-de-marketing-para-sua-loja
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: As lojas desenvolvidas com VTEX IO agora podem apresentar páginas e postagens do blog da marca dentro da loja.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: O Marketplace Network foi aprimorado
+title: "O Marketplace Network foi aprimorado"
 id: 3OZNGPYF1IF3lXnrFn4u8B
 status: PUBLISHED
 createdAt: 2021-06-09T17:26:17.536Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: o-marketplace-network-foi-aprimorado
 legacySlug: o-marketplace-network-foi-aprimorado
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: O Marketplace Network foi aprimorado e adicionado em todas as lojas que atuam como sellers ou marketplaces.
 ---
 

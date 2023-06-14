@@ -1,5 +1,5 @@
 ---
-title: Cambiamos la implementación del "Precio Máximo por Artículo"
+title: "Cambiamos la implementación del "Precio Máximo por Artículo""
 id: 2snrUcdlt2C8QIq2yqaUww
 status: DRAFT
 createdAt: 2017-10-30T19:12:11.257Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 
 slug: promoción-del-tipo-precio-maximo-por-articulo-dejara-de-existir
 legacySlug: promoción-del-tipo-precio-maximo-por-articulo-dejara-de-existir
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: 
 ---
 

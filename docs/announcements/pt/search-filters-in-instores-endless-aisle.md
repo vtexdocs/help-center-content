@@ -1,5 +1,5 @@
 ---
-title: Filtros de busca na Prateleira Infinita do inStore
+title: "Filtros de busca na Prateleira Infinita do inStore"
 id: 7wRkHWBnad2W1xILet7fyw
 status: PUBLISHED
 createdAt: 2021-12-02T16:43:25.612Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
 slug: filtros-de-busca-na-prateleira-infinita-do-instore
 legacySlug: filtros-de-busca-na-prateleira-infinita-do-instore
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Os filtros de busca do VTEX Intelligent Search agora estão disponíveis na Prateleira Infinita do inStore.
 ---
 

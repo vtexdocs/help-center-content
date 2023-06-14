@@ -1,5 +1,5 @@
 ---
-title: Master Data permite búsquedas con coordenadas
+title: "Master Data permite búsquedas con coordenadas"
 id: 67KY1C6Aowo4eOwIIuc6yE
 status: DRAFT
 createdAt: 2018-05-03T18:47:16.773Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 
 slug: master-data-permite-busquedas-con-coordenadas
 legacySlug: 
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Nueva feature (en beta) permite utilizar filtros y ordenar documentos basados en la posición geográfica.
 ---
 

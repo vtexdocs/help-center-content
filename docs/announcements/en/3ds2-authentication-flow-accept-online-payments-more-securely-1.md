@@ -1,5 +1,5 @@
 ---
-title: 3DS2 authentication flow: accept online payments more securely
+title: "3DS2 authentication flow: accept online payments more securely"
 id: 6UdTjjVU1AcEQ2aE3Ftxsl
 status: PUBLISHED
 createdAt: 2020-12-21T21:03:33.860Z

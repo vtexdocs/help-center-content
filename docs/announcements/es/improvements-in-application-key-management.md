@@ -1,5 +1,5 @@
 ---
-title: Mejoras en la gestión de claves de aplicación
+title: "Mejoras en la gestión de claves de aplicación"
 id: 6DsPdiQ65RKNUNl7p93zHJ
 status: PUBLISHED
 createdAt: 2021-08-19T14:45:15.177Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: mejoras-en-la-gestion-de-claves-de-aplicacion
 legacySlug: mejoras-en-la-gestion-de-claves-de-aplicacion
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Administre sus credenciales de autenticación en un solo lugar y delegue esa responsabilidad según sea necesario.
 ---
 

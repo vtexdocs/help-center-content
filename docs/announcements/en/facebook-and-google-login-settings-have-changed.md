@@ -1,5 +1,5 @@
 ---
-title: Facebook and Google login settings have changed
+title: "Facebook and Google login settings have changed"
 id: 362ARlvHIIOWykC8Y80i42
 status: PUBLISHED
 createdAt: 2017-10-25T21:16:58.154Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: authors_24
 slug: facebook-and-google-login-settings-have-changed
 legacySlug: facebook-and-google-login-settings-have-changed
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: The flag "Use VTEX keys" has been disabled and the retailer needs to set up his own
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Integración VTEX con Magazine Luiza ya está disponible para todas las tiendas
+title: "Integración VTEX con Magazine Luiza ya está disponible para todas las tiendas"
 id: 7dvMjvwUY8SEmY6i4aSaGy
 status: PUBLISHED
 createdAt: 2018-12-19T11:59:55.315Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 245tA425AIeioKAk2eaiwS
 slug: integracion-vtex-con-magazine-luiza-ya-esta-disponible-para-todas-las
 legacySlug: integracion-vtex-con-magazine-luiza-ya-esta-disponible-para-todas-las
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Solución de VTEX reemplaza integraciones externas y ofrece más recursos y soporte total de nuestro equipo.
 ---
 

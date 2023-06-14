@@ -1,5 +1,5 @@
 ---
-title: Build customer loyalty with the new subscription promotion option
+title: "Build customer loyalty with the new subscription promotion option"
 id: 2Mm1LBBnh9D3x4UyBlgP4t
 status: CHANGED
 createdAt: 2019-10-31T14:13:53.081Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 1E4UkWguFZAXjkguvNHPIv
 slug: build-customer-loyalty-with-the-new-subscription-promotion-option
 legacySlug: build-customer-loyalty-with-the-new-subscription-promotion-option
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Build customer loyalty with the new subscription promotion option
 ---
 

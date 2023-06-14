@@ -1,5 +1,5 @@
 ---
-title: Get your store ready for the Shopping Season with our Best Practices Guide
+title: "Get your store ready for the Shopping Season with our Best Practices Guide"
 id: 17fdhSUJLA4Y2Cg9wM1Q0u
 status: PUBLISHED
 createdAt: 2022-10-19T21:11:35.895Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: get-your-store-ready-for-shopping-season-with-our-best-practices-guide-2022
 legacySlug: 
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Follow our recommendations and exclusive tips to make the most out of this year's Black Friday.
 ---
 

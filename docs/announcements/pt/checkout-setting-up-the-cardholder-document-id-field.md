@@ -1,5 +1,5 @@
 ---
-title: Checkout - Configuração do campo de identificação do titular do cartão
+title: "Checkout - Configuração do campo de identificação do titular do cartão"
 id: R5Pz4ofU9ueB2e5bMhSWH
 status: PUBLISHED
 createdAt: 2022-04-29T12:21:40.419Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: checkout-configuracao-do-campo-de-identificacao-do-titular-do-cartao
 legacySlug: checkout-configuracao-do-campo-de-identificacao-do-titular-do-cartao
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Configurando a exibição do campo de identificação do titular do cartão no checkout.
 ---
 

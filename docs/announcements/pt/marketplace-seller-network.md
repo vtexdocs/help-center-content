@@ -1,5 +1,5 @@
 ---
-title: Marketplace Seller Network: expanda seus canais de vendas e conecte-se a marketplaces líderes do mercado.
+title: "Marketplace Seller Network: expanda seus canais de vendas e conecte-se a marketplaces líderes do mercado."
 id: 4YnKTYlYoiElZixsdE2F1x
 status: DRAFT
 createdAt: 2020-11-17T12:02:15.262Z
@@ -10,7 +10,7 @@ productTeam: Apps
 author: vztwQkZv4z6EwDVwdqbsw
 slug: marketplace-seller-network
 legacySlug: marketplace-seller-network
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Expanda seus canais de vendas e conecte-se a marketplaces líderes do mercado com o Marketplace Seller Network.
 ---
 

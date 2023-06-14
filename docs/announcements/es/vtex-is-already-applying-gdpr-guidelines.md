@@ -1,5 +1,5 @@
 ---
-title: VTEX ya está aplicando las directrices del GDPR
+title: "VTEX ya está aplicando las directrices del GDPR"
 id: 1ZJH2olNXeCEkqIY2eaEQe
 status: PUBLISHED
 createdAt: 2018-05-25T12:31:17.354Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: authors_24
 slug: vtex-ya-esta-aplicando-las-directrices-del-gdpr
 legacySlug: vtex-ya-esta-aplicando-las-directrices-del-gdpr
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Nuestro compromiso con la transparencia y la seguridad de la información ha sido reforzado por nuestra adhesión al GDPR.
 ---
 

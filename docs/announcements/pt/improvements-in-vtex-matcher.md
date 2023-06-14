@@ -1,5 +1,5 @@
 ---
-title: Melhorias no matcher da VTEX
+title: "Melhorias no matcher da VTEX"
 id: 13KA505i1EQT24u7CPIPrP
 status: PUBLISHED
 createdAt: 2021-06-10T12:17:25.857Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: melhorias-no-matcher-da-vtex
 legacySlug: melhorias-no-matcher-da-vtex
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Reformulamos o matcher da VTEX para aprimorar a catalogação de SKUs do seller, no marketplace
 ---
 

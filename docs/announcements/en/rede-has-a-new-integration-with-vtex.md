@@ -1,5 +1,5 @@
 ---
-title: Rede has a new integration with VTEX
+title: "Rede has a new integration with VTEX"
 id: zU5CPR5Doc4KYyyOoSAuO
 status: PUBLISHED
 createdAt: 2018-04-13T15:51:42.977Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: authors_24
 slug: rede-has-a-new-integration-with-vtex
 legacySlug: rede-has-a-new-integration-with-vtex
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: ERedeRest accepts payment methods that use preauth and has full compatibility with Apple Pay.
 ---
 

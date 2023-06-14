@@ -1,5 +1,5 @@
 ---
-title: Ya está live el nuevo Order Placed
+title: "Ya está live el nuevo Order Placed"
 id: 4tAmWn79M44eCqwgeyMM68
 status: PUBLISHED
 createdAt: 2017-10-26T17:24:24.087Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: authors_24
 slug: ya-esta-live-el-nuevo-order-placed
 legacySlug: ya-esta-live-el-nuevo-order-placed
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: La nueva versión de la página de confirmación de pedido ya está disponible
 ---
 

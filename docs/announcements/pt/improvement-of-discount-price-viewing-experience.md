@@ -1,5 +1,5 @@
 ---
-title: Melhoria na visualização de preços com desconto
+title: "Melhoria na visualização de preços com desconto"
 id: 2qU1yejVHL8xbLjxmNrXvk
 status: DRAFT
 createdAt: 2021-04-19T13:06:53.118Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: melhoria-na-visualizacao-de-precos-com-desconto
 legacySlug: melhoria-na-visualizacao-de-precos-com-desconto
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT:  Melhoria na visualização de preços no Checkout quando há descontos aplicáveis a um número limitado de parcelas.
 ---
 

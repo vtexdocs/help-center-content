@@ -1,5 +1,5 @@
 ---
-title: Crie apps back-end com a praticidade do novo TypedQL Builder
+title: "Crie apps back-end com a praticidade do novo TypedQL Builder"
 id: PcQomKRQjJshUVKD5QJ7m
 status: DRAFT
 createdAt: 2019-02-18T20:46:30.765Z
@@ -10,7 +10,7 @@ productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
 slug: facilite-a-criacao-de-apps-backend-em-graphql-typescript-para-o-vtex-io-com
 legacySlug: facilite-a-criacao-de-apps-backend-em-graphql-typescript-para-o-vtex-io-com
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Novo builder do VTEX.IO diminui duplicidade de código em apps que utilizam GraphQL e TypeScript.
 ---
 

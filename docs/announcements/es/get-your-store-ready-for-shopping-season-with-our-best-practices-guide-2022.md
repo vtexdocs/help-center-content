@@ -1,5 +1,5 @@
 ---
-title: Prepare su tienda para la Temporada de Compras con nuestra Guía de Buenas Prácticas
+title: "Prepare su tienda para la Temporada de Compras con nuestra Guía de Buenas Prácticas"
 id: 17fdhSUJLA4Y2Cg9wM1Q0u
 status: PUBLISHED
 createdAt: 2022-10-19T21:11:35.895Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: prepare-su-tienda-para-la-temporada-de-compras-con-nuestra-guia-de-buenas-practicas-2022
 legacySlug: 
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Siga nuestras recomendaciones y consejos para aprovechar todas las oportunidades de venta del Black Friday.
 ---
 

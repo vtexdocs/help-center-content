@@ -1,5 +1,5 @@
 ---
-title: Customer Credit: otimize processos com recursos em massa
+title: "Customer Credit: otimize processos com recursos em massa"
 id: xoAyucVX5e0DVUgxASoU0
 status: CHANGED
 createdAt: 2020-04-09T14:37:18.026Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: customer-credit-otimize-processos-com-recursos-em-massa
 legacySlug: customer-credit-otimize-processos-com-recursos-em-massa
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Agora a app Customer Credit permite operações em massa para atualizar títulos e importar ou atualizar contas.
 ---
 

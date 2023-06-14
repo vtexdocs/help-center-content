@@ -1,5 +1,5 @@
 ---
-title: Improvement of discount price viewing experience
+title: "Improvement of discount price viewing experience"
 id: 2qU1yejVHL8xbLjxmNrXvk
 status: DRAFT
 createdAt: 2021-04-19T13:06:53.118Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: improvement-of-discount-price-viewing-experience
 legacySlug: improvement-of-discount-price-viewing-experience
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: We are improving how prices are displayed at Checkout when discounts apply only to limited number of installments.
 ---
 

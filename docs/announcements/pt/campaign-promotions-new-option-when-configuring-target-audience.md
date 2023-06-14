@@ -1,5 +1,5 @@
 ---
-title: Promoções de campanha: nova opção ao configurar público-alvo
+title: "Promoções de campanha: nova opção ao configurar público-alvo"
 id: UJOyf1nYJ0xHXl88RytJ5
 status: PUBLISHED
 createdAt: 2022-07-22T14:00:40.004Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: promocoes-de-campanha-nova-opcao-ao-configurar-publico-alvo
 legacySlug: promocoes-de-campanha-nova-opcao-ao-configurar-publico-alvo
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Utilize múltiplos públicos-alvo em uma audiência de campanha simultaneamente, em vez de aplicar um ou outro público.
 ---
 

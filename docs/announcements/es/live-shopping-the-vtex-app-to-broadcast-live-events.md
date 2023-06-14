@@ -1,5 +1,5 @@
 ---
-title: Live Shopping: la aplicación VTEX para transmitir eventos en vivo 
+title: "Live Shopping: la aplicación VTEX para transmitir eventos en vivo "
 id: 2ZSib7I86QU37fYq2wivFt
 status: PUBLISHED
 createdAt: 2021-08-19T16:12:43.689Z
@@ -10,7 +10,7 @@ productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: live-shopping-la-aplicacion-vtex-para-transmitir-eventos-en-vivo
 legacySlug: live-shopping-la-aplicacion-vtex-para-transmitir-eventos-en-vivo
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: La aplicación permite a las tiendas transmitir en vivo, vender productos e interactuar en tiempo real con los clientes.
 ---
 

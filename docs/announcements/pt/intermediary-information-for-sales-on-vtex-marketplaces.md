@@ -1,5 +1,5 @@
 ---
-title: Dados de intermediador para vendas em marketplaces VTEX
+title: "Dados de intermediador para vendas em marketplaces VTEX"
 id: 1gNXqhQbudnvOkx7uHfoPB
 status: PUBLISHED
 createdAt: 2021-06-10T18:39:24.021Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: dados-de-intermediador-para-vendas-em-marketplaces-vtex
 legacySlug: dados-de-intermediador-para-vendas-em-marketplaces-vtex
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Estão sendo disponibilizados dados de intermediador para vendas feitas em marketplaces VTEX.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Melhorias no VTEX Sales App: novas funcionalidades para aprimorar a experiência do cliente na loja física
+title: "Melhorias no VTEX Sales App: novas funcionalidades para aprimorar a experiência do cliente na loja física"
 id: 4Z9I6AwY3UcNdhHpgrdXfa
 status: PUBLISHED
 createdAt: 2023-05-25T00:06:35.147Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: melhorias-no-vtex-sales-app-novas-funcionalidades-para-aprimorar-a
 legacySlug: melhorias-no-vtex-sales-app-novas-funcionalidades-para-aprimorar-a
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Aprimoramentos para lojas físicas, incluindo nova funcionalidade de Venda em Mãos e sugestões de produtos similares.
 ---
 

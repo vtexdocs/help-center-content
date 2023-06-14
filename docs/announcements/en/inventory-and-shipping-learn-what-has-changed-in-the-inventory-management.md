@@ -1,5 +1,5 @@
 ---
-title: Inventory & Shipping: learn what has changed in the "Inventory management" tab 
+title: "Inventory & Shipping: learn what has changed in the "Inventory management" tab "
 id: 6AKTFKEdVMyjRdDBv3vGkv
 status: PUBLISHED
 createdAt: 2020-10-29T15:15:14.224Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: inventory-and-shipping-learn-what-has-changed-in-the-inventory-management
 legacySlug: inventory-and-shipping-learn-what-has-changed-in-the-inventory-management
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Besides optimizing the interface usability, we have changed the name of the tab to Inventory management.
 ---
 

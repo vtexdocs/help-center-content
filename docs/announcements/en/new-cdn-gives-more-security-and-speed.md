@@ -1,5 +1,5 @@
 ---
-title: New CDN gives more security and speed
+title: "New CDN gives more security and speed"
 id: 5TQuQkP5bGECyysAK2Cwkq
 status: PUBLISHED
 createdAt: 2017-12-12T13:30:36.331Z
@@ -10,7 +10,7 @@ productTeam: Reliability
 author: authors_24
 slug: new-cdn-gives-more-security-and-speed
 legacySlug: new-cdn-gives-more-security-and-speed
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: The new CDN is an improved content delivery solution for all stores
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Changes to Via Varejo product integration
+title: "Changes to Via Varejo product integration"
 id: 4iWQ1Kr44tw68pQ7yyL2bu
 status: CHANGED
 createdAt: 2020-04-06T23:53:19.365Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: category-mapping-now-required-for-via-varejo-marketplace
 legacySlug: changes-in-via-varejo-product-integration
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Make products more quickly available on the Via Varejo Marketplace by mapping categories, variations and attributes.
 ---
 

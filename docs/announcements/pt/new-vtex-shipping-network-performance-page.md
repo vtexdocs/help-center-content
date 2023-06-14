@@ -1,5 +1,5 @@
 ---
-title: Novo painel de Performance VTEX Shipping Network
+title: "Novo painel de Performance VTEX Shipping Network"
 id: 6bJ4JsbIhZKfJ2vA2NZp1g
 status: PUBLISHED
 createdAt: 2021-04-07T14:08:42.575Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: nova-tela-de-performance-vtex-shipping-network
 legacySlug: nova-tela-de-performance-vtex-log
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT:  Tela de performance renovada melhora a experiência no acompanhamento de desempenho das transportadoras. 
 ---
 

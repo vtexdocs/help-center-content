@@ -1,5 +1,5 @@
 ---
-title: Marketplace: new offer quality filters
+title: "Marketplace: new offer quality filters"
 id: 1fECC7oAziTif74cUV7Ess
 status: PUBLISHED
 createdAt: 2023-02-27T13:47:16.607Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: marketplace-new-offer-quality-filters
 legacySlug: marketplace-new-offer-quality-filters
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: We have launched a new configuration page so marketplaces can create requirements for approving offers.
 ---
 

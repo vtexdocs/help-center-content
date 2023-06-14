@@ -1,5 +1,5 @@
 ---
-title: Faça vendas maiores com o carrinho compartilhado
+title: "Faça vendas maiores com o carrinho compartilhado"
 id: 1gvY2p1Rc9hjkfyVvOHY2C
 status: PUBLISHED
 createdAt: 2019-02-18T21:26:10.613Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 245tA425AIeioKAk2eaiwS
 slug: faca-vendas-maiores-com-o-carrinho-compartilhado
 legacySlug: faca-vendas-maiores-com-o-carrinho-compartilhado
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: O carrinho compartilhado já está disponível para todas as lojas, permitindo que mais de um cliente interaja com ele.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Nuevo diseño de la página Productos y SKU
+title: "Nuevo diseño de la página Productos y SKU"
 id: 3jdF8XSaKdBvTl3LqeOH6h
 status: PUBLISHED
 createdAt: 2023-04-10T13:14:10.542Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: nuevo-diseno-de-la-pagina-productos-y-sku
 legacySlug: nuevo-diseno-de-la-pagina-productos-y-sku
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: El nuevo diseño de la página Productos y SKUs permite gestionar el catálogo de tu tienda de forma más eficaz.
 ---
 

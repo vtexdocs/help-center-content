@@ -1,5 +1,5 @@
 ---
-title: Actualización permite mayor personalización en el módulo Promociones
+title: "Actualización permite mayor personalización en el módulo Promociones"
 id: 44YUkn7Xk5FfnQWcGvpl6p
 status: PUBLISHED
 createdAt: 2019-08-12T21:34:06.744Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 1E4UkWguFZAXjkguvNHPIv
 slug: actualizacion-permite-mayor-personalizacion-en-el-modulo-promociones
 legacySlug: actualizacion-permite-mayor-personalizacion-en-el-modulo-promociones
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Realizamos una actualización en el módulo Promociones.
 ---
 

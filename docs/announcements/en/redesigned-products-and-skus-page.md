@@ -1,5 +1,5 @@
 ---
-title: Redesigned Products & SKUs page
+title: "Redesigned Products & SKUs page"
 id: 3jdF8XSaKdBvTl3LqeOH6h
 status: PUBLISHED
 createdAt: 2023-04-10T13:14:10.542Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: redesigned-products-and-skus-page
 legacySlug: redesigned-products-and-skus-page
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: The redesigned Products and SKUs interface allows you to manage your store's Catalog more efficiently and intuitively.
 ---
 

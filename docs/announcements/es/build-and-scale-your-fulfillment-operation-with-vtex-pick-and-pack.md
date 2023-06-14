@@ -1,5 +1,5 @@
 ---
-title: Crea y amplía tu operación de fulfillment con VTEX Pick and Pack
+title: "Crea y amplía tu operación de fulfillment con VTEX Pick and Pack"
 id: 5kaHPAss7KHnplbJyUsPmw
 status: PUBLISHED
 createdAt: 2023-04-06T18:48:49.599Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: crea-y-amplia-tu-operacion-de-fulfillment-con-vtex-pick-and-pack
 legacySlug: crea-y-amplia-tu-operacion-de-fulfillment-con-vtex-pick-and-pack
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: VTEX Pick and Pack proporciona un único lugar para que merchants gestionen el alistamiento, empaque y entrega last-mile.
 ---
 

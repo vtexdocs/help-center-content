@@ -1,5 +1,5 @@
 ---
-title: IP and geolocation info is now provided in emails containing login access codes
+title: "IP and geolocation info is now provided in emails containing login access codes"
 id: 7FWf5mds1Wn3thuzb1uMzq
 status: PUBLISHED
 createdAt: 2020-11-12T20:11:43.221Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: ip-and-geolocation-info-is-now-provided-in-emails-containing-access-code-requests
 legacySlug: ip-and-geolocation-info-is-now-provided-in-emails-containing-login-access
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Emails containing login access code now contain information about the device that made the request.
 ---
 

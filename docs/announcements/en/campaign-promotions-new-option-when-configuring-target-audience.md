@@ -1,5 +1,5 @@
 ---
-title: Campaign promotions: New option when configuring target audience
+title: "Campaign promotions: New option when configuring target audience"
 id: UJOyf1nYJ0xHXl88RytJ5
 status: PUBLISHED
 createdAt: 2022-07-22T14:00:40.004Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: campaign-promotions-new-option-when-configuring-target-audience
 legacySlug: campaign-promotions-new-option-when-configuring-target-audience
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Use multiple target audiences in a campaign audience simultaneously, instead of applying audiences alternatively.
 ---
 

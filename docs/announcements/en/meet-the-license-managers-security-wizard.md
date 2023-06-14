@@ -1,5 +1,5 @@
 ---
-title: Meet the License Manager's Security Wizard
+title: "Meet the License Manager's Security Wizard"
 id: dVVRgVI2Z2cwCWMOIKMoe
 status: PUBLISHED
 createdAt: 2018-03-12T18:56:44.981Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: 245tA425AIeioKAk2eaiwS
 slug: meet-the-license-managers-security-wizard
 legacySlug: meet-the-license-managers-security-wizard
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: A new feature that helps you manage and revise the permissions of who has access to your store's admin.
 ---
 

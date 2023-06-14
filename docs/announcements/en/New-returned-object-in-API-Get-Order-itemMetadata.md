@@ -1,5 +1,5 @@
 ---
-title: New returned object in API Get Order  "itemMetadata"
+title: "New returned object in API Get Order  "itemMetadata""
 id: 473vn32oLLH2qyep29rpi
 status: PUBLISHED
 createdAt: 2019-04-08T16:33:34.076Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 5V92cmF9jG8KG600EwUgEg
 slug: New-returned-object-in-API-Get-Order-itemMetadata
 legacySlug: New-returned-object-in-API-Get-Order-itemMetadata
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: As of May 1, 2019, the request JSON will return a new object called itemMetadata.
 ---
 

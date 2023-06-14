@@ -1,5 +1,5 @@
 ---
-title: Ahora es posible restringir el acceso de los usuarios en la en la pantalla de Configuración del módulo Gestión de Pedidos
+title: "Ahora es posible restringir el acceso de los usuarios en la en la pantalla de Configuración del módulo Gestión de Pedidos"
 id: 6z7TjQRMNWTmR1lKivjehn
 status: PUBLISHED
 createdAt: 2019-06-07T14:18:18.903Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: ahora-es-posible-restringir-el-acceso-de-los-usuarios-en-la-en-la-pantalla
 legacySlug: ahora-es-posible-restringir-el-acceso-de-los-usuarios-en-la-en-la-pantalla
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Posibilidad de limitar perfiles de acceso a la pantalla Confiuración
 ---
 

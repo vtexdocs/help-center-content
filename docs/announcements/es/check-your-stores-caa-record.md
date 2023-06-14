@@ -1,5 +1,5 @@
 ---
-title: Revise las entradas CAA en su tienda
+title: "Revise las entradas CAA en su tienda"
 id: 4mBSMpdCByI4c6G64G82Um
 status: PUBLISHED
 createdAt: 2018-11-01T14:32:53.355Z
@@ -10,7 +10,7 @@ productTeam: Reliability
 author: 245tA425AIeioKAk2eaiwS
 slug: actualiza-las-entradas-caa-en-su-tienda
 legacySlug: actualiza-las-entradas-caa-en-su-tienda
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Recomendamos que actualice las entradas CAA de sus administradores DNS hasta 9/11.
 ---
 

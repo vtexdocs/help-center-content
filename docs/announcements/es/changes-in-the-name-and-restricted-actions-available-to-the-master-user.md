@@ -1,5 +1,5 @@
 ---
-title: Cambios en el nombre y acciones restringidas disponibles para el usuario master
+title: "Cambios en el nombre y acciones restringidas disponibles para el usuario master"
 id: 3XBZFTugszl4PmPCMhOtkh
 status: PUBLISHED
 createdAt: 2021-11-08T21:06:05.854Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: 4SqDPmUJIIz2KMMKgiyqKl
 slug: cambios-en-el-nombre-y-acciones-restringidas-disponibles-para-el-usuario
 legacySlug: cambios-en-el-nombre-y-acciones-restringidas-disponibles-para-el-usuario
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: La gestión de las credenciales de autenticación ya no está restringida al usuario titular.
 ---
 

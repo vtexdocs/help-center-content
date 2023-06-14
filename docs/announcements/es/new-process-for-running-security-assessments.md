@@ -1,5 +1,5 @@
 ---
-title: Nuevo proceso para realizar evaluaciones de seguridad
+title: "Nuevo proceso para realizar evaluaciones de seguridad"
 id: 1H5xtoOUUMhyEbLiFduOtx
 status: PUBLISHED
 createdAt: 2022-12-15T18:00:10.053Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: nuevo-proceso-para-realizar-evaluaciones-de-seguridad
 legacySlug: nuevo-proceso-para-realizar-evaluaciones-de-seguridad
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: El Nuevo proceso le permite solicitar realizar una evaluación de seguridad y enviar un informe de vulnerabilidad.
 ---
 

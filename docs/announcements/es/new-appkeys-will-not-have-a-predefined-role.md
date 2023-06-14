@@ -1,5 +1,5 @@
 ---
-title: Las nuevas appKeys se crearán sin un perfil de acceso predeterminado
+title: "Las nuevas appKeys se crearán sin un perfil de acceso predeterminado"
 id: tOWdNXkLWdW9hRdGhJw0R
 status: PUBLISHED
 createdAt: 2021-01-06T19:24:51.000Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: las-nuevas-appkeys-se-crearan-sin-un-perfil-de-acceso-predeterminado
 legacySlug: las-nuevas-appkeys-se-crearan-sin-un-perfil-de-acceso-predeterminado
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Las appKeys ya no recibirán el perfil de acceso Owner por estándar
 ---
 

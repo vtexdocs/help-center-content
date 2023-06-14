@@ -1,5 +1,5 @@
 ---
-title: Novo checkout do VTEX Sales App
+title: "Novo checkout do VTEX Sales App"
 id: 7g2D5NZmdJRFmzZsDCMU18
 status: PUBLISHED
 createdAt: 2023-05-22T14:32:02.896Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 5l3eEiSz8MpcppCxcnijGz
 slug: novo-checkout-do-vtex-sales-app
 legacySlug: novo-checkout-do-vtex-sales-app
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Pensando em uma experiência de checkout mais simples, desenvolvemos o novo checkout do Sales App.
 ---
 

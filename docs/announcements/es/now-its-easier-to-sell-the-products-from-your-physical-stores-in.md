@@ -1,5 +1,5 @@
 ---
-title: Ahora es más fácil vender los productos de sus tiendas físicas en los marketplaces
+title: "Ahora es más fácil vender los productos de sus tiendas físicas en los marketplaces"
 id: 2rOEBV0tOAoZIgow7CODyj
 status: PUBLISHED
 createdAt: 2019-03-12T21:54:26.822Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 6AcGyun1hSWewU8YcaQiO
 slug: ahora-es-mas-facil-vender-los-productos-de-sus-tiendas-fisicas-en-los
 legacySlug: ahora-es-mas-facil-vender-los-productos-de-sus-tiendas-fisicas-en-los
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Al integrar la cuenta principal a un marketplace, los inventarios de cuentas franquicia se consideran automáticamente.
 ---
 

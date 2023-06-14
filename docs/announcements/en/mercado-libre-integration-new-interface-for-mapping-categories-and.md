@@ -1,5 +1,5 @@
 ---
-title: Mercado Libre integration: New interface for mapping categories and attributes
+title: "Mercado Libre integration: New interface for mapping categories and attributes"
 id: 589oLekjy3OV43kUWREpoe
 status: PUBLISHED
 createdAt: 2021-11-19T19:44:09.314Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: mercado-libre-integration-new-interface-for-mapping-categories-and
 legacySlug: mercado-libre-integration-new-interface-for-mapping-categories-and
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: The new interface for mapping categories and attributes will replace the mapping template.
 ---
 

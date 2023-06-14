@@ -1,5 +1,5 @@
 ---
-title: Insights está disponible en el nuevo admin
+title: "Insights está disponible en el nuevo admin"
 id: 2pRsPlgzQc2USEqeGuKe26
 status: PUBLISHED
 createdAt: 2018-05-18T18:15:06.125Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: authors_24
 slug: insights-esta-disponible-en-el-nuevo-admin
 legacySlug: insights-esta-disponible-en-el-nuevo-admin
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Vea métricas detalladas, defina metas y siga el rendimiento de su tienda directamente en el escritorio.
 ---
 

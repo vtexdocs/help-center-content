@@ -1,5 +1,5 @@
 ---
-title: VTEX agora está disponível em holandês, francês e coreano!
+title: "VTEX agora está disponível em holandês, francês e coreano!"
 id: 211QzsmTKaGYfcldSmaEUQ
 status: PUBLISHED
 createdAt: 2021-05-10T14:29:43.576Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: vtex-agora-esta-disponivel-em-holandes-frances-e-coreano
 legacySlug: vtex-agora-esta-disponivel-em-holandes-frances-e-coreano
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Existem três novas opções de idioma no Admin da VTEX.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Clustered Payments Conditions: personalize as opções de pagamento para clientes B2B
+title: "Clustered Payments Conditions: personalize as opções de pagamento para clientes B2B"
 id: I34LuoBU8JHg9K8XBqQA4
 status: PUBLISHED
 createdAt: 2020-11-18T11:39:08.549Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: clustered-payments-conditions-personalize-as-opcoes-de-pagamento-para
 legacySlug: clustered-payments-conditions-personalize-as-opcoes-de-pagamento-para
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT:  Usuários do Customer Credit poderão criar condições especiais de pagamento para clusterizar seus clientes.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Customer Credit: flexibilice sus condiciones de pago con intereses 
+title: "Customer Credit: flexibilice sus condiciones de pago con intereses "
 id: 5B1FjEk1pn33PPGlRsPDm
 status: CHANGED
 createdAt: 2020-04-20T22:08:31.800Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: customer-credit-flexibilice-sus-condiciones-de-pago-con-intereses
 legacySlug: customer-credit-flexibilice-sus-condiciones-de-pago-con-intereses
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Customer Credit ahora permite la configuración de intereses en sus reglas de pago para el crédito facturado.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Inventory & shipping: see what has changed in the "Dashboard" tab
+title: "Inventory & shipping: see what has changed in the "Dashboard" tab"
 id: 1YNfaeNG206XKI2UbGBRSl
 status: CHANGED
 createdAt: 2020-05-05T18:56:51.879Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: inventory-and-shipping-see-what-has-changed-in-the-dashboard-tab
 legacySlug: inventory-and-shipping-see-what-has-changed-in-the-dashboard-tab
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: We improved the “Dashboard” usability, and changed its name to Shipping Strategy 
 ---
 

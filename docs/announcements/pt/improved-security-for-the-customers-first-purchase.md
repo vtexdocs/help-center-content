@@ -1,5 +1,5 @@
 ---
-title: Melhoria de segurança na primeira compra do cliente
+title: "Melhoria de segurança na primeira compra do cliente"
 id: DKlfRaMNHxgQhUT5VqRrK
 status: DRAFT
 createdAt: 2023-04-28T12:35:44.503Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: melhoria-de-seguranca-na-primeira-compra-do-cliente
 legacySlug: melhoria-de-seguranca-na-primeira-compra-do-cliente
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Novo cookie do Checkout permite o aumento de segurança em sua loja
 ---
 

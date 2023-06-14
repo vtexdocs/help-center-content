@@ -1,5 +1,5 @@
 ---
-title: My authentication section in My account
+title: "My authentication section in My account"
 id: 5OETzDR8d5qt13atEBxsB9
 status: PUBLISHED
 createdAt: 2021-07-26T14:25:34.550Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: my-authentication-section-in-my-account
 legacySlug: my-authentication-section-in-my-account
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: My authentication is a section in My account that allows you to manage passwords and login sessions.
 ---
 

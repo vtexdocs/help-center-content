@@ -1,5 +1,5 @@
 ---
-title: Lanzamos nuestras nuevas API de Cross-selling y Up-selling
+title: "Lanzamos nuestras nuevas API de Cross-selling y Up-selling"
 id: 37Lc6sI2owMCiUamocgAcc
 status: PUBLISHED
 createdAt: 2017-12-04T18:54:28.850Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: lanzamos-nuestras-nuevas-api-de-cross-selling-y-up-selling
 legacySlug: lanzamos-nuestras-nuevas-api-de-cross-selling-y-up-selling
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Hacemos disponibles para todos nuestros clientes y parceros nuestras API de Cross-selling y Up-selling.
 ---
 

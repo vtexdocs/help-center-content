@@ -1,5 +1,5 @@
 ---
-title: The VTEX Admin is now available in Thai!
+title: "The VTEX Admin is now available in Thai!"
 id: 5m9yr7mmr2T0j8wLqGHsRm
 status: PUBLISHED
 createdAt: 2022-07-25T18:21:01.616Z
@@ -10,7 +10,7 @@ productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: the-vtex-admin-is-now-available-in-thai
 legacySlug: the-vtex-admin-is-now-available-in-thai
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: The Admin is now available in one more language.
 ---
 

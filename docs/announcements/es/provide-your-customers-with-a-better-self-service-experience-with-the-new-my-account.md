@@ -1,5 +1,5 @@
 ---
-title: Proporcione una nueva experiencia de autoservicio a sus clientes con el nuevo My Account
+title: "Proporcione una nueva experiencia de autoservicio a sus clientes con el nuevo My Account"
 id: 77FfArUimzsoeHM7LzSfFY
 status: CHANGED
 createdAt: 2019-04-12T22:51:48.332Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 6AcGyun1hSWewU8YcaQiO
 slug: proporcione-una-nueva-experiencia-de-autoservicio-a-sus-clientes-con-el-nuevo-my-account
 legacySlug: proporcione-una-nueva-experiencia-de-autoservicio-a-sus-clientes-con-el-nuevo-my-account
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Todos los pedidos y datos personales gerenciados en un solo lugar.
 ---
 

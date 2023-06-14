@@ -1,5 +1,5 @@
 ---
-title: Displaying pickup points on Google Maps
+title: "Displaying pickup points on Google Maps"
 id: 70wpYhYSPLVq8q3njJ8ojr
 status: PUBLISHED
 createdAt: 2021-03-19T00:17:43.865Z
@@ -10,7 +10,7 @@ productTeam: VTEX IO
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: displaying-pickup-points-on-google-maps
 legacySlug: displaying-pickup-points-on-google-maps
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: An application that lists pickup locations and displays them as markers on Google Maps.
 ---
 

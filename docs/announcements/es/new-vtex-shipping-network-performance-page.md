@@ -1,5 +1,5 @@
 ---
-title: Nuevo panel VTEX Shipping Network Performance
+title: "Nuevo panel VTEX Shipping Network Performance"
 id: 6bJ4JsbIhZKfJ2vA2NZp1g
 status: PUBLISHED
 createdAt: 2021-04-07T14:08:42.575Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: nueva-pantalla-performance-de-vtex-shipping-network
 legacySlug: nueva-pantalla-performance-de-vtex-log
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES:  La renovada pantalla Performance mejora la experiencia de seguimiento del desempeño de las transportadoras.
 ---
 

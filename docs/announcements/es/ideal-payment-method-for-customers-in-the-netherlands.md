@@ -1,5 +1,5 @@
 ---
-title: iDEAL: Medio de pago para clientes de los Países Bajos
+title: "iDEAL: Medio de pago para clientes de los Países Bajos"
 id: 2BXpvEX5EkymnK5wWsKKKV
 status: PUBLISHED
 createdAt: 2021-05-06T19:55:33.454Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: ideal-medio-de-pago-para-clientes-de-los-paises-bajos
 legacySlug: ideal-medio-de-pago-para-clientes-de-los-paises-bajos
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Uno de los principales métodos de pago de los Países Bajos, ahora se puede integrar en su tienda a través de Adyen.
 ---
 

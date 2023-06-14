@@ -1,5 +1,5 @@
 ---
-title: Dé crédito a sus mejores clientes con Customer Credit
+title: "Dé crédito a sus mejores clientes con Customer Credit"
 id: 6M2V1Oc1UIaGSM6QayWkmq
 status: PUBLISHED
 createdAt: 2018-11-28T14:19:45.783Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: de-credito-a-sus-mejores-clientes-con-customer-credit
 legacySlug: de-credito-a-sus-mejores-clientes-con-customer-credit
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: El antiguo Credit Control  será reemplazado por la nueva solución de crédito de VTEX para los clientes de su tienda.
 ---
 

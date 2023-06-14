@@ -1,5 +1,5 @@
 ---
-title: Social Selling: compartilhe carrinhos do inStore através de QR codes
+title: "Social Selling: compartilhe carrinhos do inStore através de QR codes"
 id: 5k1WJysjAhZeLsA4ljvasP
 status: PUBLISHED
 createdAt: 2021-12-09T19:39:56.220Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
 slug: social-selling-compartilhe-carrinhos-do-instore-atraves-de-qr-codes
 legacySlug: social-selling-compartilhe-carrinhos-do-instore-atraves-de-qr-codes
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Agora o inStore Social Selling permite compartilhar QR codes para que clientes finalizem compras.
 ---
 

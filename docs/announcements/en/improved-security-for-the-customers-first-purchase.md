@@ -1,5 +1,5 @@
 ---
-title: Improved security for the customer's first purchase
+title: "Improved security for the customer's first purchase"
 id: DKlfRaMNHxgQhUT5VqRrK
 status: DRAFT
 createdAt: 2023-04-28T12:35:44.503Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: improved-security-for-the-customers-first-purchase
 legacySlug: improved-security-for-the-customers-first-purchase
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: New Checkout cookie allows increased security in your store
 ---
 

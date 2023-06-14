@@ -1,5 +1,5 @@
 ---
-title: Marketplaces: approve and manage SKUs with the new Received SKUs admin in beta.
+title: "Marketplaces: approve and manage SKUs with the new Received SKUs admin in beta."
 id: 4Aav8DeyToIqD5E0nGuUA3
 status: CHANGED
 createdAt: 2019-09-09T18:14:02.119Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: vztwQkZv4z6EwDVwdqbsw
 slug: marketplaces-received-skus-beta
 legacySlug: marketplaces-received-skus-beta
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Marketplaces: approve and manage SKUs with the new Received SKUs admin in beta.
 ---
 

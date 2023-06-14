@@ -1,5 +1,5 @@
 ---
-title: Changes in the name and restricted actions available to the Master user
+title: "Changes in the name and restricted actions available to the Master user"
 id: 3XBZFTugszl4PmPCMhOtkh
 status: PUBLISHED
 createdAt: 2021-11-08T21:06:05.854Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: 4SqDPmUJIIz2KMMKgiyqKl
 slug: changes-in-the-name-and-restricted-actions-available-to-the-master-user
 legacySlug: changes-in-the-name-and-restricted-actions-available-to-the-master-user
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Managing authentication credentials is no longer restricted to the Sponsor user.
 ---
 

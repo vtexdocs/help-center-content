@@ -1,5 +1,5 @@
 ---
-title: Assembly Options: New app to simplify product customization
+title: "Assembly Options: New app to simplify product customization"
 id: 6LJ2tbKQzBuGLj5rqICmp2
 status: PUBLISHED
 createdAt: 2022-06-22T22:20:42.810Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: assembly-options-new-app-to-simplify-product-customization
 legacySlug: assembly-options-new-app-to-simplify-product-customization
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: We developed the Assembly Options app to simplify product customization during purchase.
 ---
 

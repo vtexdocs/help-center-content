@@ -1,5 +1,5 @@
 ---
-title: Mercado Pago Pro: atualize a versão do meio de pagamento
+title: "Mercado Pago Pro: atualize a versão do meio de pagamento"
 id: 3dEciFxBFjH5yoQWdRtzTj
 status: PUBLISHED
 createdAt: 2020-11-23T10:39:05.840Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: mercado-pago-pro-atualize-a-versao-do-meio-de-pagamento
 legacySlug: mercado-pago-pro-atualize-a-versao-do-meio-de-pagamento
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: A solução foi atualizada para finalizar compras sem redirect. 
 ---
 

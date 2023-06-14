@@ -1,5 +1,5 @@
 ---
-title: La navegación en el Admin ahora estará restringida según el perfil de acceso del usuario
+title: "La navegación en el Admin ahora estará restringida según el perfil de acceso del usuario"
 id: 4AkzWcYXhsLboTZeSW3jcj
 status: PUBLISHED
 createdAt: 2021-05-03T12:51:16.640Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: la-navegacion-en-el-admin-ahora-estara-restringida-segun-el-perfil-de-acceso
 legacySlug: la-navegacion-en-el-admin-ahora-estara-restringida-segun-el-perfil-de-acceso
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Usuarios solo verán los ítems del menú de la barra lateral a los que tengan acceso, según su perfil de aceso y permisos.
 ---
 

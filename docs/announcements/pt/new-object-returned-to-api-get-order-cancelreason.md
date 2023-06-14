@@ -1,5 +1,5 @@
 ---
-title: Novo objeto retornado na API Get Order "cancelReason"
+title: "Novo objeto retornado na API Get Order "cancelReason""
 id: 1NeR0RsaoUPZYW4dsrgS9S
 status: PUBLISHED
 createdAt: 2019-04-10T14:15:51.553Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 5V92cmF9jG8KG600EwUgEg
 slug: novo-objeto-retornado-na-api-get-order-cancelreason
 legacySlug: novo-objeto-retornado-na-api-get-order-cancelreason
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: O JSON de pedidos retornará um novo objeto chamado cancelReason.
 ---
 

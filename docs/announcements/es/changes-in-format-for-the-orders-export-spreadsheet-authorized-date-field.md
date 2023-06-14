@@ -1,5 +1,5 @@
 ---
-title: Cambio en el formato del campo Authorized Date de la plantilla de exportación de pedidos busca garantizar la calidad de nuestros datos
+title: "Cambio en el formato del campo Authorized Date de la plantilla de exportación de pedidos busca garantizar la calidad de nuestros datos"
 id: 4bEpPLIkpG90dJ3QCIujx1
 status: CHANGED
 createdAt: 2019-05-23T13:42:37.232Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: cambio-en-el-formato-del-campo-authorized-date
 legacySlug: cambio-en-el-formato-del-campo-authorized-date-de-la-plantilla-de
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Nuevo formato del campo Authorized Date garantiza un entendimiento más claro de la fecha en que el pedido fue autorizado
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Garantice más seguridad y control en la pantalla de Autorización de Pedidos
+title: "Garantice más seguridad y control en la pantalla de Autorización de Pedidos"
 id: 2CQWK0yFoBVjCHQGvChC7B
 status: PUBLISHED
 createdAt: 2019-06-06T17:24:29.977Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: garantice-mas-seguridad-y-control-en-la-pantalla-de-autorizacion-de-pedidos
 legacySlug: garanta-mais-seguranca-e-controle-na-tela-de-autorizacao-de-pedidos
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Posibilidad de limitar perfiles de acceso a la pantalla de Autorización de Pedidos
 ---
 

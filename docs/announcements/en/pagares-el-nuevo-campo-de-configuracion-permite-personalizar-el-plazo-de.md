@@ -1,5 +1,5 @@
 ---
-title: Promissories: new field allows you to customize the invoicing time frame
+title: "Promissories: new field allows you to customize the invoicing time frame"
 id: 14JRjD4sLv10ME2mwlgtwl
 status: PUBLISHED
 createdAt: 2021-05-31T13:37:55.594Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: pagares-el-nuevo-campo-de-configuracion-permite-personalizar-el-plazo-de
 legacySlug: pagares-el-nuevo-campo-de-configuracion-permite-personalizar-el-plazo-de
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Have more flexibility with the new automatic invoicing field in the promissory settings.
 ---
 

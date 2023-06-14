@@ -1,5 +1,5 @@
 ---
-title: Price filters: more search flexibility
+title: "Price filters: more search flexibility"
 id: 4l7hoNvAXGI6rrefWgLvlK
 status: PUBLISHED
 createdAt: 2020-09-11T20:56:24.841Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: price-filters-more-search-flexibility
 legacySlug: price-filters-more-search-flexibility
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: For your price management to be more dynamic, we developed more filter settings options
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Login en VTEX ahora necesita autenticación de 2 factores
+title: "Login en VTEX ahora necesita autenticación de 2 factores"
 id: 7qYDjUU156Qgco26OQwWIU
 status: PUBLISHED
 createdAt: 2017-11-09T16:40:47.881Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: authors_24
 slug: login-en-vtex-ahora-necesita-autenticacion-de-2-factores
 legacySlug: login-en-vtex-ahora-necesita-autenticacion-de-2-factores
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: A partir del 16/11, la autenticación de 2 factores se vuelve obrigatoria para todos los e-mails en el Admin de VTEX.
 ---
 

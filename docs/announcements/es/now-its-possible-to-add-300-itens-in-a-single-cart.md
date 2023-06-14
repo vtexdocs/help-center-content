@@ -1,5 +1,5 @@
 ---
-title: Ahora es posible tener 300 ítems en un mismo carrito
+title: "Ahora es posible tener 300 ítems en un mismo carrito"
 id: 1jtuIaeYVws8cWoGaaSOGC
 status: PUBLISHED
 createdAt: 2018-06-06T18:24:10.770Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: authors_24
 slug: ahora-es-posible-tener-300-items-en-un-mismo-carrito
 legacySlug: ahora-es-posible-tener-300-items-en-un-mismo-carrito
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Las versiones 5 y 6 del carrito de compras ahora admiten grandes pedidos y mantienen el rendimiento de su tienda.
 ---
 

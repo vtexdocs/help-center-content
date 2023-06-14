@@ -1,5 +1,5 @@
 ---
-title: Marketplace Network and Integrations are now a single page
+title: "Marketplace Network and Integrations are now a single page"
 id: 1nTEu10ZCyLAkav33iI2at
 status: PUBLISHED
 createdAt: 2023-04-18T12:45:16.666Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slug: marketplacenetwork-and-integrations-are-now-a-single-page
 legacySlug: marketplace-network-and-integrations-are-now-a-single-page
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: We have unified the Marketplace Network and the Integrations module; now, they are Marketplaces and Integrations.
 ---
 

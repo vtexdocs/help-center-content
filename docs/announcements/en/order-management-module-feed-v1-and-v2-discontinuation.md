@@ -1,5 +1,5 @@
 ---
-title: Order Management module Feed v1 and v2 discontinuation
+title: "Order Management module Feed v1 and v2 discontinuation"
 id: 4zoxe3FihrNs0yQ1g1JyG4
 status: CHANGED
 createdAt: 2019-06-12T18:01:18.416Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: order-management-module-feed-v1-and-v2-discontinuation
 legacySlug: order-management-module-feed-v1-and-v2-discontinuation
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Order Management Module Feed v1 and v2 will be discontinued
 ---
 

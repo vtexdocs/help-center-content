@@ -1,5 +1,5 @@
 ---
-title: Improve accessibility for people with disabilities in your online store
+title: "Improve accessibility for people with disabilities in your online store"
 id: 4UI7MZPfA5BXZXLi7KSedS
 status: PUBLISHED
 createdAt: 2021-03-09T19:40:54.779Z
@@ -10,7 +10,7 @@ productTeam: VTEX IO
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: ada-and-wcag-compliance-with-accessibe
 legacySlug: ada-and-wcag-compliance-in-vtex
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: The accessiBe app makes your store compliant with web accessibility standards.
 ---
 

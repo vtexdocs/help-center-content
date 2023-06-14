@@ -1,5 +1,5 @@
 ---
-title: Wishlist: conheça o novo app da VTEX App Store 
+title: "Wishlist: conheça o novo app da VTEX App Store "
 id: 2Irl40LdpkTruqifY5lzsi
 status: PUBLISHED
 createdAt: 2020-12-07T18:58:32.265Z
@@ -10,7 +10,7 @@ productTeam: Apps
 author: LSspaTnBWFvnlgdBYPyog
 slug: wishlist-conheca-o-novo-app-da-vtex-app-store
 legacySlug: wishlist-conheca-o-novo-app-da-vtex-app-store
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Ofereça ao seu consumidor a possibilidade de criar listas de desejos com o novo app da VTEX App Store.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Comercio Conversacional: Nueva configuración de Servicio al cliente humano
+title: "Comercio Conversacional: Nueva configuración de Servicio al cliente humano"
 id: 6ONAReju1cAVutNHmabxyN
 status: PUBLISHED
 createdAt: 2023-04-28T20:35:36.364Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 5l3eEiSz8MpcppCxcnijGz
 slug: comercio-conversacional-nueva-configuracion-de-servicio-al-cliente-humano
 legacySlug: comercio-conversacional-nueva-configuracion-de-servicio-al-cliente-humano
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Servicio al cliente humano es una configuración de que permite la atención al cliente a través de WhatsApp.
 ---
 

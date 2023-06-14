@@ -1,5 +1,5 @@
 ---
-title: Integração com o Mercado Livre: nova tabela de medidas
+title: "Integração com o Mercado Livre: nova tabela de medidas"
 id: 2obbDH8UcSlGVjoyNy92so
 status: PUBLISHED
 createdAt: 2022-06-29T19:33:31.118Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: integracao-com-o-mercado-livre-nova-tabela-de-medidas
 legacySlug: integracao-com-o-mercado-livre-nova-tabela-de-medidas
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Lançamos a nova tabela de medidas do Mercado Livre para lojas que atuam como sellers no marketplace.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Customize your payment conditions with the new Card Level functionality
+title: "Customize your payment conditions with the new Card Level functionality"
 id: 45gHsrbz5PVIM71hRdjjEC
 status: DRAFT
 createdAt: 2019-09-16T15:34:30.491Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: customize-your-payment-conditions-with-the-new-card-level-functionality
 legacySlug: customize-your-payment-conditions-with-the-new-card-level-functionality
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Our stores can now create payment terms segmented by credit card level.
 ---
 

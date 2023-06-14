@@ -1,5 +1,5 @@
 ---
-title: Sales rep code: inStore customization improvements
+title: "Sales rep code: inStore customization improvements"
 id: 4DsmWN3XTpdnTtNbiaxEs1
 status: PUBLISHED
 createdAt: 2021-02-04T11:40:06.468Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: sales-rep-code-instore-customization-improvements
 legacySlug: sales-rep-code-instore-customization-improvements
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Now the client can opt to make the sales rep code a required field for a sale to be made.
 ---
 

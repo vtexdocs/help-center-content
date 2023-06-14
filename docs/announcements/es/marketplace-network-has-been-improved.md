@@ -1,5 +1,5 @@
 ---
-title: Mejoras a Marketplace Network
+title: "Mejoras a Marketplace Network"
 id: 3OZNGPYF1IF3lXnrFn4u8B
 status: PUBLISHED
 createdAt: 2021-06-09T17:26:17.536Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: mejoras-a-marketplace-network
 legacySlug: mejoras-a-marketplace-network
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Mejoras a Marketplace Network y se añadió a todas las tiendas que operan como sellers o marketplaces.
 ---
 

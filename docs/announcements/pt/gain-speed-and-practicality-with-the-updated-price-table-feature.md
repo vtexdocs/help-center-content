@@ -1,5 +1,5 @@
 ---
-title: Ganhe rapidez e praticidade com a atualização da feature Tabela de Preços 
+title: "Ganhe rapidez e praticidade com a atualização da feature Tabela de Preços "
 id: 2WRQvE9bMqwAnLTvMM3ppN
 status: CHANGED
 createdAt: 2019-06-27T14:09:07.789Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 71cQH3Q0oKXzeY2DmMZRKX
 slug: ganhe-rapidez-e-praticidade-com-a-atualizacao-da-feature-tabela-de-precos
 legacySlug: ganhe-rapidez-e-praticidade-com-a-atualizacao-da-feature-tabela-de-precos
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Agora é possível criar Tabelas de Preços de forma mais intuitiva, prática e rápida.
 ---
 

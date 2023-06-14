@@ -1,5 +1,5 @@
 ---
-title: New events available in the Audit module
+title: "New events available in the Audit module"
 id: 36HT3LaI5wORvV9uaDKCwy
 status: PUBLISHED
 createdAt: 2023-04-18T20:01:44.458Z
@@ -10,7 +10,7 @@ productTeam: Master Data
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: new-events-available-in-the-audit-module
 legacySlug: new-events-available-in-the-audit-module
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Audit is making available new events related to the VTEX ID, License manager, and Pricing modules.
 ---
 

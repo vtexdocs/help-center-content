@@ -1,5 +1,5 @@
 ---
-title: Menos carrinhos abandonados com a nova heurística do Checkout
+title: "Menos carrinhos abandonados com a nova heurística do Checkout"
 id: 3XLEhUnRe3jjzUGLbDEZJz
 status: CHANGED
 createdAt: 2020-05-30T13:08:43.104Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: authors_24
 slug: menos-carrinhos-abandonados-com-a-nova-heuristica-do-checkout
 legacySlug: menos-carrinhos-abandonados-com-a-nova-heuristica-do-checkout
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Mudamos a lógica que define a ordem de escolha dos sellers para contas-franquia, diminuindo assim carrinhos abandonados.
 ---
 

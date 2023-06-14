@@ -1,5 +1,5 @@
 ---
-title: Admin agora disponível em búlgaro
+title: "Admin agora disponível em búlgaro"
 id: 7bp6cSA4jdErMOMlLiWMl7
 status: PUBLISHED
 createdAt: 2021-10-25T15:51:32.612Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: admin-agora-disponivel-em-bulgaro
 legacySlug: admin-agora-disponivel-em-bulgaro
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Admin ganha nova opção de idioma
 ---
 

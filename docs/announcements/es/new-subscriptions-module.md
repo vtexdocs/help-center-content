@@ -1,5 +1,5 @@
 ---
-title: Nuevo módulo de Suscripciones
+title: "Nuevo módulo de Suscripciones"
 id: 6PfEmqovkZF97AZUp1owdf
 status: PUBLISHED
 createdAt: 2021-02-02T15:31:07.376Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: nuevo-modulo-suscripciones
 legacySlug: nuevo-modulo-de-suscripciones
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: El módulo Suscripciones es una solución de VTEX para pedidos recurrentes en su tienda, y está en constante evolución
 ---
 

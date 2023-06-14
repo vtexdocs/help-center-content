@@ -129,7 +129,7 @@ function createMarkdownFile(entry) {
     status = "PUBLISHED";
   } else if (isArchived(entry)) {
     status = "ARCHIVED";
-  };
+  }
 
   let sys = entry.sys;
   let fields = entry.fields;
@@ -495,7 +495,7 @@ ${textPT}
     contentTypes.faqs.push(entry);
   } else if (contentType === "updates") {
     fileContentEN = `---
-title: ${titleEN}
+title: "${titleEN}"
 id: ${entryId}
 status: ${status}
 createdAt: ${createdAt}
@@ -506,14 +506,14 @@ productTeam: ${productTeam}
 author: ${author}
 slug: ${slugEN}
 legacySlug: ${legacySlugEN}
-announcementImageID: ${announcementImageID}
+announcementImageID: "${announcementImageID}"
 announcementSynopsisEN: ${announcementSynopsisEN}
 ---
 
 ${textEN}
 `;
     fileContentES = `---
-title: ${titleES}
+title: "${titleES}"
 id: ${entryId}
 status: ${status}
 createdAt: ${createdAt}
@@ -524,14 +524,14 @@ productTeam: ${productTeam}
 author: ${author}
 slug: ${slugES}
 legacySlug: ${legacySlugES}
-announcementImageID: ${announcementImageID}
+announcementImageID: "${announcementImageID}"
 announcementSynopsisES: ${announcementSynopsisES}
 ---
 
 ${textES}
 `;
     fileContentPT = `---
-title: ${titlePT}
+title: "${titlePT}"
 id: ${entryId}
 status: ${status}
 createdAt: ${createdAt}
@@ -542,7 +542,7 @@ productTeam: ${productTeam}
 author: ${author}
 slug: ${slugPT}
 legacySlug: ${legacySlugPT}
-announcementImageID: ${announcementImageID}
+announcementImageID: "${announcementImageID}"
 announcementSynopsisPT: ${announcementSynopsisPT}
 ---
 

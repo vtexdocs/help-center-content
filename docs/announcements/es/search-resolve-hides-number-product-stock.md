@@ -1,5 +1,5 @@
 ---
-title: Search resolver ha dejado de mostrar el número de productos en el stock de la tienda
+title: "Search resolver ha dejado de mostrar el número de productos en el stock de la tienda"
 id: 7Ah6ou3RCoNmMeedZaBeJS
 status: PUBLISHED
 createdAt: 2022-02-18T15:51:53.790Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: search-resolver-no-muestra-cantidad-producto-stock
 legacySlug: search-resolver-no-muestra-cantidad-producto-stock
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Para mejorar la privacidad de los datos, el search-resolver ha dejado de mostrar la cantidad de productos en stock
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: From now on, you can create promotional price tables
+title: "From now on, you can create promotional price tables"
 id: 5lOixZTMisqqcCw86QIIwE
 status: DRAFT
 createdAt: 2018-12-02T22:19:23.202Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
 slug: from-now-on-you-can-create-promotional-price-tables
 legacySlug: from-now-on-you-can-create-promotional-price-tables
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: The new feature brings more flexibility and autonomy while creating more detailed special offers.
 ---
 

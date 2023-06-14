@@ -1,5 +1,5 @@
 ---
-title: Versões antigas do script VTEX ID serão descontinuadas
+title: "Versões antigas do script VTEX ID serão descontinuadas"
 id: 1IHQ2NS5McYgKySOmyEmgU
 status: PUBLISHED
 createdAt: 2018-03-19T21:14:22.078Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: authors_24
 slug: versoes-antigas-do-script-vtex-id-serao-descontinuadas
 legacySlug: versoes-antigas-do-script-vtex-id-serao-descontinuadas
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: A partir de 21 de maio, somente a versão mais atual do script do VTEX ID vai ter suporte da plataforma.
 ---
 

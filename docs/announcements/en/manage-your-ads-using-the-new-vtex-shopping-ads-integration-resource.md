@@ -1,5 +1,5 @@
 ---
-title: Manage your ads using the new VTEX Shopping Ads integration resource
+title: "Manage your ads using the new VTEX Shopping Ads integration resource"
 id: 3cGKE2G63tRrXmrp0kbic8
 status: CHANGED
 createdAt: 2019-07-31T21:54:59.585Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: manage-your-ads-using-the-new-vtex-shopping-ads-integration-resource
 legacySlug: manage-your-ads-using-the-new-vtex-shopping-ads-integration-resource
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: VTEX Shopping Ads now allows the use of existing Google Ads accounts
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: VTEX will only give support to TLS 1.2
+title: "VTEX will only give support to TLS 1.2"
 id: 63OshDDS6cmcKKmau6aQUA
 status: PUBLISHED
 createdAt: 2018-06-22T16:25:55.532Z
@@ -10,7 +10,7 @@ productTeam: Reliability
 author: authors_24
 slug: vtex-will-only-give-support-to-tls-1-2
 legacySlug: vtex-will-only-give-support-to-tls-1-2
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: As of June 30th, TLS previous versions and all SSL versions will be deprecated.
 ---
 

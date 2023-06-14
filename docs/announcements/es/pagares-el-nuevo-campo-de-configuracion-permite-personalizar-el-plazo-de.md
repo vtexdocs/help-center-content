@@ -1,5 +1,5 @@
 ---
-title: Pagarés: el nuevo campo de configuración permite personalizar el plazo de facturación
+title: "Pagarés: el nuevo campo de configuración permite personalizar el plazo de facturación"
 id: 14JRjD4sLv10ME2mwlgtwl
 status: PUBLISHED
 createdAt: 2021-05-31T13:37:55.594Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: promissories-new-field-allows-you-to-customize-the-invoicing-time-frame
 legacySlug: promissories-new-field-allows-you-to-customize-the-invoicing-time-frame
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Tenga más flexibilidad con el nuevo campo de facturación automática en la configuración de pagarés.
 ---
 

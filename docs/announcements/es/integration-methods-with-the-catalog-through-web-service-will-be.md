@@ -1,5 +1,5 @@
 ---
-title: Métodos de integración con el catálogo por Web Service se descontinuarán
+title: "Métodos de integración con el catálogo por Web Service se descontinuarán"
 id: 1GmJhvCNvKAYWwwIEeyOey
 status: PUBLISHED
 createdAt: 2018-08-21T22:22:45.403Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: authors_24
 slug: metodos-de-integracion-con-el-catalogo-por-web-service-se-descontinuaran
 legacySlug: metodos-de-integracion-con-el-catalogo-por-web-service-se-descontinuaran
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: En 29/10, vamos a descontinuar algunos métodos de Web Service para integración con el catálogo.
 ---
 

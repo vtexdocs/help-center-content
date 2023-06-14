@@ -1,5 +1,5 @@
 ---
-title: Facebook Business Extension: actualizaciones de la Conversions API
+title: "Facebook Business Extension: actualizaciones de la Conversions API"
 id: 5lsu1b7jkWk9NlTaxfkoqs
 status: PUBLISHED
 createdAt: 2022-07-27T18:39:45.215Z
@@ -10,7 +10,7 @@ productTeam: Apps
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: facebook-business-extension-actualizaciones-de-la-conversions-api
 legacySlug: facebook-business-extension-actualizaciones-de-la-conversions-api
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Novedades en la API Conversions de la aplicación Facebook Business Extension.
 ---
 

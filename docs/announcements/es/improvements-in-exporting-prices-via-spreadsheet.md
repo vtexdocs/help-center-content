@@ -1,5 +1,5 @@
 ---
-title: Mejoras a la exportación de precios con una plantilla
+title: "Mejoras a la exportación de precios con una plantilla"
 id: 7L4mGhB2AwkWZD2kelgiIJ
 status: PUBLISHED
 createdAt: 2023-01-13T21:36:13.340Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: mejoras-a-la-exportacion-de-precios-con-una-plantilla
 legacySlug: mejoras-a-la-exportacion-de-precios-con-una-plantilla
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Actualizamos el proceso de exportación con una plantilla para dar más visibilidad a los clientes.
 ---
 

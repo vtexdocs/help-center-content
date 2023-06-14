@@ -1,5 +1,5 @@
 ---
-title: Service Worker já pode ser usado em todo seu potencial
+title: "Service Worker já pode ser usado em todo seu potencial"
 id: 5RuFcktluMeYWYWKww4au2
 status: PUBLISHED
 createdAt: 2018-03-15T18:22:49.955Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: authors_24
 slug: service-worker-ja-pode-ser-usado-em-todo-seu-potencial
 legacySlug: service-worker-ja-pode-ser-usado-em-todo-seu-potencial
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Em nova atualização da plataforma, arquivos Service Worker agora podem interceptar requests de toda a sua loja.
 ---
 

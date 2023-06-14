@@ -1,5 +1,5 @@
 ---
-title: New VTEX Shipping Network Performance panel
+title: "New VTEX Shipping Network Performance panel"
 id: 6bJ4JsbIhZKfJ2vA2NZp1g
 status: PUBLISHED
 createdAt: 2021-04-07T14:08:42.575Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: new-vtex-shipping-network-performance-page
 legacySlug: new-vtex-log-performance-page
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Performance page has been redesigned to improve the user experience when tracking the performance of shipping carriers.
 ---
 

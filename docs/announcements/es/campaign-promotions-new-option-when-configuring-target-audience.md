@@ -1,5 +1,5 @@
 ---
-title: Promociones de campaña: nueva opción al configurar el público objetivo
+title: "Promociones de campaña: nueva opción al configurar el público objetivo"
 id: UJOyf1nYJ0xHXl88RytJ5
 status: PUBLISHED
 createdAt: 2022-07-22T14:00:40.004Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: promociones-de-campana-nueva-opcion-al-configurar-el-publico-objetivo
 legacySlug: promociones-de-campana-nueva-opcion-al-configurar-el-publico-objetivo
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Usar varios públicos objetivo en simultáneo en una audiencia de campaña en lugar de usar solo un público u otro.
 ---
 

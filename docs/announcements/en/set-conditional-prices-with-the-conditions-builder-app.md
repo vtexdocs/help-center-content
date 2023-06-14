@@ -1,5 +1,5 @@
 ---
-title: Set conditional prices with the Conditions Builder app
+title: "Set conditional prices with the Conditions Builder app"
 id: 1GQ91gDdIIuCUgSCiGwy0A
 status: DRAFT
 createdAt: 2018-07-09T18:58:24.182Z
@@ -10,7 +10,7 @@ productTeam: VTEX IO
 author: 
 slug: set-conditional-prices-with-the-conditions-builder-app
 legacySlug: 
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Available on VTEX's App Store, the Conditions Builder makes it easier to make conditional prices.
 ---
 

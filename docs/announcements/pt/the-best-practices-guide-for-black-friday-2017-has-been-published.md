@@ -1,5 +1,5 @@
 ---
-title: Publicamos o Guia de Boas Práticas para a Black Friday 2017
+title: "Publicamos o Guia de Boas Práticas para a Black Friday 2017"
 id: 6aYFNfutpeqiCi8AOmo0eo
 status: PUBLISHED
 createdAt: 2017-11-09T20:24:23.517Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: authors_24
 slug: publicamos-o-guia-de-boas-praticas-para-a-black-friday-2017
 legacySlug: publicamos-o-guia-de-boas-praticas-para-a-black-friday-2017
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: VTEX criou uma cartilha de boas práticas para ajudar nossos clientes a prepararem suas lojas para a Black Friday
 ---
 

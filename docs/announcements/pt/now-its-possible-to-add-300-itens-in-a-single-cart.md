@@ -1,5 +1,5 @@
 ---
-title: Agora é possível ter 300 itens no mesmo carrinho
+title: "Agora é possível ter 300 itens no mesmo carrinho"
 id: 1jtuIaeYVws8cWoGaaSOGC
 status: PUBLISHED
 createdAt: 2018-06-06T18:24:10.770Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: authors_24
 slug: agora-e-possivel-ter-300-itens-no-mesmo-carrinho
 legacySlug: agora-e-possivel-ter-300-itens-no-mesmo-carrinho
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: V5 e V6 do carrinho estão otimizadas para processar grandes pedidos e manter a performance da sua loja.
 ---
 

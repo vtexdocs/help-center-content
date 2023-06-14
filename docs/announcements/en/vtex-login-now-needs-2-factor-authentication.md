@@ -1,5 +1,5 @@
 ---
-title: VTEX login now needs 2-factor authentication
+title: "VTEX login now needs 2-factor authentication"
 id: 7qYDjUU156Qgco26OQwWIU
 status: PUBLISHED
 createdAt: 2017-11-09T16:40:47.881Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: authors_24
 slug: vtex-login-now-needs-2-factor-authentication
 legacySlug: vtex-login-now-needs-2-factor-authentication
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: As of November 16, 2-factor authentication (2FA) becomes mandatory for all emails in VTEX Admin.
 ---
 

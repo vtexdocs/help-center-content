@@ -1,5 +1,5 @@
 ---
-title: Novidades em como configurar provedores de login para sua loja
+title: "Novidades em como configurar provedores de login para sua loja"
 id: 6tP4uxQJ0BdnDw38hmyeOW
 status: CHANGED
 createdAt: 2020-10-06T17:50:13.106Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: novidades-em-como-configurar-provedores-de-login-para-sua-loja
 legacySlug: novidades-em-como-configurar-provedores-de-login-para-sua-loja
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Novidades em como configurar provedores de login para sua loja
 ---
 

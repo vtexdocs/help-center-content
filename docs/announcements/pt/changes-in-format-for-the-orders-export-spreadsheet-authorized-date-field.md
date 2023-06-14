@@ -1,5 +1,5 @@
 ---
-title: Mudança no formato do campo Authorized Date da planilha de exportação de pedidos visa garantir a qualidade dos nossos dados
+title: "Mudança no formato do campo Authorized Date da planilha de exportação de pedidos visa garantir a qualidade dos nossos dados"
 id: 4bEpPLIkpG90dJ3QCIujx1
 status: CHANGED
 createdAt: 2019-05-23T13:42:37.232Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: mudanca-no-formato-do-campo-authorized-date
 legacySlug: mudanca-no-formato-do-campo-authorized-date-da-planilha-de-exportacao-de
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Novo formato do campo `Authorized Date` garante um entendimento mais claro da data em que o pedido foi autorizado
 ---
 

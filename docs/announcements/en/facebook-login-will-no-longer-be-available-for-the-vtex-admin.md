@@ -1,5 +1,5 @@
 ---
-title: Facebook login will no longer be available for the VTEX Admin
+title: "Facebook login will no longer be available for the VTEX Admin"
 id: 2U50wnZJXz7p6htx63tvtL
 status: PUBLISHED
 createdAt: 2021-10-06T18:03:05.260Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: 4SqDPmUJIIz2KMMKgiyqKl
 slug: facebook-login-will-no-longer-be-available-for-the-vtex-admin
 legacySlug: 
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: The Facebook login feature for the VTEX Admin has been suspended
 ---
 
