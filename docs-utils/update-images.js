@@ -37,7 +37,7 @@ const updateImages = async (filepath) => {
       const filename = `${slug}-${images.length}.${ext}`
   
       images.push({
-        filepath: path.resolve('images', filename),
+        filepath: path.resolve('images', locale, filename),
         url
       })
 

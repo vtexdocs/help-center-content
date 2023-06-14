@@ -249,6 +249,7 @@ productTeam: ${productTeam}
 author: ${author}
 tag: ${tag}
 slug: ${slugEN}
+locale: en
 kiStatus: ${kiStatusEN}
 internalReference: ${internalReference}
 ---
@@ -279,6 +280,7 @@ productTeam: ${productTeam}
 author: ${author}
 tag: ${tag}
 slug: ${slugES}
+locale: es
 kiStatus: ${kiStatusES}
 internalReference: ${internalReference}
 ---
@@ -309,6 +311,7 @@ productTeam: ${productTeam}
 author: ${author}
 tag: ${tag}
 slug: ${slugPT}
+locale: pt
 kiStatus: ${kiStatusPT}
 internalReference: ${internalReference}
 ---
@@ -341,6 +344,7 @@ contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
 slug: ${slugEN}
+locale: en
 legacySlug: ${legacySlugEN}
 subcategory: ${subcategory}
 ---
@@ -359,6 +363,7 @@ contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
 slug: ${slugES}
+locale: es
 legacySlug: ${legacySlugES}
 subcategory: ${subcategory}
 ---
@@ -377,6 +382,7 @@ contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
 slug: ${slugPT}
+locale: pt
 legacySlug: ${legacySlugPT}
 subcategory: ${subcategory}
 ---
@@ -397,6 +403,7 @@ firstPublishedAt: ${firstPublishedAt}
 contentType: ${contentType}
 productTeam: ${productTeam}
 slug: ${slugEN}
+locale: en
 trackId: ${trackId}
 trackSlugEN: ${trackSlugEN}
 ---
@@ -414,6 +421,7 @@ firstPublishedAt: ${firstPublishedAt}
 contentType: ${contentType}
 productTeam: ${productTeam}
 slug: ${slugES}
+locale: es
 trackId: ${trackId}
 trackSlugES: ${trackSlugES}
 ---
@@ -431,6 +439,7 @@ firstPublishedAt: ${firstPublishedAt}
 contentType: ${contentType}
 productTeam: ${productTeam}
 slug: ${slugPT}
+locale: pt
 trackId: ${trackId}
 trackSlugPT: ${trackSlugPT}
 ---
@@ -452,6 +461,7 @@ contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
 slug: ${slugEN}
+locale: en
 legacySlug: ${legacySlugEN}
 ---
 
@@ -469,6 +479,7 @@ contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
 slug: ${slugES}
+locale: es
 legacySlug: ${legacySlugES}
 ---
 
@@ -486,6 +497,7 @@ contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
 slug: ${slugPT}
+locale: pt
 legacySlug: ${legacySlugPT}
 ---
 
@@ -505,6 +517,7 @@ contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
 slug: ${slugEN}
+locale: en
 legacySlug: ${legacySlugEN}
 announcementImageID: '${announcementImageID}'
 announcementSynopsisEN: ${announcementSynopsisEN.includes("'") ? `"${announcementSynopsisEN}"` : `'${announcementSynopsisEN}'`}
@@ -523,6 +536,7 @@ contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
 slug: ${slugES}
+locale: es
 legacySlug: ${legacySlugES}
 announcementImageID: '${announcementImageID}'
 announcementSynopsisES: ${announcementSynopsisES.includes("'") ? `"${announcementSynopsisES}"` : `'${announcementSynopsisES}'`}
@@ -541,6 +555,7 @@ contentType: ${contentType}
 productTeam: ${productTeam}
 author: ${author}
 slug: ${slugPT}
+locale: pt
 legacySlug: ${legacySlugPT}
 announcementImageID: '${announcementImageID}'
 announcementSynopsisPT: ${announcementSynopsisPT.includes("'") ? `"${announcementSynopsisPT}"` : `'${announcementSynopsisPT}'`}
