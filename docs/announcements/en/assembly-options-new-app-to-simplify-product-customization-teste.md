@@ -21,7 +21,7 @@ For example, restaurants that accept online orders usually allow customers to ch
 
 To simplify this feature, we developed the Assembly Options app, which provides an interface for configuring and managing custom options. The app is only available for stores using [VTEX IO](https://vtex.com/us-en/store-framework/).
 
-![assembly-options-app-en](https://images.ctfassets.net/alneenqid6w5/7AoMYLduvKisAxKMho64m0/b65d786da2a92266eb107b3eeac0f048/assembly-options-app-en.PNG)
+![assembly-options-app-en](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/EN/assembly-options-new-app-to-simplify-product-customization-teste-0.PNG)
 
 ## What has changed?
 
