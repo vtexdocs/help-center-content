@@ -1,5 +1,5 @@
 ---
-title: El rol Owner (Admin Super) ya no tiene permiso para crear usuarios
+title: "El rol Owner (Admin Super) ya no tiene permiso para crear usuarios"
 id: 5OpVXwzX5NWqTkVZ7QLMBd
 status: PUBLISHED
 createdAt: 2023-02-03T14:49:10.763Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: el-rol-owner-admin-super-ya-no-tiene-permiso-para-crear-usuarios
 legacySlug: 
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: El rol Owner (Admin Super) ya no incluye el recurso Save user, relacionado con las acciones de gestión de usuarios.
 ---
 

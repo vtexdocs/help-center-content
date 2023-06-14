@@ -1,5 +1,5 @@
 ---
-title: My Account: On June 17th, the native links to 'My Account' page will change - review your settings
+title: "My Account: On June 17th, the native links to 'My Account' page will change - review your settings"
 id: 2N9T3weFs2VDXan6vrGgnC
 status: CHANGED
 createdAt: 2020-05-26T14:16:56.645Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: on-06-17-the-native-links-to-your-stores-my-account-page-will-change-review
 legacySlug: on-06-17-the-native-links-to-your-stores-my-account-page-will-change-review
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: From June 17, your customers would access all their information, including orders, through a single "/account" URL.
 ---
 

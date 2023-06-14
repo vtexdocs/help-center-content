@@ -1,5 +1,5 @@
 ---
-title: VTEX launches the new version of inStore: VTEX Sales App
+title: "VTEX launches the new version of inStore: VTEX Sales App"
 id: 2fb3ksIjjFudu4WrctsrHm
 status: PUBLISHED
 createdAt: 2023-05-31T17:16:28.263Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: vtex-launches-the-new-version-of-instore-vtex-sales-app
 legacySlug: vtex-launches-the-new-version-of-instore-vtex-sales-app
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: VTEX introduces the new VTEX Sales App with modernized checkout, customized offers, and sales performance.
 ---
 

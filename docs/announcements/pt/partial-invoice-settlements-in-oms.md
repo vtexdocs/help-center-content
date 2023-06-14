@@ -1,5 +1,5 @@
 ---
-title: Liquidação de faturas parciais no OMS
+title: "Liquidação de faturas parciais no OMS"
 id: 57DxOPAIGassIOYDNPQftv
 status: PUBLISHED
 createdAt: 2022-06-27T20:36:59.586Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: liquidacao-de-faturas-parciais-no-oms
 legacySlug: liquidacao-de-faturas-parciais-no-oms
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Agora, faturas parciais inseridas nos pedidos disparam liquidações parciais na transação.
 ---
 

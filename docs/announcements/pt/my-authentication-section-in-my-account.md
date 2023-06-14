@@ -1,5 +1,5 @@
 ---
-title: Aba My Authentication do My Account
+title: "Aba My Authentication do My Account"
 id: 5OETzDR8d5qt13atEBxsB9
 status: PUBLISHED
 createdAt: 2021-07-26T14:25:34.550Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: aba-my-authentication-do-my-account
 legacySlug: aba-my-authentication-do-my-account
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: My Authentication é uma aba do My Account que permite o gerenciamento de senhas e sessões de login.
 ---
 

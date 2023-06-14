@@ -1,5 +1,5 @@
 ---
-title: Determine sua capacidade e realize todas as entregas agendadas
+title: "Determine sua capacidade e realize todas as entregas agendadas"
 id: 69LHYBNEump4KgBZHWvXng
 status: PUBLISHED
 createdAt: 2021-04-19T12:53:56.198Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: capacidade-de-entrega
 legacySlug: capacidade-de-entrega
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT:   Gerencie e limite a quantidade de itens ou pedidos das suas janelas de entregas agendadas.
 ---
 

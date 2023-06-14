@@ -1,5 +1,5 @@
 ---
-title: Marketplace Network has been improved
+title: "Marketplace Network has been improved"
 id: 3OZNGPYF1IF3lXnrFn4u8B
 status: PUBLISHED
 createdAt: 2021-06-09T17:26:17.536Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: marketplace-network-has-been-improved
 legacySlug: marketplace-network-has-been-improved
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: The Marketplace Network has been improved and added to all stores that act as sellers or marketplaces.
 ---
 

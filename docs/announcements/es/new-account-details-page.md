@@ -1,5 +1,5 @@
 ---
-title: Nueva página de detalles de la cuenta
+title: "Nueva página de detalles de la cuenta"
 id: 2SrdKxlWYmoykn2F6gnCTb
 status: PUBLISHED
 createdAt: 2023-05-05T19:08:41.074Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: nueva-pagina-de-detalles-de-la-cuenta
 legacySlug: nueva-pagina-de-detalles-de-la-cuenta
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: VTEX pone a tu disposición una nueva página de detalles de cuenta, que ofrece una experiencia intuitiva y eficiente.
 ---
 

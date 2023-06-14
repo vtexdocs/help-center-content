@@ -1,5 +1,5 @@
 ---
-title: Suspensión de VTEX Payment
+title: "Suspensión de VTEX Payment"
 id: 6BkEnyzVDHfoKwPnGdqBRs
 status: PUBLISHED
 createdAt: 2022-07-07T19:20:19.592Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 slug: suspension-de-vtex-payment
 legacySlug: suspension-de-vtex-payment
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Suspensión de VTEX Payment
 ---
 

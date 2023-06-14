@@ -1,5 +1,5 @@
 ---
-title: Cadastrar pontos de retirada está mais rápido e fácil
+title: "Cadastrar pontos de retirada está mais rápido e fácil"
 id: 4ScdLxLAYg2MMKgqcgcgeA
 status: PUBLISHED
 createdAt: 2018-12-18T12:12:15.629Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: cadastrar-pontos-de-retirada-esta-mais-rapido-e-facil
 legacySlug: cadastrar-pontos-de-retirada-esta-mais-rapido-e-facil
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Agora, você pode fazer o upload de uma planilha XLS com todos os pickup points que deseja oferecer na sua loja.
 ---
 

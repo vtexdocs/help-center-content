@@ -1,5 +1,5 @@
 ---
-title: Documentación de VTEX IO tiene una nueva casa
+title: "Documentación de VTEX IO tiene una nueva casa"
 id: 2eOYoB8gNNNSq6zukr8hCH
 status: CHANGED
 createdAt: 2020-04-08T13:51:13.362Z
@@ -10,7 +10,7 @@ productTeam: VTEX IO
 author: 6AcGyun1hSWewU8YcaQiO
 slug: documentacion-de-vtex-io-tiene-una-nueva-casa
 legacySlug: documentacion-de-vtex-io-tiene-una-nueva-casa
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Empodere a apresentação do conteúdo do seu website para os seus usuários e adotando as boas práticas de performance do VTEX IO.
 ---
 

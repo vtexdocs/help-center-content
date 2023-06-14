@@ -1,5 +1,5 @@
 ---
-title: Seguridad de tus promociones: revisa la configuración antes de activarlas
+title: "Seguridad de tus promociones: revisa la configuración antes de activarlas"
 id: 39JEfh00CNqR9tECQlRPPY
 status: DRAFT
 createdAt: 2021-12-08T13:52:21.718Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: seguridad-de-tus-promociones-revisa-la-configuracion-antes-de-activarlas1
 legacySlug: seguridad-de-tus-promociones
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: El resumen de la promoción permite revisar su información antes de activarla, lo que evita errores de configuración
 ---
 

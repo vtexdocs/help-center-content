@@ -1,5 +1,5 @@
 ---
-title: The platform news hit the spotlight in the New Admin
+title: "The platform news hit the spotlight in the New Admin"
 id: 607y5tzdlKEsgueAAsWaUE
 status: PUBLISHED
 createdAt: 2018-03-09T15:29:05.784Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
 slug: announcements-hit-the-spotlight-in-the-new-admin
 legacySlug: announcements-hit-the-spotlight-in-the-new-admin
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: You get notified whenever there's a new announcement and have a glimpse of the latest news right on the main page.
 ---
 

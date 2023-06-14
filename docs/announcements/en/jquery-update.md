@@ -1,5 +1,5 @@
 ---
-title: jQuery update
+title: "jQuery update"
 id: hwSxHew6NGYQueWmocuaw
 status: PUBLISHED
 createdAt: 2018-07-10T14:40:08.017Z
@@ -10,7 +10,7 @@ productTeam: Reliability
 author: authors_24
 slug: jquery-update
 legacySlug: jquery-update
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: The update is already in beta so you can test your store. The change will be completed by July 30th.
 ---
 

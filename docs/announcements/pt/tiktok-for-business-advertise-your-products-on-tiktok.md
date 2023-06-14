@@ -1,5 +1,5 @@
 ---
-title: TikTok for Business: anuncie seus produtos no TikTok
+title: "TikTok for Business: anuncie seus produtos no TikTok"
 id: 7tmXUHUcTwS6KJxymFt5ZX
 status: PUBLISHED
 createdAt: 2022-04-14T21:51:19.121Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 1malnhMX0vPThsaJaZMYm2
 slug: tiktok-for-business-anuncie-seus-produtos-no-tiktok
 legacySlug: tiktok-for-business-anuncie-seus-produtos-no-tiktok
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Desenvolvemos um app que permite usar o TikTok como um canal de vendas e anúncios integrado ao seu catálogo da VTEX.
 ---
 

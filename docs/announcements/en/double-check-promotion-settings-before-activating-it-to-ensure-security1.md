@@ -1,5 +1,5 @@
 ---
-title: Double-check promotion settings before activating it to ensure security
+title: "Double-check promotion settings before activating it to ensure security"
 id: 39JEfh00CNqR9tECQlRPPY
 status: DRAFT
 createdAt: 2021-12-08T13:52:21.718Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: double-check-promotion-settings-before-activating-it-to-ensure-security1
 legacySlug: double-check-promotion-settings
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Promotion summary allows you to review information about a promotion before activating it to avoid configuration errors
 ---
 

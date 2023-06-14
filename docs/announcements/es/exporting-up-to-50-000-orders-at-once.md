@@ -1,5 +1,5 @@
 ---
-title: Exporte hasta 50 000 pedidos de una sola vez
+title: "Exporte hasta 50 000 pedidos de una sola vez"
 id: 3bYhKtZdu8e5EZG7WH6hZ2
 status: PUBLISHED
 createdAt: 2021-03-31T00:12:41.095Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: exporte-hasta-50-000-pedidos-de-una-sola-vez
 legacySlug: exporte-hasta-50-000-pedidos-de-una-sola-vez
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Ahora es posible exportar hasta 50 000 pedidos de una sola vez en Gestión de Pedidos.
 ---
 

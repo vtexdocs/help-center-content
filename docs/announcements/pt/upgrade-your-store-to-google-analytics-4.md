@@ -1,5 +1,5 @@
 ---
-title: Atualize a sua loja para o Google Analytics 4
+title: "Atualize a sua loja para o Google Analytics 4"
 id: 01mmrSck8nvXAKsypecT9V
 status: PUBLISHED
 createdAt: 2023-04-28T14:42:52.792Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
 slug: atualize-a-sua-loja-para-o-google-analytics-4
 legacySlug: atualize-a-sua-loja-para-o-google-analytics-4
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: atualize-a-sua-loja-para-o-google-analytics-4
 ---
 

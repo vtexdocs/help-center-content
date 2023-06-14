@@ -1,5 +1,5 @@
 ---
-title: Partial invoice settlements in OMS
+title: "Partial invoice settlements in OMS"
 id: 57DxOPAIGassIOYDNPQftv
 status: PUBLISHED
 createdAt: 2022-06-27T20:36:59.586Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: partial-invoice-settlements-in-oms
 legacySlug: partial-invoice-settlements-in-oms
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Partial invoices added to orders trigger partial settlements in the transaction.
 ---
 

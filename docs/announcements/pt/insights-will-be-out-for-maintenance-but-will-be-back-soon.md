@@ -1,5 +1,5 @@
 ---
-title: Insights vai entrar em manutenção, mas volta em breve
+title: "Insights vai entrar em manutenção, mas volta em breve"
 id: 3BadtaOksU0U4So2Kqi0OE
 status: PUBLISHED
 createdAt: 2018-12-06T21:09:00.091Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
 slug: insights-vai-entrar-em-manutencao-mas-volta-em-breve
 legacySlug: insights-vai-entrar-em-manutencao-mas-volta-em-breve
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: A partir de 10/12/2018, o Insights vai entrar em manutenção, ficando indisponível para todos os usuários VTEX.
 ---
 

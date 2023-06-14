@@ -1,5 +1,5 @@
 ---
-title: 
+title: ""
 id: 2lYTdjrT3zYicsbDxI2ZfV
 status: DRAFT
 createdAt: 2020-11-18T11:35:30.112Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 
 slug: untitled-entry-2020-11-18-at-11-35-30
 legacySlug: untitled-entry-2020-11-18-at-11-35-30
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: 
 ---
 

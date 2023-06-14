@@ -1,5 +1,5 @@
 ---
-title: Os links nativos para a página Minha Conta vão mudar - revise suas configurações
+title: "Os links nativos para a página Minha Conta vão mudar - revise suas configurações"
 id: 5fZyY8ZBL4jni69eJOSEZO
 status: PUBLISHED
 createdAt: 2020-01-30T13:36:02.201Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: authors_31
 slug: os-links-nativos-para-a-pagina-minha-conta-vao-mudar-revise-suas
 legacySlug: os-links-nativos-para-a-pagina-minha-conta-vao-mudar-revise-suas
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: A partir do dia 9 de março, os links nativos da plataforma passarão a direcionar o usuário para a página Minha Conta.
 ---
 

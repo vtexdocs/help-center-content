@@ -1,5 +1,5 @@
 ---
-title: Extensions Hub: Expand your operation through the VTEX Admin
+title: "Extensions Hub: Expand your operation through the VTEX Admin"
 id: 4FYJCHTttMa0znV1mdHW9w
 status: PUBLISHED
 createdAt: 2023-05-31T22:15:06.695Z
@@ -10,7 +10,7 @@ productTeam: Apps
 author: 4ubliktPJIsvyl1hq91RdK
 slug: extension-hub-expand-your-operation-through-vtex-admin
 legacySlug: extension-hub-expand-your-operation-through-vtex-admin
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: The new VTEX Admin section to find partners, add features and manage extensions
 ---
 

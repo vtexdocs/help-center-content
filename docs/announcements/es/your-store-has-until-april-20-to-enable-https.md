@@ -1,5 +1,5 @@
 ---
-title: Tiendas tienen hasta el 20 de abril para activar HTTPS
+title: "Tiendas tienen hasta el 20 de abril para activar HTTPS"
 id: 63uJxr5LRmAKMuggog6GIs
 status: PUBLISHED
 createdAt: 2018-04-03T17:51:53.983Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: authors_24
 slug: tiendas-tienen-hasta-el-20-de-abril-para-activar-https
 legacySlug: tiendas-tienen-hasta-el-20-de-abril-para-activar-https
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Además de traer más seguridad a sus clientes, activar el HTTPS en todo el sitio es requisito para migrar a el nuevo CDN.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Ensure more safety and control on your Order Authorization screen
+title: "Ensure more safety and control on your Order Authorization screen"
 id: 2CQWK0yFoBVjCHQGvChC7B
 status: PUBLISHED
 createdAt: 2019-06-06T17:24:29.977Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: ensure-more-safety-and-control-on-your-order-authorization-screen
 legacySlug: garanta-mais-seguranca-e-controle-na-tela-de-autorizacao-de-pedidos
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Possibility to limit user access to order authorizations
 ---
 

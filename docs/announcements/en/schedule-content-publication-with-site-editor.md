@@ -1,5 +1,5 @@
 ---
-title: Schedule content publication with Site Editor
+title: "Schedule content publication with Site Editor"
 id: 1nKMy0i8VKEq23MJNih4T3
 status: PUBLISHED
 createdAt: 2021-12-16T17:38:42.017Z
@@ -10,7 +10,7 @@ productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: schedule-content-publication-with-site-editor
 legacySlug: schedule-content-publication-with-site-editor
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Create and schedule predefined block versions in Site Editor
 ---
 

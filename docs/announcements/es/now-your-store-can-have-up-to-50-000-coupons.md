@@ -1,5 +1,5 @@
 ---
-title: Ahora su tienda puede tener hasta 50 mil cupones
+title: "Ahora su tienda puede tener hasta 50 mil cupones"
 id: 6LwZYyL0sgOCGeWA8SyyiO
 status: PUBLISHED
 createdAt: 2018-07-23T12:46:31.570Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: authors_24
 slug: ahora-su-tienda-puede-tener-hasta-50-mil-cupones
 legacySlug: ahora-su-tienda-puede-tener-hasta-50-mil-cupones
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: La API de cupones ha recibido una actualización que aumenta la cantidad de cupones que se pueden crear en su tienda.
 ---
 

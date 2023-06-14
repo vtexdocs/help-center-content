@@ -1,5 +1,5 @@
 ---
-title: Ofereça pontos de retirada para pedidos de assinatura
+title: "Ofereça pontos de retirada para pedidos de assinatura"
 id: UOKiWlMTbrzDcPf6rvVME
 status: PUBLISHED
 createdAt: 2021-05-17T14:36:13.304Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: ofereca-pontos-de-retirada-para-pedidos-de-assinatura
 legacySlug: ofereca-pontos-de-retirada-para-pedidos-de-assinatura
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Agora é possível escolher pontos de retirada para pedidos de assinatura.
 ---
 

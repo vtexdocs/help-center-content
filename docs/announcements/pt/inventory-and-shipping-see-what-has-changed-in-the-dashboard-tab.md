@@ -1,5 +1,5 @@
 ---
-title: Estoque & entrega: entenda o que mudou na aba "Painéis"
+title: "Estoque & entrega: entenda o que mudou na aba "Painéis""
 id: 1YNfaeNG206XKI2UbGBRSl
 status: CHANGED
 createdAt: 2020-05-05T18:56:51.879Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis
 legacySlug: estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Melhoramos a usabilidade do módulo "Paineis" e mudamos o nome da aba para "Estratégia de envio"
 ---
 

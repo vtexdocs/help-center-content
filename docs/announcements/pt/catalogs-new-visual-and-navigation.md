@@ -1,5 +1,5 @@
 ---
-title: Visual e navegação novos para o Catálogo
+title: "Visual e navegação novos para o Catálogo"
 id: 2RA84SQDigksKgIAEqi2SG
 status: PUBLISHED
 createdAt: 2018-07-12T12:51:09.042Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: authors_24
 slug: visual-e-navegacao-novos-para-o-catalogo
 legacySlug: visual-e-navegacao-novos-para-o-catalogo
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Em 10/07, o Catálogo ficou mais integrado ao Novo Admin, mas mantendo os fluxos e funcionalidades mais importantes.
 ---
 

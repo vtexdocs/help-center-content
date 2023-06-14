@@ -1,5 +1,5 @@
 ---
-title: Pestaña My Authentication de My Account
+title: "Pestaña My Authentication de My Account"
 id: 5OETzDR8d5qt13atEBxsB9
 status: PUBLISHED
 createdAt: 2021-07-26T14:25:34.550Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: pestana-my-authentication-de-my-account
 legacySlug: pestana-my-authentication-de-my-account
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: My Authentication es una pestaña de My Account que permite gestionar contraseñas y sesiones de acceso.
 ---
 

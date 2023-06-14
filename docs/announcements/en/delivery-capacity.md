@@ -1,5 +1,5 @@
 ---
-title: Determine your capacity and perform all scheduled deliveries
+title: "Determine your capacity and perform all scheduled deliveries"
 id: 69LHYBNEump4KgBZHWvXng
 status: PUBLISHED
 createdAt: 2021-04-19T12:53:56.198Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: delivery-capacity
 legacySlug: delivery-capacity
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN:   Manage and limit the number of items or orders in your scheduled delivery windows.
 ---
 

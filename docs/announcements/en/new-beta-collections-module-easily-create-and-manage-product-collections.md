@@ -1,5 +1,5 @@
 ---
-title: New Beta Collections module: Easily create and manage product collections
+title: "New Beta Collections module: Easily create and manage product collections"
 id: 6KvFxylC5SNsbVm8L8XZpZ
 status: PUBLISHED
 createdAt: 2020-12-15T19:14:51.662Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: new-beta-collections-module-easily-create-and-manage-product-collections
 legacySlug: new-beta-collections-module-easily-create-and-manage-product-collections
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: With the new Beta Collections module you can create collections more easily.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Mejoras de seguridad en las cookies del Checkout
+title: "Mejoras de seguridad en las cookies del Checkout"
 id: 4MThm4Y5sxYLaW3PfrHdJd
 status: PUBLISHED
 createdAt: 2022-09-19T19:22:37.019Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: mejoras-de-seguridad-en-las-cookies-del-checkout
 legacySlug: mejoras-de-seguridad-en-las-cookies-del-checkout
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: La actualización de las cookies del Checkout permite aumentar la seguridad en tu tienda
 ---
 

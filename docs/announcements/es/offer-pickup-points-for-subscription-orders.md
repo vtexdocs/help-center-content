@@ -1,5 +1,5 @@
 ---
-title: Ofrezca puntos de recogida para pedidos de suscripción
+title: "Ofrezca puntos de recogida para pedidos de suscripción"
 id: UOKiWlMTbrzDcPf6rvVME
 status: PUBLISHED
 createdAt: 2021-05-17T14:36:13.304Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: ofrezca-puntos-de-recogida-para-pedidos-de-suscripcion
 legacySlug: ofrezca-puntos-de-recogida-para-pedidos-de-suscripcion
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Ahora se puede elegir los puntos de recogida para pedidos de suscripción.
 ---
 

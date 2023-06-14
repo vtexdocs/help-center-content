@@ -1,5 +1,5 @@
 ---
-title: Nuevo layout en el e-mail de código de acesso
+title: "Nuevo layout en el e-mail de código de acesso"
 id: 5h0Q4Bwps65m7BI2tPocnO
 status: PUBLISHED
 createdAt: 2019-08-23T17:20:00.353Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 1E4UkWguFZAXjkguvNHPIv
 slug: nuevo-layout-en-el-e-mail-de-codigo-de-acesso
 legacySlug: nuevo-layout-en-el-e-mail-de-codigo-de-acesso
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Actualizamos el layout del e-mail recibido al solicitar el código de acceso para su admin.
 ---
 

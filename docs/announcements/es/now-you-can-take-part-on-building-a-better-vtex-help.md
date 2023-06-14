@@ -1,5 +1,5 @@
 ---
-title: Ahora usted puede ayudar a hacer un Help aún mejor
+title: "Ahora usted puede ayudar a hacer un Help aún mejor"
 id: 5JNpQCJAreQQs8AiukyGOe
 status: PUBLISHED
 createdAt: 2018-03-22T14:38:59.413Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: ahora-usted-puede-ayudar-a-hacer-un-help-aun-mejor
 legacySlug: ahora-usted-puede-ayudar-a-hacer-un-help-aun-mejor
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Los artículos del Help ahora cuentan con una funcionalidad de feedback para dar su opinión sobre nuestro contenido.
 ---
 

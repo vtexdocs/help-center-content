@@ -1,5 +1,5 @@
 ---
-title: Registering pickup points is now easier and faster
+title: "Registering pickup points is now easier and faster"
 id: 4ScdLxLAYg2MMKgqcgcgeA
 status: PUBLISHED
 createdAt: 2018-12-18T12:12:15.629Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: registering-pickup-points-is-now-easier-and-faster
 legacySlug: registering-pickup-points-is-now-easier-and-faster
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Now, you can upload an XLS file containing all the pickup points you want to offer on your website.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Mercado Libre integration: New promotion management interface
+title: "Mercado Libre integration: New promotion management interface"
 id: 47ojzylckHkLkwEEXuUhX2
 status: PUBLISHED
 createdAt: 2022-06-15T19:53:53.403Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: mercado-libre-integration-new-promotion-management-interface
 legacySlug: mercado-libre-integration-new-promotion-management-interface
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Launching new Mercado Libre promotion management interface
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: VTEX es ahora oficialmente un partner certificado de Mercado Libre en Brasil
+title: "VTEX es ahora oficialmente un partner certificado de Mercado Libre en Brasil"
 id: 34D14K2Y6ogJs3OxKpQUrJ
 status: PUBLISHED
 createdAt: 2021-08-23T18:09:15.371Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: vtex-es-ahora-oficialmente-un-partner-certificado-de-mercado-libre-en-brasil
 legacySlug: vtex-es-ahora-oficialmente-un-partner-certificado-de-mercado-libre-en-brasil
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: La certificación asegura que VTEX ofrece funcionalidades para que su tienda tenga éxito en ventas en Mercado Libre
 ---
 

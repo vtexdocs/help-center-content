@@ -1,5 +1,5 @@
 ---
-title: Subscriptions app available on the VTEX App Store
+title: "Subscriptions app available on the VTEX App Store"
 id: 2McDzhB4uyLEcabCrBjeNt
 status: DRAFT
 createdAt: 2022-07-26T22:53:03.914Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: subscriptions-app-available-on-the-vtex-app-store
 legacySlug: subscriptions-app-available-on-the-vtex-app-store
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: The Subscriptions app is available for free on the VTEX App Store.
 ---
 

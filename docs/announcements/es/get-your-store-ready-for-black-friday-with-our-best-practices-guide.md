@@ -1,5 +1,5 @@
 ---
-title: Prepare su tienda para el Black Friday con nuestra Guía de Buenas Prácticas
+title: "Prepare su tienda para el Black Friday con nuestra Guía de Buenas Prácticas"
 id: 60ADfVs1fqk2wG2Yggm6am
 status: PUBLISHED
 createdAt: 2018-09-19T18:36:49.266Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: authors_24
 slug: prepare-su-tienda-para-el-black-friday-con-nuestra-guia-de-buenas-practicas
 legacySlug: prepare-su-tienda-para-el-black-friday-con-nuestra-guia-de-buenas-practicas
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Siga nuestras recomendaciones y consejos para aprovechar todas las oportunidades de venta del Black Friday.
 ---
 

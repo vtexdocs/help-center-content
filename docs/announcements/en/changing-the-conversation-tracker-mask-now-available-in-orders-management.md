@@ -1,5 +1,5 @@
 ---
-title: Changing the Conversation Tracker mask now available in Orders Management
+title: "Changing the Conversation Tracker mask now available in Orders Management"
 id: 4rjAD05fBp6zVeIJL7I6TY
 status: CHANGED
 createdAt: 2020-04-08T16:29:31.816Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: changing-the-conversation-tracker-mask-now-available-in-orders-management
 legacySlug: changing-the-conversation-tracker-mask-now-available-in-orders-management
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: It is now possible to change the Conversation Tracker's mask (Soft and Hard modes) through the Order Management module.
 ---
 

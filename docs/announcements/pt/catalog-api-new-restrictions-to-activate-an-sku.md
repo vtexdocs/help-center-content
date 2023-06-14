@@ -1,5 +1,5 @@
 ---
-title: Catalog API: novas restrições para ativar um SKU
+title: "Catalog API: novas restrições para ativar um SKU"
 id: JcUDPA6hTMK4kwjTUAUn9
 status: PUBLISHED
 createdAt: 2021-01-28T18:30:48.345Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: catalog-api-novas-restricoes-para-ativar-um-sku
 legacySlug: catalog-api-novas-restricoes-para-ativar-um-sku
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Com essa nova atualização, a criação de SKUs por API apresenta novas restrições
 ---
 

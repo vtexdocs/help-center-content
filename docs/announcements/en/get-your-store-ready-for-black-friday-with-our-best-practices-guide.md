@@ -1,5 +1,5 @@
 ---
-title: Get your store ready for Black Friday with our Best Practices Guide
+title: "Get your store ready for Black Friday with our Best Practices Guide"
 id: 60ADfVs1fqk2wG2Yggm6am
 status: PUBLISHED
 createdAt: 2018-09-19T18:36:49.266Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: authors_24
 slug: get-your-store-ready-for-black-friday-with-our-best-practices-guide
 legacySlug: get-your-store-ready-for-black-friday-with-our-best-practices-guide
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Follow our recommendations and exclusive tips to make the most out of this year's Black Friday.
 ---
 

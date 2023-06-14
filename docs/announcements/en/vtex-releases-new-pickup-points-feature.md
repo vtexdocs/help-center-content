@@ -1,5 +1,5 @@
 ---
-title: VTEX releases new Pickup Points feature
+title: "VTEX releases new Pickup Points feature"
 id: 3Nba5qVpEsmQKwu82Ao4s
 status: PUBLISHED
 createdAt: 2017-10-30T20:47:42.057Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: authors_59
 slug: vtex-releases-new-pickup-points-feature
 legacySlug: vtex-releases-new-pickup-points-feature
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Using the concept of Delivery Channels, we changed the registration and administration of order picking points.
 ---
 

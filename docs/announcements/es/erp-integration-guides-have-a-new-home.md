@@ -1,5 +1,5 @@
 ---
-title: Guias de integración con ERP tienen una nueva casa
+title: "Guias de integración con ERP tienen una nueva casa"
 id: 3lqN5Z0ydDBAxxYN9mbQ6K
 status: PUBLISHED
 createdAt: 2020-06-03T23:49:57.335Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: guias-de-integracion-con-erp-tienen-una-nueva-casa
 legacySlug: guia-de-integracion-de-erps-pedidos, guia-de-integracion-de-erps-catalogo-expreso, guia-de-integracion-de-erps-catalogo-completo, guia-de-integracion-de-erps-arquitectura-del-catalogo, interfaces-de-integracion
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Esta documentación se actualizó recientemente y está disponible en nuestro Developer Portal.
 ---
 

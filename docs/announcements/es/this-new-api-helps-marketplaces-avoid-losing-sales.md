@@ -1,5 +1,5 @@
 ---
-title: Nueva API ayuda a los marketplaces a mantener ventas
+title: "Nueva API ayuda a los marketplaces a mantener ventas"
 id: ViRaoD0gKIIwOSoYCSQM0
 status: PUBLISHED
 createdAt: 2018-02-01T12:43:05.771Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: authors_24
 slug: nueva-api-ayuda-a-los-marketplaces-a-mantener-ventas
 legacySlug: nueva-api-ayuda-a-los-marketplaces-a-mantener-ventas
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: El Change Seller da más autonomía para que los marketplaces administren sus ventas.
 ---
 

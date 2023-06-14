@@ -1,5 +1,5 @@
 ---
-title: Utilize a Taxa Nominal e evite que seus clientes abandonem o carrinho de compras
+title: "Utilize a Taxa Nominal e evite que seus clientes abandonem o carrinho de compras"
 id: 5dPMJlTG0rP467QUNFKtNY
 status: PUBLISHED
 createdAt: 2019-12-12T21:33:46.613Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 1E4UkWguFZAXjkguvNHPIv
 slug: utilize-a-taxa-nominal-e-evite-que-seus-clientes-abandonem-o-carrinho-de
 legacySlug: utilize-a-taxa-nominal-e-evite-que-seus-clientes-abandonem-o-carrinho-de
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: A ferramenta é útil para diversas estratégias de negócio, inclusive evitar que, ao final da compra.
 ---
 

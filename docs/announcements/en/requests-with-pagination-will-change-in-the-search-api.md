@@ -1,5 +1,5 @@
 ---
-title: Requests with pagination will change in the search API
+title: "Requests with pagination will change in the search API"
 id: 3UZR4qoAisiqE6kmuuYEAc
 status: CHANGED
 createdAt: 2018-01-24T14:11:26.225Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: authors_24
 slug: requests-with-pagination-will-change-in-the-search-api
 legacySlug: requests-with-pagination-will-change-in-the-search-api
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Starting march 31st, the request header resources for pagination will be deprecated.
 ---
 

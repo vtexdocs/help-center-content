@@ -1,5 +1,5 @@
 ---
-title: Save user data opt-in at Checkout: using stored personal and payment information for future purchases
+title: "Save user data opt-in at Checkout: using stored personal and payment information for future purchases"
 id: ZZQyqkBLort425Mer2E7N
 status: PUBLISHED
 createdAt: 2022-06-21T11:47:21.760Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: save-user-opt-in-using-stored-information-for-future-purchases
 legacySlug: save-user-opt-in-using-stored-information-for-future-purchases
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Allow your customers to choose whether to store their data for future purchases.
 ---
 

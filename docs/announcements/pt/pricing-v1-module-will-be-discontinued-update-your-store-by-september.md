@@ -1,5 +1,5 @@
 ---
-title: Módulo Pricing V1 será descontinuado: atualize sua loja até Setembro
+title: "Módulo Pricing V1 será descontinuado: atualize sua loja até Setembro"
 id: 46YxKNOCLH2Ykw6a9uyxXB
 status: PUBLISHED
 createdAt: 2020-08-14T18:18:05.440Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: deprecacao-pricing-v1
 legacySlug: deprecacao-pricing-v1
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Com a deprecação do Pricing V1, veja como migrar sua loja para a versão mais atualizada do módulo de Preços
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Search resolver não exibe mais o número de produtos em estoque da loja
+title: "Search resolver não exibe mais o número de produtos em estoque da loja"
 id: 7Ah6ou3RCoNmMeedZaBeJS
 status: PUBLISHED
 createdAt: 2022-02-18T15:51:53.790Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: search-resolver-oculta-quantidade-produto-estoque
 legacySlug: search-resolver-oculta-quantidade-produto-estoque
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Para melhorar a privacidade de dados, o search-resolver não exibe mais a quantidade de produtos no estoque
 ---
 

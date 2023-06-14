@@ -1,5 +1,5 @@
 ---
-title: Categorização múltipla de produtos no marketplace Dafiti
+title: "Categorização múltipla de produtos no marketplace Dafiti"
 id: 6502CEk0sVudia0RquF82J
 status: PUBLISHED
 createdAt: 2021-03-18T13:44:48.738Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: categorizacao-multipla-de-produtos-no-marketplace-dafiti
 legacySlug: categorizacao-multipla-de-produtos-no-marketplace-dafiti
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT:  Associação de produto a múltiplas categorias por modelo de planilha de mapeamento que possui atributos obrigatórios
 ---
 

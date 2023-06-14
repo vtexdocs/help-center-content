@@ -1,5 +1,5 @@
 ---
-title: Sales App improvements: New features to improve customer experience in physical stores
+title: "Sales App improvements: New features to improve customer experience in physical stores"
 id: 4Z9I6AwY3UcNdhHpgrdXfa
 status: PUBLISHED
 createdAt: 2023-05-25T00:06:35.147Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: sales-app-improvements-new-features-to-improve-customer-experience-in
 legacySlug: sales-app-improvements-new-features-to-improve-customer-experience-in
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Improvements for physical stores, including similar product suggestions and the new On Hands Sales feature.
 ---
 

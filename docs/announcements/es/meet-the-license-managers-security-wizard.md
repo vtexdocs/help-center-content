@@ -1,5 +1,5 @@
 ---
-title: Conozca el Security Wizard de License Manager
+title: "Conozca el Security Wizard de License Manager"
 id: dVVRgVI2Z2cwCWMOIKMoe
 status: PUBLISHED
 createdAt: 2018-03-12T18:56:44.981Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: 245tA425AIeioKAk2eaiwS
 slug: conozca-el-security-wizard-de-license-manager
 legacySlug: conozca-el-security-wizard-de-license-manager
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Una nueva funcionalidad que te ayuda a administrar y revisar los permisos de quien accede al admin de tu tienda.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Change in CC/BCC field in Message Center templates
+title: "Change in CC/BCC field in Message Center templates"
 id: 3UFXa6mCy9ZP7aESHZCVOn
 status: PUBLISHED
 createdAt: 2020-04-02T14:27:35.727Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: change-in-cc-bcc-field-in-message-center-templates
 legacySlug: change-in-cc-bcc-field-in-message-center-templates
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: It will no longer be possible to include the CC/BCC option in the email templates that are sent in the user login flow.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Noticias de la plataforma destacadas en el Nuevo Admin
+title: "Noticias de la plataforma destacadas en el Nuevo Admin"
 id: 607y5tzdlKEsgueAAsWaUE
 status: PUBLISHED
 createdAt: 2018-03-09T15:29:05.784Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
 slug: announcements-ganan-destaque-en-el-nuevo-admin
 legacySlug: announcements-ganan-destaque-en-el-nuevo-admin
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Usted recibe notificaciones a cada nuevo announcement y acompaña las nuevas noticias directamente de la home.
 ---
 

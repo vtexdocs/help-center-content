@@ -1,5 +1,5 @@
 ---
-title: Integración con Mercado Libre: nueva interfaz para gestionar promociones
+title: "Integración con Mercado Libre: nueva interfaz para gestionar promociones"
 id: 47ojzylckHkLkwEEXuUhX2
 status: PUBLISHED
 createdAt: 2022-06-15T19:53:53.403Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: integracion-con-mercado-libre-nueva-interfaz-para-gestionar-promociones
 legacySlug: integracion-con-mercado-libre-nueva-interfaz-para-gestionar-promociones
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Lanzamiento de la nueva interfaz de gestión de promociones de Mercado Libre
 ---
 

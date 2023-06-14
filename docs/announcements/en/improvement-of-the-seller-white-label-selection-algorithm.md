@@ -1,5 +1,5 @@
 ---
-title: Improvement of the White Label Seller selection algorithm
+title: "Improvement of the White Label Seller selection algorithm"
 id: 2BI2ZElxvLvsfZsly9lLsx
 status: PUBLISHED
 createdAt: 2021-03-04T00:33:02.559Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: improvement-of-the-seller-white-label-selection-algorithm
 legacySlug: improvement-of-the-seller-white-label-selection-algorithm
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Understanding how the seller selection logic works for delivery or pickup
 ---
 

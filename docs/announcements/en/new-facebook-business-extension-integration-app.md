@@ -1,5 +1,5 @@
 ---
-title: New Facebook Business Extension integration app
+title: "New Facebook Business Extension integration app"
 id: 2utLq1XYqIgnQE7Xj0nWer
 status: PUBLISHED
 createdAt: 2021-10-04T14:32:22.349Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: new-facebook-business-extension-integration-app
 legacySlug: 
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: VTEX has developed a new app for you to integrate your store with Facebook Business Extension (FBE).
 ---
 

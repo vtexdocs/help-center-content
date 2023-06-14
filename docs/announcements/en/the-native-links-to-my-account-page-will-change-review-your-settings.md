@@ -1,5 +1,5 @@
 ---
-title: The native links to My Account page will change - review your settings
+title: "The native links to My Account page will change - review your settings"
 id: 5fZyY8ZBL4jni69eJOSEZO
 status: PUBLISHED
 createdAt: 2020-01-30T13:36:02.201Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: authors_31
 slug: the-native-links-to-my-account-page-will-change-review-your-settings
 legacySlug: the-native-links-to-my-account-page-will-change-review-your-settings
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Starting March 9th, the native platform links will direct users to the My Account page.
 ---
 

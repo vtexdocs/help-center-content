@@ -1,5 +1,5 @@
 ---
-title: New concatenation reduces errors in sending emails
+title: "New concatenation reduces errors in sending emails"
 id: 1MxYkGcD2I864SYI0iw8Uy
 status: PUBLISHED
 createdAt: 2018-08-13T18:26:18.982Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: authors_24
 slug: mudanca-na-concatenacao-reduz-erros-no-envio-de-e-mails
 legacySlug: mudanca-na-concatenacao-reduz-erros-no-envio-de-e-mails
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Now your store can use semicolons to separate email addresses, which drastically reduces the number of errors.
 ---
 

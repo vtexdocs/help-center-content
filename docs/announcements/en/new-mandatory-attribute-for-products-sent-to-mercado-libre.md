@@ -1,5 +1,5 @@
 ---
-title: New mandatory attribute for products sent to Mercado Libre
+title: "New mandatory attribute for products sent to Mercado Libre"
 id: 5nr8nGhCLFNtIP5tFkNEpJ
 status: PUBLISHED
 createdAt: 2022-02-25T18:35:17.032Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: new-mandatory-attribute-for-products-sent-to-mercado-libre
 legacySlug: new-mandatory-attribute-for-products-sent-to-mercado-libre
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Products in the Cell phones category in Mercado Libre must have the new mandatory attribute
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Segurança nas suas promoções: revise suas configurações antes de ativá-las
+title: "Segurança nas suas promoções: revise suas configurações antes de ativá-las"
 id: 39JEfh00CNqR9tECQlRPPY
 status: DRAFT
 createdAt: 2021-12-08T13:52:21.718Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: seguranca-nas-suas-promocoes-revise-suas-configuracoes-antes-de-ativa-las1
 legacySlug: seguranca-nas-suas-promocoes
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: O resumo da promoção permite revisar as informações de uma promoção antes de ativá-la e evitar erros na configuração
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Nova funcionalidade Pronto para envio
+title: "Nova funcionalidade Pronto para envio"
 id: 7mBy4v8f3RYybnuPnWtKp9
 status: PUBLISHED
 createdAt: 2022-02-14T13:49:22.658Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: nova-funcionalidade-pronto-para-envio
 legacySlug: nova-funcionalidade-pronto-para-envio
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Nova funcionalidade do VTEX Log para impressão de etiquetas e notificação de transportadoras.
 ---
 

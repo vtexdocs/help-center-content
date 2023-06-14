@@ -1,5 +1,5 @@
 ---
-title: Marketplace: new sidebar with Received SKU details
+title: "Marketplace: new sidebar with Received SKU details"
 id: 7qhY8onDDjdV9gGjICsyO4
 status: PUBLISHED
 createdAt: 2021-05-03T12:29:49.896Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: marketplace-new-sidebar-with-received-sku-details
 legacySlug: marketplace-new-sidebar-with-received-sku-details
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Catalog received SKUs with more agility by checking out their data on the new sidebar. 
 ---
 

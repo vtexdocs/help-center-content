@@ -1,5 +1,5 @@
 ---
-title: New SKU Bindings interface
+title: "New SKU Bindings interface"
 id: 7qbbvVykje1Q9kHT3J4sZE
 status: PUBLISHED
 createdAt: 2022-07-26T00:17:05.202Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: new-sku-bindings-interface
 legacySlug: new-sku-bindings-interface
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: The SKU Bindings page has been redesigned to simplify managing the relationship between sellers' and marketplaces' SKUs.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: New tutorials help B2B stores to implement their business on VTEX
+title: "New tutorials help B2B stores to implement their business on VTEX"
 id: 3rFBd4IyDn53FiYeyYxoT3
 status: CHANGED
 createdAt: 2020-06-02T02:00:25.551Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: authors_24
 slug: new-tutorials-help-b2b-stores-to-implement-their-business-on-vtex
 legacySlug: new-tutorials-help-b2b-stores-to-implement-their-business-on-vtex
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Articles explain step by step how to solve some of the main technological challenges faced by B2B stores.
 ---
 

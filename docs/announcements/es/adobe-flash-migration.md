@@ -1,5 +1,5 @@
 ---
-title: Migración de Adobe Flash 
+title: "Migración de Adobe Flash "
 id: 2oqcLDuGp52PEAuMSLOjPY
 status: PUBLISHED
 createdAt: 2020-06-19T15:28:35.331Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: migracion-de-adobe-flash 
 legacySlug: migracion-de-adobe-flash 
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Debido a la migración de tecnología de navegadores de la herramienta Adobe Flash, VTEX actualizó el módulo CMS
 ---
 

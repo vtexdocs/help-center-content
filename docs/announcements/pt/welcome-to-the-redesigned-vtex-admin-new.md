@@ -1,5 +1,5 @@
 ---
-title: Dê as boas-vindas ao novo Admin VTEX
+title: "Dê as boas-vindas ao novo Admin VTEX"
 id: 428AanFpOiQgRkaLvDHVO9
 status: PUBLISHED
 createdAt: 2023-04-20T22:53:34.943Z
@@ -10,7 +10,7 @@ productTeam: Management
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: de-as-boas-vindas-ao-novo-admin-vtex
 legacySlug: de-as-boas-vindas-ao-novo-admin-vtex
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Estamos trazendo o futuro do comércio até você através do novo design do Admin VTEX. 
 ---
 

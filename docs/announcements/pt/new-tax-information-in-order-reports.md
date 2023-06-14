@@ -1,5 +1,5 @@
 ---
-title: Novas informações sobre taxas no relatório de pedidos
+title: "Novas informações sobre taxas no relatório de pedidos"
 id: 5w4kBsXd6DIzBjyGMe5Tmy
 status: PUBLISHED
 createdAt: 2021-04-08T18:19:51.100Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: novas-informacoes-sobre-taxas-no-relatorio-de-pedidos
 legacySlug: novas-informacoes-sobre-taxas-no-relatorio-de-pedidos
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: A coluna Taxas do relatório de pedidos foi alterada para dar visibilidade sobre o valor total de impostos cobrados.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Restricción de sellers: cree promociones con un mayor control de los sellers impactados
+title: "Restricción de sellers: cree promociones con un mayor control de los sellers impactados"
 id: 6WtmETyavLkN5gaalat300
 status: PUBLISHED
 createdAt: 2020-10-29T15:06:31.823Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: restriccion-de-sellers-cree-promociones-con-un-mayor-control-de-los-sellers
 legacySlug: restriccion-de-sellers-cree-promociones-con-un-mayor-control-de-los-sellers-impactados
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Configuración de inclusión y exclusión de sellers en promociones
 ---
 

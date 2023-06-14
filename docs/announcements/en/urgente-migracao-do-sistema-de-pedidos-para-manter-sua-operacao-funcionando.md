@@ -1,5 +1,5 @@
 ---
-title: PRIORITY ALERT – Orders System Migration: In order to maintain the functioning of your operation, ensure that your integration is up-to-date
+title: "PRIORITY ALERT – Orders System Migration: In order to maintain the functioning of your operation, ensure that your integration is up-to-date"
 id: 34eloUZ70DPYIcJkAevq32
 status: PUBLISHED
 createdAt: 2019-07-30T16:56:23.667Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: authors_31
 slug: urgente-migracao-do-sistema-de-pedidos-para-manter-sua-operacao-funcionando
 legacySlug: urgente-migracao-do-sistema-de-pedidos-para-manter-sua-operacao-funcionando
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: In order to maintain the functioning of your operation, ensure that your integration is up-to-date
 ---
 

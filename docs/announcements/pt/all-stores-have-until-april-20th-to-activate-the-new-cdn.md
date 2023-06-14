@@ -1,5 +1,5 @@
 ---
-title: Lojas têm até 20 de abril para ativar nova CDN
+title: "Lojas têm até 20 de abril para ativar nova CDN"
 id: 5adW2wXWCIyAW2yOmoo2gC
 status: PUBLISHED
 createdAt: 2018-01-19T12:38:21.031Z
@@ -10,7 +10,7 @@ productTeam: Reliability
 author: authors_24
 slug: lojas-tem-ate-20-de-abril-para-ativar-nova-cdn
 legacySlug: lojas-tem-ate-20-de-abril-para-ativar-nova-cdn
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: A nova CDN da VTEX já estava disponível desde outubro de 2017, trazendo mais segurança e melhor performance.
 ---
 

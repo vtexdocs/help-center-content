@@ -1,5 +1,5 @@
 ---
-title: Now you can take part on building a better VTEX Help
+title: "Now you can take part on building a better VTEX Help"
 id: 5JNpQCJAreQQs8AiukyGOe
 status: PUBLISHED
 createdAt: 2018-03-22T14:38:59.413Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: now-you-can-take-part-on-building-a-better-vtex-help
 legacySlug: now-you-can-take-part-on-building-a-better-vtex-help
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: VTEX Help articles now have a feedback feature to let us know what you're thinking about our content.
 ---
 

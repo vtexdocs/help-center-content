@@ -1,5 +1,5 @@
 ---
-title: Novo Dashboard: Performance de Vendas
+title: "Novo Dashboard: Performance de Vendas"
 id: 5H7Vp6BHhiOmBU8XVj7nvV
 status: PUBLISHED
 createdAt: 2021-10-19T12:36:56.184Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: novo-dashboard-performance-de-vendas
 legacySlug: novo-dashboard-performance-de-vendas
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Analise dados dos seus canais de venda e extraia inteligência de negócio com o novo dashboard de Performance de Vendas
 ---
 

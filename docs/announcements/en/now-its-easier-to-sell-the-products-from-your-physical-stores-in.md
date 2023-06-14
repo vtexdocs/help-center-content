@@ -1,5 +1,5 @@
 ---
-title: Now it’s easier to sell the products from your physical stores in marketplaces
+title: "Now it’s easier to sell the products from your physical stores in marketplaces"
 id: 2rOEBV0tOAoZIgow7CODyj
 status: PUBLISHED
 createdAt: 2019-03-12T21:54:26.822Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 6AcGyun1hSWewU8YcaQiO
 slug: now-its-easier-to-sell-the-products-from-your-physical-stores-in
 legacySlug: now-it's-easier-to-sell-the-products-from-your-physical-stores-in
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: When integrating the main account with a marketplace, franchise accounts inventories are now automatically considered.
 ---
 

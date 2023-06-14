@@ -1,5 +1,5 @@
 ---
-title: Desempeño de Ventas: nuevos filtros, métricas y selección de fechas
+title: "Desempeño de Ventas: nuevos filtros, métricas y selección de fechas"
 id: ABcPlgtpDmSJTFgA3GCAr
 status: PUBLISHED
 createdAt: 2022-07-05T13:14:52.015Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: desempeno-de-ventas-nuevos-filtros-metricas-y-seleccion-de-fechas
 legacySlug: desempeno-de-ventas-nuevos-filtros-metricas-y-seleccion-de-fechas
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Ahora puedes seleccionar fechas personalizadas y utilizar nuevos filtros en la página Desempeño de Ventas.
 ---
 

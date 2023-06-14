@@ -1,5 +1,5 @@
 ---
-title: VTEX Intelligent Search: exporte relatórios mais completos sobre os resultados de pesquisa
+title: "VTEX Intelligent Search: exporte relatórios mais completos sobre os resultados de pesquisa"
 id: PKD6UGgGEcCPUzuD7L9Up
 status: CHANGED
 createdAt: 2020-06-30T16:16:53.923Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: vtex-intelligent-search-exporte-relatorios-mais-completos-sobre-os-resultados-de-pesquisa
 legacySlug: vtex-intelligent-search-exporte-relatorios-mais-completos-sobre-os
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Para criar estratégias de busca mais eficientes, basta exportar as informações de Relatórios do VTEX Intelligent Search.
 ---
 

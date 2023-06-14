@@ -1,5 +1,5 @@
 ---
-title: Indexing History: Updated page allows monitoring product indexing
+title: "Indexing History: Updated page allows monitoring product indexing"
 id: 5FGdz2qz6RwaRUiFdURNqR
 status: PUBLISHED
 createdAt: 2022-09-06T14:42:09.951Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: new-indexation-history-screen
 legacySlug: new-indexation-history-screen
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: The updated Indexing History page allows you to track the indexing of your store's products
 ---
 

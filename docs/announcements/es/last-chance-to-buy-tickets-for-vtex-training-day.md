@@ -1,5 +1,5 @@
 ---
-title: Última oportunidad para comprar entradas para el VTEX Training Day
+title: "Última oportunidad para comprar entradas para el VTEX Training Day"
 id: 2EljRWj5qo2qiW00uSY4ki
 status: PUBLISHED
 createdAt: 2018-11-14T19:18:25.180Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
 slug: ultima-oportunidad-para-comprar-entradas-para-el-vtex-training-day
 legacySlug: ultima-oportunidad-para-comprar-entradas-para-el-vtex-training-day
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Aproveche esta oportunidad de hacer una inmersión completa en la plataforma y convertirse en un verdadero experto VTEX.
 ---
 

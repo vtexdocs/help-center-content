@@ -1,5 +1,5 @@
 ---
-title: Social Selling: share inStore carts using QR codes
+title: "Social Selling: share inStore carts using QR codes"
 id: 5k1WJysjAhZeLsA4ljvasP
 status: PUBLISHED
 createdAt: 2021-12-09T19:39:56.220Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
 slug: social-selling-share-instore-carts-using-qr-codes
 legacySlug: social-selling-share-instore-carts-using-qr-codes
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Now inStore Social Selling allows you to share QR codes for customers to complete their purchases.
 ---
 

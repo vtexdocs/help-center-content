@@ -1,5 +1,5 @@
 ---
-title: Nueva lista de promociones: administra las promociones de forma más eficiente
+title: "Nueva lista de promociones: administra las promociones de forma más eficiente"
 id: 41WGnqeWRM4AWlTmoYqz8Y
 status: PUBLISHED
 createdAt: 2022-07-12T13:26:11.563Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: nueva-lista-de-promociones-administra-las-promociones-de-forma-mas-eficiente
 legacySlug: nueva-lista-de-promociones-administra-las-promociones-de-forma-mas-eficiente
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: La nueva lista de promociones te permite administrar mejor y más rápido las promociones de tu tienda.
 ---
 

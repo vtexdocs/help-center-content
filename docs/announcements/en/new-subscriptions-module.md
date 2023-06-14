@@ -1,5 +1,5 @@
 ---
-title: New Subscriptions module
+title: "New Subscriptions module"
 id: 6PfEmqovkZF97AZUp1owdf
 status: PUBLISHED
 createdAt: 2021-02-02T15:31:07.376Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: new-subscriptions-module
 legacySlug: new-subscriptions-module
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: The Subscriptions module is the VTEX solution for recurring orders in your store, and it is continuously evolving.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: New API routes for automatic approval of Received SKUs
+title: "New API routes for automatic approval of Received SKUs"
 id: 5hpcWmKE2CnTYtuDXriUzR
 status: PUBLISHED
 createdAt: 2020-12-18T15:52:36.273Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: new-api-routes-for-automatic-approval-of-received-skus
 legacySlug: new-api-routes-for-automatic-approval-of-received-skus
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Marketplace: new API routes for automatic approval of received SKUs
 ---
 

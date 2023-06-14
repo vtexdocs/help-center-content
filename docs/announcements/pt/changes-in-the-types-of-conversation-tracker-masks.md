@@ -1,5 +1,5 @@
 ---
-title: Mudanças nos tipos de máscara do Conversation Tracker
+title: "Mudanças nos tipos de máscara do Conversation Tracker"
 id: 2PlNLiKcBVH2v888Vy5OGS
 status: PUBLISHED
 createdAt: 2021-04-26T15:06:45.617Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: mudancas-nos-tipos-de-mascara-do-conversation-tracker
 legacySlug: mudancas-nos-tipos-de-mascara-do-conversation-tracker
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Na interface no idioma português, substituímos os tipos de máscara Hard e Soft pelos termos Complexa e Simples.
 ---
 

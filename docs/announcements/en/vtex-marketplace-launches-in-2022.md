@@ -1,5 +1,5 @@
 ---
-title: VTEX marketplace launches in 2022
+title: "VTEX marketplace launches in 2022"
 id: 2hrbiew2bPvU7TJNZcLQDM
 status: PUBLISHED
 createdAt: 2022-10-17T20:24:03.654Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: vtex-marketplace-launches-in-2022
 legacySlug: vtex-marketplace-launches-in-2022
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: We've launched four new features to boost your marketplace operation.
 ---
 

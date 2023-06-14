@@ -1,5 +1,5 @@
 ---
-title: Pricing V1 Module will be discontinued: update your store by September
+title: "Pricing V1 Module will be discontinued: update your store by September"
 id: 46YxKNOCLH2Ykw6a9uyxXB
 status: PUBLISHED
 createdAt: 2020-08-14T18:18:05.440Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: pricing-v1-module-will-be-discontinued-update-your-store-by-september
 legacySlug: pricing-v1-module-will-be-discontinued-update-your-store-by-september
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: With Pricing V1 deprecation, see how to migrate your store to the most updated version of the Prices module
 ---
 

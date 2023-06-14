@@ -1,5 +1,5 @@
 ---
-title: Histórico da Indexação: atualização de tela para monitorar a indexação dos produtos
+title: "Histórico da Indexação: atualização de tela para monitorar a indexação dos produtos"
 id: 5FGdz2qz6RwaRUiFdURNqR
 status: PUBLISHED
 createdAt: 2022-09-06T14:42:09.951Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: nova-tela-historico-da-indexacao
 legacySlug: nova-tela-historico-da-indexacao
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Atualização da tela Histórico da Indexação permite acompanhar a indexação dos produtos da sua loja
 ---
 

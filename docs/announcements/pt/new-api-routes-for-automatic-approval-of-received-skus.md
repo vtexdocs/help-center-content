@@ -1,5 +1,5 @@
 ---
-title: Novas rotas de API para a aprovação automática de SKUs Recebidos
+title: "Novas rotas de API para a aprovação automática de SKUs Recebidos"
 id: 5hpcWmKE2CnTYtuDXriUzR
 status: PUBLISHED
 createdAt: 2020-12-18T15:52:36.273Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: novas-rotas-de-api-para-a-aprovacao-automatica-de-skus-recebidos
 legacySlug: novas-rotas-de-api-para-a-aprovacao-automatica-de-skus-recebidos
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Marketplace: novas rotas de API para aprovação automática de SKUs recebidos
 ---
 

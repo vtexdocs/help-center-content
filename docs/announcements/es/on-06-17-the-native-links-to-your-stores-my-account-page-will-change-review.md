@@ -1,5 +1,5 @@
 ---
-title: Mi Cuenta: En 17/06 los links de la página Mi Cuenta van a cambiar - revise sus configuraciones
+title: "Mi Cuenta: En 17/06 los links de la página Mi Cuenta van a cambiar - revise sus configuraciones"
 id: 2N9T3weFs2VDXan6vrGgnC
 status: CHANGED
 createdAt: 2020-05-26T14:16:56.645Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: en-17-06-los-links-de-la-pagina-mi-cuenta-van-a-cambiar-revise-sus
 legacySlug: en-17-06-los-links-de-la-pagina-mi-cuenta-van-a-cambiar-revise-sus
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: En el 17 de junio, su cliente accederá a toda su información, a través de una única URL "/account".
 ---
 

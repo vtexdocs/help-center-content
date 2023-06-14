@@ -1,5 +1,5 @@
 ---
-title: Integração Amazon: gerencie seus pedidos FBA Classic e DBA no Admin VTEX
+title: "Integração Amazon: gerencie seus pedidos FBA Classic e DBA no Admin VTEX"
 id: aEwDY3x18zaUEISTzO7no
 status: CHANGED
 createdAt: 2023-01-25T13:54:02.256Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slug: gerencie-seus-pedidos-fbaclassic-dba-em-um-so-lugar
 legacySlug: gerencie-seus-pedidos-fbaclassic-dba-em-um-so-lugar
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Agora você pode gerenciar todos os seus pedidos Amazon FBA Classic e DBA em um só lugar.
 ---
 

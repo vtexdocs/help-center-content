@@ -1,5 +1,5 @@
 ---
-title: Social Selling: compartir el carrito de inStore
+title: "Social Selling: compartir el carrito de inStore"
 id: 6FW62Bd5Op59A2ELL6t8fh
 status: PUBLISHED
 createdAt: 2021-08-05T13:26:11.038Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
 slug: social-selling-compartir-el-carrito-de-instore
 legacySlug: social-selling-compartir-el-carrito-de-instore
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Los vendedores de las tiendas físicas pueden vender a través de las redes sociales mediante inStore Social Selling.
 ---
 

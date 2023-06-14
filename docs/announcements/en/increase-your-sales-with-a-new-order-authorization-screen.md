@@ -1,5 +1,5 @@
 ---
-title: Increase your sales with a new Order Authorization screen
+title: "Increase your sales with a new Order Authorization screen"
 id: 7EXIgaESHfI46lkaZw9jrQ
 status: CHANGED
 createdAt: 2019-03-26T18:22:14.655Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 1E4UkWguFZAXjkguvNHPIv
 slug: increase-your-sales-with-a-new-order-authorization-screen
 legacySlug: increase-your-sales-with-a-new-order-authorization-screen
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: This tool allows to control order approvals with changes in their values.
 ---
 

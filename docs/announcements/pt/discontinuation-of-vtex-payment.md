@@ -1,5 +1,5 @@
 ---
-title: Descontinuação do VTEX Payment
+title: "Descontinuação do VTEX Payment"
 id: 6BkEnyzVDHfoKwPnGdqBRs
 status: PUBLISHED
 createdAt: 2022-07-07T19:20:19.592Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 slug: descontinuacao-do-vtex-payment
 legacySlug: descontinuacao-do-vtex-payment
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Descontinuação do VTEX Payment
 ---
 

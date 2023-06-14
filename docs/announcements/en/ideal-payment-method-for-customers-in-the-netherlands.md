@@ -1,5 +1,5 @@
 ---
-title: iDEAL: Payment method for customers in The Netherlands
+title: "iDEAL: Payment method for customers in The Netherlands"
 id: 2BXpvEX5EkymnK5wWsKKKV
 status: PUBLISHED
 createdAt: 2021-05-06T19:55:33.454Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: ideal-payment-method-for-customers-in-the-netherlands
 legacySlug: ideal-payment-method-for-customers-in-the-netherlands
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN:  One of the main payment methods in the Netherlands, can now be integrated into your store through Adyen.
 ---
 

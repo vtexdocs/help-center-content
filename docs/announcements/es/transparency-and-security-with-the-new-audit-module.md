@@ -1,5 +1,5 @@
 ---
-title: Transparencia y seguridad con el nuevo módulo Audit
+title: "Transparencia y seguridad con el nuevo módulo Audit"
 id: 6pEQQIFfZ1zB5RsheYOlHd
 status: PUBLISHED
 createdAt: 2021-10-21T14:48:01.106Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 4SqDPmUJIIz2KMMKgiyqKl
 slug: transparencia-y-seguridad-con-el-nuevo-modulo-audit
 legacySlug: transparencia-y-seguridad-con-el-nuevo-modulo-audit
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Lanzamiento de una nueva herramienta de auditoría
 ---
 

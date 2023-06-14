@@ -1,5 +1,5 @@
 ---
-title: 
+title: ""
 id: 1ig1mRtAQEKmMwy86qEwgu
 status: DRAFT
 createdAt: 2018-05-03T18:17:02.264Z
@@ -10,7 +10,7 @@ productTeam: Master Data
 author: 
 slug: untitled-entry-2018-05-03-at-06-17-02
 legacySlug: 
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: 
 ---
 

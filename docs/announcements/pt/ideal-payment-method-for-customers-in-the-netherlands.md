@@ -1,5 +1,5 @@
 ---
-title: iDEAL: Meio de pagamento para clientes da Holanda
+title: "iDEAL: Meio de pagamento para clientes da Holanda"
 id: 2BXpvEX5EkymnK5wWsKKKV
 status: PUBLISHED
 createdAt: 2021-05-06T19:55:33.454Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: ideal-meio-de-pagamento-para-clientes-da-holanda
 legacySlug: ideal-meio-de-pagamento-para-clientes-da-holanda
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Um dos principais meios de pagamento da Holanda, agora pode ser integrado à sua loja por meio da Adyen.
 ---
 

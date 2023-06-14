@@ -1,5 +1,5 @@
 ---
-title: Nueva interface de Vínculos de SKU
+title: "Nueva interface de Vínculos de SKU"
 id: 7qbbvVykje1Q9kHT3J4sZE
 status: PUBLISHED
 createdAt: 2022-07-26T00:17:05.202Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: nueva-interface-de-vinculos-de-sku
 legacySlug: nueva-interface-de-vinculos-de-sku
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Hemos rediseñado Vínculos de SKU para facilitar la relación entre los SKU de los sellers y de los marketplaces.
 ---
 

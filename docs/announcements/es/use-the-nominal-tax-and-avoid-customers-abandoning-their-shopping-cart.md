@@ -1,5 +1,5 @@
 ---
-title: Utilice la Tasa Nominal y evite que sus clientes abandonen el carrito de compras
+title: "Utilice la Tasa Nominal y evite que sus clientes abandonen el carrito de compras"
 id: 5dPMJlTG0rP467QUNFKtNY
 status: PUBLISHED
 createdAt: 2019-12-12T21:33:46.613Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 1E4UkWguFZAXjkguvNHPIv
 slug: utilice-la-tasa-nominal-y-evite-que-sus-clientes-abandonen-el-carrito-de
 legacySlug: utilice-la-tasa-nominal-y-evite-que-sus-clientes-abandonen-el-carrito-de
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: La herramienta es útil para muchas estrategias de negocio, inclusive prevenir que, al final de la compra.
 ---
 

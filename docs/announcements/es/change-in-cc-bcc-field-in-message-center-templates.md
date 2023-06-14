@@ -1,5 +1,5 @@
 ---
-title: Alteración en el campo CC/CCO en los templates del Centro de Mensaje 
+title: "Alteración en el campo CC/CCO en los templates del Centro de Mensaje "
 id: 3UFXa6mCy9ZP7aESHZCVOn
 status: PUBLISHED
 createdAt: 2020-04-02T14:27:35.727Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: alteracion-en-el-campo-cc-cco-en-los-templates-del-centro-de-mensaje
 legacySlug: alteracion-en-el-campo-cc-cco-en-los-templates-del-centro-de-mensaje
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Ya no será posible incluir la opción de CC/CCO en los templates de correo electrónico enviados en el flujo de login.
 ---
 

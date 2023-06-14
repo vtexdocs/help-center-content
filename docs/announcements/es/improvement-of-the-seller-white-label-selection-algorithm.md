@@ -1,5 +1,5 @@
 ---
-title: Mejora del algoritmo de selección de Sellers White Label
+title: "Mejora del algoritmo de selección de Sellers White Label"
 id: 2BI2ZElxvLvsfZsly9lLsx
 status: PUBLISHED
 createdAt: 2021-03-04T00:33:02.559Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: mejora-del-algoritmo-de-seleccion-de-sellers-white-label
 legacySlug: mejora-del-algoritmo-de-seleccion-de-sellers-white-label
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES:   Entienda cómo funciona la lógica de la elección de sellers para entrega o recogida.
 ---
 

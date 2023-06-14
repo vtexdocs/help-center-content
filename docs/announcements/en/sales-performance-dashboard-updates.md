@@ -1,5 +1,5 @@
 ---
-title: Sales Performance dashboard updates
+title: "Sales Performance dashboard updates"
 id: 6ceR0kY06UBnOrcltY0D8r
 status: PUBLISHED
 createdAt: 2022-03-08T15:03:39.709Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: sales-performance-dashboard-updates
 legacySlug: sales-performance-dashboard-updates
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: We have launched new filters, suggested views, data in near-real time, and new ways of viewing the data. 
 ---
 

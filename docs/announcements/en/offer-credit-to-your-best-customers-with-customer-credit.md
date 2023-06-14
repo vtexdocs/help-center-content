@@ -1,5 +1,5 @@
 ---
-title: Offer credit to your best customers with Customer Credit
+title: "Offer credit to your best customers with Customer Credit"
 id: 6M2V1Oc1UIaGSM6QayWkmq
 status: PUBLISHED
 createdAt: 2018-11-28T14:19:45.783Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: offer-credit-to-your-best-customers-with-customer-credit
 legacySlug: offer-credit-to-your-best-customers-with-customer-credit
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Credit Control will be replaced by VTEX's new credit solution for your store's clients. 
 ---
 

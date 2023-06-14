@@ -1,5 +1,5 @@
 ---
-title: New Promotion List: Manage your promotions more efficiently
+title: "New Promotion List: Manage your promotions more efficiently"
 id: 41WGnqeWRM4AWlTmoYqz8Y
 status: PUBLISHED
 createdAt: 2022-07-12T13:26:11.563Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: new-promotion-list-manage-your-promotions-more-efficiently
 legacySlug: new-promotion-list-manage-your-promotions-more-efficiently
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: The new Promotion List allows you to manage your store's promotions in a complete and optimized way.
 ---
 

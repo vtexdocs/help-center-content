@@ -1,5 +1,5 @@
 ---
-title: A navegação no Admin agora é restrita de acordo com o perfil de acesso do usuário
+title: "A navegação no Admin agora é restrita de acordo com o perfil de acesso do usuário"
 id: 4AkzWcYXhsLboTZeSW3jcj
 status: PUBLISHED
 createdAt: 2021-05-03T12:51:16.640Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: navegacao-no-admin-agora-e-restrita-de-acordo-com-o-perfil-de-acesso-do-usuario
 legacySlug: a-navegacao-no-admin-agora-e-restrita-de-acordo-com-o-perfil-de-acesso-do
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Usuários verão apenas os itens do menu lateral que têm permissão para acessar, de acordo com seus perfis de acesso.
 ---
 

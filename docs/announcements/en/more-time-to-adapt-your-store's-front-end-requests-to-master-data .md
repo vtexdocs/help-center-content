@@ -1,5 +1,5 @@
 ---
-title: More time to adapt your store's front-end requests to Master Data
+title: "More time to adapt your store's front-end requests to Master Data"
 id: 6pCQO6hn2eK7h6e6vrqAdk
 status: PUBLISHED
 createdAt: 2019-09-24T16:20:44.119Z
@@ -10,7 +10,7 @@ productTeam: Master Data
 author: authors_31
 slug: more-time-to-adapt-your-store's-front-end-requests-to-master-data 
 legacySlug: mais-tempo-para-adaptar-as-requisicoes-de-front-end-da-sua-loja-ao-master
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Resource discontinuation extended to October 7th, 2019
 ---
 

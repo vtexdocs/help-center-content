@@ -1,5 +1,5 @@
 ---
-title: Vale-alimentação Alelo: diversifique as opções de pagamento da sua loja 
+title: "Vale-alimentação Alelo: diversifique as opções de pagamento da sua loja "
 id: 6Zzv982QHlBUwJW1gVnEyW
 status: CHANGED
 createdAt: 2020-06-30T14:18:03.222Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: vale-alimentacao-alelo-diversifique-as-opcoes-de-pagamento-da-sua-loja
 legacySlug: vale-alimentacao-alelo-diversifique-as-opcoes-de-pagamento-da-sua-loja
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: A VTEX lança sua primeira opção de vale-alimentação como meio de pagamento.
 ---
 

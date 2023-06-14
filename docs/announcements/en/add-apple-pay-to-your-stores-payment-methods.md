@@ -1,5 +1,5 @@
 ---
-title:  Add Apple Pay to your store's payment methods
+title: " Add Apple Pay to your store's payment methods"
 id: 2S1medaBEQOY6U2oOoG2wO
 status: PUBLISHED
 createdAt: 2018-04-12T20:40:50.288Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: authors_24
 slug: add-apple-pay-to-your-stores-payment-methods
 legacySlug: add-apple-pay-to-your-stores-payment-methods
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: VTEX is the first brazilian ecommerce platform to offer full integration with Apple Pay.
 ---
 

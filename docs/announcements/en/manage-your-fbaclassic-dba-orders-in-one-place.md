@@ -1,5 +1,5 @@
 ---
-title: Amazon Integration: Manage your FBA Classic and DBA orders in the VTEX Admin
+title: "Amazon Integration: Manage your FBA Classic and DBA orders in the VTEX Admin"
 id: aEwDY3x18zaUEISTzO7no
 status: CHANGED
 createdAt: 2023-01-25T13:54:02.256Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slug: manage-your-fbaclassic-dba-orders-in-one-place
 legacySlug: manage-your-fbaclassic-dba-orders-in-one-place
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Now you can manage all your Amazon FBA Classic and DBA orders in one place.
 ---
 

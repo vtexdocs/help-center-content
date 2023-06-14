@@ -1,5 +1,5 @@
 ---
-title: Marketplace Network e Integrações agora são uma só página
+title: "Marketplace Network e Integrações agora são uma só página"
 id: 1nTEu10ZCyLAkav33iI2at
 status: PUBLISHED
 createdAt: 2023-04-18T12:45:16.666Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slug: marketplace-network-e-integracoes-agora-sao-uma-so-pagina
 legacySlug: marketplace-network-e-integracoes-agora-sao-uma-so-pagina
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Unificamos o Marketplace Network e o módulo de Integrações, agora eles são a Marketplaces e Integrações.
 ---
 

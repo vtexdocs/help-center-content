@@ -1,5 +1,5 @@
 ---
-title: Obtenga más practicidad para registrar precios por plantilla utilizando metadatos de SKUs
+title: "Obtenga más practicidad para registrar precios por plantilla utilizando metadatos de SKUs"
 id: 5ln4wq8nuvaGhlBDEjEMKi
 status: PUBLISHED
 createdAt: 2019-05-27T20:35:45.666Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 71cQH3Q0oKXzeY2DmMZRKX
 slug: obtenga-más-practicidad-para-registrar-precios-por-plantilla-utilizando-metadatos-de-skus.
 legacySlug: obtenga-mas-practicidad-para-registrar-precios-por-plantilla-utilizando-metadatos-de-skus
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Nuestro equipo desenvolucró más una funcionalidad para el modulo de precios.
 ---
 

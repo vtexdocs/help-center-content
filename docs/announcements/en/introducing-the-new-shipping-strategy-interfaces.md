@@ -1,5 +1,5 @@
 ---
-title: Introducing the new Shipping Strategy interfaces
+title: "Introducing the new Shipping Strategy interfaces"
 id: 4OzIFTj9ywcuE5a5jg8WD7
 status: PUBLISHED
 createdAt: 2023-05-31T15:49:13.447Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: introducing-the-new-shipping-strategy-interfaces
 legacySlug: introducing-the-new-shipping-strategy-interfaces
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: The new shipping strategy interfaces beta release.
 ---
 

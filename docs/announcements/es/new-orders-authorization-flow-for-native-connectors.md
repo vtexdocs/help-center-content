@@ -1,5 +1,5 @@
 ---
-title: Nuevo flujo de Autorización de pedidos para conectores nativos
+title: "Nuevo flujo de Autorización de pedidos para conectores nativos"
 id: 3Y6aNbbRJRQxn7kykYPfU6
 status: PUBLISHED
 createdAt: 2021-12-28T20:44:32.579Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: nuevo-flujo-de-autorizacion-de-pedidos-para-conectores-nativos
 legacySlug: nuevo-flujo-de-autorizacion-de-pedidos-para-conectores-nativos
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Pedidos de conectores nativos con error de divergencia de precios ahora son procesados por Gestión de pedidos.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Assinaturas: aplicativo disponível na VTEX App Store
+title: "Assinaturas: aplicativo disponível na VTEX App Store"
 id: 2McDzhB4uyLEcabCrBjeNt
 status: DRAFT
 createdAt: 2022-07-26T22:53:03.914Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: assinaturas-aplicativo-disponivel-na-vtex-app-store
 legacySlug: assinaturas-aplicativo-disponivel-na-vtex-app-store
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: O aplicativo de Assinaturas está disponível de forma gratuita na VTEX App Store.
 ---
 

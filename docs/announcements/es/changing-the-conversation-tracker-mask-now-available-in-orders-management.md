@@ -1,5 +1,5 @@
 ---
-title: Cambio en la máscara de Conversation Tracker. Ahora disponible en Gestión de Pedidos.
+title: "Cambio en la máscara de Conversation Tracker. Ahora disponible en Gestión de Pedidos."
 id: 4rjAD05fBp6zVeIJL7I6TY
 status: CHANGED
 createdAt: 2020-04-08T16:29:31.816Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: cambio-en-la-mascara-de-conversation-tracker-ahora-disponible-en-gestion-de-pedidos
 legacySlug: cambio-en-la-mascara-de-conversation-tracker-ahora-disponible-en-gestion-de-pedidos
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Ahora es posible cambiar la máscara del Conversation Tracker (modos Soft y Hard) a través del módulo Gestión de Pedidos.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Build and scale your fulfillment operation with VTEX Pick and Pack
+title: "Build and scale your fulfillment operation with VTEX Pick and Pack"
 id: 5kaHPAss7KHnplbJyUsPmw
 status: PUBLISHED
 createdAt: 2023-04-06T18:48:49.599Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: build-and-scale-your-fulfillment-operation-with-vtex-pick-and-pack
 legacySlug: build-and-scale-your-fulfillment-operation-with-vtex-pick-and-pack
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: VTEX Pick and Pack provides a single place for merchants to  manage picking, packing and last-mile delivery.
 ---
 

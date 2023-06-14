@@ -1,5 +1,5 @@
 ---
-title: Integration methods with the catalog through Web Service will be discontinued
+title: "Integration methods with the catalog through Web Service will be discontinued"
 id: 1GmJhvCNvKAYWwwIEeyOey
 status: PUBLISHED
 createdAt: 2018-08-21T22:22:45.403Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: authors_24
 slug: integration-methods-with-the-catalog-through-web-service-will-be
 legacySlug: integration-methods-with-the-catalog-through-web-service-will-be
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: On 10/29, we will discontinue some Web Service methods for integration with the catalog.
 ---
 

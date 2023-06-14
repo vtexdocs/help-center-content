@@ -1,5 +1,5 @@
 ---
-title: Affiliations with native split and seller change
+title: "Affiliations with native split and seller change"
 id: HZrgfF4RMTX9DHv4erOR6
 status: PUBLISHED
 createdAt: 2020-12-22T23:33:48.841Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: affiliations-with-native-split-and-seller-change
 legacySlug: affiliations-with-native-split-and-seller-change
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: New capture behaviors allow seller change and make marketplaces flexible with native split affiliations.
 ---
 

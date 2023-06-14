@@ -1,5 +1,5 @@
 ---
-title: Prepare sua loja para a Black Friday com nossa Cartilha de Boas Práticas
+title: "Prepare sua loja para a Black Friday com nossa Cartilha de Boas Práticas"
 id: 60ADfVs1fqk2wG2Yggm6am
 status: PUBLISHED
 createdAt: 2018-09-19T18:36:49.266Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: authors_24
 slug: prepare-sua-loja-para-a-black-friday-com-nossa-cartilha-de-boas-praticas
 legacySlug: prepare-sua-loja-para-a-black-friday-com-nossa-cartilha-de-boas-praticas
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Siga nossas recomendações e dicas exclusivas para aproveitar todas as oportunidades de venda da Black Friday.
 ---
 

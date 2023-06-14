@@ -1,5 +1,5 @@
 ---
-title: Otimize seu sistema de faturamento com o novo recurso de múltiplas etiquetas da B2W Entregas
+title: "Otimize seu sistema de faturamento com o novo recurso de múltiplas etiquetas da B2W Entregas"
 id: 4IbkyNcmGrbwwDl5jpIuBk
 status: CHANGED
 createdAt: 2019-08-15T14:11:57.695Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: otimize-seu-sistema-de-faturamento-com-o-novo-recurso-de-multiplas
 legacySlug: otimize-seu-sistema-de-faturamento-com-o-novo-recurso-de-multiplas
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: VTEX terá emissão de múltiplas etiquetas para pedidos feitos na B2W. Funcionalidade disponível apenas para o Brasil.
 ---
 

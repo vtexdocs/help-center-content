@@ -1,5 +1,5 @@
 ---
-title: Headless CMS: crie páginas não duplicáveis
+title: "Headless CMS: crie páginas não duplicáveis"
 id: 6aSxQhpcb1RCnaWYcUAnoz
 status: DRAFT
 createdAt: 2023-04-06T15:19:47.475Z
@@ -10,7 +10,7 @@ productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
 slug: headless-cms-crie-paginas-nao-duplicaveis
 legacySlug: headless-cms-crie-paginas-nao-duplicaveis
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Conheça o Singleton: tipo de content type no Headless CMS que impede duplicatas e mantém conteúdo consistente na loja.
 ---
 

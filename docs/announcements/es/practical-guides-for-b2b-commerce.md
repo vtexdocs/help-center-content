@@ -1,5 +1,5 @@
 ---
-title: Guías prácticas para comercio B2B
+title: "Guías prácticas para comercio B2B"
 id: 6rKmOzPK1H85hnOdqJzX55
 status: PUBLISHED
 createdAt: 2021-04-07T12:09:48.977Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: guias-practicas-para-comercio-b2b
 legacySlug: guias-practicas-para-comercio-b2b
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Nuevos tutoriales destacan los recursos disponibles en la plataforma para los diferentes escenarios de ecommerce B2B.
 ---
 

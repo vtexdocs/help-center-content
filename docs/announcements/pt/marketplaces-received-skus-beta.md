@@ -1,5 +1,5 @@
 ---
-title: Marketplaces: aprove e gerencie SKUs com o novo SKUs Recebidos em beta.
+title: "Marketplaces: aprove e gerencie SKUs com o novo SKUs Recebidos em beta."
 id: 4Aav8DeyToIqD5E0nGuUA3
 status: CHANGED
 createdAt: 2019-09-09T18:14:02.119Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: vztwQkZv4z6EwDVwdqbsw
 slug: marketplaces-skus-recebidos-beta
 legacySlug: marketplaces-skus-recebidos-beta
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Marketplaces: aprove e gerencie SKUs com o novo SKUs Recebidos em beta.
 ---
 

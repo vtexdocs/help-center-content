@@ -1,5 +1,5 @@
 ---
-title: Melhoria no processo de onboarding do inStore para uma experiência mais fluida
+title: "Melhoria no processo de onboarding do inStore para uma experiência mais fluida"
 id: 73mV4YZfVo6YVC3Lkxw805
 status: PUBLISHED
 createdAt: 2023-04-13T18:20:12.438Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: setup-instore-nova-versao
 legacySlug: setup-instore-nova-versao
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Nova versão do inStore Setup agora apresenta configurações automáticas
 ---
 

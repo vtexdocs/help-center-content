@@ -1,5 +1,5 @@
 ---
-title: Mejora en la visualización de precios con descuentos
+title: "Mejora en la visualización de precios con descuentos"
 id: 2qU1yejVHL8xbLjxmNrXvk
 status: DRAFT
 createdAt: 2021-04-19T13:06:53.118Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: mejora-en-la-visualizacion-de-precios-con-descuentos
 legacySlug: mejora-en-la-visualizacion-de-precios-con-descuentos
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES:  Mejora en la visualización de precios en el Checkout cuando hay descuentos aplicables a un número limitado de cuotas.  
 ---
 

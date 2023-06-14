@@ -1,5 +1,5 @@
 ---
-title: Fewer abandoned carts with the new Checkout heuristic
+title: "Fewer abandoned carts with the new Checkout heuristic"
 id: 3XLEhUnRe3jjzUGLbDEZJz
 status: CHANGED
 createdAt: 2020-05-30T13:08:43.104Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: authors_24
 slug: fewer-abandoned-carts-with-the-new-checkout-heuristic
 legacySlug: fewer-abandoned-carts-with-the-new-checkout-heuristic
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: We changed the logic that defines the order of choice of sellers for franchise accounts, thus reducing abandoned carts.
 ---
 

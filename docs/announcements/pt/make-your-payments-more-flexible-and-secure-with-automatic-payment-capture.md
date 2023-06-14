@@ -1,5 +1,5 @@
 ---
-title: Captura automática: flexibilize e proteja o recebimento dos seus pagamentos 
+title: "Captura automática: flexibilize e proteja o recebimento dos seus pagamentos "
 id: 1nrL1zneJm3MPZwO5Lb9cp
 status: PUBLISHED
 createdAt: 2020-09-30T21:50:51.930Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: captura-automatica-flexibilize-e-proteja-o-recebimento-dos-seus-pagamentos
 legacySlug: captura-automatica-flexibilize-e-proteja-o-recebimento-dos-seus-pagamentos
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Novo recurso permite que lojista configure o tempo máximo para que a captura automática aconteça
 ---
 

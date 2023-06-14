@@ -1,5 +1,5 @@
 ---
-title: Practical guides for B2B commerce
+title: "Practical guides for B2B commerce"
 id: 6rKmOzPK1H85hnOdqJzX55
 status: PUBLISHED
 createdAt: 2021-04-07T12:09:48.977Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: practical-guides-for-b2b-commerce
 legacySlug: practical-guides-for-b2b-commerce
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: New tutorials present the main features available on the platform for different B2B ecommerce scenarios.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Ficou mais fácil vender os produtos das suas lojas físicas em marketplaces
+title: "Ficou mais fácil vender os produtos das suas lojas físicas em marketplaces"
 id: 2rOEBV0tOAoZIgow7CODyj
 status: PUBLISHED
 createdAt: 2019-03-12T21:54:26.822Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 6AcGyun1hSWewU8YcaQiO
 slug: ficou-mais-facil-vender-os-produtos-das-suas-lojas-fisicas-em-marketplaces
 legacySlug: ficou-mais-facil-vender-os-produtos-das-suas-lojas-fisicas-em-marketplaces
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Agora, ao integrar a conta principal a um marketplace, os estoques das contas-franquia são considerados automaticamente.
 ---
 

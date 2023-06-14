@@ -1,5 +1,5 @@
 ---
-title: Empower your customers with the new "Reviews and Ratings" app
+title: "Empower your customers with the new "Reviews and Ratings" app"
 id: 3hIYH0F9hNa1058hGWtb6b
 status: PUBLISHED
 createdAt: 2020-12-07T18:49:04.152Z
@@ -10,7 +10,7 @@ productTeam: Apps
 author: LSspaTnBWFvnlgdBYPyog
 slug: empower-your-customers-with-the-new-reviews-and-ratings-app
 legacySlug: empower-your-customers-with-the-new-reviews-and-ratings-app
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN:   Allow your consumer to review and rate your store products with the new VTEX App Store: Reviews and Ratings app
 ---
 

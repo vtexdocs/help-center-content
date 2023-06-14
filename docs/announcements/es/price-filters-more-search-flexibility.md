@@ -1,5 +1,5 @@
 ---
-title: Filtro para precios: más flexibilidad de búsqueda
+title: "Filtro para precios: más flexibilidad de búsqueda"
 id: 4l7hoNvAXGI6rrefWgLvlK
 status: PUBLISHED
 createdAt: 2020-09-11T20:56:24.841Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: filtro-para-precios-mas-flexibilidad-de-busqueda
 legacySlug: filtro-para-precios-mas-flexibilidad-de-busqueda
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Para tener una gestión más dinámica de sus precios, desarrollamos más opciones para la configuración de filtros
 ---
 

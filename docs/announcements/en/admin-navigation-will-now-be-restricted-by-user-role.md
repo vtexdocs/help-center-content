@@ -1,5 +1,5 @@
 ---
-title: Admin navigation will now be restricted by user role
+title: "Admin navigation will now be restricted by user role"
 id: 4AkzWcYXhsLboTZeSW3jcj
 status: PUBLISHED
 createdAt: 2021-05-03T12:51:16.640Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: admin-navigation-will-now-be-restricted-by-user-role
 legacySlug: admin-navigation-will-now-be-restricted-by-user-role
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Users will only see the sidebar menu items they’re allowed to access, according to their user roles and permissions.
 ---
 

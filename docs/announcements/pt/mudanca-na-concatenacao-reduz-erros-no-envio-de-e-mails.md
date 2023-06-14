@@ -1,5 +1,5 @@
 ---
-title: Nova concatenação reduz erros no envio de e-mails
+title: "Nova concatenação reduz erros no envio de e-mails"
 id: 1MxYkGcD2I864SYI0iw8Uy
 status: PUBLISHED
 createdAt: 2018-08-13T18:26:18.982Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: authors_24
 slug: nova-concatenacao-reduz-erros-no-envio-de-e-mails
 legacySlug: nova-concatenacao-reduz-erros-no-envio-de-e-mails
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Agora sua loja pode usar ponto e vírgula para separar endereços de e-mail, o que reduz drasticamente o número de erros.
 ---
 

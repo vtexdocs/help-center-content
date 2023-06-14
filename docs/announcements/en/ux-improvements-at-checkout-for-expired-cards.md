@@ -1,5 +1,5 @@
 ---
-title: UX improvements at checkout for expired cards
+title: "UX improvements at checkout for expired cards"
 id: 63xlwoVYtCo1elfBkQps78
 status: PUBLISHED
 createdAt: 2020-11-23T19:47:40.205Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: ux-improvements-at-checkout-for-expired-cards
 legacySlug: ux-improvements-at-checkout-for-expired-cards
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: We prevent expired cards from being selected during checkout, for a better shopping experience.
 ---
 

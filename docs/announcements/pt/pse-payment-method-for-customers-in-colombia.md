@@ -1,5 +1,5 @@
 ---
-title: PSE: Meio de pagamento para clientes da Colômbia
+title: "PSE: Meio de pagamento para clientes da Colômbia"
 id: 4T22CHOcEV3Nb2RtkJZOFB
 status: PUBLISHED
 createdAt: 2022-05-18T17:57:33.804Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: pse-meio-de-pagamento-para-clientes-da-colombia
 legacySlug: pse-meio-de-pagamento-para-clientes-da-colombia
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Processe suas vendas com um dos meios de pagamento mais conhecidos da Colômbia.
 ---
 

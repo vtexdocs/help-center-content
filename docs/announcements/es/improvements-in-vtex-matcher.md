@@ -1,5 +1,5 @@
 ---
-title: Mejoras en el sistema Matcher de VTEX
+title: "Mejoras en el sistema Matcher de VTEX"
 id: 13KA505i1EQT24u7CPIPrP
 status: PUBLISHED
 createdAt: 2021-06-10T12:17:25.857Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: mejoras-en-el-sistema-matcher-de-vtex
 legacySlug: mejoras-en-el-sistema-matcher-de-vtex
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Hemos reestructurado el sistema Matcher de VTEX para mejorar la catalogación de los SKU del seller en el marketplace
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: El registro de nuevas tarjetas en la página Tarjetas ahora requiere la validación reCAPTCHA
+title: "El registro de nuevas tarjetas en la página Tarjetas ahora requiere la validación reCAPTCHA"
 id: 67gG1eZGUBHQXqEBwTfLk9
 status: PUBLISHED
 createdAt: 2021-11-18T13:23:24.255Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: el-registro-de-nuevas-tarjetas-en-la-pagina-tarjetas-ahora-requiere-la
 legacySlug: el-registro-de-nuevas-tarjetas-en-la-pagina-tarjetas-ahora-requiere-la
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: VTEX requerirá la validación mediante reCAPTCHA cada vez que un cliente registre una nueva tarjeta en la página Tarjetas
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Atualização do jQuery
+title: "Atualização do jQuery"
 id: hwSxHew6NGYQueWmocuaw
 status: PUBLISHED
 createdAt: 2018-07-10T14:40:08.017Z
@@ -10,7 +10,7 @@ productTeam: Reliability
 author: authors_24
 slug: atualizacao-do-jquery
 legacySlug: atualizacao-do-jquery
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: A atualização já está em beta para você testar sua loja. A mudança será completada em 30/07.
 ---
 

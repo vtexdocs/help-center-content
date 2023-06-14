@@ -1,5 +1,5 @@
 ---
-title: Las tiendas tienen hasta el 20 de abril para activar el nuevo CDN
+title: "Las tiendas tienen hasta el 20 de abril para activar el nuevo CDN"
 id: 5adW2wXWCIyAW2yOmoo2gC
 status: PUBLISHED
 createdAt: 2018-01-19T12:38:21.031Z
@@ -10,7 +10,7 @@ productTeam: Reliability
 author: authors_24
 slug: las-tiendas-tienen-hasta-20-de-abril-para-activar-nuevo-cdn
 legacySlug: las-tiendas-tienen-hasta-20-de-abril-para-activar-nuevo-cdn
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: El nuevo CDN de VTEX ya estaba disponible desde octubre de 2017, trayendo más seguridad y mejor desempeño.
 ---
 

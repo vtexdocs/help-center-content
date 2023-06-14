@@ -1,5 +1,5 @@
 ---
-title: VTEX IO documentation has a new home
+title: "VTEX IO documentation has a new home"
 id: 2eOYoB8gNNNSq6zukr8hCH
 status: CHANGED
 createdAt: 2020-04-08T13:51:13.362Z
@@ -10,7 +10,7 @@ productTeam: VTEX IO
 author: 6AcGyun1hSWewU8YcaQiO
 slug: vtex-io-documentation-has-a-new-home
 legacySlug: vtex-io-documentation-has-a-new-home
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: VTEX IO and VTEX IO Store Framework documentation are now available in VTEX IO Docs.
 ---
 

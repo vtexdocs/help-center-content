@@ -1,5 +1,5 @@
 ---
-title: New Orders Authorization Flow for Native Connectors
+title: "New Orders Authorization Flow for Native Connectors"
 id: 3Y6aNbbRJRQxn7kykYPfU6
 status: PUBLISHED
 createdAt: 2021-12-28T20:44:32.579Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: new-orders-authorization-flow-for-native-connectors
 legacySlug: new-orders-authorization-flow-for-native-connectors
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Orders from native connectors that present price divergence errors are now processed by Orders management.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Service Worker files can now operate at full capacity
+title: "Service Worker files can now operate at full capacity"
 id: 5RuFcktluMeYWYWKww4au2
 status: PUBLISHED
 createdAt: 2018-03-15T18:22:49.955Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: authors_24
 slug: service-worker-files-can-now-operate-at-full-capacity
 legacySlug: service-worker-files-can-now-operate-at-full-capacity
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: In this new platform update, Service Worker files can now intercept requests from all parts of your store.
 ---
 

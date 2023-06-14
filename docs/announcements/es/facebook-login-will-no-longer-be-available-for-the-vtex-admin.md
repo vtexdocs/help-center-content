@@ -1,5 +1,5 @@
 ---
-title: La opción de iniciar sesión con Facebook dejará de estar disponible en el Admin de VTEX
+title: "La opción de iniciar sesión con Facebook dejará de estar disponible en el Admin de VTEX"
 id: 2U50wnZJXz7p6htx63tvtL
 status: PUBLISHED
 createdAt: 2021-10-06T18:03:05.260Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: 4SqDPmUJIIz2KMMKgiyqKl
 slug: inicio-de-sesion-con-facebook-dejara-de-estar-disponible-en-el-admin-de-vtex
 legacySlug: 
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Suspensión de la funcionalidad de inicio de sesión con Facebook en el Admin de VTEX
 ---
 

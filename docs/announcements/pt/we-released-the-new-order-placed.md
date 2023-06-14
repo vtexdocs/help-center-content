@@ -1,5 +1,5 @@
 ---
-title: Lançamos o novo Order Placed
+title: "Lançamos o novo Order Placed"
 id: 4tAmWn79M44eCqwgeyMM68
 status: PUBLISHED
 createdAt: 2017-10-26T17:24:24.087Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: authors_24
 slug: lancamos-o-novo-order-placed
 legacySlug: lancamos-o-novo-order-placed
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: A nova versão da página de confirmação de pedido já está disponível
 ---
 

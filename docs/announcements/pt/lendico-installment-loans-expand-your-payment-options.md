@@ -1,5 +1,5 @@
 ---
-title: Boleto parcelado Lendico: a novidade que irá expandir suas opções de pagamento
+title: "Boleto parcelado Lendico: a novidade que irá expandir suas opções de pagamento"
 id: 74gYyrEe50yytQnUJzNEsH
 status: PUBLISHED
 createdAt: 2021-01-06T17:19:18.358Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: boleto-parcelado-lendico-a-novidade-que-ira-expandir-suas-opcoes-de-pagamento
 legacySlug: boleto-parcelado-lendico-a-novidade-que-ira-expandir-suas-opcoes-de-pagamento
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Conheça o Boleto Parcelado Lendico - uma nova forma de pagamento para aumentar suas chances de conversão.
 ---
 

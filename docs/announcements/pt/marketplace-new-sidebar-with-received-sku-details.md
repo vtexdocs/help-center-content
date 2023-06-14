@@ -1,5 +1,5 @@
 ---
-title: Marketplace: nova barra lateral com detalhes de SKUs Recebidos
+title: "Marketplace: nova barra lateral com detalhes de SKUs Recebidos"
 id: 7qhY8onDDjdV9gGjICsyO4
 status: PUBLISHED
 createdAt: 2021-05-03T12:29:49.896Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: marketplace-nova-barra-lateral-com-detalhes-de-skus-recebidos
 legacySlug: marketplace-nova-barra-lateral-com-detalhes-de-skus-recebidos
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Catalogue SKUs Recebidos com mais agilidade, conferindo dados de SKUs  na nova barra lateral. 
 ---
 

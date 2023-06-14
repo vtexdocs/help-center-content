@@ -1,5 +1,5 @@
 ---
-title: Reutilizar imágenes en Site Editor
+title: "Reutilizar imágenes en Site Editor"
 id: 1gILUNu24iiCWrodZMw3Kq
 status: PUBLISHED
 createdAt: 2021-08-03T17:36:32.021Z
@@ -10,7 +10,7 @@ productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: reutilizar-imagenes-en-site-editor
 legacySlug: reutilizar-imagenes-en-site-editor
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Hemos mejorado los bloques con la opción nativa de subir imágenes en Site Editor a través de un repositorio de imágenes.
 ---
 

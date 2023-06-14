@@ -1,5 +1,5 @@
 ---
-title: Dazzle your customer with the new SmartCheckout shopping experience
+title: "Dazzle your customer with the new SmartCheckout shopping experience"
 id: 47B91RA1WNhUfTNg5iGU0J
 status: PUBLISHED
 createdAt: 2019-05-21T22:16:15.673Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: authors_59
 slug: dazzle-your-customer-with-the-new-smartcheckout-shopping-experience
 legacySlug: dazzle-your-customer-with-the-new-smartcheckout-shopping-experience
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Discover Checkout v6's new features
 ---
 

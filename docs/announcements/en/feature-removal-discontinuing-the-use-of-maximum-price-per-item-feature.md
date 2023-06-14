@@ -1,5 +1,5 @@
 ---
-title: Feature Removal: Discontinuing the use of Maximum Price per Item feature
+title: "Feature Removal: Discontinuing the use of Maximum Price per Item feature"
 id: 2sI7R4FgmWpmFdKSJSwJPW
 status: CHANGED
 createdAt: 2019-04-05T16:20:16.272Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 71cQH3Q0oKXzeY2DmMZRKX
 slug: feature-removal-discontinuing-the-use-of-maximum-price-per-item-feature
 legacySlug: feature-removal-discontinuing-the-use-of-maximun-price-per-item-feature
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: You can use the new Promotional Price Table feature to meet the scenarios of the discontinued feature. 
 ---
 

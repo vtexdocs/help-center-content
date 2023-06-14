@@ -1,5 +1,5 @@
 ---
-title: ​​Rate VTEX's service in your Admin  
+title: "​​Rate VTEX's service in your Admin  "
 id: 7rSJLgGbtRw2GhjTJezkJf
 status: PUBLISHED
 createdAt: 2022-01-13T21:49:50.331Z
@@ -10,7 +10,7 @@ productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: rate-vtexs-service-in-your-admin
 legacySlug: rate-vtexs-service-in-your-admin
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: We have launched a satisfaction survey page in the VTEX Admin where you can rate your experience with our support.
 ---
 

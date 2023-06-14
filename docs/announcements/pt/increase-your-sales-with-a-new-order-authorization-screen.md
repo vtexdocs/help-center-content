@@ -1,5 +1,5 @@
 ---
-title: Aumente suas vendas com a nova tela Autorização de Pedidos
+title: "Aumente suas vendas com a nova tela Autorização de Pedidos"
 id: 7EXIgaESHfI46lkaZw9jrQ
 status: CHANGED
 createdAt: 2019-03-26T18:22:14.655Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 1E4UkWguFZAXjkguvNHPIv
 slug: aumente-suas-vendas-com-a-nova-tela-autorizacao-de-pedidos
 legacySlug: aumente-suas-vendas-com-a-nova-tela-autorizacao-de-pedidos
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Esta ferramenta permite o controle das aprovações de pedidos com mudanças em seus valores.
 ---
 

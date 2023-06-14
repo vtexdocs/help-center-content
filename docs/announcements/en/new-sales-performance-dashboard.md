@@ -1,5 +1,5 @@
 ---
-title: New Sales Performance dashboard
+title: "New Sales Performance dashboard"
 id: 5H7Vp6BHhiOmBU8XVj7nvV
 status: PUBLISHED
 createdAt: 2021-10-19T12:36:56.184Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: new-sales-performance-dashboard
 legacySlug: new-sales-performance-dashboard
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Analyze data from your sales channels and extract business intelligence with the new Sales Performance dashboard.
 ---
 

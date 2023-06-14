@@ -1,5 +1,5 @@
 ---
-title: Autocomplete Metrics now available in search reports
+title: "Autocomplete Metrics now available in search reports"
 id: 69fXrUlDzGZ8Uvhi17oXcY
 status: PUBLISHED
 createdAt: 2020-10-13T19:10:34.882Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: autocomplete-metrics-now-available-in-search-reports
 legacySlug: autocomplete-metrics-now-available-in-search-reports
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: To allow a more comprehensive analysis of the search performance, we include the metrics of Autocomplete in these report
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Filtros de búsqueda en el Pasillo Infinito de inStore
+title: "Filtros de búsqueda en el Pasillo Infinito de inStore"
 id: 7wRkHWBnad2W1xILet7fyw
 status: PUBLISHED
 createdAt: 2021-12-02T16:43:25.612Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
 slug: filtros-de-busqueda-en-el-pasillo-infinito-de-instore
 legacySlug: filtros-de-busqueda-en-el-pasillo-infinito-de-instore
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Los filtros de búsqueda de VTEX Intelligent Search están ahora disponibles en el Pasillo Infinito de inStore.
 ---
 

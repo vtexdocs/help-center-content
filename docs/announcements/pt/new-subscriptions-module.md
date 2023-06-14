@@ -1,5 +1,5 @@
 ---
-title: Novo módulo de Assinaturas
+title: "Novo módulo de Assinaturas"
 id: 6PfEmqovkZF97AZUp1owdf
 status: PUBLISHED
 createdAt: 2021-02-02T15:31:07.376Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: novo-modulo-assinaturas
 legacySlug: novo-modulo-de-assinaturas
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: O módulo de Assinaturas é a solução da VTEX para pedidos recorrentes na sua loja, e está em constante evolução.
 ---
 

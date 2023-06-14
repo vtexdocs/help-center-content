@@ -1,5 +1,5 @@
 ---
-title: Fidelice a sus clientes con la nueva opción de promoción por suscripción
+title: "Fidelice a sus clientes con la nueva opción de promoción por suscripción"
 id: 2Mm1LBBnh9D3x4UyBlgP4t
 status: CHANGED
 createdAt: 2019-10-31T14:13:53.081Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 1E4UkWguFZAXjkguvNHPIv
 slug: fidelice-a-sus-clientes-con-la-nueva-opcion-de-promocion-por-suscripcion
 legacySlug: fidelice-a-sus-clientes-con-la-nueva-opcion-de-promocion-por-suscripcion
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Es posible crear una promoción por suscripción dentro de una promoción regular.
 ---
 

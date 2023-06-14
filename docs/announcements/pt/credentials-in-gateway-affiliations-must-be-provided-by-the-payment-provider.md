@@ -1,5 +1,5 @@
 ---
-title: Credenciais em afiliações de gateway devem ser obtidas pelo provedor de pagamentos
+title: "Credenciais em afiliações de gateway devem ser obtidas pelo provedor de pagamentos"
 id: 6RsAtRDmehojI076vYBpog
 status: PUBLISHED
 createdAt: 2022-10-13T20:36:50.162Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 slug: credenciais-em-afiliacoes-de-gateway-devem-ser-obtidas-pelo-provedor-de
 legacySlug: credenciais-em-afiliacoes-de-gateway-devem-ser-obtidas-pelo-provedor-de
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Credenciais em afiliações de gateway criadas pelo Admin devem ser substituídas até 31/10 por questões de segurança
 ---
 

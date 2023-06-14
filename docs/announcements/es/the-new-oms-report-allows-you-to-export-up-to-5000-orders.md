@@ -1,5 +1,5 @@
 ---
-title: El nuevo informe del OMS permite la exportación de hasta 5000 solicitudes
+title: "El nuevo informe del OMS permite la exportación de hasta 5000 solicitudes"
 id: 3KLZdi2MjmUAAKeUWCIU0a
 status: PUBLISHED
 createdAt: 2018-12-12T17:26:42.584Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: el-nuevo-report-del-oms-permite-la-exportacion-de-hasta-5000-solicitudes
 legacySlug: el-nuevo-report-del-oms-permite-la-exportacion-de-hasta-5000-solicitudes
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: A partir del 13/12, usted podrá exportar hasta 5 mil pedidos de una sola vez en el módulo de Gestión de Pedidos.
 ---
 

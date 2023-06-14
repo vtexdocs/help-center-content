@@ -1,5 +1,5 @@
 ---
-title: Performance de Vendas: novos filtros e seleção de datas
+title: "Performance de Vendas: novos filtros e seleção de datas"
 id: ABcPlgtpDmSJTFgA3GCAr
 status: PUBLISHED
 createdAt: 2022-07-05T13:14:52.015Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: performance-de-vendas-novos-filtros-e-selecao-de-datas
 legacySlug: performance-de-vendas-novos-filtros-e-selecao-de-datas
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Agora você pode selecionar datas personalizadas e usar novos filtros e métricas no Performance de Vendas.
 ---
 

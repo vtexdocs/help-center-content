@@ -1,5 +1,5 @@
 ---
-title: Presidente Barack Obama participa da 7ª edição do VTEX DAY
+title: "Presidente Barack Obama participa da 7ª edição do VTEX DAY"
 id: 1jpRRvqR5WkrWBPC3y7PuX
 status: PUBLISHED
 createdAt: 2019-03-18T12:21:27.854Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: authors_84
 slug: presidente-barack-obama-participa-da-7a-edicao-do-vtex-day
 legacySlug: presidente-barack-obama-participa-da-7a-edicao-do-vtex-day
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: O evento reunirá 15 mil participantes nos dias 30 e 31 de maio em São Paulo
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Assembly Options: nueva aplicación para facilitar la personalización de productos-TESTE
+title: "Assembly Options: nueva aplicación para facilitar la personalización de productos-TESTE"
 id: Oznp4e6zv3cfu6FEfTKVb
 status: DRAFT
 createdAt: 2022-06-14T12:37:29.076Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: assembly-options-nueva-aplicacion-para-facilitar-la-personalizacion-teste
 legacySlug: assembly-options-nueva-aplicacion-para-facilitar-la-personalizacion-de
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Desarrollamos la aplicación Assembly Options para simplificar la personalización de los productos durante la compra.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: APIs Get Order e List Orders poderão retornar pedidos com status null
+title: "APIs Get Order e List Orders poderão retornar pedidos com status null"
 id: 6IO4rL1qIEWSMsu2WgmWI0
 status: PUBLISHED
 createdAt: 2018-12-28T18:46:34.551Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: authors_41
 slug: a-partir-do-dia-30-de-janeiro-de-2019-os-pedidos-podem-aparecer-com-status
 legacySlug: a-partir-do-dia-30-de-janeiro-de-2019-os-pedidos-podem-aparecer-com-status
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: A partir de 30/01/2019, pedidos poderão aparecer com status null nas respostas das chamadas Get Order e List Orders.
 ---
 
