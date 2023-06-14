@@ -1,5 +1,5 @@
 ---
-title: ""Maximum Price per Item" implementation has changed"
+title: '"Maximum Price per Item" implementation has changed'
 id: 2snrUcdlt2C8QIq2yqaUww
 status: DRAFT
 createdAt: 2017-10-30T19:12:11.257Z

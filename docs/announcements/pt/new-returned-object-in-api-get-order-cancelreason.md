@@ -1,5 +1,5 @@
 ---
-title: "Novo objeto retornado na API Get Order "cancelReason""
+title: 'Novo objeto retornado na API Get Order "cancelReason"'
 id: vqcWN9lw7XuUW64uzaVDU
 status: DRAFT
 createdAt: 2019-04-08T17:11:33.773Z
