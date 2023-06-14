@@ -1,5 +1,5 @@
 ---
-title: URGENTE - Migración del sistema de pedidos: para mantener su operación en funcionamiento, asegúrese de que su integración esté actualizada
+title: "URGENTE - Migración del sistema de pedidos: para mantener su operación en funcionamiento, asegúrese de que su integración esté actualizada"
 id: 34eloUZ70DPYIcJkAevq32
 status: PUBLISHED
 createdAt: 2019-07-30T16:56:23.667Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: authors_31
 slug: urgente-migracao-do-sistema-de-pedidos-para-manter-sua-operacao-funcionando
 legacySlug: urgente-migracao-do-sistema-de-pedidos-para-manter-sua-operacao-funcionando
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Para mantener su operación en funcionamiento, asegúrese de que su integración esté actualizada
 ---
 

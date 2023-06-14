@@ -1,5 +1,5 @@
 ---
-title: Marketplace: melhorias no módulo SKUs Recebidos
+title: "Marketplace: melhorias no módulo SKUs Recebidos"
 id: 5AY73ocF0evsh3yzY6AMX6
 status: PUBLISHED
 createdAt: 2020-10-26T23:30:54.501Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: marketplace-melhorias-no-modulo-skus-recebidos
 legacySlug: marketplace-melhorias-no-modulo-skus-recebidos
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Marketplace: Bloqueie SKUs de serem reenviados pelo seller, e também configure aprovação automática
 ---
 

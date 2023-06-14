@@ -1,5 +1,5 @@
 ---
-title: Catalog's new visual and navigation
+title: "Catalog's new visual and navigation"
 id: 2RA84SQDigksKgIAEqi2SG
 status: PUBLISHED
 createdAt: 2018-07-12T12:51:09.042Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: authors_24
 slug: catalogs-new-visual-and-navigation
 legacySlug: catalogs-new-visual-and-navigation
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: On 07/10, the Catalog became more integrated with the New Admin but kept it's most important flows and features.
 ---
 

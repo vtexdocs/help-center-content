@@ -1,5 +1,5 @@
 ---
-title: Lendico installment loans: expand your payment options in Brazil with this brand new release
+title: "Lendico installment loans: expand your payment options in Brazil with this brand new release"
 id: 74gYyrEe50yytQnUJzNEsH
 status: PUBLISHED
 createdAt: 2021-01-06T17:19:18.358Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: lendico-installment-loans-expand-your-payment-options
 legacySlug: lendico-boleto-installments-expand-your-payment-options-with-this-brand-new
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Meet Lendico's Boleto Installments - a new payment method to increase your chances of conversion in Brazil
 ---
 

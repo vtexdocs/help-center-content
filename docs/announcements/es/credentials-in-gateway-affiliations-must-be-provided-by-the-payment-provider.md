@@ -1,5 +1,5 @@
 ---
-title: Las credenciales en las afiliaciones de gateway deben ser obtenidas por el proveedor de pagos
+title: "Las credenciales en las afiliaciones de gateway deben ser obtenidas por el proveedor de pagos"
 id: 6RsAtRDmehojI076vYBpog
 status: PUBLISHED
 createdAt: 2022-10-13T20:36:50.162Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 slug: las-credenciales-en-las-afiliaciones-de-gateway-deben-ser-obtenidas-por-el
 legacySlug: las-credenciales-en-las-afiliaciones-de-gateway-deben-ser-obtenidas-por-el
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Las credenciales en las afiliaciones de gateway creadas en el Admin deben ser reemplazadas antes del 31/10 por seguridad
 ---
 

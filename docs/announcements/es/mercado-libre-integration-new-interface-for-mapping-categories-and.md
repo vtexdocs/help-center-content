@@ -1,5 +1,5 @@
 ---
-title: Integración con Mercado Libre: nueva interfaz para mapear categorías y atributos
+title: "Integración con Mercado Libre: nueva interfaz para mapear categorías y atributos"
 id: 589oLekjy3OV43kUWREpoe
 status: PUBLISHED
 createdAt: 2021-11-19T19:44:09.314Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: integracion-con-mercado-libre-nueva-interfaz-para-mapear-categorias-y
 legacySlug: integracion-con-mercado-libre-nueva-interfaz-para-mapear-categorias-y
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: La nueva interfaz para mapear categorías y atributos llega para sustituir a la plantilla de mapeo.
 ---
 

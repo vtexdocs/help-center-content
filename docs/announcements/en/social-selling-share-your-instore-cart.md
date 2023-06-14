@@ -1,5 +1,5 @@
 ---
-title: Social Selling: share your inStore cart
+title: "Social Selling: share your inStore cart"
 id: 6FW62Bd5Op59A2ELL6t8fh
 status: PUBLISHED
 createdAt: 2021-08-05T13:26:11.038Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
 slug: social-selling-share-your-instore-cart
 legacySlug: social-selling-share-your-instore-cart
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Physical store sales reps can now sell via WhatsApp or social media using inStore Social Selling.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Mudamos a configuração do login por Facebook e Google
+title: "Mudamos a configuração do login por Facebook e Google"
 id: 362ARlvHIIOWykC8Y80i42
 status: PUBLISHED
 createdAt: 2017-10-25T21:16:58.154Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: authors_24
 slug: mudamos-a-configuracao-do-login-por-facebook-google
 legacySlug: mudamos-a-configuracao-do-login-por-facebook-google
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: A flag "Usar chaves VTEX" foi desabilitada e o lojista precisa configurar suas próprias
 ---
 

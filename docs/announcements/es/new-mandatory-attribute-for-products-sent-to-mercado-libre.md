@@ -1,5 +1,5 @@
 ---
-title: Nuevo atributo obligatorio para los productos enviados a Mercado Libre
+title: "Nuevo atributo obligatorio para los productos enviados a Mercado Libre"
 id: 5nr8nGhCLFNtIP5tFkNEpJ
 status: PUBLISHED
 createdAt: 2022-02-25T18:35:17.032Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: nuevo-atributo-obligatorio-para-los-productos-enviados-a-mercado-libre
 legacySlug: nuevo-atributo-obligatorio-para-los-productos-enviados-a-mercado-libre
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Los productos de la categoría Celulares y Smartphones en MeLi tendrán un nuevo atributo obligatorio
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Liberação de novo domínio nas regras do firewall da sua rede
+title: "Liberação de novo domínio nas regras do firewall da sua rede"
 id: 1ib1hW8UJlR7SniuFTHzx4
 status: PUBLISHED
 createdAt: 2020-01-06T17:05:54.548Z
@@ -10,7 +10,7 @@ productTeam: Reliability
 author: authors_31
 slug: liberacao-de-novo-dominio-nas-regras-do-firewall-da-sua-rede
 legacySlug: liberacao-de-novo-dominio-nas-regras-do-firewall-da-sua-rede
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: A VTEX mudará o domínio que carrega arquivos. Revise suas regras de firewall para garantir a liberação do domínio.
 ---
 

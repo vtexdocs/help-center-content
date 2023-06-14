@@ -1,5 +1,5 @@
 ---
-title: Checkout - Setting up the cardholder document (ID) field
+title: "Checkout - Setting up the cardholder document (ID) field"
 id: R5Pz4ofU9ueB2e5bMhSWH
 status: PUBLISHED
 createdAt: 2022-04-29T12:21:40.419Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: checkout-setting-up-the-cardholder-document-id-field
 legacySlug: checkout-setting-up-the-cardholder-document-id-field
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN:  Configuring the display of the cardholder ID field at checkout.
 ---
 

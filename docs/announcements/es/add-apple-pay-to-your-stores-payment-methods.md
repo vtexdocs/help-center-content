@@ -1,5 +1,5 @@
 ---
-title: Agregue Apple Pay a los métodos de pago de su tienda
+title: "Agregue Apple Pay a los métodos de pago de su tienda"
 id: 2S1medaBEQOY6U2oOoG2wO
 status: PUBLISHED
 createdAt: 2018-04-12T20:40:50.288Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: authors_24
 slug: agregue-apple-pay-a-los-metodos-de-pago-de-su-tienda
 legacySlug: agregue-apple-pay-a-los-metodos-de-pago-de-su-tienda
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: VTEX es la primera plataforma de e-commerce de Brasil que ofrece integración con el Apple Pay.
 ---
 

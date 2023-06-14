@@ -1,5 +1,5 @@
 ---
-title: Cart restrictions on item promotions
+title: "Cart restrictions on item promotions"
 id: 257buCeizCJPTkixvogxVq
 status: CHANGED
 createdAt: 2020-06-18T18:05:01.771Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: cart-restrictions-on-item-prmotions
 legacySlug: limite-de-itens-com-promocao-no-carrinho
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Configuration that allows you to customize the items in the cart that are eligible for a promotion
 ---
 

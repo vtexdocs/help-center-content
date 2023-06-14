@@ -1,5 +1,5 @@
 ---
-title: Nuevo dashboard: Desempeño de Ventas
+title: "Nuevo dashboard: Desempeño de Ventas"
 id: 5H7Vp6BHhiOmBU8XVj7nvV
 status: PUBLISHED
 createdAt: 2021-10-19T12:36:56.184Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: nuevo-dashboard-desempeno-de-ventas
 legacySlug: nuevo-dashboard-desempeno-de-ventas
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Analiza los datos de tus canales de venta y obtén inteligencia empresarial con el nuevo dashboard Desempeño de Ventas.
 ---
 

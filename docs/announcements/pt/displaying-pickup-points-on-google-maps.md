@@ -1,5 +1,5 @@
 ---
-title: Apresente pontos de retirada no Google Maps
+title: "Apresente pontos de retirada no Google Maps"
 id: 70wpYhYSPLVq8q3njJ8ojr
 status: PUBLISHED
 createdAt: 2021-03-19T00:17:43.865Z
@@ -10,7 +10,7 @@ productTeam: VTEX IO
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: apresente-pontos-de-retirada-no-google-maps
 legacySlug: apresente-pontos-de-retirada-no-google-maps
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Aplicativo que lista Pontos de Retirada e os exibe como marcadores no Google Maps.
 ---
 

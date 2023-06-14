@@ -1,5 +1,5 @@
 ---
-title: Dê crédito aos seus melhores clientes com o Customer Credit
+title: "Dê crédito aos seus melhores clientes com o Customer Credit"
 id: 6M2V1Oc1UIaGSM6QayWkmq
 status: PUBLISHED
 createdAt: 2018-11-28T14:19:45.783Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: de-credito-aos-seus-melhores-clientes-com-o-customer-credit
 legacySlug: de-credito-aos-seus-melhores-clientes-com-o-customer-credit
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Antigo Credit Control será descontinuado para dar lugar à nova solução da VTEX para crédito de loja.
 ---
 

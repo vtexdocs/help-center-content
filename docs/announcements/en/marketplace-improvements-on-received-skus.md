@@ -1,5 +1,5 @@
 ---
-title: Marketplace: improvements on Received SKUs
+title: "Marketplace: improvements on Received SKUs"
 id: 5AY73ocF0evsh3yzY6AMX6
 status: PUBLISHED
 createdAt: 2020-10-26T23:30:54.501Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: marketplace-improvements-on-received-skus
 legacySlug: marketplace-improvements-on-received-skus
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Block SKUs from being resent by sellers and also configure automatic approval for received SKUs
 ---
 

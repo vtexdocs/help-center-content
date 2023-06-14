@@ -1,5 +1,5 @@
 ---
-title: Promotions segmentation by country
+title: "Promotions segmentation by country"
 id: 1e2kgDZ4yaAIaatCANIA0G
 status: CHANGED
 createdAt: 2020-02-20T13:51:37.669Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: promotions-segmentation-by-country
 legacySlug: promotions-segmentation-by-country
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: VTEX will introduce a new feature for customers with operations in several countries: the promotions filter by country.
 ---
 

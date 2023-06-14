@@ -1,5 +1,5 @@
 ---
-title: Mercado Livre: Introducing Buy Box and simultaneous Classic and Premium ads.
+title: "Mercado Livre: Introducing Buy Box and simultaneous Classic and Premium ads."
 id: 5MVLHFGJzHb6GTVVBwZeNZ
 status: DRAFT
 createdAt: 2020-02-27T17:05:49.574Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: vztwQkZv4z6EwDVwdqbsw
 slug: mercado-livre-introducing-buy-box-and-simultaneous-classic-and-premium-ads
 legacySlug: mercado-livre-introducing-buy-box-and-simultaneous-classic-and-premium-ads
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: We have two updates that will help you sell more and better with Mercado Livre: Buy Box and Classic/Premium ads.
 ---
 

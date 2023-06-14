@@ -1,5 +1,5 @@
 ---
-title: O Admin VTEX agora disponível em Tailandês!
+title: "O Admin VTEX agora disponível em Tailandês!"
 id: 5m9yr7mmr2T0j8wLqGHsRm
 status: PUBLISHED
 createdAt: 2022-07-25T18:21:01.616Z
@@ -10,7 +10,7 @@ productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: o-admin-vtex-agora-disponivel-em-tailandes
 legacySlug: o-admin-vtex-agora-disponivel-em-tailandes
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Admin ganha nova opção de idioma.
 ---
 

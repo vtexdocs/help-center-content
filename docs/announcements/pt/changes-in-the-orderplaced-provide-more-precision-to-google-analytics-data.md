@@ -1,5 +1,5 @@
 ---
-title: Mudanças no orderPlaced proporcionam dados mais precisos no Google Analytics
+title: "Mudanças no orderPlaced proporcionam dados mais precisos no Google Analytics"
 id: 4u1VqmUtriycuukqqcSKaA
 status: PUBLISHED
 createdAt: 2018-09-04T20:11:58.119Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: authors_24
 slug: mudancas-no-orderplaced-proporcionam-dados-mais-precisos-no-google
 legacySlug: mudancas-no-orderplaced-proporcionam-dados-mais-precisos-no-google
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Pedidos com produtos de mais de um seller agora geram um único evento no Google Analytics.
 ---
 

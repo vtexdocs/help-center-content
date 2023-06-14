@@ -1,5 +1,5 @@
 ---
-title: Close bigger deals with the shared cart
+title: "Close bigger deals with the shared cart"
 id: 1gvY2p1Rc9hjkfyVvOHY2C
 status: PUBLISHED
 createdAt: 2019-02-18T21:26:10.613Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 245tA425AIeioKAk2eaiwS
 slug: close-bigger-deals-with-the-shared-cart
 legacySlug: close-bigger-deals-with-the-shared-cart
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: The shared cart is already available to all stores, allowing interactions of more than one customer.
 ---
 

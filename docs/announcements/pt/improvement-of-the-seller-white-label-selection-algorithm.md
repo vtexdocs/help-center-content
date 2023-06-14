@@ -1,5 +1,5 @@
 ---
-title: Aperfeiçoamento do algoritmo de seleção de Sellers White Label
+title: "Aperfeiçoamento do algoritmo de seleção de Sellers White Label"
 id: 2BI2ZElxvLvsfZsly9lLsx
 status: PUBLISHED
 createdAt: 2021-03-04T00:33:02.559Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: aperfeicoamento-do-algoritmo-de-selecao-de-sellers-white-label
 legacySlug: aperfeicoamento-do-algoritmo-de-selecao-de-sellers-white-label
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Entenda o funcionamento da lógica de escolha de sellers para entrega ou retirada
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: ¡Novedad sobre cómo configurar proveedores de inicio de sesión para su tienda
+title: "¡Novedad sobre cómo configurar proveedores de inicio de sesión para su tienda"
 id: 6tP4uxQJ0BdnDw38hmyeOW
 status: CHANGED
 createdAt: 2020-10-06T17:50:13.106Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: novedad-sobre-como-configurar-proveedores-de-inicio-de-sesion-para-su-tienda
 legacySlug: novedades-sobre-como-configurar-los-proveedores-de-login-para-su-tienda, novedad-sobre-como-configurar-proveedores-de-inicio-de-sesion-para-su-tienda
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Novedad sobre cómo configurar proveedores de inicio de sesión para su tienda
 ---
 

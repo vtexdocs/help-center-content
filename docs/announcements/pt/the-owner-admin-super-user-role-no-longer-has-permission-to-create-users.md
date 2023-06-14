@@ -1,5 +1,5 @@
 ---
-title: O perfil de acesso Owner (Admin Super) não tem mais permissão para criação de usuários
+title: "O perfil de acesso Owner (Admin Super) não tem mais permissão para criação de usuários"
 id: 5OpVXwzX5NWqTkVZ7QLMBd
 status: PUBLISHED
 createdAt: 2023-02-03T14:49:10.763Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: o-perfil-de-acesso-owner-admin-super-nao-tem-mais-permissao-para-criacao-de-usuarios
 legacySlug: 
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: O perfil de acesso Owner (Admin Super) não inclui mais o recurso Save user, ligado a ações de gerenciamento de usuários.
 ---
 

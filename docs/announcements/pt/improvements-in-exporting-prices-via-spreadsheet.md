@@ -1,5 +1,5 @@
 ---
-title: Melhorias na exportação de preços via planilha
+title: "Melhorias na exportação de preços via planilha"
 id: 7L4mGhB2AwkWZD2kelgiIJ
 status: PUBLISHED
 createdAt: 2023-01-13T21:36:13.340Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: melhorias-na-exportacao-de-precos-via-planilha
 legacySlug: melhorias-na-exportacao-de-precos-via-planilha
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Atualizamos o processo de exportação de preços via planilha para dar mais visibilidade aos clientes.
 ---
 

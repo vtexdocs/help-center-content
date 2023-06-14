@@ -1,5 +1,5 @@
 ---
-title: El registro de puntos de recogida se hizo más rápido y fácil
+title: "El registro de puntos de recogida se hizo más rápido y fácil"
 id: 4ScdLxLAYg2MMKgqcgcgeA
 status: PUBLISHED
 createdAt: 2018-12-18T12:12:15.629Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: el-registro-de-puntos-de-recogida-se-hizo-mas-rapido-y-facil
 legacySlug: el-registro-de-puntos-de-recogida-se-hizo-mas-rapido-y-facil
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Ahora, usted puede subir una planilla XLS con todos los puntos de recogida que desea ofrecer en su tienda.
 ---
 

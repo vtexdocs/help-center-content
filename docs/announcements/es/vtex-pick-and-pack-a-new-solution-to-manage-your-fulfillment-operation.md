@@ -1,5 +1,5 @@
 ---
-title: VTEX Pick and Pack: nueva solución para gestionar tu operación logística
+title: "VTEX Pick and Pack: nueva solución para gestionar tu operación logística"
 id: a8No4F86ZlecbBPIhgE5J
 status: PUBLISHED
 createdAt: 2023-06-04T20:48:18.798Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: vtex-pick-and-pack-nueva-solucion-para-gestionar-tu-operacion-logistica
 legacySlug: vtex-pick-and-pack-nueva-solucion-para-gestionar-tu-operacion-logistica
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Agregamos nuevas funcionalidades para que Pick and Pack fuera más flexible, escalable y adecuado para más  arquitecturas
 ---
 

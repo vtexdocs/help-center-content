@@ -1,5 +1,5 @@
 ---
-title: Mejoras en el proceso de incorporación de inStore para una experiencia más fluida
+title: "Mejoras en el proceso de incorporación de inStore para una experiencia más fluida"
 id: 73mV4YZfVo6YVC3Lkxw805
 status: PUBLISHED
 createdAt: 2023-04-13T18:20:12.438Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: instore-setup-nueva-version
 legacySlug: instore-setup-nueva-version
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Nueva versión de inStore Setup con configuraciones automáticas
 ---
 

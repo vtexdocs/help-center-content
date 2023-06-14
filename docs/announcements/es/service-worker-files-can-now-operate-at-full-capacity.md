@@ -1,5 +1,5 @@
 ---
-title: Service Worker ahora puede operar a plena capacidad
+title: "Service Worker ahora puede operar a plena capacidad"
 id: 5RuFcktluMeYWYWKww4au2
 status: PUBLISHED
 createdAt: 2018-03-15T18:22:49.955Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: authors_24
 slug: service-worker-ahora-puede-operar-a-plena-capacidad
 legacySlug: service-worker-ahora-puede-operar-a-plena-capacidad
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: En esta nueva actualización, los archivos de Service Worker ahora pueden interceptar requests de toda su tienda.
 ---
 

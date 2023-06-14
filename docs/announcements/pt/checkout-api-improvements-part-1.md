@@ -1,5 +1,5 @@
 ---
-title: Melhorias na API do Checkout - Parte 1
+title: "Melhorias na API do Checkout - Parte 1"
 id: 5B4Qb4ffB5JgGrJNY3572l
 status: DRAFT
 createdAt: 2019-05-15T19:18:26.652Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: authors_59
 slug: melhorias-na-api-do-checkout-parte-1
 legacySlug: melhorias-na-api-do-checkout-parte-1
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Saiba sobre as melhorias implementadas na API do Checkout e como se adaptar às novas funcionalidades
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Kon’nichiwa! Admin agora disponível em japonês
+title: "Kon’nichiwa! Admin agora disponível em japonês"
 id: 4yij9hB2Hia3fTynwDXccF
 status: PUBLISHED
 createdAt: 2021-03-02T01:41:00.002Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: admin-disponivel-em-japones
 legacySlug: konnichiwa-admin-agora-disponivel-em-japones
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Admin ganha nova opção de idioma
 ---
 

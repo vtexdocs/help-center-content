@@ -1,5 +1,5 @@
 ---
-title: Welcome to the redesigned VTEX Admin
+title: "Welcome to the redesigned VTEX Admin"
 id: 5wQJEKRKzvUOY6EsgHXoDU
 status: DRAFT
 createdAt: 2022-05-25T13:33:16.338Z
@@ -10,7 +10,7 @@ productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: welcome-to-the-redesigned-vtex-admin
 legacySlug: welcome-to-the-redesigned-vtex-admin
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Novedades en el dashboard Desempeño de ventas
+title: "Novedades en el dashboard Desempeño de ventas"
 id: 6ceR0kY06UBnOrcltY0D8r
 status: PUBLISHED
 createdAt: 2022-03-08T15:03:39.709Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: novedades-en-el-dashboard-desempeno-de-ventas
 legacySlug: novedades-en-el-dashboard-desempeno-de-ventas
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Lanzamos nuevos filtros, vistas sugeridas, datos próximos a tiempo real y nuevas formas de visualización de datos. 
 ---
 

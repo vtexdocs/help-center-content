@@ -1,5 +1,5 @@
 ---
-title: Novas funcionalidades de Pagamentos: melhorias para uma experiência de compra aprimorada
+title: "Novas funcionalidades de Pagamentos: melhorias para uma experiência de compra aprimorada"
 id: 3b5C6DabaGrWsS9Jahs75D
 status: PUBLISHED
 createdAt: 2023-05-29T14:05:55.900Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: novas-funcionalidades-de-pagamentos-melhorias-para-uma-experiencia-de-compra
 legacySlug: novas-funcionalidades-de-pagamentos-melhorias-para-uma-experiencia-de-compra
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Apresentamos as recentes melhorias no módulo de Pagamentos para aprimorar sua experiência de compra.
 ---
 

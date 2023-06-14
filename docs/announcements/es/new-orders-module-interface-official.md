@@ -1,5 +1,5 @@
 ---
-title: La nueva interfaz del módulo de pedidos será oficial
+title: "La nueva interfaz del módulo de pedidos será oficial"
 id: r647iGCF2d4Xjll6r0Etz
 status: PUBLISHED
 createdAt: 2022-12-08T19:20:19.641Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: nueva-interfaz-modulo-pedidos-oficial
 legacySlug: la-nueva-interfaz-del-modulo-de-pedidos-sera-oficial
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Aviso de la fecha en que se dejará de usar la antigua UI, novedades del filtro sin límite de fecha y el diagrama.
 ---
 

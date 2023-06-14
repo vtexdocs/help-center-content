@@ -1,5 +1,5 @@
 ---
-title: Determine su capacidad y realice todas las entregas programadas
+title: "Determine su capacidad y realice todas las entregas programadas"
 id: 69LHYBNEump4KgBZHWvXng
 status: PUBLISHED
 createdAt: 2021-04-19T12:53:56.198Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: capacidad-de-entrega
 legacySlug: capacidad-de-entrega
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES:   Gestione y limite el número de ítems o pedidos en sus ventanas de entrega programadas.
 ---
 

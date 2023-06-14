@@ -1,5 +1,5 @@
 ---
-title: Insights about Black Friday with Google team + new Google Shopping app launch
+title: "Insights about Black Friday with Google team + new Google Shopping app launch"
 id: 3G9q3ooRAk0wMEqqQiAwm6
 status: PUBLISHED
 createdAt: 2018-10-23T14:41:58.195Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: authors_24
 slug: sell-more-with-the-app-that-integrates-your-business-to-google-shopping
 legacySlug: sell-more-with-the-app-that-integrates-your-business-to-google-shopping
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: VTEX and Google launch exclusive app in event on October 31st.
 ---
 

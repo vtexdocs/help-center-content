@@ -1,5 +1,5 @@
 ---
-title: B2B: Segmente precios directamente en el flujo de compra con la nueva app de Configuración de Pedidos.
+title: "B2B: Segmente precios directamente en el flujo de compra con la nueva app de Configuración de Pedidos."
 id: 4JF7a0k3MVw56khEXWTKgE
 status: PUBLISHED
 createdAt: 2020-09-09T15:23:24.399Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: vztwQkZv4z6EwDVwdqbsw
 slug: segmente-precios-b2b-configuracion-de-pedidos
 legacySlug: segmente-precios-b2b-configuracion-de-pedidos
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Apply segmented pricing strategies directly in the purchase experience with the Order Configuration for B2B.
 ---
 

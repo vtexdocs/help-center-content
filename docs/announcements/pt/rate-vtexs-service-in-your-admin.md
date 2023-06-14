@@ -1,5 +1,5 @@
 ---
-title: Avalie o atendimento da VTEX pelo seu Admin
+title: "Avalie o atendimento da VTEX pelo seu Admin"
 id: 7rSJLgGbtRw2GhjTJezkJf
 status: PUBLISHED
 createdAt: 2022-01-13T21:49:50.331Z
@@ -10,7 +10,7 @@ productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: avalie-o-atendimento-da-vtex-pelo-seu-admin
 legacySlug: avalie-o-atendimento-da-vtex-pelo-seu-admin
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Lançamos uma página de pesquisa de satisfação no Admin VTEX para você avaliar seus chamados com nosso suporte.
 ---
 

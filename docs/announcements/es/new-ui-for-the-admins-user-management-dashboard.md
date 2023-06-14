@@ -1,5 +1,5 @@
 ---
-title: Nueva UI del panel de gestión de usuarios del Admin
+title: "Nueva UI del panel de gestión de usuarios del Admin"
 id: 154vi1oSfAdiVkEjAATmWL
 status: PUBLISHED
 createdAt: 2020-12-17T20:14:34.263Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: nueva-ui-del-panel-de-gestion-de-usuarios-del-admin
 legacySlug: nueva-ui-del-panel-de-gestion-de-usuarios-del-admin
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: La nueva UI posee un diseño moderno e incluye nuevas funcionalidades
 ---
 

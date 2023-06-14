@@ -1,5 +1,5 @@
 ---
-title: La información de IP y Geolocalización está ahora disponible en los emails que contienen el código de acceso al Admin
+title: "La información de IP y Geolocalización está ahora disponible en los emails que contienen el código de acceso al Admin"
 id: 7FWf5mds1Wn3thuzb1uMzq
 status: PUBLISHED
 createdAt: 2020-11-12T20:11:43.221Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: la-informacion-de-ip-y-geolocalizacion-ahora-esta-disponible-en-los-emails-que-contienen-el-codigo-de-acceso-al-admin
 legacySlug: la-informacion-de-ip-y-geolocalizacion-ahora-esta-disponible-en-codigos-de
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: El email con el código de acceso ahora contendrá información sobre la computadora de la que se solicitó.
 ---
 

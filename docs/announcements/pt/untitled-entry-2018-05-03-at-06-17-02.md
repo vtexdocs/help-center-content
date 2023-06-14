@@ -1,5 +1,5 @@
 ---
-title: Nova versão da API do Master Data já está em beta
+title: "Nova versão da API do Master Data já está em beta"
 id: 1ig1mRtAQEKmMwy86qEwgu
 status: DRAFT
 createdAt: 2018-05-03T18:17:02.264Z
@@ -10,7 +10,7 @@ productTeam: Master Data
 author: 
 slug: nova-versao-da-api-do-master-data-ja-esta-em-beta
 legacySlug: 
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: 
 ---
 

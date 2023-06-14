@@ -1,5 +1,5 @@
 ---
-title: Coupon experience improvements
+title: "Coupon experience improvements"
 id: 5ZuEdfHzmuiLfosFBgz16D
 status: PUBLISHED
 createdAt: 2023-04-13T21:15:44.940Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: coupon-experience-improvements
 legacySlug: coupon-experience-improvements
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: The new Coupons experience to display additional strategic information and provide new configuration possibilities.
 ---
 

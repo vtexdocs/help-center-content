@@ -1,5 +1,5 @@
 ---
-title: Na VTEX, conversão de PNG para WebP agora é lossless
+title: "Na VTEX, conversão de PNG para WebP agora é lossless"
 id: 4J4ZtrCZIksY8qikWgeomY
 status: PUBLISHED
 createdAt: 2018-02-20T14:55:17.152Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: authors_24
 slug: na-vtex-conversao-de-png-para-webp-agora-e-lossless
 legacySlug: na-vtex-conversao-de-png-para-webp-agora-e-lossless
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Mudança na forma de compressão veio para atender as lojas que precisam manter a alta qualidade das imagens.
 ---
 

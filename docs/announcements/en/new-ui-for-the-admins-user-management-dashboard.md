@@ -1,5 +1,5 @@
 ---
-title: New UI for the Admin's user management dashboard
+title: "New UI for the Admin's user management dashboard"
 id: 154vi1oSfAdiVkEjAATmWL
 status: PUBLISHED
 createdAt: 2020-12-17T20:14:34.263Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: new-ui-for-the-admins-user-management-dashboard
 legacySlug: new-ui-for-the-admins-user-management-dashboard
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: The new UI has a modern design and includes new features
 ---
 

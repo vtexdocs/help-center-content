@@ -1,5 +1,5 @@
 ---
-title: PSE: Payment method for customers in Colombia
+title: "PSE: Payment method for customers in Colombia"
 id: 4T22CHOcEV3Nb2RtkJZOFB
 status: PUBLISHED
 createdAt: 2022-05-18T17:57:33.804Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: pse-payment-method-for-customers-in-colombia
 legacySlug: pse-payment-method-for-customers-in-colombia
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Process your sales with one of the best known payment methods in Colombia.
 ---
 

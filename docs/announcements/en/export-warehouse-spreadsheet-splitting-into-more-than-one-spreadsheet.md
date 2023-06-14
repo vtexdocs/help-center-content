@@ -1,5 +1,5 @@
 ---
-title: Large warehouse exports will now be split into multiple spreadsheets
+title: "Large warehouse exports will now be split into multiple spreadsheets"
 id: 2torunvirpIE7vElGR7NbI
 status: CHANGED
 createdAt: 2020-04-06T14:41:35.438Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: export-warehouse-spreadsheet-splitting-into-more-than-one-spreadsheet
 legacySlug: export-warehouse-spreadsheet-splitting-into-more-than-one-spreadsheet
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: For large inventories, the exported spreadsheet will be split into more than one file, for a lighter download.
 ---
 

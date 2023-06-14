@@ -1,5 +1,5 @@
 ---
-title: Agora é possível restringir o acesso dos usuários na tela de Configurações do módulo Gerenciamento de Pedido
+title: "Agora é possível restringir o acesso dos usuários na tela de Configurações do módulo Gerenciamento de Pedido"
 id: 6z7TjQRMNWTmR1lKivjehn
 status: PUBLISHED
 createdAt: 2019-06-07T14:18:18.903Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: agora-e-possivel-restringir-o-acesso-dos-usuarios-na-tela-de-configuracoes
 legacySlug: agora-e-possivel-restringir-o-acesso-dos-usuarios-na-tela-de-configuracoes
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Possibilidade de limitar perfis de acesso a tela Configuração
 ---
 

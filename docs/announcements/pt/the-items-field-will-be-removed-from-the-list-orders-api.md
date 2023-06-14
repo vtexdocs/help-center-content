@@ -1,5 +1,5 @@
 ---
-title: Campo "items" será removido da API de List Orders
+title: "Campo "items" será removido da API de List Orders"
 id: 40UDVKiocUCSi8Uo8eUKui
 status: PUBLISHED
 createdAt: 2018-10-04T20:56:17.252Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: authors_24
 slug: campo-items-sera-removido-da-api-de-list-orders
 legacySlug: campo-items-sera-removido-da-api-de-list-orders
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Em 12/10, vamos remover esse campo (já obsoleto) para dar mais estabilidade e performance à indexação de pedidos.
 ---
 

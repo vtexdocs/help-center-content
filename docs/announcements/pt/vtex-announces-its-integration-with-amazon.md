@@ -1,5 +1,5 @@
 ---
-title: VTEX anuncia sua integração com a Amazon
+title: "VTEX anuncia sua integração com a Amazon"
 id: 7igmBX4QogMoCQ4y6wEyow
 status: PUBLISHED
 createdAt: 2017-10-27T17:29:26.231Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: authors_59
 slug: vtex-anuncia-sua-integracao-com-a-amazon
 legacySlug: vtex-anuncia-sua-integracao-com-a-amazon
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Agora nossos clientes já podem se conectar com um dos maiores varejistas do mundo
 ---
 

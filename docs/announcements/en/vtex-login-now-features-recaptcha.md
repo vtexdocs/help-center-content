@@ -1,5 +1,5 @@
 ---
-title: VTEX login now features reCAPTCHA
+title: "VTEX login now features reCAPTCHA"
 id: 3BagLuHhF6Ysi0mw6w0kwU
 status: PUBLISHED
 createdAt: 2017-10-25T21:52:16.082Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: authors_24
 slug: vtex-login-now-features-recaptcha
 legacySlug: vtex-login-now-features-recaptcha
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: VTEX login via email and password now has reCAPTCHA
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: The new orders module interface will be official
+title: "The new orders module interface will be official"
 id: r647iGCF2d4Xjll6r0Etz
 status: PUBLISHED
 createdAt: 2022-12-08T19:20:19.641Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: new-orders-module-interface-official
 legacySlug: the-new-orders-module-interface-will-be-official
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Notice of deprecation date for the old order UI and the new filter with no date limit and diagram.
 ---
 

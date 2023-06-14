@@ -1,5 +1,5 @@
 ---
-title: Motivos de cancelación en el informe de pedidos
+title: "Motivos de cancelación en el informe de pedidos"
 id: 46wIwISm6Df2LJgNePpFYK
 status: PUBLISHED
 createdAt: 2021-05-28T15:59:23.942Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: motivos-de-cancelacion-en-el-informe-de-pedidos
 legacySlug: motivos-de-cancelacion-en-el-informe-de-pedidos
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Añadimos la columna Cancellation Data al informe de pedidos para dar visibilidad a los motivos de las cancelaciones.
 ---
 

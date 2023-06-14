@@ -1,5 +1,5 @@
 ---
-title: Gain speed and practicality with the updated Price Table feature
+title: "Gain speed and practicality with the updated Price Table feature"
 id: 2WRQvE9bMqwAnLTvMM3ppN
 status: CHANGED
 createdAt: 2019-06-27T14:09:07.789Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 71cQH3Q0oKXzeY2DmMZRKX
 slug: gain-speed-and-practicality-with-the-updated-price-table-feature
 legacySlug: gain-speed-and-practicality-with-the-updated-price-table-feature
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Now you can create Price Tables in a more intuitive, practical and faster way.
 ---
 

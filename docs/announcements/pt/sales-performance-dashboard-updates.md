@@ -1,5 +1,5 @@
 ---
-title: Novidades no dashboard Performance de Vendas
+title: "Novidades no dashboard Performance de Vendas"
 id: 6ceR0kY06UBnOrcltY0D8r
 status: PUBLISHED
 createdAt: 2022-03-08T15:03:39.709Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: novidades-no-dashboard-performance-de-vendas
 legacySlug: novidades-no-dashboard-performance-de-vendas
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Lançamos novos filtros, visualizações sugeridas, dados em tempo próximo ao real e novas formas de visualizar dados.
 ---
 

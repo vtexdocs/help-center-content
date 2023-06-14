@@ -1,5 +1,5 @@
 ---
-title: 
+title: ""
 id: 4qTs9tm15I5HeOXKJLjHLF
 status: DRAFT
 createdAt: 2021-01-21T12:32:31.393Z
@@ -10,7 +10,7 @@ productTeam:
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: integracao-entre-vtex-intelligence-search-e-instore-alavanca-resultados-de
 legacySlug: integracao-entre-vtex-intelligence-search-e-instore-alavanca-resultados-de
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: 
 ---
 

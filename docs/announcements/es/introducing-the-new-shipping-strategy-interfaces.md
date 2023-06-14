@@ -1,5 +1,5 @@
 ---
-title: Descubre las nuevas interfaces de Estrategia de envío
+title: "Descubre las nuevas interfaces de Estrategia de envío"
 id: 4OzIFTj9ywcuE5a5jg8WD7
 status: PUBLISHED
 createdAt: 2023-05-31T15:49:13.447Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: descubre-las-nuevas-interfaces-de-estrategia-de-envio
 legacySlug: descubre-las-nuevas-interfaces-de-estrategia-de-envio
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Lanzamiento beta de la nueva experiencia de las interfaces de Estrategia de envío.
 ---
 

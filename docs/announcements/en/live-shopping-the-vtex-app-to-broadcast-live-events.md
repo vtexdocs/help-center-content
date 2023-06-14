@@ -1,5 +1,5 @@
 ---
-title: Live Shopping: the VTEX app to broadcast live events 
+title: "Live Shopping: the VTEX app to broadcast live events "
 id: 2ZSib7I86QU37fYq2wivFt
 status: PUBLISHED
 createdAt: 2021-08-19T16:12:43.689Z
@@ -10,7 +10,7 @@ productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: live-shopping-the-vtex-app-to-broadcast-live-events
 legacySlug: live-shopping-the-vtex-app-to-broadcast-live-events
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: The app allows stores to carry out live broadcasts, product sales, and real-time chat with customers. 
 ---
 

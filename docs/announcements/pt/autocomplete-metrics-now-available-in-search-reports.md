@@ -1,5 +1,5 @@
 ---
-title: Métricas do Autocomplete agora disponíveis nos relatórios de busca 
+title: "Métricas do Autocomplete agora disponíveis nos relatórios de busca "
 id: 69fXrUlDzGZ8Uvhi17oXcY
 status: PUBLISHED
 createdAt: 2020-10-13T19:10:34.882Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: metricas-do-autocomplete-agora-disponiveis-nos-relatorios-de-busca
 legacySlug: metricas-do-autocomplete-agora-disponiveis-nos-relatorios-de-busca
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Para permitir uma análise mais completa do comportamento de busca, incluímos as métricas do Autocomplete neste relatório
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Liquidación de facturas parciales en el OMS
+title: "Liquidación de facturas parciales en el OMS"
 id: 57DxOPAIGassIOYDNPQftv
 status: PUBLISHED
 createdAt: 2022-06-27T20:36:59.586Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: liquidacion-de-facturas-parciales-en-el-oms
 legacySlug: liquidacion-de-facturas-parciales-en-el-oms
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Ahora las facturas parciales emitidas en los pedidos también generan liquidaciones parciales en la transacción.
 ---
 

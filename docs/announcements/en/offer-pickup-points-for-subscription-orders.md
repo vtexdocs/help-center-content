@@ -1,5 +1,5 @@
 ---
-title: Offer pickup points for subscription orders
+title: "Offer pickup points for subscription orders"
 id: UOKiWlMTbrzDcPf6rvVME
 status: PUBLISHED
 createdAt: 2021-05-17T14:36:13.304Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: offer-pickup-points-for-subscription-orders
 legacySlug: offer-pickup-points-for-subscription-orders
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Now it is possible to choose pickup points for subscription orders.
 ---
 

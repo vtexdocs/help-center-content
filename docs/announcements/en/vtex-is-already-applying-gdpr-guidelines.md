@@ -1,5 +1,5 @@
 ---
-title: VTEX is already applying GDPR guidelines
+title: "VTEX is already applying GDPR guidelines"
 id: 1ZJH2olNXeCEkqIY2eaEQe
 status: PUBLISHED
 createdAt: 2018-05-25T12:31:17.354Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: authors_24
 slug: vtex-is-already-applying-gdpr-guidelines
 legacySlug: vtex-is-already-applying-gdpr-guidelines
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Our commitment with transparency and data protection is now even stronger as we turn GDPR compliant.
 ---
 

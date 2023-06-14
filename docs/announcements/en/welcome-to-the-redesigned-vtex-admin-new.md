@@ -1,5 +1,5 @@
 ---
-title: Welcome to the redesigned VTEX Admin
+title: "Welcome to the redesigned VTEX Admin"
 id: 428AanFpOiQgRkaLvDHVO9
 status: PUBLISHED
 createdAt: 2023-04-20T22:53:34.943Z
@@ -10,7 +10,7 @@ productTeam: Management
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: welcome-to-the-redesigned-vtex-admin-new
 legacySlug: de-as-boas-vindas-ao-novo-admin-vtex
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: We are bringing the future of commerce to you through our redesigned VTEX Admin.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Nuevo objeto devuelto en API Get Order  "itemMetadata"
+title: "Nuevo objeto devuelto en API Get Order  "itemMetadata""
 id: 473vn32oLLH2qyep29rpi
 status: PUBLISHED
 createdAt: 2019-04-08T16:33:34.076Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 5V92cmF9jG8KG600EwUgEg
 slug: Nuevo-objeto-devuelto-en-API-Get-Order-itemMetadata
 legacySlug: Nuevo-objeto-devuelto-en-API-Get-Order-itemMetadata
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: A partir del 1 de mayo de 2019, el JSON de pedidos devolverá un nuevo objeto llamado itemMetadata.
 ---
 

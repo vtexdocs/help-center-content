@@ -1,5 +1,5 @@
 ---
-title: Nueva concatenación reduce errores en envíos de email
+title: "Nueva concatenación reduce errores en envíos de email"
 id: 1MxYkGcD2I864SYI0iw8Uy
 status: PUBLISHED
 createdAt: 2018-08-13T18:26:18.982Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: authors_24
 slug: nueva-concatenacion-reduce-errores-en-envios-de-email
 legacySlug: nueva-concatenacion-reduce-errores-en-envios-de-email
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Ahora usted puede usar punto y coma para separar direcciones de email, lo que reduce drásticamente el número de errores.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: A partir de agora, você já pode criar tabelas de preços promocionais
+title: "A partir de agora, você já pode criar tabelas de preços promocionais"
 id: 5lOixZTMisqqcCw86QIIwE
 status: DRAFT
 createdAt: 2018-12-02T22:19:23.202Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
 slug: a-partir-de-agora-voce-ja-pode-criar-tabelas-de-precos-promocionais
 legacySlug: a-partir-de-agora-voce-ja-pode-criar-tabelas-de-precos-promocionais
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: A nova funcionalidade traz mais flexibilidade e autonomia ao criar promoções que exijam um grau de granularidade maior.
 ---
 

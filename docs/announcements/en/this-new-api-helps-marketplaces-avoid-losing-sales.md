@@ -1,5 +1,5 @@
 ---
-title: This new API helps marketplaces avoid losing sales
+title: "This new API helps marketplaces avoid losing sales"
 id: ViRaoD0gKIIwOSoYCSQM0
 status: PUBLISHED
 createdAt: 2018-02-01T12:43:05.771Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: authors_24
 slug: this-new-api-helps-marketplaces-avoid-losing-sales
 legacySlug: this-new-api-helps-marketplaces-avoid-losing-sales
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: The Change Seller API gives more autonomy for marketplaces to manage their sales.
 ---
 

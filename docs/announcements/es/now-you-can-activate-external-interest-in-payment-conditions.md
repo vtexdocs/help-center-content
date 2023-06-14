@@ -1,5 +1,5 @@
 ---
-title:  Ahora usted puede activar intereses externos en los planes de pago
+title: " Ahora usted puede activar intereses externos en los planes de pago"
 id: 2CPvlfBe5e6gGQwUIYQMYq
 status: PUBLISHED
 createdAt: 2018-02-01T13:38:03.118Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: ahora-usted-puede-activar-intereses-externos-en-los-planes-de-pago
 legacySlug: ahora-usted-puede-activar-intereses-externos-en-los-planes-de-pago
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Pagos tiene una nueva feature para configurar sus medios de pago.
 ---
 

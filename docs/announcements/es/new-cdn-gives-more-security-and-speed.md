@@ -1,5 +1,5 @@
 ---
-title: Nueva CDN ofrece más seguridad y velocidad
+title: "Nueva CDN ofrece más seguridad y velocidad"
 id: 5TQuQkP5bGECyysAK2Cwkq
 status: PUBLISHED
 createdAt: 2017-12-12T13:30:36.331Z
@@ -10,7 +10,7 @@ productTeam: Reliability
 author: authors_24
 slug: nueva-cdn-ofrece-mas-seguridad-y-velocidad
 legacySlug: nueva-cdn-ofrece-mas-seguridad-y-velocidad
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: La nueva CDN es una solución de entrega de contenido mejorada para todas las tiendas
 ---
 

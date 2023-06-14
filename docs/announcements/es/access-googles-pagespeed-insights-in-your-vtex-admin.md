@@ -1,5 +1,5 @@
 ---
-title: Accede a PageSpeed Insights de Google en tu Admin VTEX
+title: "Accede a PageSpeed Insights de Google en tu Admin VTEX"
 id: 5rLPGgLfLqg8Ss0W79WS7c
 status: PUBLISHED
 createdAt: 2022-06-29T19:09:51.629Z
@@ -10,7 +10,7 @@ productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: accede-a-pagespeed-insights-de-google-en-tu-admin-vtex
 legacySlug: accede-a-pagespeed-insights-de-google-en-tu-admin-vtex
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Evalúa el rendimiento de URLs con la nueva página Rendimiento de páginas web que se basa en PageSpeed Insights de Google
 ---
 

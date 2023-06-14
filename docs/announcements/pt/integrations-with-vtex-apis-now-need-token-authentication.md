@@ -1,5 +1,5 @@
 ---
-title: A partir de 13/11 APIs VTEX deixarão de suportar autenticação por e-mail e senha
+title: "A partir de 13/11 APIs VTEX deixarão de suportar autenticação por e-mail e senha"
 id: 7AdnXDH7AkYmuEUmmis8Es
 status: PUBLISHED
 createdAt: 2017-10-25T20:55:52.136Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: authors_59
 slug: integracoes-com-apis-vtex-agora-precisam-de-autenticacao-por-token
 legacySlug: integracoes-com-apis-vtex-agora-precisam-de-autenticacao-por-token
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: VTEX deixará de permitir que integrações com nossas APIs usem e-mail e senha para autenticação
 ---
 

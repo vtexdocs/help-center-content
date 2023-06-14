@@ -1,5 +1,5 @@
 ---
-title: New access code email template 
+title: "New access code email template "
 id: 5h0Q4Bwps65m7BI2tPocnO
 status: PUBLISHED
 createdAt: 2019-08-23T17:20:00.353Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 1E4UkWguFZAXjkguvNHPIv
 slug: novo-layout-no-e-mail-de-codigo-de-acesso
 legacySlug: novo-layout-no-e-mail-de-codigo-de-acesso
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: We've updated the layout for the email you receive when requesting an access code for your admin. 
 ---
 

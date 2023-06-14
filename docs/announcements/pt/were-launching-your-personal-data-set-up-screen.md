@@ -1,5 +1,5 @@
 ---
-title: Lançamos a tela de configuração dos seus dados pessoais
+title: "Lançamos a tela de configuração dos seus dados pessoais"
 id: 3MEbq0DfmMgo2WG4osYE8K
 status: PUBLISHED
 createdAt: 2017-11-14T20:55:55.931Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: authors_59
 slug: lancamos-a-tela-de-configuracao-dos-seus-dados-pessoais
 legacySlug: lancamos-a-tela-de-configuracao-dos-seus-dados-pessoais
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Ficou mais fácil editar suas configurações pessoais de acesso ao Admin VTEX
 ---
 

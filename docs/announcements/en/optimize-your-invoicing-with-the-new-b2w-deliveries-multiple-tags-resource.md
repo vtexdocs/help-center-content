@@ -1,5 +1,5 @@
 ---
-title: Optimize your invoicing with the new B2W Deliveries multiple tags resource
+title: "Optimize your invoicing with the new B2W Deliveries multiple tags resource"
 id: 4IbkyNcmGrbwwDl5jpIuBk
 status: CHANGED
 createdAt: 2019-08-15T14:11:57.695Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: optimize-your-invoicing-with-the-new-b2w-deliveries-multiple-tags-resource
 legacySlug: optimize-your-invoicing-with-the-new-b2w-deliveries-multiple-tags-resource
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN:  VTEX will commence issuing multiple labels for B2W placed orders. Functionality will only be available for Brazil.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Lojas B2B agora necessitam de configuração especial antes de irem ao ar
+title: "Lojas B2B agora necessitam de configuração especial antes de irem ao ar"
 id: 4XcRdSvBm4kKQB44gQ4FwT
 status: CHANGED
 createdAt: 2020-05-15T14:57:18.346Z
@@ -10,7 +10,7 @@ productTeam: Reliability
 author: 127RQ7SUoFfyTh5gbXUpdM
 slug: lojas-b2b-necessitam-de-configuracao-especial-antes-de-irem-ao-ar
 legacySlug: lojas-b2b-necessitam-de-configuracao-especial-antes-de-irem-ao-ar
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Lojas B2B precisam receber uma configuração especial por parte da equipe VTEX.
 ---
 

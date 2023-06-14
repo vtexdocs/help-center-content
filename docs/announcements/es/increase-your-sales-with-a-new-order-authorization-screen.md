@@ -1,5 +1,5 @@
 ---
-title: Aumenta sus ventas con la nueva pantalla Autorización de pedidos
+title: "Aumenta sus ventas con la nueva pantalla Autorización de pedidos"
 id: 7EXIgaESHfI46lkaZw9jrQ
 status: CHANGED
 createdAt: 2019-03-26T18:22:14.655Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 1E4UkWguFZAXjkguvNHPIv
 slug: aumenta-sus-ventas-con-la-nueva-pantalla-autorizacion-de-pedidos
 legacySlug: aumenta-sus-ventas-con-la-nueva-pantalla-autorizacion-de-pedidos
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES:  Esta herramienta permite el control de las aprobaciones de pedidos con cambios en sus valores.
 ---
 

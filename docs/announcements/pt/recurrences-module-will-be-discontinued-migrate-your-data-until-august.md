@@ -1,5 +1,5 @@
 ---
-title: Módulo "Recorrência" será descontinuado: migre seus dados até agosto
+title: "Módulo "Recorrência" será descontinuado: migre seus dados até agosto"
 id: 6FMxXxKZknbKKULVFII4vQ
 status: PUBLISHED
 createdAt: 2020-06-05T16:09:52.370Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: modulo-recorrencia-sera-descontinuado-migre-seus-dados-ate-agosto
 legacySlug: modulo-recorrencia-sera-descontinuado-migre-seus-dados-ate-agosto
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Todas as lojas que ainda a utilizam o módulo Recorrência devem migrar para o módulo Assinaturas até 03 de agosto de 2020
 ---
 

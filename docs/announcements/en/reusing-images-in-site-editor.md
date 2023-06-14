@@ -1,5 +1,5 @@
 ---
-title: Reusing images in Site Editor
+title: "Reusing images in Site Editor"
 id: 1gILUNu24iiCWrodZMw3Kq
 status: PUBLISHED
 createdAt: 2021-08-03T17:36:32.021Z
@@ -10,7 +10,7 @@ productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: reusing-images-in-site-editor
 legacySlug: reusing-images-in-site-editor
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: We have improved blocks with the native option to upload images in Site Editor through an image repository.
 ---
 

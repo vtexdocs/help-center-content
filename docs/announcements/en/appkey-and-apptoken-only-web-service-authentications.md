@@ -1,5 +1,5 @@
 ---
-title: AppKey and appToken only Web Service authentications
+title: "AppKey and appToken only Web Service authentications"
 id: 6bi5pmHVE4cIqeEOIiakoW
 status: PUBLISHED
 createdAt: 2018-08-14T13:49:35.694Z
@@ -10,7 +10,7 @@ productTeam: Reliability
 author: authors_24
 slug: appkey-and-apptoken-only-web-service-authentications
 legacySlug: appkey-and-apptoken-only-web-service-authentications
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Starting 08/20 (Monday), this change will enhance the security level of all your store's Web Service integrations.
 ---
 

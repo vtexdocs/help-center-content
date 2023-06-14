@@ -10,7 +10,7 @@ productTeam: VTEX IO
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: abandoned-cart-app-configure-it-quickly-and-easily
 legacySlug: abandoned-cart-app-configure-it-quickly-and-easily
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: A new app makes it easier to send emails to customers who have interrupted their purchases.
 ---
 

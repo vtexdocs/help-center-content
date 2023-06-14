@@ -1,5 +1,5 @@
 ---
-title: Nueva forma de organizar los archivos de traducción en su app IO
+title: "Nueva forma de organizar los archivos de traducción en su app IO"
 id: 5ihajfKsWkq6Mc0gm2cQUK
 status: DRAFT
 createdAt: 2018-12-13T19:55:38.654Z
@@ -10,7 +10,7 @@ productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
 slug: nueva-forma-de-organizar-los-archivos-de-traduccion-en-su-app-io
 legacySlug: nueva-forma-de-organizar-los-archivos-de-traduccion-en-su-app-io
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: En la nueva versión de VTEX.IO, los archivos JSON de traducción deben permanecer en una carpeta en el directorio raíz.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: The "items" field will be removed from the List Orders API
+title: "The "items" field will be removed from the List Orders API"
 id: 40UDVKiocUCSi8Uo8eUKui
 status: PUBLISHED
 createdAt: 2018-10-04T20:56:17.252Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: authors_24
 slug: the-items-field-will-be-removed-from-the-list-orders-api
 legacySlug: the-items-field-will-be-removed-from-the-list-orders-api
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: On 10/12, we will remove this field (already obsolete) to give greater stability and performance to order indexing.
 ---
 

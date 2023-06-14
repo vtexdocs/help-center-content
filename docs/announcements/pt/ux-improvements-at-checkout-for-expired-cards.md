@@ -1,5 +1,5 @@
 ---
-title: Melhorias de UX no checkout para cartões vencidos
+title: "Melhorias de UX no checkout para cartões vencidos"
 id: 63xlwoVYtCo1elfBkQps78
 status: PUBLISHED
 createdAt: 2020-11-23T19:47:40.205Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: melhorias-de-ux-no-checkout-para-cartoes-vencidos
 legacySlug: melhorias-de-ux-no-checkout-para-cartoes-vencidos
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Agora impedimos que cartões vencidos sejam selecionados no checkout, para uma experiência de compra mais fluida.
 ---
 

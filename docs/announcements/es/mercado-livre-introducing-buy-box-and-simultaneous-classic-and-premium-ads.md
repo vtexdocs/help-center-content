@@ -1,5 +1,5 @@
 ---
-title: Mercado Libre: Presentamos Buy Box y anuncios Clásico y Premium simultáneos.
+title: "Mercado Libre: Presentamos Buy Box y anuncios Clásico y Premium simultáneos."
 id: 5MVLHFGJzHb6GTVVBwZeNZ
 status: DRAFT
 createdAt: 2020-02-27T17:05:49.574Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: vztwQkZv4z6EwDVwdqbsw
 slug: mercado-libre-presentamos-buy-box-y-anuncios-clasico-y-premium-simultaneos
 legacySlug: mercado-libre-presentamos-buy-box-y-anuncios-clasico-y-premium-simultaneos
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Tenemos dos mejoras que lo ayudarán a vender más y mejor con Mercado Libre: Buy Box y Classic / Premium ads.
 ---
 

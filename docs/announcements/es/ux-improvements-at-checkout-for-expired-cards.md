@@ -1,5 +1,5 @@
 ---
-title: Mejoras de UX en el checkout con tarjetas vencidas
+title: "Mejoras de UX en el checkout con tarjetas vencidas"
 id: 63xlwoVYtCo1elfBkQps78
 status: PUBLISHED
 createdAt: 2020-11-23T19:47:40.205Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: mejoras-de-ux-en-el-checkout-con-tarjetas-vencidas
 legacySlug: mejoras-de-ux-en-el-checkout-con-tarjetas-vencidas
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Ahora evitamos que se seleccionen tarjetas vencidas en el pago, para una experiencia de compra más fluida.
 ---
 

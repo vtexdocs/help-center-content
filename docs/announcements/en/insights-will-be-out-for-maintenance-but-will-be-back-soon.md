@@ -1,5 +1,5 @@
 ---
-title: Insights will be out for maintenance but will be back soon
+title: "Insights will be out for maintenance but will be back soon"
 id: 3BadtaOksU0U4So2Kqi0OE
 status: PUBLISHED
 createdAt: 2018-12-06T21:09:00.091Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
 slug: insights-will-be-out-for-maintenance-but-will-be-back-soon
 legacySlug: insights-will-be-out-for-maintenance-but-will-be-back-soon
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: As of 12/10/18, Insights will be out for maintenance, therefore unavailable for all VTEX users.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Melhorias na experiência de Cupons
+title: "Melhorias na experiência de Cupons"
 id: 5ZuEdfHzmuiLfosFBgz16D
 status: PUBLISHED
 createdAt: 2023-04-13T21:15:44.940Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: melhorias-na-experiencia-de-cupons
 legacySlug: melhorias-na-experiencia-de-cupons
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Nova experiência de Cupons para apresentar mais informações estratégicas e novas possibilidades de configuração
 ---
 

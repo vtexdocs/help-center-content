@@ -1,5 +1,5 @@
 ---
-title: Use the Nominal Tax and avoid customers abandoning their shopping cart
+title: "Use the Nominal Tax and avoid customers abandoning their shopping cart"
 id: 5dPMJlTG0rP467QUNFKtNY
 status: PUBLISHED
 createdAt: 2019-12-12T21:33:46.613Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 1E4UkWguFZAXjkguvNHPIv
 slug: use-the-nominal-tax-and-avoid-customers-abandoning-their-shopping-cart
 legacySlug: use-the-nominal-tax-and-avoid-customers-abandoning-their-shopping-cart
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: The tool is useful for a number of business strategies, including to avoid having the order burdened.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: O termo “Access Profile” foi substituído por “Role” na UI do Admin
+title: "O termo “Access Profile” foi substituído por “Role” na UI do Admin"
 id: jSmEYL6oN5QFLA20a8Aj9
 status: PUBLISHED
 createdAt: 2021-03-23T14:02:18.054Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: o-termo-access-profile-foi-substituido-por-role-na-ui-do-admin
 legacySlug: o-termo-access-profile-foi-substituido-por-role-na-ui-do-admin
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: O termo “Access Profile” foi substituído pelo termo “Role” para melhor refletir o conceito a que se refere.
 ---
 

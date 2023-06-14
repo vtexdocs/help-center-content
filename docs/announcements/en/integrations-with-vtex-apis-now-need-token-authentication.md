@@ -1,5 +1,5 @@
 ---
-title: As of 11/13 VTEX APIs will no longer support authentication via email and password
+title: "As of 11/13 VTEX APIs will no longer support authentication via email and password"
 id: 7AdnXDH7AkYmuEUmmis8Es
 status: PUBLISHED
 createdAt: 2017-10-25T20:55:52.136Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: authors_59
 slug: integrations-with-vtex-apis-now-need-token-authentication
 legacySlug: integrations-with-vtex-apis-now-need-token-authentication
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: VTEX will no longer allow integrations with our APIs to use email and password for authentication
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Conheça o Cartman: a nova ferramenta de investigação do Checkout
+title: "Conheça o Cartman: a nova ferramenta de investigação do Checkout"
 id: 2n8eNuBTvlHI0D1oUOny72
 status: CHANGED
 createdAt: 2019-09-03T15:02:52.505Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: conheca-o-cartman-a-nova-ferramenta-de-investigacao-do-checkout
 legacySlug: conheca-o-cartman-a-nova-ferramenta-de-investigacao-do-checkout
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: O Cartman simula, compartilha e investiga carrinhos, permitindo a investigação de vários cenários do Checkout
 ---
 

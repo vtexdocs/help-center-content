@@ -1,5 +1,5 @@
 ---
-title: Apply manual prices in subscription items
+title: "Apply manual prices in subscription items"
 id: 7vyYh0mDWkvwqMybqjpgHt
 status: PUBLISHED
 createdAt: 2022-05-10T19:23:46.393Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: apply-manual-prices-in-subscription-items
 legacySlug: apply-manual-prices-in-subscription-items
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Now, you can enable Manual Price for Subscriptions in your store.
 ---
 

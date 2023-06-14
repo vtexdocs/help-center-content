@@ -1,5 +1,5 @@
 ---
-title: Mercado Libre integration: New size chart
+title: "Mercado Libre integration: New size chart"
 id: 2obbDH8UcSlGVjoyNy92so
 status: PUBLISHED
 createdAt: 2022-06-29T19:33:31.118Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: mercado-libre-integration-new-size-chart
 legacySlug: mercado-libre-integration-new-size-chart
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: We launched the new Mercado Libre size chart for stores that operate as sellers on the marketplace.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Catalog API: new restrictions to activate an SKU
+title: "Catalog API: new restrictions to activate an SKU"
 id: JcUDPA6hTMK4kwjTUAUn9
 status: PUBLISHED
 createdAt: 2021-01-28T18:30:48.345Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: catalog-api-new-restrictions-to-activate-an-sku
 legacySlug: catalog-api-new-restrictions-to-activate-a-sku
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: With this update, there are new restrictions for creating SKUs via API
 ---
 

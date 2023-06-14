@@ -1,5 +1,5 @@
 ---
-title: 
+title: ""
 id: 01DqP7B1E02kHeuKvCjHO3
 status: DRAFT
 createdAt: 2020-06-25T14:28:40.679Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: relatorio-announcement
 legacySlug: relatorio-announcement
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: 
 ---
 

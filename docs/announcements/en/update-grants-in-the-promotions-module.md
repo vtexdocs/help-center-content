@@ -1,5 +1,5 @@
 ---
-title: Update grants in the Promotions module
+title: "Update grants in the Promotions module"
 id: 44YUkn7Xk5FfnQWcGvpl6p
 status: PUBLISHED
 createdAt: 2019-08-12T21:34:06.744Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 1E4UkWguFZAXjkguvNHPIv
 slug: update-grants-in-the-promotions-module
 legacySlug: update-grants-in-the-promotions-module
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: We've updated the Promotions module.
 ---
 

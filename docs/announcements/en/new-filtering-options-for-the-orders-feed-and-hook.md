@@ -1,5 +1,5 @@
 ---
-title: New feed filter allows for notifications related to any order atribute
+title: "New feed filter allows for notifications related to any order atribute"
 id: 4j99SY7EW0sSJz1Vu0p4uP
 status: PUBLISHED
 createdAt: 2021-05-20T16:39:31.231Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: new-filtering-options-for-the-orders-feed-and-hook
 legacySlug: new-filtering-options-for-the-orders-feed-and-hook
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: It is now possible to filter the orders feed by any attribute, including delivery or changes in items, for example.
 ---
 

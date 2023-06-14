@@ -1,5 +1,5 @@
 ---
-title: You can now restrict user access to the Settings screen on the Orders Management module
+title: "You can now restrict user access to the Settings screen on the Orders Management module"
 id: 6z7TjQRMNWTmR1lKivjehn
 status: PUBLISHED
 createdAt: 2019-06-07T14:18:18.903Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: you-can-now-restrict-user-access-to-the-settings-screen-on-the-orders
 legacySlug: you-can-now-restrict-user-access-to-the-settings-screen-on-the-orders
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Possibility to limit user access to the Settings screen
 ---
 

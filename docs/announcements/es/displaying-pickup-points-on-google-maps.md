@@ -1,5 +1,5 @@
 ---
-title: Muestre puntos de recogida en Google Maps
+title: "Muestre puntos de recogida en Google Maps"
 id: 70wpYhYSPLVq8q3njJ8ojr
 status: PUBLISHED
 createdAt: 2021-03-19T00:17:43.865Z
@@ -10,7 +10,7 @@ productTeam: VTEX IO
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: muestre-puntos-de-recogida-en-google-maps
 legacySlug: muestre-puntos-de-recogida-en-google-maps
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Aplicación que lista los Puntos de Recogida y los muestra como marcadores en Google Maps.
 ---
 

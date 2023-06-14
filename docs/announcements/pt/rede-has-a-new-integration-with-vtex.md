@@ -1,5 +1,5 @@
 ---
-title: Rede tem nova integração com a VTEX
+title: "Rede tem nova integração com a VTEX"
 id: zU5CPR5Doc4KYyyOoSAuO
 status: PUBLISHED
 createdAt: 2018-04-13T15:51:42.977Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: authors_24
 slug: rede-tem-nova-integracao-com-a-vtex
 legacySlug: rede-tem-nova-integracao-com-a-vtex
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: ERedeREST aceita meios de pagamento com pré-autorização e tem total compatibilidade com Apple Pay.
 ---
 

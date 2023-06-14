@@ -1,5 +1,5 @@
 ---
-title: News on how to configure login providers for your store
+title: "News on how to configure login providers for your store"
 id: 6tP4uxQJ0BdnDw38hmyeOW
 status: CHANGED
 createdAt: 2020-10-06T17:50:13.106Z
@@ -10,7 +10,7 @@ productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: news-on-how-to-configure-login-providers-for-your-store
 legacySlug: news-on-how-to-configure-login-providers-for-your-store
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: News on how to configure login providers for your store
 ---
 

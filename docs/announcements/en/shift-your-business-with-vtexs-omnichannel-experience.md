@@ -1,5 +1,5 @@
 ---
-title: Shift your business with VTEX's omnichannel experience
+title: "Shift your business with VTEX's omnichannel experience"
 id: 2HMZIgC9TiEOCqk8Meq4s0
 status: PUBLISHED
 createdAt: 2018-07-26T18:55:36.318Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
 slug: shift-your-business-with-vtexs-omnichannel-experience
 legacySlug: shift-your-business-with-vtexs-omnichannel-experience
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: VTEX OMS is a solution that unites all your clients' data and connects all your channels and inventories.
 ---
 

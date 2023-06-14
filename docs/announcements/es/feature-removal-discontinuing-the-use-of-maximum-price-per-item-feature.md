@@ -1,5 +1,5 @@
 ---
-title: Funcionalidad Removida: Discontinuación de la función Precio Máximo por Ítem 
+title: "Funcionalidad Removida: Discontinuación de la función Precio Máximo por Ítem "
 id: 2sI7R4FgmWpmFdKSJSwJPW
 status: CHANGED
 createdAt: 2019-04-05T16:20:16.272Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 71cQH3Q0oKXzeY2DmMZRKX
 slug: feature-removal-descontinuacao-da-feature-de-preco-maximo-por-item
 legacySlug: feature-removal-descontinuacao-da-feature-de-preco-maximo-por-item
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Haz uso de la nueva funcionalidad Promociones por Tabla de Precio para atender a los escenarios de la discontinuada.
 ---
 

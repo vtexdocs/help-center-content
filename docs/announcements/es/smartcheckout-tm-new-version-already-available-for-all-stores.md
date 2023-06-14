@@ -1,5 +1,5 @@
 ---
-title: Nueva versión de SmartCheckout ™ ha sido lanzada para todas las tiendas
+title: "Nueva versión de SmartCheckout ™ ha sido lanzada para todas las tiendas"
 id: 1SN2x7kv3W22sY4c4g28au
 status: PUBLISHED
 createdAt: 2018-01-12T15:50:03.846Z
@@ -10,7 +10,7 @@ productTeam: Shopping
 author: authors_24
 slug: nueva-versión-de-smartcheckout-tm-ha-sido-lanzada-para-todas-las-tiendas
 legacySlug: nueva-versión-de-smartcheckout-tm-ha-sido-lanzada-para-todas-las-tiendas
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Se realizó la migración de todas las tiendas a la quinta versión de SmartCheckout ™.
 ---
 

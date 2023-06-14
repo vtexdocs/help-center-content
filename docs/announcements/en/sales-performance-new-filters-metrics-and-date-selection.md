@@ -1,5 +1,5 @@
 ---
-title: Sales Performance: new filters, metrics, and date selection
+title: "Sales Performance: new filters, metrics, and date selection"
 id: ABcPlgtpDmSJTFgA3GCAr
 status: PUBLISHED
 createdAt: 2022-07-05T13:14:52.015Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: sales-performance-new-filters-metrics-and-date-selection
 legacySlug: sales-performance-new-filters-metrics-and-date-selection
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Now you can select custom dates and use new filters in Sales Performance.
 ---
 

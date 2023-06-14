@@ -1,5 +1,5 @@
 ---
-title: Cambio en el envío de productos a Via Varejo
+title: "Cambio en el envío de productos a Via Varejo"
 id: 4iWQ1Kr44tw68pQ7yyL2bu
 status: CHANGED
 createdAt: 2020-04-06T23:53:19.365Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: mapeo-de-categorias-ahora-obligatorio-para-via-varejo-marketplace
 legacySlug: cambio-en-el-envio-de-productos-a-via-varejo
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Haga que sus productos estén disponibles más rápido en Via Varejo mapeando categorías, variaciones y atributos.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Store Framework: otimize o tempo de carregamento da sua loja com melhorias de performance
+title: "Store Framework: otimize o tempo de carregamento da sua loja com melhorias de performance"
 id: 2aE6NPUuCTdmxrC8KxRkby
 status: PUBLISHED
 createdAt: 2020-06-17T16:49:13.781Z
@@ -10,7 +10,7 @@ productTeam: VTEX IO
 author: 6AcGyun1hSWewU8YcaQiO
 slug: store-framework-otimize-o-tempo-de-carregamento-da-sua-loja
 legacySlug: store-framework-otimize-o-tempo-de-carregamento-da-sua-loja
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Acelere a apresentação do conteúdo do seu website adotando as boas práticas de performance do Store Framework.
 ---
 

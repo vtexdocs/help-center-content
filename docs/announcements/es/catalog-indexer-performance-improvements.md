@@ -1,5 +1,5 @@
 ---
-title: Indexador: Nuevas mejoras de desempeño para el Catálogo
+title: "Indexador: Nuevas mejoras de desempeño para el Catálogo"
 id: 2Nfc5iqFqd7YOgevFmgkXP
 status: PUBLISHED
 createdAt: 2020-08-04T19:45:49.927Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: indexador-mejoras-de-desempeno-para-el-catalogo
 legacySlug: indexador-mejoras-de-desempeno-para-el-catalogo
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Para mejorar la experiencia en el Catálogo, hemos mejorado el desempeño del Indexador.
 ---
 

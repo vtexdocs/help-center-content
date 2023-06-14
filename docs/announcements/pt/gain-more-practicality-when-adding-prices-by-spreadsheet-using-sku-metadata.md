@@ -1,5 +1,5 @@
 ---
-title: Tenha mais praticidade para cadastrar preços por planilha utilizando metadados dos SKUs
+title: "Tenha mais praticidade para cadastrar preços por planilha utilizando metadados dos SKUs"
 id: 5ln4wq8nuvaGhlBDEjEMKi
 status: PUBLISHED
 createdAt: 2019-05-27T20:35:45.666Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 71cQH3Q0oKXzeY2DmMZRKX
 slug: tenha-mais-praticidade-para-cadastrar-precos-por-planilha-utilizando
 legacySlug: tenha-mais-praticidade-para-cadastrar-precos-por-planilha-utilizando-metadados-dos-SKUs
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Nosso time de desenvolvimento adicionou mais uma funcionalidade ao módulo de preços.
 ---
 

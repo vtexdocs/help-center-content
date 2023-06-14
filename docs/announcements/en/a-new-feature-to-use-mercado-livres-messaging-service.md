@@ -1,5 +1,5 @@
 ---
-title: A new feature to use Mercado Livre's messaging service
+title: "A new feature to use Mercado Livre's messaging service"
 id: 3mcC2l7NNYKagwcOOM66MI
 status: PUBLISHED
 createdAt: 2018-07-05T12:29:20.974Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: authors_24
 slug: a-new-feature-to-use-mercado-livres-messaging-service
 legacySlug: a-new-feature-to-use-mercado-livres-messaging-service
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: You can now communicate updates on order status using the Mercado Livre's messaging service.
 ---
 

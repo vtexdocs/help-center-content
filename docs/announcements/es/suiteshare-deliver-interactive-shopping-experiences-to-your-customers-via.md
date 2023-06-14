@@ -1,5 +1,5 @@
 ---
-title: Suiteshare: ofrezca experiencias de compra interactivas a sus clientes a través de WhatsApp
+title: "Suiteshare: ofrezca experiencias de compra interactivas a sus clientes a través de WhatsApp"
 id: 1tNAguMcLif8mUH0kqmPBw
 status: PUBLISHED
 createdAt: 2021-08-16T13:49:05.470Z
@@ -10,7 +10,7 @@ productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: suiteshare-ofrezca-experiencias-de-compra-interactivas-a-sus-clientes-a
 legacySlug: suiteshare-ofrezca-experiencias-de-compra-interactivas-a-sus-clientes-a
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: VTEX App Store ofrece la integración con la plataforma de ventas y servicio al cliente a través de WhatsApp, Suiteshare.
 ---
 

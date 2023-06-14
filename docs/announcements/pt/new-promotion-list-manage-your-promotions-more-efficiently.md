@@ -1,5 +1,5 @@
 ---
-title: Nova Lista de Promoções: gerencie promoções com mais eficiência
+title: "Nova Lista de Promoções: gerencie promoções com mais eficiência"
 id: 41WGnqeWRM4AWlTmoYqz8Y
 status: PUBLISHED
 createdAt: 2022-07-12T13:26:11.563Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: nova-lista-de-promocoes-gerencie-promocoes-com-mais-eficiencia
 legacySlug: nova-lista-de-promocoes-gerencie-promocoes-com-mais-eficiencia
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: A nova lista de Promoções possibilita gerenciar as promoções da sua loja de forma mais completa e otimizada.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Novo atributo obrigatório para produtos enviados ao Mercado Livre
+title: "Novo atributo obrigatório para produtos enviados ao Mercado Livre"
 id: 5nr8nGhCLFNtIP5tFkNEpJ
 status: PUBLISHED
 createdAt: 2022-02-25T18:35:17.032Z
@@ -10,7 +10,7 @@ productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: novo-atributo-obrigatorio-para-produtos-enviados-ao-mercado-livre
 legacySlug: novo-atributo-obrigatorio-para-produtos-enviados-ao-mercado-livre
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Devido à determinação da Anatel, produtos da categoria Celulares no Mercado Livre terão um novo atributo obrigatório
 ---
 

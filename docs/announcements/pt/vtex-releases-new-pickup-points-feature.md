@@ -1,5 +1,5 @@
 ---
-title: VTEX lança nova feature de Pontos de Retirada (Pickup Points)
+title: "VTEX lança nova feature de Pontos de Retirada (Pickup Points)"
 id: 3Nba5qVpEsmQKwu82Ao4s
 status: PUBLISHED
 createdAt: 2017-10-30T20:47:42.057Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: authors_59
 slug: vtex-lanca-nova-feature-de-pontos-de-retirada-pickup-points
 legacySlug: vtex-lanca-nova-feature-de-pontos-de-retirada-pickup-points
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Utilizando o conceito de Delivery Channels, mudamos a forma de cadastro e administração dos pontos de retirada.
 ---
 

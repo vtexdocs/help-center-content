@@ -1,5 +1,5 @@
 ---
-title: Master Data v2 order entity will be deprecated
+title: "Master Data v2 order entity will be deprecated"
 id: 2A1FAUTdp2AgDNw9O2Y9za
 status: CHANGED
 createdAt: 2023-04-10T14:41:54.108Z
@@ -10,7 +10,7 @@ productTeam: Master Data
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: master-data-v2-order-entity-will-be-deprecated
 legacySlug: master-data-v2-order-entity-will-be-deprecated
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN:  VTEX will deprecate the order entity of Master Data v2 in October 2023. Learn how to adapt your store integrations.
 ---
 

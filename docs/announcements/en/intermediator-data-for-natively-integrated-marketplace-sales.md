@@ -1,5 +1,5 @@
 ---
-title: Intermediator data for natively integrated marketplace sales
+title: "Intermediator data for natively integrated marketplace sales"
 id: 76L5juzkCZa8Bn5vl6U9Cp
 status: PUBLISHED
 createdAt: 2021-03-31T13:19:17.099Z
@@ -10,7 +10,7 @@ productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: intermediator-data-for-natively-integrated-marketplace-sales
 legacySlug: intermediator-data-for-natively-integrated-marketplace-sales
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Intermediator information for natively integrated marketplace sales is now being made available through the Orders API.
 ---
 

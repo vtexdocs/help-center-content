@@ -1,5 +1,5 @@
 ---
-title: Novo filtro do feed possibilita notificações relacionadas a qualquer atributo do pedido
+title: "Novo filtro do feed possibilita notificações relacionadas a qualquer atributo do pedido"
 id: 4j99SY7EW0sSJz1Vu0p4uP
 status: PUBLISHED
 createdAt: 2021-05-20T16:39:31.231Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: novas-opcoes-de-filtragem-para-o-feed-e-o-hook
 legacySlug: novas-opcoes-de-filtragem-para-o-feed-e-o-hook
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Agora é possível filtrar o feed de pedidos por qualquer atributo, como entrega ou mudanças em itens, por exemplo.
 ---
 

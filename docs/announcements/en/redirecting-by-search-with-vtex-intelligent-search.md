@@ -1,5 +1,5 @@
 ---
-title: Redirecting by search with VTEX Intelligent Search
+title: "Redirecting by search with VTEX Intelligent Search"
 id: 256MC65x12CEWob3TYfpkA
 status: CHANGED
 createdAt: 2020-06-30T16:24:57.524Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: redirecting-by-search-with-vtex-intelligent-search
 legacySlug: redirecting-by-search-with-vtex-intelligent-search
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: VTEX Intelligent Search just gained a redirect functionality which redirects search terms or filters to specific pages
 ---
 

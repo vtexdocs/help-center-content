@@ -1,5 +1,5 @@
 ---
-title: Ahora usted puede elegir el tipo de interés utilizado en las cuotas de su tienda
+title: "Ahora usted puede elegir el tipo de interés utilizado en las cuotas de su tienda"
 id: D5XEUzJ6mcY0E0sWwWoWA
 status: CHANGED
 createdAt: 2019-01-03T21:13:24.577Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: ahora-usted-puede-elegir-el-tipo-de-interes-utilizado-en-las-cuotas-de-su
 legacySlug: ahora-usted-puede-elegir-el-tipo-de-interes-utilizado-en-las-cuotas-de-su
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: Tiendas ahora pueden utilizar interés simple o compuesto, de acuerdo con la estrategia en los países en que actúan.
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: My Account: Em 17/06, os links nativos para o My Account da sua loja vão mudar - revise suas configurações
+title: "My Account: Em 17/06, os links nativos para o My Account da sua loja vão mudar - revise suas configurações"
 id: 2N9T3weFs2VDXan6vrGgnC
 status: CHANGED
 createdAt: 2020-05-26T14:16:56.645Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: em-17-06-os-links-nativos-para-o-my-account-vao-mudar-revise-suas
 legacySlug: em-17-06-os-links-nativos-para-o-my-account-vao-mudar-revise-suas
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Dia 17 de junho seu cliente acessará todas as suas informações, incluindo os pedidos, através da única URL "/account"
 ---
 

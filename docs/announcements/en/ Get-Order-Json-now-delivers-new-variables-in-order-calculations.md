@@ -1,5 +1,5 @@
 ---
-title: Get Order JSON now delivers new variables in order calculations
+title: "Get Order JSON now delivers new variables in order calculations"
 id: 58rQC0b6B0lw0eeKbNxJG6
 status: PUBLISHED
 createdAt: 2019-03-20T18:06:17.876Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 5V92cmF9jG8KG600EwUgEg
 slug:  Get-Order-Json-now-delivers-new-variables-in-order-calculations
 legacySlug:  Get-Order-Json-now-delivers-new-variables-in-order-calculations
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: Now available detailed information about the calculation of shipping of the order
 ---
 

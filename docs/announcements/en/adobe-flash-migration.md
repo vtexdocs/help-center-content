@@ -1,5 +1,5 @@
 ---
-title: Adobe Flash Migration
+title: "Adobe Flash Migration"
 id: 2oqcLDuGp52PEAuMSLOjPY
 status: PUBLISHED
 createdAt: 2020-06-19T15:28:35.331Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: adobe-flash-migration
 legacySlug: adobe-flash-migration
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: VTEX updated the CMS module due to the Adobe Flash migration
 ---
 

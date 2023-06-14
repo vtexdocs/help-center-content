@@ -1,5 +1,5 @@
 ---
-title: Mejore la accesibilidad en su tienda
+title: "Mejore la accesibilidad en su tienda"
 id: 4UI7MZPfA5BXZXLi7KSedS
 status: PUBLISHED
 createdAt: 2021-03-09T19:40:54.779Z
@@ -10,7 +10,7 @@ productTeam: VTEX IO
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: conformidad-ada-y-wcag-con-accessibe
 legacySlug: conformidad-con-ada-y-wcag-en-vtex
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisES: La aplicación accessiBe hace que su tienda cumpla con los estándares de accesibilidad web.
 ---
 

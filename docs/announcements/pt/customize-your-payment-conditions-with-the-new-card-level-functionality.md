@@ -1,5 +1,5 @@
 ---
-title: Personalize suas condições de pagamento com a nova funcionalidade Card Level 
+title: "Personalize suas condições de pagamento com a nova funcionalidade Card Level "
 id: 45gHsrbz5PVIM71hRdjjEC
 status: DRAFT
 createdAt: 2019-09-16T15:34:30.491Z
@@ -10,7 +10,7 @@ productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: personalize-suas-condicoes-de-pagamento-com-a-nova-funcionalidade-card
 legacySlug: personalize-suas-condicoes-de-pagamento-com-a-nova-funcionalidade-card
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisPT: Agora nossas lojas podem criar condições de pagamento segmentadas por nível do cartão de crédito.
 ---
 

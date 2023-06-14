@@ -1,5 +1,5 @@
 ---
-title: Improvements in exporting prices via spreadsheet
+title: "Improvements in exporting prices via spreadsheet"
 id: 7L4mGhB2AwkWZD2kelgiIJ
 status: PUBLISHED
 createdAt: 2023-01-13T21:36:13.340Z
@@ -10,7 +10,7 @@ productTeam: Marketing & Merchandising
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: improvements-in-exporting-prices-via-spreadsheet
 legacySlug: improvements-in-exporting-prices-via-spreadsheet
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: We have updated the process of exporting prices via spreadsheet to give customers more visibility.
 ---
 

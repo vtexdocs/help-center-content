@@ -1,5 +1,5 @@
 ---
-title: Changes in the types of Conversation Tracker masks
+title: "Changes in the types of Conversation Tracker masks"
 id: 2PlNLiKcBVH2v888Vy5OGS
 status: PUBLISHED
 createdAt: 2021-04-26T15:06:45.617Z
@@ -10,7 +10,7 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: changes-in-the-types-of-conversation-tracker-masks
 legacySlug: changes-in-the-types-of-conversation-tracker-masks
-announcementImageID: 
+announcementImageID: ""
 announcementSynopsisEN: This announcement refers to terms used only in Portuguese and Spanish. Read it in those languages to find out more.
 ---
 
