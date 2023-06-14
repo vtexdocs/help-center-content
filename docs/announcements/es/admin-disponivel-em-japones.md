@@ -1,5 +1,5 @@
 ---
-title: '‘Kon'nichiwa!’ Admin ahora disponible en japonés'
+title: "‘Kon'nichiwa!’ Admin ahora disponible en japonés"
 id: 4yij9hB2Hia3fTynwDXccF
 status: PUBLISHED
 createdAt: 2021-03-02T01:41:00.002Z
