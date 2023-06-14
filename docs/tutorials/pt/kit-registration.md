@@ -25,7 +25,7 @@ Um kit pode permitir ou não que seus componentes sejam vendidos separadamente, 
 
 Para a configuração do kit é necessário que os produtos que irão fazer parte dele &#8211; seus componentes &#8211; já estejam criados. Confira o exemplo abaixo:
 
-![Componentes](//images.ctfassets.net/alneenqid6w5/6k1lQeZ7AQ4qSQ80sWy0wg/24b2af0e0aa753077e69a3a0a8de7359/Screenshot_2018-10-24_11.05.54.png)
+![Componentes](https://images.ctfassets.net/alneenqid6w5/6k1lQeZ7AQ4qSQ80sWy0wg/24b2af0e0aa753077e69a3a0a8de7359/Screenshot_2018-10-24_11.05.54.png)
 
 Após a criação dos produtos componentes, podemos seguir para a configuração do kit.
 
@@ -36,7 +36,7 @@ Após a criação dos produtos componentes, podemos seguir para a configuração
 5. Caso queira um kit look, clique na opção __Kit com itens vendidos separadamente__.
 6. Clique em `Salvar`.
 
-![kit](//images.ctfassets.net/alneenqid6w5/2ELMh0gTCcSiag28qAsAmg/68fb75589fef19ed4001aec9b3cedfa1/02-kit_PT.png)
+![kit](https://images.ctfassets.net/alneenqid6w5/2ELMh0gTCcSiag28qAsAmg/68fb75589fef19ed4001aec9b3cedfa1/02-kit_PT.png)
 
 ## Associar componentes
 
@@ -51,9 +51,9 @@ Depois de criar o produto que será o kit, você precisa associar os componentes
 7. Preencha o preço unitário do SKU dentro do KIT.
 6. Clique em `Salvar`.
 
-![Adicionar componente ao kit](//images.ctfassets.net/alneenqid6w5/3Cza8qJSEoIK6I00wa2aAU/07caa35d542518e389b66eca48bdffbb/03-add_component_to_kit_PT.gif)
+![Adicionar componente ao kit](https://images.ctfassets.net/alneenqid6w5/3Cza8qJSEoIK6I00wa2aAU/07caa35d542518e389b66eca48bdffbb/03-add_component_to_kit_PT.gif)
 
-![Kit no carrinho](//images.ctfassets.net/alneenqid6w5/239UK8f3gEQi4IKc6YeyEI/0878bffc1325d9c3f79365f7aa479ef8/04-kit_in_cart_ALL.png)
+![Kit no carrinho](https://images.ctfassets.net/alneenqid6w5/239UK8f3gEQi4IKc6YeyEI/0878bffc1325d9c3f79365f7aa479ef8/04-kit_in_cart_ALL.png)
 
 ## Peso do kit
 
@@ -65,7 +65,7 @@ O estoque do kit sempre será o estoque de seus componentes. Ou seja, não é po
 
 Essa informação pode ser visualizada em __Estoque &amp; entrega &gt; Inventário__:
 
-![ Alterar inventário de componentes do kit](//images.ctfassets.net/alneenqid6w5/5ZsH4tsHV6q6s4OAy6em8k/a57829903e61fa5b00bdd6becd992051/05-manage_inventory_by_kit_PS.gif)
+![ Alterar inventário de componentes do kit](https://images.ctfassets.net/alneenqid6w5/5ZsH4tsHV6q6s4OAy6em8k/a57829903e61fa5b00bdd6becd992051/05-manage_inventory_by_kit_PS.gif)
 
 Como todos os SKUs componentes do kit só podem ser vendidos juntos, o estoque do kit será igual ao SKU com menos itens em estoque. Quando um dos componentes não possui mais estoque, o kit não pode ser comprado.
 
@@ -87,7 +87,7 @@ Mas note que alterar qualquer componente irá gerar um novo preço final, atuali
 
 Alterar somente o preço final não atualiza o preço dos componentes.
 
-![Lista de preços](//images.ctfassets.net/alneenqid6w5/6eI3atVTvq0SgOw6c2uAqa/27af79495fd4de8860c36d214196246e/06-price_list_PT.png)
+![Lista de preços](https://images.ctfassets.net/alneenqid6w5/6eI3atVTvq0SgOw6c2uAqa/27af79495fd4de8860c36d214196246e/06-price_list_PT.png)
 
 ### Saiba mais
 

@@ -34,7 +34,7 @@ Este é o fluxo da reserva na VTEX:
  
  3. Finalmente, uma vez que o pedido está na etapa de preparo para a entrega, os itens passam para o status `Reserva reconhecida`. Esse status indica que o item já não existe mais no estoque físico.      
 
-![reservation pt](//images.ctfassets.net/alneenqid6w5/7nDqT6kSvWTESRqZLzZutZ/9009856b729712a613d4d6c36612fd9a/reservation_pt.png)
+![reservation pt](https://images.ctfassets.net/alneenqid6w5/7nDqT6kSvWTESRqZLzZutZ/9009856b729712a613d4d6c36612fd9a/reservation_pt.png)
 
 <div class="alert alert-warning">
 A VTEX não desconta automaticamente os itens dos estoques, mesmo depois que eles passam para o status <code>Reserva reconhecida</code>. Os itens comprados continuarão nesse status até que o ERP ou o lojista realizem a baixa no estoque.

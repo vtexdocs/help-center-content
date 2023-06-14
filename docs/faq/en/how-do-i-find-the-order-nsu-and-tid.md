@@ -22,5 +22,5 @@ NSU and TID are payment data that remain stored in the __Payment__ module, in th
 
 This information is notified to VTEX during the transactions and organized for a simple view in **+ Information** in the [details of the order](/en/tutorial/how-to-view-the-orders-details), as illustrated below:
 
-![mais-informações-detalhes-pedido en](//images.ctfassets.net/alneenqid6w5/3ncJnNqpXeGWmlhalll0Ck/507f1008c7121f7722f3d694faddc94b/mais-informa____es-detalhes-pedido_en.png)
+![mais-informações-detalhes-pedido en](https://images.ctfassets.net/alneenqid6w5/3ncJnNqpXeGWmlhalll0Ck/507f1008c7121f7722f3d694faddc94b/mais-informa____es-detalhes-pedido_en.png)
 

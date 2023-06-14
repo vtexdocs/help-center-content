@@ -76,7 +76,7 @@ Deberás seleccionar un vendedor de la tienda en la que quieras probar Venta en 
 1. Tras [seleccionar un vendedor](https://help.vtex.com/es/tutorial/vendedores-instore-beta--4rzit1pzp28km4HSDEdrEC), accede a Sales App e inicia sesión.
 2. Busca un ítem que exista en el almacén de la cuenta franquicia registrada. Este ítem debe mostrar la cantidad disponible correspondiente en el stock del seller.
 
-![instore-pdp-es](//images.ctfassets.net/alneenqid6w5/7CtYO9vUzaunI2qO8onP7B/b2feab0b2eb3c3893ed654801743e5cd/image.png)
+![instore-pdp-es](https://images.ctfassets.net/alneenqid6w5/7CtYO9vUzaunI2qO8onP7B/b2feab0b2eb3c3893ed654801743e5cd/image.png)
 
 <div class="alert alert-info">
 <p>Si has habilitado el stock infinito, el número mostrado será superior a 1 millón de ítems y no cambiará cuando se complete una venta.</p>
@@ -91,9 +91,9 @@ También puedes configurar la Venta en mano para ignorar la cantidad de ítems e
 2. Haz clic en el botón del engranaje <i class="fas fa-cog"></i> para editar.
 3. Selecciona la pestaña **Código**.
 4. En la pestaña lateral, selecciona `checkout-instore-custom-js`.
-![instore-custom-js-es](//images.ctfassets.net/alneenqid6w5/5a70caO8nFFF25CrSXPXkx/50b77b80f4cba77048ea3454cda557bc/image.png)
+![instore-custom-js-es](https://images.ctfassets.net/alneenqid6w5/5a70caO8nFFF25CrSXPXkx/50b77b80f4cba77048ea3454cda557bc/image.png)
 5. En la clave `window.INSTORE_CONFIG`, agrega la flag `venderSinStockEnMano: true`.
-![sellWithoutStockInHands-es](//images.ctfassets.net/alneenqid6w5/3yfRFSG0QgIwnXvyxwhsLo/d4f24d0e6eef4783be120f6533c3a6f0/image.png)
+![sellWithoutStockInHands-es](https://images.ctfassets.net/alneenqid6w5/3yfRFSG0QgIwnXvyxwhsLo/d4f24d0e6eef4783be120f6533c3a6f0/image.png)
 6. Haz clic en <i class="fas fa-save"></i> `Guardar`.
 
 ### Habilitar la venta con carrito mixto (opcional)

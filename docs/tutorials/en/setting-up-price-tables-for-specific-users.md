@@ -76,11 +76,11 @@ In the Admin, go to __Prices__ > __Price List__.
 
 In the search filter, enter the names of the tables created in __Master Data__.
 
-![Filters](//images.ctfassets.net/alneenqid6w5/4l7cEOha360ceaegCA4Ws6/17ea17f13d6dd9e399f07c4cefe1888a/Filters.png)
+![Filters](https://images.ctfassets.net/alneenqid6w5/4l7cEOha360ceaegCA4Ws6/17ea17f13d6dd9e399f07c4cefe1888a/Filters.png)
 
 Price tables are shown as columns of the price list, as are trade policies.
 
-![Prices](//images.ctfassets.net/alneenqid6w5/31kElv6oD6KksC8wyUoCgU/815d607e3cdcd2d7c15239d202a81ad0/Prices.png)
+![Prices](https://images.ctfassets.net/alneenqid6w5/31kElv6oD6KksC8wyUoCgU/815d607e3cdcd2d7c15239d202a81ad0/Prices.png)
 
 To update a fixed price in a specific table, on the column corresponding to that table, and then on __Define fixed prices__. 
 
@@ -97,7 +97,7 @@ When a user is not logged into your store, the default prices set by the trade p
 If the user is logged in, they will see the prices corresponding to the price table with which their email is associated.
 
 For example, these two clients are linked to different price tables:
-![Clients](//images.ctfassets.net/alneenqid6w5/4YanVck2GswcKKEEamO6gs/d1a2bc5603716c485dd000239a49fb41/Clients.png)
+![Clients](https://images.ctfassets.net/alneenqid6w5/4YanVck2GswcKKEEamO6gs/d1a2bc5603716c485dd000239a49fb41/Clients.png)
 
 When Daniel, who is linked to the Silver price table, is logged into the store, he will see the prices set on this table. The backpack in the example above will cost USD 50.00.
 

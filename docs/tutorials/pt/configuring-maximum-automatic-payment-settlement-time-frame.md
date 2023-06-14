@@ -57,7 +57,7 @@ Para configurar essa liquidação, siga o passo a passo:
 8. No campo __Captura antecipada__, selecione uma das opções de tempo disponíveis. 
 9. Preencha o campo __Alterar tempo máximo para captura__ com o período definido com a adquirente. __Caso você prefira deixar o campo em branco, o padrão de 4 dias será utilizado__.
 
-![captura_automatica_PT](//images.ctfassets.net/alneenqid6w5/50rTz4DncUN9gOUZ9JWmMk/c5eb2f4759254eb1b8425bcee7267503/captura_automatica_atualizado_PT.png)
+![captura_automatica_PT](https://images.ctfassets.net/alneenqid6w5/50rTz4DncUN9gOUZ9JWmMk/c5eb2f4759254eb1b8425bcee7267503/captura_automatica_atualizado_PT.png)
 10. Clique no __botão Salvar__. 
 
 Desse modo, o novo recurso de liquidação será implementado.

@@ -22,7 +22,7 @@ Aquí ya tendremos indicado su status actual, el inicio (fecha y hora) de la tra
 
 Cada inscripción de Pedido tendrá sus datos restrictos a las condiciones de pago utilizadas para su cierre. Esto es, códigos de autorización, transacción, NSU, entre otros, están puestos a disposición dentro de cada registro.
 
-![payment_es](//images.ctfassets.net/alneenqid6w5/3g2NhLJ0KNKatzSuVVYoVm/f87572b076ab9705c62219316daa72d7/payment_es.jpg)
+![payment_es](https://images.ctfassets.net/alneenqid6w5/3g2NhLJ0KNKatzSuVVYoVm/f87572b076ab9705c62219316daa72d7/payment_es.jpg)
 
 Para mayores informaciones sobre los eventos generados en las transacciones, acceda: [Eventos de la transacción](/hc/es-419/articles/215876397 "Eventos de la transacción").
 

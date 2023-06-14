@@ -24,6 +24,6 @@ Para activar esta configuración:
 3. Haz clic en **Editar** en la línea `Producto - Thumb`.
 4. En el panel que aparece, se puede elegir el tamaño máximo del archivo para las imágenes en miniaturas en el campo **Tamaño máximo en KB**.
 
-![Configuración de tipo de archivo en CMS](//images.ctfassets.net/alneenqid6w5/6aprfJCiiT9y05IAsRvwH/3eb78e622efb3066eee570dc342c1a20/ES.PNG)
+![Configuración de tipo de archivo en CMS](https://images.ctfassets.net/alneenqid6w5/6aprfJCiiT9y05IAsRvwH/3eb78e622efb3066eee570dc342c1a20/ES.PNG)
 
 También te recomendamos que leas el artículo [Mejorar la performance de imágenes de productos](https://help.vtex.com/pt/tutorial/improving-the-performance-of-product-images/) para aprender cómo mejorar la calidad de cualquier imagen de la tienda reduciendo al máximo cualquier alteración en la performance de la carga de la página.

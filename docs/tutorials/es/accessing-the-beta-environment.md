@@ -26,7 +26,7 @@ El ambiente beta funciona como un ambiente de prueba para diferentes versiones d
 
 El acceso al ambiente beta se encuentra al final del menú lateral del Admin. Sólo hay que hacer clic en `Usar beta` para acceder al ambiente de prueba.
 
-![politica-comercial-es](//images.ctfassets.net/alneenqid6w5/6opF8h3ijmqoIkam4ugAim/d194277f2d7e26fc52fc967a866b7e4a/usar-beta-es.png)
+![politica-comercial-es](https://images.ctfassets.net/alneenqid6w5/6opF8h3ijmqoIkam4ugAim/d194277f2d7e26fc52fc967a866b7e4a/usar-beta-es.png)
 
 <div class="alert alert-info">
 Para volver al ambiente principal, haga clic en <code>Usar stable</code>, también ubicado al final del menú lateral del Admin.
@@ -36,4 +36,4 @@ Para volver al ambiente principal, haga clic en <code>Usar stable</code>, tambi�
  
 Para acceder a su tienda en modo beta y comprobar cómo los cambios realizados afectaron a su store front, basta con hacer clic en el botón `VISITE LA TIENDA` después de haber realizado el acceso al ambiente beta descrito en el paso anterior.
 
-![visite-a-loja-beta-es](//images.ctfassets.net/alneenqid6w5/7H26DYk6Oc0moGgckKu2gE/a44101d0044c62582c6af8c364157958/visite-a-loja-beta-es.png)
+![visite-a-loja-beta-es](https://images.ctfassets.net/alneenqid6w5/7H26DYk6Oc0moGgckKu2gE/a44101d0044c62582c6af8c364157958/visite-a-loja-beta-es.png)

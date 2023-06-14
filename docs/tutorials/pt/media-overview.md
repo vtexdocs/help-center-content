@@ -15,7 +15,7 @@ subcategory: 27t6x0lngvjI3bnUg5AgEO
 ---
 
 O Mídia é responsável por gerenciar os arquivos de mídia da sua loja, como imagens e gifs. Você pode fazer o upload e organizar arquivos de mídia usando o Mídia nos seguintes formatos: `PNG`, `JPG`, `GIF`, `SVG` e `WEBP`.
-![Mídia Visão Geral](//images.ctfassets.net/alneenqid6w5/3HL6n5pBx5OpIyJMmPccuZ/1daf233a39aa1f3e4bd5b42b1f4b8805/pt-m__dia-overview.png)
+![Mídia Visão Geral](https://images.ctfassets.net/alneenqid6w5/3HL6n5pBx5OpIyJMmPccuZ/1daf233a39aa1f3e4bd5b42b1f4b8805/pt-m__dia-overview.png)
 
 Além disso, o Mídia está integrado ao **Site Editor** e ao **Headless CMS**. Essa integração permite que você acesse e gerencie o Mídia diretamente através das soluções de CMS da VTEX.
 
@@ -35,7 +35,7 @@ Há três maneiras de acessar o Mídia no Admin:
 
 Na imagem a seguir, confira a visão geral da interface do Mídia e as ações disponíveis para gerenciar seus arquivos de mídia:
 
-![Mídia Features](//images.ctfassets.net/alneenqid6w5/2teyzkUy2zP5vjMLPxlXgD/4ffd0d22e2c3ce0173f5643177728be4/pt-m__dia-features.png)
+![Mídia Features](https://images.ctfassets.net/alneenqid6w5/2teyzkUy2zP5vjMLPxlXgD/4ffd0d22e2c3ce0173f5643177728be4/pt-m__dia-features.png)
 
 | Campo | Descrição |
 | ---------- | ------------- |

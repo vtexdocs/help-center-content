@@ -49,4 +49,4 @@ Para que a função do <a href="https://help.vtex.com/pt/tutorial/acesse-o-carri
 Cada módulo da VTEX é responsável por solicitar ao RC.JS que transmita os dados capturados na sessão. O RC.JS tem por função agir como um "mensageiro" de informações.
 </div>
 
-![image (3)](//images.ctfassets.net/alneenqid6w5/18dCifD9tOEo8mgUocamIc/958e0da9d2c7aa724f5c1c80bb0b616e/image__3_.png)
+![image (3)](https://images.ctfassets.net/alneenqid6w5/18dCifD9tOEo8mgUocamIc/958e0da9d2c7aa724f5c1c80bb0b616e/image__3_.png)

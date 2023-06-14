@@ -18,10 +18,10 @@ internalReference:
 ## Summary
 
 When an item is removed from the order:
-![item removido](//images.ctfassets.net/alneenqid6w5/6Z4eZwTaE00c4IoWWwgoAE/c280b06fb2912bad51afceac5db4c4d0/tozOd3.jpg)
+![item removido](https://images.ctfassets.net/alneenqid6w5/6Z4eZwTaE00c4IoWWwgoAE/c280b06fb2912bad51afceac5db4c4d0/tozOd3.jpg)
 
 The transactional email doesn't consider the removed item and shows both items in the email:
-![email transacional](//images.ctfassets.net/alneenqid6w5/77NEYq80oM6Umm44KO8Uc/625b13837f9ff4b4333e2e28a0745431/zbXg5s.jpg)
+![email transacional](https://images.ctfassets.net/alneenqid6w5/77NEYq80oM6Umm44KO8Uc/625b13837f9ff4b4333e2e28a0745431/zbXg5s.jpg)
 
 
 

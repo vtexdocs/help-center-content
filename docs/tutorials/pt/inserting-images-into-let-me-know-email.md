@@ -30,7 +30,7 @@ A seguir, saiba como realizar essa configuração:
 4. Selecione o template __Let me know__.  
 5. Vá para a caixa de __HTML__.    
 6. Digite o código das imagens que deseja inserir, conforme ilustrado abaixo.
-  ![Let me know - PT](https://images.ctfassets.net/alneenqid6w5/57IqVpUH7SZKkH8sRtlfSf/2d7da2f98c03744e39154825204a4b4a/57IqVpUH7SZKkH8sRtlfSf_Imagem_Message_Center_PT.jpg)  
+  ![Let me know - PT](https:https://images.ctfassets.net/alneenqid6w5/57IqVpUH7SZKkH8sRtlfSf/2d7da2f98c03744e39154825204a4b4a/57IqVpUH7SZKkH8sRtlfSf_Imagem_Message_Center_PT.jpg)  
 7. Clique em `Salvar`.  
 
 Uma vez salva, a configuração já valerá para os próximos emails.

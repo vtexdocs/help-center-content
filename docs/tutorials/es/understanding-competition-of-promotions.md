@@ -81,7 +81,7 @@ Además, todas ellas inciden sobre el valor que ya se descontó al aplicarse la 
 
 Por lo tanto, la secuencia de aplicación es:
 
-![promocao3 ES](//images.ctfassets.net/alneenqid6w5/1CAcjiuVQECwqcoA288Aey/251351f394db394a008ccdd699e47c6f/promocao3_ES.png)
+![promocao3 ES](https://images.ctfassets.net/alneenqid6w5/1CAcjiuVQECwqcoA288Aey/251351f394db394a008ccdd699e47c6f/promocao3_ES.png)
 
 <div class="alert alert-warning">
 Los pedidos de origen <a href="https://help.vtex.com/es/tutorial/configurar-promocao-para-marketplace--tutorials_406">Marketplace</a> ((proporcionados por la tienda) y Fulfillment (entregados por la tienda) no permiten la acumulación de promociones, ya que el uso de las mismas en marketplaces VTEX o externos se limita a algunos tipos específicos.</div> 

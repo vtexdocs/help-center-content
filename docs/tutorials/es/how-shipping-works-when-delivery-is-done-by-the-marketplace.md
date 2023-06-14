@@ -42,7 +42,7 @@ Al igual que en la interfaz del OMS, la API trae la información `vtex:fob_1111`
 
 Es importante que el ERP sea adecuado para recibir los datos en este formato.
 
-![](//images.ctfassets.net/alneenqid6w5/5jPtBeUPHCUvgMco9FoKuZ/add1ce05e78a216f0aa7074c3ae4d444/slack-imgs.com.png)
+![](https://images.ctfassets.net/alneenqid6w5/5jPtBeUPHCUvgMco9FoKuZ/add1ce05e78a216f0aa7074c3ae4d444/slack-imgs.com.png)
 
 ## Etiqueta
 
@@ -50,6 +50,6 @@ El pedido se envía en un contrato con la oficina de correos del propio marketpl
 
 Es posible acceder a la etiqueta directamente por el OMS, debajo de los ítems del pedido. Basta hacer clic en el link y se abrirá una nueva ventana ya con el PDF de la etiqueta.
 
-![Etiqueta de entrega por Correios (BR) - Marketplace](//images.ctfassets.net/alneenqid6w5/3Xc7eqzjetqNwScoZxkWOK/f715c425b47359c8d8735cde8aac8377/Screen_Shot_2020-03-25_at_11.44.05.png)
+![Etiqueta de entrega por Correios (BR) - Marketplace](https://images.ctfassets.net/alneenqid6w5/3Xc7eqzjetqNwScoZxkWOK/f715c425b47359c8d8735cde8aac8377/Screen_Shot_2020-03-25_at_11.44.05.png)
 
 En el caso de que se quiera aprovechar la etiqueta dentro del ERP, esta también está disponible en la [API de Pedidos](https://developers.vtex.com/reference/orders#getorder), en el array `trackingHints` que se encuentra en el objecto `shippingData`.

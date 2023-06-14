@@ -27,7 +27,7 @@ Existen tres formas de agregar un valor extra sobre el flete: valor adicional po
 
 El valor adicional por precio se calcula a partir del precio del producto. Se define un porcentaje que se aplicará al precio de este, y ese valor resultante se agrega al valor del flete inicialmente calculado.
 
-![adicionalfrete1 ES](//images.ctfassets.net/alneenqid6w5/7iLxQxdxAWMcm22yieiyc0/310afec9d0940032a726e33b47e490d4/adicionalfrete1_ES.png)
+![adicionalfrete1 ES](https://images.ctfassets.net/alneenqid6w5/7iLxQxdxAWMcm22yieiyc0/310afec9d0940032a726e33b47e490d4/adicionalfrete1_ES.png)
 
 En el caso anterior, el valor de los productos totaliza $ 80,00 y el valor registrado como __Valor adicional__ es de 10%. Es así que, el valor calculado que se agrega al valor del flete es de $ 8,00. La suma del valor final del flete y el valor adicional es de $18,00.
 
@@ -43,7 +43,7 @@ El valor adicional por peso se calcula con base en el peso del producto. Este ca
 
 El cálculo es el siguiente:
 
-![adicionalfrete2 ES](//images.ctfassets.net/alneenqid6w5/2bPpmLHucko8eGOEMUKEsQ/52029655a5f69fd3f358f780a3f89cc3/adicionalfrete2_ES.png)
+![adicionalfrete2 ES](https://images.ctfassets.net/alneenqid6w5/2bPpmLHucko8eGOEMUKEsQ/52029655a5f69fd3f358f780a3f89cc3/adicionalfrete2_ES.png)
 
 Es decir, en el ejemplo, la diferencia del valor mínimo del rango de peso registrado y el peso del producto es de 100 gramos. El valor registrado en el campo __Valor adicional por peso__ es de 0,1. Entonces, el valor que debe agregarse al cálculo es de 14,00. El valor final sería $ 24,00.
 
@@ -57,7 +57,7 @@ Revise nuestra documentación sobre [cómo montar la plantilla de flete](https:/
 
 Este valor adicional se calcula sobre el valor final del flete, y no sobre el valor del producto. El valor porcentual es lo último que se calcula en el flete.
 
-![adicionalfrete3 ES](//images.ctfassets.net/alneenqid6w5/7oQJz0N7qMuqyCWWm02KS6/3d1fceaaae7a96a930b81fa304dcc128/adicionalfrete3_ES.png)
+![adicionalfrete3 ES](https://images.ctfassets.net/alneenqid6w5/7oQJz0N7qMuqyCWWm02KS6/3d1fceaaae7a96a930b81fa304dcc128/adicionalfrete3_ES.png)
 
 En ese caso, el valor ingresado en el campo __Valor adicional__ será el valor porcentual que debe sumarse al valor final calculado del flete. Por ejemplo: si el flete, con todos sus valores adicionales ya calculados totaliza $20,00 y el valor registrado en el campo Adicional en los Fletes es 10, significa que se añadirán $2,00 a los $20,00 del flete, totalizando $ 22,00 que se cobrarán al cliente por el flete. Esa es una manera simple de lograr un margen sobre los fletes de las compras.
 

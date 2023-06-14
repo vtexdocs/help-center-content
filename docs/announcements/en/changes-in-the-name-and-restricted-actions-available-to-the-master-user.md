@@ -26,7 +26,7 @@ Rest assured, we made no mistake. After careful consideration, our team decided 
 
 But that's not all. We also completely revamped the process to change the Sponsor user for an account, transforming it into an invitation-based transfer flow that is fully auditable. 
 
-![Sponsor management gif](//images.ctfassets.net/alneenqid6w5/ha7KIfmy1QJQvmpnXJN5R/93870cb4eae7fd2591b388279faa2db9/Announcement_EN.gif)
+![Sponsor management gif](https://images.ctfassets.net/alneenqid6w5/ha7KIfmy1QJQvmpnXJN5R/93870cb4eae7fd2591b388279faa2db9/Announcement_EN.gif)
 
 Check out [Transferring store ownership](https://help.vtex.com/en/tutorial/transferring-store-ownership) for more details on this new process.
 

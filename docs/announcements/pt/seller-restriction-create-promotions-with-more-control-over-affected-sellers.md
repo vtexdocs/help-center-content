@@ -24,7 +24,7 @@ Configuração antes da atualização:
   <tr>
     <td>
       <img
-           src="https://images.ctfassets.net/alneenqid6w5/6qb2C2KjQgKayaqiM2USGL/ed89629aff64aa8256b0e7c77fa8ed76/seller-promo-PT.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção">
+           src="https:https://images.ctfassets.net/alneenqid6w5/6qb2C2KjQgKayaqiM2USGL/ed89629aff64aa8256b0e7c77fa8ed76/seller-promo-PT.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção">
     </td>
   </tr>
   <tr>
@@ -42,7 +42,7 @@ Configuração após a atualização:
   <tr>
     <td>
       <img
-           src="https://images.ctfassets.net/alneenqid6w5/5hJ6CCeGeJdJtDUrsVcc8h/c8025981576d0941aed65edc10975e4e/seller-promo-PT2.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção">
+           src="https:https://images.ctfassets.net/alneenqid6w5/5hJ6CCeGeJdJtDUrsVcc8h/c8025981576d0941aed65edc10975e4e/seller-promo-PT2.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção">
     </td>
   </tr>
   <tr>

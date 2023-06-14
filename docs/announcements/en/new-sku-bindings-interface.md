@@ -18,7 +18,7 @@ VTEX allows your store to act both as a [seller](https://help.vtex.com/en/tutori
 
 To improve this experience, we redesigned the **SKU Bindings** page in the VTEX Admin. The new interface allows you to track and manage the binding relationship between seller and marketplace SKUs in a simpler and more agile way.
 
-![sku_binding_page_EN_final](//images.ctfassets.net/alneenqid6w5/3TrV8m2JLKuPjhKTtkY2Yl/495c45bef9699a32fbfb55842890a91f/sku_binding_page_EN_final.png)
+![sku_binding_page_EN_final](https://images.ctfassets.net/alneenqid6w5/3TrV8m2JLKuPjhKTtkY2Yl/495c45bef9699a32fbfb55842890a91f/sku_binding_page_EN_final.png)
 
 ## What has changed?
 

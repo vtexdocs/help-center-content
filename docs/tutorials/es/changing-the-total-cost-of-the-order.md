@@ -27,13 +27,13 @@ Para hacer el cambio, sigue los pasos a continuación:
 3. Haz clic en el pedido para acceder a la página de **Detalles del pedido**.   
 4. En la página *Detalles del pedido*, ve a la sección **Costo total del pedido**.
 5. Haz clic en `Cambiar el costo final`.  
-![valorfinalES](//images.ctfassets.net/alneenqid6w5/5VwpodKoIiDSWBwYQs2rDc/625d67dbe3011b8aea8574e247f9a2d4/valorfinalES__1_.png)  
+![valorfinalES](https://images.ctfassets.net/alneenqid6w5/5VwpodKoIiDSWBwYQs2rDc/625d67dbe3011b8aea8574e247f9a2d4/valorfinalES__1_.png)  
 6. Se abrirá la página **Cambiar el valor**, en la que debes rellenar los siguientes campos obligatorios:  
 7.  Rellena los campos obligatorios:
     * **Valor:** Selecciona Descuento o Aumentar e introduce el valor que deseas modificar.  
     * **Razón**: indica los motivos del cambio.  
 8. En la parte derecha de la página, haz clic en `Enviar`;
-![Alterar valorES](//images.ctfassets.net/alneenqid6w5/15TldKoBz42ds5fJswW13O/8488873894611990391d7bb132ab9c04/Alterar_valorES.png)
+![Alterar valorES](https://images.ctfassets.net/alneenqid6w5/15TldKoBz42ds5fJswW13O/8488873894611990391d7bb132ab9c04/Alterar_valorES.png)
 
 Los cambios en el pedido se actualizarán en la sección *Ítems a Facturar*, y en el *Historial de Pedidos*. Ten en cuenta que el valor total del pedido también cambiará.
 

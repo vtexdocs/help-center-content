@@ -15,7 +15,7 @@ subcategory: 7ogirQ8NClawO2X6xdgCKc
 ---
 
 All VTEX IO stores natively have a Progressive Web App (PWA) at their disposal. A PWA is a web app used to natively promote beneficial features to users, such as offline functionalities or a home screen icon.
-![pwa-noticeen](//images.ctfassets.net/alneenqid6w5/24FsMpd5zrenF21J4FG6B5/f47f6817eb995c32b186be1ebd320300/Screenshot_162.png)
+![pwa-noticeen](https://images.ctfassets.net/alneenqid6w5/24FsMpd5zrenF21J4FG6B5/f47f6817eb995c32b186be1ebd320300/Screenshot_162.png)
 The PWA can be made available for installation in three distinct moments of users’ browsing experience: during their first visit to your store's website, when adding the first item to the shopping cart, or when completing their first purchase.
 To configure the prompt in your store, follow the steps below.
 

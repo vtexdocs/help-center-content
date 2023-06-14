@@ -28,7 +28,7 @@ The new features allow marketplaces to:
 
 Go beyond traditional ecommerce with the [VTEX 2022 Marketplace Release](https://content.vtex.com/en/2022-marketplace-release/?utm_source=announcement&utm_medium=organic&utm_campaign=2022_marketplace_release).
 
-![capa de blog marketplace 2022](//images.ctfassets.net/alneenqid6w5/6U2cM7UiQOatP0A781yxEk/9c691ba396bbd1c6fdd0c8d6b53f1b58/capa_de_blog.png)
+![capa de blog marketplace 2022](https://images.ctfassets.net/alneenqid6w5/6U2cM7UiQOatP0A781yxEk/9c691ba396bbd1c6fdd0c8d6b53f1b58/capa_de_blog.png)
 
 ## What are the launches? 
 
@@ -77,7 +77,7 @@ Learn more about each one below.
 
 ### Seller Portal 
 
-![Seller Portal gif 2022 launch](//images.ctfassets.net/alneenqid6w5/48uQe9Gi0K9ZU8qyXXO8US/ff02b9c926398dcfa69683bcfbf5b02f/Seller_Portal.gif)
+![Seller Portal gif 2022 launch](https://images.ctfassets.net/alneenqid6w5/48uQe9Gi0K9ZU8qyXXO8US/ff02b9c926398dcfa69683bcfbf5b02f/Seller_Portal.gif)
 
 The Seller Portal is a VTEX platform edition for [sellers](https://help.vtex.com/en/tutorial/marketplace-strategies-at-vtex--tutorials_402) to connect and sell their products on VTEX marketplaces. The portal allows sellers to access all the key features necessary to operate ecommerce on big storefronts, increasing visibility and sales conversion. 
 
@@ -125,7 +125,7 @@ To facilitate new sellers joining the Seller Portal, we have also launched the [
 
 ### Seller management
 
-![Seller management gif 2022 launch](//images.ctfassets.net/alneenqid6w5/6nedzBeTr3y9d47ArKh40r/d280e61590f95fcd669cf45b137790f8/Seller_Management.gif)
+![Seller management gif 2022 launch](https://images.ctfassets.net/alneenqid6w5/6nedzBeTr3y9d47ArKh40r/d280e61590f95fcd669cf45b137790f8/Seller_Management.gif)
 
 We launched the redesigned experience of the [Seller Management](https://help.vtex.com/en/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv) page, where marketplace operators can [add sellers](https://help.vtex.com/en/tutorial/adicionar-seller-beta--6q4G4RNqVENr5YMJyindwL) and their respective information and manage their status. 
 

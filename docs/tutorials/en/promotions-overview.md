@@ -18,7 +18,7 @@ A promotion is a discount granted to the customer on one or more products in the
 
 In the **Promotions** menu of your redesigned Admin you can set up a promotion restricted to certain product lists, customer lists, zip code ranges, minimum cart value, and more.
 
-![visao-geral-promo-EN](//images.ctfassets.net/alneenqid6w5/6FHow2OrXNqAoiKaJngwPU/57e0072889c99d6cfff9846f58fc28a9/image.png)
+![visao-geral-promo-EN](https://images.ctfassets.net/alneenqid6w5/6FHow2OrXNqAoiKaJngwPU/57e0072889c99d6cfff9846f58fc28a9/image.png)
 
 Check out the menu’s different sections and pages below.
 

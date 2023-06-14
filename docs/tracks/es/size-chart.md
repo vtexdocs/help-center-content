@@ -17,7 +17,7 @@ Al comprar ropa o calzados en línea, muchos usuarios suelen tener preguntas sob
 
 La guía de tallas de Mercado Libre es una tabla de medidas o equivalencias que permite que los usuarios vean las medidas exactas para que puedan elegir el producto ideal para ellos. 
 
-![MLB tamanosARG](//images.ctfassets.net/alneenqid6w5/4xmAfYyY7z2sVGNKAaR2XM/404d040e8a9bae57b462da40b78e2321/MLB_tamanosARG.gif)
+![MLB tamanosARG](https://images.ctfassets.net/alneenqid6w5/4xmAfYyY7z2sVGNKAaR2XM/404d040e8a9bae57b462da40b78e2321/MLB_tamanosARG.gif)
 
 ## Entendiendo la guía de tallas
 
@@ -158,7 +158,7 @@ Después de completar la segunda pestaña, se necesita reenviar la plantilla de 
 1. Acceda al Admin.
 2. En el módulo Marketplace, seleccione Integraciones.
 3. Seleccione la opción Configuración.
-4. En la integración Mercado Libre, haga clic en el ícono de engranaje<img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
+4. En la integración Mercado Libre, haga clic en el ícono de engranaje<img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
 5. Elija la opción **Carga de mapeo**.
 6. Seleccione **Elegir un archivo**.
 7. Ahora, seleccione la plantilla de mapeo de categorías, atributos y variaciones de Mercado Libre.
@@ -171,7 +171,7 @@ Necesita acceder a su cuenta de Mercado Libre para activar la guía de tallas. D
 1. Acceda a su cuenta en Mercado Libre.
 2. Haga clic en la opción **Ventas**.
 3. En el menú del lado izquierdo, seleccione la opción **Publicaciones**.
-4. Haga clic en los 3 puntos <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/5h4riyTF3EAYAM2e04up4O/73040d1e9e6892c6feea96a9bcc6560e/3_pontos.JPG" /> ubicados en el lado derecho de su anuncio. 
+4. Haga clic en los 3 puntos <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/5h4riyTF3EAYAM2e04up4O/73040d1e9e6892c6feea96a9bcc6560e/3_pontos.JPG" /> ubicados en el lado derecho de su anuncio. 
 5. Seleccione **Alterar**.
 6. En la opción Guía de tallas, seleccione la tabla que creó.
 7. Haga clic en **Confirmar**.

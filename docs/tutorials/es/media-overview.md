@@ -15,7 +15,7 @@ subcategory: 27t6x0lngvjI3bnUg5AgEO
 ---
 
 En el módulo Multimedia puedes gestionar los archivos multimedia de tu tienda, como imágenes y gifs. Puedes cargar y organizar archivos multimedia en los siguientes formatos: `PNG`, `JPG`, `GIF`, `SVG` y `WEBP`.
-![Multimedia Visión general](//images.ctfassets.net/alneenqid6w5/3HL6n5pBx5OpIyJMmPccuZ/4b7fca26bb4f3b1f72d3a6fff9eca887/es-multimedia-overview.png)
+![Multimedia Visión general](https://images.ctfassets.net/alneenqid6w5/3HL6n5pBx5OpIyJMmPccuZ/4b7fca26bb4f3b1f72d3a6fff9eca887/es-multimedia-overview.png)
 
 Además, Multimedia está integrado con **Site Editor** y **Headless CMS**. Esta integración te permite acceder y gestionar Multimedia directamente a través de las soluciones de CMS de VTEX.
 
@@ -35,7 +35,7 @@ Hay tres formas de acceder al módulo Multimedia:
 
 En la siguiente imagen tendrás acceso a una visión general de la interfaz Multimedia y las acciones disponibles para gestionar tus archivos multimedia:
 
-![Multimedia Features](//images.ctfassets.net/alneenqid6w5/2teyzkUy2zP5vjMLPxlXgD/db95f45451326e0664992cefa1cd8a6f/es-multimedia-features.png)
+![Multimedia Features](https://images.ctfassets.net/alneenqid6w5/2teyzkUy2zP5vjMLPxlXgD/db95f45451326e0664992cefa1cd8a6f/es-multimedia-features.png)
 
 | Campo | Descripción |
 | ---------- | ------------- |

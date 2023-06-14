@@ -18,7 +18,7 @@ Em uma loja de ecommerce, tanto a interface que os usuários veem e interagem qu
 - **Frontend**: O frontend compreende a camada visual de uma aplicação, como por exemplo, a interface de um website ou de um aplicativo mobile. É através dela que os usuários interagem com uma loja. Na VTEX, existem três tecnologias diferentes que podem ser utilizadas para o desenvolvimento de fronts de loja. São elas: o CMS Portal (Legado), o Store Framework e a FastStore.
 - **Backend**: O backend é a camada responsável por computar e processar todos os dados nescessários para executar as funcionalidades oferecidas por uma determinada aplicação. Na VTEX, o desenvolvimento de integrações e aplicações de backend se dá principalmente através do VTEX IO e das APIs da VTEX.
 
-![storefront mockup](//images.ctfassets.net/alneenqid6w5/35wyRHhSz4TC8CRjLQAhFF/89990fd9837da63e881a4fee92ce9787/image1.png)
+![storefront mockup](https://images.ctfassets.net/alneenqid6w5/35wyRHhSz4TC8CRjLQAhFF/89990fd9837da63e881a4fee92ce9787/image1.png)
 
 Nas seções a seguir, exploraremos melhor os principais aspectos e tecnologias relacionadas ao desenvolvimento de loja na VTEX.
 

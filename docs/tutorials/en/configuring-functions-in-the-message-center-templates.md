@@ -34,7 +34,7 @@ _classe.atributo_ are obtained using the JSON Data field. E.g.:
 **Template HTML**
 `<strong>{{_accountInfo.HostName}}</strong> => lojavirtual`
 
-![exemplohtml](//images.ctfassets.net/alneenqid6w5/2L8EnLX9I4gqOyaKUY4wGw/47d7e0db874a73e9569d6ddabe69b470/exemplohtml.png)
+![exemplohtml](https://images.ctfassets.net/alneenqid6w5/2L8EnLX9I4gqOyaKUY4wGw/47d7e0db874a73e9569d6ddabe69b470/exemplohtml.png)
 
 The above example can have different values when comparing Sellers and Marketplaces.
 

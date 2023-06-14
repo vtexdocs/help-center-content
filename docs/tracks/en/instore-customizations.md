@@ -35,11 +35,11 @@ Alternatively, you can browse to the configuration file from the VTEX Admin home
 
 In the main menu, click on __Checkout__ and then click on the store's gear symbol, as shown in the image below.
 
-![20. inStore Customizations - 1 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/6AXuX4eeuPus1uiuyFcXkp/ce21c3df39b94600d4165f0b357321c0/20._inStore_Customizations_-_1_-_EN.png_h_250)
+![20. inStore Customizations - 1 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/6AXuX4eeuPus1uiuyFcXkp/ce21c3df39b94600d4165f0b357321c0/20._inStore_Customizations_-_1_-_EN.png_h_250)
 
 Then click on the __Code__ tab and finally on the `checkout-instore-custom.js` file, which is in the file list on the right-hand side of the screen.
 
-![20. inStore Customizations - 2 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/3TCYyx8ZthAnzwDPOQYdNZ/7a31e38624df1ffa2d0f649f2d9328d2/20._inStore_Customizations_-_2_-_EN.png_h_250)
+![20. inStore Customizations - 2 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/3TCYyx8ZthAnzwDPOQYdNZ/7a31e38624df1ffa2d0f649f2d9328d2/20._inStore_Customizations_-_2_-_EN.png_h_250)
 
 ## Changing the inStore customization file
 
@@ -47,7 +47,7 @@ Then click on the __Code__ tab and finally on the `checkout-instore-custom.js` f
 
 To make any changes, simply add or modify the lines of code directly in the file edit box, in the VTEX Admin, and—once you're done— click on the __Save__ button, as shown in the image below.
 
-![20. inStore Customizations - 3 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/6gxUvg8FcYg2b7zhNpoTj8/0137d152efa66e076f438e849a5bde87/20._inStore_Customizations_-_3_-_EN.png_h_250)
+![20. inStore Customizations - 3 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/6gxUvg8FcYg2b7zhNpoTj8/0137d152efa66e076f438e849a5bde87/20._inStore_Customizations_-_3_-_EN.png_h_250)
 
 <div class="alert alert-warning">
 Always follow the customization instructions in this documentation and only make changes as indicated here.

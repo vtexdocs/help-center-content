@@ -34,7 +34,7 @@ Na página **Localidades**, você administra todas as suas localidades e pode re
 
 Uma vez que você tenha [criado as localidades](#criar-localidade), elas vão aparecer em uma página de listagem em **Envio > Localidades**, conforme a imagem a seguir:
 
-![modulo_localidade_imagem_1_PT](//images.ctfassets.net/alneenqid6w5/1XfpG28jPnGlrQijpDSeU4/7716765c8256984d33b005df9db73254/modulo_localidade_imagem_1_PT.png)
+![modulo_localidade_imagem_1_PT](https://images.ctfassets.net/alneenqid6w5/1XfpG28jPnGlrQijpDSeU4/7716765c8256984d33b005df9db73254/modulo_localidade_imagem_1_PT.png)
 
 O topo da página apresenta os seguintes dados:
 

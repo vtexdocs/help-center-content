@@ -37,7 +37,7 @@ After reloading inStore, whenever a salesperson prints an order, this text will 
 
 Before adding extra text, the printout of the order summary has the following format:
 
-![28. Adding extra text to the order print - 1](//images.ctfassets.net/alneenqid6w5/6kSTTkw3pk8A7aiTJXqDJJ/ec86382eb7e27484f3f37a80752a6153/28._Adding_extra_text_to_the_order_print_-_1.png)
+![28. Adding extra text to the order print - 1](https://images.ctfassets.net/alneenqid6w5/6kSTTkw3pk8A7aiTJXqDJJ/ec86382eb7e27484f3f37a80752a6153/28._Adding_extra_text_to_the_order_print_-_1.png)
 
 In our example, we changed the `checkout-instore-custom.js` file by inserting the following extra text:
 
@@ -49,4 +49,4 @@ window.INSTORE_CONFIG = {
 
 Now, whenever an order summary is printed, we will get the following result:
 
-![28. Adding extra text to the order print - 2](//images.ctfassets.net/alneenqid6w5/1g4wvz3z8tIEZuRSSiACps/c227091af9a69d0af04d21c2b6b0b8d3/28._Adding_extra_text_to_the_order_print_-_2.png)
+![28. Adding extra text to the order print - 2](https://images.ctfassets.net/alneenqid6w5/1g4wvz3z8tIEZuRSSiACps/c227091af9a69d0af04d21c2b6b0b8d3/28._Adding_extra_text_to_the_order_print_-_2.png)

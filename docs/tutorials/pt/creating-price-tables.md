@@ -22,7 +22,7 @@ Para criar uma Tabela de Preços siga os seguintes passos:
 4. Seleciona **Criar nova Tabela de Preços**
 5. Escolha o nome da tabela de preços que deseja criar e clique no botão azul **Criar tabela de preços**
 
-![TutorialPriceTablePT2 2806](//images.ctfassets.net/alneenqid6w5/1mLQywsplJORnUU5uejl8z/2c9edb9697f8dabfbbe4375f0b064d5d/TutorialPriceTablePT2_2806.gif)
+![TutorialPriceTablePT2 2806](https://images.ctfassets.net/alneenqid6w5/1mLQywsplJORnUU5uejl8z/2c9edb9697f8dabfbbe4375f0b064d5d/TutorialPriceTablePT2_2806.gif)
  
  Para encontrar uma Tabela de Preço:
   

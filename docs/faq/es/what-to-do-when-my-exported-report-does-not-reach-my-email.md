@@ -23,9 +23,9 @@ A continuación, entienda el paso a paso para hacerlo:
 
 1. Acceda al __Master Data__;
 2. Haga clic en __Exportations__;
-![3WNNUZ8EgDZ4iYv8e0OyQG](//images.ctfassets.net/alneenqid6w5/70bXGj3PhkEfcixEF0ik6I/8ebaf7d4ddba8fd8803969c2c98e3c18/3WNNUZ8EgDZ4iYv8e0OyQG.png)
+![3WNNUZ8EgDZ4iYv8e0OyQG](https://images.ctfassets.net/alneenqid6w5/70bXGj3PhkEfcixEF0ik6I/8ebaf7d4ddba8fd8803969c2c98e3c18/3WNNUZ8EgDZ4iYv8e0OyQG.png)
 3. Asegúrese de que la pestaña abierta es la de __"Applications"__;
-![7ecXBGaCeC3hTaO0lODPq1](//images.ctfassets.net/alneenqid6w5/rBSEy9DQVSPNEjHLOXjU6/afac5d6a147ad01f1dbb4566bd751510/7ecXBGaCeC3hTaO0lODPq1.png)
+![7ecXBGaCeC3hTaO0lODPq1](https://images.ctfassets.net/alneenqid6w5/rBSEy9DQVSPNEjHLOXjU6/afac5d6a147ad01f1dbb4566bd751510/7ecXBGaCeC3hTaO0lODPq1.png)
 4. En __"Status de exportaciones"__, haga clic en el informe que desea descargar.
 
 De esta forma, es posible acceder a este material aunque el email original no haya llegado al solicitante.

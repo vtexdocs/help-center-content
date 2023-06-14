@@ -36,11 +36,11 @@ The following steps will allow you to select a field and make it mandatory:
 
 1. In the VTEX Admin, access **Store Settings** > **Storefront** > **Master Data**.
 2. Make certain that you're in the Applications tab, in __Quick Links__.
-3. Select the __gears__ icon in __Profile System__. ![MasterDataTutorial 1 UM](//images.ctfassets.net/alneenqid6w5/6BwZrUrNopO6Nb3n49B8L9/ba74f6ae261e1d8f0fc7a32cf7ad321f/MasterDataTutorial_1_UM.jpg)
-4. Click on the __pencil__ next to the item you wish to configure. ![MasterDataTutorial2](//images.ctfassets.net/alneenqid6w5/1OU9KjvK8sUUtHr5MZqbci/4297f3f56819f622d77845054b3dbb0d/MasterDataTutorial2.png)
+3. Select the __gears__ icon in __Profile System__. ![MasterDataTutorial 1 UM](https://images.ctfassets.net/alneenqid6w5/6BwZrUrNopO6Nb3n49B8L9/ba74f6ae261e1d8f0fc7a32cf7ad321f/MasterDataTutorial_1_UM.jpg)
+4. Click on the __pencil__ next to the item you wish to configure. ![MasterDataTutorial2](https://images.ctfassets.net/alneenqid6w5/1OU9KjvK8sUUtHr5MZqbci/4297f3f56819f622d77845054b3dbb0d/MasterDataTutorial2.png)
 5. Click on __Layout Outlines__.
 6. In __Section 1__, choose the item of the field you wish to configure.
-7. In __Advanced field settings, select __Mandatory Field__ on the form. ![MasterDataTutorial3](//images.ctfassets.net/alneenqid6w5/1gYKfvwuQaL5fR6nlyZQ8Y/50be6084a8df932cced78ae6359981bc/MasterDataTutorial3.png)
+7. In __Advanced field settings, select __Mandatory Field__ on the form. ![MasterDataTutorial3](https://images.ctfassets.net/alneenqid6w5/1gYKfvwuQaL5fR6nlyZQ8Y/50be6084a8df932cced78ae6359981bc/MasterDataTutorial3.png)
 8. Click on __ok__.
 
 You're done. From now on, the selected options will need to be, without fail, filled out on the store page. The above may be changed whenever it may be necessary. 

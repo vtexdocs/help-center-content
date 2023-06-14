@@ -17,7 +17,7 @@ announcementSynopsisEN: Launch of the new auditing tool
 
 Ensuring your store is always in compliance with security and transparency best practices, VTEX has launched a new audit feature, **Audit**. 
 
-![Screenshot for Audit UI for announcement](//images.ctfassets.net/alneenqid6w5/1CwFsrYwjxCIhyqcc6ei86/1cae72785358e9622b3bbf0c481bd998/Audit_EN.png)
+![Screenshot for Audit UI for announcement](https://images.ctfassets.net/alneenqid6w5/1CwFsrYwjxCIhyqcc6ei86/1cae72785358e9622b3bbf0c481bd998/Audit_EN.png)
 
 From now on, users with the admin role can check operations performed in their store in a simple and fast way. You can create multiple search filters to make it easier to search for events and increase the speed of auditing processes.
 

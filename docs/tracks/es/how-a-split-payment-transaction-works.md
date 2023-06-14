@@ -59,4 +59,4 @@ Aquellos USD 6,50 serían divididos entre el *marketplace* y adquirente. Como la
 
 Vea el siguiente gráfico: 
 
-![Split de pagos](//images.ctfassets.net/alneenqid6w5/1VXR6E7dDgMTTSBM0D6qyL/2900b47ba92432068e940c185088399b/Split-ES.png)
+![Split de pagos](https://images.ctfassets.net/alneenqid6w5/1VXR6E7dDgMTTSBM0D6qyL/2900b47ba92432068e940c185088399b/Split-ES.png)

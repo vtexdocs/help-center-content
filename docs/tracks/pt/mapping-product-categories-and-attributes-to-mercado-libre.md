@@ -26,7 +26,7 @@ Seus produtos precisam ter o <a href="https://help.vtex.com/pt/tutorial/estoque-
 
 ## Mapear categorias
 
-Para acessar a página de mapeamento, você deverá acessar no Admin *MARKETPLACE > Integrações > Configurações*, dentro do card da integração com o Mercado Livre selecionar o ícone de engrenagem <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" /> e clicar na opção `Realizar mapeamento`.
+Para acessar a página de mapeamento, você deverá acessar no Admin *MARKETPLACE > Integrações > Configurações*, dentro do card da integração com o Mercado Livre selecionar o ícone de engrenagem <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" /> e clicar na opção `Realizar mapeamento`.
 
 Você será direcionado à página de mapeamento do Mercado Livre e a página apresentará uma lista com as categorias da sua loja VTEX. O mapeamento das categorias permite que exista uma correspondência entre as categorias da sua loja e as categorias do Mercado Livre. Dessa forma, os produtos enviados serão exibidos na categoria equivalente no Mercado Livre.
 
@@ -36,10 +36,10 @@ A lista de categorias da sua loja VTEX inclui o status de seu  mapeamento  por m
 
 | Ícone | Status | Descrição |
 | ---------- | ---------- | ---------- | 
-| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6Ry65cPvgGmChmE3RipFio/deec73c3e429f63dfa8971ae8c848221/mapeado_mapper.JPG" /> | **Mapeado**| Indica que o mapeamento da categoria foi concluído. | 
-| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6v4eFsWHVy8F5VIqTVLQD9/e63d945d60a958a37246f57d919eede8/mapeamentoincompleto_mapper.JPG" /> | **Mapeamento incompleto** | A categoria está parcialmente mapeada, necessitando preencher seus atributos obrigatórios, indicados por meio de um asterisco, para mapeá-la. | 
-| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/lsN6TxCm1e6frHvIQ8xjt/491ad1e6d99ab858e2a76d0ea31e1a39/erromapeamento_mapper.JPG" /> | **Erro no mapeamento** | O erro no mapeamento ocorre quando o marketplace exclui ou muda a categoria do produto.  Para solucionar esse problema basta refazer o mapeamento da categoria. | 
-| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/3nVJUJHetaqPHThGGpoG8T/d7f667b269105a5c65aa7b16b1aace21/incompleto_mapper.JPG" /> | **Não mapeado** | Indica que a categoria não foi mapeada. |
+| <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/6Ry65cPvgGmChmE3RipFio/deec73c3e429f63dfa8971ae8c848221/mapeado_mapper.JPG" /> | **Mapeado**| Indica que o mapeamento da categoria foi concluído. | 
+| <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/6v4eFsWHVy8F5VIqTVLQD9/e63d945d60a958a37246f57d919eede8/mapeamentoincompleto_mapper.JPG" /> | **Mapeamento incompleto** | A categoria está parcialmente mapeada, necessitando preencher seus atributos obrigatórios, indicados por meio de um asterisco, para mapeá-la. | 
+| <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/lsN6TxCm1e6frHvIQ8xjt/491ad1e6d99ab858e2a76d0ea31e1a39/erromapeamento_mapper.JPG" /> | **Erro no mapeamento** | O erro no mapeamento ocorre quando o marketplace exclui ou muda a categoria do produto.  Para solucionar esse problema basta refazer o mapeamento da categoria. | 
+| <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/3nVJUJHetaqPHThGGpoG8T/d7f667b269105a5c65aa7b16b1aace21/incompleto_mapper.JPG" /> | **Não mapeado** | Indica que a categoria não foi mapeada. |
 
 Ainda na página de mapeamento, existem as seções **Categoria do marketplace** e **Mapeamento de Atributos**, ambos com uma opção de menu de seleção, onde ao clicar sobre a seta, aparecem novos campos e informações.
 
@@ -47,7 +47,7 @@ Para realizar o mapeamento de categorias:
 
 1. Acesse o Admin.
 2. No módulo MARKETPLACE, selecione **Integrações** e clique em `Configurações`.
-3. No cartão do Mercado Livre, clique na engrenagem <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
+3. No cartão do Mercado Livre, clique na engrenagem <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
 4. Clique em `Realizar mapeamento`. Uma nova janela será aberta com a página de mapeamento.
 5. Na seção **Categorias da loja**, escolha a categoria que deseja mapear.
 6. Selecione na seção **Categoria do marketplace** a categoria correspondente no marketplace do produto que você deseja enviar.
@@ -56,7 +56,7 @@ Para finalizar o mapeamento da categoria, você deve seguir o passo a passo abai
 
 ## Mapear atributos
 
-![Início (13)](//images.ctfassets.net/alneenqid6w5/owf1A0SnYfOkoNCGDlTFj/ca731b95328853d12ee9872ef14b8aaf/In__cio__13_.gif)
+![Início (13)](https://images.ctfassets.net/alneenqid6w5/owf1A0SnYfOkoNCGDlTFj/ca731b95328853d12ee9872ef14b8aaf/In__cio__13_.gif)
 
 O mapeamento dos atributos permite que exista uma correspondência entre o padrão da sua loja VTEX e o padrão utilizado pelo Mercado Livre. Cada categoria possui seus atributos obrigatórios pelo Mercado Livre e é necessário preenchê-los para que o mapeamento seja concluído. Os campos não mapeados não impedem que o mapeamento ocorra, porém quanto mais atributos enviados para o Mercado Livre seu produto tiver, melhor rankeado ele será no marketplace.
 
@@ -64,7 +64,7 @@ Para mapear os atributos, siga os passos abaixo:
 
 1. Acesse o Admin.
 2. No módulo MARKETPLACE, selecione **Integrações** e clique em `Configurações`.
-3. No cartão do Mercado Livre, clique na engrenagem <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
+3. No cartão do Mercado Livre, clique na engrenagem <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
 4. Clique em `Realizar mapeamento`. Uma nova janela será aberta com a página de mapeamento.
 5. Na seção **Mapeamento de Atributos**, preencha os campos com os atributos que deseja mapear (o asterisco indica preenchimento obrigatório).
 6. Caso tenha preenchido os atributos *Cor* ou *Tamanho*, na coluna **Valores de Atributo** clique na `Cor equivalente` ou `Tamanho equivalente` e selecione a opção de valor correspondente.
@@ -87,7 +87,7 @@ Para adicionar a tabela de medidas personalizada, você deve seguir os passos ab
 
 1. Acesse o Admin VTEX.
 2. Em *MARKETPLACE*, selecione a opção **Integrações** e clique em `Configurações`.
-3. No cartão do Mercado Livre, clique na engrenagem <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
+3. No cartão do Mercado Livre, clique na engrenagem <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
 4. Selecione a opção `Realizar mapeamento`. Uma nova janela será aberta com a interface de mapeamento.
 5. Na seção Tabela de medida, clique no ícone `+`.
 6. Selecione a opção *Tabela personalizada*.
@@ -137,7 +137,7 @@ Depois de preencher a planilha de mapeamento, faça o seu upload:
 
 1. Acesse o Admin VTEX.
 2. Em *MARKETPLACE*, selecione a opção **Integrações** e clique em `Configurações`.
-3. No cartão do Mercado Livre, clique na engrenagem <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
+3. No cartão do Mercado Livre, clique na engrenagem <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
 4. Selecione a opção `Realizar mapeamento`. Uma nova janela será aberta com a interface de mapeamento.
 5. Na seção Tabela de medida, clique no ícone `+`.
 6. Selecione a opção *Tabela personalizada*.

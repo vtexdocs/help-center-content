@@ -28,7 +28,7 @@ Lojas com relações B2B como distribuidores de redes varejistas, venda direta p
 
 ## Como funciona
 
-![Fluxo básico do Customer Credit](//images.ctfassets.net/alneenqid6w5/uTJmG1ZC48mCQeQKMCQ4m/5c64e88daa90836eeeabb7903af91a0f/cc-flow_pt.gif)
+![Fluxo básico do Customer Credit](https://images.ctfassets.net/alneenqid6w5/uTJmG1ZC48mCQeQKMCQ4m/5c64e88daa90836eeeabb7903af91a0f/cc-flow_pt.gif)
 *Fluxo básico de como funciona o Customer Credit nas lojas VTEX.*
 
 Por ter sido desenvolvido na VTEX, o Customer Credit está plenamente integrado ao SmartCheckout, o que significa que a experiência de compra dos seus clientes permanece a mesma.

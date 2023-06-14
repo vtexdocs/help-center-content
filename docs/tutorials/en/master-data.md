@@ -232,7 +232,7 @@ Learn more about <a href=”https://json-schema.org/”>JSON schemas</a>.
 
 You can save a document to any data entity if the content is a valid JSON. A data entity may or may not have multiple JSON schemas associated with it.
 
-![Master Data schemas](//images.ctfassets.net/alneenqid6w5/CaidhUAHIxcwas8eWLQZu/72f691a72fe0166b1e16a38c6bf89d11/schemas_en.jpg)
+![Master Data schemas](https://images.ctfassets.net/alneenqid6w5/CaidhUAHIxcwas8eWLQZu/72f691a72fe0166b1e16a38c6bf89d11/schemas_en.jpg)
 
 <div class = "alert alert-info">
 A document can be compatible with multiple JSON Schemas, but also with none.

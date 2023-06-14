@@ -16,7 +16,7 @@ subcategory: 14V5ezEX0cewOMg0o0cYM6
 
 En la página de Autenticación, puedes elegir qué formas de inicio de sesión vas a ofrecer a los compradores y operadores de tu tienda VTEX. Esta página está disponible en _Configuración de la cuenta > Autenticación._
 
-![Página de autenticación](//images.ctfassets.net/alneenqid6w5/6cbXmuu9GiTfuYnIsuFKQp/ed710d537b491e8a182de685fa8d0d97/Tela_de_Autentica____o_ES.png)
+![Página de autenticación](https://images.ctfassets.net/alneenqid6w5/6cbXmuu9GiTfuYnIsuFKQp/ed710d537b491e8a182de685fa8d0d97/Tela_de_Autentica____o_ES.png)
 
 ## Formas de inicio de sesión
 

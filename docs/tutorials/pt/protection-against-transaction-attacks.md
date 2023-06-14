@@ -35,9 +35,9 @@ Para habilitar a proteção, confira o passo a passo:
 4. No canto superior direito, clilque no ícone de configurações.
 5. Em __Proteção contra ataques__, clique no botão para habilitar (cor verde indica "habilitado").
 
-![proteção-botao-configurações](//images.ctfassets.net/alneenqid6w5/1jhGP8FOgMtkEp0O8AqOnX/c36c317b8cd30966cd76901c897219f3/prote____o-botao-configura____es.png)
+![proteção-botao-configurações](https://images.ctfassets.net/alneenqid6w5/1jhGP8FOgMtkEp0O8AqOnX/c36c317b8cd30966cd76901c897219f3/prote____o-botao-configura____es.png)
 
-![proteção-opção-habilitar1](//images.ctfassets.net/alneenqid6w5/kk96NiBFAUzzuv23FbQeu/7f4c2e67f22c7aaa2886f9850a3fcc03/prote____o-op____o-habilitar1.png)
+![proteção-opção-habilitar1](https://images.ctfassets.net/alneenqid6w5/kk96NiBFAUzzuv23FbQeu/7f4c2e67f22c7aaa2886f9850a3fcc03/prote____o-op____o-habilitar1.png)
 
 ### Como desabilitar a proteção contra ataques em transações?
 
@@ -67,13 +67,13 @@ Para acessar estas informações, confira o passo a passo:
 6. Para selecionar __Ameaças detectadas__ ou __Ameaças neutralizadas__, clique em uma das setas à direita.
 7. Verifique os detalhes dos eventos na janela popup apresentada.
 
-![proteção-opção-historico1](//images.ctfassets.net/alneenqid6w5/19hGY1Jjv5DOBXABIxCnxd/43d9eb3c6c754576e2879fbc9c5f62bc/prote____o-op____o-historico1.png)
+![proteção-opção-historico1](https://images.ctfassets.net/alneenqid6w5/19hGY1Jjv5DOBXABIxCnxd/43d9eb3c6c754576e2879fbc9c5f62bc/prote____o-op____o-historico1.png)
 
-![proteção-tela-historico1](//images.ctfassets.net/alneenqid6w5/6p6N8EV2PnhzbnxFUkOWda/bec651a71aa79f2374426afefe8cdf23/prote____o-tela-historico1.png)
+![proteção-tela-historico1](https://images.ctfassets.net/alneenqid6w5/6p6N8EV2PnhzbnxFUkOWda/bec651a71aa79f2374426afefe8cdf23/prote____o-tela-historico1.png)
 
-![tela-ameaça-potencial1](//images.ctfassets.net/alneenqid6w5/4l9WCe1f7yYN9Gx0sczBXK/40dddb9cb38a2b415a57c262fc61faa0/tela-amea__a-potencial1.png)
+![tela-ameaça-potencial1](https://images.ctfassets.net/alneenqid6w5/4l9WCe1f7yYN9Gx0sczBXK/40dddb9cb38a2b415a57c262fc61faa0/tela-amea__a-potencial1.png)
 
-![tela-ameaça-neutralizada1](//images.ctfassets.net/alneenqid6w5/68JvVENRbcGGOcBFXno54/fe85365340965f6d7927f2d6525d27a2/tela-amea__a-neutralizada1.png)
+![tela-ameaça-neutralizada1](https://images.ctfassets.net/alneenqid6w5/68JvVENRbcGGOcBFXno54/fe85365340965f6d7927f2d6525d27a2/tela-amea__a-neutralizada1.png)
 
 ### Artigos relacionados
 - [O que é antifraude?](https://help.vtex.com/pt/tutorial/o-que-e-antifraude)

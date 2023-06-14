@@ -23,7 +23,7 @@ La página **Todos los pedidos** permite a los administradores de la tienda hace
 
 Las siguientes secciones proporcionan más detalles sobre cada componente de la página y sus acciones.
 
-![Order Listing EN](//images.ctfassets.net/alneenqid6w5/683JysQxHoXao2zRxQCJ6x/458efe24f7fcb7653eb23d1ea1d7110b/Order_Listing_EN.gif)
+![Order Listing EN](https://images.ctfassets.net/alneenqid6w5/683JysQxHoXao2zRxQCJ6x/458efe24f7fcb7653eb23d1ea1d7110b/Order_Listing_EN.gif)
 
 ## Barra superior
 
@@ -155,7 +155,7 @@ A continuación, encontrarás más detalles sobre cada columna:
 
 ## VTEX DO
 
-![VTEX Do overview ES](//images.ctfassets.net/alneenqid6w5/4FzyUh5uqhzXKfbw9MJXsQ/220b438c30b05a78d3932e097fefc42b/VTEX_Do_overview_ES.gif)
+![VTEX Do overview ES](https://images.ctfassets.net/alneenqid6w5/4FzyUh5uqhzXKfbw9MJXsQ/220b438c30b05a78d3932e097fefc42b/VTEX_Do_overview_ES.gif)
 
 [VTEX DO](https://help.vtex.com/es/tutorial/vtex-do-beta--7KMbRL4OslN8DTX9oiuCiu) es un gestor de tareas creadas por el Admin VTEX automáticamente y que requieren una acción manual por parte del equipo de _ecommerce_. 
 

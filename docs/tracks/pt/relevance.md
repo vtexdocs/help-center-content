@@ -20,7 +20,7 @@ Existem dois cenários possíveis de configurações de relevância:
 - **Critérios prioritários:** é a forma de forçar que um ou mais critérios terão prioridade maior entre os demais. Nessa situação não existem pesos, pois todos os produtos que possuírem essa característica serão apresentados primeiro no resultado de busca.
 - **Composição de critérios:** é a forma de distribuir pesos para cada opção, variando de 0 a 10. Aqui, não existe uma ordem entre os critérios, serão os pesos que vão definir a relevância.
 
-![regras-relevancia-1-PT](//images.ctfassets.net/alneenqid6w5/pWaOZBllEtnkrAxc2kEdJ/f6c856ddd8d6f49ed08bdaa921f214ae/Captura_de_Tela_2022-03-25_a__s_15.14.17.png)
+![regras-relevancia-1-PT](https://images.ctfassets.net/alneenqid6w5/pWaOZBllEtnkrAxc2kEdJ/f6c856ddd8d6f49ed08bdaa921f214ae/Captura_de_Tela_2022-03-25_a__s_15.14.17.png)
 
 As informações aplicadas para compôr a relevância são:
 
@@ -95,6 +95,6 @@ Para alterar a configuração de Relevância, siga os passos abaixo.
 2. Em **Intelligent Search**, clique em **Regras de Relevância**.
 3. Escolha o critério cujo peso você deseja alterar.
 4. Clique nos ícones <i class="fas fa-minus"></i> ou <i class="fas fa-plus"></i> para definir o número desejado. Caso você queira mudar a posição de um critério de **Composição de critérios** para **Critérios prioritários**, basta arrastá-lo pelo ícone <i class="fas fa-grip-vertical"></i> para a área superior, conforme demonstrado abaixo. Note que quando o critério se torna prioritário, não é mais possível alterar seu peso. 
-![regras-relevancia-PT](//images.ctfassets.net/alneenqid6w5/iZze1vchSYf9lLFJnfwiT/8a533cf40db35b72852fc2c3e1f2b5ec/regras-relevancia-PT.gif)
+![regras-relevancia-PT](https://images.ctfassets.net/alneenqid6w5/iZze1vchSYf9lLFJnfwiT/8a533cf40db35b72852fc2c3e1f2b5ec/regras-relevancia-PT.gif)
 5. Para finalizar, clique em `Salvar`.
 

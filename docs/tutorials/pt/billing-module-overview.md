@@ -22,7 +22,7 @@ Para acessar essa página, clique no seu **avatar**, que pode ser identificado p
 Somente usuários com o perfil de acesso <a href="https://help.vtex.com/pt/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance">Finance</a>, <a href="https://help.vtex.com/pt/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance-full-access">Finance Full Access</a> ou com recursos de <a href="https://help.vtex.com/pt/tutorial/recursos-do-license-manager-billing--13qKy6rwf9chc8ta90rDcy">Billing</a> vinculados ao seu perfil de acesso terão acesso a essa seção do Admin VTEX.
             </div>
 
-![Admin v4 Faturas menu PT](//images.ctfassets.net/alneenqid6w5/6EzhdPvM8Foexk2GJUZ3KA/3102e348f966683a32c36512bdf2ba16/Admin_v4_Faturas_menu_PT.jpg)
+![Admin v4 Faturas menu PT](https://images.ctfassets.net/alneenqid6w5/6EzhdPvM8Foexk2GJUZ3KA/3102e348f966683a32c36512bdf2ba16/Admin_v4_Faturas_menu_PT.jpg)
 
 Veja abaixo mais detalhes sobre as diferentes seções e páginas deste recurso.
 

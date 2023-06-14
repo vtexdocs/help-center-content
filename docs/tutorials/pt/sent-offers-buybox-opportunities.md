@@ -32,13 +32,13 @@ Na página [Gerenciamento de anúncios](https://help.vtex.com/pt/tutorial/offers
 
 ## Detalhes do Anúncio
 
-![PT Oportunidades Offer details](//images.ctfassets.net/alneenqid6w5/05EP70mvjspXAYAqYUBlm/c50404811bbb7be69e463f97cdc4408e/PT_Oportunidades_Offer_details.jpg)
+![PT Oportunidades Offer details](https://images.ctfassets.net/alneenqid6w5/05EP70mvjspXAYAqYUBlm/c50404811bbb7be69e463f97cdc4408e/PT_Oportunidades_Offer_details.jpg)
 
 A página de [Detalhes do anúncio](https://help.vtex.com/pt/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P) apresenta um card de `Oportunidade` no topo. Ao clicar em `Ver Oportunidade`, você será redirecionado para a página a seguir.
 
 ## Oportunidades do Anúncio
 
-![PT Oportunidades oportunidades do anúncio](//images.ctfassets.net/alneenqid6w5/6Atuthxay11bdJrmSQxEM9/753c2b80a4bf68ca6f82aa6f23cca363/PT_Oportunidades_oportunidades_do_an__ncio.jpg)
+![PT Oportunidades oportunidades do anúncio](https://images.ctfassets.net/alneenqid6w5/6Atuthxay11bdJrmSQxEM9/753c2b80a4bf68ca6f82aa6f23cca363/PT_Oportunidades_oportunidades_do_an__ncio.jpg)
 
 A página **Oportunidades do anúncio** apresenta o anúncio elegível para o Buybox ao lado do anúncio já presente no marketplace. A página permite comparar os dados dos dois anúncios, incluindo informações das marcas, especificações e dimensões.
 
@@ -78,4 +78,4 @@ A seção de *Oportunidades Ativas* da página [Detalhes do anúncio](https://he
 - **Status da oportunidade:** incluindo `Ganhando` ou `Perdendo`.  
 - **Lista de configurações:** ações necessárias para que seu anúncio esteja ganhando na buybox. As instruções listadas incluem alterar preço, promover frete grátis, entrega rápida ou oferecer pagamento com parcelamento sem juros, por exemplo. Cada item da lista apresenta uma sugestão de configuração  que tornará o anúncio mais atrativo, posicionando-o em primeiro lugar no Buybox. 
 
-![PT Oportunidades oportunidades ativas](//images.ctfassets.net/alneenqid6w5/1e5ozasXAVsjNrH7RBjq71/6e7672dc863d4150b4e8b8efe600187a/PT_Oportunidades_oportunidades_ativas.jpg)
+![PT Oportunidades oportunidades ativas](https://images.ctfassets.net/alneenqid6w5/1e5ozasXAVsjNrH7RBjq71/6e7672dc863d4150b4e8b8efe600187a/PT_Oportunidades_oportunidades_ativas.jpg)

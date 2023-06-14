@@ -29,7 +29,7 @@ Luego, será necesario poner la tienda con un estado de producción en el Licens
 4. En la opción **Está en producción**, clic en el botón **No**, y quedará como **Si**;
 5. Clic en el botón **Guardar**.
 
-![cuentas.es](//images.ctfassets.net/alneenqid6w5/4UvPtCEjci7qcSWAnq9Zb2/28637e20f24ddaa9c34c717fc5fbecbe/cuentas.es.png)
+![cuentas.es](https://images.ctfassets.net/alneenqid6w5/4UvPtCEjci7qcSWAnq9Zb2/28637e20f24ddaa9c34c717fc5fbecbe/cuentas.es.png)
 
 Después de esa configuración, al acceder la UL final de la tienda, la misma ya va a ser direccionada para su e-commerce!
 

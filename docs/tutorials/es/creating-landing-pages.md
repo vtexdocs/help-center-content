@@ -26,7 +26,7 @@ En el Admin puedes crear páginas de destino personalizadas, como páginas para 
 
 2.Haz clic en **CREAR NUEVA**.
 
-![Crear Landing Pages](//images.ctfassets.net/alneenqid6w5/79EZvMxQKLKyE88OxQJudE/b02f8122f28275b8e93a3241a7b7ba3f/cms-pages-es.png)
+![Crear Landing Pages](https://images.ctfassets.net/alneenqid6w5/79EZvMxQKLKyE88OxQJudE/b02f8122f28275b8e93a3241a7b7ba3f/cms-pages-es.png)
 
 3.En la sección **Detalles de la página**, rellena los siguientes campos para definir los metadatos de la página:
 

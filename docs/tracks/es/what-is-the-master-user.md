@@ -25,7 +25,7 @@ Si su usuario tiene perfil de acceso al módulo Gestión de la cuenta, usted pue
 
 Al hacer clic en el nombre de la cuenta deseada, el nombre y el correo electrónico del usuario Titular se encuentran en la sección __Contacto__.
 
-![usuario-master-contato es](//images.ctfassets.net/alneenqid6w5/2lYlZR55HqYSk4aoGMCCI6/eea8b18ab53d475f046820db05eb717c/contato_usuario_master_es.png)
+![usuario-master-contato es](https://images.ctfassets.net/alneenqid6w5/2lYlZR55HqYSk4aoGMCCI6/eea8b18ab53d475f046820db05eb717c/contato_usuario_master_es.png)
 
 Entre las acciones que sólo el usuario Titular puede tomar, están:
 - Reindexar el catálogo.

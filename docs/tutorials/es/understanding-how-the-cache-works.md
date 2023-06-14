@@ -18,11 +18,11 @@ El concepto de cache es bastante difundido como siendo un dispositivo de acceso 
 
 Cuando una página o archivo inicia su carga, a través de la URL, el browser realiza una solicitud para el servidor que, por su parte, tiene la función de responder con información relevante para aquella solicitud. La solicitud del browser se conoce como **request** y la respuesta del servidor como **response**. Esos términos serán bastante utilizados en el transcurso de este artículo. Vea el esquema abajo:
 
-![Como o cache funciona - comunicação entre servidor e navegador](//images.ctfassets.net/alneenqid6w5/6ONSKQqdEoIsHxcvfp5GoS/1d05717d54faede0fc00d75716d7def4/1_ES.png)
+![Como o cache funciona - comunicação entre servidor e navegador](https://images.ctfassets.net/alneenqid6w5/6ONSKQqdEoIsHxcvfp5GoS/1d05717d54faede0fc00d75716d7def4/1_ES.png)
 
 El cache está representado a través de una capa entre el browser y el servidor y, así, cuando un **request** ocurre, en vez del sistema ir a buscar la información directamente en el servidor, primero va a esa capa, lo que vuelve mucho más ágil a la respuesta. Vea el esquema abajo:
 
-![Cómo funciona el caché: comunicación con el caché (sin caducar)](//images.ctfassets.net/alneenqid6w5/15ss3biutJhXX2WkG9k8xG/3d375c19c114eecdbe75decac28e2df3/2_PT.png)
+![Cómo funciona el caché: comunicación con el caché (sin caducar)](https://images.ctfassets.net/alneenqid6w5/15ss3biutJhXX2WkG9k8xG/3d375c19c114eecdbe75decac28e2df3/2_PT.png)
 
 Sin embargo, como el dato actualizado está en el servidor, de tiempo en tiempo es necesario actualizar el cache. Ese tiempo varía de acuerdo al tipo de **request, **o sea, si el **request** es una página, el tiempo es uno, si es un archivo javascript o CSS, es otro y aún, si es una imagen, será otro.
 
@@ -49,7 +49,7 @@ Como ya se ha dicho, tempo de duração del cache varía para cada tipo de **req
 
 Cuando el cache de un **request** (página o archivo) expira, al realizar una nueva solicitud, o sea, al cargar nuevamente la URL, el sistema va al servidor, rescata la información actualizada para aquella solicitud y actualiza el contenido de aquella URL en el cache. Después de actualizada, la versión cacheada vuelve a ser retornada para nuevas solicitudes de URL. Vea el esquema ilustrando ese caso:
 
-![Cómo funciona la caché: comunicación con la caché (caducada)](//images.ctfassets.net/alneenqid6w5/e5oS6cve6yw1tS81PYkBK/36d452de8975e10cbb847787bddaf1e1/3_ES.png)
+![Cómo funciona la caché: comunicación con la caché (caducada)](https://images.ctfassets.net/alneenqid6w5/e5oS6cve6yw1tS81PYkBK/36d452de8975e10cbb847787bddaf1e1/3_ES.png)
 
 En ese aspecto, podemos separar las respuestas en dos grupos: Cacheadas y no cacheadas.
 

@@ -17,7 +17,7 @@ Para la correcta configuración de una nueva transportadora, es importante detal
 
 Esta se utiliza para registrar los códigos postales atendidos, los valores cobrados, los rangos de peso considerados y los valores adicionales de cada transportadora.
 
-![planilha-frete-pt](//images.ctfassets.net/alneenqid6w5/xwa6iEK6ekMSeLLEZhBZL/325dda4a071d57baaf8dd8e3299cec41/planilha-frete-pt.png)
+![planilha-frete-pt](https://images.ctfassets.net/alneenqid6w5/xwa6iEK6ekMSeLLEZhBZL/325dda4a071d57baaf8dd8e3299cec41/planilha-frete-pt.png)
 
 ## Cómo crear la plantilla 
 

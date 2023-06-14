@@ -45,14 +45,14 @@ Before setting up the VTEX environment, the provider must implement the back-end
 ### 3. Antifraud Provider Administration Panel
 After receiving the access data and deploying the backend, the provider can access the approval tool through VTEX Admin. To do this, you must install the Anti-Fraud Provider App from the Apps menu:
 
-![print5](//images.ctfassets.net/alneenqid6w5/50yLGa6LOU0cuIMUOeSOKq/c236baf425467b8e14aabff5d8655c05/print5.png)
+![print5](https://images.ctfassets.net/alneenqid6w5/50yLGa6LOU0cuIMUOeSOKq/c236baf425467b8e14aabff5d8655c05/print5.png)
 
 Click on the installed app or access `https://{{AccountName}}.myvtex.com/admin/antifraud-provider`, replacing `{{AccountName}}` with the name of your account on the platform. In this environment, you can register the provider back-end configuration data and perform integration tests.
 
-![print6](//images.ctfassets.net/alneenqid6w5/2ziFhnDDHWMKE6QSIOIW4W/a0d3301c92157971275546ca2745f7b1/print6.png)
+![print6](https://images.ctfassets.net/alneenqid6w5/2ziFhnDDHWMKE6QSIOIW4W/a0d3301c92157971275546ca2745f7b1/print6.png)
 
 ### 4. Initial settings
-![print1](//images.ctfassets.net/alneenqid6w5/2RbsDjzeIgas064w8AKqS2/c0dc76877d74758ed5976bc729d26774/print1.png)
+![print1](https://images.ctfassets.net/alneenqid6w5/2RbsDjzeIgas064w8AKqS2/c0dc76877d74758ed5976bc729d26774/print1.png)
 
 When you access the environment through the link described in the previous item, you will see a form. Fill in the fields as indicated below:
 
@@ -76,7 +76,7 @@ After completing the fields correctly, the system will check the approved transa
 
 The tests that should be done in your integration before sending it to VTEX evaluation are displayed in the next module. You can select which tests you want to run, but for your integration to go through the analysis of our team, __all tests need to be done__. Therefore, we recommend that all of them remain selected.
 
-![print2](//images.ctfassets.net/alneenqid6w5/5EVuBF31ramsiYuKa2wkwO/91a84f94f4030507b9635b150067965f/print2.png)
+![print2](https://images.ctfassets.net/alneenqid6w5/5EVuBF31ramsiYuKa2wkwO/91a84f94f4030507b9635b150067965f/print2.png)
 
 ### 5. Testing
 When you click the __Execute tests__ button, the Antifraud Provider will apply the tests in your integration to the different possible scenarios. It's important to remember that __all of them are required__. To run them your service must be in HTTPS. The tests are:
@@ -106,11 +106,11 @@ For each Antifraud Provider Protocol test, we send a specific ID end to return t
 ### 6. Results
 After running the tests, the system returns the results, both positive and negative. The system also provides information on the expected results for each test. Thus, you have more visibility of what should be corrected in case of error.
 
-![print3](//images.ctfassets.net/alneenqid6w5/4k4uoEtGb6CeoAAWasM4Ya/c718a92d5196f553c5531511a7e14b92/print3.png)
+![print3](https://images.ctfassets.net/alneenqid6w5/4k4uoEtGb6CeoAAWasM4Ya/c718a92d5196f553c5531511a7e14b92/print3.png)
 
 To visualize in detail each action performed by the integration (and thus to identify possible errors), just click on the __Show logs__ link. A list of the complete information about the events that happened during the test will be displayed below the results.
 
-![print4](//images.ctfassets.net/alneenqid6w5/FeHanjGPxQqG8eoUw2MG0/a804453e7cc01ef7ef8d1b35e8960b94/print4.png)
+![print4](https://images.ctfassets.net/alneenqid6w5/FeHanjGPxQqG8eoUw2MG0/a804453e7cc01ef7ef8d1b35e8960b94/print4.png)
 
 When your integration has successfully passed all tests, please open a ticket in our [VTEX support](https://help.vtex.com/pt/support "VTEX Help"). However, before opening the ticket, make sure you have the following information:
 
@@ -134,7 +134,7 @@ Use the `https://{{AccountName}}.myvtex.com/admin/license-manager/#/home` URL, r
 Once the integration with your anti-fraud is approved, a connector will be made available for VTEX merchants to configure it on their respective websites. To do this, in addition to the contract with your company, the store will need two keys in hand: "X-PROVIDER-API-AppKey" and "X-PROVIDER-API-AppToken".
 
 An example of how the antifraud settings screen will look for the VTEX store:
-![print8](//images.ctfassets.net/alneenqid6w5/2v00lYz2UsW4YsaSycESio/1dc399bea5e2a75a04d1867646c4e223/print8.png)
+![print8](https://images.ctfassets.net/alneenqid6w5/2v00lYz2UsW4YsaSycESio/1dc399bea5e2a75a04d1867646c4e223/print8.png)
 
 These keys should be made available by you and will serve to identify the store that hired and is using your anti-fraud service.
 

@@ -20,7 +20,7 @@ If your end customer buys a product on any of your channels (online or physical 
 
 However, you may prefer this store to work as a pickup point __even in a stockout scenario__. For this, your logistics must make sure that the product will reach that store from another stock - for example, from the e-commerce one. In this case, you need to have an e-commerce shipping policy in which the pickup point of the physical store is configured.
 
-![contingency pickup](//images.ctfassets.net/alneenqid6w5/7sxWH5eDPpCmNlEPfHiZF1/7a10b60e1273d58d9c2ca7610a9ba888/contingency_pickup.png)
+![contingency pickup](https://images.ctfassets.net/alneenqid6w5/7sxWH5eDPpCmNlEPfHiZF1/7a10b60e1273d58d9c2ca7610a9ba888/contingency_pickup.png)
 
 ## How to set up a contingency pickup point
 

@@ -41,7 +41,7 @@ Para habilitar o acesso da VTEX no ambiente Adyen, siga as instruções abaixo:
 2. Na barra lateral esquerda, copie e salve a informação descrita acima de **Company**. Esta é a sua Company Account.
 3. Na lista abaixo, busque o nome da Merchant Account a ser utilizada (ressaltada em branco). Copie e salve esta informação.
 
-![Adyenv3_1](//images.ctfassets.net/alneenqid6w5/4BHwn5SIUl6AuiiEjreluk/a7404c85f6fda7f7ccbae66070d0db0d/Adyenv3_1.PNG)
+![Adyenv3_1](https://images.ctfassets.net/alneenqid6w5/4BHwn5SIUl6AuiiEjreluk/a7404c85f6fda7f7ccbae66070d0db0d/Adyenv3_1.PNG)
 
 ### Obtenha a Live URL
 
@@ -58,7 +58,7 @@ As informações abaixo consideram que a API Key e Client Key já foram previame
 2. Selecione a sua credencial API.
 3. Em **Server Settings > Authentication**, selecione **API key**. 
 
-![Adyenv3_2](//images.ctfassets.net/alneenqid6w5/5y5TAeZmhsKrn2nZTJexIw/bfbe2587739f39fa70c4e1f08e86bd71/Adyenv3_2.PNG)
+![Adyenv3_2](https://images.ctfassets.net/alneenqid6w5/5y5TAeZmhsKrn2nZTJexIw/bfbe2587739f39fa70c4e1f08e86bd71/Adyenv3_2.PNG)
 
 <blockquote><ui>4. Clique em <b>Generate Key</b> e anote a informação criada em um local seguro.</ui>
 
@@ -66,7 +66,7 @@ As informações abaixo consideram que a API Key e Client Key já foram previame
 
 <blockquote><ui>6. Clique em <b>Generate Client Key</b> e anote a informação criada em um local seguro.
 
-![Adyenv3_3](//images.ctfassets.net/alneenqid6w5/1HlZV1tWNXS4ME0B7LYsHR/ca6b2a69d637574b2885286ccaed30b4/Adyenv3_3.PNG)
+![Adyenv3_3](https://images.ctfassets.net/alneenqid6w5/1HlZV1tWNXS4ME0B7LYsHR/ca6b2a69d637574b2885286ccaed30b4/Adyenv3_3.PNG)
 
 ### Configure o webhook
 
@@ -80,7 +80,7 @@ Configure o webhook conforme os passos abaixo:
 4. Em **General > Description**, adicione uma descrição para o novo webhook. Exemplo: "Webhook Adyen Connector Provider v3".
 5. Em **General > Server configuration > URL**, preencha a URL da sua conta VTEX. Exemplo: https://{{account}}.myvtex.com/_v3/api/webhook/notification.
 
-![Adyenv3_4](//images.ctfassets.net/alneenqid6w5/1gAXlQfBoEUm5qnfSsHJkl/c18036816afbfe9ed8434d1211679879/Adyenv3_4.PNG)
+![Adyenv3_4](https://images.ctfassets.net/alneenqid6w5/1gAXlQfBoEUm5qnfSsHJkl/c18036816afbfe9ed8434d1211679879/Adyenv3_4.PNG)
 
 <blockquote><ui>6. Clique em <b>Apply</b>.</ui>
 
@@ -88,11 +88,11 @@ Configure o webhook conforme os passos abaixo:
 
 <blockquote><ui>8. Clique em <b>Save changes</b>.</ui>
 
-![Adyenv3_5](//images.ctfassets.net/alneenqid6w5/4dNUcUg9OKni8eT1wXcjO1/19eddc41d854adb8976e6e90ed54589c/Adyenv3_5.PNG)
+![Adyenv3_5](https://images.ctfassets.net/alneenqid6w5/4dNUcUg9OKni8eT1wXcjO1/19eddc41d854adb8976e6e90ed54589c/Adyenv3_5.PNG)
 
-![Adyenv3_6](//images.ctfassets.net/alneenqid6w5/2ocxDKULle6hnu2fFPnjfZ/7787ff93f023d3ec17c669758aefb82f/Adyenv3_6.PNG)
+![Adyenv3_6](https://images.ctfassets.net/alneenqid6w5/2ocxDKULle6hnu2fFPnjfZ/7787ff93f023d3ec17c669758aefb82f/Adyenv3_6.PNG)
 
-![Adyenv3_7](//images.ctfassets.net/alneenqid6w5/dEbiVnYj1Ic4eYgkSNolQ/79bba40bd6820d29de275e3cab19f22e/Adyenv3_7.PNG)
+![Adyenv3_7](https://images.ctfassets.net/alneenqid6w5/dEbiVnYj1Ic4eYgkSNolQ/79bba40bd6820d29de275e3cab19f22e/Adyenv3_7.PNG)
 
 <div class="alert alert-info">
 Se você possui múltiplas lojas, é necessário realizar a configuração do webhook para cada uma delas.
@@ -115,7 +115,7 @@ Se você possui múltiplas lojas, é necessário realizar a configuração do we
 
 <blockquote><ui>  6. Clique em <b>Salvar</b>.</ui>
 
-![Adyenv3_8](//images.ctfassets.net/alneenqid6w5/6VHaDn8IejGCUoatLIyUtk/bb93a701e80a942064818a54ac401714/Adyenv3_8.PNG)
+![Adyenv3_8](https://images.ctfassets.net/alneenqid6w5/6VHaDn8IejGCUoatLIyUtk/bb93a701e80a942064818a54ac401714/Adyenv3_8.PNG)
 
 Para configurar os métodos de pagamento a serem processados pela AdyenV3, acesse [Configurar condições de pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento). Caso deseje realizar vendas por meio do VTEX Sales App, acesse [Configurar pagamento com AdyenV3 no VTEX Sales App](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-adyenv3-no-instore--24yO6KloBn6DN6CbprHtgt).
 

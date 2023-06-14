@@ -18,7 +18,7 @@ O Admin permite que os comerciantes gerenciem toda sua experiência de comércio
 
 ## Página inicial
 
-![Store overview gif PT](//images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/b9a4a299f80286eadf1727cd5057a64c/Store_overview_gif_PT.gif)
+![Store overview gif PT](https://images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/b9a4a299f80286eadf1727cd5057a64c/Store_overview_gif_PT.gif)
 
 A página inicial oferece uma visão geral de alto nível da sua loja, como uma cabine de comando para as suas operações de comércio digital. Por isso, ela se chama [Visão Geral](https://help.vtex.com/pt/v4/docs/visao-geral-da-loja--6mcM4LPUqQxSiXY6uFtXZy).
 
@@ -27,7 +27,7 @@ Assim que você fizer login no Admin, verá métricas e gráficos úteis para mo
 ## Menu de navegação 
 Nossos menus de navegação lateral e barra superior agrupam categorias similares para reduzir as distrações e ajudar a sua equipe a encontrar o que precisa mais rapidamente. 
 
-![New Admin Shell](//images.ctfassets.net/alneenqid6w5/4Q4sQVxNy82zlFT2rmqaCo/f5e423ed52f3d468227155b73d74f163/New_Admin_Shell__1_.png)
+![New Admin Shell](https://images.ctfassets.net/alneenqid6w5/4Q4sQVxNy82zlFT2rmqaCo/f5e423ed52f3d468227155b73d74f163/New_Admin_Shell__1_.png)
 
 Confira nossos artigos sobre a visão geral de cada menu do seu Admin VTEX, para saber mais sobre sua função e as páginas incluídas em cada seção:
 
@@ -50,13 +50,13 @@ Também é possível utilizar a barra de busca na parte superior do Admin VTEX p
 
 ### Central de Informações
 
-![Information center](//images.ctfassets.net/alneenqid6w5/6lVqieCabdmgG53teixwyg/06dbecc541f55c4644134af302bdfd0c/Information_center.gif)
+![Information center](https://images.ctfassets.net/alneenqid6w5/6lVqieCabdmgG53teixwyg/06dbecc541f55c4644134af302bdfd0c/Information_center.gif)
 
 É aqui que reunimos todos os links úteis do nosso ecossistema VTEX, para ajudá-lo(a) a aproveitar a nossa plataforma ao máximo. C Clicando no botão <i class='fa fa-question-circle-o'></i> na barra superior, você pode acessar nosso [Help Center](https://help.vtex.com), [Developer Portal](https://developers.vtex.com/), [Status da Plataforma](https://status.vtex.com/), [blog](https://vtex.com/pt/blog/) e central de suporte.
 
 ### Configurações da conta e do usuário
 
-![Avatar settings](//images.ctfassets.net/alneenqid6w5/mAIHwG3IM1E0BfcDg7orj/5542e02ec58e87d97f7e14960f5de69c/Avatar_settings.gif)
+![Avatar settings](https://images.ctfassets.net/alneenqid6w5/mAIHwG3IM1E0BfcDg7orj/5542e02ec58e87d97f7e14960f5de69c/Avatar_settings.gif)
 
 Seu avatar de perfil, reúne todas as configurações relacionadas ao seu usuário e à sua conta. Através do avatar, você pode acessar as [Configurações do usuário](https://help.vtex.com/pt/v4/docs/user-settings-overview--1qYAvOTZBVYMosJ7tQm3Ry), [Configurações da conta](https://help.vtex.com/pt/v4/docs/account-settings-overview--159BmXTQhaP44wLxtPff6r), e [Faturas](https://help.vtex.com/pt/v4/docs/billing-overview--CcugO41lhNJzQKpazKYQC), alterar o idioma do seu Admin e encerrar a sessão. 
 
@@ -77,7 +77,7 @@ O Admin VTEX traz uma experiência localizada, incluindo as seguintes opções d
 
 ### Configurações da Loja
 
-![Store settings](//images.ctfassets.net/alneenqid6w5/3Mypjey9ors57oaq2wKQc3/9fc79445cb6a43dc62ccc99751d5981a/Store_settings.gif)
+![Store settings](https://images.ctfassets.net/alneenqid6w5/3Mypjey9ors57oaq2wKQc3/9fc79445cb6a43dc62ccc99751d5981a/Store_settings.gif)
 
 Reunimos todas as configurações de todas as seções do seu Admin VTEX em um menu específico: [Configurações da Loja](https://help.vtex.com/pt/v4/docs/visao-geral-configuracoes-da-loja--5e1Mj7oBDq2NEYJ7cpDdR4). Por meio dessa melhoria, você pode acessar facilmente todas as configurações que afetam cada serviço da sua operação.
 

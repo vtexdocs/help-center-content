@@ -139,7 +139,7 @@ Envie uma requisição HTTP com a possibilidade de salvar informações da respo
 
 Preencha a seção **Request data** com as informações da requisição a ser enviada. Na seção **Response action** você poderá indicar como as informações da resposta deverão ser salvas no Master Data.
 
-![Master Data v1 enviar requisição http screenshot](//images.ctfassets.net/alneenqid6w5/5uIXuDHBecTzuJxi0mnjWv/07197eb9ba3d6a3c298a8e27f6392c13/mdv1_trigger_http_request.PNG)
+![Master Data v1 enviar requisição http screenshot](https://images.ctfassets.net/alneenqid6w5/5uIXuDHBecTzuJxi0mnjWv/07197eb9ba3d6a3c298a8e27f6392c13/mdv1_trigger_http_request.PNG)
 
 Para configurar a **Response action** selecione a entidade de dados desejada e defina, para cada campo a ser salvo, o caminho JSON correspondente na resposta.
 

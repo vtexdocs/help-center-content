@@ -24,7 +24,7 @@ This page allows you to perform the following actions:
 * [Edit](#editing-a-physical-store)
 * [Inactivate](#inactivating-a-physical-store)
 
-![loja-fisica-EN](//images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/516078c3146ebc1f4a7905faed445098/image.png)
+![loja-fisica-EN](https://images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/516078c3146ebc1f4a7905faed445098/image.png)
 
 The page displays the following information: 
 
@@ -49,7 +49,7 @@ You can add a physical store by following the steps below:
 
 ### Physical store fields
 
-![loja-fisica2-en](//images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/6a50e8a8cd3f452b4102af5871ede996/image.png)
+![loja-fisica2-en](https://images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/6a50e8a8cd3f452b4102af5871ede996/image.png)
 
 #### Identification
 

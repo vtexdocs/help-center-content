@@ -16,7 +16,7 @@ subcategory: 2t00bBkcAwIkgSCGKsMOwY
 
 In the **Orders** module, the **All Orders** page allows you to access your store's orders, search and filter them, as shown in the image below:
 
-![search_bar_EN](//images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
+![search_bar_EN](https://images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
 
 This article explains how to use these resources, and it is divided into:
 
@@ -51,7 +51,7 @@ Searching on All orders returns all orders related to the criteria used, regardl
 
 Enter the desired term in the search bar to search on All orders. This will make <i class="fas fa-toggle-on"></i> `Remove date limit` option visible. Then, activate it to search.
 
-![search_bar_without_time_limit_EN](//images.ctfassets.net/alneenqid6w5/2ii9VFh5uRpG4Ad0nwIIN0/c861b2b825068d861850bce56660aa30/search_bar_without_time_limit_EN.png)
+![search_bar_without_time_limit_EN](https://images.ctfassets.net/alneenqid6w5/2ii9VFh5uRpG4Ad0nwIIN0/c861b2b825068d861850bce56660aa30/search_bar_without_time_limit_EN.png)
 
 <div class="alert alert-danger">
 The search on All orders cannot be combined with other filters. So, once you remove the date limit from the search, any active filters become inactive. If the search term is removed or the <i class="fas fa-toggle-off"></i> <b>Remove date limit</b> is disabled, the previously configured filters become active again.
@@ -69,7 +69,7 @@ Searching by associated filters allows you to combine different filters, which a
 
 On the **Orders > All Orders** page, there is `Filters` option, as shown in the image below: 
 
-![search_bar_EN](//images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
+![search_bar_EN](https://images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
 
 When you click `Filters`, a modal is displayed with the following options:
 
@@ -185,7 +185,7 @@ Click `Filters` to use these filters and select **Other**. You can find the opti
 
 On the **Orders > All Orders** page, there is the `Filter by Status` <i class="fas fa-angle-down"></i> option, as shown in the image below:
 
-![search_bar_EN](//images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
+![search_bar_EN](https://images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
 
 When clicking `Filter by Status` <i class="fas fa-angle-down"></i>, your store's [order status](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196) options are displayed. For example, if among all your orders, there are no canceled ones, this option will not be visible. 
 
@@ -197,7 +197,7 @@ For more status filter options, go to the section <a href="https://help.vtex.com
 
 On the **Orders > All Orders** page, there is the option `Created: Today` <i class="fas fa-angle-down"></i>, as shown in the image below:
 
-![search_bar_EN](//images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
+![search_bar_EN](https://images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
 
 This filter has the **Today** date enabled by default, but by clicking it, the following options are displayed:
 

@@ -34,7 +34,7 @@ A opção webhook permite realizar integrações baseadas nas notificações aut
 
 Nesta seção, é possível verificar, em tempo real, o status geral da plataforma, assim como alguns aspectos específicos:
 
-![Página de status](//images.ctfassets.net/alneenqid6w5/7Acmvo2WI9cSZZHCNGdeiM/22b528ee016432f7eb2de39eed08b11d/1.png)
+![Página de status](https://images.ctfassets.net/alneenqid6w5/7Acmvo2WI9cSZZHCNGdeiM/22b528ee016432f7eb2de39eed08b11d/1.png)
 
 - **Checkout:** funcionalidades ligadas ao fluxo de criação de pedidos, ou seja, checkout e suas dependências.
 - **WebStore:** navegação na frente de loja.
@@ -60,7 +60,7 @@ Também é possível visualizar todo o histórico de incidentes organizados por 
 
 Cada registro de incidentes é composto por data da ocorrência, título e evolução do status.
 
-![status moduleBox](//images.ctfassets.net/alneenqid6w5/2BkFdVXFXayUCvClXLPSNL/6fd919b0ef2121b6e6005b6466811164/status_moduleBox.PNG)
+![status moduleBox](https://images.ctfassets.net/alneenqid6w5/2BkFdVXFXayUCvClXLPSNL/6fd919b0ef2121b6e6005b6466811164/status_moduleBox.PNG)
 
 - **Título do registro:** título que descreve o tipo de classificação do incidente. Clicando nele, você é redirecionado para a página de detalhe do incidente.
 - **Status de incidentes:** cada incidente possui um ciclo definido, em que nossa equipe trabalha para identificar e solucionar os problemas. Conheça um pouco mais sobre cada etapa desse ciclo:
@@ -74,7 +74,7 @@ Cada registro de incidentes é composto por data da ocorrência, título e evolu
 
 As atualizações na plataforma são feitas continuamente e, no geral, não impactam a operação dos nossos clientes. Mas, às vezes, algumas delas precisam que o serviço fique temporariamente indisponível.
 
-![status maintenanceBox](//images.ctfassets.net/alneenqid6w5/quaItZNYtCgkpADVjT9aq/8cb4cf7d673e5fa5b710dc1d0ecb89ac/status_maintenanceBox.PNG)
+![status maintenanceBox](https://images.ctfassets.net/alneenqid6w5/quaItZNYtCgkpADVjT9aq/8cb4cf7d673e5fa5b710dc1d0ecb89ac/status_maintenanceBox.PNG)
 
 Para casos assim, que afetam a estabilidade da plataforma, usamos o Status para comunicar todos os detalhes: quando será executada a manutenção, o período de duração e o impacto.
 

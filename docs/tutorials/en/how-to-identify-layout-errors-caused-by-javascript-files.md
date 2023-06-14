@@ -25,7 +25,7 @@ To do so, follow the steps below:
 1. To disable the JS of the page, just add `/tools.html` at the end of the URL. E.g.: {AccountName}.myvtex.com/tools.html
 2. Click on __Disable__ in the __Client JavaScript is__ tab. 
 
-![javascript-disable ](//images.ctfassets.net/alneenqid6w5/2rDNQsznK8umymyKaOoYkA/1c4306998c4d580505dfaffe20ca66fa/js_enabled.png)
+![javascript-disable ](https://images.ctfassets.net/alneenqid6w5/2rDNQsznK8umymyKaOoYkA/1c4306998c4d580505dfaffe20ca66fa/js_enabled.png)
 
 3. Next, remove `/tools.html` from the URL and update the page.
 

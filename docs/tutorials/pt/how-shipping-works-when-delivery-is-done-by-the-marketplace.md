@@ -42,7 +42,7 @@ Assim como na interface do OMS, a API traz a informação `vtex:fob_1111` para o
 
 É importante que o ERP esteja adequado à recepção dos dados neste formato.
 
-![](//images.ctfassets.net/alneenqid6w5/5jPtBeUPHCUvgMco9FoKuZ/add1ce05e78a216f0aa7074c3ae4d444/slack-imgs.com.png)
+![](https://images.ctfassets.net/alneenqid6w5/5jPtBeUPHCUvgMco9FoKuZ/add1ce05e78a216f0aa7074c3ae4d444/slack-imgs.com.png)
 
 ## Etiqueta
 
@@ -50,6 +50,6 @@ O pedido é enviado em um contrato com os Correios do próprio marketplace. Nest
 
 É possível acessar a etiqueta diretamente pelo OMS, abaixo dos itens do pedido. Basta clicar no link e uma nova janela será aberta já com o PDF da etiqueta.
 
-![Etiqueta de entrega pelos Correios (BR) - Marketplace](//images.ctfassets.net/alneenqid6w5/3Xc7eqzjetqNwScoZxkWOK/e49eff1715dd0b3018bb58a6521f5c0c/Screen_Shot_2020-03-25_at_11.43.27.png)
+![Etiqueta de entrega pelos Correios (BR) - Marketplace](https://images.ctfassets.net/alneenqid6w5/3Xc7eqzjetqNwScoZxkWOK/e49eff1715dd0b3018bb58a6521f5c0c/Screen_Shot_2020-03-25_at_11.43.27.png)
 
 Caso queria aproveitar a etiqueta dentro do ERP, ela também está disponível na [API de Pedidos](https://developers.vtex.com/reference/orders#getorder), no array `trackingHints` que faz parte do objeto `shippingData`.

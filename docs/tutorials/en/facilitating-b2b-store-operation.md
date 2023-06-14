@@ -90,7 +90,7 @@ All VTEX stores have the [My account](https://help.vtex.com/en/tutorial/como-fun
 
 This tool allows you to monitor the order status in the after-sales flow and carry out operations such as: “Order again”, which allows placing the same order again.  
 
-![Order again](//images.ctfassets.net/alneenqid6w5/1t7B2SNKQ9aJZ4gFE03ViD/8ba194685df6e2374b7e287fb0ed59bc/image.png)
+![Order again](https://images.ctfassets.net/alneenqid6w5/1t7B2SNKQ9aJZ4gFE03ViD/8ba194685df6e2374b7e287fb0ed59bc/image.png)
 
 For more details on “My Account,” check out the tutorial on [how to configure this feature](https://help.vtex.com/en/tutorial/configurar-o-my-account--23Ayv5D6b86UBnYfoXqZL1 "").
 

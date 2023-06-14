@@ -54,7 +54,7 @@ Main mobile and desktop screen resolutions currently in use (there can be variat
 
 #### Main visual elements seen in mobile devices
 
-![menu_mobile_version en](//images.ctfassets.net/alneenqid6w5/6Q1KNePAFUUOKEIyswQcA2/2288e7aeef0d78d51391a1d658333cd6/modelo_menu_ingles.png)
+![menu_mobile_version en](https://images.ctfassets.net/alneenqid6w5/6Q1KNePAFUUOKEIyswQcA2/2288e7aeef0d78d51391a1d658333cd6/modelo_menu_ingles.png)
 
 #### Quality is the same regardless of the size!
 

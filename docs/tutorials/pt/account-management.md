@@ -83,7 +83,7 @@ Depois que um usuário preenche e salva **Nome** e **E-mail**, nos campos de co
 O template deste e-mail automático pode ser alterado na <a href="https://help.vtex.com/pt/tutorial/understanding-the-message-center--tutorials_84">Central de mensagens</a> modificando o template <i>account registration</i>.
 </div>
 
-![cadastro de conta](//images.ctfassets.net/alneenqid6w5/5tBCNxqBxeWkqOgiIcEaQw/4e044e1f46911db85da4e5ea0a195226/cadastro_de_conta.jpg)
+![cadastro de conta](https://images.ctfassets.net/alneenqid6w5/5tBCNxqBxeWkqOgiIcEaQw/4e044e1f46911db85da4e5ea0a195226/cadastro_de_conta.jpg)
 
 ## Segurança
 
@@ -97,7 +97,7 @@ Apenas o usuário Titular tem permissão para criar appKeys e appTokens, uma vez
 
 Ao clicar na aba **Lojas**, na parte superior da tela, você verá uma lista com as informações de todas as lojas criadas na sua conta VTEX. 
 
-![Página de detalhes da conta - Lojas](//images.ctfassets.net/alneenqid6w5/rAFyEsEDLBDqj3UBGufrb/70dea056a37a7cffd997803160605978/2pt.png)
+![Página de detalhes da conta - Lojas](https://images.ctfassets.net/alneenqid6w5/rAFyEsEDLBDqj3UBGufrb/70dea056a37a7cffd997803160605978/2pt.png)
 
 Para cada loja, você pode visualizar os seguintes detalhes:
 

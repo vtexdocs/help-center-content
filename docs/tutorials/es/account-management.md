@@ -83,7 +83,7 @@ Después que un usuario llena y guarda **Nombre** e **E-mail**, en los campos de
 La plantilla para este correo electrónico automático se puede cambiar en el <a href="https://help.vtex.com/es/tutorial/understanding-the-message-center--tutorials_84">Centro de mensajes</a> modificando la plantilla de <i>registro de cuenta</i>.
 </div>
 
-![registro de cuenta](//images.ctfassets.net/alneenqid6w5/7uIJliLTJ6wEMeeoqiSMQ/6c37511bd70d8035b11e18abc99b36d0/registro_de_cuenta.jpg)
+![registro de cuenta](https://images.ctfassets.net/alneenqid6w5/7uIJliLTJ6wEMeeoqiSMQ/6c37511bd70d8035b11e18abc99b36d0/registro_de_cuenta.jpg)
 
 ## Seguridad
 
@@ -103,7 +103,7 @@ En la pestaña Tiendas, puedes:
 
 Al hacer clic en la pestaña **Tiendas** en la parte superior de la pantalla, verás una lista con la información de todas las tiendas creadas en tu cuenta VTEX.
 
-![Página de detalles de la cuenta - Tiendas](//images.ctfassets.net/alneenqid6w5/rAFyEsEDLBDqj3UBGufrb/3d7a7f2d6029d2d36193ebe2d89c0fa9/2es.png)
+![Página de detalles de la cuenta - Tiendas](https://images.ctfassets.net/alneenqid6w5/rAFyEsEDLBDqj3UBGufrb/3d7a7f2d6029d2d36193ebe2d89c0fa9/2es.png)
 
 Para cada tienda, puedes ver los siguientes detalles:
 

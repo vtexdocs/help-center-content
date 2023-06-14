@@ -35,12 +35,12 @@ Depois de instalar, você pode acessá-lo da barra lateral (seção de apps inst
 4. (Opcional) Escreva uma pequena descrição para sua condição. Essa descrição é apenas para controle interno, não será visível aos seus clientes.
 5. Clique em "Começar a construir".
 
-![criarCondicao](//images.ctfassets.net/alneenqid6w5/628KQZeFhY2GsQsgcEMmIm/2610dde91708bfbd304ea52458be6137/criarCondicao.gif)  
+![criarCondicao](https://images.ctfassets.net/alneenqid6w5/628KQZeFhY2GsQsgcEMmIm/2610dde91708bfbd304ea52458be6137/criarCondicao.gif)  
 
 
 Depois de apertar o botão "Começar a construir", você verá um editor e uma lista de blocos no lado esquerda da tela. Agora você só precisa arrastar os blocos para o editor e conectá-los, criando assim sua lógica. 
 
-![criando](//images.ctfassets.net/alneenqid6w5/3wvd23x3WUK4IcSK6MMemU/3cffed6cac4c6398ee2c03fcd95973ba/criando.gif)
+![criando](https://images.ctfassets.net/alneenqid6w5/3wvd23x3WUK4IcSK6MMemU/3cffed6cac4c6398ee2c03fcd95973ba/criando.gif)
 
 ### Editando uma condição
 
@@ -53,4 +53,4 @@ Caso você queira que uma condição não seja mais aplicada, você pode simples
 - Quando o botão ao lado da condição for azul -> está habilitada
 - Quando o botão ao lado da condição for cinza -> está desabilitada
 
-![enableDisable](//images.ctfassets.net/alneenqid6w5/4MqAUcKUfmeakkG2KMyeyc/5874f8d693a49aebebb6b51de37194ae/enableDisable.gif)
+![enableDisable](https://images.ctfassets.net/alneenqid6w5/4MqAUcKUfmeakkG2KMyeyc/5874f8d693a49aebebb6b51de37194ae/enableDisable.gif)
