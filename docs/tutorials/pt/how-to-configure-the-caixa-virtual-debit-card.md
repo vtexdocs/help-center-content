@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: como-configurar-o-cartao-de-debito-virtual-da-caixa
+locale: pt
 legacySlug: como-configurar-o-cartao-de-debito-virtual-da-caixa
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

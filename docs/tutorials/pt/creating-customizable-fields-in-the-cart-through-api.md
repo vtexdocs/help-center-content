@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_24
 slug: criar-campos-customizaveis-no-carrinho-por-api
+locale: pt
 legacySlug: criar-campos-customizaveis-no-carrinho-por-api
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

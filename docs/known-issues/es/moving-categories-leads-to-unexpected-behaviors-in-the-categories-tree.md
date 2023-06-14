@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: al-mover-las-categorias-se-producen-comportamientos-inesperados-en-el-arbol-de-categorias
+locale: es
 kiStatus: Backlog
 internalReference: 367136
 ---

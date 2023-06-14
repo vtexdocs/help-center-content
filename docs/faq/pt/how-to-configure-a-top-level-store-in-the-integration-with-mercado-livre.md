@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 slug: como-configurar-loja-guarda-chuva-na-integracao-com-o-mercado-livre
+locale: pt
 legacySlug: como-configurar-loja-guarda-chuva-na-integracao-com-o-mercado-livre
 ---
 

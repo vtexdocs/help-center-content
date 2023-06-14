@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: o-cartaopresente-native-esta-adicionando-credito-embora-retorne-500
+locale: pt
 kiStatus: Backlog
 internalReference: 760896
 ---

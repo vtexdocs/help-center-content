@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: preco-indexado-para-um-produto-considerando-a-sku-com-o-preco-mais-alto-em-vez-do-mais-baixo
+locale: pt
 kiStatus: Scheduled
 internalReference: 822120
 ---

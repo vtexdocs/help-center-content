@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: configurar-pago-con-yuno
+locale: es
 legacySlug: configurar-pago-con-yuno
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

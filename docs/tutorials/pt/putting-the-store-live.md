@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_6
 slug: colocando-a-loja-no-ar
+locale: pt
 legacySlug: colocando-a-loja-no-ar
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---

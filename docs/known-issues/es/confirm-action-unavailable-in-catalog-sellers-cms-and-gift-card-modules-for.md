@@ -11,6 +11,7 @@ productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 tag: Catalog,Gift Card,Portal (CMS),Suggestions
 slug: confirmar-accion-esta-indisponible-en-catalogo-vendedores-cms-y-tarjeta-de
+locale: es
 kiStatus: Fixed
 internalReference:  
 ---

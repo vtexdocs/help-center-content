@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-email-de-confirmacao-do-pedido-nao-esta-sendo-enviado
+locale: pt
 kiStatus: Fixed
 internalReference: 423628
 ---

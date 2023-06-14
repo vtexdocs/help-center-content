@@ -9,6 +9,7 @@ firstPublishedAt: 2018-03-15T20:24:39.584Z
 contentType: trackArticle
 productTeam: Shopping
 slug: how-to-register-your-salespersons-on-vtex-instore
+locale: en
 trackId: 
 trackSlugEN: 
 ---

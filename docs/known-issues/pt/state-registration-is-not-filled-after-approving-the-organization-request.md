@@ -11,6 +11,7 @@ productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
 slug: o-registro-estadual-nao-e-preenchido-apos-a-aprovacao-da-solicitacao-da-organizacao
+locale: pt
 kiStatus: Fixed
 internalReference: 825127
 ---

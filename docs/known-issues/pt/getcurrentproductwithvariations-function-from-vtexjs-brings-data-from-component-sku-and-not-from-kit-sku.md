@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: getcurrentproductwithvariations-da-vtexjs-traz-dados-do-componente-sku-e-nao-do-kit-sku
+locale: pt
 kiStatus: Backlog
 internalReference: 324416
 ---

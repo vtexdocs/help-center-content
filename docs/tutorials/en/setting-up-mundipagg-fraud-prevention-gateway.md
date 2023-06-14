@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: setting-up-mundipagg-fraud-prevention-gateway
+locale: en
 legacySlug: setting-up-mundipagg-fraud-prevention-gateway
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

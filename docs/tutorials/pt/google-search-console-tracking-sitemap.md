@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: rastreamento-google-search-console-sitemap
+locale: pt
 legacySlug: rastreamento-google-search-console-sitemap
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

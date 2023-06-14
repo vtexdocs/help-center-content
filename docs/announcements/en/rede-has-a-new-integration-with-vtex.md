@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: authors_24
 slug: rede-has-a-new-integration-with-vtex
+locale: en
 legacySlug: rede-has-a-new-integration-with-vtex
 announcementImageID: ''
 announcementSynopsisEN: 'ERedeRest accepts payment methods that use preauth and has full compatibility with Apple Pay.'

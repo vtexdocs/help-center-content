@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: migrar-anuncios-en-mercado-libre
+locale: es
 legacySlug: migrar-anuncios-en-mercado-libre
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

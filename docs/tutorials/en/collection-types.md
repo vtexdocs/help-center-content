@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: collection-types
+locale: en
 legacySlug: collection-types
 subcategory: 3aExYJkji3NIu9Ks8bxbWx
 ---

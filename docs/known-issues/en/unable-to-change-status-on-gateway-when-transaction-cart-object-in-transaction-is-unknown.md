@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: unable-to-change-status-on-gateway-when-transaction-cart-object-in-transaction-is-unknown
+locale: en
 kiStatus: Backlog
 internalReference: 776837
 ---

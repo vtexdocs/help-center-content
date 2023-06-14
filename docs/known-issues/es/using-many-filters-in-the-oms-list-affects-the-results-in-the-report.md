@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: el-uso-de-muchos-filtros-en-la-lista-oms-afecta-a-los-resultados-del-informe
+locale: es
 kiStatus: Backlog
 internalReference: 756198
 ---

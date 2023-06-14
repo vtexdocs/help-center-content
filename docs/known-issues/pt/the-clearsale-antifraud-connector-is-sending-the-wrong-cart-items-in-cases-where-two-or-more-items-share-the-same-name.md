@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: o-conector-antifraude-clearsale-esta-enviando-os-itens-errados-do-carrinho-nos-casos-em-que-dois-ou-mais-itens-tem-o-mesmo-nome
+locale: pt
 kiStatus: Backlog
 internalReference: 799396
 ---

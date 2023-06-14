@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: mascara-del-campo-calculo-de-envio-en-la-pagina-del-producto-tiene-comportamiento-inadecuado
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: comportamento-inesperado-no-layout-deslizante-ao-usar-os-prumos-infinitetrue-e-navigationstep1
+locale: pt
 kiStatus: Backlog
 internalReference: 462895
 ---

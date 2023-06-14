@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: erro-da-meli-ao-enviar-o-rastreamento-do-pedido
+locale: pt
 kiStatus: Backlog
 internalReference: 764885
 ---

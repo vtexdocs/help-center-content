@@ -9,6 +9,7 @@ firstPublishedAt: 2022-01-04T20:33:45.370Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-regla-de-divergencia-de-precios-amazon
+locale: es
 trackId: 6sgd4Pagy3wNsWKBvmIFrP
 trackSlugES: configurar-la-integracion-de-amazon
 ---

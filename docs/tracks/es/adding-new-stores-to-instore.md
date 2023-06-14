@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-29T14:22:11.121Z
 contentType: trackArticle
 productTeam: Shopping
 slug: agregar-nuevos-tiendas-al-instore
+locale: es
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugES: instore-primeros-pasos-y-configuracion
 ---
@@ -24,7 +25,7 @@ Esta página te permite realizar las siguientes acciones:
 * [Editar](#editar-tienda-física)
 * [Inativar](#inativar-tienda-física)
 
-![loja-fisica-ES](//images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/df72ba565c1eff2f92a4b6b74f27ad8d/image.png)
+![loja-fisica-ES](https://images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/df72ba565c1eff2f92a4b6b74f27ad8d/image.png)
 
 La página contiene la siguiente información:
 
@@ -49,7 +50,7 @@ Puedes crear una tienda física siguiendo los pasos a continuación:
 
 ### Campos de registro de la tienda física
 
-![loja-fisica2-es](//images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/d27ac78354af709db771a00656578353/image.png)
+![loja-fisica2-es](https://images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/d27ac78354af709db771a00656578353/image.png)
 
 #### Identificación
 

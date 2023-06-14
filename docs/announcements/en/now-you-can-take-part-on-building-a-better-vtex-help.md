@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: now-you-can-take-part-on-building-a-better-vtex-help
+locale: en
 legacySlug: now-you-can-take-part-on-building-a-better-vtex-help
 announcementImageID: ''
 announcementSynopsisEN: "VTEX Help articles now have a feedback feature to let us know what you're thinking about our content."

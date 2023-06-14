@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: kits-sem-estoque-sao-exibidos-como-disponiveis-caso-tenham-promocao-de-brinde
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2022-12-22T17:54:57.602Z
 contentType: trackArticle
 productTeam: Channels
 slug: matching-manual-de-produtos-na-amazon
+locale: pt
 trackId: 6sgd4Pagy3wNsWKBvmIFrP
 trackSlugPT: integracao-com-a-amazon
 ---

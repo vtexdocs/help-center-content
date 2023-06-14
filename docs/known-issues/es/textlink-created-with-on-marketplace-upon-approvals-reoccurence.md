@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: enlace-de-texto-creado-con-en-marketplace-tras-las-aprobaciones-reoccurrence
+locale: es
 kiStatus: Backlog
 internalReference: 795900
 ---

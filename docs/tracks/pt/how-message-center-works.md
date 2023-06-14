@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:38:21.495Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: como-funciona-o-message-center
+locale: pt
 trackId: 6IkJwttMw5T84mlY9RifRP
 trackSlugPT: e-mails-transacionais
 ---
@@ -42,7 +43,7 @@ Ao entrar no Message Center e clicar em __Templates__, você encontra a lista de
 
 Vamos entender as informações presentes nesses cards.
 
-![Emails 1 1](//images.ctfassets.net/alneenqid6w5/2cuPA5D3ICgDt8TqlGY9fO/5dd2b918489d7a5fdaa9752f8518ecdd/Emails_1_1.png)
+![Emails 1 1](https://images.ctfassets.net/alneenqid6w5/2cuPA5D3ICgDt8TqlGY9fO/5dd2b918489d7a5fdaa9752f8518ecdd/Emails_1_1.png)
 
 - Nome do template para identificação interna. Este *não* é o assunto do e-mail.
 - Aplicação ou módulo ao qual o template pertence, sinalizado em verde.
@@ -52,7 +53,7 @@ Vamos entender as informações presentes nesses cards.
 
 Para buscar templates, você pode usar filtros por aplicação (módulo) e tipo (mensagem padrão ou personalizada).
 
-![Emails 1 2](//images.ctfassets.net/alneenqid6w5/3tUJ7WpRbHOjUne8tGBaNa/cf9705309d6be38c06fa895ee59268e4/Emails_1_2.png)
+![Emails 1 2](https://images.ctfassets.net/alneenqid6w5/3tUJ7WpRbHOjUne8tGBaNa/cf9705309d6be38c06fa895ee59268e4/Emails_1_2.png)
 
 ### Remetentes
 
@@ -60,7 +61,7 @@ Aqui, o usuário confere e edita as informações - nome, e-mail e dados do serv
 
 Estas são as informações apresentadas nos cards dos remetentes:
 
-![Emails 1 3](//images.ctfassets.net/alneenqid6w5/2zJnpHTT74AzVysxE5Q6k1/4abac7e5feef61e4495288126f74cc86/Emails_1_3.png)
+![Emails 1 3](https://images.ctfassets.net/alneenqid6w5/2zJnpHTT74AzVysxE5Q6k1/4abac7e5feef61e4495288126f74cc86/Emails_1_3.png)
 
 - Nome do remetente, para identificação interna.
 - Tipo de servidor SMTP, que pode ser da VTEX ou da própria loja.

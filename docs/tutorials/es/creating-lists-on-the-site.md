@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: criando-listas-no-site
+locale: es
 legacySlug: criando-listas-no-site
 subcategory: 6aeeWirCBUwwCmeIWOgIWs
 ---

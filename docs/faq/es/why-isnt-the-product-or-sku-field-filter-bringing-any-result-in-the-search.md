@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: por-que-el-filtro-de-campo-de-producto-o-sku-no-esta-traendo-resultado-en
+locale: es
 legacySlug: por-que-el-filtro-de-campo-de-producto-o-sku-no-esta-traendo-resultado-en
 ---
 

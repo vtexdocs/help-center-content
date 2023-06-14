@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: como-configurar-la-tarjeta-de-debito-virtual-de-caixa
+locale: es
 legacySlug: como-configurar-la-tarjeta-de-debito-virtual-de-caixa
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

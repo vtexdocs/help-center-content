@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: seller-portal-primeiros-passos-para-o-marketplace
+locale: pt
 legacySlug: seller-portal-primeiros-passos-para-o-marketplace
 subcategory: 4hisB47iAVZk4r3SEmMoG
 ---
@@ -26,7 +27,7 @@ Por meio do Seller Portal, marketplaces conseguem:
 - Diminuir o tempo de conversão das vendas, com o onboarding self-service de novos sellers, agora mais rápido e sem fricção.  
 - Compartilhar o sortimento de produtos com o seller de forma simples e gerenciar com agilidade anúncios de produtos compartilhados.  
 
-![Seller Portal gif 2022 launch](//images.ctfassets.net/alneenqid6w5/48uQe9Gi0K9ZU8qyXXO8US/ff02b9c926398dcfa69683bcfbf5b02f/Seller_Portal.gif)
+![Seller Portal gif 2022 launch](https://images.ctfassets.net/alneenqid6w5/48uQe9Gi0K9ZU8qyXXO8US/ff02b9c926398dcfa69683bcfbf5b02f/Seller_Portal.gif)
 
 ## Interação entre seller e marketplace no Seller Portal
 

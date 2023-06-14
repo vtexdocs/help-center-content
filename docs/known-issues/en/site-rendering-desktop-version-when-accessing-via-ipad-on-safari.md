@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: site-rendering-desktop-version-when-accessing-via-ipad-on-safari
+locale: en
 kiStatus: Backlog
 internalReference: 735208
 ---

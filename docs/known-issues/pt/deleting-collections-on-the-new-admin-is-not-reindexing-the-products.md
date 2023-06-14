@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: a-eliminacao-de-cobrancas-na-nova-administracao-nao-esta-reindexando-os-produtos
+locale: pt
 kiStatus: Backlog
 internalReference: 490740
 ---

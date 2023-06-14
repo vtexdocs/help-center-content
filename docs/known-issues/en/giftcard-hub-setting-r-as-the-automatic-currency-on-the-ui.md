@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: giftcard-hub-setting-r-as-the-automatic-currency-on-the-ui
+locale: en
 kiStatus: Backlog
 internalReference: 690794
 ---

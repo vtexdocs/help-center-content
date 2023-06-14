@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: product-availability-is-incorrectly-showed-in-the-pickups-in-cart-display-modal
+locale: en
 kiStatus: Backlog
 internalReference: 552875
 ---

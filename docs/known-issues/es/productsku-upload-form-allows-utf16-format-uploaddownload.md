@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: el-formulario-de-carga-de-productossku-permite-cargardescargar-el-formato-utf16
+locale: es
 kiStatus: Backlog
 internalReference: 493402
 ---

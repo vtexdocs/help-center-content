@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: ew-ui-no-sugiere-el-articulo-correcto-a-devolver-una-vez-que-el-pedido-tiene-un-cambio
+locale: es
 kiStatus: Backlog
 internalReference: 735854
 ---

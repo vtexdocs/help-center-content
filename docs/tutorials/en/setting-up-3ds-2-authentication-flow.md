@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: setting-up-3ds-2-authentication-flow
+locale: en
 legacySlug: setting-up-3ds-2-authentication-flow
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

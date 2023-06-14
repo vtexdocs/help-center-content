@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: importacao-e-exportacao-o-filtro-da-categoria-produtoskus-so-funciona-para-as-categorias-de-ultimo-nivel
+locale: pt
 kiStatus: Fixed
 internalReference: 550313
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2022-04-04T15:31:49.220Z
 contentType: trackArticle
 productTeam: Shopping
 slug: creating-franchise-accounts
+locale: en
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: creating-franchise-accounts
 ---

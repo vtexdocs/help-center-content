@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 5V92cmF9jG8KG600EwUgEg
 tag: Portal (CMS)
 slug: error-al-buscar-textos-modulo-cms
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

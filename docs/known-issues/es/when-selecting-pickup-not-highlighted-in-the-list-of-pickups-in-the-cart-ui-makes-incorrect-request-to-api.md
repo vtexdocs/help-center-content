@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: cuando-se-selecciona-una-recogida-que-no-esta-resaltada-en-la-lista-de-recogidas-del-carrito-la-interfaz-de-usuario-hace-una-peticion-incorrecta-a-la-api
+locale: es
 kiStatus: Fixed
 internalReference: 529850
 ---

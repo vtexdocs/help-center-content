@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: how-to-pay-boletos
+locale: en
 legacySlug: how-to-pay-boletos-using-vtex-payment
 subcategory: 6J5IKNejpAxT1Ie23PDtU4
 ---

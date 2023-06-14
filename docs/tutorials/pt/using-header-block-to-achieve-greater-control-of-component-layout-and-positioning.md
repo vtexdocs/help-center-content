@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 3aBBTLS9ZKO6IcY0Goe2y2
 slug: usando-bloco-header-para-obter-maior-controle-do-layout-e-posicionamento-dos-componentes
+locale: pt
 legacySlug: 
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

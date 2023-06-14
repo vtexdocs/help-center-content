@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: por-que-as-imagens-da-minha-loja-estao-sendo-exibidas-com-baixa-qualidade
+locale: pt
 legacySlug: por-que-as-imagens-da-minha-loja-estao-sendo-exibidas-com-baixa-qualidade
 ---
 

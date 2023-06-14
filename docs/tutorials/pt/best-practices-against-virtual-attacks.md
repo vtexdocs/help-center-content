@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: boas-praticas-contra-ataques-virtuais
+locale: pt
 legacySlug: boas-praticas-contra-ataques-virtuais
 subcategory: 6uJgdHqWf1Mo0rUfgxseTn
 ---

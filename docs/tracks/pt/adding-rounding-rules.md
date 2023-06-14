@@ -9,6 +9,7 @@ firstPublishedAt: 2019-07-17T19:47:09.101Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: cadastrar-arredondamento-de-precos
+locale: pt
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugPT: precos-101
 ---

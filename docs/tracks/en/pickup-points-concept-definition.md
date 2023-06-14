@@ -9,6 +9,7 @@ firstPublishedAt: 2019-10-21T12:53:34.331Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: pickup-points-concept-definition
+locale: en
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101
 ---

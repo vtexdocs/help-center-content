@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: conecta-la-integration
+locale: en
 legacySlug: conecta-la-integration
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

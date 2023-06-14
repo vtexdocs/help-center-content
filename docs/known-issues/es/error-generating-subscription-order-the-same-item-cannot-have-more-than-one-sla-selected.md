@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: error-al-generar-la-orden-de-suscripcion-el-mismo-articulo-no-puede-tener-mas-de-un-ans-seleccionado
+locale: es
 kiStatus: Backlog
 internalReference: 658185
 ---

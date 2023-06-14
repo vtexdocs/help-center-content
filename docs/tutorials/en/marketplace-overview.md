@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slug: marketplace-overview
+locale: en
 legacySlug: marketplace-overview
 subcategory: Se4oi5LroIII2Ei0uGAoE
 ---
@@ -20,7 +21,7 @@ A marketplace is a virtual platform where different sellers offer their products
 
 We have grouped all the features related to these operations in the __Marketplace__ menu of your redesigned Admin. 
 
-![Admin v4 marketplace menu EN](//images.ctfassets.net/alneenqid6w5/5y304Ab4DxbE2GRKVihDjJ/26aade5ceada45f55e0cec377adc3a32/Admin_v4_marketplace_menu_EN.jpg)
+![Admin v4 marketplace menu EN](https://images.ctfassets.net/alneenqid6w5/5y304Ab4DxbE2GRKVihDjJ/26aade5ceada45f55e0cec377adc3a32/Admin_v4_marketplace_menu_EN.jpg)
 
 Learn more about different sections and pages in this menu.
 

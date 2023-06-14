@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: order-allocation-algorithm-beta
+locale: en
 legacySlug: order-allocation-algorithm-beta
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---

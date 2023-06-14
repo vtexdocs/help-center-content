@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: la-api-de-busqueda-no-funciona-correctamente-despues-de-iniciar-sesion-con-el-operador-del-centro-de-llamadas
+locale: es
 kiStatus: Backlog
 internalReference: 304586
 ---

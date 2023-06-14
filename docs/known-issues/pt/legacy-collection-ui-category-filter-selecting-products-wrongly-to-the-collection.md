@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: filtro-da-categoria-ui-legacy-collection-selecionando-produtos-erroneamente-para-a-colecao
+locale: pt
 kiStatus: Backlog
 internalReference: 590934
 ---

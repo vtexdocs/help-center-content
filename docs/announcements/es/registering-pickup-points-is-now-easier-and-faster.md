@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: el-registro-de-puntos-de-recogida-se-hizo-mas-rapido-y-facil
+locale: es
 legacySlug: el-registro-de-puntos-de-recogida-se-hizo-mas-rapido-y-facil
 announcementImageID: ''
 announcementSynopsisES: 'Ahora, usted puede subir una planilla XLS con todos los puntos de recogida que desea ofrecer en su tienda.'

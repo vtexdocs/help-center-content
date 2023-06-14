@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: nueva-informacion-sobre-tasas-en-el-informe-de-pedidos
+locale: es
 legacySlug: nueva-informacion-sobre-tasas-en-el-informe-de-pedidos
 announcementImageID: ''
 announcementSynopsisES: 'La columna Taxes del informe de pedidos ha sido modificada para ofrecer visibilidad sobre el valor total de impuestos.'

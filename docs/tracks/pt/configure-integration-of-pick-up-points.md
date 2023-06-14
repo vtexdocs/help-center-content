@@ -9,6 +9,7 @@ firstPublishedAt: 2021-08-19T15:16:01.224Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-integracao-de-pontos-de-retirada
+locale: pt
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugPT: configurar-integracao-do-mercado-livre
 ---
@@ -56,7 +57,7 @@ Para ativar os pontos de retirada nas contas franquias:
 
 1. Acesse o Admin. 
 2. No módulo MARKETPLACE, selecione a opção **Integrações** e clique em `Configurações`.
-3. Na integração Mercado Livre, clique na engrenagem <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
+3. Na integração Mercado Livre, clique na engrenagem <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
 4. Escolha a opção `Editar Configurações`.
 5. No campo **Ativar integração de pontos de retirada para contas franquias**, clique na opção `Sim`.
 6. Clique em `Salvar Configurações`.

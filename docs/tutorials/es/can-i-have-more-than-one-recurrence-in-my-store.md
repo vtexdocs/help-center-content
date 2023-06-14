@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_61
 slug: puedo-tener-mas-de-una-recurrencia-en-mi-tienda
+locale: es
 legacySlug: puedo-tener-mas-de-una-recurrencia-en-mi-tienda
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---

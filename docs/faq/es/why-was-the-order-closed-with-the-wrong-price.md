@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: por-que-el-pedido-fue-cerrado-con-el-precio-incorrecto
+locale: es
 legacySlug: por-que-el-pedido-fue-cerrado-con-el-precio-incorrecto
 ---
 

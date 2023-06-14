@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: refactorizar-nuestro-flujo-de-restablecimiento-de-contrasena-para-llamar-a-la-nueva-mutacion-correspondiente-en-la-aplicacion-graphql
+locale: es
 kiStatus: Scheduled
 internalReference: 577825
 ---

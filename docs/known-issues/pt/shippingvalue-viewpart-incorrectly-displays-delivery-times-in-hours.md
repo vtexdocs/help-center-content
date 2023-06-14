@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: a-viewpart-shippingvalue-nao-exibe-prazos-em-horas-corretamente
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

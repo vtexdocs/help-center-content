@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slug: what-is-a-seller
+locale: en
 legacySlug: what-is-a-seller
 subcategory: 5tlIjp0ZkAU4EIk4OgyEmm
 ---

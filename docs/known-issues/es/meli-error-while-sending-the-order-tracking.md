@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: error-meli-al-enviar-el-seguimiento-del-pedido
+locale: es
 kiStatus: Backlog
 internalReference: 764885
 ---

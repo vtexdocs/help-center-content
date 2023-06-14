@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_59
 slug: qual-base-de-dados-e-analisada-no-insights
+locale: pt
 legacySlug: qual-base-de-dados-e-analisada-no-insights
 subcategory: 1e4CZPstbwqEW8a0amEWS0
 ---

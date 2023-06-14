@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: rellenar-campos-de-registro-de-recurrencia-de-pedidos
+locale: es
 legacySlug: rellenar-campos-de-registro-de-recurrencia-de-pedidos
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---

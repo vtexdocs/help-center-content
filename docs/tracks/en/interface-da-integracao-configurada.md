@@ -9,6 +9,7 @@ firstPublishedAt: 2021-09-30T18:49:28.436Z
 contentType: trackArticle
 productTeam: Channels
 slug: interface-da-integracao-configurada
+locale: en
 trackId: 2hS3ANSZ7vlHCcba4h7k8D
 trackSlugEN: integration-with-facebook-business-extension
 ---

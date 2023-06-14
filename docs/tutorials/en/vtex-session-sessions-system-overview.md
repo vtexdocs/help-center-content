@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_59
 slug: vtex-session-sessions-system-overview
+locale: en
 legacySlug: vtex-session-sessions-system-overview
 subcategory: dajK0sARX2c0MISKKoGoc
 ---

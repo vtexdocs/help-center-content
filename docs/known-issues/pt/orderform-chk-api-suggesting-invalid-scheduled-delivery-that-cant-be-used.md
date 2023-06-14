@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: 
 slug: orderform-chk-api-suggesting-invalid-scheduled-delivery-that-cant-be-used
+locale: pt
 kiStatus: Backlog
 internalReference: 298665
 ---

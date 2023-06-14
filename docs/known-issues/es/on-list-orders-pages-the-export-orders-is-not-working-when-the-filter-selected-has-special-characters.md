@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: en-las-paginas-de-pedidos-de-lista-la-exportacion-de-pedidos-no-funciona-cuando-el-filtro-seleccionado-tiene-caracteres-especiales
+locale: es
 kiStatus: Backlog
 internalReference: 662821
 ---

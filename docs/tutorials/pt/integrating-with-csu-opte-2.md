@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: integrando-com-csu-opte-2
+locale: pt
 legacySlug: integrando-com-csu-opte-2
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---

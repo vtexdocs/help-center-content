@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: o-email-de-reembolso-do-pedido-nao-e-enviado-quando-o-valor-adicional-e-reembolsado-usando-a-nova-iu-oms
+locale: pt
 kiStatus: Fixed
 internalReference: 563300
 ---

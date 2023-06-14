@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: authors_24
 slug: the-newsletter-opt-in-flag-in-the-checkout-will-now-be-unchecked-by-default
+locale: en
 legacySlug: the-newsletter-opt-in-flag-in-the-checkout-will-now-be-unchecked-by-default
 announcementImageID: ''
 announcementSynopsisEN: 'The newsletter opt-in flag in the Checkout will now be unchecked by default. If you customize this flag, check this out.'

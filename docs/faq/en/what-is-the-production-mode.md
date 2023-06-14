@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
 slug: what-is-the-production-mode
+locale: en
 legacySlug: what-is-the-production-mode
 ---
 

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: inventory-management-updates
+locale: en
 legacySlug: inventory-management-updates
 announcementImageID: ''
 announcementSynopsisEN: 'The Inventory tab in the Inventory & Shipping module is now Inventory management, and interface has also changed'

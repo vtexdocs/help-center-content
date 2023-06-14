@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_4
 slug: configurando-acesso-sem-www
+locale: pt
 legacySlug: configurando-acesso-sem-www
 subcategory: 2Za4fjGfxYOo6oqykukgyy
 ---

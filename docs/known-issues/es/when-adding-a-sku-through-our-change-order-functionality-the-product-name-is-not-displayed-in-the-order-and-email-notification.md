@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: al-anadir-una-sku-a-traves-de-nuestra-funcionalidad-cambiar-pedido-el-nombre-del-producto-no-se-muestra-en-el-pedido-ni-en-la-notificacion-por-correo-electronico
+locale: es
 kiStatus: Backlog
 internalReference: 557978
 ---

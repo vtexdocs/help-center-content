@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: palabras-sustitutas-de-la-categoria-no-se-indexan
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

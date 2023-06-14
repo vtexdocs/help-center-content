@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: configurar-la-afiliacion-a-la-tuna
+locale: es
 legacySlug: configurar-la-afiliacion-a-la-tuna
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

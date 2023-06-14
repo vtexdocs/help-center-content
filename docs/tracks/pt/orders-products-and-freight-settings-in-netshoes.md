@@ -9,6 +9,7 @@ firstPublishedAt: 2018-09-27T15:02:43.318Z
 contentType: trackArticle
 productTeam: Channels
 slug: configuracoes-de-notificacoes-de-pedidos-produtos-e-frete-na-netshoes
+locale: pt
 trackId: 5Ua87lhFg4m0kEcuyqmcCm
 trackSlugPT: configurar-integracao-da-netshoes
 ---

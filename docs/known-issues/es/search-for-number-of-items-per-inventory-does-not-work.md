@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: la-busqueda-de-numero-de-articulos-por-inventario-no-funciona
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

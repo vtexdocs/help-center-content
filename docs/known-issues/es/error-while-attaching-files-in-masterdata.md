@@ -11,6 +11,7 @@ productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
 slug: error-al-adjuntar-archivos-en-masterdata
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

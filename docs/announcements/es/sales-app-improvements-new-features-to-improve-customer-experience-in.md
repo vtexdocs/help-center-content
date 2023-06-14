@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: mejoras-a-sales-app-nuevas-funcionalidades-para-mejorar-la-experiencia-del
+locale: es
 legacySlug: mejoras-a-sales-app-nuevas-funcionalidades-para-mejorar-la-experiencia-del
 announcementImageID: ''
 announcementSynopsisES: 'Mejoras para las tiendas físicas, incluyendo la nueva funcionalidad Venta en mano y sugerencias de productos similares.'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6gH9I777cQGMaq2y4kaogi
 slug: configurar-recorrencia-em-condicoes-de-pagamento
+locale: pt
 legacySlug: configurar-recorrencia-em-condicoes-de-pagamento
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

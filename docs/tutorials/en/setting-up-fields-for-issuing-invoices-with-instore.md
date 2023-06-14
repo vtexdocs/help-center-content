@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_59
 slug: setting-up-fields-for-issuing-invoices-with-instore
+locale: en
 legacySlug: setting-up-fields-for-issuing-invoices-with-instore
 subcategory: 8AGXmtpbTqUE2KQu0Swwk
 ---

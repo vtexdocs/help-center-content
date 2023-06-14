@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: monitoramento-de-rotas
+locale: pt
 legacySlug: monitoramento-de-rotas
 subcategory: 6a36lWUX5znjBVYTrfc29x
 ---
@@ -78,4 +79,4 @@ Caso precise mudar o status, ao final da página [Detalhes da rota](#detalhes-da
 Para que esteja disponível uma Justificativa ela deve ser cadastrada previamente na aba de Configurações de Conta. Para saber mais confira <a href="https://help.vtex.com/pt/tutorial/justificativa-de-status-vtex-tracking--4shboc7h5XPUpA8TQzXPRG">Justificativa de status</a>.
 </div>
 
-![Monitoramento de Rota](//images.ctfassets.net/alneenqid6w5/3cHz27dvHjO7ObLDxJTIuc/01103e99a288ab15935a7b453487fd7c/Monitoramento_Rota.gif)
+![Monitoramento de Rota](https://images.ctfassets.net/alneenqid6w5/3cHz27dvHjO7ObLDxJTIuc/01103e99a288ab15935a7b453487fd7c/Monitoramento_Rota.gif)

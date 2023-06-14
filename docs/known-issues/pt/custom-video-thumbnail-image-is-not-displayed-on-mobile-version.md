@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: a-imagem-em-miniatura-de-video-personalizada-nao-e-exibida-na-versao-movel
+locale: pt
 kiStatus: Backlog
 internalReference: 412632
 ---

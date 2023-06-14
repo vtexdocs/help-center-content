@@ -11,6 +11,7 @@ productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
 slug: masterdata-export-enlace-de-descarga-no-disponible
+locale: es
 kiStatus: Backlog
 internalReference: 613864
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 6AcGyun1hSWewU8YcaQiO
 slug: ficou-mais-facil-vender-os-produtos-das-suas-lojas-fisicas-em-marketplaces
+locale: pt
 legacySlug: ficou-mais-facil-vender-os-produtos-das-suas-lojas-fisicas-em-marketplaces
 announcementImageID: ''
 announcementSynopsisPT: 'Agora, ao integrar a conta principal a um marketplace, os estoques das contas-franquia são considerados automaticamente.'

@@ -9,6 +9,7 @@ firstPublishedAt: 2022-01-05T15:54:29.025Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-regla-de-divergencia-de-precios-magazine-luiza
+locale: es
 trackId: 5Yx5IrNa7Y48c6aSC8wu2Y
 trackSlugES: configurar-la-integracion-de-magazine-luiza
 ---

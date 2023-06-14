@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: erro-ao-exportar-grande-quantidade-de-giftcards
+locale: pt
 kiStatus: Backlog
 internalReference: 550658
 ---

@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: a-categoria-linkid-nao-esta-sendo-registrada-em-reescrita-ao-traduzir-com-o-grafico-do-catalogo
+locale: pt
 kiStatus: Backlog
 internalReference: 654951
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: cart-with-items-displays-empty-cart-message-while-screen-is-still-loading
+locale: en
 kiStatus: Backlog
 internalReference: 303673
 ---

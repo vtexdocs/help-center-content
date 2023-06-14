@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: desarrollar-el-front-end-para-la-feature-de-listas-en-su-tienda
+locale: es
 legacySlug: desarrollar-el-front-end-para-la feature-de-listas-en-su-tienda
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

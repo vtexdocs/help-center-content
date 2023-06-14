@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 slug: discontinuation-of-vtex-payment
+locale: en
 legacySlug: discontinuation-of-vtex-payment
 announcementImageID: ''
 announcementSynopsisEN: 'Discontinuation of VTEX Payment'

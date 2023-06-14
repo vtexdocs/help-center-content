@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
 slug: por-que-mi-transportista-no-aparece-en-el-checkout
+locale: es
 legacySlug: por-que-mi-transportista-no-aparece-en-el-checkout
 ---
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: configurar-promocao-para-marketplace
+locale: pt
 legacySlug: configurando-promocao-para-marketplace
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

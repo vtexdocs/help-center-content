@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: sent-offers-buybox-opportunities
+locale: en
 legacySlug: sent-offers-buybox-opportunities-beta
 subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---
@@ -32,13 +33,13 @@ On the [Offer Management](https://help.vtex.com/en/tutorial/offers-listing--7MRb
 
 ## Offer details
 
-![EN Oportunidades Offer details](//images.ctfassets.net/alneenqid6w5/05EP70mvjspXAYAqYUBlm/6ed62b0628ffc356995b4aa59321f28c/EN_Oportunidades_Offer_details.jpg)
+![EN Oportunidades Offer details](https://images.ctfassets.net/alneenqid6w5/05EP70mvjspXAYAqYUBlm/6ed62b0628ffc356995b4aa59321f28c/EN_Oportunidades_Offer_details.jpg)
 
 The [Offer details](https://help.vtex.com/en/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P) page displays a message about the `Opportunity` at the top of the page. By clicking on `View opportunity`, you will be redirected to the following page.
 
 ## Offer opportunities
 
-![EN Oportunidades oportunidades do anúncio](//images.ctfassets.net/alneenqid6w5/6Atuthxay11bdJrmSQxEM9/f4ca300fea32688a1dcb606f92104cb9/EN_Oportunidades_oportunidades_do_an__ncio.jpg)
+![EN Oportunidades oportunidades do anúncio](https://images.ctfassets.net/alneenqid6w5/6Atuthxay11bdJrmSQxEM9/f4ca300fea32688a1dcb606f92104cb9/EN_Oportunidades_oportunidades_do_an__ncio.jpg)
 
 The **Offer opportunities** page displays the Buybox-eligible offer next to the one already available for sale on the marketplace. On this page, you can compare the data of both offers, such as their brand information, specifications, and dimensions.
 

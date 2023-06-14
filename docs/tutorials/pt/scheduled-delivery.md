@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: entrega-agendada
+locale: pt
 legacySlug: entrega-agendada, como-funciona-a-entrega-agendada
 subcategory: 1UL6Q7nUN6SkA2g2SUsECi
 ---

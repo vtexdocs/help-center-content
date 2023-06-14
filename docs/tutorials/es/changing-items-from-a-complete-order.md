@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: cambiar-items-de-un-pedido-finalizado
+locale: es
 legacySlug: como-hacer-la-alteracion-de-items, modificar-pedidos-completados
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: busca-nao-funciona-para-um-segundo-nivel-de-diretorio
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

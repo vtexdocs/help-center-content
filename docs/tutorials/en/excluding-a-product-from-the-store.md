@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: excluding-a-product-from-the-store
+locale: en
 legacySlug: excluding-a-product-from-the-store
 subcategory: pwxWmUu7T222QyuGogs68
 ---

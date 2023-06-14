@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-25T17:28:09.193Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: redireccionamientos
+locale: es
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugES: vtex-intelligent-search
 ---

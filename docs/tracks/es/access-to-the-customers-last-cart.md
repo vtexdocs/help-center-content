@@ -9,6 +9,7 @@ firstPublishedAt: 2021-08-05T14:46:10.377Z
 contentType: trackArticle
 productTeam: Shopping
 slug: acceso-al-ultimo-carrito-del-cliente
+locale: es
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugES: instore-usando-el-app
 ---
@@ -19,4 +20,4 @@ Al tener acceso a esta información, el vendedor puede intentar completar la ven
 
 Simplemente haga clic en `Acceder` para ver los productos en el carrito abandonado.
 
-![last-cart-es](//images.ctfassets.net/alneenqid6w5/5A40nJsnX5wRDlHJGn9ZsD/13c98f924fcee93b1a04f4bcd9f91821/last-cart-ES.png)
+![last-cart-es](https://images.ctfassets.net/alneenqid6w5/5A40nJsnX5wRDlHJGn9ZsD/13c98f924fcee93b1a04f4bcd9f91821/last-cart-ES.png)

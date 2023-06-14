@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: authors_41
 slug: a-partir-do-dia-30-de-janeiro-de-2019-os-pedidos-podem-aparecer-com-status
+locale: pt
 legacySlug: a-partir-do-dia-30-de-janeiro-de-2019-os-pedidos-podem-aparecer-com-status
 announcementImageID: ''
 announcementSynopsisPT: 'A partir de 30/01/2019, pedidos poderão aparecer com status null nas respostas das chamadas Get Order e List Orders.'

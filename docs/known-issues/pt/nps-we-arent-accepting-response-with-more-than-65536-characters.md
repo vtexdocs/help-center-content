@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: nps-nao-estamos-aceitando-resposta-com-mais-de-65536-caracteres
+locale: pt
 kiStatus: Backlog
 internalReference: 317389
 ---

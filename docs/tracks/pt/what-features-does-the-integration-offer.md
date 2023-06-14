@@ -9,6 +9,7 @@ firstPublishedAt: 2023-03-28T21:41:26.632Z
 contentType: trackArticle
 productTeam: Channels
 slug: quais-sao-as-funcionalidades-que-a-integracao-oferece
+locale: pt
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugPT: quais-sao-as-funcionalidades-que-a-integracao-oferece
 ---

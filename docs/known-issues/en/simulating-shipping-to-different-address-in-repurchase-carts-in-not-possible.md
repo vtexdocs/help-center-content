@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: simulating-shipping-to-different-address-in-repurchase-carts-in-not-possible
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: la-regex-de-mastercard-no-esta-actualizada-lo-que-hace-que-identifiquemos-mal-algunos-bins
+locale: es
 kiStatus: Backlog
 internalReference: 642136
 ---

@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: a-interface-do-usuario-do-catalog-mapping-esta-demorando-muito-para-carregar
+locale: pt
 kiStatus: Backlog
 internalReference: 823218
 ---

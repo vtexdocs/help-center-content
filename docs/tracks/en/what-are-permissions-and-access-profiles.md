@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:32:45.916Z
 contentType: trackArticle
 productTeam: Identity
 slug: what-are-permissions-and-access-profiles
+locale: en
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: accounts-and-permissions
 ---

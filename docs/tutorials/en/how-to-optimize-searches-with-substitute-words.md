@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 slug: how-to-optimize-searches-with-substitute-words
+locale: en
 legacySlug: how-to-optimize-searches-with-substitute-words
 subcategory: pwxWmUu7T222QyuGogs68
 ---

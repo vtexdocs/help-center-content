@@ -9,6 +9,7 @@ firstPublishedAt: 2019-10-21T12:56:10.686Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: manage-skus-in-inventory
+locale: en
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101
 ---

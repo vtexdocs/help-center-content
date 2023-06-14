@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: configurar-boleto-registrado-bradesco
+locale: pt
 legacySlug: configurar-boleto-registrado-bradesco
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

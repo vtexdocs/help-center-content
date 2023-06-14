@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: error-in-apportioning-the-discount-when-there-is-a-multiplier-unit
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: improvements-in-vtex-matcher
+locale: en
 legacySlug: improvements-in-vtex-matcher
 announcementImageID: ''
 announcementSynopsisEN: "VTEX matcher has been redesigned to improve the cataloging of sellers' SKUs in the marketplace"

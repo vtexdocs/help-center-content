@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 2zh4tqFMxyMCgwaUcsS0O2
 slug: como-puedo-cambiar-el-orden-de-los-productos-en-la-tienda
+locale: es
 legacySlug: como-puedo-cambiar-el-orden-de-los-productos-en-la-tienda
 ---
 

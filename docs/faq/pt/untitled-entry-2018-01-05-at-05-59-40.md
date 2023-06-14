@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: 
 slug: como-e-calculado-o-prazo-de-entrega-de-um-pedido
+locale: pt
 legacySlug: como-e-calculado-o-prazo-de-entrega-de-um-pedido
 ---
 

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: a-transacao-ficou-presa-na-aprovacao-com-o-conector-nps-devido-ao-pspresponsecod-na-resposta-da-liquidacao
+locale: pt
 kiStatus: Backlog
 internalReference: 557051
 ---

@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: la-nueva-interfaz-de-usuario-no-muestra-el-valor-facturado-en-la-pagina-de-articulos-devueltos
+locale: es
 kiStatus: Backlog
 internalReference: 664838
 ---

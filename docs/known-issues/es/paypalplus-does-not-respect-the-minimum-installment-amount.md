@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: paypalplus-no-respeta-el-importe-minimo-de-la-cuota
+locale: es
 kiStatus: Backlog
 internalReference: 370271
 ---

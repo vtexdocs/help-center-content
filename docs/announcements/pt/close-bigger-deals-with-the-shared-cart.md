@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 245tA425AIeioKAk2eaiwS
 slug: faca-vendas-maiores-com-o-carrinho-compartilhado
+locale: pt
 legacySlug: faca-vendas-maiores-com-o-carrinho-compartilhado
 announcementImageID: ''
 announcementSynopsisPT: 'O carrinho compartilhado já está disponível para todas as lojas, permitindo que mais de um cliente interaja com ele.'

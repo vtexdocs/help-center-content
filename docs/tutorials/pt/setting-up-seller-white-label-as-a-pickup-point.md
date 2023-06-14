@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_59
 slug: configurar-seller-white-label-ponto-de-retirada-pickup-point
+locale: pt
 legacySlug: configurar-seller-white-label-ponto-de-retirada-pickup-point
 subcategory: 1c5Btie9ou2Gg2iUo0ggqM
 ---

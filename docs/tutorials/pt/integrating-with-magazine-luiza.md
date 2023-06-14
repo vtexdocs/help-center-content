@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_24
 slug: integrando-com-magazine-luiza
+locale: pt
 legacySlug: integrando-com-magazine-luiza
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

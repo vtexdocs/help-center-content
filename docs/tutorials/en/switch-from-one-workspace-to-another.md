@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: switch-from-one-workspace-to-another
+locale: en
 legacySlug: switch-from-one-workspace-to-another
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

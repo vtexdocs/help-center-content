@@ -9,6 +9,7 @@ contentType: updates
 productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
 slug: effortlessly-create-backend-apps-with-the-new-typedql-builder
+locale: en
 legacySlug: effortlessly-create-backend-apps-with-the-new-typedql-builder
 announcementImageID: ''
 announcementSynopsisEN: 'New VTEX.IO builder reduces code duplicity in apps developed using GraphQL e TypeScript.'

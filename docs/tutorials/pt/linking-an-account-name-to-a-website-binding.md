@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: vincular-um-account-name-a-um-website-binding
+locale: pt
 legacySlug: vincular-um-account-name-a-um-website-binding
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

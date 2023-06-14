@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: setting-up-payments-with-pagoefectivo
+locale: en
 legacySlug: setting-up-payments-with-pagoefectivo
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

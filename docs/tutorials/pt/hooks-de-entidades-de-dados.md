@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_64
 slug: data-entity-hooks
+locale: pt
 legacySlug: data-entity-hooks
 subcategory: 
 ---

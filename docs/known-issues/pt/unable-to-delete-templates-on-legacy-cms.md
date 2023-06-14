@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: nao-e-possivel-deletar-um-template-no-cms
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

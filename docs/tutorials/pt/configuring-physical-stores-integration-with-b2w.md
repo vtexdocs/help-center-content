@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: configurar-integracao-de-lojas-fisicas-com-a-b2w
+locale: pt
 legacySlug: configurar-integracao-de-lojas-fisicas-com-a-b2w-skyhub
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---
@@ -22,7 +23,7 @@ Existem duas modalidades de retirada em loja: **Pickup** e **Ship Store**. Nessa
 
 Os pedidos realizados e que utilizam a opção de retirada em loja, quando chegam à VTEX, são atribuídos à conta franquia que possui o ponto de retirada escolhido pelo cliente e o ponto de retirada terá seu estoque modificado.
 
-![fluxocriacaopup](//images.ctfassets.net/alneenqid6w5/1ifP8Kk4uQQu3jW2vuZpPK/32e76d55a97a98461889c3a2d7ee26ec/fluxocriacaopup.JPG)
+![fluxocriacaopup](https://images.ctfassets.net/alneenqid6w5/1ifP8Kk4uQQu3jW2vuZpPK/32e76d55a97a98461889c3a2d7ee26ec/fluxocriacaopup.JPG)
 
 Para criar os pontos de retirada, você vai precisar:
 
@@ -66,13 +67,13 @@ Para verificar se o ponto de retirada foi enviado a B2W:
 
 Na listagem dos pontos de retirada enviados, você conseguirá visualizar quais foram enviados com sucesso e quais possuem erro de configuração.
 
-![Início (4)](//images.ctfassets.net/alneenqid6w5/NHUOSgg4hXhVapftBxIGJ/a6c17c27284c4220fcefc07ef47def2a/In__cio__4_.gif)
+![Início (4)](https://images.ctfassets.net/alneenqid6w5/NHUOSgg4hXhVapftBxIGJ/a6c17c27284c4220fcefc07ef47def2a/In__cio__4_.gif)
 
 ## Confirmação da associação do ponto de retirada x anúncio 
 
 É possível confirmar se o ponto de retirada foi corretamente associado ao anúncio da B2W. O que define essa associação é a quantidade de estoque do produto, enviada para o ponto de retirada.
 
-![fluxoestoquepup](//images.ctfassets.net/alneenqid6w5/120QcMpvS0nLSqPPor23ex/2d98326ca3f1d91bbf99fe97bb7f84c7/fluxoestoquepup.JPG)
+![fluxoestoquepup](https://images.ctfassets.net/alneenqid6w5/120QcMpvS0nLSqPPor23ex/2d98326ca3f1d91bbf99fe97bb7f84c7/fluxoestoquepup.JPG)
 
 Para confirmar a associação, você deve verificar quais pontos de retirada estão sincronizados com o SKU e seus respectivos estoques. Siga os passos abaixo:
 
@@ -81,6 +82,6 @@ Para confirmar a associação, você deve verificar quais pontos de retirada est
 4. Filtre a listagem com a opção SkyHub/B2W.
 5. Localize o SKU desejado na caixa de pesquisa.
 
-![Início (5)](//images.ctfassets.net/alneenqid6w5/7zVX7T1t17RWcNtJVsNXcd/768de551c0b4a955735fbbafcbf58a13/In__cio__5_.gif)
+![Início (5)](https://images.ctfassets.net/alneenqid6w5/7zVX7T1t17RWcNtJVsNXcd/768de551c0b4a955735fbbafcbf58a13/In__cio__5_.gif)
 
 Os pontos de retirada estão sincronizados com o SKU e seus respectivos estoques serão apresentados na lista.

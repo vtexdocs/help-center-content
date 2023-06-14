@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: el-pedido-con-estado-de-verificacion-de-factura-no-se-actualiza-a-facturado
+locale: es
 kiStatus: Backlog
 internalReference: 500245
 ---

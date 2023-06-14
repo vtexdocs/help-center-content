@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: vale-2-cartoes-na-versao-5-do-checkout-recalcula-o-valor-a-ser-pago-em-cada-cartao
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

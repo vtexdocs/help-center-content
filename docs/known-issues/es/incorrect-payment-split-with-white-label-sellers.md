@@ -11,6 +11,7 @@ productTeam: Shopping
 author: authors_41
 tag: Checkout,Order Management,Payments
 slug: split-de-pago-incorrecto-con-sellers-white-label
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 5l3eEiSz8MpcppCxcnijGz
 slug: conversational-commerce-nova-configuracao-de-atendimento-humano
+locale: pt
 legacySlug: conversational-commerce-nova-configuracao-de-atendimento-humano
 announcementImageID: ''
 announcementSynopsisPT: 'Atendimento Humano é a configuração do Conversational Commerce que possibilita o atendimento ao cliente via WhatsApp.'

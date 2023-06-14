@@ -11,6 +11,7 @@ productTeam: Physical Stores
 author: 2mXZkbi0oi061KicTExNjo
 tag: Physical Stores
 slug: instore-no-lee-correctamente-el-html-registrado-en-la-informacion-del-producto
+locale: es
 kiStatus: Backlog
 internalReference: 718136
 ---

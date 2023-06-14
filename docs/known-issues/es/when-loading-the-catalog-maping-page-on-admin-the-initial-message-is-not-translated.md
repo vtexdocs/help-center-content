@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: al-cargar-la-pagina-catalog-maping-en-admin-no-se-traduce-el-mensaje-inicial
+locale: es
 kiStatus: Backlog
 internalReference: 717066
 ---

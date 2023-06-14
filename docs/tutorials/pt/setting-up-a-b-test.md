@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_64
 slug: configurar-teste-a-b
+locale: pt
 legacySlug: configurar-teste-a-b
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

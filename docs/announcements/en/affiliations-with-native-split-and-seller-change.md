@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: affiliations-with-native-split-and-seller-change
+locale: en
 legacySlug: affiliations-with-native-split-and-seller-change
 announcementImageID: ''
 announcementSynopsisEN: 'New capture behaviors allow seller change and make marketplaces flexible with native split affiliations.'

@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: the-user-cannot-make-a-daily-subscription-directly-from-the-mysubscriptions-area
+locale: en
 kiStatus: Backlog
 internalReference: 430650
 ---

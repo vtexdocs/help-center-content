@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: pesquisa-de-enderecos-do-google-maps-nao-filtrada-pelo-pais-selecionado-em-alguns-cenarios
+locale: pt
 kiStatus: Backlog
 internalReference: 727408
 ---

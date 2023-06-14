@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: pronto-para-envio
+locale: pt
 legacySlug: pronto-para-envio
 subcategory: 5n5MnINzWTQUX1I2EZl4Ib
 ---

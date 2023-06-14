@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: authors_24
 slug: lojas-tem-ate-20-de-abril-para-ativar-nova-cdn
+locale: pt
 legacySlug: lojas-tem-ate-20-de-abril-para-ativar-nova-cdn
 announcementImageID: ''
 announcementSynopsisPT: 'A nova CDN da VTEX já estava disponível desde outubro de 2017, trazendo mais segurança e melhor performance.'

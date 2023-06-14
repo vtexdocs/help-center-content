@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: add-image-to-product-description
+locale: en
 legacySlug: add-image-to-product-description
 subcategory: pwxWmUu7T222QyuGogs68
 ---

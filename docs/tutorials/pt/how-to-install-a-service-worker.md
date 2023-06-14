@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: como-instalar-um-service-worker
+locale: pt
 legacySlug: como-instalar-um-service-worker
 subcategory: 
 ---

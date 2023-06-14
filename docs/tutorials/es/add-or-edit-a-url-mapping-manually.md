@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: agregar-o-editar-un-mapeo-de-url-manualmente
+locale: es
 legacySlug: agregar-o-editar-un-mapeo-de-url-manualmente
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

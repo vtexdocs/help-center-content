@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: editei-um-placeholder-e-o-site-nao-atualiza-o-que-fazer
+locale: pt
 legacySlug: editei-um-placeholder-e-o-site-nao-atualiza-o-que-fazer
 ---
 

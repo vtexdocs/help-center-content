@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Pricing & Promotions
 slug: its-not-possible-to-schedule-prices-for-a-range-of-hours
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: as-informacoes-do-cliente-nao-sao-salvas-no-sistema-de-perfil
+locale: pt
 kiStatus: Backlog
 internalReference: 784763
 ---

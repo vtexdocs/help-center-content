@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: authors_59
 slug: vtex-releases-new-pickup-points-feature
+locale: en
 legacySlug: vtex-releases-new-pickup-points-feature
 announcementImageID: ''
 announcementSynopsisEN: 'Using the concept of Delivery Channels, we changed the registration and administration of order picking points.'

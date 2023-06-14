@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: redondeo-de-totalvalue-en-listorders
+locale: es
 kiStatus: Backlog
 internalReference: 756314
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: authors_24
 slug: versiones-previas-del-script-vtex-id-se-descontinuaran
+locale: es
 legacySlug: versiones-previas-del-script-vtex-id-se-descontinuaran
 announcementImageID: ''
 announcementSynopsisES: 'A partir del 21 de mayo, sólo la versión más actual del script del VTEX ID tendrá soporte de la plataforma.'

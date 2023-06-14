@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: authors_24
 slug: smartcheckout-tm-new-version-already-available-for-all-stores
+locale: en
 legacySlug: smartcheckout-tm-new-version-already-available-for-all-stores
 announcementImageID: ''
 announcementSynopsisEN: "SmartCheckout™, VTEX's no login and no password one-click-buy checkout, is now fully updated to it's fifth version."

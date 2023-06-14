@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: divergencia-en-el-prorrateo-de-impuestos
+locale: es
 kiStatus: Backlog
 internalReference: 561466
 ---

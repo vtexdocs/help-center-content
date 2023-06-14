@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: planilha-de-frete
+locale: pt
 legacySlug: como-montar-a-planilha-de-frete, importar-planilha-de-frete
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---
@@ -180,7 +181,7 @@ Para fins de usabilidade de termos, utilizamos em nossa documentação o termo "
 
 Veja abaixo um exemplo de preenchimento dos campos, considerando o formato aceito em cada coluna. 
 
-![modelo_planilhanumerica](//images.ctfassets.net/alneenqid6w5/15Dc2cfsXWbIwSt2vypWN3/20628e9acf5336c3fefcc84d334c08ec/freight_-_Debora_Moreno.png)
+![modelo_planilhanumerica](https://images.ctfassets.net/alneenqid6w5/15Dc2cfsXWbIwSt2vypWN3/20628e9acf5336c3fefcc84d334c08ec/freight_-_Debora_Moreno.png)
 
 ### Planilha para os Correios
 

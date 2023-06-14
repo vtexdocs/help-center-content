@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: configurar-paypal-plus-paypal-transparente
+locale: pt
 legacySlug: configurar-paypal-plus-paypal-transparente
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

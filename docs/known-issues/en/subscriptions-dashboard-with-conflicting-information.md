@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: subscriptions-dashboard-with-conflicting-information
+locale: en
 kiStatus: Backlog
 internalReference: 587579
 ---

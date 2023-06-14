@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_35
 slug: como-utilizar-el-vtex-predictor-bot
+locale: es
 legacySlug: como-utilizar-el-vtex-predictor-bot
 subcategory: 5zTyefbWFicMY2awMyU2SM
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-metodo-webservice-stockkeepingunitinsertupdate-permite-insertar-un-refid-existente
+locale: es
 kiStatus: Backlog
 internalReference: 419460
 ---

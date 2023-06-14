@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-search-api-utilizando-oorderbynameasc-o-oorderbynamedesc-devuelve-los-resultados-teniendo-en-cuenta-la-diferencia-entre-minusculas-y-mayusculas-de-la-primera-letra
+locale: es
 kiStatus: Backlog
 internalReference: 305247
 ---

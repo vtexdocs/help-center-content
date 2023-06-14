@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: suggestions-transforming-unitmultiplier-less-than-1-to-0
+locale: en
 kiStatus: Fixed
 internalReference: 702056
 ---

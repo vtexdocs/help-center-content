@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: 245tA425AIeioKAk2eaiwS
 slug: conozca-el-security-wizard-de-license-manager
+locale: es
 legacySlug: conozca-el-security-wizard-de-license-manager
 announcementImageID: ''
 announcementSynopsisES: 'Una nueva funcionalidad que te ayuda a administrar y revisar los permisos de quien accede al admin de tu tienda.'

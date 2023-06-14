@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: el-nuevo-report-del-oms-permite-la-exportacion-de-hasta-5000-solicitudes
+locale: es
 legacySlug: el-nuevo-report-del-oms-permite-la-exportacion-de-hasta-5000-solicitudes
 announcementImageID: ''
 announcementSynopsisES: 'A partir del 13/12, usted podrá exportar hasta 5 mil pedidos de una sola vez en el módulo de Gestión de Pedidos.'

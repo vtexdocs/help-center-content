@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: a-interface-do-usuario-usa-o-sla-errado-quando-vendedores-diferentes-sao-selecionados-para-entrega-e-coleta
+locale: pt
 kiStatus: Backlog
 internalReference: 797023
 ---

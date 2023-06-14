@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: o-que-e-mapeamento-de-url-redirecionamento-301
+locale: pt
 legacySlug: o-que-e-mapeamento-de-url-redirecionamento-301
 ---
 

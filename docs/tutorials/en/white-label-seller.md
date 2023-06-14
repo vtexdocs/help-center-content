@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: white-label-seller
+locale: en
 legacySlug: what-are-franchise-account-and-seller-white-label
 subcategory: 3vhg10rO4MSmy06KeIYMIa
 ---

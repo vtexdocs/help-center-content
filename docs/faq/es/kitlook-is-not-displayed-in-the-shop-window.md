@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 46GzPBzfVykEtIav6Pn2J8
 slug: kitlook-no-se-muestra-en-la-vitrina
+locale: es
 legacySlug: untitled-entry-2019-02-20-at-05-47-19
 ---
 
@@ -31,7 +32,7 @@ __Llene el campo Label__
 4. Vaya a la pestaña __Imágenes__;
 5. Introduzca un término para llenar la __Label__;
 
-  ![Kit Look - Label - ES](//images.ctfassets.net/alneenqid6w5/7FR879Lzl3eEDmAHiBV0TV/63dcfae1b88d48e1a8582c43cfa9af81/7FR879Lzl3eEDmAHiBV0TV_es.jpg)
+  ![Kit Look - Label - ES](https://images.ctfassets.net/alneenqid6w5/7FR879Lzl3eEDmAHiBV0TV/63dcfae1b88d48e1a8582c43cfa9af81/7FR879Lzl3eEDmAHiBV0TV_es.jpg)
 
 6. Haga clic en __Guardar__.
 

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_24
 slug: por-que-el-regalo-aparece-como-no-disponible
+locale: es
 legacySlug: por-que-el-regalo-aparece-como-no-disponible
 ---
 

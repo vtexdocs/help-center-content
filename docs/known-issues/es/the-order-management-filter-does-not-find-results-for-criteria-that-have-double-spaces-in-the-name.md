@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: el-filtro-de-gestion-de-pedidos-no-encuentra-resultados-para-los-criterios-que-tienen-espacios-dobles-en-el-nombre
+locale: es
 kiStatus: Backlog
 internalReference: 353656
 ---

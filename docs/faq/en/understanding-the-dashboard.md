@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Others
 author: authors_84
 slug: understanding-the-dashboard
+locale: en
 legacySlug: understand-the-dashboard
 ---
 

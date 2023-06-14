@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_84
 slug: comprar-en-nombre-del-cliente-por-el-televentas
+locale: es
 legacySlug: comprar-en-nombre-del-cliente-por-el-televentas
 subcategory: 1HSqkejwuYcQSMC400uY84
 ---

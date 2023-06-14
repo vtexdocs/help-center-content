@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: que-es-el-carrito-compartido
+locale: es
 legacySlug: que-es-el-carrito-compartido
 subcategory: 8AGXmtpbTqUE2KQu0Swwk
 ---

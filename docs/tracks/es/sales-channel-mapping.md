@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-30T01:10:12.866Z
 contentType: trackArticle
 productTeam: Apps
 slug: mapeo-de-canales-de-venta
+locale: es
 trackId: 2KDrouPiE4HDKUFFSG3KdN
 trackSlugES: integracion-de-lengow
 ---

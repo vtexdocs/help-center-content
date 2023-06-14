@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: a-cidade-e-o-estado-nao-sao-enviados-ao-paypalplus-quando-ha-apenas-um-endereco-de-retirada-disponivel
+locale: pt
 kiStatus: Backlog
 internalReference: 836025
 ---

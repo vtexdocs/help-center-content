@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: criar-um-workspace-de-desenvolvimento
+locale: pt
 legacySlug: criar-um-workspace-de-desenvolvimento
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

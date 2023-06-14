@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: a-integracao-mercadopagov1-nao-funciona-com-a-funcionalidade-salvar-cartao
+locale: pt
 kiStatus: No Fix
 internalReference: 283727
 ---

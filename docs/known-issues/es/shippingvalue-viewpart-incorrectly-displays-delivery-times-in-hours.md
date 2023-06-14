@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: viewpart-shippingvalue-no-muestra-los-plazos-en-horas-correctamente
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

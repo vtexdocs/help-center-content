@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 
 slug: por-que-criamos-o-vtex-io
+locale: pt
 legacySlug: por-que-criamos-o-vtex-io
 subcategory: 
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: new-collections-page-not-loading
+locale: en
 kiStatus: Backlog
 internalReference: 419729
 ---

@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: la-api-shipping-estimate-devuelve-informacion-erronea-cuando-la-sc-es-nula
+locale: es
 kiStatus: Backlog
 internalReference: 554948
 ---

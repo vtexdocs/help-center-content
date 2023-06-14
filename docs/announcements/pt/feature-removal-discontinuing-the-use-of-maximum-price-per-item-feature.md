@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 71cQH3Q0oKXzeY2DmMZRKX
 slug: feature-removal-descontinuacao-da-feature-de-preco-maximo-por-item
+locale: pt
 legacySlug: feature-removal-descontinuacao-da-feature-de-preco-maximo-por-item
 announcementImageID: ''
 announcementSynopsisPT: 'Você pode utilizar a nova feature de Promoções por Tabela de Preço para atender aos cenários da feature descontinuada.'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: como-configurar-o-pagseguro-sem-redirect-transparente
+locale: pt
 legacySlug: como-configurar-o-pagseguro-sem-redirect-transparente
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

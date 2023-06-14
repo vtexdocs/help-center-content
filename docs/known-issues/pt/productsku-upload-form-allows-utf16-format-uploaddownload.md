@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: o-formulario-de-upload-do-produtosku-permite-uploaddownload-do-formato-utf16
+locale: pt
 kiStatus: Backlog
 internalReference: 493402
 ---

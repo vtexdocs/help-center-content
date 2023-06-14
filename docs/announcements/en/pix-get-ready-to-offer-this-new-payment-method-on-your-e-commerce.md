@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 5kCzbURAoPwM0YJGmMCLyD
 slug: pix-get-ready-to-offer-this-new-payment-method-on-your-e-commerce
+locale: en
 legacySlug: pix-get-ready-to-offer-this-new-payment-method-on-your-e-commerce
 announcementImageID: ''
 announcementSynopsisEN: 'Payment provider protocol, VTEX’s integration protocol for payments, already supports Pix as a payment method.'

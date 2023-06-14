@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: errores-de-integracion-de-pedidos-de-netshoes
+locale: es
 legacySlug: errores-de-integracion-de-pedidos-de-netshoes
 subcategory: 5m1qqfnmfYKsO0KiOQC8Ky
 ---

@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: pedido-sin-suscripcion-creado-y-sin-correo-electronico-de-nuevos-pedidos-en-casos-relacionados-con-el-metodo-de-pago-utilizando-conectores-como-payment-app-o-redirect
+locale: es
 kiStatus: Backlog
 internalReference: 529143
 ---

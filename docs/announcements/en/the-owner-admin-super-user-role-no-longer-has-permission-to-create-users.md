@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: the-owner-admin-super-user-role-no-longer-has-permission-to-create-users
+locale: en
 legacySlug: 
 announcementImageID: ''
 announcementSynopsisEN: 'The Owner (Admin Super) role no longer includes the Save user resource, related to user management capabilities.'

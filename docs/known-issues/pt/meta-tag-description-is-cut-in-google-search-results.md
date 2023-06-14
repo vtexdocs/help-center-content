@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: meta-tag-description-fica-cortada-nos-resultados-do-google
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

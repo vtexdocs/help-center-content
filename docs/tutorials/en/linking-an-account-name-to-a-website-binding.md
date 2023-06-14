@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: linking-an-account-name-to-a-website-binding
+locale: en
 legacySlug: linking-an-account-name-to-a-website-binding
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

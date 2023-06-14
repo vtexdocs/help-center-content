@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: moeda-incorreta-em-usd-exibida-em-alguns-locais
+locale: pt
 kiStatus: Backlog
 internalReference: 414901
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: a-transacao-decidirv1-foi-reprocessada-apos-algumas-tentativas-de-autorizacao
+locale: pt
 kiStatus: Backlog
 internalReference: 384009
 ---

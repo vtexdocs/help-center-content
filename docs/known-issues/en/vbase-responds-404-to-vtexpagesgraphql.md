@@ -11,6 +11,7 @@ productTeam: Apps
 author: 2mXZkbi0oi061KicTExNjo
 tag: Apps
 slug: vbase-responds-404-to-vtexpagesgraphql
+locale: en
 kiStatus: Backlog
 internalReference: 822031
 ---

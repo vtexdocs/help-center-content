@@ -11,6 +11,7 @@ productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
 slug: customers-cant-see-products-catalog-page-after-logging-in
+locale: pt
 kiStatus: Backlog
 internalReference: 550112
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: why-is-the-product-name-duplicated
+locale: en
 legacySlug: why-is-the-product-name-duplicated
 ---
 

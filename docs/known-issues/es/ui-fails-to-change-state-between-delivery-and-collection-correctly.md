@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-interfaz-de-usuario-no-cambia-correctamente-el-estado-entre-la-entrega-y-la-recogida
+locale: es
 kiStatus: Backlog
 internalReference: 526736
 ---

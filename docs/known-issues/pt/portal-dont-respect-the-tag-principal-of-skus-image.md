@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: o-portal-nao-respeita-a-etiqueta-principal-da-imagem-da-sku
+locale: pt
 kiStatus: Backlog
 internalReference: 712443
 ---

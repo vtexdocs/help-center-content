@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: como-recebo-o-dinheiro-das-minhas-vendas
+locale: pt
 legacySlug: como-recebo-o-dinheiro-das-minhas-vendas
 subcategory: 7DxGppMM2tOzQN4LFVo2Lg
 ---

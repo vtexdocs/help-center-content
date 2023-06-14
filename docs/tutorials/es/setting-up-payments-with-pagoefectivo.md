@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-pagos-con-pagoefectivo
+locale: es
 legacySlug: configurar-pagos-con-pagoefectivo
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

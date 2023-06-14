@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: instalar-a-cli-do-vtex-io
+locale: pt
 legacySlug: como-instalar-a-cli-do-vtex-io
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

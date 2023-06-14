@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: rastreamento-google-search-console-erros-de-rastreamento
+locale: pt
 legacySlug: rastreamento-google-search-console-erros-de-rastreamento
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

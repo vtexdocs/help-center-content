@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: link-nao-sei-meu-cep-na-criacao-de-listas-de-casamento-redireciona-para-a-propria-pagina-de-criacao-de-listas-de-casamento
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2022-01-04T22:05:35.816Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-regra-de-divergencia-de-valores-carrefour
+locale: pt
 trackId: 2wYlj07cNuA8k8mmwY86K2
 trackSlugPT: configurar-integracao-com-o-carrefour
 ---

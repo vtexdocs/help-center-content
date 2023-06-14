@@ -9,6 +9,7 @@ firstPublishedAt: 2019-10-23T14:42:24.088Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: cubagem-fator-de-cubagem-e-como-calcular-peso-cubado
+locale: pt
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugPT: logistica-101
 ---

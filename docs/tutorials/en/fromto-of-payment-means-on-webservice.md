@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: fromto-of-payment-means-on-webservice
+locale: en
 legacySlug: fromto-of-payment-means-on-webservice
 subcategory: 1vwB9FtTSQmcSewQw02QoW
 ---

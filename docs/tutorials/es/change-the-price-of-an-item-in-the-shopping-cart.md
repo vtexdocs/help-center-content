@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: cambiar-el-precio-de-un-item-en-el-carrito-de-compras
+locale: es
 legacySlug: cambiar-el-precio-de-un-item-en-el-carrito-de-compras
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---
@@ -32,7 +33,7 @@ Después de [habilitar la funcionalidad](https://developers.vtex.com/vtex-rest-a
 3. Cambie el precio al valor deseado y presione `ENTER`.
 4. Haga clic en `Cerrar pedido`.
 
-![manualprice](//images.ctfassets.net/alneenqid6w5/6lKNt1yT41wOQCRv5Yv6ge/a2c63f9fd22cbc180cb95ca790ab7b61/manualprice.gif)
+![manualprice](https://images.ctfassets.net/alneenqid6w5/6lKNt1yT41wOQCRv5Yv6ge/a2c63f9fd22cbc180cb95ca790ab7b61/manualprice.gif)
 
 Además de la configuración en la pantalla de Checkout , el precio de un producto también se puede modificar a través de la API [Change Price](https://developers.vtex.com/vtex-rest-api/reference/pricechange), obtenga más información en [Setting the price of an item manually](https://developers.vtex.com/vtex-rest-api/docs/enable-the-manual-price#setting-the-price-of-an-item-manually).
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_59
 slug: registering-holidays
+locale: en
 legacySlug: registering-holidays
 subcategory: 6F0Qup9onmEM2wsEsEsUQa
 ---

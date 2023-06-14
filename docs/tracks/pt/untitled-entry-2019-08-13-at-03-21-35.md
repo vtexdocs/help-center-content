@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: 
 slug: centro-de-distribuicao-definicao-de-conceito
+locale: pt
 trackId: 
 trackSlugPT: 
 ---

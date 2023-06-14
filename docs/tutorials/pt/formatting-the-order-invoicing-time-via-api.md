@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: formatar-o-horario-de-faturamento-do-pedido-via-api
+locale: pt
 legacySlug: formatar-o-horario-de-faturamento-do-pedido-via-api
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

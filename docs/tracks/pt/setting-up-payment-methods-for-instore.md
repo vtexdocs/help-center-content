@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T15:17:02.889Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configurar-metodos-de-pagamento-para-o-instore
+locale: pt
 trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugPT: instore-pagamentos
 ---

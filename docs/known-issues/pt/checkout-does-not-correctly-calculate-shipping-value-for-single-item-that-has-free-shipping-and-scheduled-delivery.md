@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-checkout-nao-calcula-corretamente-o-valor-do-frete-para-um-unico-item-que-tenha-frete-gratuito-e-entrega-programada
+locale: pt
 kiStatus: Backlog
 internalReference: 529043
 ---

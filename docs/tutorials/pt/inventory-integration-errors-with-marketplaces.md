@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: erros-de-integracao-de-estoque-com-marketplaces
+locale: pt
 legacySlug: erros-de-integracao-de-estoque-com-marketplaces
 subcategory: 7lxg0kyL3TYIsrlSQlf1zP
 ---

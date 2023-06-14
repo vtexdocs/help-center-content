@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: agendamento-para-eventos-especiais
+locale: pt
 legacySlug: agendamento-para-eventos-especiais
 subcategory: 6JKhEq9rlIFpyrLoOBERot
 ---
@@ -69,7 +70,7 @@ Para agendar um conteúdo da sua loja, siga os passos abaixo:
 3. Use o campo URL no canto superior para navegar até a página que exibe o bloco cujo conteúdo será sobrescrito.
 4. Selecione o bloco para o qual deseja criar um novo conteúdo. Você pode selecioná-lo usando a lista no canto direito ou através da interface:
 
-![seta-interface](//images.ctfassets.net/alneenqid6w5/6IhPT84ZmkV83ooydYNLLc/89b848f0f5678a4ce69c9f095e3abcbc/seta-interface.png)
+![seta-interface](https://images.ctfassets.net/alneenqid6w5/6IhPT84ZmkV83ooydYNLLc/89b848f0f5678a4ce69c9f095e3abcbc/seta-interface.png)
 
 5. Clique em `Configurações` no canto superior direito.
 6. Clique no botão `Novo conteúdo`.

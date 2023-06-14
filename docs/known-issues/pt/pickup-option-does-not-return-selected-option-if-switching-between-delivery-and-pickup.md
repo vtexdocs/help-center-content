@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: a-opcao-de-coleta-nao-retorna-a-opcao-selecionada-se-a-troca-entre-a-entrega-e-a-coleta
+locale: pt
 kiStatus: Backlog
 internalReference: 588394
 ---

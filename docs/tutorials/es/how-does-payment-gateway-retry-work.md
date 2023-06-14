@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: como-funciona-el-reintento-del-gateway-de-pagos
+locale: es
 legacySlug: como-funciona-el-reintento-del-gateway-de-pagos
 subcategory: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---

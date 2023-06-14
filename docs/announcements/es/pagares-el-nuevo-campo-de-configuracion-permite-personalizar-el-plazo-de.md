@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: promissories-new-field-allows-you-to-customize-the-invoicing-time-frame
+locale: es
 legacySlug: promissories-new-field-allows-you-to-customize-the-invoicing-time-frame
 announcementImageID: ''
 announcementSynopsisES: 'Tenga más flexibilidad con el nuevo campo de facturación automática en la configuración de pagarés.'

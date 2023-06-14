@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_24
 slug: how-to-insert-a-reverse-proxy-in-front-of-vtex-services
+locale: en
 legacySlug: why-we-do-not-recommend-inserting-a-reverse-proxy-in-front-of-vtex-services
 subcategory: 2Za4fjGfxYOo6oqykukgyy
 ---

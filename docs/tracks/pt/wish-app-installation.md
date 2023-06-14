@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-19T17:27:59.799Z
 contentType: trackArticle
 productTeam: Channels
 slug: instalacao-do-app-da-wish
+locale: pt
 trackId: 50hbG4bzhSIhjz1lzqI1g4
 trackSlugPT: integracao-com-a-wish
 ---

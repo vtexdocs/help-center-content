@@ -9,6 +9,7 @@ firstPublishedAt: 2020-11-06T19:14:25.813Z
 contentType: trackArticle
 productTeam: Financial
 slug: o-que-e-o-split-de-pagamento
+locale: pt
 trackId: 1ouDg8q56Kuz1AgtJUY9nv
 trackSlugPT: split-de-pagamentos
 ---

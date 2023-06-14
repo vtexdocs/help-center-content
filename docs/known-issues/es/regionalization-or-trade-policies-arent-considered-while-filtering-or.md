@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: authors_84
 tag: Intelligent Search
 slug: la-regionalizacion-o-las-politicas-comerciales-no-se-tienen-en-cuenta-al
+locale: es
 kiStatus: Backlog
 internalReference: 571101
 ---

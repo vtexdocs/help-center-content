@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: lixeira-enviada-nao-corresponde-a-uma-marca-de-cartao-associada
+locale: pt
 kiStatus: Backlog
 internalReference: 308896
 ---

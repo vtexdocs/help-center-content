@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: authors_24
 slug: now-you-can-export-up-to-20-thousand-orders-at-the-same-time
+locale: en
 legacySlug: now-you-can-export-up-to-20-thousand-orders-at-the-same-time
 announcementImageID: ''
 announcementSynopsisEN: 'We increased the limit of orders exported per file from 7,000 to 20,000. And this limit will soon be 50,000.'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: como-personalizar-uma-pagina-usando-placeholder
+locale: pt
 legacySlug: como-personalizar-uma-pagina-usando-placeholder
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

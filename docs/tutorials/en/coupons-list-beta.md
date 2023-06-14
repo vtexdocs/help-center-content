@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: coupons-list-beta
+locale: en
 legacySlug: coupons-list-beta
 subcategory: 1TXh7VjDSIGA2eSI0CmUsi
 ---
@@ -30,7 +31,7 @@ On this page, you can:
 
 To access this page in the VTEX Admin, click **Promotions > Coupons**.
 
-![lista-cupons](//images.ctfassets.net/alneenqid6w5/3KpOX5OW4oM5dBUNxkc0YP/d525a4dd9ed00d8895cd6be9fc96b538/screencapture-coupons-pricingqa-myvtex-admin-coupons-2022-04-29-18_15_22_1.png)
+![lista-cupons](https://images.ctfassets.net/alneenqid6w5/3KpOX5OW4oM5dBUNxkc0YP/d525a4dd9ed00d8895cd6be9fc96b538/screencapture-coupons-pricingqa-myvtex-admin-coupons-2022-04-29-18_15_22_1.png)
 
 Below you will find a description of the page components and the actions you can perform.
 
@@ -82,7 +83,7 @@ The generated file contains the information described below.
 
 Here is an example of an exported CSV file:
 
-![cupons-exportados](//images.ctfassets.net/alneenqid6w5/3BiCzXoNpaMM1ZpkBoa3Nr/921b74b837ae69f974aef332dc8d816a/image3.png)
+![cupons-exportados](https://images.ctfassets.net/alneenqid6w5/3BiCzXoNpaMM1ZpkBoa3Nr/921b74b837ae69f974aef332dc8d816a/image3.png)
 
 #### Exporting coupon batch codes
 
@@ -99,13 +100,13 @@ To view or export all the codes within a coupon batch, you must follow the steps
     * <i class="far fa-clone"></i> **Copy all:** Allows you to copy the generated codes to your clipboard. You can also copy each code individually by clicking it.
     * **Export:** Allows exporting the generated coupons to a CSV file. The exported file contains a single column, with one code per row.
 
-![export-coupons](//images.ctfassets.net/alneenqid6w5/P8bIJHkyTTi2jVZ325rko/92c61578ca7684d4f9a80dbcf0b5f690/image_7.png)
+![export-coupons](https://images.ctfassets.net/alneenqid6w5/P8bIJHkyTTi2jVZ325rko/92c61578ca7684d4f9a80dbcf0b5f690/image_7.png)
 
 ### View coupon usage
 
 To view the total number of active coupons and the remaining available space for new coupons, click <i class="fas fa-chart-line"></i> `Coupon usage`.
 
-![coupon-usage](//images.ctfassets.net/alneenqid6w5/CaNOtLMQXu26MGYfaAe4o/7773a8f9dc9f68d349183cad1dcc082a/image_8.png)
+![coupon-usage](https://images.ctfassets.net/alneenqid6w5/CaNOtLMQXu26MGYfaAe4o/7773a8f9dc9f68d349183cad1dcc082a/image_8.png)
 
 You are allowed a maximum of five thousand active coupons. To free up space, you can archive coupons in the [Coupon list](#coupon-list). If you need to increase the limit of active coupons, please contact our [Support team](https://support.vtex.com/hc/en-us/requests).
 
@@ -154,13 +155,13 @@ The **View usage details** modal presents information on how each coupon was use
 
     This section presents the list of orders in which a coupon has been used and allows you to search by order number. When you click on the order number, you will be redirected to the order details page in **Orders management**.
 
-![view-usage-details](//images.ctfassets.net/alneenqid6w5/1bFOCXCpWwoXzJToacK3BM/628adb058ee54d89dc271d31abb9e26c/view-usage-details.png)
+![view-usage-details](https://images.ctfassets.net/alneenqid6w5/1bFOCXCpWwoXzJToacK3BM/628adb058ee54d89dc271d31abb9e26c/view-usage-details.png)
 
 * **General usage of the coupon codes** (coupon batches): Displays the total amount of times of the codes in a coupon batch have been used and the amount of remaining uses, if you have set a usage limit.
 
    This section also displays the list of codes in the coupon batch and allows you to search for a specific code. When you click on a code, you have access to the list of orders where the code has been used and you can search by an order number. Clicking on an order number will take you to the order details page in **Orders management**.
 
-![select-the-code-coupon-batch](//images.ctfassets.net/alneenqid6w5/25yE4tmkHYDm4MISaz9upH/e30ef211427e536244083f5ad2045fba/selecione-o-codigo-grupo-en.PNG)
+![select-the-code-coupon-batch](https://images.ctfassets.net/alneenqid6w5/25yE4tmkHYDm4MISaz9upH/e30ef211427e536244083f5ad2045fba/selecione-o-codigo-grupo-en.PNG)
 
 ## Learn more
 * [Coupons](https://help.vtex.com/en/tutorial/coupons-beta--1aAEN3ADpz19ss5JCIEBdL)

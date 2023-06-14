@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_35
 tag: Portal (CMS)
 slug: vale-nao-pode-ser-configurado-restrito-cnpj
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

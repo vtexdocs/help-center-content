@@ -11,6 +11,7 @@ productTeam: Channels
 author: 2mXZkbi0oi061KicTExNjo
 tag: Suggestions
 slug: quantidade-de-marcas-ultrapassa-o-limite-do-excel-na-planilha-de-mapeamento
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

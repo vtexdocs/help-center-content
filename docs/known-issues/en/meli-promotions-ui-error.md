@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: meli-promotions-ui-error
+locale: en
 kiStatus: Backlog
 internalReference: 797143
 ---

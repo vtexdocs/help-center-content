@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 tag: Order Management
 slug: assinaturas-impasse-entre-data-de-cobranca-e-frequencia-do-pedido
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

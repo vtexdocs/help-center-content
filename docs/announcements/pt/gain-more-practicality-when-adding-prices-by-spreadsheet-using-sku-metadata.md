@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 71cQH3Q0oKXzeY2DmMZRKX
 slug: tenha-mais-praticidade-para-cadastrar-precos-por-planilha-utilizando
+locale: pt
 legacySlug: tenha-mais-praticidade-para-cadastrar-precos-por-planilha-utilizando-metadados-dos-SKUs
 announcementImageID: ''
 announcementSynopsisPT: 'Nosso time de desenvolvimento adicionou mais uma funcionalidade ao módulo de preços.'

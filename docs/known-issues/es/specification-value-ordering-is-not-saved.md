@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-ordenacion-de-los-valores-de-las-especificaciones-no-se-guarda
+locale: es
 kiStatus: Backlog
 internalReference: 584182
 ---

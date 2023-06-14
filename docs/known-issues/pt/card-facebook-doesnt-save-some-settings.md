@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: o-facebook-do-cartao-nao-salva-algumas-configuracoes
+locale: pt
 kiStatus: Backlog
 internalReference: 548763
 ---

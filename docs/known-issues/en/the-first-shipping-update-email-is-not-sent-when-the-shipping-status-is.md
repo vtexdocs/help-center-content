@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2Gy429C47ie3tL9XUEjeFL
 tag: Message Center,Order Management
 slug: the-first-shipping-update-email-is-not-sent-when-the-shipping-status-is
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

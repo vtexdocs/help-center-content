@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: promotion-alerts-how-to-create-an-alert-beta
+locale: en
 legacySlug: promotion-alerts-how-to-create-an-alert-beta
 subcategory: 6iTRZiMeCGXYiO2ckABFZi
 ---

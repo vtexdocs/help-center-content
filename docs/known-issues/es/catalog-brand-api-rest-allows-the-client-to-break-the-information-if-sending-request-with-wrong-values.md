@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: catalog-brand-api-rest-permite-al-cliente-romper-la-informacion-si-envia-la-peticion-con-valores-erroneos
+locale: es
 kiStatus: Fixed
 internalReference: 269109
 ---

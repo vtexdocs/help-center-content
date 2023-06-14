@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:29:48.260Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: usando-controles-nativos-da-vtex
+locale: pt
 trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugPT: cms
 ---

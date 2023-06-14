@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: erro-de-configuracao-de-lojas-guarda-chuva
+locale: pt
 legacySlug: erro-de-configuracao-de-lojas-guarda-chuva
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

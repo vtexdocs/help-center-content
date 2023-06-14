@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: horario-de-atencion-de-las-transportadoras
+locale: es
 legacySlug: configurar-horario-de-funcionamiento-para-transportistas, configurar-los-horarios-de-la-transportadora
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: sequencial-suiteshare
+locale: en
 legacySlug: sequencial
 subcategory: 4y4ylvqceE6vVqEF8IWZix
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: por-que-a-data-prometida-diverge-com-a-data-de-entrega
+locale: pt
 legacySlug: por-que-a-data-prometida-diverge-com-a-data-de-entrega
 ---
 

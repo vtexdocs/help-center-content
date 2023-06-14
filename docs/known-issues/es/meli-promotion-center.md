@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: centro-de-promocion-meli
+locale: es
 kiStatus: Backlog
 internalReference: 600922
 ---

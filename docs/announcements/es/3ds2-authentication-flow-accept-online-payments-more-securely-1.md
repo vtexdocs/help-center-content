@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: flujo-de-autenticacion-3ds2-acepte-pagos-en-linea-de-forma-mas-segura-1
+locale: es
 legacySlug: flujo-de-autenticacion-3ds2-acepte-pagos-en-linea-de-forma-mas-segura
 announcementImageID: ''
 announcementSynopsisES: 'El nuevo protocolo implementa un proceso de verificación de datos del cliente final más robusto y moderno'

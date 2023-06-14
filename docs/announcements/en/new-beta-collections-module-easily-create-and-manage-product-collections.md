@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: new-beta-collections-module-easily-create-and-manage-product-collections
+locale: en
 legacySlug: new-beta-collections-module-easily-create-and-manage-product-collections
 announcementImageID: ''
 announcementSynopsisEN: 'With the new Beta Collections module you can create collections more easily.'

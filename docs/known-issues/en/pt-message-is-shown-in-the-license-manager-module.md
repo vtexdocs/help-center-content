@@ -11,6 +11,7 @@ productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
 slug: pt-message-is-shown-in-the-license-manager-module
+locale: en
 kiStatus: Backlog
 internalReference: 620782
 ---

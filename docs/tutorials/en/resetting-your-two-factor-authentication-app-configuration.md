@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: resetting-your-two-factor-authentication-app-configuration
+locale: en
 legacySlug: resetting-your-two-factor-authentication-app-configuration
 subcategory: 4sY1T2qdFehvVmC0tL5xW3
 ---

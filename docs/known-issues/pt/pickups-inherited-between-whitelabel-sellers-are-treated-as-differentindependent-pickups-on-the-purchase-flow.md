@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: as-pickups-herdadas-entre-os-vendedores-whitelabel-sao-tratadas-como-pickups-diferentesindependentes-no-fluxo-de-compra
+locale: pt
 kiStatus: Backlog
 internalReference: 438630
 ---

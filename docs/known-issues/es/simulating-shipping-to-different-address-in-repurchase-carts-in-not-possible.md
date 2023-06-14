@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: no-es-posible-simular-cargas-en-carritos-de-recompra-para-diferentes-direcciones
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

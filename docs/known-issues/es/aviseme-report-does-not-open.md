@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: informe-de-aviseme-no-se-abre
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

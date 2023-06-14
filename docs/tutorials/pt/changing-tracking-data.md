@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: alterar-dados-de-rastreio
+locale: pt
 legacySlug: alterar-dados-de-rastreio-beta
 subcategory: 3VNOhxDrvYxJThhuJClrYZ
 ---
@@ -37,4 +38,4 @@ Para alterar os dados de um pedido manualmente, siga os passos abaixo:
     * **Selecionar transportadora:** selecione qual transportadora realizará a entrega.
 7. Clique em `Salvar`.
 
-![Fatura](//images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/0dc623d9ea7bff059e5a52f90584b4c4/Fatura__2_.png)
+![Fatura](https://images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/0dc623d9ea7bff059e5a52f90584b4c4/Fatura__2_.png)

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: promoting-a-workspace-to-master
+locale: en
 legacySlug: promoting-a-workspace-to-master
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

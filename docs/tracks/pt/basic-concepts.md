@@ -9,6 +9,7 @@ firstPublishedAt: 2021-05-10T16:56:02.874Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: conceitos-basicos
+locale: pt
 trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugPT: cms
 ---

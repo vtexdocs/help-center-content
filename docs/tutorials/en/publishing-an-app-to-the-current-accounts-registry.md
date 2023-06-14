@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: publishing-an-app-to-the-current-accounts-registry
+locale: en
 legacySlug: publishing-the-app-to-the-current-accounts-registry
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

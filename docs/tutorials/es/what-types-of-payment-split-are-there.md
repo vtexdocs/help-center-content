@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: cuales-son-los-tipos-de-split-de-pago
+locale: es
 legacySlug: cuales-son-los-tipos-de-split-de-pago
 subcategory: 5tlIjp0ZkAU4EIk4OgyEmm
 ---

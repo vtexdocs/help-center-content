@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: configuring-the-additional-freight
+locale: en
 legacySlug: configuring-the-additional-freight
 subcategory: 1UL6Q7nUN6SkA2g2SUsECi
 ---

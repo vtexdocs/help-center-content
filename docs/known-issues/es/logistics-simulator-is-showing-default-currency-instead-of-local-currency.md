@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: el-simulador-de-logistica-muestra-la-moneda-por-defecto-en-lugar-de-la-moneda-local
+locale: es
 kiStatus: Backlog
 internalReference: 514551
 ---

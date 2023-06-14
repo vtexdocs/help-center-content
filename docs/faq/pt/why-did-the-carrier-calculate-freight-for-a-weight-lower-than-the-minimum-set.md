@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
 slug: por-que-minha-transportadora-calculou-frete-para-um-peso-menor-do-que-o-minimo-configurado
+locale: pt
 legacySlug: por-que-minha-transportadora-calculou-frete-para-um-peso-menor-do-que-o-minimo-configurado
 ---
 

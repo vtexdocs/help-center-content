@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: get-seller-list-respondendo-com-urllogo-vazio
+locale: pt
 kiStatus: Fixed
 internalReference: 387508
 ---

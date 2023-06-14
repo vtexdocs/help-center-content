@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: o-limite-de-variacao-de-preco-so-funciona-na-politica-principal
+locale: pt
 kiStatus: Backlog
 internalReference: 509540
 ---

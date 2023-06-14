@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: usuario-recebe-mensagem-de-erro-no-primeiro-registro-em-minha-conta
+locale: pt
 kiStatus: Backlog
 internalReference: 619909
 ---

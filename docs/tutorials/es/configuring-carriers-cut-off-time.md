@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: configurar-los-horarios-de-la-transportadora
+locale: es
 legacySlug: configurar-los-horarios-de-la-transportadora
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

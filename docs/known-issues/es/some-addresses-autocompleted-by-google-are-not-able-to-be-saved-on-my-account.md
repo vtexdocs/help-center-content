@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: algunas-direcciones-autocompletadas-por-google-no-se-pueden-guardar-en-mi-cuenta
+locale: es
 kiStatus: Backlog
 internalReference: 415388
 ---

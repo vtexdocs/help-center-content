@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: placeorder-generando-valores-de-descuento-y-envio-erroneos-entre-articulos-que-aparecen-mas-de-una-vez
+locale: es
 kiStatus: Backlog
 internalReference: 732529
 ---

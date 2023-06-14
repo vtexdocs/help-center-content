@@ -9,6 +9,7 @@ firstPublishedAt: 2018-11-07T17:10:45.883Z
 contentType: trackArticle
 productTeam: Financial
 slug: managing-accounts
+locale: en
 trackId: 1hCRg21lXYy2seOKgqQ2CC
 trackSlugEN: customer-credit-getting-started
 ---

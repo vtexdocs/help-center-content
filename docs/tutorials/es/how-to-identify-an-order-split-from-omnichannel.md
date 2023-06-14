@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_35
 slug: como-identificar-split-de-pedidos-en-omnichannel
+locale: es
 legacySlug: como-identificar-split-de-pedidos-en-omnichannel
 subcategory: 3VNOhxDrvYxJThhuJClrYZ
 ---

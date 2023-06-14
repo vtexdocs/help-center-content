@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: los-fragmentos-enriquecidos-de-productos-no-utilizan-el-formato-aggregateoffer-para-las-ofertas-con-mas-de-un-vendedor
+locale: es
 kiStatus: Backlog
 internalReference: 753505
 ---

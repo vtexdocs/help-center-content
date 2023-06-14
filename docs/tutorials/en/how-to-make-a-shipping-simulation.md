@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 
 slug: how-to-make-a-shipping-simulation
+locale: en
 legacySlug: how-to-make-a-shipping-simulation
 subcategory: 1O8AEORWOcgIiMosGoousQ
 ---

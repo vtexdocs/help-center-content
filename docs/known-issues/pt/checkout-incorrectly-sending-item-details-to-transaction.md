@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: checkout-incorretamente-enviando-detalhes-do-item-para-a-transacao
+locale: pt
 kiStatus: Backlog
 internalReference: 535859
 ---

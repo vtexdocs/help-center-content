@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_59
 slug: por-que-um-pagamento-esta-parado-no-status-authorizing
+locale: pt
 legacySlug: 
 ---
 

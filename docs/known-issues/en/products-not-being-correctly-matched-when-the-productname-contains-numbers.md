@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: products-not-being-correctly-matched-when-the-productname-contains-numbers
+locale: en
 kiStatus: Backlog
 internalReference: 762525
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: divergency-in-apportioned-freight-values-per-item-between-chk-and-ffm-orders
+locale: en
 kiStatus: Backlog
 internalReference: 321111
 ---

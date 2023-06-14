@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: konduto-af-nao-pode-completar-um-pedido-quando-falta-a-contaid
+locale: pt
 kiStatus: Backlog
 internalReference: 496298
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: por-que-o-pedido-do-marketplace-nao-integrou
+locale: pt
 legacySlug: por-que-o-pedido-do-marketplace-nao-integrou
 ---
 

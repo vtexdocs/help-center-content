@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_3
 slug: configuracion-de-dominios-del-gestion-de-la-cuenta
+locale: es
 legacySlug: configuracion-de-dominios-del-license-manager
 subcategory: yMp6sKDiJEi66CGAIQ4ma
 ---

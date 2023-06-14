@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-18T12:20:18.851Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: ver-detalles-del-pedido
+locale: es
 trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugES: pedidos
 ---

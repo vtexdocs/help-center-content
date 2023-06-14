@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: querying-data-on-master-data
+locale: en
 legacySlug: querying-data-on-master-data
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---

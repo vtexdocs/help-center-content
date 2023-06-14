@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: configurar-pagamento-com-clickspace-olist
+locale: pt
 legacySlug: configurar-pagamento-com-clickspace-olist
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

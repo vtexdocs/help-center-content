@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: logistica-no-segmento-de-grocery-supermercados
+locale: pt
 legacySlug: logistica-no-segmento-de-grocery-supermercados
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

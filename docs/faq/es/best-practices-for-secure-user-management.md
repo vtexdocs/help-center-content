@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: 1E4UkWguFZAXjkguvNHPIv
 slug: mejores-practicas-de-seguridad-para-gestion-de-usuarios
+locale: es
 legacySlug: metodos-de-seguranca-para-criacao-de-perfis-de-usuarios-em-uma-loja
 ---
 

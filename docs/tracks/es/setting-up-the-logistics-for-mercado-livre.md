@@ -9,6 +9,7 @@ firstPublishedAt: 2018-08-13T14:27:58.483Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-la-logistica-para-mercado-libre
+locale: es
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugES: configurar-integracion-con-mercado-libre
 ---
@@ -120,7 +121,7 @@ Para configurar, realice los siguientes pasos:
 2. [Registra](https://help.vtex.com/es/tutorial/gerenciar-estoque) un stock.   
 3. Seleccione la pestaña **Almacenes** y copie el ID del stock que desea utilizar.  
 4. Accede a **Marketplace > Conexiones > Integraciones**, o escribe *Integraciones* en la barra de búsqueda en la parte superior de la página.  
-5. En la integración de Mercado Libre, haga clic en el ícono de engranaje <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />  y seleccione la opción `Editar configuración`.  
+5. En la integración de Mercado Libre, haga clic en el ícono de engranaje <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />  y seleccione la opción `Editar configuración`.  
 6. Ingrese el ID del stock seleccionado en el campo **Almacén Mercado Full**.  
 7. Para finalizar, haga clic en `Guardar Configuración`.  
 

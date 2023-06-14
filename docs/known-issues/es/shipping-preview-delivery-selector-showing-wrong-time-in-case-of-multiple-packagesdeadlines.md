@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-selector-de-entrega-de-la-vista-previa-de-envio-muestra-una-hora-incorrecta-en-caso-de-varios-paquetesfechas-limite
+locale: es
 kiStatus: Backlog
 internalReference: 264441
 ---

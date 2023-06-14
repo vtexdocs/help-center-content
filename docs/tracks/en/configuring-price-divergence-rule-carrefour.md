@@ -9,6 +9,7 @@ firstPublishedAt: 2022-01-04T22:05:35.816Z
 contentType: trackArticle
 productTeam: Channels
 slug: configuring-price-divergence-rule-carrefour
+locale: en
 trackId: 2wYlj07cNuA8k8mmwY86K2
 trackSlugEN: carrefour-integration-set-up
 ---

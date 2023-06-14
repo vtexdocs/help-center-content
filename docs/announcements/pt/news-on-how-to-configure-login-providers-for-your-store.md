@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: novidades-em-como-configurar-provedores-de-login-para-sua-loja
+locale: pt
 legacySlug: novidades-em-como-configurar-provedores-de-login-para-sua-loja
 announcementImageID: ''
 announcementSynopsisPT: 'Novidades em como configurar provedores de login para sua loja'

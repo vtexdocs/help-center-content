@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: button-cancel-inside-the-mycards-page-not-translated-to-spanish
+locale: en
 kiStatus: Backlog
 internalReference: 431200
 ---

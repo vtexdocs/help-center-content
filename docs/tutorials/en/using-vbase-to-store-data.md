@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1iryp847AQgmKGKIASeW8Y
 slug: using-vbase-to-store-data
+locale: en
 legacySlug: using-vbase-to-store-data
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

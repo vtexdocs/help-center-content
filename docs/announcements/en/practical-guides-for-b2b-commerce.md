@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: practical-guides-for-b2b-commerce
+locale: en
 legacySlug: practical-guides-for-b2b-commerce
 announcementImageID: ''
 announcementSynopsisEN: 'New tutorials present the main features available on the platform for different B2B ecommerce scenarios.'

@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: exportacao-do-filtro-de-marca-selecionando-menos-skus-do-que-o-esperado
+locale: pt
 kiStatus: Backlog
 internalReference: 597038
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: services-import
+locale: en
 legacySlug: services-import
 subcategory: 7GypxQ3HDmFVCHTNTwyhr0
 ---

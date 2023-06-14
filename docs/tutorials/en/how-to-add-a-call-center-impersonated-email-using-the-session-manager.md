@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_24
 slug: how-to-add-a-call-center-impersonated-email-using-the-session-manager
+locale: en
 legacySlug: how-to-add-a-call-center-impersonated-email-using-the-session-manager
 subcategory: dajK0sARX2c0MISKKoGoc
 ---

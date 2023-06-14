@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: edicion-lenta-de-archivos-de-checkout
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

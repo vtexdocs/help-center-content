@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: setting-up-braspag-gateway
+locale: en
 legacySlug: setting-up-braspag-gateway
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
 slug: ultima-oportunidad-para-comprar-entradas-para-el-vtex-training-day
+locale: es
 legacySlug: ultima-oportunidad-para-comprar-entradas-para-el-vtex-training-day
 announcementImageID: ''
 announcementSynopsisES: 'Aproveche esta oportunidad de hacer una inmersión completa en la plataforma y convertirse en un verdadero experto VTEX.'

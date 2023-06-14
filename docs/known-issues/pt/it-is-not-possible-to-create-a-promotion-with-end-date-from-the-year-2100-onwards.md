@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: nao-e-possivel-criar-uma-promocao-com-data-de-termino-a-partir-do-ano-2100
+locale: pt
 kiStatus: Backlog
 internalReference: 833957
 ---

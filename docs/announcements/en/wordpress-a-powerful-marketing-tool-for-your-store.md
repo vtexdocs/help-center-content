@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: wordpress-a-powerful-marketing-tool-for-your-store
+locale: en
 legacySlug: wordpress-a-powerful-marketing-tool-for-your-store
 announcementImageID: ''
 announcementSynopsisEN: 'Stores developed with VTEX IO can now display brand pages and blog posts within the store.'

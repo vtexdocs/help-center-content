@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-seletor-de-pais-para-endereco-de-faturamento-enquanto-no-modo-internacional-permanece-restrito-aos-paises-de-entrega
+locale: pt
 kiStatus: Backlog
 internalReference: 335581
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 3uCjaRpzeMieQWwWycYAMG
 slug: como-configurar-campos-adicionales-en-el-carrito-de-instore
+locale: es
 legacySlug: como-configurar-campos-adicionales-en-el-carrito-de-instore
 subcategory: 4T6qfa6gNO6g4sAUIa6s2G
 ---

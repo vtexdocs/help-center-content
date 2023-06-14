@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: o-credito-ao-cliente-nao-mostra-as-parcelas-corretamente
+locale: pt
 kiStatus: Backlog
 internalReference: 501730
 ---

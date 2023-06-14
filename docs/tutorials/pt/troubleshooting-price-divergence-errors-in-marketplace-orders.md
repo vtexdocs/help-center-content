@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace
+locale: pt
 legacySlug: resolucao-de-erros-de-divergencia-de-preco-em-pedidos-de-marketplace
 subcategory: 5m1qqfnmfYKsO0KiOQC8Ky
 ---

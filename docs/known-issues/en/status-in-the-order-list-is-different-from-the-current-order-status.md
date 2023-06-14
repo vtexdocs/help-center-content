@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: status-in-the-order-list-is-different-from-the-current-order-status
+locale: en
 kiStatus: Backlog
 internalReference: 577103
 ---

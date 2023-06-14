@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_3
 slug: criando-uma-consulta-personalizada-no-master-data
+locale: pt
 legacySlug: criando-uma-consulta-personalizada-no-master-data
 subcategory: 2AThnkEZAYbk4G4EIs53rL
 ---

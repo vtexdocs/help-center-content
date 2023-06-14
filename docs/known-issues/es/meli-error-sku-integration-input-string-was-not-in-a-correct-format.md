@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: meli-error-de-integracion-de-sku-la-cadena-de-entrada-no-estaba-en-un-formato-correcto
+locale: es
 kiStatus: Backlog
 internalReference: 664010
 ---

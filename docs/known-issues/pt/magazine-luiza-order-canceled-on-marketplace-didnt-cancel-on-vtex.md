@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: revista-luiza-ordem-cancelada-no-marketplace-nao-foi-cancelada-na-vtex
+locale: pt
 kiStatus: Backlog
 internalReference: 792618
 ---

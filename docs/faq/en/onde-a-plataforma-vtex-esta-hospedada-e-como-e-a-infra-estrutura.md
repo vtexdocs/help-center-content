@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Reliability
 author: 2LFh4Ox3XiWIqUMWw4MOGw
 slug: onde-a-plataforma-vtex-esta-hospedada-e-como-e-a-infra-estrutura
+locale: en
 legacySlug: onde-a-plataforma-vtex-esta-hospedada-e-como-e-a-infra-estrutura
 ---
 

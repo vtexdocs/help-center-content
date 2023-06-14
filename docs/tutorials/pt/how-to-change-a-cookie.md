@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_35
 slug: como-alterar-um-cookie
+locale: pt
 legacySlug: como-alterar-um-cookie
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

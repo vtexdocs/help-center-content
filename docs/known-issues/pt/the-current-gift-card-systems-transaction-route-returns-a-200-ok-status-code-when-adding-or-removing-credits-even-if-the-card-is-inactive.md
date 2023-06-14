@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: a-rota-transaction-do-sistema-atual-de-cartoespresente-retorna-um-codigo-de-status-200-ok-ao-adicionar-ou-remover-creditos-mesmo-que-o-cartao-esteja-inativo
+locale: pt
 kiStatus: Backlog
 internalReference: 795997
 ---

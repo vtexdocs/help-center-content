@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_59
 slug: que-base-de-datos-se-analiza-en-insights
+locale: es
 legacySlug: que-base-de-datos-se-analiza-en-insights
 subcategory: 1e4CZPstbwqEW8a0amEWS0
 ---

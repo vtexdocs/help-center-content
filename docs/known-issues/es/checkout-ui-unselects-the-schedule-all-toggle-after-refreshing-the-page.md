@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-interfaz-de-pago-deselecciona-la-opcion-programar-todo-despues-de-actualizar-la-pagina
+locale: es
 kiStatus: Backlog
 internalReference: 784693
 ---

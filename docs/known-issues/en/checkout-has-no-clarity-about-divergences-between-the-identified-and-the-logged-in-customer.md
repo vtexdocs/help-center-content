@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: checkout-has-no-clarity-about-divergences-between-the-identified-and-the-logged-in-customer
+locale: en
 kiStatus: Backlog
 internalReference: 442267
 ---

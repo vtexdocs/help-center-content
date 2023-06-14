@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: order-split-and-delivery-split
+locale: en
 legacySlug: order-split-and-delivery-split
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

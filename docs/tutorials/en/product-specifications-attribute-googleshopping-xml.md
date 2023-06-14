@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: product-specifications-attribute-googleshopping-xml
+locale: en
 legacySlug: product-specifications-attribute-googleshopping-xml
 subcategory: pwxWmUu7T222QyuGogs68
 ---

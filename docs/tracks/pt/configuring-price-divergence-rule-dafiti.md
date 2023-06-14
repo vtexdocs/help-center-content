@@ -9,6 +9,7 @@ firstPublishedAt: 2022-01-05T16:11:57.454Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-regra-de-divergencia-de-valores-dafiti
+locale: pt
 trackId: 4wF4RBx9ygEkimW6SsKw8i
 trackSlugPT: configurar-integracao-da-dafiti
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 3lcZDoqCF7Q4hYHye4y1YM
 slug: how-to-disable-a-transactional-email
+locale: en
 legacySlug: how-to-disable-a-transactional-email
 subcategory: 4D5LrWwlHGmOWMomOaaGee
 ---
@@ -27,7 +28,7 @@ Proceed with the following steps:
 3. Type in __Payment Pending__ in the search box.
 4. Uncheck the __Enable email sending__ option.
 
-  ![Message Center - Desativar - EN](//images.ctfassets.net/alneenqid6w5/dlSCQPRLKf46SnYGl7X9a/d09c9060f369f1f0dbe90706047d8bc3/dlSCQPRLKf46SnYGl7X9a_EN_Payment_Pending.jpg)
+  ![Message Center - Desativar - EN](https://images.ctfassets.net/alneenqid6w5/dlSCQPRLKf46SnYGl7X9a/d09c9060f369f1f0dbe90706047d8bc3/dlSCQPRLKf46SnYGl7X9a_EN_Payment_Pending.jpg)
 
 5. Click on __Save__.
 

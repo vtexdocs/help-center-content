@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 3uCjaRpzeMieQWwWycYAMG
 slug: guia-de-integracion-del-gerenciamento-de-pedidos-con-cupon-fiscal-electronico-para-el-vtex-sales-app
+locale: es
 legacySlug: guia-de-integracion-del-oms-con-cupon-fiscal-electronico-para-el-vtex-instore,guia-de-integracion-del-gerenciamento-de-pedidos-con-cupon-fiscal-electronico-para-el-vtex-instore
 subcategory: 4T6qfa6gNO6g4sAUIa6s2G
 ---

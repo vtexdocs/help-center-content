@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: novo-relatorio-do-oms-permite-a-exportacao-de-ate-5000-pedidos
+locale: pt
 legacySlug: novo-relatorio-do-oms-permite-a-exportacao-de-ate-5000-pedidos
 announcementImageID: ''
 announcementSynopsisPT: 'A partir de 13/12, você vai poder exportar até 5 mil pedidos de uma única vez no módulo de Gerenciamento de Pedidos.'

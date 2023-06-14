@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: boleto-bancario-registrado-fluxo-basico-de-um-pagamento
+locale: pt
 legacySlug: boleto-bancario-registrado-fluxo-basico-de-um-pagamento
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

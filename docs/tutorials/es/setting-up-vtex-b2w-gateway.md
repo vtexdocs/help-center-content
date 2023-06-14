@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-el-gateway-vtex-b2w
+locale: es
 legacySlug: configurar-el-gateway-vtex-b2w
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: how-to-use-the-unavailable-product-class
+locale: en
 legacySlug: how-to-use-the-unavailable-product-class
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

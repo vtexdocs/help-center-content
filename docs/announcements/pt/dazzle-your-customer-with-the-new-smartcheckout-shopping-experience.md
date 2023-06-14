@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: authors_59
 slug: encante-seu-cliente-com-a-nova-experiencia-de-compra-do-smartcheckout
+locale: pt
 legacySlug: encante-seu-cliente-com-a-nova-experiencia-de-compra-do-smartcheckout
 announcementImageID: ''
 announcementSynopsisPT: 'Saiba mais sobre as novas features do Checkout v6'

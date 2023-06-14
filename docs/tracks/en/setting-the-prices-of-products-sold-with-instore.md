@@ -9,6 +9,7 @@ firstPublishedAt: 2018-03-19T17:36:15.472Z
 contentType: trackArticle
 productTeam: Shopping
 slug: setting-the-prices-of-products-sold-with-instore
+locale: en
 trackId: 
 trackSlugEN: 
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: authors_35
 slug: what-can-i-do-if-a-customer-is-unable-to-log-in
+locale: en
 legacySlug: what-can-i-do-if-a-customer-is-unable-to-log-in
 ---
 

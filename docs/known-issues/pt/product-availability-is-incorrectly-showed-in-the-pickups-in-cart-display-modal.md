@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: a-disponibilidade-do-produto-e-mostrada-incorretamente-nos-pickups-no-modal-de-exibicao-do-carrinho
+locale: pt
 kiStatus: Backlog
 internalReference: 552875
 ---

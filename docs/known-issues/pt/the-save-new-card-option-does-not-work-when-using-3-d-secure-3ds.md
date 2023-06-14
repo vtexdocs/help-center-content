@@ -11,6 +11,7 @@ productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 tag: Order Management
 slug: salvar-novo-cartao-nao-funciona-com-o-uso-do-3ds
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

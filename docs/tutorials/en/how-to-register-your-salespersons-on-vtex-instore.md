@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_35
 slug: how-to-register-your-salespersons-on-vtex-instore
+locale: en
 legacySlug: how-to-register-your-salespersons-on-vtex-instore
 subcategory: 4T6qfa6gNO6g4sAUIa6s2G
 ---

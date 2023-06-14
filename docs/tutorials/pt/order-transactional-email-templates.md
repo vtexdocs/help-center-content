@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_59
 slug: templates-de-emails-transacionais
+locale: pt
 legacySlug: lista-de-templates-de-e-mail-no-message-center
 subcategory: 4D5LrWwlHGmOWMomOaaGee
 ---

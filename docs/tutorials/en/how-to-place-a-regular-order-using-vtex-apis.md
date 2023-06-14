@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 5Hp3cEFKikMGWycwa42QuG
 slug: how-to-place-a-regular-order-using-vtex-apis
+locale: en
 legacySlug: how-to-place-a-regular-order-using-vtex-apis
 subcategory: 1vwB9FtTSQmcSewQw02QoW
 ---

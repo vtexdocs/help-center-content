@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: entendiendo-el-aviso-de-compra-sospechosa-en-el-vtex-do
+locale: es
 legacySlug: entendiendo-el-aviso-de-compra-sospechosa-en-el-vtex-do
 subcategory: 
 ---

@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: category-translation-fields-being-overwritten-on-catalog-graphql
+locale: en
 kiStatus: Backlog
 internalReference: 654896
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-interfaz-de-usuario-no-actualiza-la-mejor-opcion-de-sla-en-el-carro
+locale: es
 kiStatus: Backlog
 internalReference: 550201
 ---

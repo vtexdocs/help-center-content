@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: errores-de-integracion-de-stock-con-magazine-luiza
+locale: es
 legacySlug: errores-de-integracion-de-stock-con-magazine-luiza
 subcategory: 7lxg0kyL3TYIsrlSQlf1zP
 ---

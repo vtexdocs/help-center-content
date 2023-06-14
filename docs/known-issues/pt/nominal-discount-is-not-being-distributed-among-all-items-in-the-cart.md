@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: o-desconto-nominal-nao-esta-sendo-distribuido-entre-todos-os-itens-do-carrinho
+locale: pt
 kiStatus: Backlog
 internalReference: 334130
 ---

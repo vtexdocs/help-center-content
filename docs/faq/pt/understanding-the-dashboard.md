@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Others
 author: authors_84
 slug: entendendo-o-dashboard
+locale: pt
 legacySlug: entenda-o-dashboard
 ---
 

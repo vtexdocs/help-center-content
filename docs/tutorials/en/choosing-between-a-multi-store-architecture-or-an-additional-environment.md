@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: choosing-between-a-multi-store-architecture-or-an-additional-environment
+locale: en
 legacySlug: choosing-between-a-multi-store-architecture-or-an-additional-environment
 subcategory: yMp6sKDiJEi66CGAIQ4ma
 ---

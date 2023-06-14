@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: when-settleid-is-sent-as-null-and-code-as-refundmanually-our-gateway-performs-a-double-refund
+locale: en
 kiStatus: Backlog
 internalReference: 615050
 ---

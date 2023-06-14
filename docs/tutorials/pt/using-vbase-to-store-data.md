@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1iryp847AQgmKGKIASeW8Y
 slug: guardar-dados-no-vbase
+locale: pt
 legacySlug: guardar-dados-no-vbase
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

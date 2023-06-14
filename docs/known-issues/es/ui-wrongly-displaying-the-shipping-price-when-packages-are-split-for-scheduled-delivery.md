@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-interfaz-de-usuario-muestra-erroneamente-el-precio-del-envio-cuando-los-paquetes-se-dividen-para-una-entrega-programada
+locale: es
 kiStatus: Backlog
 internalReference: 774155
 ---

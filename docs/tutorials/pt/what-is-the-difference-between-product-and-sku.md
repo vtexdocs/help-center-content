@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: qual-a-diferenca-entre-produto-e-sku
+locale: pt
 legacySlug: qual-a-diferenca-entre-produto-e-sku
 subcategory: pwxWmUu7T222QyuGogs68
 ---

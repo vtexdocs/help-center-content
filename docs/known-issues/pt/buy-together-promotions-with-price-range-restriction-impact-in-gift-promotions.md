@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: comprar-juntos-promocoes-com-impacto-de-restricao-de-faixa-de-preco-em-promocoes-de-presentes
+locale: pt
 kiStatus: Backlog
 internalReference: 676382
 ---

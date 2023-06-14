@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-importacion-de-productosskus-no-es-compatible-con-lb
+locale: es
 kiStatus: Backlog
 internalReference: 337860
 ---

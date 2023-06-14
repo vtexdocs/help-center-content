@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_6
 slug: defining-product-prices
+locale: en
 legacySlug: defining-product-prices
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---

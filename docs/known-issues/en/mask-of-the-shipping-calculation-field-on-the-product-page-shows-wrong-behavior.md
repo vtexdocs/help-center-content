@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: mask-of-the-shipping-calculation-field-on-the-product-page-shows-wrong-behavior
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: estrategias-de-marketplace-na-vtex
+locale: pt
 legacySlug: integrando-com-marketplace
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---
@@ -165,7 +166,7 @@ A configuração da para [se tornar um marketplace VTEX](https://help.vtex.com/p
 
 Veja abaixo os principais marketplaces VTEX:
 
-![mkt br](//images.ctfassets.net/alneenqid6w5/6DB08TtDzQ0tuesrK1I1XU/d42c1c45fff7301eea1e2fe7160274b5/mkt_br.png)
+![mkt br](https://images.ctfassets.net/alneenqid6w5/6DB08TtDzQ0tuesrK1I1XU/d42c1c45fff7301eea1e2fe7160274b5/mkt_br.png)
 
 Além disso, a página __Marketplaces e integrações__ promove e facilita o contato entre marketplaces VTEX, sellers VTEX e conectores certificados interessados em colaborações.
 

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: a-validade-da-promissoria-nao-cancela-a-transacao
+locale: pt
 kiStatus: Fixed
 internalReference: 325491
 ---

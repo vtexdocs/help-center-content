@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_59
 slug: por-que-mi-pedido-aparece-cancelado-en-el-marketplace-pero-esta-como-facturado-en-vtex
+locale: es
 legacySlug: por-que-mi-pedido-aparece-cancelado-en-el-marketplace-pero-esta-como-facturado-en-vtex
 ---
 

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: seller-portal-select-specifications-dropdown-malfunctioning
+locale: en
 kiStatus: Backlog
 internalReference: 711303
 ---

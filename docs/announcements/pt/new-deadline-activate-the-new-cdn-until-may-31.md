@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: authors_24
 slug: novo-prazo-voce-tem-ate-31-05-para-ativar-a-nova-cdn
+locale: pt
 legacySlug: novo-prazo-voce-tem-ate-31-05-para-ativar-a-nova-cdn
 announcementImageID: ''
 announcementSynopsisPT: 'Ative o HTTPS, atualize o CNAME e solicite a nova CDN antes do prazo final. Assim, você evita quebras na sua loja.'

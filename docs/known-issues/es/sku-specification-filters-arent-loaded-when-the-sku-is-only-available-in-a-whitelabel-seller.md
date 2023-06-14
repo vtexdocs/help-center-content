@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: los-filtros-de-especificacion-de-sku-no-se-cargan-cuando-la-sku-solo-esta-disponible-en-un-vendedor-de-etiqueta-blanca
+locale: es
 kiStatus: Backlog
 internalReference: 431888
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: guia-de-integracion-para-marketplaces-seller-non-vtex-con-pago
+locale: es
 legacySlug: guia-de-integraccion-para-marketplaces-seller-non-vtex-con-pago
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---

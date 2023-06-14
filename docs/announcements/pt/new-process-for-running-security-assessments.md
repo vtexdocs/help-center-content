@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: novo-processo-para-realizacao-de-avaliacoes-de-seguranca
+locale: pt
 legacySlug: novo-processo-para-realizacao-de-avaliacoes-de-seguranca
 announcementImageID: ''
 announcementSynopsisPT: 'Novo processo permite que você solicite realizar avaliação de segurança e submeter relatório de vulnerabilidade.'

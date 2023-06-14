@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: exportar-planilha-de-estoque-divisao-em-mais-de-uma-planilha
+locale: pt
 legacySlug: exportar-planilha-de-estoque-divisao-em-mais-de-uma-planilha
 announcementImageID: ''
 announcementSynopsisPT: 'Para estoques com muitos itens, a exportação de planilha será dividida em mais de um arquivo para facilitar o download.'

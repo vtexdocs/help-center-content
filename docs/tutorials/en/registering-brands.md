@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: registering-brands
+locale: en
 legacySlug: registering-brands
 subcategory: fUHfjTEwyOcIQuyeUsIIu
 ---
@@ -22,4 +23,4 @@ To register a brand, follow these steps:
 4. Fill in the [Brand registration fields](https://help.vtex.com/en/tutorial/brand-registration-fields--37Ky7lTbEkiWIAYA80EMyI).
 5. Click on `Save`.
 
-![ENcadastrarmarcas3.PNG?h=250](//images.ctfassets.net/alneenqid6w5/5TTFejR7WZ2F7i150fdgbM/6f923d6a96e4e36c6aae76dc39b036e3/ENcadastrarmarcas3.PNG_h_250)
+![ENcadastrarmarcas3.PNG?h=250](https://images.ctfassets.net/alneenqid6w5/5TTFejR7WZ2F7i150fdgbM/6f923d6a96e4e36c6aae76dc39b036e3/ENcadastrarmarcas3.PNG_h_250)

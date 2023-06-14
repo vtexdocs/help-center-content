@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: la-api-de-busqueda-no-devuelve-los-skus-showifnotavailabletrue-para-las-consultas-fqspecificationfilter
+locale: es
 kiStatus: Backlog
 internalReference: 336896
 ---

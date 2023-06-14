@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-pagos-con-molpay
+locale: es
 legacySlug: configurar-pagos-con-molpay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

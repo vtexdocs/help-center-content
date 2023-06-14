@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: data-de-entrega-ficando-vazia-quando-o-item-e-um-presente-adicionado
+locale: pt
 kiStatus: Backlog
 internalReference: 586143
 ---

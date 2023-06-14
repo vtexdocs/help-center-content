@@ -11,6 +11,7 @@ productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
 slug: the-crmmasterdata-ui-is-not-deleting-documents-even-with-the-success-message
+locale: en
 kiStatus: No Fix
 internalReference: 699374
 ---

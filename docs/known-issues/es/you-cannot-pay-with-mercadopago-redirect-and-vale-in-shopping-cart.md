@@ -11,6 +11,7 @@ productTeam: Financial
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Payments
 slug: no-se-puede-abonar-con-mercadopago-redirect-y-vale-en-carrito-con-producto
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

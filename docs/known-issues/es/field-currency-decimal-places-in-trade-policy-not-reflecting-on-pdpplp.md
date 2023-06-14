@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: los-decimales-del-campo-de-la-moneda-en-la-politica-comercial-no-se-reflejan-en-el-pdp-plp
+locale: es
 kiStatus: Backlog
 internalReference: 695044
 ---

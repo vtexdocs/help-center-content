@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_59
 slug: configurar-logistica-para-o-instore
+locale: pt
 legacySlug: configurar-logistica-para-o-instore
 subcategory: 4T6qfa6gNO6g4sAUIa6s2G
 ---

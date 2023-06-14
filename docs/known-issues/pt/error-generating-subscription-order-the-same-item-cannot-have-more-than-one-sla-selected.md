@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: ordem-de-assinatura-geradora-de-erro-o-mesmo-item-nao-pode-ter-mais-de-um-sla-selecionado
+locale: pt
 kiStatus: Backlog
 internalReference: 658185
 ---

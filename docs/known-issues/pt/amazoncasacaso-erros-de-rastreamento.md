@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: amazoncasacaso-erros-de-rastreamento
+locale: pt
 kiStatus: Backlog
 internalReference: 360564
 ---

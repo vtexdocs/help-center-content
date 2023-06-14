@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_35
 slug: how-to-monitor-the-status-of-the-vtex-platform
+locale: en
 legacySlug: how-to-monitor-the-status-of-the-vtex-platform
 subcategory: 5PYkoNDZyo2G80yiiqG2YW
 ---

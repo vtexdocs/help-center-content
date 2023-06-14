@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slug: marketplaces-e-integraciones
+locale: es
 legacySlug: marketplaces-e-integraciones
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---
@@ -32,7 +33,7 @@ Si quieres actuar como marketplace VTEX, lee el artículo <a href="https://help.
 
 Para acceder a la página, en el Admin VTEX haz clic en *__Marketplace > Conexiones > Marketplaces e integraciones__*. Esta página, además de ofrecer sugerencias de marketplaces a los que conectarse, muestra la lista completa de todos los marketplaces disponibles o ya conectados.  
 
-![Marketplaces e integraciones](//images.ctfassets.net/alneenqid6w5/6O436Pjv91m3GWuWFsmeAD/d3e6e73c3ea8afb1def6c94c0bf67ee5/Captura_de_tela_2023-04-17_110453.png)  
+![Marketplaces e integraciones](https://images.ctfassets.net/alneenqid6w5/6O436Pjv91m3GWuWFsmeAD/d3e6e73c3ea8afb1def6c94c0bf67ee5/Captura_de_tela_2023-04-17_110453.png)  
 
 La tabla donde figuran los marketplaces consta de las siguientes columnas:  
 

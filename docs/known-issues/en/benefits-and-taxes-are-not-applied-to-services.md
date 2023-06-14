@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_4
 tag: Checkout
 slug: benefits-and-taxes-are-not-applied-to-services
+locale: en
 kiStatus: Closed
 internalReference: 
 ---

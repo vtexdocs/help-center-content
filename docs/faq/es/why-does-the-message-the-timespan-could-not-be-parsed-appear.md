@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_3
 slug: por-que-aparece-el-mensaje-the-timespan-could-not-be-parsed-al-importar-planilla-de-flete
+locale: es
 legacySlug: por-que-aparece-el-mensaje-the-timespan-could-not-be-parsed-al-importar-planilla-de-flete
 ---
 

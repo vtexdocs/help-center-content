@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: importing-the-shipping-spreadsheet
+locale: en
 legacySlug: importing-the-shipping-spreadsheet
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

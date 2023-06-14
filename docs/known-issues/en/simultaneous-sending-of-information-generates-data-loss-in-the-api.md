@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: simultaneous-sending-of-information-generates-data-loss-in-the-api
+locale: en
 kiStatus: Backlog
 internalReference: 280390
 ---

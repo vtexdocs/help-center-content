@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: las-variaciones-de-sku-no-vuelven-en-el-plp
+locale: es
 kiStatus: Backlog
 internalReference: 569563
 ---

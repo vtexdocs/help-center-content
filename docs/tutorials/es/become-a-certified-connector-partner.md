@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: convertirse-en-un-conector-certificado-partner
+locale: es
 legacySlug: convertirse-en-un-conector-certificado-partner
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---

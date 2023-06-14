@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Master Data
 author: authors_31
 slug: más-tiempo-para-adaptar-las-solicitudes-de-front-end-de-su-tienda-al-master-data
+locale: es
 legacySlug: mais-tempo-para-adaptar-as-requisicoes-de-front-end-da-sua-loja-ao-master
 announcementImageID: ''
 announcementSynopsisES: 'Suspensión de recursos extendida hasta el 7 de octubre de 2019'

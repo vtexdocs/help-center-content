@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: 
 slug: configurar-gestao-de-banners
+locale: pt
 trackId: 
 trackSlugPT: 
 ---

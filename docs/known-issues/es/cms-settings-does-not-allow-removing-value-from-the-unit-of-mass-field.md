@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: la-configuracion-del-cms-no-permite-eliminar-el-valor-del-campo-unidad-de-masa
+locale: es
 kiStatus: Backlog
 internalReference: 540756
 ---

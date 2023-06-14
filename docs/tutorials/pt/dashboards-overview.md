@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: visao-geral-dashboards
+locale: pt
 legacySlug: visao-geral-dashboards
 subcategory: 1TIJqw8kV2Yok4iQe4SAkq
 ---

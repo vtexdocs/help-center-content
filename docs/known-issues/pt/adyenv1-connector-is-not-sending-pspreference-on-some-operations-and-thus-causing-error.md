@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: o-conector-adyenv1-nao-esta-enviando-pspreference-em-algumas-operacoes-e-portanto-causando-erros
+locale: pt
 kiStatus: Backlog
 internalReference: 758411
 ---

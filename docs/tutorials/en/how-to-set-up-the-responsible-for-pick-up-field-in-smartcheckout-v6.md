@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 245tA425AIeioKAk2eaiwS
 slug: how-to-set-up-the-responsible-for-pick-up-field-in-smartcheckout-v6
+locale: en
 legacySlug: how-to-set-up-the-responsible-for-pick-up-field-in-smartcheckout-v6
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

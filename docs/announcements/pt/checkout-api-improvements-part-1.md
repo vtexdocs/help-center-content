@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: authors_59
 slug: melhorias-na-api-do-checkout-parte-1
+locale: pt
 legacySlug: melhorias-na-api-do-checkout-parte-1
 announcementImageID: ''
 announcementSynopsisPT: 'Saiba sobre as melhorias implementadas na API do Checkout e como se adaptar às novas funcionalidades'

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: o-arquivo-xml-nao-recebe-preco-do-swl
+locale: pt
 kiStatus: Backlog
 internalReference: 425027
 ---

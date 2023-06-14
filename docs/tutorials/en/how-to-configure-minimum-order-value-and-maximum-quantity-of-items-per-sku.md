@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_24
 slug: how-to-configure-minimum-order-value-and-maximum-quantity-of-items-per-sku
+locale: en
 legacySlug: how-to-configure-minimum-order-value-and-maximum-quantity-of-items-per-sku
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---
@@ -29,7 +30,7 @@ In B2B operations, there is a need to maintain relationships with buyers who req
 2. On the tab __General__, fill in the desired value in the field __Minimum total amount in cart__.
 3. Click `Save`.
 
-![Minimum Order Value - EN](//images.ctfassets.net/alneenqid6w5/6bJ49E109ewRg9VUoP16rP/871fa991d270c1e64c12f0cdf3c5a4ab/Minimum_Order_Value_-_EN.png)
+![Minimum Order Value - EN](https://images.ctfassets.net/alneenqid6w5/6bJ49E109ewRg9VUoP16rP/871fa991d270c1e64c12f0cdf3c5a4ab/Minimum_Order_Value_-_EN.png)
 
 <div class="alert alert-warning">
 The customer is allowed to assemble a cart with a value less than that specified in the "Minimum total amount in cart" rule. However, at the time of closing the purchase, only orders that are equal to or greater than the specified amount will be completed.
@@ -41,7 +42,7 @@ The customer is allowed to assemble a cart with a value less than that specified
 2. On the tab __General__, fill in the desired value in the field __Max quantity of the same SKU in cart__.
 3. Click `Save`.
 
-![Max quantity of the same SKU in cart](//images.ctfassets.net/alneenqid6w5/Tb4rS7FposwzygY5HlEpr/0a8cf8d7955ae90cea6332cafb6990ed/Quantidade_Maxima_de_um_mesmo_SKU_no_carrinho_EN.png)
+![Max quantity of the same SKU in cart](https://images.ctfassets.net/alneenqid6w5/Tb4rS7FposwzygY5HlEpr/0a8cf8d7955ae90cea6332cafb6990ed/Quantidade_Maxima_de_um_mesmo_SKU_no_carrinho_EN.png)
 
 <div class="alert alert-warning">
 There are no limits on the maximum number of <b>same SKU</b> items per cart. The only restriction refers to the maximum number of items from <b>different SKUs</b>, which must be a maximum of 300 items per cart.

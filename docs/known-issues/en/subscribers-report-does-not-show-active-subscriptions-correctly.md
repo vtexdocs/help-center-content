@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: subscribers-report-does-not-show-active-subscriptions-correctly
+locale: en
 kiStatus: Backlog
 internalReference: 587556
 ---

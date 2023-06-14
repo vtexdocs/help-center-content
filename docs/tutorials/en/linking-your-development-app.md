@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: linking-your-development-app
+locale: en
 legacySlug: linking-your-development-app
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

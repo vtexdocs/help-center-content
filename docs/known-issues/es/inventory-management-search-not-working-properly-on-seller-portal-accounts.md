@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-busqueda-de-gestion-de-inventario-no-funciona-correctamente-en-las-cuentas-del-portal-del-vendedor
+locale: es
 kiStatus: Backlog
 internalReference: 694254
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-buscar-o-pedido
+locale: pt
 legacySlug: como-buscar-o-pedido
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

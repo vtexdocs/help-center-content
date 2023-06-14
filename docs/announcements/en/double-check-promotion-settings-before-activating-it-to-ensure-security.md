@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: double-check-promotion-settings-before-activating-it-to-ensure-security
+locale: en
 legacySlug: double-check-promotion-settings
 announcementImageID: ''
 announcementSynopsisEN: 'Promotion summary allows you to review information about a promotion before activating it to avoid configuration errors'
@@ -16,7 +17,7 @@ announcementSynopsisEN: 'Promotion summary allows you to review information abou
 
 Mistakes can happen when configuring a new promotion and filling in information. To avoid activating promotions with incorrect information, we created the promotion summary. The new feature allows you to confirm the promotion settings before activating it.
 
-![resumo-promo-EN](//images.ctfassets.net/alneenqid6w5/5dJybcC7bLKUDnhP2r6ezx/b9caef1451ab9b973ec678b858945652/image.png)
+![resumo-promo-EN](https://images.ctfassets.net/alneenqid6w5/5dJybcC7bLKUDnhP2r6ezx/b9caef1451ab9b973ec678b858945652/image.png)
 
 ## What has changed?
 Previously, a promotion was automatically activated when saved with **Active** status. With the new feature, you can view a summary of the settings configured before activating a new promotion. This allows you to make sure that all data in the promotion is correct, avoiding implementation errors.

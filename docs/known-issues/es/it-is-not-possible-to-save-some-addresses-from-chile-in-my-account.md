@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: no-es-posible-guardar-algunas-direcciones-de-chile-en-mi-cuenta
+locale: es
 kiStatus: Backlog
 internalReference: 386030
 ---

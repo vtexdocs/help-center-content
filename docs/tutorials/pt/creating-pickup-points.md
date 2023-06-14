@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: cadastro-de-pontos-de-retirada
+locale: pt
 legacySlug: como-importar-pontos-de-retirada-pickup-points-por-planilha, configurar-pontos-de-retirada-pickup-points
 subcategory: 1c5Btie9ou2Gg2iUo0ggqM
 ---

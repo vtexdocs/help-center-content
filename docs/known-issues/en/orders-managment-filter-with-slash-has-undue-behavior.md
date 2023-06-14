@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_41
 tag: Order Management
 slug: orders-managment-filter-with-slash-has-undue-behavior
+locale: en
 kiStatus: Fixed
 internalReference: 
 ---

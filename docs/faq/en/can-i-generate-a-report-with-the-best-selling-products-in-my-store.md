@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: can-i-generate-a-report-with-the-best-selling-products-in-my-store
+locale: en
 legacySlug: 
 ---
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_24
 slug: instalar-o-visa-checkout-na-extension-store
+locale: pt
 legacySlug: instalar-o-visa-checkout-na-extension-store
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

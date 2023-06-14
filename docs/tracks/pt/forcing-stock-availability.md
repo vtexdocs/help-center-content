@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T19:11:02.443Z
 contentType: trackArticle
 productTeam: Shopping
 slug: forcar-disponibilidade-de-estoque
+locale: pt
 trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugPT: forcar-disponibilidade-de-estoque
 ---

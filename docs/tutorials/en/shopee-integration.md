@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: shopee-integration
+locale: en
 legacySlug: shopee-integration
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

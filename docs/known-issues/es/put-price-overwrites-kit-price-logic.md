@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: el-precio-de-venta-sobrescribe-la-logica-del-precio-del-kit
+locale: es
 kiStatus: Backlog
 internalReference: 404486
 ---

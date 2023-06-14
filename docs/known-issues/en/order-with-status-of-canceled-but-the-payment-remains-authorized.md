@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: order-with-status-of-canceled-but-the-payment-remains-authorized
+locale: en
 kiStatus: Backlog
 internalReference: 420019
 ---

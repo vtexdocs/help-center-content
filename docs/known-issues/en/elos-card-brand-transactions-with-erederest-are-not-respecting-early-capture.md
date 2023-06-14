@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: elos-card-brand-transactions-with-erederest-are-not-respecting-early-capture
+locale: en
 kiStatus: Backlog
 internalReference: 350814
 ---

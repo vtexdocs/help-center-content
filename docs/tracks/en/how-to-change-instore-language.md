@@ -9,6 +9,7 @@ firstPublishedAt: 2018-09-14T21:19:21.733Z
 contentType: trackArticle
 productTeam: Shopping
 slug: how-to-change-instore-language
+locale: en
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugEN: instore-setup
 ---

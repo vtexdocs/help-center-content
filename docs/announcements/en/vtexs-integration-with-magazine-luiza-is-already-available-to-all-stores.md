@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 245tA425AIeioKAk2eaiwS
 slug: vtexs-integration-with-magazine-luiza-is-already-available-to-all-stores
+locale: en
 legacySlug: vtexs-integration-with-magazine-luiza-is-already-available-to-all-stores
 announcementImageID: ''
 announcementSynopsisEN: "VTEX's solution replaces external integrations, offering more resources and our team's total support."

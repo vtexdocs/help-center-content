@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: llenar-la-planilla-de-stock
+locale: es
 legacySlug: llenar-la-planilla-de-stock
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

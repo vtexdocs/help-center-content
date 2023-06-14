@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: incorrect-canonical-tag-on-https-pages
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

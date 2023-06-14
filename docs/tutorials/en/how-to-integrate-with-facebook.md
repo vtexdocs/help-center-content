@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: how-to-integrate-with-facebook
+locale: en
 legacySlug: how-to-integrate-with-facebook
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

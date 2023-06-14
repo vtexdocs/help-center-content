@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: how-to-find-google-analytics-pixel
+locale: en
 legacySlug: how-to-find-google-analytics-pixel
 ---
 

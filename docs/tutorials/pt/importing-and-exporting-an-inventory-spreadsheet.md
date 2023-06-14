@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: importando-e-exportando-planilha-de-estoque
+locale: pt
 legacySlug: importando-e-exportando-planilha-de-estoque
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

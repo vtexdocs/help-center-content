@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: different-accessories-by-sku-dont-work
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

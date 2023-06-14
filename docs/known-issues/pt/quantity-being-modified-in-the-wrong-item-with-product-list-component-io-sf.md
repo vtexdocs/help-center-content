@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: authors_84
 tag: Store Framework
 slug: quantidade-sendo-modificada-no-item-errado-com-o-componente-da-lista-de
+locale: pt
 kiStatus: Backlog
 internalReference: 402976
 ---

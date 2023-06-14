@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: por-que-o-filtro-de-campo-de-produto-ou-campo-de-sku-nao-esta-retornando
+locale: pt
 legacySlug: por-que-o-filtro-de-campo-de-produto-ou-campo-de-sku-nao-esta-retornando
 ---
 

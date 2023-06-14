@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
 slug: why-doesnt-tracking-work
+locale: en
 legacySlug: why-doesnt-tracking-work
 ---
 

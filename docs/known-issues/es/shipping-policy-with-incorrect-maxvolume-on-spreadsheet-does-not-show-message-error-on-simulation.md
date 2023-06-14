@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: la-politica-de-envio-con-un-maxvolume-incorrecto-en-la-hoja-de-calculo-no-muestra-el-error-del-mensaje-en-la-simulacion
+locale: es
 kiStatus: Backlog
 internalReference: 380471
 ---

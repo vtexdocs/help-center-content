@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: como-anadir-el-certificado-pci-ssc-mi-tienda
+locale: es
 legacySlug: como-anadir-el-certificado-pci-ssc-mi-tienda
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

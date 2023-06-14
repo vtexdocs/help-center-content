@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: events-available-in-audit
+locale: en
 legacySlug: events-available-in-audit
 subcategory: 2TNXiKzLZOPxjMTyGiEeJu
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-api-de-aprobacion-automatica-acepta-cualquier-valor
+locale: es
 kiStatus: Backlog
 internalReference: 713704
 ---

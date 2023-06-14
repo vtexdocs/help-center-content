@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: adobe-flash-migration
+locale: en
 legacySlug: adobe-flash-migration
 announcementImageID: ''
 announcementSynopsisEN: 'VTEX updated the CMS module due to the Adobe Flash migration'

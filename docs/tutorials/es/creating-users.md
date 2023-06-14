@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_84
 slug: creando-usuarios
+locale: es
 legacySlug: creando-usuarios
 subcategory: 63DHe3VQEEE6Uuua8gIs2M
 ---

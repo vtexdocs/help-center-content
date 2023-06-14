@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: como-encontrar-google-tag-manager-pixel
+locale: es
 legacySlug: como-encontrar-google-tag-manager-pixel
 ---
 

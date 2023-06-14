@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: falta-de-validacao-do-numero-de-telefone-nas-apis-de-compra-permitindo-dados-invalidos-nos-pedidos
+locale: pt
 kiStatus: Backlog
 internalReference: 680500
 ---

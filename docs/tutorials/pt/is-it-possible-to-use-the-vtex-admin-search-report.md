@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: e-possivel-usar-o-relatorio-de-busca-no-admin-da-vtex
+locale: pt
 legacySlug: e-possivel-usar-o-relatorio-de-busca-no-admin-da-vtex
 subcategory: 5yDQmr18K4GgQAeGwq8USa
 ---

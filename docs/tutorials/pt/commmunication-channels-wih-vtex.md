@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_24
 slug: canais-de-comunicacao-com-a-vtex
+locale: pt
 legacySlug: canais-de-comunicacao-com-a-vtex
 subcategory: 1VvCpaa8NCA6a0MK6W6oWg
 ---

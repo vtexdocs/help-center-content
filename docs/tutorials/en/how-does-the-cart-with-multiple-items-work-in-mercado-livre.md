@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 245tA425AIeioKAk2eaiwS
 slug: how-does-the-cart-with-multiple-items-work-in-mercado-livre
+locale: en
 legacySlug: how-does-the-cart-with-multiple-items-work-in-mercado-livre
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---
@@ -28,7 +29,7 @@ Instead of using the IDs of each item (which would generate separate orders in o
 
 You can find both IDs through the report generated on the integration's panel on VTEX Admin.
 
-![mercalo-livre-pedido-id-en](//images.ctfassets.net/alneenqid6w5/5CZg21BumbrNw5QjimjuGt/67fefe0993b7ca80eb365428f389fd4d/mercalo-livre-pedido-id.png)
+![mercalo-livre-pedido-id-en](https://images.ctfassets.net/alneenqid6w5/5CZg21BumbrNw5QjimjuGt/67fefe0993b7ca80eb365428f389fd4d/mercalo-livre-pedido-id.png)
 
 
 <div class="alert alert-warning">

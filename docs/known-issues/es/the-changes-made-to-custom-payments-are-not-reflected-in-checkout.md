@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: los-cambios-realizados-en-los-pagos-personalizados-no-se-reflejan-en-el-pago
+locale: es
 kiStatus: Backlog
 internalReference: 276250
 ---

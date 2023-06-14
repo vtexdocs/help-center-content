@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: el-usuario-recibe-un-mensaje-de-error-al-registrarse-por-primera-vez-en-mi-cuenta
+locale: es
 kiStatus: Backlog
 internalReference: 619909
 ---

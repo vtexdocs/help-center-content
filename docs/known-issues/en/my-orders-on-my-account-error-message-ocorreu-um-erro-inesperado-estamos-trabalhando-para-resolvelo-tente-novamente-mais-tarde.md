@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: my-orders-on-my-account-error-message-ocorreu-um-erro-inesperado-estamos-trabalhando-para-resolvelo-tente-novamente-mais-tarde
+locale: en
 kiStatus: Backlog
 internalReference: 356936
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: configuracoes-gerais
+locale: pt
 legacySlug: configuracoes-gerais
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
@@ -18,7 +19,7 @@ subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 
 No Admin VTEX, acesse **Configurações da loja > Pedidos > Configurações**, ou digite *Pedidos* na barra de busca no topo da página e e selecione *Configurações da loja / Pedidos*. 
 
-![configuracoes_pedidos_pt](//images.ctfassets.net/alneenqid6w5/3Pg3IFrgPiGdwsIJowvNBy/743fdbe79371cf6f3f7a43ca340102d2/configuracoes_pedidos_pt.png)
+![configuracoes_pedidos_pt](https://images.ctfassets.net/alneenqid6w5/3Pg3IFrgPiGdwsIJowvNBy/743fdbe79371cf6f3f7a43ca340102d2/configuracoes_pedidos_pt.png)
 
 ## Carrinho
 

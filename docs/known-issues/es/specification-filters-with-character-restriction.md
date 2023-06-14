@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: filtros-de-especificacion-con-restriccion-de-caracteres
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

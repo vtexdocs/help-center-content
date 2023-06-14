@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-gateway-redsys
+locale: es
 legacySlug: configurar-gateway-redsys
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

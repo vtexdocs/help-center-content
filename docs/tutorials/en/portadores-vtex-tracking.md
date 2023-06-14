@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: portadores-vtex-tracking
+locale: en
 legacySlug: portadores-vtex-tracking
 subcategory: 7yiFRk9TGfMNeyhT83UljP
 ---

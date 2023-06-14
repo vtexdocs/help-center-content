@@ -11,6 +11,7 @@ productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
 slug: a-solucao-saml-nao-permite-o-envio-do-samlrequest-como-sequencia-de-consulta-no-login-do-crm
+locale: pt
 kiStatus: Backlog
 internalReference: 789146
 ---

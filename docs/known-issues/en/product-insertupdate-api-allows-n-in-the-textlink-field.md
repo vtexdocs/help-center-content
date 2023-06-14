@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: product-insertupdate-api-allows-n-in-the-textlink-field
+locale: en
 kiStatus: Backlog
 internalReference: 486459
 ---

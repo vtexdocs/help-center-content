@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: prices-restricted-to-int32-max-value-on-checkout-apis
+locale: en
 kiStatus: Backlog
 internalReference: 566142
 ---

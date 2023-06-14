@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: payments-gateway-no-envia-correctamente-la-informacion-de-la-subcuenta-en-la-carga-util-al-conector
+locale: es
 kiStatus: Backlog
 internalReference: 801012
 ---

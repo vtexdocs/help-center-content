@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: checkout-setting-up-the-cardholder-document-id-field
+locale: en
 legacySlug: checkout-setting-up-the-cardholder-document-id-field
 announcementImageID: ''
 announcementSynopsisEN: ' Configuring the display of the cardholder ID field at checkout.'
@@ -44,7 +45,7 @@ To check if the anti-fraud solutions configured in your store allow changing the
 2. In the **Payments** module, click on **Settings > Gateway affiliations**. 
 3. After selecting the desired anti-fraud solution, check if the **Cardholder document field** option is available on the configuration screen.
 
-![cardholder document field](//images.ctfassets.net/alneenqid6w5/23Hyo1jo4hkC3nXPmOa7NW/350f0aaab8c88555c89a9ca3f2304f6c/cardholder_document_field.png)
+![cardholder document field](https://images.ctfassets.net/alneenqid6w5/23Hyo1jo4hkC3nXPmOa7NW/350f0aaab8c88555c89a9ca3f2304f6c/cardholder_document_field.png)
 
 <div class = "alert alert-warning">
   If the <b>Cardholder document field</b> option is not available on the configuration screen of your anti-fraud solution provider, the <b>Cardholder document</b> field will still be displayed at Checkout in your store, and the customer will be required to fill it out.

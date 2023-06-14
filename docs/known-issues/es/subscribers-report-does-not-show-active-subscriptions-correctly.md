@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: el-informe-de-suscriptores-no-muestra-correctamente-las-suscripciones-activas
+locale: es
 kiStatus: Backlog
 internalReference: 587556
 ---

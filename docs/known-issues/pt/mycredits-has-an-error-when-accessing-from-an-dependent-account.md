@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: mycredits-tem-um-erro-ao-acessar-de-uma-conta-dependente
+locale: pt
 kiStatus: Backlog
 internalReference: 367276
 ---

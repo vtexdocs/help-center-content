@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: pedidos-faturados-na-vtex-mas-que-nao-atualizam-a-fatura-na-netshoes
+locale: pt
 kiStatus: Backlog
 internalReference: 577219
 ---

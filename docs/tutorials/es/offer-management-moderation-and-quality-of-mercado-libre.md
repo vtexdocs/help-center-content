@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: gestion-de-anuncios-moderacion-y-calidad-de-los-anuncios-en-mercado-libre
+locale: es
 legacySlug: gestion-de-anuncios-moderacion-y-calidad-de-los-anuncios-en-mercado-libre
 subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---

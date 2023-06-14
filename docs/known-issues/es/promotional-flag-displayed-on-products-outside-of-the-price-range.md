@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: flag-promocional-exhibida-en-productos-fuera-del-rango-de-precios
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

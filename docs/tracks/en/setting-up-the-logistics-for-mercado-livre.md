@@ -9,6 +9,7 @@ firstPublishedAt: 2018-08-13T14:27:58.483Z
 contentType: trackArticle
 productTeam: Channels
 slug: setting-up-the-logistics-for-mercado-livre
+locale: en
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugEN: mercado-libre-integration-set-up
 ---

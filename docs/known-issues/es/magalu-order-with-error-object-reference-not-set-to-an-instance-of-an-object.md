@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: magalu-pedido-con-error-referencia-de-objeto-no-establecida-a-una-instancia-de-un-objeto
+locale: es
 kiStatus: Backlog
 internalReference: 707113
 ---

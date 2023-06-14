@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: contratar-nuevo-entorno
+locale: es
 legacySlug: comprar-y-acceder-su-ambiente
 subcategory: 6SJnrkKDjGwSqKkMuQMOmm
 ---

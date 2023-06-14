@@ -11,6 +11,7 @@ productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 tag: Catalog,Gift Card,Portal (CMS),Suggestions
 slug: confirmar-acao-esta-indisponivel-no-catalogo-sellers-cms-vale-compra-pelo
+locale: pt
 kiStatus: Fixed
 internalReference:  
 ---

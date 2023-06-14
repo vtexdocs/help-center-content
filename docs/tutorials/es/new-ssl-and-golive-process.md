@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_4
 slug: processo-de-ssl-y-golive
+locale: es
 legacySlug: 
 subcategory: 4i9qIf0r8IKSOkqoSmEssu
 ---

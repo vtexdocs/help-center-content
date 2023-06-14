@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: accesorios-diferentes-por-sku-no-funcionan
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

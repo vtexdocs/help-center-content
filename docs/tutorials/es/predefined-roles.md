@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 127RQ7SUoFfyTh5gbXUpdM
 slug: roles-de-usuario-predefinidos
+locale: es
 legacySlug: perfiles-de-acceso-predefinidos
 subcategory: 1HSqkejwuYcQSMC400uY84
 ---

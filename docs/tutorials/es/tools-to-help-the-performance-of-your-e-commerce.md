@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_35
 slug: herramientas-para-mejorar-la-performance-de-la-tienda
+locale: es
 legacySlug: herramientas-para-mejorar-la-performance-de-la-tienda
 subcategory: wz3FvYTctwuCwG206QUAi
 ---

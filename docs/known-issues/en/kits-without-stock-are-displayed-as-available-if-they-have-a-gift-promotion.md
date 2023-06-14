@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: kits-without-stock-are-displayed-as-available-if-they-have-a-gift-promotion
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: a-integracao-da-amazonia-nao-esta-cancelando-pedidos-na-vtex
+locale: pt
 kiStatus: Backlog
 internalReference: 588456
 ---

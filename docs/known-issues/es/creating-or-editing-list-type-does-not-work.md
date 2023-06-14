@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: la-creacion-edicion-de-tipo-de-lista-no-funciona
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

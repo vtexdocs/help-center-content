@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_35
 slug: how-to-change-a-cookie
+locale: en
 legacySlug: how-to-change-a-cookie
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

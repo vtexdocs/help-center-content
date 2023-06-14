@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-api-de-pago-puede-no-agrupar-paquetes-cuando-dos-o-mas-vendedores-pueden-cumplir
+locale: es
 kiStatus: Backlog
 internalReference: 802156
 ---

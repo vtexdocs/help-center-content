@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: individual-warehouse-inventory-exports-do-not-work-on-seller-portal-accounts
+locale: en
 kiStatus: Backlog
 internalReference: 684464
 ---

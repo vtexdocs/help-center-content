@@ -9,6 +9,7 @@ firstPublishedAt: 2018-08-13T14:27:42.464Z
 contentType: trackArticle
 productTeam: Channels
 slug: setting-up-the-ads-template-description-in-mercado-livre
+locale: en
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugEN: mercado-libre-integration-set-up
 ---

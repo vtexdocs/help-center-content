@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: erros-de-integracao-de-pedidos-da-via
+locale: pt
 legacySlug: erros-de-integracao-de-pedidos-da-via
 subcategory: 5m1qqfnmfYKsO0KiOQC8Ky
 ---

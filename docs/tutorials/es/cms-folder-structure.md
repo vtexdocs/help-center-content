@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: estructura-de-carpetas-del-cms
+locale: es
 legacySlug: estructura-de-carpetas-del-cms
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

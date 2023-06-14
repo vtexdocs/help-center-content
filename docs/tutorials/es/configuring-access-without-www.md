@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_4
 slug: configurando-acceso-sin-www
+locale: es
 legacySlug: configurando-acceso-sin-www
 subcategory: 2Za4fjGfxYOo6oqykukgyy
 ---

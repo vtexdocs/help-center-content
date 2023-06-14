@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: a-visualizacao-previa-da-expedicao-nao-usa-o-nome-sla-para-exibicao-na-interface-de-usuario
+locale: pt
 kiStatus: Backlog
 internalReference: 574651
 ---

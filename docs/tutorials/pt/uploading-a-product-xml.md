@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_6
 slug: xml-de-produtos
+locale: pt
 legacySlug: xml-de-produtos
 subcategory: pwxWmUu7T222QyuGogs68
 ---

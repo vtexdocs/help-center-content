@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: how-to-migrate-from-recurrence-v1-to-subscriptions-v2
+locale: en
 legacySlug: how-to-migrate-from-recurrence-v1-to-subscriptions-v2
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---

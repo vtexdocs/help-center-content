@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: now-you-can-choose-the-interest-type-used-on-installments
+locale: en
 legacySlug: now-you-can-choose-the-interest-type-used-on-installments
 announcementImageID: ''
 announcementSynopsisEN: 'Stores can now choose between simple or compound interests, depending on the practices in the countries they operate.'

@@ -9,6 +9,7 @@ firstPublishedAt: 2020-05-29T17:47:57.806Z
 contentType: trackArticle
 productTeam: Financial
 slug: o-que-e-o-vtex-payment
+locale: pt
 trackId: 7iCCIoIZFmd9OabU6QlmXu
 trackSlugPT: vtex-payment
 ---

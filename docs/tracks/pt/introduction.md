@@ -9,6 +9,7 @@ firstPublishedAt: 2018-05-02T22:27:45.869Z
 contentType: trackArticle
 productTeam: Shopping
 slug: introducao
+locale: pt
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugPT: intro-instore
 ---

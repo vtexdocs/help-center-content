@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: o-seletor-de-estilos-cms-nao-funciona-em-espacos-de-trabalho-de-desenvolvimento
+locale: pt
 kiStatus: Backlog
 internalReference: 388544
 ---

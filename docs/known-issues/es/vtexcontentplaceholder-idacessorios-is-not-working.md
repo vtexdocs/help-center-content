@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: vtexcontentplaceholder-idacessorios-no-funciona
+locale: es
 kiStatus: Backlog
 internalReference: 466147
 ---

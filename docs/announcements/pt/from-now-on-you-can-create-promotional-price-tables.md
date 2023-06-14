@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
 slug: a-partir-de-agora-voce-ja-pode-criar-tabelas-de-precos-promocionais
+locale: pt
 legacySlug: a-partir-de-agora-voce-ja-pode-criar-tabelas-de-precos-promocionais
 announcementImageID: ''
 announcementSynopsisPT: 'A nova funcionalidade traz mais flexibilidade e autonomia ao criar promoções que exijam um grau de granularidade maior.'

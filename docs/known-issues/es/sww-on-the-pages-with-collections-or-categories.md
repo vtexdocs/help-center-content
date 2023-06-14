@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: sww-en-las-paginas-con-colecciones-o-categorias
+locale: es
 kiStatus: Backlog
 internalReference: 785324
 ---

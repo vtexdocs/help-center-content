@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: how-to-view-the-orders-details
+locale: en
 legacySlug: how-to-view-the-orders-details
 subcategory: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---

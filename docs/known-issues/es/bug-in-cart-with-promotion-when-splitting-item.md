@@ -11,6 +11,7 @@ productTeam: Shopping
 author: authors_37
 tag: Catalog
 slug: bug-en-el-carrito-con-promocion-al-splitar-item
+locale: es
 kiStatus: Fixed
 internalReference: 
 ---

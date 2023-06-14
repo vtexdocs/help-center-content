@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: como-configurar-pagamento-personalizado
+locale: es
 legacySlug: como-configurar-pagamento-personalizado
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slug: gerencie-seus-pedidos-fbaclassic-dba-em-um-so-lugar
+locale: pt
 legacySlug: gerencie-seus-pedidos-fbaclassic-dba-em-um-so-lugar
 announcementImageID: ''
 announcementSynopsisPT: 'Agora você pode gerenciar todos os seus pedidos Amazon FBA Classic e DBA em um só lugar.'

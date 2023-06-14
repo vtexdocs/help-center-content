@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: ordem-com-erro-de-parametro-de-desajuste-de-contagem
+locale: pt
 kiStatus: Fixed
 internalReference: 776361
 ---

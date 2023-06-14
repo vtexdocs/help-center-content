@@ -9,6 +9,7 @@ firstPublishedAt: 2019-05-22T21:10:23.345Z
 contentType: trackArticle
 productTeam: Shopping
 slug: como-customizar-el-campo-de-observacion
+locale: es
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugES: instore-setup
 ---

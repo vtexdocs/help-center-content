@@ -9,6 +9,7 @@ firstPublishedAt: 2019-07-11T21:35:16.813Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: modulo-de-precos-visao-geral
+locale: pt
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugPT: precos-101
 ---

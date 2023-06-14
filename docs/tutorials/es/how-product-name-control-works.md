@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: como-funciona-el-control-de-nombre-de-producto
+locale: es
 legacySlug: como-funciona-el-control-de-nombre-de-producto
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

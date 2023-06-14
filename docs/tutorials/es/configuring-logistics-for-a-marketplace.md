@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: como-configurar-logistica-para-politica-comercial
+locale: es
 legacySlug: como-configurar-logistica-para-politica-comercial
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

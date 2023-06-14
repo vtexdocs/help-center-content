@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_59
 slug: como-e-feito-o-calculo-do-parcelado-com-juros-compostos
+locale: pt
 legacySlug: como-e-feito-o-calculo-do-parcelado-com-juros
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

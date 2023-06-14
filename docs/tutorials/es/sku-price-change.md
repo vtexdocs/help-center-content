@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: alteracion-de-precio-de-sku
+locale: es
 legacySlug: alteracion-de-precio-de-sku
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---

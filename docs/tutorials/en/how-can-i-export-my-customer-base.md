@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_84
 slug: how-can-i-export-my-customer-base
+locale: en
 legacySlug: how-can-i-export-my-customer-base
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

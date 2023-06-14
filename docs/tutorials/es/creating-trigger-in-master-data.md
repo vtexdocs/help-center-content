@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_3
 slug: creando-trigger-en-el-master-data
+locale: es
 legacySlug: creando-trigger-en-el-master-data
 subcategory: 2nx7hMJmisofwqwy2P9l2i
 ---
@@ -137,7 +138,7 @@ Envía un request HTTP con la posibilidad de guardar la información de la respu
 
 Rellena la sección **Request data** con la información del request que se enviará. En la sección **Response action**, puedes indicar cómo se debe guardar la información de la respuesta en Master Data.
 
-![Master Data v1 send http request screenshot](//images.ctfassets.net/alneenqid6w5/5uIXuDHBecTzuJxi0mnjWv/638a4b496b682354af486971ab6418c3/mdv1_trigger_http_request.PNG)
+![Master Data v1 send http request screenshot](https://images.ctfassets.net/alneenqid6w5/5uIXuDHBecTzuJxi0mnjWv/638a4b496b682354af486971ab6418c3/mdv1_trigger_http_request.PNG)
 
 Para configurar **Response action**, selecciona la entidad de datos deseada y define, para cada campo que se debe guardar, la ruta JSON correspondiente en la respuesta.
 

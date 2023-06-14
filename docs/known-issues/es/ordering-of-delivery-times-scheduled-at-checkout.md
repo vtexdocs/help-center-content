@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: ordenacion-de-los-horarios-de-entrega-programados-en-el-checkout
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---
@@ -19,7 +20,7 @@ internalReference:
 
 Actualmente los horarios de entrega para una entrega programada están fuera de orden, o en orden decreciente. Para una mejor legibilidad, se espera que esta información se ordene de forma creciente.
 
-![image](//images.ctfassets.net/alneenqid6w5/dpGWYjydIAiC2i4qEigsm/0334f47a61fa7dcc4defe1cde08d616b/image.png)
+![image](https://images.ctfassets.net/alneenqid6w5/dpGWYjydIAiC2i4qEigsm/0334f47a61fa7dcc4defe1cde08d616b/image.png)
 
 ## Simulación
 

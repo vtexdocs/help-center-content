@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-adquirente-getnet-com-o-conector-egetnet
+locale: pt
 legacySlug: configurar-adquirente-getnet-com-o-conector-egetnet
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: depara-dos-meios-de-pagamentos-no-webservice
+locale: pt
 legacySlug: depara-dos-meios-de-pagamentos-no-webservice
 subcategory: 1vwB9FtTSQmcSewQw02QoW
 ---

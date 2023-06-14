@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: authors_35
 slug: o-que-fazer-quando-o-cliente-nao-recebe-a-notificacao-de-recuperacao-de
+locale: pt
 legacySlug: o-que-fazer-quando-o-cliente-nao-recebe-a-notificacao-de-recuperacao-de
 ---
 

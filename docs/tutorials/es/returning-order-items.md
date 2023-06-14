@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-hacer-una-devolucion-de-articulos
+locale: es
 legacySlug: como-hacer-una-devolucion-de-articulos
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

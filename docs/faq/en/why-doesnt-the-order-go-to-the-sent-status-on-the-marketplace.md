@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: why-doesnt-the-order-go-to-the-sent-status-on-the-marketplace
+locale: en
 legacySlug: why-doesnt-the-order-go-to-the-sent-status-on-the-marketplace
 ---
 

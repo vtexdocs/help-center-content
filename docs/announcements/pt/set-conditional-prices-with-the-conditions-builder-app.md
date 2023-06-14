@@ -9,6 +9,7 @@ contentType: updates
 productTeam: VTEX IO
 author: 
 slug: crie-precos-condicionais-com-o-conditions-builder
+locale: pt
 legacySlug: 
 announcementImageID: ''
 announcementSynopsisPT: 'Disponível na App Store, o Conditions Builder traz uma interface visual para facilitar a criação de preços condicionais.'

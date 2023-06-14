@@ -11,6 +11,7 @@ productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
 slug: el-restablecimiento-de-la-orden-no-cierra-la-sesion-de-otras-personas
+locale: es
 kiStatus: Backlog
 internalReference: 530461
 ---

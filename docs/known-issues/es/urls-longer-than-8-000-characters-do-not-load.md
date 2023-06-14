@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 tag: Portal (CMS)
 slug: las-url-de-mas-de-8000-caracteres-no-se-cargan
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

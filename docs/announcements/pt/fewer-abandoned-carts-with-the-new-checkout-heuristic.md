@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: authors_24
 slug: menos-carrinhos-abandonados-com-a-nova-heuristica-do-checkout
+locale: pt
 legacySlug: menos-carrinhos-abandonados-com-a-nova-heuristica-do-checkout
 announcementImageID: ''
 announcementSynopsisPT: 'Mudamos a lógica que define a ordem de escolha dos sellers para contas-franquia, diminuindo assim carrinhos abandonados.'

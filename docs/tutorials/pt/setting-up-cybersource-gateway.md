@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-gateway-cybersource
+locale: pt
 legacySlug: configurar-gateway-cybersource
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: no-feedback-to-the-user-when-something-goes-wrong
+locale: es
 kiStatus: Backlog
 internalReference: 339072
 ---

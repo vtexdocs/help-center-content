@@ -11,6 +11,7 @@ productTeam: Financial
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: campo-address-vem-com-valor-null-na-consulta-da-api-do-pagamentos
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

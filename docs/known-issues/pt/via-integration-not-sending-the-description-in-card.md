@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: a-via-integration-nao-esta-enviando-a-descricao-no-cartao
+locale: pt
 kiStatus: Backlog
 internalReference: 826488
 ---

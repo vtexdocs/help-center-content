@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: se-esta-estudiando-una-politica-de-envios-que-no-entregue-los-fines-de-semana
+locale: es
 kiStatus: Backlog
 internalReference: 594828
 ---

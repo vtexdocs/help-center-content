@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
 slug: tentei-atualizar-a-planilha-de-frete-e-deu-um-erro-o-que-fazer
+locale: pt
 legacySlug: tentei-atualizar-a-planilha-de-frete-e-deu-um-erro-o-que-fazer
 ---
 

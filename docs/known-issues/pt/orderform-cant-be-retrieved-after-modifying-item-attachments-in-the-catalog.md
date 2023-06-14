@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: orderform-nao-pode-ser-recuperado-apos-a-modificacao-dos-anexos-do-item-no-catalogo
+locale: pt
 kiStatus: Backlog
 internalReference: 320044
 ---

@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: rutas-atascadas-no-encontradas-en-la-plataforma
+locale: es
 kiStatus: Backlog
 internalReference: 793457
 ---

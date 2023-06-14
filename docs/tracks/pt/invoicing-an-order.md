@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-18T12:20:37.060Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: faturar-um-pedido
+locale: pt
 trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugPT: pedidos
 ---

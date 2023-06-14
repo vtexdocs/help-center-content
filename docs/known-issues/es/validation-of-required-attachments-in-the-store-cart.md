@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: validacion-de-adjuntos-obligatorios-en-el-carrito-de-la-tienda
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

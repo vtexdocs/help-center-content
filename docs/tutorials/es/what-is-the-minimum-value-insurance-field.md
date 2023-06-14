@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: para-que-sirve-el-campo-en-la-tabla-de-flete-minimum-value-insurance
+locale: es
 legacySlug: para-que-sirve-el-campo-en-la-tabla-de-flete-minimum-value-insurance
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

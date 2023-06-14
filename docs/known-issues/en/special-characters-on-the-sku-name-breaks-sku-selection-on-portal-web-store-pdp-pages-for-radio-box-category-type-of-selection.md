@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: special-characters-on-the-sku-name-breaks-sku-selection-on-portal-web-store-pdp-pages-for-radio-box-category-type-of-selection
+locale: en
 kiStatus: Backlog
 internalReference: 337933
 ---

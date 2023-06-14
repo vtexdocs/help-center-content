@@ -9,6 +9,7 @@ firstPublishedAt: 2021-10-06T16:13:28.202Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: como-funciona-o-adaptador-vtex
+locale: pt
 trackId: 132YFN170Jvs6ZUBGh8w2e
 trackSlugPT: adaptador-vtex
 ---
@@ -32,7 +33,7 @@ Para facilitar o entendimento, organizamos o documento em tópicos:
 
 Por meio da tabela abaixo, você pode verificar o que a integração do adaptador contempla:
 
-![image-adaptador-2](//images.ctfassets.net/alneenqid6w5/4TsEw3tXkfK0IEAZlcRzwR/b9dc7e117331beacf34577442c69da0c/Group_1_9_.png)
+![image-adaptador-2](https://images.ctfassets.net/alneenqid6w5/4TsEw3tXkfK0IEAZlcRzwR/b9dc7e117331beacf34577442c69da0c/Group_1_9_.png)
 
 <div class="alert alert-warning">
   <p>Para integração via WEBSERVICE, os pedidos na VTEX serão coletados quando estiverem com pagamento aprovado, no status <b>Pronto-para-manuseio</b>.</p>

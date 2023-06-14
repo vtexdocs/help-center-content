@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: nueva-pantalla-performance-de-vtex-shipping-network
+locale: es
 legacySlug: nueva-pantalla-performance-de-vtex-log
 announcementImageID: ''
 announcementSynopsisES: ' La renovada pantalla Performance mejora la experiencia de seguimiento del desempeño de las transportadoras.'

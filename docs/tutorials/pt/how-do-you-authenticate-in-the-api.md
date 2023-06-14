@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_3
 slug: como-autenticar-na-api
+locale: pt
 legacySlug: como-autenticar-na-api
 subcategory: 1vwB9FtTSQmcSewQw02QoW
 ---

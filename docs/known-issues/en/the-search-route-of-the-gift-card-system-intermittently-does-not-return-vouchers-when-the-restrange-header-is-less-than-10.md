@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: the-search-route-of-the-gift-card-system-intermittently-does-not-return-vouchers-when-the-restrange-header-is-less-than-10
+locale: en
 kiStatus: Backlog
 internalReference: 770337
 ---

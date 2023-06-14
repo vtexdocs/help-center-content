@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: ajustar-la-consulta-de-envio-cuando-el-pedido-tiene-mas-de-un-producto-centauro
+locale: es
 kiStatus: Backlog
 internalReference: 599380
 ---

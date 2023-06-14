@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: assinatura-digital-de-contratos
+locale: pt
 legacySlug: assinatura-digital-de-contratos
 subcategory: 6SJnrkKDjGwSqKkMuQMOmm
 ---

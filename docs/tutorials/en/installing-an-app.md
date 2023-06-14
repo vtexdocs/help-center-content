@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_24
 slug: installing-an-app
+locale: en
 legacySlug: installing-the-app
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

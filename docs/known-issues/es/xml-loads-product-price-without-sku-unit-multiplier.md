@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: xml-carga-el-precio-del-producto-sin-multiplicador-de-unidad-de-sku
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

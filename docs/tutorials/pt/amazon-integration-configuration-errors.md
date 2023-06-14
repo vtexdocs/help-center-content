@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: erros-de-configuracao-na-integracao-da-amazon
+locale: pt
 legacySlug: erros-de-configuracao-na-integracao-da-amazon
 subcategory: 4HBbKdnwneGew2qGGykSM8
 ---

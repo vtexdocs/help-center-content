@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: los-productos-sin-stock-en-los-vendedores-de-marca-blanca-aparecen-en-el-final-de-la-plp
+locale: es
 kiStatus: Backlog
 internalReference: 495741
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-url-xml-en-el-admin-muestra-un-enlace-erroneo
+locale: es
 kiStatus: Backlog
 internalReference: 407528
 ---

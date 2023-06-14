@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: como-funciona-una-politica-comercial
+locale: es
 legacySlug: como-funciona-una-politica-comercial
 subcategory: 6J3wx7KM4oysymsWuUACyY
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: buscacep-no-funciona-en-la-creacion-del-formulario-giftlist
+locale: es
 kiStatus: Backlog
 internalReference: 342418
 ---

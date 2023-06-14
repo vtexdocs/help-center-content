@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-o-gateway-webpay2p
+locale: pt
 legacySlug: configurar-o-gateway-webpay2p
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: se-ha-producido-un-error-al-anadir-informacion-de-seguimiento
+locale: es
 kiStatus: Backlog
 internalReference: 409225
 ---

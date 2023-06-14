@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 tag: Order Management
 slug: subscriptions-conflict-between-the-subscription-billing-frequency-and-cycle
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

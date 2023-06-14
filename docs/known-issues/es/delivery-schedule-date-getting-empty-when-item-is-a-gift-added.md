@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-fecha-de-entrega-se-vacia-cuando-el-articulo-es-un-regalo-anadido
+locale: es
 kiStatus: Backlog
 internalReference: 586143
 ---

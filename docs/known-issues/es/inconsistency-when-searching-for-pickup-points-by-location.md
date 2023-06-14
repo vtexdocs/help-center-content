@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
 tag: Checkout
 slug: inconsistencia-en-la-busqueda-de-puntos-de-recogida-por-ubicacion
+locale: es
 kiStatus: Fixed
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: B2B
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: b2b-vision-general
+locale: es
 legacySlug: vision-general
 subcategory: 5N5GjDrKSycIQMeoS7CLtj
 ---

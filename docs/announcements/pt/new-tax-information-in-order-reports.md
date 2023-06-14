@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: novas-informacoes-sobre-taxas-no-relatorio-de-pedidos
+locale: pt
 legacySlug: novas-informacoes-sobre-taxas-no-relatorio-de-pedidos
 announcementImageID: ''
 announcementSynopsisPT: 'A coluna Taxas do relatório de pedidos foi alterada para dar visibilidade sobre o valor total de impostos cobrados.'

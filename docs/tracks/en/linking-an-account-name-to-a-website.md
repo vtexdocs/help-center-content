@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:29:05.951Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: linking-an-account-name-to-a-website
+locale: en
 trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugEN: cms
 ---

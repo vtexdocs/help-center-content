@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-interfaz-de-las-colecciones-no-permite-buscar-productos-con-caracteres-especiales
+locale: es
 kiStatus: Backlog
 internalReference: 344451
 ---

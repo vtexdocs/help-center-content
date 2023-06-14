@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T15:17:02.889Z
 contentType: trackArticle
 productTeam: Shopping
 slug: setting-up-payment-methods-for-instore
+locale: en
 trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugEN: instore-payments
 ---

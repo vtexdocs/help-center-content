@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: sku-inactive-updates-on-b2w-but-doesnt-log-correct-message-on-bridge
+locale: en
 kiStatus: Backlog
 internalReference: 603761
 ---

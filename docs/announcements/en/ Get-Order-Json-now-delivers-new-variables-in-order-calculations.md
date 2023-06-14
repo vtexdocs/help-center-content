@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 5V92cmF9jG8KG600EwUgEg
 slug:  Get-Order-Json-now-delivers-new-variables-in-order-calculations
+locale: en
 legacySlug:  Get-Order-Json-now-delivers-new-variables-in-order-calculations
 announcementImageID: ''
 announcementSynopsisEN: 'Now available detailed information about the calculation of shipping of the order'

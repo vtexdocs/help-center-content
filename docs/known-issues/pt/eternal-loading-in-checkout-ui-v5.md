@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: carregamento-eterno-no-checkout-ui-v5
+locale: pt
 kiStatus: Backlog
 internalReference: 332740
 ---

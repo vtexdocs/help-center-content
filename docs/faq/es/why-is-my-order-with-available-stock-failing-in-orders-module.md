@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: por-que-mi-pedido-con-stock-disponible-esta-dando-error-en-el-modulo-pedidos
+locale: es
 legacySlug: por-que-mi-pedido-con-stock-disponible-esta-dando-error-en-oms
 ---
 

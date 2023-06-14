@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: my-cards-ui-allow-customers-to-save-credit-cards-without-number-field-filled-in-the-address-information
+locale: en
 kiStatus: Backlog
 internalReference: 521542
 ---

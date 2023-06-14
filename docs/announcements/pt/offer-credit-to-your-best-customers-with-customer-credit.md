@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: de-credito-aos-seus-melhores-clientes-com-o-customer-credit
+locale: pt
 legacySlug: de-credito-aos-seus-melhores-clientes-com-o-customer-credit
 announcementImageID: ''
 announcementSynopsisPT: 'Antigo Credit Control será descontinuado para dar lugar à nova solução da VTEX para crédito de loja.'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: compatibility-with-browsers-in-the-admin-module
+locale: en
 legacySlug: compatibility-with-browsers-in-the-admin-module
 subcategory: Se4oi5LroIII2Ei0uGAoE
 ---

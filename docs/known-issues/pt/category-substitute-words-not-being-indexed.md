@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: palavras-substitutas-de-categoria-nao-sendo-indexadas
+locale: pt
 kiStatus: Backlog
 internalReference: 374204
 ---

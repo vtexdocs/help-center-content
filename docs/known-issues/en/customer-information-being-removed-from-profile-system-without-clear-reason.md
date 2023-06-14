@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: customer-information-being-removed-from-profile-system-without-clear-reason
+locale: en
 kiStatus: Backlog
 internalReference: 469823
 ---

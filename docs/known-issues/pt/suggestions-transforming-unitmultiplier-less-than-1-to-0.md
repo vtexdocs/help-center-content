@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: sugestoes-para-transformar-unidademultiplicador-menos-de-1-a-0
+locale: pt
 kiStatus: Fixed
 internalReference: 702056
 ---

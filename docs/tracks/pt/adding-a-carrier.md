@@ -9,6 +9,7 @@ firstPublishedAt: 2019-10-21T12:51:47.591Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: cadastrar-transportadora
+locale: pt
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugPT: logistica-101
 ---

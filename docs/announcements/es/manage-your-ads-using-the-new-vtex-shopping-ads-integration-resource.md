@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: administre-sus-anuncios-con-el-nuevo-recurso-de-integracion-de-vtex
+locale: es
 legacySlug: administre-sus-anuncios-con-el-nuevo-recurso-de-integracion-de-vtex
 announcementImageID: ''
 announcementSynopsisES: 'La aplicación VTEX Shopping Ads ahora le permite usar cuentas existentes de Google Ads'

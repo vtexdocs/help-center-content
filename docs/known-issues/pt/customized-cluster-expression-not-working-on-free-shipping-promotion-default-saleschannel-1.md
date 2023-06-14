@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: expressao-de-cluster-personalizada-nao-funcionando-em-promocao-de-remessa-gratuita-canal-de-vendas-padrao-1
+locale: pt
 kiStatus: Backlog
 internalReference: 334027
 ---

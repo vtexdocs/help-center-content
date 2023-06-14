@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: como-aprovar-pagamento
+locale: pt
 legacySlug: como-aprovar-pagamento
 subcategory: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
@@ -24,7 +25,7 @@ Essa aprovação pode ser feita manualmente no módulo Pedidos, conforme abaixo.
 2. Clique sobre a transação desejada.
 3. Clique no botão **Notificar Pagamento**.
 
-![NotificarPT](//images.ctfassets.net/alneenqid6w5/6jQnmZtHygY4csKym2kC0e/f48943b3a025d87ab59a724e17188df3/NotificarPT.png)
+![NotificarPT](https://images.ctfassets.net/alneenqid6w5/6jQnmZtHygY4csKym2kC0e/f48943b3a025d87ab59a724e17188df3/NotificarPT.png)
 
 **Após a aprovação do pagamento, o pedido entrará no fluxo normal de compra.**
 

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: la-integracion-de-mercadopagov1-no-funciona-con-la-funcion-de-guardar-la-tarjeta
+locale: es
 kiStatus: No Fix
 internalReference: 283727
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2019-10-21T12:49:06.433Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: doca-definicao-de-conceito
+locale: pt
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugPT: logistica-101
 ---

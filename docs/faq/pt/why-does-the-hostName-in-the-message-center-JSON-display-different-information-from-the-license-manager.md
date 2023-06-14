@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_3
 slug: por-que-o-hostname-no-json-do-message-center-mostra-informacao-diferente-do-license-manager
+locale: pt
 legacySlug: por-que-o-hostname-no-json-do-message-center-mostra-informacao-diferente-do-license-manager
 ---
 

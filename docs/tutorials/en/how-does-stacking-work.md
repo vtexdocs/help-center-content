@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: how-does-stacking-work
+locale: en
 legacySlug: how-does-stacking-work
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

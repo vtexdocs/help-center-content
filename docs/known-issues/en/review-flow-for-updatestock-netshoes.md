@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: review-flow-for-updatestock-netshoes
+locale: en
 kiStatus: Backlog
 internalReference: 646869
 ---

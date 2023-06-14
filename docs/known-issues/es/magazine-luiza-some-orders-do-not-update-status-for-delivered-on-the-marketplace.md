@@ -11,6 +11,7 @@ productTeam: Admin
 author: 2mXZkbi0oi061KicTExNjo
 tag: Admin
 slug: magazine-luiza-algunos-pedidos-no-actualizan-el-estado-de-entregado-en-el-mercado
+locale: es
 kiStatus: Backlog
 internalReference: 827440
 ---

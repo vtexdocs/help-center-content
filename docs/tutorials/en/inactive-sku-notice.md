@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: inactive-sku-notice
+locale: en
 legacySlug: inactive-sku-notice
 subcategory: 4HBbKdnwneGew2qGGykSM8
 ---

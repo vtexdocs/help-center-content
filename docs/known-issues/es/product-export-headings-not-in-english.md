@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: titulos-de-columnas-de-la-exportacion-de-productos-no-disponibles-en-ingles
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

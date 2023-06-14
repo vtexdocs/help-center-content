@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: informacoes-dentro-do-pedido
+locale: pt
 legacySlug: informacoes-dentro-do-pedido
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

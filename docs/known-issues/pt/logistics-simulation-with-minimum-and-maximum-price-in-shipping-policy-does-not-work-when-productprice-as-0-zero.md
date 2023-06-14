@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: simulacao-logistica-com-preco-minimo-e-maximo-na-politica-de-embarque-nao-funciona-quando-o-preco-do-produto-como-0-zero
+locale: pt
 kiStatus: Backlog
 internalReference: 553080
 ---

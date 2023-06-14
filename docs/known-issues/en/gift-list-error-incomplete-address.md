@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: gift-list-error-incomplete-address
+locale: en
 kiStatus: Backlog
 internalReference: 313576
 ---

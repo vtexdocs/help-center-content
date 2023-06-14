@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_59
 slug: plantillas-de-emails-transaccionales-del-pedido
+locale: es
 legacySlug: lista-de-templates-de-correo-eletronico-en-el-message-center
 subcategory: 4D5LrWwlHGmOWMomOaaGee
 ---

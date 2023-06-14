@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: TAUXpa4XWCsIaUOoksGIE
 slug: por-que-a-autenticacao-utilizando-appkey-e-apptoken-nao-funciona
+locale: pt
 legacySlug: por-que-a-autenticacao-do-request-utilizando-appkey-e-apptoken-nao-funciona
 ---
 

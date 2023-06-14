@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: erro-categoria-xxx-nao-encontrada-no-mapeamento-de-nos-de-navegacao-para-a-especificacao-do-departamento-da-sku-escolha-uma-categoria-global-mais-especifica-persistente
+locale: pt
 kiStatus: Backlog
 internalReference: 417639
 ---

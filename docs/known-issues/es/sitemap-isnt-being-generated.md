@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: el-sitemap-no-se-genera
+locale: es
 kiStatus: Backlog
 internalReference: 827104
 ---

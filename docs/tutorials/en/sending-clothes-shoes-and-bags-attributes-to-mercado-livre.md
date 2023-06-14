@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: sending-clothes-shoes-and-bags-attributes-to-mercado-livre
+locale: en
 legacySlug: sending-clothes-shoes-and-bags-attributes-to-mercado-livre
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
 slug: no-puedo-iniciar-sesion-en-vtex-io
+locale: es
 legacySlug: no-puedo-iniciar-sesion-en-vtex-io
 ---
 

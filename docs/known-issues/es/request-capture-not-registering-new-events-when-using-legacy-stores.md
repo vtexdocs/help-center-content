@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: la-captura-de-solicitudes-no-registra-nuevos-eventos-cuando-se-utilizan-almacenes-heredados
+locale: es
 kiStatus: Backlog
 internalReference: 604254
 ---

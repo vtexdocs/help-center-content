@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: campos-de-registro-de-marca
+locale: es
 legacySlug: campos-de-registro-de-marca
 subcategory: fUHfjTEwyOcIQuyeUsIIu
 ---

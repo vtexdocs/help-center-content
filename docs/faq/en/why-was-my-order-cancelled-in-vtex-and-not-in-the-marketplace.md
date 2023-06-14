@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: why-was-my-order-cancelled-in-vtex-and-not-in-the-marketplace
+locale: en
 legacySlug: why-was-my-order-cancelled-in-vtex-and-not-in-the-marketplace
 ---
 

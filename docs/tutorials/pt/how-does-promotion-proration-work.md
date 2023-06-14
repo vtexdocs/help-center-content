@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: como-funciona-o-rateio-de-promocao
+locale: pt
 legacySlug: como-funciona-o-rateio-de-promocao
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

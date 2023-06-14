@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 slug: substituicao-do-termo-captura-por-liquidacao-na-documentacao-de-pagamentos
+locale: pt
 legacySlug: substituicao-do-termo-captura-por-liquidacao-na-documentacao-de-pagamentos
 announcementImageID: ''
 announcementSynopsisPT: 'O termo "captura" foi substituído por "liquidação" em toda a documentação no contexto de Pagamentos'

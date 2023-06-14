@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: alterar-pedido-usando-api-sem-troca-de-pedido-por-email
+locale: pt
 kiStatus: Backlog
 internalReference: 380509
 ---

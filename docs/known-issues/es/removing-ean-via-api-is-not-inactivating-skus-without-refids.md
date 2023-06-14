@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: eliminar-el-ean-a-traves-de-la-api-no-es-desactivar-las-sku-sin-refid
+locale: es
 kiStatus: Backlog
 internalReference: 626031
 ---

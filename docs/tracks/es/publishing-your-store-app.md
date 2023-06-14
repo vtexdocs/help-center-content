@@ -9,6 +9,7 @@ firstPublishedAt: 2019-03-07T18:22:31.278Z
 contentType: trackArticle
 productTeam: VTEX IO
 slug: publicar-su-store-app
+locale: es
 trackId: 5qJr8BIQXAKec9CpBWrTNv
 trackSlugES: crear-una-tienda-utilizando-vtex-io
 ---

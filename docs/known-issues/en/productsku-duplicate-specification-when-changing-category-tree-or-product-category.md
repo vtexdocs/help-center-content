@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: productsku-duplicate-specification-when-changing-category-tree-or-product-category
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

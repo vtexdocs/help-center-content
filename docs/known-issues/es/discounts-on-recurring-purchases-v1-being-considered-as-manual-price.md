@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_41
 tag: OMS
 slug: descuentos-en-compras-recurrentes-v1-se-consideran-como-manual-price
+locale: es
 kiStatus: Open
 internalReference: 
 ---

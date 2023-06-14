@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: valores-errados-nos-destinatarios-de-uma-transacao-dividida-com-cancelamento-parcial
+locale: pt
 kiStatus: Backlog
 internalReference: 489481
 ---

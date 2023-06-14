@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_6
 slug: customizing-the-checkout-confirmation-pages
+locale: en
 legacySlug: customizing-the-checkout-confirmation-pages
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

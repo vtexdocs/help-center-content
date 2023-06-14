@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 slug: agendar-precios-para-un-rango-de-horas
+locale: es
 legacySlug: agendar-precios-para-un-rango-de-horas
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---

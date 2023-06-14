@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: quais-selos-de-seguranca-podem-ser-adicionados-a-minha-loja
+locale: pt
 legacySlug: quais-selos-de-seguranca-podem-ser-adicionados-a-minha-loja
 subcategory: wz3FvYTctwuCwG206QUAi
 ---

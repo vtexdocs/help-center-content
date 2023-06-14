@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: valor-divergente-al-mezclar-la-configuracion-paymentsystemtocheckfirstinstallment-y-partidas-divididas
+locale: es
 kiStatus: Backlog
 internalReference: 766454
 ---

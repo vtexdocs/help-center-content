@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: search-navigator-filter-price-range-yielding-incorrect-results
+locale: en
 kiStatus: Backlog
 internalReference: 504992
 ---

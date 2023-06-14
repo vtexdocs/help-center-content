@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: no-es-posible-actualizar-el-nombre-y-la-descripcion-de-un-producto-en-centauro
+locale: es
 kiStatus: Backlog
 internalReference: 544084
 ---

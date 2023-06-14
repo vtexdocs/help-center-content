@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Others
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: como-funciona-o-suporte-da-vtex
+locale: pt
 legacySlug: planos-de-suporte
 ---
 

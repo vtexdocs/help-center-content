@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: em-fullcleanup-admin-o-botao-reindex-database-pode-nao-funcionar-na-primeira-tentativa
+locale: pt
 kiStatus: Backlog
 internalReference: 790828
 ---

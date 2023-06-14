@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slug: notas-fiscais-do-mercado-livre
+locale: pt
 legacySlug: notas-fiscais-do-mercado-livre
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

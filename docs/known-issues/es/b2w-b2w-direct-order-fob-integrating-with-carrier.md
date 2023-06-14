@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: b2w-pedido-b2w-directo-fob-integrando-con-transportista
+locale: es
 kiStatus: Backlog
 internalReference: 714879
 ---

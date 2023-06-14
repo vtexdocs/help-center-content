@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_6
 slug: new-my-orders-area
+locale: en
 legacySlug: new-my-orders-area
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: las-busquedas-con-al-final-no-funcionan-correctamente
+locale: es
 kiStatus: Backlog
 internalReference: 509101
 ---

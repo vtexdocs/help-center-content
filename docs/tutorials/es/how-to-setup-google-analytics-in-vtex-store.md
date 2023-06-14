@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 523NSmHfn2IKEoiy2Q44YS
 slug: como-configurar-el-google-analytics-en-tienda-vtex
+locale: es
 legacySlug: como-configurar-el-google-analytics-en-tienda-vtex
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

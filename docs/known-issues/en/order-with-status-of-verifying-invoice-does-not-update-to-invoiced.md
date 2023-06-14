@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: order-with-status-of-verifying-invoice-does-not-update-to-invoiced
+locale: en
 kiStatus: Backlog
 internalReference: 500245
 ---

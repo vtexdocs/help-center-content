@@ -9,6 +9,7 @@ firstPublishedAt: 2019-02-28T23:13:35.624Z
 contentType: trackArticle
 productTeam: Channels
 slug: envio-de-produtos-para-amazon
+locale: pt
 trackId: 6sgd4Pagy3wNsWKBvmIFrP
 trackSlugPT: integracao-com-a-amazon
 ---

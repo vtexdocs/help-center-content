@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: como-montar-um-kit-look
+locale: pt
 legacySlug: como-montar-um-kit-look
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

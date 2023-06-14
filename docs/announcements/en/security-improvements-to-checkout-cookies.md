@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: security-improvements-to-checkout-cookies
+locale: en
 legacySlug: security-improvements-to-checkout-cookies
 announcementImageID: ''
 announcementSynopsisEN: 'Update to Checkout cookies allows increased security in your store'

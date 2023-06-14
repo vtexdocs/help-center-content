@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: ajustar-la-exportacion-de-la-pestana-de-procesamiento
+locale: es
 kiStatus: Backlog
 internalReference: 649311
 ---

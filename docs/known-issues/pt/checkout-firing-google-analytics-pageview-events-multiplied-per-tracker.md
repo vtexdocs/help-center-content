@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: checkout-dispara-os-eventos-de-pageview-do-google-analytics-multiplicados-por-rastreador
+locale: pt
 kiStatus: Fixed
 internalReference: 350780
 ---

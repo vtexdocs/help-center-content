@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: exportar-los-clientes-registrados-en-la-notificacion-de-disponibilidad
+locale: es
 legacySlug: exportar-los-clientes-registrados-en-la-notificacion-de-disponibilidad
 subcategory: 5yDQmr18K4GgQAeGwq8USa
 ---

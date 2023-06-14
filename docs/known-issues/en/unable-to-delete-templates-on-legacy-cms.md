@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: unable-to-delete-templates-on-legacy-cms
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

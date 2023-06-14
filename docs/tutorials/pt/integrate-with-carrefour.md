@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: integrando-com-carrefour
+locale: pt
 legacySlug: integrando-com-carrefour
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

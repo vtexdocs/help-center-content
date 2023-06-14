@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: la-condicion-de-pago-unico-no-aparece-en-el-checkout
+locale: es
 kiStatus: Backlog
 internalReference: 605568
 ---

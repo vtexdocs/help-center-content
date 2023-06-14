@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: minhas-assinaturas-ao-entrar-na-linha-de-endereco-2-isto-aparece-como-nulo
+locale: pt
 kiStatus: Backlog
 internalReference: 588046
 ---

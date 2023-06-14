@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-checkout-sobregrava-o-nome-do-receptor-com-o-nome-do-cliente
+locale: pt
 kiStatus: Backlog
 internalReference: 324792
 ---

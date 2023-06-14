@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: authors_24
 slug: nova-api-ajuda-marketplaces-a-evitar-perda-de-vendas
+locale: pt
 legacySlug: nova-api-ajuda-marketplaces-a-evitar-perda-de-vendas
 announcementImageID: ''
 announcementSynopsisPT: 'O Change Seller dá mais autonomia para os marketplaces gerenciarem suas vendas.'

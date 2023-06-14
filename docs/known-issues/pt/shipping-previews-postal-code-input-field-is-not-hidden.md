@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-campo-de-entrada-do-codigo-postal-da-visualizacao-do-envio-nao-esta-oculto
+locale: pt
 kiStatus: Backlog
 internalReference: 821984
 ---

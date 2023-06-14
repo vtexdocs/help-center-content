@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: como-escrever-um-ticket-completo-para-o-suporte-vtex
+locale: pt
 legacySlug: como-escrever-um-ticket-completo-para-o-suporte-vtex
 subcategory: 1VvCpaa8NCA6a0MK6W6oWg
 ---

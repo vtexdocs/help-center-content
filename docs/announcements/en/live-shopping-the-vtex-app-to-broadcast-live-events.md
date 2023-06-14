@@ -9,6 +9,7 @@ contentType: updates
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: live-shopping-the-vtex-app-to-broadcast-live-events
+locale: en
 legacySlug: live-shopping-the-vtex-app-to-broadcast-live-events
 announcementImageID: ''
 announcementSynopsisEN: 'The app allows stores to carry out live broadcasts, product sales, and real-time chat with customers. '
@@ -41,7 +42,7 @@ Behind the scenes on the Admin, it allows you to:
 - Set a list of forbidden words that will be blocked in the realtime chat;
 - Propose polls and quizzes to your users.
 
-![live-shopping-event-details-en](//images.ctfassets.net/alneenqid6w5/3S1LlDHlh3P3VAZzLEgMOl/e1929b824a37a1e0c1b21a0e3bf38ab8/image4.png)
+![live-shopping-event-details-en](https://images.ctfassets.net/alneenqid6w5/3S1LlDHlh3P3VAZzLEgMOl/e1929b824a37a1e0c1b21a0e3bf38ab8/image4.png)
 
 ## What are the advantages?
 

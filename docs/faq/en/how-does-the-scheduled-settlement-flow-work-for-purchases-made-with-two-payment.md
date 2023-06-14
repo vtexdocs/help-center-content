@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: how-does-the-scheduled-settlement-flow-work-for-purchases-made-with-two-payment
+locale: en
 legacySlug: how-does-the-scheduled-capture-flow-work-for-purchases-made-with-two-payment
 ---
 

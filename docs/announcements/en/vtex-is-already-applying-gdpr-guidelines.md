@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: vtex-is-already-applying-gdpr-guidelines
+locale: en
 legacySlug: vtex-is-already-applying-gdpr-guidelines
 announcementImageID: ''
 announcementSynopsisEN: 'Our commitment with transparency and data protection is now even stronger as we turn GDPR compliant.'

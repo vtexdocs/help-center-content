@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: el-campo-de-las-colecciones-siempre-aparece-como-igual-a-en-el-formulario-de-audiencia-de-la-campana
+locale: es
 kiStatus: Backlog
 internalReference: 697168
 ---

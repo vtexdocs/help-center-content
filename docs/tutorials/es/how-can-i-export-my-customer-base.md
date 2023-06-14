@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_84
 slug: como-exportar-mi-base-de-datos-de-clientes
+locale: es
 legacySlug: como-exportar-mi-base-de-datos-de-clientes
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: produtoimpressao-nao-mostra-todos-os-produtos-quando-o-sku-e-mostrado-individualmente
+locale: pt
 kiStatus: Backlog
 internalReference: 717617
 ---

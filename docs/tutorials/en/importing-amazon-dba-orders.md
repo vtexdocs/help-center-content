@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slug: importing-amazon-dba-orders
+locale: en
 legacySlug: importing-amazon-dba-orders
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

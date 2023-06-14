@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:32:29.091Z
 contentType: trackArticle
 productTeam: Identity
 slug: editar-datos-de-la-cuenta
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugES: contas-e-permissoes
 ---

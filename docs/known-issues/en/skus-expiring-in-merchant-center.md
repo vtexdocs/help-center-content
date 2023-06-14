@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: skus-expiring-in-merchant-center
+locale: en
 kiStatus: Backlog
 internalReference: 548044
 ---

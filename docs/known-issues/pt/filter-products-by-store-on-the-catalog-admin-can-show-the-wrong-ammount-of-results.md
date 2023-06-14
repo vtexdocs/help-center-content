@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: filtrar-produtos-por-loja-no-catalogo-admin-pode-mostrar-a-quantidade-errada-de-resultados
+locale: pt
 kiStatus: Backlog
 internalReference: 756461
 ---

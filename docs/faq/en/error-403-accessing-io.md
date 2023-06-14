@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
 slug: error-403-accessing-io
+locale: en
 legacySlug: error-403-accessing-io
 ---
 

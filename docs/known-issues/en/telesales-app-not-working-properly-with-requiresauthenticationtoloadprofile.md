@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: telesales-app-not-working-properly-with-requiresauthenticationtoloadprofile
+locale: en
 kiStatus: Backlog
 internalReference: 797651
 ---

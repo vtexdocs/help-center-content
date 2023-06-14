@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: inventario-y-envio-entienda-lo-que-cambio-en-la-pestana-gestion-del-inventario
+locale: es
 legacySlug: inventario-y-envio-entienda-lo-que-cambio-en-la-pestana-gestion-del
 announcementImageID: ''
 announcementSynopsisES: 'Además de mejorar la usabilidad de su interfaz, cambiaremos el nombre de la pestaña a Gestión del inventario. '

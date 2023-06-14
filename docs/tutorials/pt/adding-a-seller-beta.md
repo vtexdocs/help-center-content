@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: adicionar-seller-beta
+locale: pt
 legacySlug: adicionar-seller-beta
 subcategory: 2xWRgEIlR2ookieEmm4KQu
 ---

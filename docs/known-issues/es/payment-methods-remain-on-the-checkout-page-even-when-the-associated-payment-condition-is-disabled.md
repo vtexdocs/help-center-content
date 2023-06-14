@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: los-metodos-de-pago-permanecen-en-la-pagina-de-pago-incluso-cuando-la-condicion-de-pago-asociada-esta-desactivada
+locale: es
 kiStatus: Backlog
 internalReference: 649237
 ---

@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: space-in-warehouse-id-causes-internal-logistics-requests-to-fail
+locale: en
 kiStatus: Fixed
 internalReference: 654370
 ---

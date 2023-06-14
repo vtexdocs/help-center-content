@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
 slug: pedido-esta-travado-em-pronto-para-manuseio-o-que-fazer
+locale: pt
 legacySlug: meus-pedidos-estao-travados-em-pronto-para-manuseio
 ---
 

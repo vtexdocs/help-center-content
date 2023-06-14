@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog,Portal (CMS)
 slug: totalizador-de-resultado-de-busca-e-filtros-apresentando-valor-equivocado
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

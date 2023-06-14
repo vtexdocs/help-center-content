@@ -9,6 +9,7 @@ firstPublishedAt: 2021-10-06T16:13:33.742Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: login-e-senha
+locale: es
 trackId: 132YFN170Jvs6ZUBGh8w2e
 trackSlugES: adaptador-vtex
 ---

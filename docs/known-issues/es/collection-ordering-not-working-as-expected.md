@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: los-pedidos-de-recogida-no-funcionan-como-se-esperaba
+locale: es
 kiStatus: Fixed
 internalReference: 502409
 ---

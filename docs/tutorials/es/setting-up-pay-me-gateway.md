@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-gateway-pay-me
+locale: es
 legacySlug: configurar-gateway-pay-me
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

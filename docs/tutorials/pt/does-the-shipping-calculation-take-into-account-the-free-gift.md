@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_37
 slug: o-calculo-do-frete-leva-em-consideracao-o-brinde
+locale: pt
 legacySlug: o-calculo-do-frete-leva-em-consideracao-o-brinde
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

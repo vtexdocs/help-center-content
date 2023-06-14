@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: los-terminos-mas-buscados-presentados-en-autocompletar-no-coinciden-con-los-terminos-presentados-en-el-informe-analytics
+locale: es
 kiStatus: Backlog
 internalReference: 741999
 ---

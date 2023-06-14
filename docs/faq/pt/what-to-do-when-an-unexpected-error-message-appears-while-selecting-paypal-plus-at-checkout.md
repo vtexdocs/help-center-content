@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 245tA425AIeioKAk2eaiwS
 slug: o-que-fazer-quando-uma-mensagem-de-erro-inesperado-aparece-no-checkout
+locale: pt
 legacySlug: o-que-fazer-quando-uma-mensagem-de-erro-inesperado-aparece-ao-selecionar
 ---
 

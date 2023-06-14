@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: caracteres-especiales-en-el-nombre-de-la-sku-rompe-la-seleccion-de-la-sku-en-las-paginas-del-portal-web-store-pdp-para-la-caja-de-radio-tipo-de-seleccion-de-la-categoria
+locale: es
 kiStatus: Backlog
 internalReference: 337933
 ---

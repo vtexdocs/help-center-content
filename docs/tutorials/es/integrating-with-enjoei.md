@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: integracion-con-enjoei
+locale: es
 legacySlug: integracion-con-enjoei
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

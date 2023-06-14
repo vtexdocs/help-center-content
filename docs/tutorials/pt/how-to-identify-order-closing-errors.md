@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_35
 slug: erro-ao-fechar-pedido
+locale: pt
 legacySlug: erro-ao-fechar-pedido
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

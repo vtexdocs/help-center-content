@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_84
 slug: passando-a-loja-para-producao
+locale: pt
 legacySlug: passando-a-loja-para-producao
 subcategory: yMp6sKDiJEi66CGAIQ4ma
 ---
@@ -29,7 +30,7 @@ Depois, é preciso colocar a loja com status de produção no License Manager d
 4. Na opção **Está em produção**, clique no botão **Não**, ficando **Sim**;
 5. Clique no botão **Salvar**.
 
-![contas.pt](//images.ctfassets.net/alneenqid6w5/7bNDNf7soYiH98n5m8GFI6/695149200124cd522b0e2b6962014cf9/contas.pt.png)
+![contas.pt](https://images.ctfassets.net/alneenqid6w5/7bNDNf7soYiH98n5m8GFI6/695149200124cd522b0e2b6962014cf9/contas.pt.png)
 
 Após esta configuração, ao acessar a url final da loja, ela já será redirecionada para seu e-commerce!
 

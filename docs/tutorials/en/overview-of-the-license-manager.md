@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_84
 slug: overview-of-the-license-manager
+locale: en
 legacySlug: overview-of-the-license-manager
 subcategory: yMp6sKDiJEi66CGAIQ4ma
 ---

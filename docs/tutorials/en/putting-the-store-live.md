@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_6
 slug: putting-the-store-live
+locale: en
 legacySlug: putting-the-store-live
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---

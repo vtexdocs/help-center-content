@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:33:26.300Z
 contentType: trackArticle
 productTeam: Identity
 slug: como-a-conta-se-relaciona-as-paginas-do-site
+locale: en
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: contas-e-permissoes
 ---

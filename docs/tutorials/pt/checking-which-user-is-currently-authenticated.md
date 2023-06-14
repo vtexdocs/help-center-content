@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_4
 slug: verificando-o-usuario-que-esta-autenticado
+locale: pt
 legacySlug: verificando-o-usuario-que-esta-autenticado
 subcategory: 63DHe3VQEEE6Uuua8gIs2M
 ---

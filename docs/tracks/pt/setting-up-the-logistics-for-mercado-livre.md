@@ -9,6 +9,7 @@ firstPublishedAt: 2018-08-13T14:27:58.483Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-logistica-para-o-mercado-livre
+locale: pt
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugPT: configurar-integracao-do-mercado-livre
 ---
@@ -126,7 +127,7 @@ Para configurar, siga os passos a seguir:
 2. [Cadastre](https://help.vtex.com/pt/tutorial/gerenciar-estoque) um estoque.    
 3. Na aba **Estoques**, copie o ID do estoque que você criou.    
 4. Acesse **Marketplace > Conexões > Integrações**, ou digite *Integrações* na barra de busca no topo da página.     
-5. Na integração do Mercado Livre, clique na engrenagem <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />  e selecione a opção `Editar configuração`.    
+5. Na integração do Mercado Livre, clique na engrenagem <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />  e selecione a opção `Editar configuração`.    
 6. Insira o ID do estoque selecionado no campo **Armazém Mercado Full**.  
 7. Clique em `Salvar Configuração`.    
 

@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: no-retorno-parcial-os-valores-do-imposto-na-iu-aparecem-o-total
+locale: pt
 kiStatus: Backlog
 internalReference: 559458
 ---

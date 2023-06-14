@@ -11,6 +11,7 @@ productTeam: Financial
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: pagamento-com-dois-cartoes-nao-funciona-com-3ds2
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: ao-organizar-atributos-e-grupos-por-categoria-eles-nao-sao-reorganizados-na-loja
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

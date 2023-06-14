@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-api-de-busqueda-no-acepta-caracteres-especiales
+locale: es
 kiStatus: Backlog
 internalReference: 754363
 ---

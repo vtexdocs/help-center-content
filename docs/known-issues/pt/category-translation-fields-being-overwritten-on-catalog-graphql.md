@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: campos-de-traducao-de-categoria-sendo-sobregravados-no-catalogo-graphql
+locale: pt
 kiStatus: Backlog
 internalReference: 654896
 ---

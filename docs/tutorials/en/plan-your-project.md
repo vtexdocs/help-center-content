@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: plan-your-project
+locale: en
 legacySlug: plan-your-project
 subcategory: wz3FvYTctwuCwG206QUAi
 ---

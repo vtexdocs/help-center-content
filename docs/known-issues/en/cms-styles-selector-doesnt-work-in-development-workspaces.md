@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: cms-styles-selector-doesnt-work-in-development-workspaces
+locale: en
 kiStatus: Backlog
 internalReference: 388544
 ---

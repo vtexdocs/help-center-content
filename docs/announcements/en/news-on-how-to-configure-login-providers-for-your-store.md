@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: news-on-how-to-configure-login-providers-for-your-store
+locale: en
 legacySlug: news-on-how-to-configure-login-providers-for-your-store
 announcementImageID: ''
 announcementSynopsisEN: 'News on how to configure login providers for your store'

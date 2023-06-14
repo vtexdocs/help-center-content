@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: cadastrar-rastreo-en-la-nota-fiscal
+locale: es
 legacySlug: cadastrar-rastreo-en-la-nota-fiscal
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

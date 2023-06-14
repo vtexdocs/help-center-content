@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: TnXcuQydAAOuwWACo864E
 slug: como-hacer-el-rollback-y-revertir-el-rollback-de-su-aplicacion
+locale: es
 legacySlug: 
 subcategory: 3e2VLdLao8GGk4sAmMmwmi
 ---
@@ -18,4 +19,4 @@ Si usted necesita realizar un rollback de su aplicación, ejecute el comando `vt
 
 Si percibe enseguida que será necesario deshacer el rollback, usted podrá realizar el comando `vtex undeprecate`.
 
-![image (2)](//images.ctfassets.net/alneenqid6w5/42XNwwb22OQKBkOTO5C2Bl/3bfbb5a89027e41dda9a7532a7591e7f/image__2_.png)
+![image (2)](https://images.ctfassets.net/alneenqid6w5/42XNwwb22OQKBkOTO5C2Bl/3bfbb5a89027e41dda9a7532a7591e7f/image__2_.png)

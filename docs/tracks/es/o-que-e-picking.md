@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: 
 slug: o-que-e-picking
+locale: es
 trackId: 
 trackSlugES: 
 ---

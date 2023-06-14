@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_6
 slug: poniendo-la-tienda-en-aire
+locale: es
 legacySlug: poniendo-la-tienda-en-aire
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---

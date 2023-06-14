@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: metrica-diaria-en-el-informe-de-busqueda-que-muestra-la-fecha-duplicada
+locale: es
 kiStatus: Backlog
 internalReference: 508883
 ---

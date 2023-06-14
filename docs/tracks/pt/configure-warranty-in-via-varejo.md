@@ -9,6 +9,7 @@ firstPublishedAt: 2020-10-01T20:32:16.599Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-garantia-da-via-varejo
+locale: pt
 trackId: 3E9XylGaJ2wqwISGyw4GuY
 trackSlugPT: configurar-garantia-da-via-varejo
 ---

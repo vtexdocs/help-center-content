@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: control-accountuserprofile-crea-mascara-de-telefono-solo-en-el-estandar-brasileno
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

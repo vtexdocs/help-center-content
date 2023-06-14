@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: campos-de-registro-de-inventario
+locale: es
 legacySlug: campos-de-registro-de-inventario
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

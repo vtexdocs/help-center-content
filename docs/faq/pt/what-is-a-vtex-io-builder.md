@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: 4tz85APeKIwMEk6amWS0ou
 slug: o-que-e-um-builder-do-vtex-io
+locale: pt
 legacySlug: o-que-e-um-builder-do-vtex-io
 ---
 

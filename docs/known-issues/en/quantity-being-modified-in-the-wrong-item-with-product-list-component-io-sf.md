@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: authors_84
 tag: Store Framework
 slug: quantity-being-modified-in-the-wrong-item-with-product-list-component-io-sf
+locale: en
 kiStatus: Backlog
 internalReference: 402976
 ---

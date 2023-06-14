@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: por-que-no-puedo-integrar-producto-sin-ean-o-con-ean-incorrecto
+locale: es
 legacySlug: por-que-no-puedo-integrar-producto-sin-ean-o-con-ean-incorrecto
 ---
 

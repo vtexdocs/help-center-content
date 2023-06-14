@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: giftcard-not-getting-refund-after-transaction-cancellation
+locale: en
 kiStatus: Backlog
 internalReference: 491195
 ---

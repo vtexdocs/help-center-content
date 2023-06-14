@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: como-configurar-el-device-finger-print-para-braspag
+locale: es
 legacySlug: como-configurar-el-device-finger-print-para-braspag-cybersource
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
@@ -67,6 +68,6 @@ Rellene con el siguiente código HTML:
 <script src="https://h.online-metrix.net/fp/check.js?org_id={{cs_orgId}}&amp;session_id={{cs_merchantId}}{{cs_sessionId}}" type="text/javascript"></script>
 ```
 
-![braspag fingerprint](//images.ctfassets.net/alneenqid6w5/JTnL01Ko0DMc7Pu8Bp1CQ/f801a007a7d98773d06c741691a2e1ad/image.png_h_250_h_250)
+![braspag fingerprint](https://images.ctfassets.net/alneenqid6w5/JTnL01Ko0DMc7Pu8Bp1CQ/f801a007a7d98773d06c741691a2e1ad/image.png_h_250_h_250)
 
 Por último, publique los cambios.

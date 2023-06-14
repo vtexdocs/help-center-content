@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_3
 slug: por-que-nao-aparece-a-forma-de-pagamento-do-pedido-na-vtex
+locale: pt
 legacySlug: por-que-nao-aparece-a-forma-de-pagamento-do-pedido-na-vtex
 ---
 

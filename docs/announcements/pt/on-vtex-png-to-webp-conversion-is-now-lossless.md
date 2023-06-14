@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: na-vtex-conversao-de-png-para-webp-agora-e-lossless
+locale: pt
 legacySlug: na-vtex-conversao-de-png-para-webp-agora-e-lossless
 announcementImageID: ''
 announcementSynopsisPT: 'Mudança na forma de compressão veio para atender as lojas que precisam manter a alta qualidade das imagens.'

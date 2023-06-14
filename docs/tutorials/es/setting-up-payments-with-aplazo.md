@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: configurar-pago-con-aplazo
+locale: es
 legacySlug: configurar-pago-con-aplazo
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

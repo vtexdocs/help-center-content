@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: al-cargar-una-pagina-de-producto-con-seleccion-de-sku-por-parametro-url-precio-no-se-actualiza-correctamente
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

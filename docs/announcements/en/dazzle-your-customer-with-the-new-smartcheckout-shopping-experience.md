@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: authors_59
 slug: dazzle-your-customer-with-the-new-smartcheckout-shopping-experience
+locale: en
 legacySlug: dazzle-your-customer-with-the-new-smartcheckout-shopping-experience
 announcementImageID: ''
 announcementSynopsisEN: "Discover Checkout v6's new features"

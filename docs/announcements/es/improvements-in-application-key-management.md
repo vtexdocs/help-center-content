@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: mejoras-en-la-gestion-de-claves-de-aplicacion
+locale: es
 legacySlug: mejoras-en-la-gestion-de-claves-de-aplicacion
 announcementImageID: ''
 announcementSynopsisES: 'Administre sus credenciales de autenticación en un solo lugar y delegue esa responsabilidad según sea necesario.'

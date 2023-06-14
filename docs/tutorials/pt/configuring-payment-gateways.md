@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_6
 slug: configurando-meios-de-pagamento
+locale: pt
 legacySlug: configurando-meios-de-pagamento
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_31
 tag: Catalog
 slug: parametros-de-campanhas-sendo-perdidos-em-redirecionamento-de-http-para-https
+locale: pt
 kiStatus: Fixed
 internalReference: 
 ---

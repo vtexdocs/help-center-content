@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_31
 slug: why-does-a-search-term-not-return-existing-products
+locale: en
 legacySlug: why-does-a-search-term-not-return-existing-products
 ---
 

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: ui-considers-only-the-available-items-to-calculate-sla
+locale: en
 kiStatus: Backlog
 internalReference: 797028
 ---

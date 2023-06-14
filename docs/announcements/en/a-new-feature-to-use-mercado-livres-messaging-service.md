@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: authors_24
 slug: a-new-feature-to-use-mercado-livres-messaging-service
+locale: en
 legacySlug: a-new-feature-to-use-mercado-livres-messaging-service
 announcementImageID: ''
 announcementSynopsisEN: "You can now communicate updates on order status using the Mercado Livre's messaging service."

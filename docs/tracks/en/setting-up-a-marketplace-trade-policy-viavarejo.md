@@ -9,6 +9,7 @@ firstPublishedAt: 2021-02-22T21:38:33.617Z
 contentType: trackArticle
 productTeam: Channels
 slug: setting-up-a-marketplace-trade-policy-viavarejo
+locale: en
 trackId: 3E9XylGaJ2wqwISGyw4GuY
 trackSlugEN: viavarejo-integration-set-up
 ---

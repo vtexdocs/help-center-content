@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: no-se-puede-crear-el-elemento-personalizado-productos-relacionados
+locale: es
 kiStatus: Backlog
 internalReference: 326899
 ---

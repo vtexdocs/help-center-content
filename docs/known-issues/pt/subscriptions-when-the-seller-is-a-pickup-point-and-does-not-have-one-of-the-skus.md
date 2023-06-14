@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: assinaturas-quando-o-vendedor-e-um-pickup-point-e-nao-tem-um-dos-skus
+locale: pt
 kiStatus: Backlog
 internalReference: 666701
 ---

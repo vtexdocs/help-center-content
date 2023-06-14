@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: problema-para-indexar-os-metodos-de-pagamento-no-checkout-ao-usar-periodo-de-tempo-condicao-especial
+locale: pt
 kiStatus: Backlog
 internalReference: 402857
 ---

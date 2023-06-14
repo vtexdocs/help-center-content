@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: amazon-missing-required-attributes-errors
+locale: en
 legacySlug: amazon-missing-required-attributes-errors
 subcategory: 4HBbKdnwneGew2qGGykSM8
 ---

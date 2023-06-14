@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: al-pegar-el-codigo-postal-en-el-carrito-de-la-vista-previa-del-envio-a-veces-se-obtiene-un-resultado-nulo-de-la-api
+locale: es
 kiStatus: Backlog
 internalReference: 481878
 ---

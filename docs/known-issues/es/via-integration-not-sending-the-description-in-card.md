@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: via-integration-no-envia-la-descripcion-en-la-tarjeta
+locale: es
 kiStatus: Backlog
 internalReference: 826488
 ---

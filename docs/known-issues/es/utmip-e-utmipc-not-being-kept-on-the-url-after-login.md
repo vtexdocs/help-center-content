@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: utmip-e-utmipc-no-se-mantienen-en-la-url-despues-del-inicio-de-sesion
+locale: es
 kiStatus: Backlog
 internalReference: 372787
 ---

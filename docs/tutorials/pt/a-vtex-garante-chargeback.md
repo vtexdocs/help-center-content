@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 
 slug: a-vtex-garante-chargeback
+locale: pt
 legacySlug: a-vtex-garante-chargeback
 subcategory: 6ggjFlqyvL8hd9CtQFcHiD
 ---

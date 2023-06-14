@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: comprenda-el-valor-de-los-ingresos-aprobados
+locale: es
 legacySlug: comprenda-el-valor-de-los-ingresos-aprobados
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

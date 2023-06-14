@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: a-bandeira-pesquisavel-nao-funciona-na-colecao-cms-herdada
+locale: pt
 kiStatus: Backlog
 internalReference: 322552
 ---

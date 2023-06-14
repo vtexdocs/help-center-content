@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_84
 slug: como-configurar-mercado-pago-transparente
+locale: es
 legacySlug: 
 ---
 

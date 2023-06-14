@@ -11,6 +11,7 @@ productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
 slug: obtertotaldepontos-function-does-not-work-inside-the-automatic-field
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

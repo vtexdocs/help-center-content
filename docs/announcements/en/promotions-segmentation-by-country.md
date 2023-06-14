@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: promotions-segmentation-by-country
+locale: en
 legacySlug: promotions-segmentation-by-country
 announcementImageID: ''
 announcementSynopsisEN: 'VTEX will introduce a new feature for customers with operations in several countries: the promotions filter by country.'

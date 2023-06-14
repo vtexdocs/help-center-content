@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-campo-referencia-siempre-se-establece-como-null
+locale: es
 kiStatus: Backlog
 internalReference: 797989
 ---

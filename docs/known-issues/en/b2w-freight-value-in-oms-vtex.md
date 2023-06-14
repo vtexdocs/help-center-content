@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: b2w-freight-value-in-oms-vtex
+locale: en
 kiStatus: Backlog
 internalReference: 671748
 ---

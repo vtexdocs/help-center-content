@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: kits-sin-stock-se-muestran-como-disponibles-si-tienen-promocion-de-regalo
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

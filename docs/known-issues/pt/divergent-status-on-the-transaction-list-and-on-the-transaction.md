@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: status-divergente-na-lista-de-transacoes-e-na-transacao
+locale: pt
 kiStatus: Backlog
 internalReference: 308919
 ---

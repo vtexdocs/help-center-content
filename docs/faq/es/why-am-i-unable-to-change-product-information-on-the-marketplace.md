@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: por-que-no-puedo-cambiar-las-informaciones-de-los-productos-en-el-marketplace
+locale: es
 legacySlug: por-que-no-puedo-cambiar-las-informaciones-de-los-productos-en-el-marketplace
 ---
 

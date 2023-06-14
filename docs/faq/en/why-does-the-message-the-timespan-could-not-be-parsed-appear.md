@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_3
 slug: why-does-the-message-the-timespan-could-not-be-parsed-appear
+locale: en
 legacySlug: why-does-the-message-the-timespan-could-not-be-parsed-appear
 ---
 

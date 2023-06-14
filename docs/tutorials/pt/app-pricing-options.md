@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 5dYWGfGKUwkI86Gomk6AcQ
 slug: modelos-de-cobranca-de-apps
+locale: pt
 legacySlug: modelos-de-cobranca-de-apps
 subcategory: 3e2VLdLao8GGk4sAmMmwmi
 ---

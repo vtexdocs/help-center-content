@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: cadastrar-um-produto-para-pre-venda
+locale: pt
 legacySlug: cadastrar-um-produto-para-pre-venda
 subcategory: pwxWmUu7T222QyuGogs68
 ---

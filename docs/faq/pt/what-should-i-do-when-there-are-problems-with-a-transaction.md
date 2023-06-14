@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_35
 slug: o-que-fazer-quando-ha-problemas-com-uma-transacao
+locale: pt
 legacySlug: o-que-fazer-quando-ha-problemas-com-uma-transacao
 ---
 

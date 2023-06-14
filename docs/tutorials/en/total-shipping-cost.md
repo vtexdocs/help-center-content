@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: total-shipping-cost
+locale: en
 legacySlug: total-shipping-cost
 subcategory: 7uJcyu0VawEm8ggqKu404u
 ---
@@ -30,7 +31,7 @@ See how they are calculated:
 
 So, in general, the total shipping cost is calculated as follows:
 
-![Custo-final-envio-EN](//images.ctfassets.net/alneenqid6w5/5qeoN5AQPvoWyOPcNW3J6q/4b04d0319eb18cd1ee0e9c03858c5bc1/Custo-final-envio-EN.svg)
+![Custo-final-envio-EN](https://images.ctfassets.net/alneenqid6w5/5qeoN5AQPvoWyOPcNW3J6q/4b04d0319eb18cd1ee0e9c03858c5bc1/Custo-final-envio-EN.svg)
 
 <div class="alert alert-danger">
 If the <b>price-based charge</b> is lower than the <b>insurance charge</b>, the system only considers the insurance charge. The price-based charge will not be taken into account for the total shipping cost.<p>

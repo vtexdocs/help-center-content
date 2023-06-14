@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_35
 slug: limitar-compras-a-un-medio-de-pago-por-personalizacion-del-checkout
+locale: es
 legacySlug: limitar-compras-a-un-medio-de-pago-por-personalizacion-del-checkout
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

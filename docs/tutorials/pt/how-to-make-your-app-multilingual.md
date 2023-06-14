@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1iryp847AQgmKGKIASeW8Y
 slug: como-construir-um-app-multilingue
+locale: pt
 legacySlug: como-construir-um-app-multilingue
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

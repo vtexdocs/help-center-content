@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: registro-de-novos-cartoes-na-pagina-cartoes-agora-requer-validacao-recaptcha
+locale: pt
 legacySlug: registro-de-novos-cartoes-na-pagina-cartoes-agora-requer-validacao-recaptcha
 announcementImageID: ''
 announcementSynopsisPT: 'A VTEX exigirá validação por reCAPTCHA se um cliente registra um novo cartão manualmente na página Cartões da sua loja.'

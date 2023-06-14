@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
 slug: nao-consigo-efetuar-login-no-vtex-io
+locale: pt
 legacySlug: nao-consigo-efetuar-login-no-vtex-io
 ---
 

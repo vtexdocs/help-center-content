@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: exibicao-incorreta-da-quantidade-da-embalagem-no-checkout
+locale: pt
 kiStatus: Backlog
 internalReference: 520369
 ---

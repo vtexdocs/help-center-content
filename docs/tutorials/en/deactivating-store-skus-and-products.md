@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: deactivating-store-skus-and-products
+locale: en
 legacySlug: deactivating-store-skus-and-products
 subcategory: pwxWmUu7T222QyuGogs68
 ---

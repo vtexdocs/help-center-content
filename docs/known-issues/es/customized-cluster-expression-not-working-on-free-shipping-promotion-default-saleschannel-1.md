@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: la-expresion-de-cluster-personalizada-no-funciona-en-la-promocion-de-envio-gratuito-canal-de-ventas-por-defecto-1
+locale: es
 kiStatus: Backlog
 internalReference: 334027
 ---

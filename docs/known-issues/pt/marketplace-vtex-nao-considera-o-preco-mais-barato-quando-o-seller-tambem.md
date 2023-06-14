@@ -11,6 +11,7 @@ productTeam: Channels
 author: 5S2MYtrgEoSGaGMqsICaEC
 tag: Suggestions
 slug: marketplace-VTEX-nao-considera-o-preco-mais-barato
+locale: pt
 kiStatus: Open
 internalReference: 
 ---

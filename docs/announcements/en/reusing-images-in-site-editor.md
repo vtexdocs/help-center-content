@@ -9,6 +9,7 @@ contentType: updates
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: reusing-images-in-site-editor
+locale: en
 legacySlug: reusing-images-in-site-editor
 announcementImageID: ''
 announcementSynopsisEN: 'We have improved blocks with the native option to upload images in Site Editor through an image repository.'

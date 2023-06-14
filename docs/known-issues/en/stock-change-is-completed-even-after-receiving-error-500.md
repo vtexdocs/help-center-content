@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: stock-change-is-completed-even-after-receiving-error-500
+locale: en
 kiStatus: Backlog
 internalReference: 388176
 ---

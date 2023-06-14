@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: configurar-o-subadquirente-moipv2
+locale: pt
 legacySlug: configurar-o-subadquirente-moipv2
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

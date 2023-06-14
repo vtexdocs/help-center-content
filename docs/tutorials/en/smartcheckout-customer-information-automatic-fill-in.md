@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: smartcheckout-customer-information-automatic-fill-in
+locale: en
 legacySlug: smartcheckout-customer-information-automatic-fill-in
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

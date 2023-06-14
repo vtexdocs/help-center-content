@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: como-e-calculado-o-custo-de-envio-quando-ha-um-item-com-promocao-de-frete
+locale: pt
 legacySlug: como-e-calculado-o-custo-de-envio-quando-ha-um-item-com-promocao-de-frete
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

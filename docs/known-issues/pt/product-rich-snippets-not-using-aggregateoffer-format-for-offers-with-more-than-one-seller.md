@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: snippets-ricos-em-produtos-que-nao-utilizam-o-formato-aggregateoffer-para-ofertas-com-mais-de-um-vendedor
+locale: pt
 kiStatus: Backlog
 internalReference: 753505
 ---

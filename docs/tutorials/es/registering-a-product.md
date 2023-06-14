@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: registrando-producto
+locale: es
 legacySlug: registrando-producto
 subcategory: 
 ---

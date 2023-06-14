@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: planner-pagina-lancamentos-beta
+locale: pt
 legacySlug: planner-pagina-lancamentos-beta
 subcategory: 3vXj7HrnYK8V5riTOwUuYv
 ---
@@ -34,7 +35,7 @@ A ordenação dos lançamentos agendados é feita com base na data de publicaç�
 
 Para acessar a página **Lançamentos** no Admin VTEX, vá no menu de navegação **Lançamentos**. A imagem a seguir apresenta a interface e identifica o que você pode realizar por meio dela:
 
-![Releases list view v2 - PT](//images.ctfassets.net/alneenqid6w5/Fe7SCh8LI8Nv4x6ZM6EGc/4dfbad1e1ee3bbf47ffd965472430291/Releases_list_view_v2_-_PT.png)
+![Releases list view v2 - PT](https://images.ctfassets.net/alneenqid6w5/Fe7SCh8LI8Nv4x6ZM6EGc/4dfbad1e1ee3bbf47ffd965472430291/Releases_list_view_v2_-_PT.png)
 
 | **Campo** | **Descrição** |
 |---|---|

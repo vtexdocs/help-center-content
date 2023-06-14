@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: error-de-mensaje-erroneo-al-utilizar-una-tarjeta-regalo-inexistente
+locale: es
 kiStatus: Backlog
 internalReference: 584102
 ---

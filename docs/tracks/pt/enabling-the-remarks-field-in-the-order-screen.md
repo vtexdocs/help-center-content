@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T18:40:29.042Z
 contentType: trackArticle
 productTeam: Shopping
 slug: habilitar-campo-de-observacao-na-tela-do-pedido
+locale: pt
 trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugPT: habilitar-campo-de-observacao-na-tela-do-pedido
 ---

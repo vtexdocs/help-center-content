@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: moeda-incorreta-no-formulario-de-pagamento
+locale: pt
 kiStatus: Backlog
 internalReference: 449286
 ---

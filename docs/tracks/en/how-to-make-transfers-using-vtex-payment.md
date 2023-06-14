@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: 
 slug: how-to-make-transfers-using-vtex-payment
+locale: en
 trackId: 
 trackSlugEN: 
 ---

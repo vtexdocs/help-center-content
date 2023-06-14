@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: como-visualizar-detalle-del-pedido
+locale: es
 legacySlug: como-visualizar-detalle-del-pedido
 subcategory: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---

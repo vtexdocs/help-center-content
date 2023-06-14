@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 
 slug: como-serei-notificado-do-resultado-da-disputa
+locale: es
 legacySlug: como-serei-notificado-do-resultado-da-disputa
 subcategory: 6ggjFlqyvL8hd9CtQFcHiD
 ---

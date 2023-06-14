@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-fluxo-de-revisao-de-endereco-esta-removendo-informacoes-essenciais-de-endereco
+locale: pt
 kiStatus: Backlog
 internalReference: 618756
 ---

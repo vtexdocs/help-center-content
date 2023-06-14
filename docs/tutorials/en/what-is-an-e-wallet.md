@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: what-is-an-e-wallet
+locale: en
 legacySlug: what-is-an-e-wallet
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

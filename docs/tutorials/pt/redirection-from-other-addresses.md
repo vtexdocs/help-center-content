@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_4
 slug: redirecionamento-de-outros-enderecos
+locale: pt
 legacySlug: 
 subcategory: 2Za4fjGfxYOo6oqykukgyy
 ---

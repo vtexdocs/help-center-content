@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: como-trocar-o-produto-de-um-sku
+locale: pt
 legacySlug: como-trocar-o-produto-de-um-sku
 subcategory: pwxWmUu7T222QyuGogs68
 ---

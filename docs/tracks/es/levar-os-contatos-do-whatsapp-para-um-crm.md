@@ -9,6 +9,7 @@ firstPublishedAt: 2022-08-26T14:27:50.949Z
 contentType: trackArticle
 productTeam: Shopping
 slug: levar-os-contatos-do-whatsapp-para-um-crm
+locale: es
 trackId: khP0p8mjIYRIpvM7Cb4Zr
 trackSlugES: suiteshare
 ---

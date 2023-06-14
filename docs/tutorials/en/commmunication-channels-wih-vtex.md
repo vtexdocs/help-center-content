@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_24
 slug: commmunication-channels-wih-vtex
+locale: en
 legacySlug: commmunication-channels-wih-vtex
 subcategory: 1VvCpaa8NCA6a0MK6W6oWg
 ---

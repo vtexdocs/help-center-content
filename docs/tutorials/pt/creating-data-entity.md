@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_3
 slug: criando-entidade-de-dados
+locale: pt
 legacySlug: criando-entidade-de-dados
 subcategory: 1l3IVVYwrrG5YOtdt7R2SN
 ---

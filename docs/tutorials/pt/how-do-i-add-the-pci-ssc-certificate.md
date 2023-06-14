@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: como-adicionar-o-selo-pci-ssc-a-minha-loja
+locale: pt
 legacySlug: como-adicionar-o-selo-pci-ssc-a-minha-loja
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

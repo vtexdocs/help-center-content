@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_4
 tag: Order Management
 slug: email-de-pago-denegado-no-se-envia
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-configurar-o-adicional-no-frete
+locale: es
 legacySlug: como-configurar-o-adicional-no-frete
 subcategory: 1UL6Q7nUN6SkA2g2SUsECi
 ---

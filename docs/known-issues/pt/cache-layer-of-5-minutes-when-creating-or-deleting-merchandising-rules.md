@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: camada-de-cache-de-5-minutos-ao-criar-ou-excluir-regras-de-merchandising
+locale: pt
 kiStatus: Backlog
 internalReference: 841197
 ---

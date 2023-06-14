@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: anuncios-e-envio-de-produtos-para-o-marketplace
+locale: pt
 legacySlug: anuncios-e-envio-de-produtos-para-o-marketplace
 subcategory: 4hisB47iAVZk4r3SEmMoG
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: when-trying-to-setup-the-braspag-antifraud-the-user-is-directed-to-the-braspag-affiliation-screen
+locale: en
 kiStatus: Backlog
 internalReference: 334239
 ---

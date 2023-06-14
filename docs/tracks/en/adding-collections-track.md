@@ -9,6 +9,7 @@ firstPublishedAt: 2019-06-25T16:02:17.492Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: adding-collections-track
+locale: en
 trackId: 5AF0XfnjfWeopIFBgs3LIQ
 trackSlugEN: catalog-101
 ---

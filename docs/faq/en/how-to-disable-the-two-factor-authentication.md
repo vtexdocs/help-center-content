@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: authors_84
 slug: how-to-disable-the-two-factor-authentication
+locale: en
 legacySlug: how-to-disable-the-two-factor-authentication
 ---
 

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: nao-encontro-uma-colecao-o-que-fazer
+locale: pt
 legacySlug: nao-encontro-uma-colecao-o-que-fazer
 ---
 

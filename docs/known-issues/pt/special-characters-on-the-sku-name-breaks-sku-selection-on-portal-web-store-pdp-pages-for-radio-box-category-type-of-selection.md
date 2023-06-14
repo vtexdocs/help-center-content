@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: caracteres-especiais-no-nome-sku-quebra-a-selecao-sku-nas-paginas-pdp-do-portal-web-store-para-caixa-de-radio-tipo-de-selecao-de-categoria
+locale: pt
 kiStatus: Backlog
 internalReference: 337933
 ---

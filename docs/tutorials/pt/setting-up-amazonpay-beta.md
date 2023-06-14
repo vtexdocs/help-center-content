@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 slug: configurar-o-amazonpay-beta
+locale: pt
 legacySlug: configurar-o-amazonpay-beta
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: 12-digitos-cardnumber-siendo-aceptados-en-la-caja-y-causando-transacciones-atascadas
+locale: es
 kiStatus: Backlog
 internalReference: 452392
 ---

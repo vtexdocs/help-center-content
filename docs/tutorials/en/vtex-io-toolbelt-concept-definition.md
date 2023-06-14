@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: vtex-io-toolbelt-concept-definition
+locale: en
 legacySlug: vtex-io-toolbelt-concept-definition
 subcategory: 5eBwrcLFVSwYGSOQqGKQYW
 ---

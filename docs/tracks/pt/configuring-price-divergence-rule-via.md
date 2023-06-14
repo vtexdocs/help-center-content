@@ -9,6 +9,7 @@ firstPublishedAt: 2022-01-05T16:04:18.518Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-regra-de-divergencia-de-valores-via
+locale: pt
 trackId: 3E9XylGaJ2wqwISGyw4GuY
 trackSlugPT: configurar-integracao-da-via-varejo
 ---

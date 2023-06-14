@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: sobre-el-plan-de-soporte-community
+locale: es
 legacySlug: sobre-el-plan-de-soporte-community
 subcategory: 1VvCpaa8NCA6a0MK6W6oWg
 ---

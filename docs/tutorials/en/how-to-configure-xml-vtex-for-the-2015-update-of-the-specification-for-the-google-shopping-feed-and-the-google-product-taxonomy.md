@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: how-to-configure-xml-vtex-for-the-2015-update-of-the-specification-for-the-google-shopping-feed-and-the-google-product-taxonomy
+locale: en
 legacySlug: 
 subcategory: 
 ---

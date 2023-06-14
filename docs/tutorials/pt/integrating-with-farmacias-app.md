@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_24
 slug: integrando-com-farmacias-app
+locale: pt
 legacySlug: integrando-com-farmacias-app
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

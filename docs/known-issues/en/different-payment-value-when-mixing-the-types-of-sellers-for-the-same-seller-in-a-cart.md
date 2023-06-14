@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: different-payment-value-when-mixing-the-types-of-sellers-for-the-same-seller-in-a-cart
+locale: en
 kiStatus: Backlog
 internalReference: 821741
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-30T01:10:16.779Z
 contentType: trackArticle
 productTeam: Apps
 slug: mapeo-de-especificaciones
+locale: es
 trackId: 2KDrouPiE4HDKUFFSG3KdN
 trackSlugES: integracion-de-lengow
 ---

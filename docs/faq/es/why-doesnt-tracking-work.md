@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
 slug: por-que-no-funciona-el-rastreo
+locale: es
 legacySlug: por-que-no-funciona-el-rastreo
 ---
 

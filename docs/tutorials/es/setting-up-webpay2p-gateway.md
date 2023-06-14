@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-gateway-webpay2p
+locale: es
 legacySlug: configurar-gateway-webpay2p
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: lista-de-presentes-nao-carrega
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

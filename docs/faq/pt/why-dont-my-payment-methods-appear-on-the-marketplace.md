@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: por-que-meus-meios-de-pagamento-nao-aparecem-no-marketplace
+locale: pt
 legacySlug: por-que-meus-meios-de-pagamento-nao-aparecem-no-marketplace
 ---
 

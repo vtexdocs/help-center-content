@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: edicao-da-tabela-de-precos
+locale: pt
 legacySlug: edicao-da-tabela-de-precos
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---

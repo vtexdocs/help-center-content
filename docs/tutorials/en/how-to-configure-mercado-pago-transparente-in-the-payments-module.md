@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: how-to-configure-mercado-pago-transparente-in-the-payments-module
+locale: en
 legacySlug: how-to-configure-mercado-pago-transparente-in-the-pci-module
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

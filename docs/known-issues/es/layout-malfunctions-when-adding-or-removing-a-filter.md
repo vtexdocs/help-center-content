@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: salto-de-diseno-al-agregar-quitar-filtro
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

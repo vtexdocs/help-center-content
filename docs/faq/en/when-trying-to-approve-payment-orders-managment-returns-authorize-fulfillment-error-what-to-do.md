@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_24
 slug: when-trying-to-approve-payment-orders-managment-returns-authorize-fulfillment-error-what-to-do
+locale: en
 legacySlug: when-trying-to-approve-payment-oms-returns-authorize-fulfillment-error-what-to-do
 ---
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_59
 slug: acceder-a-lista-de-compras-del-cliente-con-usuario-de-televentas
+locale: es
 legacySlug: acceder-a-lista-de-compras-del-cliente-con-usuario-de-televentas
 subcategory: 6aeeWirCBUwwCmeIWOgIWs
 ---

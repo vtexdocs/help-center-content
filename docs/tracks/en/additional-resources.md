@@ -9,6 +9,7 @@ firstPublishedAt: 2021-12-21T11:45:48.421Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: additional-resources
+locale: en
 trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugEN: cms
 ---

@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: autocomplete-bringing-suggestion-products-shown-with-delay
+locale: en
 kiStatus: Backlog
 internalReference: 615616
 ---

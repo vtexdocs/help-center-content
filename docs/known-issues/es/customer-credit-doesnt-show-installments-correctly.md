@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: el-credito-del-cliente-no-muestra-las-cuotas-correctamente
+locale: es
 kiStatus: Backlog
 internalReference: 501730
 ---

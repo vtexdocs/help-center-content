@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: cuales-certificados-de-seguridad-pueden-ser-anadidos-a-mi-tienda
+locale: es
 legacySlug: cuales-certificados-de-seguridad-pueden-ser-anadidos-a-mi-tienda
 subcategory: wz3FvYTctwuCwG206QUAi
 ---

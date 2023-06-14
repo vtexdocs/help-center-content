@@ -9,6 +9,7 @@ firstPublishedAt: 2018-04-27T16:54:25.383Z
 contentType: trackArticle
 productTeam: VTEX IO
 slug: crear-workspace
+locale: es
 trackId: 2qYWraccosS2ayg2kusaUo
 trackSlugES: vtex-io-getting-started
 ---

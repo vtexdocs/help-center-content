@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: produtos-sem-estoque-aparecem-disponiveis-para-compra-na-pagina-de-produto
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

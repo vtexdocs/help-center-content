@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: como-configuro-bridge-para-tiendas-multiples
+locale: es
 legacySlug: como-configuro-bridge-para-tiendas-multiples
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

@@ -11,6 +11,7 @@ productTeam: Channels
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Connections
 slug: publication-attributes-in-mercado-livre-are-not-integrated
+locale: en
 kiStatus: Fixed
 internalReference: 
 ---

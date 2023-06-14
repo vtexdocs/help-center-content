@@ -9,6 +9,7 @@ firstPublishedAt: 2018-06-22T14:36:44.545Z
 contentType: trackArticle
 productTeam: Shopping
 slug: entrega-em-casa-prateleira-infinita
+locale: pt
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugPT: instore-setup
 ---

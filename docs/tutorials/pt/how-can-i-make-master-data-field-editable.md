@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_3
 slug: como-deixar-um-campo-do-master-data-editavel
+locale: pt
 legacySlug: como-deixar-um-campo-do-master-data-editavel
 subcategory: WpbGhubuRZaNZilJSXnqu
 ---

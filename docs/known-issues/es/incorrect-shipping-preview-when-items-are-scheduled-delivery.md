@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: vista-previa-de-envio-incorrecta-cuando-los-articulos-son-de-entrega-programada
+locale: es
 kiStatus: Backlog
 internalReference: 545697
 ---

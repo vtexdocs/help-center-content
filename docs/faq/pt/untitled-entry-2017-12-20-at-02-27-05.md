@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 
 slug: erros-de-produtos-no-bridge-como-resolver
+locale: pt
 legacySlug: erros-de-produtos-no-bridge-como-resolver
 ---
 

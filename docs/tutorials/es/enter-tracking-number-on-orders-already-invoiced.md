@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: insertar-numero-de-seguimiento-en-pedidos-ya-facturados
+locale: es
 legacySlug: insertar-número-de-seguimiento-en-pedidos-ya-facturados
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: o-que-e-o-cms-layout
+locale: pt
 legacySlug: o-que-e-o-cms
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

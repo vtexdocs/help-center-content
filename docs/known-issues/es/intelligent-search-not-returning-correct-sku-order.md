@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: la-busqueda-inteligente-no-devuelve-el-pedido-sku-correcto
+locale: es
 kiStatus: Fixed
 internalReference: 677937
 ---

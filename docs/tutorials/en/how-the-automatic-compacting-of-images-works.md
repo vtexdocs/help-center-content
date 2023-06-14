@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_4
 slug: how-the-automatic-compacting-of-images-works
+locale: en
 legacySlug: how-the-automatic-compacting-of-images-works
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

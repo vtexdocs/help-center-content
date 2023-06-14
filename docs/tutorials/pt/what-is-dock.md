@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: o-que-e-doca
+locale: pt
 legacySlug: o-que-e-doca
 subcategory: 3RSSKdmS4MY2ycsu8WoyC2
 ---

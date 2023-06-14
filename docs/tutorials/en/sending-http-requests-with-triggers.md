@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: sending-http-requests-with-triggers
+locale: en
 legacySlug: sending-http-requests-with-triggers
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

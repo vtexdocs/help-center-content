@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_35
 tag: Catalog
 slug: kit-creado-por-integracion-no-recibe-una-lista
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

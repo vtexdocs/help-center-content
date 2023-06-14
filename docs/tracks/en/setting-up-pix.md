@@ -9,6 +9,7 @@ firstPublishedAt: 2022-10-05T18:05:57.536Z
 contentType: trackArticle
 productTeam: Shopping
 slug: setting-up-pix
+locale: en
 trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugEN: instore-payments
 ---

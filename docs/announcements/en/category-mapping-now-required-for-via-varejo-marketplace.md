@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: category-mapping-now-required-for-via-varejo-marketplace
+locale: en
 legacySlug: changes-in-via-varejo-product-integration
 announcementImageID: ''
 announcementSynopsisEN: 'Make products more quickly available on the Via Varejo Marketplace by mapping categories, variations and attributes.'

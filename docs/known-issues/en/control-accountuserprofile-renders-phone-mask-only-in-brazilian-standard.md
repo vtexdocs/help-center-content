@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: control-accountuserprofile-renders-phone-mask-only-in-brazilian-standard
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

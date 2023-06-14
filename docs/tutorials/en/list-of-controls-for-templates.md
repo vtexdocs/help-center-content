@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: list-of-controls-for-templates
+locale: en
 legacySlug: list-of-controls-for-templates
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

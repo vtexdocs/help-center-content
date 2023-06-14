@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: valor-de-pago-diferente-cuando-se-mezclan-los-tipos-de-vendedores-para-el-mismo-vendedor-en-un-carro
+locale: es
 kiStatus: Backlog
 internalReference: 821741
 ---

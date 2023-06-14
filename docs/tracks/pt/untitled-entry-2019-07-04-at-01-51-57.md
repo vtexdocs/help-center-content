@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: 
 slug: contextos-de-aplicacao-de-preco
+locale: pt
 trackId: 
 trackSlugPT: 
 ---

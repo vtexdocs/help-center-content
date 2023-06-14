@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: regras-de-precos-v2
+locale: pt
 legacySlug: regras-de-precos-v2
 subcategory: wUepkh8pzimEywO8oGUIc
 ---

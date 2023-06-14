@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: o-atributo-de-video-nao-esta-sendo-enviado-do-vendedor-para-o-marketplace
+locale: pt
 kiStatus: Backlog
 internalReference: 519412
 ---

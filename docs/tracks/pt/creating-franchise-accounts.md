@@ -9,6 +9,7 @@ firstPublishedAt: 2022-04-04T15:31:49.220Z
 contentType: trackArticle
 productTeam: Shopping
 slug: criar-contas-franquias
+locale: pt
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugPT: criar-contas-franquias
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: sms-and-email-report
+locale: en
 legacySlug: sms-and-email-report
 subcategory: 37YF86noTwhDdEuhUyW3LH
 ---

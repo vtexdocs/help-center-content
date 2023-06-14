@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-subadquirente-stelo
+locale: es
 legacySlug: configurar-subadquirente-stelo
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

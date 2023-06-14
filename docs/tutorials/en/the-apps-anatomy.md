@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 
 slug: the-apps-anatomy
+locale: en
 legacySlug: the-apps-anatomy
 subcategory: 
 ---

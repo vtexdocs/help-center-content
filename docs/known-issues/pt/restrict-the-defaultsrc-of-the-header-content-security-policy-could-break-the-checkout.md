@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: restringir-o-padrao-de-seguranca-do-cabecalho-a-politica-de-seguranca-de-conteudo-pode-quebrar-o-checkout
+locale: pt
 kiStatus: Backlog
 internalReference: 763359
 ---

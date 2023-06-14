@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: pagamentos-falhados-criados-pela-caixa-ui-transacao-sem-pagamentos
+locale: pt
 kiStatus: Backlog
 internalReference: 339243
 ---

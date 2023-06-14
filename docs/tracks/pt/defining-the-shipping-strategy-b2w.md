@@ -9,6 +9,7 @@ firstPublishedAt: 2022-02-02T20:30:34.607Z
 contentType: trackArticle
 productTeam: Channels
 slug: definir-estrategia-de-envio-b2w
+locale: pt
 trackId: 6w07SJBVqE020KIOOS8ygk
 trackSlugPT: configurar-integracao-da-b2w
 ---

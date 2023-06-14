@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: como-funciona-o-envio-de-precos-para-o-facebook
+locale: pt
 legacySlug: como-funciona-o-envio-de-precos-para-o-facebook
 subcategory: 3pGCbMh80UueoeSqoAgSuS
 ---

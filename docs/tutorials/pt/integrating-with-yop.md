@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: integrando-com-yop
+locale: pt
 legacySlug: integrando-com-yop
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

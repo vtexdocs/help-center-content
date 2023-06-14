@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 245tA425AIeioKAk2eaiwS
 slug: what-is-an-account-name
+locale: en
 legacySlug: what-is-an-account-name
 subcategory: yMp6sKDiJEi66CGAIQ4ma
 ---

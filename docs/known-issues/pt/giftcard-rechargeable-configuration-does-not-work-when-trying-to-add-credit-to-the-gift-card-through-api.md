@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: a-configuracao-do-giftcard-recarregavel-nao-funciona-quando-se-tenta-adicionar-credito-ao-cartao-presente-atraves-de-api
+locale: pt
 kiStatus: Backlog
 internalReference: 583669
 ---

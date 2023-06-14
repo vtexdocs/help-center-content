@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: ao-selecionar-o-sku-as-prateleiras-complementares-nao-sao-atualizadas
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

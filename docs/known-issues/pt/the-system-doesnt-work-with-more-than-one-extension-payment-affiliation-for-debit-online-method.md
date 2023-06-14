@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: o-sistema-nao-funciona-com-mais-de-uma-filiacao-de-pagamento-de-extensao-para-debito-online
+locale: pt
 kiStatus: Backlog
 internalReference: 319750
 ---

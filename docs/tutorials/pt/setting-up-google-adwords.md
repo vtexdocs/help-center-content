@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: configuracao-do-google-adwords
+locale: pt
 legacySlug: configuracao-do-google-adwords
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

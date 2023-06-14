@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: vztwQkZv4z6EwDVwdqbsw
 slug: segment-prices-b2b-order-configuration
+locale: en
 legacySlug: segment-prices-b2b-order-configuration
 announcementImageID: ''
 announcementSynopsisEN: 'Cree estrategias de precios segmentados directo en la experiencia de compra con Configuración de Pedidos para B2B.'

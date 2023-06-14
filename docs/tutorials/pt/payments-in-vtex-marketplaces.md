@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: pagamentos-em-marketplaces-vtex
+locale: pt
 legacySlug: pagamentos-em-marketplaces-vtex
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

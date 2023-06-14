@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: el-atributo-meli-variacion-esta-duplicado-combinaciones-de-atributos-unicos-permitidas
+locale: es
 kiStatus: Backlog
 internalReference: 758331
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: understanding-the-updating-of-the-xml
+locale: en
 legacySlug: understanding-the-updating-of-the-xml
 subcategory: 2OCA7SVfWoMSiAi0GEGwKo
 ---

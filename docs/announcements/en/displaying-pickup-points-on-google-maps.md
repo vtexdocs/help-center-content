@@ -9,6 +9,7 @@ contentType: updates
 productTeam: VTEX IO
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: displaying-pickup-points-on-google-maps
+locale: en
 legacySlug: displaying-pickup-points-on-google-maps
 announcementImageID: ''
 announcementSynopsisEN: 'An application that lists pickup locations and displays them as markers on Google Maps.'
@@ -16,7 +17,7 @@ announcementSynopsisEN: 'An application that lists pickup locations and displays
 
 One of the most common features of websites and online stores is a map showing the location of physical stores. The new[ Store Locator](https://apps.vtex.com/vtex-store-locator/p#overview) app allows stores developed with VTEX IO to list their pickup points on Google Maps and show them as markers on a map.
 
-![Maps](//images.ctfassets.net/alneenqid6w5/5Y2mR6XMrFEcRFTAapWrGY/ac3eb4449114856b2c0e573644840dec/mapas.png)
+![Maps](https://images.ctfassets.net/alneenqid6w5/5Y2mR6XMrFEcRFTAapWrGY/ac3eb4449114856b2c0e573644840dec/mapas.png)
 
 ## What changed?
 

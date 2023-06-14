@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 71cQH3Q0oKXzeY2DmMZRKX
 slug: feature-removal-discontinuing-the-use-of-maximum-price-per-item-feature
+locale: en
 legacySlug: feature-removal-discontinuing-the-use-of-maximun-price-per-item-feature
 announcementImageID: ''
 announcementSynopsisEN: 'You can use the new Promotional Price Table feature to meet the scenarios of the discontinued feature. '

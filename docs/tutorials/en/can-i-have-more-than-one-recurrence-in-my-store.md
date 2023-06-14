@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_61
 slug: can-i-have-more-than-one-recurrence-in-my-store
+locale: en
 legacySlug: can-i-have-more-than-one-recurrence-in-my-store
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---

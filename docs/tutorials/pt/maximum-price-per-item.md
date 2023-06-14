@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_24
 slug: preco-maximo-por-item
+locale: pt
 legacySlug: preco-maximo-por-item
 subcategory: 
 ---

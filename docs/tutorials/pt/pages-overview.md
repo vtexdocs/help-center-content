@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: paginas-visao-geral
+locale: pt
 legacySlug: paginas-visao-geral
 subcategory: 1znnjA17XqaUNdNFr42PW5
 ---

@@ -11,6 +11,7 @@ productTeam: Master Data
 author: TnXcuQydAAOuwWACo864E
 tag: Master Data
 slug: 
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

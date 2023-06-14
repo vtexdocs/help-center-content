@@ -9,6 +9,7 @@ firstPublishedAt: 2021-09-30T18:46:40.188Z
 contentType: trackArticle
 productTeam: Channels
 slug: facebook-business-extension
+locale: en
 trackId: 2hS3ANSZ7vlHCcba4h7k8D
 trackSlugEN: integration-with-facebook-business-extension
 ---

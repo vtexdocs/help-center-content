@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: inventario-incorretamente-atualizado
+locale: pt
 kiStatus: Backlog
 internalReference: 556514
 ---

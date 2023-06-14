@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: caracter-especial-en-el-nombre-del-vendedor-informe
+locale: es
 kiStatus: Backlog
 internalReference: 756243
 ---

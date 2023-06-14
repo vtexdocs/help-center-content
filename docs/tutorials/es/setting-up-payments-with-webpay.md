@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-pagos-con-webpay
+locale: es
 legacySlug: configurar-pagos-con-webpay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

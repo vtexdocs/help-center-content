@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: configurando-a-categoria-global
+locale: es
 legacySlug: configurando-a-categoria-global
 subcategory: 1E7tziZCkY4w8i4EmUuwec
 ---

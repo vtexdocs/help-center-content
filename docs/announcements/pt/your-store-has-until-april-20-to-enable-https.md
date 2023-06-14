@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: sua-loja-tem-ate-20-de-abril-para-ativar-o-https
+locale: pt
 legacySlug: sua-loja-tem-ate-20-de-abril-para-ativar-o-https
 announcementImageID: ''
 announcementSynopsisPT: 'Além de trazer mais segurança para seus clientes, ativar o HTTPS em todo o site é requisito para migrar para a nova CDN.'

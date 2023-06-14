@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: programacao-de-data-de-fim-para-colecoes-nao-funcionando
+locale: pt
 kiStatus: Fixed
 internalReference: 497880
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: programar-precio
+locale: es
 legacySlug: programar-precio-en-pricing-v2
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---

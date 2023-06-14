@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_24
 slug: creating-customizable-fields-in-the-cart-through-api
+locale: en
 legacySlug: creating-customizable-fields-in-the-cart-through-api
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

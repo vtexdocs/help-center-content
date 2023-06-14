@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: inconsistencia-na-pesquisa-de-facetas-que-contem-resultados-com-valores-de-especificacao-grandes
+locale: pt
 kiStatus: Backlog
 internalReference: 824198
 ---

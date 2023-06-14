@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: erros-de-falta-de-estoque-na-integracao-de-pedidos-de-marketplace
+locale: pt
 legacySlug: erros-de-falta-de-estoque-em-pedidos-de-integracao-com-marketplace
 subcategory: 7lxg0kyL3TYIsrlSQlf1zP
 ---

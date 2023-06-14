@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: prepare-sua-loja-para-a-black-friday-com-nossa-cartilha-de-boas-praticas-2022
+locale: pt
 legacySlug: 
 announcementImageID: ''
 announcementSynopsisPT: 'Siga nossas recomendações e dicas exclusivas para aproveitar todas as oportunidades de venda da Black Friday.'
@@ -26,4 +27,4 @@ https://{AccountName}.myvtex.com/admin/shopping-season
 
 Basta substituir `{AccountName}` pelo Account Name da sua loja, como na imagem abaixo.
 
-![Shopping Season Guidelines - 2022 - PT](//images.ctfassets.net/alneenqid6w5/3vmyW3BipNCRN698zQdRVQ/55de9dc55b06266326e99aa3d0b89836/Screen_Shot_2022-10-19_at_18.15.20.png)
+![Shopping Season Guidelines - 2022 - PT](https://images.ctfassets.net/alneenqid6w5/3vmyW3BipNCRN698zQdRVQ/55de9dc55b06266326e99aa3d0b89836/Screen_Shot_2022-10-19_at_18.15.20.png)

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: control-para-deshabilitar-la-tag-canonical
+locale: es
 legacySlug: control-para-deshabilitar-la-tag-canonical
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

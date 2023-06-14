@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: o-recurso-aplicar-ao-tema-nao-funciona-no-editor-do-site-com-paginas-personalizadas
+locale: pt
 kiStatus: Backlog
 internalReference: 580543
 ---

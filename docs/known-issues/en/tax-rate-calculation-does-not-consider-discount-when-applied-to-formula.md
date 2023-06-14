@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: tax-rate-calculation-does-not-consider-discount-when-applied-to-formula
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

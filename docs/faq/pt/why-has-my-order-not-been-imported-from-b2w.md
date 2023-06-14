@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_35
 slug: por-que-meu-pedido-nao-foi-importado-da-b2w
+locale: pt
 legacySlug: por-que-meu-pedido-nao-foi-importado-da-b2w
 ---
 

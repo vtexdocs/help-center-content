@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: creating-a-subscription-plan
+locale: en
 legacySlug: creating-a-subscription-plan-beta
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
@@ -90,7 +91,7 @@ On this page, you can perform the following actions:
 
 * **Select**: by clicking on the <i class="far fa-square"></i> in the row of each product, you can select products or SKUs individually. Another option is to click on the first <i class="far fa-square"></i> and select all the products and SKUs displayed on the page to add them to the subscription plan, as illustrated in the example below.
 
-![selecionarskus EN](//images.ctfassets.net/alneenqid6w5/3nBgV1SCLFqG92L1rOBXOX/f833322d9519810cbdd0d1b7e17e4551/selecionarskus_EN.gif)
+![selecionarskus EN](https://images.ctfassets.net/alneenqid6w5/3nBgV1SCLFqG92L1rOBXOX/f833322d9519810cbdd0d1b7e17e4551/selecionarskus_EN.gif)
 
 * <i class="fas fa-chevron-down"></i> __button__: displays the SKUs, i.e., product variations.
 * **Add**: click on this button to add products or SKUs to the subscription plan.

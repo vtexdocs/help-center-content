@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: promocao-mais-por-menos-nao-trabalhar-ao-lado-da-promocao-regular
+locale: pt
 kiStatus: Backlog
 internalReference: 637586
 ---

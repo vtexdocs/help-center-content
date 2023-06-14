@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: sustituir-palabras-con-menos-de-3-caracteres-no-funciona
+locale: es
 kiStatus: Backlog
 internalReference: 282500
 ---

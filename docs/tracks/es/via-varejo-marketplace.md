@@ -9,6 +9,7 @@ firstPublishedAt: 2020-03-30T18:11:59.947Z
 contentType: trackArticle
 productTeam: Channels
 slug: via-varejo-marketplace
+locale: es
 trackId: 3E9XylGaJ2wqwISGyw4GuY
 trackSlugES: configurar-la-integracion-de-via-varejo
 ---

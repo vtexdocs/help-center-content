@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: a-exportacao-de-valores-de-anexos-do-sku-nao-funcionam-corretamente-para-sistemas-operacionais-em-espanhol
+locale: pt
 kiStatus: Backlog
 internalReference: 566393
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2JdGRHS4OGcDWQoxRjEHcn
 slug: accessing-product-reviews
+locale: en
 legacySlug: accessing-product-reviews
 subcategory: 5yDQmr18K4GgQAeGwq8USa
 ---

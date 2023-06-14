@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: no-es-posible-eliminar-plantillas-en-el-cms
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

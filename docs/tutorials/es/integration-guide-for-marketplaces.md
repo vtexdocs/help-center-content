@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: guia-de-integracion-para-marketplaces
+locale: es
 legacySlug: guia-de-integracion-para-marketplaces
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---

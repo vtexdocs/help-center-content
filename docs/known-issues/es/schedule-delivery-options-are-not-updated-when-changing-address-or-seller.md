@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 3iOk6R6XYZ9O18JHFLPk43
 tag: Checkout
 slug: las-opciones-de-entrega-programadas-no-se-actualizan-al-cambiar-de-direccion
+locale: es
 kiStatus: Backlog
 internalReference: 288574
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_35
 slug: como-identificar-errores-de-cierre-de-pedido
+locale: es
 legacySlug: como-identificar-errores-de-cierre-de-pedido
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_4
 tag: Checkout
 slug: transacoes-duplicadas-no-google-analytics
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

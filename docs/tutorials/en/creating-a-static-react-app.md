@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: creating-a-static-react-app
+locale: en
 legacySlug: creating-a-static-react-app
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

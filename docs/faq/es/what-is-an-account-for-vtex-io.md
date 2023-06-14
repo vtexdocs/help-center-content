@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
 slug: o-que-e-uma-conta-para-o-vtex-io
+locale: es
 legacySlug: o-que-e-uma-conta-para-o-vtex-io
 ---
 

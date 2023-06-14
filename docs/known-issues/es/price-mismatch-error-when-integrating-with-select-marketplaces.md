@@ -11,6 +11,7 @@ productTeam: Channels
 author: TnXcuQydAAOuwWACo864E
 tag: Pricing & Promotions
 slug: divergencia-de-precios-en-integracion-con-el-mercado
+locale: es
 kiStatus: Fixed
 internalReference: 
 ---

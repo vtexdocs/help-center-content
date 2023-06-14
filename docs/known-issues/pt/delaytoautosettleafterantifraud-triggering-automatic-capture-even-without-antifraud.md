@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: delaytoautosettleafterantifraud-acionando-a-captura-automatica-mesmo-sem-antifraude
+locale: pt
 kiStatus: Backlog
 internalReference: 369633
 ---

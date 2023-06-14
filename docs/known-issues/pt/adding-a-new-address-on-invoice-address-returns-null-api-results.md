@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: a-adicao-de-um-novo-endereco-no-endereco-da-fatura-retorna-resultados-api-nulos
+locale: pt
 kiStatus: Backlog
 internalReference: 748668
 ---

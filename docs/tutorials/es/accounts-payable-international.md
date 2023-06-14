@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: cuentas-por-pagar-internacional
+locale: es
 legacySlug: procedimiento-de-cuentas-a-pagar-internacional
 subcategory: 22TaEgFhwE6a6CG2KASYkC
 ---

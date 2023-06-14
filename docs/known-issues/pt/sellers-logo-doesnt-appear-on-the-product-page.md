@@ -11,6 +11,7 @@ productTeam: Channels
 author: 6qOjO5gpEs8scQ8OugaEaW
 tag: Portal
 slug: logo-do-seller-nao-aparece-na-pagina-de-produto
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

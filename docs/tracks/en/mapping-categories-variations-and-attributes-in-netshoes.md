@@ -9,6 +9,7 @@ firstPublishedAt: 2018-09-27T15:03:03.255Z
 contentType: trackArticle
 productTeam: Channels
 slug: mapping-categories-variations-and-attributes-in-netshoes
+locale: en
 trackId: 5Ua87lhFg4m0kEcuyqmcCm
 trackSlugEN: netshoes-integration-set-up
 ---

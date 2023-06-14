@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: o-cronograma-de-coleta-legado-nao-respeita-o-fuso-horario-sc
+locale: pt
 kiStatus: Backlog
 internalReference: 316054
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: insights-is-available-in-the-new-admin
+locale: en
 legacySlug: insights-is-available-in-the-new-admin
 announcementImageID: ''
 announcementSynopsisEN: "Check detailed metrics, define goals and keep an eye on your store's performance right on your desktop."

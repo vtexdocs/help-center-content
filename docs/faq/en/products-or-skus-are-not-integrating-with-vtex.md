@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_84
 slug: products-or-skus-are-not-integrating-with-vtex
+locale: en
 legacySlug: products-or-skus-are-not-integrating-with-vtex
 ---
 

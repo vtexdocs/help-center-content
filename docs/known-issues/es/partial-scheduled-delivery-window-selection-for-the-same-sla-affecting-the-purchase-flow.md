@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: seleccion-de-ventana-de-entrega-programada-parcial-para-el-mismo-sla-que-afecta-al-flujo-de-compra
+locale: es
 kiStatus: Backlog
 internalReference: 627261
 ---

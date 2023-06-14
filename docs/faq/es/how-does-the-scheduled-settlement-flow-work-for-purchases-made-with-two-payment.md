@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: como-funciona-el-flujo-de-liquidacion-programada-para-las-compras-realizadas-con
+locale: es
 legacySlug: como-funciona-el-flujo-de-captura-programada-para-las-compras-realizadas-con
 ---
 

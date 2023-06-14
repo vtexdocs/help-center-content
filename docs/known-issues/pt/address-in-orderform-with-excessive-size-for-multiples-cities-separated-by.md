@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: endereco-em-ordemforma-com-tamanho-excessivo-para-multiplas-cidades-separadas-por
+locale: pt
 kiStatus: Backlog
 internalReference: 287854
 ---

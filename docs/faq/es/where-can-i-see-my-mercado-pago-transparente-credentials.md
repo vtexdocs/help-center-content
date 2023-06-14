@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_84
 slug: onde-acessar-minhas-credenciais-do-mercado-pago-transparente
+locale: es
 legacySlug: 
 ---
 

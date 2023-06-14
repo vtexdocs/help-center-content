@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: a-condicao-especial-do-banco-emissor-esta-causando-para-alguns-bins-o-erro-na-pagina-de-checkout-banco-emissor-para-este-banco-nao-e-aceito
+locale: pt
 kiStatus: Backlog
 internalReference: 391549
 ---

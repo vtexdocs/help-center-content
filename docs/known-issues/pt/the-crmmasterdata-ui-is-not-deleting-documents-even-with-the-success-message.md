@@ -11,6 +11,7 @@ productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
 slug: a-iu-crmmasterdata-nao-esta-apagando-documentos-mesmo-com-a-mensagem-de-sucesso
+locale: pt
 kiStatus: No Fix
 internalReference: 699374
 ---

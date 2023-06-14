@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 71cQH3Q0oKXzeY2DmMZRKX
 slug: criar-e-encontrar-tabela-de-precos
+locale: pt
 legacySlug: criar-e-encontrar-tabela-de-precos
 subcategory: 
 ---

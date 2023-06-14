@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: checkout-does-not-correctly-calculate-shipping-value-for-single-item-that-has-free-shipping-and-scheduled-delivery
+locale: en
 kiStatus: Backlog
 internalReference: 529043
 ---

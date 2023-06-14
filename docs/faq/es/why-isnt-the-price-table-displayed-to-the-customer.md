@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 5mp4SUVpZYa02A8QOqYySu
 slug: por-que-la-tabla-de-precios-no-aparece-para-el-cliente
+locale: es
 legacySlug: por-que-la-price-table-no-aparece-para-el-cliente
 ---
 

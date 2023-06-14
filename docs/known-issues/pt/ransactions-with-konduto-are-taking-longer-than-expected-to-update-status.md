@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: as-acoes-de-resgate-com-a-konduto-estao-demorando-mais-do-que-o-esperado-para-atualizar-o-status
+locale: pt
 kiStatus: Backlog
 internalReference: 541149
 ---

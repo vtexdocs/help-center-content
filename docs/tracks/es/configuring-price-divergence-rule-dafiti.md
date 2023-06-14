@@ -9,6 +9,7 @@ firstPublishedAt: 2022-01-05T16:11:57.454Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-regla-de-divergencia-de-precios-dafiti
+locale: es
 trackId: 4wF4RBx9ygEkimW6SsKw8i
 trackSlugES: configurar-la-integracion-de-dafiti
 ---

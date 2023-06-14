@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Others
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: soporte-vtex-brasil
+locale: es
 legacySlug: soporte-vtex-brasil
 ---
 

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: los-skus-enviados-por-los-vendedores-se-crean-con-imagenes-desordenadas
+locale: es
 kiStatus: Fixed
 internalReference: 648349
 ---

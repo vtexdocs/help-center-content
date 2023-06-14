@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: especificacion-de-productosku-duplicada-al-cambiar-arbol-de-categorias-o-producto-de-categoria
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

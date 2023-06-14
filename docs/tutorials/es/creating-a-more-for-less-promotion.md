@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: mas-por-menos
+locale: es
 legacySlug: mas-por-menos
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

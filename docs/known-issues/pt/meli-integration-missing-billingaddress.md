@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: falta-integracao-meli-faturamentoadereco
+locale: pt
 kiStatus: Backlog
 internalReference: 771418
 ---

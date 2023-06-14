@@ -9,6 +9,7 @@ firstPublishedAt: 2020-10-20T19:53:25.808Z
 contentType: trackArticle
 productTeam: Channels
 slug: mapping-centauro-categories-variations-and-attributes
+locale: en
 trackId: D8Qnjbr5lfLkUfMRhsfbj
 trackSlugEN: mapping-centauro-categories-variations-and-attributes
 ---

@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: categoria-global-da-amazon-nao-funciona
+locale: pt
 kiStatus: Backlog
 internalReference: 634199
 ---

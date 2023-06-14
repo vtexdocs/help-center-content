@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: 
 slug: o-que-sao-kits
+locale: pt
 trackId: 
 trackSlugPT: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: wow-to-integrate-with-multiplus
+locale: en
 legacySlug: wow-to-integrate-with-multiplus
 subcategory: 
 ---

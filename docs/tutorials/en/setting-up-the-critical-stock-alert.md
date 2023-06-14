@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_39
 slug: setting-up-the-critical-stock-alert
+locale: en
 legacySlug: setting-up-the-critical-stock-alert
 subcategory: 1UL6Q7nUN6SkA2g2SUsECi
 ---

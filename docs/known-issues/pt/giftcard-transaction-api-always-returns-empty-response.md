@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: giftcard-transaction-api-sempre-retorna-resposta-vazia
+locale: pt
 kiStatus: Backlog
 internalReference: 384430
 ---

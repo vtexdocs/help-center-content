@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: el-filtro-del-navegador-de-busqueda-rango-de-precios-produce-resultados-incorrectos
+locale: es
 kiStatus: Backlog
 internalReference: 504992
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: shipping-policy-beta
+locale: en
 legacySlug: shipping-policy-beta
 subcategory: 
 ---

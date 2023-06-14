@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_3
 slug: checkout-com-erro-loja-nao-encontrada-o-que-fazer
+locale: pt
 legacySlug: checkout-com-erro-loja-nao-encontrada-o-que-fazer
 ---
 

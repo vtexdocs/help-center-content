@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: filtrar-productos-por-tienda-en-la-administracion-del-catalogo-puede-mostrar-una-cantidad-incorrecta-de-resultados
+locale: es
 kiStatus: Backlog
 internalReference: 756461
 ---

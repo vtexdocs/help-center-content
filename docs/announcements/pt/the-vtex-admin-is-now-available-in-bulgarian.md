@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: admin-agora-disponivel-em-bulgaro
+locale: pt
 legacySlug: admin-agora-disponivel-em-bulgaro
 announcementImageID: ''
 announcementSynopsisPT: 'Admin ganha nova opção de idioma'

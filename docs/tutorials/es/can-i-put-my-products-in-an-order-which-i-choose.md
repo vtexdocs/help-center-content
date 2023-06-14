@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2zh4tqFMxyMCgwaUcsS0O2
 slug: puedo-ordenar-los-productos-en-la-pagina-de-acuerdo-con-los-criterios-de-la
+locale: es
 legacySlug: puedo-ordenar-los-productos-en-la-pagina-de-acuerdo-con-los-criterios-de-la
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

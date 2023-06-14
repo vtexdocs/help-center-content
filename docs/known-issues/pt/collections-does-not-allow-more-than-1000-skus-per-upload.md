@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: cobrancas-nao-permitem-mais-de-1000-skus-por-upload
+locale: pt
 kiStatus: Backlog
 internalReference: 793274
 ---

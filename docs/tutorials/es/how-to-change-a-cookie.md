@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_35
 slug: como-modificar-un-cookie
+locale: es
 legacySlug: como-modificar-un-cookie
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

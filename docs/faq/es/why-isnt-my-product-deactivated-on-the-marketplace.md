@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: por-que-el-producto-no-inactiva-en-el-marketplace
+locale: es
 legacySlug: por-que-el-producto-no-inactiva-en-el-marketplace
 ---
 

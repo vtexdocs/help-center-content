@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: divergence-between-the-total-value-of-each-product-and-the-subtotal-of-items-or-totalizers
+locale: en
 kiStatus: Backlog
 internalReference: 331188
 ---

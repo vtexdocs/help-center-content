@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: erederest-only-allows-cancelation-when-the-status-code-is-359
+locale: en
 kiStatus: Backlog
 internalReference: 740084
 ---

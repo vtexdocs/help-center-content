@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: los-precios-de-los-servicios-no-se-actualizan-cuando-se-anaden-a-los-articulos
+locale: es
 kiStatus: Backlog
 internalReference: 822107
 ---

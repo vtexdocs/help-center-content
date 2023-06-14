@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 5V92cmF9jG8KG600EwUgEg
 slug: using-tools-html
+locale: en
 legacySlug: 
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---

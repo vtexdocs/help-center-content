@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: skus-recebidos-a-funcao-de-exportacao-nao-esta-funcionando-para-administradores-em-outros-idiomas-somente-pt-en-es
+locale: pt
 kiStatus: Fixed
 internalReference: 668122
 ---

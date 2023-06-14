@@ -9,6 +9,7 @@ firstPublishedAt: 2018-10-30T22:36:49.683Z
 contentType: trackArticle
 productTeam: Channels
 slug: instalacion-de-google-shopping-ads
+locale: es
 trackId: 47kz5PRQPK0IEaqGqiIuA
 trackSlugES: como-hacer-campanas-a-traves-de-google-ads
 ---

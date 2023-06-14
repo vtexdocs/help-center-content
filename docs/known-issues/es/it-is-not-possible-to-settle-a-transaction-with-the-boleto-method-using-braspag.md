@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: no-es-posible-liquidar-una-transaccion-con-el-metodo-del-boleto-utilizando-braspag
+locale: es
 kiStatus: Backlog
 internalReference: 558065
 ---

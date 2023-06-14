@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: trabajando-con-api-rest-del-master-data
+locale: es
 legacySlug: armazenando-dados-no-master-data-com-json-schema
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---

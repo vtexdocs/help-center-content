@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: when-adding-a-sku-through-our-change-order-functionality-the-product-name-is-not-displayed-in-the-order-and-email-notification
+locale: en
 kiStatus: Backlog
 internalReference: 557978
 ---

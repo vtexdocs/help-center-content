@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: cuando-settleid-se-envia-como-null-y-el-codigo-como-refundmanually-nuestra-pasarela-realiza-un-doble-reembolso
+locale: es
 kiStatus: Backlog
 internalReference: 615050
 ---

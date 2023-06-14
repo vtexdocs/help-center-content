@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 3aBBTLS9ZKO6IcY0Goe2y2
 slug: qual-e-a-diferenca-entre-uma-app-dependency-e-uma-peer-dependency
+locale: pt
 legacySlug: qual-e-a-diferenca-entre-uma-app-dependancy-e-uma-peer-dependancy
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

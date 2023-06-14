@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: integrando-com-mercado-livre
+locale: pt
 legacySlug: integrando-com-mercado-livre
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

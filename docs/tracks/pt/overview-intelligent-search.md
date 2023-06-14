@@ -9,6 +9,7 @@ firstPublishedAt: 2020-03-05T19:53:38.701Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: visao-geral-intelligent-search
+locale: pt
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugPT: vtex-intelligent-search
 ---

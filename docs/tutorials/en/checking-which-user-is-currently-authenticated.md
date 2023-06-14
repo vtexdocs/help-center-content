@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_4
 slug: checking-which-user-is-currently-authenticated
+locale: en
 legacySlug: 
 subcategory: 63DHe3VQEEE6Uuua8gIs2M
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: tienda-fisica-instore-beta
+locale: es
 legacySlug: tienda-fisica-instore-beta
 subcategory: 5SE2asHiQtHKfbnFru8RWH
 ---
@@ -27,7 +28,7 @@ Esta página te permite realizar las siguientes acciones:
 * [Editar](#editar-tienda)
 * [Eliminar](#eliminar-tienda)
 
-![loja-fisica-ES](//images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/df72ba565c1eff2f92a4b6b74f27ad8d/image.png)
+![loja-fisica-ES](https://images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/df72ba565c1eff2f92a4b6b74f27ad8d/image.png)
 
 La página contiene la siguiente información:
 
@@ -52,7 +53,7 @@ Puedes crear una tienda física siguiendo los pasos a continuación:
 
 ### Campos de registro de la tienda física
 
-![loja-fisica2-es](//images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/d27ac78354af709db771a00656578353/image.png)
+![loja-fisica2-es](https://images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/d27ac78354af709db771a00656578353/image.png)
 
 #### Identificación
 

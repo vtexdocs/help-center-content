@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: portal-reloads-all-search-results-when-accessing-the-url-with-pagination-parameter
+locale: en
 kiStatus: Backlog
 internalReference: 342378
 ---

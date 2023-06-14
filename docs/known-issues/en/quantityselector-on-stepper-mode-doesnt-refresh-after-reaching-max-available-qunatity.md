@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: quantityselector-on-stepper-mode-doesnt-refresh-after-reaching-max-available-qunatity
+locale: en
 kiStatus: Backlog
 internalReference: 704458
 ---

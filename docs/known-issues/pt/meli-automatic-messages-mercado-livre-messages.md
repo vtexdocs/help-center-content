@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: mensagens-automaticas-do-meli-mercado-livre-mensagens
+locale: pt
 kiStatus: Backlog
 internalReference: 615164
 ---

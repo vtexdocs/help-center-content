@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: Shopping
 slug: registrar-el-codigo-de-barras-de-las-sku-para-instore
+locale: es
 trackId: 
 trackSlugES: 
 ---

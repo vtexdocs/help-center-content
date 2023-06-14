@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: como-configurar-su-tienda-en-seller-portal
+locale: es
 legacySlug: como-configurar-su-tienda-en-seller-portal
 subcategory: 4hisB47iAVZk4r3SEmMoG
 ---

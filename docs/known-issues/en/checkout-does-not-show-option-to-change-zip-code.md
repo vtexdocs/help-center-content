@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: checkout-does-not-show-option-to-change-zip-code
+locale: en
 kiStatus: Fixed
 internalReference: 321598
 ---

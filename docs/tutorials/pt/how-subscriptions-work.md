@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: como-funciona-a-assinatura
+locale: pt
 legacySlug: como-funciona-a-assinatura
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
@@ -20,7 +21,7 @@ Seu cliente indica a periodicidade que deseja repetir a compra de um determinado
 
 A assinatura na VTEX consiste em uma lista de SKUs vinculada a uma certa configuração de compra. Todas as operações de gerenciamento giram em torno dessa entidade Assinatura, que contém toda a informação necessária para gerar um pedido recorrente. O diagrama abaixo demonstra o conceito de assinatura:
 
-![img8 subscriptions PT](//images.ctfassets.net/alneenqid6w5/1tNo9gQza7gWuDXZPRxQRO/474f3170b2f10977be30172465ffd630/img8_subscriptions_PT.png)
+![img8 subscriptions PT](https://images.ctfassets.net/alneenqid6w5/1tNo9gQza7gWuDXZPRxQRO/474f3170b2f10977be30172465ffd630/img8_subscriptions_PT.png)
 
 A assinatura é uma forma simples de poupar o tempo de seu cliente, trazendo mais um fluxo programado de vendas para a sua loja. 
 

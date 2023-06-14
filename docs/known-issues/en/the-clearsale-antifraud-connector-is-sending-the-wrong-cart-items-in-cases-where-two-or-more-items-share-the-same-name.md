@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: the-clearsale-antifraud-connector-is-sending-the-wrong-cart-items-in-cases-where-two-or-more-items-share-the-same-name
+locale: en
 kiStatus: Backlog
 internalReference: 799396
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: dados-de-intermediador-para-vendas-em-marketplaces-vtex
+locale: pt
 legacySlug: dados-de-intermediador-para-vendas-em-marketplaces-vtex
 announcementImageID: ''
 announcementSynopsisPT: 'Estão sendo disponibilizados dados de intermediador para vendas feitas em marketplaces VTEX.'

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: authors_24
 slug: new-deadline-activate-the-new-cdn-until-may-31
+locale: en
 legacySlug: new-deadline-activate-the-new-cdn-until-may-31
 announcementImageID: ''
 announcementSynopsisEN: 'Enable HTTPS, update the CNAME and request the new CDN before the due date. This will prevent your store from crashing.'

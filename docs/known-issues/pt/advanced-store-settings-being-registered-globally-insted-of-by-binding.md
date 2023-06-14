@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: configuracoes-avancadas-da-loja-sendo-registradas-globalmente-atraves-de
+locale: pt
 kiStatus: Backlog
 internalReference: 783835
 ---

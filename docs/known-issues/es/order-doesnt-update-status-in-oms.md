@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: el-pedido-no-actualiza-su-estado-en-oms
+locale: es
 kiStatus: Backlog
 internalReference: 421529
 ---

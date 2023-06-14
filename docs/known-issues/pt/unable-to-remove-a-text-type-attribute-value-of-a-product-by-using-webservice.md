@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Web Service
 slug: nao-e-possivel-remover-um-valor-de-atributo-de-tipo-texto-por-webservice-para-um-produto
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

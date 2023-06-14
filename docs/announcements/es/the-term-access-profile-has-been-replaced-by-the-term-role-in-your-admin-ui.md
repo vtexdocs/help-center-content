@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: el-termino-access-profile-ha-sido-sustituido-por-role-en-la-interfaz-del
+locale: es
 legacySlug: el-termino-access-profile-ha-sido-sustituido-por-role-en-la-interfaz-del
 announcementImageID: ''
 announcementSynopsisES: 'El término ‘Access Profile’ ha sido sustituido por el término ‘Role’ para reflejar mejor el concepto al que se refiere.'

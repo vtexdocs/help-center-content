@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: a-politica-de-remessa-que-nao-entrega-nos-finais-de-semana-esta-sendo-considerada
+locale: pt
 kiStatus: Backlog
 internalReference: 594828
 ---

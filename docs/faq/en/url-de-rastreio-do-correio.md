@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: 
 slug: url-de-rastreio-do-correio
+locale: en
 legacySlug: url-de-rastreio-do-correio
 ---
 

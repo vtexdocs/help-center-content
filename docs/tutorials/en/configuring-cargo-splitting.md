@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: configuring-cargo-splitting
+locale: en
 legacySlug: configuring-cargo-splitting
 subcategory: 1UL6Q7nUN6SkA2g2SUsECi
 ---
@@ -19,7 +20,7 @@ Cargo splitting is the configuration that allows a purchase to be divided into m
 
 This configuration is very important because, if cargo splitting is not allowed, the closing of a purchase may preclude. So, use it if the sum of the weight of all products in the cart is bigger than the maximum weight registered for carriers.
 
-![divisao-carga-desenho en](//images.ctfassets.net/alneenqid6w5/6wSYatCGzeEq2o68IIMIkc/1b86e66b1882c4f41815f642b152446b/divisao-carga_en.png)
+![divisao-carga-desenho en](https://images.ctfassets.net/alneenqid6w5/6wSYatCGzeEq2o68IIMIkc/1b86e66b1882c4f41815f642b152446b/divisao-carga_en.png)
 
 ### How to configure
 

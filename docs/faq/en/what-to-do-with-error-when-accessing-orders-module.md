@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: authors_24
 slug: what-to-do-with-error-when-accessing-orders-module
+locale: en
 legacySlug: error-accessing-oms
 ---
 

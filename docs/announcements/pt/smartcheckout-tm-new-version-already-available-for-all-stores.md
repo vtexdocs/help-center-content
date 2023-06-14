@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: authors_24
 slug: nova-versao-do-smartcheckout-tm-ja-esta-no-ar-para-todas-as-lojas
+locale: pt
 legacySlug: nova-versao-do-smartcheckout-tm-ja-esta-no-ar-para-todas-as-lojas
 announcementImageID: ''
 announcementSynopsisPT: 'Foi realizada a migração de todas as lojas para a quinta versão do SmartCheckout™.'

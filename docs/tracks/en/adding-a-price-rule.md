@@ -9,6 +9,7 @@ firstPublishedAt: 2019-07-17T19:42:10.960Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: adding-a-price-rule
+locale: en
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugEN: prices-101
 ---

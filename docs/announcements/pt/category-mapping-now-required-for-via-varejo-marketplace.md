@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: mapeamento-de-categorias-agora-obrigatorio-para-via-varejo-marketplace
+locale: pt
 legacySlug: mudanca-no-envio-de-produtos-para-a-via-varejo
 announcementImageID: ''
 announcementSynopsisPT: 'Disponibilize seus produtos mais rapidamente na Via Varejo fazendo o mapeamento de categorias, variações e atributos.'

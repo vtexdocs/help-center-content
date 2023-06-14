@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: category-substitute-words-not-being-indexed
+locale: en
 kiStatus: Backlog
 internalReference: 374204
 ---

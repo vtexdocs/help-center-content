@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: testing-webservice-using-soapui
+locale: en
 legacySlug: testing-webservice-using-soapui
 subcategory: 1vwB9FtTSQmcSewQw02QoW
 ---

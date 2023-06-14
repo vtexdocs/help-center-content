@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: busqueda-con-parametro-de-especificacion-devuelve-busqueda-vacia
+locale: es
 legacySlug: busqueda-con-parametro-de-especificacion-devuelve-busqueda-vacia
 ---
 

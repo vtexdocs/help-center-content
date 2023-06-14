@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_4
 tag: Checkout
 slug: las-transacciones-se-registran-en-duplicado-en-google-analytics
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

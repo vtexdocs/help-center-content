@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-informacion-del-cliente-no-se-guarda-en-el-sistema-de-perfiles
+locale: es
 kiStatus: Backlog
 internalReference: 784763
 ---

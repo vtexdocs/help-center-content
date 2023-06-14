@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: remocao-de-parametros-da-url-quando-a-pagina-nao-existe
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

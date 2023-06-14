@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: ao-clicar-para-avaliar-um-produto-nao-e-possivel-sair-da-tela-de-login
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: el-conector-adyenv1-no-esta-enviando-pspreference-en-algunas-operaciones-y-por-lo-tanto-causa-error
+locale: es
 kiStatus: Backlog
 internalReference: 758411
 ---

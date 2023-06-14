@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: cancelacion-de-pedido-solicitada-por-el-cliente
+locale: es
 legacySlug: como-funciona-la-cancelacion-de-pedido-solicitada-por-el-cliente
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

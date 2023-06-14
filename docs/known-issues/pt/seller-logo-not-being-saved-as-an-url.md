@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: o-logotipo-do-vendedor-nao-esta-sendo-salvo-como-um-url
+locale: pt
 kiStatus: Fixed
 internalReference: 736716
 ---

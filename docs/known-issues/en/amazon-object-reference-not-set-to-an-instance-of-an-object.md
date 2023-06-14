@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: amazon-object-reference-not-set-to-an-instance-of-an-object
+locale: en
 kiStatus: Backlog
 internalReference: 482173
 ---

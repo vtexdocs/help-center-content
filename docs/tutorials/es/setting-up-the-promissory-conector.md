@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-conector-promissory
+locale: es
 legacySlug: configurar-conector-promissory
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

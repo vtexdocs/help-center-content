@@ -9,6 +9,7 @@ firstPublishedAt: 2022-01-04T21:48:20.492Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-regla-de-divergencia-de-precios-centauro
+locale: es
 trackId: D8Qnjbr5lfLkUfMRhsfbj
 trackSlugES: integracion-con-centauro
 ---

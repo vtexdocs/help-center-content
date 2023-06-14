@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: actualizacion-del-valor-del-credito-del-cliente-total-debido-segun-la-paginacion
+locale: es
 kiStatus: Backlog
 internalReference: 432587
 ---

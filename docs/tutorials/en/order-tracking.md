@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: order-tracking
+locale: en
 legacySlug: order-tracking
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

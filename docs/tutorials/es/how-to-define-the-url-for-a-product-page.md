@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: como-definir-la-url-de-un-producto
+locale: es
 legacySlug: como-es-montada-la-url-de-producto
 subcategory: pwxWmUu7T222QyuGogs68
 ---
@@ -22,7 +23,7 @@ Puedes cambiar el campo **textLink** de un producto existente en cualquier momen
 
 Consulta la sección [Reglas de llenado](#reglas-de-llenado) para conocer las restricciones de este campo.
 
-![textlink.es](//images.ctfassets.net/alneenqid6w5/7Fn3c82EFti8PUc2qME3Xa/74abc336ae433344083479d28014696d/textlink.es.png)
+![textlink.es](https://images.ctfassets.net/alneenqid6w5/7Fn3c82EFti8PUc2qME3Xa/74abc336ae433344083479d28014696d/textlink.es.png)
 
 <div class="alert alert-info">
   <p>También puedes cambiar la URL de un producto utilizando la<a href="https://developers.vtex.com/docs/api-reference/catalog-api#overview"> API del Catálogo</a>. En este caso, el campo a modificar es <code>LinkId</code>. Consulta el artículo<a href="https://developers.vtex.com/vtex-rest-api/reference/catalog-api-put-product"> Update product</a> para obtener más información.</p>

@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: valor-incorrecto-en-el-paquete-debido-a-la-division-del-descuento
+locale: es
 kiStatus: Backlog
 internalReference: 605517
 ---

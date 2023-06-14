@@ -11,6 +11,7 @@ productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
 slug: actualizar-el-nombre-del-usuario-en-la-seccion-de-inicio-de-sesion
+locale: es
 kiStatus: Backlog
 internalReference: 542029
 ---

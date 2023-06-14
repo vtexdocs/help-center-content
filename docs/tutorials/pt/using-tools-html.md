@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 5V92cmF9jG8KG600EwUgEg
 slug: utilizando-o-tools-html
+locale: pt
 legacySlug: utilizando-o-tools-html
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---

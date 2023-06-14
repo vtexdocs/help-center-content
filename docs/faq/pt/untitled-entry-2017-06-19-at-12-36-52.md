@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_35
 slug: como-aprovar-pagamento-preso-no-antifraude
+locale: pt
 legacySlug: como-aprovar-pagamento-preso-no-antifraude
 ---
 

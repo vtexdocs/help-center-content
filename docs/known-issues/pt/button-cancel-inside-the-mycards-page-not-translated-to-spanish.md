@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: botao-cancelar-dentro-da-pagina-mycards-nao-traduzido-para-o-espanhol
+locale: pt
 kiStatus: Backlog
 internalReference: 431200
 ---

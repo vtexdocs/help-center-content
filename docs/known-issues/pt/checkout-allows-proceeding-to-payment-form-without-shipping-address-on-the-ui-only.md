@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-checkout-permite-proceder-ao-formulario-de-pagamento-sem-endereco-de-remessa-somente-na-iu
+locale: pt
 kiStatus: Backlog
 internalReference: 699317
 ---

@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: el-plan-de-suscripcion-esta-atascado-en-la-importacion-despues-de-cargar-la-hoja-de-calculo-de-la-asociacion-de-skus
+locale: es
 kiStatus: Fixed
 internalReference: 571080
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 5mp4SUVpZYa02A8QOqYySu
 slug: why-isnt-the-price-table-displayed-to-the-customer
+locale: en
 legacySlug: why-isnt-the-price-table-displayed-to-the-customer
 ---
 

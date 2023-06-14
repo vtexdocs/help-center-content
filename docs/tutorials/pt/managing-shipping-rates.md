@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: gerenciar-tarifas-de-envio
+locale: pt
 legacySlug: gerenciar-valores-de-frete
 subcategory: 7uJcyu0VawEm8ggqKu404u
 ---

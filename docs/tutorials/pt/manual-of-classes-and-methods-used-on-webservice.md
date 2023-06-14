@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: manual-das-classes-e-metodos-usados-no-webservice
+locale: pt
 legacySlug: manual-das-classes-e-metodos-usados-no-webservice
 subcategory: 1vwB9FtTSQmcSewQw02QoW
 ---

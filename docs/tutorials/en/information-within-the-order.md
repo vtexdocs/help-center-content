@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: information-within-the-order
+locale: en
 legacySlug: information-within-the-order
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

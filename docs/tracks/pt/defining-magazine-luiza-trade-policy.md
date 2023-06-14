@@ -9,6 +9,7 @@ firstPublishedAt: 2021-02-24T14:45:52.748Z
 contentType: trackArticle
 productTeam: Channels
 slug: definicao-da-politica-comercial-para-magazine-luiza
+locale: pt
 trackId: 5Yx5IrNa7Y48c6aSC8wu2Y
 trackSlugPT: configurar-integracao-com-o-magazine-luiza
 ---

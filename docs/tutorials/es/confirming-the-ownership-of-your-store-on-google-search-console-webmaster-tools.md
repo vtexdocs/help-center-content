@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: confirmar-la-propiedad-de-su-tienda
+locale: es
 legacySlug: confirmar-la-propiedad-de-su-tienda
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

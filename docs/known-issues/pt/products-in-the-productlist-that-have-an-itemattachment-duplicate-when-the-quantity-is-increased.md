@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: produtos-da-lista-de-produtos-que-tem-um-duplicado-de-itemacmercadoria-quando-a-quantidade-e-aumentada
+locale: pt
 kiStatus: Backlog
 internalReference: 337069
 ---

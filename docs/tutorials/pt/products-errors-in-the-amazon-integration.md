@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: erros-de-integracao-de-produtos-com-a-amazon
+locale: pt
 legacySlug: erros-de-integracao-de-produtos-com-a-amazon
 subcategory: 4HBbKdnwneGew2qGGykSM8
 ---
@@ -56,7 +57,7 @@ O erro ocorre quando a [categoria global](https://help.vtex.com/pt/tutorial/conf
 
 Esse erro ocorre quando a [especificação](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) **Cor** não foi mapeada na [planilha de mapeamento](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP/5xklf2wSdeztQh4iy5kJvD#4-planilha-de-mapeamento). Você deverá revisar o cadastro desta especificação no [produto](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru) e no [SKU](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) para solucioná-lo. Para revisar o cadastro da especificação no Produto, acesse o Admin VTEX, clique em *Produtos > Catálogo > Produtos e SKUs*, selecione o produto e clique em `Alterar`. Clique na aba `Especificações` e identifique o campo **Cor** com a informação já preenchida.
 
-Para revisar o cadastro da especificação no SKU, acesse o Admin VTEX, clique em *Produtos > Catálogo > Produtos e SKUs*, selecione o produto, clique na seta <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6p43gQ8LMQitieDuUlBoiC/c7d43ef209986769bdaf1e2795408a96/alterar_seta.JPG" /> e selecione a opção SKU. Na aba `Especificações`, identifique o campo que utiliza Cor como atributo. Depois, preencha a planilha de mapeamento com as especificações de cor que precisam ser mapeadas.
+Para revisar o cadastro da especificação no SKU, acesse o Admin VTEX, clique em *Produtos > Catálogo > Produtos e SKUs*, selecione o produto, clique na seta <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/6p43gQ8LMQitieDuUlBoiC/c7d43ef209986769bdaf1e2795408a96/alterar_seta.JPG" /> e selecione a opção SKU. Na aba `Especificações`, identifique o campo que utiliza Cor como atributo. Depois, preencha a planilha de mapeamento com as especificações de cor que precisam ser mapeadas.
 
 ### Mensagens de erro
 

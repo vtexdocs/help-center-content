@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: the-purchase-button-stays-active-even-with-insufficient-credit-of-payment-method-customer-credit
+locale: en
 kiStatus: Backlog
 internalReference: 309820
 ---

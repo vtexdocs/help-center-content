@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
 slug: atualize-a-sua-loja-para-o-google-analytics-4
+locale: pt
 legacySlug: atualize-a-sua-loja-para-o-google-analytics-4
 announcementImageID: ''
 announcementSynopsisPT: 'atualize-a-sua-loja-para-o-google-analytics-4'

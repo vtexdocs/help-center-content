@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: reasons-for-cancellation-in-order-reports
+locale: en
 legacySlug: reasons-for-cancellation-in-order-reports
 announcementImageID: ''
 announcementSynopsisEN: 'We have added a Cancellation Data column to order reports to give more visibility into the reasons for cancellation.'

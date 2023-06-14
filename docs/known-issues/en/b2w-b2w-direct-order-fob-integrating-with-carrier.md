@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: b2w-b2w-direct-order-fob-integrating-with-carrier
+locale: en
 kiStatus: Backlog
 internalReference: 714879
 ---

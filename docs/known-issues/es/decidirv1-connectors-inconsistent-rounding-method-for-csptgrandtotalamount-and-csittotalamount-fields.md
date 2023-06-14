@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: metodo-de-redondeo-incoherente-del-conector-decidirv1-para-los-campos-csptgrandtotalamount-y-csittotalamount
+locale: es
 kiStatus: Backlog
 internalReference: 787367
 ---

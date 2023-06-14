@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: importando-y-exportando-plantilla-de-stock
+locale: es
 legacySlug: importando-y-exportando-plantilla-de-stock
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: el-envio-se-muestra-con-valor-incorrecto-cuando-hay-stock-negativo
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

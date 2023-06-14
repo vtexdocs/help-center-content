@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: erro-na-interface-do-usuario-da-meli-promotions
+locale: pt
 kiStatus: Backlog
 internalReference: 797143
 ---

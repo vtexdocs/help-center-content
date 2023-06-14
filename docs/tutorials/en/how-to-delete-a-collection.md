@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: how-to-delete-a-collection
+locale: en
 legacySlug: how-to-delete-a-collection
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

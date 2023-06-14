@@ -9,6 +9,7 @@ firstPublishedAt: 2022-06-20T20:21:34.641Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: faturas-parciais
+locale: pt
 trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugPT: pedidos
 ---

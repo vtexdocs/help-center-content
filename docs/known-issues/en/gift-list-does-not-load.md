@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: gift-list-does-not-load
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

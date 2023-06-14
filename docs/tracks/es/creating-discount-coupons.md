@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-14T13:10:26.077Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: crear-cupones-de-descuento
+locale: es
 trackId: 6asfF1vFYiZgTQtOzwJchR
 trackSlugES: promociones
 ---

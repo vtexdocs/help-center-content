@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 46G4yHIZerH7B9Jo0Iw5KI
 tag: Suggestions
 slug: erro-de-envio-de-skus-entre-sellers-e-marketplaces
+locale: pt
 kiStatus: Fixed
 internalReference: 000
 ---

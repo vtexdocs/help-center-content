@@ -9,6 +9,7 @@ firstPublishedAt: 2019-07-17T19:47:20.847Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: trava-de-preco-definicao-de-conceito
+locale: en
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugEN: prices-101
 ---

@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: order-partial-return-triggered-the-transaction-total-refund
+locale: en
 kiStatus: Backlog
 internalReference: 377044
 ---

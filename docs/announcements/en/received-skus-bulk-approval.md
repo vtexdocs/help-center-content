@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: received-skus-bulk-approval
+locale: en
 legacySlug: received-skus-bulk-approval
 announcementImageID: ''
 announcementSynopsisEN: 'Now you can select up to 25 SKUs in bulk on the Received SKUs dashboard. We also created a new API for that. '

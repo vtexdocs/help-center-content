@@ -9,6 +9,7 @@ firstPublishedAt: 2019-08-13T15:21:19.620Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: modulo-de-estoque-e-entrega-visao-geral
+locale: pt
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugPT: logistica-101
 ---
@@ -17,7 +18,7 @@ O módulo de __Estoque e entrega__ é o serviço responsável pela *logística* 
 
 O sistema de logística possui diversas funcionalidades úteis. Estas *features* permitem que você monte uma estratégia de estoque e entrega da maneira mais adequada ao seu negócio. Nos próximos passos desta trilha, veremos como utilizar cada uma das funcionalidades exibidas abaixo. No admin da sua loja, você vai encontrar as seguintes seções:
 
-![inventory-shipping-admin-pt](//images.ctfassets.net/alneenqid6w5/6S8H6GEZ58BQc9V6YfTT6Y/242d97ee4ba2809fcb9dd2c209e7fa9b/inventory-shipping-admin-pt.png)
+![inventory-shipping-admin-pt](https://images.ctfassets.net/alneenqid6w5/6S8H6GEZ58BQc9V6YfTT6Y/242d97ee4ba2809fcb9dd2c209e7fa9b/inventory-shipping-admin-pt.png)
 
 __Estratégia de envio__ (Painéis) - Nesta seção, você deve cadastrar as rotas logísticas que realizam a entrega dos seus pedidos. Um rota básica é composta por um __estoque__, uma __doca__ e uma __política de envio__ (transportadora).
 

@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: gift-card-2-tarjetas-en-la-version-5-del-checkout-recalcula-el-valor-a-ser-pagado-en-cada-tarjeta
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

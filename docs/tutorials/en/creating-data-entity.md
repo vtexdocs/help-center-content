@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_3
 slug: creating-data-entity
+locale: en
 legacySlug: creating-data-entity
 subcategory: 1l3IVVYwrrG5YOtdt7R2SN
 ---

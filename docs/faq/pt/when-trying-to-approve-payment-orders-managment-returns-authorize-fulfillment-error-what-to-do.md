@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_24
 slug: ao-tentar-aprovar-pagamento-gerenciamento-de-pedidos-retorna-erro
+locale: pt
 legacySlug: aprovar-pagamento-oms-erro-authorize-fulfillment
 ---
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_84
 slug: como-configuro-la-captacion-de-newsletter-por-el-master-data
+locale: es
 legacySlug: como-configuro-la-captacion-de-newsletter-por-el-master-data
 subcategory: WpbGhubuRZaNZilJSXnqu
 ---

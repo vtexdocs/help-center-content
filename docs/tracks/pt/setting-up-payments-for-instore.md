@@ -9,6 +9,7 @@ firstPublishedAt: 2018-04-27T18:04:34.910Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configurar-pagamentos-para-o-instore
+locale: pt
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugPT: instore-setup
 ---

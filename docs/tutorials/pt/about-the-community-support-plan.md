@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: sobre-o-standard
+locale: pt
 legacySlug: sobre-o-standard
 subcategory: 1VvCpaa8NCA6a0MK6W6oWg
 ---

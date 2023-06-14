@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: inventory-and-shipping-learn-what-has-changed-in-the-inventory-management
+locale: en
 legacySlug: inventory-and-shipping-learn-what-has-changed-in-the-inventory-management
 announcementImageID: ''
 announcementSynopsisEN: 'Besides optimizing the interface usability, we have changed the name of the tab to Inventory management.'

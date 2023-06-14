@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_4
 slug: criando-formularios-de-cliente-e-endereco-em-novas-lojas
+locale: pt
 legacySlug: criando-formularios-de-cliente-e-endereco-em-novas-lojas
 subcategory: 42hDtnYXHw5ExG6l19RP1l
 ---

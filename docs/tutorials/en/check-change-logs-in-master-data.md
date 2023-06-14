@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: 5Bd75kMNAzARxg0DCUjwal
 slug: check-change-logs-in-master-data
+locale: en
 legacySlug: check-change-logs-in-master-data
 subcategory: WpbGhubuRZaNZilJSXnqu
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-interfaz-de-usuario-cambia-automaticamente-el-ans-seleccionado-cuando-el-vendedor-ha-programado-la-recogida-y-el-articulo-no-se-encuentra-en-la-primera-posicion
+locale: es
 kiStatus: Backlog
 internalReference: 843602
 ---

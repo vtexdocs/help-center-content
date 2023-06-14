@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: api-para-listar-pontos-de-coleta-nao-retorna-campo-de-informacoes-adicionais
+locale: pt
 kiStatus: Backlog
 internalReference: 650714
 ---

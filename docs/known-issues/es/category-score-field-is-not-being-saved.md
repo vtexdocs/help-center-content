@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: campo-score-de-categoria-no-se-esta-guardando
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

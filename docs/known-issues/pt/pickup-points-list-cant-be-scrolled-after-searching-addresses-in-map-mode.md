@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: a-lista-de-pontos-de-coleta-nao-pode-ser-rolada-depois-de-procurar-enderecos-no-modo-de-mapa
+locale: pt
 kiStatus: Backlog
 internalReference: 624646
 ---

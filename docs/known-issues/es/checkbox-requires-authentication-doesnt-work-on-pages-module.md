@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: la-casilla-requiere-autenticacion-no-funciona-en-el-modulo-de-paginas
+locale: es
 kiStatus: Backlog
 internalReference: 577306
 ---

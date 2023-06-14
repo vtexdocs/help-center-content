@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: lack-of-phone-number-validation-in-the-purchase-apis-allowing-invalid-data-in-the-orders
+locale: en
 kiStatus: Backlog
 internalReference: 680500
 ---

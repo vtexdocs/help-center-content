@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-suma-de-los-valores-sellingprice-puede-diferir-del-valor-total-del-producto-restado-por-los-descuentos-totales
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

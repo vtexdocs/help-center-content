@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slug: mercado-livre-automobilist-compatibility
+locale: en
 legacySlug: mercado-livre-automobilist-compatibility
 subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---

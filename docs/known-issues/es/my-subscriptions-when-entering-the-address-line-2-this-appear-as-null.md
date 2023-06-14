@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: mis-suscripciones-al-introducir-la-direccion-de-la-linea-2-esta-aparece-como-nula
+locale: es
 kiStatus: Backlog
 internalReference: 588046
 ---

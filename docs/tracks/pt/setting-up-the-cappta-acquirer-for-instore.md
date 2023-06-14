@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T15:26:52.495Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configurar-o-adquirente-cappta-para-o-instore
+locale: pt
 trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugPT: configurar-o-adquirente-cappta-para-o-instore
 ---

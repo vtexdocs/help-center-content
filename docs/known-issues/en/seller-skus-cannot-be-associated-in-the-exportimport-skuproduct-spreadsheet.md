@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: seller-skus-cannot-be-associated-in-the-exportimport-skuproduct-spreadsheet
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

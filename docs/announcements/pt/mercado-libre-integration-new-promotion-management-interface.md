@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: integracao-com-o-mercado-livre-nova-interface-para-gerir-promocoes
+locale: pt
 legacySlug: integracao-com-o-mercado-livre-nova-interface-para-gerir-promocoes
 announcementImageID: ''
 announcementSynopsisPT: 'Lançamento da nova interface de gerenciamento de promoções do Mercado Livre'
@@ -18,7 +19,7 @@ Dando continuidade às melhorias feitas para a [certificação do Mercado Livre]
 
 Na nova página de **Promoções** do Mercado Livre, é possível gerenciar uma lista com diferentes campanhas promocionais na plataforma disponíveis para a sua loja.
 
-![Promoções](//images.ctfassets.net/alneenqid6w5/7qDxLkDgrBDJWovD2dhG9I/08759bd0132772b8c5cb51078f9e80bd/Promo____es.gif)
+![Promoções](https://images.ctfassets.net/alneenqid6w5/7qDxLkDgrBDJWovD2dhG9I/08759bd0132772b8c5cb51078f9e80bd/Promo____es.gif)
 
 ## O que mudou?
 

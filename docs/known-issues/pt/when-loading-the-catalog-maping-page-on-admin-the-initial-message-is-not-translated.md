@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: ao-carregar-a-pagina-mapeamento-do-catalogo-em-admin-a-mensagem-inicial-nao-e-traduzida
+locale: pt
 kiStatus: Backlog
 internalReference: 717066
 ---

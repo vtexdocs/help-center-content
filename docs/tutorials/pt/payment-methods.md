@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: metodos-de-pagamento
+locale: pt
 legacySlug: metodos-de-pagamento
 subcategory: 6uIlQ5imochc5LFi3dzCSv
 ---

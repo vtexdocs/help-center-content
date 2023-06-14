@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: discontinuation-of-waiting-for-seller-confirmation-and-order-completed
+locale: en
 legacySlug: discontinuation-of-waiting-for-seller-confirmation-and-order-completed
 announcementImageID: ''
 announcementSynopsisEN: 'The following Marketplace order statuses will be discontinued: `waiting-for-seller-confirmation` and `order-completed`'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: que-es-un-subadquirente
+locale: es
 legacySlug: que-es-un-subadquirente
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

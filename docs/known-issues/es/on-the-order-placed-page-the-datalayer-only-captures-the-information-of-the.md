@@ -11,6 +11,7 @@ productTeam: Order Management
 author: authors_84
 tag: Order Management
 slug: en-la-pagina-order-placed-el-datalayer-solo-captura-la-informacion-del
+locale: es
 kiStatus: Fixed
 internalReference: 727339
 ---

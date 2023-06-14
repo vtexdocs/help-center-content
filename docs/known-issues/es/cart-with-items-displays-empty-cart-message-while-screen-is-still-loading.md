@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-cesta-con-articulos-muestra-el-mensaje-cesta-vacia-mientras-la-pantalla-aun-se-esta-cargando
+locale: es
 kiStatus: Backlog
 internalReference: 303673
 ---

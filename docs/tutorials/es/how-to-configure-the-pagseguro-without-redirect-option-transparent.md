@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: como-configurar-el-pagseguro-sin-redirect
+locale: es
 legacySlug: como-configurar-el-pagseguro-sin-redirect
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

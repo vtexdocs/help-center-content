@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 4tz85APeKIwMEk6amWS0ou
 slug: que-es-el-vtex-render
+locale: es
 legacySlug: que-es-el-vtex-render
 subcategory: 5eBwrcLFVSwYGSOQqGKQYW
 ---

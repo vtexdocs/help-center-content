@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-campo-url-logo-en-la-solicitud-de-actualizacion-del-vendedor-no-se-actualiza
+locale: es
 kiStatus: Fixed
 internalReference: 271480
 ---

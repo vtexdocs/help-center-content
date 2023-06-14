@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: cms-settings-does-not-allow-removing-value-from-the-unit-of-mass-field
+locale: en
 kiStatus: Backlog
 internalReference: 540756
 ---

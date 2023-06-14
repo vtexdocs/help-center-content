@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: visao-geral-de-rotas
+locale: pt
 legacySlug: visao-geral-de-rotas
 subcategory: 6a36lWUX5znjBVYTrfc29x
 ---

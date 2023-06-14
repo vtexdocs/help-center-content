@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: integración-entre-marketplace-que-no-es-vtex-y-seller-vtex-actualización-de-catálogo
+locale: es
 legacySlug: integracao-entre-marketplace-nao-vtex-e-sellers-vtex-acoes-referentes-a
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---

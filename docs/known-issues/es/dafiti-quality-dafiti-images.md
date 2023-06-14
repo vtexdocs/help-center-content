@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: dafiti-imagenes-de-calidad-de-dafiti
+locale: es
 kiStatus: Fixed
 internalReference: 675317
 ---

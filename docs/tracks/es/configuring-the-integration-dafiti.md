@@ -9,6 +9,7 @@ firstPublishedAt: 2021-05-26T15:46:30.364Z
 contentType: trackArticle
 productTeam: Channels
 slug: configuracion-de-la-integracion-con-dafiti
+locale: es
 trackId: 4wF4RBx9ygEkimW6SsKw8i
 trackSlugES: configurar-la-integracion-de-dafiti
 ---

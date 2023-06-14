@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-antifraude-cybersource
+locale: es
 legacySlug: configurar-antifraude-cybersource
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

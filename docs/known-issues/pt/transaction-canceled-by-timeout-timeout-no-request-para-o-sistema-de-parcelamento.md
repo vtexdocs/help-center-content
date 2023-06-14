@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: transacao-cancelada-por-tempo-limite-timeout-sem-pedido-para-o-sistema-de-parcelamento
+locale: pt
 kiStatus: Backlog
 internalReference: 533844
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_24
 slug: como-configurar-notificaciones
+locale: es
 legacySlug: como-configurar-notificaciones
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

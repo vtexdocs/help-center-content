@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: campo-de-pagamento-de-dados-personalizados-meli
+locale: pt
 kiStatus: Backlog
 internalReference: 542992
 ---

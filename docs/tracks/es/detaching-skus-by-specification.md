@@ -9,6 +9,7 @@ firstPublishedAt: 2020-09-28T20:54:49.196Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: separar-skus-por-especificacion
+locale: es
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugES: vtex-intelligent-search
 ---
@@ -23,7 +24,7 @@ Esta herramienta se recomienda, principalmente, para las tiendas de ropa, porque
 
 A continuación, vea un ejemplo de separación de SKUs por color. La sandalia que se destaca en la siguiente imagen se exhibe en dos colores en el resultado de la búsqueda:
 
-![screencapture-footnotes-sandals-2021-02-11-14 21 21](//images.ctfassets.net/alneenqid6w5/3wDeiYyhcz0BNUyJrDo7zI/d5d68b1a11e1c117ca11653239037005/screencapture-footnotes-sandals-2021-02-11-14_21_21.png)
+![screencapture-footnotes-sandals-2021-02-11-14 21 21](https://images.ctfassets.net/alneenqid6w5/3wDeiYyhcz0BNUyJrDo7zI/d5d68b1a11e1c117ca11653239037005/screencapture-footnotes-sandals-2021-02-11-14_21_21.png)
 
 <div class="alert alert-info"><p>
 Si los resultados de búsqueda se ordenan por relevancia, los SKUs de un mismo producto se agrupan, es decir, se muestran uno al lado del otro.</p></div>

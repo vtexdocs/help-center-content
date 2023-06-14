@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-api-de-politica-comercial-no-genera-solicitudes-de-reindexacion
+locale: es
 kiStatus: Backlog
 internalReference: 276511
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: boton-cancelar-dentro-de-la-pagina-de-mycards-no-traducido-al-espanol
+locale: es
 kiStatus: Backlog
 internalReference: 431200
 ---

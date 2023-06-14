@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: skuservicoformaspx-no-lista-las-tablas-de-valores-al-principio-para-un-tipo-de-valor
+locale: es
 kiStatus: Backlog
 internalReference: 335819
 ---

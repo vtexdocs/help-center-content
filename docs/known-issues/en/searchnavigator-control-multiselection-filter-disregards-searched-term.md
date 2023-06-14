@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog,Portal (CMS)
 slug: searchnavigator-control-multiselection-filter-disregards-searched-term
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

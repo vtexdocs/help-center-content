@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: how-to-rank-the-best-selling-items
+locale: en
 legacySlug: how-to-rank-the-best-selling-items
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

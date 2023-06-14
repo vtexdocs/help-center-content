@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: skus-recibidos-las-aprobaciones-de-asociacion-no-anaden-el-canal-de-ventas-disponible-del-vendedor-en-el-producto-cuando-el-sku-es-vendido-por-mas-de-1-vendedor
+locale: es
 kiStatus: Backlog
 internalReference: 562472
 ---

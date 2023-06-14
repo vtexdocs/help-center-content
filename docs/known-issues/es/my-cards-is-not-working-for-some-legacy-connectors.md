@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: mis-tarjetas-no-funcionan-para-algunos-conectores-heredados
+locale: es
 kiStatus: Backlog
 internalReference: 373636
 ---

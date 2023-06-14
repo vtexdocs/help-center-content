@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_84
 slug: hiring-the-security-certificate-sll
+locale: en
 legacySlug: hiring-the-security-certificate-sll
 subcategory: 2TNXiKzLZOPxjMTyGiEeJu
 ---

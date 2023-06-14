@@ -11,6 +11,7 @@ productTeam: Channels
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Connections
 slug: nome-do-seller-nao-e-fornecido-em-integracoes-mkp-nativas
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

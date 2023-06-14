@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: formato-de-precios-de-xml-incompatible-con-google-shopping
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

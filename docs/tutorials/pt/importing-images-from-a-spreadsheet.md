@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: importando-imagens-por-planilha
+locale: pt
 legacySlug: importando-imagens-por-planilha
 subcategory: pwxWmUu7T222QyuGogs68
 ---

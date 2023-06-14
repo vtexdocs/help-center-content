@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
 slug: o-que-significa-instalar-uma-app
+locale: pt
 legacySlug: o-que-significa-instalar-uma-app
 ---
 

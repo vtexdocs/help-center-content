@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: as-opcoes-de-pontos-de-retirada-na-caixa-mostram-ate-mesmo-opcoes-inativas-ou-invalidas
+locale: pt
 kiStatus: Backlog
 internalReference: 328464
 ---

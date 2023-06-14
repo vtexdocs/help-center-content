@@ -11,6 +11,7 @@ productTeam: Analytics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Analytics
 slug: o-calendario-de-desempenho-de-vendas-tem-um-problema-com-alguns-fusos-horarios-europeus
+locale: pt
 kiStatus: Backlog
 internalReference: 718470
 ---

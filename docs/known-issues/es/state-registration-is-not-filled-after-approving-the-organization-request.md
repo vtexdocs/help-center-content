@@ -11,6 +11,7 @@ productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
 slug: el-registro-estatal-no-se-completa-tras-aprobar-la-solicitud-de-organizacion
+locale: es
 kiStatus: Fixed
 internalReference: 825127
 ---

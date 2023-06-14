@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_61
 slug: como-o-erp-diferencia-um-pedido-normal-do-pedido-recorrente
+locale: pt
 legacySlug: como-o-erp-diferencia-um-pedido-normal-do-pedido-recorrente
 subcategory: 5fKgQZhrCw88ACy6Su6GUc
 ---

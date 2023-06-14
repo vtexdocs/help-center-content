@@ -9,6 +9,7 @@ firstPublishedAt: 2021-08-05T14:46:03.255Z
 contentType: trackArticle
 productTeam: Shopping
 slug: omnichannel-cart
+locale: en
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: instore-using-the-app
 ---

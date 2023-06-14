@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: alteracao-no-campo-cc-cco-nos-templates-da-central-de-mensagens
+locale: pt
 legacySlug: alteracao-no-campo-cc-cco-nos-templates-da-central-de-mensagens
 announcementImageID: ''
 announcementSynopsisPT: 'Não será mais possível incluir a opção de CC/CCO nos templates de e-mail que são enviados no fluxo de login de usuários.'

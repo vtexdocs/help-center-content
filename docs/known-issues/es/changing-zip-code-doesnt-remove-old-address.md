@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: cambiar-codigo-postal-no-quita-la-direccion-antigua
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

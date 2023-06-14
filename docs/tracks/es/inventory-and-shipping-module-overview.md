@@ -9,6 +9,7 @@ firstPublishedAt: 2019-08-13T15:21:19.620Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: modulo-de-inventario-y-envio-vision-general
+locale: es
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugES: logistica-101
 ---
@@ -22,7 +23,7 @@ El módulo __Inventario y Envío__ es el servicio responsable de la *logística*
 El sistema de logística tiene diversas funcionalidades útiles. Estas *features* le permiten crear una estrategia de inventario y envío que se adecue mejor a su negocio. En los próximos pasos de esta guía, veremos cómo utilizar cada una de las funcionalidades que se muestran a continuación. En el Admin de su tienda, encontrará las siguientes secciones:
 
 
-![inventory-shipping-admin-es](//images.ctfassets.net/alneenqid6w5/jUIsT8CjbAP2O637yW3Mu/d68d30481a1e37d708a92881a227fb52/inventory-shipping-admin-es.png)
+![inventory-shipping-admin-es](https://images.ctfassets.net/alneenqid6w5/jUIsT8CjbAP2O637yW3Mu/d68d30481a1e37d708a92881a227fb52/inventory-shipping-admin-es.png)
 
 __Estrategia de Envío__ (Paneles) - En esta sección, debe registrar las rutas logísticas que realizan la entrega de sus pedidos. Una ruta básica se compone de un __stock__, un __muelle__ y una __política de envío__ (transportadora).
 

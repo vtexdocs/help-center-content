@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
 tag: Catalog
 slug: error-al-importar-planilla-de-imagenes-de-productos
+locale: es
 kiStatus: Backlog
 internalReference: 697200
 ---

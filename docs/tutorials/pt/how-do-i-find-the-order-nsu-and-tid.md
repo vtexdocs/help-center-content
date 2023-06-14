@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: como-achar-nsu-e-tid-do-pedido
+locale: pt
 legacySlug: como-achar-nsu-e-tid-do-pedido
 subcategory: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---

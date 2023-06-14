@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 
 slug: managing-components-versions-in-site-editor
+locale: en
 legacySlug: managing-components-versions-in-site-editor
 subcategory: 9Arh3cJIOYlfSD1MUC2h3
 ---

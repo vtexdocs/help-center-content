@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: pedidos-com-itens-em-array-marketplaceitems-nao-esta-abrindo-em-new-ui-admin
+locale: pt
 kiStatus: Backlog
 internalReference: 656821
 ---

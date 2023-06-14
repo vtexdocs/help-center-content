@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: frete-sendo-exibido-com-valor-errado-quando-ha-estoque-negativo
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

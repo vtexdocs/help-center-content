@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-o-gateway-vtex-standard-promissory
+locale: pt
 legacySlug: configurar-o-gateway-vtex-standard-promissory
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

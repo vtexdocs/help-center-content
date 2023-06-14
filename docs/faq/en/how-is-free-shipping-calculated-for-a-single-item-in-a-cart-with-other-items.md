@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_35
 slug: how-is-free-shipping-calculated-for-a-single-item-in-a-cart-with-other-items
+locale: en
 legacySlug: how-is-free-shipping-calculated-for-a-single-item-in-a-cart-with-other-items
 ---
 

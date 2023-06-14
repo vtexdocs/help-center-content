@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: a-interface-do-usuario-altera-automaticamente-o-sla-selecionado-quando-o-vendedor-agendou-a-retirada-e-o-item-nao-esta-na-primeira-posicao
+locale: pt
 kiStatus: Backlog
 internalReference: 843602
 ---

@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_6
 tag: My Orders
 slug: my-orders-layout-breaking-without-customization
+locale: en
 kiStatus: Fixed
 internalReference: 
 ---

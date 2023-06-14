@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: la-cuenta-principal-esta-siendo-seleccionada-como-merchantname-en-el-entorno-de-la-subcuenta
+locale: es
 kiStatus: Backlog
 internalReference: 780767
 ---

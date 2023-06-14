@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-configuracion-del-valor-de-fidelizacion-cms-no-funciona
+locale: es
 kiStatus: Backlog
 internalReference: 726849
 ---

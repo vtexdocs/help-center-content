@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: creating-a-coupon
+locale: en
 legacySlug: creating-a-coupon
 subcategory: 1TXh7VjDSIGA2eSI0CmUsi
 ---

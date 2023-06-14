@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Master Data
 author: TnXcuQydAAOuwWACo864E
 slug: evitando-cors-en-sus-llamadas-al-master-data
+locale: es
 legacySlug: evitando-cors-en-sus-llamadas-al-master-data
 ---
 

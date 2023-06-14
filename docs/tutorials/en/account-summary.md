@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: account-summary
+locale: en
 legacySlug: account-summary
 subcategory: 6uIlQ5imochc5LFi3dzCSv
 ---

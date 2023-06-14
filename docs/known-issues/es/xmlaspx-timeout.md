@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: tiempo-de-espera-de-xmlaspx
+locale: es
 kiStatus: Backlog
 internalReference: 384719
 ---

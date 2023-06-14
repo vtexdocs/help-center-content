@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: error-de-configuracion-en-cuentas-de-mercado-libre-con-multiples-tiendas
+locale: es
 legacySlug: error-de-configuracion-en-cuentas-de-mercado-libre-con-multiples-tiendas
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

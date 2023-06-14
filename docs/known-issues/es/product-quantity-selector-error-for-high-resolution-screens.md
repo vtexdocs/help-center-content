@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: error-en-el-selector-de-cantidad-de-productos-para-pantallas-de-alta-resolucion
+locale: es
 kiStatus: Backlog
 internalReference: 561921
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: que-es-una-marca
+locale: es
 legacySlug: que-es-una-marca
 subcategory: fUHfjTEwyOcIQuyeUsIIu
 ---

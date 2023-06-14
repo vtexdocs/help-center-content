@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T16:19:11.591Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configurar-pagamento-em-dinheiro-pelo-instore
+locale: pt
 trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugPT: instore-pagamentos
 ---

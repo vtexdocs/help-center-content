@@ -11,6 +11,7 @@ productTeam: Channels
 author: 2mXZkbi0oi061KicTExNjo
 tag: Suggestions
 slug: the-number-of-brands-in-the-mapping-template-exceeds-the-excel-maximum-limit
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

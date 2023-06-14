@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: changing-the-order-of-a-sku-specification-on-the-admin-could-make-the-page-not-work-correctly
+locale: en
 kiStatus: Backlog
 internalReference: 460329
 ---

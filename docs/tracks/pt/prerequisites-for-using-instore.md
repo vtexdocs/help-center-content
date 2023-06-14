@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T13:41:36.817Z
 contentType: trackArticle
 productTeam: Shopping
 slug: pre-requisitos-para-usar-o-instore
+locale: pt
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugPT: instore-primeiros-passos-e-configuracoes
 ---

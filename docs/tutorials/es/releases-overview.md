@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 4oTZzwYoyhy1tDBwLuemdG
 slug: introduccion-a-releases
+locale: es
 legacySlug: introduccion-a-releases
 subcategory: 3vXj7HrnYK8V5riTOwUuYv
 ---

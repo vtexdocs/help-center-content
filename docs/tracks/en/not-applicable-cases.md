@@ -9,6 +9,7 @@ firstPublishedAt: 2020-11-06T19:15:01.794Z
 contentType: trackArticle
 productTeam: Financial
 slug: not-applicable-cases
+locale: en
 trackId: 1ouDg8q56Kuz1AgtJUY9nv
 trackSlugEN: payment-split
 ---

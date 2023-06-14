@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: Shopping
 slug: cadastrar-o-codigo-de-barras-dos-skus-para-o-instore
+locale: pt
 trackId: 
 trackSlugPT: 
 ---

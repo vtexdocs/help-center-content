@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: order-with-change-itens-cannot-be-invoiced-referencing-the-items
+locale: en
 kiStatus: Backlog
 internalReference: 784171
 ---

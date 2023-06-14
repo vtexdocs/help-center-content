@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: inconsistencia-en-la-cantidad-de-items-con-assembly-options-en-el-carrito
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---
@@ -27,7 +28,7 @@ En los productos con personalización de Assembly options, un ítem principal ti
 3. Selecciona el ítem secundario del producto, en la misma cantidad;
 4. Revisa los ítems en el carrito.
 
-![KI assembly](//images.ctfassets.net/alneenqid6w5/1xmOq4gUrxUjJLMMox7WQj/01c933c01f3b6b361b06de22d8160e9a/KI_assembly.png)
+![KI assembly](https://images.ctfassets.net/alneenqid6w5/1xmOq4gUrxUjJLMMox7WQj/01c933c01f3b6b361b06de22d8160e9a/KI_assembly.png)
 
 Observa que el carrito contiene una unidad más del ítem secundario en comparación con el ítem principal.
 

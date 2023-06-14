@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2Gy429C47ie3tL9XUEjeFL
 tag: Order Management
 slug: problema-com-estorno-total-de-pedidos-com-juros
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

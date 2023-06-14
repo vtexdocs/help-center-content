@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: dictionary-of-customer-export-fields
+locale: en
 legacySlug: dictionary-of-customer-export-fields
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: produto-nao-e-reindexado-ao-cadastrar-servicos-nos-skus
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

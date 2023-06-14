@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: TnXcuQydAAOuwWACo864E
 slug: how-to-configure-your-firewall-to-enable-io-access
+locale: en
 legacySlug: how-to-configure-your-firewall-to-enable-io-access
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---

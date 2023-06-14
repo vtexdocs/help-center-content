@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_41
 tag: Order Management
 slug: filtro-gerenciamento-de-pedidos-com-possui-comportamento-indevido
+locale: pt
 kiStatus: Fixed
 internalReference: 
 ---

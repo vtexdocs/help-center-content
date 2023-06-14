@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: instalando-el-widget-con-gtm-suiteshare
+locale: es
 legacySlug: instalando-el-widget-con-gtm
 subcategory: 4y4ylvqceE6vVqEF8IWZix
 ---

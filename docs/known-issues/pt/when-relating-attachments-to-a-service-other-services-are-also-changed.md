@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: ao-relacionar-anexos-a-um-servico-outros-servicos-tambem-sao-alterados
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

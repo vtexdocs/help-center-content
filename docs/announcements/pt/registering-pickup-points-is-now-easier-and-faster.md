@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: cadastrar-pontos-de-retirada-esta-mais-rapido-e-facil
+locale: pt
 legacySlug: cadastrar-pontos-de-retirada-esta-mais-rapido-e-facil
 announcementImageID: ''
 announcementSynopsisPT: 'Agora, você pode fazer o upload de uma planilha XLS com todos os pickup points que deseja oferecer na sua loja.'

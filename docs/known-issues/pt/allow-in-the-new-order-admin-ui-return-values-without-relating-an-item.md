@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: permitir-no-novo-order-admin-ui-valores-de-retorno-sem-relacionar-um-item
+locale: pt
 kiStatus: Fixed
 internalReference: 519576
 ---

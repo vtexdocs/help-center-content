@@ -11,6 +11,7 @@ productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
 slug: update-users-name-in-the-login-section
+locale: en
 kiStatus: Backlog
 internalReference: 542029
 ---

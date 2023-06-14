@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_35
 slug: o-que-fazer-quando-meu-pedido-nao-foi-importado-da-b2w
+locale: pt
 legacySlug: 
 ---
 

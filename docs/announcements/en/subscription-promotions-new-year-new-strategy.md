@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 5l3eEiSz8MpcppCxcnijGz
 slug: subscription-promotions-new-year-new-strategy
+locale: en
 legacySlug: subscription-promotions-new-year-new-strategy
 announcementImageID: ''
 announcementSynopsisEN: 'Subscription promotions are a practical and intuitive way to attract customers and build customer loyalty.'

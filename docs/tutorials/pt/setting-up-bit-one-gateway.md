@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-gateway-bit-one
+locale: pt
 legacySlug: configurar-gateway-bit-one
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: por-que-nao-consigo-inserir-selo-da-promocao-no-marketplace
+locale: pt
 legacySlug: por-que-nao-consigo-inserir-selo-da-promocao-no-marketplace
 ---
 

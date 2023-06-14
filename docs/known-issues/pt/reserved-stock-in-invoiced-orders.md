@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_4
 tag: Order Management
 slug: estoque-reservado-em-pedidos-faturados
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

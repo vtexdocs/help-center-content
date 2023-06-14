@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: exportacao-de-catalogo-nao-mostra-os-canais-de-venda-quando-nenhum-esta-marcado
+locale: pt
 kiStatus: Backlog
 internalReference: 722001
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 slug: por-que-mi-producto-fue-categorizado-equivocadamente-en-mercado-livre
+locale: es
 legacySlug: por-que-mi-producto-fue-categorizado-equivocadamente-en-mercado-livre
 ---
 

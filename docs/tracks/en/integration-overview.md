@@ -9,6 +9,7 @@ firstPublishedAt: 2021-02-08T20:11:26.459Z
 contentType: trackArticle
 productTeam: Channels
 slug: integration-overview
+locale: en
 trackId: 7h8KvIC4DbRRc8VlyJ8PFc
 trackSlugEN: facebook-integration
 ---

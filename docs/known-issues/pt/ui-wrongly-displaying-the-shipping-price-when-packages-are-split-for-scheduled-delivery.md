@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: ui-exibindo-erroneamente-o-preco-de-envio-quando-os-pacotes-sao-divididos-para-entrega-programada
+locale: pt
 kiStatus: Backlog
 internalReference: 774155
 ---

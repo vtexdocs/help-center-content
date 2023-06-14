@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: as-opcoes-de-assinatura-de-traducao-nao-funcionam-corretamente-para-alguns-idiomas
+locale: pt
 kiStatus: Backlog
 internalReference: 561186
 ---

@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: freight-values-update-api-taking-time-to-reflect-on-simulation-module
+locale: en
 kiStatus: Backlog
 internalReference: 621230
 ---

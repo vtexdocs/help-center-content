@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: la-eliminacion-del-usuario-de-la-regla-de-autorizacion-de-pedidos-bloquea-el-pedido-y-no-permite-el-reprocesamiento-de-la-interfaz-de-usuario
+locale: es
 kiStatus: Backlog
 internalReference: 623376
 ---

@@ -11,6 +11,7 @@ productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
 slug: el-cambio-de-subaccount-en-la-topbar-no-funciona-en-el-masterdata
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

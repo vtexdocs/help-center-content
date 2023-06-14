@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: como-funciona-el-contexto-de-busqueda-de-las-carpetas-del-website
+locale: es
 legacySlug: 
 subcategory: 
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: global-categories-in-catalog-outdated-compared-to-google
+locale: en
 kiStatus: Backlog
 internalReference: 754062
 ---

@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: the-order-management-filter-does-not-find-results-for-criteria-that-have-double-spaces-in-the-name
+locale: en
 kiStatus: Backlog
 internalReference: 353656
 ---

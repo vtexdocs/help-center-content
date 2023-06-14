@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: actualizacion-del-regex-de-cabal
+locale: es
 kiStatus: Backlog
 internalReference: 374652
 ---

@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: imposto-sobre-o-produtovalor-percentual-economizado-pelo-resolvedor-de-busca-e-incorreto-devido-ao-arredondamento
+locale: pt
 kiStatus: Backlog
 internalReference: 470143
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: xmlaspx-timeout
+locale: pt
 kiStatus: Backlog
 internalReference: 384719
 ---

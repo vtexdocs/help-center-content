@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-api-de-regions-no-calcula-correctamente-el-seller-1-al-solicitar-sellers-que-no-son-white-label
+locale: es
 kiStatus: Backlog
 internalReference: 551402
 ---

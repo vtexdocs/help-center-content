@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: por-que-o-produto-nao-indexa
+locale: pt
 legacySlug: por-que-o-produto-nao-indexa
 ---
 

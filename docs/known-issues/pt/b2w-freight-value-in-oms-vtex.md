@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: b2w-valor-do-frete-em-oms-vtex
+locale: pt
 kiStatus: Backlog
 internalReference: 671748
 ---

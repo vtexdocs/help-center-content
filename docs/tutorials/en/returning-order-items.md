@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: returning-order-items
+locale: en
 legacySlug: returning-order-items
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

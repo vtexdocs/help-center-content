@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: aprobacion-de-clientes
+locale: es
 legacySlug: aceptacion-clientes, aprobacion-clientes
 subcategory: 42hDtnYXHw5ExG6l19RP1l
 ---

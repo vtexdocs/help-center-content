@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_31
 slug: crear-formulario-de-contactenos-usando-master-data
+locale: es
 legacySlug: crear-formulario-de-contactenos-usando-master-data
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

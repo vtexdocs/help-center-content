@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_4
 tag: Portal (CMS)
 slug: pagina-mi-cuenta-no-funciona-en-el-dominio-myvtex-com
+locale: es
 kiStatus: Closed
 internalReference: 
 ---

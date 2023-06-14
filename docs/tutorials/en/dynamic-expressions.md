@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: dynamic-expressions
+locale: en
 legacySlug: dynamic-expressions
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5V92cmF9jG8KG600EwUgEg
 slug: como-crear-un-attachment-para-un-sku
+locale: es
 legacySlug: como-crear-un-attachment-para-un-sku
 subcategory: 
 ---

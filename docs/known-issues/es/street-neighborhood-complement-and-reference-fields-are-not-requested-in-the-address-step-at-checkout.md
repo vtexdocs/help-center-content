@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: los-campos-calle-barrio-complemento-y-referencia-no-se-solicitan-en-el-paso-de-la-direccion-en-la-compra
+locale: es
 kiStatus: Backlog
 internalReference: 563507
 ---

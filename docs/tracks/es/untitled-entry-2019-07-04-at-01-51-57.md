@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: 
 slug: untitled-entry-2019-07-04-at-01-51-57
+locale: es
 trackId: 
 trackSlugES: 
 ---

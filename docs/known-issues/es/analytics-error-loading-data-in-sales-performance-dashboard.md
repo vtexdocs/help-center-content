@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: analytics-error-al-cargar-datos-en-el-panel-de-rendimiento-de-ventas
+locale: es
 kiStatus: Backlog
 internalReference: 799899
 ---

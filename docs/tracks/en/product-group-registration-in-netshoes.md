@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-05T02:38:16.736Z
 contentType: trackArticle
 productTeam: Channels
 slug: product-group-registration-in-netshoes
+locale: en
 trackId: 5Ua87lhFg4m0kEcuyqmcCm
 trackSlugEN: netshoes-integration-set-up
 ---

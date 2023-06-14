@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: setting-up-the-standard-size-for-the-zoom-image
+locale: en
 legacySlug: setting-up-the-standard-size-for-the-zoom-image
 subcategory: 7ogirQ8NClawO2X6xdgCKc
 ---

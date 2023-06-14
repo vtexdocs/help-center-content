@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: campovalorformaspx-save-button-requires-two-clicks
+locale: en
 kiStatus: Backlog
 internalReference: 525616
 ---

@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: get-matched-offers-list-api-not-working-properly
+locale: en
 kiStatus: Backlog
 internalReference: 553456
 ---

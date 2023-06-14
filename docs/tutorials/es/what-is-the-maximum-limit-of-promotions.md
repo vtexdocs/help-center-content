@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: cual-es-el-limite-maximo-de-promociones
+locale: es
 legacySlug: cual-es-el-limite-máximo-de-promociones
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

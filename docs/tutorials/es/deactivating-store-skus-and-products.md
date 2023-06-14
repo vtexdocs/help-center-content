@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: desactivar-skus-y-productos-de-la-tienda
+locale: es
 legacySlug: desactivar-skus-y-productos-de-la-tienda
 subcategory: pwxWmUu7T222QyuGogs68
 ---

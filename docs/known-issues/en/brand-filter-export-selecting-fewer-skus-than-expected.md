@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: brand-filter-export-selecting-fewer-skus-than-expected
+locale: en
 kiStatus: Backlog
 internalReference: 597038
 ---

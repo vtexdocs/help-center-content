@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: managing-delivery-capacity-beta
+locale: en
 legacySlug: managing-delivery-capacity-beta
 subcategory: 
 ---

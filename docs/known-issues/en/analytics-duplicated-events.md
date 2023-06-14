@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: analytics-duplicated-events
+locale: en
 kiStatus: Backlog
 internalReference: 771986
 ---

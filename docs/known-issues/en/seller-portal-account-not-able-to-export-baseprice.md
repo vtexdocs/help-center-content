@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: seller-portal-account-not-able-to-export-baseprice
+locale: en
 kiStatus: Backlog
 internalReference: 408868
 ---

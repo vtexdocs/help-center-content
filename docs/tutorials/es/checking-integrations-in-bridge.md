@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: como-verificar-la-integracion-en-bridge
+locale: es
 legacySlug: como-verificar-la-integracion-en-bridge
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---

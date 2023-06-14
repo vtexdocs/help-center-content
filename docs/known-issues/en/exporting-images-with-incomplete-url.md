@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: exporting-images-with-incomplete-url
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

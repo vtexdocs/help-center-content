@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: informacoes-do-cartao-de-pedido-causando-confusao-no-status
+locale: pt
 kiStatus: Backlog
 internalReference: 619778
 ---

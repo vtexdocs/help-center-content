@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: como-editar-un-link-de-whatsapp
+locale: es
 legacySlug: como-editar-un-link-de-whatsapp
 ---
 

@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: las-palabras-sustitutivas-de-la-categoria-no-se-indexan
+locale: es
 kiStatus: Backlog
 internalReference: 374204
 ---

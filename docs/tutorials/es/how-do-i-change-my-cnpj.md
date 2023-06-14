@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: como-cambiar-mi-cnpj
+locale: es
 legacySlug: como-cambiar-mi-cnpj
 subcategory: 6SJnrkKDjGwSqKkMuQMOmm
 ---

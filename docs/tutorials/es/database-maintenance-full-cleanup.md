@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
 slug: mantenimiento-de-base-de-datos-full-cleanup
+locale: es
 legacySlug: limpiar-base-de-datos-de-la-tienda
 subcategory: 63DHe3VQEEE6Uuua8gIs2M
 ---

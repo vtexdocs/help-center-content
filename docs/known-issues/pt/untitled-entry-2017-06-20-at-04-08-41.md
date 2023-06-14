@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 5V92cmF9jG8KG600EwUgEg
 tag: Catalog
 slug: criar-feed-de-produto-xml-com-https
+locale: pt
 kiStatus: Open
 internalReference: 
 ---

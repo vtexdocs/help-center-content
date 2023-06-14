@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: authors_35
 slug: what-to-do-when-client-doesnt-get-the-password-recovery-notification
+locale: en
 legacySlug: what-to-do-when-client-doesnt-get-the-password-recovery-notification
 ---
 

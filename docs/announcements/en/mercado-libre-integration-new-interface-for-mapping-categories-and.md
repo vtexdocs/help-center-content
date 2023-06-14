@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: mercado-libre-integration-new-interface-for-mapping-categories-and
+locale: en
 legacySlug: mercado-libre-integration-new-interface-for-mapping-categories-and
 announcementImageID: ''
 announcementSynopsisEN: 'The new interface for mapping categories and attributes will replace the mapping template.'

@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-27T18:47:56.361Z
 contentType: trackArticle
 productTeam: Channels
 slug: ad-types-classic-and-premium
+locale: en
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugEN: mercado-libre-integration-set-up
 ---

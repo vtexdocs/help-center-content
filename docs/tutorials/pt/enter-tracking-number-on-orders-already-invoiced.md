@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: inserir-numero-de-rastreio-em-pedidos-ja-faturados
+locale: pt
 legacySlug: inserir-numero-de-rastreio-em-pedidos-ja-faturados
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

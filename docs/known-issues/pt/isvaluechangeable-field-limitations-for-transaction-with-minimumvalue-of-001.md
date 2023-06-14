@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: limitacoes-do-campo-isvaluechangeable-para-transacoes-com-minimumvalue-de-001
+locale: pt
 kiStatus: Backlog
 internalReference: 825122
 ---

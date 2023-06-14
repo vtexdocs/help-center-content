@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: como-criar-um-cluster-de-clientes
+locale: pt
 legacySlug: como-criar-um-cluster-de-clientes
 subcategory: 42hDtnYXHw5ExG6l19RP1l
 ---

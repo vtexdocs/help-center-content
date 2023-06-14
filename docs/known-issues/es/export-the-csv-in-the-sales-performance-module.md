@@ -11,6 +11,7 @@ productTeam: Admin
 author: 2mXZkbi0oi061KicTExNjo
 tag: Admin
 slug: exportar-el-csv-en-el-modulo-de-rendimiento-de-ventas
+locale: es
 kiStatus: Backlog
 internalReference: 823878
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: apis-que-viram-tambem-viram-quem-viram-tambem-compraram-quem-compraram-tambem-compraram-nem-sempre-funcionando-como-esperado
+locale: pt
 kiStatus: Backlog
 internalReference: 712015
 ---

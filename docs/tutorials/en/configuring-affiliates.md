@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: configuring-affiliates
+locale: en
 legacySlug: configuring-affiliates
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---

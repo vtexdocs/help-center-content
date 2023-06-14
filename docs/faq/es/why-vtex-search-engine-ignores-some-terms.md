@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_31
 slug: por-que-el-buscador-de-vtex-ignora-algunos-terminos-buscados
+locale: es
 legacySlug: por-que-el-buscador-de-vtex-ignora-algunos-terminos-buscados
 ---
 

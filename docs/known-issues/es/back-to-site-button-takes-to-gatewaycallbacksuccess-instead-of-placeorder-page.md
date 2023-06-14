@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-boton-volver-al-sitio-lleva-a-gatewaycallbacksuccess-en-lugar-de-a-la-pagina-placeorder
+locale: es
 kiStatus: Backlog
 internalReference: 786685
 ---

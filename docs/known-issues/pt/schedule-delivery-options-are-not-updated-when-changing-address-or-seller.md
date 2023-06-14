@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 3iOk6R6XYZ9O18JHFLPk43
 tag: Checkout
 slug: as-opcoes-de-entrega-programada-nao-sao-atualizadas-quando-se-altera-o
+locale: pt
 kiStatus: Backlog
 internalReference: 288574
 ---

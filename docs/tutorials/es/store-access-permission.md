@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: B2B
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: permiso-de-acceso-a-la-tienda
+locale: es
 legacySlug: permiso-de-acceso-a-tienda
 subcategory: 3dBbxrpmrGP2D7AgQeviAR
 ---
@@ -24,4 +25,4 @@ Para realizar esta configuración, en el panel administrativo (Admin) de la cuen
 4. Seleccione la opción __VTEX Store__.
 5. Marque la casilla de selección __“Enables B2B behaviour”__ y guarde las alteraciones.
 
-![Habilitar escenario B2B](//images.ctfassets.net/alneenqid6w5/Kxh1UuEyCT52qprSkBkeH/49fd977f929e7422641030804973cf2f/Habilitar_B2B.gif)
+![Habilitar escenario B2B](https://images.ctfassets.net/alneenqid6w5/Kxh1UuEyCT52qprSkBkeH/49fd977f929e7422641030804973cf2f/Habilitar_B2B.gif)

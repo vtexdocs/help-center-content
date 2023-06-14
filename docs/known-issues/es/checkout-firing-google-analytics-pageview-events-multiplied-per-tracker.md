@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: disparo-de-eventos-de-paginas-de-google-analytics-multiplicados-por-rastreador
+locale: es
 kiStatus: Fixed
 internalReference: 350780
 ---

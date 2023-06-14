@@ -9,6 +9,7 @@ firstPublishedAt: 2020-04-15T00:39:40.691Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: explicacao-da-busca
+locale: pt
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugPT: vtex-intelligent-search
 ---
@@ -25,5 +26,5 @@ Para utilizá-la, siga o passo a passo abaixo:
 1. No Admin VTEX, acesse **Storefront**, ou digite **Storefront** na barra de busca no topo da página.
 2. Em **Intelligent Search**, clique em **Explicação da busca**. 
 
-![Explicação da Busca](//images.ctfassets.net/alneenqid6w5/5KrbVmzoI4woKzjxhsGJne/7b6559e6b60aacbd221d805318331bf0/explica____o_de_busca_pt.png)
+![Explicação da Busca](https://images.ctfassets.net/alneenqid6w5/5KrbVmzoI4woKzjxhsGJne/7b6559e6b60aacbd221d805318331bf0/explica____o_de_busca_pt.png)
 

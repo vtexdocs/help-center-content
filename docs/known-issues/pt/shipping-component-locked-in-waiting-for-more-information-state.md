@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: componente-de-envio-trancado-no-estado-a-espera-de-mais-informacoes
+locale: pt
 kiStatus: Backlog
 internalReference: 780673
 ---

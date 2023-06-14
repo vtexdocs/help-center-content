@@ -9,6 +9,7 @@ firstPublishedAt: 2021-10-06T16:13:33.742Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: login-e-senha
+locale: pt
 trackId: 132YFN170Jvs6ZUBGh8w2e
 trackSlugPT: adaptador-vtex
 ---
@@ -19,7 +20,7 @@ Para conseguir o login e senha para acessar o adaptador, você deve abrir um cha
 
 Em seu navegador preferido, digite `https://adapterstaging.ciashop.com.br/`. Sugerimos adicionar este link na pasta favoritos do seu navegador preferido.
 
-![login-adaptador](//images.ctfassets.net/alneenqid6w5/4toFGLYSg26MGGWMf3kHDc/4fbb56d3ebf3f7dca51ea3aa9bd623c0/login-adaptador.png)
+![login-adaptador](https://images.ctfassets.net/alneenqid6w5/4toFGLYSg26MGGWMf3kHDc/4fbb56d3ebf3f7dca51ea3aa9bd623c0/login-adaptador.png)
 
 ## Efetuando login (ambiente de homologação) com os dados enviados pela equipe de atendimento
 

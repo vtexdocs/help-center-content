@@ -9,6 +9,7 @@ firstPublishedAt: 2019-06-25T19:06:00.689Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: arquitetura-do-catalogo
+locale: pt
 trackId: 5AF0XfnjfWeopIFBgs3LIQ
 trackSlugPT: catalogo-101
 ---
@@ -34,4 +35,4 @@ Essas especificações são, por exemplo, a composição de um produto, ou o tam
 
 Abaixo, vemos um esquema da arquitetura do Catálogo na VTEX.
 
-![arquitetura-catalogo-PT](//images.ctfassets.net/alneenqid6w5/4P3TCN2sjS3EuMdNO6Rrkb/76c3c87942fb93c1022b4eacb748c6f8/PT.png)
+![arquitetura-catalogo-PT](https://images.ctfassets.net/alneenqid6w5/4P3TCN2sjS3EuMdNO6Rrkb/76c3c87942fb93c1022b4eacb748c6f8/PT.png)

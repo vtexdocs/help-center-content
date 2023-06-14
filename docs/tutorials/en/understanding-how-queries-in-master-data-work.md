@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: understanding-how-queries-in-master-data-work
+locale: en
 legacySlug: understanding-how-queries-in-master-data-work
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---

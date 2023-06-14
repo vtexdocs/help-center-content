@@ -9,6 +9,7 @@ firstPublishedAt: 2020-10-20T19:51:24.705Z
 contentType: trackArticle
 productTeam: Channels
 slug: cadastro-da-integracao-da-centauro
+locale: pt
 trackId: D8Qnjbr5lfLkUfMRhsfbj
 trackSlugPT: cadastro-da-integracao-da-centauro
 ---

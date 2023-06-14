@@ -9,6 +9,7 @@ firstPublishedAt: 2021-02-22T21:40:55.533Z
 contentType: trackArticle
 productTeam: Channels
 slug: setting-up-a-marketplace-trade-policy-carrefour
+locale: en
 trackId: 2wYlj07cNuA8k8mmwY86K2
 trackSlugEN: carrefour-integration-set-up
 ---

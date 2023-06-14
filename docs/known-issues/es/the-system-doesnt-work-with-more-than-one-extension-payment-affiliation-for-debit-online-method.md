@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: el-sistema-no-funciona-con-mas-de-una-afiliacion-de-pago-de-extension-para-el-metodo-de-debito-en-linea
+locale: es
 kiStatus: Backlog
 internalReference: 319750
 ---

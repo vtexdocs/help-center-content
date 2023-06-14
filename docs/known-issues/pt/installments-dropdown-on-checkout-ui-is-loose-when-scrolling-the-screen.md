@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: as-prestacoes-caem-no-checkout-ui-esta-solta-quando-se-rola-a-tela
+locale: pt
 kiStatus: Backlog
 internalReference: 540257
 ---

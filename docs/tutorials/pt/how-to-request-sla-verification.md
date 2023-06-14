@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: como-solicitar-a-apuracao-de-sla
+locale: pt
 legacySlug: como-solicitar-a-apuracao-de-sla
 subcategory: 22TaEgFhwE6a6CG2KASYkC
 ---

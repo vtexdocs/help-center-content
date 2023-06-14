@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: estado-erro-de-processamento-politica-de-envios
+locale: es
 kiStatus: Backlog
 internalReference: 445793
 ---

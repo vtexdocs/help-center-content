@@ -9,6 +9,7 @@ firstPublishedAt: 2019-10-21T12:47:09.524Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: warehouse-concept-definition
+locale: en
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101
 ---

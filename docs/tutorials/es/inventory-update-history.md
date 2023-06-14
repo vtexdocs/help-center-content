@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: historial-de-movimientos-del-stock
+locale: es
 legacySlug: como-analizar-el-historico-de-movimiento-de-inventario
 subcategory: 3PQwnyOcNyYgawy06oe6gE
 ---

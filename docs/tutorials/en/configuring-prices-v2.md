@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: configuring-prices-v2
+locale: en
 legacySlug: configuring-prices-v2
 subcategory: 3O1NvPgBPqE0qU88MSQaie
 ---

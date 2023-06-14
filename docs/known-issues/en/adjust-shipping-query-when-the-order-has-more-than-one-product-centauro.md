@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: adjust-shipping-query-when-the-order-has-more-than-one-product-centauro
+locale: en
 kiStatus: Backlog
 internalReference: 599380
 ---

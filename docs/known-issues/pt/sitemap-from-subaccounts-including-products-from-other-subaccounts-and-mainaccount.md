@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: mapa-do-site-das-subcontas-incluindo-produtos-de-outras-subcontas-e-da-conta-principal
+locale: pt
 kiStatus: Backlog
 internalReference: 617974
 ---

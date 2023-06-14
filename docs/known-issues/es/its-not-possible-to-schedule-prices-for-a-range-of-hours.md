@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Pricing & Promotions
 slug: no-se-puede-agendar-precios-para-un-rango-de-horas-en-admin
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

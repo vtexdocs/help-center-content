@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Master Data
 author: TnXcuQydAAOuwWACo864E
 slug: evitando-cors-em-suas-chamadas-ao-masterdata
+locale: pt
 legacySlug: evitando-cors-em-suas-chamadas-ao-masterdata
 ---
 

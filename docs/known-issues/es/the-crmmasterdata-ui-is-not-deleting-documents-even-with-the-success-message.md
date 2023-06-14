@@ -11,6 +11,7 @@ productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
 slug: la-interfaz-de-usuario-de-crmmasterdata-no-elimina-los-documentos-incluso-con-el-mensaje-de-exito
+locale: es
 kiStatus: No Fix
 internalReference: 699374
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_41
 slug: how-to-capture-the-ip-of-an-order
+locale: en
 legacySlug: how-to-capture-the-ip-of-an-order
 subcategory: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
@@ -20,11 +21,11 @@ To retrieve the IP of a customer that placed an order at your store, you can ana
 
 When you open an order, click "See transaction details" in the payment box:
 
-![ip pedido1 EN](//images.ctfassets.net/alneenqid6w5/23018S94Qgws4swwoUUmSW/37a40268c64fb2306cdb236f552d3e20/ip_pedido1_EN.png)
+![ip pedido1 EN](https://images.ctfassets.net/alneenqid6w5/23018S94Qgws4swwoUUmSW/37a40268c64fb2306cdb236f552d3e20/ip_pedido1_EN.png)
 
 Finally, the IP is visualized on the top right corner:
 
-![ip pedido2 EN](//images.ctfassets.net/alneenqid6w5/5TFz9FxDAQiwcuGCmcYoCu/315612e531df7562d33b80398bc80ef9/ip_pedido2_EN.png)
+![ip pedido2 EN](https://images.ctfassets.net/alneenqid6w5/5TFz9FxDAQiwcuGCmcYoCu/315612e531df7562d33b80398bc80ef9/ip_pedido2_EN.png)
 
 See more details on [How to visualize the order detail](/en/tutorial/how-to-view-the-orders-details)
 

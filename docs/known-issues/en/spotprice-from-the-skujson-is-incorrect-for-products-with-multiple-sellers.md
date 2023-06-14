@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: spotprice-from-the-skujson-is-incorrect-for-products-with-multiple-sellers
+locale: en
 kiStatus: Backlog
 internalReference: 264791
 ---

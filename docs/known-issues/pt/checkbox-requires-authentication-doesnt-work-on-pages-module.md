@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: a-caixa-de-selecao-requer-autenticacao-nao-funciona-no-modulo-paginas
+locale: pt
 kiStatus: Backlog
 internalReference: 577306
 ---

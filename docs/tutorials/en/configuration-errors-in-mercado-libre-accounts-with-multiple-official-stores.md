@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: configuration-errors-in-mercado-libre-accounts-with-multiple-official-stores
+locale: en
 legacySlug: configuration-errors-in-mercado-libre-accounts-with-multiple-official-stores
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

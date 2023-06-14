@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: o-filtro-de-gestao-de-pedidos-nao-encontra-resultados-para-criterios-que-possuem-espacos-duplos-no-nome
+locale: pt
 kiStatus: Backlog
 internalReference: 353656
 ---

@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: incapaz-de-apagar-o-modelo-no-cms-antigo
+locale: pt
 kiStatus: Backlog
 internalReference: 332033
 ---

@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: el-filtro-de-exportacion-de-marcas-selecciona-menos-sku-de-las-esperadas
+locale: es
 kiStatus: Backlog
 internalReference: 597038
 ---

@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: el-evento-productclick-considera-el-sku-id-incorrecto
+locale: es
 kiStatus: Backlog
 internalReference: 788145
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2019-10-21T12:45:29.271Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: o-que-sao-rotas-logisticas
+locale: pt
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugPT: logistica-101
 ---
@@ -32,4 +33,4 @@ Para cadastrar uma doca no admin da loja, siga os passos indicados neste [link](
 ### Transportadora
 É a partir daqui que os pedidos são distribuídos para seus destinos finais. Uma transportadora se compõe pela frota de veículos que farão as entregas. Assim, os pedidos saem do centro de distribuição direto para a transportadora que finaliza o processo até o cliente final. 
 
-![PT Conceitos Logística](//images.ctfassets.net/alneenqid6w5/aZMHlLUkOUDuN0vEITGy1/10a2b5b7d0ce301dc4c9fa2aa7bf236f/PT_Conceitos_Log__stica.png)
+![PT Conceitos Logística](https://images.ctfassets.net/alneenqid6w5/aZMHlLUkOUDuN0vEITGy1/10a2b5b7d0ce301dc4c9fa2aa7bf236f/PT_Conceitos_Log__stica.png)

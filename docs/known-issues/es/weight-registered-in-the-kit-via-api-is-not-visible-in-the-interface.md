@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-peso-registrado-en-el-kit-via-api-no-es-visible-en-la-interfaz
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

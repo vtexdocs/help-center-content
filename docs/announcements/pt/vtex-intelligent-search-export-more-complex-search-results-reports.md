@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: vtex-intelligent-search-exporte-relatorios-mais-completos-sobre-os-resultados-de-pesquisa
+locale: pt
 legacySlug: vtex-intelligent-search-exporte-relatorios-mais-completos-sobre-os
 announcementImageID: ''
 announcementSynopsisPT: 'Para criar estratégias de busca mais eficientes, basta exportar as informações de Relatórios do VTEX Intelligent Search.'

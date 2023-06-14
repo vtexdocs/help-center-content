@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: falha-em-criar-variacoes-de-produtos
+locale: pt
 kiStatus: Fixed
 internalReference: 685160
 ---

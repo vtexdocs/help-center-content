@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: como-ver-un-ranking-de-los-productos-mas-vendidos
+locale: es
 legacySlug: como-ver-un-ranking-de-los-productos-mas-vendidos
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

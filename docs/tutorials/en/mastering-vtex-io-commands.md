@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 
 slug: mastering-vtex-io-commands
+locale: en
 legacySlug: mastering-vtex-io-commands
 subcategory: 
 ---

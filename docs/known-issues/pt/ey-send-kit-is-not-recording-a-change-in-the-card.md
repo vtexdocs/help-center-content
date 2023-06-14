@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: ey-enviar-kit-nao-esta-registrando-uma-mudanca-no-cartao
+locale: pt
 kiStatus: Backlog
 internalReference: 442215
 ---

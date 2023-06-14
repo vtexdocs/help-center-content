@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 slug: replacing-the-term-capture-for-settlement-in-the-payments-documentation
+locale: en
 legacySlug: replacing-the-term-capture-for-settlement-in-the-payments-documentation
 announcementImageID: ''
 announcementSynopsisEN: 'The "capture" term was replaced by "settlement" throughout the documentation in the Payments context'

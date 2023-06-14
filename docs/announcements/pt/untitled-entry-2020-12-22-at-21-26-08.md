@@ -9,6 +9,7 @@ contentType: updates
 productTeam: 
 author: 
 slug: untitled-entry-2020-12-22-at-21-26-08
+locale: pt
 legacySlug: untitled-entry-2020-12-22-at-21-26-08
 announcementImageID: ''
 announcementSynopsisPT: ''

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: customer-credit-flexibilize-suas-condicoes-de-pagamento-com-juros
+locale: pt
 legacySlug: customer-credit-flexibilize-suas-condicoes-de-pagamento-com-juros
 announcementImageID: ''
 announcementSynopsisPT: 'Agora o Customer Credit permite a configuração de juros nas suas regras de pagamento para crédito faturado. '

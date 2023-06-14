@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: as-configuracoes-do-cms-nao-permitem-retirar-valor-do-campo-unidade-de-massa
+locale: pt
 kiStatus: Backlog
 internalReference: 540756
 ---

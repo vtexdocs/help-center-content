@@ -11,6 +11,7 @@ productTeam: Other
 author: 2Gy429C47ie3tL9XUEjeFL
 tag: Checkout
 slug: error-al-validar-documento-corporativo-de-mexico-en-el-checkout
+locale: es
 kiStatus: Backlog
 internalReference: 425486 
 ---

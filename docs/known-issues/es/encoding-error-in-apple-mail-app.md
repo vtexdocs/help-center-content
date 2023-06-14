@@ -11,6 +11,7 @@ productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data,Message Center
 slug: error-de-encoding-en-mail-app-de-apple
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---
@@ -28,7 +29,7 @@ Montar un trigger de envío de correo electrónico que tenga carácter especial 
 
 Resultado:
 
-![png](//images.ctfassets.net/alneenqid6w5/2O4zWlYa1WoaQ0sUMUKS2Q/2862790a2e5124fcb612a7f17774a339/png.png)
+![png](https://images.ctfassets.net/alneenqid6w5/2O4zWlYa1WoaQ0sUMUKS2Q/2862790a2e5124fcb612a7f17774a339/png.png)
 
 ## Workaround
 

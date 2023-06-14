@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 5l3eEiSz8MpcppCxcnijGz
 slug: promociones-por-suscripcion-ano-nuevo-estrategia-nueva
+locale: es
 legacySlug: promociones-por-suscripcion-ano-nuevo-estrategia-nueva
 announcementImageID: ''
 announcementSynopsisES: 'Las promociones por suscripción son una forma práctica e intuitiva de atraer a los clientes y fidelizarlos.'

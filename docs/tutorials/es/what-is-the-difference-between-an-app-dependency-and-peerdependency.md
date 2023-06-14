@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 3aBBTLS9ZKO6IcY0Goe2y2
 slug: cual-es-la-diferencia-entre-una-app-dependency-y-una-peer-dependency
+locale: es
 legacySlug: cual-es-la-diferencia-entre-una-app-dependency-y-una-peer-dependency
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

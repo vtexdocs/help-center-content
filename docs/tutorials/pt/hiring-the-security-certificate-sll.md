@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_84
 slug: certificado-de-seguranca-ssl-a-que-se-refere-e-como-contratar
+locale: pt
 legacySlug: certificado-de-seguranca-ssl-a-que-se-refere-e-como-contratar
 subcategory: 2TNXiKzLZOPxjMTyGiEeJu
 ---

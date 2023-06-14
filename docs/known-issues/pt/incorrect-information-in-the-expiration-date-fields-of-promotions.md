@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: informacoes-incorretas-nos-campos-de-datas-de-expiracao-das-promocoes
+locale: pt
 kiStatus: Backlog
 internalReference: 611284
 ---

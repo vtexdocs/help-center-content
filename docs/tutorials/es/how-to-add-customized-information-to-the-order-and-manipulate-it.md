@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_24
 slug: como-ingresar-y-manipular-informacion-personalizada-en-el-orden
+locale: es
 legacySlug: como-ingresar-y-manipular-informacion-personalizada-en-el-orden
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

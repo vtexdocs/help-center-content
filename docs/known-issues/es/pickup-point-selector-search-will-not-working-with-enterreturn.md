@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-busqueda-del-selector-de-punto-de-recogida-no-funciona-con-enterreturn
+locale: es
 kiStatus: Backlog
 internalReference: 829955
 ---

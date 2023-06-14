@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: faq-seguranca-2
+locale: pt
 legacySlug: faq-seguranca-2
 subcategory: 
 ---

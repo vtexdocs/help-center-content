@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: como-funciona-el-envio-de-precios-a-facebook
+locale: es
 legacySlug: como-funciona-el-envio-de-precios-a-facebook
 subcategory: 3pGCbMh80UueoeSqoAgSuS
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: tabela-de-status-de-pedidos-oms
+locale: pt
 legacySlug: de-para-status-de-pedidos
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

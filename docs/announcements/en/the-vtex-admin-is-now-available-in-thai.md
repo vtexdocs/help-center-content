@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: the-vtex-admin-is-now-available-in-thai
+locale: en
 legacySlug: the-vtex-admin-is-now-available-in-thai
 announcementImageID: ''
 announcementSynopsisEN: 'The Admin is now available in one more language.'

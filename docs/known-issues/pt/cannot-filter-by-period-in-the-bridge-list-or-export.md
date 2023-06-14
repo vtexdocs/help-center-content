@@ -11,6 +11,7 @@ productTeam: Channels
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Connections
 slug: nao-pode-ser-filtrado-por-periodo-na-lista-ou-na-exportacao-do-bridge
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

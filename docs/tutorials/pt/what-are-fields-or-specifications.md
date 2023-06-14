@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: o-que-sao-campos-ou-especificacoes
+locale: pt
 legacySlug: o-que-sao-campos-ou-especificacoes
 subcategory: pwxWmUu7T222QyuGogs68
 ---

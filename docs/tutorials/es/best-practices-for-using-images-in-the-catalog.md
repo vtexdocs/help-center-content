@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: buenas-practicas-para-el-uso-de-imagenes-en-el-catalogo
+locale: es
 legacySlug: buenas-practicas-para-el-uso-de-imagenes-en-el-catalogo
 subcategory: pwxWmUu7T222QyuGogs68
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2021-11-09T14:09:59.855Z
 contentType: trackArticle
 productTeam: Shopping
 slug: cancelar-y-reembolsar-un-pedido-en-instore
+locale: es
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugES: instore-usando-el-app
 ---

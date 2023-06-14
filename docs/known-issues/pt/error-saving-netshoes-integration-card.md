@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: erro-ao-salvar-o-cartao-de-integracao-com-a-netshoes
+locale: pt
 kiStatus: Backlog
 internalReference: 591921
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_31
 slug: como-configurar-o-favicon-em-meu-site
+locale: pt
 legacySlug: como-configurar-o-favicon-em-meu-site
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

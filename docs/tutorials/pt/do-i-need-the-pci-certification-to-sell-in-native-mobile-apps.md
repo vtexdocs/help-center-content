@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 2LFh4Ox3XiWIqUMWw4MOGw
 slug: e-necessario-ter-certificado-pci-para-vender-em-apps-mobile-nativos
+locale: pt
 legacySlug: e-necessario-ter-certificado-pci-para-vender-em-apps-mobile-nativos
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

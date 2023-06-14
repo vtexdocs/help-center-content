@@ -9,6 +9,7 @@ firstPublishedAt: 2020-09-23T20:31:42.798Z
 contentType: trackArticle
 productTeam: Channels
 slug: mercado-libre-marketplace
+locale: en
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugEN: mercado-libre-integration-set-up
 ---

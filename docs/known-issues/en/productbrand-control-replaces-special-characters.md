@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: productbrand-control-replaces-special-characters
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

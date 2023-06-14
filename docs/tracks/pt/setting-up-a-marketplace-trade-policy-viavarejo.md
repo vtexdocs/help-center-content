@@ -9,6 +9,7 @@ firstPublishedAt: 2021-02-22T21:38:33.617Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-politica-comercial-para-marketplace-viavarejo
+locale: pt
 trackId: 3E9XylGaJ2wqwISGyw4GuY
 trackSlugPT: configurar-integracao-da-viavarejo
 ---

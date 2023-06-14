@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: structured-data-through-google-search-console-data-markers
+locale: en
 legacySlug: structured-data-through-google-search-console-data-markers
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

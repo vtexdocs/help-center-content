@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_3
 slug: importando-dados-no-master-data
+locale: pt
 legacySlug: importando-dados-no-master-data
 subcategory: 2AThnkEZAYbk4G4EIs53rL
 ---

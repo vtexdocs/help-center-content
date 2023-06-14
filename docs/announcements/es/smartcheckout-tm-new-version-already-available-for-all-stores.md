@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: authors_24
 slug: nueva-versión-de-smartcheckout-tm-ha-sido-lanzada-para-todas-las-tiendas
+locale: es
 legacySlug: nueva-versión-de-smartcheckout-tm-ha-sido-lanzada-para-todas-las-tiendas
 announcementImageID: ''
 announcementSynopsisES: 'Se realizó la migración de todas las tiendas a la quinta versión de SmartCheckout ™.'

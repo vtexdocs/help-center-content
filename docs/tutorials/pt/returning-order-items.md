@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-fazer-a-devolucao-de-itens
+locale: pt
 legacySlug: como-fazer-a-devolucao-de-itens
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_24
 slug: why-does-mercado-livre-return-attribution-errors-after-mapping
+locale: en
 legacySlug: why-does-mercado-livre-return-attribution-errors-after-mapping
 ---
 

@@ -9,6 +9,7 @@ firstPublishedAt: 2019-06-25T15:48:35.482Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: colecciones-definicion-del-concepto
+locale: es
 trackId: 5AF0XfnjfWeopIFBgs3LIQ
 trackSlugES: catalogo-101
 ---

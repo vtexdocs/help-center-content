@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: b2w-status-de-rastreamento-nao-atualizado-no-skyhub
+locale: pt
 kiStatus: Backlog
 internalReference: 673597
 ---

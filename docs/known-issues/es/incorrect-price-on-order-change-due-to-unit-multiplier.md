@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: precio-incorrecto-en-el-cambio-de-pedido-debido-al-multiplicador-unitario
+locale: es
 kiStatus: Fixed
 internalReference: 371066
 ---

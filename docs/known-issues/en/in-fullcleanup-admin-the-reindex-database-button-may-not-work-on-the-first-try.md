@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: in-fullcleanup-admin-the-reindex-database-button-may-not-work-on-the-first-try
+locale: en
 kiStatus: Backlog
 internalReference: 790828
 ---

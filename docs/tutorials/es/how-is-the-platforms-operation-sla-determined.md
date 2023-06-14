@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-se-comprueba-el-sla-de-operacion-de-la-plataforma
+locale: es
 legacySlug: como-se-comprueba-el-sla-de-operacion-de-la-plataforma
 subcategory: 5PYkoNDZyo2G80yiiqG2YW
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: producto-no-disponible-incluso-con-el-stock-de-la-franquicia
+locale: es
 kiStatus: Backlog
 internalReference: 404499
 ---

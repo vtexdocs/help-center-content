@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: 4SqDPmUJIIz2KMMKgiyqKl
 slug: desabilitar-proxy-cloudflare
+locale: pt
 legacySlug: desabilitar-proxy-cloudflare
 subcategory: 
 ---

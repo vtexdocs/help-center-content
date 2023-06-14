@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: ver-o-conteudo-dos-arquivos-css-da-loja
+locale: pt
 legacySlug: ver-o-conteudo-dos-arquivos-css-da-loja
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

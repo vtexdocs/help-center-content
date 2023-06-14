@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 
 slug: promocao-do-tipo-preco-maximo-por-item-deixara-de-existir
+locale: pt
 legacySlug: promocao-do-tipo-preco-maximo-por-item-deixara-de-existir
 announcementImageID: ''
 announcementSynopsisPT: ''

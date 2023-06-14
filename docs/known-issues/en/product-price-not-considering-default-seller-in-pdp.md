@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: product-price-not-considering-default-seller-in-pdp
+locale: en
 kiStatus: Backlog
 internalReference: 429888
 ---

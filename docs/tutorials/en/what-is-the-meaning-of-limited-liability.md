@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: what-is-the-meaning-of-limited-liability
+locale: en
 legacySlug: what-is-the-meaning-of-limited-liability
 subcategory: 6SJnrkKDjGwSqKkMuQMOmm
 ---

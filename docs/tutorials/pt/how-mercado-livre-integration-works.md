@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 slug: como-funciona-a-integracao-do-mercado-livre
+locale: pt
 legacySlug: como-funciona-a-integracao-do-mercado-livre
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

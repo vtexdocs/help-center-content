@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
 slug: what-does-installing-an-app-mean
+locale: en
 legacySlug: what-does-installing-an-app-mean
 ---
 

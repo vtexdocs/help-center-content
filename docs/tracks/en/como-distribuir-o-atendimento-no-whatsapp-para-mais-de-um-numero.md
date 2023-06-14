@@ -9,6 +9,7 @@ firstPublishedAt: 2022-08-26T14:29:25.792Z
 contentType: trackArticle
 productTeam: Shopping
 slug: como-distribuir-o-atendimento-no-whatsapp-para-mais-de-um-numero
+locale: en
 trackId: khP0p8mjIYRIpvM7Cb4Zr
 trackSlugEN: suiteshare
 ---

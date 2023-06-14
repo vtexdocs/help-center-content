@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: no-puedo-editar-skus
+locale: es
 legacySlug: no-puedo-editar-skus
 ---
 

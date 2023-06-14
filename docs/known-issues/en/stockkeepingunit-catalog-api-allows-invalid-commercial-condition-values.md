@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: stockkeepingunit-catalog-api-allows-invalid-commercial-condition-values
+locale: en
 kiStatus: Backlog
 internalReference: 769053
 ---

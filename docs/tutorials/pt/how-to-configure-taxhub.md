@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Y2pnNkWfSoUMMYcwemq4A
 slug: configurar-o-taxhub
+locale: pt
 legacySlug: configurar-o-taxhub
 subcategory: 
 ---

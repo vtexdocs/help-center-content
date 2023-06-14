@@ -11,6 +11,7 @@ productTeam: Analytics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Analytics
 slug: el-filtro-por-skuname-en-sales-performance-no-acepta-mayusculas
+locale: es
 kiStatus: Backlog
 internalReference: 639219
 ---

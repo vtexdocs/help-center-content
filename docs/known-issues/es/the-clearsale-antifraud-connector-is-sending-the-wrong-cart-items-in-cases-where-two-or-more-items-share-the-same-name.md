@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: el-conector-antifraude-clearsale-esta-enviando-los-articulos-del-carrito-equivocados-en-los-casos-en-los-que-dos-o-mas-articulos-comparten-el-mismo-nombre
+locale: es
 kiStatus: Backlog
 internalReference: 799396
 ---

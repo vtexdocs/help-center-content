@@ -11,6 +11,7 @@ productTeam: Channels
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: schema-nao-apresenta-preco-em-itens-outofstock-indisponiveis
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

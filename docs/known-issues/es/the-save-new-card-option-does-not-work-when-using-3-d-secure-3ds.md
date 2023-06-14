@@ -11,6 +11,7 @@ productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 tag: Order Management
 slug: guardar-tarjeta-no-funciona-al-usar-la-autenticacion-3ds
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

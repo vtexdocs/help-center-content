@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: gerenciar-itens-em-estoque
+locale: pt
 legacySlug: gerenciar-itens-em-estoque
 subcategory: 3PQwnyOcNyYgawy06oe6gE
 ---

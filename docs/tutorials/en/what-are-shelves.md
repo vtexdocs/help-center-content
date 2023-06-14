@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: what-are-shelves
+locale: en
 legacySlug: what-are-shelves
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

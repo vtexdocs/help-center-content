@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: cvv-without-validation-of-characters-type
+locale: en
 kiStatus: Backlog
 internalReference: 425204
 ---

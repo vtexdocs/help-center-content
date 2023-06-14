@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: lack-of-feedback-while-selecting-gift-items-that-arent-available
+locale: en
 kiStatus: Fixed
 internalReference: 648767
 ---

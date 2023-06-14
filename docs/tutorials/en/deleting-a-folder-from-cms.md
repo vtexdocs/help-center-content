@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: deleting-a-folder-from-cms
+locale: en
 legacySlug: deleting-a-folder-from-cms
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

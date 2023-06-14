@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_3
 slug: configuring-the-global-checkout
+locale: en
 legacySlug: configuring-the-global-checkout
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

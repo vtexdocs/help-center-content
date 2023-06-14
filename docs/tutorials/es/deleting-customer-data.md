@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: eliminacion-de-los-datos-de-clientes
+locale: es
 legacySlug: eliminacion-de-los-datos-de-clientes
 subcategory: 6uJgdHqWf1Mo0rUfgxseTn
 ---

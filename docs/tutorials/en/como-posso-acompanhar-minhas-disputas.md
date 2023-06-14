@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: 
 author: 
 slug: como-posso-acompanhar-minhas-disputas
+locale: en
 legacySlug: como-posso-acompanhar-minhas-disputas
 subcategory: 
 ---

@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: placeholder-settings-in-the-cms-does-not-display-all-content
+locale: en
 kiStatus: Backlog
 internalReference: 547555
 ---

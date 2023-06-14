@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: what-happens-to-the-money-in-my-account-when-i-lose-a-dispute
+locale: en
 legacySlug: what-happens-to-the-money-in-my-account-when-i-lose-a-dispute
 subcategory: 
 ---

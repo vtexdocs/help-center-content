@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: alteracao-de-itens-de-um-pedido-finalizado
+locale: pt
 legacySlug: como-fazer-a-alteracao-de-itens, alterar-pedidos-finalizados
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2020-11-06T19:14:38.444Z
 contentType: trackArticle
 productTeam: Financial
 slug: how-a-split-payment-transaction-works
+locale: en
 trackId: 1ouDg8q56Kuz1AgtJUY9nv
 trackSlugEN: payment-split
 ---
@@ -58,4 +59,4 @@ The $ 6.50 will be split between the marketplace and the acquirer. As the MDR wa
 
 Check the diagram below:
 
-![Payment Split](//images.ctfassets.net/alneenqid6w5/71DjeU0CjjxlDE1qrwr3n9/c228dc62dc40e68c34337c0d21fc8cce/Split-EN.png)
+![Payment Split](https://images.ctfassets.net/alneenqid6w5/71DjeU0CjjxlDE1qrwr3n9/c228dc62dc40e68c34337c0d21fc8cce/Split-EN.png)

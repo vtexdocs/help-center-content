@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 3aBBTLS9ZKO6IcY0Goe2y2
 slug: utilizando-el-bloque-header-para-obtener-mayor-control-del-diseno-y-posicionamiento-de-los-componentes
+locale: es
 legacySlug: 
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

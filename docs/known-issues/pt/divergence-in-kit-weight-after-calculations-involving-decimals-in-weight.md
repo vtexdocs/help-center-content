@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: divergencia-no-peso-do-kit-apos-calculos-envolvendo-casas-decimais-em-peso
+locale: pt
 kiStatus: Backlog
 internalReference: 657186
 ---

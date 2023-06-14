@@ -11,6 +11,7 @@ productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
 slug: campo-email-de-origem-na-trigger-nao-aceita-placeholder
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

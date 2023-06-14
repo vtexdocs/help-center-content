@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: onde-vejo-os-clientes-que-usam-recorrencia
+locale: pt
 legacySlug: onde-vejo-os-clientes-que-usam-recorrencia
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
@@ -21,6 +22,6 @@ Mas lembre-se: uma recorrência só aparece na listagem depois que seu pagamento
 1. Acesse o módulo __Gerenciamento de Pedidos__.
 2. Clique na aba __Assinaturas__.
 
-![subscriptions PT](//images.ctfassets.net/alneenqid6w5/yF4h1Bs3Ys2gU4kYGCkyK/feb155bc4414f904db25aea5dc0f12e8/subscriptions_PT.png)
+![subscriptions PT](https://images.ctfassets.net/alneenqid6w5/yF4h1Bs3Ys2gU4kYGCkyK/feb155bc4414f904db25aea5dc0f12e8/subscriptions_PT.png)
 
 

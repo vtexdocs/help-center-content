@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: sales-rep-code-instore-customization-improvements
+locale: en
 legacySlug: sales-rep-code-instore-customization-improvements
 announcementImageID: ''
 announcementSynopsisEN: 'Now the client can opt to make the sales rep code a required field for a sale to be made.'

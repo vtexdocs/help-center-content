@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: atualizacao-de-anexos-e-criacao-de-validacao-api-em-campos-de-valores-de-dominio-que-nao-funcionam
+locale: pt
 kiStatus: Backlog
 internalReference: 751091
 ---

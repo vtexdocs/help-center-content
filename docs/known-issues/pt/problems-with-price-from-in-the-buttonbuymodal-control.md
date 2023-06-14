@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: problemas-com-preco-de-no-controle-buttonbuymodal
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

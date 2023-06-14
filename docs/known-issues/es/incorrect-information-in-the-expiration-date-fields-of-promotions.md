@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: informacion-incorrecta-en-los-campos-de-fecha-de-caducidad-de-las-promociones
+locale: es
 kiStatus: Backlog
 internalReference: 611284
 ---

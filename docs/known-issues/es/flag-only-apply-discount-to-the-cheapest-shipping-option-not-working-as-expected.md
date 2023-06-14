@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: la-bandera-aplicar-el-descuento-solo-a-la-opcion-de-envio-mas-barata-no-funciona-como-se-esperaba
+locale: es
 kiStatus: Backlog
 internalReference: 672567
 ---

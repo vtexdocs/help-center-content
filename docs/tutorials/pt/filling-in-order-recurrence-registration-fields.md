@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: preencher-campos-de-cadastro-de-recorrencia-de-pedidos
+locale: pt
 legacySlug: preencher-campos-de-cadastro-de-recorrencia-de-pedidos
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---

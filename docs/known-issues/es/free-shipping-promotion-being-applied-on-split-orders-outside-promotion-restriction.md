@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: la-promocion-de-envio-gratuito-se-esta-aplicando-en-pedidos-divididos-fuera-de-la-restriccion-de-la-promocion
+locale: es
 kiStatus: Backlog
 internalReference: 732302
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: erro-ao-tentar-abrir-meus-cartoes
+locale: pt
 kiStatus: Backlog
 internalReference: 370706
 ---

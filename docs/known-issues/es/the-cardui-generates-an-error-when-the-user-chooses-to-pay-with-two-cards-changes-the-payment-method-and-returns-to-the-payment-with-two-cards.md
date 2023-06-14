@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: la-interfaz-de-usuario-de-la-tarjeta-genera-un-error-cuando-el-usuario-elige-pagar-con-dos-tarjetas-cambia-el-metodo-de-pago-y-vuelve-al-pago-con-dos-tarjetas
+locale: es
 kiStatus: Fixed
 internalReference: 670424
 ---

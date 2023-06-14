@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: a-mensagem-my-billing-address-is-meu-endereco-de-cobranca-e-no-iframe-do-cartao-de-credito-esta-no-idioma-errado-ao-usar-o-checkout-no-idioma-catalao
+locale: pt
 kiStatus: Fixed
 internalReference: 481181
 ---

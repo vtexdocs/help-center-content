@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 4iKDU1m0huXy1qFWff7vY5
 slug: como-lidar-com-erro-de-timeout-com-a-integracao-com-o-catalogo
+locale: pt
 legacySlug: como-lidar-com-erro-de-timeout-com-a-integracao-com-o-catalogo
 ---
 

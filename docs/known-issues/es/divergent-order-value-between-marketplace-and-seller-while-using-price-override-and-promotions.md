@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: valor-de-pedido-divergente-entre-el-mercado-y-el-vendedor-al-utilizar-anulacion-de-precios-y-promociones
+locale: es
 kiStatus: Backlog
 internalReference: 756629
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-envio-enxuto-sendo-forcado-mesmo-quando-os-itens-tem-os-mesmos-slas-mas-em-uma-ordenacao-diferente
+locale: pt
 kiStatus: Backlog
 internalReference: 455218
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: pedidos-sin-invoiceaddress-creados-a-traves-de-la-ui-nativa
+locale: es
 kiStatus: Backlog
 internalReference: 306140
 ---

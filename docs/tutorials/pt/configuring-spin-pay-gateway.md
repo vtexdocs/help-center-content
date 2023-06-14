@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: configurar-o-gateway-spin-pay
+locale: pt
 legacySlug: configurar-o-gateway-spin-pay
 subcategory: 
 ---

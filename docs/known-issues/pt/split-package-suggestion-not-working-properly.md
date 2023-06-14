@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: sugestao-de-pacote-dividido-que-nao-funciona-corretamente
+locale: pt
 kiStatus: Backlog
 internalReference: 656810
 ---

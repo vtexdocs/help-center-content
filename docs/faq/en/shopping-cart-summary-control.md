@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: shopping-cart-summary-control
+locale: en
 legacySlug: using-the-shopping-cart-summary-control
 ---
 

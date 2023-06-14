@@ -9,6 +9,7 @@ firstPublishedAt: 2018-03-15T21:35:36.645Z
 contentType: trackArticle
 productTeam: Shopping
 slug: registrar-los-codigos-de-barras-de-los-skus-para-el-instore
+locale: es
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugES: instore-setup
 ---

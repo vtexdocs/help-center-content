@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_24
 slug: como-vejo-os-clientes-que-mais-compraram
+locale: pt
 legacySlug: como-vejo-os-clientes-que-mais-compraram
 ---
 

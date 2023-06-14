@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: donde-veo-a-los-clientes-que-utilizan-recurrencia
+locale: es
 legacySlug: donde-veo-a-los-clientes-que-utilizan-recurrencia
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
@@ -21,4 +22,4 @@ Pero recuerde: la suscripción sólo aparece en las propiedades después de que 
 1. Acceda al __Gestión de Pedidos__.
 2. Haga clic en la pestaña __Assinaturas__.
 
-![subscription ES](//images.ctfassets.net/alneenqid6w5/2ujHgxMGUwiuWCq4kaKc4C/def14c61a1d2f5ec940db40a6062a540/subscription_ES.png)
+![subscription ES](https://images.ctfassets.net/alneenqid6w5/2ujHgxMGUwiuWCq4kaKc4C/def14c61a1d2f5ec940db40a6062a540/subscription_ES.png)

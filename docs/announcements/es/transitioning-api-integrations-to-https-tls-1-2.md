@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: 127RQ7SUoFfyTh5gbXUpdM
 slug: transicion-de-las-integraciones-de-api-a-https-tls-1-2
+locale: es
 legacySlug: transicion-de-las-integraciones-de-api-a-https-tls-1-2
 announcementImageID: ''
 announcementSynopsisES: ' En los próximos meses, eliminaremos el soporte a las conexiones HTTP para mejorar la seguridad de nuestra plataforma.'

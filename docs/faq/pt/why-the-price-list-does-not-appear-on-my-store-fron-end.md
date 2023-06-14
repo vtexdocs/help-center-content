@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 6JCq5z9N5xvlHKhhoEcvjM
 slug: por-que-o-preco-de-lista-nao-aparece-no-front-end-da-minha-loja
+locale: pt
 legacySlug: por-que-o-preco-de-lista-nao-aparece-no-front-end-da-minha-loja
 ---
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: erros-de-ausencia-de-atributos-obrigatorios-na-amazon
+locale: pt
 legacySlug: erros-de-ausencia-de-atributos-obrigatorios-na-amazon
 subcategory: 4HBbKdnwneGew2qGGykSM8
 ---

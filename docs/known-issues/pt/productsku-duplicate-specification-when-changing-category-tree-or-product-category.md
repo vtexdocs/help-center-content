@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: especificacao-de-produtosku-duplicada-ou-incorreta-ao-alterar-arvore-de-categorias-ou-produto-de-categoria
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

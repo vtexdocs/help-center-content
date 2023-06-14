@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
 slug: como-cambiar-la-version-upgrade-o-rollback-de-una-dependencia-dentro-de-un-workspace
+locale: es
 legacySlug: 
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

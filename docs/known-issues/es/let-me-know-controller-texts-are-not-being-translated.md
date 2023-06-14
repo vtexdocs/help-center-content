@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: los-textos-de-los-controladores-de-let-me-know-no-se-traducen
+locale: es
 kiStatus: Backlog
 internalReference: 517165
 ---

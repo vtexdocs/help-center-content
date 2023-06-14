@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: nao-considerando-a-moeda-personalizada-no-formato
+locale: pt
 kiStatus: Backlog
 internalReference: 736695
 ---

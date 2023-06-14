@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_6
 slug: configurando-remetente-para-e-mails
+locale: pt
 legacySlug: configurando-remetente-para-e-mails
 subcategory: 
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: cms-fidelidade-configuracoes-de-valores-nao-funcionam
+locale: pt
 kiStatus: Backlog
 internalReference: 726849
 ---

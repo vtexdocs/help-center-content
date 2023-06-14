@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: validacao-de-loja
+locale: pt
 legacySlug: validacao-de-loja
 subcategory: wz3FvYTctwuCwG206QUAi
 ---

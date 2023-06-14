@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: el-filtro-de-precio-en-la-vitrina-esta-considerando-el-menor-precio-registrado-sin-considerar-la-politica-comercial-a-la-que-esta-vinculado
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

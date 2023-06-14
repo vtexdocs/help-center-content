@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: ver-el-contenido-de-los-archivos-css-de-la-tienda
+locale: es
 legacySlug: ver-el-contenido-de-los-archivos-css-de-la-tienda
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

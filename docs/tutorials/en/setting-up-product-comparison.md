@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: setting-up-product-comparison
+locale: en
 legacySlug: setting-up-product-comparison
 subcategory: pwxWmUu7T222QyuGogs68
 ---

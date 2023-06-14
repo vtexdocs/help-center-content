@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: search-resolver-no-muestra-cantidad-producto-stock
+locale: es
 legacySlug: search-resolver-no-muestra-cantidad-producto-stock
 announcementImageID: ''
 announcementSynopsisES: 'Para mejorar la privacidad de los datos, el search-resolver ha dejado de mostrar la cantidad de productos en stock'

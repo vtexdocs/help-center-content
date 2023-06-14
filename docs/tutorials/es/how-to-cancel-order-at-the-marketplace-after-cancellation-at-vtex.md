@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 
 slug: cancelar-pedido-en-el-marketplace-despues-de-cancelado-en-vtex
+locale: es
 legacySlug: cancelar-pedido-en-el-marketplace-despues-de-cancelado-en-vtex
 subcategory: 
 ---

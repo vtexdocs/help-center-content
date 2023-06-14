@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: wrong-button-calltoaction-name-in-profile-step
+locale: en
 kiStatus: Backlog
 internalReference: 514532
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
 slug: why-was-my-canceled-order-charged-in-the-client-invoice
+locale: en
 legacySlug: why-was-my-cancelled-order-charged-in-the-client-invoice
 ---
 

@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: the-tracking-integration-is-not-updating-automatically
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

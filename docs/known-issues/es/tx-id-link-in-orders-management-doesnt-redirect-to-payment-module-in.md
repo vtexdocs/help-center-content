@@ -11,6 +11,7 @@ productTeam: Channels
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Order Management
 slug: link-del-tx-id-en-gestion-de-pedidos-no-redirige-al-modulo-de-pagos-en
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

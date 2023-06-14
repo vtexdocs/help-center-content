@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: suscripciones-cuando-el-vendedor-es-un-punto-de-recogida-y-no-tiene-una-de-las-sku
+locale: es
 kiStatus: Backlog
 internalReference: 666701
 ---

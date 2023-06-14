@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: configurar-mensaje-personalizado-de-regalo
+locale: es
 legacySlug: configurando-cartao-de-presente-com-mensagem-personalizada
 subcategory: pwxWmUu7T222QyuGogs68
 ---

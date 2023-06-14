@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 6AcGyun1hSWewU8YcaQiO
 slug: ahora-es-mas-facil-vender-los-productos-de-sus-tiendas-fisicas-en-los
+locale: es
 legacySlug: ahora-es-mas-facil-vender-los-productos-de-sus-tiendas-fisicas-en-los
 announcementImageID: ''
 announcementSynopsisES: 'Al integrar la cuenta principal a un marketplace, los inventarios de cuentas franquicia se consideran automáticamente.'

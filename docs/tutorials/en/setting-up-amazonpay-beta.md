@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 slug: setting-up-amazonpay-beta
+locale: en
 legacySlug: setting-up-amazonpay-beta
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
@@ -58,7 +59,7 @@ Before setting up the affiliation in VTEX Admin, first you need to have your **S
 
 1. Access the **Apps** module on the left panel of VTEX Admin.
 2. Click on **My apps**.  
-![My apps menu EN](//images.ctfassets.net/alneenqid6w5/4oRHARlS6i4lZac17nyHhC/b912df890af790633a2ada35b504e653/My_apps_menu_EN.png)
+![My apps menu EN](https://images.ctfassets.net/alneenqid6w5/4oRHARlS6i4lZac17nyHhC/b912df890af790633a2ada35b504e653/My_apps_menu_EN.png)
 3. Find the AmazonPay app installed by VTEX and click on **Settings**.  
 ![Admin My apps AmazonPay EN](//images.contentful.com/alneenqid6w5/4oy769BIF5gz08hPMeFdRv/92a6cb38ddb94d4e76078959642cc57c/Admin_My_apps_AmazonPay_EN.png)
 4. Fill the settings according to the table below:

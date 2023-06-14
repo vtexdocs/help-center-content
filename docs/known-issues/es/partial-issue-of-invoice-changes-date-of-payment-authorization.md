@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: D0eIlynYFqaWQOMM6mmY6
 tag: Order Management
 slug: emision-parcial-de-la-factura-cambia-la-fecha-de-autorizacion-del-pago
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2019-10-23T15:21:27.021Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: cadastrar-feriados
+locale: pt
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugPT: logistica-101
 ---

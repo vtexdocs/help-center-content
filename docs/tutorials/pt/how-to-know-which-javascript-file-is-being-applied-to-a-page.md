@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_35
 slug: como-identificar-qual-arquivo-javascript-esta-sendo-aplicado-em-uma-pagina
+locale: pt
 legacySlug: como-identificar-qual-arquivo-javascript-esta-sendo-aplicado-em-uma-pagina
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

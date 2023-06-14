@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: service-worker-ahora-puede-operar-a-plena-capacidad
+locale: es
 legacySlug: service-worker-ahora-puede-operar-a-plena-capacidad
 announcementImageID: ''
 announcementSynopsisES: 'En esta nueva actualización, los archivos de Service Worker ahora pueden interceptar requests de toda su tienda.'

@@ -9,6 +9,7 @@ firstPublishedAt: 2021-09-30T18:47:14.819Z
 contentType: trackArticle
 productTeam: Channels
 slug: visao-geral-da-integracao-com-o-facebook-business-extension
+locale: pt
 trackId: 2hS3ANSZ7vlHCcba4h7k8D
 trackSlugPT: integracao-com-o-facebook-business-extension
 ---

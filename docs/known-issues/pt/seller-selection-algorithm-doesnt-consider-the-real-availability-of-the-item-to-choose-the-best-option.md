@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-algoritmo-de-selecao-do-vendedor-nao-considera-a-disponibilidade-real-do-item-para-escolher-a-melhor-opcao
+locale: pt
 kiStatus: Backlog
 internalReference: 360097
 ---

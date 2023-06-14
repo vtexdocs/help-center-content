@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_41
 slug: nova-integracao-google-shopping-api
+locale: pt
 legacySlug: nova-integracao-google-shopping-api
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

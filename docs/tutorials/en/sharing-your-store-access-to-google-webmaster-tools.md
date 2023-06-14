@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: sharing-your-store-access-to-google-webmaster-tools
+locale: en
 legacySlug: sharing-your-store-access-to-google-webmaster-tools
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: a-conta-principal-esta-sendo-selecionada-como-merchantname-no-ambiente-da-subconta
+locale: pt
 kiStatus: Backlog
 internalReference: 780767
 ---

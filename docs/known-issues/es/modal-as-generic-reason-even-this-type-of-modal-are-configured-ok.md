@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: modal-como-razon-generica-incluso-este-tipo-de-modal-estan-configurados-ok
+locale: es
 kiStatus: Backlog
 internalReference: 488339
 ---

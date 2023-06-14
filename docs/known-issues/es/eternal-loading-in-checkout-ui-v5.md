@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: carga-eterna-en-el-checkout-ui-v5
+locale: es
 kiStatus: Backlog
 internalReference: 332740
 ---

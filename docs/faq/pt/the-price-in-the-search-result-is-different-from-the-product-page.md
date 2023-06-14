@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: preco-do-resultado-de-busca-e-diferente-da-pagina-de-produto
+locale: pt
 legacySlug: preco-do-resultado-de-busca-e-diferente-da-pagina-de-produto
 ---
 

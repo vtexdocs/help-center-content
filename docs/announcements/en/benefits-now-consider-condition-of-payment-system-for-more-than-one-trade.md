@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: authors_24
 slug: benefits-now-consider-condition-of-payment-system-for-more-than-one-trade
+locale: en
 legacySlug: benefits-now-consider-condition-of-payment-system-for-more-than-one-trade
 announcementImageID: ''
 announcementSynopsisEN: 'Benefits now recognize the payment medium filter combined with the commercial policy filter'

@@ -11,6 +11,7 @@ productTeam: Channels
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Connections
 slug: atributos-das-publicacoes-no-mercado-livre-nao-integrados
+locale: pt
 kiStatus: Fixed
 internalReference: 
 ---

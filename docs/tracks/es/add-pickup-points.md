@@ -9,6 +9,7 @@ firstPublishedAt: 2019-09-16T13:52:23.078Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: cadastrar-pontos-de-retirada
+locale: es
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugES: logistica-101
 ---
@@ -32,7 +33,7 @@ Siga el siguiente procedimiento para registrar un punto de recogida en su tienda
 4. Rellene los campos del formulario de punto de recogida. Para entender mejor el significado de cada campo, consulte la sección [Campos de registro](#campos-de-registro), abajo.
 5. Haga clic en el botón **Guardar cambios**
 
-![ES Cadastrar Ponto de Retirada GIF](//images.ctfassets.net/alneenqid6w5/1tWiezGUaoTRohpM2m5241/f1dfb789d45d72d8054f0f4ccebe740b/ES_Cadastrar_Ponto_de_Retirada_GIF.gif)
+![ES Cadastrar Ponto de Retirada GIF](https://images.ctfassets.net/alneenqid6w5/1tWiezGUaoTRohpM2m5241/f1dfb789d45d72d8054f0f4ccebe740b/ES_Cadastrar_Ponto_de_Retirada_GIF.gif)
 
 
 ### Campos de registro

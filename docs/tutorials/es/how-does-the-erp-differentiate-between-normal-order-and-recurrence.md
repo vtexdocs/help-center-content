@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_61
 slug: como-el-erp-diferencia-un-pedido-normal-de-un-recurrente
+locale: es
 legacySlug: como-el-erp-diferencia-un-pedido-normal-de-un-recurrente
 subcategory: 5fKgQZhrCw88ACy6Su6GUc
 ---

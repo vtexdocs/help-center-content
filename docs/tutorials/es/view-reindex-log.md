@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: ver-el-log-de-reindexaciones
+locale: es
 legacySlug: ver-el-log-de-reindexaciones
 subcategory: pwxWmUu7T222QyuGogs68
 ---

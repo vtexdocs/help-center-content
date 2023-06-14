@@ -11,6 +11,7 @@ productTeam: App Platform
 author: 2mXZkbi0oi061KicTExNjo
 tag: App Platform
 slug: las-solicitudes-de-arranque-en-frio-fallan-con-el-tiempo-de-espera-y-los-reintentos-de-mensajeria-no-funcionan-como-se-esperaba
+locale: es
 kiStatus: Backlog
 internalReference: 789499
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: pse-payment-method-for-customers-in-colombia
+locale: en
 legacySlug: pse-payment-method-for-customers-in-colombia
 announcementImageID: ''
 announcementSynopsisEN: 'Process your sales with one of the best known payment methods in Colombia.'

@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: las-propiedades-html-booleanas-de-videoaudio-no-se-validan-en-el-cms-heredado
+locale: es
 kiStatus: Backlog
 internalReference: 491898
 ---

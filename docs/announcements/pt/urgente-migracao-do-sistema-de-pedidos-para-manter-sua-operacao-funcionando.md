@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: authors_31
 slug: urgente-migracao-do-sistema-de-pedidos-para-manter-sua-operacao-funcionando
+locale: pt
 legacySlug: urgente-migracao-do-sistema-de-pedidos-para-manter-sua-operacao-funcionando
 announcementImageID: ''
 announcementSynopsisPT: 'Para manter sua operação funcionando, verifique se sua integração está atualizada'

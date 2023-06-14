@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-05T02:38:16.736Z
 contentType: trackArticle
 productTeam: Channels
 slug: registro-de-grupos-de-productos-en-netshoes
+locale: es
 trackId: 5Ua87lhFg4m0kEcuyqmcCm
 trackSlugES: configurar-integracion-netshoes
 ---

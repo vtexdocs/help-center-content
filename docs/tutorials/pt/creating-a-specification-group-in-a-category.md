@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: criando-grupo-de-especificacoes-em-uma-categoria
+locale: pt
 legacySlug: criando-grupo-de-categoria
 subcategory: 1E7tziZCkY4w8i4EmUuwec
 ---

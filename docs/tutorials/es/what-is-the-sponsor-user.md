@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: que-es-el-usuario-titular
+locale: es
 legacySlug: que-es-el-usuario-patrocinador
 subcategory: 63DHe3VQEEE6Uuua8gIs2M
 ---

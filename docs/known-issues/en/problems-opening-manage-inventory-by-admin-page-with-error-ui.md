@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: problems-opening-manage-inventory-by-admin-page-with-error-ui
+locale: en
 kiStatus: Backlog
 internalReference: 466491
 ---

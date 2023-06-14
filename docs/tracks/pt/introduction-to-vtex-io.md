@@ -9,6 +9,7 @@ firstPublishedAt: 2018-04-26T20:34:35.807Z
 contentType: trackArticle
 productTeam: VTEX IO
 slug: introducao-ao-vtex-io
+locale: pt
 trackId: 2qYWraccosS2ayg2kusaUo
 trackSlugPT: vtex-io-getting-started
 ---
@@ -21,7 +22,7 @@ Nesta track, vamos ensinar passo a passo como desenvolver uma app utilizando o V
 
 Veja na imagem abaixo a estrutura de hierarquia do VTEX IO:
 
-![VTEX IO Hierarchy](//images.ctfassets.net/alneenqid6w5/44SdYX37X2WKa6gicUKQWS/4b699f3355a2d9d70126354578d285cd/VTEX_IO_-_track_img.png)
+![VTEX IO Hierarchy](https://images.ctfassets.net/alneenqid6w5/44SdYX37X2WKa6gicUKQWS/4b699f3355a2d9d70126354578d285cd/VTEX_IO_-_track_img.png)
 
 - __Account__: Para desenvolver uma app, é necessário ter uma conta na VTEX.
 - __Workspaces__: São os ambientes onde as apps serão desenvolvidas. Esses ambientes estão vinculados ao account. É possível ter diversos workspaces para um único account.

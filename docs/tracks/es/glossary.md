@@ -9,6 +9,7 @@ firstPublishedAt: 2022-01-10T20:56:23.487Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: glosario
+locale: es
 trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugES: cms
 ---

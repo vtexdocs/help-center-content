@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: anuncios-enviados-beta
+locale: es
 legacySlug: anuncios-enviados-beta
 subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---
@@ -20,7 +21,7 @@ El módulo «Anuncios enviados» permite a los sellers supervisar el envío de a
 - [Anúncios](https://help.vtex.com/es/tutorial/anuncios-enviados-beta--6yg2CBv5Z5AnD0qS0cw2sa#anuncios)            
 - [Canales](https://help.vtex.com/es/tutorial/anuncios-enviados-beta--6yg2CBv5Z5AnD0qS0cw2sa#canales) 
 
-![Anuncios enviados Home ES](//images.ctfassets.net/alneenqid6w5/4eTCYZQ0RRa2n9JN81RhRG/b75456e0477b7025707752d87438b49a/Anuncios_enviados_Home_ES.jpg)
+![Anuncios enviados Home ES](https://images.ctfassets.net/alneenqid6w5/4eTCYZQ0RRa2n9JN81RhRG/b75456e0477b7025707752d87438b49a/Anuncios_enviados_Home_ES.jpg)
 
 ## Anuncios
 Cuando un seller configura condiciones de precios y stock, prepara su producto para que se convierta en un anuncio y se venda en el estante del marketplace. En el componente *Anuncios*, se puede ver el número total de anuncios, y los status:

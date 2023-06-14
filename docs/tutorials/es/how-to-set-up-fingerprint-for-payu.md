@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: configurar-fingerprint-para-payu
+locale: es
 legacySlug: configurar-fingerprint-para-payu
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

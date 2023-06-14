@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: site-editor-doesnt-load-blocks-when-accessing-the-landing-route-url
+locale: en
 kiStatus: Backlog
 internalReference: 755993
 ---

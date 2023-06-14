@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-pago-y-la-division-de-transacciones-no-funcionan-en-el-mismo-orden-para-el-inventario-omnicanal-multinivel
+locale: es
 kiStatus: Backlog
 internalReference: 777201
 ---

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_35
 tag: Catalog,Pricing & Promotions
 slug: preco-por-utm-nao-funciona-quando-usa-caracteres-especiais
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

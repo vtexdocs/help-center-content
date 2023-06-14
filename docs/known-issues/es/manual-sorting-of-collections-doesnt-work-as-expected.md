@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: la-clasificacion-manual-de-las-colecciones-no-funciona-como-se-esperaba
+locale: es
 kiStatus: Backlog
 internalReference: 295245
 ---

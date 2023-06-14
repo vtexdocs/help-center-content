@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: meet-vtex-helps-new-content-format-the-tracks
+locale: en
 legacySlug: meet-vtex-helps-new-content-format-the-tracks
 announcementImageID: ''
 announcementSynopsisEN: 'Track are detailed tutorials for you to use the VTEX platform to its full potential.'

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: publicamos-la-guia-de-buenas-practicas-para-black-friday-2017
+locale: es
 legacySlug: publicamos-la-guia-de-buenas-practicas-para-black-friday-2017
 announcementImageID: ''
 announcementSynopsisES: 'VTEX creó una cartilla de buenas prácticas para ayudar a nuestros clientes a preparar sus tiendas para el Balck Friday'

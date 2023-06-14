@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_3
 slug: since-the-product-on-the-list-has-already-been-purchased-why-does-it-continue-to-be-available-for-purchase
+locale: en
 legacySlug: since-the-product-on-the-list-has-already-been-purchased-why-does-it-continue-to-be-available-for-purchase
 ---
 

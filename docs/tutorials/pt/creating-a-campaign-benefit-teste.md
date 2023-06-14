@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
 slug: promocao-de-campanha-teste
+locale: pt
 legacySlug: promocao-de-campanha-teste
 subcategory: 
 ---

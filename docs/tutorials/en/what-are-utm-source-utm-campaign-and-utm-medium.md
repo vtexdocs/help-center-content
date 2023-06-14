@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: what-are-utm-source-utm-campaign-and-utm-medium
+locale: en
 legacySlug: what-are-utm-source-utm-campaign-and-utm-medium
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

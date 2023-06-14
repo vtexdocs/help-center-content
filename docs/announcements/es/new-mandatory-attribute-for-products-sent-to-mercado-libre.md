@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: nuevo-atributo-obligatorio-para-los-productos-enviados-a-mercado-libre
+locale: es
 legacySlug: nuevo-atributo-obligatorio-para-los-productos-enviados-a-mercado-libre
 announcementImageID: ''
 announcementSynopsisES: 'Los productos de la categoría Celulares y Smartphones en MeLi tendrán un nuevo atributo obligatorio'

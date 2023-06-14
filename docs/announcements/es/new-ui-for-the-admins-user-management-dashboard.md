@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: nueva-ui-del-panel-de-gestion-de-usuarios-del-admin
+locale: es
 legacySlug: nueva-ui-del-panel-de-gestion-de-usuarios-del-admin
 announcementImageID: ''
 announcementSynopsisES: 'La nueva UI posee un diseño moderno e incluye nuevas funcionalidades'
@@ -21,7 +22,7 @@ El diseño del panel de gestión de usuarios se actualizó con los mismos están
 - Exhibición de la configuración de MFA (autenticación de múltiples factores) de cada usuario en la lista de usuarios.
 - Botón para exportar los datos de la lista de usuarios en un archivo CSV que incluye ID, email y nombre.
 
-![Lista Usuários User Management ES](//images.ctfassets.net/alneenqid6w5/1IjRv0l2rDBrSWtHj82CDm/e5e96de76d8d66202887bd3339e0f01d/Lista_Usu__rios_User_Management_ES.png)
+![Lista Usuários User Management ES](https://images.ctfassets.net/alneenqid6w5/1IjRv0l2rDBrSWtHj82CDm/e5e96de76d8d66202887bd3339e0f01d/Lista_Usu__rios_User_Management_ES.png)
 
 Además, el panel tiene algunos cambios:
 

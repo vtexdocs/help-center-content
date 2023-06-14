@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: how-to-define-the-order-of-lookkit
+locale: en
 legacySlug: how-to-define-the-order-of-lookkit
 subcategory: pwxWmUu7T222QyuGogs68
 ---

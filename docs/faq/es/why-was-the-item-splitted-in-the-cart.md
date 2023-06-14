@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_84
 slug: por-que-se-separo-el-producto-del-carrito
+locale: es
 legacySlug: por-que-se-separo-el-producto-del-carrito
 ---
 

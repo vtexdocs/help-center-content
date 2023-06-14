@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: renderizar-mas-de-un-componente-en-la-misma-ruta
+locale: es
 legacySlug: renderizar-mais-de-um-componente-na-mesma-rota
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

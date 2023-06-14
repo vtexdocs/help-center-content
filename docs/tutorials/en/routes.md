@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: routes
+locale: en
 legacySlug: routes
 subcategory: 6a36lWUX5znjBVYTrfc29x
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: como-consultar-el-detalle-de-los-movimientos-financieros
+locale: es
 legacySlug: como-consultar-el-detalle-de-los-movimientos-financieros
 subcategory: 29ZPBdZOTSg6NdzprcqBfb
 ---

@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: o-redirecionamento-com-parametros-no-cms-builder-nao-funciona
+locale: pt
 kiStatus: Backlog
 internalReference: 593906
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: authors_24
 slug: mudamos-a-configuracao-do-login-por-facebook-google
+locale: pt
 legacySlug: mudamos-a-configuracao-do-login-por-facebook-google
 announcementImageID: ''
 announcementSynopsisPT: 'A flag "Usar chaves VTEX" foi desabilitada e o lojista precisa configurar suas próprias'

@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T16:19:11.591Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configuring-cash-payments-through-instore
+locale: en
 trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugEN: instore-payments
 ---
@@ -34,7 +35,7 @@ Now we will create the payment condition.
 1. Still on the **Settings** page of the **Payments** module in the VTEX Admin, click on the **Payment conditions** tab.
 2. Click on the green button with the `+` icon to add a new condition, as shown below.
 
-![en-add-payment-condition](//images.ctfassets.net/alneenqid6w5/27933kBohPNieKSiiulGZA/fefd28c063c5572c3dfe2852aac484f5/en-add-payment-condition-1.png)
+![en-add-payment-condition](https://images.ctfassets.net/alneenqid6w5/27933kBohPNieKSiiulGZA/fefd28c063c5572c3dfe2852aac484f5/en-add-payment-condition-1.png)
 
 3. In the **Custom payment** section, select the **Cash** option you have created.
 4. Enter a name for this payment condition, change the status to **Active**, and in the **Process with affiliation** field, select the custom payment you created in the previous step.

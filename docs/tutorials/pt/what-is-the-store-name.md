@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 245tA425AIeioKAk2eaiwS
 slug: o-que-e-store-name
+locale: pt
 legacySlug: o-que-e-store-name
 subcategory: yMp6sKDiJEi66CGAIQ4ma
 ---

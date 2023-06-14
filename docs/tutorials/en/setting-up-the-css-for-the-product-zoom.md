@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: setting-up-the-css-for-the-product-zoom
+locale: en
 legacySlug: setting-up-the-css-for-the-product-zoom
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

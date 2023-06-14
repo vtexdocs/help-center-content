@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: searchable-flag-does-not-work-on-legacy-cms-collection
+locale: en
 kiStatus: Backlog
 internalReference: 322552
 ---

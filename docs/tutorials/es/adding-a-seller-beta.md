@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: agregar-seller-beta
+locale: es
 legacySlug: agregar-seller-beta
 subcategory: 2xWRgEIlR2ookieEmm4KQu
 ---

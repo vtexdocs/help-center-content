@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 slug: how-cnova-via-varejo-integration-works
+locale: en
 legacySlug: how-cnova-via-varejo-integration-works
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

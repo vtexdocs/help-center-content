@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_59
 slug: por-que-o-pagamentos-nao-finaliza-o-cancelamento-da-transacao
+locale: pt
 legacySlug: por-que-o-pci-gateway-nao-finaliza-o-cancelamento-da-transacao
 ---
 

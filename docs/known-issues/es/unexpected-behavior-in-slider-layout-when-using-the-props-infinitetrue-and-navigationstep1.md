@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: comportamiento-inesperado-en-el-diseno-del-deslizador-cuando-se-utilizan-los-accesorios-infinitetrue-y-navigationstep1
+locale: es
 kiStatus: Backlog
 internalReference: 462895
 ---

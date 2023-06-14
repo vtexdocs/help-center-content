@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: ui-shows-an-error-when-exporting-catalog-files-if-the-email-template-sender-has-its-own-smtp
+locale: en
 kiStatus: Backlog
 internalReference: 771942
 ---

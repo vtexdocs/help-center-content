@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: deleting-collections-on-the-new-admin-is-not-reindexing-the-products
+locale: en
 kiStatus: Backlog
 internalReference: 490740
 ---

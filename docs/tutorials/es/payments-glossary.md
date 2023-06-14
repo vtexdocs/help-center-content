@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: glosario-de-pagos
+locale: es
 legacySlug: glosario-de-pagos
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

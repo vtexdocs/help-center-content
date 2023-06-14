@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: creating-a-development-workspace
+locale: en
 legacySlug: creating-a-development-workspace
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: lanzamos-nuestras-nuevas-api-de-cross-selling-y-up-selling
+locale: es
 legacySlug: lanzamos-nuestras-nuevas-api-de-cross-selling-y-up-selling
 announcementImageID: ''
 announcementSynopsisES: 'Hacemos disponibles para todos nuestros clientes y parceros nuestras API de Cross-selling y Up-selling.'

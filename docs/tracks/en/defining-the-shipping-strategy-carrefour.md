@@ -9,6 +9,7 @@ firstPublishedAt: 2021-12-27T17:12:14.077Z
 contentType: trackArticle
 productTeam: Channels
 slug: defining-the-shipping-strategy-carrefour
+locale: en
 trackId: 2wYlj07cNuA8k8mmwY86K2
 trackSlugEN: carrefour-integration-set-up
 ---

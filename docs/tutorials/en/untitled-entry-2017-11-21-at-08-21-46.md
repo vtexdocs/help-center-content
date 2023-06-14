@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 
 slug: untitled-entry-2017-11-21-at-08-21-46
+locale: en
 legacySlug: untitled-entry-2017-11-21-at-08-21-46
 subcategory: 
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: 245tA425AIeioKAk2eaiwS
 slug: conheca-o-assistente-de-seguranca-do-license-manager
+locale: pt
 legacySlug: conheca-o-assistente-de-seguranca-do-license-manager
 announcementImageID: ''
 announcementSynopsisPT: 'Uma nova feature que ajuda você a gerenciar e revisar permissões de quem acessa o admin da sua loja.'

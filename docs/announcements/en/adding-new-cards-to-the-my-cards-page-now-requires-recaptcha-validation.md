@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: adding-new-cards-to-the-my-cards-page-now-requires-recaptcha-validation
+locale: en
 legacySlug: adding-new-cards-to-the-my-cards-page-now-requires-recaptcha-validation
 announcementImageID: ''
 announcementSynopsisEN: 'reCAPTCHA validation will be required whenever a customer manually adds a new card to your store’s My Cards page.'

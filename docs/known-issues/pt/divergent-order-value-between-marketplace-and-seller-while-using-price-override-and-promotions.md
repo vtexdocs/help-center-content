@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: valor-divergente-do-pedido-entre-o-mercado-e-o-vendedor-enquanto-usa-a-substituicao-de-preco-e-promocoes
+locale: pt
 kiStatus: Backlog
 internalReference: 756629
 ---

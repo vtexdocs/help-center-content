@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: orderform-permanece-com-cartao-de-credito-que-foram-removidos-atraves-da-minha-pagina-de-contas
+locale: pt
 kiStatus: Fixed
 internalReference: 276823
 ---

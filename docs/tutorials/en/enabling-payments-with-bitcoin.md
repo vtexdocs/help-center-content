@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: enabling-payments-with-bitcoin
+locale: en
 legacySlug: enabling-payments-with-bitcoin
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2021-10-06T16:13:51.393Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: monitor-da-integracao
+locale: en
 trackId: 132YFN170Jvs6ZUBGh8w2e
 trackSlugEN: adaptador-vtex
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: notas-promissorias-extras-nao-consideram-a-margem-de-mudanca-para-a-venda
+locale: pt
 kiStatus: Fixed
 internalReference: 525987
 ---

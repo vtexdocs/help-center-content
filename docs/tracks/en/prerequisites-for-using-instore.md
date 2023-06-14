@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T13:41:36.817Z
 contentType: trackArticle
 productTeam: Shopping
 slug: prerequisites-for-using-instore
+locale: en
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: instore-getting-started-and-setting-up
 ---

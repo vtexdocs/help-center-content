@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: he-recibido-el-mensaje-erro-the-limit-of-activated-calculators-has-been-reached-que-hacer
+locale: es
 legacySlug: he-recibido-el-mensaje-erro-the-limit-of-activated-calculators-has-been-reached-que-hacer
 ---
 

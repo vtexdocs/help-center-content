@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-envio-enxuto-substitui-o-metodo-de-envio-preferido-pelo-usuario-pela-opcao-mais-barata-em-diferentes-sessoesbrowsers
+locale: pt
 kiStatus: Backlog
 internalReference: 607411
 ---

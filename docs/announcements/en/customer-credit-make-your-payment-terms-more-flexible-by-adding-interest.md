@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: customer-credit-make-your-payment-terms-more-flexible-by-adding-interest
+locale: en
 legacySlug: customer-credit-make-your-payment-terms-more-flexible-by-adding-interest
 announcementImageID: ''
 announcementSynopsisEN: 'Customer Credit now allows you to configure interest in your payment rules for installment credit.'

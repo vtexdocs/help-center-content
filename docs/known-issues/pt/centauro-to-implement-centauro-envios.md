@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: para-implementar-o-centauro-envios
+locale: pt
 kiStatus: Backlog
 internalReference: 618941
 ---

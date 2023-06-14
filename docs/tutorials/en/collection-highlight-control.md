@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: collection-highlight-control
+locale: en
 legacySlug: collection-highlight-control
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_84
 slug: what-is-the-google-analytics-sales-funnel
+locale: en
 legacySlug: what-is-the-google-analytics-sales-funnel
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

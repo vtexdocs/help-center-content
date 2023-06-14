@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: taxa-nao-considera-desconto-ao-calcular-valor-aplicado-por-formula
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

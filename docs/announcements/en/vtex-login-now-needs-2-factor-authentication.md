@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: authors_24
 slug: vtex-login-now-needs-2-factor-authentication
+locale: en
 legacySlug: vtex-login-now-needs-2-factor-authentication
 announcementImageID: ''
 announcementSynopsisEN: 'As of November 16, 2-factor authentication (2FA) becomes mandatory for all emails in VTEX Admin.'

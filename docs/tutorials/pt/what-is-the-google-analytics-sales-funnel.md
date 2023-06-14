@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_84
 slug: o-que-e-o-funil-de-vendas-do-google-analytics
+locale: pt
 legacySlug: o-que-e-o-funil-de-vendas-do-google-analytics
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: controles-para-exibir-o-nome-da-marca
+locale: pt
 legacySlug: controles-para-exibir-o-nome-da-marca
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

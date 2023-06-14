@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: get-to-know-cartman-the-new-checkout-investigation-tool
+locale: en
 legacySlug: get-to-know-cartman-the-new-checkout-investigation-tool
 announcementImageID: ''
 announcementSynopsisEN: 'Cartman is a tool that simulates, shares and investigates carts, enabling the investigation of Checkout scenarios'

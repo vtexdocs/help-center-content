@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 slug: agendar-precos-para-uma-faixa-de-horas
+locale: pt
 legacySlug: agendar-precos-para-uma-faixa-de-horas
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---

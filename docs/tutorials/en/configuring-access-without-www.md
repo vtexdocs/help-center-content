@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_4
 slug: configuring-access-without-www
+locale: en
 legacySlug: configuring-access-without-www
 subcategory: 2Za4fjGfxYOo6oqykukgyy
 ---

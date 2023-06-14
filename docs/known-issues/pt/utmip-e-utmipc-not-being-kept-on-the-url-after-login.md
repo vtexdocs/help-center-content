@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: utmip-e-utmipc-nao-sendo-mantido-na-url-apos-o-login
+locale: pt
 kiStatus: Backlog
 internalReference: 372787
 ---

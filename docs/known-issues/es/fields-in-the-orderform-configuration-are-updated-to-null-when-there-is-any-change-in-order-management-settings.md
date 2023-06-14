@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: los-campos-de-la-configuracion-de-orderform-se-actualizan-a-null-cuando-se-produce-algun-cambio-en-la-configuracion-de-la-gestion-de-pedidos
+locale: es
 kiStatus: Backlog
 internalReference: 748404
 ---

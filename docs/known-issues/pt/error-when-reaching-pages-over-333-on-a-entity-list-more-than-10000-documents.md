@@ -11,6 +11,7 @@ productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
 slug: erro-ao-chegar-a-paginas-acima-de-333-em-uma-lista-de-entidades-mais-de-10000-documentos
+locale: pt
 kiStatus: Backlog
 internalReference: 334407
 ---

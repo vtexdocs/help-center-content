@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: como-se-hace-la-actualizacion-del-xml
+locale: es
 legacySlug: como-se-hace-la-actualizacion-del-xml
 subcategory: 2OCA7SVfWoMSiAi0GEGwKo
 ---

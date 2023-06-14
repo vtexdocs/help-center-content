@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: el-diseno-de-la-pagina-cambia-a-movil-cuando-se-imprime-ctrlp-en-chrome
+locale: es
 kiStatus: No Fix
 internalReference: 454680
 ---

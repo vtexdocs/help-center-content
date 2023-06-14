@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: order-errors-in-the-b2w-integration
+locale: en
 legacySlug: b2w-integration-orders-erros
 subcategory: 5m1qqfnmfYKsO0KiOQC8Ky
 ---

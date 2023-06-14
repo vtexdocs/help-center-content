@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_59
 slug: accessing-the-beta-environment
+locale: en
 legacySlug: accessing-the-beta-environment
 subcategory: Se4oi5LroIII2Ei0uGAoE
 ---
@@ -26,7 +27,7 @@ The beta environment works as a testing environment for different versions of VT
 
 The button that gives you access to the beta environment is located at the end of the Admin side menu. Just click `Use beta` to gain access to the testing environment.
 
-![usar-beta-en](//images.ctfassets.net/alneenqid6w5/1k3Qb8gAGOsqQwMSK4Y6mG/579c06f9af8be8142bdd617ae2fdc502/usar-beta-en.png)
+![usar-beta-en](https://images.ctfassets.net/alneenqid6w5/1k3Qb8gAGOsqQwMSK4Y6mG/579c06f9af8be8142bdd617ae2fdc502/usar-beta-en.png)
 
 <div class="alert alert-info">
 To return to the main environment, click <code>Use stable</code>, also located at the end of the Admin side menu.
@@ -36,4 +37,4 @@ To return to the main environment, click <code>Use stable</code>, also located a
  
 To access your store in beta mode and see how changes have affected your store front, click on the `VISIT THE STORE` button once you have accessed the beta environment described in the previous step.
 
-![visite-a-loja-beta-en](//images.ctfassets.net/alneenqid6w5/23HFLXk6I8OMSG8oGY4Wsw/cf4ef21978d3c1a2bb720d52b1468a0f/visite-a-loja-beta-en.png)
+![visite-a-loja-beta-en](https://images.ctfassets.net/alneenqid6w5/23HFLXk6I8OMSG8oGY4Wsw/cf4ef21978d3c1a2bb720d52b1468a0f/visite-a-loja-beta-en.png)

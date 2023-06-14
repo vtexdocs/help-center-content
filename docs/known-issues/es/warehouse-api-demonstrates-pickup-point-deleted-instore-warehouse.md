@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: la-api-del-almacen-demuestra-la-eliminacion-de-puntos-de-recogida-almacen-instore
+locale: es
 kiStatus: Fixed
 internalReference: 573017
 ---

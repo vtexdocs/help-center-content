@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-ordenacion-de-los-grupos-de-especificaciones-desde-la-categoria-raiz-no-funciona
+locale: es
 kiStatus: Backlog
 internalReference: 634129
 ---

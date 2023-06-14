@@ -11,6 +11,7 @@ productTeam: VTEX IO
 author: 3aBBTLS9ZKO6IcY0Goe2y2
 tag: VTEX IO
 slug: toolbelt-del-vtex-io-se-bloquea-en-la-plataforma-windows
+locale: es
 kiStatus: Open
 internalReference: 
 ---

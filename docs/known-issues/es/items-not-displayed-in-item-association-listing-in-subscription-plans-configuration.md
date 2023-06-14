@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: los-articulos-no-se-muestran-en-el-listado-de-asociacion-de-articulos-en-la-configuracion-de-los-planes-de-suscripcion
+locale: es
 kiStatus: Backlog
 internalReference: 648117
 ---

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
 tag: Catalog
 slug: ordering-of-product-fields-and-skus-is-not-saved
+locale: en
 kiStatus: Backlog
 internalReference: 525127
 ---

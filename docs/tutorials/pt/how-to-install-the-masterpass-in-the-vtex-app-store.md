@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_24
 slug: instalar-o-masterpass-na-vtex-app-store
+locale: pt
 legacySlug: instalar-o-masterpass-na-vtex-app-store
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

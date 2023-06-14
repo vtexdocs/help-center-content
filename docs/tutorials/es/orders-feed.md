@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: feed-de-pedidos
+locale: es
 legacySlug: como-funciona-el-feed-del-oms, como-funciona-el-feed-v3-del-modulo-de-gestion-de-pedidos
 subcategory: 3Y8xzVGMXcuPTuzfFI0vUp
 ---

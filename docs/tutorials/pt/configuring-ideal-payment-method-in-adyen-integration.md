@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: configurar-o-metodo-de-pagamento-ideal-na-integracao-com-a-adyen
+locale: pt
 legacySlug: configurar-o-metodo-de-pagamento-ideal-na-integracao-com-a-adyen
 subcategory: 
 ---

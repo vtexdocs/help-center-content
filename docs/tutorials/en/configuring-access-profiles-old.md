@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_4
 slug: configuring-access-profiles-old
+locale: en
 legacySlug: creating-user-profiles-guide
 subcategory: 1HSqkejwuYcQSMC400uY84
 ---

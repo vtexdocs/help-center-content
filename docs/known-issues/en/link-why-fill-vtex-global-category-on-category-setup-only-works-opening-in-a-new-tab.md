@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: link-why-fill-vtex-global-category-on-category-setup-only-works-opening-in-a-new-tab
+locale: en
 kiStatus: Backlog
 internalReference: 544034
 ---

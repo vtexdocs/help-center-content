@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-pago-envia-incorrectamente-los-detalles-del-articulo-a-la-transaccion
+locale: es
 kiStatus: Backlog
 internalReference: 535859
 ---

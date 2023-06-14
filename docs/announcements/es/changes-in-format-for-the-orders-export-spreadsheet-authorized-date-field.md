@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: cambio-en-el-formato-del-campo-authorized-date
+locale: es
 legacySlug: cambio-en-el-formato-del-campo-authorized-date-de-la-plantilla-de
 announcementImageID: ''
 announcementSynopsisES: 'Nuevo formato del campo Authorized Date garantiza un entendimiento más claro de la fecha en que el pedido fue autorizado'

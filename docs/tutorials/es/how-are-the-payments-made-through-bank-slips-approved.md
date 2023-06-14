@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: como-se-hace-la-aprobacion-de-pago-del-boleto
+locale: es
 legacySlug: como-se-hace-la-aprobacion-de-pago-del-boleto
 subcategory: 2tEO9ytK1aMO0i2oMayoQq
 ---

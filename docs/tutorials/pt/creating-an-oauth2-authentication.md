@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 2LFh4Ox3XiWIqUMWw4MOGw
 slug: criar-autenticacao-oauth2
+locale: pt
 legacySlug: criar-autenticacao-oauth2
 subcategory: cgsivNN3J6M6gKAYoeIww
 ---

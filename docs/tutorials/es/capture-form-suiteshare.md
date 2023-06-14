@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: formulario-de-captura-suiteshare
+locale: es
 legacySlug: formulario-de-captura
 subcategory: 4y4ylvqceE6vVqEF8IWZix
 ---

@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: integracion-meli-codigos-postales-11111-meli-limaperu
+locale: es
 kiStatus: Backlog
 internalReference: 826566
 ---

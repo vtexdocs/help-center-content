@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: 4SqDPmUJIIz2KMMKgiyqKl
 slug: inicio-de-sesion-con-facebook-dejara-de-estar-disponible-en-el-admin-de-vtex
+locale: es
 legacySlug: 
 announcementImageID: ''
 announcementSynopsisES: 'Suspensión de la funcionalidad de inicio de sesión con Facebook en el Admin de VTEX'

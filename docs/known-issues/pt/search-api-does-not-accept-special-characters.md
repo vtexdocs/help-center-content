@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: a-api-de-pesquisa-nao-aceita-caracteres-especiais
+locale: pt
 kiStatus: Backlog
 internalReference: 754363
 ---

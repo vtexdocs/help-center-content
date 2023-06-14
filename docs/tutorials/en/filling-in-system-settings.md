@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: filling-in-system-settings
+locale: en
 legacySlug: filling-in-system-settings
 subcategory: 7ogirQ8NClawO2X6xdgCKc
 ---

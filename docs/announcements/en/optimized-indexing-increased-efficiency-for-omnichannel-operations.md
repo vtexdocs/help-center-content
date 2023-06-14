@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: optimized-indexing-increased-efficiency-for-omnichannel-operations
+locale: en
 legacySlug: optimized-indexing-increased-efficiency-for-omnichannel-operations
 announcementImageID: ''
 announcementSynopsisEN: 'Optimized indexing enables complex omnichannel operations and reduces time and processing costs.'

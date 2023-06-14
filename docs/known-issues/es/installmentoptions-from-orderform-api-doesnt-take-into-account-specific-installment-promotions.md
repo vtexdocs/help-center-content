@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: installmentoptions-de-la-api-de-orderform-no-tiene-en-cuenta-las-promociones-especificas-de-los-plazos
+locale: es
 kiStatus: No Fix
 internalReference: 644563
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
 slug: como-e-a-estrutura-de-uma-app
+locale: es
 legacySlug: como-e-a-estrutura-de-uma-app
 ---
 

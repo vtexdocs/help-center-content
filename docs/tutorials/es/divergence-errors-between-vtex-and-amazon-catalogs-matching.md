@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: errores-de-divergencia-entre-los-catalogos-de-vtex-y-amazon-matching
+locale: es
 legacySlug: errores-de-divergencia-entre-los-catalogos-de-vtex-y-amazon-matching
 subcategory: 4HBbKdnwneGew2qGGykSM8
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: que-es-un-anexo
+locale: es
 legacySlug: que-es-un-anexo
 subcategory: 1hoOi2R0Rm6ky0yCwOUoiy
 ---

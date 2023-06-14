@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: inability-to-make-partial-cancellation-with-mercadopagov1
+locale: en
 kiStatus: Backlog
 internalReference: 286738
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_24
 slug: integrar-con-magazine-luiza
+locale: es
 legacySlug: integrar-con-magazine-luiza
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: como-criar-cupom
+locale: pt
 legacySlug: como-criar-cupom
 subcategory: 1TXh7VjDSIGA2eSI0CmUsi
 ---

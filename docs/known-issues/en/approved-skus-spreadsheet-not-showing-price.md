@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: approved-skus-spreadsheet-not-showing-price
+locale: en
 kiStatus: Backlog
 internalReference: 552155
 ---

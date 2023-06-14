@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: oorderbypriceasc-podria-traer-un-pedido-erroneo
+locale: es
 kiStatus: Backlog
 internalReference: 582861
 ---

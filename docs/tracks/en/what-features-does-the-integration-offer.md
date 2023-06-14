@@ -9,6 +9,7 @@ firstPublishedAt: 2023-03-28T21:41:26.632Z
 contentType: trackArticle
 productTeam: Channels
 slug: what-features-does-the-integration-offer
+locale: en
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugEN: what-features-does-the-integration-offer
 ---

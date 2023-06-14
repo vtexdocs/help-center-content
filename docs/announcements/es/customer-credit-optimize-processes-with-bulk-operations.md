@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: customer-credit-optimice-procesos-con-recursos-masivos
+locale: es
 legacySlug: customer-credit-optimice-procesos-con-recursos-masivos
 announcementImageID: ''
 announcementSynopsisES: 'Ahora la app Customer Credit permite operaciones masivas para actualizar títulos e importar o actualizar cuentas.'

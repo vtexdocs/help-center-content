@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: inconsistencies-in-billingaddress-field-sent-to-gateway
+locale: en
 kiStatus: Scheduled
 internalReference: 291688
 ---

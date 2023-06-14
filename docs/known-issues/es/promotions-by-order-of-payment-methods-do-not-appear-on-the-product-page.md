@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: las-promociones-por-orden-de-formas-de-pago-no-aparecen-en-la-pagina-del-producto
+locale: es
 kiStatus: Backlog
 internalReference: 781523
 ---

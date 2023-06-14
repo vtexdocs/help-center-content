@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: por-que-cadastrei-categoria-similar-e-os-produtos-nao-sao-exibidos
+locale: pt
 legacySlug: por-que-cadastrei-categoria-similar-e-os-produtos-nao-sao-exibidos
 ---
 

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: nao-e-possivel-associar-skus-seller-na-planilha-sku-produto-export-import
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

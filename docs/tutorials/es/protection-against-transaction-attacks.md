@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7vIfbtqL5oztUGHLHXwy1E
 slug: proteccion-contra-los-ataques-a-las-transacciones
+locale: es
 legacySlug: proteccion-contra-los-ataques-a-las-transacciones
 subcategory: 
 ---
@@ -35,9 +36,9 @@ Para activar la protección, mira el paso a paso que se muestra a continuación.
 4. En la esquina superior derecha, haz clic en el ícono de configuración;
 5. En __Protección contra ataques__, haz clic en el botón para activarla (el color verde indica "activada").
 
-![proteção-botao-configurações](//images.ctfassets.net/alneenqid6w5/1jhGP8FOgMtkEp0O8AqOnX/c36c317b8cd30966cd76901c897219f3/prote____o-botao-configura____es.png)
+![proteção-botao-configurações](https://images.ctfassets.net/alneenqid6w5/1jhGP8FOgMtkEp0O8AqOnX/c36c317b8cd30966cd76901c897219f3/prote____o-botao-configura____es.png)
 
-![opción-de-protección-habilitada1](//images.ctfassets.net/alneenqid6w5/6svPWoUMebewsgVcBGkig5/c5aa662b0d3f17f6131e1bf702f0e49a/opci__n-de-protecci__n-habilitada1.png)
+![opción-de-protección-habilitada1](https://images.ctfassets.net/alneenqid6w5/6svPWoUMebewsgVcBGkig5/c5aa662b0d3f17f6131e1bf702f0e49a/opci__n-de-protecci__n-habilitada1.png)
 
 ### ¿Cómo desactivar la protección contra los ataques a las transacciones?
 
@@ -68,13 +69,13 @@ Para acceder a esta información, mira el paso a paso que se muestra a continuac
 6. Para seleccionar __Amenazas detectadas__ o __Amenazas neutralizadas__, haga clic en una de las flechas de la derecha. 
 7. Verifica los detalles de los eventos en la ventana emergente que aparece.
 
-![opción-protección-histórico1](//images.ctfassets.net/alneenqid6w5/49x3IUoxJ7uydixZWsrzAJ/250619d85b728b32e7d8db8faaa1cfbe/opci__n-protecci__n-hist__rico1.png)
+![opción-protección-histórico1](https://images.ctfassets.net/alneenqid6w5/49x3IUoxJ7uydixZWsrzAJ/250619d85b728b32e7d8db8faaa1cfbe/opci__n-protecci__n-hist__rico1.png)
 
-![pantalla-protección-histórico1](//images.ctfassets.net/alneenqid6w5/7pybJ37CWRAnquFaSHXtYE/1f2e631ac9836dd9ef0f239a262ba205/pantalla-protecci__n-hist__rico1.png)
+![pantalla-protección-histórico1](https://images.ctfassets.net/alneenqid6w5/7pybJ37CWRAnquFaSHXtYE/1f2e631ac9836dd9ef0f239a262ba205/pantalla-protecci__n-hist__rico1.png)
 
-![pantalla-amenaza-potencial1](//images.ctfassets.net/alneenqid6w5/78mfTPLB4MFJfpJ7EAkJtY/0a00d39504db054aa5961d856b86a342/pantalla-amenaza-potencial1.png)
+![pantalla-amenaza-potencial1](https://images.ctfassets.net/alneenqid6w5/78mfTPLB4MFJfpJ7EAkJtY/0a00d39504db054aa5961d856b86a342/pantalla-amenaza-potencial1.png)
 
-![pantalla-amenaza-neutralizada1](//images.ctfassets.net/alneenqid6w5/1TAQRzC5ef1bmdZ3CFEIMa/384388f887f08d882df4da136ba34dd8/pantalla-amenaza-neutralizada1.png)
+![pantalla-amenaza-neutralizada1](https://images.ctfassets.net/alneenqid6w5/1TAQRzC5ef1bmdZ3CFEIMa/384388f887f08d882df4da136ba34dd8/pantalla-amenaza-neutralizada1.png)
 
 ### Artículos relacionados
 - [¿Qué es una solución antifraude?](https://help.vtex.com/es/tutorial/o-que-e-antifraude)

@@ -9,6 +9,7 @@ firstPublishedAt: 2019-07-31T21:48:07.014Z
 contentType: trackArticle
 productTeam: Channels
 slug: otimizacao-de-performance
+locale: pt
 trackId: 47kz5PRQPK0IEaqGqiIuA
 trackSlugPT: como-fazer-campanhas-atraves-do-google-ads
 ---

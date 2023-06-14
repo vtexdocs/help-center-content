@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: mandatory-specifications-are-not-verified-when-creating-a-product-through-api
+locale: en
 kiStatus: Backlog
 internalReference: 522293
 ---

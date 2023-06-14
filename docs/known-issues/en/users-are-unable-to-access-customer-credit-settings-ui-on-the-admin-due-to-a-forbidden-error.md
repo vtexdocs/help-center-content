@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: users-are-unable-to-access-customer-credit-settings-ui-on-the-admin-due-to-a-forbidden-error
+locale: en
 kiStatus: Backlog
 internalReference: 380931
 ---

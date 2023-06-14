@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_4
 slug: creating-customer-and-address-forms-in-new-stores
+locale: en
 legacySlug: creating-customer-and-address-forms-in-new-stores
 subcategory: 42hDtnYXHw5ExG6l19RP1l
 ---
@@ -44,4 +45,4 @@ You can produce these forms automatically, following the instructions below for 
 
 After this the **Profile System** application forms should be available in your Master Data.
 
-![3 - EN](//images.ctfassets.net/alneenqid6w5/1bosLHh7Q0SiACOAqMCuco/1c0dad3f3d233e4635e32deaca0f1297/3_-_EN.png)
+![3 - EN](https://images.ctfassets.net/alneenqid6w5/1bosLHh7Q0SiACOAqMCuco/1c0dad3f3d233e4635e32deaca0f1297/3_-_EN.png)

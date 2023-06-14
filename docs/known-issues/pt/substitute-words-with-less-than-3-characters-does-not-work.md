@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: palavras-substitutas-com-menos-de-3-caracteres-nao-funcionam
+locale: pt
 kiStatus: Backlog
 internalReference: 282500
 ---

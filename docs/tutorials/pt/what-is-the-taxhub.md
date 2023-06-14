@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Y2pnNkWfSoUMMYcwemq4A
 slug: o-que-e-o-taxhub
+locale: pt
 legacySlug: o-que-e-o-taxhub
 subcategory: 
 ---

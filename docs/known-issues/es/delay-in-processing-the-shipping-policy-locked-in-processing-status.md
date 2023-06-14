@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: retraso-en-la-tramitacion-de-la-poliza-de-envio-bloqueada-en-estado-de-tramitacion
+locale: es
 kiStatus: Backlog
 internalReference: 396914
 ---

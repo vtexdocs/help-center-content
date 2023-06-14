@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-25T17:28:09.193Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: redirect
+locale: pt
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugPT: vtex-intelligent-search
 ---

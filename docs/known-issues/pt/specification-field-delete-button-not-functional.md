@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: botao-para-excluir-campo-de-especificacao-nao-funcional
+locale: pt
 kiStatus: Backlog
 internalReference: 328943
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: indexador-mejoras-de-desempeno-para-el-catalogo
+locale: es
 legacySlug: indexador-mejoras-de-desempeno-para-el-catalogo
 announcementImageID: ''
 announcementSynopsisES: 'Para mejorar la experiencia en el Catálogo, hemos mejorado el desempeño del Indexador.'

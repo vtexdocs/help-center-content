@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: importar-planilha-de-frete
+locale: pt
 legacySlug: importar-planilha-de-frete
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

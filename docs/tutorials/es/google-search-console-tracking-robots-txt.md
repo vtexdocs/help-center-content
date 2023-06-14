@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: rastreo-google-search-console-robots-txt
+locale: es
 legacySlug: rastreo-google-search-console-robots-txt
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

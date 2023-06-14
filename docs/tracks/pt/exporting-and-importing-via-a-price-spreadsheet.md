@@ -9,6 +9,7 @@ firstPublishedAt: 2023-01-17T12:31:08.844Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: exportacao-e-importacao-via-planilha-de-precos
+locale: pt
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugPT: precos-101
 ---

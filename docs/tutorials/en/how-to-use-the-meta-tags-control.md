@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: how-to-use-the-meta-tags-control
+locale: en
 legacySlug: how-to-use-the-meta-tags-control
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

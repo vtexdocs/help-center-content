@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: rastreamento-google-search-console-robots-txt
+locale: pt
 legacySlug: rastreamento-google-search-console-robots-txt
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: the-price-filter-in-the-store-window-shows-the-lowest-price-registered-ignoring-the-sales-policy-to-which-it-is-linked
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

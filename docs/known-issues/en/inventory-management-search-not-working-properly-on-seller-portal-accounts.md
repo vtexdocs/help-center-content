@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: inventory-management-search-not-working-properly-on-seller-portal-accounts
+locale: en
 kiStatus: Backlog
 internalReference: 694254
 ---

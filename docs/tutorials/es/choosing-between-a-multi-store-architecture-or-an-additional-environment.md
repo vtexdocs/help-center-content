@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: elegir-entre-arquitectura-multitienda-o-entorno-adicional
+locale: es
 legacySlug: elegir-entre-arquitectura-multitienda-o-entorno-adicional
 subcategory: yMp6sKDiJEi66CGAIQ4ma
 ---

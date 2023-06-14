@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: o-publico-da-campanha-nao-guarda-informacoes-sobre-cupons
+locale: pt
 kiStatus: Backlog
 internalReference: 521601
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-adquirente-getnet
+locale: es
 legacySlug: configurar-adquirente-getnet
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

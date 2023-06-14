@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: os-titulares-dos-lugares-mostrando-ao-inves-dos-dados-corretos
+locale: pt
 kiStatus: Backlog
 internalReference: 371183
 ---

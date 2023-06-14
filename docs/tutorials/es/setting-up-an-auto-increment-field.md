@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: configurar-un-campo-con-auto-incremento
+locale: es
 legacySlug: configurar-un-campo-con-auto-incremento
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

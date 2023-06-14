@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_3
 slug: configurando-indice-en-el-vtex-master-data
+locale: es
 legacySlug: configurando-indice-en-el-vtex-master-data
 subcategory: WpbGhubuRZaNZilJSXnqu
 ---

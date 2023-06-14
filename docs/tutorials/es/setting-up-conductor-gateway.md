@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-gateway-conductor
+locale: es
 legacySlug: configurar-gateway-conductor
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

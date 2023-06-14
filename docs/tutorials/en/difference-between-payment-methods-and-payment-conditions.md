@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: difference-between-payment-methods-and-payment-conditions
+locale: en
 legacySlug: difference-between-payment-methods-and-payment-conditions
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

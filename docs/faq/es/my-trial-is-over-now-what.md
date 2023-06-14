@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: mi-prueba-ha-terminado-ahora-que
+locale: es
 legacySlug: mi-prueba-ha-terminado-ahora-que
 ---
 

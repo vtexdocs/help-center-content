@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 slug: como-montar-la-url-del-carrito
+locale: es
 legacySlug: como-montar-la-url-del-carrito
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

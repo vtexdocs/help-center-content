@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: skus-from-the-same-product-being-created-separately-accounts-with-autoapprove-flag-enabled
+locale: en
 kiStatus: Backlog
 internalReference: 467112
 ---

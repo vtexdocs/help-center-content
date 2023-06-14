@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: colecoes-ui-nao-permite-a-busca-de-produtos-com-caracteres-especiais
+locale: pt
 kiStatus: Backlog
 internalReference: 344451
 ---

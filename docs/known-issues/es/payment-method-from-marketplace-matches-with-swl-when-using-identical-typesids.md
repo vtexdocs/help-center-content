@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: el-metodo-de-pago-de-marketplace-coincide-con-el-de-swl-cuando-se-utilizan-tipos-identicosids
+locale: es
 kiStatus: Backlog
 internalReference: 402140
 ---

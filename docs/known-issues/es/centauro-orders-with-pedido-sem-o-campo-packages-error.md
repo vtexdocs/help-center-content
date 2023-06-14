@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: pedidos-de-centauro-con-error-pedido-sin-el-campo-paquetes
+locale: es
 kiStatus: Backlog
 internalReference: 604422
 ---

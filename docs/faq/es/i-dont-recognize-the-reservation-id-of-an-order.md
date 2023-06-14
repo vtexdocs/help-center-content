@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: no-reconozco-el-id-de-reserva-de-un-pedido
+locale: es
 legacySlug: no-reconozco-el-id-de-reserva-de-un-pedido
 ---
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-se-maneja-el-modal
+locale: es
 legacySlug: como-se-maneja-el-modal
 subcategory: 1UL6Q7nUN6SkA2g2SUsECi
 ---

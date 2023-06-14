@@ -9,6 +9,7 @@ firstPublishedAt: 2022-01-04T19:14:43.796Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-regra-de-divergencia-de-valores
+locale: pt
 trackId: 6w07SJBVqE020KIOOS8ygk
 trackSlugPT: configurar-integracao-da-b2w
 ---

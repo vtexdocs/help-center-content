@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: pastas-de-segundo-nivel-nao-consideram-o-contexto-de-busca
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

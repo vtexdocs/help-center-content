@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: activar-el-zoom-del-producto-en-el-template-de-pagina
+locale: es
 legacySlug: activar-el-zoom-del-producto-en-el-template-de-pagina
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: configurar-o-tempo-de-carencia-para-cancelamento-do-pedido
+locale: pt
 legacySlug: configurar-o-tempo-de-carencia-para-cancelamento-do-pedido
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: valor-de-pagamento-diferente-ao-misturar-os-tipos-de-vendedores-para-o-mesmo-vendedor-em-um-carrinho
+locale: pt
 kiStatus: Backlog
 internalReference: 821741
 ---

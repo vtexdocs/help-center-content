@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: fields-in-the-orderform-configuration-are-updated-to-null-when-there-is-any-change-in-order-management-settings
+locale: en
 kiStatus: Backlog
 internalReference: 748404
 ---

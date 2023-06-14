@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: o-editor-do-site-nao-carrega-blocos-ao-acessar-a-url-da-rota-de-desembarque
+locale: pt
 kiStatus: Backlog
 internalReference: 755993
 ---

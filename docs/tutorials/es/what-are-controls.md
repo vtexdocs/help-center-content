@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: que-son-controles
+locale: es
 legacySlug: que-son-controles
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

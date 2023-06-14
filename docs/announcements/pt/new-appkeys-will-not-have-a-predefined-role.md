@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: novos-appkeys-serao-criados-sem-um-perfil-de-acesso-predefinido
+locale: pt
 legacySlug: novos-appkeys-serao-criados-sem-um-perfil-de-acesso-predefinido
 announcementImageID: ''
 announcementSynopsisPT: 'AppKeys não receberão mais o perfil de acesso Owner por padrão'

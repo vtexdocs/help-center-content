@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: simulation-is-not-possible-find-products-from-catalog-v2-on-shipping-simulation-page
+locale: en
 kiStatus: Backlog
 internalReference: 488362
 ---

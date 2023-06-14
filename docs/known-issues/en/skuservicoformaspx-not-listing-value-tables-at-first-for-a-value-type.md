@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: skuservicoformaspx-not-listing-value-tables-at-first-for-a-value-type
+locale: en
 kiStatus: Backlog
 internalReference: 335819
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 
 slug: maximum-price-per-item-promotion-will-be-disabled
+locale: en
 legacySlug: maximum-price-per-item-promotion-will-be-disabled
 announcementImageID: ''
 announcementSynopsisEN: ''

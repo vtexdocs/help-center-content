@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: order-errors-in-the-dafiti-integration
+locale: en
 legacySlug: order-errors-in-the-dafiti-integration
 subcategory: 5m1qqfnmfYKsO0KiOQC8Ky
 ---

@@ -11,6 +11,7 @@ productTeam: Master Data
 author: TnXcuQydAAOuwWACo864E
 tag: Master Data
 slug: problemas-con-triggers-que-contienen-anexos
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

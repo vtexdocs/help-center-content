@@ -9,6 +9,7 @@ firstPublishedAt: 2022-01-05T16:04:18.518Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-regla-de-divergencia-de-precios-via
+locale: es
 trackId: 3E9XylGaJ2wqwISGyw4GuY
 trackSlugES: configurar-la-integracion-de-via-varejo
 ---

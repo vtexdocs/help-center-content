@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-pago-no-muestra-la-opcion-de-cambiar-el-codigo-postal
+locale: es
 kiStatus: Fixed
 internalReference: 321598
 ---

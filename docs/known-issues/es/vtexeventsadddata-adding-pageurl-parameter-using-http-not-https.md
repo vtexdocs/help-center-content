@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: vtexeventsadddata-anadiendo-el-parametro-pageurl-usando-http-no-https
+locale: es
 kiStatus: Backlog
 internalReference: 348128
 ---

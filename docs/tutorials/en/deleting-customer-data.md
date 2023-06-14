@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: deleting-customer-data
+locale: en
 legacySlug: deleting-customer-data
 subcategory: 6uJgdHqWf1Mo0rUfgxseTn
 ---

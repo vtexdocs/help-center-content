@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_6
 slug: adding-your-brands
+locale: en
 legacySlug: adding-your-brands
 subcategory: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: seller-de-extensa-cobertura
+locale: es
 legacySlug: seller-de-extensa-cobertura
 subcategory: 5tlIjp0ZkAU4EIk4OgyEmm
 ---

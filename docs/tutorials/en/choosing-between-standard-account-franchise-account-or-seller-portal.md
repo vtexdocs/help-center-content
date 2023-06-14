@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: choosing-between-standard-account-franchise-account-or-seller-portal
+locale: en
 legacySlug: choosing-between-standard-account-franchise-account-or-seller-portal
 subcategory: 5tlIjp0ZkAU4EIk4OgyEmm
 ---

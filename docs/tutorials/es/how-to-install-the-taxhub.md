@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Y2pnNkWfSoUMMYcwemq4A
 slug: como-instalar-el-taxhub
+locale: es
 legacySlug: como-instalar-el-taxhub
 subcategory: 
 ---

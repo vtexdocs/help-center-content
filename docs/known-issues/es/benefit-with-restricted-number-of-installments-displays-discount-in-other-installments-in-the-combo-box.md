@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: promocion-con-restriccion-de-numero-de-parcelas-muestra-descuento-en-otras-parcelas-en-el-combo-box
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

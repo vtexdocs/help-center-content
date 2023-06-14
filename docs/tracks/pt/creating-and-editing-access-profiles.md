@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:32:53.804Z
 contentType: trackArticle
 productTeam: Identity
 slug: criar-e-editar-perfis-de-acesso
+locale: pt
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugPT: contas-e-permissoes
 ---

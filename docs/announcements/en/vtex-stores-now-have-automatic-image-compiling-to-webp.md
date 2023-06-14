@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: vtex-stores-now-have-automatic-image-compiling-to-webp
+locale: en
 legacySlug: vtex-stores-now-have-automatic-image-compiling-to-webp
 announcementImageID: ''
 announcementSynopsisEN: 'VTEX stores now rely on automatic image compression for WebP'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-pagamentos-com-pagosnet
+locale: pt
 legacySlug: configurar-pagamentos-com-pagosnet
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

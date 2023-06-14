@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: B2B
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: permissao-de-acesso-a-loja
+locale: pt
 legacySlug: permissao-de-acesso-a-loja
 subcategory: 3dBbxrpmrGP2D7AgQeviAR
 ---
@@ -24,4 +25,4 @@ Para realizar essa configuração, no painel administrativo (Admin) da conta des
 4. Selecione a opção __VTEX Store__.
 5. Marque a caixa de seleção __“Enables B2B behaviour”__ e salve as alterações.
 
-![Habilitar cenário B2B](//images.ctfassets.net/alneenqid6w5/Kxh1UuEyCT52qprSkBkeH/49fd977f929e7422641030804973cf2f/Habilitar_B2B.gif)
+![Habilitar cenário B2B](https://images.ctfassets.net/alneenqid6w5/Kxh1UuEyCT52qprSkBkeH/49fd977f929e7422641030804973cf2f/Habilitar_B2B.gif)

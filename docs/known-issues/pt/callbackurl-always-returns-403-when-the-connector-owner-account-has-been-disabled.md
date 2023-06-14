@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: a-callbackurl-sempre-retorna-403-quando-a-conta-do-proprietario-do-conector-foi-desativada
+locale: pt
 kiStatus: Backlog
 internalReference: 775235
 ---

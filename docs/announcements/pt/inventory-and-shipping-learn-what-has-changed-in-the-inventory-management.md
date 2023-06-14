@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: estoque-e-entrega-entenda-o-que-mudou-na-aba-gerenciar-inventario
+locale: pt
 legacySlug: estoque-e-entrega-entenda-o-que-mudou-na-aba-gerenciar-inventario
 announcementImageID: ''
 announcementSynopsisPT: 'Além de melhorar a usabilidade da interface, mudamos o nome da aba para Gerenciar Inventário. '

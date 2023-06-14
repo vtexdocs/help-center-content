@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: orders-overview
+locale: en
 legacySlug: oms-overview
 subcategory: 3VNOhxDrvYxJThhuJClrYZ
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2021-04-15T17:41:27.545Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-el-feed
+locale: es
 trackId: 25Sl7iOqq58PGfVfTAo8Xw
 trackSlugES: integracion-con-google-shopping
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_35
 slug: como-e-calculado-frete-gratis-para-um-unico-item-em-carrinho-com-mais-itens
+locale: pt
 legacySlug: como-e-calculado-frete-gratis-para-um-unico-item-em-carrinho-com-mais-itens
 ---
 

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: when-shippingestimate-is-0-the-deliveryslainminutes-calculation-returns-null
+locale: en
 kiStatus: Backlog
 internalReference: 514835
 ---

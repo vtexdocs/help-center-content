@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: que-es-una-app-de-vtex-io
+locale: es
 legacySlug: o-que-e-uma-app
 subcategory: 5eBwrcLFVSwYGSOQqGKQYW
 ---

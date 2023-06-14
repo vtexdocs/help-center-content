@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-funciona-a-secao-historico-do-pedido
+locale: pt
 legacySlug: linha-do-tempo
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

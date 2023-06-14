@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: lean-shipping-doesnt-allow-selecting-regular-delivery-when-scheduled-delivery-is-the-cheapest-and-fastest
+locale: en
 kiStatus: Backlog
 internalReference: 842018
 ---

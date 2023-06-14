@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: los-anuncios-de-meli-buybox-no-se-vinculan-a-los-productos-puente
+locale: es
 kiStatus: Backlog
 internalReference: 780961
 ---

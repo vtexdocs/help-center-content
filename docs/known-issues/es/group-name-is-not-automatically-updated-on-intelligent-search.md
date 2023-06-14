@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: el-nombre-del-grupo-no-se-actualiza-automaticamente-en-la-busqueda-inteligente
+locale: es
 kiStatus: Backlog
 internalReference: 821481
 ---

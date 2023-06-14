@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: the-risk-assessment-process
+locale: en
 legacySlug: the-risk-assessment-process
 subcategory: vONCJSxwN5qZiElOEtKkH
 ---

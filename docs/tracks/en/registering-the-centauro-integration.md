@@ -9,6 +9,7 @@ firstPublishedAt: 2020-10-20T19:51:24.705Z
 contentType: trackArticle
 productTeam: Channels
 slug: registering-the-centauro-integration
+locale: en
 trackId: D8Qnjbr5lfLkUfMRhsfbj
 trackSlugEN: registering-the-centauro-integration
 ---

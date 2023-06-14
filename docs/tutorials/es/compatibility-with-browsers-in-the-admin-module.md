@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: compatibilidad-con-navegadores-en-el-panel-administrativo-de-vtex
+locale: es
 legacySlug: compatibilidad-con-navegadores-en-el-panel-administrativo-de-vtex
 subcategory: Se4oi5LroIII2Ei0uGAoE
 ---

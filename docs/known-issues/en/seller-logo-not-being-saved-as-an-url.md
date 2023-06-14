@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: seller-logo-not-being-saved-as-an-url
+locale: en
 kiStatus: Fixed
 internalReference: 736716
 ---

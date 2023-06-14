@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Master Data
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: nuevos-eventos-disponibles-en-el-modulo-audit
+locale: es
 legacySlug: nuevos-eventos-disponibles-en-el-modulo-audit
 announcementImageID: ''
 announcementSynopsisES: 'Audit está proporcionando nuevos eventos relacionados con los módulos de VTEX ID, License manager y Pricing.'

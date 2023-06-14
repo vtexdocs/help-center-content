@@ -9,6 +9,7 @@ firstPublishedAt: 2020-10-20T19:51:02.327Z
 contentType: trackArticle
 productTeam: Channels
 slug: definir-la-politica-comercial-para-centauro
+locale: es
 trackId: D8Qnjbr5lfLkUfMRhsfbj
 trackSlugES: integracion-con-centauro
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2019-07-17T19:40:46.639Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: tablas-de-precio-definicion-de-concepto
+locale: es
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugES: precios-101
 ---

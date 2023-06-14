@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: 4ubliktPJIsvyl1hq91RdK
 slug: configurar-beneficios-para-funcionarios-usando-master-data-clusters
+locale: pt
 legacySlug: configurar-beneficios-para-funcionarios-usando-master-data-clusters
 subcategory: 42hDtnYXHw5ExG6l19RP1l
 ---
@@ -44,7 +45,7 @@ Aqui, a propriedade comum dos clientes é que eles também são funcionários da
 Este artigo assume que os colaboradores estão devidamente registrados com um campo booleano `é funcionário` definido como verdadeiro em seus respectivos documentos para a entidade de dados CL, como demonstrado na figura abaixo. 
 
 Caso contrário, verifique o artigo [Criando um campo no Master Data](https://help.vtex.com/pt/tutorial/como-crio-um-campo-no-master-data--frequentlyAskedQuestions_1829) para criar um campo que identifique os funcionários e configure-o adequadamente para cada documento correspondente aos funcionários.
-![Campo do colaborador](//images.ctfassets.net/alneenqid6w5/58zHOX5joCiSGRfGH1QcVS/550d4899318a5728eb0d73f04a32b710/Employee_field.png)
+![Campo do colaborador](https://images.ctfassets.net/alneenqid6w5/58zHOX5joCiSGRfGH1QcVS/550d4899318a5728eb0d73f04a32b710/Employee_field.png)
 
 <div class="alert-info" role="alert">São muitos os detalhes para configurar uma promoção. Se você precisar de informações adicionais sobre este assunto, consulte o artigo <a href="https://help.vtex.com/pt/tutorial/como-criar-promocoes--tutorials_320">Criar promoções</a>.</div>
 
@@ -59,4 +60,4 @@ Com o campo configurado, a promoção pode ser criada seguindo os passos abaixo:
 7. No final da página, clique no botão **Salvar***.
 
 Depois disso, a promoção já funcionará conforme configurada. O desconto é mostrado apenas no carrinho de compras. A imagem abaixo mostra um exemplo com 99% de desconto.
-![carrinho de compras com desconto](//images.ctfassets.net/alneenqid6w5/475MwMGUzp7GzqF0xYFVUq/599d65a4eb894d02d8cfb0a6c1a55463/Carrinho_com_desconto.png)
+![carrinho de compras com desconto](https://images.ctfassets.net/alneenqid6w5/475MwMGUzp7GzqF0xYFVUq/599d65a4eb894d02d8cfb0a6c1a55463/Carrinho_com_desconto.png)

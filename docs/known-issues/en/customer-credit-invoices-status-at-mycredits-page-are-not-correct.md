@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: customer-credit-invoices-status-at-mycredits-page-are-not-correct
+locale: en
 kiStatus: Backlog
 internalReference: 369457
 ---

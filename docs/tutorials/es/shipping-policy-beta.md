@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: politica-de-envio-beta
+locale: es
 legacySlug: politica-de-envio-beta
 subcategory: 
 ---

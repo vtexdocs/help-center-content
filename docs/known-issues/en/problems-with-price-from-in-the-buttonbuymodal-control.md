@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: problems-with-price-from-in-the-buttonbuymodal-control
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

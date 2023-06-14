@@ -1,16 +1,22 @@
 ---
-title: 'Freely develop custom storefront components in VTEX IO'
-id: 17Er2P2P9hTrV6lT4g2V9J
-status: PUBLISHED
-createdAt: 2021-03-12T12:31:16.443Z
-updatedAt: 2021-03-15T12:56:15.848Z
-publishedAt: 2021-03-15T12:56:15.848Z
+title: 'Freely develop custom storefront components in VTEX IO  '
+id: 2VSsZ0Y5ofRRQuD6Hmc4xb
+status: DRAFT
+createdAt: 2021-03-11T10:09:35.151Z
+updatedAt: 2021-03-11T10:10:07.137Z
+publishedAt: 
 contentType: updates
-productTeam: VTEX IO
-author: 6AcGyun1hSWewU8YcaQiO
+productTeam: 
+author: 
 slug: freely-develop-custom-storefront-components-in-vtex-io
+locale: en
 legacySlug: freely-develop-custom-storefront-components-in-vtex-io
 announcementImageID: ''
+announcementSynopsisEN: ''
+---
+
+
+ouncementImageID: ''
 announcementSynopsisEN: 'Authorization is no longer required to develop storefront components using VTEX IO. '
 ---
 

@@ -9,6 +9,7 @@ firstPublishedAt: 2020-04-14T23:53:14.582Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: configuracoes-de-integracao
+locale: pt
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugPT: vtex-intelligent-search
 ---
@@ -18,4 +19,4 @@ Configurações de integração é a funcionalidade responsável pela indexaçã
 A ferramenta consiste em um texto informando sobre o processo de indexação e um botão Iniciar. Ao apertar o botão, a indexação é iniciada e um link para a tela de __Status da indexação__ é exibido.
 
 
-![config-int-PT](//images.ctfassets.net/alneenqid6w5/3V6THUbFmXULk1LhelGcTK/f6c35665bb7e8fc77de782a86cdb5426/config-int-PT.png)
+![config-int-PT](https://images.ctfassets.net/alneenqid6w5/3V6THUbFmXULk1LhelGcTK/f6c35665bb7e8fc77de782a86cdb5426/config-int-PT.png)

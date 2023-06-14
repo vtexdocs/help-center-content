@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: hacer-que-la-coleccion-de-productos-pueda-buscarse
+locale: es
 legacySlug: tornar-colecao-de-produtos-encontravel-pela-busca
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

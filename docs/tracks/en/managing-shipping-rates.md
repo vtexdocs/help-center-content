@@ -9,6 +9,7 @@ firstPublishedAt: 2019-10-23T15:03:37.365Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: managing-shipping-rates
+locale: en
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101
 ---

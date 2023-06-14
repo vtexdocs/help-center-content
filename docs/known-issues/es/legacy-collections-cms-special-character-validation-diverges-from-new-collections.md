@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-validacion-de-caracteres-especiales-de-las-colecciones-anteriores-cms-difiere-de-la-de-las-colecciones-nuevas
+locale: es
 kiStatus: Backlog
 internalReference: 450569
 ---

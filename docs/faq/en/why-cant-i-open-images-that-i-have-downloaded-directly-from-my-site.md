@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Others
 author: authors_4
 slug: why-cant-i-open-images-that-i-have-downloaded-directly-from-my-site
+locale: en
 legacySlug: why-cant-i-open-images-that-i-have-downloaded-directly-from-my-site
 ---
 

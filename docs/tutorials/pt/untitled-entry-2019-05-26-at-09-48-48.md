@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 
 slug: como-posso-acompanhar-minhas-disputas
+locale: pt
 legacySlug: como-posso-acompanhar-minhas-disputas
 subcategory: 6ggjFlqyvL8hd9CtQFcHiD
 ---

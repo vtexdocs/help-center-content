@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: exportar-plantilla-de-inventario-division-en-mas-de-una-plantilla
+locale: es
 legacySlug: exportar-plantilla-de-inventario-division-en-mas-de-una-plantilla
 announcementImageID: ''
 announcementSynopsisES: 'Para inventarios con muchos ítems, la plantilla exportada se dividirá en más de un archivo, facilitando el download.'

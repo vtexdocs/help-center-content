@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Y2pnNkWfSoUMMYcwemq4A
 slug: instalar-o-taxhub
+locale: pt
 legacySlug: instalar-o-taxhub
 subcategory: 
 ---

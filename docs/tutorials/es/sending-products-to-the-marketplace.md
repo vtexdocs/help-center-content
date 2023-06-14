@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: catalogacion-de-productos-para-marketplace
+locale: es
 legacySlug: catalogacion-de-productos-para-marketplace
 subcategory: 4HBbKdnwneGew2qGGykSM8
 ---

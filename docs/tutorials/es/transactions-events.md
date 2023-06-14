@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 5fYXkMJagMwcSAeMAsAuOI
 slug: eventos-de-una-transaccion
+locale: es
 legacySlug: eventos-de-una-transaccion
 subcategory: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
@@ -74,5 +75,5 @@ Generalmente, las afiliaciones permiten configurar una fecha programada de captu
 
 Aquí se logra visualizar la fecha de la programación de la captura automática:
 
-![captura-auto-agendada es](//images.ctfassets.net/alneenqid6w5/6aACu6LopG4OUC6AWIAMuC/957305614367791a46fe152d021b3430/transa____o_programada_cap_auto_es.png)
+![captura-auto-agendada es](https://images.ctfassets.net/alneenqid6w5/6aACu6LopG4OUC6AWIAMuC/957305614367791a46fe152d021b3430/transa____o_programada_cap_auto_es.png)
 

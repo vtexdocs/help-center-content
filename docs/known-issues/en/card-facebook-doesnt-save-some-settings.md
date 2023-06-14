@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: card-facebook-doesnt-save-some-settings
+locale: en
 kiStatus: Backlog
 internalReference: 548763
 ---

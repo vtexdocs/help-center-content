@@ -9,6 +9,7 @@ firstPublishedAt: 2022-12-22T17:54:57.602Z
 contentType: trackArticle
 productTeam: Channels
 slug: manual-product-matching-on-amazon
+locale: en
 trackId: 6sgd4Pagy3wNsWKBvmIFrP
 trackSlugEN: amazon-integration
 ---

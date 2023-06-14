@@ -9,6 +9,7 @@ firstPublishedAt: 2019-10-21T12:48:16.576Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: adding-warehouses
+locale: en
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101
 ---
@@ -28,7 +29,7 @@ Follow the steps below to add a warehouse to your store:
 4. Fill out the inventory form fields. For more on each field's meaning, see the [Data Entry Fields](#data-entry-fields) section below.
 5. **Save**.
 
-![EN Cadastrar Estoque GIF](//images.ctfassets.net/alneenqid6w5/4teusm8ha4Qp7z2SJ8C6R6/d1e9f85854f1da52135f6920b1ad8aaa/EN_Cadastrar_Estoque_GIF.gif)
+![EN Cadastrar Estoque GIF](https://images.ctfassets.net/alneenqid6w5/4teusm8ha4Qp7z2SJ8C6R6/d1e9f85854f1da52135f6920b1ad8aaa/EN_Cadastrar_Estoque_GIF.gif)
 
 ### Data Entry Fields
 

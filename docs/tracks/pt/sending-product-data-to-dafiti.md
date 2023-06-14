@@ -9,6 +9,7 @@ firstPublishedAt: 2018-09-27T21:44:56.294Z
 contentType: trackArticle
 productTeam: Channels
 slug: envio-dos-produtos-para-a-dafiti
+locale: pt
 trackId: 4wF4RBx9ygEkimW6SsKw8i
 trackSlugPT: envio-dos-produtos-para-dafiti
 ---

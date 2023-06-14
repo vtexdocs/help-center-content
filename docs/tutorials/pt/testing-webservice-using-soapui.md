@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: testando-webservice-com-soapui
+locale: pt
 legacySlug: testando-webservice-com-soapui
 subcategory: 1vwB9FtTSQmcSewQw02QoW
 ---

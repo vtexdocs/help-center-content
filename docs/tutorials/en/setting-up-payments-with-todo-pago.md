@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: setting-up-payments-with-todo-pago
+locale: en
 legacySlug: setting-up-payments-with-todo-pago
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

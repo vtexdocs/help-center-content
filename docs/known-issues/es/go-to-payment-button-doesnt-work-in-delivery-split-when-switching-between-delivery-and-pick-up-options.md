@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-boton-ir-al-pago-no-funciona-en-la-division-de-entrega-cuando-se-cambia-entre-las-opciones-de-entrega-y-recogida
+locale: es
 kiStatus: Backlog
 internalReference: 756587
 ---

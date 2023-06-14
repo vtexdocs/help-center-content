@@ -9,6 +9,7 @@ firstPublishedAt: 2019-10-21T12:47:09.524Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: stock-definicion-de-concepto
+locale: es
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugES: logistica-101
 ---

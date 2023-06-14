@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: moving-order-to-start-handling-shipping
+locale: en
 legacySlug: moving-order-to-start-handling-status
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

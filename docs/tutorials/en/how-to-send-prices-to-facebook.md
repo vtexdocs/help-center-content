@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: how-to-send-prices-to-facebook
+locale: en
 legacySlug: how-to-send-prices-to-facebook
 subcategory: 3pGCbMh80UueoeSqoAgSuS
 ---

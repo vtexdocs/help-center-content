@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: el-cms-permite-la-creacion-pero-no-la-edicion-de-carpetas-con-los-mismos-nombres-que-los-predeterminados
+locale: es
 kiStatus: Backlog
 internalReference: 566791
 ---

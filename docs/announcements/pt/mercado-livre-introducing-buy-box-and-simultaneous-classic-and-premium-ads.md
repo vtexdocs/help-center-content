@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: vztwQkZv4z6EwDVwdqbsw
 slug: mercado-livre-introduzindo-buy-box-e-anuncios-classico-e-premium-simultaneos
+locale: pt
 legacySlug: mercado-livre-introduzindo-buy-box-e-anuncios-classico-e-premium-simultaneos
 announcementImageID: ''
 announcementSynopsisPT: 'Temos duas novidades que irão te ajudar a vender mais e melhor com o Mercado Livre: Buy Box e anúncios Clássico/Premium.'

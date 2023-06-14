@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: os-destaques-de-produtos-nao-funcionam-em-uma-lista-de-produtos
+locale: pt
 kiStatus: Backlog
 internalReference: 546844
 ---

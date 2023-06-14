@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: 245tA425AIeioKAk2eaiwS
 slug: check-your-stores-caa-record
+locale: en
 legacySlug: check-your-stores-caa-record
 announcementImageID: ''
 announcementSynopsisEN: 'We recommend you to update your CAA record on your DNS domains until November 9.'

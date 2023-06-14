@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: validar-un-layout-antes-de-ir-a-produccion
+locale: es
 legacySlug: validar-un-layout-antes-de-ir-a-produccion
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

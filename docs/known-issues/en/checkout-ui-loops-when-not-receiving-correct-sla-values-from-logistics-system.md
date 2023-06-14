@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: checkout-ui-loops-when-not-receiving-correct-sla-values-from-logistics-system
+locale: en
 kiStatus: Backlog
 internalReference: 485016
 ---

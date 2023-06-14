@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: como-gestionar-stock-en-el-marketplace
+locale: es
 legacySlug: como-gestionar-stock-en-el-marketplace
 subcategory: 7lxg0kyL3TYIsrlSQlf1zP
 ---

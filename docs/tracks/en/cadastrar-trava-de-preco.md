@@ -9,6 +9,7 @@ firstPublishedAt: 2019-07-17T19:48:12.477Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: cadastrar-trava-de-preco
+locale: en
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugEN: prices-101
 ---

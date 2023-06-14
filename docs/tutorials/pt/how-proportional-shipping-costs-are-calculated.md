@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: como-e-feito-o-rateio-de-frete
+locale: pt
 legacySlug: como-e-feito-o-rateio-de-frete
 subcategory: 8AGXmtpbTqUE2KQu0Swwk
 ---

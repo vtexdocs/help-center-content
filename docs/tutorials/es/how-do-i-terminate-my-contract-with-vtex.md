@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: como-puedo-rescindir-mi-contrato-con-vtex
+locale: es
 legacySlug: como-puedo-rescindir-mi-contrato-con-vtex
 subcategory: 6SJnrkKDjGwSqKkMuQMOmm
 ---

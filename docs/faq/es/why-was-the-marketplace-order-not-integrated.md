@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: por-que-el-pedido-del-marketplace-no-integro
+locale: es
 legacySlug: por-que-el-pedido-del-marketplace-no-integro
 ---
 

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: apply-manual-prices-in-subscription-items
+locale: en
 legacySlug: apply-manual-prices-in-subscription-items
 announcementImageID: ''
 announcementSynopsisEN: 'Now, you can enable Manual Price for Subscriptions in your store.'

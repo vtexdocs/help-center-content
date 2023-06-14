@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: definir-o-idioma-de-exibicao-da-loja
+locale: pt
 legacySlug: definir-o-idioma-de-exibicao-da-loja
 subcategory: 7ogirQ8NClawO2X6xdgCKc
 ---

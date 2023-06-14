@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: configurar-pago-con-scalapay
+locale: es
 legacySlug: configurar-pago-con-scalapay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

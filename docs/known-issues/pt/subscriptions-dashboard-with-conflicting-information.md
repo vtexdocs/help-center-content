@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: painel-de-controle-das-assinaturas-com-informacoes-conflitantes
+locale: pt
 kiStatus: Backlog
 internalReference: 587579
 ---

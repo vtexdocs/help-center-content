@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
 slug: filtros-de-busqueda-en-el-pasillo-infinito-de-instore
+locale: es
 legacySlug: filtros-de-busqueda-en-el-pasillo-infinito-de-instore
 announcementImageID: ''
 announcementSynopsisES: 'Los filtros de búsqueda de VTEX Intelligent Search están ahora disponibles en el Pasillo Infinito de inStore.'
@@ -24,7 +25,7 @@ Anteriormente, los filtros de búsqueda de VTEX Intelligent Search no estaban di
 
 Con la nueva funcionalidad, al buscar un término, los vendedores pueden filtrar los resultados por rango de precios, departamento y marca, por ejemplo, entre otros filtros configurables en VTEX Intelligent Search. Esto permite encontrar rápidamente el producto deseado.
 
-![instore-filtros-es](//images.ctfassets.net/alneenqid6w5/2ppFcrZLpmUs1Sa1d93mYj/b4bbbc744c5efe25cbc100d53113ca6b/screencapture-demoinstore-myvtex-checkout-instore-2021-12-02-14_09_28.png)
+![instore-filtros-es](https://images.ctfassets.net/alneenqid6w5/2ppFcrZLpmUs1Sa1d93mYj/b4bbbc744c5efe25cbc100d53113ca6b/screencapture-demoinstore-myvtex-checkout-instore-2021-12-02-14_09_28.png)
 
 ## ¿Por qué realizamos este cambio?
 

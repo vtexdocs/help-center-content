@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: as-transacciones-con-konduto-tardan-mas-de-lo-previsto-en-actualizar-su-estado
+locale: es
 kiStatus: Backlog
 internalReference: 541149
 ---

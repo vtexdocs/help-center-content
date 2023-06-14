@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: la-carga-del-administrador-de-archivos-con-dos-o-mas-archivos-existentes-no-actualiza-todos-los-archivos-solo-el-primero
+locale: es
 kiStatus: Backlog
 internalReference: 418253
 ---

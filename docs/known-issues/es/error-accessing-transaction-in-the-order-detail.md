@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_41
 tag: Order Management
 slug: error-al-acceder-a-la-transaccion-en-el-detalle-del-pedido
+locale: es
 kiStatus: Fixed
 internalReference: 
 ---

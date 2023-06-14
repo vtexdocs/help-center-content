@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: o-pao-rastejado-nao-e-lido-pelos-rastejadores-devido-ao-tempo-limite-da-ssr
+locale: pt
 kiStatus: Backlog
 internalReference: 460999
 ---

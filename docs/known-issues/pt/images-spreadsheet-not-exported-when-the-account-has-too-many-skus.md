@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: planilha-de-imagens-nao-exportadas-quando-a-conta-tem-muitos-skus
+locale: pt
 kiStatus: Backlog
 internalReference: 623183
 ---

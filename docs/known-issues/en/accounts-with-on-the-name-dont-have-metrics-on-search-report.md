@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: accounts-with-on-the-name-dont-have-metrics-on-search-report
+locale: en
 kiStatus: Backlog
 internalReference: 793570
 ---

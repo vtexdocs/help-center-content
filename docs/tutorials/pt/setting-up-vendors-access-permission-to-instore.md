@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_59
 slug: configurar-permissao-de-acesso-dos-vendedores-ao-instore
+locale: pt
 legacySlug: configurar-permissao-de-acesso-dos-vendedores-ao-instore
 subcategory: 63DHe3VQEEE6Uuua8gIs2M
 ---

@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: bandeira-aplicar-desconto-apenas-a-opcao-de-remessa-mais-barata-nao-funcionando-como-esperado
+locale: pt
 kiStatus: Backlog
 internalReference: 672567
 ---

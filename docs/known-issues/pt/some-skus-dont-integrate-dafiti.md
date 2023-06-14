@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: alguns-skus-nao-se-integram-dafiti
+locale: pt
 kiStatus: Backlog
 internalReference: 655574
 ---

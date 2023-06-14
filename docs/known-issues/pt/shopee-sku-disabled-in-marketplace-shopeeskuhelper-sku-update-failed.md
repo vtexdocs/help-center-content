@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: sku-desativado-no-mercado-shopeeskuhelper-atualizacao-do-sku-falhou
+locale: pt
 kiStatus: Fixed
 internalReference: 685137
 ---

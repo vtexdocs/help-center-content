@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 523NSmHfn2IKEoiy2Q44YS
 slug: como-alterar-a-relacao-sku-e-produto
+locale: pt
 legacySlug: como-alterar-a-relacao-sku-x-produto
 subcategory: pwxWmUu7T222QyuGogs68
 ---

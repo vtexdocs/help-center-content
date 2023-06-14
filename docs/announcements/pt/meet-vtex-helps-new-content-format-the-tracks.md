@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: conheca-as-tracks-o-novo-formato-de-conteudo-do-help
+locale: pt
 legacySlug: conheca-as-tracks-o-novo-formato-de-conteudo-do-help
 announcementImageID: ''
 announcementSynopsisPT: 'As tracks são tutoriais detalhados para você dominar todo o potencial da plataforma VTEX.'

@@ -11,6 +11,7 @@ productTeam: Shopping
 author: authors_4
 tag: Checkout
 slug: inconsistent-shipping-calculator
+locale: en
 kiStatus: Closed
 internalReference: 
 ---

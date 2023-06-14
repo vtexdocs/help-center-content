@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: releases-module-beta
+locale: en
 legacySlug: releases-module-beta
 subcategory: 
 ---
@@ -71,7 +72,7 @@ In this stage, the fields <b>Day to publish</b> and <b>Time</b> are not required
 
 8. Click `Create`.
 
-![print_cms_beta_en](//images.ctfassets.net/alneenqid6w5/3E9inm1oqSRWqfBly8puW6/9c938423b576e80d181f0cc8d32a6b46/print_cms_beta_en.png)
+![print_cms_beta_en](https://images.ctfassets.net/alneenqid6w5/3E9inm1oqSRWqfBly8puW6/9c938423b576e80d181f0cc8d32a6b46/print_cms_beta_en.png)
 
 ### How to create a release using the Releases module
 
@@ -91,7 +92,7 @@ In this stage, the fields <b>Day to publish</b> and <i>Time</i> are not required
 
 All the releases are listed in the VTEX Admin, in **Store Settings > Releases**. The page displays two tabs, `SCHEDULED` and `UNSCHEDULED`, depending on whether the release has been created with a set publish date. 
 
-![print_releases_en](//images.ctfassets.net/alneenqid6w5/14ZhiyhghBKjaoHuab8bcH/4895efa9b36315602d5b877de0a8a60c/print_releases_en.png)
+![print_releases_en](https://images.ctfassets.net/alneenqid6w5/14ZhiyhghBKjaoHuab8bcH/4895efa9b36315602d5b877de0a8a60c/print_releases_en.png)
 
 On the `SCHEDULED` tab, each column is described as follows:
 

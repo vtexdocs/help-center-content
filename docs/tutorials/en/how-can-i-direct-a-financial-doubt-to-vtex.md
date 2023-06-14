@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Billing
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: how-can-i-direct-a-financial-doubt-to-vtex
+locale: en
 legacySlug: how-can-i-direct-a-financial-doubt-to-vtex
 subcategory: 1VvCpaa8NCA6a0MK6W6oWg
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: la-ruta-search-del-sistema-de-tarjetas-regalo-no-devuelve-vales-de-forma-intermitente-cuando-el-encabezado-restrange-es-inferior-a-10
+locale: es
 kiStatus: Backlog
 internalReference: 770337
 ---

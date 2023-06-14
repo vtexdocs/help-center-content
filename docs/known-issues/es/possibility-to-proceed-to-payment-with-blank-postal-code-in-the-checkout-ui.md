@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: posibilidad-de-proceder-al-pago-con-el-codigo-postal-en-blanco-en-la-interfaz-de-usuario-de-pago
+locale: es
 kiStatus: Backlog
 internalReference: 334310
 ---

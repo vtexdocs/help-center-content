@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: change-seller-for-affiliations-that-support-native-split-faq
+locale: en
 legacySlug: change-seller-for-affiliations-that-support-native-split-faq
 ---
 
@@ -29,7 +30,7 @@ For this reason, to access the change seller feature, you must configure the aff
 - __Use Payment Processor Recommended Behavior__.
 - __Disabled: Do Not Auto Settle__.
 
-![AutoSettlement](//images.ctfassets.net/alneenqid6w5/2QsxlUck2BOohNQ8sQUZDL/a085c82de3cd5dfac48f16deeb7c4cdd/AutoSettlement.png)
+![AutoSettlement](https://images.ctfassets.net/alneenqid6w5/2QsxlUck2BOohNQ8sQUZDL/a085c82de3cd5dfac48f16deeb7c4cdd/AutoSettlement.png)
 
 ### If I opted for a non-automatic settlement behavior, when will the payment be settled?
 

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: as-promocoes-por-ordem-de-pagamento-nao-aparecem-na-pagina-do-produto
+locale: pt
 kiStatus: Backlog
 internalReference: 781523
 ---

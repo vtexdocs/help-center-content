@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: viewing-the-detailed-order-log
+locale: en
 legacySlug: viewing-the-detailed-order-log-in-the-oms-flow
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

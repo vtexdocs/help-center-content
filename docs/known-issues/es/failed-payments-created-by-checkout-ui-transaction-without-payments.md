@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: pagos-fallidos-creados-por-la-interfaz-de-pago-transaccion-sin-pagos
+locale: es
 kiStatus: Backlog
 internalReference: 339243
 ---

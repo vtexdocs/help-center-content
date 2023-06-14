@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: correos-electronicos-de-pagos-pendientes-replicados
+locale: es
 kiStatus: Backlog
 internalReference: 348932
 ---

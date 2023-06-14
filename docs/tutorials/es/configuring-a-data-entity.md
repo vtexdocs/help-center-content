@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_4
 slug: configurando-una-entidad-de-datos
+locale: es
 legacySlug: untitled-entry-2017-06-21-at-09-16-27
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---

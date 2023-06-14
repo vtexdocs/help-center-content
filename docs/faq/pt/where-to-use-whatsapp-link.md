@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: onde-utilizar-o-link-de-whatsapp
+locale: pt
 legacySlug: onde-utilizar-o-link-de-whatsapp
 ---
 

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: calendar-in-english-for-stores-in-spanish
+locale: en
 kiStatus: Backlog
 internalReference: 412426
 ---

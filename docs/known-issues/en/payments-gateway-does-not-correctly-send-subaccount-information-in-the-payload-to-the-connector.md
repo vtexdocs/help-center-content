@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: payments-gateway-does-not-correctly-send-subaccount-information-in-the-payload-to-the-connector
+locale: en
 kiStatus: Backlog
 internalReference: 801012
 ---

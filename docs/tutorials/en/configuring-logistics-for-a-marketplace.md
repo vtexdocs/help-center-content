@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: configuring-logistics-for-a-marketplace
+locale: en
 legacySlug: configuring-logistics-for-a-marketplace
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

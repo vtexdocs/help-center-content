@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: nuevas-funcionalidades-de-pagos-mejoras-para-una-experiencia-de-compra
+locale: es
 legacySlug: nuevas-funcionalidades-de-pagos-mejoras-para-una-experiencia-de-compra
 announcementImageID: ''
 announcementSynopsisES: 'Presentamos las recientes mejoras en el módulo de Pagos para mejorar tu experiencia de compra.'

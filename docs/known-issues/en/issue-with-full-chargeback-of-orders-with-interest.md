@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2Gy429C47ie3tL9XUEjeFL
 tag: Order Management
 slug: issue-with-full-chargeback-of-orders-with-interest
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2018-03-15T21:36:44.230Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configurar-campos-para-emissao-de-nota-fiscal-no-instore
+locale: pt
 trackId: 
 trackSlugPT: 
 ---

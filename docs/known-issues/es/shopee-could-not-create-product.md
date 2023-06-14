@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: shopee-no-se-pudo-crear-el-producto
+locale: es
 kiStatus: Fixed
 internalReference: 685149
 ---

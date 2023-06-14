@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: las-opciones-del-punto-de-recogida-en-la-caja-muestran-incluso-las-opciones-inactivas-o-no-validas
+locale: es
 kiStatus: Backlog
 internalReference: 328464
 ---

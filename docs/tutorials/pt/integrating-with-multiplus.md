@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 slug: integrando-com-multiplus
+locale: pt
 legacySlug: integrando-com-multiplus
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2022-04-04T15:31:49.220Z
 contentType: trackArticle
 productTeam: Shopping
 slug: crear-cuentas-franquicia
+locale: es
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugES: crear-cuentas-franquicia
 ---

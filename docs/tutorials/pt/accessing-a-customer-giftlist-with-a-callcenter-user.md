@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_59
 slug: acessar-listas-de-compras-do-cliente-com-usuario-de-televendas
+locale: pt
 legacySlug: acessar-listas-de-compras-do-cliente-com-usuario-de-televendas
 subcategory: 6aeeWirCBUwwCmeIWOgIWs
 ---

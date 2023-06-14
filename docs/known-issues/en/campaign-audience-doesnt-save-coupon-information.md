@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: campaign-audience-doesnt-save-coupon-information
+locale: en
 kiStatus: Backlog
 internalReference: 521601
 ---

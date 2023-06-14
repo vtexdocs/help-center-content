@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: understand-vtex-payment-fees
+locale: en
 legacySlug: understand-vtex-payment-fees
 subcategory: 23PYStKNPteW4CqklwXXQN
 ---

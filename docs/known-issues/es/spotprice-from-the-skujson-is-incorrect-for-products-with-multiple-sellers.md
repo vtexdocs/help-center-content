@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: el-precio-al-contado-del-skujson-es-incorrecto-para-los-productos-con-multiples-vendedores
+locale: es
 kiStatus: Backlog
 internalReference: 264791
 ---

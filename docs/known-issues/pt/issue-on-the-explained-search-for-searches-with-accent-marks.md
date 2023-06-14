@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: edicao-na-busca-explicada-de-buscas-com-acentos
+locale: pt
 kiStatus: Backlog
 internalReference: 434752
 ---

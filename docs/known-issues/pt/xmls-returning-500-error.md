@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: erro-de-retorno-de-500-xmls
+locale: pt
 kiStatus: Backlog
 internalReference: 268042
 ---

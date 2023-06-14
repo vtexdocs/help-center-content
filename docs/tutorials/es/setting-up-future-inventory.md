@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: configurar-inventario-futuro
+locale: es
 legacySlug: configurar-inventario-futuro
 subcategory: 32vrn4K2ZscjUaIBe6w5fm
 ---

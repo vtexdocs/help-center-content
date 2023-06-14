@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: problem-while-validating-value-field-when-buying-with-two-cards
+locale: en
 kiStatus: Backlog
 internalReference: 460683
 ---

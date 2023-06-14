@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: como-configurar-as-funcionalidades-de-televendas
+locale: pt
 legacySlug: como-configurar-as-funcionalidades-de-televendas
 subcategory: 6SEjoixhY5LlA7G15W6oZS
 ---

@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: order-doesnt-update-status-in-oms
+locale: en
 kiStatus: Backlog
 internalReference: 421529
 ---

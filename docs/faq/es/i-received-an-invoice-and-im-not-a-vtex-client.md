@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Billing
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: recibi-una-factura-y-no-soy-cliente-vtex
+locale: es
 legacySlug: recibi-una-factura-y-no-soy-cliente-vtex
 ---
 

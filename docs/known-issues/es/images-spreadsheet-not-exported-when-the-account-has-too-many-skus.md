@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-hoja-de-calculo-de-imagenes-no-se-exporta-cuando-la-cuenta-tiene-demasiados-skus
+locale: es
 kiStatus: Backlog
 internalReference: 623183
 ---

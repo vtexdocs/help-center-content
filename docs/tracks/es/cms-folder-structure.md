@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:28:57.365Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: estructura-de-carpetas-del-cms
+locale: es
 trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugES: cms
 ---
@@ -33,7 +34,7 @@ Toda tienda debe tener, sin excepción, las siguientes carpetas en el CMS para a
 
 Vea abajo estas carpetas básicas en el CMS:
 
-![2 1](//images.ctfassets.net/alneenqid6w5/6jvwsPMcIBTllVekqROlkk/ea2d4a9d0d4cdb8a07dd02a3add4b40b/2_1.png)
+![2 1](https://images.ctfassets.net/alneenqid6w5/6jvwsPMcIBTllVekqROlkk/ea2d4a9d0d4cdb8a07dd02a3add4b40b/2_1.png)
 
 Estas carpetas vienen de forma predeterminada en el ambiente de todas las tiendas VTEX.
 

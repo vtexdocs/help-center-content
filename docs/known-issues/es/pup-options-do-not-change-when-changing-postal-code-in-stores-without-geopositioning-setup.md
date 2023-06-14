@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: las-opciones-de-pup-no-cambian-al-cambiar-el-codigo-postal-en-las-tiendas-sin-configuracion-de-geoposicionamiento
+locale: es
 kiStatus: Fixed
 internalReference: 648604
 ---

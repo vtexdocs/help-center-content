@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: authors_41
 slug: new-working-hours-setup-is-now-available-for-carriers
+locale: en
 legacySlug: new-working-hours-setup-is-now-available-for-carriers
 announcementImageID: ''
 announcementSynopsisEN: "Beginning 01/29, you'll be able to set up the operating hours of the carriers registered on your store."

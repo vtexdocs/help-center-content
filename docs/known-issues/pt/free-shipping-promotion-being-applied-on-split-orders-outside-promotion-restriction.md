@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: promocao-de-remessa-gratuita-sendo-aplicada-em-pedidos-divididos-fora-da-restricao-de-promocao
+locale: pt
 kiStatus: Backlog
 internalReference: 732302
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: liquidacao-de-faturas-parciais-no-oms
+locale: pt
 legacySlug: liquidacao-de-faturas-parciais-no-oms
 announcementImageID: ''
 announcementSynopsisPT: 'Agora, faturas parciais inseridas nos pedidos disparam liquidações parciais na transação.'

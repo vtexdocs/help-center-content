@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: moving-a-workspace-to-production-mode
+locale: en
 legacySlug: moving-a-workspace-to-production-mode
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

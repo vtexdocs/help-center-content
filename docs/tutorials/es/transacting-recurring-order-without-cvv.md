@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_39
 slug: hacer-transaccion-de-pedido-recurrente-sin-cvv
+locale: es
 legacySlug: hacer-transaccion-de-pedido-recurrente-sin-cvv
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---

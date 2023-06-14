@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 5V92cmF9jG8KG600EwUgEg
 slug: json-do-get-order-entrega-agora-novas-variaveis-de-calculos-do-pedido
+locale: pt
 legacySlug: json-do-get-order-entrega-agora-novas-variaveis-de-calculos-do-pedido
 announcementImageID: ''
 announcementSynopsisPT: 'Tenha em mãos informações detalhadas sobre o cálculo do frete do pedido'

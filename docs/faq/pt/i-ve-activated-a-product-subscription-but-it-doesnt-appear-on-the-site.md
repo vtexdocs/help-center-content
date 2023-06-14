@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: ativei-a-assinatura-de-um-produto-mas-ele-nao-aparece-no-site
+locale: pt
 legacySlug: ativei-a-recorrencia-de-um-produto-mas-ele-nao-aparece-no-site
 ---
 
@@ -30,6 +31,6 @@ _Para fazer a inclusão manual de SKUs específicos, siga o passo a passo abaixo
 5. Dê um nome à sua Coleção (os demais campos não devem ser preenchidos).
 6. Insira os SKUs no campo informado e __separe-os com vírgulas__.
 
-![recurrence-specific-skus](//images.ctfassets.net/alneenqid6w5/70r903nMha2s220AsC2W6k/2fa8421274d56304d680388cc3309323/recurrence-specific-skus.png)
+![recurrence-specific-skus](https://images.ctfassets.net/alneenqid6w5/70r903nMha2s220AsC2W6k/2fa8421274d56304d680388cc3309323/recurrence-specific-skus.png)
 
 Por fim, dê um nome ao __Grupo__ da sua Coleção e clique em __Save Group__.

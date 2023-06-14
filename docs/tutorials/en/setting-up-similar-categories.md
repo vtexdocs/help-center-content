@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: setting-up-similar-categories
+locale: en
 legacySlug: setting-up-similar-categories
 subcategory: 1E7tziZCkY4w8i4EmUuwec
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: promocion-en-xml-de-parceros
+locale: es
 legacySlug: promocion-en-xml-de-parceros
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

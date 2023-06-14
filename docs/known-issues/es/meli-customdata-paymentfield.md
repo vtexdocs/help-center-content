@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: meli-customdata-paymentfield
+locale: es
 kiStatus: Backlog
 internalReference: 542992
 ---

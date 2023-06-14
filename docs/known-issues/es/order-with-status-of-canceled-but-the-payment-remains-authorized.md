@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: pedido-con-estado-de-anulado-pero-el-pago-sigue-autorizado
+locale: es
 kiStatus: Backlog
 internalReference: 420019
 ---

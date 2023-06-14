@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: como-migrar-da-recorrencia-v1-para-assinaturas-v2
+locale: pt
 legacySlug: como-migrar-da-recorrencia-v1-para-assinaturas-v2
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---

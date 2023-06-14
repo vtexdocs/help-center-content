@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: botao-salvar-desativado-ao-modificar-sinonimos-de-pesquisa-importados
+locale: pt
 kiStatus: Backlog
 internalReference: 508893
 ---

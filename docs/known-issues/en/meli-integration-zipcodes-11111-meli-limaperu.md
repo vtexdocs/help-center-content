@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: meli-integration-zipcodes-11111-meli-limaperu
+locale: en
 kiStatus: Backlog
 internalReference: 826566
 ---

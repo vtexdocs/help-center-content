@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: configurar-el-tiempo-de-espera-para-cancelar-el-pedido
+locale: es
 legacySlug: configurar-el-tiempo-de-espera-para-cancelar-el-pedido
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---

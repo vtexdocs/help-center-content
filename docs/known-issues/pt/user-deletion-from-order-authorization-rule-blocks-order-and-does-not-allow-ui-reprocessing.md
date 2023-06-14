@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: a-exclusao-do-usuario-da-regra-de-autorizacao-de-pedido-bloqueia-o-pedido-e-nao-permite-o-reprocessamento-da-iu
+locale: pt
 kiStatus: Backlog
 internalReference: 623376
 ---

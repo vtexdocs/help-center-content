@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: al-subir-mas-de-un-archivo-existente-a-la-vez-no-se-actualizan-todos-los-archivos-en-el-file-manager
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

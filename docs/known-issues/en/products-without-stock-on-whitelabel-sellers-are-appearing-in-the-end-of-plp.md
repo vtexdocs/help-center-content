@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: products-without-stock-on-whitelabel-sellers-are-appearing-in-the-end-of-plp
+locale: en
 kiStatus: Backlog
 internalReference: 495741
 ---

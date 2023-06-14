@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: 
 slug: qual-a-diferenca-entre-cielo-e-cielo-v3
+locale: es
 legacySlug: test es
 ---
 

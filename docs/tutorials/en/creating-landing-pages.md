@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: creating-landing-pages
+locale: en
 legacySlug: creating-landing-pages
 subcategory: 1znnjA17XqaUNdNFr42PW5
 ---
@@ -27,7 +28,7 @@ In the Admin, you can create customized landing pages, such as pages for special
 
 2.Click **CREATE NEW**.
 
-![Creating Landing pages](//images.ctfassets.net/alneenqid6w5/79EZvMxQKLKyE88OxQJudE/5b59a487ca74b9d420f754ec5ab9fa18/cms-pages-en.png)
+![Creating Landing pages](https://images.ctfassets.net/alneenqid6w5/79EZvMxQKLKyE88OxQJudE/5b59a487ca74b9d420f754ec5ab9fa18/cms-pages-en.png)
 
 3.In the Page details section, fill in the fields below to define the page metadata:
 

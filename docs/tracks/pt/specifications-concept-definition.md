@@ -9,6 +9,7 @@ firstPublishedAt: 2019-06-25T15:32:42.804Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: especificacoes-definicao-de-conceito
+locale: pt
 trackId: 5AF0XfnjfWeopIFBgs3LIQ
 trackSlugPT: catalogo-101
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: table-of-base-prices
+locale: en
 legacySlug: filling-out-base-price-import-spreadsheet-fields
 subcategory: 3O1NvPgBPqE0qU88MSQaie
 ---
@@ -43,7 +44,7 @@ The next spreadsheet fields are optional, used only to make SKU identification e
 <table width="100%">
   <tr>
    <td>
-    <img src="https://images.ctfassets.net/alneenqid6w5/2XX0xwgVreVnFb6U2rjJR7/3d3cd52b27e5831b6b105e8104e20714/baseprices_table.png" style="display: block; margin-left: auto; margin-right: auto;" alt="base prices table" title="base prices table">
+    <img src="https:https://images.ctfassets.net/alneenqid6w5/2XX0xwgVreVnFb6U2rjJR7/3d3cd52b27e5831b6b105e8104e20714/baseprices_table.png" style="display: block; margin-left: auto; margin-right: auto;" alt="base prices table" title="base prices table">
    </td>
   </tr>
   <tr>

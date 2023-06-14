@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: insights-ja-esta-disponivel-no-novo-admin
+locale: pt
 legacySlug: insights-ja-esta-disponivel-no-novo-admin
 announcementImageID: ''
 announcementSynopsisPT: 'Veja métricas detalhadas, defina metas e acompanhe a performance da sua loja direto no desktop.'

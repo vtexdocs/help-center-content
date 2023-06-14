@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 245tA425AIeioKAk2eaiwS
 slug: aumente-suas-vendas-em-marketplace
+locale: pt
 legacySlug: aumente-suas-vendas-em-marketplace
 announcementImageID: ''
 announcementSynopsisPT: 'A nova funcionalidade facilita a identificação de pedidos com divergência no preço e permite sua loja recuperar vendas.'

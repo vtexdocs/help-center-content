@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: itens-nao-exibidos-na-listagem-da-associacao-de-itens-na-configuracao-dos-planos-de-assinatura
+locale: pt
 kiStatus: Backlog
 internalReference: 648117
 ---

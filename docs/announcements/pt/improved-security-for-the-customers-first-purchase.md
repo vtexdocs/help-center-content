@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: melhoria-de-seguranca-na-primeira-compra-do-cliente
+locale: pt
 legacySlug: melhoria-de-seguranca-na-primeira-compra-do-cliente
 announcementImageID: ''
 announcementSynopsisPT: 'Novo cookie do Checkout permite o aumento de segurança em sua loja'

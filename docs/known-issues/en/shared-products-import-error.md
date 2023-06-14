@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: shared-products-import-error
+locale: en
 kiStatus: Backlog
 internalReference: 647962
 ---

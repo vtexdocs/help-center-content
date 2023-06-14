@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
 slug: qual-e-a-diferenca-entre-apps-privadas-e-publicas
+locale: pt
 legacySlug: qual-e-a-diferenca-entre-apps-privadas-e-publicas
 ---
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 
 slug: what-installing-an-app-means
+locale: en
 legacySlug: what-installing-an-app-means
 subcategory: 
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: produto-indisponivel-mesmo-com-estoque-na-franquia
+locale: pt
 kiStatus: Backlog
 internalReference: 404499
 ---

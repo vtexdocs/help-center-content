@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:33:11.563Z
 contentType: trackArticle
 productTeam: Identity
 slug: criar-e-editar-usuario
+locale: pt
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugPT: contas-e-permissoes
 ---

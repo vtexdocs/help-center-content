@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: al-intentar-configurar-el-antifraude-de-braspag-el-usuario-es-dirigido-a-la-pantalla-de-afiliacion-de-braspag
+locale: es
 kiStatus: Backlog
 internalReference: 334239
 ---

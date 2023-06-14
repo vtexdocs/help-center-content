@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: reglas-de-precios-v2
+locale: es
 legacySlug: reglas-de-precios-v2
 subcategory: wUepkh8pzimEywO8oGUIc
 ---

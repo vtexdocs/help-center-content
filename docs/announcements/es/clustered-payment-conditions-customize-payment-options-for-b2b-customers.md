@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: clustered-payments-conditions-personalice-las-opciones-de-pago-para-los
+locale: es
 legacySlug: clustered-payments-conditions-personalice-las-opciones-de-pago-para-los
 announcementImageID: ''
 announcementSynopsisES: 'Los usuarios de Customer Credit podrán crear condiciones especiales de pago para crear clústeres de clientes.'

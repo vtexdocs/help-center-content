@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: el-precio-del-producto-no-tiene-en-cuenta-al-vendedor-por-defecto-en-el-pdp
+locale: es
 kiStatus: Backlog
 internalReference: 429888
 ---

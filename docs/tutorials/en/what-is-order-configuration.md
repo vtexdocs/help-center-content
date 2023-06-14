@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: what-is-order-configuration
+locale: en
 legacySlug: what-is-order-configuration
 subcategory: 1GujN7Pa7NESCz0sB8srX4
 ---

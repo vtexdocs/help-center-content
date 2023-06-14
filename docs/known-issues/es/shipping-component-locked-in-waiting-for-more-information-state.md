@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: componente-de-expedicion-bloqueado-en-estado-esperando-mas-informacion
+locale: es
 kiStatus: Backlog
 internalReference: 780673
 ---

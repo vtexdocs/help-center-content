@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: que-es-el-conector
+locale: es
 legacySlug: que-es-el-conector
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

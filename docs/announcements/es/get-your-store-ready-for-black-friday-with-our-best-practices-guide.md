@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: prepare-su-tienda-para-el-black-friday-con-nuestra-guia-de-buenas-practicas
+locale: es
 legacySlug: prepare-su-tienda-para-el-black-friday-con-nuestra-guia-de-buenas-practicas
 announcementImageID: ''
 announcementSynopsisES: 'Siga nuestras recomendaciones y consejos para aprovechar todas las oportunidades de venta del Black Friday.'
@@ -20,4 +21,4 @@ Como hacemos todos los años, hemos creado una guía con recomendaciones y conse
 
 Disponible para clientes y socios VTEX, usted puede acceder a la guía por la homepage del Admin o directamente por la URL `https://{AccountName}.myvtex.com/admin/blackfriday`. Sólo hay que sustituir `{AccountName}` por el Account Name de su tienda.
 
-![Announcement Cartilha BF - ES](//images.ctfassets.net/alneenqid6w5/1RSlbXUdcYiAUQSi6S226w/325d5511f9fea08746aa5362ec65a814/Announcement_Cartilha_BF_-_ES.png)
+![Announcement Cartilha BF - ES](https://images.ctfassets.net/alneenqid6w5/1RSlbXUdcYiAUQSi6S226w/325d5511f9fea08746aa5362ec65a814/Announcement_Cartilha_BF_-_ES.png)

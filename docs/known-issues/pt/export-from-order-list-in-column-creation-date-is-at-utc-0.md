@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: exportar-da-lista-de-pedidos-na-coluna-data-de-criacao-esta-na-utc-0
+locale: pt
 kiStatus: Backlog
 internalReference: 619890
 ---

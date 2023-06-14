@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: contracts-digital-signature
+locale: en
 legacySlug: contracts-digital-signature
 subcategory: 6SJnrkKDjGwSqKkMuQMOmm
 ---

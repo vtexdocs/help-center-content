@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 
 slug: instalar-a-cli-via-yarn
+locale: es
 legacySlug: instalar-a-cli-via-yarn
 subcategory: 
 ---

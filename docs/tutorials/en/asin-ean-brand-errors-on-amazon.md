@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: asin-ean-brand-errors-on-amazon
+locale: en
 legacySlug: asin-ean-brand-errors-on-amazon
 subcategory: 4HBbKdnwneGew2qGGykSM8
 ---

@@ -11,6 +11,7 @@ productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 tag: Connections
 slug: produtos-expirados-no-google-shopping-nao-conseguem-ser-reenviados
+locale: pt
 kiStatus: Fixed
 internalReference: 
 ---

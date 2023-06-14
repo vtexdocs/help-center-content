@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: produtoclique-o-evento-que-nao-aciona-na-barra-de-busca
+locale: pt
 kiStatus: Backlog
 internalReference: 742754
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_24
 slug: maximum-price-per-item
+locale: en
 legacySlug: maximum-price-per-item
 subcategory: 
 ---

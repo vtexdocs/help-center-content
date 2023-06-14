@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: it-is-not-possible-to-settle-a-transaction-with-the-boleto-method-using-braspag
+locale: en
 kiStatus: Backlog
 internalReference: 558065
 ---

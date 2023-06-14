@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: returned-package-as-delivering-to-final-customer-on-my-account
+locale: en
 kiStatus: Backlog
 internalReference: 415482
 ---

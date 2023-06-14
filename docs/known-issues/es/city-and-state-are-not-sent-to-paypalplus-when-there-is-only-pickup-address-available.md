@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-ciudad-y-el-estado-no-se-envian-a-paypalplus-cuando-solo-hay-una-direccion-de-recogida-disponible
+locale: es
 kiStatus: Backlog
 internalReference: 836025
 ---

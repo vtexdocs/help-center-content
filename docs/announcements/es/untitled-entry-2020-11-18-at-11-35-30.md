@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 
 slug: untitled-entry-2020-11-18-at-11-35-30
+locale: es
 legacySlug: untitled-entry-2020-11-18-at-11-35-30
 announcementImageID: ''
 announcementSynopsisES: ''

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: button-to-add-brand-in-the-product-registration-search-doesnt-work
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: incapaz-de-exportar-mais-de-65536-linhas-no-cms-builder
+locale: pt
 kiStatus: Backlog
 internalReference: 492861
 ---

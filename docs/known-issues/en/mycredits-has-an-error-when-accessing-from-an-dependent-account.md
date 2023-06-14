@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: mycredits-has-an-error-when-accessing-from-an-dependent-account
+locale: en
 kiStatus: Backlog
 internalReference: 367276
 ---

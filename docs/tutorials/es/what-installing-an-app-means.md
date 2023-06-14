@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 
 slug: o-que-significa-instalar-uma-app
+locale: es
 legacySlug: o-que-significa-instalar-uma-app
 subcategory: 
 ---

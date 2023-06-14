@@ -9,6 +9,7 @@ firstPublishedAt: 2018-08-13T14:27:03.106Z
 contentType: trackArticle
 productTeam: Channels
 slug: authorizing-mercado-livre-integration-in-vtex-panel
+locale: en
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugEN: mercado-libre-integration-set-up
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: why-was-an-inactive-product-sold-on-the-marketplace
+locale: en
 legacySlug: why-was-an-inactive-product-sold-on-the-marketplace
 ---
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: set-up-alelo-payment-method-for-cielo-v3
+locale: en
 legacySlug: set-up-alelo-payment-method-for-cielo-v3
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

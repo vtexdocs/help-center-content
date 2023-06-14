@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 tag: Pricing & Promotions
 slug: nao-e-possivel-arquivar-uma-promocao-pelo-endpoint-create-or-update
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

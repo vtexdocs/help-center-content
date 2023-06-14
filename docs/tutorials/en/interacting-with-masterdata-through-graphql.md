@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: TnXcuQydAAOuwWACo864E
 slug: interacting-with-masterdata-through-graphql
+locale: en
 legacySlug: interacting-with-masterdata-through-graphql
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---
@@ -26,7 +27,7 @@ Start off by making sure you have the latest version of the VTEX CLI and cloning
 
 run `vtex init` and select `graphql getting-started`
 
-![Screen Shot 2019-01-16 at 15.00.29](//images.ctfassets.net/alneenqid6w5/6Ms4swzkPZ7zdyZyTllB78/f4fde23e90b0f4bc9845cbf86fd83431/Screen_Shot_2019-01-16_at_15.00.29.png)
+![Screen Shot 2019-01-16 at 15.00.29](https://images.ctfassets.net/alneenqid6w5/6Ms4swzkPZ7zdyZyTllB78/f4fde23e90b0f4bc9845cbf86fd83431/Screen_Shot_2019-01-16_at_15.00.29.png)
 
 We'll be using it's basic structure to adapt to our needs.
 
@@ -148,15 +149,15 @@ Open up Postman and type in the following search:
 
 Choose an ID, copy it.  We'll be pasting it in our query.
 
-![Screen Shot 2019-01-16 at 16.14.31](//images.ctfassets.net/alneenqid6w5/2eDkOdvUmisBlGWOIDMU5S/b77a875756854e0977c838494a287c14/Screen_Shot_2019-01-16_at_16.14.31.png)
+![Screen Shot 2019-01-16 at 16.14.31](https://images.ctfassets.net/alneenqid6w5/2eDkOdvUmisBlGWOIDMU5S/b77a875756854e0977c838494a287c14/Screen_Shot_2019-01-16_at_16.14.31.png)
 
-![Screen Shot 2019-01-16 at 17.34.04](//images.ctfassets.net/alneenqid6w5/3C82QeSWvvPNjAKTd8TKhC/c89275da1bb55836c3bf10f87d72ae37/Screen_Shot_2019-01-16_at_17.34.04.png)
+![Screen Shot 2019-01-16 at 17.34.04](https://images.ctfassets.net/alneenqid6w5/3C82QeSWvvPNjAKTd8TKhC/c89275da1bb55836c3bf10f87d72ae37/Screen_Shot_2019-01-16_at_17.34.04.png)
 
 You should now see the output light up on the right. 
 Congratulations! You've already acomplished a simple query in record time.
 
 You can look under the hood by switching back to the terminal and seeing GraphQL resolving the queries how you normally would have.
-![Screen Shot 2019-01-16 at 16.29.03](//images.ctfassets.net/alneenqid6w5/38KV7YYgHz8xTcsY18ySPf/e6a33fd274c4f40610e47793ff2ca0d3/Screen_Shot_2019-01-16_at_16.29.03.png)
+![Screen Shot 2019-01-16 at 16.29.03](https://images.ctfassets.net/alneenqid6w5/38KV7YYgHz8xTcsY18ySPf/e6a33fd274c4f40610e47793ff2ca0d3/Screen_Shot_2019-01-16_at_16.29.03.png)
 
 
 **But what if we want to SEARCH by using all possible filters?**
@@ -268,6 +269,6 @@ query{
 
 ```
 
-![Screen Shot 2019-01-16 at 17.23.00](//images.ctfassets.net/alneenqid6w5/6Q06UiMGSQVeJjQKpLuant/92de5aeaf26a41b1cffa22603391a834/Screen_Shot_2019-01-16_at_17.23.00.png)
+![Screen Shot 2019-01-16 at 17.23.00](https://images.ctfassets.net/alneenqid6w5/6Q06UiMGSQVeJjQKpLuant/92de5aeaf26a41b1cffa22603391a834/Screen_Shot_2019-01-16_at_17.23.00.png)
 
 And there you have it :) Happy coding!

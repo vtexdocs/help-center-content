@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 62vZqGGY3y5ptmG8gYo2r9
 slug: quais-partes-da-api-de-checkout-podem-ser-substituidas-na-proxima-versao
+locale: pt
 legacySlug: quais-partes-da-api-de-checkout-podem-ser-substituidas-na-proxima-versao
 ---
 

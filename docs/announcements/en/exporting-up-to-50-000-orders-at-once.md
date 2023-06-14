@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: exporting-up-to-50-000-orders-at-once
+locale: en
 legacySlug: exporting-up-to-50-000-orders-at-once
 announcementImageID: ''
 announcementSynopsisEN: 'Now you can export up to 50,000 orders at once in Order management.'

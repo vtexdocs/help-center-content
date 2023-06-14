@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: relatorio-announcement
+locale: es
 legacySlug: relatorio-announcement
 announcementImageID: ''
 announcementSynopsisES: ''

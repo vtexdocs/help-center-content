@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_3
 slug: usando-o-campo-de-observacao-no-checkout
+locale: pt
 legacySlug: usando-o-campo-de-observacao-no-checkout
 subcategory: 8AGXmtpbTqUE2KQu0Swwk
 ---

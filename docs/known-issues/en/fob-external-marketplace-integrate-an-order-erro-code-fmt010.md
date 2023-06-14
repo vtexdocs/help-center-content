@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: fob-external-marketplace-integrate-an-order-erro-code-fmt010
+locale: en
 kiStatus: Backlog
 internalReference: 532377
 ---

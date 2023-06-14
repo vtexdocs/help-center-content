@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
 tag: Catalog
 slug: sku-activo-incluso-sin-especificaciones-registradas
+locale: es
 kiStatus: Closed
 internalReference: 
 ---

@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: skus-expirando-no-merchant-center
+locale: pt
 kiStatus: Backlog
 internalReference: 548044
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: conflito-de-interesses-nos-leva-a-identificar-erroneamente-a-marca-cards
+locale: pt
 kiStatus: Backlog
 internalReference: 316213
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_84
 slug: vision-general-del-license-manager
+locale: es
 legacySlug: vision-general-del-license-manager
 subcategory: yMp6sKDiJEi66CGAIQ4ma
 ---

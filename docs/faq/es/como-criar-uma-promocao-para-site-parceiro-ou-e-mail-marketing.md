@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Others
 author: 523NSmHfn2IKEoiy2Q44YS
 slug: como-crear-una-promocion-para-sitios-parceros-o-e-mail-marketing
+locale: es
 legacySlug: como-crear-una-promocion-para-sitios-parceros-o-e-mail-marketing
 ---
 

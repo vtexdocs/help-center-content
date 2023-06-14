@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: checkout-does-not-display-shipping-promotion-at-first-instant-for-specific-condition
+locale: en
 kiStatus: Backlog
 internalReference: 280144
 ---

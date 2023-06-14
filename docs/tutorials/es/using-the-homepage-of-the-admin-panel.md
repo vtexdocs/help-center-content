@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: usando-la-homepage-del-panel-administrativo
+locale: es
 legacySlug: usando-la-homepage-del-panel-administrativo
 subcategory: Se4oi5LroIII2Ei0uGAoE
 ---

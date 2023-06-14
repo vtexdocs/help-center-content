@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: button-to-see-more-pickup-points-not-being-presented-in-the-list
+locale: en
 kiStatus: Backlog
 internalReference: 685650
 ---

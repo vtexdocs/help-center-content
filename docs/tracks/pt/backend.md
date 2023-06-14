@@ -9,6 +9,7 @@ firstPublishedAt: 2022-12-22T19:57:15.523Z
 contentType: trackArticle
 productTeam: VTEX IO
 slug: backend
+locale: pt
 trackId: 3fHF3GIjK8UugnQKIakpl9
 trackSlugPT: desenvolvimento-de-loja
 ---

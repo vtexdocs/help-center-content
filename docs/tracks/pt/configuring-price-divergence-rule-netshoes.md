@@ -9,6 +9,7 @@ firstPublishedAt: 2022-01-04T21:56:25.237Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-regra-de-divergencia-de-valores-netshoes
+locale: pt
 trackId: 5Ua87lhFg4m0kEcuyqmcCm
 trackSlugPT: configurar-integracao-da-netshoes
 ---

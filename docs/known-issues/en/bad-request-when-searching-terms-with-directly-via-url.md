@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: bad-request-when-searching-terms-with-directly-via-url
+locale: en
 kiStatus: Backlog
 internalReference: 775524
 ---

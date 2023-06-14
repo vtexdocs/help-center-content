@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: la-pantalla-de-integracion-de-facebook-no-guarda-algunos-ajustes
+locale: es
 kiStatus: Backlog
 internalReference: 548763
 ---

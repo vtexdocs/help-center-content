@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: migracion-de-adobe-flash 
+locale: es
 legacySlug: migracion-de-adobe-flash 
 announcementImageID: ''
 announcementSynopsisES: 'Debido a la migración de tecnología de navegadores de la herramienta Adobe Flash, VTEX actualizó el módulo CMS'

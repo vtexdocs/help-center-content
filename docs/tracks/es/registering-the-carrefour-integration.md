@@ -9,6 +9,7 @@ firstPublishedAt: 2018-10-08T23:51:59.055Z
 contentType: trackArticle
 productTeam: Channels
 slug: registro-de-la-integracion-de-carrefour
+locale: es
 trackId: 2wYlj07cNuA8k8mmwY86K2
 trackSlugES: configurar-integracion-con-carrefour
 ---

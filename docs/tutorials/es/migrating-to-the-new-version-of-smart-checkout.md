@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_65
 slug: cambio-la-nueva-version-de-smart-checkout
+locale: es
 legacySlug: cambio-la-nueva-version-de-smart-checkout
 subcategory: 8AGXmtpbTqUE2KQu0Swwk
 ---

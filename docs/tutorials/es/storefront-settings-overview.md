@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
 slug: vision-general-configuracion-de-storefront
+locale: es
 legacySlug: vision-general-configuracion-de-storefront
 subcategory: 7ogirQ8NClawO2X6xdgCKc
 ---

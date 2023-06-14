@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: promotion-item-will-not-show-splitted-after-adding-profile-data
+locale: en
 kiStatus: Backlog
 internalReference: 842575
 ---

@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: my-subscriptions-when-entering-the-address-line-2-this-appear-as-null
+locale: en
 kiStatus: Backlog
 internalReference: 588046
 ---

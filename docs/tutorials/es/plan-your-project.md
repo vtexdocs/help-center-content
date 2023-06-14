@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: planifique-su-proyecto
+locale: es
 legacySlug: planifique-su-proyecto
 subcategory: wz3FvYTctwuCwG206QUAi
 ---

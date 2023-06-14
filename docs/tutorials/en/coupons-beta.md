@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: coupons-beta
+locale: en
 legacySlug: coupons-beta
 subcategory: 1TXh7VjDSIGA2eSI0CmUsi
 ---

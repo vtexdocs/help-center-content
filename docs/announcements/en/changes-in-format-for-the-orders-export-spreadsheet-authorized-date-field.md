@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: changes-in-format-for-the-orders-export-spreadsheet-authorized-date-field
+locale: en
 legacySlug: changes-in-format-for-the-orders-export-spreadsheet-authorized-date-field
 announcementImageID: ''
 announcementSynopsisEN: 'New `Authorized Date` field format ensures an easier and clearer understanding of the date when the order was authorized'

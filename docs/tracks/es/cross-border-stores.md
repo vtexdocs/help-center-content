@@ -9,6 +9,7 @@ firstPublishedAt: 2022-05-25T19:17:08.283Z
 contentType: trackArticle
 productTeam: VTEX IO
 slug: tiendas-transfronterizas-cross-border
+locale: es
 trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugES: cms
 ---

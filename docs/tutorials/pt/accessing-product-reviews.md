@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2JdGRHS4OGcDWQoxRjEHcn
 slug: acessar-as-avaliacoes-de-produtos
+locale: pt
 legacySlug: acessar-as-avaliacoes-de-produtos
 subcategory: 5yDQmr18K4GgQAeGwq8USa
 ---

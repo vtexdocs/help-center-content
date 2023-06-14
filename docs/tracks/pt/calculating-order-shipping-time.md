@@ -9,6 +9,7 @@ firstPublishedAt: 2019-10-23T20:05:01.736Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: calculo-do-prazo-de-entrega-de-um-pedido
+locale: pt
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugPT: logistica-101
 ---

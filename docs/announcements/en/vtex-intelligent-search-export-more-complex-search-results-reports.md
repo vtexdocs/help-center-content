@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: vtex-intelligent-search-export-more-complex-search-results-reports
+locale: en
 legacySlug: vtex-intelligent-search-export-more-complex-search-results-reports
 announcementImageID: ''
 announcementSynopsisEN: 'To a more efficient search strategy, you simply need to export the information from the VTEX Intelligent Search Reports.'

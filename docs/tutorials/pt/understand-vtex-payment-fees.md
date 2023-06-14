@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: entenda-as-taxas-do-vtex-payment
+locale: pt
 legacySlug: entenda-as-taxas-do-vtex-payment
 subcategory: 23PYStKNPteW4CqklwXXQN
 ---

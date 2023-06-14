@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: shipping-preview-wrongly-displaying-the-price-when-its-scheduled-delivery
+locale: en
 kiStatus: Backlog
 internalReference: 532487
 ---

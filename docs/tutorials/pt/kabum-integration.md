@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: integracao-com-o-kabum
+locale: pt
 legacySlug: integracao-com-o-kabum
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---

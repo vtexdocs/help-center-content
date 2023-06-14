@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:32:53.804Z
 contentType: trackArticle
 productTeam: Identity
 slug: crear-y-editar-perfiles-de-acceso
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugES: contas-e-permissoes
 ---

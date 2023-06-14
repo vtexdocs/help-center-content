@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_6
 tag: My Orders
 slug: layout-de-my-ordenes-roto-sin-ninguna-personalizacion
+locale: es
 kiStatus: Fixed
 internalReference: 
 ---

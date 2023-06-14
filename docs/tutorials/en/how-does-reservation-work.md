@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: how-does-reservation-work
+locale: en
 legacySlug: how-does-reservation-work, analyze-a-products-reservations
 subcategory: 3PQwnyOcNyYgawy06oe6gE
 ---

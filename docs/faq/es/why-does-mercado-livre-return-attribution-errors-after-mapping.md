@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_24
 slug: por-que-el-mercado-livre-retorna-errores-de-atributo-tras-el-mapeo
+locale: es
 legacySlug: por-que-el-mercado-livre-retorna-errores-de-atributo-tras-el-mapeo
 ---
 

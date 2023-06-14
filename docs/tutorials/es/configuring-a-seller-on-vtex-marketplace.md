@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: como-configurar-el-seller-para-vender-en-un-marketplace-vtex
+locale: es
 legacySlug: como-configurar-el-seller-para-vender-en-un-marketplace-vtex
 subcategory: 5tlIjp0ZkAU4EIk4OgyEmm
 ---

@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: error-al-guardar-la-pantalla-de-integracion-de-netshoes
+locale: es
 kiStatus: Backlog
 internalReference: 591921
 ---

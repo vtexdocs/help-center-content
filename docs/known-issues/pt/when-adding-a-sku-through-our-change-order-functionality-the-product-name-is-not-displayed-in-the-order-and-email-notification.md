@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: ao-adicionar-um-sku-atraves-de-nossa-funcionalidade-change-order-o-nome-do-produto-nao-e-exibido-no-pedido-e-na-notificacao-por-email
+locale: pt
 kiStatus: Backlog
 internalReference: 557978
 ---

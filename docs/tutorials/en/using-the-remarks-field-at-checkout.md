@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_3
 slug: using-the-remarks-field-at-checkout
+locale: en
 legacySlug: using-the-remarks-field-at-checkout
 subcategory: 8AGXmtpbTqUE2KQu0Swwk
 ---

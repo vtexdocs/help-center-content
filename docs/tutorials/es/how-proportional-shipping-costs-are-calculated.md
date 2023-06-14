@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: como-se-realiza-el-prorrateo-del-flete
+locale: es
 legacySlug: como-se-realiza-el-rateo-de-flete
 subcategory: 8AGXmtpbTqUE2KQu0Swwk
 ---

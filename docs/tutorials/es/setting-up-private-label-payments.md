@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-pagos-con-private-label
+locale: es
 legacySlug: configurar-pagos-con-private-label
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

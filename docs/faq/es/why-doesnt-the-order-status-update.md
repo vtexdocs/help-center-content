@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_3
 slug: por-que-el-pedido-no-actualiza-el-status
+locale: es
 legacySlug: por-que-el-pedido-no-actualiza-el-status
 ---
 

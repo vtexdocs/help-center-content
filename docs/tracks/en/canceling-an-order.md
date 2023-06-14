@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-18T12:20:50.741Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: canceling-an-order
+locale: en
 trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugEN: orders
 ---

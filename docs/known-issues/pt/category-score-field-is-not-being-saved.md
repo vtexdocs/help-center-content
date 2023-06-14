@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: campo-score-categoria-nao-esta-sendo-salvo
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

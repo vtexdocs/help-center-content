@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: que-hacer-cuando-un-cliente-abre-una-disputa
+locale: es
 legacySlug: que-hacer-cuando-un-cliente-abre-una-disputa-en-vtex-payment
 subcategory: 204Hz794zvcUIJXLcShY43
 ---

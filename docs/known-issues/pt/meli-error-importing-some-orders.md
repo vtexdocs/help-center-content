@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: meli-erro-ao-importar-alguns-pedidos
+locale: pt
 kiStatus: Backlog
 internalReference: 664351
 ---

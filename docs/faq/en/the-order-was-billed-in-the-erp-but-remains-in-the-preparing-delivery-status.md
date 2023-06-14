@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_24
 slug: the-order-was-billed-in-the-erp-but-remains-in-the-preparing-delivery-status
+locale: en
 legacySlug: the-order-was-billed-in-the-erp-but-remains-in-the-preparing-delivery-status
 ---
 

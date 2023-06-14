@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: atraso-no-registro-cancelreason-na-ordem-json
+locale: pt
 kiStatus: Backlog
 internalReference: 792650
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-30T01:10:12.866Z
 contentType: trackArticle
 productTeam: Apps
 slug: mapeamento-de-canais-de-venda
+locale: pt
 trackId: 2KDrouPiE4HDKUFFSG3KdN
 trackSlugPT: integracao-com-a-lengow
 ---

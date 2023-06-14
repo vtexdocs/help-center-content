@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: como-funciona-la-promocion-compre-y-gane
+locale: es
 legacySlug: como-funciona-la-promocion-compre-y-gane
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

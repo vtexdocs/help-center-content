@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: cms-loja-visao-geral
+locale: pt
 legacySlug: cms-loja-visao-geral
 subcategory: 7ogirQ8NClawO2X6xdgCKc
 ---
@@ -18,7 +19,7 @@ A página **Loja** permite que você realize configurações de SEO, habilite fl
 
 No Admin VTEX, acesse **Configurações da loja > Storefront > Loja*** e descubra as principais ferramentas disponíveis na interface.
 
-![CMS Loja](//images.ctfassets.net/alneenqid6w5/7tUjcDHM8LXijxN9i5Oll0/40e653a93a4543bff834816c38ec018b/store-pt-overview.png)
+![CMS Loja](https://images.ctfassets.net/alneenqid6w5/7tUjcDHM8LXijxN9i5Oll0/40e653a93a4543bff834816c38ec018b/store-pt-overview.png)
 
 <div style="background-color:#FFF3CD; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px">
   Antes de fazer alterações na aba <b>Avançado</b>, entre em contato com a sua equipe de desenvolvedores e consulte a nossa <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-best-practices-for-optimizing-performance#enabling-store-settings">documentação sobre a otimização de desempenho</a> para mais informações.

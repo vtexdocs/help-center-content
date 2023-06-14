@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: la-busqueda-inteligente-multilingue-no-admite-2-variaciones-del-mismo-idiomaidioma
+locale: es
 kiStatus: Backlog
 internalReference: 841704
 ---

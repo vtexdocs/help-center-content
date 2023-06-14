@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: mapeamento-de-urls-redirecionamento-301
+locale: pt
 legacySlug: adicionar-ou-editar-um-mapeamento-de-url-manualmente
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

@@ -11,6 +11,7 @@ productTeam: Analytics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Analytics
 slug: la-agrupacion-por-metodo-de-entrega-en-el-rendimiento-de-las-ventas-no-funciona-como-se-esperaba
+locale: es
 kiStatus: Backlog
 internalReference: 639294
 ---

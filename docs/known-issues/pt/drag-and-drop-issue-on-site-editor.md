@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: edicao-drag-and-drop-no-site-editor
+locale: pt
 kiStatus: Fixed
 internalReference: 685103
 ---

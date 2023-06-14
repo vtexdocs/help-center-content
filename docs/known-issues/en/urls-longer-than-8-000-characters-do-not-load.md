@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 tag: Portal (CMS)
 slug: urls-longer-than-8-000-characters-do-not-load
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

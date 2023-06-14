@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: the-best-practices-guide-for-black-friday-2017-has-been-published
+locale: en
 legacySlug: the-best-practices-guide-for-black-friday-2017-has-been-published
 announcementImageID: ''
 announcementSynopsisEN: 'VTEX has created a primer of good practices to help our customers prepare their stores for Black Friday'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: logistics-in-the-grocery-segment-supermarkets
+locale: en
 legacySlug: logistics-in-the-grocery-segment-supermarkets
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

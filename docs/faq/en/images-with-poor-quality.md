@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: images-with-poor-quality
+locale: en
 legacySlug: images-with-poor-quality
 ---
 

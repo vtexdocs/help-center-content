@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: a-selecao-de-sellers-disponiveis-na-politica-comercial-nao-esta-funcionando-corretamente
+locale: pt
 kiStatus: Backlog
 internalReference: 515480
 ---

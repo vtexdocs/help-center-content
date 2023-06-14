@@ -11,6 +11,7 @@ productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
 slug: cookie-quebrou-a-apisessoes
+locale: pt
 kiStatus: Backlog
 internalReference: 779014
 ---

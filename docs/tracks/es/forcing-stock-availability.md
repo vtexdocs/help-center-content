@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T19:11:02.443Z
 contentType: trackArticle
 productTeam: Shopping
 slug: forzar-disponibilidad-de-stock
+locale: es
 trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugES: forzar-disponibilidad-de-stock
 ---

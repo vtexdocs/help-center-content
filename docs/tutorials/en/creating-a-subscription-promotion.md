@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1E4UkWguFZAXjkguvNHPIv
 slug: creating-a-subscription-promotion
+locale: en
 legacySlug: creating-a-subscription-promotion
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---
@@ -22,7 +23,7 @@ In this article, you will find the step-by-step instructions to create subscript
 4. Select the `Regular` option.
 5. In the **What are the conditions for the promotion to be valid?** section, select the **Is a subscription order** field. This option specifies that the promotion will apply to subscription orders. Only products with a subscription in the cart will receive the discount. To understand configuration possibilities, see the following conditions:
 
-![frequenciaenglish](//images.ctfassets.net/alneenqid6w5/3H1wS4j8dpkRfI0Le2A2CO/a13420f2bd7a22e963097a6e9d415e46/image2__2_.png)
+![frequenciaenglish](https://images.ctfassets.net/alneenqid6w5/3H1wS4j8dpkRfI0Le2A2CO/a13420f2bd7a22e963097a6e9d415e46/image2__2_.png)
 
 - **First orders**: orders that generate subscriptions but are not part of subscription cycles yet.
 - **Recurring orders**: orders from subscription cycles.

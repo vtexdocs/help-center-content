@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: cookie-de-segmento-atualizado-somente-depois-de-atualizar-a-pagina
+locale: pt
 kiStatus: Backlog
 internalReference: 647116
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: agregar-seller
+locale: es
 legacySlug: configuracion-de-seller
 subcategory: 2xWRgEIlR2ookieEmm4KQu
 ---

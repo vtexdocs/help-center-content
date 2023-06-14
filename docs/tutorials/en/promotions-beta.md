@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: promotions-beta
+locale: en
 legacySlug: promotions-beta
 subcategory: 6iTRZiMeCGXYiO2ckABFZi
 ---
@@ -31,20 +32,20 @@ The home page displays the promotions list in a grid that allows you to easily v
 - Duplicate or archive promotions using the <i class="fas fa-ellipsis-v"></i>  button;
 - Manage promotion conditions by clicking anywhere in the grid row (see [New promotion](#new-promotion) for more details about promotion conditions).
 
-![promobeta1 acoes lista promocoes EN](//images.ctfassets.net/alneenqid6w5/1iLvxFtAqM5pFOz6enx8KU/b3f2216333e8dd4cbd084b6408524541/promobeta1_acoes_lista_promocoes_EN.gif)
+![promobeta1 acoes lista promocoes EN](https://images.ctfassets.net/alneenqid6w5/1iLvxFtAqM5pFOz6enx8KU/b3f2216333e8dd4cbd084b6408524541/promobeta1_acoes_lista_promocoes_EN.gif)
 
 You can filter and sort your promotion list according to your needs. The VTEX platform allows you to filter your promotions by *Effects*, *Status*, *Starting date*, *Ending date*, or *Trade policy*.
 
-![promobeta2 filtros lista promocoes EN](//images.ctfassets.net/alneenqid6w5/4UBGUJC4RTEA9alSeHmJlh/e1e802f323d8eba2e296a27ae0f27135/promobeta2_filtros_lista_promocoes_EN.gif)
+![promobeta2 filtros lista promocoes EN](https://images.ctfassets.net/alneenqid6w5/4UBGUJC4RTEA9alSeHmJlh/e1e802f323d8eba2e296a27ae0f27135/promobeta2_filtros_lista_promocoes_EN.gif)
 
 You can also sort your list in ascending or descending order based on the basic information of the promotion by clicking on the filter title.
 
-![promobeta3 ordenacao lista promocoes EN](//images.ctfassets.net/alneenqid6w5/60Z7afuYC3PqwTEPCVLVYd/5f56351941377f0829b3582324ed347f/promobeta3_ordenacao_lista_promocoes_EN.gif)
+![promobeta3 ordenacao lista promocoes EN](https://images.ctfassets.net/alneenqid6w5/60Z7afuYC3PqwTEPCVLVYd/5f56351941377f0829b3582324ed347f/promobeta3_ordenacao_lista_promocoes_EN.gif)
 
 ## New promotion
 On the Promotions page, click on the __NEW PROMOTION__ button to access the promotion creation page, where you will fill in a series of fields to configure the desired conditions for your promotion. 
 
-![promobeta4 botao novapromocao EN](//images.ctfassets.net/alneenqid6w5/4Zp0NocPVWeIW44Ky8pWqo/29b06b468de480f45adef9896a7eabe4/promobeta4_botao_novapromocao_EN.png)
+![promobeta4 botao novapromocao EN](https://images.ctfassets.net/alneenqid6w5/4Zp0NocPVWeIW44Ky8pWqo/29b06b468de480f45adef9896a7eabe4/promobeta4_botao_novapromocao_EN.png)
 
 The new promotion conditions and fields are divided into the following groups:
 

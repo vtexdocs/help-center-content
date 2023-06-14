@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: services-prices-are-not-updated-when-added-to-items
+locale: en
 kiStatus: Backlog
 internalReference: 822107
 ---

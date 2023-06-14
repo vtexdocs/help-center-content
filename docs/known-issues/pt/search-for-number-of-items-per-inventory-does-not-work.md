@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: busca-do-numero-de-itens-por-estoque-nao-funciona
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

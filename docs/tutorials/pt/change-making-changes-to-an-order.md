@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_35
 slug: change-mudanca-em-pedidos
+locale: pt
 legacySlug: change-mudanca-em-pedidos
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

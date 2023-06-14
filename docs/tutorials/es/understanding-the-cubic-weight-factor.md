@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-se-calcula-el-peso-cubico
+locale: es
 legacySlug: como-se-calcula-el-peso-cubico
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: versao-desktop-da-renderizacao-do-site-ao-acessar-via-ipad-no-safari
+locale: pt
 kiStatus: Backlog
 internalReference: 735208
 ---

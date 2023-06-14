@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: regular-promotion-with-nominal-discount-based-on-formula
+locale: en
 legacySlug: regular-promotion-with-nominal-discount-based-on-formula
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---
@@ -19,7 +20,7 @@ When you create a [regular promotion](https://help.vtex.com/en/tutorial/regular-
 
 By selecting this type of discount, you need to create a formula defining how the applied discount will be calculated. In this article, we’ll explain how to build a formula which meets your promotion's objectives.
 
-![discount-type-formula](//images.ctfassets.net/alneenqid6w5/5NTM35GkPQtUzA6CKDco9q/c7e753bddc57ad9ec18b30f05f654688/desc.PNG)
+![discount-type-formula](https://images.ctfassets.net/alneenqid6w5/5NTM35GkPQtUzA6CKDco9q/c7e753bddc57ad9ec18b30f05f654688/desc.PNG)
 
 The formula used to calculate the nominal discount generally follows the same logic as the [Microsoft Excel formulas](https://support.microsoft.com/pt-br/office/f%C3%B3rmulas-e-fun%C3%A7%C3%B5es-294d9486-b332-48ed-b489-abe7d0f9eda9), which means you can use [variables](#variables) (`total`, `freight` and `quantity`), make [operations](#operations) (sum, subtraction, multiplication and division) and apply (`min` and `max` [functions](#functions).
 
@@ -78,19 +79,19 @@ The promotion will apply the lowest discount in each case, comparing the 20% cal
 
 A customer added a $ 45 item to the cart. By calculating 20% of the total price, the result is 9, as per `total * 0.2 = 9`. Since 9 is below the discount limit value, the applied discount will be $ 9.
 
-![scenario1-en](//images.ctfassets.net/alneenqid6w5/22tobaXfukykfntCXBpISS/7cedfaa3ffa9b54192807f47a4b1fe18/scenario1-en.png)
+![scenario1-en](https://images.ctfassets.net/alneenqid6w5/22tobaXfukykfntCXBpISS/7cedfaa3ffa9b54192807f47a4b1fe18/scenario1-en.png)
 
 #### Scenario 2
 
 Another customer added a $ 2600 item to the cart. By calculating 20% of this amount, the result is 520, as per `total * 0.2 = 520`. Since this value is above the limit ($ 10), the discount will be $ 10.
 
-![scenario2-en](//images.ctfassets.net/alneenqid6w5/6M3rMa2VKBXNtDV44J3x5w/7bd025f1787a20a9fdc1332c54e73568/scenario2-en.png)
+![scenario2-en](https://images.ctfassets.net/alneenqid6w5/6M3rMa2VKBXNtDV44J3x5w/7bd025f1787a20a9fdc1332c54e73568/scenario2-en.png)
 
 #### Scenario 3
 
 A third customer added two items to the cart: One costs $ 100 and the other $ 2600. Their sum is $ 2700, as per `total = 2700`. By calculating 20% of the total amount, the result is 540, according to `total * 0.2 = 540`. Since this value is above the limit ($ 10), the applied discount will be $ 10.
 
-![scenario3-en](//images.ctfassets.net/alneenqid6w5/2lYHI6Iw0pZ8sOyN282TDr/11a3e761ff2194ad9e63ee9a575cd62c/scenario3-en.png)
+![scenario3-en](https://images.ctfassets.net/alneenqid6w5/2lYHI6Iw0pZ8sOyN282TDr/11a3e761ff2194ad9e63ee9a575cd62c/scenario3-en.png)
 
 The total discount of $ 10 is proportionally distributed among the items, based on each item's price and quantity. The platform makes this distribution automatically, as explained below.
 

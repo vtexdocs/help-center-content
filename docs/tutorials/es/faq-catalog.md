@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: faq-catalogo
+locale: es
 legacySlug: faq-catalogo
 subcategory: 3x0rlkjSvv5MRhMNRm0wae
 ---

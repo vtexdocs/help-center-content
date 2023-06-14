@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: integrando-com-walmart
+locale: pt
 legacySlug: integrando-com-walmart
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

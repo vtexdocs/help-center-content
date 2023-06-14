@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: como-configurar-las-funcionalidades-de-televentas
+locale: es
 legacySlug: como-configurar-las-funcionalidades-de-televentas
 subcategory: 6SEjoixhY5LlA7G15W6oZS
 ---

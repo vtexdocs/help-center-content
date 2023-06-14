@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: no-se-puede-eliminar-la-informacion-de-la-tarjeta-de-credito-de-un-orderform-via-api
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

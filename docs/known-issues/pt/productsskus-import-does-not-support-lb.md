@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: produtosskus-importacao-nao-suporta-lb
+locale: pt
 kiStatus: Backlog
 internalReference: 337860
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 6AcGyun1hSWewU8YcaQiO
 slug: como-funciona-el-marketplace-recursivo
+locale: es
 legacySlug: como-funciona-el-marketplace-recursivo
 subcategory: 
 ---
@@ -32,7 +33,7 @@ Con eso:
 
 - __Cuando una tienda VTEX es intermediaria en el flujo de un pedido__: pedido de cadena con __Chain Workflow__:
 
-![marketplace-recursivo-chain-order-workflow](//images.ctfassets.net/alneenqid6w5/1mYtSFQxV7pnlrp746nnQ4/336550750f99d86b90851742fda8f724/marketplace-recursivo-chain-order-workflow.png)
+![marketplace-recursivo-chain-order-workflow](https://images.ctfassets.net/alneenqid6w5/1mYtSFQxV7pnlrp746nnQ4/336550750f99d86b90851742fda8f724/marketplace-recursivo-chain-order-workflow.png)
 
 
 ## Configuración

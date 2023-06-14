@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 2qI5H8TSvlN5jy2mWckGVR
 slug: configurar-o-cartman
+locale: es
 legacySlug: configurar-cartman
 subcategory: 
 ---

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: let-me-know-email-is-sent-even-when-the-product-is-not-available-for-the-websites-trade-policy
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

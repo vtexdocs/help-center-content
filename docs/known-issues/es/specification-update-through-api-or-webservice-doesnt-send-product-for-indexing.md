@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_31
 tag: Catalog
 slug: actualizacion-de-especificacion-por-api-o-webservice-no-envia-producto-para-indizacion
+locale: es
 kiStatus: Backlog
 internalReference: 0
 ---

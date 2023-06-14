@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: configurar-el-medio-de-pago-ideal-en-la-integracion-con-adyen
+locale: es
 legacySlug: configurar-el-medio-de-pago-ideal-en-la-integracion-con-adyen
 subcategory: 
 ---

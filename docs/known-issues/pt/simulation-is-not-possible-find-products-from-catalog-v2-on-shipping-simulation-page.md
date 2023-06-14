@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: simulacao-nao-e-possivel-encontrar-produtos-do-catalogo-v2-na-pagina-de-simulacao-de-embarque
+locale: pt
 kiStatus: Backlog
 internalReference: 488362
 ---

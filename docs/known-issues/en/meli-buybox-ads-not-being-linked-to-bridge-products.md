@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: meli-buybox-ads-not-being-linked-to-bridge-products
+locale: en
 kiStatus: Backlog
 internalReference: 780961
 ---

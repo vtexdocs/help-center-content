@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-adquirente-azteca
+locale: pt
 legacySlug: configurar-adquirente-azteca
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

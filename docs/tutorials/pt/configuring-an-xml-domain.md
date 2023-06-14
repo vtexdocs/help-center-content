@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_4
 slug: configurar-dominio-do-xml
+locale: pt
 legacySlug: configurar-dominio-do-xml
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

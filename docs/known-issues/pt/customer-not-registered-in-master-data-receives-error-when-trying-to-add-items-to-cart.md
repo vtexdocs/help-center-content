@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: cliente-nao-registrado-no-master-data-recebe-erro-ao-tentar-adicionar-itens-ao-carrinho
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

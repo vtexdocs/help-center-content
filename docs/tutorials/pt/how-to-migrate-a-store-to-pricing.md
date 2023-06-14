@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: como-migrar-uma-loja-para-o-pricing
+locale: pt
 legacySlug: como-migrar-uma-loja-para-o-pricing-v2
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

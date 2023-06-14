@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_3
 slug: creando-una-cconsulta-customizada-en-el-vtex-master-data
+locale: es
 legacySlug: creando-una-cconsulta-customizada-en-el-vtex-master-data
 subcategory: 2AThnkEZAYbk4G4EIs53rL
 ---

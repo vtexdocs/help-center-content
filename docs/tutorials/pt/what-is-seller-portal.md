@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: o-que-e-seller-portal
+locale: pt
 legacySlug: o-que-e-seller-portal
 subcategory: 4hisB47iAVZk4r3SEmMoG
 ---

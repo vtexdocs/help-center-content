@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: Shopping
 slug: configurar-puntos-de-recogida
+locale: es
 trackId: 3WGDRRhc3vf1MJb9zGncnv
 trackSlugES: estrategias-de-comercio-unificado
 ---

@@ -11,6 +11,7 @@ productTeam: Master Data
 author: 
 tag: 
 slug: untitled-entry-2018-12-05-at-02-03-30
+locale: es
 kiStatus: 
 internalReference: 
 ---

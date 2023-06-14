@@ -9,6 +9,7 @@ firstPublishedAt: 2018-08-13T14:28:06.574Z
 contentType: trackArticle
 productTeam: Channels
 slug: registro-de-la-integracion-de-mercado-libre
+locale: es
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugES: configurar-integracion-con-mercado-libre
 ---

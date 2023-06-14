@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: eliminacion-de-parametros-de-la-direccion-url-cuando-no-existe-la-pagina
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

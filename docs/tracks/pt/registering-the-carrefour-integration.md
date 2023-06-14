@@ -9,6 +9,7 @@ firstPublishedAt: 2018-10-08T23:51:59.055Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-cadastro-da-integracao-do-carrefour
+locale: pt
 trackId: 2wYlj07cNuA8k8mmwY86K2
 trackSlugPT: configurar-integracao-com-o-carrefour
 ---

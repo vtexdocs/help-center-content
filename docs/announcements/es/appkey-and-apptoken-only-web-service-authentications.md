@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: authors_24
 slug: autenticacion-web-service-solo-por-appkey-y-apptoken
+locale: es
 legacySlug: autenticacion-web-service-solo-por-appkey-y-apptoken
 announcementImageID: ''
 announcementSynopsisES: 'A partir del 20/08, el lunes, el cambio se hará para garantizar más seguridad en las integraciones Web Service.'

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-mensaje-el-valor-de-la-carga-ha-cambiado-se-muestra-incorrectamente
+locale: es
 kiStatus: Backlog
 internalReference: 775515
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: sugerindo-e-aprovando-skus
+locale: pt
 legacySlug: sugerindo-e-aprovando-skus
 subcategory: 4hU8QWlzhxWg711Kz7Gmib
 ---

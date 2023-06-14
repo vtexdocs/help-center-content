@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: acceso-identificacion-y-autentificacion
+locale: es
 legacySlug: acceso-identificacion-y-autentificacion
 subcategory: 
 ---

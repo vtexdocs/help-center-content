@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2zh4tqFMxyMCgwaUcsS0O2
 slug: can-i-put-my-products-in-an-order-which-i-choose
+locale: en
 legacySlug: can-i-put-my-products-in-an-order-which-i-choose
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

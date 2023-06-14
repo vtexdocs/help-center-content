@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 5fYXkMJagMwcSAeMAsAuOI
 slug: eventos-de-uma-transação
+locale: pt
 legacySlug: eventos-de-uma-transação
 subcategory: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
@@ -76,5 +77,5 @@ Geralmente as afiliações permitem que você configure uma data agendada de cap
 
 Aqui você consegue ver a data do agendamento da captura automática:
 
-![captura-auto-agendada pt](//images.ctfassets.net/alneenqid6w5/6rg3IZhX9eGegqeUUQCEgQ/cc229f8dc0916dced5e7288ea279abec/transa____o_programada_cap_auto_pt.png)
+![captura-auto-agendada pt](https://images.ctfassets.net/alneenqid6w5/6rg3IZhX9eGegqeUUQCEgQ/cc229f8dc0916dced5e7288ea279abec/transa____o_programada_cap_auto_pt.png)
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 6AcGyun1hSWewU8YcaQiO
 slug: hook-do-feed-v3
+locale: pt
 legacySlug: configurar-hook-do-feed-v3
 subcategory: 3Y8xzVGMXcuPTuzfFI0vUp
 ---

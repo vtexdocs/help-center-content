@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 6AcGyun1hSWewU8YcaQiO
 slug: filling-out-collection-registration-fields
+locale: en
 legacySlug: filling-out-Collection-registration-fields
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

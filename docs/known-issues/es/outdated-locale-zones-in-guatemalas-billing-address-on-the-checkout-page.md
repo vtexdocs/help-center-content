@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: zonas-desfasadas-en-la-direccion-de-facturacion-de-guatemala-en-la-pagina-de-pago
+locale: es
 kiStatus: Fixed
 internalReference: 373603
 ---

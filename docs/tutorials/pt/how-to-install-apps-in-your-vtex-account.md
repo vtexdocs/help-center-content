@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 4ZWjZh1Z6MWsMgKqQ0KcwU
 slug: como-instalar-apps-na-sua-conta-vtex
+locale: pt
 legacySlug: como-instalar-apps-na-sua-conta-vtex
 subcategory: 3e2VLdLao8GGk4sAmMmwmi
 ---

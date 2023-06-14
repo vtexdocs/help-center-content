@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: o-que-e-uma-disputa
+locale: en
 legacySlug: o-que-e-uma-disputa
 subcategory: 
 ---

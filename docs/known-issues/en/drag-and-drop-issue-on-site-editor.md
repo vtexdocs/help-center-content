@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: drag-and-drop-issue-on-site-editor
+locale: en
 kiStatus: Fixed
 internalReference: 685103
 ---

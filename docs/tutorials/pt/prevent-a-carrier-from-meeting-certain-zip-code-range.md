@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: como-impedir-que-uma-transportadora-atenda-determinada-faixa-de-cep
+locale: pt
 legacySlug: como-impedir-que-uma-transportadora-atenda-determinada-faixa-de-cep
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

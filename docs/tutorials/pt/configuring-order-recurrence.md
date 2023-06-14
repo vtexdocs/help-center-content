@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_61
 slug: configurando-a-recorrencia-de-pedidos
+locale: pt
 legacySlug: configurando-a-recorrencia-de-pedidos
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_24
 slug: how-to-find-customers-that-has-ordered-the-most
+locale: en
 legacySlug: how-to-find-customers-that-has-ordered-the-most
 ---
 

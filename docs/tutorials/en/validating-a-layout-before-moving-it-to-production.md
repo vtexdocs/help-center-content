@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: validating-a-layout-before-moving-it-to-production
+locale: en
 legacySlug: validating-a-layout-before-moving-it-to-production
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

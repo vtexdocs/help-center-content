@@ -9,6 +9,7 @@ contentType: updates
 productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
 slug: vtex-ios-new-translation-system
+locale: en
 legacySlug: vtex-ios-new-translation-system
 announcementImageID: ''
 announcementSynopsisEN: 'The new Messages App and the changes in the MessagesBuilder make the translation process easier and more complete.'

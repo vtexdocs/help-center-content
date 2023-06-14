@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: configurar-device-fingerprint-do-mercado-pago
+locale: pt
 legacySlug: configurar-device-fingerprint-do-mercado-pago
 subcategory: 
 ---

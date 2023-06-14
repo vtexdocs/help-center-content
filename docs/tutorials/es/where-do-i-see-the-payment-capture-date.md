@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_24
 slug: donde-veo-la-fecha-de-captura-del-pago
+locale: es
 legacySlug: donde-veo-la-fecha-de-captura-del-pago
 subcategory: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---

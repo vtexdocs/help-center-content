@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: os-links-internos-de-uma-pagina-de-uma-colecao-tem-url-canonico-inexistente
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

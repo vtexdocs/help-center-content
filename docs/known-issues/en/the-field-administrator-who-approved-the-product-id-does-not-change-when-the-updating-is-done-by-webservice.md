@@ -11,6 +11,7 @@ productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Web Service
 slug: the-field-administrator-who-approved-the-product-id-does-not-change-when-the-updating-is-done-by-webservice
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

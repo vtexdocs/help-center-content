@@ -9,6 +9,7 @@ firstPublishedAt: 2018-09-27T15:02:43.318Z
 contentType: trackArticle
 productTeam: Channels
 slug: orders-products-and-freight-settings-in-netshoes
+locale: en
 trackId: 5Ua87lhFg4m0kEcuyqmcCm
 trackSlugEN: netshoes-integration-set-up
 ---

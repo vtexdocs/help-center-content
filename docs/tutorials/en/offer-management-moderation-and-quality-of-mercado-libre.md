@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: offer-management-moderation-and-quality-of-mercado-libre
+locale: en
 legacySlug: offer-management-moderation-and-quality-of-mercado-libre
 subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---

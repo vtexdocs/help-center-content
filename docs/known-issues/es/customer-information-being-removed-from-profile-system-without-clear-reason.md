@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-informacion-del-cliente-se-elimina-del-sistema-de-perfiles-sin-una-razon-clara
+locale: es
 kiStatus: Backlog
 internalReference: 469823
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2018-04-26T21:15:32.167Z
 contentType: trackArticle
 productTeam: VTEX IO
 slug: setup-inicial
+locale: es
 trackId: 
 trackSlugES: 
 ---

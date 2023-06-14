@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: substitute-words-with-less-than-3-characters-does-not-work
+locale: en
 kiStatus: Backlog
 internalReference: 282500
 ---

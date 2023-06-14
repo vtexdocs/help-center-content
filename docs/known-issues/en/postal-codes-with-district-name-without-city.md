@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: postal-codes-with-district-name-without-city
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

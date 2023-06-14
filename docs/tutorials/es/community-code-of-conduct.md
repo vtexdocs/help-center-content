@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_1
 slug: codigo-de-conducta-de-la-comunidad
+locale: es
 legacySlug: codigo-de-conducta-de-la-comunidad
 subcategory: 1VvCpaa8NCA6a0MK6W6oWg
 ---

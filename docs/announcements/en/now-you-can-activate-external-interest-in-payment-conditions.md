@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: now-you-can-activate-external-interest-in-payment-conditions
+locale: en
 legacySlug: now-you-can-activate-external-interest-in-payment-conditions
 announcementImageID: ''
 announcementSynopsisEN: 'The Payments module has a new feature for setting up your payment methods.'

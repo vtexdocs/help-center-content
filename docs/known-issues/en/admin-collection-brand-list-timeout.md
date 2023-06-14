@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: admin-collection-brand-list-timeout
+locale: en
 kiStatus: Backlog
 internalReference: 639905
 ---

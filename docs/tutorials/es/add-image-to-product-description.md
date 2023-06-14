@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: anadir-imagen-a-la-descripcion-del-producto
+locale: es
 legacySlug: anadir-imagen-a-la-descripcion-del-producto
 subcategory: pwxWmUu7T222QyuGogs68
 ---

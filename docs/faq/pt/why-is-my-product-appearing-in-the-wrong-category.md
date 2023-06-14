@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: por-que-meu-produto-esta-aparecendo-na-categoria-errada
+locale: pt
 legacySlug: por-que-meu-produto-esta-aparecendo-na-categoria-errada
 ---
 

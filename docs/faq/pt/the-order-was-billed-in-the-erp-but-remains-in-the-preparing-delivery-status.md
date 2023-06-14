@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_24
 slug: o-pedido-foi-faturado-no-erp-mas-continua-no-status-preparando-entrega
+locale: pt
 legacySlug: o-pedido-foi-faturado-no-erp-mas-continua-no-status-preparando-entrega
 ---
 

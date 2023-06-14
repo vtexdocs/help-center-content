@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: magento-suiteshare
+locale: pt
 legacySlug: magento-suiteshare
 subcategory: 4y4ylvqceE6vVqEF8IWZix
 ---
@@ -20,7 +21,7 @@ No Painel de Controle do **Magento**, acesse o menu **Sistema** e clique em 
 
 Na página seguinte, selecione **Visual** (Design) e então clique em **Cabeçalho HTML**:
 
-![Magento_Suiteshare](//images.ctfassets.net/alneenqid6w5/7DnzVtmv6u7rjlUD8iyVXJ/92ff4b0de0ffee721d9307ccdd991a3d/Magento_Suiteshare.png)
+![Magento_Suiteshare](https://images.ctfassets.net/alneenqid6w5/7DnzVtmv6u7rjlUD8iyVXJ/92ff4b0de0ffee721d9307ccdd991a3d/Magento_Suiteshare.png)
 
 Desça na página até encontrar o campo **Outros Scripts** e cole o código do VTEX Assisted Sales (SuiteShare) dentro dele. Não se esqueça de salvar as mudanças clicando no botão **Salvar Configurações**.
 

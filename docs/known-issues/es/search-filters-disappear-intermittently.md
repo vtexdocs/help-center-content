@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: los-filtros-de-busqueda-desaparecen-intermitentemente
+locale: es
 kiStatus: Backlog
 internalReference: 734221
 ---

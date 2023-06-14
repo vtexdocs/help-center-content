@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_57
 slug: why-i-am-getting-emails-telling-me-to-revise-the-settlement-of-payment
+locale: en
 legacySlug: why-i-am-getting-emails-telling-me-to-revise-the-capturing-of-payment
 ---
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 2LFh4Ox3XiWIqUMWw4MOGw
 slug: creating-an-oauth2-authentication
+locale: en
 legacySlug: creating-an-oauth2-authentication
 subcategory: cgsivNN3J6M6gKAYoeIww
 ---
@@ -37,7 +38,7 @@ Have a look at the OAuth2 protocol official guide on https://tools.ietf.org/html
 ### Integrating OAuth2 with VTEX ID
 
 Based on the official documentation, have a look at the illustration below explaining how to integrate OAuth2 with VTEX ID:
-![Fluxo OAuth2 VTEX ID (EN)](//images.ctfassets.net/alneenqid6w5/3qrMFrsucwq2eWSmSAe6yY/ee05f4dafad5d0e2005293274d8f30f8/Fluxo_OAuth2_VTEX_ID__EN_.png)
+![Fluxo OAuth2 VTEX ID (EN)](https://images.ctfassets.net/alneenqid6w5/3qrMFrsucwq2eWSmSAe6yY/ee05f4dafad5d0e2005293274d8f30f8/Fluxo_OAuth2_VTEX_ID__EN_.png)
 
 Keeping the illustration in mind, let's have a closer look at some of the things you'll need to know.
 

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 6AcGyun1hSWewU8YcaQiO
 slug: ganhe-facilidade-para-acessar-informacoes-de-fatura-com-a-nova-coluna-do
+locale: pt
 legacySlug: ganhe-facilidade-para-acessar-informacoes-de-fatura-com-a-nova-coluna-do
 announcementImageID: ''
 announcementSynopsisPT: 'O relatório de exportação de pedidos agora traz os dados de fatura na nova coluna Invoice Number'

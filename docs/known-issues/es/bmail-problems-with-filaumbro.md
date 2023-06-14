@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: problemas-de-bmail-con-filaumbro
+locale: es
 kiStatus: Backlog
 internalReference: 392798
 ---

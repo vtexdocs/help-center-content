@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-pagina-de-nuevas-colecciones-no-se-carga
+locale: es
 kiStatus: Backlog
 internalReference: 419729
 ---

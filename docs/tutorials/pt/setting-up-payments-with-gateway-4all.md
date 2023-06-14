@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: configurar-pagamento-com-gateway-4all
+locale: pt
 legacySlug: configurar-pagamento-com-gateway-4all
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

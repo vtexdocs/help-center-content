@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: what-are-layouts
+locale: en
 legacySlug: what-are-layouts
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

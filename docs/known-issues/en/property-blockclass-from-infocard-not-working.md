@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: property-blockclass-from-infocard-not-working
+locale: en
 kiStatus: Backlog
 internalReference: 743730
 ---

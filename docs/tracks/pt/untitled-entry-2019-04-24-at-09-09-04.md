@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: 
 slug: o-que-e-estoque-e-entrega
+locale: pt
 trackId: 
 trackSlugPT: 
 ---

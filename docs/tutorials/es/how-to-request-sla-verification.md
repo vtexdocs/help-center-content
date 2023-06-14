@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: como-solicitar-la-verificacion-de-sla
+locale: es
 legacySlug: como-solicitar-la-verificacion-de-sla
 subcategory: 22TaEgFhwE6a6CG2KASYkC
 ---

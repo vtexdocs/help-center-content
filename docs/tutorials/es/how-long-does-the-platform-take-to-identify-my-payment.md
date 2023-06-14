@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: cuanto-tiempo-tarda-la-plataforma-para-identificar-mi-pago
+locale: es
 legacySlug: cuanto-tiempo-tarda-la-plataforma-para-identificar-mi-pago
 subcategory: 6SJnrkKDjGwSqKkMuQMOmm
 ---

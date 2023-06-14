@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: vtex-provides-klarna-pay-now-and-klarna-pay-later-payment-methods-for-the
+locale: en
 legacySlug: vtex-provides-klarna-pay-now-and-klarna-pay-later-payment-methods-for-the
 announcementImageID: ''
 announcementSynopsisEN: 'VTEX clients will be able to provide their customers with two new payment methods through the Adyen gateway.'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: entienda-las-tasas-de-vtex-payment
+locale: es
 legacySlug: entienda-las-tasas-de-vtex-payment
 subcategory: 23PYStKNPteW4CqklwXXQN
 ---

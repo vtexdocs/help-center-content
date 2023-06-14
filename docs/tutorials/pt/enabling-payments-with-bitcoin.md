@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: como-habilitar-pagamentos-com-bitcoin
+locale: pt
 legacySlug: como-habilitar-pagamentos-com-bitcoin
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

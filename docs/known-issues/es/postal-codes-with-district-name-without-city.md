@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: codigos-postales-con-nombre-de-distrito-sin-la-ciudad-respectiva
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

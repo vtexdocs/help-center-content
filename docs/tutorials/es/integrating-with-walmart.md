@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: vtex-bridge-configuraciones-walmart
+locale: es
 legacySlug: vtex-bridge-configuraciones-walmart
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

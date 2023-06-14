@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: pedidos-sem-invocacaoendereco-criado-atraves-da-iu-nativa
+locale: pt
 kiStatus: Backlog
 internalReference: 306140
 ---

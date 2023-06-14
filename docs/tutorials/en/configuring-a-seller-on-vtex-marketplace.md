@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: configuring-a-seller-on-vtex-marketplace
+locale: en
 legacySlug: configuring-a-seller-on-vtex-marketplace
 subcategory: 5tlIjp0ZkAU4EIk4OgyEmm
 ---

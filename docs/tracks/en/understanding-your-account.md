@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:32:22.601Z
 contentType: trackArticle
 productTeam: Identity
 slug: understanding-your-account
+locale: en
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: contas-e-permissoes
 ---

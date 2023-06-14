@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_35
 slug: por-que-no-encuentro-una-transaccion-en-pci-gateway
+locale: es
 legacySlug: por-que-no-encuentro-una-transaccion-en-pci-gateway
 ---
 

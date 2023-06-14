@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: a-interface-do-usuario-considera-apenas-os-itens-disponiveis-para-calcular-o-sla
+locale: pt
 kiStatus: Backlog
 internalReference: 797028
 ---

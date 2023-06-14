@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: no-se-pueden-cancelar-las-transacciones-que-han-cambiado-la-configuracion-de-la-division-del-pago
+locale: es
 kiStatus: Backlog
 internalReference: 364382
 ---

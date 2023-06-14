@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: salvar-documentos-con-triggers
+locale: pt
 legacySlug: salvar-documentos-con-triggers
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-pagamento-com-webpay
+locale: pt
 legacySlug: configurar-pagamento-com-webpay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

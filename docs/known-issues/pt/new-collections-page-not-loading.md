@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: nova-pagina-de-cobrancas-nao-carregadas
+locale: pt
 kiStatus: Backlog
 internalReference: 419729
 ---

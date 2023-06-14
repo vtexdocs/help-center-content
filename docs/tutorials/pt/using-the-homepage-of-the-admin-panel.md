@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: usando-a-homepage-do-painel-administrativo
+locale: pt
 legacySlug: usando-a-homepage-do-painel-administrativo
 subcategory: Se4oi5LroIII2Ei0uGAoE
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: como-configurar-promocion-para-un-sku
+locale: es
 legacySlug: como-configurar-promocion-para-un-sku
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

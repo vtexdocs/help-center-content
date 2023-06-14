@@ -10,13 +10,14 @@ contentType: tutorial
 productTeam: Identity
 author: 4SqDPmUJIIz2KMMKgiyqKl
 slug: authentication-page
+locale: en
 legacySlug: authentication-page
 subcategory: 14V5ezEX0cewOMg0o0cYM6
 ---
 
 On the Authentication page, you can choose which login methods you want to offer to your VTEX store buyers and operators. This page is available in _Account Settings_ > _Authentication_.
 
-![Authentication page](//images.ctfassets.net/alneenqid6w5/6cbXmuu9GiTfuYnIsuFKQp/06ed0a952614213a04bc68fc8fa5fa4e/Tela_de_Autentica____o_EN.png)
+![Authentication page](https://images.ctfassets.net/alneenqid6w5/6cbXmuu9GiTfuYnIsuFKQp/06ed0a952614213a04bc68fc8fa5fa4e/Tela_de_Autentica____o_EN.png)
 
 ## Login methods
 

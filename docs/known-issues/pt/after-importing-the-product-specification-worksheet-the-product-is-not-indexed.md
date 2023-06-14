@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: ao-importar-a-planilha-de-especificacao-de-produtos-o-produto-nao-e-indexado
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: configurar-pagamento-com-digital-river-v2
+locale: pt
 legacySlug: configurar-pagamento-com-digital-river-v2
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

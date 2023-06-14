@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
 slug: o-que-significa-promover-um-workspace
+locale: pt
 legacySlug: o-que-significa-promover-um-workspace
 ---
 

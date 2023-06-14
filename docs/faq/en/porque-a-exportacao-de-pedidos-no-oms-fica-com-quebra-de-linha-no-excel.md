@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: 2LFh4Ox3XiWIqUMWw4MOGw
 slug: porque-a-exportacao-de-pedidos-no-oms-fica-com-quebra-de-linha-no-excel
+locale: en
 legacySlug: porque-a-exportacao-de-pedidos-no-oms-fica-com-quebra-de-linha-no-excel
 ---
 

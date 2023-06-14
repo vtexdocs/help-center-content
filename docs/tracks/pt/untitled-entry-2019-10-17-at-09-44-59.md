@@ -9,6 +9,7 @@ firstPublishedAt: 2019-10-21T12:46:13.551Z
 contentType: trackArticle
 productTeam: 
 slug: modulo-de-estoque-e-entrega-definicao-de-conceito
+locale: pt
 trackId: 
 trackSlugPT: 
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: transaccion-bloqueada-en-aprobado-con-conector-nps-debido-a-pspresponsecod-en-la-respuesta-de-liquidacion
+locale: es
 kiStatus: Backlog
 internalReference: 557051
 ---

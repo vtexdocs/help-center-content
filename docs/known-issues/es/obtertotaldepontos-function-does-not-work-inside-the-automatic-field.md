@@ -11,6 +11,7 @@ productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
 slug: la-funcion-obtertotaldepontos-no-funciona-dentro-del-campo-automatico
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

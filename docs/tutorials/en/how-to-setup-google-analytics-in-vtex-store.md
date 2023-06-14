@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 523NSmHfn2IKEoiy2Q44YS
 slug: how-to-setup-google-analytics-in-vtex-store
+locale: en
 legacySlug: how-to-setup-google-analytics-in-vtex-store
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

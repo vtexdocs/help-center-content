@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: ordenacao-de-categorias-nao-esta-sendo-aplicada-nos-filtros-da-loja
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

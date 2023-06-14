@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-gateway-sitef-com-pre-auth
+locale: pt
 legacySlug: configurar-gateway-sitef-com-pre-auth
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

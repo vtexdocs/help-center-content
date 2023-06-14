@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: emails-de-pagamento-pendente-replicado
+locale: pt
 kiStatus: Backlog
 internalReference: 348932
 ---

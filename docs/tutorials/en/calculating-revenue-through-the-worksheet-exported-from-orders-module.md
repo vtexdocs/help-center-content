@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: calculating-revenue-through-the-worksheet-exported-from-orders-module
+locale: en
 legacySlug: calculating-revenue-through-oms-worksheet
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

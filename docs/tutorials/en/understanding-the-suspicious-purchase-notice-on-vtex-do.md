@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: understanding-the-suspicious-purchase-notice-on-vtex-do
+locale: en
 legacySlug: understanding-the-suspicious-purchase-notice-on-vtex-do
 subcategory: 
 ---

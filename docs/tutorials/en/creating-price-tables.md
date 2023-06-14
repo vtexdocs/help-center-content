@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1E4UkWguFZAXjkguvNHPIv
 slug: creating-price-tables
+locale: en
 legacySlug: creating-price-tables
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---
@@ -22,7 +23,7 @@ To create a new Price Table, follow the steps below:
 4. Select **Create new Price Table**
 5. Choose the name of the Price Table that you wish to create and clique on the bluw button **Create Price Table**
 
-![TutorialPriceTableEN 2806](//images.ctfassets.net/alneenqid6w5/2PC1RQzMYmgjAbu5P1wqu6/5f020fb39ec193cd90b20756a7460294/TutorialPriceTableEN_2806.gif)
+![TutorialPriceTableEN 2806](https://images.ctfassets.net/alneenqid6w5/2PC1RQzMYmgjAbu5P1wqu6/5f020fb39ec193cd90b20756a7460294/TutorialPriceTableEN_2806.gif)
 
 To find a Price Table: 
 

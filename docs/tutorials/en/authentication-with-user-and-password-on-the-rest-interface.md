@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_24
 slug: authentication-with-user-and-password-on-the-rest-interface
+locale: en
 legacySlug: authentication-with-user-and-password-on-the-rest-interface
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---

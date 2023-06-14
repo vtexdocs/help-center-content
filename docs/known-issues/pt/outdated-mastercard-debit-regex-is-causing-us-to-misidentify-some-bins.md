@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: a-desactualizacao-do-mastercard-debit-regex-esta-nos-levando-a-identificar-erroneamente-alguns-bins
+locale: pt
 kiStatus: Backlog
 internalReference: 642136
 ---

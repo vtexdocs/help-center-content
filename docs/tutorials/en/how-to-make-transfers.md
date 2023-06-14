@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: how-to-make-transfers
+locale: en
 legacySlug: how-to-make-transfers-using-vtex-payment
 subcategory: 6J5IKNejpAxT1Ie23PDtU4
 ---

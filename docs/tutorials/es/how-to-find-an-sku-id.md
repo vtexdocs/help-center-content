@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: descubrir-el-id-de-un-sku
+locale: es
 legacySlug: descubrir-el-id-de-un-sku
 subcategory: pwxWmUu7T222QyuGogs68
 ---

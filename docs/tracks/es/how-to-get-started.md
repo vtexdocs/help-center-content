@@ -9,6 +9,7 @@ firstPublishedAt: 2022-08-26T14:25:51.544Z
 contentType: trackArticle
 productTeam: Shopping
 slug: como-comenzar
+locale: es
 trackId: khP0p8mjIYRIpvM7Cb4Zr
 trackSlugES: suiteshare
 ---

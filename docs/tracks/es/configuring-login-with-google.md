@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:32:39.158Z
 contentType: trackArticle
 productTeam: Identity
 slug: configurar-inicio-de-sesion-con-google
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugES: cuentas-y-permisos
 ---
@@ -28,7 +29,7 @@ Después de hacer la configuración en Google, puede configurar el inicio de ses
 1.  En el módulo **Configuración de la cuenta**, acceda a la pestaña **Autenticación**.  
 2.  Haga clic en el botón **Editar** correspondiente a Google.
 3.  Complete los campos ingresando el _Client Id_ y _Client Secret_ registrados en **Google**.
-    ![Google OAuth](//images.ctfassets.net/alneenqid6w5/67wXwVN1RaDZ5oOy6XrTSe/cc91e8a5001c41693ea671d5da3c690e/google_ES.png)
+    ![Google OAuth](https://images.ctfassets.net/alneenqid6w5/67wXwVN1RaDZ5oOy6XrTSe/cc91e8a5001c41693ea671d5da3c690e/google_ES.png)
 5.  Haga clic en el botón **Salvar**. 
 6. Para validar si el inicio de sesión se hizo correctamente, acceda al front-end de su tienda y haga clic en **Login**.
 7. Las opciones de inicio de sesión aparecerán configuradas. Haga clic en la opción **Google** y verifique si se muestra el nombre de su tienda.    

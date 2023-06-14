@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: authors_24
 slug: atualizacao-do-jquery
+locale: pt
 legacySlug: atualizacao-do-jquery
 announcementImageID: ''
 announcementSynopsisPT: 'A atualização já está em beta para você testar sua loja. A mudança será completada em 30/07.'

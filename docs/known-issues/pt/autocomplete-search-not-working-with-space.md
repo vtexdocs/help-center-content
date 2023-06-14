@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: busca-autocompleta-nao-funciona-com-espaco
+locale: pt
 kiStatus: Backlog
 internalReference: 568821
 ---

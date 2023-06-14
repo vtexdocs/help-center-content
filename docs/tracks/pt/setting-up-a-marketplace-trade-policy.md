@@ -9,6 +9,7 @@ firstPublishedAt: 2018-08-13T14:29:58.221Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-politica-comercial-para-marketplace
+locale: pt
 trackId: 5Yx5IrNa7Y48c6aSC8wu2Y
 trackSlugPT: configurar-integracao-da-netshoes
 ---

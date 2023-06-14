@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: bin-sent-does-not-match-an-associated-card-brand
+locale: en
 kiStatus: Backlog
 internalReference: 308896
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 5Bd75kMNAzARxg0DCUjwal
 slug: why-doesnt-my-benefit-work-for-a-client-cluster
+locale: en
 legacySlug: 
 ---
 
@@ -33,7 +34,7 @@ Make sure the value has been entered by following these steps:
 4. Go to the session __"What are the conditions for the benefit to be valid?"__;!
 5. Check which clusters are registered in __"Customers Cluster"__;
 
-![EN - 7GcSb6BuF6JKnmGAggO3uA](//images.ctfassets.net/alneenqid6w5/5dIEGqj1MTmtqOvWdIJFh5/0a0656ee4a3c8f7ac084d438c7cdf82d/Cluster-promo-EN.png)
+![EN - 7GcSb6BuF6JKnmGAggO3uA](https://images.ctfassets.net/alneenqid6w5/5dIEGqj1MTmtqOvWdIJFh5/0a0656ee4a3c8f7ac084d438c7cdf82d/Cluster-promo-EN.png)
 
 6. Enter the "new data";
 7. Click __Save__;

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 
 slug: master-data-allows-searches-using-geo-coordinates
+locale: en
 legacySlug: 
 announcementImageID: ''
 announcementSynopsisEN: ' New feature (in beta) enables the use of filters and the ability to organize files based on their geographic position.'

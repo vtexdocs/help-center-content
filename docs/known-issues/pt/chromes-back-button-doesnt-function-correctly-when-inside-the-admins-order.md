@@ -11,6 +11,7 @@ productTeam: VTEX IO
 author: 3aBBTLS9ZKO6IcY0Goe2y2
 tag: VTEX IO,OMS
 slug: botao-de-voltar-do-chrome-nao-funciona-corretamente-no-modulo-de
+locale: pt
 kiStatus: Open
 internalReference: 
 ---

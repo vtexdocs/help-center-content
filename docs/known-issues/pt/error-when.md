@@ -11,6 +11,7 @@ productTeam: Master Data
 author: 
 tag: 
 slug: erro-de-loop-infinito-ao-efetuar-login-no-masterdata
+locale: pt
 kiStatus: 
 internalReference: 
 ---

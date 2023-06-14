@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: seguranca-nas-suas-promocoes-revise-suas-configuracoes-antes-de-ativa-las
+locale: pt
 legacySlug: seguranca-nas-suas-promocoes
 announcementImageID: ''
 announcementSynopsisPT: 'O resumo da promoção permite revisar as informações de uma promoção antes de ativá-la e evitar erros na configuração'

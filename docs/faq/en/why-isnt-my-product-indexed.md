@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: why-isnt-my-product-indexed
+locale: en
 legacySlug: why-isnt-my-product-indexed
 ---
 

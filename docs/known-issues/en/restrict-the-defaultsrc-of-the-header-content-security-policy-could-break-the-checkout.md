@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: restrict-the-defaultsrc-of-the-header-content-security-policy-could-break-the-checkout
+locale: en
 kiStatus: Backlog
 internalReference: 763359
 ---

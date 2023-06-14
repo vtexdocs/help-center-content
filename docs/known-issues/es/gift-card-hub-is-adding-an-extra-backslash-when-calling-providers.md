@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: gift-card-hub-esta-anadiendo-una-barra-invertida-extra-al-llamar-a-los-proveedores
+locale: es
 kiStatus: Backlog
 internalReference: 669575
 ---

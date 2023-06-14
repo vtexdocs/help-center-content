@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: brand-registration-fields
+locale: en
 legacySlug: brand-registration-fields
 subcategory: fUHfjTEwyOcIQuyeUsIIu
 ---

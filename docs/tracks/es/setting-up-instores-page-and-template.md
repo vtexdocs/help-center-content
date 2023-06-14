@@ -9,6 +9,7 @@ firstPublishedAt: 2018-03-15T21:30:04.098Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configurar-el-template-y-la-pagina-del-instore
+locale: es
 trackId: 
 trackSlugES: 
 ---

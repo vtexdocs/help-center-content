@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: no-se-pueden-descargar-los-precios-importando-los-resultados
+locale: es
 kiStatus: Backlog
 internalReference: 579906
 ---

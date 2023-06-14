@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: obter-a-lista-de-ofertas-combinadas-api-nao-funciona-corretamente
+locale: pt
 kiStatus: Backlog
 internalReference: 553456
 ---

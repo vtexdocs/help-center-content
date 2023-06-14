@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: como-configurar-el-zoom
+locale: es
 legacySlug: como-configurar-el-zoom
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
@@ -18,7 +19,7 @@ Un recurso muy común en tiendas online es el zoom.
 
 Esto permite ver detalles de una imagen cuando el cliente va pasando el mouse sobre las fotos de un producto. Vamos a ver cómo configurar e implementar esta funcionalidad.
 
-![zoom-configurações](//images.ctfassets.net/alneenqid6w5/2syaIncF2UeOw0YgOcOSIq/02d931bb81ef413ad248f21e518fbd24/zoom.png)
+![zoom-configurações](https://images.ctfassets.net/alneenqid6w5/2syaIncF2UeOw0YgOcOSIq/02d931bb81ef413ad248f21e518fbd24/zoom.png)
 
 ## Configurando el CSS
 
@@ -32,7 +33,7 @@ Abajo reproducimos un trecho de CSS que puede usar como punto de partida para es
 
 Luego, vamos a enviar el archivo CSS grabado al servidor. Para eso, haga clic en el módulo de *CMS* > **Layout** > Haga click en la carpeta **CMS** > **Files Manager** > Haga click en **.css** > En la ventana que se despliega a la derecha, haga clic en el botón **Add**.
 
-![add-cms-.css ](//images.ctfassets.net/alneenqid6w5/ZXAryRqp4AAosaKM2qmQa/40058a1db81bde2207c60158c682b667/add_.css.png)
+![add-cms-.css ](https://images.ctfassets.net/alneenqid6w5/ZXAryRqp4AAosaKM2qmQa/40058a1db81bde2207c60158c682b667/add_.css.png)
 
 Luego, localice el archivo CSS grabado arriba y envíelo al servidor haciendo clic en el botón **Localizar** y luego en el botón **Salvar arquivo** ("salvar archivo").
 
@@ -51,4 +52,4 @@ Ahora sólo hay que insertar `zoom="on"` en la tag del producto. Como se ve abaj
 
 Usted debe también configurar el tamaño estándar de la imagen de zoom. Puede definir eso en el módulo de **CMS** > **Configuraciones** > **Tipos de archivos**. Como estándar, ese tipo de imagen de zoom ya viene configurada con 1000×1000 pixels.
 
-![zoom-tiposdearquivos ES](//images.ctfassets.net/alneenqid6w5/4Re3BTK1hSSMOQcsWwQy8k/0eea4e4c0e26855df5a1e5346fff421f/zoom_tipo_de_archivos.png)
+![zoom-tiposdearquivos ES](https://images.ctfassets.net/alneenqid6w5/4Re3BTK1hSSMOQcsWwQy8k/0eea4e4c0e26855df5a1e5346fff421f/zoom_tipo_de_archivos.png)

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 523NSmHfn2IKEoiy2Q44YS
 slug: como-cambiar-la-relacion-entre-sku-y-producto
+locale: es
 legacySlug: como-cambiar-la-relacion-sku-x-product, como-cambiar-la-relacion-entre-sku-y-producto
 subcategory: pwxWmUu7T222QyuGogs68
 ---

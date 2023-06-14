@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: calidad-de-anuncios
+locale: es
 legacySlug: calidad-de-anuncios
 subcategory: 4hU8QWlzhxWg711Kz7Gmib
 ---
@@ -20,7 +21,7 @@ Es importante para la operación del marketplace que haya criterios de calidad p
 
 **Calidad de anuncios** es la página donde los marketplaces registran y gestionan los grupos de requisitos aplicados al proceso de catalogación de SKU recibidos. Para accederla, en su VTEX Admin, haz clic en **Marketplace > Calidad de anuncios**, o escriba __"Calidad del anuncio"__ en la barra de búsqueda.
 
-![ES offer quality](//images.ctfassets.net/alneenqid6w5/7GL1AaqkfQqjLCj262wg04/890bb24504e8f6b809cd318fb85ed53a/ES_offer_quality.png)
+![ES offer quality](https://images.ctfassets.net/alneenqid6w5/7GL1AaqkfQqjLCj262wg04/890bb24504e8f6b809cd318fb85ed53a/ES_offer_quality.png)
 
 Con este tutorial, sepa cómo:
 
@@ -45,7 +46,7 @@ La funcionalidad permite que el operador del marketplace pueda realizar una seri
 | Aportar más transparencia a los criterios de catalogación de anuncios recibidos y a la medida en que los sellers y anuncios los cumplen.                                                            | Permite identificar los sellers y los tipos de anuncios que no cumplen los requisitos, lo que acelera la corrección de problemas.                 |
 
 ## Ver "Default requirements" 
-![ESDefault requirements](//images.ctfassets.net/alneenqid6w5/6OxPTO8QO6o9zZ8kTt5tVG/b86fb58a9c6b454c31fb0bf0829adf4f/ESDefault_requirements.png)
+![ESDefault requirements](https://images.ctfassets.net/alneenqid6w5/6OxPTO8QO6o9zZ8kTt5tVG/b86fb58a9c6b454c31fb0bf0829adf4f/ESDefault_requirements.png)
 
 La página estándar tiene algunos requisitos preestablecidos que se aplicarán a todas las categorías, sellers y marcas, conocidas como «Default requirements». Algunos de estos criterios se configuran de forma nativa en [VTEX Matcher](https://help.vtex.com/es/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424), la herramienta aplicada a los marketplaces VTEX para ayudar en el proceso de catalogación de los anuncios recibidos.
 

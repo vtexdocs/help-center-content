@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: informacoes-de-categoria-de-produto-da-datalayer-com-uma-classificacao-errada
+locale: pt
 kiStatus: Fixed
 internalReference: 328415
 ---

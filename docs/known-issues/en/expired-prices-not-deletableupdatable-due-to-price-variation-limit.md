@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: expired-prices-not-deletableupdatable-due-to-price-variation-limit
+locale: en
 kiStatus: Backlog
 internalReference: 325695
 ---

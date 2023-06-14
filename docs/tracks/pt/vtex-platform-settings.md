@@ -9,6 +9,7 @@ firstPublishedAt: 2019-02-28T23:11:20.994Z
 contentType: trackArticle
 productTeam: Channels
 slug: configuracoes-na-plataforma-vtex
+locale: pt
 trackId: 6sgd4Pagy3wNsWKBvmIFrP
 trackSlugPT: integracao-com-a-amazon
 ---

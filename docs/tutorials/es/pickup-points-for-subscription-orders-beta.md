@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: puntos-de-recogida-para-pedidos-de-suscripcion-beta
+locale: es
 legacySlug: puntos-de-recogida-para-pedidos-de-suscripcion-beta
 subcategory: 3RmFd9bgAeRAVGeBd7XDUr
 ---
@@ -44,7 +45,7 @@ Para habilitar los puntos de recogida para los pedidos de suscripción, se deben
 
 El cliente final puede elegir los puntos de recogida para ítems de un pedido de suscripción cuando realiza el _checkout_, como se muestra en la siguiente imagen.
 
-![subscriptionspickup ES](//images.ctfassets.net/alneenqid6w5/6qqc7DV4Wk6yRWvsdiWNCP/0be6afd36b5bb8966096600810768bbe/subscriptionspickup_ES.gif)
+![subscriptionspickup ES](https://images.ctfassets.net/alneenqid6w5/6qqc7DV4Wk6yRWvsdiWNCP/0be6afd36b5bb8966096600810768bbe/subscriptionspickup_ES.gif)
 
 También puede asignar puntos de recogida al [crear nuevas suscripciones](https://developers.vtex.com/vtex-rest-api/reference/subscriptions-1#post_api-rns-pub-subscriptions) a través de la [API de Subscriptions](https://developers.vtex.com/vtex-rest-api/reference/subscriptions-1). En el caso de las suscripciones existentes, puede modificar la dirección de entrega a través de la [ruta de actualización de suscripciones de la API de Subscriptions](https://developers.vtex.com/vtex-rest-api/reference/subscriptions-1#patch_api-rns-pub-subscriptions-id) para empezar a utilizar un punto de recogida.
 

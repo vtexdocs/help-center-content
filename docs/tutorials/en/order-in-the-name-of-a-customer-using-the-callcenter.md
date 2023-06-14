@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_84
 slug: order-in-the-name-of-a-customer-using-the-callcenter
+locale: en
 legacySlug: order-in-the-name-of-a-customer-using-the-callcenter
 subcategory: 1HSqkejwuYcQSMC400uY84
 ---

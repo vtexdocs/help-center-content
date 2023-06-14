@@ -11,6 +11,7 @@ productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
 slug: el-boton-atras-no-aparece-en-mi-organizacion
+locale: es
 kiStatus: Fixed
 internalReference: 797003
 ---

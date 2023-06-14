@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: campos-de-texto-de-dimension-no-seleccionados-durante-la-creacion-de-sku
+locale: es
 kiStatus: Backlog
 internalReference: 786048
 ---

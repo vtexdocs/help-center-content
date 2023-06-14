@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: analyze-a-products-reservations
+locale: en
 legacySlug: analyze-a-products-reservations
 subcategory: 3PQwnyOcNyYgawy06oe6gE
 ---

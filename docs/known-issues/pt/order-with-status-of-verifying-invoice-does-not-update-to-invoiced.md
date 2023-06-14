@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: pedido-com-status-de-verificacao-de-fatura-nao-e-atualizado-para-faturacao
+locale: pt
 kiStatus: Backlog
 internalReference: 500245
 ---

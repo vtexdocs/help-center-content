@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: lojas-vtex-agora-tem-compactacao-automatica-de-imagens-para-webp
+locale: pt
 legacySlug: lojas-vtex-agora-tem-compactacao-automatica-de-imagens-para-webp
 announcementImageID: ''
 announcementSynopsisPT: 'Lojas VTEX agora contam com compactação automática de imagens para WebP'

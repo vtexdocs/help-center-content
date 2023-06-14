@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: authors_24
 slug: menos-carritos-abandonados-con-la-nueva-heuristica-del-checkout
+locale: es
 legacySlug: menos-carritos-abandonados-con-la-nueva-heuristica-del-checkout
 announcementImageID: ''
 announcementSynopsisES: 'Cambiamos la lógica para el orden de sellers en las cuentas franquicia, reduciendo así los carritos abandonados.'

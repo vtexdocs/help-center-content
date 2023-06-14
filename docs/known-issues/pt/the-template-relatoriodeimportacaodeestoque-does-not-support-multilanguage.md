@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: o-modelo-relatoriodeimportacaodeestoque-nao-suporta-multilinguagem
+locale: pt
 kiStatus: Backlog
 internalReference: 585906
 ---

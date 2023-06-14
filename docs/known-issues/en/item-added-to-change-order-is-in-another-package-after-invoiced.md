@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: item-added-to-change-order-is-in-another-package-after-invoiced
+locale: en
 kiStatus: Backlog
 internalReference: 412526
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: xml-url-on-the-admin-showing-wrong-link
+locale: en
 kiStatus: Backlog
 internalReference: 407528
 ---

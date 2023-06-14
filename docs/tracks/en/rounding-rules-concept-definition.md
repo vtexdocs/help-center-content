@@ -9,6 +9,7 @@ firstPublishedAt: 2019-07-17T19:47:01.156Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: rounding-rules-concept-definition
+locale: en
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugEN: prices-101
 ---

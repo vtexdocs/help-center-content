@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_59
 slug: visa-checkout-orders-do-not-appear-in-my-orders-section
+locale: en
 legacySlug: visa-checkout-orders-do-not-appear-in-my-orders-section
 ---
 

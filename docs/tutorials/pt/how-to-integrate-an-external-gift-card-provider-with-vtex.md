@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: como-integrar-um-provedor-de-gift-card-externo-a-vtex
+locale: pt
 legacySlug: integrando-com-gift-card
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

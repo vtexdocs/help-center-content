@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: title-de-faixa-de-preco-forca-moeda-real
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

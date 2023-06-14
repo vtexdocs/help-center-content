@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: o-parametro-isavailablepersaleschannel-nao-funciona-como-esperado-na-api-de-pesquisa
+locale: pt
 kiStatus: Backlog
 internalReference: 656284
 ---

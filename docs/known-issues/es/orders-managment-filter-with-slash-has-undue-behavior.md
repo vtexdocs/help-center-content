@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_41
 tag: Order Management
 slug: filtro-gestion-de-pedidos-con-barra-tiene-comportamiento-indebido
+locale: es
 kiStatus: Fixed
 internalReference: 
 ---

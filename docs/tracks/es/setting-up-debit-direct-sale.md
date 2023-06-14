@@ -9,6 +9,7 @@ firstPublishedAt: 2021-09-27T20:31:12.586Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configuracion-de-venta-directa-debito
+locale: es
 trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugES: instore-pagos
 ---

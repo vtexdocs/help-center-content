@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_3
 slug: configurando-indice-no-master-data
+locale: pt
 legacySlug: configurando-indice-no-master-data
 subcategory: WpbGhubuRZaNZilJSXnqu
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2018-03-19T17:36:15.472Z
 contentType: trackArticle
 productTeam: Shopping
 slug: cadastrar-os-precos-dos-produtos-no-instore
+locale: pt
 trackId: 
 trackSlugPT: 
 ---

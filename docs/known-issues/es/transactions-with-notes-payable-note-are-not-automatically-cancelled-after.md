@@ -11,6 +11,7 @@ productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 tag: Payments
 slug: las-transacciones-con-pagare-no-se-cancelan-automaticamente-al-expirar-la
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: error-when-trying-to-open-my-cards
+locale: en
 kiStatus: Backlog
 internalReference: 370706
 ---

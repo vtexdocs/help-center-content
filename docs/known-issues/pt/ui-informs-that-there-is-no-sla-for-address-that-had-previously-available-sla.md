@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: ui-informs-that-there-is-no-sla-for-address-that-had-previously-available-sla
+locale: pt
 kiStatus: Fixed
 internalReference: 585249
 ---

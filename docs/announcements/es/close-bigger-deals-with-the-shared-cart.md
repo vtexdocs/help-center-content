@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 245tA425AIeioKAk2eaiwS
 slug: haga-ventas-mas-grandes-con-el-carrito-compartido
+locale: es
 legacySlug: haga-ventas-mas-grandes-con-el-carrito-compartido
 announcementImageID: ''
 announcementSynopsisES: 'El carrito compartido ya está disponible para todas las tiendas, permitiendo que más de un cliente interactúe con él.'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: gestionar-items-en-inventario
+locale: es
 legacySlug: gestionar-items-en-inventario
 subcategory: 3PQwnyOcNyYgawy06oe6gE
 ---

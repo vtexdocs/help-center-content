@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 6AcGyun1hSWewU8YcaQiO
 slug: provide-your-customers-with-a-better-self-service-experience-with-the-new-my-account
+locale: en
 legacySlug: provide-your-customers-with-a-better-self-service-experience-with-the-new-my-account
 announcementImageID: ''
 announcementSynopsisEN: 'All orders and personal data managed from a single place.'

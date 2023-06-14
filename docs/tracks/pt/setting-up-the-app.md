@@ -9,6 +9,7 @@ firstPublishedAt: 2018-11-07T17:23:16.520Z
 contentType: trackArticle
 productTeam: Financial
 slug: configurando-a-app
+locale: pt
 trackId: 1hCRg21lXYy2seOKgqQ2CC
 trackSlugPT: customer-credit-como-comecar
 ---

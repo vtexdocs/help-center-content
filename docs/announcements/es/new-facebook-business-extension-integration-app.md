@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: nueva-aplicacion-de-integracion-con-facebook-business-extension
+locale: es
 legacySlug: 
 announcementImageID: ''
 announcementSynopsisES: 'VTEX ha desarrollado una nueva aplicación para que integres tu tienda con Facebook Business Extension (FBE).'

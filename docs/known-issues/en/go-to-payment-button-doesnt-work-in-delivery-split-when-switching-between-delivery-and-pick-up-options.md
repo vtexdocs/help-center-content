@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: go-to-payment-button-doesnt-work-in-delivery-split-when-switching-between-delivery-and-pick-up-options
+locale: en
 kiStatus: Backlog
 internalReference: 756587
 ---

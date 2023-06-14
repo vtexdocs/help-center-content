@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-gateway-decidirv1-1
+locale: pt
 legacySlug: configurar-gateway-decidirv1-1
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

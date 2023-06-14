@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: como-funciona-o-fluxo-de-liquidacao-agendada-para-compras-realizadas-com-duas
+locale: pt
 legacySlug: como-funciona-o-fluxo-de-captura-agendada-para-compras-realizadas-com-duas
 ---
 

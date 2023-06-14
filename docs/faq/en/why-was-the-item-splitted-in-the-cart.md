@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_84
 slug: why-was-the-item-splitted-in-the-cart
+locale: en
 legacySlug: why-was-the-item-splitted-in-the-cart
 ---
 

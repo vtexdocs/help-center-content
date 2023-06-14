@@ -9,6 +9,7 @@ firstPublishedAt: 2018-10-30T23:00:53.240Z
 contentType: trackArticle
 productTeam: Channels
 slug: setting-up-a-smart-campaign
+locale: en
 trackId: 47kz5PRQPK0IEaqGqiIuA
 trackSlugEN: how-to-campaign-through-google-ads
 ---

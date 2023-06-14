@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: ui-fails-to-change-state-between-delivery-and-collection-correctly
+locale: en
 kiStatus: Backlog
 internalReference: 526736
 ---

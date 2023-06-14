@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: armazem-api-demonstra-o-ponto-de-retirada-eliminado-instore-warehouse
+locale: pt
 kiStatus: Fixed
 internalReference: 573017
 ---

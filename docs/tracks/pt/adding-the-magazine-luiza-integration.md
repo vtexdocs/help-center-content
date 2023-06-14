@@ -9,6 +9,7 @@ firstPublishedAt: 2018-11-06T02:08:03.031Z
 contentType: trackArticle
 productTeam: Channels
 slug: cadastro-da-integracao-da-magazine-luiza
+locale: pt
 trackId: 5Yx5IrNa7Y48c6aSC8wu2Y
 trackSlugPT: configurar-integracao-com-o-magazine-luiza
 ---

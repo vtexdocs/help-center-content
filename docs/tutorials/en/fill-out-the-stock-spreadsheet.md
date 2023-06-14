@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: fill-out-the-stock-spreadsheet
+locale: en
 legacySlug: fill-out-the-stock-spreadsheet
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

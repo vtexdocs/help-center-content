@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-el-gateway-payzen
+locale: es
 legacySlug: configurar-el-gateway-payzen
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

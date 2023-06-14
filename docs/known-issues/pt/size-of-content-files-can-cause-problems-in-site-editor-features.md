@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: o-tamanho-dos-arquivos-de-conteudo-pode-causar-problemas-nas-caracteristicas-do-editor-do-site
+locale: pt
 kiStatus: Backlog
 internalReference: 715480
 ---

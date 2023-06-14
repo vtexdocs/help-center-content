@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: los-pedidos-con-articulos-en-la-matriz-marketplaceitems-no-se-abren-en-la-nueva-ui-admin
+locale: es
 kiStatus: Backlog
 internalReference: 656821
 ---

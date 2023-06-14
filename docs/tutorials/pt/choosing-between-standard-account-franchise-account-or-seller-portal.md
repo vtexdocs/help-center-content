@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: escolher-entre-conta-padrao-conta-franquia-ou-seller-portal
+locale: pt
 legacySlug: escolher-entre-conta-padrao-conta-franquia-ou-seller-portal
 subcategory: 5tlIjp0ZkAU4EIk4OgyEmm
 ---

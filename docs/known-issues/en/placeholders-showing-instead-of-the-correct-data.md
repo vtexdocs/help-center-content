@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: placeholders-showing-instead-of-the-correct-data
+locale: en
 kiStatus: Backlog
 internalReference: 371183
 ---

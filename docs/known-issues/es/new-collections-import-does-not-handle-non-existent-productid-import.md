@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-importacion-de-nuevas-colecciones-no-maneja-la-importacion-de-un-productid-no-existente
+locale: es
 kiStatus: Backlog
 internalReference: 398602
 ---

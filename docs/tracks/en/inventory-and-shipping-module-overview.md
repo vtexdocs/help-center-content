@@ -9,6 +9,7 @@ firstPublishedAt: 2019-08-13T15:21:19.620Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: inventory-and-shipping-module-overview
+locale: en
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101
 ---
@@ -21,7 +22,7 @@ The __Inventory and Shipping__ module is the service responsible for your store'
 
 The logistics system has several useful functionalities. These *features* allow you to come up with a shipping and inventory strategy tailored to your business. In this track's next steps, we'll have a closer look at each one of the functionalities highlighted below. In your store's admin, you'll come across the following sections: 
 
-![inventory-shipping-admin-en](//images.ctfassets.net/alneenqid6w5/1nycgD4T0mrDjbvXG9FL6u/989a48356d35c559a958073f96cc77a0/inventory-shipping-admin-en.png)
+![inventory-shipping-admin-en](https://images.ctfassets.net/alneenqid6w5/1nycgD4T0mrDjbvXG9FL6u/989a48356d35c559a958073f96cc77a0/inventory-shipping-admin-en.png)
 
 __Shipping strategy__ (Dashboard) - This section allows you to add logistics routes used for order shipping. A basic route consists of a __warehouse__,  a __loading dock__ and a __shipping policy__ (carrier).
 

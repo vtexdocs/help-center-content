@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: configurar-claves-alternativas
+locale: es
 legacySlug: configurar-claves-alternativas
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

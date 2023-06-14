@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:38:37.451Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: incluir-variaveis-do-pedido-no-template-de-e-mail
+locale: pt
 trackId: 6IkJwttMw5T84mlY9RifRP
 trackSlugPT: e-mails-transacionais
 ---

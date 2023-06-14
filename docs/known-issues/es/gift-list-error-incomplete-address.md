@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: error-en-la-lista-de-regalos-direccion-incompleta
+locale: es
 kiStatus: Backlog
 internalReference: 313576
 ---

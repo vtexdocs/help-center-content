@@ -9,6 +9,7 @@ firstPublishedAt: 2022-01-04T19:14:43.796Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-regla-de-divergencia-de-precios
+locale: es
 trackId: 6w07SJBVqE020KIOOS8ygk
 trackSlugES: configurar-integracion-b2w
 ---

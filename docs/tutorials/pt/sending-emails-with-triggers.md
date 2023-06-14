@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_64
 slug: enviar-emails-com-triggers-no-master-data
+locale: pt
 legacySlug: enviar-emails-com-triggers-no-master-data
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

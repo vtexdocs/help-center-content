@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: promocao-regular
+locale: pt
 legacySlug: promocao-regular
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---
@@ -89,7 +90,7 @@ Para que a promoção seja válida para todas as políticas comerciais, deixe a 
 
 Nesta seção, você precisa escolher se a promoção será aplicada a todos os produtos cadastrados na sua loja ou apenas a produtos específicos, conforme ilustrado abaixo.
 
-![promocoes-restricao-pt](//images.ctfassets.net/alneenqid6w5/55xxIduLJDJrwQMuk4OgRu/359155bac11f7ac88a4d12a041cf8b96/image.png)
+![promocoes-restricao-pt](https://images.ctfassets.net/alneenqid6w5/55xxIduLJDJrwQMuk4OgRu/359155bac11f7ac88a4d12a041cf8b96/image.png)
 
 Caso deseje aplicar a promoção a todo o seu catálogo, selecione a opção **Aplicar a todos os produtos**.
 
@@ -99,7 +100,7 @@ Você pode incluir ou excluir **Categorias**, **Marcas**, **Coleções**, **Prod
 
 Veja um exemplo de preenchimento abaixo. Nesse caso, participam da promoção todos os produtos da categoria **Vestido** cuja marca é **Farm**, com a exceção do produto **Vestido Rosas**.
 
-![exemplo-pt](//images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/6c40e996aece6e87b82b0bc71a50f3e5/image.png)
+![exemplo-pt](https://images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/6c40e996aece6e87b82b0bc71a50f3e5/image.png)
 
 Nos campos **Produtos** e **SKUs**, existe a opção de fazer o upload de um arquivo **.txt** com um ID de produto ou de SKU por linha, em vez de selecionar um produto ou um SKU de cada vez. Para isso, você precisa clicar em **Escolher arquivo** e selecionar o arquivo **.txt** desejado.
 

@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: sugerencias-transformar-unitmultiplier-menor-que-1-a-0
+locale: es
 kiStatus: Fixed
 internalReference: 702056
 ---

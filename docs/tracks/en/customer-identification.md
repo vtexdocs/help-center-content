@@ -9,6 +9,7 @@ firstPublishedAt: 2021-08-05T14:45:44.463Z
 contentType: trackArticle
 productTeam: Shopping
 slug: customer-identification
+locale: en
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: instore-using-the-app
 ---
@@ -26,7 +27,7 @@ You can [configure which identification methods you want to enable](https://deve
 
 In the example image below, Email and CPF are enabled.
 
-![31. VTEX Sales App - Product Overview - 2 - EN](//images.ctfassets.net/alneenqid6w5/2YKc9S2FehS7eA2zTskL33/99343004a1e70a756f043ea293d5cd24/identify-customer-en.PNG)
+![31. VTEX Sales App - Product Overview - 2 - EN](https://images.ctfassets.net/alneenqid6w5/2YKc9S2FehS7eA2zTskL33/99343004a1e70a756f043ea293d5cd24/identify-customer-en.PNG)
 
 Just enter one of these data in the field and click on the `Confirm` button.
 

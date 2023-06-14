@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: estrategia-de-envio
+locale: pt
 legacySlug: estrategia-de-envio, qual-a-diferenca-entre-estoque-e-doca
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: boton-de-guardar-desactivado-al-modificar-los-sinonimos-de-busqueda-importados
+locale: es
 kiStatus: Backlog
 internalReference: 508893
 ---

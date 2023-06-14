@@ -11,6 +11,7 @@ productTeam: Other
 author: 2Gy429C47ie3tL9XUEjeFL
 tag: Checkout
 slug: error-when-validating-mexican-corporate-document-at-checkout
+locale: en
 kiStatus: Backlog
 internalReference: 425486 
 ---

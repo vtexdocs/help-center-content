@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_3
 slug: por-que-aparece-mensagem-the-timespan-could-not-be-parsed
+locale: pt
 legacySlug: por-que-aparece-mensagem-the-timespan-could-not-be-parsed
 ---
 

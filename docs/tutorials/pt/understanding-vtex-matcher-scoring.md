@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 245tA425AIeioKAk2eaiwS
 slug: entendendo-a-pontuacao-do-vtex-matcher
+locale: pt
 legacySlug: entendendo-a-pontuacao-do-vtex-matcher
 subcategory: znvlXLHC80EKkugQaiMI4
 ---

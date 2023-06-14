@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_84
 slug: como-recuperar-la-contrasena
+locale: es
 legacySlug: como-recuperar-la-contrasena
 subcategory: 63DHe3VQEEE6Uuua8gIs2M
 ---

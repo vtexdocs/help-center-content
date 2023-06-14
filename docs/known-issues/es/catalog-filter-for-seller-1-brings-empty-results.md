@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: catalogo-filtro-para-vendedor-1-trae-resultados-vacios
+locale: es
 kiStatus: Backlog
 internalReference: 801538
 ---

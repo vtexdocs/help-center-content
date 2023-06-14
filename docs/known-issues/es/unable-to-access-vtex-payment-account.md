@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: no-se-puede-acceder-a-la-cuenta-de-pago-vtex
+locale: es
 kiStatus: Backlog
 internalReference: 550244
 ---

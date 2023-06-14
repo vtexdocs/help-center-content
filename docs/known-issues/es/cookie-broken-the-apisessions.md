@@ -11,6 +11,7 @@ productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
 slug: cookie-rota-la-apisesiones
+locale: es
 kiStatus: Backlog
 internalReference: 779014
 ---

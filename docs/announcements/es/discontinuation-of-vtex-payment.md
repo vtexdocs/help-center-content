@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 slug: suspension-de-vtex-payment
+locale: es
 legacySlug: suspension-de-vtex-payment
 announcementImageID: ''
 announcementSynopsisES: 'Suspensión de VTEX Payment'

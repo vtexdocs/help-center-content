@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: erro-ao-incluir-muitos-filtros-na-lista-de-pedidos
+locale: pt
 kiStatus: Fixed
 internalReference: 347932
 ---

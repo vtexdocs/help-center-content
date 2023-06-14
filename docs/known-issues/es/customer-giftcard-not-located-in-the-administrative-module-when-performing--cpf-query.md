@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_31
 tag: Portal (CMS),Payments
 slug: voucher-giftcard-de-cliente-no-localizado-en-el-modulo-administrativo-al-realizar-consulta-por-cpf
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

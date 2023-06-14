@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_31
 slug: why-vtex-search-engine-ignores-some-terms
+locale: en
 legacySlug: why-vtex-search-engine-ignores-some-terms
 ---
 

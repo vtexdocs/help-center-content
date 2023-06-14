@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: por-que-o-pedido-esta-no-status-verificando-fatura
+locale: pt
 legacySlug: por-que-o-pedido-esta-no-status-verificando-fatura
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

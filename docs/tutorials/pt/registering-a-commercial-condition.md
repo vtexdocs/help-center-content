@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: como-cadastrar-condicao-comercial
+locale: pt
 legacySlug: como-cadastrar-condicao-comercial
 subcategory: 6312YEqn0AGYCsOOESSIQM
 ---

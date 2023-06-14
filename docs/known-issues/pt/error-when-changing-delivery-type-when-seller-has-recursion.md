@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: erro-ao-mudar-o-tipo-de-entrega-quando-o-vendedor-tem-recorrencia
+locale: pt
 kiStatus: Backlog
 internalReference: 597915
 ---

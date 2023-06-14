@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: tabla-de-estados-de-pedidos-oms
+locale: es
 legacySlug: de-para-el-estado-de-las-solicitudes
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

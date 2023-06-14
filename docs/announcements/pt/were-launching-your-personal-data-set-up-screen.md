@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_59
 slug: lancamos-a-tela-de-configuracao-dos-seus-dados-pessoais
+locale: pt
 legacySlug: lancamos-a-tela-de-configuracao-dos-seus-dados-pessoais
 announcementImageID: ''
 announcementSynopsisPT: 'Ficou mais fácil editar suas configurações pessoais de acesso ao Admin VTEX'

@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: order-approved-in-the-marketplace-but-not-integrated-into-vtex
+locale: en
 kiStatus: Backlog
 internalReference: 547809
 ---

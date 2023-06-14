@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: publicacao-meli-no-mercado-libre-e-pausada-quando-uma-sku-e-inativada
+locale: pt
 kiStatus: Backlog
 internalReference: 557293
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: qual-o-periodo-considerado-para-a-apuracao-da-cobranca-da-minha-loja
+locale: pt
 legacySlug: qual-o-periodo-considerado-para-a-apuracao-da-cobranca-da-minha-loja
 subcategory: 5ZfsNR4ioEsIyu6wkyce0M
 ---

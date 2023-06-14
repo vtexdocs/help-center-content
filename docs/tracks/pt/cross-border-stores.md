@@ -9,6 +9,7 @@ firstPublishedAt: 2022-05-25T19:17:08.283Z
 contentType: trackArticle
 productTeam: VTEX IO
 slug: lojas-internacionais-cross-border
+locale: pt
 trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugPT: cms
 ---

@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: los-clics-en-el-numericstepper-no-funcionan
+locale: es
 kiStatus: Backlog
 internalReference: 537245
 ---

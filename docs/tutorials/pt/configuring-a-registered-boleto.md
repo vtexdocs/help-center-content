@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_3
 slug: como-configurar-boleto-registrado
+locale: pt
 legacySlug: como-configurar-boleto-registrado
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

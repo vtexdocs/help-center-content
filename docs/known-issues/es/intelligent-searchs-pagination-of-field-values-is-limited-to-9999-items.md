@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: la-paginacion-de-los-valores-de-los-campos-de-la-busqueda-inteligente-esta-limitada-a-9999-elementos
+locale: es
 kiStatus: Backlog
 internalReference: 428486
 ---

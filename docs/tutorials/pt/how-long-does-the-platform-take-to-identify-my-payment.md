@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: quanto-tempo-a-plataforma-demora-para-identificar-meu-pagamento
+locale: pt
 legacySlug: quanto-tempo-a-plataforma-demora-para-identificar-meu-pagamento
 subcategory: 6SJnrkKDjGwSqKkMuQMOmm
 ---

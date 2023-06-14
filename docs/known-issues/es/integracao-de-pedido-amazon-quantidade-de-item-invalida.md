@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: integracion-de-pedidos-amazon-cantidad-de-articulos-no-valida
+locale: es
 kiStatus: Backlog
 internalReference: 385656
 ---

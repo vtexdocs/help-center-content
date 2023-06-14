@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: visualizacion-de-la-informacion-de-pedido
+locale: es
 legacySlug: visualizacion-de-la-informacion-de-pedido
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

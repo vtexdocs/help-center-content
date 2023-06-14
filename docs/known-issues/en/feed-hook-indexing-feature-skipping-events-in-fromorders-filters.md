@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: feed-hook-indexing-feature-skipping-events-in-fromorders-filters
+locale: en
 kiStatus: Backlog
 internalReference: 832400
 ---

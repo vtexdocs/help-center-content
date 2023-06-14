@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-o-gateway-vtex-b2w
+locale: pt
 legacySlug: configurar-o-gateway-vtex-b2w
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

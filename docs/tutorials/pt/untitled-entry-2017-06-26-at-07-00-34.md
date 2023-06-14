@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: 
 slug: tutorial-criando-a-entidade-de-dados-sku-no-master-data-com-json-schema
+locale: pt
 legacySlug: tutorial-criando-a-entidade-de-dados-sku-no-master-data-com-json-schema
 subcategory: 
 ---

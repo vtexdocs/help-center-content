@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: isvaluechangeable-field-limitations-for-transaction-with-minimumvalue-of-001
+locale: en
 kiStatus: Backlog
 internalReference: 825122
 ---

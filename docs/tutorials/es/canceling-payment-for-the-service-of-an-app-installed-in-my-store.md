@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_59
 slug: cancelar-el-pago-por-el-servicio-de-una-app-instalada-en-mi-tienda
+locale: es
 legacySlug: untitled-entry-2019-01-30-at-09-21-20
 subcategory: 3e2VLdLao8GGk4sAmMmwmi
 ---

@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: las-promociones-de-regalo-no-funcionan-como-se-esperaba-cuando-actuan-junto-a-otra-promocion-de-regalo
+locale: es
 kiStatus: Backlog
 internalReference: 729980
 ---

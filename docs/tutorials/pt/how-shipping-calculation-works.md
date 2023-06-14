@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-funciona-o-calculo-de-envio
+locale: pt
 legacySlug: como-funciona-a-regra-de-prioridade-no-calculo-do-frete, teste-legacy-slug
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

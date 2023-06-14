@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: como-verificar-propiedad-en-el-google-search-console-de-tienda-vtex
+locale: es
 legacySlug: como-verificar-propiedad-en-el-google-search-console-de-tienda-vtex
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

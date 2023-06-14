@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: o-preenchimento-do-catalogo-nao-aciona-uma-nova-indexacao-de-busca-inteligente
+locale: pt
 kiStatus: Fixed
 internalReference: 449763
 ---

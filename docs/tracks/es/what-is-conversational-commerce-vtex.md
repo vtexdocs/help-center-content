@@ -9,6 +9,7 @@ firstPublishedAt: 2022-08-23T17:46:55.444Z
 contentType: trackArticle
 productTeam: Shopping
 slug: que-es-el-comercio-conversacional-vtex
+locale: es
 trackId: 5UZ9BdvwwtZm2t9QTXcbZs
 trackSlugES: conversational-commerce
 ---

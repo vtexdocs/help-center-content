@@ -11,6 +11,7 @@ productTeam: Financial
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: campo-address-trae-valor-null-en-la-consulta-de-la-api-del-pagos
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: configurar-mercado-pago-offline-e-wallet-como-metodos-de-pagamentos
+locale: pt
 legacySlug: configurar-mercado-pago-offline-e-wallet-como-metodos-de-pagamentos
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

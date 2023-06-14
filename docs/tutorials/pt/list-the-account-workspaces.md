@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: listar-workspaces-da-conta
+locale: pt
 legacySlug: listar-workspaces-da-conta
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

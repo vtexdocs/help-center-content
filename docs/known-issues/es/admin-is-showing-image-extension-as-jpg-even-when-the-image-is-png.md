@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-administrador-muestra-la-extension-de-la-imagen-como-jpg-incluso-cuando-la-imagen-es-png
+locale: es
 kiStatus: Backlog
 internalReference: 516269
 ---

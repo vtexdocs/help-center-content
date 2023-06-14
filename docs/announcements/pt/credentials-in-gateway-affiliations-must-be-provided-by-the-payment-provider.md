@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 slug: credenciais-em-afiliacoes-de-gateway-devem-ser-obtidas-pelo-provedor-de
+locale: pt
 legacySlug: credenciais-em-afiliacoes-de-gateway-devem-ser-obtidas-pelo-provedor-de
 announcementImageID: ''
 announcementSynopsisPT: 'Credenciais em afiliações de gateway criadas pelo Admin devem ser substituídas até 31/10 por questões de segurança'

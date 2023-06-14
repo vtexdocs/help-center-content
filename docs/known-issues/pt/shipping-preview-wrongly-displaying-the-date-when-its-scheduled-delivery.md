@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: previsualizacao-de-embarque-exibindo-erroneamente-a-data-em-que-esta-programada-a-entrega
+locale: pt
 kiStatus: Backlog
 internalReference: 743774
 ---

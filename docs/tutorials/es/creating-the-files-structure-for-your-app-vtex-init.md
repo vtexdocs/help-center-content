@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: crear-la-estructura-de-archivos-de-su-app-vtex-init
+locale: es
 legacySlug: crear-la-estructura-de-archivos-de-su-app-vtex-init
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

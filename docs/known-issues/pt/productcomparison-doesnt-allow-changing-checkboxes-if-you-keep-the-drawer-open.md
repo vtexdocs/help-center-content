@@ -11,6 +11,7 @@ productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
 slug: a-comparacao-de-produtos-nao-permite-mudar-as-caixas-de-verificacao-se-voce-manter-a-gaveta-aberta
+locale: pt
 kiStatus: Backlog
 internalReference: 568409
 ---

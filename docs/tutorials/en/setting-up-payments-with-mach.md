@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: setting-up-payments-with-mach
+locale: en
 legacySlug: setting-up-payments-with-mach
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

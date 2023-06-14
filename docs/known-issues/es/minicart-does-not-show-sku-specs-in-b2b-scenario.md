@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: minicart-no-muestra-las-especificaciones-de-las-sku-en-el-escenario-b2b
+locale: es
 kiStatus: Backlog
 internalReference: 687308
 ---

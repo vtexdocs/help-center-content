@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: vista-previa-de-envio-muestra-erroneamente-el-precio-cuando-es-entrega-programada
+locale: es
 kiStatus: Backlog
 internalReference: 532487
 ---

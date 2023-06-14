@@ -11,6 +11,7 @@ productTeam: Channels
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Connections
 slug: atributos-de-publicaciones-en-mercadolibre-no-integrados
+locale: es
 kiStatus: Fixed
 internalReference: 
 ---

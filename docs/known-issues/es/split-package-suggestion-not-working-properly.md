@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: la-sugerencia-de-dividir-el-paquete-no-funciona-correctamente
+locale: es
 kiStatus: Backlog
 internalReference: 656810
 ---

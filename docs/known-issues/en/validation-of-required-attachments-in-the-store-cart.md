@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: validation-of-required-attachments-in-the-store-cart
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: os-filtros-de-busca-desaparecem-de-forma-intermitente
+locale: pt
 kiStatus: Backlog
 internalReference: 734221
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: vtex-tracking-partners
+locale: en
 legacySlug: vtex-tracking-partners
 subcategory: 7yiFRk9TGfMNeyhT83UljP
 ---

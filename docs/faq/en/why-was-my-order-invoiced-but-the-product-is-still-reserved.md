@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
 slug: why-was-my-order-invoiced-but-the-product-is-still-reserved
+locale: en
 legacySlug: why-was-my-order-invoiced-but-the-product-is-still-reserved
 ---
 

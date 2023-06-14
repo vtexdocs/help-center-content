@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: atualizacao-no-gerenciamento-de-inventario
+locale: pt
 legacySlug: atualizacao-no-gerenciamento-de-inventario
 announcementImageID: ''
 announcementSynopsisPT: '  A aba “Inventário” do Estoque & Entrega foi atualizada para “Gerenciar Inventário”, a interface também mudou.'

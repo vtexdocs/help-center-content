@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: a-interface-de-usuario-do-checkout-substitui-o-destinatario-da-remessa-quando-o-nome-e-diferente-dos-dados-do-perfil
+locale: pt
 kiStatus: Fixed
 internalReference: 822670
 ---

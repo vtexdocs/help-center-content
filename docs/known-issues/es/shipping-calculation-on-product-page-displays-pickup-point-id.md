@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: calculo-de-envio-en-la-pagina-de-producto-muestra-id-del-punto-de-retirada
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

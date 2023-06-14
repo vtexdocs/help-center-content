@@ -11,6 +11,7 @@ productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
 slug: volver-a-pedir-desde-el-historial-de-pedidos-b2b-no-funciona
+locale: es
 kiStatus: Backlog
 internalReference: 819920
 ---

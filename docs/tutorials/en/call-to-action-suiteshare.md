@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: call-to-action-suiteshare
+locale: en
 legacySlug: call-to-action
 subcategory: 4y4ylvqceE6vVqEF8IWZix
 ---

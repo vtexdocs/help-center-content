@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: classificar-pelo-nome-trabalhando-de-forma-diferente-em-lojas-integradas-antes-de-uma-data
+locale: pt
 kiStatus: Backlog
 internalReference: 600468
 ---

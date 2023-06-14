@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: como-alterar-a-logo-do-boleto
+locale: pt
 legacySlug: como-alterar-a-logo-do-boleto
 subcategory: yMp6sKDiJEi66CGAIQ4ma
 ---

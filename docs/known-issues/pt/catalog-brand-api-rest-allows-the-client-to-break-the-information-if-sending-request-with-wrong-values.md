@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: a-api-rest-da-marca-do-catalogo-permite-que-o-cliente-quebre-as-informacoes-se-enviar-uma-solicitacao-com-valores-errados
+locale: pt
 kiStatus: Fixed
 internalReference: 269109
 ---

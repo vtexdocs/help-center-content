@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: ativar-o-zoom-do-produto-no-template-de-pagina
+locale: pt
 legacySlug: ativar-o-zoom-do-produto-no-template-de-pagina
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: como-excluir-um-produto-da-loja
+locale: pt
 legacySlug: como-excluir-um-produto-da-loja
 subcategory: pwxWmUu7T222QyuGogs68
 ---

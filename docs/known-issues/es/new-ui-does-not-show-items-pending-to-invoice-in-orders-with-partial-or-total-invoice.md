@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: la-nueva-interfaz-de-usuario-no-muestra-los-articulos-pendientes-de-facturar-en-los-pedidos-con-factura-parcial-o-total
+locale: es
 kiStatus: Backlog
 internalReference: 646253
 ---

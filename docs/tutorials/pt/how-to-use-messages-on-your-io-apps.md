@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 3aBBTLS9ZKO6IcY0Goe2y2
 slug: como-usar-o-messages-em-apps-do-vtex-io
+locale: pt
 legacySlug: como-usar-o-messages-em-apps-do-vtex-io
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---

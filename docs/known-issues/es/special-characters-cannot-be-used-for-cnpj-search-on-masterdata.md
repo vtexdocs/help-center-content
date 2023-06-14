@@ -11,6 +11,7 @@ productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
 slug: los-caracteres-especiales-no-pueden-utilizarse-para-la-busqueda-de-cnpj-en-masterdata
+locale: es
 kiStatus: Backlog
 internalReference: 602054
 ---

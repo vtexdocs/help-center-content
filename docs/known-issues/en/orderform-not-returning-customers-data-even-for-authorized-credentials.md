@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: orderform-not-returning-customers-data-even-for-authorized-credentials
+locale: en
 kiStatus: Backlog
 internalReference: 582070
 ---

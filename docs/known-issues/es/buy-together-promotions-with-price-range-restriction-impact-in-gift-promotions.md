@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: las-promociones-buy-together-con-restriccion-de-rango-de-precios-repercuten-en-las-promociones-de-regalos
+locale: es
 kiStatus: Backlog
 internalReference: 676382
 ---

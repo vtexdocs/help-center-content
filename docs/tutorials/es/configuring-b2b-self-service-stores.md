@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: B2B
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: configurar-una-tienda-b2b-de-autoservicio
+locale: es
 legacySlug: configurar-una-tienda-b2b-de-autoservicio
 subcategory: 2LrbEY7MFeKqmdfYLBCnfi
 ---

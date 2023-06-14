@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: authors_35
 slug: que-hacer-cuando-el-cliente-no-logra-hacer-el-login
+locale: es
 legacySlug: que-hacer-cuando-el-cliente-no-logra-hacer-el-login
 ---
 

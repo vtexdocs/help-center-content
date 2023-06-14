@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: fazer-login-na-conta-da-loja-com-o-vtex-io
+locale: pt
 legacySlug: fazer-login-na-conta-da-loja-com-o-vtex-io
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

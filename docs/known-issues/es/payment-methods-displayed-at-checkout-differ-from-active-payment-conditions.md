@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: los-metodos-de-pago-mostrados-en-la-caja-difieren-de-las-condiciones-de-pago-activas
+locale: es
 kiStatus: Backlog
 internalReference: 666469
 ---

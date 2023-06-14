@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
 slug: why-has-my-order-stopped-on-ready-for-handling
+locale: en
 legacySlug: why-has-my-order-stopped-on-ready-for-handling
 ---
 

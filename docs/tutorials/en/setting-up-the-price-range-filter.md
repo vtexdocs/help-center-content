@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: setting-up-the-price-range-filter
+locale: en
 legacySlug: setting-up-the-price-range-filter
 subcategory: 1E7tziZCkY4w8i4EmUuwec
 ---
@@ -19,7 +20,7 @@ They are very important for browsing and searching products in the store.
 
 The registration is simple, and different price ranges may be determined for categories, as shown below:
 
-![faixa-de-preço en](//images.ctfassets.net/alneenqid6w5/1Xj5nkiiYgugKioamYQEs4/6aa1023fbcda148c33b73fa52890b1b7/faixa-de-pre__o_en.png)
+![faixa-de-preço en](https://images.ctfassets.net/alneenqid6w5/1Xj5nkiiYgugKioamYQEs4/6aa1023fbcda148c33b73fa52890b1b7/faixa-de-pre__o_en.png)
 
 In Price Ranges, click on “New Price Range” and fill in the fields below:
 

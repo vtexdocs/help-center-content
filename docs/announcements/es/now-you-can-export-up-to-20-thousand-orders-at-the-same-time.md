@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: authors_24
 slug: ahora-es-posible-exportar-hasta-20-mil-pedidos-al-mismo-tiempo
+locale: es
 legacySlug: ahora-es-posible-exportar-hasta-20-mil-pedidos-al-mismo-tiempo
 announcementImageID: ''
 announcementSynopsisES: 'Aumentamos el límite de pedidos exportados por archivo de 7 mil a 20 mil. Y este límite pronto será de 50 mil.'

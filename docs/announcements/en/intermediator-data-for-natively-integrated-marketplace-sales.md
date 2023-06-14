@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: intermediator-data-for-natively-integrated-marketplace-sales
+locale: en
 legacySlug: intermediator-data-for-natively-integrated-marketplace-sales
 announcementImageID: ''
 announcementSynopsisEN: 'Intermediator information for natively integrated marketplace sales is now being made available through the Orders API.'

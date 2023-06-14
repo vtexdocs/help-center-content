@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: giftlist-la-fecha-del-evento-guardada-en-la-ui-no-es-la-misma-que-se-refleja-en-la-bd
+locale: es
 kiStatus: Backlog
 internalReference: 402134
 ---

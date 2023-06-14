@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: viewing-the-order-information
+locale: en
 legacySlug: viewing-the-order-information
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

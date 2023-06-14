@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slug: gestionar-tus-pedidos-fbaclassic-dba-desde-un-solo-lugar
+locale: es
 legacySlug: gestionar-tus-pedidos-fbaclassic-dba-desde-un-solo-lugar
 announcementImageID: ''
 announcementSynopsisES: 'Ahora puedes gestionar todos tus pedidos Amazon FBA Classic y DBA desde un solo lugar.'

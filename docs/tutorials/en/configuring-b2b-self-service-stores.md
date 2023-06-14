@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: B2B
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: configuring-b2b-self-service-stores
+locale: en
 legacySlug: configuring-b2b-self-service-stores
 subcategory: 2LrbEY7MFeKqmdfYLBCnfi
 ---

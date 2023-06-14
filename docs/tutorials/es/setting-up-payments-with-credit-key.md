@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: configurar-pago-con-credit-key
+locale: es
 legacySlug: configurar-pago-con-credit-key
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

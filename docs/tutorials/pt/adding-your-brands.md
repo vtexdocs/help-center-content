@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_6
 slug: cadastrando-suas-marcas
+locale: pt
 legacySlug: cadastrando-suas-marcas
 subcategory: 
 ---

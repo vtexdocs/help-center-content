@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: codigo-del-vendedor-evolucion-en-la-personalizacion-de-instore
+locale: es
 legacySlug: codigo-del-vendedor-evolucion-en-la-personalizacion-de-instore
 announcementImageID: ''
 announcementSynopsisES: 'Ahora el cliente puede hacer que el código del vendedor sea una etapa obligatoria para la finalización de una venta. '

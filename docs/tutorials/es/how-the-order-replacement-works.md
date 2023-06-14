@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: como-funciona-la-sustitucion-de-pedidos
+locale: es
 legacySlug: como-funciona-la-sustitucion-de-pedidos
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
@@ -61,7 +62,7 @@ Con esta funcionalidad, los usuarios de su tienda ganan una página de Mis Pedid
 
 ![meus pedidos1 ES](//images.contentful.com/alneenqid6w5/2ebQjrhfvOOCQMY486QSy4/3bc4cd2897dd9414e0a8b42c56bed1ff/meus_pedidos1_ES.png)
 
-![meus pedidos3 ES](//images.ctfassets.net/alneenqid6w5/6yYHPkdA8EeIyAU4iUEKOI/f7fa26cebb8d40dce657324941fcc02e/meus_pedidos3_ES.png)
+![meus pedidos3 ES](https://images.ctfassets.net/alneenqid6w5/6yYHPkdA8EeIyAU4iUEKOI/f7fa26cebb8d40dce657324941fcc02e/meus_pedidos3_ES.png)
 
 Al seleccionar **Alterar pedido**, el cliente es llevado a una pantalla en la que elige qué información le gustaría sustituir:
 

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: vtex-app-store-pague-con-tarjeta-de-credito-y-gestione-las-suscripciones-de
+locale: es
 legacySlug: vtex-app-store-pague-con-tarjeta-de-credito-y-gestione-las-suscripciones-de
 announcementImageID: ''
 announcementSynopsisES: 'Pague con tarjeta de crédito las compras de apps y gestione las suscripciones de aplicaciones en VTEX App Store.'

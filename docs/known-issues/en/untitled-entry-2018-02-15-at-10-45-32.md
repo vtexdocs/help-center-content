@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 
 tag: 
 slug: untitled-entry-2018-02-15-at-10-45-32
+locale: en
 kiStatus: 
 internalReference: 
 ---

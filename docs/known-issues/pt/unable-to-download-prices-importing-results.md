@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: impossibilidade-de-baixar-os-precos-de-importacao-de-resultados
+locale: pt
 kiStatus: Backlog
 internalReference: 579906
 ---

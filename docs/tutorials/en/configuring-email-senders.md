@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_6
 slug: configuring-email-senders
+locale: en
 legacySlug: configuring-email-senders
 subcategory: 
 ---

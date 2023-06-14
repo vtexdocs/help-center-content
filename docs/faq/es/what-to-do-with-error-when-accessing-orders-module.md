@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: authors_24
 slug: que-hacer-cuando-hay-un-error-de-acceso-en-el-modulo-pedidos
+locale: es
 legacySlug: error-de-acceso-al-oms-que-hacer
 ---
 

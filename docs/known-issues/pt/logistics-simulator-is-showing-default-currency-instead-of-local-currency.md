@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: o-simulador-logistico-esta-mostrando-a-moeda-padrao-em-vez-da-moeda-local
+locale: pt
 kiStatus: Backlog
 internalReference: 514551
 ---

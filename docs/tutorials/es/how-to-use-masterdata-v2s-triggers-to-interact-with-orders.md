@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: TnXcuQydAAOuwWACo864E
 slug: como-utilizar-los-triggers-de-masterdata-v2-para-interactuar-com-pedidos-orders
+locale: es
 legacySlug: como-utilizar-los-triggers-de-masterdata-v2-para-interactuar-con-pedidos
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

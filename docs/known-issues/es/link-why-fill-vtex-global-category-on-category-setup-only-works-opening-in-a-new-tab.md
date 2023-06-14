@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-enlace-por-que-rellenar-la-categoria-global-vtex-en-la-configuracion-de-la-categoria-solo-funciona-abriendose-en-una-nueva-pestana
+locale: es
 kiStatus: Backlog
 internalReference: 544034
 ---

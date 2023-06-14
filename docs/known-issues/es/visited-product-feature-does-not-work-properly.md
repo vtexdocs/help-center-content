@@ -11,6 +11,7 @@ productTeam: Analytics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Analytics
 slug: la-funcion-producto-visitado-no-funciona-correctamente
+locale: es
 kiStatus: Backlog
 internalReference: 701169
 ---

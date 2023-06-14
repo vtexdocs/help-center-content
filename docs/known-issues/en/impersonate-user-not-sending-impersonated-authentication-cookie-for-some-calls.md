@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: impersonate-user-not-sending-impersonated-authentication-cookie-for-some-calls
+locale: en
 kiStatus: Backlog
 internalReference: 790185
 ---

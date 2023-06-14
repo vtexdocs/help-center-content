@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_41
 slug: como-funciona-la-autorizacion-de-pedidos
+locale: es
 legacySlug: Aprenda-como-crear-flujos-para-la-liberación-o-aprobación-de-pedidos
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---

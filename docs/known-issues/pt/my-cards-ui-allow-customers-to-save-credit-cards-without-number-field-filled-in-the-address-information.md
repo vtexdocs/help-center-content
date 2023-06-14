@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: my-cards-ui-permite-aos-clientes-salvar-cartoes-de-credito-sem-campo-de-numero-preenchido-nas-informacoes-de-endereco
+locale: pt
 kiStatus: Backlog
 internalReference: 521542
 ---

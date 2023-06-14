@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: setting-up-payments-with-payclub
+locale: en
 legacySlug: setting-up-payments-with-payclub
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

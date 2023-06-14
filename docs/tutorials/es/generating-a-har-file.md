@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_24
 slug: generar-archivo-har
+locale: es
 legacySlug: generar-archivo-har
 subcategory: 1VvCpaa8NCA6a0MK6W6oWg
 ---

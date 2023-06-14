@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: erp-integration-guides-have-a-new-home
+locale: en
 legacySlug: integration-guide-for-erps-orders, integration-guide-for-erps-express-catalog, integration-guide-for-erps-full-catalog, integration-guide-for-erps-catalog-architecture, integration-interfaces
 announcementImageID: ''
 announcementSynopsisEN: 'This documentation was recently updated and is available in our Developer Portal.'

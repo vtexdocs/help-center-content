@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 5l3eEiSz8MpcppCxcnijGz
 slug: conversational-commerce-new-live-support-configuration
+locale: en
 legacySlug: conversational-commerce-new-live-support-configuration
 announcementImageID: ''
 announcementSynopsisEN: 'Live Support is the Conversational Commerce configuration that enables customer support via WhatsApp.'

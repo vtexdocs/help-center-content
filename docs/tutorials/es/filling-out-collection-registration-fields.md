@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 6AcGyun1hSWewU8YcaQiO
 slug: rellenar-campos-de-registro-de-coleccion
+locale: es
 legacySlug: rellenar-campos-de-registro-de-coleccion
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

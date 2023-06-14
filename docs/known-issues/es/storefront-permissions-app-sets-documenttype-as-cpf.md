@@ -11,6 +11,7 @@ productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
 slug: la-aplicacion-storefront-permissions-establece-documenttype-como-cpf
+locale: es
 kiStatus: Fixed
 internalReference: 798330
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: control-de-busqueda-fulltextsearchbox
+locale: es
 legacySlug: controle-de-busca-fulltextsearchbox
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

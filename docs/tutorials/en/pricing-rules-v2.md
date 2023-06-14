@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: pricing-rules-v2
+locale: en
 legacySlug: pricing-rules-v2
 subcategory: wUepkh8pzimEywO8oGUIc
 ---

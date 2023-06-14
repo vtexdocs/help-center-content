@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Y2pnNkWfSoUMMYcwemq4A
 slug: como-e-a-estrutura-api-rest-do-taxhub
+locale: pt
 legacySlug: como-e-a-estrutura-api-rest-do-taxhub
 subcategory: 
 ---

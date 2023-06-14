@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: pubportalpagetype-not-mapping-correctly-when-2-categories-have-the-same-name
+locale: en
 kiStatus: Backlog
 internalReference: 314551
 ---

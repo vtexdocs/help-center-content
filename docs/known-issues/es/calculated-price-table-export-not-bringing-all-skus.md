@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: la-exportacion-de-la-tabla-de-precios-calculados-no-trae-todos-los-skus
+locale: es
 kiStatus: Backlog
 internalReference: 722005
 ---

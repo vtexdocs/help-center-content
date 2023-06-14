@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: issue-on-translating-titles-for-some-facets
+locale: en
 kiStatus: Backlog
 internalReference: 776353
 ---

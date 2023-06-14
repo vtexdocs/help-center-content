@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: a-ordenacao-de-campos-de-produtos-e-skus-nao-e-salva1
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

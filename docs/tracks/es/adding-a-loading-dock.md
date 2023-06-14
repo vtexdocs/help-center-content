@@ -9,6 +9,7 @@ firstPublishedAt: 2019-10-21T12:49:51.424Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: registrar-un-muelle
+locale: es
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugES: logistica-101
 ---
@@ -27,7 +28,7 @@ Siga el procedimiento a continuación para registrar un muelle en su tienda:
 4. Rellene los campos del formulario de registro. Para comprender mejor el significado de cada campo, consulte a continuación la sección [Campos de Registro] (#campos-de-registro).
 5. Haga clic en el botón **Guardar**.
 
-![ES Cadastrar Doca GIF](//images.ctfassets.net/alneenqid6w5/1nWWY7VL7GvqTA3s9TuQ3Z/470d02a8d6a602066a4585fd3db15208/ES_Cadastrar_Doca_GIF.gif)
+![ES Cadastrar Doca GIF](https://images.ctfassets.net/alneenqid6w5/1nWWY7VL7GvqTA3s9TuQ3Z/470d02a8d6a602066a4585fd3db15208/ES_Cadastrar_Doca_GIF.gif)
 
 ### Campos de registro
 

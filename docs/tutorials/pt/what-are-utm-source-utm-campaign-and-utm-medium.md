@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: o-que-sao-utm-source-utm-campaign-e-utm-medium
+locale: pt
 legacySlug: o-que-sao-utm_source-utm_campaign-e-utm_medium
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

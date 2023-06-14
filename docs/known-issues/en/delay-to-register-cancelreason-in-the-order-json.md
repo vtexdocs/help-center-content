@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: delay-to-register-cancelreason-in-the-order-json
+locale: en
 kiStatus: Backlog
 internalReference: 792650
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: authors_84
 slug: como-desabilitar-a-autenticacao-de-dois-fatores
+locale: pt
 legacySlug: como-desabilitar-a-autenticacao-de-dois-fatores
 ---
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_4
 slug: activating-new-vtex-cdn
+locale: en
 legacySlug: activating-new-vtex-cdn
 subcategory: 2Za4fjGfxYOo6oqykukgyy
 ---

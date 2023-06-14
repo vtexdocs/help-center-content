@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: order-card-info-causing-confusing-on-status
+locale: en
 kiStatus: Backlog
 internalReference: 619778
 ---

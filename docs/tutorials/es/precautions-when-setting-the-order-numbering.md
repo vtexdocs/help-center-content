@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 1E4UkWguFZAXjkguvNHPIv
 slug: cuidados-al-definir-la-numeracion-de-pedido
+locale: es
 legacySlug: cuidados-al-definir-la-numeracion-de-pedido
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---

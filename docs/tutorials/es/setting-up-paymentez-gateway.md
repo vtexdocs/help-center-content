@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-gateway-paymentez
+locale: es
 legacySlug: configurar-gateway-paymentez
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-envio-enxuto-nao-permite-selecionar-a-entrega-regular-quando-a-entrega-programada-e-a-mais-barata-e-mais-rapida
+locale: pt
 kiStatus: Backlog
 internalReference: 842018
 ---

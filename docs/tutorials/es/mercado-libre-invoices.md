@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slug: facturas-de-mercado-libre
+locale: es
 legacySlug: facturas-de-mercado-libre
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

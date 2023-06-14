@@ -9,6 +9,7 @@ firstPublishedAt: 2019-10-23T20:05:01.736Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: calculo-del-plazo-de-entrega-de-un-pedido
+locale: es
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugES: logistica-101
 ---

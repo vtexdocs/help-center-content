@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
 slug: i-cannot-log-in-to-vtex-io
+locale: en
 legacySlug: i-cannot-log-in-to-vtex-io
 ---
 

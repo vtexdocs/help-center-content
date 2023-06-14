@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
 slug: storefront-overview
+locale: en
 legacySlug: storefront-overview
 subcategory: 3PNmhq67KMmGTBSfIWJdcQ
 ---

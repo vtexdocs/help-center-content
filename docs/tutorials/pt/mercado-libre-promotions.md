@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: promocoes-do-mercado-livre
+locale: pt
 legacySlug: promocoes-do-mercado-livre-beta
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---
@@ -20,7 +21,7 @@ Para proporcionar maior agilidade à operação do seller, na barra de busca glo
 
 Para acessar a página de promoções disponíveis no Admin VTEX, você deve seguir o caminho __Marketplace > Mercado Livre > Promoções.__  
 
-![Promoções do mercado livre](//images.ctfassets.net/alneenqid6w5/6LigPeBx1YMf6NQPJaqURK/cae6ebf8e19c5bc2fd8b8d4839ad029e/buscapromocoes.gif)
+![Promoções do mercado livre](https://images.ctfassets.net/alneenqid6w5/6LigPeBx1YMf6NQPJaqURK/cae6ebf8e19c5bc2fd8b8d4839ad029e/buscapromocoes.gif)
 
 ## Tipos de promoções  
 

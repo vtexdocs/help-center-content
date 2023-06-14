@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: editar-tablas-de-precios
+locale: es
 legacySlug: editar-tablas-de-precios
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---

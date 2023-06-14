@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: que-es-seller-portal
+locale: es
 legacySlug: que-es-seller-portal
 subcategory: 4hisB47iAVZk4r3SEmMoG
 ---

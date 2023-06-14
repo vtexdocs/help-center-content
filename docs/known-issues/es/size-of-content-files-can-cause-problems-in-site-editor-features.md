@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: el-tamano-de-los-archivos-de-contenido-puede-causar-problemas-en-las-funciones-del-editor-de-sitios
+locale: es
 kiStatus: Backlog
 internalReference: 715480
 ---

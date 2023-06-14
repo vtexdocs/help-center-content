@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_6
 slug: creating-your-promotions
+locale: en
 legacySlug: creating-your-promotions
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

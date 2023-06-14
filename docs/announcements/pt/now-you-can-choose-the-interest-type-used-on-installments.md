@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: agora-voce-pode-escolher-o-tipo-de-juros-usado-nas-parcelas-da-sua-loja
+locale: pt
 legacySlug: agora-voce-pode-escolher-o-tipo-de-juros-usado-nas-parcelas-da-sua-loja
 announcementImageID: ''
 announcementSynopsisPT: 'Lojas agora podem usar juros simples ou compostos, dependendo da necessidade de negócio nos países em que atuam.'

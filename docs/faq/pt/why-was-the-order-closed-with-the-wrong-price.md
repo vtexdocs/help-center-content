@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: por-que-o-pedido-foi-fechado-com-um-preco-errado
+locale: pt
 legacySlug: por-que-o-pedido-foi-fechado-com-um-preco-errado
 ---
 

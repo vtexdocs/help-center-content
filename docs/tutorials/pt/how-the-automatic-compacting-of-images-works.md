@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_4
 slug: compactacao-automatica-de-imagens
+locale: pt
 legacySlug: compactacao-automatica-de-imagens
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

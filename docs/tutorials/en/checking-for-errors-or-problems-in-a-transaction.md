@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: checking-for-errors-or-problems-in-a-transaction
+locale: en
 legacySlug: checking-for-errors-or-problems-in-a-transaction
 subcategory: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---

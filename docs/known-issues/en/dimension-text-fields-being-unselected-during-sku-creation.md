@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: dimension-text-fields-being-unselected-during-sku-creation
+locale: en
 kiStatus: Backlog
 internalReference: 786048
 ---

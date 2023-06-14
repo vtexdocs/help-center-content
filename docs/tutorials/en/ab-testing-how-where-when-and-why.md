@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: ab-testing-how-where-when-and-why
+locale: en
 legacySlug: ab-testing-how-where-when-and-why
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
@@ -20,13 +21,13 @@ First, I would like to clarify the difference between AB Testing and Multivariat
 
 **AB Test:** this is just two (or more) versions of one single page that are developed with a different element in order to test which version will have the best results. These tests are conducted simultaneously, that is, the two versions are run at the same time in order to reach the same audience profile within the same timeframe: 
 
-![ab_teste_modelo1 eng](//images.ctfassets.net/alneenqid6w5/7uNulbMKrYIUGGEME0cGcI/259554cf1b6e8649a1a981021487e036/modelo_1_ingles.png)
+![ab_teste_modelo1 eng](https://images.ctfassets.net/alneenqid6w5/7uNulbMKrYIUGGEME0cGcI/259554cf1b6e8649a1a981021487e036/modelo_1_ingles.png)
 
 _In this example, we are testing the “button color” element_
 
 **Multivariate Testing:** similarly to AB Testing, is also intended for testing different versions of one single screen. However, several changes are tested for each version developed. 
 
-![ab_teste_modelo2 eng](//images.ctfassets.net/alneenqid6w5/1atmZWk1ysSQwAo0UqI4Ak/32f32d90f55a3df1a12a5bdbaaa184e9/MODELO_2_ingles.png)
+![ab_teste_modelo2 eng](https://images.ctfassets.net/alneenqid6w5/1atmZWk1ysSQwAo0UqI4Ak/32f32d90f55a3df1a12a5bdbaaa184e9/MODELO_2_ingles.png)
 
 _In the example above, we are testing the “button color” element, the “text” element, and the “font size” element_ 
 

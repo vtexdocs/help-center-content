@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: requering-authentication-on-store-pages
+locale: en
 legacySlug: requering-authentication-on-store-pages
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

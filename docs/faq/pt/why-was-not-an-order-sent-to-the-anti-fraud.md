@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_59
 slug: por-que-um-pedido-nao-foi-enviado-para-o-antifraude
+locale: pt
 legacySlug: por-que-um-pedido-nao-foi-enviado-para-o-antifraude
 ---
 

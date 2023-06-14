@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-orderform-permanece-con-la-tarjeta-de-credito-que-se-elimino-a-traves-de-la-pagina-de-mi-cuenta
+locale: es
 kiStatus: Fixed
 internalReference: 276823
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-funciona-a-divisao-de-carga
+locale: pt
 legacySlug: como-funciona-a-divisao-de-carga
 subcategory: 1UL6Q7nUN6SkA2g2SUsECi
 ---

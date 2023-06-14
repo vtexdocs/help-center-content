@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: la-integracion-de-rastreo-no-esta-realizando-la-actualizacion-automatica
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

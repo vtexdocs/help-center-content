@@ -11,6 +11,7 @@ productTeam: FastStore
 author: 2mXZkbi0oi061KicTExNjo
 tag: FastStore
 slug: faststores-nao-esta-funcionando-corretamente-no-modo-privado-do-firefox
+locale: pt
 kiStatus: Backlog
 internalReference: 828685
 ---

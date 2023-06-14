@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: orderform-nao-devolve-os-dados-do-cliente-mesmo-para-credenciais-autorizadas
+locale: pt
 kiStatus: Backlog
 internalReference: 582070
 ---

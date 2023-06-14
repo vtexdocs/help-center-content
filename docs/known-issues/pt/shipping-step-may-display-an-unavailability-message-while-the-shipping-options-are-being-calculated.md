@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: a-etapa-de-envio-pode-exibir-uma-mensagem-de-indisponibilidade-enquanto-as-opcoes-de-envio-estao-sendo-calculadas
+locale: pt
 kiStatus: Backlog
 internalReference: 650038
 ---

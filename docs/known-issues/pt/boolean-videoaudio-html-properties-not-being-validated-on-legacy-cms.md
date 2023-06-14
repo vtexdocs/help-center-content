@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: propriedades-booleanas-de-videoaudio-html-nao-validadas-no-cms-legacy
+locale: pt
 kiStatus: Backlog
 internalReference: 491898
 ---

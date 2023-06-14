@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: assinaturas-aplicativo-disponivel-na-vtex-app-store
+locale: pt
 legacySlug: assinaturas-aplicativo-disponivel-na-vtex-app-store
 announcementImageID: ''
 announcementSynopsisPT: 'O aplicativo de Assinaturas está disponível de forma gratuita na VTEX App Store.'

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: melhorias-no-vtex-sales-app-novas-funcionalidades-para-aprimorar-a
+locale: pt
 legacySlug: melhorias-no-vtex-sales-app-novas-funcionalidades-para-aprimorar-a
 announcementImageID: ''
 announcementSynopsisPT: 'Aprimoramentos para lojas físicas, incluindo nova funcionalidade de Venda em Mãos e sugestões de produtos similares.'

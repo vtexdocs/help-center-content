@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 245tA425AIeioKAk2eaiwS
 slug: what-to-do-when-an-unexpected-error-message-appears-while-selecting-paypal-plus-at-checkout
+locale: en
 legacySlug: what-to-do-when-an-unexpected-error-message-appears-while-selecting-paypal
 ---
 

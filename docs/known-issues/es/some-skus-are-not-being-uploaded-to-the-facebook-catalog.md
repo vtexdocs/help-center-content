@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: algunos-skus-no-se-estan-cargando-en-el-catalogo-de-facebook
+locale: es
 kiStatus: Backlog
 internalReference: 558926
 ---

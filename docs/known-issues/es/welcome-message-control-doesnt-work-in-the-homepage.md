@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: control-de-welcome-message-no-funciona-en-la-pagina-principal-del-sitio
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

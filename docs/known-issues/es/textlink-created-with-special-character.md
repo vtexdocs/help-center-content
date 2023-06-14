@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: textlink-creado-con-caracter-especial
+locale: es
 kiStatus: Backlog
 internalReference: 537159
 ---

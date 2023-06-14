@@ -1,106 +1,104 @@
 ---
-title: 'Gerenciamento da conta'
-id: 2vhUVOKfCaswqLguT2F9xq
-status: PUBLISHED
-createdAt: 2023-04-25T20:31:19.403Z
-updatedAt: 2023-06-07T14:12:19.215Z
-publishedAt: 2023-06-07T14:12:19.215Z
-firstPublishedAt: 2023-05-24T17:48:42.796Z
+title: 'Gerenciamento de contas'
+id: tutorials_6285
+status: DRAFT
+createdAt: 2017-04-27T21:48:34.322Z
+updatedAt: 2023-06-01T13:45:18.066Z
+publishedAt: 
+firstPublishedAt: 2017-04-27T23:11:18.953Z
 contentType: tutorial
 productTeam: Identity
-author: 2Gy429C47ie3tL9XUEjeFL
-slug: gerenciamento-da-conta
-legacySlug: pagina-de-detalhes-da-conta
+author: authors_2
+slug: gerenciamento-de-contas
+locale: pt
+legacySlug: como-gerenciar-contas
 subcategory: yMp6sKDiJEi66CGAIQ4ma
 ---
 
-A página de **Conta** permite que você visualize e gerencie detalhes da sua conta VTEX. Para acessá-la, clique no **avatar do seu perfil**, marcado pela inicial do seu email, e clique em **Configurações da conta** > **Conta.**
+O gerenciamento das suas contas é feito no **Gerenciamento da conta**. Dentro do módulo, clique no avatar do seu perfil, marcado pela inicial do seu email, depois em **Configurações de conta** > **Conta**.
 
-![Admin v4 account settings menu PT](//images.ctfassets.net/alneenqid6w5/gMscIoImNJt51634ZQsRD/09a38ba629307a07ac8a37bb79d8c812/Admin_v4_account_settings_menu_PT.jpg)
+Na página de cada conta você encontra dados básicos sobre a loja virtual, configurações de domínio e multidomínio, chaves de acesso para APIs, logotipo da empresa e informações de contato.
 
-<div class="alert alert-warning">
-Esta tela não tem detalhes de chaves de aplicação. Saiba onde encontrar e gerenciar estas informações no artigo <a href="https://help.vtex.com/pt/tutorial/chaves-de-aplicacao--2iffYzlvvz4BDMr6WGUtet">Chaves de aplicação</a>.
+<div class="alert alert-info">
+Alguns desses dados são úteis somente para a VTEX, e podem não refletir em alteração das informações exibidas na loja.
 </div>
 
-As funções da página de **Conta** dividem-se em duas abas: [Geral](#geral) e [Lojas](#lojas). Confira abaixo mais informações sobre cada uma delas.
+## Botão de Ativo/Inativo
 
-## Geral
+Ao ser desativado, esse botão torna a loja inacessível para usuários finais.
 
-As funcionalidades da aba **Geral** estão dispostas nas seções [Detalhes](#detalhes), [Informações da Empresa](#informacoes-da-empresa) e [Titular](#titular).
+## Botão de "em produção"
 
-![Página de detalhes da conta - seção conta](//images.ctfassets.net/alneenqid6w5/6UK90f7QEkwzfa0A2ccru/7b92876206fc6338baa1b8215191e2d6/1pt.png)
+Por padrão, o status inicial da loja é fora de produção. Nesse status, ainda não há tráfego para a loja.
 
-Nesta aba você pode:
+Além disso, de acordo com o contrato padrão da VTEX, não é cobrada nenhuma porcentagem sobre as vendas enquanto a loja não estiver em produção.
 
-- Consultar [detalhes da conta](#detalhes).
-- Consultar e editar [informações da empresa](#informacoes-da-empresa).
-- Consultar [informações do usuário titular](#titular) da conta.
+## Dados da Empresa
 
-### Detalhes
-
-Nesta seção você pode consultar as informações básicas da sua conta VTEX.
-
-![Página de detalhes da conta - detalhes](//images.ctfassets.net/alneenqid6w5/2E2AS5t3Y3LeBZHPwAQxVL/928ac8afe28ab124fc0779c2dcf1107f/1.1pt.png)
-
-- **Nome da conta principal:** [nome de conta VTEX](https://help.vtex.com/pt/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC).
-- **Data de criação:** data em que sua conta foi criada.
-- **ID da conta:** código único que identifica sua conta.
-- **Data de ativação:** data em que sua conta foi ativada, ou seja, se tornou disponível para que fossem realizadas configurações e implementação de loja.
-- **Status da conta:**indica se sua conta está em produção ou não. Uma conta em produção é o primeiro passo para [disponibilizar sua loja em um domínio público para clientes](https://help.vtex.com/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM). Este status pode ser **Em produção** ou **Não está em produção**.
-- **Status da plataforma de administrador:** indica se sua conta está ativa ou não, ou seja, se o Admin e as APIs VTEX estão disponíveis para que você realize configurações e implementação da sua loja. Este status pode ser **Ativo** ou **Inativo**.
-
-### Informações da empresa
-
-Nesta seção você visualiza os seguintes dados de cadastro da sua empresa:
-
-- Logotipo
-- Nome legal
+Aqui ficam quatro dados gerais sobre a sua empresa:
+- Nome da conta, ou seja, o nome identificador da conta, usado na URL de acesso ao Admin. Não pode ser alterado.
+- Nome fantasia
+- Razão social
 - CNPJ
 
-![Página de detalhes da conta - Informações da empresa](//images.ctfassets.net/alneenqid6w5/VnjrwHmW1txGedK5fewVb/848b8bbff43c4ea1dc023b1c7c225cf1/1.2pt.png)
+## Loja
 
-#### Editar informações da empresa
+Nesta seção, você pode configurar características que identificam sua loja:
+- [Nome da loja](https://help.vtex.com/en/tutorial/what-is-the-store-name--3gh9mTNeMgs6Qe44e8IqQK#).
+- Nome fantasia.
+- Hosts.
 
-Você pode editar as informações de cadastro da empresa seguindo os passos abaixo:
+Você também pode usar o botão `Configurar outra loja` para [Criar multiloja](https://help.vtex.com/pt/tutorial/como-criar-multiloja-multidominio--tutorials_510).
 
-1. Acesse a página de **Conta**, clicando no **avatar do seu perfil**, marcado pela inicial do seu email, e depois em **Configurações da conta** > **Conta**.
-2. Vá até a seção **Informações da empresa**.
-3. Clique em `Editar`.
-4. Altere as informações desejadas, entre:
-    - **Logotipo**
-    - **Nome comercial**
-    - **Nome legal**
-    - **CNPJ**
-5. Clique em `Salvar`.
+### Hosts
+
+Na seção **Hosts** você deve adicionar o domínio principal da sua loja, que foi [configurado com apontamento de DNS](https://help.vtex.com/pt/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280).
+
+<div class="alert alert-danger">
+Caso a sua operação possua mais de uma conta VTEX ou subcontas, não troque o domínio de uma conta para outra. Isso provocará falhas em diversos aspectos da sua loja.
+</div>
+
+Para adicionar um novo host, basta clicar em `Adicionar novo domínio` e inserir o domínio no campo de texto.
 
 <div class="alert alert-warning">
-Sua logotipo deve ser um arquivo JPG, GIF ou PNG de até 800 kb.
+Se você adicionar mais de um domínio como host da sua loja, todos exibirão o mesmo conteúdo. No entanto, para atingir este objetivo recomendamos que cadastre apenas um domínio e use redirecionamentos para os outros. Saiba mais sobre redirecionamentos:
+<ul><li><a href=”https://help.vtex.com/pt/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ”>Redirecionamento de outros endereços</a></li>
+<li><a href=”https://help.vtex.com/pt/tutorial/configurando-acesso-sem-www--tutorials_4278”>Configurar acesso sem www</a></li></ul> 
 </div>
 
-### Titular
+#### Subdomínios
 
-Esta seção apresenta detalhes do usuário titular da conta. Cada conta VTEX tem apenas um titular, a quem é dado acesso total a todas as seções do Admin, incluindo ações importantes de manutenção e autorização.
+Qualquer domínio registrado desta forma precisa conter subdomínio, que pode ou não ser `www`. Confira exemplos abaixo:
 
-<div class = "alert alert-info">
-Saiba mais sobre o <a href="https://help.vtex.com/pt/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy">usuário titular</a>.
+- `minhaloja.com` - Não é válido pois não contém subdomínio.
+- `www.minhaloja.com` - Domínio válido.
+- `loja.minhamarca.com` - Domínio válido.
+
+## Contatos
+
+A parte de **Contatos** é visível somente para o usuário que estiver cadastrado ali. Este cadastro define quem poderá utilizar o painel **[FullCleanUp](http://help.vtex.com/tutorial/entendendo-a-manutencao-da-base-de-dados/ "FullCleanUp")** e também quem poderá visualizar informações de **Segurança**. Este usuário é considerado o usuário titular.
+
+Depois que um usuário preenche e salva **Nome** e **E-mail**, nos campos de contato, um e-mail automático é enviado a ele informando sobre o cadastro e solicitando geração de senha (caso este não possua nenhum acesso ao admin).
+
+<div class="alert alert-info">
+O template deste e-mail automático pode ser alterado na <a href="https://help.vtex.com/pt/tutorial/understanding-the-message-center--tutorials_84">Central de mensagens</a> modificando o template <i>account registration</i>.
 </div>
 
-![Página de detalhes da conta - Titular](//images.ctfassets.net/alneenqid6w5/36R9gxFOVRov7QeFcdZNUe/86186dbaecb7ac8312f58aa704fa8ec7/1.3pt.png)
+![cadastro de conta](https://images.ctfassets.net/alneenqid6w5/5tBCNxqBxeWkqOgiIcEaQw/4e044e1f46911db85da4e5ea0a195226/cadastro_de_conta.jpg)
 
-Caso você seja o usuário titular, poderá [transferir a propriedade da loja](https://help.vtex.com/pt/tutorial/transferencia-de-propriedade-da-loja) nesta seção. Ou seja, tornar outro usuário o titular da conta.
+## Segurança
 
-## Lojas
+Nessa área são criados os [appKeys e appTokens](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao) usados para autenticar integrações com a sua loja.
 
-Na aba lojas, você pode:
-
-- Consultar [lista de lojas](#lojas).
+Apenas o usuário Titular tem permissão para criar appKeys e appTokens, uma vez que estes dão acesso à sua loja por API, o que pode ser crítico se não utilizado por profissionais habilitados.
+ lojas](#lojas).
 - [Adicionar nova loja](#criar-loja).
 - [Editar loja](#editar-loja).
 - [Excluir loja](#excluir-loja).
 
 Ao clicar na aba **Lojas**, na parte superior da tela, você verá uma lista com as informações de todas as lojas criadas na sua conta VTEX. 
 
-![Página de detalhes da conta - Lojas](//images.ctfassets.net/alneenqid6w5/rAFyEsEDLBDqj3UBGufrb/70dea056a37a7cffd997803160605978/2pt.png)
+![Página de detalhes da conta - Lojas](https://images.ctfassets.net/alneenqid6w5/rAFyEsEDLBDqj3UBGufrb/70dea056a37a7cffd997803160605978/2pt.png)
 
 Para cada loja, você pode visualizar os seguintes detalhes:
 

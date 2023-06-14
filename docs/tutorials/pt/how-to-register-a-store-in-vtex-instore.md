@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_35
 slug: como-cadastrar-lojas-no-vtex-instore
+locale: pt
 legacySlug: como-cadastrar-lojas-no-vtex-instore
 subcategory: 4T6qfa6gNO6g4sAUIa6s2G
 ---

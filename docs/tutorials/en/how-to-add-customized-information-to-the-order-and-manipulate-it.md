@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_24
 slug: how-to-add-customized-information-to-the-order-and-manipulate-it
+locale: en
 legacySlug: how-to-add-customized-information-to-the-order-and-manipulate-it
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

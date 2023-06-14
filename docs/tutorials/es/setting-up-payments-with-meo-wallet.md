@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-pagos-con-meo-wallet
+locale: es
 legacySlug: configurar-pagos-con-meo-wallet
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

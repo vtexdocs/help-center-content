@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: validando-su-tienda-para-subir-para-produccion
+locale: es
 legacySlug: validando-su-tienda-para-subir-para-produccion
 subcategory: wz3FvYTctwuCwG206QUAi
 ---

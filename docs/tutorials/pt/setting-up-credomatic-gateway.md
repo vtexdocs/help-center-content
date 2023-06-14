@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-gateway-credomatic
+locale: pt
 legacySlug: configurar-gateway-credomatic
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

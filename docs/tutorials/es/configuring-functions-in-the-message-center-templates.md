@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: configurando-funciones-en-templates-de-message-center
+locale: es
 legacySlug: configurando-funciones-en-templates-de-message-center
 subcategory: 4D5LrWwlHGmOWMomOaaGee
 ---
@@ -34,7 +35,7 @@ La utlización de esas variables en los Layouts de email poseen la siguiente sin
 **HTML del template**
 `<strong>{{_accountInfo.HostName}}</strong> => lojavirtual`
 
-![exemplohtml](//images.ctfassets.net/alneenqid6w5/2L8EnLX9I4gqOyaKUY4wGw/47d7e0db874a73e9569d6ddabe69b470/exemplohtml.png)
+![exemplohtml](https://images.ctfassets.net/alneenqid6w5/2L8EnLX9I4gqOyaKUY4wGw/47d7e0db874a73e9569d6ddabe69b470/exemplohtml.png)
 
 El ejemplo arriba puede tener diferentes valores cuando se comparan Sellers y Marketplaces.
 

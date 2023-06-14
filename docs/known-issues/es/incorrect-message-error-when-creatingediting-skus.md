@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: error-de-mensaje-incorrecto-al-creareditar-skus
+locale: es
 kiStatus: Backlog
 internalReference: 774518
 ---

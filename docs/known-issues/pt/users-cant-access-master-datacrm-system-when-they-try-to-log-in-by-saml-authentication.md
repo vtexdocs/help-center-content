@@ -11,6 +11,7 @@ productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
 slug: os-usuarios-nao-podem-acessar-o-sistema-master-datacrm-quando-tentam-fazer-o-login-por-autenticacao-saml
+locale: pt
 kiStatus: Backlog
 internalReference: 465652
 ---

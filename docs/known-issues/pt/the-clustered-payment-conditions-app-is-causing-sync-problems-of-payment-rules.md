@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: o-aplicativo-clustered-payment-conditions-app-esta-causando-problemas-de-sincronizacao-das-regras-de-pagamento
+locale: pt
 kiStatus: Backlog
 internalReference: 391569
 ---

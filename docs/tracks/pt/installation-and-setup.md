@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-30T01:07:27.553Z
 contentType: trackArticle
 productTeam: Apps
 slug: instalacao-e-configuracao
+locale: pt
 trackId: 2KDrouPiE4HDKUFFSG3KdN
 trackSlugPT: integracao-com-a-lengow
 ---

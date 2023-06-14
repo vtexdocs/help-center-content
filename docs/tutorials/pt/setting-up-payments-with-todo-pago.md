@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-pagamento-com-todo-pago
+locale: pt
 legacySlug: configurar-pagamento-com-todo-pago
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

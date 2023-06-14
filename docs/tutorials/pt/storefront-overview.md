@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
 slug: visao-geral-storefront
+locale: pt
 legacySlug: visao-geral-storefront
 subcategory: 3PNmhq67KMmGTBSfIWJdcQ
 ---

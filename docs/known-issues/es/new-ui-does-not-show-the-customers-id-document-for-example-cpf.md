@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: la-nueva-interfaz-de-usuario-no-muestra-el-documento-de-identidad-del-cliente-por-ejemplo-el-cpf
+locale: es
 kiStatus: Backlog
 internalReference: 713480
 ---

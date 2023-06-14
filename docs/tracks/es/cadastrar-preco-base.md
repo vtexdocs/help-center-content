@@ -9,6 +9,7 @@ firstPublishedAt: 2019-07-17T19:41:10.765Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: registrar-precio-base
+locale: es
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugES: precios-101
 ---

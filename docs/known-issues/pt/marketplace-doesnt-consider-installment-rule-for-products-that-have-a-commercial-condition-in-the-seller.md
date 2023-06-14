@@ -11,6 +11,7 @@ productTeam: Channels
 author: authors_35
 tag: Checkout,Payments
 slug: marketplace-nao-considera-regra-de-parcelamento-para-produtos-que-possuem
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

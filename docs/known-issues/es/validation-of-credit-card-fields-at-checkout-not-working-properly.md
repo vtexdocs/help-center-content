@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: validation-of-credit-card-fields-at-checkout-not-working-properly
+locale: es
 kiStatus: Backlog
 internalReference: 552897
 ---

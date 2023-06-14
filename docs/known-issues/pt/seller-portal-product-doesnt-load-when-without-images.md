@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: o-produto-do-portal-do-vendedor-nao-e-carregado-quando-nao-ha-imagens
+locale: pt
 kiStatus: Backlog
 internalReference: 800480
 ---

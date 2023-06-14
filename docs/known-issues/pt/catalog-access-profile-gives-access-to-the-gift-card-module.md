@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: perfil-de-acesso-ao-catalogo-da-acesso-ao-modulo-gift-card
+locale: pt
 kiStatus: Backlog
 internalReference: 362165
 ---

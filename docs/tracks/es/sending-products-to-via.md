@@ -9,6 +9,7 @@ firstPublishedAt: 2020-03-30T23:08:05.849Z
 contentType: trackArticle
 productTeam: Channels
 slug: envio-de-los-productos-a-via
+locale: es
 trackId: 3E9XylGaJ2wqwISGyw4GuY
 trackSlugES: configurar-la-integracion-de-via-varejo
 ---

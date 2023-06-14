@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: reglas-en-divergencia-de-valores
+locale: es
 legacySlug: reglas-de-autorizacion-en-divergencia-de-valores-para-sellers
 subcategory: 4ZBiXqnPntLbsijZ0djFcD
 ---
@@ -57,7 +58,7 @@ Para crear las reglas, realice los siguientes pasos:
    * Se crea una regla configurada automáticamente con un porcentaje de divergencia del 0% al 30%, la cual corresponde a la barra celeste.
 6. Para aumentar o disminuir el porcentaje de divergencia, haga clic en la barra y arrástrela desde los extremos, a menos " < " o a más " > ".
 7. Elija entre las siguientes acciones de reglas para pedidos: `Autorizar automáticamente`, `Negar automáticamente` o `Crear una tarea en VTEX DO para aprobar`.
-8. Para crear más reglas, haga clic en el icono <img class="shadow-4" src="https:////images.ctfassets.net/alneenqid6w5/7E2BhdEapQ5Lmm4fLRKxpp/2770eaaa5af9653a71416c2f9677eb37/__cone_regras.JPG" /> y repita los pasos 6 y 7.
+8. Para crear más reglas, haga clic en el icono <img class="shadow-4" src="https://https://images.ctfassets.net/alneenqid6w5/7E2BhdEapQ5Lmm4fLRKxpp/2770eaaa5af9653a71416c2f9677eb37/__cone_regras.JPG" /> y repita los pasos 6 y 7.
 9. Haga clic en `Guardar reglas`.
 
 Durante el proceso de creación de reglas, se muestran las siguientes pestañas: 

@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: 
 slug: configurar-sinonimos
+locale: en
 trackId: 
 trackSlugEN: 
 ---

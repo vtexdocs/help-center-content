@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: pedido-nao-e-cancelado-totalmente
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

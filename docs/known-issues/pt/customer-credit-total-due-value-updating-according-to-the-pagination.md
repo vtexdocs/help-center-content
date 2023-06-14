@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: credito-ao-cliente-total-devido-atualizacao-do-valor-de-acordo-com-a-paginacao
+locale: pt
 kiStatus: Backlog
 internalReference: 432587
 ---

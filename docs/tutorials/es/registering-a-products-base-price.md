@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: registrar-el-precio-base-de-un-producto
+locale: es
 legacySlug: registrar-el-precio-base-de-un-producto
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---

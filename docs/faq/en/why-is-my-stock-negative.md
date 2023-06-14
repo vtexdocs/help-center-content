@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
 slug: why-is-my-stock-negative
+locale: en
 legacySlug: why-is-my-stock-negative
 ---
 

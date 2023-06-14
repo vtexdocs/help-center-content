@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: working-with-master-data-rest-api
+locale: en
 legacySlug: master-data-schemas
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---

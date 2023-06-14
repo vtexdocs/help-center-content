@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: por-que-meu-produto-inativo-foi-vendido-no-marketplace
+locale: pt
 legacySlug: por-que-meu-produto-inativo-foi-vendido-no-marketplace
 ---
 

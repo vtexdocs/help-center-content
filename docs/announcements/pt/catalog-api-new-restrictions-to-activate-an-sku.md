@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: catalog-api-novas-restricoes-para-ativar-um-sku
+locale: pt
 legacySlug: catalog-api-novas-restricoes-para-ativar-um-sku
 announcementImageID: ''
 announcementSynopsisPT: 'Com essa nova atualização, a criação de SKUs por API apresenta novas restrições'

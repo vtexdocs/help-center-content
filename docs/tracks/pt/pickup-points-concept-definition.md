@@ -9,6 +9,7 @@ firstPublishedAt: 2019-10-21T12:53:34.331Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: pontos-de-retirada-definicao-de-conceito
+locale: pt
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugPT: logistica-101
 ---

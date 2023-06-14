@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: indicadores-de-data-limite
+locale: pt
 legacySlug: indicadores-de-data-limite
 subcategory: 2A1RNDhwU4kqCN3XimtaD2
 ---

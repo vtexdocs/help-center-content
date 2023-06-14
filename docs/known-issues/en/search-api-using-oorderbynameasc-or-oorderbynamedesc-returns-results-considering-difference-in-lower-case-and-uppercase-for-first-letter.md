@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: search-api-using-oorderbynameasc-or-oorderbynamedesc-returns-results-considering-difference-in-lower-case-and-uppercase-for-first-letter
+locale: en
 kiStatus: Backlog
 internalReference: 305247
 ---

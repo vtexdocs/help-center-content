@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: campos-de-registro-de-producto
+locale: es
 legacySlug: campos-de-registro-de-producto
 subcategory: pwxWmUu7T222QyuGogs68
 ---

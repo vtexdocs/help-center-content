@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-gateway-paga-mas-tarde
+locale: es
 legacySlug: configurar-gateway-paga-mas-tarde
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

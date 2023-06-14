@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: error-en-el-campo-de-cantidad-maxima-de-la-misma-sku-en-la-cesta
+locale: es
 kiStatus: Backlog
 internalReference: 587394
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 
 slug: otimizacao-de-carrinho
+locale: pt
 legacySlug: otimizacao-de-carrinho
 subcategory: 
 ---

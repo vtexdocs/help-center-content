@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_4
 tag: Portal
 slug: animated-gifs-dont-work-in-google-chrome
+locale: en
 kiStatus: Fixed
 internalReference: 
 ---

@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: loss-of-content-created-via-site-editor-from-cms-migration
+locale: en
 kiStatus: Backlog
 internalReference: 610533
 ---

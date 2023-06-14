@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: how-does-the-search-context-on-website-folders-operate
+locale: en
 legacySlug: 
 subcategory: 
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: VTEX IO
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: conformidade-com-ada-e-wcag-na-vtex
+locale: pt
 legacySlug: conformidade-com-ada-e-wcag-na-vtex
 announcementImageID: ''
 announcementSynopsisPT: 'O app accessiBe deixa a sua loja em conformidade com os padrões de acessibilidade para conteúdo Web.'

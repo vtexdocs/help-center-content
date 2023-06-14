@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: solicitacao-de-codigo-postal-em-loop-no-componente-de-visualizacao-de-remessa
+locale: pt
 kiStatus: Backlog
 internalReference: 352659
 ---

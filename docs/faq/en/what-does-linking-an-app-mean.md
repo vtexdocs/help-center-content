@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
 slug: what-does-linking-an-app-mean
+locale: en
 legacySlug: what-does-linking-an-app-mean
 ---
 

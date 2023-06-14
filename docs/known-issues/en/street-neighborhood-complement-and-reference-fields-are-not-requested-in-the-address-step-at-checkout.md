@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: street-neighborhood-complement-and-reference-fields-are-not-requested-in-the-address-step-at-checkout
+locale: en
 kiStatus: Backlog
 internalReference: 563507
 ---

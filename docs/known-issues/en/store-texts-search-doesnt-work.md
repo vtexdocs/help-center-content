@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: store-texts-search-doesnt-work
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

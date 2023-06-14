@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: visualizacion-incorrecta-de-la-cantidad-de-paquetes-en-la-caja
+locale: es
 kiStatus: Backlog
 internalReference: 520369
 ---

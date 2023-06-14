@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: cuando-entra-el-dinero-de-una-venta-en-mi-cuenta
+locale: es
 legacySlug: cuando-entra-el-dinero-de-una-venta-en-mi-cuenta
 subcategory: 23PYStKNPteW4CqklwXXQN
 ---

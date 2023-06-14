@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: ajustar-a-especificacao-de-textodesinscricao
+locale: pt
 kiStatus: Backlog
 internalReference: 754022
 ---

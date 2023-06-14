@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-configuracion-de-la-cantidad-maxima-de-un-mismo-articulo-en-la-cesta-no-puede-ser-modificada-por-las-cuentas-gratuitas
+locale: es
 kiStatus: Backlog
 internalReference: 325273
 ---

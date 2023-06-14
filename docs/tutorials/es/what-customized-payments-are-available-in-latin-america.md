@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: que-pagos-personalizados-estan-disponibles-en-america-latina
+locale: es
 legacySlug: que-pagos-personalizados-estan-disponibles-en-america-latina
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

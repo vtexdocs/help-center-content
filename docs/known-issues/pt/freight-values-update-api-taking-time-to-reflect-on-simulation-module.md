@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: atualizacao-de-valores-de-frete-api-que-leva-tempo-para-refletir-sobre-o-modulo-de-simulacao
+locale: pt
 kiStatus: Backlog
 internalReference: 621230
 ---

@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: la-actualizacion-del-vendedor-a-traves-de-admin-esta-devolviendo-algunos-campos-al-valor-por-defecto-despues-de-cambiarlo-a-traves-de-la-api
+locale: es
 kiStatus: Backlog
 internalReference: 608120
 ---

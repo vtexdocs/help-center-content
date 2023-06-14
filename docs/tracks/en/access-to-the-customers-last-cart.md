@@ -9,6 +9,7 @@ firstPublishedAt: 2021-08-05T14:46:10.377Z
 contentType: trackArticle
 productTeam: Shopping
 slug: access-to-the-customers-last-cart
+locale: en
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: instore-using-the-app
 ---
@@ -19,4 +20,4 @@ When having access to this information, the sales associate can try to complete 
 
 They just need to click `Access` to see the products in the abandoned cart.
 
-![last-cart-en](//images.ctfassets.net/alneenqid6w5/5A40nJsnX5wRDlHJGn9ZsD/fcddb8f976cb0a98d0bb459497b9ef59/last-cart-EN.png)
+![last-cart-en](https://images.ctfassets.net/alneenqid6w5/5A40nJsnX5wRDlHJGn9ZsD/fcddb8f976cb0a98d0bb459497b9ef59/last-cart-EN.png)

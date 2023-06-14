@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: api-do-catalogo-criar-arquivo-sku-so-funciona-com-uma-url
+locale: pt
 kiStatus: Fixed
 internalReference: 503153
 ---

@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: o-relatorio-de-exportacao-de-pedidos-nao-esta-funcionando-corretamente-devido-ao-espaco-duplo-no-nome-da-promocao
+locale: pt
 kiStatus: Backlog
 internalReference: 786216
 ---

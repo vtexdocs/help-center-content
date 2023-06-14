@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-19T17:27:37.060Z
 contentType: trackArticle
 productTeam: Channels
 slug: o-que-configurar-na-wish-antes-de-iniciar-a-integracao
+locale: pt
 trackId: 50hbG4bzhSIhjz1lzqI1g4
 trackSlugPT: integracao-com-a-wish
 ---

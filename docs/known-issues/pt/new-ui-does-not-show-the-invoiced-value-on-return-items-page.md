@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: a-nova-iu-nao-mostra-o-valor-faturado-na-pagina-de-itens-de-retorno
+locale: pt
 kiStatus: Backlog
 internalReference: 664838
 ---

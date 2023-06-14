@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: autocompletar-trazendo-produtos-de-sugestao-mostrados-com-atraso
+locale: pt
 kiStatus: Backlog
 internalReference: 615616
 ---

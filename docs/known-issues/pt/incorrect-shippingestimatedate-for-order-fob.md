@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: envio-incorretodata-de-envioestimativa-para-pedido-fob
+locale: pt
 kiStatus: Backlog
 internalReference: 269104
 ---

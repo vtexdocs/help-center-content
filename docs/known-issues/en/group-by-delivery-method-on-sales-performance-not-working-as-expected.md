@@ -11,6 +11,7 @@ productTeam: Analytics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Analytics
 slug: group-by-delivery-method-on-sales-performance-not-working-as-expected
+locale: en
 kiStatus: Backlog
 internalReference: 639294
 ---

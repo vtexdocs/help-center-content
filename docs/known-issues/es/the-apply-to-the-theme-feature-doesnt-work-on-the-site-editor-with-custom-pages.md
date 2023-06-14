@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: la-funcion-aplicar-al-tema-no-funciona-en-el-editor-de-sitios-con-paginas-personalizadas
+locale: es
 kiStatus: Backlog
 internalReference: 580543
 ---

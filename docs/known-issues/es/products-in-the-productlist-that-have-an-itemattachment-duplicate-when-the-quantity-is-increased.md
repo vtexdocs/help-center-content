@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: los-productos-de-la-lista-de-productos-que-tienen-un-itemattachment-se-duplican-cuando-se-aumenta-la-cantidad
+locale: es
 kiStatus: Backlog
 internalReference: 337069
 ---

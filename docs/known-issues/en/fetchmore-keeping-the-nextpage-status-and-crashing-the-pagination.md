@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: fetchmore-keeping-the-nextpage-status-and-crashing-the-pagination
+locale: en
 kiStatus: Backlog
 internalReference: 560014
 ---

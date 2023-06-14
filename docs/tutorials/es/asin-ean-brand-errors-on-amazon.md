@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: errores-de-asin-ean-marca-en-amazon
+locale: es
 legacySlug: errores-de-asin-ean-marca-en-amazon
 subcategory: 4HBbKdnwneGew2qGGykSM8
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: setting-up-an-auto-increment-field
+locale: en
 legacySlug: setting-up-an-auto-increment-field
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

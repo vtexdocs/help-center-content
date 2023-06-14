@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-pagamentos-com-pagosweb
+locale: pt
 legacySlug: configurar-pagamentos-com-pagosweb
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

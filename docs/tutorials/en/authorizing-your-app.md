@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 5dYWGfGKUwkI86Gomk6AcQ
 slug: authorizing-your-app
+locale: en
 legacySlug: authorizing-your-app
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

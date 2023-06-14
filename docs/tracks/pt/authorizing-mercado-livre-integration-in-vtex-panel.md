@@ -9,6 +9,7 @@ firstPublishedAt: 2018-08-13T14:27:03.106Z
 contentType: trackArticle
 productTeam: Channels
 slug: autorizar-integracao-do-mercado-livre-no-painel-da-vtex
+locale: pt
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugPT: configurar-integracao-do-mercado-livre
 ---

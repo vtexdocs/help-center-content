@@ -9,6 +9,7 @@ firstPublishedAt: 2022-02-02T21:00:56.575Z
 contentType: trackArticle
 productTeam: Channels
 slug: sobre-la-integracion-con-b2w
+locale: es
 trackId: 6w07SJBVqE020KIOOS8ygk
 trackSlugES: configurar-integracion-b2w
 ---

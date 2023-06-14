@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-creacion-de-la-orden-fallo-debido-a-la-divergencia-de-precios-en-la-capa-de-cumplimiento
+locale: es
 kiStatus: Backlog
 internalReference: 512393
 ---

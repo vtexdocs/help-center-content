@@ -11,6 +11,7 @@ productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
 slug: ord-reset-not-logging-out-other-sessions
+locale: en
 kiStatus: Backlog
 internalReference: 530461
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: a-api-para-criaratualizar-fornecedores-de-cartoespresente-esta-sempre-atualizando-o-fornecedor-atual-quando-ele-nunca-adicionou-um-novo-fornecedor-antes
+locale: pt
 kiStatus: Backlog
 internalReference: 768954
 ---

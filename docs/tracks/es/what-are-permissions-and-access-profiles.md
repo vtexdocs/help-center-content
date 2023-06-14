@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:32:45.916Z
 contentType: trackArticle
 productTeam: Identity
 slug: que-son-permisos-y-perfiles-de-acceso
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugES: cuentas-y-permisos
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: nueva-pagina-de-detalles-de-la-cuenta
+locale: es
 legacySlug: nueva-pagina-de-detalles-de-la-cuenta
 announcementImageID: ''
 announcementSynopsisES: 'VTEX pone a tu disposición una nueva página de detalles de cuenta, que ofrece una experiencia intuitiva y eficiente.'

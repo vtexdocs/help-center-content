@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 
 slug: untitled-entry-2017-08-16-at-16-03-28
+locale: en
 legacySlug: untitled-entry-2017-08-16-at-16-03-28
 subcategory: 
 ---

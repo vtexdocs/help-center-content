@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: delivery-capacity
+locale: en
 legacySlug: delivery-capacity
 announcementImageID: ''
 announcementSynopsisEN: '  Manage and limit the number of items or orders in your scheduled delivery windows.'

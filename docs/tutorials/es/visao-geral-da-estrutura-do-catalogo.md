@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: como-funciona-o-catalogo
+locale: es
 legacySlug: como-funciona-o-catalogo
 subcategory: 209mOqb3iL1vhCFrvFLfSA
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: what-is-dock
+locale: en
 legacySlug: what-is-dock
 subcategory: 3RSSKdmS4MY2ycsu8WoyC2
 ---

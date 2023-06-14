@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: captura-automatica-flexibilize-e-proteja-o-recebimento-dos-seus-pagamentos
+locale: pt
 legacySlug: captura-automatica-flexibilize-e-proteja-o-recebimento-dos-seus-pagamentos
 announcementImageID: ''
 announcementSynopsisPT: 'Novo recurso permite que lojista configure o tempo máximo para que a captura automática aconteça'

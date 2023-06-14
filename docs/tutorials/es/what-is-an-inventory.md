@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: que-es-un-stock
+locale: es
 legacySlug: que-es-un-stock
 subcategory: 3RSSKdmS4MY2ycsu8WoyC2
 ---

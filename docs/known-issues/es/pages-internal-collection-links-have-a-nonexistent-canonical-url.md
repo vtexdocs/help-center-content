@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: los-links-internos-de-una-pagina-de-una-coleccion-tienen-una-url-canonical-inexistente
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

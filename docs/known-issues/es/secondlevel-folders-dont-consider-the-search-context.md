@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: las-carpetas-de-segundo-nivel-no-consideran-el-contexto-de-busqueda
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

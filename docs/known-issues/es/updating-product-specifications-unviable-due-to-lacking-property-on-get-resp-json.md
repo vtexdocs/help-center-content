@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: actualizacion-de-las-especificaciones-del-producto-inviable-debido-a-la-falta-de-propiedad-en-get-resp-json
+locale: es
 kiStatus: Backlog
 internalReference: 301725
 ---

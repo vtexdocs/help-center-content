@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-pago-con-picpay
+locale: es
 legacySlug: configurar-pago-con-picpay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

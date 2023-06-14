@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: xml-loads-product-price-without-sku-unit-multiplier
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

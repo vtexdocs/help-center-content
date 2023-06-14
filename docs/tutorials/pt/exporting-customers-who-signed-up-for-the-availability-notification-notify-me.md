@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: exportar-os-clientes-cadastrados-no-avise-me
+locale: pt
 legacySlug: como-exportar-os-clientes-cadastrados-no-avise-me
 subcategory: 5yDQmr18K4GgQAeGwq8USa
 ---

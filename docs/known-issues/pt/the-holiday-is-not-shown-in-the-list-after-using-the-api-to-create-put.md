@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: o-feriado-nao-e-mostrado-na-lista-depois-de-usar-o-api-para-criar-put
+locale: pt
 kiStatus: Backlog
 internalReference: 571040
 ---

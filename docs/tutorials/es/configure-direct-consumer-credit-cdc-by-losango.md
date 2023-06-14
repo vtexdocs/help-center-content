@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: configurar-credito-directo-al-consumidor-cdc-de-losango
+locale: es
 legacySlug: configurar-credito-directo-al-consumidor-cdc-de-losango
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: alterar-o-numero-de-caracteres-no-boletim-da-braspag
+locale: pt
 kiStatus: Backlog
 internalReference: 771045
 ---

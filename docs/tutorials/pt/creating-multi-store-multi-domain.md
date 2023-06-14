@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: como-criar-multiloja-multidominio
+locale: pt
 legacySlug: como-criar-multiloja-multidominio
 subcategory: yMp6sKDiJEi66CGAIQ4ma
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: o-metodo-stockkeepingunitinsertupdate-webservice-permite-a-insercao-de-refid-existentes
+locale: pt
 kiStatus: Backlog
 internalReference: 419460
 ---

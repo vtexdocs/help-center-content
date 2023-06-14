@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: paypalplus-does-not-respect-the-minimum-installment-amount
+locale: en
 kiStatus: Backlog
 internalReference: 370271
 ---

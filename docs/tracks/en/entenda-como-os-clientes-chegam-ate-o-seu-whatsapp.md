@@ -9,6 +9,7 @@ firstPublishedAt: 2022-08-26T14:41:53.608Z
 contentType: trackArticle
 productTeam: Shopping
 slug: entenda-como-os-clientes-chegam-ate-o-seu-whatsapp
+locale: en
 trackId: khP0p8mjIYRIpvM7Cb4Zr
 trackSlugEN: suiteshare
 ---

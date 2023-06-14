@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_4
 tag: Portal (CMS)
 slug: google-merchant-center-is-denying-ads-due-to-price-divergence
+locale: en
 kiStatus: Fixed
 internalReference: 
 ---

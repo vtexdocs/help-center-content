@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_64
 slug: querying-the-master-data-via-scroll-path
+locale: en
 legacySlug: querying-the-master-data-via-scroll-path
 subcategory: WpbGhubuRZaNZilJSXnqu
 ---

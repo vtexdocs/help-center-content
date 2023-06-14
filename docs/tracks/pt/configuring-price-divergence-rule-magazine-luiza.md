@@ -9,6 +9,7 @@ firstPublishedAt: 2022-01-05T15:54:29.025Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-regra-de-divergencia-de-valores-magazine-luiza
+locale: pt
 trackId: 5Yx5IrNa7Y48c6aSC8wu2Y
 trackSlugPT: configurar-integracao-com-o-magazine-luiza
 ---

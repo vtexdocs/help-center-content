@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: la-opcion-guardar-nueva-tarjeta-no-funciona-para-los-proveedores-de-pago-asincronos
+locale: es
 kiStatus: Backlog
 internalReference: 308892
 ---

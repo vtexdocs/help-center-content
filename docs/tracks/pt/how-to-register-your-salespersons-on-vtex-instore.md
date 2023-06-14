@@ -9,6 +9,7 @@ firstPublishedAt: 2018-03-15T20:24:39.584Z
 contentType: trackArticle
 productTeam: Shopping
 slug: cadastrar-vendedores-no-vtex-instore
+locale: pt
 trackId: 
 trackSlugPT: 
 ---

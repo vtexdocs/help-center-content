@@ -9,6 +9,7 @@ firstPublishedAt: 2019-05-22T21:10:23.345Z
 contentType: trackArticle
 productTeam: Shopping
 slug: how-to-customize-the-observation-field
+locale: en
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugEN: instore-setup
 ---

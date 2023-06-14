@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_3
 slug: viewing-marketplace-orders-on-orders-managment
+locale: en
 legacySlug: viewing-marketplace-orders-on-oms
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

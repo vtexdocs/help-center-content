@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: introducing-the-new-shipping-strategy-interfaces
+locale: en
 legacySlug: introducing-the-new-shipping-strategy-interfaces
 announcementImageID: ''
 announcementSynopsisEN: 'The new shipping strategy interfaces beta release.'
@@ -18,7 +19,7 @@ Starting from May 31st, we are launching for all VTEX stores the beta version of
 
 The **Shipping Strategy** pages have been updated according to the new VTEX design system, as shown below:
 
-![nova_estrategia_envio_announcement_boards_EN](//images.ctfassets.net/alneenqid6w5/7gWgtAG6jo0wXjKCUKYGnj/9a19eb3111c11ccc7b8f085255449b1e/nova_estrategia_envio_announcement_boards_EN.png)
+![nova_estrategia_envio_announcement_boards_EN](https://images.ctfassets.net/alneenqid6w5/7gWgtAG6jo0wXjKCUKYGnj/9a19eb3111c11ccc7b8f085255449b1e/nova_estrategia_envio_announcement_boards_EN.png)
 
 ## What has changed?
 

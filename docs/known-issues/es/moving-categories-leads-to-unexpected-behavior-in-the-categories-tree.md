@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: mover-categorias-genera-comportamientos-inesperados-en-el-arbol-de-categorias
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

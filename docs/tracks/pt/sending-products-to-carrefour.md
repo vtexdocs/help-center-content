@@ -9,6 +9,7 @@ firstPublishedAt: 2018-10-08T23:57:12.868Z
 contentType: trackArticle
 productTeam: Channels
 slug: enviar-produtos-para-carrefour
+locale: pt
 trackId: 2wYlj07cNuA8k8mmwY86K2
 trackSlugPT: configurar-integracao-com-o-carrefour
 ---

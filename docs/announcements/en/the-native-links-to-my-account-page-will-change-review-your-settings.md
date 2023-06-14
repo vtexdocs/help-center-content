@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: authors_31
 slug: the-native-links-to-my-account-page-will-change-review-your-settings
+locale: en
 legacySlug: the-native-links-to-my-account-page-will-change-review-your-settings
 announcementImageID: ''
 announcementSynopsisEN: 'Starting March 9th, the native platform links will direct users to the My Account page.'
@@ -33,7 +34,7 @@ This change's review and subsequent adjustment should be implemented following t
 
 Required steps for review and adjustment:
 
-1. __Basic configuration__: ensure that the template of the "/account" page (illustration below) already uses the `<vtex.cmc:accountUserProfile />` view part and update it if necessary. This view part is responsible for loading all of the customer information, including orders. The previous view parts, `<vtex.cmc:accountAddress/>` and `<vtex.cmc:orderList />`, must be deleted from this template.![account](//images.ctfassets.net/alneenqid6w5/LIki0Pf7j1gOUi01EIajh/f7089fece0b6b10921fcb969066e2f4a/account.png)  
+1. __Basic configuration__: ensure that the template of the "/account" page (illustration below) already uses the `<vtex.cmc:accountUserProfile />` view part and update it if necessary. This view part is responsible for loading all of the customer information, including orders. The previous view parts, `<vtex.cmc:accountAddress/>` and `<vtex.cmc:orderList />`, must be deleted from this template.![account](https://images.ctfassets.net/alneenqid6w5/LIki0Pf7j1gOUi01EIajh/f7089fece0b6b10921fcb969066e2f4a/account.png)  
 2. __Customization__: if the "/account/orders" page is affected by any front-end customization, it should be migrated and adapted to the new URL: "/account#/orders". Review and perform all necessary tests to ensure that all custom resources are functioning properly.  
 3. __Site links__: Review and update all of the site's custom links, in addition to the ones pertaining to transactional emails that would previously direct users to "/account/orders". These links should now direct users to "/account#/orders".
 

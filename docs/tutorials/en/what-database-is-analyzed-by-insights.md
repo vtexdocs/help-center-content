@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_59
 slug: what-database-is-analyzed-by-insights
+locale: en
 legacySlug: what-database-is-analyzed-by-iInsights
 subcategory: 1e4CZPstbwqEW8a0amEWS0
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: entrega-programada
+locale: es
 legacySlug: entrega-programada, como-se-maneja-la-entrega-programada
 subcategory: 1UL6Q7nUN6SkA2g2SUsECi
 ---

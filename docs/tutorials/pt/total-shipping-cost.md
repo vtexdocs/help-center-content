@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: custo-final-do-envio
+locale: pt
 legacySlug: custo-final-do-envio
 subcategory: 7uJcyu0VawEm8ggqKu404u
 ---

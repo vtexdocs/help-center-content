@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-funciona-o-empilhamento
+locale: pt
 legacySlug: como-funciona-o-empilhamento
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

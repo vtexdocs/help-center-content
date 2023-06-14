@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: alerta-para-preencher-a-selecao-de-entrega-programada-aparece-apenas-uma-vez
+locale: pt
 kiStatus: Backlog
 internalReference: 565982
 ---

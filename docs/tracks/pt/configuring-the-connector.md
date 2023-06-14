@@ -9,6 +9,7 @@ firstPublishedAt: 2021-04-15T17:41:17.442Z
 contentType: trackArticle
 productTeam: Channels
 slug: configuracao-do-conector
+locale: pt
 trackId: 25Sl7iOqq58PGfVfTAo8Xw
 trackSlugPT: configurar-integracao-com-o-google-shopping
 ---

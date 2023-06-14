@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: como-migrar-una-tienda-para-el-pricing
+locale: es
 legacySlug: como-migrar-una-tienda-para-el-pricing-v2
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

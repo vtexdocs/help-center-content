@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
 slug: por-que-se-facturo-mi-pedido-y-sigue-reservado-el-producto
+locale: es
 legacySlug: por-que-se-facturo-mi-pedido-y-sigue-reservado-el-producto
 ---
 

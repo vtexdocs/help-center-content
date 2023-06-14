@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_24
 slug: por-que-nao-recomendamos-inserir-um-proxy-reverso-em-frente-aos-servicos-da
+locale: pt
 legacySlug: por-que-nao-recomendamos-inserir-um-proxy-reverso-em-frente-aos-servicos-da
 subcategory: 2Za4fjGfxYOo6oqykukgyy
 ---

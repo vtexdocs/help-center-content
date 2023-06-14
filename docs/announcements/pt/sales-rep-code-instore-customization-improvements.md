@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: codigo-vendedor-evolucoes-customizacao-instore
+locale: pt
 legacySlug: codigo-do-vendedor-evolucoes-na-customizacao-do-instore
 announcementImageID: ''
 announcementSynopsisPT: 'Agora o cliente pode tornar o código de vendedor uma etapa obrigatória para a finalização de uma venda.'

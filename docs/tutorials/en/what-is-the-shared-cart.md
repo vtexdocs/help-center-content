@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: what-is-the-shared-cart
+locale: en
 legacySlug: what-is-the-shared-cart
 subcategory: 8AGXmtpbTqUE2KQu0Swwk
 ---

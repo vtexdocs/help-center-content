@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_3
 slug: por-que-o-produto-da-lista-ja-foi-comprado-e-continua-disponivel-para-a-compra
+locale: es
 legacySlug: por-que-o-produto-da-lista-ja-foi-comprado-e-continua-disponivel-para-a-compra
 ---
 

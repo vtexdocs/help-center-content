@@ -9,6 +9,7 @@ firstPublishedAt: 2021-04-15T17:41:20.460Z
 contentType: trackArticle
 productTeam: Channels
 slug: autenticacao-da-conta-google-shopping
+locale: pt
 trackId: 25Sl7iOqq58PGfVfTAo8Xw
 trackSlugPT: configurar-integracao-com-o-google-shopping
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2019-02-28T23:13:35.624Z
 contentType: trackArticle
 productTeam: Channels
 slug: sending-products-to-amazon
+locale: en
 trackId: 6sgd4Pagy3wNsWKBvmIFrP
 trackSlugEN: amazon-integration
 ---

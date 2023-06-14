@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-18T12:20:43.861Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: exporting-an-order
+locale: en
 trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugEN: orders
 ---

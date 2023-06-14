@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
 slug: intente-actualizar-la-plantilla-de-flete-y-ocurrio-un-error-que-hacer
+locale: es
 legacySlug: intente-actualizar-la-plantilla-de-flete-y-ocurrio-un-error-que-hacer
 ---
 

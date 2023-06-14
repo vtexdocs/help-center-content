@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_84
 slug: how-to-configure-mercadopago-transparente
+locale: en
 legacySlug: 
 ---
 

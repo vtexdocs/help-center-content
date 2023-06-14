@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Master Data
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: se-descontinuara-la-entidad-de-pedidos-de-master-data-v2
+locale: es
 legacySlug: se-descontinuara-la-entidad-de-pedidos-de-master-data-v2
 announcementImageID: ''
 announcementSynopsisES: 'VTEX descontinuará la entidad de pedidos de Master Data v2 en octubre de 2023. Adapta las integraciones de tu tienda.'

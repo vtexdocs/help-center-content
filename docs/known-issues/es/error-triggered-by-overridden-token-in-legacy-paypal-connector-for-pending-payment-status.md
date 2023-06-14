@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: error-provocado-por-un-token-anulado-en-el-conector-heredado-de-paypal-para-el-estado-de-pago-pendiente
+locale: es
 kiStatus: Backlog
 internalReference: 308214
 ---

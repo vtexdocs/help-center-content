@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: search-doesnt-encode-hyphen-and-replaces-it-with-a-space
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

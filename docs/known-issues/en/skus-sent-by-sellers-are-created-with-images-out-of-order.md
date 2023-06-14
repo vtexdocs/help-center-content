@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: skus-sent-by-sellers-are-created-with-images-out-of-order
+locale: en
 kiStatus: Fixed
 internalReference: 648349
 ---

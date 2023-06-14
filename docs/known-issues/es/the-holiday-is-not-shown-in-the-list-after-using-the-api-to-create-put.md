@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: las-vacaciones-no-se-muestran-en-la-lista-despues-de-utilizar-la-api-para-crear-put
+locale: es
 kiStatus: Backlog
 internalReference: 571040
 ---

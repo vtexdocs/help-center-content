@@ -9,6 +9,7 @@ firstPublishedAt: 2020-05-19T12:28:17.920Z
 contentType: trackArticle
 productTeam: Shopping
 slug: instore-download
+locale: en
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugEN: instore-setup
 ---

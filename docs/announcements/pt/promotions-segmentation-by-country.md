@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: segmentacao-de-promocoes-por-pais
+locale: pt
 legacySlug: segmentacao-de-promocoes-por-pais
 announcementImageID: ''
 announcementSynopsisPT: 'A VTEX apresenta uma nova feature para clientes que têm operação em vários países: o filtro de promoção por país'

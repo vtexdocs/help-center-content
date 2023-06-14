@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: o-envio-simultaneo-de-mais-de-um-arquivo-existente-nao-atualiza-todos-os-arquivos-no-file-manager
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

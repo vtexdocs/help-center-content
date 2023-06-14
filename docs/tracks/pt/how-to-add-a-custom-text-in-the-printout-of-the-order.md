@@ -9,6 +9,7 @@ firstPublishedAt: 2018-12-27T19:45:31.137Z
 contentType: trackArticle
 productTeam: Shopping
 slug: como-adicionar-texto-extra-na-impressao-do-pedido
+locale: pt
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugPT: instore-setup
 ---
@@ -32,7 +33,7 @@ Após recarregar o inStore, quando for imprimir um pedido verá esse texto extra
 Exemplo rápido:
 
 Antes de adicionar o texto extra teriamos uma impressão da seguinte forma:
-![inStore recommended text before](//images.ctfassets.net/alneenqid6w5/5AWqMIPwGc6aCSYGEsOAOq/6c1eda39348438463dc65a30fa56261e/inStore_recommended_text_before.png)
+![inStore recommended text before](https://images.ctfassets.net/alneenqid6w5/5AWqMIPwGc6aCSYGEsOAOq/6c1eda39348438463dc65a30fa56261e/inStore_recommended_text_before.png)
 
 Ao alterar o arquivo `checkout-instore-custom.js` colocando o seguinte texto extra:
 
@@ -43,6 +44,6 @@ window.INSTORE_CONFIG = {
 ```
 
 Agora quando for impresso o pedido, teremos:
-![inStore recommended text after](//images.ctfassets.net/alneenqid6w5/7loSAqq1wIWIioOekyiaIO/2226bb32bb7a191b5f709e3ce429d30d/inStore_recommended_text_after.png)
+![inStore recommended text after](https://images.ctfassets.net/alneenqid6w5/7loSAqq1wIWIioOekyiaIO/2226bb32bb7a191b5f709e3ce429d30d/inStore_recommended_text_after.png)
 
 

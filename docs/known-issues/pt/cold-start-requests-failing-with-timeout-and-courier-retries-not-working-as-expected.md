@@ -11,6 +11,7 @@ productTeam: App Platform
 author: 2mXZkbi0oi061KicTExNjo
 tag: App Platform
 slug: as-solicitacoes-de-cold-start-falham-com-o-tempo-limite-e-as-novas-tentativas-de-entrega-nao-funcionam-como-esperado
+locale: pt
 kiStatus: Backlog
 internalReference: 789499
 ---

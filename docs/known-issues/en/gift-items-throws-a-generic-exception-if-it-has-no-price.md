@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: gift-items-throws-a-generic-exception-if-it-has-no-price
+locale: en
 kiStatus: Backlog
 internalReference: 510490
 ---

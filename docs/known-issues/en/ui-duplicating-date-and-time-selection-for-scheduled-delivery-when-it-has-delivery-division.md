@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: ui-duplicating-date-and-time-selection-for-scheduled-delivery-when-it-has-delivery-division
+locale: en
 kiStatus: Backlog
 internalReference: 569132
 ---

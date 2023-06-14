@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: la-devolucion-parcial-del-pedido-provoco-el-reembolso-total-de-la-transaccion
+locale: es
 kiStatus: Backlog
 internalReference: 377044
 ---

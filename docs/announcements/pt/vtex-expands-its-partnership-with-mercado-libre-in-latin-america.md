@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: vtex-amplia-parceria-com-mercado-livre-na-america-latina
+locale: pt
 legacySlug: vtex-amplia-parceria-com-mercado-livre-na-america-latina
 announcementImageID: ''
 announcementSynopsisPT: 'A certificação assegura que a VTEX oferece funcionalidades para sua loja ter sucesso em vendas no Mercado Livre'

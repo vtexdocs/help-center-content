@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_4
 slug: redirection-from-other-addresses
+locale: en
 legacySlug: 
 subcategory: 2Za4fjGfxYOo6oqykukgyy
 ---

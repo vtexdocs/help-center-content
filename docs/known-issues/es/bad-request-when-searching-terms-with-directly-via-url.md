@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: solicitud-incorrecta-al-buscar-terminos-con-directamente-a-traves-de-la-url
+locale: es
 kiStatus: Backlog
 internalReference: 775524
 ---

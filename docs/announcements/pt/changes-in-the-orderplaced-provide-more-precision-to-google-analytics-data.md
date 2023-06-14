@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: authors_24
 slug: mudancas-no-orderplaced-proporcionam-dados-mais-precisos-no-google
+locale: pt
 legacySlug: mudancas-no-orderplaced-proporcionam-dados-mais-precisos-no-google
 announcementImageID: ''
 announcementSynopsisPT: 'Pedidos com produtos de mais de um seller agora geram um único evento no Google Analytics.'

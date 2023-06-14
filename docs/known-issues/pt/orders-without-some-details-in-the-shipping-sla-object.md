@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: pedidos-sem-alguns-detalhes-no-objeto-sla-de-embarque
+locale: pt
 kiStatus: Backlog
 internalReference: 575219
 ---

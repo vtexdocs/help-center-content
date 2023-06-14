@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: no-funciona-la-ordenacion-de-imagenes-al-subir-una-nueva-version
+locale: es
 kiStatus: Backlog
 internalReference: 739814
 ---

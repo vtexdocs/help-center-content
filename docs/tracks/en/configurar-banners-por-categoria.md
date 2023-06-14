@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: configurar-banners-por-categoria
+locale: en
 trackId: 
 trackSlugEN: 
 ---

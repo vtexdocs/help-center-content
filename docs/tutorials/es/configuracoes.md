@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: configuracoes
+locale: es
 legacySlug: configuracoes
 subcategory: 
 ---

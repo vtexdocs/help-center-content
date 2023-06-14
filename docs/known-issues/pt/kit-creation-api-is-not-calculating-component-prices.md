@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: a-api-de-criacao-de-kits-nao-esta-calculando-os-precos-dos-componentes
+locale: pt
 kiStatus: Backlog
 internalReference: 739693
 ---

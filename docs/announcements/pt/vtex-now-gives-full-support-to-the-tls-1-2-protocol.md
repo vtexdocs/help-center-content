@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
 slug: vtex-agora-da-total-suporte-ao-protocolo-tls-1-2
+locale: pt
 legacySlug: vtex-agora-da-total-suporte-ao-protocolo-tls-1-2
 announcementImageID: ''
 announcementSynopsisPT: 'A partir de 15 de março, vamos passar a dar suporte total ao protocolo TLS 1.2, garantindo mais segurança para sua loja.'

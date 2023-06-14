@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: no-se-ha-anadido-el-valor-de-la-recompensa-o-se-ha-anadido-un-valor-diferente-a-la-tarjeta-regalo
+locale: es
 kiStatus: Backlog
 internalReference: 844079
 ---

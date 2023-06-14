@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: we-have-a-problem-validating-the-clientid-field-of-the-giftcard-on-admin
+locale: en
 kiStatus: Backlog
 internalReference: 454388
 ---

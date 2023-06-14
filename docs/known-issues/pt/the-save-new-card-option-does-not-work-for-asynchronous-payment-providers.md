@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: a-opcao-salvar-novo-cartao-nao-funciona-para-provedores-assincronos-de-pagamento
+locale: pt
 kiStatus: Backlog
 internalReference: 308892
 ---

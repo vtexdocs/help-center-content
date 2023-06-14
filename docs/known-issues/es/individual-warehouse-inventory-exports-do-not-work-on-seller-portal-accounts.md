@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: las-exportaciones-de-almacenes-individuales-inventario-no-funcionan-en-las-cuentas-del-seller-portal
+locale: es
 kiStatus: Backlog
 internalReference: 684464
 ---

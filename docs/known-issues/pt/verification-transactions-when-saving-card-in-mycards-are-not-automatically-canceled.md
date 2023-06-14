@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: as-transacoes-de-verificacao-ao-salvar-o-cartao-em-mycards-nao-sao-automaticamente-canceladas
+locale: pt
 kiStatus: Backlog
 internalReference: 347084
 ---

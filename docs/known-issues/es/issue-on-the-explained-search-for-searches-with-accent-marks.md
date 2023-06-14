@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: problema-en-la-busqueda-explicada-para-las-busquedas-con-tildes
+locale: es
 kiStatus: Backlog
 internalReference: 434752
 ---

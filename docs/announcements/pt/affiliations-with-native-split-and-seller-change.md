@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: afiliacoes-com-split-nativo-e-alteracao-de-seller
+locale: pt
 legacySlug: afiliacoes-com-split-nativo-e-alteracao-de-seller
 announcementImageID: ''
 announcementSynopsisPT: 'Novos comportamentos de captura permitem alteração de seller e flexibilizam marketplaces com afiliações de split nativo.'

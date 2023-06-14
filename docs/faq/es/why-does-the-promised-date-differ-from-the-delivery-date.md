@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: por-que-la-fecha-prometida-diverge-con-la-fecha-de-entrega
+locale: es
 legacySlug: por-que-la-fecha-prometida-diverge-con-la-fecha-de-entrega
 ---
 

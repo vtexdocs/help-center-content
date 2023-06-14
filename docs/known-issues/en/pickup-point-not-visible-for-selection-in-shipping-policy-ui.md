@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: 
 slug: pickup-point-not-visible-for-selection-in-shipping-policy-ui
+locale: en
 kiStatus: Backlog
 internalReference: 449813
 ---

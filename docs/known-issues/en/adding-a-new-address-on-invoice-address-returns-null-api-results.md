@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: adding-a-new-address-on-invoice-address-returns-null-api-results
+locale: en
 kiStatus: Backlog
 internalReference: 748668
 ---

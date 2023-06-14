@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: TAUXpa4XWCsIaUOoksGIE
 slug: como-modificar-la-informacion-de-direccion-de-los-clientes
+locale: es
 legacySlug: como-modificar-la-informacion-de-direccion-de-los-clientes
 subcategory: 42hDtnYXHw5ExG6l19RP1l
 ---

@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: magalu-sku-sendo-integrado-com-especificacoes-de-outro-marketplace
+locale: pt
 kiStatus: Backlog
 internalReference: 689151
 ---

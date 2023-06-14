@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: cancelamento-de-pedido-por-parte-do-cliente
+locale: pt
 legacySlug: como-funciona-o-cancelamento-de-pedido-por-parte-do-cliente
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

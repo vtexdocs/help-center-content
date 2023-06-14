@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: magazine-luiza-integrated-fob-order-with-conventional-delivery
+locale: en
 kiStatus: Backlog
 internalReference: 721951
 ---

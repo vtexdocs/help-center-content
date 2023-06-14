@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: seller-portal-primeiros-passos
+locale: pt
 legacySlug: seller-portal-primeiros-passos
 subcategory: 4hisB47iAVZk4r3SEmMoG
 ---

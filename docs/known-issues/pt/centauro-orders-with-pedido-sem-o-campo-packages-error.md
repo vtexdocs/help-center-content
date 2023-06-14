@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: centauro-orders-with-pedido-sem-o-campo-packages-error
+locale: pt
 kiStatus: Backlog
 internalReference: 604422
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-encontrar-un-pedido
+locale: es
 legacySlug: como-encontrar-un-pedido
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

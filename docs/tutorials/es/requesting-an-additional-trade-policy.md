@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: contratacion-de-politicas-comerciales-adicionales
+locale: es
 legacySlug: contratacion-de-politicas-comerciales-adicionales
 subcategory: 6J3wx7KM4oysymsWuUACyY
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-archivo-xml-no-obtiene-el-precio-de-swl
+locale: es
 kiStatus: Backlog
 internalReference: 425027
 ---

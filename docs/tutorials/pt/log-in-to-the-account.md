@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 
 slug: fazer-login-na-conta-da-loja
+locale: pt
 legacySlug: fazer-login-na-conta-da-loja
 subcategory: 
 ---

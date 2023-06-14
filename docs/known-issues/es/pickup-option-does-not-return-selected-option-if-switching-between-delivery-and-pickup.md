@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-opcion-de-recogida-no-devuelve-la-opcion-seleccionada-si-se-cambia-entre-entrega-y-recogida
+locale: es
 kiStatus: Backlog
 internalReference: 588394
 ---

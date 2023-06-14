@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: las-cuentas-con-en-el-nombre-no-tienen-metricas-en-el-informe-de-busqueda
+locale: es
 kiStatus: Backlog
 internalReference: 793570
 ---

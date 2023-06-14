@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_4
 tag: Portal (CMS)
 slug: quick-view-does-not-work-on-HTTPS-pages
+locale: en
 kiStatus: Fixed
 internalReference: 
 ---

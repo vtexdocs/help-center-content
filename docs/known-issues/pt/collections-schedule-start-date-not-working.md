@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: data-de-inicio-das-colecoes-nao-funciona
+locale: pt
 kiStatus: Fixed
 internalReference: 667328
 ---

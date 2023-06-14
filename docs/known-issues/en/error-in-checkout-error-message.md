@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: error-in-checkout-error-message
+locale: en
 kiStatus: Backlog
 internalReference: 409895
 ---

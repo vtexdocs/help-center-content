@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:28:47.464Z
 contentType: trackArticle
 productTeam: VTEX IO
 slug: o-que-e-o-cms
+locale: es
 trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugES: cms
 ---

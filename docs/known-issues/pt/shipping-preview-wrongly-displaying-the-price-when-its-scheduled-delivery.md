@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: previsualizacao-de-embarque-exibindo-erroneamente-o-preco-quando-a-entrega-e-programada
+locale: pt
 kiStatus: Backlog
 internalReference: 532487
 ---

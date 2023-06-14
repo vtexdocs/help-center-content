@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: mi-cuenta-el-campo-nombre-del-receptor-no-reconoce-la-entrada
+locale: es
 kiStatus: Scheduled
 internalReference: 568527
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: configurar-descuento-de-precio-al-contado-para-google-shopping
+locale: es
 legacySlug: configurar-descuento-de-precio-al-contado-para-google-shopping
 subcategory: 3pGCbMh80UueoeSqoAgSuS
 ---
@@ -24,7 +25,7 @@ Para configurar el descuento de precio al contado para Google Shopping es necesa
 4. Haga clic en el template de su página de producto en la lista de templates.
 5. En el componente `richSnippets`, debe añadir el parámetro `paymentSystemId` con el valor del medio de pago deseado.
 
-![Screenshot 2020-12-18 Crear precio al contado para Google Shopping](//images.ctfassets.net/alneenqid6w5/3cZKIpG2uAhDmFTJDslHZk/1bd7628049b5c5b7326df8044ac673f2/Screenshot_2020-12-18_Criar_pre__o____vista_para_Google_Shopping.png)
+![Screenshot 2020-12-18 Crear precio al contado para Google Shopping](https://images.ctfassets.net/alneenqid6w5/3cZKIpG2uAhDmFTJDslHZk/1bd7628049b5c5b7326df8044ac673f2/Screenshot_2020-12-18_Criar_pre__o____vista_para_Google_Shopping.png)
 
 6. Después, haga clic en __Save Template__ en el campo superior, para guardar la alteración.
 

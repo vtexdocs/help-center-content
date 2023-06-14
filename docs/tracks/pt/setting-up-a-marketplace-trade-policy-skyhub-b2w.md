@@ -9,6 +9,7 @@ firstPublishedAt: 2021-02-22T21:40:49.337Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-politica-comercial-para-marketplace-skyhub-b2w
+locale: pt
 trackId: 6w07SJBVqE020KIOOS8ygk
 trackSlugPT: configurar-integracao-da-skyhub-b2w
 ---

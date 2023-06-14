@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: a-compra-nao-pode-ser-concluida-e-retorna-o-erro-o-campo-do-nome-do-receptor-e-invalido
+locale: pt
 kiStatus: Fixed
 internalReference: 313945
 ---

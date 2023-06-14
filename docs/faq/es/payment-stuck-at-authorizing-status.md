@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_59
 slug: pago-detenido-en-status-autorizacion
+locale: es
 legacySlug: 
 ---
 

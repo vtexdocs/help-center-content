@@ -9,6 +9,7 @@ contentType: updates
 productTeam: VTEX IO
 author: 6AcGyun1hSWewU8YcaQiO
 slug: store-framework-otimize-o-tempo-de-carregamento-da-sua-loja
+locale: pt
 legacySlug: store-framework-otimize-o-tempo-de-carregamento-da-sua-loja
 announcementImageID: ''
 announcementSynopsisPT: 'Acelere a apresentação do conteúdo do seu website adotando as boas práticas de performance do Store Framework.'

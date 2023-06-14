@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_4
 tag: Checkout
 slug: promociones-e-impuestos-no-se-aplican-a-los-servicios
+locale: es
 kiStatus: Closed
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: como-crear-un-cupon
+locale: es
 legacySlug: como-crear-un-cupon
 subcategory: 1TXh7VjDSIGA2eSI0CmUsi
 ---

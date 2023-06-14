@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: as-configuracoes-de-espaco-reservado-no-cms-nao-exibem-todo-o-conteudo
+locale: pt
 kiStatus: Backlog
 internalReference: 547555
 ---

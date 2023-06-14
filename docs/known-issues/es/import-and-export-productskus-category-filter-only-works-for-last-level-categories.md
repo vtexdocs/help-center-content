@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-filtro-de-importacion-y-exportacion-de-categorias-de-productosskus-solo-funciona-para-las-categorias-de-ultimo-nivel
+locale: es
 kiStatus: Fixed
 internalReference: 550313
 ---

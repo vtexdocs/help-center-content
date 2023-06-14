@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: cambio-de-pedido
+locale: es
 legacySlug: permitir-cambios-de-pedidos-ya-cerrados, como-funciona-la-sustitucion-de-pedidos
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---

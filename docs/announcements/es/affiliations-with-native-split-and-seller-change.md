@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: afiliaciones-con-split-de-pagos-nativo-y-alteracion-de-sellers
+locale: es
 legacySlug: afiliaciones-con-split-de-pagos-nativo-y-alteracion-de-sellers
 announcementImageID: ''
 announcementSynopsisES: 'Nuevas formas de captura permiten alterar sellers y flexibilizan marketplaces con afiliaciones de split de pagos nativo.'

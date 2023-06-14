@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_59
 slug: were-launching-your-personal-data-set-up-screen
+locale: en
 legacySlug: were-launching-your-personal-data-set-up-screen
 announcementImageID: ''
 announcementSynopsisEN: "Now it's easier to edit your personal VTEX Admin access settings"

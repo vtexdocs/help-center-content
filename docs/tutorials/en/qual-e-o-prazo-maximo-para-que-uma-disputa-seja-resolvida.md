@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: 
 author: 
 slug: qual-e-o-prazo-maximo-para-que-uma-disputa-seja-resolvida
+locale: en
 legacySlug: qual-e-o-prazo-maximo-para-que-uma-disputa-seja-resolvida
 subcategory: 
 ---

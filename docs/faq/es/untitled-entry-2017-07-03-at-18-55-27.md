@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_2
 slug: untitled-entry-2017-07-03-at-18-55-27
+locale: es
 legacySlug: untitled-entry-2017-07-03-at-18-55-27
 ---
 

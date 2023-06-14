@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_59
 slug: setting-up-the-logistics-for-instore
+locale: en
 legacySlug: setting-up-the-logistics-for-instore
 subcategory: 4T6qfa6gNO6g4sAUIa6s2G
 ---

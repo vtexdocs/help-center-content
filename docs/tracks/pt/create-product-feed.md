@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-30T01:10:09.032Z
 contentType: trackArticle
 productTeam: Apps
 slug: criar-feed-de-produtos
+locale: pt
 trackId: 2KDrouPiE4HDKUFFSG3KdN
 trackSlugPT: integracao-com-a-lengow
 ---

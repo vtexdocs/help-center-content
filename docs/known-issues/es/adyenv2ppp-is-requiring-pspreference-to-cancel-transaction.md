@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: adyenv2ppp-requiere-pspreference-para-cancelar-la-transaccion
+locale: es
 kiStatus: Backlog
 internalReference: 486752
 ---

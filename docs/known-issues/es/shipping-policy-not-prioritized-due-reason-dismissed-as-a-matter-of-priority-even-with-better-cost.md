@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: politica-de-envio-no-priorizada-por-motivo-descartado-con-caracter-prioritario-incluso-con-mejor-coste
+locale: es
 kiStatus: Backlog
 internalReference: 379685
 ---

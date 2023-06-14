@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_4
 slug: preciso-de-uma-hospedagem-para-minha-loja-vtex
+locale: pt
 legacySlug: preciso-de-uma-hospedagem-para-minha-loja-vtex
 subcategory: 2Za4fjGfxYOo6oqykukgyy
 ---

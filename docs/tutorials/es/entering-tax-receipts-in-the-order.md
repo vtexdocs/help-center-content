@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-insertar-la-nota-fiscal
+locale: es
 legacySlug: como-insertar-la-nota-fiscal
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---
@@ -18,7 +19,7 @@ Ese es el procedimiento después del manejo del pedido: la creación de la nota 
 
 Para hacerlo manualmente por **Gestión de pedidos**, basta hacer clic en el botón `Facturar Paqueta`, como en la imagen abajo.
 
-![faturar-pedido-ex es](//images.ctfassets.net/alneenqid6w5/3JeHgjEDtmm4ksSwamsW2W/d49ebe8fa3ea9e920e8d52f530182895/ex_1_es.png)
+![faturar-pedido-ex es](https://images.ctfassets.net/alneenqid6w5/3JeHgjEDtmm4ksSwamsW2W/d49ebe8fa3ea9e920e8d52f530182895/ex_1_es.png)
 
 Con la inserción de la nota fiscal con el valor completo del pedido, él pasará para el status **Facturado.**
 

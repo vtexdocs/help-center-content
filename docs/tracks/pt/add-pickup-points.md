@@ -9,6 +9,7 @@ firstPublishedAt: 2019-09-16T13:52:23.078Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: cadastrar-pontos-de-retirada
+locale: pt
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugPT: logistica-101
 ---
@@ -28,7 +29,7 @@ Siga o passo a passo abaixo para cadastrar um ponto de retirada na sua loja:
 4. Preencha os campos do formulário de ponto de retirada. Para entender melhor o significado de cada campo, consulte a seção [Campos de cadastro](#campos-de-cadastro), abaixo.
 5. Clique no botão **Save Changes** 
 
-![PT Cadastrar Pontos de Retirada GIF](//images.ctfassets.net/alneenqid6w5/7m2LOZGJLly2gdprwvU7Gt/06d1113db5efc6d6fc35c26daa9fabf4/PT_Cadastrar_Pontos_de_Retirada_GIF.gif)
+![PT Cadastrar Pontos de Retirada GIF](https://images.ctfassets.net/alneenqid6w5/7m2LOZGJLly2gdprwvU7Gt/06d1113db5efc6d6fc35c26daa9fabf4/PT_Cadastrar_Pontos_de_Retirada_GIF.gif)
 
 ### Campos de cadastro
 

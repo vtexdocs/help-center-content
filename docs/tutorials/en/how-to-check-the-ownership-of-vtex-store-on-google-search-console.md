@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: how-to-check-the-ownership-of-vtex-store-on-google-search-console
+locale: en
 legacySlug: how-to-check-the-ownership-of-vtex-store-on-google-search-console
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

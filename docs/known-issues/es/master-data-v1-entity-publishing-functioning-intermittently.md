@@ -11,6 +11,7 @@ productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
 slug: la-publicacion-de-entidad-master-data-v1-funciona-de-manera-intermitente
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

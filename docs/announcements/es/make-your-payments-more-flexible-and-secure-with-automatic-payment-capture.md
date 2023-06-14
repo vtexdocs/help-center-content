@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: captura-automatica-haga-sus-pagos-mas-flexibles-y-seguros
+locale: es
 legacySlug: captura-automatica-haga-sus-pagos-mas-flexibles-y-seguros
 announcementImageID: ''
 announcementSynopsisES: 'Nuevo recurso permite que el administrador de la tienda configure el tiempo máximo para que la captura automática ocurra'

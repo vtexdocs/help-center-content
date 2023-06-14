@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: configurar-gateway-sitef
+locale: es
 legacySlug: configurar-gateway-sitef
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

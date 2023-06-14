@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: inativar-skus-e-produtos-da-loja
+locale: pt
 legacySlug: inativar-skus-e-produtos-da-loja
 subcategory: pwxWmUu7T222QyuGogs68
 ---

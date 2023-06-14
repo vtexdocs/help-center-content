@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Master Data
 author: authors_24
 slug: nova-api-do-master-data-aumenta-flexibilidade-de-configuracao
+locale: pt
 legacySlug: nova-api-do-master-data-aumenta-flexibilidade-de-configuracao
 announcementImageID: ''
 announcementSynopsisPT: 'Nova versão traz recursos que permitem mais flexibilidade de configuração das estruturas armazenadas no Master Data'

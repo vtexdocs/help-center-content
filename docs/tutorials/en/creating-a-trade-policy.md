@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: creating-a-trade-policy
+locale: en
 legacySlug: what-is-a-sales-policy
 subcategory: 6J3wx7KM4oysymsWuUACyY
 ---

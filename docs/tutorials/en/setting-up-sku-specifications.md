@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 slug: setting-up-sku-specifications
+locale: en
 legacySlug: setting-up-sku-specifications
 subcategory: pwxWmUu7T222QyuGogs68
 ---

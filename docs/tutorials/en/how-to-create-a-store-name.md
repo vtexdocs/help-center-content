@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: how-to-create-a-store-name
+locale: en
 legacySlug: how-to-create-a-store-name
 subcategory: yMp6sKDiJEi66CGAIQ4ma
 ---
@@ -22,7 +23,7 @@ To create or edit a [store name](https://help.vtex.com/pt/tutorial/o-que-e-store
 4. Access [Account management](https://help.vtex.com/en/tutorial/visao-geral-do-modulo-license-manager) > **Account**.
 5. In the Store section, you will see the store names that already exist in your account. You can edit the information for each store or create a new store name by clicking the **Configure this store** button.
 
-![Store name configuration](//images.ctfassets.net/alneenqid6w5/6SMoOHKSbO68nfy6x5mx02/fd371329c163b0611c188cd6816e8ccf/EN.PNG)
+![Store name configuration](https://images.ctfassets.net/alneenqid6w5/6SMoOHKSbO68nfy6x5mx02/fd371329c163b0611c188cd6816e8ccf/EN.PNG)
 
 Learn how to set up your stores' domain in the article [Changing the domain of the store](https://help.vtex.com/en/tutorial/o-que-preciso-fazer-para-mudar-o-dominio-da-minha-loja--frequentlyAskedQuestions_626).
 

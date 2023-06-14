@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: timeout-ao-mudar-as-palavraschave-da-categoria-com-muitos-produtos
+locale: pt
 kiStatus: Backlog
 internalReference: 497335
 ---

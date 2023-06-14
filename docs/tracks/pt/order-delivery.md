@@ -9,6 +9,7 @@ firstPublishedAt: 2021-09-09T13:28:39.935Z
 contentType: trackArticle
 productTeam: Shopping
 slug: delivery
+locale: pt
 trackId: 3WGDRRhc3vf1MJb9zGncnv
 trackSlugPT: estrategias-de-comercio-unificado
 ---
@@ -22,7 +23,7 @@ Veja dois exemplos desse cenário:
 
 Nesse caso, é comum que os itens partam do estoque de um Centro de Distribuição, conforme ilustrado abaixo.
 
-![PT Conceitos Logística](//images.ctfassets.net/alneenqid6w5/aZMHlLUkOUDuN0vEITGy1/10a2b5b7d0ce301dc4c9fa2aa7bf236f/PT_Conceitos_Log__stica.png)
+![PT Conceitos Logística](https://images.ctfassets.net/alneenqid6w5/aZMHlLUkOUDuN0vEITGy1/10a2b5b7d0ce301dc4c9fa2aa7bf236f/PT_Conceitos_Log__stica.png)
 
 Outra possibilidade de entrega que pode otimizar a operação e reduzir custos é implementar a estratégia [Ship From Store](https://help.vtex.com/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/50GAmxxFsJoLWqcnMysWdl), para que os itens também possam ser enviados a partir do estoque das lojas físicas.
 

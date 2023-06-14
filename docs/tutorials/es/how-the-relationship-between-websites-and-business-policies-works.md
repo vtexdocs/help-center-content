@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: como-funciona-la-relacion-entre-sitios-web-y-politicas-comerciales
+locale: es
 legacySlug: como-funciona-la-relacion-entre-sitios-web-y-politicas-comerciales
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

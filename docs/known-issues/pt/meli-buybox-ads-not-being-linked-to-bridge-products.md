@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: anuncios-meli-buybox-que-nao-estao-ligados-a-produtos-bridge
+locale: pt
 kiStatus: Backlog
 internalReference: 780961
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_84
 slug: como-cambiar-el-dominio-de-la-tienda
+locale: es
 legacySlug: como-cambiar-el-dominio-de-la-tienda
 subcategory: yMp6sKDiJEi66CGAIQ4ma
 ---
@@ -24,7 +25,7 @@ La plataforma VTEX está lista para cambios de domínio sin impactos negativos. 
 
 ### 1. Crear nuevas entradas HOST en el License Manager
 En el License Manager, en “Contas”, será necesario incluir el nuevo dominio cómo HOST de la tienda. Todavía el DNS del nuevo dominio no debe estar apuntado para VTEX. En secuencia la imágenes con ejemplo de cómo se hace la inclusión de nuevos HOSTs:
-![Cambiar dominio](//images.ctfassets.net/alneenqid6w5/2mejT2jclm4MSwCoy8SwGo/c305404cae53e6c3bc7e4077f125c366/626-es.png)
+![Cambiar dominio](https://images.ctfassets.net/alneenqid6w5/2mejT2jclm4MSwCoy8SwGo/c305404cae53e6c3bc7e4077f125c366/626-es.png)
 
 ### 2. Fijar las configuraciones del nuevo Portal
 Es paso es fundamental para que el Checkout funcione correctamente.

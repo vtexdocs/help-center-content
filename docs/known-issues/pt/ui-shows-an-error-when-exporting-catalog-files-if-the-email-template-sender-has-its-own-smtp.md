@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: ui-mostra-um-erro-ao-exportar-arquivos-de-catalogo-se-o-remetente-do-modelo-de-email-tiver-seu-proprio-smtp
+locale: pt
 kiStatus: Backlog
 internalReference: 771942
 ---

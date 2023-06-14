@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: facebook-revisar-el-comportamiento-de-la-ruta-de-carga-de-skus-en-facebook
+locale: es
 kiStatus: Fixed
 internalReference: 660874
 ---

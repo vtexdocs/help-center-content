@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_3
 slug: configurando-o-checkout-global
+locale: pt
 legacySlug: configurando-o-checkout-global
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

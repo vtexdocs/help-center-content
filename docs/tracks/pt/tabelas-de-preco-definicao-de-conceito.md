@@ -9,6 +9,7 @@ firstPublishedAt: 2019-07-17T19:40:46.639Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: tabelas-de-preco-definicao-de-conceito
+locale: pt
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugPT: precos-101
 ---

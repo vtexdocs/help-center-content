@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_24
 slug: contratar-ambiente-de-pruebas
+locale: es
 legacySlug: contratar-ambiente-de-pruebas
 subcategory: 6SJnrkKDjGwSqKkMuQMOmm
 ---

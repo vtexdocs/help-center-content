@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: fluxo-de-autenticacao-3ds2-aceite-pagamentos-on-line-de-forma-mais-segura
+locale: pt
 legacySlug: fluxo-de-autenticacao-3ds2-aceite-pagamentos-on-line-de-forma-mais-segura
 announcementImageID: ''
 announcementSynopsisPT: 'O novo protocolo implementa um processo de verificação de dados do cliente final mais robusto e moderno'

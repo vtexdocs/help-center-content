@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: melhorias-no-matcher-da-vtex
+locale: pt
 legacySlug: melhorias-no-matcher-da-vtex
 announcementImageID: ''
 announcementSynopsisPT: 'Reformulamos o matcher da VTEX para aprimorar a catalogação de SKUs do seller, no marketplace'

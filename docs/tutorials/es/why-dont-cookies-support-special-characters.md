@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_35
 slug: por-que-las-cookies-no-soportan-caracteres-especiales
+locale: es
 legacySlug: por-que-las-cookies-no-soportan-caracteres-especiales
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

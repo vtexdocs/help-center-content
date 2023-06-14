@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: delivery-capacity-as-zero-orders-allowing-schedule-carrier-at-checkout
+locale: en
 kiStatus: Scheduled
 internalReference: 471612
 ---

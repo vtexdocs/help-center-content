@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: la-aplicacion-de-condiciones-de-pago-agrupadas-esta-causando-problemas-de-sincronizacion-de-las-reglas-de-pago
+locale: es
 kiStatus: Backlog
 internalReference: 391569
 ---

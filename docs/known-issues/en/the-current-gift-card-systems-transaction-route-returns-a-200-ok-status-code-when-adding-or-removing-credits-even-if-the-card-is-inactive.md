@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: the-current-gift-card-systems-transaction-route-returns-a-200-ok-status-code-when-adding-or-removing-credits-even-if-the-card-is-inactive
+locale: en
 kiStatus: Backlog
 internalReference: 795997
 ---

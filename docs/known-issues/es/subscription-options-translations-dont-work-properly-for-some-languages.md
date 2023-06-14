@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: las-traducciones-de-las-opciones-de-suscripcion-no-funcionan-correctamente-en-algunos-idiomas
+locale: es
 kiStatus: Backlog
 internalReference: 561186
 ---

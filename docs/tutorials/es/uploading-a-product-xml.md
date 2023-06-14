@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_6
 slug: subiendo-un-xml-de-productos
+locale: es
 legacySlug: subiendo-un-xml-de-productos
 subcategory: pwxWmUu7T222QyuGogs68
 ---

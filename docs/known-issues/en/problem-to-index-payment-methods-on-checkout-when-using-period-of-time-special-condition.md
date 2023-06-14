@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: problem-to-index-payment-methods-on-checkout-when-using-period-of-time-special-condition
+locale: en
 kiStatus: Backlog
 internalReference: 402857
 ---

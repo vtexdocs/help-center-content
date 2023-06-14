@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-pagamentos-com-koin
+locale: pt
 legacySlug: configurar-pagamentos-com-koin
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

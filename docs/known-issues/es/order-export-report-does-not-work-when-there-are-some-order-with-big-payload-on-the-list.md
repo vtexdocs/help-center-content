@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: el-informe-de-exportacion-de-pedidos-no-funciona-cuando-hay-algun-pedido-con-una-gran-carga-util-en-la-lista
+locale: es
 kiStatus: Backlog
 internalReference: 832429
 ---

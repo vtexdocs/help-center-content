@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: transacoes-com-o-conector-tnspay-sendo-negadas-por-erro-cartao-nao-proibido-em-3ds
+locale: pt
 kiStatus: Backlog
 internalReference: 541687
 ---

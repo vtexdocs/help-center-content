@@ -9,6 +9,7 @@ firstPublishedAt: 2019-02-19T18:36:31.608Z
 contentType: trackArticle
 productTeam: VTEX IO
 slug: vtex-io-apps-y-store-components
+locale: es
 trackId: 5qJr8BIQXAKec9CpBWrTNv
 trackSlugES: crear-una-tienda-utilizando-vtex-io
 ---

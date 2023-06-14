@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: user-receives-error-message-on-first-registration-in-my-account
+locale: en
 kiStatus: Backlog
 internalReference: 619909
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: novedad-sobre-como-configurar-proveedores-de-inicio-de-sesion-para-su-tienda
+locale: es
 legacySlug: novedades-sobre-como-configurar-los-proveedores-de-login-para-su-tienda, novedad-sobre-como-configurar-proveedores-de-inicio-de-sesion-para-su-tienda
 announcementImageID: ''
 announcementSynopsisES: 'Novedad sobre cómo configurar proveedores de inicio de sesión para su tienda'

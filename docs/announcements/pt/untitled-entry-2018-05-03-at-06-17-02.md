@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Master Data
 author: 
 slug: nova-versao-da-api-do-master-data-ja-esta-em-beta
+locale: pt
 legacySlug: 
 announcementImageID: ''
 announcementSynopsisPT: ''

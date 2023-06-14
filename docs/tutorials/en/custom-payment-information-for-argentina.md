@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: custom-payment-information-for-argentina
+locale: en
 legacySlug: custom-payment-information-for-argentina
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

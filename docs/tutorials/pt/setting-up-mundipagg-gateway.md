@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-gateway-mundipagg
+locale: pt
 legacySlug: configurar-gateway-mundipagg
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

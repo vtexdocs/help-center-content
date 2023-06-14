@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: nueva-ruta
+locale: es
 legacySlug: nueva-ruta
 subcategory: 6a36lWUX5znjBVYTrfc29x
 ---

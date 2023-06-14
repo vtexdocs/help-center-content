@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: a-lista-de-faturas-do-credito-ao-cliente-nao-pode-ser-exportada
+locale: pt
 kiStatus: Backlog
 internalReference: 327219
 ---

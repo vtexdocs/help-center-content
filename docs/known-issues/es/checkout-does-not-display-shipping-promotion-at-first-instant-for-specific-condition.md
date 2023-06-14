@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-pago-no-muestra-la-promocion-de-envio-en-el-primer-instante-para-una-condicion-especifica
+locale: es
 kiStatus: Backlog
 internalReference: 280144
 ---

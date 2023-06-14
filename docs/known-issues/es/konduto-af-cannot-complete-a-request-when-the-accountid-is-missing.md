@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: konduto-af-no-puede-completar-una-solicitud-cuando-falta-el-accountid
+locale: es
 kiStatus: Backlog
 internalReference: 496298
 ---

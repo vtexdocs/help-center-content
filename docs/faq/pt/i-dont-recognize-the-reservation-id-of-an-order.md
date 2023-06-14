@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: nao-reconheco-o-id-de-reserva-de-um-pedido-o-que-pode-ter-acontecido
+locale: pt
 legacySlug: nao-reconheco-o-id-de-reserva-de-um-pedido-o-que-pode-ter-acontecido
 ---
 

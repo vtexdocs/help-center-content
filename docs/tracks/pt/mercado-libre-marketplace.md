@@ -9,6 +9,7 @@ firstPublishedAt: 2020-09-23T20:31:42.798Z
 contentType: trackArticle
 productTeam: Channels
 slug: mercado-livre-marketplace
+locale: pt
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugPT: configurar-integracao-do-mercado-livre
 ---
@@ -17,7 +18,7 @@ O [Mercado Livre](https://www.mercadolivre.com.br/) é um dos líderes do e-comm
 
 Sua operação está presente nos países: Argentina, Brasil, Chile, Colômbia,  México, Uruguai e Venezuela.
 
-![mercado-livre-reproducao-w-970x550](//images.ctfassets.net/alneenqid6w5/2oy6tDlTCV5xKtYinxqr3G/9f13547ee20c96383f18e8151f98177e/mercado-livre-reproducao-w-970x550.jpg)
+![mercado-livre-reproducao-w-970x550](https://images.ctfassets.net/alneenqid6w5/2oy6tDlTCV5xKtYinxqr3G/9f13547ee20c96383f18e8151f98177e/mercado-livre-reproducao-w-970x550.jpg)
 
 O marketplace do Mercado Livre oferece um ambiente de negociação on-line totalmente automatizado, organizado por tópicos e fácil de usar. Esse serviço oferece aos compradores uma grande variedade de itens novos e usados, permitindo que empresas e indivíduos anunciem itens e realizem suas vendas e compras no maior mercado da América Latina.
 

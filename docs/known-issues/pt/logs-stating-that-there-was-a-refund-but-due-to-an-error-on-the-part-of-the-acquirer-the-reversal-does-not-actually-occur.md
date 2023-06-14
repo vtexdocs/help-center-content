@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: registros-declarando-que-houve-um-reembolso-mas-devido-a-um-erro-por-parte-do-comprador-a-reversao-nao-ocorre-de-fato
+locale: pt
 kiStatus: Backlog
 internalReference: 545331
 ---

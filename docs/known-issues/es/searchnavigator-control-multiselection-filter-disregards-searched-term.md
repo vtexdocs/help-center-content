@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog,Portal (CMS)
 slug: filtro-de-seleccion-multiple-del-control-searchnavigator-sin-considerar-el-termino-buscado
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

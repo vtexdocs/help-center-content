@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_84
 slug: what-is-trade-policy
+locale: en
 legacySlug: 
 ---
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_35
 slug: how-to-identify-order-closing-errors
+locale: en
 legacySlug: how-to-identify-order-closing-errors
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: configuring-telesales-features
+locale: en
 legacySlug: configuring-telesales-features
 subcategory: 6SEjoixhY5LlA7G15W6oZS
 ---

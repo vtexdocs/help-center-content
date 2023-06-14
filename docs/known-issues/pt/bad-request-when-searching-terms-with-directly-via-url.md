@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: ma-solicitacao-ao-pesquisar-termos-com-diretamente-via-url
+locale: pt
 kiStatus: Backlog
 internalReference: 775524
 ---

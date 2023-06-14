@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_24
 slug: vtex-network
+locale: pt
 legacySlug: vtex-network
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: why-was-the-marketplace-order-not-integrated
+locale: en
 legacySlug: why-was-the-marketplace-order-not-integrated
 ---
 

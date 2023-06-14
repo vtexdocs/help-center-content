@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: cadastrar-o-codigo-de-barra-dos-skus-para-o-vtex-sales-app
+locale: pt
 legacySlug: cadastrar-o-codigo-de-barra-dos-skus-para-o-instore
 subcategory: pwxWmUu7T222QyuGogs68
 ---

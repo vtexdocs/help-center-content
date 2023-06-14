@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: recurso-de-indexacao-de-ganchos-de-feed-que-ignora-eventos-nos-filtros-fromorders
+locale: pt
 kiStatus: Backlog
 internalReference: 832400
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: o-botao-de-compra-permanece-ativo-mesmo-com-credito-insuficiente-do-metodo-de-pagamento-credito-ao-cliente
+locale: pt
 kiStatus: Backlog
 internalReference: 309820
 ---

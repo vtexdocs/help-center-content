@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: que-es-un-gateway-de-pagos
+locale: es
 legacySlug: que-es-un-gateway-de-pagos
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

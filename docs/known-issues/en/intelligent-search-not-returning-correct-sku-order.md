@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: intelligent-search-not-returning-correct-sku-order
+locale: en
 kiStatus: Fixed
 internalReference: 677937
 ---

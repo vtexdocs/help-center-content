@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: las-transacciones-de-verificacion-al-guardar-la-tarjeta-en-mycards-no-se-cancelan-automaticamente
+locale: es
 kiStatus: Backlog
 internalReference: 347084
 ---

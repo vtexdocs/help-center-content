@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: refatorar-nosso-fluxo-de-senhas-para-chamar-a-nova-mutacao-correspondente-no-aplicativo-graphql
+locale: pt
 kiStatus: Scheduled
 internalReference: 577825
 ---

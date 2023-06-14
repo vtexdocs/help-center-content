@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: divergencia-de-estoque-a-logistica-nao-tem-o-mesmo-tratamento-a-esquerda-que-outra-sku
+locale: pt
 kiStatus: Fixed
 internalReference: 427610
 ---

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog,Portal (CMS)
 slug: error-400-bad-request-al-acceder-a-la-pagina-de-filtro-con-caracter-especial-en-el-valor
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

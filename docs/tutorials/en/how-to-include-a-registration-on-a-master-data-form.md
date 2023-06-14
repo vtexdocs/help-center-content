@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_35
 slug: how-to-include-a-registration-on-a-master-data-form
+locale: en
 legacySlug: how-to-include-a-registration-on-a-master-data-form
 subcategory: 42hDtnYXHw5ExG6l19RP1l
 ---
@@ -36,9 +37,9 @@ Let us say, for example, that you want to edit the information of a customer of 
 
 1. In the VTEX Admin, access **Store Settings** > **Storefront** > **Master Data**.
 2. In Master Data, click **Aplications**.
-2. In the **Profile System** application, choose the form **Clientes**.![2- EN](//images.ctfassets.net/alneenqid6w5/4RQqh0CFIQqC0kYAKOSSEW/0e0076f1bbbf8839057dc737370c218b/2-_EN.png)
+2. In the **Profile System** application, choose the form **Clientes**.![2- EN](https://images.ctfassets.net/alneenqid6w5/4RQqh0CFIQqC0kYAKOSSEW/0e0076f1bbbf8839057dc737370c218b/2-_EN.png)
 3. Search for the user using the **E-mail** field (or another field defined in the data entity as searchable).
-4. Click once on **Editar** inside the user registration; !![2.1 - EN](//images.ctfassets.net/alneenqid6w5/5lI5B5gtDqC4Y22ogykYU8/437cbd32a17b05d2a59686a5e535dff1/2.1_-_EN.png)
+4. Click once on **Editar** inside the user registration; !![2.1 - EN](https://images.ctfassets.net/alneenqid6w5/5lI5B5gtDqC4Y22ogykYU8/437cbd32a17b05d2a59686a5e535dff1/2.1_-_EN.png)
 5. Edit as desired and click on **Salvar**.
 
 The information shown in this example comes from the **CL** data entity, and its fields can be set up as editable, or not, directly in the data entity.

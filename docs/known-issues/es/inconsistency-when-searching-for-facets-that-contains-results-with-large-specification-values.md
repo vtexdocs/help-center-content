@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: incoherencia-al-buscar-facetas-que-contienen-resultados-con-valores-de-especificacion-grandes
+locale: es
 kiStatus: Backlog
 internalReference: 824198
 ---

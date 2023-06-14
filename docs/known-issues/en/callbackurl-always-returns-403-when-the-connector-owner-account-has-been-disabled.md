@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: callbackurl-always-returns-403-when-the-connector-owner-account-has-been-disabled
+locale: en
 kiStatus: Backlog
 internalReference: 775235
 ---

@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: o-usuario-nao-pode-fazer-uma-assinatura-diaria-diretamente-da-area-mysubscriptions
+locale: pt
 kiStatus: Backlog
 internalReference: 430650
 ---

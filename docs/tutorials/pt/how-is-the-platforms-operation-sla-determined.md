@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-e-apurado-o-sla-de-operacao-da-plataforma
+locale: pt
 legacySlug: como-e-apurado-o-sla-de-operacao-da-plataforma
 subcategory: 5PYkoNDZyo2G80yiiqG2YW
 ---

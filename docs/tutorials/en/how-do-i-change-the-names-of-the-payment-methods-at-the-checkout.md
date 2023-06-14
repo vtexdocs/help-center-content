@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_84
 slug: how-do-i-change-the-names-of-the-payment-methods-at-the-checkout
+locale: en
 legacySlug: how-do-i-change-the-names-of-the-payment-methods-at-the-checkout
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: 127RQ7SUoFfyTh5gbXUpdM
 slug: how-to-structure-master-data-entities-to-store-b2b-sales-data
+locale: en
 legacySlug: how-to-structure-master-data-entities-to-store-b2b-sales-data
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

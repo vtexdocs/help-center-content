@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_64
 slug: setting-up-a-b-test
+locale: en
 legacySlug: setting-up-a-b-test
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

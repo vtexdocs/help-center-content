@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 slug: optimizar-las-busquedas-con-palabras-sustitutas
+locale: es
 legacySlug: optimizar-las-busquedas-con-palabras-sustitutas
 subcategory: pwxWmUu7T222QyuGogs68
 ---

@@ -11,6 +11,7 @@ productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 tag: Payments
 slug: transactions-with-notes-payable-note-are-not-automatically-cancelled-after
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

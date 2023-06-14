@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog,Portal (CMS)
 slug: error-400-bad-request-when-accessing-filter-page-with-special-character-in-value
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

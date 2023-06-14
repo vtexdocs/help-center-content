@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 1LdVGl3YH8PuhBMJYvUmFL
 slug: por-que-mi-anuncio-fue-pausado-en-mercado-libre
+locale: es
 legacySlug: por-que-mi-anuncio-fue-pausado-en-mercado-libre
 ---
 

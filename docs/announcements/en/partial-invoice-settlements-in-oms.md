@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: partial-invoice-settlements-in-oms
+locale: en
 legacySlug: partial-invoice-settlements-in-oms
 announcementImageID: ''
 announcementSynopsisEN: 'Partial invoices added to orders trigger partial settlements in the transaction.'

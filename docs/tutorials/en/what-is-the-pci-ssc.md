@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: what-is-the-pci-ssc
+locale: en
 legacySlug: what-is-the-pci-ssc
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

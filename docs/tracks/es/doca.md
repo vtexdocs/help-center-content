@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: 
 slug: doca
+locale: es
 trackId: 
 trackSlugES: 
 ---

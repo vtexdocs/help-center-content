@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: no-se-puede-eliminar-la-plantilla-en-el-cms-heredado
+locale: es
 kiStatus: Backlog
 internalReference: 332033
 ---

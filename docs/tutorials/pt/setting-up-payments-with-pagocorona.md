@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: configurar-pagamento-com-pagocorona
+locale: pt
 legacySlug: configurar-pagamento-com-pagocorona
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

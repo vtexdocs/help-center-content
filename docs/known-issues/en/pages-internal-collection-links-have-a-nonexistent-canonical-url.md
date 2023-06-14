@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: pages-internal-collection-links-have-a-nonexistent-canonical-url
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

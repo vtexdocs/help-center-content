@@ -11,6 +11,7 @@ productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 tag: Order Management
 slug: o-email-de-confirmacao-de-pedido-e-enviado-duas-vezes-em-pedidos-que-possuem
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

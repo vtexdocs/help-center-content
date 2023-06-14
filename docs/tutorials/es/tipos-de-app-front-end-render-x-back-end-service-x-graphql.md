@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 
 slug: tipos-de-app-front-end-render-x-back-end-service-x-graphql
+locale: es
 legacySlug: tipos-de-app-front-end-render-x-back-end-service-x-graphql
 subcategory: 
 ---

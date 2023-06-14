@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: informes
+locale: es
 legacySlug: informes
 subcategory: 37YF86noTwhDdEuhUyW3LH
 ---

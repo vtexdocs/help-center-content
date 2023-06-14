@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: application-keys
+locale: en
 legacySlug: application-keys
 subcategory: 5GYFjiMQg0qIKpnnQY2qjh
 ---

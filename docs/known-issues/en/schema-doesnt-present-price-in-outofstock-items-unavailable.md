@@ -11,6 +11,7 @@ productTeam: Channels
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: schema-doesnt-present-price-in-outofstock-items-unavailable
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

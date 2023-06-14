@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: valor-incorreto-no-pacote-devido-divisao-de-descontos
+locale: pt
 kiStatus: Backlog
 internalReference: 605517
 ---

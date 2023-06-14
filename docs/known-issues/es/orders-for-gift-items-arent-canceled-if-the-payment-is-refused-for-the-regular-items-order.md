@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: los-pedidos-de-articulos-de-regalo-no-se-cancelan-si-se-rechaza-el-pago-del-pedido-del-articulo-normal
+locale: es
 kiStatus: Backlog
 internalReference: 679598
 ---

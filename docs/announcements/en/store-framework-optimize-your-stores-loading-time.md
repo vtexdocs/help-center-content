@@ -9,6 +9,7 @@ contentType: updates
 productTeam: VTEX IO
 author: 6AcGyun1hSWewU8YcaQiO
 slug: store-framework-optimize-your-stores-loading-time
+locale: en
 legacySlug: store-framework-optimize-your-stores-loading-time
 announcementImageID: ''
 announcementSynopsisEN: 'Accelerate your website’s content rendering by adopting Store Framework performance best practices.'

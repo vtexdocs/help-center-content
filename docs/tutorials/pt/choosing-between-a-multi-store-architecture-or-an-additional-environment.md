@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: escolhendo-entre-arquitetura-multi-loja-ou-ambiente-adicional
+locale: pt
 legacySlug: escolhendo-entre-arquitetura-multi-loja-ou-ambiente-adicional
 subcategory: yMp6sKDiJEi66CGAIQ4ma
 ---

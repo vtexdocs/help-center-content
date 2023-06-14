@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: error-al-integrar-sku-el-campo-no-puede-ser-nulo-magalu
+locale: es
 kiStatus: Backlog
 internalReference: 639272
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_24
 slug: ingresar-tasas-en-el-carrito
+locale: es
 legacySlug: ingresar-tasas-en-el-carrito
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

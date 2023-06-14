@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: quando-ocorre-um-erro-apos-a-firstdata-aprovar-um-acordo-a-transacao-nao-pode-ser-concluida
+locale: pt
 kiStatus: Backlog
 internalReference: 760458
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_84
 slug: how-to-sell-to-other-countries
+locale: en
 legacySlug: how-to-sell-to-other-countries
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

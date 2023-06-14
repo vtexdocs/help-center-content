@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: em-um-cenario-de-pagamento-dividido-quando-o-valor-ja-foi-capturado-a-porta-de-entrada-nao-permite-mais-um-pedido-de-cancelamento
+locale: pt
 kiStatus: Backlog
 internalReference: 742046
 ---

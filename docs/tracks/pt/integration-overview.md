@@ -9,6 +9,7 @@ firstPublishedAt: 2021-02-08T20:11:26.459Z
 contentType: trackArticle
 productTeam: Channels
 slug: visao-geral-da-integracao
+locale: pt
 trackId: 7h8KvIC4DbRRc8VlyJ8PFc
 trackSlugPT: integracao-com-o-facebook
 ---

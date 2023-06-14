@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: the-field-judet-county-is-not-showing-as-saved-when-address-editing-on-romania-my-account
+locale: en
 kiStatus: Backlog
 internalReference: 394658
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 3uCjaRpzeMieQWwWycYAMG
 slug: guia-de-integracao-do-gerenciamento-de-pedidos-com-cf-e-para-o-vtex-sales-app
+locale: pt
 legacySlug: guia-de-integracao-do-oms-com-cf-e-para-o-vtex-instore,guia-de-integracao-do-gerenciamento-de-pedidos-com-cf-e-para-o-vtex-instore
 subcategory: 4T6qfa6gNO6g4sAUIa6s2G
 ---

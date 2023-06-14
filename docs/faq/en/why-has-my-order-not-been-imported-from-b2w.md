@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_35
 slug: why-has-my-order-not-been-imported-from-b2w
+locale: en
 legacySlug: why-has-my-order-not-been-imported-from-b2w
 ---
 

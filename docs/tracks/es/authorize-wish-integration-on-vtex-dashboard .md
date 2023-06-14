@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-19T17:28:26.617Z
 contentType: trackArticle
 productTeam: Channels
 slug: autorizar-integracion-de-wish-en-el-panel-de-vtex
+locale: es
 trackId: 50hbG4bzhSIhjz1lzqI1g4
 trackSlugES: integracion-con-wish
 ---

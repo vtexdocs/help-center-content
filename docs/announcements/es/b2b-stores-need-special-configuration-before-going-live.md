@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: 127RQ7SUoFfyTh5gbXUpdM
 slug: tiendas-b2b-necesitan-de-configuracion-especial-antes-de-salir-al-aire
+locale: es
 legacySlug: tiendas-b2b-necesitan-de-configuracion-especial-antes-de-salir-al-aire
 announcementImageID: ''
 announcementSynopsisES: 'Las tiendas B2B necesitan recibir una configuración especial por parte del equipo VTEX.'

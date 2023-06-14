@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: adding-a-sku
+locale: en
 legacySlug: registering-an-sku
 subcategory: pwxWmUu7T222QyuGogs68
 ---

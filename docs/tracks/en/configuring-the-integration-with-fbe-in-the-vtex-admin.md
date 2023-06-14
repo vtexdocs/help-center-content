@@ -9,6 +9,7 @@ firstPublishedAt: 2021-09-30T18:49:18.739Z
 contentType: trackArticle
 productTeam: Channels
 slug: configuring-the-integration-with-fbe-in-the-vtex-admin
+locale: en
 trackId: 2hS3ANSZ7vlHCcba4h7k8D
 trackSlugEN: integration-with-facebook-business-extension
 ---

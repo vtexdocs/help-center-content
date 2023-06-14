@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: analisis-de-eventos-duplicados
+locale: es
 kiStatus: Backlog
 internalReference: 771986
 ---

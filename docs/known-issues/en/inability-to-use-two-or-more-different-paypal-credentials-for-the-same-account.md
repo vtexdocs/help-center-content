@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: inability-to-use-two-or-more-different-paypal-credentials-for-the-same-account
+locale: en
 kiStatus: Backlog
 internalReference: 459704
 ---

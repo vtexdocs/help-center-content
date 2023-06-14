@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: precos-expirados-nao-apagaveisatualizaveis-devido-ao-limite-de-variacao-de-preco
+locale: pt
 kiStatus: Backlog
 internalReference: 325695
 ---

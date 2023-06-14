@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: la-imagen-en-miniatura-del-video-personalizado-no-se-muestra-en-la-version-movil
+locale: es
 kiStatus: Backlog
 internalReference: 412632
 ---

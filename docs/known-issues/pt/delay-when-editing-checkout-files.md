@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: lentidao-na-edicao-de-arquivos-do-checkout
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

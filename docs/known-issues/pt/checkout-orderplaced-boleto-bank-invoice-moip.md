@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: pedido-de-checkoutfatura-de-boleto-bancario
+locale: pt
 kiStatus: Backlog
 internalReference: 376951
 ---

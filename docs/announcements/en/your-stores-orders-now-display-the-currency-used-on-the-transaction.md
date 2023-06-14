@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: authors_41
 slug: your-stores-orders-now-display-the-currency-used-on-the-transaction
+locale: en
 legacySlug: your-stores-orders-now-display-the-currency-used-on-the-transaction
 announcementImageID: ''
 announcementSynopsisEN: 'As of 12/26/2018, it will be easier to identify the currency and country of origin of all orders.'

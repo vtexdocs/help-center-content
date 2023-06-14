@@ -9,6 +9,7 @@ firstPublishedAt: 2021-11-09T14:09:59.855Z
 contentType: trackArticle
 productTeam: Shopping
 slug: cancelar-e-estornar-um-pedido-no-instore
+locale: pt
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugPT: instore-usando-o-app
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: vtex-payment-customer-service
+locale: en
 legacySlug: vtex-payment-customer-service
 subcategory: 6uIlQ5imochc5LFi3dzCSv
 ---

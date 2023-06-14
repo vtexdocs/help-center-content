@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: shopify-suiteshare
+locale: pt
 legacySlug: shopify-suiteshare
 subcategory: 4y4ylvqceE6vVqEF8IWZix
 ---
@@ -20,7 +21,7 @@ Para localizar o script da Suiteshare, acesse **Configurações** no canto supe
 
 Com o script da Suiteshare em mãos, acesse em sua conta Shopify o menu localizado no canto inferior esquerdo **My Store**, depois em **Themes**, clique em **Edit HTML/CSS** conforme a imagem abaixo:
 
-![Shopify - Suiteshare](//images.ctfassets.net/alneenqid6w5/45EPnxpruUgUqIUl9cDR3t/894418df9be3fab2755c2f895fc9145e/Shopify_-_Suiteshare.png)
+![Shopify - Suiteshare](https://images.ctfassets.net/alneenqid6w5/45EPnxpruUgUqIUl9cDR3t/894418df9be3fab2755c2f895fc9145e/Shopify_-_Suiteshare.png)
 
 O próximo passo é acessar no canto esquerdo **Layout**, a opção **Theme Liquid**.
 

@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: o-editor-do-site-tem-problemas-intermitentes-de-renderizacao-em-pequena-tela
+locale: pt
 kiStatus: Backlog
 internalReference: 399339
 ---

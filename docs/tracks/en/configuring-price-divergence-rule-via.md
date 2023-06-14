@@ -9,6 +9,7 @@ firstPublishedAt: 2022-01-05T16:04:18.518Z
 contentType: trackArticle
 productTeam: Channels
 slug: configuring-price-divergence-rule-via
+locale: en
 trackId: 3E9XylGaJ2wqwISGyw4GuY
 trackSlugEN: via-varejo-integration-setup
 ---

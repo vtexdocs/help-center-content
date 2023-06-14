@@ -9,6 +9,7 @@ firstPublishedAt: 2020-07-02T04:00:18.779Z
 contentType: trackArticle
 productTeam: Apps
 slug: importar-pedidos-de-lengow
+locale: es
 trackId: 2KDrouPiE4HDKUFFSG3KdN
 trackSlugES: integracion-de-lengow
 ---

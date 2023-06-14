@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: que-es-un-departamento
+locale: es
 legacySlug: que-es-un-departamento
 subcategory: 1E7tziZCkY4w8i4EmUuwec
 ---

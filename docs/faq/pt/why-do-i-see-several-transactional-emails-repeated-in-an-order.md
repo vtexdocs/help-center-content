@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_37
 slug: por-que-vejo-inumeros-e-mails-transacionais-repetidos-em-um-pedido
+locale: pt
 legacySlug: por-que-vejo-inumeros-e-mails-transacionais-repetidos-em-um-pedido-no-oms
 ---
 

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: a-solicitacao-de-parcelas-na-porta-de-entrada-de-um-comerciante-que-nao-o-mercado-e-sempre-feita-com-canal-de-vendas-1
+locale: pt
 kiStatus: Backlog
 internalReference: 391197
 ---

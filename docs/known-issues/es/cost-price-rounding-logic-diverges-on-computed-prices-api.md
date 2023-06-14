@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-logica-de-redondeo-de-precios-de-coste-diverge-en-la-api-de-precios-calculados
+locale: es
 kiStatus: Backlog
 internalReference: 842336
 ---

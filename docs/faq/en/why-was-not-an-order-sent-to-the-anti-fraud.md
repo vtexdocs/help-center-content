@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_59
 slug: why-was-not-an-order-sent-to-the-anti-fraud
+locale: en
 legacySlug: why-was-not-an-order-sent-to-the-anti-fraud
 ---
 

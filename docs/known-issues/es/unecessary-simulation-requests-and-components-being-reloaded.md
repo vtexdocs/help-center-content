@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: solicitudes-de-simulacion-innecesarias-y-componentes-que-se-recargan
+locale: es
 kiStatus: Backlog
 internalReference: 648298
 ---

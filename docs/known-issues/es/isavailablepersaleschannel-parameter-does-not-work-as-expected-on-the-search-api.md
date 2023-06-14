@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-parametro-isavailablepersaleschannel-no-funciona-como-se-espera-en-la-api-de-busqueda
+locale: es
 kiStatus: Backlog
 internalReference: 656284
 ---

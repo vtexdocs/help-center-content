@@ -11,6 +11,7 @@ productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Web Service
 slug: campo-administrador-que-aprobo-el-producto-id-no-cambia-cuando-la-actualizacion-se-hace-por-webservice
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

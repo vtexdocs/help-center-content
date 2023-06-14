@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: valores-modales-con-textos-diferentes-entre-la-api-y-la-interfaz-de-usuario-de-logistica
+locale: es
 kiStatus: Backlog
 internalReference: 775800
 ---

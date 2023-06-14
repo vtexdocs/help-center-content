@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 slug: integrating-with-b2w
+locale: en
 legacySlug: integrating-with-b2w
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

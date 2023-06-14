@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: falta-la-opcion-1x-installment-en-checkout-con-multiples-condiciones-de-pago-y-configuracion-por-defecto-establecida-en-una-opcion-diferente
+locale: es
 kiStatus: Backlog
 internalReference: 709971
 ---

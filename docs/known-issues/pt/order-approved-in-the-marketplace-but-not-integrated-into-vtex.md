@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: pedido-aprovado-no-marketplace-mas-nao-integrado-a-vtex
+locale: pt
 kiStatus: Backlog
 internalReference: 547809
 ---

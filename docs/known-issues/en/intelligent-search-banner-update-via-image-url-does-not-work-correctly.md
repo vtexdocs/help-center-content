@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: intelligent-search-banner-update-via-image-url-does-not-work-correctly
+locale: en
 kiStatus: Backlog
 internalReference: 734833
 ---

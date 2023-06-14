@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: authors_59
 slug: post-mortem-oms-novembro-2017
+locale: pt
 legacySlug: post-mortem-oms-novembro-2017
 announcementImageID: ''
 announcementSynopsisPT: 'Este post tem o objetivo de explicar o incidente ocorrido nesta última sexta-feira'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: planeje-seu-projeto
+locale: pt
 legacySlug: planeje-seu-projeto
 subcategory: wz3FvYTctwuCwG206QUAi
 ---

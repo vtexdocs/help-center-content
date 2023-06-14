@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-lista-de-puntos-de-recogida-no-se-puede-desplazar-despues-de-buscar-direcciones-en-el-modo-mapa
+locale: es
 kiStatus: Backlog
 internalReference: 624646
 ---

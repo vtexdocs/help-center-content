@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: sla-errors-in-marketplace-integration-orders
+locale: en
 legacySlug: sla-errors-in-marketplace-integration-orders
 subcategory: 5m1qqfnmfYKsO0KiOQC8Ky
 ---

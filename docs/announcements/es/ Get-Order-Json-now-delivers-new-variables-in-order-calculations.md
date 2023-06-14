@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 5V92cmF9jG8KG600EwUgEg
 slug: Json-de-Get-Order-entrega-ahora-nuevas-variables-de-calculos-de-pedido
+locale: es
 legacySlug: Json-de-Get-Order-entrega-ahora-nuevas-variables-de-calculos-de-pedido
 announcementImageID: ''
 announcementSynopsisES: 'Ahora disponible informaciónes detalladas sobre el cálculo del envio de lo pedido'

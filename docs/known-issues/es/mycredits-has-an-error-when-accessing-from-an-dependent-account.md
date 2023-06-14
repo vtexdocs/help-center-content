@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: mycredits-tiene-un-error-al-acceder-desde-una-cuenta-dependiente
+locale: es
 kiStatus: Backlog
 internalReference: 367276
 ---

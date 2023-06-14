@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: en-algunos-casos-checkoutui-no-muestra-el-importe-correcto-que-debe-abonarse-con-el-credito-de-cliente-para-1x-plazo
+locale: es
 kiStatus: Backlog
 internalReference: 748320
 ---

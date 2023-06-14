@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: sku-selector-display-mode-select-not-working-in-shelfs
+locale: en
 kiStatus: Backlog
 internalReference: 682152
 ---

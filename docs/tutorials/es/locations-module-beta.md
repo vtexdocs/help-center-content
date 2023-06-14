@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: modulo-localidad-beta
+locale: es
 legacySlug: modulo-localidades
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---

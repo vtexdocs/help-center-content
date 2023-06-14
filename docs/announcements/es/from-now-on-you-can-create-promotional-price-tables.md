@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
 slug: a-partir-de-ahora-ya-puede-crear-tablas-de-precios-promocionales
+locale: es
 legacySlug: a-partir-de-ahora-ya-puede-crear-tablas-de-precios-promocionales
 announcementImageID: ''
 announcementSynopsisES: 'La nueva funcionalidad ofrece más flexibilidad y autonomía al crear promociones con un grado de granularidad mayor.'

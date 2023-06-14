@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_4
 slug: import-customer-data-brazil
+locale: en
 legacySlug: import-customer-data-brazil
 subcategory: 42hDtnYXHw5ExG6l19RP1l
 ---

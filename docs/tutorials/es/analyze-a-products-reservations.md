@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: analizar-las-reservas-de-un-producto
+locale: es
 legacySlug: analizar-las-reservas-de-un-producto
 subcategory: 3PQwnyOcNyYgawy06oe6gE
 ---

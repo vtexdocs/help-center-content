@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: las-especificaciones-obligatorias-no-se-verifican-al-crear-un-producto-a-traves-de-la-api
+locale: es
 kiStatus: Backlog
 internalReference: 522293
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
 slug: por-que-esta-mi-pedido-parado-en-listo-para-preparar
+locale: es
 legacySlug: por-que-esta-mi-pedido-parado-en-listo-para-preparar
 ---
 

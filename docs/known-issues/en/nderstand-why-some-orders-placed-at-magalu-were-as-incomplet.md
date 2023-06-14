@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: nderstand-why-some-orders-placed-at-magalu-were-as-incomplet
+locale: en
 kiStatus: Backlog
 internalReference: 597771
 ---

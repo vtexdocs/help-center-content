@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: configurando-a-comparacao-de-produtos
+locale: pt
 legacySlug: configurando-a-comparacao-de-produtos
 subcategory: pwxWmUu7T222QyuGogs68
 ---

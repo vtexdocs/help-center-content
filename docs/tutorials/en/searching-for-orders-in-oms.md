@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: searching-for-orders-in-oms
+locale: en
 legacySlug: searching-for-orders-in-oms
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

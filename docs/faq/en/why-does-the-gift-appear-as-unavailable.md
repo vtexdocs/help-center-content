@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_24
 slug: why-does-the-gift-appear-as-unavailable
+locale: en
 legacySlug: why-does-the-gift-appear-as-unavailable
 ---
 

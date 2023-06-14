@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_24
 slug: identifying-whether-marketing-utms-are-being-passed-to-checkout
+locale: en
 legacySlug: identifying-whether-marketing-utms-are-being-passed-to-checkout
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: Channels
 slug: skyhub-fluxo-de-produtos
+locale: pt
 trackId: 
 trackSlugPT: 
 ---

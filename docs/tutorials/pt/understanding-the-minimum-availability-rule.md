@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: entendendo-a-regra-de-disponibilidade-minima
+locale: pt
 legacySlug: entendendo-a-regra-de-disponibilidade-minima
 subcategory: 7lxg0kyL3TYIsrlSQlf1zP
 ---

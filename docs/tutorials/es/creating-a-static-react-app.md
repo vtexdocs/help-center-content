@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: crear-una-app-react-estatica
+locale: es
 legacySlug: crear-una-app-react-estatica
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

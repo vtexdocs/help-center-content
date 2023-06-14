@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_24
 slug: install-visa-checkout-in-the-extension-store
+locale: en
 legacySlug: install-visa-checkout-in-the-extension-store
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

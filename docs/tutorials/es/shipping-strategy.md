@@ -10,13 +10,14 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: estrategia-de-envio
+locale: es
 legacySlug: estrategia-de-envio, cual-es-la-diferencia-entre-inventario-y-muelle
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
 Estrategia de envío es la relación entre stock, muelle y política de envío; es decir, la forma en que se comunican el stock, el muelle y la política de envío definirá la coordinación de la estructura de entrega de los pedidos de la tienda. 
 
-![EstrategiaEnvio_ES](//images.ctfassets.net/alneenqid6w5/91iqVknOpCjUKO1XQaYvq/ed9784e5cbc67a42358ad4f37c3baa00/Frame_2__2_.svg)
+![EstrategiaEnvio_ES](https://images.ctfassets.net/alneenqid6w5/91iqVknOpCjUKO1XQaYvq/ed9784e5cbc67a42358ad4f37c3baa00/Frame_2__2_.svg)
 
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
    <tr class="bb b--muted-3">

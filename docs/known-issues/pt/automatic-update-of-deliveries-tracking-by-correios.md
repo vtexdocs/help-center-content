@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_4
 tag: Order Management
 slug: atualizacao-automatica-do-rastreio-de-entregas-via-correios
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

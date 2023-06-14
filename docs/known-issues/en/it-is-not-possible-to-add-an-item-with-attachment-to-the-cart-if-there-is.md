@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 30TBnJ838LXSZvdJFlcB8H
 tag: Checkout
 slug: it-is-not-possible-to-add-an-item-with-attachment-to-the-cart-if-there-is
+locale: en
 kiStatus: Backlog
 internalReference: 412041
 ---

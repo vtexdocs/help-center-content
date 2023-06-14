@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
 slug: por-que-minha-transportadora-nao-aparece-no-checkout
+locale: pt
 legacySlug: por-que-minha-transportadora-nao-aparece-no-checkout
 ---
 

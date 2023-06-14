@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: 
 slug: packing-definicao-de-conceito
+locale: en
 trackId: 
 trackSlugEN: 
 ---

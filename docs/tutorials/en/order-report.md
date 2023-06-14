@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: order-report
+locale: en
 legacySlug: orders-worksheet
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

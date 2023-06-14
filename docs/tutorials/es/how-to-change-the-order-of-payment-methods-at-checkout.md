@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_84
 slug: como-modificar-el-orden-de-medios-de-pago-en-el-checkout
+locale: es
 legacySlug: como-modificar-el-orden-de-medios-de-pago-en-el-checkout
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

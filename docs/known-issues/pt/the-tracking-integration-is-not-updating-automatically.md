@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: a-integracao-de-rastreamento-nao-esta-atualizando-de-forma-automatica
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

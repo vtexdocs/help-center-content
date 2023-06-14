@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-seletor-do-metodo-de-entrega-desaparece-no-fluxo-especifico-quando-so-ha-entrega-programada
+locale: pt
 kiStatus: Fixed
 internalReference: 296786
 ---

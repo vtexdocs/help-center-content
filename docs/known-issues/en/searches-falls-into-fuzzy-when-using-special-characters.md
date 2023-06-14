@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: searches-falls-into-fuzzy-when-using-special-characters
+locale: en
 kiStatus: Scheduled
 internalReference: 382382
 ---

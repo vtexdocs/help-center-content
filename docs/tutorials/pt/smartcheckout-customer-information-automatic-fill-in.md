@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: smartcheckout-preenchimento-automatico-de-dados-do-cliente
+locale: pt
 legacySlug: smartcheckout-preenchimento-automatico-de-dados-do-cliente
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: consigo-gerar-um-relatorio-com-os-produtos-mais-vendidos-na-minha-loja
+locale: pt
 legacySlug: 
 ---
 

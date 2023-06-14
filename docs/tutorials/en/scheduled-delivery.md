@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: scheduled-delivery
+locale: en
 legacySlug: scheduled-delivery, configuring-the-scheduled-delivery
 subcategory: 1UL6Q7nUN6SkA2g2SUsECi
 ---

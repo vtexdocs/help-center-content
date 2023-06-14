@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_37
 slug: does-the-shipping-calculation-take-into-account-the-free-gift
+locale: en
 legacySlug: does-the-shipping-calculation-take-into-account-the-free-gift
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

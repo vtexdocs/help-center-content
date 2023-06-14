@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: anuncios-de-vtex-sales-app
+locale: es
 legacySlug: anuncios-de-vtex-sales-app
 subcategory: 4T6qfa6gNO6g4sAUIa6s2G
 ---
@@ -60,18 +61,18 @@ Para crear una página de anuncios para VTEX Sales App, sigue los pasos a contin
     - **Título de la vitrina:** nombre de la vitrina que se mostrará en la página.
     - **ID del producto:** número identificador del producto que deseas mostrar. Campo obligatorio.
     - **ID del SKU del producto:** número identificador del SKU del producto que deseas mostrar. Campo opcional.
-![vitrine-produto-es](//images.ctfassets.net/alneenqid6w5/6SREOFdog1AfNXqyhH0I5Z/99d80481198a5789b864e7b3cc621c9f/image.png)
+![vitrine-produto-es](https://images.ctfassets.net/alneenqid6w5/6SREOFdog1AfNXqyhH0I5Z/99d80481198a5789b864e7b3cc621c9f/image.png)
 Después de rellenar los campos, se mostrará la imagen del producto con precio "a partir de". Si incluyes el SKU, se mostrará el precio y la promoción del SKU indicado. Puedes incluir más productos al hacer clic en `+ NUEVO PRODUCTO`. Puedes agregar hasta 10 productos en cada vitrina.
 El resultado de la vitrina de productos se mostrará como en la siguiente imagen.
-![vitrine-produto-2-es](//images.ctfassets.net/alneenqid6w5/3SY8POqXIAK0Qi2lWax8qq/2b1605234e989064a7c188b6f3ce31a8/image.png)
+![vitrine-produto-2-es](https://images.ctfassets.net/alneenqid6w5/3SY8POqXIAK0Qi2lWax8qq/2b1605234e989064a7c188b6f3ce31a8/image.png)
   - **Vitrina de resultados de búsqueda:** mostrará los productos de resultados de búsqueda que determines. Rellena la siguiente información:
     - **Título de la vitrina:** nombre de la vitrina que se mostrará en la página.
     - **Imagen de búsqueda:** imagen que mostrará la selección de productos en la vitrina.
     - **Nombre de la búsqueda:** nombre de la búsqueda que se mostrará en la página.
     - **Término de búsqueda:** término de búsqueda que servirá de referencia para los productos.
-![vitrine-busca-es](//images.ctfassets.net/alneenqid6w5/2nOoe8dF1IaF1YPIr3N3dV/832a5b243a2a82f170eebb8d77574009/image.png)
+![vitrine-busca-es](https://images.ctfassets.net/alneenqid6w5/2nOoe8dF1IaF1YPIr3N3dV/832a5b243a2a82f170eebb8d77574009/image.png)
 Cuando el vendedor haga clic en el término de búsqueda, se le redirigirá a los resultados de búsqueda que se hayan establecido en **Término de búsqueda**. Puedes incluir hasta 10 búsquedas en cada vitrina. El resultado del ejemplo se muestra en la siguiente imagen:
-![vitrine-busca-2-es](//images.ctfassets.net/alneenqid6w5/s6MJ80nGy16Ex39NnPwnT/2381c9859c4adeaec5953b0ac87d7b42/image.png)
+![vitrine-busca-2-es](https://images.ctfassets.net/alneenqid6w5/s6MJ80nGy16Ex39NnPwnT/2381c9859c4adeaec5953b0ac87d7b42/image.png)
 <ol start="6">
   <li>Después de crear las secciones, haz clic en <code>Guardar</code> y, luego, haz clic en <code>Publicar</code> y <code>Publicar ahora</code> para finalizar.</li>
 </ol> 
@@ -87,12 +88,12 @@ https://{account}.myvtex.com/admin/portal/#/sites
 2. Haz clic en el botón del engranaje <i class="fas fa-cog"></i>.
 3. Selecciona la pestaña **Código**.
 4. En la pestaña lateral, selecciona `checkout-instore-custom-js`.
-![checkout-instore-custom-js-file](//images.ctfassets.net/alneenqid6w5/6JgOUD4YUDyArNzUkgzIVJ/a09ddfdf23851e0ada81931af2ed5b19/image.png)
+![checkout-instore-custom-js-file](https://images.ctfassets.net/alneenqid6w5/6JgOUD4YUDyArNzUkgzIVJ/a09ddfdf23851e0ada81931af2ed5b19/image.png)
 5. En el objeto `window.INSTORE_CONFIG`, agrega la flag `enableExplore: true`.
-![window.INSTORE_CONFIG](//images.ctfassets.net/alneenqid6w5/6kpTp7g4zRuIsyYGdo5Bio/c0003c9637209f503401fea07db839cb/image.png)
+![window.INSTORE_CONFIG](https://images.ctfassets.net/alneenqid6w5/6kpTp7g4zRuIsyYGdo5Bio/c0003c9637209f503401fea07db839cb/image.png)
 6. Haz clic en <i class="fas fa-save"></i> `Guardar`. 
 7. Opcionalmente, puedes determinar que la página de inicio del vendedor sea la página de anuncios. Para lograrlo, agrega la flag `initialPage : advertisements` en el objeto `window.INSTORE_CONFIG`.
-![initialPage : advertisements](//images.ctfassets.net/alneenqid6w5/1zS4dgPnw7Q0ZP2w0thQdt/88e4f64f2707fd1dbbe95d6b9861e712/image.png)
+![initialPage : advertisements](https://images.ctfassets.net/alneenqid6w5/1zS4dgPnw7Q0ZP2w0thQdt/88e4f64f2707fd1dbbe95d6b9861e712/image.png)
 
 ## Acceder a los anuncios en VTEX Sales App
 
@@ -101,4 +102,4 @@ En VTEX Sales App, el vendedor podrá acceder a la página de anuncios de dos ma
 * **Página de inicio:** si el administrador de la tienda previamente registró la página de anuncios como la página de inicio del vendedor, al iniciar sesión en la plataforma, se redirigirá al vendedor directamente a la página de anuncios. Esta configuración garantiza que los vendedores siempre estén al día sobre los anuncios y promociones relevantes, de manera inmediata y en cuanto acceden al sistema.
 * **Menú Explorar:** si la página de anuncios no es la página de inicio, el vendedor puede acceder a ella fácilmente desde el menú **Explorar**. Para acceder a la página de anuncios, el vendedor debe hacer clic en el menú **Explorar**. Luego, se redirigirá al vendedor a la página de anuncios, donde podrá ver e interactuar con los productos y promociones disponibles.
 
-![vitrine-sale-app-es](//images.ctfassets.net/alneenqid6w5/3YddBVVXNGJiVWfDK1xUrg/ffca39f0f0a2b0bdc59c39ebd88ddc71/image.png)
+![vitrine-sale-app-es](https://images.ctfassets.net/alneenqid6w5/3YddBVVXNGJiVWfDK1xUrg/ffca39f0f0a2b0bdc59c39ebd88ddc71/image.png)

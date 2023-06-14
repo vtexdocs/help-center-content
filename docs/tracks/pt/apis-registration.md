@@ -9,6 +9,7 @@ firstPublishedAt: 2018-09-27T22:40:49.064Z
 contentType: trackArticle
 productTeam: Channels
 slug: cadastrar-api-de-frete
+locale: pt
 trackId: 6w07SJBVqE020KIOOS8ygk
 trackSlugPT: configurar-integracao-da-b2w
 ---

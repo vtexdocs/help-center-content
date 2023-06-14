@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Master Data
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: a-entidade-de-pedidos-do-master-data-v2-sera-deprecada
+locale: pt
 legacySlug: a-entidade-de-pedidos-do-master-data-v2-sera-deprecada
 announcementImageID: ''
 announcementSynopsisPT: 'A VTEX irá deprecar a entidade de pedidos do Master Data v2 em outubro de 2023. Adapte as integrações da sua loja.'

@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: o-seletor-de-componentes-do-vendedor-pode-apresentar-inconsistencia-nos-precos-de-entregaremessa
+locale: pt
 kiStatus: Backlog
 internalReference: 658452
 ---

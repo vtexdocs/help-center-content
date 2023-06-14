@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: dicionario-de-campos-da-exportacao-de-clientes
+locale: pt
 legacySlug: dicionario-de-campos-da-exportacao-de-clientes
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

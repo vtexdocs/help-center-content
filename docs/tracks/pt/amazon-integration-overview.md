@@ -9,6 +9,7 @@ firstPublishedAt: 2021-07-19T20:20:16.684Z
 contentType: trackArticle
 productTeam: Channels
 slug: visao-geral-da-integracao-da-amazon
+locale: pt
 trackId: 6sgd4Pagy3wNsWKBvmIFrP
 trackSlugPT: integracao-com-a-amazon
 ---

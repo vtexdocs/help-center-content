@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: cultureinfo-does-not-allow-values-longer-than-10-characters
+locale: en
 kiStatus: Fixed
 internalReference: 667652
 ---

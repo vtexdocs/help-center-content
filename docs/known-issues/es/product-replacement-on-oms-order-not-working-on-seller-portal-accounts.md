@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-sustitucion-de-productos-en-un-pedido-oms-no-funciona-en-las-cuentas-del-portal-del-vendedor
+locale: es
 kiStatus: Backlog
 internalReference: 753484
 ---

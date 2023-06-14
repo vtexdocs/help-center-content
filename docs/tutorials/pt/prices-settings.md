@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: configuracoes-de-precos
+locale: pt
 legacySlug: configuracao-de-precos
 subcategory: 3O1NvPgBPqE0qU88MSQaie
 ---

@@ -11,6 +11,7 @@ productTeam: Financial
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: the-pay-with-two-cards-option-does-not-work-when-using-3d-secure-20-3ds2
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: setting-up-the-worldpay-acquirer
+locale: en
 legacySlug: setting-up-the-worldpay-acquirer
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

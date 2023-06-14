@@ -9,6 +9,7 @@ firstPublishedAt: 2021-08-05T14:46:16.599Z
 contentType: trackArticle
 productTeam: Shopping
 slug: perfil-do-cliente-no-instore
+locale: pt
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugPT: instore-usando-o-app
 ---

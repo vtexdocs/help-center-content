@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: registering-gateway-affiliations
+locale: en
 legacySlug: registering-gateway-affiliations
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

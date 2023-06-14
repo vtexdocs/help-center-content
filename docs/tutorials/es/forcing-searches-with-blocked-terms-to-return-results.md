@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: forzar-busquedas-con-terminos-bloqueados-a-devolver-resultados
+locale: es
 legacySlug: forzar-busquedas-con-terminos-bloqueados-a-devolver-resultados
 subcategory: pwxWmUu7T222QyuGogs68
 ---

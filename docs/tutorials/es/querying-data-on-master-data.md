@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: consultando-datos-en-el-master-data
+locale: es
 legacySlug: consultando-datos-en-el-master-data
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---

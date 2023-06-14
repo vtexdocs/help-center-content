@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_4
 slug: configuracao-de-spf
+locale: pt
 legacySlug: configuracao-de-spf
 subcategory: 2Za4fjGfxYOo6oqykukgyy
 ---

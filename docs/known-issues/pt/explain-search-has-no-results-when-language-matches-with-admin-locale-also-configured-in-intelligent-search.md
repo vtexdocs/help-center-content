@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: a-pesquisa-explicativa-nao-apresenta-resultados-quando-o-idioma-corresponde-a-localidade-do-administrador-tambem-configurada-na-pesquisa-inteligente
+locale: pt
 kiStatus: Backlog
 internalReference: 830490
 ---

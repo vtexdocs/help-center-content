@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_6
 slug: activating-the-new-order-placed
+locale: en
 legacySlug: activating-the-new-order-placed
 subcategory: 
 ---

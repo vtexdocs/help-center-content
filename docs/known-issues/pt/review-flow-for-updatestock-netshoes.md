@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: fluxo-de-revisao-para-updatestock-netshoes
+locale: pt
 kiStatus: Backlog
 internalReference: 646869
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5S2MYtrgEoSGaGMqsICaEC
 slug: como-realizar-um-teste-para-verificar-problemas-de-layout
+locale: es
 legacySlug: como-realizar-um-teste-para-verificar-problemas-de-layout
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

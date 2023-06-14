@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: pix-configure-the-payment-method-via-admin
+locale: en
 legacySlug: pix-configure-the-payment-method-via-admin
 announcementImageID: ''
 announcementSynopsisEN: 'Clients can now configure the new Brazilian instant payment method through the VTEX Admin.'

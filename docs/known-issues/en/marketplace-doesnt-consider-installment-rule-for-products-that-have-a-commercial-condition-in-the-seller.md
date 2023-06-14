@@ -11,6 +11,7 @@ productTeam: Channels
 author: authors_35
 tag: Checkout,Payments
 slug: marketplace-doesnt-consider-installment-rule-for-products-that-have-a-commercial-condition-in-the-seller
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

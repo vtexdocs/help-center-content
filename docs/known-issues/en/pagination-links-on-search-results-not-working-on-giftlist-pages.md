@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: pagination-links-on-search-results-not-working-on-giftlist-pages
+locale: en
 kiStatus: Backlog
 internalReference: 481330
 ---

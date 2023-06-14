@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_24
 slug: suggestion-module-returns-error-when-trying-to-process-sku-suggestion
+locale: en
 legacySlug: 
 ---
 

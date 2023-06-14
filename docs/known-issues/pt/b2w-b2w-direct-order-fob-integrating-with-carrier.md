@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: ordem-b2w-direta-fob-integrandose-com-a-transportadora
+locale: pt
 kiStatus: Backlog
 internalReference: 714879
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: botao-para-ver-mais-pontos-de-coleta-que-nao-estao-sendo-apresentados-na-lista
+locale: pt
 kiStatus: Backlog
 internalReference: 685650
 ---

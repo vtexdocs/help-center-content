@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: controle-de-breadcrumb
+locale: pt
 legacySlug: controle-de-breadcrumb
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

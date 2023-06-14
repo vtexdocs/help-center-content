@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_59
 slug: por-que-un-pedido-fue-cancelado-en-el-status-preparando-entrega
+locale: es
 legacySlug: por-que-un-pedido-fue-cancelado-en-el-status-preparando-entrega
 ---
 

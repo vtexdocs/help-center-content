@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: o-sistema-nao-permite-o-cancelamento-multiplo-com-giftcard
+locale: pt
 kiStatus: Backlog
 internalReference: 309117
 ---

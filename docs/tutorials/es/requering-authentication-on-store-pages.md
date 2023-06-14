@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: exigir-autenticacion-en-paginas-de-la-tienda
+locale: es
 legacySlug: exigir-autenticacion-en-paginas-de-la-tienda
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

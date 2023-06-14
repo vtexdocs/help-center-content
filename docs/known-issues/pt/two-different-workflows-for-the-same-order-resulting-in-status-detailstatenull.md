@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: two-different-workflows-for-the-same-order-resulting-in-status-detailstatenull
+locale: pt
 kiStatus: Fixed
 internalReference: 680919
 ---

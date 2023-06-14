@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 tag: Order Management
 slug: order-tracking-via-jadlog-returns-delivery-confirmation-without-the-order-being-delivered
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: changing-a-pages-body-class
+locale: en
 legacySlug: changing-a-pages-body-class
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

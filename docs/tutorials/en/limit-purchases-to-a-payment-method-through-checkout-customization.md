@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_35
 slug: limit-purchases-to-a-payment-method-through-checkout-customization
+locale: en
 legacySlug: limit-purchases-to-a-payment-method-through-checkout-customization
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

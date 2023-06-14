@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_35
 slug: change-making-changes-to-an-order
+locale: en
 legacySlug: change-making-changes-to-an-order
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

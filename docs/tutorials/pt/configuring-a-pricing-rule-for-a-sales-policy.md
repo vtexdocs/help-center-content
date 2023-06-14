@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: configurar-regra-de-preco-para-politica-comercial
+locale: pt
 legacySlug: configurar-regra-de-preco-para-politica-comercial
 subcategory: wUepkh8pzimEywO8oGUIc
 ---

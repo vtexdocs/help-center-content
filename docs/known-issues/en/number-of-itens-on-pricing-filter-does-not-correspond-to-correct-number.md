@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: number-of-itens-on-pricing-filter-does-not-correspond-to-correct-number
+locale: en
 kiStatus: Backlog
 internalReference: 371405
 ---

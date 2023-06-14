@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: la-busqueda-de-autocompletar-no-funciona-con-el-espacio
+locale: es
 kiStatus: Backlog
 internalReference: 568821
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: new-appkeys-will-not-have-a-predefined-role
+locale: en
 legacySlug: new-appkeys-will-not-have-a-predefined-access-profile
 announcementImageID: ''
 announcementSynopsisEN: 'AppKeys will not receive the Owner access profile by default anymore'

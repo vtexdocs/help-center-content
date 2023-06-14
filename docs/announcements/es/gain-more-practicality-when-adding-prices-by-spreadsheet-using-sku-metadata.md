@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 71cQH3Q0oKXzeY2DmMZRKX
 slug: obtenga-más-practicidad-para-registrar-precios-por-plantilla-utilizando-metadatos-de-skus.
+locale: es
 legacySlug: obtenga-mas-practicidad-para-registrar-precios-por-plantilla-utilizando-metadatos-de-skus
 announcementImageID: ''
 announcementSynopsisES: 'Nuestro equipo desenvolucró más una funcionalidad para el modulo de precios.'

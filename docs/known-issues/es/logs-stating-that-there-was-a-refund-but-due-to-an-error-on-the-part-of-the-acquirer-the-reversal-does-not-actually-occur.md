@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: registros-que-indican-que-hubo-un-reembolso-pero-debido-a-un-error-por-parte-del-adquirente-la-anulacion-no-se-produce-realmente
+locale: es
 kiStatus: Backlog
 internalReference: 545331
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2018-09-27T21:44:56.294Z
 contentType: trackArticle
 productTeam: Channels
 slug: envio-de-los-productos-a-dafiti
+locale: es
 trackId: 4wF4RBx9ygEkimW6SsKw8i
 trackSlugES: configurar-la-integracion-de-dafiti
 ---

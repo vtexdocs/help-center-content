@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: minha-conta-o-campo-nome-do-receptor-nao-reconhece-a-entrada
+locale: pt
 kiStatus: Scheduled
 internalReference: 568527
 ---

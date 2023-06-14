@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-el-subadquirente-mercadopagov1
+locale: es
 legacySlug: configurar-el-subadquirente-mercadopagov1
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

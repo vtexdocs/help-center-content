@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: o-botao-giratorio-mycards-nao-esta-funcionando-corretamente
+locale: pt
 kiStatus: Backlog
 internalReference: 780667
 ---

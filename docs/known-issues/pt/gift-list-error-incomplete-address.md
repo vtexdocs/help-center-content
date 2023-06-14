@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: erro-na-lista-de-presentes-endereco-incompleto
+locale: pt
 kiStatus: Backlog
 internalReference: 313576
 ---

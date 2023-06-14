@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: o-que-e-o-carrinho-compartilhado
+locale: pt
 legacySlug: o-que-e-o-carrinho-compartilhado
 subcategory: 8AGXmtpbTqUE2KQu0Swwk
 ---

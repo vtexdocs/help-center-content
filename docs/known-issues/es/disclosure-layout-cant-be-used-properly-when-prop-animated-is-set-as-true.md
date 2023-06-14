@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: disclosure-layout-no-se-puede-utilizar-correctamente-cuando-prop-animado-se-establece-como-verdadero
+locale: es
 kiStatus: Backlog
 internalReference: 417947
 ---

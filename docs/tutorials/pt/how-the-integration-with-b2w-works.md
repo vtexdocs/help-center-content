@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_35
 slug: como-funciona-a-integracao-com-a-b2w
+locale: pt
 legacySlug: como-funciona-a-integracao-com-a-b2w
 subcategory: 5m1qqfnmfYKsO0KiOQC8Ky
 ---

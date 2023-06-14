@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: archivos-cssjs-no-se-actualizan-en-la-pagina-despues-de-subir-nueva-version-en-el-cms
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_6
 slug: estoque-e-transportadoras
+locale: es
 legacySlug: estoque-e-transportadoras
 subcategory: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_59
 slug: configurar-el-precio-y-la-disponibilidad-de-skus-por-region
+locale: es
 legacySlug:  configurar-el-precio-y-la-disponibilidad-de-skus-por-region
 subcategory: dajK0sARX2c0MISKKoGoc
 ---

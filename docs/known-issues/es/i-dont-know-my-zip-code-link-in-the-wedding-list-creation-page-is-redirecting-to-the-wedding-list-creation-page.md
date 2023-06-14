@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: el-enlace-no-se-mi-codigo-postal-en-la-pagina-de-creacion-de-listas-de-bodas-redirecciona-el-usuario-a-la-propia-pagina-de-creacion-de-listas-de-bodas
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

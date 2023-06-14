@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: lista-de-controles-para-templates
+locale: pt
 legacySlug: lista-de-controles-para-templates
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

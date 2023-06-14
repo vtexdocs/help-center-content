@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_3
 slug: configuring-e-bit
+locale: en
 legacySlug: configuring-e-bit
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

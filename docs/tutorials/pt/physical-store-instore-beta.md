@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: loja-fisica-instore-beta
+locale: pt
 legacySlug: loja-fisica-instore-beta
 subcategory: 5SE2asHiQtHKfbnFru8RWH
 ---
@@ -27,7 +28,7 @@ Esta página permite que você realize as seguintes ações:
 * [Editar](#editar-loja-fisica)
 * [Excluir](#excluir-loja-fisica)
 
-![loja-fisica-PT](//images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/0c7eafb7209254cfca3224ccb820012e/image.png)
+![loja-fisica-PT](https://images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/0c7eafb7209254cfca3224ccb820012e/image.png)
 
 A página apresenta as seguintes informações: 
 
@@ -53,7 +54,7 @@ Você pode cadastrar uma loja física seguindo os passos a seguir:
 
 ### Campos de cadastro da loja física
 
-![loja-fisica2-pt](//images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/92f54533a7b36d602d4108760ba3c7e0/image.png)
+![loja-fisica2-pt](https://images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/92f54533a7b36d602d4108760ba3c7e0/image.png)
 
 #### Identificação
 

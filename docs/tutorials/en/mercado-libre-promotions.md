@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: mercado-libre-promotions
+locale: en
 legacySlug: mercado-libre-promotions-beta
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

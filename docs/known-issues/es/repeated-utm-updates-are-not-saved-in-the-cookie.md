@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: repetidas-actualizaciones-de-utm-no-se-guardan-en-el-cookie
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

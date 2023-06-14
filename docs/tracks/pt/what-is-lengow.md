@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-30T00:42:04.632Z
 contentType: trackArticle
 productTeam: Apps
 slug: o-que-e-lengow
+locale: pt
 trackId: 2KDrouPiE4HDKUFFSG3KdN
 trackSlugPT: integracao-com-a-lengow
 ---

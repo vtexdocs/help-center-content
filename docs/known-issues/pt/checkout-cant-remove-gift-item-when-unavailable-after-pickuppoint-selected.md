@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-checkout-nao-pode-remover-o-item-de-presente-quando-nao-estiver-disponivel-apos-o-ponto-de-retirada-selecionado
+locale: pt
 kiStatus: Backlog
 internalReference: 363885
 ---

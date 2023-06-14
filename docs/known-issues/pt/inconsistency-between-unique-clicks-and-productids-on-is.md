@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: inconsistencia-entre-cliques-unicos-e-produtos-em-si
+locale: pt
 kiStatus: Backlog
 internalReference: 501802
 ---

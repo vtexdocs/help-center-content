@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: sistema-que-considera-al-vendedor-1-para-el-limite-de-vendedores-de-la-regla
+locale: es
 kiStatus: Backlog
 internalReference: 564614
 ---

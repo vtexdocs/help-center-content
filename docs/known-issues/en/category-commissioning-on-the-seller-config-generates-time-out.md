@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: category-commissioning-on-the-seller-config-generates-time-out
+locale: en
 kiStatus: Fixed
 internalReference: 310527
 ---

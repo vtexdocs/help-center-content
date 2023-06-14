@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: promociones-de-campana-nueva-opcion-al-configurar-el-publico-objetivo
+locale: es
 legacySlug: promociones-de-campana-nueva-opcion-al-configurar-el-publico-objetivo
 announcementImageID: ''
 announcementSynopsisES: 'Usar varios públicos objetivo en simultáneo en una audiencia de campaña en lugar de usar solo un público u otro.'
@@ -22,7 +23,7 @@ Mejoramos la configuración de Audiencia de campañas para permitirte sumar púb
 
 En el Admin VTEX, en **Productos > Promociones y Tasas > Audiencia de campañas > Nueva audiencia de campaña**, en las configuraciones referidas al **Público objetivo**, agregamos la opción «y», donde antes solo estaba la opción «o».  Esto significa que ahora puedes aplicar una lógica de adición de criterios («y»), además de la lógica de alternativa («o») que ya existía. Observa la imagen a continuación:
 
-![publico-alvo-e-ou-es](//images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/a3b67e255c3d65380455c6baeae20ad8/es-publico-alvo.gif)
+![publico-alvo-e-ou-es](https://images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/a3b67e255c3d65380455c6baeae20ad8/es-publico-alvo.gif)
 
 Con la nueva opción, puedes crear promociones de campaña a partir de una combinación de criterios de una manera más flexible.
 

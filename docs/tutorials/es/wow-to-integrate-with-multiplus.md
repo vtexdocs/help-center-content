@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: integrar-con-multiplus
+locale: es
 legacySlug: integrar-con-multiplus
 subcategory: 
 ---

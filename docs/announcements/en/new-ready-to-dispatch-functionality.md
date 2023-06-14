@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: new-ready-to-dispatch-functionality
+locale: en
 legacySlug: new-ready-to-dispatch-functionality
 announcementImageID: ''
 announcementSynopsisEN: ' New VTEX Log functionality for label printing and carrier notification.'

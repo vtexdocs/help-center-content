@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: autocompletar-nao-respondendo-a-partidas-frias
+locale: pt
 kiStatus: Backlog
 internalReference: 418573
 ---

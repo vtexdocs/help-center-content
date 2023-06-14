@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: configuring-xml
+locale: en
 legacySlug: uploading-a-product-xml
 subcategory: 2OCA7SVfWoMSiAi0GEGwKo
 ---

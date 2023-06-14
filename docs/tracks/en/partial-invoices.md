@@ -9,6 +9,7 @@ firstPublishedAt: 2022-06-20T20:21:34.641Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: partial-invoices
+locale: en
 trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugEN: orders
 ---

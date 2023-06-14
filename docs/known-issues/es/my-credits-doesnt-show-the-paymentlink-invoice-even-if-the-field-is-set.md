@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: mis-creditos-no-muestran-la-factura-de-paymentlink-aunque-el-campo-este-configurado
+locale: es
 kiStatus: Fixed
 internalReference: 546267
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-pagamentos-com-cartoes-de-loja-bandeira-propria
+locale: pt
 legacySlug: configurar-pagamentos-com-cartoes-de-loja-bandeira-propria
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

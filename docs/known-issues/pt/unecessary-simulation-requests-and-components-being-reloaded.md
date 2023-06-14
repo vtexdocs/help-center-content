@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: pedidos-desnecessarios-de-simulacao-e-componentes-sendo-recarregados
+locale: pt
 kiStatus: Backlog
 internalReference: 648298
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: o-que-e-order-configuration
+locale: pt
 legacySlug: o-que-e-order-configuration
 subcategory: 1GujN7Pa7NESCz0sB8srX4
 ---

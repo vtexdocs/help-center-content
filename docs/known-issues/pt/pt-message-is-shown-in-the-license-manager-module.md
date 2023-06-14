@@ -11,6 +11,7 @@ productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
 slug: a-mensagem-pt-e-mostrada-no-modulo-license-manager
+locale: pt
 kiStatus: Backlog
 internalReference: 620782
 ---

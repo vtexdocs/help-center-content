@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-cancelar-pedido
+locale: pt
 legacySlug: como-cancelar-pedido
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: quebra-de-layout-ao-adicionarretirar-filtro
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

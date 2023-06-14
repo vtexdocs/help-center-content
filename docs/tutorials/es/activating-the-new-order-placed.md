@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_6
 slug: como-activar-el-nuevo-order-placed
+locale: es
 legacySlug: como-activar-el-nuevo-order-placed
 subcategory: 
 ---

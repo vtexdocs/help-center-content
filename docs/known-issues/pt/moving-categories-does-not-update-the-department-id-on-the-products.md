@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: a-movimentacao-de-categorias-nao-atualiza-o-id-do-departamento-nos-produtos
+locale: pt
 kiStatus: Backlog
 internalReference: 316694
 ---

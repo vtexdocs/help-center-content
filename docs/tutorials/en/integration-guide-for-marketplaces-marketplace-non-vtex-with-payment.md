@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: integration-guide-for-marketplaces-marketplace-non-vtex-with-payment
+locale: en
 legacySlug: integration-guide-for-marketplaces-marketplace-non-vtex-with-payment
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---

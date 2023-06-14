@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: tamano-del-atributo-mercado-book-mapper
+locale: es
 kiStatus: Backlog
 internalReference: 592577
 ---

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
 tag: Catalog
 slug: la-ordenacion-de-los-campos-de-los-productos-y-las-sku-no-se-guarda
+locale: es
 kiStatus: Backlog
 internalReference: 525127
 ---

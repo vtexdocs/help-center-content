@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: configurar-o-adquirente-rede
+locale: pt
 legacySlug: configurar-o-adquirente-rede
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

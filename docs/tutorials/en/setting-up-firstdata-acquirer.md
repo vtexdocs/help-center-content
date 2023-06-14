@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: setting-up-firstdata-acquirer
+locale: en
 legacySlug: setting-up-firstdata-acquirer
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

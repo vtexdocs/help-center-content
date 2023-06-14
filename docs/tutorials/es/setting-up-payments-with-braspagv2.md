@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: configurar-pago-con-braspagv2
+locale: es
 legacySlug: configurar-pago-con-braspagv2
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: flujo-de-la-transaccion-en-pagos
+locale: es
 legacySlug: flujo-de-la-transaccion-en-pci-gateway
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

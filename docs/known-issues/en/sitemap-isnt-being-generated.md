@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: sitemap-isnt-being-generated
+locale: en
 kiStatus: Backlog
 internalReference: 827104
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: las-especificaciones-de-las-categorias-no-se-abren-en-el-admin-al-primer-intento
+locale: es
 kiStatus: Backlog
 internalReference: 664419
 ---

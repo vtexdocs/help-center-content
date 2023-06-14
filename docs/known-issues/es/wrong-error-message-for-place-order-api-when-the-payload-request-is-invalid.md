@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: mensaje-de-error-erroneo-para-la-api-de-realizacion-de-pedidos-cuando-la-solicitud-de-carga-util-no-es-valida
+locale: es
 kiStatus: Backlog
 internalReference: 709180
 ---

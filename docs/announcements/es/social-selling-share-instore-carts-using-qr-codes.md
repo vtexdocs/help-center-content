@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
 slug: social-selling-comparte-carritos-de-instore-mediante-codigos-qr
+locale: es
 legacySlug: social-selling-comparte-carritos-de-instore-mediante-codigos-qr
 announcementImageID: ''
 announcementSynopsisES: 'Ahora inStore Social Selling permite compartir códigos QR para que los clientes finalicen sus compras.'
@@ -26,7 +27,7 @@ Anteriormente, la funcionalidad Social Selling en inStore consistía en generar 
 
 Con el cambio, inStore ahora también genera un código QR que puede ser leído por los dispositivos de los clientes, además del enlace compartible.
 
-![instore-social-selling-qr-code-share-es](//images.ctfassets.net/alneenqid6w5/3JOA4Ar1iW4PudeTYWzaQD/1d1c94682042d029f24d527ef8290e94/image3.png)
+![instore-social-selling-qr-code-share-es](https://images.ctfassets.net/alneenqid6w5/3JOA4Ar1iW4PudeTYWzaQD/1d1c94682042d029f24d527ef8290e94/image3.png)
 
 ## ¿Por qué realizamos este cambio?
 

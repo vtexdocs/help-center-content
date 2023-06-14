@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 71cQH3Q0oKXzeY2DmMZRKX
 slug: como-corrigir-pedido-com-divergencia-entre-o-valor-total-do-pedido-da
+locale: es
 legacySlug: como-corrigir-pedido-com-divergencia-entre-o-valor-total-do-pedido-da
 ---
 

@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 tag: Checkout
 slug: carregamento-eterno-ao-permitir-geolocalizacao-para-busca-de-pontos-de
+locale: pt
 kiStatus: Fixed
 internalReference: 
 ---
@@ -34,7 +35,7 @@ Se a localização do seu navegador satisfaz a condição acima, siga com estes 
 5. Durante o checkout, selecione a opção de entrega: ponto de retirada. 
 6. Verifique que a tela apresenta uma mensagem contínua sobre carregamento da localização.
 
-![erro PT](//images.ctfassets.net/alneenqid6w5/4MVL2ctjpB3TRIfQt1ht3O/c3a49aa994fb5e5042a0d5a06f40c336/erro_PT.png)
+![erro PT](https://images.ctfassets.net/alneenqid6w5/4MVL2ctjpB3TRIfQt1ht3O/c3a49aa994fb5e5042a0d5a06f40c336/erro_PT.png)
 
 ## Workaround
 

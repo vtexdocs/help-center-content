@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: meli-atributos-negro000000-integracion-con-un-comportamiento-no-esperado
+locale: es
 kiStatus: Backlog
 internalReference: 660703
 ---

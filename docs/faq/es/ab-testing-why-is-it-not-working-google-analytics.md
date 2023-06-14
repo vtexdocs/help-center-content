@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Others
 author: authors_84
 slug: prueba-ab-por-que-no-esta-funcionando-google-analytics
+locale: es
 legacySlug: prueba-ab-por-que-no-esta-funcionando-google-analytics
 ---
 

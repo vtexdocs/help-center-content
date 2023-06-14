@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: setting-up-pagarmev2-gateway
+locale: en
 legacySlug: setting-up-pagarmev2-gateway
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

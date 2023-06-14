@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil
+locale: pt
 legacySlug: diferenca-entre-adquirentes-subadquirentes-e-gateways-no-brasil
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

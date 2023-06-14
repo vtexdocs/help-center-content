@@ -9,6 +9,7 @@ firstPublishedAt: 2020-10-20T19:53:25.808Z
 contentType: trackArticle
 productTeam: Channels
 slug: mapeo-de-categorias-variaciones-y-atributos-de-centauro
+locale: es
 trackId: D8Qnjbr5lfLkUfMRhsfbj
 trackSlugES: mapeo-de-categorias-variaciones-y-atributos-de-centauro
 ---

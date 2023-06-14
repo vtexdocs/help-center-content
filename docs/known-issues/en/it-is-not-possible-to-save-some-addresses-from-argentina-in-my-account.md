@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: it-is-not-possible-to-save-some-addresses-from-argentina-in-my-account
+locale: en
 kiStatus: Backlog
 internalReference: 385410
 ---

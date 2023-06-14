@@ -9,6 +9,7 @@ firstPublishedAt: 2022-02-02T21:04:33.822Z
 contentType: trackArticle
 productTeam: Channels
 slug: vision-general-de-la-integracion-b2w
+locale: es
 trackId: 6w07SJBVqE020KIOOS8ygk
 trackSlugES: configurar-integracion-b2w
 ---

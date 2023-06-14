@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: sku-unico-com-ean-multiplo-no-centro-mercantil
+locale: pt
 kiStatus: Backlog
 internalReference: 520345
 ---

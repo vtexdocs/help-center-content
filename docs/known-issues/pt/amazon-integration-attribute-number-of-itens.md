@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: atributo-de-integracao-da-amazonia-numero-de-itens
+locale: pt
 kiStatus: Backlog
 internalReference: 557788
 ---

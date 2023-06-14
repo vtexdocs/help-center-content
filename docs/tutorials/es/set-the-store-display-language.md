@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: definir-el-idioma-de-visualizacion-de-la-tienda
+locale: es
 legacySlug: definir-el-idioma-de-visualizacion-de-la-tienda
 subcategory: 7ogirQ8NClawO2X6xdgCKc
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 slug: integrando-com-dafiti
+locale: pt
 legacySlug: integrando-com-dafiti
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: boleto-en-plazos-lendico-la-novedad-que-expandira-sus-opciones-de-pago
+locale: es
 legacySlug: boleto-en-plazos-lendico-la-novedad-que-expandira-sus-opciones-de-pago
 announcementImageID: ''
 announcementSynopsisES: 'Descubra Boleto en Plazos Lendico - una nueva forma de pago para aumentar sus posibilidades de conversión en Brasil'

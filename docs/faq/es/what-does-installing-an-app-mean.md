@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
 slug: qué-significa-instalar-una-aplicación
+locale: es
 legacySlug: qué-significa-instalar-una-aplicación
 ---
 

@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T15:26:52.495Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configurar-el-adquirente-cappta-para-el-instore
+locale: es
 trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugES: configurar-el-adquirente-cappta-para-el-instore
 ---

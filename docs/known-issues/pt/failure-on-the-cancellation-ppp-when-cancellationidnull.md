@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: falha-no-cancelamento-ppp-quando-o-cancelamentoidnulo
+locale: pt
 kiStatus: Backlog
 internalReference: 333897
 ---

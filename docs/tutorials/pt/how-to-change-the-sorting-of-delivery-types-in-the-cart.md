@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_24
 slug: como-alterar-a-ordenacao-dos-tipos-de-entrega-no-carrinho
+locale: pt
 legacySlug: como-alterar-a-ordenacao-dos-tipos-de-entrega-no-carrinho
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

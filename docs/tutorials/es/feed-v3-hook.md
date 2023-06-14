@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 6AcGyun1hSWewU8YcaQiO
 slug: hook-de-feed-v3
+locale: es
 legacySlug: configurar-hook-de-feed-v3
 subcategory: 3Y8xzVGMXcuPTuzfFI0vUp
 ---

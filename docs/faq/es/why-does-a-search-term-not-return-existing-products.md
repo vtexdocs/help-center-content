@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_31
 slug: por-que-un-termino-buscado-no-retorna-productos-existentes
+locale: es
 legacySlug: por-que-un-termino-buscado-no-retorna-productos-existentes
 ---
 

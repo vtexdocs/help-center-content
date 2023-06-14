@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: how-does-the-all-orders-v2-dashboard-work
+locale: en
 legacySlug: how-does-the-all-orders-v2-dashboard-work
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

@@ -11,6 +11,7 @@ productTeam: Shopping
 author: authors_41
 tag: Checkout,Payments
 slug: falta-de-informacoes-de-pagamento-para-integrar-pedidos-quando-ocorre
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

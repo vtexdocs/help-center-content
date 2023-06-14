@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: gerenciar-capacidade-de-entrega-beta
+locale: pt
 legacySlug: gerenciar-capacidade-de-entrega-beta
 subcategory: 
 ---

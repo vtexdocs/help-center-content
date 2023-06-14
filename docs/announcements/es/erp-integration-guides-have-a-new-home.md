@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: guias-de-integracion-con-erp-tienen-una-nueva-casa
+locale: es
 legacySlug: guia-de-integracion-de-erps-pedidos, guia-de-integracion-de-erps-catalogo-expreso, guia-de-integracion-de-erps-catalogo-completo, guia-de-integracion-de-erps-arquitectura-del-catalogo, interfaces-de-integracion
 announcementImageID: ''
 announcementSynopsisES: 'Esta documentación se actualizó recientemente y está disponible en nuestro Developer Portal.'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: configuracion-de-precios
+locale: es
 legacySlug: configuracion-de-precios
 subcategory: 3O1NvPgBPqE0qU88MSQaie
 ---

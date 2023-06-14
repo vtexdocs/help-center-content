@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: authors_24
 slug: changes-in-the-orderplaced-provide-more-precision-to-google-analytics-data
+locale: en
 legacySlug: changes-in-the-orderplaced-provide-more-precision-to-google-analytics-data
 announcementImageID: ''
 announcementSynopsisEN: ' Now, orders with products from more than one seller generate a single event on Google Analytics.'

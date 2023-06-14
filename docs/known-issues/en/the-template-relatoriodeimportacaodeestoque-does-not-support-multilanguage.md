@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: the-template-relatoriodeimportacaodeestoque-does-not-support-multilanguage
+locale: en
 kiStatus: Backlog
 internalReference: 585906
 ---

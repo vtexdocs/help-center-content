@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: novos-tutoriais-ajudam-lojas-b2b-a-implantarem-seus-negocios-na-vtex
+locale: pt
 legacySlug: novos-tutoriais-ajudam-lojas-b2b-a-implantarem-seus-negocios-na-vtex
 announcementImageID: ''
 announcementSynopsisPT: 'Artigos trazem o passo a passo para a solução de alguns dos principais desafios tecnológicos enfrentados por lojas B2B.'

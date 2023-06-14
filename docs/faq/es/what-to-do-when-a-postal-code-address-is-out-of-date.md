@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Others
 author: authors_3
 slug: que-hacer-cuando-un-codigo-postal-tiene-direccion-desactualizada
+locale: es
 legacySlug: que-hacer-cuando-un-codigo-postal-tiene-direccion-desactualizada
 ---
 

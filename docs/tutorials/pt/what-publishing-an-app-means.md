@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 
 slug: o-que-significa-publicar-uma-app
+locale: pt
 legacySlug: o-que-significa-publicar-uma-app
 subcategory: 
 ---

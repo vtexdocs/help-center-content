@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: precos-de-exportacao-gerados-com-um-formato-que-nao-e-aceito-pelo-processo-de-importacao
+locale: pt
 kiStatus: Fixed
 internalReference: 584975
 ---

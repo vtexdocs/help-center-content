@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: master-data-v2
+locale: en
 legacySlug: master-data-v2
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---

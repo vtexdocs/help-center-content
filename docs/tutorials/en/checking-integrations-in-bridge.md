@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: checking-integrations-in-bridge
+locale: en
 legacySlug: checking-integrations-in-bridge
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---

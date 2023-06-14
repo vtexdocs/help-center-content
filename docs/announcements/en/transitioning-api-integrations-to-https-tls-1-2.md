@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: 127RQ7SUoFfyTh5gbXUpdM
 slug: transitioning-api-integrations-to-https-tls-1-2
+locale: en
 legacySlug: transitioning-api-integrations-to-https-tls-1-2
 announcementImageID: ''
 announcementSynopsisEN: 'In the upcoming months, we will phase out support for all HTTP connections to improve the security of our platform.'

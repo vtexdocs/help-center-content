@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 245tA425AIeioKAk2eaiwS
 slug: o-que-e-3d-secure
+locale: pt
 legacySlug: o-que-e-3d-secure
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

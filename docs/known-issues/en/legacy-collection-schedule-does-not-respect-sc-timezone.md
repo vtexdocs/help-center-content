@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: legacy-collection-schedule-does-not-respect-sc-timezone
+locale: en
 kiStatus: Backlog
 internalReference: 316054
 ---

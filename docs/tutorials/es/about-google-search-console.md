@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: como-usar-el-google-search-console
+locale: es
 legacySlug: como-usar-el-google-search-console
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

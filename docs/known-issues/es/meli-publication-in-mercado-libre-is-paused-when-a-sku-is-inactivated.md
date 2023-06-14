@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: la-publicacion-de-meli-en-mercado-libre-se-detiene-cuando-se-desactiva-una-sku
+locale: es
 kiStatus: Backlog
 internalReference: 557293
 ---

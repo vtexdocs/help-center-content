@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: adicionar-imagem-a-descricao-do-produto
+locale: pt
 legacySlug: adicionar-imagem-a-descricao-do-produto
 subcategory: pwxWmUu7T222QyuGogs68
 ---

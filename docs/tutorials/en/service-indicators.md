@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: service-indicators
+locale: en
 legacySlug: service-indicators
 subcategory: 2A1RNDhwU4kqCN3XimtaD2
 ---

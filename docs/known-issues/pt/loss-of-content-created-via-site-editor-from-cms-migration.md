@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: perda-de-conteudo-criado-via-editor-do-site-a-partir-da-migracao-para-o-cms
+locale: pt
 kiStatus: Backlog
 internalReference: 610533
 ---

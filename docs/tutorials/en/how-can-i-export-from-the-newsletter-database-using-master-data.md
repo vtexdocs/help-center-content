@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_84
 slug: how-can-i-export-from-the-newsletter-database-using-master-data
+locale: en
 legacySlug: how-can-i-export-from-the-newsletter-database-using-master-data
 subcategory: WpbGhubuRZaNZilJSXnqu
 ---

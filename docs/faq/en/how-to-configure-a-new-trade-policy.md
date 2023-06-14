@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: how-to-configure-a-new-trade-policy
+locale: en
 legacySlug: why-am-i-unable-to-create-new-trade-policy
 ---
 

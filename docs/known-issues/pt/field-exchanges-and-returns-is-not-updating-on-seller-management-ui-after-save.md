@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: o-campo-trocas-e-devolucoes-nao-esta-atualizando-a-interface-de-gestao-do-vendedor-apos-salvar
+locale: pt
 kiStatus: Backlog
 internalReference: 689886
 ---

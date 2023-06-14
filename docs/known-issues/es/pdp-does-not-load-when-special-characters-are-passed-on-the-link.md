@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: pdp-no-carga-cuando-se-pasan-caracteres-especiales-en-el-enlace
+locale: es
 kiStatus: Backlog
 internalReference: 770893
 ---

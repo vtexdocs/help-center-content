@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-peso-del-kit-puede-ser-sobrescrito-por-la-apiservicio-web
+locale: es
 kiStatus: Backlog
 internalReference: 429993
 ---

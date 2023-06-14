@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: products-and-skus-beta
+locale: en
 legacySlug: products-and-skus-beta
 subcategory: 6XPsLadoT3moZ7eTduCg3c
 ---
@@ -20,7 +21,7 @@ subcategory: 6XPsLadoT3moZ7eTduCg3c
 
 The **Products and SKUs** page allows you to view and manage the list of all products in your store, including information about SKUs, last updated, and status. To access it, go to **Catalog > Products and SKUs**.
 
-![produtos-skus-en](//images.ctfassets.net/alneenqid6w5/1XLBRg7olhbAUmgkD6kb7K/1fde8ca0724350f086e7983a937dbe67/produtos-skus-en.PNG)
+![produtos-skus-en](https://images.ctfassets.net/alneenqid6w5/1XLBRg7olhbAUmgkD6kb7K/1fde8ca0724350f086e7983a937dbe67/produtos-skus-en.PNG)
 
 <div class="alert alert-info">
   <p>This page is only available to stores operating with the <a href="https://help.vtex.com/en/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa">New VTEX Admin</a>. To access this page and be part of the new experience, join the New VTEX Admin <a href="https://content.vtex.com/participe-do-programa-beta-en/?utm_source=landing_page&utm_medium=help_center&utm_campaign=new_admin_beta">Beta program</a>.</p>
@@ -64,7 +65,7 @@ To find a specific product, you can type one of the following in the search bar:
 
 Then, click on the criteria you want to use for the search, as illustrated in the following image:
 
-![facelift-product-search-en](//images.ctfassets.net/alneenqid6w5/PCBjrNpVcVr5Z4x3RdTgW/c27b9b7e3c947a913bdcd071c5fb085a/facelift-product-search-en.gif)
+![facelift-product-search-en](https://images.ctfassets.net/alneenqid6w5/PCBjrNpVcVr5Z4x3RdTgW/c27b9b7e3c947a913bdcd071c5fb085a/facelift-product-search-en.gif)
 
 The list of products displayed will then be refreshed according to your search. 
 
@@ -104,7 +105,7 @@ To view the status of a product's SKUs, read the section [Viewing the SKU List](
 
 When you click `View SKUs` in the product row in the list, the platform displays a list with all the SKUs of that product: 
 
-![sku-quick-actions-en](//images.ctfassets.net/alneenqid6w5/71pxP9DeCFZ9UrQdl67r9X/bf3e1916b4091622c4344afd1fdc4aa1/sku-quick-actions-en.gif)
+![sku-quick-actions-en](https://images.ctfassets.net/alneenqid6w5/71pxP9DeCFZ9UrQdl67r9X/bf3e1916b4091622c4344afd1fdc4aa1/sku-quick-actions-en.gif)
 
 In the SKU list, you will find the following information:
 
@@ -147,7 +148,7 @@ When clicking the menu on a product line and choosing **View indexed info**, you
 
 This modal tab displays the SKU list associated with the product and its corresponding indexed information.
 
-![catalog-price-inventory-en](//images.ctfassets.net/alneenqid6w5/4JWODR51ILI7KhEnzVC2t2/b3968e801767f2d06423bc507f2ea6b5/price-inventory-en.PNG)
+![catalog-price-inventory-en](https://images.ctfassets.net/alneenqid6w5/4JWODR51ILI7KhEnzVC2t2/b3968e801767f2d06423bc507f2ea6b5/price-inventory-en.PNG)
 
 By clicking the arrow `>` in each SKU row, you can view a table with the following information:
 
@@ -162,7 +163,7 @@ By clicking the arrow `>` in each SKU row, you can view a table with the followi
 
 This modal tab displays the log, in other words, the detailed technical indexing record for the product and related SKUs.
 
-![indexed-log-en](//images.ctfassets.net/alneenqid6w5/4pPJmvun6SB9jTFqSR7XSX/4c2095af6dec446e27db570e067b4d5f/indexed-log-en.PNG)
+![indexed-log-en](https://images.ctfassets.net/alneenqid6w5/4pPJmvun6SB9jTFqSR7XSX/4c2095af6dec446e27db570e067b4d5f/indexed-log-en.PNG)
 
 ## Learn more
 

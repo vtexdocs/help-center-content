@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_35
 slug: erro-na-simulacao-de-frete
+locale: pt
 legacySlug: erro-na-simulacao-de-frete
 ---
 

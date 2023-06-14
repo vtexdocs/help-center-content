@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: la-promocion-de-envios-no-genera-puntos-destacados-banderas
+locale: es
 kiStatus: Backlog
 internalReference: 527111
 ---

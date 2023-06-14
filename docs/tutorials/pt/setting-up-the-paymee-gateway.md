@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: configurar-o-gateway-paymee
+locale: pt
 legacySlug: configurar-o-gateway-paymee
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

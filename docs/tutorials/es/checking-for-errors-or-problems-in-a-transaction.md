@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: comprobar-errores-o-problemas-en-una-transaccion
+locale: es
 legacySlug: comprobar-errores-o-problemas-en-una-transaccion
 subcategory: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---

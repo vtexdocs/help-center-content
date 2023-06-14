@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: enviar-requests-http-con-triggers
+locale: es
 legacySlug: enviar-requests-http-con-triggers
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: integration-guide-for-erps
+locale: en
 legacySlug: integration-guide-for-erps
 subcategory: 5fKgQZhrCw88ACy6Su6GUc
 ---

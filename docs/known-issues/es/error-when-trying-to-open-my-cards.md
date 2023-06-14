@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: error-al-intentar-abrir-mis-tarjetas
+locale: es
 kiStatus: Backlog
 internalReference: 370706
 ---

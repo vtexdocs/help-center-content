@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: especificacoes-obrigatorias-nao-sao-verificadas-ao-criar-um-produto-atraves-de-api
+locale: pt
 kiStatus: Backlog
 internalReference: 522293
 ---

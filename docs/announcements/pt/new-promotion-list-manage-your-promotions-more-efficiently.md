@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: nova-lista-de-promocoes-gerencie-promocoes-com-mais-eficiencia
+locale: pt
 legacySlug: nova-lista-de-promocoes-gerencie-promocoes-com-mais-eficiencia
 announcementImageID: ''
 announcementSynopsisPT: 'A nova lista de Promoções possibilita gerenciar as promoções da sua loja de forma mais completa e otimizada.'
@@ -29,7 +30,7 @@ Desenvolvemos uma nova interface para a Lista de Promoções, que permite:
 * Exportar sua lista de promoções ativas.
 * Duplicar promoções ativas ou arquivadas para um processo de criação mais rápido.
 
-![geral-promo-PT](//images.ctfassets.net/alneenqid6w5/5J9dSnkUhLm1gTUjhUftrP/76708dc950cfef626516c9a08b6fe13d/image3.png)
+![geral-promo-PT](https://images.ctfassets.net/alneenqid6w5/5J9dSnkUhLm1gTUjhUftrP/76708dc950cfef626516c9a08b6fe13d/image3.png)
 
 ## Por que fizemos essa mudança?
 

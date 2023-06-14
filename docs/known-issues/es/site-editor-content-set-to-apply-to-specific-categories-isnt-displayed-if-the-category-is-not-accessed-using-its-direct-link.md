@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: el-contenido-del-editor-del-sitio-configurado-para-aplicarse-a-categorias-especificas-no-se-muestra-si-no-se-accede-a-la-categoria-mediante-su-enlace-directo
+locale: es
 kiStatus: Backlog
 internalReference: 371994
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: por-qué-no-se-aplicó-una-promoción-de-Precio-máximo-por-elemento?
+locale: es
 legacySlug: por-que-uma-promocao-de-preco-maximo-por-item-nao-foi-aplicada
 ---
 

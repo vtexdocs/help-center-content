@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: service-management
+locale: en
 legacySlug: service-management
 subcategory: 7GypxQ3HDmFVCHTNTwyhr0
 ---

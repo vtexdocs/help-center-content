@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-pagamentos-com-ipay88
+locale: pt
 legacySlug: configurar-pagamentos-com-ipay88
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

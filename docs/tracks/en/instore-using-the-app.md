@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T19:51:58.371Z
 contentType: trackArticle
 productTeam: Shopping
 slug: instore-using-the-app
+locale: en
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugEN: instore-product-overview
 ---

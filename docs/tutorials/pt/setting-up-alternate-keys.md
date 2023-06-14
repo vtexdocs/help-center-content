@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: configurar-chaves-alternativas
+locale: pt
 legacySlug: configurar-chaves-alternativas
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_41
 slug: cual-es-la-diferencia-entre-desvincular-y-remover-un-sku-seller
+locale: es
 legacySlug: cual-es-la-diferencia-entre-desvincular-y-excluir-un-sku-seller
 subcategory: FTLNAWyLmuaIiAq4CQKS6
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: a-iu-nao-muda-de-estado-entre-a-entrega-e-a-coleta-corretamente
+locale: pt
 kiStatus: Backlog
 internalReference: 526736
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: como-se-realiza-el-calculo-de-pro-rata-en-vtex
+locale: es
 legacySlug: como-se-realiza-el-calculo-de-pro-rata-en-vtex
 subcategory: 6SJnrkKDjGwSqKkMuQMOmm
 ---
@@ -20,6 +21,6 @@ La cuenta del descuento es: `average fee dividido por el número de días del me
 
 Entonces, si su mensualidad tuvo un valor de $ 750 en el mes de mayo - 31 días - y usted contrató a VTEX el día 06 de mayo, serán descontados $ 145,16 en su próxima factura.
 
-![prorata PT](//images.ctfassets.net/alneenqid6w5/3FEz6ikQqcaQmkys4Wgq0U/4a992dad8bcb8e6db9cdcfa8ccddbfe5/prorata_PT.png)
+![prorata PT](https://images.ctfassets.net/alneenqid6w5/3FEz6ikQqcaQmkys4Wgq0U/4a992dad8bcb8e6db9cdcfa8ccddbfe5/prorata_PT.png)
 
 La cuenta fue: `$ 750/31 = $ 24,19 x 3 (días) = $ 145,16`

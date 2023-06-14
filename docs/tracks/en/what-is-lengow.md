@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-30T00:42:04.632Z
 contentType: trackArticle
 productTeam: Apps
 slug: what-is-lengow
+locale: en
 trackId: 2KDrouPiE4HDKUFFSG3KdN
 trackSlugEN: lengow-integration
 ---
@@ -17,7 +18,7 @@ Since 2009, [Lengow](https://www.lengow.com/) has grown in the European market b
 
 The [Lengow connector](https://apps.vtex.com/vtex-lengow/p) for VTEX allows your store to use their e-commerce feed management solution to increase the visibility and profitability of your products on Amazon, Google Shopping, Facebook, eBay, Criteo and <a href="https://www.lengow.com/marketplace-finder/" target="_blank">others</a>.
 
-<div><a href="https://www.lengow.com/" target="_blank"><img src="https://images.ctfassets.net/alneenqid6w5/2i9dPrUQBspc11Q52km82I/a44c2f63f968b50611dc0a7d2f5c5dd1/lengow.png" alt="Lengow" style="margin-left: auto; margin-right: auto; display: block;"></a></div>
+<div><a href="https://www.lengow.com/" target="_blank"><img src="https:https://images.ctfassets.net/alneenqid6w5/2i9dPrUQBspc11Q52km82I/a44c2f63f968b50611dc0a7d2f5c5dd1/lengow.png" alt="Lengow" style="margin-left: auto; margin-right: auto; display: block;"></a></div>
 
 Once the connector app is set up, your catalog feed will become available in Lengow and your products will be ready to be published on the channels of your choice. As you sell across different channels, orders and product stock levels will be automatically kept in sync between VTEX and Lengow.
 

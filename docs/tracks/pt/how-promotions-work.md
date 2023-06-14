@@ -9,6 +9,7 @@ firstPublishedAt: 2019-12-10T19:17:50.250Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: como-funcionam-as-promocoes
+locale: pt
 trackId: 6asfF1vFYiZgTQtOzwJchR
 trackSlugPT: promocoes
 ---

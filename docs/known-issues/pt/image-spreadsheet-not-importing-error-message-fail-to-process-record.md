@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: planilha-de-imagem-nao-importada-mensagem-de-erro-falha-no-registro-de-processamento
+locale: pt
 kiStatus: Backlog
 internalReference: 691803
 ---

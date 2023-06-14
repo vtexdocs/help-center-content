@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: configuracoes-do-publico-alvo
+locale: pt
 legacySlug: configuracoes-do-publico-alvo
 subcategory: 2cI57eZ3ZiWSeaQs26Gwys
 ---

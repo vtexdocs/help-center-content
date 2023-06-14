@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 
 slug: change-para-mais
+locale: pt
 legacySlug: change-para-mais
 subcategory: 
 ---

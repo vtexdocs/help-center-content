@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: checkout-does-not-accept-zip-code-with-3-digits-or-less
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

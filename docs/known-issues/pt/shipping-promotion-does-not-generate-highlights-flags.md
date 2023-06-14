@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: a-promocao-de-embarque-nao-gera-destaques-bandeiras
+locale: pt
 kiStatus: Backlog
 internalReference: 527111
 ---

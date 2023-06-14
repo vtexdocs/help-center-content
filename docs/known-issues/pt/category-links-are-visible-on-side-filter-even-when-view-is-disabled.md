@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: links-de-categorias-visiveis-no-filtro-lateral-mesmo-com-exibicao-desabilitada
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

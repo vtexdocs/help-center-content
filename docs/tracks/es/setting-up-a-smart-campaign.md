@@ -9,6 +9,7 @@ firstPublishedAt: 2018-10-30T23:00:53.240Z
 contentType: trackArticle
 productTeam: Channels
 slug: configuracion-de-una-campana-inteligente
+locale: es
 trackId: 47kz5PRQPK0IEaqGqiIuA
 trackSlugES: como-hacer-campanas-a-traves-de-google-ads
 ---

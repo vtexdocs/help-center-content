@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: solicitar-captura-sem-registro-de-novos-eventos-ao-utilizar-lojas-legadas
+locale: pt
 kiStatus: Backlog
 internalReference: 604254
 ---

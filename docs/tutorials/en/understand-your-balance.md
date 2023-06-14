@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: understand-your-balance
+locale: en
 legacySlug: understand-your-balance
 subcategory: 29ZPBdZOTSg6NdzprcqBfb
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
 slug: nova-forma-de-organizar-os-arquivos-de-traducao-em-sua-app-io
+locale: pt
 legacySlug: nova-forma-de-organizar-os-arquivos-de-traducao-em-sua-app-io
 announcementImageID: ''
 announcementSynopsisPT: 'Com a nova versão do VTEX.IO, os arquivos JSON de tradução devem ficar em uma nova pasta, no diretório raiz.'

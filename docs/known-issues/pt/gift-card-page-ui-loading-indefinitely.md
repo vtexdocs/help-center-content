@@ -11,6 +11,7 @@ productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 tag: Gift Card
 slug: ui-da-pagina-vale-compra-carregando-indefinidamente
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

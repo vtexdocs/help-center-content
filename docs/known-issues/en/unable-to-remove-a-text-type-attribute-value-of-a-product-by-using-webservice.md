@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Web Service
 slug: unable-to-remove-a-text-type-attribute-value-of-a-product-by-using-webservice
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

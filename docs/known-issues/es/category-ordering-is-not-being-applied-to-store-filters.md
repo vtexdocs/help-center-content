@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-ordenacion-de-categorias-no-se-aplica-en-los-filtros-de-la-tienda
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

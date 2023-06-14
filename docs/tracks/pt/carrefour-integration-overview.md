@@ -9,6 +9,7 @@ firstPublishedAt: 2021-12-27T17:11:48.631Z
 contentType: trackArticle
 productTeam: Channels
 slug: visao-geral-da-integracao-com-carrefour
+locale: pt
 trackId: 2wYlj07cNuA8k8mmwY86K2
 trackSlugPT: configurar-integracao-do-carrefour
 ---

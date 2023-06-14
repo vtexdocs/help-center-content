@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: el-editor-de-sitios-no-carga-los-bloques-cuando-se-accede-a-la-url-de-la-ruta-de-aterrizaje
+locale: es
 kiStatus: Backlog
 internalReference: 755993
 ---

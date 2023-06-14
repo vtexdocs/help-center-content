@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-exportacion-de-catalogos-no-muestra-los-canales-de-venta-cuando-se-marca-ninguno
+locale: es
 kiStatus: Backlog
 internalReference: 722001
 ---

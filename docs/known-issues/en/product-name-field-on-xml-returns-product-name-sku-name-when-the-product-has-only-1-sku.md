@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: product-name-field-on-xml-returns-product-name-sku-name-when-the-product-has-only-1-sku
+locale: en
 kiStatus: Backlog
 internalReference: 661089
 ---

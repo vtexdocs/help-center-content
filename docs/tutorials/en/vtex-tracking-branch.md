@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: vtex-tracking-branch
+locale: en
 legacySlug: vtex-tracking-branch
 subcategory: 7yiFRk9TGfMNeyhT83UljP
 ---

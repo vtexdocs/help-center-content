@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: el-modo-de-visualizacion-select-del-selector-sku-no-funciona-en-las-estanterias
+locale: es
 kiStatus: Backlog
 internalReference: 682152
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: checkout-api-may-not-group-packages-when-two-or-more-sellers-can-fulfill
+locale: en
 kiStatus: Backlog
 internalReference: 802156
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_59
 slug: como-funciona-el-healthcheck-de-vtex
+locale: es
 legacySlug: como-funciona-el-healthcheck-de-vtex
 subcategory: 5PYkoNDZyo2G80yiiqG2YW
 ---

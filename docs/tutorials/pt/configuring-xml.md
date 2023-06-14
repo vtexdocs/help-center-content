@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: configurando-xml
+locale: pt
 legacySlug: xml-de-produtos
 subcategory: 2OCA7SVfWoMSiAi0GEGwKo
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: integrando-com-zoom
+locale: pt
 legacySlug: integrando-com-zoom
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

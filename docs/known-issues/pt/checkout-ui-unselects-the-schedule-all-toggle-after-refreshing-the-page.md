@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: checkout-ui-desmarca-a-opcao-schedule-all-apos-refrescar-a-pagina
+locale: pt
 kiStatus: Backlog
 internalReference: 784693
 ---

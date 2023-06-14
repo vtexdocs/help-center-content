@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: informacoes-dos-pagamentos-customizados-do-uruguai
+locale: pt
 legacySlug: informacoes-dos-pagamentos-customizados-do-uruguai
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

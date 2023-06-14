@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: authors_24
 slug: my-orders-ja-esta-disponivel-na-extension-store
+locale: pt
 legacySlug: my-orders-ja-esta-disponivel-na-extension-store
 announcementImageID: ''
 announcementSynopsisPT: 'A partir de 5 de junho,  o uso da extensão para a página "Meus pedidos" será obrigatório para todas as lojas.'

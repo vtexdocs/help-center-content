@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: the-new-oms-report-allows-you-to-export-up-to-5000-orders
+locale: en
 legacySlug: the-new-oms-report-allows-you-to-export-up-to-5000-orders
 announcementImageID: ''
 announcementSynopsisEN: "As of 12/13, you'll be able to export up to 5.000 orders in the Orders Management module."

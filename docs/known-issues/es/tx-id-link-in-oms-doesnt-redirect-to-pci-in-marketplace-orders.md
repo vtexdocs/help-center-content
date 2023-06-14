@@ -11,6 +11,7 @@ productTeam: Channels
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: OMS
 slug: link-del-tx-id-en-oms-no-redirige-a-pci-en-pedidos-marketplace
+locale: es
 kiStatus: Open
 internalReference: 
 ---

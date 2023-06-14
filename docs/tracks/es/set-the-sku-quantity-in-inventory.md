@@ -9,6 +9,7 @@ firstPublishedAt: 2018-05-02T20:58:37.427Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: establezca-la-cantidad-del-sku-en-inventario
+locale: es
 trackId: 7sORw9I7QIka24MCQaIO2g
 trackSlugES: vtex-getting-started
 ---

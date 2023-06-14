@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: como-solicitar-su-rescision-contractual-en-brasil
+locale: es
 legacySlug: como-solicitar-su-rescision-contractual-brasil
 subcategory: 22TaEgFhwE6a6CG2KASYkC
 ---

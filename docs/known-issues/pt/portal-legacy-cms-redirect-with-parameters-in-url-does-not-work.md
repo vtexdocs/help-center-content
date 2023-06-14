@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: portal-legacy-cms-redirecionamento-com-parametros-em-url-nao-funciona
+locale: pt
 kiStatus: No Fix
 internalReference: 444496
 ---

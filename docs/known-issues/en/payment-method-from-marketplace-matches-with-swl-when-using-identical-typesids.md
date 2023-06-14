@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: payment-method-from-marketplace-matches-with-swl-when-using-identical-typesids
+locale: en
 kiStatus: Backlog
 internalReference: 402140
 ---

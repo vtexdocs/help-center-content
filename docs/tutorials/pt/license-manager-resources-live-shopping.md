@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: recursos-do-license-manager-live-shopping
+locale: pt
 legacySlug: recursos-do-license-manager-live-shopping
 subcategory: 1HSqkejwuYcQSMC400uY84
 ---

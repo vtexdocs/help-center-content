@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: os-termos-de-buscas-superiores-apresentados-no-autocompletar-nao-estao-de-acordo-com-os-termos-apresentados-no-relatorio-da-analytics
+locale: pt
 kiStatus: Backlog
 internalReference: 741999
 ---

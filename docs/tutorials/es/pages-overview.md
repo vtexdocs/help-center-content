@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: paginas-vision-general
+locale: es
 legacySlug: paginas-vision-general
 subcategory: 1znnjA17XqaUNdNFr42PW5
 ---
@@ -24,7 +25,7 @@ En Páginas, también puedes crear redirecciones de URL para redirigir a los vis
 
 En el Admin VTEX, accede **Storefront > Páginas** y descubre las principales herramientas disponibles en la interfaz.
 
-![Páginas UI - ES](//images.ctfassets.net/alneenqid6w5/p6829cewqlsLC0XfCnHsC/dc75d5dcbe1d3ff9d02d710718961fba/pages-ui-es.png)
+![Páginas UI - ES](https://images.ctfassets.net/alneenqid6w5/p6829cewqlsLC0XfCnHsC/dc75d5dcbe1d3ff9d02d710718961fba/pages-ui-es.png)
 
 | **Herramienta** | **Descripción** |
 | ---------- | ---------- |

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: habilitando-notificacoes-pwa-da-loja
+locale: pt
 legacySlug: habilitando-notificacoes-pwa-da-loja
 subcategory: 7ogirQ8NClawO2X6xdgCKc
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2019-10-21T12:53:34.331Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: punto-de-recogida-definición-del-concepto
+locale: es
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugES: logistica-101
 ---

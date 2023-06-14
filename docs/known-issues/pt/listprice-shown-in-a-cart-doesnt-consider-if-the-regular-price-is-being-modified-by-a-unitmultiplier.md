@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: listpreco-mostrado-em-um-carrinho-nao-considera-se-o-preco-regular-esta-sendo-modificado-por-uma-unidademultiplicador
+locale: pt
 kiStatus: Backlog
 internalReference: 578649
 ---

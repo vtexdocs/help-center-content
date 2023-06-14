@@ -11,6 +11,7 @@ productTeam: Shopping
 author: authors_37
 tag: Catalog
 slug: bug-no-carrinho-com-promocao-ao-splitar-item
+locale: pt
 kiStatus: Fixed
 internalReference: 
 ---

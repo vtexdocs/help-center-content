@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: alguns-enderecos-autocompletados-pelo-google-nao-podem-ser-salvos-em-minha-conta
+locale: pt
 kiStatus: Backlog
 internalReference: 415388
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: erro-no-campo-de-quantidade-maxima-da-mesma-sku-no-carrinho
+locale: pt
 kiStatus: Backlog
 internalReference: 587394
 ---

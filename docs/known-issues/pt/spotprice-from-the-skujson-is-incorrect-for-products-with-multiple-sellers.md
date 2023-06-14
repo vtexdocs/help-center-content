@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: spotprice-do-skujson-e-incorreto-para-produtos-com-multiplos-vendedores
+locale: pt
 kiStatus: Backlog
 internalReference: 264791
 ---

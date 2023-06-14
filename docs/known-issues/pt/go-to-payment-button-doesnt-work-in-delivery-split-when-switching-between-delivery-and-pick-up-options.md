@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-botao-ir-para-pagamento-nao-funciona-na-divisao-da-entrega-ao-alternar-entre-as-opcoes-de-entrega-e-coleta
+locale: pt
 kiStatus: Backlog
 internalReference: 756587
 ---

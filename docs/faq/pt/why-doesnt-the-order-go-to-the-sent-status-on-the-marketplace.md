@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: por-que-o-pedido-nao-vai-para-o-status-enviado-no-marketplace
+locale: pt
 legacySlug: por-que-o-pedido-nao-vai-para-o-status-enviado-no-marketplace
 ---
 

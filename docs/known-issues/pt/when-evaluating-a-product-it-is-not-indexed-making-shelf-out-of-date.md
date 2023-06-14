@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: ao-avaliar-um-produto-ele-nao-e-indexado-mantendo-vitrine-defasada
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

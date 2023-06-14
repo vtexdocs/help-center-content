@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: meli-integracion-sku-con-error-object-reference-not-set-to-an-instance-of-an-object
+locale: es
 kiStatus: Fixed
 internalReference: 657515
 ---

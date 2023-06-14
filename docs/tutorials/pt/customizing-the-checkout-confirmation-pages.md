@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_6
 slug: customizando-o-checkout-confirmation
+locale: pt
 legacySlug: customizando-o-checkout-confirmation
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_35
 slug: how-to-display-the-product-shelf-of-a-specific-seller
+locale: en
 legacySlug: 
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---

@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: edicao-na-nova-pagina-do-historico-de-indexacao-mostrando-como-atualizacao-produtos-que-ja-foram-atualizados
+locale: pt
 kiStatus: Backlog
 internalReference: 680241
 ---

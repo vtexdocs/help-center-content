@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: o-layout-da-pagina-muda-para-movel-quando-a-impressao-ctrlp-e-usada-no-cromo
+locale: pt
 kiStatus: No Fix
 internalReference: 454680
 ---

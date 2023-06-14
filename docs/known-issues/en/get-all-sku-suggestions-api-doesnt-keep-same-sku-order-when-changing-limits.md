@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: get-all-sku-suggestions-api-doesnt-keep-same-sku-order-when-changing-limits
+locale: en
 kiStatus: Backlog
 internalReference: 367187
 ---

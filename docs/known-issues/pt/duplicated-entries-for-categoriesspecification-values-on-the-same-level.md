@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: entradas-duplicadas-para-categoriasvalores-de-especificacao-no-mesmo-nivel
+locale: pt
 kiStatus: Backlog
 internalReference: 562588
 ---

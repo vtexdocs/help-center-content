@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: TAUXpa4XWCsIaUOoksGIE
 slug: creating-a-form-to-record-information-using-master-data-newsletter
+locale: en
 legacySlug: untitled-entry-2017-06-08-at-01-15-53
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---

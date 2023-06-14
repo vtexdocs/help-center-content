@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: configurar-tipo-de-especificaciones
+locale: es
 legacySlug: configurar-tipo-de-especificaciones
 subcategory: 1E7tziZCkY4w8i4EmUuwec
 ---

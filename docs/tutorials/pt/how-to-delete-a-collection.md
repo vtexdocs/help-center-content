@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: como-deletar-colecao
+locale: pt
 legacySlug: como-deletar-colecao
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

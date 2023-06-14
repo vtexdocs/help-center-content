@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_24
 slug: what-are-orders-with-marketplace-source-and-orders-with-fulfillment-source
+locale: en
 legacySlug: what-are-orders-with-marketplace-source-and-orders-with-fulfillment-source
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---
@@ -18,7 +19,7 @@ By accessing the section __All orders__, in __Orders management__, it is possibl
 
 The column __Origin__ indicates where the order came from, distinguishing each other in two possible origins: __Marketplace__ and __Fulfillment__.
 
-![orders-list-origin-en](//images.ctfassets.net/alneenqid6w5/3uvgTmIP1uEnAs0E4idyvb/832dd7e9618de51ffd8d2c56ab988f53/oders-list-origin-en.png)
+![orders-list-origin-en](https://images.ctfassets.net/alneenqid6w5/3uvgTmIP1uEnAs0E4idyvb/832dd7e9618de51ffd8d2c56ab988f53/oders-list-origin-en.png)
 
 
 ## Marketplace

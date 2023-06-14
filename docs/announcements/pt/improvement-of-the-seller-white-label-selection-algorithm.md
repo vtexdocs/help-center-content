@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: aperfeicoamento-do-algoritmo-de-selecao-de-sellers-white-label
+locale: pt
 legacySlug: aperfeicoamento-do-algoritmo-de-selecao-de-sellers-white-label
 announcementImageID: ''
 announcementSynopsisPT: 'Entenda o funcionamento da lógica de escolha de sellers para entrega ou retirada'

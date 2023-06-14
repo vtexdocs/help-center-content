@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-pagamentos-com-apple-pay
+locale: pt
 legacySlug: configurar-pagamentos-com-apple-pay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: la-api-para-crearactualizar-proveedores-de-tarjetas-regalo-siempre-esta-actualizando-el-proveedor-actual-cuando-nunca-antes-ha-anadido-un-nuevo-proveedor
+locale: es
 kiStatus: Backlog
 internalReference: 768954
 ---

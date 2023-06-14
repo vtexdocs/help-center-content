@@ -9,6 +9,7 @@ firstPublishedAt: 2019-07-17T19:47:01.156Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: arredondamento-de-precos-definicao-de-conceito
+locale: pt
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugPT: precos-101
 ---

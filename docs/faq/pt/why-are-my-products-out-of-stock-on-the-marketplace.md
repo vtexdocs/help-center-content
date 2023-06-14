@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: por-que-meus-produtos-estao-sem-estoque
+locale: pt
 legacySlug: por-que-meus-produtos-estao-sem-estoque
 ---
 

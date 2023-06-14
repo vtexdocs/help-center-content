@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Reliability
 author: authors_4
 slug: untitled-entry-2018-05-09-at-02-17-32
+locale: es
 legacySlug: untitled-entry-2018-05-09-at-02-17-32
 ---
 

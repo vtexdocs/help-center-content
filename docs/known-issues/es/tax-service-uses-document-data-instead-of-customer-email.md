@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-servicio-fiscal-utiliza-los-datos-del-documento-en-lugar-del-correo-electronico-del-cliente
+locale: es
 kiStatus: Backlog
 internalReference: 548671
 ---

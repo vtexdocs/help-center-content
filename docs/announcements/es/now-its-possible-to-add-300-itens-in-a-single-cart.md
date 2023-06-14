@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: authors_24
 slug: ahora-es-posible-tener-300-items-en-un-mismo-carrito
+locale: es
 legacySlug: ahora-es-posible-tener-300-items-en-un-mismo-carrito
 announcementImageID: ''
 announcementSynopsisES: 'Las versiones 5 y 6 del carrito de compras ahora admiten grandes pedidos y mantienen el rendimiento de su tienda.'

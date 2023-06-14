@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: why-was-the-order-closed-with-the-wrong-price
+locale: en
 legacySlug: why-was-the-order-closed-with-the-wrong-price
 ---
 

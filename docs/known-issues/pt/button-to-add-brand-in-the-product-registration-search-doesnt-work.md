@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: botao-de-adicionar-marca-na-busca-do-cadastro-de-produtos-nao-funciona
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

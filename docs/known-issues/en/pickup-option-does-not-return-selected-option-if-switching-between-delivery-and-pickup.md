@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: pickup-option-does-not-return-selected-option-if-switching-between-delivery-and-pickup
+locale: en
 kiStatus: Backlog
 internalReference: 588394
 ---

@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: categoriacomissaopercentagem-sobre-o-api-do-vendedor-permitindo-qualquer-valor
+locale: pt
 kiStatus: Backlog
 internalReference: 382680
 ---

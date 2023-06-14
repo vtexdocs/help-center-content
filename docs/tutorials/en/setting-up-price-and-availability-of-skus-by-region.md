@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_59
 slug: setting-up-price-and-availability-of-skus-by-region
+locale: en
 legacySlug:  setting-up-price-and-availability-of-skus-by-region
 subcategory: dajK0sARX2c0MISKKoGoc
 ---

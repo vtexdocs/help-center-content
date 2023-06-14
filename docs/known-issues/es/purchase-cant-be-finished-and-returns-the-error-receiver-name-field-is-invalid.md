@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-compra-no-se-puede-finalizar-y-devuelve-el-error-el-campo-del-nombre-del-receptor-no-es-valido
+locale: es
 kiStatus: Fixed
 internalReference: 313945
 ---

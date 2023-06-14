@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 5l3eEiSz8MpcppCxcnijGz
 slug: novo-checkout-do-vtex-sales-app
+locale: pt
 legacySlug: novo-checkout-do-vtex-sales-app
 announcementImageID: ''
 announcementSynopsisPT: 'Pensando em uma experiência de checkout mais simples, desenvolvemos o novo checkout do Sales App.'

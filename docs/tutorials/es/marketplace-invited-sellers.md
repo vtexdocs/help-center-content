@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: marketplace-sellers-invitados
+locale: es
 legacySlug: marketplace-sellers-invitados-beta
 subcategory: 4hisB47iAVZk4r3SEmMoG
 ---
@@ -26,7 +27,7 @@ Además de permitir enviar invitaciones, la página tiene una lista de sellers, 
 
 Para que nuevos sellers se integren en su marketplace, es necesario realizar algunas acciones en su entorno VTEX: [Invitar](#invitar-seller) y [Conectar](#conectar-seller).
 
-![ES Seller invite](//images.ctfassets.net/alneenqid6w5/3kCM8CHXpzssH5MWf6txLh/7c9dd1931913f57b7bef76df6faad117/ES_seller_invite.jpg)
+![ES Seller invite](https://images.ctfassets.net/alneenqid6w5/3kCM8CHXpzssH5MWf6txLh/7c9dd1931913f57b7bef76df6faad117/ES_seller_invite.jpg)
 
 ## Invitar Seller
 

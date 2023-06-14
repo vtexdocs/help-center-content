@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: solicitar-rescisao-contratual-na-argentina-e-colombia
+locale: pt
 legacySlug: solicitar-rescisao-contratual-na-argentina-e-colombia
 subcategory: 22TaEgFhwE6a6CG2KASYkC
 ---

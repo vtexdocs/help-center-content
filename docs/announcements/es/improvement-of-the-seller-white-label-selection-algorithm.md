@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: mejora-del-algoritmo-de-seleccion-de-sellers-white-label
+locale: es
 legacySlug: mejora-del-algoritmo-de-seleccion-de-sellers-white-label
 announcementImageID: ''
 announcementSynopsisES: '  Entienda cómo funciona la lógica de la elección de sellers para entrega o recogida.'

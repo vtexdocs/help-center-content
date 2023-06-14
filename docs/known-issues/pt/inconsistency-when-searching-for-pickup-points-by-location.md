@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
 tag: Checkout
 slug: inconsistencia-na-busca-de-pontos-de-retirada-por-localizacao
+locale: pt
 kiStatus: Fixed
 internalReference: 
 ---

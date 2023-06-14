@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: integrating-with-zoom
+locale: en
 legacySlug: integrating-with-zoom
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

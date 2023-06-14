@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: your-store-has-until-april-20-to-enable-https
+locale: en
 legacySlug: your-store-has-until-april-20-to-enable-https
 announcementImageID: ''
 announcementSynopsisEN: 'Besides the security aspect, enabling HTTPS throughout the site is mandatory to complete the activation of the new CDN.'

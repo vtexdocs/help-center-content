@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Management
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: welcome-to-the-redesigned-vtex-admin-new
+locale: en
 legacySlug: de-as-boas-vindas-ao-novo-admin-vtex
 announcementImageID: ''
 announcementSynopsisEN: 'We are bringing the future of commerce to you through our redesigned VTEX Admin.'
@@ -18,7 +19,7 @@ Digital businesses are increasingly looking for tools that can help them grow, w
 
 Welcome to the [redesigned Admin experience](https://content.vtex.com/join-new-admin-beta-program-en/?utm_source=announcement&utm_medium=organic&utm_campaign=new_admin_beta).
 
-![Store Overview gif EN](//images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/27b257963a3bcd2e24374c78e8bcbc4a/Store_Overview_gif_EN.gif)
+![Store Overview gif EN](https://images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/27b257963a3bcd2e24374c78e8bcbc4a/Store_Overview_gif_EN.gif)
 
 ## What has changed?
 

@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: sku-removed-from-amazon-sc-is-not-being-disable-in-amazon-portal
+locale: en
 kiStatus: Backlog
 internalReference: 827760
 ---

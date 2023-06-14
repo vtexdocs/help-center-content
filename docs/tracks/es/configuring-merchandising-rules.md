@@ -9,6 +9,7 @@ firstPublishedAt: 2020-04-15T00:39:30.807Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: configurar-reglas-de-merchandising
+locale: es
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugES: vtex-intelligent-search
 ---

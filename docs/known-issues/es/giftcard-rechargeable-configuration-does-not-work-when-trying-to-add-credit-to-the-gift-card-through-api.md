@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: la-configuracion-de-la-tarjeta-de-regalo-recargable-no-funciona-cuando-se-intenta-anadir-credito-a-la-tarjeta-de-regalo-a-traves-de-la-api
+locale: es
 kiStatus: Backlog
 internalReference: 583669
 ---

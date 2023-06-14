@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_39
 slug: hacer-transaccion-de-pedido-recurrente-por-tokenizacion-de-la-tarjeta
+locale: es
 legacySlug: hacer-transaccion-de-pedido-recurrente-por-tokenizacion-de-la-tarjeta
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---

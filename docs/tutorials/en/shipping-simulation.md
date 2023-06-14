@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: shipping-simulation
+locale: en
 legacySlug: freight-simulation
 subcategory: 1O8AEORWOcgIiMosGoousQ
 ---

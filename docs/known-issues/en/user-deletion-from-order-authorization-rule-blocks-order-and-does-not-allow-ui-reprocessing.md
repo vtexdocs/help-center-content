@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: user-deletion-from-order-authorization-rule-blocks-order-and-does-not-allow-ui-reprocessing
+locale: en
 kiStatus: Backlog
 internalReference: 623376
 ---

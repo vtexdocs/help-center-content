@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: when-relating-attachments-to-a-service-other-services-are-also-changed
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

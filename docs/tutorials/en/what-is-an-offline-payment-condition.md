@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: what-is-an-offline-payment-condition
+locale: en
 legacySlug: what-is-an-offline-payment-condition
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-selector-de-pais-para-la-direccion-de-facturacion-mientras-esta-en-modo-internacional-permanece-restringido-a-los-paises-de-entrega
+locale: es
 kiStatus: Backlog
 internalReference: 335581
 ---

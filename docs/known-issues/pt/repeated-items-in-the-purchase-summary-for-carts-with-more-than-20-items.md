@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: itens-repetidos-no-resumo-de-compras-para-carrinhos-com-mais-de-20-itens
+locale: pt
 kiStatus: Backlog
 internalReference: 367339
 ---

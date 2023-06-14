@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: authors_59
 slug: por-que-origem-dos-pedidos-esta-diferente-na-vtex-e-no-google-analytics
+locale: pt
 legacySlug: por-que-origem-dos-pedidos-esta-diferente-na-vtex-e-no-google-analytics
 ---
 

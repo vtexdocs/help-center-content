@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: ahora-usted-puede-ayudar-a-hacer-un-help-aun-mejor
+locale: es
 legacySlug: ahora-usted-puede-ayudar-a-hacer-un-help-aun-mejor
 announcementImageID: ''
 announcementSynopsisES: 'Los artículos del Help ahora cuentan con una funcionalidad de feedback para dar su opinión sobre nuestro contenido.'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: configurar-pago-con-brinks-cash-ecommerce
+locale: es
 legacySlug: configurar-pago-con-brinks-cash-ecommerce
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

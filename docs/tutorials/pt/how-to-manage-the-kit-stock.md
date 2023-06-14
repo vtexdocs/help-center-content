@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: como-gerenciar-estoque-do-kit
+locale: pt
 legacySlug: como-gerenciar-estoque-do-kit
 subcategory: 3PQwnyOcNyYgawy06oe6gE
 ---

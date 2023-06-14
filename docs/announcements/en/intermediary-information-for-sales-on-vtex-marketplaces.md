@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: intermediary-information-for-sales-on-vtex-marketplaces
+locale: en
 legacySlug: intermediary-information-for-sales-on-vtex-marketplaces
 announcementImageID: ''
 announcementSynopsisEN: 'Intermediary information will now be available for sales completed on VTEX marketplaces.'

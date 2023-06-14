@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: como-funciona-estorno-quando-ha-devolucao-do-item
+locale: pt
 legacySlug: como-funciona-estorno-quando-ha-devolucao-do-item
 subcategory: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---

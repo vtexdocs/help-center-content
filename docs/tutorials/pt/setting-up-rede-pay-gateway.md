@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-gateway-rede-pay
+locale: pt
 legacySlug: configurar-gateway-rede-pay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

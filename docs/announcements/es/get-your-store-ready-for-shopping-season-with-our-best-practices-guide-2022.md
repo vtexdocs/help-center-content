@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: prepare-su-tienda-para-la-temporada-de-compras-con-nuestra-guia-de-buenas-practicas-2022
+locale: es
 legacySlug: 
 announcementImageID: ''
 announcementSynopsisES: 'Siga nuestras recomendaciones y consejos para aprovechar todas las oportunidades de venta del Black Friday.'
@@ -26,4 +27,4 @@ https://{AccountName}.myvtex.com/admin/shopping-season
 
 Sólo hay que sustituir `{AccountName}` por el Account Name de su tienda, como en la imagen de abajo.
 
-![Shopping Season Guidelines - 2022 - ES](//images.ctfassets.net/alneenqid6w5/3vmyW3BipNCRN698zQdRVQ/f364db4afdea7487e01325f9c455cdcf/Screen_Shot_2022-10-19_at_18.15.02.png)
+![Shopping Season Guidelines - 2022 - ES](https://images.ctfassets.net/alneenqid6w5/3vmyW3BipNCRN698zQdRVQ/f364db4afdea7487e01325f9c455cdcf/Screen_Shot_2022-10-19_at_18.15.02.png)

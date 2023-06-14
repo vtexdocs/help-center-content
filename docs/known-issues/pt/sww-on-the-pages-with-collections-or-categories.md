@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: sww-nas-paginas-com-colecoes-ou-categorias
+locale: pt
 kiStatus: Backlog
 internalReference: 785324
 ---

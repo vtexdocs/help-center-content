@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: vision-general-vtex-tracking
+locale: es
 legacySlug: vision-general-vtex-tracking
 subcategory: t5ai1r0dN7J4U1IYLbHmG
 ---

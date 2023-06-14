@@ -9,6 +9,7 @@ firstPublishedAt: 2018-03-15T21:36:44.230Z
 contentType: trackArticle
 productTeam: Shopping
 slug: setting-up-fields-for-issuing-invoices-with-instore
+locale: en
 trackId: 
 trackSlugEN: 
 ---

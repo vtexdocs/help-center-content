@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-email-avisame-se-envia-incluso-cuando-el-producto-no-esta-disponible-para-la-politica-comercial-del-sitio-web
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

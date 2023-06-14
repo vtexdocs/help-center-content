@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: google-maps-address-search-not-filtering-by-the-selected-country-in-some-scenarios
+locale: en
 kiStatus: Backlog
 internalReference: 727408
 ---

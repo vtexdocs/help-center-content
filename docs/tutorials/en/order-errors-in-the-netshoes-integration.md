@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: order-errors-in-the-netshoes-integration
+locale: en
 legacySlug: netshoes-integration-orders-erros
 subcategory: 5m1qqfnmfYKsO0KiOQC8Ky
 ---

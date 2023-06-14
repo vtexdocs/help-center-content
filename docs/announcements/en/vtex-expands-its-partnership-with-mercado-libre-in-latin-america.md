@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: vtex-expands-its-partnership-with-mercado-libre-in-latin-america
+locale: en
 legacySlug: vtex-expands-its-partnership-with-mercado-libre-in-latin-america
 announcementImageID: ''
 announcementSynopsisEN: 'The certification ensures that VTEX offers features for your store to succeed in sales on Mercado Libre'

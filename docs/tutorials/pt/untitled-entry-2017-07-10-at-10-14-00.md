@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 
 slug: identificando-um-erro-de-layout
+locale: pt
 legacySlug: identificando-um-erro-de-layout
 subcategory: 
 ---

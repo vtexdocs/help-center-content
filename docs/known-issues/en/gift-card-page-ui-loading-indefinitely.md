@@ -11,6 +11,7 @@ productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 tag: Gift Card
 slug: gift-card-page-ui-loading-indefinitely
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

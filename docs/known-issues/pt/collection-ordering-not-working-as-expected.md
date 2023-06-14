@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: o-pedido-de-coleta-nao-esta-funcionando-como-esperado
+locale: pt
 kiStatus: Fixed
 internalReference: 502409
 ---

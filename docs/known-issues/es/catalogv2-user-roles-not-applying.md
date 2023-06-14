@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: los-roles-de-usuario-de-catalogv2-no-se-aplican
+locale: es
 kiStatus: Backlog
 internalReference: 489297
 ---

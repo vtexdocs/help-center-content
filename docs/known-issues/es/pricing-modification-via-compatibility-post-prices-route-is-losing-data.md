@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: la-modificacion-de-los-precios-a-traves-de-la-ruta-de-los-precios-de-los-puestos-de-compatibilidad-esta-perdiendo-datos
+locale: es
 kiStatus: No Fix
 internalReference: 487698
 ---

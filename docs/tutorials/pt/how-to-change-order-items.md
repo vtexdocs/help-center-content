@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: como-alterar-itens-do-pedido
+locale: pt
 legacySlug: como-alterar-itens-do-pedido-beta
 subcategory: 3VNOhxDrvYxJThhuJClrYZ
 ---

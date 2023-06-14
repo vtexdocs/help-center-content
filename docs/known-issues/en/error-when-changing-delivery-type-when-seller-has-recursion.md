@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: error-when-changing-delivery-type-when-seller-has-recursion
+locale: en
 kiStatus: Backlog
 internalReference: 597915
 ---

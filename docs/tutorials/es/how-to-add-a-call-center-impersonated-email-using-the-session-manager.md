@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_24
 slug: como-ingresar-un-correo-electronico-de-operador-de-televentas-personificado
+locale: es
 legacySlug: como-ingresar-un-correo-electronico-de-operador-de-televentas-personificado
 subcategory: dajK0sARX2c0MISKKoGoc
 ---

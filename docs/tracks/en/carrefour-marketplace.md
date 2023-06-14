@@ -9,6 +9,7 @@ firstPublishedAt: 2021-12-27T17:11:27.174Z
 contentType: trackArticle
 productTeam: Channels
 slug: carrefour-marketplace
+locale: en
 trackId: 2wYlj07cNuA8k8mmwY86K2
 trackSlugEN: carrefour-integration-set-up
 ---

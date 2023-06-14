@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1E4UkWguFZAXjkguvNHPIv
 slug: creación-de-tablas-de-precios
+locale: es
 legacySlug: creación-de-tablas-de-precios
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---
@@ -22,7 +23,7 @@ Para crear una Tabla de Precios siga estos pasos:
  4. Seleccione **Crear nueva Tabla de Precios**.
  5. Seleccione el nombre de la tabla de precios que desea crear y haga clic en el botón azul **Crear tabla de precios**.
  
- ![TutorialPriceTableES 2806](//images.ctfassets.net/alneenqid6w5/2r1rSI1tIDEWDMDSxJmt3b/9559174f94375c2a8c4c080d6e4d3609/TutorialPriceTableES_2806.gif)
+ ![TutorialPriceTableES 2806](https://images.ctfassets.net/alneenqid6w5/2r1rSI1tIDEWDMDSxJmt3b/9559174f94375c2a8c4c080d6e4d3609/TutorialPriceTableES_2806.gif)
 
 Para encontrar una Tabla de Precio:
 

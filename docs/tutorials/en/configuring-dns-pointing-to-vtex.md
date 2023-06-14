@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_4
 slug: configuring-dns-pointing-to-vtex
+locale: en
 legacySlug: new-ssl-and-golive-process
 subcategory: 2Za4fjGfxYOo6oqykukgyy
 ---

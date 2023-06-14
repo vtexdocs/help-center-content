@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: conflicts-with-price-filters-and-isavailablepersaleschannel-in-searches-portal-and-search-again
+locale: en
 kiStatus: Backlog
 internalReference: 531277
 ---

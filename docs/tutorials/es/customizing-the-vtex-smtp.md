@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_3
 slug: personalizando-el-smtp-de-vtex
+locale: es
 legacySlug: personalizando-el-smtp-de-vtex
 subcategory: 1wsCJz4swMsK4QSsGeIgic
 ---

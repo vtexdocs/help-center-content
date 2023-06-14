@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: setting-up-payments-with-abastece-ai
+locale: en
 legacySlug: setting-up-payments-with-abastece-ai
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: calcular-receita-a-partir-da-planilha-exportada-do-modulo-pedidos
+locale: pt
 legacySlug: calcular-receita-a-partir-da-planilha-exportada-do-oms
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

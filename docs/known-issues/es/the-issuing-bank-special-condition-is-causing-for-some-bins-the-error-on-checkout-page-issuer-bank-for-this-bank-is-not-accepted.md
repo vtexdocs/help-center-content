@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: la-condicion-especial-del-banco-emisor-esta-causando-para-algunos-bins-el-error-en-la-pagina-de-pago-el-banco-emisor-para-este-banco-no-es-aceptado
+locale: es
 kiStatus: Backlog
 internalReference: 391549
 ---

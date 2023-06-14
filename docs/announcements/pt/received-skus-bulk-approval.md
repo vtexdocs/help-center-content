@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: skus-recebidos-aprovacao-em-massa
+locale: pt
 legacySlug: skus-recebidos-aprovacao-em-massa
 announcementImageID: ''
 announcementSynopsisPT: 'Agora é possível selecionar até 25 SKUs em massa no painel SKUs Recebidos. Também criamos uma API nova para isso.'

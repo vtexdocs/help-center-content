@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Pricing & Promotions
 slug: quando-um-preco-agendado-e-atingido-nao-reativa-o-preco-fixo
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

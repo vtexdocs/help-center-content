@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: entendendo-os-pedidos-incompletos
+locale: pt
 legacySlug: entendendo-os-pedidos-incompletos
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

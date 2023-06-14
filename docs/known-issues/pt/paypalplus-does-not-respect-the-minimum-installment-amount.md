@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: o-paypalplus-nao-respeita-o-valor-minimo-da-parcela
+locale: pt
 kiStatus: Backlog
 internalReference: 370271
 ---

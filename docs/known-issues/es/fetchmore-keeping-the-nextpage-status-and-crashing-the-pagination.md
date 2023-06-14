@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: fetchmore-mantiene-el-estado-de-nextpage-y-se-bloquea-la-paginacion
+locale: es
 kiStatus: Backlog
 internalReference: 560014
 ---

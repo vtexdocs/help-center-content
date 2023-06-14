@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: site-editor-has-intermittent-rendering-issues-in-small-screen
+locale: en
 kiStatus: Backlog
 internalReference: 399339
 ---

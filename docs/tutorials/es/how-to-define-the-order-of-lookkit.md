@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: como-ordenar-los-productos-del-kitlook
+locale: es
 legacySlug: como-ordenar-los-productos-del-kitlook
 subcategory: pwxWmUu7T222QyuGogs68
 ---

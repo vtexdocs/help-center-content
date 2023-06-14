@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: posso-usar-estoque-personalizado-no-marketplace
+locale: pt
 legacySlug: posso-usar-estoque-personalizado-no-marketplace
 subcategory: 7lxg0kyL3TYIsrlSQlf1zP
 ---

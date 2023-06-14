@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: promocion-periodica-mediante-conflictos-de-regalos-con-filtros-de-valor-en-el-carrito
+locale: es
 kiStatus: Backlog
 internalReference: 445569
 ---

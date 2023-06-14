@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Web Service
 slug: no-se-consigue-quitar-un-valor-de-atributo-tipo-texto-por-webservice-a-un-producto
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

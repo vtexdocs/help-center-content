@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: la-redireccion-con-parametros-en-el-cms-builder-no-funciona
+locale: es
 kiStatus: Backlog
 internalReference: 593906
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_24
 slug: how-to-change-the-sorting-of-delivery-types-in-the-cart
+locale: en
 legacySlug: how-to-change-the-sorting-of-delivery-types-in-the-cart
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

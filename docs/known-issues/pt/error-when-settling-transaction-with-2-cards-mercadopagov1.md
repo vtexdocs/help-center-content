@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: erro-ao-liquidar-transacao-com-2-cartoes-mercadopagov1
+locale: pt
 kiStatus: Backlog
 internalReference: 395943
 ---

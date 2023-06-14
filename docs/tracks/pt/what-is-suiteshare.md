@@ -9,6 +9,7 @@ firstPublishedAt: 2022-08-26T14:14:19.016Z
 contentType: trackArticle
 productTeam: Shopping
 slug: o-que-e-suiteshare
+locale: pt
 trackId: khP0p8mjIYRIpvM7Cb4Zr
 trackSlugPT: suiteshare
 ---

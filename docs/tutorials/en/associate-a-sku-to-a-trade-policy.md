@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: associate-a-sku-to-a-trade-policy
+locale: en
 legacySlug: associate-a-sku-to-a-trade-policy
 subcategory: pwxWmUu7T222QyuGogs68
 ---

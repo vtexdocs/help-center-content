@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: divergencia-entre-el-valor-total-de-cada-producto-y-el-subtotal-de-los-articulos-o-totalizadores
+locale: es
 kiStatus: Backlog
 internalReference: 331188
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: por-que-mi-producto-inactivo-fue-vendido-en-el-marketplace
+locale: es
 legacySlug: por-que-mi-producto-inactivo-fue-vendido-en-el-marketplace
 ---
 

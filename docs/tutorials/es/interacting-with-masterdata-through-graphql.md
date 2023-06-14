@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: TnXcuQydAAOuwWACo864E
 slug: interaccion-con-masterdata-a-traves-de-graphql
+locale: es
 legacySlug: interaccion-con-masterdata-a-traves-de-graphql
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---
@@ -25,7 +26,7 @@ Comienze asegurándose de tener la versión más reciente de la VTEX CLI y clona
 
 Ejecute el comando `vtex init` y seleccione `graphql get-started`.
 
-![Screen Shot 2019-01-16 at 15.00.29](//images.ctfassets.net/alneenqid6w5/6Ms4swzkPZ7zdyZyTllB78/f4fde23e90b0f4bc9845cbf86fd83431/Screen_Shot_2019-01-16_at_15.00.29.png)
+![Screen Shot 2019-01-16 at 15.00.29](https://images.ctfassets.net/alneenqid6w5/6Ms4swzkPZ7zdyZyTllB78/f4fde23e90b0f4bc9845cbf86fd83431/Screen_Shot_2019-01-16_at_15.00.29.png)
 
 Vamos a usar su estructura básica y adaptarla a nuestras necesidades.
 
@@ -156,15 +157,15 @@ Abra el Postman y escriba la siguiente búsqueda:
 
 Seleccione un ID y cópielo. Vamos a pegarlo en nuestra consulta.
 
-![Screen Shot 2019-01-16 at 16.14.31](//images.ctfassets.net/alneenqid6w5/2eDkOdvUmisBlGWOIDMU5S/b77a875756854e0977c838494a287c14/Screen_Shot_2019-01-16_at_16.14.31.png)
+![Screen Shot 2019-01-16 at 16.14.31](https://images.ctfassets.net/alneenqid6w5/2eDkOdvUmisBlGWOIDMU5S/b77a875756854e0977c838494a287c14/Screen_Shot_2019-01-16_at_16.14.31.png)
 
-![Screen Shot 2019-01-16 at 17.34.04](//images.ctfassets.net/alneenqid6w5/3C82QeSWvvPNjAKTd8TKhC/c89275da1bb55836c3bf10f87d72ae37/Screen_Shot_2019-01-16_at_17.34.04.png)
+![Screen Shot 2019-01-16 at 17.34.04](https://images.ctfassets.net/alneenqid6w5/3C82QeSWvvPNjAKTd8TKhC/c89275da1bb55836c3bf10f87d72ae37/Screen_Shot_2019-01-16_at_17.34.04.png)
 
 Ahora usted debe ver la luz de salida a la derecha.
 Muy bien! Usted realizó su primera consulta simple en tiempo récord.
 
 Volviendo al terminal, usted puede mirar debajo del capó y percibir el GraphQL resolviendo las consultas, como normalmente usted habría hecho.
-![Screen Shot 2019-01-16 at 16.29.03](//images.ctfassets.net/alneenqid6w5/38KV7YYgHz8xTcsY18ySPf/e6a33fd274c4f40610e47793ff2ca0d3/Screen_Shot_2019-01-16_at_16.29.03.png)
+![Screen Shot 2019-01-16 at 16.29.03](https://images.ctfassets.net/alneenqid6w5/38KV7YYgHz8xTcsY18ySPf/e6a33fd274c4f40610e47793ff2ca0d3/Screen_Shot_2019-01-16_at_16.29.03.png)
 
 **Pero ¿y si queremos buscar utilizando todos los filtros posibles?**
 Vamos a seguir adelante para definir una nueva estructura de consulta y crear un nuevo resolver para manejar los nuevos parámetros.
@@ -278,6 +279,6 @@ query{
 
 ```
 
-![Screen Shot 2019-01-16 at 17.23.00](//images.ctfassets.net/alneenqid6w5/6Q06UiMGSQVeJjQKpLuant/92de5aeaf26a41b1cffa22603391a834/Screen_Shot_2019-01-16_at_17.23.00.png)
+![Screen Shot 2019-01-16 at 17.23.00](https://images.ctfassets.net/alneenqid6w5/6Q06UiMGSQVeJjQKpLuant/92de5aeaf26a41b1cffa22603391a834/Screen_Shot_2019-01-16_at_17.23.00.png)
 
 Y esto es todo :) Happy coding!

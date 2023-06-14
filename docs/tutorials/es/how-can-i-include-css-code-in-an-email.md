@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_3
 slug: como-insertar-css-en-un-e-mail
+locale: es
 legacySlug: como-insertar-css-en-un-e-mail
 subcategory: 4D5LrWwlHGmOWMomOaaGee
 ---

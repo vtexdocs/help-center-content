@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_35
 slug: how-to-register-a-store-in-vtex-instore
+locale: en
 legacySlug: how-to-register-a-store-in-vtex-instore
 subcategory: 4T6qfa6gNO6g4sAUIa6s2G
 ---

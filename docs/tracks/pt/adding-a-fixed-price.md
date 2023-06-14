@@ -9,6 +9,7 @@ firstPublishedAt: 2019-07-17T19:46:38.452Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: cadastrar-preco-fixo
+locale: pt
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugPT: precos-101
 ---

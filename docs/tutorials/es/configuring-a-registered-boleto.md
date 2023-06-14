@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_3
 slug: configuracion-de-boleto-registrado
+locale: es
 legacySlug: configuracion-de-boleto-registrado
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

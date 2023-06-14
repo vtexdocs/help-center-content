@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-pago-no-puede-eliminar-el-articulo-de-regalo-cuando-no-esta-disponible-despues-de-seleccionar-el-punto-de-recogida
+locale: es
 kiStatus: Backlog
 internalReference: 363885
 ---

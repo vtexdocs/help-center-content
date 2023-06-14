@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_31
 tag: Portal (CMS),Payments
 slug: vale-giftcard-de-cliente-nao-localizado-no-modulo-administrativo-ao
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

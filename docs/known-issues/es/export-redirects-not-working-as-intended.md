@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: los-redireccionamientos-de-exportacion-no-funcionan-como-es-debido
+locale: es
 kiStatus: Backlog
 internalReference: 537962
 ---

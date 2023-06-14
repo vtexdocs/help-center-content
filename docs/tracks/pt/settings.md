@@ -9,6 +9,7 @@ firstPublishedAt: 2022-12-09T22:07:58.382Z
 contentType: trackArticle
 productTeam: Reliability
 slug: configuracoes
+locale: pt
 trackId: 4Ns5FxIiksmjsdX2yOTduM
 trackSlugPT: go-live
 ---

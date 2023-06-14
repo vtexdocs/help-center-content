@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: configurando-cartao-de-presente-com-mensagem-personalizada
+locale: pt
 legacySlug: configurando-cartao-de-presente-com-mensagem-personalizada
 subcategory: pwxWmUu7T222QyuGogs68
 ---

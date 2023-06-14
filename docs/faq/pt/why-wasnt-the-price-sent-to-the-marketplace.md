@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: por-que-o-preco-nao-foi-enviado-para-o-marketplace
+locale: pt
 legacySlug: por-que-o-preco-nao-foi-enviado-para-o-marketplace
 ---
 

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: entrada-de-preco-manual-restrita-ao-trabalho-com-precisao-decimal-de-2-digitos
+locale: pt
 kiStatus: Backlog
 internalReference: 627719
 ---

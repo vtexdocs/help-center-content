@@ -11,6 +11,7 @@ productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: License Manager
 slug: website-binding-with-old-license-manager-details
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

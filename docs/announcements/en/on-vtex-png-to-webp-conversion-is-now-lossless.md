@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: on-vtex-png-to-webp-conversion-is-now-lossless
+locale: en
 legacySlug: on-vtex-png-to-webp-conversion-is-now-lossless
 announcementImageID: ''
 announcementSynopsisEN: 'Change in the compression form came to meet the needs of stores that have to display high quality images.'

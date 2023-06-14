@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 
 slug: cancelar-pedido-no-marketpalce-depois-de-cancelado-na-vtex
+locale: pt
 legacySlug: cancelar-pedido-no-marketpalce-depois-de-cancelado-na-vtex
 subcategory: 
 ---

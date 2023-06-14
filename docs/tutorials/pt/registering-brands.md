@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: cadastrando-marcas
+locale: pt
 legacySlug: cadastrando-marcas
 subcategory: fUHfjTEwyOcIQuyeUsIIu
 ---
@@ -22,4 +23,4 @@ Para cadastrar uma marca, siga os passos abaixo:
 4. Preencha os [campos de cadastro de marca](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-marca--37Ky7lTbEkiWIAYA80EMyI).
 5. Clique no botão `Salvar`.
 
-![cadastrarmarcas3](//images.ctfassets.net/alneenqid6w5/4PK9aPVzNJrp478wRsSUM0/6aabac3201d04805ea18c3d03c11593c/cadastrarmarcas3.PNG)
+![cadastrarmarcas3](https://images.ctfassets.net/alneenqid6w5/4PK9aPVzNJrp478wRsSUM0/6aabac3201d04805ea18c3d03c11593c/cadastrarmarcas3.PNG)

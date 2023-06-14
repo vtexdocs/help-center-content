@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: erro-sww-no-produto-pdp
+locale: pt
 kiStatus: Backlog
 internalReference: 738108
 ---

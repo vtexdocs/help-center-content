@@ -9,6 +9,7 @@ firstPublishedAt: 2020-11-06T19:14:51.014Z
 contentType: trackArticle
 productTeam: Financial
 slug: configurar-split-de-pagos
+locale: es
 trackId: 1ouDg8q56Kuz1AgtJUY9nv
 trackSlugES: split-de-pagos
 ---

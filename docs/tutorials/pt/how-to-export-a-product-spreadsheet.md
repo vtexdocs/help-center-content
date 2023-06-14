@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5Bd75kMNAzARxg0DCUjwal
 slug: como-exportar-planilha-de-produtos
+locale: pt
 legacySlug: como-exportar-planilha-de-produtos
 subcategory: pwxWmUu7T222QyuGogs68
 ---

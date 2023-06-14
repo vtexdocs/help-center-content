@@ -9,6 +9,7 @@ firstPublishedAt: 2020-03-05T19:57:33.340Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: banners-en
+locale: en
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search
 ---
@@ -32,7 +33,7 @@ On VTEX Admin, the page **Storefront** > **Banners** shows the full list of regi
 * [Edit a banner](#editing-a-banner)
 * [Delete a banner](#deleting-a-banner) 
 
-![banners-intro-en](//images.ctfassets.net/alneenqid6w5/1MDMMN6lidEIiDwaDalvNU/cfc3d93dba914a7a22961741c637c8a7/image.png)
+![banners-intro-en](https://images.ctfassets.net/alneenqid6w5/1MDMMN6lidEIiDwaDalvNU/cfc3d93dba914a7a22961741c637c8a7/image.png)
 
 The page shows the following information:
 

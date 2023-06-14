@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: orders-for-gift-items-arent-canceled-if-the-payment-is-refused-for-the-regular-items-order
+locale: en
 kiStatus: Backlog
 internalReference: 679598
 ---

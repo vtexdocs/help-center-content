@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: instability-in-the-toggle-button-for-shipping-and-instore-pickup
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

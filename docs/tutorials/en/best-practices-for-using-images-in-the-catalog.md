@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: best-practices-for-using-images-in-the-catalog
+locale: en
 legacySlug: good-practices-for-using-images-in-the-catalog
 subcategory: pwxWmUu7T222QyuGogs68
 ---

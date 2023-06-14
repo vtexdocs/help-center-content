@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: customized-cluster-expression-not-working-on-free-shipping-promotion-default-saleschannel-1
+locale: en
 kiStatus: Backlog
 internalReference: 334027
 ---

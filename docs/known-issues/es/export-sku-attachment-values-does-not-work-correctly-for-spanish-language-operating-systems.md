@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-exportacion-de-los-valores-de-adjuntos-de-sku-no-funciona-correctamente-en-los-sistemas-operativos-en-espanol
+locale: es
 kiStatus: Backlog
 internalReference: 566393
 ---

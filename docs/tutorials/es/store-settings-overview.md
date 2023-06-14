@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Management
 author: authors_84
 slug: vision-general-configuraciones-de-la-tienda
+locale: es
 legacySlug: vision-general-configuraciones-de-la-tienda
 subcategory: 5RAUzLD6X9Wa1maenj1eGA
 ---
@@ -22,7 +23,7 @@ Para acceder a esta funcionalidad, haz clic en el ícono de **Configuración de 
 Ten en cuenta que las páginas y los ajustes configurados en el ambiente anterior no han cambiado, sino que se han reorganizado en la barra lateral del Admin, con lo que se ha cambiado la forma de acceder a ellos. 
 </div>
 
-![Admin v4 Store settings menu ES](//images.ctfassets.net/alneenqid6w5/2EIX54YHzIivbQjreHGV4B/2abc0cab685c0421df6fe5d50f9e3162/Admin_v4_Store_settings_menu_ES.jpg)
+![Admin v4 Store settings menu ES](https://images.ctfassets.net/alneenqid6w5/2EIX54YHzIivbQjreHGV4B/2abc0cab685c0421df6fe5d50f9e3162/Admin_v4_Store_settings_menu_ES.jpg)
 
 A continuación encontrarás más detalles sobre las diferentes secciones y páginas de este menú. 
 

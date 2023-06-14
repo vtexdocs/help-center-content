@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: al-ordenar-atributos-y-grupos-por-categoria-no-se-reordenan-en-la-tienda
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

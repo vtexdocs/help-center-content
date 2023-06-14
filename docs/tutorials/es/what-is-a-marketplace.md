@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: que-es-un-marketplace
+locale: es
 legacySlug: que-es-un-marketplace
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---

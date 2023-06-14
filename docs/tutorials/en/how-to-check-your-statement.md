@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: how-to-check-your-statement
+locale: en
 legacySlug: how-to-check-your-statement
 subcategory: 29ZPBdZOTSg6NdzprcqBfb
 ---

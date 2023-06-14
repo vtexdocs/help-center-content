@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: get-seller-list-respondiendo-con-un-urllogo-vacio
+locale: es
 kiStatus: Fixed
 internalReference: 387508
 ---

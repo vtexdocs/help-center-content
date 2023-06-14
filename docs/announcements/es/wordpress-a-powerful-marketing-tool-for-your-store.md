@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: wordpress-una-poderosa-herramienta-de-marketing-para-su-tienda
+locale: es
 legacySlug: wordpress-una-poderosa-herramienta-de-marketing-para-su-tienda
 announcementImageID: ''
 announcementSynopsisES: 'Tiendas desarrolladas con VTEX IO ahora mostram páginas y publicaciones del blog de la marca dentro de la tienda. '

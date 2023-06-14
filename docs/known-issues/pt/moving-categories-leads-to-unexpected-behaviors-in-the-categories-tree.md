@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: mover-categorias-leva-a-comportamentos-inesperados-na-arvore-de-categorias
+locale: pt
 kiStatus: Backlog
 internalReference: 367136
 ---

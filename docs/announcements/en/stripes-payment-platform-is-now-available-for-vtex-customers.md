@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 slug: stripes-payment-platform-is-now-available-for-vtex-customers
+locale: en
 legacySlug: stripes-payment-platform-is-now-available-for-vtex-customers
 announcementImageID: ''
 announcementSynopsisEN: "Process your sales with one of today's largest payment platforms"

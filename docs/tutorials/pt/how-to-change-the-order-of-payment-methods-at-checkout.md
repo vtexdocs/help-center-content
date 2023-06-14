@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_84
 slug: como-modificar-a-ordem-de-meios-de-pagamento-no-checkout
+locale: pt
 legacySlug: como-modificar-a-ordem-de-meios-de-pagamento-no-checkout
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

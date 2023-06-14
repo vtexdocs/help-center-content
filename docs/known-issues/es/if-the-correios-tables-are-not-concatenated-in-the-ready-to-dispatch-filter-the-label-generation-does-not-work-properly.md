@@ -11,6 +11,7 @@ productTeam: VTEX Log
 author: 2mXZkbi0oi061KicTExNjo
 tag: VTEX Shipping Network
 slug: si-las-tablas-de-correios-no-estan-concatenadas-en-el-filtro-de-listo-para-enviar-la-generacion-de-etiquetas-no-funciona-correctamente
+locale: es
 kiStatus: Backlog
 internalReference: 517449
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: mode-off-faq
+locale: es
 legacySlug: mode-off-faq
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

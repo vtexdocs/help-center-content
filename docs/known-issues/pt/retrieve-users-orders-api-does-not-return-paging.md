@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: recuperar-os-pedidos-do-usuario-api-nao-retorna-paginacao
+locale: pt
 kiStatus: Backlog
 internalReference: 516699
 ---

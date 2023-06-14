@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: boleto-bancario-registrado-flujo
+locale: es
 legacySlug: boleto-bancario-registrado-flujo
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

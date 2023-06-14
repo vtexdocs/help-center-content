@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: no-se-puede-pausar-al-vendedor
+locale: es
 kiStatus: Fixed
 internalReference: 682151
 ---

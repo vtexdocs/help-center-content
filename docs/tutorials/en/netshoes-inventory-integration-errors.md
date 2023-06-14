@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: netshoes-inventory-integration-errors
+locale: en
 legacySlug: netshoes-inventory-integration-errors
 subcategory: 7lxg0kyL3TYIsrlSQlf1zP
 ---

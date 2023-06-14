@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
 slug: what-are-pre-installed-apps
+locale: en
 legacySlug: what-are-pre-installed-apps
 ---
 

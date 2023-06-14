@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: 
 slug: como-hacer-transferencias-a-traves-de-vtex-payment
+locale: es
 trackId: 
 trackSlugES: 
 ---

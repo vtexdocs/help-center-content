@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: timeout-en-relatorioindexacaoaspx
+locale: es
 kiStatus: Backlog
 internalReference: 547844
 ---

@@ -11,6 +11,7 @@ productTeam: Channels
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Order Management
 slug: link-do-tx-id-no-gerenciamento-de-pedidos-nao-redireciona-para-o-modulo-de
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

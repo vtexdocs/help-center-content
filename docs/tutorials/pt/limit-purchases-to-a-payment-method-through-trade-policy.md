@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_35
 slug: limitar-compras-a-um-meio-de-pagamento-por-politica-comercial
+locale: pt
 legacySlug: limitar-compras-a-um-meio-de-pagamento-por-politica-comercial
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

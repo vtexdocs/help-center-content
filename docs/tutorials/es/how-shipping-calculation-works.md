@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-funciona-el-calculo-del-envio
+locale: es
 legacySlug: como-funciona-el-calculo-del-flete
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: fetchmore-traz-valores-repetidos-entre-o-to-e-o-from
+locale: pt
 kiStatus: Scheduled
 internalReference: 835396
 ---

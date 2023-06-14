@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_37
 slug: why-do-i-see-several-transactional-emails-repeated-in-an-order
+locale: en
 legacySlug: why-do-i-see-several-transactional-emails-repeated-in-an-order-on-the-oms
 ---
 

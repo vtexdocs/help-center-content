@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: authors_24
 slug: new-cdn-gives-more-security-and-speed
+locale: en
 legacySlug: new-cdn-gives-more-security-and-speed
 announcementImageID: ''
 announcementSynopsisEN: 'The new CDN is an improved content delivery solution for all stores'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: comprendiendo-el-funcionamiento-de-consultas-en-el-master-data
+locale: es
 legacySlug: comprendiendo-el-funcionamiento-de-consultas-en-el-master-data
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---

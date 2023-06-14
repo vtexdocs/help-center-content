@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-22T19:30:16.374Z
 contentType: trackArticle
 productTeam: Financial
 slug: fluxo-de-um-pagamento-por-cartao-de-credito
+locale: pt
 trackId: 6GAS7ZzGAm7AGoEAwDbwJG
 trackSlugPT: pagamentos
 ---
@@ -27,7 +28,7 @@ Para saber mais sobre os agentes financeiros envolvidos no fluxo de pagamento de
 
 O fluxo completo para pagamento por cartão de crédito na VTEX pode ser descrito pela imagem abaixo. 
 
-![Cartão de crédito - Fluxo básico de um pagamento](//images.ctfassets.net/alneenqid6w5/64zjpwrBkpqbOhR7vtZhKs/424c414ed06f81c4edcc676773fd00d9/Fluxo_Cart__o_de_Cr__dito.jpg)
+![Cartão de crédito - Fluxo básico de um pagamento](https://images.ctfassets.net/alneenqid6w5/64zjpwrBkpqbOhR7vtZhKs/424c414ed06f81c4edcc676773fd00d9/Fluxo_Cart__o_de_Cr__dito.jpg)
 
 1. Na tela de Checkout da sua loja, o cliente escolhe o  **Meio de Pagamento**  _cartão de crédito_ para realizar o pagamento de sua compra.  
 

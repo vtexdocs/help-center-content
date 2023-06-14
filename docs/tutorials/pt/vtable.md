@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: 3vtAArasKQiuQKUg6AAuqq
 slug: vtable
+locale: pt
 legacySlug: vtable
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---

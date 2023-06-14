@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: como-criar-um-template-de-prateleira
+locale: pt
 legacySlug: como-criar-um-template-de-prateleira
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

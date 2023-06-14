@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: que-son-las-utms-internas
+locale: es
 legacySlug: que-son-las-utms-internas
 subcategory: 7ogirQ8NClawO2X6xdgCKc
 ---

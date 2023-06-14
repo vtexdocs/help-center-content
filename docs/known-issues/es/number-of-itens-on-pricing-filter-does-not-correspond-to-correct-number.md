@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: el-numero-de-itens-en-el-filtro-de-precios-no-se-corresponde-con-el-numero-correcto
+locale: es
 kiStatus: Backlog
 internalReference: 371405
 ---

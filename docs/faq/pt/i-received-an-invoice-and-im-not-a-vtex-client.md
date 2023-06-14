@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Billing
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: recebi-uma-nota-fiscal-e-nao-sou-cliente-vtex-por-que
+locale: pt
 legacySlug: recebi-uma-nota-fiscal-e-nao-sou-cliente-vtex-por-que
 ---
 

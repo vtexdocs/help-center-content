@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: exportacion-de-pedidos-en-el-modulo-pedidos
+locale: es
 legacySlug: exportacion-de-pedidos-en-oms
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

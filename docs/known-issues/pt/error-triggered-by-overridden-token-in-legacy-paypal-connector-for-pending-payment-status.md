@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: erro-acionado-por-token-substituido-no-conector-do-paypal-legado-para-status-de-pagamento-pendente
+locale: pt
 kiStatus: Backlog
 internalReference: 308214
 ---

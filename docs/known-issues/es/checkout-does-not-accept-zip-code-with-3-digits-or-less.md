@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: checkout-no-acepta-cep-con-3-digitos-o-menos
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

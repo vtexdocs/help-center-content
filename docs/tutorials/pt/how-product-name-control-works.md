@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: como-funciona-o-controle-de-nome-de-produto
+locale: pt
 legacySlug: como-funciona-o-controle-de-nome-de-produto
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

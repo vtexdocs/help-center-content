@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: entendendo-o-funcionamento-da-indexacao
+locale: pt
 legacySlug: entendendo-o-funcionamento-da-indexacao
 subcategory: pwxWmUu7T222QyuGogs68
 ---

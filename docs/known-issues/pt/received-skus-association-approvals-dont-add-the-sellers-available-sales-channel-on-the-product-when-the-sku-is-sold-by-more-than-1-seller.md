@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: skus-recebidos-as-aprovacoes-de-associacao-nao-adicionam-o-canal-de-vendas-disponivel-do-vendedor-no-produto-quando-o-sku-e-vendido-por-mais-de-um-vendedor
+locale: pt
 kiStatus: Backlog
 internalReference: 562472
 ---

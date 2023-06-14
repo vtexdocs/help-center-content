@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: importacao-de-pedidos-amazon-fba-classic
+locale: pt
 legacySlug: importacao-de-pedidos-amazon-fba-classic
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: tutorial-aplicacion-movil-de-tracking-vtex
+locale: es
 legacySlug: tutorial-aplicacion-movil-de-tracking-vtex
 subcategory: 6pbaGm24tlXta7TKTtMc5l
 ---

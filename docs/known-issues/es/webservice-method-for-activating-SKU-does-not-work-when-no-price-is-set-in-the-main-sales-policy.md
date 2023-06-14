@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 5S2MYtrgEoSGaGMqsICaEC
 tag: Web Service
 slug: método-webservice-no-funciona-cuando-no-hay-precio-en-la-política-comercial-principal
+locale: es
 kiStatus: Fixed
 internalReference: 
 ---

@@ -11,6 +11,7 @@ productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 tag: Gift Card
 slug: interfaz-pagina-tarjeta-de-regalo-cargando-indefinidamente
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: cardholderdocument-no-se-envia-a-antifraude
+locale: es
 kiStatus: Backlog
 internalReference: 829864
 ---

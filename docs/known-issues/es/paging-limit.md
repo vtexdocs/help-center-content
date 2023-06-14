@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_63
 tag: Catalog,Portal (CMS)
 slug: limite-de-paginacion
+locale: es
 kiStatus: Open
 internalReference: 
 ---

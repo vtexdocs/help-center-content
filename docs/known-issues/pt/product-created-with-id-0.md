@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: produto-criado-com-id-0
+locale: pt
 kiStatus: Backlog
 internalReference: 335840
 ---

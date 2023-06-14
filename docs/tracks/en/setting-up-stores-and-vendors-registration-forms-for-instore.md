@@ -9,6 +9,7 @@ firstPublishedAt: 2018-03-15T21:32:23.313Z
 contentType: trackArticle
 productTeam: Shopping
 slug: setting-up-stores-and-vendors-registration-forms-for-instore
+locale: en
 trackId: 
 trackSlugEN: 
 ---

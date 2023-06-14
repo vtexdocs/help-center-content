@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: timeout-da-lista-de-marcas-de-colecao-no-admin
+locale: pt
 kiStatus: Backlog
 internalReference: 639905
 ---

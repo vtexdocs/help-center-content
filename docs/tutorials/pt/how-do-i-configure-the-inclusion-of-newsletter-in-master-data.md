@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_84
 slug: como-configuro-a-captacao-de-newsletter-pelo-master-data
+locale: pt
 legacySlug: como-configuro-a-captacao-de-newsletter-pelo-master-data
 subcategory: WpbGhubuRZaNZilJSXnqu
 ---

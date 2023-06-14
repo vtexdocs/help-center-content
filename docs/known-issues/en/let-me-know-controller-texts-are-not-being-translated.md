@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: let-me-know-controller-texts-are-not-being-translated
+locale: en
 kiStatus: Backlog
 internalReference: 517165
 ---

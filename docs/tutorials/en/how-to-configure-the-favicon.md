@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_31
 slug: how-to-configure-the-favicon
+locale: en
 legacySlug: how-to-configure-the-favicon
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

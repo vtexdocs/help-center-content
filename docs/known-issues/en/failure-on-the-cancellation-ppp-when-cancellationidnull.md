@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: failure-on-the-cancellation-ppp-when-cancellationidnull
+locale: en
 kiStatus: Backlog
 internalReference: 333897
 ---

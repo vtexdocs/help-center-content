@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: 127RQ7SUoFfyTh5gbXUpdM
 slug: como-estructurar-entidades-del-master-data-para-guardar-datos-de-ventas-b2b
+locale: es
 legacySlug: como-estructurar-entidades-del-master-data-para-guardar-datos-de-ventas-b2b
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

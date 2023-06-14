@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: isavailablepersaleschannel-parameter-does-not-work-as-expected-on-the-search-api
+locale: en
 kiStatus: Backlog
 internalReference: 656284
 ---

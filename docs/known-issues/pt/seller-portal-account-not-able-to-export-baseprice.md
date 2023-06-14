@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: conta-no-seller-portal-nao-e-capaz-de-exportar-baseprice
+locale: pt
 kiStatus: Backlog
 internalReference: 408868
 ---

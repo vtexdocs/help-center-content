@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: title-y-alt-de-imagenes-secundarias-repiten-contenido-de-imagen-principal
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

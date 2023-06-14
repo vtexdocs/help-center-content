@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: authors_24
 slug: nova-feature-para-usar-a-mensageria-do-mercado-livre
+locale: pt
 legacySlug: nova-feature-para-usar-a-mensageria-do-mercado-livre
 announcementImageID: ''
 announcementSynopsisPT: 'Agora, você pode comunicar atualizações no status do pedido usando o serviço de mensagens do Mercado Livre. '

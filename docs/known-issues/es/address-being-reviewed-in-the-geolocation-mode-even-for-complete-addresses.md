@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: direccion-que-se-revisa-en-el-modo-de-geolocalizacion-incluso-para-direcciones-completas
+locale: es
 kiStatus: Backlog
 internalReference: 618724
 ---

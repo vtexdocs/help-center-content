@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: gestao-de-estoques-pesquisa-nao-funciona-corretamente-nas-contas-do-portal-do-vendedor
+locale: pt
 kiStatus: Backlog
 internalReference: 694254
 ---

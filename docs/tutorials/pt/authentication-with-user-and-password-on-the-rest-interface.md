@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_24
 slug: autenticando-com-usuario-e-senha-na-interface-rest-2
+locale: pt
 legacySlug: autenticando-com-usuario-e-senha-na-interface-rest-2
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---

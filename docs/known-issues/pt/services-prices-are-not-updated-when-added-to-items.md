@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: os-precos-dos-servicos-nao-sao-atualizados-quando-adicionados-aos-itens
+locale: pt
 kiStatus: Backlog
 internalReference: 822107
 ---

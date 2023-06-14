@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: implementacion-de-la-categoria-de-amazon
+locale: es
 kiStatus: Backlog
 internalReference: 549924
 ---

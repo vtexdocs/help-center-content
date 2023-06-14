@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: guia-de-integracion-consumir-informacion-del-catalogo-para-utilizar-en-un-servicio-externo
+locale: es
 legacySlug: guia-de-integracion-consumir-informacion-del-catalogo-para-utilizar-en-un-servicio-externo
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---

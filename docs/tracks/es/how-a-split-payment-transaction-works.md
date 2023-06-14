@@ -9,6 +9,7 @@ firstPublishedAt: 2020-11-06T19:14:38.444Z
 contentType: trackArticle
 productTeam: Financial
 slug: como-funciona-una-transaccion-con-split-de-pagos
+locale: es
 trackId: 1ouDg8q56Kuz1AgtJUY9nv
 trackSlugES: split-de-pagos
 ---
@@ -59,4 +60,4 @@ Aquellos USD 6,50 serían divididos entre el *marketplace* y adquirente. Como la
 
 Vea el siguiente gráfico: 
 
-![Split de pagos](//images.ctfassets.net/alneenqid6w5/1VXR6E7dDgMTTSBM0D6qyL/2900b47ba92432068e940c185088399b/Split-ES.png)
+![Split de pagos](https://images.ctfassets.net/alneenqid6w5/1VXR6E7dDgMTTSBM0D6qyL/2900b47ba92432068e940c185088399b/Split-ES.png)

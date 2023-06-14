@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: comportamentos-incorretos-para-a-mutacao-addtocart-a-partir-do-checkout-graphql-enquanto-envia-opcoes-para-itens-ja-adicionados
+locale: pt
 kiStatus: Backlog
 internalReference: 452053
 ---

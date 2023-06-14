@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_64
 slug: busca-por-geocoordenadas
+locale: pt
 legacySlug: busca-por-geocoordenadas
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

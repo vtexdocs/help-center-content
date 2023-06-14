@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: recursos-do-license-manager-order-authorization
+locale: pt
 legacySlug: 
 subcategory: 1HSqkejwuYcQSMC400uY84
 ---

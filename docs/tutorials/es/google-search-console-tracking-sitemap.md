@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: rastreo-google-search-console-sitemap
+locale: es
 legacySlug: rastreo-google-search-console-sitemap
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

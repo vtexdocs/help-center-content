@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-o-conector-promissorias
+locale: pt
 legacySlug: configurar-o-conector-promissorias
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

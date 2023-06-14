@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: carrinho-com-itens-exibe-a-mensagem-carrinho-vazio-enquanto-a-tela-ainda-esta-carregando
+locale: pt
 kiStatus: Backlog
 internalReference: 303673
 ---

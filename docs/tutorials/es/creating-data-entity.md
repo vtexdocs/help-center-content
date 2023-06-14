@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_3
 slug: entidades-de-datos-creacion-y-mantenimiento
+locale: es
 legacySlug: entidades-de-datos-creacion-y-mantenimiento
 subcategory: 1l3IVVYwrrG5YOtdt7R2SN
 ---

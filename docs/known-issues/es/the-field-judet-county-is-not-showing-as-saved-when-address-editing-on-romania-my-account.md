@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: el-campo-condado-de-judet-no-aparece-como-guardado-al-editar-la-direccion-en-rumania-mi-cuenta
+locale: es
 kiStatus: Backlog
 internalReference: 394658
 ---

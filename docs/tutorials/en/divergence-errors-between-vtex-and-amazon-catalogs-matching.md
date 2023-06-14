@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: divergence-errors-between-vtex-and-amazon-catalogs-matching
+locale: en
 legacySlug: divergence-errors-between-vtex-and-amazon-catalogs-matching
 subcategory: 4HBbKdnwneGew2qGGykSM8
 ---

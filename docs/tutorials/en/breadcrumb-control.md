@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: breadcrumb-control
+locale: en
 legacySlug: breadcrumb-control
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

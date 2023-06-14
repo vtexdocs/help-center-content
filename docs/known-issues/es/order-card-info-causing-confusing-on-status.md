@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: la-informacion-de-la-tarjeta-de-pedido-causa-confusion-en-el-estado
+locale: es
 kiStatus: Backlog
 internalReference: 619778
 ---

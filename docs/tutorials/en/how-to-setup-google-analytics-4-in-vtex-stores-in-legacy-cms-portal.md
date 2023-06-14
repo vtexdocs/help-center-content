@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: how-to-setup-google-analytics-4-in-vtex-stores-in-legacy-cms-portal
+locale: en
 legacySlug: how-to-setup-google-analytics-4-in-vtex-stores-in-legacy-cms-portal
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: addtocart-function-doesnt-work-correctly-with-attachments-and-assembly-options-components-attachment
+locale: en
 kiStatus: Backlog
 internalReference: 830495
 ---

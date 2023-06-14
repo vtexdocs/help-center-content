@@ -9,6 +9,7 @@ firstPublishedAt: 2018-12-27T19:45:31.137Z
 contentType: trackArticle
 productTeam: Shopping
 slug: to-do
+locale: es
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugES: instore-setup
 ---

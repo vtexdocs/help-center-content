@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: revista-luiza-pedido-cancelado-en-marketplace-no-cancelado-en-vtex
+locale: es
 kiStatus: Backlog
 internalReference: 792618
 ---

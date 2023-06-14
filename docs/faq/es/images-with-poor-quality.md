@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: imagenes-con-baja-calidad
+locale: es
 legacySlug: imagenes-con-baja-calidad
 ---
 

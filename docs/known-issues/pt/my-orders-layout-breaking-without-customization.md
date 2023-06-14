@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_6
 tag: My Orders
 slug: layout-do-my-orders-quebrado-sem-nenhuma-customizacao
+locale: pt
 kiStatus: Fixed
 internalReference: 
 ---

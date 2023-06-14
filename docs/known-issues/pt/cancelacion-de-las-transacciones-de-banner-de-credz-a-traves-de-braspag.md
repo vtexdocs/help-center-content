@@ -11,6 +11,7 @@ productTeam: Financial
 author: authors_4
 tag: Payments
 slug: cancelamento-de-credz-braspag
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

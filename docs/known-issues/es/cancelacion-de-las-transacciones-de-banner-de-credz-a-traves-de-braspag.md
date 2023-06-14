@@ -11,6 +11,7 @@ productTeam: Financial
 author: authors_4
 tag: Payments
 slug: cancelacion-de-las-transaciones-de-la-bandera-credz-via-braspag
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

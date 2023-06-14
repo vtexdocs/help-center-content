@@ -9,6 +9,7 @@ firstPublishedAt: 2021-07-19T20:20:32.860Z
 contentType: trackArticle
 productTeam: Channels
 slug: amazon
+locale: pt
 trackId: 6sgd4Pagy3wNsWKBvmIFrP
 trackSlugPT: integracao-com-a-amazon
 ---

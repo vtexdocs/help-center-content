@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: error-al-acceder-a-la-pagina-de-configuracion-del-sistema
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

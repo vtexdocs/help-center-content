@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: melhorias-na-seguranca-em-cookies-do-checkout
+locale: pt
 legacySlug: melhorias-na-seguranca-em-cookies-do-checkout
 announcementImageID: ''
 announcementSynopsisPT: 'Atualização nos cookies do Checkout permite o aumento de segurança em sua loja'

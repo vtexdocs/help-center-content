@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: setting-up-stelom1v2
+locale: en
 legacySlug: setting-up-stelom1v2
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

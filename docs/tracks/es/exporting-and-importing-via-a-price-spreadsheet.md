@@ -9,6 +9,7 @@ firstPublishedAt: 2023-01-17T12:31:08.844Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: exportacion-e-importacion-mediante-la-plantilla-de-precios
+locale: es
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugES: precios-101
 ---

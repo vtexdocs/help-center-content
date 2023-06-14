@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: el-autocompletado-no-responde-a-los-arranques-en-frio
+locale: es
 kiStatus: Backlog
 internalReference: 418573
 ---

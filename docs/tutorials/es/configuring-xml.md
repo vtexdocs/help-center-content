@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: como-configurar-xml
+locale: es
 legacySlug: subiendo-un-xml-de-productos
 subcategory: 2OCA7SVfWoMSiAi0GEGwKo
 ---

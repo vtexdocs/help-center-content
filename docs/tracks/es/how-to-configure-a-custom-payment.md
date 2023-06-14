@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-25T15:33:37.696Z
 contentType: trackArticle
 productTeam: Financial
 slug: configurar-pagos-personalizados
+locale: es
 trackId: 6GAS7ZzGAm7AGoEAwDbwJG
 trackSlugES: pagos
 ---
@@ -35,7 +36,7 @@ Le permite usar una tarjeta de crédito de la tienda con una de las siguientes b
 3. Seleccione una de las opciones de pago personalizado.
 4. Complete los campos del formulario y haga clic en **Guardar**.
 
-![PT Pagamento Customizado](//images.ctfassets.net/alneenqid6w5/2Pg4CTwaCjKH0iQvXgbSm9/b0bf041d2adfa1d0046d6f2f3b849948/PT_Pagamento_Customizado.gif)
+![PT Pagamento Customizado](https://images.ctfassets.net/alneenqid6w5/2Pg4CTwaCjKH0iQvXgbSm9/b0bf041d2adfa1d0046d6f2f3b849948/PT_Pagamento_Customizado.gif)
 
 Después de esta configuración, deberá crear la [Condición de pago](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento/).  
 

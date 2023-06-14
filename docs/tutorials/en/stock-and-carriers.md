@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_6
 slug: stock-and-carriers
+locale: en
 legacySlug: stock-and-carriers
 subcategory: 
 ---

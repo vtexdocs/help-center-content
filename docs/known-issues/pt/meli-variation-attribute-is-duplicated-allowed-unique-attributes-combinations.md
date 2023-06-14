@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: o-atributo-meli-variation-e-duplicado-permite-combinacoes-unicas-de-atributos
+locale: pt
 kiStatus: Backlog
 internalReference: 758331
 ---

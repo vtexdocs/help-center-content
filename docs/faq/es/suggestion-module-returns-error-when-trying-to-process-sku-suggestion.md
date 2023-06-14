@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_24
 slug: suggestion-devuelve-error-al-intentar-procesar-sugerencia-de-sku
+locale: es
 legacySlug: 
 ---
 

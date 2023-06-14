@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: integracao-de-pedido-amazon-quantidade-de-item-invalida
+locale: en
 kiStatus: Backlog
 internalReference: 385656
 ---

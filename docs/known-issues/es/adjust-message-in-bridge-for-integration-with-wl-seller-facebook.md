@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: ajustar-el-mensaje-en-el-puente-para-la-integracion-con-el-vendedor-wl-facebook
+locale: es
 kiStatus: Backlog
 internalReference: 600208
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: i-registered-a-similar-category-but-the-products-are-not-displayed-why
+locale: en
 legacySlug: i-registered-a-similar-category-but-the-products-are-not-displayed-why
 ---
 

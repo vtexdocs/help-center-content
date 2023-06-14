@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: the-product-information-button-does-not-display-the-data
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---
@@ -20,10 +21,10 @@ internalReference:
 The <i class="fas fa-info-circle"></i> button available on the **Product and SKUs** listing on the **Catalog** module does not always display the product information. See the images below to understand the normal behavior of the button.
 
 **Product is not available**
-![info vazia](//images.ctfassets.net/alneenqid6w5/7KB0N2iRtVhLHkGNx3phPh/695d568800f3c1ee1443b9632ebe5de9/image.png)
+![info vazia](https://images.ctfassets.net/alneenqid6w5/7KB0N2iRtVhLHkGNx3phPh/695d568800f3c1ee1443b9632ebe5de9/image.png)
 
 **Product is available**
-![info preenchida](//images.ctfassets.net/alneenqid6w5/4TsjOjvtlZ6gn8k26X0Vpr/0d029051c2061caccefa64d1184a5d9e/image.png)
+![info preenchida](https://images.ctfassets.net/alneenqid6w5/4TsjOjvtlZ6gn8k26X0Vpr/0d029051c2061caccefa64d1184a5d9e/image.png)
 
 ## Simulation
 

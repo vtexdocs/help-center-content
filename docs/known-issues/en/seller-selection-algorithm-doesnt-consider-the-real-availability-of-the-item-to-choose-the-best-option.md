@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: seller-selection-algorithm-doesnt-consider-the-real-availability-of-the-item-to-choose-the-best-option
+locale: en
 kiStatus: Backlog
 internalReference: 360097
 ---

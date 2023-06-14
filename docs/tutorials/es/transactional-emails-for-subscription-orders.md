@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: correos-electronicos-transaccionales-para-pedidos-de-suscripcion
+locale: es
 legacySlug: correos-electronicos-transaccionales-para-pedidos-de-suscripcion
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
@@ -38,7 +39,7 @@ No es necesario activar el envío de correos electrónicos manualmente, pues se 
 5. Desactive la casilla `¿Activar envío de e-mail?`, que por defecto está marcada como activa.
 6. Haga clic en **Guardar**.
 
-![PT Subscription Message Center](//images.ctfassets.net/alneenqid6w5/3g9hWtw1XUcYlUlwGCzagX/8161e2468d88999ec8505a46274b55f1/PT_Subscription_Message_Center.png)
+![PT Subscription Message Center](https://images.ctfassets.net/alneenqid6w5/3g9hWtw1XUcYlUlwGCzagX/8161e2468d88999ec8505a46274b55f1/PT_Subscription_Message_Center.png)
 
 ## Plantillas Estándar del Centro de Mensajes 
 

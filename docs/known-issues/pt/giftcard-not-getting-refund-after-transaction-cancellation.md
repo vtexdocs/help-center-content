@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: giftcard-nao-recebendo-reembolso-apos-o-cancelamento-da-transacao
+locale: pt
 kiStatus: Backlog
 internalReference: 491195
 ---

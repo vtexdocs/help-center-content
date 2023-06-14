@@ -9,6 +9,7 @@ firstPublishedAt: 2018-05-03T20:52:22.560Z
 contentType: trackArticle
 productTeam: VTEX IO
 slug: crear-app
+locale: es
 trackId: 2qYWraccosS2ayg2kusaUo
 trackSlugES: vtex-io-getting-started
 ---

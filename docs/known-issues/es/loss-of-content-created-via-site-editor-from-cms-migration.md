@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: perdida-de-contenidos-creados-a-traves-del-editor-de-sitios-desde-la-migracion-del-cms
+locale: es
 kiStatus: Backlog
 internalReference: 610533
 ---

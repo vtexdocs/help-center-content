@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: o-termo-faz-com-que-a-api-de-busca-nao-tenha-retorno
+locale: pt
 kiStatus: Backlog
 internalReference: 570542
 ---

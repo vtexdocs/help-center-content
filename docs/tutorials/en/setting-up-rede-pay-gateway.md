@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: setting-up-rede-pay-gateway
+locale: en
 legacySlug: setting-up-rede-pay-gateway
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

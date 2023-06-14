@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: split-items-order-with-value-as-0-zero-on-the-invoice
+locale: en
 kiStatus: Backlog
 internalReference: 387933
 ---

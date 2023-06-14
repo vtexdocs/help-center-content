@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_41
 tag: Order Management
 slug: filtro-do-gerenciamento-de-pedidos-nao-traz-os-pedidos-feitos-no-dia-18-02-2018
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

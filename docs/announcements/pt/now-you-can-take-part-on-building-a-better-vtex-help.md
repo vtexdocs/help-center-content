@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: agora-voce-pode-ajudar-a-fazer-um-help-ainda-melhor
+locale: pt
 legacySlug: agora-voce-pode-ajudar-a-fazer-um-help-ainda-melhor
 announcementImageID: ''
 announcementSynopsisPT: 'Os artigos do Help agora contam com uma feature de feedback para você dar opinião sobre nosso conteúdo.'

@@ -9,6 +9,7 @@ firstPublishedAt: 2021-04-15T17:41:23.772Z
 contentType: trackArticle
 productTeam: Channels
 slug: enviar-productos-a-google-shopping
+locale: es
 trackId: 25Sl7iOqq58PGfVfTAo8Xw
 trackSlugES: integracion-con-google-shopping
 ---

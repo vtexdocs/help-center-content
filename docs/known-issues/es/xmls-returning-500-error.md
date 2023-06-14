@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: los-xmls-devuelven-el-error-500
+locale: es
 kiStatus: Backlog
 internalReference: 268042
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: adicionar-suporte-a-3ds2-na-integracao-com-a-redsys-v2
+locale: pt
 legacySlug: adicionar-suporte-a-3ds2-na-integracao-com-a-redsys-v2
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
@@ -32,6 +33,6 @@ Neste tutorial, explicaremos como realizar essa integração por meio do Admin d
 4. Desça a tela e habilite a opção __3DS Enabled__.  
 5. Clique em __Salvar__.
 
-![RedsysV2 PT](//images.ctfassets.net/alneenqid6w5/9Ee9cJHkCY2NQy6AAwsr5/803dff2f8664c2fef47143f6261a4463/Redsys_3DS2_-_PT.png)
+![RedsysV2 PT](https://images.ctfassets.net/alneenqid6w5/9Ee9cJHkCY2NQy6AAwsr5/803dff2f8664c2fef47143f6261a4463/Redsys_3DS2_-_PT.png)
 
 Feito isso, a solução estará habilitada para as transações da Redsýs com cartão de crédito.

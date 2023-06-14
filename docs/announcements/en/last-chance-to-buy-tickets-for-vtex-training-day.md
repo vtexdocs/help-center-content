@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
 slug: last-chance-to-buy-tickets-for-vtex-training-day
+locale: en
 legacySlug: last-chance-to-buy-tickets-for-vtex-training-day
 announcementImageID: ''
 announcementSynopsisEN: 'This is your chance to deep dive in the platform and become a true VTEX expert.'

@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-19T17:28:26.617Z
 contentType: trackArticle
 productTeam: Channels
 slug: authorize-wish-integration-on-vtex-dashboard 
+locale: en
 trackId: 50hbG4bzhSIhjz1lzqI1g4
 trackSlugEN: wish-integration
 ---

@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: integracao-do-sku-com-o-erro-referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto
+locale: pt
 kiStatus: Fixed
 internalReference: 657515
 ---

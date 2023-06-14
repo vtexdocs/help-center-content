@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-api-para-listar-los-puntos-de-recogida-no-devuelve-el-campo-additionalinfo
+locale: es
 kiStatus: Backlog
 internalReference: 650714
 ---

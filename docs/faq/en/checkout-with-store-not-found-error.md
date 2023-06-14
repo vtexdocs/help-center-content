@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_3
 slug: checkout-with-store-not-found-error
+locale: en
 legacySlug: checkout-with-store-not-found-error
 ---
 

@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: pedidos-el-vendedor-1-no-tiene-notificaciones-en-el-tipo-de-gancho-fromorders-para-el-pago-del-estado-aprobado
+locale: es
 kiStatus: Backlog
 internalReference: 640925
 ---

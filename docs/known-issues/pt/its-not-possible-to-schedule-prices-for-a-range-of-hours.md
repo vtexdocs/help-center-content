@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Pricing & Promotions
 slug: nao-e-possivel-agendar-precos-para-um-intervalo-de-horas
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

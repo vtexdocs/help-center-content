@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 5V92cmF9jG8KG600EwUgEg
 slug: New-returned-object-in-API-Get-Order-itemMetadata
+locale: en
 legacySlug: New-returned-object-in-API-Get-Order-itemMetadata
 announcementImageID: ''
 announcementSynopsisEN: 'As of May 1, 2019, the request JSON will return a new object called itemMetadata.'

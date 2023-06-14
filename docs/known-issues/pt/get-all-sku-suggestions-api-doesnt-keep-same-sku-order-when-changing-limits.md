@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: obtenha-todas-as-sugestoes-de-sku-api-nao-mantem-a-mesma-ordem-de-sku-ao-mudar-os-limites
+locale: pt
 kiStatus: Backlog
 internalReference: 367187
 ---

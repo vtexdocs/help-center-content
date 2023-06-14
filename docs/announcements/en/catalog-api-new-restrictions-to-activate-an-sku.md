@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: catalog-api-new-restrictions-to-activate-an-sku
+locale: en
 legacySlug: catalog-api-new-restrictions-to-activate-a-sku
 announcementImageID: ''
 announcementSynopsisEN: 'With this update, there are new restrictions for creating SKUs via API'

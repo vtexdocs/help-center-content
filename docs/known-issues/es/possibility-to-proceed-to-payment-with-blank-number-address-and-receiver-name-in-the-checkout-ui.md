@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: posibilidad-de-proceder-al-pago-con-la-direccion-del-numero-en-blanco-y-el-nombre-del-receptor-en-la-interfaz-de-usuario-de-la-caja
+locale: es
 kiStatus: Fixed
 internalReference: 554052
 ---

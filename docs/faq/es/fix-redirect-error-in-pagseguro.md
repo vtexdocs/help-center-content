@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_59
 slug: corregir-error-de-redirecionamento-en-pagseguro
+locale: es
 legacySlug: corregir-error-de-redirecionamento-en-pagseguro
 ---
 

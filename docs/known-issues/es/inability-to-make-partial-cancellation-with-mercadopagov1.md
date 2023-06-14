@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: imposibilidad-de-realizar-una-cancelacion-parcial-con-mercadopagov1
+locale: es
 kiStatus: Backlog
 internalReference: 286738
 ---

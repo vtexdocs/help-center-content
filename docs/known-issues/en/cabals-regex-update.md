@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: cabals-regex-update
+locale: en
 kiStatus: Backlog
 internalReference: 374652
 ---

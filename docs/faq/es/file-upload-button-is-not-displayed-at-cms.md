@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_4
 slug: boton-de-upload-de-archivos-no-aparece-en-cms
+locale: es
 legacySlug: boton-de-upload-de-archivos-no-aparece-en-cms
 ---
 

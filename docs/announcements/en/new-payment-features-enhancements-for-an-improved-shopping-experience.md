@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: new-payment-features-enhancements-for-an-improved-shopping-experience
+locale: en
 legacySlug: new-payment-features-enhancements-for-an-improved-shopping-experience
 announcementImageID: ''
 announcementSynopsisEN: 'We present the recent improvements in the Payments module to enhance your shopping experience.'

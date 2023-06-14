@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: el-etag-del-portal-no-se-actualiza-al-cambiar-los-metadatos
+locale: es
 kiStatus: Backlog
 internalReference: 411434
 ---

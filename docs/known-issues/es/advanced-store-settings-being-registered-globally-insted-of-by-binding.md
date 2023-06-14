@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: la-configuracion-avanzada-de-la-tienda-se-registra-globalmente-en-lugar-de-por-vinculacion
+locale: es
 kiStatus: Backlog
 internalReference: 783835
 ---

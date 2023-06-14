@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_37
 slug: el-calculo-del-flete-tiene-en-cuenta-el-regalo
+locale: es
 legacySlug: el-calculo-del-flete-tiene-en-cuenta-el-regalo
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

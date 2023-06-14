@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: autocompletar-en-la-busqueda-no-siempre-se-actualiza-cuando-se-cambia-varias-veces
+locale: es
 kiStatus: Backlog
 internalReference: 793275
 ---

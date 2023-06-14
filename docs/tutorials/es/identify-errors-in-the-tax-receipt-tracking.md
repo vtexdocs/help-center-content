@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: identificar-errores-en-el-rastreo-de-la-nota-fiscal
+locale: es
 legacySlug: identificar-errores-en-el-rastreo-de-la-nota-fiscal
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

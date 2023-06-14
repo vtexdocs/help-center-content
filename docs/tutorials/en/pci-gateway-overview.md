@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: pci-gateway-overview
+locale: en
 legacySlug: pci-gateway-overview
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---
@@ -18,7 +19,7 @@ subcategory: 2Xay1NOZKE2CSqKMwckOm8
 
 # Starting to use
 
-![new-admin-payments](//images.ctfassets.net/alneenqid6w5/7w2PFtni9ykY0qGuasgU84/32d9c5341fb170a8b02abbea0ee3c628/NEW_ADMIN_PAGAMENTOS_EN.png)
+![new-admin-payments](https://images.ctfassets.net/alneenqid6w5/7w2PFtni9ykY0qGuasgU84/32d9c5341fb170a8b02abbea0ee3c628/NEW_ADMIN_PAGAMENTOS_EN.png)
 
 Designed to provide maximum flexibility when it comes to payment configurations, VTEX Payments module processes transactions based on some business concepts. Understand each one:
 

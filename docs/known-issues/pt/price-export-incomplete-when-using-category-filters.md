@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: exportacao-de-preco-incompleto-ao-utilizar-filtros-de-categoria
+locale: pt
 kiStatus: Backlog
 internalReference: 753466
 ---

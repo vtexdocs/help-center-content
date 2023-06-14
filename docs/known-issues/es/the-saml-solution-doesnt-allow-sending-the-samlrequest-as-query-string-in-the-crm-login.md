@@ -11,6 +11,7 @@ productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
 slug: la-solucion-saml-no-permite-enviar-el-samlrequest-como-query-string-en-el-login-del-crm
+locale: es
 kiStatus: Backlog
 internalReference: 789146
 ---

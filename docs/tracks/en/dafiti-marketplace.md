@@ -9,6 +9,7 @@ firstPublishedAt: 2021-05-26T15:28:12.852Z
 contentType: trackArticle
 productTeam: Channels
 slug: dafiti-marketplace
+locale: en
 trackId: 4wF4RBx9ygEkimW6SsKw8i
 trackSlugEN: dafiti-integration-setup
 ---

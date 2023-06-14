@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Others
 author: authors_24
 slug: meu-site-esta-lento
+locale: pt
 legacySlug: meu-site-esta-lento
 ---
 

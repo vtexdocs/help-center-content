@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: authors_35
 slug: por-que-el-cliente-no-puede-logar-despues-de-3-intentos
+locale: es
 legacySlug: 
 ---
 

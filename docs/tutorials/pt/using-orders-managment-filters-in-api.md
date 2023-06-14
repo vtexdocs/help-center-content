@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: usando-os-filtros-do-gerenciamento-de-pedidos-na-api
+locale: pt
 legacySlug: usando-os-filtros-do-oms-em-sua-api
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

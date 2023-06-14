@@ -9,6 +9,7 @@ contentType: updates
 productTeam: VTEX IO
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: ada-and-wcag-compliance-with-accessibe
+locale: en
 legacySlug: ada-and-wcag-compliance-in-vtex
 announcementImageID: ''
 announcementSynopsisEN: 'The accessiBe app makes your store compliant with web accessibility standards.'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_39
 slug: transacting-recurring-order-through-card-tokenization
+locale: en
 legacySlug: transacting-recurring-order-through-card-tokenization
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---

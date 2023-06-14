@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: o-espaco-na-identificacao-do-armazem-faz-com-que-os-pedidos-logisticos-internos-falhem
+locale: pt
 kiStatus: Fixed
 internalReference: 654370
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: los-usuarios-no-pueden-acceder-a-la-interfaz-de-usuario-de-configuracion-de-credito-de-cliente-en-el-admin-debido-a-un-error-prohibido
+locale: es
 kiStatus: Backlog
 internalReference: 380931
 ---

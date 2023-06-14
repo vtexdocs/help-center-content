@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: que-es-un-sku
+locale: es
 legacySlug: que-es-un-sku
 subcategory: pwxWmUu7T222QyuGogs68
 ---

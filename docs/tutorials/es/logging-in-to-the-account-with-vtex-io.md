@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: iniciar-sesion-en-la-cuenta-de-la-tienda-con-vtex-io
+locale: es
 legacySlug: 
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

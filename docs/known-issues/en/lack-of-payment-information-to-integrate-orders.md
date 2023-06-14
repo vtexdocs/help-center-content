@@ -11,6 +11,7 @@ productTeam: Shopping
 author: authors_41
 tag: Checkout,Payments
 slug: lack-of-payment-information-to-integrate-orders
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

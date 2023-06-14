@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_4
 slug: configurando-o-apontamento-de-dns-para-a-vtex
+locale: pt
 legacySlug: processo-de-ssl-e-golive
 subcategory: 2Za4fjGfxYOo6oqykukgyy
 ---

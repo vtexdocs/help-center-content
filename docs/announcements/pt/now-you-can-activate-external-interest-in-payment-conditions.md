@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: agora-voce-pode-ativar-juros-externos-nas-condicoes-de-pagamento
+locale: pt
 legacySlug: agora-voce-pode-ativar-juros-externos-nas-condicoes-de-pagamento
 announcementImageID: ''
 announcementSynopsisPT: 'O Pagamentos possui uma nova feature para você configurar seus meios de pagamento.'

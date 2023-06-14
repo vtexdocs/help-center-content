@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 slug: como-montar-a-url-do-carrinho
+locale: pt
 legacySlug: como-montar-a-url-do-carrinho
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

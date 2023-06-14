@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: visualizar-o-log-detalhado-do-pedido
+locale: pt
 legacySlug: visualizar-no-fluxo-do-oms-log-detalhado-do-pedido
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

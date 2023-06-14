@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: setting-up-payments-with-koin
+locale: en
 legacySlug: setting-up-payments-with-koin
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

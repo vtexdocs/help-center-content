@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: controles-para-mostrar-el-nombre-de-la-marca
+locale: es
 legacySlug: controles-para-mostrar-el-nombre-de-la-marca
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

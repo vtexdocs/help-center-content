@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: analytics-erro-ao-carregar-dados-no-painel-de-desempenho-de-vendas
+locale: pt
 kiStatus: Backlog
 internalReference: 799899
 ---

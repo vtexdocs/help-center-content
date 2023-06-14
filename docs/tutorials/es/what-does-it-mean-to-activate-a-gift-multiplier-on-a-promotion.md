@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 6dI9ZPE1e80iq8IuIsww2s
 slug: que-significa-activar-el-multiplicador-de-regalo-en-una-promocion
+locale: es
 legacySlug: que-significa-activar-el-multiplicador-de-regalo-en-una-promocion
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---
@@ -23,4 +24,4 @@ Al configurar una promoción **Comprar y obtener**, es posible **Activar multipl
 Para ambos escenarios, se necesita rellenar la cantidad máxima de seleccionable. Con el multiplicador de regalos **activado**, determine la **cantidad máxima** de regalos para la condición. Para el multiplicador de regalos **desactivado**, la cantidad es **siempre 1**.
 
 
-![ativar-multiplicador-brinde es](//images.ctfassets.net/alneenqid6w5/23jsNGW0DCc6CEmgGYmOms/ad3128579334e186a434b21b04455ee6/gift_multi_es.png)
+![ativar-multiplicador-brinde es](https://images.ctfassets.net/alneenqid6w5/23jsNGW0DCc6CEmgGYmOms/ad3128579334e186a434b21b04455ee6/gift_multi_es.png)

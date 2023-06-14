@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 
 tag: 
 slug: al-modificar-la-categoria-de-padre-la-informacion-de-jerarquia-no-se
+locale: es
 kiStatus: 
 internalReference: 
 ---

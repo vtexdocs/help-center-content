@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_59
 slug: lanzamos-la-pantalla-de-configuracion-de-sus-datos-personales
+locale: es
 legacySlug: lanzamos-la-pantalla-de-configuracion-de-sus-datos-personales
 announcementImageID: ''
 announcementSynopsisES: 'Ahora es más facil editar su configuración personal de acceso a admin VTEX'

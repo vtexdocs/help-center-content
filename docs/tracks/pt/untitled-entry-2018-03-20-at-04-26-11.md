@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: Channels
 slug: skyhub-fluxo-de-pedidos
+locale: pt
 trackId: 
 trackSlugPT: 
 ---

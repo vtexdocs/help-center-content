@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: verificar-erros-ou-problemas-em-uma-transacao
+locale: pt
 legacySlug: verificar-erros-ou-problemas-em-uma-transacao
 subcategory: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---

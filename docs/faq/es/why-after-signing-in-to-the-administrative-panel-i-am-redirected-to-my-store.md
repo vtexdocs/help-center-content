@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: authors_4
 slug: por-que-al-entrar-en-el-panel-administrativo-soy-redirigido-a-mi-tienda
+locale: es
 legacySlug: por-que-al-entrar-en-el-panel-administrativo-soy-redirigido-a-mi-tienda
 ---
 

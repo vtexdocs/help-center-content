@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: checkout-forcando-a-etapa-de-envio-no-modo-de-entrega-enquanto-a-opcao-de-endereco-e-ponto-de-retirada-foi-definida-via-api
+locale: pt
 kiStatus: Fixed
 internalReference: 287444
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2018-09-27T22:12:25.372Z
 contentType: trackArticle
 productTeam: Channels
 slug: registro-de-la-integracion
+locale: es
 trackId: 3E9XylGaJ2wqwISGyw4GuY
 trackSlugES: configurar-la-integracion-de-via-varejo
 ---

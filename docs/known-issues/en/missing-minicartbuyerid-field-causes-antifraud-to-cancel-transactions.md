@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: missing-minicartbuyerid-field-causes-antifraud-to-cancel-transactions
+locale: en
 kiStatus: Backlog
 internalReference: 514335
 ---

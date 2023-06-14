@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_24
 slug: autenticandose-con-usuario-y-contrasena-en-la-interfaz-rest
+locale: es
 legacySlug: autenticandose-con-usuario-y-contrasena-en-la-interfaz-rest
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---

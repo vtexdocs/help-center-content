@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: quantas-vezes-seu-beneficio-sera-aplicado-em-sua-loja-salvando-incorretamente-na-interface-do-formulario-de-promocao
+locale: pt
 kiStatus: Backlog
 internalReference: 268304
 ---

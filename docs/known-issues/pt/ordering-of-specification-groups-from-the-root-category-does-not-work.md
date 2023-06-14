@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: a-ordenacao-de-grupos-de-especificacao-da-categoria-raiz-nao-funciona
+locale: pt
 kiStatus: Backlog
 internalReference: 634129
 ---

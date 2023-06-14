@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_4
 tag: Portal (CMS)
 slug: alteracoes-na-pagina-de-minha-conta-nao-aparecem-imediatamente-no-dominio
+locale: pt
 kiStatus: Closed
 internalReference: 
 ---

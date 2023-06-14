@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: incorrect-shippingestimatedate-for-order-fob
+locale: en
 kiStatus: Backlog
 internalReference: 269104
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-interfaz-de-usuario-muestra-un-error-al-exportar-archivos-de-catalogo-si-el-remitente-de-la-plantilla-de-correo-electronico-tiene-su-propio-smtp
+locale: es
 kiStatus: Backlog
 internalReference: 771942
 ---

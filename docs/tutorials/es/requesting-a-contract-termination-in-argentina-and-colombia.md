@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: solicitar-la-rescision-contractual-en-argentina-y-colombia
+locale: es
 legacySlug: solicitar-la-rescision-contractual-en-argentina-y-colombia
 subcategory: 22TaEgFhwE6a6CG2KASYkC
 ---

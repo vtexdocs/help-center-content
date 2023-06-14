@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_24
 slug: orderform
+locale: pt
 legacySlug: orderform
 ---
 

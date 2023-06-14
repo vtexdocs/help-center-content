@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: xml-simbolo-de-moneda-en-campo-parcelamento
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

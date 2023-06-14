@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog,Portal (CMS)
 slug: search-result-totalizer-and-filters-showing-wrong-value
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

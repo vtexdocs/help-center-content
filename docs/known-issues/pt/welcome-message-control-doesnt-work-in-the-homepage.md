@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: controle-welcome-message-nao-funciona-na-home-do-site
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

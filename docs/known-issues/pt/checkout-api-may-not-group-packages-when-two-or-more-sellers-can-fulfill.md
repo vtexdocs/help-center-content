@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: a-api-de-checkout-pode-nao-agrupar-pacotes-quando-dois-ou-mais-vendedores-podem-atender
+locale: pt
 kiStatus: Backlog
 internalReference: 802156
 ---

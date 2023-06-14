@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: divergencia-en-el-peso-del-kit-tras-los-calculos-con-decimales-en-el-peso
+locale: es
 kiStatus: Backlog
 internalReference: 657186
 ---

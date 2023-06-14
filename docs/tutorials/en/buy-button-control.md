@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: buy-button-control
+locale: en
 legacySlug: buy-button-control
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

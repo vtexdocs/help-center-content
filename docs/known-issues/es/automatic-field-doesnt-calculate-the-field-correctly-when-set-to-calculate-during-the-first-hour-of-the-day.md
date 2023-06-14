@@ -11,13 +11,14 @@ productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
 slug: campo-automatico-no-calcula-el-campo-correctamente-cuando-esta-programado-para-cambiar-el-registro-en-la-primera-hora-del-dia
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---
 
 ## Sumario
 
-El Campo Automático (campo calculado) funciona correctamente cuando "Recalcular este campo:" está establecido para "solo cuando ingrese el registro", pero deja de funcionar cuando está programado para recalcular "en la primera hora..." y susvariantes. ![inline1511102536](//images.ctfassets.net/alneenqid6w5/JbRenxvruoyYOueqguwcy/8ae33d07ce4db627a1c45eed5916824e/inline1511102536.png)
+El Campo Automático (campo calculado) funciona correctamente cuando "Recalcular este campo:" está establecido para "solo cuando ingrese el registro", pero deja de funcionar cuando está programado para recalcular "en la primera hora..." y susvariantes. ![inline1511102536](https://images.ctfassets.net/alneenqid6w5/JbRenxvruoyYOueqguwcy/8ae33d07ce4db627a1c45eed5916824e/inline1511102536.png)
 
 ## Simulación
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: errores-de-falta-de-stock-en-la-integracion-de-pedidos-de-marketplace
+locale: es
 legacySlug: errores-de-falta-de-stock-en-pedidos-de-la-integracion-con-el-marketplace
 subcategory: 7lxg0kyL3TYIsrlSQlf1zP
 ---

@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_41
 tag: Order Management
 slug: divergencia-na-quantidade-de-pedidos-exportados-x-quantidade-visualizada-no
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

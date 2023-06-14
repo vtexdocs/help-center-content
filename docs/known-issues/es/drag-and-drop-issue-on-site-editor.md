@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: problema-de-arrastrar-y-soltar-en-el-editor-de-sitios
+locale: es
 kiStatus: Fixed
 internalReference: 685103
 ---

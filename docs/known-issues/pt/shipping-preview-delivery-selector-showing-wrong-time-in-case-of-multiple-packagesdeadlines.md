@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: seletor-de-entrega-de-previsualizacao-de-embarque-mostrando-tempo-errado-em-caso-de-multiplos-pacoteslinhas-mortas
+locale: pt
 kiStatus: Backlog
 internalReference: 264441
 ---

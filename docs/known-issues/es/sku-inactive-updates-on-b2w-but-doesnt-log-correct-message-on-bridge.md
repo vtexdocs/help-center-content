@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: sku-inactivo-se-actualiza-en-b2w-pero-no-registra-el-mensaje-correcto-en-el-bridge
+locale: es
 kiStatus: Backlog
 internalReference: 603761
 ---

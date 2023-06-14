@@ -9,6 +9,7 @@ firstPublishedAt: 2021-02-08T20:11:26.459Z
 contentType: trackArticle
 productTeam: Channels
 slug: vision-general-de-la-integracion
+locale: es
 trackId: 7h8KvIC4DbRRc8VlyJ8PFc
 trackSlugES: integracion-de-facebook
 ---

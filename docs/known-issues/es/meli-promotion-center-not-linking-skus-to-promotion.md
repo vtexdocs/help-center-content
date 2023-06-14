@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: el-centro-de-promociones-meli-no-vincula-las-sku-con-la-promocion
+locale: es
 kiStatus: Backlog
 internalReference: 801348
 ---

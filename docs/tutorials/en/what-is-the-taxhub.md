@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Y2pnNkWfSoUMMYcwemq4A
 slug: what-is-the-taxhub
+locale: en
 legacySlug: what-is-the-taxhub
 subcategory: 
 ---

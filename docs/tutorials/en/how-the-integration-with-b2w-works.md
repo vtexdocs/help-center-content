@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_35
 slug: how-the-integration-with-b2w-works
+locale: en
 legacySlug: how-the-integration-with-b2w-works
 subcategory: 5m1qqfnmfYKsO0KiOQC8Ky
 ---

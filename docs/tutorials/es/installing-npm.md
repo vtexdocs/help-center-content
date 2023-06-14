@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: instalar-el-npm
+locale: es
 legacySlug: instalar-el-npm
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: b2w-valor-de-la-carga-en-oms-vtex
+locale: es
 kiStatus: Backlog
 internalReference: 671748
 ---

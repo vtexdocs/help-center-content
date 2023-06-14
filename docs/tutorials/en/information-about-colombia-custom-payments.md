@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: information-about-colombia-custom-payments
+locale: en
 legacySlug: information-about-colombia-custom-payments
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

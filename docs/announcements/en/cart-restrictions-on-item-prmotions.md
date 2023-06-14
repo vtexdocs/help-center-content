@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: cart-restrictions-on-item-prmotions
+locale: en
 legacySlug: limite-de-itens-com-promocao-no-carrinho
 announcementImageID: ''
 announcementSynopsisEN: 'Configuration that allows you to customize the items in the cart that are eligible for a promotion'

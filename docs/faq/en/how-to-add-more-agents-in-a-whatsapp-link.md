@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: how-to-add-more-agents-in-a-whatsapp-link
+locale: en
 legacySlug: how-to-add-more-agents-in-a-whatsapp-link
 ---
 

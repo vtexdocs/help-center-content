@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: motivo-de-alteracion-de-status-vtex-tracking
+locale: es
 legacySlug: motivo-de-alteracion-de-status-vtex-tracking
 subcategory: 7yiFRk9TGfMNeyhT83UljP
 ---

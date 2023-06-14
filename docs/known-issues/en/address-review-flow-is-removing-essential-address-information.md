@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: address-review-flow-is-removing-essential-address-information
+locale: en
 kiStatus: Backlog
 internalReference: 618756
 ---

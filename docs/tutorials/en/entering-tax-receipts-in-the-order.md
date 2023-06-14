@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: entering-tax-receipts-in-the-order
+locale: en
 legacySlug: entering-tax-receipts-in-the-order
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---
@@ -18,7 +19,7 @@ Entering the tax receipt in the order is a mandatory step so that the status bec
 
 To do this manually using the **Orders management**,  click on the `Invoice package` button, as shown in the image below.
 
-![faturar-pedido-ex en](//images.ctfassets.net/alneenqid6w5/3xGII9E1x6Iogai8qYyWYw/d50b5a145891ac1766882dabdf35a371/ex_1_en.png)
+![faturar-pedido-ex en](https://images.ctfassets.net/alneenqid6w5/3xGII9E1x6Iogai8qYyWYw/d50b5a145891ac1766882dabdf35a371/ex_1_en.png)
 
 Once the tax receipt is entered with the total amount of the order, the status changes to **Invoiced**.
 

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: 5fYXkMJagMwcSAeMAsAuOI
 slug: configurar-o-tipo-de-taxa-de-financiamento
+locale: pt
 legacySlug: configurar-o-tipo-de-taxa-de-financiamento
 ---
 

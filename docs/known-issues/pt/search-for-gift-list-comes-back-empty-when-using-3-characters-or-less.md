@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: busca-por-lista-de-presente-nao-retorna-resultado-quando-e-aplicada-com-3-ou-menos-caracteres
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

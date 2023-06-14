@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_6
 slug: ativando-o-novo-order-placed
+locale: pt
 legacySlug: ativando-o-novo-order-placed
 subcategory: 
 ---

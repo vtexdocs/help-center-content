@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 slug: credentials-in-gateway-affiliations-must-be-provided-by-the-payment-provider
+locale: en
 legacySlug: credentials-in-gateway-affiliations-must-be-provided-by-the-payment-provider
 announcementImageID: ''
 announcementSynopsisEN: 'Credentials in gateway affiliations created in the Admin must be replaced by October 31 for security reasons'

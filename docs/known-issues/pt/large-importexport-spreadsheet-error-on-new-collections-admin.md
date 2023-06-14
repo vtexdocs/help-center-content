@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: grande-erro-de-planilha-de-importacaoexportacao-em-nova-administracao-de-cobrancas
+locale: pt
 kiStatus: Backlog
 internalReference: 362017
 ---

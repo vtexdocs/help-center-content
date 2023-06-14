@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: magazine-luiza-pedidos-com-status-aprovado-no-marketplace-nao-estao-sendo-aprovados-na-vtex
+locale: pt
 kiStatus: Backlog
 internalReference: 823443
 ---

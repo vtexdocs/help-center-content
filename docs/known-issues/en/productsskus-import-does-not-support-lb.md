@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: productsskus-import-does-not-support-lb
+locale: en
 kiStatus: Backlog
 internalReference: 337860
 ---

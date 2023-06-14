@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: por-que-eu-nao-consigo-alterar-informacoes-do-produto-no-marketplace
+locale: pt
 legacySlug: por-que-eu-nao-consigo-alterar-informacoes-do-produto-no-marketplace
 ---
 

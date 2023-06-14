@@ -11,6 +11,7 @@ productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
 slug: sistema-de-comentarios-do-crm-nao-funciona
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

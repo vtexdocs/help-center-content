@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: gerenciar-estoque
+locale: pt
 legacySlug: gerenciar-estoque
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

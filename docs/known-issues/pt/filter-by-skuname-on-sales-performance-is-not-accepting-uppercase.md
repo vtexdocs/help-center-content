@@ -11,6 +11,7 @@ productTeam: Analytics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Analytics
 slug: filtrar-por-skuname-no-desempenho-de-vendas-nao-esta-aceitando-maiusculas
+locale: pt
 kiStatus: Backlog
 internalReference: 639219
 ---

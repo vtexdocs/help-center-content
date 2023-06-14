@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_35
 slug: por-que-no-puedo-integrar-un-marketplace-vtex-con-otro-marketplace
+locale: es
 legacySlug: por-que-no-puedo-integrar-un-marketplace-vtex-con-otro-marketplace
 ---
 

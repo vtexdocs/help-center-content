@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: 1E4UkWguFZAXjkguvNHPIv
 slug: best-practices-for-secure-user-management
+locale: en
 legacySlug: metodos-de-seguranca-para-criacao-de-perfis-de-usuarios-em-uma-loja
 ---
 

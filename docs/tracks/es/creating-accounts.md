@@ -9,6 +9,7 @@ firstPublishedAt: 2018-11-06T21:15:02.053Z
 contentType: trackArticle
 productTeam: Financial
 slug: creando-cuentas
+locale: es
 trackId: 1hCRg21lXYy2seOKgqQ2CC
 trackSlugES: customer-credit-como-empezar
 ---

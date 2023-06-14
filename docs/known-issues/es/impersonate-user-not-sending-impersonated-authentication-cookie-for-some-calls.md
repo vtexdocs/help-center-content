@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: el-usuario-suplantado-no-envia-la-cookie-de-autenticacion-suplantada-en-algunas-llamadas
+locale: es
 kiStatus: Backlog
 internalReference: 790185
 ---

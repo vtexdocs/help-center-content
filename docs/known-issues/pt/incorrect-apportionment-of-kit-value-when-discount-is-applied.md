@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: rateio-incorreto-do-valor-do-kit-quando-desconto-e-aplicado
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

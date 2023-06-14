@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: el-limite-de-variacion-de-precios-solo-funciona-en-la-poliza-principal
+locale: es
 kiStatus: Backlog
 internalReference: 509540
 ---

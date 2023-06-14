@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: nao-pode-criar-pedidos-com-promocoes-aplicadas-na-camada-de-mercado-a-um-vendedor-sob-o-comportamento-multinivel
+locale: pt
 kiStatus: Fixed
 internalReference: 446938
 ---

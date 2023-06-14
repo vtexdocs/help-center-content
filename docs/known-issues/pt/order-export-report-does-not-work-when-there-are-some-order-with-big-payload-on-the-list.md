@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: o-relatorio-de-exportacao-de-pedidos-nao-funciona-quando-ha-alguns-pedidos-com-grande-carga-util-na-lista
+locale: pt
 kiStatus: Backlog
 internalReference: 832429
 ---

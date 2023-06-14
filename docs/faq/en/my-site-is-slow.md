@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Others
 author: authors_24
 slug: my-site-is-slow
+locale: en
 legacySlug: my-site-is-slow
 ---
 

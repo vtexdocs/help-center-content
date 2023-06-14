@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_41
 tag: Pricing & Promotions
 slug: codigo-postal-como-condicion-en-una-promocion-no-considera-el-pais
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: shipping-promotion-does-not-generate-highlights-flags
+locale: en
 kiStatus: Backlog
 internalReference: 527111
 ---

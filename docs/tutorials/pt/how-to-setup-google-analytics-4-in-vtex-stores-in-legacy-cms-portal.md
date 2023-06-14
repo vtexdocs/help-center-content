@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: configurar-google-analytics-4-em-loja-vtex-no-cms-portal-legado
+locale: pt
 legacySlug: configurar-google-analytics-4-em-loja-vtex-no-cms-portal-legado
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

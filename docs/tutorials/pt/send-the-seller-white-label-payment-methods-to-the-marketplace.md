@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: enviar-os-meios-de-pagamento-do-seller-white-label-para-o-marketplace
+locale: pt
 legacySlug: enviar-os-meios-de-pagamento-do-seller-white-label-para-o-marketplace
 subcategory: 3wullenAJiAcWY0a6K4UOE
 ---

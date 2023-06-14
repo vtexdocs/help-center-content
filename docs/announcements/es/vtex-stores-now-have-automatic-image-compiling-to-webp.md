@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: tiendas-vtex-ahora-tienen-compresion-automatica-de-imagenes-para-webp
+locale: es
 legacySlug: tiendas-vtex-ahora-tienen-compresion-automatica-de-imagenes-para-webp
 announcementImageID: ''
 announcementSynopsisES: 'Las tiendas VTEX ahora cuentan con la compresión automática de imágenes para WebP'

@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: alt-attribute-not-showing-in-vtexcmcproductimage-zoomon-
+locale: en
 kiStatus: Backlog
 internalReference: 526563
 ---

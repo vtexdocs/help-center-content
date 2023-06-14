@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: transaccion-bloqueada-en-analisis-de-riesgo-debido-a-que-el-campo-documenttype-es-nulo
+locale: es
 kiStatus: Backlog
 internalReference: 697107
 ---

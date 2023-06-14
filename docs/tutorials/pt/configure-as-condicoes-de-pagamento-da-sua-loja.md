@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: configure-as-condicoes-de-pagamento-do-vtex-payment-na-sua-loja
+locale: pt
 legacySlug: configure-as-condicoes-de-pagamento-do-vtex-payment-na-sua-loja
 subcategory: 
 ---

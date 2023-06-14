@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: tempo-esgotado-api-obter-configuracoes-de-aprovacao-de-conta
+locale: pt
 kiStatus: Fixed
 internalReference: 772840
 ---

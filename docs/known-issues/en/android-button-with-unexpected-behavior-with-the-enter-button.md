@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: android-button-with-unexpected-behavior-with-the-enter-button
+locale: en
 kiStatus: Backlog
 internalReference: 606718
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 1malnhMX0vPThsaJaZMYm2
 slug: tiktok-for-business-advertise-your-products-on-tiktok
+locale: en
 legacySlug: tiktok-for-business-advertise-your-products-on-tiktok
 announcementImageID: ''
 announcementSynopsisEN: 'We have developed an app that allows you to use TikTok as a sales and ad channel integrated with your VTEX catalog.'

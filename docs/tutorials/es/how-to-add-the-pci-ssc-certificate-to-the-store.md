@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: anadir-el-certificado-pci-ssc-a-la-tienda
+locale: es
 legacySlug: anadir-el-certificado-pci-ssc-a-la-tienda
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-gateway-decidir
+locale: pt
 legacySlug: configurar-gateway-decidir
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

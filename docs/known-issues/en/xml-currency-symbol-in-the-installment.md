@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: xml-currency-symbol-in-the-installment
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

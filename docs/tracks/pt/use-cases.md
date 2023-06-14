@@ -9,6 +9,7 @@ firstPublishedAt: 2020-11-18T17:37:59.283Z
 contentType: trackArticle
 productTeam: Financial
 slug: casos-de-uso
+locale: pt
 trackId: 1LqUFHQZ3ZQyV5TmugbGNm
 trackSlugPT: condicoes-de-pagamento-clusterizadas
 ---

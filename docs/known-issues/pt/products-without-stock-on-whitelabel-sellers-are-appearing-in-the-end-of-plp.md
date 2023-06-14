@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: produtos-sem-estoque-em-vendedores-de-whitelabel-estao-aparecendo-no-final-do-plp
+locale: pt
 kiStatus: Backlog
 internalReference: 495741
 ---

@@ -11,6 +11,7 @@ productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 tag: Payments
 slug: transacoes-com-promissoria-nao-sao-canceladas-automaticamente-apos-a
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

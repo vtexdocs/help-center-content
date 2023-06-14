@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: solicitud-de-codigo-postal-en-bucle-en-el-componente-de-vista-previa-del-envio
+locale: es
 kiStatus: Backlog
 internalReference: 352659
 ---

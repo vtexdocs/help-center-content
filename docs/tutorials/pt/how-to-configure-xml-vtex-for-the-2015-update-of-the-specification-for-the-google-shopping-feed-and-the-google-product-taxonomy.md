@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: como-configurar-o-xml-vtex-para-a-atualizacao-de-2015-da-especificacao-do-feed-do-google-shopping-e-da-taxonomia-do-produto-do-google
+locale: pt
 legacySlug: 
 subcategory: 
 ---

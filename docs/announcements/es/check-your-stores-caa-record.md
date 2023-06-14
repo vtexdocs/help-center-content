@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: 245tA425AIeioKAk2eaiwS
 slug: actualiza-las-entradas-caa-en-su-tienda
+locale: es
 legacySlug: actualiza-las-entradas-caa-en-su-tienda
 announcementImageID: ''
 announcementSynopsisES: 'Recomendamos que actualice las entradas CAA de sus administradores DNS hasta 9/11.'

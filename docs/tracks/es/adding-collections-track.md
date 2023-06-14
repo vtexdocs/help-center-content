@@ -9,6 +9,7 @@ firstPublishedAt: 2019-06-25T16:02:17.492Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: registrar-una-coleccion-track
+locale: es
 trackId: 5AF0XfnjfWeopIFBgs3LIQ
 trackSlugES: catalogo-101
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: inventario-y-envio-comprenda-lo-que-cambio-en-la-pestana-paneles
+locale: es
 legacySlug: inventario-y-envio-comprenda-lo-que-cambio-en-la-pestana-paneles
 announcementImageID: ''
 announcementSynopsisES: 'Mejoramos la usabilidad del módulo de “Paneles”, y cambiamos su nombre para “Estrategia de Envío”'

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: no-se-envia-el-correo-electronico-de-confirmacion-del-pedido
+locale: es
 kiStatus: Fixed
 internalReference: 423628
 ---

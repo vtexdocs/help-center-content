@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: change-seller-por-afiliaciones-que-admitan-split-nativo-faq
+locale: es
 legacySlug: change-seller-por-afiliaciones-que-admitan-split-nativo-faq
 ---
 
@@ -30,7 +31,7 @@ Por eso, para tener acceso al cambio de seller, la afiliación con split se debe
 - __Utilizar el comportamiento recomendado del procesador de pagos__.
 - __Desactivado: No se captura automáticamente__.
 
-![Captura de Pago Automática](//images.ctfassets.net/alneenqid6w5/2QsxlUck2BOohNQ8sQUZDL/0c82ee9775c65757ccfd014d8dd910eb/Captura_De_Pago.png)
+![Captura de Pago Automática](https://images.ctfassets.net/alneenqid6w5/2QsxlUck2BOohNQ8sQUZDL/0c82ee9775c65757ccfd014d8dd910eb/Captura_De_Pago.png)
 
 ### ¿Al seleccionar el comportamiento de liquidación que no es automático, cuándo se liquidará el pago?
 

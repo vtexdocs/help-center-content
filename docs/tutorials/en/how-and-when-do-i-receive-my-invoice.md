@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Billing
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: how-and-when-do-i-receive-my-invoice
+locale: en
 legacySlug: how-and-when-do-i-receive-my-invoice
 subcategory: 5ZfsNR4ioEsIyu6wkyce0M
 ---

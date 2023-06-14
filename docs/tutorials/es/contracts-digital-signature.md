@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: firma-digital-de-contratos
+locale: es
 legacySlug: firma-digital-de-contratos
 subcategory: 6SJnrkKDjGwSqKkMuQMOmm
 ---

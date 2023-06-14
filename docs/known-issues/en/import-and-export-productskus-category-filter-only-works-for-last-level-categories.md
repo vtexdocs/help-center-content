@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: import-and-export-productskus-category-filter-only-works-for-last-level-categories
+locale: en
 kiStatus: Fixed
 internalReference: 550313
 ---

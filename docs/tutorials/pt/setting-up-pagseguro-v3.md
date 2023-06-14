@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: configurar-o-pagseguro-v3
+locale: pt
 legacySlug: configurar-o-pagseguro-v3
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

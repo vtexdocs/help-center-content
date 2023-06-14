@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: unrelated-transaction-returned-when-using-sequence-number-to-fetch-a-transaction-in-admin-ui
+locale: en
 kiStatus: Backlog
 internalReference: 503446
 ---

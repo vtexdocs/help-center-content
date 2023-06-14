@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_59
 slug: setting-up-seller-white-label-as-a-pickup-point
+locale: en
 legacySlug: setting-up-seller-white-label-as-a-pickup-point
 subcategory: 1c5Btie9ou2Gg2iUo0ggqM
 ---

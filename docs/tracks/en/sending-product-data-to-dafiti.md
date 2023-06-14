@@ -9,6 +9,7 @@ firstPublishedAt: 2018-09-27T21:44:56.294Z
 contentType: trackArticle
 productTeam: Channels
 slug: sending-product-data-to-dafiti
+locale: en
 trackId: 4wF4RBx9ygEkimW6SsKw8i
 trackSlugEN: dafiti-integration-setup
 ---

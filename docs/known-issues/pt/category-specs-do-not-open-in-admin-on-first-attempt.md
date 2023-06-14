@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: as-especificacoes-da-categoria-nao-se-abrem-no-admin-na-primeira-tentativa
+locale: pt
 kiStatus: Backlog
 internalReference: 664419
 ---

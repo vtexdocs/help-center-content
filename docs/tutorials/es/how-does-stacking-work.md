@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-se-maneja-el-apilamiento
+locale: es
 legacySlug: como-se-maneja-el-apilamiento
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

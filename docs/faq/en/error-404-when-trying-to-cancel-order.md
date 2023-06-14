@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_24
 slug: error-404-when-trying-to-cancel-order
+locale: en
 legacySlug: error-404-when-trying-to-cancel-order
 ---
 

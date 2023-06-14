@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_4
 slug: como-criar-perfil-de-acesso-old
+locale: pt
 legacySlug: guia-para-criar-perfis-de-usuario
 subcategory: 1HSqkejwuYcQSMC400uY84
 ---

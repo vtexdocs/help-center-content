@@ -9,6 +9,7 @@ firstPublishedAt: 2021-04-15T17:41:17.442Z
 contentType: trackArticle
 productTeam: Channels
 slug: configuracion-del-conector
+locale: es
 trackId: 25Sl7iOqq58PGfVfTAo8Xw
 trackSlugES: integracion-con-google-shopping
 ---

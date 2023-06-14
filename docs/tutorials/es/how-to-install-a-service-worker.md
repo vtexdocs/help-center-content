@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: como-instalar-un-service-worker
+locale: es
 legacySlug: como-instalar-un-service-worker
 subcategory: 
 ---

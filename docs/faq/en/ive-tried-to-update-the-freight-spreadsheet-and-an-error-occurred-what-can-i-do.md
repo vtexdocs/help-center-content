@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
 slug: ive-tried-to-update-the-freight-spreadsheet-and-an-error-occurred-what-can-i-do
+locale: en
 legacySlug: ive-tried-to-update-the-freight-spreadsheet-and-an-error-occurred-what-can-i-do
 ---
 

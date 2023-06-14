@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: B2B
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: b2b-overview
+locale: en
 legacySlug: overview
 subcategory: 5N5GjDrKSycIQMeoS7CLtj
 ---

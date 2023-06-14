@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-valor-do-premio-nao-foi-adicionado-ou-foi-adicionado-um-valor-diferente-ao-cartaopresente
+locale: pt
 kiStatus: Backlog
 internalReference: 844079
 ---

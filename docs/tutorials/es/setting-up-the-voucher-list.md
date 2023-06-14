@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: configurando-lista-vale
+locale: es
 legacySlug: configurando-lista-vale
 subcategory: 6aeeWirCBUwwCmeIWOgIWs
 ---
@@ -25,13 +26,13 @@ Es necesaria una configuración de SKU con las siguientes características para 
 - El SKU debe tener el precio de R$0,01.
 - El SKU debe ser configurado para generar crédito en vale.
 
-![sku-opção-credito-vale es](//images.ctfassets.net/alneenqid6w5/5jtCFBYaME4muoOKg8eWQE/9f8da92008fd49aa99fc123b8141a0fc/sku-op____o-credito-vale_es.png)
+![sku-opção-credito-vale es](https://images.ctfassets.net/alneenqid6w5/5jtCFBYaME4muoOKg8eWQE/9f8da92008fd49aa99fc123b8141a0fc/sku-op____o-credito-vale_es.png)
 
 ## Configuraciones en el Tipos de Lista
 
 La creación de este tipo de lista pide, en las configuraciones, que la entrega se marque como "Valor de los productos comprados será convertido en un vale de compras". Vea la imagen de ejemplo:
 
-![entrega-tipos-lista ew](//images.ctfassets.net/alneenqid6w5/5vtZiXaAPS0iWow2EgA4OE/6cf83c7a2402bdf95233cfe0729f54e7/entrega-tipos-lista_ew.png)
+![entrega-tipos-lista ew](https://images.ctfassets.net/alneenqid6w5/5vtZiXaAPS0iWow2EgA4OE/6cf83c7a2402bdf95233cfe0729f54e7/entrega-tipos-lista_ew.png)
 
 Grabe su lista después de realizar las demás configuraciones deseadas.
 

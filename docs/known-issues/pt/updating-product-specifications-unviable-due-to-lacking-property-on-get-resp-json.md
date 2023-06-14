@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: atualizacao-das-especificacoes-do-produto-impossivel-devido-a-falta-de-propriedade-no-get-resp-json
+locale: pt
 kiStatus: Backlog
 internalReference: 301725
 ---

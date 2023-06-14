@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: new-tax-information-in-order-reports
+locale: en
 legacySlug: new-tax-information-in-order-reports
 announcementImageID: ''
 announcementSynopsisEN: 'The Taxes column in the order report has been modified to make it easier to view the total amount of taxes applied.'

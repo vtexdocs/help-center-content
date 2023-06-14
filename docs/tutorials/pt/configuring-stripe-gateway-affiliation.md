@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 slug: configurar-a-afiliacao-de-gateway-stripe
+locale: pt
 legacySlug: configurar-a-afiliacao-de-gateway-stripe
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

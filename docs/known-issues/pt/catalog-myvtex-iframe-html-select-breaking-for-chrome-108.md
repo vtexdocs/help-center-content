@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: catalogo-myvtex-iframe-html-select-breaking-para-cromo-108
+locale: pt
 kiStatus: Backlog
 internalReference: 711637
 ---

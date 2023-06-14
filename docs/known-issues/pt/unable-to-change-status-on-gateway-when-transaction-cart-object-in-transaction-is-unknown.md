@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: incapaz-de-mudar-o-status-no-gateway-quando-a-transacao-cart-objeto-em-transacao-e-desconhecido
+locale: pt
 kiStatus: Backlog
 internalReference: 776837
 ---

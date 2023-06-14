@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: descontinuacao-dos-status-dos-pedidos-de-marketplace-waiting-for-seller
+locale: pt
 legacySlug: descontinuacao-dos-status-dos-pedidos-de-marketplace-waiting-for-seller
 announcementImageID: ''
 announcementSynopsisPT: 'Os status dos pedidos de Marketplace `waiting-for-seller-confirmation` e `order-completed` vão ser descontinuados'

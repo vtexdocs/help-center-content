@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T18:55:50.482Z
 contentType: trackArticle
 productTeam: Shopping
 slug: habilitar-recomendacion-de-producto
+locale: es
 trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugES: habilitar-recomendacion-de-producto
 ---
@@ -27,7 +28,7 @@ Si desea ocultar estas recomendaciones, debe editar los archivos `checkout-insto
 
 Al igual que el archivo JavaScript de personalización inStore, se debe acceder a `checkout-instore-custom.css` a través del panel administrativo de VTEX (como se explica en el artículo sobre [personalizaciones en el inStore](https://help.tex.com/tracks/instore-customizations--1z9kBm12oBPyVNDo1ivVc2/4mwdBrFsmE2EPE0FzgX28b)).
 
-![25. Enable product recommendations - 1 - ES.png?h=250](//images.ctfassets.net/alneenqid6w5/nEA1Zz5EeltimlFEFSMzy/8f489dd051c79453fd858d5376699c79/25._Enable_product_recommendations_-_1_-_ES.png_h_250)
+![25. Enable product recommendations - 1 - ES.png?h=250](https://images.ctfassets.net/alneenqid6w5/nEA1Zz5EeltimlFEFSMzy/8f489dd051c79453fd858d5376699c79/25._Enable_product_recommendations_-_1_-_ES.png_h_250)
 
 En el archivo `checkout-instore-custom.css`, incluya la siguiente regla CSS:
 

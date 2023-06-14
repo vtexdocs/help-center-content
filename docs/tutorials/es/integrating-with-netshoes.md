@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: integrar-con-netshoes
+locale: es
 legacySlug: integrar-con-netshoes
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

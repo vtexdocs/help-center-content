@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: including-order-variables-in-the-transactional-email-template
+locale: en
 legacySlug: including-order-variables-in-the-transactional-email-template
 subcategory: 4D5LrWwlHGmOWMomOaaGee
 ---

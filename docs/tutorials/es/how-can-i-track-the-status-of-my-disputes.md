@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: como-puedo-hacer-un-seguimiento-de-mis-disputas
+locale: es
 legacySlug: como-puedo-hacer-un-seguimiento-de-mis-disputas
 subcategory: 204Hz794zvcUIJXLcShY43
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: meus-cartoes-nao-estao-funcionando-para-alguns-conectores-legados
+locale: pt
 kiStatus: Backlog
 internalReference: 373636
 ---

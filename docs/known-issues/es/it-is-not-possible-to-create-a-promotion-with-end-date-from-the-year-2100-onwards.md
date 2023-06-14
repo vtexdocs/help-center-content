@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: no-es-posible-crear-una-promocion-con-fecha-de-finalizacion-a-partir-del-ano-2100
+locale: es
 kiStatus: Backlog
 internalReference: 833957
 ---

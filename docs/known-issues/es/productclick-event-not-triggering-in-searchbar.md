@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: el-evento-productclick-no-se-activa-en-la-barra-de-busqueda
+locale: es
 kiStatus: Backlog
 internalReference: 742754
 ---

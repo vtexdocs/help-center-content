@@ -11,6 +11,7 @@ productTeam: Channels
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Connections
 slug: no-se-puede-filtrar-por-tipo-de-error-en-excel-export-de-bridge
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

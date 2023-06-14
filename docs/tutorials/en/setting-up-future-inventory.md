@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: setting-up-future-inventory
+locale: en
 legacySlug: setting-up-future-inventory
 subcategory: 32vrn4K2ZscjUaIBe6w5fm
 ---

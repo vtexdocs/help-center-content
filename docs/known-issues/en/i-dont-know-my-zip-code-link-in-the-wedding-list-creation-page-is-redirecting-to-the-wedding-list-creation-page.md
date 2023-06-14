@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: i-dont-know-my-zip-code-link-in-the-wedding-list-creation-page-is-redirecting-to-the-wedding-list-creation-page
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

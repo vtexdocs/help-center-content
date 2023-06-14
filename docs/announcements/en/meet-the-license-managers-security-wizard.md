@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: 245tA425AIeioKAk2eaiwS
 slug: meet-the-license-managers-security-wizard
+locale: en
 legacySlug: meet-the-license-managers-security-wizard
 announcementImageID: ''
 announcementSynopsisEN: "A new feature that helps you manage and revise the permissions of who has access to your store's admin."

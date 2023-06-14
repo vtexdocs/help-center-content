@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: como-funciona-o-contexto-de-busca-das-pastas-do-website
+locale: pt
 legacySlug: 
 subcategory: 
 ---

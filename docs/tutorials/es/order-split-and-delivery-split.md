@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: division-de-pedidos-y-division-de-entregas
+locale: es
 legacySlug: division-de-pedidos-y-division-de-entregas
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

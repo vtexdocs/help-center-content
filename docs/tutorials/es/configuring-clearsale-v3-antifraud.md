@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: configurar-antifraude-clearsale-v3
+locale: es
 legacySlug: configurar-antifraude-clearsale-v3
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

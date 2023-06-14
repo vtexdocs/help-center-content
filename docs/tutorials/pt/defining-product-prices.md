@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_6
 slug: cadastrando-os-precos-dos-produtos
+locale: pt
 legacySlug: cadastrando-os-precos-dos-produtos
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---

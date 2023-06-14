@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: is-it-possible-to-use-the-vtex-admin-search-report
+locale: en
 legacySlug: is-it-possible-to-use-the-vtex-admin-search-report
 subcategory: 5yDQmr18K4GgQAeGwq8USa
 ---

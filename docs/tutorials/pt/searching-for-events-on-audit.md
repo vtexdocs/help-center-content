@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 4SqDPmUJIIz2KMMKgiyqKl
 slug: como-encontrar-eventos-no-audit
+locale: pt
 legacySlug: como-encontrar-eventos-no-audit
 subcategory: 2TNXiKzLZOPxjMTyGiEeJu
 ---
@@ -17,7 +18,7 @@ subcategory: 2TNXiKzLZOPxjMTyGiEeJu
 
 Para aumentar a transparência e a confiança entre os usuários administrativos da sua loja, diversas operações e os horários que estas ocorreram são registradas no Audit, que é um módulo utilizado para pesquisar e investigar este histórico com o auxílio de filtros. 
 
-![Screenshot for Audit UI for announcement](//images.ctfassets.net/alneenqid6w5/1CwFsrYwjxCIhyqcc6ei86/a7e351d449a8ff53422f9a9b914dbdc2/Audit_PT.png)
+![Screenshot for Audit UI for announcement](https://images.ctfassets.net/alneenqid6w5/1CwFsrYwjxCIhyqcc6ei86/a7e351d449a8ff53422f9a9b914dbdc2/Audit_PT.png)
 
 Para acessar a página do Audit, clique em *Configurações da loja* > *Audit*. Nessa página é possível realizar buscas usando filtros, verificar quais foram as últimas ações realizadas e são apresentados alguns exemplos de filtros que podem ser utilizados como modelo.
 
@@ -41,11 +42,11 @@ Note que é possível adicionar mais de um filtro,  inclusive com o mesmo tópic
 
 Por exemplo, a busca correspondente à figura abaixo encontra resultados cujas ações são _Payment Notification_ ou _Change Status_ e cujo autor é _[email@email.com](mailto:email@email.com)_.
 
-![Filtros no Audit](//images.ctfassets.net/alneenqid6w5/2Bl1FZuuaa3ZeHT52FEcMD/e998483688ff78ba0bfd122a353c5b97/Audit_filters_PT.png)
+![Filtros no Audit](https://images.ctfassets.net/alneenqid6w5/2Bl1FZuuaa3ZeHT52FEcMD/e998483688ff78ba0bfd122a353c5b97/Audit_filters_PT.png)
 
 Após selecionada a aplicação, a data e os demais filtros da busca, clique no botão **Buscar** para obter os eventos que foram encontrados. 
 
-Note que toda busca realizada é salva na aba **Últimas Buscas**. Para refazer uma busca, clique nesse aba, e clique no botão <img src="//images.ctfassets.net/alneenqid6w5/4gWsOnbLMOUeWh0r5YRDz/9b7148d995c03ca84b39473f266b46a9/refresh.png" width="15"> correspondente à busca que deseja ser refeita.
+Note que toda busca realizada é salva na aba **Últimas Buscas**. Para refazer uma busca, clique nesse aba, e clique no botão <img src="https://images.ctfassets.net/alneenqid6w5/4gWsOnbLMOUeWh0r5YRDz/9b7148d995c03ca84b39473f266b46a9/refresh.png" width="15"> correspondente à busca que deseja ser refeita.
 
 <div class="alert alert-warning">
 Apenas 50 buscas ficam gravadas neste painel. Se quiser salvar uma busca indefinidamente, realize a mesma e adicione aos favoritos do seu browser.

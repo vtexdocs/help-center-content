@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_59
 slug: cadastrar-lojas-e-vendedores-para-o-instore
+locale: pt
 legacySlug: cadastrar-lojas-e-vendedores-para-o-instore
 subcategory: 
 ---

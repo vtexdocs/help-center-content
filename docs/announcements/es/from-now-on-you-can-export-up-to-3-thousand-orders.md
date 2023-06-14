@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: a-partir-de-ahora-usted-podra-exportar-hasta-3-000-pedidos
+locale: es
 legacySlug: a-partir-de-ahora-usted-podra-exportar-hasta-3-000-pedidos
 announcementImageID: ''
 announcementSynopsisES: 'Este límite pretende garantizar el rendimiento de la plataforma sin perder la consistencia de los informes generados.'

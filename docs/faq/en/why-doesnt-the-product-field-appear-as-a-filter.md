@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: why-doesnt-the-product-field-appear-as-a-filter
+locale: en
 legacySlug: why-doesnt-the-product-field-appear-as-a-filter
 ---
 

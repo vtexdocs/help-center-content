@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: split-de-pagos
+locale: es
 legacySlug: split-de-pagos
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
@@ -49,11 +50,11 @@ Por ejemplo, un comprador agrega dos productos al mismo carrito de compras. El m
 
 El pago se distribuye de la siguiente manera.
 
-![Split de cobros](//images.ctfassets.net/alneenqid6w5/Vz2aNof4GnIVftr4EYDQy/a0545942f5605403edc0dba83a170963/Split_de_cobros.png)
+![Split de cobros](https://images.ctfassets.net/alneenqid6w5/Vz2aNof4GnIVftr4EYDQy/a0545942f5605403edc0dba83a170963/Split_de_cobros.png)
 
 Como puede ver, nuestro *gateway* calcula y distribuye los cobros de cada parte cuando se factura el pedido y se envía la información al proveedor de pagos. La distribución se realiza según la cantidad destinada a cada comerciante en el pedido y la comisión del *marketplace*.
 
-![Afiliaciones](//images.ctfassets.net/alneenqid6w5/4BE5K8TxKtGxDGgs1UwPHk/1b919ccf365965f061df91798e0ed869/Afiliaciones.png)
+![Afiliaciones](https://images.ctfassets.net/alneenqid6w5/4BE5K8TxKtGxDGgs1UwPHk/1b919ccf365965f061df91798e0ed869/Afiliaciones.png)
 
 En este modelo, nuestros clientes de *marketplace* también tienen acceso a un «Informe de comisiones» y mediante esta funcionalidad pueden consultar la lista de pedidos facturados por cada uno de sus *sellers* y las respectivas comisiones retenidas.
 
@@ -87,11 +88,11 @@ Lo que significa que el *marketplace* tiene menos control sobre el flujo de pago
 
 Por ejemplo, un comprador agrega dos productos al mismo carrito de compras. El marketplace entregará uno de ellos y el otro le pertenece al *seller* llamado Seller A.
 
-![Transacción](//images.ctfassets.net/alneenqid6w5/2uC4hZkbbq4w5WuxZS5LaP/33d5406e2d18da8290edaa3621edc7c6/Transacci__n.png)
+![Transacción](https://images.ctfassets.net/alneenqid6w5/2uC4hZkbbq4w5WuxZS5LaP/33d5406e2d18da8290edaa3621edc7c6/Transacci__n.png)
 
 En el *split* de transacción, el *marketplace* no tiene que realizar ninguna configuración. El *seller* es el que tiene que configurar su medio de pago en la afiliación con un determinado *marketplace*. Para más detalles, consulte nuestra documentación [Enviar los medios de pago del Seller White Label al Marketplace](https://help.vtex.com/es/tutorial/enviar-os-meios-de-pagamento-do-seller-white-label-para-o-marketplace--bfvtPzZyikacSqgkgeGW).
 
-![Afiliación1](//images.ctfassets.net/alneenqid6w5/4e8047JCOgEoswkj280gI5/421b393c522456e882ceaed27f73cb8c/Afiliados2.png)
+![Afiliación1](https://images.ctfassets.net/alneenqid6w5/4e8047JCOgEoswkj280gI5/421b393c522456e882ceaed27f73cb8c/Afiliados2.png)
 
 El split de transacción tiene algunas limitaciones que deben tomarse en cuenta.
 

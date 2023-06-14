@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: controle-search-navigator
+locale: pt
 legacySlug: controle-search-navigator
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

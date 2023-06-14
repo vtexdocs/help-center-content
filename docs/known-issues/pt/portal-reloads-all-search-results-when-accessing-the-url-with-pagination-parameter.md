@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: o-portal-recarrega-todos-os-resultados-da-busca-ao-acessar-a-url-com-parametro-de-paginacao
+locale: pt
 kiStatus: Backlog
 internalReference: 342378
 ---

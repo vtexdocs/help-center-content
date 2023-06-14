@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: monitoreo-de-rutas
+locale: es
 legacySlug: monitoreo-de-rutas
 subcategory: 6a36lWUX5znjBVYTrfc29x
 ---

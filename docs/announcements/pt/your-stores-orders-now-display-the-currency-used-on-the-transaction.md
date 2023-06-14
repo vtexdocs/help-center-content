@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: authors_41
 slug: os-pedidos-da-sua-loja-agora-tem-informacao-da-moeda-usada-na-transacao
+locale: pt
 legacySlug: os-pedidos-da-sua-loja-agora-tem-informacao-da-moeda-usada-na-transacao
 announcementImageID: ''
 announcementSynopsisPT: 'A partir de 26/12/2018, você vai poder identificar com facilidade a moeda e o país de origem de todos os pedidos.'

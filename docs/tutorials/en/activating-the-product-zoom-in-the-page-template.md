@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: activating-the-product-zoom-in-the-page-template
+locale: en
 legacySlug: activating-the-product-zoom-in-the-page-template
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

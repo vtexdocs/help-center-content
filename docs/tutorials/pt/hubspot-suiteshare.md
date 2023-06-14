@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: hubspot-suiteshare
+locale: pt
 legacySlug: hubspot-suiteshare
 subcategory: 4y4ylvqceE6vVqEF8IWZix
 ---
@@ -22,11 +23,11 @@ Para realizar a integração, utilize uma das duas formas abaixo:
 
 1. No dashboard, clique em **Ver todas integrações** e em **HubSpot**.
 
-   ![HubSpot_Suiteshare_1](//images.ctfassets.net/alneenqid6w5/6ohwamJ0xsLQsxtuTZrrxA/affa4804ec1386284ac220a82ec6622a/HubSpot_Suiteshare_1.png)
+   ![HubSpot_Suiteshare_1](https://images.ctfassets.net/alneenqid6w5/6ohwamJ0xsLQsxtuTZrrxA/affa4804ec1386284ac220a82ec6622a/HubSpot_Suiteshare_1.png)
 
 2. Acesse **Configurações > Integrações > HubSpot > Integrar**.
 
-   ![CRM Zen_2](//images.ctfassets.net/alneenqid6w5/5Q1v1x7pR9DaaavNtDLIkh/017737adacef1737787ce533f3898f20/CRM_Zen_2.png)
+   ![CRM Zen_2](https://images.ctfassets.net/alneenqid6w5/5Q1v1x7pR9DaaavNtDLIkh/017737adacef1737787ce533f3898f20/CRM_Zen_2.png)
 
 Selecione a Hubspot e clique em _**“integrar”**_
 

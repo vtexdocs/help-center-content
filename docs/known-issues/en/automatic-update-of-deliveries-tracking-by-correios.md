@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_4
 tag: Order Management
 slug: automatic-update-of-deliveries-tracking-by-correios
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

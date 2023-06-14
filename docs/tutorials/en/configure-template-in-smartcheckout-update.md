@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_84
 slug: configure-template-in-smartcheckout-update
+locale: en
 legacySlug: configure-template-in-smartcheckout-update
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---
@@ -36,11 +37,11 @@ Each registered site corresponds to a multidomain (if the account has contracted
 
 Creation of the new website:
 
-![en.smartcheckout1](//images.ctfassets.net/alneenqid6w5/3AYhqb6FiwUChorOlxafDS/4d675c4f1310ba14a041f36ee49911ee/en.smartcheckout1.png)
+![en.smartcheckout1](https://images.ctfassets.net/alneenqid6w5/3AYhqb6FiwUChorOlxafDS/4d675c4f1310ba14a041f36ee49911ee/en.smartcheckout1.png)
 
 Account Name Access:
 
- ![en.smartcheckout2](//images.ctfassets.net/alneenqid6w5/rm9LNEvgCOJvKAWpGf5XI/f520942d072cd958262f4c9961e7d9d7/en.smartcheckout2.png)
+ ![en.smartcheckout2](https://images.ctfassets.net/alneenqid6w5/rm9LNEvgCOJvKAWpGf5XI/f520942d072cd958262f4c9961e7d9d7/en.smartcheckout2.png)
 
 ## Editing and configuring website 
 
@@ -55,14 +56,14 @@ Account Name Access:
    - __Pages__: display existing pages for the website.
 
 Example of existing sites in the same account:
-![EN Cards Portal](//images.ctfassets.net/alneenqid6w5/3PYf4oomjW0HmBznIBYi2N/2e81a23b6f03bcb847fd7407baf58c1a/EN_Cards_Portal.png)
+![EN Cards Portal](https://images.ctfassets.net/alneenqid6w5/3PYf4oomjW0HmBznIBYi2N/2e81a23b6f03bcb847fd7407baf58c1a/EN_Cards_Portal.png)
 
 Example of available pages for a website:
-![en.smartcheckout3](//images.ctfassets.net/alneenqid6w5/2PxJMMiYwBshQTFDnXToDB/b173e24b993d3896c40c06de20683dea/en.smartcheckout3.png)
+![en.smartcheckout3](https://images.ctfassets.net/alneenqid6w5/2PxJMMiYwBshQTFDnXToDB/b173e24b993d3896c40c06de20683dea/en.smartcheckout3.png)
 
 If you want to __delete__ a site, click on the delete button for the desired site, as in the example below:
 
-![en.smartcheckout5](//images.ctfassets.net/alneenqid6w5/1L3XIITqW0hUMRb9kCRU65/020a02fc80da75fbf27794714b6d7c2c/en.smartcheckout5.png)
+![en.smartcheckout5](https://images.ctfassets.net/alneenqid6w5/1L3XIITqW0hUMRb9kCRU65/020a02fc80da75fbf27794714b6d7c2c/en.smartcheckout5.png)
 
 We'll now have a more in-depth look at the following options menu settings: __Code__ and __Checkout__, being responsible for configuring the pages *checkout* and *order placed* pages.
 
@@ -79,7 +80,7 @@ We'll now have a more in-depth look at the following options menu settings: __Co
   <li><b>Calculation of Delivery Options (Beta and Stable)</b>: select whether the freight calculation will be done from the spreadsheet or by geolocation.</li>
   </ul>
 
-![en.smartcheckout6](//images.ctfassets.net/alneenqid6w5/2aSyfs2iSk8k282tzvD5ad/2134352be985fe4f527ffd65f87cb7c7/en.smartcheckout6.png)
+![en.smartcheckout6](https://images.ctfassets.net/alneenqid6w5/2aSyfs2iSk8k282tzvD5ad/2134352be985fe4f527ffd65f87cb7c7/en.smartcheckout6.png)
 
 ## Configure code
 
@@ -89,7 +90,7 @@ We'll now have a more in-depth look at the following options menu settings: __Co
 
 Example:
 
-![en.smartcheckout7](//images.ctfassets.net/alneenqid6w5/1x7W9GEAPhuX48I1iEQghm/ec00ebd04a4326d63182dd58acacc202/en.smartcheckout7.png)
+![en.smartcheckout7](https://images.ctfassets.net/alneenqid6w5/1x7W9GEAPhuX48I1iEQghm/ec00ebd04a4326d63182dd58acacc202/en.smartcheckout7.png)
 
 ### Configuring templates from the "Code" menu
 
@@ -109,27 +110,27 @@ Below are examples of how the codes present in the __checkout-header__, __checko
 
 - Template __checkout-header__ and website page header:
 
-![en.smartcheckout10](//images.ctfassets.net/alneenqid6w5/2wkWd5eLmhEjF0qrtYt09O/639eefb3539d9ceac3483cb36ce1daf6/en.smartcheckout10.png) 
+![en.smartcheckout10](https://images.ctfassets.net/alneenqid6w5/2wkWd5eLmhEjF0qrtYt09O/639eefb3539d9ceac3483cb36ce1daf6/en.smartcheckout10.png) 
 
-![en.smartcheckout11](//images.ctfassets.net/alneenqid6w5/wE8y5BGPJ98vqY5uWBK88/0a357d212ba62e0627dd2348bd6c56de/en.smartcheckout11.png)
+![en.smartcheckout11](https://images.ctfassets.net/alneenqid6w5/wE8y5BGPJ98vqY5uWBK88/0a357d212ba62e0627dd2348bd6c56de/en.smartcheckout11.png)
 
 - Template __checkout-footer__ and website page footer:
 
-![en.smartcheckout8](//images.ctfassets.net/alneenqid6w5/SWI577sEU85XKjwtAOURD/4a6c0cf38aa2c80666eb972ed9ca3528/en.smartcheckout8.png)
+![en.smartcheckout8](https://images.ctfassets.net/alneenqid6w5/SWI577sEU85XKjwtAOURD/4a6c0cf38aa2c80666eb972ed9ca3528/en.smartcheckout8.png)
 
- ![en.smartcheckout9](//images.ctfassets.net/alneenqid6w5/6ntrDKAHUd6l9dfopU63Z7/d870b01102fd965c76c530279dbc1654/en.smartcheckout9.png)
+ ![en.smartcheckout9](https://images.ctfassets.net/alneenqid6w5/6ntrDKAHUd6l9dfopU63Z7/d870b01102fd965c76c530279dbc1654/en.smartcheckout9.png)
 
 - Template __vtex-checkout__ and cart page at Checkout:
 
-![en.smartcheckout12](//images.ctfassets.net/alneenqid6w5/3eQbQDODquTDApkbuMZeik/7b692e4dac58e13e41578263a1e739ac/en.smartcheckout12.png) 
+![en.smartcheckout12](https://images.ctfassets.net/alneenqid6w5/3eQbQDODquTDApkbuMZeik/7b692e4dac58e13e41578263a1e739ac/en.smartcheckout12.png) 
 
-![en.smartcheckout13](//images.ctfassets.net/alneenqid6w5/241khOdkptYYcD9wLqd3Xk/db163752009b17887990cd4272541e89/en.smartcheckout13.png)
+![en.smartcheckout13](https://images.ctfassets.net/alneenqid6w5/241khOdkptYYcD9wLqd3Xk/db163752009b17887990cd4272541e89/en.smartcheckout13.png)
 
 - Template __vtex-orderPlaced__ and confirmed order page:
 
-![en.smartcheckout18](//images.ctfassets.net/alneenqid6w5/3bYwEo8B9sI9IEw024oIvi/df9818cfec61bbfc5847dbbbfd611b98/en.smartcheckout18.png)
+![en.smartcheckout18](https://images.ctfassets.net/alneenqid6w5/3bYwEo8B9sI9IEw024oIvi/df9818cfec61bbfc5847dbbbfd611b98/en.smartcheckout18.png)
 
-![en.smartcheckout19](//images.ctfassets.net/alneenqid6w5/34ypWrIjyTvUf1GZJP8YpC/49b3c81844d0543664af9104b1e985d8/en.smartcheckout19.png)
+![en.smartcheckout19](https://images.ctfassets.net/alneenqid6w5/34ypWrIjyTvUf1GZJP8YpC/49b3c81844d0543664af9104b1e985d8/en.smartcheckout19.png)
 
 ### Multi-domain accounts
 

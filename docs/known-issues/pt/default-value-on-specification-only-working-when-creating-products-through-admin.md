@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: valor-padrao-na-especificacao-so-funciona-quando-se-cria-produtos-atraves-de-admin
+locale: pt
 kiStatus: Backlog
 internalReference: 550097
 ---

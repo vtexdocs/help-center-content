@@ -9,6 +9,7 @@ firstPublishedAt: 2018-08-13T14:27:50.859Z
 contentType: trackArticle
 productTeam: Channels
 slug: mapear-categorias-y-atributos-de-los-productos-para-mercado-libre-mapper
+locale: es
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugES: configurar-integracion-con-mercado-libre
 ---
@@ -26,7 +27,7 @@ Tus productos deben tener el <a href="https://help.vtex.com/es/tutorial/estoque-
 
 ## Mapear categorías
 
-Para acceder a la página de mapeo, debes ir a Admin *MARKETPLACE > Integraciones > Configuración* y en la tarjeta de integración con Mercado Libre seleccionar el ícono de engranaje <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" /> y hacer clic en la opción `Realizar mapeo`.
+Para acceder a la página de mapeo, debes ir a Admin *MARKETPLACE > Integraciones > Configuración* y en la tarjeta de integración con Mercado Libre seleccionar el ícono de engranaje <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" /> y hacer clic en la opción `Realizar mapeo`.
 
 Se te redirigirá a la página de mapeo de Mercado Libre que mostrará una lista con las categorías de tu tienda VTEX. El mapeo de categorías permite que haya una correspondencia entre las categorías de tu tienda y las categorías de Mercado Libre. Así, los productos enviados se mostrarán en la categoría equivalente en Mercado Libre.
 
@@ -36,10 +37,10 @@ La lista de categorías de tu tienda VTEX incluye el status del mapeo a través 
 
 | Icono | Status | Descripción |
 | ---------- | ---------- | ---------- | 
-| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6Ry65cPvgGmChmE3RipFio/deec73c3e429f63dfa8971ae8c848221/mapeado_mapper.JPG" /> | **Mapeado**| Indica que se completó el mapeo de la categoría. | 
-| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6v4eFsWHVy8F5VIqTVLQD9/e63d945d60a958a37246f57d919eede8/mapeamentoincompleto_mapper.JPG" /> | **Mapeo incompleto** | La categoría está parcialmente mapeada y requiere que se rellenen los atributos obligatorios, indicados con un asterisco, para mapearla. | 
-| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/lsN6TxCm1e6frHvIQ8xjt/491ad1e6d99ab858e2a76d0ea31e1a39/erromapeamento_mapper.JPG" /> | **Error en el mapeo** | Se produce un error en el mapeo cuando el marketplace elimina o cambia la categoría del producto.  Para resolver este problema, solo hay que rehacer el mapeo de categorías. | 
-| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/3nVJUJHetaqPHThGGpoG8T/d7f667b269105a5c65aa7b16b1aace21/incompleto_mapper.JPG" /> | **No mapeada** | Indica que la categoría no fue mapeada. |
+| <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/6Ry65cPvgGmChmE3RipFio/deec73c3e429f63dfa8971ae8c848221/mapeado_mapper.JPG" /> | **Mapeado**| Indica que se completó el mapeo de la categoría. | 
+| <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/6v4eFsWHVy8F5VIqTVLQD9/e63d945d60a958a37246f57d919eede8/mapeamentoincompleto_mapper.JPG" /> | **Mapeo incompleto** | La categoría está parcialmente mapeada y requiere que se rellenen los atributos obligatorios, indicados con un asterisco, para mapearla. | 
+| <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/lsN6TxCm1e6frHvIQ8xjt/491ad1e6d99ab858e2a76d0ea31e1a39/erromapeamento_mapper.JPG" /> | **Error en el mapeo** | Se produce un error en el mapeo cuando el marketplace elimina o cambia la categoría del producto.  Para resolver este problema, solo hay que rehacer el mapeo de categorías. | 
+| <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/3nVJUJHetaqPHThGGpoG8T/d7f667b269105a5c65aa7b16b1aace21/incompleto_mapper.JPG" /> | **No mapeada** | Indica que la categoría no fue mapeada. |
 
 La página de mapeo también contiene las secciones **Categoría del marketplace** y **Mapeo de atributos**. Ambas aparecen como una opción de menú de selección en el que si se hace clic sobre la flecha, se muestran nuevos campos e información.
 
@@ -47,7 +48,7 @@ Para realizar el mapeo de categorías:
 
 1. Accede al Admin.
 2. En el módulo Marketplace, seleccione **Integraciones** y haz clic en `Configuración`.
-3. En la tarjeta de Mercado Libre, haz clic en el ícono de engranaje <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
+3. En la tarjeta de Mercado Libre, haz clic en el ícono de engranaje <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
 4. Selecciona la opción `Realizar mapeo`. Se abrirá una nueva ventana con la página de mapeo.
 5. En la sección **Categorías de la tienda**, elige la categoría que deseas mapear.
 6. En la sección **Categoría del marketplace**, selecciona la categoría correspondiente en el marketplace del producto que deseas enviar.  
@@ -56,7 +57,7 @@ Para finalizar el mapeo de la categoría, debes seguir las instrucciones a conti
 
 ## Mapear atributos
 
-![Home (8)](//images.ctfassets.net/alneenqid6w5/1WVspX796PMYQcgOycbhVC/5de9a1c9a262f8556b2eb82b9fd6cf20/Home__8_.gif)
+![Home (8)](https://images.ctfassets.net/alneenqid6w5/1WVspX796PMYQcgOycbhVC/5de9a1c9a262f8556b2eb82b9fd6cf20/Home__8_.gif)
 
 El mapeo de los atributos permite que haya una correspondencia entre el patrón de tu tienda VTEX y el patrón utilizado por Mercado Libre. Cada categoría tiene atributos obligatorios en Mercado Libre y es necesario rellenarlos para que el mapeo pueda completarse. Los campos no mapeados no impiden que se realice el mapeo, sin embargo, mientras más atributos de tu producto se envíen a Mercado Libre, mejor clasificado estará en ese marketplace.
 
@@ -64,7 +65,7 @@ Para mapear los atributos, sigue los pasos a continuación:
 
 1. Accede al Admin.
 2. En el módulo Marketplace, seleccione **Integraciones** y haz clic en `Configuración`.
-3. En la tarjeta de Mercado Libre, haz clic en el ícono de engranaje <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
+3. En la tarjeta de Mercado Libre, haz clic en el ícono de engranaje <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
 4. Selecciona la opción `Realizar mapeo`. Se abrirá una nueva ventana con la página de mapeo.
 5. En la sección **Mapeo de atributos**, rellena los campos con los atributos que deseas mapear (el asterisco indica que es obligatorio).
 6. Si has rellenado los atributos *Color* o *Tamaño*, en la columna Valores de atributo, haz clic en el "`Color/Tamaño`" equivalente y selecciona la opción de valor correspondiente.
@@ -87,7 +88,7 @@ Para agregar una tabla de medidas personalizada, debes seguir los pasos a contin
 
 1. Accede al Admin VTEX.
 2. En el *MARKETPLACE*, selecciona la opción **Integraciones** y haz clic en `Configuración`.
-3. En el recuadro de Mercado Libre, haz clic en el ícono de engranaje <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
+3. En el recuadro de Mercado Libre, haz clic en el ícono de engranaje <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
 4. Selecciona la opción `Realizar mapeo`. Se abrirá una nueva ventana con la interfaz de mapeo.
 5. En la sección **Tabla de medidas**, haz clic en el ícono `+`.
 6. Selecciona la opción *Tabla personalizada*.
@@ -137,7 +138,7 @@ Luego de completar la plantilla de mapeo, cárgala:
 
 1. Accede al Admin VTEX.
 2. En el *MARKETPLACE*, selecciona la opción **Integraciones** y haz clic en `Configuración`.
-3. En el recuadro de Mercado Libre, haz clic en el ícono de engranaje <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
+3. En el recuadro de Mercado Libre, haz clic en el ícono de engranaje <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
 4. Selecciona la opción `Realizar mapeo`. Se abrirá una nueva ventana con la interfaz de mapeo.
 5. En la sección **Tabla de medidas**, haz clic en el ícono `+`.
 6. Selecciona la opción *Tabla personalizada*.

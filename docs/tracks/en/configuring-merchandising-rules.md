@@ -9,6 +9,7 @@ firstPublishedAt: 2020-04-15T00:39:30.807Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: configuring-merchandising-rules
+locale: en
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search
 ---

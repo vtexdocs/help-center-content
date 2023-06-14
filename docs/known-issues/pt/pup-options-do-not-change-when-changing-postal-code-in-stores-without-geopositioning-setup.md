@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: as-opcoes-de-pup-nao-mudam-ao-trocar-o-codigo-postal-nas-lojas-sem-configuracao-de-geoposicionamento
+locale: pt
 kiStatus: Fixed
 internalReference: 648604
 ---

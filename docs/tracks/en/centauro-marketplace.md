@@ -9,6 +9,7 @@ firstPublishedAt: 2020-10-20T14:23:14.172Z
 contentType: trackArticle
 productTeam: Channels
 slug: centauro-marketplace
+locale: en
 trackId: D8Qnjbr5lfLkUfMRhsfbj
 trackSlugEN: centauro-integration
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2021-04-15T17:41:14.352Z
 contentType: trackArticle
 productTeam: Channels
 slug: defining-the-google-shopping-trade-policy
+locale: en
 trackId: 25Sl7iOqq58PGfVfTAo8Xw
 trackSlugEN: integrating-with-google-shopping
 ---

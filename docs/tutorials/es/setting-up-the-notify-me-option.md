@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: configurar-la-opcion-avisame
+locale: es
 legacySlug: configurar-el-aviseme
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
@@ -22,7 +23,7 @@ Cuando no hay [stock](https://help.vtex.com/es/tutorial/gestionar-items-en-inven
 
 A continuación, puedes ver un ejemplo de cómo se visualiza la opción **Avísame** en una tienda. Para recibir una notificación cuando el ítem esté disponible para la venta, el cliente debe ingresar su nombre e email en los campos resaltados y luego hacer clic en el botón `Enviar`.
 
-![aviseme-es](//images.ctfassets.net/alneenqid6w5/AuBR53LGxrJC0abAyzsIp/a00bc93c8475050d5861859016a8915c/Group_2__2_.png)
+![aviseme-es](https://images.ctfassets.net/alneenqid6w5/AuBR53LGxrJC0abAyzsIp/a00bc93c8475050d5861859016a8915c/Group_2__2_.png)
 
 En cuanto el ítem ingrese de nuevo al stock de la tienda, el sistema envía automáticamente un email al cliente informándo le que el producto ya está disponible para la compra. 
 

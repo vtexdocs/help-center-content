@@ -11,6 +11,7 @@ productTeam: Cloud Services
 author: 2mXZkbi0oi061KicTExNjo
 tag: Cloud Services
 slug: este-e-um-teste
+locale: pt
 kiStatus: No Fix
 internalReference: 741722
 ---

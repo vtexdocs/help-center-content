@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 slug: how-to-set-up-multiple-accounts-in-the-mercado-livre-integration
+locale: en
 legacySlug: 
 ---
 

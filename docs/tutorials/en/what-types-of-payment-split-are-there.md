@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: what-types-of-payment-split-are-there
+locale: en
 legacySlug: what-types-of-payment-split-are-there
 subcategory: 5tlIjp0ZkAU4EIk4OgyEmm
 ---

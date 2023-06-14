@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 30TBnJ838LXSZvdJFlcB8H
 tag: Checkout
 slug: no-es-posible-anadir-un-item-con-anexo-al-carrito-si-ya-existe-otra-unidad
+locale: es
 kiStatus: Backlog
 internalReference: 412041
 ---

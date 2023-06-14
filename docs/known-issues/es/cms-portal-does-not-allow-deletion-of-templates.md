@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: portal-cms-no-permite-la-exclusion-de-templates
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

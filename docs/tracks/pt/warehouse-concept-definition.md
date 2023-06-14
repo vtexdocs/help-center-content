@@ -9,6 +9,7 @@ firstPublishedAt: 2019-10-21T12:47:09.524Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: estoque-definicao-de-conceito
+locale: pt
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugPT: logistica-101
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: a-entrega-programada-pode-apresentar-um-preco-incorreto-ao-alternar-entre-a-entrega-e-a-programada
+locale: pt
 kiStatus: Backlog
 internalReference: 770250
 ---

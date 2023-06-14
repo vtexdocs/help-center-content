@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_35
 slug: how-to-create-the-script-customization-file-for-vtex-instore
+locale: en
 legacySlug: how-to-create-the-script-customization-file-for-vtex-instore
 subcategory: 4T6qfa6gNO6g4sAUIa6s2G
 ---

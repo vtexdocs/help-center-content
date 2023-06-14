@@ -9,6 +9,7 @@ firstPublishedAt: 2018-03-15T21:33:22.835Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configurar-permissao-de-acesso-dos-vendedores-ao-instore
+locale: pt
 trackId: 
 trackSlugPT: 
 ---

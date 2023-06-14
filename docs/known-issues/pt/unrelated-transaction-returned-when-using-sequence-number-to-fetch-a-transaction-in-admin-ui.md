@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: transacao-nao-relacionada-retornada-quando-se-usa-o-numero-sequencial-para-buscar-uma-transacao-na-interface-administrativa
+locale: pt
 kiStatus: Backlog
 internalReference: 503446
 ---

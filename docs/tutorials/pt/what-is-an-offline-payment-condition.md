@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: o-que-e-uma-condicao-de-pagamento-offline
+locale: pt
 legacySlug: o-que-e-uma-condicao-de-pagamento-offline
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

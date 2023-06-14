@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: incorrect-address-format-on-the-my-cards-billing-addresses
+locale: en
 kiStatus: Backlog
 internalReference: 791779
 ---

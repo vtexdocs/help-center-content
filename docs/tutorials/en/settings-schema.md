@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 5dYWGfGKUwkI86Gomk6AcQ
 slug: settings-schema
+locale: en
 legacySlug: settings-schema
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

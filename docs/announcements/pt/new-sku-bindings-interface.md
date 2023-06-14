@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: nova-interface-para-vinculos-de-sku
+locale: pt
 legacySlug: nova-interface-para-vinculos-de-sku
 announcementImageID: ''
 announcementSynopsisPT: 'Redesenhamos a página Vínculos de SKU para facilitar o gerenciamento da relação entre os SKUs de sellers e marketplaces.'
@@ -18,7 +19,7 @@ A VTEX possibilita que a sua loja atue tanto como [seller](https://help.vtex.com
 
 Para aprimorar essa experiência, redesenhamos a página de **Vínculos de SKU** no Admin VTEX. A nova interface permite acompanhar e gerenciar a relação de vínculo entre os SKUs do seller e do marketplace de forma mais simples e ágil.
 
-![sku_binding_page_PT_final](//images.ctfassets.net/alneenqid6w5/3TrV8m2JLKuPjhKTtkY2Yl/5b8897408601d49051d35dd5364c2a8e/sku_binding_page_PT_final.png)
+![sku_binding_page_PT_final](https://images.ctfassets.net/alneenqid6w5/3TrV8m2JLKuPjhKTtkY2Yl/5b8897408601d49051d35dd5364c2a8e/sku_binding_page_PT_final.png)
 
 ## O que mudou?
 

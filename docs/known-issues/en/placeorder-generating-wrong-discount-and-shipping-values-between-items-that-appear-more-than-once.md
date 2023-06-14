@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: placeorder-generating-wrong-discount-and-shipping-values-between-items-that-appear-more-than-once
+locale: en
 kiStatus: Backlog
 internalReference: 732529
 ---

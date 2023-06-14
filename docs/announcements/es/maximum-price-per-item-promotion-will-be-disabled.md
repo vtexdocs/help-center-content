@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 
 slug: promoción-del-tipo-precio-maximo-por-articulo-dejara-de-existir
+locale: es
 legacySlug: promoción-del-tipo-precio-maximo-por-articulo-dejara-de-existir
 announcementImageID: ''
 announcementSynopsisES: ''

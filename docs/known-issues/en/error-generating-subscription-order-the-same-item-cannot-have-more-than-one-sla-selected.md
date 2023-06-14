@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: error-generating-subscription-order-the-same-item-cannot-have-more-than-one-sla-selected
+locale: en
 kiStatus: Backlog
 internalReference: 658185
 ---

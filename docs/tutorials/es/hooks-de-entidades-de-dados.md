@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_64
 slug: utilizando-hooks-de-entidades-de-datos
+locale: es
 legacySlug: utilizando-hooks-de-entidades-de-datos
 subcategory: 
 ---

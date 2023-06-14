@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: integrar-com-a-amazon
+locale: pt
 legacySlug: integrar-com-a-amazon
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

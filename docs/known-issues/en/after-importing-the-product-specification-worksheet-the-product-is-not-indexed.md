@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: after-importing-the-product-specification-worksheet-the-product-is-not-indexed
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

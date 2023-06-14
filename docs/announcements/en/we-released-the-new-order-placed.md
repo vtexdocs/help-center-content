@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: authors_24
 slug: we-released-the-new-order-placed
+locale: en
 legacySlug: we-released-the-new-order-placed
 announcementImageID: ''
 announcementSynopsisEN: 'The new version of the order confirmation page is now available'

@@ -11,6 +11,7 @@ productTeam: Financial
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Payments
 slug: nao-pode-pagar-com-mercadopago-redirect-e-vale-no-carrinho-com-produto
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

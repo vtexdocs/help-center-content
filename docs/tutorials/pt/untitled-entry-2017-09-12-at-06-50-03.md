@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 
 slug: vtex-io-sumario
+locale: pt
 legacySlug: vtex-io-sumario
 subcategory: 
 ---

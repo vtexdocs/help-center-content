@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 245tA425AIeioKAk2eaiwS
 slug: que-es-el-store-name
+locale: es
 legacySlug: que-es-el-store-name
 subcategory: yMp6sKDiJEi66CGAIQ4ma
 ---

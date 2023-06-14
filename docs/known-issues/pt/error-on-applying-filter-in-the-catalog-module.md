@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_31
 tag: Catalog
 slug: erro-admin-aplicar-filtro-modulo-e-commerce
+locale: pt
 kiStatus: Fixed
 internalReference: 
 ---

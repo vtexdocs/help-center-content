@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: setting-up-the-category-field-type
+locale: en
 legacySlug: setting-up-the-category-field-type
 subcategory: 1E7tziZCkY4w8i4EmUuwec
 ---

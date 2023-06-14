@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: indexacao-otimizada-mais-eficiencia-para-operacoes-omnichannel
+locale: pt
 legacySlug: indexacao-otimizada-mais-eficiencia-para-operacoes-omnichannel
 announcementImageID: ''
 announcementSynopsisPT: 'A indexação otimizada possibilita operações omnichannel complexas, com redução de custos e tempo de processamento.'

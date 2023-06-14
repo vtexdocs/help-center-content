@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: magalu-pedido-no-creado-en-oms-y-sin-registro-en-bridge
+locale: es
 kiStatus: Backlog
 internalReference: 667547
 ---

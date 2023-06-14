@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: como-validar-um-layout-antes-de-ir-para-producao
+locale: pt
 legacySlug: como-validar-um-layout-antes-de-ir-para-producao
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

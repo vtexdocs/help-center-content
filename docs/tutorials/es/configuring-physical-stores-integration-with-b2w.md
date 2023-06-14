@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: configurar-la-integracion-de-tiendas-fisicas-con-b2w
+locale: es
 legacySlug: configurar-la-integracion-de-tiendas-fisicas-con-b2w-skyhub
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

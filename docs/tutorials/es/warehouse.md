@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: almacen
+locale: es
 legacySlug: almacen
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---
@@ -19,7 +20,7 @@ Para la plataforma VTEX, el almacén es la identificación del espacio de almace
 
 Es importante prestar atención a la etapa logística del almacén y al modo en que la configuración de la plataforma VTEX influye en la entrega de los pedidos. Del almacén salen los pedidos a los muelles, y en los muelles los recogen las transportadoras. 
 
-![EstrategiaEnvio_ES](//images.ctfassets.net/alneenqid6w5/91iqVknOpCjUKO1XQaYvq/ed9784e5cbc67a42358ad4f37c3baa00/Frame_2__2_.svg)
+![EstrategiaEnvio_ES](https://images.ctfassets.net/alneenqid6w5/91iqVknOpCjUKO1XQaYvq/ed9784e5cbc67a42358ad4f37c3baa00/Frame_2__2_.svg)
 
 <div class="alert alert-info">
 La transportadora que llevará a cabo la entrega de un determinado pedido es definida por la <a href="https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140">política de envío</a>. Para que una transportadora sea elegida para efectuar la entrega del pedido, es necesario que la política de envío de esa transportadora cumpla con las condiciones necesarias para la entrega del pedido. La política de envío está vinculada al almacén por el muelle.

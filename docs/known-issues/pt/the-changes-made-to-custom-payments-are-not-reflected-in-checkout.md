@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: as-mudancas-feitas-nos-pagamentos-personalizados-nao-se-refletem-no-checkout
+locale: pt
 kiStatus: Backlog
 internalReference: 276250
 ---

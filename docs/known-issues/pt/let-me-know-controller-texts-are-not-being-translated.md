@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: os-textos-do-controle-avise-me-nao-estao-sendo-traduzidos
+locale: pt
 kiStatus: Backlog
 internalReference: 517165
 ---

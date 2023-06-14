@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: la-orden-de-cambio-a-traves-de-la-ui-no-tiene-en-cuenta-el-calculo-de-las-promociones-toma-3-paga-2
+locale: es
 kiStatus: Backlog
 internalReference: 472882
 ---

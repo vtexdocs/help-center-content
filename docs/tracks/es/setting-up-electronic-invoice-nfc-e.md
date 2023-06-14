@@ -9,6 +9,7 @@ firstPublishedAt: 2018-06-25T22:40:47.613Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configurar-impresion-de-factura-de-consumidor-electronica-nfc-e
+locale: es
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugES: instore-setup
 ---

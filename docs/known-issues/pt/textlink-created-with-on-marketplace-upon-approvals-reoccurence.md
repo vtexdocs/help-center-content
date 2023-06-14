@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: link-de-texto-criado-com-no-marketplace-apos-as-aprovacoes-reocorrencia
+locale: pt
 kiStatus: Backlog
 internalReference: 795900
 ---

@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: filters-hide-scenarios-internals-and-usability
+locale: en
 kiStatus: Backlog
 internalReference: 416638
 ---

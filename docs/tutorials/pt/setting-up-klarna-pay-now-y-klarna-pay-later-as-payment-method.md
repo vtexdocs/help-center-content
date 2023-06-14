@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: configure-klarna-pay-now-e-klarna-pay-later-como-meio-de-pagamento
+locale: pt
 legacySlug: configure-klarna-pay-now-e-klarna-pay-later-como-meio-de-pagamento
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

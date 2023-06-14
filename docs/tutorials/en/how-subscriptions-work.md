@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: how-subscriptions-work
+locale: en
 legacySlug: how-a-subscription-works
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
@@ -20,7 +21,7 @@ Your customers indicate how often they want to repeat the purchase of a specific
 
 For VTEX, a subscription consists of an SKU list that is linked to a specific purchase configuration. All management operations are based on the Subscription entity, which contains all the necessary information to generate a recurring order. The diagram below illustrates the subscription concept:
 
-![img8 subscriptions EN](//images.ctfassets.net/alneenqid6w5/1tNo9gQza7gWuDXZPRxQRO/33a97511d0c48f954b9de33bcad8fa40/img8_subscriptions_EN.png)
+![img8 subscriptions EN](https://images.ctfassets.net/alneenqid6w5/1tNo9gQza7gWuDXZPRxQRO/33a97511d0c48f954b9de33bcad8fa40/img8_subscriptions_EN.png)
 
 Subscription is a simple solution to save your customer's time and to add a scheduled sales flow to your store.
 

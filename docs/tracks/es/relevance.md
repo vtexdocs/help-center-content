@@ -9,6 +9,7 @@ firstPublishedAt: 2020-04-14T23:58:35.468Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: relevancia
+locale: es
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugES: vtex-intelligent-search
 ---
@@ -22,7 +23,7 @@ Hay dos posibles escenarios de configuración de relevancia:
 - **Criterios de prioridad:** es la forma de forzar que uno o más criterios tengan mayor prioridad entre los demás. En esta situación no hay pesos, porque todos los productos que tienen esta característica se presentarán primero en el resultado de la búsqueda.
 - **Composición de criterios:** es la forma de distribuir los pesos de cada opción, que van de 0 a 10. Aquí no hay un orden entre los criterios, serán los pesos los que definan la relevancia.
 
-![regras-relevancia-1-ES](//images.ctfassets.net/alneenqid6w5/pWaOZBllEtnkrAxc2kEdJ/cb3cb591c460e22adfcfdcb210443d39/Captura_de_Tela_2022-03-25_a__s_15.24.26.png)
+![regras-relevancia-1-ES](https://images.ctfassets.net/alneenqid6w5/pWaOZBllEtnkrAxc2kEdJ/cb3cb591c460e22adfcfdcb210443d39/Captura_de_Tela_2022-03-25_a__s_15.24.26.png)
 
 La información aplicada para establecer la relevancia es:
 
@@ -97,5 +98,5 @@ Para cambiar la configuración de Reglas de relevancia, sigue los pasos a contin
 2. En **Intelligent Search**, haz clic en **Reglas de relevancia**.
 3. Escoge el criterio cuyo peso deseas cambiar.
 4. Haz clic en los íconos <i class="fas fa-minus"></i> o <i class="fas fa-plus"></i> para definir el número deseado. Si deseas cambiar la posición de un criterio de **Composición de criterios** a **Criterios de prioridad**, solo tienes que arrastrarlo por el ícono <i class="fas fa-grip-vertical"></i> a la parte superior según se muestra aquí. Ten en cuenta que cuando el criterio cambia a criterio de prioridad, no se le puede cambiar el peso.
-![regras-relevancia-ES](//images.ctfassets.net/alneenqid6w5/iZze1vchSYf9lLFJnfwiT/1c19ad405d3fe291a14626849c805309/regras-relevancia-ES.gif)
+![regras-relevancia-ES](https://images.ctfassets.net/alneenqid6w5/iZze1vchSYf9lLFJnfwiT/1c19ad405d3fe291a14626849c805309/regras-relevancia-ES.gif)
 5. Para terminar, haz clic en  `Guardar`.

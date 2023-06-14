@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: como-criar-promocao-com-limitacao-de-uso
+locale: pt
 legacySlug: como-criar-promocao-com-limitacao-de-uso
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

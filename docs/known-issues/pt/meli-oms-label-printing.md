@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: impressao-do-rotulo-meli-oms
+locale: pt
 kiStatus: Backlog
 internalReference: 546542
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2020-07-01T13:10:52.289Z
 contentType: trackArticle
 productTeam: Shopping
 slug: setting-up-instore-as-a-pos
+locale: en
 trackId: 3WGDRRhc3vf1MJb9zGncnv
 trackSlugEN: unified-commerce-strategies
 ---

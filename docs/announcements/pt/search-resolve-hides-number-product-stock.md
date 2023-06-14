@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: search-resolver-oculta-quantidade-produto-estoque
+locale: pt
 legacySlug: search-resolver-oculta-quantidade-produto-estoque
 announcementImageID: ''
 announcementSynopsisPT: 'Para melhorar a privacidade de dados, o search-resolver não exibe mais a quantidade de produtos no estoque'

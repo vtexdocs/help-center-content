@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: textlink-criado-com-caracter-especial
+locale: pt
 kiStatus: Backlog
 internalReference: 537159
 ---

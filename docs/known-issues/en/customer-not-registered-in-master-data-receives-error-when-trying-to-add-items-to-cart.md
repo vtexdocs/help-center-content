@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: customer-not-registered-in-master-data-receives-error-when-trying-to-add-items-to-cart
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

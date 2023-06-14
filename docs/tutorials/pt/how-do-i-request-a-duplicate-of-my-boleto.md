@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Billing
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: como-solicitar-a-segunda-via-do-meu-boleto-de-cobranca
+locale: pt
 legacySlug: como-solicitar-a-segunda-via-do-meu-boleto-de-cobranca
 subcategory: 5ZfsNR4ioEsIyu6wkyce0M
 ---

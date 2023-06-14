@@ -9,6 +9,7 @@ firstPublishedAt: 2020-02-03T23:58:05.663Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-politica-comercial-para-o-mercado-livre
+locale: pt
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugPT: configurar-integracao-do-mercado-livre
 ---

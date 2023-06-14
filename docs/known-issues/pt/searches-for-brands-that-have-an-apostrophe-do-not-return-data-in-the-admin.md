@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: busca-por-marca-com-apostrofo-nao-retorna-dados-no-admin
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: conversation-tracker
+locale: pt
 legacySlug: conversation-tracker
 subcategory: 4D5LrWwlHGmOWMomOaaGee
 ---

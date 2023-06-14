@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: what-is-a-workspace
+locale: en
 legacySlug: what-is-a-workspace
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

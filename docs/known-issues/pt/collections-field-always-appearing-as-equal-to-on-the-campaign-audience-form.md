@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: o-campo-de-colecoes-sempre-aparece-como-igual-a-no-formulario-da-campanha-para-o-publico
+locale: pt
 kiStatus: Backlog
 internalReference: 697168
 ---

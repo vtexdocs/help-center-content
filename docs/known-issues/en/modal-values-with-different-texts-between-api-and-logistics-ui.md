@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: modal-values-with-different-texts-between-api-and-logistics-ui
+locale: en
 kiStatus: Backlog
 internalReference: 775800
 ---

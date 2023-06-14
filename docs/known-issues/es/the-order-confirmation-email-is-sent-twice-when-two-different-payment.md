@@ -11,6 +11,7 @@ productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 tag: Order Management
 slug: el-email-de-confirmacion-del-pedido-se-envia-dos-veces-cuando-se-utilizan
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

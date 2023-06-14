@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: selecao-parcial-da-janela-de-entrega-programada-para-o-mesmo-sla-afetando-o-fluxo-de-compra
+locale: pt
 kiStatus: Backlog
 internalReference: 627261
 ---

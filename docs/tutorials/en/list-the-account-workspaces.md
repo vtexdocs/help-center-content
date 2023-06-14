@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: list-the-account-workspaces
+locale: en
 legacySlug: list-the-account-workspaces
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

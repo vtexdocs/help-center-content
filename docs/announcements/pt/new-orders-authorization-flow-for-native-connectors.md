@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: novo-fluxo-de-autorizacao-de-pedidos-para-conectores-nativos
+locale: pt
 legacySlug: novo-fluxo-de-autorizacao-de-pedidos-para-conectores-nativos
 announcementImageID: ''
 announcementSynopsisPT: 'Pedidos com erro de divergência de valores de conectores nativos agora são processados pelo Gerenciamento de pedidos.'

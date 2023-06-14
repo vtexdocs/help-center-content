@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_59
 slug: omnichannel-conceitos-fundamentais
+locale: pt
 legacySlug: omnichannel-conceitos-fundamentais
 ---
 

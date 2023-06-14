@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:38:27.693Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: registrar-remitente
+locale: es
 trackId: 6IkJwttMw5T84mlY9RifRP
 trackSlugES: e-mails-transaccionales
 ---

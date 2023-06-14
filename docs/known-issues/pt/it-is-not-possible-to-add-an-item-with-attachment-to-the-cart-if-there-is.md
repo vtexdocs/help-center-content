@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 30TBnJ838LXSZvdJFlcB8H
 tag: Checkout
 slug: nao-e-possivel-adicionar-um-item-com-anexo-ao-carrinho-caso-exista-outra
+locale: pt
 kiStatus: Backlog
 internalReference: 412041
 ---

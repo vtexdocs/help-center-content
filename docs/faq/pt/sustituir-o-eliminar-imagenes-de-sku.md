@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 
 slug: sustituir-o-eliminar-imagenes-de-sku
+locale: pt
 legacySlug: sustituir-o-eliminar-imagenes-de-sku
 ---
 

@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_41
 tag: Order Management
 slug: erro-ao-acessar-a-transacao-no-detalhe-do-pedido-novo-admin
+locale: pt
 kiStatus: Fixed
 internalReference: 
 ---

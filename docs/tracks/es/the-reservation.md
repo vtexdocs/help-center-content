@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-18T12:20:12.356Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: la-reserva
+locale: es
 trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugES: pedidos
 ---
@@ -33,7 +34,7 @@ Este es el flujo de reserva en VTEX:
 
  3. Finalmente, una vez que el pedido se encuentra en la etapa de preparación para la entrega, los artículos pasan al estado `Reserva Reconocida`. Este estado indica que el artículo ya no existe en el inventario físico.  
 
-![reservation es](//images.ctfassets.net/alneenqid6w5/3qiFEUNLlkbc403lzwFCdS/31eaafb108b2e75685cc33441f127407/reservation_es.png)
+![reservation es](https://images.ctfassets.net/alneenqid6w5/3qiFEUNLlkbc403lzwFCdS/31eaafb108b2e75685cc33441f127407/reservation_es.png)
 
 <div class="alert alert-warning">
 VTEX no quita automáticamente los artículos del inventario, incluso después de que hayan pasado al estado <code>Reserva Reconocida</code>. Los artículos comprados permanecerán en este estado hasta que el ERP o la tienda los quiten del inventario.

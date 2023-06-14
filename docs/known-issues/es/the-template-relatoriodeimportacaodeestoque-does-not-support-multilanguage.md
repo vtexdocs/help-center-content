@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: la-plantilla-relatoriodeimportacaodeestoque-no-admite-el-multilinguismo
+locale: es
 kiStatus: Backlog
 internalReference: 585906
 ---

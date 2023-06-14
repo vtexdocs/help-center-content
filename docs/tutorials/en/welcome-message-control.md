@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: welcome-message-control
+locale: en
 legacySlug: welcome-message-control
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

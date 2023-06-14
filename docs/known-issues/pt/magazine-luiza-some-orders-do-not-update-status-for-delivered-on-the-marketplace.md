@@ -11,6 +11,7 @@ productTeam: Admin
 author: 2mXZkbi0oi061KicTExNjo
 tag: Admin
 slug: magazine-luiza-alguns-pedidos-nao-atualizam-o-status-de-entrega-no-marketplace
+locale: pt
 kiStatus: Backlog
 internalReference: 827440
 ---

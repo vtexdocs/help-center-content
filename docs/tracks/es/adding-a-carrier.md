@@ -9,6 +9,7 @@ firstPublishedAt: 2019-10-21T12:51:47.591Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: registrar-una-transportadora
+locale: es
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugES: logistica-101
 ---

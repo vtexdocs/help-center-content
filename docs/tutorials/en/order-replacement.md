@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: order-replacement
+locale: en
 legacySlug: allow-to-change-already-closed-orders, how-the-order-replacement-works
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---

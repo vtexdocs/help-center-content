@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: price-variation-limit-only-works-in-the-main-policy
+locale: en
 kiStatus: Backlog
 internalReference: 509540
 ---

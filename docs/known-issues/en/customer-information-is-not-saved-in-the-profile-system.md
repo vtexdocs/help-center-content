@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: customer-information-is-not-saved-in-the-profile-system
+locale: en
 kiStatus: Backlog
 internalReference: 784763
 ---

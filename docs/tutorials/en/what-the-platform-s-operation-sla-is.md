@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: what-the-platform-s-operation-sla-is
+locale: en
 legacySlug: what-the-platform-s-operation-sla-is
 subcategory: 5PYkoNDZyo2G80yiiqG2YW
 ---

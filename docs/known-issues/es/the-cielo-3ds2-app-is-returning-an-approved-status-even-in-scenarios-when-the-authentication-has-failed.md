@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: la-aplicacion-cielo-3ds2-devuelve-un-estado-aprobado-incluso-en-situaciones-en-las-que-la-autenticacion-ha-fallado
+locale: es
 kiStatus: Backlog
 internalReference: 820060
 ---

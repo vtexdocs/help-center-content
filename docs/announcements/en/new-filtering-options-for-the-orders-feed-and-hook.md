@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: new-filtering-options-for-the-orders-feed-and-hook
+locale: en
 legacySlug: new-filtering-options-for-the-orders-feed-and-hook
 announcementImageID: ''
 announcementSynopsisEN: 'It is now possible to filter the orders feed by any attribute, including delivery or changes in items, for example.'

@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: la-division-de-la-entrega-no-se-mostrara-en-la-interfaz-de-usuario-ni-en-mis-pedidos-cuando-el-pedido-tenga-el-mismo-metodo-de-envio
+locale: es
 kiStatus: Backlog
 internalReference: 495352
 ---

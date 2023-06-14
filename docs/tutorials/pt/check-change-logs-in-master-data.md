@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: 5Bd75kMNAzARxg0DCUjwal
 slug: verificar-logs-de-alteracao-no-master-data
+locale: pt
 legacySlug: verificar-logs-de-alteracao-no-master-data
 subcategory: WpbGhubuRZaNZilJSXnqu
 ---

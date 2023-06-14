@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: o-cms-permite-a-criacao-mas-nao-a-edicao-de-pastas-com-os-mesmos-nomes-que-as-pastas-padrao
+locale: pt
 kiStatus: Backlog
 internalReference: 566791
 ---

@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: o-meli-promotion-center-nao-esta-vinculando-skus-a-promocao
+locale: pt
 kiStatus: Backlog
 internalReference: 801348
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: creating-a-specification-group-in-a-category
+locale: en
 legacySlug: creating-category-groups
 subcategory: 1E7tziZCkY4w8i4EmUuwec
 ---

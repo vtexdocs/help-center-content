@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: tag-canonica-incorrecta-en-paginas-https
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

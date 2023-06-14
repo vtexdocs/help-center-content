@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: los-items-con-assembly-options-aparecen-como-no-disponibles-para-la-entrega
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

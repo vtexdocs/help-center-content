@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: insights-esta-disponible-en-el-nuevo-admin
+locale: es
 legacySlug: insights-esta-disponible-en-el-nuevo-admin
 announcementImageID: ''
 announcementSynopsisES: 'Vea métricas detalladas, defina metas y siga el rendimiento de su tienda directamente en el escritorio.'

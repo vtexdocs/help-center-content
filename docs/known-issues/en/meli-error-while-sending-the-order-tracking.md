@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: meli-error-while-sending-the-order-tracking
+locale: en
 kiStatus: Backlog
 internalReference: 764885
 ---

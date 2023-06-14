@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: incongruencia-entre-los-clics-unicos-y-los-productids-en-is
+locale: es
 kiStatus: Backlog
 internalReference: 501802
 ---

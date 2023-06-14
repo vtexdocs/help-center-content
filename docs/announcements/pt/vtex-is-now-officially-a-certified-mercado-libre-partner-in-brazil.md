@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil
+locale: pt
 legacySlug: vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil
 announcementImageID: ''
 announcementSynopsisPT: 'A certificação assegura que a VTEX oferece funcionalidades para sua loja ter sucesso em vendas no Mercado Livre.'

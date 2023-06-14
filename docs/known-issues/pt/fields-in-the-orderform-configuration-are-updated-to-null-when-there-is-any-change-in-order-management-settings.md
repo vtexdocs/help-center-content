@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: os-campos-na-configuracao-do-orderform-sao-atualizados-para-zero-quando-ha-qualquer-mudanca-nas-configuracoes-de-gerenciamento-de-pedidos
+locale: pt
 kiStatus: Backlog
 internalReference: 748404
 ---

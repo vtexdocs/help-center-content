@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: determinar-el-valor-minimo-total-en-un-carrito
+locale: es
 legacySlug: determinar-el-valor-minimo-total-en-un-carrito
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---

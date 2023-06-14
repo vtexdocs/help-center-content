@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: site-editor-content-set-to-apply-to-specific-categories-isnt-displayed-if-the-category-is-not-accessed-using-its-direct-link
+locale: en
 kiStatus: Backlog
 internalReference: 371994
 ---

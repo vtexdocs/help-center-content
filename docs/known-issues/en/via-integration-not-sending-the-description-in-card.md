@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: via-integration-not-sending-the-description-in-card
+locale: en
 kiStatus: Backlog
 internalReference: 826488
 ---

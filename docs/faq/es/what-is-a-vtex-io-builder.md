@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: 4tz85APeKIwMEk6amWS0ou
 slug: que-es-un-builder-del-vtex-io
+locale: es
 legacySlug: que-es-un-builder-del-vtex-io
 ---
 

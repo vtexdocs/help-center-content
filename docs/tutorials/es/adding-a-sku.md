@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: registrar-un-sku
+locale: es
 legacySlug: registrar-un-sku
 subcategory: pwxWmUu7T222QyuGogs68
 ---

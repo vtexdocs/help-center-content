@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: o-split-de-entrega-nao-sera-exibido-na-iu-ou-em-meus-pedidos-quando-o-pedido-tiver-o-mesmo-metodo-de-envio
+locale: pt
 kiStatus: Backlog
 internalReference: 495352
 ---

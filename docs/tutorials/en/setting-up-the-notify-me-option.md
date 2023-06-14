@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: setting-up-the-notify-me-option
+locale: en
 legacySlug: set-up-the-notify-me
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
@@ -22,7 +23,7 @@ When a product is out of [stock](https://help.vtex.com/en/tutorial/managing-stoc
 
 See below an example of how the **Notify me** option is displayed in a store. To receive a notification when the item is back in store, the customer must type in the name and the email in the marked fields and then click on the `Send` button.
 
-![aviseme-en](//images.ctfassets.net/alneenqid6w5/AuBR53LGxrJC0abAyzsIp/1ae27f3cae7404d1ba86d4e06c231fd6/132012045-06c65073-2692-4827-b08a-7be5730b6422.png)
+![aviseme-en](https://images.ctfassets.net/alneenqid6w5/AuBR53LGxrJC0abAyzsIp/1ae27f3cae7404d1ba86d4e06c231fd6/132012045-06c65073-2692-4827-b08a-7be5730b6422.png)
 
 As soon as the item is back in stock, the system automatically sends an email to the customer informing them that the product is available for purchase again. 
 

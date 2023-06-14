@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: os-banners-programados-nao-funcionam-corretamente
+locale: pt
 kiStatus: Backlog
 internalReference: 400194
 ---

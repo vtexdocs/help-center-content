@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: authors_24
 slug: opt-in-de-newsletter-do-checkout-passara-a-vir-desmarcado-por-padrao
+locale: pt
 legacySlug: opt-in-de-newsletter-do-checkout-passara-a-vir-desmarcado-por-padrao
 announcementImageID: ''
 announcementSynopsisPT: 'A flag de newsletter do Checkout passará a vir desmarcada por padrão. Se você customiza essa flag, fique atento.'

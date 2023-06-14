@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: compatibilidade-com-navegadores-no-modulo-administrativo-admin
+locale: pt
 legacySlug: compatibilidade-com-navegadores-no-modulo-administrativo-admin
 subcategory: Se4oi5LroIII2Ei0uGAoE
 ---

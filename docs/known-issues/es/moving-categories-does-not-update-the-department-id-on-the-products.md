@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: al-mover-las-categorias-no-se-actualiza-el-id-del-departamento-en-los-productos
+locale: es
 kiStatus: Backlog
 internalReference: 316694
 ---

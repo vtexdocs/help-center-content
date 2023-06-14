@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: what-is-url-mapping-301-redirect
+locale: en
 legacySlug: what-is-url-mapping-301-redirect
 ---
 

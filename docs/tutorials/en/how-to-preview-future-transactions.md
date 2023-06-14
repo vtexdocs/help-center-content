@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: how-to-preview-future-transactions
+locale: en
 legacySlug: how-to-preview-future-transactions
 subcategory: 29ZPBdZOTSg6NdzprcqBfb
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: authors_24
 slug: o-que-fazer-em-caso-de-erro-de-acesso-ao-modulo-pedidos
+locale: pt
 legacySlug: erro-de-acesso-ao-oms
 ---
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: migrar-anuncios-no-mercado-livre
+locale: pt
 legacySlug: migrar-anuncios-no-mercado-livre
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

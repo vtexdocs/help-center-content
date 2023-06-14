@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: datos-incorrectos-en-pickupstoreinfo-tras-la-creacion-del-pedido
+locale: es
 kiStatus: Fixed
 internalReference: 347155
 ---

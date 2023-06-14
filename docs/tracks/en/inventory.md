@@ -9,6 +9,7 @@ firstPublishedAt: 2022-03-08T15:01:54.595Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: inventory
+locale: en
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101
 ---

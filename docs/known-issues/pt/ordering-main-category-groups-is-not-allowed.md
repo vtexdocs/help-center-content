@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
 tag: Catalog
 slug: ordenacao-de-grupos-de-categoria-principal-nao-e-permitida
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_59
 slug: setting-up-instores-page-and-template
+locale: en
 legacySlug: setting-up-instores-page-and-template
 subcategory: 4T6qfa6gNO6g4sAUIa6s2G
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_84
 slug: como-recuperar-senha-de-acesso
+locale: pt
 legacySlug: como-recuperar-senha-de-acesso
 subcategory: 63DHe3VQEEE6Uuua8gIs2M
 ---

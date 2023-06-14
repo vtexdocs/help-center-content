@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: cambiar-el-seller-de-un-pedido-vtex-sales-app-beta
+locale: es
 legacySlug: cambiar-el-seller-de-un-pedido-instore-beta
 subcategory: 5SE2asHiQtHKfbnFru8RWH
 ---

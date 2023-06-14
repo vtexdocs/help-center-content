@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_84
 slug: como-vender-para-otros-paises
+locale: es
 legacySlug: como-vender-para-otros-paises
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

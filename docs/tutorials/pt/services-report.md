@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: relatorio-de-servicos
+locale: pt
 legacySlug: relatorio-de-servicos
 subcategory: 37YF86noTwhDdEuhUyW3LH
 ---

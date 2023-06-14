@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: a-data-de-vencimento-do-cartaopresente-nao-coincide-com-a-data-escolhida-quando-ele-foi-criado
+locale: pt
 kiStatus: Backlog
 internalReference: 378436
 ---

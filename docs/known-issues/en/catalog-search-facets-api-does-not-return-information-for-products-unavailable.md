@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: catalog-search-facets-api-does-not-return-information-for-products-unavailable
+locale: en
 kiStatus: Backlog
 internalReference: 583623
 ---

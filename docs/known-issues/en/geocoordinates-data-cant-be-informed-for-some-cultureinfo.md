@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: geocoordinates-data-cant-be-informed-for-some-cultureinfo
+locale: en
 kiStatus: Backlog
 internalReference: 582065
 ---

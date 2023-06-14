@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: enter-tracking-number-on-orders-already-invoiced
+locale: en
 legacySlug: enter-tracking-number-on-orders-already-billed
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

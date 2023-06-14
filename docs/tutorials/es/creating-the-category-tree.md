@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: creando-el-arbol-de-categorias
+locale: es
 legacySlug: creando-el-arbol-de-categorias
 subcategory: 1E7tziZCkY4w8i4EmUuwec
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-orderform-no-puede-ser-recuperado-despues-de-modificar-los-anexos-del-articulo-en-el-catalogo
+locale: es
 kiStatus: Backlog
 internalReference: 320044
 ---

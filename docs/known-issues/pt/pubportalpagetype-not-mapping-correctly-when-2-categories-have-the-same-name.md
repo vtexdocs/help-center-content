@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: pubportalpagetype-nao-mapeia-corretamente-quando-2-categorias-tem-o-mesmo-nome
+locale: pt
 kiStatus: Backlog
 internalReference: 314551
 ---

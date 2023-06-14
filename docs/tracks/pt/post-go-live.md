@@ -9,6 +9,7 @@ firstPublishedAt: 2022-12-09T22:07:33.941Z
 contentType: trackArticle
 productTeam: Reliability
 slug: pos-go-live
+locale: pt
 trackId: 4Ns5FxIiksmjsdX2yOTduM
 trackSlugPT: go-live
 ---

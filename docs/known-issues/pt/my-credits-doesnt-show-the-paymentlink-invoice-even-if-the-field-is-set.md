@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: meus-creditos-nao-mostram-a-fatura-paymentlink-mesmo-que-o-campo-esteja-definido
+locale: pt
 kiStatus: Fixed
 internalReference: 546267
 ---

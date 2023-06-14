@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: por-que-nao-consigo-buscar-pedidos-antigos
+locale: pt
 legacySlug: por-que-nao-consigo-buscar-pedidos-antigos
 ---
 

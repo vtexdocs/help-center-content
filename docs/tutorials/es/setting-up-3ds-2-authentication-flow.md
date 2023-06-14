@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: configurar-flujo-de-autenticacion-3ds-2
+locale: es
 legacySlug: configurar-flujo-de-autenticacion-3ds-2
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

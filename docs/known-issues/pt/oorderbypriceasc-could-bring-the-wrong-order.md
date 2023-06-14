@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: oorderbypriceasc-poderia-trazer-a-ordem-errada
+locale: pt
 kiStatus: Backlog
 internalReference: 582861
 ---

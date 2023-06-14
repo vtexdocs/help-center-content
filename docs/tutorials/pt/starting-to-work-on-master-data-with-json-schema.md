@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: comecando-a-trabalhar-no-master-data-com-json-schema
+locale: pt
 legacySlug: comecando-a-trabalhar-no-master-data-com-json-schema
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---

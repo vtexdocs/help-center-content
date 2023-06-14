@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-gateway-kushki
+locale: pt
 legacySlug: configurar-gateway-kushki
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

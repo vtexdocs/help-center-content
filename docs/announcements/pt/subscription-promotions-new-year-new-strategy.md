@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 5l3eEiSz8MpcppCxcnijGz
 slug: promocoes-por-assinatura-novo-ano-nova-estrategia
+locale: pt
 legacySlug: promocoes-por-assinatura-novo-ano-nova-estrategia
 announcementImageID: ''
 announcementSynopsisPT: 'Promoções por assinatura são uma maneira prática e intuitiva de atrair clientes e fidelizá-los.'

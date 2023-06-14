@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_59
 slug: erro-object-reference-not-set-to-an-instance-of-an-object-ao-tentar
+locale: en
 legacySlug: erro-object-reference-not-set-to-an-instance-of-an-object-ao-tentar
 ---
 

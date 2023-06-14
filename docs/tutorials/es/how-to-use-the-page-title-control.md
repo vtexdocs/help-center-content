@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: como-utilizar-el-control-de-titulo-de-pagina
+locale: es
 legacySlug: como-utilizar-el-control-de-titulo-de-pagina
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

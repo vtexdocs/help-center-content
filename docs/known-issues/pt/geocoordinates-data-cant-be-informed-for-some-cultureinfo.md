@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: os-dados-geocoordinates-nao-podem-ser-informados-para-alguma-culturainfo
+locale: pt
 kiStatus: Backlog
 internalReference: 582065
 ---

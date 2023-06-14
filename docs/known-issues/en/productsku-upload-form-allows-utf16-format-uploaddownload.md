@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: productsku-upload-form-allows-utf16-format-uploaddownload
+locale: en
 kiStatus: Backlog
 internalReference: 493402
 ---

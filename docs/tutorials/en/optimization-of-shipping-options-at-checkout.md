@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: optimization-of-shipping-options-at-checkout
+locale: en
 legacySlug: optimization-of-shipping-options-at-checkout
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---
@@ -52,7 +53,7 @@ To disable the __Optimized Shipping Options__ function, follow the steps below:
 3. In the blue options menu located at the top of the page, click on __Checkout__.
 4. Under __Optimized Shipping Options__, click the <i class="fas fa-toggle-off"></i> to disable the __Optimize Shipping options display option__.
 
-![Optimized shipping options](//images.ctfassets.net/alneenqid6w5/4NfLhi5ao5JyVs4mNTwaRu/838428bac6e785ad6472fd87c18f1e1c/Optimized_shipping_options_EN.PNG)
+![Optimized shipping options](https://images.ctfassets.net/alneenqid6w5/4NfLhi5ao5JyVs4mNTwaRu/838428bac6e785ad6472fd87c18f1e1c/Optimized_shipping_options_EN.PNG)
 
 <ul>
   5. Click <b>Save</b>.

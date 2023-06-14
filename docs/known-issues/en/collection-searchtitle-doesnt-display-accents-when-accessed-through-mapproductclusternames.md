@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: collection-searchtitle-doesnt-display-accents-when-accessed-through-mapproductclusternames
+locale: en
 kiStatus: Backlog
 internalReference: 439856
 ---

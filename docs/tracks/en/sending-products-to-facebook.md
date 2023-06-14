@@ -9,6 +9,7 @@ firstPublishedAt: 2021-02-08T20:10:14.152Z
 contentType: trackArticle
 productTeam: Channels
 slug: sending-products-to-facebook
+locale: en
 trackId: 7h8KvIC4DbRRc8VlyJ8PFc
 trackSlugEN: facebook-integration
 ---

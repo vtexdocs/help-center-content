@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: mensagem-de-erro-inespecifica-ao-exportar-produtoexportacaoimportacaoespecificacaov2aspx
+locale: pt
 kiStatus: Backlog
 internalReference: 314227
 ---

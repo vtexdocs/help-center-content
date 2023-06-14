@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: how-to-set-a-buy-and-win-promotion-gift-for-a-specific-sku
+locale: en
 legacySlug: how-to-set-a-buy-and-win-promotion-gift-for-a-specific-sku
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

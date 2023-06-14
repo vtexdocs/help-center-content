@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 slug: how-to-integrate-with-dafiti
+locale: en
 legacySlug: how-to-integrate-with-dafiti
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

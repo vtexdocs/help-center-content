@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: precios
+locale: es
 legacySlug: precios-v2
 subcategory: 3pGCbMh80UueoeSqoAgSuS
 ---

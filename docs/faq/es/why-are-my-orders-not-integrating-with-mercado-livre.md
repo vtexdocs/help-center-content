@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 71cQH3Q0oKXzeY2DmMZRKX
 slug: por-que-mis-pedidos-no-integran-con-el-mercado-libre
+locale: es
 legacySlug: untitled-entry-2019-03-26-at-07-10-38
 ---
 
@@ -20,7 +21,7 @@ Dicho esto, el primer paso es acceder al registro de esta integración:
 1. Acceda al módulo __Marketplace__
 2. Haga clic en __Integraciones__ 
 3. Busque el __panel__ de Mercado Libre
-4. Haga clic en el __engranaje__ <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/3GKATZh3AUzyZ2LzqvXZSg/f1db9ae88c6bcf0ed632df42133213d4/gear.png" />
+4. Haga clic en el __engranaje__ <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/3GKATZh3AUzyZ2LzqvXZSg/f1db9ae88c6bcf0ed632df42133213d4/gear.png" />
 5. Haga clic en __Editar configuración__
 
 A partir de ahí, tenemos que rehacer el proceso de integración.

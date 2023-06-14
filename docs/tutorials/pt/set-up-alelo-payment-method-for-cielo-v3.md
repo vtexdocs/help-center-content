@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: configurar-meio-de-pagamento-alelo-para-cielo-v3
+locale: pt
 legacySlug: configurar-meio-de-pagamento-alelo-para-cielo-v3
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

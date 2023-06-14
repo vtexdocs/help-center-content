@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: informe-de-pedidos
+locale: es
 legacySlug: planilla-de-pedidos
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

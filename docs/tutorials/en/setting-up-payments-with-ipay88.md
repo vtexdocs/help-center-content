@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: setting-up-payments-with-ipay88
+locale: en
 legacySlug: setting-up-payments-with-ipay88
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

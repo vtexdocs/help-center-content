@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: incorrect-delivery-calculation-when-one-of-the-slas-doesnt-have-all-items
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

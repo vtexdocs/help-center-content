@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: mercadopagov1-falla-al-autorizar-transacciones-cuando-viene-con-el-valor-de-datos-de-usuario-de-telefono-como-0
+locale: es
 kiStatus: Backlog
 internalReference: 778611
 ---

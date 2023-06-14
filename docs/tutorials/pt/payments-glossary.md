@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: glossario-de-pagamentos
+locale: pt
 legacySlug: glossario-de-pagamentos
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: nombre-incorrecto-del-boton-de-llamada-a-la-accion-en-el-paso-de-perfil
+locale: es
 kiStatus: Backlog
 internalReference: 514532
 ---

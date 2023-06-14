@@ -9,6 +9,7 @@ firstPublishedAt: 2019-05-21T19:08:27.121Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: marcas-definicao-de-conceito
+locale: pt
 trackId: 5AF0XfnjfWeopIFBgs3LIQ
 trackSlugPT: catalogo-101
 ---

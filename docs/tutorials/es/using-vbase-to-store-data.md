@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1iryp847AQgmKGKIASeW8Y
 slug: guardar-datos-en-vbase
+locale: es
 legacySlug: guardar-datos-en-vbase
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

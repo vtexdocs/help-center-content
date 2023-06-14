@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 4SqDPmUJIIz2KMMKgiyqKl
 slug: pagina-de-autenticacao
+locale: pt
 legacySlug: pagina-de-autenticacao
 subcategory: 14V5ezEX0cewOMg0o0cYM6
 ---

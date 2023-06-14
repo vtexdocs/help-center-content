@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: offers-and-sending-products-to-the-marketplace
+locale: en
 legacySlug: offers-and-sending-products-to-the-marketplace
 subcategory: 4hisB47iAVZk4r3SEmMoG
 ---

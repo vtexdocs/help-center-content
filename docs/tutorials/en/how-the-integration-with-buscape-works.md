@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 slug: how-the-integration-with-buscape-works
+locale: en
 legacySlug: how-the-integration-with-buscape-works
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: conviertase-en-un-experto-en-vtex-con-el-training-day
+locale: es
 legacySlug: conviertase-en-un-experto-en-vtex-con-el-training-day
 announcementImageID: ''
 announcementSynopsisES: 'Participe en un día de entrenamiento intensivo en VTEX con los mayores especialistas en el tema.'

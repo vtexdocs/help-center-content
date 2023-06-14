@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_24
 slug: error-404-al-intentar-cancelar-pedido
+locale: es
 legacySlug: error-404-al-intentar-cancelar-pedido
 ---
 

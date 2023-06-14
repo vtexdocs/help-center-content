@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_2
 slug: untitled-entry-2017-07-19-at-06-54-03
+locale: es
 legacySlug: untitled-entry-2017-07-19-at-06-54-03
 subcategory: 8AGXmtpbTqUE2KQu0Swwk
 ---

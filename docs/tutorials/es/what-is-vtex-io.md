@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 4tz85APeKIwMEk6amWS0ou
 slug: que-es-vtex-io
+locale: es
 legacySlug: o-que-e-o-vtex-io
 subcategory: 5eBwrcLFVSwYGSOQqGKQYW
 ---

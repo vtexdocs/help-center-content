@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
 slug: order-is-locked-in-ready-for-handling-what-do-i-do
+locale: en
 legacySlug: order-is-locked-in-pronto-para-manuseio-what-do-i-do
 ---
 

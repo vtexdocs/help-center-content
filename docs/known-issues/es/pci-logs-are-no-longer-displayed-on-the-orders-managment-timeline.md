@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_84
 tag: Order Management
 slug: logs-del-pci-ya-no-se-muestran-en-la-linea-de-tiempo-del-gestion-de-pedidos
+locale: es
 kiStatus: Fixed
 internalReference: 
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: make-your-payments-more-flexible-and-secure-with-automatic-payment-capture
+locale: en
 legacySlug: make-your-payments-more-flexible-and-secure-with-automatic-payment-capture
 announcementImageID: ''
 announcementSynopsisEN: 'New feature allows retailers to configure the maximum automatic payment capture time frame'

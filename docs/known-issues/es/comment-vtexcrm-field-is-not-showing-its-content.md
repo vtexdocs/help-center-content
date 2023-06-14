@@ -11,6 +11,7 @@ productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
 slug: el-campo-vtexcrm-no-muestra-su-contenido
+locale: es
 kiStatus: Backlog
 internalReference: 565919
 ---

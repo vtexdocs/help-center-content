@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: como-funciona-la-busqueda-de-vtex
+locale: es
 legacySlug: como-funciona-la-busqueda-de-vtex
 subcategory: pwxWmUu7T222QyuGogs68
 ---

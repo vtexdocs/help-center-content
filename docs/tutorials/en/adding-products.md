@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: adding-products
+locale: en
 legacySlug: adding-products-and-skus
 subcategory: pwxWmUu7T222QyuGogs68
 ---

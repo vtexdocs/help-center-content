@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: comprehensive-seller
+locale: en
 legacySlug: comprehensive-seller
 subcategory: 5tlIjp0ZkAU4EIk4OgyEmm
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: vtex-pick-and-pack
+locale: es
 legacySlug: vtex-pick-and-pack
 subcategory: 7Kllu6CmeLNV3tYXlCFvOt
 ---

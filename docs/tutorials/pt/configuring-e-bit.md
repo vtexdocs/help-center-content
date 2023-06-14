@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_3
 slug: configurando-o-e-bit
+locale: pt
 legacySlug: configurando-o-e-bit
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

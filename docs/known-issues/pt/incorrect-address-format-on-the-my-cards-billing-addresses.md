@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: formato-incorreto-do-endereco-nos-enderecos-de-cobranca-meus-cartoes
+locale: pt
 kiStatus: Backlog
 internalReference: 791779
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: orders-feed
+locale: en
 legacySlug: how-the-oms-feed-works, how-the-orders-management-feed-v3-works
 subcategory: 3Y8xzVGMXcuPTuzfFI0vUp
 ---

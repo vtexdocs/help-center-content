@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 523NSmHfn2IKEoiy2Q44YS
 slug: vtex-js-como-instalar-e-manipular-no-front-end-dados-do-catalogo-e-checkout
+locale: pt
 legacySlug: vtex-js-como-instalar-e-manipular-no-front-end-dados-do-catalogo-e-checkout
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

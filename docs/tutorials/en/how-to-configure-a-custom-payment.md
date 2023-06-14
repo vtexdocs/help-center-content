@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: how-to-configure-a-custom-payment
+locale: en
 legacySlug: how-to-configure-a-custom-payment
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: promotion-with-a-partners-xml
+locale: en
 legacySlug: promotion-with-a-partners-xml
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

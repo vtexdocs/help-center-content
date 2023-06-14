@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_84
 slug: como-contratar-el-certificado-de-seguridad
+locale: es
 legacySlug: como-contratar-el-certificado-de-seguridad
 subcategory: 2TNXiKzLZOPxjMTyGiEeJu
 ---

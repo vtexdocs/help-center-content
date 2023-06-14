@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: o-controle-de-resumo-do-carrinho
+locale: pt
 legacySlug: usando-o-controle-de-resumo-do-carrinho
 ---
 

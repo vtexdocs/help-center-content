@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: how-to-migrate-a-store-to-pricing
+locale: en
 legacySlug: how-to-migrate-a-store-to-pricing-v2
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

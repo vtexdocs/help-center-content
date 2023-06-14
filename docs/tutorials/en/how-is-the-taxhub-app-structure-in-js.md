@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Y2pnNkWfSoUMMYcwemq4A
 slug: how-is-the-taxhub-app-structure-in-js
+locale: en
 legacySlug: how-is-the-taxhub-app-structure-in-js
 subcategory: 
 ---

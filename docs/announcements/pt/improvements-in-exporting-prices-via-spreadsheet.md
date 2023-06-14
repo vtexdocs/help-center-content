@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: melhorias-na-exportacao-de-precos-via-planilha
+locale: pt
 legacySlug: melhorias-na-exportacao-de-precos-via-planilha
 announcementImageID: ''
 announcementSynopsisPT: 'Atualizamos o processo de exportação de preços via planilha para dar mais visibilidade aos clientes.'
@@ -24,7 +25,7 @@ Na VTEX, é possível alterar o preço várias vezes ao dia de acordo com a estr
 
 O cadastro via planilha se dá por duas etapas, a exportação e importação. A exportação dos preços teve sua experiência aprimorada com novas features, buscando dar mais visibilidade ao usuário do status de cada planilha de exportação de preços.
 
-![exportacao pt](//images.ctfassets.net/alneenqid6w5/3yLQbrPd39kTWYnNrsbJgC/fbf24da5553dee1c5bc0ba5a51e2f070/exportacao_pt.gif)
+![exportacao pt](https://images.ctfassets.net/alneenqid6w5/3yLQbrPd39kTWYnNrsbJgC/fbf24da5553dee1c5bc0ba5a51e2f070/exportacao_pt.gif)
 
 ## O que mudou?
 

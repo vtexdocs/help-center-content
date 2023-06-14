@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
 slug: o-que-e-o-modo-de-producao
+locale: pt
 legacySlug: o-que-e-o-modo-de-producao
 ---
 

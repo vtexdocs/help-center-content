@@ -9,13 +9,15 @@ contentType: updates
 productTeam: 
 author: 
 slug: untitled-entry-2021-03-11-at-10-09-35
+locale: pt
 legacySlug: untitled-entry-2021-03-11-at-10-09-35
 announcementImageID: ''
 announcementSynopsisPT: ''
 ---
 
 
-ente-componentes-customizados-de-storefront-no-vtex-io
+entes-customizados-de-storefront-no-vtex-io
+locale: pt
 legacySlug: desenvolva-livremente-componentes-customizados-de-storefront-no-vtex-io
 announcementImageID: ''
 announcementSynopsisPT: 'Autorização não é mais necessária para o desenvolver componentes customizados de front de loja usando VTEX IO.'

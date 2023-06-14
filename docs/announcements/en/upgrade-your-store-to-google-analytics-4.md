@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
 slug: upgrade-your-store-to-google-analytics-4
+locale: en
 legacySlug: upgrade-your-store-to-google-analytics-4
 announcementImageID: ''
 announcementSynopsisEN: 'upgrade-your-store-to-google-analytics-4'

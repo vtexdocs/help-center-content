@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: campos-no-marcados-como-obligatorios-en-master-data-conducen-a-un-error-de-pago
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

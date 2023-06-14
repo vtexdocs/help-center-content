@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: endereco-sem-pais-perturbando-o-pedidomudancas-na-forma
+locale: pt
 kiStatus: Backlog
 internalReference: 579814
 ---

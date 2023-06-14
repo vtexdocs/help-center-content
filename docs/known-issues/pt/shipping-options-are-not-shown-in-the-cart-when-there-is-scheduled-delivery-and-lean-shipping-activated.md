@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: as-opcoes-de-frete-nao-sao-exibidas-no-carrinho-quando-ha-entrega-programada-e-o-lean-shipping-esta-ativado
+locale: pt
 kiStatus: Backlog
 internalReference: 362685
 ---

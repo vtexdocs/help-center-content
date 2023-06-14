@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: cuantas-veces-se-aplicara-su-beneficio-en-su-tienda-guardar-incorrectamente-en-la-interfaz-del-formulario-de-promocion
+locale: es
 kiStatus: Backlog
 internalReference: 268304
 ---

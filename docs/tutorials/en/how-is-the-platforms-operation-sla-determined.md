@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: how-is-the-platforms-operation-sla-determined
+locale: en
 legacySlug: how-is-the-platforms-operation-sla-determined
 subcategory: 5PYkoNDZyo2G80yiiqG2YW
 ---

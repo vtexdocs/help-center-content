@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: conozca-cartman-la-nueva-herramienta-de-investigacion-del-checkout
+locale: es
 legacySlug: conozca-cartman-la-nueva-herramienta-de-investigacion-del-checkout
 announcementImageID: ''
 announcementSynopsisES: 'Cartman es una herramienta que simula, comparte e investiga diferentes escenarios de checkout'

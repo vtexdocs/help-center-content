@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: os-artigos-de-presente-lancam-uma-excecao-generica-se-nao-tiver-preco
+locale: pt
 kiStatus: Backlog
 internalReference: 510490
 ---

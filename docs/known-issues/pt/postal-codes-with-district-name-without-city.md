@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: ceps-com-nome-do-distrito-sem-a-cidade-respectiva
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

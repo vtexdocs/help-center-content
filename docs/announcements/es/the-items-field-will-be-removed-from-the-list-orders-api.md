@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: authors_24
 slug: campo-items-se-quitara-de-la-api-de-list-orders
+locale: es
 legacySlug: campo-items-se-quitara-de-la-api-de-list-orders
 announcementImageID: ''
 announcementSynopsisES: 'En 12/10, vamos a quitar este campo (ya obsoleto) para la indexación de pedidos tener más estabilidad y rendimiento.'

@@ -9,6 +9,7 @@ firstPublishedAt: 2019-02-19T20:13:24.873Z
 contentType: trackArticle
 productTeam: VTEX IO
 slug: personalizando-estilos
+locale: es
 trackId: 5qJr8BIQXAKec9CpBWrTNv
 trackSlugES: crear-una-tienda-utilizando-vtex-io
 ---
@@ -47,7 +48,7 @@ Vamos a hacer algunos cambios en nuestro archivo `style.json`. Podemos cambiar u
 
 Ahora, vamos a ver los resultados al "linkar" nuestra aplicación:
 
-![style-json](//images.ctfassets.net/alneenqid6w5/1S0DU3mL8MxRVleCmUGGol/3594be77ecae98c6c223e04191f95def/style-json.svg)
+![style-json](https://images.ctfassets.net/alneenqid6w5/1S0DU3mL8MxRVleCmUGGol/3594be77ecae98c6c223e04191f95def/style-json.svg)
 
 Muy bien! Ahora usted sabe cómo personalizar los estilos de su tienda.
 
@@ -97,4 +98,4 @@ Vamos a escribir un poco de CSS, para añadir una línea roja sólida:
 ```
 Nuestro nuevo menú de categoría tendrá ahora una línea roja sólida a lo largo de la parte inferior del menú.
 
-![red-line](//images.ctfassets.net/alneenqid6w5/2zVZNpUFepCptn5Zuo3YNa/1d939c7f78544c6b716bfc57db774b79/red-line.svg)
+![red-line](https://images.ctfassets.net/alneenqid6w5/2zVZNpUFepCptn5Zuo3YNa/1d939c7f78544c6b716bfc57db774b79/red-line.svg)

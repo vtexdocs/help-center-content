@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: exportacao-de-planilhas-que-nao-funcionam-na-guia-de-processamento-da-sku-recebida
+locale: pt
 kiStatus: Backlog
 internalReference: 792511
 ---

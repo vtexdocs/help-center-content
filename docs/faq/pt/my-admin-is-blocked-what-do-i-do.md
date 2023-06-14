@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: meu-admin-esta-bloqueado-o-que-fazer
+locale: pt
 legacySlug: meu-admin-esta-bloqueado-o-que-fazer
 ---
 
@@ -28,5 +29,5 @@ Siga os passos abaixo para desbloquear seu Admin por esse período. Você deve p
 
 Feito esse procedimento, seu perfil ficará desbloqueado por 48 horas de dias úteis. Aproveite para colocar suas faturas em dia até o contato do time Financeiro.
 
-![Início](//images.ctfassets.net/alneenqid6w5/6bYCHufFuKJ2TKivBJl8Pr/bc552ab6bbfad7ef49c1a9a59e2d5724/In__cio.gif)
+![Início](https://images.ctfassets.net/alneenqid6w5/6bYCHufFuKJ2TKivBJl8Pr/bc552ab6bbfad7ef49c1a9a59e2d5724/In__cio.gif)
 

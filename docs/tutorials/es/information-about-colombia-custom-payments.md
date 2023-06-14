@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: informacion-de-los-pagos-personalizados-de-colombia
+locale: es
 legacySlug: informacion-de-los-pagos-personalizados-de-colombia
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

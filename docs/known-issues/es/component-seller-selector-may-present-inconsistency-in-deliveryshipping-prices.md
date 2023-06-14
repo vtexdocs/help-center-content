@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: el-selector-de-vendedores-de-componentes-puede-presentar-incoherencias-en-los-precios-de-entregaenvio
+locale: es
 kiStatus: Backlog
 internalReference: 658452
 ---

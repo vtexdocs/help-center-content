@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 5fYXkMJagMwcSAeMAsAuOI
 slug: good-practices-for-the-golive-of-my-store
+locale: en
 legacySlug: good-practices-for-the-golive-of-my-store
 subcategory: wz3FvYTctwuCwG206QUAi
 ---

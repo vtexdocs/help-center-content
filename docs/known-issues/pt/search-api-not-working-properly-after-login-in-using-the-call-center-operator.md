@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: busca-api-que-nao-funciona-corretamente-apos-o-login-no-uso-do-call-center-operator
+locale: pt
 kiStatus: Backlog
 internalReference: 304586
 ---

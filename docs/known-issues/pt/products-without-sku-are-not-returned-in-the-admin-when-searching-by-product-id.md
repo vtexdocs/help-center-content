@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: produtos-sem-sku-nao-sao-devolvidos-na-administracao-ao-pesquisar-por-id-do-produto
+locale: pt
 kiStatus: Backlog
 internalReference: 740431
 ---

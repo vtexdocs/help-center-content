@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: integracion-con-mercado-libre-nueva-interfaz-para-mapear-categorias-y
+locale: es
 legacySlug: integracion-con-mercado-libre-nueva-interfaz-para-mapear-categorias-y
 announcementImageID: ''
 announcementSynopsisES: 'La nueva interfaz para mapear categorías y atributos llega para sustituir a la plantilla de mapeo.'

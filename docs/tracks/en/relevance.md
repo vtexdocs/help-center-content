@@ -9,6 +9,7 @@ firstPublishedAt: 2020-04-14T23:58:35.468Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: relevance
+locale: en
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search
 ---
@@ -22,7 +23,7 @@ You can configure relevance in two ways:
   - __Priority criteria__: it imposes that one or more criteria has a higher priority among the others. In this situation, there are no weights; all products that have this feature will be shown first in the search results.
   - __Criteria composition__: it is a way to distribute weights for each option, ranging from 0 to 10. Here, there is no order between the criteria; the weights will define the relevance.
 
-![regras-relevancia-1-EN](//images.ctfassets.net/alneenqid6w5/pWaOZBllEtnkrAxc2kEdJ/7ed55448e3b78b749a8d6d0c7d0d803b/Captura_de_Tela_2022-03-25_a__s_15.17.28.png)
+![regras-relevancia-1-EN](https://images.ctfassets.net/alneenqid6w5/pWaOZBllEtnkrAxc2kEdJ/7ed55448e3b78b749a8d6d0c7d0d803b/Captura_de_Tela_2022-03-25_a__s_15.17.28.png)
 
 The information considered for the relevance is:
 
@@ -86,6 +87,6 @@ To change relevance settings, follow the steps below.
 2. In **Intelligent Search**, click **Relevance Rules**.
 3. Choose the criterion whose weight you want to change.
 4. Click the <i class="fas fa-minus"></i> or <i class="fas fa-plus"></i> icons to set a number. If you want to change a criterion from **Criteria composition** to **Priority criteria**, click on the <i class="fas fa-grip-vertical"></i> icon and drag it to the top of the page, as shown below. Note that when the criterion is set as a priority, you can no longer change its weight. 
-![regras-relevancia-EN](//images.ctfassets.net/alneenqid6w5/iZze1vchSYf9lLFJnfwiT/892c2f6f5aca868508c1a7f0c48a27d8/regras-relevancia-EN.gif)
+![regras-relevancia-EN](https://images.ctfassets.net/alneenqid6w5/iZze1vchSYf9lLFJnfwiT/892c2f6f5aca868508c1a7f0c48a27d8/regras-relevancia-EN.gif)
 5. Click `Save` to finish.
 

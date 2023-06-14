@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: pedido-de-campo-telefonico-netshoes
+locale: es
 kiStatus: Backlog
 internalReference: 599271
 ---

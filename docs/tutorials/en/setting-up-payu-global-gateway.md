@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: setting-up-payu-global-gateway
+locale: en
 legacySlug: setting-up-payu-global-gateway
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

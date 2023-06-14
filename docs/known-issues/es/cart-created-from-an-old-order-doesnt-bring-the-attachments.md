@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-carrito-creado-a-partir-de-un-pedido-antiguo-no-trae-los-archivos-adjuntos
+locale: es
 kiStatus: Backlog
 internalReference: 802464
 ---

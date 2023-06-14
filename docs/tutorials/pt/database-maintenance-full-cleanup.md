@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
 slug: manutencao-de-base-full-cleanup
+locale: pt
 legacySlug: entendendo-a-manutencao-da-base-de-dados
 subcategory: 63DHe3VQEEE6Uuua8gIs2M
 ---

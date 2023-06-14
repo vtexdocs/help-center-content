@@ -9,6 +9,7 @@ firstPublishedAt: 2021-10-04T18:18:56.501Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: availability
+locale: en
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: substituicao-de-pedidos
+locale: pt
 legacySlug: permitir-alteracao-de-pedidos-ja-fechados, como-funciona-a-substituicao-de-pedidos
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---

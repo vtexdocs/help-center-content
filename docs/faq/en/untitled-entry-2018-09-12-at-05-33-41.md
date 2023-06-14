@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_59
 slug: untitled-entry-2018-09-12-at-05-33-41
+locale: en
 legacySlug: untitled-entry-2018-09-12-at-05-33-41
 ---
 

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: os-pagamentos-de-debito-usando-o-conector-firstdata-nao-podem-ser-liquidados-devido-a-um-erro-no-campo-transactionstate
+locale: pt
 kiStatus: Backlog
 internalReference: 461095
 ---

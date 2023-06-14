@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: why-are-my-products-out-of-stock-on-the-marketplace
+locale: en
 legacySlug: why-are-my-products-out-of-stock-on-the-marketplace
 ---
 

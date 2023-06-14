@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-21T22:49:51.417Z
 contentType: trackArticle
 productTeam: Financial
 slug: como-funciona-el-modulo-de-pagos
+locale: es
 trackId: 6GAS7ZzGAm7AGoEAwDbwJG
 trackSlugES: pagos
 ---

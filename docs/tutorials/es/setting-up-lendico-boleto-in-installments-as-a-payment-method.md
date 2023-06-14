@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: configurar-boleto-en-plazos-lendico-como-medio-de-pago-medio-de-pago
+locale: es
 legacySlug: configurar-boleto-en-plazos-lendico-como-medio-de-pago
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: cultureinfo-nao-permite-valores-com-mais-de-10-caracteres
+locale: pt
 kiStatus: Fixed
 internalReference: 667652
 ---

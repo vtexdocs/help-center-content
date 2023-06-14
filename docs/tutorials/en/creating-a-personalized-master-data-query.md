@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_3
 slug: creating-a-personalized-master-data-query
+locale: en
 legacySlug: creating-a-personalized-master-data-query
 subcategory: 2AThnkEZAYbk4G4EIs53rL
 ---

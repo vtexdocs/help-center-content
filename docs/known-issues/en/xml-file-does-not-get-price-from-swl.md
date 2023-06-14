@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: xml-file-does-not-get-price-from-swl
+locale: en
 kiStatus: Backlog
 internalReference: 425027
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: setting-up-payments-with-banqi
+locale: en
 legacySlug: setting-up-payments-with-banqi
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

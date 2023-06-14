@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: cuenta-del-seller-portal-no-se-puede-exportar-el-baseprice
+locale: es
 kiStatus: Backlog
 internalReference: 408868
 ---

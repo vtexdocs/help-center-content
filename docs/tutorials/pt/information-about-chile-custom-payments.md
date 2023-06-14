@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: informacoes-dos-pagamentos-customizados-do-chile
+locale: pt
 legacySlug: informacoes-dos-pagamentos-customizados-do-chile
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

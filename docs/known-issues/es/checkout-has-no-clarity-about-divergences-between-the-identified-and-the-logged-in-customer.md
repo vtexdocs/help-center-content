@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-proceso-de-pago-no-deja-claras-las-divergencias-entre-el-cliente-identificado-y-el-registrado
+locale: es
 kiStatus: Backlog
 internalReference: 442267
 ---

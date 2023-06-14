@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: nao-e-possivel-remover-as-informacoes-de-cartao-de-credito-de-um-orderform-via-api
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

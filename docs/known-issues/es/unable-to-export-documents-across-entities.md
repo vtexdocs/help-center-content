@@ -11,6 +11,7 @@ productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
 slug: imposibilidad-de-exportar-documentos-con-campos-de-dos-entidades-diferentes
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: reservas-de-estoque-de-integracao-da-amazon-para-kits
+locale: pt
 kiStatus: Backlog
 internalReference: 829583
 ---

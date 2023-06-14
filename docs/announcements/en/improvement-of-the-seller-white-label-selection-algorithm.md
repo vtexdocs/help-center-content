@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: improvement-of-the-seller-white-label-selection-algorithm
+locale: en
 legacySlug: improvement-of-the-seller-white-label-selection-algorithm
 announcementImageID: ''
 announcementSynopsisEN: 'Understanding how the seller selection logic works for delivery or pickup'

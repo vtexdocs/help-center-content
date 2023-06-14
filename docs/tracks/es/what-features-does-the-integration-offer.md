@@ -9,6 +9,7 @@ firstPublishedAt: 2023-03-28T21:41:26.632Z
 contentType: trackArticle
 productTeam: Channels
 slug: que-funcionalidades-ofrece-la-integracion
+locale: es
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugES: que-funcionalidades-ofrece-la-integracion
 ---

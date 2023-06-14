@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: a-primeira-busca-em-uma-loja-nao-e-considerada-na-ui-ultimas-buscas
+locale: pt
 kiStatus: Backlog
 internalReference: 570971
 ---

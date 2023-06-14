@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: installing-npm
+locale: en
 legacySlug: installing-npm
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

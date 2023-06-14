@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: sinonimos-que-no-se-reflejan-en-la-busqueda-explicada
+locale: es
 kiStatus: Backlog
 internalReference: 774307
 ---

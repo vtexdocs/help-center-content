@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: starting-to-work-on-master-data-with-json-schema
+locale: en
 legacySlug: untitled-entry-2017-06-26-at-03-22-50
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---

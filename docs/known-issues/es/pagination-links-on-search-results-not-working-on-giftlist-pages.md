@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: los-enlaces-de-paginacion-en-los-resultados-de-la-busqueda-no-funcionan-en-las-paginas-de-la-lista-de-regalos
+locale: es
 kiStatus: Backlog
 internalReference: 481330
 ---

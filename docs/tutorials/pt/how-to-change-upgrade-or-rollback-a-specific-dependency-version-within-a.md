@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
 slug: como-mudar-a-versao-upgrade-ou-rollback-de-uma-dependencia-dentro-de-um
+locale: pt
 legacySlug: como-mudar-a-versao-upgrade-ou-rollback-de-uma-dependencia-dentro-de-um
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

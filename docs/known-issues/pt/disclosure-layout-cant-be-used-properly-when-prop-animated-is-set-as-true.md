@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: o-layout-de-divulgacao-nao-pode-ser-usado-corretamente-quando-a-animacao-de-propulsao-e-definida-como-verdadeira
+locale: pt
 kiStatus: Backlog
 internalReference: 417947
 ---

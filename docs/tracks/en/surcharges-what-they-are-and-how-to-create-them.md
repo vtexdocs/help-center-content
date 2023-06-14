@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-22T22:13:02.949Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: surcharges-what-they-are-and-how-to-create-them
+locale: en
 trackId: 6asfF1vFYiZgTQtOzwJchR
 trackSlugEN: promotions
 ---

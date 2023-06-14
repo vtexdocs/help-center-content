@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: mi-suscripcion-muestra-un-mensaje-de-error-cuando-la-suscripcion-esta-asociada-a-un-punto-de-recogida
+locale: es
 kiStatus: Backlog
 internalReference: 692523
 ---

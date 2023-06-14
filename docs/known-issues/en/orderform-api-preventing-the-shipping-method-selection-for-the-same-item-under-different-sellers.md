@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: orderform-api-preventing-the-shipping-method-selection-for-the-same-item-under-different-sellers
+locale: en
 kiStatus: Backlog
 internalReference: 742139
 ---

@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: a-nova-iu-nao-mostra-o-documento-de-identificacao-do-cliente-por-exemplo-cpf
+locale: pt
 kiStatus: Backlog
 internalReference: 713480
 ---

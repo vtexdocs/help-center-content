@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: la-bandera-de-busqueda-no-funciona-en-la-coleccion-cms-heredada
+locale: es
 kiStatus: Backlog
 internalReference: 322552
 ---

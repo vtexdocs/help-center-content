@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: subscriptions-orders-can-not-be-created-once-the-sku-has-linked-to-a-gift-unavailable
+locale: en
 kiStatus: Fixed
 internalReference: 395965
 ---

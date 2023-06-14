@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: list-of-gateway-affiliations-and-anti-fraud-solutions
+locale: en
 legacySlug: list-of-gateway-affiliations-and-anti-fraud-solutions
 subcategory: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 slug: category-variations-and-attributes-mapping
+locale: en
 legacySlug: category-variations-and-attributes-mapping
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

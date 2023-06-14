@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: reembolso-incorrecto-de-las-compras-con-3-metodos-de-pago-uno-de-ellos-es-gc
+locale: es
 kiStatus: Backlog
 internalReference: 464837
 ---

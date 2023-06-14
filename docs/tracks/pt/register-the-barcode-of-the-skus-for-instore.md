@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T20:04:59.879Z
 contentType: trackArticle
 productTeam: Shopping
 slug: cadastrar-o-codigo-de-barras-dos-skus-para-instore
+locale: pt
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugPT: cadastrar-o-codigo-de-barras-dos-skus-para-instore
 ---

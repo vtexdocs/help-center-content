@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: comprar-juntos-registro-de-promocion
+locale: es
 legacySlug: comprar-juntos-registro-de-promocion
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

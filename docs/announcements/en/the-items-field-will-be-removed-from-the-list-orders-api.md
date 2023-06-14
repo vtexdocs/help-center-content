@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: authors_24
 slug: the-items-field-will-be-removed-from-the-list-orders-api
+locale: en
 legacySlug: the-items-field-will-be-removed-from-the-list-orders-api
 announcementImageID: ''
 announcementSynopsisEN: 'On 10/12, we will remove this field (already obsolete) to give greater stability and performance to order indexing.'

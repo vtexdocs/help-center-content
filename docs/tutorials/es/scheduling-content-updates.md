@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: programar-actualizaciones-de-contenido
+locale: es
 legacySlug: programar-actualizaciones-de-contenido
 subcategory: 9Arh3cJIOYlfSD1MUC2h3
 ---

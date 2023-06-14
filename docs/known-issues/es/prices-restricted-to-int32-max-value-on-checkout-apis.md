@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: precios-restringidos-a-un-valor-maximo-de-int32-en-las-apis-de-pago
+locale: es
 kiStatus: Backlog
 internalReference: 566142
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_65
 slug: migrating-to-the-new-version-of-smart-checkout
+locale: en
 legacySlug: migrating-to-the-new-version-of-smart-checkout
 subcategory: 8AGXmtpbTqUE2KQu0Swwk
 ---

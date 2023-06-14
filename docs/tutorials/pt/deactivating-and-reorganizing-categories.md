@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: inativar-e-reorganizar-categorias
+locale: pt
 legacySlug: inativando-e-reorganizando-categorias
 subcategory: 1E7tziZCkY4w8i4EmUuwec
 ---

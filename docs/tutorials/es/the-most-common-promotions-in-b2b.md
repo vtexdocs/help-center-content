@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: promociones-mas-comunes-para-b2b
+locale: es
 legacySlug: promociones-mas-comunes-para-b2b
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

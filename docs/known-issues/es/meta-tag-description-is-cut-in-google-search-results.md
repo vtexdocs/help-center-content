@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: meta-tag-description-se-corta-en-los-resultados-de-google
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

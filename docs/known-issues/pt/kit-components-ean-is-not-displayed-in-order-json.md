@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_3
 tag: Order Management
 slug: ean-dos-componentes-do-kit-nao-sao-impressos-no-json-do-pedido
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

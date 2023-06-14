@@ -9,6 +9,7 @@ firstPublishedAt: 2020-04-15T00:39:40.691Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: explained-search
+locale: en
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search
 ---
@@ -25,5 +26,5 @@ Follow the steps below to access it:
 1. In the VTEX Admin, go to __Storefront__, or type __Storefront__ in the search bar at the top of the page.
 2. Under **Intelligent Search**, click __Explained Search__. 
 
-![Explained Search](//images.ctfassets.net/alneenqid6w5/5KrbVmzoI4woKzjxhsGJne/826ba767da8acaa0cad6990bfdf36ca8/explained_search_em.png)
+![Explained Search](https://images.ctfassets.net/alneenqid6w5/5KrbVmzoI4woKzjxhsGJne/826ba767da8acaa0cad6990bfdf36ca8/explained_search_em.png)
 

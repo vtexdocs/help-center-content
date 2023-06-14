@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: al-realizar-una-importacion-de-especificacion-de-productos-el-producto-no-es-indexado
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

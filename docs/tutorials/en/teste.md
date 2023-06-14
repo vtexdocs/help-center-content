@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 4SqDPmUJIIz2KMMKgiyqKl
 slug: teste
+locale: en
 legacySlug: teste
 subcategory: 
 ---

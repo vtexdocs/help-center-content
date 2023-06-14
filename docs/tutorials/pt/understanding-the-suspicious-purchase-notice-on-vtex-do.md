@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: entendendo-o-aviso-de-compra-suspeita-no-vtex-do
+locale: pt
 legacySlug: entendendo-o-aviso-de-compra-suspeita-no-vtex-do
 subcategory: 
 ---

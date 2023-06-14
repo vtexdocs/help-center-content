@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: como-adicionar-um-segundo-endereco-ao-pedido-destinado-a-faturacao
+locale: pt
 legacySlug: como-adicionar-um-segundo-endereco-ao-pedido-destinado-a-faturacao
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

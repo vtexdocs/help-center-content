@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 
 slug: consideracoes-de-checkout-por-pais
+locale: pt
 legacySlug: consideracoes-de-checkout-por-pais
 subcategory: 
 ---

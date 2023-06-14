@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: checkout-ui-overwrites-shipping-recipient-when-name-is-different-from-profile-data
+locale: en
 kiStatus: Fixed
 internalReference: 822670
 ---

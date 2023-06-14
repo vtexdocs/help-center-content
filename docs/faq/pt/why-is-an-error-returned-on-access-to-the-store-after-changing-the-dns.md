@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Reliability
 author: authors_3
 slug: por-que-da-erro-ao-acessar-a-loja-apos-virar-o-dns
+locale: pt
 legacySlug: por-que-da-erro-ao-acessar-a-loja-apos-virar-o-dns
 ---
 

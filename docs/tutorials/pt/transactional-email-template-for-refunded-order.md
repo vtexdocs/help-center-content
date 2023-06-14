@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: template-de-e-mail-transacional-para-pedido-estornado
+locale: pt
 legacySlug: template-de-e-mail-transacional-para-pedido-estornado
 subcategory: 4D5LrWwlHGmOWMomOaaGee
 ---

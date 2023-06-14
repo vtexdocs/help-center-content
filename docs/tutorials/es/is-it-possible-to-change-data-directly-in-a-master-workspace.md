@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: es-posible-realizar-cambios-en-un-workspace-master
+locale: es
 legacySlug: es-posible-realizar-cambios-en-un-workspace-master
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

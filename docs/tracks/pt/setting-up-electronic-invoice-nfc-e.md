@@ -9,6 +9,7 @@ firstPublishedAt: 2018-06-25T22:40:47.613Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configurar-impressao-de-nota-fiscal-de-consumidor-eletronica-nfc-e
+locale: pt
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugPT: instore-setup
 ---

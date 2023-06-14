@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 5dYWGfGKUwkI86Gomk6AcQ
 slug: modelos-de-precios-de-aplicaciones
+locale: es
 legacySlug: modelos-de-precios-de-aplicaciones
 subcategory: 3e2VLdLao8GGk4sAmMmwmi
 ---

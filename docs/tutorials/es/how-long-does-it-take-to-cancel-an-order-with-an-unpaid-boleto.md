@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: en-cuanto-tiempo-un-pedido-de-boleto-sin-pago-se-cancela
+locale: es
 legacySlug: en-cuanto-tiempo-se-cancela-un-pedido-de-boleta-sin-pago
 subcategory: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---

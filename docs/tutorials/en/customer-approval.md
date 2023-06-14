@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: customer-approval
+locale: en
 legacySlug: customer-approval
 subcategory: 42hDtnYXHw5ExG6l19RP1l
 ---

@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: page-layout-changes-to-mobile-when-printing-ctrlp-is-used-in-chrome
+locale: en
 kiStatus: No Fix
 internalReference: 454680
 ---

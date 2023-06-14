@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: mercado-libre-integration-new-promotion-management-interface
+locale: en
 legacySlug: mercado-libre-integration-new-promotion-management-interface
 announcementImageID: ''
 announcementSynopsisEN: 'Launching new Mercado Libre promotion management interface'
@@ -18,7 +19,7 @@ Continuing with the improvements implemented for the [Mercado Libre certificatio
 
 On the new Mercado Libre **Promotions** page, you can manage a list of different promotional campaigns on the platform available for your store.
 
-![Promotions](//images.ctfassets.net/alneenqid6w5/1uv8mQZR9ey8oQsnhDbvCo/eae937e7894481e7f1e555f5a9993c61/Promotions.gif)
+![Promotions](https://images.ctfassets.net/alneenqid6w5/1uv8mQZR9ey8oQsnhDbvCo/eae937e7894481e7f1e555f5a9993c61/Promotions.gif)
 
 ## What has changed?
 

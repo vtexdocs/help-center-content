@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: ui-duplicando-selecao-de-data-e-hora-para-entrega-programada-quando-ha-divisao-de-entrega
+locale: pt
 kiStatus: Backlog
 internalReference: 569132
 ---

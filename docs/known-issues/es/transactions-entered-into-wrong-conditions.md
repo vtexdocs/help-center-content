@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: transacciones-introducidas-en-condiciones-erroneas
+locale: es
 kiStatus: Backlog
 internalReference: 392666
 ---

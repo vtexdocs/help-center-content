@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: el-correo-electronico-de-reembolso-de-pedidos-no-se-envia-cuando-se-reembolsa-un-importe-adicional-mediante-la-nueva-interfaz-de-usuario-oms
+locale: es
 kiStatus: Fixed
 internalReference: 563300
 ---

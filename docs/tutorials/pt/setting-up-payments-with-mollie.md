@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: configurar-pagamento-com-mollie
+locale: pt
 legacySlug: configurar-pagamento-com-mollie
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

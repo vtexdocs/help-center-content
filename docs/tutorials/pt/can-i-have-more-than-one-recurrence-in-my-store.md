@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_61
 slug: o-cliente-pode-ter-mais-de-uma-recorrencia
+locale: pt
 legacySlug: o-cliente-pode-ter-mais-de-uma-recorrencia
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---

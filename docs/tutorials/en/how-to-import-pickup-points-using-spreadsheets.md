@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: how-to-import-pickup-points-using-spreadsheets
+locale: en
 legacySlug: how-to-import-pickup-points-using-spreadsheets
 subcategory: 1c5Btie9ou2Gg2iUo0ggqM
 ---
@@ -27,8 +28,8 @@ A <strong>10 MB</strong> XLS file allows you to register an average <strong>50.0
 ## How to upload the spreadsheet
 1. Click on __Inventory & shipping__, on the __Orders__ section of the sidebar.
 2. On the options that open up, click on __Pickup points__.
-3. Click on the __Upload an XLS__ link, located on the top-right corner of the page. ![Upload XLS](//images.ctfassets.net/alneenqid6w5/4rUkTvzcqso46aGcsOYwMc/e8cf57f6c1ee560062dc8c1bfd7767ba/Upload_XLS.png)
-4. A modal window will appear, allowing you to upload your `.xls` extension file or to download the [example spreadsheet](//assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls). Remember that it comes with lines filled with example values, so you must replace them with your pickup points' actual data. ![modal (EN)](//images.ctfassets.net/alneenqid6w5/52EN8SmteU0kQK4U0YKy8a/1129dc87228d86800e06b455d5ccddf2/modal__EN_.png)
+3. Click on the __Upload an XLS__ link, located on the top-right corner of the page. ![Upload XLS](https://images.ctfassets.net/alneenqid6w5/4rUkTvzcqso46aGcsOYwMc/e8cf57f6c1ee560062dc8c1bfd7767ba/Upload_XLS.png)
+4. A modal window will appear, allowing you to upload your `.xls` extension file or to download the [example spreadsheet](//assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls). Remember that it comes with lines filled with example values, so you must replace them with your pickup points' actual data. ![modal (EN)](https://images.ctfassets.net/alneenqid6w5/52EN8SmteU0kQK4U0YKy8a/1129dc87228d86800e06b455d5ccddf2/modal__EN_.png)
 5. With all set, your new pickup points will be available to your clients.
 
 

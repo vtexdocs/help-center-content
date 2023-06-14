@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 71cQH3Q0oKXzeY2DmMZRKX
 slug: como-corrigir-divergencias-de-valores-do-produto-na-integracao-com-a
+locale: pt
 legacySlug: como-corrigir-divergencias-de-valores-do-produto-na-integracao-com-a
 ---
 

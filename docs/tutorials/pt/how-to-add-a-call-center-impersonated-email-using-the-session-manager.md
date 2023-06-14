@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_24
 slug: como-adicionar-e-mail-de-televendas-personificado-via-session-manager
+locale: pt
 legacySlug: como-adicionar-e-mail-de-televendas-personificado-via-session-manager
 subcategory: dajK0sARX2c0MISKKoGoc
 ---

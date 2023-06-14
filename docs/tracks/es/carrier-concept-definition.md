@@ -9,6 +9,7 @@ firstPublishedAt: 2019-10-21T12:50:14.542Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: transportadora-definicion-de-concepto 
+locale: es
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugES: logistica-101
 ---

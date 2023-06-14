@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 5V92cmF9jG8KG600EwUgEg
 slug: novo-objeto-retornado-na-api-get-order-cancelreason
+locale: pt
 legacySlug: novo-objeto-retornado-na-api-get-order-cancelreason
 announcementImageID: ''
 announcementSynopsisPT: 'O JSON de pedidos retornará um novo objeto chamado cancelReason.'

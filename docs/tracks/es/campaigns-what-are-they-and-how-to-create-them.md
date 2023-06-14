@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T21:02:12.253Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: campanas-que-son-y-como-crearlas
+locale: es
 trackId: 6asfF1vFYiZgTQtOzwJchR
 trackSlugES: promociones
 ---

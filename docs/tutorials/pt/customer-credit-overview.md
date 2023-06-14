@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6xBnaVsQ7K60kemi2U2Q6w
 slug: customer-credit-visao-geral
+locale: pt
 legacySlug: credit-control-visao-geral
 subcategory: 7EWKfPIGfmI0G8iMYK8Aiy
 ---
@@ -28,7 +29,7 @@ Lojas com relações B2B como distribuidores de redes varejistas, venda direta p
 
 ## Como funciona
 
-![Fluxo básico do Customer Credit](//images.ctfassets.net/alneenqid6w5/uTJmG1ZC48mCQeQKMCQ4m/5c64e88daa90836eeeabb7903af91a0f/cc-flow_pt.gif)
+![Fluxo básico do Customer Credit](https://images.ctfassets.net/alneenqid6w5/uTJmG1ZC48mCQeQKMCQ4m/5c64e88daa90836eeeabb7903af91a0f/cc-flow_pt.gif)
 *Fluxo básico de como funciona o Customer Credit nas lojas VTEX.*
 
 Por ter sido desenvolvido na VTEX, o Customer Credit está plenamente integrado ao SmartCheckout, o que significa que a experiência de compra dos seus clientes permanece a mesma.

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: uma-condicao-especial-de-periodo-de-tempo-pode-nao-se-comportar-como-esperado-ao-tela-como-uma-regra-de-pagamento-unica
+locale: pt
 kiStatus: Backlog
 internalReference: 712575
 ---

@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: promocoes-de-presentes-que-nao-funcionam-como-esperado-quando-atuam-em-conjunto-com-outras-promocoes-de-presentes
+locale: pt
 kiStatus: Backlog
 internalReference: 729980
 ---

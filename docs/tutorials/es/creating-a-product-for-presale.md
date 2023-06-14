@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: registrar-un-producto-para-la-preventa
+locale: es
 legacySlug: registrar-un-producto-para-la-preventa
 subcategory: pwxWmUu7T222QyuGogs68
 ---

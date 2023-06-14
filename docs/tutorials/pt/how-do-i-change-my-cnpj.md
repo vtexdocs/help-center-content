@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: como-fazer-a-alteracao-do-meu-cnpj
+locale: pt
 legacySlug: como-fazer-a-alteracao-do-meu-cnpj
 subcategory: 6SJnrkKDjGwSqKkMuQMOmm
 ---

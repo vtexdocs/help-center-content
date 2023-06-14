@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Master Data
 author: authors_31
 slug: mais-tempo-para-adaptar-as-requisicoes-de-front-end-da-sua-loja-ao-master
+locale: pt
 legacySlug: mais-tempo-para-adaptar-as-requisicoes-de-front-end-da-sua-loja
 announcementImageID: ''
 announcementSynopsisPT: 'Prorrogamos a data da descontinuação__ deste recurso para o dia 07 de outubro de 2019.'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_3
 slug: setting-up-b2b-on-vtex
+locale: en
 legacySlug: setting-up-b2b-on-vtex
 subcategory: 2LrbEY7MFeKqmdfYLBCnfi
 ---

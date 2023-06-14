@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: precios-caducados-no-borrablesactualizables-debido-al-limite-de-variacion-de-precios
+locale: es
 kiStatus: Backlog
 internalReference: 325695
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: apagar-uma-pasta-do-cms
+locale: pt
 legacySlug: apagar-uma-pasta-do-cms
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

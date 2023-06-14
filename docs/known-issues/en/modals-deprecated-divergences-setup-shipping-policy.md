@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: modals-deprecated-divergences-setup-shipping-policy
+locale: en
 kiStatus: Scheduled
 internalReference: 445866
 ---

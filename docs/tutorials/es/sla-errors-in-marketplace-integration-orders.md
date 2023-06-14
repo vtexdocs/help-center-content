@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: errores-de-sla-en-la-integracion-de-pedidos-de-marketplace
+locale: es
 legacySlug: errores-de-sla-en-la-integracion-de-pedidos-de-marketplace
 subcategory: 5m1qqfnmfYKsO0KiOQC8Ky
 ---

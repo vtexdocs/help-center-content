@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-servico-de-impostos-usa-dados-de-documentos-em-vez-de-email-do-cliente
+locale: pt
 kiStatus: Backlog
 internalReference: 548671
 ---

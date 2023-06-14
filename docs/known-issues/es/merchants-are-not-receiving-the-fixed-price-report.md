@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: los-comerciantes-no-reciben-el-informe-de-precios-fijos
+locale: es
 kiStatus: Scheduled
 internalReference: 674353
 ---

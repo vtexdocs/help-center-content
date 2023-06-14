@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: pedidos-de-entrega
+locale: es
 legacySlug: pedidos-de-entrega
 subcategory: 5SE2asHiQtHKfbnFru8RWH
 ---

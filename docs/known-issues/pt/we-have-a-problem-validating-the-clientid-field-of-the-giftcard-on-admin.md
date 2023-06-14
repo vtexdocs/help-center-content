@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: temos-um-problema-de-validacao-do-campo-clientid-do-giftcard-na-administracao
+locale: pt
 kiStatus: Backlog
 internalReference: 454388
 ---

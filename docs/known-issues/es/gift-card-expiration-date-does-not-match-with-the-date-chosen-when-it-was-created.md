@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: la-fecha-de-caducidad-de-la-tarjeta-regalo-no-coincide-con-la-fecha-elegida-al-crearla
+locale: es
 kiStatus: Backlog
 internalReference: 378436
 ---

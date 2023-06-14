@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: configuracao-de-quantidade-maxima-do-mesmo-item-no-carrinho-nao-pode-ser-alterada-por-contas-franquia
+locale: pt
 kiStatus: Backlog
 internalReference: 325273
 ---

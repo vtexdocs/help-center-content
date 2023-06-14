@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: he-editado-un-placeholder-y-el-sitio-no-se-actualiza-que-hacer
+locale: es
 legacySlug: he-editado-un-placeholder-y-el-sitio-no-se-actualiza-que-hacer
 ---
 

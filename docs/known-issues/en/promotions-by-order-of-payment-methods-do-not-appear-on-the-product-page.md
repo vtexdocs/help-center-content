@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: promotions-by-order-of-payment-methods-do-not-appear-on-the-product-page
+locale: en
 kiStatus: Backlog
 internalReference: 781523
 ---

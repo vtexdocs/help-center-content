@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: regra-de-divergencia-de-valores
+locale: pt
 legacySlug: regra-de-divergencia-de-valores
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---

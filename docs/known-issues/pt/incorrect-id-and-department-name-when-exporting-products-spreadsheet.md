@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: id-e-nome-de-departamento-incorretos-ao-exportar-planilha-de-produtos
+locale: pt
 kiStatus: Backlog
 internalReference: 783363
 ---

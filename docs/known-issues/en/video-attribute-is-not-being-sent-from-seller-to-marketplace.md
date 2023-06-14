@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: video-attribute-is-not-being-sent-from-seller-to-marketplace
+locale: en
 kiStatus: Backlog
 internalReference: 519412
 ---

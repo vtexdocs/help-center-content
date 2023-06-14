@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: nueva-funcionalidad-listos-para-despacho
+locale: es
 legacySlug: nueva-funcionalidad-listos-para-despacho
 announcementImageID: ''
 announcementSynopsisES: ' Nueva funcionalidad VTEX Log para la impresión de etiquetas y la notificación al transportista.'

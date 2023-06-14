@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: actualmente-la-interfaz-de-usuario-de-transacciones-tiene-una-limitacion-por-la-que-no-puede-mostrar-registros-de-interactions-si-la-carga-util-supera-las-5000-lineas
+locale: es
 kiStatus: Backlog
 internalReference: 778408
 ---

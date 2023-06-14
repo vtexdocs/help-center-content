@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: category-score-field-is-not-being-saved
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

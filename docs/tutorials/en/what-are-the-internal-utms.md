@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: what-are-the-internal-utms
+locale: en
 legacySlug: what-are-the-internal-utms
 subcategory: 7ogirQ8NClawO2X6xdgCKc
 ---

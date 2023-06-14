@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: B2B
 author: 5l3eEiSz8MpcppCxcnijGz
 slug: vtex-insurance
+locale: en
 legacySlug: vtex-insurance
 subcategory: 
 ---

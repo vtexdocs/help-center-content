@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 4iKDU1m0huXy1qFWff7vY5
 slug: how-to-handle-catalog-integration-timeout-errors
+locale: en
 legacySlug: untitled-entry-2019-03-20-at-09-50-15
 ---
 

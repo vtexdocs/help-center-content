@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: D0eIlynYFqaWQOMM6mmY6
 slug: faq-vtex-gerenciamento-de-pedidos
+locale: pt
 legacySlug: faq-vtex-oms
 subcategory: 3vhg10rO4MSmy06KeIYMIa
 ---

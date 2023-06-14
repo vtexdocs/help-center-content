@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: mudanca-de-ordem-atraves-da-iu-nao-leva-em-conta-o-calculo-das-promocoes
+locale: pt
 kiStatus: Backlog
 internalReference: 472882
 ---

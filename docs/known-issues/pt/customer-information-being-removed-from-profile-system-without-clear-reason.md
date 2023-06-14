@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: informacoes-do-cliente-sendo-removidas-do-sistema-de-perfil-sem-razao-clara
+locale: pt
 kiStatus: Backlog
 internalReference: 469823
 ---

@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: the-holiday-is-not-shown-in-the-list-after-using-the-api-to-create-put
+locale: en
 kiStatus: Backlog
 internalReference: 571040
 ---

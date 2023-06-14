@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Others
 author: 6qOjO5gpEs8scQ8OugaEaW
 slug: por-que-minhas-meta-tags-nao-sao-utilizadas-pelo-google
+locale: pt
 legacySlug: por-que-minhas-meta-tags-nao-sao-utilizadas-pelo-google
 ---
 

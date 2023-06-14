@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-18T12:20:30.431Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: como-funcionam-os-filtros-do-modulo-pedidos
+locale: pt
 trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugPT: pedidos
 ---

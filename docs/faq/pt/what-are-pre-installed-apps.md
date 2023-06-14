@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
 slug: o-que-sao-apps-pre-instaladas
+locale: pt
 legacySlug: o-que-sao-apps-pre-instaladas
 ---
 

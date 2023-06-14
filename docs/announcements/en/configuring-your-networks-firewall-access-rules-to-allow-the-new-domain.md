@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: authors_31
 slug: configuring-your-networks-firewall-access-rules-to-allow-the-new-domain
+locale: en
 legacySlug: configuring-your-networks-firewall-access-rules-to-allow-the-new-domain
 announcementImageID: ''
 announcementSynopsisEN: 'VTEX will change the domain that loads files. Review your firewall rules to ensure the domain is enabled.'

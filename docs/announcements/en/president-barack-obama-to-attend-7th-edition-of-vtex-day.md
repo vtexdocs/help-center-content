@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_84
 slug: president-barack-obama-to-attend-7th-edition-of-vtex-day
+locale: en
 legacySlug: president-barack-obama-to-attend-7th-edition-of-vtex-day
 announcementImageID: ''
 announcementSynopsisEN: 'The event is expected to gather 15 thousand participants on the 30th and 31st of May in São Paulo'

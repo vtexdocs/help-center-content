@@ -11,6 +11,7 @@ productTeam: Analytics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Analytics
 slug: el-calendario-de-resultados-de-ventas-tiene-un-problema-con-algunas-zonas-horarias-europeas
+locale: es
 kiStatus: Backlog
 internalReference: 718470
 ---

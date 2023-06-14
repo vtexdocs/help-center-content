@@ -9,6 +9,7 @@ firstPublishedAt: 2019-07-17T19:48:12.477Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: registrar-bloqueo-de-precio
+locale: es
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugES: precios-101
 ---

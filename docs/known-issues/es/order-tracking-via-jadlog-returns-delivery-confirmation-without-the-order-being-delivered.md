@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 tag: Order Management
 slug: rastreo-de-pedidos-a-traves-de-jadlog-devuelve-confirmacion-de-entrega-sin-que-se-haya-entregado-el-pedido
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

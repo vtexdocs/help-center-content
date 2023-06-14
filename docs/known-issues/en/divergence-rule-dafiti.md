@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: divergence-rule-dafiti
+locale: en
 kiStatus: Backlog
 internalReference: 594648
 ---

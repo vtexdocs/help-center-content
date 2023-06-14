@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: authors_24
 slug: nueva-api-ayuda-a-los-marketplaces-a-mantener-ventas
+locale: es
 legacySlug: nueva-api-ayuda-a-los-marketplaces-a-mantener-ventas
 announcementImageID: ''
 announcementSynopsisES: 'El Change Seller da más autonomía para que los marketplaces administren sus ventas.'

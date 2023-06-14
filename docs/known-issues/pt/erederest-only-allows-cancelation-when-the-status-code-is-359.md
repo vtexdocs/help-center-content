@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: erederest-so-permite-o-cancelamento-quando-o-codigo-de-status-e-359
+locale: pt
 kiStatus: Backlog
 internalReference: 740084
 ---

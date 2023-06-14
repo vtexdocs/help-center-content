@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: registrar-productos
+locale: es
 legacySlug: registro-productos-skus
 subcategory: pwxWmUu7T222QyuGogs68
 ---

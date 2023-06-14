@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: tipos-de-coleccion
+locale: es
 legacySlug: tipos-de-coleccion
 subcategory: 3aExYJkji3NIu9Ks8bxbWx
 ---

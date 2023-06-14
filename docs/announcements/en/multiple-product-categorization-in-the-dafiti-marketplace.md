@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: multiple-product-categorization-in-the-dafiti-marketplace
+locale: en
 legacySlug: multiple-product-categorization-in-the-dafiti-marketplace
 announcementImageID: ''
 announcementSynopsisEN: 'This is a regional exclusive content not applicable to English speaking countries.'

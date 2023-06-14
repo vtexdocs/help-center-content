@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_84
 slug: comprar-em-nome-do-cliente-pelo-televendas
+locale: pt
 legacySlug: comprar-em-nome-do-cliente-pelo-televendas
 subcategory: 1HSqkejwuYcQSMC400uY84
 ---

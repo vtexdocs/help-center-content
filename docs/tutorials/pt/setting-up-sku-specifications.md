@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 slug: configurar-especificacoes-no-sku
+locale: pt
 legacySlug: configurar-especificacoes-no-sku
 subcategory: pwxWmUu7T222QyuGogs68
 ---

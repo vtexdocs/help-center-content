@@ -9,6 +9,7 @@ firstPublishedAt: 2018-05-02T20:53:54.128Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: adicione-uma-imagem-ao-sku
+locale: pt
 trackId: 7sORw9I7QIka24MCQaIO2g
 trackSlugPT: vtex-getting-started
 ---

@@ -11,6 +11,7 @@ productTeam: VTEX Log
 author: 2mXZkbi0oi061KicTExNjo
 tag: VTEX Shipping Network
 slug: se-as-tabelas-dos-correios-nao-estiverem-concatenadas-no-filtro-ready-to-dispatch-a-geracao-de-etiquetas-nao-funciona-corretamente
+locale: pt
 kiStatus: Backlog
 internalReference: 517449
 ---

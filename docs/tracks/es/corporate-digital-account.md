@@ -9,6 +9,7 @@ firstPublishedAt: 2020-05-29T17:48:20.683Z
 contentType: trackArticle
 productTeam: Financial
 slug: cuenta-digital-corporativa
+locale: es
 trackId: 7iCCIoIZFmd9OabU6QlmXu
 trackSlugES: VTEX Payment
 ---

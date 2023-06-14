@@ -9,6 +9,7 @@ firstPublishedAt: 2018-05-02T20:48:14.991Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: crie-a-arvore-de-categorias
+locale: pt
 trackId: 7sORw9I7QIka24MCQaIO2g
 trackSlugPT: vtex-getting-started
 ---

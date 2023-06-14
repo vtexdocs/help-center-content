@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: texto-grande-indexado-e-texto-indexado-nao-sendo-alterados-pela-importacao-de-especificacao
+locale: pt
 kiStatus: Backlog
 internalReference: 322657
 ---

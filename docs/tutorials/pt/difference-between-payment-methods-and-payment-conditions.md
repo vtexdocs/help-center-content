@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento
+locale: pt
 legacySlug: diferenca-entre-meios-de-pagamento-e-condicoes-de-pagamento
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

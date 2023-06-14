@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: visao-geral-envio
+locale: pt
 legacySlug: visao-geral-envio
 subcategory: 63f22GypJIBLnMGh1QZUi0
 ---

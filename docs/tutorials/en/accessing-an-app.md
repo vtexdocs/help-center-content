@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: accessing-an-app
+locale: en
 legacySlug: accessing-the-app
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

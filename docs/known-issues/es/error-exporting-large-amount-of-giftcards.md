@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: error-al-exportar-una-gran-cantidad-de-tarjetas-de-regalo
+locale: es
 kiStatus: Backlog
 internalReference: 550658
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: como-funciona-suscripciones
+locale: es
 legacySlug: como-funciona-suscripciones
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
@@ -20,7 +21,7 @@ Su cliente indica con qué frecuencia desea repetir la compra de un determinado 
 
 Una suscripción para VTEX consiste en una lista de SKUs vinculada a cierta configuración de compra. Todas las operaciones de gestión giran en torno a la entidad «Suscripción», que contiene toda la información necesaria para generar el pedido correspondiente. El diagrama a continuación presenta el concepto de suscripción:
 
-![img8 subscriptions ES](//images.ctfassets.net/alneenqid6w5/1tNo9gQza7gWuDXZPRxQRO/0d226ff2f1bbcf31e803c7b9d297e35a/img8_subscriptions_ES_2.png)
+![img8 subscriptions ES](https://images.ctfassets.net/alneenqid6w5/1tNo9gQza7gWuDXZPRxQRO/0d226ff2f1bbcf31e803c7b9d297e35a/img8_subscriptions_ES_2.png)
 
 La suscripción es una forma simple de ahorrarle tiempo a su cliente y traer un flujo programado de ventas adicional a su tienda. 
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: pagina-de-detalles-de-la-localidad-beta
+locale: es
 legacySlug: pagina-de-detalles-de-la-localidad
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---

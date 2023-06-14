@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-pagamentos-com-alignet
+locale: pt
 legacySlug: configurar-pagamentos-com-alignet
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: authors_41
 slug: las-api-de-get-order-y-list-orders-pueden-devolver-pedidos-con-status-null
+locale: es
 legacySlug: las-api-de-get-order-y-list-orders-pueden-devolver-pedidos-con-status-null
 announcementImageID: ''
 announcementSynopsisES: 'A partir de 30/01/19, las órdenes pueden venir con status null en las respuestas de las llamadas Get Order y List Order.'

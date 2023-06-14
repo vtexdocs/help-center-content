@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-api-de-precios-permite-valores-negativos
+locale: es
 kiStatus: Backlog
 internalReference: 774548
 ---

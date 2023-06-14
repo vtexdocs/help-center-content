@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: erro-na-visualizacao-do-envioestimativadata-na-nova-ui
+locale: pt
 kiStatus: Backlog
 internalReference: 661040
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: get-product-by-refid-devuelve-null-cuando-no-se-encuentra
+locale: es
 kiStatus: Backlog
 internalReference: 826702
 ---

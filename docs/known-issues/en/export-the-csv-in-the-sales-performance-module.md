@@ -11,6 +11,7 @@ productTeam: Admin
 author: 2mXZkbi0oi061KicTExNjo
 tag: Admin
 slug: export-the-csv-in-the-sales-performance-module
+locale: en
 kiStatus: Backlog
 internalReference: 823878
 ---

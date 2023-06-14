@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: ive-edited-a-placeholder-and-the-site-hasnt-been-updated-what-to-do
+locale: en
 legacySlug: ive-edited-a-placeholder-and-the-site-hasnt-been-updated-what-to-do
 ---
 

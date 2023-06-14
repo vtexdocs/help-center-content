@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: category-specs-do-not-open-in-admin-on-first-attempt
+locale: en
 kiStatus: Backlog
 internalReference: 664419
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: bitrix24
+locale: en
 legacySlug: bitrix24
 subcategory: 4y4ylvqceE6vVqEF8IWZix
 ---

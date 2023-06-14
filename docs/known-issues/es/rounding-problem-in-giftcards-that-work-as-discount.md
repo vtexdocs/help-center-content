@@ -11,6 +11,7 @@ productTeam: Financial
 author: authors_84
 tag: Checkout,Order Management
 slug: problema-de-redondeo-en-giftcards-que-funcionan-como-descuento
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

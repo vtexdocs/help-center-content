@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_59
 slug: vtex-session-visao-geral-do-sistema-de-sessoes
+locale: pt
 legacySlug: vtex-session-visao-geral-do-sistema-de-sessoes
 subcategory: dajK0sARX2c0MISKKoGoc
 ---

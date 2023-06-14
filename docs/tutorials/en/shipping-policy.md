@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: shipping-policy
+locale: en
 legacySlug: adding-a-carrier, manage-carrier
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

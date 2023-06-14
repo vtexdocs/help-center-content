@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: pedidos-vision-general
+locale: es
 legacySlug: oms-vision-general
 subcategory: 3VNOhxDrvYxJThhuJClrYZ
 ---

@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: referencia-de-objeto-nao-definida-para-uma-instancia-de-um-objeto
+locale: pt
 kiStatus: Backlog
 internalReference: 482173
 ---

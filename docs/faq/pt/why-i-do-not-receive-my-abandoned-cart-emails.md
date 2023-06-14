@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 6JCq5z9N5xvlHKhhoEcvjM
 slug: por-que-nao-recebo-email-de-carrinho-abandonado
+locale: pt
 legacySlug: por-que-nao-recebo-email-de-carrinho-abandonado
 ---
 

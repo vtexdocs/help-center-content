@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: how-to-download-the-vtex-invoices
+locale: en
 legacySlug: how-to-download-vtex-payment-slips-and-tax-invoices
 subcategory: 5ZfsNR4ioEsIyu6wkyce0M
 ---
@@ -45,7 +46,7 @@ To download your invoice, follow the steps below:
 
 The invoice will then be appear in another tab.
 
-![baixar faturas en](//images.ctfassets.net/alneenqid6w5/4kge4ovIXcBv8EYizjg2ro/cd75e5882e47da9114a87979c13c1f9b/baixar_faturas_en.gif)
+![baixar faturas en](https://images.ctfassets.net/alneenqid6w5/4kge4ovIXcBv8EYizjg2ro/cd75e5882e47da9114a87979c13c1f9b/baixar_faturas_en.gif)
 
 ## Brazil 
 
@@ -65,7 +66,7 @@ To download your "boleto", follow the steps below:
 
 <div class="alert alert-info">In Brazil, a purple invoice can indicate that it is overdue but that a new "boleto" with an upcoming due date has already been issued. In such cases, the invoice will continue as overdue until it's paid. If no payment is made, the invoice color will switch to red again.</div>
 
-![baixar boletos en](//images.ctfassets.net/alneenqid6w5/4NxkYNfPImdKOMzCkuUAmp/4e545d21ada8b602c02ea337ff209d40/baixar_boletos_en.gif)
+![baixar boletos en](https://images.ctfassets.net/alneenqid6w5/4NxkYNfPImdKOMzCkuUAmp/4e545d21ada8b602c02ea337ff209d40/baixar_boletos_en.gif)
 
 ### Download "Nota Fiscal"
 
@@ -82,7 +83,7 @@ The Nota Fiscal will be opened in another tab on your browser. Click on **Print 
 1. In the Save as option, select **Save as PDF**.
 2. To conclude, click on **Save**.
 
-![baixar notafiscal en](//images.ctfassets.net/alneenqid6w5/2LhJUKdHjNziL9OXoqvWQg/cbe309a9e1695dc74b7345e74c80882b/baixar_notafiscal_en.gif)
+![baixar notafiscal en](https://images.ctfassets.net/alneenqid6w5/2LhJUKdHjNziL9OXoqvWQg/cbe309a9e1695dc74b7345e74c80882b/baixar_notafiscal_en.gif)
 
 If you have questions about the amount charged on the invoice, read the article on [understanding the value of approved revenues](https://help.vtex.com/tutorial/understanding-the-value-of-approved-revenues--tutorials_4322).
 

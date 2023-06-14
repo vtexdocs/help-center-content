@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: managing-stock-items
+locale: en
 legacySlug: managing-stock-items
 subcategory: 3PQwnyOcNyYgawy06oe6gE
 ---

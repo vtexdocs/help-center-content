@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-o-adquirente-worldpay
+locale: pt
 legacySlug: configurar-o-adquirente-worldpay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

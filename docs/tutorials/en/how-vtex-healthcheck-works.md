@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_59
 slug: how-vtex-healthcheck-works
+locale: en
 legacySlug: how-vtex-healthcheck-works
 subcategory: 5PYkoNDZyo2G80yiiqG2YW
 ---

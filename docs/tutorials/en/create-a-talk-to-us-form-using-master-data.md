@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_31
 slug: create-a-talk-to-us-form-using-master-data
+locale: en
 legacySlug: create-a-talk-to-us-form-using-master-data
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

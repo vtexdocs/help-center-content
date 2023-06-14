@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: cms-legacy-collections-tiempo-de-espera
+locale: es
 kiStatus: Backlog
 internalReference: 434026
 ---

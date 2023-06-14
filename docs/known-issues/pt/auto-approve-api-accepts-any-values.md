@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: auto-aprova-api-aceita-quaisquer-valores
+locale: pt
 kiStatus: Backlog
 internalReference: 713704
 ---

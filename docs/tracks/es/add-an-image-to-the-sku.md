@@ -9,6 +9,7 @@ firstPublishedAt: 2018-05-02T20:53:54.128Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: agregue-una-foto-al-sku
+locale: es
 trackId: 7sORw9I7QIka24MCQaIO2g
 trackSlugES: vtex-getting-started
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 4tz85APeKIwMEk6amWS0ou
 slug: vtex-io-2018-3-release-notes-and-migration-guide
+locale: en
 legacySlug: vtex-io-2018-3-release-notes-and-migration-guide
 subcategory: 5eBwrcLFVSwYGSOQqGKQYW
 ---

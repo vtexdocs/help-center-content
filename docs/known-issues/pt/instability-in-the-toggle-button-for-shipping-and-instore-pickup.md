@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: instabilidade-no-botao-que-alterna-a-escolha-entre-retirada-e-entrega
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

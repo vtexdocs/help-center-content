@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-base-de-datos-del-catalogo-registra-las-sku-con-especificaciones-duplicadas
+locale: es
 kiStatus: Backlog
 internalReference: 536133
 ---

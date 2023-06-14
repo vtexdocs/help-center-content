@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: save-user-opt-in-using-stored-information-for-future-purchases
+locale: en
 legacySlug: save-user-opt-in-using-stored-information-for-future-purchases
 announcementImageID: ''
 announcementSynopsisEN: 'Allow your customers to choose whether to store their data for future purchases.'
@@ -22,7 +23,7 @@ Previously, after customers entered their information at checkout or after their
 
 From now on, two checkboxes will be available on the Checkout screen, allowing users to indicate if they want their personal and payment information to be stored and used for future purchases. This will reduce your customers' shopping time. 
 
-![ Save user data opt-in EN](//images.ctfassets.net/alneenqid6w5/6NGmOzVPMDNlcptCwaqTsM/465f60548b25abfde675c3e81cbbcebe/Save_user_data_-_EN.PNG)
+![ Save user data opt-in EN](https://images.ctfassets.net/alneenqid6w5/6NGmOzVPMDNlcptCwaqTsM/465f60548b25abfde675c3e81cbbcebe/Save_user_data_-_EN.PNG)
 
 Learn more in [SmartCheckout - Customer information automatic fill-in](https://help.vtex.com/en/tutorial/smartcheckout-customer-information-automatic-fill-in--2Nuu3xAFzdhIzJIldAdtan#).
 

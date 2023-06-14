@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: carater-especial-no-relatorio-do-nome-do-vendedor
+locale: pt
 kiStatus: Backlog
 internalReference: 756243
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: what-is-the-issuing-bank
+locale: en
 legacySlug: what-is-the-issuing-bank
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

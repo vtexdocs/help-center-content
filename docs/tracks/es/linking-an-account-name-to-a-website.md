@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:29:05.951Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: vincular-un-account-name-con-un-website
+locale: es
 trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugES: cms
 ---

@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: disclosure-layout-cant-be-used-properly-when-prop-animated-is-set-as-true
+locale: en
 kiStatus: Backlog
 internalReference: 417947
 ---

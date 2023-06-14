@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: orders-with-change-sellers-executed-is-not-respecting-the-cancellation-grace-period
+locale: en
 kiStatus: Backlog
 internalReference: 656815
 ---

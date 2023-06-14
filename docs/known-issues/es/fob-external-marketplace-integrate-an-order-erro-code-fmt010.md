@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: el-mercado-externo-fob-integra-un-pedido-codigo-erro-fmt010
+locale: es
 kiStatus: Backlog
 internalReference: 532377
 ---

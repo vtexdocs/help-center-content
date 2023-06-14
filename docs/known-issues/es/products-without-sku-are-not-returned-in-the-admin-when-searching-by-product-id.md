@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: los-productos-sin-sku-no-aparecen-en-la-administracion-cuando-se-busca-por-id-de-producto
+locale: es
 kiStatus: Backlog
 internalReference: 740431
 ---

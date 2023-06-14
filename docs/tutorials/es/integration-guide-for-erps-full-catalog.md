@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: guia-de-integracion-de-erps-catalogo-completo
+locale: es
 legacySlug: guia-de-integracion-de-erps-catalogo-completo
 subcategory: 5fKgQZhrCw88ACy6Su6GUc
 ---

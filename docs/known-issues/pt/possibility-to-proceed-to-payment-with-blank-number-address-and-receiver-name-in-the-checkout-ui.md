@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: possibilidade-de-proceder-ao-pagamento-com-endereco-de-numero-em-branco-e-nome-do-destinatario-no-caixa-de-pagamento-ui
+locale: pt
 kiStatus: Fixed
 internalReference: 554052
 ---

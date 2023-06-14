@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: unable-to-pause-seller
+locale: en
 kiStatus: Fixed
 internalReference: 682151
 ---

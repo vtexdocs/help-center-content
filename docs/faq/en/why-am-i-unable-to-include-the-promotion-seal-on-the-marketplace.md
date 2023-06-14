@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: why-am-i-unable-to-include-the-promotion-seal-on-the-marketplace
+locale: en
 legacySlug: why-am-i-unable-to-include-the-promotion-seal-on-the-marketplace
 ---
 

@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T14:01:36.462Z
 contentType: trackArticle
 productTeam: Shopping
 slug: instore-setup-basico
+locale: pt
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugPT: instore-primeiros-passos-e-configuracoes
 ---

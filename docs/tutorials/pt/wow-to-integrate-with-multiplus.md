@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: integrando-com-multiplus
+locale: pt
 legacySlug: integrando-com-multiplus
 subcategory: 
 ---

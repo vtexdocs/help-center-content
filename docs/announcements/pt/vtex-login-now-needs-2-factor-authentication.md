@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: authors_24
 slug: login-na-vtex-agora-precisa-de-autenticacao-de-2-fatores
+locale: pt
 legacySlug: login-na-vtex-agora-precisa-de-autenticacao-de-2-fatores
 announcementImageID: ''
 announcementSynopsisPT: 'A partir de 16/11, a autenticação de 2 fatores torna-se obrigatória para acessar o Admin da VTEX.'

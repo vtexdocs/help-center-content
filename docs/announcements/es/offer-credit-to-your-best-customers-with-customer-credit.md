@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: de-credito-a-sus-mejores-clientes-con-customer-credit
+locale: es
 legacySlug: de-credito-a-sus-mejores-clientes-con-customer-credit
 announcementImageID: ''
 announcementSynopsisES: 'El antiguo Credit Control  será reemplazado por la nueva solución de crédito de VTEX para los clientes de su tienda.'

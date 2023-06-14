@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_59
 slug: payment-stuck-at-authorizing-status
+locale: en
 legacySlug: 
 ---
 

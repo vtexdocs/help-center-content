@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: la-solicitud-de-cuotas-en-la-pasarela-a-un-comerciante-distinto-del-mercado-se-realiza-siempre-con-saleschannel-1
+locale: es
 kiStatus: Backlog
 internalReference: 391197
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: cual-es-el-link-de-whatsapp
+locale: es
 legacySlug: cual-es-el-link-de-whatsapp
 ---
 

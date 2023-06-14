@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: get-category-tree-api-com-cache-interno
+locale: pt
 kiStatus: Backlog
 internalReference: 480892
 ---

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: welcome-message-control-doesnt-work-in-the-homepage
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

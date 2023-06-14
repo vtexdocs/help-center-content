@@ -11,6 +11,7 @@ productTeam: Channels
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: data-de-entrega-incorreta-nos-pedidos-de-marketplace-com-frete-externo
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

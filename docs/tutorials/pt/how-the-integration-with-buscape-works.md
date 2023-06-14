@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 slug: como-funciona-a-integracao-do-buscape
+locale: pt
 legacySlug: como-funciona-a-integracao-do-buscape
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

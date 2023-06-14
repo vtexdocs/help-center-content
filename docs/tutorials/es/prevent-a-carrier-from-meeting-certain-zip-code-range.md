@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: impedir-que-transportista-atienda-cierto-rango-de-codigos-postales
+locale: es
 legacySlug: impedir-que-transportista-atienda-cierto-rango-de-codigos-postales
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: o-que-e-um-grupo
+locale: pt
 legacySlug: o-que-e-um-grupo
 subcategory: pwxWmUu7T222QyuGogs68
 ---

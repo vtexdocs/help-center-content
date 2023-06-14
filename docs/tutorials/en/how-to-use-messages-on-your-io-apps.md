@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 3aBBTLS9ZKO6IcY0Goe2y2
 slug: how-to-use-messages-on-your-io-apps
+locale: en
 legacySlug: how-to-use-messages-on-your-io-apps
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---

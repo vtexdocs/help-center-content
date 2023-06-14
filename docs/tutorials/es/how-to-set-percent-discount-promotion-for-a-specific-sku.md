@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: configurar-promocion-de-descuento-porcentual-para-un-sku-especifico
+locale: es
 legacySlug: configurar-promocion-de-descuento-porcentual-para-un-sku-especifico
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

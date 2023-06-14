@@ -9,6 +9,7 @@ firstPublishedAt: 2018-08-13T14:28:06.574Z
 contentType: trackArticle
 productTeam: Channels
 slug: cadastro-da-integracao-do-mercado-livre
+locale: pt
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugPT: configurar-integracao-do-mercado-livre
 ---

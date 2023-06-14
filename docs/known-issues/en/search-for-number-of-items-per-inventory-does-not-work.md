@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: search-for-number-of-items-per-inventory-does-not-work
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

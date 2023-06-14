@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 
 slug: como-consultar-lancamentos-futuros
+locale: en
 legacySlug: como-consultar-lancamentos-futuros
 subcategory: 18xYXhZbElixqnashigi5k
 ---

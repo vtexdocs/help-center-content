@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: flag-promocional-exibida-em-produtos-fora-da-faixa-de-preco
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

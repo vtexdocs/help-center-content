@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: conflitos-com-filtros-de-preco-e-isavailablepersaleschannel-em-buscas-portal-e-busca-novamente
+locale: pt
 kiStatus: Backlog
 internalReference: 531277
 ---

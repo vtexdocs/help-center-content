@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: 245tA425AIeioKAk2eaiwS
 slug: confira-as-entradas-caa-da-sua-loja
+locale: pt
 legacySlug: confira-as-entradas-caa-da-sua-loja
 announcementImageID: ''
 announcementSynopsisPT: 'Recomendamos que você atualize as entradas CAA dos seus gerenciadores de DNS até 9/11.'

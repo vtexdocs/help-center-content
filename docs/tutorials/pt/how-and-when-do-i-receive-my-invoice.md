@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Billing
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: como-e-quando-recebo-minha-nota-fiscal-e-meu-boleto
+locale: pt
 legacySlug: como-e-quando-recebo-minha-nota-fiscal-e-meu-boleto
 subcategory: 5ZfsNR4ioEsIyu6wkyce0M
 ---

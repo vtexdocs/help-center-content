@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: payment-methods-remain-on-the-checkout-page-even-when-the-associated-payment-condition-is-disabled
+locale: en
 kiStatus: Backlog
 internalReference: 649237
 ---

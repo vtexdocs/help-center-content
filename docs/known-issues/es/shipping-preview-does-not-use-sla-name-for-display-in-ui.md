@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-vista-previa-de-los-envios-no-utiliza-el-nombre-del-ans-para-su-visualizacion-en-la-interfaz-de-usuario
+locale: es
 kiStatus: Backlog
 internalReference: 574651
 ---

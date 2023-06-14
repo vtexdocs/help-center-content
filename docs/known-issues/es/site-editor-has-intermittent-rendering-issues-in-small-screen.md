@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: el-editor-del-sitio-tiene-problemas-de-representacion-intermitente-en-la-pantalla-pequena
+locale: es
 kiStatus: Backlog
 internalReference: 399339
 ---

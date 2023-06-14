@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: para-que-serve-o-campo-na-tabela-de-frete-minimum-value-insurance
+locale: pt
 legacySlug: para-que-serve-o-campo-na-tabela-de-frete-minimum-value-insurance
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

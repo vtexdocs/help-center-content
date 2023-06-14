@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: la-busqueda-por-lista-de-regalo-no-devuelve-resultado-cuando-se-aplica-con-3-o-menos-caracteres
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

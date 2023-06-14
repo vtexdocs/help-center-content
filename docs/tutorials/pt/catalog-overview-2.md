@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: visao-geral-catalogo
+locale: pt
 legacySlug: visao-geral-catalogo
 subcategory: 6jaCCq5pVL7VxL0WNWV0cF
 ---

@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: problema-al-traducir-los-titulos-de-algunas-facetas
+locale: es
 kiStatus: Backlog
 internalReference: 776353
 ---

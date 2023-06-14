@@ -9,6 +9,7 @@ firstPublishedAt: 2018-05-02T20:51:51.794Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: crie-um-produto
+locale: pt
 trackId: 7sORw9I7QIka24MCQaIO2g
 trackSlugPT: vtex-getting-started
 ---

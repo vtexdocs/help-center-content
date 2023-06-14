@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: buy-one-get-one
+locale: en
 legacySlug: buy-win
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

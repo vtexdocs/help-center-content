@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: error-al-instalar-la-aplicacion-de-credito-al-cliente
+locale: es
 kiStatus: Backlog
 internalReference: 336533
 ---

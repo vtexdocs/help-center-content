@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: how-to-create-a-web-site
+locale: en
 legacySlug: how-to-create-a-web-site
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

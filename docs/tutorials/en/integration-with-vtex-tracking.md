@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: integration-with-vtex-tracking
+locale: en
 legacySlug: integration-with-vtex-tracking
 subcategory: t5ai1r0dN7J4U1IYLbHmG
 ---

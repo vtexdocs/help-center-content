@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_64
 slug: consultas-al-master-data-via-ruta-scroll
+locale: es
 legacySlug: consultas-al-master-data-via-ruta-scroll
 subcategory: WpbGhubuRZaNZilJSXnqu
 ---

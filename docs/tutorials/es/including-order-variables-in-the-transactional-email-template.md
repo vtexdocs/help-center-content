@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: incluir-variables-del-pedido-en-el-template-de-email-transaccional
+locale: es
 legacySlug: incluir-variables-del-pedido-en-el-template-de-email-transaccional
 subcategory: 4D5LrWwlHGmOWMomOaaGee
 ---

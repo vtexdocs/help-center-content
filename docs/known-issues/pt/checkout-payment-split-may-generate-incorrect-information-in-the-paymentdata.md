@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: 
 slug: checkout-payment-split-may-generate-incorrect-information-in-the-paymentdata
+locale: pt
 kiStatus: Backlog
 internalReference: 330802
 ---

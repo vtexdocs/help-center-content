@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: cuadro-de-mandos-de-las-suscripciones-con-informacion-contradictoria
+locale: es
 kiStatus: Backlog
 internalReference: 587579
 ---

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: al-hacer-clic-para-evaluar-un-producto-no-se-puede-salir-de-la-pantalla-de-login
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

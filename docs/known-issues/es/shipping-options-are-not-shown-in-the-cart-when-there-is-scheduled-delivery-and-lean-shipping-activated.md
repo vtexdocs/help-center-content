@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: las-opciones-de-envio-no-se-muestran-en-el-carrito-cuando-hay-entrega-programada-y-lean-shipping-activado
+locale: es
 kiStatus: Backlog
 internalReference: 362685
 ---

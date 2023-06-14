@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: o-acesso-do-license-manager-para-o-gerenciamento-de-politicas-comerciais-nao-esta-funcionando
+locale: pt
 kiStatus: Backlog
 internalReference: 380904
 ---

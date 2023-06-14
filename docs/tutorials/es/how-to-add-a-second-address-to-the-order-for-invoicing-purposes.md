@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: como-anadir-una-segunda-direccion-al-pedido-para-fines-de-facturacion
+locale: es
 legacySlug: como-anadir-una-segunda-direccion-al-pedido-para-fines-de-facturacion
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

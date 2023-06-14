@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: errors-in-the-category-and-attribute-mapping-worksheet
+locale: en
 legacySlug: errors-in-the-category-and-attribute-mapping-worksheet
 subcategory: 4HBbKdnwneGew2qGGykSM8
 ---

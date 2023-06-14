@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: probando-webservice-con-soapui
+locale: es
 legacySlug: probando-webservice-con-soapui
 subcategory: 1vwB9FtTSQmcSewQw02QoW
 ---

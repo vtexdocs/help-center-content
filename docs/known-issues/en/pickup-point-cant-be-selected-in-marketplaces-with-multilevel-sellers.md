@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: pickup-point-cant-be-selected-in-marketplaces-with-multilevel-sellers
+locale: en
 kiStatus: Backlog
 internalReference: 524073
 ---

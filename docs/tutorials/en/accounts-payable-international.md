@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: accounts-payable-international
+locale: en
 legacySlug: accounts-payable-procedures-international
 subcategory: 22TaEgFhwE6a6CG2KASYkC
 ---

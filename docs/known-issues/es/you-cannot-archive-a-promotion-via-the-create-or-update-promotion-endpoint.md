@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 tag: Pricing & Promotions
 slug: no-se-puede-archivar-una-promocion-por-el-endpoint-create-or-update
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

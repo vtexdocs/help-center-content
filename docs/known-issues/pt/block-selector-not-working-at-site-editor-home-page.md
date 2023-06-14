@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: selecionador-de-blocos-que-nao-funciona-na-pagina-inicial-do-editor-do-site
+locale: pt
 kiStatus: Backlog
 internalReference: 431941
 ---

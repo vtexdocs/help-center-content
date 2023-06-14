@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 245tA425AIeioKAk2eaiwS
 slug: receive-payments-with-bitcoin-in-your-store
+locale: en
 legacySlug: receive-payments-with-bitcoin-in-your-store
 announcementImageID: ''
 announcementSynopsisEN: 'VTEX platform now allows your store to accept payments with bitcoin'

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: unspecific-error-message-when-exporting-produtoexportacaoimportacaoespecificacaov2aspx
+locale: en
 kiStatus: Backlog
 internalReference: 314227
 ---

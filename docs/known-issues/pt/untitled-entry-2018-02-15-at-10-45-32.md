@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 
 tag: 
 slug: ao-modificar-categoria-de-parent-informacoes-de-hierarquia-nao-sao
+locale: pt
 kiStatus: 
 internalReference: 
 ---

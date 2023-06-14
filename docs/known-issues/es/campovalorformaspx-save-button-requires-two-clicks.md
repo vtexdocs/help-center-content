@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-boton-de-guardar-de-campovalorformaspx-requiere-dos-clics
+locale: es
 kiStatus: Backlog
 internalReference: 525616
 ---

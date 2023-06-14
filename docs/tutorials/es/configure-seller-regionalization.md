@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: configurar-la-regionalizacion-del-seller
+locale: es
 legacySlug: configurar-la-regionalizacion-del-seller
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2018-03-15T21:37:39.581Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configurar-logistica-para-el-instore
+locale: es
 trackId: 
 trackSlugES: 
 ---

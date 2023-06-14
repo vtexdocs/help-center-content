@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: por-que-meu-pedido-nao-foi-aprovado-na-b2w
+locale: pt
 legacySlug: por-que-meu-pedido-nao-foi-aprovado-na-b2w
 ---
 

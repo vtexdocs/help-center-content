@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: divergencia-no-tempo-de-entrega-netshoes
+locale: pt
 kiStatus: Backlog
 internalReference: 635509
 ---

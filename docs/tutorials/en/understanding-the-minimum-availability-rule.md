@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: understanding-the-minimum-availability-rule
+locale: en
 legacySlug: understanding-the-minimum-availability-rule
 subcategory: 7lxg0kyL3TYIsrlSQlf1zP
 ---

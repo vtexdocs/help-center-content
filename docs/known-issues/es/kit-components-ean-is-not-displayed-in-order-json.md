@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_3
 tag: Order Management
 slug: ean-de-los-componentes-del-kit-no-se-imprimen-en-el-json-del-pedido
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: que-es-una-subcategoria
+locale: es
 legacySlug: que-es-una-subcategoria
 subcategory: 1E7tziZCkY4w8i4EmUuwec
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: como-funciona-o-painel-todos-os-pedidos-v2
+locale: pt
 legacySlug: como-funciona-o-painel-todos-os-pedidos-v2
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

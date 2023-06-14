@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: redireccion-de-url-con-caracteres-especiales-no-ascii-errores-de-retorno
+locale: es
 kiStatus: Backlog
 internalReference: 457047
 ---

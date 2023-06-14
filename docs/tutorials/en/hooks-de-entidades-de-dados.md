@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_64
 slug: hooks-de-entidades-de-dados
+locale: en
 legacySlug: hooks-de-entidades-de-dados
 subcategory: 
 ---

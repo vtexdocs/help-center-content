@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_3
 slug: creating-form-in-master-data
+locale: en
 legacySlug: creating-form-in-master-data
 subcategory: WpbGhubuRZaNZilJSXnqu
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_3
 slug: filtrando-dados-no-master-data
+locale: pt
 legacySlug: filtrando-dados-no-master-data
 subcategory: WpbGhubuRZaNZilJSXnqu
 ---

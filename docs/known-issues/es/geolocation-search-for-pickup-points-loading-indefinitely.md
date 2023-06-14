@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 tag: Checkout
 slug: la-geolocalizacion-para-buscar-puntos-de-recogida-se-queda-cargando
+locale: es
 kiStatus: Fixed
 internalReference: 
 ---

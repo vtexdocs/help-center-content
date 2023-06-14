@@ -9,6 +9,7 @@ firstPublishedAt: 2020-03-05T19:54:20.493Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: autocomplete-search
+locale: en
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search
 ---
@@ -54,22 +55,22 @@ Another advantage for the store's manager is the increase in conversion due to t
 
 This section displays the most searched terms on the website by other customers.
 
-![top-busca-EN](//images.ctfassets.net/alneenqid6w5/2gToQi6Nms00oiWUKUbARZ/a935147445ee66de24f43b5c27498119/top-busca-EN.png)
+![top-busca-EN](https://images.ctfassets.net/alneenqid6w5/2gToQi6Nms00oiWUKUbARZ/a935147445ee66de24f43b5c27498119/top-busca-EN.png)
 
 ## Last searches
 
 This section displays the last searches performed by the customer. This way, it is possible to start the interaction with the search instantly.
 
-![historico-EN](//images.ctfassets.net/alneenqid6w5/4MGjASLdfoocOJUHqNQZ3S/a1f82e4d16a67dd446bd8b00117a3744/historico-EN.png)
+![historico-EN](https://images.ctfassets.net/alneenqid6w5/4MGjASLdfoocOJUHqNQZ3S/a1f82e4d16a67dd446bd8b00117a3744/historico-EN.png)
 
 ## Search suggestions
 
 This section displays the terms and categories other users searched related to the search performed at that time. 
 
-![sugest-EN](//images.ctfassets.net/alneenqid6w5/1yoepV91SSqKxLr0VVD8AX/4b80f72d4c5c5352c2399a1fbec2489e/sugest-EN.png)
+![sugest-EN](https://images.ctfassets.net/alneenqid6w5/1yoepV91SSqKxLr0VVD8AX/4b80f72d4c5c5352c2399a1fbec2489e/sugest-EN.png)
 
 ## Product suggestion
 
 This section shows the products that correspond to the search carried out at that moment. By displaying products related to your search while you are typing, it reduces dropouts and gives the user the possibility to make a more dynamic purchase.
 
-![produtos-EN](//images.ctfassets.net/alneenqid6w5/5QMMNF3iCB2428Ycmswtvd/40062662cd777497d54a86eadb13a1d0/produtos-EN.png)
+![produtos-EN](https://images.ctfassets.net/alneenqid6w5/5QMMNF3iCB2428Ycmswtvd/40062662cd777497d54a86eadb13a1d0/produtos-EN.png)

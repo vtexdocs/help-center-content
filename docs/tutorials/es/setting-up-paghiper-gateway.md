@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-gateway-paghiper
+locale: es
 legacySlug: configurar-gateway-paghiper
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

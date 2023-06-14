@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: atualizar-vendedor-usando-admin-esta-definindo-alguns-campos-de-volta-para-o-valor-padrao-depois-de-modificalo-via-api
+locale: pt
 kiStatus: Backlog
 internalReference: 608120
 ---

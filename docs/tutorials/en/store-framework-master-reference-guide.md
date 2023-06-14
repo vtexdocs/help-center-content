@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 3aBBTLS9ZKO6IcY0Goe2y2
 slug: store-framework-master-reference-guide
+locale: en
 legacySlug: store-framework-master-reference-guide
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

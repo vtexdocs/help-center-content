@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: por-que-meu-produto-aparece-indisponivel-na-loja
+locale: pt
 legacySlug: 
 ---
 

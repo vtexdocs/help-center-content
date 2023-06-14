@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-ordenacion-de-los-campos-de-los-productos-y-las-sku-no-se-guarda1
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

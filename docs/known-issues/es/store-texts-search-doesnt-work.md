@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: busqueda-de-textos-de-la-tienda-no-funciona
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 slug: why-has-my-product-been-wrongly-categorized-on-mercado-livre
+locale: en
 legacySlug: why-has-my-product-been-wrongly-categorized-on-mercado-livre
 ---
 

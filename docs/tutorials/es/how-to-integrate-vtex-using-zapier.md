@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 4SOjDgX9EIgKcoG0sgCcWE
 slug: como-integrar-vtex-utilizando-zapier
+locale: es
 legacySlug: untitled-entry-2017-09-19-at-03-41-48
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---

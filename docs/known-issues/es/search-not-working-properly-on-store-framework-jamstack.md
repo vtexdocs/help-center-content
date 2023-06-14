@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: la-busqueda-no-funciona-correctamente-en-store-framework-jamstack
+locale: es
 kiStatus: Backlog
 internalReference: 383231
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: term-makes-search-api-have-no-return
+locale: en
 kiStatus: Backlog
 internalReference: 570542
 ---

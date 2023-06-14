@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_24
 slug: erro-404-ao-tentar-cancelar-pedido
+locale: pt
 legacySlug: erro-404-ao-tentar-cancelar-pedido
 ---
 

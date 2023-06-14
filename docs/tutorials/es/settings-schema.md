@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 5dYWGfGKUwkI86Gomk6AcQ
 slug: configuracion-de-apps
+locale: es
 legacySlug: configuracion-de-apps
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

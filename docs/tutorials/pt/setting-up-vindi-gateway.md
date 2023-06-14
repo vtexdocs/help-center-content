@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-o-gateway-vindi
+locale: pt
 legacySlug: configurar-o-gateway-vindi
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

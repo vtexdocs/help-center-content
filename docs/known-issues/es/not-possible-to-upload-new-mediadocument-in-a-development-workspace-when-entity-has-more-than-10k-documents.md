@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: no-es-posible-cargar-nuevos-mediosdocumentos-en-un-espacio-de-trabajo-de-desarrollo-cuando-la-entidad-tiene-mas-de-10k-documentos
+locale: es
 kiStatus: Backlog
 internalReference: 795940
 ---

@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: filtrar-na-lista-pedido-por-promocao-com-espaco-em-branco-nao-esta-funcionando
+locale: pt
 kiStatus: Backlog
 internalReference: 523984
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 6AcGyun1hSWewU8YcaQiO
 slug: gerenciando-redirecionamentos-de-url-por-binding
+locale: pt
 legacySlug: gerenciando-redirecionamentos-de-url-por-binding
 subcategory: 1znnjA17XqaUNdNFr42PW5
 ---
@@ -25,7 +26,7 @@ No Admin VTEX:
 1. Acesse **Storefront > Pages**.
 2. Clique na aba **Redirecionamentos**.
 
-![pt-redirecttab](//images.ctfassets.net/alneenqid6w5/5L8GV385HAeTQqBjQ3uAS4/e3a177caafdb271ce78b94c86f9add4f/pt-redirecttab.png)
+![pt-redirecttab](https://images.ctfassets.net/alneenqid6w5/5L8GV385HAeTQqBjQ3uAS4/e3a177caafdb271ce78b94c86f9add4f/pt-redirecttab.png)
 
 ## Criando redirecionamentos manualmente
 
@@ -35,7 +36,7 @@ No Admin VTEX:
 4. Defina se o seu redirecionamento será permanente ou temporário - caso o seu redirecionamento seja temporário, você pode selecionar o botão `Este redirecionamento tem uma data de término` para definir uma data de término para ele.
 5. Salve as suas alterações.
 
-![pt-newredirect](//images.ctfassets.net/alneenqid6w5/1qnEjsKieoskStnq0Bvl2P/0d02ab19801b3c6fea8e8b2a78ae4ef9/pt-newredirect.png)
+![pt-newredirect](https://images.ctfassets.net/alneenqid6w5/1qnEjsKieoskStnq0Bvl2P/0d02ab19801b3c6fea8e8b2a78ae4ef9/pt-newredirect.png)
 
 ## Excluindo redirecionamentos manualmente
 
@@ -43,7 +44,7 @@ No Admin VTEX:
 2. Clique no botão `Excluir`.
 3. Confirme sua ação.
 
-![pt-redirectdelete](//images.ctfassets.net/alneenqid6w5/3dRsZxKTYJTaOPrm6rBU84/3e5a9c1f27986e34fa7fd7b32f1a636e/pt-redirectdelete.png)
+![pt-redirectdelete](https://images.ctfassets.net/alneenqid6w5/3dRsZxKTYJTaOPrm6rBU84/3e5a9c1f27986e34fa7fd7b32f1a636e/pt-redirectdelete.png)
 
 <div class="alert alert-warning">
 Um <i>bug</i> pode ser encontrado ao tentar clicar em redirecionamentos com parâmetros de consulta na URL (<i>query strings</i>). O time de produto da VTEX já está ciente do comportamento inesperado e trabalhando na correção. Caso você não consiga clicar no redirecionamento desejado para excluí-lo, prefira fazê-lo por meio da importação da planilha enquanto o problema não é resolvido.
@@ -72,7 +73,7 @@ Os redirecionamentos listados na planilha serão obrigatoriamente criados ou exc
 4. Clique no botão `Importar`.
 5. Marque o botão `Salvar` ou` Excluir` de acordo com o seu cenário.
 
-![pt-planilharedirect](//images.ctfassets.net/alneenqid6w5/1Vjku4KoOrCbO7mcdehcCt/e7979dca1ef4b2f159bb3c09a42d9716/pt-planilharedirect.png)
+![pt-planilharedirect](https://images.ctfassets.net/alneenqid6w5/1Vjku4KoOrCbO7mcdehcCt/e7979dca1ef4b2f159bb3c09a42d9716/pt-planilharedirect.png)
 
 <div class="alert alert-warning">
 Ao clicar no botão <code>Salvar</code>, você criará todos os redirecionamentos listados em sua planilha, ao passo que clicar no botão <code>Excluir</couirde> removerá todos eles do banco de dados de redirecionamentos da sua loja.

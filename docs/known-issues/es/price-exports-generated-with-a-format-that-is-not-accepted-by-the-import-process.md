@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: exportaciones-de-precios-generadas-con-un-formato-que-no-es-aceptado-por-el-proceso-de-importacion
+locale: es
 kiStatus: Fixed
 internalReference: 584975
 ---

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: controle-productbrand-substitui-caracteres-especiais
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

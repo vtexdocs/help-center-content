@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: os-usuarios-nao-podem-acessar-as-configuracoes-de-credito-do-cliente-ui-no-admin-devido-a-um-erro-proibido
+locale: pt
 kiStatus: Backlog
 internalReference: 380931
 ---

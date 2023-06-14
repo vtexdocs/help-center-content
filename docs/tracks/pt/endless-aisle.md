@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-30T21:36:39.077Z
 contentType: trackArticle
 productTeam: Shopping
 slug: prateleira-infinita
+locale: pt
 trackId: 3WGDRRhc3vf1MJb9zGncnv
 trackSlugPT: estrategias-de-comercio-unificado
 ---

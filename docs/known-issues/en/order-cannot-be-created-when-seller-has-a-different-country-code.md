@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: order-cannot-be-created-when-seller-has-a-different-country-code
+locale: en
 kiStatus: Backlog
 internalReference: 763955
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: default-value-on-specification-only-working-when-creating-products-through-admin
+locale: en
 kiStatus: Backlog
 internalReference: 550097
 ---

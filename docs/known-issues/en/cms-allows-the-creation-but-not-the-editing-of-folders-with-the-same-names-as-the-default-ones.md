@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: cms-allows-the-creation-but-not-the-editing-of-folders-with-the-same-names-as-the-default-ones
+locale: en
 kiStatus: Backlog
 internalReference: 566791
 ---

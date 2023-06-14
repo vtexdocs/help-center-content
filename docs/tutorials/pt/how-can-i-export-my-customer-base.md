@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_84
 slug: como-realizar-a-exportacao-da-minha-base-de-clientes
+locale: pt
 legacySlug: como-realizar-a-exportacao-da-minha-base-de-clientes
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

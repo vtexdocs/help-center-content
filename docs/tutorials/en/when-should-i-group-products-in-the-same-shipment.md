@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: when-should-i-group-products-in-the-same-shipment
+locale: en
 legacySlug: when-should-i-group-products-in-the-same-shipment
 subcategory: 1UL6Q7nUN6SkA2g2SUsECi
 ---

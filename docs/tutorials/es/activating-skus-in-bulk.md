@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: activar-skus-en-massa
+locale: es
 legacySlug: activar-skus-en-massa
 subcategory: pwxWmUu7T222QyuGogs68
 ---

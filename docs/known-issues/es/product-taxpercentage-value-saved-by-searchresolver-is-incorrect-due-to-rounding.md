@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: el-valor-del-taxpercentage-del-producto-guardado-por-el-searchresolver-es-incorrecto-debido-al-redondeo
+locale: es
 kiStatus: Backlog
 internalReference: 470143
 ---

@@ -11,6 +11,7 @@ productTeam: VTEX IO
 author: 
 tag: 
 slug: 
+locale: es
 kiStatus: 
 internalReference: 
 ---

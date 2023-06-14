@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: no-se-restablece-el-uso-del-cupon-en-los-pedidos-incompletos
+locale: es
 kiStatus: Backlog
 internalReference: 639418
 ---

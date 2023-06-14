@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: problema-na-ordenacao-de-melhor-desconto
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

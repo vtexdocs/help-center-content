@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: substituicao-de-produto-em-pedido-oms-nao-funcionando-nas-contas-do-portal-do-vendedor
+locale: pt
 kiStatus: Backlog
 internalReference: 753484
 ---

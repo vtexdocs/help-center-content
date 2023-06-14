@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_24
 slug: por-que-o-brinde-aparece-como-indisponivel
+locale: pt
 legacySlug: por-que-o-brinde-aparece-como-indisponivel
 ---
 

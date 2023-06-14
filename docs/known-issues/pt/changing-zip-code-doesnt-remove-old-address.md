@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: alterar-cep-nao-remove-o-endereco-antigo
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

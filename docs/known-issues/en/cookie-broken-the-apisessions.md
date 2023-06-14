@@ -11,6 +11,7 @@ productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
 slug: cookie-broken-the-apisessions
+locale: en
 kiStatus: Backlog
 internalReference: 779014
 ---

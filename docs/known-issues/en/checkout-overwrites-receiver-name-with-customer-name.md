@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: checkout-overwrites-receiver-name-with-customer-name
+locale: en
 kiStatus: Backlog
 internalReference: 324792
 ---

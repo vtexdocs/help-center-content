@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: why-am-i-unable-to-integrate-products-without-an-ean-or-with-an-invalid-ean
+locale: en
 legacySlug: why-am-i-unable-to-integrate-products-without-an-ean-or-with-an-invalid-ean
 ---
 

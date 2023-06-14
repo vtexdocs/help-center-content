@@ -11,6 +11,7 @@ productTeam: Analytics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Analytics
 slug: metodo-de-entrega-por-grupo-no-desempenho-de-vendas-nao-funciona-como-esperado
+locale: pt
 kiStatus: Backlog
 internalReference: 639294
 ---

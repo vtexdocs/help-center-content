@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: la-api-de-la-lista-de-ofertas-coincidentes-no-funciona-correctamente
+locale: es
 kiStatus: Backlog
 internalReference: 553456
 ---

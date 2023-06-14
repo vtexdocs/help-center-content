@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 
 slug: primeiros-passos-fase-comercial
+locale: pt
 legacySlug: primeiros-passos-fase-comercial
 subcategory: 
 ---

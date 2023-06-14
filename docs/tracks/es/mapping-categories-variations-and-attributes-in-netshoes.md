@@ -9,6 +9,7 @@ firstPublishedAt: 2018-09-27T15:03:03.255Z
 contentType: trackArticle
 productTeam: Channels
 slug: mapeo-de-categorias-variaciones-y-atributos-de-netshoes
+locale: es
 trackId: 5Ua87lhFg4m0kEcuyqmcCm
 trackSlugES: configurar-integracion-netshoes
 ---

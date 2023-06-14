@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: errores-de-integracion-de-productos-de-amazon
+locale: es
 legacySlug: errores-de-integracion-de-productos-de-amazon
 subcategory: 4HBbKdnwneGew2qGGykSM8
 ---

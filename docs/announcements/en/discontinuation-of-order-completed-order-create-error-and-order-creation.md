@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: discontinuation-of-order-completed-order-create-error-and-order-creation
+locale: en
 legacySlug: discontinuation-of-order-completed-order-create-error-and-order-creation
 announcementImageID: ''
 announcementSynopsisEN: 'Fulfillment order statuses will be discontinued: `order-completed``order-create-error` `order-creation-error`'

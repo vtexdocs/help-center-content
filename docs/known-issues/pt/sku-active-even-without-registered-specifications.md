@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
 tag: Catalog
 slug: sku-ativo-mesmo-sem-especificacoes-cadastradas
+locale: pt
 kiStatus: Closed
 internalReference: 
 ---

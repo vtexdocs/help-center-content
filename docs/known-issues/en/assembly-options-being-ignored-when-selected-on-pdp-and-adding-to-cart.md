@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: assembly-options-being-ignored-when-selected-on-pdp-and-adding-to-cart
+locale: en
 kiStatus: Fixed
 internalReference: 743529
 ---

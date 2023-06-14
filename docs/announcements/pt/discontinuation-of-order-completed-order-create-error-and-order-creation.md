@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: descontinuacao-dos-status-dos-pedidos-de-fulfillment-order-completed-order
+locale: pt
 legacySlug: descontinuacao-dos-status-dos-pedidos-de-fulfillment-order-completed-order
 announcementImageID: ''
 announcementSynopsisPT: 'Status dos pedidos de Fulfillment `order-completed``order-create-error` e `order-creation-error` vão ser descontinuados'

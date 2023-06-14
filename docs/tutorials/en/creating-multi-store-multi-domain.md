@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: creating-multi-store-multi-domain
+locale: en
 legacySlug: creating-multi-store-multi-domain
 subcategory: yMp6sKDiJEi66CGAIQ4ma
 ---

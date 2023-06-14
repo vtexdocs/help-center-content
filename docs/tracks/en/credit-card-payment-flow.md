@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-22T19:30:16.374Z
 contentType: trackArticle
 productTeam: Financial
 slug: credit-card-payment-flow
+locale: en
 trackId: 6GAS7ZzGAm7AGoEAwDbwJG
 trackSlugEN: payments
 ---

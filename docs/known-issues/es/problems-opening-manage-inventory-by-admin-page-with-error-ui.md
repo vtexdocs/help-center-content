@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: problemas-al-abrir-la-pagina-gestionar-el-inventario-por-parte-del-administrador-con-error-ui
+locale: es
 kiStatus: Backlog
 internalReference: 466491
 ---

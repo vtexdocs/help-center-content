@@ -11,6 +11,7 @@ productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
 slug: caracteres-especiais-nao-podem-ser-usados-para-busca-cnpj-em-masterdata
+locale: pt
 kiStatus: Backlog
 internalReference: 602054
 ---

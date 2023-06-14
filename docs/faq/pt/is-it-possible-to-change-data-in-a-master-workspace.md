@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
 slug: e-possivel-alterar-dados-no-workspace-master
+locale: pt
 legacySlug: e-possivel-alterar-dados-no-workspace-master
 ---
 

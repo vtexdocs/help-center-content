@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: intl-no-considera-moneda-personalizada-en-formatdivisa
+locale: es
 kiStatus: Backlog
 internalReference: 736695
 ---

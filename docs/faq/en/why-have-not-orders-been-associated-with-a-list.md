@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Others
 author: authors_59
 slug: why-have-not-orders-been-associated-with-a-list
+locale: en
 legacySlug: why-have-not-orders-been-associated-with-a-list
 ---
 

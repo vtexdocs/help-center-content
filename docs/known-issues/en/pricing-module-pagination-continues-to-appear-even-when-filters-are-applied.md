@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 3b6CkfkmuAY4Be6231c37z
 tag: Pricing & Promotions
 slug: pricing-module-pagination-continues-to-appear-even-when-filters-are-applied
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

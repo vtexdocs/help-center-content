@@ -9,6 +9,7 @@ firstPublishedAt: 2020-07-01T13:10:52.289Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configurar-o-instore-como-pdv
+locale: pt
 trackId: 3WGDRRhc3vf1MJb9zGncnv
 trackSlugPT: estrategias-de-comercio-unificado
 ---

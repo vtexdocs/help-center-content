@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-interfaz-de-usuario-solo-tiene-en-cuenta-los-elementos-disponibles-para-calcular-el-sla
+locale: es
 kiStatus: Backlog
 internalReference: 797028
 ---

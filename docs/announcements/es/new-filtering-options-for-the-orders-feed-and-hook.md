@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: nuevas-opciones-de-filtrado-para-feed-y-hook
+locale: es
 legacySlug: nuevas-opciones-de-filtrado-para-feed-y-hook
 announcementImageID: ''
 announcementSynopsisES: 'Ahora es posible filtrar el Feed de pedidos por cualquier atributo, como por entrega o cambios de ítems.'

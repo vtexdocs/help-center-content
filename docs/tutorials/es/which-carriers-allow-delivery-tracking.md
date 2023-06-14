@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_2
 slug: que-transportadoras-ponen-a-disposicion-el-rastreo-de-pedido
+locale: es
 legacySlug: cuales-transportistas-ponen-a-disposicion-el-rastreo-de-flete, que-transportadoras-ponen-a-disposicion-el-rastreo-de-pedido
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

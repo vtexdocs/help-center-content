@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_41
 tag: Pricing & Promotions
 slug: pedidos-con-changes-pueden-no-enviar-e-mail-transaccional-de-pedido
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

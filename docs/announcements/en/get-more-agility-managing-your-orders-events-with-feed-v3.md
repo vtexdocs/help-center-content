@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 6AcGyun1hSWewU8YcaQiO
 slug: get-more-agility-managing-your-orders-events-with-feed-v3
+locale: en
 legacySlug: get-more-agility-managing-your-orders-events-with-feed-v3
 announcementImageID: ''
 announcementSynopsisEN: "Through its new features, Feed v3 enables more effective management of your feed's records."

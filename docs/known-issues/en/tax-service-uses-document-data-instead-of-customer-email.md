@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: tax-service-uses-document-data-instead-of-customer-email
+locale: en
 kiStatus: Backlog
 internalReference: 548671
 ---

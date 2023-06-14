@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: lendico-installment-loans-expand-your-payment-options
+locale: en
 legacySlug: lendico-boleto-installments-expand-your-payment-options-with-this-brand-new
 announcementImageID: ''
 announcementSynopsisEN: "Meet Lendico's Boleto Installments - a new payment method to increase your chances of conversion in Brazil"

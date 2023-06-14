@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_4
 slug: habilitando-aplicaciones-de-una-nueva-tienda-en-el-master-data 
+locale: es
 legacySlug: habilitando-aplicaciones-de-una-nueva-tienda-en-el-master-data 
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---

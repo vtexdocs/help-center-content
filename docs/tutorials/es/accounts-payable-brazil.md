@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: cuentas-a-pagar-brasil
+locale: es
 legacySlug: procedimientos-de-cuentas-a-pagar
 subcategory: 22TaEgFhwE6a6CG2KASYkC
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_3
 slug: filtrar-datos-en-el-master-data
+locale: es
 legacySlug: filtrar-datos-en-el-master-data
 subcategory: WpbGhubuRZaNZilJSXnqu
 ---

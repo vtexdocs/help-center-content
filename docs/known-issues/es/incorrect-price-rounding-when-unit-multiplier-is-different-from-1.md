@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: redondeo-incorrecto-del-precio-cuando-el-multiplicador-de-la-unidad-es-diferente-de-1
+locale: es
 kiStatus: Backlog
 internalReference: 426275
 ---

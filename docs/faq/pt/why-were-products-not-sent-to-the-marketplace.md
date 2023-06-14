@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: por-que-os-produtos-nao-foram-enviados-para-o-marketplace
+locale: pt
 legacySlug: por-que-os-produtos-nao-foram-enviados-para-o-marketplace
 ---
 

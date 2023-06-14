@@ -9,6 +9,7 @@ firstPublishedAt: 2018-11-06T20:24:15.191Z
 contentType: trackArticle
 productTeam: Financial
 slug: instalar-customer-credit
+locale: es
 trackId: 1hCRg21lXYy2seOKgqQ2CC
 trackSlugES: customer-credit-como-empezar
 ---

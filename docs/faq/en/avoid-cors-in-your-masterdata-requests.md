@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Master Data
 author: TnXcuQydAAOuwWACo864E
 slug: avoid-cors-in-your-masterdata-requests
+locale: en
 legacySlug: avoid-cors-in-your-masterdata-requests
 ---
 

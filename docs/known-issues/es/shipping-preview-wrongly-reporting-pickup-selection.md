@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-vista-previa-del-envio-informa-erroneamente-de-la-seleccion-de-la-recogida
+locale: es
 kiStatus: Backlog
 internalReference: 552912
 ---

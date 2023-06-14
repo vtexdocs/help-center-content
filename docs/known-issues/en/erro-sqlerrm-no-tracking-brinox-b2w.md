@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: erro-sqlerrm-no-tracking-brinox-b2w
+locale: en
 kiStatus: Backlog
 internalReference: 643287
 ---

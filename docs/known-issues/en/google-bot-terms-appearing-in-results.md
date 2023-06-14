@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: google-bot-terms-appearing-in-results
+locale: en
 kiStatus: Backlog
 internalReference: 627537
 ---

@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: el-selector-de-cantidad-en-modo-paso-a-paso-no-se-actualiza-despues-de-alcanzar-la-maxima-cantidad-disponible
+locale: es
 kiStatus: Backlog
 internalReference: 704458
 ---

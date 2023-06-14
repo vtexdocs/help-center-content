@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-adquirente-firstdata
+locale: es
 legacySlug: configurar-adquirente-firstdata
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

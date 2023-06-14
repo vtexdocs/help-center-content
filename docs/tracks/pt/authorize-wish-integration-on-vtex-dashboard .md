@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-19T17:28:26.617Z
 contentType: trackArticle
 productTeam: Channels
 slug: autorizar-integracao-da-wish-no-painel-da-vtex
+locale: pt
 trackId: 50hbG4bzhSIhjz1lzqI1g4
 trackSlugPT: integracao-com-a-wish
 ---

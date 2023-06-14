@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: cartao-de-credito-fluxo-basico-de-um-pagamento
+locale: pt
 legacySlug: cartao-de-credito-fluxo-basico-de-um-pagamento
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

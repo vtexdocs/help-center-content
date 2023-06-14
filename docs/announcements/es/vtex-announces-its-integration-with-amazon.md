@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: authors_59
 slug: vtex-anuncia-su-integracion-con-amazon
+locale: es
 legacySlug: vtex-anuncia-su-integracion-con-amazon
 announcementImageID: ''
 announcementSynopsisES: 'Ahora nuestros clientes ya pueden conectarse con una de las mayores tiendas del mundo.'

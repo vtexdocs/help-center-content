@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: modificacion-de-la-orden-a-traves-de-la-api-sin-correo-electronico-orderchanged
+locale: es
 kiStatus: Backlog
 internalReference: 380509
 ---

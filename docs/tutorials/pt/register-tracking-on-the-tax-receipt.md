@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: cadastrar-rastreio-na-nota-fiscal
+locale: pt
 legacySlug: cadastrar-rastreio-na-nota-fiscal
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

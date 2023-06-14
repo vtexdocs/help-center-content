@@ -9,6 +9,7 @@ firstPublishedAt: 2021-09-27T20:57:59.730Z
 contentType: trackArticle
 productTeam: Shopping
 slug: definir-meios-de-pagamento-exibidos-no-instore
+locale: pt
 trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugPT: instore-pagamentos
 ---

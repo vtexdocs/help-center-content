@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: como-migrar-de-recurrencia-v1-para-suscripciones-v2
+locale: es
 legacySlug: como-migrar-de-recurrencia-v1-para-suscripciones-v2
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---

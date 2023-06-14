@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: new-mandatory-attribute-for-products-sent-to-mercado-libre
+locale: en
 legacySlug: new-mandatory-attribute-for-products-sent-to-mercado-libre
 announcementImageID: ''
 announcementSynopsisEN: 'Products in the Cell phones category in Mercado Libre must have the new mandatory attribute'

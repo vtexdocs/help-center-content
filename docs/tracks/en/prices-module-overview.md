@@ -9,6 +9,7 @@ firstPublishedAt: 2019-07-11T21:35:16.813Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: prices-module-overview
+locale: en
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugEN: prices-101
 ---

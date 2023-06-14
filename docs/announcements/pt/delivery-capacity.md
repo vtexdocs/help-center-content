@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: capacidade-de-entrega
+locale: pt
 legacySlug: capacidade-de-entrega
 announcementImageID: ''
 announcementSynopsisPT: '  Gerencie e limite a quantidade de itens ou pedidos das suas janelas de entregas agendadas.'

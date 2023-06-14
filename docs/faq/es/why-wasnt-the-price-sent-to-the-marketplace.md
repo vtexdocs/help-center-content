@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: por-que-el-precio-no-fue-integrado-con-el-marketplace
+locale: es
 legacySlug: por-que-el-precio-no-fue-integrado-con-el-marketplace
 ---
 

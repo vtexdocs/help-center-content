@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: placeorder-gerando-desconto-errado-e-valores-de-envio-entre-itens-que-aparecem-mais-de-uma-vez
+locale: pt
 kiStatus: Backlog
 internalReference: 732529
 ---

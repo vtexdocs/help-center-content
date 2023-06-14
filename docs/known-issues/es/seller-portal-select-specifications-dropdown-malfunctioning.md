@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-desplegable-de-seleccion-de-especificaciones-del-portal-del-vendedor-no-funciona-correctamente
+locale: es
 kiStatus: Backlog
 internalReference: 711303
 ---

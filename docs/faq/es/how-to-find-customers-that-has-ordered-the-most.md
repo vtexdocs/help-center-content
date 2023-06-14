@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_24
 slug: como-veo-a-los-clientes-que-mas-han-comprado
+locale: es
 legacySlug: como-veo-a-los-clientes-que-mas-han-comprado
 ---
 

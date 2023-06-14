@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: how-to-update-the-image-of-an-sku
+locale: en
 legacySlug: how-to-update-the-image-of-an-sku
 subcategory: pwxWmUu7T222QyuGogs68
 ---

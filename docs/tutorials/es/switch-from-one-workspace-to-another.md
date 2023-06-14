@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: cambiar-de-un-workspace-a-otro
+locale: es
 legacySlug: cambiar-de-un-workspace-a-otro
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Message Center
 slug: sms-configuration-in-message-centre-module-returns-an-error
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

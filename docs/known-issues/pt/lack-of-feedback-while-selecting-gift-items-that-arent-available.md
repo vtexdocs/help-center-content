@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: falta-de-feedback-ao-selecionar-itens-de-presente-que-nao-estao-disponiveis
+locale: pt
 kiStatus: Fixed
 internalReference: 648767
 ---

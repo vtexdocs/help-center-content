@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
 slug: database-maintenance-full-cleanup
+locale: en
 legacySlug: understanding-how-to-maintain-a-database
 subcategory: 63DHe3VQEEE6Uuua8gIs2M
 ---

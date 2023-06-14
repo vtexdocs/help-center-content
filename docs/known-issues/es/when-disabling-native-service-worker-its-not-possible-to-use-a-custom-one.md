@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: cuando-se-desactiva-el-service-worker-nativo-no-es-posible-utilizar-uno-personalizado
+locale: es
 kiStatus: Backlog
 internalReference: 770949
 ---

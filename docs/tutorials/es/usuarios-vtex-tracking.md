@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: usuarios-vtex-tracking
+locale: es
 legacySlug: usuarios-vtex-tracking
 subcategory: 7yiFRk9TGfMNeyhT83UljP
 ---

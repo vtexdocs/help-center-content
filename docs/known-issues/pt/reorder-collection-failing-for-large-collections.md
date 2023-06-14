@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: falha-na-reordenacao-de-colecoes-para-colecoes-grandes
+locale: pt
 kiStatus: Backlog
 internalReference: 408140
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_4
 slug: file-upload-button-is-not-displayed-at-cms
+locale: en
 legacySlug: file-upload-button-is-not-displayed-at-cms
 ---
 

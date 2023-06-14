@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Reliability
 author: authors_3
 slug: why-is-an-error-returned-on-access-to-the-store-after-changing-the-dns
+locale: en
 legacySlug: why-is-an-error-returned-on-access-to-the-store-after-changing-the-dns
 ---
 

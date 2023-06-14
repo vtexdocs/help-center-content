@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: setting-up-payment-with-paypal
+locale: en
 legacySlug: setting-up-payment-with-paypal
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

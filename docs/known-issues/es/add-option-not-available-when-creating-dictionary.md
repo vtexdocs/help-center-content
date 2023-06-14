@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: crear-diccionario-no-proporciona-la-opcion-de-add
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---
@@ -30,5 +31,5 @@ Crear un nuevo diccionario en el módulo CMS que no tenga ningún Host previamen
 
 Acceda al módulo CMS, haga clic en los botones lupa y limpiar en secuencia y se desbloqueará el botón agregar nuevo host.
 
-![PT - Criar dicionário não disponibiliza opção de "Add"](//images.ctfassets.net/alneenqid6w5/7bUb8P0cVAGpEb2Do9oRLz/d9118e018381d7733489a862eb7140ad/image__1_.png)
+![PT - Criar dicionário não disponibiliza opção de "Add"](https://images.ctfassets.net/alneenqid6w5/7bUb8P0cVAGpEb2Do9oRLz/d9118e018381d7733489a862eb7140ad/image__1_.png)
 

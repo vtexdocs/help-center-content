@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: configurar-samsung-pay-como-medio-de-pago
+locale: es
 legacySlug: configurar-samsung-pay-como-medio-de-pago
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

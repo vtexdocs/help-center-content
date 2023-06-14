@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: transaction-flow-in-payments
+locale: en
 legacySlug: transaction-flow-in-pci-gateway
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

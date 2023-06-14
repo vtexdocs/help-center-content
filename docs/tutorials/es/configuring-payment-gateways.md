@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_6
 slug: configurando-medios-de-pago
+locale: es
 legacySlug: configurando-medios-de-pago
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

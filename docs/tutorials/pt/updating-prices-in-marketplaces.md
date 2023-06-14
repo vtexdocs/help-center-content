@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: atualizando-preco-para-marketplace
+locale: pt
 legacySlug: atualizando-preco-para-marketplace
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---

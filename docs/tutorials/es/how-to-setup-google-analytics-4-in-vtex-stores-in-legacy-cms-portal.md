@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: configurar-el-google-analytics-4-en-tienda-vtex-en-cms-portal-legado
+locale: es
 legacySlug: configurar-el-google-analytics-4-en-tienda-vtex-en-cms-portal-legado
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

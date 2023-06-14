@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: requesting-an-additional-trade-policy
+locale: en
 legacySlug: requesting-an-additional-trade-policy
 subcategory: 6J3wx7KM4oysymsWuUACyY
 ---

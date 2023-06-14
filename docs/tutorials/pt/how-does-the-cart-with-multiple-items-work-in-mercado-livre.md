@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 245tA425AIeioKAk2eaiwS
 slug: como-funciona-o-carrinho-com-multiplos-itens-no-mercado-livre
+locale: pt
 legacySlug: como-funciona-o-carrinho-com-multiplos-itens-no-mercado-livre
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---
@@ -30,7 +31,7 @@ Em vez de usar os IDs de cada item (o que geraria pedidos separados em nosso sis
 
 Você pode encontrar os dois IDs através do relatório enviado a partir do painel de integrações no Admin da VTEX.
 
-![Pedidos Mercado Livre](//images.ctfassets.net/alneenqid6w5/2NFqrrWGlqQMYSOugYo8kQ/deba1c9f1ffb01e0db3f2874fb7ee8a3/Pedidos_Mercado_Livre.png)
+![Pedidos Mercado Livre](https://images.ctfassets.net/alneenqid6w5/2NFqrrWGlqQMYSOugYo8kQ/deba1c9f1ffb01e0db3f2874fb7ee8a3/Pedidos_Mercado_Livre.png)
 
 <div class="alert alert-warning">
 Essa lógica de funcionamento se aplica a todos os tipos de entrega, com exceção daqueles que incluem pickup points. Nesses casos, a plataforma continua a utilizar o ID antigo.

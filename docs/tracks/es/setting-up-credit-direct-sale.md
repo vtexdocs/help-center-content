@@ -9,6 +9,7 @@ firstPublishedAt: 2021-09-27T20:35:59.233Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configuracion-de-venta-directa-credito
+locale: es
 trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugES: instore-pagos
 ---

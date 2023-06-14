@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 5dYWGfGKUwkI86Gomk6AcQ
 slug: autorizando-sua-app
+locale: pt
 legacySlug: autorizando-sua-app
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

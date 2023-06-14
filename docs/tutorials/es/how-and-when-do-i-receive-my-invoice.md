@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Billing
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: como-y-cuando-recibo-mi-factura-y-mi-boleto-bancario
+locale: es
 legacySlug: como-y-cuando-recibo-mi-factura-y-mi-boleto-bancario
 subcategory: 5ZfsNR4ioEsIyu6wkyce0M
 ---

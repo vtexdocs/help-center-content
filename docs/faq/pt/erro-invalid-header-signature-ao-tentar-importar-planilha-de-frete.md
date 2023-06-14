@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_59
 slug: erro-invalid-header-signature-ao-tentar-importar-planilha-de-frete
+locale: pt
 legacySlug: erro-invalid-header-signature-ao-tentar-importar-planilha-de-frete
 ---
 

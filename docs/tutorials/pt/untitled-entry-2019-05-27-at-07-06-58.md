@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: entenda-as-condicoes-de-pagamento-do-vtex-payment
+locale: pt
 legacySlug: entenda-as-condicoes-de-pagamento-do-vtex-payment
 subcategory: 7DxGppMM2tOzQN4LFVo2Lg
 ---

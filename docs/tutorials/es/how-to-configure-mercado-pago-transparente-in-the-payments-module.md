@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: como-configurar-mercado-pago-transparente-en-el-modulo-pagos
+locale: es
 legacySlug: como-configurar-mercado-pago-transparente-en-el-modulo-pci
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

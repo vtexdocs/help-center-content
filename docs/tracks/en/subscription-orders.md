@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-18T12:21:06.649Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: subscription-orders
+locale: en
 trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugEN: orders
 ---

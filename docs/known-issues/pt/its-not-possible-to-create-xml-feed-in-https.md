@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Catalog
 slug: nao-e-possivel-criar-feed-xml-em-https
+locale: pt
 kiStatus: Fixed
 internalReference: 
 ---

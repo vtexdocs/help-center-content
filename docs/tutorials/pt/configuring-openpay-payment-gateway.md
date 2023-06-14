@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: configurar-o-gateway-openpay
+locale: pt
 legacySlug: configurar-o-gateway-openpay
 subcategory: 
 ---

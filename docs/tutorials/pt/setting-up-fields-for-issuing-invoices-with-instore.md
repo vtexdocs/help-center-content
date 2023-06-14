@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_59
 slug: configurar-campos-para-emissao-de-nota-fiscal-no-instore
+locale: pt
 legacySlug: configurar-campos-para-emissao-de-nota-fiscal-no-instore
 subcategory: 8AGXmtpbTqUE2KQu0Swwk
 ---

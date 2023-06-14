@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: authors_24
 slug: v2-da-api-de-checkout-e-fulfillment-ja-esta-em-beta-migracao-sera
+locale: pt
 legacySlug: v2-da-api-de-checkout-e-fulfillment-ja-esta-em-beta-migracao-sera
 announcementImageID: ''
 announcementSynopsisPT: 'A V2 traz uma série de melhorias em relação à versão anterior e remove alguns campos e rotas que já estavam obsoletos.'

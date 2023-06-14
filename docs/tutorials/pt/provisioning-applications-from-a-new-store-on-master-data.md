@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_4
 slug: provisionando-aplicacoes-nova-loja-master-data
+locale: pt
 legacySlug: provisionando-aplicacoes-nova-loja-master-data
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---

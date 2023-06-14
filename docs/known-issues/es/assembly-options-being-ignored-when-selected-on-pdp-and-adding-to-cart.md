@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: se-ignoran-las-opciones-de-montaje-al-seleccionarlas-en-la-pdp-y-anadirlas-al-carro
+locale: es
 kiStatus: Fixed
 internalReference: 743529
 ---

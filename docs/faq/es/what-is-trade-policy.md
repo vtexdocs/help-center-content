@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_84
 slug: que-es-politica-comercial
+locale: es
 legacySlug: 
 ---
 

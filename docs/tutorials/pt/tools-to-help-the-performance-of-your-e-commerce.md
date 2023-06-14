@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_35
 slug: ferramentas-para-auxiliar-performance-do-e-commerce
+locale: pt
 legacySlug: ferramentas-para-auxiliar-performance-do-e-commerce
 subcategory: wz3FvYTctwuCwG206QUAi
 ---

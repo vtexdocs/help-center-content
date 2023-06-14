@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: anuncios-enviados-beta
+locale: pt
 legacySlug: anuncios-enviados-beta
 subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---
@@ -21,7 +22,7 @@ O módulo Anúncios Enviados permite que sellers supervisionem o envio e a sincr
 - [Anúncios](https://help.vtex.com/pt/tutorial/anuncios-enviados-beta--6yg2CBv5Z5AnD0qS0cw2sa#anuncios)            
 - [Canais](https://help.vtex.com/pt/tutorial/anuncios-enviados-beta--6yg2CBv5Z5AnD0qS0cw2sa#canais)          
 
-![Anuncios enviados Home PT](//images.ctfassets.net/alneenqid6w5/4eTCYZQ0RRa2n9JN81RhRG/7b571504f49ac69f0788861144905d4e/Anuncios_enviados_Home_PT.jpg)
+![Anuncios enviados Home PT](https://images.ctfassets.net/alneenqid6w5/4eTCYZQ0RRa2n9JN81RhRG/7b571504f49ac69f0788861144905d4e/Anuncios_enviados_Home_PT.jpg)
 
 ## Anúncios
 

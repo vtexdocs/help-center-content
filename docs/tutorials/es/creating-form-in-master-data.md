@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_3
 slug: creando-formulario-en-master-data
+locale: es
 legacySlug: creando-formulario-en-master-data
 subcategory: WpbGhubuRZaNZilJSXnqu
 ---

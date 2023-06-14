@@ -9,6 +9,7 @@ firstPublishedAt: 2022-03-08T18:28:59.554Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: costos-y-simulacion-de-envio
+locale: es
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugES: logistica-101
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2018-10-30T22:53:54.339Z
 contentType: trackArticle
 productTeam: Channels
 slug: configuraces-iniciais-do-google-shopping-ads
+locale: pt
 trackId: 47kz5PRQPK0IEaqGqiIuA
 trackSlugPT: como-fazer-campanhas-atraves-do-google-ads
 ---

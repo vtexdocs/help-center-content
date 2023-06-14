@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: o-pedido-nao-atualiza-o-status-no-oms
+locale: pt
 kiStatus: Backlog
 internalReference: 421529
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: configurar-el-gateway-braspag
+locale: es
 legacySlug: configurar-el-gateway-braspag
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

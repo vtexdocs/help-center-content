@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: los-pagares-extra-no-contemplan-el-margen-de-cambio-para-la-venta-al-alza
+locale: es
 kiStatus: Fixed
 internalReference: 525987
 ---

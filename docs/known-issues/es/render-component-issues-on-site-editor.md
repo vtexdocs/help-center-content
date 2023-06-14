@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: problemas-con-los-componentes-de-renderizado-en-el-editor-de-sitios
+locale: es
 kiStatus: Backlog
 internalReference: 415674
 ---

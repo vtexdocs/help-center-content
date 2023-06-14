@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: que-pagamentos-customizados-estao-disponiveis-na-america-latina
+locale: pt
 legacySlug: que-pagamentos-customizados-estao-disponiveis-na-america-latina
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

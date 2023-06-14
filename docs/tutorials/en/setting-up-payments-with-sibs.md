@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: setting-up-payments-with-sibs
+locale: en
 legacySlug: setting-up-payments-with-sibs
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

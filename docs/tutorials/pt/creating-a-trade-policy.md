@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: criar-uma-politica-comercial
+locale: pt
 legacySlug: o-que-e-uma-politica-comercial
 subcategory: 6J3wx7KM4oysymsWuUACyY
 ---

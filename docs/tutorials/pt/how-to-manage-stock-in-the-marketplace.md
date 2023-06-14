@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: como-gerenciar-estoque-no-marketplace
+locale: pt
 legacySlug: como-gerenciar-estoque-no-marketplace
 subcategory: 7lxg0kyL3TYIsrlSQlf1zP
 ---

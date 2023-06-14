@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_64
 slug: consultas-ao-master-data-via-rota-scroll
+locale: pt
 legacySlug: consultas-ao-master-data-via-rota-scroll
 subcategory: WpbGhubuRZaNZilJSXnqu
 ---

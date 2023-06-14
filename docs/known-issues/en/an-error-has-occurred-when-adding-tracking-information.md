@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: an-error-has-occurred-when-adding-tracking-information
+locale: en
 kiStatus: Backlog
 internalReference: 409225
 ---

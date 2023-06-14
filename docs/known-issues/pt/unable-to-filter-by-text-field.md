@@ -11,6 +11,7 @@ productTeam: Master Data
 author: 3aBBTLS9ZKO6IcY0Goe2y2
 tag: Master Data
 slug: nao-e-possivel-filtrar-por-campo-de-texto
+locale: pt
 kiStatus: Open
 internalReference: 
 ---

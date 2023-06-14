@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: pesquisa-de-colecao-o-titulo-nao-exibe-acentos-quando-acessado-atraves-de-mapproductclusternames
+locale: pt
 kiStatus: Backlog
 internalReference: 439856
 ---

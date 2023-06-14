@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: get-sku-by-ean-api-retorna-apenas-skus-ativas
+locale: pt
 kiStatus: Backlog
 internalReference: 699007
 ---

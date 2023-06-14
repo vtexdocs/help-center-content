@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: paquete-devuelto-como-entrega-a-cliente-final-en-mi-cuenta
+locale: es
 kiStatus: Backlog
 internalReference: 415482
 ---

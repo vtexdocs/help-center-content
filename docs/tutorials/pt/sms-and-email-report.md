@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: relatorio-de-sms-e-email
+locale: pt
 legacySlug: relatorio-de-sms-e-email
 subcategory: 37YF86noTwhDdEuhUyW3LH
 ---

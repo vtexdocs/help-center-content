@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-gateway-nexxpago
+locale: pt
 legacySlug: configurar-gateway-nexxpago
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

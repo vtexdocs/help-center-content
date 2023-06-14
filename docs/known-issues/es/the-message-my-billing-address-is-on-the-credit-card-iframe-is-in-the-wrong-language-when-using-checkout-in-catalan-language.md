@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: el-mensaje-mi-direccion-de-facturacion-es-en-el-iframe-de-la-tarjeta-de-credito-esta-en-un-idioma-incorrecto-cuando-se-utiliza-el-checkout-en-catalan
+locale: es
 kiStatus: Fixed
 internalReference: 481181
 ---

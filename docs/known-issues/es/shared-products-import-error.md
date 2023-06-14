@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: error-de-importacion-de-productos-compartidos
+locale: es
 kiStatus: Backlog
 internalReference: 647962
 ---

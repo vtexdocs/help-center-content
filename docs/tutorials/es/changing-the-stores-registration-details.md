@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: modificar-los-datos-de-registro-de-la-tienda
+locale: es
 legacySlug: modificar-los-datos-de-registro-de-la-tienda
 subcategory: 5U2vQjKfQcYeYw62mygMii
 ---

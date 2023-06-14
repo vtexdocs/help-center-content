@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-vista-previa-del-envio-muestra-erroneamente-un-mensaje-de-no-disponibilidad-para-la-recogida
+locale: es
 kiStatus: Backlog
 internalReference: 764457
 ---

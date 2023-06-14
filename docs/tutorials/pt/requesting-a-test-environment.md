@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_24
 slug: contratar-ambiente-de-testes
+locale: pt
 legacySlug: contratar-ambiente-de-testes
 subcategory: 6SJnrkKDjGwSqKkMuQMOmm
 ---

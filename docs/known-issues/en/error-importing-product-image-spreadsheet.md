@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
 tag: Catalog
 slug: error-importing-product-image-spreadsheet
+locale: en
 kiStatus: Backlog
 internalReference: 697200
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: forcing-searches-with-blocked-terms-to-return-results
+locale: en
 legacySlug: forcing-searches-with-blocked-terms-to-return-results
 subcategory: pwxWmUu7T222QyuGogs68
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: 3ds2-authentication-flow-accept-online-payments-more-securely-1
+locale: en
 legacySlug: 3ds2-authentication-flow-accept-online-payments-more-securely
 announcementImageID: ''
 announcementSynopsisEN: 'The new protocol offers a more robust and modern process for verifying the end customer data'

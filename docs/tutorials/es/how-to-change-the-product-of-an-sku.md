@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: como-cambiar-el-producto-de-un-sku
+locale: es
 legacySlug: como-cambiar-el-producto-de-un-sku
 subcategory: pwxWmUu7T222QyuGogs68
 ---

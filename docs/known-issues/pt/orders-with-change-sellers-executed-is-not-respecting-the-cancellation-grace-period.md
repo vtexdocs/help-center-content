@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: pedidos-com-vendedores-de-mudanca-executados-nao-estao-respeitando-o-periodo-de-carencia-de-cancelamento
+locale: pt
 kiStatus: Backlog
 internalReference: 656815
 ---

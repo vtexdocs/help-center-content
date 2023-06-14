@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: acompanhamento-de-pedidos
+locale: pt
 legacySlug: acompanhamento-de-pedidos
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

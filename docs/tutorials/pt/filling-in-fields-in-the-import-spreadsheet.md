@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: preencher-campos-da-planilha-de-importacao
+locale: pt
 legacySlug: preencher-campos-da-planilha-de-importacao
 subcategory: 2u48reCb68K48EAcm86ccM
 ---

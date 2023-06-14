@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: adress-without-country-disrupting-orderform-changes
+locale: en
 kiStatus: Backlog
 internalReference: 579814
 ---

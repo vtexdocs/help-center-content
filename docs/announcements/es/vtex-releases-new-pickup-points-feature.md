@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: authors_59
 slug: vtex-lanza-nueva-feature-de-puntos-de-recogida-pickup-points
+locale: es
 legacySlug: vtex-lanza-nueva-feature-de-puntos-de-recogida-pickup-points
 announcementImageID: ''
 announcementSynopsisES: 'Utilizando el concepto de Delivery Channels, cambiamos la forma de registro y administración de los puntos de recogida.'

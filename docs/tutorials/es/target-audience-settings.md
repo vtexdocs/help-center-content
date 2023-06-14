@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: configuraciones-del-publico-objetivo
+locale: es
 legacySlug: configuraciones-del-publico-objetivo
 subcategory: 2cI57eZ3ZiWSeaQs26Gwys
 ---

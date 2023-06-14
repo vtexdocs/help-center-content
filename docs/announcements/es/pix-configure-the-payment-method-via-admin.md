@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: pix-configure-el-medio-de-pago-via-admin
+locale: es
 legacySlug: pix-configure-el-medio-de-pago-via-admin
 announcementImageID: ''
 announcementSynopsisES: 'El nuevo pago instantáneo en Brasil ahora puede configurarse por el cliente en el Admin de VTEX.'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 245tA425AIeioKAk2eaiwS
 slug: que-es-account-name
+locale: es
 legacySlug: que-es-account-name
 subcategory: yMp6sKDiJEi66CGAIQ4ma
 ---

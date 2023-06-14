@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: authors_24
 slug: jquery-update
+locale: en
 legacySlug: jquery-update
 announcementImageID: ''
 announcementSynopsisEN: 'The update is already in beta so you can test your store. The change will be completed by July 30th.'

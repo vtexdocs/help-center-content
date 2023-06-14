@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: o-que-e-um-workspace
+locale: pt
 legacySlug: o-que-e-um-workspace
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2019-05-22T18:19:34.194Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: registrar-marcas
+locale: es
 trackId: 5AF0XfnjfWeopIFBgs3LIQ
 trackSlugES: catalogo-101
 ---
@@ -38,7 +39,7 @@ Las informaciones rellenadas en el registro se pueden actualizar en cualquier mo
 
 Para eliminar el registro de alguna marca, debe hacer clic en la flecha al lado de `Editar` y seleccionar la opción `Eliminar`.
 
-![editar-marca es](//images.ctfassets.net/alneenqid6w5/1klwWT7dVmC63Az7KqX4hI/5fb442a9f0f4c3b566b61899ad17eb3c/editar-marca_ES.png)
+![editar-marca es](https://images.ctfassets.net/alneenqid6w5/1klwWT7dVmC63Az7KqX4hI/5fb442a9f0f4c3b566b61899ad17eb3c/editar-marca_ES.png)
 
 ## API
 

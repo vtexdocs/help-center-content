@@ -11,6 +11,7 @@ productTeam: Financial
 author: 4iKDU1m0huXy1qFWff7vY5
 tag: Payments
 slug: previous-day-transactions-appearing-when-filtering-with-todays-date
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

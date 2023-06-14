@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: activating-skus-in-bulk
+locale: en
 legacySlug: activating-bulk-skus
 subcategory: pwxWmUu7T222QyuGogs68
 ---

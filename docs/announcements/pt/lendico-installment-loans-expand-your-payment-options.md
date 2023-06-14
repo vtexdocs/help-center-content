@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: boleto-parcelado-lendico-a-novidade-que-ira-expandir-suas-opcoes-de-pagamento
+locale: pt
 legacySlug: boleto-parcelado-lendico-a-novidade-que-ira-expandir-suas-opcoes-de-pagamento
 announcementImageID: ''
 announcementSynopsisPT: 'Conheça o Boleto Parcelado Lendico - uma nova forma de pagamento para aumentar suas chances de conversão.'

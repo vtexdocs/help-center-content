@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5S2MYtrgEoSGaGMqsICaEC
 slug: how-to-test-for-layout-problems
+locale: en
 legacySlug: how-to-test-for-layout-problems
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

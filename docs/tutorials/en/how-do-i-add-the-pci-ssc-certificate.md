@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: how-do-i-add-the-pci-ssc-certificate
+locale: en
 legacySlug: how-do-i-add-the-pci-ssc-certificate
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

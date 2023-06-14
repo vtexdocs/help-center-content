@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: updating-product-specifications-unviable-due-to-lacking-property-on-get-resp-json
+locale: en
 kiStatus: Backlog
 internalReference: 301725
 ---

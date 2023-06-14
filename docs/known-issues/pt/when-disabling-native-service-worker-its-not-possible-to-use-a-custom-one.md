@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: ao-desativar-um-trabalhador-de-servico-nativo-nao-e-possivel-usar-um-servico-personalizado
+locale: pt
 kiStatus: Backlog
 internalReference: 770949
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_35
 slug: how-to-identify-an-order-split-from-omnichannel
+locale: en
 legacySlug: how-to-identify-an-order-split-from-omnichannel
 subcategory: 3VNOhxDrvYxJThhuJClrYZ
 ---

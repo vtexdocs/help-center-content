@@ -9,6 +9,7 @@ firstPublishedAt: 2021-03-18T14:15:52.422Z
 contentType: trackArticle
 productTeam: Channels
 slug: magazine-luiza-marketplace
+locale: en
 trackId: 5Yx5IrNa7Y48c6aSC8wu2Y
 trackSlugEN: magazine-luiza-integration-set-up
 ---

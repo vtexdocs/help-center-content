@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: nuevo-proceso-para-realizar-evaluaciones-de-seguridad
+locale: es
 legacySlug: nuevo-proceso-para-realizar-evaluaciones-de-seguridad
 announcementImageID: ''
 announcementSynopsisES: 'El Nuevo proceso le permite solicitar realizar una evaluación de seguridad y enviar un informe de vulnerabilidad.'

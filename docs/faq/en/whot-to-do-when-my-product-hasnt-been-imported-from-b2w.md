@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_35
 slug: whot-to-do-when-my-product-hasnt-been-imported-from-b2w
+locale: en
 legacySlug: 
 ---
 

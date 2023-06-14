@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: as-transacoes-feitas-com-payu-nao-mudam-do-status-de-cancelamento
+locale: pt
 kiStatus: Backlog
 internalReference: 338124
 ---

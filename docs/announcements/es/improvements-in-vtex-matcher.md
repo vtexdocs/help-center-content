@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: mejoras-en-el-sistema-matcher-de-vtex
+locale: es
 legacySlug: mejoras-en-el-sistema-matcher-de-vtex
 announcementImageID: ''
 announcementSynopsisES: 'Hemos reestructurado el sistema Matcher de VTEX para mejorar la catalogación de los SKU del seller en el marketplace'

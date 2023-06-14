@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: erro-de-calculo-da-secao-total-do-relatorio-de-indexacao-do-catalogo
+locale: pt
 kiStatus: Backlog
 internalReference: 499450
 ---

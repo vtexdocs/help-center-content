@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: nombres-de-las-sucursales-vtex-en-el-mundo
+locale: es
 legacySlug: nombres-de-las-sucursales-vtex-en-el-mundo
 subcategory: 22TaEgFhwE6a6CG2KASYkC
 ---

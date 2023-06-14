@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: control-de-mensaje-de-bienvenida
+locale: es
 legacySlug: control-de-mensaje-de-bienvenida
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: ui-doesnt-show-the-form-to-edit-address-when-selecting-to-add-a-new-address-first
+locale: en
 kiStatus: Backlog
 internalReference: 747772
 ---

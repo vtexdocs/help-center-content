@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: limite-de-items-con-promocion-en-el-carrito
+locale: es
 legacySlug: limite-de-items-con-promocion-en-el-carrito
 announcementImageID: ''
 announcementSynopsisES: 'Configuración que permite personalizar el límite de ítems elegibles para una promoción en el carrito'

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
 slug: pedido-esta-trabado-en-listo-para-manuseo-que-se-hace
+locale: es
 legacySlug: pedido-está-trabado-en-pronto-para-manuseio-que-se-hace
 ---
 

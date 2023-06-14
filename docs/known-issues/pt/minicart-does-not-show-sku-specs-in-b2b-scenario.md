@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: o-minicart-nao-mostra-as-especificacoes-do-sku-no-cenario-b2b
+locale: pt
 kiStatus: Backlog
 internalReference: 687308
 ---

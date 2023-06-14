@@ -11,6 +11,7 @@ productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
 slug: grupos-de-entidades-do-dynamic-storage-no-master-data-nao-funcionam-como-o-esperado
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

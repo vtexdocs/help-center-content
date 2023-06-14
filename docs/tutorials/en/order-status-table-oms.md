@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: order-status-table-oms
+locale: en
 legacySlug: from-to-for-order-status
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

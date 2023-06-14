@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Others
 author: authors_4
 slug: por-que-nao-consigo-abrir-imagens-que-baixei-diretamente-do-meu-site
+locale: pt
 legacySlug: por-que-nao-consigo-abrir-imagens-que-baixei-diretamente-do-meu-site
 ---
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_65
 slug: improving-the-performance-of-product-images
+locale: en
 legacySlug: improving-the-performance-of-product-images
 subcategory: pwxWmUu7T222QyuGogs68
 ---

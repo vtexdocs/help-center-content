@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: e-possivel-determinar-o-valor-minimo-total-em-um-carrinho
+locale: pt
 legacySlug: e-possivel-determinar-o-valor-minimo-total-em-um-carrinho
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---

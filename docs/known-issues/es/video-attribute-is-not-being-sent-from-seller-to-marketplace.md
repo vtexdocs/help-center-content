@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-atributo-de-video-no-se-envia-del-vendedor-al-mercado
+locale: es
 kiStatus: Backlog
 internalReference: 519412
 ---

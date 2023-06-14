@@ -9,6 +9,7 @@ firstPublishedAt: 2021-04-15T17:41:23.772Z
 contentType: trackArticle
 productTeam: Channels
 slug: envio-de-produtos-para-o-google-shopping
+locale: pt
 trackId: 25Sl7iOqq58PGfVfTAo8Xw
 trackSlugPT: configurar-integracao-com-o-google-shopping
 ---

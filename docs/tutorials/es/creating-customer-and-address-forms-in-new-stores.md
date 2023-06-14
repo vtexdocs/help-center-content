@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_4
 slug: crear-formularios-de-cliente-y-direccion-en-nuevas-tiendas
+locale: es
 legacySlug: crear-formularios-de-cliente-y-dirección-en-nuevas-tiendas
 subcategory: 42hDtnYXHw5ExG6l19RP1l
 ---
@@ -44,4 +45,4 @@ Es posible crear estos formularios automáticamente, bastando seguir las instruc
 
 Una vez concluidos los pasos arriba, los formularios de la aplicación **Profile System** ya deberán estar disponibles en tu Master Data.
 
-![3 - ES](//images.ctfassets.net/alneenqid6w5/d2hevHhL68Siy82aO0E0s/d0cc7aa57c4520704353663cabc2d868/3_-_ES.png)
+![3 - ES](https://images.ctfassets.net/alneenqid6w5/d2hevHhL68Siy82aO0E0s/d0cc7aa57c4520704353663cabc2d868/3_-_ES.png)

@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: promocion-mas-por-menos-no-funciona-junto-con-la-promocion-regular
+locale: es
 kiStatus: Backlog
 internalReference: 637586
 ---

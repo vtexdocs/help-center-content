@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_3
 slug: configurando-dominios-no-gerenciamento-da-conta
+locale: pt
 legacySlug: configurando-dominios-no-license-manager
 subcategory: yMp6sKDiJEi66CGAIQ4ma
 ---

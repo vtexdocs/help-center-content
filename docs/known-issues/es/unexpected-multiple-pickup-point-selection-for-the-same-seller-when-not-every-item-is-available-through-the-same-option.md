@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: seleccion-inesperada-de-varios-puntos-de-recogida-para-el-mismo-vendedor-cuando-no-todos-los-articulos-estan-disponibles-a-traves-de-la-misma-opcion
+locale: es
 kiStatus: Backlog
 internalReference: 467702
 ---

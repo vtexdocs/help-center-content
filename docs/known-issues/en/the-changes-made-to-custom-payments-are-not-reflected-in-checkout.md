@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: the-changes-made-to-custom-payments-are-not-reflected-in-checkout
+locale: en
 kiStatus: Backlog
 internalReference: 276250
 ---

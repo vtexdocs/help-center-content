@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: como-criar-um-web-site
+locale: pt
 legacySlug: como-criar-um-web-site
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

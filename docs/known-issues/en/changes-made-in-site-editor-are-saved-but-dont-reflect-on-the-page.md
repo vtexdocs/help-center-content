@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: changes-made-in-site-editor-are-saved-but-dont-reflect-on-the-page
+locale: en
 kiStatus: Backlog
 internalReference: 786145
 ---

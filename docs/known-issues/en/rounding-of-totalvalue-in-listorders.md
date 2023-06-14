@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: rounding-of-totalvalue-in-listorders
+locale: en
 kiStatus: Backlog
 internalReference: 756314
 ---

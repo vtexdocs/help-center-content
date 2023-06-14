@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 6AcGyun1hSWewU8YcaQiO
 slug: de-aos-seus-clientes-uma-nova-experiencia-de-auto-atendimento-com-o-novo-my-account
+locale: pt
 legacySlug: de-aos-seus-clientes-uma-nova-experiencia-de-auto-atendimento-com-o-novo-my-account
 announcementImageID: ''
 announcementSynopsisPT: 'Todos os pedidos e dados pessoais acessados em um só lugar.'

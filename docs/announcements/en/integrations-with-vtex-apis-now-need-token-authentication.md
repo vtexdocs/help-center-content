@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_59
 slug: integrations-with-vtex-apis-now-need-token-authentication
+locale: en
 legacySlug: integrations-with-vtex-apis-now-need-token-authentication
 announcementImageID: ''
 announcementSynopsisEN: 'VTEX will no longer allow integrations with our APIs to use email and password for authentication'

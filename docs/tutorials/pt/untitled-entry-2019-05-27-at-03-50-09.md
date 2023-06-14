@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: extrato-financeiro
+locale: pt
 legacySlug: extrato-financeiro
 subcategory: 
 ---

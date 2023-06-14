@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: cadastrar-uma-categoria
+locale: pt
 legacySlug: cadastrando-categoria
 subcategory: 1E7tziZCkY4w8i4EmUuwec
 ---

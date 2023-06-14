@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: minha-assinatura-mostrando-mensagem-de-erro-quando-a-assinatura-esta-associada-a-um-ponto-de-retirada
+locale: pt
 kiStatus: Backlog
 internalReference: 692523
 ---

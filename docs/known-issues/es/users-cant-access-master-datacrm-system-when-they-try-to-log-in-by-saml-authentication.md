@@ -11,6 +11,7 @@ productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
 slug: los-usuarios-no-pueden-acceder-al-sistema-de-datos-maestroscrm-cuando-intentan-iniciar-sesion-mediante-autenticacion-saml
+locale: es
 kiStatus: Backlog
 internalReference: 465652
 ---

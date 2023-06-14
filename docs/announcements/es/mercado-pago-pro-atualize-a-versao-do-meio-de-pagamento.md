@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: mercado-pago-pro-atualize-a-versao-do-meio-de-pagamento
+locale: es
 legacySlug: mercado-pago-pro-atualize-a-versao-do-meio-de-pagamento
 announcementImageID: ''
 announcementSynopsisES: ''

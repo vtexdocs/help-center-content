@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: como-crear-un-template-de-estante
+locale: es
 legacySlug: como-crear-un-template-de-estante
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

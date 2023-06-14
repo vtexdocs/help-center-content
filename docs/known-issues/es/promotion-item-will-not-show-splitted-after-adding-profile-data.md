@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-articulo-de-promocion-no-se-mostrara-dividido-despues-de-anadir-datos-de-perfil
+locale: es
 kiStatus: Backlog
 internalReference: 842575
 ---

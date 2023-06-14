@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-pagos-personalizados-utilizando-mercadopago-latam
+locale: es
 legacySlug: configurar-pagos-personalizados-utilizando-mercadopago-latam
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

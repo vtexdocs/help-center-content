@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: lean-shipping-no-permite-seleccionar-la-entrega-regular-cuando-la-entrega-programada-es-la-mas-barata-y-rapida
+locale: es
 kiStatus: Backlog
 internalReference: 842018
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 slug: como-configurar-multiples-cuentas-en-la-integracion-con-el-mercado-libre
+locale: es
 legacySlug: como-configurar-multiples-cuentas-en-la-integracion-con-el-mercado-libre
 ---
 

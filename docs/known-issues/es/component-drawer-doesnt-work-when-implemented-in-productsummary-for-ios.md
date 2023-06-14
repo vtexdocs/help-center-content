@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: componente-cajon-no-funciona-cuando-se-implementa-en-el-productoresumen-para-ios
+locale: es
 kiStatus: Backlog
 internalReference: 833338
 ---

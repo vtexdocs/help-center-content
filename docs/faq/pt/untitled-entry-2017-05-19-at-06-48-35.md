@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: por-que-uma-promocao-nao-esta-sendo-aplicada-a-um-componente-do-kit
+locale: pt
 legacySlug: por-que-uma-promocao-nao-esta-sendo-aplicada-a-um-componente-do-kit
 ---
 

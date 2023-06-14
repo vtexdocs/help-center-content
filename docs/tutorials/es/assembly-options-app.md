@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Apps
 author: 1malnhMX0vPThsaJaZMYm2
 slug: aplicacion-assembly-options
+locale: es
 legacySlug: aplicacion-assembly-options
 subcategory: 3xpuy7xGlzKKg6vxqiExZ2
 ---
@@ -36,7 +37,7 @@ Una vez instalada, la página **Catálogo > Opciones de ensamblaje** estará dis
 
 En el Admin VTEX, en **Catálogo > Opciones de ensamblaje**, tendrás acceso a una lista con todas las Opciones de ensamblaje registradas en tu tienda cuando uses la aplicación.
 
-![assembly-options-app-es](//images.ctfassets.net/alneenqid6w5/7AoMYLduvKisAxKMho64m0/322bc4f9209983c3fc2f5c7bc85321d6/assembly-options-app-es.PNG)
+![assembly-options-app-es](https://images.ctfassets.net/alneenqid6w5/7AoMYLduvKisAxKMho64m0/322bc4f9209983c3fc2f5c7bc85321d6/assembly-options-app-es.PNG)
 
 La información que aparecerá en la lista será:
 

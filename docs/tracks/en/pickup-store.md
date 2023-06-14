@@ -9,6 +9,7 @@ firstPublishedAt: 2018-06-22T17:08:22.081Z
 contentType: trackArticle
 productTeam: Shopping
 slug: pickup-store
+locale: en
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugEN: instore-setup
 ---

@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: top-searches-terms-presented-in-autocomplete-are-not-in-accordance-with-terms-presented-in-the-analytics-report
+locale: en
 kiStatus: Backlog
 internalReference: 741999
 ---

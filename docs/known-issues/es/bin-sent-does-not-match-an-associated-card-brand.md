@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: la-papelera-enviada-no-coincide-con-una-marca-de-tarjeta-asociada
+locale: es
 kiStatus: Backlog
 internalReference: 308896
 ---

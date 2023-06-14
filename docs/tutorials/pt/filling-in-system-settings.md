@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: preenchendo-as-configuracoes-do-sistema
+locale: pt
 legacySlug: preenchendo-as-configuracoes-do-sistema
 subcategory: 7ogirQ8NClawO2X6xdgCKc
 ---

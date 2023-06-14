@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: glosario-de-logistica
+locale: es
 legacySlug: glosario-de-logistica
 subcategory: 63f22GypJIBLnMGh1QZUi0
 ---

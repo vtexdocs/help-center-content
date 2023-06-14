@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: subscription-plans
+locale: en
 legacySlug: subscription-plans-beta
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
@@ -20,7 +21,7 @@ To offer subscription plans for your customers, you need to install the Subscrip
 
 On the **Plans** page, you can view and manage the subscription plans available to your customers, as illustrated below.
 
-![planslist EN](//images.ctfassets.net/alneenqid6w5/5PAOM3BmvgeIjU1ruAmEYG/0355551976bbb3465d4ddad5ca8cd254/planslist_EN.png)
+![planslist EN](https://images.ctfassets.net/alneenqid6w5/5PAOM3BmvgeIjU1ruAmEYG/0355551976bbb3465d4ddad5ca8cd254/planslist_EN.png)
 
 Here are the main features of this page:
 

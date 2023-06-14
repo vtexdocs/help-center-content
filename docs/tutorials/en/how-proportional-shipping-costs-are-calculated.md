@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: how-proportional-shipping-costs-are-calculated
+locale: en
 legacySlug: how-to-make-freight-apportionment
 subcategory: 8AGXmtpbTqUE2KQu0Swwk
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-busqueda-de-direcciones-en-google-maps-no-filtra-por-el-pais-seleccionado-en-algunos-casos
+locale: es
 kiStatus: Backlog
 internalReference: 727408
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: registering-sku-price
+locale: en
 legacySlug: registering-sku-price
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---

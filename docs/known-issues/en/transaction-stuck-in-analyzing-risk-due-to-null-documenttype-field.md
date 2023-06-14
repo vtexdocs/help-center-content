@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: transaction-stuck-in-analyzing-risk-due-to-null-documenttype-field
+locale: en
 kiStatus: Backlog
 internalReference: 697107
 ---

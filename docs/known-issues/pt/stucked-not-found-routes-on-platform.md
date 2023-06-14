@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: rotas-presas-nao-encontradas-na-plataforma
+locale: pt
 kiStatus: Backlog
 internalReference: 793457
 ---

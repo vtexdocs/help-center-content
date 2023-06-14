@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: por-que-o-pagamento-por-boleto-registado-exige-autenticacao
+locale: pt
 legacySlug: por-que-o-pagamento-por-boleto-registado-exige-autenticacao
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

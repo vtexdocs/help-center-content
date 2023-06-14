@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: customer-credit-optimize-processes-with-bulk-operations
+locale: en
 legacySlug: customer-credit-optimize-processes-with-bulk-updates
 announcementImageID: ''
 announcementSynopsisEN: 'The Customer Credit app now allows for bulk operations to update invoices and import or update accounts.'

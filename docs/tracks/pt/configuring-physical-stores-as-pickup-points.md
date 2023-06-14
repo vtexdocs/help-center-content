@@ -9,6 +9,7 @@ firstPublishedAt: 2021-08-23T17:12:50.884Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configurar-lojas-fisicas-como-pontos-de-retirada
+locale: pt
 trackId: 3WGDRRhc3vf1MJb9zGncnv
 trackSlugPT: estrategias-de-comercio-unificado
 ---

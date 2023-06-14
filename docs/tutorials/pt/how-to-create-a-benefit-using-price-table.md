@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 71cQH3Q0oKXzeY2DmMZRKX
 slug: criar-tabela-de-precos-promocionais
+locale: pt
 legacySlug: criar-tabela-de-precos-promocionais
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

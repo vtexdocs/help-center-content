@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: tabela-de-precos-calculados-para-exportacao-nao-trazendo-todos-os-skus
+locale: pt
 kiStatus: Backlog
 internalReference: 722005
 ---

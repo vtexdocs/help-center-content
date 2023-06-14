@@ -9,6 +9,7 @@ firstPublishedAt: 2022-01-18T22:32:05.415Z
 contentType: trackArticle
 productTeam: Channels
 slug: configuracoes-na-via-marketplace
+locale: pt
 trackId: 3E9XylGaJ2wqwISGyw4GuY
 trackSlugPT: configurar-integracao-da-via-varejo
 ---

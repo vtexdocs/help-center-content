@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-checkout-nao-mostra-opcao-para-mudar-o-codigo-postal
+locale: pt
 kiStatus: Fixed
 internalReference: 321598
 ---

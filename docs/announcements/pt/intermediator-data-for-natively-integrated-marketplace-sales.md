@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: dados-de-intermediador-para-vendas-em-marketplaces-integrados-nativamente
+locale: pt
 legacySlug: dados-de-intermediador-para-vendas-em-marketplaces-integrados-nativamente
 announcementImageID: ''
 announcementSynopsisPT: 'Estão sendo disponibilizados dados de intermediador para vendas feitas em marketplaces integrados nativamente.'

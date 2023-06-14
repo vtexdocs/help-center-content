@@ -11,6 +11,7 @@ productTeam: VTEX IO
 author: 
 tag: 
 slug: erro-de-permissao
+locale: pt
 kiStatus: 
 internalReference: 
 ---

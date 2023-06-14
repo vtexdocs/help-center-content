@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_24
 slug: cómo-insertar-un-proxy-inverso-frente-a-los-servicios-vtex
+locale: es
 legacySlug: ¿por-qué-no-recomendamos-insertar-un-proxy-inverso-en-los-servicios-vtex?
 subcategory: 2Za4fjGfxYOo6oqykukgyy
 ---

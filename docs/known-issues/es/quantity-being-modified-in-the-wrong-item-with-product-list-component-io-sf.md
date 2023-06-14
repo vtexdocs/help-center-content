@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: authors_84
 tag: Store Framework
 slug: modificacion-de-la-cantidad-en-un-articulo-erroneo-con-un-componente-de
+locale: es
 kiStatus: Backlog
 internalReference: 402976
 ---

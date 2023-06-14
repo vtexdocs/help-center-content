@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: as-transacoes-da-marca-de-cartao-da-elo-com-a-erederest-nao-estao-respeitando-a-captura-antecipada
+locale: pt
 kiStatus: Backlog
 internalReference: 350814
 ---

@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: error-en-el-rateo-del-descuento-cuando-hay-unidad-multiplicadora
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

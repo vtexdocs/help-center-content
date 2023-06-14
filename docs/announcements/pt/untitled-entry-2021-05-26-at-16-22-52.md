@@ -9,6 +9,7 @@ contentType: updates
 productTeam: 
 author: 
 slug: untitled-entry-2021-05-26-at-16-22-52
+locale: pt
 legacySlug: untitled-entry-2021-05-26-at-16-22-52
 announcementImageID: ''
 announcementSynopsisPT: ''

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: problemas-em-adicionar-itens-com-tem-anexos-ao-carrinho-do-io
+locale: pt
 kiStatus: Backlog
 internalReference: 429724
 ---

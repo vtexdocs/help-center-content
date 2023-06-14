@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: TAUXpa4XWCsIaUOoksGIE
 slug: como-modificar-as-informacoes-de-endereco-de-clientes
+locale: pt
 legacySlug: como-modificar-as-informacoes-de-endereco-de-clientes
 subcategory: 42hDtnYXHw5ExG6l19RP1l
 ---

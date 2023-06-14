@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: orders-invoiced-at-vtex-but-that-dont-update-the-invoice-at-netshoes
+locale: en
 kiStatus: Backlog
 internalReference: 577219
 ---

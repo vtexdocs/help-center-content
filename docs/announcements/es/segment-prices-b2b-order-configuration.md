@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: vztwQkZv4z6EwDVwdqbsw
 slug: segmente-precios-b2b-configuracion-de-pedidos
+locale: es
 legacySlug: segmente-precios-b2b-configuracion-de-pedidos
 announcementImageID: ''
 announcementSynopsisES: 'Apply segmented pricing strategies directly in the purchase experience with the Order Configuration for B2B.'

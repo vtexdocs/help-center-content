@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: indicators-report
+locale: en
 legacySlug: indicators-report
 subcategory: 37YF86noTwhDdEuhUyW3LH
 ---

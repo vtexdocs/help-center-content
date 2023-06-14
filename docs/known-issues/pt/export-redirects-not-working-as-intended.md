@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: export-redireciona-nao-funciona-como-pretendido
+locale: pt
 kiStatus: Backlog
 internalReference: 537962
 ---

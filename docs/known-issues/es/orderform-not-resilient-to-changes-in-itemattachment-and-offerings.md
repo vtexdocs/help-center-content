@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: orderform-no-resiste-a-los-cambios-en-itemattachment-y-ofertas
+locale: es
 kiStatus: Backlog
 internalReference: 334191
 ---

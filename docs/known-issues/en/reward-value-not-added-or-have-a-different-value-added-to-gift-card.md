@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: reward-value-not-added-or-have-a-different-value-added-to-gift-card
+locale: en
 kiStatus: Backlog
 internalReference: 844079
 ---

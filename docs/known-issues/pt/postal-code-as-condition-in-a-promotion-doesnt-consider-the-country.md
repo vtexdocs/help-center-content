@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_41
 tag: Pricing & Promotions
 slug: cep-como-condicao-em-uma-promocao-nao-considera-o-pais
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

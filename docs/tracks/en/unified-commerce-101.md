@@ -9,13 +9,14 @@ firstPublishedAt: 2020-06-30T20:45:00.959Z
 contentType: trackArticle
 productTeam: Shopping
 slug: unified-commerce-101
+locale: en
 trackId: 3WGDRRhc3vf1MJb9zGncnv
 trackSlugEN: unified-commerce-strategies
 ---
 
 The evolution of online retail has brought a series of improvements to the customer experience, and one of the most relevant is perhaps the one that transformed the multichannel relationship between customer and store into an omnichannel relationship.
 
-![32. Unified Commerce 101 - 1 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/YYPXpy8HRuqRE8CX2cgYC/b4c9a5a5b094d256798a3a017c4d9ce7/32._Unified_Commerce_101_-_1_-_EN.png_h_250)
+![32. Unified Commerce 101 - 1 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/YYPXpy8HRuqRE8CX2cgYC/b4c9a5a5b094d256798a3a017c4d9ce7/32._Unified_Commerce_101_-_1_-_EN.png_h_250)
 
 In a __multichannel__ architecture, each channel communicates independently with the store, be it the e-commerce, physical stores, call centers, social media, etc. When a customer interacts with one of these channels, the store has no knowledge at all of who that customer is.
 
@@ -25,7 +26,7 @@ In omnichannel, however, orders are still processed in isolation. Although there
 
 The __Unified Commerce__ solves this problem.
 
-![32. Unified Commerce 101 - 2 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/6IuAQNFiyqaUgcRLA2mSDP/673202ebbfa44580a9e737269b738b9c/32._Unified_Commerce_101_-_2_-_EN.png_h_250)
+![32. Unified Commerce 101 - 2 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/6IuAQNFiyqaUgcRLA2mSDP/673202ebbfa44580a9e737269b738b9c/32._Unified_Commerce_101_-_2_-_EN.png_h_250)
 
 Unified Commerce is an evolution of omnichannel: in addition to data sharing, this strategy also involves __unifying the order processing and management system__. In practice, this means that every order placed on one store channel is not only visible by other channels but can be processed by them.
 

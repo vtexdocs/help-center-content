@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: transaccion-cancelada-por-tiempo-de-espera-timeout-no-request-para-o-sistema-de-parcelamento
+locale: es
 kiStatus: Backlog
 internalReference: 533844
 ---

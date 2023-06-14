@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: colecoes-legadas-cms-a-validacao-de-carateres-especiais-diverge-das-colecoes-novas
+locale: pt
 kiStatus: Backlog
 internalReference: 450569
 ---

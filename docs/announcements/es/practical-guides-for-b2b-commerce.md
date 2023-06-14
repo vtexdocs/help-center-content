@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: guias-practicas-para-comercio-b2b
+locale: es
 legacySlug: guias-practicas-para-comercio-b2b
 announcementImageID: ''
 announcementSynopsisES: 'Nuevos tutoriales destacan los recursos disponibles en la plataforma para los diferentes escenarios de ecommerce B2B.'

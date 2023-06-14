@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Apps
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: facebook-business-extension-conversions-api-updates
+locale: en
 legacySlug: facebook-business-extension-conversions-api-updates
 announcementImageID: ''
 announcementSynopsisEN: "What's new in Conversions API for the Facebook Business Extension app."

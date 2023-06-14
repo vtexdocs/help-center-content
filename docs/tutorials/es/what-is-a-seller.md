@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slug: que-es-un-seller
+locale: es
 legacySlug: que-es-un-seller
 subcategory: 5tlIjp0ZkAU4EIk4OgyEmm
 ---

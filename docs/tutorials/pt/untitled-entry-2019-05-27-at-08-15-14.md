@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: como-consultar-os-detalhes-dos-recebimentos
+locale: pt
 legacySlug: como-consultar-os-detalhes-dos-recebimentos
 subcategory: 7DxGppMM2tOzQN4LFVo2Lg
 ---

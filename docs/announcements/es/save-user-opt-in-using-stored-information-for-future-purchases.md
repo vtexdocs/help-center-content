@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: save-user-opt-in-utilizando-informacion-guardada-para-compras-futuras
+locale: es
 legacySlug: save-user-opt-in-utilizando-informacion-guardada-para-compras-futuras
 announcementImageID: ''
 announcementSynopsisES: 'Permite a tus clientes elegir si quieren guardar sus datos para utilizarlos en futuras compras.'
@@ -22,7 +23,7 @@ Anteriormente, tras el registro en la tienda o la primera compra, los datos del 
 
 A partir de ahora, dos casillas de verificación en la pantalla de pago permitirán al usuario indicar si quiere que su información personal y de pago se almacene y se reutilice para futuras compras. De este modo, se reducirá el tiempo que tarda el cliente en realizar la compra. 
 
-![ Save user data opt-in ES](//images.ctfassets.net/alneenqid6w5/6NGmOzVPMDNlcptCwaqTsM/503e29a5bdf5749d0d44bd525b96117e/Save_user_data_-_ES.PNG)
+![ Save user data opt-in ES](https://images.ctfassets.net/alneenqid6w5/6NGmOzVPMDNlcptCwaqTsM/503e29a5bdf5749d0d44bd525b96117e/Save_user_data_-_ES.PNG)
 
 Más información en [SmartCheckout - Rellenado automático de los datos del cliente](https://help.vtex.com/es/tutorial/smartcheckout-customer-information-automatic-fill-in--2Nuu3xAFzdhIzJIldAdtan#).
 

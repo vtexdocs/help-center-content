@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: error-de-seguimiento
+locale: es
 kiStatus: Backlog
 internalReference: 514557
 ---

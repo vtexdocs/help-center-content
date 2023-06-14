@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_64
 slug: sending-emails-with-triggers
+locale: en
 legacySlug: sending-emails-with-triggers
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

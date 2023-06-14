@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T13:41:36.817Z
 contentType: trackArticle
 productTeam: Shopping
 slug: requisitos-previos-para-usar-instore
+locale: es
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugES: instore-primeros-pasos-y-configuracion
 ---

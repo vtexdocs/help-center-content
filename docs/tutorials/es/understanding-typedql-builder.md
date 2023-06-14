@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 3aBBTLS9ZKO6IcY0Goe2y2
 slug: entendiendo-typedql-builder
+locale: es
 legacySlug: typeql-builder
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

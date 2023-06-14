@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: la-validez-del-pagare-no-anula-la-transaccion
+locale: es
 kiStatus: Fixed
 internalReference: 325491
 ---

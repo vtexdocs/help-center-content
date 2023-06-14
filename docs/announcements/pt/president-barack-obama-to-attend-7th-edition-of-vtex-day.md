@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_84
 slug: presidente-barack-obama-participa-da-7a-edicao-do-vtex-day
+locale: pt
 legacySlug: presidente-barack-obama-participa-da-7a-edicao-do-vtex-day
 announcementImageID: ''
 announcementSynopsisPT: 'O evento reunirá 15 mil participantes nos dias 30 e 31 de maio em São Paulo'

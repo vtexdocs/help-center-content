@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: shipping-policy-with-incorrect-maxvolume-on-spreadsheet-does-not-show-message-error-on-simulation
+locale: en
 kiStatus: Backlog
 internalReference: 380471
 ---

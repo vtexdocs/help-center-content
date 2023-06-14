@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: legacy-cms-no-crea-carpetas-con-menos-de-3-caracteres-en-el-nombre
+locale: es
 kiStatus: Backlog
 internalReference: 825530
 ---

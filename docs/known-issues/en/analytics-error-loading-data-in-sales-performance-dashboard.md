@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: analytics-error-loading-data-in-sales-performance-dashboard
+locale: en
 kiStatus: Backlog
 internalReference: 799899
 ---

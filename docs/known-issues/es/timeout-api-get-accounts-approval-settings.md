@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: api-de-tiempo-de-espera-obtener-la-configuracion-de-aprobacion-de-la-cuenta
+locale: es
 kiStatus: Fixed
 internalReference: 772840
 ---

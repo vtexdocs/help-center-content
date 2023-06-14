@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: requesting-a-new-environment
+locale: en
 legacySlug: purchasing-and-accessing-your-environment
 subcategory: 6SJnrkKDjGwSqKkMuQMOmm
 ---

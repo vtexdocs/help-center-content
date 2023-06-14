@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_24
 slug: como-adicionar-e-manipular-informacoes-customizadas-no-pedido
+locale: pt
 legacySlug: como-adicionar-e-manipular-informacoes-customizadas-no-pedido
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

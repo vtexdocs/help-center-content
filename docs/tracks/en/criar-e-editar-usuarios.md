@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: Identity
 slug: criar-e-editar-usuarios
+locale: en
 trackId: 
 trackSlugEN: 
 ---

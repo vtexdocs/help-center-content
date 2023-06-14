@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: what-is-the-minimum-value-insurance-field
+locale: en
 legacySlug: what-is-the-minimum-value-insurance-field
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

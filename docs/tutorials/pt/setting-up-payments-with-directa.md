@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: configurar-pagamento-com-directa
+locale: pt
 legacySlug: configurar-pagamento-com-directa
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

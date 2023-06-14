@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: authors_24
 slug: appkey-and-apptoken-only-web-service-authentications
+locale: en
 legacySlug: appkey-and-apptoken-only-web-service-authentications
 announcementImageID: ''
 announcementSynopsisEN: "Starting 08/20 (Monday), this change will enhance the security level of all your store's Web Service integrations."

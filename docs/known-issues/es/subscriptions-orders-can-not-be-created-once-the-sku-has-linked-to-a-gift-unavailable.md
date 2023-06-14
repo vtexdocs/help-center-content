@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: suscripciones-los-pedidos-no-pueden-crearse-una-vez-que-la-sku-se-ha-vinculado-a-un-regalo-no-disponible
+locale: es
 kiStatus: Fixed
 internalReference: 395965
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: el-boton-giratorio-de-mycards-no-funciona-correctamente
+locale: es
 kiStatus: Backlog
 internalReference: 780667
 ---

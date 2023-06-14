@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: configurar-pago-con-egetnetv2
+locale: es
 legacySlug: configurar-pago-con-egetnetv2
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

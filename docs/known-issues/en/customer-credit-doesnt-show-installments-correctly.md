@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: customer-credit-doesnt-show-installments-correctly
+locale: en
 kiStatus: Backlog
 internalReference: 501730
 ---

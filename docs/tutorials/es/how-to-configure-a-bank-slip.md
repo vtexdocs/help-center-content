@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: como-configurar-boleto-bancario
+locale: es
 legacySlug: como-configurar-boleto-bancario
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: configuring-the-rede-acquirer
+locale: en
 legacySlug: configuring-the-rede-acquirer
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

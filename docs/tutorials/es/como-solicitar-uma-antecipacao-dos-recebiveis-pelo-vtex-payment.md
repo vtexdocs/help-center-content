@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 
 slug: como-solicitar-un-anticipo-de-cuentas-por-cobrar-mediante-vtex-payment
+locale: es
 legacySlug: como-solicitar-un-anticipo-de-cuentas-por-cobrar-mediante-vtex-payment
 subcategory: 
 ---
@@ -30,7 +31,7 @@ Ahora que ha verificado el saldo, es importante tener en cuenta que el valor mí
 
 Por ejemplo, si el menor valor que puede recibir es R$10, ese es el valor mínimo que puede anticipar. El valor máximo se informa en el propio Admin - el saldo que usted acabó de verificar - en la página "Anticipar cuentas por cobrar".
 
-![anteciparpaymentES.png h 250?h=250](//images.ctfassets.net/alneenqid6w5/2tIGxzUGlbr3JwUMKFIKqu/57222cbc6c044d15be5e3a46f583e3e1/anteciparpaymentES.png_h_250_h_250)
+![anteciparpaymentES.png h 250?h=250](https://images.ctfassets.net/alneenqid6w5/2tIGxzUGlbr3JwUMKFIKqu/57222cbc6c044d15be5e3a46f583e3e1/anteciparpaymentES.png_h_250_h_250)
 
 <div class=”alert alert-info”>
 <strong>Atención</strong>: las cuentas por cobrar en disputa o programadas para el siguiente día hábil no pueden ser anticipadas.

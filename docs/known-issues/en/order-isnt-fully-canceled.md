@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: order-isnt-fully-canceled
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

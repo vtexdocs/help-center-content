@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: la-api-de-actualizacion-de-los-valores-de-la-carga-tarda-en-reflejarse-en-el-modulo-de-simulacion
+locale: es
 kiStatus: Backlog
 internalReference: 621230
 ---

@@ -10,13 +10,14 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: product-list
+locale: en
 legacySlug: product-list-beta
 subcategory: 4hisB47iAVZk4r3SEmMoG
 ---
 
 The **Products** page allows you to view and manage the complete list of products added to your store, simplifying catalog management on Seller Portal. You can access this page through the **Catalog** menu on VTEX Admin.
 
-![product-list-en](//images.ctfassets.net/alneenqid6w5/25zE8wHvqhOGvaXweX7acK/db6872b42868dbe018b1f85c1a4d9da1/product-list-en.png)
+![product-list-en](https://images.ctfassets.net/alneenqid6w5/25zE8wHvqhOGvaXweX7acK/db6872b42868dbe018b1f85c1a4d9da1/product-list-en.png)
 
 On the **Products** page, you can:
 

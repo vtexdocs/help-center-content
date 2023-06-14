@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: calcular-ingresos-a-partir-de-la-planilla-exportada-del-modulo-pedidos
+locale: es
 legacySlug: calcular--ingresos-a-partir-de-la-planilla-del-oms
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

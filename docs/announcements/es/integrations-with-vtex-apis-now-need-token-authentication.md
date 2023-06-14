@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_59
 slug: integraciones-con-apis-vtex-ya-no-podran-autenticarse-por-email-y-contrasena
+locale: es
 legacySlug: integraciones-con-apis-vtex-ya-no-podran-autenticarse-por-email-y-contrasena
 announcementImageID: ''
 announcementSynopsisES: 'VTEX dejará de permitir que las integraciones con nuestras API usen el e-mail y la contraseña para la autenticación'

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: por-que-mi-producto-aparece-indisponible-en-la-tienda
+locale: es
 legacySlug: 
 ---
 

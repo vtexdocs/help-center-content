@@ -9,6 +9,7 @@ contentType: updates
 productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
 slug: conheca-o-novo-sistema-de-traducao-do-vtex-io
+locale: pt
 legacySlug: conheca-o-novo-sistema-de-traducao-do-vtex-io
 announcementImageID: ''
 announcementSynopsisPT: 'O novo Messages App (e mudanças no MessagesBuilder) facilitam e ampliam a tradução de apps front e back-end.'

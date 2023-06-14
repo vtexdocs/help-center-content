@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: por-que-meu-produto-nao-inativa-no-marketplace
+locale: pt
 legacySlug: por-que-meu-produto-nao-inativa-no-marketplace
 ---
 

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_35
 tag: Catalog
 slug: kit-criado-por-integracao-nao-recebe-uma-tabela-de-valores
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

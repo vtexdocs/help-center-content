@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-ponto-de-coleta-nao-pode-ser-selecionado-em-mercados-com-vendedores-multiniveis
+locale: pt
 kiStatus: Backlog
 internalReference: 524073
 ---

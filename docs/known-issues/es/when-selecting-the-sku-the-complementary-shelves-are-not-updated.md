@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: al-seleccionar-el-sku-los-estantes-complementarios-no-se-actualizan
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

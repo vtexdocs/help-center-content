@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_41
 tag: Checkout,Message Center,Order Management
 slug: inconsistencia-en-la-fecha-de-emails-transaccionales-de-pedidos-cerrados-despues-de-la-medianoche
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

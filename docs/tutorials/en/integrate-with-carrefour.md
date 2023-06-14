@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: integrate-with-carrefour
+locale: en
 legacySlug: integrate-with-carrefour
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

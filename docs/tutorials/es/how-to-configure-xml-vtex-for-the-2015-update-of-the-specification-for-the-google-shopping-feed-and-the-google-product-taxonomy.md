@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: configurar-xml-vtex-para-la-actualización-2015-google-shopping
+locale: es
 legacySlug: 
 subcategory: 
 ---

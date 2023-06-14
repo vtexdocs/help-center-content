@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: marketplace-strategies-at-vtex
+locale: en
 legacySlug: integrating-with-marketplace
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

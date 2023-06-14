@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_3
 slug: checkout-con-error-tienda-no-encontrada
+locale: es
 legacySlug: checkout-con-error-tienda-no-encontrada
 ---
 

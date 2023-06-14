@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: o-plano-de-assinatura-esta-preso-na-importacao-apos-o-carregamento-da-planilha-da-associacao-skus
+locale: pt
 kiStatus: Fixed
 internalReference: 571080
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: configuring-the-pickup-in-store
+locale: en
 legacySlug: configuring-the-pickup-in-store
 subcategory: 1c5Btie9ou2Gg2iUo0ggqM
 ---

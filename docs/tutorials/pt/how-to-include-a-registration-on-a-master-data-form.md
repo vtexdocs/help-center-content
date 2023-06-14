@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_35
 slug: como-incluir-um-registro-em-um-formulario-do-master-data
+locale: pt
 legacySlug: como-incluir-um-registro-em-um-formulario-do-master-data
 subcategory: 42hDtnYXHw5ExG6l19RP1l
 ---

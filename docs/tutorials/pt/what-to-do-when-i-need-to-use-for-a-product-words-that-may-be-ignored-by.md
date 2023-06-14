@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_31
 slug: o-que-fazer-quando-preciso-usar-para-um-produto-palavras-que-podem-ser
+locale: pt
 legacySlug: o-que-fazer-quando-preciso-usar-para-um-produto-palavras-que-podem-ser
 subcategory: pwxWmUu7T222QyuGogs68
 ---

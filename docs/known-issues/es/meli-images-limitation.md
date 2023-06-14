@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: limitacion-de-imagenes-meli
+locale: es
 kiStatus: Backlog
 internalReference: 571539
 ---

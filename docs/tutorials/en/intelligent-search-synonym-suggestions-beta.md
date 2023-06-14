@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
 slug: intelligent-search-synonym-suggestions-beta
+locale: en
 legacySlug: intelligent-search-synonym-suggestions-beta
 subcategory: 23WdCYqmn2V2Z7SDlc14DF
 ---
@@ -29,7 +30,7 @@ VTEX Intelligent Search achieves this by counting how many times in the last 30 
 
 You can review the suggestions and choose one of three actions: decline, edit, or approve. See the steps in the next section.
 
-![syn-sug-en](//images.ctfassets.net/alneenqid6w5/3bDrkDw6O6d8mHvvBKwWGm/7bb4dc43cc0ef0c5cf439d57f1ef7d1b/syn-sug-en.png)
+![syn-sug-en](https://images.ctfassets.net/alneenqid6w5/3bDrkDw6O6d8mHvvBKwWGm/7bb4dc43cc0ef0c5cf439d57f1ef7d1b/syn-sug-en.png)
 
 ## Reviewing suggestions
 

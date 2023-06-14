@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: loop-in-the-authentication-popup-when-the-first-payment-condition-requires-authentication
+locale: en
 kiStatus: Backlog
 internalReference: 844192
 ---

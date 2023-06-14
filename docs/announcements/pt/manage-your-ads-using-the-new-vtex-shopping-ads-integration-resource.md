@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: gerencie-seus-anuncios-com-o-novo-recurso-de-integracao-do-vtex-shopping
+locale: pt
 legacySlug: gerencie-seus-anuncios-com-o-novo-recurso-de-integracao-do-vtex-shopping
 announcementImageID: ''
 announcementSynopsisPT: 'O app VTEX Shopping Ads agora permite o uso de contas existentes de Google Ads'

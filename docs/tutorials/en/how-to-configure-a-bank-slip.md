@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: how-to-configure-a-bank-slip
+locale: en
 legacySlug: how-to-configure-a-bank-slip
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 1LdVGl3YH8PuhBMJYvUmFL
 slug: why-was-my-ad-paused-in-mercado-libre?
+locale: en
 legacySlug: why-was-my-ad-paused-in-mercado-libre?
 ---
 

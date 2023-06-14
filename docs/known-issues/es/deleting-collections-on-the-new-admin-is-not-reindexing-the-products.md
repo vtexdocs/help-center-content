@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-eliminacion-de-colecciones-en-el-nuevo-administrador-no-reincide-en-los-productos
+locale: es
 kiStatus: Backlog
 internalReference: 490740
 ---

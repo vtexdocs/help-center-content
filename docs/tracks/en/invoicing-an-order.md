@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-18T12:20:37.060Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: invoicing-an-order
+locale: en
 trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugEN: orders
 ---

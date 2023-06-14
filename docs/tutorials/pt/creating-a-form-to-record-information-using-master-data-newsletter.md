@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: TAUXpa4XWCsIaUOoksGIE
 slug: criar-formulario-para-registrar-informacoes-usando-master-data-newsletter
+locale: pt
 legacySlug: criar-formulario-para-registrar-informacoes-usando-master-data-newsletter
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---

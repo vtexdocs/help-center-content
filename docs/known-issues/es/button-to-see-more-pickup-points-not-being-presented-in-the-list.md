@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: boton-para-ver-mas-puntos-de-recogida-que-no-se-presentan-en-la-lista
+locale: es
 kiStatus: Backlog
 internalReference: 685650
 ---

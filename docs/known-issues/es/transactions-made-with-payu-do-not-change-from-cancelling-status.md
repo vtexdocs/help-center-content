@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: las-transacciones-realizadas-con-payu-no-cambian-de-estado-de-cancelacion
+locale: es
 kiStatus: Backlog
 internalReference: 338124
 ---

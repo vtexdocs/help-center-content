@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: 10Jj3Ca0hIsTVp4BEeef6Q
 slug: que-hacer-cuando-el-nsu-del-producto-se-duplica-en-las-transacciones-realizadas-por-rede
+locale: es
 legacySlug: 
 ---
 

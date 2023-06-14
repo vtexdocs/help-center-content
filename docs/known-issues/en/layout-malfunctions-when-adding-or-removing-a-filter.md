@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: layout-malfunctions-when-adding-or-removing-a-filter
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

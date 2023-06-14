@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: filtros-para-precos-mais-flexibilidade-na-busca
+locale: pt
 legacySlug: filtros-para-precos-mais-flexibilidade-na-busca
 announcementImageID: ''
 announcementSynopsisPT: 'Para ter um gerenciamento mais dinâmico dos seus preços, desenvolvemos mais opções para a configuração de filtros'
@@ -22,7 +23,7 @@ Agora, você pode filtrar os preços combinando as múltiplas Categorias e Marca
 
 Essa atualização da funcionalidade viabiliza a exportação de preços mais específicos, a partir da seleção dos filtros.
 
-![filtro preco-PT](//images.ctfassets.net/alneenqid6w5/NzavsKoHY8DQUX2FZeoG6/f8152dfe5944412d46bea030585a20f0/filtro_preco-PT.png)
+![filtro preco-PT](https://images.ctfassets.net/alneenqid6w5/NzavsKoHY8DQUX2FZeoG6/f8152dfe5944412d46bea030585a20f0/filtro_preco-PT.png)
 
 ## O que preciso fazer?
 Para utilizar essa nova configuração, siga os passos  abaixo:

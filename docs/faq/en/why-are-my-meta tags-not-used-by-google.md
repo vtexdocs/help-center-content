@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Others
 author: 6qOjO5gpEs8scQ8OugaEaW
 slug: why-are-my-meta tags-not-used-by-google
+locale: en
 legacySlug: why-are-my-meta tags-not-used-by-google
 ---
 

@@ -9,6 +9,7 @@ firstPublishedAt: 2019-03-07T18:22:31.278Z
 contentType: trackArticle
 productTeam: VTEX IO
 slug: publishing-your-store-app
+locale: en
 trackId: 5qJr8BIQXAKec9CpBWrTNv
 trackSlugEN: build-a-store-using-vtex-io
 ---

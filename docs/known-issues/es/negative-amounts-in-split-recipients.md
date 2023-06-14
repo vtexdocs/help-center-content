@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: importes-negativos-en-los-beneficiarios-de-la-division
+locale: es
 kiStatus: Backlog
 internalReference: 388580
 ---

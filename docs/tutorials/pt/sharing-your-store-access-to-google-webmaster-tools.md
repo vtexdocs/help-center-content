@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: compartilhar-acesso-ao-google-webmaster-tools-da-sua-loja
+locale: pt
 legacySlug: compartilhar-acesso-ao-google-webmaster-tools-da-sua-loja
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

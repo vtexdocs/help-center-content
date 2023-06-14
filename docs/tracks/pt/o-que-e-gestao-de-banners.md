@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: 
 slug: o-que-e-gestao-de-banners
+locale: pt
 trackId: 
 trackSlugPT: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2JdGRHS4OGcDWQoxRjEHcn
 slug: acceder-a-las-evaluaciones-de-productos
+locale: es
 legacySlug: acceder-a-las-evaluaciones-de-productos
 subcategory: 5yDQmr18K4GgQAeGwq8USa
 ---

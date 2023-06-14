@@ -11,6 +11,7 @@ productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
 tag: VTEX IO
 slug: mensagem-de-erro-ao-renderizar-pagina-react
+locale: pt
 kiStatus: 
 internalReference: 
 ---

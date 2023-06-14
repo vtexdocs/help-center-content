@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: o-cms-legado-nao-cria-pastas-com-menos-de-3-caracteres-no-nome
+locale: pt
 kiStatus: Backlog
 internalReference: 825530
 ---

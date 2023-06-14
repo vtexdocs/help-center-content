@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: melhorias-na-gestao-de-chaves-de-aplicacao
+locale: pt
 legacySlug: melhorias-na-gestao-de-chaves-de-aplicacao
 announcementImageID: ''
 announcementSynopsisPT: 'Gerencie suas credenciais de autenticação em um único lugar e delegue essa responsabilidade conforme necessário.'

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Reliability
 author: authors_3
 slug: por-que-recibo-un-error-al-acceder-la-tienda-despues-de-configurar-el-dns
+locale: es
 legacySlug: por-que-recibo-un-error-al-acceder-la-tienda-despues-de-configurar-el-dns
 ---
 

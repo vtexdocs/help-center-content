@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-lean-shipping-es-forzado-incluso-cuando-los-articulos-tienen-los-mismos-slas-pero-en-una-ordenacion-diferente
+locale: es
 kiStatus: Backlog
 internalReference: 455218
 ---

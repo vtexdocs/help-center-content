@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: mensaje-de-error-no-especifico-al-exportar-produtoexportacaoimportacaoespecificacaov2aspx
+locale: es
 kiStatus: Backlog
 internalReference: 314227
 ---

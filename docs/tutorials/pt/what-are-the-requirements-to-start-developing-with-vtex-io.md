@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: quais-sao-os-pre-requisitos-para-comecar-a-desenvolver-no-vtex-io
+locale: pt
 legacySlug: quais-sao-os-pre-requisitos-para-comecar-a-desenvolver-no-vtex-io
 subcategory: 5eBwrcLFVSwYGSOQqGKQYW
 ---

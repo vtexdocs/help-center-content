@@ -9,6 +9,7 @@ firstPublishedAt: 2021-09-27T20:57:59.730Z
 contentType: trackArticle
 productTeam: Shopping
 slug: definir-los-metodos-de-pago-mostrados-en-instore
+locale: es
 trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugES: instore-pagos
 ---

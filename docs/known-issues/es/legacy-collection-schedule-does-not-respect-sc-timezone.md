@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: el-horario-de-recogida-del-legado-no-respeta-la-zona-horaria-de-sc
+locale: es
 kiStatus: Backlog
 internalReference: 316054
 ---

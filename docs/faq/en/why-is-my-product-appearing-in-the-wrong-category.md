@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: why-is-my-product-appearing-in-the-wrong-category
+locale: en
 legacySlug: why-is-my-product-appearing-in-the-wrong-category
 ---
 

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: 
 author: 
 slug: untitled-entry-2022-09-19-at-19-22-36
+locale: en
 legacySlug: untitled-entry-2022-09-19-at-19-22-36
 announcementImageID: ''
 announcementSynopsisEN: ''

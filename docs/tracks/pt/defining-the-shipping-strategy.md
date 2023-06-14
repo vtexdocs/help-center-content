@@ -9,6 +9,7 @@ firstPublishedAt: 2021-08-10T20:55:40.994Z
 contentType: trackArticle
 productTeam: Channels
 slug: definicao-da-estrategia-de-envio
+locale: pt
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugPT: configurar-integracao-do-mercado-livre
 ---

@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: sku-eliminado-de-amazon-sc-no-se-desactiva-en-el-portal-de-amazon
+locale: es
 kiStatus: Backlog
 internalReference: 827760
 ---

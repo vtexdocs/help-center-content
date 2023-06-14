@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: creating-the-category-tree
+locale: en
 legacySlug: creating-the-category-tree
 subcategory: 1E7tziZCkY4w8i4EmUuwec
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: por-que-meu-pedido-foi-cancelado-na-vtex-e-nao-no-marketplace
+locale: pt
 legacySlug: por-que-meu-pedido-foi-cancelado-na-vtex-e-nao-no-marketplace
 ---
 

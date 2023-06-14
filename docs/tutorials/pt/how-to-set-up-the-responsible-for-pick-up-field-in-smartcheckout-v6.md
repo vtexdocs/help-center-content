@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 245tA425AIeioKAk2eaiwS
 slug: como-configurar-o-campo-responsavel-pela-retirada-no-smartcheckout-tm-v6
+locale: pt
 legacySlug: como-configurar-o-campo-responsavel-pela-retirada-no-smartcheckout-tm-v6
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

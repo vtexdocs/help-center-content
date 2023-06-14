@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_35
 slug: como-mostrar-la-vitrina-con-productos-de-un-unico-seller
+locale: es
 legacySlug: 
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---

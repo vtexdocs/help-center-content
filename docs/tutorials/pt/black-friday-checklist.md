@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_24
 slug: checklist-black-friday
+locale: pt
 legacySlug: checklist-black-friday
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---

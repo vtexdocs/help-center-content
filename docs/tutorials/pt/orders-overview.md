@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: gerenciamento-de-pedidos-visao-geral
+locale: pt
 legacySlug: oms-visao-geral
 subcategory: 3VNOhxDrvYxJThhuJClrYZ
 ---

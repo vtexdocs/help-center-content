@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: search-filters-disappear-intermittently
+locale: en
 kiStatus: Backlog
 internalReference: 734221
 ---

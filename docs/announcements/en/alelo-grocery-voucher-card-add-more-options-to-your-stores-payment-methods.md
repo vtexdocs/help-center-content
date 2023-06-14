@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: alelo-grocery-voucher-card-add-more-options-to-your-stores-payment-methods
+locale: en
 legacySlug: alelo-grocery-voucher-card-add-more-options-to-your-stores-payment-methods
 announcementImageID: ''
 announcementSynopsisEN: 'VTEX launches its first grocery voucher card payment method.'

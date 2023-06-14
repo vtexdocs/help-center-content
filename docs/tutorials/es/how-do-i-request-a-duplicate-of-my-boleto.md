@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Billing
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: como-solicitar-una-copia-de-mi-boleto-de-cobro
+locale: es
 legacySlug: como-solicitar-una-copia-de-mi-boleto
 subcategory: 5ZfsNR4ioEsIyu6wkyce0M
 ---

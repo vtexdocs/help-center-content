@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: problema-ao-validar-o-campo-de-valor-ao-comprar-com-dois-cartoes
+locale: pt
 kiStatus: Backlog
 internalReference: 460683
 ---

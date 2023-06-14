@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: actualizacion-en-gestion-del-stock
+locale: es
 legacySlug: actualizacion-en-gestion-del-stock
 announcementImageID: ''
 announcementSynopsisES: 'La pestaña «Inventario» del módulo Inventario y Envío ahora es «Gestión del stock», y su interfaz también cambió.'

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_24
 slug: por-que-las-utms-no-se-aplican-al-carrito
+locale: es
 legacySlug: por-que-las-utms-no-se-aplican-al-carrito
 ---
 

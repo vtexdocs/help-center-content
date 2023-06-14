@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: itens-indisponiveis-que-quebram-o-calculo-do-pedidoformulario-de-calculo-em-um-cenario-especifico-utilizando-vendedores-de-whitelabel
+locale: pt
 kiStatus: Backlog
 internalReference: 745047
 ---

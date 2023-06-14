@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: como-utilizar-la-clase-de-producto-no-disponible
+locale: es
 legacySlug: como-utilizar-la-clase-de-producto-no-disponible
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

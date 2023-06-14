@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: search-api-not-working-properly-after-login-in-using-the-call-center-operator
+locale: en
 kiStatus: Backlog
 internalReference: 304586
 ---

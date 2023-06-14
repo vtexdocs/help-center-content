@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 
 slug: untitled-entry-2019-05-26-at-09-41-30
+locale: en
 legacySlug: untitled-entry-2019-05-26-at-09-41-30
 subcategory: 6ggjFlqyvL8hd9CtQFcHiD
 ---

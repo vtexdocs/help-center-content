@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: url-de-callback-de-pedidos-da-via
+locale: en
 legacySlug: url-de-callback-de-pedidos-da-via
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

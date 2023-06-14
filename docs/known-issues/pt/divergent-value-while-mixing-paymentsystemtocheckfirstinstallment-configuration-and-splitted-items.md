@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: valor-divergente-ao-misturar-a-configuracao-paymentsystemtocheckfirstinstallment-e-itens-divididos
+locale: pt
 kiStatus: Backlog
 internalReference: 766454
 ---

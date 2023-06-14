@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: utmip-e-utmipc-not-being-kept-on-the-url-after-login
+locale: en
 kiStatus: Backlog
 internalReference: 372787
 ---

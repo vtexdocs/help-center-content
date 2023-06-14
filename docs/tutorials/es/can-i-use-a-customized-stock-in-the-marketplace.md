@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: puedo-usar-un-stock-personalizado-en-el-marketplace
+locale: es
 legacySlug: puedo-usar-un-stock-personalizado-en-el-marketplace
 subcategory: 7lxg0kyL3TYIsrlSQlf1zP
 ---

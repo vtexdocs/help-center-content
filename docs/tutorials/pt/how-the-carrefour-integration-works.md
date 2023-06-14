@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 245tA425AIeioKAk2eaiwS
 slug: como-funciona-a-integracao-com-o-carrefour
+locale: pt
 legacySlug: como-funciona-a-integracao-com-o-carrefour
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

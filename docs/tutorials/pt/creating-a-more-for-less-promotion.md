@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: leve-mais-por-menos
+locale: pt
 legacySlug: leve-mais-por-menos
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: actions-for-vtex-marketplace-operation
+locale: en
 legacySlug: actions-for-vtex-marketplace-operation
 subcategory: 5tlIjp0ZkAU4EIk4OgyEmm
 ---

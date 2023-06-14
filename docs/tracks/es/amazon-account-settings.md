@@ -9,6 +9,7 @@ firstPublishedAt: 2019-02-28T23:02:20.905Z
 contentType: trackArticle
 productTeam: Channels
 slug: configuracion-de-la-cuenta-amazon
+locale: es
 trackId: 6sgd4Pagy3wNsWKBvmIFrP
 trackSlugES: integracion-de-amazon
 ---

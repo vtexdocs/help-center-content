@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: modo-de-exibicao-do-seletor-de-sku-select-nao-funciona-em-prateleiras
+locale: pt
 kiStatus: Backlog
 internalReference: 682152
 ---

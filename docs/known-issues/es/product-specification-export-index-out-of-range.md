@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-exportacion-de-especificacion-del-producto-retorna-index-out-of-range
+locale: es
 kiStatus: Backlog
 internalReference: 481095
 ---

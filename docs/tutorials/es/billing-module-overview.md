@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Billing
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: vision-general-facturacion
+locale: es
 legacySlug: vision-general-del-modulo-facturas
 subcategory: 
 ---
@@ -22,7 +23,7 @@ Para acceder a esta sección, haz clic en tu **avatar de perfil**, que se puede 
 Solo los usuarios con perfil de acceso <a href="https://help.vtex.com/es/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance">Finance</a>, <a href="https://help.vtex.com/es/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance-full-access">Finance Full Access</a> o con recursos de <a href="https://help.vtex.com/es/tutorial/recursos-do-license-manager-billing--13qKy6rwf9chc8ta90rDcy">Billing</a> vinculadas a su Perfil de acceso tendrán acceso a esta sección del VTEX Admin.         
 </div>            
 
-![Admin v4 Faturas menu ES](//images.ctfassets.net/alneenqid6w5/6EzhdPvM8Foexk2GJUZ3KA/369081b189fa73fa6f87aa849e21ec58/Admin_v4_Faturas_menu_ES.jpg)
+![Admin v4 Faturas menu ES](https://images.ctfassets.net/alneenqid6w5/6EzhdPvM8Foexk2GJUZ3KA/369081b189fa73fa6f87aa849e21ec58/Admin_v4_Faturas_menu_ES.jpg)
 
 A continuación encontrarás más detalles sobre las diferentes secciones y páginas de esta funcionalidad.
 

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: falta-de-respuesta-al-seleccionar-articulos-de-regalo-que-no-estan-disponibles
+locale: es
 kiStatus: Fixed
 internalReference: 648767
 ---

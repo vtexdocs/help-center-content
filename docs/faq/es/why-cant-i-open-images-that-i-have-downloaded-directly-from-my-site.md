@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Others
 author: authors_4
 slug: por-que-no-consigo-abrir-imagenes-que-descargue-directamente-de-mi-sitio
+locale: es
 legacySlug: por-que-no-consigo-abrir-imagenes-que-descargue-directamente-de-mi-sitio
 ---
 

@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: o-pdp-nao-carrega-quando-caracteres-especiais-sao-passados-no-link
+locale: pt
 kiStatus: Backlog
 internalReference: 770893
 ---

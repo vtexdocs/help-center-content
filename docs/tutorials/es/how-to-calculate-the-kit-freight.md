@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-se-calcula-el-envio-de-un-kit
+locale: es
 legacySlug: como-se-calcula-el-envio-de-un-kit
 subcategory: 1O8AEORWOcgIiMosGoousQ
 ---

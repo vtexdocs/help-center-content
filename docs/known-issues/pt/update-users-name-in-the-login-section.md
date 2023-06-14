@@ -11,6 +11,7 @@ productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
 slug: atualizar-o-nome-do-usuario-na-secao-de-login
+locale: pt
 kiStatus: Backlog
 internalReference: 542029
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_61
 slug: configuring-order-recurrence
+locale: en
 legacySlug: configuring-order-recurrence
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---

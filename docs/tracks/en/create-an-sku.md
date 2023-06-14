@@ -9,6 +9,7 @@ firstPublishedAt: 2018-05-02T20:52:38.029Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: create-an-sku
+locale: en
 trackId: 7sORw9I7QIka24MCQaIO2g
 trackSlugEN: vtex-getting-started
 ---

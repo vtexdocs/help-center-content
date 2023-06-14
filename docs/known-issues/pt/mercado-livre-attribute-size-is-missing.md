@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: mercado-livre-falta-o-atributo-tamanho
+locale: pt
 kiStatus: Backlog
 internalReference: 658473
 ---

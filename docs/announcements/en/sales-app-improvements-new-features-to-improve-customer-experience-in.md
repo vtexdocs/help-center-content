@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: sales-app-improvements-new-features-to-improve-customer-experience-in
+locale: en
 legacySlug: sales-app-improvements-new-features-to-improve-customer-experience-in
 announcementImageID: ''
 announcementSynopsisEN: 'Improvements for physical stores, including similar product suggestions and the new On Hands Sales feature.'

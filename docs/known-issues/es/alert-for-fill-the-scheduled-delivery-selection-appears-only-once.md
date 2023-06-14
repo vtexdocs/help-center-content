@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-alerta-para-llenar-la-seleccion-de-entrega-programada-aparece-solo-una-vez
+locale: es
 kiStatus: Backlog
 internalReference: 565982
 ---

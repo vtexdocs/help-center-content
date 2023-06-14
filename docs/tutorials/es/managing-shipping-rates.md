@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: gestionar-las-tarifas-de-envio
+locale: es
 legacySlug: gestionar-valores-de-flete
 subcategory: 7uJcyu0VawEm8ggqKu404u
 ---

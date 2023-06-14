@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: understanding-the-value-of-approved-revenues
+locale: en
 legacySlug: understanding-the-value-of-approved-revenues
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

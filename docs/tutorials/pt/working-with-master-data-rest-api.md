@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: trabalhando-com-a-api-rest-do-master-data
+locale: pt
 legacySlug: trabalhando-com-a-api-rest-do-master-data
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---

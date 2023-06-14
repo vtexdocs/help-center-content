@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: previsao-de-embarque-mostrando-erroneamente-a-mensagem-de-indisponibilidade-para-retirada
+locale: pt
 kiStatus: Backlog
 internalReference: 764457
 ---

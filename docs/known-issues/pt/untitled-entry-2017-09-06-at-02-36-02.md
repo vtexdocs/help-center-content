@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 
 tag: 
 slug: remocao-de-produtos
+locale: pt
 kiStatus: 
 internalReference: 
 ---

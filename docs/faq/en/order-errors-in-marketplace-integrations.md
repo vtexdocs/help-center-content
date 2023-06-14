@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: order-errors-in-marketplace-integrations
+locale: en
 legacySlug: errors-in-bridge-how-to-solve
 ---
 

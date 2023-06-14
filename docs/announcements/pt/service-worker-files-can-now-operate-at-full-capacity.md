@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: service-worker-ja-pode-ser-usado-em-todo-seu-potencial
+locale: pt
 legacySlug: service-worker-ja-pode-ser-usado-em-todo-seu-potencial
 announcementImageID: ''
 announcementSynopsisPT: 'Em nova atualização da plataforma, arquivos Service Worker agora podem interceptar requests de toda a sua loja.'

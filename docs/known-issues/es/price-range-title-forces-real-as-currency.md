@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: title-de-rango-de-precios-fuerza-moneda-real
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

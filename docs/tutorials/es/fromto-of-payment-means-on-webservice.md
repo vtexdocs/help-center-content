@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: depara-de-los-medios-de-pago-en-el-web-service
+locale: es
 legacySlug: depara-de-los-medios-de-pago-en-el-web-service
 subcategory: 1vwB9FtTSQmcSewQw02QoW
 ---

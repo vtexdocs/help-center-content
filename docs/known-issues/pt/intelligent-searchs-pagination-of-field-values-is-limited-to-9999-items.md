@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: a-paginacao-inteligente-dos-valores-de-campo-da-busca-inteligente-e-limitada-a-9999-itens
+locale: pt
 kiStatus: Backlog
 internalReference: 428486
 ---

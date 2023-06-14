@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: alert-for-fill-the-scheduled-delivery-selection-appears-only-once
+locale: en
 kiStatus: Backlog
 internalReference: 565982
 ---

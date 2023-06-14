@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 3aBBTLS9ZKO6IcY0Goe2y2
 slug: what-is-the-difference-between-an-app-dependency-and-peerdependency
+locale: en
 legacySlug: what-is-the-difference-between-an-app-dependency-and-peerdependency
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

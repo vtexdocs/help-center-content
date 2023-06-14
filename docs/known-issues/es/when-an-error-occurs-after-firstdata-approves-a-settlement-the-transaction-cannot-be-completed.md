@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: cuando-se-produce-un-error-despues-de-que-firstdata-apruebe-una-liquidacion-la-transaccion-no-puede-completarse
+locale: es
 kiStatus: Backlog
 internalReference: 760458
 ---

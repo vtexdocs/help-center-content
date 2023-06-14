@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: authors_84
 slug: por-que-o-item-do-carrinho-foi-separado
+locale: pt
 legacySlug: por-que-o-item-do-carrinho-foi-separado
 ---
 

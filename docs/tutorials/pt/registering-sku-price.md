@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: cadastrando-preco-de-sku
+locale: pt
 legacySlug: cadastrando-preco-de-sku
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---

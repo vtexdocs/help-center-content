@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: B2B
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: configurar-loja-b2b-self-service
+locale: pt
 legacySlug: configurar-loja-b2b-self-service
 subcategory: 2LrbEY7MFeKqmdfYLBCnfi
 ---

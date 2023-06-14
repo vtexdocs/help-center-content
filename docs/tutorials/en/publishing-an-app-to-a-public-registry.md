@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_24
 slug: publishing-an-app-to-a-public-registry
+locale: en
 legacySlug: 
 subcategory: 
 ---

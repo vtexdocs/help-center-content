@@ -9,6 +9,7 @@ contentType: updates
 productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
 slug: facilite-a-criacao-de-apps-backend-em-graphql-typescript-para-o-vtex-io-com
+locale: pt
 legacySlug: facilite-a-criacao-de-apps-backend-em-graphql-typescript-para-o-vtex-io-com
 announcementImageID: ''
 announcementSynopsisPT: 'Novo builder do VTEX.IO diminui duplicidade de código em apps que utilizam GraphQL e TypeScript.'

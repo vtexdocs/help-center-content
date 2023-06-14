@@ -11,6 +11,7 @@ productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
 slug: crm-comment-system-does-not-work
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

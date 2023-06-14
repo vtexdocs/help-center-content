@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_24
 slug: lista-de-control-blackfriday
+locale: es
 legacySlug: untitled-entry-2017-11-07-at-03-53-51
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---

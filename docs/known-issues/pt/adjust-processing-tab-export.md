@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: ajustar-a-exportacao-da-aba-de-processamento
+locale: pt
 kiStatus: Backlog
 internalReference: 649311
 ---

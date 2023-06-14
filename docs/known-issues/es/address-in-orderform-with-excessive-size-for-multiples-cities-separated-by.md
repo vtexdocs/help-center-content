@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: direccion-en-orderform-con-tamano-excesivo-para-multiples-ciudades-separadas-por
+locale: es
 kiStatus: Backlog
 internalReference: 287854
 ---

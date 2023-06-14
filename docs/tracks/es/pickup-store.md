@@ -9,6 +9,7 @@ firstPublishedAt: 2018-06-22T17:08:22.081Z
 contentType: trackArticle
 productTeam: Shopping
 slug: retirada-en-la-tienda
+locale: es
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugES: instore-setup
 ---

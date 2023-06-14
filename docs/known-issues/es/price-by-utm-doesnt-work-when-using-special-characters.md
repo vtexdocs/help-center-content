@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_35
 tag: Catalog,Pricing & Promotions
 slug: precio-por-utm-no-funciona-cuando-son-usados-caracteres-especiales
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

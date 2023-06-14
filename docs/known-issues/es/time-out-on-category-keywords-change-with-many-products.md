@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: timeout-al-cambiar-las-palabras-clave-de-la-categoria-con-muchos-productos
+locale: es
 kiStatus: Backlog
 internalReference: 497335
 ---

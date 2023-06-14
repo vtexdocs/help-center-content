@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_59
 slug: integracoes-com-apis-vtex-agora-precisam-de-autenticacao-por-token
+locale: pt
 legacySlug: integracoes-com-apis-vtex-agora-precisam-de-autenticacao-por-token
 announcementImageID: ''
 announcementSynopsisPT: 'VTEX deixará de permitir que integrações com nossas APIs usem e-mail e senha para autenticação'

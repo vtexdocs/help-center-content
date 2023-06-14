@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: field-exchanges-and-returns-is-not-updating-on-seller-management-ui-after-save
+locale: en
 kiStatus: Backlog
 internalReference: 689886
 ---

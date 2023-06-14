@@ -11,6 +11,7 @@ productTeam: Shopping
 author: authors_4
 tag: Checkout
 slug: la-creacion-de-custom-fields-para-custom-data-convierte-los-ids-a-letras
+locale: es
 kiStatus: Closed
 internalReference: 
 ---

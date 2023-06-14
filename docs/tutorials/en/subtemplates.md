@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: subtemplates
+locale: en
 legacySlug: subtemplates
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

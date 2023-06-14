@@ -11,6 +11,7 @@ productTeam: Channels
 author: 2mXZkbi0oi061KicTExNjo
 tag: Suggestions
 slug: imagens-enviadas-por-api-com-protocolo-http-nao-renderizam-no-modulo-skus-recebidos
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

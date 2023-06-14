@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: validacao-de-anexos-obrigatorios-no-carrinho-da-loja
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

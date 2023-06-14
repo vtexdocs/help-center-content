@@ -11,6 +11,7 @@ productTeam: Channels
 author: 2mXZkbi0oi061KicTExNjo
 tag: Suggestions
 slug: la-cantidad-de-marcas-excede-el-limite-de-excel-en-la-plantilla-de-mapeo
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

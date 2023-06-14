@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_65
 slug: mudando-para-nova-versao-do-smart-checkout
+locale: pt
 legacySlug: mudando-para-nova-versao-do-smart-checkout
 subcategory: 8AGXmtpbTqUE2KQu0Swwk
 ---

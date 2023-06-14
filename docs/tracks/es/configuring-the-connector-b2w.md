@@ -9,6 +9,7 @@ firstPublishedAt: 2018-09-27T22:41:30.135Z
 contentType: trackArticle
 productTeam: Channels
 slug: configuracion-del-conector-b2w
+locale: es
 trackId: 6w07SJBVqE020KIOOS8ygk
 trackSlugES: configurar-integracion-b2w
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: deactivating-and-reorganizing-categories
+locale: en
 legacySlug: disabling-and-reorganizing-categories
 subcategory: 1E7tziZCkY4w8i4EmUuwec
 ---

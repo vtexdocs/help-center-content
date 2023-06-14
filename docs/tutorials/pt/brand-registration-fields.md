@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: campos-de-cadastro-de-marca
+locale: pt
 legacySlug: campos-de-cadastro-de-marca
 subcategory: fUHfjTEwyOcIQuyeUsIIu
 ---

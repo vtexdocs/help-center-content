@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 3aBBTLS9ZKO6IcY0Goe2y2
 slug: using-header-block-to-achieve-greater-control-of-component-layout-and-positioning
+locale: en
 legacySlug: using-header-block-to-achieve-greater-control-of-component-layout-and
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: authors_24
 slug: lancamos-o-novo-order-placed
+locale: pt
 legacySlug: lancamos-o-novo-order-placed
 announcementImageID: ''
 announcementSynopsisPT: 'A nova versão da página de confirmação de pedido já está disponível'

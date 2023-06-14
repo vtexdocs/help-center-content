@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: auto-approve-api-accepts-any-values
+locale: en
 kiStatus: Backlog
 internalReference: 713704
 ---

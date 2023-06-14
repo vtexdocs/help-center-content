@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: shopee-sku-desactivado-en-el-mercado-shopeeskuhelper-actualizacion-de-sku-fallida
+locale: es
 kiStatus: Fixed
 internalReference: 685137
 ---

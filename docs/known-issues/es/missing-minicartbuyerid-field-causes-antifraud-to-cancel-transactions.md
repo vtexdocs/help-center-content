@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: la-falta-del-campo-minicartbuyerid-hace-que-el-antifraude-cancele-transacciones
+locale: es
 kiStatus: Backlog
 internalReference: 514335
 ---

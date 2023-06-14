@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: uploading-more-than-one-existing-file-at-a-time-does-not-update-all-files-in-file-manager
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

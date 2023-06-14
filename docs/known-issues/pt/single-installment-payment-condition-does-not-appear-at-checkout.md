@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: a-condicao-de-pagamento-em-uma-unica-parcela-nao-aparece-no-checkout
+locale: pt
 kiStatus: Backlog
 internalReference: 605568
 ---

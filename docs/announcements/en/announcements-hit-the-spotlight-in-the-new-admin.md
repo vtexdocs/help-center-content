@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
 slug: announcements-hit-the-spotlight-in-the-new-admin
+locale: en
 legacySlug: announcements-hit-the-spotlight-in-the-new-admin
 announcementImageID: ''
 announcementSynopsisEN: "You get notified whenever there's a new announcement and have a glimpse of the latest news right on the main page."

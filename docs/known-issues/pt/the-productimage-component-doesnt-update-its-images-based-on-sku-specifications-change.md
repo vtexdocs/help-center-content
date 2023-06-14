@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: o-componente-productimage-nao-atualiza-suas-imagens-com-base-na-alteracao-das-especificacoes-de-sku
+locale: pt
 kiStatus: Backlog
 internalReference: 669619
 ---

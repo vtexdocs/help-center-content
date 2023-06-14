@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: los-articulos-no-disponibles-rompen-el-calculo-del-orderform-en-un-escenario-especifico-cuando-se-utilizan-vendedores-con-etiqueta-blanca
+locale: es
 kiStatus: Backlog
 internalReference: 745047
 ---

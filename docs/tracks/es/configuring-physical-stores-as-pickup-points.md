@@ -9,6 +9,7 @@ firstPublishedAt: 2021-08-23T17:12:50.884Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configurar-tiendas-fisicas-como-puntos-de-recogida
+locale: es
 trackId: 3WGDRRhc3vf1MJb9zGncnv
 trackSlugES: estrategias-de-comercio-unificado
 ---

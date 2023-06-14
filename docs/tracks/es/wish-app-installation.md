@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-19T17:27:59.799Z
 contentType: trackArticle
 productTeam: Channels
 slug: instalacion-de-la-app-de-wish
+locale: es
 trackId: 50hbG4bzhSIhjz1lzqI1g4
 trackSlugES: integracion-con-wish
 ---

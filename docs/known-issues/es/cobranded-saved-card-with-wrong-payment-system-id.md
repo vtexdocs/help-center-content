@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: tarjeta-guardada-de-marca-compartida-con-identificador-de-sistema-de-pago-incorrecto
+locale: es
 kiStatus: Backlog
 internalReference: 833400
 ---

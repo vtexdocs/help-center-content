@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 6AcGyun1hSWewU8YcaQiO
 slug: proporcione-una-nueva-experiencia-de-autoservicio-a-sus-clientes-con-el-nuevo-my-account
+locale: es
 legacySlug: proporcione-una-nueva-experiencia-de-autoservicio-a-sus-clientes-con-el-nuevo-my-account
 announcementImageID: ''
 announcementSynopsisES: 'Todos los pedidos y datos personales gerenciados en un solo lugar.'

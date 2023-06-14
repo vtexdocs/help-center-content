@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: conflictos-con-los-filtros-de-precios-y-isavailablepersaleschannel-en-las-busquedas-portal-y-busqueda-de-nuevo
+locale: es
 kiStatus: Backlog
 internalReference: 531277
 ---

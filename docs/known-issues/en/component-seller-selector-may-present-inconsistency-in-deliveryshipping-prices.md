@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: component-seller-selector-may-present-inconsistency-in-deliveryshipping-prices
+locale: en
 kiStatus: Backlog
 internalReference: 658452
 ---

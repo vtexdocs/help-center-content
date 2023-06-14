@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: incongruencia-en-las-fechas-de-vencimiento-del-boleto-bancario
+locale: es
 kiStatus: Backlog
 internalReference: 489460
 ---

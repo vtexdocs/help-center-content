@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: como-funciona-la-regla-de-disponibilidad-minima
+locale: es
 legacySlug: como-funciona-la-regla-de-disponibilidad-minima
 subcategory: 7lxg0kyL3TYIsrlSQlf1zP
 ---

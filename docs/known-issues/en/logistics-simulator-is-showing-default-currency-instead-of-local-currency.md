@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: logistics-simulator-is-showing-default-currency-instead-of-local-currency
+locale: en
 kiStatus: Backlog
 internalReference: 514551
 ---

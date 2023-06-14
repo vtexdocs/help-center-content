@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: sku-inativo-atualizacoes-na-b2w-mas-nao-registra-a-mensagem-correta-no-bridge
+locale: pt
 kiStatus: Backlog
 internalReference: 603761
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: configurar-el-gateway-paymee
+locale: es
 legacySlug: configurar-el-gateway-paymee
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

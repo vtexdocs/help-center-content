@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: revista-luiza-los-pedidos-con-estado-aprobado-en-el-marketplace-no-se-estan-aprobando-en-vtex
+locale: es
 kiStatus: Backlog
 internalReference: 823443
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 slug: integracao-b2w-automatize-a-solicitacao-de-picking-com-a-b2w-coleta
+locale: pt
 legacySlug: integracao-b2w-automatize-a-solicitacao-de-picking-com-a-b2w-coleta
 announcementImageID: ''
 announcementSynopsisPT: ' a VTEX terá uma nova integração automática com a B2W Coleta - uma das soluções de logística da B2W'

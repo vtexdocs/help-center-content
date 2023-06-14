@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: product-taxpercentage-value-saved-by-searchresolver-is-incorrect-due-to-rounding
+locale: en
 kiStatus: Backlog
 internalReference: 470143
 ---

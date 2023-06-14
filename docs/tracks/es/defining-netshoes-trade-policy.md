@@ -9,6 +9,7 @@ firstPublishedAt: 2021-02-23T20:20:32.953Z
 contentType: trackArticle
 productTeam: Channels
 slug: definir-la-politica-comercial-para-netshoes
+locale: es
 trackId: 5Ua87lhFg4m0kEcuyqmcCm
 trackSlugES: configurar-integracion-netshoes
 ---

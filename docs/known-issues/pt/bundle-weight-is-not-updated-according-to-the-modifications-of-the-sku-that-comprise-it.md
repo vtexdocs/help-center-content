@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: peso-de-um-kit-nao-e-atualizado-conforme-modificacoes-dos-skus-que-o-compoem
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

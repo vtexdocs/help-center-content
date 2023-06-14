@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_2
 slug: o-que-e-whitelabel
+locale: pt
 legacySlug: o-que-e-whitelabel
 subcategory: 8AGXmtpbTqUE2KQu0Swwk
 ---

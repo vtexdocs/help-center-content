@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: TnXcuQydAAOuwWACo864E
 slug: como-usar-os-triggers-do-masterdata-v2-para-interagir-com-pedidos-orders
+locale: pt
 legacySlug: como-usar-os-triggers-do-masterdata-v2-para-interagir-com-pedidos-orders
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

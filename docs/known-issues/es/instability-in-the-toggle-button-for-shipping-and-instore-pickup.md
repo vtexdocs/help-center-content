@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: inestabilidad-en-el-boton-para-elegir-entre-recoger-y-recibir-el-pedido
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

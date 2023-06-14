@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: portal-no-respeta-la-etiqueta-principal-de-skus-imagen
+locale: es
 kiStatus: Backlog
 internalReference: 712443
 ---

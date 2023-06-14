@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: modificar-el-numero-de-caracteres-de-la-ficha-braspag
+locale: es
 kiStatus: Backlog
 internalReference: 771045
 ---

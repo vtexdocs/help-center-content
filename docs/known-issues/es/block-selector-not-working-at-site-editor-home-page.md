@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: el-selector-de-bloques-no-funciona-en-la-pagina-de-inicio-del-editor-de-sitios
+locale: es
 kiStatus: Backlog
 internalReference: 431941
 ---

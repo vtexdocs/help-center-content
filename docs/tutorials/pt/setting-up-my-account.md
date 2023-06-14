@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 6AcGyun1hSWewU8YcaQiO
 slug: configurar-o-my-account
+locale: pt
 legacySlug: configurar-o-my-account
 subcategory: 1RWR7qSyaREbD5RfgCjdYG
 ---

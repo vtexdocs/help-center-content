@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-el-gateway-tnspay
+locale: es
 legacySlug: configurar-el-gateway-tnspay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

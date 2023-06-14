@@ -9,6 +9,7 @@ firstPublishedAt: 2020-03-05T19:56:02.826Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: configurar-sinonimos
+locale: es
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugES: vtex-intelligent-search
 ---

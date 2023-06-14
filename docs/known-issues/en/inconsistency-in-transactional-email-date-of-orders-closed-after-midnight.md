@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_41
 tag: Checkout,Message Center,Order Management
 slug: inconsistency-in-transactional-email-date-of-orders-closed-after-midnight
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

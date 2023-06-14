@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: configurando-logistica-para-marketplace
+locale: pt
 legacySlug: configurando-logistica-para-marketplace
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

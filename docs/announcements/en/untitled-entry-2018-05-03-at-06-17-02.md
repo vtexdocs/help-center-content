@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Master Data
 author: 
 slug: untitled-entry-2018-05-03-at-06-17-02
+locale: en
 legacySlug: 
 announcementImageID: ''
 announcementSynopsisEN: ''

@@ -11,6 +11,7 @@ productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
 slug: comentario-o-campo-vtexcrm-nao-esta-mostrando-seu-conteudo
+locale: pt
 kiStatus: Backlog
 internalReference: 565919
 ---

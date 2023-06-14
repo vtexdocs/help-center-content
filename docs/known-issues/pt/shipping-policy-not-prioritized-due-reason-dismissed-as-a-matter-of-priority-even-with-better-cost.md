@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: politica-de-embarque-nao-priorizada-devido-ao-motivo-dispensada-como-prioridade-mesmo-com-melhor-custo
+locale: pt
 kiStatus: Backlog
 internalReference: 379685
 ---

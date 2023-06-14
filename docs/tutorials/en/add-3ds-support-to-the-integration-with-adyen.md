@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: add-3ds-support-to-the-integration-with-adyen
+locale: en
 legacySlug: add-3ds-support-to-the-integration-with-adyen
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

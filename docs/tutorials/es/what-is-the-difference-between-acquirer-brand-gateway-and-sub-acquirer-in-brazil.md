@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: cual-es-la-diferencia-entre-adquirente-bandera-gateway-y-sub-adquirente-en-brasil
+locale: es
 legacySlug: cual-es-la-diferencia-entre-adquirente-bandera-gateway-y-sub-adquirente-en-brasil
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

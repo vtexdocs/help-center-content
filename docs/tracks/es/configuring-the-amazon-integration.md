@@ -9,6 +9,7 @@ firstPublishedAt: 2019-02-28T23:12:37.347Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-la-integracion-de-amazon
+locale: es
 trackId: 6sgd4Pagy3wNsWKBvmIFrP
 trackSlugES: integracion-de-amazon
 ---

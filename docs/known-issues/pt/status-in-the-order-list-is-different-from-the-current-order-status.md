@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: o-status-na-lista-de-pedidos-e-diferente-do-status-do-pedido-atual
+locale: pt
 kiStatus: Backlog
 internalReference: 577103
 ---

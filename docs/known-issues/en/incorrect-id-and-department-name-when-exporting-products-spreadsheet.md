@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: incorrect-id-and-department-name-when-exporting-products-spreadsheet
+locale: en
 kiStatus: Backlog
 internalReference: 783363
 ---

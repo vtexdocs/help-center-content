@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: authors_84
 slug: como-inhabilitar-la-autenticacion-de-dos-factores
+locale: es
 legacySlug: como-inhabilitar-la-autenticacion-de-dos-factores
 ---
 

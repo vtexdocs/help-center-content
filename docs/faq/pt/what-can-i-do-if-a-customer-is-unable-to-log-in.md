@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: authors_35
 slug: cliente-nao-consegue-fazer-login
+locale: pt
 legacySlug: cliente-nao-consegue-fazer-login
 ---
 

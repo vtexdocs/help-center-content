@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 6ZIASoEIeITT63epPauz12
 slug: vision-general-promociones
+locale: es
 legacySlug: vision-general-promociones
 subcategory: 
 ---
@@ -18,7 +19,7 @@ Una promoción es un descuento que se concede al cliente, asociado a uno o vario
 
 En el menú **Promociones** de su Admin, puedes configurar una promoción con restricciones de listas de productos, listas de clientes, rangos de códigos postales, valor mínimo del carrito, entre otros.
 
-![visao-geral-promo-ES](//images.ctfassets.net/alneenqid6w5/6FHow2OrXNqAoiKaJngwPU/b042023b3d3624f98bde582d8817b41d/image.png)
+![visao-geral-promo-ES](https://images.ctfassets.net/alneenqid6w5/6FHow2OrXNqAoiKaJngwPU/b042023b3d3624f98bde582d8817b41d/image.png)
 
 A continuación, encontrarás más detalles sobre las diferentes secciones y páginas de este menú.
 

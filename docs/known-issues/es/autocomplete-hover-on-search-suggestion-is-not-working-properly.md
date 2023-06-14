@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: autocomplete-hover-on-search-suggestion-is-not-working-properly
+locale: es
 kiStatus: Backlog
 internalReference: 697406
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: passar-pedido-para-o-status-preparando-entrega
+locale: pt
 legacySlug: iniciar-manuseio
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

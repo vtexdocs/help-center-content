@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
 slug: documentacao-de-homologacao-para-a-appstore
+locale: pt
 legacySlug: documentacao-de-homologacao-para-a-appstore
 subcategory: 3e2VLdLao8GGk4sAmMmwmi
 ---

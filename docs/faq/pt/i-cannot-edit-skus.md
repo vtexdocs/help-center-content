@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: nao-consigo-editar-skus
+locale: pt
 legacySlug: nao-consigo-editar-skus
 ---
 

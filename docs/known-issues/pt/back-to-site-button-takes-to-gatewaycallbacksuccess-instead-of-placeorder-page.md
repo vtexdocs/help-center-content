@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-botao-back-to-site-leva-ao-gatewaycallbacksuccess-ao-inves-de-placeorder-page
+locale: pt
 kiStatus: Backlog
 internalReference: 786685
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: como-usar-a-classe-de-produto-indisponivel
+locale: pt
 legacySlug: como-usar-a-classe-de-produto-indisponivel
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

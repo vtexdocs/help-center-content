@@ -9,6 +9,7 @@ firstPublishedAt: 2018-06-14T19:49:34.062Z
 contentType: trackArticle
 productTeam: VTEX IO
 slug: producao
+locale: pt
 trackId: 2qYWraccosS2ayg2kusaUo
 trackSlugPT: vtex-io-getting-started
 ---

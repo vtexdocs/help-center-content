@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: considerar-parametro-map-na-criacao-da-tag-canonical
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: por-que-el-pedido-fue-cerrado-sin-stock
+locale: es
 legacySlug: por-que-el-pedido-fue-cerrado-sin-stock
 ---
 

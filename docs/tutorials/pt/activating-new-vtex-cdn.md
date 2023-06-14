@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_4
 slug: ativar-nova-cdn-da-vtex
+locale: pt
 legacySlug: ativar-nova-cdn-da-vtex
 subcategory: 2Za4fjGfxYOo6oqykukgyy
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: creating-lists-on-the-site
+locale: en
 legacySlug: creating-lists-on-the-site
 subcategory: 6aeeWirCBUwwCmeIWOgIWs
 ---

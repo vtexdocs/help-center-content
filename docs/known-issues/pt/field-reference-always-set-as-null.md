@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-campo-reference-sempre-e-definido-como-nulo
+locale: pt
 kiStatus: Backlog
 internalReference: 797989
 ---

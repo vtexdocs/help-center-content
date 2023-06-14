@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: o-que-e-o-usuario-titular
+locale: pt
 legacySlug: o-que-e-o-usuario-master
 subcategory: 63DHe3VQEEE6Uuua8gIs2M
 ---

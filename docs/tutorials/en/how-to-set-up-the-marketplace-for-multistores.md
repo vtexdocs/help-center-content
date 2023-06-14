@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: how-to-set-up-the-marketplace-for-multistores
+locale: en
 legacySlug: how-to-set-up-the-marketplace-for-multistores
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

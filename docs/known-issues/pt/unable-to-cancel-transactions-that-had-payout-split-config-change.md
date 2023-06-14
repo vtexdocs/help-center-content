@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: incapaz-de-cancelar-transacoes-que-tiveram-mudanca-de-configuracao-de-pagamento-dividido
+locale: pt
 kiStatus: Backlog
 internalReference: 364382
 ---

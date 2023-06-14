@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: novos-limites-para-causas-de-promocao
+locale: pt
 legacySlug: novos-limites-para-causas-de-promocao
 announcementImageID: ''
 announcementSynopsisPT: 'Veja abaixo os novos limites para cada causa de promoção'

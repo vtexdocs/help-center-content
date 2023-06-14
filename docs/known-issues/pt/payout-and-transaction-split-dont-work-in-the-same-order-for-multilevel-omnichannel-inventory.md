@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-pagamento-e-a-divisao-da-transacao-nao-funcionam-na-mesma-ordem-para-o-inventario-multilevel-omnichannel
+locale: pt
 kiStatus: Backlog
 internalReference: 777201
 ---

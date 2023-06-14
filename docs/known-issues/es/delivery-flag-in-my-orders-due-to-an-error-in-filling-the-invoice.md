@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: bandera-de-entrega-en-mis-pedidos-debido-a-un-error-al-rellenar-la-factura
+locale: es
 kiStatus: Backlog
 internalReference: 547053
 ---

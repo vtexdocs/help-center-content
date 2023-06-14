@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: o-intelligent-search-multilingue-nao-e-compativel-com-duas-variacoes-do-mesmo-idiomaidioma
+locale: pt
 kiStatus: Backlog
 internalReference: 841704
 ---

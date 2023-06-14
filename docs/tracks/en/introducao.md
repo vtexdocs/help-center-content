@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: 
 slug: introducao
+locale: en
 trackId: 
 trackSlugEN: 
 ---

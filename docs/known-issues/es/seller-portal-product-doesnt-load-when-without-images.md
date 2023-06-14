@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-producto-del-portal-del-vendedor-no-se-carga-sin-imagenes
+locale: es
 kiStatus: Backlog
 internalReference: 800480
 ---

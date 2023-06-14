@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: 
 slug: campanhas-o-que-sao-e-como-criar
+locale: es
 trackId: 
 trackSlugES: 
 ---

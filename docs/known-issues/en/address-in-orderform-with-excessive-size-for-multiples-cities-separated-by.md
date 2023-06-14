@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: address-in-orderform-with-excessive-size-for-multiples-cities-separated-by
+locale: en
 kiStatus: Backlog
 internalReference: 287854
 ---

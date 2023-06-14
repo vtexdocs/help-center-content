@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: o-botao-salvar-do-campovalorformaspx-requer-dois-cliques
+locale: pt
 kiStatus: Backlog
 internalReference: 525616
 ---

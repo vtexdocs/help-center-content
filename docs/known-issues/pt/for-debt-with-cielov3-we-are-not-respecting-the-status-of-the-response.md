@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: para-a-divida-com-a-cielov3-nao-estamos-respeitando-o-status-da-resposta
+locale: pt
 kiStatus: Backlog
 internalReference: 367284
 ---

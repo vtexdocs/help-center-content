@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 4iKDU1m0huXy1qFWff7vY5
 slug: untitled-entry-2019-03-20-at-09-50-15
+locale: es
 legacySlug: untitled-entry-2019-03-20-at-09-50-15
 ---
 

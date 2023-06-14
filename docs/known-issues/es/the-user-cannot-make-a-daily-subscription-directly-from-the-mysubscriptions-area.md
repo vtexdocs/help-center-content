@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: el-usuario-no-puede-realizar-una-suscripcion-diaria-directamente-desde-el-area-de-mis-suscripciones
+locale: es
 kiStatus: Backlog
 internalReference: 430650
 ---

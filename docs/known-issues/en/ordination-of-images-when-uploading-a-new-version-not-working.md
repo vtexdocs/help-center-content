@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: ordination-of-images-when-uploading-a-new-version-not-working
+locale: en
 kiStatus: Backlog
 internalReference: 739814
 ---

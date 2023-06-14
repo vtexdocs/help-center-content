@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: why-were-products-not-sent-to-the-marketplace
+locale: en
 legacySlug: why-were-products-not-sent-to-the-marketplace
 ---
 

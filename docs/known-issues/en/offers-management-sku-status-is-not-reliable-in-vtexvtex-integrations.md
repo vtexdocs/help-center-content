@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: offers-management-sku-status-is-not-reliable-in-vtexvtex-integrations
+locale: en
 kiStatus: Backlog
 internalReference: 745738
 ---

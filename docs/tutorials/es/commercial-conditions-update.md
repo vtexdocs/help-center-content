@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: D0eIlynYFqaWQOMM6mmY6
 slug: actualizacion-de-las-condiciones-comerciales
+locale: es
 legacySlug: actualizacion-de-las-condiciones-comerciales
 subcategory: 22TaEgFhwE6a6CG2KASYkC
 ---

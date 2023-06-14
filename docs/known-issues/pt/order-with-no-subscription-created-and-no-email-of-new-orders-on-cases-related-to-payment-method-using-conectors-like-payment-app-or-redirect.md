@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: pedido-sem-assinatura-criado-e-sem-email-de-novos-pedidos-em-casos-relacionados-ao-metodo-de-pagamento-usando-conectadores-como-payment-app-ou-redirect
+locale: pt
 kiStatus: Backlog
 internalReference: 529143
 ---

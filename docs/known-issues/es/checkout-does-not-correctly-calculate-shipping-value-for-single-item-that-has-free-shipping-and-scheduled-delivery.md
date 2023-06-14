@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-caja-no-calcula-correctamente-el-valor-del-envio-para-un-solo-articulo-que-tiene-envio-gratuito-y-entrega-programada
+locale: es
 kiStatus: Backlog
 internalReference: 529043
 ---

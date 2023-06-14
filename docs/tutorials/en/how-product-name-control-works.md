@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: how-product-name-control-works
+locale: en
 legacySlug: how-product-name-control-works
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: nao-e-possivel-salvar-alguns-enderecos-do-chile-em-minha-conta
+locale: pt
 kiStatus: Backlog
 internalReference: 386030
 ---

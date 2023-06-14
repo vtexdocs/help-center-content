@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: verificando-integracao-no-bridge
+locale: pt
 legacySlug: verificando-integracao-no-bridge
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---

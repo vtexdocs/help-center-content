@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-pago-forzaba-el-paso-de-envio-en-modo-de-entrega-mientras-la-direccion-y-la-opcion-de-punto-de-recogida-se-definian-a-traves-de-la-api
+locale: es
 kiStatus: Fixed
 internalReference: 287444
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: progressive-discount
+locale: en
 legacySlug: progressive-discount
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

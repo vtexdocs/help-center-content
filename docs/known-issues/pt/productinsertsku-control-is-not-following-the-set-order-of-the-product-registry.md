@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog,Portal (CMS)
 slug: controle-productinsertsku-nao-esta-considerando-a-ordenacao-definida-no-cadastro-do-produto
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

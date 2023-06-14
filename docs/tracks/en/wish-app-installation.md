@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-19T17:27:59.799Z
 contentType: trackArticle
 productTeam: Channels
 slug: wish-app-installation
+locale: en
 trackId: 50hbG4bzhSIhjz1lzqI1g4
 trackSlugEN: wish-integration
 ---

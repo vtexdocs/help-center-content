@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: o-relatorio-dos-assinantes-nao-mostra-corretamente-as-assinaturas-ativas
+locale: pt
 kiStatus: Backlog
 internalReference: 587556
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2018-09-27T22:14:23.485Z
 contentType: trackArticle
 productTeam: Channels
 slug: authorizing-via-varejo-integration-in-vtex-panel
+locale: en
 trackId: 3E9XylGaJ2wqwISGyw4GuY
 trackSlugEN: via-varejo-integration-setup
 ---

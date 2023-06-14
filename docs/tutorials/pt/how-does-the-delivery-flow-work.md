@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: como-funciona-o-fluxo-de-entregas
+locale: pt
 legacySlug: como-funciona-o-fluxo-de-entregas
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

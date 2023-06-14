@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: manual-de-clases-y-metodos-utilizados-en-webservice
+locale: es
 legacySlug: manual-de-clases-y-metodos-utilizados-en-webservice
 subcategory: 1vwB9FtTSQmcSewQw02QoW
 ---

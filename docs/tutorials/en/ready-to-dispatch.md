@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: ready-to-dispatch
+locale: en
 legacySlug: ready-to-dispatch
 subcategory: 5n5MnINzWTQUX1I2EZl4Ib
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: redesigned-products-and-skus-page
+locale: en
 legacySlug: redesigned-products-and-skus-page
 announcementImageID: ''
 announcementSynopsisEN: "The redesigned Products and SKUs interface allows you to manage your store's Catalog more efficiently and intuitively."
@@ -27,7 +28,7 @@ The new **Products & SKUs** interface allows you to:
 * Track product and SKU status in a more straightforward and visual way, with icons and SKU status in the list.
 * Easily identify products and SKUs with pending information waiting to be available for sale through the new **Pending** status.
 
-![catalog-products-skus-en](//images.ctfassets.net/alneenqid6w5/20sC1yswkFmqokxll0ehi1/8efc01107b80405151eb83c94061f2cb/screencapture-catalog-sandboxintegracao-myvtex-admin-catalog-2023-04-10-10_23_24_1.png)
+![catalog-products-skus-en](https://images.ctfassets.net/alneenqid6w5/20sC1yswkFmqokxll0ehi1/8efc01107b80405151eb83c94061f2cb/screencapture-catalog-sandboxintegracao-myvtex-admin-catalog-2023-04-10-10_23_24_1.png)
 
 ## Why did we make this change?
 

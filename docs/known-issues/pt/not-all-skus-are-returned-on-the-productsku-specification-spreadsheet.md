@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: nem-todos-os-skus-sao-devolvidos-na-planilha-de-especificacao-do-produtosku
+locale: pt
 kiStatus: Fixed
 internalReference: 649316
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: possibilidade-de-proceder-ao-pagamento-com-codigo-postal-em-branco-na-caixa-ui
+locale: pt
 kiStatus: Backlog
 internalReference: 334310
 ---

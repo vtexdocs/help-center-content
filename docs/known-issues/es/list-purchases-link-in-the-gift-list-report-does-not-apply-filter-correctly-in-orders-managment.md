@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_31
 tag: Catalog,Order Management
 slug: lista-de-compras-en-el-informe-de-lista-de-regalos-no-aplica-el-filtro-correctamente-en-el-gestion-de-pedidos
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

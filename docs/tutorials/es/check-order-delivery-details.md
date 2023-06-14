@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: ver-detalles-de-entrega-de-un-pedido
+locale: es
 legacySlug: ver-detalles-de-entrega-de-un-pedido
 subcategory: 1O8AEORWOcgIiMosGoousQ
 ---
@@ -44,6 +45,6 @@ Para ver estos detalles, basta con hacer una [simulación de flete](/es/tutorial
 6. Introduzca el código postal del pedido.
 7. Haga clic en __Simular Flete__.
 
-![simular-frete es](//images.ctfassets.net/alneenqid6w5/4uPm4LFmr6wGSwOMu800kW/e7dbece799e4f3920ef3e82f7ea56220/simular-frete_es.png)
+![simular-frete es](https://images.ctfassets.net/alneenqid6w5/4uPm4LFmr6wGSwOMu800kW/e7dbece799e4f3920ef3e82f7ea56220/simular-frete_es.png)
 
 Para cada transportista considerado en la simulación, usted puede ver los detalles del pedido correspondiente. Para ello, haga clic en __detallar__.

@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: nao-e-possivel-simular-fretes-em-carrinhos-de-recompra-para-enderecos-diferentes
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

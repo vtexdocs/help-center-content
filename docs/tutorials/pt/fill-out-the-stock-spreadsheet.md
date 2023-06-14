@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: como-preencher-a-planilha-de-estoque
+locale: pt
 legacySlug: como-preencher-a-planilha-de-estoque
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

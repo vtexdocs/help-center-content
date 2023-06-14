@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: logistics-inventory-full-access-permission-did-not-work-as-expected
+locale: en
 kiStatus: Backlog
 internalReference: 482353
 ---

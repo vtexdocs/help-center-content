@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: controle-de-mensagem-de-boas-vindas
+locale: pt
 legacySlug: controle-de-mensagem-de-boas-vindas
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2019-02-19T19:30:01.688Z
 contentType: trackArticle
 productTeam: VTEX IO
 slug: basic-vtex-io-developer-setup
+locale: en
 trackId: 5qJr8BIQXAKec9CpBWrTNv
 trackSlugEN: build-a-store-using-vtex-io
 ---
@@ -37,7 +38,7 @@ This will open a browser window and ask for your credentials.
 
 When you are logged in, you can use the `vtex whoami` command to find out which *account* and *workspace* you are currently using.
 
-![Command Line](//images.ctfassets.net/alneenqid6w5/31AVvcWcRpL1CoKdUyARyu/9ea4d722d8955bb580a76402507e4013/Command_Line.svg)
+![Command Line](https://images.ctfassets.net/alneenqid6w5/31AVvcWcRpL1CoKdUyARyu/9ea4d722d8955bb580a76402507e4013/Command_Line.svg)
 
 <div class="alert alert-info">
 PROTIP: You can configure your terminal to display your current account and workspace automatically. The easiest way to do it is to use our <a href="https://github.com/vtex/dotfiles">dotfiles</a>, which automatically configure <a href="https://fishshell.com/">Fish Shell</a> and add a <a href="https://github.com/vtex/dotfiles/blob/master/fish/functions/fish_prompt.fish">prompt function</a> for you.
@@ -53,7 +54,7 @@ By default, when you log in to a store you are in the `master` workspace. You ca
 $ vtex ls
 ```
 
-![Command Line vtex ls](//images.ctfassets.net/alneenqid6w5/4AH5vzt1JfOCzIDtB0fRvR/110dda0479f9aa9891062ece2766837f/Command_Line_vtex_ls.svg)
+![Command Line vtex ls](https://images.ctfassets.net/alneenqid6w5/4AH5vzt1JfOCzIDtB0fRvR/110dda0479f9aa9891062ece2766837f/Command_Line_vtex_ls.svg)
 
 ## Creating your own workspace
 
@@ -71,6 +72,6 @@ TIP: You can switch to <em>and reset</em> a workspace to master in a single comm
 
 Workspaces can be named arbitrarily, but we find it’s usually convenient to name it after yourself when you want to develop something in your own environment.
 
-![command line workspace](//images.ctfassets.net/alneenqid6w5/1Urbt6L0XfNEWukSvdKRdK/41e7e9c9f900fb96ddf5fc3aa6d7c2af/command_line_workspace.svg)
+![command line workspace](https://images.ctfassets.net/alneenqid6w5/1Urbt6L0XfNEWukSvdKRdK/41e7e9c9f900fb96ddf5fc3aa6d7c2af/command_line_workspace.svg)
 
 Now you have your own workspace. You can call `vtex list` again and notice that the installed apps mirror those in `master`. Now, let’s `link` a local version of the store theme so you can start editing it.

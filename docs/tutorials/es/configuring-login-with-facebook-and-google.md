@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_84
 slug: integracion-google-y-facebook-en-smartcheckout
+locale: es
 legacySlug: integracion-google-y-facebook-en-smartcheckout, configurar-login-con-facebook-y-google
 subcategory: 14V5ezEX0cewOMg0o0cYM6
 ---
@@ -30,12 +31,12 @@ Antes de configurar nuestra integración de inicio de sesión con Google o Faceb
 Después de la configuración en Facebook y/o Google, es necesario configurar la opción de inicio de sesión mediante estos proveedores en su tienda VTEX. En ambos casos, debe tener a la mano el 'Client ID' y el 'Client Secret' registrados. 
 
 1. Acceda al módulo de VTEX ID por el panel de administración de su tienda en el menú Configuración de la Cuenta > Autenticación;
-  ![Lista Autenticación](//images.ctfassets.net/alneenqid6w5/3Bnb1ifcL7krcXEnAHzxu1/d63b5b6892d8e1dfd756e2977ea753b4/autenticacao_ES.png)
+  ![Lista Autenticación](https://images.ctfassets.net/alneenqid6w5/3Bnb1ifcL7krcXEnAHzxu1/d63b5b6892d8e1dfd756e2977ea753b4/autenticacao_ES.png)
 2. Seleccione el proveedor y haga clic en **EDITAR**;
 3. Complete el formulario ingresando el `Client ID` y el `Client Secret` registrados;
-  ![Facebook OAuth ES](//images.ctfassets.net/alneenqid6w5/2mWEocn4zdG0BJVMaujzk8/ffc13a1eb81a285feea15e78a72342b9/facebook_ES.png)
+  ![Facebook OAuth ES](https://images.ctfassets.net/alneenqid6w5/2mWEocn4zdG0BJVMaujzk8/ffc13a1eb81a285feea15e78a72342b9/facebook_ES.png)
 4. Active la utilización del proveedor mediante el interruptor.  
-  ![Lista Autenticación Switch On Highlight](//images.ctfassets.net/alneenqid6w5/4devCJpXnMWF3TV6xMDiUT/7567505995ce1af975d6b5c69159a323/switch_On_highlight_ES.png)
+  ![Lista Autenticación Switch On Highlight](https://images.ctfassets.net/alneenqid6w5/4devCJpXnMWF3TV6xMDiUT/7567505995ce1af975d6b5c69159a323/switch_On_highlight_ES.png)
 
 ## Valide la configuración
 

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: precos-restritos-a-int32-valor-maximo-no-checkout-apis
+locale: pt
 kiStatus: Backlog
 internalReference: 566142
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: configurar-o-css-do-zoom-do-produto
+locale: pt
 legacySlug: configurar-o-css-do-zoom-do-produto
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-05T02:16:01.490Z
 contentType: trackArticle
 productTeam: Channels
 slug: netshoes-marketplace
+locale: es
 trackId: 5Ua87lhFg4m0kEcuyqmcCm
 trackSlugES: configurar-integracion-netshoes
 ---

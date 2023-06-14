@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: criar-relacionamentos-entre-entidades-de-dados
+locale: pt
 legacySlug: criar-relacionamentos-entre-entidades-de-dados
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

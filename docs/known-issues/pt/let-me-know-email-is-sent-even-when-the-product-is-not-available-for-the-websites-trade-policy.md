@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: email-de-aviseme-e-enviado-mesmo-quando-o-produto-nao-esta-disponivel-para-a-politica-comercial-do-site
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

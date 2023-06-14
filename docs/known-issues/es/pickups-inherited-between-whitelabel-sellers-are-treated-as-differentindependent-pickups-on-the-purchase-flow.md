@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: las-recogidas-heredadas-entre-vendedores-de-marca-blanca-se-tratan-como-recogidas-diferentesindependientes-en-el-flujo-de-compra
+locale: es
 kiStatus: Backlog
 internalReference: 438630
 ---

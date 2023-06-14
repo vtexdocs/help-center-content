@@ -9,6 +9,7 @@ firstPublishedAt: 2019-07-17T19:40:54.612Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: cadastrar-tabelas-de-preco
+locale: en
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugEN: prices-101
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: trade-policy-api-do-not-generate-reindexing-request
+locale: en
 kiStatus: Backlog
 internalReference: 276511
 ---

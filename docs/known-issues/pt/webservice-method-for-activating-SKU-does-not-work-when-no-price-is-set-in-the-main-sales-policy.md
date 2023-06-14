@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 5S2MYtrgEoSGaGMqsICaEC
 tag: Web Service
 slug: metodo-webservice-stockkeepingunitactive-nao-funciona-quando-um-sku-nao
+locale: pt
 kiStatus: Fixed
 internalReference: 
 ---

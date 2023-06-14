@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: pesquisar-api-nao-retornando-mostrarifnotavailabletrue-skus-for-fqspecificationfilter-queries
+locale: pt
 kiStatus: Backlog
 internalReference: 336896
 ---

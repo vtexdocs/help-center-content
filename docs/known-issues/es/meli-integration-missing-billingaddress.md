@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: falta-la-integracion-meli-billingaddress
+locale: es
 kiStatus: Backlog
 internalReference: 771418
 ---

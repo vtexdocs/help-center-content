@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 
 slug: o-que-e-o-registro
+locale: pt
 legacySlug: o-que-e-o-registro
 subcategory: 
 ---

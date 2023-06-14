@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: shipping-options-are-not-shown-in-the-cart-when-there-is-scheduled-delivery-and-lean-shipping-activated
+locale: en
 kiStatus: Backlog
 internalReference: 362685
 ---

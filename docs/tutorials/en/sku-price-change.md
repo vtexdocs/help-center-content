@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: sku-price-change
+locale: en
 legacySlug: sku-price-change
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---

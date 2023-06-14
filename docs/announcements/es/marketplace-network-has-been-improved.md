@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: mejoras-a-marketplace-network
+locale: es
 legacySlug: mejoras-a-marketplace-network
 announcementImageID: ''
 announcementSynopsisES: 'Mejoras a Marketplace Network y se añadió a todas las tiendas que operan como sellers o marketplaces.'
@@ -18,7 +19,7 @@ Uno de los desafíos de los *marketplaces* y *sellers* de nuestro ecosistema es 
 
 Hemos rediseñado Marketplace Network para mejorar la experiencia. Además, ya no es necesario descargar la aplicación desde nuestra App Store, se añadió la funcionalidad a todas las tiendas que operan como *sellers* o *marketplaces* de forma automática.
 
-![Marketplace network tour ES](//images.ctfassets.net/alneenqid6w5/1dSZvVeBP1yyJ1Ai5xuX12/27c4fdcd812b730a445b022c7232a5f2/Marketplace_network_tour_ES.gif)
+![Marketplace network tour ES](https://images.ctfassets.net/alneenqid6w5/1dSZvVeBP1yyJ1Ai5xuX12/27c4fdcd812b730a445b022c7232a5f2/Marketplace_network_tour_ES.gif)
 
 ## ¿Qué cambió?
 Se hicieron algunos cambios a las páginas de Marketplace Network:

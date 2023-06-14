@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
 slug: crear-promocion-de-campana-teste
+locale: es
 legacySlug: crear-promocion-de-campana-teste
 subcategory: 
 ---

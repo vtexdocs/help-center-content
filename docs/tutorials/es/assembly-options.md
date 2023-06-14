@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: assembly-options
+locale: es
 legacySlug: assembly-options-es
 subcategory: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
@@ -22,7 +23,7 @@ Una assembly option es un [anexo](https://help.vtex.com/es/tutorial/que-es-un-an
 
 En el siguiente ejemplo, una tienda ofrece múltiples assembly options para el producto _custom bell_ (campana personalizada). Estas opciones se muestran en la página de producto, donde el cliente puede seleccionar las opciones deseadas. Dependiendo de las opciones, puede haber un coste adicional para el SKU.
 
-![assembly-option-ES](//images.ctfassets.net/alneenqid6w5/3A5QzqwSI6Z9CZk3EqPrZs/a4598c720776d55966ff96a0423af592/image.png)
+![assembly-option-ES](https://images.ctfassets.net/alneenqid6w5/3A5QzqwSI6Z9CZk3EqPrZs/a4598c720776d55966ff96a0423af592/image.png)
 
 Puedes combinar distintos [SKU](https://help.vtex.com/es/tutorial/que-es-un-sku--1K75s4RXAQyOuGUYKMM68u) para ofrecer assembly options, como los _Bells add-ons Roman_ o los _Bells add-ons 1-3 lines_ en el ejemplo anterior. Si un ítem está agotado, se mostrará como no disponible.
 
@@ -60,7 +61,7 @@ El primer `[x-y]` corresponde a las reglas que se aplican al grupo, y entre cada
 | \[0-3\]#10000\[1-2\]**\[1\]**pricetable1;#20000\[0-2\]**\[0\]**pricetable2;#30000\[0-2\]**\[0\]**pricetable3 | Este segmento define la cantidad seleccionada por defecto para cada SKU.  |
 | \[0-3\]#10000\[1-2\]\[1\]**pricetable1**;#20000\[0-2\]\[0\]**pricetable2**;#30000\[0-2\]\[0\]**pricetable3** | El último segmento indica la tabla de precios de cada ítem.                    |
 
-![assembly-option-exemplo-ES](//images.ctfassets.net/alneenqid6w5/2c4cfwQo0KisXQhlzYoxGC/3f3dbae528ee506cf1eddf109168bf1a/image.png)
+![assembly-option-exemplo-ES](https://images.ctfassets.net/alneenqid6w5/2c4cfwQo0KisXQhlzYoxGC/3f3dbae528ee506cf1eddf109168bf1a/image.png)
 
 #### Configuración del anexo
 

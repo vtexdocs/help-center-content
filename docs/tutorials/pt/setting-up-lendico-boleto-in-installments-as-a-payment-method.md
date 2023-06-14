@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: configurar-boleto-parcelado-lendico-como-meio-de-pagamento
+locale: pt
 legacySlug: configurar-boleto-parcelado-lendico-como-meio-de-pagamento
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

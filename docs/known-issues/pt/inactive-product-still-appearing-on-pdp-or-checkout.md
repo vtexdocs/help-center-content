@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: produto-inativo-ainda-aparecendo-no-pdp-ou-checkout
+locale: pt
 kiStatus: Backlog
 internalReference: 542264
 ---

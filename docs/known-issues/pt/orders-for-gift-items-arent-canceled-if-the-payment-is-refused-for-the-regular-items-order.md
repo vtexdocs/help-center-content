@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: pedidos-de-artigos-para-presentes-nao-sao-cancelados-se-o-pagamento-for-recusado-para-o-pedido-normal-do-artigo
+locale: pt
 kiStatus: Backlog
 internalReference: 679598
 ---

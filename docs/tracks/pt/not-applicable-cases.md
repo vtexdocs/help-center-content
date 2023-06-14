@@ -9,6 +9,7 @@ firstPublishedAt: 2020-11-06T19:15:01.794Z
 contentType: trackArticle
 productTeam: Financial
 slug: casos-nao-aplicaveis
+locale: pt
 trackId: 1ouDg8q56Kuz1AgtJUY9nv
 trackSlugPT: split-de-pagamentos
 ---

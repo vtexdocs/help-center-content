@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-condicoes-de-pagamento-offline-usando-mercadopago-latam
+locale: pt
 legacySlug: configurar-condicoes-de-pagamento-offline-usando-mercadopago-latam
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: nova-tela-de-performance-vtex-shipping-network
+locale: pt
 legacySlug: nova-tela-de-performance-vtex-log
 announcementImageID: ''
 announcementSynopsisPT: ' Tela de performance renovada melhora a experiência no acompanhamento de desempenho das transportadoras. '

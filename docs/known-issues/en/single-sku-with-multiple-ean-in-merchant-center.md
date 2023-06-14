@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: single-sku-with-multiple-ean-in-merchant-center
+locale: en
 kiStatus: Backlog
 internalReference: 520345
 ---

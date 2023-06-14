@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: ransactions-with-konduto-are-taking-longer-than-expected-to-update-status
+locale: en
 kiStatus: Backlog
 internalReference: 541149
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: scheduling-report
+locale: en
 legacySlug: scheduling-report
 subcategory: 37YF86noTwhDdEuhUyW3LH
 ---

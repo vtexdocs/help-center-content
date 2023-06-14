@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: best-practices-application-keys
+locale: en
 legacySlug: best-practices-for-using-application-keys
 subcategory: 6uJgdHqWf1Mo0rUfgxseTn
 ---

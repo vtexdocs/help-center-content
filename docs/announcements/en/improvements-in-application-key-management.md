@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: improvements-in-application-key-management
+locale: en
 legacySlug: improvements-in-application-key-management
 announcementImageID: ''
 announcementSynopsisEN: 'Manage your authentication credentials in a single place and delegate this responsibility as needed.'

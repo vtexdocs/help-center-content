@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: entendendo-o-sistema-de-captura-de-email-da-vtex
+locale: pt
 legacySlug: entendendo-o-sistema-de-captura-de-email-da-vtex
 subcategory: 2nx7hMJmisofwqwy2P9l2i
 ---
@@ -50,4 +51,4 @@ Para que a função do <a href="https://help.vtex.com/pt/tutorial/acesse-o-carri
 Cada módulo da VTEX é responsável por solicitar ao RC.JS que transmita os dados capturados na sessão. O RC.JS tem por função agir como um "mensageiro" de informações.
 </div>
 
-![image (3)](//images.ctfassets.net/alneenqid6w5/18dCifD9tOEo8mgUocamIc/958e0da9d2c7aa724f5c1c80bb0b616e/image__3_.png)
+![image (3)](https://images.ctfassets.net/alneenqid6w5/18dCifD9tOEo8mgUocamIc/958e0da9d2c7aa724f5c1c80bb0b616e/image__3_.png)

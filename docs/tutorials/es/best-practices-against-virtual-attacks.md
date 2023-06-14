@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: practicas-recomendadas-para-evitar-ataques-virtuales
+locale: es
 legacySlug: practicas-recomendadas-para-evitar-ataques-virtuales
 subcategory: 6uJgdHqWf1Mo0rUfgxseTn
 ---

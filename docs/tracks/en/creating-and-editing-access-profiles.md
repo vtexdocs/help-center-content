@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:32:53.804Z
 contentType: trackArticle
 productTeam: Identity
 slug: creating-and-editing-access-profiles
+locale: en
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: contas-e-permissoes
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: configurar-paypal
+locale: pt
 legacySlug: configurar-paypal
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

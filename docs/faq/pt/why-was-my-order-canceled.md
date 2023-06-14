@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
 slug: por-que-meu-pedido-foi-cancelado
+locale: pt
 legacySlug: por-que-meu-pedido-foi-cancelado
 ---
 

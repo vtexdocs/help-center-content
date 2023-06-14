@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: o-locale-switcher-nao-funciona-no-ambiente-myvtex
+locale: pt
 kiStatus: Backlog
 internalReference: 778306
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 5dYWGfGKUwkI86Gomk6AcQ
 slug: app-pricing-options
+locale: en
 legacySlug: app-pricing-options
 subcategory: 3e2VLdLao8GGk4sAmMmwmi
 ---

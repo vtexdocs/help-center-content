@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: setting-up-bradesco-registered-ticket
+locale: en
 legacySlug: setting-up-bradesco-registered-ticket
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

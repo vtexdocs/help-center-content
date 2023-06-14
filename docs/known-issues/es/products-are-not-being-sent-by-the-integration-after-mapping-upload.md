@@ -11,6 +11,7 @@ productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 tag: Connections
 slug: productos-no-se-envian-por-la-integracion-al-hacerse-el-upload-del-mapeo
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: que-es-una-transaccion
+locale: es
 legacySlug: que-es-una-transaccion
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

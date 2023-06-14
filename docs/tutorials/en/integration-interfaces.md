@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: integration-interfaces
+locale: en
 legacySlug: integration-interfaces
 subcategory: 1vwB9FtTSQmcSewQw02QoW
 ---

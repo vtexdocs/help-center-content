@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: ordem-com-erro-referencia-do-objeto-nao-definida-para-uma-instancia-de-um-objeto
+locale: pt
 kiStatus: Backlog
 internalReference: 707113
 ---

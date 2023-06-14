@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: ahora-usted-puede-activar-intereses-externos-en-los-planes-de-pago
+locale: es
 legacySlug: ahora-usted-puede-activar-intereses-externos-en-los-planes-de-pago
 announcementImageID: ''
 announcementSynopsisES: 'Pagos tiene una nueva feature para configurar sus medios de pago.'

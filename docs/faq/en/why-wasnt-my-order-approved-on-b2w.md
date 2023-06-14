@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: why-wasnt-my-order-approved-on-b2w
+locale: en
 legacySlug: why-wasnt-my-order-approved-on-b2w
 ---
 

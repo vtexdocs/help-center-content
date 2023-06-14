@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: aplicar-precios-manuales-en-items-de-suscripcion
+locale: es
 legacySlug: aplicar-precios-manuales-en-items-de-suscripcion
 announcementImageID: ''
 announcementSynopsisES: 'Ahora puedes habilitar precios manuales para las suscripciones en tu tienda.'

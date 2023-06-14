@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_6
 slug: configuring-your-layout
+locale: en
 legacySlug: configuring-your-layout
 subcategory: 
 ---

@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: campaign-audience-no-guarda-la-informacion-de-los-cupones
+locale: es
 kiStatus: Backlog
 internalReference: 521601
 ---

@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: el-estado-en-la-lista-de-pedidos-es-diferente-del-estado-actual-del-pedido
+locale: es
 kiStatus: Backlog
 internalReference: 577103
 ---

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 3b6CkfkmuAY4Be6231c37z
 tag: Pricing & Promotions
 slug: paginacao-do-modulo-de-precos-continua-aparecendo-quando-aplicado-um-filtro
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

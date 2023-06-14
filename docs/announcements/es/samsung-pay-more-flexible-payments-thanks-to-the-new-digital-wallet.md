@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: samsung-pay-flexibilice-pagos-con-la-nueva-cartera-digital
+locale: es
 legacySlug: samsung-pay-flexibilice-pagos-con-la-nueva-cartera-digital
 announcementImageID: ''
 announcementSynopsisES: 'A partir de agosto, VTEX cuenta con Samsung Pay —cartera digital de Samsung— como medio de pago en el SmartCheckout.'

@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: checkout-nao-aceita-cep-com-3-digitos-ou-menos
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

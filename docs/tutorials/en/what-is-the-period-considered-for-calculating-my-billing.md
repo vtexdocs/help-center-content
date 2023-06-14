@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: what-is-the-period-considered-for-calculating-my-billing
+locale: en
 legacySlug: what-is-the-period-considered-for-calculating-my-billing
 subcategory: 5ZfsNR4ioEsIyu6wkyce0M
 ---

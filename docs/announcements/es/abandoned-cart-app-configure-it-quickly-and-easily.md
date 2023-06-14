@@ -9,6 +9,7 @@ contentType: updates
 productTeam: VTEX IO
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: carrito-abandonado-configure-rapido-y-facilmente
+locale: es
 legacySlug: carrito-abandonado-configure-rapido-y-facilmente
 announcementImageID: ''
 announcementSynopsisES: 'La nueva aplicación facilita el envío de emails a los clientes que han interrumpido sus compras.'

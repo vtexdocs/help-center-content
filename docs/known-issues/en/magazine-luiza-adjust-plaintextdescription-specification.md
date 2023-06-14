@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: magazine-luiza-adjust-plaintextdescription-specification
+locale: en
 kiStatus: Backlog
 internalReference: 754022
 ---

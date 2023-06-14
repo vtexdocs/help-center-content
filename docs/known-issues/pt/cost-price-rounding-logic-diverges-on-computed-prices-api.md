@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: a-logica-de-arredondamento-do-preco-de-custo-diverge-na-api-de-precos-calculados
+locale: pt
 kiStatus: Backlog
 internalReference: 842336
 ---

@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: promocao-regular-com-uso-de-filtros-de-valor-no-carrinho
+locale: pt
 kiStatus: Backlog
 internalReference: 445569
 ---

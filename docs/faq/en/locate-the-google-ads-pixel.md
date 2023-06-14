@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: locate-the-google-ads-pixel
+locale: en
 legacySlug: locate-the-google-ads-pixel
 ---
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: quais-os-tipos-de-split-de-pagamento-entre-sellers
+locale: pt
 legacySlug: quais-os-tipos-de-split-de-pagamento-entre-sellers
 subcategory: 5tlIjp0ZkAU4EIk4OgyEmm
 ---

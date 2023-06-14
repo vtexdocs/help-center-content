@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: calculo-incorrecto-de-entrega-cuando-uno-de-los-slas-no-tiene-todos-los-items
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

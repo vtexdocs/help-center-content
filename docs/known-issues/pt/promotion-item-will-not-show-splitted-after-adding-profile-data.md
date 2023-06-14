@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-item-de-promocao-nao-sera-exibido-dividido-apos-a-adicao-de-dados-de-perfil
+locale: pt
 kiStatus: Backlog
 internalReference: 842575
 ---

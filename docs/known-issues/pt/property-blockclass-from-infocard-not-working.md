@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: bloqueio-de-propriedadeclass-de-infocard-nao-funciona
+locale: pt
 kiStatus: Backlog
 internalReference: 743730
 ---

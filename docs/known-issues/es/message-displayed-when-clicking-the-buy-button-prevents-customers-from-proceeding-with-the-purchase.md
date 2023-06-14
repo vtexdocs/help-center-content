@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-mensaje-que-aparece-al-hacer-clic-en-el-boton-comprar-impide-que-los-clientes-continuen-con-la-compra
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

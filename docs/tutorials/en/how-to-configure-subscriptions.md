@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: how-to-configure-subscriptions
+locale: en
 legacySlug: how-to-configure-subscription-v2
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---

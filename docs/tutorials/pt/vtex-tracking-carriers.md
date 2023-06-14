@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: transportadoras-vtex-tracking
+locale: pt
 legacySlug: transportadoras-vtex-tracking
 subcategory: 7yiFRk9TGfMNeyhT83UljP
 ---

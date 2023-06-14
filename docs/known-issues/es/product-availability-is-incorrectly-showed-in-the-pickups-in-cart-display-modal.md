@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-disponibilidad-del-producto-se-muestra-incorrectamente-en-el-modo-de-visualizacion-de-las-recogidas-en-el-carro
+locale: es
 kiStatus: Backlog
 internalReference: 552875
 ---

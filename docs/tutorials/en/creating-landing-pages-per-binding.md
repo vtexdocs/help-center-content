@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 6AcGyun1hSWewU8YcaQiO
 slug: creating-landing-pages-per-binding
+locale: en
 legacySlug: creating-landing-pages-per-binding
 subcategory: 9Arh3cJIOYlfSD1MUC2h3
 ---
@@ -22,7 +23,7 @@ In the Admin, you can create customized landing pages by [binding](https://help.
 2. Select the desired binding in which the new landing page should be created using the dropdown menu on the page.
 3. Click on the `Create New` button.
 
-  ![en-landing-page-binding](//images.ctfassets.net/alneenqid6w5/5c1IxR9QguR726Urdu0du8/afe633c2ca2758a3af1191c269219aed/en-landing-page-binding.png)
+  ![en-landing-page-binding](https://images.ctfassets.net/alneenqid6w5/5c1IxR9QguR726Urdu0du8/afe633c2ca2758a3af1191c269219aed/en-landing-page-binding.png)
 
 4. In the `Page` details section, fill out the fields to define your new landing page's metadata, according to the expected values:
 

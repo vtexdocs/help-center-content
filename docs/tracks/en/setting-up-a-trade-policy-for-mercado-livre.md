@@ -9,6 +9,7 @@ firstPublishedAt: 2020-02-03T23:58:05.663Z
 contentType: trackArticle
 productTeam: Channels
 slug: setting-up-a-trade-policy-for-mercado-livre
+locale: en
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugEN: mercado-libre-integration-set-up
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: shipping-previews-postal-code-input-field-is-not-hidden
+locale: en
 kiStatus: Backlog
 internalReference: 821984
 ---

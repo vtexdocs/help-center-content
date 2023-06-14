@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_6
 slug: requesting-the-ssl-certificate
+locale: en
 legacySlug: requesting-the-ssl-certificate
 subcategory: 2Za4fjGfxYOo6oqykukgyy
 ---

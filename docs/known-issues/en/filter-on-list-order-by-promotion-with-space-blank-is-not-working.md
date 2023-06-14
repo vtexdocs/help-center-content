@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: filter-on-list-order-by-promotion-with-space-blank-is-not-working
+locale: en
 kiStatus: Backlog
 internalReference: 523984
 ---

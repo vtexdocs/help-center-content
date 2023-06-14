@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 1E4UkWguFZAXjkguvNHPIv
 slug: fidelize-seus-clientes-com-a-nova-opcao-de-promocao-por-assinatura
+locale: pt
 legacySlug: fidelize-seus-clientes-com-a-nova-opcao-de-promocao-por-assinatura
 announcementImageID: ''
 announcementSynopsisPT: 'É possível criar uma promoção por assinatura dentro de promoção regular.'

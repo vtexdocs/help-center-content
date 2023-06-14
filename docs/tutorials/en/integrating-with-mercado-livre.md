@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: integrating-with-mercado-livre
+locale: en
 legacySlug: integrating-with-mercado-livre
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

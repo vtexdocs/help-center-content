@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: Channels
 slug: teste-diagrama
+locale: en
 trackId: 2YUPF5z5Y68LKO8k05yu78
 trackSlugEN: teste-diagrama-ju-en
 ---

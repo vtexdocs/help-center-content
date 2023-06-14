@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: how-do-i-terminate-my-contract-with-vtex
+locale: en
 legacySlug: how-do-i-terminate-my-contract-with-vtex
 subcategory: 6SJnrkKDjGwSqKkMuQMOmm
 ---

@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: nova-iu-nao-mostra-itens-pendentes-de-fatura-em-pedidos-com-fatura-parcial-ou-total
+locale: pt
 kiStatus: Backlog
 internalReference: 646253
 ---

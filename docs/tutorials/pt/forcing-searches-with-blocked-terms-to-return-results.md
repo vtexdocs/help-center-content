@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: forcar-buscas-com-termos-bloqueados-a-retornarem-resultados
+locale: pt
 legacySlug: forcar-buscas-com-termos-bloqueados-a-retornarem-resultados
 subcategory: pwxWmUu7T222QyuGogs68
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: es-posible-utilizar-el-informe-de-busqueda-en-el-admin-de-vtex
+locale: es
 legacySlug: es-posible-utilizar-el-informe-de-busqueda-en-el-admin-de-vtex
 subcategory: 5yDQmr18K4GgQAeGwq8USa
 ---

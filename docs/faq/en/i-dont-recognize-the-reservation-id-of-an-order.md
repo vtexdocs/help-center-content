@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: i-dont-recognize-the-reservation-id-of-an-order
+locale: en
 legacySlug: i-dont-recognize-the-reservation-id-of-an-order
 ---
 

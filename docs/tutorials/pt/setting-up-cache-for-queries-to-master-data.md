@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_24
 slug: configurar-cache-de-consultas-ao-master-data
+locale: pt
 legacySlug: configurar-cache-de-consultas-ao-master-data
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

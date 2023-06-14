@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: cliente-no-registrado-en-master-data-recibe-error-al-intentar-agregar-items-al-carrito
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

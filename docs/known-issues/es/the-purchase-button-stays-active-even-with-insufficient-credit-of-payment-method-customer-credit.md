@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: el-boton-de-compra-se-mantiene-activo-incluso-con-un-credito-insuficiente-del-metodo-de-pago-credito-del-cliente
+locale: es
 kiStatus: Backlog
 internalReference: 309820
 ---

@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: atraso-no-processamento-da-politica-de-expedicao-bloqueado-no-status-processamento
+locale: pt
 kiStatus: Backlog
 internalReference: 396914
 ---

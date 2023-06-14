@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 2zh4tqFMxyMCgwaUcsS0O2
 slug: can-i-order-my-products-as-i-want
+locale: en
 legacySlug: can-i-order-my-products-as-i-want
 ---
 

@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: la-ordenacion-por-nombre-funciona-de-forma-diferente-en-las-tiendas-integradas-antes-de-una-fecha
+locale: es
 kiStatus: Backlog
 internalReference: 600468
 ---

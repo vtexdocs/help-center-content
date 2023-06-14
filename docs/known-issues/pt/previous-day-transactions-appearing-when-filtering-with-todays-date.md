@@ -11,6 +11,7 @@ productTeam: Financial
 author: 4iKDU1m0huXy1qFWff7vY5
 tag: Payments
 slug: transacoes-do-dia-anterior-que-aparecem-no-filtro-de-hoje
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

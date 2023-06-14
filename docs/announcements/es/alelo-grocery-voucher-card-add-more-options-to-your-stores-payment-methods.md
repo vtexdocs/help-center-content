@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: vale-de-alimentacion-alelo-diversificar-las-opciones-de-pago-de-su-tienda
+locale: es
 legacySlug: vale-de-alimentacion-alelo-diversificar-las-opciones-de-pago-de-su-tienda
 announcementImageID: ''
 announcementSynopsisES: 'VTEX lanza su primera opción de vale de alimentación como medio de pago.'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: integrating-with-walmart
+locale: en
 legacySlug: integrating-with-walmart
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

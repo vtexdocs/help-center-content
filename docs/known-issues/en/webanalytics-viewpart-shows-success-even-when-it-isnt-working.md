@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: webanalytics-viewpart-shows-success-even-when-it-isnt-working
+locale: en
 kiStatus: Backlog
 internalReference: 768059
 ---

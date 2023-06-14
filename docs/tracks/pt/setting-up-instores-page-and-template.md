@@ -9,6 +9,7 @@ firstPublishedAt: 2018-03-15T21:30:04.098Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configurar-o-template-e-a-pagina-do-instore
+locale: pt
 trackId: 
 trackSlugPT: 
 ---

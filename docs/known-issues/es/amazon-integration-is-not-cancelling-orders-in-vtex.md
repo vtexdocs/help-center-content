@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: la-integracion-de-amazon-no-cancela-los-pedidos-en-vtex
+locale: es
 kiStatus: Backlog
 internalReference: 588456
 ---

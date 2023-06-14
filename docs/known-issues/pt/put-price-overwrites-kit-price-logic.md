@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: coloca-preco-sobrescreve-logica-de-preco-do-kit
+locale: pt
 kiStatus: Backlog
 internalReference: 404486
 ---

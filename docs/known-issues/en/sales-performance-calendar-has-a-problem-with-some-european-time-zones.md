@@ -11,6 +11,7 @@ productTeam: Analytics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Analytics
 slug: sales-performance-calendar-has-a-problem-with-some-european-time-zones
+locale: en
 kiStatus: Backlog
 internalReference: 718470
 ---

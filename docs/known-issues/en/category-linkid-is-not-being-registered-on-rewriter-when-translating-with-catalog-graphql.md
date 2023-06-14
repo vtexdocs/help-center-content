@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: category-linkid-is-not-being-registered-on-rewriter-when-translating-with-catalog-graphql
+locale: en
 kiStatus: Backlog
 internalReference: 654951
 ---

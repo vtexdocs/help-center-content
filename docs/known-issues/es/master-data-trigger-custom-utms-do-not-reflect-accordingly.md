@@ -11,6 +11,7 @@ productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
 slug: master-data-no-refleja-debidamente-las-utms-personalizadas-del-trigger
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

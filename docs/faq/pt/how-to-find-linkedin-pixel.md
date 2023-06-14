@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: como-encontrar-o-pixel-do-linkedin
+locale: pt
 legacySlug: como-encontrar-o-pixel-do-linkedin
 ---
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: seller-creating-an-account-in-the-seller-portal
+locale: en
 legacySlug: seller-creating-an-account-in-the-seller-portal-beta
 subcategory: 4hisB47iAVZk4r3SEmMoG
 ---

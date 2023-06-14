@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: o-hub-do-gift-card-esta-adicionando-uma-contrabarra-extra-ao-ligar-para-os-fornecedores
+locale: pt
 kiStatus: Backlog
 internalReference: 669575
 ---

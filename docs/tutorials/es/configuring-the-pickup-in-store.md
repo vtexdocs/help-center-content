@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-configurar-la-retirada-en-la-tienda-pickup-store
+locale: es
 legacySlug: como-configurar-la-retirada-en-la-tienda-pickup-store
 subcategory: 1c5Btie9ou2Gg2iUo0ggqM
 ---

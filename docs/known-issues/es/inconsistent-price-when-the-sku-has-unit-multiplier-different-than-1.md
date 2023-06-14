@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: precio-inconsistente-cuando-el-sku-tiene-un-multiplicador-de-unidades-diferente-a-1
+locale: es
 kiStatus: Backlog
 internalReference: 651102
 ---

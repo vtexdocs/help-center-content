@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: previsao-incorreta-de-embarque-quando-os-itens-sao-entregues-programados
+locale: pt
 kiStatus: Backlog
 internalReference: 545697
 ---

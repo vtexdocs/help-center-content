@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: identificar-quien-cancelo-pedido-en-el-marketplace
+locale: es
 legacySlug: identificar-quien-cancelo-pedido-en-el-marketplace
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

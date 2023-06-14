@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_84
 slug: meus-produtosskus-nao-estao-integrando-com-a-vtex
+locale: pt
 legacySlug: meus-produtosskus-nao-estao-integrando-com-a-vtex
 ---
 

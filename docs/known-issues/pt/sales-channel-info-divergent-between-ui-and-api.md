@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: informacoes-do-canal-de-vendas-divergentes-entre-a-interface-do-usuario-e-a-api
+locale: pt
 kiStatus: Backlog
 internalReference: 802560
 ---

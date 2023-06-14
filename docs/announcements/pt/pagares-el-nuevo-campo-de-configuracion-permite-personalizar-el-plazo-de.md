@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: promissorias-novo-campo-de-configuracao-permite-personalizar-o-prazo-de
+locale: pt
 legacySlug: promissorias-novo-campo-de-configuracao-permite-personalizar-o-prazo-de
 announcementImageID: ''
 announcementSynopsisPT: 'Tenha mais flexibilidade com o novo campo de faturamento automático nas configurações de promissórias.'

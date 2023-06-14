@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: la-api-de-recuperacion-de-pedidos-del-usuario-no-devuelve-la-paginacion
+locale: es
 kiStatus: Backlog
 internalReference: 516699
 ---

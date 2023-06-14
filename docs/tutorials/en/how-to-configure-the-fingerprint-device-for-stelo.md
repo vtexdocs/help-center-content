@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_24
 slug: how-to-configure-the-fingerprint-device-for-stelo
+locale: en
 legacySlug: how-to-configure-the-fingerprint-device-for-stelo
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

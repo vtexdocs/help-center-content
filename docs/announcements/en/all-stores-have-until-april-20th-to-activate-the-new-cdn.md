@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: authors_24
 slug: all-stores-have-until-april-20th-to-activate-the-new-cdn
+locale: en
 legacySlug: all-stores-have-until-april-20th-to-activate-the-new-cdn
 announcementImageID: ''
 announcementSynopsisEN: "VTEX's new CDN was already available since October 2017, bringing more reliability and better performance."

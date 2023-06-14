@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 slug: how-to-schedule-prices-for-a-range-of-hours
+locale: en
 legacySlug: how-to-schedule-prices-for-a-range-of-hours
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---

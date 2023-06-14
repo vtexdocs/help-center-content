@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: the-mercadopagov1-integration-does-not-work-with-save-card-functionality
+locale: en
 kiStatus: No Fix
 internalReference: 283727
 ---

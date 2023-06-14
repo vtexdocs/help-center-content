@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: conozca-el-nuevo-contenido-del-help-las-tracks
+locale: es
 legacySlug: conozca-el-nuevo-contenido-del-help-las-tracks
 announcementImageID: ''
 announcementSynopsisES: 'Tracks son tutoriales detallados para dominar todo el potencial de la plataforma VTEX.'

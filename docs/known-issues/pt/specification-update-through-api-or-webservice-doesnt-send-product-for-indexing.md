@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_31
 tag: Catalog
 slug: atualizacao-de-especificacao-de-produto-por-api-ou-ws-nao-envia-produto
+locale: pt
 kiStatus: Backlog
 internalReference: 0
 ---

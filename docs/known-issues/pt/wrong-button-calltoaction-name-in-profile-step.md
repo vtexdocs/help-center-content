@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: botao-errado-chamar-o-nome-de-acao-na-etapa-de-perfil
+locale: pt
 kiStatus: Backlog
 internalReference: 514532
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: outdated-locale-zones-in-guatemalas-billing-address-on-the-checkout-page
+locale: en
 kiStatus: Fixed
 internalReference: 373603
 ---

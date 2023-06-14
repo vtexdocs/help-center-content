@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: a-gaveta-de-componentes-nao-funciona-quando-implementada-no-resumo-do-produto-para-ios
+locale: pt
 kiStatus: Backlog
 internalReference: 833338
 ---

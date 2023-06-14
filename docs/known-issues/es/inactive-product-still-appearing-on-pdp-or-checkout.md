@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-producto-inactivo-sigue-apareciendo-en-la-pdp-o-en-la-caja
+locale: es
 kiStatus: Backlog
 internalReference: 542264
 ---

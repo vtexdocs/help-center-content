@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: ativar-skus-em-massa
+locale: pt
 legacySlug: ativar-skus-em-massa
 subcategory: pwxWmUu7T222QyuGogs68
 ---

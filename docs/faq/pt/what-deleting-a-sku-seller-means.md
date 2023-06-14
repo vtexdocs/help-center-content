@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_41
 slug: o-que-significa-excluir-um-sku-seller
+locale: pt
 legacySlug: o-que-significa-excluir-um-sku-seller
 ---
 

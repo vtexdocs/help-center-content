@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: qual-a-diferenca-entre-politica-comercial-afiliado-e-seller
+locale: pt
 legacySlug: qual-a-diferenca-entre-politica-comercial-afiliado-e-seller
 subcategory: 6J3wx7KM4oysymsWuUACyY
 ---

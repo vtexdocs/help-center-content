@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 tag: Portal (CMS)
 slug: urls-acima-de-8-mil-caracteres-nao-carregam
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

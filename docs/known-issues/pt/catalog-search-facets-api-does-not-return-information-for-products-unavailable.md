@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: facetas-de-busca-na-api-do-catalogo-nao-retornam-informacoes-para-produtos-nao-disponiveis
+locale: pt
 kiStatus: Backlog
 internalReference: 583623
 ---

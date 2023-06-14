@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: 127RQ7SUoFfyTh5gbXUpdM
 slug: b2b-stores-need-special-configuration-before-going-live
+locale: en
 legacySlug: b2b-stores-need-special-configuration-before-going-live
 announcementImageID: ''
 announcementSynopsisEN: 'B2B stores need to be specially configured by the VTEX team.'

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_35
 slug: como-se-calcula-flete-gratis-para-un-unico-item-en-carrito-con-mas-items
+locale: es
 legacySlug: como-se-calcula-flete-gratis-para-un-unico-item-en-carrito-con-mas-items
 ---
 

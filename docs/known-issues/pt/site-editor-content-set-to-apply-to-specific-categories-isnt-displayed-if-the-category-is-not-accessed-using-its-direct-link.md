@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: o-conteudo-do-site-editor-definido-para-se-aplicar-a-categorias-especificas-nao-e-exibido-se-a-categoria-nao-for-acessada-usando-seu-link-direto
+locale: pt
 kiStatus: Backlog
 internalReference: 371994
 ---

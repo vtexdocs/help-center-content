@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: incorrect-price-on-order-change-due-to-unit-multiplier
+locale: en
 kiStatus: Fixed
 internalReference: 371066
 ---

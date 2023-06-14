@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: faq-vtex-shipping-network
+locale: pt
 legacySlug: faq-vtex-log
 ---
 

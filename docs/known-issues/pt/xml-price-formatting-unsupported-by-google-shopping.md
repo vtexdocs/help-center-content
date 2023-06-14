@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: formatacao-de-precos-do-xml-incompativel-com-o-google-shopping
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

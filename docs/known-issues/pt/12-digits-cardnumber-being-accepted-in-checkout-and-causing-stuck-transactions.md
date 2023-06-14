@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: numero-de-12-digitos-do-cartaonumero-sendo-aceito-na-caixa-e-causando-transacoes-presas
+locale: pt
 kiStatus: Backlog
 internalReference: 452392
 ---

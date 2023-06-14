@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 
 slug: como-consultar-o-saldo
+locale: pt
 legacySlug: como-consultar-o-saldo
 subcategory: 18xYXhZbElixqnashigi5k
 ---

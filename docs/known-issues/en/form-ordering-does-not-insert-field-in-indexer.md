@@ -11,6 +11,7 @@ productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
 slug: form-ordering-does-not-insert-field-in-indexer
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_4
 slug: activar-https-en-todo-el-sitio
+locale: es
 legacySlug: activar-https-en-todo-el-sitio
 subcategory: 6uJgdHqWf1Mo0rUfgxseTn
 ---

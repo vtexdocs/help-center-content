@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: error-when-settling-transaction-with-2-cards-mercadopagov1
+locale: en
 kiStatus: Backlog
 internalReference: 395943
 ---

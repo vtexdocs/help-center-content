@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: tabela-de-precos-de-exportacao-filtrada-por-marca-nao-traz-todos-os-skus
+locale: pt
 kiStatus: Fixed
 internalReference: 594075
 ---

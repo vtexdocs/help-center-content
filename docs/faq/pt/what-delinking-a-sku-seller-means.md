@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_41
 slug: o-que-significa-desvincular-um-sku-seller
+locale: pt
 legacySlug: o-que-significa-desvincular-um-sku-seller
 ---
 

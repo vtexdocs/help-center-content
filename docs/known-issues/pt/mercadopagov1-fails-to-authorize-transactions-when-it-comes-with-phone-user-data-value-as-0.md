@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: mercadopagov1-nao-autoriza-transacoes-quando-se-trata-de-valor-0-de-dados-de-usuario-do-telefone
+locale: pt
 kiStatus: Backlog
 internalReference: 778611
 ---

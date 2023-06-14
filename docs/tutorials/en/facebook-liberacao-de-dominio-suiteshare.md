@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: facebook-liberacao-de-dominio-suiteshare
+locale: en
 legacySlug: facebook-liberacao-de-dominio
 subcategory: 4y4ylvqceE6vVqEF8IWZix
 ---

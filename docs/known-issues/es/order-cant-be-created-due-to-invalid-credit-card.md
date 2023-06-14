@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-pedido-no-se-puede-crear-debido-a-que-la-tarjeta-de-credito-no-es-valida
+locale: es
 kiStatus: Backlog
 internalReference: 607742
 ---

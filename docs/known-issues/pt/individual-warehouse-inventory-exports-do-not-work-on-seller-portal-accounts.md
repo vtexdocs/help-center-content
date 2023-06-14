@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: as-exportacoes-de-estoques-individuais-inventarios-nao-funcionam-nas-contas-do-seller-portal
+locale: pt
 kiStatus: Backlog
 internalReference: 684464
 ---

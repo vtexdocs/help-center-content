@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_31
 slug: layout-do-datalayer-artigo-incompleto-nao-publicar
+locale: es
 legacySlug: layout-do-datalayer-artigo-incompleto-nao-publicar
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---

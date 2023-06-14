@@ -9,6 +9,7 @@ firstPublishedAt: 2022-01-04T21:48:20.492Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-regra-de-divergencia-de-valores-centauro
+locale: pt
 trackId: D8Qnjbr5lfLkUfMRhsfbj
 trackSlugPT: integracao-com-a-centauro
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 
 slug: untitled-entry-2017-05-24-at-06-35-05
+locale: es
 legacySlug: untitled-entry-2017-05-24-at-06-35-05
 subcategory: 
 ---

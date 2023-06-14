@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: usar-el-mismo-stock-de-otra-tienda-en-el-marketplace
+locale: es
 legacySlug: usar-el-mismo-stock-de-otra-tienda-en-el-marketplace
 subcategory: 5AxJjgQO1Uc0kWKMwyi08W
 ---

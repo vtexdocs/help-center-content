@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_41
 slug: new-google-shopping-api-integration
+locale: en
 legacySlug: new-google-shopping-api-integration
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

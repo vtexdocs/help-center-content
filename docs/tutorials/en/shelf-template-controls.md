@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: shelf-template-controls
+locale: en
 legacySlug: shelf-template-controls
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

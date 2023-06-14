@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: como-funciona-o-merge-payments
+locale: pt
 legacySlug: como-funciona-o-merge-payments
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

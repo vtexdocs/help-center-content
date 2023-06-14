@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: o-admin-vtex-agora-disponivel-em-tailandes
+locale: pt
 legacySlug: o-admin-vtex-agora-disponivel-em-tailandes
 announcementImageID: ''
 announcementSynopsisPT: 'Admin ganha nova opção de idioma.'

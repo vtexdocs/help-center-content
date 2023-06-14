@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: mycards-spinner-button-is-not-working-properly
+locale: en
 kiStatus: Backlog
 internalReference: 780667
 ---

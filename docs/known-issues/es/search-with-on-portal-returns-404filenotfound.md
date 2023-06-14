@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: busqueda-con-en-el-portal-devuelve-404filenotfound
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

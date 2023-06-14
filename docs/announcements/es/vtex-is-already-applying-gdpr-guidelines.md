@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: vtex-ya-esta-aplicando-las-directrices-del-gdpr
+locale: es
 legacySlug: vtex-ya-esta-aplicando-las-directrices-del-gdpr
 announcementImageID: ''
 announcementSynopsisES: 'Nuestro compromiso con la transparencia y la seguridad de la información ha sido reforzado por nuestra adhesión al GDPR.'

@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: edicao-sobre-a-traducao-de-titulos-para-algumas-facetas
+locale: pt
 kiStatus: Backlog
 internalReference: 776353
 ---

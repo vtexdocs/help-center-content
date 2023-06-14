@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: o-campo-judet-county-nao-e-mostrado-como-salvo-quando-a-edicao-de-endereco-na-romenia-minha-conta
+locale: pt
 kiStatus: Backlog
 internalReference: 394658
 ---

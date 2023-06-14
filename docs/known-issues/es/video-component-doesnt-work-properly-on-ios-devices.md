@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: el-componente-de-video-no-funciona-correctamente-en-los-dispositivos-ios
+locale: es
 kiStatus: Backlog
 internalReference: 609462
 ---

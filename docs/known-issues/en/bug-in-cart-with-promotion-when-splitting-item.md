@@ -11,6 +11,7 @@ productTeam: Shopping
 author: authors_37
 tag: Catalog
 slug: bug-in-cart-with-promotion-when-splitting-item
+locale: en
 kiStatus: Fixed
 internalReference: 
 ---

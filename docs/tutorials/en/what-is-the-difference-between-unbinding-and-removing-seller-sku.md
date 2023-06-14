@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_41
 slug: what-is-the-difference-between-unbinding-and-removing-seller-sku
+locale: en
 legacySlug: what-is-the-difference-between-delinking-and-deleting-seller-sku
 subcategory: FTLNAWyLmuaIiAq4CQKS6
 ---

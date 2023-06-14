@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: banner-not-respecting-the-specificity-of-the-search-level-in-search-pages
+locale: en
 kiStatus: Backlog
 internalReference: 566809
 ---

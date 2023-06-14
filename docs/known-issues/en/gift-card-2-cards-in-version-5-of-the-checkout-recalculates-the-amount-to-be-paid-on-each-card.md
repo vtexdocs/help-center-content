@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: gift-card-2-cards-in-version-5-of-the-checkout-recalculates-the-amount-to-be-paid-on-each-card
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

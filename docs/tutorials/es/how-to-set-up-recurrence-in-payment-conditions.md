@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6gH9I777cQGMaq2y4kaogi
 slug: configurar-recurrencia-en-condiciones-de-pago
+locale: es
 legacySlug: configurar-recurrencia-en-condiciones-de-pago
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

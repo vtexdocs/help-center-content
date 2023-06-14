@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 
 slug: em-quanto-tempo-o-vtex-payment-resolve-uma-disputa
+locale: pt
 legacySlug: em-quanto-tempo-o-vtex-payment-resolve-uma-disputa
 subcategory: 6ggjFlqyvL8hd9CtQFcHiD
 ---

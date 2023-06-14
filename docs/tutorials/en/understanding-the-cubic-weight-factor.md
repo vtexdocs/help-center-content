@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: understanding-the-cubic-weight-factor
+locale: en
 legacySlug: understanding-the-cubic-weight-factor
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

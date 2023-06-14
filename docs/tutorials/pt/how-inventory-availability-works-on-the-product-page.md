@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: como-funciona-a-disponibilidade-de-estoque-na-pagina-de-produto
+locale: pt
 legacySlug: como-funciona-a-disponibilidade-de-estoque-na-pagina-de-produto
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

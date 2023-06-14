@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: file-manager-upload-with-two-one-more-existent-files-does-not-update-all-the-files-only-the-first
+locale: en
 kiStatus: Backlog
 internalReference: 418253
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: control-to-disable-the-canonical-tag
+locale: en
 legacySlug: control-to-disable-the-canonical-tag
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

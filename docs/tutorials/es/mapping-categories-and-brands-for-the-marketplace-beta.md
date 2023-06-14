@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: mapeo-de-categorias-y-marcas-para-marketplace-beta
+locale: es
 legacySlug: mapeo-de-categorias-y-marcas-para-marketplace-beta
 subcategory: 24EN0qRBg4yK0uusGUGosu
 ---

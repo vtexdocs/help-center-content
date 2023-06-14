@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: new-process-for-running-security-assessments
+locale: en
 legacySlug: new-process-for-running-security-assessments
 announcementImageID: ''
 announcementSynopsisEN: 'New process allows you to request to perform security assessment and submit a vulnerability report.'

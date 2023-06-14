@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: creating-a-product-for-presale
+locale: en
 legacySlug: creating-a-product-for-presale
 subcategory: pwxWmUu7T222QyuGogs68
 ---

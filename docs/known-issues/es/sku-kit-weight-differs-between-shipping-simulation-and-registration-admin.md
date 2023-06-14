@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: sku-kit-weight-differs-between-shipping-simulation-and-registration-admin
+locale: es
 kiStatus: Backlog
 internalReference: 389784
 ---

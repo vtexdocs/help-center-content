@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: configurar-seller-para-vender-em-marketplace-vtex
+locale: pt
 legacySlug: configurar-seller-para-vender-em-marketplace-vtex
 subcategory: 5tlIjp0ZkAU4EIk4OgyEmm
 ---

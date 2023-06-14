@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: why-does-the-promised-date-differ-from-the-delivery-date
+locale: en
 legacySlug: why-does-the-promised-date-differ-from-the-delivery-date
 ---
 

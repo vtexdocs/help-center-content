@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-o-subadquirente-moip
+locale: pt
 legacySlug: configurar-o-subadquirente-moip
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: los-pedidos-con-itens-de-modificacion-no-pueden-facturarse-haciendo-referencia-a-los-articulos
+locale: es
 kiStatus: Backlog
 internalReference: 784171
 ---

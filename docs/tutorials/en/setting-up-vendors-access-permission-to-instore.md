@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_59
 slug: setting-up-vendors-access-permission-to-instore
+locale: en
 legacySlug: setting-up-vendors-access-permission-to-instore
 subcategory: 63DHe3VQEEE6Uuua8gIs2M
 ---

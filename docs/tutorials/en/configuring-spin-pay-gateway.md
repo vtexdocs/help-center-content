@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: configuring-spin-pay-gateway
+locale: en
 legacySlug: configuring-spin-pay-gateway
 subcategory: 
 ---

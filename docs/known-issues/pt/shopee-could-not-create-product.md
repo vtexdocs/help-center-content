@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: nao-foi-possivel-criar-produto
+locale: pt
 kiStatus: Fixed
 internalReference: 685149
 ---

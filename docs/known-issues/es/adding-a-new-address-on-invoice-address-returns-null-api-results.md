@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: anadir-una-nueva-direccion-en-direccion-de-factura-devuelve-resultados-nulos-de-la-api
+locale: es
 kiStatus: Backlog
 internalReference: 748668
 ---

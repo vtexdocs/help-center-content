@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: ordenacao-de-imagens-ao-fazer-upload-de-uma-nova-versao-nao-funcionando
+locale: pt
 kiStatus: Backlog
 internalReference: 739814
 ---

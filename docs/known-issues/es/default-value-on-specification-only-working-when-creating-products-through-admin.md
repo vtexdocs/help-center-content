@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-valor-por-defecto-en-la-especificacion-solo-funciona-cuando-se-crean-productos-a-traves-de-la-administracion
+locale: es
 kiStatus: Backlog
 internalReference: 550097
 ---

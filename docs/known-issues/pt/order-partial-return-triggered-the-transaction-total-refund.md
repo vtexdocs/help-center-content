@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: a-devolucao-parcial-do-pedido-acionou-a-devolucao-total-da-transacao
+locale: pt
 kiStatus: Backlog
 internalReference: 377044
 ---

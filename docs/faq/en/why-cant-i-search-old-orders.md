@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: why-cant-i-search-old-orders
+locale: en
 legacySlug: why-cant-i-search-old-orders
 ---
 

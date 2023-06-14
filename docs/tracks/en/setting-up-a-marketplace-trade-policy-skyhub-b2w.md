@@ -9,6 +9,7 @@ firstPublishedAt: 2021-02-22T21:40:49.337Z
 contentType: trackArticle
 productTeam: Channels
 slug: setting-up-a-marketplace-trade-policy-skyhub-b2w
+locale: en
 trackId: 6w07SJBVqE020KIOOS8ygk
 trackSlugEN: skyhub-b2w-integration-set-up
 ---

@@ -10,13 +10,14 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: por-que-nao-recebi-o-contrato-assinado-da-vtex
+locale: pt
 legacySlug: por-que-nao-recebi-o-contrato-assinado-da-vtex
 subcategory: 22TaEgFhwE6a6CG2KASYkC
 ---
 
 O fato de você não ter recebido o contrato assinado justifica-se por você ter dado um aceite automático no nosso Termo de Adesão. Ao recebermos seu pedido de contratação do nosso serviço, entendemos que você leu as condições comerciais contidas nele e aceitou nossos termos.
 
-![financeiro aceite](//images.ctfassets.net/alneenqid6w5/5Rz88oB8bKI6OCsGI4kKWY/fc3648cc7f18b0659050f50cfd923f85/financeiro_aceite.PNG)
+![financeiro aceite](https://images.ctfassets.net/alneenqid6w5/5Rz88oB8bKI6OCsGI4kKWY/fc3648cc7f18b0659050f50cfd923f85/financeiro_aceite.PNG)
 
 Após essa etapa, iniciamos automaticamente os processos finaceiros para que sua loja possa ingressar na plataforma. 
 

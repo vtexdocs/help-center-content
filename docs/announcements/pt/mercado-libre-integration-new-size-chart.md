@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: integracao-com-o-mercado-livre-nova-tabela-de-medidas
+locale: pt
 legacySlug: integracao-com-o-mercado-livre-nova-tabela-de-medidas
 announcementImageID: ''
 announcementSynopsisPT: 'Lançamos a nova tabela de medidas do Mercado Livre para lojas que atuam como sellers no marketplace.'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: setting-up-the-promissory-conector
+locale: en
 legacySlug: setting-up-the-promissory-conector
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

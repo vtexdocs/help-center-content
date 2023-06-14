@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: tax-apportionment-divergence
+locale: en
 kiStatus: Backlog
 internalReference: 561466
 ---

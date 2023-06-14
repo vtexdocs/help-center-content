@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: como-transformar-o-site-da-minha-loja-em-um-pwa
+locale: pt
 legacySlug: como-transformar-o-site-da-minha-loja-em-um-pwa
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

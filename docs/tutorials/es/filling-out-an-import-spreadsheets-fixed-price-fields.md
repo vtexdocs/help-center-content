@@ -10,13 +10,14 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: rellenar-campos-de-la-plantilla-de-importacion-de-precios-fijos
+locale: es
 legacySlug: rellenar-campos-de-la-plantilla-de-importacion-de-precios-fijos
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---
 
 Para comprender mejor el significado de cada campo de la plantilla de registro de precio fijo, vea la descripción completa de los ítems.
 
-![tabela.preço.fixo](//images.ctfassets.net/alneenqid6w5/6V1yGMgHF0NP5pzZzcSOCF/cc9369da09f81cafaeac1fc73ac61aa1/tabela.pre__o.fixo.png)
+![tabela.preço.fixo](https://images.ctfassets.net/alneenqid6w5/6V1yGMgHF0NP5pzZzcSOCF/cc9369da09f81cafaeac1fc73ac61aa1/tabela.pre__o.fixo.png)
 
 - **SKU ID:** el ID del SKU al que quiere añadir el precio fijo.
 - **Trade Policy:** el nombre o el ID de la política comercial a la que se aplicará el precio fijo.

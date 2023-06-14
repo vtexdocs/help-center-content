@@ -9,6 +9,7 @@ firstPublishedAt: 2022-12-09T22:07:50.195Z
 contentType: trackArticle
 productTeam: Reliability
 slug: antes-del-go-live
+locale: es
 trackId: 4Ns5FxIiksmjsdX2yOTduM
 trackSlugES: go-live
 ---

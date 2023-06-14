@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5V92cmF9jG8KG600EwUgEg
 slug: untitled-entry-2017-07-03-at-03-49-03
+locale: pt
 legacySlug: untitled-entry-2017-07-03-at-03-49-03
 subcategory: 
 ---

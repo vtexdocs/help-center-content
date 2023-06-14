@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_4
 slug: importar-datos-de-clientes-brasil
+locale: es
 legacySlug: importar-datos-de-clientes-brasil
 subcategory: 42hDtnYXHw5ExG6l19RP1l
 ---

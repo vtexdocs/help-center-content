@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-pedido-nao-pode-ser-criado-devido-a-cartao-de-credito-invalido
+locale: pt
 kiStatus: Backlog
 internalReference: 607742
 ---

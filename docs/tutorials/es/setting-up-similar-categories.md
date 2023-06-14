@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: configurando-categoria-similar
+locale: es
 legacySlug: configurando-categoria-similar
 subcategory: 1E7tziZCkY4w8i4EmUuwec
 ---

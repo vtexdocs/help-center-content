@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: campo-nome-do-produto-em-xml-retorna-nome-do-produto-nome-do-sku-quando-o-produto-tem-apenas-1-sku
+locale: pt
 kiStatus: Backlog
 internalReference: 661089
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_6
 slug: configurando-o-layout
+locale: pt
 legacySlug: configurando-o-layout
 subcategory: 
 ---

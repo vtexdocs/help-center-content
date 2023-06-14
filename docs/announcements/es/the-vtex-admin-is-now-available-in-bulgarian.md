@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: el-admin-vtex-ahora-esta-disponible-en-bulgaro
+locale: es
 legacySlug: el-admin-vtex-ahora-esta-disponible-en-bulgaro
 announcementImageID: ''
 announcementSynopsisES: 'Admin con una nueva opción de idioma'

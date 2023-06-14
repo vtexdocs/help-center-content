@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: informe-de-servicios
+locale: es
 legacySlug: informe-de-servicios
 subcategory: 37YF86noTwhDdEuhUyW3LH
 ---

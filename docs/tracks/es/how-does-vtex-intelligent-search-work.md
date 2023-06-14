@@ -9,6 +9,7 @@ firstPublishedAt: 2020-03-05T19:54:00.932Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: como-funciona-vtex-intelligent-search
+locale: es
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugES: vtex-intelligent-search
 ---

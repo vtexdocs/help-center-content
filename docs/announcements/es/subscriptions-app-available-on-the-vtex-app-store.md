@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: suscripciones-aplicacion-disponible-en-vtex-app-store
+locale: es
 legacySlug: suscripciones-aplicacion-disponible-en-vtex-app-store
 announcementImageID: ''
 announcementSynopsisES: 'La aplicación de Suscripciones está disponible gratis en VTEX App Store.'

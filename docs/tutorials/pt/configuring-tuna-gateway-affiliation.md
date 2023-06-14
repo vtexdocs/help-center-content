@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: configurar-a-afiliacao-de-gateway-tuna
+locale: pt
 legacySlug: configurar-a-afiliacao-de-gateway-tuna
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

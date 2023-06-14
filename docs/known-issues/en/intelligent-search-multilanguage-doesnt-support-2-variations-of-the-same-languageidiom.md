@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: intelligent-search-multilanguage-doesnt-support-2-variations-of-the-same-languageidiom
+locale: en
 kiStatus: Backlog
 internalReference: 841704
 ---

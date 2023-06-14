@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_31
 tag: Catalog,Order Management
 slug: listar-compras-relatorio-lista-nao-aplica-filtro-corretamente-no-gerenciamento-de-pedidos
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

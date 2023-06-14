@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: marketplace-novos-filtros-de-qualidade-dos-anuncios
+locale: pt
 legacySlug: marketplace-novos-filtros-de-qualidade-dos-anuncios
 announcementImageID: ''
 announcementSynopsisPT: 'Lançamos uma nova página de configuração para marketplaces criarem requisitos para aprovação de anúncios.'
@@ -20,7 +21,7 @@ Para que marketplaces tenham mais controle sobre os critérios de aprovação de
 
 Dessa forma, os SKUs que chegam até o marketplace já estão de acordo com os requisitos que importam na curadoria de seu catálogo. 
 
-![Offer Quality gif](//images.ctfassets.net/alneenqid6w5/2TsdhoMwl0Fmwp8WBoViXw/4311d5d111ba8d0f8f92a586dd833eef/Offer_Quality_01.gif)
+![Offer Quality gif](https://images.ctfassets.net/alneenqid6w5/2TsdhoMwl0Fmwp8WBoViXw/4311d5d111ba8d0f8f92a586dd833eef/Offer_Quality_01.gif)
 
 ## O que mudou? 
 

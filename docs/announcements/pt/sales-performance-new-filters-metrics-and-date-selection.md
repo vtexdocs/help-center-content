@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: performance-de-vendas-novos-filtros-e-selecao-de-datas
+locale: pt
 legacySlug: performance-de-vendas-novos-filtros-e-selecao-de-datas
 announcementImageID: ''
 announcementSynopsisPT: 'Agora você pode selecionar datas personalizadas e usar novos filtros e métricas no Performance de Vendas.'

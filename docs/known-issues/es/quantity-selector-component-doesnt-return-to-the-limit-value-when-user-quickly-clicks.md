@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: el-componente-selector-de-cantidad-no-vuelve-al-valor-limite-cuando-el-usuario-hace-clic-rapidamente
+locale: es
 kiStatus: Backlog
 internalReference: 659909
 ---

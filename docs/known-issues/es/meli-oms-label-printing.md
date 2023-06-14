@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: meli-oms-label-printing
+locale: es
 kiStatus: Backlog
 internalReference: 546542
 ---

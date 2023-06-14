@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: wrong-values-in-recipients-of-a-transaction-split-with-partial-cancellation
+locale: en
 kiStatus: Backlog
 internalReference: 489481
 ---

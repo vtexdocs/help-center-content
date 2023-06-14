@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_31
 slug: que-hacer-cuando-necesito-usar-para-un-producto-palabras-que-pueden-ser
+locale: es
 legacySlug: que-hacer-cuando-necesito-usar-para-un-producto-palabras-que-pueden-ser
 subcategory: pwxWmUu7T222QyuGogs68
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: add-or-edit-a-url-mapping-manually
+locale: en
 legacySlug: add-or-edit-a-url-mapping-manually
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

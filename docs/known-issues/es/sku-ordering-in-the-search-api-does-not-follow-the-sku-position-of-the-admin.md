@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-ordenacion-de-las-sku-en-la-api-de-busqueda-no-sigue-la-posicion-de-las-sku-del-administrador
+locale: es
 kiStatus: Backlog
 internalReference: 515042
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2021-02-24T14:45:52.748Z
 contentType: trackArticle
 productTeam: Channels
 slug: definir-la-politica-comercial-para-magazine-luiza
+locale: es
 trackId: 5Yx5IrNa7Y48c6aSC8wu2Y
 trackSlugES: configurar-integracion-netshoes-magazine-luiza
 ---

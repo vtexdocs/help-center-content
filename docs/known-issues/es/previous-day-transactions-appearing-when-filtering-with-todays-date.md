@@ -11,6 +11,7 @@ productTeam: Financial
 author: 4iKDU1m0huXy1qFWff7vY5
 tag: Payments
 slug: transaciones-del-dia-anterior-salen-con-el-filtro-de-hoy
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

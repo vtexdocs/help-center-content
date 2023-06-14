@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: editores-de-componentes-de-renderizacao-no-site
+locale: pt
 kiStatus: Backlog
 internalReference: 415674
 ---

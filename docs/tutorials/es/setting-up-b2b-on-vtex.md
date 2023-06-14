@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_3
 slug: configurando-b2b-na-vtex
+locale: es
 legacySlug: configurando-b2b-na-vtex
 subcategory: 2LrbEY7MFeKqmdfYLBCnfi
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: vtex-tracking-agencies
+locale: en
 legacySlug: vtex-tracking-agencies
 subcategory: 7yiFRk9TGfMNeyhT83UljP
 ---

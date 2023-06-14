@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: how-to-turn-my-store-website-into-a-pwa
+locale: en
 legacySlug: how-to-turn-my-store-website-into-a-pwa
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

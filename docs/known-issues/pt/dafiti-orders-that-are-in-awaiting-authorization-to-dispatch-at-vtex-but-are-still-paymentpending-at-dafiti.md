@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: ordens-que-estao-em-aguardando-autorizacao-para-despacho-na-vtex-mas-que-ainda-estao-gastandodepagamento-na-dafiti
+locale: pt
 kiStatus: Fixed
 internalReference: 719606
 ---

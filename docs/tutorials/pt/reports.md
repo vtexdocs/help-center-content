@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: relatorios
+locale: pt
 legacySlug: relatorios
 subcategory: 37YF86noTwhDdEuhUyW3LH
 ---
@@ -30,4 +31,4 @@ Os relatórios disponíveis, são:
 *   [Relatório de SMS e Email](https://help.vtex.com/pt/tutorial/relatorio-de-sms-e-email--7AZmTlojzg1hDmwhDOxCNO)
 *   [Relatório de Serviços](https://help.vtex.com/pt/tutorial/relatorio-de-servicos--7djPWfxtf9qb6hFTOgKDE8)
 
-![relatorio](//images.ctfassets.net/alneenqid6w5/7y2pg2YdeX5Y4vEjz2TYMl/44110199a50b25b75041edbf9deb79ec/relatorio.png)
+![relatorio](https://images.ctfassets.net/alneenqid6w5/7y2pg2YdeX5Y4vEjz2TYMl/44110199a50b25b75041edbf9deb79ec/relatorio.png)

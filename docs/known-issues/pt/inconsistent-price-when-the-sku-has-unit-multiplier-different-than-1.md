@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: preco-inconsistente-quando-a-sku-tem-multiplicador-de-unidade-diferente-de-1
+locale: pt
 kiStatus: Backlog
 internalReference: 651102
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: shipping-preview-delivery-selector-showing-wrong-time-in-case-of-multiple-packagesdeadlines
+locale: en
 kiStatus: Backlog
 internalReference: 264441
 ---

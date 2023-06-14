@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-26T18:08:32.132Z
 contentType: trackArticle
 productTeam: Financial
 slug: fluxo-de-uma-transacao
+locale: pt
 trackId: 6GAS7ZzGAm7AGoEAwDbwJG
 trackSlugPT: pagamentos
 ---

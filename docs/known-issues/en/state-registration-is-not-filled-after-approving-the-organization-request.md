@@ -11,6 +11,7 @@ productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
 slug: state-registration-is-not-filled-after-approving-the-organization-request
+locale: en
 kiStatus: Fixed
 internalReference: 825127
 ---

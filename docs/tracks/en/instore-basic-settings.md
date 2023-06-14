@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T14:01:36.462Z
 contentType: trackArticle
 productTeam: Shopping
 slug: instore-basic-settings
+locale: en
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: instore-first-steps-and-configurations
 ---

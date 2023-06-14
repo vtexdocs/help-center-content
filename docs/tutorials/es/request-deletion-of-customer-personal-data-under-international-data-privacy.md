@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: solicitar-la-eliminacion-de-los-datos-personales-del-cliente-segun-las-leyes
+locale: es
 legacySlug: solicitar-la-eliminacion-de-los-datos-personales-del-cliente-segun-las-leyes
 subcategory: 6uJgdHqWf1Mo0rUfgxseTn
 ---

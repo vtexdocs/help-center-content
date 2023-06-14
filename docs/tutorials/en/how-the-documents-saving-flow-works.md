@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: how-the-documents-saving-flow-works
+locale: en
 legacySlug: how-the-documents-saving-flow-works
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---

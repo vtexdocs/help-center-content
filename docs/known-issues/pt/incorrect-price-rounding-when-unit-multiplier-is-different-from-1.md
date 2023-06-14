@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: arredondamento-de-preco-incorreto-quando-o-multiplicador-de-unidade-e-diferente-de-1
+locale: pt
 kiStatus: Backlog
 internalReference: 426275
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_24
 slug: onde-vejo-a-data-de-captura-do-pagamento
+locale: pt
 legacySlug: onde-vejo-a-data-de-captura-do-pagamento
 subcategory: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---

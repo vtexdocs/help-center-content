@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_59
 slug: erro-de-coluna-nula-ao-tentar-importar-planilha-de-frete
+locale: es
 legacySlug: erro-de-coluna-nula-ao-tentar-importar-planilha-de-frete
 ---
 

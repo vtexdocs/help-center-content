@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: erros-na-planilha-de-mapeamento-de-categorias-e-atributos
+locale: pt
 legacySlug: erros-na-planilha-de-mapeamento-de-categorias-e-atributos
 subcategory: 4HBbKdnwneGew2qGGykSM8
 ---

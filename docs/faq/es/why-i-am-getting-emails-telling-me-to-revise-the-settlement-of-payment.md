@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_57
 slug: por-que-estoy-recibiendo-mails-para-revisar-la-liquidacion-de-un-pago
+locale: es
 legacySlug: por-que-estoy-recibiendo-mails-para-revisar-la-captura-de-un-pago
 ---
 

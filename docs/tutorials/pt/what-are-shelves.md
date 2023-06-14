@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: o-que-sao-prateleiras
+locale: pt
 legacySlug: o-que-sao-prateleiras
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

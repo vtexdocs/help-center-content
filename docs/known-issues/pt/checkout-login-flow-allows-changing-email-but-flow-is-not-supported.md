@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-fluxo-de-login-do-checkout-permite-alterar-o-email-mas-nao-ha-suporte-para-o-fluxo
+locale: pt
 kiStatus: Backlog
 internalReference: 258447
 ---

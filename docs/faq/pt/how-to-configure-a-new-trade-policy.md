@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: como-contratar-nova-politica-comercial
+locale: pt
 legacySlug: por-que-nao-consigo-criar-uma-nova-politica-comercial
 ---
 

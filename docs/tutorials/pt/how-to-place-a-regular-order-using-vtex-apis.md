@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 5Hp3cEFKikMGWycwa42QuG
 slug: fazer-um-pedido-regular-usando-as-apis-da-vtex
+locale: pt
 legacySlug: fazer-um-pedido-regular-usando-as-apis-da-vtex
 subcategory: 1vwB9FtTSQmcSewQw02QoW
 ---

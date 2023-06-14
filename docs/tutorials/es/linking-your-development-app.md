@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: linkar-su-app-en-desarrollo
+locale: es
 legacySlug: linkar-su-app-en-desarrollo
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

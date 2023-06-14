@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: problema-en-la-nueva-pagina-de-historial-de-indexacion-que-muestra-como-actualizacion-productos-que-ya-estaban-actualizados
+locale: es
 kiStatus: Backlog
 internalReference: 680241
 ---

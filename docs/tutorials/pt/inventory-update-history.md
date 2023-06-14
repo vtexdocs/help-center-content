@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: historico-de-movimentacoes-do-inventario
+locale: pt
 legacySlug: como-analisar-o-historico-de-movimentacoes-do-estoque
 subcategory: 3PQwnyOcNyYgawy06oe6gE
 ---

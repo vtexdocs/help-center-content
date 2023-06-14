@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 6AcGyun1hSWewU8YcaQiO
 slug: ganhe-mais-agilidade-na-gestao-dos-eventos-dos-seus-pedidos-com-o-feed-v3
+locale: pt
 legacySlug: ganhe-mais-agilidade-na-gestao-dos-eventos-dos-seus-pedidos-com-o-feed-v3
 announcementImageID: ''
 announcementSynopsisPT: 'Através de suas novas funcionalidades, o Feed v3 permite uma administração mais eficaz dos registros do seu feed.'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: locations-details-page-beta
+locale: en
 legacySlug: locations-details-page
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---

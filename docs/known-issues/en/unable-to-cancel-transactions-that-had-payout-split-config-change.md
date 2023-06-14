@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: unable-to-cancel-transactions-that-had-payout-split-config-change
+locale: en
 kiStatus: Backlog
 internalReference: 364382
 ---

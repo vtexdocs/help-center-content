@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: previsualizacao-de-embarque-relatando-erroneamente-a-selecao-de-coleta
+locale: pt
 kiStatus: Backlog
 internalReference: 552912
 ---

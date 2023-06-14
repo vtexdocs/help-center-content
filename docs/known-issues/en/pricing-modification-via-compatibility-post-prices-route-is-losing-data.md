@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: pricing-modification-via-compatibility-post-prices-route-is-losing-data
+locale: en
 kiStatus: No Fix
 internalReference: 487698
 ---

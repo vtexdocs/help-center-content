@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: authors_4
 slug: por-que-login-no-admin-redireciona-para-loja
+locale: pt
 legacySlug: por-que-login-no-admin-redireciona-para-loja
 ---
 

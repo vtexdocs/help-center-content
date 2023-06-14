@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 6AcGyun1hSWewU8YcaQiO
 slug: now-its-easier-to-sell-the-products-from-your-physical-stores-in
+locale: en
 legacySlug: now-it's-easier-to-sell-the-products-from-your-physical-stores-in
 announcementImageID: ''
 announcementSynopsisEN: 'When integrating the main account with a marketplace, franchise accounts inventories are now automatically considered.'

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_4
 tag: Portal (CMS)
 slug: google-merchant-center-reprobando-anuncios-por-divergencia-de-precio
+locale: es
 kiStatus: Fixed
 internalReference: 
 ---

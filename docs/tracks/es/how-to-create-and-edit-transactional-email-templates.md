@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:38:32.506Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: crear-o-editar-template-de-correo-electronico-transaccional
+locale: es
 trackId: 6IkJwttMw5T84mlY9RifRP
 trackSlugES: e-mails-transaccionales
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: direccion-sin-pais-que-interrumpe-la-ordencambios-de-formulario
+locale: es
 kiStatus: Backlog
 internalReference: 579814
 ---

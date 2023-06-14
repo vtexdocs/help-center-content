@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: usar-o-mesmo-estoque-de-outra-loja-no-marketplace
+locale: pt
 legacySlug: usar-o-mesmo-estoque-de-outra-loja-no-marketplace
 subcategory: 5AxJjgQO1Uc0kWKMwyi08W
 ---

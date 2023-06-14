@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: associating-a-template-with-a-layout
+locale: en
 legacySlug: associating-a-template-with-a-layout
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
@@ -34,4 +35,4 @@ This association is made in the layout properties setting. To get there, follow 
 6. Select the template you want to associate with this layout.
 7. Type `yes` to confirm the change (this step is necessary because this is a critical change for the site, as the page's front-end will be replaced).
 
-![CMS 4 1](//images.ctfassets.net/alneenqid6w5/6ZaVxrZUn0cegcQni61zsc/58fd2f24e7b8b36636b0088d945c1204/CMS_4_1.png)
+![CMS 4 1](https://images.ctfassets.net/alneenqid6w5/6ZaVxrZUn0cegcQni61zsc/58fd2f24e7b8b36636b0088d945c1204/CMS_4_1.png)

@@ -9,6 +9,7 @@ firstPublishedAt: 2018-09-27T15:02:23.717Z
 contentType: trackArticle
 productTeam: Channels
 slug: registering-the-netshoes-integration
+locale: en
 trackId: 5Ua87lhFg4m0kEcuyqmcCm
 trackSlugEN: netshoes-integration-set-up
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-se-maneja-el-reparto-de-carga
+locale: es
 legacySlug: como-se-maneja-el-reparto-de-carga
 subcategory: 1UL6Q7nUN6SkA2g2SUsECi
 ---
@@ -19,7 +20,7 @@ El reparto de carga es la configuración que permite que se divida una compra en
 
 Y esa configuración puede imposibilitar el cierre de una compra. Pues, caso la suma del peso de todos los productos del carrito sea mayor que el límite máximo de peso catastrado en los transportistas, no será posible la finalización de la compra.
 
-![divisao-carga-desenho es](//images.ctfassets.net/alneenqid6w5/13LOZvGLCCIm8YKSg2oeiI/186189daff4771ee6368096b8d267394/divisao-carga_es.png)
+![divisao-carga-desenho es](https://images.ctfassets.net/alneenqid6w5/13LOZvGLCCIm8YKSg2oeiI/186189daff4771ee6368096b8d267394/divisao-carga_es.png)
 
 ### Cómo configurar el reparto de carga
 

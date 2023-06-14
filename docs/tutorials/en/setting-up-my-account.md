@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 6AcGyun1hSWewU8YcaQiO
 slug: setting-up-my-account
+locale: en
 legacySlug: setting-up-my-account
 subcategory: 1RWR7qSyaREbD5RfgCjdYG
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: cambio-en-la-mascara-de-conversation-tracker-ahora-disponible-en-gestion-de-pedidos
+locale: es
 legacySlug: cambio-en-la-mascara-de-conversation-tracker-ahora-disponible-en-gestion-de-pedidos
 announcementImageID: ''
 announcementSynopsisES: 'Ahora es posible cambiar la máscara del Conversation Tracker (modos Soft y Hard) a través del módulo Gestión de Pedidos.'

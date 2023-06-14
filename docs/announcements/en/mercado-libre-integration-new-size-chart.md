@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: mercado-libre-integration-new-size-chart
+locale: en
 legacySlug: mercado-libre-integration-new-size-chart
 announcementImageID: ''
 announcementSynopsisEN: 'We launched the new Mercado Libre size chart for stores that operate as sellers on the marketplace.'

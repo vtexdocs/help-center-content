@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: no-se-puede-cambiar-el-estado-en-la-pasarela-cuando-el-objeto-de-carro-de-la-transaccion-en-transaccion-es-desconocido
+locale: es
 kiStatus: Backlog
 internalReference: 776837
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: actualizar-la-cantidad-de-skus-en-inventario
+locale: es
 legacySlug: actualizar-la-cantidad-de-skus-en-stock
 subcategory: 3PQwnyOcNyYgawy06oe6gE
 ---

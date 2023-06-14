@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: the-most-common-promotions-in-b2b
+locale: en
 legacySlug: the-most-common-promotions-in-b2b
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

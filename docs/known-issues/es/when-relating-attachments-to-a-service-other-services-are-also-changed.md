@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: al-relacionar-adjuntos-a-un-servicio-otros-servicios-tambien-se-alteran
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

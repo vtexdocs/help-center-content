@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: paginas-nao-encontradas-nao-fornecem-http-status-404
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

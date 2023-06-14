@@ -9,6 +9,7 @@ firstPublishedAt: 2018-04-26T21:05:35.530Z
 contentType: trackArticle
 productTeam: VTEX IO
 slug: crear-un-account
+locale: es
 trackId: 
 trackSlugES: 
 ---

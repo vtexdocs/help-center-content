@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_3
 slug: criando-formulario-no-master-data
+locale: pt
 legacySlug: criando-formulario-no-master-data
 subcategory: WpbGhubuRZaNZilJSXnqu
 ---

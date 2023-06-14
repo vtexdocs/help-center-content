@@ -9,6 +9,7 @@ firstPublishedAt: 2020-03-30T23:08:05.849Z
 contentType: trackArticle
 productTeam: Channels
 slug: envio-de-produtos-para-a-via-marketplace
+locale: pt
 trackId: 3E9XylGaJ2wqwISGyw4GuY
 trackSlugPT: configurar-integracao-da-via-varejo
 ---

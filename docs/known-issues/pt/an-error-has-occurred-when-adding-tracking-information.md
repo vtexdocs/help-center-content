@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: ocorreu-um-erro-ao-adicionar-informacoes-de-rastreamento
+locale: pt
 kiStatus: Backlog
 internalReference: 409225
 ---

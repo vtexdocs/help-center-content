@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: error-de-integracion-de-pedidos-de-amazon
+locale: es
 kiStatus: Backlog
 internalReference: 557223
 ---

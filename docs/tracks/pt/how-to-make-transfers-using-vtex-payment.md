@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: 
 slug: como-fazer-transferencias-pelo-vtex-payment
+locale: pt
 trackId: 
 trackSlugPT: 
 ---

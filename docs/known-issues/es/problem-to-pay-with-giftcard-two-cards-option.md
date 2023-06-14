@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: problema-para-pagar-con-tarjeta-regalo-opcion-de-dos-tarjetas
+locale: es
 kiStatus: Backlog
 internalReference: 393958
 ---

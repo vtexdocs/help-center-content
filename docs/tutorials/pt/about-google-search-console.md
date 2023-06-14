@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: informacoes-sobre-google-search-console
+locale: pt
 legacySlug: informacoes-sobre-google-search-console
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

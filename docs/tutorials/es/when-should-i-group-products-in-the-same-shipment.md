@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: cuando-debo-agrupar-productos-en-el-mismo-envio
+locale: es
 legacySlug: cuando-debo-agrupar-productos-en-el-mismo-envio
 subcategory: 1UL6Q7nUN6SkA2g2SUsECi
 ---

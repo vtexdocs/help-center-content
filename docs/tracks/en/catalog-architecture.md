@@ -9,6 +9,7 @@ firstPublishedAt: 2019-06-25T19:06:00.689Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: catalog-architecture
+locale: en
 trackId: 5AF0XfnjfWeopIFBgs3LIQ
 trackSlugEN: catalog-101
 ---
@@ -34,4 +35,4 @@ Such specifications are, for example, a product's composition or an SKU's voltag
 
 An example of a VTEX Catalog architecture blueprint is found below:
 
-![arquitetura-catalogo-EN](//images.ctfassets.net/alneenqid6w5/4P3TCN2sjS3EuMdNO6Rrkb/2bb87144a5e665c082374be39da9d7af/EN.png)
+![arquitetura-catalogo-EN](https://images.ctfassets.net/alneenqid6w5/4P3TCN2sjS3EuMdNO6Rrkb/2bb87144a5e665c082374be39da9d7af/EN.png)

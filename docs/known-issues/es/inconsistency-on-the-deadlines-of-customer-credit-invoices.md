@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: incongruencia-en-los-plazos-de-las-facturas-de-credito-de-los-clientes
+locale: es
 kiStatus: Backlog
 internalReference: 331279
 ---

@@ -11,13 +11,14 @@ productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
 slug: dificuldade-em-buscar-no-crm-por-campos-contendo-espacos
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---
 
 ## Sumário
 
-Usuário recebe uma mensagem de erro ao buscar por um documento com um atributo contendo espaço [Screen Shot 2018-12-26 at 14.38.55](//images.ctfassets.net/alneenqid6w5/6kN77jtFDOKME8UiW0acW8/e3bc9a3bcb750f30067f11befdd78fcb/Screen_Shot_2018-12-26_at_14.38.55.png)
+Usuário recebe uma mensagem de erro ao buscar por um documento com um atributo contendo espaço [Screen Shot 2018-12-26 at 14.38.55](https://images.ctfassets.net/alneenqid6w5/6kN77jtFDOKME8UiW0acW8/e3bc9a3bcb750f30067f11befdd78fcb/Screen_Shot_2018-12-26_at_14.38.55.png)
 
 
 Exemplo:  Buscando/filtrando pelo Campo "Cidade" com o atributo "Rio de Janeiro" produzirá uma mensagem de erro.
@@ -31,6 +32,6 @@ Exemplo:  Buscando/filtrando pelo Campo "Cidade" com o atributo "Rio de Janeiro"
 
 ## Workaround
 
-![Screen Shot 2018-12-26 at 14.40.03](//images.ctfassets.net/alneenqid6w5/1LUggCuWywGosGoCOgKE2g/426a9dbd86c26f15a9db06cadb88ec46/Screen_Shot_2018-12-26_at_14.40.03.png)Felizmente ha um workaround simples que não necessita o uso da API.
+![Screen Shot 2018-12-26 at 14.40.03](https://images.ctfassets.net/alneenqid6w5/1LUggCuWywGosGoCOgKE2g/426a9dbd86c26f15a9db06cadb88ec46/Screen_Shot_2018-12-26_at_14.40.03.png)Felizmente ha um workaround simples que não necessita o uso da API.
 Ao clicar em "Todos" no dropdown, a mesma busca pode ser feita sem causar erro.
 

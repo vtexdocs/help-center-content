@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: a-funcao-addtocart-nao-funciona-corretamente-com-anexos-e-com-o-anexo-do-componente-opcoes-de-montagem
+locale: pt
 kiStatus: Backlog
 internalReference: 830495
 ---

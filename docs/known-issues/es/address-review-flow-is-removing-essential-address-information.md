@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-flujo-de-revision-de-direcciones-esta-eliminando-la-informacion-esencial-de-la-direccion
+locale: es
 kiStatus: Backlog
 internalReference: 618756
 ---

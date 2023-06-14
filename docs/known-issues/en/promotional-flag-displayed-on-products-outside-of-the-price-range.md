@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: promotional-flag-displayed-on-products-outside-of-the-price-range
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

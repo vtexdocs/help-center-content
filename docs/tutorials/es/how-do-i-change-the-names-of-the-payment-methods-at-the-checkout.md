@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_84
 slug: como-alterar-el-nombre-de-las-formas-de-pago-en-el-checkout
+locale: es
 legacySlug: como-alterar-el-nombre-de-las-formas-de-pago-en-el-checkout
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

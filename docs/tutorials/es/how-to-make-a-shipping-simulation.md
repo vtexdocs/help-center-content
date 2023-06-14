@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 
 slug: como-hacer-una-simulacion-de-envio
+locale: es
 legacySlug: como-hacer-una-simulacion-de-envio
 subcategory: 1O8AEORWOcgIiMosGoousQ
 ---

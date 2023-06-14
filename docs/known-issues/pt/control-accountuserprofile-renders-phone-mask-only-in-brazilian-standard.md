@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: controle-accountuserprofile-renderiza-mascara-de-telefone-apenas-no-padrao-brasileiro
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: filial-vtex-tracking
+locale: es
 legacySlug: filial-vtex-tracking
 subcategory: 7yiFRk9TGfMNeyhT83UljP
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: listos-para-despacho
+locale: es
 legacySlug: listos-para-despacho
 subcategory: 5n5MnINzWTQUX1I2EZl4Ib
 ---

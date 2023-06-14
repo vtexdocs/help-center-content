@@ -9,6 +9,7 @@ firstPublishedAt: 2019-12-10T19:17:50.250Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: como-funcionan-las-promociones 
+locale: es
 trackId: 6asfF1vFYiZgTQtOzwJchR
 trackSlugES: promociones
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: gerenciando-versoes-de-conteudo
+locale: pt
 legacySlug: gerenciando-versoes-de-conteudo
 subcategory: 9Arh3cJIOYlfSD1MUC2h3
 ---

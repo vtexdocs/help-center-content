@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: por-que-el-pedido-se-encuentra-en-el-status-verificando-fatura
+locale: es
 legacySlug: por-que-el-pedido-se-encuentra-en-el-status-verificando-fatura
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

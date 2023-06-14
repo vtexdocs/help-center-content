@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: payment-was-made-but-not-found-what-should-i-do
+locale: en
 legacySlug: payment-was-made-but-not-found-what-should-i-do
 subcategory: 5ZfsNR4ioEsIyu6wkyce0M
 ---

@@ -11,6 +11,7 @@ productTeam: Channels
 author: authors_35
 tag: Checkout,Payments
 slug: marketplace-no-considera-regla-de-parcelamiento-para-productos-que-tienen-condicion-comercial-en-el-seller
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

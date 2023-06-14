@@ -9,6 +9,7 @@ firstPublishedAt: 2020-11-18T17:38:09.905Z
 contentType: trackArticle
 productTeam: Financial
 slug: configurar-condiciones-de-clusterizacion
+locale: es
 trackId: 1LqUFHQZ3ZQyV5TmugbGNm
 trackSlugES: condiciones-de-pago-clusterizadas
 ---

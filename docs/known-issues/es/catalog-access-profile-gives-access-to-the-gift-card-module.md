@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: el-perfil-de-acceso-al-catalogo-da-acceso-al-modulo-de-la-tarjeta-regalo
+locale: es
 kiStatus: Backlog
 internalReference: 362165
 ---

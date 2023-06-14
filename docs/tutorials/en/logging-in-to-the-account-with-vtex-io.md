@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: logging-in-to-the-account-with-vtex-io
+locale: en
 legacySlug: log-in-to-the-account-with-vtex-io
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

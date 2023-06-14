@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: enviar-los-medios-de-pago-del-seller-white-label-al-marketplace
+locale: es
 legacySlug: untitled-entry-2018-09-27-at-08-35-08
 subcategory: 3wullenAJiAcWY0a6K4UOE
 ---

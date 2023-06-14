@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_59
 slug: how-do-you-calculate-payments-in-installments-with-compound-interest
+locale: en
 legacySlug: how-do-you-calculate-payments-in-installments-with-interest
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

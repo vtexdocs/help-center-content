@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: el-portal-recarga-todos-los-resultados-de-la-busqueda-cuando-se-accede-a-la-url-con-el-parametro-de-paginacion
+locale: es
 kiStatus: Backlog
 internalReference: 342378
 ---

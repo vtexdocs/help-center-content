@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: como-funciona-el-campo-score
+locale: es
 legacySlug: como-funciona-el-campo-score
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

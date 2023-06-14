@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: authors_31
 slug: liberacion-de-nuevo-dominio-en-las-reglas-del-firewall-de-su-red
+locale: es
 legacySlug: liberacion-de-nuevo-dominio-en-las-reglas-del-firewall-de-su-red
 announcementImageID: ''
 announcementSynopsisES: 'VTEX cambiará el dominio que carga archivos. Revise las reglas del firewall para garantizar la autorización del dominio.'

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-api-de-orderform-impide-la-seleccion-del-metodo-de-envio-para-el-mismo-articulo-en-diferentes-vendedores
+locale: es
 kiStatus: Backlog
 internalReference: 742139
 ---

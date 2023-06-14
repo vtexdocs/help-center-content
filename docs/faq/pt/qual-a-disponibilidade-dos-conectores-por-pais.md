@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: 
 slug: qual-a-disponibilidade-dos-conectores-por-pais
+locale: pt
 legacySlug: qual-a-disponibilidade-dos-conectores-por-pais
 ---
 

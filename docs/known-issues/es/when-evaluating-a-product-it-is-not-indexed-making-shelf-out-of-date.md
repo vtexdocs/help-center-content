@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: al-evaluar-un-producto-el-no-se-indiza-dejando-la-vitrina-desfasada
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

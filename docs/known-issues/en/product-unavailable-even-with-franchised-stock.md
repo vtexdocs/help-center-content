@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: product-unavailable-even-with-franchised-stock
+locale: en
 kiStatus: Backlog
 internalReference: 404499
 ---

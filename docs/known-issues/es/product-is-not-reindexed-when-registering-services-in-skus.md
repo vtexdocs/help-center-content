@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-producto-no-es-reindexado-al-registrarse-servicios-en-los-skus
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

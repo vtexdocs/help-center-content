@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: 10Jj3Ca0hIsTVp4BEeef6Q
 slug: o-que-fazer-quando-o-nsu-do-produto-e-duplicada-em-transacoes-realizadas
+locale: pt
 legacySlug: o-que-fazer-quando-a-nsu-do-produto-e-duplicada-em-transacoes-realizadas
 ---
 

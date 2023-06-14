@@ -9,6 +9,7 @@ firstPublishedAt: 2022-04-18T11:57:58.931Z
 contentType: trackArticle
 productTeam: Channels
 slug: gestionar-la-integracion-de-tiktok-for-business-en-vtex-admin
+locale: es
 trackId: 1r0yJSO11nrer1YVu3WTFd
 trackSlugES: integracion-de-tiktok
 ---
@@ -18,7 +19,7 @@ Después de instalar y configurar TikTok for Business, podrás gestionar la inte
 
 Cualquier usuario conectado al Admin VTEX podrá acceder a esta área para gestionar TikTok. Sin embargo, al interactuar con los botones de esta zona, el usuario será redireccionado a los entornos de TikTok – TikTok Business Center, TikTok Ads Manager y TikTok Catalog Manager, donde necesitará los permisos necesarios para ver el contenido y realizar cambios.
 
-![manage-tiktok-integration](//images.ctfassets.net/alneenqid6w5/6E7w4iV9rZX57u2AlG610O/0467f2bd0f4885991ec571a38218a2fb/image1.png)
+![manage-tiktok-integration](https://images.ctfassets.net/alneenqid6w5/6E7w4iV9rZX57u2AlG610O/0467f2bd0f4885991ec571a38218a2fb/image1.png)
 
 Desde esta página, puedes:
 

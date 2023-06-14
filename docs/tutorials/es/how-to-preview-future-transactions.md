@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: como-consultar-registros-futuros
+locale: es
 legacySlug: como-consultar-registros-futuros
 subcategory: 29ZPBdZOTSg6NdzprcqBfb
 ---

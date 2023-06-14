@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: setting-up-sitef-gateway
+locale: en
 legacySlug: setting-up-sitef-gateway
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

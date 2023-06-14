@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: como-funciona-a-relacao-entre-websites-e-politicas-comerciais
+locale: pt
 legacySlug: como-funciona-a-relacao-entre-websites-e-politicas-comerciais
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

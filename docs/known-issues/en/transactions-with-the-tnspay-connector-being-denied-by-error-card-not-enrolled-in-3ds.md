@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: transactions-with-the-tnspay-connector-being-denied-by-error-card-not-enrolled-in-3ds
+locale: en
 kiStatus: Backlog
 internalReference: 541687
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Master Data
 author: authors_31
 slug: adapting-your-stores-front-end-requisites-to-master-data
+locale: en
 legacySlug: adapting-your-stores-front-end-requisites-to-master-data
 announcementImageID: ''
 announcementSynopsisEN: 'VTEX will discontinue Master Data CORS support starting on September 23rd.'

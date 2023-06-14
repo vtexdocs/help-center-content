@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: meli-plaintextdescriptionmeli-no-funciona
+locale: es
 kiStatus: Backlog
 internalReference: 555122
 ---

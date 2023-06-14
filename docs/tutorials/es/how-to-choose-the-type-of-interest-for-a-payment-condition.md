@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: como-elegir-el-tipo-de-interes-de-una-condicion-de-pago
+locale: es
 legacySlug: como-elegir-el-tipo-de-interes-de-una-condicion-de-pago
 subcategory: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---

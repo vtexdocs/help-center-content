@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: criar-audiencia-de-campanha
+locale: pt
 legacySlug: como-criar-campanhas
 subcategory: 2cI57eZ3ZiWSeaQs26Gwys
 ---
@@ -68,7 +69,7 @@ Após clicar em `Criar novo público-alvo`, você precisa seguir as instruções
     * **ou:** a audiência de campanha será composta por clientes que se encaixarem em qualquer um dos públicos-alvo.
     * **e:** a audiência de campanha será composta por clientes que se encaixarem em todos os públicos-alvos, somando seus critérios.
 
-![publico-alvo-e-ou-pt](//images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/92a1ac37149d16f9b039cd1f024e6dff/image4.gif)
+![publico-alvo-e-ou-pt](https://images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/92a1ac37149d16f9b039cd1f024e6dff/image4.gif)
 
 ### Defina seu público-alvo
 
@@ -84,7 +85,7 @@ Após clicar em `Criar novo público-alvo`, você precisa seguir as instruções
 
 Exemplo: participam do público-alvo os itens cuja marca é __Nike__, conforme ilustrado a seguir. A configuração também indica que pelo menos 3 itens precisam se enquadrar nesses critérios. Portanto, um cliente precisa ter no carrinho pelo menos 3 itens que se encaixam nesse cenário para participar do público-alvo.
 
-![exemplo-marca-publico-alvo-pt](//images.ctfassets.net/alneenqid6w5/4Bot3XZUQJ4JkWJknpTxB2/e92e92a79b28abc9bbfe84f886c17c8d/screencapture-lojadobreno-myvtex-admin-rnb-2022-07-21-18_12_45_1.png)
+![exemplo-marca-publico-alvo-pt](https://images.ctfassets.net/alneenqid6w5/4Bot3XZUQJ4JkWJknpTxB2/e92e92a79b28abc9bbfe84f886c17c8d/screencapture-lojadobreno-myvtex-admin-rnb-2022-07-21-18_12_45_1.png)
 
 ### Condições para seu público-alvo ser aplicado
 

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: los-articulos-de-regalo-lanzan-una-excepcion-generica-si-no-tienen-precio
+locale: es
 kiStatus: Backlog
 internalReference: 510490
 ---

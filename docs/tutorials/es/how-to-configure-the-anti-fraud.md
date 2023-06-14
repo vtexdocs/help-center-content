@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: como-configurar-antifraude
+locale: es
 legacySlug: como-configurar-antifraude
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

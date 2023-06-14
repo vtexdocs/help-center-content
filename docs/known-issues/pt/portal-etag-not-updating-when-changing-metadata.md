@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: portal-etag-nao-atualizando-ao-alterar-metadados
+locale: pt
 kiStatus: Backlog
 internalReference: 411434
 ---

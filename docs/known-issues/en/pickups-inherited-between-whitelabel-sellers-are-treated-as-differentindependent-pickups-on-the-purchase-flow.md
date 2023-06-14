@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: pickups-inherited-between-whitelabel-sellers-are-treated-as-differentindependent-pickups-on-the-purchase-flow
+locale: en
 kiStatus: Backlog
 internalReference: 438630
 ---

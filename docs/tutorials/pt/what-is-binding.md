@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_24
 slug: o-que-e-binding
+locale: pt
 legacySlug: o-que-e-binding
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_24
 slug: introducao-as-apis-vtex
+locale: pt
 legacySlug: introducao-as-apis-vtex
 subcategory: 1vwB9FtTSQmcSewQw02QoW
 ---
@@ -113,7 +114,7 @@ Elas ficam divididas por módulo ou funcionalidade. Entrando em um destes, você
  
 À direita dessas indicações, o Postman exibe, para cada API, um Sample Request. De acordo com a linguagem escolhida na caixa de seleção acima dele, o Sample Request mostra como seria a aplicação da requisição no código.
 
-![sample request](//images.ctfassets.net/alneenqid6w5/3wK9xsMZmwca8IeygiYOyO/fc875afab27a1abb9c812ec62e511ec9/sample_request.png)
+![sample request](https://images.ctfassets.net/alneenqid6w5/3wK9xsMZmwca8IeygiYOyO/fc875afab27a1abb9c812ec62e511ec9/sample_request.png)
  
 Para algumas APIs, há também uma Sample Response, que é um exemplo de resposta àquele request.
 

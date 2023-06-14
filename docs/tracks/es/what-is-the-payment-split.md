@@ -9,6 +9,7 @@ firstPublishedAt: 2020-11-06T19:14:25.813Z
 contentType: trackArticle
 productTeam: Financial
 slug: que-es-el-split-de-pagos-de-vtex
+locale: es
 trackId: 1ouDg8q56Kuz1AgtJUY9nv
 trackSlugES: split-de-pagos
 ---

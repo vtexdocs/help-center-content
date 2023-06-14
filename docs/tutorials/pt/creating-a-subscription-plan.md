@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: como-criar-um-plano-de-assinatura
+locale: pt
 legacySlug: como-criar-um-plano-de-assinatura-beta
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
@@ -91,7 +92,7 @@ Nesta tela, você pode realizar as seguintes ações:
 
 * **Selecionar:** ao clicar no <i class="far fa-square"></i> na linha de cada produto, você pode selecionar produtos ou SKUs individualmente. Outra opção é clicar no primeiro <i class="far fa-square"></i> e selecionar todos os produtos e SKUs exibidos na página para adicioná-los ao plano, conforme ilustrado na imagem abaixo.
 
-![selecionarskus PT](//images.ctfassets.net/alneenqid6w5/3nBgV1SCLFqG92L1rOBXOX/d5166c26395bfd131c45fe27f51ec5a8/selecionarskus_PT.gif)
+![selecionarskus PT](https://images.ctfassets.net/alneenqid6w5/3nBgV1SCLFqG92L1rOBXOX/d5166c26395bfd131c45fe27f51ec5a8/selecionarskus_PT.gif)
 
 * **Botão** <i class="fas fa-chevron-down"></i>: exibe os SKUs, ou seja, as variações do produto.
 * **Adicionar:** ao clicar neste botão, você adiciona o(s) produto(s) ou SKU(s) ao plano de assinatura.

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-checkout-nao-tem-clareza-sobre-as-divergencias-entre-o-cliente-identificado-e-o-cliente-conectado
+locale: pt
 kiStatus: Backlog
 internalReference: 442267
 ---

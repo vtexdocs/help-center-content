@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: ui-does-not-update-best-sla-choice-in-cart
+locale: en
 kiStatus: Backlog
 internalReference: 550201
 ---

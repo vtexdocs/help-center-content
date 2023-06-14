@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: registrar-los-codigos-de-barras-de-los-skus-para-el-vtex-sales-app
+locale: es
 legacySlug: registrar-los-codigos-de-barras-de-los-skus-para-el-instore
 subcategory: pwxWmUu7T222QyuGogs68
 ---

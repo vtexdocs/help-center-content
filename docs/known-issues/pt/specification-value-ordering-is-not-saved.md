@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: a-ordenacao-de-valores-de-especificacao-nao-e-salva
+locale: pt
 kiStatus: Backlog
 internalReference: 584182
 ---

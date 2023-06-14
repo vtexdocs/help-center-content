@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 245tA425AIeioKAk2eaiwS
 slug: como-configurar-el-campo-responsable-de-la-recogida-en-smartcheckout-v6
+locale: es
 legacySlug: como-configurar-el-campo-responsable-de-la-recogida-en-smartcheckout-v6
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

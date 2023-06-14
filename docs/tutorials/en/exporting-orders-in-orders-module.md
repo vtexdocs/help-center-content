@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: exporting-orders-in-orders-module
+locale: en
 legacySlug: exporting-orders-with-oms
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

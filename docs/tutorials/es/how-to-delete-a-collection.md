@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: como-eliminar-una-coleccion
+locale: es
 legacySlug: como-borrar-coleccion; como-eliminar-una-coleccion
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

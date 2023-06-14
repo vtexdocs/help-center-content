@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: change-order-using-api-without-email-orderchanged
+locale: en
 kiStatus: Backlog
 internalReference: 380509
 ---

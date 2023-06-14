@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: las-api-quien-vio-tambien-vio-quien-vio-tambien-compro-y-quien-compro-tambien-compro-no-siempre-funcionan-como-se-esperaba
+locale: es
 kiStatus: Backlog
 internalReference: 712015
 ---

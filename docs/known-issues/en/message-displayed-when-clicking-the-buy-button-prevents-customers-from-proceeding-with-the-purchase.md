@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: message-displayed-when-clicking-the-buy-button-prevents-customers-from-proceeding-with-the-purchase
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

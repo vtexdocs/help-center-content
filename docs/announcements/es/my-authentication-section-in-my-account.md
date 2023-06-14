@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: pestana-my-authentication-de-my-account
+locale: es
 legacySlug: pestana-my-authentication-de-my-account
 announcementImageID: ''
 announcementSynopsisES: 'My Authentication es una pestaña de My Account que permite gestionar contraseñas y sesiones de acceso.'
@@ -24,15 +25,15 @@ Este cambio afectará a todas las tiendas VTEX. Debido a que el cambio interfier
 
 En esta pestaña los usuarios podrán gestionar su contraseña. También es posible gestionar las sesiones de inicio de sesión, lo que permite al usuario cancelar otras sesiones de forma remota. Encontrará más detalles sobre el uso de la pestaña en la sección [Autenticación del artículo Configurar My Account](https://help.vtex.com/es/tutorial/como-funciona-mi-cuenta--2BQ3GiqhqGJTXsWVuio3Xh).
 
-![My Authentication app ES](//images.ctfassets.net/alneenqid6w5/20aIW7imMlRsfDbKYu9IuM/3ac0c69ccace5c9b274318b06bea409f/My_Authentication_app_ES.png)
+![My Authentication app ES](https://images.ctfassets.net/alneenqid6w5/20aIW7imMlRsfDbKYu9IuM/3ac0c69ccace5c9b274318b06bea409f/My_Authentication_app_ES.png)
 
-![My Authentication Session Management ES](//images.ctfassets.net/alneenqid6w5/3qxpIRREWnGmRmv97jhOML/1fe19f90a71681bf3f46a5d8ab52aabb/My_Authentication_Session_Management_ES_blur.png)
+![My Authentication Session Management ES](https://images.ctfassets.net/alneenqid6w5/3qxpIRREWnGmRmv97jhOML/1fe19f90a71681bf3f46a5d8ab52aabb/My_Authentication_Session_Management_ES_blur.png)
 
 El 29 de septiembre también se eliminará el componente de gestión de contraseña del perfil de usuario para evitar duplicidades. Las siguientes imágenes muestran ejemplos de una página de perfil de usuario con y sin el componente de gestión de contraseña.
 
-![My Account with password ES](//images.ctfassets.net/alneenqid6w5/6L8Do8W0nbG4jfKE04ddpj/35a836d86b2c5ace5ae163209ef847dc/My_Account_with_password_ES.png)
+![My Account with password ES](https://images.ctfassets.net/alneenqid6w5/6L8Do8W0nbG4jfKE04ddpj/35a836d86b2c5ace5ae163209ef847dc/My_Account_with_password_ES.png)
 
-![My Account no password ES](//images.ctfassets.net/alneenqid6w5/22CaEOhOusmmDM73taAw6R/d60f96ecdedda8f48b23be754f3fbfae/My_Account_no_password_ES.png)
+![My Account no password ES](https://images.ctfassets.net/alneenqid6w5/22CaEOhOusmmDM73taAw6R/d60f96ecdedda8f48b23be754f3fbfae/My_Account_no_password_ES.png)
 
 ## ¿Por qué hicimos este cambio?
 
@@ -65,12 +66,12 @@ Para que la pestaña My Authentication sea visible públicamente en su tienda:
 1. En el panel lateral izquierdo del Admin, vaya a la sección **CONFIGURACIÓN DE LA CUENTA**.
 2. Haga clic en **Apps**.
 3. Haga clic en **Mis aplicaciones**.  
-![My apps menu ES](//images.ctfassets.net/alneenqid6w5/4oRHARlS6i4lZac17nyHhC/0beb96ff4fd9af269359146a2df949be/My_apps_menu_ES.png)
+![My apps menu ES](https://images.ctfassets.net/alneenqid6w5/4oRHARlS6i4lZac17nyHhC/0beb96ff4fd9af269359146a2df949be/My_apps_menu_ES.png)
 4. Vaya a la app **My Account** y haga clic en `Configuración`.  
-![My apps installed ES](//images.ctfassets.net/alneenqid6w5/5umcJos7Uz0wnmv0VsZs3Y/919435a4bf6e8222afc6a4d91c136ff5/My_apps_installed_ES.png)
+![My apps installed ES](https://images.ctfassets.net/alneenqid6w5/5umcJos7Uz0wnmv0VsZs3Y/919435a4bf6e8222afc6a4d91c136ff5/My_apps_installed_ES.png)
 5. En la sección **AUTHENTICATION** de la configuración de la app, marque la casilla `Visible`.
 6. Haga clic en `Guardar`.
-![My Authentication visible setting ES](//images.ctfassets.net/alneenqid6w5/5104wJeIBEUYXI7hfkRdH0/7669ac9d7f583253b032a48b0471fbd7/My_Authentication_visible_setting_ES.png)
+![My Authentication visible setting ES](https://images.ctfassets.net/alneenqid6w5/5104wJeIBEUYXI7hfkRdH0/7669ac9d7f583253b032a48b0471fbd7/My_Authentication_visible_setting_ES.png)
 
 También puede acceder directamente a la configuración de la aplicación My Account en el Admin a través de una URL.
 
@@ -79,4 +80,4 @@ También puede acceder directamente a la configuración de la aplicación My Acc
 
 Tras habilitar la visibilidad de la pestaña **Autenticación**, esta aparecerá en el perfil de usuario de la tienda. Cualquier usuario puede acceder a ella desde el panel lateral izquierdo.
 
-![My Authentication app ES](//images.ctfassets.net/alneenqid6w5/20aIW7imMlRsfDbKYu9IuM/3ac0c69ccace5c9b274318b06bea409f/My_Authentication_app_ES.png)
+![My Authentication app ES](https://images.ctfassets.net/alneenqid6w5/20aIW7imMlRsfDbKYu9IuM/3ac0c69ccace5c9b274318b06bea409f/My_Authentication_app_ES.png)

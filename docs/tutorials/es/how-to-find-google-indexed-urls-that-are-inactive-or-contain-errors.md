@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: como-localizar-urls-indexadas-por-google-que-estan-inactivas-o-con-errores
+locale: es
 legacySlug: como-localizar-urls-indexadas-por-google-que-estan-inactivas-o-con-errores
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

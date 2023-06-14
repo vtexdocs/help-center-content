@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: how-to-integrate-an-external-gift-card-provider-with-vtex
+locale: en
 legacySlug: how-to-integrate-with-a-gift-card
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

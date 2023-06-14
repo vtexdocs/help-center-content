@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: el-precio-del-resultado-de-busqueda-es-diferente-de-la-pagina-de-producto
+locale: es
 legacySlug: el-precio-del-resultado-de-busqueda-es-diferente-de-la-pagina-de-producto
 ---
 

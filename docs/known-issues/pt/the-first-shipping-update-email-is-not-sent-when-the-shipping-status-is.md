@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2Gy429C47ie3tL9XUEjeFL
 tag: Message Center,Order Management
 slug: o-primeiro-email-de-atualizacao-de-envio-nao-e-enviado-com-a-primeira
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

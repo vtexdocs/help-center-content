@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:38:41.810Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: ver-historico-de-e-mails-de-um-pedido
+locale: pt
 trackId: 6IkJwttMw5T84mlY9RifRP
 trackSlugPT: e-mails-transacionais
 ---

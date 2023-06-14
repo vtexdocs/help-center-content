@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: configurando-tipo-de-campo-de-categoria
+locale: pt
 legacySlug: configurando-tipo-de-campo-de-categoria
 subcategory: 1E7tziZCkY4w8i4EmUuwec
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: o-que-e-um-estoque
+locale: pt
 legacySlug: o-que-e-um-estoque
 subcategory: 3RSSKdmS4MY2ycsu8WoyC2
 ---

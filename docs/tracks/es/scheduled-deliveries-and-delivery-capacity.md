@@ -9,6 +9,7 @@ firstPublishedAt: 2022-03-08T18:37:54.630Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: entregas-programadas-y-capacidad-de-entrega
+locale: es
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugES: logistica-101
 ---

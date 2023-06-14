@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: como-funciona-o-fluxo-para-salvar-documentos
+locale: pt
 legacySlug: como-funciona-o-fluxo-para-salvar-documentos
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---

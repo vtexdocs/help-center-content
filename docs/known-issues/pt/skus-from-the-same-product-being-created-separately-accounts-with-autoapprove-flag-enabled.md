@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: skus-do-mesmo-produto-sendo-criado-separadamente-contas-com-a-bandeira-autoapprove-habilitada
+locale: pt
 kiStatus: Backlog
 internalReference: 467112
 ---

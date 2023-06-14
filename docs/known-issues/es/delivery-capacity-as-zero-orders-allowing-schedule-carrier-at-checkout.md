@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: capacidad-de-entrega-como-cero-pedidos-permitiendo-programar-al-transportista-en-la-caja
+locale: es
 kiStatus: Scheduled
 internalReference: 471612
 ---

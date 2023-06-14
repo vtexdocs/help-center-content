@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 
 slug: configurar-parcelamento-automatico
+locale: pt
 legacySlug: configurar-parcelamento-automatico
 subcategory: 
 ---

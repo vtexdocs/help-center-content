@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: transactional-email-template-for-refunded-order
+locale: en
 legacySlug: transactional-email-template-for-refunded-order
 subcategory: 4D5LrWwlHGmOWMomOaaGee
 ---

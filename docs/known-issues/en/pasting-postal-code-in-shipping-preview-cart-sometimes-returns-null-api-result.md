@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: pasting-postal-code-in-shipping-preview-cart-sometimes-returns-null-api-result
+locale: en
 kiStatus: Backlog
 internalReference: 481878
 ---

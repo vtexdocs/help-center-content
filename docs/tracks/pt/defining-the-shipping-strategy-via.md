@@ -9,6 +9,7 @@ firstPublishedAt: 2018-09-27T22:13:49.998Z
 contentType: trackArticle
 productTeam: Channels
 slug: definir-estrategia-de-envio-via
+locale: pt
 trackId: 3E9XylGaJ2wqwISGyw4GuY
 trackSlugPT: configurar-integracao-da-via-varejo
 ---

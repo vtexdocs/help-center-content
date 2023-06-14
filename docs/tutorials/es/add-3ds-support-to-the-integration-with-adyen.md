@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: anadir-soporte-a-3ds-en-la-integracion-con-adyen
+locale: es
 legacySlug: anadir-soporte-a-3ds-en-la-integracion-con-adyen
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

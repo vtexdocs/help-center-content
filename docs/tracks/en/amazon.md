@@ -9,13 +9,14 @@ firstPublishedAt: 2021-07-19T20:20:32.860Z
 contentType: trackArticle
 productTeam: Channels
 slug: amazon
+locale: en
 trackId: 6sgd4Pagy3wNsWKBvmIFrP
 trackSlugEN: amazon-integration
 ---
 
 Amazon is an ecommerce platform and is considered one of the five largest technology companies in the world. It currently sells a variety of products, such as toys, electronics, clothing, accessories and others In addition, the online retail giant offers streaming services, cloud storage, and virtual assistants.
 
-![amazon logo](//images.ctfassets.net/alneenqid6w5/3hRQ23BqGdnYGkQtzOtsRF/abbcb463e142e13825d97358da9af010/amazon_logo.png)
+![amazon logo](https://images.ctfassets.net/alneenqid6w5/3hRQ23BqGdnYGkQtzOtsRF/abbcb463e142e13825d97358da9af010/amazon_logo.png)
 
 The integration with Amazon sends products from your VTEX store's catalog to Amazon, allowing you to list your products and increase your sales. 
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: crear-servicio-para-un-sku
+locale: es
 legacySlug: crear-servicio-para-un-sku
 subcategory: pwxWmUu7T222QyuGogs68
 ---
@@ -85,7 +86,7 @@ Para vincular un servicio a un SKU, sigue los pasos a continuación:
   <p>El tamaño del archivo de la plantilla no debe superar los 4Mb (4096KB).</p>
 </div>
 8. Haz clic en la barra que se encuentra junto al botón `Select`, que se muestra a continuación.
-  ![Anexos - ES](//images.ctfassets.net/alneenqid6w5/76FSnqnRMroOc0Ex2knz1Z/844c4cb0282e3b4e32c9b494906b0597/sku-services-ES.png)
+  ![Anexos - ES](https://images.ctfassets.net/alneenqid6w5/76FSnqnRMroOc0Ex2knz1Z/844c4cb0282e3b4e32c9b494906b0597/sku-services-ES.png)
 9. Selecciona la plantilla CSV actualizada.
 10. Haz clic en `Vincular valores de servicios a SKU` para finalizar.
 

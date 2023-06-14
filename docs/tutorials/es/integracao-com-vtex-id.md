@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_4
 slug: integracao-com-vtex-id
+locale: es
 legacySlug: integracao-com-vtex-id
 subcategory: 14V5ezEX0cewOMg0o0cYM6
 ---

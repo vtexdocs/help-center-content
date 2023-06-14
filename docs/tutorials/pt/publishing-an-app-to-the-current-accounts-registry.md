@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: publicar-uma-app-no-registro-da-conta-atual
+locale: pt
 legacySlug: publicar-a-app-no-registro-da-conta-atual
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

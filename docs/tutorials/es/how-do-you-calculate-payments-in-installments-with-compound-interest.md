@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_59
 slug: como-se-hace-el-calculo-del-pago-en-plazos-con-intereses-compuesto
+locale: es
 legacySlug: como-se-hace-el-calculo-del-pago-en-plazos-con-intereses
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

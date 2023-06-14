@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: TAUXpa4XWCsIaUOoksGIE
 slug: registros-de-newsletter-com-controle-vtex-cmc-newsletteroptin
+locale: pt
 legacySlug: registros-de-newsletter-com-controle-vtex-cmc-newsletteroptin
 subcategory: 7ogirQ8NClawO2X6xdgCKc
 ---

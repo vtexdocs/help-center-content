@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: modulo-de-lanzamientos-beta
+locale: es
 legacySlug: modulo-de-lanzamientos-beta
 subcategory: 
 ---
@@ -71,7 +72,7 @@ En esta etapa, no es obligatorio rellenar los campos <b>Día de publicación</b>
 
 8. Haz clic en `Crear`.
 
-![print_cms_beta_es](//images.ctfassets.net/alneenqid6w5/3E9inm1oqSRWqfBly8puW6/ed3b5cf5eb3020123112b9d7aee2d34a/print_cms_beta_es.png)
+![print_cms_beta_es](https://images.ctfassets.net/alneenqid6w5/3E9inm1oqSRWqfBly8puW6/ed3b5cf5eb3020123112b9d7aee2d34a/print_cms_beta_es.png)
 
 ### Crear lanzamiento a través del módulo Lanzamientos
 
@@ -91,7 +92,7 @@ En esta etapa, no es obligatorio rellenar los campos Día de publicación y Hora
 
 Todos los lanzamientos creados aparecen en una lista en el Admin VTEX en **Configuración de la tienda > Lanzamientos**. La página muestra dos pestañas, `PROGRAMADOS` y `NO PROGRAMADOS`, dependiendo de si el lanzamiento se creó con una fecha de publicación o no. 
 
-![print_releases_es](//images.ctfassets.net/alneenqid6w5/14ZhiyhghBKjaoHuab8bcH/687594e054953398b1e1973375e00709/print_releases_es.png)
+![print_releases_es](https://images.ctfassets.net/alneenqid6w5/14ZhiyhghBKjaoHuab8bcH/687594e054953398b1e1973375e00709/print_releases_es.png)
 
 En la pestaña `PROGRAMADOS`, la descripción de cada columna es la siguiente:
 

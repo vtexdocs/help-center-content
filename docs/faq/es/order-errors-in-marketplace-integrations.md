@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: errores-de-integracion-de-pedidos-en-marketplaces
+locale: es
 legacySlug: errores-en-bridge-como-solucionar
 ---
 

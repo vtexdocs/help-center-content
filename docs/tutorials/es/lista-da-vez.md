@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: lista-da-vez
+locale: es
 legacySlug: lista-da-vez
 subcategory: 5SE2asHiQtHKfbnFru8RWH
 ---

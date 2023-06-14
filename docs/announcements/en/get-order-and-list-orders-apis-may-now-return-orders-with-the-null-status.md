@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: authors_41
 slug: get-order-and-list-orders-apis-may-now-return-orders-with-the-null-status
+locale: en
 legacySlug: get-order-and-list-orders-apis-may-now-return-orders-with-the-null-status
 announcementImageID: ''
 announcementSynopsisEN: 'As of 01/30/2019, orders may appear with null status in the responses for the Get Order and List Orders calls.'

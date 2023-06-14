@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: url-que-redirigen-a-emptysearch
+locale: es
 kiStatus: Fixed
 internalReference: 322251
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: cronograma-de-tarea
+locale: es
 legacySlug: cronograma-de-tarea
 subcategory: wz3FvYTctwuCwG206QUAi
 ---

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: remover-anexo-de-sku-por-importacao-de-produtos-via-planilha-nao-surte-efeito
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

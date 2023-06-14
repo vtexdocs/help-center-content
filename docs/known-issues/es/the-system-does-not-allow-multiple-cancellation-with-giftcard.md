@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: el-sistema-no-permite-la-cancelacion-multiple-con-la-tarjeta-de-regalo
+locale: es
 kiStatus: Backlog
 internalReference: 309117
 ---

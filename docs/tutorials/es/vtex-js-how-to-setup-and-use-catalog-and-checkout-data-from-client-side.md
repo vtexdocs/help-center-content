@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 523NSmHfn2IKEoiy2Q44YS
 slug: vtex-js-como-instalar-y-manejar-datos-del-catalogo-y-checkout-desde-la
+locale: es
 legacySlug: vtex-js-como-instalar-y-manejar-datos-del-catalogo-y-checkout-desde-la
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

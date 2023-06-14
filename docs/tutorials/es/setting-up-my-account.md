@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 6AcGyun1hSWewU8YcaQiO
 slug: configuracion-de-my-account
+locale: es
 legacySlug: configuración-de-my-account
 subcategory: 1RWR7qSyaREbD5RfgCjdYG
 ---

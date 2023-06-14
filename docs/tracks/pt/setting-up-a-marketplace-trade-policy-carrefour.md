@@ -9,6 +9,7 @@ firstPublishedAt: 2021-02-22T21:40:55.533Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-politica-comercial-para-marketplace-carrefour
+locale: pt
 trackId: 2wYlj07cNuA8k8mmwY86K2
 trackSlugPT: configurar-integracao-do-carrefour
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T21:02:12.253Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: campanhas-o-que-sao-e-como-criar
+locale: pt
 trackId: 6asfF1vFYiZgTQtOzwJchR
 trackSlugPT: promocoes
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: rellenar-campos-de-la-planilla-de-importacion
+locale: es
 legacySlug: rellenar-campos-de-la-planilla-de-importacion
 subcategory: 2u48reCb68K48EAcm86ccM
 ---

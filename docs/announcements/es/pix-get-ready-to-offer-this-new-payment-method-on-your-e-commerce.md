@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 5kCzbURAoPwM0YJGmMCLyD
 slug: pix-preparate-para-el-nuevo-medio-de-pago-para-tu-e-commerce
+locale: es
 legacySlug: pix-preparate-para-el-nuevo-medio-de-pago-para-tu-e-commerce
 announcementImageID: ''
 announcementSynopsisES: 'El Payment Provider Protocol, protocolo de integraciones para pagamentos de VTEX, ya soporta el Pix cómo medio de pago.'

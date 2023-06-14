@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: afiliacoes-de-gateway
+locale: pt
 legacySlug: afiliacoes-de-gateway
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

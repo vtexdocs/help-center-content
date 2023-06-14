@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_35
 slug: pedido-recorrente-nao-criado
+locale: pt
 legacySlug: pedido-recorrente-nao-criado
 ---
 

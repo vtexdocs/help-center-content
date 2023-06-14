@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: replicated-pending-payment-emails
+locale: en
 kiStatus: Backlog
 internalReference: 348932
 ---

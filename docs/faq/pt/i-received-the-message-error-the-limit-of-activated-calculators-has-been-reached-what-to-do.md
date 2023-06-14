@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: mensagem-erro-the-limit-of-activated-calculators-has-been-reached
+locale: pt
 legacySlug: mensagem-erro-the-limit-of-activated-calculators-has-been-reached
 ---
 

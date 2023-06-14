@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
 slug: web-service-methods-will-be-deprecated
+locale: en
 legacySlug: web-service-methods-will-be-deprecated
 announcementImageID: ''
 announcementSynopsisEN: 'As of February 28, the use of Web Service will be discontinued for VTEX integrations, except for the Catalog methods.'

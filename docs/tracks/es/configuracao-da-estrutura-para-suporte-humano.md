@@ -9,6 +9,7 @@ firstPublishedAt: 2022-08-23T17:47:18.082Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configuracao-da-estrutura-para-suporte-humano
+locale: es
 trackId: 5UZ9BdvwwtZm2t9QTXcbZs
 trackSlugES: conversational-commerce
 ---

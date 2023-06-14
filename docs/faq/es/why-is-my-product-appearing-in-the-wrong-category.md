@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: por-que-mi-producto-aparece-en-la-categoria-incorrecta
+locale: es
 legacySlug: por-que-mi-producto-aparece-en-la-categoria-incorrecta
 ---
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: registrar-condicion-comercial
+locale: es
 legacySlug: registrar-condicion-comercial
 subcategory: 6312YEqn0AGYCsOOESSIQM
 ---

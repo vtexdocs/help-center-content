@@ -11,6 +11,7 @@ productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
 slug: bug-de-navegacao-na-topbar-do-vtex-crm
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

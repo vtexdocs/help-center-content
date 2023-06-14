@@ -9,6 +9,7 @@ firstPublishedAt: 2018-09-27T22:12:25.372Z
 contentType: trackArticle
 productTeam: Channels
 slug: cadastro-da-integracao-da-via-varejo
+locale: pt
 trackId: 3E9XylGaJ2wqwISGyw4GuY
 trackSlugPT: configurar-integracao-da-via-varejo
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: enviar-pedido-al-status-a-preparar-la-entrega
+locale: es
 legacySlug: enviar-pedido-al-status-listo-para-manejo
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

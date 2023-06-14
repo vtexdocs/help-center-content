@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: 
 author: 127RQ7SUoFfyTh5gbXUpdM
 slug: tsadtet
+locale: es
 legacySlug: tsadtet
 subcategory: 
 ---

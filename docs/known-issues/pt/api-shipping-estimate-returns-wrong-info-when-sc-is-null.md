@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: api-shipping-estimate-devolve-informacoes-erradas-quando-sc-e-nulo
+locale: pt
 kiStatus: Backlog
 internalReference: 554948
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: configurar-o-tamanho-padrao-da-imagem-de-zoom
+locale: pt
 legacySlug: configurar-o-tamanho-padrao-da-imagem-de-zoom
 subcategory: 7ogirQ8NClawO2X6xdgCKc
 ---

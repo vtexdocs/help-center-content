@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_31
 tag: Catalog
 slug: specification-update-through-api-or-webservice-doesnt-send-product-for-indexing
+locale: en
 kiStatus: Backlog
 internalReference: 0
 ---

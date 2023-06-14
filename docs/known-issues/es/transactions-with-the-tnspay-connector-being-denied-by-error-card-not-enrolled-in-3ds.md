@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: transacciones-con-el-conector-tnspay-denegadas-por-error-tarjeta-no-registrada-en-3ds
+locale: es
 kiStatus: Backlog
 internalReference: 541687
 ---

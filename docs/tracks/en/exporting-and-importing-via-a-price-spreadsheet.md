@@ -9,6 +9,7 @@ firstPublishedAt: 2023-01-17T12:31:08.844Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: exporting-and-importing-via-a-price-spreadsheet
+locale: en
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugEN: prices-101
 ---

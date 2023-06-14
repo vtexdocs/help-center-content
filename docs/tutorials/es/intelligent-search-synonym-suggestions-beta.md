@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 1malnhMX0vPThsaJaZMYm2
 slug: sugerencias-de-sinonimos-de-intelligent-search-beta
+locale: es
 legacySlug: sugerencias-de-sinonimos-de-intelligent-search-beta
 subcategory: 23WdCYqmn2V2Z7SDlc14DF
 ---
@@ -29,7 +30,7 @@ Para hacerlo, VTEX Intelligent Search contabiliza cuántas veces los clientes, d
 
 Puedes revisar las sugerencias generadas y elegir una de estas tres acciones: rechazar, editar o aprobar. Consulta el paso a paso en la siguiente sección.
 
-![syn-sug-es](//images.ctfassets.net/alneenqid6w5/3bDrkDw6O6d8mHvvBKwWGm/92ab32c06dcfa505720a0813be380cdb/syn-sug-es.png)
+![syn-sug-es](https://images.ctfassets.net/alneenqid6w5/3bDrkDw6O6d8mHvvBKwWGm/92ab32c06dcfa505720a0813be380cdb/syn-sug-es.png)
 
 ## Revisar sugerencias
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: how-to-delete-a-dock
+locale: en
 legacySlug: how-to-delete-a-dock
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T19:06:04.684Z
 contentType: trackArticle
 productTeam: Shopping
 slug: habilitar-filtro-de-pedidos-por-vendedor
+locale: es
 trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugES: habilitar-filtro-de-pedidos-por-vendedor
 ---

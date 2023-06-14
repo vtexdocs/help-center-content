@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: TnXcuQydAAOuwWACo864E
 slug: como-configurar-seu-firewall-corporativo-para-permitir-acesso-ao-io
+locale: pt
 legacySlug: como-configurar-seu-firewall-corporativo-para-permitir-acesso-ao-io
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---

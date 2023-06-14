@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: as-buscas-ficam-confusas-quando-se-usam-caracteres-especiais
+locale: pt
 kiStatus: Scheduled
 internalReference: 382382
 ---

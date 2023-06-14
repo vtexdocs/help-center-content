@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: configure-seller-regionalization
+locale: en
 legacySlug: configure-seller-regionalization
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

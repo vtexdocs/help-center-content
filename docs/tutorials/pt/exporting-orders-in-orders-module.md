@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: exportacao-de-pedidos-no-modulo-pedidos
+locale: pt
 legacySlug: exportando-pedidos-no-gerenciamento-de-pedidos
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

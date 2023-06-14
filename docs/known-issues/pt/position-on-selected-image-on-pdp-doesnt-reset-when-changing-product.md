@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: a-posicao-na-imagem-selecionada-no-pdp-nao-e-reinicializada-ao-mudar-de-produto
+locale: pt
 kiStatus: Backlog
 internalReference: 595434
 ---

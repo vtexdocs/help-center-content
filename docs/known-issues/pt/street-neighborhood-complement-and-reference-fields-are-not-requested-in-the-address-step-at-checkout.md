@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: os-campos-rua-bairro-complemento-e-referencia-nao-sao-solicitados-na-etapa-de-endereco-no-checkout
+locale: pt
 kiStatus: Backlog
 internalReference: 563507
 ---

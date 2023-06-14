@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: la-configuracion-del-marcador-de-posicion-en-el-cms-no-muestra-todo-el-contenido
+locale: es
 kiStatus: Backlog
 internalReference: 547555
 ---

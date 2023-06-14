@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: errores-en-la-plantilla-de-mapeo-de-categorias-y-atributos
+locale: es
 legacySlug: errores-en-la-plantilla-de-mapeo-de-categorias-y-atributos
 subcategory: 4HBbKdnwneGew2qGGykSM8
 ---

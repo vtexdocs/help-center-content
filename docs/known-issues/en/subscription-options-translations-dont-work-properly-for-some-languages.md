@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: subscription-options-translations-dont-work-properly-for-some-languages
+locale: en
 kiStatus: Backlog
 internalReference: 561186
 ---

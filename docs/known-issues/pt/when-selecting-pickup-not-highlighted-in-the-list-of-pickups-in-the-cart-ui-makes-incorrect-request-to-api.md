@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: ao-selecionar-pickups-nao-destacados-na-lista-de-pickups-no-carrinho-a-ui-faz-solicitacao-incorreta-ao-api
+locale: pt
 kiStatus: Fixed
 internalReference: 529850
 ---

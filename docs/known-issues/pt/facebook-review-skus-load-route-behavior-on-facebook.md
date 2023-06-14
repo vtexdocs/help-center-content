@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: facebook-rever-o-comportamento-da-rota-de-carga-no-facebook
+locale: pt
 kiStatus: Fixed
 internalReference: 660874
 ---

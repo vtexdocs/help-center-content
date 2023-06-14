@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: error-en-el-mensaje-de-error-de-la-compra
+locale: es
 kiStatus: Backlog
 internalReference: 409895
 ---

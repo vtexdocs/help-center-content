@@ -9,6 +9,7 @@ firstPublishedAt: 2021-09-30T18:49:00.175Z
 contentType: trackArticle
 productTeam: Channels
 slug: instalar-la-aplicacion-facebook-business-extension-e-conversions-api
+locale: es
 trackId: 434Z1iWnaa0zbOMDyr6oi
 trackSlugES: integracion-con-facebook-business-extension
 ---

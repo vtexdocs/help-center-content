@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: integrando-con-buscape
+locale: es
 legacySlug: integrando-con-buscape
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

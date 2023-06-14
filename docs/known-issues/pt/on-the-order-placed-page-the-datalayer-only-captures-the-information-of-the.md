@@ -11,6 +11,7 @@ productTeam: Order Management
 author: authors_84
 tag: Order Management
 slug: na-pagina-order-placed-o-datalayer-captura-apenas-as-informacoes-do-primeiro
+locale: pt
 kiStatus: Fixed
 internalReference: 727339
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: categorizacao-multipla-de-produtos-no-marketplace-dafiti
+locale: pt
 legacySlug: categorizacao-multipla-de-produtos-no-marketplace-dafiti
 announcementImageID: ''
 announcementSynopsisPT: ' Associação de produto a múltiplas categorias por modelo de planilha de mapeamento que possui atributos obrigatórios'

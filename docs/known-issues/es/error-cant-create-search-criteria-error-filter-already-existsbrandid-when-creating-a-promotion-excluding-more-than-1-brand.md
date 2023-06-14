@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: error-no-se-pueden-crear-criterios-de-busqueda-error-el-filtro-ya-existe-brandid-al-crear-una-promocion-que-excluye-mas-de-1-marca
+locale: es
 kiStatus: Backlog
 internalReference: 663698
 ---

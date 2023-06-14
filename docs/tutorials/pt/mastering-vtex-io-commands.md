@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 
 slug: dominando-os-comandos-do-vtex-io
+locale: pt
 legacySlug: dominando-os-comandos-do-vtex-io
 subcategory: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: qual-a-diferenca-entre-estoque-e-doca
+locale: pt
 legacySlug: qual-a-diferenca-entre-estoque-e-doca
 subcategory: 3RSSKdmS4MY2ycsu8WoyC2
 ---
@@ -24,7 +25,7 @@ __As três etapas da logística são representadas pela seguinte estrutura:__
 
 __E podem ser ilustradas pelo fluxo abaixo:__
 
-![PT Conceitos Logistics](//images.ctfassets.net/alneenqid6w5/3xi4LHhJAElMNsp88xJ3A4/bfa6fd2b0feed227b8f7338ee5a9db24/PT_Conceitos_Logistics.png)
+![PT Conceitos Logistics](https://images.ctfassets.net/alneenqid6w5/3xi4LHhJAElMNsp88xJ3A4/bfa6fd2b0feed227b8f7338ee5a9db24/PT_Conceitos_Logistics.png)
 
 ## Estoque 
 É o espaço físico utilizado para a armazenagem das mercadorias de um e-commerce, funcionando como o repositório de disponibilidade dos itens da sua loja.

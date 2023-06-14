@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: autocompletar-trayendo-productos-de-sugerencia-mostrados-con-retraso
+locale: es
 kiStatus: Backlog
 internalReference: 615616
 ---

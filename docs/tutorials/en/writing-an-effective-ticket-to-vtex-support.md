@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: writing-an-effective-ticket-to-vtex-support
+locale: en
 legacySlug: writing-an-effective-ticket-to-vtex-support
 subcategory: 1VvCpaa8NCA6a0MK6W6oWg
 ---

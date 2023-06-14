@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: opcoes-de-montagem-sendo-ignoradas-quando-selecionadas-no-pdp-e-adicionadas-ao-carrinho
+locale: pt
 kiStatus: Fixed
 internalReference: 743529
 ---

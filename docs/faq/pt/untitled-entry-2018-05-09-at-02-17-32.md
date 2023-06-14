@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Reliability
 author: authors_4
 slug: sobre-dns
+locale: pt
 legacySlug: sobre-dns
 ---
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: vtex-do
+locale: es
 legacySlug: vtex-do
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

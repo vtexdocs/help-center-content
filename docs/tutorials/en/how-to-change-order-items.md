@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: how-to-change-order-items
+locale: en
 legacySlug: how-to-change-order-items-beta
 subcategory: 3VNOhxDrvYxJThhuJClrYZ
 ---

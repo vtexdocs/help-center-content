@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: secondary-images-title-and-alt-repeat-main-images-content
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

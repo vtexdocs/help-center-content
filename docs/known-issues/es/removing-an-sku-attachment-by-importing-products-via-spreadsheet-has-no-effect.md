@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: quitar-anexo-de-sku-por-importacion-de-productos-a-traves-de-planilla-no-surte-efecto
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

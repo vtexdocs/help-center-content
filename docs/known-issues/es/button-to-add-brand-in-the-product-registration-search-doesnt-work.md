@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: boton-de-anadir-marca-en-la-busqueda-del-registro-de-productos-no-funciona
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

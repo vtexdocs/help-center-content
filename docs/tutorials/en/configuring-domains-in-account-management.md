@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_3
 slug: configuring-domains-in-account-management
+locale: en
 legacySlug: configuring-domains-in-license-manager
 subcategory: yMp6sKDiJEi66CGAIQ4ma
 ---

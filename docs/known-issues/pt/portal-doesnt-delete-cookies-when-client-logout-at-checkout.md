@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: o-portal-nao-exclui-cookies-quando-o-cliente-faz-o-logout-no-checkout
+locale: pt
 kiStatus: Backlog
 internalReference: 417322
 ---

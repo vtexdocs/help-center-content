@@ -9,6 +9,7 @@ firstPublishedAt: 2021-02-08T20:10:36.973Z
 contentType: trackArticle
 productTeam: Channels
 slug: configuracion-del-conector-facebook
+locale: es
 trackId: 7h8KvIC4DbRRc8VlyJ8PFc
 trackSlugES: integracion-de-facebook
 ---

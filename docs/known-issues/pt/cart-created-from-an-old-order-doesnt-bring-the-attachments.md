@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-carrinho-criado-a-partir-de-um-pedido-antigo-nao-traz-os-anexos
+locale: pt
 kiStatus: Backlog
 internalReference: 802464
 ---

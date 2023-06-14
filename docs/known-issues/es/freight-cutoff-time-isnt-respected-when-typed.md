@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 3rl7f1zxpm0O8MWgKEm6Qi
 tag: Logistics
 slug: tiempo-de-corte-de-las-transportadoras-no-respectado-cuando-escrito
+locale: es
 kiStatus: Fixed
 internalReference: 
 ---

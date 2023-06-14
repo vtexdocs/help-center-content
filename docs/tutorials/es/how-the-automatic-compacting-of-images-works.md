@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_4
 slug: como-funciona-la-compactacion-automatica-de-imagenes
+locale: es
 legacySlug: como-funciona-la-compactacion-automatica-de-imagenes
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

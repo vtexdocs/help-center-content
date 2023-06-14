@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: why-is-the-order-in-the-verifying-invoice-status
+locale: en
 legacySlug: why-is-the-order-in-the-verifying-invoice-status
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

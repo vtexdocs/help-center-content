@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_59
 slug: why-has-a-transaction-been-successfully-settled-but-not-finalized-in-the-pci-gateway
+locale: en
 legacySlug: why-has-a-transaction-been-successfully-captured-but-not-finalized-in-the-pci-gateway
 ---
 

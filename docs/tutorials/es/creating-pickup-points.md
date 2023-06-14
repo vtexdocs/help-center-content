@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: registro-de-puntos-de-recogida
+locale: es
 legacySlug: como-importar-puntos-de-recogida-pickup-points-por-planilla, configurar-puntos-de-recogida-pickup-points
 subcategory: 1c5Btie9ou2Gg2iUo0ggqM
 ---

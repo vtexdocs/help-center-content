@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: authors_24
 slug: this-new-api-helps-marketplaces-avoid-losing-sales
+locale: en
 legacySlug: this-new-api-helps-marketplaces-avoid-losing-sales
 announcementImageID: ''
 announcementSynopsisEN: 'The Change Seller API gives more autonomy for marketplaces to manage their sales.'

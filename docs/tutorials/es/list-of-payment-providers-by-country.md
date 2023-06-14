@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: lista-de-proveedores-de-pago-por-pais
+locale: es
 legacySlug: lista-de-proveedores-de-pago-por-pais
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

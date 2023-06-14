@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_24
 slug: inserir-taxas-no-carrinho
+locale: pt
 legacySlug: inserir-taxas-no-carrinho
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

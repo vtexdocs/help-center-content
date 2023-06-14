@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: o-que-e-uma-app
+locale: pt
 legacySlug: o-que-e-uma-app
 subcategory: 5eBwrcLFVSwYGSOQqGKQYW
 ---

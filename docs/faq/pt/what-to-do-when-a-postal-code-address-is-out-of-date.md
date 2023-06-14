@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Others
 author: authors_3
 slug: o-que-fazer-quando-um-cep-tem-endereco-desatualizado
+locale: pt
 legacySlug: o-que-fazer-quando-um-cep-tem-endereco-desatualizado
 ---
 

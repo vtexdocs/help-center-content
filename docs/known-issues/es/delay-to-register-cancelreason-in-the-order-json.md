@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: retraso-para-registrar-cancelreason-en-el-json-del-pedido
+locale: es
 kiStatus: Backlog
 internalReference: 792650
 ---

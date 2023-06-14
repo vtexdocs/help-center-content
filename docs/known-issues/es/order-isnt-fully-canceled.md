@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-pedido-no-se-cancela-completamente
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: integration-methods-with-the-catalog-through-web-service-will-be
+locale: en
 legacySlug: integration-methods-with-the-catalog-through-web-service-will-be
 announcementImageID: ''
 announcementSynopsisEN: 'On 10/29, we will discontinue some Web Service methods for integration with the catalog.'

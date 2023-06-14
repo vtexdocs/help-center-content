@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: plantilla-de-email-transaccional-para-pedido-reembolsado
+locale: es
 legacySlug: plantilla-de-email-transaccional-para-pedido-reembolsado
 subcategory: 4D5LrWwlHGmOWMomOaaGee
 ---

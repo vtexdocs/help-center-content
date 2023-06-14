@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: what-is-an-attachment
+locale: en
 legacySlug: what-is-an-attachment
 subcategory: 1hoOi2R0Rm6ky0yCwOUoiy
 ---

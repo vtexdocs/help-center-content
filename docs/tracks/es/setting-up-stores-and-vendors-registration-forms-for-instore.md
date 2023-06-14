@@ -9,6 +9,7 @@ firstPublishedAt: 2018-03-15T21:32:23.313Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configurar-formularios-de-registro-de-tiendas-y-vendedores-para-el-instore
+locale: es
 trackId: 
 trackSlugES: 
 ---

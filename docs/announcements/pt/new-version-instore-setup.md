@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: setup-instore-nova-versao
+locale: pt
 legacySlug: setup-instore-nova-versao
 announcementImageID: ''
 announcementSynopsisPT: 'Nova versão do inStore Setup agora apresenta configurações automáticas'

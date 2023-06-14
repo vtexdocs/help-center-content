@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: para-la-deuda-con-cielov3-no-estamos-respetando-el-estado-de-la-respuesta
+locale: es
 kiStatus: Backlog
 internalReference: 367284
 ---

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_4
 tag: Portal (CMS)
 slug: produtos-permanecem-na-colecao-apos-sua-remocao
+locale: pt
 kiStatus: Fixed
 internalReference: 
 ---

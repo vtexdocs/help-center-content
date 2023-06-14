@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: how-to-set-up-your-store-on-seller-portal
+locale: en
 legacySlug: how-to-set-up-your-store-on-seller-portal
 subcategory: 4hisB47iAVZk4r3SEmMoG
 ---

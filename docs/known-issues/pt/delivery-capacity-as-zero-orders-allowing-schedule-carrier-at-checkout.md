@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: capacidade-de-entrega-como-zero-pedidos-permitindo-o-transporte-de-horarios-no-checkout
+locale: pt
 kiStatus: Scheduled
 internalReference: 471612
 ---

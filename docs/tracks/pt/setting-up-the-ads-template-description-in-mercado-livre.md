@@ -9,6 +9,7 @@ firstPublishedAt: 2018-08-13T14:27:42.464Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-template-de-descricao-dos-anuncios-no-mercado-livre
+locale: pt
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugPT: configurar-integracao-do-mercado-livre
 ---

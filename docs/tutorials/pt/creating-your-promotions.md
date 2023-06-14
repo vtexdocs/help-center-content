@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_6
 slug: criando-suas-promocoes
+locale: pt
 legacySlug: criando-suas-promocoes
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

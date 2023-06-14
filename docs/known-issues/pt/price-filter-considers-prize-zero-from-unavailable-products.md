@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog,Portal (CMS)
 slug: filtro-por-faixa-de-preco-considerando-preco-zero-de-itens-indisponiveis
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

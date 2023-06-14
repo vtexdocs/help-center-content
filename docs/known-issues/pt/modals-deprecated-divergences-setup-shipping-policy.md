@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: modais-configuracao-de-divergencias-deprecated-divergences-politica-de-embarque
+locale: pt
 kiStatus: Scheduled
 internalReference: 445866
 ---

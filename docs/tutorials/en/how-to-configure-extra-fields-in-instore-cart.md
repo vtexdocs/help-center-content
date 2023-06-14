@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 3uCjaRpzeMieQWwWycYAMG
 slug: how-to-configure-extra-fields-in-instore-cart
+locale: en
 legacySlug: how-to-configure-extra-fields-in-instore-cart
 subcategory: 4T6qfa6gNO6g4sAUIa6s2G
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_31
 slug: programa-partner-manual-de-intranet-y-vtex-store
+locale: es
 legacySlug: programa-partner-manual-de-intranet-y-vtex-store
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---

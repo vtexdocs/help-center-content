@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: transaction-stuck-on-approved-with-nps-connector-due-to-pspresponsecod-in-settlement-response
+locale: en
 kiStatus: Backlog
 internalReference: 557051
 ---

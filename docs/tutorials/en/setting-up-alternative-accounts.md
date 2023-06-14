@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_84
 slug: setting-up-alternative-accounts
+locale: en
 legacySlug: setting-up-alternative-accounts
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

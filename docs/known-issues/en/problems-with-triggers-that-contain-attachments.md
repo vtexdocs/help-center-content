@@ -11,6 +11,7 @@ productTeam: Master Data
 author: TnXcuQydAAOuwWACo864E
 tag: Master Data
 slug: problems-with-triggers-that-contain-attachments
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

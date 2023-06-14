@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: request-deletion-of-customer-personal-data-under-international-data-privacy
+locale: en
 legacySlug: request-deletion-of-customer-personal-data-under-international-data-privacy
 subcategory: 6uJgdHqWf1Mo0rUfgxseTn
 ---

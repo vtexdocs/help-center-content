@@ -11,6 +11,7 @@ productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
 slug: o-aplicativo-de-permissoes-do-storefront-define-documenttype-como-cpf
+locale: pt
 kiStatus: Fixed
 internalReference: 798330
 ---

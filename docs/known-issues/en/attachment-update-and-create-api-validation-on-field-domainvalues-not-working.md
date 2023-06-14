@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: attachment-update-and-create-api-validation-on-field-domainvalues-not-working
+locale: en
 kiStatus: Backlog
 internalReference: 751091
 ---

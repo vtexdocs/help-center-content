@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: confirmar-a-propriedade-da-sua-loja-no-google-webmaster-tools
+locale: pt
 legacySlug: confirmar-a-propriedade-da-sua-loja-no-google-webmaster-tools
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: como-se-calcula-el-costo-de-envio-cuando-hay-un-item-con-promocion-de-envio-en-el-carrito
+locale: es
 legacySlug: como-se-calcula-el-costo-de-envio-cuando-hay-un-item-con-promocion-de-envio-en-el-carrito
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

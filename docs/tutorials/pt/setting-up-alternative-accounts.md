@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_84
 slug: configurando-contas-alternativas
+locale: pt
 legacySlug: configurando-contas-alternativas
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

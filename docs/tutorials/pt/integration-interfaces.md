@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: interfaces-de-integracao
+locale: pt
 legacySlug: interfaces-de-integracao
 subcategory: 1vwB9FtTSQmcSewQw02QoW
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_24
 slug: como-vejo-um-ranking-dos-produtos-mais-vendidos
+locale: pt
 legacySlug: como-vejo-um-ranking-dos-produtos-mais-vendidos
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

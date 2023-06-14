@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_4
 slug: botao-de-upload-de-arquivos-nao-aparece-no-cms
+locale: pt
 legacySlug: botao-de-upload-de-arquivos-nao-aparece-no-cms
 ---
 

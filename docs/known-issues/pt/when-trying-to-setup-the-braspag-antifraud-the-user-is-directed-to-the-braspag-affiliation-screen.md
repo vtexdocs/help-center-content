@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: ao-tentar-configurar-a-braspag-antifraude-o-usuario-e-direcionado-para-a-tela-de-afiliacao-da-braspag
+locale: pt
 kiStatus: Backlog
 internalReference: 334239
 ---

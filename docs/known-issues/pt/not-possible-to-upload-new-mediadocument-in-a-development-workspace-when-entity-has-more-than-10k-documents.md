@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: nao-e-possivel-fazer-upload-de-novas-midiasdocumentos-em-um-espaco-de-trabalho-de-desenvolvimento-quando-a-entidade-tem-mais-de-10-mil-documentos
+locale: pt
 kiStatus: Backlog
 internalReference: 795940
 ---

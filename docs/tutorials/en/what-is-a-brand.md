@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: what-is-a-brand
+locale: en
 legacySlug: what-is-a-brand
 subcategory: fUHfjTEwyOcIQuyeUsIIu
 ---

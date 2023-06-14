@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 slug: stripe-plataforma-de-pagamentos-agora-disponivel-para-clientes-vtex
+locale: pt
 legacySlug: stripe-plataforma-de-pagamentos-agora-disponivel-para-clientes-vtex
 announcementImageID: ''
 announcementSynopsisPT: 'Processe suas vendas com uma das maiores plataformas de pagamento da atualidade'

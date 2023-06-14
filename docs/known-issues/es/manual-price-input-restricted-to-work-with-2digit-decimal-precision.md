@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-introduccion-manual-de-precios-se-limita-a-trabajar-con-una-precision-decimal-de-2-digitos
+locale: es
 kiStatus: Backlog
 internalReference: 627719
 ---

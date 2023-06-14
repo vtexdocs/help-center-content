@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: criacaoedicao-de-tipo-de-lista-nao-esta-funcionando
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

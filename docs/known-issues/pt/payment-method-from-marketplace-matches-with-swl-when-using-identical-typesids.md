@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: o-metodo-de-pagamento-do-marketplace-combina-com-o-swl-ao-utilizar-tipos-identicosids
+locale: pt
 kiStatus: Backlog
 internalReference: 402140
 ---

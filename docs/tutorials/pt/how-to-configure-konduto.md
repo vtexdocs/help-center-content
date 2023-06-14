@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: configurando-konduto
+locale: pt
 legacySlug: configurando-konduto
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

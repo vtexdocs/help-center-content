@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: alterar-a-ordem-de-uma-especificacao-de-sku-no-admin-pode-fazer-a-pagina-nao-funcionar-corretamente
+locale: pt
 kiStatus: Backlog
 internalReference: 460329
 ---

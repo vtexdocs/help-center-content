@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_24
 slug: inserting-taxes-in-the-cart
+locale: en
 legacySlug: inserting-taxes-in-the-cart
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

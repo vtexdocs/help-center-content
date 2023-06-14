@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: problemas-con-el-menu-desplegable-al-mostrar-todos-los-elementos
+locale: es
 kiStatus: Backlog
 internalReference: 542091
 ---

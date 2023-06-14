@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: las-notas-no-se-muestran-en-la-interfaz-de-usuario-de-los-pedidos-cuando-se-supera-el-limite
+locale: es
 kiStatus: Backlog
 internalReference: 514992
 ---

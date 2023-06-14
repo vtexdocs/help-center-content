@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:33:41.637Z
 contentType: trackArticle
 productTeam: Identity
 slug: configurar-inicio-de-sesion-con-facebook
+locale: es
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugES: contas-e-permissoes
 ---
@@ -27,7 +28,7 @@ Después de la configuración en Facebook, es necesario configurar esta opción 
 1.  En el módulo de **Configuración de la cuenta**, acceda a la pestaña de **Autenticación**.
 2.  Haga clic en el botón **Editar** correspondiente a Facebook.
 3.  Rellene los campos con el _Client Id_ y _Client Secret_ registrados en **Facebook**.
-    ![Facebook OAuth ES](//images.ctfassets.net/alneenqid6w5/2mWEocn4zdG0BJVMaujzk8/ffc13a1eb81a285feea15e78a72342b9/facebook_ES.png)
+    ![Facebook OAuth ES](https://images.ctfassets.net/alneenqid6w5/2mWEocn4zdG0BJVMaujzk8/ffc13a1eb81a285feea15e78a72342b9/facebook_ES.png)
 4.  Haga clic en el botón **Salvar**. 
 5.  Para validar si el inicio de sesión se hizo correctamente, acceda al  front-end de su tienda y haga clic en **Login**.
 6. Aparecerán las opciones de inicio de sesión configuradas. Haga clic en la opción **Facebook** y compruebe si se muestra el nombre de su tienda.

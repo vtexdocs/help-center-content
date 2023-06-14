@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_39
 slug: transacionar-pedido-recorrente-por-tokenizacao-do-cartao
+locale: pt
 legacySlug: transacionar-pedido-recorrente-por-tokenizacao-do-cartao
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---

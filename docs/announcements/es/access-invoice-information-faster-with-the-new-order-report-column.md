@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 6AcGyun1hSWewU8YcaQiO
 slug: gane-facilidad-para-acceder-a-informaciones-de-factura-con-la-nueva-columna-del-informe-de-pedidos
+locale: es
 legacySlug: gane-facilidad-para-acceder-a-informaciones-de-factura-con-la-nueva-columna-del-informe-de-pedidos
 announcementImageID: ''
 announcementSynopsisES: 'El informe de exportación de pedidos ahora trae los datos de factura en la nueva columna Invoice Number'

@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_41
 tag: OMS
 slug: descontos-em-compras-de-recorrencias-v1-sendo-considerados-como-manual
+locale: pt
 kiStatus: Open
 internalReference: 
 ---

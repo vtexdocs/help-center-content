@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 
 slug: novo-objeto-retornado-na-api-get-order-cancelreason
+locale: pt
 legacySlug: novo-objeto-retornado-na-api-get-order-cancelreason
 announcementImageID: ''
 announcementSynopsisPT: ''

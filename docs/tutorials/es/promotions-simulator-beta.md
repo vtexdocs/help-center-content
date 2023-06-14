@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: simulador-de-promociones-beta
+locale: es
 legacySlug: simulador-de-promociones-beta
 subcategory: 6iTRZiMeCGXYiO2ckABFZi
 ---
@@ -57,7 +58,7 @@ La herramienta cuenta con una barra de búsqueda para encontrar promociones por 
 
 Al hacer clic en cada producto, podrás ver más información sobre las promociones que se pueden aplicar, detalles de tu selección y la condición para activarlas.
 
-![simuladordepromocoes acessar](//images.ctfassets.net/alneenqid6w5/7piR33ciR1x0givnQyxbk7/cdb47a1c812d3fa244aeb6127be100ee/simuladordepromocoes_acessar.gif)
+![simuladordepromocoes acessar](https://images.ctfassets.net/alneenqid6w5/7piR33ciR1x0givnQyxbk7/cdb47a1c812d3fa244aeb6127be100ee/simuladordepromocoes_acessar.gif)
 
 Una vez configurado Cartman, sigue los pasos a continuación para acceder al Simulador de promociones:
 
@@ -85,7 +86,7 @@ Si deseas simular una nueva promoción o gestionar las promociones existentes, d
 
 Podrás ver todas las promociones activas, pausadas, programadas o completadas en el carrito. De esta manera, podrás probar un estado futuro de la tienda.
 
-![simuladordepromocoes gerenciar](//images.ctfassets.net/alneenqid6w5/6J3Bp4YcEZ6V5cgVj4dnhM/c0a6896fcec1bb0cf3bbc6ea3362d19f/simuladordepromocoes_gerenciar.gif)
+![simuladordepromocoes gerenciar](https://images.ctfassets.net/alneenqid6w5/6J3Bp4YcEZ6V5cgVj4dnhM/c0a6896fcec1bb0cf3bbc6ea3362d19f/simuladordepromocoes_gerenciar.gif)
 
 Para probar una promoción, sigue los pasos a continuación:
 

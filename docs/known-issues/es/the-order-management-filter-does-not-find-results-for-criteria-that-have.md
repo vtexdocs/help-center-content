@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 30TBnJ838LXSZvdJFlcB8H
 tag: Logistics
 slug: el-filtro-de-gestion-de-pedidos-no-devuelve-resultados-para-los-criterios
+locale: es
 kiStatus: Backlog
 internalReference: Zendesk Ticket #353656
 ---

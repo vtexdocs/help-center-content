@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: planilha-de-pedidos
+locale: pt
 legacySlug: planilha-de-pedidos
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

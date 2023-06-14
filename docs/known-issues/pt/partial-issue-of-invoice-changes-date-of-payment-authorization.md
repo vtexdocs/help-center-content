@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: D0eIlynYFqaWQOMM6mmY6
 tag: Order Management
 slug: emissao-parcial-de-nota-fiscal-altera-data-de-autorizacao-do-pagamento
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

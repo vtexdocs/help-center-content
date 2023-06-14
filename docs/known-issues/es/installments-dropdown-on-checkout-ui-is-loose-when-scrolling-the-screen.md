@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: el-menu-desplegable-de-las-cuotas-en-la-interfaz-de-compra-esta-suelto-cuando-se-desplaza-la-pantalla
+locale: es
 kiStatus: Backlog
 internalReference: 540257
 ---

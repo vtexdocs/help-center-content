@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: responsivo-x-versao-mobile
+locale: pt
 legacySlug: responsivo-x-versao-mobile
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

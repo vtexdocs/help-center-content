@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: authors_24
 slug: el-flag-de-newsletter-del-checkout-ahora-vendra-deseleccionado-por-defecto
+locale: es
 legacySlug: el-flag-de-newsletter-del-checkout-ahora-vendra-deseleccionado-por-defecto
 announcementImageID: ''
 announcementSynopsisES: 'El flag de newsletter del Checkout ahora vendrá deseleccionado. Si usted personaliza el flag, comprenda el cambio.'

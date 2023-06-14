@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: services-scheduling
+locale: en
 legacySlug: services-scheduling
 subcategory: 7GypxQ3HDmFVCHTNTwyhr0
 ---

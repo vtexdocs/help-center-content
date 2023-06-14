@@ -9,6 +9,7 @@ firstPublishedAt: 2022-03-08T18:28:59.554Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: shipping-costs-and-simulation
+locale: en
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugEN: logistics-101
 ---

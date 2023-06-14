@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_4
 tag: Order Management
 slug: reserved-stock-in-invoiced-orders
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

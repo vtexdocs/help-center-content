@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog,Portal (CMS)
 slug: filtro-de-precio-esta-considerando-precio-cero-de-productos-indisponibles
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

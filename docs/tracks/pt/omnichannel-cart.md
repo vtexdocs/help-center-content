@@ -9,6 +9,7 @@ firstPublishedAt: 2021-08-05T14:46:03.255Z
 contentType: trackArticle
 productTeam: Shopping
 slug: carrinho-omnichannel
+locale: pt
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugPT: instore-usando-o-app
 ---

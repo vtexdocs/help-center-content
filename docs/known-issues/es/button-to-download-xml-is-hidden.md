@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: boton-de-download-de-xml-no-se-muestra
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_84
 slug: where-can-i-see-my-mercado-pago-transparente-credentials
+locale: en
 legacySlug: 
 ---
 

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_4
 slug: ativar-https-em-todo-o-site
+locale: pt
 legacySlug: ativar-https-em-todo-o-site
 subcategory: 6uJgdHqWf1Mo0rUfgxseTn
 ---

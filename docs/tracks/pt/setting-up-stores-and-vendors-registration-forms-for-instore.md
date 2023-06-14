@@ -9,6 +9,7 @@ firstPublishedAt: 2018-03-15T21:32:23.313Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configurar-formularios-de-cadastro-de-lojas-e-vendedores-para-o-instore
+locale: pt
 trackId: 
 trackSlugPT: 
 ---

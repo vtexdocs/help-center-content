@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 245tA425AIeioKAk2eaiwS
 slug: que-hacer-cuando-aparece-un-mensaje-de-error-inesperado-al-seleccionar
+locale: es
 legacySlug: que-hacer-cuando-aparece-un-mensaje-de-error-inesperado-al-seleccionar
 ---
 

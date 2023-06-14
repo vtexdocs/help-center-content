@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: gerenciamento-de-servicos
+locale: pt
 legacySlug: gerenciamento-de-servicos
 subcategory: 7GypxQ3HDmFVCHTNTwyhr0
 ---

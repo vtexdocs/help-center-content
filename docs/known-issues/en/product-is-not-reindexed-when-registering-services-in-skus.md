@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: product-is-not-reindexed-when-registering-services-in-skus
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

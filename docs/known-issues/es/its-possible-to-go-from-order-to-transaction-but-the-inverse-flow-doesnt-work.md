@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: es-posible-pasar-de-la-orden-a-la-transaccion-pero-el-flujo-inverso-no-funciona
+locale: es
 kiStatus: Backlog
 internalReference: 393483
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 6AcGyun1hSWewU8YcaQiO
 slug: orders-management-feed-v3-setup
+locale: en
 legacySlug: orders-management-feed-v3
 subcategory: 3Y8xzVGMXcuPTuzfFI0vUp
 ---

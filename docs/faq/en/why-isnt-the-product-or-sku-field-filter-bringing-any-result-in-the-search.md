@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: why-isnt-the-product-or-sku-field-filter-bringing-any-result-in-the-search
+locale: en
 legacySlug: why-isnt-the-product-or-sku-field-filter-bringing-any-result-in-the-search
 ---
 

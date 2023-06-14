@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: incapaz-de-pausar-o-vendedor
+locale: pt
 kiStatus: Fixed
 internalReference: 682151
 ---

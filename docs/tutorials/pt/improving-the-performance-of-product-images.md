@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_65
 slug: melhorando-a-performance-de-imagens-do-site
+locale: pt
 legacySlug: melhorando-a-performance-de-imagens-do-site
 subcategory: pwxWmUu7T222QyuGogs68
 ---

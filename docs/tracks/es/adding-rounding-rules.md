@@ -9,6 +9,7 @@ firstPublishedAt: 2019-07-17T19:47:09.101Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: registrar-redondeo-de-precios
+locale: es
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugES: precios-101
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2018-06-14T16:13:34.130Z
 contentType: trackArticle
 productTeam: VTEX IO
 slug: hacer-link
+locale: es
 trackId: 2qYWraccosS2ayg2kusaUo
 trackSlugES: vtex-io-getting-started
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: vision-general-envio
+locale: es
 legacySlug: vision-general-envio
 subcategory: 63f22GypJIBLnMGh1QZUi0
 ---

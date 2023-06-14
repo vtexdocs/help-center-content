@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: meli-kit-integracao-de-estoque
+locale: pt
 kiStatus: Backlog
 internalReference: 489220
 ---

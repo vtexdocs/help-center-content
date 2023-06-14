@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_2
 slug: quais-transportadoras-disponibilizam-o-rastreio-de-frete
+locale: pt
 legacySlug: quais-transportadoras-disponibilizam-o-rastreio-de-frete
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

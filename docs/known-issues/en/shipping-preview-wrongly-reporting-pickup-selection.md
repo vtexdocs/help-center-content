@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: shipping-preview-wrongly-reporting-pickup-selection
+locale: en
 kiStatus: Backlog
 internalReference: 552912
 ---

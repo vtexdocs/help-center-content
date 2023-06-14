@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T15:34:21.331Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configurar-el-adquirente-pagar-me-para-el-instore
+locale: es
 trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugES: configurar-el-adquirente-pagar-me-para-el-instore
 ---

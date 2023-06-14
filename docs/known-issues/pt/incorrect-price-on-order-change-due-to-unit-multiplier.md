@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: preco-incorreto-na-mudanca-de-pedido-devido-ao-multiplicador-de-unidade
+locale: pt
 kiStatus: Fixed
 internalReference: 371066
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: authors_24
 slug: login-da-vtex-agora-tem-recaptcha
+locale: pt
 legacySlug: login-da-vtex-agora-tem-recaptcha
 announcementImageID: ''
 announcementSynopsisPT: 'O login da VTEX por meio de e-mail e senha agora conta com reCAPTCHA'

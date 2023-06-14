@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-o-peso-cubado-e-calculado
+locale: pt
 legacySlug: como-o-peso-cubado-e-calculado
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

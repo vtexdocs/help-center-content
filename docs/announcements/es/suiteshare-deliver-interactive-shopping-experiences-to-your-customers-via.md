@@ -9,6 +9,7 @@ contentType: updates
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: suiteshare-ofrezca-experiencias-de-compra-interactivas-a-sus-clientes-a
+locale: es
 legacySlug: suiteshare-ofrezca-experiencias-de-compra-interactivas-a-sus-clientes-a
 announcementImageID: ''
 announcementSynopsisES: 'VTEX App Store ofrece la integración con la plataforma de ventas y servicio al cliente a través de WhatsApp, Suiteshare.'

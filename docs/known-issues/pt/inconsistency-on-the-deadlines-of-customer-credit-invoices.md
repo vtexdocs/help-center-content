@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: inconsistencia-sobre-os-prazos-das-faturas-de-credito-ao-cliente
+locale: pt
 kiStatus: Backlog
 internalReference: 331279
 ---

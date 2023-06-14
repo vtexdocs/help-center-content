@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: terminos-del-bot-de-google-que-aparecen-en-los-resultados
+locale: es
 kiStatus: Backlog
 internalReference: 627537
 ---

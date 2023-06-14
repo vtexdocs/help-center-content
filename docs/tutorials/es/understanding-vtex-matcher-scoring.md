@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 245tA425AIeioKAk2eaiwS
 slug: como-funcionan-los-puntos-del-vtex-matcher
+locale: es
 legacySlug: como-funcionan-los-puntos-del-vtex-matcher
 subcategory: znvlXLHC80EKkugQaiMI4
 ---

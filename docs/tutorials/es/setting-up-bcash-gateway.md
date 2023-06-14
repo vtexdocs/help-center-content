@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-gateway-bcash
+locale: es
 legacySlug: configurar-gateway-bcash
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

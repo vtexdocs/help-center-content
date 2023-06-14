@@ -11,6 +11,7 @@ productTeam: Master Data
 author: TnXcuQydAAOuwWACo864E
 tag: Master Data
 slug: problemas-com-triggers-contendo-anexos
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

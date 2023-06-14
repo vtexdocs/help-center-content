@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: restablecer-la-configuracion-de-la-aplicacion-de-autenticacion-de-dos
+locale: es
 legacySlug: restablecer-la-configuracion-de-la-aplicacion-de-autenticacion-de-dos
 subcategory: 4sY1T2qdFehvVmC0tL5xW3
 ---

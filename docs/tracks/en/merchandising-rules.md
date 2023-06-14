@@ -9,6 +9,7 @@ firstPublishedAt: 2020-03-05T19:58:55.021Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: merchandising-rules
+locale: en
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search
 ---
@@ -31,7 +32,7 @@ On VTEX Admin, the page **Storefront** > **Intelligent Search** > **Merchandisin
 * [Edit](#editing-merchandising-rules)
 * [Delete](#deleting-merchandising-rules)
 
-![manage merchandising rules-en](//images.ctfassets.net/alneenqid6w5/4RIkVevSJArI3LhEHjELHu/6a9a5125d69d32a448f22619ec8ad04e/image.png)
+![manage merchandising rules-en](https://images.ctfassets.net/alneenqid6w5/4RIkVevSJArI3LhEHjELHu/6a9a5125d69d32a448f22619ec8ad04e/image.png)
 
 The page displays the following information: 
 

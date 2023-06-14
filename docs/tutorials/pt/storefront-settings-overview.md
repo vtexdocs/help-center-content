@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 4oTZzwYoyhy1tDBwLuemdG
 slug: visao-geral-configuracoes-de-storefront
+locale: pt
 legacySlug: visao-geral-configuracoes-de-storefront
 subcategory: 7ogirQ8NClawO2X6xdgCKc
 ---

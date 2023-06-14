@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_41
 tag: Checkout,Message Center,Order Management
 slug: inconsistencia-na-data-dos-emails-transacionais-de-pedidos-fechados-depois
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

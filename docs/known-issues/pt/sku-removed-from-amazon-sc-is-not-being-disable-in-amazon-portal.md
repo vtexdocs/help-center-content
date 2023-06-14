@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: a-sku-removida-do-amazon-sc-nao-esta-sendo-desabilitada-no-amazon-portal
+locale: pt
 kiStatus: Backlog
 internalReference: 827760
 ---

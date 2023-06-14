@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: how-to-choose-the-type-of-interest-for-a-payment-condition
+locale: en
 legacySlug: how-to-choose-the-type-of-interest-for-a-payment-condition
 subcategory: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---

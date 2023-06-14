@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: el-articulo-anadido-a-la-orden-de-modificacion-se-encuentra-en-otro-paquete-despues-de-facturarse
+locale: es
 kiStatus: Backlog
 internalReference: 412526
 ---

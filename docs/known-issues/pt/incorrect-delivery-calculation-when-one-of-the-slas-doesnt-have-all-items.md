@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: calculo-incorreto-de-entrega-quando-um-dos-slas-nao-possui-todos-os-itens
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

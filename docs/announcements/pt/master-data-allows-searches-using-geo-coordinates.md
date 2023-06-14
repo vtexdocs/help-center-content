@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 
 slug: master-data-permite-buscas-com-coordenadas-geograficas
+locale: pt
 legacySlug: 
 announcementImageID: ''
 announcementSynopsisPT: 'Nova funcionalidade (em beta) permite usar filtros e ordenar documentos com base na posição geográfica.'

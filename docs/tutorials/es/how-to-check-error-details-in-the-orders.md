@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_37
 slug: como-verificar-detalles-de-errores-en-los-pedidos
+locale: es
 legacySlug: como-verificar-detalles-de-errores-en-los-pedidos
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

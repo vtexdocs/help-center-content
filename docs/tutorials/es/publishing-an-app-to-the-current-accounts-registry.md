@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: publicar-una-app-en-el-registro-de-la-cuenta-actual
+locale: es
 legacySlug: publicar-la-app-en-el-registro-de-la-cuenta-actual
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

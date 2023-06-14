@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: lean-shipping-sustituye-el-metodo-de-envio-preferido-por-el-usuario-por-la-opcion-mas-barata-en-diferentes-sesionesnavegadores
+locale: es
 kiStatus: Backlog
 internalReference: 607411
 ---

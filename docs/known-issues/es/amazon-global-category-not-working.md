@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: la-categoria-global-de-amazon-no-funciona
+locale: es
 kiStatus: Backlog
 internalReference: 634199
 ---

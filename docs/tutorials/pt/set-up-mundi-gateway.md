@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 3lcZDoqCF7Q4hYHye4y1YM
 slug: configurar-gateway-mundi
+locale: pt
 legacySlug: configurar-gateway-mundi
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

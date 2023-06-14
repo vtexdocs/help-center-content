@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
 tag: Catalog
 slug: erro-ao-importar-planilha-de-imagens-de-produto
+locale: pt
 kiStatus: Backlog
 internalReference: 697200
 ---

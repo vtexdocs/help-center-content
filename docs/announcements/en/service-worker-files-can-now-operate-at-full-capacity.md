@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: service-worker-files-can-now-operate-at-full-capacity
+locale: en
 legacySlug: service-worker-files-can-now-operate-at-full-capacity
 announcementImageID: ''
 announcementSynopsisEN: 'In this new platform update, Service Worker files can now intercept requests from all parts of your store.'

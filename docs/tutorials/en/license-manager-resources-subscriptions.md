@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: license-manager-resources-subscriptions
+locale: en
 legacySlug: license-manager-resources-subscriptions
 subcategory: 1HSqkejwuYcQSMC400uY84
 ---

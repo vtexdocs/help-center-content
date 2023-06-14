@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: setting-up-payments-with-promissory
+locale: en
 legacySlug: setting-up-payments-with-promissory
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

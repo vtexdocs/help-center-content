@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: configurar-pago-con-paypal
+locale: es
 legacySlug: configurar-pago-con-paypal
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

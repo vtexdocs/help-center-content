@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: the-save-new-card-option-does-not-work-for-asynchronous-payment-providers
+locale: en
 kiStatus: Backlog
 internalReference: 308892
 ---

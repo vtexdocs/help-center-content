@@ -9,6 +9,7 @@ firstPublishedAt: 2023-04-03T18:28:34.244Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: condicoes-de-regras-de-merchandising
+locale: pt
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugPT: vtex-intelligent-search
 ---

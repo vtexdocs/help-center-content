@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: anapro-suiteshare
+locale: es
 legacySlug: anapro
 subcategory: 4y4ylvqceE6vVqEF8IWZix
 ---

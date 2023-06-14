@@ -9,6 +9,7 @@ firstPublishedAt: 2020-10-20T19:53:25.808Z
 contentType: trackArticle
 productTeam: Channels
 slug: mapeamento-de-categorias-e-atributos-da-centauro
+locale: pt
 trackId: D8Qnjbr5lfLkUfMRhsfbj
 trackSlugPT: mapeamento-de-categorias-e-atributos-da-centauro
 ---

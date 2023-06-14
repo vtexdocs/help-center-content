@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: el-portal-mantiene-las-utms-despues-de-cerrar-la-sesion-cuando-se-utiliza-callcenter-operator
+locale: es
 kiStatus: No Fix
 internalReference: 534838
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_59
 slug: por-que-no-recibo-los-correos-electronicos-de-vtex
+locale: es
 legacySlug: por-que-no-recibo-los-correos-electronicos-de-vtex
 ---
 

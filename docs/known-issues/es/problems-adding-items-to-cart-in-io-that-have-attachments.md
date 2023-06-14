@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: problemas-para-anadir-articulos-al-carrito-en-io-que-tienen-adjuntos
+locale: es
 kiStatus: Backlog
 internalReference: 429724
 ---

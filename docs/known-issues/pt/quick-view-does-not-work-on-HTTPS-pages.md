@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_4
 tag: Portal (CMS)
 slug: quick-view-nao-funciona-em-paginas-https
+locale: pt
 kiStatus: Fixed
 internalReference: 
 ---

@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: b2w-el-estado-del-seguimiento-no-se-actualiza-en-skyhub
+locale: es
 kiStatus: Backlog
 internalReference: 673597
 ---

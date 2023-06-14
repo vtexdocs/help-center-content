@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: product-registration-fields
+locale: en
 legacySlug: product-registration-fields
 subcategory: pwxWmUu7T222QyuGogs68
 ---

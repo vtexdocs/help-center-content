@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: peso-cadastrado-no-kit-via-api-nao-e-visivel-na-interface
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

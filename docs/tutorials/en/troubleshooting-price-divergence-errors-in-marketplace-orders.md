@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: troubleshooting-price-divergence-errors-in-marketplace-orders
+locale: en
 legacySlug: resolution-of-price-divergence-errors-in-marketplace-integration-orders
 subcategory: 5m1qqfnmfYKsO0KiOQC8Ky
 ---

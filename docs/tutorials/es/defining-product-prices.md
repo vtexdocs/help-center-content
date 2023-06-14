@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_6
 slug: registrando-precios-de-productos
+locale: es
 legacySlug: registrando-precios-de-productos
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---

@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: orders-with-items-on-array-marketplaceitems-is-not-opening-on-new-ui-admin
+locale: en
 kiStatus: Backlog
 internalReference: 656821
 ---

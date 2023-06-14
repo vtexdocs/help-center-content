@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: que-son-utm-source-utm-campaign-y-utm-medium
+locale: es
 legacySlug: que-son-utm-source-utm-campaign-y-utm-medium
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

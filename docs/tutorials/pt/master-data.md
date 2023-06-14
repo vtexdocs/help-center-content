@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: master-data
+locale: pt
 legacySlug: o-que-e-o-master-data
 subcategory: 1l3IVVYwrrG5YOtdt7R2SN
 ---
@@ -231,7 +232,7 @@ Com a v2 do Master Data, você pode definir formatos de dados com JSON schemas. 
 
 Você pode salvar um documento em qualquer entidade de dados se o conteúdo for um JSON válido. Uma entidade de dados pode ou não ter múltiplos JSON schemas associados.
 
-![Master Data schemas](//images.ctfassets.net/alneenqid6w5/CaidhUAHIxcwas8eWLQZu/908c8b04ea9e32271a494eeb0f2f7a56/schemas_pt.jpg)
+![Master Data schemas](https://images.ctfassets.net/alneenqid6w5/CaidhUAHIxcwas8eWLQZu/908c8b04ea9e32271a494eeb0f2f7a56/schemas_pt.jpg)
 
 <div class = "alert alert-info">
 Um documento pode ser compatível com múltiplos JSON Schemas, mas também com nenhum.

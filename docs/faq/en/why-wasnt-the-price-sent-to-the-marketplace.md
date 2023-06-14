@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: why-wasnt-the-price-sent-to-the-marketplace
+locale: en
 legacySlug: why-wasnt-the-price-sent-to-the-marketplace
 ---
 

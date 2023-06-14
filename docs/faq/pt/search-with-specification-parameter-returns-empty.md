@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: busca-com-parametro-de-especificacao-retorna-busca-vazia-o-que-fazer
+locale: pt
 legacySlug: busca-com-parametro-de-especificacao-retorna-busca-vazia-o-que-fazer
 ---
 

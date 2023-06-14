@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_84
 tag: Order Management,My Orders
 slug: my-orders-orders-are-not-separated-by-store
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

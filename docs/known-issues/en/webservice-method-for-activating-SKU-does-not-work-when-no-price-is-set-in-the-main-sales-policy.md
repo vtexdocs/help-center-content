@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 5S2MYtrgEoSGaGMqsICaEC
 tag: Web Service
 slug: webservice-method-for-activating-SKU-does-not-work-when-no-price-is-set-in-the-main-sales-policy
+locale: en
 kiStatus: Fixed
 internalReference: 
 ---

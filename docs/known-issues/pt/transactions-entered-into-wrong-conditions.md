@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: transacoes-realizadas-em-condicoes-erradas
+locale: pt
 kiStatus: Backlog
 internalReference: 392666
 ---

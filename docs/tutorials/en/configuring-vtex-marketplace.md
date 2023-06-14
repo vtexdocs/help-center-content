@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: configuring-vtex-marketplace
+locale: en
 legacySlug: setting-up-vtex-marketplace
 subcategory: 5tlIjp0ZkAU4EIk4OgyEmm
 ---

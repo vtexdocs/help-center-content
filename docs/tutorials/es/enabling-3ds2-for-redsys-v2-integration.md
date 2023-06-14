@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: anadir-soporte-a-3ds2-en-la-integracion-con-redsys-v2
+locale: es
 legacySlug: anadir-soporte-a-3ds2-en-la-integracion-con-redsys-v2
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
@@ -32,6 +33,6 @@ En este tutorial, le explicaremos cómo realizar esta integración a través del
 4. Desplácese hacia abajo y active la opción __3DS Enabled__. 
 5. Haga clic en __Salva__.
 
-![RedsysV2 ES](//images.ctfassets.net/alneenqid6w5/9Ee9cJHkCY2NQy6AAwsr5/6e85fe90224d28365930fe21c4c673aa/Redsys_3DS2_-_ES.png)
+![RedsysV2 ES](https://images.ctfassets.net/alneenqid6w5/9Ee9cJHkCY2NQy6AAwsr5/6e85fe90224d28365930fe21c4c673aa/Redsys_3DS2_-_ES.png)
 
 Una vez hecho esto, la solución se habilitará para las transacciones con tarjeta de crédito de Redsýs.

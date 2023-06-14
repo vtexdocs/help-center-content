@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: deliveries-progress-vtex-shipping-network
+locale: en
 legacySlug: deliveries-progress-vtex-log
 subcategory: 5n5MnINzWTQUX1I2EZl4Ib
 ---

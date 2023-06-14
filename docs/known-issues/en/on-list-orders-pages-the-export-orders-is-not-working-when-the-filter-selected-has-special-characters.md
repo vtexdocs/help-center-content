@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: on-list-orders-pages-the-export-orders-is-not-working-when-the-filter-selected-has-special-characters
+locale: en
 kiStatus: Backlog
 internalReference: 662821
 ---

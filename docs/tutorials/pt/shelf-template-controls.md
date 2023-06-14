@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: controles-do-template-de-prateleira
+locale: pt
 legacySlug: controles-do-template-de-prateleira
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

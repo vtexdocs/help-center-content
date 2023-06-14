@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: cartao-salvo-de-marca-compartilhada-com-identificacao-incorreta-do-sistema-de-pagamento
+locale: pt
 kiStatus: Backlog
 internalReference: 833400
 ---

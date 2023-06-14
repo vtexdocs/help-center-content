@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-interfaz-de-pago-sobrescribe-el-destinatario-del-envio-cuando-el-nombre-es-diferente-de-los-datos-del-perfil
+locale: es
 kiStatus: Fixed
 internalReference: 822670
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: warehouse-data-entry-fields
+locale: en
 legacySlug: warehouse-data-entry-fields
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

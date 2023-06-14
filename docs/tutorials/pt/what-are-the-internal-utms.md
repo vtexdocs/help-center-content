@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: o-que-sao-as-utms-internas-utmi-cp-utmi-pc-e-utmi-p
+locale: pt
 legacySlug: o-que-sao-as-utms-internas-utmi_cp-utmi_pc-e-utmi-p
 subcategory: 7ogirQ8NClawO2X6xdgCKc
 ---

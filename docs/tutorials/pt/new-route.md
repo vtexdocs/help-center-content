@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: nova-rota
+locale: pt
 legacySlug: nova-rota
 subcategory: 6a36lWUX5znjBVYTrfc29x
 ---
@@ -94,5 +95,5 @@ Remover entregas clicando  no __X__ à direta da entrega.
 Só é possível editar uma rota se ela ainda estiver no status Ativo. Não é indicado alterar uma rota se ela já foi iniciada - isso pode causar inconsistências na plataforma do VTEX Tracking e no aplicativo do portador.
 </div>
 
-![Cadastro de nova rota](//images.ctfassets.net/alneenqid6w5/3m2JhopNd3vcscWEOYSnvn/f739888039df88f13fc7bcab16325253/Nova_Rota.gif)
+![Cadastro de nova rota](https://images.ctfassets.net/alneenqid6w5/3m2JhopNd3vcscWEOYSnvn/f739888039df88f13fc7bcab16325253/Nova_Rota.gif)
 

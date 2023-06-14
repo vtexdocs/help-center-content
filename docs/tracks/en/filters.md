@@ -9,6 +9,7 @@ firstPublishedAt: 2020-03-05T19:54:44.962Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: filters
+locale: en
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search
 ---

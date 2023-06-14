@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: categorias-globais-em-catalogo-desatualizadas-em-comparacao-com-o-google
+locale: pt
 kiStatus: Backlog
 internalReference: 754062
 ---

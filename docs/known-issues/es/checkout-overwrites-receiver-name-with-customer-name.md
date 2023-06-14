@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-pago-sobrescribe-el-nombre-del-receptor-con-el-nombre-del-cliente
+locale: es
 kiStatus: Backlog
 internalReference: 324792
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: authors_24
 slug: now-its-possible-to-add-300-itens-in-a-single-cart
+locale: en
 legacySlug: now-its-possible-to-add-300-itens-in-a-single-cart
 announcementImageID: ''
 announcementSynopsisEN: ' Versions 5 and 6 of the shopping cart now support big orders while keeping the performance of your store.'

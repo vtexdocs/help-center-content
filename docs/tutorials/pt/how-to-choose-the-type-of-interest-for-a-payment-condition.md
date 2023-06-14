@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: como-escolher-o-tipo-de-juros-de-uma-condicao-de-pagamento
+locale: pt
 legacySlug: como-escolher-o-tipo-de-juros-de-uma-condicao-de-pagamento
 subcategory: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---

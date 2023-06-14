@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: calendario-en-ingles-para-tiendas-en-espanol
+locale: es
 kiStatus: Backlog
 internalReference: 412426
 ---

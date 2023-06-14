@@ -9,6 +9,7 @@ firstPublishedAt: 2022-04-18T11:51:17.410Z
 contentType: trackArticle
 productTeam: Channels
 slug: compatibilidade-e-requisitos-para-a-integracao
+locale: pt
 trackId: 1r0yJSO11nrer1YVu3WTFd
 trackSlugPT: integracao-com-o-tiktok
 ---

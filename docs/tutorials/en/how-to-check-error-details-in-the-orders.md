@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_37
 slug: how-to-check-error-details-in-the-orders
+locale: en
 legacySlug: how-to-check-error-details-in-the-orders
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

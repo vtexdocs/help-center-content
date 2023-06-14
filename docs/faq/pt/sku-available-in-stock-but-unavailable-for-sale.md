@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: sku-com-unidades-positivas-no-inventario-mas-indisponivel-para-venda
+locale: pt
 legacySlug: sku-com-unidades-positivas-no-inventario-mas-indisponivel-para-venda
 ---
 

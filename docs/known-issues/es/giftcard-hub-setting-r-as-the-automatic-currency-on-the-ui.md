@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: el-hub-de-tarjetas-de-regalo-establece-r-como-moneda-automatica-en-la-interfaz-de-usuario
+locale: es
 kiStatus: Backlog
 internalReference: 690794
 ---

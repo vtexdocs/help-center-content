@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: revista-luiza-ajustar-especificacion-plaintextdescription
+locale: es
 kiStatus: Backlog
 internalReference: 754022
 ---

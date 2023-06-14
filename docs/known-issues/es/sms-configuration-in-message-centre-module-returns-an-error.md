@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2mXZkbi0oi061KicTExNjo
 tag: Message Center
 slug: configuracion-de-sms-en-el-modulo-centro-de-mensajes-devuelve-error
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: cambiar-los-datos-de-seguimiento
+locale: es
 legacySlug: cambiar-los-datos-de-seguimiento-beta
 subcategory: 3VNOhxDrvYxJThhuJClrYZ
 ---
@@ -37,4 +38,4 @@ Para cambiar los datos de un pedido manualmente, sigue los pasos a continuación
     * **Seleccionar transportadora: **selecciona la transportadora que realizará la entrega.
 7. Haz clic en `Guardar`.
 
-![FaturaES](//images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/a94ecc1266048ad8f4c973a0b9042c5a/FaturaES.png)
+![FaturaES](https://images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/a94ecc1266048ad8f4c973a0b9042c5a/FaturaES.png)

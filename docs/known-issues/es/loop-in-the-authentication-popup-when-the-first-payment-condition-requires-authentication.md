@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: bucle-en-la-ventana-emergente-de-autenticacion-cuando-la-primera-condicion-de-pago-requiere-autenticacion
+locale: es
 kiStatus: Backlog
 internalReference: 844192
 ---

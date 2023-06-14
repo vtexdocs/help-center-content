@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: como-deletar-um-website
+locale: pt
 legacySlug: como-deletar-um-website
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

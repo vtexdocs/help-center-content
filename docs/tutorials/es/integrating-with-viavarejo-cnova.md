@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_4
 slug: integrar-con-viavarejo-cnova
+locale: es
 legacySlug: integrar-con-viavarejo-cnova
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

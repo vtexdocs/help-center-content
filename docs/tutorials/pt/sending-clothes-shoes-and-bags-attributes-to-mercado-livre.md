@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: envio-dos-atributos-de-roupas-calcados-e-bolsas-para-o-mercado-livre
+locale: pt
 legacySlug: envio-dos-atributos-de-roupas-calcados-e-bolsas-para-o-mercado-livre
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

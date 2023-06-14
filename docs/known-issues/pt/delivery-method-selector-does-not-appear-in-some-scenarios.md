@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-seletor-do-metodo-de-entrega-nao-aparece-em-alguns-cenarios
+locale: pt
 kiStatus: Fixed
 internalReference: 293784
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: clustered-payment-conditions-customize-payment-options-for-b2b-customers
+locale: en
 legacySlug: clustered-payment-conditions-customize-payment-options-for-b2b-customers
 announcementImageID: ''
 announcementSynopsisEN: 'Customer Credit users can create special payment conditions to cluster their customers. '

@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: Channels
 slug: skyhub-fluxo-de-estoque
+locale: pt
 trackId: 
 trackSlugPT: 
 ---

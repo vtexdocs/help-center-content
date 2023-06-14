@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: how-to-customize-a-page-using-placeholders
+locale: en
 legacySlug: how-to-customize-a-page-using-placeholders
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

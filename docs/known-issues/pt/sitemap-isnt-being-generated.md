@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: o-sitemap-nao-esta-sendo-gerado
+locale: pt
 kiStatus: Backlog
 internalReference: 827104
 ---

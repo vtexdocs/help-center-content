@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_3
 slug: why-doesnt-the-order-status-update
+locale: en
 legacySlug: why-doesnt-the-order-status-update
 ---
 

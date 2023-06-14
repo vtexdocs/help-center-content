@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-26T20:29:18.064Z
 contentType: trackArticle
 productTeam: Financial
 slug: ver-detalles-de-la-transaccion
+locale: es
 trackId: 6GAS7ZzGAm7AGoEAwDbwJG
 trackSlugES: pagos
 ---

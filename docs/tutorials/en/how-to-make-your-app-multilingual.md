@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1iryp847AQgmKGKIASeW8Y
 slug: how-to-make-your-app-multilingual
+locale: en
 legacySlug: how-to-make-your-app-multilingual
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

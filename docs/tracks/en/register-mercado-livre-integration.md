@@ -9,6 +9,7 @@ firstPublishedAt: 2018-08-13T14:28:06.574Z
 contentType: trackArticle
 productTeam: Channels
 slug: register-mercado-livre-integration
+locale: en
 trackId: 2YfvI3Jxe0CGIKoWIGQEIq
 trackSlugEN: mercado-libre-integration-set-up
 ---

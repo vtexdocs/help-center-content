@@ -9,6 +9,7 @@ firstPublishedAt: 2021-09-30T18:49:18.739Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-a-integracao-com-o-fbe-no-admin-vtex
+locale: pt
 trackId: 2hS3ANSZ7vlHCcba4h7k8D
 trackSlugPT: integracao-com-o-facebook-business-extension
 ---

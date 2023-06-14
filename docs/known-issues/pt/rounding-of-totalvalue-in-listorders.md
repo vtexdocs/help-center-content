@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: arredondamento-do-valor-total-em-ordens-de-lista
+locale: pt
 kiStatus: Backlog
 internalReference: 756314
 ---

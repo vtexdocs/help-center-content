@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: la-fecha-de-caducidad-de-la-condicion-especial-no-se-elimina
+locale: es
 kiStatus: Backlog
 internalReference: 547046
 ---

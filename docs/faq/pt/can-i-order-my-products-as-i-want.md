@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 2zh4tqFMxyMCgwaUcsS0O2
 slug: posso-ordenar-os-produtos-de-acordo-com-o-criterio-da-loja
+locale: pt
 legacySlug: posso-ordenar-os-produtos-de-acordo-com-o-criterio-da-loja
 ---
 

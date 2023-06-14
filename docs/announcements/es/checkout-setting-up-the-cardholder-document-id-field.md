@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: checkout-configurar-el-campo-de-identificacion-del-titular-de-la-tarjeta
+locale: es
 legacySlug: checkout-configurar-el-campo-de-identificacion-del-titular-de-la-tarjeta
 announcementImageID: ''
 announcementSynopsisES: 'Configurar la visualización del campo de identificación del titular de la tarjeta en el checkout.'
@@ -44,7 +45,7 @@ Para comprobar si los proveedores antifraude configurados en tu tienda permiten 
 2. En **Pagos**, haz clic en **Configuración > Afiliaciones de gateway**. 
 3. Al seleccionar el proveedor antifraude escogido, comprueba si la opción **Campo de documento del titular de la tarjeta** está disponible en la pantalla de configuración.
 
-![campo de documento del titular de la tarjeta](//images.ctfassets.net/alneenqid6w5/23Hyo1jo4hkC3nXPmOa7NW/d826f02dac101b0385119f52685fb846/campo_de_documento_del_titular_de_la_tarjeta.png)
+![campo de documento del titular de la tarjeta](https://images.ctfassets.net/alneenqid6w5/23Hyo1jo4hkC3nXPmOa7NW/d826f02dac101b0385119f52685fb846/campo_de_documento_del_titular_de_la_tarjeta.png)
 
 <div class = "alert alert-warning">
   Si la opción <b>Campo de documento del titular de la tarjeta</b> no está disponible en la pantalla de configuración de tu proveedor antifraude, el campo <b>Identificación del titular de la tarjeta</b> seguirá apareciendo en la pantalla del Checkout de la tienda y será obligatorio que el cliente lo rellene.

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: what-does-vtex-consider-as-revenue-in-the-billing-calculation
+locale: en
 legacySlug: what-does-vtex-consider-as-revenue-in-the-billing-calculations
 subcategory: 5ZfsNR4ioEsIyu6wkyce0M
 ---
@@ -32,7 +33,7 @@ To learn how to access the orders that were considered for revenues calculation,
 All financially approved orders will receive this status, which can be seen in the orders management module:
 
 
-![image (2)](//images.ctfassets.net/alneenqid6w5/1Q14q5mtiayBLRBSupsKGs/53c5555a68359b9fd3dd882336beccb7/image__2_.png)
+![image (2)](https://images.ctfassets.net/alneenqid6w5/1Q14q5mtiayBLRBSupsKGs/53c5555a68359b9fd3dd882336beccb7/image__2_.png)
 
 
 To access this module, follow the step by step below:

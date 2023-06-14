@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-18T12:21:06.649Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: pedidos-por-assinatura
+locale: pt
 trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugPT: pedidos
 ---

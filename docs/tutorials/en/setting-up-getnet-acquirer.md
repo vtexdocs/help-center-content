@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: setting-up-getnet-acquirer
+locale: en
 legacySlug: setting-up-getnet-acquirer
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: associacao-de-sku-a-politica-comercial
+locale: pt
 legacySlug: associacao-de-sku-a-politica-comercial
 subcategory: pwxWmUu7T222QyuGogs68
 ---

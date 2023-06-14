@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: incorrect-usd-currency-displayed-in-some-locales
+locale: en
 kiStatus: Backlog
 internalReference: 414901
 ---

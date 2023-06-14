@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: split-package-suggestion-not-working-properly
+locale: en
 kiStatus: Backlog
 internalReference: 656810
 ---

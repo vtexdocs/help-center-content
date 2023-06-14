@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: unable-to-download-prices-importing-results
+locale: en
 kiStatus: Backlog
 internalReference: 579906
 ---

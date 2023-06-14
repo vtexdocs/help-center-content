@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: catalog-filter-for-seller-1-brings-empty-results
+locale: en
 kiStatus: Backlog
 internalReference: 801538
 ---

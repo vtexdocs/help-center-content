@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: shipping-preview-does-not-use-sla-name-for-display-in-ui
+locale: en
 kiStatus: Backlog
 internalReference: 574651
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: pickup-points-list-cant-be-scrolled-after-searching-addresses-in-map-mode
+locale: en
 kiStatus: Backlog
 internalReference: 624646
 ---

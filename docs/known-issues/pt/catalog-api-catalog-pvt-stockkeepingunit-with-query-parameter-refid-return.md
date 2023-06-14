@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: catalog-api-catalog-pvt-stockkeepingunit-with-query-parameter-refid-return
+locale: pt
 kiStatus: Backlog
 internalReference: 388869
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: visao-geral-da-estrutura-do-catalogo
+locale: pt
 legacySlug: visao-geral-da-estrutura-do-catalogo
 subcategory: 209mOqb3iL1vhCFrvFLfSA
 ---

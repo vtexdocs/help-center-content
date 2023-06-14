@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: en-un-escenario-de-pago-dividido-cuando-el-importe-ya-ha-sido-capturado-la-pasarela-ya-no-permite-una-solicitud-de-cancelacion
+locale: es
 kiStatus: Backlog
 internalReference: 742046
 ---

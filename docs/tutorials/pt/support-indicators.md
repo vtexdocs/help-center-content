@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: indicadores-de-suporte
+locale: pt
 legacySlug: indicadores-de-suporte
 subcategory: 2A1RNDhwU4kqCN3XimtaD2
 ---

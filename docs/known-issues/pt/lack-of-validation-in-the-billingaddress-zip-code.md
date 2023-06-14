@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: falta-de-validacao-no-codigo-postal-billingaddress
+locale: pt
 kiStatus: Backlog
 internalReference: 375481
 ---

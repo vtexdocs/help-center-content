@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 
 slug: erros-oms
+locale: pt
 legacySlug: erros-oms
 subcategory: 
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: algunas-especificaciones-no-se-muestran-en-admin-pero-son-visibles-a-traves-de-la-api
+locale: es
 kiStatus: Backlog
 internalReference: 418348
 ---

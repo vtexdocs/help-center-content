@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-puesta-en-marcha-de-la-categoria-en-la-configuracion-del-seller-genera-un-time-out
+locale: es
 kiStatus: Fixed
 internalReference: 310527
 ---

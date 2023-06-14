@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: new-ui-does-not-show-the-invoiced-value-on-return-items-page
+locale: en
 kiStatus: Backlog
 internalReference: 664838
 ---

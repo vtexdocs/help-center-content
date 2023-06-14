@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: timeout-de-la-especificacion-categoriesaspx
+locale: es
 kiStatus: Backlog
 internalReference: 433664
 ---

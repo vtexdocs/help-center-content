@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: o-cartaoui-gera-um-erro-quando-o-usuario-escolhe-pagar-com-dois-cartoes-muda-a-forma-de-pagamento-e-retorna-ao-pagamento-com-dois-cartoes
+locale: pt
 kiStatus: Fixed
 internalReference: 670424
 ---

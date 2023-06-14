@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: lista-de-controles-para-plantillas
+locale: es
 legacySlug: lista-de-controles-para-plantillas
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

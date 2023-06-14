@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-interfaz-de-usuario-no-muestra-el-formulario-para-editar-la-direccion-cuando-se-selecciona-anadir-primero-una-nueva-direccion
+locale: es
 kiStatus: Backlog
 internalReference: 747772
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_3
 slug: como-funciona-split-de-pagamento-com-sellers-diferentes
+locale: pt
 legacySlug: como-funciona-split-de-pagamento-com-sellers-diferentes
 subcategory: 2xWRgEIlR2ookieEmm4KQu
 ---

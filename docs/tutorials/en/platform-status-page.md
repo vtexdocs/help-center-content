@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: platform-status-page
+locale: en
 legacySlug: untitled-entry-2019-01-14-at-07-58-58, vtex-status-understand-how-the-platform-status-works
 subcategory: 5PYkoNDZyo2G80yiiqG2YW
 ---
@@ -34,7 +35,7 @@ The webhook option allows you to perform integrations based on automatic platfor
 
 In this section, you can see, in real time, the overall platform status, as well as some specific details:
 
-![Status page](//images.ctfassets.net/alneenqid6w5/7Acmvo2WI9cSZZHCNGdeiM/9f9f9c8abf89ab20a21917d2008acf09/1.png)
+![Status page](https://images.ctfassets.net/alneenqid6w5/7Acmvo2WI9cSZZHCNGdeiM/9f9f9c8abf89ab20a21917d2008acf09/1.png)
 
 - **Checkout:** Features linked to the order creation flow, i.e., checkout and its dependencies.
 - **WebStore:** Storefront navigation.
@@ -59,7 +60,7 @@ You can also view the whole history of incidents sorted by month by clicking **I
 
 Each incident log is composed of date of occurrence, title and status evolution.
 
-![status incidentBox](//images.ctfassets.net/alneenqid6w5/2NWuofZrmybqso50XpC8Gy/eeda8697db4c1b22067dfa233e628a8c/status_incidentBox.PNG)
+![status incidentBox](https://images.ctfassets.net/alneenqid6w5/2NWuofZrmybqso50XpC8Gy/eeda8697db4c1b22067dfa233e628a8c/status_incidentBox.PNG)
 
 - **Log's Title:** title describing the type of incident classification. By clicking on it, you are redirected to the incident detail page.
 - **Incidents Status:** each incident has a specific cycle, in which our team works to identify and solve the problems. Get to know a little more about each step of this cycle:
@@ -73,7 +74,7 @@ Each incident log is composed of date of occurrence, title and status evolution.
 
 Updates on the platform are made continually and generally do not impact the operation of our customers. But sometimes, some of them require the service to be temporarily unavailable.
 
-![status maintenanceBox](//images.ctfassets.net/alneenqid6w5/quaItZNYtCgkpADVjT9aq/8cb4cf7d673e5fa5b710dc1d0ecb89ac/status_maintenanceBox.PNG)
+![status maintenanceBox](https://images.ctfassets.net/alneenqid6w5/quaItZNYtCgkpADVjT9aq/8cb4cf7d673e5fa5b710dc1d0ecb89ac/status_maintenanceBox.PNG)
 
 For such cases, which affect the stability of the platform, we use VTEX Status to communicate all the details: when maintenance will be performed, the duration and the impact.
 

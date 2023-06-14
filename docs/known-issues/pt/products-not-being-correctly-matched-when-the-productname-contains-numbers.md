@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: produtos-que-nao-correspondem-corretamente-quando-o-produtonome-contem-numeros
+locale: pt
 kiStatus: Backlog
 internalReference: 762525
 ---

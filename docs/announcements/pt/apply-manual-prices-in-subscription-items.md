@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: aplicar-precos-manuais-em-itens-de-assinaturas
+locale: pt
 legacySlug: aplicar-precos-manuais-em-itens-de-assinaturas
 announcementImageID: ''
 announcementSynopsisPT: 'Agora você pode habilitar preços manuais para assinaturas em sua loja.'

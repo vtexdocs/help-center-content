@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: 
 slug: o-status-aguardando-autorizacao-para-despachar-significa-o-que
+locale: pt
 legacySlug: o-status-aguardando-autorizacao-para-despachar-significa-o-que
 ---
 

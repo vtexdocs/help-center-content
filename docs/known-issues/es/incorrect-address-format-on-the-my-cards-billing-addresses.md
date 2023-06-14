@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: formato-de-direccion-incorrecto-en-las-direcciones-de-facturacion-de-mis-tarjetas
+locale: es
 kiStatus: Backlog
 internalReference: 791779
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: new-vtex-shipping-network-performance-page
+locale: en
 legacySlug: new-vtex-log-performance-page
 announcementImageID: ''
 announcementSynopsisEN: 'Performance page has been redesigned to improve the user experience when tracking the performance of shipping carriers.'

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: category-ordering-is-not-being-applied-to-store-filters
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

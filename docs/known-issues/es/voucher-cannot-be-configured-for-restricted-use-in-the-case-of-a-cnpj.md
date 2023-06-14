@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_35
 tag: Portal (CMS)
 slug: no-se-puede-configurar-vale-para-uso-restricto-en-el-caso-de-cnpj
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

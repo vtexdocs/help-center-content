@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: indicadores-de-servico
+locale: pt
 legacySlug: indicadores-de-servico
 subcategory: 2A1RNDhwU4kqCN3XimtaD2
 ---

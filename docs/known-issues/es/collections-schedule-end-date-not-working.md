@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: programacion-de-la-fecha-de-finalizacion-de-las-colecciones-no-funciona
+locale: es
 kiStatus: Fixed
 internalReference: 497880
 ---

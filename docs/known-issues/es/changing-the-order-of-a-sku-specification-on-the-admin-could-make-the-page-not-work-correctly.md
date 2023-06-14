@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: cambiar-el-orden-de-una-especificacion-de-sku-en-el-admin-podria-hacer-que-la-pagina-no-funcione-correctamente
+locale: es
 kiStatus: Backlog
 internalReference: 460329
 ---

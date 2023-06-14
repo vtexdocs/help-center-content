@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-hoja-de-calculo-de-imagenes-no-se-importa-mensaje-de-error-fallo-al-procesar-el-registro
+locale: es
 kiStatus: Backlog
 internalReference: 691803
 ---

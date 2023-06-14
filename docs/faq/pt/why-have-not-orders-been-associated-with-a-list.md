@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Others
 author: authors_59
 slug: por-que-pedidos-nao-foram-associados-a-uma-lista
+locale: pt
 legacySlug: por-que-pedidos-nao-foram-associados-a-uma-lista
 ---
 

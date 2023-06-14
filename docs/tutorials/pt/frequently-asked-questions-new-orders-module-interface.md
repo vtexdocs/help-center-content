@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: perguntas-frequentes-nova-interface-modulo-pedidos
+locale: pt
 legacySlug: perguntas-frequentes-sobre-a-nova-interface-do-modulo-de-pedidos
 subcategory: 3VNOhxDrvYxJThhuJClrYZ
 ---
@@ -25,7 +26,7 @@ A partir de 1 de fevereiro de 2023, a nova interface será o padrão de todas as
 
 Você pode visualizar a correspondência de seções e campos entre a versão antiga da página **Detalhes do pedido** e a nova versão na imagem abaixo:
 
-![board_comparativo_interface_pedido_v2_pt](//images.ctfassets.net/alneenqid6w5/30tYehAYOCvQoX0MpSIoNH/70f75ff7e98e67c9c403c32965ab4882/board_comparativo_interface_pedido_v2_pt.png)
+![board_comparativo_interface_pedido_v2_pt](https://images.ctfassets.net/alneenqid6w5/30tYehAYOCvQoX0MpSIoNH/70f75ff7e98e67c9c403c32965ab4882/board_comparativo_interface_pedido_v2_pt.png)
 
 ## O que aconteceu com o filtro de busca de seis meses?
 
@@ -37,17 +38,17 @@ A busca em todos os pedidos não pode ser associada a outros filtros, portanto, 
 
 Para buscar em todos os pedidos, digite o termo desejado na caixa de busca. Isso fará com que a opção <i class="fas fa-toggle-off"></i> `Remover limite de datas` se torne visível. Depois basta ativá-la e isso dará início à busca.
 
-![busca_sem_limite_data_all_pt](//images.ctfassets.net/alneenqid6w5/7mDlDQAgphKCmH12REooCx/b6fee3d3358a18d7fe217d8afc005ca3/busca_sem_limite_data_all_pt.png)
+![busca_sem_limite_data_all_pt](https://images.ctfassets.net/alneenqid6w5/7mDlDQAgphKCmH12REooCx/b6fee3d3358a18d7fe217d8afc005ca3/busca_sem_limite_data_all_pt.png)
 
 ## Como visualizar o diagrama de fluxo do pedido?
 
 Na nova interface, por padrão, o que é exibido é uma linha tempo com os eventos de **Status do pedido**, como na imagem abaixo:
 
-![timeline_pedido_pt](//images.ctfassets.net/alneenqid6w5/JID8bYMxBA94nRGXJQ3BI/c062ec0b49a67aaecd9856a5bbec865b/timeline_pedido_pt.png)
+![timeline_pedido_pt](https://images.ctfassets.net/alneenqid6w5/JID8bYMxBA94nRGXJQ3BI/c062ec0b49a67aaecd9856a5bbec865b/timeline_pedido_pt.png)
 
 Caso você deseje ver o **Diagrama do pedido** como na interface antiga, clique em `Ver diagrama` e um modal como o da imagem abaixo vai aparecer:
 
-![diagrama_pedido_pt](//images.ctfassets.net/alneenqid6w5/3to0oQYzjgz3Y5i4sDPIG3/20ac041bccaef4e607b082b1e6a346d0/diagrama_pedido_pt.png)
+![diagrama_pedido_pt](https://images.ctfassets.net/alneenqid6w5/3to0oQYzjgz3Y5i4sDPIG3/20ac041bccaef4e607b082b1e6a346d0/diagrama_pedido_pt.png)
 
 ## Como faturar o pedido?
 
@@ -55,7 +56,7 @@ Na seção **Itens a faturar** da nova interface, todas as ações relacionadas 
 
 * **Enviar nota fiscal referenciando itens:** esta opção é exclusiva da nova interface. Por meio dela, é possível emitir a nota fiscal total ou parcial de determinados itens, que são identificados por SKU, estoque e preço. Veja um exemplo na imagem a seguir:
 
-![faturar_referenciar_pedidos_final_pt](//images.ctfassets.net/alneenqid6w5/3h0sV3Gq2dkJk3ZoT85SyG/cef5f7a10b488a14945a0f210d464aea/faturar_referenciar_pedidos_final_pt.png)
+![faturar_referenciar_pedidos_final_pt](https://images.ctfassets.net/alneenqid6w5/3h0sV3Gq2dkJk3ZoT85SyG/cef5f7a10b488a14945a0f210d464aea/faturar_referenciar_pedidos_final_pt.png)
 
 * **Enviar nota fiscal avulsa:** a opção corresponde ao antigo _Enviar nota fiscal_ e permite faturar o valor total ou parcial do pedido. A apresentação da página é diferente, mas os campos permanecem os mesmos.
 
@@ -74,6 +75,6 @@ Na nova interface, dentro da seção **Histórico do pedido**, existe uma linha 
 
 Para reenviar um email para o cliente, clique no evento de email enviado ou no ícone seta <i class="fas fa-angle-right"></i> para ver os detalhes do evento, que vão aparecer como na imagem a seguir:
 
-![enviar_email_pt](//images.ctfassets.net/alneenqid6w5/5c2ZuqUC1b497RQdImDQ46/f59d8a815163c889d8af29cd4e04ccbd/enviar_email_pt.png)
+![enviar_email_pt](https://images.ctfassets.net/alneenqid6w5/5c2ZuqUC1b497RQdImDQ46/f59d8a815163c889d8af29cd4e04ccbd/enviar_email_pt.png)
 
 Clique sobre o botão `Reenviar email` e o email será imediatamente enviado ao cliente, sendo que a seguinte mensagem de confirmação deve aparecer: _Email reenviado ao cliente com sucesso_.

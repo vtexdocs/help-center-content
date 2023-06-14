@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_2
 slug: como-buscar-por-pedidos-por-nsu-ou-tid
+locale: pt
 legacySlug: como-buscar-por-pedidos-por-nsu-ou-tid
 ---
 

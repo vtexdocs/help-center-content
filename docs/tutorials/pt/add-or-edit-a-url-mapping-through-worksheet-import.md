@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: adicionar-ou-editar-um-mapeamento-de-url-por-importacao-de-planiliha
+locale: pt
 legacySlug: adicionar-ou-editar-um-mapeamento-de-url-por-importacao-de-planiliha
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
@@ -25,4 +26,4 @@ A estrutura do arquivo deve ser a seguinte:
 - Coluna D: Data Inicial (Formato: DD/MM/AAAA)
 - Coluna E: Data Final (Formato: DD/MM/AAAA)
 
-![urlbuilder1](//images.ctfassets.net/alneenqid6w5/5lgNG0muqcMmS2coOkyKgw/f96b218bfbe58e04ae16869a11f174e8/urlbuilder1.png)
+![urlbuilder1](https://images.ctfassets.net/alneenqid6w5/5lgNG0muqcMmS2coOkyKgw/f96b218bfbe58e04ae16869a11f174e8/urlbuilder1.png)

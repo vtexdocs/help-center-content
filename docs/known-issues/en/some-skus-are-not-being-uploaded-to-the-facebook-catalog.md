@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: some-skus-are-not-being-uploaded-to-the-facebook-catalog
+locale: en
 kiStatus: Backlog
 internalReference: 558926
 ---

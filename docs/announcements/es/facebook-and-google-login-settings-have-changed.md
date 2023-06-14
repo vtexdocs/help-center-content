@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: authors_24
 slug: cambiamos-la-configuracion-del-login-por-facebook-y-google
+locale: es
 legacySlug: cambiamos-la-configuracion-del-login-por-facebook-y-google
 announcementImageID: ''
 announcementSynopsisES: ' La flag "Usar claves VTEX" fue deshabilitada y el tendero necesita configurar sus propias'

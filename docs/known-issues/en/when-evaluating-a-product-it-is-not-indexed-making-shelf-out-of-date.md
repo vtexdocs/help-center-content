@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: when-evaluating-a-product-it-is-not-indexed-making-shelf-out-of-date
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 tag: Order Management
 slug: suscripciones-impase-entre-fecha-de-facturacion-y-frecuencia-del-pedido
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

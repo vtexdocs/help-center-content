@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: entendendo-a-catalogacao-de-produtos-para-o-marketplace
+locale: pt
 legacySlug: entendendo-a-catalogacao-de-produtos-para-o-marketplace
 subcategory: 4HBbKdnwneGew2qGGykSM8
 ---

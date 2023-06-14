@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 5fYXkMJagMwcSAeMAsAuOI
 slug: boas-praticas-para-o-golive-da-minha-loja
+locale: pt
 legacySlug: boas-praticas-para-o-golive-da-minha-loja
 subcategory: wz3FvYTctwuCwG206QUAi
 ---

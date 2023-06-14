@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:38:32.506Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: how-to-create-and-edit-transactional-email-templates
+locale: en
 trackId: 6IkJwttMw5T84mlY9RifRP
 trackSlugEN: transactional-emails
 ---

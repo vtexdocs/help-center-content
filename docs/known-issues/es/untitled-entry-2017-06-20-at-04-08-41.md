@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 5V92cmF9jG8KG600EwUgEg
 tag: Catalog
 slug: no-se-puede-crear-feed-de-producto-xml-con-https
+locale: es
 kiStatus: Open
 internalReference: 
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
 slug: announcements-ganan-destaque-en-el-nuevo-admin
+locale: es
 legacySlug: announcements-ganan-destaque-en-el-nuevo-admin
 announcementImageID: ''
 announcementSynopsisES: 'Usted recibe notificaciones a cada nuevo announcement y acompaña las nuevas noticias directamente de la home.'

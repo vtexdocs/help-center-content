@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: e-possivel-ir-da-ordem-para-a-transacao-mas-o-fluxo-inverso-nao-funciona
+locale: pt
 kiStatus: Backlog
 internalReference: 393483
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-listprice-mostrado-en-un-carrito-no-considera-si-el-precio-regular-esta-siendo-modificado-por-un-unitmultiplier
+locale: es
 kiStatus: Backlog
 internalReference: 578649
 ---

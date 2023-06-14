@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: oorderbypriceasc-could-bring-the-wrong-order
+locale: en
 kiStatus: Backlog
 internalReference: 582861
 ---

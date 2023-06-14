@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_4
 slug: new-ssl-and-golive-process
+locale: en
 legacySlug: 
 subcategory: 4i9qIf0r8IKSOkqoSmEssu
 ---

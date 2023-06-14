@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: informe-de-programaciones
+locale: es
 legacySlug: informe-de-programaciones
 subcategory: 37YF86noTwhDdEuhUyW3LH
 ---

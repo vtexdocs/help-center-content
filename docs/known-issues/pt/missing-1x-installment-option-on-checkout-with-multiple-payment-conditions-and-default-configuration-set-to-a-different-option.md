@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: opcao-de-parcelamento-de-1x-ausente-no-checkout-com-varias-condicoes-de-pagamento-e-configuracao-padrao-definida-para-uma-opcao-diferente
+locale: pt
 kiStatus: Backlog
 internalReference: 709971
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: TnXcuQydAAOuwWACo864E
 slug: como-configurar-su-firewall-empresarial-para-permitir-el-acceso-al-io
+locale: es
 legacySlug: como-configurar-su-firewall-empresarial-para-permitir-el-acceso-al-io
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---

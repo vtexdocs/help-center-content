@@ -9,6 +9,7 @@ firstPublishedAt: 2021-02-23T20:20:32.953Z
 contentType: trackArticle
 productTeam: Channels
 slug: defining-netshoes-trade-policy
+locale: en
 trackId: 5Ua87lhFg4m0kEcuyqmcCm
 trackSlugEN: netshoes-integration-set-up
 ---

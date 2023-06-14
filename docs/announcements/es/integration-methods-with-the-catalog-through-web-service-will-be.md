@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: metodos-de-integracion-con-el-catalogo-por-web-service-se-descontinuaran
+locale: es
 legacySlug: metodos-de-integracion-con-el-catalogo-por-web-service-se-descontinuaran
 announcementImageID: ''
 announcementSynopsisES: 'En 29/10, vamos a descontinuar algunos métodos de Web Service para integración con el catálogo.'

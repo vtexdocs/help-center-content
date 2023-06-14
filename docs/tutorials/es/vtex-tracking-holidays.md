@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: feriados-vtex-tracking
+locale: es
 legacySlug: feriados-vtex-tracking
 subcategory: 7yiFRk9TGfMNeyhT83UljP
 ---

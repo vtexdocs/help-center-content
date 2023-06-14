@@ -11,6 +11,7 @@ productTeam: Channels
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Connections
 slug: el-nombre-del-seller-no-se-provee-en-integraciones-mkp-nativas
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: campo-url-logo-no-campo-update-seller-request-not-updating
+locale: pt
 kiStatus: Fixed
 internalReference: 271480
 ---

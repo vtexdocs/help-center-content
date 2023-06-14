@@ -9,6 +9,7 @@ firstPublishedAt: 2020-11-18T17:37:30.544Z
 contentType: trackArticle
 productTeam: Financial
 slug: que-son-las-condiciones-de-pago-clusterizadas
+locale: es
 trackId: 1LqUFHQZ3ZQyV5TmugbGNm
 trackSlugES: condiciones-de-pago-clusterizadas
 ---

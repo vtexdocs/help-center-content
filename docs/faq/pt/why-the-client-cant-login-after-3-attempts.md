@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: authors_35
 slug: por-que-o-cliente-nao-consegue-fazer-login-apos-3-tentativas
+locale: pt
 legacySlug: 
 ---
 

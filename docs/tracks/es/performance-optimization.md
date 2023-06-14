@@ -9,6 +9,7 @@ firstPublishedAt: 2019-07-31T21:48:07.014Z
 contentType: trackArticle
 productTeam: Channels
 slug: optimizacion-del-rendimiento
+locale: es
 trackId: 47kz5PRQPK0IEaqGqiIuA
 trackSlugES: como-hacer-campanas-a-traves-de-google-ads
 ---

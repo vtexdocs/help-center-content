@@ -9,6 +9,7 @@ firstPublishedAt: 2020-11-18T17:37:48.695Z
 contentType: trackArticle
 productTeam: Financial
 slug: como-funcionan-las-condiciones-de-clusterizacion
+locale: es
 trackId: 1LqUFHQZ3ZQyV5TmugbGNm
 trackSlugES: condiciones-de-pago-clusterizadas
 ---
@@ -25,7 +26,7 @@ De esta manera, las reglas de plazo y de pago en cuotas se aplicarán al consumi
 
 Para configurarlas, escoja una propiedad y, luego, seleccione los parámetros para crear un clúster.
 
-![Pagamentos Clusterizados_ES](//images.ctfassets.net/alneenqid6w5/9VBsI8vnkYsrpnKIQLE6C/9c4af9336f284033455bc20a66ad9225/image.png)
+![Pagamentos Clusterizados_ES](https://images.ctfassets.net/alneenqid6w5/9VBsI8vnkYsrpnKIQLE6C/9c4af9336f284033455bc20a66ad9225/image.png)
 
 ## Propiedad
 

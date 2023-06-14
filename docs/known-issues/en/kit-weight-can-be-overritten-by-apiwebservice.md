@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: kit-weight-can-be-overritten-by-apiwebservice
+locale: en
 kiStatus: Backlog
 internalReference: 429993
 ---

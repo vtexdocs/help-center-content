@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_63
 tag: Catalog
 slug: caracter-especial-no-mapeado-para-ser-ignorado-en-textlink
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

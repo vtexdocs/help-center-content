@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: authors_24
 slug: agora-sua-loja-pode-ter-ate-50-mil-cupons
+locale: pt
 legacySlug: agora-sua-loja-pode-ter-ate-50-mil-cupons
 announcementImageID: ''
 announcementSynopsisPT: 'A API de cupons recebeu uma atualização que aumenta a quantidade de cupons que podem ser criados na sua loja.'

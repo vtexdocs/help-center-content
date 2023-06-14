@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: atributos-da-integracao-negro000000-com-um-comportamento-nao-esperado
+locale: pt
 kiStatus: Backlog
 internalReference: 660703
 ---

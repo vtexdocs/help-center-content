@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: listar-apps-instaladas-na-loja
+locale: pt
 legacySlug: listar-apps-instaladas-na-loja
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: catalog-fullcleanup-does-not-trigger-a-new-intelligent-search-indexation
+locale: en
 kiStatus: Fixed
 internalReference: 449763
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: search-resolve-hides-number-product-stock
+locale: en
 legacySlug: search-resolve-hides-number-product-stock
 announcementImageID: ''
 announcementSynopsisEN: 'To improve data privacy, search-resolver no longer displays the number of products in stock'

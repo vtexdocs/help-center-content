@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 5fYXkMJagMwcSAeMAsAuOI
 slug: buenas-practicas-para-el-golive-de-mi-tienda
+locale: es
 legacySlug: buenas-practicas-para-el-golive-de-mi-tienda
 subcategory: wz3FvYTctwuCwG206QUAi
 ---

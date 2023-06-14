@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: importando-imagenes-por-plantilla
+locale: es
 legacySlug: importando-imagenes-por-plantilla
 subcategory: pwxWmUu7T222QyuGogs68
 ---

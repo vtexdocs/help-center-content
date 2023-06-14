@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: em-alguns-casos-a-checkoutui-nao-mostra-o-valor-correto-a-ser-pago-com-o-credito-do-cliente-para-1x-a-prestacao
+locale: pt
 kiStatus: Backlog
 internalReference: 748320
 ---

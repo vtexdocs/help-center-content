@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_35
 slug: que-hacer-al-recibir-error-en-la-simulacion-de-flete
+locale: es
 legacySlug: que-hacer-al-recibir-error-en-la-simulacion-de-flete
 ---
 

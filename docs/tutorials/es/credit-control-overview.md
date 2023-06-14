@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 6xBnaVsQ7K60kemi2U2Q6w
 slug: credit-control-vision-general
+locale: es
 legacySlug: credit-control-vision-general
 subcategory: 7EWKfPIGfmI0G8iMYK8Aiy
 ---

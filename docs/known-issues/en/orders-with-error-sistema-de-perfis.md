@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_84
 tag: Order Management
 slug: orders-with-error-sistema-de-perfis
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

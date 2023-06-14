@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: time-out-administracao-de-importacao-e-exportacao
+locale: pt
 kiStatus: Backlog
 internalReference: 424902
 ---

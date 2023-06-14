@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:33:11.563Z
 contentType: trackArticle
 productTeam: Identity
 slug: creating-and-editing-users
+locale: en
 trackId: 5PxyAgZrtiYlaYZBTlhJ2A
 trackSlugEN: contas-e-permissoes
 ---

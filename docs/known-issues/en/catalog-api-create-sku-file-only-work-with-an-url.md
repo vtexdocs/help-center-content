@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: catalog-api-create-sku-file-only-work-with-an-url
+locale: en
 kiStatus: Fixed
 internalReference: 503153
 ---

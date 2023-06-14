@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_59
 slug: configurar-campos-para-emision-de-facturas-en-instore
+locale: es
 legacySlug: configurar-campos-para-emision-de-facturas-en-instore
 subcategory: 8AGXmtpbTqUE2KQu0Swwk
 ---

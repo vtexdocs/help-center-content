@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: magazine-luiza-pedido-fob-integrado-con-entrega-convencional
+locale: es
 kiStatus: Backlog
 internalReference: 721951
 ---

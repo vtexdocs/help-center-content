@@ -11,6 +11,7 @@ productTeam: Shopping
 author: authors_4
 tag: Checkout
 slug: a-criacao-de-custom-fields-para-custom-data-converte-os-ids-para-letras
+locale: pt
 kiStatus: Closed
 internalReference: 
 ---

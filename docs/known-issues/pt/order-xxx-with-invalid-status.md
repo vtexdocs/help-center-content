@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: pedido-xxx-com-status-invalido
+locale: pt
 kiStatus: Backlog
 internalReference: 514613
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: understanding-the-task-list-vtex-do
+locale: en
 legacySlug: understanding-the-task-list-vtex-do
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

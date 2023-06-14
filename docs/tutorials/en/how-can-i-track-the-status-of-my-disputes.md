@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: how-can-i-track-the-status-of-my-disputes
+locale: en
 legacySlug: how-can-i-track-the-status-of-my-disputes
 subcategory: 204Hz794zvcUIJXLcShY43
 ---

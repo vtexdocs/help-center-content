@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_24
 slug: al-intentar-aprobar-el-pago-gestion-de-pedidos-devuelve-el-error-de-authorize-fulfillment-que-hacer
+locale: es
 legacySlug: al-intentar-aprobar-el-pago-oms-devuelve-el-error-de-authorize-fulfillment-que-hacer
 ---
 

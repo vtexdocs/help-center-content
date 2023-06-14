@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-posicion-de-la-politica-comercial-depende-de-la-pagina-en-la-que-se-muestra-en-la-interfaz-de-administracion
+locale: es
 kiStatus: Backlog
 internalReference: 286470
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: configurar-el-antifraude-clearsale-global
+locale: es
 legacySlug: configurar-el-antifraude-clearsale-global
 subcategory: 
 ---
@@ -77,7 +78,7 @@ Para configurar ClearSale Global, deberá:
 <br>  
   <ui>11. En la esquina superior derecha, hacer clic en <b>Publicar</br>.</ui>
 
-![Fingerprint ClearSalve_Pantalla](//images.ctfassets.net/alneenqid6w5/1cCBNxfRXCGQr4QxBsPgg6/2f5d30cbf3147be7da09d3f86186dafc/Fingerprint_ClearSalve_Pantalla.png)
+![Fingerprint ClearSalve_Pantalla](https://images.ctfassets.net/alneenqid6w5/1cCBNxfRXCGQr4QxBsPgg6/2f5d30cbf3147be7da09d3f86186dafc/Fingerprint_ClearSalve_Pantalla.png)
 
 Para más detalles sobre el código introducido en Google Tag Manager, recomendamos leer [esta documentación](https://api.clearsale.com.br/docs/behavior-analytics) de ClearSale.
 

@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-26T18:08:32.132Z
 contentType: trackArticle
 productTeam: Financial
 slug: the-transaction-flow
+locale: en
 trackId: 6GAS7ZzGAm7AGoEAwDbwJG
 trackSlugEN: payments
 ---

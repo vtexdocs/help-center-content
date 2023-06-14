@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: informacoes-compartilhadas-entre-marketplace-e-seller-na-vtex
+locale: pt
 legacySlug: informacoes-compartilhadas-entre-marketplace-e-seller-na-vtex
 subcategory: 5tlIjp0ZkAU4EIk4OgyEmm
 ---

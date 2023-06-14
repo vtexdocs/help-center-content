@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: order-creation-failed-due-to-price-divergence-on-fulfillment-layer
+locale: en
 kiStatus: Backlog
 internalReference: 512393
 ---

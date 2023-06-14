@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: webanalytics-viewpart-mostra-o-sucesso-mesmo-quando-nao-esta-funcionando
+locale: pt
 kiStatus: Backlog
 internalReference: 768059
 ---

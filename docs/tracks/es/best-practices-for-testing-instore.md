@@ -9,13 +9,14 @@ firstPublishedAt: 2021-12-08T17:57:54.529Z
 contentType: trackArticle
 productTeam: Shopping
 slug: mejores-practicas-de-pruebas-instore
+locale: es
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugES: instore-usando-el-app
 ---
 
 Tras completar la configuración básica y la instalación de la aplicación de VTEX Sales App en un dispositivo, es importante realizar pruebas antes de empezar a utilizar VTEX Sales App en tus tiendas físicas. En este artículo, conocerás las mejores prácticas para probar el uso de VTEX Sales App.
 
-![testes-instore-es](//images.ctfassets.net/alneenqid6w5/1g0a3CiYD3I1MFIALGRjOP/9e729d91cf79c227665adeeb099b79ac/Group_6.png)
+![testes-instore-es](https://images.ctfassets.net/alneenqid6w5/1g0a3CiYD3I1MFIALGRjOP/9e729d91cf79c227665adeeb099b79ac/Group_6.png)
 
 ## Pruebas técnicas
 

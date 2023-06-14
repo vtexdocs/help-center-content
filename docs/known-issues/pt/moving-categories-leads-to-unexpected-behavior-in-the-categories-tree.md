@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: mover-categorias-gera-comportamentos-inesperados-na-arvore-de-categorias
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

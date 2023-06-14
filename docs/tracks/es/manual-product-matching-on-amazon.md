@@ -9,6 +9,7 @@ firstPublishedAt: 2022-12-22T17:54:57.602Z
 contentType: trackArticle
 productTeam: Channels
 slug: correspondencia-manual-de-productos-en-amazon
+locale: es
 trackId: 6sgd4Pagy3wNsWKBvmIFrP
 trackSlugES: integracion-de-amazon
 ---

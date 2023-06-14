@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: valores-modais-com-diferentes-textos-entre-api-e-logistica-ui
+locale: pt
 kiStatus: Backlog
 internalReference: 775800
 ---

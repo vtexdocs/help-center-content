@@ -11,6 +11,7 @@ productTeam: Reliability
 author: authors_4
 tag: Web Service
 slug: importacao-do-webservice-wsdl-em-https-traz-referencias-em-http
+locale: en
 kiStatus: Closed
 internalReference: 
 ---

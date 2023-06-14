@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: criando-a-arvore-de-categorias
+locale: pt
 legacySlug: criando-a-arvore-de-categorias
 subcategory: 1E7tziZCkY4w8i4EmUuwec
 ---

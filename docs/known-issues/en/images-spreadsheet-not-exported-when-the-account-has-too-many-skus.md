@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: images-spreadsheet-not-exported-when-the-account-has-too-many-skus
+locale: en
 kiStatus: Backlog
 internalReference: 623183
 ---

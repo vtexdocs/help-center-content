@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: changes-in-the-types-of-conversation-tracker-masks
+locale: en
 legacySlug: changes-in-the-types-of-conversation-tracker-masks
 announcementImageID: ''
 announcementSynopsisEN: 'This announcement refers to terms used only in Portuguese and Spanish. Read it in those languages to find out more.'

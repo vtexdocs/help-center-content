@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_59
 slug: vtex-session-vision-general-del-sistema-de-sesiones
+locale: es
 legacySlug: vtex-session-vision-general-del-sistema-de-sesiones
 subcategory: dajK0sARX2c0MISKKoGoc
 ---

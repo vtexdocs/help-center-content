@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: creating-relationships-between-data-entities
+locale: en
 legacySlug: creating-relationships-between-data-entities
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

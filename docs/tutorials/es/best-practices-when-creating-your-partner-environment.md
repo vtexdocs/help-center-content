@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: mejores-practicas-para-crear-su-ambiente-partner
+locale: es
 legacySlug: mejores-practicas-para-crear-su-ambiente-partner
 subcategory: 6SJnrkKDjGwSqKkMuQMOmm
 ---

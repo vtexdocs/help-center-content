@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: why-dont-my-payment-methods-appear-on-the-marketplace
+locale: en
 legacySlug: why-dont-my-payment-methods-appear-on-the-marketplace
 ---
 

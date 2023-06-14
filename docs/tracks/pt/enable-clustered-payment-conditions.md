@@ -9,6 +9,7 @@ firstPublishedAt: 2020-11-18T17:37:39.069Z
 contentType: trackArticle
 productTeam: Financial
 slug: habilitar-clustered-payment-conditions
+locale: pt
 trackId: 1LqUFHQZ3ZQyV5TmugbGNm
 trackSlugPT: condicoes-de-pagamento-clusterizadas
 ---

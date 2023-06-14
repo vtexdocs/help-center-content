@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-paso-de-envio-puede-mostrar-un-mensaje-de-no-disponibilidad-mientras-se-calculan-las-opciones-de-envio
+locale: es
 kiStatus: Backlog
 internalReference: 650038
 ---

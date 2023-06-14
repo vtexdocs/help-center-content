@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: cadastrar-o-preco-base-de-um-produto
+locale: pt
 legacySlug: cadastrar-o-preco-base-de-um-produto
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---

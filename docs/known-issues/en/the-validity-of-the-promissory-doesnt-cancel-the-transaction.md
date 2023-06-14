@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: the-validity-of-the-promissory-doesnt-cancel-the-transaction
+locale: en
 kiStatus: Fixed
 internalReference: 325491
 ---

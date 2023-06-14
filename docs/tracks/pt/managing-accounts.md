@@ -9,6 +9,7 @@ firstPublishedAt: 2018-11-07T17:10:45.883Z
 contentType: trackArticle
 productTeam: Financial
 slug: gerenciando-contas
+locale: pt
 trackId: 1hCRg21lXYy2seOKgqQ2CC
 trackSlugPT: customer-credit-como-comecar
 ---

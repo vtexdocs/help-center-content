@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: version-de-escritorio-del-sitio-cuando-se-accede-a-traves-de-ipad-en-safari
+locale: es
 kiStatus: Backlog
 internalReference: 735208
 ---

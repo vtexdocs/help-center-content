@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: habilitar-pagos-con-bitcoin
+locale: es
 legacySlug: habilitar-pagos-con-bitcoin
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

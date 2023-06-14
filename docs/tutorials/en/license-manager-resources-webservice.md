@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: license-manager-resources-webservice
+locale: en
 legacySlug: 
 subcategory: 1HSqkejwuYcQSMC400uY84
 ---

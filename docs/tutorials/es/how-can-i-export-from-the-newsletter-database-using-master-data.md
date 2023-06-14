@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_84
 slug: como-realizar-la-exportacion-de-la-base-de-newsletter-de-master-data
+locale: es
 legacySlug: como-realizar-la-exportacion-de-la-base-de-newsletter-de-master-data
 subcategory: WpbGhubuRZaNZilJSXnqu
 ---

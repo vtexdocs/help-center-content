@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_59
 slug: por-que-una-transaccion-fue-liquidada-con-exito-pero-no-fue-finalizada-en-el-pci-gateway
+locale: es
 legacySlug: por-que-una-transaccion-fue-capturada-con-exito-pero-no-fue-finalizada-en-el-pci-gateway
 ---
 

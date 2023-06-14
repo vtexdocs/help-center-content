@@ -11,6 +11,7 @@ productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 tag: Order Management
 slug: the-order-confirmation-email-is-sent-twice-when-two-different-payment
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

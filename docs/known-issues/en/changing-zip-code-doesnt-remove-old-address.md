@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: changing-zip-code-doesnt-remove-old-address
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-18T12:20:58.872Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: permitir-substituicao-de-pedidos
+locale: pt
 trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugPT: pedidos
 ---

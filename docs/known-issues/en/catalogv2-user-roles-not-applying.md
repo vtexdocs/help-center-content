@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: catalogv2-user-roles-not-applying
+locale: en
 kiStatus: Backlog
 internalReference: 489297
 ---

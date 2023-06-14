@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: conciliacao-financeira-dos-recebiveis
+locale: pt
 legacySlug: conciliacao-financeira-dos-recebiveis
 subcategory: 23PYStKNPteW4CqklwXXQN
 ---

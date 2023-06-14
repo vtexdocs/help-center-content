@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: o-que-sao-layouts
+locale: pt
 legacySlug: o-que-sao-layouts
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

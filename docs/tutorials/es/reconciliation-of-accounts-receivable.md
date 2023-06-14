@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: conciliacion-financiera-de-las-cuentas-por-cobrar
+locale: es
 legacySlug: conciliacion-financiera-de-las-cuentas-por-cobrar
 subcategory: 23PYStKNPteW4CqklwXXQN
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: como-configurar-xml-do-google-shopping
+locale: pt
 legacySlug: como-configurar-xml-do-google-shopping
 subcategory: 2OCA7SVfWoMSiAi0GEGwKo
 ---

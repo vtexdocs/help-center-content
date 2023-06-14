@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: secondlevel-folders-dont-consider-the-search-context
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

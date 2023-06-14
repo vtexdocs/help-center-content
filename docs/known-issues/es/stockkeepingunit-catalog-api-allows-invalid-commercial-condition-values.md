@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-api-del-catalogo-stockkeepingunit-permite-valores-de-condicion-comercial-no-validos
+locale: es
 kiStatus: Backlog
 internalReference: 769053
 ---

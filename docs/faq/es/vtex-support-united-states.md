@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Others
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: soporte-vtex-estados-unidos
+locale: es
 legacySlug: soporte-vtex-estados-unidos
 ---
 

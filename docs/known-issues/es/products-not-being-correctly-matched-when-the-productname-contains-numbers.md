@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: los-productos-no-se-emparejan-correctamente-cuando-el-productname-contiene-numeros
+locale: es
 kiStatus: Backlog
 internalReference: 762525
 ---

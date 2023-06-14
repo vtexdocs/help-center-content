@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: quando-o-acordo-e-enviado-tao-nulo-e-codificado-como-reembolsomanual-nosso-gateway-realiza-um-duplo-reembolso
+locale: pt
 kiStatus: Backlog
 internalReference: 615050
 ---

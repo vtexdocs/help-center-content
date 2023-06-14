@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_41
 tag: Pricing & Promotions
 slug: pedidos-com-changes-podem-nao-enviar-email-transacional-de-pedido-faturado
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

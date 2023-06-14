@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: imposibilidad-de-cancelar-transacciones-con-adyen-por-falta-de-pspreference
+locale: es
 kiStatus: Backlog
 internalReference: 506914
 ---

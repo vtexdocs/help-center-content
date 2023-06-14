@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: no-se-puede-exportar-mas-de-65536-lineas-en-cms-builder
+locale: es
 kiStatus: Backlog
 internalReference: 492861
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_3
 slug: por-que-mis-medios-de-pago-no-aparecen-en-marketplace
+locale: es
 legacySlug: por-que-mis-medios-de-pago-no-aparecen-en-marketplace
 ---
 

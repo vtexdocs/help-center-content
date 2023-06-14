@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: duplicated-entries-for-categoriesspecification-values-on-the-same-level
+locale: en
 kiStatus: Backlog
 internalReference: 562588
 ---

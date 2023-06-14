@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: authors_24
 slug: ya-esta-live-el-nuevo-order-placed
+locale: es
 legacySlug: ya-esta-live-el-nuevo-order-placed
 announcementImageID: ''
 announcementSynopsisES: 'La nueva versión de la página de confirmación de pedido ya está disponible'

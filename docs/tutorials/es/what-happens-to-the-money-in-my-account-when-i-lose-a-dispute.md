@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: que-pasa-con-el-dinero-de-mi-cuenta-cuando-pierdo-una-disputa
+locale: es
 legacySlug: que-pasa-con-el-dinero-de-mi-cuenta-cuando-pierdo-una-disputa
 subcategory: 
 ---

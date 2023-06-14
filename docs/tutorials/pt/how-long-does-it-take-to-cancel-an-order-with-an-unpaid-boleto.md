@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: em-quanto-tempo-um-pedido-de-boleto-sem-pagamento-e-cancelado
+locale: pt
 legacySlug: em-quanto-tempo-um-pedido-de-boleto-sem-pagamento-e-cancelado
 subcategory: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---
@@ -20,7 +21,7 @@ O pedido com boleto envolve o cancelamento de três itens, que podem gerar dúvi
 
 A validade do boleto é o prazo para o boleto não ser mais aceito para realizar o pagamento. Esse prazo sempre será configurado na aba de Pagamentos no Admin, na configuração da afiliação, conforme imagem abaixo.
 
-![PT - Prazo de validade do boleto](//images.ctfassets.net/alneenqid6w5/40DsZm4Pg4syu00CI2WykQ/8553e08e76e0f4fd511d30c8e7e47ab9/Prazo_de_validade_do_boleto_PT.png)
+![PT - Prazo de validade do boleto](https://images.ctfassets.net/alneenqid6w5/40DsZm4Pg4syu00CI2WykQ/8553e08e76e0f4fd511d30c8e7e47ab9/Prazo_de_validade_do_boleto_PT.png)
 
 ## Prazo para cancelamento da reserva dos produtos
 

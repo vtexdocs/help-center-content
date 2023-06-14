@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: confirmed-order-email-not-being-sent
+locale: en
 kiStatus: Fixed
 internalReference: 423628
 ---

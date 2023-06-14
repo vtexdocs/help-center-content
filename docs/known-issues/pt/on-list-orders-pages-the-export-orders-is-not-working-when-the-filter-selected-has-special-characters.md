@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: nas-paginas-de-ordens-de-lista-as-ordens-de-exportacao-nao-estao-funcionando-quando-o-filtro-selecionado-tem-caracteres-especiais
+locale: pt
 kiStatus: Backlog
 internalReference: 662821
 ---

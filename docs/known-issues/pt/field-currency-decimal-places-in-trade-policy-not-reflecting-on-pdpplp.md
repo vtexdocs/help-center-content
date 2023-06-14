@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: casas-decimais-do-campo-moeda-na-politica-comercial-nao-refletem-no-pdpplp
+locale: pt
 kiStatus: Backlog
 internalReference: 695044
 ---

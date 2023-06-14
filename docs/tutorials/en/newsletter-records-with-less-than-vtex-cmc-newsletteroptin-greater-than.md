@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: TAUXpa4XWCsIaUOoksGIE
 slug: newsletter-records-with-less-than-vtex-cmc-newsletteroptin-greater-than
+locale: en
 legacySlug: newsletter-records-with-less-than-vtex-cmc-newsletteroptin-greater-than
 subcategory: 7ogirQ8NClawO2X6xdgCKc
 ---

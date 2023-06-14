@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-gateway-placetopay
+locale: pt
 legacySlug: configurar-gateway-placetopay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

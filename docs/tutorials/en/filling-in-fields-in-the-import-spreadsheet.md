@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: filling-in-fields-in-the-import-spreadsheet
+locale: en
 legacySlug: filling-in-fields-in-the-import-spreadsheet
 subcategory: 2u48reCb68K48EAcm86ccM
 ---

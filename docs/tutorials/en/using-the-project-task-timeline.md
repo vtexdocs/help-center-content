@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: using-the-project-task-timeline
+locale: en
 legacySlug: using-the-project-task-timeline
 subcategory: wz3FvYTctwuCwG206QUAi
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2018-05-02T20:56:14.538Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: set-a-price-for-the-sku
+locale: en
 trackId: 7sORw9I7QIka24MCQaIO2g
 trackSlugEN: vtex-getting-started
 ---

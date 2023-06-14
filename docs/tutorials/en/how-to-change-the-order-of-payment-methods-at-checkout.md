@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_84
 slug: how-to-change-the-order-of-payment-methods-at-checkout
+locale: en
 legacySlug: how-to-change-the-order-of-payment-methods-at-checkout
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

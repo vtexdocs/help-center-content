@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 
 slug: instalar-uma-app-de-um-registro-privado
+locale: pt
 legacySlug: instalar-uma-app-de-um-registro-privado
 subcategory: 
 ---

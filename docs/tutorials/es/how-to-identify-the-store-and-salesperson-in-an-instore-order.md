@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: como-identificar-la-tienda-y-el-vendedor-en-un-pedido-de-instore
+locale: es
 legacySlug: como-identificar-la-tienda-y-el-vendedor-en-un-pedido-de-instore
 subcategory: 
 ---

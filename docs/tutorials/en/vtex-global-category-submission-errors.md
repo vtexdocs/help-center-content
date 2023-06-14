@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: vtex-global-category-submission-errors
+locale: en
 legacySlug: vtex-global-category-submission-errors
 subcategory: 4HBbKdnwneGew2qGGykSM8
 ---

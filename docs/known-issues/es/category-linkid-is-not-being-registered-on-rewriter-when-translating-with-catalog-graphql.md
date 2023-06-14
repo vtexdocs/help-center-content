@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: el-linkid-de-la-categoria-no-se-registra-en-la-reescritura-cuando-se-traduce-con-el-catalogo-graphql
+locale: es
 kiStatus: Backlog
 internalReference: 654951
 ---

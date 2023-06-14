@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_6
 slug: customizando-a-secao-meus-pedidos
+locale: pt
 legacySlug: customizando-a-secao-meus-pedidos
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

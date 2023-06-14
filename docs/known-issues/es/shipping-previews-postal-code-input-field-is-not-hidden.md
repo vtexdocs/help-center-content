@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-campo-de-codigo-postal-de-la-vista-previa-de-envio-no-esta-oculto
+locale: es
 kiStatus: Backlog
 internalReference: 821984
 ---

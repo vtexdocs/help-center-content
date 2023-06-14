@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: funil-de-ventas-suiteshare
+locale: es
 legacySlug: funil-de-ventas-suiteshare
 subcategory: 4y4ylvqceE6vVqEF8IWZix
 ---

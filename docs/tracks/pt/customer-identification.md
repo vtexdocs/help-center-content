@@ -9,6 +9,7 @@ firstPublishedAt: 2021-08-05T14:45:44.463Z
 contentType: trackArticle
 productTeam: Shopping
 slug: identificacao-do-cliente
+locale: pt
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugPT: instore-usando-o-app
 ---
@@ -26,7 +27,7 @@ Você pode [configurar quais métodos de identificação deseja habilitar](https
 
 No exemplo da imagem abaixo, estão habilitados Email e CPF.
 
-![31. VTEX Sales App - Product Overview - 2 - PT](//images.ctfassets.net/alneenqid6w5/2YKc9S2FehS7eA2zTskL33/8923621c44984ce4d58ff7a9ac97a77f/identify-customer-pt.PNG)
+![31. VTEX Sales App - Product Overview - 2 - PT](https://images.ctfassets.net/alneenqid6w5/2YKc9S2FehS7eA2zTskL33/8923621c44984ce4d58ff7a9ac97a77f/identify-customer-pt.PNG)
 
 Basta inserir um desses dados no campo e clicar em `Confirmar`.
 

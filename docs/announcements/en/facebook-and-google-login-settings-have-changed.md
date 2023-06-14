@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: authors_24
 slug: facebook-and-google-login-settings-have-changed
+locale: en
 legacySlug: facebook-and-google-login-settings-have-changed
 announcementImageID: ''
 announcementSynopsisEN: 'The flag "Use VTEX keys" has been disabled and the retailer needs to set up his own'

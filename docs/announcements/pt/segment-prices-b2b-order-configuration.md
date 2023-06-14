@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: vztwQkZv4z6EwDVwdqbsw
 slug: segmente-precos-b2b-configuracao-de-pedidos
+locale: pt
 legacySlug: segmente-precos-b2b-configuracao-de-pedidos
 announcementImageID: ''
 announcementSynopsisPT: 'Reflita estratégias de preço segmentadas diretamente na experiência de compra com a Configuração de Pedidos para B2B.'

@@ -9,6 +9,7 @@ firstPublishedAt: 2021-02-08T20:10:14.152Z
 contentType: trackArticle
 productTeam: Channels
 slug: envio-de-produtos-para-o-facebook
+locale: pt
 trackId: 7h8KvIC4DbRRc8VlyJ8PFc
 trackSlugPT: integracao-com-o-facebook
 ---

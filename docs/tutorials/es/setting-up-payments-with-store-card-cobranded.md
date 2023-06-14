@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-pagos-con-tarjeta-de-tienda-cobranded
+locale: es
 legacySlug: configurar-pagos-con-tarjeta-de-tienda-cobranded
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

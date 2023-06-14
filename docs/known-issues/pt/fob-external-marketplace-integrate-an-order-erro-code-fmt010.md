@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: fob-external-marketplace-integra-uma-ordem-codigo-erro-fmt010
+locale: pt
 kiStatus: Backlog
 internalReference: 532377
 ---

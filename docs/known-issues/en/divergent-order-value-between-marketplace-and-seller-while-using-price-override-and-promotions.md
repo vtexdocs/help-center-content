@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: divergent-order-value-between-marketplace-and-seller-while-using-price-override-and-promotions
+locale: en
 kiStatus: Backlog
 internalReference: 756629
 ---

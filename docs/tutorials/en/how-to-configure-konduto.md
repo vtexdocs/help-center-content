@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: how-to-configure-konduto
+locale: en
 legacySlug: how-to-configure-konduto
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: warehouse-api-demonstrates-pickup-point-deleted-instore-warehouse
+locale: en
 kiStatus: Fixed
 internalReference: 573017
 ---

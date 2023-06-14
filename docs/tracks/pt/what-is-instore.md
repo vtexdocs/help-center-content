@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T13:12:31.221Z
 contentType: trackArticle
 productTeam: Shopping
 slug: o-que-e-o-instore
+locale: pt
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugPT: o-que-e-o-instore
 ---

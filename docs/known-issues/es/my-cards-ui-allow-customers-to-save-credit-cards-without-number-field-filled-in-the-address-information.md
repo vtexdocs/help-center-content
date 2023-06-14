@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: la-interfaz-de-usuario-de-my-cards-permite-a-los-clientes-guardar-tarjetas-de-credito-sin-el-campo-del-numero-rellenado-en-la-informacion-de-la-direccion
+locale: es
 kiStatus: Backlog
 internalReference: 521542
 ---

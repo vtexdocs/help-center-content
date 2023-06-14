@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: la-tarjeta-regalo-native-esta-sumando-credito-aunque-devuelve-500
+locale: es
 kiStatus: Backlog
 internalReference: 760896
 ---

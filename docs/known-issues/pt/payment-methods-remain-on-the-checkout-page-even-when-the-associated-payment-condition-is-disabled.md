@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: os-metodos-de-pagamento-permanecem-na-pagina-de-checkout-mesmo-quando-a-condicao-de-pagamento-associada-e-desativada
+locale: pt
 kiStatus: Backlog
 internalReference: 649237
 ---

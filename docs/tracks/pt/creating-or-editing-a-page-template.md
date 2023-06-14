@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-13T14:29:18.189Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: criar-ou-editar-um-template-de-pagina
+locale: pt
 trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugPT: cms
 ---
@@ -40,8 +41,8 @@ Confira o passo a passo a seguir:
 <li><code>admin</code></li>
 </ul></p>
 </div>
-7. Em seguida, preencha o box __Template XHTML__ com o código do seu template.![4 1](//images.ctfassets.net/alneenqid6w5/1BJRfbclbjHPUSztB6y0kP/bd95af131b622a00d9b41dee47789987/4_1.png)
-8. No canto superior direito, clique no botão __Save Template__.![4 2](//images.ctfassets.net/alneenqid6w5/58ZckRTKZ2e6BbXPtx54xK/a638e74bf68dc437257a6c220d5a2c1c/4_2.png)
+7. Em seguida, preencha o box __Template XHTML__ com o código do seu template.![4 1](https://images.ctfassets.net/alneenqid6w5/1BJRfbclbjHPUSztB6y0kP/bd95af131b622a00d9b41dee47789987/4_1.png)
+8. No canto superior direito, clique no botão __Save Template__.![4 2](https://images.ctfassets.net/alneenqid6w5/58ZckRTKZ2e6BbXPtx54xK/a638e74bf68dc437257a6c220d5a2c1c/4_2.png)
 
 Para editar um template já existente, o processo é quase idêntico.
 

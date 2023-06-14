@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: el-estado-de-las-facturas-de-credito-de-los-clientes-en-la-pagina-mycredits-no-es-correcto
+locale: es
 kiStatus: Backlog
 internalReference: 369457
 ---

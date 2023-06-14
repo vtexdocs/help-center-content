@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: etiqueta-de-remarketing-del-google-adwords
+locale: es
 legacySlug: etiqueta-de-remarketing-del-google-adwords
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

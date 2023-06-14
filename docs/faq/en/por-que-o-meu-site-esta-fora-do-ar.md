@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Reliability
 author: 
 slug: por-que-o-meu-site-esta-fora-do-ar
+locale: en
 legacySlug: por-que-o-meu-site-esta-fora-do-ar
 ---
 

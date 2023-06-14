@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: planner-concepto-de-release-beta
+locale: es
 legacySlug: planner-concepto-de-lanzamiento-beta
 subcategory: 3vXj7HrnYK8V5riTOwUuYv
 ---

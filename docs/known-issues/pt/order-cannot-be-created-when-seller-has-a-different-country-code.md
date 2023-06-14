@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-pedido-nao-pode-ser-criado-quando-o-vendedor-tem-um-codigo-de-pais-diferente
+locale: pt
 kiStatus: Backlog
 internalReference: 763955
 ---

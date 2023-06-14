@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: solicitar-exclusao-de-dados-pessoais-de-clientes-conforme-leis
+locale: pt
 legacySlug: solicitar-exclusao-de-dados-pessoais-de-clientes-conforme-leis
 subcategory: 6uJgdHqWf1Mo0rUfgxseTn
 ---

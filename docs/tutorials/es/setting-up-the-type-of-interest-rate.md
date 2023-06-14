@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 5fYXkMJagMwcSAeMAsAuOI
 slug: configurar-el-tipo-de-interes-de-financiamiento
+locale: es
 legacySlug: configurar-el-tipo-de-interes-de-financiamiento
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

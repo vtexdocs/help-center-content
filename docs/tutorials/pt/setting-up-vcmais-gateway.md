@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-gateway-vcmais
+locale: pt
 legacySlug: configurar-gateway-vcmais
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

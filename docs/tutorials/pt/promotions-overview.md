@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 6ZIASoEIeITT63epPauz12
 slug: visao-geral-promocoes
+locale: pt
 legacySlug: visao-geral-promocoes
 subcategory: 
 ---

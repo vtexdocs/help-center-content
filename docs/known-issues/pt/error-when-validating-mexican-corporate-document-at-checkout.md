@@ -11,6 +11,7 @@ productTeam: Other
 author: 2Gy429C47ie3tL9XUEjeFL
 tag: Checkout
 slug: erro-na-validacao-de-documento-corporativo-do-mexico-no-checkout
+locale: pt
 kiStatus: Backlog
 internalReference: 425486 
 ---

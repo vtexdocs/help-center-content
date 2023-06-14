@@ -9,6 +9,7 @@ contentType: updates
 productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
 slug: cree-aplicaciones-back-end-con-la-practicidad-del-nuevo-typedql-builder
+locale: es
 legacySlug: cree-aplicaciones-back-end-con-la-practicidad-del-nuevo-typedql-builder
 announcementImageID: ''
 announcementSynopsisES: 'El nuevo builder de VTEX.IO disminuye la duplicidad de código en aplicaciones que utilizan GraphQL y TypeScript'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_6
 slug: nova-secao-de-meus-pedidos
+locale: pt
 legacySlug: nova-secao-de-meus-pedidos
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

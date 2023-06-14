@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: my-admin-is-blocked-what-do-i-do
+locale: en
 legacySlug: my-admin-is-blocked-what-do-i-do
 ---
 
@@ -26,4 +27,4 @@ Follow the steps below in order to unlock your Admin for this period of time. Yo
 - Enter the ticket number you previously opened to unlock.
 - Click the **Unlock for 48 hours** button.
 
-![Home](//images.ctfassets.net/alneenqid6w5/47nqpufLpGtuGZKFS9hUj2/45133349a94313f29910f94f40c7f860/Home.gif)
+![Home](https://images.ctfassets.net/alneenqid6w5/47nqpufLpGtuGZKFS9hUj2/45133349a94313f29910f94f40c7f860/Home.gif)

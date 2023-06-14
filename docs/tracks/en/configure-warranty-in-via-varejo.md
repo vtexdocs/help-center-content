@@ -9,6 +9,7 @@ firstPublishedAt: 2020-10-01T20:32:16.599Z
 contentType: trackArticle
 productTeam: Channels
 slug: configure-warranty-in-via-varejo
+locale: en
 trackId: 3E9XylGaJ2wqwISGyw4GuY
 trackSlugEN: configure-warranty-in-via-varejo
 ---

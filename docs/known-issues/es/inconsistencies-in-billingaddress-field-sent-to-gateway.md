@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: inconsistencias-en-el-campo-billingaddress-enviado-al-gateway
+locale: es
 kiStatus: Scheduled
 internalReference: 291688
 ---

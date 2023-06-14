@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_39
 slug: transacionar-pedido-recorrente-sem-cvv
+locale: pt
 legacySlug: transacionar-pedido-recorrente-sem-cvv
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---

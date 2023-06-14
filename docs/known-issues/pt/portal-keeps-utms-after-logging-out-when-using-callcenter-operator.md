@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: o-portal-mantem-os-utms-apos-o-log-out-quando-se-utiliza-o-callcenter-operator
+locale: pt
 kiStatus: No Fix
 internalReference: 534838
 ---

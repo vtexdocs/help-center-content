@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: o-filtro-de-preco-na-vitrine-esta-considerando-o-menor-preco-cadastrado-sem-considerar-a-politica-comercial-a-qual-esta-atrelado
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

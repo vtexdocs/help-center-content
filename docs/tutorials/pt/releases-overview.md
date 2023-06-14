@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 4oTZzwYoyhy1tDBwLuemdG
 slug: visao-geral-lancamentos
+locale: pt
 legacySlug: visao-geral-lancamentos
 subcategory: 3vXj7HrnYK8V5riTOwUuYv
 ---

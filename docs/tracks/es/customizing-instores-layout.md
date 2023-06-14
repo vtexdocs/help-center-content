@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T19:22:31.049Z
 contentType: trackArticle
 productTeam: Shopping
 slug: personalizando-el-layout-del-instore
+locale: es
 trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugES: personalizando-el-layout-del-instore
 ---

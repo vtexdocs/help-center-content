@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: error-en-la-visualizacion-de-shippingestimatedate-en-new-ui
+locale: es
 kiStatus: Backlog
 internalReference: 661040
 ---

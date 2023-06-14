@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: thszKx2EVIuqw0seVYsHK
 slug: insertar-imagenes-en-el-email-de-avisame
+locale: es
 legacySlug: untitled-entry-2019-02-21-at-07-52-16
 subcategory: pwxWmUu7T222QyuGogs68
 ---
@@ -31,7 +32,7 @@ A continuación, explicamos cómo realizar esta configuración:
 5. Acceda a la caja de __HTML__.      
 6. Introduzca el código de las imágenes que desea insertar.  
 
-  ![Let me know - ES](https://images.ctfassets.net/alneenqid6w5/57IqVpUH7SZKkH8sRtlfSf/382e43e26ff37191c644e03babfd02cd/57IqVpUH7SZKkH8sRtlfSf_Imagem_Message_Center_ES.jpg)
+  ![Let me know - ES](https:https://images.ctfassets.net/alneenqid6w5/57IqVpUH7SZKkH8sRtlfSf/382e43e26ff37191c644e03babfd02cd/57IqVpUH7SZKkH8sRtlfSf_Imagem_Message_Center_ES.jpg)
 
 7. Haga clic en `Guardar`.  
 

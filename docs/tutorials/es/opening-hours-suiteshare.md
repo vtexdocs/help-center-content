@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: horario-de-atencion-suiteshare
+locale: es
 legacySlug: horario-de-atencion-suiteshare
 subcategory: 4y4ylvqceE6vVqEF8IWZix
 ---

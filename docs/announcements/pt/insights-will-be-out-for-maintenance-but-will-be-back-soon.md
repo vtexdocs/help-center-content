@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
 slug: insights-vai-entrar-em-manutencao-mas-volta-em-breve
+locale: pt
 legacySlug: insights-vai-entrar-em-manutencao-mas-volta-em-breve
 announcementImageID: ''
 announcementSynopsisPT: 'A partir de 10/12/2018, o Insights vai entrar em manutenção, ficando indisponível para todos os usuários VTEX.'

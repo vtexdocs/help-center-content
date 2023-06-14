@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: api-do-catalogo-da-unidade-de-estocagem-permite-valores-de-condicao-comercial-invalidos
+locale: pt
 kiStatus: Backlog
 internalReference: 769053
 ---

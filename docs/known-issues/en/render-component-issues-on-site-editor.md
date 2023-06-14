@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: render-component-issues-on-site-editor
+locale: en
 kiStatus: Backlog
 internalReference: 415674
 ---

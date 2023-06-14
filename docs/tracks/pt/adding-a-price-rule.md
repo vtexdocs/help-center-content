@@ -9,6 +9,7 @@ firstPublishedAt: 2019-07-17T19:42:10.960Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: cadastrar-regra-de-preco
+locale: pt
 trackId: 6f8pwCns3PJHqMvQSugNfP
 trackSlugPT: precos-101
 ---

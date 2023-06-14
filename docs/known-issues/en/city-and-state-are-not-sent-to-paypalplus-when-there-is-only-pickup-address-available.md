@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: city-and-state-are-not-sent-to-paypalplus-when-there-is-only-pickup-address-available
+locale: en
 kiStatus: Backlog
 internalReference: 836025
 ---

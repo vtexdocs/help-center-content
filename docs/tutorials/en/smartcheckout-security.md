@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: smartcheckout-security
+locale: en
 legacySlug: smartcheckout-security
 subcategory: 2TNXiKzLZOPxjMTyGiEeJu
 ---

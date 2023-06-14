@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: a-mudanca-de-estoque-e-concluida-mesmo-apos-o-recebimento-do-erro-500
+locale: pt
 kiStatus: Backlog
 internalReference: 388176
 ---

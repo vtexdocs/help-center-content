@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: understanding-vtexs-email-capture-system
+locale: en
 legacySlug: understanding-vtexs-email-capture-system
 subcategory: 2nx7hMJmisofwqwy2P9l2i
 ---
@@ -50,5 +51,5 @@ So that the <a href="https://help.vtex.com/en/tutorial/acesse-o-carrinho-abandon
 Each VTEX module is responsible for requesting RC.JS to transmit the data captured in the session. RC.JS is intended to act as a "messenger" of information.
 </div>
 
-![image (3)](//images.ctfassets.net/alneenqid6w5/18dCifD9tOEo8mgUocamIc/958e0da9d2c7aa724f5c1c80bb0b616e/image__3_.png)
+![image (3)](https://images.ctfassets.net/alneenqid6w5/18dCifD9tOEo8mgUocamIc/958e0da9d2c7aa724f5c1c80bb0b616e/image__3_.png)
 

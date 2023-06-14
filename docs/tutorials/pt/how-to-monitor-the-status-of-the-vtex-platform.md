@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_35
 slug: como-acompanhar-o-status-da-plataforma-vtex
+locale: pt
 legacySlug: como-acompanhar-o-status-da-plataforma-vtex
 subcategory: 5PYkoNDZyo2G80yiiqG2YW
 ---

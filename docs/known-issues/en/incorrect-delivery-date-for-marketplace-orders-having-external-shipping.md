@@ -11,6 +11,7 @@ productTeam: Channels
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: incorrect-delivery-date-for-marketplace-orders-having-external-shipping
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

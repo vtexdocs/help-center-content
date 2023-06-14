@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: authors_24
 slug: feature-vtex-para-usar-la-mensajeria-del-mercadolibre
+locale: es
 legacySlug: feature-vtex-para-usar-la-mensajeria-del-mercadolibre
 announcementImageID: ''
 announcementSynopsisES: 'Ahora, usted puede comunicar actualizaciones en el estado del pedido usando el servicio de mensajes de Mercado Libre.'

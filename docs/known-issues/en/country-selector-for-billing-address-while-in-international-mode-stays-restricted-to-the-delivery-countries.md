@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: country-selector-for-billing-address-while-in-international-mode-stays-restricted-to-the-delivery-countries
+locale: en
 kiStatus: Backlog
 internalReference: 335581
 ---

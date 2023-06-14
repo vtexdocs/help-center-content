@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: endereco-sendo-revisto-no-modo-de-geolocalizacao-mesmo-para-enderecos-completos
+locale: pt
 kiStatus: Backlog
 internalReference: 618724
 ---

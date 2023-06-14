@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 slug: configurando-especificaciones-de-producto
+locale: es
 legacySlug: configurando-campos-de-especificacao-no-produto
 subcategory: pwxWmUu7T222QyuGogs68
 ---

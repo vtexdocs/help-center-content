@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: product-category-information-from-datalayer-with-a-wrong-sorting
+locale: en
 kiStatus: Fixed
 internalReference: 328415
 ---

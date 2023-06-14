@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: the-price-in-the-search-result-is-different-from-the-product-page
+locale: en
 legacySlug: the-price-in-the-search-result-is-different-from-the-product-page
 ---
 

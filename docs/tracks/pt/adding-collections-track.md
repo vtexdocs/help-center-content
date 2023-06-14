@@ -9,6 +9,7 @@ firstPublishedAt: 2019-06-25T16:02:17.492Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: cadastrar-colecoes-track
+locale: pt
 trackId: 5AF0XfnjfWeopIFBgs3LIQ
 trackSlugPT: catalogo-101
 ---

@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: b2w-pedido-con-error-parameter-count-mismatch
+locale: es
 kiStatus: Fixed
 internalReference: 776361
 ---

@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: a-modificacao-de-precos-atraves-da-rota-de-precos-poscompatibilidade-esta-perdendo-dados
+locale: pt
 kiStatus: No Fix
 internalReference: 487698
 ---

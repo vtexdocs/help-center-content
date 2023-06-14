@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: expiration-date-of-special-condition-is-not-deleted
+locale: en
 kiStatus: Backlog
 internalReference: 547046
 ---

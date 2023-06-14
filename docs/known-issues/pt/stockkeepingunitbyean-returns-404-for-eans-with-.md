@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: stockkeepingunitbyean-returns-404-for-eans-with-
+locale: pt
 kiStatus: Backlog
 internalReference: 479244
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: o-campo-minicartbuyerid-ausente-faz-com-que-o-antifraude-cancele-transacoes
+locale: pt
 kiStatus: Backlog
 internalReference: 514335
 ---

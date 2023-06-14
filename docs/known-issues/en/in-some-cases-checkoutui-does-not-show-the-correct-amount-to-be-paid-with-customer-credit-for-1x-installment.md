@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: in-some-cases-checkoutui-does-not-show-the-correct-amount-to-be-paid-with-customer-credit-for-1x-installment
+locale: en
 kiStatus: Backlog
 internalReference: 748320
 ---

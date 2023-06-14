@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-boton-de-informacion-del-sku-no-muestra-los-datos
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

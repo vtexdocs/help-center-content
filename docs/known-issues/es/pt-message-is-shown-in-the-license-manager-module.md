@@ -11,6 +11,7 @@ productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
 slug: el-mensaje-pt-se-muestra-en-el-modulo-license-manager
+locale: es
 kiStatus: Backlog
 internalReference: 620782
 ---

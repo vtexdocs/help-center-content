@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Y2pnNkWfSoUMMYcwemq4A
 slug: configurar-el-taxhub
+locale: es
 legacySlug: configurar-el-taxhub
 subcategory: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: price-list-v2
+locale: en
 legacySlug: price-list-v2
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---

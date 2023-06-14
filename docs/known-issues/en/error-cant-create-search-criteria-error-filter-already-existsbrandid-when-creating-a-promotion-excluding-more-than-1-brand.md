@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: error-cant-create-search-criteria-error-filter-already-existsbrandid-when-creating-a-promotion-excluding-more-than-1-brand
+locale: en
 kiStatus: Backlog
 internalReference: 663698
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_84
 slug: filling-in-your-company-information
+locale: en
 legacySlug: filling-in-your-company-information
 subcategory: yMp6sKDiJEi66CGAIQ4ma
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: claves-de-aplicacion
+locale: es
 legacySlug: claves-de-aplicacion
 subcategory: 5GYFjiMQg0qIKpnnQY2qjh
 ---

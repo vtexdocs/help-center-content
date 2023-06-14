@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: 127RQ7SUoFfyTh5gbXUpdM
 slug: lojas-b2b-necessitam-de-configuracao-especial-antes-de-irem-ao-ar
+locale: pt
 legacySlug: lojas-b2b-necessitam-de-configuracao-especial-antes-de-irem-ao-ar
 announcementImageID: ''
 announcementSynopsisPT: 'Lojas B2B precisam receber uma configuração especial por parte da equipe VTEX.'

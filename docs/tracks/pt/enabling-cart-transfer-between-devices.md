@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T18:46:41.828Z
 contentType: trackArticle
 productTeam: Shopping
 slug: habilitar-transferencia-de-carrinho-entre-dispositivos
+locale: pt
 trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugPT: habilitar-transferencia-de-carrinho-entre-dispositivos
 ---
@@ -33,11 +34,11 @@ window.INSTORE_CONFIG = {
 
 Após realizar essa alteração, abra o menu do inStore e atualize os dados, clicando no botão __Restaurar dados__. Feito isso, aparecerão duas bolinhas ao fim da página de identificação do inStore:
 
-![24. Enable cart transfer between devices - 1](//images.ctfassets.net/alneenqid6w5/4HXR0QuEd2wa6GiRFL9gsm/4515dcc3ca2bb5a7d6d2304886724704/24._Enable_cart_transfer_between_devices_-_1.png)
+![24. Enable cart transfer between devices - 1](https://images.ctfassets.net/alneenqid6w5/4HXR0QuEd2wa6GiRFL9gsm/4515dcc3ca2bb5a7d6d2304886724704/24._Enable_cart_transfer_between_devices_-_1.png)
 
 Ao arrastar a tela para a direita, você verá a tela para __Capturar Carrinho__, conforme mostra a imagem abaixo.
 
-![24. Enable cart transfer between devices - 2](//images.ctfassets.net/alneenqid6w5/2BdYpDo4UL0GETBeTM72u3/a017156e7e2beac121abb5d2cd0b1ba0/24._Enable_cart_transfer_between_devices_-_2.png)
+![24. Enable cart transfer between devices - 2](https://images.ctfassets.net/alneenqid6w5/2BdYpDo4UL0GETBeTM72u3/a017156e7e2beac121abb5d2cd0b1ba0/24._Enable_cart_transfer_between_devices_-_2.png)
 
 Nessa tela, é possível capturar um carrinho por um desses três métodos:
 - Código do carrinho
@@ -48,4 +49,4 @@ Nessa tela, é possível capturar um carrinho por um desses três métodos:
 
 Para o vendedor compartilhar um carrinho, ele pode gerar um código numérico ou um QR Code. Para isso, estando na tela do carrinho, basta clicar no botão __Transferir__. Veja um exemplo na imagem abaixo.
 
-![24. Enable cart transfer between devices - 3](//images.ctfassets.net/alneenqid6w5/1rk5DOgk5a0XAWwWqLCO4t/dcc5225d218120953155432b30f43c21/24._Enable_cart_transfer_between_devices_-_3.png)
+![24. Enable cart transfer between devices - 3](https://images.ctfassets.net/alneenqid6w5/1rk5DOgk5a0XAWwWqLCO4t/dcc5225d218120953155432b30f43c21/24._Enable_cart_transfer_between_devices_-_3.png)

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_6
 slug: el-registro-de-sus-marcas
+locale: es
 legacySlug: el-registro-de-sus-marcas
 subcategory: 
 ---

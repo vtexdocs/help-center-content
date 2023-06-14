@@ -9,6 +9,7 @@ firstPublishedAt: 2019-10-21T12:56:10.686Z
 contentType: trackArticle
 productTeam: Post-purchase
 slug: gerenciar-skus-em-estoque
+locale: pt
 trackId: 13TFDwDttPl9ki9OXQhyjx
 trackSlugPT: logistica-101
 ---

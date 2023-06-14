@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: gerar-cupons-em-massa
+locale: pt
 legacySlug: consigo-gerar-um-cupom-em-massa
 subcategory: 1TXh7VjDSIGA2eSI0CmUsi
 ---

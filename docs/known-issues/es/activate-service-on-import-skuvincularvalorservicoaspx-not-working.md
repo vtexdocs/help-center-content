@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: activar-servicio-en-la-importacion-skuvincularvalorservicoaspx-no-funciona
+locale: es
 kiStatus: Backlog
 internalReference: 339894
 ---

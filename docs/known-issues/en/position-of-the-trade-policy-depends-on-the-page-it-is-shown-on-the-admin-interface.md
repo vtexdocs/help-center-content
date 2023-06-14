@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: position-of-the-trade-policy-depends-on-the-page-it-is-shown-on-the-admin-interface
+locale: en
 kiStatus: Backlog
 internalReference: 286470
 ---

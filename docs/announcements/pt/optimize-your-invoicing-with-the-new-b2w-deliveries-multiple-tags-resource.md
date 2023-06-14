@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: otimize-seu-sistema-de-faturamento-com-o-novo-recurso-de-multiplas
+locale: pt
 legacySlug: otimize-seu-sistema-de-faturamento-com-o-novo-recurso-de-multiplas
 announcementImageID: ''
 announcementSynopsisPT: 'VTEX terá emissão de múltiplas etiquetas para pedidos feitos na B2W. Funcionalidade disponível apenas para o Brasil.'

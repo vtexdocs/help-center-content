@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: D0eIlynYFqaWQOMM6mmY6
 slug: commercial-conditions-update
+locale: en
 legacySlug: commercial-conditions-update
 subcategory: 22TaEgFhwE6a6CG2KASYkC
 ---

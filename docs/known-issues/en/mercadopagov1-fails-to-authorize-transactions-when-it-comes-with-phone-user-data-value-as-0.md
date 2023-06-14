@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: mercadopagov1-fails-to-authorize-transactions-when-it-comes-with-phone-user-data-value-as-0
+locale: en
 kiStatus: Backlog
 internalReference: 778611
 ---

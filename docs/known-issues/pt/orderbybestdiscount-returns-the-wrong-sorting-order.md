@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: orderbybestdiscount-retorna-a-ordem-errada
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

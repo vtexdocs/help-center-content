@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: listing-apps-installed-in-the-store
+locale: en
 legacySlug: listing-apps-installed-in-the-store
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

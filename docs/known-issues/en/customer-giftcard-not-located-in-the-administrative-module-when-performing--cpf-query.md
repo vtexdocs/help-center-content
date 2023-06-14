@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_31
 tag: Portal (CMS),Payments
 slug: customer-giftcard-not-located-in-the-administrative-module-when-performing--cpf-query
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

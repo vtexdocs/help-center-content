@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: itens-com-assembly-options-aparecem-como-indisponiveis-para-entrega
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

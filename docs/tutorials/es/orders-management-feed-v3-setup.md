@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 6AcGyun1hSWewU8YcaQiO
 slug: configurar-feed-v3-del-modulo-de-gestion-de-pedidos
+locale: es
 legacySlug: feed-v3-de-gestion-de-pedidos
 subcategory: 3Y8xzVGMXcuPTuzfFI0vUp
 ---

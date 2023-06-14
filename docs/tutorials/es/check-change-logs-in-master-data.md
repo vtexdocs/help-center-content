@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: 5Bd75kMNAzARxg0DCUjwal
 slug: verificar-logs-de-modificacion-en-master-data
+locale: es
 legacySlug: verificar-logs-de-modificacion-en-master-data
 subcategory: WpbGhubuRZaNZilJSXnqu
 ---

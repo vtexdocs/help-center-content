@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: disputas-faq
+locale: pt
 legacySlug: disputas-faq
 subcategory: 204Hz794zvcUIJXLcShY43
 ---

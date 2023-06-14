@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_35
 slug: change-cambios-en-pedidos
+locale: es
 legacySlug: change-cambios-en-pedidos
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

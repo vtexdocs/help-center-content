@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_35
 slug: como-exibir-vitrine-com-produtos-de-um-unico-seller
+locale: pt
 legacySlug: como-exibir-vitrine-com-produtos-de-um-unico-seller
 subcategory: 54gbzsku02c4bKmgFbp3v3
 ---

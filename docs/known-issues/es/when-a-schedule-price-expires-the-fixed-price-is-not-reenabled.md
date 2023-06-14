@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Pricing & Promotions
 slug: cuando-un-precio-agendado-vence-no-reactiva-el-precio-fijo
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

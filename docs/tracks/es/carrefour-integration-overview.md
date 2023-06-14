@@ -9,6 +9,7 @@ firstPublishedAt: 2021-12-27T17:11:48.631Z
 contentType: trackArticle
 productTeam: Channels
 slug: vision-general-del-carrefour
+locale: es
 trackId: 2wYlj07cNuA8k8mmwY86K2
 trackSlugES: configurar-integracion-carrefour
 ---

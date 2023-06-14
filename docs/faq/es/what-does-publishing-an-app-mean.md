@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
 slug: o-que-significa-publicar-uma-app
+locale: es
 legacySlug: o-que-significa-publicar-uma-app
 ---
 

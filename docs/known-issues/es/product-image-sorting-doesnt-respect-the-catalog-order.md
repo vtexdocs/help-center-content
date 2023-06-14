@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: la-ordenacion-de-las-imagenes-de-los-productos-no-respeta-el-orden-del-catalogo
+locale: es
 kiStatus: Backlog
 internalReference: 682177
 ---

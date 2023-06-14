@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: a-classificacao-manual-das-colecoes-nao-funciona-como-esperado
+locale: pt
 kiStatus: Backlog
 internalReference: 295245
 ---

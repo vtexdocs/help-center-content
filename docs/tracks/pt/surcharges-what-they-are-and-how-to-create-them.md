@@ -9,6 +9,7 @@ firstPublishedAt: 2020-01-22T22:13:02.949Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: taxas-o-que-sao-e-como-criar
+locale: pt
 trackId: 6asfF1vFYiZgTQtOzwJchR
 trackSlugPT: promocoes
 ---

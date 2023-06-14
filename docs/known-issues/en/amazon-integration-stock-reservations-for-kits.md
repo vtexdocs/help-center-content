@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: amazon-integration-stock-reservations-for-kits
+locale: en
 kiStatus: Backlog
 internalReference: 829583
 ---

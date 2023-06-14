@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_24
 slug: gerar-arquivo-har-para-debugar-problemas-na-loja
+locale: pt
 legacySlug: gerar-arquivo-har-para-debugar-problemas-na-loja
 subcategory: 1VvCpaa8NCA6a0MK6W6oWg
 ---

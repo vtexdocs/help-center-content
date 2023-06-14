@@ -9,6 +9,7 @@ firstPublishedAt: 2018-11-07T17:23:16.520Z
 contentType: trackArticle
 productTeam: Financial
 slug: setting-up-the-app
+locale: en
 trackId: 1hCRg21lXYy2seOKgqQ2CC
 trackSlugEN: customer-credit-getting-started
 ---

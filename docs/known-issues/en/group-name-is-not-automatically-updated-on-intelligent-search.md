@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: group-name-is-not-automatically-updated-on-intelligent-search
+locale: en
 kiStatus: Backlog
 internalReference: 821481
 ---

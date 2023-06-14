@@ -9,6 +9,7 @@ firstPublishedAt: 2021-09-16T01:00:39.153Z
 contentType: trackArticle
 productTeam: Shopping
 slug: personalizacion-de-instore
+locale: es
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugES: instore-primeros-pasos-y-configuracion
 ---

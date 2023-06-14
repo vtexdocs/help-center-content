@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-el-gateway-yamisplitmoipv1
+locale: es
 legacySlug: configurar-el-gateway-yamisplitmoipv1
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

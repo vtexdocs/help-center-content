@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: error-al-importarexportar-una-hoja-de-calculo-grande-en-el-nuevo-administrador-de-cobros
+locale: es
 kiStatus: Backlog
 internalReference: 362017
 ---

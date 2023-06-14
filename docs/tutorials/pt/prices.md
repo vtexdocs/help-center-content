@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: precos
+locale: pt
 legacySlug: precos-v2
 subcategory: 3pGCbMh80UueoeSqoAgSuS
 ---

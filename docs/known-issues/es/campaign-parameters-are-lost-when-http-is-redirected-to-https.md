@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: authors_31
 tag: Catalog
 slug: parametros-de-campanas-son-perdidos-en-redirecion-de-http-para-https
+locale: es
 kiStatus: Fixed
 internalReference: 
 ---

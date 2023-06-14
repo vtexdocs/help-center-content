@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: D0eIlynYFqaWQOMM6mmY6
 slug: vtex-orders-management-faq
+locale: en
 legacySlug: vtex-oms-faq
 subcategory: 3vhg10rO4MSmy06KeIYMIa
 ---

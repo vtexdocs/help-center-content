@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: failed-payments-created-by-checkout-ui-transaction-without-payments
+locale: en
 kiStatus: Backlog
 internalReference: 339243
 ---

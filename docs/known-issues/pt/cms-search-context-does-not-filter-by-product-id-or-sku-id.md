@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 tag: Portal (CMS)
 slug: o-search-context-do-cms-nao-filtra-por-id-de-produto-ou-de-sku
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

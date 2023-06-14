@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: configurando-marketplace-entre-lojas-vtex
+locale: pt
 legacySlug: configurando-marketplace-entre-lojas-vtex
 subcategory: 2xWRgEIlR2ookieEmm4KQu
 ---

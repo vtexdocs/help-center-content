@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: samsung-pay-more-flexible-payments-thanks-to-the-new-digital-wallet
+locale: en
 legacySlug: samsung-pay-more-flexible-payments-thanks-to-the-new-digital-wallet
 announcementImageID: ''
 announcementSynopsisEN: "As of August, VTEX offers Samsung Pay, Samsung's digital wallet, as a payment method within SmartCheckout."

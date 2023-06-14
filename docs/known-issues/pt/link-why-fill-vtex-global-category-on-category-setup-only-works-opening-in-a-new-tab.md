@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: link-por-que-preencher-a-categoria-vtex-global-na-configuracao-da-categoria-so-funciona-abrindo-em-uma-nova-aba
+locale: pt
 kiStatus: Backlog
 internalReference: 544034
 ---

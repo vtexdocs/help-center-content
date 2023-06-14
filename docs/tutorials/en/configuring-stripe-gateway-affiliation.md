@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 slug: configuring-stripe-gateway-affiliation
+locale: en
 legacySlug: configuring-stripe-gateway-affiliation
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

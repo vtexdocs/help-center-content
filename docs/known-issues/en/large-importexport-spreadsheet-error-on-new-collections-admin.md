@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: large-importexport-spreadsheet-error-on-new-collections-admin
+locale: en
 kiStatus: Backlog
 internalReference: 362017
 ---

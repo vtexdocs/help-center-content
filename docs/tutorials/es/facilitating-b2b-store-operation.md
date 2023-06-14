@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: B2B
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: facilitar-la-operacion-de-una-tienda-b2b
+locale: es
 legacySlug: facilitar-la-operacion-de-una-tienda-b2b
 subcategory: 5N5GjDrKSycIQMeoS7CLtj
 ---
@@ -90,7 +91,7 @@ VTEX cuenta con [My account](https://help.vtex.com/es/tutorial/como-funciona-o-m
 
 Esta herramienta permite al consumidor seguir el status de su pedido en el flujo de posventa, así como realizar algunas operaciones. Entre estas, «Pedir nuevamente» para volver a realizar un pedido que se efectuó anteriormente.  
 
-![reorder ES](//images.ctfassets.net/alneenqid6w5/53BeeU3MFPuA26NepAhXrI/708213aadff4d416977f6e5dc6b18638/reorder_ES.png)
+![reorder ES](https://images.ctfassets.net/alneenqid6w5/53BeeU3MFPuA26NepAhXrI/708213aadff4d416977f6e5dc6b18638/reorder_ES.png)
 
 Para saber más detalles de My Account, lea el tutorial sobre [cómo configurar esta funcionalidad](https://help.vtex.com/pt/tutorial/configurar-o-my-account--23Ayv5D6b86UBnYfoXqZL1 "cómo configurar esta funcionalidad").
 

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: pedido-com-status-de-cancelado-mas-o-pagamento-continua-autorizado
+locale: pt
 kiStatus: Backlog
 internalReference: 420019
 ---

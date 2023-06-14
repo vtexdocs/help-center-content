@@ -9,6 +9,7 @@ firstPublishedAt: 2022-01-05T15:54:29.025Z
 contentType: trackArticle
 productTeam: Channels
 slug: configuring-price-divergence-rule-magazine-luiza
+locale: en
 trackId: 5Yx5IrNa7Y48c6aSC8wu2Y
 trackSlugEN: magazine-luiza-integration-set-up
 ---

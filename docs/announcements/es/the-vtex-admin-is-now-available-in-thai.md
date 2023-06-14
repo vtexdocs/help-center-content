@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: el-admin-vtex-ahora-esta-disponible-en-tailandes
+locale: es
 legacySlug: el-admin-vtex-ahora-esta-disponible-en-tailandes
 announcementImageID: ''
 announcementSynopsisES: ' Admin con una nueva opción de idioma.'

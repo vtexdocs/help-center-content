@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 3iOk6R6XYZ9O18JHFLPk43
 tag: Checkout
 slug: schedule-delivery-options-are-not-updated-when-changing-address-or-seller
+locale: en
 kiStatus: Backlog
 internalReference: 288574
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: informe-de-emails-y-sms
+locale: es
 legacySlug: informe-de-emails-y-sms
 subcategory: 37YF86noTwhDdEuhUyW3LH
 ---

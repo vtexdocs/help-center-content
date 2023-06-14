@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: o-peso-do-kit-pode-ser-sobreescrito-por-apiwebservice
+locale: pt
 kiStatus: Backlog
 internalReference: 429993
 ---

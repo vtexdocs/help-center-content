@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 
 slug: publish-the-app-to-the-current-accounts-registry
+locale: en
 legacySlug: publish-the-app-to-the-current-accounts-registry
 subcategory: 
 ---

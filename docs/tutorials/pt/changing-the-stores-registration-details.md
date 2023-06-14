@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: alterar-os-dados-cadastrais-da-loja
+locale: pt
 legacySlug: alterar-os-dados-cadastrais-da-loja
 subcategory: 5U2vQjKfQcYeYw62mygMii
 ---

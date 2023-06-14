@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: novo-modulo-de-colecoes-beta-crie-e-gerencie-colecoes-de-produto-com
+locale: pt
 legacySlug: novo-modulo-de-colecoes-beta
 announcementImageID: ''
 announcementSynopsisPT: 'Com o novo módulo de Coleções Beta você pode criar coleções com mais facilidade.'

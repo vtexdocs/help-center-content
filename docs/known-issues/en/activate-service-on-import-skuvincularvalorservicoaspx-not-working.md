@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: activate-service-on-import-skuvincularvalorservicoaspx-not-working
+locale: en
 kiStatus: Backlog
 internalReference: 339894
 ---

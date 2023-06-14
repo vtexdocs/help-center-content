@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: boton-de-android-con-comportamiento-inesperado-con-el-boton-de-entrada
+locale: es
 kiStatus: Backlog
 internalReference: 606718
 ---

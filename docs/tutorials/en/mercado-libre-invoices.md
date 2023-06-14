@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slug: mercado-libre-invoices
+locale: en
 legacySlug: mercado-libre-invoices
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

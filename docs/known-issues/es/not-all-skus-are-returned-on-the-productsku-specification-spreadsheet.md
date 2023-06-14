@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: no-todos-los-skus-se-devuelven-en-la-hoja-de-especificaciones-del-productosku
+locale: es
 kiStatus: Fixed
 internalReference: 649316
 ---

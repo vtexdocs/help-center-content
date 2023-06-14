@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Billing
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: compreenda-o-valor-da-receita-aprovada
+locale: pt
 legacySlug: compreenda-o-valor-da-receita-aprovada
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

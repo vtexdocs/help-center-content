@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_35
 slug: tools-to-help-the-performance-of-your-e-commerce
+locale: en
 legacySlug: tools-to-help-the-performance-of-your-e-commerce
 subcategory: wz3FvYTctwuCwG206QUAi
 ---

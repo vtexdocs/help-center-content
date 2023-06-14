@@ -9,6 +9,7 @@ firstPublishedAt: 2019-06-25T19:06:13.355Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: cadastrar-categorias
+locale: pt
 trackId: 5AF0XfnjfWeopIFBgs3LIQ
 trackSlugPT: catalogo-101
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: filling-in-order-recurrence-registration-fields
+locale: en
 legacySlug: filling-in-order-recurrence-registration-fields
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: what-is-the-whatsapp-link
+locale: en
 legacySlug: what-is-the-whatsapp-link
 ---
 

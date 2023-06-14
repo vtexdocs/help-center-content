@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_24
 slug: criar-appkey-e-apptoken-para-autenticar-integracoes
+locale: pt
 legacySlug: criar-appkey-e-apptoken-para-autenticar-integracoes
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: controle-de-estoque-minimo-para-integracoes
+locale: pt
 legacySlug: controle-de-estoque-minimo-para-integracoes
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---
@@ -39,7 +40,7 @@ Para configurar o estoque mínimo da sua integração, siga os passos abaixo:
 2. No menu Marketplace > Conexões, clique em **Integrações**.
 3. Selecione a opção **Configurações**.
 4. Escolha a integração que seja configurar.
-5. Ao escolher a integração, clique na engrenagem<img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
+5. Ao escolher a integração, clique na engrenagem<img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
 6. Selecione a opção **Editar Configurações**.
 7. No campo **Estoque mínimo**, digite o valor desejado.
 8. Clique em **Salvar**.

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_59
 slug: why-dont-i-receive-vtex-emails
+locale: en
 legacySlug: why-dont-I-receive-vtex-emails
 ---
 

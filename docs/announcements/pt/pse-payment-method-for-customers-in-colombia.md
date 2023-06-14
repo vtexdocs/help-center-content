@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: pse-meio-de-pagamento-para-clientes-da-colombia
+locale: pt
 legacySlug: pse-meio-de-pagamento-para-clientes-da-colombia
 announcementImageID: ''
 announcementSynopsisPT: 'Processe suas vendas com um dos meios de pagamento mais conhecidos da Colômbia.'

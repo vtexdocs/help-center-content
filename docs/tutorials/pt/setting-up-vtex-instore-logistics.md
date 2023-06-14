@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_35
 slug: configuracao-de-logistica-do-vtex-instore
+locale: pt
 legacySlug: configuracao-de-logistica-do-vtex-instore
 subcategory: 4T6qfa6gNO6g4sAUIa6s2G
 ---

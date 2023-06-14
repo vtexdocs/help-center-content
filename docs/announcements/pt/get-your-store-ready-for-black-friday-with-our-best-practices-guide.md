@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: prepare-sua-loja-para-a-black-friday-com-nossa-cartilha-de-boas-praticas
+locale: pt
 legacySlug: prepare-sua-loja-para-a-black-friday-com-nossa-cartilha-de-boas-praticas
 announcementImageID: ''
 announcementSynopsisPT: 'Siga nossas recomendações e dicas exclusivas para aproveitar todas as oportunidades de venda da Black Friday.'
@@ -20,4 +21,4 @@ Como fazemos todos os anos, criamos uma cartilha com recomendações e dicas exc
 
 Disponível para clientes e parceiros VTEX, o guia pode ser acessado pela homepage do seu Admin ou diretamente pela URL `https://{AccountName}.myvtex.com/admin/blackfriday`. Basta substituir `{AccountName}` pelo Account Name da sua loja.
 
-![Announcement Cartilha BF](//images.ctfassets.net/alneenqid6w5/etqQlJKljisiesmY8kUYS/c45814633c167f8af372df7ec75749ab/Announcement_Cartilha_BF.png)
+![Announcement Cartilha BF](https://images.ctfassets.net/alneenqid6w5/etqQlJKljisiesmY8kUYS/c45814633c167f8af372df7ec75749ab/Announcement_Cartilha_BF.png)

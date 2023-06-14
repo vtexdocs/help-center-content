@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: problemas-com-o-armazenamento-das-condicoes-de-pagamento
+locale: pt
 kiStatus: Backlog
 internalReference: 377684
 ---

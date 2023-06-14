@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: configuring-greenlist
+locale: en
 legacySlug: configuring-greenlist
 subcategory: 6dLwF22Zwcy4iec2QSMeyG
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 slug: how-mercado-livre-integration-works
+locale: en
 legacySlug: how-mercado-livre-integration-works
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

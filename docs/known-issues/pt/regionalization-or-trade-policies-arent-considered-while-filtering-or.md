@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: authors_84
 tag: Intelligent Search
 slug: a-regionalizacao-ou-as-politicas-comerciais-nao-sao-consideradas-ao-filtrar
+locale: pt
 kiStatus: Backlog
 internalReference: 571101
 ---

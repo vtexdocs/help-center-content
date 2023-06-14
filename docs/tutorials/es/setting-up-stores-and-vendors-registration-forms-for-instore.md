@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_59
 slug: configurar-tiendas-y-vendedores-para-el-inStore
+locale: es
 legacySlug: configurar-tiendas-y-vendedores-para-el-inStore
 subcategory: 
 ---

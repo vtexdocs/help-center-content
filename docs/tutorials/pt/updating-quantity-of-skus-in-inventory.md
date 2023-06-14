@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: atualizar-quantidade-de-skus-em-estoque
+locale: pt
 legacySlug: atualizar-quantidade-de-skus-em-estoque
 subcategory: 3PQwnyOcNyYgawy06oe6gE
 ---

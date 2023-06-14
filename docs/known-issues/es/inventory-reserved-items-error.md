@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: inventory-reserved-items-error
+locale: es
 kiStatus: Backlog
 internalReference: 347924
 ---

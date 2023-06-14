@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: pedidos-con-kit-en-newui-se-esta-mostrando-el-id-del-kit-donde-deberia-mostrar-el-id-de-la-sku
+locale: es
 kiStatus: Fixed
 internalReference: 618388
 ---

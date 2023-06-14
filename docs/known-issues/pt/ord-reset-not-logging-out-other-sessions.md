@@ -11,6 +11,7 @@ productTeam: Identity
 author: 2mXZkbi0oi061KicTExNjo
 tag: Identity
 slug: ord-resetar-nao-desconectar-outras-sessoes
+locale: pt
 kiStatus: Backlog
 internalReference: 530461
 ---

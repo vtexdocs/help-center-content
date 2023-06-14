@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 3rl7f1zxpm0O8MWgKEm6Qi
 tag: Logistics
 slug: horario-de-corte-da-transportadora-nao-e-respeitado-quando-digitado
+locale: pt
 kiStatus: Fixed
 internalReference: 
 ---

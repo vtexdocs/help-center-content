@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slug: o-que-e-um-seller
+locale: pt
 legacySlug: o-que-e-um-seller
 subcategory: 5tlIjp0ZkAU4EIk4OgyEmm
 ---

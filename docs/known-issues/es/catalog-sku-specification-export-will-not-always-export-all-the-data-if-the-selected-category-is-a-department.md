@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-exportacion-de-especificaciones-de-sku-de-catalogo-no-siempre-exportara-todos-los-datos-si-la-categoria-seleccionada-es-un-departamento
+locale: es
 kiStatus: Backlog
 internalReference: 465445
 ---

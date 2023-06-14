@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: como-utilizar-rebates
+locale: es
 legacySlug: como-utilizar-rebates
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: errores-en-el-envio-de-la-categoria-global-vtex
+locale: es
 legacySlug: errores-en-el-envio-de-la-categoria-global-vtex
 subcategory: 4HBbKdnwneGew2qGGykSM8
 ---

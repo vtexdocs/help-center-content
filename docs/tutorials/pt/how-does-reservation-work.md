@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: como-a-reserva-funciona
+locale: pt
 legacySlug: como-a-reserva-funciona, como-analisar-as-reservas-de-um-produto
 subcategory: 3PQwnyOcNyYgawy06oe6gE
 ---

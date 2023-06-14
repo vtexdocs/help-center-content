@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: como-borrar-un-website
+locale: es
 legacySlug: como-borrar-un-website
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

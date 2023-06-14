@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: error-sww-en-el-producto-pdp
+locale: es
 kiStatus: Backlog
 internalReference: 738108
 ---

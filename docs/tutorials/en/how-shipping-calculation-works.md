@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: how-shipping-calculation-works
+locale: en
 legacySlug: understanding-the-rule-of-priority-on-freight-calculation
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

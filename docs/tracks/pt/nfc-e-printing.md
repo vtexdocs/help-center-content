@@ -9,6 +9,7 @@ firstPublishedAt: 2021-08-05T14:47:11.773Z
 contentType: trackArticle
 productTeam: Shopping
 slug: impressao-de-nfc-e
+locale: pt
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugPT: instore-usando-o-app
 ---

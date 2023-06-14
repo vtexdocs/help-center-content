@@ -9,6 +9,7 @@ firstPublishedAt: 2021-08-05T14:46:03.255Z
 contentType: trackArticle
 productTeam: Shopping
 slug: carrito-omnicanal
+locale: es
 trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugES: instore-usando-el-app
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: como-configurar-mercado-pago-pro-como-meio-de-pagamento
+locale: pt
 legacySlug: como-configurar-mercado-pago-pro-como-meio-de-pagamento
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

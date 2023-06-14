@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: emissora-que-nao-notifica-todas-as-mudancas-de-estoque-no-modulo-de-busca-inteligente
+locale: pt
 kiStatus: Backlog
 internalReference: 683345
 ---

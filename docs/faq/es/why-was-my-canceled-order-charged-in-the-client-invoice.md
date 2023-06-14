@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
 slug: por-que-se-cobro-en-la-factura-del-cliente-mi-pedido-cancelado
+locale: es
 legacySlug: por-que-se-cobro-en-la-factura-del-cliente-mi-pedido-cancelado
 ---
 

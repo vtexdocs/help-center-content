@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: shopee-error-al-crear-variaciones-de-producto
+locale: es
 kiStatus: Fixed
 internalReference: 685160
 ---

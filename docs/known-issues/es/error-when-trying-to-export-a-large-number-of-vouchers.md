@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: error-al-intentar-exportar-una-gran-cantidad-de-vales
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

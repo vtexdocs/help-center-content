@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: update-seller-using-admin-is-setting-some-fields-back-to-the-default-value-after-changing-it-via-api
+locale: en
 kiStatus: Backlog
 internalReference: 608120
 ---

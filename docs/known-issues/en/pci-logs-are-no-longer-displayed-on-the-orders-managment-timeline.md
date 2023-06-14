@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_84
 tag: Order Management
 slug: pci-logs-are-no-longer-displayed-on-the-orders-managment-timeline
+locale: en
 kiStatus: Fixed
 internalReference: 
 ---

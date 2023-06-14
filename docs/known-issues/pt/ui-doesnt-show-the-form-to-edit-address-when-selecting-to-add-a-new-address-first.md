@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: ui-nao-mostra-o-formulario-para-editar-endereco-ao-selecionar-para-adicionar-um-novo-endereco-primeiro
+locale: pt
 kiStatus: Backlog
 internalReference: 747772
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
 slug: o-que-e-conta-franquia
+locale: pt
 legacySlug: o-que-e-conta-franquia
 subcategory: 3vhg10rO4MSmy06KeIYMIa
 ---

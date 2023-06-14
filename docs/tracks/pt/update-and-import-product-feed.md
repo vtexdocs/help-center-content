@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-30T01:10:20.660Z
 contentType: trackArticle
 productTeam: Apps
 slug: atualizar-e-importar-feed-de-produtos
+locale: pt
 trackId: 2KDrouPiE4HDKUFFSG3KdN
 trackSlugPT: integracao-com-a-lengow
 ---

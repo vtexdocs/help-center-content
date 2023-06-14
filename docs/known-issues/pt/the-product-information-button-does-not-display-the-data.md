@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: o-botao-de-informacao-de-sku-nao-exibe-os-dados
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

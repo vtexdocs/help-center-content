@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: colar-o-codigo-postal-no-carrinho-de-previsualizacao-de-remessa-as-vezes-retorna-resultado-api-nulo
+locale: pt
 kiStatus: Backlog
 internalReference: 481878
 ---

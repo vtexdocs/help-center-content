@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
 slug: por-que-o-rastreio-nao-funciona
+locale: pt
 legacySlug: por-que-o-rastreio-nao-funciona
 ---
 

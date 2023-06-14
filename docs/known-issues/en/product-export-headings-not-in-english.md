@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: product-export-headings-not-in-english
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

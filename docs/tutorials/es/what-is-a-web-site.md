@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: que-es-un-web-site
+locale: es
 legacySlug: que-es-un-web-site
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

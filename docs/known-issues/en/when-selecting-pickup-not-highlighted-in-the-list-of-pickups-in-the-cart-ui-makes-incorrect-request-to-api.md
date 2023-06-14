@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: when-selecting-pickup-not-highlighted-in-the-list-of-pickups-in-the-cart-ui-makes-incorrect-request-to-api
+locale: en
 kiStatus: Fixed
 internalReference: 529850
 ---

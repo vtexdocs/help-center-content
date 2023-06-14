@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: linkar-sua-app-em-desenvolvimento
+locale: pt
 legacySlug: linkar-sua-app-em-desenvolvimento
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

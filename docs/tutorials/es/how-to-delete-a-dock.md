@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-excluir-doca
+locale: es
 legacySlug: como-excluir-doca
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

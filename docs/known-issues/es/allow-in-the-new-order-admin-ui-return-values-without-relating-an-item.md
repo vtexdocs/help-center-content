@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: permitir-que-en-la-nueva-interfaz-de-administracion-de-pedidos-se-devuelvan-valores-sin-relacionar-un-articulo
+locale: es
 kiStatus: Fixed
 internalReference: 519576
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
 slug: ultima-chance-de-garantir-seu-lugar-no-vtex-training-day
+locale: pt
 legacySlug: ultima-chance-de-garantir-seu-lugar-no-vtex-training-day
 announcementImageID: ''
 announcementSynopsisPT: 'Aproveite essa oportunidade de fazer uma imersão completa na plataforma e torne-se um verdadeiro expert em VTEX.'

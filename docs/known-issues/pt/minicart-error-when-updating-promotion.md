@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: erro-de-minicart-ao-atualizar-a-promocao
+locale: pt
 kiStatus: Backlog
 internalReference: 552633
 ---

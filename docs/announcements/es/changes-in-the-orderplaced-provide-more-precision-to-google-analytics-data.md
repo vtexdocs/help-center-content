@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: authors_24
 slug: cambios-en-orderplaced-proporcionan-datos-mas-precisos-en-google-analytics
+locale: es
 legacySlug: cambios-en-orderplaced-proporcionan-datos-mas-precisos-en-google-analytics
 announcementImageID: ''
 announcementSynopsisES: 'Los pedidos con productos de más de un vendedor ahora generan un único evento en Google Analytics.'

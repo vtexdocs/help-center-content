@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: 
 slug: search-by-ean-not-working-on-received-skus
+locale: pt
 kiStatus: Backlog
 internalReference: 510907
 ---

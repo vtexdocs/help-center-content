@@ -9,6 +9,7 @@ firstPublishedAt: 2019-06-25T19:06:13.355Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: registrar-categorias
+locale: es
 trackId: 5AF0XfnjfWeopIFBgs3LIQ
 trackSlugES: catalogo-101
 ---

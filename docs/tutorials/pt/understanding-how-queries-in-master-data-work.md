@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: entendendo-o-funcionamento-das-consultas-no-master-data
+locale: pt
 legacySlug: entendendo-o-funcionamento-das-consultas-no-master-data
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---

@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: en-la-declaracion-parcial-los-valores-de-los-impuestos-en-la-ui-aparecen-el-total
+locale: es
 kiStatus: Backlog
 internalReference: 559458
 ---

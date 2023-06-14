@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: limite-de-itens-com-promocao-no-carrinho
+locale: pt
 legacySlug: limite-de-itens-com-promocao-no-carrinho
 announcementImageID: ''
 announcementSynopsisPT: 'Configuração que permite customizar o limite de itens elegíveis para uma promoção no carrinho'

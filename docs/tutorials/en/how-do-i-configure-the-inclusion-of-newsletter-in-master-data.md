@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_84
 slug: how-do-i-configure-the-inclusion-of-newsletter-in-master-data
+locale: en
 legacySlug: how-do-i-configure-the-inclusion-of-newsletter-in-master-data
 subcategory: WpbGhubuRZaNZilJSXnqu
 ---

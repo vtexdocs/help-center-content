@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: el-espacio-en-la-identificacion-del-almacen-hace-que-fallen-las-solicitudes-de-logistica-interna
+locale: es
 kiStatus: Fixed
 internalReference: 654370
 ---

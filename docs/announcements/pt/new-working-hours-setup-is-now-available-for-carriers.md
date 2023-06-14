@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: authors_41
 slug: novo-horario-de-funcionamento-nas-transportadoras
+locale: pt
 legacySlug: novo-horario-de-funcionamento-nas-transportadoras
 announcementImageID: ''
 announcementSynopsisPT: 'A partir de 29/01, você vai poder configurar os horários de funcionamento de uma transportadora.'

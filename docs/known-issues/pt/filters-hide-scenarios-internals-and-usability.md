@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: filtros-cenarios-de-ocultacao-internos-e-usabilidade
+locale: pt
 kiStatus: Backlog
 internalReference: 416638
 ---

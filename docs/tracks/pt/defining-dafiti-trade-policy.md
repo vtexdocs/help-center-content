@@ -9,6 +9,7 @@ firstPublishedAt: 2021-02-23T21:41:19.622Z
 contentType: trackArticle
 productTeam: Channels
 slug: definicao-da-politica-comercial-para-dafiti
+locale: pt
 trackId: 4wF4RBx9ygEkimW6SsKw8i
 trackSlugPT: configurar-integracao-da-dafiti
 ---

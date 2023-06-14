@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_84
 slug: como-configurar-afiliado
+locale: pt
 legacySlug: como-configurar-afiliado
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---

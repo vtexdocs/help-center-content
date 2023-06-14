@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-19T17:30:16.718Z
 contentType: trackArticle
 productTeam: Channels
 slug: mapeo-de-color-y-tamaño
+locale: es
 trackId: 50hbG4bzhSIhjz1lzqI1g4
 trackSlugES: integracion-con-wish
 ---
@@ -64,7 +65,7 @@ Debe escogerse el color disponible más cercano que, en el caso de Wish, "Hielo"
   OBS: la cabecera de la tabla debe rellenarse exactamente como está en el siguiente ejemplo. Recuerde no agregar caracteres especiales como enter o espacio al rellenar esta tabla. 
   </div>
 
-![PT - Tabela Wish](//images.ctfassets.net/alneenqid6w5/5fvuqSjSRGHwbFVNUSTM3T/6f8f13054b1be01cbd1340d7b5b90bbd/Tabela_Wish.png)
+![PT - Tabela Wish](https://images.ctfassets.net/alneenqid6w5/5fvuqSjSRGHwbFVNUSTM3T/6f8f13054b1be01cbd1340d7b5b90bbd/Tabela_Wish.png)
 
 ## Cargando el archivo
 

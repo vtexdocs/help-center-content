@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: no-se-puede-exportar-la-lista-de-facturas-del-credito-del-cliente
+locale: es
 kiStatus: Backlog
 internalReference: 327219
 ---

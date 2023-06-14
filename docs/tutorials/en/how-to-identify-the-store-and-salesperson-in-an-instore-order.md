@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: how-to-identify-the-store-and-salesperson-in-an-instore-order
+locale: en
 legacySlug: how-to-identify-the-store-and-salesperson-in-an-instore-order
 subcategory: 
 ---

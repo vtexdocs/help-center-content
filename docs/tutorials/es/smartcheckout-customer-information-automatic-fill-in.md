@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: smartcheckout-rellenado-automatico-de-los-datos-del-cliente
+locale: es
 legacySlug: smartcheckout-rellenado-automatico-de-los-datos-del-cliente
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

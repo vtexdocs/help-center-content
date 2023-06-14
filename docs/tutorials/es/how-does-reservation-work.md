@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: como-se-maneja-la-reserva
+locale: es
 legacySlug: como-se-maneja-la-reserva, analizar-las-reservas-de-un-producto
 subcategory: 3PQwnyOcNyYgawy06oe6gE
 ---

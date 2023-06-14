@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: vtex-tracking-holidays
+locale: en
 legacySlug: vtex-tracking-holidays
 subcategory: 7yiFRk9TGfMNeyhT83UljP
 ---

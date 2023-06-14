@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: mensagem-de-erro-incorreta-para-pedido-de-local-api-quando-o-pedido-de-carga-util-e-invalido
+locale: pt
 kiStatus: Backlog
 internalReference: 709180
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: gestao-de-credito-por-meio-do-customer-credit
+locale: pt
 legacySlug: gestao-de-credito-por-meio-do-customer-credit
 subcategory: 7EWKfPIGfmI0G8iMYK8Aiy
 ---
@@ -68,11 +69,11 @@ Para um número reduzido de cadastros, o cliente pode criar as contas uma a uma 
 - E-mail
 - Limite de crédito
 
-![CustomerCredit1](//images.ctfassets.net/alneenqid6w5/4qFEtQ96Ylr6isBrULX16Z/30921e212931852bc69c66e6d2cef62c/CustomerCredit1.png)
+![CustomerCredit1](https://images.ctfassets.net/alneenqid6w5/4qFEtQ96Ylr6isBrULX16Z/30921e212931852bc69c66e6d2cef62c/CustomerCredit1.png)
 
 Se, por outro lado, a base tem um número grande de contas, o mais indicado é importar uma planilha em formato CSV. Você pode baixar um modelo desse documento na seção Contas e preenchê-lo com as informações necessárias. Para isso, clique no botão __Importar__.
 
-![CustomerCredit2](//images.ctfassets.net/alneenqid6w5/3Gjxyu2UOkyg7T31tpEKcW/3387e9b15b3fe91842ea4db1a714c17a/CustomerCredit2.png)
+![CustomerCredit2](https://images.ctfassets.net/alneenqid6w5/3Gjxyu2UOkyg7T31tpEKcW/3387e9b15b3fe91842ea4db1a714c17a/CustomerCredit2.png)
 
 ### Grandes bases
 

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: modulo-de-recurrencia-sera-descontinuado-migre-sus-datos-hasta-agosto
+locale: es
 legacySlug: modulo-de-recurrencia-sera-descontinuado-migre-sus-datos-hasta-agosto
 announcementImageID: ''
 announcementSynopsisES: 'Tiendas que todavía utilizan el módulo de Recurrencia deben migrar para Suscripciones hasta el 03 de agosto de 2020'

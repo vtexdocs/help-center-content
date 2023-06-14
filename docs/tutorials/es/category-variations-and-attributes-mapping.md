@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 slug: mapeo-de-categorías-y-variaciones
+locale: es
 legacySlug: mapeo-de-categorías-y-variaciones
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

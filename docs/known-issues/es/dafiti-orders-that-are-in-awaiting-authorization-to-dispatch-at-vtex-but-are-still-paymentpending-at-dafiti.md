@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: dafiti-pedidos-que-se-encuentran-en-a-la-espera-de-autorizacion-de-envio-en-vtex-pero-que-siguen-en-pagopendiente-en-dafiti
+locale: es
 kiStatus: Fixed
 internalReference: 719606
 ---

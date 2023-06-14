@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5Bd75kMNAzARxg0DCUjwal
 slug: how-to-export-a-product-spreadsheet
+locale: en
 legacySlug: 
 subcategory: pwxWmUu7T222QyuGogs68
 ---

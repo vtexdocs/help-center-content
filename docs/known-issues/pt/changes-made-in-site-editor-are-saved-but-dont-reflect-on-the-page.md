@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: as-alteracoes-feitas-no-editor-do-site-sao-salvas-mas-nao-refletem-na-pagina
+locale: pt
 kiStatus: Backlog
 internalReference: 786145
 ---

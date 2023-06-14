@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: recogidas-no-permite-mas-de-1000-sku-por-carga
+locale: es
 kiStatus: Backlog
 internalReference: 793274
 ---

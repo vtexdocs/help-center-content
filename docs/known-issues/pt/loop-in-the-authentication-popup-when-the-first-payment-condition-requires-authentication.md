@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: faca-um-loop-na-janela-popup-de-autenticacao-quando-a-primeira-condicao-de-pagamento-exigir-autenticacao
+locale: pt
 kiStatus: Backlog
 internalReference: 844192
 ---

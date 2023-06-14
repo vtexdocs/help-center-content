@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_24
 slug: instalar-una-aplicacion
+locale: es
 legacySlug: instalar-la-aplicacion
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

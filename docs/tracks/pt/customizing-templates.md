@@ -9,6 +9,7 @@ firstPublishedAt: 2019-02-19T19:57:33.579Z
 contentType: trackArticle
 productTeam: VTEX IO
 slug: customizar-templates
+locale: pt
 trackId: 5qJr8BIQXAKec9CpBWrTNv
 trackSlugPT: crie-uma-loja-usando-vtex-io
 ---
@@ -118,6 +119,6 @@ Para adicionar um componente a essa página, basta declarar um novo bloco de pra
 
 Se salvar isso em `store/blocks.json` e rodar `vtex link` em sua loja, você deverá ver uma nova prateleira renderizada ao visitar a home page.
 
-![shelf](//images.ctfassets.net/alneenqid6w5/6Hw3fRA4E8xC0Q4bNdO6gV/8b6742fd0c57a341db0cc0baea4cfb06/shelf.svg)
+![shelf](https://images.ctfassets.net/alneenqid6w5/6Hw3fRA4E8xC0Q4bNdO6gV/8b6742fd0c57a341db0cc0baea4cfb06/shelf.svg)
 
 Você pode personalizar os blocos declarados pela aplicativo `store-theme` livremente e também declarar novos. Por enquanto, você pode encontrar a documentação para cada componente em seus [repositórios do GitHub](https://github.com/vtex-apps?q=store-components). Lá você encontra as propriedades disponíveis para cada componente.

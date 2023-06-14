@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: status-erro-de-processamento-politica-de-embarque
+locale: pt
 kiStatus: Backlog
 internalReference: 445793
 ---

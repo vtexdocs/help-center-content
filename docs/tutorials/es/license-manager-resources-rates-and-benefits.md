@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: recursos-del-license-manager-rates-and-benefits
+locale: es
 legacySlug: recursos-del-license-manager-rates-and-benefits
 subcategory: 1HSqkejwuYcQSMC400uY84
 ---

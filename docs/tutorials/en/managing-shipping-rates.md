@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: managing-shipping-rates
+locale: en
 legacySlug: editing-freight-values
 subcategory: 7uJcyu0VawEm8ggqKu404u
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: importing-amazon-classic-fba-orders
+locale: en
 legacySlug: importing-amazon-fba-classic-orders
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

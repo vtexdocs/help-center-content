@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: regular-promotion-using-gift-conflicts-with-value-filters-on-the-cart
+locale: en
 kiStatus: Backlog
 internalReference: 445569
 ---

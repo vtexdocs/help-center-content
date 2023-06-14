@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: divergencia-nos-valores-de-frete-rateados-por-item-entre-os-pedidos-chk-e-ffm
+locale: pt
 kiStatus: Backlog
 internalReference: 321111
 ---

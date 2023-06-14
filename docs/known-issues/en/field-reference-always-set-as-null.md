@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: field-reference-always-set-as-null
+locale: en
 kiStatus: Backlog
 internalReference: 797989
 ---

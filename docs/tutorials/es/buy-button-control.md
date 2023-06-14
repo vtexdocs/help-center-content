@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: control-del-boton-de-compra
+locale: es
 legacySlug: control-del-boton-de-compra
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

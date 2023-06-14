@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog,Portal (CMS)
 slug: tags-title-e-description-sao-ignoradas-em-template-estaticos
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

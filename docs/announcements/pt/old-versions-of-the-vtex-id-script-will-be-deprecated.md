@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: authors_24
 slug: versoes-antigas-do-script-vtex-id-serao-descontinuadas
+locale: pt
 legacySlug: versoes-antigas-do-script-vtex-id-serao-descontinuadas
 announcementImageID: ''
 announcementSynopsisPT: 'A partir de 21 de maio, somente a versão mais atual do script do VTEX ID vai ter suporte da plataforma.'

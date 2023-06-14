@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-e-calculado-o-frete-do-kit
+locale: pt
 legacySlug: como-e-calculado-o-frete-do-kit
 subcategory: 1O8AEORWOcgIiMosGoousQ
 ---

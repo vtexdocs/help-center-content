@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: from-now-on-you-can-export-up-to-3-thousand-orders
+locale: en
 legacySlug: from-now-on-you-can-export-up-to-3-thousand-orders
 announcementImageID: ''
 announcementSynopsisEN: "The limit will guarantee the platform's performance, without quality loss of the generated reports."

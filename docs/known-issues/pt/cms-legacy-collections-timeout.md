@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: tempo-limite-das-colecoes-herdadas-do-cms
+locale: pt
 kiStatus: Backlog
 internalReference: 434026
 ---

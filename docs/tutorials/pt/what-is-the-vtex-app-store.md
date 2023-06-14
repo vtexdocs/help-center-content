@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 245tA425AIeioKAk2eaiwS
 slug: o-que-e-a-vtex-app-store
+locale: pt
 legacySlug: o-que-e-a-vtex-app-store
 subcategory: 3e2VLdLao8GGk4sAmMmwmi
 ---

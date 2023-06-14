@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: ntender-por-que-algunos-pedidos-realizados-en-magalu-estaban-como-incompletos
+locale: es
 kiStatus: Backlog
 internalReference: 597771
 ---

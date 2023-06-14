@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: how-to-delete-a-website
+locale: en
 legacySlug: how-to-delete-a-website
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

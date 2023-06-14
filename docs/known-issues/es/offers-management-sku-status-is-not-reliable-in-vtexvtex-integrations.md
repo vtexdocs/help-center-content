@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-estado-de-la-sku-de-gestion-de-ofertas-no-es-fiable-en-las-integraciones-vtexvtex
+locale: es
 kiStatus: Backlog
 internalReference: 745738
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: integracion-de-kabum
+locale: es
 legacySlug: integracion-de-kabum
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---

@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: criar-vendedor-com-informacoes-adicionais-esta-retornando-um-erro
+locale: pt
 kiStatus: Fixed
 internalReference: 741110
 ---

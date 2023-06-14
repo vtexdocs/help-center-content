@@ -9,6 +9,7 @@ firstPublishedAt: 2019-02-19T18:36:31.608Z
 contentType: trackArticle
 productTeam: VTEX IO
 slug: vtex-io-apps-e-store-components
+locale: pt
 trackId: 5qJr8BIQXAKec9CpBWrTNv
 trackSlugPT: crie-uma-loja-usando-vtex-io
 ---

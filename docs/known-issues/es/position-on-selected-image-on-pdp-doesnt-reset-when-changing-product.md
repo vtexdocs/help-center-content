@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: la-posicion-de-la-imagen-seleccionada-en-la-pdp-no-se-restablece-al-cambiar-de-producto
+locale: es
 kiStatus: Backlog
 internalReference: 595434
 ---

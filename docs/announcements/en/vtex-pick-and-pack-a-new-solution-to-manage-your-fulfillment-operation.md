@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: vtex-pick-and-pack-a-new-solution-to-manage-your-fulfillment-operation
+locale: en
 legacySlug: vtex-pick-and-pack-a-new-solution-to-manage-your-fulfillment-operation
 announcementImageID: ''
 announcementSynopsisEN: 'We added new features to make Pick and Pack more flexible, scalable and suitable for a wider range of architectures.'

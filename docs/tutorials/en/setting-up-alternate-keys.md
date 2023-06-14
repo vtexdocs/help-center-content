@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: setting-up-alternate-keys
+locale: en
 legacySlug: setting-up-alternate-keys
 subcategory: 5tSNDlvmik8gGuKw2goW4q
 ---

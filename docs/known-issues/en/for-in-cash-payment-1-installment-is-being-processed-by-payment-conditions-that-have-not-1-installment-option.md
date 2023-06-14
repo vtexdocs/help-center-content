@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: for-in-cash-payment-1-installment-is-being-processed-by-payment-conditions-that-have-not-1-installment-option
+locale: en
 kiStatus: Backlog
 internalReference: 292781
 ---

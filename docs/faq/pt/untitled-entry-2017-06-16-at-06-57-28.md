@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_2
 slug: faq-sobre-trigger-de-email-pedido-entregue-faturado-enviado
+locale: pt
 legacySlug: faq-sobre-trigger-de-email-pedido-entregue-faturado-enviado
 ---
 

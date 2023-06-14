@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_59
 slug: canceling-payment-for-the-service-of-an-app-installed-in-my-store
+locale: en
 legacySlug: untitled-entry-2019-01-30-at-09-21-20
 subcategory: 3e2VLdLao8GGk4sAmMmwmi
 ---

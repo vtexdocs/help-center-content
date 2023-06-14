@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: controle-do-botao-de-compra
+locale: pt
 legacySlug: controle-do-botao-de-compra
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

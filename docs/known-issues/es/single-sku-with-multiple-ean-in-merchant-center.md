@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: un-solo-sku-con-varios-ean-en-el-centro-comercial
+locale: es
 kiStatus: Backlog
 internalReference: 520345
 ---

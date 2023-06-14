@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: o-aplicativo-cielo-3ds2-esta-retornando-o-status-aprovado-mesmo-em-cenarios-em-que-a-autenticacao-falhou
+locale: pt
 kiStatus: Backlog
 internalReference: 820060
 ---

@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: pedidos-com-itens-de-modificacao-nao-podem-ser-faturados-com-referencia-aos-itens
+locale: pt
 kiStatus: Backlog
 internalReference: 784171
 ---

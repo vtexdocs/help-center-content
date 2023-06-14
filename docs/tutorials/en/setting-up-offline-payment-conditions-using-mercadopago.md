@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: setting-up-offline-payment-conditions-using-mercadopago
+locale: en
 legacySlug: setting-up-offline-payment-conditions-using-mercadopago
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

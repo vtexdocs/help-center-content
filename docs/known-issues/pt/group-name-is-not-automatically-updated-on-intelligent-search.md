@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: o-nome-do-grupo-nao-e-atualizado-automaticamente-na-pesquisa-inteligente
+locale: pt
 kiStatus: Backlog
 internalReference: 821481
 ---

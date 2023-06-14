@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T15:30:26.705Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configurar-el-adquirente-cielo-lio-para-el-instore
+locale: es
 trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugES: configurar-el-adquirente-cielo-lio-para-el-instore
 ---

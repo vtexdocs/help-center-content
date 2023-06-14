@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: what-is-an-inventory
+locale: en
 legacySlug: what-is-an-inventory
 subcategory: 3RSSKdmS4MY2ycsu8WoyC2
 ---

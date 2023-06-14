@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 6qOjO5gpEs8scQ8OugaEaW
 tag: Catalog
 slug: a-ordenacao-de-campos-de-produtos-e-skus-nao-e-salva
+locale: pt
 kiStatus: Backlog
 internalReference: 525127
 ---

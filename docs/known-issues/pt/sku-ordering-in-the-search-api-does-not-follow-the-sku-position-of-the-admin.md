@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: a-ordem-de-skus-na-search-api-nao-segue-a-posicao-do-sku-do-admin
+locale: pt
 kiStatus: Backlog
 internalReference: 515042
 ---

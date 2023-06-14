@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: error-message-on-offers-management-does-not-update-after-sku-is-binded-on-vtexvtex-integrations
+locale: en
 kiStatus: Backlog
 internalReference: 712956
 ---

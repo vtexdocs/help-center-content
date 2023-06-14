@@ -11,6 +11,7 @@ productTeam: Channels
 author: 2mXZkbi0oi061KicTExNjo
 tag: Suggestions
 slug: las-imagenes-enviadas-por-api-con-el-protocolo-http-no-se-renderizan-en-la-pagina-sku-recibidos
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: cambios-en-los-tipos-de-mascara-de-conversation-tracker
+locale: es
 legacySlug: cambios-en-los-tipos-de-mascara-de-conversation-tracker
 announcementImageID: ''
 announcementSynopsisES: 'En la interfaz en el idioma español, sustituimos los tipos de máscara Hard y Soft por los términos Compleja y Simple.'

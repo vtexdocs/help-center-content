@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: orden-de-compracolocada-boleto-factura-bancaria-moip
+locale: es
 kiStatus: Backlog
 internalReference: 376951
 ---

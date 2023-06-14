@@ -9,6 +9,7 @@ firstPublishedAt: 2018-10-30T23:00:53.240Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurando-uma-campanha-inteligente
+locale: pt
 trackId: 47kz5PRQPK0IEaqGqiIuA
 trackSlugPT: como-fazer-campanhas-atraves-do-google-ads
 ---

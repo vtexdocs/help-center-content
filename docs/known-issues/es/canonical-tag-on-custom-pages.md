@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: tag-canonical-en-paginas-personalizadas
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

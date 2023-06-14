@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: 
 slug: o-que-sao-sinonimos
+locale: en
 trackId: 
 trackSlugEN: 
 ---

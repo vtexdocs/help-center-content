@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: target-audience-settings
+locale: en
 legacySlug: target-audience-settings
 subcategory: 2cI57eZ3ZiWSeaQs26Gwys
 ---

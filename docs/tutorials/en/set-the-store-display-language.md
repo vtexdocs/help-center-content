@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: set-the-store-display-language
+locale: en
 legacySlug: set-the-store-display-language
 subcategory: 7ogirQ8NClawO2X6xdgCKc
 ---

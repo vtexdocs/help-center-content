@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_59
 slug: pedidos-feitos-com-visa-checkout-nao-aparecem-na-area-de-meus-pedidos
+locale: pt
 legacySlug: pedidos-feitos-com-visa-checkout-nao-aparecem-na-area-de-meus-pedidos
 ---
 

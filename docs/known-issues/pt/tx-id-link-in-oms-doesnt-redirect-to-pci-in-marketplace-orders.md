@@ -11,6 +11,7 @@ productTeam: Channels
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: OMS
 slug: link-do-tx-id-no-oms-nao-redireciona-para-o-pci-em-pedidos-de-marketplace
+locale: pt
 kiStatus: Open
 internalReference: 
 ---

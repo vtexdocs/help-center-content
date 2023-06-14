@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-interfaz-de-usuario-utiliza-el-sla-incorrecto-cuando-se-seleccionan-vendedores-diferentes-para-la-entrega-y-la-recogida
+locale: es
 kiStatus: Backlog
 internalReference: 797023
 ---

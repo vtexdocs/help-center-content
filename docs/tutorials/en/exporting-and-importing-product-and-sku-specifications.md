@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: exporting-and-importing-product-and-sku-specifications
+locale: en
 legacySlug: importing-and-exporting-product-and-sku-specifications
 subcategory: pwxWmUu7T222QyuGogs68
 ---
@@ -27,14 +28,14 @@ In this article, we explain how to export and import spreadsheets with product a
 1. In the VTEX Admin, go to **Catalog**, or type **Catalog** in the search bar at the top of the page.
 2. Click **Import and export**.
 3. Click the **Product Specifications** or the **SKU Specifications** tab, according to your need.
-    ![skuexport1.en](//images.ctfassets.net/alneenqid6w5/2bM5OviaFXKxXxM8ggXEr3/8f45b5a59425898d0a66697480526899/skuexport1.en.png)
+    ![skuexport1.en](https://images.ctfassets.net/alneenqid6w5/2bM5OviaFXKxXxM8ggXEr3/8f45b5a59425898d0a66697480526899/skuexport1.en.png)
 4. Right-click on the desired category.
     You cannot export specifications from all categories at once. You must choose only one category whose specifications you want to export. 
 7. Click on `Export...`.
     A green rectangle will appear on the screen.
 8. Click `Click here to download the file` to export the spreadsheet.
 
-![skuexport2.en](//images.ctfassets.net/alneenqid6w5/6oBhxWWjktsofR8XGRzl3E/87e1859f2f3ece16f3c0e1c527a392ee/skuexport2.en.png)
+![skuexport2.en](https://images.ctfassets.net/alneenqid6w5/6oBhxWWjktsofR8XGRzl3E/87e1859f2f3ece16f3c0e1c527a392ee/skuexport2.en.png)
 
 ## Importing product or SKU specifications
 
@@ -54,7 +55,7 @@ Follow the steps below to import the spreadsheet:
 2. Click **Select** to select the file with the completed spreadsheet on your computer.
 3. Click `Import`.
 
-![skuexport3.en](//images.ctfassets.net/alneenqid6w5/3xrInPyr70kdXCGgVfj4q1/8b4ff4d98df714f62d97d765edee8600/skuexport3.en.png)
+![skuexport3.en](https://images.ctfassets.net/alneenqid6w5/3xrInPyr70kdXCGgVfj4q1/8b4ff4d98df714f62d97d765edee8600/skuexport3.en.png)
 
 ## Learn more
 - [Product and SKU Specifications](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)

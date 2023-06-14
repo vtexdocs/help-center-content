@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: atendimento-vtex-payment
+locale: pt
 legacySlug: atendimento-vtex-payment
 subcategory: 6uIlQ5imochc5LFi3dzCSv
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: a-ui-nao-atualiza-a-melhor-escolha-de-sla-no-carrinho
+locale: pt
 kiStatus: Backlog
 internalReference: 550201
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: problema-para-pagar-com-giftcard-opcao-de-dois-cartoes
+locale: pt
 kiStatus: Backlog
 internalReference: 393958
 ---

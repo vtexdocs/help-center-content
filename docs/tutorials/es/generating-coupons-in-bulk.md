@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: generar-cupones-masivamente
+locale: es
 legacySlug: como-generar-cupones-masivamente
 subcategory: 1TXh7VjDSIGA2eSI0CmUsi
 ---

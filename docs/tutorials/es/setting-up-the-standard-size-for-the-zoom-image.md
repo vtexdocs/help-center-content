@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: configurar-el-tamano-estandar-de-la-imagen-de-zoom
+locale: es
 legacySlug: configurar-el-tamano-estandar-de-la-imagen-de-zoom
 subcategory: 7ogirQ8NClawO2X6xdgCKc
 ---

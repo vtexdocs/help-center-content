@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: como-funciona-o-modal
+locale: pt
 legacySlug: como-funciona-o-modal
 subcategory: 1UL6Q7nUN6SkA2g2SUsECi
 ---

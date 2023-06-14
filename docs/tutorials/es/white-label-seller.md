@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: seller-white-label
+locale: es
 legacySlug: que-son-cuenta-franquicia-y-seller-white-label
 subcategory: 3vhg10rO4MSmy06KeIYMIa
 ---

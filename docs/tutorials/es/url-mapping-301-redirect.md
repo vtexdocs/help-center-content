@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: mapeo-de-url-redireccion-301
+locale: es
 legacySlug: mapeo-de-url-redireccion-301
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

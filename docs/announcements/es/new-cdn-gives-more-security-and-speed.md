@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: authors_24
 slug: nueva-cdn-ofrece-mas-seguridad-y-velocidad
+locale: es
 legacySlug: nueva-cdn-ofrece-mas-seguridad-y-velocidad
 announcementImageID: ''
 announcementSynopsisES: 'La nueva CDN es una solución de entrega de contenido mejorada para todas las tiendas'

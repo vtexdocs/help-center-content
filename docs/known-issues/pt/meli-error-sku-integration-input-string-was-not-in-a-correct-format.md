@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: erro-de-integracao-do-sku-a-cadeia-de-entrada-nao-estava-em-um-formato-correto
+locale: pt
 kiStatus: Backlog
 internalReference: 664010
 ---

@@ -11,6 +11,7 @@ productTeam: Physical Stores
 author: 2mXZkbi0oi061KicTExNjo
 tag: Physical Stores
 slug: a-instore-nao-le-corretamente-o-registro-html-nas-informacoes-do-produto
+locale: pt
 kiStatus: Backlog
 internalReference: 718136
 ---

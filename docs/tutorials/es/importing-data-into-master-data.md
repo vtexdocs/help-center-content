@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_3
 slug: importar-datos-en-el-master-data
+locale: es
 legacySlug: importar-datos-en-el-master-data
 subcategory: 2AThnkEZAYbk4G4EIs53rL
 ---

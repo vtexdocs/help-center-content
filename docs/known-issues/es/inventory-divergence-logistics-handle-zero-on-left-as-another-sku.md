@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: divergencia-de-inventario-la-logistica-maneja-el-cero-a-la-izquierda-como-otra-sku
+locale: es
 kiStatus: Fixed
 internalReference: 427610
 ---

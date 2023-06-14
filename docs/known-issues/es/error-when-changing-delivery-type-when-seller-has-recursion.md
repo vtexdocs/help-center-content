@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: error-al-cambiar-el-tipo-de-entrega-cuando-el-vendedor-tiene-recursividad
+locale: es
 kiStatus: Backlog
 internalReference: 597915
 ---

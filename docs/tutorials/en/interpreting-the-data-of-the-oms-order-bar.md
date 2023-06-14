@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: interpreting-the-data-of-the-oms-order-bar
+locale: en
 legacySlug: interpreting-the-data-of-the-oms-order-bar
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---
@@ -25,7 +26,7 @@ The following data set is displayed on the __All orders__ screen in the __Orders
 
 Alongside each of these values, a percentage representing the variation against today's orders will appear.
 
-![order-metric-en](//images.ctfassets.net/alneenqid6w5/6gLFOziUnYEGuyU6S8iUuA/58c55d9286f28db09faf423fa6c5d2da/order-metric-en.png)
+![order-metric-en](https://images.ctfassets.net/alneenqid6w5/6gLFOziUnYEGuyU6S8iUuA/58c55d9286f28db09faf423fa6c5d2da/order-metric-en.png)
 
 In the screenshot of the metrics above, the following information will be displayed:
 

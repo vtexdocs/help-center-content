@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: shopee-failed-to-create-product-variations
+locale: en
 kiStatus: Fixed
 internalReference: 685160
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: programacion-de-servicios
+locale: es
 legacySlug: programacion-de-servicios
 subcategory: 7GypxQ3HDmFVCHTNTwyhr0
 ---

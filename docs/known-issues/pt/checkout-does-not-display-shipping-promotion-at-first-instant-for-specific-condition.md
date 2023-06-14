@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-checkout-nao-exibe-promocao-de-remessa-no-primeiro-instante-para-condicoes-especificas
+locale: pt
 kiStatus: Backlog
 internalReference: 280144
 ---

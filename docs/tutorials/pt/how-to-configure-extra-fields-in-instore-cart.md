@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 3uCjaRpzeMieQWwWycYAMG
 slug: como-configurar-campos-extras-no-carrinho-do-instore
+locale: pt
 legacySlug: como-configurar-campos-extras-no-carrinho-do-instore
 subcategory: 4T6qfa6gNO6g4sAUIa6s2G
 ---

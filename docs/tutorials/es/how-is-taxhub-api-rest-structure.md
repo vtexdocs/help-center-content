@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Y2pnNkWfSoUMMYcwemq4A
 slug: taxhub-estructura-del-api-rest
+locale: es
 legacySlug: taxhub-estructura-del-api-rest
 subcategory: 
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: transacao-travada-no-analyzing-risk-devido-ao-campo-documenttype-nulo
+locale: pt
 kiStatus: Backlog
 internalReference: 697107
 ---

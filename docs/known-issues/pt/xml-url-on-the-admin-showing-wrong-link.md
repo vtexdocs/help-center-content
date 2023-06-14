@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: url-xml-no-admin-mostrando-link-errado
+locale: pt
 kiStatus: Backlog
 internalReference: 407528
 ---

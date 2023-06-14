@@ -11,6 +11,7 @@ productTeam: Channels
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: OMS
 slug: tx-id-link-in-oms-doesnt-redirect-to-pci-in-marketplace-orders
+locale: en
 kiStatus: Open
 internalReference: 
 ---

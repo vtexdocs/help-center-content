@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: como-utilizar-rebate-ou-vpc
+locale: pt
 legacySlug: como-utilizar-rebate-ou-vpc
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

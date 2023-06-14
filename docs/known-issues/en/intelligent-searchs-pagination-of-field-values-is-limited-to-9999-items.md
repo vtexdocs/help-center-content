@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: intelligent-searchs-pagination-of-field-values-is-limited-to-9999-items
+locale: en
 kiStatus: Backlog
 internalReference: 428486
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_84
 slug: completando-los-datos-de-su-empresa
+locale: es
 legacySlug: completando-los-datos-de-su-empresa
 subcategory: yMp6sKDiJEi66CGAIQ4ma
 ---

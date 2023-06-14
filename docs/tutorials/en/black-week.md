@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: black-week
+locale: en
 legacySlug: black-week
 subcategory: QPnz120TdtLcXSh65c4Gs
 ---

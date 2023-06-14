@@ -9,6 +9,7 @@ contentType: updates
 productTeam: 
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: integracao-entre-vtex-intelligence-search-e-instore-alavanca-resultados-de
+locale: pt
 legacySlug: integracao-entre-vtex-intelligence-search-e-instore-alavanca-resultados-de
 announcementImageID: ''
 announcementSynopsisPT: 'O recurso entrega uma busca de produtos baseada em cache, permitindo que o app inStore funcione sem internet.'

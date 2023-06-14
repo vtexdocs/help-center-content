@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: a-criacao-de-pedidos-falhou-devido-a-divergencia-de-precos-na-camada-de-cumprimento
+locale: pt
 kiStatus: Backlog
 internalReference: 512393
 ---

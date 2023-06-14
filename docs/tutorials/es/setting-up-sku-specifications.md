@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 slug: configurar-especificaciones-de-sku
+locale: es
 legacySlug: configurar-especificaciones-de-sku
 subcategory: pwxWmUu7T222QyuGogs68
 ---

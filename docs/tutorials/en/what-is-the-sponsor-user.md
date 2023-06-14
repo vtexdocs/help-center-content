@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: what-is-the-sponsor-user
+locale: en
 legacySlug: what-is-the-master-user
 subcategory: 63DHe3VQEEE6Uuua8gIs2M
 ---

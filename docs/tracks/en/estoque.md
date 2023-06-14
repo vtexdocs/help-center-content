@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: 
 slug: estoque
+locale: en
 trackId: 
 trackSlugEN: 
 ---

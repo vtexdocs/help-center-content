@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: how-does-the-modal-work
+locale: en
 legacySlug: how-does-the-modal-work
 subcategory: 1UL6Q7nUN6SkA2g2SUsECi
 ---

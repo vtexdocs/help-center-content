@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: soma-dos-valores-de-sellingprice-pode-ser-diferente-do-valor-total-de-produtos-subtraido-pelo-total-de-descontos
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

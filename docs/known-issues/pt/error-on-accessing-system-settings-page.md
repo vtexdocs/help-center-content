@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: erro-ao-acessar-pagina-de-configuracao-do-sistema
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: por-que-un-cliente-logro-registrar-un-cpf-en-un-campo-de-cnpj
+locale: es
 legacySlug: por-que-un-cliente-logro-registrar-un-cpf-en-un-campo-de-cnpj
 subcategory: 42hDtnYXHw5ExG6l19RP1l
 ---
@@ -36,7 +37,7 @@ Siga estos pasos para validar la información:
 
 1. En el Admin VTEX, accede **Configuración de la tienda** > **Storefront** > **Master Data**.
 2. En el cuadro __Profile System__, haga clic en __Clientes__.
-3. Seleccione la opción __E-mail__ y busque el correo electrónico del cliente.![e-mail - Master Data](//images.ctfassets.net/alneenqid6w5/cjpYKSZ1i8USYqs8Yga4E/df2c4793391483458ffcf8209a222f69/e-mail_-_Master_Data.png)
+3. Seleccione la opción __E-mail__ y busque el correo electrónico del cliente.![e-mail - Master Data](https://images.ctfassets.net/alneenqid6w5/cjpYKSZ1i8USYqs8Yga4E/df2c4793391483458ffcf8209a222f69/e-mail_-_Master_Data.png)
 4. Haga clic en el registro del cliente para acceder a los detalles del perfil.
 
 En la sección __Contato__, usted verá que la opción `Es Empresa?` Se llena con el valor `No`. Al mismo tiempo, en la sección __Datos de la empresa__, usted verá que el campo `Tipo documento` tiene el valor `cnpj`.

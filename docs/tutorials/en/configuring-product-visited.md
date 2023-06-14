@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_3
 slug: configuring-product-visited
+locale: en
 legacySlug: configuring-product-visited
 subcategory: 2nx7hMJmisofwqwy2P9l2i
 ---

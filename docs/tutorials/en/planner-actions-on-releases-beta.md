@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: planner-actions-on-releases-beta
+locale: en
 legacySlug: planner-actions-on-releases-beta
 subcategory: 3vXj7HrnYK8V5riTOwUuYv
 ---

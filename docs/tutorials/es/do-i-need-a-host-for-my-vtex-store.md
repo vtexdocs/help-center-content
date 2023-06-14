@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_4
 slug: necesito-un-hospedaje-para-mi-tienda-vtex
+locale: es
 legacySlug: necesito-un-hospedaje-para-mi-tienda-vtex
 subcategory: 2Za4fjGfxYOo6oqykukgyy
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: mapping-categories-and-brands-for-the-marketplace
+locale: en
 legacySlug: mapping-categories-and-brands-for-the-marketplace
 subcategory: 24EN0qRBg4yK0uusGUGosu
 ---

@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: parcelamentoopcoes-do-pedidoo-formulario-api-nao-leva-em-conta-promocoes-de-parcelas-especificas
+locale: pt
 kiStatus: No Fix
 internalReference: 644563
 ---

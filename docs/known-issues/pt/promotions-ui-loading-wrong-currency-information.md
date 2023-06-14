@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: promocoes-ui-carregando-informacoes-erradas-sobre-moeda
+locale: pt
 kiStatus: Backlog
 internalReference: 718908
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: aviso-de-sku-inativo
+locale: pt
 legacySlug: aviso-de-sku-inativo
 subcategory: 4HBbKdnwneGew2qGGykSM8
 ---

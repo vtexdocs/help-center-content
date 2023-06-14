@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: multiplos-api-de-promocao-sku-nao-funcionam
+locale: pt
 kiStatus: Backlog
 internalReference: 729990
 ---

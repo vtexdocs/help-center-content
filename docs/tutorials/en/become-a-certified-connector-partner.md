@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: become-a-certified-connector-partner
+locale: en
 legacySlug: become-a-certified-vtex-partner
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---

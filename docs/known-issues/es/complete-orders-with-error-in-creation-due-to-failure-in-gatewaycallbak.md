@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: pedidos-completos-con-error-de-creacion-por-fallo-en-gatewaycallbak
+locale: es
 kiStatus: Backlog
 internalReference: 416936
 ---

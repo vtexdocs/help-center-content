@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-interfaz-de-usuario-duplica-la-seleccion-de-fecha-y-hora-para-la-entrega-programada-cuando-tiene-division-de-entrega
+locale: es
 kiStatus: Backlog
 internalReference: 569132
 ---

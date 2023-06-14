@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: restringir-el-defaultsrc-de-la-cabecera-politica-de-seguridad-de-contenidos-podria-romper-el-checkout
+locale: es
 kiStatus: Backlog
 internalReference: 763359
 ---

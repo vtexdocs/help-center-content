@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: el-campo-cambios-y-devoluciones-no-se-actualiza-en-la-interfaz-de-gestion-del-vendedor-despues-de-guardar
+locale: es
 kiStatus: Backlog
 internalReference: 689886
 ---

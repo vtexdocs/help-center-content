@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: eventos-disponiveis-no-audit
+locale: pt
 legacySlug: eventos-disponiveis-no-audit
 subcategory: 2TNXiKzLZOPxjMTyGiEeJu
 ---

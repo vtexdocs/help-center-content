@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: configuracion-de-tablas-de-precios-para-usuarios-especificos
+locale: es
 legacySlug: configuracion-de-tablas-de-precios-para-usuarios-especificos-con-session
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---
@@ -91,7 +92,7 @@ Cuando un usuario de su tienda no ha iniciado sesión, los precios que se le mue
 Si el usuario ha iniciado sesión, verá los precios correspondientes a la tabla de precios a la que está asociado su e-mail.
 
 Por ejemplo, estos dos clientes están vinculados a tablas de precios diferentes:
-![Clients](//images.ctfassets.net/alneenqid6w5/4YanVck2GswcKKEEamO6gs/d1a2bc5603716c485dd000239a49fb41/Clients.png)
+![Clients](https://images.ctfassets.net/alneenqid6w5/4YanVck2GswcKKEEamO6gs/d1a2bc5603716c485dd000239a49fb41/Clients.png)
 
 Cuando el cliente Daniel, que está vinculado a la tabla Silver, inicie sesión en la tienda, verá los precios establecidos en dicha tabla. La mochila del ejemplo anterior aparecerá a USD 50.
 En cambio, el cliente Breno, que está vinculado a la tabla Gold, verá los precios definidos en esta otra tabla. Para él, la mochila costará USD 60,50.

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: como-configurar-pago-con-gift-card
+locale: es
 legacySlug: como-integrar-un-proveedor-externo-de-tarjeta-de-regalo-a-vtex
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

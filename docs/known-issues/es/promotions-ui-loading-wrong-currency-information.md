@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: la-interfaz-de-usuario-de-las-promociones-carga-informacion-incorrecta-sobre-la-divisa
+locale: es
 kiStatus: Backlog
 internalReference: 718908
 ---

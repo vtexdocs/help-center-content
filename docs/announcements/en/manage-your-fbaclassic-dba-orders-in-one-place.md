@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slug: manage-your-fbaclassic-dba-orders-in-one-place
+locale: en
 legacySlug: manage-your-fbaclassic-dba-orders-in-one-place
 announcementImageID: ''
 announcementSynopsisEN: 'Now you can manage all your Amazon FBA Classic and DBA orders in one place.'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: updating-prices-in-marketplaces
+locale: en
 legacySlug: updating-prices-for-marketplace
 subcategory: 4id9W3RDyw02CasOm2C2iy
 ---

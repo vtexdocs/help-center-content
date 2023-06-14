@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_31
 tag: Catalog,Order Management
 slug: list-purchases-link-in-the-gift-list-report-does-not-apply-filter-correctly-in-orders-managment
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: importacao-de-novas-coleccoes-nao-trata-de-importacao-de-produtos-nao-existentes
+locale: pt
 kiStatus: Backlog
 internalReference: 398602
 ---

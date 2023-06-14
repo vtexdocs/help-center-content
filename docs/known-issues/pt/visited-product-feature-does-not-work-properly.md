@@ -11,6 +11,7 @@ productTeam: Analytics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Analytics
 slug: o-recurso-produto-visitado-nao-funciona-corretamente
+locale: pt
 kiStatus: Backlog
 internalReference: 701169
 ---

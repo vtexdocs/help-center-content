@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: system-considering-seller-1-for-rule-sellers-limit
+locale: en
 kiStatus: Backlog
 internalReference: 564614
 ---

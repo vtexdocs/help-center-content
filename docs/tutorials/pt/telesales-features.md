@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: funcionalidades-de-televendas
+locale: pt
 legacySlug: funcionalidades-de-televendas
 subcategory: 6SEjoixhY5LlA7G15W6oZS
 ---

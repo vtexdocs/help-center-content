@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: visual-e-navegacao-novos-para-o-catalogo
+locale: pt
 legacySlug: visual-e-navegacao-novos-para-o-catalogo
 announcementImageID: ''
 announcementSynopsisPT: 'Em 10/07, o Catálogo ficou mais integrado ao Novo Admin, mas mantendo os fluxos e funcionalidades mais importantes.'
@@ -22,16 +23,16 @@ A principal diferença para a versão antiga está na navegação. Rearranjamos 
 ## O que mudou
 
 A maior parte dos itens do Catálogo podem ser encontrados em _Catálogo_, que fica na seção _PRODUTOS_ do menu lateral.
-![Catálogo1](//images.ctfassets.net/alneenqid6w5/6zg0sXt3qwc8KGUuwEwsSI/0f3f2fafcc1a4addaabe3e5deb100296/Cat__logo1.png)
+![Catálogo1](https://images.ctfassets.net/alneenqid6w5/6zg0sXt3qwc8KGUuwEwsSI/0f3f2fafcc1a4addaabe3e5deb100296/Cat__logo1.png)
 
 
 O subitem _Vale-compra_ (que antes se chamava _Vales_ e ficava em _Controle de Campanhas_) está no item _Pagamentos_, dentro da seção _TRANSAÇÕES_ do menu lateral.
-![Catálogo2](//images.ctfassets.net/alneenqid6w5/2giEGOSr8EGWWqS4goeOU8/c655d3c669fcfb54ea7a44b97d490d4e/Cat__logo2.png)
+![Catálogo2](https://images.ctfassets.net/alneenqid6w5/2giEGOSr8EGWWqS4goeOU8/c655d3c669fcfb54ea7a44b97d490d4e/Cat__logo2.png)
 
 
 O item _Configurações_ virou um subitem de _CMS_, que fica na seção _CONFIGURAÇÕES DE LOJA_ do menu lateral.
-![Catálogo3](//images.ctfassets.net/alneenqid6w5/6ybb0PjANUOC6kgugu4WCW/d599404279f39970b047aa9aac532d3d/Cat__logo3.png)
+![Catálogo3](https://images.ctfassets.net/alneenqid6w5/6ybb0PjANUOC6kgugu4WCW/d599404279f39970b047aa9aac532d3d/Cat__logo3.png)
 
 
 A aba _Marketplace_ ganhou uma seção própria de mesmo nome no menu lateral.
-![Catálogo4](//images.ctfassets.net/alneenqid6w5/5oQsBoQHOoMqYK688g8c6a/d708824d3496d3d66b06dcd27dd5aa1b/Cat__logo4.png)
+![Catálogo4](https://images.ctfassets.net/alneenqid6w5/5oQsBoQHOoMqYK688g8c6a/d708824d3496d3d66b06dcd27dd5aa1b/Cat__logo4.png)

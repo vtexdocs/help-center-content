@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: a-iu-de-transacao-tem-atualmente-uma-limitacao-onde-nao-pode-exibir-logs-deinteracoes-se-a-carga-util-exceder-5000-linhas
+locale: pt
 kiStatus: Backlog
 internalReference: 778408
 ---

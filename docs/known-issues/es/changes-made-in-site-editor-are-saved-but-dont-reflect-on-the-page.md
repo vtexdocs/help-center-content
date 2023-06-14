@@ -11,6 +11,7 @@ productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: los-cambios-realizados-en-el-editor-de-sitios-se-guardan-pero-no-se-reflejan-en-la-pagina
+locale: es
 kiStatus: Backlog
 internalReference: 786145
 ---

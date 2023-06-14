@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: locale-switcher-doesnt-work-in-myvtex-environment
+locale: en
 kiStatus: Backlog
 internalReference: 778306
 ---

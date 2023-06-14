@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: la-funcion-feed-hook-indexing-omite-eventos-en-los-filtros-fromorders
+locale: es
 kiStatus: Backlog
 internalReference: 832400
 ---

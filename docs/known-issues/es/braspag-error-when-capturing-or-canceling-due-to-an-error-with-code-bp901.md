@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: error-de-braspag-al-capturar-o-cancelar-debido-a-un-error-con-el-codigo-bp901
+locale: es
 kiStatus: Backlog
 internalReference: 490428
 ---

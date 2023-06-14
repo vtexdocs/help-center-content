@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: os-comerciantes-nao-estao-recebendo-o-relatorio-de-preco-fixo
+locale: pt
 kiStatus: Scheduled
 internalReference: 674353
 ---

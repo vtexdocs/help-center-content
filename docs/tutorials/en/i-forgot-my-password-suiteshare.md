@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: i-forgot-my-password-suiteshare
+locale: en
 legacySlug: i-forgot-my-password-suiteshare
 subcategory: 4y4ylvqceE6vVqEF8IWZix
 ---

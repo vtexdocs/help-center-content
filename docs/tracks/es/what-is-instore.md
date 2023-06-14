@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T13:12:31.221Z
 contentType: trackArticle
 productTeam: Shopping
 slug: que-es-instore
+locale: es
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugES: que-es-instore
 ---

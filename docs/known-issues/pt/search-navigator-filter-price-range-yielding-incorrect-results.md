@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: busca-filtro-navigator-faixa-de-preco-que-produz-resultados-incorretos
+locale: pt
 kiStatus: Backlog
 internalReference: 504992
 ---

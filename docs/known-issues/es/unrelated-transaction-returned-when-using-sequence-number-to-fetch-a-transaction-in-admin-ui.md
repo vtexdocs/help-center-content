@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: se-devuelve-una-transaccion-no-relacionada-cuando-se-utiliza-el-numero-de-secuencia-para-obtener-una-transaccion-en-la-interfaz-de-administracion
+locale: es
 kiStatus: Backlog
 internalReference: 503446
 ---

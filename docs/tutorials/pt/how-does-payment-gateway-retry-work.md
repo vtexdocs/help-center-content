@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: como-funciona-a-retentativa-do-gateway-de-pagamentos
+locale: pt
 legacySlug: como-funciona-a-retentativa-do-gateway-de-pagamentos
 subcategory: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---

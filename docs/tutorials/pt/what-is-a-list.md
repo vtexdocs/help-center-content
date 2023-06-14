@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: o-que-e-uma-lista
+locale: pt
 legacySlug: o-que-e-uma-lista
 subcategory: 6aeeWirCBUwwCmeIWOgIWs
 ---

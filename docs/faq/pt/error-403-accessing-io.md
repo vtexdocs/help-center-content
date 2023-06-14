@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
 slug: recebi-um-403-forbidden
+locale: pt
 legacySlug: recebi-um-403-forbidden
 ---
 

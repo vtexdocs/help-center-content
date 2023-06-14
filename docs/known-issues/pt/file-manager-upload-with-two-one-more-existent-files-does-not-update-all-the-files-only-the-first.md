@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: o-file-manager-upload-com-mais-dois-arquivos-existentes-nao-atualiza-todos-os-arquivos-apenas-o-primeiro
+locale: pt
 kiStatus: Backlog
 internalReference: 418253
 ---

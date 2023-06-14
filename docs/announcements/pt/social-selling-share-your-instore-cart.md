@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
 slug: social-selling-compartilhe-o-carrinho-do-instore
+locale: pt
 legacySlug: social-selling-compartilhe-o-carrinho-do-instore
 announcementImageID: ''
 announcementSynopsisPT: 'Agora, vendedores de lojas físicas podem vender pelo WhatsApp ou por redes sociais utilizando o inStore Social Selling.'

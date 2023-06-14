@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: configurar-safetypay
+locale: es
 legacySlug: configurar-safetypay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

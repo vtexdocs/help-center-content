@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 245tA425AIeioKAk2eaiwS
 slug: que-es-3d-secure
+locale: es
 legacySlug: que-es-3d-secure
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---

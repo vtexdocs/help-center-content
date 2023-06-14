@@ -9,6 +9,7 @@ firstPublishedAt: 2020-05-19T12:20:03.919Z
 contentType: trackArticle
 productTeam: Shopping
 slug: instore-faq
+locale: es
 trackId: 6N0QlieWqboSVU2ehgAVAb
 trackSlugES: instore-setup
 ---

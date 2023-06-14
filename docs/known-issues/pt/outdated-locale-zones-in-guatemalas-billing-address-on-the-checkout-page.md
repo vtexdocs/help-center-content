@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: zonas-locais-desatualizadas-no-endereco-de-faturamento-da-guatemala-na-pagina-de-checkout
+locale: pt
 kiStatus: Fixed
 internalReference: 373603
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: se-muestran-marcadores-de-posicion-en-lugar-de-los-datos-correctos
+locale: es
 kiStatus: Backlog
 internalReference: 371183
 ---

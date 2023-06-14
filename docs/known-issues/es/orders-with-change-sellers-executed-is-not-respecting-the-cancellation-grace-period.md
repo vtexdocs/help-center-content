@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: las-ordenes-con-vendedores-de-cambio-ejecutadas-no-respetan-el-periodo-de-gracia-de-la-cancelacion
+locale: es
 kiStatus: Backlog
 internalReference: 656815
 ---

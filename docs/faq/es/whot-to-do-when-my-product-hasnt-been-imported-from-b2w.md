@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_35
 slug: que-hacer-cuando-mi-producto-no-fue-importado-de-b2w
+locale: es
 legacySlug: 
 ---
 

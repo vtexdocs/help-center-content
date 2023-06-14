@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 6AcGyun1hSWewU8YcaQiO
 slug: preencher-campos-de-cadastro-de-colecao
+locale: pt
 legacySlug: preencher-campos-de-cadastro-de-colecao
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

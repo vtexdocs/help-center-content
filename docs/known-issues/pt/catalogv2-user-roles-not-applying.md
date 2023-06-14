@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: catalogv2-funcoes-do-usuario-que-nao-se-aplicam
+locale: pt
 kiStatus: Backlog
 internalReference: 489297
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: novo-admin-ja-esta-sendo-liberado-para-todas-as-lojas
+locale: pt
 legacySlug: novo-admin-ja-esta-sendo-liberado-para-todas-as-lojas
 announcementImageID: ''
 announcementSynopsisPT: 'Até 7 de maio, todas as lojas VTEX vão ser migradas para usar o novo Admin.'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: integrating-with-buscape-bp
+locale: en
 legacySlug: integrating-with-buscape-bp
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

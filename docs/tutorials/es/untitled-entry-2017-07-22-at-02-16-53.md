@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 slug: canonical-page
+locale: es
 legacySlug: canonical-page
 subcategory: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: datos-estructurados-a-traves-del-marcador-de-datos-del-google-search-console
+locale: es
 legacySlug: datos-estructurados-a-traves-del-marcador-de-datos-del-google-search-console
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

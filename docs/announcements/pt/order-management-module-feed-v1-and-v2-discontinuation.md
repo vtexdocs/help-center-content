@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: descontinuacao-do-feed-v1-e-v2-do-modulo-de-gerenciamento-de-pedidos
+locale: pt
 legacySlug: descontinuacao-do-feed-v1-e-v2-do-modulo-de-gerenciamento-de-pedidos
 announcementImageID: ''
 announcementSynopsisPT: ' O Feed v1 e v2 do módulo de Gerenciamento de pedidos será descontinuado'

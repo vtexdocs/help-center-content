@@ -9,6 +9,7 @@ firstPublishedAt: 2022-08-26T14:14:19.016Z
 contentType: trackArticle
 productTeam: Shopping
 slug: what-is-suiteshare
+locale: en
 trackId: khP0p8mjIYRIpvM7Cb4Zr
 trackSlugEN: suiteshare
 ---

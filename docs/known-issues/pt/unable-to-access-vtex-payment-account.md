@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: incapaz-de-acessar-a-conta-de-pagamento-vtex
+locale: pt
 kiStatus: Backlog
 internalReference: 550244
 ---

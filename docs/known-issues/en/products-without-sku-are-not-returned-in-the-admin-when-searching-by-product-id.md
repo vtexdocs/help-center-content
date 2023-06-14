@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: products-without-sku-are-not-returned-in-the-admin-when-searching-by-product-id
+locale: en
 kiStatus: Backlog
 internalReference: 740431
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: no-puede-desactivar-este-producto-porque-tiene-uno-o-mas-skus-activos-no-se-traduce-automaticamente-en-el-product-admin
+locale: es
 kiStatus: Backlog
 internalReference: 768603
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_24
 slug: como-configurar-o-device-fingerprint-para-a-stelo
+locale: pt
 legacySlug: como-configurar-o-device-fingerprint-para-a-stelo
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

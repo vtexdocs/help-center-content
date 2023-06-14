@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: encomendas-vendedor-1-nao-tem-notificacoes-sobre-o-tipo-de-gancho-de-encomendas-para-pagamento-estatal-aprovado
+locale: pt
 kiStatus: Backlog
 internalReference: 640925
 ---

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: a-rota-search-do-sistema-de-cartoespresente-intermitentemente-nao-devolve-comprovantes-quando-o-cabecalho-da-faixa-rest-e-inferior-a-10
+locale: pt
 kiStatus: Backlog
 internalReference: 770337
 ---

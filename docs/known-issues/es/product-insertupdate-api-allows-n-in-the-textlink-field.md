@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-api-de-insercionactualizacion-de-productos-permite-n-en-el-campo-textlink
+locale: es
 kiStatus: Backlog
 internalReference: 486459
 ---

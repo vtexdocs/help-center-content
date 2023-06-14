@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: configuracion-de-las-divergencias-de-los-modales-obsoletos-politica-de-envios
+locale: es
 kiStatus: Scheduled
 internalReference: 445866
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: cual-es-el-periodo-considerado-para-computo-de-la-cobranza-de-mi-tienda
+locale: es
 legacySlug: cual-es-el-periodo-considerado-para-computo-de-la-cobranza-de-mi-tienda
 subcategory: 5ZfsNR4ioEsIyu6wkyce0M
 ---

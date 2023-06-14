@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: como-modificar-items-del-pedido
+locale: es
 legacySlug: como-modificar-items-del-pedido-beta
 subcategory: 3VNOhxDrvYxJThhuJClrYZ
 ---

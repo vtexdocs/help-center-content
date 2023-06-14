@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: price-exports-generated-with-a-format-that-is-not-accepted-by-the-import-process
+locale: en
 kiStatus: Fixed
 internalReference: 584975
 ---

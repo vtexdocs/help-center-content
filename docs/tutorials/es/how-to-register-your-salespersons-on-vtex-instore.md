@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_35
 slug: como-registrar-vendedores-en-el-vtex-instore
+locale: es
 legacySlug: como-registrar-vendedores-en-el-vtex-instore
 subcategory: 4T6qfa6gNO6g4sAUIa6s2G
 ---

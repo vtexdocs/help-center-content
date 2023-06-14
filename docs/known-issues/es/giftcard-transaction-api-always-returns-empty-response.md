@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: giftcard-transaction-api-siempre-devuelve-una-respuesta-vacia
+locale: es
 kiStatus: Backlog
 internalReference: 384430
 ---

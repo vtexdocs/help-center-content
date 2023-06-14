@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: la-nueva-interfaz-de-usuario-no-muestra-en-los-pedidos-la-ventana-de-entrega-correcta-estimada
+locale: es
 kiStatus: Backlog
 internalReference: 620668
 ---

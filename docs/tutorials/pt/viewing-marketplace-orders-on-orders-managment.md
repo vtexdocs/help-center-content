@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_3
 slug: visualizando-pedidos-de-marketplace-em-todos-os-pedidos
+locale: pt
 legacySlug: visualizando-pedidos-de-marketplace-no-oms
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

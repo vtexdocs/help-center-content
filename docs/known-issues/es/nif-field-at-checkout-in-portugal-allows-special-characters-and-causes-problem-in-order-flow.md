@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: campo-nif-en-el-checkout-de-portugal-permite-caracteres-especiales-y-causa-problemas-en-el-flujo-del-pedido
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---
@@ -19,7 +20,7 @@ internalReference:
 
 El campo NIF (documento) del checkout de Portugal (IU) está permitiendo introducir caracteres especiales en sus valores. Sin embargo, los pedidos que se cierran con caracteres especiales quedan bloqueados con error en el OMS.
 
-![OMS](//images.ctfassets.net/alneenqid6w5/19LgQNhPlIIAoA62k06ac2/2b394138cd21e4ad76c21e0ea871417f/OMS.png)
+![OMS](https://images.ctfassets.net/alneenqid6w5/19LgQNhPlIIAoA62k06ac2/2b394138cd21e4ad76c21e0ea871417f/OMS.png)
 
 ## Simulación
 

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: adyenv1-connector-is-not-sending-pspreference-on-some-operations-and-thus-causing-error
+locale: en
 kiStatus: Backlog
 internalReference: 758411
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: how-to-identify-promotions-attributed-to-an-sku
+locale: en
 legacySlug: how-to-identify-promotions-attributed-to-an-sku
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

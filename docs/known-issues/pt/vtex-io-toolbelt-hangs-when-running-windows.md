@@ -11,6 +11,7 @@ productTeam: VTEX IO
 author: 3aBBTLS9ZKO6IcY0Goe2y2
 tag: VTEX IO
 slug: toolbelt-do-vtex-io-trava-na-plataforma-windows
+locale: pt
 kiStatus: Open
 internalReference: 
 ---

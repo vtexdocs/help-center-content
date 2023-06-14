@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: guia-de-integracao-consumir-as-informacoes-do-catalogo
+locale: pt
 legacySlug: guia-de-integracao-consumir-as-informacoes-do-catalogo
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---

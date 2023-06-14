@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: application-logs-stream
+locale: es
 legacySlug: application-logs-stream
 subcategory: 1HSqkejwuYcQSMC400uY84
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 
 slug: anatomia-de-uma-app
+locale: es
 legacySlug: anatomia-de-uma-app
 subcategory: 
 ---

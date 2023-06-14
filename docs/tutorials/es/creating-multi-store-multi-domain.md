@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: como-crear-multitienda-multidominio
+locale: es
 legacySlug: como-crear-multitienda-multidominio
 subcategory: yMp6sKDiJEi66CGAIQ4ma
 ---

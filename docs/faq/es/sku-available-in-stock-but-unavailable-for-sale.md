@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: el-sku-tiene-unidades-positivas-en-el-stock-pero-no-esta-disponible-para-la
+locale: es
 legacySlug: el-sku-tiene-unidades-positivas-en-el-stock-pero-no-esta-disponible-para-la
 ---
 

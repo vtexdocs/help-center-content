@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: authors_24
 slug: promocoes-agora-consideram-condicao-de-meio-de-pagamento-para-mais-de-uma
+locale: pt
 legacySlug: promocoes-agora-consideram-condicao-de-meio-de-pagamento-para-mais-de-uma
 announcementImageID: ''
 announcementSynopsisPT: 'Promoções agora reconhecem o filtro de meio de pagamento combinado com o filtro de política comercial'

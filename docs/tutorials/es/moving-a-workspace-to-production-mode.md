@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: colocando-un-workspace-en-modo-de-produccion
+locale: es
 legacySlug: colocando-un-workspace-en-modo-de-produccion
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

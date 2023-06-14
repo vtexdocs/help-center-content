@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: uso-de-cupom-nao-restaurado-para-pedidos-incompletos
+locale: pt
 kiStatus: Backlog
 internalReference: 639418
 ---

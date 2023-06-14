@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 slug: utilizar-o-relatorio-de-indexacao
+locale: pt
 legacySlug: utilizar-o-relatorio-de-indexacao
 subcategory: 5yDQmr18K4GgQAeGwq8USa
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: promover-um-workspace-para-master
+locale: pt
 legacySlug: promover-um-workspace-para-master
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

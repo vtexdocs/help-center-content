@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: como-configurar-bridge-para-multiloja
+locale: pt
 legacySlug: como-configurar-bridge-para-multiloja
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

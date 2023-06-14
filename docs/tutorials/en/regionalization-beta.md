@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: regionalization-beta
+locale: en
 legacySlug: regionalization-beta
 subcategory: 23WdCYqmn2V2Z7SDlc14DF
 ---

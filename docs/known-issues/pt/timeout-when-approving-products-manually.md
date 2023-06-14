@@ -11,6 +11,7 @@ productTeam: Channels
 author: 2mXZkbi0oi061KicTExNjo
 tag: Suggestions
 slug: timeout-na-aprovacao-manual-de-produtos
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

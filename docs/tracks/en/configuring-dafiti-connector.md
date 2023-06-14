@@ -9,6 +9,7 @@ firstPublishedAt: 2018-09-27T20:41:13.133Z
 contentType: trackArticle
 productTeam: Channels
 slug: configuring-dafiti-connector
+locale: en
 trackId: 4wF4RBx9ygEkimW6SsKw8i
 trackSlugEN: dafiti-integration-setup
 ---

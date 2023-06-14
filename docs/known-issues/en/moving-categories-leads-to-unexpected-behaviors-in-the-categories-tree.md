@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: moving-categories-leads-to-unexpected-behaviors-in-the-categories-tree
+locale: en
 kiStatus: Backlog
 internalReference: 367136
 ---

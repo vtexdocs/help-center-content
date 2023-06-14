@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: integrar-con-yop
+locale: es
 legacySlug: integrar-con-yop
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

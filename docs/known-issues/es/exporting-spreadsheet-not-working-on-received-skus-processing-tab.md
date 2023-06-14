@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: la-exportacion-de-hojas-de-calculo-no-funciona-en-la-pestana-de-procesamiento-de-sku-recibido
+locale: es
 kiStatus: Backlog
 internalReference: 792511
 ---

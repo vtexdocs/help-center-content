@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: valores-negativos-em-destinatarios-divididos
+locale: pt
 kiStatus: Backlog
 internalReference: 388580
 ---

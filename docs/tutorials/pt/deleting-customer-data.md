@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: exclusao-de-dados-de-clientes
+locale: pt
 legacySlug: exclusao-de-dados-de-clientes
 subcategory: 6uJgdHqWf1Mo0rUfgxseTn
 ---

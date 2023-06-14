@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 5dYWGfGKUwkI86Gomk6AcQ
 slug: admin-app-loading-animacao
+locale: pt
 legacySlug: admin-app-loading-animacao
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

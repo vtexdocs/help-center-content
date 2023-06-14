@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_6
 slug: configuring-payment-gateways
+locale: en
 legacySlug: configuring-payment-gateways
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

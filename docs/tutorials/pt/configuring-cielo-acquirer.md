@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-adquirente-cielo
+locale: pt
 legacySlug: configurar-adquirente-cielo
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

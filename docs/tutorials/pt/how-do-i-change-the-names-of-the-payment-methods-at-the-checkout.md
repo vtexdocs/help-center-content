@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_84
 slug: como-alterar-o-nome-das-formas-de-pagamento-no-checkout
+locale: pt
 legacySlug: como-alterar-o-nome-das-formas-de-pagamento-no-checkout
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

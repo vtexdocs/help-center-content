@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: gerenciar-geolocalizacao
+locale: pt
 legacySlug: gerenciar-geolocalizacao
 subcategory: 5ckGPo3O5OG4AESKucmAaS
 ---

@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: aparece-un-mensaje-de-error-inesperado-al-seleccionar-paypal-plus-en-el-checkout
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

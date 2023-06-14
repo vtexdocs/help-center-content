@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: authors_24
 slug: agora-e-possivel-ter-300-itens-no-mesmo-carrinho
+locale: pt
 legacySlug: agora-e-possivel-ter-300-itens-no-mesmo-carrinho
 announcementImageID: ''
 announcementSynopsisPT: 'V5 e V6 do carrinho estão otimizadas para processar grandes pedidos e manter a performance da sua loja.'

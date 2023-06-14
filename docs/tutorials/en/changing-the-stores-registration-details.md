@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: changing-the-stores-registration-details
+locale: en
 legacySlug: changing-the-stores-registration-details
 subcategory: 5U2vQjKfQcYeYw62mygMii
 ---

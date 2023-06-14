@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: como-integrar-a-solucao-navegg
+locale: pt
 legacySlug: 
 ---
 

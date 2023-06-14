@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: 4SqDPmUJIIz2KMMKgiyqKl
 slug: login-por-facebook-nao-estara-mais-disponivel-para-o-admin-da-vtex
+locale: pt
 legacySlug: 
 announcementImageID: ''
 announcementSynopsisPT: 'Suspensão da funcionalidade de login com Facebook no Admin da VTEX'

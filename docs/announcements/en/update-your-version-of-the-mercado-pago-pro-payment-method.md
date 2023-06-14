@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: update-your-version-of-the-mercado-pago-pro-payment-method
+locale: en
 legacySlug: update-your-version-of-the-mercado-pago-pro-payment-method
 announcementImageID: ''
 announcementSynopsisEN: 'The solution was updated to complete purchases without redirect.'

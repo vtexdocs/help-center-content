@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_24
 slug: requesting-a-test-environment
+locale: en
 legacySlug: hiring-a-test-environment
 subcategory: 6SJnrkKDjGwSqKkMuQMOmm
 ---

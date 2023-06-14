@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_84
 slug: visao-geral-do-modulo-license-manager
+locale: pt
 legacySlug: visao-geral-do-modulo-license-manager
 subcategory: yMp6sKDiJEi66CGAIQ4ma
 ---

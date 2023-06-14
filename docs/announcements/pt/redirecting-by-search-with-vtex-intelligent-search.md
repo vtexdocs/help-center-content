@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: redirecionamento-pela-busca-com-vtex-intelligent-search
+locale: pt
 legacySlug: redirecionamento-pela-busca-com-vtex-intelligent-search
 announcementImageID: ''
 announcementSynopsisPT: 'O VTEX Intelligent Search agora apresenta a funcionalidade Redirecionamentos'

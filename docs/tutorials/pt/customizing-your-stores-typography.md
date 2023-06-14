@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: personalizando-a-tipografia-da-sua-loja
+locale: pt
 legacySlug: personalizando-a-tipografia-da-sua-loja
 subcategory: 5HsDDU48ZP58JHWU3WbCPc
 ---
@@ -26,7 +27,7 @@ No Admin, você tem flexibilidade para personalizar a tipografia da sua loja de 
 1. No Admin VTEX, acesse **Storefront > Styles (Estilos)**.
 2. Selecione o ícone kebab (três pontos).
 
-![Styles - Mais opções](//images.ctfassets.net/alneenqid6w5/7qhmfxaMzZ8Aw0F6mygs2i/e6f569468bccb9c85c309acd4b9fb066/styles-two-pt.png)
+![Styles - Mais opções](https://images.ctfassets.net/alneenqid6w5/7qhmfxaMzZ8Aw0F6mygs2i/e6f569468bccb9c85c309acd4b9fb066/styles-two-pt.png)
 
 3. Clique em **Edit (Editar) > Typography (Tipografia) > Font Family (Família da fonte)**.
 
@@ -50,7 +51,7 @@ Consulte a seção [Tokens de tipo](#type-tokens) para obter mais informações 
 2. Selecione o ícone kebab (três pontos).
 3. Clique em **Edit (Editar) > Typography (Tipografia) > Type Tokens (Tokens de tipo)**.
 
-![Styles - Type tokens PT](//images.ctfassets.net/alneenqid6w5/6kw7SMB36fZsS0SKX00Kss/13e59fcc04d2034ff8e2c9928c165354/styles-three-pt.gif)
+![Styles - Type tokens PT](https://images.ctfassets.net/alneenqid6w5/6kw7SMB36fZsS0SKX00Kss/13e59fcc04d2034ff8e2c9928c165354/styles-three-pt.gif)
 
 4. Escolha o tipo de ficha que você deseja personalizar como, por exemplo, **Heading 1** (Cabeçalho 1), e clique nele.
 

@@ -11,6 +11,7 @@ productTeam: VTEX IO
 author: 3aBBTLS9ZKO6IcY0Goe2y2
 tag: VTEX IO,OMS
 slug: el-boton-de-retroceder-de-chrome-no-funciona-correctamente-dentro-del
+locale: es
 kiStatus: Open
 internalReference: 
 ---

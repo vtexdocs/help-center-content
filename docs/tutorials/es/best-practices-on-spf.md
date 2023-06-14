@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_4
 slug: configurar-spf
+locale: es
 legacySlug: configurar-spf
 subcategory: 2Za4fjGfxYOo6oqykukgyy
 ---

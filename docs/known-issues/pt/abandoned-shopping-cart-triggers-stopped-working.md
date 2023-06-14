@@ -11,6 +11,7 @@ productTeam: Master Data
 author: TnXcuQydAAOuwWACo864E
 tag: Master Data
 slug: erro-com-alguns-triggers-de-carrinho-abandonado
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: teste-ab-como-onde-quando-e-porque
+locale: pt
 legacySlug: teste-ab-como-onde-quando-e-porque
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

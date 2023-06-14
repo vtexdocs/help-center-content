@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Master Data
 author: authors_64
 slug: schemas-on-master-data
+locale: en
 legacySlug: 
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---

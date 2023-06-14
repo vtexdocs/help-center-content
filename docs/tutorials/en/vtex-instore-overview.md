@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 68ARpKKMdqoaiOAAQs2kYO
 slug: vtex-instore-overview
+locale: en
 legacySlug: vtex-instore-overview
 subcategory: 4T6qfa6gNO6g4sAUIa6s2G
 ---

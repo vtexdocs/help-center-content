@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: campaign-promotions-new-option-when-configuring-target-audience
+locale: en
 legacySlug: campaign-promotions-new-option-when-configuring-target-audience
 announcementImageID: ''
 announcementSynopsisEN: 'Use multiple target audiences in a campaign audience simultaneously, instead of applying audiences alternatively.'
@@ -22,7 +23,7 @@ We have improved the campaign audience settings so that you can add up target au
 
 In the VTEX Admin, **Products > Promotions and Taxes > Campaign Audience > New Campaign Audience**, in the settings related to the **Target Audience**, we added the "and" option, where there was previously only the "or" option. This means that now you can apply a criteria adding logic ("and") besides the pre-existent alternative logic ("or"). Please see the image below:
 
-![publico-alvo-e-ou-en](//images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/655312e51c8e30a847cb012d4382de39/en-publico-alvo.gif)
+![publico-alvo-e-ou-en](https://images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/655312e51c8e30a847cb012d4382de39/en-publico-alvo.gif)
 
 Using the new option, you can create campaign promotions flexibly combining different criteria.
 

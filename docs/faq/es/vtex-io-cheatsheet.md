@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
 slug: untitled-entry-2018-02-22-at-02-15-58
+locale: es
 legacySlug: untitled-entry-2018-02-22-at-02-15-58
 ---
 

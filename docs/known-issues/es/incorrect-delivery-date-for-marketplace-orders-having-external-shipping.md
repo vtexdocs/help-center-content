@@ -11,6 +11,7 @@ productTeam: Channels
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: fecha-de-entrega-incorrecta-en-pedidos-de-mercado-con-flete-externo
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

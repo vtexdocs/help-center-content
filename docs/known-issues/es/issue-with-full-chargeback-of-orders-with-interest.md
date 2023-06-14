@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: 2Gy429C47ie3tL9XUEjeFL
 tag: Order Management
 slug: problema-con-el-reembolso-total-de-pedidos-con-intereses
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

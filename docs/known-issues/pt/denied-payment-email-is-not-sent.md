@@ -11,6 +11,7 @@ productTeam: Post-purchase
 author: authors_4
 tag: Order Management
 slug: e-mail-de-pagamento-negado-nao-e-enviado
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

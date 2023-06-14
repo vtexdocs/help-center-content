@@ -11,6 +11,7 @@ productTeam: Shopping
 author: authors_4
 tag: Checkout
 slug: creating-custom-fields-for-custom-data-converts-the-ids-to-lowercase
+locale: en
 kiStatus: Closed
 internalReference: 
 ---

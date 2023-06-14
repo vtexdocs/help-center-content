@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: cadastrando-produtos
+locale: pt
 legacySlug: cadastrando-produtos-e-skus
 subcategory: pwxWmUu7T222QyuGogs68
 ---

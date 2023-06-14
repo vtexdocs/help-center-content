@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-pagos-com-alignet
+locale: es
 legacySlug: configurar-pagos-com-alignet
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

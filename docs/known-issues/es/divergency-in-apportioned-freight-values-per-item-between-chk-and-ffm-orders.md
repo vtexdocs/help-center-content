@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: divergencia-en-los-valores-de-flete-prorrateados-por-articulo-entre-los-pedidos-de-chk-y-ffm
+locale: es
 kiStatus: Backlog
 internalReference: 321111
 ---

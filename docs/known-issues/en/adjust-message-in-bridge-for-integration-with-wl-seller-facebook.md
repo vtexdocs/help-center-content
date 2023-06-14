@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: adjust-message-in-bridge-for-integration-with-wl-seller-facebook
+locale: en
 kiStatus: Backlog
 internalReference: 600208
 ---

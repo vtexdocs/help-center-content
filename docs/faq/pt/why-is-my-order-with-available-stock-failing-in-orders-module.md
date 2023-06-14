@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: por-que-meu-pedido-com-estoque-disponivel-esta-dando-erro-no-modulo-pedidos
+locale: pt
 legacySlug: por-que-meu-pedido-com-estoque-disponivel-esta-dando-erro-no-oms
 ---
 

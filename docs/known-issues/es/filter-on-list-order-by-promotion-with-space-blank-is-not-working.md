@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: el-filtro-en-la-lista-ordenar-por-promocion-con-el-espacio-en-blanco-no-funciona
+locale: es
 kiStatus: Backlog
 internalReference: 523984
 ---

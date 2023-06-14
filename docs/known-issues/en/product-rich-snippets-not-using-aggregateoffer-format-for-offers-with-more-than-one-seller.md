@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: product-rich-snippets-not-using-aggregateoffer-format-for-offers-with-more-than-one-seller
+locale: en
 kiStatus: Backlog
 internalReference: 753505
 ---

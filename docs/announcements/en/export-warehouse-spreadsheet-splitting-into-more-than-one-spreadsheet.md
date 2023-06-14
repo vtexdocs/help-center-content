@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: export-warehouse-spreadsheet-splitting-into-more-than-one-spreadsheet
+locale: en
 legacySlug: export-warehouse-spreadsheet-splitting-into-more-than-one-spreadsheet
 announcementImageID: ''
 announcementSynopsisEN: 'For large inventories, the exported spreadsheet will be split into more than one file, for a lighter download.'

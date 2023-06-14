@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: pse-redirect-does-not-happen-when-the-user-chooses-to-pay-with-giftcard-and-pse
+locale: pt
 kiStatus: Backlog
 internalReference: 580333
 ---

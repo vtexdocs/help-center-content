@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: acuerdo-de-confidencialidad-para-pruebas-de-seguridad
+locale: es
 legacySlug: acuerdo-de-confidencialidad-para-pruebas-de-seguridad
 subcategory: 
 ---

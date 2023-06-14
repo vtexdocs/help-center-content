@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: a-remocao-do-ean-via-api-nao-esta-inativando-skus-sem-refids
+locale: pt
 kiStatus: Backlog
 internalReference: 626031
 ---

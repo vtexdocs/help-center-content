@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Channels
 author: authors_41
 slug: what-delinking-a-sku-seller-means
+locale: en
 legacySlug: what-delinking-a-sku-seller-means
 ---
 

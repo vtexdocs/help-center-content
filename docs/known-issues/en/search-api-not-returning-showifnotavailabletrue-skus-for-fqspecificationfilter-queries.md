@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: search-api-not-returning-showifnotavailabletrue-skus-for-fqspecificationfilter-queries
+locale: en
 kiStatus: Backlog
 internalReference: 336896
 ---

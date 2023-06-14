@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: authors_59
 slug: why-is-the-origin-of-the-orders-different-on-vtex-and-on-google-analytics
+locale: en
 legacySlug: why-is-the-origin-of-the-orders-different-on-vtex-and-on-google-analytics
 ---
 

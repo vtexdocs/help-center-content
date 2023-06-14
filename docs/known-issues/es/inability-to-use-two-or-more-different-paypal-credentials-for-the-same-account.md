@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: imposibilidad-de-utilizar-dos-o-mas-credenciales-de-paypal-diferentes-para-la-misma-cuenta
+locale: es
 kiStatus: Backlog
 internalReference: 459704
 ---

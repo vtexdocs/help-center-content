@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: configurar-regla-de-precio-para-politica-comercial
+locale: es
 legacySlug: configurar-regla-de-precio-para-politica-comercial
 subcategory: wUepkh8pzimEywO8oGUIc
 ---

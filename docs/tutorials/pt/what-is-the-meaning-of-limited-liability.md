@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: qual-o-significado-de-responsabilidade-limitada
+locale: pt
 legacySlug: qual-o-significado-de-responsabilidade-limitada
 subcategory: 6SJnrkKDjGwSqKkMuQMOmm
 ---

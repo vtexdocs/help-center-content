@@ -9,6 +9,7 @@ firstPublishedAt: 2018-09-14T21:19:21.733Z
 contentType: trackArticle
 productTeam: Shopping
 slug: como-cambiar-el-idioma-del-instore
+locale: es
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugES: instore-setup
 ---

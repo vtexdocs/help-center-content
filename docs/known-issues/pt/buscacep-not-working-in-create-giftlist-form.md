@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: buscacep-nao-trabalha-em-forma-de-giftlist
+locale: pt
 kiStatus: Backlog
 internalReference: 342418
 ---

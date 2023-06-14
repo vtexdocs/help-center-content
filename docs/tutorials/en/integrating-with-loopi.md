@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: integrating-with-loopi
+locale: en
 legacySlug: integrating-with-loopi
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

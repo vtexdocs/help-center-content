@@ -11,6 +11,7 @@ productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
 slug: o-pedido-novamente-do-historico-de-pedidos-b2b-nao-funciona
+locale: pt
 kiStatus: Backlog
 internalReference: 819920
 ---

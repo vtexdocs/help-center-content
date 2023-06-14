@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: error-al-liquidar-la-transaccion-con-2-tarjetas-mercadopagov1
+locale: es
 kiStatus: Backlog
 internalReference: 395943
 ---

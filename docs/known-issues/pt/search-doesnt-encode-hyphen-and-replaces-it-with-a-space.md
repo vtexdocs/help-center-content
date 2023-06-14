@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: busca-nao-encoda-hifen-e-o-substitui-por-espaco
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

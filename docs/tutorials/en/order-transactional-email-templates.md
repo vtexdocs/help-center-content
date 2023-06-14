@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_59
 slug: order-transactional-email-templates
+locale: en
 legacySlug: list-of-e-mail-templates-in-the-message-center
 subcategory: 4D5LrWwlHGmOWMomOaaGee
 ---

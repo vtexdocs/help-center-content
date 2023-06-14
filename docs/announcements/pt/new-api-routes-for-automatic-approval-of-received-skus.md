@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: novas-rotas-de-api-para-a-aprovacao-automatica-de-skus-recebidos
+locale: pt
 legacySlug: novas-rotas-de-api-para-a-aprovacao-automatica-de-skus-recebidos
 announcementImageID: ''
 announcementSynopsisPT: 'Marketplace: novas rotas de API para aprovação automática de SKUs recebidos'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: determine-the-minimum-number-of-items-in-a-cart
+locale: en
 legacySlug: determine-the-minimum-number-of-items-in-a-cart
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

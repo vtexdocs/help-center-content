@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: erederest-solo-permite-la-cancelacion-cuando-el-codigo-de-estado-es-359
+locale: es
 kiStatus: Backlog
 internalReference: 740084
 ---

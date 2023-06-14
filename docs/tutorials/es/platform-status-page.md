@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: pagina-de-status-de-la-plataforma
+locale: es
 legacySlug: untitled-entry-2019-01-14-at-07-58-58, status-vtex-entienda-como-funciona-el-status-de-la-plataforma
 subcategory: 5PYkoNDZyo2G80yiiqG2YW
 ---
@@ -34,7 +35,7 @@ La opción webhook permite realizar integraciones basadas en las notificaciones 
 
 Esta sección permite comprobar, en tiempo real, el status general de la plataforma, así como algunos aspectos específicos:
 
-![Página de status](//images.ctfassets.net/alneenqid6w5/7Acmvo2WI9cSZZHCNGdeiM/411eb60547abcfdf7f805eb2085e9ba6/1.png)
+![Página de status](https://images.ctfassets.net/alneenqid6w5/7Acmvo2WI9cSZZHCNGdeiM/411eb60547abcfdf7f805eb2085e9ba6/1.png)
 
 - **Checkout:** funcionalidades vinculadas al flujo de creación de pedidos, es decir, el checkout y sus dependencias.
 - **WebStore:** navegación por el storefront.
@@ -49,7 +50,7 @@ Los status posibles para cada aspecto anterior son:
 - **Major Outage:** funcionamiento totalmente impactado.
 - **Under Maintenance:** sistema en mantenimiento.
 
-![status moduleBox](//images.ctfassets.net/alneenqid6w5/2BkFdVXFXayUCvClXLPSNL/6fd919b0ef2121b6e6005b6466811164/status_moduleBox.PNG)
+![status moduleBox](https://images.ctfassets.net/alneenqid6w5/2BkFdVXFXayUCvClXLPSNL/6fd919b0ef2121b6e6005b6466811164/status_moduleBox.PNG)
 
 ## Historial de incidentes
 
@@ -61,7 +62,7 @@ También es posible visualizar todo el historial de incidentes organizado por me
 
 Cada registro de incidentes se compone de fecha de ocurrencia, título y evolución del status.
 
-![status incidentBox](//images.ctfassets.net/alneenqid6w5/2NWuofZrmybqso50XpC8Gy/eeda8697db4c1b22067dfa233e628a8c/status_incidentBox.PNG)
+![status incidentBox](https://images.ctfassets.net/alneenqid6w5/2NWuofZrmybqso50XpC8Gy/eeda8697db4c1b22067dfa233e628a8c/status_incidentBox.PNG)
 
 - **Título del registro:** título que describe el tipo de clasificación del incidente. Al hacer clic en él, se le redirige a la página con detalles del incidente.
 - **Status de incidentes:** cada incidente tiene un ciclo definido, en el que nuestro equipo trabaja para identificar y solucionar los problemas. Conozca un poco más sobre cada etapa de este ciclo:
@@ -75,7 +76,7 @@ Cada registro de incidentes se compone de fecha de ocurrencia, título y evoluci
 
 Actualizaciones en la plataforma se realizan continuamente y, en general, no afectan la operación de nuestros clientes. Pero, algunas veces, algunas de ellas necesitan que el servicio deje temporalmente de estar disponible.
 
-![status maintenanceBox](//images.ctfassets.net/alneenqid6w5/quaItZNYtCgkpADVjT9aq/8cb4cf7d673e5fa5b710dc1d0ecb89ac/status_maintenanceBox.PNG)
+![status maintenanceBox](https://images.ctfassets.net/alneenqid6w5/quaItZNYtCgkpADVjT9aq/8cb4cf7d673e5fa5b710dc1d0ecb89ac/status_maintenanceBox.PNG)
 
 Para casos así, que afectan la estabilidad de la plataforma, usamos el Status para comunicar todos los detalles: cuando se realizará el mantenimiento, el período de duración y el impacto.
 

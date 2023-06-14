@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_41
 slug: como-funciona-a-autorizacao-de-pedidos
+locale: pt
 legacySlug: Saiba-como-criar-fluxos-para-a-liberação-ou-aprovação-de-pedidos-dos-canais
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---

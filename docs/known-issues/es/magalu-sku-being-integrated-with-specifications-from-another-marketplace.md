@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: magalu-sku-que-se-integra-con-las-especificaciones-de-otro-marketplace
+locale: es
 kiStatus: Backlog
 internalReference: 689151
 ---

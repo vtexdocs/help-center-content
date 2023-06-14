@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: educacao-e-conscientizacao-sobre-seguranca
+locale: pt
 legacySlug: educacao-e-conscientizacao-sobre-seguranca
 subcategory: 
 ---

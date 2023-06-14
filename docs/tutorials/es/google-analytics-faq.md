@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: google-analytics-preguntas-frecuentes
+locale: es
 legacySlug: google-analytics-preguntas-frecuentes
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

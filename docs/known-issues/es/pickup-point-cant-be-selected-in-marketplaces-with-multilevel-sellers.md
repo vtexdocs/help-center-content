@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: no-se-puede-seleccionar-el-punto-de-recogida-en-los-mercados-con-vendedores-multinivel
+locale: es
 kiStatus: Backlog
 internalReference: 524073
 ---

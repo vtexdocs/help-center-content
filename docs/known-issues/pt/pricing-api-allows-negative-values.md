@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: a-api-de-precos-permite-valores-negativos
+locale: pt
 kiStatus: Backlog
 internalReference: 774548
 ---

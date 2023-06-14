@@ -11,6 +11,7 @@ productTeam: Storage
 author: 2mXZkbi0oi061KicTExNjo
 tag: Storage
 slug: link-para-download-do-masterdata-export-nao-disponivel
+locale: pt
 kiStatus: Backlog
 internalReference: 613864
 ---

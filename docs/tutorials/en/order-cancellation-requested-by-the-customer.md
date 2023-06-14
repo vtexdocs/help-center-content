@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: order-cancellation-requested-by-the-customer
+locale: en
 legacySlug: how-does-cancellation-work-when-requested-by-the-customer
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

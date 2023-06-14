@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: o-item-adicionado-a-ordem-de-modificacao-esta-em-outro-pacote-depois-de-faturado
+locale: pt
 kiStatus: Backlog
 internalReference: 412526
 ---

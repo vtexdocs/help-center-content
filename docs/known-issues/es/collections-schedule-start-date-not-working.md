@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-fecha-de-inicio-de-las-colecciones-no-funciona
+locale: es
 kiStatus: Fixed
 internalReference: 667328
 ---

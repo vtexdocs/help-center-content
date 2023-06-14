@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: preco-fixo-sendo-criado-na-politica-comercial-1-ao-economizar-precos-de-pacote
+locale: pt
 kiStatus: Backlog
 internalReference: 705869
 ---

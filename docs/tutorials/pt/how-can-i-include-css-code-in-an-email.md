@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_3
 slug: como-inserir-css-num-e-mail
+locale: pt
 legacySlug: como-inserir-css-num-e-mail
 subcategory: 4D5LrWwlHGmOWMomOaaGee
 ---

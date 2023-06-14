@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 5fYXkMJagMwcSAeMAsAuOI
 tag: Pricing & Promotions
 slug: when-a-schedule-price-expires-the-fixed-price-is-not-reenabled
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

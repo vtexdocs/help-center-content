@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: understanding-the-conversation-tracker
+locale: en
 legacySlug: understanding-the-conversation-tracker
 subcategory: 4D5LrWwlHGmOWMomOaaGee
 ---

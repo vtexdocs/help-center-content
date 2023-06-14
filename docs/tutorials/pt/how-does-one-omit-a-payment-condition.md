@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_35
 slug: como-omitir-uma-condicao-de-pagamento
+locale: pt
 legacySlug: como-omitir-uma-condicao-de-pagamento
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

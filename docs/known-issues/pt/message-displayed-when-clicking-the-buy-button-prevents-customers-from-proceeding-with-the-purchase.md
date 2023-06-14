@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: mensagem-exibida-ao-clicar-no-botao-comprar-impede-que-o-cliente-finalize-a-compra
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

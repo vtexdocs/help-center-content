@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: mercado-pago-pro-actualice-la-version-del-medio-de-pago
+locale: es
 legacySlug: mercado-pago-pro-actualice-la-version-del-medio-de-pago
 announcementImageID: ''
 announcementSynopsisES: 'La solución se actualizó para finalizar compras sin redirección.'

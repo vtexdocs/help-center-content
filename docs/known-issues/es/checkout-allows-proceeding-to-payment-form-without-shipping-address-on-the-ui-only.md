@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-pago-permite-pasar-al-formulario-de-pago-sin-la-direccion-de-envio-en-la-interfaz-de-usuario-solamente
+locale: es
 kiStatus: Backlog
 internalReference: 699317
 ---

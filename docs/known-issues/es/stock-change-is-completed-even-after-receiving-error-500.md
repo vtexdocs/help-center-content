@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: el-cambio-de-stock-se-completa-incluso-despues-de-recibir-el-error-500
+locale: es
 kiStatus: Backlog
 internalReference: 388176
 ---

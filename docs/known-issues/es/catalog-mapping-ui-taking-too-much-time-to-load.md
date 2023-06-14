@@ -11,6 +11,7 @@ productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: la-interfaz-de-usuario-del-mapa-del-catalogo-tarda-demasiado-en-cargarse
+locale: es
 kiStatus: Backlog
 internalReference: 823218
 ---

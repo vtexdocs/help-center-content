@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_24
 slug: el-pedido-fue-facturado-en-el-erp-pero-continua-en-el-statu-preparando-entrega
+locale: es
 legacySlug: el-pedido-fue-facturado-en-el-erp-pero-continua-en-el-statu-preparando-entrega
 ---
 

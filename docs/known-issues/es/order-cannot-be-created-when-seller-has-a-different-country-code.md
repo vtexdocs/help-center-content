@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: no-se-puede-crear-un-pedido-cuando-el-vendedor-tiene-un-codigo-de-pais-diferente
+locale: es
 kiStatus: Backlog
 internalReference: 763955
 ---

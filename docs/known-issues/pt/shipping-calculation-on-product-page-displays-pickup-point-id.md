@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: calculo-de-frete-na-pagina-de-produto-exibe-id-do-ponto-de-retirada
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

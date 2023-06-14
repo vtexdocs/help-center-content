@@ -11,6 +11,7 @@ productTeam: Financial
 author: authors_84
 tag: Checkout,Order Management
 slug: problema-de-arredondamento-em-vales-giftcards-que-funcionam-como-desconto
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

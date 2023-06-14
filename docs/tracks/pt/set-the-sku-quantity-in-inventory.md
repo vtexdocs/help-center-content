@@ -9,6 +9,7 @@ firstPublishedAt: 2018-05-02T20:58:37.427Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
 slug: defina-a-quantidade-do-sku-em-estoque
+locale: pt
 trackId: 7sORw9I7QIka24MCQaIO2g
 trackSlugPT: vtex-getting-started
 ---

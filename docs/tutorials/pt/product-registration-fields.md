@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: campos-de-cadastro-de-produto
+locale: pt
 legacySlug: campos-de-cadastro-de-produto
 subcategory: pwxWmUu7T222QyuGogs68
 ---

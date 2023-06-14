@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: botao-de-download-do-xml-nao-e-mostrado
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

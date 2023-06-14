@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Billing
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: como-direccionar-duda-financiera-a-vtex
+locale: es
 legacySlug: como-direccionar-duda-financiera-a-vtex
 subcategory: 1VvCpaa8NCA6a0MK6W6oWg
 ---

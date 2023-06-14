@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: gestionar-capacidad-de-entrega
+locale: es
 legacySlug: gestionar-capacidad-de-entrega
 subcategory: 1UL6Q7nUN6SkA2g2SUsECi
 ---

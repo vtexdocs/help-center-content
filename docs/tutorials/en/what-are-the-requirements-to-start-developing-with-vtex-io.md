@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: what-are-the-requirements-to-start-developing-with-vtex-io
+locale: en
 legacySlug: what-are-the-requirements-to-start-developing-with-vtex-io
 subcategory: 5eBwrcLFVSwYGSOQqGKQYW
 ---

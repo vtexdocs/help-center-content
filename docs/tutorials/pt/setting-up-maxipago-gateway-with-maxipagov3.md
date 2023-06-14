@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-gateway-maxipago-com-maxipagov3
+locale: pt
 legacySlug: configurar-gateway-maxipago-com-maxipagov3
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

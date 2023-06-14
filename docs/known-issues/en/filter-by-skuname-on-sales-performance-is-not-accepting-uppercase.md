@@ -11,6 +11,7 @@ productTeam: Analytics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Analytics
 slug: filter-by-skuname-on-sales-performance-is-not-accepting-uppercase
+locale: en
 kiStatus: Backlog
 internalReference: 639219
 ---

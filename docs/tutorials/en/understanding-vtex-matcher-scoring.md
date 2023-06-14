@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 245tA425AIeioKAk2eaiwS
 slug: understanding-vtex-matcher-scoring
+locale: en
 legacySlug: understanding-vtex-matcher-scoring
 subcategory: znvlXLHC80EKkugQaiMI4
 ---

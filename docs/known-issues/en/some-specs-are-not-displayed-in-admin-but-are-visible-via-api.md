@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: some-specs-are-not-displayed-in-admin-but-are-visible-via-api
+locale: en
 kiStatus: Backlog
 internalReference: 418348
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Identity
 author: TAUXpa4XWCsIaUOoksGIE
 slug: why-doesnt-authentication-with-appkey-and-apptoken-work
+locale: en
 legacySlug: untitled-entry-2019-03-12-at-09-06-30
 ---
 

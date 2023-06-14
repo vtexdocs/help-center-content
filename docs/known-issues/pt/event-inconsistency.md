@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: event-inconsistency
+locale: pt
 kiStatus: Scheduled
 internalReference: 267299
 ---

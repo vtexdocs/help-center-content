@@ -9,6 +9,7 @@ firstPublishedAt: 2018-06-22T18:02:29.060Z
 contentType: trackArticle
 productTeam: Shopping
 slug: cart-transfer
+locale: en
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugEN: instore-setup
 ---
@@ -30,14 +31,14 @@ window.INSTORE_CONFIG = {
 
 When making this change, you should notice that two polyesters appear at the bottom of the inStore ID page:
 
-![01 inStore slider transferencia](//images.ctfassets.net/alneenqid6w5/5h4AVCw4sE4oAIsMEMskU0/a5739c88008a9029755adadc58a332bf/01_inStore_slider_transferencia.png)
+![01 inStore slider transferencia](https://images.ctfassets.net/alneenqid6w5/5h4AVCw4sE4oAIsMEMskU0/a5739c88008a9029755adadc58a332bf/01_inStore_slider_transferencia.png)
 
 When dragging the screen to the side you will see the screen for __ "Capture Cart" __:
 
-![02 inStore capturar carrinho](//images.ctfassets.net/alneenqid6w5/1hfTK0X9dg4CgSKEqYm0gG/637365736b1bb04e0dae621e2a7022b9/02_inStore_capturar_carrinho.png)
+![02 inStore capturar carrinho](https://images.ctfassets.net/alneenqid6w5/1hfTK0X9dg4CgSKEqYm0gG/637365736b1bb04e0dae621e2a7022b9/02_inStore_capturar_carrinho.png)
 
 In it it is possible to capture a cart by the code of the cart, QR code or even by seller.
 
 In order to generate a QR code or code from a cart you must use the __ "Transfer" option __ in the inStore cart:
 
-![03 inStore transferir](//images.ctfassets.net/alneenqid6w5/5fpW69RgkgAgaig46S6kwu/72442a8c5d24f48861881f2a884c065a/03_inStore_transferir.png)
+![03 inStore transferir](https://images.ctfassets.net/alneenqid6w5/5fpW69RgkgAgaig46S6kwu/72442a8c5d24f48861881f2a884c065a/03_inStore_transferir.png)

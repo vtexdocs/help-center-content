@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-adquirente-bancard
+locale: pt
 legacySlug: configurar-adquirente-bancard
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

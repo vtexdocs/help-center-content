@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: setting-up-private-label-payments
+locale: en
 legacySlug: setting-up-private-label-payments
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

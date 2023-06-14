@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: Shopping
 slug: configurar-pontos-de-retirada
+locale: pt
 trackId: 3WGDRRhc3vf1MJb9zGncnv
 trackSlugPT: estrategias-de-comercio-unificado
 ---

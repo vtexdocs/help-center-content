@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: compre-e-ganhe
+locale: pt
 legacySlug: compre-e-ganhe
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---

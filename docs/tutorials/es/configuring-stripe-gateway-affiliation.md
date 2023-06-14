@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 slug: configurar-la-afiliacion-stripe
+locale: es
 legacySlug: configurar-la-afiliacion-stripe
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

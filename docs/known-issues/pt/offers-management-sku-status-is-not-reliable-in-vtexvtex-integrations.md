@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: o-status-do-sku-de-gerenciamento-de-ofertas-nao-e-confiavel-nas-integracoes-vtexvtex
+locale: pt
 kiStatus: Backlog
 internalReference: 745738
 ---

@@ -9,6 +9,7 @@ firstPublishedAt: 2020-06-28T15:38:19.220Z
 contentType: trackArticle
 productTeam: Shopping
 slug: configurar-o-adquirente-stone-para-o-instore
+locale: pt
 trackId: 43B4Nr7uZva5UdwWEt3PEy
 trackSlugPT: configurar-o-adquirente-stone-para-o-instore
 ---

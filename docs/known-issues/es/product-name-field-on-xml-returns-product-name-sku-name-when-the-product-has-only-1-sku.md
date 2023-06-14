@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-campo-del-nombre-del-producto-en-el-xml-devuelve-el-nombre-del-producto-el-nombre-del-sku-cuando-el-producto-solo-tiene-un-sku
+locale: es
 kiStatus: Backlog
 internalReference: 661089
 ---

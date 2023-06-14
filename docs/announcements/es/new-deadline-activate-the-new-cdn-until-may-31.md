@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: authors_24
 slug: nuevo-plazo-active-la-nueva-cdn-hasta-el-31-05
+locale: es
 legacySlug: nuevo-plazo-active-la-nueva-cdn-hasta-el-31-05
 announcementImageID: ''
 announcementSynopsisES: 'Activar HTTPS, actualizar el CNAME y solicitar el nuevo CDN antes de la fecha límite evitará problemas en su tienda.'

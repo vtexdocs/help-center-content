@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: selecao-inesperada-de-varios-pontos-de-coleta-para-o-mesmo-vendedor-quando-nem-todos-os-itens-estao-disponiveis-na-mesma-opcao
+locale: pt
 kiStatus: Backlog
 internalReference: 467702
 ---

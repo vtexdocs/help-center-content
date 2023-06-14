@@ -9,6 +9,7 @@ firstPublishedAt: 2021-04-15T17:41:07.946Z
 contentType: trackArticle
 productTeam: Channels
 slug: google-shopping-marketplace
+locale: en
 trackId: 25Sl7iOqq58PGfVfTAo8Xw
 trackSlugEN: integrating-with-google-shopping
 ---

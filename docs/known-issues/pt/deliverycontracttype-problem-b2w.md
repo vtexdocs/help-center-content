@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: problema-do-tipo-deliverycontracttype-b2w
+locale: pt
 kiStatus: Backlog
 internalReference: 605908
 ---

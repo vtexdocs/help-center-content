@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: what-are-fields-or-specifications
+locale: en
 legacySlug: what-are-fields-or-specifications
 subcategory: pwxWmUu7T222QyuGogs68
 ---

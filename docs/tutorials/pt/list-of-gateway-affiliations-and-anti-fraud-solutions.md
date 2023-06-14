@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: lista-de-afiliacoes-de-gateway-e-antifraude
+locale: pt
 legacySlug: lista-de-afiliacoes-de-gateway-e-antifraude
 subcategory: 
 ---

@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 5l3eEiSz8MpcppCxcnijGz
 slug: nuevo-checkout-de-sales-app
+locale: es
 legacySlug: nuevo-checkout-de-sales-app
 announcementImageID: ''
 announcementSynopsisES: 'Hemos desarrollado el nuevo checkout de Sales App pensando en proporcionar una experiencia más sencilla.'

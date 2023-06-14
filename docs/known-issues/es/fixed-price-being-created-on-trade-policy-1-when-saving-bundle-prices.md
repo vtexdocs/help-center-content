@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: precio-fijo-que-se-crea-en-la-politica-comercial-1-al-guardar-los-precios-de-los-paquetes
+locale: es
 kiStatus: Backlog
 internalReference: 705869
 ---

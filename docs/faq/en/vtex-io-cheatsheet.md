@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
 slug: vtex-io-cheatsheet
+locale: en
 legacySlug: vtex-io-cheatsheet
 ---
 

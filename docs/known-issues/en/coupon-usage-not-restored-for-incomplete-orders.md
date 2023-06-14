@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: coupon-usage-not-restored-for-incomplete-orders
+locale: en
 kiStatus: Backlog
 internalReference: 639418
 ---

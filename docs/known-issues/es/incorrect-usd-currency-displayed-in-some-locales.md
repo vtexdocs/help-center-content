@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: se-muestra-la-moneda-usd-incorrecta-en-algunas-localizaciones
+locale: es
 kiStatus: Backlog
 internalReference: 414901
 ---

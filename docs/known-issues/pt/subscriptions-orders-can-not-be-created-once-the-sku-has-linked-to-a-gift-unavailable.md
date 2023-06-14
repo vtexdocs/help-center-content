@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: assinaturas-os-pedidos-nao-podem-ser-criados-depois-que-a-sku-tiver-sido-vinculada-a-um-presente-indisponivel
+locale: pt
 kiStatus: Fixed
 internalReference: 395965
 ---

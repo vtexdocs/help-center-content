@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: integracao-entre-marketplace-nao-vtex-e-seller-vtex-acoes-referentes-a
+locale: pt
 legacySlug: integracao-entre-marketplace-nao-vtex-e-seller-vtex-acoes-referentes-a
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---

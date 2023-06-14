@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: redefinindo-sua-configuracao-de-aplicativo-de-autenticacao-de-dois-fatores
+locale: pt
 legacySlug: redefinindo-sua-configuracao-de-aplicativo-de-autenticacao-de-dois-fatores
 subcategory: 4sY1T2qdFehvVmC0tL5xW3
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: por-que-campo-de-produto-nao-aparece-como-filtro
+locale: es
 legacySlug: por-que-campo-de-produto-nao-aparece-como-filtro
 ---
 

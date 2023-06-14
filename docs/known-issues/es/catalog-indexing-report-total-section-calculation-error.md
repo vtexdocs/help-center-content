@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: error-de-calculo-de-la-seccion-total-del-informe-de-indexacion-del-catalogo
+locale: es
 kiStatus: Backlog
 internalReference: 499450
 ---

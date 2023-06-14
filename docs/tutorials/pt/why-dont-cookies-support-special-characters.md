@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: authors_35
 slug: cookie-nao-suporta-caracteres-especiais
+locale: pt
 legacySlug: cookie-nao-suporta-caracteres-especiais
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

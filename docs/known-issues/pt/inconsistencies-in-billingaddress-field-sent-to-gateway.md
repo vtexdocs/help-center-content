@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: inconsistencias-no-faturamentocampo-de-endereco-enviado-ao-gateway
+locale: pt
 kiStatus: Scheduled
 internalReference: 291688
 ---

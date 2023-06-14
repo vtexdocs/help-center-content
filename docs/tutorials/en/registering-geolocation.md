@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: registering-geolocation
+locale: en
 legacySlug: registering-geolocation
 subcategory: 5ckGPo3O5OG4AESKucmAaS
 ---

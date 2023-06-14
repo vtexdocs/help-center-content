@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_59
 slug: por-que-uma-transacao-foi-liquidada-com-sucesso-mas-nao-foi-finalizada-no-pci
+locale: pt
 legacySlug: por-que-uma-transacao-foi-capturada-com-sucesso-mas-nao-foi-finalizada-no-pci
 ---
 

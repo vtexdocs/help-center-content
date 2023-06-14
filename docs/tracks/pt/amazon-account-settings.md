@@ -9,6 +9,7 @@ firstPublishedAt: 2019-02-28T23:02:20.905Z
 contentType: trackArticle
 productTeam: Channels
 slug: configuracoes-na-conta-amazon
+locale: pt
 trackId: 6sgd4Pagy3wNsWKBvmIFrP
 trackSlugPT: integracao-com-a-amazon
 ---

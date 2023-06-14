@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog,Portal (CMS)
 slug: las-etiquetas-title-y-description-se-omiten-en-template-estatio
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_37
 slug: por-que-veo-varios-emails-transaccionales-repetidos-en-un-pedido
+locale: es
 legacySlug: por-que-veo-varios-emails-transaccionales-repetidos-en-un-pedido-en-el-oms
 ---
 

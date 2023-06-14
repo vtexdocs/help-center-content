@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_24
 slug: publicar-a-app-no-registro-publico
+locale: pt
 legacySlug: 
 subcategory: 
 ---

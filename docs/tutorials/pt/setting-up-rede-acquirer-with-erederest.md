@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-adquirente-rede-com-o-erederest
+locale: pt
 legacySlug: configurar-adquirente-rede-com-o-erederest
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

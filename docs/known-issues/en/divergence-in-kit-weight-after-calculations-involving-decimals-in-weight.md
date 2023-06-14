@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: divergence-in-kit-weight-after-calculations-involving-decimals-in-weight
+locale: en
 kiStatus: Backlog
 internalReference: 657186
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: vinculos-de-sku
+locale: es
 legacySlug: vinculos-de-sku
 subcategory: FTLNAWyLmuaIiAq4CQKS6
 ---
@@ -26,7 +27,7 @@ Por defecto, para los <a href="https://help.vtex.com/es/tutorial/seller-white-la
 
 La página **Vínculos de SKU** le permite al _marketplace_ seguir y gestionar la vinculación entre los SKU del _seller_ y los del _marketplace_. Para acceder a la página, en el Admin VTEX, ingresa a **Marketplace > Sellers > Vínculos de SKU**. Aparecerá la siguiente interfaz:
 
-![sku-bindings-es](//images.ctfassets.net/alneenqid6w5/3TrV8m2JLKuPjhKTtkY2Yl/fcca860e97e41d512f9f88d53d6d09fd/sku-bindings-es.png)
+![sku-bindings-es](https://images.ctfassets.net/alneenqid6w5/3TrV8m2JLKuPjhKTtkY2Yl/fcca860e97e41d512f9f88d53d6d09fd/sku-bindings-es.png)
 
 La tabla a continuación contiene la descripción de las columnas de la lista de vínculos de SKU:
 

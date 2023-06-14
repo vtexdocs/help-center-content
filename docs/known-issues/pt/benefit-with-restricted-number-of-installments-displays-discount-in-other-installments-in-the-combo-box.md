@@ -11,6 +11,7 @@ productTeam: Shopping
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: promocao-com-restricao-de-numero-de-parcelas-exibe-desconto-em-demais-parcelas-no-combo-de-selecao
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

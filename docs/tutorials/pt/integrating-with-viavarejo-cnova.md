@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_4
 slug: integrando-com-viavarejo-cnova
+locale: pt
 legacySlug: integrando-com-viavarejo-cnova
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

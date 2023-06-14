@@ -11,6 +11,7 @@ productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 tag: Connections
 slug: products-expired-on-google-shopping-cannot-be-resent
+locale: en
 kiStatus: Fixed
 internalReference: 
 ---

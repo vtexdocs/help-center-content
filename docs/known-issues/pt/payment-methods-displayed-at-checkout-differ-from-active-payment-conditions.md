@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: os-metodos-de-pagamento-exibidos-no-checkout-diferem-das-condicoes-de-pagamento-ativas
+locale: pt
 kiStatus: Backlog
 internalReference: 666469
 ---

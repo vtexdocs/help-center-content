@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: el-descuento-nominal-no-se-distribuye-entre-todos-los-articulos-de-la-cesta
+locale: es
 kiStatus: Backlog
 internalReference: 334130
 ---

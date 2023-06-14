@@ -11,6 +11,7 @@ productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
 slug: ordenacao-de-formulario-nao-coloca-campo-no-indexador
+locale: pt
 kiStatus: Backlog
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: que-son-estantes
+locale: es
 legacySlug: que-son-estantes
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

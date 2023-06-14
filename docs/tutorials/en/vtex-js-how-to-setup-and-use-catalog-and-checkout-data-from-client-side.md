@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 523NSmHfn2IKEoiy2Q44YS
 slug: vtex-js-how-to-setup-and-use-catalog-and-checkout-data-from-client-side
+locale: en
 legacySlug: vtex-js-how-to-setup-and-use-catalog-and-checkout-data-from-client-side
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---

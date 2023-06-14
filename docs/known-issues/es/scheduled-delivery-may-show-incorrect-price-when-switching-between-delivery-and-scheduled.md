@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-entrega-programada-puede-mostrar-un-precio-incorrecto-al-cambiar-entre-entrega-y-programada
+locale: es
 kiStatus: Backlog
 internalReference: 770250
 ---

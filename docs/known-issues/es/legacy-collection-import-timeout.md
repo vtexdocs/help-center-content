@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: tiempo-de-espera-de-importacion-de-colecciones-heredadas
+locale: es
 kiStatus: Backlog
 internalReference: 483785
 ---

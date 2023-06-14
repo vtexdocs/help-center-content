@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 245tA425AIeioKAk2eaiwS
 slug: reciba-pagos-con-bitcoin-en-su-tienda
+locale: es
 legacySlug: reciba-pagos-con-bitcoin-en-su-tienda
 announcementImageID: ''
 announcementSynopsisES: 'La plataforma VTEX ahora permite que su tienda acepte pagos con bitcoin'

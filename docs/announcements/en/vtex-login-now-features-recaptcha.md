@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Identity
 author: authors_24
 slug: vtex-login-now-features-recaptcha
+locale: en
 legacySlug: vtex-login-now-features-recaptcha
 announcementImageID: ''
 announcementSynopsisEN: 'VTEX login via email and password now has reCAPTCHA'

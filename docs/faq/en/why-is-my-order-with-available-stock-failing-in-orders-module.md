@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: why-is-my-order-with-available-stock-failing-in-orders-module
+locale: en
 legacySlug: why-is-my-order-with-available-stock-failing-in-oms
 ---
 

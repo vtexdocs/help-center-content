@@ -9,11 +9,12 @@ firstPublishedAt: 2020-01-13T14:28:47.464Z
 contentType: trackArticle
 productTeam: VTEX IO
 slug: o-que-e-o-cms
+locale: pt
 trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugPT: cms
 ---
 
-![CMS Capa overview](//images.ctfassets.net/alneenqid6w5/5FaFzk5z2vdyWIKl5AlCby/e241b8b8231499bfec4c8ce67fb27d0b/CAPA_OVERVIEW_CMS.png)
+![CMS Capa overview](https://images.ctfassets.net/alneenqid6w5/5FaFzk5z2vdyWIKl5AlCby/e241b8b8231499bfec4c8ce67fb27d0b/CAPA_OVERVIEW_CMS.png)
 
 CMS (Content Management System, em Português, Sistema de Gerenciamento de Conteúdo) é uma funcionalidade voltada para o gerenciamento de conteúdo de forma prática e constante.
 

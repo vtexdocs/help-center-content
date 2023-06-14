@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Others
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: puedo-generar-un-informe-con-los-productos-mas-vendidos-en-mi-tienda
+locale: es
 legacySlug: 
 ---
 

@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: la-ruta-transaction-del-sistema-actual-de-tarjetas-regalo-devuelve-un-codigo-de-estado-200-ok-al-anadir-o-eliminar-creditos-aunque-la-tarjeta-este-inactiva
+locale: es
 kiStatus: Backlog
 internalReference: 795997
 ---

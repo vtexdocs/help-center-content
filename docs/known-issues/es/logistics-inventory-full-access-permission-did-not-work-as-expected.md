@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: el-permiso-de-acceso-total-al-inventario-de-logistica-no-funciono-como-se-esperaba
+locale: es
 kiStatus: Backlog
 internalReference: 482353
 ---

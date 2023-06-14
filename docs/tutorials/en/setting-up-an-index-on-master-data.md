@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_3
 slug: setting-up-an-index-on-master-data
+locale: en
 legacySlug: setting-up-an-index-on-master-data
 subcategory: WpbGhubuRZaNZilJSXnqu
 ---

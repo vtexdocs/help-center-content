@@ -9,6 +9,7 @@ firstPublishedAt: 2018-10-08T23:57:12.868Z
 contentType: trackArticle
 productTeam: Channels
 slug: sending-products-to-carrefour
+locale: en
 trackId: 2wYlj07cNuA8k8mmwY86K2
 trackSlugEN: carrefour-integration-set-up
 ---

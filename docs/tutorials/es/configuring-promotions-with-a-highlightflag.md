@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_3
 slug: configurando-promocion-con-destaque-flag
+locale: es
 legacySlug: configurando-promocion-con-destaque-flag
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---
@@ -61,7 +62,7 @@ Esta configuración consiste en la edición de la plantilla de la página utiliz
 9. En la ventana, haga clic en la opción **New Layout**.
 10. En el menú lateral, haga clic sobre el layout marcado con un check rojo y en el campo __template__, verifique cuál es el nombre de la plantilla utilizada.
 
-![Layout com check - PT](//images.ctfassets.net/alneenqid6w5/4GmSglkpk78c4M5hDZEgZX/ab47d3105213471fe370be0b11afcfab/image.png)
+![Layout com check - PT](https://images.ctfassets.net/alneenqid6w5/4GmSglkpk78c4M5hDZEgZX/ab47d3105213471fe370be0b11afcfab/image.png)
 
 ![Template](//images.contentful.com/alneenqid6w5/2OzzBkU2YwsgCGeICsgIcg/61aaf502c787cb4f0468ab8cee821072/Template.png)
 

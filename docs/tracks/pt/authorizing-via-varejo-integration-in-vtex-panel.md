@@ -9,6 +9,7 @@ firstPublishedAt: 2018-09-27T22:14:23.485Z
 contentType: trackArticle
 productTeam: Channels
 slug: autorizar-integracao-da-via-varejo-no-painel-da-vtex
+locale: pt
 trackId: 3E9XylGaJ2wqwISGyw4GuY
 trackSlugPT: configurar-integracao-da-via-varejo
 ---

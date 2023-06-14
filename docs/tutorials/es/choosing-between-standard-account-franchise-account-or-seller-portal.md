@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: elegir-entre-cuenta-estandar-cuenta-franquicia-o-seller-portal
+locale: es
 legacySlug: elegir-entre-cuenta-estandar-cuenta-franquicia-o-seller-portal
 subcategory: 5tlIjp0ZkAU4EIk4OgyEmm
 ---

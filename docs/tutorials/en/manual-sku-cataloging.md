@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: manual-sku-cataloging
+locale: en
 legacySlug: approving-suggestions-for-skus
 subcategory: 4hU8QWlzhxWg711Kz7Gmib
 ---

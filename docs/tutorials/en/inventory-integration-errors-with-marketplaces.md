@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: inventory-integration-errors-with-marketplaces
+locale: en
 legacySlug: inventory-integration-errors-with-marketplaces
 subcategory: 7lxg0kyL3TYIsrlSQlf1zP
 ---

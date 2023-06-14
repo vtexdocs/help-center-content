@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: legacy-cms-does-not-create-folders-with-less-than-3-characters-in-the-name
+locale: en
 kiStatus: Backlog
 internalReference: 825530
 ---

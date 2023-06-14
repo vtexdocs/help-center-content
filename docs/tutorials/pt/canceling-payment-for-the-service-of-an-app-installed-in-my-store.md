@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_59
 slug: cancelar-o-pagamento-pelo-servico-de-uma-app-instalada-na-minha-loja
+locale: pt
 legacySlug: cancelar-o-pagamento-pelo-servico-de-uma-app-instalada-na-minha-loja
 subcategory: 3e2VLdLao8GGk4sAmMmwmi
 ---

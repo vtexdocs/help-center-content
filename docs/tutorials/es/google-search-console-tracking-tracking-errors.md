@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: rastreo-google-search-console-errores-de-rastreo
+locale: es
 legacySlug: rastreo-google-search-console-errores-de-rastreo
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---

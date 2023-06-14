@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: listar-workspaces-de-la-cuenta
+locale: es
 legacySlug: listar-los-workspaces-de-la-cuenta
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

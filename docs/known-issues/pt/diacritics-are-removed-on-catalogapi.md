@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: os-diacriticos-sao-removidos-no-catalogapi
+locale: pt
 kiStatus: Backlog
 internalReference: 623345
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_84
 slug: using-orders-managment-filters-in-api
+locale: en
 legacySlug: using-oms-filters-in-api
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

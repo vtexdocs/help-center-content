@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Others
 author: authors_24
 slug: the-new-admin-is-already-being-deployed-to-all-stores
+locale: en
 legacySlug: the-new-admin-is-already-being-deployed-to-all-stores
 announcementImageID: ''
 announcementSynopsisEN: 'By May 7, all VTEX stores will be running the new Admin by default.'

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: api-de-filtro-facets-del-catalogo-con-comportamiento-inesperado-cuando-hay-campos-de-especificacion-diferentes-con-el-mismo-nombre
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

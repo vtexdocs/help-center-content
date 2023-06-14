@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: o-processo-de-risk-assessment
+locale: pt
 legacySlug: o-processo-de-risk-assessment
 subcategory: vONCJSxwN5qZiElOEtKkH
 ---

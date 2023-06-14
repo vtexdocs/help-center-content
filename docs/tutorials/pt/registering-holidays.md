@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_59
 slug: cadastrar-feriados
+locale: pt
 legacySlug: cadastrar-feriados
 subcategory: 6F0Qup9onmEM2wsEsEsUQa
 ---

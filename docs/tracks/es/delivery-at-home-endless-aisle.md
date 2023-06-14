@@ -9,6 +9,7 @@ firstPublishedAt: 2018-06-22T14:36:44.545Z
 contentType: trackArticle
 productTeam: Shopping
 slug: entrega-en-casa-estante-infinito
+locale: es
 trackId: t3DOYAJjWgqAMeAKq2MWS
 trackSlugES: instore-setup
 ---

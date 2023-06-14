@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_59
 slug: seller-white-label
+locale: pt
 legacySlug: o-que-e-whitelabel
 subcategory: 3vhg10rO4MSmy06KeIYMIa
 ---

@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: productos-sin-stock-aparecen-disponibles-para-compra-en-la-pagina-de-producto
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

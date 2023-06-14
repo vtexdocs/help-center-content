@@ -9,6 +9,7 @@ firstPublishedAt:
 contentType: trackArticle
 productTeam: 
 slug: gestao-de-recebiveis
+locale: pt
 trackId: 
 trackSlugPT: 
 ---

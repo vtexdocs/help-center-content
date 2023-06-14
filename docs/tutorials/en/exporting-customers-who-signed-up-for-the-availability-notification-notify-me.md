@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: exporting-customers-who-signed-up-for-the-availability-notification-notify-me
+locale: en
 legacySlug: exporting-clients-registered-in-the-availability-notification
 subcategory: 5yDQmr18K4GgQAeGwq8USa
 ---

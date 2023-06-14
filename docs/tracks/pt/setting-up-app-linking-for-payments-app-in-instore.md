@@ -9,13 +9,14 @@ firstPublishedAt: 2018-03-15T20:36:28.499Z
 contentType: trackArticle
 productTeam: 
 slug: configurar-o-app-linking-para-app-de-pagamentos-no-instore
+locale: pt
 trackId: 
 trackSlugPT: 
 ---
 
 Este artigo tem como objetivo explicar como a app do inStore configura o AppLinking para as ações de `payment` e `payment-reversal` com as apps dos adquirentes.
 
-![Payment app](//images.ctfassets.net/alneenqid6w5/SZ7d3IeuCAagwCqSW4eCO/27d469e37d9d1d8fb3ce22850012e685/Payment_app.png)
+![Payment app](https://images.ctfassets.net/alneenqid6w5/SZ7d3IeuCAagwCqSW4eCO/27d469e37d9d1d8fb3ce22850012e685/Payment_app.png)
 
 ## Campos de configuração
 

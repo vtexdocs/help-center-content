@@ -11,6 +11,7 @@ productTeam: B2B
 author: 2mXZkbi0oi061KicTExNjo
 tag: B2B
 slug: la-comparacion-de-productos-no-permite-cambiar-las-casillas-si-se-mantiene-el-cajon-abierto
+locale: es
 kiStatus: Backlog
 internalReference: 568409
 ---

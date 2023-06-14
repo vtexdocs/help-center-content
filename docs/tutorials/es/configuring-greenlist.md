@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: authors_84
 slug: configurar-la-greenlist
+locale: es
 legacySlug: configurar-la-greenlist
 subcategory: 6dLwF22Zwcy4iec2QSMeyG
 ---

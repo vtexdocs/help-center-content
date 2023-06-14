@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: notas-nao-mostradas-nos-detalhes-do-pedido-ui-ao-exceder-o-limite
+locale: pt
 kiStatus: Backlog
 internalReference: 514992
 ---

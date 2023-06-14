@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: estrutura-de-pastas-do-cms
+locale: pt
 legacySlug: estrutura-de-pastas-do-cms
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

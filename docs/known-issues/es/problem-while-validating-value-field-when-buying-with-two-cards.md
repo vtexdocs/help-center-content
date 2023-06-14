@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: problema-al-validar-el-campo-de-valor-al-comprar-con-dos-tarjetas
+locale: es
 kiStatus: Backlog
 internalReference: 460683
 ---

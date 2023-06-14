@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: outdated-mastercard-debit-regex-is-causing-us-to-misidentify-some-bins
+locale: en
 kiStatus: Backlog
 internalReference: 642136
 ---

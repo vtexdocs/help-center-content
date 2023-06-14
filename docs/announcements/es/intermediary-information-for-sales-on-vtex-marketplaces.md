@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: datos-de-intermediario-para-ventas-en-marketplaces-vtex
+locale: es
 legacySlug: datos-de-intermediario-para-ventas-en-marketplaces-vtex
 announcementImageID: ''
 announcementSynopsisES: 'Los datos del intermediario están disponibles para ventas realizadas en los marketplaces VTEX.'

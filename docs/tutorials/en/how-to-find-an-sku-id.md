@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_59
 slug: how-to-find-an-sku-id
+locale: en
 legacySlug: how-to-find-an-sku-id
 subcategory: pwxWmUu7T222QyuGogs68
 ---

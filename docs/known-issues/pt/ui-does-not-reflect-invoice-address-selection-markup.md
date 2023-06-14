@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: ui-nao-reflete-a-marcacao-de-selecao-de-endereco-de-fatura
+locale: pt
 kiStatus: Backlog
 internalReference: 522946
 ---

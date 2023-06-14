@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: seguranca-do-smartcheckout
+locale: pt
 legacySlug: seguranca-do-smartcheckout
 subcategory: 2TNXiKzLZOPxjMTyGiEeJu
 ---

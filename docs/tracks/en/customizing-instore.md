@@ -9,6 +9,7 @@ firstPublishedAt: 2021-09-16T01:00:39.153Z
 contentType: trackArticle
 productTeam: Shopping
 slug: customizing-instore
+locale: en
 trackId: zav76TFEZlAjnyBVL5tRc
 trackSlugEN: instore-getting-started-and-setting-up
 ---

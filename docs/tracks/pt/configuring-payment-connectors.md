@@ -9,6 +9,7 @@ firstPublishedAt: 2019-11-24T21:05:50.533Z
 contentType: trackArticle
 productTeam: Financial
 slug: configurar-um-conector-de-pagamentos
+locale: pt
 trackId: 6GAS7ZzGAm7AGoEAwDbwJG
 trackSlugPT: pagamentos
 ---

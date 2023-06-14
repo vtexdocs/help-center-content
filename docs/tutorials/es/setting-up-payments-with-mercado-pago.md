@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: configurar-pagos-con-mercado-pago
+locale: es
 legacySlug: configurar-pagos-con-mercado-pago
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

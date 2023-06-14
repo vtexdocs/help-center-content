@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: tempo-limite-de-importacao-de-colecoes-legadas
+locale: pt
 kiStatus: Backlog
 internalReference: 483785
 ---

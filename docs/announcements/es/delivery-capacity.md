@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: capacidad-de-entrega
+locale: es
 legacySlug: capacidad-de-entrega
 announcementImageID: ''
 announcementSynopsisES: '  Gestione y limite el número de ítems o pedidos en sus ventanas de entrega programadas.'

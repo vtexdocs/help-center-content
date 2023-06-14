@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: categorias-globales-del-catalogo-obsoletas-en-comparacion-con-google
+locale: es
 kiStatus: Backlog
 internalReference: 754062
 ---

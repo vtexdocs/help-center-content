@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: los-rastreadores-no-leen-las-migas-de-pan-debido-al-tiempo-de-espera-del-ssr
+locale: es
 kiStatus: Backlog
 internalReference: 460999
 ---

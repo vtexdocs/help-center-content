@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: configurar-modal
+locale: es
 legacySlug: configurar-modal
 subcategory: 1UL6Q7nUN6SkA2g2SUsECi
 ---

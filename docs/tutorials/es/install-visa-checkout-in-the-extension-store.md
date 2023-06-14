@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_24
 slug: instalar-el-visa-checkout-en-la-extension-store
+locale: es
 legacySlug: instalar-el-visa-checkout-en-la-extension-store
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

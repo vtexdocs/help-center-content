@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: setting-up-paypal-plus
+locale: en
 legacySlug: setting-up-paypal-plus
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

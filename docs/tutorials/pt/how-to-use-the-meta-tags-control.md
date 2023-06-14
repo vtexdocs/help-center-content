@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: como-usar-o-controle-de-meta-tags
+locale: pt
 legacySlug: como-usar-o-controle-de-meta-tags
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

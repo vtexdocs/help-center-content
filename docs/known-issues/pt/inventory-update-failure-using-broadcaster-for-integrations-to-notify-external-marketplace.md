@@ -11,6 +11,7 @@ productTeam: Logistics
 author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: falha-na-atualizacao-do-inventario-usando-broadcaster-for-integrations-para-notificar-o-mercado-externo
+locale: pt
 kiStatus: Fixed
 internalReference: 549645
 ---

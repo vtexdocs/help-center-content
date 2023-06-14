@@ -11,6 +11,7 @@ productTeam: Financial
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-pago-con-dos-tarjetas-no-funciona-con-3ds2
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

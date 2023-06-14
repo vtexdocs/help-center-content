@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: vtex-pick-and-pack-last-mile
+locale: en
 legacySlug: vtex-pick-and-pack-last-mile
 subcategory: 7Kllu6CmeLNV3tYXlCFvOt
 ---

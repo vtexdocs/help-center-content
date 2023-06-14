@@ -11,6 +11,7 @@ productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: problema-del-tipo-de-contrato-de-entrega-b2w
+locale: es
 kiStatus: Backlog
 internalReference: 605908
 ---

@@ -11,6 +11,7 @@ productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: fixed-price-being-created-on-trade-policy-1-when-saving-bundle-prices
+locale: en
 kiStatus: Backlog
 internalReference: 705869
 ---

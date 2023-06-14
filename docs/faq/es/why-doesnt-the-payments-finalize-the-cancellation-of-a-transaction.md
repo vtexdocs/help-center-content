@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_59
 slug: por-que-el-pagos-no-finaliza-la-cancelacion-de-la-transaccion
+locale: es
 legacySlug: por-que-el-pci-gateway-no-finaliza-la-cancelacion-de-la-transaccion
 ---
 

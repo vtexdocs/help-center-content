@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: ew-ui-nao-sugere-o-item-correto-a-ser-devolvido-quando-o-pedido-tem-uma-mudanca
+locale: pt
 kiStatus: Backlog
 internalReference: 735854
 ---

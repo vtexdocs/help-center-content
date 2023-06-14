@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-interfaz-de-usuario-no-refleja-la-marca-de-seleccion-de-la-direccion-de-la-factura
+locale: es
 kiStatus: Backlog
 internalReference: 522946
 ---

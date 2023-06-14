@@ -11,6 +11,7 @@ productTeam: Shopping
 author: authors_4
 tag: Checkout
 slug: calculadora-de-flete-inconsistente-en-el-carrito
+locale: es
 kiStatus: Closed
 internalReference: 
 ---

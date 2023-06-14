@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: skus-enviados-por-vendedores-sao-criados-com-imagens-fora-de-ordem
+locale: pt
 kiStatus: Fixed
 internalReference: 648349
 ---

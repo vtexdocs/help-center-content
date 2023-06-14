@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: configurar-o-horario-de-corte-da-transportadora
+locale: pt
 legacySlug: configurar-o-horario-de-corte-da-transportadora
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---

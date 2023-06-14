@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Channels
 author: 245tA425AIeioKAk2eaiwS
 slug: boost-your-marketplace-sales
+locale: en
 legacySlug: boost-your-marketplace-sales
 announcementImageID: ''
 announcementSynopsisEN: 'The new feature makes it easier to identify orders with price difference and allows your store to recover sales.'

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: buenas-practicas-claves-de-aplicacion
+locale: es
 legacySlug: buenas-practicas-para-el-uso-de-claves-de-aplicacion
 subcategory: 6uJgdHqWf1Mo0rUfgxseTn
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: catalog-overview-2
+locale: en
 legacySlug: catalog-overview-2
 subcategory: 6jaCCq5pVL7VxL0WNWV0cF
 ---
@@ -23,7 +24,7 @@ The **Catalog** menu contains the features related to the product assortment of 
 
 The **Catalog** menu in your redesigned Admin brings together the pages where you manage your ecommerce catalog, pricing, and inventory.
 
-![visao-geral-produto-EN](//images.ctfassets.net/alneenqid6w5/6hg7IQ4sv6sphRtywSsDMQ/be0aec115746ca9494e44e3f120983ed/image.png)
+![visao-geral-produto-EN](https://images.ctfassets.net/alneenqid6w5/6hg7IQ4sv6sphRtywSsDMQ/be0aec115746ca9494e44e3f120983ed/image.png)
 
 Check out the menu’s different sections and pages below.
 

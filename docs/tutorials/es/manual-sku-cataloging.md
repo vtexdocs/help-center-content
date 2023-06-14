@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_3
 slug: catalogacion-manual-de-skus
+locale: es
 legacySlug: aprobacion-de-sugerencias-de-skus
 subcategory: 4hU8QWlzhxWg711Kz7Gmib
 ---

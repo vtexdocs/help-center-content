@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: VTEX IO
 author: authors_24
 slug: what-is-an-account-for-vtex-io
+locale: en
 legacySlug: what-is-an-account-for-vtex-io
 ---
 

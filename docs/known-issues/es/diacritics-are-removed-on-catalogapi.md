@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: los-diacriticos-se-eliminan-en-catalogapi
+locale: es
 kiStatus: Backlog
 internalReference: 623345
 ---

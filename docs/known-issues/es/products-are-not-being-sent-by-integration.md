@@ -11,6 +11,7 @@ productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 tag: Connections
 slug: productos-no-se-envian-por-la-integracion
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

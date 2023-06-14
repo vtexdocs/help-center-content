@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: hub-giftcard-definindo-r-como-a-moeda-automatica-na-iu
+locale: pt
 kiStatus: Backlog
 internalReference: 690794
 ---

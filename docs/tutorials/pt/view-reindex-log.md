@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: como-ver-o-log-de-reindexacoes-do-catalogo
+locale: pt
 legacySlug: como-ver-o-log-de-reindexacoes-do-catalogo
 subcategory: pwxWmUu7T222QyuGogs68
 ---

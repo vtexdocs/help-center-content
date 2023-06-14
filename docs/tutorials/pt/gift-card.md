@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: gift-card
+locale: pt
 legacySlug: gift-card
 subcategory: 3qWeS7abxCyC0G0GMq42gA
 ---

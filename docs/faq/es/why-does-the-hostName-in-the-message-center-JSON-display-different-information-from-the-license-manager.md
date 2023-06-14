@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_3
 slug: por-que-el-hostname-en-el-json-del-message-center-muestra-informacion-distinta-a-la-del-license-manager
+locale: es
 legacySlug: por-que-el-hostname-en-el-json-del-message-center-muestra-informacion-distinta-a-la-del-license-manager
 ---
 

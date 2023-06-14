@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: authors_41
 slug: nueva-integracion-nativa-con-google-shopping-por-api
+locale: es
 legacySlug: nueva-integracion-nativa-con-google-shopping-por-api
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: en-el-administrador-de-limpieza-completa-el-boton-reindexar-base-de-datos-puede-no-funcionar-en-el-primer-intento
+locale: es
 kiStatus: Backlog
 internalReference: 790828
 ---

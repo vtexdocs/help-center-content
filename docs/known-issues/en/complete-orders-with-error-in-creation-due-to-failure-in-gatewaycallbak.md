@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: complete-orders-with-error-in-creation-due-to-failure-in-gatewaycallbak
+locale: en
 kiStatus: Backlog
 internalReference: 416936
 ---

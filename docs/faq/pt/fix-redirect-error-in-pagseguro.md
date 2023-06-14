@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Financial
 author: authors_59
 slug: corrigir-erro-de-redirecionamento-no-pagseguro
+locale: pt
 legacySlug: corrigir-erro-de-redirecionamento-no-pagseguro
 ---
 

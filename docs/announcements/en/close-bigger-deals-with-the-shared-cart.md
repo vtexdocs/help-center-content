@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Shopping
 author: 245tA425AIeioKAk2eaiwS
 slug: close-bigger-deals-with-the-shared-cart
+locale: en
 legacySlug: close-bigger-deals-with-the-shared-cart
 announcementImageID: ''
 announcementSynopsisEN: 'The shared cart is already available to all stores, allowing interactions of more than one customer.'

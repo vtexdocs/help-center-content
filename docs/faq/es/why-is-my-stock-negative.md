@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_84
 slug: por-que-mi-inventario-esta-negativo
+locale: es
 legacySlug: por-que-mi-inventario-esta-negativo
 ---
 

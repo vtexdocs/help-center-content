@@ -11,6 +11,7 @@ productTeam: Admin
 author: 2mXZkbi0oi061KicTExNjo
 tag: Admin
 slug: exportar-o-csv-no-modulo-de-desempenho-de-vendas
+locale: pt
 kiStatus: Backlog
 internalReference: 823878
 ---

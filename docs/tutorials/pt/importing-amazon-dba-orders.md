@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slug: importacao-de-pedidos-amazon-dba
+locale: pt
 legacySlug: importacao-de-pedidos-amazon-dba
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---

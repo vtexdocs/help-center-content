@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal (CMS)
 slug: repeated-utm-updates-are-not-saved-in-the-cookie
+locale: en
 kiStatus: Backlog
 internalReference: 
 ---

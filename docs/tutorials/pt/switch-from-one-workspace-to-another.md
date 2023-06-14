@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: mudar-para-outro-workspace
+locale: pt
 legacySlug: mudar-para-outro-workspace
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

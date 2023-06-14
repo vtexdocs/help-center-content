@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: authors_35
 slug: como-criar-o-arquivo-de-personalizacao-de-scripts-para-o-vtex-instore
+locale: pt
 legacySlug: como-criar-o-arquivo-de-personalizacao-de-scripts-para-o-vtex-instore
 subcategory: 4T6qfa6gNO6g4sAUIa6s2G
 ---

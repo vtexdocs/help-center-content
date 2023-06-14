@@ -11,6 +11,7 @@ productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-busqueda-por-marca-con-apostrofe-no-devuelve-datos-en-el-admin
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

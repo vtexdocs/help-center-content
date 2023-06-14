@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Identity
 author: authors_4
 slug: como-crear-usuario-webservice
+locale: es
 legacySlug: como-crear-usuario-webservice
 subcategory: 63DHe3VQEEE6Uuua8gIs2M
 ---

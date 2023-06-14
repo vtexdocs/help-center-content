@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 
 slug: publicar-a-app-no-registro-da-conta-atual
+locale: pt
 legacySlug: publicar-a-app-no-registro-da-conta-atual
 subcategory: 
 ---

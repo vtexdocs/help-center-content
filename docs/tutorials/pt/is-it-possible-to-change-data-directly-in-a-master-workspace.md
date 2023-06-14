@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: authors_24
 slug: e-possivel-alterar-dados-direto-em-um-workspace-master
+locale: pt
 legacySlug: e-possivel-alterar-dados-direto-em-um-workspace-master
 subcategory: Z46a6rHVAaAucoiW0skQQ
 ---

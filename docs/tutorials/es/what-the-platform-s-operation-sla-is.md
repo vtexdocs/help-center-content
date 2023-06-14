@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Reliability
 author: 7FpKZ0rc6k4WqeymES80cw
 slug: que-es-el-sla-de-operacion-de-la-plataforma
+locale: es
 legacySlug: que-es-el-sla-de-operacion-de-la-plataforma
 subcategory: 5PYkoNDZyo2G80yiiqG2YW
 ---

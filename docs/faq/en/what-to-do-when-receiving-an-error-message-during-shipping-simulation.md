@@ -10,6 +10,7 @@ contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
 author: authors_35
 slug: what-to-do-when-receiving-an-error-message-during-shipping-simulation
+locale: en
 legacySlug: what-to-do-when-receiving-an-error-message-during-shipping-simulation
 ---
 

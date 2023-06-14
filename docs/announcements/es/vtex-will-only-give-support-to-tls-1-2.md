@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Reliability
 author: authors_24
 slug: vtex-solo-admitira-tls-1-2
+locale: es
 legacySlug: vtex-solo-admitira-tls-1-2
 announcementImageID: ''
 announcementSynopsisES: 'A partir del 30 de junio, las versiones anteriores de TLS y todas las versiones de SSL se descontinuarán.'

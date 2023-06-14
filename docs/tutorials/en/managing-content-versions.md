@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: managing-content-versions
+locale: en
 legacySlug: managing-content-versions
 subcategory: 9Arh3cJIOYlfSD1MUC2h3
 ---

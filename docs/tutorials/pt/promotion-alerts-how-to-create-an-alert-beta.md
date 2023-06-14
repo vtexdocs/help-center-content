@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: alerta-de-promocoes-como-criar-um-alerta-beta
+locale: pt
 legacySlug: alerta-de-promocoes-como-criar-um-alerta-beta
 subcategory: 6iTRZiMeCGXYiO2ckABFZi
 ---

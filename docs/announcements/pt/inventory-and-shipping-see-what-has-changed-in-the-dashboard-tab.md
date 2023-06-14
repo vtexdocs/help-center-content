@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis
+locale: pt
 legacySlug: estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis
 announcementImageID: ''
 announcementSynopsisPT: 'Melhoramos a usabilidade do módulo "Paineis" e mudamos o nome da aba para "Estratégia de envio"'

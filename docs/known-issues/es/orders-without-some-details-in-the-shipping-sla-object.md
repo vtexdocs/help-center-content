@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: pedidos-sin-algunos-detalles-en-el-objeto-sla-de-envio
+locale: es
 kiStatus: Backlog
 internalReference: 575219
 ---

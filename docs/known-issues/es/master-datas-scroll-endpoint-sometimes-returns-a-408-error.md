@@ -11,6 +11,7 @@ productTeam: Master Data
 author: 2mXZkbi0oi061KicTExNjo
 tag: Master Data
 slug: el-endpoint-de-la-api-de-scroll-eventualmente-devuelve-el-error-408
+locale: es
 kiStatus: Backlog
 internalReference: 
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: vista-general-dashboards
+locale: es
 legacySlug: vista-general-dashboards
 subcategory: 1TIJqw8kV2Yok4iQe4SAkq
 ---

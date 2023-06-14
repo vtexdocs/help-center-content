@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Shopping
 author: 245tA425AIeioKAk2eaiwS
 slug: que-es-el-checkout-transparente
+locale: es
 legacySlug: que-es-el-checkout-transparente
 subcategory: 8AGXmtpbTqUE2KQu0Swwk
 ---

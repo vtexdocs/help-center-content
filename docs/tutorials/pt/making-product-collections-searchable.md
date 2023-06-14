@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_24
 slug: tornar-colecao-de-produtos-encontravel-pela-busca
+locale: pt
 legacySlug: tornar-colecao-de-produtos-encontravel-pela-busca
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---

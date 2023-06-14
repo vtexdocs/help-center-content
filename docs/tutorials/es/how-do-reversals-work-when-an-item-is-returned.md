@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_84
 slug: como-se-da-el-funciona-extorno-cuando-hay-devolucion-del-item
+locale: es
 legacySlug: como-se-da-el-funciona-extorno-cuando-hay-devolucion-del-item
 subcategory: 3Gdgj9qfu8mO0c0S4Ukmsu
 ---

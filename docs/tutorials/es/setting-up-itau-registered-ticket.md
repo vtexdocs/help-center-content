@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Financial
 author: authors_59
 slug: configurar-boleto-registrado-itau
+locale: es
 legacySlug: configurar-boleto-registrado-itau
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---

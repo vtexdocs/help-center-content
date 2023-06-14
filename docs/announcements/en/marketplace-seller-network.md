@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Apps
 author: vztwQkZv4z6EwDVwdqbsw
 slug: marketplace-seller-network
+locale: en
 legacySlug: marketplace-seller-network
 announcementImageID: ''
 announcementSynopsisEN: 'Expand your sales channels and connect with leading marketplaces and sellers through the Marketplace Seller Network.'

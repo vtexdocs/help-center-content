@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: comprendiendo-la-regla-de-alteracion-del-precio
+locale: es
 legacySlug: comprendiendo-la-regla-de-alteracion-del-precio
 subcategory: 3O1NvPgBPqE0qU88MSQaie
 ---
@@ -25,6 +26,6 @@ Este bloqueo se realiza también para todas las demás formas de alteración del
 
 El porcentaje de limite de precio puede ser retirado o reformulado en la pestaña __Configuración__ del módulo __Precios__. 
 
-![trava-variação-preço es](//images.ctfassets.net/alneenqid6w5/7Gl4ECosVim4Si8GweU00e/6344add1a28b426b43f8af0219473fb0/trava-varia____o-pre__o_es.png)
+![trava-variação-preço es](https://images.ctfassets.net/alneenqid6w5/7Gl4ECosVim4Si8GweU00e/6344add1a28b426b43f8af0219473fb0/trava-varia____o-pre__o_es.png)
 
 Algunos marketplaces también utilizan este límite de variación de precios. Si desea cambiar los precios más allá de los límites configurados, basta ponerse en contacto con el marketplace solicitando el cambio.

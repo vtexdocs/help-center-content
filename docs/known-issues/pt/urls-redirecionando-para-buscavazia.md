@@ -11,6 +11,7 @@ productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: urls-redirecionando-para-buscavazia
+locale: pt
 kiStatus: Fixed
 internalReference: 322251
 ---

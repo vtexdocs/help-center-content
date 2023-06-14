@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: simulador-de-envio
+locale: pt
 legacySlug: simulacao-de-frete
 subcategory: 1O8AEORWOcgIiMosGoousQ
 ---

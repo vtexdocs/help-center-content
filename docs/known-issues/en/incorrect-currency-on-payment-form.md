@@ -11,6 +11,7 @@ productTeam: Payments
 author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: incorrect-currency-on-payment-form
+locale: en
 kiStatus: Backlog
 internalReference: 449286
 ---

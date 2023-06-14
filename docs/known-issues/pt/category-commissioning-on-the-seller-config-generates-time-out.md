@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: o-comissionamento-da-categoria-na-configuracao-do-seller-gera-um-time-out
+locale: pt
 kiStatus: Fixed
 internalReference: 310527
 ---

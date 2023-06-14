@@ -9,6 +9,7 @@ contentType: updates
 productTeam: Post-purchase
 author: 6AcGyun1hSWewU8YcaQiO
 slug: access-invoice-information-faster-with-the-new-order-report-column
+locale: en
 legacySlug: access-invoice-information-faster-with-the-new-order-report-column
 announcementImageID: ''
 announcementSynopsisEN: 'The exported orders report now shows you invoice data in the new Invoice Number column'

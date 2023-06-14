@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: errores-de-integracion-de-pedidos-de-amazon
+locale: es
 legacySlug: errores-de-integracion-de-pedidos-de-amazon
 subcategory: 5m1qqfnmfYKsO0KiOQC8Ky
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: boas-praticas-chaves-de-aplicacao
+locale: pt
 legacySlug: boas-praticas-na-utilizacao-de-chaves-de-aplicacao
 subcategory: 6uJgdHqWf1Mo0rUfgxseTn
 ---

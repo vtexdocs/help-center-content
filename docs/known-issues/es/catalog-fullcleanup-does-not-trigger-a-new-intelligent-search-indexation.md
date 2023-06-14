@@ -11,6 +11,7 @@ productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-limpieza-completa-del-catalogo-no-desencadena-una-nueva-indexacion-de-la-busqueda-inteligente
+locale: es
 kiStatus: Fixed
 internalReference: 449763
 ---

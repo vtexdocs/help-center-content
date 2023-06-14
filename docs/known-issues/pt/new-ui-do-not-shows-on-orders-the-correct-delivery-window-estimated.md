@@ -11,6 +11,7 @@ productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: nova-ui-nao-mostra-nos-pedidos-a-janela-de-entrega-correta-estimada
+locale: pt
 kiStatus: Backlog
 internalReference: 620668
 ---

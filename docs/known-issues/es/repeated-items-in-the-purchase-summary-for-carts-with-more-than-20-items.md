@@ -11,6 +11,7 @@ productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: articulos-repetidos-en-el-resumen-de-compras-para-carros-con-mas-de-20-articulos
+locale: es
 kiStatus: Backlog
 internalReference: 367339
 ---

@@ -10,6 +10,7 @@ contentType: tutorial
 productTeam: Post-purchase
 author: authors_59
 slug: como-saber-si-un-pedido-fue-realizado-con-exito
+locale: es
 legacySlug: como-saber-si-un-pedido-fue-realizado-con-exito
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---

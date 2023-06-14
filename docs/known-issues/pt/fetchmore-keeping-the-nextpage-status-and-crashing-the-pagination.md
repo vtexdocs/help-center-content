@@ -11,6 +11,7 @@ productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: buscar-mais-mantendo-o-status-da-proxima-pagina-e-bloqueando-a-paginacao
+locale: pt
 kiStatus: Backlog
 internalReference: 560014
 ---

@@ -11,6 +11,7 @@ productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: segment-cookie-updated-only-after-refreshing-the-page
+locale: en
 kiStatus: Backlog
 internalReference: 647116
 ---
