@@ -1,5 +1,5 @@
 ---
-title: Carrito abandonado: configure rápido y fácilmente
+title: "Carrito abandonado: configure rápido y fácilmente"
 id: 6NCx5m1ZwMpKcUfWBL0P2H
 status: PUBLISHED
 createdAt: 2021-03-22T14:29:24.300Z

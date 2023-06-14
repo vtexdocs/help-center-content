@@ -1,5 +1,5 @@
 ---
-title: Abandoned Cart app: configure it quickly and easily
+title: "Abandoned Cart app: configure it quickly and easily"
 id: 6NCx5m1ZwMpKcUfWBL0P2H
 status: PUBLISHED
 createdAt: 2021-03-22T14:29:24.300Z
