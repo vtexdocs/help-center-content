@@ -1,5 +1,5 @@
 ---
-title: Configurações de conta na Amazon 
+title: 'Configurações de conta na Amazon '
 id: 43L0dpbjLBz6tcim1BbTzf
 status: PUBLISHED
 createdAt: 2019-02-28T23:01:18.628Z

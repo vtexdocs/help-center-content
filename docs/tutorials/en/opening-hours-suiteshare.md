@@ -1,5 +1,5 @@
 ---
-title: Opening hours - Suiteshare
+title: 'Opening hours - Suiteshare'
 id: 4T1kEGSCdiIorFkcMj6F8e
 status: PUBLISHED
 createdAt: 2022-08-31T13:06:15.793Z

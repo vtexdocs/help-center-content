@@ -1,5 +1,5 @@
 ---
-title: Carácter especial en el nombre del vendedor Informe
+title: 'Carácter especial en el nombre del vendedor Informe'
 id: 13FMy6rGbNacrS7MUYTT48
 status: PUBLISHED
 createdAt: 2023-02-17T13:18:20.237Z

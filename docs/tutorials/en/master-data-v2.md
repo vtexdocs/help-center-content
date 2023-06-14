@@ -1,5 +1,5 @@
 ---
-title: Master Data v2
+title: 'Master Data v2'
 id: 3JJ1mlzuo88w22gO0gy0QS
 status: DRAFT
 createdAt: 2017-12-04T18:26:49.848Z

@@ -1,5 +1,5 @@
 ---
-title: Los productos sin SKU no aparecen en la administración cuando se busca por ID de producto.
+title: 'Los productos sin SKU no aparecen en la administración cuando se busca por ID de producto.'
 id: 3wKlmxitHk1fPfwwEAt6PG
 status: PUBLISHED
 createdAt: 2023-04-12T19:03:45.264Z

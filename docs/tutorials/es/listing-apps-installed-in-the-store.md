@@ -1,5 +1,5 @@
 ---
-title: Listar apps instaladas en la tienda
+title: 'Listar apps instaladas en la tienda'
 id: 3dzHwOeEt2EUmwAekKkSUa
 status: DRAFT
 createdAt: 2018-02-21T22:50:01.877Z

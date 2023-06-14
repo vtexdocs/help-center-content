@@ -1,5 +1,5 @@
 ---
-title: "New Sales Performance dashboard"
+title: 'New Sales Performance dashboard'
 id: 5H7Vp6BHhiOmBU8XVj7nvV
 status: PUBLISHED
 createdAt: 2021-10-19T12:36:56.184Z
@@ -10,15 +10,15 @@ productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: new-sales-performance-dashboard
 legacySlug: new-sales-performance-dashboard
-announcementImageID: ""
-announcementSynopsisEN: Analyze data from your sales channels and extract business intelligence with the new Sales Performance dashboard.
+announcementImageID: ''
+announcementSynopsisEN: 'Analyze data from your sales channels and extract business intelligence with the new Sales Performance dashboard.'
 ---
 
 With an ever-increasing volume of data available for ecommerce operations to evaluate the results of their sales channels, it becomes essential to provide relevant information so that decisions can be made with greater assertiveness. This is why we created the new [Sales Performance](https://help.vtex.com/en/tutorial/sales-performance--3DMube0sEsK9vPcRYGas72) dashboard, a flexible, complete dashboard designed for unified commerce.
 
 The dashboard allows users to analyze data from all sales channels of the store and its sellers, including metrics on revenue, orders, average ticket, and more. It also includes charts and tables so you can compare results from different periods, and introduces eleven filter options to provide unified insights into your entire operation.
 
-![Sales Perf Dash EN](https://images.ctfassets.net/alneenqid6w5/1nTkH8KfhrLPOBuxFhcZvC/2e794d37d8b2afe1d2d2b89d805ae736/Sales_Perf_Dash_EN.gif)
+![Sales Perf Dash EN](//images.ctfassets.net/alneenqid6w5/1nTkH8KfhrLPOBuxFhcZvC/2e794d37d8b2afe1d2d2b89d805ae736/Sales_Perf_Dash_EN.gif)
 
 ## What has changed?
 Previously, your VTEX Admin only had the Insights page to generate business intelligence from your operations data. We have now included the Sales Performance page, where you can have a more detailed view of the results of the different sales channels of your store. The Insights page will remain in your VTEX Admin.

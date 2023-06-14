@@ -1,5 +1,5 @@
 ---
-title: "Transparency and security with the new Audit module"
+title: 'Transparency and security with the new Audit module'
 id: 6pEQQIFfZ1zB5RsheYOlHd
 status: PUBLISHED
 createdAt: 2021-10-21T14:48:01.106Z
@@ -10,14 +10,14 @@ productTeam: Others
 author: 4SqDPmUJIIz2KMMKgiyqKl
 slug: transparency-and-security-with-the-new-audit-module
 legacySlug: transparency-and-security-with-the-new-audit-module
-announcementImageID: ""
-announcementSynopsisEN: Launch of the new auditing tool
+announcementImageID: ''
+announcementSynopsisEN: 'Launch of the new auditing tool'
 ---
 
 
 Ensuring your store is always in compliance with security and transparency best practices, VTEX has launched a new audit feature, **Audit**. 
 
-![Screenshot for Audit UI for announcement](https://images.ctfassets.net/alneenqid6w5/1CwFsrYwjxCIhyqcc6ei86/1cae72785358e9622b3bbf0c481bd998/Audit_EN.png)
+![Screenshot for Audit UI for announcement](//images.ctfassets.net/alneenqid6w5/1CwFsrYwjxCIhyqcc6ei86/1cae72785358e9622b3bbf0c481bd998/Audit_EN.png)
 
 From now on, users with the admin role can check operations performed in their store in a simple and fast way. You can create multiple search filters to make it easier to search for events and increase the speed of auditing processes.
 

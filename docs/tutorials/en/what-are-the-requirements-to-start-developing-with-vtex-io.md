@@ -1,5 +1,5 @@
 ---
-title: What are the requirements to start developing with VTEX IO?
+title: 'What are the requirements to start developing with VTEX IO?'
 id: 20GMD10m1W0yQwwwyuWYG4
 status: DRAFT
 createdAt: 2019-01-24T20:45:41.828Z

@@ -1,5 +1,5 @@
 ---
-title: El autocompletado no responde a los arranques en frío
+title: 'El autocompletado no responde a los arranques en frío'
 id: 2lgYjT8lmFIvLV3vKOXKmt
 status: PUBLISHED
 createdAt: 2022-02-23T22:01:05.141Z

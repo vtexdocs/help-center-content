@@ -1,5 +1,5 @@
 ---
-title: Los artículos no se muestran en el listado de asociación de artículos en la configuración de los planes de suscripción
+title: 'Los artículos no se muestran en el listado de asociación de artículos en la configuración de los planes de suscripción'
 id: 4PHLtCcoaRZBEwgWKamaae
 status: PUBLISHED
 createdAt: 2022-08-30T14:06:28.266Z

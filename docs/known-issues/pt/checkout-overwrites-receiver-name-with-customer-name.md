@@ -1,5 +1,5 @@
 ---
-title: O checkout sobregrava o nome do receptor com o nome do cliente
+title: 'O checkout sobregrava o nome do receptor com o nome do cliente'
 id: 6hw8M6PeUes529M1AdK62i
 status: PUBLISHED
 createdAt: 2022-09-22T01:03:23.512Z

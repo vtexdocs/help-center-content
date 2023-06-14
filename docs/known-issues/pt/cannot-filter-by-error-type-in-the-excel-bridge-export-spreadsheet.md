@@ -1,5 +1,5 @@
 ---
-title: Não pode ser filtrado por tipo de erro no excel export do Integrações
+title: 'Não pode ser filtrado por tipo de erro no excel export do Integrações'
 id: 1gl97y31UE6WqWSkKku2UC
 status: PUBLISHED
 createdAt: 2017-12-15T12:40:09.384Z

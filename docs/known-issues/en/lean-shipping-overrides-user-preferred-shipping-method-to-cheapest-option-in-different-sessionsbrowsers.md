@@ -1,5 +1,5 @@
 ---
-title: Lean Shipping overrides user preferred shipping method to cheapest option in different sessions/browsers
+title: 'Lean Shipping overrides user preferred shipping method to cheapest option in different sessions/browsers'
 id: 2bUIAHTUDuu2K98HWVjVfb
 status: PUBLISHED
 createdAt: 2023-02-01T21:06:22.140Z

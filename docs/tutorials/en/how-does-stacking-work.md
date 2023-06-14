@@ -1,5 +1,5 @@
 ---
-title: How does stacking work?
+title: 'How does stacking work?'
 id: tutorials_124
 status: PUBLISHED
 createdAt: 2017-04-27T22:18:33.952Z

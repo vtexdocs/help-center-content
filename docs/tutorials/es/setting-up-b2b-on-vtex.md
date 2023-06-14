@@ -1,5 +1,5 @@
 ---
-title: Configurar B2B en VTEX
+title: 'Configurar B2B en VTEX'
 id: tutorials_238
 status: PUBLISHED
 createdAt: 2017-04-27T22:13:02.487Z

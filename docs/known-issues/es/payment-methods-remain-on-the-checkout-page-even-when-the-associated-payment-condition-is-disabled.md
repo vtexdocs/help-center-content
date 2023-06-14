@@ -1,5 +1,5 @@
 ---
-title: Los métodos de pago permanecen en la página de pago incluso cuando la condición de pago asociada está desactivada
+title: 'Los métodos de pago permanecen en la página de pago incluso cuando la condición de pago asociada está desactivada'
 id: 4EqNjqWwNVSKqR08q89f7V
 status: PUBLISHED
 createdAt: 2022-08-31T17:22:15.483Z

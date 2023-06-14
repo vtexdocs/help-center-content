@@ -1,5 +1,5 @@
 ---
-title: "Search resolver não exibe mais o número de produtos em estoque da loja"
+title: 'Search resolver não exibe mais o número de produtos em estoque da loja'
 id: 7Ah6ou3RCoNmMeedZaBeJS
 status: PUBLISHED
 createdAt: 2022-02-18T15:51:53.790Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: search-resolver-oculta-quantidade-produto-estoque
 legacySlug: search-resolver-oculta-quantidade-produto-estoque
-announcementImageID: ""
-announcementSynopsisPT: Para melhorar a privacidade de dados, o search-resolver não exibe mais a quantidade de produtos no estoque
+announcementImageID: ''
+announcementSynopsisPT: 'Para melhorar a privacidade de dados, o search-resolver não exibe mais a quantidade de produtos no estoque'
 ---
 
 Atualizamos a API do [`search-resolver@0.x`](https://github.com/vtex-apps/search-resolver), aplicativo necessário para o funcionamento da busca da loja, para ocultar dados sensíveis relacionados ao estoque dos produtos da loja. A partir do dia 20/03/22, a quantidade de produtos disponíveis no estoque não será mais exibida pelo [VTEX Search GraphQL](https://github.com/vtex-apps/search-graphql).

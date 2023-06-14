@@ -1,5 +1,5 @@
 ---
-title: Filtro de precio está considerando precio (cero) de productos indisponibles
+title: 'Filtro de precio está considerando precio (cero) de productos indisponibles'
 id: 10L0KKaGrewOQQWSw6Sms0
 status: PUBLISHED
 createdAt: 2017-04-06T18:12:42.797Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar el adquirente Stone para el inStore
+title: 'Configurar el adquirente Stone para el inStore'
 id: 2Ju86Nj8v0pjv0OwGdS1Xt
 status: DRAFT
 createdAt: 2020-06-28T15:35:03.216Z

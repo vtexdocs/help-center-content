@@ -1,5 +1,5 @@
 ---
-title: Os filtros de especificação SKU não são carregados quando o SKU só está disponível em um vendedor de Whitelabel
+title: 'Os filtros de especificação SKU não são carregados quando o SKU só está disponível em um vendedor de Whitelabel'
 id: 5SpoacD49oxDDGJjepUEoL
 status: PUBLISHED
 createdAt: 2022-03-21T17:41:20.048Z

@@ -1,5 +1,5 @@
 ---
-title: De/para de los medios de pago en el Web Service
+title: 'De/para de los medios de pago en el Web Service'
 id: tutorials_747
 status: DRAFT
 createdAt: 2017-04-27T21:58:49.801Z

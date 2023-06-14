@@ -1,5 +1,5 @@
 ---
-title: Setting up the type of interest rate
+title: 'Setting up the type of interest rate'
 id: 3h9ollbIS9YTXWcsmz8iF8
 status: DRAFT
 createdAt: 2019-02-13T16:48:24.960Z
@@ -24,7 +24,7 @@ The payment method's ID can be configured to have Simple Interest Rates and is o
 - Select the Payment Condition that should be configured to use Simple Interest Rates
 - Copy the last URL parameter, which shows the ID of this Payment Method (see image)
 
-![ENjuros](https://images.ctfassets.net/alneenqid6w5/27ScAtFzUYwYm8y5zGqsEP/ae3915ad736e96121017aba11d87a522/ENjuros.png)
+![ENjuros](//images.ctfassets.net/alneenqid6w5/27ScAtFzUYwYm8y5zGqsEP/ae3915ad736e96121017aba11d87a522/ENjuros.png)
 
 ## Setting up the interest rate type using API
 

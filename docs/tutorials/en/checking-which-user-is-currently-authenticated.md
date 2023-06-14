@@ -1,5 +1,5 @@
 ---
-title: Checking which user is currently authenticated
+title: 'Checking which user is currently authenticated'
 id: 4vLALC0yrsJydfaY56Zshq
 status: DRAFT
 createdAt: 2019-01-23T19:19:30.635Z

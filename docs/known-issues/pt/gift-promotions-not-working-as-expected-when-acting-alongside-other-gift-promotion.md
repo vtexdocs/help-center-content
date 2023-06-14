@@ -1,5 +1,5 @@
 ---
-title: Promoções de presentes que não funcionam como esperado quando atuam em conjunto com outras promoções de presentes
+title: 'Promoções de presentes que não funcionam como esperado quando atuam em conjunto com outras promoções de presentes'
 id: 7p037qcaXYMYKC3kJPztc3
 status: PUBLISHED
 createdAt: 2023-01-09T21:08:49.800Z

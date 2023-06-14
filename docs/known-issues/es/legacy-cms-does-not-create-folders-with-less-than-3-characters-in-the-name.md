@@ -1,5 +1,5 @@
 ---
-title: Legacy CMS no crea carpetas con menos de 3 caracteres en el nombre
+title: 'Legacy CMS no crea carpetas con menos de 3 caracteres en el nombre'
 id: 3kXypobV36NZNQofVAz2zi
 status: PUBLISHED
 createdAt: 2023-05-15T14:33:07.252Z

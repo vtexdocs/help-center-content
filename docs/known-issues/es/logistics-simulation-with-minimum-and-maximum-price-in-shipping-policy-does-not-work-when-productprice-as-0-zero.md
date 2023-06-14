@@ -1,5 +1,5 @@
 ---
-title: La simulación logística con el precio mínimo y máximo en la política de envío no funciona cuando ProductPrice es 0 (CERO)
+title: 'La simulación logística con el precio mínimo y máximo en la política de envío no funciona cuando ProductPrice es 0 (CERO)'
 id: 5gsBLbPMIZjZvkl5QHudVY
 status: PUBLISHED
 createdAt: 2022-03-30T20:10:30.205Z

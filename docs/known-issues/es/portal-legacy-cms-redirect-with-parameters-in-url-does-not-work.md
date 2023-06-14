@@ -1,5 +1,5 @@
 ---
-title: Portal Legacy CMS Redirect con parámetros en la URL no funciona
+title: 'Portal Legacy CMS Redirect con parámetros en la URL no funciona'
 id: 6jcBApKHEZnkLuzoIac03u
 status: PUBLISHED
 createdAt: 2022-03-16T22:06:03.075Z

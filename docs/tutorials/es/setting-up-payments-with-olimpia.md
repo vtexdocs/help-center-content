@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Olimpia
+title: 'Configurar pago con Olimpia'
 id: 1pLcbVXLEg00tImzydfJrD
 status: DRAFT
 createdAt: 2022-03-30T13:08:04.650Z

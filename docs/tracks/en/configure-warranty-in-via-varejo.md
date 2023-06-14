@@ -1,5 +1,5 @@
 ---
-title: Configure warranty in Via Varejo
+title: 'Configure warranty in Via Varejo'
 id: 3FFcVmL5Aod6tkFIz9vJmX
 status: PUBLISHED
 createdAt: 2020-10-01T19:13:10.864Z

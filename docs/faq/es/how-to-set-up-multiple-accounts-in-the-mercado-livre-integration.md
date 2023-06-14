@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo configurar múltiples cuentas en la integración con Mercado Libre
+title: '¿Cómo configurar múltiples cuentas en la integración con Mercado Libre'
 id: aO9gr94WJ26K4SweiIEiA
 status: PUBLISHED
 createdAt: 2018-09-10T20:04:23.610Z

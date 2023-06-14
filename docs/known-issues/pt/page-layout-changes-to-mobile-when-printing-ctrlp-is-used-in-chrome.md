@@ -1,5 +1,5 @@
 ---
-title: O layout da página muda para móvel quando a impressão (ctrl+p) é usada no Cromo
+title: 'O layout da página muda para móvel quando a impressão (ctrl+p) é usada no Cromo'
 id: 1mPBRf1IhLj27liWa040XG
 status: PUBLISHED
 createdAt: 2022-03-21T17:40:17.848Z

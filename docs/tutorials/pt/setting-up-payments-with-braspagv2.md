@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com BraspagV2
+title: 'Configurar pagamento com BraspagV2'
 id: 6gaw7zu9wlItgjfDVndRPn
 status: PUBLISHED
 createdAt: 2022-01-20T19:41:22.154Z

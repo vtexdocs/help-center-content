@@ -1,5 +1,5 @@
 ---
-title: Por que um termo buscado não retorna produtos existentes?
+title: 'Por que um termo buscado não retorna produtos existentes?'
 id: frequentlyAskedQuestions_6363
 status: CHANGED
 createdAt: 2017-04-27T22:22:33.606Z

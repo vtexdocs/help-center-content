@@ -1,5 +1,5 @@
 ---
-title: Nova UI não mostra nos pedidos a janela de entrega correta estimada
+title: 'Nova UI não mostra nos pedidos a janela de entrega correta estimada'
 id: 5YG6dpMbOX3DK1fSWEyAzJ
 status: PUBLISHED
 createdAt: 2023-01-09T13:18:30.970Z

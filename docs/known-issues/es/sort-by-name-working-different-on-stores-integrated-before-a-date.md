@@ -1,5 +1,5 @@
 ---
-title: La ordenación por nombre funciona de forma diferente en las tiendas integradas antes de una fecha
+title: 'La ordenación por nombre funciona de forma diferente en las tiendas integradas antes de una fecha'
 id: 96cQG19ZAmAtVT0ykZ4nF
 status: PUBLISHED
 createdAt: 2022-06-20T12:11:22.846Z

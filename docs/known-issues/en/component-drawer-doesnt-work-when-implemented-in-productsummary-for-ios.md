@@ -1,5 +1,5 @@
 ---
-title: Component drawer doesn't work when implemented in product-summary for iOS
+title: 'Component drawer doesn't work when implemented in product-summary for iOS'
 id: 75145kfQE8swAef57Yr4Aj
 status: PUBLISHED
 createdAt: 2023-05-29T13:22:57.856Z

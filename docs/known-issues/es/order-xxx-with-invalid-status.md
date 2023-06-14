@@ -1,5 +1,5 @@
 ---
-title: Pedido xxx con estado no válido
+title: 'Pedido xxx con estado no válido'
 id: 47wnxyMKwus7haRmDwu8rW
 status: PUBLISHED
 createdAt: 2022-01-31T23:03:38.788Z

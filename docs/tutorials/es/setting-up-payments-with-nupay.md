@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Nubank (NuPay)
+title: 'Configurar pago con Nubank (NuPay)'
 id: 4nVjWfJw7PwraBHCoS45tc
 status: PUBLISHED
 createdAt: 2022-07-19T17:39:57.710Z

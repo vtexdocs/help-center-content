@@ -1,5 +1,5 @@
 ---
-title: No se puede pausar al vendedor
+title: 'No se puede pausar al vendedor'
 id: 4s4VLWa93cnfOhf8faOXjU
 status: PUBLISHED
 createdAt: 2022-10-20T18:31:59.458Z

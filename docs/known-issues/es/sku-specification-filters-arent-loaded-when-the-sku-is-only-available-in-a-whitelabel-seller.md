@@ -1,5 +1,5 @@
 ---
-title: Los filtros de especificación de SKU no se cargan cuando la SKU sólo está disponible en un vendedor de etiqueta blanca
+title: 'Los filtros de especificación de SKU no se cargan cuando la SKU sólo está disponible en un vendedor de etiqueta blanca'
 id: 5SpoacD49oxDDGJjepUEoL
 status: PUBLISHED
 createdAt: 2022-03-21T17:41:20.048Z

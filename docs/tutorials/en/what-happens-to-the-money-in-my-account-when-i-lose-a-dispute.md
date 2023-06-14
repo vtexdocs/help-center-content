@@ -1,5 +1,5 @@
 ---
-title: What happens to the money in my account when I lose a dispute?
+title: 'What happens to the money in my account when I lose a dispute?'
 id: 2Dep6HZG7EUp74ALukV1Mw
 status: DRAFT
 createdAt: 2019-05-26T22:00:37.208Z

@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with FCamara (Payment initiator)
+title: 'Setting up payments with FCamara (Payment initiator)'
 id: 4p5E3jc9J5xHkOI6AbnhTV
 status: PUBLISHED
 createdAt: 2023-04-03T15:12:23.123Z

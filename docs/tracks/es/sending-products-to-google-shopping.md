@@ -1,5 +1,5 @@
 ---
-title: Enviar productos a Google Shopping
+title: 'Enviar productos a Google Shopping'
 id: 5L5LnccDCj5lJk8H95GQ82
 status: PUBLISHED
 createdAt: 2021-04-15T14:10:45.645Z

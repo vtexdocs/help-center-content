@@ -1,5 +1,5 @@
 ---
-title: What are Clustered Payment Conditions?
+title: 'What are Clustered Payment Conditions?'
 id: 4z2upCJ2om27Cs0BVJRA0U
 status: PUBLISHED
 createdAt: 2020-11-18T11:49:06.387Z

@@ -1,5 +1,5 @@
 ---
-title: Mensagem de erro na gestão de ofertas não é atualizada depois que o sku é vinculado a integrações VTEX<>VTEX
+title: 'Mensagem de erro na gestão de ofertas não é atualizada depois que o sku é vinculado a integrações VTEX<>VTEX'
 id: 5tMKDMsFTZlXQrkVM4WeJD
 status: PUBLISHED
 createdAt: 2022-12-08T14:02:22.948Z

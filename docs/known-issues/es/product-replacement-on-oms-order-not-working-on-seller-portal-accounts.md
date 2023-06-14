@@ -1,5 +1,5 @@
 ---
-title: La sustitución de productos en un pedido OMS no funciona en las cuentas del portal del vendedor
+title: 'La sustitución de productos en un pedido OMS no funciona en las cuentas del portal del vendedor'
 id: 1wQTfSR6OB6CL0sRpCYARp
 status: PUBLISHED
 createdAt: 2023-02-14T12:25:00.911Z

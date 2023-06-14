@@ -1,5 +1,5 @@
 ---
-title: "Conversational Commerce: new Live Support configuration"
+title: 'Conversational Commerce: new Live Support configuration'
 id: 6ONAReju1cAVutNHmabxyN
 status: PUBLISHED
 createdAt: 2023-04-28T20:35:36.364Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 5l3eEiSz8MpcppCxcnijGz
 slug: conversational-commerce-new-live-support-configuration
 legacySlug: conversational-commerce-new-live-support-configuration
-announcementImageID: ""
-announcementSynopsisEN: Live Support is the Conversational Commerce configuration that enables customer support via WhatsApp.
+announcementImageID: ''
+announcementSynopsisEN: 'Live Support is the Conversational Commerce configuration that enables customer support via WhatsApp.'
 ---
 
 To increase customer satisfaction by providing a seamless and convenient support experience, VTEX developed Live Support. 

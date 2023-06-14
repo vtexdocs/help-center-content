@@ -1,5 +1,5 @@
 ---
-title: La carga del Administrador de Archivos con dos o más archivos existentes no actualiza todos los archivos, sólo el primero
+title: 'La carga del Administrador de Archivos con dos o más archivos existentes no actualiza todos los archivos, sólo el primero'
 id: 2LHdzsFFe83E1Tf0Z4j66y
 status: PUBLISHED
 createdAt: 2022-03-17T00:20:51.454Z

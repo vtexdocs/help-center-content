@@ -1,5 +1,5 @@
 ---
-title: A Consulta de status no FEED do Gerenciamento de Pedidos , é por AppKey ou por AccountName?
+title: 'A Consulta de status no FEED do Gerenciamento de Pedidos , é por AppKey ou por AccountName?'
 id: 6dt2jCTyAoUqiA8co6qkEC
 status: DRAFT
 createdAt: 2017-06-20T17:01:14.993Z

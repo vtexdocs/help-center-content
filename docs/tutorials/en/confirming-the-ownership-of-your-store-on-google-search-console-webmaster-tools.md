@@ -1,5 +1,5 @@
 ---
-title: Confirming the ownership of your store on Google Search Console (Webmaster Tools)
+title: 'Confirming the ownership of your store on Google Search Console (Webmaster Tools)'
 id: frequentlyAskedQuestions_613
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:56.418Z

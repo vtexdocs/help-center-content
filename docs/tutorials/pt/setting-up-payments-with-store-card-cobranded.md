@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamentos com Cartões de Loja (co-branded)
+title: 'Configurar pagamentos com Cartões de Loja (co-branded)'
 id: jrkLK41IjuquUmyKUi86Q
 status: PUBLISHED
 createdAt: 2018-06-25T15:48:13.031Z

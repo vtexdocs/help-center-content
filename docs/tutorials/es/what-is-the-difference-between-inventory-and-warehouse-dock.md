@@ -1,5 +1,5 @@
 ---
-title: ¿Cuál es la diferencia entre Inventario y Muelle?
+title: '¿Cuál es la diferencia entre Inventario y Muelle?'
 id: 5piyt4YCGsMs48OUMmuKGk
 status: DRAFT
 createdAt: 2018-03-07T18:29:46.218Z
@@ -24,7 +24,7 @@ __Las tres etapas de la logística se representan por la siguiente estructura: _
 
 __Pueden ser ilustradas por el flujo abajo: __
 
-![ES Conceitos Logistics](https://images.ctfassets.net/alneenqid6w5/3xi4LHhJAElMNsp88xJ3A4/b610da20dede4d2536abe9b3a7f07890/ES_Conceitos_Logistics.png)
+![ES Conceitos Logistics](//images.ctfassets.net/alneenqid6w5/3xi4LHhJAElMNsp88xJ3A4/b610da20dede4d2536abe9b3a7f07890/ES_Conceitos_Logistics.png)
 
 ## Almacene
 Es el espacio físico utilizado para el almacenamiento de los productos de un e-commerce, funcionando como el repositorio de los ítems de su tienda.

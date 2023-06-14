@@ -1,5 +1,5 @@
 ---
-title: How to change the sorting of delivery types in the cart?
+title: 'How to change the sorting of delivery types in the cart?'
 id: 2dSSqqtT4wmaIMoYu2SMG0
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:46.019Z

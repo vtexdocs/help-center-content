@@ -1,5 +1,5 @@
 ---
-title: Giftcard HUB setting "R$" as the automatic currency on the UI
+title: 'Giftcard HUB setting "R$" as the automatic currency on the UI'
 id: 2ODtc4t1GSo3iUjT9Gk0uk
 status: PUBLISHED
 createdAt: 2022-11-03T12:57:31.895Z

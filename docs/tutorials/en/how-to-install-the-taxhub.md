@@ -1,5 +1,5 @@
 ---
-title: How to install the TaxHub
+title: 'How to install the TaxHub'
 id: ar3F62QNwcg8oyUwM0wWu
 status: DRAFT
 createdAt: 2017-08-02T13:10:47.510Z

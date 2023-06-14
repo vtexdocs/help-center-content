@@ -1,5 +1,5 @@
 ---
-title: Marketplace doesn't consider installment rule for products that have a commercial condition in the seller
+title: 'Marketplace doesn't consider installment rule for products that have a commercial condition in the seller'
 id: 57fIYUFmvuyYaq8W6KkieC
 status: PUBLISHED
 createdAt: 2017-06-16T21:18:22.276Z

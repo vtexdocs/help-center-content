@@ -1,5 +1,5 @@
 ---
-title: Programación de la fecha de finalización de las Colecciones no funciona
+title: 'Programación de la fecha de finalización de las Colecciones no funciona'
 id: mhO5z0twpTunMeEsPKl0q
 status: PUBLISHED
 createdAt: 2022-03-17T21:32:13.982Z

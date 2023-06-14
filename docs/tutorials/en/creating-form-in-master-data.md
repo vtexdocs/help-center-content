@@ -1,5 +1,5 @@
 ---
-title: Creating a form in Master Data
+title: 'Creating a form in Master Data'
 id: tutorials_1047
 status: PUBLISHED
 createdAt: 2017-04-27T21:57:35.614Z

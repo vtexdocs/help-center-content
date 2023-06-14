@@ -1,5 +1,5 @@
 ---
-title: Customer GiftCard not located in the administrative module when performing a CPF query
+title: 'Customer GiftCard not located in the administrative module when performing a CPF query'
 id: 57ReN0F8H6iAsimuMoUe8Q
 status: PUBLISHED
 createdAt: 2017-07-27T15:42:13.805Z

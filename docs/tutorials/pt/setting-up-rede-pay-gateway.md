@@ -1,5 +1,5 @@
 ---
-title: Configurar gateway Rede Pay
+title: 'Configurar gateway Rede Pay'
 id: 2ABMTAbcpSSOUqGm8YyGe
 status: DRAFT
 createdAt: 2018-03-13T13:59:23.838Z

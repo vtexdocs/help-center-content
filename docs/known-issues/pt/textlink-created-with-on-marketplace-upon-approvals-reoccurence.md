@@ -1,5 +1,5 @@
 ---
-title: Link de texto criado com " " no Marketplace após as aprovações - Reocorrência
+title: 'Link de texto criado com " " no Marketplace após as aprovações - Reocorrência'
 id: 2afynQ9MwaHPMPWyhx80Tp
 status: PUBLISHED
 createdAt: 2023-04-24T19:36:10.185Z

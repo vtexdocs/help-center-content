@@ -1,5 +1,5 @@
 ---
-title: Adicionar ou editar um mapeamento de URL manualmente
+title: 'Adicionar ou editar um mapeamento de URL manualmente'
 id: 4cNeAbaRrWSWOEosgGUg0C
 status: DRAFT
 createdAt: 2017-08-04T15:03:39.734Z

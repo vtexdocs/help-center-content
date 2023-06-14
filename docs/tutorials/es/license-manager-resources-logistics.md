@@ -1,5 +1,5 @@
 ---
-title: Recursos del License Manager - Logistics
+title: 'Recursos del License Manager - Logistics'
 id: 6ihAPSvRl4TWNtsQ2fJqNJ
 status: DRAFT
 createdAt: 2022-02-16T19:15:32.679Z

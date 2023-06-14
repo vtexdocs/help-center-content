@@ -1,5 +1,5 @@
 ---
-title:  Filtrar por SkuName no desempenho de vendas não está aceitando maiúsculas.
+title: ' Filtrar por SkuName no desempenho de vendas não está aceitando maiúsculas.'
 id: 3FCDeEn8xmEvOXKgBxqyL5
 status: PUBLISHED
 createdAt: 2022-08-16T18:06:02.919Z

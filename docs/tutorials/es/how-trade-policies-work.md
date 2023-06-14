@@ -1,5 +1,5 @@
 ---
-title: Como funciona una Política Comercial
+title: 'Como funciona una Política Comercial'
 id: 6Xef8PZiFm40kg2STrMkMV
 status: PUBLISHED
 createdAt: 2021-05-25T20:05:42.155Z

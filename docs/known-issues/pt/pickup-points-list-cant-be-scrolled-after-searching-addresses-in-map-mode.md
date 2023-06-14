@@ -1,5 +1,5 @@
 ---
-title: A lista de pontos de coleta não pode ser rolada depois de procurar endereços no modo de mapa
+title: 'A lista de pontos de coleta não pode ser rolada depois de procurar endereços no modo de mapa'
 id: 3e0JgNoWSQ0GAw8kurGrIR
 status: PUBLISHED
 createdAt: 2022-08-11T18:35:48.300Z

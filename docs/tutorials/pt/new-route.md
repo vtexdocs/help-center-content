@@ -1,5 +1,5 @@
 ---
-title: Nova Rota
+title: 'Nova Rota'
 id: 58zHktlupty2jfvSYsQE5h
 status: PUBLISHED
 createdAt: 2021-03-31T17:07:01.944Z
@@ -94,5 +94,5 @@ Remover entregas clicando  no __X__ à direta da entrega.
 Só é possível editar uma rota se ela ainda estiver no status Ativo. Não é indicado alterar uma rota se ela já foi iniciada - isso pode causar inconsistências na plataforma do VTEX Tracking e no aplicativo do portador.
 </div>
 
-![Cadastro de nova rota](https://images.ctfassets.net/alneenqid6w5/3m2JhopNd3vcscWEOYSnvn/f739888039df88f13fc7bcab16325253/Nova_Rota.gif)
+![Cadastro de nova rota](//images.ctfassets.net/alneenqid6w5/3m2JhopNd3vcscWEOYSnvn/f739888039df88f13fc7bcab16325253/Nova_Rota.gif)
 

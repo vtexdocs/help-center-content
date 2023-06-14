@@ -1,5 +1,5 @@
 ---
-title: Facturas parciales
+title: 'Facturas parciales'
 id: q9GPspTb9cHlMeAZfdEUe
 status: PUBLISHED
 createdAt: 2022-06-20T20:13:46.342Z

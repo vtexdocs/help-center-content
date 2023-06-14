@@ -1,5 +1,5 @@
 ---
-title: Shipping preview's postal code input field is not hidden
+title: 'Shipping preview's postal code input field is not hidden'
 id: 6YCl40YEzu1HGkfHkcjGqu
 status: PUBLISHED
 createdAt: 2023-05-09T13:27:51.259Z

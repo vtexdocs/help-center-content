@@ -1,5 +1,5 @@
 ---
-title: ¿En cuánto tiempo un pedido de boleto sin pago se cancela?
+title: '¿En cuánto tiempo un pedido de boleto sin pago se cancela?'
 id: frequentlyAskedQuestions_300
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:51.983Z

@@ -1,5 +1,5 @@
 ---
-title: Mejores prácticas de seguridad para gestión de usuarios
+title: 'Mejores prácticas de seguridad para gestión de usuarios'
 id: 15YDwC9jGgqWi3rvcDaiGM
 status: PUBLISHED
 createdAt: 2019-09-13T18:00:13.670Z

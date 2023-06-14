@@ -1,5 +1,5 @@
 ---
-title: Address being reviewed in the geolocation mode even for complete addresses
+title: 'Address being reviewed in the geolocation mode even for complete addresses'
 id: 6eHvTDvNlIiBGmlUJAAsNU
 status: PUBLISHED
 createdAt: 2022-08-11T18:40:54.009Z

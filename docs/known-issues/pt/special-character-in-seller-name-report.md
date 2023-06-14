@@ -1,5 +1,5 @@
 ---
-title: Caráter especial no relatório do nome do vendedor
+title: 'Caráter especial no relatório do nome do vendedor'
 id: 13FMy6rGbNacrS7MUYTT48
 status: PUBLISHED
 createdAt: 2023-02-17T13:18:20.237Z

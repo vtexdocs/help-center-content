@@ -1,5 +1,5 @@
 ---
-title: "Redirecionamento pela busca com VTEX Intelligent Search"
+title: 'Redirecionamento pela busca com VTEX Intelligent Search'
 id: 256MC65x12CEWob3TYfpkA
 status: CHANGED
 createdAt: 2020-06-30T16:24:57.524Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: redirecionamento-pela-busca-com-vtex-intelligent-search
 legacySlug: redirecionamento-pela-busca-com-vtex-intelligent-search
-announcementImageID: ""
-announcementSynopsisPT: O VTEX Intelligent Search agora apresenta a funcionalidade Redirecionamentos
+announcementImageID: ''
+announcementSynopsisPT: 'O VTEX Intelligent Search agora apresenta a funcionalidade Redirecionamentos'
 ---
 
 O VTEX Intelligent Search agora apresenta a funcionalidade Redirecionamentos. Com ela é possível redirecionar termos de busca ou filtros para páginas específicas. Você pode criar páginas promocionais e relacioná-las com as pesquisas realizadas pelo usuário.

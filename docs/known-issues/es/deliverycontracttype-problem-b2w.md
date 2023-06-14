@@ -1,5 +1,5 @@
 ---
-title: problema del tipo de contrato de entrega - B2W
+title: 'problema del tipo de contrato de entrega - B2W'
 id: 3dVJMQcmbJOEK5Iibt9ZaA
 status: PUBLISHED
 createdAt: 2022-06-27T19:29:37.090Z

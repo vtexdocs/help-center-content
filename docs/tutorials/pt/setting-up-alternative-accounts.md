@@ -1,5 +1,5 @@
 ---
-title: Configurar contas alternativas
+title: 'Configurar contas alternativas'
 id: tutorials_6229
 status: PUBLISHED
 createdAt: 2017-04-27T21:49:00.097Z

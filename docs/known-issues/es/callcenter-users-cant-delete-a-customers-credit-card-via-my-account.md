@@ -1,5 +1,5 @@
 ---
-title: Callcenter users can't delete a customer's credit card via My Account
+title: 'Callcenter users can't delete a customer's credit card via My Account'
 id: 7Ct8cXpL9hV2IN7CzEqwf2
 status: CHANGED
 createdAt: 2022-03-27T01:20:01.838Z

@@ -1,5 +1,5 @@
 ---
-title: How is the structure of an app?
+title: 'How is the structure of an app?'
 id: 3K38eTAV8kK0goaUycoiey
 status: DRAFT
 createdAt: 2018-02-21T22:54:14.001Z

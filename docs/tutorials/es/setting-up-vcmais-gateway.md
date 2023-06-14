@@ -1,5 +1,5 @@
 ---
-title: Configurar gateway vcmais
+title: 'Configurar gateway vcmais'
 id: 28nAmwnfxWSoQEIO8EYYaI
 status: PUBLISHED
 createdAt: 2018-04-17T21:48:38.248Z

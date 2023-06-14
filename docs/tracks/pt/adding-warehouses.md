@@ -1,5 +1,5 @@
 ---
-title: Cadastrar estoque
+title: 'Cadastrar estoque'
 id: 3mlfDHjikOgUna1SS2Nr1Y
 status: DRAFT
 createdAt: 2019-08-21T13:46:49.042Z
@@ -28,7 +28,7 @@ Siga o passo a passo abaixo para cadastrar um estoque na sua loja:
 4. Preencha os campos do formulário de estoque. Para entender melhor o significado de cada campo, veja abaixo a seção [Campos de Cadastro](#campos-de-cadastro).
 5. Clique no botão **Salvar**
 
-![PT Cadastrar Estoque GIF](https://images.ctfassets.net/alneenqid6w5/2z4bJ7wuzd6vePDariRnX8/90c3c2e7fa6e7f00ae360a7fd77f2dbd/PT_Cadastrar_Estoque.gif)
+![PT Cadastrar Estoque GIF](//images.ctfassets.net/alneenqid6w5/2z4bJ7wuzd6vePDariRnX8/90c3c2e7fa6e7f00ae360a7fd77f2dbd/PT_Cadastrar_Estoque.gif)
 
 ### Campos de cadastro
 

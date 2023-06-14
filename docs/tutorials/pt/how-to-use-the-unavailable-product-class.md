@@ -1,5 +1,5 @@
 ---
-title: Como usar a classe de produto indisponível do controle de seleção de SKUs
+title: 'Como usar a classe de produto indisponível do controle de seleção de SKUs'
 id: 62t7maHVvyAsqkSmi62g82
 status: PUBLISHED
 createdAt: 2018-01-18T18:10:19.780Z

@@ -1,5 +1,5 @@
 ---
-title: Erros de integração de pedidos de marketplaces
+title: 'Erros de integração de pedidos de marketplaces'
 id: 3LmQY3zPfiMYy4m2M0Ak2y
 status: PUBLISHED
 createdAt: 2017-12-13T19:08:06.516Z

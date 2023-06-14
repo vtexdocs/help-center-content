@@ -1,5 +1,5 @@
 ---
-title: Configuring iDEAL payment method in Adyen integration
+title: 'Configuring iDEAL payment method in Adyen integration'
 id: 6EY1uvOVcomIFgMv81FAub
 status: PUBLISHED
 createdAt: 2021-05-06T19:28:42.490Z

@@ -1,5 +1,5 @@
 ---
-title: How the modal works
+title: 'How the modal works'
 id: tutorials_125
 status: CHANGED
 createdAt: 2017-04-27T22:18:25.410Z

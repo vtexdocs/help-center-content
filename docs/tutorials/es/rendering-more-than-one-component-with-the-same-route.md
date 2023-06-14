@@ -1,5 +1,5 @@
 ---
-title: Renderizar más de un componente en la misma ruta
+title: 'Renderizar más de un componente en la misma ruta'
 id: 1ZmJCD1eycemCeeKoCoa8e
 status: DRAFT
 createdAt: 2018-02-21T23:07:00.476Z

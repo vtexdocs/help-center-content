@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con MaxiPagoV4
+title: 'Configurar pago con MaxiPagoV4'
 id: 2WTP2vKRL7tgR0VW0qPDzN
 status: DRAFT
 createdAt: 2022-08-10T19:23:21.650Z

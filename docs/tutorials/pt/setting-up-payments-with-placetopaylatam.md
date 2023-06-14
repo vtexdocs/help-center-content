@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com PlaceToPayLatam
+title: 'Configurar pagamento com PlaceToPayLatam'
 id: 5R1aYANyHBnS3Q2KQREUkl
 status: DRAFT
 createdAt: 2022-08-10T17:38:19.964Z

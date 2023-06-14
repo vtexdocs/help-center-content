@@ -1,5 +1,5 @@
 ---
-title: Control de Búsqueda - fulltextSearchBox
+title: 'Control de Búsqueda - fulltextSearchBox'
 id: tutorials_549
 status: DRAFT
 createdAt: 2017-04-27T22:01:10.450Z

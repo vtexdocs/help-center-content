@@ -1,5 +1,5 @@
 ---
-title: Buscacep não trabalha em forma de GiftList.
+title: 'Buscacep não trabalha em forma de GiftList.'
 id: 3VRPSO1wYFX5XWrpTSD78X
 status: PUBLISHED
 createdAt: 2022-11-02T13:00:43.442Z

@@ -1,5 +1,5 @@
 ---
-title: Recursos do License Manager - Channels
+title: 'Recursos do License Manager - Channels'
 id: 5a5RSwKtCZ8LIKXkyP0CUW
 status: DRAFT
 createdAt: 2022-02-16T15:44:10.919Z

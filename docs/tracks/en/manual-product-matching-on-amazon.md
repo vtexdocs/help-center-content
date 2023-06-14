@@ -1,5 +1,5 @@
 ---
-title: Manual product matching on Amazon
+title: 'Manual product matching on Amazon'
 id: 6QPcQ2zvTROe3VuDQ3kF4X
 status: DRAFT
 createdAt: 2022-11-25T21:20:50.102Z

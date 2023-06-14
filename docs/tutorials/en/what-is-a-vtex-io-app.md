@@ -1,5 +1,5 @@
 ---
-title: What is a VTEX IO app
+title: 'What is a VTEX IO app'
 id: 1vgekaRuUcoIqIuW4Iayoi
 status: DRAFT
 createdAt: 2019-01-24T20:45:41.510Z

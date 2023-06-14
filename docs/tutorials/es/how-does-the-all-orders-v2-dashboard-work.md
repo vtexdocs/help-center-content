@@ -1,5 +1,5 @@
 ---
-title: Cómo funciona el panel Todos los Pedidos v2
+title: 'Cómo funciona el panel Todos los Pedidos v2'
 id: 1uYBHlPoQWMI3ZrCNk9HZ8
 status: DRAFT
 createdAt: 2020-04-06T19:53:56.113Z

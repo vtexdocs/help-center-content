@@ -1,5 +1,5 @@
 ---
-title: Timeout de la lista de marcas de la colección en el Admin
+title: 'Timeout de la lista de marcas de la colección en el Admin'
 id: 4de4lqAIhr9mU77EPAbvq1
 status: PUBLISHED
 createdAt: 2022-08-17T15:58:26.950Z

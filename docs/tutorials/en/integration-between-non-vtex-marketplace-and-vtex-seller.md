@@ -1,5 +1,5 @@
 ---
-title: Integration between non-VTEX Marketplace and VTEX Seller - Order Shipping and Processing Actions
+title: 'Integration between non-VTEX Marketplace and VTEX Seller - Order Shipping and Processing Actions'
 id: 5AiW7dZ4nGMDI9TAg43zmf
 status: DRAFT
 createdAt: 2019-09-16T12:52:46.627Z

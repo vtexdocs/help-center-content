@@ -1,5 +1,5 @@
 ---
-title: Error en el Minicart al actualizar la promoción
+title: 'Error en el Minicart al actualizar la promoción'
 id: QMcRhD0wNNitxYvGtdDQt
 status: PUBLISHED
 createdAt: 2022-03-30T14:21:49.130Z

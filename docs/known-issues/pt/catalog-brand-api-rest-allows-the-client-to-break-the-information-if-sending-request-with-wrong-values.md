@@ -1,5 +1,5 @@
 ---
-title: A API REST da marca do catálogo permite que o cliente quebre as informações se enviar uma solicitação com valores errados
+title: 'A API REST da marca do catálogo permite que o cliente quebre as informações se enviar uma solicitação com valores errados'
 id: 1nYTOhy1TjaQOK6xDvU5H6
 status: PUBLISHED
 createdAt: 2023-03-10T20:26:07.105Z

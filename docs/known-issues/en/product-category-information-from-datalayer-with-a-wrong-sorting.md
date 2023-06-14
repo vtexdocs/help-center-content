@@ -1,5 +1,5 @@
 ---
-title: Product category information from dataLayer with a wrong sorting
+title: 'Product category information from dataLayer with a wrong sorting'
 id: 5M84UlbbxXG6msTBUYiksT
 status: PUBLISHED
 createdAt: 2022-12-13T18:02:07.567Z

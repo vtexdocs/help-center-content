@@ -1,5 +1,5 @@
 ---
-title: Creating the files structure for your app (vtex init)
+title: 'Creating the files structure for your app (vtex init)'
 id: 7MEnnC356Me8yswoK4o0e
 status: DRAFT
 createdAt: 2018-02-21T23:00:47.117Z

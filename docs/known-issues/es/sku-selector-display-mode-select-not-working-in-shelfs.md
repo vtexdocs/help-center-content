@@ -1,5 +1,5 @@
 ---
-title: El modo de visualización SELECT del selector SKU no funciona en las estanterías
+title: 'El modo de visualización SELECT del selector SKU no funciona en las estanterías'
 id: 4viowN3tnbsdc0f1bqXrux
 status: PUBLISHED
 createdAt: 2023-01-18T12:24:32.528Z

@@ -1,5 +1,5 @@
 ---
-title: Botón de Android con comportamiento inesperado con el botón de entrada
+title: 'Botón de Android con comportamiento inesperado con el botón de entrada'
 id: 7lxReFstIBsMBktghrIZXB
 status: PUBLISHED
 createdAt: 2022-07-07T14:04:42.124Z

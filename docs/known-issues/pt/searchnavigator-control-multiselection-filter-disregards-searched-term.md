@@ -1,5 +1,5 @@
 ---
-title: Filtro de multi seleção do controle searchNavigator desconsiderando termo buscado
+title: 'Filtro de multi seleção do controle searchNavigator desconsiderando termo buscado'
 id: ijtyA8hzgsgSYwa6EoyES
 status: PUBLISHED
 createdAt: 2017-08-29T15:40:30.287Z

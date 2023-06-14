@@ -1,5 +1,5 @@
 ---
-title: Filtering transactions on Orders section
+title: 'Filtering transactions on Orders section'
 id: 6LUq65FqUgIKkKEeWa4IwC
 status: PUBLISHED
 createdAt: 2019-01-24T21:38:42.313Z

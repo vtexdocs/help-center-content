@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo solicitar la verificación de SLA de operación de la plataforma?
+title: '¿Cómo solicitar la verificación de SLA de operación de la plataforma?'
 id: 3L99VeoLhYEwMqqkWKu86i
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:46.776Z

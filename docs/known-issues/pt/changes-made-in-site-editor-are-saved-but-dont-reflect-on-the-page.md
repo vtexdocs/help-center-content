@@ -1,5 +1,5 @@
 ---
-title: As alterações feitas no Editor do site são salvas, mas não refletem na página
+title: 'As alterações feitas no Editor do site são salvas, mas não refletem na página'
 id: 2peoCL4YJTTike5XPwrxWT
 status: PUBLISHED
 createdAt: 2023-04-06T18:58:03.576Z

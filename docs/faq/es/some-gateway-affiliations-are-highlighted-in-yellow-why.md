@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué quedan amarillas  algunas afiliaciones de gateways?
+title: '¿Por qué quedan amarillas  algunas afiliaciones de gateways?'
 id: frequentlyAskedQuestions_491
 status: PUBLISHED
 createdAt: 2017-04-27T22:34:57.640Z
@@ -17,6 +17,6 @@ Cuando entre en __Afiliaciones__, es posible ver la lista de todas las configura
 
 Eso significa que esta afiliación no está activa, y sí que está en teste. Es posible confirmar esa información haciendo clic en la Afiliación.
 
-![afiliação-gateway-teste es](https://images.ctfassets.net/alneenqid6w5/6CYa8SyybuMGwYqOqkoa8U/b1b1d471edd3d98336719c8e07f22605/gateway_teste_es.png)
+![afiliação-gateway-teste es](//images.ctfassets.net/alneenqid6w5/6CYa8SyybuMGwYqOqkoa8U/b1b1d471edd3d98336719c8e07f22605/gateway_teste_es.png)
 
 O sea, el color destaca aquellas configuraciones que todavía no están activas.

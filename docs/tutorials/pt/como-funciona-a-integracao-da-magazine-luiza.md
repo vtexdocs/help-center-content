@@ -1,5 +1,5 @@
 ---
-title: Como funciona a integração da Magazine Luiza
+title: 'Como funciona a integração da Magazine Luiza'
 id: 3Mm1st1J3yM6Soka4SQsI
 status: DRAFT
 createdAt: 2018-12-28T12:11:21.713Z

@@ -1,5 +1,5 @@
 ---
-title: "New Ready to dispatch functionality"
+title: 'New Ready to dispatch functionality'
 id: 7mBy4v8f3RYybnuPnWtKp9
 status: PUBLISHED
 createdAt: 2022-02-14T13:49:22.658Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: new-ready-to-dispatch-functionality
 legacySlug: new-ready-to-dispatch-functionality
-announcementImageID: ""
-announcementSynopsisEN:  New VTEX Log functionality for label printing and carrier notification.
+announcementImageID: ''
+announcementSynopsisEN: ' New VTEX Log functionality for label printing and carrier notification.'
 ---
 
 <div class="alert alert-warning">

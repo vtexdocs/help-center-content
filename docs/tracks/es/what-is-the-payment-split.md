@@ -1,5 +1,5 @@
 ---
-title: ¿Qué es el Split de pagos de VTEX?
+title: '¿Qué es el Split de pagos de VTEX?'
 id: ctgx6ulwy40P0BV07LW9y
 status: DRAFT
 createdAt: 2020-11-05T17:15:47.387Z

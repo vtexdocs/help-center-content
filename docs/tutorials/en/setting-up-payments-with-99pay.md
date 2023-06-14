@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with 99Pay
+title: 'Setting up payments with 99Pay'
 id: QIStxPsGb6LoIwFBfcTfb
 status: PUBLISHED
 createdAt: 2023-04-06T19:37:06.116Z

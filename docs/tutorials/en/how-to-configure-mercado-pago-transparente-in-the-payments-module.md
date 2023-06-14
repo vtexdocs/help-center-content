@@ -1,5 +1,5 @@
 ---
-title: How to configure Mercado Pago Transparente in the Payments module?
+title: 'How to configure Mercado Pago Transparente in the Payments module?'
 id: tutorials_4570
 status: DRAFT
 createdAt: 2017-04-27T21:50:13.164Z

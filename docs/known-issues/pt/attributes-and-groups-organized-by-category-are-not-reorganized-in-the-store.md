@@ -1,5 +1,5 @@
 ---
-title: Ao organizar atributos e grupos por categoria, eles não são reorganizados na loja
+title: 'Ao organizar atributos e grupos por categoria, eles não são reorganizados na loja'
 id: 1oWkNKBfrWMmKSWOeeGikO
 status: PUBLISHED
 createdAt: 2017-12-18T17:08:46.708Z

@@ -1,5 +1,5 @@
 ---
-title: Divergência de Estoque - A logística não tem o mesmo tratamento à esquerda que outra SKU
+title: 'Divergência de Estoque - A logística não tem o mesmo tratamento à esquerda que outra SKU'
 id: 3FKaDXw5pWVyUfwgKo6pfV
 status: PUBLISHED
 createdAt: 2022-05-18T15:19:00.037Z

@@ -1,5 +1,5 @@
 ---
-title: Se as tabelas dos Correios não estiverem concatenadas no filtro Ready to dispatch, a geração de etiquetas não funciona corretamente
+title: 'Se as tabelas dos Correios não estiverem concatenadas no filtro Ready to dispatch, a geração de etiquetas não funciona corretamente'
 id: sjvdk1dovk0UBfJJEBVcs
 status: PUBLISHED
 createdAt: 2022-02-03T19:53:04.280Z

@@ -1,5 +1,5 @@
 ---
-title: Setting up Paga Más Tarde gateway
+title: 'Setting up Paga Más Tarde gateway'
 id: 5IIg3KHZyoCOUyuqgMmkWq
 status: DRAFT
 createdAt: 2018-04-11T13:21:10.769Z

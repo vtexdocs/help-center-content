@@ -1,5 +1,5 @@
 ---
-title: Problema de arredondamento em vales (giftcards) que funcionam como desconto
+title: 'Problema de arredondamento em vales (giftcards) que funcionam como desconto'
 id: ecLMI2kGhqmEMUkESOSOK
 status: PUBLISHED
 createdAt: 2018-03-27T20:47:13.941Z

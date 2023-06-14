@@ -1,5 +1,5 @@
 ---
-title: Rateio incorreto do valor do kit quando desconto é aplicado
+title: 'Rateio incorreto do valor do kit quando desconto é aplicado'
 id: mZLhWgjrvEa0eISE4syUE
 status: PUBLISHED
 createdAt: 2017-04-06T17:27:01.147Z

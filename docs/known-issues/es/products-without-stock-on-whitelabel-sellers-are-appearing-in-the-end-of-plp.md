@@ -1,5 +1,5 @@
 ---
-title: Los productos sin stock en los vendedores de marca blanca aparecen en el final de la PLP
+title: 'Los productos sin stock en los vendedores de marca blanca aparecen en el final de la PLP'
 id: 5WCKWky2gKGTZyp9ydnFnL
 status: PUBLISHED
 createdAt: 2022-04-20T15:52:50.807Z

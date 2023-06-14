@@ -1,5 +1,5 @@
 ---
-title: As mudanças feitas nos pagamentos personalizados não se refletem no checkout
+title: 'As mudanças feitas nos pagamentos personalizados não se refletem no checkout'
 id: 22ot22mIyR9v8b2vXYn8VW
 status: PUBLISHED
 createdAt: 2022-03-27T17:59:14.988Z

@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo añadir el certificado PCI SSC a mi tienda?
+title: '¿Cómo añadir el certificado PCI SSC a mi tienda?'
 id: frequentlyAskedQuestions_4650
 status: CHANGED
 createdAt: 2019-01-24T20:46:01.185Z

@@ -1,5 +1,5 @@
 ---
-title: El botón de retroceder de Chrome no funciona correctamente dentro del módulo de Gestión de pedidos
+title: 'El botón de retroceder de Chrome no funciona correctamente dentro del módulo de Gestión de pedidos'
 id: 4NmjhQWbFfmr2NkKGQ3gTJ
 status: DRAFT
 createdAt: 2019-07-04T21:19:09.582Z

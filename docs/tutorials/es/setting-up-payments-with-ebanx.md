@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Ebanx
+title: 'Configurar pago con Ebanx'
 id: 4yKdQrt57AW7aElfHH4QKM
 status: PUBLISHED
 createdAt: 2023-03-22T14:27:42.440Z

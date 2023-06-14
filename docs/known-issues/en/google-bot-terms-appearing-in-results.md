@@ -1,5 +1,5 @@
 ---
-title: Google bot terms appearing in results.
+title: 'Google bot terms appearing in results.'
 id: 395c3GQH2zuJpjsUL6yHp7
 status: PUBLISHED
 createdAt: 2023-05-19T17:32:32.877Z

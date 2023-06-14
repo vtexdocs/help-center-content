@@ -1,5 +1,5 @@
 ---
-title: Product Price not considering default seller in PDP
+title: 'Product Price not considering default seller in PDP'
 id: 4VOIW6kCTfFZ3S9u3xtdDF
 status: PUBLISHED
 createdAt: 2022-02-23T21:52:42.520Z

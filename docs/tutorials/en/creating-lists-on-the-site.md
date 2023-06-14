@@ -1,5 +1,5 @@
 ---
-title: Creating gift lists on the website
+title: 'Creating gift lists on the website'
 id: tutorials_248
 status: DRAFT
 createdAt: 2017-04-27T22:12:16.638Z

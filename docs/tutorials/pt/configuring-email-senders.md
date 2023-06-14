@@ -1,5 +1,5 @@
 ---
-title: Configurar remetente para e-mails
+title: 'Configurar remetente para e-mails'
 id: tutorials_2578
 status: DRAFT
 createdAt: 2017-04-27T21:53:14.314Z

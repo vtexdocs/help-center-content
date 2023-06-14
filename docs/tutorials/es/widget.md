@@ -1,5 +1,5 @@
 ---
-title: Widget
+title: 'Widget'
 id: 6e5WQTSDCZBbdGW1xlNKEs
 status: PUBLISHED
 createdAt: 2022-08-26T19:34:52.497Z

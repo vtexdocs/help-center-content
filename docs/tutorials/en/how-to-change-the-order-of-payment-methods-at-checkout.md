@@ -1,5 +1,5 @@
 ---
-title: Changing the order of payment methods at checkout
+title: 'Changing the order of payment methods at checkout'
 id: frequentlyAskedQuestions_490
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:54.205Z

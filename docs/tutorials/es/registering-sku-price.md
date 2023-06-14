@@ -1,5 +1,5 @@
 ---
-title: Registrar precio de SKU
+title: 'Registrar precio de SKU'
 id: tutorials_230
 status: DRAFT
 createdAt: 2017-04-27T22:13:28.715Z

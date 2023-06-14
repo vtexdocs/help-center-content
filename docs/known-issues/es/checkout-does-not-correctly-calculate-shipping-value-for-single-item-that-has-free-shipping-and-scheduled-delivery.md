@@ -1,5 +1,5 @@
 ---
-title: La caja no calcula correctamente el valor del envío para un solo artículo que tiene envío gratuito y entrega programada
+title: 'La caja no calcula correctamente el valor del envío para un solo artículo que tiene envío gratuito y entrega programada'
 id: 4jX7JT0Wxt9S4xBe9FSwO
 status: PUBLISHED
 createdAt: 2022-02-21T19:48:04.202Z

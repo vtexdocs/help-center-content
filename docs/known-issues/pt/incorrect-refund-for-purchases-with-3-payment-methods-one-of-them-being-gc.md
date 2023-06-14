@@ -1,5 +1,5 @@
 ---
-title: Reembolso incorreto para compras com 3 métodos de pagamento (um deles é GC)
+title: 'Reembolso incorreto para compras com 3 métodos de pagamento (um deles é GC)'
 id: 5nWfRRuxOj7CN5mjXCLzzu
 status: PUBLISHED
 createdAt: 2022-03-03T18:38:19.216Z

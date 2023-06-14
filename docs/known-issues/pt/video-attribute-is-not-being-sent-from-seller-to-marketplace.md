@@ -1,5 +1,5 @@
 ---
-title: O atributo de vídeo não está sendo enviado do vendedor para o marketplace
+title: 'O atributo de vídeo não está sendo enviado do vendedor para o marketplace'
 id: 6JfHpP6F8TGmJofoKc99ON
 status: PUBLISHED
 createdAt: 2022-02-07T20:07:23.358Z

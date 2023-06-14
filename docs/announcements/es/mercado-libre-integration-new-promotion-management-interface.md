@@ -1,5 +1,5 @@
 ---
-title: "Integración con Mercado Libre: nueva interfaz para gestionar promociones"
+title: 'Integración con Mercado Libre: nueva interfaz para gestionar promociones'
 id: 47ojzylckHkLkwEEXuUhX2
 status: PUBLISHED
 createdAt: 2022-06-15T19:53:53.403Z
@@ -10,15 +10,15 @@ productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: integracion-con-mercado-libre-nueva-interfaz-para-gestionar-promociones
 legacySlug: integracion-con-mercado-libre-nueva-interfaz-para-gestionar-promociones
-announcementImageID: ""
-announcementSynopsisES: Lanzamiento de la nueva interfaz de gestión de promociones de Mercado Libre
+announcementImageID: ''
+announcementSynopsisES: 'Lanzamiento de la nueva interfaz de gestión de promociones de Mercado Libre'
 ---
 
 Continuando con las mejoras realizadas para la [certificación de Mercado Libre](https://help.vtex.com/es/announcements/vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil--34D14K2Y6ogJs3OxKpQUrJ), lanzamos oficialmente la nueva interfaz de gestión de promociones en Mercado Libre para todos los clientes VTEX que operan como sellers en el marketplace.
 
 En la nueva página **Promociones** de Mercado Libre, puedes gestionar una lista con las diferentes campañas promocionales en la plataforma disponibles para tu tienda.
 
-![Promociones](https://images.ctfassets.net/alneenqid6w5/2drMTXsElqn1iLe0WnVuTa/81ac8a2fea28f3db675cc33ef164ab8c/Promociones.gif)
+![Promociones](//images.ctfassets.net/alneenqid6w5/2drMTXsElqn1iLe0WnVuTa/81ac8a2fea28f3db675cc33ef164ab8c/Promociones.gif)
 
 ## ¿Qué cambió?
 

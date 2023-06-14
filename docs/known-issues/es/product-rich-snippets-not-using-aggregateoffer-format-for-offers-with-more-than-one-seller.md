@@ -1,5 +1,5 @@
 ---
-title: Los fragmentos enriquecidos de productos no utilizan el formato AggregateOffer para las ofertas con más de un vendedor.
+title: 'Los fragmentos enriquecidos de productos no utilizan el formato AggregateOffer para las ofertas con más de un vendedor.'
 id: pA3jkQ7qHjWXul7ZsBLy2
 status: PUBLISHED
 createdAt: 2023-02-14T12:45:02.825Z

@@ -1,5 +1,5 @@
 ---
-title: Boolean Video/Audio HTML Properties not being validated on Legacy CMS
+title: 'Boolean Video/Audio HTML Properties not being validated on Legacy CMS'
 id: 2WjsLZ7vw0KO023rGQd77L
 status: PUBLISHED
 createdAt: 2022-03-16T19:27:06.599Z

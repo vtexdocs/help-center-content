@@ -1,5 +1,5 @@
 ---
-title: Pedido sin suscripción Creado y sin correo electrónico de Nuevos Pedidos en Casos relacionados con el método de pago utilizando conectores como Payment App o Redirect.
+title: 'Pedido sin suscripción Creado y sin correo electrónico de Nuevos Pedidos en Casos relacionados con el método de pago utilizando conectores como Payment App o Redirect.'
 id: 747TGL3sy1mmM1LnVkEjuO
 status: PUBLISHED
 createdAt: 2022-02-21T20:54:35.174Z

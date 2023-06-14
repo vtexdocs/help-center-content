@@ -1,5 +1,5 @@
 ---
-title: Rutas atascadas no encontradas en la plataforma
+title: 'Rutas atascadas no encontradas en la plataforma'
 id: iAGlRJtK1KMBGxH2tAsrX
 status: PUBLISHED
 createdAt: 2023-04-19T15:54:48.241Z

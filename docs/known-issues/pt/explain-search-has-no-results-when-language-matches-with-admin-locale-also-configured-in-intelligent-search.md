@@ -1,5 +1,5 @@
 ---
-title: A Pesquisa Explicativa não apresenta resultados quando o idioma corresponde à localidade do administrador também configurada na Pesquisa Inteligente
+title: 'A Pesquisa Explicativa não apresenta resultados quando o idioma corresponde à localidade do administrador também configurada na Pesquisa Inteligente'
 id: 1NHYVn0K3mlOTrtnoRevCw
 status: PUBLISHED
 createdAt: 2023-05-23T15:35:17.779Z

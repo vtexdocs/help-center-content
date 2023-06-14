@@ -1,5 +1,5 @@
 ---
-title: Catálogo Myvtex Iframe HTML Select Breaking para Chrome 108
+title: 'Catálogo Myvtex Iframe HTML Select Breaking para Chrome 108'
 id: 7kax7PbhijSluYJETvOe92
 status: PUBLISHED
 createdAt: 2022-12-06T18:58:36.011Z

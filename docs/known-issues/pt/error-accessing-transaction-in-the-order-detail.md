@@ -1,5 +1,5 @@
 ---
-title: Erro ao acessar a transação no detalhe do pedido (Novo Admin)
+title: 'Erro ao acessar a transação no detalhe do pedido (Novo Admin)'
 id: 3A0RCPD6LYuGicmgm4q0Iy
 status: PUBLISHED
 createdAt: 2018-04-09T14:04:17.452Z

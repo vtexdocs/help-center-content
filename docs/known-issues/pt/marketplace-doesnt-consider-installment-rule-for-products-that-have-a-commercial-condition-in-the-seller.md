@@ -1,5 +1,5 @@
 ---
-title: Marketplace não considera regra de parcelamento para produtos que possuem condição comercial no seller
+title: 'Marketplace não considera regra de parcelamento para produtos que possuem condição comercial no seller'
 id: 57fIYUFmvuyYaq8W6KkieC
 status: PUBLISHED
 createdAt: 2017-06-16T21:18:22.276Z

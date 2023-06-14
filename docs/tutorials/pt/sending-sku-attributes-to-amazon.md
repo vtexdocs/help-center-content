@@ -1,5 +1,5 @@
 ---
-title: Enviar atributos dos SKUs para a Amazon
+title: 'Enviar atributos dos SKUs para a Amazon'
 id: 3KTNjHRtVmWWe02my8suEo
 status: DRAFT
 createdAt: 2018-06-21T17:09:05.337Z
@@ -18,7 +18,7 @@ Feitas as configurações iniciais para a [integração com a Amazon](/pt/tutori
 
 O mapeamento só será feito uma vez para cada categoria. Desta forma, mesmo já tendo feito um mapeamento, quando novos produtos forem criados, eles serão integrados diretamente. Será feito um __de/para__ dos atributos cadastrados na VTEX com os atributos aceitos pela Amazon.
 
-1. Crie uma __planilha de upload__ no formato `.xlsx` e preencha o título das colunas conforme a imagem abaixo.![Modelo Atributos Amazon](https://images.ctfassets.net/alneenqid6w5/1oqAPItLPaMc8gYICU6oWa/7d54955d0c179a2fbcb036e62ede9dc3/Modelo_Atributos_Amazon.png)
+1. Crie uma __planilha de upload__ no formato `.xlsx` e preencha o título das colunas conforme a imagem abaixo.![Modelo Atributos Amazon](//images.ctfassets.net/alneenqid6w5/1oqAPItLPaMc8gYICU6oWa/7d54955d0c179a2fbcb036e62ede9dc3/Modelo_Atributos_Amazon.png)
 
 2. Preencha os campos da planilha de mapeamento de acordo com as indicações abaixo:
 
@@ -48,7 +48,7 @@ Atenção: caso as colunas não forem nomeadas <strong>tal qual</strong> a forma
 
 Planilha de exemplo usando a categoria Clothing & Accessories:
 
-![Amazon Mapeamento ](https://images.ctfassets.net/alneenqid6w5/5p6RrFb0T6my86cCOmW0c8/a5e93f7732929c9d9ea4cc0dd855b9a1/Amazon_Mapeamento.png)
+![Amazon Mapeamento ](//images.ctfassets.net/alneenqid6w5/5p6RrFb0T6my86cCOmW0c8/a5e93f7732929c9d9ea4cc0dd855b9a1/Amazon_Mapeamento.png)
 
 <div class="alert alert-danger">
 Lembre-se que estes valores devem estar de acordo com os valores aceitos pela Amazon. Consulte os termos aceitos e faça o De/Para entre o que está cadastrado no seu campo de SKU na VTEX e os valores permitidos na Amazon.

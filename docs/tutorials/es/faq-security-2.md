@@ -1,5 +1,5 @@
 ---
-title: FAQ - Seguridad 2
+title: 'FAQ - Seguridad 2'
 id: 1ayXEtqawI9yuxFXutiITh
 status: DRAFT
 createdAt: 2022-05-26T13:33:48.633Z

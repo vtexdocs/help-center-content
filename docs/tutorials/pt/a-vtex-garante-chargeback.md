@@ -1,5 +1,5 @@
 ---
-title: A VTEX garante chargeback?
+title: 'A VTEX garante chargeback?'
 id: 6l3bFmHv74HD0QcWzLsOwf
 status: DRAFT
 createdAt: 2019-05-26T21:58:32.459Z

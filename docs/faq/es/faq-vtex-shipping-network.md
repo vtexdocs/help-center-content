@@ -1,5 +1,5 @@
 ---
-title: FAQ - VTEX Shipping Network
+title: 'FAQ - VTEX Shipping Network'
 id: 7rORylcjzSixyExqVhtmaW
 status: PUBLISHED
 createdAt: 2020-07-20T17:29:40.264Z

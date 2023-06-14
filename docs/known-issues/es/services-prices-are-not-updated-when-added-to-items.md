@@ -1,5 +1,5 @@
 ---
-title: Los precios de los servicios no se actualizan cuando se añaden a los artículos
+title: 'Los precios de los servicios no se actualizan cuando se añaden a los artículos'
 id: 5hJ7TbHzX4zFbdNWqPnMRQ
 status: PUBLISHED
 createdAt: 2023-05-09T14:27:37.283Z

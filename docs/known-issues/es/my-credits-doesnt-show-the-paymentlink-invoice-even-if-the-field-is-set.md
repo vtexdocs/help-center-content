@@ -1,5 +1,5 @@
 ---
-title: Mis créditos no muestran la factura de PaymentLink aunque el campo esté configurado
+title: 'Mis créditos no muestran la factura de PaymentLink aunque el campo esté configurado'
 id: YQ2hkDciJqNZiAfqdNO4t
 status: PUBLISHED
 createdAt: 2022-03-18T21:29:25.136Z

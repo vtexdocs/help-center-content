@@ -1,5 +1,5 @@
 ---
-title: La emisora no notifica todos los cambios de stock al módulo de búsqueda inteligente
+title: 'La emisora no notifica todos los cambios de stock al módulo de búsqueda inteligente'
 id: XLozPnuonjPImtZa8bWAz
 status: PUBLISHED
 createdAt: 2022-10-24T12:26:59.536Z

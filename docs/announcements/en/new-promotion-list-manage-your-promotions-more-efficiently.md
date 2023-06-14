@@ -1,5 +1,5 @@
 ---
-title: "New Promotion List: Manage your promotions more efficiently"
+title: 'New Promotion List: Manage your promotions more efficiently'
 id: 41WGnqeWRM4AWlTmoYqz8Y
 status: PUBLISHED
 createdAt: 2022-07-12T13:26:11.563Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: new-promotion-list-manage-your-promotions-more-efficiently
 legacySlug: new-promotion-list-manage-your-promotions-more-efficiently
-announcementImageID: ""
-announcementSynopsisEN: The new Promotion List allows you to manage your store's promotions in a complete and optimized way.
+announcementImageID: ''
+announcementSynopsisEN: 'The new Promotion List allows you to manage your store's promotions in a complete and optimized way.'
 ---
 
 Offering promotions is a method to increase customer attraction and retention by giving advantages such as discounts and gifts. Having an overall promotion management view is fundamental to taking strategic decisions and planning this type of action.
@@ -29,7 +29,7 @@ We developed a new interface for the Promotion List, which includes:
 * Exporting your active promotions list.
 * Duplicating active or archived promotions for a faster creation process.
 
-![lista-promocoes-en](https://images.ctfassets.net/alneenqid6w5/5J9dSnkUhLm1gTUjhUftrP/f08b0d232c4b386e29cc75c436f91471/promotions-list-en.PNG)
+![lista-promocoes-en](//images.ctfassets.net/alneenqid6w5/5J9dSnkUhLm1gTUjhUftrP/f08b0d232c4b386e29cc75c436f91471/promotions-list-en.PNG)
 
 ## Why did we make this change?
 

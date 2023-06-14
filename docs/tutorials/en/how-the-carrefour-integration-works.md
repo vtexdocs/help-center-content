@@ -1,5 +1,5 @@
 ---
-title: How the integration with Carrefour works
+title: 'How the integration with Carrefour works'
 id: UbtveAQnoQGKOkQIYG0uQ
 status: PUBLISHED
 createdAt: 2018-09-26T13:35:41.191Z

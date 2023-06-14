@@ -1,5 +1,5 @@
 ---
-title: Correos Electrónicos Transaccionales para Pedidos de Suscripción
+title: 'Correos Electrónicos Transaccionales para Pedidos de Suscripción'
 id: 2NYHqHMRqZ43Cn6s84ZCB5
 status: PUBLISHED
 createdAt: 2020-02-11T15:13:38.504Z
@@ -38,7 +38,7 @@ No es necesario activar el envío de correos electrónicos manualmente, pues se 
 5. Desactive la casilla `¿Activar envío de e-mail?`, que por defecto está marcada como activa.
 6. Haga clic en **Guardar**.
 
-![PT Subscription Message Center](https://images.ctfassets.net/alneenqid6w5/3g9hWtw1XUcYlUlwGCzagX/8161e2468d88999ec8505a46274b55f1/PT_Subscription_Message_Center.png)
+![PT Subscription Message Center](//images.ctfassets.net/alneenqid6w5/3g9hWtw1XUcYlUlwGCzagX/8161e2468d88999ec8505a46274b55f1/PT_Subscription_Message_Center.png)
 
 ## Plantillas Estándar del Centro de Mensajes 
 

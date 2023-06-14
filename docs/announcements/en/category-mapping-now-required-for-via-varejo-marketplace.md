@@ -1,5 +1,5 @@
 ---
-title: "Changes to Via Varejo product integration"
+title: 'Changes to Via Varejo product integration'
 id: 4iWQ1Kr44tw68pQ7yyL2bu
 status: CHANGED
 createdAt: 2020-04-06T23:53:19.365Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: category-mapping-now-required-for-via-varejo-marketplace
 legacySlug: changes-in-via-varejo-product-integration
-announcementImageID: ""
-announcementSynopsisEN: Make products more quickly available on the Via Varejo Marketplace by mapping categories, variations and attributes.
+announcementImageID: ''
+announcementSynopsisEN: 'Make products more quickly available on the Via Varejo Marketplace by mapping categories, variations and attributes.'
 ---
 
 The product integration flow on the Via Varejo Marketplace was [modified in their API V4](https://desenvolvedores.viavarejo.com.br/api-portal/content/integracao) to enhance the quality of the information in advertised products. In order to adapt to this evolution, we have included an additional step to the Via Varejo Integration - [mapping categories, variations and attributes](https://help.vtex.com/en/tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY/5QVZFYNfuRIQKdq34MbTxz#fazendo-o-upload).

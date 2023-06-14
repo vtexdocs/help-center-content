@@ -1,5 +1,5 @@
 ---
-title: Nombres de las sucursales VTEX en el mundo
+title: 'Nombres de las sucursales VTEX en el mundo'
 id: zg05n6OIOZOEmLW7dcq9z
 status: CHANGED
 createdAt: 2020-07-29T19:44:58.051Z

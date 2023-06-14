@@ -1,5 +1,5 @@
 ---
-title: Al añadir una SKU a través de nuestra funcionalidad "Cambiar pedido", el nombre del producto no se muestra en el pedido ni en la notificación por correo electrónico
+title: 'Al añadir una SKU a través de nuestra funcionalidad "Cambiar pedido", el nombre del producto no se muestra en el pedido ni en la notificación por correo electrónico'
 id: 35Q3KoOSsUr9n9XEDIk7nk
 status: PUBLISHED
 createdAt: 2022-04-07T14:53:35.829Z

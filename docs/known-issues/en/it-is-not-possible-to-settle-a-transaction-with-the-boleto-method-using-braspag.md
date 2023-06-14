@@ -1,5 +1,5 @@
 ---
-title: It is not possible to settle a transaction with the boleto method using BrasPag
+title: 'It is not possible to settle a transaction with the boleto method using BrasPag'
 id: 6bMohwJUByz5EX16Gn7CiR
 status: PUBLISHED
 createdAt: 2022-04-07T16:01:35.802Z

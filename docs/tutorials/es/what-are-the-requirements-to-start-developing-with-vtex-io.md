@@ -1,5 +1,5 @@
 ---
-title: ¿Cuáles son los requisitos previos para empezar a desarrollar en el VTEX IO?
+title: '¿Cuáles son los requisitos previos para empezar a desarrollar en el VTEX IO?'
 id: 20GMD10m1W0yQwwwyuWYG4
 status: DRAFT
 createdAt: 2019-01-24T20:45:41.828Z

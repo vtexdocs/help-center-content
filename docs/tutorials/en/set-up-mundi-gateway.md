@@ -1,5 +1,5 @@
 ---
-title: Set up Mundi gateway
+title: 'Set up Mundi gateway'
 id: 2yn9dKzvZOF5tn4RCX2Nbq
 status: PUBLISHED
 createdAt: 2019-04-04T21:12:48.808Z

@@ -1,5 +1,5 @@
 ---
-title: Glosario
+title: 'Glosario'
 id: 78y5kSB5GaS1XHH9qBr6mS
 status: PUBLISHED
 createdAt: 2022-01-10T20:50:30.066Z

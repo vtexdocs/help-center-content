@@ -1,5 +1,5 @@
 ---
-title: "Search filters in inStore's Endless Aisle"
+title: 'Search filters in inStore's Endless Aisle'
 id: 7wRkHWBnad2W1xILet7fyw
 status: PUBLISHED
 createdAt: 2021-12-02T16:43:25.612Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
 slug: search-filters-in-instores-endless-aisle
 legacySlug: search-filters-in-instores-endless-aisle
-announcementImageID: ""
-announcementSynopsisEN: VTEX Intelligent Search filters are now available in inStore's Endless Aisle.
+announcementImageID: ''
+announcementSynopsisEN: 'VTEX Intelligent Search filters are now available in inStore's Endless Aisle.'
 ---
 
 
@@ -25,7 +25,7 @@ Previously, VTEX Intelligent Search filters were not available in inStore, only 
 
 With the new feature, when searching for a term, sales associates can filter results by price range, department, and brand, for example, among other configurable filters in VTEX Intelligent Search. This allows them to quickly find the desired product.
 
-![instore-filtros-en](https://images.ctfassets.net/alneenqid6w5/2ppFcrZLpmUs1Sa1d93mYj/b253d8baf245473167c7ad606283b315/screencapture-demoinstore-myvtex-checkout-instore-2021-12-02-14_05_18.png)
+![instore-filtros-en](//images.ctfassets.net/alneenqid6w5/2ppFcrZLpmUs1Sa1d93mYj/b253d8baf245473167c7ad606283b315/screencapture-demoinstore-myvtex-checkout-instore-2021-12-02-14_05_18.png)
 
 ## Why did we make this change?
 

@@ -1,5 +1,5 @@
 ---
-title: Title y Alt de imágenes secundarias repiten contenido de imagen principal
+title: 'Title y Alt de imágenes secundarias repiten contenido de imagen principal'
 id: F3uErEnXLaa8GEesQkk0c
 status: PUBLISHED
 createdAt: 2017-09-27T20:06:18.992Z

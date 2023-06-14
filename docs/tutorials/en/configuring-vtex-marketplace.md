@@ -1,5 +1,5 @@
 ---
-title: Configuring a VTEX marketplace
+title: 'Configuring a VTEX marketplace'
 id: 7splyp5MqIyt2Iyz5jsNzb
 status: PUBLISHED
 createdAt: 2022-01-26T21:27:16.808Z

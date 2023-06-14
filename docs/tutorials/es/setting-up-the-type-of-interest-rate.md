@@ -1,5 +1,5 @@
 ---
-title: Configurar el tipo de interés de financiamiento
+title: 'Configurar el tipo de interés de financiamiento'
 id: 3h9ollbIS9YTXWcsmz8iF8
 status: DRAFT
 createdAt: 2019-02-13T16:48:24.960Z

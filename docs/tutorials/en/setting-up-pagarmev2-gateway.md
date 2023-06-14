@@ -1,5 +1,5 @@
 ---
-title: Setting up PagarMeV2 gateway
+title: 'Setting up PagarMeV2 gateway'
 id: 5TugxXNMOs0Ocyg4uqussM
 status: PUBLISHED
 createdAt: 2018-04-10T18:50:48.932Z

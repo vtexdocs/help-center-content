@@ -1,5 +1,5 @@
 ---
-title: El botón "Atrás" no aparece en Mi Organización
+title: 'El botón "Atrás" no aparece en Mi Organización'
 id: xzd2JVKP6jcTN0dGWwISB
 status: PUBLISHED
 createdAt: 2023-04-25T21:26:35.401Z

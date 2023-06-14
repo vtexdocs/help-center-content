@@ -1,5 +1,5 @@
 ---
-title: Catalog database registers SKUs with duplicate specifications
+title: 'Catalog database registers SKUs with duplicate specifications'
 id: zs3Gy1NQ9EYLpAlQ3aXXe
 status: PUBLISHED
 createdAt: 2022-03-04T18:24:48.159Z

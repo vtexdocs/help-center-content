@@ -1,5 +1,5 @@
 ---
-title: Como funciona a disponibilidade de estoque na página de produto
+title: 'Como funciona a disponibilidade de estoque na página de produto'
 id: gyVfuG5dTyUyGA02iiU0y
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:34.673Z

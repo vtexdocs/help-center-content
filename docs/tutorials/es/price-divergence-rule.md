@@ -1,5 +1,5 @@
 ---
-title: Regla de Divergencia de precios
+title: 'Regla de Divergencia de precios'
 id: 6RlFLhD1rIRRshl83KnCjW
 status: PUBLISHED
 createdAt: 2021-12-25T20:10:25.853Z

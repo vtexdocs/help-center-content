@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué está equivocado mi valor de  flete?
+title: '¿Por qué está equivocado mi valor de  flete?'
 id: frequentlyAskedQuestions_163
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:27.397Z
@@ -22,7 +22,7 @@ Se calcula el valor de flete en base a varios factores: tabla de flete, adiciona
 3. Aquí, usted verificará el valor catastrado en la plantilla más todos los [adicionales](/es/tutorial/como-se-maneja-el-adicional-de-carga) sumados a ese valor.
 4. Caso el valor todavía no este condecente con el exhibido en la tienda, siga los pasos abajo para verificar si no hay ninguna promoción alterando el valor del flete.
 
-![por-que-meu-valor-de-frete-esta-errado sp](https://images.ctfassets.net/alneenqid6w5/6Olcu5Bw88Q0Q644gQ06qQ/803b38526bb74d1fcafa2400355b8f1e/por-que-meu-valor-de-frete-esta-errado_sp.jpg)
+![por-que-meu-valor-de-frete-esta-errado sp](//images.ctfassets.net/alneenqid6w5/6Olcu5Bw88Q0Q644gQ06qQ/803b38526bb74d1fcafa2400355b8f1e/por-que-meu-valor-de-frete-esta-errado_sp.jpg)
 
 ## Promoción
 
@@ -31,4 +31,4 @@ Se calcula el valor de flete en base a varios factores: tabla de flete, adiciona
 3. Verifique el box __Valor Total__.
 4. Verifique si, entre las promociones, existe alguna con descuento en flete. Para verificar, basta que aceda la promoción del pedido y verifique el tipo de descuento.
 
-![valortotal es](https://images.ctfassets.net/alneenqid6w5/4vNJocmHWEqoqWGQgyU6Ck/d0a87594351705001565612159df9312/valortotal_es.jpg)
+![valortotal es](//images.ctfassets.net/alneenqid6w5/4vNJocmHWEqoqWGQgyU6Ck/d0a87594351705001565612159df9312/valortotal_es.jpg)

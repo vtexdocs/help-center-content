@@ -1,5 +1,5 @@
 ---
-title: Mapeamento de canais de venda
+title: 'Mapeamento de canais de venda'
 id: 5oDUsde0bNmQmR8WF36U8l
 status: CHANGED
 createdAt: 2020-06-30T00:29:31.613Z

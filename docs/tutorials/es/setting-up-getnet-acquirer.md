@@ -1,5 +1,5 @@
 ---
-title: Configurar adquirente Getnet
+title: 'Configurar adquirente Getnet'
 id: 5jKTzassnCkOcU4AIGc6W6
 status: DRAFT
 createdAt: 2018-03-05T19:25:46.439Z

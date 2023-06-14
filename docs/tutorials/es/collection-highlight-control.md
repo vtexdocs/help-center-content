@@ -1,5 +1,5 @@
 ---
-title: Control de destaque de colección
+title: 'Control de destaque de colección'
 id: 1tGdb2ndjqy6yWsk2YwKMu
 status: PUBLISHED
 createdAt: 2018-02-21T19:12:49.216Z

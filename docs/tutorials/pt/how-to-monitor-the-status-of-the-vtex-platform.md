@@ -1,5 +1,5 @@
 ---
-title: Acompanhar o status da plataforma VTEX
+title: 'Acompanhar o status da plataforma VTEX'
 id: frequentlyAskedQuestions_5057
 status: DRAFT
 createdAt: 2019-01-24T20:46:02.179Z

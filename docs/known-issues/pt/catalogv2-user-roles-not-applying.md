@@ -1,5 +1,5 @@
 ---
-title: CatalogV2 Funções do usuário que não se aplicam
+title: 'CatalogV2 Funções do usuário que não se aplicam'
 id: 3cDaOuqpAJyCL5JOMzD5nL
 status: PUBLISHED
 createdAt: 2022-02-25T12:18:17.776Z

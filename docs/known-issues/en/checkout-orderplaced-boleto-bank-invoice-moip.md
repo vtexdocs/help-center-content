@@ -1,5 +1,5 @@
 ---
-title: Checkout orderPlaced Boleto Bank Invoice MOIP
+title: 'Checkout orderPlaced Boleto Bank Invoice MOIP'
 id: 6LfWcVU6fgXalUXslYATIc
 status: PUBLISHED
 createdAt: 2022-05-18T18:35:54.748Z

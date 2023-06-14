@@ -1,5 +1,5 @@
 ---
-title: ¿Qué es el checkout transparente?
+title: '¿Qué es el checkout transparente?'
 id: 2Y4ECegUmcYUggmck2GOwe
 status: CHANGED
 createdAt: 2018-02-27T18:58:12.252Z

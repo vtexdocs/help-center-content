@@ -1,5 +1,5 @@
 ---
-title: Contratar o certificado de segurança (SSL)
+title: 'Contratar o certificado de segurança (SSL)'
 id: tutorials_1308
 status: PUBLISHED
 createdAt: 2017-04-27T21:56:41.946Z

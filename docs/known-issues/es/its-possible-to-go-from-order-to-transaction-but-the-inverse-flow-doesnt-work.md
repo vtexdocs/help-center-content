@@ -1,5 +1,5 @@
 ---
-title: Es posible pasar de la orden a la transacción pero el flujo inverso no funciona
+title: 'Es posible pasar de la orden a la transacción pero el flujo inverso no funciona'
 id: 6du2dTCMNwdGDua01BEKAU
 status: PUBLISHED
 createdAt: 2022-03-15T20:54:12.442Z

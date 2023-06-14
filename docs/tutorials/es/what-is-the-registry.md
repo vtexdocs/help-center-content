@@ -1,5 +1,5 @@
 ---
-title: 
+title: ''
 id: LEI3vejZkcKgGia8GQE44
 status: DRAFT
 createdAt: 2017-11-22T13:54:49.749Z

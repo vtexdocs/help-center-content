@@ -1,5 +1,5 @@
 ---
-title: "Ahora usted puede integrar pedidos de marketplace con divergencia de precio"
+title: 'Ahora usted puede integrar pedidos de marketplace con divergencia de precio'
 id: 2hbmlBKFeU0OsECukOcw4w
 status: PUBLISHED
 createdAt: 2018-11-12T17:52:20.888Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 245tA425AIeioKAk2eaiwS
 slug: aumente-sus-ventas-en-marketplace
 legacySlug: aumente-sus-ventas-en-marketplace
-announcementImageID: ""
-announcementSynopsisES: Nueva feature facilita la identificación de pedidos con divergencia en el precio y permite que su tienda recupere ventas
+announcementImageID: ''
+announcementSynopsisES: 'Nueva feature facilita la identificación de pedidos con divergencia en el precio y permite que su tienda recupere ventas'
 ---
 
 <div class ="alert alert-warning">

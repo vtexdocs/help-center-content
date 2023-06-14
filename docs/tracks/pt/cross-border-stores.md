@@ -1,5 +1,5 @@
 ---
-title: Lojas internacionais (cross-border)
+title: 'Lojas internacionais (cross-border)'
 id: 5qgXy9Erm7FDP3UB5Ox8Bs
 status: PUBLISHED
 createdAt: 2022-05-25T18:58:42.375Z

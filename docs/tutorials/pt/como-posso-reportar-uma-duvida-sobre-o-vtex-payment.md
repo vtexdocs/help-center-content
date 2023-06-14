@@ -1,5 +1,5 @@
 ---
-title: Como posso reportar uma dúvida sobre o VTEX Payment?
+title: 'Como posso reportar uma dúvida sobre o VTEX Payment?'
 id: 1qQJfcs7W3gJjcTOtU8bW3
 status: DRAFT
 createdAt: 2019-05-26T23:54:56.981Z

@@ -1,5 +1,5 @@
 ---
-title: A cidade e o estado não são enviados ao PayPalPlus quando há apenas um endereço de retirada disponível
+title: 'A cidade e o estado não são enviados ao PayPalPlus quando há apenas um endereço de retirada disponível'
 id: 5ScWTMLqT9oBMUYFc6WGo2
 status: PUBLISHED
 createdAt: 2023-06-01T13:47:08.477Z

@@ -1,5 +1,5 @@
 ---
-title: CMS - Visão Geral
+title: 'CMS - Visão Geral'
 id: 2X1xWJi9WmtNylxmggn3ts
 status: PUBLISHED
 createdAt: 2023-03-29T18:36:32.910Z
@@ -14,7 +14,7 @@ legacySlug: cms-visao-geral
 subcategory: 3PNmhq67KMmGTBSfIWJdcQ
 ---
 
-![CMS Capa overview](https://images.ctfassets.net/alneenqid6w5/5FaFzk5z2vdyWIKl5AlCby/e241b8b8231499bfec4c8ce67fb27d0b/CAPA_OVERVIEW_CMS.png)
+![CMS Capa overview](//images.ctfassets.net/alneenqid6w5/5FaFzk5z2vdyWIKl5AlCby/e241b8b8231499bfec4c8ce67fb27d0b/CAPA_OVERVIEW_CMS.png)
 
 CMS (Content Management System) é uma funcionalidade voltada para o gerenciamento de conteúdo de forma prática e constante.
 

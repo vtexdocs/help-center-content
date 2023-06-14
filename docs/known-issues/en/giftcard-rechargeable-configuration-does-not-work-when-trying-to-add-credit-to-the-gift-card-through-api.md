@@ -1,5 +1,5 @@
 ---
-title: Giftcard Rechargeable configuration does not work when trying to add credit to the gift card through API
+title: 'Giftcard Rechargeable configuration does not work when trying to add credit to the gift card through API'
 id: 3MXPd85Km51KpO4FNPqlDf
 status: PUBLISHED
 createdAt: 2022-05-23T14:21:10.608Z

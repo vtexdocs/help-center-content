@@ -1,5 +1,5 @@
 ---
-title: Configurações do público-alvo
+title: 'Configurações do público-alvo'
 id: 4pSWJqg6EoI8mRjPhFNqLX
 status: DRAFT
 createdAt: 2020-06-29T21:25:09.623Z

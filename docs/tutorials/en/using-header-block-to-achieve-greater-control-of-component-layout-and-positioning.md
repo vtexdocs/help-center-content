@@ -1,5 +1,5 @@
 ---
-title: Using Header block to achieve greater control of component layout and positioning
+title: 'Using Header block to achieve greater control of component layout and positioning'
 id: 2lA9KLBZtjXRlQdjOUcouF
 status: DRAFT
 createdAt: 2019-04-04T17:54:33.106Z

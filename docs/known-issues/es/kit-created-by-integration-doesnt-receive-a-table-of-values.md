@@ -1,5 +1,5 @@
 ---
-title: Kit creado por integración no recibe una lista de precios
+title: 'Kit creado por integración no recibe una lista de precios'
 id: 1IhCGsM5a48Ai6IESYCeGQ
 status: PUBLISHED
 createdAt: 2017-03-29T23:46:50.768Z

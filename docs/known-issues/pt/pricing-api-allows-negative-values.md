@@ -1,5 +1,5 @@
 ---
-title: A API de preços permite valores negativos
+title: 'A API de preços permite valores negativos'
 id: 64gkWnDs5pvv8Ny1TJtTI0
 status: PUBLISHED
 createdAt: 2023-03-20T20:09:54.998Z

@@ -1,5 +1,5 @@
 ---
-title: Templates de emails transacionais referentes ao pedido
+title: 'Templates de emails transacionais referentes ao pedido'
 id: 3g2S2kqBOoSGcCaqMYK2my
 status: PUBLISHED
 createdAt: 2018-11-06T21:01:19.818Z

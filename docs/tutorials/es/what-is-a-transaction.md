@@ -1,5 +1,5 @@
 ---
-title: ¿Qué es una transacción?
+title: '¿Qué es una transacción?'
 id: 36vMP5PES4oUWMWQuskIQ6
 status: CHANGED
 createdAt: 2018-02-23T16:09:38.585Z

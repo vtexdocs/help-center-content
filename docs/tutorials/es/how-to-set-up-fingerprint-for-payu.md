@@ -1,5 +1,5 @@
 ---
-title: Configurar FingerPrint para PayU
+title: 'Configurar FingerPrint para PayU'
 id: 4Gim58iszSuoqW2884gsu8
 status: PUBLISHED
 createdAt: 2017-07-19T14:43:16.588Z

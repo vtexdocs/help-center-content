@@ -1,5 +1,5 @@
 ---
-title: Qual é a diferença entre uma app dependency  e uma peer dependency? 
+title: 'Qual é a diferença entre uma app dependency  e uma peer dependency? '
 id: 13co2PvHHnsDNBNyrWXXvM
 status: DRAFT
 createdAt: 2019-04-01T21:52:38.336Z

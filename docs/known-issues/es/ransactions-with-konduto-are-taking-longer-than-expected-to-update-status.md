@@ -1,5 +1,5 @@
 ---
-title: as transacciones con Konduto tardan más de lo previsto en actualizar su estado
+title: 'as transacciones con Konduto tardan más de lo previsto en actualizar su estado'
 id: 5yUSXenLjlEdESoj5VVvoH
 status: PUBLISHED
 createdAt: 2022-03-11T18:56:45.293Z

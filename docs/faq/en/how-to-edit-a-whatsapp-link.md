@@ -1,5 +1,5 @@
 ---
-title: How to edit a WhatsApp link?
+title: 'How to edit a WhatsApp link?'
 id: 6RGpGstzD6ccpujWfLYvA3
 status: PUBLISHED
 createdAt: 2022-08-30T11:50:40.877Z

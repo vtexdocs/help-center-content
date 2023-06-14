@@ -1,5 +1,5 @@
 ---
-title: "Requisições com paginação na API de busca vão mudar"
+title: 'Requisições com paginação na API de busca vão mudar'
 id: 3UZR4qoAisiqE6kmuuYEAc
 status: CHANGED
 createdAt: 2018-01-24T14:11:26.225Z
@@ -10,8 +10,8 @@ productTeam: Identity
 author: authors_24
 slug: as-requisicoes-com-paginacao-na-api-de-busca-vao-mudar
 legacySlug: as-requisicoes-com-paginacao-na-api-de-busca-vao-mudar
-announcementImageID: ""
-announcementSynopsisPT: A partir de 31/03/18, requisições com paginação na API de busca não vão ser feitas com o header resources do request.
+announcementImageID: ''
+announcementSynopsisPT: 'A partir de 31/03/18, requisições com paginação na API de busca não vão ser feitas com o header resources do request.'
 ---
 
 <div class = "alert alert-warning">

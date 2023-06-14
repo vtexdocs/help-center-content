@@ -1,5 +1,5 @@
 ---
-title: Why is my order with available stock failing in Orders module?
+title: 'Why is my order with available stock failing in Orders module?'
 id: 2FZHMJFo8oyWW46gYSqqOc
 status: PUBLISHED
 createdAt: 2018-03-07T14:26:47.000Z

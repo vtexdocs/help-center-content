@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo actualizar la imagen de un SKU?
+title: '¿Cómo actualizar la imagen de un SKU?'
 id: 5PMb54FnvUuWOq2qGyAosu
 status: PUBLISHED
 createdAt: 2018-01-24T17:56:32.670Z

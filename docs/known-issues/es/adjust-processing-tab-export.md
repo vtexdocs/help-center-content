@@ -1,5 +1,5 @@
 ---
-title: Ajustar la exportación de la pestaña de procesamiento
+title: 'Ajustar la exportación de la pestaña de procesamiento'
 id: 1oiPXaKwfCGEPtZbDlHurf
 status: PUBLISHED
 createdAt: 2022-09-20T19:07:13.380Z

@@ -1,5 +1,5 @@
 ---
-title: Versão Desktop da renderização do site ao acessar via IPad no Safari
+title: 'Versão Desktop da renderização do site ao acessar via IPad no Safari'
 id: 17jzhKnc8X1bKo5ExwEY5L
 status: PUBLISHED
 createdAt: 2023-01-17T18:24:02.908Z

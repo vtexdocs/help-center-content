@@ -1,5 +1,5 @@
 ---
-title: Gestão de estoques Pesquisa não funciona corretamente nas contas do portal do vendedor
+title: 'Gestão de estoques Pesquisa não funciona corretamente nas contas do portal do vendedor'
 id: 7pCEQVKpXDq8NwtMXDxlFT
 status: PUBLISHED
 createdAt: 2022-11-08T18:55:29.448Z

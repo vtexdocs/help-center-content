@@ -1,5 +1,5 @@
 ---
-title: Configurar a integração com o FBE no Admin VTEX
+title: 'Configurar a integração com o FBE no Admin VTEX'
 id: jUtgjBDumr5oGWIU7mVLC
 status: PUBLISHED
 createdAt: 2021-09-30T16:07:29.101Z

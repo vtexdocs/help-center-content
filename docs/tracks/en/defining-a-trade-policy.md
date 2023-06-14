@@ -1,5 +1,5 @@
 ---
-title: Defining a trade policy
+title: 'Defining a trade policy'
 id: 747gwmk5oMkyb6FtwLo17B
 status: PUBLISHED
 createdAt: 2021-02-08T19:01:29.489Z

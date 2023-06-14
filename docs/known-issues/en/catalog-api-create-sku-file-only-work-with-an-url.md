@@ -1,5 +1,5 @@
 ---
-title: Catalog API Create SKU File only work with an URL
+title: 'Catalog API Create SKU File only work with an URL'
 id: 2rbU28Rw8AESiAvzuc6cWf
 status: PUBLISHED
 createdAt: 2022-10-26T13:30:57.669Z

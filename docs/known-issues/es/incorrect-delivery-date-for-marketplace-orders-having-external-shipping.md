@@ -1,5 +1,5 @@
 ---
-title: Fecha de entrega incorrecta en pedidos de mercado con flete externo
+title: 'Fecha de entrega incorrecta en pedidos de mercado con flete externo'
 id: 4h0Dk87KX6oGY2kGwG2kGS
 status: PUBLISHED
 createdAt: 2018-11-15T17:26:02.509Z

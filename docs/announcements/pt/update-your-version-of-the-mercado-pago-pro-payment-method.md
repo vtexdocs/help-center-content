@@ -1,5 +1,5 @@
 ---
-title: "Mercado Pago Pro: atualize a versão do meio de pagamento"
+title: 'Mercado Pago Pro: atualize a versão do meio de pagamento'
 id: 3dEciFxBFjH5yoQWdRtzTj
 status: PUBLISHED
 createdAt: 2020-11-23T10:39:05.840Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: mercado-pago-pro-atualize-a-versao-do-meio-de-pagamento
 legacySlug: mercado-pago-pro-atualize-a-versao-do-meio-de-pagamento
-announcementImageID: ""
-announcementSynopsisPT: A solução foi atualizada para finalizar compras sem redirect. 
+announcementImageID: ''
+announcementSynopsisPT: 'A solução foi atualizada para finalizar compras sem redirect. '
 ---
 
 O Mercado Pago Pro é um dos meios de pagamento oferecidos pela [carteira digital ](https://help.vtex.com/pt/tutorial/o-que-e-uma-carteira-digital-e-wallet "carteira digital")Mercado Pago. Com ele, o consumidor pode finalizar uma compra no Checkout sem precisar fazer o login em sua conta. 

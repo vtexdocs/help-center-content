@@ -1,5 +1,5 @@
 ---
-title: Casos que no son aplicables
+title: 'Casos que no son aplicables'
 id: 2fLUDtyBcl6gRHOU6G6L00
 status: DRAFT
 createdAt: 2020-11-05T20:17:24.312Z

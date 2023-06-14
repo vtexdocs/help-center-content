@@ -1,5 +1,5 @@
 ---
-title: "Informações de IP e Geolocalização agora estão disponíveis nos emails de códigos de acesso para o Admin"
+title: 'Informações de IP e Geolocalização agora estão disponíveis nos emails de códigos de acesso para o Admin'
 id: 7FWf5mds1Wn3thuzb1uMzq
 status: PUBLISHED
 createdAt: 2020-11-12T20:11:43.221Z
@@ -10,8 +10,8 @@ productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: informacoes-de-ip-e-geolocalizacao-agora-estao-disponiveis-nos-emails-de
 legacySlug: informacoes-de-ip-e-geolocalizacao-agora-estao-disponiveis-nos-emails-de
-announcementImageID: ""
-announcementSynopsisPT: O email com código para requisição de acesso para o Admin agora contém informações sobre o dispositivo de origem.
+announcementImageID: ''
+announcementSynopsisPT: 'O email com código para requisição de acesso para o Admin agora contém informações sobre o dispositivo de origem.'
 ---
 
 ## O que mudou?
@@ -27,4 +27,4 @@ Ao tentar acessar o Admin de uma loja usando um endereço de email, você tem a 
 
 Segurança é uma das principais preocupações na VTEX, e isso se torna ainda mais importante quando estamos próximos de grandes eventos como a Black Friday. Esse novo recurso pode ajudar a identificar a fonte de uma tentativa de acesso indesejado.
 
-![IP Geolocation email - PT](https://images.ctfassets.net/alneenqid6w5/2lDMP34wKY5qrn4TtIPvKr/0f65303dae22ac38b6f66e1942830224/IP_Geolocation_email_-_PT.png)
+![IP Geolocation email - PT](//images.ctfassets.net/alneenqid6w5/2lDMP34wKY5qrn4TtIPvKr/0f65303dae22ac38b6f66e1942830224/IP_Geolocation_email_-_PT.png)

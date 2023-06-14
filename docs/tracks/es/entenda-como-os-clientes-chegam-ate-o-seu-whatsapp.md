@@ -1,5 +1,5 @@
 ---
-title: Entienda cómo llegan los clientes a su WhatsApp
+title: 'Entienda cómo llegan los clientes a su WhatsApp'
 id: 5eLRT51rPMy0zwDVAAJLWH
 status: DRAFT
 createdAt: 2022-08-25T18:13:42.342Z

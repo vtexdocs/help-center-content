@@ -1,5 +1,5 @@
 ---
-title: FAQ VTEX Gerenciamento de Pedidos
+title: 'FAQ VTEX Gerenciamento de Pedidos'
 id: 4vddUgU784wyGYQ64cw6I8
 status: DRAFT
 createdAt: 2018-07-20T17:27:48.286Z

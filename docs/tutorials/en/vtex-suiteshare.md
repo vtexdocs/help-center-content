@@ -1,5 +1,5 @@
 ---
-title: VTEX Assisted Sales (SuiteShare)
+title: 'VTEX Assisted Sales (SuiteShare)'
 id: 6BLvYzDXeQcJnygEHphVLz
 status: PUBLISHED
 createdAt: 2022-08-30T19:47:08.575Z

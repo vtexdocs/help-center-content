@@ -1,5 +1,5 @@
 ---
-title: "Indexer: Catalog performance improvements"
+title: 'Indexer: Catalog performance improvements'
 id: 2Nfc5iqFqd7YOgevFmgkXP
 status: PUBLISHED
 createdAt: 2020-08-04T19:45:49.927Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: catalog-indexer-performance-improvements
 legacySlug: indexador-melhorias-de-desempenho-para-o-catalogo
-announcementImageID: ""
-announcementSynopsisEN: To improve the Catalog experience, we have enhanced the performance of the Indexer.
+announcementImageID: ''
+announcementSynopsisEN: 'To improve the Catalog experience, we have enhanced the performance of the Indexer.'
 ---
 
 New improvements to the performance of the Catalog Indexer.

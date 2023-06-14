@@ -1,5 +1,5 @@
 ---
-title: ¿Qué considera VTEX como ingresos en el cálculo de la factura?
+title: '¿Qué considera VTEX como ingresos en el cálculo de la factura?'
 id: 58j4cfoXfisWyemASACwSq
 status: CHANGED
 createdAt: 2019-01-24T20:45:47.341Z
@@ -32,7 +32,7 @@ Para saber cómo acceder a los pedidos que se consideraron en el cálculo de los
 Para facilitar su visualización, todos los pedidos aprobados financieramente estarán marcados de esta forma, que se puede ver en el módulo de gestión de pedidos. 
 
 
-![image (4)](https://images.ctfassets.net/alneenqid6w5/6HOwNB7DXzMr3pCPmeZkGS/4088a657730d190f8e4e2388295fd827/image__4_.png)
+![image (4)](//images.ctfassets.net/alneenqid6w5/6HOwNB7DXzMr3pCPmeZkGS/4088a657730d190f8e4e2388295fd827/image__4_.png)
 
 
 Para acceder al módulo, realice el siguiente procedimiento:

@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Flywire
+title: 'Configurar pago con Flywire'
 id: 12nQ0teCWM1UUtd2Fo6lzO
 status: PUBLISHED
 createdAt: 2023-04-03T13:05:10.955Z

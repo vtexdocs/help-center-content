@@ -1,5 +1,5 @@
 ---
-title: Publishing an app to the current account's registry
+title: 'Publishing an app to the current account's registry'
 id: 4YZ1gbhtxmC4cYUmIaOs2Y
 status: DRAFT
 createdAt: 2018-02-22T01:46:04.405Z

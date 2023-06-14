@@ -1,5 +1,5 @@
 ---
-title: Instalar o TaxHub
+title: 'Instalar o TaxHub'
 id: ar3F62QNwcg8oyUwM0wWu
 status: DRAFT
 createdAt: 2017-08-02T13:10:47.510Z

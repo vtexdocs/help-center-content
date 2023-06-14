@@ -1,5 +1,5 @@
 ---
-title: Cómo crear una promoción para sitios parceros o e-mail marketing
+title: 'Cómo crear una promoción para sitios parceros o e-mail marketing'
 id: 20BIhDMHKgy6YuGQKQ882s
 status: DRAFT
 createdAt: 2017-07-07T01:16:15.634Z

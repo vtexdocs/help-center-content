@@ -1,5 +1,5 @@
 ---
-title: Error de importación de productos compartidos
+title: 'Error de importación de productos compartidos'
 id: 7Ac5m90azZwKSOfPsz8zyC
 status: PUBLISHED
 createdAt: 2023-05-08T20:46:06.781Z

@@ -1,5 +1,5 @@
 ---
-title: Cadastrar regra de preço
+title: 'Cadastrar regra de preço'
 id: 7fyZaYe1IGzL0qVC28tOBO
 status: PUBLISHED
 createdAt: 2019-07-04T13:53:15.461Z

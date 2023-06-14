@@ -1,5 +1,5 @@
 ---
-title: Os pagamentos de débito usando o conector Firstdata não podem ser liquidados devido a um erro no campo TransactionState
+title: 'Os pagamentos de débito usando o conector Firstdata não podem ser liquidados devido a um erro no campo TransactionState'
 id: 6imTj4PTpJGGFqyhSLTPu9
 status: PUBLISHED
 createdAt: 2022-03-03T21:59:55.119Z

@@ -1,5 +1,5 @@
 ---
-title: [Magalu] Sku sendo integrado com especificações de outro marketplace
+title: '[Magalu] Sku sendo integrado com especificações de outro marketplace'
 id: 4AYsfMTB2HVmp2PnOG2plY
 status: PUBLISHED
 createdAt: 2022-10-31T19:29:16.911Z

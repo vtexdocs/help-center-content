@@ -1,5 +1,5 @@
 ---
-title: La condición especial del banco emisor está causando para algunos BINs el error en la página de pago "El banco emisor para este banco no es aceptado"
+title: 'La condición especial del banco emisor está causando para algunos BINs el error en la página de pago "El banco emisor para este banco no es aceptado"'
 id: 7HgNpwcvqQDwSfJfv9KpY8
 status: PUBLISHED
 createdAt: 2022-03-25T19:04:12.310Z

@@ -1,5 +1,5 @@
 ---
-title: Setting up 3DS 2 authentication flow
+title: 'Setting up 3DS 2 authentication flow'
 id: 58XMn5LOA6fwrSkoDoAsg2
 status: PUBLISHED
 createdAt: 2020-11-26T18:03:32.678Z

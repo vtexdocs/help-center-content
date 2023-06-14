@@ -1,5 +1,5 @@
 ---
-title: Alteração de itens de um pedido finalizado
+title: 'Alteração de itens de um pedido finalizado'
 id: tutorials_190
 status: PUBLISHED
 createdAt: 2017-04-27T22:15:22.411Z

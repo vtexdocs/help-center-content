@@ -1,5 +1,5 @@
 ---
-title: Configuring register the Carrefour integration
+title: 'Configuring register the Carrefour integration'
 id: 2AhqcmRN1mseCsGuGIe6GK
 status: PUBLISHED
 createdAt: 2018-10-08T23:26:55.073Z

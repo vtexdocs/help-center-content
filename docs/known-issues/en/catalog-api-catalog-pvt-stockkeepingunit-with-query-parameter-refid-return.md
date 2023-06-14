@@ -1,5 +1,5 @@
 ---
-title: Catalog API /catalog/pvt/stockkeepingunit with query parameter refId return field Videos as empty
+title: 'Catalog API /catalog/pvt/stockkeepingunit with query parameter refId return field Videos as empty'
 id: 71Y9CFaM10xaVyQkcgKydQ
 status: PUBLISHED
 createdAt: 2022-01-21T15:28:34.187Z

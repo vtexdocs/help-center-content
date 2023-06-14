@@ -1,5 +1,5 @@
 ---
-title: inStore as a POS
+title: 'inStore as a POS'
 id: 5XWo7q35jkDDq3PxUs1EVi
 status: DRAFT
 createdAt: 2020-07-01T12:46:45.819Z

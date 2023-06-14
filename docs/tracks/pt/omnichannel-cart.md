@@ -1,5 +1,5 @@
 ---
-title: Carrinho Omnichannel
+title: 'Carrinho Omnichannel'
 id: 1MXhIOrlzqQlsV2c76YCpY
 status: PUBLISHED
 createdAt: 2021-08-05T13:50:28.087Z

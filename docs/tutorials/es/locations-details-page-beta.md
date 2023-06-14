@@ -1,5 +1,5 @@
 ---
-title: Página de detalles de la localidad (Beta)
+title: 'Página de detalles de la localidad (Beta)'
 id: 3se4QBRYsNCwC8Wo56J6zG
 status: PUBLISHED
 createdAt: 2023-05-09T16:24:38.315Z

@@ -1,5 +1,5 @@
 ---
-title: Setting up Itaú registered ticket (ItauShopline)
+title: 'Setting up Itaú registered ticket (ItauShopline)'
 id: 3TqzCHPU7KIYGsOKuUeQcq
 status: PUBLISHED
 createdAt: 2018-02-28T15:50:53.154Z

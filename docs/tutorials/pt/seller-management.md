@@ -1,5 +1,5 @@
 ---
-title: Gerenciamento de Sellers 
+title: 'Gerenciamento de Sellers '
 id: 6eEiOISwxuAWJ8w6MtK7iv
 status: PUBLISHED
 createdAt: 2022-02-01T21:36:48.023Z
@@ -16,7 +16,7 @@ subcategory: 2xWRgEIlR2ookieEmm4KQu
 
 __Gerenciamento de Sellers__ é a página onde operadores de marketplace [adicionam sellers](https://help.vtex.com/pt/tutorial/adicionar-seller--tutorials_392), registram suas informações e administram seus status. A página inclui métricas de andamento da operação de marketplace. Também é possível aplicar filtros nos resultados da lista de sellers e agrupar sellers por meio da opção Grupos que permite filtrar resultados mais facilmente.  
 
-![Seller management gif 2022 launch](https://images.ctfassets.net/alneenqid6w5/6nedzBeTr3y9d47ArKh40r/d280e61590f95fcd669cf45b137790f8/Seller_Management.gif)
+![Seller management gif 2022 launch](//images.ctfassets.net/alneenqid6w5/6nedzBeTr3y9d47ArKh40r/d280e61590f95fcd669cf45b137790f8/Seller_Management.gif)
 
 ## Métricas
 A página apresenta métricas gerais dos sellers:
@@ -45,7 +45,7 @@ Com essa funcionalidade, lojistas otimizam cenários de acompanhamento da opera�
 
 Grupos são criados manualmente ao Adicionar seller ou clicando em Gerenciar grupos e após criados é possível editar e excluir cada um deles.  
 
-![Gerenciamento de sellers](https://images.ctfassets.net/alneenqid6w5/1dkekloSl228CxABGgylD7/cb37f601d4b9a096b0c1e94c03b90c11/gerenciamento_de_seller.png)  
+![Gerenciamento de sellers](//images.ctfassets.net/alneenqid6w5/1dkekloSl228CxABGgylD7/cb37f601d4b9a096b0c1e94c03b90c11/gerenciamento_de_seller.png)  
 
 ## Gerenciar grupos  
 

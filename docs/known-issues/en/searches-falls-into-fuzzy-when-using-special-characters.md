@@ -1,5 +1,5 @@
 ---
-title: Searches falls into fuzzy when using special characters
+title: 'Searches falls into fuzzy when using special characters'
 id: 3qbzEcCkXpaPA0U23trlwT
 status: PUBLISHED
 createdAt: 2022-04-26T22:41:20.214Z

@@ -1,5 +1,5 @@
 ---
-title: Creating appKeys and appTokens to authenticate integrations
+title: 'Creating appKeys and appTokens to authenticate integrations'
 id: 43tQeyQJgAKGEuCqQKAOI2
 status: DRAFT
 createdAt: 2017-10-24T13:30:43.908Z

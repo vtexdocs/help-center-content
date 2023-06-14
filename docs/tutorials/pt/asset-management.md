@@ -1,5 +1,5 @@
 ---
-title: Gestão de ativos
+title: 'Gestão de ativos'
 id: 4g1ixefVzXf0xfEAfEXdAF
 status: DRAFT
 createdAt: 2022-05-26T13:53:07.312Z

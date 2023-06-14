@@ -1,5 +1,5 @@
 ---
-title: Netshoes inventory integration errors
+title: 'Netshoes inventory integration errors'
 id: 2solm6TXBNVHboVEduYN5g
 status: PUBLISHED
 createdAt: 2021-12-30T20:43:17.879Z

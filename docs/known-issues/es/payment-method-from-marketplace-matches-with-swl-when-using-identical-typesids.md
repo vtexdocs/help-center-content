@@ -1,5 +1,5 @@
 ---
-title: El método de pago de Marketplace coincide con el de SWL cuando se utilizan tipos idénticos:ids
+title: 'El método de pago de Marketplace coincide con el de SWL cuando se utilizan tipos idénticos:ids'
 id: 4AHyl5z7ySagx6Myx0KqM7
 status: PUBLISHED
 createdAt: 2022-03-15T22:06:35.540Z

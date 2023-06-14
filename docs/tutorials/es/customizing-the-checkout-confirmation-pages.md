@@ -1,5 +1,5 @@
 ---
-title: Personalizar las páginas del Checkout Confirmation
+title: 'Personalizar las páginas del Checkout Confirmation'
 id: 7CbAZNHGI8uUO8aSgWmcsS
 status: DRAFT
 createdAt: 2017-05-22T22:44:50.173Z

@@ -1,5 +1,5 @@
 ---
-title: As buscas ficam confusas quando se usam caracteres especiais
+title: 'As buscas ficam confusas quando se usam caracteres especiais'
 id: 3qbzEcCkXpaPA0U23trlwT
 status: PUBLISHED
 createdAt: 2022-04-26T22:41:20.214Z

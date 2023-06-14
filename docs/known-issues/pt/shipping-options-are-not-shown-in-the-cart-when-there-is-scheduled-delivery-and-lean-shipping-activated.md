@@ -1,5 +1,5 @@
 ---
-title: As opções de frete não são exibidas no carrinho quando há entrega programada e o Lean Shipping está ativado
+title: 'As opções de frete não são exibidas no carrinho quando há entrega programada e o Lean Shipping está ativado'
 id: 36iHQO4mxxTY2KbF8mkrDv
 status: PUBLISHED
 createdAt: 2023-05-26T21:26:45.607Z

@@ -1,5 +1,5 @@
 ---
-title: "Customer Credit: flexibilice sus condiciones de pago con intereses "
+title: 'Customer Credit: flexibilice sus condiciones de pago con intereses '
 id: 5B1FjEk1pn33PPGlRsPDm
 status: CHANGED
 createdAt: 2020-04-20T22:08:31.800Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: customer-credit-flexibilice-sus-condiciones-de-pago-con-intereses
 legacySlug: customer-credit-flexibilice-sus-condiciones-de-pago-con-intereses
-announcementImageID: ""
-announcementSynopsisES: Customer Credit ahora permite la configuración de intereses en sus reglas de pago para el crédito facturado.
+announcementImageID: ''
+announcementSynopsisES: 'Customer Credit ahora permite la configuración de intereses en sus reglas de pago para el crédito facturado.'
 ---
 
 Customer Credit es una app que permite al cliente ofrecer crédito a sus revendedores de confianza. Ese valor puede utilizarse como medio de pago, de la misma manera que una tarjeta de crédito o un boleto bancario, por ejemplo.

@@ -1,5 +1,5 @@
 ---
-title: Configurar gateway PayU Global
+title: 'Configurar gateway PayU Global'
 id: 2M5OMlqXdYo2CUg8WQIEam
 status: DRAFT
 createdAt: 2018-03-27T22:40:30.796Z

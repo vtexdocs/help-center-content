@@ -1,5 +1,5 @@
 ---
-title: Valores modales con textos diferentes entre la API y la interfaz de usuario de Logística
+title: 'Valores modales con textos diferentes entre la API y la interfaz de usuario de Logística'
 id: 3tW7Dr2nyHyvqiPMVtykAC
 status: PUBLISHED
 createdAt: 2023-03-22T14:06:50.812Z

@@ -1,5 +1,5 @@
 ---
-title: He activado la suscripción de un producto, pero no aparece en el sitio. ¿Por qué?
+title: 'He activado la suscripción de un producto, pero no aparece en el sitio. ¿Por qué?'
 id: 4HTtsuhjckHBgkBIyrH8tz
 status: PUBLISHED
 createdAt: 2019-01-28T19:20:20.661Z
@@ -30,6 +30,6 @@ __Para hacer la inclusión manual de SKUs específicos, siga el paso a paso abaj
 5. Dé un nombre a su colección (los demás campos no se deben llenar).
 6. Introduzca los SKUs en el campo informado y __los separe con comas__.
 
-![recurrence-specific-skus](https://images.ctfassets.net/alneenqid6w5/70r903nMha2s220AsC2W6k/2fa8421274d56304d680388cc3309323/recurrence-specific-skus.png)
+![recurrence-specific-skus](//images.ctfassets.net/alneenqid6w5/70r903nMha2s220AsC2W6k/2fa8421274d56304d680388cc3309323/recurrence-specific-skus.png)
 
 Por fin, dé un nombre al __Grupo__ de su Colección y haga clic en __Save Group__.

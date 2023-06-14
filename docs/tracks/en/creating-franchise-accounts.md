@@ -1,5 +1,5 @@
 ---
-title: Creating franchise accounts
+title: 'Creating franchise accounts'
 id: eujH0id9Y4WJjjmdazUKd
 status: PUBLISHED
 createdAt: 2022-04-04T15:07:29.526Z

@@ -1,5 +1,5 @@
 ---
-title: Falta la opción 1x installment en Checkout con múltiples condiciones de pago y configuración por defecto establecida en una opción diferente.
+title: 'Falta la opción 1x installment en Checkout con múltiples condiciones de pago y configuración por defecto establecida en una opción diferente.'
 id: 6xzCd4cSKl7ygcptvqwZs9
 status: PUBLISHED
 createdAt: 2023-05-11T17:23:35.529Z

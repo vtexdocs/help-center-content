@@ -1,5 +1,5 @@
 ---
-title: O arquivo XML não recebe preço do SWL
+title: 'O arquivo XML não recebe preço do SWL'
 id: 5wQep876yfIFr7NibBQtL
 status: PUBLISHED
 createdAt: 2022-01-21T14:53:24.449Z

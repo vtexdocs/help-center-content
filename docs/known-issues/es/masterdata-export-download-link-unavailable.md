@@ -1,5 +1,5 @@
 ---
-title: Masterdata Export Enlace de descarga no disponible
+title: 'Masterdata Export Enlace de descarga no disponible'
 id: 2oi0ABhQQxfPsKETeNUyvE
 status: PUBLISHED
 createdAt: 2022-07-08T13:50:43.220Z

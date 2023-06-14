@@ -1,5 +1,5 @@
 ---
-title: Item added to change order is in another package after invoiced
+title: 'Item added to change order is in another package after invoiced'
 id: 4a3VAtnfhYeg2N1EekVyO2
 status: PUBLISHED
 createdAt: 2022-08-19T19:25:08.342Z

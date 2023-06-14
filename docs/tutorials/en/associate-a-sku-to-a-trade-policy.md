@@ -1,5 +1,5 @@
 ---
-title: Associate a SKU to a trade policy
+title: 'Associate a SKU to a trade policy'
 id: 1qFAiybogHCStRO65sy4vb
 status: CHANGED
 createdAt: 2021-03-30T17:18:09.088Z

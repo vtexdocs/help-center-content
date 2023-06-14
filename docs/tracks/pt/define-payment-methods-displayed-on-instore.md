@@ -1,5 +1,5 @@
 ---
-title: Definir meios de pagamento exibidos no VTEX Sales App
+title: 'Definir meios de pagamento exibidos no VTEX Sales App'
 id: jHQQcyX3WKeUFidwSjmY1
 status: PUBLISHED
 createdAt: 2021-09-27T20:54:02.947Z

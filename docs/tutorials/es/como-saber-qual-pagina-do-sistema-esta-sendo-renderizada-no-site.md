@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo saber qué página del sistema se está representando en el sitio?
+title: '¿Cómo saber qué página del sistema se está representando en el sitio?'
 id: 1GXswbUMu0CUG2uqCOGcgI
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:44.215Z

@@ -1,5 +1,5 @@
 ---
-title: Transações com o conector TNSPay sendo negadas por erro: Cartão não PROIBIDO em 3DS
+title: 'Transações com o conector TNSPay sendo negadas por erro: Cartão não PROIBIDO em 3DS'
 id: 2jZefzH8LYqPJxkmylmyA0
 status: PUBLISHED
 createdAt: 2022-03-14T13:21:56.187Z

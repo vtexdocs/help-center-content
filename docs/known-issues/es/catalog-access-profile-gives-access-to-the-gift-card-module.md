@@ -1,5 +1,5 @@
 ---
-title: El perfil de acceso al catálogo da acceso al módulo de la tarjeta regalo
+title: 'El perfil de acceso al catálogo da acceso al módulo de la tarjeta regalo'
 id: 1ZLEcFdDt267fJ2BQ9iLil
 status: PUBLISHED
 createdAt: 2022-03-27T01:11:44.523Z

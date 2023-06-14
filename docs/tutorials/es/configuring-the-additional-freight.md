@@ -1,5 +1,5 @@
 ---
-title: Configurar el adicional en la carga
+title: 'Configurar el adicional en la carga'
 id: tutorials_105
 status: DRAFT
 createdAt: 2017-04-27T22:19:32.492Z

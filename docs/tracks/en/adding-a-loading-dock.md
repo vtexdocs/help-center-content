@@ -1,5 +1,5 @@
 ---
-title: Adding a loading dock
+title: 'Adding a loading dock'
 id: 5XvQ1yLpxLlIKWRw1pSiyA
 status: DRAFT
 createdAt: 2019-08-21T18:17:35.897Z
@@ -28,7 +28,7 @@ Follow the steps below to add a loading dock to your store:
 4. Fill out the data entry fields. For more details on each field's meaning, refer to section [data entry fields](#data-entry-fields) below.;
 5. **Save** changes.
 
-![EN Cadastrar Doca GIF](https://images.ctfassets.net/alneenqid6w5/5RGUQFBMdcOPn3xV49SSqW/202dce17e72e2fb8da79961326626f03/EN_Cadastrar_Doca_GIF.gif)
+![EN Cadastrar Doca GIF](//images.ctfassets.net/alneenqid6w5/5RGUQFBMdcOPn3xV49SSqW/202dce17e72e2fb8da79961326626f03/EN_Cadastrar_Doca_GIF.gif)
 
 ### Data entry fields
 

@@ -1,5 +1,5 @@
 ---
-title: Por que el buscador de VTEX ignora algunos términos buscados
+title: 'Por que el buscador de VTEX ignora algunos términos buscados'
 id: 2AbmsbKOogeaeuoESGaWAs
 status: PUBLISHED
 createdAt: 2019-01-24T20:30:45.346Z

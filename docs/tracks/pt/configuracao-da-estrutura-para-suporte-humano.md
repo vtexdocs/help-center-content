@@ -1,5 +1,5 @@
 ---
-title: Configuração da estrutura para Atendimento Humano
+title: 'Configuração da estrutura para Atendimento Humano'
 id: SxhYiiqUJYiQX4CIWxmVE
 status: PUBLISHED
 createdAt: 2022-08-23T15:25:37.553Z

@@ -1,5 +1,5 @@
 ---
-title: Data de entrega ficando vazia quando o item é um presente adicionado
+title: 'Data de entrega ficando vazia quando o item é um presente adicionado'
 id: 5HMepNuoEHY0xJPm4PKPb4
 status: PUBLISHED
 createdAt: 2022-05-25T21:39:17.092Z

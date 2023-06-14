@@ -1,5 +1,5 @@
 ---
-title: El proceso de pago no deja claras las divergencias entre el cliente identificado y el registrado
+title: 'El proceso de pago no deja claras las divergencias entre el cliente identificado y el registrado'
 id: 3TorBnBvCbqLB5AUG8oWp0
 status: PUBLISHED
 createdAt: 2023-05-03T21:54:48.509Z

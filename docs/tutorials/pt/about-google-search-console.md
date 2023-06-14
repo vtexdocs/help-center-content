@@ -1,5 +1,5 @@
 ---
-title: Como usar o Google Search Console
+title: 'Como usar o Google Search Console'
 id: tutorials_562
 status: PUBLISHED
 createdAt: 2017-04-27T22:00:40.855Z

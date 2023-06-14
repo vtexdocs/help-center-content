@@ -1,5 +1,5 @@
 ---
-title: VTEX inStore - Visão Geral
+title: 'VTEX inStore - Visão Geral'
 id: 64HSRLVtcWYOa4acOmGY2i
 status: DRAFT
 createdAt: 2017-10-20T15:15:52.180Z

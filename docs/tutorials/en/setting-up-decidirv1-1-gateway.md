@@ -1,5 +1,5 @@
 ---
-title: Setting up DecidirV1.1 gateway
+title: 'Setting up DecidirV1.1 gateway'
 id: 4faOPP5b28Im2QOqiIma84
 status: DRAFT
 createdAt: 2018-06-27T14:11:28.047Z

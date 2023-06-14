@@ -1,5 +1,5 @@
 ---
-title: O e-mail de confirmação do pedido não está sendo enviado
+title: 'O e-mail de confirmação do pedido não está sendo enviado'
 id: 4RelMFApLldLtf0GxhYzdt
 status: PUBLISHED
 createdAt: 2023-03-10T22:07:59.908Z

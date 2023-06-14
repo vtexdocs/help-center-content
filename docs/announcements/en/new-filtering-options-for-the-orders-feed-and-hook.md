@@ -1,5 +1,5 @@
 ---
-title: "New feed filter allows for notifications related to any order atribute"
+title: 'New feed filter allows for notifications related to any order atribute'
 id: 4j99SY7EW0sSJz1Vu0p4uP
 status: PUBLISHED
 createdAt: 2021-05-20T16:39:31.231Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: new-filtering-options-for-the-orders-feed-and-hook
 legacySlug: new-filtering-options-for-the-orders-feed-and-hook
-announcementImageID: ""
-announcementSynopsisEN: It is now possible to filter the orders feed by any attribute, including delivery or changes in items, for example.
+announcementImageID: ''
+announcementSynopsisEN: 'It is now possible to filter the orders feed by any attribute, including delivery or changes in items, for example.'
 ---
 
 We have improved the orders [feed and hook](https://developers.vtex.com/vtex-rest-api/docs/feed-v3-1) configuration options with a new type of filter which allows stores to get updates regarding any order attribute. For example, it is now possible to receive updates when an order is delivered or an item is changed, among other things.

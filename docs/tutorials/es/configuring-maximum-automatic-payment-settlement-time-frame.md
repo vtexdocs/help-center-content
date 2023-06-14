@@ -1,5 +1,5 @@
 ---
-title: Configurar tiempo máximo para la liquidación automática
+title: 'Configurar tiempo máximo para la liquidación automática'
 id: 7dwcaxrcgcFJUk7umqPBw2
 status: PUBLISHED
 createdAt: 2020-09-22T11:49:41.297Z
@@ -57,7 +57,7 @@ Para configurar esta liquidación, siga los pasos a continuación:
 8. En el campo __Captura anticipada__, seleccione una de las opciones de tiempo disponibles. 
 9. Rellene el  campo __Cambiar el tiempo máximo de captura automática__ con el periodo acordado con el adquirente. __Si usted prefiere dejar el campo en blanco, se utilizará el estándar de 4 días.__
 
-![captura_automatica_ES](https://images.ctfassets.net/alneenqid6w5/4jX317pC0aLgMXygXxd1XU/6a7d21e16d4ef26e0076ad7b641e877f/image.png)
+![captura_automatica_ES](//images.ctfassets.net/alneenqid6w5/4jX317pC0aLgMXygXxd1XU/6a7d21e16d4ef26e0076ad7b641e877f/image.png)
 10. Haga clic en el __botón Salva__ para guardar.
 
 De esta manera, se implementará el nuevo recurso de liquidación.

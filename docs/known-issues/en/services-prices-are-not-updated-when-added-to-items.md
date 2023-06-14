@@ -1,5 +1,5 @@
 ---
-title: Services prices are not updated when added to items
+title: 'Services prices are not updated when added to items'
 id: 5hJ7TbHzX4zFbdNWqPnMRQ
 status: PUBLISHED
 createdAt: 2023-05-09T14:27:37.283Z

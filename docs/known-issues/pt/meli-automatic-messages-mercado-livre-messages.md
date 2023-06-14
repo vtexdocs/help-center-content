@@ -1,5 +1,5 @@
 ---
-title: Mensagens automáticas do MELI Mercado Livre - Mensagens
+title: 'Mensagens automáticas do MELI Mercado Livre - Mensagens'
 id: 6WZy5RNesYJtJOaBAFnbkW
 status: PUBLISHED
 createdAt: 2023-05-04T11:22:21.762Z

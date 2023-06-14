@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 5V92cmF9jG8KG600EwUgEg
 slug: novo-objeto-retornado-na-api-get-order-itemmetadata
 legacySlug: novo-objeto-retornado-na-api-get-order-itemmetadata
-announcementImageID: ""
-announcementSynopsisPT: A partir de 01 de Maio de 2019, o JSON de pedidos retornará um novo objeto chamado itemMetadata.
+announcementImageID: ''
+announcementSynopsisPT: 'A partir de 01 de Maio de 2019, o JSON de pedidos retornará um novo objeto chamado itemMetadata.'
 ---
 
 A partir de 10 de Maio de 2019, o JSON de pedidos retornará um novo objeto chamado itemMetadata.

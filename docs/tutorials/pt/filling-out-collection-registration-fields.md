@@ -1,5 +1,5 @@
 ---
-title: Preencher campos de cadastro de Coleção
+title: 'Preencher campos de cadastro de Coleção'
 id: 7eKL7CFRW3yGKlnDfQetbj
 status: PUBLISHED
 createdAt: 2019-06-03T20:13:01.481Z

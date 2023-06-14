@@ -1,5 +1,5 @@
 ---
-title: Error de integración de pedidos de Amazon
+title: 'Error de integración de pedidos de Amazon'
 id: 7EbYwdDqy78Jv4ztOxqgnY
 status: PUBLISHED
 createdAt: 2022-04-06T16:29:04.269Z

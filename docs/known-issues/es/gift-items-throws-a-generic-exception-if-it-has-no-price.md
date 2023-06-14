@@ -1,5 +1,5 @@
 ---
-title: Los artículos de regalo lanzan una excepción genérica si no tienen precio
+title: 'Los artículos de regalo lanzan una excepción genérica si no tienen precio'
 id: 7Jw1Nihqp3Sg2ecg7R9IEt
 status: PUBLISHED
 createdAt: 2022-05-12T14:52:18.546Z

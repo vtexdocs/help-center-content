@@ -1,5 +1,5 @@
 ---
-title: Setting up payment methods for inStore
+title: 'Setting up payment methods for inStore'
 id: 2liigRors32hzqBNs2M1Oa
 status: PUBLISHED
 createdAt: 2020-06-28T14:54:46.020Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar cadastro do conector da Via
+title: 'Configurar cadastro do conector da Via'
 id: 1okse2MybWk04AQoueu88O
 status: PUBLISHED
 createdAt: 2018-09-24T18:45:21.544Z

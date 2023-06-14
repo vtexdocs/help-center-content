@@ -1,5 +1,5 @@
 ---
-title: HubSpot
+title: 'HubSpot'
 id: 2aByRxXGfy56BB3tzUrcYt
 status: PUBLISHED
 createdAt: 2022-08-31T16:28:32.249Z

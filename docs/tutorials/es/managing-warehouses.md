@@ -1,5 +1,5 @@
 ---
-title: Gestionar Almacenes
+title: 'Gestionar Almacenes'
 id: tutorials_137
 status: PUBLISHED
 createdAt: 2017-04-27T22:16:29.061Z

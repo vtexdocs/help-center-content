@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Aplazame
+title: 'Configurar pagamento com Aplazame'
 id: 3v2uLgnOZ1dSE9AnhpDt3s
 status: DRAFT
 createdAt: 2022-03-11T13:31:44.931Z

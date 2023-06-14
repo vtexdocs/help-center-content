@@ -1,5 +1,5 @@
 ---
-title: How to configure access profiles
+title: 'How to configure access profiles'
 id: tutorials_526
 status: DRAFT
 createdAt: 2017-04-27T22:02:22.057Z

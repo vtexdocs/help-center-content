@@ -1,5 +1,5 @@
 ---
-title: Cómo funciona la sección Historial de pedidos
+title: 'Cómo funciona la sección Historial de pedidos'
 id: tutorials_199
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:07.813Z

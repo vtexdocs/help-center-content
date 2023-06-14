@@ -1,5 +1,5 @@
 ---
-title: Setting up sub-acquirer Stelo
+title: 'Setting up sub-acquirer Stelo'
 id: 3gHWiaK9wQg08wOsoysciQ
 status: PUBLISHED
 createdAt: 2018-03-02T17:43:45.957Z

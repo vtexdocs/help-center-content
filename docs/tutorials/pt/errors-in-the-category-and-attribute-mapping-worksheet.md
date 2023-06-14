@@ -1,5 +1,5 @@
 ---
-title: Erros na planilha de mapeamento de categorias e atributos
+title: 'Erros na planilha de mapeamento de categorias e atributos'
 id: 4QN9Fq3zB3MrA9xr9N4e9f
 status: DRAFT
 createdAt: 2022-02-11T01:02:13.086Z

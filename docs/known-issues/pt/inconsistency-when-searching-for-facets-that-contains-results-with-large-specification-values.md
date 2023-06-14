@@ -1,5 +1,5 @@
 ---
-title: Inconsistência na pesquisa de facetas que contêm resultados com valores de especificação grandes
+title: 'Inconsistência na pesquisa de facetas que contêm resultados com valores de especificação grandes'
 id: 4taz7hmgvjn3hqWyyjxiKz
 status: PUBLISHED
 createdAt: 2023-05-11T17:42:06.008Z

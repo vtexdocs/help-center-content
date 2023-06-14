@@ -1,5 +1,5 @@
 ---
-title: How to import data into Master Data
+title: 'How to import data into Master Data'
 id: tutorials_1135
 status: PUBLISHED
 createdAt: 2017-04-27T21:57:12.437Z

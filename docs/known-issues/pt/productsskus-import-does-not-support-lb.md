@@ -1,5 +1,5 @@
 ---
-title: Produtos&SKUs Importação não suporta 'lb'.
+title: 'Produtos&SKUs Importação não suporta 'lb'.'
 id: 1OjtnFf9MpY1IFzQa8Ua2t
 status: PUBLISHED
 createdAt: 2022-06-17T19:38:17.726Z

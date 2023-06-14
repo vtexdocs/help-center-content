@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo consultar el extracto?
+title: '¿Cómo consultar el extracto?'
 id: 6URbhzD0rSxHCPmK3UVlb3
 status: DRAFT
 createdAt: 2020-06-24T22:10:57.926Z

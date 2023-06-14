@@ -1,5 +1,5 @@
 ---
-title: ¿Cuál es la diferencia entre política comercial, seller y afiliado?
+title: '¿Cuál es la diferencia entre política comercial, seller y afiliado?'
 id: frequentlyAskedQuestions_729
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:57.982Z

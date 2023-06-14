@@ -1,5 +1,5 @@
 ---
-title: Seletor de entrega de pré-visualização de embarque mostrando tempo errado em caso de múltiplos pacotes/linhas mortas
+title: 'Seletor de entrega de pré-visualização de embarque mostrando tempo errado em caso de múltiplos pacotes/linhas mortas'
 id: 6isrBCEGK4UlpfFEEz4mxr
 status: PUBLISHED
 createdAt: 2023-03-23T15:50:24.372Z

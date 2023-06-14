@@ -1,5 +1,5 @@
 ---
-title: How Recursive Marketplace works
+title: 'How Recursive Marketplace works'
 id: 6Cfx9xrJb61RZFc2GZaxCv
 status: DRAFT
 createdAt: 2019-03-12T21:51:12.693Z
@@ -32,7 +32,7 @@ Thus:
 
 - __When a VTEX store is intermediate in the order flow__: chain order with __Chain Workflow__:
 
-![marketplace-recursivo-chain-order-workflow](https://images.ctfassets.net/alneenqid6w5/1mYtSFQxV7pnlrp746nnQ4/336550750f99d86b90851742fda8f724/marketplace-recursivo-chain-order-workflow.png)
+![marketplace-recursivo-chain-order-workflow](//images.ctfassets.net/alneenqid6w5/1mYtSFQxV7pnlrp746nnQ4/336550750f99d86b90851742fda8f724/marketplace-recursivo-chain-order-workflow.png)
 
 
 ## Setup

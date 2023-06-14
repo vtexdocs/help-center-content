@@ -1,5 +1,5 @@
 ---
-title: Como funciona a Autorização de pedidos
+title: 'Como funciona a Autorização de pedidos'
 id: 3MBK6CmKHAuUjMBieDU0pn
 status: PUBLISHED
 createdAt: 2019-03-25T17:18:05.295Z

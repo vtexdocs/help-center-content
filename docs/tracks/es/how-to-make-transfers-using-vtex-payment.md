@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo hacer transferencias a través de VTEX Payment?
+title: '¿Cómo hacer transferencias a través de VTEX Payment?'
 id: 38GkneYnX8DlGH3tzjweEY
 status: DRAFT
 createdAt: 2020-03-09T21:46:51.182Z

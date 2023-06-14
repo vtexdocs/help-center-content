@@ -1,5 +1,5 @@
 ---
-title: Funcionamiento del extorno cuando se devuelve un ítem
+title: 'Funcionamiento del extorno cuando se devuelve un ítem'
 id: frequentlyAskedQuestions_298
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:51.904Z

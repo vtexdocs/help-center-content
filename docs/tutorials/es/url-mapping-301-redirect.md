@@ -1,5 +1,5 @@
 ---
-title: Mapeo de URL (redirección 301)
+title: 'Mapeo de URL (redirección 301)'
 id: frequentlyAskedQuestions_623
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:57.075Z

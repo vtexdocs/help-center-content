@@ -1,5 +1,5 @@
 ---
-title: Accessing a customer giftlist with a Callcenter user
+title: 'Accessing a customer giftlist with a Callcenter user'
 id: 5W5JZMEPzGkOIqAQCoYO68
 status: DRAFT
 createdAt: 2017-10-06T17:39:03.374Z

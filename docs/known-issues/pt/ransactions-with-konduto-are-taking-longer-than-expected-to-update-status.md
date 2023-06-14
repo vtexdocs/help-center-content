@@ -1,5 +1,5 @@
 ---
-title: As ações de resgate com a Konduto estão demorando mais do que o esperado para atualizar o status
+title: 'As ações de resgate com a Konduto estão demorando mais do que o esperado para atualizar o status'
 id: 5yUSXenLjlEdESoj5VVvoH
 status: PUBLISHED
 createdAt: 2022-03-11T18:56:45.293Z

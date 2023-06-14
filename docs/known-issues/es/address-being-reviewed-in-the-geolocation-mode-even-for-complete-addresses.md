@@ -1,5 +1,5 @@
 ---
-title: Dirección que se revisa en el modo de geolocalización incluso para direcciones completas
+title: 'Dirección que se revisa en el modo de geolocalización incluso para direcciones completas'
 id: 6eHvTDvNlIiBGmlUJAAsNU
 status: PUBLISHED
 createdAt: 2022-08-11T18:40:54.009Z

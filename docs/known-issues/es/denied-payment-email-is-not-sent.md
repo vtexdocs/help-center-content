@@ -1,5 +1,5 @@
 ---
-title: E-mail de pago denegado no se envía
+title: 'E-mail de pago denegado no se envía'
 id: 60n6pzdjGMk6Sq6oCC2QAQ
 status: PUBLISHED
 createdAt: 2017-10-01T19:38:06.243Z

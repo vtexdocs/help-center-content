@@ -1,5 +1,5 @@
 ---
-title: textlink creado con carácter especial
+title: 'textlink creado con carácter especial'
 id: 3peJGluNHYX8NV8xI3qBCJ
 status: PUBLISHED
 createdAt: 2022-03-07T17:03:09.777Z

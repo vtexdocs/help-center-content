@@ -1,5 +1,5 @@
 ---
-title: Los pedidos de artículos de regalo no se cancelan si se rechaza el pago del pedido del artículo normal
+title: 'Los pedidos de artículos de regalo no se cancelan si se rechaza el pago del pedido del artículo normal'
 id: 6Yr7bEseJceNQiY2sw7Vtx
 status: PUBLISHED
 createdAt: 2022-10-18T22:34:21.726Z

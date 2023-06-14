@@ -1,5 +1,5 @@
 ---
-title: Configurar control de evaluación y reseña
+title: 'Configurar control de evaluación y reseña'
 id: frequentlyAskedQuestions_585
 status: DRAFT
 createdAt: 2019-01-24T20:45:54.562Z
@@ -41,10 +41,10 @@ Diferente de los demás, estos controles necesitan una configuración imprescind
 
 En el registro de Categoria existe la opción de configurar la Avaliação (Evaluación) y normalmente esta configuración se hace en la categoría raíz:
 
-![avaliação-categoria ES](https://images.ctfassets.net/alneenqid6w5/2iOensHpjSW8aYCqi2o2O8/548b7ff362e70275c73dbc9b0b2239d6/avalia____o_es.png)
+![avaliação-categoria ES](//images.ctfassets.net/alneenqid6w5/2iOensHpjSW8aYCqi2o2O8/548b7ff362e70275c73dbc9b0b2239d6/avalia____o_es.png)
 
 Haga click en **Nueva Calificación** y rellene los datos Nome (Nombre) y Texto y después grabe.
 
-![nueva-calificacion-categorias ES](https://images.ctfassets.net/alneenqid6w5/5A1DGDfYGI4syYkYGkAI86/c9fd86d9e6bbe8c61828e28e4cd0f5de/Nueva_calificacion.png)
+![nueva-calificacion-categorias ES](//images.ctfassets.net/alneenqid6w5/5A1DGDfYGI4syYkYGkAI86/c9fd86d9e6bbe8c61828e28e4cd0f5de/Nueva_calificacion.png)
 
 ¡Listo! Sus controles de Reseña y Evaluación están listos para usarse.

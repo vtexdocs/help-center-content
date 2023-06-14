@@ -1,5 +1,5 @@
 ---
-title: Valor de pagamento diferente ao misturar os tipos de vendedores para o mesmo vendedor em um carrinho
+title: 'Valor de pagamento diferente ao misturar os tipos de vendedores para o mesmo vendedor em um carrinho'
 id: 7txlcqRF5XLB014Z31pXaL
 status: PUBLISHED
 createdAt: 2023-05-08T22:25:15.897Z

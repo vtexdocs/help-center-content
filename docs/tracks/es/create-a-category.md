@@ -1,5 +1,5 @@
 ---
-title: Crear una categoría
+title: 'Crear una categoría'
 id: Lvhl8TuJIySYIU2U8AoQg
 status: DRAFT
 createdAt: 2018-05-02T20:48:56.627Z

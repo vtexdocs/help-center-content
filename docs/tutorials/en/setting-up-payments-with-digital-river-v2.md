@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Digital River V2
+title: 'Setting up payments with Digital River V2'
 id: 5dlXHutd9Ik6vtN3WP7GRP
 status: PUBLISHED
 createdAt: 2022-02-17T12:11:27.726Z

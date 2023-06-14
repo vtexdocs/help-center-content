@@ -1,5 +1,5 @@
 ---
-title: Método de redondeo incoherente del conector DecidirV1 para los campos CSPTGRANDTOTALAMOUNT y CSITTOTALAMOUNT.
+title: 'Método de redondeo incoherente del conector DecidirV1 para los campos CSPTGRANDTOTALAMOUNT y CSITTOTALAMOUNT.'
 id: 6VcgLkWcGwMdkpuJQ14ZBt
 status: PUBLISHED
 createdAt: 2023-04-10T20:32:29.930Z

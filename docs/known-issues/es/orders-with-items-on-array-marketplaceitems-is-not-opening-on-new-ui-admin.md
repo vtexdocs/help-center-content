@@ -1,5 +1,5 @@
 ---
-title: Los pedidos con artículos en la matriz MarketplaceItems no se abren en la Nueva UI Admin
+title: 'Los pedidos con artículos en la matriz MarketplaceItems no se abren en la Nueva UI Admin'
 id: 3tj9AKklBHm4tCKYgrfDi5
 status: PUBLISHED
 createdAt: 2022-09-13T03:06:57.141Z

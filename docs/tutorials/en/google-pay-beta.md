@@ -1,10 +1,10 @@
 ---
-title: Google Pay (Beta)
+title: 'Google Pay (Beta)'
 id: 653pNFOw6L5CvGupLosJSq
 status: PUBLISHED
 createdAt: 2023-04-26T15:34:40.825Z
-updatedAt: 2023-04-27T18:11:19.479Z
-publishedAt: 2023-04-27T18:11:19.479Z
+updatedAt: 2023-06-14T19:34:39.943Z
+publishedAt: 2023-06-14T19:34:39.943Z
 firstPublishedAt: 2023-04-26T20:03:44.992Z
 contentType: tutorial
 productTeam: Shopping
@@ -20,26 +20,29 @@ This module is in Beta, which means we are working on improving it. If you have 
 
 Google Pay™ is a digital payments service that allows users not to share their actual card information with the store, providing more security and streamlining the checkout step. With Google Pay, users can make payments using credit or debit cards without having to enter any information manually, and Google Pay is also available in various apps, websites and in the Google Wallet. 
 
-The Google Pay API Terms of Service apply whenever the Google Pay service is offered by a merchant. To read the terms, please see[ Google Pay API Terms of Service](https://payments.developers.google.com/terms/sellertos).
+The Google Pay API Terms of Service apply whenever the Google Pay service is offered by a merchant. To read the terms, please see [Google Pay API Terms of Service](https://payments.developers.google.com/terms/sellertos).
+
+<div class="alert alert-warning">
+<p>Google Pay is not available for Checkout V5 or earlier versions of Checkout.</p>
+</div>
 
 ## Enabling Google Pay
 
 To enable Google Pay, follow the steps below.
 
 1. In the VTEX Admin, go to **Store Settings > Payments > Wallets** or type **Wallets** in the search bar at the top of the page.
-2. Click <i class="fas-solid fa-toggle-on"></i> `Google Pay`.
-3. Select **Activate** to include the Google Pay extension.
+2. Select **Activate** to include the Google Pay extension.
 
 <div class = "alert alert-info">
 <p>The issuing banks supported by the Google Pay extension are the ones configured in the payment conditions.</p>
 </div>
 
-![google pay - EN](https://images.ctfassets.net/alneenqid6w5/IhdcOpZC0MPaZLYbPUYw1/c1848f1deba2af0d837f96f21eae86a5/image.png)
+![google pay - EN](//images.ctfassets.net/alneenqid6w5/IhdcOpZC0MPaZLYbPUYw1/c1848f1deba2af0d837f96f21eae86a5/image.png)
 
 Google Pay will then be available in your VTEX store's checkout as a new payment method. It may take around 10 minutes to be implemented.
 
 <div class = "alert alert-warning">
-<p>For now, Google Pay does not support subscriptions. For subscription orders, only the first purchase will work.</p>
+<p>For now, Google Pay does not support subscriptions.</p>
 </div>
 
 To use Google Pay, you must meet the following requirements:

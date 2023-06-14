@@ -1,5 +1,5 @@
 ---
-title: Defining the Shipping Strategy
+title: 'Defining the Shipping Strategy'
 id: 5C5Jb5kSZKjl8NyPLWTJBO
 status: PUBLISHED
 createdAt: 2022-02-02T20:21:43.438Z

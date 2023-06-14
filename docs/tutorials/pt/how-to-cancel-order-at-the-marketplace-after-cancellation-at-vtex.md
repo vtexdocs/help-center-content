@@ -1,5 +1,5 @@
 ---
-title: Cancelar pedido no marketpalce depois de cancelado na VTEX
+title: 'Cancelar pedido no marketpalce depois de cancelado na VTEX'
 id: 1MwOfwKlTe6k6c4WUeMc8G
 status: DRAFT
 createdAt: 2017-08-31T22:05:27.307Z

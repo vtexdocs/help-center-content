@@ -1,5 +1,5 @@
 ---
-title: Configurar Vale-compra
+title: 'Configurar Vale-compra'
 id: tutorials_995
 status: PUBLISHED
 createdAt: 2017-04-27T21:57:54.816Z

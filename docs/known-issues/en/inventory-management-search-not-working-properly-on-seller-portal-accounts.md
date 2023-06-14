@@ -1,5 +1,5 @@
 ---
-title: Inventory Management Search not working properly on seller portal accounts
+title: 'Inventory Management Search not working properly on seller portal accounts'
 id: 7pCEQVKpXDq8NwtMXDxlFT
 status: PUBLISHED
 createdAt: 2022-11-08T18:55:29.448Z

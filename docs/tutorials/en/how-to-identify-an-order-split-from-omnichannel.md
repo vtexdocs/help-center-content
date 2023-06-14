@@ -1,5 +1,5 @@
 ---
-title: How to identify an order split from omnichannel
+title: 'How to identify an order split from omnichannel'
 id: 5LuhsjJkEEqU0uysEuIUQO
 status: PUBLISHED
 createdAt: 2018-06-19T06:52:10.893Z

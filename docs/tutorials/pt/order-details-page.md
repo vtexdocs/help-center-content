@@ -1,5 +1,5 @@
 ---
-title: Página de detalhes do pedido
+title: 'Página de detalhes do pedido'
 id: 2Y75n54Cc9VizrlG1N6ZNl
 status: PUBLISHED
 createdAt: 2020-12-28T15:51:29.428Z

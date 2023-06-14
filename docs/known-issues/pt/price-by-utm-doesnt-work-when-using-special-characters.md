@@ -1,5 +1,5 @@
 ---
-title: Preço por UTM não funciona quando se usam caracteres especiais
+title: 'Preço por UTM não funciona quando se usam caracteres especiais'
 id: 5vQnjYgbE48426q2e6GMUY
 status: PUBLISHED
 createdAt: 2017-06-05T12:24:57.621Z

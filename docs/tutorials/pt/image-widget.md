@@ -1,5 +1,5 @@
 ---
-title: Reutilizando imagens com o Image Widget
+title: 'Reutilizando imagens com o Image Widget'
 id: 7pRSVI2xXpQUzjUZj0m4ov
 status: PUBLISHED
 createdAt: 2021-06-30T18:06:46.531Z

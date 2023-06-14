@@ -1,5 +1,5 @@
 ---
-title: Mercado Libre: compatibilidad de autopartes
+title: 'Mercado Libre: compatibilidad de autopartes'
 id: 2c7fTWxq6NfMXq1jgEbEI3
 status: PUBLISHED
 createdAt: 2023-02-27T22:30:53.473Z
@@ -28,7 +28,7 @@ En los anuncios enviados a Mercado Libre, se pueden identificar los que tengan e
 Los anuncios que tengan error no se envían a Mercado Libre hasta que se corrijan.
 </div>  
 
-![Mercado Libre: compatibilidad de autopartes](https://images.ctfassets.net/alneenqid6w5/7JjKhuTHSN7j1V51FzjT5v/df37ddb666928a86c4199ce98bfe7af6/comp_automobilistica.png) 
+![Mercado Libre: compatibilidad de autopartes](//images.ctfassets.net/alneenqid6w5/7JjKhuTHSN7j1V51FzjT5v/df37ddb666928a86c4199ce98bfe7af6/comp_automobilistica.png) 
 
 Para acceder al módulo Gestión de anuncios, en el Admin VTEX, ve a __Marketplace > Integraciones > Gestión de anuncios.__ En esta página puedes filtrar por canal, marca, categoría o status.  
 
@@ -38,7 +38,7 @@ Para corregir los errores de `Compatibilidad con MELI` sigue los pasos a continu
 2.	Haz clic en __Error de asociación de autopartes.__  
 3.	Haz clic en __Gestionar compatibilidad.__  
 4.	Rellena los campos __Marca, Modelo, Año, Versión__ según la compatibilidad del accesorio.  
-![Mercado Libre: compatibilidad de autopartes 2](https://images.ctfassets.net/alneenqid6w5/GWG92iEbWI9FBRGswnGWk/73b751561077eb819e5044443f184f2d/compatibilidad_automobilistica_2.png)  
+![Mercado Libre: compatibilidad de autopartes 2](//images.ctfassets.net/alneenqid6w5/GWG92iEbWI9FBRGswnGWk/73b751561077eb819e5044443f184f2d/compatibilidad_automobilistica_2.png)  
 5.	Agrega todos los modelos de vehículos compatibles haciendo clic en +.  
 6.	Haz clic en el botón __Agregar excepción__ y espera el mensaje «Excepción enviada con éxito».  
 7.	Haz clic en Confirmar y aparecerá el mensaje "Compatibilidad asociada con éxito" en la pantalla.  

@@ -1,5 +1,5 @@
 ---
-title: Activar SKUs en masa
+title: 'Activar SKUs en masa'
 id: 4uMZATlSc0kEYiewWKSwEY
 status: PUBLISHED
 createdAt: 2018-01-30T12:57:18.128Z

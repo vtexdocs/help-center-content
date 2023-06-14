@@ -1,5 +1,5 @@
 ---
-title: A special time period condition may not behave as expected when having it as a single payment rule
+title: 'A special time period condition may not behave as expected when having it as a single payment rule'
 id: 5bPV3FFGvHL0a8UyMuBxrc
 status: DRAFT
 createdAt: 2022-12-07T19:20:30.062Z

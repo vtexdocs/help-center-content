@@ -1,5 +1,5 @@
 ---
-title: Por que um pedido foi cancelado no status “Preparando Entrega”?
+title: 'Por que um pedido foi cancelado no status “Preparando Entrega”?'
 id: LDgtkquNEssyQMYUGcYeO
 status: PUBLISHED
 createdAt: 2017-05-16T23:08:29.742Z

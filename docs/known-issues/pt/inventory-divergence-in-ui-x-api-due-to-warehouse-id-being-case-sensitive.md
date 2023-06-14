@@ -1,5 +1,5 @@
 ---
-title: Divergência de inventário na IU x API devido à identificação do depósito ser sensível a maiúsculas e minúsculas
+title: 'Divergência de inventário na IU x API devido à identificação do depósito ser sensível a maiúsculas e minúsculas'
 id: 3YBSu7M0KqY7JU10wVplFG
 status: PUBLISHED
 createdAt: 2022-06-27T14:34:38.139Z

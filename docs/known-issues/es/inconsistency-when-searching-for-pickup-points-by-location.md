@@ -1,5 +1,5 @@
 ---
-title: Inconsistencia en la búsqueda de puntos de recogida por ubicación
+title: 'Inconsistencia en la búsqueda de puntos de recogida por ubicación'
 id: 1izy3WCIhWVsLY7b9HOJUl
 status: PUBLISHED
 createdAt: 2021-09-27T19:59:47.595Z

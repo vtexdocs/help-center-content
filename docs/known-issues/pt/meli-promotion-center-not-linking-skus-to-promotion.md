@@ -1,5 +1,5 @@
 ---
-title: O MELI Promotion Center não está vinculando SKUs à promoção
+title: 'O MELI Promotion Center não está vinculando SKUs à promoção'
 id: dF36o5p2oUa12uL06weeU
 status: PUBLISHED
 createdAt: 2023-05-03T12:21:32.990Z

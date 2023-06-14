@@ -1,5 +1,5 @@
 ---
-title: Out-of-stock errors in marketplace integration orders
+title: 'Out-of-stock errors in marketplace integration orders'
 id: s1i5OCcPFslrMkZJLDnfP
 status: PUBLISHED
 createdAt: 2021-07-28T19:50:13.475Z

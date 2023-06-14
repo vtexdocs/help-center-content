@@ -1,5 +1,5 @@
 ---
-title: Listing apps installed in the store
+title: 'Listing apps installed in the store'
 id: 3dzHwOeEt2EUmwAekKkSUa
 status: DRAFT
 createdAt: 2018-02-21T22:50:01.877Z

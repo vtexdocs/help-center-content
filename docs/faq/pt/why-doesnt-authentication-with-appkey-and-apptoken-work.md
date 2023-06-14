@@ -1,5 +1,5 @@
 ---
-title: Por que a autenticação utilizando appKey e appToken não funciona? 
+title: 'Por que a autenticação utilizando appKey e appToken não funciona? '
 id: 3oReWVLDgLjXoKsMrUSy4m
 status: PUBLISHED
 createdAt: 2019-03-12T21:06:30.165Z

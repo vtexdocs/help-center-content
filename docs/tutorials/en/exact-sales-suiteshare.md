@@ -1,5 +1,5 @@
 ---
-title: Exact sales
+title: 'Exact sales'
 id: 7K32ewkr7JC8Bruxb2jy8Y
 status: PUBLISHED
 createdAt: 2022-08-30T19:55:40.898Z

@@ -1,5 +1,5 @@
 ---
-title: Unrelated transaction returned when using sequence number to fetch a transaction in admin UI
+title: 'Unrelated transaction returned when using sequence number to fetch a transaction in admin UI'
 id: 62ePhzVMcAe8KRgs4ASSSv
 status: PUBLISHED
 createdAt: 2022-07-25T17:03:28.496Z

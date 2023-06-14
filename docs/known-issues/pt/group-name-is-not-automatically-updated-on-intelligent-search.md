@@ -1,5 +1,5 @@
 ---
-title: O nome do grupo não é atualizado automaticamente na Pesquisa Inteligente
+title: 'O nome do grupo não é atualizado automaticamente na Pesquisa Inteligente'
 id: 1GKDLtbKdYA0hq9YUhF2Bt
 status: PUBLISHED
 createdAt: 2023-05-08T19:00:44.637Z

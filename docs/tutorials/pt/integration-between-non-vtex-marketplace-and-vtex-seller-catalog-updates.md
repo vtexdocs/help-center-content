@@ -1,5 +1,5 @@
 ---
-title: Integração entre Marketplace não VTEX e Seller VTEX - Ações Referentes à Atualização de Catálogo
+title: 'Integração entre Marketplace não VTEX e Seller VTEX - Ações Referentes à Atualização de Catálogo'
 id: 5jwV8FJ1cNRmkkWnXTZEng
 status: DRAFT
 createdAt: 2019-09-16T12:50:28.649Z

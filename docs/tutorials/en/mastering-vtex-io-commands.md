@@ -1,5 +1,5 @@
 ---
-title: Mastering VTEX IO commands
+title: 'Mastering VTEX IO commands'
 id: 2KumEHSnWwgyA0E0qwmIE0
 status: DRAFT
 createdAt: 2017-11-22T18:13:42.437Z

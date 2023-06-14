@@ -1,5 +1,5 @@
 ---
-title: "New process for running security assessments"
+title: 'New process for running security assessments'
 id: 1H5xtoOUUMhyEbLiFduOtx
 status: PUBLISHED
 createdAt: 2022-12-15T18:00:10.053Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: new-process-for-running-security-assessments
 legacySlug: new-process-for-running-security-assessments
-announcementImageID: ""
-announcementSynopsisEN: New process allows you to request to perform security assessment and submit a vulnerability report.
+announcementImageID: ''
+announcementSynopsisEN: 'New process allows you to request to perform security assessment and submit a vulnerability report.'
 ---
 
 VTEX carefully evaluates the platform resources by testing and identifying vulnerabilities through scans and penetration tests. These vulnerability checks are run periodically, according to scope criticality.

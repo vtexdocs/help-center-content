@@ -1,5 +1,5 @@
 ---
-title: A devolução parcial do pedido acionou a devolução total da transação
+title: 'A devolução parcial do pedido acionou a devolução total da transação'
 id: 5cPpyvV4t6swxDPrEmuzrn
 status: PUBLISHED
 createdAt: 2022-04-04T21:20:39.334Z

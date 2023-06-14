@@ -1,5 +1,5 @@
 ---
-title: Precio inconsistente cuando el SKU tiene un multiplicador de unidades diferente a 1
+title: 'Precio inconsistente cuando el SKU tiene un multiplicador de unidades diferente a 1'
 id: NVtFiuWgptqa2gBEVmpOC
 status: PUBLISHED
 createdAt: 2022-09-05T13:05:50.789Z

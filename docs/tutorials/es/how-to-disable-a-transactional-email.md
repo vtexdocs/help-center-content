@@ -1,5 +1,5 @@
 ---
-title: Inhabilitar un email transaccional
+title: 'Inhabilitar un email transaccional'
 id: frequentlyAskedQuestions_6715
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:33.622Z
@@ -27,7 +27,7 @@ Se muestra a continuación:
 3. Busque __Payment Pending__ en el cuadro de búsqueda.
 4. Desactive la opción __"Activar envío de e-mail"__.
 
-  ![Message Center - Desativar - ES](https://images.ctfassets.net/alneenqid6w5/dlSCQPRLKf46SnYGl7X9a/d000be57bdf906c957380992d497ddb6/dlSCQPRLKf46SnYGl7X9a_ES_Payment_Pending.jpg)
+  ![Message Center - Desativar - ES](//images.ctfassets.net/alneenqid6w5/dlSCQPRLKf46SnYGl7X9a/d000be57bdf906c957380992d497ddb6/dlSCQPRLKf46SnYGl7X9a_ES_Payment_Pending.jpg)
 
 5. Haga clic en __Guardar__.
 

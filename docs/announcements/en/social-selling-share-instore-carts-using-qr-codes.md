@@ -1,5 +1,5 @@
 ---
-title: "Social Selling: share inStore carts using QR codes"
+title: 'Social Selling: share inStore carts using QR codes'
 id: 5k1WJysjAhZeLsA4ljvasP
 status: PUBLISHED
 createdAt: 2021-12-09T19:39:56.220Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
 slug: social-selling-share-instore-carts-using-qr-codes
 legacySlug: social-selling-share-instore-carts-using-qr-codes
-announcementImageID: ""
-announcementSynopsisEN: Now inStore Social Selling allows you to share QR codes for customers to complete their purchases.
+announcementImageID: ''
+announcementSynopsisEN: 'Now inStore Social Selling allows you to share QR codes for customers to complete their purchases.'
 ---
 
 inStore is one of VTEX's main products for unified commerce operations. It’s an app that allows your store to provide a true omnichannel experience, integrating your online and physical channels and placing your customers at the core of the business.
@@ -26,7 +26,7 @@ Previously, the Social Selling feature in inStore consisted of generating a link
 
 With the change, inStore now also generates a QR code that can be scanned by customers' devices, in addition to the shareable link.
 
-![instore-social-selling-qr-code-share-en](https://images.ctfassets.net/alneenqid6w5/3JOA4Ar1iW4PudeTYWzaQD/f3ec6fdf7a587799dcf51ebdf30cf6f7/image2.png)
+![instore-social-selling-qr-code-share-en](//images.ctfassets.net/alneenqid6w5/3JOA4Ar1iW4PudeTYWzaQD/f3ec6fdf7a587799dcf51ebdf30cf6f7/image2.png)
 
 ## Why did we make this change?
 

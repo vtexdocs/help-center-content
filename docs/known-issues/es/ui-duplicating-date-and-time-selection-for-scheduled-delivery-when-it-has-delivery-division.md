@@ -1,5 +1,5 @@
 ---
-title: La interfaz de usuario duplica la selección de fecha y hora para la entrega programada cuando tiene división de entrega
+title: 'La interfaz de usuario duplica la selección de fecha y hora para la entrega programada cuando tiene división de entrega'
 id: 6nPIfnI47XKI0YYNEEPenR
 status: PUBLISHED
 createdAt: 2022-04-28T20:03:10.918Z

@@ -1,5 +1,5 @@
 ---
-title: El editor del sitio tiene problemas de representación intermitente en la pantalla pequeña
+title: 'El editor del sitio tiene problemas de representación intermitente en la pantalla pequeña'
 id: 4BGdkeP5IZ9NfFwxIXuDAr
 status: PUBLISHED
 createdAt: 2022-04-19T14:30:17.468Z

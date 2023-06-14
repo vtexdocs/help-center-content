@@ -1,5 +1,5 @@
 ---
-title: Managing delivery capacity
+title: 'Managing delivery capacity'
 id: 2y217FQZCjD0I1n62yxVcz
 status: PUBLISHED
 createdAt: 2021-04-19T14:43:24.606Z

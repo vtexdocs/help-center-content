@@ -1,5 +1,5 @@
 ---
-title: "Price filters: more search flexibility"
+title: 'Price filters: more search flexibility'
 id: 4l7hoNvAXGI6rrefWgLvlK
 status: PUBLISHED
 createdAt: 2020-09-11T20:56:24.841Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: price-filters-more-search-flexibility
 legacySlug: price-filters-more-search-flexibility
-announcementImageID: ""
-announcementSynopsisEN: For your price management to be more dynamic, we developed more filter settings options
+announcementImageID: ''
+announcementSynopsisEN: 'For your price management to be more dynamic, we developed more filter settings options'
 ---
 
 For your price management to be more dynamic, we developed more filter settings options that will enhance your experience.
@@ -22,7 +22,7 @@ Now you can filter prices by combining multiple Categories and Brands, as well a
 
 This update enables you to export more specific prices from filter selection.
 
-![filtro preco-EN](https://images.ctfassets.net/alneenqid6w5/6zuHx35ldRSPGIGMCw61VH/f16a50faf4cfba4d806f8d6aa7430735/filtro_preco-EN.png)
+![filtro preco-EN](//images.ctfassets.net/alneenqid6w5/6zuHx35ldRSPGIGMCw61VH/f16a50faf4cfba4d806f8d6aa7430735/filtro_preco-EN.png)
 
 ## What do I need to do?
 To use this new configuration, follow the steps below:

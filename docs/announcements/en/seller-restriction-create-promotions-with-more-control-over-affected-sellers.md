@@ -1,5 +1,5 @@
 ---
-title: "Seller restriction: create promotions with more control over affected sellers"
+title: 'Seller restriction: create promotions with more control over affected sellers'
 id: 6WtmETyavLkN5gaalat300
 status: PUBLISHED
 createdAt: 2020-10-29T15:06:31.823Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: seller-restriction-create-promotions-with-more-control-over-affected-sellers
 legacySlug: seller-restriction-create-promotions-with-more-control-over-affected-sellers
-announcementImageID: ""
-announcementSynopsisEN: Configuration to include and exclude sellers in promotions
+announcementImageID: ''
+announcementSynopsisEN: 'Configuration to include and exclude sellers in promotions'
 ---
 
 VTEX stores can now define which sellers a promotion does not apply to. 
@@ -24,7 +24,7 @@ Configuration before the update:
   <tr>
     <td>
       <img
-           src="https:https://images.ctfassets.net/alneenqid6w5/2vhukfvaRA6F6aoa1zA0jj/fbffb2976972972a7c86b259f8a7d033/seller-promo-EN.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção">
+           src="https://images.ctfassets.net/alneenqid6w5/2vhukfvaRA6F6aoa1zA0jj/fbffb2976972972a7c86b259f8a7d033/seller-promo-EN.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção">
     </td>
   </tr>
   <tr>
@@ -42,7 +42,7 @@ Configuration after the update:
   <tr>
     <td>
       <img
-           src="https:https://images.ctfassets.net/alneenqid6w5/233U9aja4gDKtrBge4c0tl/d114d8774fa855551fd16b7d32c5be21/seller-promo-EN2.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção">
+           src="https://images.ctfassets.net/alneenqid6w5/233U9aja4gDKtrBge4c0tl/d114d8774fa855551fd16b7d32c5be21/seller-promo-EN2.png" style= "display: block; margin-left: auto; margin-right: auto;" alt = "Configuração de sellers na promoção">
     </td>
   </tr>
   <tr>

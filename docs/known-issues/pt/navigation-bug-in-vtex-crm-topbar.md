@@ -1,5 +1,5 @@
 ---
-title: Bug de navegacao na topbar do VTEX CRM
+title: 'Bug de navegacao na topbar do VTEX CRM'
 id: svI7gnUQLuccauCkeyyoU
 status: PUBLISHED
 createdAt: 2019-01-11T16:10:39.024Z

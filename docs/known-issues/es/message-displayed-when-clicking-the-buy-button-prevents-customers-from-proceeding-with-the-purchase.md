@@ -1,5 +1,5 @@
 ---
-title: El mensaje que aparece al hacer clic en el botón Comprar impide que los clientes continúen con la compra
+title: 'El mensaje que aparece al hacer clic en el botón Comprar impide que los clientes continúen con la compra'
 id: 3i3eys6d4MWnt0E611OdPH
 status: PUBLISHED
 createdAt: 2021-10-13T16:50:22.116Z

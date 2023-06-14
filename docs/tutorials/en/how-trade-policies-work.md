@@ -1,5 +1,5 @@
 ---
-title: How trade policies work
+title: 'How trade policies work'
 id: 6Xef8PZiFm40kg2STrMkMV
 status: PUBLISHED
 createdAt: 2021-05-25T20:05:42.155Z

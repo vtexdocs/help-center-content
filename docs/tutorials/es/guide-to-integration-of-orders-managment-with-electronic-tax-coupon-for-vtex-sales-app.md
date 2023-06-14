@@ -1,5 +1,5 @@
 ---
-title: Registrar datos fiscales adicionales (NCM e ICMS) en un producto de VTEX Sales App
+title: 'Registrar datos fiscales adicionales (NCM e ICMS) en un producto de VTEX Sales App'
 id: 51xsyWzGiQ08KMO2EaaGAa
 status: PUBLISHED
 createdAt: 2017-08-14T23:24:39.793Z

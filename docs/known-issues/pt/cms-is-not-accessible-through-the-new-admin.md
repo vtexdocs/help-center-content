@@ -1,5 +1,5 @@
 ---
-title: Não é possível acessar o CMS através do novo admin (My VTEX)
+title: 'Não é possível acessar o CMS através do novo admin (My VTEX)'
 id: 49Ws7DDihGeQU04UmI86Cu
 status: PUBLISHED
 createdAt: 2018-04-18T20:04:23.491Z
@@ -19,7 +19,7 @@ internalReference:
 
 Ao acessar o CMS por meio do novo ambiente administrativo (My VTEX - `{AccountName}.myvtex.com/admin`), é apresentada uma página de erro, não sendo possível acessá-lo.
 
-![4JSc1cw](https://images.ctfassets.net/alneenqid6w5/2SQ58O96w0u668aoMgeygI/2fe3498d2cade6d204c2b2b67e0be9b0/4JSc1cw.png)
+![4JSc1cw](//images.ctfassets.net/alneenqid6w5/2SQ58O96w0u668aoMgeygI/2fe3498d2cade6d204c2b2b67e0be9b0/4JSc1cw.png)
 
 ## Simulação
 

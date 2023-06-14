@@ -1,5 +1,5 @@
 ---
-title: La suma de los valores SellingPrice puede diferir del valor total del producto restado por los descuentos totales
+title: 'La suma de los valores SellingPrice puede diferir del valor total del producto restado por los descuentos totales'
 id: wo1qtfZnDfI8EylRbXiPF
 status: PUBLISHED
 createdAt: 2019-09-13T18:08:45.753Z

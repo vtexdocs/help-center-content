@@ -1,5 +1,5 @@
 ---
-title: El filtro en la lista Ordenar por promoción con el espacio en blanco no funciona
+title: 'El filtro en la lista Ordenar por promoción con el espacio en blanco no funciona'
 id: 1NvvCd3XWfUxj1Q1cQmhjW
 status: CHANGED
 createdAt: 2022-02-14T16:05:42.972Z

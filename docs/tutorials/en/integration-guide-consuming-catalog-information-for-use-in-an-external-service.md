@@ -1,5 +1,5 @@
 ---
-title: Integration Guide - Consuming catalog information for use in an External Service
+title: 'Integration Guide - Consuming catalog information for use in an External Service'
 id: 3j15zRDuismM42Y8SoGMO2
 status: PUBLISHED
 createdAt: 2018-08-20T19:03:13.609Z

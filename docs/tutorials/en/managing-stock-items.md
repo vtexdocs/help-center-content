@@ -1,5 +1,5 @@
 ---
-title: Inventory management
+title: 'Inventory management'
 id: tutorials_139
 status: PUBLISHED
 createdAt: 2017-04-27T22:17:21.085Z

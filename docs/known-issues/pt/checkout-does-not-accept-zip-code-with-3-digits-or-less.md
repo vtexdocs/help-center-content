@@ -1,5 +1,5 @@
 ---
-title: Checkout não aceita CEP com 3 dígitos ou menos
+title: 'Checkout não aceita CEP com 3 dígitos ou menos'
 id: 1q7dqJvWR2MWYkwIKiQwEc
 status: PUBLISHED
 createdAt: 2018-07-31T21:14:17.294Z

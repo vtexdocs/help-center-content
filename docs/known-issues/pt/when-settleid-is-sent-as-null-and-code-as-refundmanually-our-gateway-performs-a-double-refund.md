@@ -1,5 +1,5 @@
 ---
-title: Quando o acordo é enviado tão nulo e codificado como "reembolso-manual", nosso gateway realiza um duplo reembolso.
+title: 'Quando o acordo é enviado tão nulo e codificado como "reembolso-manual", nosso gateway realiza um duplo reembolso.'
 id: 2PdRRjHDODY2Tk0VItO4Fo
 status: PUBLISHED
 createdAt: 2022-07-11T17:37:43.961Z

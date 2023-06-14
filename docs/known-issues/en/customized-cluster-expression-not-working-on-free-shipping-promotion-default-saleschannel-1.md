@@ -1,5 +1,5 @@
 ---
-title: Customized cluster expression not working on free shipping promotion + Default saleschannel (1)
+title: 'Customized cluster expression not working on free shipping promotion + Default saleschannel (1)'
 id: 27QJfNVhuPNiRxqQiXPRt2
 status: PUBLISHED
 createdAt: 2022-03-16T19:36:36.102Z

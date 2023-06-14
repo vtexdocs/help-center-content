@@ -1,5 +1,5 @@
 ---
-title: Registro de la integración de Magazine Luiza
+title: 'Registro de la integración de Magazine Luiza'
 id: 4QWLcDhsh2GSSamouyu6M0
 status: PUBLISHED
 createdAt: 2018-10-17T12:39:05.174Z

@@ -1,5 +1,5 @@
 ---
-title: Problema ao validar o campo de valor ao comprar com dois cartões
+title: 'Problema ao validar o campo de valor ao comprar com dois cartões'
 id: 6dr0p9WQPSHLkFaSbjI9J7
 status: PUBLISHED
 createdAt: 2022-03-28T01:05:19.734Z

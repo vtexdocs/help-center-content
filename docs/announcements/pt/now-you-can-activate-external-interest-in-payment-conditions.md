@@ -1,5 +1,5 @@
 ---
-title: "Agora você pode ativar juros externos nas condições de pagamento"
+title: 'Agora você pode ativar juros externos nas condições de pagamento'
 id: 2CPvlfBe5e6gGQwUIYQMYq
 status: PUBLISHED
 createdAt: 2018-02-01T13:38:03.118Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: agora-voce-pode-ativar-juros-externos-nas-condicoes-de-pagamento
 legacySlug: agora-voce-pode-ativar-juros-externos-nas-condicoes-de-pagamento
-announcementImageID: ""
-announcementSynopsisPT: O Pagamentos possui uma nova feature para você configurar seus meios de pagamento.
+announcementImageID: ''
+announcementSynopsisPT: 'O Pagamentos possui uma nova feature para você configurar seus meios de pagamento.'
 ---
 
 O Pagamentos possui uma nova feature para você configurar seus meios de pagamento. Agora, é possível ativar a aplicação de juros externos nas parcelas dos seus produtos. Uma função que atende às necessidades das lojas VTEX que operam em países onde os juros são cobrados diretamente pelas instituições financeiras.

@@ -1,5 +1,5 @@
 ---
-title: It's not possible to schedule prices for a range of hours
+title: 'It's not possible to schedule prices for a range of hours'
 id: 4QxkT7HBW0QOSiCcKaSCs2
 status: PUBLISHED
 createdAt: 2017-06-27T02:12:42.022Z

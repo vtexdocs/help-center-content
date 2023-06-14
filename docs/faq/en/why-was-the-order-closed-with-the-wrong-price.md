@@ -1,5 +1,5 @@
 ---
-title: Why was the order closed with the wrong price?
+title: 'Why was the order closed with the wrong price?'
 id: frequentlyAskedQuestions_708
 status: PUBLISHED
 createdAt: 2017-04-27T22:28:49.849Z

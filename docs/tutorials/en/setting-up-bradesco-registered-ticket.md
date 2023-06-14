@@ -1,5 +1,5 @@
 ---
-title: Setting up Bradesco registered ticket
+title: 'Setting up Bradesco registered ticket'
 id: bbnXBjvKOkWYiOosmASiA
 status: DRAFT
 createdAt: 2018-03-20T22:08:43.187Z

@@ -1,5 +1,5 @@
 ---
-title: La ordenación de los valores de las especificaciones no se guarda
+title: 'La ordenación de los valores de las especificaciones no se guarda'
 id: 7Fm0MJaKXKBfpslyV0AnPk
 status: PUBLISHED
 createdAt: 2022-05-23T20:07:52.919Z

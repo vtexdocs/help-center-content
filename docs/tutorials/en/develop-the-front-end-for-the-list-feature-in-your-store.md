@@ -1,5 +1,5 @@
 ---
-title: Develop the front-end for the list feature in your store
+title: 'Develop the front-end for the list feature in your store'
 id: iBCiwkxH8cmk6AcGoYMW0
 status: PUBLISHED
 createdAt: 2018-08-01T14:38:57.550Z

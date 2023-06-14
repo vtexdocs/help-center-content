@@ -1,5 +1,5 @@
 ---
-title: "Introducing the new Shipping Strategy interfaces"
+title: 'Introducing the new Shipping Strategy interfaces'
 id: 4OzIFTj9ywcuE5a5jg8WD7
 status: PUBLISHED
 createdAt: 2023-05-31T15:49:13.447Z
@@ -10,15 +10,15 @@ productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: introducing-the-new-shipping-strategy-interfaces
 legacySlug: introducing-the-new-shipping-strategy-interfaces
-announcementImageID: ""
-announcementSynopsisEN: The new shipping strategy interfaces beta release.
+announcementImageID: ''
+announcementSynopsisEN: 'The new shipping strategy interfaces beta release.'
 ---
 
 Starting from May 31st, we are launching for all VTEX stores the beta version of the new **Shipping Strategy** interfaces, which consist of the [Shipping Policies](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140), [Loading Docks](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj), and [Warehouses](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) pages.
 
 The **Shipping Strategy** pages have been updated according to the new VTEX design system, as shown below:
 
-![nova_estrategia_envio_announcement_boards_EN](https://images.ctfassets.net/alneenqid6w5/7gWgtAG6jo0wXjKCUKYGnj/9a19eb3111c11ccc7b8f085255449b1e/nova_estrategia_envio_announcement_boards_EN.png)
+![nova_estrategia_envio_announcement_boards_EN](//images.ctfassets.net/alneenqid6w5/7gWgtAG6jo0wXjKCUKYGnj/9a19eb3111c11ccc7b8f085255449b1e/nova_estrategia_envio_announcement_boards_EN.png)
 
 ## What has changed?
 

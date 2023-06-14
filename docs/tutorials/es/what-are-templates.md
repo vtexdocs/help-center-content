@@ -1,5 +1,5 @@
 ---
-title: ¿Qué son templates?
+title: '¿Qué son templates?'
 id: 4l7BQBYO9ycumsqua2CU88
 status: PUBLISHED
 createdAt: 2018-01-29T22:18:42.891Z
@@ -31,7 +31,7 @@ Además de estos dos tipos básicos, todavía hay una subdivisión de los __temp
 
 Y hablando en organización, usted encuentra todos los templates en el **Storefront > Layout > CMS**, reunidos en carpetas de acuerdo a su tipo (HTML o Shelves). Los __Sub Templates__ están en la carpeta del mismo nombre, que se encuentra dentro del directorio __HTML Templates__. En estos lugares, usted podrá crear nuevos templates y editar los que ya existen.
 
-![cms](https://images.ctfassets.net/alneenqid6w5/JJxxdcGFq04SKmaqas6Oy/5c7a29f8676d68cc0d4dc7bfcf639ded/cms.png)
+![cms](//images.ctfassets.net/alneenqid6w5/JJxxdcGFq04SKmaqas6Oy/5c7a29f8676d68cc0d4dc7bfcf639ded/cms.png)
 
 ### Artículos relacionados
 - [¿Qué es el CMS?](/es/tutorial/que-es-el-cms)

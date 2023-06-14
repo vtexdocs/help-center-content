@@ -1,5 +1,5 @@
 ---
-title: Descubrir el ID de un SKU
+title: 'Descubrir el ID de un SKU'
 id: 4VQZsYeb3igGK2YowuEYWW
 status: PUBLISHED
 createdAt: 2018-02-07T13:04:01.334Z

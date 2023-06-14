@@ -1,5 +1,5 @@
 ---
-title: AdyenV2(PPP) está exigindo a pspReference para cancelar a transação.
+title: 'AdyenV2(PPP) está exigindo a pspReference para cancelar a transação.'
 id: 3rKIFtngLmBTHSIr2AYql1
 status: PUBLISHED
 createdAt: 2022-03-03T22:08:18.628Z

@@ -1,5 +1,5 @@
 ---
-title: Prueba AB: cómo, dónde, cuándo y por qué
+title: 'Prueba AB: cómo, dónde, cuándo y por qué'
 id: tutorials_581
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:39.133Z
@@ -20,13 +20,13 @@ En primer lugar quiero aclarar la diferencia entre Prueba AB y Prueba Multivaria
 
 **Prueba AB:** no es más que dos (o más) versiones de una misma página creadas con un elemento diferente para probar cuál versión presenta un mejor resultado. Esas pruebas son realizadas al mismo tiempo, o sea, las dos versiones se publican simultáneamente para atingir el mismo perfil de público en un mismo período de tiempo:
 
-![ab_teste_modelo1 esp](https://images.ctfassets.net/alneenqid6w5/6EoMdJwiqWcGCaeAAsI6oc/b9c144ed504084906bc2b586f7e76035/modelo_1_ESPANHOL.png)
+![ab_teste_modelo1 esp](//images.ctfassets.net/alneenqid6w5/6EoMdJwiqWcGCaeAAsI6oc/b9c144ed504084906bc2b586f7e76035/modelo_1_ESPANHOL.png)
 
 _En este ejemplo estamos probando el elemento “color del botón”_
 
 **Prueba Multivariable:** parecida con la Prueba AB, la Prueba Multivariable también tiene el propósito de probar versiones diferentes de una misma pantalla, pero se prueba más de una modificación pro versión creada.
 
-![ab_teste_modelo2 esp](https://images.ctfassets.net/alneenqid6w5/46py0F6og0UgceIwWYgWsW/4fa4e120d982c1845432d3cba3344b63/MODELO_2_espanhol.png)
+![ab_teste_modelo2 esp](//images.ctfassets.net/alneenqid6w5/46py0F6og0UgceIwWYgWsW/4fa4e120d982c1845432d3cba3344b63/MODELO_2_espanhol.png)
 
 _En este ejemplo, estamos probando el elemento “color del botón”, el elemento “texto” y el elemento “tamaño de la fuente”_
 

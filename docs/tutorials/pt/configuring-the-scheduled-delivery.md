@@ -1,5 +1,5 @@
 ---
-title: Configurar entrega agendada
+title: 'Configurar entrega agendada'
 id: tutorials_111
 status: DRAFT
 createdAt: 2017-04-27T22:19:16.609Z
@@ -30,7 +30,7 @@ Em **Estoque & entrega**, acesse **Painéis** e escolha a **Transportadora** des
 
 Em **Tipo da entrega**, clique  **Entrega agendada**.
 
-![entrega-agendada pt](https://images.ctfassets.net/alneenqid6w5/6bbP1sy4xiKUSmYAWGWgMq/c6370ec0630605c537bea7e65e1d15a1/entrega-agendada_pt.png)
+![entrega-agendada pt](//images.ctfassets.net/alneenqid6w5/6bbP1sy4xiKUSmYAWGWgMq/c6370ec0630605c537bea7e65e1d15a1/entrega-agendada_pt.png)
 Para entender melhor como cadastrar os demais campos da transportadora, veja também nossa documentação sobre [cadastro de transportadora](http://help.vtex.com/pt/tutorial/gerenciar-transportadora).
 
 Nesta estrutura, temos os seguintes dados:

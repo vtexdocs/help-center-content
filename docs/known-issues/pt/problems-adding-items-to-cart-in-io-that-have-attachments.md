@@ -1,5 +1,5 @@
 ---
-title: Problemas em adicionar itens com têm anexos ao carrinho do IO
+title: 'Problemas em adicionar itens com têm anexos ao carrinho do IO'
 id: 6fuqi9FsGdIbuf8L6AyvqT
 status: PUBLISHED
 createdAt: 2022-05-12T14:52:09.917Z

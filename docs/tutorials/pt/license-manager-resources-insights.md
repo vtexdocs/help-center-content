@@ -1,5 +1,5 @@
 ---
-title: Recursos do License Manager - Insights
+title: 'Recursos do License Manager - Insights'
 id: 11YIb8PIFTX4bbQXKhGBFm
 status: DRAFT
 createdAt: 2022-02-16T18:12:22.526Z

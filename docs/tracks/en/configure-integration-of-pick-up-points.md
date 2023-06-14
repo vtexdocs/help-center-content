@@ -1,5 +1,5 @@
 ---
-title: Configure integration of pick-up points 
+title: 'Configure integration of pick-up points '
 id: 52C1lm8gMovN8v68s6v89d
 status: PUBLISHED
 createdAt: 2021-08-12T18:12:20.076Z

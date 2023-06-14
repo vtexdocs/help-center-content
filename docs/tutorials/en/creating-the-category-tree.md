@@ -1,5 +1,5 @@
 ---
-title: How to create the categories tree
+title: 'How to create the categories tree'
 id: tutorials_2565
 status: DRAFT
 createdAt: 2017-04-27T21:53:59.088Z

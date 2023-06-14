@@ -1,5 +1,5 @@
 ---
-title: Filtro Gerenciamento de Pedidos com barra (/) tem comportamento indevido
+title: 'Filtro Gerenciamento de Pedidos com barra (/) tem comportamento indevido'
 id: 1Tl4fatscQ686kgGAScSAs
 status: PUBLISHED
 createdAt: 2018-03-27T14:16:02.940Z

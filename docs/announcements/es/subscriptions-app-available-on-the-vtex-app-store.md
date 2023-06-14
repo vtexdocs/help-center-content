@@ -1,5 +1,5 @@
 ---
-title: "Suscripciones: aplicación disponible en VTEX App Store"
+title: 'Suscripciones: aplicación disponible en VTEX App Store'
 id: 2McDzhB4uyLEcabCrBjeNt
 status: DRAFT
 createdAt: 2022-07-26T22:53:03.914Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: suscripciones-aplicacion-disponible-en-vtex-app-store
 legacySlug: suscripciones-aplicacion-disponible-en-vtex-app-store
-announcementImageID: ""
-announcementSynopsisES: La aplicación de Suscripciones está disponible gratis en VTEX App Store.
+announcementImageID: ''
+announcementSynopsisES: 'La aplicación de Suscripciones está disponible gratis en VTEX App Store.'
 ---
 
 Ofrecer suscripciones es una forma de fidelizar y retener el público que realiza compras frecuentes en tu tienda. La solución de VTEX para este tipo de estrategia es la aplicación de[ Suscripciones](https://help.vtex.com/es/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453), que permite crear planes de suscripción que generan pedidos recurrentes de forma automática.

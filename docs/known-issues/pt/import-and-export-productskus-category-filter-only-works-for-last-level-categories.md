@@ -1,5 +1,5 @@
 ---
-title: Importação e exportação O filtro da categoria Produto/Skus só funciona para as categorias de último nível
+title: 'Importação e exportação O filtro da categoria Produto/Skus só funciona para as categorias de último nível'
 id: i7KO2Nw3puiniVTRbDJok
 status: PUBLISHED
 createdAt: 2022-03-25T17:49:45.769Z

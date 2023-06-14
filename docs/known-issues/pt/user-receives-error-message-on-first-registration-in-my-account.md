@@ -1,5 +1,5 @@
 ---
-title: Usuário recebe mensagem de erro no primeiro registro em Minha conta
+title: 'Usuário recebe mensagem de erro no primeiro registro em Minha conta'
 id: 1eFTt4iIxZsBPxd3UQ436r
 status: PUBLISHED
 createdAt: 2022-07-21T15:40:25.508Z

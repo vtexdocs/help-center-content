@@ -1,5 +1,5 @@
 ---
-title: Tarjeta guardada de marca compartida con identificador de sistema de pago incorrecto
+title: 'Tarjeta guardada de marca compartida con identificador de sistema de pago incorrecto'
 id: 1tyihmnbb7FQTr7fQWGaNy
 status: PUBLISHED
 createdAt: 2023-05-29T14:13:00.727Z

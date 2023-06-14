@@ -1,5 +1,5 @@
 ---
-title: Actualizar el nombre del usuario en la sección de inicio de sesión
+title: 'Actualizar el nombre del usuario en la sección de inicio de sesión'
 id: 2jshd2ApTq7hKNLbQiCWdS
 status: PUBLISHED
 createdAt: 2022-03-14T17:20:40.732Z

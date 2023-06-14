@@ -1,5 +1,5 @@
 ---
-title: Campos de texto de dimensión no seleccionados durante la creación de SKU
+title: 'Campos de texto de dimensión no seleccionados durante la creación de SKU'
 id: 6bxUULbSKIeUPOVzX9wCru
 status: PUBLISHED
 createdAt: 2023-04-06T17:29:30.908Z

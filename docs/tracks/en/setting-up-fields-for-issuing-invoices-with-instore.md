@@ -1,5 +1,5 @@
 ---
-title: Setting up fields for issuing invoices with inStore
+title: 'Setting up fields for issuing invoices with inStore'
 id: 2VuvTxbZKgWqikmIqWyUqG
 status: DRAFT
 createdAt: 2018-03-15T21:36:31.427Z

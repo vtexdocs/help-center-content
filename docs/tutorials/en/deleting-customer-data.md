@@ -1,5 +1,5 @@
 ---
-title: Deleting customer data
+title: 'Deleting customer data'
 id: 1R9Fn7A06Ifj4R9YD4JTKU
 status: PUBLISHED
 createdAt: 2022-04-14T13:28:53.209Z

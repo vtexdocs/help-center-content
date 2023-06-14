@@ -1,5 +1,5 @@
 ---
-title: "Sales rep code: inStore customization improvements"
+title: 'Sales rep code: inStore customization improvements'
 id: 4DsmWN3XTpdnTtNbiaxEs1
 status: PUBLISHED
 createdAt: 2021-02-04T11:40:06.468Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: sales-rep-code-instore-customization-improvements
 legacySlug: sales-rep-code-instore-customization-improvements
-announcementImageID: ""
-announcementSynopsisEN: Now the client can opt to make the sales rep code a required field for a sale to be made.
+announcementImageID: ''
+announcementSynopsisEN: 'Now the client can opt to make the sales rep code a required field for a sale to be made.'
 ---
 
 inStore, VTEX’s solution for brick-and-mortar stores, allows our clients to customize their stores according to their business needs. They can make these changes through fields embedded in the purchase flow.

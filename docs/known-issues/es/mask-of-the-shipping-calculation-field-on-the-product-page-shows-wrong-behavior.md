@@ -1,5 +1,5 @@
 ---
-title: Máscara del campo cálculo de envío en la página del producto tiene comportamiento inadecuado
+title: 'Máscara del campo cálculo de envío en la página del producto tiene comportamiento inadecuado'
 id: 3e3i6QgalWSKyIw6KsYwGa
 status: PUBLISHED
 createdAt: 2017-08-11T17:33:43.752Z

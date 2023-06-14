@@ -1,5 +1,5 @@
 ---
-title: How to configure visited product
+title: 'How to configure visited product'
 id: tutorials_3136
 status: PUBLISHED
 createdAt: 2017-04-27T21:52:11.184Z

@@ -1,5 +1,5 @@
 ---
-title: Mapeamento de categorias, variações e atributos do Mercado Livre
+title: 'Mapeamento de categorias, variações e atributos do Mercado Livre'
 id: 6d5DFl6MZasoKickqkOUo4
 status: DRAFT
 createdAt: 2018-07-28T17:54:34.171Z

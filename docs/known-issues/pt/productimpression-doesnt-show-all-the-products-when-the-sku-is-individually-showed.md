@@ -1,5 +1,5 @@
 ---
-title: ProdutoImpressão não mostra todos os produtos quando o SKU é mostrado individualmente
+title: 'ProdutoImpressão não mostra todos os produtos quando o SKU é mostrado individualmente'
 id: 43HBv7fXndckoe9mCbMlwW
 status: PUBLISHED
 createdAt: 2022-12-16T12:23:06.408Z

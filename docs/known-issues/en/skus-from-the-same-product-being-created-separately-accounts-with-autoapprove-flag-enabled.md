@@ -1,5 +1,5 @@
 ---
-title: Skus from the same product being created separately (accounts with Autoapprove flag enabled)
+title: 'Skus from the same product being created separately (accounts with Autoapprove flag enabled)'
 id: 1nkfd9OuKTFsnBWe1k6dif
 status: PUBLISHED
 createdAt: 2023-02-15T12:22:35.143Z

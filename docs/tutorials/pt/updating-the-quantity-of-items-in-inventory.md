@@ -1,5 +1,5 @@
 ---
-title: Atualização da quantidade de itens em estoque
+title: 'Atualização da quantidade de itens em estoque'
 id: 2MDwYV1COA6YuoiY22AyGo
 status: PUBLISHED
 createdAt: 2017-08-01T14:43:39.074Z
@@ -44,7 +44,7 @@ _Unidades disponíveis = unidades da última atualização - unidades reservadas
 
 O estoque negativo normalmente ocorre quando há atualização na quantidade de itens de um SKU de um pedido em que os produtos já estavam reservados no inventário. Para evitar essa situação, é importante que a atualização da quantidade de SKUs ocorra com pedidos com status posterior a `Preparando entrega`. Dessa forma, a [reserva já terá sido reconhecida](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona/#reserva-reconhecida) e não haverá conflito entre os itens do inventário com os itens que de fato estão disponíveis para venda.
 
-![gerenciar inventario](https://images.ctfassets.net/alneenqid6w5/384hm6LEhpNrvqGITDwzZ1/9ce03695fdd2173d9fa079ab2887eb68/gerenciar_inventario.gif)
+![gerenciar inventario](//images.ctfassets.net/alneenqid6w5/384hm6LEhpNrvqGITDwzZ1/9ce03695fdd2173d9fa079ab2887eb68/gerenciar_inventario.gif)
 
 ## Artigos relacionados
 

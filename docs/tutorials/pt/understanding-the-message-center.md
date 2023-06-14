@@ -1,5 +1,5 @@
 ---
-title: Como funciona a Central de mensagens
+title: 'Como funciona a Central de mensagens'
 id: tutorials_84
 status: PUBLISHED
 createdAt: 2017-04-27T22:20:04.874Z
@@ -32,7 +32,7 @@ Entenda as informações que cada _card_ do template traz:
 
 Para facilitar a navegação a interface disponibiliza, além do campo de busca por texto livre, filtros por aplicações (módulos) e tipo (mensagem padrão ou personalizada/alterada).
 
-![busca-templates-central-mensagens pt](https://images.ctfassets.net/alneenqid6w5/QbPAmXYUeIwUqsugGkw40/c489a00144a36b78df59ba4eb4cc539c/busca-templates-central-mensagens_pt.png)
+![busca-templates-central-mensagens pt](//images.ctfassets.net/alneenqid6w5/QbPAmXYUeIwUqsugGkw40/c489a00144a36b78df59ba4eb4cc539c/busca-templates-central-mensagens_pt.png)
 
 Depois de entender o básico sobre os templates, você já pode ver como editá-los. Esse passo não é obrigatório, pois a VTEX fornece um layout básico e responsivo para todas as mensagens, com os dados necessários para uma boa comunicação com seu cliente, mas é natural que as lojas os adequem ao padrão de comunicação já usado para a marca.
 

@@ -1,5 +1,5 @@
 ---
-title: How to define product prices
+title: 'How to define product prices'
 id: tutorials_2553
 status: DRAFT
 createdAt: 2017-04-27T21:54:27.357Z

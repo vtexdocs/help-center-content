@@ -1,5 +1,5 @@
 ---
-title: Promoción en XML de parceros
+title: 'Promoción en XML de parceros'
 id: tutorials_1255
 status: DRAFT
 createdAt: 2017-04-27T21:57:04.746Z

@@ -1,5 +1,5 @@
 ---
-title: Resolución de errores de divergencia de precio en pedidos de marketplace
+title: 'Resolución de errores de divergencia de precio en pedidos de marketplace'
 id: 6MbmPX4SKyRkcTJxVhRna8
 status: PUBLISHED
 createdAt: 2021-08-03T21:56:44.320Z

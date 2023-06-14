@@ -1,5 +1,5 @@
 ---
-title: Seller Portal: Productos
+title: 'Seller Portal: Productos'
 id: 49vxWqoaWRZC4atwLz6cMg
 status: PUBLISHED
 createdAt: 2021-04-12T15:21:30.529Z
@@ -16,7 +16,7 @@ subcategory: 4hisB47iAVZk4r3SEmMoG
 
 La página **Productos** le permite ver y gestionar la lista completa de productos registrados en su tienda, lo que simplifica la gestión del catálogo en Seller Portal. Puede acceder a la página a través del menú **Catálogo** en el Admin VTEX.
 
-![product-list-es](https://images.ctfassets.net/alneenqid6w5/25zE8wHvqhOGvaXweX7acK/2ae859a5052ac86fee7b4938ead9a6a8/product-list-es.png)
+![product-list-es](//images.ctfassets.net/alneenqid6w5/25zE8wHvqhOGvaXweX7acK/2ae859a5052ac86fee7b4938ead9a6a8/product-list-es.png)
 
 Desde la lista de productos puede llevar a cabo varias acciones:
 

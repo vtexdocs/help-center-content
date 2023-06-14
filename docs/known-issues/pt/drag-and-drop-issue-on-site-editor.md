@@ -1,5 +1,5 @@
 ---
-title: Edição Drag and Drop no Site Editor
+title: 'Edição Drag and Drop no Site Editor'
 id: 4DubZ5C0dmqKGQqAZ6nZjo
 status: PUBLISHED
 createdAt: 2022-10-25T15:31:15.485Z

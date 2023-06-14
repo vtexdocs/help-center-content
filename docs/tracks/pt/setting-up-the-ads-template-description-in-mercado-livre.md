@@ -1,5 +1,5 @@
 ---
-title: Configurar template de descrição dos anúncios no Mercado Livre
+title: 'Configurar template de descrição dos anúncios no Mercado Livre'
 id: 1gEoq6NDAIM2G4Y0ieMk6u
 status: DRAFT
 createdAt: 2018-08-13T12:40:11.566Z

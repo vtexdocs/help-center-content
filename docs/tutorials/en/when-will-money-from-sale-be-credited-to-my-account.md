@@ -1,5 +1,5 @@
 ---
-title: When will money from a sale be credited to my account?
+title: 'When will money from a sale be credited to my account?'
 id: 7GNnDHohqi3Tj6qytgq4Ce
 status: DRAFT
 createdAt: 2020-06-16T00:26:36.127Z

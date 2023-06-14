@@ -1,5 +1,5 @@
 ---
-title: Selecting inventory for Mercado Envíos Full orders
+title: 'Selecting inventory for Mercado Envíos Full orders'
 id: 7M4HCsV16LmWXpp20DEpAd
 status: PUBLISHED
 createdAt: 2020-12-01T20:00:15.583Z

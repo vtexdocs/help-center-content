@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Credit Key
+title: 'Configurar pagamento com Credit Key'
 id: 4TtmhhkcXQYnkaCPUa9adB
 status: PUBLISHED
 createdAt: 2023-04-20T14:33:42.988Z

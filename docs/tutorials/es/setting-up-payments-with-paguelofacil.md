@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con PagueloFacil
+title: 'Configurar pago con PagueloFacil'
 id: 6zkkvVIOv6U0HxhMMmYi5v
 status: DRAFT
 createdAt: 2022-02-21T21:16:24.054Z

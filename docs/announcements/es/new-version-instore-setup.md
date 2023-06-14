@@ -1,5 +1,5 @@
 ---
-title: "Mejoras en el proceso de incorporación de inStore para una experiencia más fluida"
+title: 'Mejoras en el proceso de incorporación de inStore para una experiencia más fluida'
 id: 73mV4YZfVo6YVC3Lkxw805
 status: PUBLISHED
 createdAt: 2023-04-13T18:20:12.438Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: instore-setup-nueva-version
 legacySlug: instore-setup-nueva-version
-announcementImageID: ""
-announcementSynopsisES: Nueva versión de inStore Setup con configuraciones automáticas
+announcementImageID: ''
+announcementSynopsisES: 'Nueva versión de inStore Setup con configuraciones automáticas'
 ---
 
 Para ofrecer un proceso de incorporación más accesible y simplificado en [inStore Setup](https://apps.vtex.com/vtex-instore/p), hemos desarrollado una nueva versión de la aplicación que habilita automáticamente algunas configuraciones.

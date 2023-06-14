@@ -1,5 +1,5 @@
 ---
-title: Identificar erros de fechamento de pedido
+title: 'Identificar erros de fechamento de pedido'
 id: 4VZvHbDMfuIo0gO6OscgKE
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:49.682Z

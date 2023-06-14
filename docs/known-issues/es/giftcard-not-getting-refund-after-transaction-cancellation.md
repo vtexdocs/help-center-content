@@ -1,5 +1,5 @@
 ---
-title: La tarjeta de regalo no se reembolsa después de la cancelación de la transacción
+title: 'La tarjeta de regalo no se reembolsa después de la cancelación de la transacción'
 id: lWW0jvEty50Pphr3JFYt7
 status: PUBLISHED
 createdAt: 2022-06-28T17:06:16.141Z

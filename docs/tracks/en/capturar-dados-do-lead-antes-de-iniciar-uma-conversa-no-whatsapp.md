@@ -1,5 +1,5 @@
 ---
-title: Capture lead data before starting a WhatsApp conversation
+title: 'Capture lead data before starting a WhatsApp conversation'
 id: 5dcakrZEc8aOTG7OshTPWp
 status: PUBLISHED
 createdAt: 2022-08-25T17:55:53.070Z

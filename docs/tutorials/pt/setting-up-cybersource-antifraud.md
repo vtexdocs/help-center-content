@@ -1,5 +1,5 @@
 ---
-title: Configurar antifraude CyberSource
+title: 'Configurar antifraude CyberSource'
 id: 2Z88QmpRAsWmI0qaCo4aQg
 status: PUBLISHED
 createdAt: 2018-04-30T18:08:44.396Z

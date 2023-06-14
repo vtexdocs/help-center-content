@@ -1,5 +1,5 @@
 ---
-title: Quantos cupons, taxas e promoções posso ter na minha loja?
+title: 'Quantos cupons, taxas e promoções posso ter na minha loja?'
 id: frequentlyAskedQuestions_352
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:52.883Z

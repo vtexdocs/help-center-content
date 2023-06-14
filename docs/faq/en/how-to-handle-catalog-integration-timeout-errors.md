@@ -1,5 +1,5 @@
 ---
-title: How to handle catalog integration timeout errors?
+title: 'How to handle catalog integration timeout errors?'
 id: 41SucuGFjn1ndIN2iR1vvr
 status: DRAFT
 createdAt: 2019-03-20T21:50:15.029Z

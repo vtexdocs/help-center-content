@@ -1,5 +1,5 @@
 ---
-title: Filtros de especificación con restricción de caracteres 
+title: 'Filtros de especificación con restricción de caracteres '
 id: 3V0CMV9PMQmm2QuSaoqCcO
 status: PUBLISHED
 createdAt: 2018-09-20T16:28:09.186Z

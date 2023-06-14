@@ -1,5 +1,5 @@
 ---
-title: [Analytics] Erro ao carregar dados no painel de desempenho de vendas
+title: '[Analytics] Erro ao carregar dados no painel de desempenho de vendas'
 id: 248vcET5q5GkJj0dgpc9O2
 status: PUBLISHED
 createdAt: 2023-04-28T19:55:43.216Z

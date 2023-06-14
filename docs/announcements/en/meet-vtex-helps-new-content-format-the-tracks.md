@@ -1,5 +1,5 @@
 ---
-title: "Meet VTEX Help's new content format: the tracks"
+title: 'Meet VTEX Help's new content format: the tracks'
 id: 42l5DRCLReUweQC0EewAUm
 status: PUBLISHED
 createdAt: 2018-05-09T15:53:24.493Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: authors_24
 slug: meet-vtex-helps-new-content-format-the-tracks
 legacySlug: meet-vtex-helps-new-content-format-the-tracks
-announcementImageID: ""
-announcementSynopsisEN: Track are detailed tutorials for you to use the VTEX platform to its full potential.
+announcementImageID: ''
+announcementSynopsisEN: 'Track are detailed tutorials for you to use the VTEX platform to its full potential.'
 ---
 
 VTEX Help introduces a new content format, adding up to the articles and announcements you already know. The tracks bring a linear approach to help you master all the platform's potential.

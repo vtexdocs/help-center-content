@@ -1,5 +1,5 @@
 ---
-title: Setting up Sitef gateway
+title: 'Setting up Sitef gateway'
 id: 1y3gqmbb6wgwscW8yeccAc
 status: PUBLISHED
 createdAt: 2018-03-05T17:07:51.846Z

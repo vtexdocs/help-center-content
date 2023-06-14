@@ -1,5 +1,5 @@
 ---
-title: UI exibindo erroneamente o preço de envio quando os pacotes são divididos para entrega programada
+title: 'UI exibindo erroneamente o preço de envio quando os pacotes são divididos para entrega programada'
 id: 6HkjI7IwvvYaxHAqMS2aUv
 status: PUBLISHED
 createdAt: 2023-03-20T14:59:50.827Z

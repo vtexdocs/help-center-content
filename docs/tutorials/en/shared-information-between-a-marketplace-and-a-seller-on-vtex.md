@@ -1,5 +1,5 @@
 ---
-title: Shared information between a marketplace and a seller on VTEX
+title: 'Shared information between a marketplace and a seller on VTEX'
 id: 3o7WGiBtfnKKZ3Ddug26k3
 status: PUBLISHED
 createdAt: 2022-04-07T13:32:06.199Z

@@ -1,5 +1,5 @@
 ---
-title: O pedido novamente do histórico de pedidos B2B não funciona
+title: 'O pedido novamente do histórico de pedidos B2B não funciona'
 id: 2kT6UJsivYRgEaYpeRpEWa
 status: PUBLISHED
 createdAt: 2023-05-05T13:16:44.403Z

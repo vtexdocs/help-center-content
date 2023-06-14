@@ -1,5 +1,5 @@
 ---
-title: Las transacciones con pagaré no se cancelan automáticamente al expirar la fecha de pago
+title: 'Las transacciones con pagaré no se cancelan automáticamente al expirar la fecha de pago'
 id: 5isjT9txiBYSQzZK00xjg3
 status: PUBLISHED
 createdAt: 2021-09-30T15:45:44.398Z

@@ -1,5 +1,5 @@
 ---
-title: Why is my product appearing in the wrong category?
+title: 'Why is my product appearing in the wrong category?'
 id: 189ijTfdJkcy2gg2MWkuEE
 status: PUBLISHED
 createdAt: 2018-01-23T13:35:06.489Z

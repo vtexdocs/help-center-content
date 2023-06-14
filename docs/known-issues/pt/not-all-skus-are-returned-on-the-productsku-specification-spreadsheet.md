@@ -1,5 +1,5 @@
 ---
-title: Nem todos os skus são devolvidos na planilha de especificação do produto/sku
+title: 'Nem todos os skus são devolvidos na planilha de especificação do produto/sku'
 id: 3fo3A4mQ1YjyJH7yWETk8J
 status: PUBLISHED
 createdAt: 2022-08-31T20:34:22.708Z

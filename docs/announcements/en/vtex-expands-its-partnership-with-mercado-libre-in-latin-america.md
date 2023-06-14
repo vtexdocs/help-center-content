@@ -1,5 +1,5 @@
 ---
-title: "VTEX expands its partnership with Mercado Libre in Latin America"
+title: 'VTEX expands its partnership with Mercado Libre in Latin America'
 id: 5s5m4LqQOmp3dwiyRAXGCj
 status: PUBLISHED
 createdAt: 2022-06-17T18:13:44.433Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: vtex-expands-its-partnership-with-mercado-libre-in-latin-america
 legacySlug: vtex-expands-its-partnership-with-mercado-libre-in-latin-america
-announcementImageID: ""
-announcementSynopsisEN: The certification ensures that VTEX offers features for your store to succeed in sales on Mercado Libre
+announcementImageID: ''
+announcementSynopsisEN: 'The certification ensures that VTEX offers features for your store to succeed in sales on Mercado Libre'
 ---
 
 Mercado Libre is one of the leaders in ecommerce in Latin America. It offers ecommerce solutions for buying, selling, paying for, advertising, and shipping products online for end-users and businesses.

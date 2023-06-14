@@ -1,5 +1,5 @@
 ---
-title: Por que o Preço de Lista não aparece no front-end da minha loja?
+title: 'Por que o Preço de Lista não aparece no front-end da minha loja?'
 id: 7zB1S10crK6QXiWcDTUFtE
 status: CHANGED
 createdAt: 2019-03-25T20:41:57.520Z

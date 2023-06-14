@@ -1,5 +1,5 @@
 ---
-title: Creating merchandising rules - Manual Editor
+title: 'Creating merchandising rules - Manual Editor'
 id: 2FpbarYzsnbg7aZZn3TGF8
 status: PUBLISHED
 createdAt: 2020-04-14T14:10:24.518Z

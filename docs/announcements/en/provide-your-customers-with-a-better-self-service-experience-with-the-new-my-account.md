@@ -1,5 +1,5 @@
 ---
-title: "Provide your customers with a better self-service experience with the new My Account"
+title: 'Provide your customers with a better self-service experience with the new My Account'
 id: 77FfArUimzsoeHM7LzSfFY
 status: CHANGED
 createdAt: 2019-04-12T22:51:48.332Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 6AcGyun1hSWewU8YcaQiO
 slug: provide-your-customers-with-a-better-self-service-experience-with-the-new-my-account
 legacySlug: provide-your-customers-with-a-better-self-service-experience-with-the-new-my-account
-announcementImageID: ""
-announcementSynopsisEN: All orders and personal data managed from a single place.
+announcementImageID: ''
+announcementSynopsisEN: 'All orders and personal data managed from a single place.'
 ---
 
 Starting June 25th, 2019, your customers can access their orders and personal data, all in one place, with the new My Account app.

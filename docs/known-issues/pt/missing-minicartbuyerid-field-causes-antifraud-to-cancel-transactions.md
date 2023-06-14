@@ -1,5 +1,5 @@
 ---
-title: O campo minicart.buyer.id ausente faz com que o antifraude cancele transações
+title: 'O campo minicart.buyer.id ausente faz com que o antifraude cancele transações'
 id: 6dvOH9b96qGAHXIzW3wBe1
 status: PUBLISHED
 createdAt: 2023-05-23T17:10:17.329Z

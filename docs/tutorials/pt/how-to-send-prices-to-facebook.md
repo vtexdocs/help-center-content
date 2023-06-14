@@ -1,5 +1,5 @@
 ---
-title: Como funciona o envio de preços para o Facebook
+title: 'Como funciona o envio de preços para o Facebook'
 id: 4RIY6Z51u8OEYqIQgmiKKK
 status: DRAFT
 createdAt: 2019-01-24T20:45:35.019Z

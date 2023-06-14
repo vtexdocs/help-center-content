@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Promissory
+title: 'Setting up payments with Promissory'
 id: 5pW7avTwtyQcMu4uiW8quQ
 status: PUBLISHED
 createdAt: 2018-06-21T20:20:24.484Z

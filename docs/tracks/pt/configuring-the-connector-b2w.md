@@ -1,5 +1,5 @@
 ---
-title: Configurar conector
+title: 'Configurar conector'
 id: 40eYElt1qwIqGeIeum2W4M
 status: PUBLISHED
 createdAt: 2018-09-27T22:25:49.315Z

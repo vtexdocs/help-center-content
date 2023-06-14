@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con ZIP
+title: 'Configurar pago con ZIP'
 id: 52os0cinGkauS5E83r3ngU
 status: DRAFT
 createdAt: 2022-08-15T14:42:46.592Z

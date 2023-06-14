@@ -1,5 +1,5 @@
 ---
-title: "Afiliações com split nativo e alteração de seller"
+title: 'Afiliações com split nativo e alteração de seller'
 id: HZrgfF4RMTX9DHv4erOR6
 status: PUBLISHED
 createdAt: 2020-12-22T23:33:48.841Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: afiliacoes-com-split-nativo-e-alteracao-de-seller
 legacySlug: afiliacoes-com-split-nativo-e-alteracao-de-seller
-announcementImageID: ""
-announcementSynopsisPT: Novos comportamentos de captura permitem alteração de seller e flexibilizam marketplaces com afiliações de split nativo.
+announcementImageID: ''
+announcementSynopsisPT: 'Novos comportamentos de captura permitem alteração de seller e flexibilizam marketplaces com afiliações de split nativo.'
 ---
 
 Marketplaces podem precisar alterar sellers (quem entrega o produto) em diversas situações, incluindo por exemplo, quando o seller cancelar um produto em caso de ruptura de estoque. Alterar o seller, nesse caso pode garantir a venda ao Marketplace e prevenir o estorno do pagamento.

@@ -1,5 +1,5 @@
 ---
-title: What does promoting a workspace mean?
+title: 'What does promoting a workspace mean?'
 id: 3wlwt7dbO0yYyy0wqIOQ2e
 status: DRAFT
 createdAt: 2018-02-22T02:06:50.718Z

@@ -1,5 +1,5 @@
 ---
-title: "Use the Nominal Tax and avoid customers abandoning their shopping cart"
+title: 'Use the Nominal Tax and avoid customers abandoning their shopping cart'
 id: 5dPMJlTG0rP467QUNFKtNY
 status: PUBLISHED
 createdAt: 2019-12-12T21:33:46.613Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 1E4UkWguFZAXjkguvNHPIv
 slug: use-the-nominal-tax-and-avoid-customers-abandoning-their-shopping-cart
 legacySlug: use-the-nominal-tax-and-avoid-customers-abandoning-their-shopping-cart
-announcementImageID: ""
-announcementSynopsisEN: The tool is useful for a number of business strategies, including to avoid having the order burdened.
+announcementImageID: ''
+announcementSynopsisEN: 'The tool is useful for a number of business strategies, including to avoid having the order burdened.'
 ---
 
 The Merchandising, Promotions & Taxes team released a new feature called **Nominal Tax**.
@@ -31,5 +31,5 @@ The functionality can be used whenever retailers want to opt for a fixed product
 - Under "What kind and amount of tax?", choose the Nominal tax option
 - Fill in the required fields and click on save
 
-![Nominal tax EN](https://images.ctfassets.net/alneenqid6w5/5ntJCk8NaGwYD4W4ZzTx9b/6217dcf2fd3ba137d84f78a7d3e8d129/Nominal_tax_EN.png)
+![Nominal tax EN](//images.ctfassets.net/alneenqid6w5/5ntJCk8NaGwYD4W4ZzTx9b/6217dcf2fd3ba137d84f78a7d3e8d129/Nominal_tax_EN.png)
 

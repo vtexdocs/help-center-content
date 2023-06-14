@@ -1,5 +1,5 @@
 ---
-title: Actualización de especificación por API o webservice no envía producto para indización
+title: 'Actualización de especificación por API o webservice no envía producto para indización'
 id: d0xRClv0lM6q6EmcSCG0Q
 status: PUBLISHED
 createdAt: 2018-04-03T14:31:21.538Z

@@ -1,5 +1,5 @@
 ---
-title: Installing the TikTok for Business app
+title: 'Installing the TikTok for Business app'
 id: 3xzZwEaIHsMImwAnKfZGgL
 status: PUBLISHED
 createdAt: 2022-04-14T21:18:24.480Z

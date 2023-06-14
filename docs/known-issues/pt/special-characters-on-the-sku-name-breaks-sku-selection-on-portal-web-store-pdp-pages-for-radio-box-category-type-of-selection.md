@@ -1,5 +1,5 @@
 ---
-title: Caracteres especiais no nome SKU quebra a seleção SKU nas páginas PDP do Portal Web Store para caixa de rádio Tipo de seleção de categoria
+title: 'Caracteres especiais no nome SKU quebra a seleção SKU nas páginas PDP do Portal Web Store para caixa de rádio Tipo de seleção de categoria'
 id: 1G4FSBVZqn44ke7YJTuBJA
 status: PUBLISHED
 createdAt: 2022-03-16T16:26:36.035Z

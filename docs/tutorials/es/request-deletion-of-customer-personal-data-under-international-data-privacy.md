@@ -1,5 +1,5 @@
 ---
-title: Solicitar la eliminación de los datos personales de los clientes según las leyes internacionales sobre la privacidad de datos
+title: 'Solicitar la eliminación de los datos personales de los clientes según las leyes internacionales sobre la privacidad de datos'
 id: 34Sd4DN6fOk5odkjIAedpE
 status: DRAFT
 createdAt: 2022-04-11T21:00:56.085Z

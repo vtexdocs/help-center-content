@@ -1,5 +1,5 @@
 ---
-title: CallbackUrl siempre devuelve 403 cuando la cuenta del propietario del conector ha sido desactivada
+title: 'CallbackUrl siempre devuelve 403 cuando la cuenta del propietario del conector ha sido desactivada'
 id: yHrPuhMrqMJpUQe5zK3p1
 status: PUBLISHED
 createdAt: 2023-03-21T18:37:46.361Z

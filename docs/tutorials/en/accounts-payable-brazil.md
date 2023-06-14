@@ -1,5 +1,5 @@
 ---
-title: Accounts Payable - Brazil
+title: 'Accounts Payable - Brazil'
 id: tutorials_660
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:25.003Z

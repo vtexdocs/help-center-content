@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Feenicia
+title: 'Setting up payments with Feenicia'
 id: 4yOo3Jc1ZD1BvAozpDOST0
 status: DRAFT
 createdAt: 2022-08-10T21:53:34.121Z

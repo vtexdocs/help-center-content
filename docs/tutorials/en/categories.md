@@ -1,5 +1,5 @@
 ---
-title: Seller Portal: Categories
+title: 'Seller Portal: Categories'
 id: 798zOqqqbeec776xhcXSuV
 status: PUBLISHED
 createdAt: 2021-11-01T20:15:56.899Z
@@ -16,7 +16,7 @@ subcategory: 4hisB47iAVZk4r3SEmMoG
 
 The **Categories** page allows you to view and manage the category trees registered on Seller Portal. To access the page on VTEX Admin, go to **Catalog** > **Categories**.
 
-![categorias-en](https://images.ctfassets.net/alneenqid6w5/1ViCOvDbtriF91lt0Z6ztZ/d9d795232e14fe8300461c0d32dfb10e/categorias-en.PNG)
+![categorias-en](//images.ctfassets.net/alneenqid6w5/1ViCOvDbtriF91lt0Z6ztZ/d9d795232e14fe8300461c0d32dfb10e/categorias-en.PNG)
 
 From the category tree, you can:
 
@@ -50,7 +50,7 @@ To find a category, you must type the name of the category in the search bar abo
 ## Browsing the category tree
 The categories page displays the outermost levels of the categories. Click on the <i class="fas fa-angle-right"></i> icon to access the subcategories, as shown below.
 
-![arvore-categoria-EN](https://images.ctfassets.net/alneenqid6w5/4bcSzxVEs4GAn1INLdjP8E/362b5e61773ad44d2e00d7f0813339d0/arvore-categoria-EN.gif)
+![arvore-categoria-EN](//images.ctfassets.net/alneenqid6w5/4bcSzxVEs4GAn1INLdjP8E/362b5e61773ad44d2e00d7f0813339d0/arvore-categoria-EN.gif)
 
 To view the information for a category, click on its name. 
 

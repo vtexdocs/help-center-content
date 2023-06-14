@@ -1,5 +1,5 @@
 ---
-title: Defina a quantidade do SKU em estoque
+title: 'Defina a quantidade do SKU em estoque'
 id: 5pcUhteXHUoAo0Ece4ickO
 status: DRAFT
 createdAt: 2018-05-02T20:56:33.794Z

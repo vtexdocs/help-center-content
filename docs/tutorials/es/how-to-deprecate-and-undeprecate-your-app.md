@@ -1,5 +1,5 @@
 ---
-title: Cómo hacer el rollback y revertir el rollback de su aplicación
+title: 'Cómo hacer el rollback y revertir el rollback de su aplicación'
 id: 6HeHBEZeq9yFu6WqpOeLjG
 status: DRAFT
 createdAt: 2019-01-22T21:34:16.088Z
@@ -18,4 +18,4 @@ Si usted necesita realizar un rollback de su aplicación, ejecute el comando `vt
 
 Si percibe enseguida que será necesario deshacer el rollback, usted podrá realizar el comando `vtex undeprecate`.
 
-![image (2)](https://images.ctfassets.net/alneenqid6w5/42XNwwb22OQKBkOTO5C2Bl/3bfbb5a89027e41dda9a7532a7591e7f/image__2_.png)
+![image (2)](//images.ctfassets.net/alneenqid6w5/42XNwwb22OQKBkOTO5C2Bl/3bfbb5a89027e41dda9a7532a7591e7f/image__2_.png)

@@ -1,5 +1,5 @@
 ---
-title: Pickups inherited between whitelabel sellers are treated as different/independent pickups on the purchase flow
+title: 'Pickups inherited between whitelabel sellers are treated as different/independent pickups on the purchase flow'
 id: mfLw2RDV0C7cXNic5CwoA
 status: PUBLISHED
 createdAt: 2022-05-12T14:52:12.808Z

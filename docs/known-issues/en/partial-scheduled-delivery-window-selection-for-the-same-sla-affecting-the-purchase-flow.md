@@ -1,5 +1,5 @@
 ---
-title: Partial scheduled delivery window selection for the same SLA affecting the purchase flow
+title: 'Partial scheduled delivery window selection for the same SLA affecting the purchase flow'
 id: 1xkpnp0vxR0O8sJYARcFJF
 status: PUBLISHED
 createdAt: 2022-08-11T18:41:25.906Z

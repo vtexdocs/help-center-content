@@ -1,5 +1,5 @@
 ---
-title: La interfaz de usuario no actualiza la mejor opción de SLA en el carro
+title: 'La interfaz de usuario no actualiza la mejor opción de SLA en el carro'
 id: 5H05jLUJA0gmSDTO6nMsPE
 status: PUBLISHED
 createdAt: 2022-03-26T02:30:36.692Z

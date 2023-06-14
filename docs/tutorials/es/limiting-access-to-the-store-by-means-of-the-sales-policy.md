@@ -1,5 +1,5 @@
 ---
-title: Limitar acceso a la tienda por política comercial
+title: 'Limitar acceso a la tienda por política comercial'
 id: tutorials_3063
 status: PUBLISHED
 createdAt: 2017-04-27T21:52:28.228Z
@@ -47,7 +47,7 @@ Después de crear el clúster, debe crear la regla en la política comercial de 
 3. En el campo de la **Regla condicional**, rellene el valor **NombreDelCluster=”true”**. Tenga en cuenta que el valor **NombreDelCluster** debe de ser cambiado por el nombre del campo en la entidad de datos.
 4. Haga click en el botón **Guardar**.
 
-![Cluster ES](https://images.ctfassets.net/alneenqid6w5/6HrVnG5C8MgU0MkKSSAQCG/c273901469be8b3b4edeecd3863d4ef4/Cluster_ES.png)
+![Cluster ES](//images.ctfassets.net/alneenqid6w5/6HrVnG5C8MgU0MkKSSAQCG/c273901469be8b3b4edeecd3863d4ef4/Cluster_ES.png)
 
 En la configuración anterior, sólo los clientes con el valor verdadero (utilizando un campo booleano - cuando los datos son verdaderos o falsos) tendrán acceso al sitio.
 

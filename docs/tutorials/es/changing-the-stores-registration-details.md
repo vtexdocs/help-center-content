@@ -1,5 +1,5 @@
 ---
-title: Modificar los datos de registro de mi tienda
+title: 'Modificar los datos de registro de mi tienda'
 id: 2asY9ZORu0OUQWOkeQguSC
 status: CHANGED
 createdAt: 2018-03-12T15:29:14.300Z

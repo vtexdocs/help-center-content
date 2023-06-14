@@ -1,5 +1,5 @@
 ---
-title: Add image to product description
+title: 'Add image to product description'
 id: 2hQGTAAiyUSoISGSyOK8Y4
 status: PUBLISHED
 createdAt: 2018-01-24T22:32:03.084Z

@@ -1,5 +1,5 @@
 ---
-title: Cómo encontrar eventos en Audit
+title: 'Cómo encontrar eventos en Audit'
 id: 5RXf9WJ5YLFBcS8q8KcxTA
 status: PUBLISHED
 createdAt: 2021-10-21T16:51:06.108Z
@@ -17,7 +17,7 @@ subcategory: 2TNXiKzLZOPxjMTyGiEeJu
 
 Para aumentar la transparencia y la confianza entre los usuarios administrativos de tu tienda, las distintas operaciones y los horarios en que se produjeron se registran en Audit, que es un módulo utilizado para buscar e investigar este historial con la ayuda de filtros. 
 
-![Screenshot for Audit UI for announcement](https://images.ctfassets.net/alneenqid6w5/1CwFsrYwjxCIhyqcc6ei86/e5e64ab35e499176c8815260dd703e00/Audit_ES.png)
+![Screenshot for Audit UI for announcement](//images.ctfassets.net/alneenqid6w5/1CwFsrYwjxCIhyqcc6ei86/e5e64ab35e499176c8815260dd703e00/Audit_ES.png)
 
 Para acceder a la página de Audit, haz clic en _Configuración de la tienda > Auditoría. _En esta página puedes realizar búsquedas mediante filtros, verificar cuáles han sido las últimas acciones realizadas y se presentan algunos ejemplos de filtros que pueden servir de modelo.
 
@@ -41,11 +41,11 @@ Ten en cuenta que es posible añadir más de un filtro, incluso con el mismo tem
 
 Por ejemplo, la búsqueda que se muestra en la siguiente figura encuentra resultados cuyas acciones son _Payment Notification_ o _Change Status_ y cuyo autor es _[email@email.com](mailto:email@email.com)_. 
 
-![Filtros no Audit](https://images.ctfassets.net/alneenqid6w5/2Bl1FZuuaa3ZeHT52FEcMD/e6d4c213e2fd59a4071897fea8987043/Audit_filters_ES.png)
+![Filtros no Audit](//images.ctfassets.net/alneenqid6w5/2Bl1FZuuaa3ZeHT52FEcMD/e6d4c213e2fd59a4071897fea8987043/Audit_filters_ES.png)
 
 Tras seleccionar la aplicación, la fecha y los demás filtros de búsqueda, haz clic en el botón **Buscar** para obtener los eventos encontrados. 
 
-Observa que cada búsqueda que realizas se guarda en la pestaña **Últimas búsquedas.** Para volver a realizar una búsqueda, haz clic en esta pestaña y luego en el botón <img src="https://images.ctfassets.net/alneenqid6w5/4gWsOnbLMOUeWh0r5YRDz/9b7148d995c03ca84b39473f266b46a9/refresh.png" width="15"> correspondiente a la búsqueda que deseas volver a hacer.
+Observa que cada búsqueda que realizas se guarda en la pestaña **Últimas búsquedas.** Para volver a realizar una búsqueda, haz clic en esta pestaña y luego en el botón <img src="//images.ctfassets.net/alneenqid6w5/4gWsOnbLMOUeWh0r5YRDz/9b7148d995c03ca84b39473f266b46a9/refresh.png" width="15"> correspondiente a la búsqueda que deseas volver a hacer.
 
 <div class="alert alert-warning">
 Solo se registran 50 búsquedas en este panel. Si quieres guardar una búsqueda por tiempo indefinido, realízala y añádela a los favoritos de tu navegador.

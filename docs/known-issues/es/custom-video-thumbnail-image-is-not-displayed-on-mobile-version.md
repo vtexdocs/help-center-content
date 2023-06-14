@@ -1,5 +1,5 @@
 ---
-title: La imagen en miniatura del vídeo personalizado no se muestra en la versión móvil
+title: 'La imagen en miniatura del vídeo personalizado no se muestra en la versión móvil'
 id: 5d71mBz4kXdwX7AhspYhit
 status: PUBLISHED
 createdAt: 2022-03-21T17:51:55.027Z

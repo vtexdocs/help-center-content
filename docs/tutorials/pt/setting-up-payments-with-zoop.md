@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Zoop
+title: 'Configurar pagamento com Zoop'
 id: 5bRYiUjX1sewZuON8HA6Ld
 status: PUBLISHED
 createdAt: 2023-02-13T18:17:14.240Z

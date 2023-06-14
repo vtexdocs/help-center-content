@@ -1,5 +1,5 @@
 ---
-title: O que acontece com o dinheiro na minha conta quando perco uma disputa? 
+title: 'O que acontece com o dinheiro na minha conta quando perco uma disputa? '
 id: 2Dep6HZG7EUp74ALukV1Mw
 status: DRAFT
 createdAt: 2019-05-26T22:00:37.208Z

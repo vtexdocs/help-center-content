@@ -1,5 +1,5 @@
 ---
-title: VBase responds 404 to vtex.pages-graphql
+title: 'VBase responds 404 to vtex.pages-graphql'
 id: 1uoRka5Jwkvk5EQhmffyMO
 status: PUBLISHED
 createdAt: 2023-05-09T13:50:40.063Z

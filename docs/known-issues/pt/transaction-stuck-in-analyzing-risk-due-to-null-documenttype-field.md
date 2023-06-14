@@ -1,5 +1,5 @@
 ---
-title: Transação travada no Analyzing Risk devido ao campo documentType nulo.
+title: 'Transação travada no Analyzing Risk devido ao campo documentType nulo.'
 id: 5cZWkKc0ZXnMZCw4bvXJjA
 status: PUBLISHED
 createdAt: 2023-05-11T17:33:04.077Z

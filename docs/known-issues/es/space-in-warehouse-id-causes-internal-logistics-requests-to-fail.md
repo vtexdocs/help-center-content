@@ -1,5 +1,5 @@
 ---
-title: El espacio en la identificación del almacén hace que fallen las solicitudes de logística interna
+title: 'El espacio en la identificación del almacén hace que fallen las solicitudes de logística interna'
 id: M8SsnABs2HgYsUvNnjCFx
 status: PUBLISHED
 createdAt: 2022-09-20T21:51:05.157Z

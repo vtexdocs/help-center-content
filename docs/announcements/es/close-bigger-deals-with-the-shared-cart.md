@@ -1,5 +1,5 @@
 ---
-title: "Haga ventas más grandes con el carrito compartido"
+title: 'Haga ventas más grandes con el carrito compartido'
 id: 1gvY2p1Rc9hjkfyVvOHY2C
 status: PUBLISHED
 createdAt: 2019-02-18T21:26:10.613Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 245tA425AIeioKAk2eaiwS
 slug: haga-ventas-mas-grandes-con-el-carrito-compartido
 legacySlug: haga-ventas-mas-grandes-con-el-carrito-compartido
-announcementImageID: ""
-announcementSynopsisES: El carrito compartido ya está disponible para todas las tiendas, permitiendo que más de un cliente interactúe con él.
+announcementImageID: ''
+announcementSynopsisES: 'El carrito compartido ya está disponible para todas las tiendas, permitiendo que más de un cliente interactúe con él.'
 ---
 
 Acabamos de lanzar en stable el carrito compartido, funcionalidad que permite a más de un cliente agregar, retirar o actualizar productos y datos de un mismo carrito. Así, su tienda puede realizar mayores ventas y ganar mayor eficiencia operativa, mientras que sus clientes pueden organizarse para aprovechar las promociones.

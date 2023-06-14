@@ -1,5 +1,5 @@
 ---
-title: Inconsistency on the deadlines of Customer Credit invoices
+title: 'Inconsistency on the deadlines of Customer Credit invoices'
 id: 73zrcR44MDH7PAFdhu8fPM
 status: PUBLISHED
 createdAt: 2022-03-27T13:20:54.642Z

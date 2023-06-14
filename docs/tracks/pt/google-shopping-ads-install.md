@@ -1,5 +1,5 @@
 ---
-title: Instalação do Google Shopping Ads
+title: 'Instalação do Google Shopping Ads'
 id: 1FT4KHCSbGmQCsmUQk286w
 status: PUBLISHED
 createdAt: 2018-10-30T22:20:23.443Z

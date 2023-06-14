@@ -1,5 +1,5 @@
 ---
-title: "Novidades no dashboard Performance de Vendas"
+title: 'Novidades no dashboard Performance de Vendas'
 id: 6ceR0kY06UBnOrcltY0D8r
 status: PUBLISHED
 createdAt: 2022-03-08T15:03:39.709Z
@@ -10,15 +10,15 @@ productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: novidades-no-dashboard-performance-de-vendas
 legacySlug: novidades-no-dashboard-performance-de-vendas
-announcementImageID: ""
-announcementSynopsisPT: Lançamos novos filtros, visualizações sugeridas, dados em tempo próximo ao real e novas formas de visualizar dados.
+announcementImageID: ''
+announcementSynopsisPT: 'Lançamos novos filtros, visualizações sugeridas, dados em tempo próximo ao real e novas formas de visualizar dados.'
 ---
 
 A página Performance de Vendas é um dashboard que permite que operadores de loja analisem dados de todos os canais de venda da loja, e de seus sellers, incluindo métricas sobre receita, pedidos, ticket médio e muito mais. 
 
 Atualizamos a sua experiência na página a partir das sugestões dadas por vocês, adicionando novas possibilidades para aplicação de filtros, visualizações e exploração de dados. 
 
-![Sales perf update PT](https://images.ctfassets.net/alneenqid6w5/5mHOltfUnUpV1DtHXrT8xD/3abd7dcbd11988d998dd95659c1088de/Sales_perf_update_PT.gif)
+![Sales perf update PT](//images.ctfassets.net/alneenqid6w5/5mHOltfUnUpV1DtHXrT8xD/3abd7dcbd11988d998dd95659c1088de/Sales_perf_update_PT.gif)
 
 ## O que mudou?
 Aprimoramos algumas funcionalidades existentes, como Filtros e Dados, e acrescentamos o menu Visualização. A nova experiência de filtros da página possibilita mais combinações de filtros, com menos cliques. Já a nova funcionalidade de menu Visualização foi feita para gravar os filtros e métricas aplicados na página, permitindo voltar rapidamente para o mesmo contexto. 

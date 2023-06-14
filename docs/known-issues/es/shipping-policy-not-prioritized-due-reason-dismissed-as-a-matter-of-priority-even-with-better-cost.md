@@ -1,5 +1,5 @@
 ---
-title: Política de envío no priorizada por "Motivo: Descartado con carácter prioritario" incluso con mejor coste
+title: 'Política de envío no priorizada por "Motivo: Descartado con carácter prioritario" incluso con mejor coste'
 id: p1oTHG7CuYITViV4uFZEQ
 status: PUBLISHED
 createdAt: 2022-05-10T18:05:57.097Z

@@ -1,5 +1,5 @@
 ---
-title: Implementação da categoria Amazon
+title: 'Implementação da categoria Amazon'
 id: 5drX2V0avfk1X2llMyTlK1
 status: PUBLISHED
 createdAt: 2022-03-25T11:33:04.920Z

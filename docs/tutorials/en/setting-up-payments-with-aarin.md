@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Aarin
+title: 'Setting up payments with Aarin'
 id: 2kVQVFqutbZYK3I6XBVgLp
 status: PUBLISHED
 createdAt: 2022-06-22T12:45:29.082Z

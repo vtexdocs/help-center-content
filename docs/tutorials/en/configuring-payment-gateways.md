@@ -1,5 +1,5 @@
 ---
-title: Configuring payment gateways
+title: 'Configuring payment gateways'
 id: tutorials_2569
 status: DRAFT
 createdAt: 2017-04-27T21:53:44.599Z

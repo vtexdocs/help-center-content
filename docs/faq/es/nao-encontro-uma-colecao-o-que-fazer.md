@@ -1,5 +1,5 @@
 ---
-title: No encuentro una colección. ¿Que hacer?
+title: 'No encuentro una colección. ¿Que hacer?'
 id: 4jqVY2ilvOQYwmuOY0sAyk
 status: PUBLISHED
 createdAt: 2018-01-24T18:25:15.475Z

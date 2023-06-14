@@ -1,5 +1,5 @@
 ---
-title: Coleções Legadas (CMS) A Validação de Caráteres Especiais diverge das Coleções Novas
+title: 'Coleções Legadas (CMS) A Validação de Caráteres Especiais diverge das Coleções Novas'
 id: 2Pc1VACj7VF9n1IDtO6Mr4
 status: PUBLISHED
 createdAt: 2022-10-31T20:38:49.460Z

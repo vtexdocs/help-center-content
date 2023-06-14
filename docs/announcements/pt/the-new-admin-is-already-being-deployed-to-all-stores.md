@@ -1,5 +1,5 @@
 ---
-title: "Novo Admin já está sendo liberado para todas as lojas"
+title: 'Novo Admin já está sendo liberado para todas as lojas'
 id: 5jPWeap8OQ8IwaGQeQOOCK
 status: PUBLISHED
 createdAt: 2018-03-06T17:29:18.942Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: authors_24
 slug: novo-admin-ja-esta-sendo-liberado-para-todas-as-lojas
 legacySlug: novo-admin-ja-esta-sendo-liberado-para-todas-as-lojas
-announcementImageID: ""
-announcementSynopsisPT: Até 7 de maio, todas as lojas VTEX vão ser migradas para usar o novo Admin.
+announcementImageID: ''
+announcementSynopsisPT: 'Até 7 de maio, todas as lojas VTEX vão ser migradas para usar o novo Admin.'
 ---
 
 O novo ambiente administrativo da VTEX está pronto para ser usado por todas as lojas. Depois de passar um tempo em beta, podendo ser testado por uma parte dos nossos clientes, o __novo Admin__ foi melhorado e vai começar a ser liberado aos poucos, em um processo que começa esta semana e vai até __7 de maio__.

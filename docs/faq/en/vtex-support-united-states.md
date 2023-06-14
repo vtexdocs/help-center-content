@@ -1,5 +1,5 @@
 ---
-title: VTEX Support - United States
+title: 'VTEX Support - United States'
 id: Bm45YFp68QRe1Z5r2oa07
 status: PUBLISHED
 createdAt: 2021-03-01T18:14:00.615Z

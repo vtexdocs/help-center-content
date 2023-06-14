@@ -1,5 +1,5 @@
 ---
-title: La redirección con parámetros en el CMS Builder no funciona
+title: 'La redirección con parámetros en el CMS Builder no funciona'
 id: 54X9i44JmLTO5uII1E98yL
 status: PUBLISHED
 createdAt: 2022-07-06T19:15:29.327Z

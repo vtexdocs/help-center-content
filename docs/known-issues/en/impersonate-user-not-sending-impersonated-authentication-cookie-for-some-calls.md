@@ -1,5 +1,5 @@
 ---
-title: Impersonate user not sending impersonated authentication cookie for some calls
+title: 'Impersonate user not sending impersonated authentication cookie for some calls'
 id: 3e5CZqPbsTRbhDz8W1c0p4
 status: PUBLISHED
 createdAt: 2023-04-13T21:24:06.328Z

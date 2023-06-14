@@ -1,5 +1,5 @@
 ---
-title: How to set up B2B with VTEX
+title: 'How to set up B2B with VTEX'
 id: tutorials_238
 status: PUBLISHED
 createdAt: 2017-04-27T22:13:02.487Z

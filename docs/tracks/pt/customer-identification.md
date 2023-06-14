@@ -1,5 +1,5 @@
 ---
-title: Identificação do cliente
+title: 'Identificação do cliente'
 id: 2l56Bc2V1Xjv93JddsdEMi
 status: PUBLISHED
 createdAt: 2021-08-05T13:45:29.981Z
@@ -26,7 +26,7 @@ Você pode [configurar quais métodos de identificação deseja habilitar](https
 
 No exemplo da imagem abaixo, estão habilitados Email e CPF.
 
-![31. VTEX Sales App - Product Overview - 2 - PT](https://images.ctfassets.net/alneenqid6w5/2YKc9S2FehS7eA2zTskL33/8923621c44984ce4d58ff7a9ac97a77f/identify-customer-pt.PNG)
+![31. VTEX Sales App - Product Overview - 2 - PT](//images.ctfassets.net/alneenqid6w5/2YKc9S2FehS7eA2zTskL33/8923621c44984ce4d58ff7a9ac97a77f/identify-customer-pt.PNG)
 
 Basta inserir um desses dados no campo e clicar em `Confirmar`.
 

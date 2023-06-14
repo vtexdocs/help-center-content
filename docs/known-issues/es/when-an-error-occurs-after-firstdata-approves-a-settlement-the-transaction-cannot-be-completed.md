@@ -1,5 +1,5 @@
 ---
-title: Cuando se produce un error después de que Firstdata apruebe una liquidación, la transacción no puede completarse.
+title: 'Cuando se produce un error después de que Firstdata apruebe una liquidación, la transacción no puede completarse.'
 id: 7MITAqam9KWVXrUiNX5Jh0
 status: PUBLISHED
 createdAt: 2023-02-27T15:48:31.356Z

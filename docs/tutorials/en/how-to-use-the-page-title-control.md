@@ -1,5 +1,5 @@
 ---
-title: How to use the page title control
+title: 'How to use the page title control'
 id: 6bOB5ZtqesCKCEkYUUsIC8
 status: DRAFT
 createdAt: 2019-01-24T20:45:38.000Z

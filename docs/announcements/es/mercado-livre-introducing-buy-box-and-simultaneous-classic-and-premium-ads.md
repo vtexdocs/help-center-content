@@ -1,5 +1,5 @@
 ---
-title: "Mercado Libre: Presentamos Buy Box y anuncios Clásico y Premium simultáneos."
+title: 'Mercado Libre: Presentamos Buy Box y anuncios Clásico y Premium simultáneos.'
 id: 5MVLHFGJzHb6GTVVBwZeNZ
 status: DRAFT
 createdAt: 2020-02-27T17:05:49.574Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: vztwQkZv4z6EwDVwdqbsw
 slug: mercado-libre-presentamos-buy-box-y-anuncios-clasico-y-premium-simultaneos
 legacySlug: mercado-libre-presentamos-buy-box-y-anuncios-clasico-y-premium-simultaneos
-announcementImageID: ""
-announcementSynopsisES: Tenemos dos mejoras que lo ayudarán a vender más y mejor con Mercado Libre: Buy Box y Classic / Premium ads.
+announcementImageID: ''
+announcementSynopsisES: 'Tenemos dos mejoras que lo ayudarán a vender más y mejor con Mercado Libre: Buy Box y Classic / Premium ads.'
 ---
 
 Todos los días vemos el potencial de múltiples canales de ventas en las operaciones de nuestros clientes. Cuando pensamos en marketplaces en América Latina, Mercado Libre es uno de los principales players a la hora de expandir su capacidad de ventas. Por esta razón, ofrecemos desde X una integración nativa con el servicio.

@@ -1,5 +1,5 @@
 ---
-title: Controle Welcome Message não funciona na home do site
+title: 'Controle Welcome Message não funciona na home do site'
 id: 38WkIwnvReicEOu6eOccuY
 status: PUBLISHED
 createdAt: 2017-04-26T23:34:28.335Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Bitfy
+title: 'Configurar pago con Bitfy'
 id: 2PSTfW4PsMh19K9y3DkQec
 status: PUBLISHED
 createdAt: 2022-08-15T17:30:29.886Z

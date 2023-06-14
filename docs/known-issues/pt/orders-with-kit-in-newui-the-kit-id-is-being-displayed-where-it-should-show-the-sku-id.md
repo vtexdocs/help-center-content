@@ -1,5 +1,5 @@
 ---
-title: Pedidos com KIT, em NEW_UI o KIT ID está sendo exibido, onde deve mostrar o SKU ID.
+title: 'Pedidos com KIT, em NEW_UI o KIT ID está sendo exibido, onde deve mostrar o SKU ID.'
 id: jKvkTKNjG2hzoGOaBrV9N
 status: PUBLISHED
 createdAt: 2022-08-17T18:34:20.155Z

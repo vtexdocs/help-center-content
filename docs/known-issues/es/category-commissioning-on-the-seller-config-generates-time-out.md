@@ -1,5 +1,5 @@
 ---
-title: La puesta en marcha de la categoría en la configuración del seller genera un Time Out
+title: 'La puesta en marcha de la categoría en la configuración del seller genera un Time Out'
 id: 5NsiGAjTIK1ygBvJo1ks2k
 status: PUBLISHED
 createdAt: 2022-09-05T14:18:53.669Z

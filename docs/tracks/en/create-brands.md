@@ -1,5 +1,5 @@
 ---
-title: Create Brands
+title: 'Create Brands'
 id: 7lEGOSpAlQJCs5eUc5XFmR
 status: PUBLISHED
 createdAt: 2019-05-16T20:24:10.456Z
@@ -37,7 +37,7 @@ Information that is filled out can be updated at any time using the Catalog modu
 
 To delete a brand entry, click the arrow next to `Edit` and then click `Delete`.
 
-![editar-marca EN](https://images.ctfassets.net/alneenqid6w5/lAOk9EHq8WLoXs6SnrXsv/55b9ba52f46ae8582315ffda359a3b39/editar-marca_EN.png)
+![editar-marca EN](//images.ctfassets.net/alneenqid6w5/lAOk9EHq8WLoXs6SnrXsv/55b9ba52f46ae8582315ffda359a3b39/editar-marca_EN.png)
 
 ## API
 

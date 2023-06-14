@@ -1,5 +1,5 @@
 ---
-title: Black Friday Checklist
+title: 'Black Friday Checklist'
 id: 6A2zZmoGnCMwGUEWWyAyic
 status: DRAFT
 createdAt: 2017-11-07T03:53:51.593Z

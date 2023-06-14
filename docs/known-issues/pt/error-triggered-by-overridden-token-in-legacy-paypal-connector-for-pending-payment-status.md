@@ -1,5 +1,5 @@
 ---
-title: Erro acionado por TOKEN substituído no conector do PayPal legado para status de pagamento pendente
+title: 'Erro acionado por TOKEN substituído no conector do PayPal legado para status de pagamento pendente'
 id: 5GrnhD8fwte7qu50Az8r3Y
 status: PUBLISHED
 createdAt: 2023-06-13T22:35:16.397Z

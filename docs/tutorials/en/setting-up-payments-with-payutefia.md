@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with PayUTeFia
+title: 'Setting up payments with PayUTeFia'
 id: 5fStqDY9zYCxYjlxbZ8QGV
 status: DRAFT
 createdAt: 2022-03-22T18:48:48.563Z

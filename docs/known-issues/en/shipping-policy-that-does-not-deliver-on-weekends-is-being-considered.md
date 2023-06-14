@@ -1,5 +1,5 @@
 ---
-title: Shipping policy that does not deliver on weekends is being considered
+title: 'Shipping policy that does not deliver on weekends is being considered'
 id: 25bhUZXA9sZvyFVNeMUSJl
 status: PUBLISHED
 createdAt: 2022-06-08T18:32:07.971Z

@@ -1,5 +1,5 @@
 ---
-title: "Customer Credit: flexibilize suas condições de pagamento com juros"
+title: 'Customer Credit: flexibilize suas condições de pagamento com juros'
 id: 5B1FjEk1pn33PPGlRsPDm
 status: CHANGED
 createdAt: 2020-04-20T22:08:31.800Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: customer-credit-flexibilize-suas-condicoes-de-pagamento-com-juros
 legacySlug: customer-credit-flexibilize-suas-condicoes-de-pagamento-com-juros
-announcementImageID: ""
-announcementSynopsisPT: Agora o Customer Credit permite a configuração de juros nas suas regras de pagamento para crédito faturado. 
+announcementImageID: ''
+announcementSynopsisPT: 'Agora o Customer Credit permite a configuração de juros nas suas regras de pagamento para crédito faturado. '
 ---
 
 O Customer Credit é uma app que permite que o cliente de ofereça crédito ao seus revendedores de confiança. Esse valor pode ser utilizado como um meio de pagamento, da mesma forma que um cartão de crédito ou um boleto bancário, por exemplo.

@@ -1,5 +1,5 @@
 ---
-title: O envio simultâneo de mais de um arquivo existente não atualiza todos os arquivos no File Manager
+title: 'O envio simultâneo de mais de um arquivo existente não atualiza todos os arquivos no File Manager'
 id: 3uuWWVR3g8hFuXnPQ2Yaa8
 status: PUBLISHED
 createdAt: 2021-09-27T20:50:23.329Z

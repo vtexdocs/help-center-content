@@ -1,5 +1,5 @@
 ---
-title: La API de búsqueda no devuelve los SKUs showIfNotAvailable=true para las consultas &fq=specificationFilter.
+title: 'La API de búsqueda no devuelve los SKUs showIfNotAvailable=true para las consultas &fq=specificationFilter.'
 id: 7p26JmS8pyPA8H0b1QJHyU
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:27.329Z

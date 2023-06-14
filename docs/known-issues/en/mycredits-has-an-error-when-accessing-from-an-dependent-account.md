@@ -1,5 +1,5 @@
 ---
-title: MyCredits has an error when accessing from an dependent account
+title: 'MyCredits has an error when accessing from an dependent account'
 id: 6QJWAD7Q2PSEMsmZYXqMag
 status: PUBLISHED
 createdAt: 2022-03-27T16:19:47.411Z

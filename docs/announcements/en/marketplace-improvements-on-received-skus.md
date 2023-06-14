@@ -1,5 +1,5 @@
 ---
-title: "Marketplace: improvements on Received SKUs"
+title: 'Marketplace: improvements on Received SKUs'
 id: 5AY73ocF0evsh3yzY6AMX6
 status: PUBLISHED
 createdAt: 2020-10-26T23:30:54.501Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: marketplace-improvements-on-received-skus
 legacySlug: marketplace-improvements-on-received-skus
-announcementImageID: ""
-announcementSynopsisEN: Block SKUs from being resent by sellers and also configure automatic approval for received SKUs
+announcementImageID: ''
+announcementSynopsisEN: 'Block SKUs from being resent by sellers and also configure automatic approval for received SKUs'
 ---
 
 The Received SKUs dashboard is where marketplaces evaluate suggestions sent by sellers. They can either approve and add the SKUs to their catalog or reject them. 
@@ -28,7 +28,7 @@ No configuration is needed to activate this functionality - it will be installed
 
 It is worth noting that this action can be undone. It is possible to approve a blocked SKU through REST API if the marketplace wishes to receive it again as a suggestion from the seller. To learn more about SKU approval, access our API documentation on the Developer Portal.
 
-![EN SKUs Recebidos Announcement](https://images.ctfassets.net/alneenqid6w5/5UdF6jOSwSvqYQIng9w7mS/fab32d8d2bbf1b59bace4e2fb0d85ac5/EN_SKUs_Recebidos_Announcement.jpg)
+![EN SKUs Recebidos Announcement](//images.ctfassets.net/alneenqid6w5/5UdF6jOSwSvqYQIng9w7mS/fab32d8d2bbf1b59bace4e2fb0d85ac5/EN_SKUs_Recebidos_Announcement.jpg)
 
 ## Configuring automatic SKU approval
 

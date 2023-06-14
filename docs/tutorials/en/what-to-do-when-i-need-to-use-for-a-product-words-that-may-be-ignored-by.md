@@ -1,5 +1,5 @@
 ---
-title: What to do when I need to use words that may be ignored by the search engine for a product?
+title: 'What to do when I need to use words that may be ignored by the search engine for a product?'
 id: 4XmhcZLXA4WCQo2OuKkqy0
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:48.887Z

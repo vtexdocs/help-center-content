@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo se calcula el costo de envío cuando hay un ítem con promoción de envío en el carrito?
+title: '¿Cómo se calcula el costo de envío cuando hay un ítem con promoción de envío en el carrito?'
 id: 3EaQjxkErC6OKAWCWYSMiw
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:34.018Z

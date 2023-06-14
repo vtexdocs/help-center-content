@@ -1,5 +1,5 @@
 ---
-title: Como escrever um ticket completo para o suporte VTEX
+title: 'Como escrever um ticket completo para o suporte VTEX'
 id: 6u4ehk6F0ksuDgYuCbFDRX
 status: PUBLISHED
 createdAt: 2023-03-23T22:00:24.560Z

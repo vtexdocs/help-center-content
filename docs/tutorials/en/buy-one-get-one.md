@@ -1,5 +1,5 @@
 ---
-title: How the Buy One Get One (BoGo) promotion works
+title: 'How the Buy One Get One (BoGo) promotion works'
 id: tutorials_322
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:41.148Z

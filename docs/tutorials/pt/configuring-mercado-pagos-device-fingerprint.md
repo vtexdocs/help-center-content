@@ -1,5 +1,5 @@
 ---
-title: Configurar Device Fingerprint do Mercado Pago
+title: 'Configurar Device Fingerprint do Mercado Pago'
 id: m2knP9z69HGHHBIiFq0Ga
 status: PUBLISHED
 createdAt: 2021-07-05T13:25:37.711Z

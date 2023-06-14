@@ -1,5 +1,5 @@
 ---
-title: Shipping Preview wrongly showing unavailability message for pick-up
+title: 'Shipping Preview wrongly showing unavailability message for pick-up'
 id: 6ntmev0Atk04FGnEy1U3QZ
 status: PUBLISHED
 createdAt: 2023-03-03T19:54:08.912Z

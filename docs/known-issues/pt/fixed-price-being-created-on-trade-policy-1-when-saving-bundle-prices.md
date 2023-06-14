@@ -1,5 +1,5 @@
 ---
-title: Preço fixo sendo criado na política comercial 1 ao economizar preços de pacote.
+title: 'Preço fixo sendo criado na política comercial 1 ao economizar preços de pacote.'
 id: 3Xbh5GVn0jm2yhaOiRg3Le
 status: PUBLISHED
 createdAt: 2022-11-28T12:41:07.808Z

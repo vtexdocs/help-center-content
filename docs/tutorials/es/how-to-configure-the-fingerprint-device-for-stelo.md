@@ -1,5 +1,5 @@
 ---
-title: Configurar el device fingerprint para Stelo
+title: 'Configurar el device fingerprint para Stelo'
 id: frequentlyAskedQuestions_3533
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:00.535Z

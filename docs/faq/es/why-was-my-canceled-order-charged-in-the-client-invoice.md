@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué se cobró en la factura del cliente mi pedido cancelado?
+title: '¿Por qué se cobró en la factura del cliente mi pedido cancelado?'
 id: frequentlyAskedQuestions_492
 status: PUBLISHED
 createdAt: 2017-04-27T22:34:48.023Z

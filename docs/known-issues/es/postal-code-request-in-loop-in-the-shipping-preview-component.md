@@ -1,5 +1,5 @@
 ---
-title: Solicitud de código postal en bucle en el componente de vista previa del envío
+title: 'Solicitud de código postal en bucle en el componente de vista previa del envío'
 id: 6pcJyqvZ8u388xg04zJnnw
 status: PUBLISHED
 createdAt: 2022-07-25T16:47:46.301Z

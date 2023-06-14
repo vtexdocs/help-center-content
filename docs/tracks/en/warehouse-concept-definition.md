@@ -1,5 +1,5 @@
 ---
-title: What are warehouses
+title: 'What are warehouses'
 id: lbDt7ovsUK2Fbj4GupSy9
 status: DRAFT
 createdAt: 2019-10-10T20:33:31.721Z

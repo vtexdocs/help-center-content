@@ -1,5 +1,5 @@
 ---
-title: Comprar juntos promoções com impacto de restrição de faixa de preço em promoções de presentes
+title: 'Comprar juntos promoções com impacto de restrição de faixa de preço em promoções de presentes'
 id: 6tjViVNzlWgfLOLsUEtYSF
 status: PUBLISHED
 createdAt: 2022-10-11T19:54:05.862Z

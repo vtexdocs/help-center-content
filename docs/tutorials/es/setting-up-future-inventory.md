@@ -1,5 +1,5 @@
 ---
-title: Configurar Inventario Futuro (Beta)
+title: 'Configurar Inventario Futuro (Beta)'
 id: UMSGjooqRfkRbeoh94kS4
 status: DRAFT
 createdAt: 2020-09-21T21:53:10.713Z

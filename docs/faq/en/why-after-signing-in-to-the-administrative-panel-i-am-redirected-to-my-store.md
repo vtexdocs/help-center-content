@@ -1,5 +1,5 @@
 ---
-title: Why after signing in to the administrative panel I am redirected to my store?
+title: 'Why after signing in to the administrative panel I am redirected to my store?'
 id: 3JOlJmgmacAqCQEe0kwGwg
 status: PUBLISHED
 createdAt: 2017-10-01T03:35:33.165Z

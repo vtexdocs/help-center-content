@@ -1,5 +1,5 @@
 ---
-title: Incorrectly updated inventory
+title: 'Incorrectly updated inventory'
 id: 2M8DqNY1pGQWZnF9ZXNycq
 status: PUBLISHED
 createdAt: 2022-05-03T12:32:14.192Z

@@ -1,5 +1,5 @@
 ---
-title: The tracking integration is not updating automatically
+title: 'The tracking integration is not updating automatically'
 id: 2e9RR7AnEewejyOwQBKa2c
 status: PUBLISHED
 createdAt: 2020-11-11T19:38:05.072Z

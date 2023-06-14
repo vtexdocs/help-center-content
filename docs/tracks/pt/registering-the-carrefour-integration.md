@@ -1,5 +1,5 @@
 ---
-title: Configurar cadastro do conector Carrefour
+title: 'Configurar cadastro do conector Carrefour'
 id: 2AhqcmRN1mseCsGuGIe6GK
 status: PUBLISHED
 createdAt: 2018-10-08T23:26:55.073Z

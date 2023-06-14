@@ -1,5 +1,5 @@
 ---
-title: Registrar afiliaciones de gateway
+title: 'Registrar afiliaciones de gateway'
 id: tutorials_444
 status: PUBLISHED
 createdAt: 2017-04-27T22:05:18.209Z

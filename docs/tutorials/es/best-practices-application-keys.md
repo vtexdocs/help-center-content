@@ -1,5 +1,5 @@
 ---
-title: Buenas prácticas para el uso de claves de aplicación
+title: 'Buenas prácticas para el uso de claves de aplicación'
 id: 7b6nD1VMHa49aI5brlOvJm
 status: PUBLISHED
 createdAt: 2022-10-04T21:36:57.185Z

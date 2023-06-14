@@ -1,5 +1,5 @@
 ---
-title: Create a product
+title: 'Create a product'
 id: NgqTfNOte6KMsmWgasMIo
 status: DRAFT
 createdAt: 2018-05-02T20:51:24.416Z

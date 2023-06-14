@@ -1,5 +1,5 @@
 ---
-title: ¿Qué funcionalidades ofrece la integración?
+title: '¿Qué funcionalidades ofrece la integración?'
 id: 5DIYlh0eXB9ClfQFC3l3Mr
 status: PUBLISHED
 createdAt: 2023-03-28T19:41:03.487Z

@@ -1,5 +1,5 @@
 ---
-title: Configuraciones de integración
+title: 'Configuraciones de integración'
 id: 6wKQgKmu2FT6084BJT7z5V
 status: PUBLISHED
 createdAt: 2020-04-14T13:28:52.687Z
@@ -18,4 +18,4 @@ Configuración de integración es la funcionalidad responsable de la indexación
 La herramienta consiste en un texto que informa sobre el proceso de indexación y un botón de inicio. Al pulsar el botón, se inicia la indexación y se muestra un enlace para la pantalla __Status de indexación__.
 
 
-![config-int-ES](https://images.ctfassets.net/alneenqid6w5/4vmQOeaMNzZVr4gxFmwRZ0/94a0f0244cf92adc18845db15ed09be1/config-int-ES.png)
+![config-int-ES](//images.ctfassets.net/alneenqid6w5/4vmQOeaMNzZVr4gxFmwRZ0/94a0f0244cf92adc18845db15ed09be1/config-int-ES.png)

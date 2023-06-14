@@ -1,5 +1,5 @@
 ---
-title: Checkout UI overwrites shipping recipient when name is different from profile data
+title: 'Checkout UI overwrites shipping recipient when name is different from profile data'
 id: 2IrL7DbWbzdgxZh6Us6n4q
 status: PUBLISHED
 createdAt: 2023-05-09T22:08:13.314Z

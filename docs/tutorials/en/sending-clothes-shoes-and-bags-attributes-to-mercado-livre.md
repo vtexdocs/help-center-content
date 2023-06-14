@@ -1,5 +1,5 @@
 ---
-title: Sending clothes, shoes and bags attributes to Mercado Livre
+title: 'Sending clothes, shoes and bags attributes to Mercado Livre'
 id: 4UKx1bbG6sqKeYW8WmYSiq
 status: DRAFT
 createdAt: 2017-12-21T14:01:04.543Z

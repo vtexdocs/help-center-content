@@ -1,5 +1,5 @@
 ---
-title: Indexed price for a product considering the SKU with the highest instead of the lowest price
+title: 'Indexed price for a product considering the SKU with the highest instead of the lowest price'
 id: 333mavl9dvgO4Jrgv8ECE6
 status: PUBLISHED
 createdAt: 2023-05-09T14:39:56.338Z

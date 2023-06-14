@@ -1,5 +1,5 @@
 ---
-title: Redirección de otras direcciones
+title: 'Redirección de otras direcciones'
 id: 3Xi2AeLUx2QpJQu8DTX8KQ
 status: PUBLISHED
 createdAt: 2022-09-19T21:21:24.455Z

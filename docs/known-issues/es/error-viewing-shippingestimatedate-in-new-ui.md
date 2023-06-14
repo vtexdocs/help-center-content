@@ -1,5 +1,5 @@
 ---
-title: Error en la visualización de shippingEstimateDate en New UI
+title: 'Error en la visualización de shippingEstimateDate en New UI'
 id: 7K9hFPStESW2urw4yzkY6t
 status: PUBLISHED
 createdAt: 2022-09-21T12:37:43.379Z

@@ -1,5 +1,5 @@
 ---
-title: Forzar disponibilidad de stock
+title: 'Forzar disponibilidad de stock'
 id: 2SgRUekV8FO4lg2aO6YTmh
 status: DRAFT
 createdAt: 2020-06-28T19:07:00.903Z

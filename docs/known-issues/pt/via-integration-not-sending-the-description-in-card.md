@@ -1,5 +1,5 @@
 ---
-title: A Via Integration não está enviando a descrição no cartão
+title: 'A Via Integration não está enviando a descrição no cartão'
 id: Da5jnqoSO8an64jy29VhM
 status: PUBLISHED
 createdAt: 2023-05-16T16:47:19.803Z

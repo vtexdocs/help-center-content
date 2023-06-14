@@ -1,5 +1,5 @@
 ---
-title: How to display the product shelf of a specific seller
+title: 'How to display the product shelf of a specific seller'
 id: 6mMXWCrxGEYegIoSkSmiOQ
 status: DRAFT
 createdAt: 2019-01-10T14:06:30.745Z

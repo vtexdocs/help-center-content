@@ -1,5 +1,5 @@
 ---
-title: Algunas promociones no pueden mostrarse en el contexto de la búsqueda
+title: 'Algunas promociones no pueden mostrarse en el contexto de la búsqueda'
 id: 48NdMjFOswJ5w7Nypc2Txd
 status: PUBLISHED
 createdAt: 2022-03-17T20:42:39.545Z

@@ -1,5 +1,5 @@
 ---
-title: How does the Score field work?
+title: 'How does the Score field work?'
 id: 1BUZC0mBYEEIUgeQYAKcae
 status: PUBLISHED
 createdAt: 2018-02-16T16:17:51.610Z

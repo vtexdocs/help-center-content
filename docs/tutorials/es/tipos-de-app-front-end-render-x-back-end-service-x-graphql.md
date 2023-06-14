@@ -1,5 +1,5 @@
 ---
-title: 
+title: ''
 id: SEMAaDZ9YccEAsuuumCqQ
 status: DRAFT
 createdAt: 2017-11-22T15:53:58.850Z

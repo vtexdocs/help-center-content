@@ -1,5 +1,5 @@
 ---
-title: Error al importar/exportar una hoja de cálculo grande en el nuevo administrador de cobros
+title: 'Error al importar/exportar una hoja de cálculo grande en el nuevo administrador de cobros'
 id: 6xbBVR2Z7CCpIC0iCAKHgN
 status: PUBLISHED
 createdAt: 2023-02-16T19:04:08.298Z

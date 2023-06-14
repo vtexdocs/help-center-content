@@ -1,5 +1,5 @@
 ---
-title: La vista previa del envío informa erróneamente de la selección de la recogida
+title: 'La vista previa del envío informa erróneamente de la selección de la recogida'
 id: 1KfCAK44prpDXLKUSVmm7O
 status: PUBLISHED
 createdAt: 2022-03-30T17:47:49.278Z

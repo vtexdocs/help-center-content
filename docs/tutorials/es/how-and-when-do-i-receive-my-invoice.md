@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo y cuándo recibo mi factura y mi boleto bancario?
+title: '¿Cómo y cuándo recibo mi factura y mi boleto bancario?'
 id: 4kRivWUH68iQ6AwI2QU6gm
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:47.627Z

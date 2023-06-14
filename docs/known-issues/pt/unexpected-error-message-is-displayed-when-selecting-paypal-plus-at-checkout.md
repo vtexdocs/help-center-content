@@ -1,5 +1,5 @@
 ---
-title:  Mensagem de erro inesperado aparece ao selecionar PayPal Plus no checkout
+title: ' Mensagem de erro inesperado aparece ao selecionar PayPal Plus no checkout'
 id: 5ZxTkuVCHrFXCnpf4Q5Nb7
 status: PUBLISHED
 createdAt: 2019-03-20T17:56:18.673Z

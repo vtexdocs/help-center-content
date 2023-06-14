@@ -1,5 +1,5 @@
 ---
-title: Erros de integração de estoque com marketplaces
+title: 'Erros de integração de estoque com marketplaces'
 id: 32bcsv9Dx1Dtl0YQOwWDpc
 status: PUBLISHED
 createdAt: 2021-11-01T18:18:07.474Z

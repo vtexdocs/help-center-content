@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com DLocal Payments
+title: 'Configurar pagamento com DLocal Payments'
 id: 50DpZAd6td8oJaAIzHfQB5
 status: PUBLISHED
 createdAt: 2023-04-03T13:40:15.432Z

@@ -1,5 +1,5 @@
 ---
-title: Divergencia de precios en integración con el mercado
+title: 'Divergencia de precios en integración con el mercado'
 id: 2oKzaHhwrSeW282EOciSE2
 status: PUBLISHED
 createdAt: 2018-12-07T16:20:45.819Z

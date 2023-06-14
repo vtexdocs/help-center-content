@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Bitfy
+title: 'Setting up payments with Bitfy'
 id: 2PSTfW4PsMh19K9y3DkQec
 status: PUBLISHED
 createdAt: 2022-08-15T17:30:29.886Z

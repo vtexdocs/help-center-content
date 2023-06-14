@@ -1,5 +1,5 @@
 ---
-title: Melhorias na API do Checkout - Parte 1
+title: 'Melhorias na API do Checkout - Parte 1'
 id: 5RMSc6Va4YJwczJ5kd7Y97
 status: DRAFT
 createdAt: 2019-01-30T19:31:35.982Z

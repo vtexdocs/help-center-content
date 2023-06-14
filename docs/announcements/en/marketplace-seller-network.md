@@ -1,5 +1,5 @@
 ---
-title: "Marketplace Seller Network: expand your sales channels and connect with leading marketplaces."
+title: 'Marketplace Seller Network: expand your sales channels and connect with leading marketplaces.'
 id: 4YnKTYlYoiElZixsdE2F1x
 status: DRAFT
 createdAt: 2020-11-17T12:02:15.262Z
@@ -10,8 +10,8 @@ productTeam: Apps
 author: vztwQkZv4z6EwDVwdqbsw
 slug: marketplace-seller-network
 legacySlug: marketplace-seller-network
-announcementImageID: ""
-announcementSynopsisEN: Expand your sales channels and connect with leading marketplaces and sellers through the Marketplace Seller Network.
+announcementImageID: ''
+announcementSynopsisEN: 'Expand your sales channels and connect with leading marketplaces and sellers through the Marketplace Seller Network.'
 ---
 
 <div class = "alert alert-info">

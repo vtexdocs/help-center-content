@@ -1,5 +1,5 @@
 ---
-title: Preços de exportação gerados com um formato que não é aceito pelo processo de importação
+title: 'Preços de exportação gerados com um formato que não é aceito pelo processo de importação'
 id: 4qOqpaZe1aIrfgo7mXL15K
 status: PUBLISHED
 createdAt: 2022-05-24T18:13:38.306Z

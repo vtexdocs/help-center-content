@@ -1,5 +1,5 @@
 ---
-title: Partners (VTEX Tracking)
+title: 'Partners (VTEX Tracking)'
 id: 2xEHQ98hoMzgkrdhkpOedQ
 status: PUBLISHED
 createdAt: 2020-08-03T19:53:45.564Z

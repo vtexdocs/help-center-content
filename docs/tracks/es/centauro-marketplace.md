@@ -1,5 +1,5 @@
 ---
-title: Centauro Marketplace
+title: 'Centauro Marketplace'
 id: 5HXEYuDGxv7hNVUma3PKPC
 status: PUBLISHED
 createdAt: 2020-10-20T14:22:13.423Z

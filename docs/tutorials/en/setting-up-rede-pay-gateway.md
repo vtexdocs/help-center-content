@@ -1,5 +1,5 @@
 ---
-title: Setting up Rede Pay gateway
+title: 'Setting up Rede Pay gateway'
 id: 2ABMTAbcpSSOUqGm8YyGe
 status: DRAFT
 createdAt: 2018-03-13T13:59:23.838Z

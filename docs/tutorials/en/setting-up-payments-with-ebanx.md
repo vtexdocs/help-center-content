@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Ebanx
+title: 'Setting up payments with Ebanx'
 id: 4yKdQrt57AW7aElfHH4QKM
 status: PUBLISHED
 createdAt: 2023-03-22T14:27:42.440Z

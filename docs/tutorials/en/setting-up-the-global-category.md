@@ -1,5 +1,5 @@
 ---
-title: Setting up the global category
+title: 'Setting up the global category'
 id: tutorials_188
 status: PUBLISHED
 createdAt: 2017-04-27T22:16:11.527Z

@@ -1,5 +1,5 @@
 ---
-title: O que é 3D Secure?
+title: 'O que é 3D Secure?'
 id: 1eWPdop8mECuaEomQgkAIa
 status: PUBLISHED
 createdAt: 2018-03-02T13:13:14.436Z

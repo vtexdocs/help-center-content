@@ -1,5 +1,5 @@
 ---
-title: Recursos del License Manager - GiftCard
+title: 'Recursos del License Manager - GiftCard'
 id: peP2gecMVQPASKKv3HOND
 status: DRAFT
 createdAt: 2022-02-16T18:08:11.447Z

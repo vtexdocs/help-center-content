@@ -1,5 +1,5 @@
 ---
-title: Customizing the VTEX SMTP
+title: 'Customizing the VTEX SMTP'
 id: tutorials_2733
 status: PUBLISHED
 createdAt: 2017-04-27T21:52:41.580Z

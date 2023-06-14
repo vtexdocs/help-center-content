@@ -1,5 +1,5 @@
 ---
-title: Sellers: crear una cuenta en el Seller Portal
+title: 'Sellers: crear una cuenta en el Seller Portal'
 id: 3gn2Q5rMhgu0jjX7AiiHcs
 status: PUBLISHED
 createdAt: 2021-12-27T16:41:33.228Z

@@ -1,5 +1,5 @@
 ---
-title: Búsqueda con parámetro de especificación devuelve búsqueda vacía. ¿Que hacer?
+title: 'Búsqueda con parámetro de especificación devuelve búsqueda vacía. ¿Que hacer?'
 id: 5qG7kkEeOsG6OQgu8YAKko
 status: CHANGED
 createdAt: 2018-01-31T15:46:42.842Z

@@ -1,5 +1,5 @@
 ---
-title: How to view the catalog reindex log?
+title: 'How to view the catalog reindex log?'
 id: 6cND6PhkaIgGsaeEQYyuMA
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:41.135Z

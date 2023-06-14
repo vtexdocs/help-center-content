@@ -1,5 +1,5 @@
 ---
-title: Calculated Price Table export not bringing all skus
+title: 'Calculated Price Table export not bringing all skus'
 id: 3pJcwSnZG1nO0YjIPCnfyV
 status: PUBLISHED
 createdAt: 2022-12-23T13:41:21.656Z

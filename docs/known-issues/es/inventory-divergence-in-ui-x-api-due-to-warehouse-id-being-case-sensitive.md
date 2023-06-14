@@ -1,5 +1,5 @@
 ---
-title: Divergencia de inventario en UI x API debido a que el id de almacén distingue entre mayúsculas y minúsculas
+title: 'Divergencia de inventario en UI x API debido a que el id de almacén distingue entre mayúsculas y minúsculas'
 id: 3YBSu7M0KqY7JU10wVplFG
 status: PUBLISHED
 createdAt: 2022-06-27T14:34:38.139Z

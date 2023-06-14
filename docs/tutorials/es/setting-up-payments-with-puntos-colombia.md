@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Puntos Colombia
+title: 'Configurar pago con Puntos Colombia'
 id: 5lj66uK0w5XxfzfncEyhP6
 status: PUBLISHED
 createdAt: 2022-03-17T14:14:06.885Z

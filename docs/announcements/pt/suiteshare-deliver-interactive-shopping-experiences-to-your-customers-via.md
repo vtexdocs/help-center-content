@@ -1,5 +1,5 @@
 ---
-title: "Suiteshare: ofereça experiências de compras interativas para seus clientes via WhatsApp"
+title: 'Suiteshare: ofereça experiências de compras interativas para seus clientes via WhatsApp'
 id: 1tNAguMcLif8mUH0kqmPBw
 status: PUBLISHED
 createdAt: 2021-08-16T13:49:05.470Z
@@ -10,8 +10,8 @@ productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: suiteshare-ofereca-experiencias-de-compras-interativas-para-seus-clientes
 legacySlug: suiteshare-ofereca-experiencias-de-compras-interativas-para-seus-clientes
-announcementImageID: ""
-announcementSynopsisPT: A VTEX App Store oferece o aplicativo que integra com a plataforma de vendas e atendimento via WhatsApp, Suiteshare.
+announcementImageID: ''
+announcementSynopsisPT: 'A VTEX App Store oferece o aplicativo que integra com a plataforma de vendas e atendimento via WhatsApp, Suiteshare.'
 ---
 
 O comércio conversacional é uma ferramenta poderosa para as lojas melhorarem seu engajamento, suas taxas de conversão e a experiência de compra para seus clientes. 

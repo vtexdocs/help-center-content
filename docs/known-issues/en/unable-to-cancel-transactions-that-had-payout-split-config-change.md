@@ -1,5 +1,5 @@
 ---
-title: Unable to cancel transactions that had payout split config change
+title: 'Unable to cancel transactions that had payout split config change'
 id: 2bhsI5119DLOhNjk2cb6q
 status: PUBLISHED
 createdAt: 2022-06-28T16:44:10.992Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar o tipo de taxa de financiamento
+title: 'Configurar o tipo de taxa de financiamento'
 id: 3RarAwUYY0KmiSimYyiwee
 status: DRAFT
 createdAt: 2017-09-19T21:42:49.175Z

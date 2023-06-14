@@ -1,5 +1,5 @@
 ---
-title: Formatar la hora de facturación del pedido a través de API
+title: 'Formatar la hora de facturación del pedido a través de API'
 id: HTD83Y8FMswUAgc4YaeYa
 status: DRAFT
 createdAt: 2017-12-18T18:14:17.484Z

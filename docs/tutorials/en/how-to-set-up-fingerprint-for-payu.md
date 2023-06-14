@@ -1,5 +1,5 @@
 ---
-title: How to set up FingerPrint for PayU
+title: 'How to set up FingerPrint for PayU'
 id: 4Gim58iszSuoqW2884gsu8
 status: PUBLISHED
 createdAt: 2017-07-19T14:43:16.588Z
@@ -90,7 +90,7 @@ Once the tag has been set up, it is necessary to save the JS captured from the c
 
 - Accessing the VTEX panel in the CMS menu >> Layout >> File Manager >> .js File Management >> Add.
 
-![cms js](https://images.ctfassets.net/alneenqid6w5/175WhPco7ew6OSEUsIG4MU/68772fc79d642781908d19163d787141/cms_js.png)
+![cms js](//images.ctfassets.net/alneenqid6w5/175WhPco7ew6OSEUsIG4MU/68772fc79d642781908d19163d787141/cms_js.png)
 
 __Attachment__: [md5.js](//assets.contentful.com/alneenqid6w5/5PeWM49nPykYYeWI4cOCy4/60c61b5bcf0b4ce92f211f944ab261ad/md5.js)
 

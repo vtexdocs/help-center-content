@@ -1,5 +1,5 @@
 ---
-title: Pedidos com vendedores de mudança executados não estão respeitando o período de carência de cancelamento
+title: 'Pedidos com vendedores de mudança executados não estão respeitando o período de carência de cancelamento'
 id: 25diaeQxIpSJIfCQxFizIV
 status: PUBLISHED
 createdAt: 2022-09-13T03:17:08.065Z

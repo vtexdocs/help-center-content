@@ -1,5 +1,5 @@
 ---
-title: Checkout has no clarity about divergences between the identified and the logged in customer
+title: 'Checkout has no clarity about divergences between the identified and the logged in customer'
 id: 3TorBnBvCbqLB5AUG8oWp0
 status: PUBLISHED
 createdAt: 2023-05-03T21:54:48.509Z

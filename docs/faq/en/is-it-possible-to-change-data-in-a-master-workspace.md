@@ -1,5 +1,5 @@
 ---
-title: Is it possible to change data in a master workspace?
+title: 'Is it possible to change data in a master workspace?'
 id: 5sDRHWvEcgaCOkYU24QAU6
 status: DRAFT
 createdAt: 2018-02-22T02:12:27.733Z

@@ -1,5 +1,5 @@
 ---
-title: Sort by name working different on stores integrated before a date
+title: 'Sort by name working different on stores integrated before a date'
 id: 96cQG19ZAmAtVT0ykZ4nF
 status: PUBLISHED
 createdAt: 2022-06-20T12:11:22.846Z

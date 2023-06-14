@@ -1,5 +1,5 @@
 ---
-title: A interface do usuário altera automaticamente o SLA selecionado quando o vendedor agendou a retirada e o item não está na primeira posição
+title: 'A interface do usuário altera automaticamente o SLA selecionado quando o vendedor agendou a retirada e o item não está na primeira posição'
 id: 7Jcp2B8YnlWXHNqU4W0VfC
 status: PUBLISHED
 createdAt: 2023-06-13T23:59:24.235Z

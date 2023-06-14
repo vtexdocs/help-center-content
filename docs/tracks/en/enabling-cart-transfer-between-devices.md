@@ -1,5 +1,5 @@
 ---
-title: Enabling cart transfer between devices
+title: 'Enabling cart transfer between devices'
 id: 1PqUW2NuQzaVxTJp0lBK0r
 status: DRAFT
 createdAt: 2020-06-28T18:40:36.128Z
@@ -33,11 +33,11 @@ window.INSTORE_CONFIG = {
 
 After making this change, open the inStore menu and update the data by clicking on the __Reset app local data__ button. Once this is done, a slider will appear at the bottom of the inStore identification page:
 
-![24. Enable cart transfer between devices - 1 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/6n8QGjNTdsUv8LYa5BS9k4/adb1f076df8c7c02a7210249f258016f/24._Enable_cart_transfer_between_devices_-_1_-_EN.png_h_250)
+![24. Enable cart transfer between devices - 1 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/6n8QGjNTdsUv8LYa5BS9k4/adb1f076df8c7c02a7210249f258016f/24._Enable_cart_transfer_between_devices_-_1_-_EN.png_h_250)
 
 When you drag the screen to the right, you will see the screen for __Cart Capture__, as shown in the image below.
 
-![24. Enable cart transfer between devices - 2 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/4HFA0E3oefpFShXIpygidj/63c8ce16230f02347fe36420fd578d4d/24._Enable_cart_transfer_between_devices_-_2_-_EN.png_h_250)
+![24. Enable cart transfer between devices - 2 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/4HFA0E3oefpFShXIpygidj/63c8ce16230f02347fe36420fd578d4d/24._Enable_cart_transfer_between_devices_-_2_-_EN.png_h_250)
 
 On this screen, you can capture a cart using one of three methods:
 - Cart code
@@ -48,4 +48,4 @@ On this screen, you can capture a cart using one of three methods:
 
 For the salesperson to share a cart, they can generate a numeric code or a QR Code. To do this, while on the cart screen, just click on the __Transfer__ button. See an example in the image below.
 
-![24. Enable cart transfer between devices - 3 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/2X6CjDIIvcp87PEln8076S/8e728587064d10fcd9caae506a6a963c/24._Enable_cart_transfer_between_devices_-_3_-_EN.png_h_250)
+![24. Enable cart transfer between devices - 3 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/2X6CjDIIvcp87PEln8076S/8e728587064d10fcd9caae506a6a963c/24._Enable_cart_transfer_between_devices_-_3_-_EN.png_h_250)

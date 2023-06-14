@@ -1,5 +1,5 @@
 ---
-title: Duplicated entries for categories/specification values on the same level
+title: 'Duplicated entries for categories/specification values on the same level'
 id: IoWI8yx1cabm4bWhSU4Ek
 status: PUBLISHED
 createdAt: 2022-04-18T18:53:37.507Z

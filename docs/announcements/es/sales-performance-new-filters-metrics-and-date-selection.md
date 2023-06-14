@@ -1,5 +1,5 @@
 ---
-title: "Desempeño de Ventas: nuevos filtros, métricas y selección de fechas"
+title: 'Desempeño de Ventas: nuevos filtros, métricas y selección de fechas'
 id: ABcPlgtpDmSJTFgA3GCAr
 status: PUBLISHED
 createdAt: 2022-07-05T13:14:52.015Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: desempeno-de-ventas-nuevos-filtros-metricas-y-seleccion-de-fechas
 legacySlug: desempeno-de-ventas-nuevos-filtros-metricas-y-seleccion-de-fechas
-announcementImageID: ""
-announcementSynopsisES: Ahora puedes seleccionar fechas personalizadas y utilizar nuevos filtros en la página Desempeño de Ventas.
+announcementImageID: ''
+announcementSynopsisES: 'Ahora puedes seleccionar fechas personalizadas y utilizar nuevos filtros en la página Desempeño de Ventas.'
 ---
 
 La página [Desempeño de Ventas](https://help.vtex.com/es/v4/docs/desempeno-de-ventas--6gx46RGRzWO8qgaVck7PRp) está en constante evolución para que los administradores de las tiendas puedan extraer cada vez más inteligencia comercial con VTEX. 

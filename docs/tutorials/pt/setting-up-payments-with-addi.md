@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Addi
+title: 'Configurar pagamento com Addi'
 id: 7FhMbT3hN2i5je74lqx6QI
 status: PUBLISHED
 createdAt: 2022-02-14T12:22:11.957Z

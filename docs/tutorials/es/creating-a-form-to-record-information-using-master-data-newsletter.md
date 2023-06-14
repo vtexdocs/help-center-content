@@ -1,5 +1,5 @@
 ---
-title: Crear formulario para registrar información usando Master Data Newsletter (MD)
+title: 'Crear formulario para registrar información usando Master Data Newsletter (MD)'
 id: 2R0OaawoyAUKg0CmUKAGo0
 status: DRAFT
 createdAt: 2017-06-08T01:15:53.801Z

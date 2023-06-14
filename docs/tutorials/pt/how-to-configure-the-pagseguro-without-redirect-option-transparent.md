@@ -1,5 +1,5 @@
 ---
-title: Configurar o PagSeguro sem redirect (transparente)
+title: 'Configurar o PagSeguro sem redirect (transparente)'
 id: tutorials_449
 status: PUBLISHED
 createdAt: 2017-04-27T22:04:37.656Z

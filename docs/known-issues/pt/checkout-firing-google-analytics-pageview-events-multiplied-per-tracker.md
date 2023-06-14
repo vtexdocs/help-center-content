@@ -1,5 +1,5 @@
 ---
-title: Checkout dispara os eventos de pageview do Google Analytics multiplicados por rastreador
+title: 'Checkout dispara os eventos de pageview do Google Analytics multiplicados por rastreador'
 id: 1XMmCfDdKVLEZ5SFq7TyrO
 status: PUBLISHED
 createdAt: 2022-05-12T14:51:41.067Z

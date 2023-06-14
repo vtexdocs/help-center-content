@@ -1,5 +1,5 @@
 ---
-title: Colecciones - Definición del concepto
+title: 'Colecciones - Definición del concepto'
 id: 4hN41yU8IPeb8HKmmaXoca
 status: PUBLISHED
 createdAt: 2019-05-24T15:10:08.139Z

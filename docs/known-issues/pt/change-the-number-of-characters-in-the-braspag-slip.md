@@ -1,5 +1,5 @@
 ---
-title: Alterar o número de caracteres no boletim da Braspag
+title: 'Alterar o número de caracteres no boletim da Braspag'
 id: 61xK9vvImE3hZsmhYEoWBg
 status: PUBLISHED
 createdAt: 2023-03-20T18:02:38.120Z

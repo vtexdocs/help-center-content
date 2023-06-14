@@ -1,5 +1,5 @@
 ---
-title: Configuring Samsung Pay as a payment method
+title: 'Configuring Samsung Pay as a payment method'
 id: 5Yj9rgzOCVYuGmAumQlfpP
 status: PUBLISHED
 createdAt: 2020-08-26T13:40:16.356Z

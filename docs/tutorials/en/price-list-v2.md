@@ -1,5 +1,5 @@
 ---
-title: Price list (v2)
+title: 'Price list (v2)'
 id: tutorials_4394
 status: DRAFT
 createdAt: 2017-04-27T21:50:52.047Z

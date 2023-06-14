@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con banQi
+title: 'Configurar pago con banQi'
 id: 41rk9E7JUmCl683MJ9p52P
 status: PUBLISHED
 createdAt: 2023-03-30T12:31:49.459Z

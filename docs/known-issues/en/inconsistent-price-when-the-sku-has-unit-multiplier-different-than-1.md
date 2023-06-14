@@ -1,5 +1,5 @@
 ---
-title: Inconsistent price when the SKU has unit multiplier different than 1
+title: 'Inconsistent price when the SKU has unit multiplier different than 1'
 id: NVtFiuWgptqa2gBEVmpOC
 status: PUBLISHED
 createdAt: 2022-09-05T13:05:50.789Z

@@ -1,5 +1,5 @@
 ---
-title: "Promoções de campanha: nova opção ao configurar público-alvo"
+title: 'Promoções de campanha: nova opção ao configurar público-alvo'
 id: UJOyf1nYJ0xHXl88RytJ5
 status: PUBLISHED
 createdAt: 2022-07-22T14:00:40.004Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: promocoes-de-campanha-nova-opcao-ao-configurar-publico-alvo
 legacySlug: promocoes-de-campanha-nova-opcao-ao-configurar-publico-alvo
-announcementImageID: ""
-announcementSynopsisPT: Utilize múltiplos públicos-alvo em uma audiência de campanha simultaneamente, em vez de aplicar um ou outro público.
+announcementImageID: ''
+announcementSynopsisPT: 'Utilize múltiplos públicos-alvo em uma audiência de campanha simultaneamente, em vez de aplicar um ou outro público.'
 ---
 
 Promoções para públicos segmentados são ações estratégicas para atrair e reter clientes. Na VTEX, a [promoção de campanha](https://help.vtex.com/pt/tutorial/promocao-de-campanha--1ChYXhK2AQGuS6wAqS8Ume) possibilita atingir públicos-alvo específicos definidos em uma [audiência de campanha](https://help.vtex.com/pt/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m).
@@ -22,7 +22,7 @@ Aprimoramos a configuração de audiência de campanha para permitir que você s
 
 No Admin VTEX, em **Produtos > Promoções e Taxas > Audiências de campanhas > Nova audiência de campanha**, nas configurações referentes ao **Público-alvo**, acrescentamos a opção “e”, onde antes havia apenas a opção “ou”.  Isso significa que agora você pode aplicar uma lógica de adição de critérios (“e”), além da lógica de alternativa (“ou”) que já existia antes. Veja a imagem a seguir:
 
-![publico-alvo-e-ou-pt](https://images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/92a1ac37149d16f9b039cd1f024e6dff/image4.gif)
+![publico-alvo-e-ou-pt](//images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/92a1ac37149d16f9b039cd1f024e6dff/image4.gif)
 
 Com a nova opção, é possível criar promoções de campanha a partir da combinação de critérios de forma mais flexível.
 

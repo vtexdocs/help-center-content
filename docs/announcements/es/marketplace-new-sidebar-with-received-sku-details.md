@@ -1,5 +1,5 @@
 ---
-title: "Marketplace: nueva barra lateral con detalles de SKU recibidos"
+title: 'Marketplace: nueva barra lateral con detalles de SKU recibidos'
 id: 7qhY8onDDjdV9gGjICsyO4
 status: PUBLISHED
 createdAt: 2021-05-03T12:29:49.896Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: marketplace-nueva-barra-lateral-con-detalles-de-sku-recibidos
 legacySlug: marketplace-nueva-barra-lateral-con-detalles-de-sku-recibidos
-announcementImageID: ""
-announcementSynopsisES: Catalogue SKU recibidos con más agilidad, verificando los datos del SKU en la nueva barra lateral.
+announcementImageID: ''
+announcementSynopsisES: 'Catalogue SKU recibidos con más agilidad, verificando los datos del SKU en la nueva barra lateral.'
 ---
 
 La página [SKU Recibidos](https://help.vtex.com/es/tutorial/approving-suggestions-for-skus/) permite que el marketplace visualice, priorice y catalogue los ítems enviados por los sellers, haciendo que estos productos estén disponibles para la venta. En la página, es posible catalogar los SKU recibidos de los sellers en relación con los SKU y o productos que ya están en el marketplace, rechazándolos, creando nuevos productos o asociándolos con productos existentes.  
@@ -23,7 +23,7 @@ Antes, para comprobar la información de un SKU recibido, era necesario acceder 
 
 La barra contiene imágenes del SKU, precio, nivel de stock y otros atributos del producto, como descripción, especificaciones, códigos e ID. También incluye el porcentaje de equivalencia que el SKU recibió por el [matcher](https://help.vtex.com/es/tutorial/entendendo-a-pontuacao-do-vtex-matcher?locale=pt) instalado en su tienda. Aún es posible acceder a la página completa de detalles del SKU, haciendo clic en el botón *«Ver página de detalles»*.
 
-![ES Sidebar received](https://images.ctfassets.net/alneenqid6w5/5weIxQqzG0wxPTsWu61XOI/fd3306cf276f1f52281fa583a448661a/ES_Sidebar_received.gif)
+![ES Sidebar received](//images.ctfassets.net/alneenqid6w5/5weIxQqzG0wxPTsWu61XOI/fd3306cf276f1f52281fa583a448661a/ES_Sidebar_received.gif)
 ## ¿Por qué realizamos este cambio?
 Desarrollamos la barra lateral para brindar más agilidad a su operación y facilitar la catalogación de SKU recibidos, permitiendo:    
 - Acceder a la información necesaria para un SKU sin salir de la lista principal.  

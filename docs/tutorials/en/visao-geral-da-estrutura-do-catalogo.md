@@ -1,5 +1,5 @@
 ---
-title: Catalog - Overview 
+title: 'Catalog - Overview '
 id: 6ejJHhmTaoMMeoIgg4OgA0
 status: DRAFT
 createdAt: 2018-01-25T21:59:53.531Z

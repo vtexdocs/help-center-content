@@ -1,5 +1,5 @@
 ---
-title: Configurar recorrência em condições de pagamento
+title: 'Configurar recorrência em condições de pagamento'
 id: 6EGuoAytLqU2CqUuaI2GUW
 status: PUBLISHED
 createdAt: 2017-06-29T20:56:04.718Z

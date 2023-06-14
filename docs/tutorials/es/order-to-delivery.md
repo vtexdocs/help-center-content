@@ -1,5 +1,5 @@
 ---
-title: Pedidos de entrega (Beta)
+title: 'Pedidos de entrega (Beta)'
 id: 4K7Z6FNIJgEt55B5vqVeCe
 status: PUBLISHED
 createdAt: 2022-06-01T19:54:02.324Z

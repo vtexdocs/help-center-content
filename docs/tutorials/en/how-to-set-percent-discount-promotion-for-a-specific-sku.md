@@ -1,5 +1,5 @@
 ---
-title: How to set percent discount promotion for a specific SKU
+title: 'How to set percent discount promotion for a specific SKU'
 id: 3rbh8ELSLu2IGCeQ6SImU0
 status: PUBLISHED
 createdAt: 2017-08-22T15:24:10.731Z

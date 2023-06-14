@@ -1,5 +1,5 @@
 ---
-title: Change the number of characters in the Braspag slip
+title: 'Change the number of characters in the Braspag slip'
 id: 61xK9vvImE3hZsmhYEoWBg
 status: PUBLISHED
 createdAt: 2023-03-20T18:02:38.120Z

@@ -1,5 +1,5 @@
 ---
-title: Settings
+title: 'Settings'
 id: 7wFsbWgN4rnZsbjhv8IItX
 status: PUBLISHED
 createdAt: 2022-12-09T19:31:06.005Z

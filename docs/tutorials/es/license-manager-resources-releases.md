@@ -1,5 +1,5 @@
 ---
-title: Recursos del License Manager - Releases
+title: 'Recursos del License Manager - Releases'
 id: 5Lwv3crfp1nYOhGAD4kHhE
 status: DRAFT
 createdAt: 2022-02-16T20:50:00.593Z

@@ -1,5 +1,5 @@
 ---
-title: The most common promotions in B2B
+title: 'The most common promotions in B2B'
 id: XoM951AzUIvfaH71UdANf
 status: CHANGED
 createdAt: 2020-05-29T15:34:34.231Z

@@ -1,5 +1,5 @@
 ---
-title: VTEX Session - Visión General del Sistema de Sesiones
+title: 'VTEX Session - Visión General del Sistema de Sesiones'
 id: 6C4Edou6bYqqEAOCAg2MQQ
 status: DRAFT
 createdAt: 2018-08-21T15:45:23.559Z

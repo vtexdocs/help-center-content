@@ -1,5 +1,5 @@
 ---
-title: Configurar um teste A/B com triggers do Master Data
+title: 'Configurar um teste A/B com triggers do Master Data'
 id: 4xFzBMHYty6gmEosWGWMC0
 status: DRAFT
 createdAt: 2018-04-02T17:58:30.057Z

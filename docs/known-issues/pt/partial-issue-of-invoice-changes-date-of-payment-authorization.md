@@ -1,5 +1,5 @@
 ---
-title: Emissão parcial de Nota Fiscal altera data de autorização do pagamento
+title: 'Emissão parcial de Nota Fiscal altera data de autorização do pagamento'
 id: 3kjzXJNFj2miIeIMAW6uW2
 status: PUBLISHED
 createdAt: 2017-04-06T17:10:46.252Z

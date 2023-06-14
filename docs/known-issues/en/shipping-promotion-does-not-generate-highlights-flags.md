@@ -1,5 +1,5 @@
 ---
-title: Shipping Promotion does not generate highlights / flags
+title: 'Shipping Promotion does not generate highlights / flags'
 id: wwCzhTue5cSNhKFLFX9lP
 status: PUBLISHED
 createdAt: 2022-04-25T14:00:46.027Z

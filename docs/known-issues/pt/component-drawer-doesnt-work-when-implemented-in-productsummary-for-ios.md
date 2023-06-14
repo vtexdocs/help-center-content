@@ -1,5 +1,5 @@
 ---
-title: A gaveta de componentes não funciona quando implementada no resumo do produto para iOS
+title: 'A gaveta de componentes não funciona quando implementada no resumo do produto para iOS'
 id: 75145kfQE8swAef57Yr4Aj
 status: PUBLISHED
 createdAt: 2023-05-29T13:22:57.856Z

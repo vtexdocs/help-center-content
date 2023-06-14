@@ -1,5 +1,5 @@
 ---
-title: A criação de pedidos falhou devido à divergência de preços na camada de cumprimento
+title: 'A criação de pedidos falhou devido à divergência de preços na camada de cumprimento'
 id: 31fiMPNRULuOH73AhlzU5K
 status: PUBLISHED
 createdAt: 2022-02-03T15:24:07.791Z

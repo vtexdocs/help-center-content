@@ -1,5 +1,5 @@
 ---
-title: Evitando CORS em suas chamadas ao MasterData
+title: 'Evitando CORS em suas chamadas ao MasterData'
 id: 6eJe5PG2JiOOYOKM2ywaYg
 status: DRAFT
 createdAt: 2018-11-19T19:52:49.941Z

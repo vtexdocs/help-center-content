@@ -1,5 +1,5 @@
 ---
-title: Lançamentos: página Lançamentos (Beta)
+title: 'Lançamentos: página Lançamentos (Beta)'
 id: 2p7IiVD6K8i1iRiwHph5sw
 status: PUBLISHED
 createdAt: 2022-09-19T21:56:39.252Z
@@ -34,7 +34,7 @@ A ordenação dos lançamentos agendados é feita com base na data de publicaç�
 
 Para acessar a página **Lançamentos** no Admin VTEX, vá no menu de navegação **Lançamentos**. A imagem a seguir apresenta a interface e identifica o que você pode realizar por meio dela:
 
-![Releases list view v2 - PT](https://images.ctfassets.net/alneenqid6w5/Fe7SCh8LI8Nv4x6ZM6EGc/4dfbad1e1ee3bbf47ffd965472430291/Releases_list_view_v2_-_PT.png)
+![Releases list view v2 - PT](//images.ctfassets.net/alneenqid6w5/Fe7SCh8LI8Nv4x6ZM6EGc/4dfbad1e1ee3bbf47ffd965472430291/Releases_list_view_v2_-_PT.png)
 
 | **Campo** | **Descrição** |
 |---|---|

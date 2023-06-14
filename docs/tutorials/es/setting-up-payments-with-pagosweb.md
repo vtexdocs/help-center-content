@@ -1,5 +1,5 @@
 ---
-title: Configurar pagos con PagosWEB
+title: 'Configurar pagos con PagosWEB'
 id: 2qKIeEPUBKqEGo2OyikyQw
 status: PUBLISHED
 createdAt: 2018-04-05T15:48:50.151Z

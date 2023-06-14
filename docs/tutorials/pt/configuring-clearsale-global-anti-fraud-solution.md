@@ -1,5 +1,5 @@
 ---
-title: Configurar o antifraude ClearSale Global
+title: 'Configurar o antifraude ClearSale Global'
 id: 2vJNhRDEKf1w79m2MYfEWw
 status: PUBLISHED
 createdAt: 2021-07-06T18:05:33.325Z

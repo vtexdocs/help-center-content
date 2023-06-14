@@ -1,5 +1,5 @@
 ---
-title: Problemas com "preço de" no controle "ButtonBuyModal"
+title: 'Problemas com "preço de" no controle "ButtonBuyModal"'
 id: 2DdTK2AQNysEqM8AyMwSMQ
 status: PUBLISHED
 createdAt: 2018-10-05T17:06:27.321Z

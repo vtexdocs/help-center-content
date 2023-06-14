@@ -1,5 +1,5 @@
 ---
-title: Recursos del License Manager - VTEX Bridge
+title: 'Recursos del License Manager - VTEX Bridge'
 id: 6qUtMSgzlE1Bwz7LngWO1e
 status: DRAFT
 createdAt: 2022-02-16T21:03:27.879Z

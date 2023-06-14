@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com PayPal
+title: 'Configurar pagamento com PayPal'
 id: 4p3sD9u1moq2Aya2oc684w
 status: PUBLISHED
 createdAt: 2018-02-21T17:15:53.516Z

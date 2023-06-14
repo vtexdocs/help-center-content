@@ -1,5 +1,5 @@
 ---
-title: La exportación de hojas de cálculo no funciona en la pestaña de procesamiento de Sku recibido
+title: 'La exportación de hojas de cálculo no funciona en la pestaña de procesamiento de Sku recibido'
 id: cApuC5KqvuKA3ihgySLcN
 status: PUBLISHED
 createdAt: 2023-04-18T15:07:53.751Z

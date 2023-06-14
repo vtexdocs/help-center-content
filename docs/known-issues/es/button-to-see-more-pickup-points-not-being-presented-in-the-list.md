@@ -1,5 +1,5 @@
 ---
-title: Botón para ver más puntos de recogida que no se presentan en la lista
+title: 'Botón para ver más puntos de recogida que no se presentan en la lista'
 id: 63tXdW6nlWFzeS3QbGPi1W
 status: PUBLISHED
 createdAt: 2023-02-07T13:38:36.848Z

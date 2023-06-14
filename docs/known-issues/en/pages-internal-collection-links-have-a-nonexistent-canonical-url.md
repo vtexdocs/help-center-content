@@ -1,5 +1,5 @@
 ---
-title: Page's internal collection links have a nonexistent canonical URL
+title: 'Page's internal collection links have a nonexistent canonical URL'
 id: 1sJzMe74vio2Wkm60q6m6i
 status: PUBLISHED
 createdAt: 2017-12-21T17:38:14.109Z

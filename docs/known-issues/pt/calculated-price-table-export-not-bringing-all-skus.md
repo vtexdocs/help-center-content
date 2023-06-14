@@ -1,5 +1,5 @@
 ---
-title: Tabela de Preços Calculados para exportação não trazendo todos os skus
+title: 'Tabela de Preços Calculados para exportação não trazendo todos os skus'
 id: 3pJcwSnZG1nO0YjIPCnfyV
 status: PUBLISHED
 createdAt: 2022-12-23T13:41:21.656Z

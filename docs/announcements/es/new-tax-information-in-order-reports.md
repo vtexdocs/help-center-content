@@ -1,5 +1,5 @@
 ---
-title: "Nueva información sobre tasas en el informe de pedidos"
+title: 'Nueva información sobre tasas en el informe de pedidos'
 id: 5w4kBsXd6DIzBjyGMe5Tmy
 status: PUBLISHED
 createdAt: 2021-04-08T18:19:51.100Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: nueva-informacion-sobre-tasas-en-el-informe-de-pedidos
 legacySlug: nueva-informacion-sobre-tasas-en-el-informe-de-pedidos
-announcementImageID: ""
-announcementSynopsisES: La columna Taxes del informe de pedidos ha sido modificada para ofrecer visibilidad sobre el valor total de impuestos.
+announcementImageID: ''
+announcementSynopsisES: 'La columna Taxes del informe de pedidos ha sido modificada para ofrecer visibilidad sobre el valor total de impuestos.'
 ---
 
 La exportación de los informes de pedidos permite realizar acciones externas, como analizar el desempeño de promociones o utilizarlos como nota de entrega para facilitar la logística de la tienda.

@@ -1,5 +1,5 @@
 ---
-title: Divergencia en los valores de flete prorrateados por artículo entre los pedidos de CHK y FFM
+title: 'Divergencia en los valores de flete prorrateados por artículo entre los pedidos de CHK y FFM'
 id: 6v4Fero4fkOw3omZOl21Xf
 status: PUBLISHED
 createdAt: 2022-01-24T20:24:18.002Z

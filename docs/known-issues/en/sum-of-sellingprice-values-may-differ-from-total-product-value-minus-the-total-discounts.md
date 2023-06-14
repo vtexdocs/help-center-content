@@ -1,5 +1,5 @@
 ---
-title: Sum of SellingPrice values may differ from total product value minus the total discounts
+title: 'Sum of SellingPrice values may differ from total product value minus the total discounts'
 id: wo1qtfZnDfI8EylRbXiPF
 status: PUBLISHED
 createdAt: 2019-09-13T18:08:45.753Z

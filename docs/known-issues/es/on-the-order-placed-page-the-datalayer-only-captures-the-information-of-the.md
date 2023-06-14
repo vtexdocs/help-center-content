@@ -1,5 +1,5 @@
 ---
-title: En la página Order Placed, el DataLayer sólo captura la información del primer pago dentro de la transacción (transactionPaymentType)
+title: 'En la página Order Placed, el DataLayer sólo captura la información del primer pago dentro de la transacción (transactionPaymentType)'
 id: 5cTy3dCZ6x7FNMKvBbc9s8
 status: PUBLISHED
 createdAt: 2023-01-04T21:06:17.111Z

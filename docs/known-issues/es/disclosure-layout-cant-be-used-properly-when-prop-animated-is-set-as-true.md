@@ -1,5 +1,5 @@
 ---
-title: Disclosure Layout no se puede utilizar correctamente cuando prop animado se establece como verdadero
+title: 'Disclosure Layout no se puede utilizar correctamente cuando prop animado se establece como verdadero'
 id: 14QweVpzLO8TsyI68H79ZG
 status: PUBLISHED
 createdAt: 2022-04-19T19:53:22.409Z

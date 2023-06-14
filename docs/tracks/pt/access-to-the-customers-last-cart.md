@@ -1,5 +1,5 @@
 ---
-title: Acesso ao último carrinho do cliente
+title: 'Acesso ao último carrinho do cliente'
 id: 6nmLlqdoUdTzmfYIlRMYds
 status: PUBLISHED
 createdAt: 2021-08-05T13:52:22.445Z
@@ -19,4 +19,4 @@ Ao ter acesso a essa informação, o vendedor pode tentar concluir a venda dos i
 
 Basta clicar em `Acessar` para ver os produtos do carrinho abandonado.
 
-![last-cart-pt](https://images.ctfassets.net/alneenqid6w5/5A40nJsnX5wRDlHJGn9ZsD/2cccf8f174d42a76d25c0811782dc79e/last-cart-PT.png)
+![last-cart-pt](//images.ctfassets.net/alneenqid6w5/5A40nJsnX5wRDlHJGn9ZsD/2cccf8f174d42a76d25c0811782dc79e/last-cart-PT.png)

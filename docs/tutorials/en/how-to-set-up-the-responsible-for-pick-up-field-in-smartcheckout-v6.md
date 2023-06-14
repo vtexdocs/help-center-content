@@ -1,5 +1,5 @@
 ---
-title: How to set up the "Responsible for pick up" field in SmartCheckout™ V6
+title: 'How to set up the "Responsible for pick up" field in SmartCheckout™ V6'
 id: 2GsFnXUJxSOYEE6U2c4Syw
 status: PUBLISHED
 createdAt: 2018-11-09T12:18:14.596Z

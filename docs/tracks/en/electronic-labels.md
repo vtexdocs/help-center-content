@@ -1,5 +1,5 @@
 ---
-title: Electronic Labels
+title: 'Electronic Labels'
 id: WUWs3M5co8qYwqUA8oUaA
 status: DRAFT
 createdAt: 2018-06-25T21:40:07.635Z

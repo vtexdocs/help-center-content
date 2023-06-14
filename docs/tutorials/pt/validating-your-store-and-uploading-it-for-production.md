@@ -1,5 +1,5 @@
 ---
-title: Validar a loja para subir para produção
+title: 'Validar a loja para subir para produção'
 id: tutorials_1419
 status: CHANGED
 createdAt: 2017-04-27T21:56:14.582Z

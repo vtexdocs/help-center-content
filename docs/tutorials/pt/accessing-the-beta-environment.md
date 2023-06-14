@@ -1,5 +1,5 @@
 ---
-title: Acessar o ambiente beta pelo domínio myvtex.com
+title: 'Acessar o ambiente beta pelo domínio myvtex.com'
 id: 3BHM289568gcSwk2O80Asu
 status: PUBLISHED
 createdAt: 2018-07-26T18:09:29.968Z
@@ -26,7 +26,7 @@ O ambiente beta funciona como um ambiente de testes para diferentes versões de 
 
 O acesso ao ambiente beta se localiza no final do menu lateral do admin. Basta clicar em `Usar beta` para ter acesso ao ambiente de testes.
 
-![usar-beta-pt-br](https://images.ctfassets.net/alneenqid6w5/6FhvL9s66QsKuYIwsy0Kkm/29dcc61ec07d4322c9ced983bd0c82e2/usar-beta-pt-br.png)
+![usar-beta-pt-br](//images.ctfassets.net/alneenqid6w5/6FhvL9s66QsKuYIwsy0Kkm/29dcc61ec07d4322c9ced983bd0c82e2/usar-beta-pt-br.png)
 
 <div class="alert alert-info">
 Para retornar ao ambiente principal, clique em <code>Usar stable</code>, também localizado no final do menu lateral do admin.
@@ -36,4 +36,4 @@ Para retornar ao ambiente principal, clique em <code>Usar stable</code>, também
  
 Para acessar sua loja em modo beta e verificar como as mudanças feitas afetaram o front da sua loja, basta clicar no botão `VISITE A LOJA` depois de ter realizado o acesso ao ambiente beta descrito no passo acima.
 
-![visite-a-loja-beta-pt](https://images.ctfassets.net/alneenqid6w5/1ROmY3DdHSkSoeoMYwMkg2/7ca0f31551fa9b45a14b784ed84503eb/visite-a-loja-beta-pt.png) 
+![visite-a-loja-beta-pt](//images.ctfassets.net/alneenqid6w5/1ROmY3DdHSkSoeoMYwMkg2/7ca0f31551fa9b45a14b784ed84503eb/visite-a-loja-beta-pt.png) 

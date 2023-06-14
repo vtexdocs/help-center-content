@@ -1,5 +1,5 @@
 ---
-title: Dafiti marketplace
+title: 'Dafiti marketplace'
 id: 5lAIj7OCqizD5EisLJvatx
 status: PUBLISHED
 createdAt: 2021-05-26T15:09:29.538Z

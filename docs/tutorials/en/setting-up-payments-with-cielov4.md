@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with CieloV4
+title: 'Setting up payments with CieloV4'
 id: 7M2CqJxprwpDtbgLZHBoiI
 status: PUBLISHED
 createdAt: 2022-07-20T14:25:28.188Z

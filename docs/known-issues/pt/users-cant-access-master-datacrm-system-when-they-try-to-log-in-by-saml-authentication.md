@@ -1,5 +1,5 @@
 ---
-title: Os usuários não podem acessar o sistema Master Data/CRM quando tentam fazer o login por autenticação SAML
+title: 'Os usuários não podem acessar o sistema Master Data/CRM quando tentam fazer o login por autenticação SAML'
 id: 152NR7uX8iEUnKWu9gFR7h
 status: PUBLISHED
 createdAt: 2023-04-13T14:29:02.684Z

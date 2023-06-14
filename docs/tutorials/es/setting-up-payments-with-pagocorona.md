@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con PagoCorona
+title: 'Configurar pago con PagoCorona'
 id: 68bP9A3AZwqrl2gwkZmh9x
 status: DRAFT
 createdAt: 2022-08-15T15:04:48.516Z

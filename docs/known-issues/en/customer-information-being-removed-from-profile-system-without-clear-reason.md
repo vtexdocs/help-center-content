@@ -1,5 +1,5 @@
 ---
-title: Customer information being removed from Profile System without clear reason
+title: 'Customer information being removed from Profile System without clear reason'
 id: 3xnhH9VXa5Gj0oag44cG1I
 status: PUBLISHED
 createdAt: 2022-06-25T10:53:51.548Z

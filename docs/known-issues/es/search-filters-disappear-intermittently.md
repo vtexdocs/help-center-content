@@ -1,5 +1,5 @@
 ---
-title: Los filtros de búsqueda desaparecen intermitentemente
+title: 'Los filtros de búsqueda desaparecen intermitentemente'
 id: 6rD4zlDx7dL9wUAsRuvSD7
 status: PUBLISHED
 createdAt: 2023-01-16T18:29:18.976Z

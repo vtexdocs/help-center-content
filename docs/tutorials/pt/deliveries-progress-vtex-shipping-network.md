@@ -1,5 +1,5 @@
 ---
-title: VTEX Shipping Network: Entregas Correios
+title: 'VTEX Shipping Network: Entregas Correios'
 id: 5CZRA0lq60EecmwZpsjvfq
 status: PUBLISHED
 createdAt: 2022-03-04T13:12:38.617Z
@@ -43,7 +43,7 @@ Para imprimir etiquetas dos pacotes e notificar os Correios para realizar a cole
 
 No Admin VTEX, em **Envio > Entregas Correios**, a página **Informações dos Pedidos** apresenta uma listagem de todos os pacotes postados. Na lista, é possível acompanhar as seguintes informações:
 
-![entregas_correios_interface_PT](https://images.ctfassets.net/alneenqid6w5/6yRZTRg0D2HkJC5TeVLKSx/12386242428176b32fdfc8e7e6719ff8/entregas_correios_interface_PT.png)
+![entregas_correios_interface_PT](//images.ctfassets.net/alneenqid6w5/6yRZTRg0D2HkJC5TeVLKSx/12386242428176b32fdfc8e7e6719ff8/entregas_correios_interface_PT.png)
 
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
     <thead class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
@@ -130,7 +130,7 @@ Ainda na página **Informações dos Pedidos,** você pode:
 
 Para visualizar mais informações sobre os pacotes de um pedido enviado clique no menu <i class="fas fa-ellipsis-v"></i> na última coluna da lista, e então clique em <i class="fas fa-eye"></i> `Detalhes do pedido`.
 
-![entregas_correios_detalhes_pedidos_PT](https://images.ctfassets.net/alneenqid6w5/3vtixaxWaubVOeLuueXgMI/ad5ca210783876124a205ee551e41c8f/entregas_correios_detalhes_pedidos_PT.png)
+![entregas_correios_detalhes_pedidos_PT](//images.ctfassets.net/alneenqid6w5/3vtixaxWaubVOeLuueXgMI/ad5ca210783876124a205ee551e41c8f/entregas_correios_detalhes_pedidos_PT.png)
 
 Na nova página, você pode realizar as seguintes ações: 
 

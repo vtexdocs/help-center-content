@@ -1,5 +1,5 @@
 ---
-title: Exportar o CSV no módulo de desempenho de vendas
+title: 'Exportar o CSV no módulo de desempenho de vendas'
 id: 7qnlFfnImq7N6Nrz0xIT8L
 status: PUBLISHED
 createdAt: 2023-05-11T13:42:36.411Z

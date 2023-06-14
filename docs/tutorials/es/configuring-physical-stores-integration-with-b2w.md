@@ -1,5 +1,5 @@
 ---
-title: Configurar la integración de tiendas físicas con B2W
+title: 'Configurar la integración de tiendas físicas con B2W'
 id: 1yv2BSquNmdp8M6vJvaLwm
 status: PUBLISHED
 createdAt: 2021-03-09T18:14:58.278Z

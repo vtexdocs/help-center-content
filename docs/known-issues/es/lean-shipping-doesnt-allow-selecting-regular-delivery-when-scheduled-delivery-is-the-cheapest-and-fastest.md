@@ -1,5 +1,5 @@
 ---
-title: Lean shipping no permite seleccionar la entrega regular cuando la entrega programada es la más barata y rápida
+title: 'Lean shipping no permite seleccionar la entrega regular cuando la entrega programada es la más barata y rápida'
 id: 4foQfCWNbU4280gcG9G4Of
 status: PUBLISHED
 createdAt: 2023-06-12T12:40:32.241Z

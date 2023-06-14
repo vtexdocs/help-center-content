@@ -1,5 +1,5 @@
 ---
-title: Configurar el PagSeguro V3
+title: 'Configurar el PagSeguro V3'
 id: 5Noi1mUbBQ6CyqdeDQtWfw
 status: PUBLISHED
 createdAt: 2021-12-02T12:14:58.698Z

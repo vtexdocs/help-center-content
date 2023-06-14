@@ -1,5 +1,5 @@
 ---
-title: Managing Customer Credit accounts
+title: 'Managing Customer Credit accounts'
 id: 4eknoeqaj6EGC20amsm6Gc
 status: PUBLISHED
 createdAt: 2018-11-06T21:15:25.330Z

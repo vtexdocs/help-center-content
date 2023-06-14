@@ -1,5 +1,5 @@
 ---
-title: "New Beta Collections module: Easily create and manage product collections"
+title: 'New Beta Collections module: Easily create and manage product collections'
 id: 6KvFxylC5SNsbVm8L8XZpZ
 status: PUBLISHED
 createdAt: 2020-12-15T19:14:51.662Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: new-beta-collections-module-easily-create-and-manage-product-collections
 legacySlug: new-beta-collections-module-easily-create-and-manage-product-collections
-announcementImageID: ""
-announcementSynopsisEN: With the new Beta Collections module you can create collections more easily.
+announcementImageID: ''
+announcementSynopsisEN: 'With the new Beta Collections module you can create collections more easily.'
 ---
 
 We developed the [new Beta Collections module](https://help.vtex.com/en/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye) as a renewed alternative to the configurations made through CMS. Now we have a module dedicated to Collections with new features and available in beta version. This module allows you to:

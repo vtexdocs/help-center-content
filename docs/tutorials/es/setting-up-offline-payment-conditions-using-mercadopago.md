@@ -1,5 +1,5 @@
 ---
-title: Configurar condiciones de pago offline mediante MercadoPago (América Latina)
+title: 'Configurar condiciones de pago offline mediante MercadoPago (América Latina)'
 id: 3IVvb48DeoKeWyOAwe2OME
 status: PUBLISHED
 createdAt: 2018-03-14T23:34:08.473Z

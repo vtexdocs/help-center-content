@@ -1,5 +1,5 @@
 ---
-title: How product name control works
+title: 'How product name control works'
 id: 4uYwXjOzH2OsK8SMWuWuCg
 status: DRAFT
 createdAt: 2019-01-24T20:45:37.973Z

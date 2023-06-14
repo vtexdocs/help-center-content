@@ -1,5 +1,5 @@
 ---
-title: Relatório de Indicadores
+title: 'Relatório de Indicadores'
 id: 7lbICsrCArXDxUYeeHJ2c5
 status: PUBLISHED
 createdAt: 2021-05-14T14:57:19.872Z

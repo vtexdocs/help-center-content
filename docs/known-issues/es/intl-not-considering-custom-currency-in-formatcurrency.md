@@ -1,5 +1,5 @@
 ---
-title: Intl no considera moneda personalizada en formatDivisa
+title: 'Intl no considera moneda personalizada en formatDivisa'
 id: 6uzuilnzwSZ4oQBJqqoZmd
 status: PUBLISHED
 createdAt: 2023-01-19T15:45:59.663Z

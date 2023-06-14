@@ -1,5 +1,5 @@
 ---
-title: El filtro de importación y exportación de categorías de productos/skus sólo funciona para las categorías de último nivel
+title: 'El filtro de importación y exportación de categorías de productos/skus sólo funciona para las categorías de último nivel'
 id: i7KO2Nw3puiniVTRbDJok
 status: PUBLISHED
 createdAt: 2022-03-25T17:49:45.769Z

@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo funciona el soporte de VTEX?
+title: '¿Cómo funciona el soporte de VTEX?'
 id: 3kACEfni4m8Yxa1vnf2ebe
 status: PUBLISHED
 createdAt: 2019-03-10T19:06:12.818Z

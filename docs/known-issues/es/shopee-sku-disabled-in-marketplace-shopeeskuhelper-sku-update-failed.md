@@ -1,5 +1,5 @@
 ---
-title: [Shopee] SKU desactivado en el mercado. shopee-sku-helper (actualización de sku fallida)
+title: '[Shopee] SKU desactivado en el mercado. shopee-sku-helper (actualización de sku fallida)'
 id: 2GZUqJQ8MeI9lspoGYQ9Rh
 status: PUBLISHED
 createdAt: 2022-10-25T16:09:55.768Z

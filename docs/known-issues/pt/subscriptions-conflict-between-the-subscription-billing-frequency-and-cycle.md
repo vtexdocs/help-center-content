@@ -1,5 +1,5 @@
 ---
-title: Assinaturas: impasse entre data de cobrança e frequência do pedido
+title: 'Assinaturas: impasse entre data de cobrança e frequência do pedido'
 id: 4k32lnRONWU3YzXyvXJItO
 status: PUBLISHED
 createdAt: 2021-06-14T20:32:51.367Z

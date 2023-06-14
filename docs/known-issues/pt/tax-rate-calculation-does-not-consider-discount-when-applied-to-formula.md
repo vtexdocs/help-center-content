@@ -1,5 +1,5 @@
 ---
-title: Taxa não considera desconto ao calcular valor aplicado por fórmula
+title: 'Taxa não considera desconto ao calcular valor aplicado por fórmula'
 id: 58sEdphNQ4c4QEY8ewqYOq
 status: PUBLISHED
 createdAt: 2017-08-01T17:33:07.889Z

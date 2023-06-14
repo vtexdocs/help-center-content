@@ -1,5 +1,5 @@
 ---
-title: Gift list does not load
+title: 'Gift list does not load'
 id: 3qIHpPzdGoyWMwmyoGugwq
 status: PUBLISHED
 createdAt: 2017-04-11T21:42:34.789Z

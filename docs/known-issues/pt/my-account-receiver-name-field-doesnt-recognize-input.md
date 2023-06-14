@@ -1,5 +1,5 @@
 ---
-title: Minha Conta - O campo Nome do Receptor não reconhece a entrada.
+title: 'Minha Conta - O campo Nome do Receptor não reconhece a entrada.'
 id: 2Vg1JfyREUV9qgUMqHvtkn
 status: PUBLISHED
 createdAt: 2022-04-28T12:55:15.384Z

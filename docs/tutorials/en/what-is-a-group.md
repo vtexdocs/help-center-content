@@ -1,5 +1,5 @@
 ---
-title: What is a Group?
+title: 'What is a Group?'
 id: 4qSPdPkQ9iWcecGCoIYIYe
 status: DRAFT
 createdAt: 2018-01-25T21:18:07.523Z

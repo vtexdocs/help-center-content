@@ -1,5 +1,5 @@
 ---
-title: How to set up the price range filter
+title: 'How to set up the price range filter'
 id: tutorials_240
 status: PUBLISHED
 createdAt: 2017-04-27T22:12:49.904Z
@@ -19,7 +19,7 @@ They are very important for browsing and searching products in the store.
 
 The registration is simple, and different price ranges may be determined for categories, as shown below:
 
-![faixa-de-preço en](https://images.ctfassets.net/alneenqid6w5/1Xj5nkiiYgugKioamYQEs4/6aa1023fbcda148c33b73fa52890b1b7/faixa-de-pre__o_en.png)
+![faixa-de-preço en](//images.ctfassets.net/alneenqid6w5/1Xj5nkiiYgugKioamYQEs4/6aa1023fbcda148c33b73fa52890b1b7/faixa-de-pre__o_en.png)
 
 In Price Ranges, click on “New Price Range” and fill in the fields below:
 

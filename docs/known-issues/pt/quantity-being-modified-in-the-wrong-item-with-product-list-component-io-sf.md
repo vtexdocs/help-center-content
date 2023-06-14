@@ -1,5 +1,5 @@
 ---
-title: Quantidade sendo modificada no item errado com o componente da lista de produtos (IO/SF)
+title: 'Quantidade sendo modificada no item errado com o componente da lista de produtos (IO/SF)'
 id: jWaas8MOVv5NYSImgA9ao
 status: PUBLISHED
 createdAt: 2022-12-16T18:10:39.004Z

@@ -1,5 +1,5 @@
 ---
-title: "Melhorias de UX no checkout para cartões vencidos"
+title: 'Melhorias de UX no checkout para cartões vencidos'
 id: 63xlwoVYtCo1elfBkQps78
 status: PUBLISHED
 createdAt: 2020-11-23T19:47:40.205Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: melhorias-de-ux-no-checkout-para-cartoes-vencidos
 legacySlug: melhorias-de-ux-no-checkout-para-cartoes-vencidos
-announcementImageID: ""
-announcementSynopsisPT: Agora impedimos que cartões vencidos sejam selecionados no checkout, para uma experiência de compra mais fluida.
+announcementImageID: ''
+announcementSynopsisPT: 'Agora impedimos que cartões vencidos sejam selecionados no checkout, para uma experiência de compra mais fluida.'
 ---
 
 Uma das principais vantagens do [VTEX Smartcheckout™](https://vtex.com/pt-br/blog/institucional/vtex-smartcheckout-pode-aumentar-em-ate-21-a-conversao-da-sua-loja/) é a facilidade de recompra. Basta que o comprador se identifique com seu e-mail para que seus dados sejam preenchidos. Para fechar a compra, basta que ele insira o código de segurança do seu cartão armazenado. Tudo isso num processo ágil e seguro. 
@@ -22,7 +22,7 @@ Para continuarmos refinando essa experiência, incluímos uma validação adicio
 
 Antes era possível que um comprador selecionasse um cartão vencido e realizasse uma compra, que teria seu pagamento negado em seguida. Agora sinalizamos cartões vencidos e impedimos que eles sejam selecionados checkout, para uma experiência de compra mais fluida.
 
-![PT - Expired Cards](https://images.ctfassets.net/alneenqid6w5/7HzPrSIeXAcZj1x5v7PFsB/d9be78a77ef1849dd23b5bb86bd58fc7/PT_-_Expired_Cards.png)
+![PT - Expired Cards](//images.ctfassets.net/alneenqid6w5/7HzPrSIeXAcZj1x5v7PFsB/d9be78a77ef1849dd23b5bb86bd58fc7/PT_-_Expired_Cards.png)
 
 ## Por que realizamos esta mudança?
 

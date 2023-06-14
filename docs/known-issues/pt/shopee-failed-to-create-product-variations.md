@@ -1,5 +1,5 @@
 ---
-title: [Falha em criar variações de produtos
+title: '[Falha em criar variações de produtos'
 id: 5IKAkqtm8eejg2IhzrCgSz
 status: PUBLISHED
 createdAt: 2022-10-25T16:29:19.572Z

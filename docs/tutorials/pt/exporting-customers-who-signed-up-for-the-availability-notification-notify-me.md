@@ -1,5 +1,5 @@
 ---
-title: Exportar os clientes cadastrados na notificação de disponibilidade (Avise-me)
+title: 'Exportar os clientes cadastrados na notificação de disponibilidade (Avise-me)'
 id: 3Yr19DMQukGeIImUeCwIao
 status: PUBLISHED
 createdAt: 2018-01-23T16:32:41.471Z

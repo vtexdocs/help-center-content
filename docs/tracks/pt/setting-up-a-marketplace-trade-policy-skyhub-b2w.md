@@ -1,5 +1,5 @@
 ---
-title: Configurar política comercial para marketplace
+title: 'Configurar política comercial para marketplace'
 id: 4rbhQuuWlUvOp4oOeBlbiC
 status: PUBLISHED
 createdAt: 2021-02-22T19:46:30.515Z

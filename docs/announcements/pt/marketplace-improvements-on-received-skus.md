@@ -1,5 +1,5 @@
 ---
-title: "Marketplace: melhorias no módulo SKUs Recebidos"
+title: 'Marketplace: melhorias no módulo SKUs Recebidos'
 id: 5AY73ocF0evsh3yzY6AMX6
 status: PUBLISHED
 createdAt: 2020-10-26T23:30:54.501Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: marketplace-melhorias-no-modulo-skus-recebidos
 legacySlug: marketplace-melhorias-no-modulo-skus-recebidos
-announcementImageID: ""
-announcementSynopsisPT: Marketplace: Bloqueie SKUs de serem reenviados pelo seller, e também configure aprovação automática
+announcementImageID: ''
+announcementSynopsisPT: 'Marketplace: Bloqueie SKUs de serem reenviados pelo seller, e também configure aprovação automática'
 ---
 
 O painel do SKUs Recebidos é onde marketplaces avaliam as sugestões enviadas por sellers, para que sejam aprovados e incorporados ao seu catálogo, ou recusados. 
@@ -28,7 +28,7 @@ Vale notar que essa ação pode ser desfeita. É possível aprovar um SKU bloque
 
 Não é preciso realizar nenhuma configuração para ativar essa funcionalidade, ela será instalada de forma automática na plataforma VTEX. Para saber mais sobre o bloqueio de SKUs, no painel do módulo SKUs recebidos, confira nosso artigo sobre [Catalogação manual de SKUs](https://help.vtex.com/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396).
 
-![PT SKUs Recebidos Announcement](https://images.ctfassets.net/alneenqid6w5/5UdF6jOSwSvqYQIng9w7mS/b6d7724cfd093568a02012b5fdd14afe/PT_SKUs_Recebidos_Announcement.jpg)
+![PT SKUs Recebidos Announcement](//images.ctfassets.net/alneenqid6w5/5UdF6jOSwSvqYQIng9w7mS/b6d7724cfd093568a02012b5fdd14afe/PT_SKUs_Recebidos_Announcement.jpg)
 
 ## Configurações de aprovação automática de SKUs
 

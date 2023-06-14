@@ -1,5 +1,5 @@
 ---
-title: Precio indexado de un producto considerando la SKU con el precio más alto en lugar del más bajo.
+title: 'Precio indexado de un producto considerando la SKU con el precio más alto en lugar del más bajo.'
 id: 333mavl9dvgO4Jrgv8ECE6
 status: PUBLISHED
 createdAt: 2023-05-09T14:39:56.338Z

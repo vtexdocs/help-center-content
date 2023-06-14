@@ -1,5 +1,5 @@
 ---
-title: Setting up Mundipagg gateway
+title: 'Setting up Mundipagg gateway'
 id: 6C9412jePCUMGguq0YWU8M
 status: PUBLISHED
 createdAt: 2018-04-18T18:01:44.533Z

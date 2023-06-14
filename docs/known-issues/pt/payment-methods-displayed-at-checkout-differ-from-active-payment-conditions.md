@@ -1,5 +1,5 @@
 ---
-title: Os métodos de pagamento exibidos no checkout diferem das condições de pagamento ativas
+title: 'Os métodos de pagamento exibidos no checkout diferem das condições de pagamento ativas'
 id: 1cpVNspn5G6je4EZKzvCF9
 status: PUBLISHED
 createdAt: 2022-09-27T16:32:55.806Z

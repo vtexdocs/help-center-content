@@ -1,5 +1,5 @@
 ---
-title: El pago sobrescribe el nombre del receptor con el nombre del cliente
+title: 'El pago sobrescribe el nombre del receptor con el nombre del cliente'
 id: 6hw8M6PeUes529M1AdK62i
 status: PUBLISHED
 createdAt: 2022-09-22T01:03:23.512Z

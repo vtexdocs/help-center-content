@@ -1,5 +1,5 @@
 ---
-title: Criar tabela de preços promocionais
+title: 'Criar tabela de preços promocionais'
 id: pIwaCYDwWqpbao6GahcjT
 status: PUBLISHED
 createdAt: 2019-06-17T20:59:23.665Z

@@ -1,5 +1,5 @@
 ---
-title: Alterar el logo del boleto
+title: 'Alterar el logo del boleto'
 id: frequentlyAskedQuestions_486
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:53.884Z

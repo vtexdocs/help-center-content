@@ -1,5 +1,5 @@
 ---
-title: Em fullcleanup admin o botão Reindex Database pode não funcionar na primeira tentativa
+title: 'Em fullcleanup admin o botão Reindex Database pode não funcionar na primeira tentativa'
 id: 4spOMbnKZPCcnQghKTP6Zb
 status: PUBLISHED
 createdAt: 2023-04-14T17:39:56.758Z

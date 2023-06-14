@@ -1,5 +1,5 @@
 ---
-title: Sinónimos que no se reflejan en la Búsqueda Explicada
+title: 'Sinónimos que no se reflejan en la Búsqueda Explicada'
 id: 6twjWHNHdarFV5pz1aTfeb
 status: PUBLISHED
 createdAt: 2023-03-20T16:57:15.640Z

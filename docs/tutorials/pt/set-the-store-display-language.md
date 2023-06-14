@@ -1,5 +1,5 @@
 ---
-title: Definir os textos de exibição da loja
+title: 'Definir os textos de exibição da loja'
 id: 1lTwIvUzgIcs28QGCGK0Ag
 status: PUBLISHED
 createdAt: 2018-01-25T18:21:47.414Z

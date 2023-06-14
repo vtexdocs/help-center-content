@@ -1,5 +1,5 @@
 ---
-title: Error "¡no se pueden crear criterios de búsqueda! error: el filtro ya existe: "brandId"" al crear una promoción que excluye más de 1 marca.
+title: 'Error "¡no se pueden crear criterios de búsqueda! error: el filtro ya existe: "brandId"" al crear una promoción que excluye más de 1 marca.'
 id: 6s6cvYpImIBEH0SLqE3J2U
 status: PUBLISHED
 createdAt: 2022-09-22T15:53:15.001Z

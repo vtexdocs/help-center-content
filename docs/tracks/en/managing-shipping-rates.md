@@ -1,5 +1,5 @@
 ---
-title: Managing shipping rates
+title: 'Managing shipping rates'
 id: 2Pj1gKR80QIuUhc0orMraD
 status: DRAFT
 createdAt: 2019-10-23T14:48:44.609Z

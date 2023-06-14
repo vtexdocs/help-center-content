@@ -1,5 +1,5 @@
 ---
-title: Comportamiento inesperado en el diseño del deslizador cuando se utilizan los accesorios infinite=true y navigationStep=1
+title: 'Comportamiento inesperado en el diseño del deslizador cuando se utilizan los accesorios infinite=true y navigationStep=1'
 id: 2uSG9sqj32yL3wHt0SUnOO
 status: PUBLISHED
 createdAt: 2022-02-01T19:49:07.658Z

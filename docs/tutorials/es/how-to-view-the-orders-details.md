@@ -1,5 +1,5 @@
 ---
-title: Visualizar detalles del pedido en Pedidos
+title: 'Visualizar detalles del pedido en Pedidos'
 id: tutorials_452
 status: PUBLISHED
 createdAt: 2017-04-27T22:04:24.036Z

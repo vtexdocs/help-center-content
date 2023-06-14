@@ -1,5 +1,5 @@
 ---
-title: As exportações de estoques individuais (inventários) não funcionam nas contas do Seller Portal
+title: 'As exportações de estoques individuais (inventários) não funcionam nas contas do Seller Portal'
 id: 7GoxwXFUWnebmCqF1sm7rm
 status: PUBLISHED
 createdAt: 2022-10-24T19:21:06.182Z

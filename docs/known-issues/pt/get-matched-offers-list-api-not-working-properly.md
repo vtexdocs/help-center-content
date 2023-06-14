@@ -1,5 +1,5 @@
 ---
-title: Obter a Lista de Ofertas Combinadas API não funciona corretamente
+title: 'Obter a Lista de Ofertas Combinadas API não funciona corretamente'
 id: 7mxrjTDYB8yLeKmQkB5D9h
 status: PUBLISHED
 createdAt: 2022-03-31T13:49:41.374Z

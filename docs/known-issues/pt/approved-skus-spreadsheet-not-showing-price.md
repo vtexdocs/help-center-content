@@ -1,5 +1,5 @@
 ---
-title: Folha de cálculo aprovada Skus que não mostra o preço
+title: 'Folha de cálculo aprovada Skus que não mostra o preço'
 id: 3nWwzGYX1Ys0rKkoSZZpdz
 status: PUBLISHED
 createdAt: 2022-03-29T19:22:12.977Z

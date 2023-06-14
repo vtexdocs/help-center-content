@@ -1,5 +1,5 @@
 ---
-title: El sistema no funciona con más de una afiliación de pago de extensión para el método de débito en línea
+title: 'El sistema no funciona con más de una afiliación de pago de extensión para el método de débito en línea'
 id: 3bXtVPHqsrSFpJk9ZfyP4v
 status: PUBLISHED
 createdAt: 2022-03-03T18:45:02.639Z

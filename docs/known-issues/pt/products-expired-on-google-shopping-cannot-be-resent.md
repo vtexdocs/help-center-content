@@ -1,5 +1,5 @@
 ---
-title: Produtos expirados no Google Shopping não podem ser reenviados
+title: 'Produtos expirados no Google Shopping não podem ser reenviados'
 id: 7nZszdQ8YEMg2q2MGqoQG
 status: PUBLISHED
 createdAt: 2018-06-11T16:20:09.949Z

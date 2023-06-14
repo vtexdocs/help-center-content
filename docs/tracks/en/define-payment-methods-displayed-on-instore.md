@@ -1,5 +1,5 @@
 ---
-title: Define payment methods displayed on VTEX Sales App
+title: 'Define payment methods displayed on VTEX Sales App'
 id: jHQQcyX3WKeUFidwSjmY1
 status: PUBLISHED
 createdAt: 2021-09-27T20:54:02.947Z

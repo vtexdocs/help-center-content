@@ -1,5 +1,5 @@
 ---
-title: Arredondamento de preço incorreto quando o multiplicador de unidade é diferente de 1
+title: 'Arredondamento de preço incorreto quando o multiplicador de unidade é diferente de 1'
 id: 1L5RNoTBkoJxq2c22KDTRU
 status: PUBLISHED
 createdAt: 2022-03-21T17:43:03.979Z

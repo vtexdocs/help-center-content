@@ -1,5 +1,5 @@
 ---
-title: [Ajustar a especificação de texto_de_sinscrição
+title: '[Ajustar a especificação de texto_de_sinscrição'
 id: 71sePdd6o3q9gvQ1I4JwZl
 status: PUBLISHED
 createdAt: 2023-02-14T19:15:17.763Z

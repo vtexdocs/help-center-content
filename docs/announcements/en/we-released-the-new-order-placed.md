@@ -1,5 +1,5 @@
 ---
-title: "We released the new Order Placed"
+title: 'We released the new Order Placed'
 id: 4tAmWn79M44eCqwgeyMM68
 status: PUBLISHED
 createdAt: 2017-10-26T17:24:24.087Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: authors_24
 slug: we-released-the-new-order-placed
 legacySlug: we-released-the-new-order-placed
-announcementImageID: ""
-announcementSynopsisEN: The new version of the order confirmation page is now available
+announcementImageID: ''
+announcementSynopsisEN: 'The new version of the order confirmation page is now available'
 ---
 
 Earlier this month we announced the release of one of the many new features that VTEX is developing to further enhance the user experience - the new My Orders section. Today we released another feature that integrates this section: the new version of the Order Placed page.

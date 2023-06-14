@@ -1,5 +1,5 @@
 ---
-title: How to identify the store and sales associate in an inStore order
+title: 'How to identify the store and sales associate in an inStore order'
 id: 4CXQ54PRqGKI2lOjFuJPQL
 status: DRAFT
 createdAt: 2020-11-07T00:10:46.437Z

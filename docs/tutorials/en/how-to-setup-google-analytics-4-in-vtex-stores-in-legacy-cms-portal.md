@@ -1,5 +1,5 @@
 ---
-title: How to setup Google Analytics 4 in VTEX stores in Legacy CMS Portal
+title: 'How to setup Google Analytics 4 in VTEX stores in Legacy CMS Portal'
 id: 1uGePrN9CGLdrmGAqP44Qq
 status: DRAFT
 createdAt: 2023-04-06T14:19:57.340Z

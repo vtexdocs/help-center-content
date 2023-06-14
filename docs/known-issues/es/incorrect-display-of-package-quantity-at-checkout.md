@@ -1,5 +1,5 @@
 ---
-title: Visualización incorrecta de la cantidad de paquetes en la caja
+title: 'Visualización incorrecta de la cantidad de paquetes en la caja'
 id: 1ZphoPLQZyHJpvPlXWb1oR
 status: PUBLISHED
 createdAt: 2022-07-11T12:58:18.388Z

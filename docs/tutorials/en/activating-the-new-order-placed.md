@@ -1,5 +1,5 @@
 ---
-title: Activating the new Order Placed
+title: 'Activating the new Order Placed'
 id: BJvTWQRqbmYKsAEKgy8kq
 status: DRAFT
 createdAt: 2017-05-23T12:29:37.804Z

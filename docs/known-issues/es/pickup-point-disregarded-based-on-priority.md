@@ -1,5 +1,5 @@
 ---
-title: Puntos de recogida descartados según la prioridad
+title: 'Puntos de recogida descartados según la prioridad'
 id: 3bbsm8TELPBa0DpFtnlAGz
 status: PUBLISHED
 createdAt: 2021-09-29T14:38:08.930Z
@@ -38,7 +38,7 @@ To simulate the described scenario, at least two shipping policies serving the s
 4. See which pickup point has been selected;
 5. Check which pickup points were disregarded and note the message displayed.
 
-![KIpontoderetirada ES](https://images.ctfassets.net/alneenqid6w5/6TLSPTSA7E5EG2sevnDYXf/3a5671abaf682e8a0a52e73e5db41896/KIpontoderetirada_ES.png)
+![KIpontoderetirada ES](//images.ctfassets.net/alneenqid6w5/6TLSPTSA7E5EG2sevnDYXf/3a5671abaf682e8a0a52e73e5db41896/KIpontoderetirada_ES.png)
 
 The pickup point was disregarded because there was another shipping method already named as **SCS Mall**.
 

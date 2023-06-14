@@ -1,5 +1,5 @@
 ---
-title: Produto indisponível mesmo com estoque na franquia
+title: 'Produto indisponível mesmo com estoque na franquia'
 id: 58KRJl4MFOaeb5KUYGmH8G
 status: PUBLISHED
 createdAt: 2022-01-25T12:17:33.680Z

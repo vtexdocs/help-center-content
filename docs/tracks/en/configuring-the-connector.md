@@ -1,5 +1,5 @@
 ---
-title: Configuring the connector
+title: 'Configuring the connector'
 id: wWyl0Njxgs5KfXvxYZJrl
 status: PUBLISHED
 createdAt: 2021-04-14T21:01:49.270Z

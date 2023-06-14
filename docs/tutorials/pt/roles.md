@@ -1,5 +1,5 @@
 ---
-title: Perfis de acesso
+title: 'Perfis de acesso'
 id: 7HKK5Uau2H6wxE1rH5oRbc
 status: PUBLISHED
 createdAt: 2020-04-08T15:21:05.110Z
@@ -34,7 +34,7 @@ Caso deseje criar perfis customizados, confira mais detalhes sobre os [Recursos 
 
 Os perfis de acesso podem ser gerenciados por meio do painel administrativo da sua conta VTEX. No menu lateral do [Admin](https://help.vtex.com/pt/subcategory/visao-do-geral-do-admin--Se4oi5LroIII2Ei0uGAoE), basta acessar **Configurações da conta > Gerenciamento da conta > Perfis de acesso**.
 
-![Lista perfis de acesso](https://images.ctfassets.net/alneenqid6w5/5SsjVcIztKJQ3yxY1udwOH/af2216756b2b71242cf49647ba5ec08d/image_0.png)
+![Lista perfis de acesso](//images.ctfassets.net/alneenqid6w5/5SsjVcIztKJQ3yxY1udwOH/af2216756b2b71242cf49647ba5ec08d/image_0.png)
 
 Essa tela apresenta uma lista com todos os **perfis de acesso** cadastrados para a conta. Em uma conta recém-criada, apenas o perfil *Owner (Admin Super)* estará listado. Este perfil dá ao usuário acesso irrestrito a todos os **recursos nativos** da plataforma.
 
@@ -52,13 +52,13 @@ A quantidade de usuários com o perfil *Owner (Admin Super) *deve ser a menor po
 
 Para os usuários que não devem ter acesso irrestrito à plataforma, é importante que se criem **perfis de acesso** que limitem os recursos disponíveis a apenas os estritamente necessários para aquele tipo de usuário. Isso é possível clicando em **Novo Perfil**.
 
-![Novo perfil de acesso](https://images.ctfassets.net/alneenqid6w5/1UGqU2dlXOZGUhGinBv8IN/893ea05f59d4dd44cdfbe7dccdf9d07f/image_1.png)
+![Novo perfil de acesso](//images.ctfassets.net/alneenqid6w5/1UGqU2dlXOZGUhGinBv8IN/893ea05f59d4dd44cdfbe7dccdf9d07f/image_1.png)
 
 Essa tela permite a criação de um novo perfil. Isso pode ser feito baseando-se em formatos já definidos, criados pela equipe VTEX para atender a cenários comuns nas operações, ou de forma customizada, selecionando-se a quais recursos de cada produto devem ter acesso todos aqueles que estiverem com esse perfil associado a seu usuário.
 
 Clicando em **Escolher perfil de acesso**, o menu *dropdown* apresenta uma lista de perfis predefinidos.  
 
-![Menu perfis predefinidos](https://images.ctfassets.net/alneenqid6w5/4XGZb5WvW216z8RfX5Vp3c/5c234cace3cb880eda0771407c4323fb/image_2.png)
+![Menu perfis predefinidos](//images.ctfassets.net/alneenqid6w5/4XGZb5WvW216z8RfX5Vp3c/5c234cace3cb880eda0771407c4323fb/image_2.png)
 
 Selecionar um dos perfis listados permite inspecionar quais são os recursos incluídos nesse perfil, separados por produto.
 
@@ -66,21 +66,21 @@ Selecionar um dos perfis listados permite inspecionar quais são os recursos inc
   Veja aqui todos os <a href="https://help.vtex.com/pt/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy">Perfis predefinidos</a> e as respectivas permissões associadas.
 </div>
 
-![Novo perfil de acesso](https://images.ctfassets.net/alneenqid6w5/5biL3DriciSnHKbgHvV2PE/1fe552a5c15c7c3dee8d54c88a60fafc/image_3.png)
+![Novo perfil de acesso](//images.ctfassets.net/alneenqid6w5/5biL3DriciSnHKbgHvV2PE/1fe552a5c15c7c3dee8d54c88a60fafc/image_3.png)
 
 O perfil **Call center operator**, por exemplo, contém um recurso do produto *Catálogo* que permite executar operações numa loja em nome de um cliente e um recurso do *OMS* que permite checar o status de um pedido.
 
 Para criar um perfil customizado, o administrador pode escolher a opção **Custom** do menu dropdown **Escolher perfil de acesso. **Ao clicar no menu dropdown em **Escolha um produto**, listam-se todos os recursos associados a cada produto.
 
-![Configurando produto](https://images.ctfassets.net/alneenqid6w5/1VE4awGJHyrsR2OkYwAzRQ/39bc16eca81b8a13946f081c5a1454d3/image_4.png)
+![Configurando produto](//images.ctfassets.net/alneenqid6w5/1VE4awGJHyrsR2OkYwAzRQ/39bc16eca81b8a13946f081c5a1454d3/image_4.png)
 
 É possível adicionar quantos produtos forem necessários ao perfil. Basta clicar no botão **Configurar outro produto**, ao final da lista de produtos e recursos.
 
-![Configurar outro produto](https://images.ctfassets.net/alneenqid6w5/Dsc2k29SxUDKB8t6VXScn/dea9f7fffd121036e088761fb3971e40/image_5.png)
+![Configurar outro produto](//images.ctfassets.net/alneenqid6w5/Dsc2k29SxUDKB8t6VXScn/dea9f7fffd121036e088761fb3971e40/image_5.png)
 
 Ao finalizar a configuração de produtos e recursos, o administrador pode escolher um nome para o perfil em **Nome do perfil**, caso se trate de uma configuração customizada.
 
-![Nome do perfil](https://images.ctfassets.net/alneenqid6w5/gTuv92HFXKn4jklYX0Hzj/6dfa6d1cd17483a854624dfd8b185296/image_6.png)
+![Nome do perfil](//images.ctfassets.net/alneenqid6w5/gTuv92HFXKn4jklYX0Hzj/6dfa6d1cd17483a854624dfd8b185296/image_6.png)
 
 <table>
   <tr>
@@ -92,13 +92,13 @@ Boas práticas de gerenciamento dos perfis de acesso aumentam a segurança de um
 
 Também é possível adicionar usuários ao perfil, customizado ou predefinido, preenchendo o email do usuário a ser inserido em **Adicionar usuários para este perfil de acesso**. Se o usuário não existir, será criado um novo usuário usando o email como nome também (nome e email serão iguais).
 
-![Usuários](https://images.ctfassets.net/alneenqid6w5/1lSnygEawddufMz9IZ45Mj/415e4adaf373fdd4ac3dddc0de9b5c1f/image_7.png)
+![Usuários](//images.ctfassets.net/alneenqid6w5/1lSnygEawddufMz9IZ45Mj/415e4adaf373fdd4ac3dddc0de9b5c1f/image_7.png)
 
 Terminada a configuração do perfil, deve-se salvar o novo perfil clicando no botão azul no rodapé da página.
 
-![Salvar perfil](https://images.ctfassets.net/alneenqid6w5/68NycUF3T52sg96R6HDIna/0a9d0c8cb67f1247da06fb8867a2b4f3/image_8.png)
+![Salvar perfil](//images.ctfassets.net/alneenqid6w5/68NycUF3T52sg96R6HDIna/0a9d0c8cb67f1247da06fb8867a2b4f3/image_8.png)
 
 Após criado, o novo perfil será listado junto aos demais perfis de acesso. Para vê-lo, acesse **Configurações da conta > Gerenciamento da conta > Perfis de acesso** no menu lateral do Admin.
 
-![image 9](https://images.ctfassets.net/alneenqid6w5/3uQ5SvsqjpFCSJimcg9naY/da7ee311ee12afbf6f432a583105360c/image_9.png)
+![image 9](//images.ctfassets.net/alneenqid6w5/3uQ5SvsqjpFCSJimcg9naY/da7ee311ee12afbf6f432a583105360c/image_9.png)
 

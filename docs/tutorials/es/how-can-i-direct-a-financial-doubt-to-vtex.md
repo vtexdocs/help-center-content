@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo direccionar duda financiera a VTEX?
+title: '¿Cómo direccionar duda financiera a VTEX?'
 id: 5h8wQ6AqIEKYcU2mASqGEU
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:46.689Z

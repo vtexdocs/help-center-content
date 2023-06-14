@@ -1,5 +1,5 @@
 ---
-title: Setting up Getnet acquirer with Egetnet connector 
+title: 'Setting up Getnet acquirer with Egetnet connector '
 id: 75kwGKPKnK8mwiEmQGYiWq
 status: PUBLISHED
 createdAt: 2018-04-27T13:55:54.133Z

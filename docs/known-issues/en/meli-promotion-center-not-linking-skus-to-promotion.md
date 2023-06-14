@@ -1,5 +1,5 @@
 ---
-title: MELI Promotion Center not linking SKUs to Promotion
+title: 'MELI Promotion Center not linking SKUs to Promotion'
 id: dF36o5p2oUa12uL06weeU
 status: PUBLISHED
 createdAt: 2023-05-03T12:21:32.990Z

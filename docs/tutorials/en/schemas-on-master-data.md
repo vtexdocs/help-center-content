@@ -1,5 +1,5 @@
 ---
-title: Schemas on Master Data
+title: 'Schemas on Master Data'
 id: 4c9waPvAak8cCe2EuKyWAe
 status: DRAFT
 createdAt: 2017-06-21T21:24:53.509Z

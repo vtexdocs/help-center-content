@@ -1,5 +1,5 @@
 ---
-title: Fallo en la actualización del inventario utilizando Broadcaster for Integrations para notificar al mercado externo
+title: 'Fallo en la actualización del inventario utilizando Broadcaster for Integrations para notificar al mercado externo'
 id: 25IVNGiJJYIl8Ppb3UuNqo
 status: PUBLISHED
 createdAt: 2022-03-24T19:30:24.948Z

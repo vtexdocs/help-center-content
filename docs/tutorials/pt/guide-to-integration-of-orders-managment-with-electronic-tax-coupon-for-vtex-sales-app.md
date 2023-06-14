@@ -1,5 +1,5 @@
 ---
-title: Cadastrar dados fiscais extras (NCM e ICMS) em um produto para o VTEX Sales App
+title: 'Cadastrar dados fiscais extras (NCM e ICMS) em um produto para o VTEX Sales App'
 id: 51xsyWzGiQ08KMO2EaaGAa
 status: PUBLISHED
 createdAt: 2017-08-14T23:24:39.793Z

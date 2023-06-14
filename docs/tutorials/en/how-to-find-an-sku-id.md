@@ -1,5 +1,5 @@
 ---
-title: How to find an SKU ID
+title: 'How to find an SKU ID'
 id: 4VQZsYeb3igGK2YowuEYWW
 status: PUBLISHED
 createdAt: 2018-02-07T13:04:01.334Z

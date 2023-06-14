@@ -1,5 +1,5 @@
 ---
-title: La cesta con artículos muestra el mensaje "cesta vacía" mientras la pantalla aún se está cargando.
+title: 'La cesta con artículos muestra el mensaje "cesta vacía" mientras la pantalla aún se está cargando.'
 id: 4oAiVz7fJL9vPkpPFEGyBT
 status: PUBLISHED
 createdAt: 2023-03-09T22:42:06.855Z

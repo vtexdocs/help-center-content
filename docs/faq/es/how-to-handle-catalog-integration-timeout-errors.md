@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo manejar los errores Timeout de integración de catálogo?
+title: '¿Cómo manejar los errores Timeout de integración de catálogo?'
 id: 41SucuGFjn1ndIN2iR1vvr
 status: DRAFT
 createdAt: 2019-03-20T21:50:15.029Z

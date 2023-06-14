@@ -1,5 +1,5 @@
 ---
-title: Seeing order details
+title: 'Seeing order details'
 id: 204AjAQseJe8RLUi8GAhiC
 status: PUBLISHED
 createdAt: 2019-11-14T15:12:10.952Z

@@ -1,5 +1,5 @@
 ---
-title: Las especificaciones de las categorías no se abren en el Admin al primer intento
+title: 'Las especificaciones de las categorías no se abren en el Admin al primer intento'
 id: 3201pbbSjB9rNzGP8HA6ow
 status: PUBLISHED
 createdAt: 2022-09-23T14:29:09.527Z

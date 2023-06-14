@@ -1,5 +1,5 @@
 ---
-title: Setting up the logistics for Mercado Livre
+title: 'Setting up the logistics for Mercado Livre'
 id: 4551ZlEQI8qmiSWieigoKy
 status: PUBLISHED
 createdAt: 2018-08-13T12:53:57.008Z

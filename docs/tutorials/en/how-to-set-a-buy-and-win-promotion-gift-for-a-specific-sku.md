@@ -1,5 +1,5 @@
 ---
-title: How to set a Buy One Get One promotion (gift) for a specific SKU
+title: 'How to set a Buy One Get One promotion (gift) for a specific SKU'
 id: 4QlFtwxAju6qOwaCi2YS0G
 status: CHANGED
 createdAt: 2017-08-22T15:24:13.195Z

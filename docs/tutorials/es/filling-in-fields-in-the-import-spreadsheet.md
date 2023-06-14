@@ -1,5 +1,5 @@
 ---
-title: Rellenar campos de la planilla de importación de productos y SKUs
+title: 'Rellenar campos de la planilla de importación de productos y SKUs'
 id: 4nYhx63Q5yokQWaMguaIgI
 status: PUBLISHED
 createdAt: 2018-02-06T20:09:19.608Z

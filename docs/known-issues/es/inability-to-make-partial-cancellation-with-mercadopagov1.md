@@ -1,5 +1,5 @@
 ---
-title: Imposibilidad de realizar una cancelación parcial con MercadoPagoV1
+title: 'Imposibilidad de realizar una cancelación parcial con MercadoPagoV1'
 id: 59aimeqhjGVOVkP9f6A9ls
 status: PUBLISHED
 createdAt: 2022-06-28T16:44:19.059Z

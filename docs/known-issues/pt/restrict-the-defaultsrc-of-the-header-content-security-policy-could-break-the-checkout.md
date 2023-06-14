@@ -1,5 +1,5 @@
 ---
-title: Restringir o padrão de segurança do cabeçalho A Política de Segurança de Conteúdo pode quebrar o Checkout
+title: 'Restringir o padrão de segurança do cabeçalho A Política de Segurança de Conteúdo pode quebrar o Checkout'
 id: 5fQXzMrLchSUENa53MXgf
 status: PUBLISHED
 createdAt: 2023-03-02T17:29:31.623Z

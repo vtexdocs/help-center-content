@@ -1,5 +1,5 @@
 ---
-title: "Código del vendedor: evolución en la personalización de inStore"
+title: 'Código del vendedor: evolución en la personalización de inStore'
 id: 4DsmWN3XTpdnTtNbiaxEs1
 status: PUBLISHED
 createdAt: 2021-02-04T11:40:06.468Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: codigo-del-vendedor-evolucion-en-la-personalizacion-de-instore
 legacySlug: codigo-del-vendedor-evolucion-en-la-personalizacion-de-instore
-announcementImageID: ""
-announcementSynopsisES: Ahora el cliente puede hacer que el código del vendedor sea una etapa obligatoria para la finalización de una venta. 
+announcementImageID: ''
+announcementSynopsisES: 'Ahora el cliente puede hacer que el código del vendedor sea una etapa obligatoria para la finalización de una venta. '
 ---
 
 inStore, la solución para tiendas físicas de VTEX, permite que los administradores de tiendas personalicen las mismas según las necesidades de su negocio. Estas modificaciones se realizan a través de campos que se pueden incorporar al flujo de compra. 

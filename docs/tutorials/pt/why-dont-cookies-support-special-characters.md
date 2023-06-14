@@ -1,5 +1,5 @@
 ---
-title: Por que os Cookies não suportam caracteres especiais
+title: 'Por que os Cookies não suportam caracteres especiais'
 id: 6hs7MQzTri6Yg2kQoSICoQ
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:50.126Z

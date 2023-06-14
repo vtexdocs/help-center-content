@@ -1,5 +1,5 @@
 ---
-title: "Ahora es posible exportar hasta 20 mil pedidos al mismo tiempo"
+title: 'Ahora es posible exportar hasta 20 mil pedidos al mismo tiempo'
 id: 4JFEKzngwOiSYRonJtRy58
 status: CHANGED
 createdAt: 2020-07-24T18:53:36.928Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: authors_24
 slug: ahora-es-posible-exportar-hasta-20-mil-pedidos-al-mismo-tiempo
 legacySlug: ahora-es-posible-exportar-hasta-20-mil-pedidos-al-mismo-tiempo
-announcementImageID: ""
-announcementSynopsisES: Aumentamos el límite de pedidos exportados por archivo de 7 mil a 20 mil. Y este límite pronto será de 50 mil.
+announcementImageID: ''
+announcementSynopsisES: 'Aumentamos el límite de pedidos exportados por archivo de 7 mil a 20 mil. Y este límite pronto será de 50 mil.'
 ---
 
 Constantemente recibimos solicitudes y feedbacks sobre la necesidad de exportar más pedidos que el número permitido hoy. Por lo tanto, nuestro límite de exportación de pedidos por report ahora será de __20 mil__. Anteriormente, este límite era de 7 mil pedidos por report.

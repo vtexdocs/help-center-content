@@ -1,5 +1,5 @@
 ---
-title: La categoría global de Amazon no funciona
+title: 'La categoría global de Amazon no funciona'
 id: 4xG37vNjH3XWVdb57w6zzV
 status: PUBLISHED
 createdAt: 2022-08-12T11:49:47.214Z

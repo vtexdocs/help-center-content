@@ -1,5 +1,5 @@
 ---
-title: Simultaneous sending of information generates data loss in the API
+title: 'Simultaneous sending of information generates data loss in the API'
 id: 432vwNufq6uolmYjTbClKw
 status: CHANGED
 createdAt: 2022-05-12T14:51:58.006Z

@@ -1,5 +1,5 @@
 ---
-title: Setting up Credomatic gateway
+title: 'Setting up Credomatic gateway'
 id: 5QJU4nPCAoO20O8OqqkyUG
 status: DRAFT
 createdAt: 2018-04-30T20:28:46.190Z

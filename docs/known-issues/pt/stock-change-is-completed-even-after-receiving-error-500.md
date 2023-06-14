@@ -1,5 +1,5 @@
 ---
-title: A mudança de estoque é concluída mesmo após o recebimento do erro 500
+title: 'A mudança de estoque é concluída mesmo após o recebimento do erro 500'
 id: 3dlP8iOBiL2tfPRvjm2kUZ
 status: PUBLISHED
 createdAt: 2022-06-20T12:40:08.834Z

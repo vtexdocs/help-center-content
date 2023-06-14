@@ -1,5 +1,5 @@
 ---
-title: "Agora você pode ajudar a fazer um Help ainda melhor"
+title: 'Agora você pode ajudar a fazer um Help ainda melhor'
 id: 5JNpQCJAreQQs8AiukyGOe
 status: PUBLISHED
 createdAt: 2018-03-22T14:38:59.413Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: agora-voce-pode-ajudar-a-fazer-um-help-ainda-melhor
 legacySlug: agora-voce-pode-ajudar-a-fazer-um-help-ainda-melhor
-announcementImageID: ""
-announcementSynopsisPT: Os artigos do Help agora contam com uma feature de feedback para você dar opinião sobre nosso conteúdo.
+announcementImageID: ''
+announcementSynopsisPT: 'Os artigos do Help agora contam com uma feature de feedback para você dar opinião sobre nosso conteúdo.'
 ---
 
 Contribua com o Help e ajude a criar conteúdo ainda melhor para todos. Com a nossa nova funcionalidade de feedback, você pode dizer se um artigo conseguiu responder as suas dúvidas ou se está faltando alguma informação. Tudo o que você precisa fazer é usar os botões no final de cada página.

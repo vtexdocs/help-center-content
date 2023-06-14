@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Multipago
+title: 'Configurar pagamento com Multipago'
 id: 6MbjEytBn06w2PT6cFNjIF
 status: DRAFT
 createdAt: 2022-08-10T17:19:57.643Z

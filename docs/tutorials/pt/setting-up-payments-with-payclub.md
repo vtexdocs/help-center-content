@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamentos com PayClub
+title: 'Configurar pagamentos com PayClub'
 id: 3C3bDia3Tyq48MOuMomcUW
 status: PUBLISHED
 createdAt: 2018-04-03T13:12:17.337Z

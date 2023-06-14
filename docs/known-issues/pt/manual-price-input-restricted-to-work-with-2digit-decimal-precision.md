@@ -1,5 +1,5 @@
 ---
-title: Entrada de preço manual restrita ao trabalho com precisão decimal de 2 dígitos
+title: 'Entrada de preço manual restrita ao trabalho com precisão decimal de 2 dígitos'
 id: 4HRKJU61TYSAMrElOWrbEh
 status: PUBLISHED
 createdAt: 2022-08-11T18:42:11.083Z

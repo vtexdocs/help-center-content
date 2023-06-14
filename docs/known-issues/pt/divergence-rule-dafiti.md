@@ -1,5 +1,5 @@
 ---
-title: Regra de divergência Dafiti
+title: 'Regra de divergência Dafiti'
 id: 6zVEr0022MiqlBqPNST169
 status: PUBLISHED
 createdAt: 2022-06-21T14:02:08.198Z

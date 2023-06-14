@@ -1,5 +1,5 @@
 ---
-title: Quantity selector component doesn't return to the limit value when user quickly clicks
+title: 'Quantity selector component doesn't return to the limit value when user quickly clicks'
 id: 4QRAzY1A0UD8hOUEkxAawz
 status: PUBLISHED
 createdAt: 2022-09-16T16:27:15.880Z

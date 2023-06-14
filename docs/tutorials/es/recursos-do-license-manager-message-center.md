@@ -1,5 +1,5 @@
 ---
-title: Recursos do License Manager - Message Center
+title: 'Recursos do License Manager - Message Center'
 id: 7uFCoKQW4tUMCn1Y0l6EUr
 status: DRAFT
 createdAt: 2022-02-16T19:48:48.096Z

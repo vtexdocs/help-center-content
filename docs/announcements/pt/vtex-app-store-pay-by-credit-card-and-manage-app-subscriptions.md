@@ -1,5 +1,5 @@
 ---
-title: "VTEX App Store: pague com cartão de crédito e gerencie assinaturas de apps"
+title: 'VTEX App Store: pague com cartão de crédito e gerencie assinaturas de apps'
 id: 4kLyFv05LXidyQHIdKcodr
 status: PUBLISHED
 createdAt: 2021-08-13T17:01:44.164Z
@@ -10,8 +10,8 @@ productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: vtex-app-store-pague-com-cartao-de-credito-e-gerencie-assinaturas-de-apps
 legacySlug: vtex-app-store-pague-com-cartao-de-credito-e-gerencie-assinaturas-de-apps
-announcementImageID: ""
-announcementSynopsisPT: Pague com cartão de crédito em compras de apps e também gerencie assinaturas de aplicativos no site da VTEX App Store. 
+announcementImageID: ''
+announcementSynopsisPT: 'Pague com cartão de crédito em compras de apps e também gerencie assinaturas de aplicativos no site da VTEX App Store. '
 ---
 
 Acessando a [VTEX App Store](https://apps.vtex.com/), clientes VTEX conseguem encontrar extensões e integrações com parceiros, instalando apps na sua loja com um clique. Estas aplicações podem ser gratuitas ou pagas.

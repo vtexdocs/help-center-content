@@ -1,5 +1,5 @@
 ---
-title: Inventory
+title: 'Inventory'
 id: 2XyUVa0UKMyHTmwqyA5Bx6
 status: PUBLISHED
 createdAt: 2022-03-08T12:49:39.763Z

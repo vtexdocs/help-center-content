@@ -1,5 +1,5 @@
 ---
-title: Configurar boleto registrado Itaú (Itaú Registrado)
+title: 'Configurar boleto registrado Itaú (Itaú Registrado)'
 id: 6MEHf1oDTOkuWM2CaYi4gu
 status: PUBLISHED
 createdAt: 2018-11-30T18:23:45.696Z

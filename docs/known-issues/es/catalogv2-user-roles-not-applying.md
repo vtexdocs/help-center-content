@@ -1,5 +1,5 @@
 ---
-title: Los roles de usuario de CatalogV2 no se aplican
+title: 'Los roles de usuario de CatalogV2 no se aplican'
 id: 3cDaOuqpAJyCL5JOMzD5nL
 status: PUBLISHED
 createdAt: 2022-02-25T12:18:17.776Z

@@ -1,5 +1,5 @@
 ---
-title: Cómo utilizar el control de título de página
+title: 'Cómo utilizar el control de título de página'
 id: 6bOB5ZtqesCKCEkYUUsIC8
 status: DRAFT
 createdAt: 2019-01-24T20:45:38.000Z

@@ -1,5 +1,5 @@
 ---
-title: cardholderDocument no se envía a antifraude.
+title: 'cardholderDocument no se envía a antifraude.'
 id: 4KiYd2Duw9Njxl96zuIOIX
 status: PUBLISHED
 createdAt: 2023-05-22T18:24:46.148Z

@@ -1,5 +1,5 @@
 ---
-title: AutoComplete Search not working with space
+title: 'AutoComplete Search not working with space'
 id: 1ZZGCHgsnJ512DAZv1iCy7
 status: PUBLISHED
 createdAt: 2022-04-28T16:03:43.077Z

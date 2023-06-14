@@ -1,5 +1,5 @@
 ---
-title: No es posible crear una promoción con fecha de finalización a partir del año 2100
+title: 'No es posible crear una promoción con fecha de finalización a partir del año 2100'
 id: hYQQFkOsEMqmg5DMzBAhM
 status: DRAFT
 createdAt: 2023-05-29T21:43:04.471Z

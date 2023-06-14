@@ -1,5 +1,5 @@
 ---
-title: Gestión de redirecciones de URL
+title: 'Gestión de redirecciones de URL'
 id: 3UJuFrU8imSVWg134mkvJV
 status: PUBLISHED
 createdAt: 2022-02-03T13:17:46.873Z
@@ -22,7 +22,7 @@ subcategory: 1znnjA17XqaUNdNFr42PW5
 4. En la casilla de selección, indica si la redirección es temporal o permanente. Si es temporal, debes definir la fecha de fin.
 5. Haz clic en `Guardar` para finalizar.
 
-![gerenciando redirecionamentos es 1](https://images.ctfassets.net/alneenqid6w5/6WZzZNgQPLtfwP1Z8fK7S9/ca2f417ea225d8d6875f37c31d0847a7/image5.png)
+![gerenciando redirecionamentos es 1](//images.ctfassets.net/alneenqid6w5/6WZzZNgQPLtfwP1Z8fK7S9/ca2f417ea225d8d6875f37c31d0847a7/image5.png)
 ## Importar redirección
 Para importar una redirección, sigue los pasos a continuación.
 

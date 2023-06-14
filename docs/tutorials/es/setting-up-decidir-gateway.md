@@ -1,5 +1,5 @@
 ---
-title: Configurar gateway Decidir
+title: 'Configurar gateway Decidir'
 id: 4QvUUoYubmQu2e8AQqu2es
 status: DRAFT
 createdAt: 2018-04-27T14:40:20.485Z

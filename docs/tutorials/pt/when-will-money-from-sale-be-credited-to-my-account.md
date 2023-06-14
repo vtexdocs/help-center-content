@@ -1,5 +1,5 @@
 ---
-title: Quando o dinheiro referente a uma venda entra na minha conta?
+title: 'Quando o dinheiro referente a uma venda entra na minha conta?'
 id: 7GNnDHohqi3Tj6qytgq4Ce
 status: DRAFT
 createdAt: 2020-06-16T00:26:36.127Z

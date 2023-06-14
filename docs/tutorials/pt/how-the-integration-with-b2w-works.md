@@ -1,5 +1,5 @@
 ---
-title: Como funciona a integração com a B2W
+title: 'Como funciona a integração com a B2W'
 id: 7tF0PBIC5OgCuKqWKAa8Ge
 status: DRAFT
 createdAt: 2017-08-17T19:04:27.137Z

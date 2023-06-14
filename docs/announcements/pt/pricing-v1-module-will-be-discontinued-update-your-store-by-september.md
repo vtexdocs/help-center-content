@@ -1,5 +1,5 @@
 ---
-title: "Módulo Pricing V1 será descontinuado: atualize sua loja até Setembro"
+title: 'Módulo Pricing V1 será descontinuado: atualize sua loja até Setembro'
 id: 46YxKNOCLH2Ykw6a9uyxXB
 status: PUBLISHED
 createdAt: 2020-08-14T18:18:05.440Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: deprecacao-pricing-v1
 legacySlug: deprecacao-pricing-v1
-announcementImageID: ""
-announcementSynopsisPT: Com a deprecação do Pricing V1, veja como migrar sua loja para a versão mais atualizada do módulo de Preços
+announcementImageID: ''
+announcementSynopsisPT: 'Com a deprecação do Pricing V1, veja como migrar sua loja para a versão mais atualizada do módulo de Preços'
 ---
 
 Com a deprecação do Pricing V1, veja o que você precisa fazer para migrar sua loja para a versão mais atualizada do módulo de Preços.
@@ -30,7 +30,7 @@ Para saber se a sua conta ainda está utilizando o Pricing V1, siga os passos ab
 
 Caso você visualize uma tela semelhante à tela abaixo, significa que sua conta precisa realizar a migração. 
 
-![Tela pricing antiga - PT](https://images.ctfassets.net/alneenqid6w5/7JRnTJEIa0Fh3noWBUEiUF/1c961c41028c24c19969c521ba1df552/Tela_pricing_antiga_-_PT.png)
+![Tela pricing antiga - PT](//images.ctfassets.net/alneenqid6w5/7JRnTJEIa0Fh3noWBUEiUF/1c961c41028c24c19969c521ba1df552/Tela_pricing_antiga_-_PT.png)
 
 Caso a sua conta VTEX ainda utiliza versões anteriores do Admin VTEX (como "vtexcommercestable", por exemplo), ela também precisará realizar a migração. Para isso, siga os passos a seguir:
 

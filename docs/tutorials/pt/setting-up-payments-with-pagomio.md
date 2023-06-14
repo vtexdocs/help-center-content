@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Pagomio
+title: 'Configurar pagamento com Pagomio'
 id: 3gTg5ubt05OX0I0PjGKa7O
 status: DRAFT
 createdAt: 2022-03-25T14:31:01.291Z

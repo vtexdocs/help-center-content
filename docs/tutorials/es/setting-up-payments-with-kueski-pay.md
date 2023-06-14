@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Kueski Pay
+title: 'Configurar pago con Kueski Pay'
 id: 3jDfBFi33tMC12Ifi8M6X7
 status: PUBLISHED
 createdAt: 2022-08-10T17:09:57.124Z

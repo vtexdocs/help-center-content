@@ -1,5 +1,5 @@
 ---
-title: Mi período de prueba ha terminado, ¿y ahora qué?
+title: 'Mi período de prueba ha terminado, ¿y ahora qué?'
 id: mZ2gwSAGMZefdDCo0hOqG
 status: PUBLISHED
 createdAt: 2022-08-29T21:04:42.133Z

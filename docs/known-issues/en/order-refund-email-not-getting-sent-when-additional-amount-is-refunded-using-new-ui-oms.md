@@ -1,5 +1,5 @@
 ---
-title: Order refund email not getting sent when additional amount is refunded using new UI (OMS).
+title: 'Order refund email not getting sent when additional amount is refunded using new UI (OMS).'
 id: 4nQanqQiHuAN6dT7iYYO26
 status: PUBLISHED
 createdAt: 2022-04-19T15:27:27.050Z

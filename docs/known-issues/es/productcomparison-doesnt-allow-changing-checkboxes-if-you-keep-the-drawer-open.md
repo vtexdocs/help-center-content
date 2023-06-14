@@ -1,5 +1,5 @@
 ---
-title: La comparación de productos no permite cambiar las casillas si se mantiene el cajón abierto
+title: 'La comparación de productos no permite cambiar las casillas si se mantiene el cajón abierto'
 id: 7A5r7KC6pLAtOhqHNucpcx
 status: PUBLISHED
 createdAt: 2022-04-28T15:02:26.200Z

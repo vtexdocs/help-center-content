@@ -1,5 +1,5 @@
 ---
-title: Outdated Mastercard Debit regex is causing us to misidentify some BINs
+title: 'Outdated Mastercard Debit regex is causing us to misidentify some BINs'
 id: 5gx4dSY2P5gGE0JI661hGL
 status: PUBLISHED
 createdAt: 2022-08-20T00:03:11.640Z

@@ -1,5 +1,5 @@
 ---
-title: La Búsqueda Explicada no tiene resultados cuando el idioma coincide con la configuración regional del administrador también configurada en la Búsqueda Inteligente.
+title: 'La Búsqueda Explicada no tiene resultados cuando el idioma coincide con la configuración regional del administrador también configurada en la Búsqueda Inteligente.'
 id: 1NHYVn0K3mlOTrtnoRevCw
 status: PUBLISHED
 createdAt: 2023-05-23T15:35:17.779Z

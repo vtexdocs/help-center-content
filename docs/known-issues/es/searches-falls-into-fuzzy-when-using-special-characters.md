@@ -1,5 +1,5 @@
 ---
-title: Las búsquedas caen en lo difuso cuando se utilizan caracteres especiales
+title: 'Las búsquedas caen en lo difuso cuando se utilizan caracteres especiales'
 id: 3qbzEcCkXpaPA0U23trlwT
 status: PUBLISHED
 createdAt: 2022-04-26T22:41:20.214Z

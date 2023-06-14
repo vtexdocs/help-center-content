@@ -1,5 +1,5 @@
 ---
-title: The installments request at the gateway to a merchant other than the marketplace is always done with salesChannel = 1
+title: 'The installments request at the gateway to a merchant other than the marketplace is always done with salesChannel = 1'
 id: Xo2YO6ZM9Jj0ONZjXrrrJ
 status: PUBLISHED
 createdAt: 2022-03-27T21:08:39.176Z

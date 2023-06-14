@@ -1,5 +1,5 @@
 ---
-title: A condição de pagamento em uma única parcela não aparece no checkout
+title: 'A condição de pagamento em uma única parcela não aparece no checkout'
 id: 3L7GJTRaWWA9Wjw2zkQqtS
 status: PUBLISHED
 createdAt: 2022-06-29T11:57:22.859Z

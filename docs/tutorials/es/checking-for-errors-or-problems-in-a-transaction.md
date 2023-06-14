@@ -1,5 +1,5 @@
 ---
-title: Comprobar errores o problemas en una transacción
+title: 'Comprobar errores o problemas en una transacción'
 id: 3QecZEdmzumGKe8WGmeI8a
 status: PUBLISHED
 createdAt: 2019-01-24T21:38:42.709Z

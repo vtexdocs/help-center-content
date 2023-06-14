@@ -1,5 +1,5 @@
 ---
-title: Bin sent does not match an associated Card brand
+title: 'Bin sent does not match an associated Card brand'
 id: 4GvoMVXIVOdFueGiNfcTvk
 status: PUBLISHED
 createdAt: 2022-03-26T14:46:51.930Z

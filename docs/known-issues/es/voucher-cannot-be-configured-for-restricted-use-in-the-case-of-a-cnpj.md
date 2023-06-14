@@ -1,5 +1,5 @@
 ---
-title: No se puede configurar vale para uso restricto en el caso de CNPJ [NIF de persona jurídica]
+title: 'No se puede configurar vale para uso restricto en el caso de CNPJ [NIF de persona jurídica]'
 id: 4k3FdaYP3WUqYsAeUSGY22
 status: PUBLISHED
 createdAt: 2017-04-11T21:26:42.491Z

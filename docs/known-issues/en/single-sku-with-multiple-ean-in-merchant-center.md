@@ -1,5 +1,5 @@
 ---
-title: Single sku with multiple EAN in Merchant Center
+title: 'Single sku with multiple EAN in Merchant Center'
 id: 2LYJWSDXKbnCQHsRRaGVYe
 status: PUBLISHED
 createdAt: 2022-02-08T19:50:42.386Z

@@ -1,5 +1,5 @@
 ---
-title: La promoción de envíos no genera puntos destacados / banderas
+title: 'La promoción de envíos no genera puntos destacados / banderas'
 id: wwCzhTue5cSNhKFLFX9lP
 status: PUBLISHED
 createdAt: 2022-04-25T14:00:46.027Z

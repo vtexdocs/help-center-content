@@ -1,5 +1,5 @@
 ---
-title: Delivery
+title: 'Delivery'
 id: 7D36LJhQ25Y1E1YQoGRSoG
 status: PUBLISHED
 createdAt: 2021-08-05T14:34:32.328Z
@@ -26,18 +26,18 @@ You can choose between:
 - Pick up in a store.
 - Customize by item.
 
-![entrega-2-en](https://images.ctfassets.net/alneenqid6w5/621Dlpel880kPOoL8Ur6id/6acc2ea35a43a1056fc26336baff9db6/entrega-2-en.png)
+![entrega-2-en](//images.ctfassets.net/alneenqid6w5/621Dlpel880kPOoL8Ur6id/6acc2ea35a43a1056fc26336baff9db6/entrega-2-en.png)
 
 ### Pickup points
 
 For pickup point options, the system selects the stores that have the SKUs in stock and shows the store closest to the customer's zip code, as a suggestion. If the sales associate wants to change the store where the customer will pick up the items, they just need to click the `Change pickup point` button.
 
-![entrega-retirada-en](https://images.ctfassets.net/alneenqid6w5/2lmJceEfryZV6OBtgGc3Tq/f842bfa6851d45177338b3241e7c350c/entrega-retirada-en.png)
+![entrega-retirada-en](//images.ctfassets.net/alneenqid6w5/2lmJceEfryZV6OBtgGc3Tq/f842bfa6851d45177338b3241e7c350c/entrega-retirada-en.png)
 
 When choosing to change the pickup point, the sales associate first has access to the pickup point suggested by the system. To see all available pickup points, click `View all pickup points`.
 
-![31. VTEX Sales App - Product Overview - 12](https://images.ctfassets.net/alneenqid6w5/1ZUGWgHe2jI2ROLpIZ1HnN/e6a59ee600f6ae05a2d3e2a27cc8501e/31._VTEX Sales App_-_Product_Overview_-_12.png)
+![31. VTEX Sales App - Product Overview - 12](//images.ctfassets.net/alneenqid6w5/1ZUGWgHe2jI2ROLpIZ1HnN/e6a59ee600f6ae05a2d3e2a27cc8501e/31._VTEX Sales App_-_Product_Overview_-_12.png)
 
 The app will then show the list of pick-up points ordered by the shortest distance from the customer's zip code. It's also possible to choose a pickup point on the map.
 
-![31. VTEX Sales App - Product Overview - 13](https://images.ctfassets.net/alneenqid6w5/uT46sKKgmyT4Lmh8usLO3/3aa559f183e4d5dda3254844aac2fd19/31._VTEX Sales App_-_Product_Overview_-_13.png)
+![31. VTEX Sales App - Product Overview - 13](//images.ctfassets.net/alneenqid6w5/uT46sKKgmyT4Lmh8usLO3/3aa559f183e4d5dda3254844aac2fd19/31._VTEX Sales App_-_Product_Overview_-_13.png)

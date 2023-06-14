@@ -1,5 +1,5 @@
 ---
-title: Configurar pagos con Koin
+title: 'Configurar pagos con Koin'
 id: 415vLlrVSUgeYYwycCaGiQ
 status: PUBLISHED
 createdAt: 2018-04-24T19:48:39.401Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar o antifraude
+title: 'Configurar o antifraude'
 id: tutorials_446
 status: PUBLISHED
 createdAt: 2017-04-27T22:05:02.912Z

@@ -1,5 +1,5 @@
 ---
-title: Las opciones de entrega programadas no se actualizan al cambiar de dirección o de vendedor
+title: 'Las opciones de entrega programadas no se actualizan al cambiar de dirección o de vendedor'
 id: z1sjFNyZVUJAR7G95itfT
 status: PUBLISHED
 createdAt: 2023-06-12T12:07:06.920Z

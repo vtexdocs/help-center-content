@@ -1,5 +1,5 @@
 ---
-title: [Revista Luiza] Pedido con error "Referencia de objeto no establecida a una instancia de un objeto"
+title: '[Revista Luiza] Pedido con error "Referencia de objeto no establecida a una instancia de un objeto"'
 id: 72w2GWNOlosoOHhs1ip4dl
 status: PUBLISHED
 createdAt: 2023-03-23T20:11:55.897Z

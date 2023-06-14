@@ -1,5 +1,5 @@
 ---
-title: Redirection from other addresses
+title: 'Redirection from other addresses'
 id: 3Xi2AeLUx2QpJQu8DTX8KQ
 status: PUBLISHED
 createdAt: 2022-09-19T21:21:24.455Z

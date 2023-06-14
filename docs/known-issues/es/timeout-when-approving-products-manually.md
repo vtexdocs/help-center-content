@@ -1,5 +1,5 @@
 ---
-title: Timeout en la aprobación manual de productos
+title: 'Timeout en la aprobación manual de productos'
 id: 7JfgNTNNPiKnpuSZZcRvx9
 status: PUBLISHED
 createdAt: 2021-08-31T18:29:22.514Z

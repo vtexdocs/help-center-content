@@ -1,5 +1,5 @@
 ---
-title: Misbehaviors for addToCart mutation from checkout-graphql while sending "options" for already added items
+title: 'Misbehaviors for addToCart mutation from checkout-graphql while sending "options" for already added items'
 id: 1lMWbgmBsOis9gAKcMm8ob
 status: PUBLISHED
 createdAt: 2022-05-03T20:42:18.655Z

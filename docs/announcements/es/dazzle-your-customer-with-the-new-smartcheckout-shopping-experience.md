@@ -1,5 +1,5 @@
 ---
-title: "Encante a su cliente con la nueva experiencia de compra del SmartCheckout"
+title: 'Encante a su cliente con la nueva experiencia de compra del SmartCheckout'
 id: 47B91RA1WNhUfTNg5iGU0J
 status: PUBLISHED
 createdAt: 2019-05-21T22:16:15.673Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: authors_59
 slug: encante-a-su-cliente-con-la-nueva-experiencia-de-compra-del-smartcheckout
 legacySlug: encante-a-su-cliente-con-la-nueva-experiencia-de-compra-del-smartcheckout
-announcementImageID: ""
-announcementSynopsisES: Sepa más acerca de las nuevas funcionalidads de Checkout v6
+announcementImageID: ''
+announcementSynopsisES: 'Sepa más acerca de las nuevas funcionalidads de Checkout v6'
 ---
 
 El **checkout** es un paso decisivo en la jornada de compra de su cliente. Es la última etapa de la experiencia de compra. En esta fase, el cliente define si va a comprar su producto o no. Por eso, es necesario que la experiencia de cierre de una compra sea la más **agradable y eficiente** posible.

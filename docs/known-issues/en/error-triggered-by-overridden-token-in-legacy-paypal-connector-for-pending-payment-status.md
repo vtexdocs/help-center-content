@@ -1,5 +1,5 @@
 ---
-title: Error triggered by overridden TOKEN in legacy PayPal connector for pending payment status
+title: 'Error triggered by overridden TOKEN in legacy PayPal connector for pending payment status'
 id: 5GrnhD8fwte7qu50Az8r3Y
 status: PUBLISHED
 createdAt: 2023-06-13T22:35:16.397Z

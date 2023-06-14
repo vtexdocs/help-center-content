@@ -1,5 +1,5 @@
 ---
-title: Estado divergente en la lista de transacciones y en la transacción
+title: 'Estado divergente en la lista de transacciones y en la transacción'
 id: 1LD32IQJFbvlOJzD12KL64
 status: PUBLISHED
 createdAt: 2022-03-03T18:41:10.292Z

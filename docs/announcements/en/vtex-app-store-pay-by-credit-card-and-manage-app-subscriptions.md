@@ -1,5 +1,5 @@
 ---
-title: "VTEX App Store: pay by credit card and manage app subscriptions"
+title: 'VTEX App Store: pay by credit card and manage app subscriptions'
 id: 4kLyFv05LXidyQHIdKcodr
 status: PUBLISHED
 createdAt: 2021-08-13T17:01:44.164Z
@@ -10,8 +10,8 @@ productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: vtex-app-store-pay-by-credit-card-and-manage-app-subscriptions
 legacySlug: vtex-app-store-pay-by-credit-card-and-manage-app-subscriptions
-announcementImageID: ""
-announcementSynopsisEN: Pay for app purchases by credit card and manage app subscriptions on the VTEX App Store website. 
+announcementImageID: ''
+announcementSynopsisEN: 'Pay for app purchases by credit card and manage app subscriptions on the VTEX App Store website. '
 ---
 
 

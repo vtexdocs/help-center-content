@@ -1,5 +1,5 @@
 ---
-title: Skus recibidos: La función de exportación no funciona para los administradores en otros idiomas (sólo PT, EN, ES)
+title: 'Skus recibidos: La función de exportación no funciona para los administradores en otros idiomas (sólo PT, EN, ES)'
 id: 2fV4YP1dpdQRBYqT9S7Lzi
 status: PUBLISHED
 createdAt: 2022-09-29T14:23:38.774Z

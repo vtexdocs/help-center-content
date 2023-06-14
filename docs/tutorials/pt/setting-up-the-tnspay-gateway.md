@@ -1,5 +1,5 @@
 ---
-title: Configurar o gateway TNSPay
+title: 'Configurar o gateway TNSPay'
 id: 6jIUr6Va00QyEuMEGAmQA6
 status: PUBLISHED
 createdAt: 2018-03-02T12:43:42.795Z

@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with OneBuy
+title: 'Setting up payments with OneBuy'
 id: 1fgHy2pgQGQgCiEGYi0m2M
 status: PUBLISHED
 createdAt: 2018-04-12T13:08:01.424Z

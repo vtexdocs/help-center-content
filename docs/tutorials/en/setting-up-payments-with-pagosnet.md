@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with PagosNet
+title: 'Setting up payments with PagosNet'
 id: 76VFecWVzOS6CmaGSyM8aQ
 status: DRAFT
 createdAt: 2018-04-05T22:07:46.869Z

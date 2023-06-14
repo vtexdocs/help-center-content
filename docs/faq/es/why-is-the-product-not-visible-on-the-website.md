@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué el producto no aparece en el sitio web?
+title: '¿Por qué el producto no aparece en el sitio web?'
 id: frequentlyAskedQuestions_382
 status: PUBLISHED
 createdAt: 2017-04-27T22:36:11.456Z
@@ -41,7 +41,7 @@ Te recomendamos que empieces tu búsqueda de errores por el **Catálogo**. Para 
 1. Accede al Admin VTEX y navega hasta **Productos > Catálogo > Gestión de productos y SKU** para verificar los productos registrados en tu tienda.
 2. Busca el producto que deseas mostrar en la lista, tal como se ilustra en la imagen a continuación.
 
-    ![01-produto-es](https://images.ctfassets.net/alneenqid6w5/75SkVRup4MW0URypUVayEh/b7bf043742b03bd0ea130f8541a8fbad/01-produto-es.PNG)
+    ![01-produto-es](//images.ctfassets.net/alneenqid6w5/75SkVRup4MW0URypUVayEh/b7bf043742b03bd0ea130f8541a8fbad/01-produto-es.PNG)
 
 3. Sigue las instrucciones descriptas en las próximas secciones para verificar la información a continuación:
     * [Producto](#producto)
@@ -70,9 +70,9 @@ Para verificar la configuración del producto, es importante que sigas los pasos
     * En caso de que el producto tenga especificaciones, navega hasta la pestaña **Especificaciones** y verifica que se hayan rellenado los campos correspondientes.
 3. Luego de cualquier modificación, haz clic en `Guardar`.
 
-<img class="db center mv9 shadow-4 pointer" src="https:https://images.ctfassets.net/alneenqid6w5/nGAGYNdVtTFdAPjW1mi5f/ad8fd616f6245872af18ad98d1c9f4a6/02-campos-produto-es.png" alt="02-campos-produto-pt" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Campos que se deben verificar en la página de información del producto</em></figcaption></figure>
+<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/nGAGYNdVtTFdAPjW1mi5f/ad8fd616f6245872af18ad98d1c9f4a6/02-campos-produto-es.png" alt="02-campos-produto-pt" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Campos que se deben verificar en la página de información del producto</em></figcaption></figure>
 
-<img class="db center mv9 shadow-4 pointer" src="https:https://images.ctfassets.net/alneenqid6w5/6UXDapFf9bvtnCSoHQBwZC/1933479b0f82ec9229bdf1687859a714/03-aba-especificacoes-es.png" alt="03-aba-especificacoes-pt" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Pestaña <strong>Especificaciones</strong></em></figcaption></figure>
+<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/6UXDapFf9bvtnCSoHQBwZC/1933479b0f82ec9229bdf1687859a714/03-aba-especificacoes-es.png" alt="03-aba-especificacoes-pt" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Pestaña <strong>Especificaciones</strong></em></figcaption></figure>
 
 ### SKU
 
@@ -84,16 +84,16 @@ En la página de SKU, en **Productos > Catálogo > Gestión de productos y SKU**
 
     | Botón | Descripción |
     |-|-|
-    | ![04-botao-precos](https://images.ctfassets.net/alneenqid6w5/7f0NyYsrdO9dRgW2OQb0ND/1343af5f40a6f0a64cdd8378385977c0/04-botao-precos.png) | Permite acceder a la __Lista de precios__ para verificar si existe un precio válido para la política comercial deseada que esté asociado a los SKU del producto. Consulta la sección de [Precios](#precios) para más información. |
-    | ![05-botao-logistica](https://images.ctfassets.net/alneenqid6w5/4Y2GdsvjxHYkVSBfElhVr9/17742a7ce2632fa9d800d942bb016283/05-botao-logistica.png) | Permite acceder a la página __Gestión del stock__ para verificar si el SKU tiene stock disponible. Consulta la sección de [Logística](#logistica) para más información. |
-    | ![06-botao-indexed-info](https://images.ctfassets.net/alneenqid6w5/5G3dZgdVZDiPqADnodmHc7/e31e69a2333d82a74ca980303e93b690/06-botao-indexed-info.png) | Permite ver a cada **_seller_** que comercializa el SKU, la política comercial (**Policy**), el precio (**Value**) y la cantidad de SKU en stock (**Quantity**). |
+    | ![04-botao-precos](//images.ctfassets.net/alneenqid6w5/7f0NyYsrdO9dRgW2OQb0ND/1343af5f40a6f0a64cdd8378385977c0/04-botao-precos.png) | Permite acceder a la __Lista de precios__ para verificar si existe un precio válido para la política comercial deseada que esté asociado a los SKU del producto. Consulta la sección de [Precios](#precios) para más información. |
+    | ![05-botao-logistica](//images.ctfassets.net/alneenqid6w5/4Y2GdsvjxHYkVSBfElhVr9/17742a7ce2632fa9d800d942bb016283/05-botao-logistica.png) | Permite acceder a la página __Gestión del stock__ para verificar si el SKU tiene stock disponible. Consulta la sección de [Logística](#logistica) para más información. |
+    | ![06-botao-indexed-info](//images.ctfassets.net/alneenqid6w5/5G3dZgdVZDiPqADnodmHc7/e31e69a2333d82a74ca980303e93b690/06-botao-indexed-info.png) | Permite ver a cada **_seller_** que comercializa el SKU, la política comercial (**Policy**), el precio (**Value**) y la cantidad de SKU en stock (**Quantity**). |
 
 2. En la línea del producto correspondiente al SKU que se verificará, haz clic en la flecha hacia abajo <i class="fas fa-caret-down"></i>, al lado del botón `Modificar`.
 3. Haz clic en la opción** SKU** para acceder a la lista detallada de los SKU.
 4. En la columna **Status**, verifica que el status indicado sea `Activo`. Si los SKU están activos, continúa con el paso 7.
 5. Si algún SKU está con el status `Inactivo`, haz clic en `Modificar` para ver la información detallada del SKU.
 
-    ![07-catalogo-skus-es](https://images.ctfassets.net/alneenqid6w5/6hs2pWjN8Mze7A274XRAm3/720d48a725fe4740f78466149846d29a/07-catalogo-skus-es.png)
+    ![07-catalogo-skus-es](//images.ctfassets.net/alneenqid6w5/6hs2pWjN8Mze7A274XRAm3/720d48a725fe4740f78466149846d29a/07-catalogo-skus-es.png)
 
 6. En la página de información del SKU, el próximo paso es verificar los ítems que se enumeran a continuación.
     * **Activar SKU si es posible:** verifica si esta opción está seleccionada. De lo contrario, el SKU no se mostrará. Activar esta opción significa determinar que el SKU se activará si cumple con los requisitos necesarios:
@@ -106,9 +106,9 @@ En la página de SKU, en **Productos > Catálogo > Gestión de productos y SKU**
 8. Verifica si el SKU incluye al menos una imagen. Si no la tiene, el SKU no se activará. Realiza el paso a continuación para corregir este problema.
 9. Haz clic en `Insertar` para subir una imagen nueva. Si lo prefieres, haz clic en `Asociar a las imágenes existentes` para incluir una imagen que ya se utilice en otro SKU.
 
-<img class="db center mv9 shadow-4 pointer" src="https:https://images.ctfassets.net/alneenqid6w5/3StXGBCMW8ZExshcEhfF9m/1be699da86b880750f7884f9aabaa8a3/08-aba-imagens-es.png" alt="08-aba-imagens-pt" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Pestaña  <strong>Imágenes</strong></em></figcaption></figure>
+<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/3StXGBCMW8ZExshcEhfF9m/1be699da86b880750f7884f9aabaa8a3/08-aba-imagens-es.png" alt="08-aba-imagens-pt" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Pestaña  <strong>Imágenes</strong></em></figcaption></figure>
 
-![09-sku-imagens-es](https://images.ctfassets.net/alneenqid6w5/1JJflflW0ACgVn05sRv29x/06bad0f8081c24488cee7ec6d0853853/09-sku-imagens-es.PNG)
+![09-sku-imagens-es](//images.ctfassets.net/alneenqid6w5/1JJflflW0ACgVn05sRv29x/06bad0f8081c24488cee7ec6d0853853/09-sku-imagens-es.PNG)
 
 ### Información indexada
 
@@ -122,13 +122,13 @@ El registro de indexación muestra el status de cada SKU del producto. Si hay al
 
 En el ejemplo a continuación, podemos llegar a la conclusión de que el SKU no está disponible por falta de ítems en el stock:
 
-![10-indexed-info-code](https://images.ctfassets.net/alneenqid6w5/3J8ZK4CikAYOwYh8GAzbWa/eade8a30097193dabb38a1085d28defa/Group_1__7_.png)
+![10-indexed-info-code](//images.ctfassets.net/alneenqid6w5/3J8ZK4CikAYOwYh8GAzbWa/eade8a30097193dabb38a1085d28defa/Group_1__7_.png)
 
 A partir de esto, es posible tomar medidas para corregir el problema. En el caso del ejemplo, sería necesario ajustar el número de ítems en el stock del sistema de [Logística](#logistica).
 
 Un SKU activo y sin errores tendrá el registro en el indexador parecido al que se muestra a continuación:
 
-![11-indexed-info-code-active](https://images.ctfassets.net/alneenqid6w5/3Sd3Ta5gzKo0LY9dMHmCqp/059ed660c68d5e05fbe5f2ac0c571326/11-indexed-info-code-active.png)
+![11-indexed-info-code-active](//images.ctfassets.net/alneenqid6w5/3Sd3Ta5gzKo0LY9dMHmCqp/059ed660c68d5e05fbe5f2ac0c571326/11-indexed-info-code-active.png)
 
 <div class="alert alert-info">
 <p>Si la información de la indexación no muestra ningún motivo para la falta de disponibilidad de los productos, y si no encontraste ningún error en el registro de los productos y SKU, probablemente lo que resuelva el problema sea volver a indexar el producto.</p>
@@ -146,7 +146,7 @@ En el módulo de **Precios**, es importante verificar que los SKU del producto t
 
 En el ejemplo a continuación, hay dos SKU sin precio base registrado. Es por esto que no hay un precio ingresado en la columna de la política comercial. Solo aparece la información _Precio no registrado_.
 
-![12-precos-es](https://images.ctfassets.net/alneenqid6w5/3XrEvLWMmU3LlsxF75v9NN/35266b55e248d148f419219696f5b661/12-precos-es.PNG)
+![12-precos-es](//images.ctfassets.net/alneenqid6w5/3XrEvLWMmU3LlsxF75v9NN/35266b55e248d148f419219696f5b661/12-precos-es.PNG)
 
 ### Crear precio base
 
@@ -174,7 +174,7 @@ El **Simulador de envío** sirve para verificar si el ítem está en stock y si 
 2. Completa la información necesaria que se describe en el [Simulador de envío](https://help.vtex.com/es/tutorial/simulador-de-envio--tutorials_144).
 3. Haz clic en `Simulación de envío`.
 
-![13-simular-frete-es](https://images.ctfassets.net/alneenqid6w5/rJE0n5ZijrAerIWzzf2Gy/9d99f84da1c2fa38d8457f1668eb4a5f/13-simular-frete-es.PNG)
+![13-simular-frete-es](//images.ctfassets.net/alneenqid6w5/rJE0n5ZijrAerIWzzf2Gy/9d99f84da1c2fa38d8457f1668eb4a5f/13-simular-frete-es.PNG)
 
 <div class="alert alert-info">
 <p>Para revisar un ítem específico, debes realizar la simulación con un <strong>código postal</strong> que cubra todas las <a href="https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140">políticas de envío</a> registradas. Así sabrás que si un ítem no está disponible para ese CP, tampoco lo estará para algún otro.</p>
@@ -182,7 +182,7 @@ El **Simulador de envío** sirve para verificar si el ítem está en stock y si 
 
 El resultado obtenido indica si el producto está disponible o no para ser entregado en la dirección informada y cuáles son las mejores opciones de envío. Ejemplo: si no hay ítems suficientes disponibles en stock, el simulador mostrará el siguiente mensaje:
 
-![14-simulador-motivos-es](https://images.ctfassets.net/alneenqid6w5/4oVBH9r7Vs3jDWZF2MUqdO/2edfa46661ba21558a2d9ee2c5507a67/14-simulador-motivos-es.PNG)
+![14-simulador-motivos-es](//images.ctfassets.net/alneenqid6w5/4oVBH9r7Vs3jDWZF2MUqdO/2edfa46661ba21558a2d9ee2c5507a67/14-simulador-motivos-es.PNG)
 
 Para más información sobre cómo usar el simulador, consulta el tutorial [Simulador de envío](https://help.vtex.com/es/tutorial/simulador-de-envio--tutorials_144).
 
@@ -203,7 +203,7 @@ Si un producto no está disponible en el sitio web por falta de _ítems_ en el _
 3. Para actualizar el recuento de stock, escribe la cantidad actual en la columna **Actualizar recuento** en la línea del SKU deseado, según la imagen a continuación.
 4. Haz clic en `Guardar`.
 
-![15-gerenciar-inventario-es](https://images.ctfassets.net/alneenqid6w5/7gcnOqUFhzOrvf0EPJTTeM/f8fcc9989836959c1c300c332bffb91e/15-gerenciar-inventario-es.gif)
+![15-gerenciar-inventario-es](//images.ctfassets.net/alneenqid6w5/7gcnOqUFhzOrvf0EPJTTeM/f8fcc9989836959c1c300c332bffb91e/15-gerenciar-inventario-es.gif)
 
 Para más información, consulta el tutorial [Gestión del stock](https://help.vtex.com/es/tutorial/gestionar-items-en-inventario--tutorials_139).
 
@@ -248,7 +248,7 @@ Sigue los pasos a continuación para verificar la plantilla que está usando tu 
 
     En el ejemplo a continuación, la plantilla estándar que se usó es `vtex.curbside-pickup@0.x:store.curbside-pickup` y no hay una plantilla condicional.
 
-    ![16-templates-cms-es](https://images.ctfassets.net/alneenqid6w5/5EMFVK2j0O7l6im1ZJIQQI/c23d4524c1339d0f952613f13c4c3cac/16-templates-cms-es.PNG)
+    ![16-templates-cms-es](//images.ctfassets.net/alneenqid6w5/5EMFVK2j0O7l6im1ZJIQQI/c23d4524c1339d0f952613f13c4c3cac/16-templates-cms-es.PNG)
 
 4. Luego, debes configurar los bloques incluidos en la plantilla utilizada, tal como se indica en [Templates](#templates).
 

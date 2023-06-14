@@ -1,5 +1,5 @@
 ---
-title: Errores de integración de stock con Carrefour
+title: 'Errores de integración de stock con Carrefour'
 id: 4oDrYCkrIvWETCW34I2CKF
 status: PUBLISHED
 createdAt: 2021-10-25T22:15:47.447Z

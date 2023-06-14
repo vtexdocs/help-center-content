@@ -1,5 +1,5 @@
 ---
-title: Payment Provider Protocol 
+title: 'Payment Provider Protocol '
 id: RdsT2spdq80MMwwOeEq0m
 status: PUBLISHED
 createdAt: 2018-01-02T15:40:00.920Z
@@ -93,7 +93,7 @@ Hay casos en que se pueden crear conectores para atender alguna solución espec�
 ### 3. Homologación de Payment Provider
 Después de recibir los datos de acceso e implementar el back-end, el proveedor debe instalar la aplicación Payment Provider Test Suite para acceder a la herramienta de pruebas. La instalación se hace en [VTEX App Store](https://apps.vtex.com/vtex-payment-provider-test-suite/p "VTEX App Store.").
 
-![print1](https://images.ctfassets.net/alneenqid6w5/2sZn44SfDSGcUkgouQ2iyu/d9d72ca9a6fa585f959fa932412930d7/print1.png)
+![print1](//images.ctfassets.net/alneenqid6w5/2sZn44SfDSGcUkgouQ2iyu/d9d72ca9a6fa585f959fa932412930d7/print1.png)
 
 <div class="alert alert-warning">
 Toda comunicación con los servidores, tanto durante el proceso de homologación como en producción, debe ocurrir vía HTTPS que por defecto usa el puerto 443. Es importante recordar que toda la comunicación HTTPS debe ser exclusivamente sobre <strong>TLS 1.2</strong>.
@@ -115,7 +115,7 @@ Rellene los campos de cada uno de acuerdo con las siguientes indicaciones:
   Su proveedor debe esperar los headers: <strong>X-VTEX-API-AppKey</strong> y <strong>X-VTEX-API-AppToken</strong>. Estas combinaciones son las credenciales que identifican al administrador de la tienda. El gateway almacena las credenciales de los administradores de las tiendas y otros parámetros que se usan en la configuración de la afiliación, los cuales se enviarán al proveedor en las transacciones.
 </div>
 
-![Payment Provider Test Suite 0](https://images.ctfassets.net/alneenqid6w5/3V1eMOFEQ8Mg4ygC46G4AY/15d41dae35aaa91f3dd9b55e1bdcee1f/Payment_Provider_Test_Suite_0.jpg)
+![Payment Provider Test Suite 0](//images.ctfassets.net/alneenqid6w5/3V1eMOFEQ8Mg4ygC46G4AY/15d41dae35aaa91f3dd9b55e1bdcee1f/Payment_Provider_Test_Suite_0.jpg)
 
 #### Tests
 
@@ -127,7 +127,7 @@ Tras la llamada, se identificarán los endpoints de las operaciones disponibles 
 
 Puedes seleccionar qué pruebas realizar, pero  para que nuestro equipo apruebe el análisis de la integración, __se deben realizar todas las pruebas habilitadas automáticamente__. Por lo tanto, recomendamos que se mantengan seleccionadas todas las pruebas.
 
-![Payment Provider Test Suite 1](https://images.ctfassets.net/alneenqid6w5/5LROAprSeFd1O64M2WCisC/af4e2408feb2d1e5dfb9b9bac7067f6d/Payment_Provider_Test_Suite_1.jpg)
+![Payment Provider Test Suite 1](//images.ctfassets.net/alneenqid6w5/5LROAprSeFd1O64M2WCisC/af4e2408feb2d1e5dfb9b9bac7067f6d/Payment_Provider_Test_Suite_1.jpg)
 
 ### 4. Pruebas
 Al hacer clic en el botón __RUN TESTS__, el proveedor de pagos aplicará las pruebas en su integración para los diferentes escenarios posibles. Es importante recordar que, para ejecutarlas, su servicio debe estar en HTTPS. Las pruebas son:
@@ -161,13 +161,13 @@ Para cada prueba con tarjetas de crédito, enviamos un número específico para 
 ### 5. Resultados
 Después de ejecutar las pruebas, el sistema devuelve los resultados, tanto positivos como negativos. El sistema también trae la información de los resultados esperados para cada prueba. Así, usted tiene más visibilidad de lo que debe ser ajustado en caso de error.
 
-![Payment Provider Test Suite 2](https://images.ctfassets.net/alneenqid6w5/6o9b9Wz3tSKiU6mwEssEgs/38e5f5d1391d10ca831eba5682c5544b/Payment_Provider_Test_Suite_2.jpg)
+![Payment Provider Test Suite 2](//images.ctfassets.net/alneenqid6w5/6o9b9Wz3tSKiU6mwEssEgs/38e5f5d1391d10ca831eba5682c5544b/Payment_Provider_Test_Suite_2.jpg)
 
 Para visualizar de forma detallada cada acción realizada por la integración (y, así, identificar posibles errores), basta con hacer clic en el botón __TRY LOADING AGAIN?__. Una lista con la información completa de los eventos que ocurrieron durante la prueba se mostrará por debajo de los resultados.
 
-![Payment Provider Test Suite Logs](https://images.ctfassets.net/alneenqid6w5/3FCFc1FA7L6ILyXB8NSmA3/12a0a237d1c8725b8eeb9bb61eb48fbc/Payment_Provider_Test_Suite_Logs.jpg)
+![Payment Provider Test Suite Logs](//images.ctfassets.net/alneenqid6w5/3FCFc1FA7L6ILyXB8NSmA3/12a0a237d1c8725b8eeb9bb61eb48fbc/Payment_Provider_Test_Suite_Logs.jpg)
 
-![Payment Provider Test Suite 3](https://images.ctfassets.net/alneenqid6w5/7svc9sEJaMiwsYK0ykU0SS/590453ef17cda1dab3b1bb4342f1d9d1/Payment_Provider_Test_Suite_3.jpg)
+![Payment Provider Test Suite 3](//images.ctfassets.net/alneenqid6w5/7svc9sEJaMiwsYK0ykU0SS/590453ef17cda1dab3b1bb4342f1d9d1/Payment_Provider_Test_Suite_3.jpg)
 
 Cuando su integración ha pasado todas las pruebas con éxito, sólo tiene que abrir un ticket en el [help de VTEX](/es/support "VTEX Help") informando la conclusión. Sin embargo, antes de abrir el ticket, asegúrese de tener la siguiente información:
 
@@ -189,7 +189,7 @@ Aquí vamos a explicar el flujo de pago integrado en detalle. La siguiente image
 
 Todo comienza con la solicitud de un nuevo pago, después de la creación de un nuevo pedido. VTEX crea una nueva representación del pago y avanza para el procesamiento de los pagos.
 
-![fluxo-atualizado-ppp](https://images.ctfassets.net/alneenqid6w5/7lQZhSFEff1iaN7t2UVVNE/2890bc7073210c268d7d429d0162c9b7/FLUXO1.png)
+![fluxo-atualizado-ppp](//images.ctfassets.net/alneenqid6w5/7lQZhSFEff1iaN7t2UVVNE/2890bc7073210c268d7d429d0162c9b7/FLUXO1.png)
 
 ### Autorización de pago
 En este punto, VTEX llama al endpoint __*/payments*__ y envía un payload con los datos de pago para su proveedor. El proveedor debe procesar estos datos y enviar la respuesta, que debe contener uno de los valores de status: __approved__, __denied__ o __undefined__.
@@ -203,7 +203,7 @@ En cualquiera de los casos, una vez que termine el procesamiento y el proveedor 
 
 El flujo completo con status undefined y uso de notificación se puede ver a continuación:
 
-![Payment authorization callback notification flow](https://images.ctfassets.net/alneenqid6w5/2jMjUV7EZuzqN5L1OCQgIJ/39a8e76973fe6127741c1a34b9230c82/image1.png)
+![Payment authorization callback notification flow](//images.ctfassets.net/alneenqid6w5/2jMjUV7EZuzqN5L1OCQgIJ/39a8e76973fe6127741c1a34b9230c82/image1.png)
 
 1. La autorización del pago se inicia cuando el _gateway_ hace una llamada al endpoint Create Payment (__/payment__) para el proveedor. El campo `callbackUrl` se envía dentro del cuerpo del _request_ y contiene la URL para hacer la notificación.
 2. El pago se produce de forma asíncrona (no genera el status definitivo cuando se inicia la transacción). A continuación, el _gateway_ recibe la respuesta con status __undefined__ y espera a que se complete el procesamiento del pago. Más adelante, el pago se completará y el _gateway_ recibirá el status definitivo (__approved__ o __denied__).
@@ -212,7 +212,7 @@ El flujo completo con status undefined y uso de notificación se puede ver a con
 
 El flujo completo con status __undefined__ y uso del __retry__ se puede ver a continuación:
 
-![Payment authorization callback retry flow](https://images.ctfassets.net/alneenqid6w5/5kGkX4QGLUPNfclwMdibax/b78e54e17e7971aa4385f025b8eca4a4/image2.png)
+![Payment authorization callback retry flow](//images.ctfassets.net/alneenqid6w5/5kGkX4QGLUPNfclwMdibax/b78e54e17e7971aa4385f025b8eca4a4/image2.png)
 
 1. La autorización del pago se inicia cuando el _gateway_ hace una llamada al _endpoint_ Create Payment (__/payment__) para el proveedor. El campo `callbackUrl` se envía dentro del cuerpo del _request_ y contiene la URL del endpoint __retry__.
 2. El pago se produce de forma asíncrona (no genera el status definitivo cuando se inicia la transacción). A continuación, el _gateway_ recibe la respuesta con status __undefined__ y espera a que se complete el procesamiento del pago. Más adelante, el pago se completará y el _gateway_ recibirá el status definitivo (__approved__ o __denied__).

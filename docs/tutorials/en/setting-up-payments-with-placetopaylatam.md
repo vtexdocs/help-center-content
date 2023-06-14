@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with PlaceToPayLatam
+title: 'Setting up payments with PlaceToPayLatam'
 id: 5R1aYANyHBnS3Q2KQREUkl
 status: DRAFT
 createdAt: 2022-08-10T17:38:19.964Z

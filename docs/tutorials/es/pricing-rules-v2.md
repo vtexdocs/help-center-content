@@ -1,5 +1,5 @@
 ---
-title: Reglas de precios (v2)
+title: 'Reglas de precios (v2)'
 id: tutorials_4446
 status: DRAFT
 createdAt: 2017-04-27T21:50:44.178Z

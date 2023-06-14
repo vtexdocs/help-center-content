@@ -1,5 +1,5 @@
 ---
-title: Pedidos con changes pueden no enviar e-mail transaccional de Pedido Facturado
+title: 'Pedidos con changes pueden no enviar e-mail transaccional de Pedido Facturado'
 id: 1tyY0JutqQyJB18U9WTRXX
 status: PUBLISHED
 createdAt: 2019-02-17T20:45:54.094Z

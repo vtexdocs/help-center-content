@@ -1,5 +1,5 @@
 ---
-title: Botón de guardar desactivado al modificar los sinónimos de búsqueda importados
+title: 'Botón de guardar desactivado al modificar los sinónimos de búsqueda importados'
 id: 1nb1JboRv5YuLyAT50YcYx
 status: PUBLISHED
 createdAt: 2022-04-27T14:50:02.276Z

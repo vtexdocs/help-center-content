@@ -1,5 +1,5 @@
 ---
-title: Why am I getting e-mails telling me to revise the settlement of a payment?
+title: 'Why am I getting e-mails telling me to revise the settlement of a payment?'
 id: frequentlyAskedQuestions_4730
 status: PUBLISHED
 createdAt: 2017-04-27T22:23:56.704Z

@@ -1,5 +1,5 @@
 ---
-title: Gift card page UI loading indefinitely, preventing users with permission from accessing it properly
+title: 'Gift card page UI loading indefinitely, preventing users with permission from accessing it properly'
 id: 2jPTflNcH08DK0tlKLTfgb
 status: DRAFT
 createdAt: 2022-03-27T13:10:24.691Z

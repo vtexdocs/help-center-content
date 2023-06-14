@@ -1,5 +1,5 @@
 ---
-title: Borrar una categoría
+title: 'Borrar una categoría'
 id: tutorials_276
 status: PUBLISHED
 createdAt: 2017-04-27T22:10:36.202Z
@@ -25,7 +25,7 @@ Para que una categoría no les aparezca a los clientes de la tienda, puede inact
 3. Haga clic en la categoría que desea inactivar.
 4. Haga clic en el botón `Acciones`.
 5. Haga clic en `Editar`.
-6. Desmarque el campo __Activo | Categoría está activa en la tienda__, según se muestra en esta imagen: ![img inativarcategoria ES](https://images.ctfassets.net/alneenqid6w5/6SzDebwe2AzOlz9PjlaHNP/32994a6c1018db2d24e5acca0e2dcce0/img_inativarcategoria_ES.png)
+6. Desmarque el campo __Activo | Categoría está activa en la tienda__, según se muestra en esta imagen: ![img inativarcategoria ES](//images.ctfassets.net/alneenqid6w5/6SzDebwe2AzOlz9PjlaHNP/32994a6c1018db2d24e5acca0e2dcce0/img_inativarcategoria_ES.png)
 7. Haga clic en `Guardar`.
 
 ## Eliminar todas las categorías

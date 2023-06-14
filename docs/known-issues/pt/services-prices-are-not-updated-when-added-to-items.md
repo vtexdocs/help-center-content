@@ -1,5 +1,5 @@
 ---
-title: Os preços dos serviços não são atualizados quando adicionados aos itens
+title: 'Os preços dos serviços não são atualizados quando adicionados aos itens'
 id: 5hJ7TbHzX4zFbdNWqPnMRQ
 status: PUBLISHED
 createdAt: 2023-05-09T14:27:37.283Z

@@ -1,5 +1,5 @@
 ---
-title: Configuring telesales features
+title: 'Configuring telesales features'
 id: 76FNgQP2Glc4umMJ5Yr50R
 status: PUBLISHED
 createdAt: 2021-05-13T18:07:05.617Z

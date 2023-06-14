@@ -1,5 +1,5 @@
 ---
-title: Configurar el apuntamiento del DNS para VTEX
+title: 'Configurar el apuntamiento del DNS para VTEX'
 id: tutorials_4280
 status: DRAFT
 createdAt: 2017-04-27T21:51:26.318Z

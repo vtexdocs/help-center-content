@@ -1,5 +1,5 @@
 ---
-title: La ordenación de los grupos de especificaciones desde la categoría raíz no funciona
+title: 'La ordenación de los grupos de especificaciones desde la categoría raíz no funciona'
 id: 5iuLxVdAuK70VMYGts7CzJ
 status: PUBLISHED
 createdAt: 2022-08-09T00:46:23.102Z

@@ -1,5 +1,5 @@
 ---
-title: Por que ao fazer login no painel administrativo sou redirecionado para minha loja?
+title: 'Por que ao fazer login no painel administrativo sou redirecionado para minha loja?'
 id: 3JOlJmgmacAqCQEe0kwGwg
 status: PUBLISHED
 createdAt: 2017-10-01T03:35:33.165Z

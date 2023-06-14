@@ -1,5 +1,5 @@
 ---
-title: Configurar flujo de autenticación 3DS 2
+title: 'Configurar flujo de autenticación 3DS 2'
 id: 58XMn5LOA6fwrSkoDoAsg2
 status: PUBLISHED
 createdAt: 2020-11-26T18:03:32.678Z

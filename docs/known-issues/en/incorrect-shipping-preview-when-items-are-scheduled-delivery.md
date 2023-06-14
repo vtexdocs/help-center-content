@@ -1,5 +1,5 @@
 ---
-title: Incorrect Shipping preview when items are scheduled delivery
+title: 'Incorrect Shipping preview when items are scheduled delivery'
 id: 32RG7BjY9cScxj9e9bcDPS
 status: DRAFT
 createdAt: 2022-09-09T18:25:35.348Z

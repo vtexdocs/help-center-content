@@ -1,5 +1,5 @@
 ---
-title: Acessar listas de compras do cliente com usuário de Televendas
+title: 'Acessar listas de compras do cliente com usuário de Televendas'
 id: 5W5JZMEPzGkOIqAQCoYO68
 status: DRAFT
 createdAt: 2017-10-06T17:39:03.374Z

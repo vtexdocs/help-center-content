@@ -1,5 +1,5 @@
 ---
-title: Campo “Administrador que aprobó el producto (id)” no cambia cuando la actualización se hace por webservice
+title: 'Campo “Administrador que aprobó el producto (id)” no cambia cuando la actualización se hace por webservice'
 id: 5R6Jj0aglq0gUu2OakqgUw
 status: PUBLISHED
 createdAt: 2017-04-11T22:17:03.345Z

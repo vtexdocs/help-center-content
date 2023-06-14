@@ -1,5 +1,5 @@
 ---
-title: Fluxo da transação no Pagamentos
+title: 'Fluxo da transação no Pagamentos'
 id: Er2oWmqPIWWyeIy4IoEoQ
 status: PUBLISHED
 createdAt: 2019-01-24T21:42:55.722Z

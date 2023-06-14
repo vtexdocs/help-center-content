@@ -1,5 +1,5 @@
 ---
-title: Campo E-mail de origem na trigger não aceita placeholder
+title: 'Campo E-mail de origem na trigger não aceita placeholder'
 id: 4EW6n1Ymus8CGSEW2CuK44
 status: PUBLISHED
 createdAt: 2017-12-12T17:50:04.943Z

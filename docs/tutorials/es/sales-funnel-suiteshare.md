@@ -1,5 +1,5 @@
 ---
-title: Funil de ventas
+title: 'Funil de ventas'
 id: 4IMeO1Ijkd4DVh4ftNubh9
 status: PUBLISHED
 createdAt: 2022-08-31T12:23:57.433Z

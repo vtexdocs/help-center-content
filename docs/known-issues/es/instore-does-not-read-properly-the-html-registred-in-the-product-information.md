@@ -1,5 +1,5 @@
 ---
-title: InStore no lee correctamente el HTML registrado en la información del producto.
+title: 'InStore no lee correctamente el HTML registrado en la información del producto.'
 id: 7d8SQcoDuoM8ALheiHjlu
 status: PUBLISHED
 createdAt: 2022-12-16T17:58:53.859Z

@@ -1,5 +1,5 @@
 ---
-title: Registro de la integración de Netshoes
+title: 'Registro de la integración de Netshoes'
 id: 7o8Vt25LJmAUuMmSWSmWes
 status: PUBLISHED
 createdAt: 2018-09-24T20:27:48.984Z

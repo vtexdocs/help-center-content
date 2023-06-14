@@ -1,5 +1,5 @@
 ---
-title: Información compartida entre el marketplace y el seller en VTEX
+title: 'Información compartida entre el marketplace y el seller en VTEX'
 id: 3o7WGiBtfnKKZ3Ddug26k3
 status: PUBLISHED
 createdAt: 2022-04-07T13:32:06.199Z

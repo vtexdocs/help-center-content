@@ -1,5 +1,5 @@
 ---
-title: [Revista Luiza] Los pedidos con estado APROBADO en el marketplace no se están aprobando en VTEX
+title: '[Revista Luiza] Los pedidos con estado APROBADO en el marketplace no se están aprobando en VTEX'
 id: b11rdpYX5fEpjzuTm13lw
 status: PUBLISHED
 createdAt: 2023-05-10T19:01:49.804Z

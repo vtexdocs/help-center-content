@@ -1,5 +1,5 @@
 ---
-title: "Exporte hasta 50 000 pedidos de una sola vez"
+title: 'Exporte hasta 50 000 pedidos de una sola vez'
 id: 3bYhKtZdu8e5EZG7WH6hZ2
 status: PUBLISHED
 createdAt: 2021-03-31T00:12:41.095Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: exporte-hasta-50-000-pedidos-de-una-sola-vez
 legacySlug: exporte-hasta-50-000-pedidos-de-una-sola-vez
-announcementImageID: ""
-announcementSynopsisES: Ahora es posible exportar hasta 50 000 pedidos de una sola vez en Gestión de Pedidos.
+announcementImageID: ''
+announcementSynopsisES: 'Ahora es posible exportar hasta 50 000 pedidos de una sola vez en Gestión de Pedidos.'
 ---
 
 La extracción de informes de pedidos permite realizar acciones externas como analizar el desempeño de promociones o utilizar como nota de entrega para facilitar la logística de la tienda.

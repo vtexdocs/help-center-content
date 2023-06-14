@@ -1,5 +1,5 @@
 ---
-title: "Cambios en los tipos de máscara de Conversation Tracker"
+title: 'Cambios en los tipos de máscara de Conversation Tracker'
 id: 2PlNLiKcBVH2v888Vy5OGS
 status: PUBLISHED
 createdAt: 2021-04-26T15:06:45.617Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: cambios-en-los-tipos-de-mascara-de-conversation-tracker
 legacySlug: cambios-en-los-tipos-de-mascara-de-conversation-tracker
-announcementImageID: ""
-announcementSynopsisES: En la interfaz en el idioma español, sustituimos los tipos de máscara Hard y Soft por los términos Compleja y Simple.
+announcementImageID: ''
+announcementSynopsisES: 'En la interfaz en el idioma español, sustituimos los tipos de máscara Hard y Soft por los términos Compleja y Simple.'
 ---
 
 Conversation Tracker se utiliza para unificar y registrar en la línea de tiempo del pedido toda la comunicación establecida con un cliente durante el flujo de un pedido.

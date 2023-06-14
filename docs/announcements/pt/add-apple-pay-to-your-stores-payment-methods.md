@@ -1,5 +1,5 @@
 ---
-title: "Ofereça Apple Pay como opção de pagamento na sua loja"
+title: 'Ofereça Apple Pay como opção de pagamento na sua loja'
 id: 2S1medaBEQOY6U2oOoG2wO
 status: PUBLISHED
 createdAt: 2018-04-12T20:40:50.288Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: authors_24
 slug: ofereca-apple-pay-como-opcao-de-pagamento-na-sua-loja
 legacySlug: ofereca-apple-pay-como-opcao-de-pagamento-na-sua-loja
-announcementImageID: ""
-announcementSynopsisPT: A VTEX é a primeira plataforma de e-commerce do país a ter integração com o Apple Pay.
+announcementImageID: ''
+announcementSynopsisPT: 'A VTEX é a primeira plataforma de e-commerce do país a ter integração com o Apple Pay.'
 ---
 
 Recém-chegado ao Brasil, o __Apple Pay__ já está disponível para ser integrado à sua loja. Uma iniciativa pioneira da VTEX, que é a primeira plataforma de e-commerce do país a ter integração com o sistema de pagamentos digitais da Apple.

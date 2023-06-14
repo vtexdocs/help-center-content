@@ -1,5 +1,5 @@
 ---
-title: Price Configuration (Beta)
+title: 'Price Configuration (Beta)'
 id: 5VGOhV4yRpg9WB5B0Pjw1J
 status: DRAFT
 createdAt: 2020-09-08T15:14:39.844Z
@@ -72,11 +72,11 @@ To create a new rule, follow the steps below:
 
   b. **Activate in specific conditions:** the price table will be activated according to the conditions set in the rule. See the configuration possibilities on the following images:
 
-  ![config-preco-EN](https://images.ctfassets.net/alneenqid6w5/2sDqS10pMIv7tmDTgP96si/10028ff45ae241863445061a871e98dd/config-preco-EN.png)
+  ![config-preco-EN](//images.ctfassets.net/alneenqid6w5/2sDqS10pMIv7tmDTgP96si/10028ff45ae241863445061a871e98dd/config-preco-EN.png)
 
-  ![config-preco2-EN](https://images.ctfassets.net/alneenqid6w5/13jaqi9EY1SZ7CdShElb7r/e9ce4f8ca7b2322aacd556fbf5f7cd50/config-preco2-EN.png)
+  ![config-preco2-EN](//images.ctfassets.net/alneenqid6w5/13jaqi9EY1SZ7CdShElb7r/e9ce4f8ca7b2322aacd556fbf5f7cd50/config-preco2-EN.png)
 
-![config-preco3-EN](https://images.ctfassets.net/alneenqid6w5/3EC7hLAQO43LoPlijbXFKM/42d35e6f525408f2920da790b08bd88d/config-preco3-EN.png)
+![config-preco3-EN](//images.ctfassets.net/alneenqid6w5/3EC7hLAQO43LoPlijbXFKM/42d35e6f525408f2920da790b08bd88d/config-preco3-EN.png)
 
   7. Click on **Confirm**.
 

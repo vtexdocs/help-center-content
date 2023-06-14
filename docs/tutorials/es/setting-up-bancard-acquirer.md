@@ -1,5 +1,5 @@
 ---
-title: Configurar adquirente Bancard
+title: 'Configurar adquirente Bancard'
 id: 5i3Zdb0L5esQmeQcE6wUKq
 status: DRAFT
 createdAt: 2018-05-04T15:32:29.951Z

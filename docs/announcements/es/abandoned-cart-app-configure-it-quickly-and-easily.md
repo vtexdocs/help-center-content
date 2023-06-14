@@ -1,5 +1,5 @@
 ---
-title: "Carrito abandonado: configure rápido y fácilmente"
+title: 'Carrito abandonado: configure rápido y fácilmente'
 id: 6NCx5m1ZwMpKcUfWBL0P2H
 status: PUBLISHED
 createdAt: 2021-03-22T14:29:24.300Z
@@ -10,8 +10,8 @@ productTeam: VTEX IO
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: carrito-abandonado-configure-rapido-y-facilmente
 legacySlug: carrito-abandonado-configure-rapido-y-facilmente
-announcementImageID: ""
-announcementSynopsisES: La nueva aplicación facilita el envío de emails a los clientes que han interrumpido sus compras.
+announcementImageID: ''
+announcementSynopsisES: 'La nueva aplicación facilita el envío de emails a los clientes que han interrumpido sus compras.'
 ---
 
 Si un cliente potencial que visita su tienda ya ha añadido productos al carrito y se ha identificado con su _email_, esto es un fuerte indicio de intención de compra. Por lo tanto, la interrupción de este flujo de compra debe tratarse como una oportunidad perdida.

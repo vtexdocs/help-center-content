@@ -1,5 +1,5 @@
 ---
-title: Products are not being sent by integration when saving the registration
+title: 'Products are not being sent by integration when saving the registration'
 id: 3iY2DwQyiIwIsMaicGAI6e
 status: PUBLISHED
 createdAt: 2018-05-04T17:26:27.239Z

@@ -1,5 +1,5 @@
 ---
-title: "Site Editor: agende publicações de conteúdo "
+title: 'Site Editor: agende publicações de conteúdo '
 id: 1nKMy0i8VKEq23MJNih4T3
 status: PUBLISHED
 createdAt: 2021-12-16T17:38:42.017Z
@@ -10,13 +10,13 @@ productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: site-editor-agende-publicacoes-de-conteudo
 legacySlug: site-editor-agende-publicacoes-de-conteudo
-announcementImageID: ""
-announcementSynopsisPT: Crie e programe versões de bloco predefinidas no Site Editor
+announcementImageID: ''
+announcementSynopsisPT: 'Crie e programe versões de bloco predefinidas no Site Editor'
 ---
 
 O recurso **Configurações** do Site Editor foi atualizado. Agora, além de se chamar **Versões**, você pode criar as  versões do conteúdo de sua loja desativadas e ativá-las quando desejar.
 
-![activating-versions-pt](https://images.ctfassets.net/alneenqid6w5/31O8XD7Pt9GWWYk2W8q13K/01ea74a9392015c3eb54ae8b0546908a/activating-versions-pt.gif)
+![activating-versions-pt](//images.ctfassets.net/alneenqid6w5/31O8XD7Pt9GWWYk2W8q13K/01ea74a9392015c3eb54ae8b0546908a/activating-versions-pt.gif)
 
 ## O que mudou?
 Antes, o recurso **Versões** se chamava **Configurações**, e era apenas possível criar uma nova versão ativada, por exemplo, de um Carrossel com produtos em promoção, ou agendar a sua ativação. Após uma versão sair do ar, também não era possível ativá-la novamente.

@@ -1,5 +1,5 @@
 ---
-title: La creación / edición de tipo de lista no funciona
+title: 'La creación / edición de tipo de lista no funciona'
 id: O7fwPOv0mymmwMiiauc6g
 status: PUBLISHED
 createdAt: 2017-08-21T15:37:40.240Z

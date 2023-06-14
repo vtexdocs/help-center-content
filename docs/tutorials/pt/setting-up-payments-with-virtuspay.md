@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com VirtusPay
+title: 'Configurar pagamento com VirtusPay'
 id: 2Agqwp19cwyIbxuHErVG8I
 status: CHANGED
 createdAt: 2022-08-11T15:02:59.728Z

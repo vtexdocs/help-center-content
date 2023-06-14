@@ -1,5 +1,5 @@
 ---
-title: El componente ProductImage no actualiza sus imágenes en función del cambio de las especificaciones SKU.
+title: 'El componente ProductImage no actualiza sus imágenes en función del cambio de las especificaciones SKU.'
 id: 3NATd5bJRoMbzepedPaIEu
 status: PUBLISHED
 createdAt: 2022-09-30T22:16:54.477Z

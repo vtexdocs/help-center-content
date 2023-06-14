@@ -1,5 +1,5 @@
 ---
-title: Administre el informe de comissiones
+title: 'Administre el informe de comissiones'
 id: 6NgHeDt8Xo9JtMoifx7DC5
 status: DRAFT
 createdAt: 2020-12-01T12:36:42.779Z
@@ -62,7 +62,7 @@ La creación del informe puede demorarse si el volumen de datos analizados es ex
 Salir de la página no afectará la operación.
 </div>
 
-![Informe de Comisiones](https://images.ctfassets.net/alneenqid6w5/1VW72vERimVjQn1cXy5TRM/0bcdb6a335b163625ebee90c5b2ea467/image.png)
+![Informe de Comisiones](//images.ctfassets.net/alneenqid6w5/1VW72vERimVjQn1cXy5TRM/0bcdb6a335b163625ebee90c5b2ea467/image.png)
 
 Posteriormente, usted también puede descargar el informe recién generado mediante un link de descarga en el listado de informes.
 

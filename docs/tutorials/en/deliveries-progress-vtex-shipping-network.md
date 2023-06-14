@@ -1,5 +1,5 @@
 ---
-title: VTEX Shipping Network: Deliveries progress
+title: 'VTEX Shipping Network: Deliveries progress'
 id: 5CZRA0lq60EecmwZpsjvfq
 status: PUBLISHED
 createdAt: 2022-03-04T13:12:38.617Z

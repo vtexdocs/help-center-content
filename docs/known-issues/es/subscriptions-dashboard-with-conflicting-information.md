@@ -1,5 +1,5 @@
 ---
-title: Cuadro de mandos de las suscripciones con información contradictoria
+title: 'Cuadro de mandos de las suscripciones con información contradictoria'
 id: WvoqrD7xvaAJ6NVOLpU1G
 status: PUBLISHED
 createdAt: 2022-05-27T20:01:11.189Z

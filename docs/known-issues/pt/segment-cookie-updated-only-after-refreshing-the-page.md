@@ -1,5 +1,5 @@
 ---
-title: Cookie de segmento atualizado somente depois de atualizar a página
+title: 'Cookie de segmento atualizado somente depois de atualizar a página'
 id: 3QBmp4D2tvIAxEzEy2LpNf
 status: PUBLISHED
 createdAt: 2022-11-01T16:33:05.698Z

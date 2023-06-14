@@ -1,5 +1,5 @@
 ---
-title: Un solo sku con varios EAN en el Centro Comercial
+title: 'Un solo sku con varios EAN en el Centro Comercial'
 id: 2LYJWSDXKbnCQHsRRaGVYe
 status: PUBLISHED
 createdAt: 2022-02-08T19:50:42.386Z

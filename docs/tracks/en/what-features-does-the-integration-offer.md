@@ -1,5 +1,5 @@
 ---
-title: What features does the integration offer?
+title: 'What features does the integration offer?'
 id: 5DIYlh0eXB9ClfQFC3l3Mr
 status: PUBLISHED
 createdAt: 2023-03-28T19:41:03.487Z

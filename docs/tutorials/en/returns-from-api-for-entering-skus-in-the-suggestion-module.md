@@ -1,5 +1,5 @@
 ---
-title: Returns from API for entering SKUs in the Suggestion module
+title: 'Returns from API for entering SKUs in the Suggestion module'
 id: tutorials_4927
 status: PUBLISHED
 createdAt: 2017-04-27T21:49:35.443Z

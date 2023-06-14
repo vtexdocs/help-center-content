@@ -1,5 +1,5 @@
 ---
-title: O item de promoção não será exibido dividido após a adição de dados de perfil
+title: 'O item de promoção não será exibido dividido após a adição de dados de perfil'
 id: 3bme5oDKxbRyQzozUP6XNp
 status: PUBLISHED
 createdAt: 2023-06-12T20:09:11.042Z

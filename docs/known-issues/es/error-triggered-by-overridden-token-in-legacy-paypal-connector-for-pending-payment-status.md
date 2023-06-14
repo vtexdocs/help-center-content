@@ -1,5 +1,5 @@
 ---
-title: Error provocado por un TOKEN anulado en el conector heredado de PayPal para el estado de pago pendiente
+title: 'Error provocado por un TOKEN anulado en el conector heredado de PayPal para el estado de pago pendiente'
 id: 5GrnhD8fwte7qu50Az8r3Y
 status: PUBLISHED
 createdAt: 2023-06-13T22:35:16.397Z

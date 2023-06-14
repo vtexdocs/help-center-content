@@ -1,5 +1,5 @@
 ---
-title: Como funciona o campo Score?
+title: 'Como funciona o campo Score?'
 id: 1BUZC0mBYEEIUgeQYAKcae
 status: PUBLISHED
 createdAt: 2018-02-16T16:17:51.610Z
@@ -35,4 +35,4 @@ Para adicionar ou alterar um score relacionado a um produto, siga estes passos:
 2. Clique em `Adicionar Produto` para criar um novo produto ou clique em `Alterar` no produto que deseja editar.
 3. Insira o valor desejado do score no campo **Score (usado para ordenação de busca)**.
 
-![posicao-Score-PT](https://images.ctfassets.net/alneenqid6w5/6SGu9GBtxou7sLg5rM59vl/f02f302fc3de0346b7ec9d794c413da3/Screenshot_6.png)
+![posicao-Score-PT](//images.ctfassets.net/alneenqid6w5/6SGu9GBtxou7sLg5rM59vl/f02f302fc3de0346b7ec9d794c413da3/Screenshot_6.png)

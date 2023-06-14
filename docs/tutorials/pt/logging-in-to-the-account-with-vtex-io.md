@@ -1,5 +1,5 @@
 ---
-title: Fazer login na conta da loja com o VTEX IO
+title: 'Fazer login na conta da loja com o VTEX IO'
 id: 5lMWLYH0swucIOeGqW2YiW
 status: DRAFT
 createdAt: 2018-02-21T22:28:05.742Z

@@ -1,5 +1,5 @@
 ---
-title: Setting up App Linking for payments app in inStore
+title: 'Setting up App Linking for payments app in inStore'
 id: 5WERznsnLO6qqoSOsoMSK4
 status: DRAFT
 createdAt: 2018-02-26T16:53:07.497Z
@@ -16,7 +16,7 @@ subcategory:
 
 This article aims to explain how the inStore app configures AppLinking for `payment` and `payment-reversal` actions with the acquirers' apps.
 
-![Payment app](https://images.ctfassets.net/alneenqid6w5/SZ7d3IeuCAagwCqSW4eCO/27d469e37d9d1d8fb3ce22850012e685/Payment_app.png)
+![Payment app](//images.ctfassets.net/alneenqid6w5/SZ7d3IeuCAagwCqSW4eCO/27d469e37d9d1d8fb3ce22850012e685/Payment_app.png)
 
 ## Setting fields
 

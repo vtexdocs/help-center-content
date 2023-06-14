@@ -1,5 +1,5 @@
 ---
-title: Erro 400 (Bad Request) ao acessar página de filtro com caracter especial no valor
+title: 'Erro 400 (Bad Request) ao acessar página de filtro com caracter especial no valor'
 id: 1mHUPIG42A0UUoAwac8IYE
 status: PUBLISHED
 createdAt: 2017-09-18T19:12:57.298Z

@@ -1,5 +1,5 @@
 ---
-title: Setting up CyberSource gateway
+title: 'Setting up CyberSource gateway'
 id: 6nhvUTrLxeacsoYG6GkGM
 status: PUBLISHED
 createdAt: 2018-04-30T17:34:57.517Z

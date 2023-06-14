@@ -1,5 +1,5 @@
 ---
-title: Merchants are not receiving the fixed price report
+title: 'Merchants are not receiving the fixed price report'
 id: itfcHiyewZYWOW9Ff16yM
 status: PUBLISHED
 createdAt: 2022-10-07T18:51:22.646Z

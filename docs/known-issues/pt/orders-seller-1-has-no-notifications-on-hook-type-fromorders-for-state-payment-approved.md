@@ -1,5 +1,5 @@
 ---
-title: Encomendas Vendedor 1 não tem notificações sobre o tipo de gancho de Encomendas para Pagamento Estatal Aprovado
+title: 'Encomendas Vendedor 1 não tem notificações sobre o tipo de gancho de Encomendas para Pagamento Estatal Aprovado'
 id: 4FurUuRzROSdEckWPFXH1w
 status: PUBLISHED
 createdAt: 2022-08-18T18:04:03.821Z

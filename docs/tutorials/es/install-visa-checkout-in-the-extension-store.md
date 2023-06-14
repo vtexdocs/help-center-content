@@ -1,5 +1,5 @@
 ---
-title: Instalar el Visa Checkout en la VTEX App Store
+title: 'Instalar el Visa Checkout en la VTEX App Store'
 id: swNvxnmhvqc2Eg2OycK8Y
 status: PUBLISHED
 createdAt: 2017-06-28T03:09:32.057Z

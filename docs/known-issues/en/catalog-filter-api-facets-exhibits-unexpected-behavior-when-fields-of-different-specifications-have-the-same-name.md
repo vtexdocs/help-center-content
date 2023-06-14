@@ -1,5 +1,5 @@
 ---
-title: Catalog filter API (Facets) exhibits unexpected behavior when fields of different specifications have the same name
+title: 'Catalog filter API (Facets) exhibits unexpected behavior when fields of different specifications have the same name'
 id: 5kEXFKmO3YAyICAa6Usa28
 status: PUBLISHED
 createdAt: 2017-08-16T19:59:34.640Z

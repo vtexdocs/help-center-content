@@ -1,5 +1,5 @@
 ---
-title: Changing a banner
+title: 'Changing a banner'
 id: frequentlyAskedQuestions_1848
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:59.558Z
@@ -21,14 +21,14 @@ We will use a banner on the Home Page as an example, but these step-by-step inst
 3. Click the **Sites and Channels** folder.
 4. Click the **name of your store**.
 5. Click the **"/" folder**.
-![CMS instrução - EN](https://images.ctfassets.net/alneenqid6w5/4hp4fJ22GIWmEQ2ggQGCaE/910148475de19dfac0b0bd451cee1f7a/CMS_instru____o_-_EN.png)
+![CMS instrução - EN](//images.ctfassets.net/alneenqid6w5/4hp4fJ22GIWmEQ2ggQGCaE/910148475de19dfac0b0bd451cee1f7a/CMS_instru____o_-_EN.png)
 6. Click on the **Home** file.
 7. Click on the **Settings** tab.
 8. Click on the “pencil” for editing.
-![cms-home-settings EN](https://images.ctfassets.net/alneenqid6w5/1Gs6bDdZs4eqaiQmK6qScC/272aa7943884746f32c66b75bb86b58d/banner_home_settings_-_EN.png)
+![cms-home-settings EN](//images.ctfassets.net/alneenqid6w5/1Gs6bDdZs4eqaiQmK6qScC/272aa7943884746f32c66b75bb86b58d/banner_home_settings_-_EN.png)
 9. The banner window will open.
 10. Click on the pencil that appears on the screen.
-![cms_home_settings_lapis EN](https://images.ctfassets.net/alneenqid6w5/5Js48igaXuycwYaMEkSG2k/80d3bcf1f1fa41134cd65bacfd9cda6d/cms_settings_lapis_EN.png)
+![cms_home_settings_lapis EN](//images.ctfassets.net/alneenqid6w5/5Js48igaXuycwYaMEkSG2k/80d3bcf1f1fa41134cd65bacfd9cda6d/cms_settings_lapis_EN.png)
 11. This will open the banner form.
 
 **Change the content of the form:**

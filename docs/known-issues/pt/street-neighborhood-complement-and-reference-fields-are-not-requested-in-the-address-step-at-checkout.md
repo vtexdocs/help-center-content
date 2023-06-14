@@ -1,5 +1,5 @@
 ---
-title: Os campos Rua, Bairro, Complemento e Referência não são solicitados na etapa de endereço no checkout
+title: 'Os campos Rua, Bairro, Complemento e Referência não são solicitados na etapa de endereço no checkout'
 id: 2wY4t0iIie4pjpJrs0Af3F
 status: PUBLISHED
 createdAt: 2022-04-19T18:20:30.913Z

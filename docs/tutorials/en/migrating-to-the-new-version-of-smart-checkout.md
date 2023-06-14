@@ -1,5 +1,5 @@
 ---
-title: SmartCheckout™ V5 general characteristics
+title: 'SmartCheckout™ V5 general characteristics'
 id: tutorials_3811
 status: PUBLISHED
 createdAt: 2017-04-27T21:51:49.943Z

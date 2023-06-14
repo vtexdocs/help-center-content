@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Bancolombia BNPL
+title: 'Configurar pago con Bancolombia BNPL'
 id: 16iFxjwsOPwmBwmjhb17WN
 status: PUBLISHED
 createdAt: 2023-03-30T16:25:46.370Z

@@ -1,5 +1,5 @@
 ---
-title: Pricing module pagination continues to appear even when filters are applied
+title: 'Pricing module pagination continues to appear even when filters are applied'
 id: 64JuaXsWyrcQmk6iUi8wFD
 status: PUBLISHED
 createdAt: 2019-12-10T21:18:48.943Z

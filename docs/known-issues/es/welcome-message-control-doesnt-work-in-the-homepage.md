@@ -1,5 +1,5 @@
 ---
-title: Control de Welcome Message no funciona en la página principal del sitio
+title: 'Control de Welcome Message no funciona en la página principal del sitio'
 id: 38WkIwnvReicEOu6eOccuY
 status: PUBLISHED
 createdAt: 2017-04-26T23:34:28.335Z

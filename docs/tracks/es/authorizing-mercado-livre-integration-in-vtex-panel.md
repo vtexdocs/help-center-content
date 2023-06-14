@@ -1,5 +1,5 @@
 ---
-title:  Autorizar la integración de Mercado Libre en el panel de VTEX
+title: ' Autorizar la integración de Mercado Libre en el panel de VTEX'
 id: 4leBEAd22Icm46kGeiGgak
 status: PUBLISHED
 createdAt: 2018-08-13T14:11:18.480Z

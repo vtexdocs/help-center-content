@@ -1,5 +1,5 @@
 ---
-title: Why don't Cookies support special characters?
+title: 'Why don't Cookies support special characters?'
 id: 6hs7MQzTri6Yg2kQoSICoQ
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:50.126Z

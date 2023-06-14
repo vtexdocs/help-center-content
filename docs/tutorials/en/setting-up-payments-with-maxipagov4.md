@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with MaxiPagoV4
+title: 'Setting up payments with MaxiPagoV4'
 id: 2WTP2vKRL7tgR0VW0qPDzN
 status: DRAFT
 createdAt: 2022-08-10T19:23:21.650Z

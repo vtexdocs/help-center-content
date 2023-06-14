@@ -1,5 +1,5 @@
 ---
-title: Consultando dados no Master Data
+title: 'Consultando dados no Master Data'
 id: 6yQJMdhr9Y2KC6Es2QwkuW
 status: DRAFT
 createdAt: 2017-06-21T21:21:47.705Z

@@ -1,5 +1,5 @@
 ---
-title: ""
+title: ''
 id: 5eBZsbpzrSB44kE9zAQdTT
 status: DRAFT
 createdAt: 2021-01-13T18:53:34.631Z
@@ -10,8 +10,8 @@ productTeam:
 author: 
 slug: untitled-entry-2021-01-13-at-18-53-34
 legacySlug: untitled-entry-2021-01-13-at-18-53-34
-announcementImageID: ""
-announcementSynopsisEN: 
+announcementImageID: ''
+announcementSynopsisEN: ''
 ---
 
 

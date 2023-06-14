@@ -1,5 +1,5 @@
 ---
-title: Transaction stuck on approved with NPS connector due to psp_ResponseCod in settlement response
+title: 'Transaction stuck on approved with NPS connector due to psp_ResponseCod in settlement response'
 id: 1hRLO1HqsaSkvpu58eNYK2
 status: PUBLISHED
 createdAt: 2022-04-06T14:07:03.848Z

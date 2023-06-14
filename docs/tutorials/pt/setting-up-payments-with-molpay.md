@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamentos com MOLPay
+title: 'Configurar pagamentos com MOLPay'
 id: 3qivorE9OwoYcSEsk6MM0A
 status: DRAFT
 createdAt: 2018-04-19T13:57:33.694Z

@@ -1,5 +1,5 @@
 ---
-title: Checkout does not accept ZIP code with 3 digits or less
+title: 'Checkout does not accept ZIP code with 3 digits or less'
 id: 1q7dqJvWR2MWYkwIKiQwEc
 status: PUBLISHED
 createdAt: 2018-07-31T21:14:17.294Z

@@ -1,5 +1,5 @@
 ---
-title: Como solicitar a segunda via do meu boleto de cobrança ?
+title: 'Como solicitar a segunda via do meu boleto de cobrança ?'
 id: 5uIetorejSECKuyS2068mG
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:47.207Z

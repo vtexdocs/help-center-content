@@ -1,5 +1,5 @@
 ---
-title: O checkout permite proceder ao formulário de pagamento sem endereço de remessa somente na IU
+title: 'O checkout permite proceder ao formulário de pagamento sem endereço de remessa somente na IU'
 id: 3k9zxMq6Pl9WBnIz5Hy6Xf
 status: PUBLISHED
 createdAt: 2022-11-18T18:42:08.326Z

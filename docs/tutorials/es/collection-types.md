@@ -1,5 +1,5 @@
 ---
-title: Tipos de Colección
+title: 'Tipos de Colección'
 id: 5tKnhh8tMGIrVL7Fqirq7n
 status: PUBLISHED
 createdAt: 2020-08-25T19:44:32.708Z

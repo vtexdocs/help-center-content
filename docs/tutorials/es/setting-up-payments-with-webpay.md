@@ -1,5 +1,5 @@
 ---
-title: Configurar pagos con WebPay
+title: 'Configurar pagos con WebPay'
 id: 4NdDfy57gc68cewEwwKGAS
 status: DRAFT
 createdAt: 2018-03-28T12:40:53.139Z

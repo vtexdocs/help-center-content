@@ -1,5 +1,5 @@
 ---
-title: La API de la lista de ofertas coincidentes no funciona correctamente
+title: 'La API de la lista de ofertas coincidentes no funciona correctamente'
 id: 7mxrjTDYB8yLeKmQkB5D9h
 status: PUBLISHED
 createdAt: 2022-03-31T13:49:41.374Z

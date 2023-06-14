@@ -1,5 +1,5 @@
 ---
-title: For debt with CieloV3 we are not respecting the status of the response
+title: 'For debt with CieloV3 we are not respecting the status of the response'
 id: SkcIYYJc8VGHS25qP9tKG
 status: PUBLISHED
 createdAt: 2022-03-03T18:40:36.990Z

@@ -1,5 +1,5 @@
 ---
-title: Controle $product.InsertSku não está considerando a ordenação definida no cadastro do produto
+title: 'Controle $product.InsertSku não está considerando a ordenação definida no cadastro do produto'
 id: laM7GlhASOuGisu2e8KGO
 status: PUBLISHED
 createdAt: 2018-01-11T20:32:44.037Z

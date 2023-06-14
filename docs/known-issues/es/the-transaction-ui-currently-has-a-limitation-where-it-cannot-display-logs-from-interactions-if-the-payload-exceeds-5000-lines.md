@@ -1,5 +1,5 @@
 ---
-title: Actualmente, la interfaz de usuario de transacciones tiene una limitación por la que no puede mostrar registros de /interactions si la carga útil supera las 5000 líneas.
+title: 'Actualmente, la interfaz de usuario de transacciones tiene una limitación por la que no puede mostrar registros de /interactions si la carga útil supera las 5000 líneas.'
 id: 1hfRLo1OBLqlsR70Os9J7L
 status: PUBLISHED
 createdAt: 2023-03-27T13:40:46.551Z

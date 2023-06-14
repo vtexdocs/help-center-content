@@ -1,5 +1,5 @@
 ---
-title: Crear una política comercial
+title: 'Crear una política comercial'
 id: 563tbcL0TYKEKeOY4IAgAE
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:49.369Z

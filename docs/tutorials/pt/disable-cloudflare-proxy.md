@@ -1,5 +1,5 @@
 ---
-title: Como desabilitar o proxy no Cloudflare
+title: 'Como desabilitar o proxy no Cloudflare'
 id: 75QqsXAqR7NdkRc1GZPiXb
 status: PUBLISHED
 createdAt: 2021-11-19T18:31:43.174Z

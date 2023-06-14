@@ -1,5 +1,5 @@
 ---
-title: "Pix: configure the payment method via Admin"
+title: 'Pix: configure the payment method via Admin'
 id: 5cLqwa6JeuKeBqWV06qxV7
 status: PUBLISHED
 createdAt: 2020-11-16T11:03:25.206Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: pix-configure-the-payment-method-via-admin
 legacySlug: pix-configure-the-payment-method-via-admin
-announcementImageID: ""
-announcementSynopsisEN: Clients can now configure the new Brazilian instant payment method through the VTEX Admin.
+announcementImageID: ''
+announcementSynopsisEN: 'Clients can now configure the new Brazilian instant payment method through the VTEX Admin.'
 ---
 
 Starting November 2020, VTEX clients will be able to configure Pix - the Central Bank of Brazil (Bacen) instant payment method - via Admin. 

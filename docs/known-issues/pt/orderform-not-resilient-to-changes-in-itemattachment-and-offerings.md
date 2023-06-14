@@ -1,5 +1,5 @@
 ---
-title: forma não resiliente a mudanças no itemAparelhamento e ofertas
+title: 'forma não resiliente a mudanças no itemAparelhamento e ofertas'
 id: 2pNOpx38Dca7HBomTZBdAD
 status: PUBLISHED
 createdAt: 2022-01-05T20:40:21.829Z

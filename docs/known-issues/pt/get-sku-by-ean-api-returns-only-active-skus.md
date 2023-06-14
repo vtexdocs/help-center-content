@@ -1,5 +1,5 @@
 ---
-title: GET SKU by EAN API retorna apenas SKUs ativas
+title: 'GET SKU by EAN API retorna apenas SKUs ativas'
 id: 5NiuB1Lgf3CM5kXSSVdfuu
 status: PUBLISHED
 createdAt: 2020-03-23T15:10:23.842Z

@@ -1,5 +1,5 @@
 ---
-title: Como fazer pagamentos pelo VTEX Payment?
+title: 'Como fazer pagamentos pelo VTEX Payment?'
 id: 5kCATCSxLQ08Woqkws5dXu
 status: DRAFT
 createdAt: 2019-05-26T23:43:51.110Z

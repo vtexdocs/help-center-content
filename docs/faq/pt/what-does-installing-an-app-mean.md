@@ -1,5 +1,5 @@
 ---
-title: O que significa instalar uma app?
+title: 'O que significa instalar uma app?'
 id: 5OTxmyiJkA4e86W02aKU4w
 status: DRAFT
 createdAt: 2018-02-22T01:54:04.830Z

@@ -1,5 +1,5 @@
 ---
-title: [Mercado Livre] Falta el atributo [SIZE]
+title: '[Mercado Livre] Falta el atributo [SIZE]'
 id: 2UD1NwbHe86fj3CWIIZYoL
 status: PUBLISHED
 createdAt: 2022-09-14T20:40:32.698Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar boleto parcelado Provu (Lendico) como meio de pagamento
+title: 'Configurar boleto parcelado Provu (Lendico) como meio de pagamento'
 id: 1pRpPlkppLDEc1TVXTgrcu
 status: PUBLISHED
 createdAt: 2020-12-02T10:58:09.076Z

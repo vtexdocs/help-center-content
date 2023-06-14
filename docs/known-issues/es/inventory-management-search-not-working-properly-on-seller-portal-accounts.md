@@ -1,5 +1,5 @@
 ---
-title: La búsqueda de gestión de inventario no funciona correctamente en las cuentas del portal del vendedor
+title: 'La búsqueda de gestión de inventario no funciona correctamente en las cuentas del portal del vendedor'
 id: 7pCEQVKpXDq8NwtMXDxlFT
 status: PUBLISHED
 createdAt: 2022-11-08T18:55:29.448Z

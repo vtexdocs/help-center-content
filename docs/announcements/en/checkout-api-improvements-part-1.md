@@ -1,5 +1,5 @@
 ---
-title: "Checkout API improvements - Part 1"
+title: 'Checkout API improvements - Part 1'
 id: 5B4Qb4ffB5JgGrJNY3572l
 status: DRAFT
 createdAt: 2019-05-15T19:18:26.652Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: authors_59
 slug: checkout-api-improvements-part-1
 legacySlug: checkout-api-improvements-part-1
-announcementImageID: ""
-announcementSynopsisEN: Find out more about the latest checkout API improvements and learn how to adapt the new features
+announcementImageID: ''
+announcementSynopsisEN: 'Find out more about the latest checkout API improvements and learn how to adapt the new features'
 ---
 
 Our development team is constantly striving towards improving API performance, by adding new functionalities and increasing API efficiency. As a consequence, some behaviors and functionalities considered deprecated could be discontinued in the next major Checkout API version.

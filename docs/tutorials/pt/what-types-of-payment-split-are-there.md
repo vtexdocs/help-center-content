@@ -1,5 +1,5 @@
 ---
-title: Quais são os tipos de split de pagamento?
+title: 'Quais são os tipos de split de pagamento?'
 id: frequentlyAskedQuestions_5174
 status: DRAFT
 createdAt: 2019-01-24T20:46:02.419Z

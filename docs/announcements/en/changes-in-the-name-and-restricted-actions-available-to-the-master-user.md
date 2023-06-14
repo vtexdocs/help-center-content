@@ -1,5 +1,5 @@
 ---
-title: "Changes in the name and restricted actions available to the Master user"
+title: 'Changes in the name and restricted actions available to the Master user'
 id: 3XBZFTugszl4PmPCMhOtkh
 status: PUBLISHED
 createdAt: 2021-11-08T21:06:05.854Z
@@ -10,8 +10,8 @@ productTeam: Identity
 author: 4SqDPmUJIIz2KMMKgiyqKl
 slug: changes-in-the-name-and-restricted-actions-available-to-the-master-user
 legacySlug: changes-in-the-name-and-restricted-actions-available-to-the-master-user
-announcementImageID: ""
-announcementSynopsisEN: Managing authentication credentials is no longer restricted to the Sponsor user.
+announcementImageID: ''
+announcementSynopsisEN: 'Managing authentication credentials is no longer restricted to the Sponsor user.'
 ---
 
 Streamlining processes is key for digital commerce operations to keep up with the dynamic and fast-paced nature of global markets. Certain critical maintenance and authorization actions, however, must be centrally managed given the potential negative impact of mistakes. 
@@ -26,7 +26,7 @@ Rest assured, we made no mistake. After careful consideration, our team decided 
 
 But that's not all. We also completely revamped the process to change the Sponsor user for an account, transforming it into an invitation-based transfer flow that is fully auditable. 
 
-![Sponsor management gif](https://images.ctfassets.net/alneenqid6w5/ha7KIfmy1QJQvmpnXJN5R/93870cb4eae7fd2591b388279faa2db9/Announcement_EN.gif)
+![Sponsor management gif](//images.ctfassets.net/alneenqid6w5/ha7KIfmy1QJQvmpnXJN5R/93870cb4eae7fd2591b388279faa2db9/Announcement_EN.gif)
 
 Check out [Transferring store ownership](https://help.vtex.com/en/tutorial/transferring-store-ownership) for more details on this new process.
 

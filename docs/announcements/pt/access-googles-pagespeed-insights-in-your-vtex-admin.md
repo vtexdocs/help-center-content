@@ -1,5 +1,5 @@
 ---
-title: "Acesse o PageSpeed Insights do Google no seu Admin VTEX"
+title: 'Acesse o PageSpeed Insights do Google no seu Admin VTEX'
 id: 5rLPGgLfLqg8Ss0W79WS7c
 status: PUBLISHED
 createdAt: 2022-06-29T19:09:51.629Z
@@ -10,8 +10,8 @@ productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: acesse-o-pagespeed-insights-do-google-no-seu-admin-vtex
 legacySlug: acesse-o-pagespeed-insights-do-google-no-seu-admin-vtex
-announcementImageID: ""
-announcementSynopsisPT: Analise o desempenho de URLs com a nova página Performance das páginas web, baseada no PageSpeed Insights do Google
+announcementImageID: ''
+announcementSynopsisPT: 'Analise o desempenho de URLs com a nova página Performance das páginas web, baseada no PageSpeed Insights do Google'
 ---
 
 No mercado de comércio digital, oferecer uma experiência que não consuma muito tempo do comprador para encontrar as informações de que precisa ou para concluir um pedido pode ser a vantagem competitiva entre as marcas que disputam a atenção do mesmo usuário. Por isso, é importante acompanhar o desempenho de seu site para medir e melhorar a experiência do usuário, levando a um possível aumento nas vendas.
@@ -20,7 +20,7 @@ Com esse objetivo, nós criamos a nova tela [Performance das páginas web](https
 
 O PageSpeed Insights e o Lighthouse são ferramentas desenvolvidas pelo Google para gerar relatórios sobre a experiência do usuário de uma página tanto em dispositivos móveis quanto em computadores, fornecendo sugestões sobre como essa página pode ser aprimorada. Eles usam as [principais métricas da web do Google](https://web.dev/vitals/#core-web-vitals) para avaliar a experiência do usuário online. 
 
-![Web page performance Dash PT](https://images.ctfassets.net/alneenqid6w5/4EHCyrE0JQxGgxhk1YVdMY/69b6c76024c031cda5ec2a557620d067/Screen_Shot_2022-06-29_at_15.37.19.png)
+![Web page performance Dash PT](//images.ctfassets.net/alneenqid6w5/4EHCyrE0JQxGgxhk1YVdMY/69b6c76024c031cda5ec2a557620d067/Screen_Shot_2022-06-29_at_15.37.19.png)
 
 ## O que mudou?
 

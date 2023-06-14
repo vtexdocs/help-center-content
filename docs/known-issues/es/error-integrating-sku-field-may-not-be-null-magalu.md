@@ -1,5 +1,5 @@
 ---
-title: Error al integrar sku "El campo no puede ser nulo" - Magalu
+title: 'Error al integrar sku "El campo no puede ser nulo" - Magalu'
 id: 3SYlRr6XVrl7T3Uw646MkE
 status: PUBLISHED
 createdAt: 2022-08-19T21:01:40.357Z

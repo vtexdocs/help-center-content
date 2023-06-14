@@ -1,5 +1,5 @@
 ---
-title: Filtrar na lista Pedido por Promoção com espaço em branco não está funcionando
+title: 'Filtrar na lista Pedido por Promoção com espaço em branco não está funcionando'
 id: 1NvvCd3XWfUxj1Q1cQmhjW
 status: CHANGED
 createdAt: 2022-02-14T16:05:42.972Z

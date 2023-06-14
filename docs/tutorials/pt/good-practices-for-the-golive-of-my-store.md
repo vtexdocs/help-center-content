@@ -1,5 +1,5 @@
 ---
-title: Boas práticas para o Golive da minha loja
+title: 'Boas práticas para o Golive da minha loja'
 id: 2HhBfAzR4kmkwGA8WImEaC
 status: DRAFT
 createdAt: 2017-06-26T16:58:25.201Z

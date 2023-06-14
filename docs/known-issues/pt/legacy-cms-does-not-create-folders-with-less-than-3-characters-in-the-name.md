@@ -1,5 +1,5 @@
 ---
-title: O CMS legado não cria pastas com menos de 3 caracteres no nome
+title: 'O CMS legado não cria pastas com menos de 3 caracteres no nome'
 id: 3kXypobV36NZNQofVAz2zi
 status: PUBLISHED
 createdAt: 2023-05-15T14:33:07.252Z

@@ -1,5 +1,5 @@
 ---
-title: Mapping categories and brands for the marketplace (Beta)
+title: 'Mapping categories and brands for the marketplace (Beta)'
 id: 6NU8LwR6i0tTb8nk30bnbE
 status: PUBLISHED
 createdAt: 2022-05-11T13:35:34.836Z

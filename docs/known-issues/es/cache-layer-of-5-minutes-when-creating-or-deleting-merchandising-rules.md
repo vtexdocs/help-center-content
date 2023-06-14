@@ -1,5 +1,5 @@
 ---
-title: Capa de caché de 5 minutos al crear o eliminar reglas de merchandising
+title: 'Capa de caché de 5 minutos al crear o eliminar reglas de merchandising'
 id: 2wNExsAu1fbeQujCKr6c93
 status: PUBLISHED
 createdAt: 2023-06-09T15:29:16.354Z

@@ -1,5 +1,5 @@
 ---
-title: Gerenciar Doca
+title: 'Gerenciar Doca'
 id: 7K3FultD8I2cuuA6iyGEiW
 status: PUBLISHED
 createdAt: 2017-08-03T14:22:38.666Z

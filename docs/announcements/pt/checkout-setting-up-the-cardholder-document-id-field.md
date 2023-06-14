@@ -1,5 +1,5 @@
 ---
-title: "Checkout - Configuração do campo de identificação do titular do cartão"
+title: 'Checkout - Configuração do campo de identificação do titular do cartão'
 id: R5Pz4ofU9ueB2e5bMhSWH
 status: PUBLISHED
 createdAt: 2022-04-29T12:21:40.419Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: checkout-configuracao-do-campo-de-identificacao-do-titular-do-cartao
 legacySlug: checkout-configuracao-do-campo-de-identificacao-do-titular-do-cartao
-announcementImageID: ""
-announcementSynopsisPT: Configurando a exibição do campo de identificação do titular do cartão no checkout.
+announcementImageID: ''
+announcementSynopsisPT: 'Configurando a exibição do campo de identificação do titular do cartão no checkout.'
 ---
 
 Para permitir que os nossos parceiros possam operar em diferentes localidades e regiões, cada qual com seus próprios requisitos e características de consumo, a VTEX está implementando a possibilidade de configurar de forma opcional a exibição do campo de **Identificação do titular do cartão** no Checkout. Desse modo, os provedores de antifraude e lojistas terão a autonomia de decidir se este tipo de informação deverá ser solicitada ou não do cliente, quando as compras forem realizadas por meio de cartão de crédito ou débito.
@@ -44,7 +44,7 @@ Para verificar se os provedores de antifraude configurados em sua loja permitem 
 2. Em **Pagamentos**, clique em **Configurações > Afiliações de Gateway**. 
 3. Ao selecionar o provedor de antifraude escolhido, verifique se a opção **Campo de documento do titular do cartão **está disponível na tela de configuração.
 
-![campo de documento do titular do cartão](https://images.ctfassets.net/alneenqid6w5/23Hyo1jo4hkC3nXPmOa7NW/5bbfb8cbfce605b09d61e10a8ff06e3b/campo_de_documento_do_titular_do_cart__o.png)
+![campo de documento do titular do cartão](//images.ctfassets.net/alneenqid6w5/23Hyo1jo4hkC3nXPmOa7NW/5bbfb8cbfce605b09d61e10a8ff06e3b/campo_de_documento_do_titular_do_cart__o.png)
 
 <div class = "alert alert-warning">
   Caso a opção <b>Campo de documento do titular do cartão</b> não esteja disponível na tela de configuração do seu provedor de antifraude, o campo <b>Identificação do titular do cartão</b> continuará sendo exibido na tela do Checkout da loja e deverá ser obrigatoriamente preenchido pelo cliente.

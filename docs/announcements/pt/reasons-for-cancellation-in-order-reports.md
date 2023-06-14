@@ -1,5 +1,5 @@
 ---
-title: "Razões de cancelamento no relatório de pedidos"
+title: 'Razões de cancelamento no relatório de pedidos'
 id: 46wIwISm6Df2LJgNePpFYK
 status: PUBLISHED
 createdAt: 2021-05-28T15:59:23.942Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: razoes-de-cancelamento-no-relatorio-de-pedidos
 legacySlug: razoes-de-cancelamento-no-relatorio-de-pedidos
-announcementImageID: ""
-announcementSynopsisPT: Acrescentamos a coluna Cancellation Data no relatório de pedidos para dar visibilidade sobre as razões de cancelamentos.
+announcementImageID: ''
+announcementSynopsisPT: 'Acrescentamos a coluna Cancellation Data no relatório de pedidos para dar visibilidade sobre as razões de cancelamentos.'
 ---
 
 Exportar relatórios de pedidos possibilita realizar ações externas como analisar o desempenho da loja e utilizar como romaneio para facilitar a logística.

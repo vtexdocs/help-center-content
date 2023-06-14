@@ -1,5 +1,5 @@
 ---
-title: Timeout API Get Account's Approval Settings
+title: 'Timeout API Get Account's Approval Settings'
 id: 5dalpuBbuRYXj5WSal8UqR
 status: PUBLISHED
 createdAt: 2023-03-16T19:26:12.430Z

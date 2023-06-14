@@ -1,5 +1,5 @@
 ---
-title: Inserir nota fiscal no pedido
+title: 'Inserir nota fiscal no pedido'
 id: tutorials_193
 status: DRAFT
 createdAt: 2017-04-27T22:14:57.365Z
@@ -18,7 +18,7 @@ Inserir a nota fiscal no pedido é um passo obrigatório para que o status passe
 
 Para fazer manualmente pelo **Gerenciamento de pedidos**, basta clicar no botão `Faturar pacote`, como na imagem abaixo.
 
-![faturar-pedido-ex pt](https://images.ctfassets.net/alneenqid6w5/1IOORyWRjC4eEayM8iW6OG/0e49ae3568ea66ed18b5b8ab6f90d414/ex_1_pt.png)
+![faturar-pedido-ex pt](//images.ctfassets.net/alneenqid6w5/1IOORyWRjC4eEayM8iW6OG/0e49ae3568ea66ed18b5b8ab6f90d414/ex_1_pt.png)
 
 Com a inserção da nota fiscal com o valor completo do pedido, o mesmo passará para o status **Faturado**.
 

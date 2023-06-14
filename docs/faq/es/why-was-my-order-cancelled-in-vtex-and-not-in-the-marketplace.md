@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué el pedido fue cancelado en la VTEX y no en el marketplace?
+title: '¿Por qué el pedido fue cancelado en la VTEX y no en el marketplace?'
 id: frequentlyAskedQuestions_678
 status: PUBLISHED
 createdAt: 2017-04-27T22:30:17.232Z

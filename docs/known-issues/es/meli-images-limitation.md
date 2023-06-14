@@ -1,5 +1,5 @@
 ---
-title: Limitación de imágenes MELI
+title: 'Limitación de imágenes MELI'
 id: 2jzecMrFmoiSkj8CRrfMmV
 status: PUBLISHED
 createdAt: 2022-05-03T16:26:39.310Z

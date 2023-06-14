@@ -1,5 +1,5 @@
 ---
-title: Herramientas para mejorar la performance de la tienda
+title: 'Herramientas para mejorar la performance de la tienda'
 id: tutorials_4852
 status: PUBLISHED
 createdAt: 2017-04-27T21:49:27.344Z

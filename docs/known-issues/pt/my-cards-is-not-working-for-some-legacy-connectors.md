@@ -1,5 +1,5 @@
 ---
-title: Meus Cartões não estão funcionando para alguns conectores legados
+title: 'Meus Cartões não estão funcionando para alguns conectores legados'
 id: Ln0mUfu3jDwcfndavSZkk
 status: PUBLISHED
 createdAt: 2022-05-28T12:03:48.090Z

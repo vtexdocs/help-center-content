@@ -1,5 +1,5 @@
 ---
-title: XML loads product price without SKU unit multiplier
+title: 'XML loads product price without SKU unit multiplier'
 id: 3B1Vi8l3gICcqKuqcAoKqI
 status: PUBLISHED
 createdAt: 2018-03-29T19:49:29.768Z

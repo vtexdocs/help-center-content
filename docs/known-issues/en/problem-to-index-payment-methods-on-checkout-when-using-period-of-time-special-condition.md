@@ -1,5 +1,5 @@
 ---
-title: Problem to index payment methods on checkout when using period of time special condition
+title: 'Problem to index payment methods on checkout when using period of time special condition'
 id: 1sM1ZtZw0GZ9TFuULg3Igd
 status: PUBLISHED
 createdAt: 2022-04-15T18:34:49.426Z

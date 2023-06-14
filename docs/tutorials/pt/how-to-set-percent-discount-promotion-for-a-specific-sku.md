@@ -1,5 +1,5 @@
 ---
-title: Configurar promoção de desconto percentual para um SKU específico
+title: 'Configurar promoção de desconto percentual para um SKU específico'
 id: 3rbh8ELSLu2IGCeQ6SImU0
 status: PUBLISHED
 createdAt: 2017-08-22T15:24:10.731Z

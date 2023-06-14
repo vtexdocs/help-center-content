@@ -1,5 +1,5 @@
 ---
-title: Bitrix24
+title: 'Bitrix24'
 id: 20sDDS5YuO4fqzRcqhsSeE
 status: PUBLISHED
 createdAt: 2022-08-30T19:05:44.679Z

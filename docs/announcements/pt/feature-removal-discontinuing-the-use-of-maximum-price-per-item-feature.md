@@ -1,5 +1,5 @@
 ---
-title: "Feature Removal: Descontinuação da feature de Preço Máximo por Item"
+title: 'Feature Removal: Descontinuação da feature de Preço Máximo por Item'
 id: 2sI7R4FgmWpmFdKSJSwJPW
 status: CHANGED
 createdAt: 2019-04-05T16:20:16.272Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 71cQH3Q0oKXzeY2DmMZRKX
 slug: feature-removal-descontinuacao-da-feature-de-preco-maximo-por-item
 legacySlug: feature-removal-descontinuacao-da-feature-de-preco-maximo-por-item
-announcementImageID: ""
-announcementSynopsisPT: Você pode utilizar a nova feature de Promoções por Tabela de Preço para atender aos cenários da feature descontinuada.
+announcementImageID: ''
+announcementSynopsisPT: 'Você pode utilizar a nova feature de Promoções por Tabela de Preço para atender aos cenários da feature descontinuada.'
 ---
 
 Anunciamos a descontinuação da feature de __Preço Máximo por Item__, do módulo de Promoções e Taxas, a partir do dia 17 de junho de 2019. Isso significa que, após esta data, novas promoções deste tipo não poderão mais ser criadas. __As promoções já existentes não serão impactadas, funcionando normalmente até suas datas de expiração__. Além disso, o upload massivo para promoções deste tipo não estará mais disponível a partir desta data.

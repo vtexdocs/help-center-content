@@ -1,5 +1,5 @@
 ---
-title: MercadoPagoV1 não autoriza transações quando se trata de valor 0 de dados de usuário do telefone.
+title: 'MercadoPagoV1 não autoriza transações quando se trata de valor 0 de dados de usuário do telefone.'
 id: 2C7ULAPQxqHjn8e1d0StFc
 status: PUBLISHED
 createdAt: 2023-03-27T15:35:09.810Z

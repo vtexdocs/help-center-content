@@ -1,5 +1,5 @@
 ---
-title: Magento
+title: 'Magento'
 id: 1iMKVFeQlj01PImQpvlKNP
 status: PUBLISHED
 createdAt: 2022-08-31T14:30:05.104Z

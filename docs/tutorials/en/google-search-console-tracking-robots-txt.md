@@ -1,5 +1,5 @@
 ---
-title: Google Search Console Tracking - robots.txt
+title: 'Google Search Console Tracking - robots.txt'
 id: tutorials_574
 status: PUBLISHED
 createdAt: 2017-04-27T22:00:09.026Z

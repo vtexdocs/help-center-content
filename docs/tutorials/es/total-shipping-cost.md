@@ -1,5 +1,5 @@
 ---
-title: Costo final del envío
+title: 'Costo final del envío'
 id: 5bwhIO108VA5Y2YOpef9lV
 status: PUBLISHED
 createdAt: 2021-08-25T12:30:32.699Z
@@ -30,7 +30,7 @@ Vea cómo se calcula cada tarifa:
 
 Así que, en general, el costo final del envío puede calcularse así:
 
-![Custo-final-envio-ES](https://images.ctfassets.net/alneenqid6w5/5qeoN5AQPvoWyOPcNW3J6q/48b3d941065ab47cb55c7b4590b993bd/Custo-final-envio-ES.svg)
+![Custo-final-envio-ES](//images.ctfassets.net/alneenqid6w5/5qeoN5AQPvoWyOPcNW3J6q/48b3d941065ab47cb55c7b4590b993bd/Custo-final-envio-ES.svg)
 
 <div class="alert alert-danger">
 Si el <b>adicional de precio</b> es inferior al <b>adicional de seguro,</b> la tarifa considerada es el adicional de seguro. El adicional de precio no se tomará en cuenta en el cálculo de la tarifa final.<p>

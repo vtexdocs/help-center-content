@@ -1,5 +1,5 @@
 ---
-title: problema do tipo delivery_contract_type - B2W
+title: 'problema do tipo delivery_contract_type - B2W'
 id: 3dVJMQcmbJOEK5Iibt9ZaA
 status: PUBLISHED
 createdAt: 2022-06-27T19:29:37.090Z

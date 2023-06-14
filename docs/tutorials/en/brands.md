@@ -1,5 +1,5 @@
 ---
-title: Seller Portal: Brands
+title: 'Seller Portal: Brands'
 id: 3QvNtxO57U0QPNOGutv7Sy
 status: PUBLISHED
 createdAt: 2021-11-25T14:17:52.986Z
@@ -16,7 +16,7 @@ subcategory: 4hisB47iAVZk4r3SEmMoG
 
 The **Brands** page allows you to view, manage and add brands on Seller Portal. To access the page on VTEX Admin, go to **Catalog** > **Brands**.
 
-![brands-en](https://images.ctfassets.net/alneenqid6w5/5fhVobFAoo4vZiNqjEIh8u/a5d64115e686cda5ebe5e11a8c8b7aa8/brands-en.PNG)
+![brands-en](//images.ctfassets.net/alneenqid6w5/5fhVobFAoo4vZiNqjEIh8u/a5d64115e686cda5ebe5e11a8c8b7aa8/brands-en.PNG)
 
 ## Creating a Brand
 To create a new brand, click on the `Create brand` button. Fill in the fields on the __New brand__ modal according to the information below.

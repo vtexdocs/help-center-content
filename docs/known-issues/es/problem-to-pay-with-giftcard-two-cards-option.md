@@ -1,5 +1,5 @@
 ---
-title: Problema para pagar con tarjeta regalo + opción de dos tarjetas
+title: 'Problema para pagar con tarjeta regalo + opción de dos tarjetas'
 id: azkOosXht4sgiDyYQ1qvo
 status: PUBLISHED
 createdAt: 2022-03-27T19:53:04.209Z

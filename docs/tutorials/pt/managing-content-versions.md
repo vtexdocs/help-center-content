@@ -1,5 +1,5 @@
 ---
-title: Gerenciando versões de conteúdo
+title: 'Gerenciando versões de conteúdo'
 id: 4loXo98CZncY0NnjKrScbG
 status: PUBLISHED
 createdAt: 2021-10-28T16:11:05.023Z

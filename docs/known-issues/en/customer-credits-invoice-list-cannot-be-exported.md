@@ -1,5 +1,5 @@
 ---
-title: Customer Credit's invoice list cannot be exported
+title: 'Customer Credit's invoice list cannot be exported'
 id: 1n3CkkAyQ1n4bdxXC7S0yH
 status: PUBLISHED
 createdAt: 2022-03-27T14:26:44.668Z

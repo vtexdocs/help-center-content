@@ -1,5 +1,5 @@
 ---
-title: Inestabilidad en el botón para elegir entre recoger y recibir el pedido
+title: 'Inestabilidad en el botón para elegir entre recoger y recibir el pedido'
 id: 54pnP8pZGWSo2VZKhOLBKC
 status: PUBLISHED
 createdAt: 2021-09-08T17:53:29.698Z

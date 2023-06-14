@@ -1,5 +1,5 @@
 ---
-title: Não considerando a moeda personalizada no formato
+title: 'Não considerando a moeda personalizada no formato'
 id: 6uzuilnzwSZ4oQBJqqoZmd
 status: PUBLISHED
 createdAt: 2023-01-19T15:45:59.663Z

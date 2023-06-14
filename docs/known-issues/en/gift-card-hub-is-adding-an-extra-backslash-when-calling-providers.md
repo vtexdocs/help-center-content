@@ -1,5 +1,5 @@
 ---
-title: Gift Card hub is adding an extra backslash ("/") when calling providers.
+title: 'Gift Card hub is adding an extra backslash ("/") when calling providers.'
 id: 2ZstMKKGUbrdXGuhS2Rr1f
 status: PUBLISHED
 createdAt: 2022-09-30T21:07:47.856Z

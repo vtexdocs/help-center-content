@@ -1,5 +1,5 @@
 ---
-title: Minicart no muestra las especificaciones de las SKU en el escenario B2B
+title: 'Minicart no muestra las especificaciones de las SKU en el escenario B2B'
 id: 4eOpxrLEkyHyobCDuWzsMK
 status: PUBLISHED
 createdAt: 2022-10-27T19:11:58.877Z

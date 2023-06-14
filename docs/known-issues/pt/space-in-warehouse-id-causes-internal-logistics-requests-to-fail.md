@@ -1,5 +1,5 @@
 ---
-title: O espaço na identificação do armazém faz com que os pedidos logísticos internos falhem
+title: 'O espaço na identificação do armazém faz com que os pedidos logísticos internos falhem'
 id: M8SsnABs2HgYsUvNnjCFx
 status: PUBLISHED
 createdAt: 2022-09-20T21:51:05.157Z

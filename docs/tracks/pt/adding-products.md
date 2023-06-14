@@ -1,5 +1,5 @@
 ---
-title: Cadastrar Produto
+title: 'Cadastrar Produto'
 id: 1ROhz3Y7mfSMmCO1I1GxEL
 status: PUBLISHED
 createdAt: 2019-05-21T20:07:43.400Z
@@ -29,7 +29,7 @@ No Admin VTEX, siga os passos abaixo.
 4. Preencha os campos do formulário de produto. Para entender melhor o significado de cada campo, acesse nosso artigo sobre os [campos de cadastro de produto](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke).
 5. Clique em `Salvar` ou `Salvar e Cadastrar novo SKU`, caso queira adicionar SKUs associados a esse produto.
 
-![Catalogo - Cadastrar produto PT](https://images.ctfassets.net/alneenqid6w5/bdIAqfM86PlhwB3and8rX/48c5f7c1aa60306d9bdc114e1464c0aa/Catalogo_-_Cadastrar_produto_PT.gif)
+![Catalogo - Cadastrar produto PT](//images.ctfassets.net/alneenqid6w5/bdIAqfM86PlhwB3and8rX/48c5f7c1aa60306d9bdc114e1464c0aa/Catalogo_-_Cadastrar_produto_PT.gif)
 
 ## Planilha
 

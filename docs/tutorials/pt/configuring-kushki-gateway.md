@@ -1,5 +1,5 @@
 ---
-title: Configurar gateway Kushki
+title: 'Configurar gateway Kushki'
 id: 69VC8nQMkEE0yu8oIyG2wG
 status: PUBLISHED
 createdAt: 2018-04-24T15:50:00.468Z

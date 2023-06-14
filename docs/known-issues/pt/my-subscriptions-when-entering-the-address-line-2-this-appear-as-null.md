@@ -1,5 +1,5 @@
 ---
-title: Minhas assinaturas Ao entrar na linha de endereço 2 isto aparece como nulo
+title: 'Minhas assinaturas Ao entrar na linha de endereço 2 isto aparece como nulo'
 id: 1VbFyW5rQcfUSEJgKphrqb
 status: PUBLISHED
 createdAt: 2022-05-30T13:50:13.717Z

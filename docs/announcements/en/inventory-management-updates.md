@@ -1,5 +1,5 @@
 ---
-title: "Inventory management updates"
+title: 'Inventory management updates'
 id: S6Ag6t4mXoixQdJJVsHpm
 status: PUBLISHED
 createdAt: 2021-05-12T10:50:57.835Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: inventory-management-updates
 legacySlug: inventory-management-updates
-announcementImageID: ""
-announcementSynopsisEN: The Inventory tab in the Inventory & Shipping module is now Inventory management, and interface has also changed
+announcementImageID: ''
+announcementSynopsisEN: 'The Inventory tab in the Inventory & Shipping module is now Inventory management, and interface has also changed'
 ---
 
 

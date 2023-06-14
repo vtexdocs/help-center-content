@@ -1,5 +1,5 @@
 ---
-title: Validação de anexos obrigatórios no carrinho da loja
+title: 'Validação de anexos obrigatórios no carrinho da loja'
 id: 5im16SzH3qkyeGCUW4UC2M
 status: PUBLISHED
 createdAt: 2018-10-10T17:35:48.675Z

@@ -1,5 +1,5 @@
 ---
-title: "Access Google's PageSpeed Insights in your VTEX Admin"
+title: 'Access Google's PageSpeed Insights in your VTEX Admin'
 id: 5rLPGgLfLqg8Ss0W79WS7c
 status: PUBLISHED
 createdAt: 2022-06-29T19:09:51.629Z
@@ -10,8 +10,8 @@ productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: access-googles-pagespeed-insights-in-your-vtex-admin
 legacySlug: access-googles-pagespeed-insights-in-your-vtex-admin
-announcementImageID: ""
-announcementSynopsisEN: Assess URL's performance through the new Webpage Performance screen, based on Google's PageSpeed Insights tool.
+announcementImageID: ''
+announcementSynopsisEN: 'Assess URL's performance through the new Webpage Performance screen, based on Google's PageSpeed Insights tool.'
 ---
 
 In the digital commerce market, providing an experience that does not allow the shopper to wait too long to find the information they need or to complete an order can be the competitive advantage between brands, racing for the same user's attention. Therefore, tracking your website's performance is important to measure and improve user experience, leading to a potential increase in sales.
@@ -20,7 +20,7 @@ This is why we created the new [Web Page Performance](https://help.vtex.com/en/v
 
 PageSpeed Insights and Lighthouse are tools developed by Google to report on the user experience of a page on both mobile and desktop devices, providing suggestions on how that page may be improved. They use [Google's Core Web Vitals](https://web.dev/vitals/#core-web-vitals) as metrics to assess online user experience. 
 
-![Web page performance Dash EN](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/access-googles-pagespeed-insights-in-your-vtex-admin-0.png)
+![Web page performance Dash EN](//images.ctfassets.net/alneenqid6w5/4EHCyrE0JQxGgxhk1YVdMY/83d8891b5441de2d1c4c36b9b4c00317/Screen_Shot_2022-06-29_at_15.49.56.png)
 
 ## What has changed?
 

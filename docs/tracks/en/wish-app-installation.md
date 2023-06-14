@@ -1,5 +1,5 @@
 ---
-title: Wish app installation
+title: 'Wish app installation'
 id: 5sany6F7MOsEfmjuG5zIvl
 status: PUBLISHED
 createdAt: 2019-11-18T13:38:45.828Z

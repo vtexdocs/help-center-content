@@ -1,5 +1,5 @@
 ---
-title: Precios restringidos a un valor máximo de "Int32" en las APIs de pago
+title: 'Precios restringidos a un valor máximo de "Int32" en las APIs de pago'
 id: 5mzOjCUYs7vXUkttbsK0za
 status: PUBLISHED
 createdAt: 2022-04-25T17:28:05.159Z

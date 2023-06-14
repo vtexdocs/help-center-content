@@ -1,5 +1,5 @@
 ---
-title: Os textos do controle Avise-me não estão sendo traduzidos
+title: 'Os textos do controle Avise-me não estão sendo traduzidos'
 id: 4UXWf34IXNVAEKgH4hQLTx
 status: PUBLISHED
 createdAt: 2022-02-03T17:18:23.078Z

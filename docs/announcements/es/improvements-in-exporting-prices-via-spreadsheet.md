@@ -1,5 +1,5 @@
 ---
-title: "Mejoras a la exportación de precios con una plantilla"
+title: 'Mejoras a la exportación de precios con una plantilla'
 id: 7L4mGhB2AwkWZD2kelgiIJ
 status: PUBLISHED
 createdAt: 2023-01-13T21:36:13.340Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: mejoras-a-la-exportacion-de-precios-con-una-plantilla
 legacySlug: mejoras-a-la-exportacion-de-precios-con-una-plantilla
-announcementImageID: ""
-announcementSynopsisES: Actualizamos el proceso de exportación con una plantilla para dar más visibilidad a los clientes.
+announcementImageID: ''
+announcementSynopsisES: 'Actualizamos el proceso de exportación con una plantilla para dar más visibilidad a los clientes.'
 ---
 
 En el comercio digital, los administradores de la tienda suelen actualizar los precios frecuentemente para mantener la competitividad de un producto. Mientras más rápida sea la modificación de los precios, mayor será la probabilidad de conversión de la compra.
@@ -24,7 +24,7 @@ En VTEX, puedes cambiar el precio varias veces al día según la estrategia de t
 
 El registro con una plantilla se realiza en dos etapas: exportación e importación. Se ha mejorado la experiencia de exportación de precios con nuevas funcionalidades para dar más visibilidad al usuario del status de cada plantilla de exportación de precios.
 
-![exportacao es](https://images.ctfassets.net/alneenqid6w5/2w6DG43n73r48D3pM6OmXa/0f70f35ceb6f562f16f40346e4e046cb/exportacao_es.gif)
+![exportacao es](//images.ctfassets.net/alneenqid6w5/2w6DG43n73r48D3pM6OmXa/0f70f35ceb6f562f16f40346e4e046cb/exportacao_es.gif)
 
 ## ¿Qué cambió?
 

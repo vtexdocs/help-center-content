@@ -1,5 +1,5 @@
 ---
-title: Limitar compras a um meio de pagamento por meio de customização do Checkout
+title: 'Limitar compras a um meio de pagamento por meio de customização do Checkout'
 id: 14Z3W5xlHyeSGkSmGyOIEi
 status: DRAFT
 createdAt: 2017-08-18T14:11:04.138Z

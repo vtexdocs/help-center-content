@@ -1,5 +1,5 @@
 ---
-title: How is shipping cost calculated when there's an item with shipping benefit on the cart?
+title: 'How is shipping cost calculated when there's an item with shipping benefit on the cart?'
 id: 3EaQjxkErC6OKAWCWYSMiw
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:34.018Z

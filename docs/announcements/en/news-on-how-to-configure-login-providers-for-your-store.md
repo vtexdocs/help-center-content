@@ -1,5 +1,5 @@
 ---
-title: "News on how to configure login providers for your store"
+title: 'News on how to configure login providers for your store'
 id: 6tP4uxQJ0BdnDw38hmyeOW
 status: CHANGED
 createdAt: 2020-10-06T17:50:13.106Z
@@ -10,8 +10,8 @@ productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: news-on-how-to-configure-login-providers-for-your-store
 legacySlug: news-on-how-to-configure-login-providers-for-your-store
-announcementImageID: ""
-announcementSynopsisEN: News on how to configure login providers for your store
+announcementImageID: ''
+announcementSynopsisEN: 'News on how to configure login providers for your store'
 ---
 
 The login providers configuration screen in your VTEX store admin has a new interface. As of October 21st, you will be able to access the new interface in **Account Settings** > **Authentication** in your admin menu. For more information, read [this article](https://help.vtex.com/en/tutorial/integracao-google-e-facebook-para-login--tutorials_513 "Configure login with Facebook and Google").

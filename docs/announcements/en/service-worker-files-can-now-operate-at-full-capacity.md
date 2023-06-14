@@ -1,5 +1,5 @@
 ---
-title: "Service Worker files can now operate at full capacity"
+title: 'Service Worker files can now operate at full capacity'
 id: 5RuFcktluMeYWYWKww4au2
 status: PUBLISHED
 createdAt: 2018-03-15T18:22:49.955Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: authors_24
 slug: service-worker-files-can-now-operate-at-full-capacity
 legacySlug: service-worker-files-can-now-operate-at-full-capacity
-announcementImageID: ""
-announcementSynopsisEN: In this new platform update, Service Worker files can now intercept requests from all parts of your store.
+announcementImageID: ''
+announcementSynopsisEN: 'In this new platform update, Service Worker files can now intercept requests from all parts of your store.'
 ---
 
 __Service Worker__ files now can intercept requests from all parts of your store. While this script had limited permissions in the past, we now included the `Service-Worker-Allowed` header along with the value `/`, so it can perform in all it's potential. This means that your website now has all the necessary resources to implement periodic syncing, push notifications and even offline mode.

@@ -1,5 +1,5 @@
 ---
-title: "Transitioning API integrations to HTTPS / TLS 1.2"
+title: 'Transitioning API integrations to HTTPS / TLS 1.2'
 id: 50H4bHnV1uk2GCY3CaJBXo
 status: CHANGED
 createdAt: 2020-07-10T20:32:32.971Z
@@ -10,8 +10,8 @@ productTeam: Reliability
 author: 127RQ7SUoFfyTh5gbXUpdM
 slug: transitioning-api-integrations-to-https-tls-1-2
 legacySlug: transitioning-api-integrations-to-https-tls-1-2
-announcementImageID: ""
-announcementSynopsisEN: In the upcoming months, we will phase out support for all HTTP connections to improve the security of our platform.
+announcementImageID: ''
+announcementSynopsisEN: 'In the upcoming months, we will phase out support for all HTTP connections to improve the security of our platform.'
 ---
 
 As part of our continued commitment to adopt global security and privacy standards, we will phase out support for all HTTP connections in the upcoming months. 

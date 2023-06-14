@@ -1,5 +1,5 @@
 ---
-title: Qué son puntos de recogida
+title: 'Qué son puntos de recogida'
 id: 2qLF1wwe22twh5xgHrT9v4
 status: DRAFT
 createdAt: 2019-09-03T12:59:31.830Z

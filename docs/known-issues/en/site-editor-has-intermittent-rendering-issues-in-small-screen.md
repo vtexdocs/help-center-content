@@ -1,5 +1,5 @@
 ---
-title: Site Editor has intermittent rendering issues in small screen
+title: 'Site Editor has intermittent rendering issues in small screen'
 id: 4BGdkeP5IZ9NfFwxIXuDAr
 status: PUBLISHED
 createdAt: 2022-04-19T14:30:17.468Z

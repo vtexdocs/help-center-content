@@ -1,5 +1,5 @@
 ---
-title: Consider map parameter in the creation of canonical tag
+title: 'Consider map parameter in the creation of canonical tag'
 id: ilHxRrPwliYiaGKaqQecE
 status: PUBLISHED
 createdAt: 2017-05-09T15:51:15.454Z

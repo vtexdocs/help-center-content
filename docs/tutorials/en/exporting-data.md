@@ -1,5 +1,5 @@
 ---
-title: Exporting data from Master Data v1
+title: 'Exporting data from Master Data v1'
 id: tutorials_1125
 status: PUBLISHED
 createdAt: 2017-04-27T21:57:19.601Z
@@ -25,7 +25,7 @@ Exporting data from Master Data is not an immediate operation, and its execution
 1. In the VTEX Admin, access **Store Settings** > **Storefront** > **Master Data.**
 2. Click on the **Aplicações** tab.
 3. Click on **visualizar** in the intended form.
-![visualizar button master data](https://images.ctfassets.net/alneenqid6w5/2x1xCx4tEeV6eMPy4VRFpE/0e59f11450a93765e037da555f8d6c09/visualizar_button_export_data.png)
+![visualizar button master data](//images.ctfassets.net/alneenqid6w5/2x1xCx4tEeV6eMPy4VRFpE/0e59f11450a93765e037da555f8d6c09/visualizar_button_export_data.png)
 4. The list of the form selected will be uploaded.
 5. Click on the **Exportar XLS** button.
 6. Select the fields that you want to see in the report.

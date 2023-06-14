@@ -1,5 +1,5 @@
 ---
-title: La paginación de los valores de los campos de la Búsqueda Inteligente está limitada a 9.999 elementos
+title: 'La paginación de los valores de los campos de la Búsqueda Inteligente está limitada a 9.999 elementos'
 id: 1AH9HOWWqOnENncdxIBszv
 status: PUBLISHED
 createdAt: 2022-03-21T17:42:26.464Z

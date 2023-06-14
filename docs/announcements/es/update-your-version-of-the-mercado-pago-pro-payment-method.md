@@ -1,5 +1,5 @@
 ---
-title: "Mercado Pago Pro: actualice la versión del medio de pago"
+title: 'Mercado Pago Pro: actualice la versión del medio de pago'
 id: 3dEciFxBFjH5yoQWdRtzTj
 status: PUBLISHED
 createdAt: 2020-11-23T10:39:05.840Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: mercado-pago-pro-actualice-la-version-del-medio-de-pago
 legacySlug: mercado-pago-pro-actualice-la-version-del-medio-de-pago
-announcementImageID: ""
-announcementSynopsisES: La solución se actualizó para finalizar compras sin redirección.
+announcementImageID: ''
+announcementSynopsisES: 'La solución se actualizó para finalizar compras sin redirección.'
 ---
 
 Mercado Pago Pro es uno de los medios de pago ofrecidos por la cartera digital Mercado Pago. A través de este, el consumidor puede finalizar una compra en Checkout sin necesidad de iniciar sesión en su cuenta. 

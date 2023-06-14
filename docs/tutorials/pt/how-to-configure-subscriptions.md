@@ -1,5 +1,5 @@
 ---
-title: Como configurar Assinaturas na sua loja
+title: 'Como configurar Assinaturas na sua loja'
 id: 1FA9dfE7vJqxBna9Nft5Sj
 status: PUBLISHED
 createdAt: 2019-01-31T16:00:03.228Z

@@ -1,5 +1,5 @@
 ---
-title: MyCredits tem um erro ao acessar de uma conta dependente
+title: 'MyCredits tem um erro ao acessar de uma conta dependente'
 id: 6QJWAD7Q2PSEMsmZYXqMag
 status: PUBLISHED
 createdAt: 2022-03-27T16:19:47.411Z

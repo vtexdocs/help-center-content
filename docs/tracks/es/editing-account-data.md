@@ -1,5 +1,5 @@
 ---
-title: Editar datos de la cuenta
+title: 'Editar datos de la cuenta'
 id: 5VRxRGssiWvKCA235rHiD9
 status: PUBLISHED
 createdAt: 2020-01-07T14:49:30.841Z

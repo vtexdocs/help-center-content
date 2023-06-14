@@ -1,5 +1,5 @@
 ---
-title: Peso cadastrado no kit via API não é visível na interface
+title: 'Peso cadastrado no kit via API não é visível na interface'
 id: 3pXAznG51YoUquomEmaeUi
 status: PUBLISHED
 createdAt: 2018-08-06T22:31:30.571Z

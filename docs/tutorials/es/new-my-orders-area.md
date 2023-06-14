@@ -1,5 +1,5 @@
 ---
-title: Nueva Sección de Mis Pedidos
+title: 'Nueva Sección de Mis Pedidos'
 id: 2WYPDPojbaAWmqSiqAyewg
 status: DRAFT
 createdAt: 2017-05-03T20:07:13.624Z

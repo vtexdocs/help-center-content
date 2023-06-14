@@ -1,5 +1,5 @@
 ---
-title: "New events available in the Audit module"
+title: 'New events available in the Audit module'
 id: 36HT3LaI5wORvV9uaDKCwy
 status: PUBLISHED
 createdAt: 2023-04-18T20:01:44.458Z
@@ -10,8 +10,8 @@ productTeam: Master Data
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: new-events-available-in-the-audit-module
 legacySlug: new-events-available-in-the-audit-module
-announcementImageID: ""
-announcementSynopsisEN: Audit is making available new events related to the VTEX ID, License manager, and Pricing modules.
+announcementImageID: ''
+announcementSynopsisEN: 'Audit is making available new events related to the VTEX ID, License manager, and Pricing modules.'
 ---
 
 [Audit](https://help.vtex.com/en/tutorial/searching-for-events-on-audit--5RXf9WJ5YLFBcS8q8KcxTA) is a module that tracks events happening in your VTEX store, enabling future auditing. VTEX has improved Audit, which now tracks a broader range of events.

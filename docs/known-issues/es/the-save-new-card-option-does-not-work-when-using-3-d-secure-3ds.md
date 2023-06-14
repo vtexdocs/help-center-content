@@ -1,5 +1,5 @@
 ---
-title: ‘Guardar tarjeta’ no funciona al usar la autenticación 3DS
+title: '‘Guardar tarjeta’ no funciona al usar la autenticación 3DS'
 id: 20INELA5LVhY1XqFWG7047
 status: PUBLISHED
 createdAt: 2021-06-15T17:10:05.803Z

@@ -1,5 +1,5 @@
 ---
-title: As opções de pontos de retirada na caixa mostram até mesmo opções inativas ou inválidas
+title: 'As opções de pontos de retirada na caixa mostram até mesmo opções inativas ou inválidas'
 id: 4LF45BWQxDh6r7Bk7chu4P
 status: PUBLISHED
 createdAt: 2022-05-31T18:07:23.568Z

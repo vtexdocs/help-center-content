@@ -1,5 +1,5 @@
 ---
-title: "Feature VTEX para usar la Mensajería del MercadoLibre"
+title: 'Feature VTEX para usar la Mensajería del MercadoLibre'
 id: 3mcC2l7NNYKagwcOOM66MI
 status: PUBLISHED
 createdAt: 2018-07-05T12:29:20.974Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: authors_24
 slug: feature-vtex-para-usar-la-mensajeria-del-mercadolibre
 legacySlug: feature-vtex-para-usar-la-mensajeria-del-mercadolibre
-announcementImageID: ""
-announcementSynopsisES: Ahora, usted puede comunicar actualizaciones en el estado del pedido usando el servicio de mensajes de Mercado Libre.
+announcementImageID: ''
+announcementSynopsisES: 'Ahora, usted puede comunicar actualizaciones en el estado del pedido usando el servicio de mensajes de Mercado Libre.'
 ---
 
 VTEX ha desarrollado una nueva feature para soportar la Mensajería, el servicio de mensajes de Mercado Libre. Ahora, los datos de las solicitudes se pueden utilizar por la funcionalidad del marketplace para notificar a sus clientes.

@@ -1,5 +1,5 @@
 ---
-title: En las páginas de pedidos de lista, la exportación de pedidos no funciona cuando el filtro seleccionado tiene caracteres especiales
+title: 'En las páginas de pedidos de lista, la exportación de pedidos no funciona cuando el filtro seleccionado tiene caracteres especiales'
 id: 2eA1rykmTHxhUsiCQmeNoA
 status: PUBLISHED
 createdAt: 2022-09-21T17:54:38.517Z

@@ -1,5 +1,5 @@
 ---
-title: Configuring Stripe gateway affiliation
+title: 'Configuring Stripe gateway affiliation'
 id: fwF2wk2FQKrODrWWkvSLO
 status: PUBLISHED
 createdAt: 2021-10-25T16:01:40.789Z

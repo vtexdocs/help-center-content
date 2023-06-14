@@ -1,5 +1,5 @@
 ---
-title: "Old versions of the VTEX ID script will be deprecated"
+title: 'Old versions of the VTEX ID script will be deprecated'
 id: 1IHQ2NS5McYgKySOmyEmgU
 status: PUBLISHED
 createdAt: 2018-03-19T21:14:22.078Z
@@ -10,8 +10,8 @@ productTeam: Identity
 author: authors_24
 slug: old-versions-of-the-vtex-id-script-will-be-deprecated
 legacySlug: old-versions-of-the-vtex-id-script-will-be-deprecated
-announcementImageID: ""
-announcementSynopsisEN: Starting May 21st, only the latest version of the VTEX ID script will be supported by the platform.
+announcementImageID: ''
+announcementSynopsisEN: 'Starting May 21st, only the latest version of the VTEX ID script will be supported by the platform.'
 ---
 
 Using outdated versions of the VTEX ID script leaves your store vulnerable to security breaches already fixed by newer versions. To prevent this, we decided to only keep support for the script's latest version, deprecating all others. This process will take place in stages, according to the schedule below: 

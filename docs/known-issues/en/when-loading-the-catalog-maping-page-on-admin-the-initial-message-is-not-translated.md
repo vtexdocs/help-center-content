@@ -1,5 +1,5 @@
 ---
-title: When loading the "Catalog Maping" page on admin the initial message is not translated
+title: 'When loading the "Catalog Maping" page on admin the initial message is not translated'
 id: 4WszmRZ5jpeSDNTEuFIdwF
 status: PUBLISHED
 createdAt: 2022-12-15T12:32:17.741Z

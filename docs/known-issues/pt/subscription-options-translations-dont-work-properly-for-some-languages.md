@@ -1,5 +1,5 @@
 ---
-title: As opções de assinatura de tradução não funcionam corretamente para alguns idiomas
+title: 'As opções de assinatura de tradução não funcionam corretamente para alguns idiomas'
 id: 6trVpxFrfpMIibospU2scp
 status: PUBLISHED
 createdAt: 2023-04-10T16:46:34.794Z

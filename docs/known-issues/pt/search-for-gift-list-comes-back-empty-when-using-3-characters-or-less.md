@@ -1,5 +1,5 @@
 ---
-title: Busca por lista de presente não retorna resultado quando é aplicada com 3 ou menos caracteres
+title: 'Busca por lista de presente não retorna resultado quando é aplicada com 3 ou menos caracteres'
 id: 3CcMnzSpUQcUaG4wkm2ay2
 status: PUBLISHED
 createdAt: 2018-02-08T17:25:13.152Z

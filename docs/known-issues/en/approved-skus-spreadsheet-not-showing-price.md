@@ -1,5 +1,5 @@
 ---
-title: Approved Skus Spreadsheet not showing price
+title: 'Approved Skus Spreadsheet not showing price'
 id: 3nWwzGYX1Ys0rKkoSZZpdz
 status: PUBLISHED
 createdAt: 2022-03-29T19:22:12.977Z

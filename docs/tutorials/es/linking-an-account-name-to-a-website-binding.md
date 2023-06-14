@@ -1,5 +1,5 @@
 ---
-title: Vincular una tienda a una estructura de carpetas en CMS (binding)
+title: 'Vincular una tienda a una estructura de carpetas en CMS (binding)'
 id: PxjfleOw6suCSO2uGWMMs
 status: PUBLISHED
 createdAt: 2018-01-10T13:47:05.447Z

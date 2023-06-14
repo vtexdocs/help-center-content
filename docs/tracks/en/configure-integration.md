@@ -1,5 +1,5 @@
 ---
-title: Configure integration
+title: 'Configure integration'
 id: 3tZ4qVuMDDsC2jx2DCmjdA
 status: PUBLISHED
 createdAt: 2021-03-16T20:17:00.970Z

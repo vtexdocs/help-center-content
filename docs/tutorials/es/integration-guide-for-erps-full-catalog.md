@@ -1,5 +1,5 @@
 ---
-title: Guía de integración de ERPs - Catálogo Completo
+title: 'Guía de integración de ERPs - Catálogo Completo'
 id: 52MjNKpqAouKC8u4Ca0YWS
 status: DRAFT
 createdAt: 2017-09-11T22:53:06.410Z

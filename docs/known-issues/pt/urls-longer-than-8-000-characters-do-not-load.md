@@ -1,5 +1,5 @@
 ---
-title: URLs acima de 8 mil caracteres não carregam
+title: 'URLs acima de 8 mil caracteres não carregam'
 id: 3tZpUf9X428GQNCaIa24hX
 status: PUBLISHED
 createdAt: 2021-07-26T13:08:22.992Z

@@ -1,5 +1,5 @@
 ---
-title: A rota /_search do sistema de cartões-presente intermitentemente não devolve comprovantes quando o cabeçalho da faixa REST é inferior a 10.
+title: 'A rota /_search do sistema de cartões-presente intermitentemente não devolve comprovantes quando o cabeçalho da faixa REST é inferior a 10.'
 id: 1WgbuMggOFUYFm2HseAxnd
 status: PUBLISHED
 createdAt: 2023-03-13T22:29:35.009Z

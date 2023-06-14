@@ -1,5 +1,5 @@
 ---
-title: Promoção regular com uso de filtros de valor no carrinho
+title: 'Promoção regular com uso de filtros de valor no carrinho'
 id: oUDvaZPL0fjbN3v18QQIM
 status: PUBLISHED
 createdAt: 2022-07-25T19:29:19.209Z

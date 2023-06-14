@@ -1,5 +1,5 @@
 ---
-title: "Get to know Cartman: the new Checkout investigation tool"
+title: 'Get to know Cartman: the new Checkout investigation tool'
 id: 2n8eNuBTvlHI0D1oUOny72
 status: CHANGED
 createdAt: 2019-09-03T15:02:52.505Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: get-to-know-cartman-the-new-checkout-investigation-tool
 legacySlug: get-to-know-cartman-the-new-checkout-investigation-tool
-announcementImageID: ""
-announcementSynopsisEN: Cartman is a tool that simulates, shares and investigates carts, enabling the investigation of Checkout scenarios
+announcementImageID: ''
+announcementSynopsisEN: 'Cartman is a tool that simulates, shares and investigates carts, enabling the investigation of Checkout scenarios'
 ---
 
 Cartman is a tool that simulates, shares and investigates carts. 

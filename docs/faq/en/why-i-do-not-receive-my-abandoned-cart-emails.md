@@ -1,5 +1,5 @@
 ---
-title: Why I don't receive my abandoned cart emails?
+title: 'Why I don't receive my abandoned cart emails?'
 id: 5ERWuLh9ajnTiHuRSsNje3
 status: PUBLISHED
 createdAt: 2019-03-15T16:46:36.370Z

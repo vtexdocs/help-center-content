@@ -1,5 +1,5 @@
 ---
-title: Fulfillment y logística en VTEX
+title: 'Fulfillment y logística en VTEX'
 id: 53udnvI5eBy8DKo8FOjMoP
 status: PUBLISHED
 createdAt: 2022-01-05T21:24:22.705Z
@@ -46,7 +46,7 @@ Para saber qué configuraciones logísticas son necesarias y cómo realizarlas, 
 <div class = "alert alert-info">Ten en cuenta que el proceso de envío dependerá de la configuración realizada en la plataforma. Aquí presentamos los escenarios para cada tipo de envío (entrega y recogida), pero hay otros flujos posibles en el proceso de envío. Por ejemplo, cuando se realiza el envío por recogida y el almacén coincide con el punto de recogida, no es necesario transportar los paquetes entre estos lugares.
 </div>
 
-![Envio ES](https://images.ctfassets.net/alneenqid6w5/2e2f4toAiFamlcXlAQfC3h/b45650074aea4947a048e8140434fa46/Envio_ES.svg)
+![Envio ES](//images.ctfassets.net/alneenqid6w5/2e2f4toAiFamlcXlAQfC3h/b45650074aea4947a048e8140434fa46/Envio_ES.svg)
 ## Configuración del proceso logístico
 
 El proceso logístico debe configurarse según las necesidades de tu tienda. Estas configuraciones se hacen en el módulo **Envío**. Mira las funcionalidades disponibles en el módulo y cómo afecta cada una de ellas a tu negocio:

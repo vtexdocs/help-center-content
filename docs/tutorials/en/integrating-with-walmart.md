@@ -1,5 +1,5 @@
 ---
-title: Integrating with Walmart
+title: 'Integrating with Walmart'
 id: tutorials_420
 status: DRAFT
 createdAt: 2017-04-27T22:05:57.794Z

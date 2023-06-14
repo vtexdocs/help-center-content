@@ -1,5 +1,5 @@
 ---
-title: A IU de Transação tem atualmente uma limitação onde não pode exibir logs de/interações se a carga útil exceder 5000 linhas.
+title: 'A IU de Transação tem atualmente uma limitação onde não pode exibir logs de/interações se a carga útil exceder 5000 linhas.'
 id: 1hfRLo1OBLqlsR70Os9J7L
 status: PUBLISHED
 createdAt: 2023-03-27T13:40:46.551Z

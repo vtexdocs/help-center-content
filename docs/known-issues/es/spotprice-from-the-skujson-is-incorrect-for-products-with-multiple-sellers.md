@@ -1,5 +1,5 @@
 ---
-title: El precio al contado del skuJson es incorrecto para los productos con múltiples vendedores
+title: 'El precio al contado del skuJson es incorrecto para los productos con múltiples vendedores'
 id: 6rgLJCE1DYPXZj1Pqt6hA2
 status: PUBLISHED
 createdAt: 2022-02-24T15:32:40.223Z

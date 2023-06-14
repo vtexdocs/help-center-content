@@ -1,5 +1,5 @@
 ---
-title: Arredondamento de Preços- Definição de conceito
+title: 'Arredondamento de Preços- Definição de conceito'
 id: 1tUIUvF6BUkDgMsknGaMkF
 status: PUBLISHED
 createdAt: 2019-07-04T13:53:48.537Z

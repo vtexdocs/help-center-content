@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Pine Labs
+title: 'Configurar pagamento com Pine Labs'
 id: 6cmZ0Qs9HUpN7AUBZQDmc0
 status: PUBLISHED
 createdAt: 2023-04-03T17:01:53.868Z

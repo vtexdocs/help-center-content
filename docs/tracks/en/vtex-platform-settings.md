@@ -1,5 +1,5 @@
 ---
-title: VTEX platform settings
+title: 'VTEX platform settings'
 id: 37hdzaRUhJqRfXH1bIRXAa
 status: PUBLISHED
 createdAt: 2019-02-28T23:02:24.211Z

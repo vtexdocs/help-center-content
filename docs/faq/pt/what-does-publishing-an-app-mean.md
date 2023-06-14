@@ -1,5 +1,5 @@
 ---
-title: O que significa publicar uma app?
+title: 'O que significa publicar uma app?'
 id: 7ZGE5XE5pKM8OIWqIkIk4
 status: DRAFT
 createdAt: 2018-02-22T01:43:06.248Z

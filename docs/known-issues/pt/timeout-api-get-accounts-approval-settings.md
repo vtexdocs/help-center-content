@@ -1,5 +1,5 @@
 ---
-title: Tempo esgotado API Obter configurações de aprovação de conta
+title: 'Tempo esgotado API Obter configurações de aprovação de conta'
 id: 5dalpuBbuRYXj5WSal8UqR
 status: PUBLISHED
 createdAt: 2023-03-16T19:26:12.430Z

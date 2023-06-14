@@ -1,5 +1,5 @@
 ---
-title: La eliminación de colecciones en el nuevo administrador no reincide en los productos
+title: 'La eliminación de colecciones en el nuevo administrador no reincide en los productos'
 id: 33abWd1ApVTwPKdaxqgKPm
 status: PUBLISHED
 createdAt: 2022-06-28T16:56:28.134Z

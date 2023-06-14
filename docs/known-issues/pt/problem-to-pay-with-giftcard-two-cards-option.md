@@ -1,5 +1,5 @@
 ---
-title: Problema para pagar com Giftcard + opção de dois cartões
+title: 'Problema para pagar com Giftcard + opção de dois cartões'
 id: azkOosXht4sgiDyYQ1qvo
 status: PUBLISHED
 createdAt: 2022-03-27T19:53:04.209Z

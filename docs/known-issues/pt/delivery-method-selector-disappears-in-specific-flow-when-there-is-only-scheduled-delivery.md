@@ -1,5 +1,5 @@
 ---
-title: O seletor do método de entrega desaparece no fluxo específico quando só há entrega programada
+title: 'O seletor do método de entrega desaparece no fluxo específico quando só há entrega programada'
 id: 7I24nVw5W7YUuoTvgH8W5k
 status: PUBLISHED
 createdAt: 2022-08-12T18:07:34.922Z

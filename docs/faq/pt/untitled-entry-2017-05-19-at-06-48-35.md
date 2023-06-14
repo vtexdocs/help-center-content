@@ -1,5 +1,5 @@
 ---
-title: Por que uma promoção não está sendo aplicada a um componente do kit?
+title: 'Por que uma promoção não está sendo aplicada a um componente do kit?'
 id: 3CulMfBXrWGyGKWUgGkgEC
 status: DRAFT
 createdAt: 2017-05-19T18:48:35.892Z

@@ -1,5 +1,5 @@
 ---
-title: Las palabras sustitutivas de la categoría no se indexan
+title: 'Las palabras sustitutivas de la categoría no se indexan'
 id: 4gIrMX8Wd2uW3Nekcbhu7S
 status: PUBLISHED
 createdAt: 2022-01-23T02:48:06.799Z

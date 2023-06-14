@@ -1,5 +1,5 @@
 ---
-title: Understand why some orders placed at Magalu were incomplete
+title: 'Understand why some orders placed at Magalu were incomplete'
 id: 5eFd1ukCxF9n53TeMiCvOX
 status: PUBLISHED
 createdAt: 2022-06-14T18:50:10.262Z

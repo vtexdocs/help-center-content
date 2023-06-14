@@ -1,5 +1,5 @@
 ---
-title: Problemas con los componentes de renderizado en el editor de sitios
+title: 'Problemas con los componentes de renderizado en el editor de sitios'
 id: 66gcFw8LwnL6WsvuXPRzFn
 status: PUBLISHED
 createdAt: 2022-04-19T19:41:08.520Z

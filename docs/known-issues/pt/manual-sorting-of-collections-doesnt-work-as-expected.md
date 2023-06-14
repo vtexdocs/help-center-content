@@ -1,5 +1,5 @@
 ---
-title: A classificação manual das coleções não funciona como esperado
+title: 'A classificação manual das coleções não funciona como esperado'
 id: aGTNVDT6LKKoWuSceQWs0
 status: PUBLISHED
 createdAt: 2017-10-03T19:13:58.344Z

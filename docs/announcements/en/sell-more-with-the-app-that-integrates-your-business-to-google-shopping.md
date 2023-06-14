@@ -1,5 +1,5 @@
 ---
-title: "Insights about Black Friday with Google team + new Google Shopping app launch"
+title: 'Insights about Black Friday with Google team + new Google Shopping app launch'
 id: 3G9q3ooRAk0wMEqqQiAwm6
 status: PUBLISHED
 createdAt: 2018-10-23T14:41:58.195Z
@@ -10,15 +10,15 @@ productTeam: Shopping
 author: authors_24
 slug: sell-more-with-the-app-that-integrates-your-business-to-google-shopping
 legacySlug: sell-more-with-the-app-that-integrates-your-business-to-google-shopping
-announcementImageID: ""
-announcementSynopsisEN: VTEX and Google launch exclusive app in event on October 31st.
+announcementImageID: ''
+announcementSynopsisEN: 'VTEX and Google launch exclusive app in event on October 31st.'
 ---
 
 __Black Friday__ is coming. And with it comes the need to use this unique opportunity to sell more and better.
 
 To help you with this task, VTEX is launching an __exclusive app in partnership with Google__, which will be available in our [App Store](https://apps.vtex.com/vtex-google-shopping/p).
 
-![Google Shopping App](https://images.ctfassets.net/alneenqid6w5/2pPKWvJT2YQEge4yWkEMSS/aa05248d6aa8df9b6b05cc2095ad00e4/Google_Shopping_App.png)
+![Google Shopping App](//images.ctfassets.net/alneenqid6w5/2pPKWvJT2YQEge4yWkEMSS/aa05248d6aa8df9b6b05cc2095ad00e4/Google_Shopping_App.png)
 
 It integrates your business with Google Ads and allows you to advertise your products on Google Shopping, using the new Smart Shopping Campaigns, and track the results easily and quickly.
 

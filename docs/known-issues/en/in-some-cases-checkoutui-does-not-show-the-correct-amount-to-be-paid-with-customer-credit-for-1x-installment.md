@@ -1,5 +1,5 @@
 ---
-title: In some cases, Checkout-UI does not show the correct amount to be paid with Customer Credit for 1x installment
+title: 'In some cases, Checkout-UI does not show the correct amount to be paid with Customer Credit for 1x installment'
 id: 3YsvVet6LKw1buFapSwFWm
 status: PUBLISHED
 createdAt: 2023-02-06T20:00:37.983Z

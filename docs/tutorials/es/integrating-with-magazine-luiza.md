@@ -1,5 +1,5 @@
 ---
-title: Integrar con Magazine Luiza
+title: 'Integrar con Magazine Luiza'
 id: tutorials_4243
 status: DRAFT
 createdAt: 2017-04-27T21:51:36.910Z

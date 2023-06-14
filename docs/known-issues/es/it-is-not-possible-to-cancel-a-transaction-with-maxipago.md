@@ -1,5 +1,5 @@
 ---
-title: It is not possible to cancel a transaction with MaxiPago
+title: 'It is not possible to cancel a transaction with MaxiPago'
 id: 3L7ioEisXAhkk80uEVV1ld
 status: DRAFT
 createdAt: 2022-06-28T17:06:18.053Z

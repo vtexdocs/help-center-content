@@ -1,5 +1,5 @@
 ---
-title: Amazon Multi-Channel Fulfillment (MCF) App
+title: 'Amazon Multi-Channel Fulfillment (MCF) App'
 id: X4b62PHi80OK3YwywZStG
 status: PUBLISHED
 createdAt: 2021-09-20T13:50:23.210Z

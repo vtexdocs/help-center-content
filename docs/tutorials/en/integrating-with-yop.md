@@ -1,5 +1,5 @@
 ---
-title: How to integrate with YOP
+title: 'How to integrate with YOP'
 id: tutorials_4206
 status: PUBLISHED
 createdAt: 2017-04-27T21:51:42.320Z

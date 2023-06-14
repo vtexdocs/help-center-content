@@ -1,5 +1,5 @@
 ---
-title: Filtro do Gerenciamento de pedidos não traz os pedidos feitos no dia 18/02/2018
+title: 'Filtro do Gerenciamento de pedidos não traz os pedidos feitos no dia 18/02/2018'
 id: 1TGxwZaPgYiQIauAE2CuYk
 status: PUBLISHED
 createdAt: 2018-03-15T13:44:08.799Z

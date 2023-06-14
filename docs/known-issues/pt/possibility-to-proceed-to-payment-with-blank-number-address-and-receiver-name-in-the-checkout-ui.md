@@ -1,5 +1,5 @@
 ---
-title: Possibilidade de proceder ao pagamento com endereço de número em branco e nome do destinatário no caixa de pagamento UI
+title: 'Possibilidade de proceder ao pagamento com endereço de número em branco e nome do destinatário no caixa de pagamento UI'
 id: 5HCvh8dM70UUvR7t1U5aKY
 status: PUBLISHED
 createdAt: 2022-03-31T20:59:56.117Z

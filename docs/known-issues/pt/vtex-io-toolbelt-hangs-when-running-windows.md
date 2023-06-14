@@ -1,5 +1,5 @@
 ---
-title: Toolbelt do VTEX IO trava na plataforma Windows
+title: 'Toolbelt do VTEX IO trava na plataforma Windows'
 id: 5gWrgOvFZXEoDOJFMrqGoa
 status: DRAFT
 createdAt: 2019-02-06T16:15:59.916Z

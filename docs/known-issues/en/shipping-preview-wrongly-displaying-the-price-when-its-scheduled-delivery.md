@@ -1,5 +1,5 @@
 ---
-title: Shipping Preview wrongly displaying the price when it's scheduled delivery
+title: 'Shipping Preview wrongly displaying the price when it's scheduled delivery'
 id: 1348f4mDxoxAT7pTKBxm29
 status: PUBLISHED
 createdAt: 2023-01-31T19:16:25.118Z

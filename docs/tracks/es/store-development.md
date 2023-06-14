@@ -1,5 +1,5 @@
 ---
-title: Desarrollo de la tienda
+title: 'Desarrollo de la tienda'
 id: 2PS5GZ2XUXs70Pu8m7wRcz
 status: PUBLISHED
 createdAt: 2022-12-21T20:19:31.109Z
@@ -18,7 +18,7 @@ En una tienda de ecommerce, tanto la interfaz que los usuarios ven y con la que 
 - **Frontend**: el frontend comprende la capa visual de una aplicación, como la interfaz de un sitio web o de una aplicación móvil. A través del frontend, los usuarios interactúan con la tienda. En VTEX, hay tres tecnologías diferentes que pueden utilizarse para el desarrollo del storefront de la tienda: CMS Portal (Legado), Store Framework y FastStore.
 - **Backend**: el backend es la capa que computa y procesa todos los datos necesarios para ejecutar las funcionalidades ofrecidas por una determinada aplicación. En VTEX, el desarrollo de integraciones y aplicaciones backend mayormente se realiza a través de VTEX IO y de las API de VTEX.
 
-![storefront mockup](https://images.ctfassets.net/alneenqid6w5/35wyRHhSz4TC8CRjLQAhFF/f7db8614b227a93b636b593870dab50c/image1.png)
+![storefront mockup](//images.ctfassets.net/alneenqid6w5/35wyRHhSz4TC8CRjLQAhFF/f7db8614b227a93b636b593870dab50c/image1.png)
 
 En las siguientes secciones, profundizaremos en los principales aspectos y tecnologías relacionados con el desarrollo de la tienda en VTEX.
 

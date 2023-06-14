@@ -1,5 +1,5 @@
 ---
-title: Why isn't the price table displayed to the customer?
+title: 'Why isn't the price table displayed to the customer?'
 id: 2F1RtrQzy9J4fUKxu2X57e
 status: PUBLISHED
 createdAt: 2019-02-25T22:12:13.228Z

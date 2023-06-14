@@ -1,5 +1,5 @@
 ---
-title: Guía de integración de ERPs
+title: 'Guía de integración de ERPs'
 id: 3VuOwNLmb624ImooEIIkmO
 status: DRAFT
 createdAt: 2017-09-11T20:55:01.200Z

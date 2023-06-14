@@ -1,5 +1,5 @@
 ---
-title: Ferramentas para melhorar a performance da loja
+title: 'Ferramentas para melhorar a performance da loja'
 id: tutorials_4852
 status: PUBLISHED
 createdAt: 2017-04-27T21:49:27.344Z

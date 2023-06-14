@@ -1,5 +1,5 @@
 ---
-title: Remoção de parâmetros da URL quando a página não existe
+title: 'Remoção de parâmetros da URL quando a página não existe'
 id: EbKaj7Laz6IEooYS2OuYW
 status: PUBLISHED
 createdAt: 2018-12-17T21:26:03.577Z

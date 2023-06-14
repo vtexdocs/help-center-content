@@ -1,5 +1,5 @@
 ---
-title: Cancelación del pedido solicitada por el cliente
+title: 'Cancelación del pedido solicitada por el cliente'
 id: 3wEI6DUNtecooG2Ki4Akqo
 status: PUBLISHED
 createdAt: 2019-01-24T21:42:57.276Z

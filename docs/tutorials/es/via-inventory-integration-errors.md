@@ -1,5 +1,5 @@
 ---
-title: Errores de integración de stock con Via
+title: 'Errores de integración de stock con Via'
 id: 2jzz4Ip0M2BDzwslEtCzPc
 status: PUBLISHED
 createdAt: 2021-10-26T23:55:47.528Z

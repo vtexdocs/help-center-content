@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with VirtusPayV2
+title: 'Setting up payments with VirtusPayV2'
 id: 1tbcLRNIB5Bz0oWl8LnayB
 status: PUBLISHED
 createdAt: 2023-03-27T12:14:53.392Z

@@ -1,5 +1,5 @@
 ---
-title: Pasting postal code in shipping preview cart sometimes returns null API result
+title: 'Pasting postal code in shipping preview cart sometimes returns null API result'
 id: 5Lq32htqC7M9xiqajfn7y7
 status: PUBLISHED
 createdAt: 2022-06-01T15:30:08.776Z

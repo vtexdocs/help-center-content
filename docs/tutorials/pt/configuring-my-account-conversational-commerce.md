@@ -1,5 +1,5 @@
 ---
-title: Configurar Minha conta (Conversational Commerce)
+title: 'Configurar Minha conta (Conversational Commerce)'
 id: 42bnIdyC2c5dwz9KKT0UKc
 status: PUBLISHED
 createdAt: 2023-03-07T19:10:12.107Z
@@ -23,7 +23,7 @@ O [Conversational Commerce VTEX](https://help.vtex.com/pt/tracks/conversational-
 
 ## Campos das configurações de conversação
 
-![my account - conversational commerce - PT](https://images.ctfassets.net/alneenqid6w5/6HpER9MIEWSWz1ULYD22h8/5e3c881eb854b74a4b36625ee3de43a7/image.png)
+![my account - conversational commerce - PT](//images.ctfassets.net/alneenqid6w5/6HpER9MIEWSWz1ULYD22h8/5e3c881eb854b74a4b36625ee3de43a7/image.png)
 
 * **Idioma:** idioma que será o padrão para mensagens do bot com o cliente no Conversational Commerce VTEX. Campo obrigatório.
 * **Mensagem de boas-vindas:** primeira mensagem que o Conversational Commerce VTEX enviará em sua interação inicial com o cliente. Essa mensagem é seguida de mensagens explicativas do processo de compra e suporte humano da sua equipe de atendimento. Campo obrigatório. A sugestão de padrão é: 

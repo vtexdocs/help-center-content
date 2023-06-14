@@ -1,5 +1,5 @@
 ---
-title: Como criar um plano de assinatura
+title: 'Como criar um plano de assinatura'
 id: 1qGRoFczm98Wgt81f9mUqC
 status: PUBLISHED
 createdAt: 2021-07-06T14:35:00.792Z
@@ -91,7 +91,7 @@ Nesta tela, você pode realizar as seguintes ações:
 
 * **Selecionar:** ao clicar no <i class="far fa-square"></i> na linha de cada produto, você pode selecionar produtos ou SKUs individualmente. Outra opção é clicar no primeiro <i class="far fa-square"></i> e selecionar todos os produtos e SKUs exibidos na página para adicioná-los ao plano, conforme ilustrado na imagem abaixo.
 
-![selecionarskus PT](https://images.ctfassets.net/alneenqid6w5/3nBgV1SCLFqG92L1rOBXOX/d5166c26395bfd131c45fe27f51ec5a8/selecionarskus_PT.gif)
+![selecionarskus PT](//images.ctfassets.net/alneenqid6w5/3nBgV1SCLFqG92L1rOBXOX/d5166c26395bfd131c45fe27f51ec5a8/selecionarskus_PT.gif)
 
 * **Botão** <i class="fas fa-chevron-down"></i>: exibe os SKUs, ou seja, as variações do produto.
 * **Adicionar:** ao clicar neste botão, você adiciona o(s) produto(s) ou SKU(s) ao plano de assinatura.

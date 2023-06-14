@@ -1,5 +1,5 @@
 ---
-title: "SKUs Recibidos: aprobación en masa"
+title: 'SKUs Recibidos: aprobación en masa'
 id: PC9nNmPKePbiuH8pDoG9g
 status: PUBLISHED
 createdAt: 2020-09-04T19:13:19.581Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: skus-recibidos-aprobacion-en-masa
 legacySlug: skus-recibidos-aprobacion-en-masa
-announcementImageID: ""
-announcementSynopsisES: Ahora es posible seleccionar hasta 25 SKUs en el panel de SKUs Recibidos. Además, creamos una nueva API para eso.
+announcementImageID: ''
+announcementSynopsisES: 'Ahora es posible seleccionar hasta 25 SKUs en el panel de SKUs Recibidos. Además, creamos una nueva API para eso.'
 ---
 
 Los marketplaces gestionan los productos de sus sellers en el panel [SKUs Recibidos](https://help.vtex.com/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396). Desde ahí, pueden revisar y aprobar los productos enviados por los sellers. En el panel se pueden seleccionar SKUs de forma masiva, aprobando o rechazando varios ítems de una sola vez. 

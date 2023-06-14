@@ -1,5 +1,5 @@
 ---
-title: Recursos del License Manager - Catalog
+title: 'Recursos del License Manager - Catalog'
 id: 3zlG2H8FSe2t5q42YDRYlx
 status: DRAFT
 createdAt: 2022-02-16T15:36:58.485Z

@@ -1,5 +1,5 @@
 ---
-title: Transportadoras na VTEX
+title: 'Transportadoras na VTEX'
 id: 7u9duMD5UQa2QQwukAWMcE
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:39.775Z

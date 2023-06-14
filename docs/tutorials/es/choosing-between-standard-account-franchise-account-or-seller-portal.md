@@ -1,5 +1,5 @@
 ---
-title: Elegir entre cuenta estándar, cuenta franquicia o Seller Portal
+title: 'Elegir entre cuenta estándar, cuenta franquicia o Seller Portal'
 id: 4S90HzzhMyZESsHqrnUs78
 status: PUBLISHED
 createdAt: 2022-04-20T14:15:50.164Z

@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo funciona el flujo de entregas?
+title: '¿Cómo funciona el flujo de entregas?'
 id: 4ku3QKWfxmUO8UgA0yqgUq
 status: DRAFT
 createdAt: 2018-03-01T21:55:32.720Z
@@ -26,4 +26,4 @@ La plataforma VTEX le da libertad para que su tienda utilice estas configuracion
 
 Pero, por ahora, vamos a atenerse al escenario más básico, ilustrado por la figura abajo:
 
-![Logistics Flow Espanhol](https://images.ctfassets.net/alneenqid6w5/586A760DbOKiaeSiuO0wW0/09da81662ed4e1865d8f8c7cab9da054/Component__21_.png)
+![Logistics Flow Espanhol](//images.ctfassets.net/alneenqid6w5/586A760DbOKiaeSiuO0wW0/09da81662ed4e1865d8f8c7cab9da054/Component__21_.png)

@@ -1,5 +1,5 @@
 ---
-title: Sending product data to Dafiti
+title: 'Sending product data to Dafiti'
 id: 3b8BZfB1BC8G8SCe0ao46m
 status: PUBLISHED
 createdAt: 2018-09-27T18:14:09.967Z

@@ -1,5 +1,5 @@
 ---
-title: Problema en la nueva página de historial de indexación que muestra como actualización productos que ya estaban actualizados
+title: 'Problema en la nueva página de historial de indexación que muestra como actualización productos que ya estaban actualizados'
 id: 2Utn4RueMZjGxYGIh7dNBp
 status: PUBLISHED
 createdAt: 2022-10-19T00:34:17.082Z

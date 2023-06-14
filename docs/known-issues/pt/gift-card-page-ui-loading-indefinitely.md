@@ -1,5 +1,5 @@
 ---
-title: UI da página de Vale-compra está carregando indefinidamente, impedindo que usuários com permissão a acessem corretamente
+title: 'UI da página de Vale-compra está carregando indefinidamente, impedindo que usuários com permissão a acessem corretamente'
 id: 6HfglIfAEuXfQlVVnIJiQO
 status: PUBLISHED
 createdAt: 2021-07-29T12:25:51.576Z

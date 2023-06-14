@@ -1,5 +1,5 @@
 ---
-title: Analizar las reservas de un producto
+title: 'Analizar las reservas de un producto'
 id: 1xdDyqnDo4IKwcUYQouQCE
 status: DRAFT
 createdAt: 2017-08-01T15:07:23.815Z

@@ -1,5 +1,5 @@
 ---
-title: Configure as condições de pagamento do VTEX Payment na sua loja
+title: 'Configure as condições de pagamento do VTEX Payment na sua loja'
 id: 4OpqGtNwTj6utmmuREVDyR
 status: DRAFT
 createdAt: 2020-06-16T00:34:32.027Z

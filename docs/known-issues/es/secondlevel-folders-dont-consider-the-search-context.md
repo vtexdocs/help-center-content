@@ -1,5 +1,5 @@
 ---
-title: Las carpetas de segundo nivel no consideran el "contexto de búsqueda"
+title: 'Las carpetas de segundo nivel no consideran el "contexto de búsqueda"'
 id: 6WvlorgpBEeIuKk2mprMXm
 status: PUBLISHED
 createdAt: 2019-02-17T19:55:07.529Z

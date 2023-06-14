@@ -1,5 +1,5 @@
 ---
-title: How to set up logistics for a marketplace
+title: 'How to set up logistics for a marketplace'
 id: tutorials_390
 status: PUBLISHED
 createdAt: 2017-04-27T22:07:25.530Z

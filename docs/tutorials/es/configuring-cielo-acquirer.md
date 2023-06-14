@@ -1,5 +1,5 @@
 ---
-title: Configurar adquirente Cielo
+title: 'Configurar adquirente Cielo'
 id: 3avjZ7q65WcM02K8K0eeWu
 status: PUBLISHED
 createdAt: 2018-05-02T19:02:05.427Z

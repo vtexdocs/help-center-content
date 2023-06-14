@@ -1,5 +1,5 @@
 ---
-title: API para listar pontos de coleta não retorna campo de informações adicionais
+title: 'API para listar pontos de coleta não retorna campo de informações adicionais'
 id: 5YY5srSA2ZRiOSZiMY9UF9
 status: PUBLISHED
 createdAt: 2022-09-02T12:09:09.980Z

@@ -1,5 +1,5 @@
 ---
-title: "Nueva lista de promociones: administra las promociones de forma más eficiente"
+title: 'Nueva lista de promociones: administra las promociones de forma más eficiente'
 id: 41WGnqeWRM4AWlTmoYqz8Y
 status: PUBLISHED
 createdAt: 2022-07-12T13:26:11.563Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: nueva-lista-de-promociones-administra-las-promociones-de-forma-mas-eficiente
 legacySlug: nueva-lista-de-promociones-administra-las-promociones-de-forma-mas-eficiente
-announcementImageID: ""
-announcementSynopsisES: La nueva lista de promociones te permite administrar mejor y más rápido las promociones de tu tienda.
+announcementImageID: ''
+announcementSynopsisES: 'La nueva lista de promociones te permite administrar mejor y más rápido las promociones de tu tienda.'
 ---
 
 Ofrecer promociones es una práctica que te permite ampliar la captación y fidelización de clientes a través de ventajas, por ejemplo, descuentos y regalos. Tener una visión de gestión completa de las promociones es clave para ser capaz de tomar decisiones estratégicas y planificar este tipo de acción.
@@ -29,7 +29,7 @@ Para la Lista de promociones, desarrollamos una nueva interfaz que te permite:
 * Exportar tu lista de promociones activas.
 * Duplicar las promociones activas o archivadas para que el proceso de creación sea más rápido.
 
-![lista-promocoes-es](https://images.ctfassets.net/alneenqid6w5/5J9dSnkUhLm1gTUjhUftrP/4549ea65d574f5481ccbea5cde7e549c/lista-promociones-es.PNG)
+![lista-promocoes-es](//images.ctfassets.net/alneenqid6w5/5J9dSnkUhLm1gTUjhUftrP/4549ea65d574f5481ccbea5cde7e549c/lista-promociones-es.PNG)
 
 ## ¿Por qué realizamos este cambio?
 

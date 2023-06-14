@@ -1,5 +1,5 @@
 ---
-title: Uploading more than one existing file at a time does not update all files in File Manager
+title: 'Uploading more than one existing file at a time does not update all files in File Manager'
 id: 3uuWWVR3g8hFuXnPQ2Yaa8
 status: PUBLISHED
 createdAt: 2021-09-27T20:50:23.329Z

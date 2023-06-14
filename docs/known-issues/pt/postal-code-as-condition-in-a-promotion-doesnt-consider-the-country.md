@@ -1,5 +1,5 @@
 ---
-title: CEP como condição em uma promoção não considera o país
+title: 'CEP como condição em uma promoção não considera o país'
 id: 5rPGioNAiWaEmAIMQSACaM
 status: PUBLISHED
 createdAt: 2017-04-05T12:24:01.042Z

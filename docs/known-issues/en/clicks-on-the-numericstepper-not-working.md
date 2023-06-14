@@ -1,5 +1,5 @@
 ---
-title: Clicks on the NumericStepper not working
+title: 'Clicks on the NumericStepper not working'
 id: 7xGnJNyjWERcJ48ollIqh1
 status: PUBLISHED
 createdAt: 2022-07-04T16:45:10.692Z

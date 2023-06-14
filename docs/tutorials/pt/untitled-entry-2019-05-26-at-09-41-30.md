@@ -1,5 +1,5 @@
 ---
-title: Em quanto tempo o VTEX Payment resolve uma disputa?
+title: 'Em quanto tempo o VTEX Payment resolve uma disputa?'
 id: 6juESHTRjwqGFjNrtdlxlP
 status: DRAFT
 createdAt: 2019-05-26T21:41:30.538Z

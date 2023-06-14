@@ -1,5 +1,5 @@
 ---
-title: Botão de voltar do Chrome não funciona corretamente no módulo de Gerenciamento de pedidos
+title: 'Botão de voltar do Chrome não funciona corretamente no módulo de Gerenciamento de pedidos'
 id: 4NmjhQWbFfmr2NkKGQ3gTJ
 status: DRAFT
 createdAt: 2019-07-04T21:19:09.582Z

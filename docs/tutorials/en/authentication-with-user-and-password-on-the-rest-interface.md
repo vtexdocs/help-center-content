@@ -1,5 +1,5 @@
 ---
-title: Authenticating with user and password on the REST interface
+title: 'Authenticating with user and password on the REST interface'
 id: tutorials_6058
 status: DRAFT
 createdAt: 2017-04-27T21:49:08.671Z

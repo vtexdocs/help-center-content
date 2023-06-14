@@ -1,5 +1,5 @@
 ---
-title: Si las tablas de Correios no están concatenadas en el filtro de Listo para enviar la generación de etiquetas no funciona correctamente
+title: 'Si las tablas de Correios no están concatenadas en el filtro de Listo para enviar la generación de etiquetas no funciona correctamente'
 id: sjvdk1dovk0UBfJJEBVcs
 status: PUBLISHED
 createdAt: 2022-02-03T19:53:04.280Z

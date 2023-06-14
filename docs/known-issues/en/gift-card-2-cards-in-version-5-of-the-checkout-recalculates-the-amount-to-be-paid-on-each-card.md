@@ -1,5 +1,5 @@
 ---
-title: Gift Card + 2 cards in version 5 of the checkout recalculates the amount to be paid on each card
+title: 'Gift Card + 2 cards in version 5 of the checkout recalculates the amount to be paid on each card'
 id: 2SHo3fuu0oqyiiyo4ME2Ca
 status: PUBLISHED
 createdAt: 2018-10-03T16:17:29.385Z

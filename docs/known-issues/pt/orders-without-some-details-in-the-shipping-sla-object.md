@@ -1,5 +1,5 @@
 ---
-title: Pedidos sem alguns detalhes no objeto SLA de embarque
+title: 'Pedidos sem alguns detalhes no objeto SLA de embarque'
 id: 7ByfCgcHrjZRMaw0AdYE6j
 status: PUBLISHED
 createdAt: 2022-05-09T15:23:21.128Z

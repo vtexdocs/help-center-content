@@ -1,5 +1,5 @@
 ---
-title: O seletor de país para endereço de faturamento enquanto no modo internacional permanece restrito aos países de entrega
+title: 'O seletor de país para endereço de faturamento enquanto no modo internacional permanece restrito aos países de entrega'
 id: 5lHG60ATBiCdPBQnE1CEuP
 status: PUBLISHED
 createdAt: 2022-05-24T13:38:13.922Z

@@ -1,5 +1,5 @@
 ---
-title: La entrega programada puede mostrar un precio incorrecto al cambiar entre entrega y programada
+title: 'La entrega programada puede mostrar un precio incorrecto al cambiar entre entrega y programada'
 id: 1Jue9hi3G4ryML88dqWz4E
 status: PUBLISHED
 createdAt: 2023-03-13T20:40:19.424Z

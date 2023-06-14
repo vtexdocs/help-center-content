@@ -1,5 +1,5 @@
 ---
-title: Criar aplicação no Master Data
+title: 'Criar aplicação no Master Data'
 id: tutorials_1115
 status: PUBLISHED
 createdAt: 2017-04-27T21:57:27.067Z

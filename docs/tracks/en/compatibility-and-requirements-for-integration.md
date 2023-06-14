@@ -1,5 +1,5 @@
 ---
-title: Compatibility and requirements for integration
+title: 'Compatibility and requirements for integration'
 id: 4PFKJMdL0QRArCTPER91lx
 status: PUBLISHED
 createdAt: 2022-04-14T21:15:25.711Z

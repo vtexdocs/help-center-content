@@ -1,5 +1,5 @@
 ---
-title: Inconsistency in payment method boleto bancário expiration dates
+title: 'Inconsistency in payment method boleto bancário expiration dates'
 id: 771mUo6KdQP0pCTq5F5E0m
 status: PUBLISHED
 createdAt: 2022-03-28T01:17:58.206Z

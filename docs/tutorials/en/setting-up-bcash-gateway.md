@@ -1,5 +1,5 @@
 ---
-title: Setting up Bcash gateway
+title: 'Setting up Bcash gateway'
 id: 3y3SnZcetyu4y0OMUoG0C0
 status: DRAFT
 createdAt: 2018-05-04T14:00:59.499Z

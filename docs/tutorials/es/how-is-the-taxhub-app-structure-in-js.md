@@ -1,5 +1,5 @@
 ---
-title: Como es la estrutura de App en JS del TaxHub
+title: 'Como es la estrutura de App en JS del TaxHub'
 id: 6hY8wkf8LCCS4o0KAaKUu0
 status: DRAFT
 createdAt: 2017-07-26T17:04:34.946Z

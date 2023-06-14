@@ -1,5 +1,5 @@
 ---
-title: O envio enxuto substitui o método de envio preferido pelo usuário pela opção mais barata em diferentes sessões/browsers
+title: 'O envio enxuto substitui o método de envio preferido pelo usuário pela opção mais barata em diferentes sessões/browsers'
 id: 2bUIAHTUDuu2K98HWVjVfb
 status: PUBLISHED
 createdAt: 2023-02-01T21:06:22.140Z

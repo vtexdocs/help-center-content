@@ -1,5 +1,5 @@
 ---
-title: Giftcard Transaction API siempre devuelve una respuesta vacía
+title: 'Giftcard Transaction API siempre devuelve una respuesta vacía'
 id: 4p8G7gVm3MobrVDkDH9zy9
 status: PUBLISHED
 createdAt: 2022-03-27T18:55:45.429Z

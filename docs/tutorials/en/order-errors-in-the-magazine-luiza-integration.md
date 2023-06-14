@@ -1,5 +1,5 @@
 ---
-title: Order errors in the Magazine Luiza integration
+title: 'Order errors in the Magazine Luiza integration'
 id: 7j5iw0eqtZOfC5LDgSnkBa
 status: PUBLISHED
 createdAt: 2021-08-10T21:10:16.895Z

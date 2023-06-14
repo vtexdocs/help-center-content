@@ -1,5 +1,5 @@
 ---
-title: "¿Cuántas veces se aplicará su beneficio en su tienda?" Guardar incorrectamente en la interfaz del formulario de promoción
+title: '"¿Cuántas veces se aplicará su beneficio en su tienda?" Guardar incorrectamente en la interfaz del formulario de promoción'
 id: 6vT0rYIry3cGx1nG5BPkmx
 status: PUBLISHED
 createdAt: 2022-06-28T19:23:30.074Z

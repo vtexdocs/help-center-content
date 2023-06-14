@@ -1,5 +1,5 @@
 ---
-title: "Nova API ajuda marketplaces a evitar perda de vendas"
+title: 'Nova API ajuda marketplaces a evitar perda de vendas'
 id: ViRaoD0gKIIwOSoYCSQM0
 status: PUBLISHED
 createdAt: 2018-02-01T12:43:05.771Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: authors_24
 slug: nova-api-ajuda-marketplaces-a-evitar-perda-de-vendas
 legacySlug: nova-api-ajuda-marketplaces-a-evitar-perda-de-vendas
-announcementImageID: ""
-announcementSynopsisPT: O Change Seller dá mais autonomia para os marketplaces gerenciarem suas vendas.
+announcementImageID: ''
+announcementSynopsisPT: 'O Change Seller dá mais autonomia para os marketplaces gerenciarem suas vendas.'
 ---
 
 Já está disponível em stable uma API que vai trazer ainda mais autonomia para os marketplaces que usam VTEX. É o Change Seller, que inaugura um novo status no workflow, chamado de __Window to change Seller__.

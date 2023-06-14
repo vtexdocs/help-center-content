@@ -1,5 +1,5 @@
 ---
-title: Configurar o método de pagamento iDeal na integração com a Adyen
+title: 'Configurar o método de pagamento iDeal na integração com a Adyen'
 id: 6EY1uvOVcomIFgMv81FAub
 status: PUBLISHED
 createdAt: 2021-05-06T19:28:42.490Z

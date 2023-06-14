@@ -1,5 +1,5 @@
 ---
-title: La información del cliente no se guarda en el sistema de perfiles
+title: 'La información del cliente no se guarda en el sistema de perfiles'
 id: 1MCiEAJ3ZueJVM04T7x9z2
 status: PUBLISHED
 createdAt: 2023-04-04T22:47:43.035Z

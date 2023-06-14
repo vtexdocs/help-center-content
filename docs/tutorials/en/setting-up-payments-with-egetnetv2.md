@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with EgetnetV2
+title: 'Setting up payments with EgetnetV2'
 id: 6jfBE8ocN5T0xQo8BTGH31
 status: PUBLISHED
 createdAt: 2023-02-13T13:55:05.519Z

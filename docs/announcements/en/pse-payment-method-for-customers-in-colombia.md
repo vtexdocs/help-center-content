@@ -1,5 +1,5 @@
 ---
-title: "PSE: Payment method for customers in Colombia"
+title: 'PSE: Payment method for customers in Colombia'
 id: 4T22CHOcEV3Nb2RtkJZOFB
 status: PUBLISHED
 createdAt: 2022-05-18T17:57:33.804Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: pse-payment-method-for-customers-in-colombia
 legacySlug: pse-payment-method-for-customers-in-colombia
-announcementImageID: ""
-announcementSynopsisEN: Process your sales with one of the best known payment methods in Colombia.
+announcementImageID: ''
+announcementSynopsisEN: 'Process your sales with one of the best known payment methods in Colombia.'
 ---
 
 VTEX now offers one of Colombia's most popular payment methods, [PSE](https://www.pse.com.co/empresa) (Pagos Seguros en Línea). It redirects customers to their internet banking page once the order is confirmed and the payment is made by online debit.

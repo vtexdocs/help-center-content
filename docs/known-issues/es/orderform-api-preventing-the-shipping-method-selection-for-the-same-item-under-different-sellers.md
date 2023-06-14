@@ -1,5 +1,5 @@
 ---
-title: La API de OrderForm impide la selección del método de envío para el mismo artículo en diferentes vendedores.
+title: 'La API de OrderForm impide la selección del método de envío para el mismo artículo en diferentes vendedores.'
 id: 4dEfq7lNqTLF7SFIOaRsc2
 status: PUBLISHED
 createdAt: 2023-01-27T21:56:04.190Z

@@ -1,5 +1,5 @@
 ---
-title: Message displayed when clicking the Buy Button prevents customers from proceeding with the purchase
+title: 'Message displayed when clicking the Buy Button prevents customers from proceeding with the purchase'
 id: 3i3eys6d4MWnt0E611OdPH
 status: PUBLISHED
 createdAt: 2021-10-13T16:50:22.116Z

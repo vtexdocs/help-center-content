@@ -1,5 +1,5 @@
 ---
-title: "Las API de Get Order y List Orders pueden devolver pedidos con status null"
+title: 'Las API de Get Order y List Orders pueden devolver pedidos con status null'
 id: 6IO4rL1qIEWSMsu2WgmWI0
 status: PUBLISHED
 createdAt: 2018-12-28T18:46:34.551Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: authors_41
 slug: las-api-de-get-order-y-list-orders-pueden-devolver-pedidos-con-status-null
 legacySlug: las-api-de-get-order-y-list-orders-pueden-devolver-pedidos-con-status-null
-announcementImageID: ""
-announcementSynopsisES: A partir de 30/01/19, las órdenes pueden venir con status null en las respuestas de las llamadas Get Order y List Order.
+announcementImageID: ''
+announcementSynopsisES: 'A partir de 30/01/19, las órdenes pueden venir con status null en las respuestas de las llamadas Get Order y List Order.'
 ---
 
 A partir de __30 de enero de 2019__, los pedidos pueden aparecer con status `null` en las respuestas de las llamadas de las API [Get Order](https://developers.vtex.com/reference/orders#getorder) y [List Orders](https://developers.vtex.com/reference/orders#listorders). Antes, ese resultado no era una respuesta posible de las API.

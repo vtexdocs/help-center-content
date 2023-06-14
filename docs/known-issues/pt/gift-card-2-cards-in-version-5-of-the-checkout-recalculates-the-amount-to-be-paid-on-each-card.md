@@ -1,5 +1,5 @@
 ---
-title: Vale + 2 cartões na versão 5 do checkout recalcula o valor a ser pago em cada cartão
+title: 'Vale + 2 cartões na versão 5 do checkout recalcula o valor a ser pago em cada cartão'
 id: 2SHo3fuu0oqyiiyo4ME2Ca
 status: PUBLISHED
 createdAt: 2018-10-03T16:17:29.385Z

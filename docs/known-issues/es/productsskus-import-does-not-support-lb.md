@@ -1,5 +1,5 @@
 ---
-title: La importación de productos&SKUs no es compatible con 'lb'
+title: 'La importación de productos&SKUs no es compatible con 'lb''
 id: 1OjtnFf9MpY1IFzQa8Ua2t
 status: PUBLISHED
 createdAt: 2022-06-17T19:38:17.726Z

@@ -1,5 +1,5 @@
 ---
-title: Problema de arrastrar y soltar en el Editor de Sitios
+title: 'Problema de arrastrar y soltar en el Editor de Sitios'
 id: 4DubZ5C0dmqKGQqAZ6nZjo
 status: PUBLISHED
 createdAt: 2022-10-25T15:31:15.485Z

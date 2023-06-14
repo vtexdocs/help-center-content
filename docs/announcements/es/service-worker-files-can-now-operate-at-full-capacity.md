@@ -1,5 +1,5 @@
 ---
-title: "Service Worker ahora puede operar a plena capacidad"
+title: 'Service Worker ahora puede operar a plena capacidad'
 id: 5RuFcktluMeYWYWKww4au2
 status: PUBLISHED
 createdAt: 2018-03-15T18:22:49.955Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: authors_24
 slug: service-worker-ahora-puede-operar-a-plena-capacidad
 legacySlug: service-worker-ahora-puede-operar-a-plena-capacidad
-announcementImageID: ""
-announcementSynopsisES: En esta nueva actualización, los archivos de Service Worker ahora pueden interceptar requests de toda su tienda.
+announcementImageID: ''
+announcementSynopsisES: 'En esta nueva actualización, los archivos de Service Worker ahora pueden interceptar requests de toda su tienda.'
 ---
 
 El __Service Worker__ ahora puede interceptar todas los requests de su tienda VTEX. Si antes ese script tuviera una actuación limitada en la plataforma, ahora incluimos el header `Service-Worker-Allowed` usando el valor` / `para aplicar todo su potencial. Esto significa que su website tiene las condiciones necesarias para contar con recursos como sincronización periódica, notificaciones push y modo off-line.

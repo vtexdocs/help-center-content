@@ -1,5 +1,5 @@
 ---
-title: Las órdenes con vendedores de cambio ejecutadas no respetan el período de gracia de la cancelación
+title: 'Las órdenes con vendedores de cambio ejecutadas no respetan el período de gracia de la cancelación'
 id: 25diaeQxIpSJIfCQxFizIV
 status: PUBLISHED
 createdAt: 2022-09-13T03:17:08.065Z

@@ -1,5 +1,5 @@
 ---
-title: Mercado Livre Mapper attribute Size
+title: 'Mercado Livre Mapper attribute Size'
 id: 3dLrm6SVsPB4tU46SC3Xdi
 status: PUBLISHED
 createdAt: 2022-07-26T19:53:34.899Z

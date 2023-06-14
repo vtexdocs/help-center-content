@@ -1,5 +1,5 @@
 ---
-title: Busca Filtro Navigator + Faixa de preço que produz resultados incorretos
+title: 'Busca Filtro Navigator + Faixa de preço que produz resultados incorretos'
 id: 6s4vJr6DVPLU9JlxIPWqhx
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:53.208Z

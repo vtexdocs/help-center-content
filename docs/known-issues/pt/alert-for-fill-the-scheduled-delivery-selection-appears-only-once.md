@@ -1,5 +1,5 @@
 ---
-title: Alerta para preencher a seleção de entrega programada aparece apenas uma vez
+title: 'Alerta para preencher a seleção de entrega programada aparece apenas uma vez'
 id: f668KUV24RqlpUvDvoIEm
 status: PUBLISHED
 createdAt: 2022-04-25T14:49:29.983Z

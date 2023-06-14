@@ -1,5 +1,5 @@
 ---
-title: “Confirm action” unavailable in Catalog, Sellers, CMS and Gift Card modules for Google Chrome
+title: '“Confirm action” unavailable in Catalog, Sellers, CMS and Gift Card modules for Google Chrome'
 id: 5UzVaWa63dPwPlbK3n2AH5
 status: PUBLISHED
 createdAt: 2021-07-27T22:29:39.402Z

@@ -1,5 +1,5 @@
 ---
-title: Erro ao salvar o cartão de integração com a Netshoes
+title: 'Erro ao salvar o cartão de integração com a Netshoes'
 id: 4amOxIQgKqzCvpuzgAeYE5
 status: PUBLISHED
 createdAt: 2022-06-14T11:55:35.684Z

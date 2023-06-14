@@ -1,5 +1,5 @@
 ---
-title: "Indexação otimizada: mais eficiência para operações omnichannel"
+title: 'Indexação otimizada: mais eficiência para operações omnichannel'
 id: 5P6ydhXrf3HKVAISNSJSo5
 status: PUBLISHED
 createdAt: 2023-05-10T13:42:29.935Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: indexacao-otimizada-mais-eficiencia-para-operacoes-omnichannel
 legacySlug: indexacao-otimizada-mais-eficiencia-para-operacoes-omnichannel
-announcementImageID: ""
-announcementSynopsisPT: A indexação otimizada possibilita operações omnichannel complexas, com redução de custos e tempo de processamento.
+announcementImageID: ''
+announcementSynopsisPT: 'A indexação otimizada possibilita operações omnichannel complexas, com redução de custos e tempo de processamento.'
 ---
 
 A [indexação](https://help.vtex.com/pt/tutorial/entendendo-o-funcionamento-da-indexacao--tutorials_256) é o processo que ocorre automaticamente toda vez que um produto é criado ou atualizado em uma loja VTEX. Esse procedimento garante que os produtos exibidos para os clientes da loja estejam sempre atualizados para a versão mais recente.

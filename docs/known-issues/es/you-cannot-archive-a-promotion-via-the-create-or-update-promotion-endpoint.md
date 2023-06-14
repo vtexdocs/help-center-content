@@ -1,5 +1,5 @@
 ---
-title: No se puede archivar una promoción por el endpoint Create Or Update Promotion
+title: 'No se puede archivar una promoción por el endpoint Create Or Update Promotion'
 id: 3MUDa3ZvdhoahJhZ4FvekO
 status: PUBLISHED
 createdAt: 2021-02-25T20:33:18.281Z

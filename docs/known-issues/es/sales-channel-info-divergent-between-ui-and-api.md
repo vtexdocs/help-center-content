@@ -1,5 +1,5 @@
 ---
-title: Información del canal de ventas divergente entre la interfaz de usuario y la API
+title: 'Información del canal de ventas divergente entre la interfaz de usuario y la API'
 id: 66bWccTAGpRbodBXvmIlHK
 status: PUBLISHED
 createdAt: 2023-05-04T15:30:18.265Z

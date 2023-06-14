@@ -1,5 +1,5 @@
 ---
-title: Lançamentos: conceito de lançamento (Beta)
+title: 'Lançamentos: conceito de lançamento (Beta)'
 id: 4pWhQTXG0aIIsi2TYxxRkZ
 status: PUBLISHED
 createdAt: 2022-09-19T20:49:52.633Z

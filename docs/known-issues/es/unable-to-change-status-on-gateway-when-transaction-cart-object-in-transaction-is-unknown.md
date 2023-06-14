@@ -1,5 +1,5 @@
 ---
-title: No se puede cambiar el estado en la pasarela cuando el objeto de carro de la transacción en /transacción es "desconocido".
+title: 'No se puede cambiar el estado en la pasarela cuando el objeto de carro de la transacción en /transacción es "desconocido".'
 id: 3gWqk1T2xP3eRYZtXZLX3b
 status: PUBLISHED
 createdAt: 2023-03-23T14:27:16.116Z

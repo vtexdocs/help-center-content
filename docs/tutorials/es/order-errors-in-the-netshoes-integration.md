@@ -1,5 +1,5 @@
 ---
-title: Errores de integración de pedidos de Netshoes
+title: 'Errores de integración de pedidos de Netshoes'
 id: 616rbFQyCGEQnkAWFKMmr1
 status: PUBLISHED
 createdAt: 2021-08-26T16:12:38.158Z

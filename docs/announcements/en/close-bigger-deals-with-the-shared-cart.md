@@ -1,5 +1,5 @@
 ---
-title: "Close bigger deals with the shared cart"
+title: 'Close bigger deals with the shared cart'
 id: 1gvY2p1Rc9hjkfyVvOHY2C
 status: PUBLISHED
 createdAt: 2019-02-18T21:26:10.613Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 245tA425AIeioKAk2eaiwS
 slug: close-bigger-deals-with-the-shared-cart
 legacySlug: close-bigger-deals-with-the-shared-cart
-announcementImageID: ""
-announcementSynopsisEN: The shared cart is already available to all stores, allowing interactions of more than one customer.
+announcementImageID: ''
+announcementSynopsisEN: 'The shared cart is already available to all stores, allowing interactions of more than one customer.'
 ---
 
 We've just released (in stable) the shared cart, a feature which allows more than one customer to add, remove, or update items or data of a single shopping cart. That way orders may contain more items, leading your store towards operational efficiency, while users can get together to get discounts.

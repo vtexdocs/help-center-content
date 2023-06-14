@@ -1,5 +1,5 @@
 ---
-title: Vale (GiftCard) de cliente não localizado no módulo administrativo ao realizar consulta por CPF
+title: 'Vale (GiftCard) de cliente não localizado no módulo administrativo ao realizar consulta por CPF'
 id: 57ReN0F8H6iAsimuMoUe8Q
 status: PUBLISHED
 createdAt: 2017-07-27T15:42:13.805Z

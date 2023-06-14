@@ -1,5 +1,5 @@
 ---
-title: VTEX Shipping Network: Listos para despacho
+title: 'VTEX Shipping Network: Listos para despacho'
 id: 5YOZV7Aotv3pap0fGNESDs
 status: PUBLISHED
 createdAt: 2021-11-11T20:13:17.128Z

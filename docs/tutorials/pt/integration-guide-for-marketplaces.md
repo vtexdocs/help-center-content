@@ -1,5 +1,5 @@
 ---
-title: Guia de integração para marketplaces
+title: 'Guia de integração para marketplaces'
 id: 3yYUDMTpNSYueYSOuOyui8
 status: PUBLISHED
 createdAt: 2017-10-14T20:33:44.462Z

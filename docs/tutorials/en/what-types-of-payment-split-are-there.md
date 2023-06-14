@@ -1,5 +1,5 @@
 ---
-title: What types of payment split are there?
+title: 'What types of payment split are there?'
 id: frequentlyAskedQuestions_5174
 status: DRAFT
 createdAt: 2019-01-24T20:46:02.419Z

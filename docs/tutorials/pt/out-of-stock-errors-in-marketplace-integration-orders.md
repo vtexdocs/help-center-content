@@ -1,5 +1,5 @@
 ---
-title: Erros de falta de estoque na integração de pedidos de marketplace
+title: 'Erros de falta de estoque na integração de pedidos de marketplace'
 id: s1i5OCcPFslrMkZJLDnfP
 status: PUBLISHED
 createdAt: 2021-07-28T19:50:13.475Z

@@ -1,5 +1,5 @@
 ---
-title: Transaciones del día anterior salen con el filtro de hoy
+title: 'Transaciones del día anterior salen con el filtro de hoy'
 id: 6WFNfXrSfOy5I7OEVS1MRj
 status: PUBLISHED
 createdAt: 2019-06-14T18:18:01.260Z

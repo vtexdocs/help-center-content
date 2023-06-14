@@ -1,5 +1,5 @@
 ---
-title: La configuración de la cantidad máxima de un mismo artículo en la cesta no puede ser modificada por las cuentas gratuitas
+title: 'La configuración de la cantidad máxima de un mismo artículo en la cesta no puede ser modificada por las cuentas gratuitas'
 id: 5NqcSpcmPXEJE4KIkp6eZE
 status: PUBLISHED
 createdAt: 2022-05-12T14:52:33.074Z

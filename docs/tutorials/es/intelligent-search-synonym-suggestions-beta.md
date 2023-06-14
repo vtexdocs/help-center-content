@@ -1,5 +1,5 @@
 ---
-title: Sugerencias de sinónimos de Intelligent Search (Beta)
+title: 'Sugerencias de sinónimos de Intelligent Search (Beta)'
 id: 18A9JTCPrMsHWpFntNoKEr
 status: PUBLISHED
 createdAt: 2023-06-01T20:18:10.087Z
@@ -29,7 +29,7 @@ Para hacerlo, VTEX Intelligent Search contabiliza cuántas veces los clientes, d
 
 Puedes revisar las sugerencias generadas y elegir una de estas tres acciones: rechazar, editar o aprobar. Consulta el paso a paso en la siguiente sección.
 
-![syn-sug-es](https://images.ctfassets.net/alneenqid6w5/3bDrkDw6O6d8mHvvBKwWGm/92ab32c06dcfa505720a0813be380cdb/syn-sug-es.png)
+![syn-sug-es](//images.ctfassets.net/alneenqid6w5/3bDrkDw6O6d8mHvvBKwWGm/92ab32c06dcfa505720a0813be380cdb/syn-sug-es.png)
 
 ## Revisar sugerencias
 

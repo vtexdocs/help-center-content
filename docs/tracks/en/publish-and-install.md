@@ -1,5 +1,5 @@
 ---
-title: Publish and install
+title: 'Publish and install'
 id: 4q2yXHthMsey0iEuMUuCGi
 status: DRAFT
 createdAt: 2018-04-26T19:31:45.275Z

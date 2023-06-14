@@ -1,5 +1,5 @@
 ---
-title: Cuenta digital corporativa 
+title: 'Cuenta digital corporativa '
 id: 3MVAuZJenHAEt8jsgX99GD
 status: PUBLISHED
 createdAt: 2020-05-28T17:37:52.588Z

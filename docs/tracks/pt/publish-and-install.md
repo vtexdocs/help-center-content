@@ -1,5 +1,5 @@
 ---
-title: Publicar e instalar
+title: 'Publicar e instalar'
 id: 4q2yXHthMsey0iEuMUuCGi
 status: DRAFT
 createdAt: 2018-04-26T19:31:45.275Z

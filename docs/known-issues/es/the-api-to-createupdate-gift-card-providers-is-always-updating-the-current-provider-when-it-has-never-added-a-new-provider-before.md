@@ -1,5 +1,5 @@
 ---
-title: La API para crear/actualizar proveedores de tarjetas regalo siempre está actualizando el proveedor actual cuando nunca antes ha añadido un nuevo proveedor.
+title: 'La API para crear/actualizar proveedores de tarjetas regalo siempre está actualizando el proveedor actual cuando nunca antes ha añadido un nuevo proveedor.'
 id: 4W5sYMJegRRJIGqa4yhvUQ
 status: PUBLISHED
 createdAt: 2023-03-10T19:05:01.536Z

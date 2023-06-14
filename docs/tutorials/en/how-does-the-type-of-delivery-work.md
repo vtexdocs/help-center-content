@@ -1,5 +1,5 @@
 ---
-title: How does the type of delivery work?
+title: 'How does the type of delivery work?'
 id: tutorials_126
 status: PUBLISHED
 createdAt: 2017-04-27T22:18:17.250Z
@@ -28,7 +28,7 @@ On the cart area, the delivery options are separated by shipping type, not by ca
 
 The following picture shows how the shipping options would be displayed on the checkout according to the example mentioned before: 
 
-![Transportadoras Checkout EN](https://images.ctfassets.net/alneenqid6w5/4cCgmqCPRS8ou84UOuQege/53fdf91f37084eedf58eb9b0def2c355/Transportadoras_Checkout_EN.png)
+![Transportadoras Checkout EN](//images.ctfassets.net/alneenqid6w5/4cCgmqCPRS8ou84UOuQege/53fdf91f37084eedf58eb9b0def2c355/Transportadoras_Checkout_EN.png)
 
 Notice that, even though five carriers are registered (in the **Regular** and **Express** categories), only two freight options are displayed to the customer. This is not because the other carriers do not fulfill the cart requirement, but because, within the same type of freight, only the carrier with the lowest price or the shortest delivery time will be displayed.
 

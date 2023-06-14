@@ -1,5 +1,5 @@
 ---
-title: Como é feita a aprovação de pagamento do boleto?
+title: 'Como é feita a aprovação de pagamento do boleto?'
 id: frequentlyAskedQuestions_489
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:53.873Z

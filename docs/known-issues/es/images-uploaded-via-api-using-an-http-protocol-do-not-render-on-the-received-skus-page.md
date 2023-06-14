@@ -1,5 +1,5 @@
 ---
-title: Las imágenes enviadas por API con el protocolo HTTP no se renderizan en la página SKU Recibidos
+title: 'Las imágenes enviadas por API con el protocolo HTTP no se renderizan en la página SKU Recibidos'
 id: 2mi0Nyznh9NHnc7P5zLghn
 status: PUBLISHED
 createdAt: 2021-08-31T18:09:37.181Z

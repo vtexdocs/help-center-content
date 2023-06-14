@@ -1,5 +1,5 @@
 ---
-title: Permitir que en la nueva interfaz de administración de pedidos se devuelvan valores sin relacionar un artículo
+title: 'Permitir que en la nueva interfaz de administración de pedidos se devuelvan valores sin relacionar un artículo'
 id: 4mD1o81lDZEB5y35KRM6LW
 status: PUBLISHED
 createdAt: 2022-02-08T01:36:09.738Z

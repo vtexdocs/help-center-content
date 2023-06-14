@@ -1,5 +1,5 @@
 ---
-title: Anúncios e envio de produtos para o marketplace
+title: 'Anúncios e envio de produtos para o marketplace'
 id: 7nzrNSKFfEhddhltfHe59f
 status: DRAFT
 createdAt: 2021-01-26T18:37:33.046Z

@@ -1,5 +1,5 @@
 ---
-title: "Texto grande indexado" y "Texto indexado" no se modifican con la importación de la especificación
+title: '"Texto grande indexado" y "Texto indexado" no se modifican con la importación de la especificación'
 id: 5ty5q8AfOROtCc8GegzZbd
 status: PUBLISHED
 createdAt: 2022-04-22T17:12:36.962Z

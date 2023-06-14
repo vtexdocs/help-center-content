@@ -1,5 +1,5 @@
 ---
-title: Para el pago en efectivo (1 plazo) está siendo procesado por las condiciones de pago que no tienen la opción de 1 plazo
+title: 'Para el pago en efectivo (1 plazo) está siendo procesado por las condiciones de pago que no tienen la opción de 1 plazo'
 id: 4IFxkUqJ9jdqkJf7kSNUcy
 status: PUBLISHED
 createdAt: 2022-03-26T12:27:04.928Z

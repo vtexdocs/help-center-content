@@ -1,5 +1,5 @@
 ---
-title: Configurar a integração com o TikTok for Business no Admin VTEX
+title: 'Configurar a integração com o TikTok for Business no Admin VTEX'
 id: 4AEUg7pEdX1beOaQhFf0wC
 status: PUBLISHED
 createdAt: 2022-04-14T21:22:01.564Z
@@ -83,7 +83,7 @@ Depois de preencher o formulário de configuração da integração, você preci
 
 Na página **Set up TikTok For Business** (Configurar o TikTok For Business), ilustrada abaixo, é necessário cumprir as instruções de configuração descritas a seguir.
 
-![set-up-tiktok-for-business](https://images.ctfassets.net/alneenqid6w5/77d9v0437SxRBVXD0OUmW/290a1ece93c0fcb0fe91a1da61352513/image2.png)
+![set-up-tiktok-for-business](//images.ctfassets.net/alneenqid6w5/77d9v0437SxRBVXD0OUmW/290a1ece93c0fcb0fe91a1da61352513/image2.png)
 
 1. Clique na seção **TikTok For Business Account** e verifique se a sua conta está listada.
     * Caso queira conectar outra conta, clique em `Disconnect` e repita a etapa de login descrita em [Conectar a conta do TikTok](#conectar-a-conta-do-tiktok).

@@ -1,5 +1,5 @@
 ---
-title: Alguns módulos do Admin VTEX e storefront da loja podem sofrer problemas no Firefox 89.0
+title: 'Alguns módulos do Admin VTEX e storefront da loja podem sofrer problemas no Firefox 89.0'
 id: 10BUSPqviNy4VQzuIbllKL
 status: PUBLISHED
 createdAt: 2021-06-08T17:54:36.813Z
@@ -40,5 +40,5 @@ Não se preocupe: desligar essa opção não significa que sua loja estará desp
 Se após estes passos o seu Admin ou loja ainda não carregarem, sugerimos que tente acessá-lo com outro navegador. 
 </div>  
 
-![Firefox bug PT](https://images.ctfassets.net/alneenqid6w5/4EZo0FaHBx1DfbSrGVpbku/4ec41440848f1adad3924c07d5154369/Firefox_bug_PT.jpg)
+![Firefox bug PT](//images.ctfassets.net/alneenqid6w5/4EZo0FaHBx1DfbSrGVpbku/4ec41440848f1adad3924c07d5154369/Firefox_bug_PT.jpg)
 

@@ -1,5 +1,5 @@
 ---
-title: "Cambios en orderPlaced proporcionan datos más precisos en Google Analytics"
+title: 'Cambios en orderPlaced proporcionan datos más precisos en Google Analytics'
 id: 4u1VqmUtriycuukqqcSKaA
 status: PUBLISHED
 createdAt: 2018-09-04T20:11:58.119Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: authors_24
 slug: cambios-en-orderplaced-proporcionan-datos-mas-precisos-en-google-analytics
 legacySlug: cambios-en-orderplaced-proporcionan-datos-mas-precisos-en-google-analytics
-announcementImageID: ""
-announcementSynopsisES: Los pedidos con productos de más de un vendedor ahora generan un único evento en Google Analytics.
+announcementImageID: ''
+announcementSynopsisES: 'Los pedidos con productos de más de un vendedor ahora generan un único evento en Google Analytics.'
 ---
 
 La página de confirmación de pedido (también conocida como orderPlaced) recibió una serie de mejoras en el data layer. Los cambios corrigen las redundancias que existían en la creación de eventos en Google Analytics.

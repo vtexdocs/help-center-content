@@ -1,5 +1,5 @@
 ---
-title:  The card-ui generates an error when the user chooses to pay with two cards, changes the payment method and returns to the payment with two cards
+title: ' The card-ui generates an error when the user chooses to pay with two cards, changes the payment method and returns to the payment with two cards'
 id: 1LZL3Gq40b7TRjCLnASacW
 status: PUBLISHED
 createdAt: 2022-11-30T19:03:35.002Z

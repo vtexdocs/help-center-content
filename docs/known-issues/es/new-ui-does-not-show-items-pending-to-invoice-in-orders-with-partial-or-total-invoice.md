@@ -1,5 +1,5 @@
 ---
-title: La nueva interfaz de usuario no muestra los artículos pendientes de facturar en los pedidos con factura parcial o total.
+title: 'La nueva interfaz de usuario no muestra los artículos pendientes de facturar en los pedidos con factura parcial o total.'
 id: yIkfB9VkFUeywJzclMYKe
 status: PUBLISHED
 createdAt: 2022-08-26T14:24:13.932Z

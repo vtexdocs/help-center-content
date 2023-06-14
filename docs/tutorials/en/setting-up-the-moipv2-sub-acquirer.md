@@ -1,5 +1,5 @@
 ---
-title: Setting up the MoipV2 sub-acquirer
+title: 'Setting up the MoipV2 sub-acquirer'
 id: 4BipUcTxQ7cq2BiYzUDmEH
 status: DRAFT
 createdAt: 2021-12-03T16:57:26.876Z

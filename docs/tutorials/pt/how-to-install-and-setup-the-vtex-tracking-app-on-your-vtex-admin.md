@@ -1,5 +1,5 @@
 ---
-title: Como instalar e configurar a app VTEX Tracking
+title: 'Como instalar e configurar a app VTEX Tracking'
 id: 3ejuFsJ1m0r08cT6afpIPf
 status: PUBLISHED
 createdAt: 2020-12-22T14:35:26.561Z
@@ -37,7 +37,7 @@ Feito isso, sua plataforma VTEX terá a nova aba VTEX Tracking liberada no menu 
 
 A integração entre sua loja no Admin da VTEX, e a app VTEX Tracking depende de algumas configurações. Confira abaixo as configurações necessárias para que seu serviço VTEX Tracking seja ativado, e o passo a passo para acessar o menu de Configurações. 
 
-![VTEX Tracking app install](https://images.ctfassets.net/alneenqid6w5/2TreUSwOkfK0VVTLxHLFpi/a6005d9583994252ea385c55bd1a35a6/VTEX_Tracking_app_install.jpg) 
+![VTEX Tracking app install](//images.ctfassets.net/alneenqid6w5/2TreUSwOkfK0VVTLxHLFpi/a6005d9583994252ea385c55bd1a35a6/VTEX_Tracking_app_install.jpg) 
 
 1. No Admin VTEX, acesse **Aplicativos > Apps instalados > VTEX Tracking**, ou digite **VTEX Tracking** na barra de busca no topo da página.
 2. Digite o **Token da API** na caixa de texto.  

@@ -1,5 +1,5 @@
 ---
-title: Catalog Search Facets API does not return information for products unavailable
+title: 'Catalog Search Facets API does not return information for products unavailable'
 id: 1JrbscqI4BQgFqfVuRZIl8
 status: PUBLISHED
 createdAt: 2022-05-23T13:58:53.501Z

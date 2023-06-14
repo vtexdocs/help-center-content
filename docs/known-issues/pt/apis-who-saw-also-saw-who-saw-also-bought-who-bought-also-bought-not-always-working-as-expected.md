@@ -1,5 +1,5 @@
 ---
-title: APIs Que Viram Também Viram, Quem Viram Também Compraram, Quem Compraram Também Compraram Nem sempre funcionando como esperado
+title: 'APIs Que Viram Também Viram, Quem Viram Também Compraram, Quem Compraram Também Compraram Nem sempre funcionando como esperado'
 id: KawgHAWqUlCvCGCAaHxDj
 status: PUBLISHED
 createdAt: 2022-12-07T12:32:13.613Z

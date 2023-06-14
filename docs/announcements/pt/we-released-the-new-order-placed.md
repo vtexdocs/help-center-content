@@ -1,5 +1,5 @@
 ---
-title: "Lançamos o novo Order Placed"
+title: 'Lançamos o novo Order Placed'
 id: 4tAmWn79M44eCqwgeyMM68
 status: PUBLISHED
 createdAt: 2017-10-26T17:24:24.087Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: authors_24
 slug: lancamos-o-novo-order-placed
 legacySlug: lancamos-o-novo-order-placed
-announcementImageID: ""
-announcementSynopsisPT: A nova versão da página de confirmação de pedido já está disponível
+announcementImageID: ''
+announcementSynopsisPT: 'A nova versão da página de confirmação de pedido já está disponível'
 ---
 
 No início deste mês divulgamos o lançamento de uma das muitas novidades que a VTEX está desenvolvendo para melhorar ainda mais a experiência do usuário — a nova seção de Meus Pedidos. Hoje lançamos mais uma feature que integra essa seção: a nova versão da página de confirmação de pedido (Order Placed).

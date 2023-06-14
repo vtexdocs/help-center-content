@@ -1,5 +1,5 @@
 ---
-title: How to create landing pages with customized URLs
+title: 'How to create landing pages with customized URLs'
 id: q0p2UU6sBaYcEMsq24YSi
 status: PUBLISHED
 createdAt: 2018-10-02T21:22:13.046Z

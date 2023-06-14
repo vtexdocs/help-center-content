@@ -1,5 +1,5 @@
 ---
-title: "Nova API do Master Data aumenta flexibilidade de configuração"
+title: 'Nova API do Master Data aumenta flexibilidade de configuração'
 id: 46r2SSSWz6QQWyYwGyGwme
 status: PUBLISHED
 createdAt: 2017-12-22T14:29:00.901Z
@@ -10,8 +10,8 @@ productTeam: Master Data
 author: authors_24
 slug: nova-api-do-master-data-aumenta-flexibilidade-de-configuracao
 legacySlug: nova-api-do-master-data-aumenta-flexibilidade-de-configuracao
-announcementImageID: ""
-announcementSynopsisPT: Nova versão traz recursos que permitem mais flexibilidade de configuração das estruturas armazenadas no Master Data
+announcementImageID: ''
+announcementSynopsisPT: 'Nova versão traz recursos que permitem mais flexibilidade de configuração das estruturas armazenadas no Master Data'
 ---
 
 Foi lançada a versão 2.0 da API do Master Data - o repositório de dados dinâmico, flexível e escalável da VTEX.

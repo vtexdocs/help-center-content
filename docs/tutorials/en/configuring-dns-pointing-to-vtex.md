@@ -1,5 +1,5 @@
 ---
-title: Setting up DNS pointing to VTEX
+title: 'Setting up DNS pointing to VTEX'
 id: tutorials_4280
 status: DRAFT
 createdAt: 2017-04-27T21:51:26.318Z

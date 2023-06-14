@@ -1,5 +1,5 @@
 ---
-title: Configurar recurrencia en condiciones de pago
+title: 'Configurar recurrencia en condiciones de pago'
 id: 6EGuoAytLqU2CqUuaI2GUW
 status: PUBLISHED
 createdAt: 2017-06-29T20:56:04.718Z

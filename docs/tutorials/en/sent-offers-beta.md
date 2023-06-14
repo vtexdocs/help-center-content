@@ -1,5 +1,5 @@
 ---
-title: Sent Offers (Beta)
+title: 'Sent Offers (Beta)'
 id: 6yg2CBv5Z5AnD0qS0cw2sa
 status: DRAFT
 createdAt: 2021-03-17T00:16:12.984Z
@@ -20,7 +20,7 @@ The Sent Offers module allows sellers to monitor their offers’ submission and 
 - [Offers](https://help.vtex.com/en/tutorial/anuncios-enviados-beta--6yg2CBv5Z5AnD0qS0cw2sa#offers)            
 - [Channels](https://help.vtex.com/en/tutorial/anuncios-enviados-beta--6yg2CBv5Z5AnD0qS0cw2sa#channels)          
 
-![Anuncios enviados Home EN](https://images.ctfassets.net/alneenqid6w5/4eTCYZQ0RRa2n9JN81RhRG/a9028554a465b67e3dec924aa11d0afa/Anuncios_enviados_Home_EN.jpg)
+![Anuncios enviados Home EN](//images.ctfassets.net/alneenqid6w5/4eTCYZQ0RRa2n9JN81RhRG/a9028554a465b67e3dec924aa11d0afa/Anuncios_enviados_Home_EN.jpg)
 
 ## Offers
 

@@ -1,5 +1,5 @@
 ---
-title: Changing the logo on the bank slip
+title: 'Changing the logo on the bank slip'
 id: frequentlyAskedQuestions_486
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:53.884Z

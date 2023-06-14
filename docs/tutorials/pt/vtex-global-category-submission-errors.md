@@ -1,5 +1,5 @@
 ---
-title: Erros no envio da categoria global VTEX
+title: 'Erros no envio da categoria global VTEX'
 id: 7iDsEIBlQb5er3C97Sr6n8
 status: DRAFT
 createdAt: 2022-02-11T01:33:54.852Z

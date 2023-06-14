@@ -1,5 +1,5 @@
 ---
-title: Planilha de imagens não exportadas quando a conta tem muitos skus
+title: 'Planilha de imagens não exportadas quando a conta tem muitos skus'
 id: 61QPFKVJfCSIMyX1iLuJbQ
 status: PUBLISHED
 createdAt: 2022-08-02T19:05:25.641Z

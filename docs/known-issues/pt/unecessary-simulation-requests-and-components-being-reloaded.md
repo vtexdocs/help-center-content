@@ -1,5 +1,5 @@
 ---
-title: Pedidos desnecessários de simulação e componentes sendo recarregados
+title: 'Pedidos desnecessários de simulação e componentes sendo recarregados'
 id: 1qXJU1XC4r0e9KWxNUKp3L
 status: PUBLISHED
 createdAt: 2022-08-30T17:34:47.635Z

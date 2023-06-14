@@ -1,5 +1,5 @@
 ---
-title: Monitor da Integração
+title: 'Monitor da Integração'
 id: 1QFvNlIx1qaxSGX1gg9sP5
 status: PUBLISHED
 createdAt: 2021-10-06T15:50:32.277Z

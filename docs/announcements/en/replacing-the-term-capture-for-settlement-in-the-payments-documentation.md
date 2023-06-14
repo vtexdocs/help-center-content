@@ -1,5 +1,5 @@
 ---
-title: "Replacing the term “capture” for “settlement” in the Payments documentation"
+title: 'Replacing the term “capture” for “settlement” in the Payments documentation'
 id: 5tHBUvz9YtE030Hp81LVXS
 status: PUBLISHED
 createdAt: 2022-06-30T20:10:32.273Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 slug: replacing-the-term-capture-for-settlement-in-the-payments-documentation
 legacySlug: replacing-the-term-capture-for-settlement-in-the-payments-documentation
-announcementImageID: ""
-announcementSynopsisEN: The "capture" term was replaced by "settlement" throughout the documentation in the Payments context
+announcementImageID: ''
+announcementSynopsisEN: 'The "capture" term was replaced by "settlement" throughout the documentation in the Payments context'
 ---
 
 The term “capture” (and variants like: “to capture,” “captured”) was replaced with “settlement” (and the equivalent variants like: “to settle,” “settled”) throughout the Payments documentation to better align the text with platform behavior.

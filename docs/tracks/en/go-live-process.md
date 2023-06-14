@@ -1,5 +1,5 @@
 ---
-title: Go-live your store
+title: 'Go-live your store'
 id: 1iP90RcJvlrfQhnlxM54wo
 status: PUBLISHED
 createdAt: 2022-12-09T19:12:28.218Z
@@ -17,7 +17,7 @@ If you have [configured your store's operation](https://help.vtex.com/pt/tracks)
 
 Here you will find detailed step-by-step instructions on how to go live with your store.
 
-![Go-live](https://images.ctfassets.net/alneenqid6w5/1DBW4Cw10Z3Gt4orXMAqWE/b1f21c5f9b94732df8e7ca5fd3b6ed69/go_live_en.jpg)
+![Go-live](//images.ctfassets.net/alneenqid6w5/1DBW4Cw10Z3Gt4orXMAqWE/b1f21c5f9b94732df8e7ca5fd3b6ed69/go_live_en.jpg)
 
 <div class = "alert alert-info">
 Note that a store in production is different from an account in production. In general, to have a store in production, you need to put the account in production and set up DNS pointing. See below all the steps involved in this process.

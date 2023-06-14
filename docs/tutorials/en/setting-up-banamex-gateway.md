@@ -1,5 +1,5 @@
 ---
-title: Setting up Banamex gateway
+title: 'Setting up Banamex gateway'
 id: 8TnJhdKnPGYsoUyAGGQgI
 status: DRAFT
 createdAt: 2018-05-11T21:13:33.957Z

@@ -1,5 +1,5 @@
 ---
-title: Mapping colors and sizes
+title: 'Mapping colors and sizes'
 id: HvbHUmSDbHe1io6XqvHS3
 status: CHANGED
 createdAt: 2019-11-18T13:40:10.167Z
@@ -65,7 +65,7 @@ You should choose the closest color match, which in Wish's case can be "White/Ic
 The table's header should be filled in exactly as in the example below. Remember to not add any special characters such as "enter" or "space" when filling this table in.   
 </div>
 
-![PT - Tabela Wish](https://images.ctfassets.net/alneenqid6w5/5fvuqSjSRGHwbFVNUSTM3T/6f8f13054b1be01cbd1340d7b5b90bbd/Tabela_Wish.png)
+![PT - Tabela Wish](//images.ctfassets.net/alneenqid6w5/5fvuqSjSRGHwbFVNUSTM3T/6f8f13054b1be01cbd1340d7b5b90bbd/Tabela_Wish.png)
 
 ## Uploading the spreadsheet
 

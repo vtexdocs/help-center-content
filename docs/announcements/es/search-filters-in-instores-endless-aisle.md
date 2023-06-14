@@ -1,5 +1,5 @@
 ---
-title: "Filtros de búsqueda en el Pasillo Infinito de inStore"
+title: 'Filtros de búsqueda en el Pasillo Infinito de inStore'
 id: 7wRkHWBnad2W1xILet7fyw
 status: PUBLISHED
 createdAt: 2021-12-02T16:43:25.612Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
 slug: filtros-de-busqueda-en-el-pasillo-infinito-de-instore
 legacySlug: filtros-de-busqueda-en-el-pasillo-infinito-de-instore
-announcementImageID: ""
-announcementSynopsisES: Los filtros de búsqueda de VTEX Intelligent Search están ahora disponibles en el Pasillo Infinito de inStore.
+announcementImageID: ''
+announcementSynopsisES: 'Los filtros de búsqueda de VTEX Intelligent Search están ahora disponibles en el Pasillo Infinito de inStore.'
 ---
 
 InStore es uno de los principales productos de VTEX para las operaciones de comercio unificado. Es una aplicación que permite a tu tienda ofrecer una verdadera experiencia _omnichannel_, integrando perfectamente tus canales _online_ y físicos y poniendo a tus clientes en el centro del negocio.
@@ -24,7 +24,7 @@ Anteriormente, los filtros de búsqueda de VTEX Intelligent Search no estaban di
 
 Con la nueva funcionalidad, al buscar un término, los vendedores pueden filtrar los resultados por rango de precios, departamento y marca, por ejemplo, entre otros filtros configurables en VTEX Intelligent Search. Esto permite encontrar rápidamente el producto deseado.
 
-![instore-filtros-es](https://images.ctfassets.net/alneenqid6w5/2ppFcrZLpmUs1Sa1d93mYj/b4bbbc744c5efe25cbc100d53113ca6b/screencapture-demoinstore-myvtex-checkout-instore-2021-12-02-14_09_28.png)
+![instore-filtros-es](//images.ctfassets.net/alneenqid6w5/2ppFcrZLpmUs1Sa1d93mYj/b4bbbc744c5efe25cbc100d53113ca6b/screencapture-demoinstore-myvtex-checkout-instore-2021-12-02-14_09_28.png)
 
 ## ¿Por qué realizamos este cambio?
 

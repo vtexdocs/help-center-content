@@ -1,5 +1,5 @@
 ---
-title: Add 3DS support to the integration with Adyen
+title: 'Add 3DS support to the integration with Adyen'
 id: 3DNZeC9qJaC2GMIw4mawYk
 status: PUBLISHED
 createdAt: 2017-07-25T18:20:05.681Z

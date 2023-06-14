@@ -1,5 +1,5 @@
 ---
-title: A Condição Especial do Banco Emissor está causando para alguns BINs o erro na página de checkout "Banco Emissor para este banco não é aceito".
+title: 'A Condição Especial do Banco Emissor está causando para alguns BINs o erro na página de checkout "Banco Emissor para este banco não é aceito".'
 id: 7HgNpwcvqQDwSfJfv9KpY8
 status: PUBLISHED
 createdAt: 2022-03-25T19:04:12.310Z

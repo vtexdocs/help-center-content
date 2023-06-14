@@ -1,5 +1,5 @@
 ---
-title: Cambiar el idioma de inStore
+title: 'Cambiar el idioma de inStore'
 id: 5xZTQNOMRKXqWjWol2sUbu
 status: DRAFT
 createdAt: 2020-06-28T17:20:22.942Z
@@ -79,4 +79,4 @@ Después de hacer el cambio de código, guarde el archivo `checkout-instore-cust
 
 Luego, en la aplicación inStore, para ver los cambios reflejados, ingrese al menú y haga clic en el botón __Restaurar datos__, como se muestra en la imagen a continuación.
 
-![22. Change the inStore language - 1 - ES.png?h=250](https://images.ctfassets.net/alneenqid6w5/6kyOLVTDlyawsehMQwORid/589ff63de4574dc8cf1d9cc3ed84024a/22._Change_the_inStore_language_-_1_-_ES.png_h_250)
+![22. Change the inStore language - 1 - ES.png?h=250](//images.ctfassets.net/alneenqid6w5/6kyOLVTDlyawsehMQwORid/589ff63de4574dc8cf1d9cc3ed84024a/22._Change_the_inStore_language_-_1_-_ES.png_h_250)

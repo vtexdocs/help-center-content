@@ -1,5 +1,5 @@
 ---
-title: Configuring B2B self-service stores
+title: 'Configuring B2B self-service stores'
 id: 4576nMaRKk4madDZ7liiXS
 status: PUBLISHED
 createdAt: 2021-03-30T13:11:03.141Z

@@ -1,5 +1,5 @@
 ---
-title: La actualización del vendedor a través de Admin está devolviendo algunos campos al valor por defecto después de cambiarlo a través de la API
+title: 'La actualización del vendedor a través de Admin está devolviendo algunos campos al valor por defecto después de cambiarlo a través de la API'
 id: 2gtqnZmCW59OKoqRpU3UaQ
 status: PUBLISHED
 createdAt: 2022-06-30T12:21:23.852Z

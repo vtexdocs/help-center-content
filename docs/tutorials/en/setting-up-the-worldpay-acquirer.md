@@ -1,5 +1,5 @@
 ---
-title: Setting up the Worldpay acquirer
+title: 'Setting up the Worldpay acquirer'
 id: 7GCtigwhNYMi604UM0KeO6
 status: PUBLISHED
 createdAt: 2018-02-28T22:09:45.321Z

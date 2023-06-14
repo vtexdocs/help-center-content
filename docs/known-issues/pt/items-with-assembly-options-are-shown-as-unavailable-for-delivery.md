@@ -1,5 +1,5 @@
 ---
-title: Itens com Assembly options aparecem como indisponíveis para entrega
+title: 'Itens com Assembly options aparecem como indisponíveis para entrega'
 id: uDN6ZTQgbLlZul7eLP5SQ
 status: PUBLISHED
 createdAt: 2021-09-27T20:09:20.031Z

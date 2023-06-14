@@ -1,5 +1,5 @@
 ---
-title: La regex de Mastercard no está actualizada, lo que hace que identifiquemos mal algunos BINs
+title: 'La regex de Mastercard no está actualizada, lo que hace que identifiquemos mal algunos BINs'
 id: 5gx4dSY2P5gGE0JI661hGL
 status: PUBLISHED
 createdAt: 2022-08-20T00:03:11.640Z

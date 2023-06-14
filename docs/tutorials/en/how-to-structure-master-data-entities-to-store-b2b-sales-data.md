@@ -1,5 +1,5 @@
 ---
-title: How to structure Master Data entities to store B2B sales data
+title: 'How to structure Master Data entities to store B2B sales data'
 id: 7vHtMxXLc9oYnEfajjtTqL
 status: PUBLISHED
 createdAt: 2020-05-29T12:32:31.968Z

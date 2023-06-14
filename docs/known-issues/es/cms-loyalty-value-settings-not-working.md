@@ -1,5 +1,5 @@
 ---
-title: La configuración del valor de fidelización CMS no funciona
+title: 'La configuración del valor de fidelización CMS no funciona'
 id: 5oh7WEZvQO339HRaWhBUfA
 status: PUBLISHED
 createdAt: 2023-01-04T14:18:17.304Z

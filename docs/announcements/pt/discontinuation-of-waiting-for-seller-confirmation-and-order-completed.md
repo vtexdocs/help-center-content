@@ -1,5 +1,5 @@
 ---
-title: "Descontinuação dos status dos pedidos de Marketplace waiting-for-seller-confirmation e order-completed"
+title: 'Descontinuação dos status dos pedidos de Marketplace waiting-for-seller-confirmation e order-completed'
 id: 7jnFwL3cIqwdTu7yb4LXwj
 status: CHANGED
 createdAt: 2019-06-28T13:57:39.046Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: descontinuacao-dos-status-dos-pedidos-de-marketplace-waiting-for-seller
 legacySlug: descontinuacao-dos-status-dos-pedidos-de-marketplace-waiting-for-seller
-announcementImageID: ""
-announcementSynopsisPT: Os status dos pedidos de Marketplace `waiting-for-seller-confirmation` e `order-completed` vão ser descontinuados
+announcementImageID: ''
+announcementSynopsisPT: 'Os status dos pedidos de Marketplace `waiting-for-seller-confirmation` e `order-completed` vão ser descontinuados'
 ---
 
 A partir de 15 de Julho de 2019, os status dos pedidos de Marketplace `waiting-for-seller-confirmation` e `order-completed` vão ser descontinuados.

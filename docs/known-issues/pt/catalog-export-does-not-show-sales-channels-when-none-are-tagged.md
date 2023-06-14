@@ -1,5 +1,5 @@
 ---
-title: Exportação de Catálogo não mostra os Canais de Venda quando "nenhum" está marcado
+title: 'Exportação de Catálogo não mostra os Canais de Venda quando "nenhum" está marcado'
 id: 10Bozz8ai3fAvu1m9Ex2Gk
 status: PUBLISHED
 createdAt: 2022-12-23T13:38:32.114Z

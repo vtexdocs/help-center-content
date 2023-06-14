@@ -1,5 +1,5 @@
 ---
-title: Configurar Feed v3 do módulo de Gerenciamento de pedidos 
+title: 'Configurar Feed v3 do módulo de Gerenciamento de pedidos '
 id: 5qDml3cQypWDRTgw69s4C1
 status: DRAFT
 createdAt: 2019-01-30T20:34:24.388Z

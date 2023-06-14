@@ -1,5 +1,5 @@
 ---
-title: Calcular receita a partir da planilha exportada do módulo Pedidos
+title: 'Calcular receita a partir da planilha exportada do módulo Pedidos'
 id: 51KTkEqie4UC46qO8KgGGE
 status: PUBLISHED
 createdAt: 2018-02-21T13:17:33.632Z

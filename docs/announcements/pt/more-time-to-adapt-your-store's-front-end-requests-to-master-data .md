@@ -1,5 +1,5 @@
 ---
-title: "Mais tempo para adaptar as requisições de front-end da sua loja ao Master Data"
+title: 'Mais tempo para adaptar as requisições de front-end da sua loja ao Master Data'
 id: 6pCQO6hn2eK7h6e6vrqAdk
 status: PUBLISHED
 createdAt: 2019-09-24T16:20:44.119Z
@@ -10,8 +10,8 @@ productTeam: Master Data
 author: authors_31
 slug: mais-tempo-para-adaptar-as-requisicoes-de-front-end-da-sua-loja-ao-master
 legacySlug: mais-tempo-para-adaptar-as-requisicoes-de-front-end-da-sua-loja
-announcementImageID: ""
-announcementSynopsisPT: Prorrogamos a data da descontinuação__ deste recurso para o dia 07 de outubro de 2019.
+announcementImageID: ''
+announcementSynopsisPT: 'Prorrogamos a data da descontinuação__ deste recurso para o dia 07 de outubro de 2019.'
 ---
 
 No início do mês de setembro, iniciamos uma campanha com objetivo de apoiar nossos clientes e parceiros no processo de adaptação das requisições de front-end ao Master Data, que deixará de suportar __CORS__ (Cross-Origin Resource Sharing).

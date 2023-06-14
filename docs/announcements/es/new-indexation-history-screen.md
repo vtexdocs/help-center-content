@@ -1,5 +1,5 @@
 ---
-title: "Historial de indexación: actualización de la pantalla para monitorear la indexación de los productos"
+title: 'Historial de indexación: actualización de la pantalla para monitorear la indexación de los productos'
 id: 5FGdz2qz6RwaRUiFdURNqR
 status: PUBLISHED
 createdAt: 2022-09-06T14:42:09.951Z
@@ -10,15 +10,15 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: nueva-pantalla-historial-de-indexacion
 legacySlug: nueva-pantalla-historial-de-indexacion
-announcementImageID: ""
-announcementSynopsisES: Actualización de la pantalla Historial de indexación permite dar seguimiento a la indexación de tu tienda
+announcementImageID: ''
+announcementSynopsisES: 'Actualización de la pantalla Historial de indexación permite dar seguimiento a la indexación de tu tienda'
 ---
 
 En toda operación de ecommerce, es necesario registrar o cambiar información de los productos de la tienda. Para que estos datos estén actualizados y rápidamente disponibles al cliente, hay que indexar los productos.
 
 Para mejorar la experiencia de monitoreo de la indexación del catálogo, rediseñamos la página **Historial de indexación** en el Admin VTEX. La nueva interfaz permite dar seguimiento al tiempo de indexación de los productos y al status de indexación de la tienda.
 
-![Histórico da Indexação 1 - ES](https://images.ctfassets.net/alneenqid6w5/5xzFLcLomZTSXgdqyK2rH/89edd8125cb7ba75422cd923886126df/Screenshot_2022-09-01_at_12-50-55_Historial_de_indexaci__n.png)
+![Histórico da Indexação 1 - ES](//images.ctfassets.net/alneenqid6w5/5xzFLcLomZTSXgdqyK2rH/89edd8125cb7ba75422cd923886126df/Screenshot_2022-09-01_at_12-50-55_Historial_de_indexaci__n.png)
 
 ## ¿Qué cambió?
 

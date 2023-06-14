@@ -1,5 +1,5 @@
 ---
-title: Redirecionamentos
+title: 'Redirecionamentos'
 id: 7x52Q9iHzGmFDLyyVOIcz6
 status: PUBLISHED
 createdAt: 2019-11-22T20:53:27.423Z

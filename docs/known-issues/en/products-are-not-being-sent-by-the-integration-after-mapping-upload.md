@@ -1,5 +1,5 @@
 ---
-title: Products are not being sent by the integration after mapping upload
+title: 'Products are not being sent by the integration after mapping upload'
 id: 2A6AvKjkTm2wocOg4ywIAa
 status: PUBLISHED
 createdAt: 2018-05-04T17:50:27.140Z

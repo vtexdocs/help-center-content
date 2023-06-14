@@ -1,5 +1,5 @@
 ---
-title: Qué configurar en VTEX antes de iniciar la integración
+title: 'Qué configurar en VTEX antes de iniciar la integración'
 id: 3OHGQIQmt1dKw9RwKruE7H
 status: PUBLISHED
 createdAt: 2019-11-16T15:47:18.872Z

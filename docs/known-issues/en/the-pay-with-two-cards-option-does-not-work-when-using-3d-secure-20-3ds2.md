@@ -1,5 +1,5 @@
 ---
-title: The “Pay with two cards” option does not work when using 3-D Secure 2.0 (3DS2)
+title: 'The “Pay with two cards” option does not work when using 3-D Secure 2.0 (3DS2)'
 id: 7tjxz6qEsQz9o42diSqMpt
 status: PUBLISHED
 createdAt: 2021-06-15T15:24:52.846Z

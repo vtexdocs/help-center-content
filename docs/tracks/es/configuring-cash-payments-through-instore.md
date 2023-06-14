@@ -1,5 +1,5 @@
 ---
-title: Configurar pago en efectivo por VTEX Sales App
+title: 'Configurar pago en efectivo por VTEX Sales App'
 id: 4ye3bIWldaHJxGTgAziBZo
 status: PUBLISHED
 createdAt: 2020-06-28T16:04:36.122Z
@@ -33,7 +33,7 @@ Ahora vamos a crear la condición de pago.
 1. Aún en la página de **Configuración **del módulo de **Pagos**, haz clic en la pestaña **Planes de Pago**.
 2. Haz clic en el botón verde con el ícono `+` para añadir una nueva condición de pago, como se muestra a continuación.
 
-![es-add-payment-condition](https://images.ctfassets.net/alneenqid6w5/27933kBohPNieKSiiulGZA/7aa38306086b2bb26b9b789b63baeeb0/es-add-payment-condition.png)
+![es-add-payment-condition](//images.ctfassets.net/alneenqid6w5/27933kBohPNieKSiiulGZA/7aa38306086b2bb26b9b789b63baeeb0/es-add-payment-condition.png)
 
 3. En la sección __Pagos Personalizados__, haz clic en la opción __Efectivo__ que ha creado.
 4. Introduce un nombre para esta condición de pago, cambia el status a __Activo__, y en el campo __Procesar con la afiliación__, selecciona el pago personalizado que creaste en el paso anterior.

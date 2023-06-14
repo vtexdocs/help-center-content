@@ -1,5 +1,5 @@
 ---
-title: Why was my order cancelled in VTEX, and not in the marketplace?
+title: 'Why was my order cancelled in VTEX, and not in the marketplace?'
 id: frequentlyAskedQuestions_678
 status: PUBLISHED
 createdAt: 2017-04-27T22:30:17.232Z

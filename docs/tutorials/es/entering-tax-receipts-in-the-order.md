@@ -1,5 +1,5 @@
 ---
-title: Insertar factura en el pedido
+title: 'Insertar factura en el pedido'
 id: tutorials_193
 status: DRAFT
 createdAt: 2017-04-27T22:14:57.365Z
@@ -18,7 +18,7 @@ Ese es el procedimiento después del manejo del pedido: la creación de la nota 
 
 Para hacerlo manualmente por **Gestión de pedidos**, basta hacer clic en el botón `Facturar Paqueta`, como en la imagen abajo.
 
-![faturar-pedido-ex es](https://images.ctfassets.net/alneenqid6w5/3JeHgjEDtmm4ksSwamsW2W/d49ebe8fa3ea9e920e8d52f530182895/ex_1_es.png)
+![faturar-pedido-ex es](//images.ctfassets.net/alneenqid6w5/3JeHgjEDtmm4ksSwamsW2W/d49ebe8fa3ea9e920e8d52f530182895/ex_1_es.png)
 
 Con la inserción de la nota fiscal con el valor completo del pedido, él pasará para el status **Facturado.**
 

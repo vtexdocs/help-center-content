@@ -1,5 +1,5 @@
 ---
-title: El límite de variación de precios sólo funciona en la póliza principal
+title: 'El límite de variación de precios sólo funciona en la póliza principal'
 id: 201VSNEJLEl0vuDAjYP0kJ
 status: PUBLISHED
 createdAt: 2022-03-15T22:37:13.420Z

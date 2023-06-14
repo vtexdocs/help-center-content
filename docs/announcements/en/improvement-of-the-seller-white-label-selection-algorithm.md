@@ -1,5 +1,5 @@
 ---
-title: "Improvement of the White Label Seller selection algorithm"
+title: 'Improvement of the White Label Seller selection algorithm'
 id: 2BI2ZElxvLvsfZsly9lLsx
 status: PUBLISHED
 createdAt: 2021-03-04T00:33:02.559Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: improvement-of-the-seller-white-label-selection-algorithm
 legacySlug: improvement-of-the-seller-white-label-selection-algorithm
-announcementImageID: ""
-announcementSynopsisEN: Understanding how the seller selection logic works for delivery or pickup
+announcementImageID: ''
+announcementSynopsisEN: 'Understanding how the seller selection logic works for delivery or pickup'
 ---
 
 When a store has multiple sellers to increase its product offering and logistic capabilities, there could be infinite combinations for price and delivery time available for the same SKU. To ensure showing the customer the best alternatives, we coded different filters and business rules in the [seller selection algorithm](https://help.vtex.com/en/tutorial/algoritmo-de-selecao-de-white-label-sellers--3MemNQ4pKkWCpMdzI27AHa?&utm_source=autocomplete) at checkout.

@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 
 slug: nuevo-objeto-devuelto-en-api-get-order-cancelreason
 legacySlug: nuevo-objeto-devuelto-en-api-get-order-cancelreason
-announcementImageID: ""
-announcementSynopsisES: 
+announcementImageID: ''
+announcementSynopsisES: ''
 ---
 
 

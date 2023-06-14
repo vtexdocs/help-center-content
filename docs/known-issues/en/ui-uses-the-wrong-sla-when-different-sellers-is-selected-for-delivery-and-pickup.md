@@ -1,5 +1,5 @@
 ---
-title: UI uses the wrong SLA when different sellers is selected for delivery and pick-up
+title: 'UI uses the wrong SLA when different sellers is selected for delivery and pick-up'
 id: 1FidTQU7qfHsuJLUbPTe7w
 status: PUBLISHED
 createdAt: 2023-04-25T21:52:00.104Z

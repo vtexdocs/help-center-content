@@ -1,5 +1,5 @@
 ---
-title: "VTEX amplia parceria com Mercado Livre na América Latina"
+title: 'VTEX amplia parceria com Mercado Livre na América Latina'
 id: 5s5m4LqQOmp3dwiyRAXGCj
 status: PUBLISHED
 createdAt: 2022-06-17T18:13:44.433Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: vtex-amplia-parceria-com-mercado-livre-na-america-latina
 legacySlug: vtex-amplia-parceria-com-mercado-livre-na-america-latina
-announcementImageID: ""
-announcementSynopsisPT: A certificação assegura que a VTEX oferece funcionalidades para sua loja ter sucesso em vendas no Mercado Livre
+announcementImageID: ''
+announcementSynopsisPT: 'A certificação assegura que a VTEX oferece funcionalidades para sua loja ter sucesso em vendas no Mercado Livre'
 ---
 
 O Mercado Livre é um dos líderes do ecommerce na América Latina, oferecendo soluções de comércio eletrônico para que pessoas e empresas possam comprar, vender, pagar, anunciar e enviar produtos por meio da internet.

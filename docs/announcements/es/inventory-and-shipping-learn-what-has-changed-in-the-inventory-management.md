@@ -1,5 +1,5 @@
 ---
-title: "Inventario y envío: entienda lo que cambió en la pestaña "Gestión del inventario" "
+title: 'Inventario y envío: entienda lo que cambió en la pestaña "Gestión del inventario" '
 id: 6AKTFKEdVMyjRdDBv3vGkv
 status: PUBLISHED
 createdAt: 2020-10-29T15:15:14.224Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: inventario-y-envio-entienda-lo-que-cambio-en-la-pestana-gestion-del-inventario
 legacySlug: inventario-y-envio-entienda-lo-que-cambio-en-la-pestana-gestion-del
-announcementImageID: ""
-announcementSynopsisES: Además de mejorar la usabilidad de su interfaz, cambiaremos el nombre de la pestaña a Gestión del inventario. 
+announcementImageID: ''
+announcementSynopsisES: 'Además de mejorar la usabilidad de su interfaz, cambiaremos el nombre de la pestaña a Gestión del inventario. '
 ---
 
 En el módulo Inventario y envío puede hacer toda la gestión de la logística de su tienda. Su actual pestaña «Inventario» permite que verifique y actualice el número de ítems disponibles en sus almacenes. Actualizamos esa funcionalidad para mejorar la experiencia de uso del módulo. 

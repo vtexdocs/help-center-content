@@ -1,5 +1,5 @@
 ---
-title: Vision General Apps
+title: 'Vision General Apps'
 id: 4xfsHXyAQTjbZNuiKl6Y0e
 status: PUBLISHED
 createdAt: 2023-03-29T15:53:55.835Z
@@ -35,7 +35,7 @@ El menú de Apps permite a los comerciantes descargar nuevas aplicaciones direct
 
 Puedes encontrar estas operaciones en el menú Apps de tu Admin actualizado.
 
-![Apps Overview menu ES](https://images.ctfassets.net/alneenqid6w5/2Bj2bz36YQcD1Q6cl4Pf44/ae534adadd4b3455ed9ba7827f367a2d/Apps_Overview_menu_ES.jpg)
+![Apps Overview menu ES](//images.ctfassets.net/alneenqid6w5/2Bj2bz36YQcD1Q6cl4Pf44/ae534adadd4b3455ed9ba7827f367a2d/Apps_Overview_menu_ES.jpg)
 
 A continuación encontrarás más detalles sobre las diferentes secciones y páginas de esta funcionalidad, que pronto estará disponible en el Admin actualizado. 
 

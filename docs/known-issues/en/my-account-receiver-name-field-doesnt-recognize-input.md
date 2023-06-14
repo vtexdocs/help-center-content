@@ -1,5 +1,5 @@
 ---
-title: My Account - Receiver Name field doesn't recognize input.
+title: 'My Account - Receiver Name field doesn't recognize input.'
 id: 2Vg1JfyREUV9qgUMqHvtkn
 status: PUBLISHED
 createdAt: 2022-04-28T12:55:15.384Z

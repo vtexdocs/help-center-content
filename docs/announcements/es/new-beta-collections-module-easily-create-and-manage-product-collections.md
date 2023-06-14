@@ -1,5 +1,5 @@
 ---
-title: "Nuevo módulo Colecciones Beta: cree y gestione colecciones de productos con practicidad "
+title: 'Nuevo módulo Colecciones Beta: cree y gestione colecciones de productos con practicidad '
 id: 6KvFxylC5SNsbVm8L8XZpZ
 status: PUBLISHED
 createdAt: 2020-12-15T19:14:51.662Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: nuevo-modulo-colecciones-beta-cree-y-gestione-colecciones-de-productos-con
 legacySlug: nuevo-modulo-colecciones-beta-cree-y-gestione-colecciones-de-productos-con
-announcementImageID: ""
-announcementSynopsisES: Con el nuevo módulo Colecciones Beta usted puede crear colecciones con mayor facilidad.
+announcementImageID: ''
+announcementSynopsisES: 'Con el nuevo módulo Colecciones Beta usted puede crear colecciones con mayor facilidad.'
 ---
 
 Desarrollamos el [nuevo módulo Colecciones Beta](https://help.vtex.com/es/tutorial/registrar-colecciones-beta--yJBHqNMViOAnnnq4fyOye#) como una alternativa renovada de la configuración realizada a través del CMS. Ahora tenemos un módulo dedicado a las Colecciones que cuenta con funcionalidades inéditas y está disponible en versión Beta. Este módulo le permite:

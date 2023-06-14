@@ -1,5 +1,5 @@
 ---
-title: Se muestran marcadores de posición en lugar de los datos correctos
+title: 'Se muestran marcadores de posición en lugar de los datos correctos'
 id: 5sZbIwHd1MNi0NsFnGO6il
 status: PUBLISHED
 createdAt: 2022-03-04T12:57:57.195Z

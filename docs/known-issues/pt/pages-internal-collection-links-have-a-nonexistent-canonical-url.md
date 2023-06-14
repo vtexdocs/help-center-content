@@ -1,5 +1,5 @@
 ---
-title: Os links internos de uma página de uma coleção têm URL canônico inexistente
+title: 'Os links internos de uma página de uma coleção têm URL canônico inexistente'
 id: 1sJzMe74vio2Wkm60q6m6i
 status: PUBLISHED
 createdAt: 2017-12-21T17:38:14.109Z

@@ -1,5 +1,5 @@
 ---
-title: Registros que indican que hubo un reembolso, pero debido a un error por parte del adquirente, la anulación no se produce realmente
+title: 'Registros que indican que hubo un reembolso, pero debido a un error por parte del adquirente, la anulación no se produce realmente'
 id: Bpa1ncKcUuKd7i5isR2D4
 status: PUBLISHED
 createdAt: 2022-03-17T21:07:16.944Z

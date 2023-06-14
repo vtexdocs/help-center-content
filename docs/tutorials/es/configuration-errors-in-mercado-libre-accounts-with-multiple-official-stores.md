@@ -1,5 +1,5 @@
 ---
-title: Error de configuración en cuentas de Mercado Libre con múltiples tiendas oficiales
+title: 'Error de configuración en cuentas de Mercado Libre con múltiples tiendas oficiales'
 id: 16PIrnBPonKv5Eb3SBdKmq
 status: PUBLISHED
 createdAt: 2021-08-05T20:07:28.907Z

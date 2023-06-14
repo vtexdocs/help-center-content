@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Braintree-DCC
+title: 'Setting up payments with Braintree-DCC'
 id: 3Is3N2MmTldXPa2FtiV8xy
 status: PUBLISHED
 createdAt: 2022-08-11T12:01:04.231Z

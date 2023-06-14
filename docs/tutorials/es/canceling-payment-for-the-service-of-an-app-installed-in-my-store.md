@@ -1,5 +1,5 @@
 ---
-title: Cancelar el pago por el servicio de una app instalada en mi tienda
+title: 'Cancelar el pago por el servicio de una app instalada en mi tienda'
 id: 587GU01BchtMMoQwFtpIcW
 status: PUBLISHED
 createdAt: 2019-01-30T21:21:20.606Z

@@ -1,5 +1,5 @@
 ---
-title: Divergencia en el prorrateo de impuestos.
+title: 'Divergencia en el prorrateo de impuestos.'
 id: 4X7RMIaiJXcCUTZv5Pcy1q
 status: PUBLISHED
 createdAt: 2022-04-14T12:30:26.091Z

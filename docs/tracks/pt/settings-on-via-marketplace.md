@@ -1,5 +1,5 @@
 ---
-title: Configurações no Via Marketplace
+title: 'Configurações no Via Marketplace'
 id: 2oxPVeYpVgA8IrhaDqKon6
 status: PUBLISHED
 createdAt: 2022-01-18T21:39:29.664Z

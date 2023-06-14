@@ -1,5 +1,5 @@
 ---
-title: El calendario de resultados de ventas tiene un problema con algunas zonas horarias europeas
+title: 'El calendario de resultados de ventas tiene un problema con algunas zonas horarias europeas'
 id: 23RDaWJO0UQr0QxtTi24is
 status: PUBLISHED
 createdAt: 2023-03-06T16:20:46.718Z

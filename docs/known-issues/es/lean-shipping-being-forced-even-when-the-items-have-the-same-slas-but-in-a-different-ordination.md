@@ -1,5 +1,5 @@
 ---
-title: El Lean Shipping es forzado incluso cuando los artículos tienen los mismos SLAs, pero en una ordenación diferente
+title: 'El Lean Shipping es forzado incluso cuando los artículos tienen los mismos SLAs, pero en una ordenación diferente'
 id: 2YTqsVWPm73msQZVQX9x80
 status: PUBLISHED
 createdAt: 2022-05-13T17:26:15.513Z

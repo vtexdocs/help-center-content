@@ -1,5 +1,5 @@
 ---
-title: Base Price - Concept Definition
+title: 'Base Price - Concept Definition'
 id: 3XcXp0r5WrJvogB8KIX4Kx
 status: PUBLISHED
 createdAt: 2019-07-04T13:52:36.278Z
@@ -17,7 +17,7 @@ trackSlugEN: prices-101
 
 A SKU's base price is the value which results from merging the **Cost Price** with the **Markup**, the desired profit margin with the SKU's sale. It represents the SKU's __reference price__ for all price tables. 
 
-![base-price-en](https://images.ctfassets.net/alneenqid6w5/cbmJa638a5NuZHtjF1FPN/4bb70f39b01a19c15ec07525e8372329/base-price-en.png)
+![base-price-en](//images.ctfassets.net/alneenqid6w5/cbmJa638a5NuZHtjF1FPN/4bb70f39b01a19c15ec07525e8372329/base-price-en.png)
 
 This **base price** can be combined with a price table's applied **price rule**. If there are no registered price rules, a price table's selling price will be equal to the base price itself.
 

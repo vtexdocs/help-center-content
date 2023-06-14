@@ -1,5 +1,5 @@
 ---
-title: Los textos de los controladores de Let Me Know no se traducen
+title: 'Los textos de los controladores de Let Me Know no se traducen'
 id: 4UXWf34IXNVAEKgH4hQLTx
 status: PUBLISHED
 createdAt: 2022-02-03T17:18:23.078Z

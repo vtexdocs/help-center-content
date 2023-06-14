@@ -1,5 +1,5 @@
 ---
-title: Configurar Merchant ID en Apple Pay
+title: 'Configurar Merchant ID en Apple Pay'
 id: 3pPmMlmexyKwWU6QckGiIC
 status: DRAFT
 createdAt: 2018-05-21T14:35:20.296Z
@@ -35,18 +35,18 @@ Dicho esto, verifique el siguiente procedimiento:
 
 1. Acceda a su __cuenta de desarrollador__ Apple en `https://developer.apple.com/account/#/overview/`.
 2. Seleccione la opción __Certificates, ID & Profiles__.
-![AP1](https://images.ctfassets.net/alneenqid6w5/6LeAGbVL1w66i4QeoUikfC/912141350c1d591a9bb057d791e2f8d5/AP1.PNG)
+![AP1](//images.ctfassets.net/alneenqid6w5/6LeAGbVL1w66i4QeoUikfC/912141350c1d591a9bb057d791e2f8d5/AP1.PNG)
 3. Haga clic en __ Identifiers__.
- ![AP2](https://images.ctfassets.net/alneenqid6w5/23SE1jYWfCN6ZXTgQFYc1o/19fbe5f704aee658dd5a77f8e2f3b161/AP2.PNG)
+ ![AP2](//images.ctfassets.net/alneenqid6w5/23SE1jYWfCN6ZXTgQFYc1o/19fbe5f704aee658dd5a77f8e2f3b161/AP2.PNG)
 4. Al lado de Identifiers, haga clic en __botón azul +__.
-![AP3](https://images.ctfassets.net/alneenqid6w5/4JGlrzDtI0BL3MDChr5gfn/2fb71b0a4dfc498baff3acb0546e5476/AP3.PNG)
+![AP3](//images.ctfassets.net/alneenqid6w5/4JGlrzDtI0BL3MDChr5gfn/2fb71b0a4dfc498baff3acb0546e5476/AP3.PNG)
 5. Seleccione la opción __Merchant IDs__.
 6. Haga clic en el botón azul __Continue__.
-![AP4](https://images.ctfassets.net/alneenqid6w5/6OyfJq6Eeped4gNItoqD93/19edd37b12bb72d24d55058f5aa265bf/AP4.PNG)
+![AP4](//images.ctfassets.net/alneenqid6w5/6OyfJq6Eeped4gNItoqD93/19edd37b12bb72d24d55058f5aa265bf/AP4.PNG)
 7. Rellene el campo __Description__.
 8. Rellene el campo __Identifier__.
 9. Haga clic en el botón __Continue__.
-![AP5](https://images.ctfassets.net/alneenqid6w5/7cPYdu8tLJsQWH7FFemIxb/8d710da870e18a5db33e46f29d484882/AP5.PNG) 
+![AP5](//images.ctfassets.net/alneenqid6w5/7cPYdu8tLJsQWH7FFemIxb/8d710da870e18a5db33e46f29d484882/AP5.PNG) 
 
 De este modo, se creará el __Merchant ID__. 
 
@@ -61,14 +61,14 @@ En seguida, el administrador de la tienda puede enviarlo al sistema Apple Pay.
 Para comenzar esta etapa, continúe con las instrucciones:
 
 1. En el menú del lado izquierdo, seleccione __Certificates__.
-![AP6](https://images.ctfassets.net/alneenqid6w5/6F1QMQhaeedUplo0gYGaHd/bbc1c07ad0f8541f33a797b09224543a/AP6.PNG)
+![AP6](//images.ctfassets.net/alneenqid6w5/6F1QMQhaeedUplo0gYGaHd/bbc1c07ad0f8541f33a797b09224543a/AP6.PNG)
 2. Digite su __Merchant ID__ creado recientemente en la barra de búsqueda.
 3. Seleccione el __Merchant ID__ deseado.
-![AP7](https://images.ctfassets.net/alneenqid6w5/6McxWOZA6ZGUtsoxsRoVKb/d0f133d66267606fa998be562b57570b/AP7.PNG)
+![AP7](//images.ctfassets.net/alneenqid6w5/6McxWOZA6ZGUtsoxsRoVKb/d0f133d66267606fa998be562b57570b/AP7.PNG)
 4. En el ítem __ Apple Pay Payment Processing Certificate__, haga clic en el botón __Create Certificate__.
-![AP8](https://images.ctfassets.net/alneenqid6w5/3Rp2Dt49HkCwzFHjScLjV/a83399b2270e638f3d480e4f885cc8d6/AP8.PNG)
+![AP8](//images.ctfassets.net/alneenqid6w5/3Rp2Dt49HkCwzFHjScLjV/a83399b2270e638f3d480e4f885cc8d6/AP8.PNG)
 5. Asegúrese de que la pregunta *"Will payments associated with this Merchant ID be processed exclusively in China?"* esté marcada con __la opción default (No)__.
-![AP9](https://images.ctfassets.net/alneenqid6w5/Sp9juhAMuWRA1vHgk6pZ9/8eda99f583b842bb94a52d729fd4066a/AP9.PNG)
+![AP9](//images.ctfassets.net/alneenqid6w5/Sp9juhAMuWRA1vHgk6pZ9/8eda99f583b842bb94a52d729fd4066a/AP9.PNG)
 
 En seguida, será redirigido a una pantalla con instrucciones sobre la creación del CRS (Certificate Signing Request). 
 
@@ -81,9 +81,9 @@ Con el {{merchantID}}.csr. que recibió, finalice:
 1. Haga clic en __Choose File__.
 2. Seleccione el __archivo CSR__ deseado.
 3. Haga clic en el botón __Continue__.
-![AP10](https://images.ctfassets.net/alneenqid6w5/3hECpP7iFDlIO6PatZCOEY/d38bfb6be71f867c1f3182616a6fcb4b/AP10.PNG)
+![AP10](//images.ctfassets.net/alneenqid6w5/3hECpP7iFDlIO6PatZCOEY/d38bfb6be71f867c1f3182616a6fcb4b/AP10.PNG)
 4. Haga clic en __Download__.
-![AP11](https://images.ctfassets.net/alneenqid6w5/5LZH1cD0JOe4dHN1noRbUE/2de89d38d2fde3f870c4274d32092c83/AP11.PNG)
+![AP11](//images.ctfassets.net/alneenqid6w5/5LZH1cD0JOe4dHN1noRbUE/2de89d38d2fde3f870c4274d32092c83/AP11.PNG)
 5. Haga clic en __Done__.
 
 ## Registrando dominios en el Merchant ID
@@ -100,17 +100,17 @@ Finalmente, es necesario importar este archivo al sistema de VTEX a través de P
 Verifique las instrucciones:
 
 1. Digite el __Merchant ID__ creado recientemente en la barra de búsqueda.
-![AP12](https://images.ctfassets.net/alneenqid6w5/4RnNU5b0rsfCpEKkj9dFnj/3ddb803ff21d56c9f54d214d9b8bf56f/AP12.PNG)
+![AP12](//images.ctfassets.net/alneenqid6w5/4RnNU5b0rsfCpEKkj9dFnj/3ddb803ff21d56c9f54d214d9b8bf56f/AP12.PNG)
 2. Haga clic en el __Merchant ID__ deseado.
 3. En el módulo __Merchant Domains__, haga clic en el botón __Add Domain__.
-![AP13](https://images.ctfassets.net/alneenqid6w5/7pPoN1yAltfTpHQVQRzvb9/61da4650bae649475637cf185a228c4f/AP13.PNG)
+![AP13](//images.ctfassets.net/alneenqid6w5/7pPoN1yAltfTpHQVQRzvb9/61da4650bae649475637cf185a228c4f/AP13.PNG)
 4. Agregue el dominio en el campo __Enter the domain you wish to register__.
 5. Haga clic en __Save__.
 
 Ahora, para hacer upload del archivo `.txt` por medio de la API, prosiga con las instrucciones:   
 
 1. Haga clic en __Download__ y no realice ninguna alteración en el archivo.  
-![AP14](https://images.ctfassets.net/alneenqid6w5/20a92ocy0wEVTY6zXqfa5w/56b96dc4d0fe44c322065a10af594980/AP14.PNG)
+![AP14](//images.ctfassets.net/alneenqid6w5/20a92ocy0wEVTY6zXqfa5w/56b96dc4d0fe44c322065a10af594980/AP14.PNG)
 2. Abra el archivo `.txt` y __copie__ todo el contenido.
 
 En seguida, inicie una sesión en el Postman. Usted realizará una llamada vía POST para la CDN de VTEX:  
@@ -122,7 +122,7 @@ En seguida, inicie una sesión en el Postman. Usted realizará una llamada vía 
 Al realizar la llamada *POST*, la respuesta debe informar que el certificado se guardará durante 60 minutos. Durante este tiempo, debe completar la validación del dominio.
 
 Ahora, regrese al sitio web de Apple. En la misma pantalla donde descargó el archivo `.txt`, haga clic en __Verify__.
-![AP15](https://images.ctfassets.net/alneenqid6w5/2rG0fF8Bvo5TqsDqAHqL4j/92c7bc8601572cd80caf4bea8b101208/AP15.PNG)
+![AP15](//images.ctfassets.net/alneenqid6w5/2rG0fF8Bvo5TqsDqAHqL4j/92c7bc8601572cd80caf4bea8b101208/AP15.PNG)
 
 Así, si el procedimiento se realiza correctamente, el dominio se registrará con el estado __Verified__. Si lo desea, puede repetir todo el proceso para registrar más dominios utilizando el botón __Add Domain__ en la sección __Merchant Domains__.
 
@@ -139,15 +139,15 @@ Atención: Recomendamos que la contraseña sea fácil de recordar, ya que se ing
 1. Acceda al módulo __Certificates, Identifiers & Profilers__.
 2. En el menú del lado izquierdo, haga clic en __Identifiers__.
 3. En la esquina superior derecha, filtre por __Merchant IDs__.
-![AP16](https://images.ctfassets.net/alneenqid6w5/5XBSpBP20NFq5HRQKpxQjS/e8f662462087cd43d0c8a5b7f7bdd4c3/AP16.PNG)
+![AP16](//images.ctfassets.net/alneenqid6w5/5XBSpBP20NFq5HRQKpxQjS/e8f662462087cd43d0c8a5b7f7bdd4c3/AP16.PNG)
 4. Seleccione el __Merchant Identifier__ deseado.
 5. Haga clic en __Create Certificate__.
-![AP17](https://images.ctfassets.net/alneenqid6w5/33Mm1jF8PBhIjj7X7LjAxc/181c7490381f754c0580d847da2c120d/AP17.PNG)
+![AP17](//images.ctfassets.net/alneenqid6w5/33Mm1jF8PBhIjj7X7LjAxc/181c7490381f754c0580d847da2c120d/AP17.PNG)
 6. Siga las __instrucciones__ que se muestran en la pantalla para crear un certificado. 
 7. Haga clic en el botón __Continue__.
-![AP18](https://images.ctfassets.net/alneenqid6w5/zY9tykCxck32wV3c9w1V8/bcacdf765e787fb104b8f7f70677c2df/AP18.PNG)
+![AP18](//images.ctfassets.net/alneenqid6w5/zY9tykCxck32wV3c9w1V8/bcacdf765e787fb104b8f7f70677c2df/AP18.PNG)
 8. Haga clic en __Download__.    
-![AP19](https://images.ctfassets.net/alneenqid6w5/3VMp9diaN7L7M8dsopkWQo/6fa0b54d0a7310bfb7dd0cd183c2a56e/AP19.PNG)
+![AP19](//images.ctfassets.net/alneenqid6w5/3VMp9diaN7L7M8dsopkWQo/6fa0b54d0a7310bfb7dd0cd183c2a56e/AP19.PNG)
 
 Ahora, cuando se descargué el archivo, haga doble clic para instalarlo en Keychain Access.
 
@@ -155,7 +155,7 @@ Luego, continúe con el procedimiento:
 
 1. Abra el __Keychain Access__.
 2. Localice el __certificado__ creado en el paso cuatro anterior.
-3. Haga clic derecho en el ícono __llave__. ![AP20](https://images.ctfassets.net/alneenqid6w5/1PqNUvHOaSVXkc4FfeMIEQ/cc421cbd0e0cfaff6f7763c861d84baf/AP20.PNG) 
+3. Haga clic derecho en el ícono __llave__. ![AP20](//images.ctfassets.net/alneenqid6w5/1PqNUvHOaSVXkc4FfeMIEQ/cc421cbd0e0cfaff6f7763c861d84baf/AP20.PNG) 
 4. Haga clic en __Export__.
 5. Nombre el __certificado__.
 6. Seleccione el formato de exportación __.p12__.

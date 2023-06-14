@@ -1,5 +1,5 @@
 ---
-title: Completar los datos de la empresa
+title: 'Completar los datos de la empresa'
 id: tutorials_2556
 status: DRAFT
 createdAt: 2017-04-27T21:54:19.514Z

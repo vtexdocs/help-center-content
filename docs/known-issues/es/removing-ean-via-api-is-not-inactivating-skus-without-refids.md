@@ -1,5 +1,5 @@
 ---
-title: Eliminar el EAN a través de la API no es desactivar las SKU sin RefID
+title: 'Eliminar el EAN a través de la API no es desactivar las SKU sin RefID'
 id: 2DIKKs93S41F38c3PrekSO
 status: PUBLISHED
 createdAt: 2022-08-01T11:37:52.731Z

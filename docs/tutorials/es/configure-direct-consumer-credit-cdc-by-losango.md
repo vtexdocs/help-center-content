@@ -1,5 +1,5 @@
 ---
-title: Configurar crédito directo al consumidor (CDC) de Losango
+title: 'Configurar crédito directo al consumidor (CDC) de Losango'
 id: 4vfoIULHTs8S9t3WDyldCE
 status: PUBLISHED
 createdAt: 2020-11-23T20:29:21.353Z

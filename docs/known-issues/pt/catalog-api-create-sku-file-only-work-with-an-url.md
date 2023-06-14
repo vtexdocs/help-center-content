@@ -1,5 +1,5 @@
 ---
-title: API do catálogo Criar arquivo SKU só funciona com uma URL
+title: 'API do catálogo Criar arquivo SKU só funciona com uma URL'
 id: 2rbU28Rw8AESiAvzuc6cWf
 status: PUBLISHED
 createdAt: 2022-10-26T13:30:57.669Z

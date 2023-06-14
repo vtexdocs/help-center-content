@@ -1,5 +1,5 @@
 ---
-title: Transacción bloqueada en aprobado con conector NPS debido a psp_ResponseCod en la respuesta de liquidación.
+title: 'Transacción bloqueada en aprobado con conector NPS debido a psp_ResponseCod en la respuesta de liquidación.'
 id: 1hRLO1HqsaSkvpu58eNYK2
 status: PUBLISHED
 createdAt: 2022-04-06T14:07:03.848Z

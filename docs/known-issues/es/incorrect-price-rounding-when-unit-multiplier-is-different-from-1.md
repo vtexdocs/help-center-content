@@ -1,5 +1,5 @@
 ---
-title: Redondeo incorrecto del precio cuando el multiplicador de la unidad es diferente de 1
+title: 'Redondeo incorrecto del precio cuando el multiplicador de la unidad es diferente de 1'
 id: 1L5RNoTBkoJxq2c22KDTRU
 status: PUBLISHED
 createdAt: 2022-03-21T17:43:03.979Z

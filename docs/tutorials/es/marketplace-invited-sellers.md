@@ -1,5 +1,5 @@
 ---
-title: Marketplace: Invitación de Sellers
+title: 'Marketplace: Invitación de Sellers'
 id: 6rb2FkcslmDueJ689Ulb9A
 status: PUBLISHED
 createdAt: 2021-08-12T12:36:37.703Z
@@ -26,7 +26,7 @@ Además de permitir enviar invitaciones, la página tiene una lista de sellers, 
 
 Para que nuevos sellers se integren en su marketplace, es necesario realizar algunas acciones en su entorno VTEX: [Invitar](#invitar-seller) y [Conectar](#conectar-seller).
 
-![ES Seller invite](https://images.ctfassets.net/alneenqid6w5/3kCM8CHXpzssH5MWf6txLh/7c9dd1931913f57b7bef76df6faad117/ES_seller_invite.jpg)
+![ES Seller invite](//images.ctfassets.net/alneenqid6w5/3kCM8CHXpzssH5MWf6txLh/7c9dd1931913f57b7bef76df6faad117/ES_seller_invite.jpg)
 
 ## Invitar Seller
 

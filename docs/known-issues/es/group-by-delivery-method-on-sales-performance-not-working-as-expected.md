@@ -1,5 +1,5 @@
 ---
-title:  La agrupación por método de entrega en el rendimiento de las ventas no funciona como se esperaba
+title: ' La agrupación por método de entrega en el rendimiento de las ventas no funciona como se esperaba'
 id: 8zHND5pzrt0mrIrb061Zq
 status: PUBLISHED
 createdAt: 2022-11-30T19:02:13.548Z

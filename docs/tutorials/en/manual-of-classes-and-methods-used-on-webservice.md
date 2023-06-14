@@ -1,5 +1,5 @@
 ---
-title: Manual of classes and methods used on Web Service
+title: 'Manual of classes and methods used on Web Service'
 id: tutorials_749
 status: DRAFT
 createdAt: 2017-04-27T21:58:32.334Z

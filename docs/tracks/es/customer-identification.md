@@ -1,5 +1,5 @@
 ---
-title: Identificación del cliente
+title: 'Identificación del cliente'
 id: 2l56Bc2V1Xjv93JddsdEMi
 status: PUBLISHED
 createdAt: 2021-08-05T13:45:29.981Z
@@ -26,7 +26,7 @@ Usted puede [configurar qué métodos de identificación desea habilitar](https:
 
 En el ejemplo de la imagen a continuación, Email y CPF están habilitados.
 
-![31. inStore - Product Overview - 2 - ES](https://images.ctfassets.net/alneenqid6w5/2YKc9S2FehS7eA2zTskL33/99fe77f7a5c0a43318ffa841e67d20cb/identify-customer-es.PNG)
+![31. inStore - Product Overview - 2 - ES](//images.ctfassets.net/alneenqid6w5/2YKc9S2FehS7eA2zTskL33/99fe77f7a5c0a43318ffa841e67d20cb/identify-customer-es.PNG)
 
 Ingrese uno de estos datos en el campo y haga clic en el botón `Confirmar`.
 

@@ -1,5 +1,5 @@
 ---
-title: O pedido não atualiza o status no OMS
+title: 'O pedido não atualiza o status no OMS'
 id: 36Zo27eIpjFpcvPrsGgN7s
 status: PUBLISHED
 createdAt: 2022-05-26T18:07:55.735Z

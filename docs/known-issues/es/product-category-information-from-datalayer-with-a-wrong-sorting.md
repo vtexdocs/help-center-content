@@ -1,5 +1,5 @@
 ---
-title: Información de categoría de producto de dataLayer con una ordenación errónea
+title: 'Información de categoría de producto de dataLayer con una ordenación errónea'
 id: 5M84UlbbxXG6msTBUYiksT
 status: PUBLISHED
 createdAt: 2022-12-13T18:02:07.567Z

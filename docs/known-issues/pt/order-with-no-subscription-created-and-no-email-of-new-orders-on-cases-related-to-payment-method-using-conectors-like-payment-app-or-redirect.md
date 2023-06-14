@@ -1,5 +1,5 @@
 ---
-title: Pedido sem assinatura Criado e sem e-mail de Novos Pedidos em Casos relacionados ao método de pagamento usando conectadores como Payment App ou Redirect.
+title: 'Pedido sem assinatura Criado e sem e-mail de Novos Pedidos em Casos relacionados ao método de pagamento usando conectadores como Payment App ou Redirect.'
 id: 747TGL3sy1mmM1LnVkEjuO
 status: PUBLISHED
 createdAt: 2022-02-21T20:54:35.174Z

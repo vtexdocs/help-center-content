@@ -1,5 +1,5 @@
 ---
-title: How to configure the Favicon
+title: 'How to configure the Favicon'
 id: tutorials_6370
 status: PUBLISHED
 createdAt: 2017-04-27T21:48:57.080Z

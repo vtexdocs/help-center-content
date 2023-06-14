@@ -1,5 +1,5 @@
 ---
-title: Catalog SKU Specification Export will not always export all the data if the selected category is a department
+title: 'Catalog SKU Specification Export will not always export all the data if the selected category is a department'
 id: 1FrmIfWuDpbWSMvAnLuuho
 status: PUBLISHED
 createdAt: 2023-05-30T15:36:48.918Z

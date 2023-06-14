@@ -1,5 +1,5 @@
 ---
-title: A entrega programada pode apresentar um preço incorreto ao alternar entre a entrega e a programada
+title: 'A entrega programada pode apresentar um preço incorreto ao alternar entre a entrega e a programada'
 id: 1Jue9hi3G4ryML88dqWz4E
 status: PUBLISHED
 createdAt: 2023-03-13T20:40:19.424Z

@@ -1,5 +1,5 @@
 ---
-title: "Promissories: new field allows you to customize the invoicing time frame"
+title: 'Promissories: new field allows you to customize the invoicing time frame'
 id: 14JRjD4sLv10ME2mwlgtwl
 status: PUBLISHED
 createdAt: 2021-05-31T13:37:55.594Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: pagares-el-nuevo-campo-de-configuracion-permite-personalizar-el-plazo-de
 legacySlug: pagares-el-nuevo-campo-de-configuracion-permite-personalizar-el-plazo-de
-announcementImageID: ""
-announcementSynopsisEN: Have more flexibility with the new automatic invoicing field in the promissory settings.
+announcementImageID: ''
+announcementSynopsisEN: 'Have more flexibility with the new automatic invoicing field in the promissory settings.'
 ---
 
 Often used to enable cash payment, a promissory is a “promise to pay” that requires manual approval from the retailer for the transaction to be completed.

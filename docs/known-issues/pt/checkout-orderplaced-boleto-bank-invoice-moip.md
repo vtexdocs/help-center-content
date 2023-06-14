@@ -1,5 +1,5 @@
 ---
-title: Pedido de checkoutFatura de Boleto Bancário
+title: 'Pedido de checkoutFatura de Boleto Bancário'
 id: 6LfWcVU6fgXalUXslYATIc
 status: PUBLISHED
 createdAt: 2022-05-18T18:35:54.748Z

@@ -1,5 +1,5 @@
 ---
-title: "Discontinuation of  `order-completed`, `order-create-error` and `order-creation-error` order fulfillment statuses"
+title: 'Discontinuation of  `order-completed`, `order-create-error` and `order-creation-error` order fulfillment statuses'
 id: 4AJyu9fJNSKNpL4g4dfgcp
 status: PUBLISHED
 createdAt: 2019-06-12T18:05:37.415Z
@@ -10,8 +10,8 @@ productTeam: Reliability
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: discontinuation-of-order-completed-order-create-error-and-order-creation
 legacySlug: discontinuation-of-order-completed-order-create-error-and-order-creation
-announcementImageID: ""
-announcementSynopsisEN: Fulfillment order statuses will be discontinued: `order-completed``order-create-error` `order-creation-error`
+announcementImageID: ''
+announcementSynopsisEN: 'Fulfillment order statuses will be discontinued: `order-completed``order-create-error` `order-creation-error`'
 ---
 
 Starting June 24<sup>th</sup> 2019, the following Fulfillment order statuses will be discontinued: `order-completed`, `order-create-error` and `order-creation-error`.

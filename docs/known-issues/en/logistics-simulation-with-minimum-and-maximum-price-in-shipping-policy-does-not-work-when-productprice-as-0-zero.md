@@ -1,5 +1,5 @@
 ---
-title: Logistics Simulation with Minimum and Maximum price in Shipping Policy does not work when ProductPrice as 0 (ZERO)
+title: 'Logistics Simulation with Minimum and Maximum price in Shipping Policy does not work when ProductPrice as 0 (ZERO)'
 id: 5gsBLbPMIZjZvkl5QHudVY
 status: PUBLISHED
 createdAt: 2022-03-30T20:10:30.205Z

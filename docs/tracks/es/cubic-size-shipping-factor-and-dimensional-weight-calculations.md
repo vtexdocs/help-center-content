@@ -1,5 +1,5 @@
 ---
-title: Cubicación, Factor de Cubicación y  Cómo Calcular el Peso Cúbico
+title: 'Cubicación, Factor de Cubicación y  Cómo Calcular el Peso Cúbico'
 id: 2fgz8EKgM42BZP5C2KgC2v
 status: DRAFT
 createdAt: 2019-10-23T13:43:41.025Z

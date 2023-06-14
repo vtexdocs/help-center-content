@@ -1,5 +1,5 @@
 ---
-title: How to check your balance
+title: 'How to check your balance'
 id: 4SvRBAqJPuP2YMWSCOYzjb
 status: DRAFT
 createdAt: 2020-03-24T14:29:40.474Z
@@ -27,7 +27,7 @@ To check your account balance, follow the step by step:
 - Click on __Account Overview__;
 - On the left side of the screen, find the __Balance__ box.
 
-![saldodisponivelEN](https://images.ctfassets.net/alneenqid6w5/1nnABtiycAQhExwdQcbbHD/fe145d3e68fcab0ab97b53713244df1c/image.png_h_250)
+![saldodisponivelEN](//images.ctfassets.net/alneenqid6w5/1nnABtiycAQhExwdQcbbHD/fe145d3e68fcab0ab97b53713244df1c/image.png_h_250)
 
 Two different values are shown in the box. The first, __Available__, shows the account balance that is available for transactions. The second, __Balance due__, refers to future payments that will be deposited into your corporate digital account.
 

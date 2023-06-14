@@ -1,5 +1,5 @@
 ---
-title: Selecionador de blocos que não funciona na página inicial do Editor do site
+title: 'Selecionador de blocos que não funciona na página inicial do Editor do site'
 id: 5E1rjZUaL9Jo25JtGcf77C
 status: PUBLISHED
 createdAt: 2022-03-21T17:40:56.902Z

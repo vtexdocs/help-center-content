@@ -1,5 +1,5 @@
 ---
-title: Configurar el medio de pago iDEAL en la integración con Adyen
+title: 'Configurar el medio de pago iDEAL en la integración con Adyen'
 id: 6EY1uvOVcomIFgMv81FAub
 status: PUBLISHED
 createdAt: 2021-05-06T19:28:42.490Z

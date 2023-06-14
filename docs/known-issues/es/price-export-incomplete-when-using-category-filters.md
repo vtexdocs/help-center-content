@@ -1,5 +1,5 @@
 ---
-title: Exportación de precios incompleta al utilizar filtros de categorías
+title: 'Exportación de precios incompleta al utilizar filtros de categorías'
 id: 1HHojOOGcmCJYWaeKbyIRq
 status: PUBLISHED
 createdAt: 2023-02-14T12:12:03.992Z

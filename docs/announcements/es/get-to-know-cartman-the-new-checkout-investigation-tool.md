@@ -1,5 +1,5 @@
 ---
-title: "Conozca Cartman: la nueva herramienta de investigación del Checkout"
+title: 'Conozca Cartman: la nueva herramienta de investigación del Checkout'
 id: 2n8eNuBTvlHI0D1oUOny72
 status: CHANGED
 createdAt: 2019-09-03T15:02:52.505Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: conozca-cartman-la-nueva-herramienta-de-investigacion-del-checkout
 legacySlug: conozca-cartman-la-nueva-herramienta-de-investigacion-del-checkout
-announcementImageID: ""
-announcementSynopsisES: Cartman es una herramienta que simula, comparte e investiga diferentes escenarios de checkout
+announcementImageID: ''
+announcementSynopsisES: 'Cartman es una herramienta que simula, comparte e investiga diferentes escenarios de checkout'
 ---
 
 Cartman es una herramienta que simula, comparte e investiga los carritos. Dirigida a operadores de e-commerce, la herramienta permite al usuario recrear diferentes escenarios de checkout, permitiendo investigar bugs y compartir de forma libre la información.

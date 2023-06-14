@@ -1,5 +1,5 @@
 ---
-title: Módulo Localidad (Beta)
+title: 'Módulo Localidad (Beta)'
 id: 2thSYLMAS8KAd8V4XuBLSy
 status: PUBLISHED
 createdAt: 2023-05-08T18:03:07.644Z

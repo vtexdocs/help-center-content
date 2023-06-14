@@ -1,5 +1,5 @@
 ---
-title: Cadastrar os preços dos produtos no inStore
+title: 'Cadastrar os preços dos produtos no inStore'
 id: jA8jr6ovbUMM86K6KQ8Io
 status: DRAFT
 createdAt: 2018-03-19T15:40:33.681Z

@@ -1,5 +1,5 @@
 ---
-title: "Los pedidos de su tienda ahora tienen información de la moneda usada en la transacción"
+title: 'Los pedidos de su tienda ahora tienen información de la moneda usada en la transacción'
 id: 2WjHQtSINaSOEE2YSAkKEK
 status: PUBLISHED
 createdAt: 2018-12-19T18:48:14.865Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: authors_41
 slug: los-pedidos-de-su-tienda-ahora-tienen-informacion-de-la-moneda-usada-en-la
 legacySlug: los-pedidos-de-su-tienda-ahora-tienen-informacion-de-la-moneda-usada-en-la
-announcementImageID: ""
-announcementSynopsisES: A partir del 26/12/2018, usted podrá identificar con facilidad la moneda y el país de origen de todos los pedidos.
+announcementImageID: ''
+announcementSynopsisES: 'A partir del 26/12/2018, usted podrá identificar con facilidad la moneda y el país de origen de todos los pedidos.'
 ---
 
 A partir del __26 de diciembre__, usted podrá ver en el módulo de Gestión de Pedidos la moneda y el país en el que se realizó la compra. Este cambio facilitará la operación de las tiendas que actúan en varios países y realizan ventas en más de una moneda.

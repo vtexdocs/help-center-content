@@ -1,5 +1,5 @@
 ---
-title: [Meli] Atributos Negro_#000000 integración con un comportamiento no esperado
+title: '[Meli] Atributos Negro_#000000 integración con un comportamiento no esperado'
 id: 1GPrObE1SQPP4ScyNHyjDt
 status: PUBLISHED
 createdAt: 2022-09-19T14:04:56.594Z

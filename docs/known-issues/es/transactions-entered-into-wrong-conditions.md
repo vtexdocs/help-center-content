@@ -1,5 +1,5 @@
 ---
-title: Transacciones introducidas en condiciones erróneas
+title: 'Transacciones introducidas en condiciones erróneas'
 id: 19wXvdynMwM6AEJAlaWJF7
 status: PUBLISHED
 createdAt: 2022-03-03T18:40:16.563Z

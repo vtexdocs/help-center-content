@@ -1,5 +1,5 @@
 ---
-title: Geolocalizado
+title: 'Geolocalizado'
 id: 6XIfgaqXaPe5exQa9oVp6D
 status: PUBLISHED
 createdAt: 2022-08-29T20:58:12.387Z

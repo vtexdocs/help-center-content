@@ -1,5 +1,5 @@
 ---
-title: La nueva interfaz de usuario no muestra en los pedidos la ventana de entrega correcta estimada
+title: 'La nueva interfaz de usuario no muestra en los pedidos la ventana de entrega correcta estimada'
 id: 5YG6dpMbOX3DK1fSWEyAzJ
 status: PUBLISHED
 createdAt: 2023-01-09T13:18:30.970Z

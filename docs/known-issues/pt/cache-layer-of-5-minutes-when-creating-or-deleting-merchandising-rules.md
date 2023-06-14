@@ -1,5 +1,5 @@
 ---
-title: Camada de cache de 5 minutos ao criar ou excluir regras de merchandising
+title: 'Camada de cache de 5 minutos ao criar ou excluir regras de merchandising'
 id: 2wNExsAu1fbeQujCKr6c93
 status: PUBLISHED
 createdAt: 2023-06-09T15:29:16.354Z

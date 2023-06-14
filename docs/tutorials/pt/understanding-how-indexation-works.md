@@ -1,5 +1,5 @@
 ---
-title: Como funciona a indexação
+title: 'Como funciona a indexação'
 id: tutorials_256
 status: PUBLISHED
 createdAt: 2017-04-27T22:11:43.688Z

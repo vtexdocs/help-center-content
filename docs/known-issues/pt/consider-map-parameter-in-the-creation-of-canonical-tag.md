@@ -1,5 +1,5 @@
 ---
-title: Considerar parâmetro map na criação da tag canonical
+title: 'Considerar parâmetro map na criação da tag canonical'
 id: ilHxRrPwliYiaGKaqQecE
 status: PUBLISHED
 createdAt: 2017-05-09T15:51:15.454Z

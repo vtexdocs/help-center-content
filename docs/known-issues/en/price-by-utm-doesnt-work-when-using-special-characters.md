@@ -1,5 +1,5 @@
 ---
-title: Price by UTM doesn't work when using special characters
+title: 'Price by UTM doesn't work when using special characters'
 id: 5vQnjYgbE48426q2e6GMUY
 status: PUBLISHED
 createdAt: 2017-06-05T12:24:57.621Z

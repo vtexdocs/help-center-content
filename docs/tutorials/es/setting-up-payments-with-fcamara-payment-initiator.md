@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con FCamara (Iniciador de pagos)
+title: 'Configurar pago con FCamara (Iniciador de pagos)'
 id: 4p5E3jc9J5xHkOI6AbnhTV
 status: PUBLISHED
 createdAt: 2023-04-03T15:12:23.123Z

@@ -1,5 +1,5 @@
 ---
-title: VTEX js - How to setup and use catalog and checkout data from client side
+title: 'VTEX js - How to setup and use catalog and checkout data from client side'
 id: 5ngrD36bOAEW2WB9PShESn
 status: DRAFT
 createdAt: 2019-01-18T12:42:36.635Z

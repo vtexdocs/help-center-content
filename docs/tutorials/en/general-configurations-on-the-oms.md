@@ -1,5 +1,5 @@
 ---
-title: Orders General Configuration
+title: 'Orders General Configuration'
 id: tutorials_194
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:49.644Z
@@ -18,7 +18,7 @@ It is possible to execute configurations directly related to the conditions of t
 
 In the VTEX Admin, go to **Store Settings > Orders > Settings**, or type *Orders* in the search bar at the top of the page and select *Store Settings / Orders*.
 
-![configuracoes_pedidos_en](https://images.ctfassets.net/alneenqid6w5/3Pg3IFrgPiGdwsIJowvNBy/5f485e4f43fa2df4305a1f4ad9b7dd40/configuracoes_pedidos_en.png)
+![configuracoes_pedidos_en](//images.ctfassets.net/alneenqid6w5/3Pg3IFrgPiGdwsIJowvNBy/5f485e4f43fa2df4305a1f4ad9b7dd40/configuracoes_pedidos_en.png)
 
 ## Cart
 

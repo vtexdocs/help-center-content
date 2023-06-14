@@ -1,5 +1,5 @@
 ---
-title: Order Export Report is not working properly due double space on Promotion name
+title: 'Order Export Report is not working properly due double space on Promotion name'
 id: 3dVPZEs544WyPDBNzTesWx
 status: PUBLISHED
 createdAt: 2023-04-06T20:22:47.489Z

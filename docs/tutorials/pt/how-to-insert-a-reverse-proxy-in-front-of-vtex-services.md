@@ -1,5 +1,5 @@
 ---
-title: Como inserir um proxy reverso em frente aos serviços da VTEX
+title: 'Como inserir um proxy reverso em frente aos serviços da VTEX'
 id: 4PFWsfRAKviNVPf1bYdiir
 status: PUBLISHED
 createdAt: 2019-09-20T14:11:30.301Z

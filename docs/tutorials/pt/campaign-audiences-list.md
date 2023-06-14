@@ -1,5 +1,5 @@
 ---
-title: Lista de Audiências de campanhas
+title: 'Lista de Audiências de campanhas'
 id: 2aW3JH34Zsm4keR5wtXZbT
 status: PUBLISHED
 createdAt: 2022-07-21T20:21:27.266Z
@@ -16,7 +16,7 @@ subcategory: 2cI57eZ3ZiWSeaQs26Gwys
 
 A lista de audiências de campanhas cadastradas na sua loja está disponível no Admin VTEX, na página *Promoções > Audiências de campanhas*, ilustrada a seguir.
 
-![lista-audiencias-campanha-pt](https://images.ctfassets.net/alneenqid6w5/3OyfWyVN0MMA5qpgjxtGyM/5c50543b3dc5698d0362a696b91302d2/lista-audiencias-campanha-pt.png)
+![lista-audiencias-campanha-pt](//images.ctfassets.net/alneenqid6w5/3OyfWyVN0MMA5qpgjxtGyM/5c50543b3dc5698d0362a696b91302d2/lista-audiencias-campanha-pt.png)
 
 A partir desta página, você pode realizar as seguintes ações:
 
@@ -49,7 +49,7 @@ As audiências de campanhas são apresentadas em _cards_ com as seguintes inform
 
 Para visualizar as Audiências de campanhas que estão [arquivadas](#arquivar-audiencia-de-campanha), na opção **Exibir**, clique em **Arquivados**, conforme ilustrado a seguir:
 
-![toggle-audiencias-campanha-arquivadas-pt](https://images.ctfassets.net/alneenqid6w5/7CMyMTQVHoWU7h8NMGlmwA/87dca32f5de3ef43c405cad2bda5894b/toggle-audiencias-campanha-arquivadas-pt.png)
+![toggle-audiencias-campanha-arquivadas-pt](//images.ctfassets.net/alneenqid6w5/7CMyMTQVHoWU7h8NMGlmwA/87dca32f5de3ef43c405cad2bda5894b/toggle-audiencias-campanha-arquivadas-pt.png)
 
 Para voltar a visualizar as Audiências de campanhas não arquivadas, clique em **Não Arquivados**.
 

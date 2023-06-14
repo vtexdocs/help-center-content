@@ -1,5 +1,5 @@
 ---
-title: Configurar dominio del XML
+title: 'Configurar dominio del XML'
 id: 2RkGK4vHS0c6sYuUw0cUWC
 status: PUBLISHED
 createdAt: 2017-09-27T22:33:21.989Z

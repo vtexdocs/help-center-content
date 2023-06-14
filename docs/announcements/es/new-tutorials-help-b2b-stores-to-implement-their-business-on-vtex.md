@@ -1,5 +1,5 @@
 ---
-title: "Nuevos tutoriales ayudan a tiendas B2B a implementar sus negocios en VTEX"
+title: 'Nuevos tutoriales ayudan a tiendas B2B a implementar sus negocios en VTEX'
 id: 3rFBd4IyDn53FiYeyYxoT3
 status: CHANGED
 createdAt: 2020-06-02T02:00:25.551Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: authors_24
 slug: nuevos-tutoriales-ayudan-a-tiendas-b2b-a-implementar-sus-negocios-en-vtex
 legacySlug: nuevos-tutoriales-ayudan-a-tiendas-b2b-a-implementar-sus-negocios-en-vtex
-announcementImageID: ""
-announcementSynopsisES: Artículos traen el paso a paso para la solución de desafíos tecnológicos que enfrentan las tiendas B2B.
+announcementImageID: ''
+announcementSynopsisES: 'Artículos traen el paso a paso para la solución de desafíos tecnológicos que enfrentan las tiendas B2B.'
 ---
 
 Las operaciones B2B (Business to Business) dependen de una serie de configuraciones que se desvían del modelo estándar de interacción entre la tienda y el consumidor final.

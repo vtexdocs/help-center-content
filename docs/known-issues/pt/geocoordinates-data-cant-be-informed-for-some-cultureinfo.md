@@ -1,5 +1,5 @@
 ---
-title: Os dados GeoCoordinates não podem ser informados para alguma culturaInfo
+title: 'Os dados GeoCoordinates não podem ser informados para alguma culturaInfo'
 id: 4MjLbyrniWsPKpFBHgn8sG
 status: PUBLISHED
 createdAt: 2022-05-19T16:19:45.245Z

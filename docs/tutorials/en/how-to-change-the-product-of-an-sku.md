@@ -1,5 +1,5 @@
 ---
-title: How to change the product of an SKU
+title: 'How to change the product of an SKU'
 id: 6FKzgxFfvakgsc8AqQsMYS
 status: PUBLISHED
 createdAt: 2018-01-25T14:16:39.062Z

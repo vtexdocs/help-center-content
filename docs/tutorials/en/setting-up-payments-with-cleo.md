@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Cleo
+title: 'Setting up payments with Cleo'
 id: 1FuJmVYzFHBSXYBhU9MlaT
 status: DRAFT
 createdAt: 2022-10-18T18:41:03.045Z

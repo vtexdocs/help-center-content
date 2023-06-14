@@ -1,5 +1,5 @@
 ---
-title: Configurar campos para emissão de nota fiscal no inStore
+title: 'Configurar campos para emissão de nota fiscal no inStore'
 id: 2VuvTxbZKgWqikmIqWyUqG
 status: DRAFT
 createdAt: 2018-03-15T21:36:31.427Z

@@ -1,5 +1,5 @@
 ---
-title: Cómo elegir el tipo de interés de una condición de pago
+title: 'Cómo elegir el tipo de interés de una condición de pago'
 id: 2erloDXDuI6yawWqqcmgIo
 status: PUBLISHED
 createdAt: 2019-01-02T19:05:30.818Z

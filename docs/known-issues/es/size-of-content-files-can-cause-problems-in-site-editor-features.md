@@ -1,5 +1,5 @@
 ---
-title: El tamaño de los archivos de contenido puede causar problemas en las funciones del Editor de Sitios
+title: 'El tamaño de los archivos de contenido puede causar problemas en las funciones del Editor de Sitios'
 id: UevN0hPbmi9f9RQtsI1bi
 status: PUBLISHED
 createdAt: 2022-12-13T14:37:50.733Z

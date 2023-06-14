@@ -1,5 +1,5 @@
 ---
-title: Links de paginação nos resultados da pesquisa que não funcionam nas páginas da Giftlist
+title: 'Links de paginação nos resultados da pesquisa que não funcionam nas páginas da Giftlist'
 id: 1w6h5MwZthKMM8rvqXZtQi
 status: PUBLISHED
 createdAt: 2022-11-02T14:01:35.650Z

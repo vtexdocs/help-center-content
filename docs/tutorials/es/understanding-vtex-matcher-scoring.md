@@ -1,5 +1,5 @@
 ---
-title: Cómo funcionan los puntos del VTEX Matcher
+title: 'Cómo funcionan los puntos del VTEX Matcher'
 id: tutorials_424
 status: PUBLISHED
 createdAt: 2017-04-27T22:05:43.272Z

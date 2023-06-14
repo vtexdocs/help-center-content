@@ -1,5 +1,5 @@
 ---
-title: La configuración de la tarjeta de regalo recargable no funciona cuando se intenta añadir crédito a la tarjeta de regalo a través de la API
+title: 'La configuración de la tarjeta de regalo recargable no funciona cuando se intenta añadir crédito a la tarjeta de regalo a través de la API'
 id: 3MXPd85Km51KpO4FNPqlDf
 status: PUBLISHED
 createdAt: 2022-05-23T14:21:10.608Z

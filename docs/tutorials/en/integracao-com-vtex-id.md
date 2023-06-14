@@ -1,5 +1,5 @@
 ---
-title: Integrating with VTEX ID
+title: 'Integrating with VTEX ID'
 id: 4wGcnjMDg5KpLc40o14dDd
 status: DRAFT
 createdAt: 2019-01-23T18:56:08.943Z

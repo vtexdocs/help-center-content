@@ -1,5 +1,5 @@
 ---
-title: Master Data no refleja debidamente las UTMs personalizadas del trigger
+title: 'Master Data no refleja debidamente las UTMs personalizadas del trigger'
 id: 5IUv6xx8MpUBMxJaUDUzN7
 status: PUBLISHED
 createdAt: 2019-06-10T22:34:10.000Z

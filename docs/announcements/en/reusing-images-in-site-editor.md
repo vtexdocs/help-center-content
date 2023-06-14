@@ -1,5 +1,5 @@
 ---
-title: "Reusing images in Site Editor"
+title: 'Reusing images in Site Editor'
 id: 1gILUNu24iiCWrodZMw3Kq
 status: PUBLISHED
 createdAt: 2021-08-03T17:36:32.021Z
@@ -10,8 +10,8 @@ productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: reusing-images-in-site-editor
 legacySlug: reusing-images-in-site-editor
-announcementImageID: ""
-announcementSynopsisEN: We have improved blocks with the native option to upload images in Site Editor through an image repository.
+announcementImageID: ''
+announcementSynopsisEN: 'We have improved blocks with the native option to upload images in Site Editor through an image repository.'
 ---
 
 We have improved the way you manage your images in [Site Editor](https://help.vtex.com/en/subcategory/site-editor--9Arh3cJIOYlfSD1MUC2h3) through an Image Widget, a centralized image repository that allows you to upload and reuse your store’s images. 

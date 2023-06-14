@@ -1,5 +1,5 @@
 ---
-title: Pré-visualização de embarque exibindo erroneamente o preço quando a entrega é programada
+title: 'Pré-visualização de embarque exibindo erroneamente o preço quando a entrega é programada'
 id: 1348f4mDxoxAT7pTKBxm29
 status: PUBLISHED
 createdAt: 2023-01-31T19:16:25.118Z

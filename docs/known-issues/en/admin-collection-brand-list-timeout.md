@@ -1,5 +1,5 @@
 ---
-title: Admin Collection Brand List Timeout
+title: 'Admin Collection Brand List Timeout'
 id: 4de4lqAIhr9mU77EPAbvq1
 status: PUBLISHED
 createdAt: 2022-08-17T15:58:26.950Z

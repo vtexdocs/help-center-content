@@ -1,5 +1,5 @@
 ---
-title: "B2W integration: automate picking request with B2W Coleta"
+title: 'B2W integration: automate picking request with B2W Coleta'
 id: 3yRXLH2Zc7dIOPwVWmYz26
 status: CHANGED
 createdAt: 2019-11-01T17:10:58.783Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 1nsS1IgG3WWQ4cA8e2qsw6
 slug: b2w-integration-automate-picking-request-with-b2w-coleta
 legacySlug: b2w-integration-automate-picking-request-with-b2w-coleta
-announcementImageID: ""
-announcementSynopsisEN: VTEX will provide a new automatic integration with B2W Coleta (“Pickup”) - one of the B2W logistics solutions
+announcementImageID: ''
+announcementSynopsisEN: 'VTEX will provide a new automatic integration with B2W Coleta (“Pickup”) - one of the B2W logistics solutions'
 ---
 
 Starting November 1st, 2019, VTEX will provide a new automatic integration with B2W Coleta (“Pickup”) - one of the B2W logistics solutions.

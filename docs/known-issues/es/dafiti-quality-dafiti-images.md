@@ -1,5 +1,5 @@
 ---
-title: [Dafiti] Imágenes de calidad de Dafiti
+title: '[Dafiti] Imágenes de calidad de Dafiti'
 id: 7C5ms968kPMM1NcNUT0QKU
 status: PUBLISHED
 createdAt: 2022-10-10T18:48:49.694Z

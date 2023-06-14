@@ -1,5 +1,5 @@
 ---
-title: Cómo cancelar pedido
+title: 'Cómo cancelar pedido'
 id: tutorials_186
 status: PUBLISHED
 createdAt: 2017-04-27T22:15:47.296Z

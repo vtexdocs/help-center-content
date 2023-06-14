@@ -1,5 +1,5 @@
 ---
-title: Compatibilidad con navegadores en el panel administrativo de VTEX
+title: 'Compatibilidad con navegadores en el panel administrativo de VTEX'
 id: tutorials_547
 status: PUBLISHED
 createdAt: 2017-04-27T22:01:25.561Z

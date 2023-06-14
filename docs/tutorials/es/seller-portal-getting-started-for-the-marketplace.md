@@ -1,5 +1,5 @@
 ---
-title: Seller Portal: Primeros pasos para el marketplace
+title: 'Seller Portal: Primeros pasos para el marketplace'
 id: 6ccErY3mCcfoW0qGXf167
 status: PUBLISHED
 createdAt: 2022-03-17T14:20:18.188Z
@@ -26,7 +26,7 @@ A través del *Seller Portal*, los *marketplaces* pueden:
 - Reducir el tiempo de conversión de las ventas con una incorporación self-service de nuevos sellers ahora más rápida y sin fricciones.  
 - Compartir el surtido de productos con el seller de forma sencilla y gestionar rápidamente los anuncios de productos compartidos.  
 
-![Seller Portal gif 2022 launch](https://images.ctfassets.net/alneenqid6w5/48uQe9Gi0K9ZU8qyXXO8US/442d951b3a76c47f43249b3f544389be/Seller_Portal.gif)
+![Seller Portal gif 2022 launch](//images.ctfassets.net/alneenqid6w5/48uQe9Gi0K9ZU8qyXXO8US/442d951b3a76c47f43249b3f544389be/Seller_Portal.gif)
 
 ## Interacción entre el seller y el marketplace en el Seller Portal
 

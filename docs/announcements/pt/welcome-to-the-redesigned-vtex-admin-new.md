@@ -1,5 +1,5 @@
 ---
-title: "Dê as boas-vindas ao novo Admin VTEX"
+title: 'Dê as boas-vindas ao novo Admin VTEX'
 id: 428AanFpOiQgRkaLvDHVO9
 status: PUBLISHED
 createdAt: 2023-04-20T22:53:34.943Z
@@ -10,15 +10,15 @@ productTeam: Management
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: de-as-boas-vindas-ao-novo-admin-vtex
 legacySlug: de-as-boas-vindas-ao-novo-admin-vtex
-announcementImageID: ""
-announcementSynopsisPT: Estamos trazendo o futuro do comércio até você através do novo design do Admin VTEX. 
+announcementImageID: ''
+announcementSynopsisPT: 'Estamos trazendo o futuro do comércio até você através do novo design do Admin VTEX. '
 ---
 
 As empresas digitais têm buscado cada vez mais ferramentas que permitam que elas cresçam com menos atrito enquanto suas equipes podem se concentrar no que é mais importante para seus negócios. Por isso, a VTEX está lançando uma nova versão do seu Admin: para permitir que os comerciantes gerenciem toda a sua experiência de comércio digital em um único lugar, de forma mais simples e inteligente, com melhorias significativas quanto ao acesso aos dados e à realização de tarefas diárias.
 
 Dê as boas-vindas à [experiência do novo Admin](https://content.vtex.com/join-new-admin-beta-program-pt/?utm_source=announcement&utm_medium=organic&utm_campaign=new_admin_beta).
 
-![Store overview gif PT](https://images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/b9a4a299f80286eadf1727cd5057a64c/Store_overview_gif_PT.gif)
+![Store overview gif PT](//images.ctfassets.net/alneenqid6w5/4vKmiLmTVUtaxn5vzpX5xq/b9a4a299f80286eadf1727cd5057a64c/Store_overview_gif_PT.gif)
 
 ## O que mudou?
 

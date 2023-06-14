@@ -1,5 +1,5 @@
 ---
-title: El control $product.Brand reemplaza caracteres especiales
+title: 'El control $product.Brand reemplaza caracteres especiales'
 id: 1UA4KGy7asC4uumY0uACGU
 status: PUBLISHED
 createdAt: 2017-08-29T20:19:03.244Z

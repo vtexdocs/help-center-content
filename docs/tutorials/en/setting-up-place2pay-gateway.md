@@ -1,5 +1,5 @@
 ---
-title: Setting up Place2Pay gateway
+title: 'Setting up Place2Pay gateway'
 id: 2NmmnLpUPY0A8aMi0oyiQq
 status: PUBLISHED
 createdAt: 2018-03-07T21:45:23.671Z

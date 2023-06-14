@@ -1,5 +1,5 @@
 ---
-title: Verificando o usuário que está autenticado
+title: 'Verificando o usuário que está autenticado'
 id: 4vLALC0yrsJydfaY56Zshq
 status: DRAFT
 createdAt: 2019-01-23T19:19:30.635Z

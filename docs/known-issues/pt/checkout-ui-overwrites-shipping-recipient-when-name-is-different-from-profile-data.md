@@ -1,5 +1,5 @@
 ---
-title: A interface de usuário do checkout substitui o destinatário da remessa quando o nome é diferente dos dados do perfil
+title: 'A interface de usuário do checkout substitui o destinatário da remessa quando o nome é diferente dos dados do perfil'
 id: 2IrL7DbWbzdgxZh6Us6n4q
 status: PUBLISHED
 createdAt: 2023-05-09T22:08:13.314Z

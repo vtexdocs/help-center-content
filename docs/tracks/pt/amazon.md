@@ -1,5 +1,5 @@
 ---
-title: Amazon
+title: 'Amazon'
 id: 5sYA9MlRo92jJIxKF1MTXb
 status: PUBLISHED
 createdAt: 2021-07-19T15:04:49.589Z

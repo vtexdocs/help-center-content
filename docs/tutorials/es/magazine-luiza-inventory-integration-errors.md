@@ -1,5 +1,5 @@
 ---
-title: Errores de integración de stock con Magazine Luiza
+title: 'Errores de integración de stock con Magazine Luiza'
 id: 2MDUBnEp0AJ7YHppzatW9L
 status: PUBLISHED
 createdAt: 2021-11-22T13:46:18.519Z

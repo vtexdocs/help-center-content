@@ -1,5 +1,5 @@
 ---
-title: Configurar Venda Direta - Crédito
+title: 'Configurar Venda Direta - Crédito'
 id: 5rSTgGeCqEN7c9LmFbfqA
 status: PUBLISHED
 createdAt: 2021-09-27T20:09:51.763Z

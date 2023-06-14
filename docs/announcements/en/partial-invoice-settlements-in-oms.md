@@ -1,5 +1,5 @@
 ---
-title: "Partial invoice settlements in OMS"
+title: 'Partial invoice settlements in OMS'
 id: 57DxOPAIGassIOYDNPQftv
 status: PUBLISHED
 createdAt: 2022-06-27T20:36:59.586Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: partial-invoice-settlements-in-oms
 legacySlug: partial-invoice-settlements-in-oms
-announcementImageID: ""
-announcementSynopsisEN: Partial invoices added to orders trigger partial settlements in the transaction.
+announcementImageID: ''
+announcementSynopsisEN: 'Partial invoices added to orders trigger partial settlements in the transaction.'
 ---
 
 When managing orders in OMS, the VTEX order management system, adding the invoice to the order is a required step for its status to change to Invoiced — which indicates that the order has been successfully completed. You can add a [complete](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT) or a [partial invoice](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) in scenarios where items in the order or the order amount are changed. 

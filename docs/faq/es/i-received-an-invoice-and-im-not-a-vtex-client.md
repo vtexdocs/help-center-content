@@ -1,5 +1,5 @@
 ---
-title: Recibí una factura y no soy cliente VTEX. ¿Por qué?
+title: 'Recibí una factura y no soy cliente VTEX. ¿Por qué?'
 id: 2xW1boWieUC40KQgIaugGG
 status: PUBLISHED
 createdAt: 2018-03-28T18:35:49.057Z

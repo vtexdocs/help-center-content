@@ -1,5 +1,5 @@
 ---
-title: Como configurar loja guarda-chuva na integração com o Mercado Livre?
+title: 'Como configurar loja guarda-chuva na integração com o Mercado Livre?'
 id: 5KINOatgzeS48IGwaAK8IE
 status: PUBLISHED
 createdAt: 2018-09-10T20:21:30.658Z

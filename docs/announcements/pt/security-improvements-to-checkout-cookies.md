@@ -1,5 +1,5 @@
 ---
-title: "Melhorias na segurança em cookies do Checkout"
+title: 'Melhorias na segurança em cookies do Checkout'
 id: 4MThm4Y5sxYLaW3PfrHdJd
 status: PUBLISHED
 createdAt: 2022-09-19T19:22:37.019Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: melhorias-na-seguranca-em-cookies-do-checkout
 legacySlug: melhorias-na-seguranca-em-cookies-do-checkout
-announcementImageID: ""
-announcementSynopsisPT: Atualização nos cookies do Checkout permite o aumento de segurança em sua loja
+announcementImageID: ''
+announcementSynopsisPT: 'Atualização nos cookies do Checkout permite o aumento de segurança em sua loja'
 ---
 
 Visando aprimorar a segurança das informações da sua loja, a VTEX realizou melhorias nos cookies do Checkout. A partir de 13 de Fevereiro de 2023, a segurança dos cookies `checkout.vtex.com` e `CheckoutDataAccess` será ampliada por meio da implementação dos atributos _Secure_, _HttpOnly_ e _SameSite_.

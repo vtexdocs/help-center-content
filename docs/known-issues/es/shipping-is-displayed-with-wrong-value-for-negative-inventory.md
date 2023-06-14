@@ -1,5 +1,5 @@
 ---
-title: El envío se muestra con valor incorrecto cuando hay stock negativo.
+title: 'El envío se muestra con valor incorrecto cuando hay stock negativo.'
 id: 3EwZH688kMiS8uyugOk4uw
 status: PUBLISHED
 createdAt: 2017-08-23T13:13:48.362Z

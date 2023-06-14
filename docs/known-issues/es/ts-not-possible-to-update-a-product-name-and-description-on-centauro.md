@@ -1,5 +1,5 @@
 ---
-title: No es posible actualizar el nombre y la descripción de un producto en Centauro.
+title: 'No es posible actualizar el nombre y la descripción de un producto en Centauro.'
 id: 6gWGtNPsyce5OToAAn7kbh
 status: PUBLISHED
 createdAt: 2022-03-16T18:37:12.297Z

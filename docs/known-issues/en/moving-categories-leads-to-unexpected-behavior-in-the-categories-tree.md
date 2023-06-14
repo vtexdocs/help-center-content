@@ -1,5 +1,5 @@
 ---
-title: Moving categories leads to unexpected behavior in the categories tree
+title: 'Moving categories leads to unexpected behavior in the categories tree'
 id: 6JSa9nnYoAAUQO1zPtzfZD
 status: PUBLISHED
 createdAt: 2019-08-20T18:20:42.655Z

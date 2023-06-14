@@ -1,5 +1,5 @@
 ---
-title: "iDEAL: Meio de pagamento para clientes da Holanda"
+title: 'iDEAL: Meio de pagamento para clientes da Holanda'
 id: 2BXpvEX5EkymnK5wWsKKKV
 status: PUBLISHED
 createdAt: 2021-05-06T19:55:33.454Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: ideal-meio-de-pagamento-para-clientes-da-holanda
 legacySlug: ideal-meio-de-pagamento-para-clientes-da-holanda
-announcementImageID: ""
-announcementSynopsisPT: Um dos principais meios de pagamento da Holanda, agora pode ser integrado à sua loja por meio da Adyen.
+announcementImageID: ''
+announcementSynopsisPT: 'Um dos principais meios de pagamento da Holanda, agora pode ser integrado à sua loja por meio da Adyen.'
 ---
 
 Recentemente a VTEX passou a oferecer integração com um dos principais meios de pagamento da Holanda, o [iDEAL](https://www.ideal.nl/en/consumers/what-is-ideal/). Presente em mais de 60% das transações do País, o iDEAL pode ser configurado em sua loja por meio da integração com a [Adyen](https://www.adyen.com/pt_BR/).

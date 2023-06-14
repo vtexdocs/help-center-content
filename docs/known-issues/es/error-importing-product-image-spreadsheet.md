@@ -1,5 +1,5 @@
 ---
-title: Error al importar planilla de imágenes de productos
+title: 'Error al importar planilla de imágenes de productos'
 id: 4Ydb20N43mQA4a4O6wmss2
 status: PUBLISHED
 createdAt: 2018-04-13T00:00:44.849Z

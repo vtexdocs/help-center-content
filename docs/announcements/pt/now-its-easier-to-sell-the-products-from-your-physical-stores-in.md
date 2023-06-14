@@ -1,5 +1,5 @@
 ---
-title: "Ficou mais fácil vender os produtos das suas lojas físicas em marketplaces"
+title: 'Ficou mais fácil vender os produtos das suas lojas físicas em marketplaces'
 id: 2rOEBV0tOAoZIgow7CODyj
 status: PUBLISHED
 createdAt: 2019-03-12T21:54:26.822Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 6AcGyun1hSWewU8YcaQiO
 slug: ficou-mais-facil-vender-os-produtos-das-suas-lojas-fisicas-em-marketplaces
 legacySlug: ficou-mais-facil-vender-os-produtos-das-suas-lojas-fisicas-em-marketplaces
-announcementImageID: ""
-announcementSynopsisPT: Agora, ao integrar a conta principal a um marketplace, os estoques das contas-franquia são considerados automaticamente.
+announcementImageID: ''
+announcementSynopsisPT: 'Agora, ao integrar a conta principal a um marketplace, os estoques das contas-franquia são considerados automaticamente.'
 ---
 
 Você já pode oferecer os produtos de toda sua rede de lojas físicas em __marketplaces externos__, sem esforço. Através do __Multilevel Omnichannel Inventory__, as [contas-franquia](/pt/faq/definicoes-de-conta-franquia-e-seller-white-label#o-que-e-uma-conta-franquia), quando criadas, já estão completamente integradas à conta principal. Isso significa que, quando a conta principal configurar uma integração com um marketplace externo, o estoque das contas-franquias também será considerado no processo, ou seja, não será mais preciso gerenciar cada conta-franquia individualmente para integrá-la ao marketplace. 

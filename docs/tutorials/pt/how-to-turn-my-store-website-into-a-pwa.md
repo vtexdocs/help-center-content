@@ -1,5 +1,5 @@
 ---
-title: Como transformar o site da minha loja em um PWA
+title: 'Como transformar o site da minha loja em um PWA'
 id: 3i8VmYeToAUGKgo2kKK6I2
 status: PUBLISHED
 createdAt: 2018-03-19T18:20:25.794Z

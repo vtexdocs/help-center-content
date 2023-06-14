@@ -1,5 +1,5 @@
 ---
-title: Por que não recebo email de carrinho abandonado?
+title: 'Por que não recebo email de carrinho abandonado?'
 id: 5ERWuLh9ajnTiHuRSsNje3
 status: PUBLISHED
 createdAt: 2019-03-15T16:46:36.370Z

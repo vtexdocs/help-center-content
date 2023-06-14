@@ -1,5 +1,5 @@
 ---
-title: Cómo funciona la integración con Buscapé
+title: 'Cómo funciona la integración con Buscapé'
 id: 689SI30FCEGYAeiIY66yAe
 status: DRAFT
 createdAt: 2018-09-28T17:13:22.994Z

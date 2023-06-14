@@ -1,5 +1,5 @@
 ---
-title: Prerequisites for using VTEX Sales App
+title: 'Prerequisites for using VTEX Sales App'
 id: 1wtAanSRA3g2316dw7bw8u
 status: PUBLISHED
 createdAt: 2020-06-28T13:28:33.600Z

@@ -1,5 +1,5 @@
 ---
-title: Offer Management: moderation and quality of Mercado Libre
+title: 'Offer Management: moderation and quality of Mercado Libre'
 id: xSbPzA41jiWPAorlBCEA4
 status: PUBLISHED
 createdAt: 2022-10-24T16:38:07.914Z

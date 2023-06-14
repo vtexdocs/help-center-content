@@ -1,5 +1,5 @@
 ---
-title: Configurar gateway Paga Más Tarde
+title: 'Configurar gateway Paga Más Tarde'
 id: 5IIg3KHZyoCOUyuqgMmkWq
 status: DRAFT
 createdAt: 2018-04-11T13:21:10.769Z

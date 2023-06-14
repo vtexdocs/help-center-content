@@ -1,5 +1,5 @@
 ---
-title: Cálculo do prazo de entrega de um pedido
+title: 'Cálculo do prazo de entrega de um pedido'
 id: 7IkKo1XSxiBj30hdn37oOE
 status: DRAFT
 createdAt: 2019-10-23T15:25:20.218Z

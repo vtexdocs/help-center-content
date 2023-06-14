@@ -1,5 +1,5 @@
 ---
-title:  La interfaz de usuario de la tarjeta genera un error cuando el usuario elige pagar con dos tarjetas, cambia el método de pago y vuelve al pago con dos tarjetas
+title: ' La interfaz de usuario de la tarjeta genera un error cuando el usuario elige pagar con dos tarjetas, cambia el método de pago y vuelve al pago con dos tarjetas'
 id: 1LZL3Gq40b7TRjCLnASacW
 status: PUBLISHED
 createdAt: 2022-11-30T19:03:35.002Z

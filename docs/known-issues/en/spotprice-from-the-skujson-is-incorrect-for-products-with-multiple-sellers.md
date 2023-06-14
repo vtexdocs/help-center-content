@@ -1,5 +1,5 @@
 ---
-title: spotPrice from the skuJson is incorrect for products with multiple Sellers
+title: 'spotPrice from the skuJson is incorrect for products with multiple Sellers'
 id: 6rgLJCE1DYPXZj1Pqt6hA2
 status: PUBLISHED
 createdAt: 2022-02-24T15:32:40.223Z

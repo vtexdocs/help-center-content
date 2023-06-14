@@ -1,5 +1,5 @@
 ---
-title: Cancel and refund an order on VTEX Sales App
+title: 'Cancel and refund an order on VTEX Sales App'
 id: UAahHrTwypk1HhoyyMd2W
 status: PUBLISHED
 createdAt: 2021-11-09T14:00:04.800Z

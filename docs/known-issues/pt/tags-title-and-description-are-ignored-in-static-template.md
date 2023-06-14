@@ -1,5 +1,5 @@
 ---
-title: Tags title e description são ignoradas em template estáticos
+title: 'Tags title e description são ignoradas em template estáticos'
 id: 2ElYglcUPOQieoUUG6akqo
 status: PUBLISHED
 createdAt: 2017-09-05T20:55:36.892Z

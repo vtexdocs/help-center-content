@@ -1,5 +1,5 @@
 ---
-title: Changing the names of payment methods at the checkout
+title: 'Changing the names of payment methods at the checkout'
 id: frequentlyAskedQuestions_428
 status: DRAFT
 createdAt: 2019-01-24T20:45:53.538Z

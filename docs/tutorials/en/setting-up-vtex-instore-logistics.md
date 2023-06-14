@@ -1,5 +1,5 @@
 ---
-title: How to set up VTEX inStore logistics
+title: 'How to set up VTEX inStore logistics'
 id: 50Rzgmai48EMYsaqug2UEm
 status: DRAFT
 createdAt: 2017-06-16T19:35:54.640Z

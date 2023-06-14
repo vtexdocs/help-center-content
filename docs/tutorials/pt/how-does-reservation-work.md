@@ -1,5 +1,5 @@
 ---
-title: Como a reserva funciona
+title: 'Como a reserva funciona'
 id: tutorials_92
 status: PUBLISHED
 createdAt: 2017-04-27T22:19:56.753Z

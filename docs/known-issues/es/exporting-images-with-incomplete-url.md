@@ -1,5 +1,5 @@
 ---
-title: Exportación de imágenes con URL incompleta
+title: 'Exportación de imágenes con URL incompleta'
 id: 2XIs1s3gB2WSGA6CmGyGs0
 status: PUBLISHED
 createdAt: 2018-09-15T19:47:20.331Z

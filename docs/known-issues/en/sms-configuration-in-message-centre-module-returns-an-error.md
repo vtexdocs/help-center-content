@@ -1,5 +1,5 @@
 ---
-title: SMS configuration in message centre module returns an error
+title: 'SMS configuration in message centre module returns an error'
 id: 4OlzNBkOfFqHxX8WTGjH4O
 status: PUBLISHED
 createdAt: 2019-05-08T18:01:12.389Z

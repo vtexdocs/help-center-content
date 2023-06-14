@@ -1,5 +1,5 @@
 ---
-title: A API de checkout pode não agrupar pacotes quando dois ou mais vendedores podem atender
+title: 'A API de checkout pode não agrupar pacotes quando dois ou mais vendedores podem atender'
 id: 3nTRP8r3ZvoZ6UqC1RTbIb
 status: PUBLISHED
 createdAt: 2023-05-03T22:24:43.036Z

@@ -1,5 +1,5 @@
 ---
-title: "Nuevo horario de funcionamiento en las transportadoras"
+title: 'Nuevo horario de funcionamiento en las transportadoras'
 id: 1EDwYgBmqddlVZ5aXhaa4t
 status: DRAFT
 createdAt: 2019-02-18T20:40:07.893Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: authors_41
 slug: nuevo-horario-de-funcionamiento-en-las-transportadoras
 legacySlug: nuevo-horario-de-funcionamiento-en-las-transportadoras
-announcementImageID: ""
-announcementSynopsisES: A partir del 29/01, usted podrá configurar los horarios de funcionamiento de una transportadora.
+announcementImageID: ''
+announcementSynopsisES: 'A partir del 29/01, usted podrá configurar los horarios de funcionamiento de una transportadora.'
 ---
 
 A partir del __29/01/2019__, usted podrá configurar los __horarios de funcionamiento__ de una transportadora.

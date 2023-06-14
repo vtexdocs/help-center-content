@@ -1,5 +1,5 @@
 ---
-title: Modelos de precios de aplicaciones
+title: 'Modelos de precios de aplicaciones'
 id: 2ZKBKxLe08Q6seA6sCi6o2
 status: DRAFT
 createdAt: 2018-06-12T23:17:22.336Z

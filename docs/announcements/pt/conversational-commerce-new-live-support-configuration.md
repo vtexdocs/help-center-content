@@ -1,5 +1,5 @@
 ---
-title: "Conversational Commerce: Nova Configuração de Atendimento Humano"
+title: 'Conversational Commerce: Nova Configuração de Atendimento Humano'
 id: 6ONAReju1cAVutNHmabxyN
 status: PUBLISHED
 createdAt: 2023-04-28T20:35:36.364Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 5l3eEiSz8MpcppCxcnijGz
 slug: conversational-commerce-nova-configuracao-de-atendimento-humano
 legacySlug: conversational-commerce-nova-configuracao-de-atendimento-humano
-announcementImageID: ""
-announcementSynopsisPT: Atendimento Humano é a configuração do Conversational Commerce que possibilita o atendimento ao cliente via WhatsApp.
+announcementImageID: ''
+announcementSynopsisPT: 'Atendimento Humano é a configuração do Conversational Commerce que possibilita o atendimento ao cliente via WhatsApp.'
 ---
 
 Para aumentar a satisfação do cliente, fornecendo uma experiência de suporte conveniente e contínua, a VTEX desenvolveu o Atendimento Humano.

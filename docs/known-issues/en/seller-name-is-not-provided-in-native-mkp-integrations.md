@@ -1,5 +1,5 @@
 ---
-title: Seller's Name is not provided in native mkp integrations
+title: 'Seller's Name is not provided in native mkp integrations'
 id: bPx7CPZEXecgMe2Sscg6k
 status: PUBLISHED
 createdAt: 2017-12-28T15:21:09.238Z

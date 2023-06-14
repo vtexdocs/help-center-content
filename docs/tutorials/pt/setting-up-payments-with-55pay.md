@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com 55PAY
+title: 'Configurar pagamento com 55PAY'
 id: 4ktYG4reu5T6taEj2pKjvZ
 status: PUBLISHED
 createdAt: 2022-05-05T13:22:59.869Z

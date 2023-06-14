@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Store Card (cobranded)
+title: 'Setting up payments with Store Card (cobranded)'
 id: jrkLK41IjuquUmyKUi86Q
 status: PUBLISHED
 createdAt: 2018-06-25T15:48:13.031Z

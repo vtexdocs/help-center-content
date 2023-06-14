@@ -1,5 +1,5 @@
 ---
-title: Status divergente na lista de transações e na transação
+title: 'Status divergente na lista de transações e na transação'
 id: 1LD32IQJFbvlOJzD12KL64
 status: PUBLISHED
 createdAt: 2022-03-03T18:41:10.292Z

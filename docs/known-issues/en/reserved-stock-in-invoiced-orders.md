@@ -1,5 +1,5 @@
 ---
-title: Reserved stock in invoiced orders
+title: 'Reserved stock in invoiced orders'
 id: TfDOKEybi6eSAEoCEEAqg
 status: PUBLISHED
 createdAt: 2017-06-13T18:43:58.606Z

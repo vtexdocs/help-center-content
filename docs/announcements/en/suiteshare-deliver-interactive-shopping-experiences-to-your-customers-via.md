@@ -1,5 +1,5 @@
 ---
-title: "Suiteshare: deliver interactive shopping experiences to your customers via WhatsApp"
+title: 'Suiteshare: deliver interactive shopping experiences to your customers via WhatsApp'
 id: 1tNAguMcLif8mUH0kqmPBw
 status: PUBLISHED
 createdAt: 2021-08-16T13:49:05.470Z
@@ -10,8 +10,8 @@ productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: suiteshare-deliver-interactive-shopping-experiences-to-your-customers-via
 legacySlug: suiteshare-deliver-interactive-shopping-experiences-to-your-customers-via
-announcementImageID: ""
-announcementSynopsisEN: VTEX App Store offers the app that integrates with a sales and service platform via WhatsApp, Suiteshare.
+announcementImageID: ''
+announcementSynopsisEN: 'VTEX App Store offers the app that integrates with a sales and service platform via WhatsApp, Suiteshare.'
 ---
 
 Conversational commerce is a powerful tool for stores to improve their engagement, conversion rates, and customers' shopping experience.  

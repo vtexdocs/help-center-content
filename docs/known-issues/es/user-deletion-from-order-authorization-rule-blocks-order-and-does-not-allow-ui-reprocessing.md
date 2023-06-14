@@ -1,5 +1,5 @@
 ---
-title: La eliminación del usuario de la regla de autorización de pedidos bloquea el pedido y no permite el reprocesamiento de la interfaz de usuario
+title: 'La eliminación del usuario de la regla de autorización de pedidos bloquea el pedido y no permite el reprocesamiento de la interfaz de usuario'
 id: 3OW5OoBG6OYW8mHDcZMoOi
 status: PUBLISHED
 createdAt: 2022-10-27T17:40:30.149Z

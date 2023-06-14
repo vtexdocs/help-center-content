@@ -1,5 +1,5 @@
 ---
-title: "Descubre las nuevas interfaces de Estrategia de envío"
+title: 'Descubre las nuevas interfaces de Estrategia de envío'
 id: 4OzIFTj9ywcuE5a5jg8WD7
 status: PUBLISHED
 createdAt: 2023-05-31T15:49:13.447Z
@@ -10,15 +10,15 @@ productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: descubre-las-nuevas-interfaces-de-estrategia-de-envio
 legacySlug: descubre-las-nuevas-interfaces-de-estrategia-de-envio
-announcementImageID: ""
-announcementSynopsisES: Lanzamiento beta de la nueva experiencia de las interfaces de Estrategia de envío.
+announcementImageID: ''
+announcementSynopsisES: 'Lanzamiento beta de la nueva experiencia de las interfaces de Estrategia de envío.'
 ---
 
 A partir del 31 de mayo, estamos lanzando para todas las tiendas VTEX la versión beta de las nuevas interfaces de la **Estrategia de envío**, compuesta por las páginas de [Políticas de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140), [Muelles](https://help.vtex.com/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) y [Almacenes](https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb).
 
 Las páginas de la **Estrategia de envío** fueran actualizadas al nuevo _VTEX design system_, como se puede ver a continuación:
 
-![nova_estrategia_envio_announcement_boards_ES](https://images.ctfassets.net/alneenqid6w5/7gWgtAG6jo0wXjKCUKYGnj/6ec635cd52cd33a2845fed3d1b444ba6/nova_estrategia_envio_announcement_boards_ES.png)
+![nova_estrategia_envio_announcement_boards_ES](//images.ctfassets.net/alneenqid6w5/7gWgtAG6jo0wXjKCUKYGnj/6ec635cd52cd33a2845fed3d1b444ba6/nova_estrategia_envio_announcement_boards_ES.png)
 
 ## ¿Qué cambió?
 

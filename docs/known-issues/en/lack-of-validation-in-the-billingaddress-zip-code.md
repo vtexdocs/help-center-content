@@ -1,5 +1,5 @@
 ---
-title: Lack of validation in the BillingAddress zip code
+title: 'Lack of validation in the BillingAddress zip code'
 id: 21x0WNTMAfzf5xky0fNGKK
 status: PUBLISHED
 createdAt: 2022-03-26T23:27:38.016Z

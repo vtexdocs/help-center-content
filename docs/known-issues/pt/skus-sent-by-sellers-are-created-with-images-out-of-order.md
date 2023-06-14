@@ -1,5 +1,5 @@
 ---
-title: Skus enviados por vendedores são criados com imagens fora de ordem.
+title: 'Skus enviados por vendedores são criados com imagens fora de ordem.'
 id: 4I7D9QqrG5nwN2Z8KXGGIV
 status: PUBLISHED
 createdAt: 2023-04-03T14:14:43.373Z

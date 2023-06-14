@@ -1,5 +1,5 @@
 ---
-title:  El filtro por SkuName en Sales Performance no acepta mayúsculas.
+title: ' El filtro por SkuName en Sales Performance no acepta mayúsculas.'
 id: 3FCDeEn8xmEvOXKgBxqyL5
 status: PUBLISHED
 createdAt: 2022-08-16T18:06:02.919Z

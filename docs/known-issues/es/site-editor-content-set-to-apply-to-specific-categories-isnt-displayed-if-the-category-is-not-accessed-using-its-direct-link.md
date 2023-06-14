@@ -1,5 +1,5 @@
 ---
-title: El contenido del Editor del Sitio configurado para aplicarse a categorías específicas no se muestra si no se accede a la categoría mediante su enlace directo
+title: 'El contenido del Editor del Sitio configurado para aplicarse a categorías específicas no se muestra si no se accede a la categoría mediante su enlace directo'
 id: 54uBX6xmhz8R2dm4LOEKJ7
 status: PUBLISHED
 createdAt: 2022-03-16T19:04:43.255Z

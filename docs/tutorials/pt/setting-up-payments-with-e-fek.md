@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com E-fek
+title: 'Configurar pagamento com E-fek'
 id: 13YXBaqcNnAvK8RtHx5o8b
 status: DRAFT
 createdAt: 2022-08-11T17:14:41.447Z

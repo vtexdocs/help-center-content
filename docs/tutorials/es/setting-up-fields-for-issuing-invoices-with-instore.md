@@ -1,5 +1,5 @@
 ---
-title: Configurar campos para emisión de facturas en inStore
+title: 'Configurar campos para emisión de facturas en inStore'
 id: 3DlxJlZI1Wqk2So6MGwWII
 status: DRAFT
 createdAt: 2018-03-13T19:40:22.188Z

@@ -1,5 +1,5 @@
 ---
-title: Why didn't I receive the signed contract from VTEX?
+title: 'Why didn't I receive the signed contract from VTEX?'
 id: gjJL5j4zZuiC2qAuSuoG4
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:47.050Z
@@ -16,7 +16,7 @@ subcategory: 22TaEgFhwE6a6CG2KASYkC
 
 If you did not receive the signed contract, it's because you have given us an automatic acceptance in our Adhesion Agreement. Upon receiving your request to hire our service, we understand that you have read the commercial terms contained in it and accepted our terms.
 
-![financeiro aceite](https://images.ctfassets.net/alneenqid6w5/5Rz88oB8bKI6OCsGI4kKWY/fc3648cc7f18b0659050f50cfd923f85/financeiro_aceite.PNG)
+![financeiro aceite](//images.ctfassets.net/alneenqid6w5/5Rz88oB8bKI6OCsGI4kKWY/fc3648cc7f18b0659050f50cfd923f85/financeiro_aceite.PNG)
 
 After this step, we automatically start the financial processes so that your store can join the platform.
 

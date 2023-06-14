@@ -1,5 +1,5 @@
 ---
-title: A configuração do Giftcard Recarregável não funciona quando se tenta adicionar crédito ao cartão presente através de API
+title: 'A configuração do Giftcard Recarregável não funciona quando se tenta adicionar crédito ao cartão presente através de API'
 id: 3MXPd85Km51KpO4FNPqlDf
 status: PUBLISHED
 createdAt: 2022-05-23T14:21:10.608Z

@@ -1,5 +1,5 @@
 ---
-title: Regionalização (Beta)
+title: 'Regionalização (Beta)'
 id: 72fwxdSLvjKC7ZAT58vlqf
 status: PUBLISHED
 createdAt: 2021-10-25T19:22:23.686Z

@@ -1,5 +1,5 @@
 ---
-title: "Wishlist: conheça o novo app da VTEX App Store "
+title: 'Wishlist: conheça o novo app da VTEX App Store '
 id: 2Irl40LdpkTruqifY5lzsi
 status: PUBLISHED
 createdAt: 2020-12-07T18:58:32.265Z
@@ -10,8 +10,8 @@ productTeam: Apps
 author: LSspaTnBWFvnlgdBYPyog
 slug: wishlist-conheca-o-novo-app-da-vtex-app-store
 legacySlug: wishlist-conheca-o-novo-app-da-vtex-app-store
-announcementImageID: ""
-announcementSynopsisPT: Ofereça ao seu consumidor a possibilidade de criar listas de desejos com o novo app da VTEX App Store.
+announcementImageID: ''
+announcementSynopsisPT: 'Ofereça ao seu consumidor a possibilidade de criar listas de desejos com o novo app da VTEX App Store.'
 ---
 
 Você pediu e nós lhe atendemos: agora sua loja pode disponibilizar a funcionalidade de lista de desejos (wishlist) para os consumidores finais! Aumente o engajamento de seus consumidores e as suas vendas ao permitir que os clientes criem coleções de produtos de seu interesse para comprá-los futuramente. 
@@ -23,7 +23,7 @@ O aplicativo está disponível na [VTEX App Store](https://apps.vtex.com/ "VTEX 
 - Inclusão de um ícone de coração ao lado de cada produto nas listas de produtos e nas páginas de detalhamento do produto;
 - Criação de uma página para a Lista de Desejos, onde o comprador consegue ver todos os itens e facilmente comprá-los.
 
-![Wishlist Printscreen](https://images.ctfassets.net/alneenqid6w5/5EVie6cixnjJTZPoxqa5MG/5a6e2ce9fe25d828a14e0ee9d6df4f80/Screen_Shot_2020-12-07_at_16.04.01.png)
+![Wishlist Printscreen](//images.ctfassets.net/alneenqid6w5/5EVie6cixnjJTZPoxqa5MG/5a6e2ce9fe25d828a14e0ee9d6df4f80/Screen_Shot_2020-12-07_at_16.04.01.png)
 
 ## Quais os benefícios?
 - Torna a experiência de compra da sua loja mais completa;

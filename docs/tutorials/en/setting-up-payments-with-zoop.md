@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Zoop
+title: 'Setting up payments with Zoop'
 id: 5bRYiUjX1sewZuON8HA6Ld
 status: PUBLISHED
 createdAt: 2023-02-13T18:17:14.240Z

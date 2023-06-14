@@ -1,5 +1,5 @@
 ---
-title: A viewpart “shippingValue” não exibe prazos em horas corretamente
+title: 'A viewpart “shippingValue” não exibe prazos em horas corretamente'
 id: 5hvl9eGxPLZAuNcFAFc9Vb
 status: PUBLISHED
 createdAt: 2019-09-09T20:07:14.796Z

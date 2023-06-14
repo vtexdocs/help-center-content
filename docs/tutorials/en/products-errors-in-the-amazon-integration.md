@@ -1,5 +1,5 @@
 ---
-title: Products errors in the Amazon integration
+title: 'Products errors in the Amazon integration'
 id: 77ukHsrYpb8OSpkJc9poBj
 status: PUBLISHED
 createdAt: 2022-02-10T22:41:02.341Z

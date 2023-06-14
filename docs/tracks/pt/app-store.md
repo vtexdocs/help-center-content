@@ -1,5 +1,5 @@
 ---
-title: App Store
+title: 'App Store'
 id: 2xxY5AkUvGL5v5bJaO5Uzw
 status: PUBLISHED
 createdAt: 2022-12-22T19:29:48.385Z

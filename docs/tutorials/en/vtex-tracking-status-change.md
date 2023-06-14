@@ -1,5 +1,5 @@
 ---
-title: Status change (VTEX Tracking 0
+title: 'Status change (VTEX Tracking 0'
 id: 4shboc7h5XPUpA8TQzXPRG
 status: PUBLISHED
 createdAt: 2020-08-03T21:48:01.001Z

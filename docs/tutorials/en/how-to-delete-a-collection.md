@@ -1,5 +1,5 @@
 ---
-title: How to delete a collection
+title: 'How to delete a collection'
 id: 6C620yHzwsGoS8iaCocAM2
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:44.275Z

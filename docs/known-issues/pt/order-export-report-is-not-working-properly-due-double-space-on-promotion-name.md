@@ -1,5 +1,5 @@
 ---
-title: O Relatório de Exportação de Pedidos não está funcionando corretamente devido ao espaço duplo no nome da Promoção
+title: 'O Relatório de Exportação de Pedidos não está funcionando corretamente devido ao espaço duplo no nome da Promoção'
 id: 3dVPZEs544WyPDBNzTesWx
 status: PUBLISHED
 createdAt: 2023-04-06T20:22:47.489Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com PSE
+title: 'Configurar pagamento com PSE'
 id: 7dRChubn7TqdEyWrHQEQp6
 status: PUBLISHED
 createdAt: 2022-05-18T17:13:25.207Z

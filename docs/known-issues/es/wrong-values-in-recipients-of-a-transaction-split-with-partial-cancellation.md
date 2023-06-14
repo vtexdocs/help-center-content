@@ -1,5 +1,5 @@
 ---
-title: Valores erróneos en los destinatarios de una transacción dividida con cancelación parcial.
+title: 'Valores erróneos en los destinatarios de una transacción dividida con cancelación parcial.'
 id: 5srb8YPqWIn5D5ZpJVs1u7
 status: PUBLISHED
 createdAt: 2022-03-03T18:38:02.299Z

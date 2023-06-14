@@ -1,5 +1,5 @@
 ---
-title: A eliminação de cobranças na nova administração não está reindexando os produtos
+title: 'A eliminação de cobranças na nova administração não está reindexando os produtos'
 id: 33abWd1ApVTwPKdaxqgKPm
 status: PUBLISHED
 createdAt: 2022-06-28T16:56:28.134Z

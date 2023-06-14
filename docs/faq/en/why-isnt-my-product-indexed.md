@@ -1,5 +1,5 @@
 ---
-title: Why isn’t my product indexed?
+title: 'Why isn’t my product indexed?'
 id: frequentlyAskedQuestions_1608
 status: PUBLISHED
 createdAt: 2017-04-27T22:27:09.727Z

@@ -1,5 +1,5 @@
 ---
-title: Criar entidade de dados
+title: 'Criar entidade de dados'
 id: tutorials_1265
 status: PUBLISHED
 createdAt: 2017-04-27T21:56:57.118Z

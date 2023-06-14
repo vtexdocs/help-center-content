@@ -1,5 +1,5 @@
 ---
-title: Setting up e-Sitef gateway
+title: 'Setting up e-Sitef gateway'
 id: 6UEi0QAlU6BXz5RgWj34Ac
 status: PUBLISHED
 createdAt: 2021-12-06T14:51:20.250Z

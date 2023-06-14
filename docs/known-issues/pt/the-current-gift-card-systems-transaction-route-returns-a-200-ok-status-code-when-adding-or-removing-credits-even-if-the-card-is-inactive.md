@@ -1,5 +1,5 @@
 ---
-title: A rota /transaction do sistema atual de cartões-presente retorna um código de status 200 OK ao adicionar ou remover créditos, mesmo que o cartão esteja inativo.
+title: 'A rota /transaction do sistema atual de cartões-presente retorna um código de status 200 OK ao adicionar ou remover créditos, mesmo que o cartão esteja inativo.'
 id: 4d5oeiLIvxLqmA1uHtZmrw
 status: PUBLISHED
 createdAt: 2023-04-24T20:31:14.640Z

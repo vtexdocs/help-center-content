@@ -1,5 +1,5 @@
 ---
-title: Alterar precio de SKU
+title: 'Alterar precio de SKU'
 id: tutorials_95
 status: PUBLISHED
 createdAt: 2017-04-27T22:19:48.759Z

@@ -1,5 +1,5 @@
 ---
-title: Order errors in the Netshoes integration
+title: 'Order errors in the Netshoes integration'
 id: 616rbFQyCGEQnkAWFKMmr1
 status: PUBLISHED
 createdAt: 2021-08-26T16:12:38.158Z

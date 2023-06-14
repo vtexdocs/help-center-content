@@ -1,5 +1,5 @@
 ---
-title: Productos no se envían por la integración al guardar el registro
+title: 'Productos no se envían por la integración al guardar el registro'
 id: 3iY2DwQyiIwIsMaicGAI6e
 status: PUBLISHED
 createdAt: 2018-05-04T17:26:27.239Z

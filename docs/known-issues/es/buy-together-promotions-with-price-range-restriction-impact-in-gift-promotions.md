@@ -1,5 +1,5 @@
 ---
-title: Las promociones Buy Together con restricción de rango de precios repercuten en las promociones de regalos
+title: 'Las promociones Buy Together con restricción de rango de precios repercuten en las promociones de regalos'
 id: 6tjViVNzlWgfLOLsUEtYSF
 status: PUBLISHED
 createdAt: 2022-10-11T19:54:05.862Z

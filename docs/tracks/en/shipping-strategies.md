@@ -1,5 +1,5 @@
 ---
-title: Shipping strategies
+title: 'Shipping strategies'
 id: 4IPeNztIXsZI4oA5TyES9N
 status: PUBLISHED
 createdAt: 2022-03-07T17:45:18.081Z
@@ -17,7 +17,7 @@ The shipping options offered to the customer at the checkout of your store are c
 
 The shipping strategy defines how warehouses, loading docks, and shipping policies interact to meet the needs of your customers and your business. 
 
-![Estrategia EnvioEN](https://images.ctfassets.net/alneenqid6w5/a0tXw0SPa0zFg5o0byFeS/f21e70736f667399bb811dea84caf5c7/Estrategia_EnvioEN.png)
+![Estrategia EnvioEN](//images.ctfassets.net/alneenqid6w5/a0tXw0SPa0zFg5o0byFeS/f21e70736f667399bb811dea84caf5c7/Estrategia_EnvioEN.png)
 
 The shipping strategy is defined by three logistics entities:
 

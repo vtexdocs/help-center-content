@@ -1,5 +1,5 @@
 ---
-title: Mapeamento de categorias e marcas para marketplace VTEX (Beta)
+title: 'Mapeamento de categorias e marcas para marketplace VTEX (Beta)'
 id: 6NU8LwR6i0tTb8nk30bnbE
 status: PUBLISHED
 createdAt: 2022-05-11T13:35:34.836Z
@@ -64,9 +64,9 @@ O status do mapeamento de categorias no marketplace VTEX é indicado por ícones
 
 | **Ícone** | **Status** |
 | ---------- | ---------- |
-| <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/6Ry65cPvgGmChmE3RipFio/deec73c3e429f63dfa8971ae8c848221/mapeado_mapper.JPG" /> | **Mapeado:** o mapeamento da categoria foi concluído. | 
-| <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/lsN6TxCm1e6frHvIQ8xjt/491ad1e6d99ab858e2a76d0ea31e1a39/erromapeamento_mapper.JPG" /> | **Erro no mapeamento:** houve um problema e o mapeamento não foi realizado. | 
-| <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/3nVJUJHetaqPHThGGpoG8T/d7f667b269105a5c65aa7b16b1aace21/incompleto_mapper.JPG" /> | **Não mapeado:** a categoria ainda não foi mapeada. |
+| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6Ry65cPvgGmChmE3RipFio/deec73c3e429f63dfa8971ae8c848221/mapeado_mapper.JPG" /> | **Mapeado:** o mapeamento da categoria foi concluído. | 
+| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/lsN6TxCm1e6frHvIQ8xjt/491ad1e6d99ab858e2a76d0ea31e1a39/erromapeamento_mapper.JPG" /> | **Erro no mapeamento:** houve um problema e o mapeamento não foi realizado. | 
+| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/3nVJUJHetaqPHThGGpoG8T/d7f667b269105a5c65aa7b16b1aace21/incompleto_mapper.JPG" /> | **Não mapeado:** a categoria ainda não foi mapeada. |
 
 <div class = "alert alert-info">
 Não é possível excluir um mapeamento de categoria, mas você pode alterar as configurações a qualquer momento, seguindo os mesmos passos do primeiro mapeamento realizado.
@@ -89,9 +89,9 @@ O status do mapeamento de marcas no marketplace VTEX é indicado por ícones na 
 
 | **Ícone** | **Status** |
 | ---------- | ---------- |
-| <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/6Ry65cPvgGmChmE3RipFio/deec73c3e429f63dfa8971ae8c848221/mapeado_mapper.JPG" /> | **Mapeado:** o mapeamento da categoria foi concluído. | 
-| <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/lsN6TxCm1e6frHvIQ8xjt/491ad1e6d99ab858e2a76d0ea31e1a39/erromapeamento_mapper.JPG" /> | **Erro no mapeamento:** houve um problema e o mapeamento não foi realizado. | 
-| <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/3nVJUJHetaqPHThGGpoG8T/d7f667b269105a5c65aa7b16b1aace21/incompleto_mapper.JPG" /> | **Não mapeado:** a categoria ainda não foi mapeada. |
+| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6Ry65cPvgGmChmE3RipFio/deec73c3e429f63dfa8971ae8c848221/mapeado_mapper.JPG" /> | **Mapeado:** o mapeamento da categoria foi concluído. | 
+| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/lsN6TxCm1e6frHvIQ8xjt/491ad1e6d99ab858e2a76d0ea31e1a39/erromapeamento_mapper.JPG" /> | **Erro no mapeamento:** houve um problema e o mapeamento não foi realizado. | 
+| <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/3nVJUJHetaqPHThGGpoG8T/d7f667b269105a5c65aa7b16b1aace21/incompleto_mapper.JPG" /> | **Não mapeado:** a categoria ainda não foi mapeada. |
 
 <div class = "alert alert-info">
 Não é possível excluir um mapeamento de marca, mas você pode alterar as configurações a qualquer momento, seguindo os mesmos passos do primeiro mapeamento realizado.

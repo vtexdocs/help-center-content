@@ -1,5 +1,5 @@
 ---
-title: Buenas prácticas de SPF (Sender Policy Framework)
+title: 'Buenas prácticas de SPF (Sender Policy Framework)'
 id: 42t0lkl2VyC6Yewc4wA6wI
 status: PUBLISHED
 createdAt: 2017-08-09T16:58:00.716Z

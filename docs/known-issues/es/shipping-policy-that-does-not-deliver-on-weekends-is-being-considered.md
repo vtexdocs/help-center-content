@@ -1,5 +1,5 @@
 ---
-title: Se está estudiando una política de envíos que no entregue los fines de semana
+title: 'Se está estudiando una política de envíos que no entregue los fines de semana'
 id: 25bhUZXA9sZvyFVNeMUSJl
 status: PUBLISHED
 createdAt: 2022-06-08T18:32:07.971Z

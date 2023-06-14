@@ -1,5 +1,5 @@
 ---
-title: El diseño de la página cambia a móvil cuando se imprime (ctrl+p) en Chrome
+title: 'El diseño de la página cambia a móvil cuando se imprime (ctrl+p) en Chrome'
 id: 1mPBRf1IhLj27liWa040XG
 status: PUBLISHED
 createdAt: 2022-03-21T17:40:17.848Z

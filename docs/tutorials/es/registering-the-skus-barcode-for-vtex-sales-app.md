@@ -1,5 +1,5 @@
 ---
-title: Registrar los códigos de barras de los SKUs para el VTEX Sales App
+title: 'Registrar los códigos de barras de los SKUs para el VTEX Sales App'
 id: 2jkOdRB4XSMG2ke0uUQIKS
 status: PUBLISHED
 createdAt: 2018-03-12T17:23:32.837Z

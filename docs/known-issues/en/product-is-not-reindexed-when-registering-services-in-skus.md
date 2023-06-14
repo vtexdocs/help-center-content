@@ -1,5 +1,5 @@
 ---
-title: Product is not reindexed when registering services in SKUs
+title: 'Product is not reindexed when registering services in SKUs'
 id: 3shcZ8gz2MM8QUyGiS0qUq
 status: PUBLISHED
 createdAt: 2018-06-28T23:47:58.354Z

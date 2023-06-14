@@ -1,5 +1,5 @@
 ---
-title: Escolher entre conta padrão, conta franquia ou Seller Portal
+title: 'Escolher entre conta padrão, conta franquia ou Seller Portal'
 id: 4S90HzzhMyZESsHqrnUs78
 status: PUBLISHED
 createdAt: 2022-04-20T14:15:50.164Z

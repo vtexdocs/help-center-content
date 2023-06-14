@@ -1,5 +1,5 @@
 ---
-title: Lista da Vez (Beta)
+title: 'Lista da Vez (Beta)'
 id: 1VbFY9QTTOKgv7hvvQXgdg
 status: PUBLISHED
 createdAt: 2022-03-04T17:25:54.588Z

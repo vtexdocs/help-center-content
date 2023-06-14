@@ -1,5 +1,5 @@
 ---
-title: "Assembly Options: nueva aplicación para facilitar la personalización de productos-TESTE"
+title: 'Assembly Options: nueva aplicación para facilitar la personalización de productos-TESTE'
 id: Oznp4e6zv3cfu6FEfTKVb
 status: DRAFT
 createdAt: 2022-06-14T12:37:29.076Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: assembly-options-nueva-aplicacion-para-facilitar-la-personalizacion-teste
 legacySlug: assembly-options-nueva-aplicacion-para-facilitar-la-personalizacion-de
-announcementImageID: ""
-announcementSynopsisES: Desarrollamos la aplicación Assembly Options para simplificar la personalización de los productos durante la compra.
+announcementImageID: ''
+announcementSynopsisES: 'Desarrollamos la aplicación Assembly Options para simplificar la personalización de los productos durante la compra.'
 ---
 
 
@@ -21,7 +21,7 @@ Una situación común en los restaurantes que aceptan pedidos online, por ejempl
 
 Para simplificar el uso de esta funcionalidad, hemos desarrollado la aplicación **Assembly Options**, que presenta una interfaz para configurar y gestionar las opciones de personalización. La aplicación solo está disponible para las tiendas que utilizan [VTEX IO](https://vtex.com/br-pt/store-framework/).
 
-![assembly-options-app-es](https://images.ctfassets.net/alneenqid6w5/7AoMYLduvKisAxKMho64m0/322bc4f9209983c3fc2f5c7bc85321d6/assembly-options-app-es.PNG)
+![assembly-options-app-es](//images.ctfassets.net/alneenqid6w5/7AoMYLduvKisAxKMho64m0/322bc4f9209983c3fc2f5c7bc85321d6/assembly-options-app-es.PNG)
 
 ## ¿Qué cambió?
 

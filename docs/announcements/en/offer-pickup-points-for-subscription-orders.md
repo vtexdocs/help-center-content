@@ -1,5 +1,5 @@
 ---
-title: "Offer pickup points for subscription orders"
+title: 'Offer pickup points for subscription orders'
 id: UOKiWlMTbrzDcPf6rvVME
 status: PUBLISHED
 createdAt: 2021-05-17T14:36:13.304Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: offer-pickup-points-for-subscription-orders
 legacySlug: offer-pickup-points-for-subscription-orders
-announcementImageID: ""
-announcementSynopsisEN: Now it is possible to choose pickup points for subscription orders.
+announcementImageID: ''
+announcementSynopsisEN: 'Now it is possible to choose pickup points for subscription orders.'
 ---
 
 
@@ -23,7 +23,7 @@ The pickup points feature for subscriptions is available in beta only for accoun
 
 Previously, pickup was not a delivery option available for subscriptions. With this feature, end customers can choose pickup points for items in a subscription order at checkout, as illustrated in the image below.
 
-![subscriptionspickup EN](https://images.ctfassets.net/alneenqid6w5/6qqc7DV4Wk6yRWvsdiWNCP/4b70cfdbea58f1b53f482f61ef57d285/subscriptionspickup_EN.gif)
+![subscriptionspickup EN](//images.ctfassets.net/alneenqid6w5/6qqc7DV4Wk6yRWvsdiWNCP/4b70cfdbea58f1b53f482f61ef57d285/subscriptionspickup_EN.gif)
 
 You can also assign pickup points to new and existing subscriptions via the[ Subscriptions API](https://developers.vtex.com/vtex-rest-api/reference/subscriptions-1).
 

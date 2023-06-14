@@ -1,5 +1,5 @@
 ---
-title: How many coupons, fees and promotions may I have in my store?
+title: 'How many coupons, fees and promotions may I have in my store?'
 id: frequentlyAskedQuestions_352
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:52.883Z

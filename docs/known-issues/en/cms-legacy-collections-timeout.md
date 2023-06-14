@@ -1,5 +1,5 @@
 ---
-title: CMS Legacy Collections Timeout
+title: 'CMS Legacy Collections Timeout'
 id: 3TgWP83kn8G8NClnUHmaoS
 status: PUBLISHED
 createdAt: 2022-02-25T12:33:00.051Z

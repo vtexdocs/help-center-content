@@ -1,5 +1,5 @@
 ---
-title: Sequencial
+title: 'Sequencial'
 id: 212r1PKHPGdpbbRlpf2gY3
 status: PUBLISHED
 createdAt: 2022-08-29T20:27:22.170Z

@@ -1,5 +1,5 @@
 ---
-title: La búsqueda no funciona para un segundo nivel de directorio
+title: 'La búsqueda no funciona para un segundo nivel de directorio'
 id: 6oAmtEIyyWWciICgSuYC00
 status: PUBLISHED
 createdAt: 2017-04-11T22:25:02.223Z

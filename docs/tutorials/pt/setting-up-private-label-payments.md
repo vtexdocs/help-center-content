@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamentos com Cartões de Loja (bandeira própria)
+title: 'Configurar pagamentos com Cartões de Loja (bandeira própria)'
 id: 428FgVdSGQUeAOoogkaIw4
 status: PUBLISHED
 createdAt: 2018-06-28T21:20:09.875Z

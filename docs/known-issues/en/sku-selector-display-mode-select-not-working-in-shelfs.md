@@ -1,5 +1,5 @@
 ---
-title: SKU Selector display mode SELECT not working in shelfs
+title: 'SKU Selector display mode SELECT not working in shelfs'
 id: 4viowN3tnbsdc0f1bqXrux
 status: PUBLISHED
 createdAt: 2023-01-18T12:24:32.528Z

@@ -1,5 +1,5 @@
 ---
-title: App settings schema
+title: 'App settings schema'
 id: 3CadrdhjCwc0Y8Ywua42qW
 status: DRAFT
 createdAt: 2018-06-12T23:47:59.815Z

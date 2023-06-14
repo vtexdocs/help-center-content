@@ -1,5 +1,5 @@
 ---
-title: Los pagarés extra no contemplan el margen de cambio para la venta al alza
+title: 'Los pagarés extra no contemplan el margen de cambio para la venta al alza'
 id: 4PwQpQ07NHthtUyfJibNmV
 status: PUBLISHED
 createdAt: 2022-02-16T17:44:28.486Z

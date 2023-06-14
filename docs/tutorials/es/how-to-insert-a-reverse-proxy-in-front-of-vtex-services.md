@@ -1,5 +1,5 @@
 ---
-title: Cómo insertar un proxy inverso frente a los servicios VTEX
+title: 'Cómo insertar un proxy inverso frente a los servicios VTEX'
 id: 4PFWsfRAKviNVPf1bYdiir
 status: PUBLISHED
 createdAt: 2019-09-20T14:11:30.301Z

@@ -1,5 +1,5 @@
 ---
-title: Resumen de la cuenta
+title: 'Resumen de la cuenta'
 id: 7MJ5gNTmqJ2kIoecnEWcuR
 status: DRAFT
 createdAt: 2019-05-26T20:12:54.209Z

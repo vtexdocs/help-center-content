@@ -1,5 +1,5 @@
 ---
-title: Configurar meio de pagamento Alelo para Cielo V3
+title: 'Configurar meio de pagamento Alelo para Cielo V3'
 id: 4fpnddmyMOAD6F5ixtdmY8
 status: PUBLISHED
 createdAt: 2020-06-30T13:26:40.843Z

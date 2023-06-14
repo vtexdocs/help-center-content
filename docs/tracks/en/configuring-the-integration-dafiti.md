@@ -1,5 +1,5 @@
 ---
-title: Configuring the integration
+title: 'Configuring the integration'
 id: 2UBJwHXCYKh5pHFHqZ09E8
 status: PUBLISHED
 createdAt: 2021-05-26T15:35:50.231Z

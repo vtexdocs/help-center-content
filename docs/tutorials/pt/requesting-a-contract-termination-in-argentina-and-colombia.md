@@ -1,5 +1,5 @@
 ---
-title: Solicitar rescisão contratual na Argentina e Colômbia
+title: 'Solicitar rescisão contratual na Argentina e Colômbia'
 id: 33g6mUoYB9Mf04C06gSU0a
 status: CHANGED
 createdAt: 2020-06-25T22:12:14.589Z

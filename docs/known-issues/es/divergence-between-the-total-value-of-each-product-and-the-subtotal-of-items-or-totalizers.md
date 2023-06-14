@@ -1,5 +1,5 @@
 ---
-title: Divergencia entre el valor total de cada producto y el subtotal de los artículos o totalizadores
+title: 'Divergencia entre el valor total de cada producto y el subtotal de los artículos o totalizadores'
 id: 2Z8vR0cKkaSYQqF9MUX8PX
 status: PUBLISHED
 createdAt: 2022-01-24T20:46:09.666Z

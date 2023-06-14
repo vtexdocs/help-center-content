@@ -1,5 +1,5 @@
 ---
-title: "Novas rotas de API para a aprovação automática de SKUs Recebidos"
+title: 'Novas rotas de API para a aprovação automática de SKUs Recebidos'
 id: 5hpcWmKE2CnTYtuDXriUzR
 status: PUBLISHED
 createdAt: 2020-12-18T15:52:36.273Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: novas-rotas-de-api-para-a-aprovacao-automatica-de-skus-recebidos
 legacySlug: novas-rotas-de-api-para-a-aprovacao-automatica-de-skus-recebidos
-announcementImageID: ""
-announcementSynopsisPT: Marketplace: novas rotas de API para aprovação automática de SKUs recebidos
+announcementImageID: ''
+announcementSynopsisPT: 'Marketplace: novas rotas de API para aprovação automática de SKUs recebidos'
 ---
 
 O módulo de SKUs Recebidos é onde marketplaces avaliam as sugestões enviadas por sellers, para que sejam aprovadas e incorporadas ao seu catálogo, ou recusadas. Incluímos novas rotas em nossa API do SKUs Recebidos, para que operadores de marketplace tenham mais agilidade ao incorporar produtos de forma automática

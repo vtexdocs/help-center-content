@@ -1,5 +1,5 @@
 ---
-title: Banners
+title: 'Banners'
 id: d1p9tO3Ll7qkdMZ1pIfKq
 status: PUBLISHED
 createdAt: 2019-11-27T16:32:44.112Z
@@ -32,7 +32,7 @@ On VTEX Admin, the page **Storefront** > **Banners** shows the full list of regi
 * [Edit a banner](#editing-a-banner)
 * [Delete a banner](#deleting-a-banner) 
 
-![banners-intro-en](https://images.ctfassets.net/alneenqid6w5/1MDMMN6lidEIiDwaDalvNU/cfc3d93dba914a7a22961741c637c8a7/image.png)
+![banners-intro-en](//images.ctfassets.net/alneenqid6w5/1MDMMN6lidEIiDwaDalvNU/cfc3d93dba914a7a22961741c637c8a7/image.png)
 
 The page shows the following information:
 

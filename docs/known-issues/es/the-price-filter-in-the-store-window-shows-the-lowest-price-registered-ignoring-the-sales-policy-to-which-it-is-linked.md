@@ -1,5 +1,5 @@
 ---
-title: El filtro de precio en la vitrina está considerando el menor precio registrado sin considerar la política comercial a la que está vinculado
+title: 'El filtro de precio en la vitrina está considerando el menor precio registrado sin considerar la política comercial a la que está vinculado'
 id: 1xbpUOsLDGIgqeQ6UCCgK0
 status: PUBLISHED
 createdAt: 2017-04-03T20:54:18.423Z

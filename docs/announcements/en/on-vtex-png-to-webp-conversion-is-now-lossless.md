@@ -1,5 +1,5 @@
 ---
-title: "On VTEX, PNG to WebP conversion is now lossless"
+title: 'On VTEX, PNG to WebP conversion is now lossless'
 id: 4J4ZtrCZIksY8qikWgeomY
 status: PUBLISHED
 createdAt: 2018-02-20T14:55:17.152Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: authors_24
 slug: on-vtex-png-to-webp-conversion-is-now-lossless
 legacySlug: on-vtex-png-to-webp-conversion-is-now-lossless
-announcementImageID: ""
-announcementSynopsisEN: Change in the compression form came to meet the needs of stores that have to display high quality images.
+announcementImageID: ''
+announcementSynopsisEN: 'Change in the compression form came to meet the needs of stores that have to display high quality images.'
 ---
 
 VTEX stores already have automatic image compiling to __WebP__ format, as reported in [this previous announcement](/en/announcement/vtex-stores-now-have-automatic-image-compiling-to-webp). The news is that this process is now __lossless__ for __PNG__ files. This means that images with this file extension will still be converted to the Google's format, but __without quality losses__.

@@ -1,5 +1,5 @@
 ---
-title: Quantidade de marcas ultrapassa o limite do excel na planilha de mapeamento
+title: 'Quantidade de marcas ultrapassa o limite do excel na planilha de mapeamento'
 id: 4sYUppK1iceta3rO6lLO1K
 status: PUBLISHED
 createdAt: 2021-08-31T18:18:28.874Z

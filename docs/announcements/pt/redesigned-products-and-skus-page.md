@@ -1,5 +1,5 @@
 ---
-title: "Novo design da página de Produtos & SKUs"
+title: 'Novo design da página de Produtos & SKUs'
 id: 3jdF8XSaKdBvTl3LqeOH6h
 status: PUBLISHED
 createdAt: 2023-04-10T13:14:10.542Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: novo-design-da-pagina-de-produtos-e-skus
 legacySlug: novo-design-da-pagina-de-produtos-e-skus
-announcementImageID: ""
-announcementSynopsisPT: O novo design da página de Produtos & SKUs possibilita gerenciar o Catálogo da sua loja de forma mais eficiente.
+announcementImageID: ''
+announcementSynopsisPT: 'O novo design da página de Produtos & SKUs possibilita gerenciar o Catálogo da sua loja de forma mais eficiente.'
 ---
 
 O gerenciamento do catálogo é fundamental para o sucesso de um comércio digital, pois é a partir da vitrine de produtos que os clientes interagem com a marca e tomam decisões de compra. Por isso, é importante que os lojistas tenham uma experiência consistente e ágil ao consultar, cadastrar e editar informações sobre produtos e SKUs.
@@ -27,7 +27,7 @@ A nova interface de **Produtos & SKUs** possibilita:
 * Acompanhar status de produtos e SKUs de forma mais direta e visual, com ícones e status de SKUs diretamente na listagem.
 * Identificar com mais facilidade produtos e SKUs com informações pendentes para ficarem disponíveis para venda, a partir do novo status **Pendente**.
 
-![catalog-products-skus-pt](https://images.ctfassets.net/alneenqid6w5/20sC1yswkFmqokxll0ehi1/269a128e08a453ce564041ceb39bea9e/screencapture-catalog-sandboxintegracao-myvtex-admin-catalog-2023-04-10-10_25_56_1.png)
+![catalog-products-skus-pt](//images.ctfassets.net/alneenqid6w5/20sC1yswkFmqokxll0ehi1/269a128e08a453ce564041ceb39bea9e/screencapture-catalog-sandboxintegracao-myvtex-admin-catalog-2023-04-10-10_25_56_1.png)
 
 ## Por que fizemos essa mudança?
 

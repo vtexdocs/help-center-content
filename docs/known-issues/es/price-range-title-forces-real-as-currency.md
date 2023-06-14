@@ -1,5 +1,5 @@
 ---
-title: Title de rango de precios fuerza moneda Real
+title: 'Title de rango de precios fuerza moneda Real'
 id: 5gSZMEyGaAeSmKaYMYeqwG
 status: PUBLISHED
 createdAt: 2019-01-07T20:08:04.094Z

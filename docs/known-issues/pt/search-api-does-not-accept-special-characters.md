@@ -1,5 +1,5 @@
 ---
-title: A API de pesquisa não aceita caracteres especiais
+title: 'A API de pesquisa não aceita caracteres especiais'
 id: 4wBStygR6YPA6g5lgvPGqa
 status: PUBLISHED
 createdAt: 2023-02-15T12:39:13.771Z

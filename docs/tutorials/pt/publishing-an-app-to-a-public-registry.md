@@ -1,5 +1,5 @@
 ---
-title: Publicar a app no Registro público
+title: 'Publicar a app no Registro público'
 id: 5zafCowaD6MCqqMcoaY6MI
 status: DRAFT
 createdAt: 2018-02-22T01:51:02.726Z

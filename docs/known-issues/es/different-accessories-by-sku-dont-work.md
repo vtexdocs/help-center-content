@@ -1,5 +1,5 @@
 ---
-title: Accesorios diferentes por SKU no funcionan
+title: 'Accesorios diferentes por SKU no funcionan'
 id: 8jnZQfnv1KQWWueYci4qO
 status: PUBLISHED
 createdAt: 2018-04-30T17:15:59.325Z

@@ -1,5 +1,5 @@
 ---
-title: Crear una marca
+title: 'Crear una marca'
 id: 6pz9Krq58s0cA4WkCAWe0q
 status: DRAFT
 createdAt: 2018-05-02T20:50:15.635Z

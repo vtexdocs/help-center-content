@@ -1,5 +1,5 @@
 ---
-title: Errores de integración de pedidos de B2W
+title: 'Errores de integración de pedidos de B2W'
 id: 2iQqCJIfySN0JsCJkOG2h8
 status: PUBLISHED
 createdAt: 2021-08-26T15:31:43.878Z

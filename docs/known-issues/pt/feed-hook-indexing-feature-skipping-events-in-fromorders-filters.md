@@ -1,5 +1,5 @@
 ---
-title: Recurso de indexação de ganchos de feed que ignora eventos nos filtros FromOrders
+title: 'Recurso de indexação de ganchos de feed que ignora eventos nos filtros FromOrders'
 id: 6wpHloVS4KnH1TN5S5ySN2
 status: PUBLISHED
 createdAt: 2023-05-25T20:23:18.818Z

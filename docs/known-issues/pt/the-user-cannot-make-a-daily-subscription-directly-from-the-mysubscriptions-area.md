@@ -1,5 +1,5 @@
 ---
-title: O usuário não pode fazer uma assinatura diária diretamente da área my-subscriptions
+title: 'O usuário não pode fazer uma assinatura diária diretamente da área my-subscriptions'
 id: QJrZvOmlRusACgS2iGRyT
 status: PUBLISHED
 createdAt: 2022-05-18T18:37:18.099Z

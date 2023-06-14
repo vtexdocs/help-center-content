@@ -1,5 +1,5 @@
 ---
-title: Ordenação de grupos de categoria principal não é permitida
+title: 'Ordenação de grupos de categoria principal não é permitida'
 id: 5AsWMR6XkLQ4OHPW2DQVTI
 status: PUBLISHED
 createdAt: 2019-02-19T22:23:09.119Z

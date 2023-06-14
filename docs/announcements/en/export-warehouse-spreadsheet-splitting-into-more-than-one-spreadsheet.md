@@ -1,5 +1,5 @@
 ---
-title: "Large warehouse exports will now be split into multiple spreadsheets"
+title: 'Large warehouse exports will now be split into multiple spreadsheets'
 id: 2torunvirpIE7vElGR7NbI
 status: CHANGED
 createdAt: 2020-04-06T14:41:35.438Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: export-warehouse-spreadsheet-splitting-into-more-than-one-spreadsheet
 legacySlug: export-warehouse-spreadsheet-splitting-into-more-than-one-spreadsheet
-announcementImageID: ""
-announcementSynopsisEN: For large inventories, the exported spreadsheet will be split into more than one file, for a lighter download.
+announcementImageID: ''
+announcementSynopsisEN: 'For large inventories, the exported spreadsheet will be split into more than one file, for a lighter download.'
 ---
 
 The *Inventory and Shipping* module allows you to export a spreadsheet containing the items in your warehouse. If your store has more than one warehouse registered, it is possible to export a spreadsheet with all your warehouses at the same time. The spreadsheet file is then sent to your email.

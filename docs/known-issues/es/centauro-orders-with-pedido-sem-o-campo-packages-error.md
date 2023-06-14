@@ -1,5 +1,5 @@
 ---
-title: Pedidos de Centauro con error "Pedido sin el campo: "paquetes
+title: 'Pedidos de Centauro con error "Pedido sin el campo: "paquetes'
 id: 1HMhinuVlggWwQZPuNchiX
 status: PUBLISHED
 createdAt: 2022-06-24T13:10:45.752Z

@@ -1,5 +1,5 @@
 ---
-title: "Novedades en el dashboard Desempeño de ventas"
+title: 'Novedades en el dashboard Desempeño de ventas'
 id: 6ceR0kY06UBnOrcltY0D8r
 status: PUBLISHED
 createdAt: 2022-03-08T15:03:39.709Z
@@ -10,15 +10,15 @@ productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: novedades-en-el-dashboard-desempeno-de-ventas
 legacySlug: novedades-en-el-dashboard-desempeno-de-ventas
-announcementImageID: ""
-announcementSynopsisES: Lanzamos nuevos filtros, vistas sugeridas, datos próximos a tiempo real y nuevas formas de visualización de datos. 
+announcementImageID: ''
+announcementSynopsisES: 'Lanzamos nuevos filtros, vistas sugeridas, datos próximos a tiempo real y nuevas formas de visualización de datos. '
 ---
 
 La página «Desempeño de ventas» es un dashboard que permite a los operadores de la tienda analizar los datos de todos los canales de venta de la tienda y de sus sellers, incluyendo métricas sobre los ingresos, pedidos, ticket promedio y mucho más. 
 
 Actualizamos la experiencia en la página basándonos en tus sugerencias y agregamos nuevas posibilidades para aplicar filtros, vistas y exploración de datos. 
 
-![Sales perf update ES](https://images.ctfassets.net/alneenqid6w5/5mHOltfUnUpV1DtHXrT8xD/e91f5f473a5d10b757c7a93a235ee9d9/Sales_perf_update_ES.gif)
+![Sales perf update ES](//images.ctfassets.net/alneenqid6w5/5mHOltfUnUpV1DtHXrT8xD/e91f5f473a5d10b757c7a93a235ee9d9/Sales_perf_update_ES.gif)
 
 ## ¿Qué cambió?
 Mejoramos algunas funcionalidades existentes, como Filtros y Datos y expandimos el menú de Vistas. La nueva experiencia de filtros de la página permite más combinaciones de filtros con menos clics. Por su parte, la nueva funcionalidad de menú Vista está diseñada para guardar los filtros y métricas aplicados en la página, lo que permite volver rápidamente al mismo contexto. 

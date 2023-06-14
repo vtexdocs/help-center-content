@@ -1,5 +1,5 @@
 ---
-title: Catalogação de SKUs recebidos
+title: 'Catalogação de SKUs recebidos'
 id: tutorials_396
 status: PUBLISHED
 createdAt: 2017-04-27T22:06:59.819Z

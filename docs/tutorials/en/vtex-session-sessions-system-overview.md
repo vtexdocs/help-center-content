@@ -1,5 +1,5 @@
 ---
-title: VTEX Session - Sessions System Overview 
+title: 'VTEX Session - Sessions System Overview '
 id: 6C4Edou6bYqqEAOCAg2MQQ
 status: DRAFT
 createdAt: 2018-08-21T15:45:23.559Z

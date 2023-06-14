@@ -1,5 +1,5 @@
 ---
-title: Crear o editar template de correo electrónico transaccional
+title: 'Crear o editar template de correo electrónico transaccional'
 id: 335JZKUYgvYlGOJgvJYxRO
 status: PUBLISHED
 createdAt: 2020-01-10T13:13:48.069Z

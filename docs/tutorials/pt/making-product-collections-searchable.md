@@ -1,5 +1,5 @@
 ---
-title: Tornar coleção de produtos encontrável pela busca
+title: 'Tornar coleção de produtos encontrável pela busca'
 id: 50ZmQc9nNmkMcqgKQEu4Qe
 status: PUBLISHED
 createdAt: 2018-02-22T14:39:42.033Z

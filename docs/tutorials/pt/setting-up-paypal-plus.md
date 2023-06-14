@@ -1,5 +1,5 @@
 ---
-title: Configurar PayPal Plus (PayPal Transparente)
+title: 'Configurar PayPal Plus (PayPal Transparente)'
 id: 2akxq3I92k8A4kymIYOiWy
 status: PUBLISHED
 createdAt: 2018-02-20T20:15:36.950Z

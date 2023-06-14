@@ -1,5 +1,5 @@
 ---
-title: Cómo se realiza el prorrateo del flete
+title: 'Cómo se realiza el prorrateo del flete'
 id: frequentlyAskedQuestions_155
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:51.013Z

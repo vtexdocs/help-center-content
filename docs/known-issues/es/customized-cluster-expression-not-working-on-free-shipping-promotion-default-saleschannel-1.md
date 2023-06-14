@@ -1,5 +1,5 @@
 ---
-title: La expresión de cluster personalizada no funciona en la promoción de envío gratuito + canal de ventas por defecto (1)
+title: 'La expresión de cluster personalizada no funciona en la promoción de envío gratuito + canal de ventas por defecto (1)'
 id: 27QJfNVhuPNiRxqQiXPRt2
 status: PUBLISHED
 createdAt: 2022-03-16T19:36:36.102Z

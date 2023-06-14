@@ -1,5 +1,5 @@
 ---
-title: What is Order Configuration
+title: 'What is Order Configuration'
 id: 2t6UQoFrFSSGW8CGEbA0r5
 status: PUBLISHED
 createdAt: 2020-08-20T16:17:38.285Z

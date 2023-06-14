@@ -1,5 +1,5 @@
 ---
-title: Meta Tag Description fica cortada nos resultados do Google
+title: 'Meta Tag Description fica cortada nos resultados do Google'
 id: 4ynHYyNMZaeSwm8uiWK42s
 status: PUBLISHED
 createdAt: 2018-01-25T17:53:32.012Z

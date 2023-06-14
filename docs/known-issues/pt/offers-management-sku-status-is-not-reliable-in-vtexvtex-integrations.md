@@ -1,5 +1,5 @@
 ---
-title: As interações do Sku de Gestão de Ofertas não são estáveis
+title: 'As interações do Sku de Gestão de Ofertas não são estáveis'
 id: 7o3IEgPiDB9vYVJ8RS50jl
 status: PUBLISHED
 createdAt: 2023-02-02T16:29:12.305Z

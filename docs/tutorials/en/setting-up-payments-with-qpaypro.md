@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with QPayPro
+title: 'Setting up payments with QPayPro'
 id: 2DygLM1Ur2R34ZEDd4d8d1
 status: DRAFT
 createdAt: 2022-08-12T17:28:09.573Z

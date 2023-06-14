@@ -1,5 +1,5 @@
 ---
-title: Pedidos El vendedor 1 no tiene notificaciones en el tipo de gancho FromOrders para el pago del estado aprobado
+title: 'Pedidos El vendedor 1 no tiene notificaciones en el tipo de gancho FromOrders para el pago del estado aprobado'
 id: 4FurUuRzROSdEckWPFXH1w
 status: PUBLISHED
 createdAt: 2022-08-18T18:04:03.821Z

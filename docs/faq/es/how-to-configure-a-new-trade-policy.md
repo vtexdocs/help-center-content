@@ -1,5 +1,5 @@
 ---
-title: Como contratar nueva política comercial
+title: 'Como contratar nueva política comercial'
 id: frequentlyAskedQuestions_700
 status: DRAFT
 createdAt: 2017-04-27T22:29:12.584Z

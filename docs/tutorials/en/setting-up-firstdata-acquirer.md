@@ -1,5 +1,5 @@
 ---
-title: Setting up FirstData acquirer
+title: 'Setting up FirstData acquirer'
 id: 4mW6gU343eWY6c8m6ocO0i
 status: PUBLISHED
 createdAt: 2018-04-26T21:04:20.319Z

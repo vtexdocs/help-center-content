@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the redesigned VTEX Admin"
+title: 'Welcome to the redesigned VTEX Admin'
 id: 5wQJEKRKzvUOY6EsgHXoDU
 status: DRAFT
 createdAt: 2022-05-25T13:33:16.338Z
@@ -10,8 +10,8 @@ productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: welcome-to-the-redesigned-vtex-admin
 legacySlug: welcome-to-the-redesigned-vtex-admin
-announcementImageID: ""
-announcementSynopsisEN: 
+announcementImageID: ''
+announcementSynopsisEN: ''
 ---
 
 Digital businesses are increasingly looking to have tools that will be allies for them to grow, having their team focusing on its core. That is why VTEX introduces a new version of its Admin, to allow merchants to manage their entire digital commerce experience, all in one place, in a simpler and smarter way, with significant improvements in accessing data and fulfilling daily tasks.

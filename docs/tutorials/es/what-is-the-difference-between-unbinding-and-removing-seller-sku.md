@@ -1,5 +1,5 @@
 ---
-title: ¿Cuál es la diferencia entre desvincular y remover un SKU Seller?
+title: '¿Cuál es la diferencia entre desvincular y remover un SKU Seller?'
 id: frequentlyAskedQuestions_4954
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:01.701Z

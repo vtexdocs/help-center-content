@@ -1,5 +1,5 @@
 ---
-title: Comportamentos incorretos para a mutação addToCart a partir do checkout-graphql enquanto envia "opções" para itens já adicionados
+title: 'Comportamentos incorretos para a mutação addToCart a partir do checkout-graphql enquanto envia "opções" para itens já adicionados'
 id: 1lMWbgmBsOis9gAKcMm8ob
 status: PUBLISHED
 createdAt: 2022-05-03T20:42:18.655Z

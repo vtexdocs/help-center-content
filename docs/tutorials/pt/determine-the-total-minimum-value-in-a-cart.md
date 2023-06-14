@@ -1,5 +1,5 @@
 ---
-title: É possível determinar o valor mínimo total em um carrinho?
+title: 'É possível determinar o valor mínimo total em um carrinho?'
 id: NZFfukp8QeCWwm8sM4e2W
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:41.130Z

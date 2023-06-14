@@ -1,5 +1,5 @@
 ---
-title: O que são rotas logísticas
+title: 'O que são rotas logísticas'
 id: 1xo0jmMDcnAUU5ZOavdQ7M
 status: DRAFT
 createdAt: 2019-10-17T22:00:23.485Z
@@ -32,4 +32,4 @@ Para cadastrar uma doca no admin da loja, siga os passos indicados neste [link](
 ### Transportadora
 É a partir daqui que os pedidos são distribuídos para seus destinos finais. Uma transportadora se compõe pela frota de veículos que farão as entregas. Assim, os pedidos saem do centro de distribuição direto para a transportadora que finaliza o processo até o cliente final. 
 
-![PT Conceitos Logística](https://images.ctfassets.net/alneenqid6w5/aZMHlLUkOUDuN0vEITGy1/10a2b5b7d0ce301dc4c9fa2aa7bf236f/PT_Conceitos_Log__stica.png)
+![PT Conceitos Logística](//images.ctfassets.net/alneenqid6w5/aZMHlLUkOUDuN0vEITGy1/10a2b5b7d0ce301dc4c9fa2aa7bf236f/PT_Conceitos_Log__stica.png)

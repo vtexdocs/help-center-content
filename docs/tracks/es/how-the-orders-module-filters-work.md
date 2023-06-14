@@ -1,5 +1,5 @@
 ---
-title: Cómo funcionan los filtros del módulo Pedidos
+title: 'Cómo funcionan los filtros del módulo Pedidos'
 id: 3cjk655ZzDGICH4rVfgu7O
 status: PUBLISHED
 createdAt: 2019-11-14T15:58:30.418Z

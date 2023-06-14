@@ -1,5 +1,5 @@
 ---
-title: The CRM/masterdata UI is not deleting documents even with the success message
+title: 'The CRM/masterdata UI is not deleting documents even with the success message'
 id: 68de6QDUomjPPDXf9P14c3
 status: PUBLISHED
 createdAt: 2023-03-27T20:03:54.217Z

@@ -1,5 +1,5 @@
 ---
-title: Coleções UI não permite a busca de produtos com caracteres especiais
+title: 'Coleções UI não permite a busca de produtos com caracteres especiais'
 id: 3O9C8uOskw2UJYdBVUCFw
 status: PUBLISHED
 createdAt: 2022-04-07T20:36:02.541Z

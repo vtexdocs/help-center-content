@@ -1,5 +1,5 @@
 ---
-title: Configurar XML de Google Shopping
+title: 'Configurar XML de Google Shopping'
 id: frequentlyAskedQuestions_372
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:53.317Z

@@ -1,5 +1,5 @@
 ---
-title: El horario de recogida del legado no respeta la zona horaria de SC.
+title: 'El horario de recogida del legado no respeta la zona horaria de SC.'
 id: 6f0P1Fe9ha1hLQZq80QYOL
 status: PUBLISHED
 createdAt: 2022-01-23T02:35:26.292Z

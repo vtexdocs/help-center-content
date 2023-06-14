@@ -1,5 +1,5 @@
 ---
-title: Instalar la CLI de VTEX IO
+title: 'Instalar la CLI de VTEX IO'
 id: 4x6EgYDws8IY8GO8I6C0UG
 status: DRAFT
 createdAt: 2018-02-21T22:21:47.348Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar regra de Divergência de valores
+title: 'Configurar regra de Divergência de valores'
 id: 6vQYuUfZVGDzDJjrvPczeh
 status: PUBLISHED
 createdAt: 2022-01-04T21:52:30.719Z

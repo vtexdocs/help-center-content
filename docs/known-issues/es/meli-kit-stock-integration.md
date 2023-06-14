@@ -1,5 +1,5 @@
 ---
-title: MELI KIT Integración de existencias
+title: 'MELI KIT Integración de existencias'
 id: 3OTRje0QGmk8EKI9j6QstJ
 status: PUBLISHED
 createdAt: 2022-03-04T18:15:07.592Z

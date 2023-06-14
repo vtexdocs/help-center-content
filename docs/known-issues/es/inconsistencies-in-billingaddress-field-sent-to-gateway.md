@@ -1,5 +1,5 @@
 ---
-title: Inconsistencias en el campo billingAddress enviado al Gateway
+title: 'Inconsistencias en el campo billingAddress enviado al Gateway'
 id: 2SNynMgq0w0t7WBoXGoZwR
 status: PUBLISHED
 createdAt: 2022-01-21T18:13:45.045Z

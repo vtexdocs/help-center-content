@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Feenicia
+title: 'Configurar pagamento com Feenicia'
 id: 4yOo3Jc1ZD1BvAozpDOST0
 status: DRAFT
 createdAt: 2022-08-10T21:53:34.121Z

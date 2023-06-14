@@ -1,5 +1,5 @@
 ---
-title: /pub/portal/pagetype não mapeia corretamente quando 2+ categorias têm o mesmo nome
+title: '/pub/portal/pagetype não mapeia corretamente quando 2+ categorias têm o mesmo nome'
 id: 7ykvMnWt3PhGAqWhEFmnp3
 status: PUBLISHED
 createdAt: 2022-03-18T15:40:04.430Z

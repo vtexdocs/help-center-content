@@ -1,5 +1,5 @@
 ---
-title: Usando o bloco Header para obter maior controle do layout e posicionamento dos componentes
+title: 'Usando o bloco Header para obter maior controle do layout e posicionamento dos componentes'
 id: 2lA9KLBZtjXRlQdjOUcouF
 status: DRAFT
 createdAt: 2019-04-04T17:54:33.106Z

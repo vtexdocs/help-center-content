@@ -1,5 +1,5 @@
 ---
-title: Recursos do License Manager - Promotions Policy Engine
+title: 'Recursos do License Manager - Promotions Policy Engine'
 id: 60MPApMbeMVlhi0OIqSIHn
 status: DRAFT
 createdAt: 2022-02-16T20:44:53.228Z

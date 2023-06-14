@@ -1,5 +1,5 @@
 ---
-title: Configurar notificaciones de pago
+title: 'Configurar notificaciones de pago'
 id: tutorials_448
 status: PUBLISHED
 createdAt: 2017-04-27T22:04:46.342Z

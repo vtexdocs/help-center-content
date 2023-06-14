@@ -1,5 +1,5 @@
 ---
-title: Integrando com Buscapé (BP+)
+title: 'Integrando com Buscapé (BP+)'
 id: tutorials_410
 status: DRAFT
 createdAt: 2017-04-27T22:06:11.212Z

@@ -1,5 +1,5 @@
 ---
-title: "Upgrade your store to Google Analytics 4"
+title: 'Upgrade your store to Google Analytics 4'
 id: 01mmrSck8nvXAKsypecT9V
 status: PUBLISHED
 createdAt: 2023-04-28T14:42:52.792Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
 slug: upgrade-your-store-to-google-analytics-4
 legacySlug: upgrade-your-store-to-google-analytics-4
-announcementImageID: ""
-announcementSynopsisEN: upgrade-your-store-to-google-analytics-4
+announcementImageID: ''
+announcementSynopsisEN: 'upgrade-your-store-to-google-analytics-4'
 ---
 
 As of July 1, 2023, [Google Analytics 4](https://support.google.com/analytics/answer/10089681) (GA4) will replace Universal Analytics, the previous version of Google's data analytics tool. See details about the change in [this Google article](https://support.google.com/analytics/answer/11583528). 

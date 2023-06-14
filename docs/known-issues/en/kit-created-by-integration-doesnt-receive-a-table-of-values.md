@@ -1,5 +1,5 @@
 ---
-title: Kit created by integration doesn't receive a table of values
+title: 'Kit created by integration doesn't receive a table of values'
 id: 1IhCGsM5a48Ai6IESYCeGQ
 status: PUBLISHED
 createdAt: 2017-03-29T23:46:50.768Z

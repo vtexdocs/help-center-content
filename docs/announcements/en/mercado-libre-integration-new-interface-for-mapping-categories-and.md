@@ -1,5 +1,5 @@
 ---
-title: "Mercado Libre integration: New interface for mapping categories and attributes"
+title: 'Mercado Libre integration: New interface for mapping categories and attributes'
 id: 589oLekjy3OV43kUWREpoe
 status: PUBLISHED
 createdAt: 2021-11-19T19:44:09.314Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: mercado-libre-integration-new-interface-for-mapping-categories-and
 legacySlug: mercado-libre-integration-new-interface-for-mapping-categories-and
-announcementImageID: ""
-announcementSynopsisEN: The new interface for mapping categories and attributes will replace the mapping template.
+announcementImageID: ''
+announcementSynopsisEN: 'The new interface for mapping categories and attributes will replace the mapping template.'
 ---
 
 Continuing the improvements made for [Mercado Libre certification](https://help.vtex.com/en/announcements/vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil--34D14K2Y6ogJs3OxKpQUrJ), we are officially releasing the new interface for mapping categories and attributes to all VTEX clients that operate as sellers in Mercado Libre.

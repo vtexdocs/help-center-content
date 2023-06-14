@@ -1,5 +1,5 @@
 ---
-title: Cómo se realiza la comunicación con el cliente durante el flujo del pedido
+title: 'Cómo se realiza la comunicación con el cliente durante el flujo del pedido'
 id: tutorials_195
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:41.243Z

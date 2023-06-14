@@ -1,5 +1,5 @@
 ---
-title: O nome do vendedor não é fornecido em integrações mkp nativas
+title: 'O nome do vendedor não é fornecido em integrações mkp nativas'
 id: bPx7CPZEXecgMe2Sscg6k
 status: PUBLISHED
 createdAt: 2017-12-28T15:21:09.238Z

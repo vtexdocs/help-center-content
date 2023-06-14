@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo solicitar un anticipo de cuentas por cobrar?
+title: '¿Cómo solicitar un anticipo de cuentas por cobrar?'
 id: O82Cw3Tirmr7cxqRhy90s
 status: DRAFT
 createdAt: 2020-03-09T23:05:49.988Z
@@ -30,7 +30,7 @@ Ahora que ha verificado el saldo, es importante tener en cuenta que el valor mí
 
 Por ejemplo, si el menor valor que puede recibir es R$10, ese es el valor mínimo que puede anticipar. El valor máximo se informa en el propio Admin - el saldo que usted acaba de verificar - en la página "Anticipar cuentas por cobrar". 
 
-![antecipação](https://images.ctfassets.net/alneenqid6w5/2DQKbFjERNOa8wLmFq3nr9/ae2cced48c5774ced4415db9ab9756b6/image.png_h_250_h_250)
+![antecipação](//images.ctfassets.net/alneenqid6w5/2DQKbFjERNOa8wLmFq3nr9/ae2cced48c5774ced4415db9ab9756b6/image.png_h_250_h_250)
 
 <div class="alert alert-info">
 <strong>Atención</strong>: las cuentas por cobrar en disputa o programadas para el siguiente día hábil no pueden ser anticipadas.

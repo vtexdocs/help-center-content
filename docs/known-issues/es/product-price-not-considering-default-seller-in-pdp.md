@@ -1,5 +1,5 @@
 ---
-title: El precio del producto no tiene en cuenta al vendedor por defecto en el PDP
+title: 'El precio del producto no tiene en cuenta al vendedor por defecto en el PDP'
 id: 4VOIW6kCTfFZ3S9u3xtdDF
 status: PUBLISHED
 createdAt: 2022-02-23T21:52:42.520Z

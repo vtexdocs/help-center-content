@@ -1,5 +1,5 @@
 ---
-title: Aplicación Amazon Multi-Channel Fulfillment (MCF)
+title: 'Aplicación Amazon Multi-Channel Fulfillment (MCF)'
 id: X4b62PHi80OK3YwywZStG
 status: PUBLISHED
 createdAt: 2021-09-20T13:50:23.210Z
@@ -109,7 +109,7 @@ Para instalar la aplicación, accede a VTEX App Store:
 Las configuraciones realizadas en el campo Automatic Invoice se aplicarán a todos los pedidos.
 </div>
 
-![MCF](https://images.ctfassets.net/alneenqid6w5/1fPmofbBRr6kge5qzfHvXV/604c465dd3344b9cc04b722d03cb5005/Amazon_MCF_EN.PNG)
+![MCF](//images.ctfassets.net/alneenqid6w5/1fPmofbBRr6kge5qzfHvXV/604c465dd3344b9cc04b722d03cb5005/Amazon_MCF_EN.PNG)
 
 ### Integración del catálogo
 

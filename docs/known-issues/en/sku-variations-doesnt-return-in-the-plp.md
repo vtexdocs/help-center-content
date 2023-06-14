@@ -1,5 +1,5 @@
 ---
-title: SKU variations doesn't return in the PLP
+title: 'SKU variations doesn't return in the PLP'
 id: 6AOmkZe06SmXpVqwQqTZdp
 status: PUBLISHED
 createdAt: 2022-10-19T12:20:41.544Z

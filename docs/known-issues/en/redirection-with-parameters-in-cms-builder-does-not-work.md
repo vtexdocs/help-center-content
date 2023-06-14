@@ -1,5 +1,5 @@
 ---
-title: Redirection with parameters in CMS Builder does not work
+title: 'Redirection with parameters in CMS Builder does not work'
 id: 54X9i44JmLTO5uII1E98yL
 status: PUBLISHED
 createdAt: 2022-07-06T19:15:29.327Z

@@ -1,5 +1,5 @@
 ---
-title: Habilitar código do vendedor
+title: 'Habilitar código do vendedor'
 id: 5kNtS80hbBGg58jMeF8CRv
 status: DRAFT
 createdAt: 2021-02-04T11:42:33.284Z
@@ -41,7 +41,7 @@ Depois de seguir essas recomendações, acesse o módulo __Configurações da lo
 
 Do lado direito da tela, você verá o arquivo `checkout-instore-custom.js`. 
 
-![vendorcode](https://images.ctfassets.net/alneenqid6w5/ZvQVCvlacD2AYf9eHKcxl/53885297fc0e0882178a6230815b2b6e/vendorcode.PNG)
+![vendorcode](//images.ctfassets.net/alneenqid6w5/ZvQVCvlacD2AYf9eHKcxl/53885297fc0e0882178a6230815b2b6e/vendorcode.PNG)
 
 Acesse-o e adicione o seguinte trecho ao objeto `window.INSTORE_CONFIG`:
 
@@ -63,7 +63,7 @@ Cada responsável deve preencher as propriedades do objeto `window.INSTORE_CONFI
 
 Por fim, finalize clicando no botão azul __Salvar__ localizado no topo da página.
 
-![vendorcode2](https://images.ctfassets.net/alneenqid6w5/59lZVji41rXxNjVXhwC6Ae/76513fc455650813e5740e68882421dd/vendorcode2.PNG) 
+![vendorcode2](//images.ctfassets.net/alneenqid6w5/59lZVji41rXxNjVXhwC6Ae/76513fc455650813e5740e68882421dd/vendorcode2.PNG) 
 
 ## Entendendo as propriedades
 

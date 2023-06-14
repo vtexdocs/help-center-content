@@ -1,5 +1,5 @@
 ---
-title: CMS - Descripción General
+title: 'CMS - Descripción General'
 id: 2X1xWJi9WmtNylxmggn3ts
 status: PUBLISHED
 createdAt: 2023-03-29T18:36:32.910Z
@@ -14,7 +14,7 @@ legacySlug: cms-descripcion-general
 subcategory: 3PNmhq67KMmGTBSfIWJdcQ
 ---
 
-![CMS Capa overview](https://images.ctfassets.net/alneenqid6w5/5FaFzk5z2vdyWIKl5AlCby/4d6d76df74914b87f0f47e986ea7b405/CAPA_OVERVIEW_CMS.png)
+![CMS Capa overview](//images.ctfassets.net/alneenqid6w5/5FaFzk5z2vdyWIKl5AlCby/4d6d76df74914b87f0f47e986ea7b405/CAPA_OVERVIEW_CMS.png)
 El CMS (Content Management System) es una funcionalidad dedicada a la gestión de contenido de manera práctica y constante.
 
 En VTEX, el CMS se encarga de gestionar las páginas que conforman el sitio web de tu tienda, ofreciéndote autonomía para crear, organizar, editar y definir toda la estructura de las carpetas, los archivos y los componentes de tu vitrina.

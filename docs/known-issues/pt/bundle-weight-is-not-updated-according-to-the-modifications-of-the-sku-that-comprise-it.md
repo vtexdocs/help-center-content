@@ -1,5 +1,5 @@
 ---
-title: Peso de um kit não é atualizado conforme modificações dos SKUs que o compõem
+title: 'Peso de um kit não é atualizado conforme modificações dos SKUs que o compõem'
 id: 5NmyLQCFnS6D1oymRW3jbq
 status: PUBLISHED
 createdAt: 2019-07-30T14:13:15.920Z

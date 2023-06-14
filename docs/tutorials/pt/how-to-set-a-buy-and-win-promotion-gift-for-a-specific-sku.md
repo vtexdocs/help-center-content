@@ -1,5 +1,5 @@
 ---
-title: Configurar promoção Compre e ganhe para um SKU específico
+title: 'Configurar promoção Compre e ganhe para um SKU específico'
 id: 4QlFtwxAju6qOwaCi2YS0G
 status: CHANGED
 createdAt: 2017-08-22T15:24:13.195Z

@@ -1,5 +1,5 @@
 ---
-title: La ordenación de categorías no se aplica en los filtros de la tienda
+title: 'La ordenación de categorías no se aplica en los filtros de la tienda'
 id: 3hKStsq84wgmcO88wY8Cy6
 status: PUBLISHED
 createdAt: 2018-05-30T15:04:03.391Z

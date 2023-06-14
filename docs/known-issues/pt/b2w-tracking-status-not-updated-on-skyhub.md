@@ -1,5 +1,5 @@
 ---
-title: [B2W] Status de rastreamento não atualizado no Skyhub
+title: '[B2W] Status de rastreamento não atualizado no Skyhub'
 id: 3TKWSVwPPYyoqkKWtNUCb3
 status: PUBLISHED
 createdAt: 2022-10-06T19:23:32.891Z

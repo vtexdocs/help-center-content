@@ -1,5 +1,5 @@
 ---
-title: Configurar logística para o inStore
+title: 'Configurar logística para o inStore'
 id: 2T24PlQ69WswwYKmwc2MSI
 status: DRAFT
 createdAt: 2018-03-15T14:45:36.523Z

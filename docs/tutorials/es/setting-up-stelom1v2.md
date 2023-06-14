@@ -1,5 +1,5 @@
 ---
-title: Configurar SteloM1V2
+title: 'Configurar SteloM1V2'
 id: 7EpTn8NRBKkeq42ksU2ywE
 status: DRAFT
 createdAt: 2018-03-05T19:24:52.349Z

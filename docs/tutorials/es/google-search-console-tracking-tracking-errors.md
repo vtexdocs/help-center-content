@@ -1,5 +1,5 @@
 ---
-title: Rastreo Google Search Console - Errores de rastreo
+title: 'Rastreo Google Search Console - Errores de rastreo'
 id: tutorials_568
 status: PUBLISHED
 createdAt: 2017-04-27T22:00:16.796Z

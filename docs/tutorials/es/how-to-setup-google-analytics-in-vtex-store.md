@@ -1,5 +1,5 @@
 ---
-title: Configurar Google Analytics 4 en una tienda VTEX
+title: 'Configurar Google Analytics 4 en una tienda VTEX'
 id: G2P0rmSrEiqCcmUMyUUwG
 status: PUBLISHED
 createdAt: 2017-07-30T22:53:46.285Z

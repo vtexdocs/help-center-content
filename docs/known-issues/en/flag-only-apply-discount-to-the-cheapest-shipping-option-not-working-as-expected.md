@@ -1,5 +1,5 @@
 ---
-title: Flag "Only apply discount to the cheapest shipping option" not working as expected
+title: 'Flag "Only apply discount to the cheapest shipping option" not working as expected'
 id: 15irjH6rNkHhkBeRNn9RUI
 status: PUBLISHED
 createdAt: 2022-10-05T18:01:57.821Z

@@ -1,5 +1,5 @@
 ---
-title: Canceling payment for the service of an app installed in my store
+title: 'Canceling payment for the service of an app installed in my store'
 id: 587GU01BchtMMoQwFtpIcW
 status: PUBLISHED
 createdAt: 2019-01-30T21:21:20.606Z

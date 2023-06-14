@@ -1,5 +1,5 @@
 ---
-title: Ajustar a exportação da aba de processamento
+title: 'Ajustar a exportação da aba de processamento'
 id: 1oiPXaKwfCGEPtZbDlHurf
 status: PUBLISHED
 createdAt: 2022-09-20T19:07:13.380Z

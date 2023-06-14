@@ -1,5 +1,5 @@
 ---
-title: Why does the promised date differ from the delivery date?
+title: 'Why does the promised date differ from the delivery date?'
 id: 2ykKClT2FWgEKQ6Y0s4iMS
 status: PUBLISHED
 createdAt: 2018-03-05T15:42:17.800Z

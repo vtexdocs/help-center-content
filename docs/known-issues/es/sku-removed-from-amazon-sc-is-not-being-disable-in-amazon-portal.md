@@ -1,5 +1,5 @@
 ---
-title: SKU eliminado de Amazon SC no se desactiva en el Portal de Amazon
+title: 'SKU eliminado de Amazon SC no se desactiva en el Portal de Amazon'
 id: 9yeLgMrhp9nSu9MtJ518G
 status: PUBLISHED
 createdAt: 2023-05-18T11:43:30.694Z

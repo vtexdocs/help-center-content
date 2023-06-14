@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Aplazo
+title: 'Configurar pago con Aplazo'
 id: 1BWOn7ufpvaNIXLGFFanlt
 status: DRAFT
 createdAt: 2022-08-12T16:29:16.741Z

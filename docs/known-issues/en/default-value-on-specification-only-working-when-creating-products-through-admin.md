@@ -1,5 +1,5 @@
 ---
-title: Default value on specification only working when creating products through Admin
+title: 'Default value on specification only working when creating products through Admin'
 id: 6oL4LDFx18s0pOvOEKcniQ
 status: PUBLISHED
 createdAt: 2022-03-25T14:21:28.216Z

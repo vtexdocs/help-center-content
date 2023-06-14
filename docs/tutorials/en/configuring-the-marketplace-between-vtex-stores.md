@@ -1,5 +1,5 @@
 ---
-title: Configuring a marketplace between VTEX stores
+title: 'Configuring a marketplace between VTEX stores'
 id: tutorials_6520
 status: CHANGED
 createdAt: 2017-04-27T21:48:44.692Z

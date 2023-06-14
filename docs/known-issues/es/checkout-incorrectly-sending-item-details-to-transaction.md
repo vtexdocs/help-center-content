@@ -1,5 +1,5 @@
 ---
-title: El pago envía incorrectamente los detalles del artículo a la transacción
+title: 'El pago envía incorrectamente los detalles del artículo a la transacción'
 id: YxjZNKuIxkKQioS7lkmu8
 status: PUBLISHED
 createdAt: 2022-03-04T15:08:55.326Z

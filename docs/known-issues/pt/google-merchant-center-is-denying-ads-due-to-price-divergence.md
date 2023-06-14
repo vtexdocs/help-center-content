@@ -1,5 +1,5 @@
 ---
-title: Google Merchant Center reprovando anúncios por divergência de preço
+title: 'Google Merchant Center reprovando anúncios por divergência de preço'
 id: PzvIhzUPXUOCNKWy9YGGC
 status: PUBLISHED
 createdAt: 2019-08-13T21:12:20.480Z

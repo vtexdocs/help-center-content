@@ -1,5 +1,5 @@
 ---
-title: Definição da política comercial para Magazine Luiza
+title: 'Definição da política comercial para Magazine Luiza'
 id: 5NcpxEUrgW1fgVI8iUKk3Z
 status: PUBLISHED
 createdAt: 2021-02-24T14:39:02.612Z

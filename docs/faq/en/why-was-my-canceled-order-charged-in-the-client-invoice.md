@@ -1,5 +1,5 @@
 ---
-title: Why was my canceled order charged in the client invoice?
+title: 'Why was my canceled order charged in the client invoice?'
 id: frequentlyAskedQuestions_492
 status: PUBLISHED
 createdAt: 2017-04-27T22:34:48.023Z

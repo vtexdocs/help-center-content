@@ -1,5 +1,5 @@
 ---
-title: Arquitetura do Catálogo
+title: 'Arquitetura do Catálogo'
 id: 7kz4uWVq6NoaOdUpiJv4PR
 status: PUBLISHED
 createdAt: 2019-05-17T23:09:48.278Z
@@ -34,4 +34,4 @@ Essas especificações são, por exemplo, a composição de um produto, ou o tam
 
 Abaixo, vemos um esquema da arquitetura do Catálogo na VTEX.
 
-![arquitetura-catalogo-PT](https://images.ctfassets.net/alneenqid6w5/4P3TCN2sjS3EuMdNO6Rrkb/76c3c87942fb93c1022b4eacb748c6f8/PT.png)
+![arquitetura-catalogo-PT](//images.ctfassets.net/alneenqid6w5/4P3TCN2sjS3EuMdNO6Rrkb/76c3c87942fb93c1022b4eacb748c6f8/PT.png)

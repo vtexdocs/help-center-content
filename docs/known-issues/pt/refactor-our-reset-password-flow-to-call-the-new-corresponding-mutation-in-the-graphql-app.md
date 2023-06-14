@@ -1,5 +1,5 @@
 ---
-title: refatorar nosso fluxo de senhas para chamar a nova mutação correspondente no aplicativo graphql
+title: 'refatorar nosso fluxo de senhas para chamar a nova mutação correspondente no aplicativo graphql'
 id: 245W7bXAR6nnnLbqqmOCda
 status: PUBLISHED
 createdAt: 2022-05-12T16:02:40.629Z

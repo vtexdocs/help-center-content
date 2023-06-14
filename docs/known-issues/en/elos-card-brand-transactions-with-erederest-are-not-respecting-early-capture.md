@@ -1,5 +1,5 @@
 ---
-title: Elo's card brand transactions with ERedeRest are not respecting early capture
+title: 'Elo's card brand transactions with ERedeRest are not respecting early capture'
 id: 2OSpQyzDkiGioqcEmhuXpk
 status: PUBLISHED
 createdAt: 2023-05-08T20:29:59.412Z

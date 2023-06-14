@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with iPay88
+title: 'Setting up payments with iPay88'
 id: 5wyQOaEDvOC2SWYg0Ge4Ac
 status: DRAFT
 createdAt: 2018-04-24T21:55:03.219Z

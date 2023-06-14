@@ -1,5 +1,5 @@
 ---
-title: Filling in fields in the product and SKU import spreadsheet
+title: 'Filling in fields in the product and SKU import spreadsheet'
 id: 4nYhx63Q5yokQWaMguaIgI
 status: PUBLISHED
 createdAt: 2018-02-06T20:09:19.608Z

@@ -1,5 +1,5 @@
 ---
-title: CMS allows the creation but not the editing of folders with the same names as the default ones
+title: 'CMS allows the creation but not the editing of folders with the same names as the default ones'
 id: q2Fvxfwv5MjAcqxb81avH
 status: PUBLISHED
 createdAt: 2022-04-26T14:09:30.508Z

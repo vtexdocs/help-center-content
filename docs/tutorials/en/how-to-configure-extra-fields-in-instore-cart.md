@@ -1,5 +1,5 @@
 ---
-title: How to configure extra fields in inStore cart
+title: 'How to configure extra fields in inStore cart'
 id: CDIG0jT2ak6eCOGKgOc0i
 status: DRAFT
 createdAt: 2017-08-14T23:05:34.624Z

@@ -1,5 +1,5 @@
 ---
-title: Missing 1x installment option on Checkout with multiple payment conditions and default configuration set to a different option
+title: 'Missing 1x installment option on Checkout with multiple payment conditions and default configuration set to a different option'
 id: 6xzCd4cSKl7ygcptvqwZs9
 status: PUBLISHED
 createdAt: 2023-05-11T17:23:35.529Z

@@ -1,5 +1,5 @@
 ---
-title: Precio Base – Definición de Concepto
+title: 'Precio Base – Definición de Concepto'
 id: 3XcXp0r5WrJvogB8KIX4Kx
 status: PUBLISHED
 createdAt: 2019-07-04T13:52:36.278Z
@@ -17,7 +17,7 @@ trackSlugES: precios-101
 
 El Precio Base de un SKU es el valor calculado a través de la combinación entre el **Precio de Costo** y el **Markup**, el margen de ganancia deseado con la venta del SKU. Es el __precio de referencia__ de un SKU para todas las tablas de precio. 
 
-![base-price-es](https://images.ctfassets.net/alneenqid6w5/14OYPLF5k6gNJhSUZ5OE53/9b59c8c88d39347707be5054d948ad91/base-price-es.png)
+![base-price-es](//images.ctfassets.net/alneenqid6w5/14OYPLF5k6gNJhSUZ5OE53/9b59c8c88d39347707be5054d948ad91/base-price-es.png)
 
 Este **precio base** puede combinarse con una **regla de precio** aplicada a la tabla de precios. Si no existe regla de precio registrada, el precio de venta en una tabla será el propio precio base.
 

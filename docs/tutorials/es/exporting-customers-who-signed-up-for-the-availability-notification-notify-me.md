@@ -1,5 +1,5 @@
 ---
-title: Exportar los clientes registrados en la notificación de disponibilidad (Avisame)
+title: 'Exportar los clientes registrados en la notificación de disponibilidad (Avisame)'
 id: 3Yr19DMQukGeIImUeCwIao
 status: PUBLISHED
 createdAt: 2018-01-23T16:32:41.471Z

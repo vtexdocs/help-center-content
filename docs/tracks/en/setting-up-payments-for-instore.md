@@ -1,5 +1,5 @@
 ---
-title: Setting up payments for inStore
+title: 'Setting up payments for inStore'
 id: 5Fo72INzO06MCGoMm6u0uk
 status: DRAFT
 createdAt: 2018-04-26T22:17:23.559Z

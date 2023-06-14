@@ -1,5 +1,5 @@
 ---
-title: Em um cenário de pagamento dividido quando o valor já foi capturado, a porta de entrada não permite mais um pedido de cancelamento
+title: 'Em um cenário de pagamento dividido quando o valor já foi capturado, a porta de entrada não permite mais um pedido de cancelamento'
 id: 5qVUfltwPb3FacbECRsNa0
 status: PUBLISHED
 createdAt: 2023-01-27T20:13:21.397Z

@@ -1,5 +1,5 @@
 ---
-title: Por que não recebo os emails da VTEX?
+title: 'Por que não recebo os emails da VTEX?'
 id: 18LsIyIBLuEmSOos4KUaI0
 status: PUBLISHED
 createdAt: 2018-01-22T21:49:50.299Z

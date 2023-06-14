@@ -1,5 +1,5 @@
 ---
-title: What is the difference between product and SKU?
+title: 'What is the difference between product and SKU?'
 id: 5yhABFDOpyiUcicce2W4CM
 status: PUBLISHED
 createdAt: 2018-01-26T17:49:48.383Z

@@ -1,5 +1,5 @@
 ---
-title: Erro na interface do usuário da MELI Promotions
+title: 'Erro na interface do usuário da MELI Promotions'
 id: BXDd7lo9fOvUq4AIM4hZs
 status: PUBLISHED
 createdAt: 2023-04-26T11:10:30.466Z

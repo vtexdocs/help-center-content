@@ -1,5 +1,5 @@
 ---
-title: "Descontinuação do VTEX Payment"
+title: 'Descontinuação do VTEX Payment'
 id: 6BkEnyzVDHfoKwPnGdqBRs
 status: PUBLISHED
 createdAt: 2022-07-07T19:20:19.592Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 slug: descontinuacao-do-vtex-payment
 legacySlug: descontinuacao-do-vtex-payment
-announcementImageID: ""
-announcementSynopsisPT: Descontinuação do VTEX Payment
+announcementImageID: ''
+announcementSynopsisPT: 'Descontinuação do VTEX Payment'
 ---
 
 Durante os últimos três anos a VTEX ofereceu sua solução exclusiva de pagamentos, o VTEX Payment. A nossa solução trouxe funcionalidades inovadoras e carentes no arranjo de meio de pagamentos brasileiro, tirando proveito de uma integração nativa com própria plataforma de ecommerce.

@@ -1,5 +1,5 @@
 ---
-title: La exportación de catálogos no muestra los canales de venta cuando se marca "ninguno".
+title: 'La exportación de catálogos no muestra los canales de venta cuando se marca "ninguno".'
 id: 10Bozz8ai3fAvu1m9Ex2Gk
 status: PUBLISHED
 createdAt: 2022-12-23T13:38:32.114Z

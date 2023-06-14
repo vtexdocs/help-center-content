@@ -1,5 +1,5 @@
 ---
-title: Al realizar una importación de Especificación de Productos el producto no es indexado
+title: 'Al realizar una importación de Especificación de Productos el producto no es indexado'
 id: 6MQhj9Kqsg4w0iUuecgGqg
 status: PUBLISHED
 createdAt: 2017-11-27T17:42:48.080Z

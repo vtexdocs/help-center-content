@@ -1,5 +1,5 @@
 ---
-title: What is a dispute?
+title: 'What is a dispute?'
 id: 7KJsfF1qZILm59C0PQtdF6
 status: DRAFT
 createdAt: 2020-07-17T15:02:12.754Z

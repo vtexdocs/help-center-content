@@ -1,5 +1,5 @@
 ---
-title: La vista previa de envío muestra erróneamente la fecha en la que está programada la entrega
+title: 'La vista previa de envío muestra erróneamente la fecha en la que está programada la entrega'
 id: 6pbufuWTFkL4NK3xLIxj1z
 status: PUBLISHED
 createdAt: 2023-01-31T19:36:58.137Z

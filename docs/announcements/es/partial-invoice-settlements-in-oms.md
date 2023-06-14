@@ -1,5 +1,5 @@
 ---
-title: "Liquidación de facturas parciales en el OMS"
+title: 'Liquidación de facturas parciales en el OMS'
 id: 57DxOPAIGassIOYDNPQftv
 status: PUBLISHED
 createdAt: 2022-06-27T20:36:59.586Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: liquidacion-de-facturas-parciales-en-el-oms
 legacySlug: liquidacion-de-facturas-parciales-en-el-oms
-announcementImageID: ""
-announcementSynopsisES: Ahora las facturas parciales emitidas en los pedidos también generan liquidaciones parciales en la transacción.
+announcementImageID: ''
+announcementSynopsisES: 'Ahora las facturas parciales emitidas en los pedidos también generan liquidaciones parciales en la transacción.'
 ---
 
 Si gestionas pedidos en el OMS, el sistema de gestión de pedidos de VTEX, debes emitir una factura en el pedido para que su status pase a Facturado; esto indica que el pedido concluyó con éxito. Se puede emitir una [factura completa](https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT) o una [fatura parcial](https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cuando los ítems o el valor del pedido sufren cambios. 

@@ -1,5 +1,5 @@
 ---
-title: Tiendas físicas como puntos de recogida
+title: 'Tiendas físicas como puntos de recogida'
 id: 4hXfgqXxS1lwAfnxgja3xW
 status: PUBLISHED
 createdAt: 2021-08-23T17:04:37.282Z

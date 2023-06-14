@@ -1,5 +1,5 @@
 ---
-title: ¿Qué es un stock?
+title: '¿Qué es un stock?'
 id: 23kq5gUdY0QOymOu8QSGcA
 status: DRAFT
 createdAt: 2018-03-01T15:36:52.345Z

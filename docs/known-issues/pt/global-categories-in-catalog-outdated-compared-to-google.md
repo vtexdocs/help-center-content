@@ -1,5 +1,5 @@
 ---
-title: Categorias globais em catálogo desatualizadas em comparação com o Google
+title: 'Categorias globais em catálogo desatualizadas em comparação com o Google'
 id: 4vH5NRdMsuZmOohdHFn16H
 status: PUBLISHED
 createdAt: 2023-02-14T19:42:08.121Z

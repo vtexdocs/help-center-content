@@ -1,5 +1,5 @@
 ---
-title: "New account details page"
+title: 'New account details page'
 id: 2SrdKxlWYmoykn2F6gnCTb
 status: PUBLISHED
 createdAt: 2023-05-05T19:08:41.074Z
@@ -10,8 +10,8 @@ productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: new-account-details-page
 legacySlug: new-account-details-page
-announcementImageID: ""
-announcementSynopsisEN: VTEX is providing a new account details page, which offers an intuitive and efficient experience for your operation.
+announcementImageID: ''
+announcementSynopsisEN: 'VTEX is providing a new account details page, which offers an intuitive and efficient experience for your operation.'
 ---
 
 VTEX is making available a new [account details page](https://help.vtex.com/en/tutorial/pagina-de-detalhes-da-conta--2vhUVOKfCaswqLguT2F9xq), which offers an intuitive and efficient experience for your operation.

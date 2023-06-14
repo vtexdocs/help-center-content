@@ -1,5 +1,5 @@
 ---
-title: Configurar tabelas de preços para usuários específicos
+title: 'Configurar tabelas de preços para usuários específicos'
 id: 5S9oDOMHNmY4K0kAewAiWY
 status: PUBLISHED
 createdAt: 2018-08-21T13:30:27.663Z
@@ -77,11 +77,11 @@ No menu principal do Admin, acesse __Preços__ e escolha a opção __Lista de pr
 
 No filtro da busca, insira os nomes das tabelas criadas no __Master Data__.
 
-![Filters](https://images.ctfassets.net/alneenqid6w5/4l7cEOha360ceaegCA4Ws6/17ea17f13d6dd9e399f07c4cefe1888a/Filters.png)
+![Filters](//images.ctfassets.net/alneenqid6w5/4l7cEOha360ceaegCA4Ws6/17ea17f13d6dd9e399f07c4cefe1888a/Filters.png)
 
 As tabelas de preço são mostradas como colunas da lista de preços, assim como as políticas comerciais.
 
-![Prices](https://images.ctfassets.net/alneenqid6w5/31kElv6oD6KksC8wyUoCgU/815d607e3cdcd2d7c15239d202a81ad0/Prices.png)
+![Prices](//images.ctfassets.net/alneenqid6w5/31kElv6oD6KksC8wyUoCgU/815d607e3cdcd2d7c15239d202a81ad0/Prices.png)
 
 Para atualizar o preço fixo em uma tabela específica, clique na coluna dessa tabela e depois em __Definir preços fixos__. 
 
@@ -98,7 +98,7 @@ Quando um usuário da sua loja não está logado, os preços mostrados a ele sã
 Mas se o usuário estiver logado, ele verá os preços correspondentes à tabela de preços à qual o email dele estiver associado.
 
 Por exemplo, estes dois clientes estão atrelados a tabelas de preços diferentes:
-![Clients](https://images.ctfassets.net/alneenqid6w5/4YanVck2GswcKKEEamO6gs/d1a2bc5603716c485dd000239a49fb41/Clients.png)
+![Clients](//images.ctfassets.net/alneenqid6w5/4YanVck2GswcKKEEamO6gs/d1a2bc5603716c485dd000239a49fb41/Clients.png)
 
 Quando o cliente Daniel, que está na tabela Silver, estiver logado na loja, ele verá os preços definidos nessa tabela. A mochila do exemplo acima aparecerá com o valor de R$ 50,00.
 Já o cliente Breno, que está na tabela Gold, verá os preços definidos nessa outra tabela. Para ele a mochila custará R$ 60,50.

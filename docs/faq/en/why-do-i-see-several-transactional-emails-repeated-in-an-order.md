@@ -1,5 +1,5 @@
 ---
-title: Why do I see several transactional emails repeated in an order?
+title: 'Why do I see several transactional emails repeated in an order?'
 id: frequentlyAskedQuestions_5310
 status: PUBLISHED
 createdAt: 2017-04-27T22:22:48.654Z

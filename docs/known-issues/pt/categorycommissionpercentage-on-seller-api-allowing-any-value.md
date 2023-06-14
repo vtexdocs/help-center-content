@@ -1,5 +1,5 @@
 ---
-title: CategoriaComissãoPercentagem sobre o API do Vendedor permitindo qualquer valor
+title: 'CategoriaComissãoPercentagem sobre o API do Vendedor permitindo qualquer valor'
 id: 2qFGcRO2H1JxHsYERf6X2s
 status: PUBLISHED
 createdAt: 2022-03-16T16:16:40.281Z

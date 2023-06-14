@@ -1,5 +1,5 @@
 ---
-title: O componente seletor de quantidade não retorna ao valor limite quando o usuário clica rapidamente
+title: 'O componente seletor de quantidade não retorna ao valor limite quando o usuário clica rapidamente'
 id: 4QRAzY1A0UD8hOUEkxAawz
 status: PUBLISHED
 createdAt: 2022-09-16T16:27:15.880Z

@@ -1,5 +1,5 @@
 ---
-title: La función getCurrentProductWithVariations de VTEX.js trae los datos del SKU del componente y no del SKU del KIT.
+title: 'La función getCurrentProductWithVariations de VTEX.js trae los datos del SKU del componente y no del SKU del KIT.'
 id: 1m1bMbNXZVpQo9bQG1iSjn
 status: PUBLISHED
 createdAt: 2022-03-16T16:35:51.214Z

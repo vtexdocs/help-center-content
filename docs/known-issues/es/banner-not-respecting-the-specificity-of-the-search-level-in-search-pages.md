@@ -1,5 +1,5 @@
 ---
-title: Banner que no respeta la especificidad del nivel de búsqueda en las páginas de búsqueda
+title: 'Banner que no respeta la especificidad del nivel de búsqueda en las páginas de búsqueda'
 id: 4FnLaP0Ftm4TJZaTBnLHXQ
 status: PUBLISHED
 createdAt: 2022-10-11T14:56:22.264Z

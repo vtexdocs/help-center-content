@@ -1,5 +1,5 @@
 ---
-title: Setting up Pagar.me gateway
+title: 'Setting up Pagar.me gateway'
 id: egFyDkXjfa80wkSkUWsmc
 status: PUBLISHED
 createdAt: 2018-04-10T17:54:18.410Z

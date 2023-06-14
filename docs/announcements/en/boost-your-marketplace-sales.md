@@ -1,5 +1,5 @@
 ---
-title: "You can now accept marketplace order with price differences"
+title: 'You can now accept marketplace order with price differences'
 id: 2hbmlBKFeU0OsECukOcw4w
 status: PUBLISHED
 createdAt: 2018-11-12T17:52:20.888Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 245tA425AIeioKAk2eaiwS
 slug: boost-your-marketplace-sales
 legacySlug: boost-your-marketplace-sales
-announcementImageID: ""
-announcementSynopsisEN: The new feature makes it easier to identify orders with price difference and allows your store to recover sales.
+announcementImageID: ''
+announcementSynopsisEN: 'The new feature makes it easier to identify orders with price difference and allows your store to recover sales.'
 ---
 
 <div class ="alert alert-warning">

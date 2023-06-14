@@ -1,5 +1,5 @@
 ---
-title: Tornar-se um conector certificado (parceiro)
+title: 'Tornar-se um conector certificado (parceiro)'
 id: 66mnclLFVFolMBGNtZbKzt
 status: PUBLISHED
 createdAt: 2021-06-17T15:37:00.201Z

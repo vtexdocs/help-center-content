@@ -1,5 +1,5 @@
 ---
-title: Onde a plataforma VTEX está hospedada e como é a infra-estrutura ?
+title: 'Onde a plataforma VTEX está hospedada e como é a infra-estrutura ?'
 id: 1P4jYoZMMsAqGq2Ec0UOGu
 status: DRAFT
 createdAt: 2017-10-22T00:01:45.036Z

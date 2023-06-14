@@ -1,5 +1,5 @@
 ---
-title: Order with no subscription Created and no email of New Orders on Cases related to payment method using conectors like Payment App or Redirect.
+title: 'Order with no subscription Created and no email of New Orders on Cases related to payment method using conectors like Payment App or Redirect.'
 id: 747TGL3sy1mmM1LnVkEjuO
 status: PUBLISHED
 createdAt: 2022-02-21T20:54:35.174Z

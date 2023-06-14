@@ -1,5 +1,5 @@
 ---
-title: Palavras substitutas de categoria não sendo indexadas
+title: 'Palavras substitutas de categoria não sendo indexadas'
 id: 4gIrMX8Wd2uW3Nekcbhu7S
 status: PUBLISHED
 createdAt: 2022-01-23T02:48:06.799Z

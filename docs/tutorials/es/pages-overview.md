@@ -1,5 +1,5 @@
 ---
-title: Páginas - Visión general
+title: 'Páginas - Visión general'
 id: 5iBUUJbK5NqG6OxlDrGNzc
 status: PUBLISHED
 createdAt: 2021-12-15T20:09:14.461Z
@@ -24,7 +24,7 @@ En Páginas, también puedes crear redirecciones de URL para redirigir a los vis
 
 En el Admin VTEX, accede **Storefront > Páginas** y descubre las principales herramientas disponibles en la interfaz.
 
-![Páginas UI - ES](https://images.ctfassets.net/alneenqid6w5/p6829cewqlsLC0XfCnHsC/dc75d5dcbe1d3ff9d02d710718961fba/pages-ui-es.png)
+![Páginas UI - ES](//images.ctfassets.net/alneenqid6w5/p6829cewqlsLC0XfCnHsC/dc75d5dcbe1d3ff9d02d710718961fba/pages-ui-es.png)
 
 | **Herramienta** | **Descripción** |
 | ---------- | ---------- |

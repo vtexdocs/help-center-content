@@ -1,5 +1,5 @@
 ---
-title: Checking the integration status on the Integrations panel
+title: 'Checking the integration status on the Integrations panel'
 id: tutorials_422
 status: PUBLISHED
 createdAt: 2017-04-27T22:05:50.596Z

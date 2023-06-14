@@ -1,5 +1,5 @@
 ---
-title: ¿Dónde veo la fecha de captura del pago?
+title: '¿Dónde veo la fecha de captura del pago?'
 id: 7DD0JK5cbYC2UkmCYgy8I4
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:46.335Z

@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo encontrar NSU y TID del  pedido?
+title: '¿Cómo encontrar NSU y TID del  pedido?'
 id: 2o9JwmdI78h6CpXSp8QBgo
 status: DRAFT
 createdAt: 2019-02-19T21:01:21.786Z
@@ -22,4 +22,4 @@ NSU y TID son datos de pago que quedan guardados en __Pagos__, en la sección de
 
 Esas informaciones son facilitadas a VTEX durante las transacciones y son organizadas para una simple visualización en **+ Informaciones**, en el [detalle del pedido](/es/tutorial/como-visualizar-detalle-del-pedido), conforme imagen abajo:
 
-![mais-informações-detalhes-pedido es](https://images.ctfassets.net/alneenqid6w5/3Ht2Oe6PAYLQCEtwxULNZA/f54b2b67f42713cb300977e387b12a5b/mais-informa____es-detalhes-pedido_es.png)
+![mais-informações-detalhes-pedido es](//images.ctfassets.net/alneenqid6w5/3Ht2Oe6PAYLQCEtwxULNZA/f54b2b67f42713cb300977e387b12a5b/mais-informa____es-detalhes-pedido_es.png)

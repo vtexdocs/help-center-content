@@ -1,5 +1,5 @@
 ---
-title: El usuario no puede realizar una suscripción diaria directamente desde el área de mis suscripciones
+title: 'El usuario no puede realizar una suscripción diaria directamente desde el área de mis suscripciones'
 id: QJrZvOmlRusACgS2iGRyT
 status: PUBLISHED
 createdAt: 2022-05-18T18:37:18.099Z

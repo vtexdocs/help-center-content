@@ -1,5 +1,5 @@
 ---
-title: Ordenação de categorias não está sendo aplicada nos filtros da loja
+title: 'Ordenação de categorias não está sendo aplicada nos filtros da loja'
 id: 3hKStsq84wgmcO88wY8Cy6
 status: PUBLISHED
 createdAt: 2018-05-30T15:04:03.391Z

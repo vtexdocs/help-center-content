@@ -1,5 +1,5 @@
 ---
-title: Análisis de eventos duplicados
+title: 'Análisis de eventos duplicados'
 id: 48h3ObR7qqRHvU36weCvjC
 status: PUBLISHED
 createdAt: 2023-03-15T19:40:23.229Z

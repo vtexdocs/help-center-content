@@ -1,5 +1,5 @@
 ---
-title: A nova IU não mostra o documento de identificação do cliente, por exemplo CPF
+title: 'A nova IU não mostra o documento de identificação do cliente, por exemplo CPF'
 id: 7y7Npcr6krhsnnEy54vQFa
 status: PUBLISHED
 createdAt: 2022-12-08T22:21:07.966Z

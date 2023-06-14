@@ -1,5 +1,5 @@
 ---
-title: La interfaz de las colecciones no permite buscar productos con caracteres especiales
+title: 'La interfaz de las colecciones no permite buscar productos con caracteres especiales'
 id: 3O9C8uOskw2UJYdBVUCFw
 status: PUBLISHED
 createdAt: 2022-04-07T20:36:02.541Z

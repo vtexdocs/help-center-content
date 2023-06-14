@@ -1,5 +1,5 @@
 ---
-title: "The new Admin is already being deployed to all stores"
+title: 'The new Admin is already being deployed to all stores'
 id: 5jPWeap8OQ8IwaGQeQOOCK
 status: PUBLISHED
 createdAt: 2018-03-06T17:29:18.942Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: authors_24
 slug: the-new-admin-is-already-being-deployed-to-all-stores
 legacySlug: the-new-admin-is-already-being-deployed-to-all-stores
-announcementImageID: ""
-announcementSynopsisEN: By May 7, all VTEX stores will be running the new Admin by default.
+announcementImageID: ''
+announcementSynopsisEN: 'By May 7, all VTEX stores will be running the new Admin by default.'
 ---
 
 VTEX's __new Admin__ is now ready to be used by all stores. After a period in beta, when some of our clients were able to try it, we've made improvements and decided to release it in a process that starts this week and will run until __May 7__.

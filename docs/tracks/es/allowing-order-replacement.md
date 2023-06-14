@@ -1,5 +1,5 @@
 ---
-title: Permitir sustitución de pedido
+title: 'Permitir sustitución de pedido'
 id: 381eYJw7lrypjGq3hmPtGV
 status: PUBLISHED
 createdAt: 2019-11-18T11:57:28.677Z

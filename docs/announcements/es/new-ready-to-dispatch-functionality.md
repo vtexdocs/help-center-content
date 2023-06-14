@@ -1,5 +1,5 @@
 ---
-title: "Nueva funcionalidad Listos para despacho"
+title: 'Nueva funcionalidad Listos para despacho'
 id: 7mBy4v8f3RYybnuPnWtKp9
 status: PUBLISHED
 createdAt: 2022-02-14T13:49:22.658Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: nueva-funcionalidad-listos-para-despacho
 legacySlug: nueva-funcionalidad-listos-para-despacho
-announcementImageID: ""
-announcementSynopsisES:  Nueva funcionalidad VTEX Log para la impresión de etiquetas y la notificación al transportista.
+announcementImageID: ''
+announcementSynopsisES: ' Nueva funcionalidad VTEX Log para la impresión de etiquetas y la notificación al transportista.'
 ---
 
 <div class="alert alert-warning">

@@ -1,5 +1,5 @@
 ---
-title: Title de faixa de preço força moeda real
+title: 'Title de faixa de preço força moeda real'
 id: 5gSZMEyGaAeSmKaYMYeqwG
 status: PUBLISHED
 createdAt: 2019-01-07T20:08:04.094Z

@@ -1,5 +1,5 @@
 ---
-title: Títulos de columnas de la exportación de productos no disponibles en inglés  
+title: 'Títulos de columnas de la exportación de productos no disponibles en inglés  '
 id: 5Xxm9H2gRYnZ2jm3Wwt1TV
 status: PUBLISHED
 createdAt: 2019-01-23T21:52:49.274Z

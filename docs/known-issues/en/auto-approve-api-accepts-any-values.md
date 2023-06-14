@@ -1,5 +1,5 @@
 ---
-title: Auto approve API accepts any values
+title: 'Auto approve API accepts any values'
 id: kLl4mtwKPPqW6jk5hZMWs
 status: PUBLISHED
 createdAt: 2022-12-12T14:18:51.059Z

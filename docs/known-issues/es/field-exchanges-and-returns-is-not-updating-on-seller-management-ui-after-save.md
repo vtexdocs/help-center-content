@@ -1,5 +1,5 @@
 ---
-title: El campo "Cambios y devoluciones" no se actualiza en la interfaz de gestión del vendedor después de guardar
+title: 'El campo "Cambios y devoluciones" no se actualiza en la interfaz de gestión del vendedor después de guardar'
 id: 1z8LrsbGk5B2ejZ1PV9vaB
 status: PUBLISHED
 createdAt: 2022-11-01T17:47:30.359Z

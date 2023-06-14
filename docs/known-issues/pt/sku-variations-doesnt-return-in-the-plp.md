@@ -1,5 +1,5 @@
 ---
-title: As variações da SKU não retornam no PLP
+title: 'As variações da SKU não retornam no PLP'
 id: 6AOmkZe06SmXpVqwQqTZdp
 status: PUBLISHED
 createdAt: 2022-10-19T12:20:41.544Z

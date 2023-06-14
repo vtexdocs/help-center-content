@@ -1,5 +1,5 @@
 ---
-title: "Social Selling: share your inStore cart"
+title: 'Social Selling: share your inStore cart'
 id: 6FW62Bd5Op59A2ELL6t8fh
 status: PUBLISHED
 createdAt: 2021-08-05T13:26:11.038Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
 slug: social-selling-share-your-instore-cart
 legacySlug: social-selling-share-your-instore-cart
-announcementImageID: ""
-announcementSynopsisEN: Physical store sales reps can now sell via WhatsApp or social media using inStore Social Selling.
+announcementImageID: ''
+announcementSynopsisEN: 'Physical store sales reps can now sell via WhatsApp or social media using inStore Social Selling.'
 ---
 
 inStore is VTEX's main product for Unified Commerce operations. It’s an app that enables your store to provide a true omnichannel experience, seamlessly integrating your online and physical channels, and placing your customers at the business core.
@@ -26,7 +26,7 @@ Previously, cart sharing wasn’t possible on inStore, [only through ecommerce](
 
 With inStore Social Selling, your physical store sales reps can select products and generate a link to share the **Cart Suggestion** with one or more customers via WhatsApp, as shown below. It is also possible to copy the link and share it on other social media.
 
-![socialselling-EN2](https://images.ctfassets.net/alneenqid6w5/1jdz7EIobEDMQqdRmdIVJY/e1fd62dd05b2468ba4cb198572a5bce8/socialselling-EN2.gif)
+![socialselling-EN2](//images.ctfassets.net/alneenqid6w5/1jdz7EIobEDMQqdRmdIVJY/e1fd62dd05b2468ba4cb198572a5bce8/socialselling-EN2.gif)
 
 The sales rep can share the same link with several customers, as many times as they want. Every time someone opens this link, a new shopping cart is generated, exactly like the one created on inStore. Each cart accessed is also linked to the sales rep account and their code, if any.
 
@@ -34,7 +34,7 @@ The customers can access the cart, make the payment, and complete the purchase o
 
 The sales rep can also fill in the customer's delivery information, choose the payment method, and then share a **Payment Link**. That way, the shared cart link will have all the personal information already filled in, so the customer will only need to fill in the payment information to complete the purchase on their own device.  Check out how it works.
 
-![paymentlink EN](https://images.ctfassets.net/alneenqid6w5/7FjwJywOLKl0WjdC8U1IFc/b20493f0a9350f2ae8574441fc6bbc9f/paymentlink_EN.gif)
+![paymentlink EN](//images.ctfassets.net/alneenqid6w5/7FjwJywOLKl0WjdC8U1IFc/b20493f0a9350f2ae8574441fc6bbc9f/paymentlink_EN.gif)
 
 ## Why did we make this change?
 

@@ -1,5 +1,5 @@
 ---
-title: Checkout does not correctly calculate shipping value for single item that has free shipping and scheduled delivery
+title: 'Checkout does not correctly calculate shipping value for single item that has free shipping and scheduled delivery'
 id: 4jX7JT0Wxt9S4xBe9FSwO
 status: PUBLISHED
 createdAt: 2022-02-21T19:48:04.202Z

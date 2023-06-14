@@ -1,5 +1,5 @@
 ---
-title: As opções de PUP não mudam ao trocar o código postal nas lojas sem configuração de geoposicionamento
+title: 'As opções de PUP não mudam ao trocar o código postal nas lojas sem configuração de geoposicionamento'
 id: 6adZlmhb88zZsqifmWubO1
 status: PUBLISHED
 createdAt: 2022-08-30T20:06:15.411Z

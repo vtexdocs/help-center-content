@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo encontrar el píxel de Google Analytics?
+title: '¿Cómo encontrar el píxel de Google Analytics?'
 id: 1JbDuntFuFDiW96D3ZD5vv
 status: PUBLISHED
 createdAt: 2022-08-30T12:03:03.005Z

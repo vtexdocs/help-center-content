@@ -1,5 +1,5 @@
 ---
-title: Visión de conjunto de Layout
+title: 'Visión de conjunto de Layout'
 id: EmO8u2WBj2W4MUQCS8262
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:44.730Z

@@ -1,5 +1,5 @@
 ---
-title: Erros de integração de estoque com o Magazine Luiza
+title: 'Erros de integração de estoque com o Magazine Luiza'
 id: 2MDUBnEp0AJ7YHppzatW9L
 status: PUBLISHED
 createdAt: 2021-11-22T13:46:18.519Z

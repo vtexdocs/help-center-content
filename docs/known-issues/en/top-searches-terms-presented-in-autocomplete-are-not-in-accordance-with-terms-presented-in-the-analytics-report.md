@@ -1,5 +1,5 @@
 ---
-title: Top searches terms presented in autocomplete are not in accordance with terms presented in the Analytics report
+title: 'Top searches terms presented in autocomplete are not in accordance with terms presented in the Analytics report'
 id: 6nVNhs1r0jD7ozJmW37PjU
 status: PUBLISHED
 createdAt: 2023-01-27T19:33:51.552Z

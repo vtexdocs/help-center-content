@@ -1,5 +1,5 @@
 ---
-title: MELI automatic messages Mercado Livre - Messages
+title: 'MELI automatic messages Mercado Livre - Messages'
 id: 6WZy5RNesYJtJOaBAFnbkW
 status: PUBLISHED
 createdAt: 2023-05-04T11:22:21.762Z

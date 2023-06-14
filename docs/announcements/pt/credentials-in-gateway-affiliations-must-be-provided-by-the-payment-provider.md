@@ -1,5 +1,5 @@
 ---
-title: "Credenciais em afiliações de gateway devem ser obtidas pelo provedor de pagamentos"
+title: 'Credenciais em afiliações de gateway devem ser obtidas pelo provedor de pagamentos'
 id: 6RsAtRDmehojI076vYBpog
 status: PUBLISHED
 createdAt: 2022-10-13T20:36:50.162Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 slug: credenciais-em-afiliacoes-de-gateway-devem-ser-obtidas-pelo-provedor-de
 legacySlug: credenciais-em-afiliacoes-de-gateway-devem-ser-obtidas-pelo-provedor-de
-announcementImageID: ""
-announcementSynopsisPT: Credenciais em afiliações de gateway criadas pelo Admin devem ser substituídas até 31/10 por questões de segurança
+announcementImageID: ''
+announcementSynopsisPT: 'Credenciais em afiliações de gateway criadas pelo Admin devem ser substituídas até 31/10 por questões de segurança'
 ---
 
 Ao realizar a [configuração de afiliações de gateway](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444) no Admin para tornar pagamentos disponíveis na loja, lojistas devem inserir as credenciais para se identificarem ao provedor de pagamentos: **Application Key** e **Application Token**. Essas credenciais funcionam como usuário e senha e devem ser fornecidas pelo provedor de pagamentos.

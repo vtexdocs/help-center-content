@@ -1,5 +1,5 @@
 ---
-title: UI mostra um erro ao exportar arquivos de catálogo se o remetente do modelo de e-mail tiver seu próprio SMTP
+title: 'UI mostra um erro ao exportar arquivos de catálogo se o remetente do modelo de e-mail tiver seu próprio SMTP'
 id: 6MCsAvrOHbLTYjuxRHDsuU
 status: PUBLISHED
 createdAt: 2023-03-15T19:04:48.152Z

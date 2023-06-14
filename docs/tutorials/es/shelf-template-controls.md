@@ -1,5 +1,5 @@
 ---
-title: Controles del template de estante
+title: 'Controles del template de estante'
 id: tutorials_550
 status: DRAFT
 createdAt: 2017-04-27T22:01:02.387Z

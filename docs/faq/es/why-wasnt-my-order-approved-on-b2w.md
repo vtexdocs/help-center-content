@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué no ha sido aprobado mi pedido en B2W?
+title: '¿Por qué no ha sido aprobado mi pedido en B2W?'
 id: frequentlyAskedQuestions_683
 status: DRAFT
 createdAt: 2017-04-27T22:30:01.602Z

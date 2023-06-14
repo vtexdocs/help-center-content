@@ -1,5 +1,5 @@
 ---
-title: Cómo llenar las configuraciones del sistema
+title: 'Cómo llenar las configuraciones del sistema'
 id: tutorials_269
 status: PUBLISHED
 createdAt: 2017-04-27T22:10:58.854Z

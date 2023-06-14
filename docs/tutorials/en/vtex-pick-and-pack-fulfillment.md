@@ -1,5 +1,5 @@
 ---
-title: VTEX Pick and Pack: Fulfillment
+title: 'VTEX Pick and Pack: Fulfillment'
 id: 1zGUEItEEVsal6cuBEBNcA
 status: PUBLISHED
 createdAt: 2023-04-10T15:43:59.687Z

@@ -1,5 +1,5 @@
 ---
-title: O que é Gestão de Banners
+title: 'O que é Gestão de Banners'
 id: 26DlT24G2YHb4fmHtlRpSV
 status: DRAFT
 createdAt: 2019-11-25T18:07:33.094Z

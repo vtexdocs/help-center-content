@@ -1,5 +1,5 @@
 ---
-title: Setting up offline payment conditions using MercadoPago (Latin America)
+title: 'Setting up offline payment conditions using MercadoPago (Latin America)'
 id: 3IVvb48DeoKeWyOAwe2OME
 status: PUBLISHED
 createdAt: 2018-03-14T23:34:08.473Z

@@ -1,5 +1,5 @@
 ---
-title: Cascada de precios
+title: 'Cascada de precios'
 id: 2USbESztvGi80WMUEawMGq
 status: DRAFT
 createdAt: 2018-06-20T21:23:23.445Z
@@ -20,7 +20,7 @@ Con esta nueva feature, tenemos ahora una nueva entidad de precio llamada *Preci
 
 El siguiente gráfico explica cómo funciona la cascada de precios:
 
-![tabelapreco.es](https://images.ctfassets.net/alneenqid6w5/2rzzOs9CVogu74GM8Sih9s/9d095bddd449170787604aa602c9bb64/tabelapreco.es.png)
+![tabelapreco.es](//images.ctfassets.net/alneenqid6w5/2rzzOs9CVogu74GM8Sih9s/9d095bddd449170787604aa602c9bb64/tabelapreco.es.png)
 
 Cuando un precio para un SKU se solicita al módulo de precios:
 1. Un *Precio fijo* se selecciona segun sus criterios como **programación** y **cantidad mínima**.

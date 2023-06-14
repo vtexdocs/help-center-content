@@ -1,5 +1,5 @@
 ---
-title: Ajustar el mensaje en el puente para la integración con el vendedor WL - Facebook
+title: 'Ajustar el mensaje en el puente para la integración con el vendedor WL - Facebook'
 id: 1BkqKFPOSVBWoXnbVLzwP7
 status: PUBLISHED
 createdAt: 2022-06-17T13:35:57.858Z

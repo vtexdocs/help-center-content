@@ -1,5 +1,5 @@
 ---
-title: Registrar un muelle
+title: 'Registrar un muelle'
 id: 5XvQ1yLpxLlIKWRw1pSiyA
 status: DRAFT
 createdAt: 2019-08-21T18:17:35.897Z
@@ -27,7 +27,7 @@ Siga el procedimiento a continuación para registrar un muelle en su tienda:
 4. Rellene los campos del formulario de registro. Para comprender mejor el significado de cada campo, consulte a continuación la sección [Campos de Registro] (#campos-de-registro).
 5. Haga clic en el botón **Guardar**.
 
-![ES Cadastrar Doca GIF](https://images.ctfassets.net/alneenqid6w5/1nWWY7VL7GvqTA3s9TuQ3Z/470d02a8d6a602066a4585fd3db15208/ES_Cadastrar_Doca_GIF.gif)
+![ES Cadastrar Doca GIF](//images.ctfassets.net/alneenqid6w5/1nWWY7VL7GvqTA3s9TuQ3Z/470d02a8d6a602066a4585fd3db15208/ES_Cadastrar_Doca_GIF.gif)
 
 ### Campos de registro
 

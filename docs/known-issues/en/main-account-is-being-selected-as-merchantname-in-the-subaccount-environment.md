@@ -1,5 +1,5 @@
 ---
-title: Main account is being selected as "Merchant.Name" in the sub-account environment
+title: 'Main account is being selected as "Merchant.Name" in the sub-account environment'
 id: 51coXFBM2wtrJukH3oRESy
 status: PUBLISHED
 createdAt: 2023-03-29T20:54:19.877Z

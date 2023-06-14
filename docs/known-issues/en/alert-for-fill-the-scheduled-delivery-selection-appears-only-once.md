@@ -1,5 +1,5 @@
 ---
-title: Alert for fill the scheduled delivery selection appears only once
+title: 'Alert for fill the scheduled delivery selection appears only once'
 id: f668KUV24RqlpUvDvoIEm
 status: PUBLISHED
 createdAt: 2022-04-25T14:49:29.983Z

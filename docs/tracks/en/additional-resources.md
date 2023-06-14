@@ -1,5 +1,5 @@
 ---
-title: Additional resources
+title: 'Additional resources'
 id: 6loFGF4nXvgIVIzsyyJA5c
 status: DRAFT
 createdAt: 2021-12-21T11:41:24.544Z

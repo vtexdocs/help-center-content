@@ -1,5 +1,5 @@
 ---
-title: Habilitar Clustered Payment Conditions
+title: 'Habilitar Clustered Payment Conditions'
 id: 65uVP4M7BFTcO2Ps1wJzSv
 status: PUBLISHED
 createdAt: 2020-11-18T12:02:39.989Z

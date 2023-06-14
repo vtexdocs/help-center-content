@@ -1,5 +1,5 @@
 ---
-title: Mis tarjetas no funcionan para algunos conectores heredados
+title: 'Mis tarjetas no funcionan para algunos conectores heredados'
 id: Ln0mUfu3jDwcfndavSZkk
 status: PUBLISHED
 createdAt: 2022-05-28T12:03:48.090Z

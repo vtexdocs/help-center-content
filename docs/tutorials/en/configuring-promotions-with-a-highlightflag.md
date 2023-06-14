@@ -1,5 +1,5 @@
 ---
-title: Configuring promotions with highlights / flags
+title: 'Configuring promotions with highlights / flags'
 id: tutorials_2295
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:19.949Z
@@ -62,7 +62,7 @@ This configuration consists of editing the page template used for the product pa
 9. On the right side of the screen, click on **New Layout**.
 10. In the side menu, click on the layout with a red check mark, and in the __Template__ field check the name of the template used.
 
-![Layout com check - PT](https://images.ctfassets.net/alneenqid6w5/4GmSglkpk78c4M5hDZEgZX/ab47d3105213471fe370be0b11afcfab/image.png)
+![Layout com check - PT](//images.ctfassets.net/alneenqid6w5/4GmSglkpk78c4M5hDZEgZX/ab47d3105213471fe370be0b11afcfab/image.png)
 
 ![Template](//images.contentful.com/alneenqid6w5/2OzzBkU2YwsgCGeICsgIcg/61aaf502c787cb4f0468ab8cee821072/Template.png)
 

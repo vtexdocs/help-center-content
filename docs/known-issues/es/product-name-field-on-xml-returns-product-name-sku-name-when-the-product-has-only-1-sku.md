@@ -1,5 +1,5 @@
 ---
-title: El campo del nombre del producto en el XML devuelve el nombre del producto + el nombre del sku cuando el producto sólo tiene un sku
+title: 'El campo del nombre del producto en el XML devuelve el nombre del producto + el nombre del sku cuando el producto sólo tiene un sku'
 id: 7sNNzBe5pLn7oigDgoCKjv
 status: PUBLISHED
 createdAt: 2022-09-19T19:06:55.572Z

@@ -1,5 +1,5 @@
 ---
-title: Como es la estructura API REST del TaxHub
+title: 'Como es la estructura API REST del TaxHub'
 id: 3vYjLUeJlmse4u6qoCCKEi
 status: DRAFT
 createdAt: 2017-07-25T22:41:58.700Z

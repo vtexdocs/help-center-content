@@ -1,5 +1,5 @@
 ---
-title: La ciudad y el estado no se envían a PayPalPlus cuando sólo hay una dirección de recogida disponible.
+title: 'La ciudad y el estado no se envían a PayPalPlus cuando sólo hay una dirección de recogida disponible.'
 id: 5ScWTMLqT9oBMUYFc6WGo2
 status: PUBLISHED
 createdAt: 2023-06-01T13:47:08.477Z

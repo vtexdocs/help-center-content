@@ -1,5 +1,5 @@
 ---
-title: Lista de afiliaciones de gateway y antifraude por país
+title: 'Lista de afiliaciones de gateway y antifraude por país'
 id: 6K29SohDiEz6WDmZj6iiFI
 status: DRAFT
 createdAt: 2021-03-15T14:42:39.353Z

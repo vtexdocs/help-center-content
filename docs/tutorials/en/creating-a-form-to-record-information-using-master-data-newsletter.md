@@ -1,5 +1,5 @@
 ---
-title: Creating a form to record information using Master Data Newsletter (MD)
+title: 'Creating a form to record information using Master Data Newsletter (MD)'
 id: 2R0OaawoyAUKg0CmUKAGo0
 status: DRAFT
 createdAt: 2017-06-08T01:15:53.801Z

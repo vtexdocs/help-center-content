@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Todo Pago
+title: 'Configurar pagamento com Todo Pago'
 id: 4nO5e9gKLCsQmkAASouiMM
 status: DRAFT
 createdAt: 2018-03-01T19:18:03.810Z

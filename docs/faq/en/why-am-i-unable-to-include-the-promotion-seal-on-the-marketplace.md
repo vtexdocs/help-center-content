@@ -1,5 +1,5 @@
 ---
-title: Why am I unable to include the promotion seal on the marketplace?
+title: 'Why am I unable to include the promotion seal on the marketplace?'
 id: frequentlyAskedQuestions_702
 status: CHANGED
 createdAt: 2017-04-27T22:29:05.018Z

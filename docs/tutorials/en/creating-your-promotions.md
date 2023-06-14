@@ -1,5 +1,5 @@
 ---
-title: How to create a promotion
+title: 'How to create a promotion'
 id: tutorials_2576
 status: DRAFT
 createdAt: 2017-04-27T21:53:21.569Z

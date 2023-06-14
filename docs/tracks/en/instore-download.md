@@ -1,5 +1,5 @@
 ---
-title: inStore - Download
+title: 'inStore - Download'
 id: 6rl0nsLXdpwjrZgYuJQV0A
 status: DRAFT
 createdAt: 2020-05-19T12:20:15.255Z

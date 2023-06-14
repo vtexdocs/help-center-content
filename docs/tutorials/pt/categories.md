@@ -1,5 +1,5 @@
 ---
-title: Seller Portal: Categorias
+title: 'Seller Portal: Categorias'
 id: 798zOqqqbeec776xhcXSuV
 status: PUBLISHED
 createdAt: 2021-11-01T20:15:56.899Z
@@ -16,7 +16,7 @@ subcategory: 4hisB47iAVZk4r3SEmMoG
 
 A página **Categorias** permite visualizar e gerenciar a árvore de categorias cadastradas no Seller Portal. Você pode acessar a página no Admin VTEX em **Catálogo** > **Categorias**.
 
-![categorias-pt](https://images.ctfassets.net/alneenqid6w5/1ViCOvDbtriF91lt0Z6ztZ/8bbda2aa615c249815bae0424ead68c7/categorias-pt.PNG)
+![categorias-pt](//images.ctfassets.net/alneenqid6w5/1ViCOvDbtriF91lt0Z6ztZ/8bbda2aa615c249815bae0424ead68c7/categorias-pt.PNG)
 
 A partir da árvore de categorias, você pode realizar uma variedade de ações:
 

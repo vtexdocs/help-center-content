@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo se hace el cálculo del pago en plazos con interés compuesto?
+title: '¿Cómo se hace el cálculo del pago en plazos con interés compuesto?'
 id: frequentlyAskedQuestions_4758
 status: CHANGED
 createdAt: 2019-01-24T20:46:01.816Z

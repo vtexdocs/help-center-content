@@ -1,5 +1,5 @@
 ---
-title: Como migrar da Recorrência para o módulo Assinaturas 
+title: 'Como migrar da Recorrência para o módulo Assinaturas '
 id: 3nJ4pbsRHEyKmvoN0foYRi
 status: DRAFT
 createdAt: 2020-02-19T20:12:20.544Z

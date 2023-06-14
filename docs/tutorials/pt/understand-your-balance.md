@@ -1,5 +1,5 @@
 ---
-title: Entenda seu saldo
+title: 'Entenda seu saldo'
 id: 33D45FZsHtPLp2vFYID7eF
 status: DRAFT
 createdAt: 2020-06-24T22:06:51.676Z
@@ -31,7 +31,7 @@ A box apresenta dois valores. O primeiro, __Disponível__, apresenta o saldo em 
  
 Porém, isso não significa que você já pode movimentar o saldo completo. Os valores só podem ser movimentados depois que o recebível for liquidado na conta, que ocorre na data predeterminada de cada recebível.  
 
-![saldo_VTEXPAYMENT](https://images.ctfassets.net/alneenqid6w5/3gxHd6hbhoTaKTJAe5IFBJ/08939976b6a113437a5852310ea3b467/image.png)
+![saldo_VTEXPAYMENT](//images.ctfassets.net/alneenqid6w5/3gxHd6hbhoTaKTJAe5IFBJ/08939976b6a113437a5852310ea3b467/image.png)
 
 ### Como calcular o saldo a receber?
 

@@ -1,5 +1,5 @@
 ---
-title: Linking a store to a folder structure in CMS (binding)
+title: 'Linking a store to a folder structure in CMS (binding)'
 id: PxjfleOw6suCSO2uGWMMs
 status: PUBLISHED
 createdAt: 2018-01-10T13:47:05.447Z

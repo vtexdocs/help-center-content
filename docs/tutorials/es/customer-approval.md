@@ -1,5 +1,5 @@
 ---
-title: Aprobación de clientes
+title: 'Aprobación de clientes'
 id: 2fDHMMLJl00Pm6imiACU72
 status: PUBLISHED
 createdAt: 2021-03-30T16:54:48.752Z

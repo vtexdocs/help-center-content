@@ -1,5 +1,5 @@
 ---
-title: Conflictos con los filtros de precios y "isAvailablePerSalesChannel" en las búsquedas (Portal y Búsqueda) (de nuevo)
+title: 'Conflictos con los filtros de precios y "isAvailablePerSalesChannel" en las búsquedas (Portal y Búsqueda) (de nuevo)'
 id: 6dLv8lP69Em68ooydjaPzY
 status: PUBLISHED
 createdAt: 2022-02-24T13:24:42.299Z

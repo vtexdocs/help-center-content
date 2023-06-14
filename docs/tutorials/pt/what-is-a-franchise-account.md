@@ -1,5 +1,5 @@
 ---
-title: O que é conta franquia?
+title: 'O que é conta franquia?'
 id: kWQC6RkFSCUFGgY5gSjdl
 status: PUBLISHED
 createdAt: 2021-10-13T20:38:07.014Z

@@ -1,5 +1,5 @@
 ---
-title: Deactivating store SKUs and products
+title: 'Deactivating store SKUs and products'
 id: 4oviRZMwCkSEcugEyEmEwo
 status: PUBLISHED
 createdAt: 2017-10-31T03:53:15.045Z

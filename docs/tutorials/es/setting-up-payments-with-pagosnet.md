@@ -1,5 +1,5 @@
 ---
-title: Configurar pagos con PagosNet
+title: 'Configurar pagos con PagosNet'
 id: 76VFecWVzOS6CmaGSyM8aQ
 status: DRAFT
 createdAt: 2018-04-05T22:07:46.869Z

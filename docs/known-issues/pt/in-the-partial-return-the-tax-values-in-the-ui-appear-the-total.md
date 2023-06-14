@@ -1,5 +1,5 @@
 ---
-title: No retorno parcial, os valores do Imposto na IU aparecem o total
+title: 'No retorno parcial, os valores do Imposto na IU aparecem o total'
 id: 2I5a9hwrUo6s1htxOg8H1U
 status: PUBLISHED
 createdAt: 2022-04-11T13:15:06.455Z

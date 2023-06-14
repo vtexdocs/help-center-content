@@ -1,5 +1,5 @@
 ---
-title: Disclosure Layout can't be used properly when prop animated is set as true
+title: 'Disclosure Layout can't be used properly when prop animated is set as true'
 id: 14QweVpzLO8TsyI68H79ZG
 status: PUBLISHED
 createdAt: 2022-04-19T19:53:22.409Z

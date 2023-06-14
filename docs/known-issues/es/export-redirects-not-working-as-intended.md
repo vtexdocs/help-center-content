@@ -1,5 +1,5 @@
 ---
-title: Los redireccionamientos de exportación no funcionan como es debido
+title: 'Los redireccionamientos de exportación no funcionan como es debido'
 id: 5WoiJDQCSMDCwCn1auNwC4
 status: PUBLISHED
 createdAt: 2022-04-05T12:53:18.824Z

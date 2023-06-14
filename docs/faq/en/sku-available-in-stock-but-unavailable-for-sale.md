@@ -1,5 +1,5 @@
 ---
-title: SKU available in stock but unavailable for sale
+title: 'SKU available in stock but unavailable for sale'
 id: 6HIEgJSYM8S05IyWHnIcOn
 status: CHANGED
 createdAt: 2022-02-15T15:41:43.419Z

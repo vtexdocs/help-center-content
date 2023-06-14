@@ -1,5 +1,5 @@
 ---
-title: Registrar categoría
+title: 'Registrar categoría'
 id: tutorials_206
 status: PUBLISHED
 createdAt: 2017-04-27T22:15:39.383Z

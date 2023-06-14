@@ -1,5 +1,5 @@
 ---
-title: Filial (VTEX Tracking)
+title: 'Filial (VTEX Tracking)'
 id: 6mD8L390WPORidxGp9TKfp
 status: PUBLISHED
 createdAt: 2020-08-03T20:14:44.482Z

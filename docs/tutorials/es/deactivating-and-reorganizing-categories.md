@@ -1,5 +1,5 @@
 ---
-title: Desactivar y reorganizar categorías
+title: 'Desactivar y reorganizar categorías'
 id: tutorials_264
 status: PUBLISHED
 createdAt: 2017-04-27T22:11:16.693Z

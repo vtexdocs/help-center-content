@@ -1,5 +1,5 @@
 ---
-title: Grande Erro de Planilha de Importação/Exportação em Nova Administração de Cobranças
+title: 'Grande Erro de Planilha de Importação/Exportação em Nova Administração de Cobranças'
 id: 6xbBVR2Z7CCpIC0iCAKHgN
 status: PUBLISHED
 createdAt: 2023-02-16T19:04:08.298Z

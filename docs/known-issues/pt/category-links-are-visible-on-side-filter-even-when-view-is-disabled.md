@@ -1,5 +1,5 @@
 ---
-title: Links de categorias visíveis no filtro lateral mesmo com exibição desabilitada
+title: 'Links de categorias visíveis no filtro lateral mesmo com exibição desabilitada'
 id: 5NwWyNDLtmKu6kCu6KYgs6
 status: PUBLISHED
 createdAt: 2018-05-03T17:37:48.868Z

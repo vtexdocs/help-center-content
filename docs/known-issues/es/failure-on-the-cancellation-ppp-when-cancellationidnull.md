@@ -1,5 +1,5 @@
 ---
-title: Fallo en la cancelación (PPP) cuando cancellationId=null
+title: 'Fallo en la cancelación (PPP) cuando cancellationId=null'
 id: 4yNCRQ1xhA8lEp5AGRs5eu
 status: PUBLISHED
 createdAt: 2022-06-21T21:37:04.567Z

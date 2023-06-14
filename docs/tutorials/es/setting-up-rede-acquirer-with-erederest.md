@@ -1,5 +1,5 @@
 ---
-title: Configurar adquirente Rede con ERedeRest
+title: 'Configurar adquirente Rede con ERedeRest'
 id: 5TD6Ap9kiIUSiAMUsgYmcY
 status: PUBLISHED
 createdAt: 2018-04-12T15:47:44.783Z

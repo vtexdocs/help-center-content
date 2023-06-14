@@ -1,5 +1,5 @@
 ---
-title: "NEW DEADLINE: activate the new CDN until May 31"
+title: 'NEW DEADLINE: activate the new CDN until May 31'
 id: 1NHO2lx3tyWaqcwMG6u62q
 status: PUBLISHED
 createdAt: 2018-04-20T21:14:47.734Z
@@ -10,8 +10,8 @@ productTeam: Reliability
 author: authors_24
 slug: new-deadline-activate-the-new-cdn-until-may-31
 legacySlug: new-deadline-activate-the-new-cdn-until-may-31
-announcementImageID: ""
-announcementSynopsisEN: Enable HTTPS, update the CNAME and request the new CDN before the due date. This will prevent your store from crashing.
+announcementImageID: ''
+announcementSynopsisEN: 'Enable HTTPS, update the CNAME and request the new CDN before the due date. This will prevent your store from crashing.'
 ---
 
 Because many stores couldn't perform the necessary actions to activate the new CDN on time, we've decided to extend the deadline until __May 31st__.

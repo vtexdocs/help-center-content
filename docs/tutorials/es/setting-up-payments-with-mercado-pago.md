@@ -1,5 +1,5 @@
 ---
-title: Configurar pagos con Mercado Pago
+title: 'Configurar pagos con Mercado Pago'
 id: 2FPdhTma6QywUmwEcEUGoS
 status: PUBLISHED
 createdAt: 2018-03-08T21:11:28.158Z

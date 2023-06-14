@@ -1,5 +1,5 @@
 ---
-title: Atualizar o nome do usuário na seção de login
+title: 'Atualizar o nome do usuário na seção de login'
 id: 2jshd2ApTq7hKNLbQiCWdS
 status: PUBLISHED
 createdAt: 2022-03-14T17:20:40.732Z

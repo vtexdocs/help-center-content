@@ -1,5 +1,5 @@
 ---
-title: Configurações de preços
+title: 'Configurações de preços'
 id: 3hbBtCzNUBrj8GaWgCtSWN
 status: PUBLISHED
 createdAt: 2020-10-14T18:43:49.750Z

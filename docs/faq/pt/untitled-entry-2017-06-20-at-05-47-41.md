@@ -1,5 +1,5 @@
 ---
-title: Pedido recorrente não criado
+title: 'Pedido recorrente não criado'
 id: 4n6o8yuEqkyG44ei20IWSm
 status: DRAFT
 createdAt: 2017-06-20T17:47:41.946Z

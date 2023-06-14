@@ -1,5 +1,5 @@
 ---
-title: How to correct product value divergence with the Magazine Luiza integration?
+title: 'How to correct product value divergence with the Magazine Luiza integration?'
 id: oqLsT8s8KSlRsEWxu6jX9
 status: DRAFT
 createdAt: 2019-03-20T16:38:03.548Z

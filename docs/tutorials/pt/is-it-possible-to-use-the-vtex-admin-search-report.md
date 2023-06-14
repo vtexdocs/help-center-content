@@ -1,5 +1,5 @@
 ---
-title: É possível usar o relatório de busca no Admin da VTEX?
+title: 'É possível usar o relatório de busca no Admin da VTEX?'
 id: 2LNfAq56ta6omUiW4A4Eoc
 status: DRAFT
 createdAt: 2018-06-19T15:12:20.765Z

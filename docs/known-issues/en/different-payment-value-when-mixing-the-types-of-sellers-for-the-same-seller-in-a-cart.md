@@ -1,5 +1,5 @@
 ---
-title: Different payment value when mixing the types of sellers for the same seller in a cart
+title: 'Different payment value when mixing the types of sellers for the same seller in a cart'
 id: 7txlcqRF5XLB014Z31pXaL
 status: PUBLISHED
 createdAt: 2023-05-08T22:25:15.897Z

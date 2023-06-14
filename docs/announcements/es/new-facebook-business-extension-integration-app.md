@@ -1,5 +1,5 @@
 ---
-title: "Nueva aplicación de integración con Facebook Business Extension"
+title: 'Nueva aplicación de integración con Facebook Business Extension'
 id: 2utLq1XYqIgnQE7Xj0nWer
 status: PUBLISHED
 createdAt: 2021-10-04T14:32:22.349Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: nueva-aplicacion-de-integracion-con-facebook-business-extension
 legacySlug: 
-announcementImageID: ""
-announcementSynopsisES: VTEX ha desarrollado una nueva aplicación para que integres tu tienda con Facebook Business Extension (FBE).
+announcementImageID: ''
+announcementSynopsisES: 'VTEX ha desarrollado una nueva aplicación para que integres tu tienda con Facebook Business Extension (FBE).'
 ---
 
 Facebook te permite anunciar tus productos y tener una presencia estratégica en redes sociales como el propio Facebook e Instagram, garantizando una mayor visibilidad para tu marca. Ahora existe una plataforma de Facebook que integra servicios y nuevas funcionalidades para empresas, Facebook Business Extension (FBE).

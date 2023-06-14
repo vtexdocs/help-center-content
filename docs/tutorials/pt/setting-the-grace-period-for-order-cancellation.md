@@ -1,5 +1,5 @@
 ---
-title: Configurar o tempo de carência para cancelamento do pedido
+title: 'Configurar o tempo de carência para cancelamento do pedido'
 id: jYFdnPDtNm4WCEkYWqqC
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:41.819Z

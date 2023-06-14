@@ -1,5 +1,5 @@
 ---
-title: VTEX Pick and Pack
+title: 'VTEX Pick and Pack'
 id: 1OOops3WrUyz7e0bnhkfXU
 status: PUBLISHED
 createdAt: 2023-04-10T15:22:56.572Z

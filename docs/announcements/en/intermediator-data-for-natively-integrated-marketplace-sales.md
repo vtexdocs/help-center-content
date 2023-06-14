@@ -1,5 +1,5 @@
 ---
-title: "Intermediator data for natively integrated marketplace sales"
+title: 'Intermediator data for natively integrated marketplace sales'
 id: 76L5juzkCZa8Bn5vl6U9Cp
 status: PUBLISHED
 createdAt: 2021-03-31T13:19:17.099Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: intermediator-data-for-natively-integrated-marketplace-sales
 legacySlug: intermediator-data-for-natively-integrated-marketplace-sales
-announcementImageID: ""
-announcementSynopsisEN: Intermediator information for natively integrated marketplace sales is now being made available through the Orders API.
+announcementImageID: ''
+announcementSynopsisEN: 'Intermediator information for natively integrated marketplace sales is now being made available through the Orders API.'
 ---
 
 Stores that use VTEX’s native integrations with marketplaces now have access to new data fields. Namely, intermediator and payment method information for sales made in those marketplaces. These integrations are with:

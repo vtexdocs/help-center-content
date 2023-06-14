@@ -1,5 +1,5 @@
 ---
-title: El control $product.InsertSku no está considerando la ordenación definida en el registro del producto
+title: 'El control $product.InsertSku no está considerando la ordenación definida en el registro del producto'
 id: laM7GlhASOuGisu2e8KGO
 status: PUBLISHED
 createdAt: 2018-01-11T20:32:44.037Z

@@ -1,5 +1,5 @@
 ---
-title: Las API "Quién vio también vio", "Quién vio también compró" y "Quién compró también compró" no siempre funcionan como se esperaba.
+title: 'Las API "Quién vio también vio", "Quién vio también compró" y "Quién compró también compró" no siempre funcionan como se esperaba.'
 id: KawgHAWqUlCvCGCAaHxDj
 status: PUBLISHED
 createdAt: 2022-12-07T12:32:13.613Z

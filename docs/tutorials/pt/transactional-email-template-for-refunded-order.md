@@ -1,5 +1,5 @@
 ---
-title: Template de e-mail transacional para pedido estornado
+title: 'Template de e-mail transacional para pedido estornado'
 id: 5uy6FCBb6DLyIJlSDeM10G
 status: PUBLISHED
 createdAt: 2020-09-08T12:27:15.441Z

@@ -1,5 +1,5 @@
 ---
-title: Definição da política comercial
+title: 'Definição da política comercial'
 id: 747gwmk5oMkyb6FtwLo17B
 status: PUBLISHED
 createdAt: 2021-02-08T19:01:29.489Z

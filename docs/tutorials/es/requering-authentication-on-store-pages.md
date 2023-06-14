@@ -1,5 +1,5 @@
 ---
-title: Exigir autenticación en páginas de la tienda
+title: 'Exigir autenticación en páginas de la tienda'
 id: 3iPNIUgcr60Es24Y4YIwms
 status: DRAFT
 createdAt: 2018-01-22T22:30:59.147Z

@@ -1,5 +1,5 @@
 ---
-title: Atualização de anexos e criação de validação API em campos de valores de domínio que não funcionam
+title: 'Atualização de anexos e criação de validação API em campos de valores de domínio que não funcionam'
 id: 1NAwwi7C65xM2G61uaTLrB
 status: PUBLISHED
 createdAt: 2023-02-09T16:10:03.814Z

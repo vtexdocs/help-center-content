@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Qhantuy
+title: 'Configurar pago con Qhantuy'
 id: 4KO2beK0scqVy4lrrs3Myq
 status: PUBLISHED
 createdAt: 2023-04-20T13:44:39.377Z

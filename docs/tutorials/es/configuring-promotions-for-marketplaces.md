@@ -1,5 +1,5 @@
 ---
-title: Configurar promoción para marketplace
+title: 'Configurar promoción para marketplace'
 id: tutorials_406
 status: PUBLISHED
 createdAt: 2017-04-27T22:06:28.854Z

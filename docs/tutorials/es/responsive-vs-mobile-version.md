@@ -1,5 +1,5 @@
 ---
-title: Responsivo × Versión Mobile
+title: 'Responsivo × Versión Mobile'
 id: tutorials_576
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:54.196Z
@@ -54,7 +54,7 @@ Principales pantallas mobile utilizadas (puede haber variaciones según el dispo
 
 #### Principales elementos visuales reconocidos en los dispositivos móviles
 
-![menu_mobile_version es](https://images.ctfassets.net/alneenqid6w5/4mispPtTBC2yCoAWQcMQkw/cd547422d5bba04fb7ed04e744229625/modelo_menu_ESPANHOL.png)
+![menu_mobile_version es](//images.ctfassets.net/alneenqid6w5/4mispPtTBC2yCoAWQcMQkw/cd547422d5bba04fb7ed04e744229625/modelo_menu_ESPANHOL.png)
 
 #### ¡La calidad es indiferente al tamaño!
 

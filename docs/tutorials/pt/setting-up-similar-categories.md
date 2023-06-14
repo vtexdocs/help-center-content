@@ -1,5 +1,5 @@
 ---
-title: Configurar Categoria Similar
+title: 'Configurar Categoria Similar'
 id: tutorials_204
 status: PUBLISHED
 createdAt: 2017-04-27T22:16:03.892Z

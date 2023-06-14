@@ -1,5 +1,5 @@
 ---
-title: What is the Sponsor user
+title: 'What is the Sponsor user'
 id: 56Bd0KpwbvAji1aFs94xdA
 status: PUBLISHED
 createdAt: 2020-01-07T20:45:50.858Z
@@ -25,7 +25,7 @@ If your user has role to the Account management module, you can verify who is th
 
 By clicking on the desired account name, the Sponsor user's name and email are in the __Contact__ section.
 
-![usuario-master-contato en](https://images.ctfassets.net/alneenqid6w5/3ezUM1WmYEcIkGOoKm2s8e/0d14ffe3cce780a79f6111b46943db80/contato_usuario_master_en.png)
+![usuario-master-contato en](//images.ctfassets.net/alneenqid6w5/3ezUM1WmYEcIkGOoKm2s8e/0d14ffe3cce780a79f6111b46943db80/contato_usuario_master_en.png)
 
 Among the actions that only the Sponsor user can take are:
 - Reindex the catalog.

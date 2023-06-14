@@ -1,5 +1,5 @@
 ---
-title: Drag and Drop issue on Site Editor
+title: 'Drag and Drop issue on Site Editor'
 id: 4DubZ5C0dmqKGQqAZ6nZjo
 status: PUBLISHED
 createdAt: 2022-10-25T15:31:15.485Z

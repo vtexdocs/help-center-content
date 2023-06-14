@@ -1,5 +1,5 @@
 ---
-title: Setting up My Account
+title: 'Setting up My Account'
 id: 23Ayv5D6b86UBnYfoXqZL1
 status: PUBLISHED
 createdAt: 2019-02-19T21:35:31.855Z

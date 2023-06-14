@@ -1,5 +1,5 @@
 ---
-title: Setting up a Smart Campaign
+title: 'Setting up a Smart Campaign'
 id: 5YIxQy9TpuaEkgqYo2IaSa
 status: PUBLISHED
 createdAt: 2018-10-30T22:53:57.677Z

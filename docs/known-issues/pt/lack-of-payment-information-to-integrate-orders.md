@@ -1,5 +1,5 @@
 ---
-title: Falta de informações de pagamento para integrar pedidos (quando ocorre retentativas com o conector)
+title: 'Falta de informações de pagamento para integrar pedidos (quando ocorre retentativas com o conector)'
 id: 5WMBV2GRuo2mqmyCkKmwsG
 status: PUBLISHED
 createdAt: 2018-03-19T13:30:56.334Z

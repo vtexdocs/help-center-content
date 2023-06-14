@@ -1,5 +1,5 @@
 ---
-title: O envio enxuto sendo forçado mesmo quando os itens têm os mesmos SLAs, mas em uma ordenação diferente
+title: 'O envio enxuto sendo forçado mesmo quando os itens têm os mesmos SLAs, mas em uma ordenação diferente'
 id: 2YTqsVWPm73msQZVQX9x80
 status: PUBLISHED
 createdAt: 2022-05-13T17:26:15.513Z

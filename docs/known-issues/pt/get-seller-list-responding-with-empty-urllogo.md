@@ -1,5 +1,5 @@
 ---
-title: Get seller List respondendo com UrlLogo vazio
+title: 'Get seller List respondendo com UrlLogo vazio'
 id: 1kKsre07DDa56hsEgXnYCz
 status: PUBLISHED
 createdAt: 2022-02-25T13:28:50.337Z

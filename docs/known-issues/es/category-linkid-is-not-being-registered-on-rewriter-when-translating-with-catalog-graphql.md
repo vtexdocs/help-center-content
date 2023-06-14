@@ -1,5 +1,5 @@
 ---
-title: El linkId de la categoría no se registra en la reescritura cuando se traduce con el catálogo graphql
+title: 'El linkId de la categoría no se registra en la reescritura cuando se traduce con el catálogo graphql'
 id: 7b7KOHlxyIO4zKy2xrMuSD
 status: PUBLISHED
 createdAt: 2022-09-08T21:27:03.855Z

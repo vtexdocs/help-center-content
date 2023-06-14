@@ -1,5 +1,5 @@
 ---
-title: Registering a category
+title: 'Registering a category'
 id: tutorials_206
 status: PUBLISHED
 createdAt: 2017-04-27T22:15:39.383Z

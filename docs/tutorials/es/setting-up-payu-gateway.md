@@ -1,5 +1,5 @@
 ---
-title: Configurar gateway PayU
+title: 'Configurar gateway PayU'
 id: 36zWOAFHmwIAoWIEU2Y08q
 status: PUBLISHED
 createdAt: 2018-03-27T15:25:04.654Z

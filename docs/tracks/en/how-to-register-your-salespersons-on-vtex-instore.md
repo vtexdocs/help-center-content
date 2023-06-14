@@ -1,5 +1,5 @@
 ---
-title: How to register your salespersons on VTEX inStore
+title: 'How to register your salespersons on VTEX inStore'
 id: 4CazVGbuookKSACceaMgUc
 status: DRAFT
 createdAt: 2018-03-15T20:23:48.390Z

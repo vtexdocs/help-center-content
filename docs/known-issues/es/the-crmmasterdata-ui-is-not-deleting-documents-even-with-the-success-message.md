@@ -1,5 +1,5 @@
 ---
-title: La interfaz de usuario de CRM/masterdata no elimina los documentos incluso con el mensaje de éxito
+title: 'La interfaz de usuario de CRM/masterdata no elimina los documentos incluso con el mensaje de éxito'
 id: 68de6QDUomjPPDXf9P14c3
 status: PUBLISHED
 createdAt: 2023-03-27T20:03:54.217Z

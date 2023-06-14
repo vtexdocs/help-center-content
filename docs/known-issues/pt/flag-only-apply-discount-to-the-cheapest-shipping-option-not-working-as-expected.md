@@ -1,5 +1,5 @@
 ---
-title: Bandeira "Aplicar desconto apenas à opção de remessa mais barata" não funcionando como esperado
+title: 'Bandeira "Aplicar desconto apenas à opção de remessa mais barata" não funcionando como esperado'
 id: 15irjH6rNkHhkBeRNn9RUI
 status: PUBLISHED
 createdAt: 2022-10-05T18:01:57.821Z

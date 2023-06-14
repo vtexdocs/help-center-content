@@ -1,5 +1,5 @@
 ---
-title: El pago forzaba el paso de envío en modo de entrega mientras la dirección y la opción de punto de recogida se definían a través de la API
+title: 'El pago forzaba el paso de envío en modo de entrega mientras la dirección y la opción de punto de recogida se definían a través de la API'
 id: 7nBzQb8KZ3hXy2VfvWh7he
 status: PUBLISHED
 createdAt: 2022-04-11T17:35:29.050Z

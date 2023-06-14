@@ -1,5 +1,5 @@
 ---
-title: Posso ordenar os produtos de acordo com o critério da loja?
+title: 'Posso ordenar os produtos de acordo com o critério da loja?'
 id: qfWKX2ZekoEoayiyo0uuA
 status: DRAFT
 createdAt: 2019-01-24T20:45:49.100Z

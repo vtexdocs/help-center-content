@@ -1,5 +1,5 @@
 ---
-title: Cómo configurar XML
+title: 'Cómo configurar XML'
 id: tutorials_242
 status: PUBLISHED
 createdAt: 2017-04-27T22:12:41.700Z

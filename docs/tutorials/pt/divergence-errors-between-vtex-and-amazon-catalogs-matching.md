@@ -1,5 +1,5 @@
 ---
-title: Erros de divergência entre catálogos VTEX e Amazon (matching)
+title: 'Erros de divergência entre catálogos VTEX e Amazon (matching)'
 id: 69uJ31MeSrtrT03kcf1kP2
 status: DRAFT
 createdAt: 2022-02-11T01:16:09.855Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Zenki
+title: 'Configurar pago con Zenki'
 id: 6LK7wMg0OB39UQKoZILoNL
 status: PUBLISHED
 createdAt: 2023-03-30T17:34:01.758Z

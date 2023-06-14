@@ -1,5 +1,5 @@
 ---
-title: Why VTEX search engine ignores some terms
+title: 'Why VTEX search engine ignores some terms'
 id: 2AbmsbKOogeaeuoESGaWAs
 status: PUBLISHED
 createdAt: 2019-01-24T20:30:45.346Z

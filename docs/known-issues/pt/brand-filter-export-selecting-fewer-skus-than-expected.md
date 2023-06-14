@@ -1,5 +1,5 @@
 ---
-title: Exportação do filtro de marca Selecionando menos SKUs do que o esperado
+title: 'Exportação do filtro de marca Selecionando menos SKUs do que o esperado'
 id: ZceuBTJ3FOCuWdDBRectO
 status: PUBLISHED
 createdAt: 2022-06-13T14:28:10.704Z

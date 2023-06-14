@@ -1,5 +1,5 @@
 ---
-title: Setting up MercadoPagoV2 sub-acquirer
+title: 'Setting up MercadoPagoV2 sub-acquirer'
 id: 1y6k8lCSzJYfPs2yObNFo4
 status: PUBLISHED
 createdAt: 2021-11-30T18:49:42.837Z

@@ -1,5 +1,5 @@
 ---
-title: Precios caducados no borrables/actualizables debido al límite de variación de precios
+title: 'Precios caducados no borrables/actualizables debido al límite de variación de precios'
 id: JX9nUFCmGWtOzlabxI54h
 status: PUBLISHED
 createdAt: 2022-03-16T20:45:31.592Z

@@ -1,5 +1,5 @@
 ---
-title: How VTEX integration interfaces work
+title: 'How VTEX integration interfaces work'
 id: tutorials_743
 status: DRAFT
 createdAt: 2017-04-27T21:59:00.743Z

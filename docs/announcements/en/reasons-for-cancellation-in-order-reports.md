@@ -1,5 +1,5 @@
 ---
-title: "Reasons for cancellation in order reports"
+title: 'Reasons for cancellation in order reports'
 id: 46wIwISm6Df2LJgNePpFYK
 status: PUBLISHED
 createdAt: 2021-05-28T15:59:23.942Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: reasons-for-cancellation-in-order-reports
 legacySlug: reasons-for-cancellation-in-order-reports
-announcementImageID: ""
-announcementSynopsisEN: We have added a Cancellation Data column to order reports to give more visibility into the reasons for cancellation.
+announcementImageID: ''
+announcementSynopsisEN: 'We have added a Cancellation Data column to order reports to give more visibility into the reasons for cancellation.'
 ---
 
 You can use order reports to analyze store performance or as packing slips, to facilitate store logistics.

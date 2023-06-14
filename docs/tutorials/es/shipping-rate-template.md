@@ -1,5 +1,5 @@
 ---
-title: Plantilla de flete
+title: 'Plantilla de flete'
 id: tutorials_127
 status: PUBLISHED
 createdAt: 2019-02-22T19:36:18.509Z
@@ -180,7 +180,7 @@ Para facilitar el uso de los términos en nuestra documentación utilizamos «pe
 
 Vea el siguiente ejemplo de cómo rellenar los campos, teniendo en cuenta el formato aceptado en cada columna. 
 
-![modelo_planilhanumerica](https://images.ctfassets.net/alneenqid6w5/15Dc2cfsXWbIwSt2vypWN3/20628e9acf5336c3fefcc84d334c08ec/freight_-_Debora_Moreno.png)
+![modelo_planilhanumerica](//images.ctfassets.net/alneenqid6w5/15Dc2cfsXWbIwSt2vypWN3/20628e9acf5336c3fefcc84d334c08ec/freight_-_Debora_Moreno.png)
 
 ### Plantilla para Correios
 
@@ -197,7 +197,7 @@ El envío de la plantilla se realiza en el registro o en la edición de la _Pol�
 3. Después de descargar la plantilla modelo y [completar los campos](#completar-los-campos-de-la-plantilla), cargue el archivo en la sección Cargar tarifas de envío, como se ilustra en la siguiente imagen. 
 4. Al finalizar, haga clic en `Guardar cambios`.
 
-  ![upload tarifas envioES](https://images.ctfassets.net/alneenqid6w5/1qNl0ZaHhZMpshuBWRQhs9/b788e6926bffa8aa5a70db06ca1ccba7/upload_tarifas_envioES.png)
+  ![upload tarifas envioES](//images.ctfassets.net/alneenqid6w5/1qNl0ZaHhZMpshuBWRQhs9/b788e6926bffa8aa5a70db06ca1ccba7/upload_tarifas_envioES.png)
 
 <div class="alert alert-warning">
 Para registrar una <b>nueva</b> Política de envío se debe completar otros campos además de la plantilla de flete.  Aprenda cómo crear, editar y completar todos los campos necesarios en el artículo <a href="https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140">Política de envío</a>.

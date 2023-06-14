@@ -1,5 +1,5 @@
 ---
-title: Cómo mostrar la vitrina con productos de un único seller
+title: 'Cómo mostrar la vitrina con productos de un único seller'
 id: 6mMXWCrxGEYegIoSkSmiOQ
 status: DRAFT
 createdAt: 2019-01-10T14:06:30.745Z

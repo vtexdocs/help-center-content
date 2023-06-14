@@ -1,5 +1,5 @@
 ---
-title: Alterar a ordem de uma especificação de SKU no Admin pode fazer a página não funcionar corretamente
+title: 'Alterar a ordem de uma especificação de SKU no Admin pode fazer a página não funcionar corretamente'
 id: 5MuozhOKaYLGShytNH5k8Z
 status: PUBLISHED
 createdAt: 2022-08-10T13:57:53.322Z

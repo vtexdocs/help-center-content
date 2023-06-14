@@ -1,5 +1,5 @@
 ---
-title: Guía de integración para Marketplace no alojada en la plataforma VTEX
+title: 'Guía de integración para Marketplace no alojada en la plataforma VTEX'
 id: SMBUYFVEfZr0m0ttOULxj
 status: PUBLISHED
 createdAt: 2019-09-16T12:59:18.174Z

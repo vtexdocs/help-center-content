@@ -1,5 +1,5 @@
 ---
-title: Vale não pode ser configurado para uso restrito no caso de CNPJ
+title: 'Vale não pode ser configurado para uso restrito no caso de CNPJ'
 id: 4k3FdaYP3WUqYsAeUSGY22
 status: PUBLISHED
 createdAt: 2017-04-11T21:26:42.491Z

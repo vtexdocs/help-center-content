@@ -1,5 +1,5 @@
 ---
-title: O desconto nominal não está sendo distribuído entre todos os itens do carrinho
+title: 'O desconto nominal não está sendo distribuído entre todos os itens do carrinho'
 id: gt1qMqN71YkaHuZgk9Ibs
 status: PUBLISHED
 createdAt: 2023-01-25T17:33:59.274Z

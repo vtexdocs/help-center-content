@@ -1,5 +1,5 @@
 ---
-title: Facebook: preguntas frecuentes
+title: 'Facebook: preguntas frecuentes'
 id: 3t2RoCcVfXgmGrQ70PmPxr
 status: PUBLISHED
 createdAt: 2021-06-16T19:36:32.098Z
@@ -36,7 +36,7 @@ Lo primero que debe verificar en este escenario es si el SKU realmente no posee 
 
 En el caso de que el SKU posea un precio, verifique el status del SKU porque el error también puede estar relacionado con la situación de activo/inactivo. La mejor manera de hacerlo es realizando una simulación de checkout:
 
-![face faq01](https://images.ctfassets.net/alneenqid6w5/6PFO5g1ZrT0uv7uWLdWNmT/c7b62f12066bdb95f7c45d533b2bb460/face_faq01.JPG)
+![face faq01](//images.ctfassets.net/alneenqid6w5/6PFO5g1ZrT0uv7uWLdWNmT/c7b62f12066bdb95f7c45d533b2bb460/face_faq01.JPG)
 
 En esta simulación es importante analizar los campos:  
 
@@ -54,7 +54,7 @@ Este proceso es recomendado cuando la integración está teniendo algún problem
 
 #### Eliminar la App de integración de VTEX en Facebook 
 1. Acceda a Facebook utilizando su cuenta vinculada a VTEX. 
-2. En la esquina superior derecha de la pantalla, haga **clic en el botón** <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/7bplP3pn7Pu5gpfYKGHUjQ/688fda65e48070afcf18f57e396c2b22/sua_conta_fb.JPG" />
+2. En la esquina superior derecha de la pantalla, haga **clic en el botón** <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/7bplP3pn7Pu5gpfYKGHUjQ/688fda65e48070afcf18f57e396c2b22/sua_conta_fb.JPG" />
 3. Seleccione la opción **Configuración y privacidad**, luego haga clic en **Configuración**.
 4. Haga clic en **Integraciones comerciales**.
 5. Seleccione la opción **VTEX Integration** y haga clic en **Eliminar**.
@@ -63,7 +63,7 @@ Este proceso es recomendado cuando la integración está teniendo algún problem
 1. Acceda a la página de [Facebook Business Manager](https://business.facebook.com/).
 2. Seleccione la opción **Más herramientas**.
 3. Haga clic en **Configuración del negocio**.
-4. Seleccione el catálogo de VTEX que desea eliminar y haga clic en la papelera <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/6zFRTeiTa9xkTlafUVBIcK/d2c5a40219dbee8084d22f76d0b88109/excluir_fb.JPG" />
+4. Seleccione el catálogo de VTEX que desea eliminar y haga clic en la papelera <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6zFRTeiTa9xkTlafUVBIcK/d2c5a40219dbee8084d22f76d0b88109/excluir_fb.JPG" />
 5. Haga clic en **Confirmar**.
 
 #### Eliminar la configuración de integración de Facebook en VTEX

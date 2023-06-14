@@ -1,5 +1,5 @@
 ---
-title: Creating a personalized Master Data query
+title: 'Creating a personalized Master Data query'
 id: tutorials_799
 status: PUBLISHED
 createdAt: 2017-04-27T21:57:44.496Z

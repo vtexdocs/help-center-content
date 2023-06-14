@@ -1,5 +1,5 @@
 ---
-title: Product Created with ID = 0.
+title: 'Product Created with ID = 0.'
 id: 5eMPxXAxxdJUKWMi1i8tWl
 status: PUBLISHED
 createdAt: 2022-05-04T15:30:22.045Z

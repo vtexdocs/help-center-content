@@ -1,5 +1,5 @@
 ---
-title: Controle do botão de compra (BuyButton)
+title: 'Controle do botão de compra (BuyButton)'
 id: 2rIQKH1Vny0kuCasQGSYGu
 status: PUBLISHED
 createdAt: 2018-02-09T18:10:33.586Z

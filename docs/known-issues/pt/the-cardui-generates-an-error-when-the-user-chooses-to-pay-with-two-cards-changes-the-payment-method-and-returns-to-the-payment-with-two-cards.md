@@ -1,5 +1,5 @@
 ---
-title:  O cartão-ui gera um erro quando o usuário escolhe pagar com dois cartões, muda a forma de pagamento e retorna ao pagamento com dois cartões
+title: ' O cartão-ui gera um erro quando o usuário escolhe pagar com dois cartões, muda a forma de pagamento e retorna ao pagamento com dois cartões'
 id: 1LZL3Gq40b7TRjCLnASacW
 status: PUBLISHED
 createdAt: 2022-11-30T19:03:35.002Z

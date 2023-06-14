@@ -1,5 +1,5 @@
 ---
-title: Credit card payment flow
+title: 'Credit card payment flow'
 id: TEYVv2fcVkH7et9n3OnBS
 status: CHANGED
 createdAt: 2019-11-12T15:51:05.024Z

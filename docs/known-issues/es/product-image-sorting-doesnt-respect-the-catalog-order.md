@@ -1,5 +1,5 @@
 ---
-title: La ordenación de las imágenes de los productos no respeta el orden del catálogo
+title: 'La ordenación de las imágenes de los productos no respeta el orden del catálogo'
 id: 4E9tl6c3lOOkFsOaemJfVg
 status: PUBLISHED
 createdAt: 2022-10-21T16:43:20.702Z

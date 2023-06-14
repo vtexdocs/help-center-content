@@ -1,5 +1,5 @@
 ---
-title: E-mails Transacionais para pedidos de Assinatura
+title: 'E-mails Transacionais para pedidos de Assinatura'
 id: 2NYHqHMRqZ43Cn6s84ZCB5
 status: PUBLISHED
 createdAt: 2020-02-11T15:13:38.504Z
@@ -38,7 +38,7 @@ Não é preciso ativar o envio de e-mails manualmente, pois são enviados de for
 5. Desmarque a caixa `Ativar envio de e-mail?`, que por default, vem marcada como ativa.
 6. Clique em **Salvar**.
 
-![PT Subscription Message Center](https://images.ctfassets.net/alneenqid6w5/3g9hWtw1XUcYlUlwGCzagX/8161e2468d88999ec8505a46274b55f1/PT_Subscription_Message_Center.png)
+![PT Subscription Message Center](//images.ctfassets.net/alneenqid6w5/3g9hWtw1XUcYlUlwGCzagX/8161e2468d88999ec8505a46274b55f1/PT_Subscription_Message_Center.png)
 
 ## Templates default da Central de Mensagens
 

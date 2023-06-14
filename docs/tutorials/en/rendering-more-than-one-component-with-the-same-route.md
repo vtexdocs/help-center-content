@@ -1,5 +1,5 @@
 ---
-title: Rendering more than one component with the same route
+title: 'Rendering more than one component with the same route'
 id: 1ZmJCD1eycemCeeKoCoa8e
 status: DRAFT
 createdAt: 2018-02-21T23:07:00.476Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar Samsung Pay como meio de pagamento 
+title: 'Configurar Samsung Pay como meio de pagamento '
 id: 5Yj9rgzOCVYuGmAumQlfpP
 status: PUBLISHED
 createdAt: 2020-08-26T13:40:16.356Z

@@ -1,5 +1,5 @@
 ---
-title: Choosing between a multi-store architecture or an additional environment
+title: 'Choosing between a multi-store architecture or an additional environment'
 id: 4HRNpa1OCKZ5YzP8yiilBL
 status: PUBLISHED
 createdAt: 2023-05-25T16:33:11.450Z

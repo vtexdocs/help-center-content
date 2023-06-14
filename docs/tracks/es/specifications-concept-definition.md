@@ -1,5 +1,5 @@
 ---
-title: Especificaciones de producto e de SKU
+title: 'Especificaciones de producto e de SKU'
 id: 2NQoBv8m4Yz3oQaLgDRagP
 status: PUBLISHED
 createdAt: 2019-06-11T12:52:45.235Z

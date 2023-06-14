@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Khipu
+title: 'Configurar pago con Khipu'
 id: RcHQjURWDXa0doL15DiUj
 status: PUBLISHED
 createdAt: 2023-03-24T19:34:06.675Z

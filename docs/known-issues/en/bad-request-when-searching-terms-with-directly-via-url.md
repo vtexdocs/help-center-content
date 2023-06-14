@@ -1,5 +1,5 @@
 ---
-title: Bad Request when searching terms with "%" directly via URL
+title: 'Bad Request when searching terms with "%" directly via URL'
 id: 3gdZ8egQRa4zcNRe2f5CbT
 status: PUBLISHED
 createdAt: 2023-03-21T22:51:46.273Z

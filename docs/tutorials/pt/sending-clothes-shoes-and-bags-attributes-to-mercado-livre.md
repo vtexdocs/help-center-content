@@ -1,5 +1,5 @@
 ---
-title: Envio dos atributos de roupas, calçados e bolsas para o Mercado Livre
+title: 'Envio dos atributos de roupas, calçados e bolsas para o Mercado Livre'
 id: 4UKx1bbG6sqKeYW8WmYSiq
 status: DRAFT
 createdAt: 2017-12-21T14:01:04.543Z

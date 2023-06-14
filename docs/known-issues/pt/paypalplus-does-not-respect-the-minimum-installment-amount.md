@@ -1,5 +1,5 @@
 ---
-title: O PayPalPlus não respeita o valor mínimo da parcela
+title: 'O PayPalPlus não respeita o valor mínimo da parcela'
 id: 1IGzNPtXaaUsPkaq0qRgfK
 status: PUBLISHED
 createdAt: 2022-03-26T23:00:59.044Z

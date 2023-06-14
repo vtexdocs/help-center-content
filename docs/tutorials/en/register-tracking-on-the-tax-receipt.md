@@ -1,5 +1,5 @@
 ---
-title: Register tracking on the tax receipt
+title: 'Register tracking on the tax receipt'
 id: 5acsOh2bssscYgmEKc8wK8
 status: PUBLISHED
 createdAt: 2017-08-04T14:10:31.584Z

@@ -1,5 +1,5 @@
 ---
-title: Criar promoção de campanha
+title: 'Criar promoção de campanha'
 id: 1ChYXhK2AQGuS6wAqS8Ume
 status: PUBLISHED
 createdAt: 2018-12-02T18:57:52.792Z
@@ -121,7 +121,7 @@ Para que a promoção seja válida para todas as políticas comerciais, deixe a 
 
 Nesta seção, você precisa escolher se a promoção será aplicada a todos os produtos cadastrados na sua loja ou apenas a produtos específicos, conforme ilustrado abaixo.
 
-![promocoes-restricao-pt](https://images.ctfassets.net/alneenqid6w5/55xxIduLJDJrwQMuk4OgRu/359155bac11f7ac88a4d12a041cf8b96/image.png)
+![promocoes-restricao-pt](//images.ctfassets.net/alneenqid6w5/55xxIduLJDJrwQMuk4OgRu/359155bac11f7ac88a4d12a041cf8b96/image.png)
 
 Caso deseje aplicar a promoção a todo o seu catálogo, selecione a opção **Aplicar a todos os produtos**.
 
@@ -131,7 +131,7 @@ Você pode incluir ou excluir **Categorias**, **Marcas**, **Coleções**, **Prod
 
 Veja um exemplo de preenchimento abaixo. Nesse caso, participam da promoção todos os produtos da categoria **Home Appliances** cuja marca é **Brastemp**, com exceção do produto **Refrigerator 100**.
 
-![exemplo-pt](https://images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/df98627884fc75e822e742473131299d/image.png)
+![exemplo-pt](//images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/df98627884fc75e822e742473131299d/image.png)
 
 Nos campos **Produtos** e **SKUs**, existe a opção de fazer o upload de um arquivo **.txt** com um ID de produto ou de SKU por linha, em vez de selecionar um produto ou um SKU de cada vez. Para isso, você precisa clicar em **Escolher arquivo** e selecionar o arquivo **.txt** desejado.
 

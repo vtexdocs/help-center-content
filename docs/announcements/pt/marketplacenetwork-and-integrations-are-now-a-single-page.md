@@ -1,5 +1,5 @@
 ---
-title: "Marketplace Network e Integrações agora são uma só página"
+title: 'Marketplace Network e Integrações agora são uma só página'
 id: 1nTEu10ZCyLAkav33iI2at
 status: PUBLISHED
 createdAt: 2023-04-18T12:45:16.666Z
@@ -10,13 +10,13 @@ productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slug: marketplace-network-e-integracoes-agora-sao-uma-so-pagina
 legacySlug: marketplace-network-e-integracoes-agora-sao-uma-so-pagina
-announcementImageID: ""
-announcementSynopsisPT: Unificamos o Marketplace Network e o módulo de Integrações, agora eles são a Marketplaces e Integrações.
+announcementImageID: ''
+announcementSynopsisPT: 'Unificamos o Marketplace Network e o módulo de Integrações, agora eles são a Marketplaces e Integrações.'
 ---
 
 Para centralizar as oportunidades de conexão com marketplaces VTEX e marketplaces externos, unificamos as páginas de Integrações e Marketplace Network, chamando-se agora __Marketplaces e Integrações__. A atualização estará disponível em todas as contas VTEX a partir do dia 03 de maio de 2023. 
 
-![Marketplace e integrações](https://images.ctfassets.net/alneenqid6w5/6O436Pjv91m3GWuWFsmeAD/563d08e7d74c4621111ae6a677725235/Marketplaces_e_Integra____es.png)
+![Marketplace e integrações](//images.ctfassets.net/alneenqid6w5/6O436Pjv91m3GWuWFsmeAD/563d08e7d74c4621111ae6a677725235/Marketplaces_e_Integra____es.png)
 
 ## O que mudou?  
 

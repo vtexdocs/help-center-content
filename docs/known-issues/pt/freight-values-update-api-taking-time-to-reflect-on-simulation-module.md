@@ -1,5 +1,5 @@
 ---
-title: Atualização de valores de frete API que leva tempo para refletir sobre o módulo de simulação
+title: 'Atualização de valores de frete API que leva tempo para refletir sobre o módulo de simulação'
 id: 7Gclw70xDYX34fOah2aWAa
 status: PUBLISHED
 createdAt: 2022-07-26T17:47:10.996Z

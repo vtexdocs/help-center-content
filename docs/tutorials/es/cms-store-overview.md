@@ -1,5 +1,5 @@
 ---
-title: Tienda - Visión general
+title: 'Tienda - Visión general'
 id: 3Eat287G6wUi6Mly5rW5Fs
 status: PUBLISHED
 createdAt: 2022-01-06T13:45:16.048Z
@@ -18,7 +18,7 @@ La página **Tienda** te permite realizar configuraciones de SEO, habilitar las 
 
 En el Admin VTEX, accede a **Configuración de la tienda > Storefront > Tienda** y descubre las principales herramientas disponibles en la interfaz.
 
-![CMS Tienda](https://images.ctfassets.net/alneenqid6w5/7tUjcDHM8LXijxN9i5Oll0/1493fec4898f2f28e98bdd749b507fbf/store-es-overview.png)
+![CMS Tienda](//images.ctfassets.net/alneenqid6w5/7tUjcDHM8LXijxN9i5Oll0/1493fec4898f2f28e98bdd749b507fbf/store-es-overview.png)
 
 <div style="background-color:#FFF3CD; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px">
   Antes de realizar cambios en la <b>pestaña Advanced (Avanzado)</b>, ponte en contacto con tu equipo de desarrolladores y consulta nuestra <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-best-practices-for-optimizing-performance#enabling-store-settings">documentación sobre la optimización del rendimiento</a> para mais informações.

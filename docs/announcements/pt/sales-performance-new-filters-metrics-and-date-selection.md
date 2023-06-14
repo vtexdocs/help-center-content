@@ -1,5 +1,5 @@
 ---
-title: "Performance de Vendas: novos filtros e seleção de datas"
+title: 'Performance de Vendas: novos filtros e seleção de datas'
 id: ABcPlgtpDmSJTFgA3GCAr
 status: PUBLISHED
 createdAt: 2022-07-05T13:14:52.015Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: performance-de-vendas-novos-filtros-e-selecao-de-datas
 legacySlug: performance-de-vendas-novos-filtros-e-selecao-de-datas
-announcementImageID: ""
-announcementSynopsisPT: Agora você pode selecionar datas personalizadas e usar novos filtros e métricas no Performance de Vendas.
+announcementImageID: ''
+announcementSynopsisPT: 'Agora você pode selecionar datas personalizadas e usar novos filtros e métricas no Performance de Vendas.'
 ---
 
 A página [Performance de Vendas](https://help.vtex.com/pt/v4/docs/performance-de-vendas--6gx46RGRzWO8qgaVck7PRp) está em constante evolução para que lojistas extraiam cada vez mais inteligência de negócio com a VTEX. 

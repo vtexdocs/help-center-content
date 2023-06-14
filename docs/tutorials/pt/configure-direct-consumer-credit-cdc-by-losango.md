@@ -1,5 +1,5 @@
 ---
-title: Configurar crédito direto ao consumidor (CDC) da Losango
+title: 'Configurar crédito direto ao consumidor (CDC) da Losango'
 id: 4vfoIULHTs8S9t3WDyldCE
 status: PUBLISHED
 createdAt: 2020-11-23T20:29:21.353Z
@@ -42,16 +42,16 @@ Após a aprovação do seu cadastro, a Losango enviará um script pré-aprovado 
 Tendo em mãos o script pré-aprovado de customização, siga as instruções abaixo:
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Storefront** > **Checkout**, ou digite **Checkout** na barra de busca no topo da página.
-2. Clique no ícone <img src="https:https://images.ctfassets.net/alneenqid6w5/3d4KBPLr2piZGC48KD3qgh/6f808efc5450f36faa773d4c7d848b68/CDC-Losango-1.png" style="width: 23px;" /> correspondente ao site que será customizado
-    ![CDC-Losango-2](https://images.ctfassets.net/alneenqid6w5/7iUE1B4xlYF96gMs0oMfUn/2a55fcd4cc8f0239a0785634e29a18df/CDC-Losango-2.png)
+2. Clique no ícone <img src="https://images.ctfassets.net/alneenqid6w5/3d4KBPLr2piZGC48KD3qgh/6f808efc5450f36faa773d4c7d848b68/CDC-Losango-1.png" style="width: 23px;" /> correspondente ao site que será customizado
+    ![CDC-Losango-2](//images.ctfassets.net/alneenqid6w5/7iUE1B4xlYF96gMs0oMfUn/2a55fcd4cc8f0239a0785634e29a18df/CDC-Losango-2.png)
 3. Clique na aba Código e selecione o arquivo `checkout6-custom.js`.
-    ![CDC-Losango-3](https://images.ctfassets.net/alneenqid6w5/248J5RJvoSq2olzQoPsNKn/3598c85f81649667f21d4d5fa40d71b4/CDC-Losango-3.png)
+    ![CDC-Losango-3](//images.ctfassets.net/alneenqid6w5/248J5RJvoSq2olzQoPsNKn/3598c85f81649667f21d4d5fa40d71b4/CDC-Losango-3.png)
 4. Cole o script pré-aprovado de customização __no fim do campo de texto__.
 5. Clique no botão __Salvar__ para confirmar as alterações.
 
 Com isso, a opção de pagamento __Losango em até 24x__ aparecerá corretamente no checkout, assim que as [condições de pagamento](#criar-condicoes-de-pagamento) associadas forem ativadas. A escolha do meio de pagamento na VTEX aparecerá como na imagem abaixo.
 
-![CDC-Losango-4](https:https://images.ctfassets.net/alneenqid6w5/5dzHuCYPxHpy88Q2RjfZeJ/4ad6d24322184f7f756a9d994ed63e94/CDC-Losango-4.png)
+![CDC-Losango-4](https://images.ctfassets.net/alneenqid6w5/5dzHuCYPxHpy88Q2RjfZeJ/4ad6d24322184f7f756a9d994ed63e94/CDC-Losango-4.png)
 
 <div class="alert alert-warning" role="alert"><strong>Atenção:</strong> Modificar de forma incorreta os scripts de customização do checkout podem quebrar sua loja ou parar as vendas. Em caso de erros, por favor, apague o conteúdo deste script.</div>
 
@@ -60,23 +60,23 @@ Com isso, a opção de pagamento __Losango em até 24x__ aparecerá corretamente
 Com os dados configurados na base de dados digital da Losango, siga as instruções abaixo:
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página. 
-2. Acesse a aba **Afiliações de Gateways** e clique no ícone <img src="https:https://images.ctfassets.net/alneenqid6w5/3VXFXGXxCMc9cRMehCiuth/6ae901b40c89d05d4c252feb8df14f5a/CDC-Losango-5.png" style="width: 23px;" /> e escolha o conector __Losango-CDC__.
+2. Acesse a aba **Afiliações de Gateways** e clique no ícone <img src="https://images.ctfassets.net/alneenqid6w5/3VXFXGXxCMc9cRMehCiuth/6ae901b40c89d05d4c252feb8df14f5a/CDC-Losango-5.png" style="width: 23px;" /> e escolha o conector __Losango-CDC__.
 
-    ![CDC-Losango-6](https:https://images.ctfassets.net/alneenqid6w5/790PjCjRzKrtrEIrr3kYWl/85e1b1132be72cc4766e18d869e2040b/CDC-Losango-6.png)
+    ![CDC-Losango-6](https://images.ctfassets.net/alneenqid6w5/790PjCjRzKrtrEIrr3kYWl/85e1b1132be72cc4766e18d869e2040b/CDC-Losango-6.png)
 
 3. Escolha o __Nome da afiliação__ e selecione o modo desejado (Teste / Produção).
 4. Preencha os campos __Application Key__ e __Application Token__ com os dados fornecidos pela Losango. Não se esqueça de __Salvar__ ao concluir o preenchimento.
 
-![CDC-Losango-7](https:https://images.ctfassets.net/alneenqid6w5/50xjhDq3CwFR522i1k5sZS/982931d897d8739dc3950dda408c5e2a/CDC-Losango-7.png)
+![CDC-Losango-7](https://images.ctfassets.net/alneenqid6w5/50xjhDq3CwFR522i1k5sZS/982931d897d8739dc3950dda408c5e2a/CDC-Losango-7.png)
 
 ### Criar condições de pagamento
 
 Para finalizar a configuração do CDC Online Losango e disponibilizar este meio de pagamento na sua loja, siga as instruções abaixo:
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página. 
-2. Acesse a aba **Condições de Pagamento**. Clique no ícone <img src="https:https://images.ctfassets.net/alneenqid6w5/3VXFXGXxCMc9cRMehCiuth/6ae901b40c89d05d4c252feb8df14f5a/CDC-Losango-5.png" style="width: 23px;" /> e escolha __Losango__.
+2. Acesse a aba **Condições de Pagamento**. Clique no ícone <img src="https://images.ctfassets.net/alneenqid6w5/3VXFXGXxCMc9cRMehCiuth/6ae901b40c89d05d4c252feb8df14f5a/CDC-Losango-5.png" style="width: 23px;" /> e escolha __Losango__.
 
-    ![CDC-Losango-8](https://images.ctfassets.net/alneenqid6w5/1sGB3vlu73A9Ms6EmbIeeG/e22c65c4e528e23f2c00caef0a930323/CDC-Losango-8.png)
+    ![CDC-Losango-8](//images.ctfassets.net/alneenqid6w5/1sGB3vlu73A9Ms6EmbIeeG/e22c65c4e528e23f2c00caef0a930323/CDC-Losango-8.png)
 
 3. Configure e ative a [condição de pagamento](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) com as regras desejadas. Não se esqueça de __Salvar__ ao concluir o preenchimento.
 

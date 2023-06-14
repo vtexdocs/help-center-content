@@ -1,5 +1,5 @@
 ---
-title: "Cambios en el nombre y acciones restringidas disponibles para el usuario master"
+title: 'Cambios en el nombre y acciones restringidas disponibles para el usuario master'
 id: 3XBZFTugszl4PmPCMhOtkh
 status: PUBLISHED
 createdAt: 2021-11-08T21:06:05.854Z
@@ -10,8 +10,8 @@ productTeam: Identity
 author: 4SqDPmUJIIz2KMMKgiyqKl
 slug: cambios-en-el-nombre-y-acciones-restringidas-disponibles-para-el-usuario
 legacySlug: cambios-en-el-nombre-y-acciones-restringidas-disponibles-para-el-usuario
-announcementImageID: ""
-announcementSynopsisES: La gestión de las credenciales de autenticación ya no está restringida al usuario titular.
+announcementImageID: ''
+announcementSynopsisES: 'La gestión de las credenciales de autenticación ya no está restringida al usuario titular.'
 ---
 
 La agilización de los procesos es fundamental para que las operaciones de comercio digital acompañen el ritmo de la naturaleza dinámica y acelerada de los mercados globales. Sin embargo, ciertas acciones críticas de mantenimiento y autorización se deben gestionar de forma centralizada, dado el potencial impacto negativo de los errores. 
@@ -26,7 +26,7 @@ Tenga la seguridad de que no nos equivocamos. Tras un cuidadoso análisis, nuest
 
 Pero eso no es todo. También renovamos por completo el proceso para cambiar el usuario titular de una cuenta, transformándolo en un flujo de transferencia basado en invitaciones que es totalmente auditable. 
 
-![Gestion titular gif](https://images.ctfassets.net/alneenqid6w5/ha7KIfmy1QJQvmpnXJN5R/0faedf49cfdee92ffdaabbdb3a624b04/Announcement_ES.gif)
+![Gestion titular gif](//images.ctfassets.net/alneenqid6w5/ha7KIfmy1QJQvmpnXJN5R/0faedf49cfdee92ffdaabbdb3a624b04/Announcement_ES.gif)
 
 Consulte [Transferir la propiedad de la tienda](https://help.vtex.com/es/tutorial/transferir-la-propiedad-de-la-tienda) para conocer más detalles sobre este nuevo proceso. 
 

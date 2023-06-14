@@ -1,5 +1,5 @@
 ---
-title: Meta Tags
+title: 'Meta Tags'
 id: 5tQGiPLGMIE8NT7IwneBiC
 status: PUBLISHED
 createdAt: 2022-08-30T21:50:51.345Z

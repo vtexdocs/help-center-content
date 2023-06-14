@@ -1,5 +1,5 @@
 ---
-title: Tutorial: Criando a Entidade de Dados SKU no Master Data com JSON Schema
+title: 'Tutorial: Criando a Entidade de Dados SKU no Master Data com JSON Schema'
 id: RGHAXehCyQCkMSoq0A6iS
 status: DRAFT
 createdAt: 2017-06-26T19:00:34.174Z

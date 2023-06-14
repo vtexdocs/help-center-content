@@ -1,5 +1,5 @@
 ---
-title: Configuring a marketplace trade policy
+title: 'Configuring a marketplace trade policy'
 id: tutorials_404
 status: PUBLISHED
 createdAt: 2017-04-27T22:06:38.350Z
@@ -36,14 +36,14 @@ Creating a new trade policy is the first step in defining the conditions that ap
 
 This configuration can be done in the *Store setup* module, on the *Trade policies* page. You must [create a new trade policy](https://help.vtex.com/en/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) when the settings for catalog, price, promotions, logistics and payments are different between the marketplaces in which sellers sell their products. 
 
-![EN Add Politica comercial](https://images.ctfassets.net/alneenqid6w5/7sIaT2Sf52QFfZ5qOfESLa/e74c92388925fad7a099da236e616122/EN_Add_Politica_comercial.jpg)
+![EN Add Politica comercial](//images.ctfassets.net/alneenqid6w5/7sIaT2Sf52QFfZ5qOfESLa/e74c92388925fad7a099da236e616122/EN_Add_Politica_comercial.jpg)
 
 ## Orders management
 After creating a trade policy, you must associate it with each marketplace in which the seller sells products by adding them as [affiliates](https://help.vtex.com/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0). This is how sellers identify which trade policy operates in each marketplace. If your store sells products in three different marketplaces, you must create three affiliates: one for each marketplace.
 
 This can be configured in the *Settings* page of the *Order management* module, where you can add affiliates. Even if you create several, it is important to note that only one trade policy will operate in the marketplace at a time. 
 
-![EN Afiliado](https://images.ctfassets.net/alneenqid6w5/44WIEfxcntAXCrsoveWKv2/9f59fda62a85e1df3ac2c14737853493/EN_Afiliado.jpg)
+![EN Afiliado](//images.ctfassets.net/alneenqid6w5/44WIEfxcntAXCrsoveWKv2/9f59fda62a85e1df3ac2c14737853493/EN_Afiliado.jpg)
 *In the example above, the affiliate "Amazon" is associated with trade policy "1".* 
 
 ## Promotions
@@ -56,7 +56,7 @@ This configuration can be done in the *Promotions* module in all [promotions](ht
 
 If no trade policy is selected, the promotion will be available in all sales channels.
 
-![EN Promoções Politica Comercial](https://images.ctfassets.net/alneenqid6w5/78iUQ59I9DDJS1lI4mJjA1/e0e31dc018a61402bbacd629a4632275/EN_Promo____es_Politica_Comercial.jpg)
+![EN Promoções Politica Comercial](//images.ctfassets.net/alneenqid6w5/78iUQ59I9DDJS1lI4mJjA1/e0e31dc018a61402bbacd629a4632275/EN_Promo____es_Politica_Comercial.jpg)
 
 *In the example above, the promotion will only apply to orders from the "Marketplace-BRL" and "Argentina-ARS" trade policies, where the store operates as a seller. The promotion will not be available on the VTEX storefront.* 
 
@@ -65,7 +65,7 @@ Sellers who process payment for their product sales in a marketplace can create 
 
 This configuration can be done in the *Payments* module by [creating a special condition](https://help.vtex.com/en/tutorial/condicoes-especiais--tutorials_456) and associating it with the trade policies of your choice.
 
-![EN Pagamento Politica comercial](https://images.ctfassets.net/alneenqid6w5/1B0eL9YPiRsRSgQUSgHqBJ/f7ca24768f12e60df2f86469dd380fe4/EN_Pagamento_Politica_comercial.jpg)
+![EN Pagamento Politica comercial](//images.ctfassets.net/alneenqid6w5/1B0eL9YPiRsRSgQUSgHqBJ/f7ca24768f12e60df2f86469dd380fe4/EN_Pagamento_Politica_comercial.jpg)
 
 *In the example above, the payment condition is associated with the "Marketplace" trade policy. This makes the payment condition available only to sales channels associated with this commercial policy.*
 
@@ -78,7 +78,7 @@ This configuration can be done in the VTEX *Catalog*, when [adding products](htt
 We do not recommend attaching trade policies to collections, when determining the product assortment, especially for external marketplaces. When a product is withdrawn from the collection associated to a trade policy, the VTEX system does not warn the marketplace of that update, making the product still available in the marketplace.
   </div>
 
-![EN Catálogo Politica](https://images.ctfassets.net/alneenqid6w5/cXoXS1QSCxmbh89SwVfVP/43607a48ab2590d2f58a50c8281f4879/EN_Cat__logo_Politica.jpg)
+![EN Catálogo Politica](//images.ctfassets.net/alneenqid6w5/cXoXS1QSCxmbh89SwVfVP/43607a48ab2590d2f58a50c8281f4879/EN_Cat__logo_Politica.jpg)
 
 *In the example above, the product will only be available to sales channels using the "Carrefour" and "Marketplace" trade policies.*
 
@@ -90,7 +90,7 @@ This configuration can be done in the *Prices* module by means of trade policies
 - [Price rules](https://help.vtex.com/en/tutorial/configurar-regra-de-preco-para-politica-comercial--5LQMLwcUcEGCWK6SMI6cEM): to determine a markup for specific categories and brands.
 - [Fixed prices](https://help.vtex.com/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3HxF2u5VwidqnUGnFoKdDy): to differentiate prices for specific products.
 
-![EN Regra de preço](https://images.ctfassets.net/alneenqid6w5/5088id7auaoQLD6AMxS30F/1e299eba8c5e102543d8db27175a9086/EN_Regra_de_pre__o.jpg)
+![EN Regra de preço](//images.ctfassets.net/alneenqid6w5/5088id7auaoQLD6AMxS30F/1e299eba8c5e102543d8db27175a9086/EN_Regra_de_pre__o.jpg)
 
 *In the example above, the price rule applied a markup to the "Marketplace" trade policy for products in the "Fera-Fashion category".*
 
@@ -100,11 +100,11 @@ Sellers can set up specific [logistics routes](https://help.vtex.com/en/tracks/l
 
 Both settings can be configured on the *Shipping strategy* page. When creating a [loading dock](https://help.vtex.com/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/4Rr5XpzAzUPv2Eo9Mh7cEj), you must indicate which trade policies will be associated with it. This makes the shipping policies associated with this loading dock available to the linked trade policies. Then, you must link the desired [inventory](https://help.vtex.com/en/tutorial/gerenciar-estoque) to a loading dock to make the inventory available to the trade policies associated with the loading dock.
 
-![EN Doca politica](https://images.ctfassets.net/alneenqid6w5/1peTICHA1NJwPUAvPbsoMb/55d339d25b6d5e94095f237f87fe0246/EN_Doca_politica.jpg)
+![EN Doca politica](//images.ctfassets.net/alneenqid6w5/1peTICHA1NJwPUAvPbsoMb/55d339d25b6d5e94095f237f87fe0246/EN_Doca_politica.jpg)
 
 *In the example above, the loading dock is associated with the commercial policy "Marketplace", which will be linked to the carrier "Carrier A".*
 
-![EN Estoque Politica](https://images.ctfassets.net/alneenqid6w5/6ZyxXxLtPVaFgkb5LY9cVi/ad0a2568d1f7be56399c798d274d526a/EN_Estoque_Politica.jpg)
+![EN Estoque Politica](//images.ctfassets.net/alneenqid6w5/6ZyxXxLtPVaFgkb5LY9cVi/ad0a2568d1f7be56399c798d274d526a/EN_Estoque_Politica.jpg)
 *In the example above, the inventory is associated with "Dock A", so this will be the inventory used by the trade policies linked to "Dock A".* 
 
 ## Integrations
@@ -112,7 +112,7 @@ Trade policies also apply to all integrations in which your store sells products
 
 [Integrations](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete#vender-em-marketplace) can be configured in the *Settings* page of the *Integrations* module. Usually, each channel requires specific commercial conditions, but it is possible that different channels share the same trade policy.
 
-![EN Integracao Politica](https://images.ctfassets.net/alneenqid6w5/2Zg5NRNmE30MNvB7cxXyso/dd3b2b730cfd16c4a9bbcca8b253c473/EN_Integracao_Politica.jpg)
+![EN Integracao Politica](//images.ctfassets.net/alneenqid6w5/2Zg5NRNmE30MNvB7cxXyso/dd3b2b730cfd16c4a9bbcca8b253c473/EN_Integracao_Politica.jpg)
 *In the example above, the "Marketplace" trade policy applies to the Google Shopping integration.*
 
 ## Learn more

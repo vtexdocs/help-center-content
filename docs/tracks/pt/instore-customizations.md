@@ -1,5 +1,5 @@
 ---
-title: Como customizar o inStore
+title: 'Como customizar o inStore'
 id: 4mwdBrFsmE2EPE0FzgX28b
 status: DRAFT
 createdAt: 2020-06-28T16:45:29.940Z
@@ -35,11 +35,11 @@ Alternativamente, você pode navegar até o arquivo de configuração a partir d
 
 No menu principal, clique em __Checkout__ e, em seguida, clique no símbolo de engrenagem da loja, como indica a imagem abaixo.
 
-![20. inStore Customizations (intro) - 1](https://images.ctfassets.net/alneenqid6w5/4LKGRGjbprogSqW8fZfFDS/2a0919796851d030aa6dd86d93942620/20._inStore_Customizations__intro__-_1.png)
+![20. inStore Customizations (intro) - 1](//images.ctfassets.net/alneenqid6w5/4LKGRGjbprogSqW8fZfFDS/2a0919796851d030aa6dd86d93942620/20._inStore_Customizations__intro__-_1.png)
 
 Clique, então, na aba __Código__ e depois no arquivo checkout-instore-custom.js, que se encontra na lista de arquivos à direita.
 
-![20. inStore Customizations (intro) - 2](https://images.ctfassets.net/alneenqid6w5/6YhI3qfwXzJEn4jnkWHPKC/e64eb7aa7ae72a71deb0308bffa65592/20._inStore_Customizations__intro__-_2.png)
+![20. inStore Customizations (intro) - 2](//images.ctfassets.net/alneenqid6w5/6YhI3qfwXzJEn4jnkWHPKC/e64eb7aa7ae72a71deb0308bffa65592/20._inStore_Customizations__intro__-_2.png)
 
 ## Alterando o arquivo de customização do inStore
 
@@ -47,7 +47,7 @@ O `checkout-instore-custom.js` é um arquivo JavaScript que aceita uma série de
 
 Para fazer qualquer alteração, basta incluir ou modificar as linhas de código diretamente na caixa de edição do arquivo, no Admin da VTEX, e finalmente clicar no botão de __Salvar__, como indica a imagem abaixo.
 
-![20. inStore Customizations (intro) - 3](https://images.ctfassets.net/alneenqid6w5/4MRxgu5pLvZYTa8hGObbH1/96489ddb7665b702da05e72fd6d7e1bf/20._inStore_Customizations__intro__-_3.png)
+![20. inStore Customizations (intro) - 3](//images.ctfassets.net/alneenqid6w5/4MRxgu5pLvZYTa8hGObbH1/96489ddb7665b702da05e72fd6d7e1bf/20._inStore_Customizations__intro__-_3.png)
 
 <div class="alert alert-warning">
 Siga sempre as instruções de customização desta documentação e faça apenas as alterações conforme indicadas aqui.

@@ -1,5 +1,5 @@
 ---
-title: Catálogo - Definición de concepto
+title: 'Catálogo - Definición de concepto'
 id: 3rA2tTpIoEXdv2nzC27zxR
 status: PUBLISHED
 createdAt: 2019-05-20T20:32:58.602Z
@@ -17,7 +17,7 @@ El menú **Catálogo** contiene las funcionalidades relativas al surtido de prod
 
 El menú **Catálogo** de tu Admin actualizado reúne las páginas donde gestionas tu catálogo, los precios y el stock de tu *ecommerce*.
 
-![visao-geral-produto-ES](https://images.ctfassets.net/alneenqid6w5/6hg7IQ4sv6sphRtywSsDMQ/ad397a99b3db19ea9187ef5667577a26/image.png)
+![visao-geral-produto-ES](//images.ctfassets.net/alneenqid6w5/6hg7IQ4sv6sphRtywSsDMQ/ad397a99b3db19ea9187ef5667577a26/image.png)
 
 El **Catálogo** permite la configuración de funcionalidades relacionadas con el surtido de productos del *ecommerce*, como sus categorías, marcas y colecciones, por ejemplo. Para vender tus productos, debes registrarlos en esta sección.
 

@@ -1,5 +1,5 @@
 ---
-title: MercadoPagoV1 fails to authorize transactions when it comes with phone user data value as 0.
+title: 'MercadoPagoV1 fails to authorize transactions when it comes with phone user data value as 0.'
 id: 2C7ULAPQxqHjn8e1d0StFc
 status: PUBLISHED
 createdAt: 2023-03-27T15:35:09.810Z

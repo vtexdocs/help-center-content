@@ -1,5 +1,5 @@
 ---
-title: Cómo funciona la indexación
+title: 'Cómo funciona la indexación'
 id: tutorials_256
 status: PUBLISHED
 createdAt: 2017-04-27T22:11:43.688Z
@@ -26,7 +26,7 @@ Cada vez que se modifican los datos del listado de productos como se muestra a c
 
 Una vez que el producto esté marcado para reindexar, éste queda con el texto _indexação pendente_ en el listado de productos del admin. El indexador toma esos productos y los coloca en una fila, con un tiempo de espera de 2 minutos, para que sean procesados. Pasados los 2 minutos el producto queda disponible para el consumo de la indexación. En ese proceso, todos los módulos de VTEX son consultados, actualizando precio y disponibilidad para cada política comercial. El tempo medio hasta finalizar este proceso es de 4 minutos.
 
-![diagramaespanhol](https://images.ctfassets.net/alneenqid6w5/SR9YuOnYK2Ku0CW2K2iEO/26f0b18db9ec54d5055cc377d911c2b0/diagramaespanhol.png)
+![diagramaespanhol](//images.ctfassets.net/alneenqid6w5/SR9YuOnYK2Ku0CW2K2iEO/26f0b18db9ec54d5055cc377d911c2b0/diagramaespanhol.png)
 
 ## Informe de Indexación
 
@@ -41,7 +41,7 @@ En él, se dividen los productos en cada paso del proceso de indexación y en pe
 - **Total Indexado**, **Aún no en la fila** y **Total en la fila**: : se refiere a las etapas del producto dentro del proceso &#8211; Ainda não enfileirado son los productos que se modificaron en menos de 2 minutos y Total na fila son aquellos que ya entraron en proceso de indexación, tras esos 2 minutos.
 - **En la fila recientemente**, **En la fila entre 1 y 2 hs**, **En la fila de 2 a 4 hs** y **En la fila de 4 a 8 hs**: son los períodos en que los productos están en el proceso de indexación.
 
-![productosindexados](https://images.ctfassets.net/alneenqid6w5/9KzymaEjoAeqO6Googkya/7eba6e62cb07e66f8a5952c6fcc10b2e/productosindexados.png)
+![productosindexados](//images.ctfassets.net/alneenqid6w5/9KzymaEjoAeqO6Googkya/7eba6e62cb07e66f8a5952c6fcc10b2e/productosindexados.png)
 
 En el informe de indexación, también existe el tiempo que el último ítem tardó para ser re indexado. Queda al lado derecho superior del informe, conforme a la imagen arriba.
 

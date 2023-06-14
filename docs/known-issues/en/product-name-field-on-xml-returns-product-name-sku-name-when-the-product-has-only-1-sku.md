@@ -1,5 +1,5 @@
 ---
-title: Product Name Field on XML returns Product Name + Sku Name when the product has only 1 sku
+title: 'Product Name Field on XML returns Product Name + Sku Name when the product has only 1 sku'
 id: 7sNNzBe5pLn7oigDgoCKjv
 status: PUBLISHED
 createdAt: 2022-09-19T19:06:55.572Z

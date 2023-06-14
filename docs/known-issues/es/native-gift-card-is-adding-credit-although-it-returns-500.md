@@ -1,5 +1,5 @@
 ---
-title: La tarjeta regalo Native está sumando crédito aunque devuelve 500
+title: 'La tarjeta regalo Native está sumando crédito aunque devuelve 500'
 id: 1EngiQGhpPorgURRsszMX4
 status: PUBLISHED
 createdAt: 2023-02-27T20:40:44.824Z

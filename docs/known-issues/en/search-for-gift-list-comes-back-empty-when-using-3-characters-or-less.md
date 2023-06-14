@@ -1,5 +1,5 @@
 ---
-title: Search for gift list comes back empty when using 3 characters or less
+title: 'Search for gift list comes back empty when using 3 characters or less'
 id: 3CcMnzSpUQcUaG4wkm2ay2
 status: PUBLISHED
 createdAt: 2018-02-08T17:25:13.152Z

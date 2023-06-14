@@ -1,5 +1,5 @@
 ---
-title: Adding Price Tables
+title: 'Adding Price Tables'
 id: 2WQ3pVYfQpXkJnHr7VTFBv
 status: PUBLISHED
 createdAt: 2019-07-04T13:52:23.343Z

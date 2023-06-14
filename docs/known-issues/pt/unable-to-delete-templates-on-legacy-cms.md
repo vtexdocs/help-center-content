@@ -1,5 +1,5 @@
 ---
-title: Não é possível deletar um template no CMS
+title: 'Não é possível deletar um template no CMS'
 id: 2mYdWzEDh7dk4t0SnSEoCn
 status: PUBLISHED
 createdAt: 2021-09-29T18:19:17.160Z

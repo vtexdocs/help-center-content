@@ -1,5 +1,5 @@
 ---
-title: Incorrect currency on payment form
+title: 'Incorrect currency on payment form'
 id: 636reFJs0MeHQJO0NlQV7Z
 status: PUBLISHED
 createdAt: 2022-03-13T21:29:33.920Z

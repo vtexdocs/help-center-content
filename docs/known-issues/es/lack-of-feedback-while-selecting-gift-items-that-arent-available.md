@@ -1,5 +1,5 @@
 ---
-title: Falta de respuesta al seleccionar artículos de regalo que no están disponibles
+title: 'Falta de respuesta al seleccionar artículos de regalo que no están disponibles'
 id: 2brpWqVbJLVoFlztAQPy3n
 status: PUBLISHED
 createdAt: 2022-09-30T16:40:09.600Z

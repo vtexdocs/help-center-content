@@ -1,5 +1,5 @@
 ---
-title: "Liquidação de faturas parciais no OMS"
+title: 'Liquidação de faturas parciais no OMS'
 id: 57DxOPAIGassIOYDNPQftv
 status: PUBLISHED
 createdAt: 2022-06-27T20:36:59.586Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: liquidacao-de-faturas-parciais-no-oms
 legacySlug: liquidacao-de-faturas-parciais-no-oms
-announcementImageID: ""
-announcementSynopsisPT: Agora, faturas parciais inseridas nos pedidos disparam liquidações parciais na transação.
+announcementImageID: ''
+announcementSynopsisPT: 'Agora, faturas parciais inseridas nos pedidos disparam liquidações parciais na transação.'
 ---
 
 Ao gerenciar pedidos no OMS, o sistema gerenciador de pedidos da VTEX, inserir a nota fiscal no pedido é um passo obrigatório para que seu status passe para Faturado - sinal de que o pedido foi finalizado com sucesso. É possível inserir uma [nota fiscal completa](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT), ou uma [fatura parcial](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), em cenários onde há alterações nos itens ou valor do pedido. 

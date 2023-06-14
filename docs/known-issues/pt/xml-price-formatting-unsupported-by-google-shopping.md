@@ -1,5 +1,5 @@
 ---
-title: Formatação de preços do XML incompatível com o Google Shopping
+title: 'Formatação de preços do XML incompatível com o Google Shopping'
 id: epKPG9W2zuecMoW2KCuyk
 status: PUBLISHED
 createdAt: 2018-04-11T21:23:55.057Z

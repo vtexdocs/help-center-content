@@ -1,5 +1,5 @@
 ---
-title: Setting up Mercado Pago Offline and Wallet as payment methods
+title: 'Setting up Mercado Pago Offline and Wallet as payment methods'
 id: 1oXH6VnfhGcVHdE7RD6cpd
 status: PUBLISHED
 createdAt: 2021-11-30T22:49:18.953Z

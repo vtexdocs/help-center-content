@@ -1,5 +1,5 @@
 ---
-title: Por que a imagem "thumb" está em baixa qualidade?
+title: 'Por que a imagem "thumb" está em baixa qualidade?'
 id: 4T5kL7MK5a8Y4AC8SO0yKG
 status: PUBLISHED
 createdAt: 2017-05-09T14:00:47.862Z
@@ -23,7 +23,7 @@ Para realizar esta configuração:
 3. Clique em **Alterar** na linha `Produto - Thumb`.
 4. No painel exibido é possível escolher o tamanho máximo de arquivo para as miniaturas no campo **Tamanho Máximo em KB**.
 
-![Configuração de tipo de arquivo no CMS](https://images.ctfassets.net/alneenqid6w5/6aprfJCiiT9y05IAsRvwH/b7aed6fe9d4892aba36b6695c22fbfb5/PT.PNG)
+![Configuração de tipo de arquivo no CMS](//images.ctfassets.net/alneenqid6w5/6aprfJCiiT9y05IAsRvwH/b7aed6fe9d4892aba36b6695c22fbfb5/PT.PNG)
 
 Recomendamos também a leitura do artigo [Melhorar a performance de imagens de produtos](https://help.vtex.com/pt/tutorial/improving-the-performance-of-product-images/) para aprender como melhorar a qualidade de qualquer imagem da loja evitando ao máximo o prejuízo de performance de carregamento da página.
 

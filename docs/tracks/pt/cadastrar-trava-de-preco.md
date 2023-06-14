@@ -1,5 +1,5 @@
 ---
-title: Cadastrar Trava de Preço
+title: 'Cadastrar Trava de Preço'
 id: 6IVgeLPeggIv2mkbFVO6y3
 status: CHANGED
 createdAt: 2019-07-04T13:54:30.939Z

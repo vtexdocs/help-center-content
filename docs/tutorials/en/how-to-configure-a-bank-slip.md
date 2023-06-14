@@ -1,5 +1,5 @@
 ---
-title: Configuring bank slips
+title: 'Configuring bank slips'
 id: tutorials_447
 status: PUBLISHED
 createdAt: 2017-04-27T22:04:55.249Z

@@ -1,5 +1,5 @@
 ---
-title: "¡El Admin VTEX ahora está disponible en búlgaro!"
+title: '¡El Admin VTEX ahora está disponible en búlgaro!'
 id: 7bp6cSA4jdErMOMlLiWMl7
 status: PUBLISHED
 createdAt: 2021-10-25T15:51:32.612Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: el-admin-vtex-ahora-esta-disponible-en-bulgaro
 legacySlug: el-admin-vtex-ahora-esta-disponible-en-bulgaro
-announcementImageID: ""
-announcementSynopsisES: Admin con una nueva opción de idioma
+announcementImageID: ''
+announcementSynopsisES: 'Admin con una nueva opción de idioma'
 ---
 
 El Admin VTEX admite diferentes opciones de idiomas para atender a nuestros clientes en todo el mundo. Localizamos nuestro producto para mejorar tu experiencia en general, no solo mediante traducciones, sino también a nivel cultural al tomar en cuenta las particularidades de cada país.

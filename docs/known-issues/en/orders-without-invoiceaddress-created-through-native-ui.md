@@ -1,5 +1,5 @@
 ---
-title: Orders without invoiceAddress created through native UI
+title: 'Orders without invoiceAddress created through native UI'
 id: 1XjNZhcTJ5rZJP4w3kJtcW
 status: PUBLISHED
 createdAt: 2022-01-24T20:21:07.893Z

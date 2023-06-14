@@ -1,5 +1,5 @@
 ---
-title: Order is locked in "Ready for Handling". What do I do?
+title: 'Order is locked in "Ready for Handling". What do I do?'
 id: frequentlyAskedQuestions_771
 status: PUBLISHED
 createdAt: 2017-04-27T22:27:37.057Z

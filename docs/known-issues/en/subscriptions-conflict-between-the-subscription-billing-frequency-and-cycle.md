@@ -1,5 +1,5 @@
 ---
-title: Subscriptions: conflict between the subscription billing frequency and cycle date
+title: 'Subscriptions: conflict between the subscription billing frequency and cycle date'
 id: 4k32lnRONWU3YzXyvXJItO
 status: PUBLISHED
 createdAt: 2021-06-14T20:32:51.367Z

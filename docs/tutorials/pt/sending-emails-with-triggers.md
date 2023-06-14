@@ -1,5 +1,5 @@
 ---
-title: Enviar e-mails com triggers no Master Data
+title: 'Enviar e-mails com triggers no Master Data'
 id: 1gMSksj9SuW8EwyscsgKGK
 status: DRAFT
 createdAt: 2018-04-02T22:56:53.499Z

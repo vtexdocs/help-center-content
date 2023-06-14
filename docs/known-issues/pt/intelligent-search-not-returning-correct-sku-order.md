@@ -1,5 +1,5 @@
 ---
-title: O Intelligent Search não retorna o pedido de SKU correto
+title: 'O Intelligent Search não retorna o pedido de SKU correto'
 id: 6gR3dsK9CFxfwss6Am89wA
 status: PUBLISHED
 createdAt: 2022-11-07T15:09:48.448Z

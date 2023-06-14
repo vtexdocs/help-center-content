@@ -1,5 +1,5 @@
 ---
-title: Crear un SKU
+title: 'Crear un SKU'
 id: 2wpcGfSERG20IESAgScYQ0
 status: DRAFT
 createdAt: 2018-05-02T20:52:09.452Z

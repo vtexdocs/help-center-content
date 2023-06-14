@@ -1,5 +1,5 @@
 ---
-title: CMS - Visão geral
+title: 'CMS - Visão geral'
 id: 6OCY6S9tqBXPD5mgpbBInC
 status: PUBLISHED
 createdAt: 2020-01-08T13:23:56.157Z
@@ -13,7 +13,7 @@ trackId: 2YcpgIljVaLVQYMzxQbc3z
 trackSlugPT: cms
 ---
 
-![CMS Capa overview](https://images.ctfassets.net/alneenqid6w5/5FaFzk5z2vdyWIKl5AlCby/e241b8b8231499bfec4c8ce67fb27d0b/CAPA_OVERVIEW_CMS.png)
+![CMS Capa overview](//images.ctfassets.net/alneenqid6w5/5FaFzk5z2vdyWIKl5AlCby/e241b8b8231499bfec4c8ce67fb27d0b/CAPA_OVERVIEW_CMS.png)
 
 CMS (Content Management System, em Português, Sistema de Gerenciamento de Conteúdo) é uma funcionalidade voltada para o gerenciamento de conteúdo de forma prática e constante.
 

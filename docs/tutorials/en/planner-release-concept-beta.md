@@ -1,5 +1,5 @@
 ---
-title: Releases: Release concept (Beta)
+title: 'Releases: Release concept (Beta)'
 id: 4pWhQTXG0aIIsi2TYxxRkZ
 status: PUBLISHED
 createdAt: 2022-09-19T20:49:52.633Z

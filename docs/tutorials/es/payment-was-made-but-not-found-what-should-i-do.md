@@ -1,5 +1,5 @@
 ---
-title: El pago se realizó, pero no se identificó. ¿Qué debo hacer?
+title: 'El pago se realizó, pero no se identificó. ¿Qué debo hacer?'
 id: 63Fz8Ma5alR43ij4ZXVOQC
 status: PUBLISHED
 createdAt: 2020-09-10T21:33:40.958Z

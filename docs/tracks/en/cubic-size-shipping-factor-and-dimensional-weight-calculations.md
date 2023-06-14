@@ -1,5 +1,5 @@
 ---
-title: Cubic size, shipping factor and DIM weight calculations
+title: 'Cubic size, shipping factor and DIM weight calculations'
 id: 2fgz8EKgM42BZP5C2KgC2v
 status: DRAFT
 createdAt: 2019-10-23T13:43:41.025Z

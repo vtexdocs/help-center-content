@@ -1,5 +1,5 @@
 ---
-title: Monitoring the status of the VTEX platform
+title: 'Monitoring the status of the VTEX platform'
 id: frequentlyAskedQuestions_5057
 status: DRAFT
 createdAt: 2019-01-24T20:46:02.179Z

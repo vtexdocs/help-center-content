@@ -1,5 +1,5 @@
 ---
-title: Por que o pedido foi fechado pelo marketplace sem estoque?
+title: 'Por que o pedido foi fechado pelo marketplace sem estoque?'
 id: frequentlyAskedQuestions_710
 status: DRAFT
 createdAt: 2017-04-27T22:28:42.230Z

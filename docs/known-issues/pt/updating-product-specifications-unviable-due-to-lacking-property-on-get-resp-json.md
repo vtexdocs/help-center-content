@@ -1,5 +1,5 @@
 ---
-title: Atualização das especificações do produto Impossível devido à falta de propriedade no GET Resp. JSON
+title: 'Atualização das especificações do produto Impossível devido à falta de propriedade no GET Resp. JSON'
 id: 6FeuIyF2E5WdS0PNRRzgdA
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:06.720Z

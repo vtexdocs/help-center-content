@@ -1,5 +1,5 @@
 ---
-title: VTEX App submission guidelines - Technical requirements for a successful app submission
+title: 'VTEX App submission guidelines - Technical requirements for a successful app submission'
 id: Y87JaGVk2qOYiiouMSU4G
 status: DRAFT
 createdAt: 2018-10-23T22:18:45.145Z

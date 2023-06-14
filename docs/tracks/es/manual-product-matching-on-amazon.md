@@ -1,5 +1,5 @@
 ---
-title: Correspondencia manual de productos en Amazon
+title: 'Correspondencia manual de productos en Amazon'
 id: 6QPcQ2zvTROe3VuDQ3kF4X
 status: DRAFT
 createdAt: 2022-11-25T21:20:50.102Z

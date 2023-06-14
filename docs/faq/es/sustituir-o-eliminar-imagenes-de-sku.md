@@ -1,5 +1,5 @@
 ---
-title: Sustituir o eliminar imágenes de SKU
+title: 'Sustituir o eliminar imágenes de SKU'
 id: 6ruEgCkljiW2cAC0Mok2Ig
 status: DRAFT
 createdAt: 2017-08-03T21:21:03.374Z

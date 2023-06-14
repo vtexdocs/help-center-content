@@ -1,5 +1,5 @@
 ---
-title: Como é feito o rateio de frete
+title: 'Como é feito o rateio de frete'
 id: frequentlyAskedQuestions_155
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:51.013Z

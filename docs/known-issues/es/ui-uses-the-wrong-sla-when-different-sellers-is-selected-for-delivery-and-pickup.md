@@ -1,5 +1,5 @@
 ---
-title: La interfaz de usuario utiliza el SLA incorrecto cuando se seleccionan vendedores diferentes para la entrega y la recogida.
+title: 'La interfaz de usuario utiliza el SLA incorrecto cuando se seleccionan vendedores diferentes para la entrega y la recogida.'
 id: 1FidTQU7qfHsuJLUbPTe7w
 status: PUBLISHED
 createdAt: 2023-04-25T21:52:00.104Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar boleto en plazos Provu (Lendico) como medio de pago (medio de pago brasileño)
+title: 'Configurar boleto en plazos Provu (Lendico) como medio de pago (medio de pago brasileño)'
 id: 1pRpPlkppLDEc1TVXTgrcu
 status: PUBLISHED
 createdAt: 2020-12-02T10:58:09.076Z

@@ -1,5 +1,5 @@
 ---
-title: Criar grupo de especificações em uma categoria
+title: 'Criar grupo de especificações em uma categoria'
 id: tutorials_246
 status: PUBLISHED
 createdAt: 2017-04-27T22:12:25.134Z

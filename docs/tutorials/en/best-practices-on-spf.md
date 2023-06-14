@@ -1,5 +1,5 @@
 ---
-title: Best Practices on Sender Policy Framework (SPF)
+title: 'Best Practices on Sender Policy Framework (SPF)'
 id: 42t0lkl2VyC6Yewc4wA6wI
 status: PUBLISHED
 createdAt: 2017-08-09T16:58:00.716Z

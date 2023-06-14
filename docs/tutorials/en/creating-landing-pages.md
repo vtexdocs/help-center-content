@@ -1,5 +1,5 @@
 ---
-title: Creating landing pages
+title: 'Creating landing pages'
 id: 2DqFleXKz0Vsg3KhHLuUEB
 status: PUBLISHED
 createdAt: 2022-02-02T13:57:03.484Z
@@ -27,7 +27,7 @@ In the Admin, you can create customized landing pages, such as pages for special
 
 2.Click **CREATE NEW**.
 
-![Creating Landing pages](https://images.ctfassets.net/alneenqid6w5/79EZvMxQKLKyE88OxQJudE/5b59a487ca74b9d420f754ec5ab9fa18/cms-pages-en.png)
+![Creating Landing pages](//images.ctfassets.net/alneenqid6w5/79EZvMxQKLKyE88OxQJudE/5b59a487ca74b9d420f754ec5ab9fa18/cms-pages-en.png)
 
 3.In the Page details section, fill in the fields below to define the page metadata:
 

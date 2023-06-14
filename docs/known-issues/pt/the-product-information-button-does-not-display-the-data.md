@@ -1,5 +1,5 @@
 ---
-title: O botão de informação de SKU não exibe os dados
+title: 'O botão de informação de SKU não exibe os dados'
 id: 3Pa3Kx653YbONJF4XWu5Hp
 status: PUBLISHED
 createdAt: 2021-08-20T20:05:29.918Z

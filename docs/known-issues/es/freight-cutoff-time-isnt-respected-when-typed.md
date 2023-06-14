@@ -1,5 +1,5 @@
 ---
-title: Tiempo de corte de las transportadoras no respectado cuando escrito
+title: 'Tiempo de corte de las transportadoras no respectado cuando escrito'
 id: 3a4bgiGkvKos2maYQ0cosu
 status: DRAFT
 createdAt: 2018-02-27T17:34:04.011Z

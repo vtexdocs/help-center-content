@@ -1,5 +1,5 @@
 ---
-title: Amazon Order integration error
+title: 'Amazon Order integration error'
 id: 7EbYwdDqy78Jv4ztOxqgnY
 status: PUBLISHED
 createdAt: 2022-04-06T16:29:04.269Z

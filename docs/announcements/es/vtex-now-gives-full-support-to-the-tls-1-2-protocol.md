@@ -1,5 +1,5 @@
 ---
-title: " VTEX ahora da total soporte al protocolo TLS 1.2"
+title: ' VTEX ahora da total soporte al protocolo TLS 1.2'
 id: 6yst9OOxqgow60aWak2mq4
 status: PUBLISHED
 createdAt: 2018-03-01T21:47:35.312Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
 slug: vtex-ahora-da-total-soporte-al-protocolo-tls-1-2
 legacySlug: vtex-ahora-da-total-soporte-al-protocolo-tls-1-2
-announcementImageID: ""
-announcementSynopsisES: A partir del 15 de marzo, daremos soporte total al protocolo TLS 1.2, garantizando más seguridad para su tienda.
+announcementImageID: ''
+announcementSynopsisES: 'A partir del 15 de marzo, daremos soporte total al protocolo TLS 1.2, garantizando más seguridad para su tienda.'
 ---
 
 Con soporte total al TLS 1.2, el servicio del Pagos de VTEX en el dominio `vtexpayments.com.br` ahora están aún más seguras. Siguiendo las recomendaciones del Pagos, adoptamos la nueva versión del protocolo en nuestra plataforma y dejamos de ofrecer soporte para las versiones 1.0 y 1.1 (que presentan brechas de seguridad) en esta API. 

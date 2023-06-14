@@ -1,5 +1,5 @@
 ---
-title: Orden de compraColocada Boleto Factura bancaria MOIP
+title: 'Orden de compraColocada Boleto Factura bancaria MOIP'
 id: 6LfWcVU6fgXalUXslYATIc
 status: PUBLISHED
 createdAt: 2022-05-18T18:35:54.748Z

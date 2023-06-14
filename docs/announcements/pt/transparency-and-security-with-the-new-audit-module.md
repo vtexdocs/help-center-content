@@ -1,5 +1,5 @@
 ---
-title: "Transparência e segurança com o novo módulo Audit"
+title: 'Transparência e segurança com o novo módulo Audit'
 id: 6pEQQIFfZ1zB5RsheYOlHd
 status: PUBLISHED
 createdAt: 2021-10-21T14:48:01.106Z
@@ -10,13 +10,13 @@ productTeam: Others
 author: 4SqDPmUJIIz2KMMKgiyqKl
 slug: transparencia-e-seguranca-com-o-novo-modulo-audit
 legacySlug: transparencia-e-seguranca-com-o-novo-modulo-audit
-announcementImageID: ""
-announcementSynopsisPT: Lançamento de nova ferramenta de auditoria
+announcementImageID: ''
+announcementSynopsisPT: 'Lançamento de nova ferramenta de auditoria'
 ---
 
 Sempre em conformidade com as melhores práticas de segurança e transparência para sua loja, a VTEX lançou mais um novo recurso de auditoria, o **Audit**. 
 
-![Screenshot for Audit UI for announcement](https://images.ctfassets.net/alneenqid6w5/1CwFsrYwjxCIhyqcc6ei86/a7e351d449a8ff53422f9a9b914dbdc2/Audit_PT.png)
+![Screenshot for Audit UI for announcement](//images.ctfassets.net/alneenqid6w5/1CwFsrYwjxCIhyqcc6ei86/a7e351d449a8ff53422f9a9b914dbdc2/Audit_PT.png)
 
 A partir de agora, os administradores podem verificar diversas operações que foram feitas em sua loja de uma maneira simples e rápida. É possível criar vários filtros de busca para facilitar a procura de eventos e aumentar a rapidez dos processos de auditoria.
 

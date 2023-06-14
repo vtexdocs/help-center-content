@@ -1,5 +1,5 @@
 ---
-title: "Customer Credit: optimice procesos con recursos masivos"
+title: 'Customer Credit: optimice procesos con recursos masivos'
 id: xoAyucVX5e0DVUgxASoU0
 status: CHANGED
 createdAt: 2020-04-09T14:37:18.026Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: customer-credit-optimice-procesos-con-recursos-masivos
 legacySlug: customer-credit-optimice-procesos-con-recursos-masivos
-announcementImageID: ""
-announcementSynopsisES: Ahora la app Customer Credit permite operaciones masivas para actualizar títulos e importar o actualizar cuentas.
+announcementImageID: ''
+announcementSynopsisES: 'Ahora la app Customer Credit permite operaciones masivas para actualizar títulos e importar o actualizar cuentas.'
 ---
 
 Customer Credit es una app que pone a disposición límites de crédito para los clientes de confianza de un e-commerce. Este valor puede ser utilizado como medio de pago para compras de artículos de la propia tienda, transformados en títulos en el sistema. 

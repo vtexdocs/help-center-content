@@ -1,5 +1,5 @@
 ---
-title: Como usar o VTEX Predictor Bot
+title: 'Como usar o VTEX Predictor Bot'
 id: 5meZHatpMQskKgoAAeyOkW
 status: DRAFT
 createdAt: 2017-09-19T14:56:16.378Z

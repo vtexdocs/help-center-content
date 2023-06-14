@@ -1,5 +1,5 @@
 ---
-title: Atualizar vendedor usando Admin está definindo alguns campos de volta para o valor padrão depois de modificá-lo via API
+title: 'Atualizar vendedor usando Admin está definindo alguns campos de volta para o valor padrão depois de modificá-lo via API'
 id: 2gtqnZmCW59OKoqRpU3UaQ
 status: PUBLISHED
 createdAt: 2022-06-30T12:21:23.852Z

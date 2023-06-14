@@ -1,5 +1,5 @@
 ---
-title: Account summary
+title: 'Account summary'
 id: 7MJ5gNTmqJ2kIoecnEWcuR
 status: DRAFT
 createdAt: 2019-05-26T20:12:54.209Z

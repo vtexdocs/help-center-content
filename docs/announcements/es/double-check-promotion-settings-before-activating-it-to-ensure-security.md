@@ -1,5 +1,5 @@
 ---
-title: "Seguridad de tus promociones: revisa la configuración antes de activarlas"
+title: 'Seguridad de tus promociones: revisa la configuración antes de activarlas'
 id: 1uURzFcRbeaCkzYKCQgRlD
 status: PUBLISHED
 createdAt: 2021-12-13T19:13:26.460Z
@@ -10,13 +10,13 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: seguridad-de-tus-promociones-revisa-la-configuracion-antes-de-activarlas
 legacySlug: seguridad-de-tus-promociones
-announcementImageID: ""
-announcementSynopsisES: El resumen de la promoción permite revisar su información antes de activarla, lo que evita errores de configuración
+announcementImageID: ''
+announcementSynopsisES: 'El resumen de la promoción permite revisar su información antes de activarla, lo que evita errores de configuración'
 ---
 
 Es posible que se cometan errores al rellenar la información en el momento de configurar una nueva promoción. Para evitar que se activen promociones con información incorrecta, hemos creado el resumen de la promoción. Esta nueva funcionalidad te permite confirmar la configuración de la promoción antes de activarla.
 
-![resumo-promo-ES](https://images.ctfassets.net/alneenqid6w5/5dJybcC7bLKUDnhP2r6ezx/ec043089cafef418ee0def411242c940/image.png)
+![resumo-promo-ES](//images.ctfassets.net/alneenqid6w5/5dJybcC7bLKUDnhP2r6ezx/ec043089cafef418ee0def411242c940/image.png)
 
 ## ¿Qué cambió?
 Anteriormente, una promoción se activaba automáticamente cuando se guardaba con el status **Activa**. Con el nuevo recurso, puedes ver un resumen de las configuraciones definidas antes de activar una nueva promoción. De este modo, es posible revisar si todos los datos de la promoción son correctos, evitando errores de implementación.

@@ -1,5 +1,5 @@
 ---
-title: Como funciona a integração da CNova/Via Varejo
+title: 'Como funciona a integração da CNova/Via Varejo'
 id: 1vFbUZUL80SQ0SoySGO8E6
 status: PUBLISHED
 createdAt: 2018-07-09T17:57:16.106Z

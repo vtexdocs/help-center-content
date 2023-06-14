@@ -1,5 +1,5 @@
 ---
-title: Verificar logs de modificación en Master Data
+title: 'Verificar logs de modificación en Master Data'
 id: 7CSY1eKpl9YiFMmaAGgiQl
 status: PUBLISHED
 createdAt: 2019-03-18T15:21:13.487Z

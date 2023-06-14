@@ -1,5 +1,5 @@
 ---
-title: Os artigos de presente lançam uma exceção genérica se não tiver preço
+title: 'Os artigos de presente lançam uma exceção genérica se não tiver preço'
 id: 7Jw1Nihqp3Sg2ecg7R9IEt
 status: PUBLISHED
 createdAt: 2022-05-12T14:52:18.546Z

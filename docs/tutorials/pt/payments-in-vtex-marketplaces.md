@@ -1,5 +1,5 @@
 ---
-title: Pagamentos em marketplaces VTEX
+title: 'Pagamentos em marketplaces VTEX'
 id: 2kYOfWCZYweJkYl18bw9yD
 status: PUBLISHED
 createdAt: 2022-01-26T20:27:07.040Z

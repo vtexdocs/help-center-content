@@ -1,5 +1,5 @@
 ---
-title: Error de seguimiento
+title: 'Error de seguimiento'
 id: 7CKv6XYkFl8jkFBvSJ22Wn
 status: PUBLISHED
 createdAt: 2022-06-20T18:25:25.307Z

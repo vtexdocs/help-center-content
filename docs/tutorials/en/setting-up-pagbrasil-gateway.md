@@ -1,5 +1,5 @@
 ---
-title: Setting up PagBrasil gateway
+title: 'Setting up PagBrasil gateway'
 id: 2vzj6MkFRuKm4KQAOOmWaa
 status: PUBLISHED
 createdAt: 2018-04-10T12:40:34.957Z

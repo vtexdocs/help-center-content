@@ -1,5 +1,5 @@
 ---
-title: Os métodos de pagamento permanecem na página de checkout mesmo quando a condição de pagamento associada é desativada
+title: 'Os métodos de pagamento permanecem na página de checkout mesmo quando a condição de pagamento associada é desativada'
 id: 4EqNjqWwNVSKqR08q89f7V
 status: PUBLISHED
 createdAt: 2022-08-31T17:22:15.483Z

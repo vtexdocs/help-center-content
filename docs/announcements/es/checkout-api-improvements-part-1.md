@@ -1,5 +1,5 @@
 ---
-title: "Mejoras en la API del checkout - Parte 1"
+title: 'Mejoras en la API del checkout - Parte 1'
 id: 5B4Qb4ffB5JgGrJNY3572l
 status: DRAFT
 createdAt: 2019-05-15T19:18:26.652Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: authors_59
 slug: mejoras-en-la-api-del-checkout-parte-1
 legacySlug: mejoras-en-la-api-del-checkout-parte-1
-announcementImageID: ""
-announcementSynopsisES: Sepa sobre las mejoras implementadas en la API del checkout y cómo adaptarse a las nuevas funcionalidades
+announcementImageID: ''
+announcementSynopsisES: 'Sepa sobre las mejoras implementadas en la API del checkout y cómo adaptarse a las nuevas funcionalidades'
 ---
 
 Nuestro equipo de desarrollo está constantemente mejorando la performance de nuestras APIs, tornándolas más eficientes y agregando nuevas funcionalidades. Esto significa que algunos comportamientos y funcionalidades considerados deprecados se pueden eliminar en la siguiente versión major de la API del Checkout.

@@ -1,5 +1,5 @@
 ---
-title: Flag promocional exhibida en productos fuera del rango de precios
+title: 'Flag promocional exhibida en productos fuera del rango de precios'
 id: 7kJl5tyxAAOoiqW2sQcY6u
 status: PUBLISHED
 createdAt: 2018-04-10T15:21:04.585Z

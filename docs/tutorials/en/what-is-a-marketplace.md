@@ -1,5 +1,5 @@
 ---
-title: What is a marketplace?
+title: 'What is a marketplace?'
 id: 680lLJTnmEAmekcC0MIea8
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:35.913Z

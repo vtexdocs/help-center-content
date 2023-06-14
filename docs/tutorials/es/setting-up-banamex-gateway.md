@@ -1,5 +1,5 @@
 ---
-title: Configurar gateway Banamex
+title: 'Configurar gateway Banamex'
 id: 8TnJhdKnPGYsoUyAGGQgI
 status: DRAFT
 createdAt: 2018-05-11T21:13:33.957Z

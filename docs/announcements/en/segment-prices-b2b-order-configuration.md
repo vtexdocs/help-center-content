@@ -1,5 +1,5 @@
 ---
-title: "B2B: Segment prices directly in the purchase flow using our new Order Configuration app."
+title: 'B2B: Segment prices directly in the purchase flow using our new Order Configuration app.'
 id: 4JF7a0k3MVw56khEXWTKgE
 status: PUBLISHED
 createdAt: 2020-09-09T15:23:24.399Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: vztwQkZv4z6EwDVwdqbsw
 slug: segment-prices-b2b-order-configuration
 legacySlug: segment-prices-b2b-order-configuration
-announcementImageID: ""
-announcementSynopsisEN: Cree estrategias de precios segmentados directo en la experiencia de compra con Configuración de Pedidos para B2B.
+announcementImageID: ''
+announcementSynopsisEN: 'Cree estrategias de precios segmentados directo en la experiencia de compra con Configuración de Pedidos para B2B.'
 ---
 
 A critical part of a B2B operation is the segmentation of prices and rates according to the buying company profile. The rules change from store to store, but factors such as the buyer's location, type of order and payment method can directly affect the price and taxes applicable to the sale.

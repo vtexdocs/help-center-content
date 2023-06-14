@@ -1,5 +1,5 @@
 ---
-title: Os destaques de produtos não funcionam em uma lista de produtos
+title: 'Os destaques de produtos não funcionam em uma lista de produtos'
 id: 7lh3YMj55vQvs3EEQFUas1
 status: PUBLISHED
 createdAt: 2022-03-21T17:34:16.526Z

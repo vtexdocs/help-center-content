@@ -1,5 +1,5 @@
 ---
-title: Valores errados nos destinatários de uma transação dividida com cancelamento parcial.
+title: 'Valores errados nos destinatários de uma transação dividida com cancelamento parcial.'
 id: 5srb8YPqWIn5D5ZpJVs1u7
 status: PUBLISHED
 createdAt: 2022-03-03T18:38:02.299Z

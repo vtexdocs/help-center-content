@@ -1,5 +1,5 @@
 ---
-title: Special Characters on the SKU name breaks SKU selection on Portal Web Store PDP pages for radio box Category type of selection
+title: 'Special Characters on the SKU name breaks SKU selection on Portal Web Store PDP pages for radio box Category type of selection'
 id: 1G4FSBVZqn44ke7YJTuBJA
 status: PUBLISHED
 createdAt: 2022-03-16T16:26:36.035Z

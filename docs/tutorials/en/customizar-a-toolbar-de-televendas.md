@@ -1,5 +1,5 @@
 ---
-title: Customizing the Call center toolbar
+title: 'Customizing the Call center toolbar'
 id: 1XEz1zqO3KyIuwC4asUsOg
 status: PUBLISHED
 createdAt: 2017-10-06T15:54:18.649Z

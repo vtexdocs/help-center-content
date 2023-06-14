@@ -1,5 +1,5 @@
 ---
-title: El restablecimiento de la orden no cierra la sesión de otras personas
+title: 'El restablecimiento de la orden no cierra la sesión de otras personas'
 id: 3LVhz4vELaVWEMnO1cpCbI
 status: PUBLISHED
 createdAt: 2022-03-18T18:51:36.294Z

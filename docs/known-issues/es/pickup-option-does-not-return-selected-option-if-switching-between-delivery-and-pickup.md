@@ -1,5 +1,5 @@
 ---
-title: La opción de recogida no devuelve la opción seleccionada si se cambia entre entrega y recogida
+title: 'La opción de recogida no devuelve la opción seleccionada si se cambia entre entrega y recogida'
 id: 12AvDe4dD8IQ2WaDKTSeXx
 status: PUBLISHED
 createdAt: 2022-09-21T21:06:28.853Z

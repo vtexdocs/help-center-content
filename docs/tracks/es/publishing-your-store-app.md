@@ -1,5 +1,5 @@
 ---
-title: Publicar su store app
+title: 'Publicar su store app'
 id: 6NTZJvsxz9qLwO6XCoxgQb
 status: DRAFT
 createdAt: 2019-03-07T18:21:25.255Z

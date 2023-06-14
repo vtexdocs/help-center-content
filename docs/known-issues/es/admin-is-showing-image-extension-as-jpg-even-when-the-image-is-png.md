@@ -1,5 +1,5 @@
 ---
-title: El administrador muestra la extensión de la imagen como .jpg incluso cuando la imagen es .png
+title: 'El administrador muestra la extensión de la imagen como .jpg incluso cuando la imagen es .png'
 id: 1nVCuVnNjT7e1E9Cy0Veer
 status: PUBLISHED
 createdAt: 2022-02-02T18:48:49.607Z

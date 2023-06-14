@@ -1,5 +1,5 @@
 ---
-title: "Ahora es más fácil vender los productos de sus tiendas físicas en los marketplaces"
+title: 'Ahora es más fácil vender los productos de sus tiendas físicas en los marketplaces'
 id: 2rOEBV0tOAoZIgow7CODyj
 status: PUBLISHED
 createdAt: 2019-03-12T21:54:26.822Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 6AcGyun1hSWewU8YcaQiO
 slug: ahora-es-mas-facil-vender-los-productos-de-sus-tiendas-fisicas-en-los
 legacySlug: ahora-es-mas-facil-vender-los-productos-de-sus-tiendas-fisicas-en-los
-announcementImageID: ""
-announcementSynopsisES: Al integrar la cuenta principal a un marketplace, los inventarios de cuentas franquicia se consideran automáticamente.
+announcementImageID: ''
+announcementSynopsisES: 'Al integrar la cuenta principal a un marketplace, los inventarios de cuentas franquicia se consideran automáticamente.'
 ---
 
 Usted ya puede ofrecer los productos de toda su red de tiendas físicas en __marketplaces externos__, sin esfuerzo. A través del __Multilevel Omnichannel Inventory__, las [cuentas franquicia](/tutorial/que-son-cuenta-franquicia-y-seller-white-label?locale=es), cuando se crean, ya están completamente integradas a la cuenta principal. Esto significa que cuando la cuenta principal configura una integración con un marketplace externo, el inventario de las cuentas franquicia también se considerará en el proceso, es decir, ya no será necesario administrar cada cuenta franquicia individualmente para integrarla al marketplace.

@@ -1,5 +1,5 @@
 ---
-title: Resetting your two-factor authentication app configuration
+title: 'Resetting your two-factor authentication app configuration'
 id: 4ftaOCZono1MiQia2hxbTy
 status: PUBLISHED
 createdAt: 2023-02-08T13:55:25.623Z

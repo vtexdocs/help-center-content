@@ -1,5 +1,5 @@
 ---
-title: Credit Control - Overview
+title: 'Credit Control - Overview'
 id: 6v9AaldPvUmUCcyEgwKwSC
 status: DRAFT
 createdAt: 2017-12-06T20:30:52.367Z

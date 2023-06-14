@@ -1,5 +1,5 @@
 ---
-title: Bandera de entrega en Mis Pedidos. Debido a un error al rellenar la factura.
+title: 'Bandera de entrega en Mis Pedidos. Debido a un error al rellenar la factura.'
 id: 14iGvVibb5ac4FNvEsmCAi
 status: PUBLISHED
 createdAt: 2022-03-21T19:58:25.489Z

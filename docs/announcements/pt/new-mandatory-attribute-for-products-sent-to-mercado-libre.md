@@ -1,5 +1,5 @@
 ---
-title: "Novo atributo obrigatório para produtos enviados ao Mercado Livre"
+title: 'Novo atributo obrigatório para produtos enviados ao Mercado Livre'
 id: 5nr8nGhCLFNtIP5tFkNEpJ
 status: PUBLISHED
 createdAt: 2022-02-25T18:35:17.032Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: novo-atributo-obrigatorio-para-produtos-enviados-ao-mercado-livre
 legacySlug: novo-atributo-obrigatorio-para-produtos-enviados-ao-mercado-livre
-announcementImageID: ""
-announcementSynopsisPT: Devido à determinação da Anatel, produtos da categoria Celulares no Mercado Livre terão um novo atributo obrigatório
+announcementImageID: ''
+announcementSynopsisPT: 'Devido à determinação da Anatel, produtos da categoria Celulares no Mercado Livre terão um novo atributo obrigatório'
 ---
 
 Quando uma loja VTEX integrada ao Mercado Livre deseja [enviar seus produtos](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA) para o catálogo do marketplace, é necessário realizar o mapeamento das categorias e atributos desses produtos.

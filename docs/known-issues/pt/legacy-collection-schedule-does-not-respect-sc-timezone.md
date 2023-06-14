@@ -1,5 +1,5 @@
 ---
-title: O cronograma de coleta legado não respeita o fuso horário SC.
+title: 'O cronograma de coleta legado não respeita o fuso horário SC.'
 id: 6f0P1Fe9ha1hLQZq80QYOL
 status: PUBLISHED
 createdAt: 2022-01-23T02:35:26.292Z

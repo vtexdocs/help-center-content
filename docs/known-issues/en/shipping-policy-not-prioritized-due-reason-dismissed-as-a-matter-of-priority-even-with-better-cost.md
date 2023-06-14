@@ -1,5 +1,5 @@
 ---
-title: Shipping policy not prioritized due "Reason: Dismissed as a matter of priority" even with better cost
+title: 'Shipping policy not prioritized due "Reason: Dismissed as a matter of priority" even with better cost'
 id: p1oTHG7CuYITViV4uFZEQ
 status: PUBLISHED
 createdAt: 2022-05-10T18:05:57.097Z

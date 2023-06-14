@@ -1,5 +1,5 @@
 ---
-title: El pago no puede eliminar el artículo de regalo cuando no está disponible después de seleccionar el punto de recogida.
+title: 'El pago no puede eliminar el artículo de regalo cuando no está disponible después de seleccionar el punto de recogida.'
 id: 4D6KBdrK4WU1XE81SVBPzc
 status: PUBLISHED
 createdAt: 2023-01-30T16:37:22.633Z

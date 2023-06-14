@@ -1,5 +1,5 @@
 ---
-title: Buenas prácticas para el uso de imágenes en el Catálogo
+title: 'Buenas prácticas para el uso de imágenes en el Catálogo'
 id: 738K2yfq5U86kUI2k4AQIk
 status: PUBLISHED
 createdAt: 2018-01-30T14:45:53.934Z

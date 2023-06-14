@@ -1,5 +1,5 @@
 ---
-title: "PRIORITY ALERT – Orders System Migration: In order to maintain the functioning of your operation, ensure that your integration is up-to-date"
+title: 'PRIORITY ALERT – Orders System Migration: In order to maintain the functioning of your operation, ensure that your integration is up-to-date'
 id: 34eloUZ70DPYIcJkAevq32
 status: PUBLISHED
 createdAt: 2019-07-30T16:56:23.667Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: authors_31
 slug: urgente-migracao-do-sistema-de-pedidos-para-manter-sua-operacao-funcionando
 legacySlug: urgente-migracao-do-sistema-de-pedidos-para-manter-sua-operacao-funcionando
-announcementImageID: ""
-announcementSynopsisEN: In order to maintain the functioning of your operation, ensure that your integration is up-to-date
+announcementImageID: ''
+announcementSynopsisEN: 'In order to maintain the functioning of your operation, ensure that your integration is up-to-date'
 ---
 
 On 13/06/19, [Feed V1 and V2 API discontinuation was announced](/announcements/orders-management-module-feed-v1-and-v2--4zoxe3FihrNs0yQ1g1JyG4) along with the mandatory migration to V3 of this service. This API is responsible for the orders integration process between VTEX and external systems, such as ERPs.

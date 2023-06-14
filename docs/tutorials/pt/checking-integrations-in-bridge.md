@@ -1,5 +1,5 @@
 ---
-title: Verificar status de integração no painel do Integrações
+title: 'Verificar status de integração no painel do Integrações'
 id: tutorials_422
 status: PUBLISHED
 createdAt: 2017-04-27T22:05:50.596Z

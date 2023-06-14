@@ -1,5 +1,5 @@
 ---
-title: Listar los workspaces de la cuenta
+title: 'Listar los workspaces de la cuenta'
 id: Y4TGxVPgSiIS0yISGugCG
 status: DRAFT
 createdAt: 2018-02-21T22:45:39.240Z

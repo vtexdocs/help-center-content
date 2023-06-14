@@ -1,5 +1,5 @@
 ---
-title: Busca por marca com apóstrofo não retorna dados no Admin
+title: 'Busca por marca com apóstrofo não retorna dados no Admin'
 id: 2Z3k2leNVmCoBIPmIPDrz2
 status: PUBLISHED
 createdAt: 2020-05-05T15:36:13.219Z

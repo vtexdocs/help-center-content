@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Scalapay
+title: 'Configurar pago con Scalapay'
 id: 6SCh3WUqjeqIrOl209MENA
 status: PUBLISHED
 createdAt: 2022-08-12T19:31:38.569Z

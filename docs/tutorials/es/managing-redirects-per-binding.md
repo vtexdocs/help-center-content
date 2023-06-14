@@ -1,5 +1,5 @@
 ---
-title: Gestionar redirecciones según el binding
+title: 'Gestionar redirecciones según el binding'
 id: 67GAK2TCQgjvmtPXxAqREb
 status: PUBLISHED
 createdAt: 2021-04-20T15:03:54.330Z
@@ -25,7 +25,7 @@ En el Admin VTEX:
 1. Acceda al módulo **Storefront > Páginas**.
 2. Haga clic en la pestaña `Redirecciones`.
 
-![es-redirect-tab](https://images.ctfassets.net/alneenqid6w5/5TkQzPBMxi9Wh4SCBgVWZ1/ca140110fbe426d775814a1fd5ae4350/redirect-tab.png)
+![es-redirect-tab](//images.ctfassets.net/alneenqid6w5/5TkQzPBMxi9Wh4SCBgVWZ1/ca140110fbe426d775814a1fd5ae4350/redirect-tab.png)
 
 ## Crear redirecciones manualmente
 
@@ -37,7 +37,7 @@ En la pestaña Redirecciones del módulo Páginas:
 4. Indique si la redirección será permanente o temporal. Si es temporal, puede activar el botón `Esta redirección tiene una fecha final` y definir la fecha final. 
 5. Guarde los cambios.
 
-![es-novoredirect](https://images.ctfassets.net/alneenqid6w5/1XJSvEL4ozDdupa3j0mcx8/95ddbd08e7902a6c7aa7f30a4af85120/nuevo-redirect.png)
+![es-novoredirect](//images.ctfassets.net/alneenqid6w5/1XJSvEL4ozDdupa3j0mcx8/95ddbd08e7902a6c7aa7f30a4af85120/nuevo-redirect.png)
 
 ## Eliminar redirecciones manualmente
 
@@ -47,7 +47,7 @@ En la pestaña Redirecciones del módulo Páginas:
 2. Haga clic en el botón `Remover`.
 3. Confirme la acción. 
 
-![es-remover-redirect](https://images.ctfassets.net/alneenqid6w5/5khhDBT5o6ESJjwlaFClr5/a6d978fecd07eba1007ea1b28d2675b6/remover-redirect.png)
+![es-remover-redirect](//images.ctfassets.net/alneenqid6w5/5khhDBT5o6ESJjwlaFClr5/a6d978fecd07eba1007ea1b28d2675b6/remover-redirect.png)
 
 <div class="alert alert-warning">
 Puede ocurrir un error al intentar hacer clic en las redirecciones que tienen cadenas de query. El equipo de producto de VTEX está al tanto de este comportamiento inesperado y está trabajando en la corrección. Si no puede hacer clic en la redirección que desea eliminar, puede utilizar la hoja de cálculo para eliminarla mientras arreglamos el error. 
@@ -78,7 +78,7 @@ En la pestaña Redirecciones del módulo Páginas:
 4. Haga clic en el botón `Importar`. 
 5. Haga clic en el botón `Guardar` o `Eliminar` según sea el caso. 
 
-  ![es-redirect-planilha](https://images.ctfassets.net/alneenqid6w5/4jcHxndX1LyV74UdFJgWNV/7efcfc5207e0972a2b31a4be847b7000/planilha-redirect.png)
+  ![es-redirect-planilha](//images.ctfassets.net/alneenqid6w5/4jcHxndX1LyV74UdFJgWNV/7efcfc5207e0972a2b31a4be847b7000/planilha-redirect.png)
 
   <div class="alert alert-warning">
 Al seleccionar la opción <code>Guardar</code>, creará todas las redirecciones enumeradas en la plantilla, mientras que seleccionar la opción <code>Eliminar</code> las eliminará todas de la base de datos de su tienda.

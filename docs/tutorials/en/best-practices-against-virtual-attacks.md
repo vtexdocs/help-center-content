@@ -1,5 +1,5 @@
 ---
-title: Best practices against virtual attacks
+title: 'Best practices against virtual attacks'
 id: 191rpbF7UgrKapVCi1PCDE
 status: PUBLISHED
 createdAt: 2022-04-06T19:04:13.387Z

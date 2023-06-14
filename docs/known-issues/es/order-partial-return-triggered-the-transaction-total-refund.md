@@ -1,5 +1,5 @@
 ---
-title: La devolución parcial del pedido provocó el reembolso total de la transacción
+title: 'La devolución parcial del pedido provocó el reembolso total de la transacción'
 id: 5cPpyvV4t6swxDPrEmuzrn
 status: PUBLISHED
 createdAt: 2022-04-04T21:20:39.334Z

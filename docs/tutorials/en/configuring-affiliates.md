@@ -1,5 +1,5 @@
 ---
-title: Configuring affiliates
+title: 'Configuring affiliates'
 id: tutorials_187
 status: PUBLISHED
 createdAt: 2017-04-27T22:15:31.422Z

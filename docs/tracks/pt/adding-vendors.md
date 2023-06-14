@@ -1,5 +1,5 @@
 ---
-title: Adicionar vendedores
+title: 'Adicionar vendedores'
 id: 6C7mb1lDhueimseg6yIAki
 status: DRAFT
 createdAt: 2018-06-22T14:03:43.026Z
@@ -17,7 +17,7 @@ Se você configurou sua loja utilizando o fluxo de __Easy Setup__ talvez já ten
 
 Ao entrar no VTable (https://{{AccountName}}.myvtex.com/admin/vtable) você verá duas aplicações, __Admin das lojas__ e __Admin dos vendedores__:
 
-![inStore aplicacoes vtable](https://images.ctfassets.net/alneenqid6w5/6BRkoPO2cMOQkYkuSOeCO6/641c901771af479df13a487c123aff23/inStore_aplicacoes_vtable.png)
+![inStore aplicacoes vtable](//images.ctfassets.net/alneenqid6w5/6BRkoPO2cMOQkYkuSOeCO6/641c901771af479df13a487c123aff23/inStore_aplicacoes_vtable.png)
 
 Clique em __Admin dos vendedores__ para abrir a tabela onde incluiremos um novo vendedor.
 
@@ -27,7 +27,7 @@ Caso você já tenha cadastrado um vendedor através do __Easy Setup__, basta cl
 <strong>IMPORTANTE</strong>: o e-mail de cada vendedor <strong>NÃO</strong> pode ser o mesmo utilizado na plataforma VTEX, isso porque o seu e-mail de admin possui permissões que um vendedor não deveria ter, por isso é necessário utilizar algum outro e-mail sem privilégios na plataforma.
 </div>
 
-![inStore adicionando vendedor](https://images.ctfassets.net/alneenqid6w5/3WGuWnOeY8emcmuIqcE0uE/74586856739dcee97163835710a85780/inStore_adicionando_vendedor.png)
+![inStore adicionando vendedor](//images.ctfassets.net/alneenqid6w5/3WGuWnOeY8emcmuIqcE0uE/74586856739dcee97163835710a85780/inStore_adicionando_vendedor.png)
 
 Se você pulou a etapa de criação de vendedor no __Easy Setup__ e não tem nenhum vendedor criado, precisará pegar o id da __Loja__ no __Admin das Lojas__ no VTable.
 

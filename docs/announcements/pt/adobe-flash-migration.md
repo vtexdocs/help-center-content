@@ -1,5 +1,5 @@
 ---
-title: "Migração do Adobe Flash"
+title: 'Migração do Adobe Flash'
 id: 2oqcLDuGp52PEAuMSLOjPY
 status: PUBLISHED
 createdAt: 2020-06-19T15:28:35.331Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: migracao-do-adobe-flash
 legacySlug: migracao-do-adobe-flash
-announcementImageID: ""
-announcementSynopsisPT: Por conta da migração de tecnologia de navegadores da ferramenta Adobe Flash, a VTEX atualizou o módulo do CMS
+announcementImageID: ''
+announcementSynopsisPT: 'Por conta da migração de tecnologia de navegadores da ferramenta Adobe Flash, a VTEX atualizou o módulo do CMS'
 ---
 
 Por conta da [migração de tecnologia de navegadores da ferramenta Adobe Flash](https://www.blog.google/products/chrome/saying-goodbye-flash-chrome/) até o final de 2020, a VTEX atualizou o módulo do CMS. Os botões, que antes eram configurados por Flash, serão substituídos para Javascript.

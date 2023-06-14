@@ -1,5 +1,5 @@
 ---
-title: Updating prices in marketplaces
+title: 'Updating prices in marketplaces'
 id: tutorials_384
 status: PUBLISHED
 createdAt: 2017-04-27T22:07:41.136Z

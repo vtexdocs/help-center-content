@@ -1,5 +1,5 @@
 ---
-title: A mensagem "My billing address is ..." (Meu endereço de cobrança é ...) no iFrame do cartão de crédito está no idioma errado ao usar o checkout no idioma catalão
+title: 'A mensagem "My billing address is ..." (Meu endereço de cobrança é ...) no iFrame do cartão de crédito está no idioma errado ao usar o checkout no idioma catalão'
 id: 3AqPihwDDIM2qixa1jvJmz
 status: PUBLISHED
 createdAt: 2022-03-28T01:11:35.679Z

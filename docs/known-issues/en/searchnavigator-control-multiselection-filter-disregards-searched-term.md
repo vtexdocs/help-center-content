@@ -1,5 +1,5 @@
 ---
-title: searchNavigator control multi-selection filter disregards searched term
+title: 'searchNavigator control multi-selection filter disregards searched term'
 id: ijtyA8hzgsgSYwa6EoyES
 status: PUBLISHED
 createdAt: 2017-08-29T15:40:30.287Z

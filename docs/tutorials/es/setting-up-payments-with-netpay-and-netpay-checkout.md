@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con NetPay y NetPay Checkout
+title: 'Configurar pago con NetPay y NetPay Checkout'
 id: 4x03ZhET2ocg9jzx6y482Y
 status: PUBLISHED
 createdAt: 2023-03-02T12:01:13.847Z

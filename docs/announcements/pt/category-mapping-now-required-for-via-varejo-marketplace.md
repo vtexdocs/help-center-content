@@ -1,5 +1,5 @@
 ---
-title: "Mudança no envio de produtos para a Via Varejo"
+title: 'Mudança no envio de produtos para a Via Varejo'
 id: 4iWQ1Kr44tw68pQ7yyL2bu
 status: CHANGED
 createdAt: 2020-04-06T23:53:19.365Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: mapeamento-de-categorias-agora-obrigatorio-para-via-varejo-marketplace
 legacySlug: mudanca-no-envio-de-produtos-para-a-via-varejo
-announcementImageID: ""
-announcementSynopsisPT: Disponibilize seus produtos mais rapidamente na Via Varejo fazendo o mapeamento de categorias, variações e atributos.
+announcementImageID: ''
+announcementSynopsisPT: 'Disponibilize seus produtos mais rapidamente na Via Varejo fazendo o mapeamento de categorias, variações e atributos.'
 ---
 
 O fluxo de integração de produtos no Via Varejo Marketplace foi [modificado na sua API V4](https://desenvolvedores.viavarejo.com.br/api-portal/content/integracao) para aumentar a qualidade das informações dos produtos anunciados. Para nos adaptarmos a essa evolução, incluímos um passo adicional na Integração com a Via Varejo - o [mapeamento de categorias, variações e atributos](https://help.vtex.com/pt/tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY/5QVZFYNfuRIQKdq34MbTxz).

@@ -1,5 +1,5 @@
 ---
-title: Como consultar os detalhes das movimentações financeiras?
+title: 'Como consultar os detalhes das movimentações financeiras?'
 id: 3JolGkk8RcxF9UttM9MqB7
 status: DRAFT
 createdAt: 2020-06-24T22:17:42.374Z

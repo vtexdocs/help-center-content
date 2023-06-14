@@ -1,5 +1,5 @@
 ---
-title: "Plantillas de inventario con muchos ítems se dividirán en más de un archivo"
+title: 'Plantillas de inventario con muchos ítems se dividirán en más de un archivo'
 id: 2torunvirpIE7vElGR7NbI
 status: CHANGED
 createdAt: 2020-04-06T14:41:35.438Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: exportar-plantilla-de-inventario-division-en-mas-de-una-plantilla
 legacySlug: exportar-plantilla-de-inventario-division-en-mas-de-una-plantilla
-announcementImageID: ""
-announcementSynopsisES: Para inventarios con muchos ítems, la plantilla exportada se dividirá en más de un archivo, facilitando el download.
+announcementImageID: ''
+announcementSynopsisES: 'Para inventarios con muchos ítems, la plantilla exportada se dividirá en más de un archivo, facilitando el download.'
 ---
 
 El módulo *Inventario y Envío* le permite exportar una plantilla con los ítems de su inventario. Si su tienda tiene más de un inventario registrado, es posible exportar una plantilla con todos los inventarios al mismo tiempo. El archivo con la plantilla se envía a su correo electrónico.

@@ -1,5 +1,5 @@
 ---
-title: Shelf template controls
+title: 'Shelf template controls'
 id: tutorials_550
 status: DRAFT
 createdAt: 2017-04-27T22:01:02.387Z

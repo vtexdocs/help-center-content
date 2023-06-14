@@ -1,5 +1,5 @@
 ---
-title: "New appKeys will not have a predefined role"
+title: 'New appKeys will not have a predefined role'
 id: tOWdNXkLWdW9hRdGhJw0R
 status: PUBLISHED
 createdAt: 2021-01-06T19:24:51.000Z
@@ -10,8 +10,8 @@ productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: new-appkeys-will-not-have-a-predefined-role
 legacySlug: new-appkeys-will-not-have-a-predefined-access-profile
-announcementImageID: ""
-announcementSynopsisEN: AppKeys will not receive the Owner access profile by default anymore
+announcementImageID: ''
+announcementSynopsisEN: 'AppKeys will not receive the Owner access profile by default anymore'
 ---
 
 The VTEX platform has a variety of REST APIs that are commonly used to integrate third-party solutions. You can access them using specific credentials.

@@ -1,5 +1,5 @@
 ---
-title: Instalar o My Orders pela VTEX App Store 
+title: 'Instalar o My Orders pela VTEX App Store '
 id: 5kVzzhtmKW8YoUcCOyKaAu
 status: DRAFT
 createdAt: 2018-02-15T13:11:56.902Z
@@ -18,7 +18,7 @@ Acompanhando a evolução da plataforma VTEX, a viewpart de __Meus Pedidos__ ago
 
 Para fazer sua instalação, é preciso que você acesse a [VTEX App Store.](https://extensions.vtex.com/)
 
-![app store1 PT](https://images.ctfassets.net/alneenqid6w5/2aqC9IvvUM6o6Ko4WusYYQ/87950d670a9ff9eaa858bd3d24186814/app_store1_PT.png)
+![app store1 PT](//images.ctfassets.net/alneenqid6w5/2aqC9IvvUM6o6Ko4WusYYQ/87950d670a9ff9eaa858bd3d24186814/app_store1_PT.png)
 
 __Ao instalar a app, você já conta com as seguintes atualizações:__
 
@@ -28,7 +28,7 @@ __Ao instalar a app, você já conta com as seguintes atualizações:__
 - Informações de rastreio para vários itens.
 - Correção de bugs menores.
 
-![app store2 PT](https://images.ctfassets.net/alneenqid6w5/6NFSN0UxEcQgSWK6UaU8OW/5db671b107a7f6bd248aa4940dc5a108/app_store2_PT.png)
+![app store2 PT](//images.ctfassets.net/alneenqid6w5/6NFSN0UxEcQgSWK6UaU8OW/5db671b107a7f6bd248aa4940dc5a108/app_store2_PT.png)
 
 Além disso, com o novo app você consegue, realizar testes de versões e atualizá-lo sempre que uma nova versão estiver disponível, recebendo melhorias contínuas e atualizações de novas features.
 
@@ -41,4 +41,4 @@ Para fazer os testes de customização na sua página, você pode trabalhar em u
 5. Pronto! Agora você vê, antes de subir sua página, como ela irá se comportar.
 6. Para mover o My Orders para o ambiente em produção (onde seus clientes podem de fato usá-lo), você precisa publicar a modificação. Para isso, basta clicar no botão __Publicar__.
 
-![app store3 PT](https://images.ctfassets.net/alneenqid6w5/6jIsBdBtfiiKgiW6saCcMS/c81ca0455ac08dacf4a4d1db44782a15/app_store3_PT.png)
+![app store3 PT](//images.ctfassets.net/alneenqid6w5/6jIsBdBtfiiKgiW6saCcMS/c81ca0455ac08dacf4a4d1db44782a15/app_store3_PT.png)

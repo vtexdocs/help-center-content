@@ -1,5 +1,5 @@
 ---
-title: Rastreo de pedidos a través de JadLog devuelve confirmación de entrega sin que se haya entregado el pedido
+title: 'Rastreo de pedidos a través de JadLog devuelve confirmación de entrega sin que se haya entregado el pedido'
 id: 6tu2YbryI8gkiWiE0Ioe2g
 status: PUBLISHED
 createdAt: 2017-10-02T19:59:26.648Z

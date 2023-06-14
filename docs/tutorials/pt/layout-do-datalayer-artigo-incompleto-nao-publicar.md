@@ -1,5 +1,5 @@
 ---
-title: Layout do DataLayer (Artigo Incompleto. Não publicar.)
+title: 'Layout do DataLayer (Artigo Incompleto. Não publicar.)'
 id: vGOJMvNylUOykM6yWaiWK
 status: DRAFT
 createdAt: 2017-07-26T12:29:50.620Z

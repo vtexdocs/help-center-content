@@ -1,5 +1,5 @@
 ---
-title: A movimentação de categorias não atualiza o ID do departamento nos produtos
+title: 'A movimentação de categorias não atualiza o ID do departamento nos produtos'
 id: 7unyFh8IcgF7bmvXV7V37m
 status: PUBLISHED
 createdAt: 2022-06-23T19:50:55.026Z

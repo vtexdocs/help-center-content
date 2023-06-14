@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo funciona el carrito con múltiples artículos en Mercado Libre?
+title: '¿Cómo funciona el carrito con múltiples artículos en Mercado Libre?'
 id: 4dC1deB8bY260W0Ge4ycOq
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:36.404Z
@@ -28,7 +28,7 @@ En lugar de usar los IDs de cada artículo (lo que generaría pedidos separados 
 
 Usted puede encontrar los dos IDs a través del informe enviado desde el panel de integraciones en el Admin de VTEX.
 
-![mercalo-livre-pedido-id-es](https://images.ctfassets.net/alneenqid6w5/5JOUHJijbIVncRSfvx5lnC/6cceef1724619d4cd8d332d0e5aad89b/mercalo-livre-pedido-id-es.png)
+![mercalo-livre-pedido-id-es](//images.ctfassets.net/alneenqid6w5/5JOUHJijbIVncRSfvx5lnC/6cceef1724619d4cd8d332d0e5aad89b/mercalo-livre-pedido-id-es.png)
 
 <div class="alert alert-warning">
 Esta lógica de funcionamiento se aplica a todos los tipos de entrega, con excepción de aquellos que incluyen pickup points. En estos casos, la plataforma sigue utilizando el identificador antiguo.

@@ -1,5 +1,5 @@
 ---
-title: Error en el campo de cantidad máxima de la misma SKU en la Cesta
+title: 'Error en el campo de cantidad máxima de la misma SKU en la Cesta'
 id: 5xW5unmFphzQCwsmEochaG
 status: PUBLISHED
 createdAt: 2022-07-05T17:39:46.732Z

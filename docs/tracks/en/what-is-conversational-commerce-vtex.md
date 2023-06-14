@@ -1,5 +1,5 @@
 ---
-title: What is VTEX Conversational Commerce?
+title: 'What is VTEX Conversational Commerce?'
 id: 1NwwADrU70v3roPUV7dWxI
 status: PUBLISHED
 createdAt: 2022-08-23T14:47:50.242Z

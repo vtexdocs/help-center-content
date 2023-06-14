@@ -1,5 +1,5 @@
 ---
-title: Newsletter records with <vtex.cmc:newsletterOptIn/> control
+title: 'Newsletter records with <vtex.cmc:newsletterOptIn/> control'
 id: xqKrRRHBscEI8O6UKi8eE
 status: PUBLISHED
 createdAt: 2017-06-07T18:35:59.237Z

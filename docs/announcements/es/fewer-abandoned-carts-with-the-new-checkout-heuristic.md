@@ -1,5 +1,5 @@
 ---
-title: "Menos carritos abandonados con la nueva heurística del Checkout"
+title: 'Menos carritos abandonados con la nueva heurística del Checkout'
 id: 3XLEhUnRe3jjzUGLbDEZJz
 status: CHANGED
 createdAt: 2020-05-30T13:08:43.104Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: authors_24
 slug: menos-carritos-abandonados-con-la-nueva-heuristica-del-checkout
 legacySlug: menos-carritos-abandonados-con-la-nueva-heuristica-del-checkout
-announcementImageID: ""
-announcementSynopsisES: Cambiamos la lógica para el orden de sellers en las cuentas franquicia, reduciendo así los carritos abandonados.
+announcementImageID: ''
+announcementSynopsisES: 'Cambiamos la lógica para el orden de sellers en las cuentas franquicia, reduciendo así los carritos abandonados.'
 ---
 
 VTEX hizo un cambio en la lógica que define el orden de selección de los sellers que se mostrarán en el checkout de las tiendas que utilizan el modelo de [cuenta franquicia](https://help.vtex.com/es/tutorial/what-are-franchise-account-and-seller-white-label--5orlGHyDHGAYciQ64oEgKa). Anteriormente, el checkout asumía que los sellers tenían inventario y seleccionaba a todos los que hacían entrega en la dirección del pedido. A partir de ahora, el checkout selecciona primero apenas a los sellers que pueden atender a esa dirección y luego filtra a los sellers con inventario de los productos en el carrito.

@@ -1,5 +1,5 @@
 ---
-title: Configurar impresión de factura de consumidor electrónica (NFC-e)
+title: 'Configurar impresión de factura de consumidor electrónica (NFC-e)'
 id: 3v0HJIbYdWIsQggoQgUYsg
 status: DRAFT
 createdAt: 2018-06-25T22:29:30.122Z

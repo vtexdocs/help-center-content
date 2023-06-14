@@ -1,5 +1,5 @@
 ---
-title: La publicación de entidad Master Data V1 funciona de manera intermitente
+title: 'La publicación de entidad Master Data V1 funciona de manera intermitente'
 id: 7mwbfdhdw8ENUtPiC2oEPH
 status: PUBLISHED
 createdAt: 2019-07-17T17:45:55.823Z

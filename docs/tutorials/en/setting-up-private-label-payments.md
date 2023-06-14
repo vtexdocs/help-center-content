@@ -1,5 +1,5 @@
 ---
-title: Setting up Private Label payments
+title: 'Setting up Private Label payments'
 id: 428FgVdSGQUeAOoogkaIw4
 status: PUBLISHED
 createdAt: 2018-06-28T21:20:09.875Z

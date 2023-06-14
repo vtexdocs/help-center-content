@@ -1,5 +1,5 @@
 ---
-title: Setting up WebPay2P gateway
+title: 'Setting up WebPay2P gateway'
 id: 34Bn1nOoVO6iesWAgSEQQA
 status: PUBLISHED
 createdAt: 2018-04-02T19:30:48.720Z

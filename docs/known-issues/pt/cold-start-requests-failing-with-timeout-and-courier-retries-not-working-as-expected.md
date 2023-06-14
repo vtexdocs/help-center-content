@@ -1,5 +1,5 @@
 ---
-title: As solicitações de Cold Start falham com o tempo limite e as novas tentativas de entrega não funcionam como esperado
+title: 'As solicitações de Cold Start falham com o tempo limite e as novas tentativas de entrega não funcionam como esperado'
 id: 61zSmTqfPSZTjL7PrAH737
 status: PUBLISHED
 createdAt: 2023-04-13T12:42:46.846Z

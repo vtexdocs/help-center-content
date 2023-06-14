@@ -1,5 +1,5 @@
 ---
-title: "Mejoras en la gestión de claves de aplicación"
+title: 'Mejoras en la gestión de claves de aplicación'
 id: 6DsPdiQ65RKNUNl7p93zHJ
 status: PUBLISHED
 createdAt: 2021-08-19T14:45:15.177Z
@@ -10,8 +10,8 @@ productTeam: Identity
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: mejoras-en-la-gestion-de-claves-de-aplicacion
 legacySlug: mejoras-en-la-gestion-de-claves-de-aplicacion
-announcementImageID: ""
-announcementSynopsisES: Administre sus credenciales de autenticación en un solo lugar y delegue esa responsabilidad según sea necesario.
+announcementImageID: ''
+announcementSynopsisES: 'Administre sus credenciales de autenticación en un solo lugar y delegue esa responsabilidad según sea necesario.'
 ---
 
 Muchos de nuestros clientes aprovechan las integraciones de API para conectar su cuenta VTEX a sistemas externos. Las credenciales de [autenticación](https://developers.vtex.com/vtex-rest-api/docs/getting-started-authentication) se utilizan para proporcionar acceso seguro a los datos que estas integraciones requieren, sin exponer su cuenta a usuarios o aplicaciones no autorizadas. 

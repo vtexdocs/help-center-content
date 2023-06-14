@@ -1,5 +1,5 @@
 ---
-title: "Afiliaciones con split de pagos nativo y alteración de sellers"
+title: 'Afiliaciones con split de pagos nativo y alteración de sellers'
 id: HZrgfF4RMTX9DHv4erOR6
 status: PUBLISHED
 createdAt: 2020-12-22T23:33:48.841Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: afiliaciones-con-split-de-pagos-nativo-y-alteracion-de-sellers
 legacySlug: afiliaciones-con-split-de-pagos-nativo-y-alteracion-de-sellers
-announcementImageID: ""
-announcementSynopsisES: Nuevas formas de captura permiten alterar sellers y flexibilizan marketplaces con afiliaciones de split de pagos nativo.
+announcementImageID: ''
+announcementSynopsisES: 'Nuevas formas de captura permiten alterar sellers y flexibilizan marketplaces con afiliaciones de split de pagos nativo.'
 ---
 
 Es posible que los marketplaces necesiten alterar sellers en diversas situaciones, por ejemplo, cuando un seller cancela un producto en caso de ruptura de stock. En ese caso, alterar el seller puede asegurar las ventas en el marketplace y prevenir la reversión del pago.

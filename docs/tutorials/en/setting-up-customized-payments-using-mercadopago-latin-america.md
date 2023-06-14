@@ -1,5 +1,5 @@
 ---
-title: Setting up customized payments using MercadoPago (Latin America)
+title: 'Setting up customized payments using MercadoPago (Latin America)'
 id: oqLVXpxZ4GqgosA8QQYEs
 status: PUBLISHED
 createdAt: 2018-03-15T13:13:15.893Z

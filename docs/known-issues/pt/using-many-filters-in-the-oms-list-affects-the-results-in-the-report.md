@@ -1,5 +1,5 @@
 ---
-title: O uso de muitos filtros na lista OMS afeta os resultados do relatório
+title: 'O uso de muitos filtros na lista OMS afeta os resultados do relatório'
 id: WO9AvZxmUkmil35OZb8Lr
 status: PUBLISHED
 createdAt: 2023-02-17T17:45:57.039Z

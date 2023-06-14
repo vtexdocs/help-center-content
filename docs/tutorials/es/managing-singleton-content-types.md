@@ -1,5 +1,5 @@
 ---
-title: Cómo gestionar content types Singleton
+title: 'Cómo gestionar content types Singleton'
 id: VBibMN1BqV2OFmavUFCdo
 status: PUBLISHED
 createdAt: 2023-04-05T17:55:26.748Z
@@ -17,7 +17,7 @@ subcategory: 27t6x0lngvjI3bnUg5AgEO
 El content type de tipo Singleton permite la creación y gestión de una única página garantizando que en el Headless CMS solo exista una página de dicho content type.
 
 Su uso evita conflictos e incoherencias que pueden ocurrir cuando se crean varias páginas del mismo content type. Por ejemplo, puedes utilizar Singleton para la página de inicio (Home) de tu tienda, asegurándote de que solo haya una página de inicio y todas las actualizaciones y solicitudes realizadas en ella siempre devuelvan el mismo resultado.
-![singleton-es](https://images.ctfassets.net/alneenqid6w5/6aMWhl66yiP8YLJr5Bzuo5/7e816ec8a05d8731dfaee66ca0258641/singleton-es.gif)
+![singleton-es](//images.ctfassets.net/alneenqid6w5/6aMWhl66yiP8YLJr5Bzuo5/7e816ec8a05d8731dfaee66ca0258641/singleton-es.gif)
 
 <div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
   Para crear un content type Singleton, verifica con tu equipo de desarrolladores que la propiedad <i>isSingleton</i> ya esté implementada o solicita que sigan las instrucciones en <a href="https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Using%20isSingleton%20property%20in%20a%20contenty%20type">Using `isSingleton` in a content type</a> para agregarla al content type deseado.

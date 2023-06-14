@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com BluePay
+title: 'Configurar pagamento com BluePay'
 id: 26gzpfmEiwgpE8yhkaFS16
 status: PUBLISHED
 createdAt: 2023-04-03T14:55:51.576Z

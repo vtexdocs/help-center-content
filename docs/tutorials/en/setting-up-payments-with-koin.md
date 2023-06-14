@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Koin
+title: 'Setting up payments with Koin'
 id: 415vLlrVSUgeYYwycCaGiQ
 status: PUBLISHED
 createdAt: 2018-04-24T19:48:39.401Z

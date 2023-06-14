@@ -1,5 +1,5 @@
 ---
-title: Automatic field doesn't calculate the field correctly when set to "Calculate during the first hour of the day"
+title: 'Automatic field doesn't calculate the field correctly when set to "Calculate during the first hour of the day"'
 id: 6DieNCI6paEUeg06cKsCYI
 status: PUBLISHED
 createdAt: 2018-12-17T18:37:45.246Z
@@ -17,7 +17,7 @@ internalReference:
 
 ## Summary
 
-The automatic field works correctly when set to recalculate itself when there is a new entry.  It stops working however, when set to one of the "first hour" options. ![inline1511102536](https://images.ctfassets.net/alneenqid6w5/JbRenxvruoyYOueqguwcy/8ae33d07ce4db627a1c45eed5916824e/inline1511102536.png)
+The automatic field works correctly when set to recalculate itself when there is a new entry.  It stops working however, when set to one of the "first hour" options. ![inline1511102536](//images.ctfassets.net/alneenqid6w5/JbRenxvruoyYOueqguwcy/8ae33d07ce4db627a1c45eed5916824e/inline1511102536.png)
 
 ## Simulation
 

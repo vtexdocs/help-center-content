@@ -1,5 +1,5 @@
 ---
-title: Esta es una prueba
+title: 'Esta es una prueba'
 id: 2YCU5W61IehMPTpH3RIapa
 status: DRAFT
 createdAt: 2023-01-27T14:56:51.549Z

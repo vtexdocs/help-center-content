@@ -1,5 +1,5 @@
 ---
-title: Integrar con Farmácias App
+title: 'Integrar con Farmácias App'
 id: tutorials_6271
 status: PUBLISHED
 createdAt: 2017-04-27T21:49:03.087Z

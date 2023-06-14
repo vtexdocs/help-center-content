@@ -1,5 +1,5 @@
 ---
-title: O envio enxuto não permite selecionar a entrega regular quando a entrega programada é a mais barata e mais rápida
+title: 'O envio enxuto não permite selecionar a entrega regular quando a entrega programada é a mais barata e mais rápida'
 id: 4foQfCWNbU4280gcG9G4Of
 status: PUBLISHED
 createdAt: 2023-06-12T12:40:32.241Z

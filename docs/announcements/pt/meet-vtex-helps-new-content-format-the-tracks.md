@@ -1,5 +1,5 @@
 ---
-title: "Conheça as tracks, o novo formato de conteúdo do Help"
+title: 'Conheça as tracks, o novo formato de conteúdo do Help'
 id: 42l5DRCLReUweQC0EewAUm
 status: PUBLISHED
 createdAt: 2018-05-09T15:53:24.493Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: authors_24
 slug: conheca-as-tracks-o-novo-formato-de-conteudo-do-help
 legacySlug: conheca-as-tracks-o-novo-formato-de-conteudo-do-help
-announcementImageID: ""
-announcementSynopsisPT: As tracks são tutoriais detalhados para você dominar todo o potencial da plataforma VTEX.
+announcementImageID: ''
+announcementSynopsisPT: 'As tracks são tutoriais detalhados para você dominar todo o potencial da plataforma VTEX.'
 ---
 
 O VTEX Help lançou um novo formato de conteúdo. Além dos artigos e announcements que você já conhece, agora temos as tracks: um modo linear de ajudar você a dominar todo o potencial da plataforma. 

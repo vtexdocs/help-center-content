@@ -1,5 +1,5 @@
 ---
-title: "Assembly Options: New app to simplify product customization"
+title: 'Assembly Options: New app to simplify product customization'
 id: 6LJ2tbKQzBuGLj5rqICmp2
 status: PUBLISHED
 createdAt: 2022-06-22T22:20:42.810Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: assembly-options-new-app-to-simplify-product-customization
 legacySlug: assembly-options-new-app-to-simplify-product-customization
-announcementImageID: ""
-announcementSynopsisEN: We developed the Assembly Options app to simplify product customization during purchase.
+announcementImageID: ''
+announcementSynopsisEN: 'We developed the Assembly Options app to simplify product customization during purchase.'
 ---
 
 Customizing products is a common need in the online shopping experience. On the VTEX platform, you can customize products using [Assembly Options](https://help.vtex.com/en/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH) — [attachments](https://help.vtex.com/en/tutorial/what-is-an-attachment--aGICk0RVbqKg6GYmQcWUm) for complex scenarios in which you need to manage different combinations of products, quantities, additional items and costs.
@@ -20,7 +20,7 @@ For example, restaurants that accept online orders usually allow customers to ch
 
 To simplify this feature, we developed the Assembly Options app, which provides an interface for configuring and managing custom options. The app is only available for stores using [VTEX IO](https://vtex.com/us-en/store-framework/).
 
-![assembly-options-app-en](https://images.ctfassets.net/alneenqid6w5/7AoMYLduvKisAxKMho64m0/b65d786da2a92266eb107b3eeac0f048/assembly-options-app-en.PNG)
+![assembly-options-app-en](//images.ctfassets.net/alneenqid6w5/7AoMYLduvKisAxKMho64m0/b65d786da2a92266eb107b3eeac0f048/assembly-options-app-en.PNG)
 
 ## What has changed?
 

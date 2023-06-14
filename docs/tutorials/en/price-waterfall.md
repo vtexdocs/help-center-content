@@ -1,5 +1,5 @@
 ---
-title: Price Waterfall
+title: 'Price Waterfall'
 id: 2USbESztvGi80WMUEawMGq
 status: DRAFT
 createdAt: 2018-06-20T21:23:23.445Z
@@ -20,7 +20,7 @@ With this new feature, we now have a new price entity called *Conditional Prices
 
 Below we have an illustration showing how this price waterfall works:
 
-![priceWaterfall](https://images.ctfassets.net/alneenqid6w5/5SSTp5o3VS4eucykWG4wo2/6699e0bd2c023a46cfc322fd89b0b04c/Screen_Shot_2018-08-27_at_14.01.54.png)
+![priceWaterfall](//images.ctfassets.net/alneenqid6w5/5SSTp5o3VS4eucykWG4wo2/6699e0bd2c023a46cfc322fd89b0b04c/Screen_Shot_2018-08-27_at_14.01.54.png)
 
 When a price for a specific SKU is requested to the *Pricing* module:
 1. A *Fixed Price* is selected according to its criteria like **scheduling** and **minimum quantity**.

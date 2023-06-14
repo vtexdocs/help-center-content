@@ -1,5 +1,5 @@
 ---
-title: If the Correios tables are not concatenated in the Ready to dispatch filter the label generation does not work properly
+title: 'If the Correios tables are not concatenated in the Ready to dispatch filter the label generation does not work properly'
 id: sjvdk1dovk0UBfJJEBVcs
 status: PUBLISHED
 createdAt: 2022-02-03T19:53:04.280Z

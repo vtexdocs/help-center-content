@@ -1,5 +1,5 @@
 ---
-title: Versión de escritorio del sitio cuando se accede a través de IPad en Safari
+title: 'Versión de escritorio del sitio cuando se accede a través de IPad en Safari'
 id: 17jzhKnc8X1bKo5ExwEY5L
 status: PUBLISHED
 createdAt: 2023-01-17T18:24:02.908Z

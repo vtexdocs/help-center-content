@@ -1,5 +1,5 @@
 ---
-title: Definição da política comercial para Netshoes
+title: 'Definição da política comercial para Netshoes'
 id: 6ESk5Zk32baNfluXbL3Xmz
 status: PUBLISHED
 createdAt: 2021-02-23T20:04:34.470Z

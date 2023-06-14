@@ -1,5 +1,5 @@
 ---
-title: "Promissórias: Novo campo de configuração permite personalizar o prazo de faturamento"
+title: 'Promissórias: Novo campo de configuração permite personalizar o prazo de faturamento'
 id: 14JRjD4sLv10ME2mwlgtwl
 status: PUBLISHED
 createdAt: 2021-05-31T13:37:55.594Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: promissorias-novo-campo-de-configuracao-permite-personalizar-o-prazo-de
 legacySlug: promissorias-novo-campo-de-configuracao-permite-personalizar-o-prazo-de
-announcementImageID: ""
-announcementSynopsisPT: Tenha mais flexibilidade com o novo campo de faturamento automático nas configurações de promissórias.
+announcementImageID: ''
+announcementSynopsisPT: 'Tenha mais flexibilidade com o novo campo de faturamento automático nas configurações de promissórias.'
 ---
 
 Frequentemente utilizada para disponibilizar pagamento através de dinheiro, promissória é uma promessa de pagamento que precisa de aprovação manual do lojista para concluir a transação.

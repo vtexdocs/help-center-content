@@ -1,5 +1,5 @@
 ---
-title: Como usar os triggers do MasterData V2 para interagir com pedidos (orders)
+title: 'Como usar os triggers do MasterData V2 para interagir com pedidos (orders)'
 id: 4cqms9Z186yQQMvdxjflAg
 status: DRAFT
 createdAt: 2019-01-14T15:29:01.109Z

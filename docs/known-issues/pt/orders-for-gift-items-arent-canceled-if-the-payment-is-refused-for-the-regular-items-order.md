@@ -1,5 +1,5 @@
 ---
-title: Pedidos de artigos para presentes não são cancelados se o pagamento for recusado para o pedido normal do artigo
+title: 'Pedidos de artigos para presentes não são cancelados se o pagamento for recusado para o pedido normal do artigo'
 id: 6Yr7bEseJceNQiY2sw7Vtx
 status: PUBLISHED
 createdAt: 2022-10-18T22:34:21.726Z

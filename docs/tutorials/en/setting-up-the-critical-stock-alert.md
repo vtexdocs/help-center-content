@@ -1,5 +1,5 @@
 ---
-title: Setting up the Low Inventory Alert
+title: 'Setting up the Low Inventory Alert'
 id: 6FD0GHeQPCsKIMgkQ88SGu
 status: PUBLISHED
 createdAt: 2017-07-20T22:00:33.917Z

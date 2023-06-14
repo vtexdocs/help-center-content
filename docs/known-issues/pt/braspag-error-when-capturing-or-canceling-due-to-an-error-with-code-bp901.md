@@ -1,5 +1,5 @@
 ---
-title: Erro da Braspag ao capturar ou cancelar devido a um erro com o código BP901
+title: 'Erro da Braspag ao capturar ou cancelar devido a um erro com o código BP901'
 id: 6jNI8lEoQe7t9hLVdD0T2R
 status: PUBLISHED
 createdAt: 2022-06-14T17:08:24.367Z

@@ -1,5 +1,5 @@
 ---
-title: O que é um seller?
+title: 'O que é um seller?'
 id: 5FkLvhZ3Few4CWWIuYOK2w
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:35.821Z

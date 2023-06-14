@@ -1,5 +1,5 @@
 ---
-title: Suscripciones cuando el vendedor es un Punto de Recogida y no tiene una de las SKU.
+title: 'Suscripciones cuando el vendedor es un Punto de Recogida y no tiene una de las SKU.'
 id: 4xIlZZQu8cK42otvvbjhMA
 status: PUBLISHED
 createdAt: 2022-10-03T12:50:59.047Z

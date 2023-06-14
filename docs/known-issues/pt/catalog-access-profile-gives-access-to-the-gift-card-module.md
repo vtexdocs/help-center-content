@@ -1,5 +1,5 @@
 ---
-title: Perfil de acesso ao catálogo dá acesso ao módulo Gift Card
+title: 'Perfil de acesso ao catálogo dá acesso ao módulo Gift Card'
 id: 1ZLEcFdDt267fJ2BQ9iLil
 status: PUBLISHED
 createdAt: 2022-03-27T01:11:44.523Z

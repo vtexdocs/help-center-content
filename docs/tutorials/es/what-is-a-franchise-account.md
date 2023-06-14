@@ -1,5 +1,5 @@
 ---
-title: ¿Qué es una cuenta franquicia?
+title: '¿Qué es una cuenta franquicia?'
 id: kWQC6RkFSCUFGgY5gSjdl
 status: PUBLISHED
 createdAt: 2021-10-13T20:38:07.014Z
@@ -18,7 +18,7 @@ En la plataforma VTEX, tienes la opción de registrar tiendas físicas, franquic
 
 La cuenta franquicia está asociada a una cuenta principal. En el caso de una marca que tenga varias tiendas físicas, franquiciados o representantes, cada uno de ellos puede tener una cuenta franquicia vinculada a la cuenta principal de la marca. Esto les permite entregar los productos vendidos por el ecommerce de la marca.
 
-![diagrama contas v2 - es](https://images.ctfassets.net/alneenqid6w5/6KC4yvWh08WZ3DMcGRJS4I/38f2bac55f9150f6049aaa20193aa97e/diagrama_contas_v2_-_es.png)
+![diagrama contas v2 - es](//images.ctfassets.net/alneenqid6w5/6KC4yvWh08WZ3DMcGRJS4I/38f2bac55f9150f6049aaa20193aa97e/diagrama_contas_v2_-_es.png)
 
 En este artículo, trataremos los siguientes temas:
 
@@ -37,7 +37,7 @@ Además, utilizando la cuenta franquicia, puedes gestionar precios y medios de p
 
 Una cuenta franquicia no tiene su propio sitio web. Los consumidores navegan directamente en el sitio web de la cuenta principal, que funciona como un _marketplace_ en esta situación. Los datos de los clientes se almacenan en el Master Data de la cuenta principal.
 
-![diagrama admin contas - es](https://images.ctfassets.net/alneenqid6w5/226ePm8TzkWPFnTvJj2Sej/b30710b00e3a9a898fe2cd1fb5dd96c5/diagrama_admin_contas_-_es.png)
+![diagrama admin contas - es](//images.ctfassets.net/alneenqid6w5/226ePm8TzkWPFnTvJj2Sej/b30710b00e3a9a898fe2cd1fb5dd96c5/diagrama_admin_contas_-_es.png)
 
 ## Relación entre la cuenta franquicia y el _Seller White Label_
 

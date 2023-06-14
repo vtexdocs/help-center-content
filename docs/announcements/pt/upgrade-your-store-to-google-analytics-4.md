@@ -1,5 +1,5 @@
 ---
-title: "Atualize a sua loja para o Google Analytics 4"
+title: 'Atualize a sua loja para o Google Analytics 4'
 id: 01mmrSck8nvXAKsypecT9V
 status: PUBLISHED
 createdAt: 2023-04-28T14:42:52.792Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 1malnhMX0vPThsaJaZMYm2
 slug: atualize-a-sua-loja-para-o-google-analytics-4
 legacySlug: atualize-a-sua-loja-para-o-google-analytics-4
-announcementImageID: ""
-announcementSynopsisPT: atualize-a-sua-loja-para-o-google-analytics-4
+announcementImageID: ''
+announcementSynopsisPT: 'atualize-a-sua-loja-para-o-google-analytics-4'
 ---
 
 A partir de 1º de julho de 2023, o [Google Analytics 4](https://support.google.com/analytics/answer/10089681) (GA4) vai substituir o Universal Analytics, versão anterior da ferramenta de análise de dados do Google. Confira detalhes sobre a mudança [neste comunicado do Google](https://support.google.com/analytics/answer/11583528).

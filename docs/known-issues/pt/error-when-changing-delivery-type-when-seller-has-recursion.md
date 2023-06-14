@@ -1,5 +1,5 @@
 ---
-title: Erro ao mudar o tipo de entrega quando o vendedor tem recorrência
+title: 'Erro ao mudar o tipo de entrega quando o vendedor tem recorrência'
 id: 7JLnqVWHz94sQZKMOGUkKC
 status: PUBLISHED
 createdAt: 2022-06-14T14:07:38.881Z

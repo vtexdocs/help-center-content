@@ -1,5 +1,5 @@
 ---
-title: Configuração de Tempo das Transportadoras
+title: 'Configuração de Tempo das Transportadoras'
 id: 3QVhjcZ74smYsmEEgAGsui
 status: DRAFT
 createdAt: 2018-02-07T21:25:14.224Z

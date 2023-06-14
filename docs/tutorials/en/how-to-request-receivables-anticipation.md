@@ -1,5 +1,5 @@
 ---
-title: How to request receivables anticipation?
+title: 'How to request receivables anticipation?'
 id: O82Cw3Tirmr7cxqRhy90s
 status: DRAFT
 createdAt: 2020-03-09T23:05:49.988Z
@@ -30,7 +30,7 @@ Now that you have checked the balance, it is important to keep in mind that the 
 
 For example, if your lowest receivable is R$ 10, this is the minimum amount you can anticipate. The maximum amount is informed in the Admin’s “Anticipate receivables” page - the balance you just checked.
 
-![antecipaçãoEN](https://images.ctfassets.net/alneenqid6w5/655LHSr6GS2RpCvCKYfAup/bade73d74e819b410247130a7662df03/image.png_h_250)
+![antecipaçãoEN](//images.ctfassets.net/alneenqid6w5/655LHSr6GS2RpCvCKYfAup/bade73d74e819b410247130a7662df03/image.png_h_250)
 
 <div class="alert alert-info">
 <strong>Warning</strong>: receivables in dispute or expected for the next business day cannot be anticipated.

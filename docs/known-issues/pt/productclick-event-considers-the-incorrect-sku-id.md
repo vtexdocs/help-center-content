@@ -1,5 +1,5 @@
 ---
-title: productClick event considera o SKU Id incorreto
+title: 'productClick event considera o SKU Id incorreto'
 id: 1tgrIgo8xGzDW9wJOnjU9E
 status: PUBLISHED
 createdAt: 2023-04-11T17:38:17.545Z

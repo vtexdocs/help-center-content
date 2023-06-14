@@ -1,5 +1,5 @@
 ---
-title: "ERP integration guides have a new home"
+title: 'ERP integration guides have a new home'
 id: 3lqN5Z0ydDBAxxYN9mbQ6K
 status: PUBLISHED
 createdAt: 2020-06-03T23:49:57.335Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: erp-integration-guides-have-a-new-home
 legacySlug: integration-guide-for-erps-orders, integration-guide-for-erps-express-catalog, integration-guide-for-erps-full-catalog, integration-guide-for-erps-catalog-architecture, integration-interfaces
-announcementImageID: ""
-announcementSynopsisEN: This documentation was recently updated and is available in our Developer Portal.
+announcementImageID: ''
+announcementSynopsisEN: 'This documentation was recently updated and is available in our Developer Portal.'
 ---
 
 As part of our ongoing effort of developer documentation migration to our Developer Portal, we have recently created a new [ERP integration guide](https://developers.vtex.com/docs/guides/erp-integration-guide) detailing how to use our API endpoints to:

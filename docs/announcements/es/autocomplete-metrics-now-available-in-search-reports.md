@@ -1,5 +1,5 @@
 ---
-title: "Las métricas de Autocomplete ahora están disponibles en los informes de búsqueda"
+title: 'Las métricas de Autocomplete ahora están disponibles en los informes de búsqueda'
 id: 69fXrUlDzGZ8Uvhi17oXcY
 status: PUBLISHED
 createdAt: 2020-10-13T19:10:34.882Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: las-metricas-de-autocomplete-ahora-estan-disponibles-en-los-informes-de-busqueda
 legacySlug: las-metricas-de-autocomplete-ahora-estan-disponibles-en-los-informes-de-busqueda
-announcementImageID: ""
-announcementSynopsisES: Para un análisis más completo del comportamiento de búsqueda, incluimos las métricas de Autocomplete en esto informe
+announcementImageID: ''
+announcementSynopsisES: 'Para un análisis más completo del comportamiento de búsqueda, incluimos las métricas de Autocomplete en esto informe'
 ---
 
 Para analizar y monitorear el desempeño de [VTEX lntelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), se puede ver y exportar [informes](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m#) con datos relacionados a las búsquedas realizadas en la tienda. Para permitir un análisis más completo del comportamiento de búsqueda de sus clientes, incluimos las métricas de [Autocomplete](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4gXFsEWjF7QF7UtI2GAvhL#) en estos informes.
@@ -22,7 +22,7 @@ Antes solo se podía ver y exportar informes sobre los resultados de búsqueda y
 <table width = "100%">
   <tr>
     <td>
-      <img src = "https:https://images.ctfassets.net/alneenqid6w5/7xQxfEBJDIY7aOBzPqkRox/9a2594c86f5fe7aa30e75f78a10241e9/relatorios-filtros-ES.png" style = "display:block; margin-left: auto; margin-right: auto;" alt = "Opções de filtros do relatório" title = "Opções de filtros do relatório">
+      <img src = "https://images.ctfassets.net/alneenqid6w5/7xQxfEBJDIY7aOBzPqkRox/9a2594c86f5fe7aa30e75f78a10241e9/relatorios-filtros-ES.png" style = "display:block; margin-left: auto; margin-right: auto;" alt = "Opções de filtros do relatório" title = "Opções de filtros do relatório">
     </td>
   </tr>
   <tr>

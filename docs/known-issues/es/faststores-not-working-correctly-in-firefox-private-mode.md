@@ -1,5 +1,5 @@
 ---
-title: Faststores no funciona correctamente en el modo privado de Firefox
+title: 'Faststores no funciona correctamente en el modo privado de Firefox'
 id: 3SMQiZFYt8SSVlOJLIMYvH
 status: PUBLISHED
 createdAt: 2023-05-19T14:56:53.172Z

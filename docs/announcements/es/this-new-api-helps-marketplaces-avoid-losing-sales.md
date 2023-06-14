@@ -1,5 +1,5 @@
 ---
-title: "Nueva API ayuda a los marketplaces a mantener ventas"
+title: 'Nueva API ayuda a los marketplaces a mantener ventas'
 id: ViRaoD0gKIIwOSoYCSQM0
 status: PUBLISHED
 createdAt: 2018-02-01T12:43:05.771Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: authors_24
 slug: nueva-api-ayuda-a-los-marketplaces-a-mantener-ventas
 legacySlug: nueva-api-ayuda-a-los-marketplaces-a-mantener-ventas
-announcementImageID: ""
-announcementSynopsisES: El Change Seller da más autonomía para que los marketplaces administren sus ventas.
+announcementImageID: ''
+announcementSynopsisES: 'El Change Seller da más autonomía para que los marketplaces administren sus ventas.'
 ---
 
 Ya está disponible en stable una API que va a traer aún más autonomía para los marketplaces que usan VTEX. Es el Change Seller, que inaugura un nuevo status en el workflow, llamado __Window to change Seller__.

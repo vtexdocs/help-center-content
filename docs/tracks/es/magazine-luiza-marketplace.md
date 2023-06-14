@@ -1,5 +1,5 @@
 ---
-title: Marketplace Magazine Luiza
+title: 'Marketplace Magazine Luiza'
 id: 5CEVGKgtrMuifbjNoo8jKX
 status: PUBLISHED
 createdAt: 2021-03-16T19:41:45.000Z

@@ -1,5 +1,5 @@
 ---
-title: Crear cuentas en Customer Credit
+title: 'Crear cuentas en Customer Credit'
 id: 7FHLd0cmxqqGeEUuc8uioU
 status: PUBLISHED
 createdAt: 2018-11-06T20:24:28.924Z

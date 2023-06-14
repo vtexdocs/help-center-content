@@ -1,5 +1,5 @@
 ---
-title: Website Binding com informações antigas do License Manager
+title: 'Website Binding com informações antigas do License Manager'
 id: 1F8B0AD7IEGgmqWswAAkYe
 status: PUBLISHED
 createdAt: 2017-04-10T13:26:43.145Z

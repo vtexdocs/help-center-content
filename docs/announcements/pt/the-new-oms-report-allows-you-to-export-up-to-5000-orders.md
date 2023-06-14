@@ -1,5 +1,5 @@
 ---
-title: "Novo relatório do OMS permite a exportação de até 5000 pedidos"
+title: 'Novo relatório do OMS permite a exportação de até 5000 pedidos'
 id: 3KLZdi2MjmUAAKeUWCIU0a
 status: PUBLISHED
 createdAt: 2018-12-12T17:26:42.584Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: novo-relatorio-do-oms-permite-a-exportacao-de-ate-5000-pedidos
 legacySlug: novo-relatorio-do-oms-permite-a-exportacao-de-ate-5000-pedidos
-announcementImageID: ""
-announcementSynopsisPT: A partir de 13/12, você vai poder exportar até 5 mil pedidos de uma única vez no módulo de Gerenciamento de Pedidos.
+announcementImageID: ''
+announcementSynopsisPT: 'A partir de 13/12, você vai poder exportar até 5 mil pedidos de uma única vez no módulo de Gerenciamento de Pedidos.'
 ---
 
 Lançamos o novo relatório do módulo de Gerenciamento de Pedidos (antigo OMS), muito mais consistente e com performance melhorada. Ele permitiu que nossos desenvolvedores trabalhassem para resolver uma demanda de muitos clientes: então, a partir de __13 de dezembro de 2018__, você vai poder exportar até __5 mil pedidos de uma única vez__.

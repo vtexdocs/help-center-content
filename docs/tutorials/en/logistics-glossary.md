@@ -1,5 +1,5 @@
 ---
-title: Logistics Glossary
+title: 'Logistics Glossary'
 id: 16DSSiXn548rsidi0A8Hby
 status: PUBLISHED
 createdAt: 2022-02-07T12:51:38.578Z

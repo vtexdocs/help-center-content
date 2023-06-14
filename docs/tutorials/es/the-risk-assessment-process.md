@@ -1,5 +1,5 @@
 ---
-title: El proceso de Risk Assessment
+title: 'El proceso de Risk Assessment'
 id: 4K97IpqkpCpDYsZOSxtfkX
 status: PUBLISHED
 createdAt: 2022-05-26T13:08:53.479Z

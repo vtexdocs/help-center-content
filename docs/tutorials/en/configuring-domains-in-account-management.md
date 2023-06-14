@@ -1,5 +1,5 @@
 ---
-title: Configure your store's domain
+title: 'Configure your store's domain'
 id: tutorials_2450
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:00.603Z

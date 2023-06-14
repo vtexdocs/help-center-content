@@ -1,5 +1,5 @@
 ---
-title: La configuración del marcador de posición en el CMS no muestra todo el contenido
+title: 'La configuración del marcador de posición en el CMS no muestra todo el contenido'
 id: 66IuxgG1s382mr25Amcv7L
 status: PUBLISHED
 createdAt: 2022-03-22T15:14:47.515Z

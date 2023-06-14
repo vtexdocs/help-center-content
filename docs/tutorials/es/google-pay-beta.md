@@ -1,10 +1,10 @@
 ---
-title: Google Pay (Beta)
+title: 'Google Pay (Beta)'
 id: 653pNFOw6L5CvGupLosJSq
 status: PUBLISHED
 createdAt: 2023-04-26T15:34:40.825Z
-updatedAt: 2023-04-27T18:11:19.479Z
-publishedAt: 2023-04-27T18:11:19.479Z
+updatedAt: 2023-06-14T19:34:39.943Z
+publishedAt: 2023-06-14T19:34:39.943Z
 firstPublishedAt: 2023-04-26T20:03:44.992Z
 contentType: tutorial
 productTeam: Shopping
@@ -22,13 +22,16 @@ Google Pay™ es un servicio de pagos digitales que permite a los usuarios no co
 
 Los términos de la API de Google Pay se aplican siempre que el administrador de la tienda ofrezca Google Pay como medio de pago. Para leer los términos, accede a [Google Pay API Terms of Service](https://payments.developers.google.com/terms/sellertos).
 
+<div class="alert alert-warning">
+<p>Google Pay no está disponible para Checkout V5 o versiones anteriores de Checkout.h</p>
+</div>
+
 ## Activar Google Pay
 
 Para activar Google Pay, sigue los pasos a continuación. 
 
 1. En el Admin VTEX, haz clic en el ícono del engranaje **Configuración de la tienda > Pago > Carteras** o ingresa. **Carteras** en la barra de búsqueda de la parte superior de la página.
-2. Haz clic en <i class="fas-solid fa-toggle-on"></i> `Google Pay`.
-3. Selecciona la opción **Activar** para modificar el checkout e incluir la extensión de Google Pay.
+2. Selecciona la opción **Activar** para modificar el checkout e incluir la extensión de Google Pay.
 
 <div class = "alert alert-info">
 <p>Las redes admitidas en Google Pay son las mismas configuradas en las condiciones de pago.</p>
@@ -36,10 +39,10 @@ Para activar Google Pay, sigue los pasos a continuación.
 
 Una vez hecho esto, Google Pay estará disponible en el checkout de tu tienda VTEX como nuevo medio de pago. La configuración puede demorarse alrededor de 10 minutos en aparecer en el checkout.
 
-![google pay - ES](https://images.ctfassets.net/alneenqid6w5/IhdcOpZC0MPaZLYbPUYw1/fc1aa919d82b228ed26d2a967f4a4064/image.png)
+![google pay - ES](//images.ctfassets.net/alneenqid6w5/IhdcOpZC0MPaZLYbPUYw1/fc1aa919d82b228ed26d2a967f4a4064/image.png)
 
 <div class = "alert alert-warning">
-<p>Google Pay, por el momento, no admite suscripciones. En los pedidos de suscripción, solo funcionará la primera compra.</p>
+<p>Google Pay, por el momento, no admite suscripciones.</p>
 </div>
 
 Para utilizar Google Pay deben cumplirse los siguientes requisitos:

@@ -1,5 +1,5 @@
 ---
-title: Modificar a ordem de meios de pagamento no checkout
+title: 'Modificar a ordem de meios de pagamento no checkout'
 id: frequentlyAskedQuestions_490
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:54.205Z

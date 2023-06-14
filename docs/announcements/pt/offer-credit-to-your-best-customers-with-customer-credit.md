@@ -1,5 +1,5 @@
 ---
-title: "Dê crédito aos seus melhores clientes com o Customer Credit"
+title: 'Dê crédito aos seus melhores clientes com o Customer Credit'
 id: 6M2V1Oc1UIaGSM6QayWkmq
 status: PUBLISHED
 createdAt: 2018-11-28T14:19:45.783Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: de-credito-aos-seus-melhores-clientes-com-o-customer-credit
 legacySlug: de-credito-aos-seus-melhores-clientes-com-o-customer-credit
-announcementImageID: ""
-announcementSynopsisPT: Antigo Credit Control será descontinuado para dar lugar à nova solução da VTEX para crédito de loja.
+announcementImageID: ''
+announcementSynopsisPT: 'Antigo Credit Control será descontinuado para dar lugar à nova solução da VTEX para crédito de loja.'
 ---
 
 O __Customer Credit__ é a nova solução da VTEX para sua loja oferecer crédito a clientes de confiança. Lançado hoje, ele traz diversas funcionalidades que antes não existiam no Credit Control: opções de prazos e parcelamentos diferenciados, autenticação e crédito disponível direto no checkout e sistema de pré-autorização e captura de pagamento no mesmo padrão de compras feitas com cartão de crédito. 

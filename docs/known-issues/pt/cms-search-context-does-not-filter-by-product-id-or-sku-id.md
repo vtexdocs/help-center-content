@@ -1,5 +1,5 @@
 ---
-title: O Search Context do CMS não filtra por ID de produto ou de SKU
+title: 'O Search Context do CMS não filtra por ID de produto ou de SKU'
 id: 6RqbCunfdqZpzLJaKiOqhN
 status: DRAFT
 createdAt: 2021-08-19T16:24:41.110Z

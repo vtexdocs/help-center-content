@@ -1,5 +1,5 @@
 ---
-title: Capacidade de entrega como (zero) pedidos, permitindo o transporte de horários no checkout
+title: 'Capacidade de entrega como (zero) pedidos, permitindo o transporte de horários no checkout'
 id: 2bLfDs5LpdQqaiu6MYcnCB
 status: PUBLISHED
 createdAt: 2022-05-17T20:10:26.177Z

@@ -1,5 +1,5 @@
 ---
-title: Configuring payment conditions
+title: 'Configuring payment conditions'
 id: tutorials_455
 status: CHANGED
 createdAt: 2017-04-27T22:04:07.105Z
@@ -84,7 +84,7 @@ In Step 5. you can choose other payment methods such as debit cards, cobranded, 
 14. To choose between compound interest and simple interest, select __Compound Interest applied. Change__. A selection box will appear allowing you to choose between the two options. 
 15. Click on __Save*__.
 
-![Juros - en](https://images.ctfassets.net/alneenqid6w5/7IPLydgcKCsQUItYhn4LgD/efa95228eb34354425a0064491122b46/Juros_-_en.png)
+![Juros - en](//images.ctfassets.net/alneenqid6w5/7IPLydgcKCsQUItYhn4LgD/efa95228eb34354425a0064491122b46/Juros_-_en.png)
 
 #### External Interest
 
@@ -100,4 +100,4 @@ In some countries, interest on installment purchases is charged directly by the 
 2. In the __Payment Conditions__ tab, click on the payment term you wish to remove.
 3. Click on the trash can icon.
 
-![Remove payment condition](https://images.ctfassets.net/alneenqid6w5/30AGmwCJOclqEqvcNPzuxV/8fc094a085a51f3b24d705956c14e052/remove_payment_condition.png)
+![Remove payment condition](//images.ctfassets.net/alneenqid6w5/30AGmwCJOclqEqvcNPzuxV/8fc094a085a51f3b24d705956c14e052/remove_payment_condition.png)

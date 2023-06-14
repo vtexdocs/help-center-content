@@ -1,5 +1,5 @@
 ---
-title: Checkout forçando a etapa de envio no modo de entrega enquanto a opção de endereço e ponto de retirada foi definida via API
+title: 'Checkout forçando a etapa de envio no modo de entrega enquanto a opção de endereço e ponto de retirada foi definida via API'
 id: 7nBzQb8KZ3hXy2VfvWh7he
 status: PUBLISHED
 createdAt: 2022-04-11T17:35:29.050Z

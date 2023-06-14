@@ -1,5 +1,5 @@
 ---
-title: Configurar o gateway Braspag
+title: 'Configurar o gateway Braspag'
 id: 7tQmfLMvtYEsWoaaAaeKSC
 status: PUBLISHED
 createdAt: 2018-02-27T18:21:37.603Z

@@ -1,5 +1,5 @@
 ---
-title: "Garanta mais segurança e controle na tela de Autorização de Pedidos"
+title: 'Garanta mais segurança e controle na tela de Autorização de Pedidos'
 id: 2CQWK0yFoBVjCHQGvChC7B
 status: PUBLISHED
 createdAt: 2019-06-06T17:24:29.977Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: garanta-mais-seguranca-e-controle-na-tela-de-autorizacao-de-pedidos
 legacySlug: garanta-mais-seguranca-e-controle-na-tela-de-autorizacao-de-pedidos
-announcementImageID: ""
-announcementSynopsisPT: Possibilidade de limitar perfis de acesso à tela de Autorização de pedidos
+announcementImageID: ''
+announcementSynopsisPT: 'Possibilidade de limitar perfis de acesso à tela de Autorização de pedidos'
 ---
 
 <div class="alert alert-warning">
@@ -38,7 +38,7 @@ Para fazer isso é necessário adicionar um produto chamado `Order Authorization
  6. Escolha o tipo de permissão desejada: `Save Configuration`, para permitir que o usuário edite e salve modificações, ou `View Configuration`, para permitir a visualização da página de Autorização de Pedidos.
  7. Clique em **Salvar**
 
-![GIT-OrderAutho](https://images.ctfassets.net/alneenqid6w5/4jnwsJuKbMW7YMt6g3Jhfp/19219d84c921d287462551b1b5ddbd00/GIT-OrderAutho.gif)
+![GIT-OrderAutho](//images.ctfassets.net/alneenqid6w5/4jnwsJuKbMW7YMt6g3Jhfp/19219d84c921d287462551b1b5ddbd00/GIT-OrderAutho.gif)
 
 Após adicionar este novo produto a um perfil, certifique-se de que os usuários desejados estão associados a este perfil de acesso.
   

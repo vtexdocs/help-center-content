@@ -1,5 +1,5 @@
 ---
-title: Configuración de Pix
+title: 'Configuración de Pix'
 id: 7MiYdeYcy77tMqsYC8GTxn
 status: PUBLISHED
 createdAt: 2022-08-30T20:59:07.972Z

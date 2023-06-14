@@ -1,5 +1,5 @@
 ---
-title: Store Settings Overview
+title: 'Store Settings Overview'
 id: 6VtlMoid6iM9dP14X1CopT
 status: PUBLISHED
 createdAt: 2023-03-29T23:00:51.439Z
@@ -22,7 +22,7 @@ To access this feature, click on the __Store Settings__ icon on the left navigat
 Note that the settings you had configured in the previous environment have not changed. We have only rearranged how you reach them.  
 </div>
 
-![Admin v4 Store settings menu EN](https://images.ctfassets.net/alneenqid6w5/2EIX54YHzIivbQjreHGV4B/de97901ab7998117667296e7ce096cf2/Admin_v4_Store_settings_menu_EN.jpg)
+![Admin v4 Store settings menu EN](//images.ctfassets.net/alneenqid6w5/2EIX54YHzIivbQjreHGV4B/de97901ab7998117667296e7ce096cf2/Admin_v4_Store_settings_menu_EN.jpg)
 
 Check out more details about the different sections and pages of this menu below. 
 

@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com ETpay
+title: 'Configurar pagamento com ETpay'
 id: 1vYO022oVj4MdVKP5fCMNx
 status: PUBLISHED
 createdAt: 2022-10-18T17:45:32.139Z

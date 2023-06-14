@@ -1,5 +1,5 @@
 ---
-title: Configurar a captação de newsletter pelo Master Data
+title: 'Configurar a captação de newsletter pelo Master Data'
 id: frequentlyAskedQuestions_1816
 status: DRAFT
 createdAt: 2019-01-24T20:45:58.651Z

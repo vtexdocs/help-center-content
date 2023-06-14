@@ -1,5 +1,5 @@
 ---
-title: Actualización de las condiciones comerciales
+title: 'Actualización de las condiciones comerciales'
 id: 1g9OiQ5RfuyrAWAfjEi07W
 status: DRAFT
 createdAt: 2019-01-29T13:57:27.106Z

@@ -1,5 +1,5 @@
 ---
-title: Linking your development app
+title: 'Linking your development app'
 id: bKXgZWMLrUkimeUwWSy0u
 status: DRAFT
 createdAt: 2018-02-21T23:05:11.367Z

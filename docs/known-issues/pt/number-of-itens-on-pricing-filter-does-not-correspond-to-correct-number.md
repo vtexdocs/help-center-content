@@ -1,5 +1,5 @@
 ---
-title: O número de itens no filtro de preços não corresponde ao número correto
+title: 'O número de itens no filtro de preços não corresponde ao número correto'
 id: 1FyjpY1K6JfAQ0gRIuXyuO
 status: PUBLISHED
 createdAt: 2022-03-16T19:37:02.943Z

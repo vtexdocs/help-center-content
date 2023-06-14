@@ -1,5 +1,5 @@
 ---
-title: Setting up marketplace for multistores
+title: 'Setting up marketplace for multistores'
 id: frequentlyAskedQuestions_672
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:57.416Z

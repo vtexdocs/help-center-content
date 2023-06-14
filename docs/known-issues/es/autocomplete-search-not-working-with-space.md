@@ -1,5 +1,5 @@
 ---
-title: La búsqueda de autocompletar no funciona con el espacio
+title: 'La búsqueda de autocompletar no funciona con el espacio'
 id: 1ZZGCHgsnJ512DAZv1iCy7
 status: PUBLISHED
 createdAt: 2022-04-28T16:03:43.077Z

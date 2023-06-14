@@ -1,5 +1,5 @@
 ---
-title: "New Orders Authorization Flow for Native Connectors"
+title: 'New Orders Authorization Flow for Native Connectors'
 id: 3Y6aNbbRJRQxn7kykYPfU6
 status: PUBLISHED
 createdAt: 2021-12-28T20:44:32.579Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: new-orders-authorization-flow-for-native-connectors
 legacySlug: new-orders-authorization-flow-for-native-connectors
-announcementImageID: ""
-announcementSynopsisEN: Orders from native connectors that present price divergence errors are now processed by Orders management.
+announcementImageID: ''
+announcementSynopsisEN: 'Orders from native connectors that present price divergence errors are now processed by Orders management.'
 ---
 
 When the price set by a seller is different from the price offered by the marketplace, orders placed on marketplaces may not be processed correctly. In VTEX, the Orders Authorization flow allows the control and automatic approval of these orders, based on the configuration that the seller makes of a [Price Divergence rule](https://help.vtex.com/en/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW).

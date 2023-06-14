@@ -1,5 +1,5 @@
 ---
-title: Alterar os dados cadastrais da minha loja
+title: 'Alterar os dados cadastrais da minha loja'
 id: 2asY9ZORu0OUQWOkeQguSC
 status: CHANGED
 createdAt: 2018-03-12T15:29:14.300Z

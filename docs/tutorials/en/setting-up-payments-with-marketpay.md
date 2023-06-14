@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Marketpay
+title: 'Setting up payments with Marketpay'
 id: 1tYNi0mOJFwkFsXts5jIO1
 status: DRAFT
 createdAt: 2022-03-22T23:15:05.721Z

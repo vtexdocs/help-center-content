@@ -1,5 +1,5 @@
 ---
-title: Community code of conduct
+title: 'Community code of conduct'
 id: tutorials_79
 status: DRAFT
 createdAt: 2017-04-27T22:20:11.285Z

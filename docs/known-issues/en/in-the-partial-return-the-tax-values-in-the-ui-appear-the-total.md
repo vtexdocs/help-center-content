@@ -1,5 +1,5 @@
 ---
-title: In the partial return, the Tax values in the UI appear the total
+title: 'In the partial return, the Tax values in the UI appear the total'
 id: 2I5a9hwrUo6s1htxOg8H1U
 status: PUBLISHED
 createdAt: 2022-04-11T13:15:06.455Z

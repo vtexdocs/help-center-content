@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Paylands
+title: 'Configurar pagamento com Paylands'
 id: 6uJqPM69Mka46YoHa6VOSZ
 status: DRAFT
 createdAt: 2022-08-11T18:14:59.983Z

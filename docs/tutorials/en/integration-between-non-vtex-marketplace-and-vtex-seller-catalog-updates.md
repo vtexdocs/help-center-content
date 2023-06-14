@@ -1,5 +1,5 @@
 ---
-title: Integration between non-VTEX marketplace and VTEX Seller - Actions concerning Catalog updates
+title: 'Integration between non-VTEX marketplace and VTEX Seller - Actions concerning Catalog updates'
 id: 5jwV8FJ1cNRmkkWnXTZEng
 status: DRAFT
 createdAt: 2019-09-16T12:50:28.649Z

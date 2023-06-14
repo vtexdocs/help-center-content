@@ -1,5 +1,5 @@
 ---
-title: How to configure Mercado Pago Pro as a payment method
+title: 'How to configure Mercado Pago Pro as a payment method'
 id: 520AthtalgojtTUKw0La9S
 status: PUBLISHED
 createdAt: 2020-11-17T17:45:31.552Z

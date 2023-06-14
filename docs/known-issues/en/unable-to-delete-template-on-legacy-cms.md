@@ -1,5 +1,5 @@
 ---
-title: Unable to delete Template on legacy CMS
+title: 'Unable to delete Template on legacy CMS'
 id: 4mVMlMcpxiQdL7LxvCceii
 status: PUBLISHED
 createdAt: 2022-03-16T16:30:51.695Z

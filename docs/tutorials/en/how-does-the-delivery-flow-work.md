@@ -1,5 +1,5 @@
 ---
-title: How does the delivery flow work?
+title: 'How does the delivery flow work?'
 id: 4ku3QKWfxmUO8UgA0yqgUq
 status: DRAFT
 createdAt: 2018-03-01T21:55:32.720Z
@@ -26,4 +26,4 @@ VTEX platform gives you the freedom to use these settings in a variety of ways, 
 
 But for now, let's stick to the most basic scenario, illustrated by the image below:
 
-![Logistics Concept English](https://images.ctfassets.net/alneenqid6w5/4dxX4SvwV2SuCekgeM480w/2a69059d4efd30c0610ef04df02cc49c/Component__19_.png)
+![Logistics Concept English](//images.ctfassets.net/alneenqid6w5/4dxX4SvwV2SuCekgeM480w/2a69059d4efd30c0610ef04df02cc49c/Component__19_.png)

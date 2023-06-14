@@ -1,5 +1,5 @@
 ---
-title: Por que uma promoção de Preço Máximo por Item não foi aplicada?
+title: 'Por que uma promoção de Preço Máximo por Item não foi aplicada?'
 id: bqJMcrJPxKkW6k28oi0Gc
 status: DRAFT
 createdAt: 2018-11-06T19:27:08.188Z

@@ -1,5 +1,5 @@
 ---
-title: "Feature Removal: Discontinuing the use of Maximum Price per Item feature"
+title: 'Feature Removal: Discontinuing the use of Maximum Price per Item feature'
 id: 2sI7R4FgmWpmFdKSJSwJPW
 status: CHANGED
 createdAt: 2019-04-05T16:20:16.272Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 71cQH3Q0oKXzeY2DmMZRKX
 slug: feature-removal-discontinuing-the-use-of-maximum-price-per-item-feature
 legacySlug: feature-removal-discontinuing-the-use-of-maximun-price-per-item-feature
-announcementImageID: ""
-announcementSynopsisEN: You can use the new Promotional Price Table feature to meet the scenarios of the discontinued feature. 
+announcementImageID: ''
+announcementSynopsisEN: 'You can use the new Promotional Price Table feature to meet the scenarios of the discontinued feature. '
 ---
 
 We announce discontinuing the use of __Maximum Price per Item__ feature, from the Promotions & Taxes module, starting June 17, 2019. This means that, after this date, new benefits of this type will no longer be able to be created. __The already existing benefits will not be impacted, it will be functioning normally until their expiration dates__. Additionally, bulk uploading for promotions of this type will no longer be available as of this date. 

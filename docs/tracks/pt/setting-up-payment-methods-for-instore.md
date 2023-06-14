@@ -1,5 +1,5 @@
 ---
-title: Configurar métodos de pagamento para o inStore
+title: 'Configurar métodos de pagamento para o inStore'
 id: 2liigRors32hzqBNs2M1Oa
 status: PUBLISHED
 createdAt: 2020-06-28T14:54:46.020Z

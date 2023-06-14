@@ -1,5 +1,5 @@
 ---
-title: Errores de falta de stock en la integración de pedidos de marketplace
+title: 'Errores de falta de stock en la integración de pedidos de marketplace'
 id: s1i5OCcPFslrMkZJLDnfP
 status: PUBLISHED
 createdAt: 2021-07-28T19:50:13.475Z

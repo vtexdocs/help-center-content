@@ -1,5 +1,5 @@
 ---
-title: Logs del PCI ya no se muestran en la línea de tiempo del Gestión de Pedidos
+title: 'Logs del PCI ya no se muestran en la línea de tiempo del Gestión de Pedidos'
 id: 5le6E2NJ5KyuM4sioAW4uG
 status: PUBLISHED
 createdAt: 2018-02-02T14:54:07.191Z

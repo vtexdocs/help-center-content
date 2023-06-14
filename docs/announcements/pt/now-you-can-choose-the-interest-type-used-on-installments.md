@@ -1,5 +1,5 @@
 ---
-title: "Agora você pode escolher o tipo de juros usado nas parcelas da sua loja"
+title: 'Agora você pode escolher o tipo de juros usado nas parcelas da sua loja'
 id: D5XEUzJ6mcY0E0sWwWoWA
 status: CHANGED
 createdAt: 2019-01-03T21:13:24.577Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: agora-voce-pode-escolher-o-tipo-de-juros-usado-nas-parcelas-da-sua-loja
 legacySlug: agora-voce-pode-escolher-o-tipo-de-juros-usado-nas-parcelas-da-sua-loja
-announcementImageID: ""
-announcementSynopsisPT: Lojas agora podem usar juros simples ou compostos, dependendo da necessidade de negócio nos países em que atuam.
+announcementImageID: ''
+announcementSynopsisPT: 'Lojas agora podem usar juros simples ou compostos, dependendo da necessidade de negócio nos países em que atuam.'
 ---
 
 Lançamos uma nova funcionalidade que permite alterar, de forma simples, o tipo de juros aplicado nas vendas parceladas da sua loja. Ela atende às lojas que atuam em países como a Argentina que, ao contrário do Brasil (que usa juros compostos), dão preferência aos juros simples.

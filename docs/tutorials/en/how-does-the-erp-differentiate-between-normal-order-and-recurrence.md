@@ -1,5 +1,5 @@
 ---
-title: How does the ERP differentiate between a normal order and a recurrence?
+title: 'How does the ERP differentiate between a normal order and a recurrence?'
 id: frequentlyAskedQuestions_4690
 status: DRAFT
 createdAt: 2019-01-24T20:46:01.256Z

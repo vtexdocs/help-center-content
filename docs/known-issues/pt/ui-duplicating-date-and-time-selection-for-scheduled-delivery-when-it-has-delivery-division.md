@@ -1,5 +1,5 @@
 ---
-title: UI duplicando seleção de data e hora para entrega programada quando há divisão de entrega
+title: 'UI duplicando seleção de data e hora para entrega programada quando há divisão de entrega'
 id: 6nPIfnI47XKI0YYNEEPenR
 status: PUBLISHED
 createdAt: 2022-04-28T20:03:10.918Z

@@ -1,5 +1,5 @@
 ---
-title: "JSON do Get Order entrega agora novas variáveis de cálculos do pedido"
+title: 'JSON do Get Order entrega agora novas variáveis de cálculos do pedido'
 id: 58rQC0b6B0lw0eeKbNxJG6
 status: PUBLISHED
 createdAt: 2019-03-20T18:06:17.876Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 5V92cmF9jG8KG600EwUgEg
 slug: json-do-get-order-entrega-agora-novas-variaveis-de-calculos-do-pedido
 legacySlug: json-do-get-order-entrega-agora-novas-variaveis-de-calculos-do-pedido
-announcementImageID: ""
-announcementSynopsisPT: Tenha em mãos informações detalhadas sobre o cálculo do frete do pedido
+announcementImageID: ''
+announcementSynopsisPT: 'Tenha em mãos informações detalhadas sobre o cálculo do frete do pedido'
 ---
 
 <div class="alert alert-warning">

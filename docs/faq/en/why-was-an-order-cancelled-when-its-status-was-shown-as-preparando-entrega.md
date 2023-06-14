@@ -1,5 +1,5 @@
 ---
-title: Why an order was cancelled when its status “Ready for Handling”?
+title: 'Why an order was cancelled when its status “Ready for Handling”?'
 id: LDgtkquNEssyQMYUGcYeO
 status: PUBLISHED
 createdAt: 2017-05-16T23:08:29.742Z

@@ -1,5 +1,5 @@
 ---
-title: La exportación de la tabla de precios calculados no trae todos los skus
+title: 'La exportación de la tabla de precios calculados no trae todos los skus'
 id: 3pJcwSnZG1nO0YjIPCnfyV
 status: PUBLISHED
 createdAt: 2022-12-23T13:41:21.656Z

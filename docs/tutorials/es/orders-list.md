@@ -1,5 +1,5 @@
 ---
-title: Lista de pedidos
+title: 'Lista de pedidos'
 id: tutorials_200
 status: DRAFT
 createdAt: 2017-04-27T22:13:59.387Z
@@ -16,7 +16,7 @@ subcategory: 2t00bBkcAwIkgSCGKsMOwY
 
 Es a través de la lista de pedidos de Gestión de Pedidos que el administrador de la tienda puede acompañar las compras concretadas en su tienda. La lista está disponible en la primera pantalla del módulo de __Gestión de pedidos__.
 
-![todosospedidos.es](https://images.ctfassets.net/alneenqid6w5/61CuVQRq34KRRF3snvvKaE/f0fefc688ca00abd418c042d01a655da/todosospedidos.es.png)
+![todosospedidos.es](//images.ctfassets.net/alneenqid6w5/61CuVQRq34KRRF3snvvKaE/f0fefc688ca00abd418c042d01a655da/todosospedidos.es.png)
 
 En la vista predeterminada se muestran todos los pedidos de la tienda desde el más reciente. Usted puede cambiar el orden haciendo clic en el nombre de las columnas, así como buscar o filtrar los pedidos por datos específicos, y también exportar estos datos.
 
@@ -29,7 +29,7 @@ Al hacer clic en cualquier pedido, el usuario es dirigido a la página de detall
 
 Siempre que el módulo de Gestión de Pedidos esté abierto y se hayan realizado nuevos pedidos, se mostrará una indicación, permitiendo que se haga clic para actualizar la lista de pedidos.
 
-![novopedido.es](https://images.ctfassets.net/alneenqid6w5/2xSXOyFF91NG1U1T0jlu32/75b80899d88f814136f28e80d070015a/novopedido.es.png)
+![novopedido.es](//images.ctfassets.net/alneenqid6w5/2xSXOyFF91NG1U1T0jlu32/75b80899d88f814136f28e80d070015a/novopedido.es.png)
 
 A continuación, se muestran más detalles sobre las columnas de la lista:
 
@@ -37,7 +37,7 @@ A continuación, se muestran más detalles sobre las columnas de la lista:
 
 No es nada más que el número de pedido (mostrado al cliente), el sufijo y el código secuencial de la transacción (para uso interno).
 
-![nsequecial.es](https://images.ctfassets.net/alneenqid6w5/X5TM9ww79vrqUWk8NaJPG/f45cba83a8faeb03c1ecadc1c7d24e19/nsequecial.es.png)
+![nsequecial.es](//images.ctfassets.net/alneenqid6w5/X5TM9ww79vrqUWk8NaJPG/f45cba83a8faeb03c1ecadc1c7d24e19/nsequecial.es.png)
 
 ### Número del pedido
 

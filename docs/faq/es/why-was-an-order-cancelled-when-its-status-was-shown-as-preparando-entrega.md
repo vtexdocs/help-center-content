@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué un pedido fue cancelado en el status “Listo para preparar”?
+title: '¿Por qué un pedido fue cancelado en el status “Listo para preparar”?'
 id: LDgtkquNEssyQMYUGcYeO
 status: PUBLISHED
 createdAt: 2017-05-16T23:08:29.742Z

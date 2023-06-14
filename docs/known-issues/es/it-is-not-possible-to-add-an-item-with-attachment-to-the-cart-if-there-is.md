@@ -1,5 +1,5 @@
 ---
-title: No es posible añadir un ítem con anexo al carrito si ya existe otra unidad de este ítem sin anexo en el carrito
+title: 'No es posible añadir un ítem con anexo al carrito si ya existe otra unidad de este ítem sin anexo en el carrito'
 id: 3l41VmdtPCxUjYChuO7o9O
 status: PUBLISHED
 createdAt: 2021-09-15T15:24:52.309Z

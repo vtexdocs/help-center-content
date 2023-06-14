@@ -1,5 +1,5 @@
 ---
-title: PlaceOrder generando valores de descuento y envío erróneos entre artículos que aparecen más de una vez.
+title: 'PlaceOrder generando valores de descuento y envío erróneos entre artículos que aparecen más de una vez.'
 id: 01ipdei4r6juYcXD3xFz4b
 status: PUBLISHED
 createdAt: 2023-01-12T19:13:16.232Z

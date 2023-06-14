@@ -1,5 +1,5 @@
 ---
-title: Erro ao liquidar transação com 2 cartões - MercadoPagoV1
+title: 'Erro ao liquidar transação com 2 cartões - MercadoPagoV1'
 id: 1WFFLHywLePfl5v5IMhili
 status: PUBLISHED
 createdAt: 2022-03-03T21:30:42.237Z

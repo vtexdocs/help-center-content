@@ -1,5 +1,5 @@
 ---
-title: "New SKU Bindings interface"
+title: 'New SKU Bindings interface'
 id: 7qbbvVykje1Q9kHT3J4sZE
 status: PUBLISHED
 createdAt: 2022-07-26T00:17:05.202Z
@@ -10,15 +10,15 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: new-sku-bindings-interface
 legacySlug: new-sku-bindings-interface
-announcementImageID: ""
-announcementSynopsisEN: The SKU Bindings page has been redesigned to simplify managing the relationship between sellers' and marketplaces' SKUs.
+announcementImageID: ''
+announcementSynopsisEN: 'The SKU Bindings page has been redesigned to simplify managing the relationship between sellers' and marketplaces' SKUs.'
 ---
 
 VTEX allows your store to act both as a [seller](https://help.vtex.com/en/tutorial/configuring-a-seller-on-vtex-marketplace--6g045OkRSjNpqhkExbQRlP) and as a [marketplace](https://help.vtex.com/en/tutorial/configuring-vtex-marketplace--7splyp5MqIyt2Iyz5jsNzb), which allows you to reduce costs, reach more customers, and increase the variety of products you offer. In this context, each marketplace must establish and maintain a direct relationship between its catalog and the[ SKUs](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) offered by sellers.
 
 To improve this experience, we redesigned the **SKU Bindings** page in the VTEX Admin. The new interface allows you to track and manage the binding relationship between seller and marketplace SKUs in a simpler and more agile way.
 
-![sku_binding_page_EN_final](https://images.ctfassets.net/alneenqid6w5/3TrV8m2JLKuPjhKTtkY2Yl/495c45bef9699a32fbfb55842890a91f/sku_binding_page_EN_final.png)
+![sku_binding_page_EN_final](//images.ctfassets.net/alneenqid6w5/3TrV8m2JLKuPjhKTtkY2Yl/495c45bef9699a32fbfb55842890a91f/sku_binding_page_EN_final.png)
 
 ## What has changed?
 

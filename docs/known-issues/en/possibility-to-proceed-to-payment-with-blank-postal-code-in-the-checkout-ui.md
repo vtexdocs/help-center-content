@@ -1,5 +1,5 @@
 ---
-title: Possibility to proceed to payment with blank postal code in the checkout UI
+title: 'Possibility to proceed to payment with blank postal code in the checkout UI'
 id: 32IVEgy5AgcFkCimUl87Rp
 status: PUBLISHED
 createdAt: 2023-01-18T21:46:19.613Z

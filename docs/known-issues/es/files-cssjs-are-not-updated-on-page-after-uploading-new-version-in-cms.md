@@ -1,5 +1,5 @@
 ---
-title: Archivos (CSS/JS) no se actualizan en la página después de subir nueva versión en el CMS
+title: 'Archivos (CSS/JS) no se actualizan en la página después de subir nueva versión en el CMS'
 id: 4qNIpSPGo8a8ugyemwYAuK
 status: PUBLISHED
 createdAt: 2018-02-09T19:04:53.387Z

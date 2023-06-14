@@ -1,5 +1,5 @@
 ---
-title: Valor incorrecto en el paquete debido a la división del descuento
+title: 'Valor incorrecto en el paquete debido a la división del descuento'
 id: f27JxOqSf3sAKeHkQlHUa
 status: PUBLISHED
 createdAt: 2022-06-27T14:28:29.925Z

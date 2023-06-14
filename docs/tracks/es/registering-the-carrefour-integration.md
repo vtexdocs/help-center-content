@@ -1,5 +1,5 @@
 ---
-title: Configurar registro de la integración del Carrefour
+title: 'Configurar registro de la integración del Carrefour'
 id: 2AhqcmRN1mseCsGuGIe6GK
 status: PUBLISHED
 createdAt: 2018-10-08T23:26:55.073Z

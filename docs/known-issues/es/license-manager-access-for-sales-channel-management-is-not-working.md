@@ -1,5 +1,5 @@
 ---
-title: El acceso al License Manager para la gestión de políticas comerciales no funciona.
+title: 'El acceso al License Manager para la gestión de políticas comerciales no funciona.'
 id: 3WDPBnMmivNPhalJwC8ZmA
 status: PUBLISHED
 createdAt: 2022-01-25T20:47:12.501Z

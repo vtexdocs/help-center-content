@@ -1,5 +1,5 @@
 ---
-title: How to schedule prices for a range of hours
+title: 'How to schedule prices for a range of hours'
 id: 682fvZR864UEGe4ugymYQS
 status: DRAFT
 createdAt: 2017-06-27T02:11:37.317Z

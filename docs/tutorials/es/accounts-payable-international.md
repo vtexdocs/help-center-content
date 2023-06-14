@@ -1,5 +1,5 @@
 ---
-title: Cuentas por pagar - Internacional
+title: 'Cuentas por pagar - Internacional'
 id: 3yea9sIlsA0KgUC28ASCGs
 status: PUBLISHED
 createdAt: 2018-02-21T18:37:18.803Z

@@ -1,5 +1,5 @@
 ---
-title: Collection search-title doesn't display accents when accessed through map=productClusterNames
+title: 'Collection search-title doesn't display accents when accessed through map=productClusterNames'
 id: 41m89nYPVQxFaNUXAcGo3X
 status: PUBLISHED
 createdAt: 2022-03-21T17:40:39.850Z

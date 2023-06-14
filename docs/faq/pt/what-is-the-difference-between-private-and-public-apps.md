@@ -1,5 +1,5 @@
 ---
-title: Qual é a diferença entre apps privadas e públicas?
+title: 'Qual é a diferença entre apps privadas e públicas?'
 id: 3bRzuYhsnecg6y0YYIYQgu
 status: DRAFT
 createdAt: 2018-02-21T22:56:09.160Z

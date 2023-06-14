@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con actXpay-Nequi
+title: 'Configurar pago con actXpay-Nequi'
 id: 1Kqx4Q2tJgk6tP6vocDn0l
 status: DRAFT
 createdAt: 2022-05-05T17:19:13.381Z

@@ -1,5 +1,5 @@
 ---
-title: Transação não relacionada retornada quando se usa o número seqüencial para buscar uma transação na interface administrativa
+title: 'Transação não relacionada retornada quando se usa o número seqüencial para buscar uma transação na interface administrativa'
 id: 62ePhzVMcAe8KRgs4ASSSv
 status: PUBLISHED
 createdAt: 2022-07-25T17:03:28.496Z

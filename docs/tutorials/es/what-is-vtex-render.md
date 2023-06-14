@@ -1,5 +1,5 @@
 ---
-title: ¿Qué es el VTEX Render?
+title: '¿Qué es el VTEX Render?'
 id: E2lhiEJdoyEgQmKisIi42
 status: DRAFT
 createdAt: 2019-01-24T20:45:34.528Z

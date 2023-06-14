@@ -1,5 +1,5 @@
 ---
-title: Elegir entre arquitectura multitienda o entorno adicional
+title: 'Elegir entre arquitectura multitienda o entorno adicional'
 id: 4HRNpa1OCKZ5YzP8yiilBL
 status: PUBLISHED
 createdAt: 2023-05-25T16:33:11.450Z

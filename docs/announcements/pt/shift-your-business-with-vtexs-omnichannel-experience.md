@@ -1,5 +1,5 @@
 ---
-title: "Mude seu negócio com a experiência Omnichannel VTEX"
+title: 'Mude seu negócio com a experiência Omnichannel VTEX'
 id: 2HMZIgC9TiEOCqk8Meq4s0
 status: PUBLISHED
 createdAt: 2018-07-26T18:55:36.318Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
 slug: mude-seu-negocio-com-a-experiencia-omnichannel-vtex
 legacySlug: mude-seu-negocio-com-a-experiencia-omnichannel-vtex
-announcementImageID: ""
-announcementSynopsisPT: O OMS VTEX é a solução que centraliza os dados dos seus clientes e integra todos os seus canais de venda e estoques.
+announcementImageID: ''
+announcementSynopsisPT: 'O OMS VTEX é a solução que centraliza os dados dos seus clientes e integra todos os seus canais de venda e estoques.'
 ---
 
 A VTEX desenvolveu uma ferramenta que unifica a experiência de compra dos seus clientes, independente do canal que eles estejam usando. O __OMS VTEX__ é um orquestrador de pedidos inteligente, que permite a integração de todos os seus canais de venda e estoques, além de potencializar a conversão com informações centralizadas.

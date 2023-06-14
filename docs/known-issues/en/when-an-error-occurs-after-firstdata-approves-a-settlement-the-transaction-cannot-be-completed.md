@@ -1,5 +1,5 @@
 ---
-title: When an error occurs after Firstdata approves a settlement, the transaction cannot be completed.
+title: 'When an error occurs after Firstdata approves a settlement, the transaction cannot be completed.'
 id: 7MITAqam9KWVXrUiNX5Jh0
 status: PUBLISHED
 createdAt: 2023-02-27T15:48:31.356Z

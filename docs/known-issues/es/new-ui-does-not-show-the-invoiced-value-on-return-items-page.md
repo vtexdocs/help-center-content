@@ -1,5 +1,5 @@
 ---
-title: La nueva interfaz de usuario no muestra el valor facturado en la página de artículos devueltos
+title: 'La nueva interfaz de usuario no muestra el valor facturado en la página de artículos devueltos'
 id: 3DBFXzWoz7jxSdgSLICV8i
 status: PUBLISHED
 createdAt: 2022-09-27T19:34:46.895Z

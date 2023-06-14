@@ -1,5 +1,5 @@
 ---
-title: Las transacciones de la marca de tarjetas de Elo con ERedeRest no respetan la captura anticipada
+title: 'Las transacciones de la marca de tarjetas de Elo con ERedeRest no respetan la captura anticipada'
 id: 2OSpQyzDkiGioqcEmhuXpk
 status: PUBLISHED
 createdAt: 2023-05-08T20:29:59.412Z

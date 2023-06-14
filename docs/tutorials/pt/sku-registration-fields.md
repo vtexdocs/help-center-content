@@ -1,5 +1,5 @@
 ---
-title: Preencher campos de cadastro de SKU
+title: 'Preencher campos de cadastro de SKU'
 id: 21DDItuEQc6mseiW8EakcY
 status: PUBLISHED
 createdAt: 2017-09-22T00:20:45.920Z

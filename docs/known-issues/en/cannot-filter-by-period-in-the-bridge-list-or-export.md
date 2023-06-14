@@ -1,5 +1,5 @@
 ---
-title: Cannot filter by Period in the Bridge list or export
+title: 'Cannot filter by Period in the Bridge list or export'
 id: 5U95urZgFa082kwwC2AKE0
 status: PUBLISHED
 createdAt: 2017-12-15T18:02:31.443Z

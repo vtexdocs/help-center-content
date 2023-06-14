@@ -1,5 +1,5 @@
 ---
-title: El peso registrado en el kit vía API no es visible en la interfaz
+title: 'El peso registrado en el kit vía API no es visible en la interfaz'
 id: 3pXAznG51YoUquomEmaeUi
 status: PUBLISHED
 createdAt: 2018-08-06T22:31:30.571Z

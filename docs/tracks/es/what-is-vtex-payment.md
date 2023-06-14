@@ -1,5 +1,5 @@
 ---
-title: ¿Que és VTEX Payment?
+title: '¿Que és VTEX Payment?'
 id: 1lZWKCGdy7xpYjukTLfFJL
 status: PUBLISHED
 createdAt: 2020-05-28T17:29:51.035Z

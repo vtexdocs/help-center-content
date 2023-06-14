@@ -1,5 +1,5 @@
 ---
-title: Integrating with Amazon
+title: 'Integrating with Amazon'
 id: 2w2vFtveNWcycooEGks2me
 status: DRAFT
 createdAt: 2017-10-24T19:22:17.213Z

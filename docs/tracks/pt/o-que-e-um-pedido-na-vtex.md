@@ -1,5 +1,5 @@
 ---
-title: O que é um pedido na VTEX
+title: 'O que é um pedido na VTEX'
 id: 2sl6hj2eqwgqbDgTF6y5qE
 status: PUBLISHED
 createdAt: 2019-11-05T13:46:09.344Z

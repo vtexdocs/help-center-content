@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué no recibí el contrato firmado de VTEX?
+title: '¿Por qué no recibí el contrato firmado de VTEX?'
 id: gjJL5j4zZuiC2qAuSuoG4
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:47.050Z
@@ -16,7 +16,7 @@ subcategory: 22TaEgFhwE6a6CG2KASYkC
 
 El hecho de que usted no haya recibido el contrato firmado se justifica por haber dado un aceptación automática en nuestro Término de Adhesión. Al recibir su solicitud de contratación de nuestro servicio, entendemos que usted ha leído las condiciones comerciales contenidas en él y ha aceptado nuestros términos.
 
-![financeiro aceite](https://images.ctfassets.net/alneenqid6w5/5Rz88oB8bKI6OCsGI4kKWY/fc3648cc7f18b0659050f50cfd923f85/financeiro_aceite.PNG)
+![financeiro aceite](//images.ctfassets.net/alneenqid6w5/5Rz88oB8bKI6OCsGI4kKWY/fc3648cc7f18b0659050f50cfd923f85/financeiro_aceite.PNG)
 
 Después de esta etapa, iniciamos automáticamente los procesos de cierre para que su tienda pueda ingresar a la plataforma.
 

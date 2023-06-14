@@ -1,5 +1,5 @@
 ---
-title: Setting up Mundipagg Fraud Prevention gateway
+title: 'Setting up Mundipagg Fraud Prevention gateway'
 id: yFbysX42GW2wawu82q6QA
 status: PUBLISHED
 createdAt: 2018-04-18T21:01:40.512Z

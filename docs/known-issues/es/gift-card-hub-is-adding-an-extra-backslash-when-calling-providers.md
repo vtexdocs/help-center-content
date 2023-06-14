@@ -1,5 +1,5 @@
 ---
-title: Gift Card hub está añadiendo una barra invertida extra ("/") al llamar a los proveedores.
+title: 'Gift Card hub está añadiendo una barra invertida extra ("/") al llamar a los proveedores.'
 id: 2ZstMKKGUbrdXGuhS2Rr1f
 status: PUBLISHED
 createdAt: 2022-09-30T21:07:47.856Z

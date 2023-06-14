@@ -1,5 +1,5 @@
 ---
-title: "Reutilize imagens no Site Editor"
+title: 'Reutilize imagens no Site Editor'
 id: 1gILUNu24iiCWrodZMw3Kq
 status: PUBLISHED
 createdAt: 2021-08-03T17:36:32.021Z
@@ -10,13 +10,13 @@ productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: reutilize-imagens-no-site-editor
 legacySlug: reutilize-imagens-no-site-editor
-announcementImageID: ""
-announcementSynopsisPT: Aprimoramos blocos com a opção nativa de envio de imagens no Site Editor por meio de um repositório de imagens.
+announcementImageID: ''
+announcementSynopsisPT: 'Aprimoramos blocos com a opção nativa de envio de imagens no Site Editor por meio de um repositório de imagens.'
 ---
 
 Aprimoramos a maneira como você gerencia suas imagens no [Site Editor](https://help.vtex.com/pt/subcategory/site-editor--9Arh3cJIOYlfSD1MUC2h3) por meio do Image Widget, um repositório de imagens centralizado para que você possa enviar e reutilizar imagens da loja. 
 
-![gif-image-widget-pt](https://images.ctfassets.net/alneenqid6w5/5PlVIsozLB3d1TY7NGqsqe/04a48b195d89b88cf44fde97989c3770/Irec5JDGdy.gif)
+![gif-image-widget-pt](//images.ctfassets.net/alneenqid6w5/5PlVIsozLB3d1TY7NGqsqe/04a48b195d89b88cf44fde97989c3770/Irec5JDGdy.gif)
 
 <div style="background-color:#cfe2ff; border-left: 2px solid #084298; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 16px">
   Image Widget está disponível em Open Beta para usuários VTEX IO.

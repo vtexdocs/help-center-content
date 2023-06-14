@@ -1,5 +1,5 @@
 ---
-title: Los términos más buscados presentados en autocompletar no coinciden con los términos presentados en el informe Analytics.
+title: 'Los términos más buscados presentados en autocompletar no coinciden con los términos presentados en el informe Analytics.'
 id: 6nVNhs1r0jD7ozJmW37PjU
 status: PUBLISHED
 createdAt: 2023-01-27T19:33:51.552Z

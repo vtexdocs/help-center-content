@@ -1,5 +1,5 @@
 ---
-title: Quantity-selector on stepper mode doesn't refresh after reaching max available qunatity
+title: 'Quantity-selector on stepper mode doesn't refresh after reaching max available qunatity'
 id: 77bK8oIAPR8LEMtOn6QEqs
 status: PUBLISHED
 createdAt: 2022-12-23T12:20:23.568Z

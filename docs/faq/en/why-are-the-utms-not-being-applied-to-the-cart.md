@@ -1,5 +1,5 @@
 ---
-title: Why are the UTMs not being applied to the cart?
+title: 'Why are the UTMs not being applied to the cart?'
 id: 41306rOW7e8GQwSEIawgU8
 status: DRAFT
 createdAt: 2017-12-20T17:24:13.382Z

@@ -1,5 +1,5 @@
 ---
-title: Integración con Multiplus
+title: 'Integración con Multiplus'
 id: 6Iyam8JsNfJ4FOcOazrvKy
 status: DRAFT
 createdAt: 2019-09-24T15:45:42.741Z

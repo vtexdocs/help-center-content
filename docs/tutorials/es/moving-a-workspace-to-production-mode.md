@@ -1,5 +1,5 @@
 ---
-title: Colocando un workspace en modo de producción
+title: 'Colocando un workspace en modo de producción'
 id: 20rRlimYVKSsk6gwAaEceY
 status: DRAFT
 createdAt: 2018-02-22T01:36:37.169Z

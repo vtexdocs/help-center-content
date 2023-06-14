@@ -1,5 +1,5 @@
 ---
-title: Configurar condiciones de clusterización
+title: 'Configurar condiciones de clusterización'
 id: 1LwzfViwdvLMxijASF0GU6
 status: PUBLISHED
 createdAt: 2020-11-18T13:54:49.394Z

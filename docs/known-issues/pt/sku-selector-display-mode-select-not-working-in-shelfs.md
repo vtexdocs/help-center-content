@@ -1,5 +1,5 @@
 ---
-title: Modo de exibição do seletor de SKU SELECT não funciona em prateleiras
+title: 'Modo de exibição do seletor de SKU SELECT não funciona em prateleiras'
 id: 4viowN3tnbsdc0f1bqXrux
 status: PUBLISHED
 createdAt: 2023-01-18T12:24:32.528Z

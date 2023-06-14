@@ -1,5 +1,5 @@
 ---
-title: Configuring a registered "boleto" (Brazilian off-line payment method)
+title: 'Configuring a registered "boleto" (Brazilian off-line payment method)'
 id: frequentlyAskedQuestions_2867
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:00.197Z

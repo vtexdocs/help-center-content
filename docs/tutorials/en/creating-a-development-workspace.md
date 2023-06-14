@@ -1,5 +1,5 @@
 ---
-title: Creating a development workspace
+title: 'Creating a development workspace'
 id: 1schP1XpiASeEoMi6mEy4u
 status: DRAFT
 createdAt: 2018-02-21T22:33:23.791Z

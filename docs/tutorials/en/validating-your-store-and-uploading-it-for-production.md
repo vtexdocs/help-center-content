@@ -1,5 +1,5 @@
 ---
-title: Validating the store to move it to production
+title: 'Validating the store to move it to production'
 id: tutorials_1419
 status: CHANGED
 createdAt: 2017-04-27T21:56:14.582Z

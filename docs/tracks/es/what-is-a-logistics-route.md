@@ -1,5 +1,5 @@
 ---
-title: ¿Qué son rutas logísticas?
+title: '¿Qué son rutas logísticas?'
 id: 1xo0jmMDcnAUU5ZOavdQ7M
 status: DRAFT
 createdAt: 2019-10-17T22:00:23.485Z
@@ -32,5 +32,5 @@ Para registrar un muelle en el admin de la tienda, siga los pasos indicados en e
 ### Transportadora
 Es a partir de aquí que los pedidos se distribuyen a sus destinos finales. Una transportadora está compuesta por la flota de vehículos que realizarán las entregas. Por lo tanto, los pedidos salen  del centro de distribución directo a la transportadora que completa el proceso hasta el cliente final.
 
-![ES Conceitos Logística](https://images.ctfassets.net/alneenqid6w5/6BRAmfZf1X7QPkYrh9bZar/a17438d4438465cde7b9b88689dd0b18/ES_Conceitos_Log__stica.png)
+![ES Conceitos Logística](//images.ctfassets.net/alneenqid6w5/6BRAmfZf1X7QPkYrh9bZar/a17438d4438465cde7b9b88689dd0b18/ES_Conceitos_Log__stica.png)
 

@@ -1,5 +1,5 @@
 ---
-title: Producto no disponible incluso con el stock de la franquicia
+title: 'Producto no disponible incluso con el stock de la franquicia'
 id: 58KRJl4MFOaeb5KUYGmH8G
 status: PUBLISHED
 createdAt: 2022-01-25T12:17:33.680Z

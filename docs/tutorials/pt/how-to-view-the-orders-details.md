@@ -1,5 +1,5 @@
 ---
-title: Visualizar detalhes da transação em Pedidos
+title: 'Visualizar detalhes da transação em Pedidos'
 id: tutorials_452
 status: PUBLISHED
 createdAt: 2017-04-27T22:04:24.036Z

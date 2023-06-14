@@ -1,5 +1,5 @@
 ---
-title: "iDEAL: Medio de pago para clientes de los Países Bajos"
+title: 'iDEAL: Medio de pago para clientes de los Países Bajos'
 id: 2BXpvEX5EkymnK5wWsKKKV
 status: PUBLISHED
 createdAt: 2021-05-06T19:55:33.454Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: ideal-medio-de-pago-para-clientes-de-los-paises-bajos
 legacySlug: ideal-medio-de-pago-para-clientes-de-los-paises-bajos
-announcementImageID: ""
-announcementSynopsisES: Uno de los principales métodos de pago de los Países Bajos, ahora se puede integrar en su tienda a través de Adyen.
+announcementImageID: ''
+announcementSynopsisES: 'Uno de los principales métodos de pago de los Países Bajos, ahora se puede integrar en su tienda a través de Adyen.'
 ---
 
 VTEX recientemente empezó a ofrecer la integración con [iDEAL](https://www.ideal.nl/en/consumers/what-is-ideal/), uno de los principales medios de pago en los Países Bajos. Usado en más del 60% de las transacciones del país, puede configurar iDEAL en su tienda mediante la integración con [Adyen](https://www.adyen.com/).

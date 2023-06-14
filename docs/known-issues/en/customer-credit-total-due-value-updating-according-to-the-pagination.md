@@ -1,5 +1,5 @@
 ---
-title: Customer Credit "Total Due" value updating according to the pagination
+title: 'Customer Credit "Total Due" value updating according to the pagination'
 id: 6faMqwY8yHsIdYjkwTgCCQ
 status: PUBLISHED
 createdAt: 2022-03-27T20:52:29.371Z

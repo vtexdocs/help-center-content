@@ -1,5 +1,5 @@
 ---
-title: 
+title: ''
 id: 7ytdtzy12cxfok00Ckspi5
 status: DRAFT
 createdAt: 2019-10-08T19:37:33.885Z

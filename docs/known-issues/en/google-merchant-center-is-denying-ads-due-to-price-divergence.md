@@ -1,5 +1,5 @@
 ---
-title: Google Merchant Center is denying ads due to price divergence
+title: 'Google Merchant Center is denying ads due to price divergence'
 id: PzvIhzUPXUOCNKWy9YGGC
 status: PUBLISHED
 createdAt: 2019-08-13T21:12:20.480Z

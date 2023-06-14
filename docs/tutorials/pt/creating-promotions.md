@@ -1,5 +1,5 @@
 ---
-title: Criar promoções
+title: 'Criar promoções'
 id: tutorials_320
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:57.892Z

@@ -1,5 +1,5 @@
 ---
-title: Escolhendo entre arquitetura multi-loja ou ambiente adicional
+title: 'Escolhendo entre arquitetura multi-loja ou ambiente adicional'
 id: 4HRNpa1OCKZ5YzP8yiilBL
 status: PUBLISHED
 createdAt: 2023-05-25T16:33:11.450Z

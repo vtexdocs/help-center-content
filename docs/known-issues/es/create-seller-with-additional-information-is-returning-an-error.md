@@ -1,5 +1,5 @@
 ---
-title: Crear vendedor con información adicional devuelve un error
+title: 'Crear vendedor con información adicional devuelve un error'
 id: 4dbB48N1vHHdXjL1M1zANe
 status: PUBLISHED
 createdAt: 2023-01-26T17:12:54.701Z

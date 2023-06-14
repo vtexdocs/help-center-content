@@ -1,5 +1,5 @@
 ---
-title: Creating a product for presale
+title: 'Creating a product for presale'
 id: 4o6cUJ4gIg0MQWW8WfN34K
 status: PUBLISHED
 createdAt: 2021-09-08T16:32:39.818Z

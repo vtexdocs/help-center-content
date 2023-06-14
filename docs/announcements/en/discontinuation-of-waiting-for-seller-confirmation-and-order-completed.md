@@ -1,5 +1,5 @@
 ---
-title: "Discontinuation of waiting-for-seller-confirmation and order-completed order Marketplace statuses"
+title: 'Discontinuation of waiting-for-seller-confirmation and order-completed order Marketplace statuses'
 id: 7jnFwL3cIqwdTu7yb4LXwj
 status: CHANGED
 createdAt: 2019-06-28T13:57:39.046Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: discontinuation-of-waiting-for-seller-confirmation-and-order-completed
 legacySlug: discontinuation-of-waiting-for-seller-confirmation-and-order-completed
-announcementImageID: ""
-announcementSynopsisEN: The following Marketplace order statuses will be discontinued: `waiting-for-seller-confirmation` and `order-completed`
+announcementImageID: ''
+announcementSynopsisEN: 'The following Marketplace order statuses will be discontinued: `waiting-for-seller-confirmation` and `order-completed`'
 ---
 
 Starting July 15<sup>th</sup> 2019, the following Marketplace order statuses will be discontinued: `waiting-for-seller-confirmation` and `order-completed`.

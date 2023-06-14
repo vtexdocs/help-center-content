@@ -1,5 +1,5 @@
 ---
-title: A classificação da imagem do produto não respeita a ordem do catálogo
+title: 'A classificação da imagem do produto não respeita a ordem do catálogo'
 id: 4E9tl6c3lOOkFsOaemJfVg
 status: PUBLISHED
 createdAt: 2022-10-21T16:43:20.702Z

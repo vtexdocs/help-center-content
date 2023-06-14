@@ -1,5 +1,5 @@
 ---
-title: Shipping strategy
+title: 'Shipping strategy'
 id: 58vLBDbjYVQzJ6rRc5QNz3
 status: PUBLISHED
 createdAt: 2021-07-15T17:04:23.563Z
@@ -16,7 +16,7 @@ subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 
 The shipping strategy refers to the relationship between inventory, loading dock and shipping policy. The way they communicate will define the structure combination for shipping your customers’ orders. 
 
-![EstrategiaEnvio_EN](https://images.ctfassets.net/alneenqid6w5/91iqVknOpCjUKO1XQaYvq/950f5a0342bba5b62dcd0bee100e8a71/Frame_2__3_.svg)
+![EstrategiaEnvio_EN](//images.ctfassets.net/alneenqid6w5/91iqVknOpCjUKO1XQaYvq/950f5a0342bba5b62dcd0bee100e8a71/Frame_2__3_.svg)
 
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
    <tr class="bb b--muted-3">

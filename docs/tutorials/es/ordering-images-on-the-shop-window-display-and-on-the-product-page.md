@@ -1,5 +1,5 @@
 ---
-title: Ordenar imágenes en la vitrina y en la página de producto
+title: 'Ordenar imágenes en la vitrina y en la página de producto'
 id: tutorials_278
 status: PUBLISHED
 createdAt: 2017-04-27T22:10:27.647Z
@@ -28,6 +28,6 @@ Entre las imágenes del SKU, la principal será aquella flechada en el registro 
 
 Vea, en nuestro ejemplo, que aunque no sea la primera imagen registrada, la imagen definida como principal es la que se asume en la página de producto al seleccionar el SKU.
 
-![sku_imagem_principal es](https://images.ctfassets.net/alneenqid6w5/4NAI7uGKy4aYq6qeKW6I6y/a3290a6d910a321c57ac58349a9d78b1/ex_3_es.png)
+![sku_imagem_principal es](//images.ctfassets.net/alneenqid6w5/4NAI7uGKy4aYq6qeKW6I6y/a3290a6d910a321c57ac58349a9d78b1/ex_3_es.png)
 
 - Al subir la planilla de imágenes, la plataforma considera línea a línea luego la primera línea de un sku será considerada la principal y así sucesivamente.

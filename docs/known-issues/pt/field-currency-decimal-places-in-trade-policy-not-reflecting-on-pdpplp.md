@@ -1,5 +1,5 @@
 ---
-title: Casas decimais do campo Moeda na Política Comercial não refletem no PDP/PLP
+title: 'Casas decimais do campo Moeda na Política Comercial não refletem no PDP/PLP'
 id: 1QxxwRvFDUVnGHh5icIPpo
 status: PUBLISHED
 createdAt: 2022-11-09T17:40:35.832Z

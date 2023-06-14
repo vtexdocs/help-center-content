@@ -1,5 +1,5 @@
 ---
-title: Alterar el nombre de las formas de pago en checkout
+title: 'Alterar el nombre de las formas de pago en checkout'
 id: frequentlyAskedQuestions_428
 status: DRAFT
 createdAt: 2019-01-24T20:45:53.538Z

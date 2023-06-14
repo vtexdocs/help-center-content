@@ -1,5 +1,5 @@
 ---
-title: Quitar anexo de SKU por importación de productos a través de planilla no surte efecto
+title: 'Quitar anexo de SKU por importación de productos a través de planilla no surte efecto'
 id: 3BgRi2HNCwYEAKuOc0G4Se
 status: PUBLISHED
 createdAt: 2018-05-03T19:24:21.455Z

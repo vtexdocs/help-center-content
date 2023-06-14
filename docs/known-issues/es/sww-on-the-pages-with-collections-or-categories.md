@@ -1,5 +1,5 @@
 ---
-title: SWW en las páginas con colecciones o categorías
+title: 'SWW en las páginas con colecciones o categorías'
 id: 2ip0Xv0lzakCou8Hztm1eU
 status: PUBLISHED
 createdAt: 2023-04-05T18:42:00.801Z

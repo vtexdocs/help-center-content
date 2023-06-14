@@ -1,5 +1,5 @@
 ---
-title: How is pro-rata calculated in VTEX?
+title: 'How is pro-rata calculated in VTEX?'
 id: 1F5QBAwVC4WkEGGq2iaICy
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:35.781Z
@@ -20,6 +20,6 @@ The discount calculation goes like this: `monthly fee divided by the number of d
 
 So if your monthly payment had a value of $ 750 in May - 31 days - and you hired VTEX on May 6, you would be deducted $ 145.16 on your next bill.
 
-![prorata PT](https://images.ctfassets.net/alneenqid6w5/3FEz6ikQqcaQmkys4Wgq0U/4a992dad8bcb8e6db9cdcfa8ccddbfe5/prorata_PT.png)
+![prorata PT](//images.ctfassets.net/alneenqid6w5/3FEz6ikQqcaQmkys4Wgq0U/4a992dad8bcb8e6db9cdcfa8ccddbfe5/prorata_PT.png)
 
 The calculation was: `$ 750/31 = $ 24,19 x 3 (days) = $ 145,16`

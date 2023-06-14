@@ -1,5 +1,5 @@
 ---
-title: Error al acceder a la página de configuración del sistema
+title: 'Error al acceder a la página de configuración del sistema'
 id: 3nE9IyRJuM6SWScSWiIsiY
 status: PUBLISHED
 createdAt: 2017-04-03T20:12:15.589Z

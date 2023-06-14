@@ -1,5 +1,5 @@
 ---
-title: Banner scheduling is deactivated after expiry date
+title: 'Banner scheduling is deactivated after expiry date'
 id: 2dakcDLdkmsmbVE2X1SAdU
 status: DRAFT
 createdAt: 2022-03-16T19:25:12.659Z

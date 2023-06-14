@@ -1,5 +1,5 @@
 ---
-title: Anúncios MELI BuyBox que não estão ligados a produtos bridge
+title: 'Anúncios MELI BuyBox que não estão ligados a produtos bridge'
 id: oI2IcQVkUxh3PcrT9k4JD
 status: PUBLISHED
 createdAt: 2023-03-30T11:04:48.189Z

@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué no se aplicó una promoción de Precio máximo por elemento?
+title: '¿Por qué no se aplicó una promoción de Precio máximo por elemento?'
 id: bqJMcrJPxKkW6k28oi0Gc
 status: DRAFT
 createdAt: 2018-11-06T19:27:08.188Z

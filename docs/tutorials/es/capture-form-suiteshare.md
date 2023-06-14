@@ -1,5 +1,5 @@
 ---
-title: Formulario de captura
+title: 'Formulario de captura'
 id: 6NJ6JyS3x5P2iWEZGadHAo
 status: PUBLISHED
 createdAt: 2022-08-31T15:42:44.999Z

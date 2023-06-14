@@ -1,5 +1,5 @@
 ---
-title: O conector AdyenV1 não está enviando pspReference em algumas operações e, portanto, causando erros
+title: 'O conector AdyenV1 não está enviando pspReference em algumas operações e, portanto, causando erros'
 id: 3Eut9j0dxzywSk3ssvRo3l
 status: PUBLISHED
 createdAt: 2023-05-11T16:44:19.660Z

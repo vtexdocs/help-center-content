@@ -1,5 +1,5 @@
 ---
-title: "A navegação no Admin agora é restrita de acordo com o perfil de acesso do usuário"
+title: 'A navegação no Admin agora é restrita de acordo com o perfil de acesso do usuário'
 id: 4AkzWcYXhsLboTZeSW3jcj
 status: PUBLISHED
 createdAt: 2021-05-03T12:51:16.640Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: navegacao-no-admin-agora-e-restrita-de-acordo-com-o-perfil-de-acesso-do-usuario
 legacySlug: a-navegacao-no-admin-agora-e-restrita-de-acordo-com-o-perfil-de-acesso-do
-announcementImageID: ""
-announcementSynopsisPT: Usuários verão apenas os itens do menu lateral que têm permissão para acessar, de acordo com seus perfis de acesso.
+announcementImageID: ''
+announcementSynopsisPT: 'Usuários verão apenas os itens do menu lateral que têm permissão para acessar, de acordo com seus perfis de acesso.'
 ---
 
 Os [perfis de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) permitem que as lojas concedam aos usuários acesso apenas a uma seleção de recursos em nossa plataforma. Embora esse recurso fosse suficiente para proteger a integridade e a segurança dos dados da sua conta, qualquer usuário podia ver os itens do menu lateral para seções restritas do Admin. Essas seções não estão mais visíveis. Agora, os usuários conseguem ver apenas os itens liberados para seu perfil de acesso.
@@ -27,7 +27,7 @@ Agora, os usuários irão visualizar apenas os itens do menu lateral que eles t�
 
 A imagem abaixo ilustra uma das possibilidades de visualização da barra lateral de acordo com a nova organização para melhorar a segurança e a experiência do usuário da sua loja.
 
-![PT Sidebar permissions announcement screenshot](https://images.ctfassets.net/alneenqid6w5/1dnqc48HsZDxmiUygavYHZ/0404c44da45173707c4fb3af5eb2de74/PT_Sidebar_permissions_announcement_screenshot.png)
+![PT Sidebar permissions announcement screenshot](//images.ctfassets.net/alneenqid6w5/1dnqc48HsZDxmiUygavYHZ/0404c44da45173707c4fb3af5eb2de74/PT_Sidebar_permissions_announcement_screenshot.png)
 
 ## Por que fizemos essa mudança?
 O objetivo dessa mudança é limitar a visualização de módulos importantes dentro de uma conta, protegendo a integridade da sua loja. Dessa forma, o risco de possíveis interrupções na operação da loja é minimizado e você garante que cada usuário irá visualizar apenas o que é permitido ao seu perfil de acesso.

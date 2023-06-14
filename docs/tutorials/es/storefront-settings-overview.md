@@ -1,5 +1,5 @@
 ---
-title: Visión General Configuración de Storefront
+title: 'Visión General Configuración de Storefront'
 id: 5j0UAGGK2Pzn2yg9t9MTCF
 status: PUBLISHED
 createdAt: 2023-03-24T17:53:16.090Z

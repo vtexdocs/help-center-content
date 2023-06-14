@@ -1,5 +1,5 @@
 ---
-title: El simulador de logística muestra la moneda por defecto en lugar de la moneda local.
+title: 'El simulador de logística muestra la moneda por defecto en lugar de la moneda local.'
 id: AJSCxyexbrBHYyJTCWse6
 status: PUBLISHED
 createdAt: 2022-03-15T20:21:46.628Z

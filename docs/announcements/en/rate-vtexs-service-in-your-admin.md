@@ -1,5 +1,5 @@
 ---
-title: "​​Rate VTEX's service in your Admin  "
+title: '​​Rate VTEX's service in your Admin  '
 id: 7rSJLgGbtRw2GhjTJezkJf
 status: PUBLISHED
 createdAt: 2022-01-13T21:49:50.331Z
@@ -10,13 +10,13 @@ productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: rate-vtexs-service-in-your-admin
 legacySlug: rate-vtexs-service-in-your-admin
-announcementImageID: ""
-announcementSynopsisEN: We have launched a satisfaction survey page in the VTEX Admin where you can rate your experience with our support.
+announcementImageID: ''
+announcementSynopsisEN: 'We have launched a satisfaction survey page in the VTEX Admin where you can rate your experience with our support.'
 ---
 
 We have launched the new *Satisfaction Survey* page in the VTEX Admin. Now, you can rate our support service without leaving the VTEX environment.
 
-![Pesquisa de satisfação EN](https://images.ctfassets.net/alneenqid6w5/3W8q5tdB9ZOrPT4QFMZP2D/eaadd736c6ce0d1b06e9f7cf2543f643/image__17_.png)
+![Pesquisa de satisfação EN](//images.ctfassets.net/alneenqid6w5/3W8q5tdB9ZOrPT4QFMZP2D/eaadd736c6ce0d1b06e9f7cf2543f643/image__17_.png)
 
 ## What has changed?
 

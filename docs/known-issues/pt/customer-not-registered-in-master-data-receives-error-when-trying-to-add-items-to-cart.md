@@ -1,5 +1,5 @@
 ---
-title: Cliente não registrado no Master Data recebe erro ao tentar adicionar itens ao carrinho
+title: 'Cliente não registrado no Master Data recebe erro ao tentar adicionar itens ao carrinho'
 id: 2yHMODB4jSeI2Awy8emEmM
 status: PUBLISHED
 createdAt: 2018-05-11T18:33:43.880Z

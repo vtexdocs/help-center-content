@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Wompi
+title: 'Configurar pagamento com Wompi'
 id: 40d6lWEyzLViHS7aYvcsqV
 status: PUBLISHED
 createdAt: 2022-02-21T18:22:13.804Z

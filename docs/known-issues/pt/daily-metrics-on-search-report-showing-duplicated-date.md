@@ -1,5 +1,5 @@
 ---
-title: Métricas diárias no relatório de busca mostrando a data duplicada
+title: 'Métricas diárias no relatório de busca mostrando a data duplicada'
 id: 2GZz9wQgopOWpjDYsoAvq3
 status: PUBLISHED
 createdAt: 2022-04-27T15:02:22.168Z

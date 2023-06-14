@@ -1,5 +1,5 @@
 ---
-title: "New limits for benefit causes"
+title: 'New limits for benefit causes'
 id: 1S73aHaXp6YK2m2EkkuqQA
 status: PUBLISHED
 createdAt: 2017-11-13T20:22:27.022Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: authors_24
 slug: new-limits-for-causes-of-benefit
 legacySlug: new-limits-for-causes-of-benefit
-announcementImageID: ""
-announcementSynopsisEN: See below the new limits for each cause of benefit
+announcementImageID: ''
+announcementSynopsisEN: 'See below the new limits for each cause of benefit'
 ---
 
 VTEX has changed the limits of **causes of benefit**.

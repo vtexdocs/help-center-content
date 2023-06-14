@@ -1,5 +1,5 @@
 ---
-title: Special character in Seller name Report
+title: 'Special character in Seller name Report'
 id: 13FMy6rGbNacrS7MUYTT48
 status: PUBLISHED
 createdAt: 2023-02-17T13:18:20.237Z

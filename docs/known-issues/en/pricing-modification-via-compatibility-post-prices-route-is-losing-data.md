@@ -1,5 +1,5 @@
 ---
-title: Pricing modification via compatibility post prices route is losing data
+title: 'Pricing modification via compatibility post prices route is losing data'
 id: 4VqqNOUcRIGiZhxyVU4Ite
 status: PUBLISHED
 createdAt: 2022-03-29T19:12:47.179Z

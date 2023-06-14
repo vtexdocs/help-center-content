@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Ebanx-Local
+title: 'Setting up payments with Ebanx-Local'
 id: 6vVYppbwct3B4j8KuCAvUR
 status: PUBLISHED
 createdAt: 2023-03-22T17:09:50.665Z

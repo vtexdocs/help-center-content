@@ -1,5 +1,5 @@
 ---
-title: Rellenar campos de registro de Colección
+title: 'Rellenar campos de registro de Colección'
 id: 7eKL7CFRW3yGKlnDfQetbj
 status: PUBLISHED
 createdAt: 2019-06-03T20:13:01.481Z

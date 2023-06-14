@@ -1,5 +1,5 @@
 ---
-title:  El crédito del cliente no muestra las cuotas correctamente
+title: ' El crédito del cliente no muestra las cuotas correctamente'
 id: 5qhiwp1EhfJepX6ZFqDsiG
 status: PUBLISHED
 createdAt: 2022-03-28T02:52:15.222Z

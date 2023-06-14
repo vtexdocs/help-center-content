@@ -1,5 +1,5 @@
 ---
-title: Seller Portal: Como criar um produto
+title: 'Seller Portal: Como criar um produto'
 id: 671zAWe0B9eCikzDu7kB1G
 status: PUBLISHED
 createdAt: 2021-04-12T15:24:41.873Z
@@ -166,7 +166,7 @@ Depois de realizar esse procedimento, as especificações criadas e suas respect
 
 Além disso, a partir da combinação das opções criadas, a lista de SKUs possíveis é gerada automaticamente e exibida na seção **[Variações](#variacoes)**.
 
-![variacoes PT](https://images.ctfassets.net/alneenqid6w5/DkJNVLdFQ6BuBUDPwt2Xj/4c28a11c44f7df5e108eb595b73a98bb/variations_PT_v2.png)
+![variacoes PT](//images.ctfassets.net/alneenqid6w5/DkJNVLdFQ6BuBUDPwt2Xj/4c28a11c44f7df5e108eb595b73a98bb/variations_PT_v2.png)
 
 ## Especificações
 

@@ -1,5 +1,5 @@
 ---
-title: My trial period is over, now what?
+title: 'My trial period is over, now what?'
 id: mZ2gwSAGMZefdDCo0hOqG
 status: PUBLISHED
 createdAt: 2022-08-29T21:04:42.133Z

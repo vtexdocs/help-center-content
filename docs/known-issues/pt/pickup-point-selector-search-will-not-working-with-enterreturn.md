@@ -1,5 +1,5 @@
 ---
-title: A pesquisa do seletor de ponto de coleta não funciona com Enter/Return
+title: 'A pesquisa do seletor de ponto de coleta não funciona com Enter/Return'
 id: 4hUvWjYvjVgf3Yhz88Eho1
 status: PUBLISHED
 createdAt: 2023-05-23T19:39:55.585Z

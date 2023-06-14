@@ -1,5 +1,5 @@
 ---
-title: Editar tabla de precios
+title: 'Editar tabla de precios'
 id: JyjANVnrVVKfIrj3ZYMiM
 status: PUBLISHED
 createdAt: 2021-03-30T17:47:11.755Z

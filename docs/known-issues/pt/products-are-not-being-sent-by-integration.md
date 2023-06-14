@@ -1,5 +1,5 @@
 ---
-title: Produtos não estão sendo enviados pela integração ao salvar o cadastro
+title: 'Produtos não estão sendo enviados pela integração ao salvar o cadastro'
 id: 3iY2DwQyiIwIsMaicGAI6e
 status: PUBLISHED
 createdAt: 2018-05-04T17:26:27.239Z

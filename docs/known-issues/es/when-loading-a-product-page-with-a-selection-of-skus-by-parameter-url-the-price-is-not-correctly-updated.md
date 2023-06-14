@@ -1,5 +1,5 @@
 ---
-title: Al cargar una página de producto con selección de SKU por parámetro (URL), precio no se actualiza correctamente
+title: 'Al cargar una página de producto con selección de SKU por parámetro (URL), precio no se actualiza correctamente'
 id: 4PAYx8WD2MIce8YMAaK2yk
 status: PUBLISHED
 createdAt: 2017-08-17T00:24:35.581Z

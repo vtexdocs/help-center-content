@@ -1,5 +1,5 @@
 ---
-title: Cómo funciona la compactación automática de imágenes para el formato WebP
+title: 'Cómo funciona la compactación automática de imágenes para el formato WebP'
 id: 4klbgpsPksq44KcwqKeye8
 status: PUBLISHED
 createdAt: 2017-08-17T22:59:59.002Z

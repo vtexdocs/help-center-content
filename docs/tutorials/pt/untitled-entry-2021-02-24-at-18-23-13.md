@@ -1,5 +1,5 @@
 ---
-title: 
+title: ''
 id: P43Qt4l3ZrV9HgpwbXMB2
 status: DRAFT
 createdAt: 2021-02-24T18:23:13.905Z

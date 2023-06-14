@@ -1,5 +1,5 @@
 ---
-title: A exclusão do usuário da regra de Autorização de Pedido bloqueia o pedido e não permite o reprocessamento da IU
+title: 'A exclusão do usuário da regra de Autorização de Pedido bloqueia o pedido e não permite o reprocessamento da IU'
 id: 3OW5OoBG6OYW8mHDcZMoOi
 status: PUBLISHED
 createdAt: 2022-10-27T17:40:30.149Z

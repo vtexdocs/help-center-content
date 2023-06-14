@@ -1,5 +1,5 @@
 ---
-title: Quando um preço agendado é atingido, não reativa o preço fixo
+title: 'Quando um preço agendado é atingido, não reativa o preço fixo'
 id: 75RY8MaDPaiOGOoY2mwycg
 status: PUBLISHED
 createdAt: 2017-06-23T16:23:03.818Z

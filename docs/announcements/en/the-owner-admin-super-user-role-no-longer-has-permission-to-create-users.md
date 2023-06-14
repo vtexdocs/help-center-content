@@ -1,5 +1,5 @@
 ---
-title: "The Owner (Admin Super) user role no longer has permission to create users"
+title: 'The Owner (Admin Super) user role no longer has permission to create users'
 id: 5OpVXwzX5NWqTkVZ7QLMBd
 status: PUBLISHED
 createdAt: 2023-02-03T14:49:10.763Z
@@ -10,8 +10,8 @@ productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: the-owner-admin-super-user-role-no-longer-has-permission-to-create-users
 legacySlug: 
-announcementImageID: ""
-announcementSynopsisEN: The Owner (Admin Super) role no longer includes the Save user resource, related to user management capabilities.
+announcementImageID: ''
+announcementSynopsisEN: 'The Owner (Admin Super) role no longer includes the Save user resource, related to user management capabilities.'
 ---
 
 **Owner (Admin Super)** is a [user role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) that encompasses virtually all the [features](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) needed to access information and perform day-to-day tasks in your VTEX store.

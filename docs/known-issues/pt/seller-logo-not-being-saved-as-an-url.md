@@ -1,5 +1,5 @@
 ---
-title: O logotipo do vendedor não está sendo salvo como um URL
+title: 'O logotipo do vendedor não está sendo salvo como um URL'
 id: 2bcjVyapAH9d19w79kOB2b
 status: PUBLISHED
 createdAt: 2023-01-19T14:36:20.412Z

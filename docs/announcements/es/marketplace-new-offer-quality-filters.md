@@ -1,5 +1,5 @@
 ---
-title: "Marketplace: nuevos filtros de calidad de anuncios"
+title: 'Marketplace: nuevos filtros de calidad de anuncios'
 id: 1fECC7oAziTif74cUV7Ess
 status: PUBLISHED
 createdAt: 2023-02-27T13:47:16.607Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: marketplace-nuevos-filtros-de-calidad-de-anuncios
 legacySlug: marketplace-nuevos-filtros-de-calidad-de-anuncios
-announcementImageID: ""
-announcementSynopsisES: Lanzamos una nueva página de configuración para que los marketplaces creen requisitos para la aprobación de anuncios.
+announcementImageID: ''
+announcementSynopsisES: 'Lanzamos una nueva página de configuración para que los marketplaces creen requisitos para la aprobación de anuncios.'
 ---
 
 Una de las responsabilidades de un [marketplace](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-un-marketplace-vtex) es recibir anuncios de sus _sellers_, revisarlos y aprobarlos para incluirlos en su catálogo.
@@ -20,7 +20,7 @@ Para que los _marketplaces_ tengan más control sobre los criterios de aprobaci�
 
 De esta forma, los SKU que se envían al _marketplace_ cumplen los requisitos relevantes para la curación de catálogos. 
 
-![Offer Quality gif](https://images.ctfassets.net/alneenqid6w5/2TsdhoMwl0Fmwp8WBoViXw/5525f637d51f9d9fc5fe29395f58d07f/Offer_Quality_01.gif)
+![Offer Quality gif](//images.ctfassets.net/alneenqid6w5/2TsdhoMwl0Fmwp8WBoViXw/5525f637d51f9d9fc5fe29395f58d07f/Offer_Quality_01.gif)
 
 ## ¿Qué cambió?
 

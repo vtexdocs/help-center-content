@@ -1,5 +1,5 @@
 ---
-title: Especificação de produto/SKU duplicada ou incorreta ao alterar árvore de categorias ou produto de categoria
+title: 'Especificação de produto/SKU duplicada ou incorreta ao alterar árvore de categorias ou produto de categoria'
 id: 2qMpMAh6B6oGk2gEq2swCY
 status: PUBLISHED
 createdAt: 2018-04-25T21:16:08.636Z

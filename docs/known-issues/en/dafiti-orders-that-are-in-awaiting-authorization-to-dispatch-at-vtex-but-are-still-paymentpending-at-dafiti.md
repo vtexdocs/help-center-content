@@ -1,5 +1,5 @@
 ---
-title: [Dafiti] Orders that are in "Awaiting Authorization to Dispatch" at VTEX, but are still "payment_pending" at Dafiti.
+title: '[Dafiti] Orders that are in "Awaiting Authorization to Dispatch" at VTEX, but are still "payment_pending" at Dafiti.'
 id: 6XbDr2QRAtk0bVAeywagjq
 status: PUBLISHED
 createdAt: 2022-12-20T13:14:31.368Z

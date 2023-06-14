@@ -1,5 +1,5 @@
 ---
-title: La API del catálogo stockkeepingunit permite valores de condición comercial no válidos
+title: 'La API del catálogo stockkeepingunit permite valores de condición comercial no válidos'
 id: 1ONAspL4Wj9fdu2tYcX4Ur
 status: PUBLISHED
 createdAt: 2023-03-10T20:44:01.459Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar permissão de acesso dos vendedores ao inStore
+title: 'Configurar permissão de acesso dos vendedores ao inStore'
 id: 2DjZ7o45Asi0EWumksEsyu
 status: DRAFT
 createdAt: 2018-03-07T19:37:26.827Z

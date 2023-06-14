@@ -1,5 +1,5 @@
 ---
-title: Error de autorización al ejecutar VTEX link
+title: 'Error de autorización al ejecutar VTEX link'
 id: 6KZPAY3hwAowc2MKEYiCwc
 status: DRAFT
 createdAt: 2018-12-05T13:06:52.031Z
@@ -28,7 +28,7 @@ El mensaje de autorización de error puede cambiar de `node` a `react` de acuerd
 1. Instalar el VTEX CLI (ToolBelt);
 2. Navegar hasta el directorio de la app;
 3. Ejecutar el comando "vtex-link" en el terminal.
-4. ![image (8)](https://images.ctfassets.net/alneenqid6w5/3NTzMXCKgM8GA6Y6eEKAA2/7d11d9a4e05ef1274beebe494bd8baf9/image__8_.png)
+4. ![image (8)](//images.ctfassets.net/alneenqid6w5/3NTzMXCKgM8GA6Y6eEKAA2/7d11d9a4e05ef1274beebe494bd8baf9/image__8_.png)
 
 ## Workaround
 

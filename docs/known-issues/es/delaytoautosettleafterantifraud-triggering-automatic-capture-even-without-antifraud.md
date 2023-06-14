@@ -1,5 +1,5 @@
 ---
-title: delayToAutoSettleAfterAntifraud activación de la captura automática incluso sin antifraude
+title: 'delayToAutoSettleAfterAntifraud activación de la captura automática incluso sin antifraude'
 id: 4HjKZsCbSTJSYE49xij9C8
 status: PUBLISHED
 createdAt: 2023-05-08T19:59:07.523Z

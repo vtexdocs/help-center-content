@@ -1,5 +1,5 @@
 ---
-title: Transaction stuck in canceling when one of the card is denied
+title: 'Transaction stuck in canceling when one of the card is denied'
 id: RdKtB6LsKfaukjT9kiqZ4
 status: CHANGED
 createdAt: 2022-03-03T18:39:59.580Z

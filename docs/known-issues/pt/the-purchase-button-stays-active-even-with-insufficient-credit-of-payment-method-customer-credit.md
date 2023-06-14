@@ -1,5 +1,5 @@
 ---
-title: O botão de compra permanece ativo mesmo com crédito insuficiente do Método de Pagamento Crédito ao Cliente
+title: 'O botão de compra permanece ativo mesmo com crédito insuficiente do Método de Pagamento Crédito ao Cliente'
 id: 76oPdoBKDn3PSn2KhomgQc
 status: PUBLISHED
 createdAt: 2022-03-27T14:14:51.967Z

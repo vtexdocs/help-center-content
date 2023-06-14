@@ -1,5 +1,5 @@
 ---
-title: Configurar el template y la página del inStore
+title: 'Configurar el template y la página del inStore'
 id: 1xkxKeho9q0iKKMG2KeMUg
 status: DRAFT
 createdAt: 2018-03-15T21:29:28.423Z

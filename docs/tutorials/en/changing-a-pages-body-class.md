@@ -1,5 +1,5 @@
 ---
-title: Changing a page's body class
+title: 'Changing a page's body class'
 id: 17BMTbjmQW28I6g6y80qAi
 status: PUBLISHED
 createdAt: 2018-03-02T13:32:41.619Z

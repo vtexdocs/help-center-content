@@ -1,5 +1,5 @@
 ---
-title: La interfaz de usuario de My Cards permite a los clientes guardar tarjetas de crédito sin el campo del número rellenado en la información de la dirección
+title: 'La interfaz de usuario de My Cards permite a los clientes guardar tarjetas de crédito sin el campo del número rellenado en la información de la dirección'
 id: 7Ab61xaPRXqxA7VYEnFu8J
 status: PUBLISHED
 createdAt: 2022-02-10T12:34:15.351Z

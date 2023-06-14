@@ -1,5 +1,5 @@
 ---
-title: Registrar el código de barras de las SKU para inStore
+title: 'Registrar el código de barras de las SKU para inStore'
 id: 4FjYFFvQDvg5pO7wnyp8iB
 status: DRAFT
 createdAt: 2020-06-28T19:59:13.751Z

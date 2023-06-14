@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Transfeera
+title: 'Configurar pagamento com Transfeera'
 id: 2bBAD7ba4yZlJ42avX0A2p
 status: DRAFT
 createdAt: 2023-03-27T13:50:31.575Z

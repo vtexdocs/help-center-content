@@ -1,5 +1,5 @@
 ---
-title: 
+title: ''
 id: 1K4UC2tzQg4gxL0QcQ4lrf
 status: DRAFT
 createdAt: 2020-03-04T19:10:34.766Z

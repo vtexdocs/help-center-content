@@ -1,5 +1,5 @@
 ---
-title: Configurar chaves alternativas
+title: 'Configurar chaves alternativas'
 id: 3Sa78TnD9SSS6aI44QY6eE
 status: DRAFT
 createdAt: 2017-12-04T18:55:27.299Z

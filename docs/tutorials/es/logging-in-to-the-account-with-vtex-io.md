@@ -1,5 +1,5 @@
 ---
-title: Iniciar sesión en la cuenta de la tienda con VTEX IO
+title: 'Iniciar sesión en la cuenta de la tienda con VTEX IO'
 id: 5lMWLYH0swucIOeGqW2YiW
 status: DRAFT
 createdAt: 2018-02-21T22:28:05.742Z

@@ -1,5 +1,5 @@
 ---
-title: Qué es el carrito compartido
+title: 'Qué es el carrito compartido'
 id: 3oKJZfoAoUm8g0ukCIGsUu
 status: PUBLISHED
 createdAt: 2018-04-24T20:24:47.008Z

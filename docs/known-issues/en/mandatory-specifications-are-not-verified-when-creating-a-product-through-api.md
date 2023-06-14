@@ -1,5 +1,5 @@
 ---
-title: Mandatory Specifications are not verified when creating a product through API
+title: 'Mandatory Specifications are not verified when creating a product through API'
 id: 2s4WhYOfIRDcwuXyUp9mtK
 status: PUBLISHED
 createdAt: 2022-02-10T21:44:57.094Z

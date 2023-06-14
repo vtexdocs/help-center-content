@@ -1,5 +1,5 @@
 ---
-title: Llenar campos de registro de producto
+title: 'Llenar campos de registro de producto'
 id: 4dYXWIK3zyS8IceKkQseke
 status: PUBLISHED
 createdAt: 2017-09-21T14:48:54.657Z

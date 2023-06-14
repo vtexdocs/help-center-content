@@ -1,5 +1,5 @@
 ---
-title: A primeira busca em uma loja não é considerada na UI "últimas buscas".
+title: 'A primeira busca em uma loja não é considerada na UI "últimas buscas".'
 id: 7mc9vRE92VGauQmRaK6NnU
 status: PUBLISHED
 createdAt: 2022-05-04T17:08:25.235Z

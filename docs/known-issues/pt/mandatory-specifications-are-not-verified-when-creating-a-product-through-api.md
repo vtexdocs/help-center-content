@@ -1,5 +1,5 @@
 ---
-title: Especificações obrigatórias não são verificadas ao criar um produto através de API
+title: 'Especificações obrigatórias não são verificadas ao criar um produto através de API'
 id: 2s4WhYOfIRDcwuXyUp9mtK
 status: PUBLISHED
 createdAt: 2022-02-10T21:44:57.094Z

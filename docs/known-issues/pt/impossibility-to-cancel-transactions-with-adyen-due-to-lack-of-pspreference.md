@@ -1,5 +1,5 @@
 ---
-title: Impossibilidade de cancelar transações com Adyen devido à falta de pspReference
+title: 'Impossibilidade de cancelar transações com Adyen devido à falta de pspReference'
 id: 3g0QyPZcq9aivqD1zlv4gD
 status: PUBLISHED
 createdAt: 2022-03-22T12:17:47.680Z

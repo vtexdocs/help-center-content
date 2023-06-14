@@ -1,5 +1,5 @@
 ---
-title: O checkout não tem clareza sobre as divergências entre o cliente identificado e o cliente conectado
+title: 'O checkout não tem clareza sobre as divergências entre o cliente identificado e o cliente conectado'
 id: 3TorBnBvCbqLB5AUG8oWp0
 status: PUBLISHED
 createdAt: 2023-05-03T21:54:48.509Z

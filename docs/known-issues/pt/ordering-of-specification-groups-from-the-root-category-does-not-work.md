@@ -1,5 +1,5 @@
 ---
-title: A ordenação de grupos de especificação da categoria raiz não funciona
+title: 'A ordenação de grupos de especificação da categoria raiz não funciona'
 id: 5iuLxVdAuK70VMYGts7CzJ
 status: PUBLISHED
 createdAt: 2022-08-09T00:46:23.102Z

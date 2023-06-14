@@ -1,5 +1,5 @@
 ---
-title: Por que uma transação foi liquidada com sucesso mas não foi finalizada em Pagamentos?
+title: 'Por que uma transação foi liquidada com sucesso mas não foi finalizada em Pagamentos?'
 id: 5kOSpUYvTyuUKOOws2A8Me
 status: PUBLISHED
 createdAt: 2017-05-22T17:47:40.705Z

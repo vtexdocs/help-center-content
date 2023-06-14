@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Brinks Cash Ecommerce
+title: 'Configurar pago con Brinks Cash Ecommerce'
 id: 5Zoex6NXtyzUFOCctdGjlZ
 status: PUBLISHED
 createdAt: 2022-08-15T17:49:34.660Z

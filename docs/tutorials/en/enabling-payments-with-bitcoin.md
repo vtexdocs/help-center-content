@@ -1,5 +1,5 @@
 ---
-title: Enabling payments with bitcoin
+title: 'Enabling payments with bitcoin'
 id: 6X3MQUQYJUGmIq4iKuI2YC
 status: PUBLISHED
 createdAt: 2018-05-02T20:16:19.114Z

@@ -1,5 +1,5 @@
 ---
-title: How the SkyHub/B2W integration works
+title: 'How the SkyHub/B2W integration works'
 id: UJfYlTdmw0so2OKSie2M8
 status: PUBLISHED
 createdAt: 2018-04-24T18:46:20.056Z

@@ -1,5 +1,5 @@
 ---
-title: "Rede has a new integration with VTEX"
+title: 'Rede has a new integration with VTEX'
 id: zU5CPR5Doc4KYyyOoSAuO
 status: PUBLISHED
 createdAt: 2018-04-13T15:51:42.977Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: authors_24
 slug: rede-has-a-new-integration-with-vtex
 legacySlug: rede-has-a-new-integration-with-vtex
-announcementImageID: ""
-announcementSynopsisEN: ERedeRest accepts payment methods that use preauth and has full compatibility with Apple Pay.
+announcementImageID: ''
+announcementSynopsisEN: 'ERedeRest accepts payment methods that use preauth and has full compatibility with Apple Pay.'
 ---
 
 Rede, one of Brazil's biggest acquirers, now has a new integration with VTEX. Using their ERedeREST connector, your store will have access to Rede's new features, like support for payment methods that use preauth. Among them are the following credit cards: Visa, Mastercard, American Express, Diners, Hipercard, JCB e Credz. 

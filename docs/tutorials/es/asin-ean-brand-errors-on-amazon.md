@@ -1,5 +1,5 @@
 ---
-title: Errores de ASIN/EAN/marca en Amazon
+title: 'Errores de ASIN/EAN/marca en Amazon'
 id: 4CAujIbzfLIw93kZ0ygi2Y
 status: DRAFT
 createdAt: 2022-02-11T01:08:17.942Z

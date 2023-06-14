@@ -1,5 +1,5 @@
 ---
-title: Los métodos de pago mostrados en la caja difieren de las condiciones de pago activas.
+title: 'Los métodos de pago mostrados en la caja difieren de las condiciones de pago activas.'
 id: 1cpVNspn5G6je4EZKzvCF9
 status: PUBLISHED
 createdAt: 2022-09-27T16:32:55.806Z

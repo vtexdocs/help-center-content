@@ -1,5 +1,5 @@
 ---
-title: Faturar um pedido
+title: 'Faturar um pedido'
 id: 2WgQrlHTyVo4hLjhUs1LMT
 status: PUBLISHED
 createdAt: 2019-11-14T16:05:32.413Z

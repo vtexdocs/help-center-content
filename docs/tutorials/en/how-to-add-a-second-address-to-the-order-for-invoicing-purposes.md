@@ -1,5 +1,5 @@
 ---
-title: How to add a second address to the order for invoicing purposes
+title: 'How to add a second address to the order for invoicing purposes'
 id: 6Mow9ibQPDOcEggNnujuA
 status: DRAFT
 createdAt: 2020-05-29T12:20:39.086Z

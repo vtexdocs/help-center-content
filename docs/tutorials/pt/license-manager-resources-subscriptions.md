@@ -1,5 +1,5 @@
 ---
-title: Recursos do License Manager - Subscriptions
+title: 'Recursos do License Manager - Subscriptions'
 id: 4oVJkjouuWO01GYFnJVpRn
 status: DRAFT
 createdAt: 2022-02-16T20:59:13.592Z

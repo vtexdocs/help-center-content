@@ -1,5 +1,5 @@
 ---
-title:  Método de entrega por grupo no desempenho de vendas não funciona como esperado
+title: ' Método de entrega por grupo no desempenho de vendas não funciona como esperado'
 id: 8zHND5pzrt0mrIrb061Zq
 status: PUBLISHED
 createdAt: 2022-11-30T19:02:13.548Z

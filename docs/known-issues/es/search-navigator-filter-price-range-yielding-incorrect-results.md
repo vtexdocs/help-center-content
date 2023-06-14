@@ -1,5 +1,5 @@
 ---
-title: El filtro del Navegador de Búsqueda + Rango de Precios produce resultados incorrectos
+title: 'El filtro del Navegador de Búsqueda + Rango de Precios produce resultados incorrectos'
 id: 6s4vJr6DVPLU9JlxIPWqhx
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:53.208Z

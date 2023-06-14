@@ -1,5 +1,5 @@
 ---
-title: Promoting a workspace to master
+title: 'Promoting a workspace to master'
 id: EZrGbVVY1ECcEC0YE0aA8
 status: DRAFT
 createdAt: 2017-09-12T21:37:03.530Z

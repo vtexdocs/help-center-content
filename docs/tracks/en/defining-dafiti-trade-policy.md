@@ -1,5 +1,5 @@
 ---
-title: Defining Dafiti trade policy
+title: 'Defining Dafiti trade policy'
 id: 54cBCKrJgqdrm61vxihY1g
 status: PUBLISHED
 createdAt: 2021-02-23T21:32:12.282Z

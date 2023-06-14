@@ -1,5 +1,5 @@
 ---
-title: Guía de integración de ERPs - Arquitectura del Catálogo
+title: 'Guía de integración de ERPs - Arquitectura del Catálogo'
 id: 4Dd3etdW3Y8oGAeAK8E82K
 status: DRAFT
 createdAt: 2017-09-13T18:36:05.041Z

@@ -1,5 +1,5 @@
 ---
-title: Vehicles (VTEX Tracking)
+title: 'Vehicles (VTEX Tracking)'
 id: 47OD2KOOMcHghBTJK0Vlwc
 status: PUBLISHED
 createdAt: 2020-07-07T21:21:26.766Z

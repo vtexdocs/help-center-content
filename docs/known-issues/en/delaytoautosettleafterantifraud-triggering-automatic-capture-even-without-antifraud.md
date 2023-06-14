@@ -1,5 +1,5 @@
 ---
-title: delayToAutoSettleAfterAntifraud triggering automatic capture even without antifraud
+title: 'delayToAutoSettleAfterAntifraud triggering automatic capture even without antifraud'
 id: 4HjKZsCbSTJSYE49xij9C8
 status: PUBLISHED
 createdAt: 2023-05-08T19:59:07.523Z

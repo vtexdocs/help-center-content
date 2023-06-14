@@ -1,5 +1,5 @@
 ---
-title: As especificações da categoria não se abrem no Admin na primeira tentativa
+title: 'As especificações da categoria não se abrem no Admin na primeira tentativa'
 id: 3201pbbSjB9rNzGP8HA6ow
 status: PUBLISHED
 createdAt: 2022-09-23T14:29:09.527Z

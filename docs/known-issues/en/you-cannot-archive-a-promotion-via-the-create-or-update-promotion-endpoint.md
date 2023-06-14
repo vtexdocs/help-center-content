@@ -1,5 +1,5 @@
 ---
-title: You cannot archive a promotion via the Create Or Update Promotion endpoint
+title: 'You cannot archive a promotion via the Create Or Update Promotion endpoint'
 id: 3MUDa3ZvdhoahJhZ4FvekO
 status: PUBLISHED
 createdAt: 2021-02-25T20:33:18.281Z

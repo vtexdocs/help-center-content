@@ -1,5 +1,5 @@
 ---
-title: Native gift card is adding credit although it returns 500
+title: 'Native gift card is adding credit although it returns 500'
 id: 1EngiQGhpPorgURRsszMX4
 status: PUBLISHED
 createdAt: 2023-02-27T20:40:44.824Z

@@ -1,5 +1,5 @@
 ---
-title: Approving payment of the bank payment slip
+title: 'Approving payment of the bank payment slip'
 id: tutorials_184
 status: PUBLISHED
 createdAt: 2017-04-27T22:16:19.919Z
@@ -24,7 +24,7 @@ This approval can be done manually through the Orders Management module as shown
 2. Click on the transaction.
 3. Click on **Notify Payment** button.
 
-![NotificarEN](https://images.ctfassets.net/alneenqid6w5/19t11NnJzs40wGQqkaeKIu/1d7fee23772ca875bccb59286859c415/NotificarEN.png)
+![NotificarEN](//images.ctfassets.net/alneenqid6w5/19t11NnJzs40wGQqkaeKIu/1d7fee23772ca875bccb59286859c415/NotificarEN.png)
 
 **After approval of the payment, the order will go through the normal purchase flow.**
 

@@ -1,5 +1,5 @@
 ---
-title: Crear promoción
+title: 'Crear promoción'
 id: tutorials_2576
 status: DRAFT
 createdAt: 2017-04-27T21:53:21.569Z

@@ -1,5 +1,5 @@
 ---
-title: Como funciona a seção Histórico do pedido
+title: 'Como funciona a seção Histórico do pedido'
 id: tutorials_199
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:07.813Z

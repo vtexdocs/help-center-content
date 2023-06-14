@@ -1,5 +1,5 @@
 ---
-title: Modal values with different texts between API and Logistics UI
+title: 'Modal values with different texts between API and Logistics UI'
 id: 3tW7Dr2nyHyvqiPMVtykAC
 status: PUBLISHED
 createdAt: 2023-03-22T14:06:50.812Z

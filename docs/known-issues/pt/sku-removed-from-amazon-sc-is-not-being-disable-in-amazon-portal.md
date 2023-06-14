@@ -1,5 +1,5 @@
 ---
-title: A SKU removida do Amazon SC não está sendo desabilitada no Amazon Portal
+title: 'A SKU removida do Amazon SC não está sendo desabilitada no Amazon Portal'
 id: 9yeLgMrhp9nSu9MtJ518G
 status: PUBLISHED
 createdAt: 2023-05-18T11:43:30.694Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar la Greenlist
+title: 'Configurar la Greenlist'
 id: 2NryhZ5B0cikuwQU2GYI6a
 status: DRAFT
 createdAt: 2017-09-26T20:18:34.384Z

@@ -1,5 +1,5 @@
 ---
-title: SharpSpring
+title: 'SharpSpring'
 id: 5fCQ9ReY9RafvAqhfeRlkP
 status: PUBLISHED
 createdAt: 2022-08-30T20:08:28.376Z

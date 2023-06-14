@@ -1,5 +1,5 @@
 ---
-title: El OrderForm permanece con la tarjeta de crédito que se eliminó a través de la página de mi cuenta
+title: 'El OrderForm permanece con la tarjeta de crédito que se eliminó a través de la página de mi cuenta'
 id: 4wcp7SdlHPTRSHxsDxZ1Xr
 status: PUBLISHED
 createdAt: 2022-05-03T11:47:35.874Z

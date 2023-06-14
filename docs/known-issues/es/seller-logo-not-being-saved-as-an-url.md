@@ -1,5 +1,5 @@
 ---
-title: El logotipo del vendedor no se guarda como URL
+title: 'El logotipo del vendedor no se guarda como URL'
 id: 2bcjVyapAH9d19w79kOB2b
 status: PUBLISHED
 createdAt: 2023-01-19T14:36:20.412Z

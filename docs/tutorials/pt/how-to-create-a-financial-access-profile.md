@@ -1,5 +1,5 @@
 ---
-title: Como criar um perfil de acesso financeiro?
+title: 'Como criar um perfil de acesso financeiro?'
 id: 717qPtxW3Cy9n5KrReHeVv
 status: PUBLISHED
 createdAt: 2020-05-21T18:32:54.471Z
@@ -30,7 +30,7 @@ Para criar um perfil de acesso financeiro:
 6. (Opcional) Antes de salvar, você pode **Adicionar usuários para este perfil de acesso**.
 7. Clique em **Salvar**.
 
-![gif perfil de acesso financeiro](https://images.ctfassets.net/alneenqid6w5/6fUKD0hvvh8rYapiH2sDit/205b3a066fe0fc456b6cf778ea2f3f40/gif_perfil_de_acesso_financeiro.gif)
+![gif perfil de acesso financeiro](//images.ctfassets.net/alneenqid6w5/6fUKD0hvvh8rYapiH2sDit/205b3a066fe0fc456b6cf778ea2f3f40/gif_perfil_de_acesso_financeiro.gif)
 
 Agora o perfil de acesso financeiro está criado e disponível para associação a usuários existentes.
 
@@ -44,9 +44,9 @@ Agora o perfil de acesso financeiro está criado e disponível para associação
 3. Clique na aba **Usuários**.
 4. Selecione o usuário que deseja associar.
 5. Agora, escolha o **perfil de acesso Financeiro**.
-6. Clique no botão <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/2jZogtT8WT3XVmv5U6yXh/2dc70b446b9aad1b27840e64b2cf15ce/bot__o_adicionar.png" /> ao lado do perfil selecionado para adicionar.
+6. Clique no botão <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/2jZogtT8WT3XVmv5U6yXh/2dc70b446b9aad1b27840e64b2cf15ce/bot__o_adicionar.png" /> ao lado do perfil selecionado para adicionar.
 7. Para finalizar, clique em **Salvar**.
 
-![gif usuário](https://images.ctfassets.net/alneenqid6w5/3HH5kuEBHEwYktRfC6aepQ/411e4398d285ac628f5691cb517638f8/gif_usu__rio.gif)
+![gif usuário](//images.ctfassets.net/alneenqid6w5/3HH5kuEBHEwYktRfC6aepQ/411e4398d285ac628f5691cb517638f8/gif_usu__rio.gif)
 
 Agora o usuário selecionado está associado ao perfil de acesso Financeiro e poderá acessar faturas, informações sobre o contrato, cobranças e outras informações financeiras.

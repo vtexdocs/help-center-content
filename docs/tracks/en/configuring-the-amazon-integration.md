@@ -1,5 +1,5 @@
 ---
-title: Configuring the Amazon integration
+title: 'Configuring the Amazon integration'
 id: 5J9CWPIbYQdAegJJWGsxan
 status: PUBLISHED
 createdAt: 2019-02-28T23:11:28.346Z

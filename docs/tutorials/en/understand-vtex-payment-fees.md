@@ -1,5 +1,5 @@
 ---
-title:  Understand VTEX Payment fees
+title: ' Understand VTEX Payment fees'
 id: 1Ms2ccMazQ1NxHGXwUuTbm
 status: DRAFT
 createdAt: 2020-06-16T00:32:31.276Z

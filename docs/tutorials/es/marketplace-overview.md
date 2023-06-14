@@ -1,5 +1,5 @@
 ---
-title: Visión General Marketplace
+title: 'Visión General Marketplace'
 id: 40Zd0z9h2RXsM9uMUp3kEb
 status: PUBLISHED
 createdAt: 2023-03-31T19:13:35.911Z
@@ -20,7 +20,7 @@ Un _marketplace_ es una plataforma virtual a través de la cual diferentes vende
 
 Hemos agrupado todas las funcionalidades relacionadas con estas operaciones en el menú __Marketplace__ del Admin v4. 
 
-![Admin v4 marketplace menu ES](https://images.ctfassets.net/alneenqid6w5/5y304Ab4DxbE2GRKVihDjJ/388a33ea9aa96d9c3df4cb457342caec/Admin_v4_marketplace_menu_ES.jpg)
+![Admin v4 marketplace menu ES](//images.ctfassets.net/alneenqid6w5/5y304Ab4DxbE2GRKVihDjJ/388a33ea9aa96d9c3df4cb457342caec/Admin_v4_marketplace_menu_ES.jpg)
 
 A continuación, encontrarás más detalles sobre las diferentes secciones y páginas de este menú.
 

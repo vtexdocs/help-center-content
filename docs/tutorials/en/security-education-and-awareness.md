@@ -1,5 +1,5 @@
 ---
-title: Security education and awareness
+title: 'Security education and awareness'
 id: 5t6HaGHiHFVrCIvePJKkV6
 status: DRAFT
 createdAt: 2022-05-26T13:50:41.046Z

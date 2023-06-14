@@ -1,5 +1,5 @@
 ---
-title: Editing account data
+title: 'Editing account data'
 id: 5VRxRGssiWvKCA235rHiD9
 status: PUBLISHED
 createdAt: 2020-01-07T14:49:30.841Z

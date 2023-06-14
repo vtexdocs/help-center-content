@@ -1,5 +1,5 @@
 ---
-title: ¿Qué son permisos y perfiles de acceso?
+title: '¿Qué son permisos y perfiles de acceso?'
 id: 1ZWhHn9uWxLlk7GoVTAzYe
 status: PUBLISHED
 createdAt: 2020-01-07T19:24:22.388Z

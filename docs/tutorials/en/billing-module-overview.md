@@ -1,5 +1,5 @@
 ---
-title: Billing Overview
+title: 'Billing Overview'
 id: 6UxfCl4fw4GmyQwoUuIcQs
 status: PUBLISHED
 createdAt: 2018-05-17T20:22:30.358Z
@@ -22,7 +22,7 @@ To access this section, click on your **profile avatar**, which can be identifie
 Only users with the access profiles of <a href="https://help.vtex.com/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance">Finance</a>, <a href="https://help.vtex.com/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#finance-full-access">Finance Full Access</a> or with <a href="https://help.vtex.com/es/tutorial/recursos-do-license-manager-billing--13qKy6rwf9chc8ta90rDcy">Billing</a> resources linked to their access profile can view this section of the VTEX Admin.
   </div>     
 
-![Admin v4 Faturas menu EN](https://images.ctfassets.net/alneenqid6w5/6EzhdPvM8Foexk2GJUZ3KA/efc4c8a58bed888f975fa5aa2b0f2fad/Admin_v4_Faturas_menu_EN.jpg)
+![Admin v4 Faturas menu EN](//images.ctfassets.net/alneenqid6w5/6EzhdPvM8Foexk2GJUZ3KA/efc4c8a58bed888f975fa5aa2b0f2fad/Admin_v4_Faturas_menu_EN.jpg)
 
 See below for more details on the different sections and pages of this feature.
 

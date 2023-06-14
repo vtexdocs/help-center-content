@@ -1,5 +1,5 @@
 ---
-title: API de tiempo de espera Obtener la configuración de aprobación de la cuenta
+title: 'API de tiempo de espera Obtener la configuración de aprobación de la cuenta'
 id: 5dalpuBbuRYXj5WSal8UqR
 status: PUBLISHED
 createdAt: 2023-03-16T19:26:12.430Z

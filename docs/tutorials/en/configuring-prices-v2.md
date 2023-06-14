@@ -1,5 +1,5 @@
 ---
-title: Configuring prices (v2)
+title: 'Configuring prices (v2)'
 id: tutorials_4616
 status: DRAFT
 createdAt: 2017-04-27T21:50:21.194Z

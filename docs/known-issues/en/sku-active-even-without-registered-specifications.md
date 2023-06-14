@@ -1,5 +1,5 @@
 ---
-title: SKU active even without registered specifications
+title: 'SKU active even without registered specifications'
 id: RVkBbJAVMGwo2cqcq6Okg
 status: PUBLISHED
 createdAt: 2018-06-28T22:50:36.470Z

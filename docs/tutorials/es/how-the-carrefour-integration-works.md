@@ -1,5 +1,5 @@
 ---
-title: Cómo funciona la integración con Carrefour
+title: 'Cómo funciona la integración con Carrefour'
 id: UbtveAQnoQGKOkQIYG0uQ
 status: PUBLISHED
 createdAt: 2018-09-26T13:35:41.191Z

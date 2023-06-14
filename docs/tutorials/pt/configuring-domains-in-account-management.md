@@ -1,5 +1,5 @@
 ---
-title: Configurando o domínio da sua loja
+title: 'Configurando o domínio da sua loja'
 id: tutorials_2450
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:00.603Z

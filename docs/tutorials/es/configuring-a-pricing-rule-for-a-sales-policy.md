@@ -1,5 +1,5 @@
 ---
-title: Configurar regla de precio para política comercial
+title: 'Configurar regla de precio para política comercial'
 id: 5LQMLwcUcEGCWK6SMI6cEM
 status: PUBLISHED
 createdAt: 2018-03-19T17:49:25.791Z

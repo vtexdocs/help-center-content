@@ -1,5 +1,5 @@
 ---
-title: Integration Guide for non-VTEX platform-hosted Marketplaces
+title: 'Integration Guide for non-VTEX platform-hosted Marketplaces'
 id: SMBUYFVEfZr0m0ttOULxj
 status: PUBLISHED
 createdAt: 2019-09-16T12:59:18.174Z

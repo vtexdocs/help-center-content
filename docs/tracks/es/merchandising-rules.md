@@ -1,5 +1,5 @@
 ---
-title: Reglas de merchandising
+title: 'Reglas de merchandising'
 id: 5tBSYXb9EIdePa0MWTnFd0
 status: PUBLISHED
 createdAt: 2020-03-05T18:53:37.305Z
@@ -31,7 +31,7 @@ En el Admin VTEX, la página **Storefront** > **Intelligent Search** > **Reglas 
 * [Editar](#editar-reglas-de-merchandising)
 * [Eliminar](#eliminar-reglas-de-merchandising)
 
-![configurar las reglas de merchandising-es](https://images.ctfassets.net/alneenqid6w5/4RIkVevSJArI3LhEHjELHu/1370d2d2a0a79dd02f01514452fc938d/image.png)
+![configurar las reglas de merchandising-es](//images.ctfassets.net/alneenqid6w5/4RIkVevSJArI3LhEHjELHu/1370d2d2a0a79dd02f01514452fc938d/image.png)
 
 La página contiene la siguiente información: 
 

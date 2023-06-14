@@ -1,5 +1,5 @@
 ---
-title: Change item limit of same SKU in cart
+title: 'Change item limit of same SKU in cart'
 id: 2siAu5R5reEuYyoEyOCy0U
 status: DRAFT
 createdAt: 2017-12-21T16:40:30.089Z
@@ -24,4 +24,4 @@ To do this, follow the steps below:
 For White Label Sellers there is a limit of 50 items with the same SKU in the shopping cart. You can change this limit upon request to customer
  [support](https://help.vtex.com/en/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe).
 
-![Carrinho Max EN](https://images.ctfassets.net/alneenqid6w5/2NKRULRqqck8QmGg8oOSCs/d7b5c44cca5cc1e4ca19abcb80dfd379/Carrinho_Max_EN.png)
+![Carrinho Max EN](//images.ctfassets.net/alneenqid6w5/2NKRULRqqck8QmGg8oOSCs/d7b5c44cca5cc1e4ca19abcb80dfd379/Carrinho_Max_EN.png)

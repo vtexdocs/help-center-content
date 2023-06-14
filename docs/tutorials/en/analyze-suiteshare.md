@@ -1,5 +1,5 @@
 ---
-title: Analyze
+title: 'Analyze'
 id: 2CXK5aUzKMpaV3RAVSYj1
 status: PUBLISHED
 createdAt: 2022-08-30T18:44:36.609Z

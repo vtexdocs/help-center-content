@@ -1,5 +1,5 @@
 ---
-title: Problemas para añadir artículos al carrito en IO que tienen adjuntos
+title: 'Problemas para añadir artículos al carrito en IO que tienen adjuntos'
 id: 6fuqi9FsGdIbuf8L6AyvqT
 status: PUBLISHED
 createdAt: 2022-05-12T14:52:09.917Z

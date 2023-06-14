@@ -1,5 +1,5 @@
 ---
-title: Como o VTEX Intelligent Search funciona?
+title: 'Como o VTEX Intelligent Search funciona?'
 id: 23mytRDsEduqLO0Lo7yufy
 status: PUBLISHED
 createdAt: 2020-03-05T14:57:22.014Z

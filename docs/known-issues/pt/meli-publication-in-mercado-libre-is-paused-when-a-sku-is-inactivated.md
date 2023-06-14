@@ -1,5 +1,5 @@
 ---
-title: Publicação MELI no Mercado Libre é pausada quando uma SKU é inativada
+title: 'Publicação MELI no Mercado Libre é pausada quando uma SKU é inativada'
 id: 28DDIVafmZ7U5DzAXRs6Fu
 status: PUBLISHED
 createdAt: 2022-04-06T17:20:35.601Z

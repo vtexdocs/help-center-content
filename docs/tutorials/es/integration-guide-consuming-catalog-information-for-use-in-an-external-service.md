@@ -1,5 +1,5 @@
 ---
-title: Guía de Integración - Consumir información del catálogo para utilizar en un Servicio Externo
+title: 'Guía de Integración - Consumir información del catálogo para utilizar en un Servicio Externo'
 id: 3j15zRDuismM42Y8SoGMO2
 status: PUBLISHED
 createdAt: 2018-08-20T19:03:13.609Z

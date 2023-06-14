@@ -1,5 +1,5 @@
 ---
-title: Filling out Collection fields
+title: 'Filling out Collection fields'
 id: 7eKL7CFRW3yGKlnDfQetbj
 status: PUBLISHED
 createdAt: 2019-06-03T20:13:01.481Z

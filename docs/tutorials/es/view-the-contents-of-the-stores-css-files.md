@@ -1,5 +1,5 @@
 ---
-title: Ver el contenido de los archivos CSS de la tienda
+title: 'Ver el contenido de los archivos CSS de la tienda'
 id: U5v7DXpRSee86uqiKQUQi
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:42.414Z

@@ -1,5 +1,5 @@
 ---
-title: "Mudamos a implementação do “Preço Máximo por Item”"
+title: 'Mudamos a implementação do “Preço Máximo por Item”'
 id: 2snrUcdlt2C8QIq2yqaUww
 status: DRAFT
 createdAt: 2017-10-30T19:12:11.257Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 
 slug: promocao-do-tipo-preco-maximo-por-item-deixara-de-existir
 legacySlug: promocao-do-tipo-preco-maximo-por-item-deixara-de-existir
-announcementImageID: ""
-announcementSynopsisPT: 
+announcementImageID: ''
+announcementSynopsisPT: ''
 ---
 
 A partir do dia 20 de novembro a promoção do tipo __Preço Máximo por Item__ deixará de existir. Mas se sua loja usa esse tipo de promoção, fique tranquilo - o mesmo efeito pode ser conseguido de outras maneiras, e com vantagens.

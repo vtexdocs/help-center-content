@@ -1,5 +1,5 @@
 ---
-title: La interfaz de usuario cambia automáticamente el ANS seleccionado cuando el vendedor ha programado la recogida y el artículo no se encuentra en la primera posición.
+title: 'La interfaz de usuario cambia automáticamente el ANS seleccionado cuando el vendedor ha programado la recogida y el artículo no se encuentra en la primera posición.'
 id: 7Jcp2B8YnlWXHNqU4W0VfC
 status: PUBLISHED
 createdAt: 2023-06-13T23:59:24.235Z

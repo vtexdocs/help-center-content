@@ -1,5 +1,5 @@
 ---
-title: El correo electrónico de reembolso de pedidos no se envía cuando se reembolsa un importe adicional mediante la nueva interfaz de usuario (OMS).
+title: 'El correo electrónico de reembolso de pedidos no se envía cuando se reembolsa un importe adicional mediante la nueva interfaz de usuario (OMS).'
 id: 4nQanqQiHuAN6dT7iYYO26
 status: PUBLISHED
 createdAt: 2022-04-19T15:27:27.050Z

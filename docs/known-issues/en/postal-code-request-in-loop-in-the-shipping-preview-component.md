@@ -1,5 +1,5 @@
 ---
-title: Postal code request in loop in the shipping preview component
+title: 'Postal code request in loop in the shipping preview component'
 id: 6pcJyqvZ8u388xg04zJnnw
 status: PUBLISHED
 createdAt: 2022-07-25T16:47:46.301Z

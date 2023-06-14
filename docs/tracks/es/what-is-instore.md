@@ -1,5 +1,5 @@
 ---
-title: ¿Qué es VTEX Sales App?
+title: '¿Qué es VTEX Sales App?'
 id: 7fnnVlG3Kv1Tay9iagc5yf
 status: PUBLISHED
 createdAt: 2020-06-28T13:07:24.773Z

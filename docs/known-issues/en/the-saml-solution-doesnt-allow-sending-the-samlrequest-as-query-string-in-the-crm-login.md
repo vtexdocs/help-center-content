@@ -1,5 +1,5 @@
 ---
-title: The SAML solution doesn't allow sending the SAMLRequest as query string in the CRM login
+title: 'The SAML solution doesn't allow sending the SAMLRequest as query string in the CRM login'
 id: 55LggncuX9oIB0PNS6q7jY
 status: PUBLISHED
 createdAt: 2023-04-13T14:23:33.505Z

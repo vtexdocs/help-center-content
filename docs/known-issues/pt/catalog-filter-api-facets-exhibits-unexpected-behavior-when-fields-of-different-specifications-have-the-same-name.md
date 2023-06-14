@@ -1,5 +1,5 @@
 ---
-title: API de filtro (Facets) do Catálogo com comportamento inesperado quando há campos de especificação diferentes com o mesmo nome
+title: 'API de filtro (Facets) do Catálogo com comportamento inesperado quando há campos de especificação diferentes com o mesmo nome'
 id: 5kEXFKmO3YAyICAa6Usa28
 status: PUBLISHED
 createdAt: 2017-08-16T19:59:34.640Z

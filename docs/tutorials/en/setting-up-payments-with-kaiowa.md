@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Kaiowa
+title: 'Setting up payments with Kaiowa'
 id: 1QfsSpAF0CHQFVd9qSGcA5
 status: PUBLISHED
 createdAt: 2023-04-06T18:20:04.972Z

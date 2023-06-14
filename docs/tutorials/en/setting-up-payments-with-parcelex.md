@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Parcelex
+title: 'Setting up payments with Parcelex'
 id: 2CqB2f1A8pxaAFyk8lxbzy
 status: PUBLISHED
 createdAt: 2022-06-22T19:16:08.714Z

@@ -1,5 +1,5 @@
 ---
-title: Integrar con Magazine Luiza
+title: 'Integrar con Magazine Luiza'
 id: 4rMSsxy5GMtnz931MLrSRV
 status: PUBLISHED
 createdAt: 2021-03-16T20:12:13.215Z

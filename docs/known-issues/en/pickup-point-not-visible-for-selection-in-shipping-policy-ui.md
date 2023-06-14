@@ -1,5 +1,5 @@
 ---
-title: Pickup point not visible for selection in shipping policy (UI)
+title: 'Pickup point not visible for selection in shipping policy (UI)'
 id: 84BhCZGoAxxuu1eljw0Uh
 status: DRAFT
 createdAt: 2021-12-28T14:52:46.105Z

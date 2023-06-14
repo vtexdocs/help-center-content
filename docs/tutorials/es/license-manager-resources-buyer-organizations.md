@@ -1,5 +1,5 @@
 ---
-title: Recursos del License Manager - Buyer Organizations
+title: 'Recursos del License Manager - Buyer Organizations'
 id: 4ZLZFV2IKNXvrEKprtxfFt
 status: DRAFT
 createdAt: 2022-04-01T20:24:51.239Z

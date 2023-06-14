@@ -1,5 +1,5 @@
 ---
-title: Split Items Order with Value as 0 (zero) on the Invoice
+title: 'Split Items Order with Value as 0 (zero) on the Invoice'
 id: xTVGx8cGmQQ9HI7VVYMrT
 status: CHANGED
 createdAt: 2022-05-18T18:32:41.671Z

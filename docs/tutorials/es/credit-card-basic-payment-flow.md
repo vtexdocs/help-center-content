@@ -1,5 +1,5 @@
 ---
-title: Tarjeta de crédito - Flujo básico de un pago
+title: 'Tarjeta de crédito - Flujo básico de un pago'
 id: 1L1Y66GgcAUgkIqwgccCUK
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:42.505Z
@@ -16,7 +16,7 @@ subcategory: 2Xay1NOZKE2CSqKMwckOm8
 
 Este artículo tiene como objetivo explicar cómo funciona el flujo básico de un pago por __tarjeta de crédito__:
 
-![ES Flujo Tarjeta de Credito](https://images.ctfassets.net/alneenqid6w5/JziB4sI4XzTW0lpAwt1xL/dcd6a342402fc2f003fe76b6f1d38c8e/ES_Flujo_Tarjeta.svg)
+![ES Flujo Tarjeta de Credito](//images.ctfassets.net/alneenqid6w5/JziB4sI4XzTW0lpAwt1xL/dcd6a342402fc2f003fe76b6f1d38c8e/ES_Flujo_Tarjeta.svg)
 
 1. En la pantalla de Checkout, el cliente elige el __Medio de Pago__ tarjeta de crédito para realizar el pago de su compra.
 2. La información de este pago se pasa al __Gateway de Pagos__. El [gateway](/es/tutorial/que-es-un-gateway-de-pagos) es el player responsable de garantizar que este pago se realice con éxito.

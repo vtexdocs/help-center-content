@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Addi
+title: 'Setting up payments with Addi'
 id: 7FhMbT3hN2i5je74lqx6QI
 status: PUBLISHED
 createdAt: 2022-02-14T12:22:11.957Z

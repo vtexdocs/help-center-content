@@ -1,5 +1,5 @@
 ---
-title: Pois em pagamento à vista (1 parcela) está sendo processado por condições de pagamento que não têm opção de 1 parcela
+title: 'Pois em pagamento à vista (1 parcela) está sendo processado por condições de pagamento que não têm opção de 1 parcela'
 id: 4IFxkUqJ9jdqkJf7kSNUcy
 status: PUBLISHED
 createdAt: 2022-03-26T12:27:04.928Z

@@ -1,5 +1,5 @@
 ---
-title: Visión general configuraciones de la cuenta
+title: 'Visión general configuraciones de la cuenta'
 id: 6USYxLuzNt4uAkvjdPF7I8
 status: PUBLISHED
 createdAt: 2023-03-28T18:45:41.656Z
@@ -20,7 +20,7 @@ En **Configuración de la cuenta**, puedes controlar el acceso al Admin y modifi
 
 Para acceder a la _Configuración de la cuenta_, haz clic en tu **avatar de perfil**, marcado con la inicial de tu email, y luego haz clic en el botón **Configuración de la cuenta**.  
 
-![Admin v4 account settings menu ES](https://images.ctfassets.net/alneenqid6w5/gMscIoImNJt51634ZQsRD/db9e1eb25c423a3c797521dad3658d9b/Admin_v4_account_settings_menu_ES.jpg)
+![Admin v4 account settings menu ES](//images.ctfassets.net/alneenqid6w5/gMscIoImNJt51634ZQsRD/db9e1eb25c423a3c797521dad3658d9b/Admin_v4_account_settings_menu_ES.jpg)
 
 La sección incluye las siguientes páginas, que pronto se incluirán en el diseño del Admin v4.
 

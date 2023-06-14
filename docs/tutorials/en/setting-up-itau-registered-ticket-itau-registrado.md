@@ -1,5 +1,5 @@
 ---
-title: Setting up Itaú registered ticket (Itaú Registrado)
+title: 'Setting up Itaú registered ticket (Itaú Registrado)'
 id: 6MEHf1oDTOkuWM2CaYi4gu
 status: PUBLISHED
 createdAt: 2018-11-30T18:23:45.696Z

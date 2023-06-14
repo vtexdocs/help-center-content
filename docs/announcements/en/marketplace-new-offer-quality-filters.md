@@ -1,5 +1,5 @@
 ---
-title: "Marketplace: new offer quality filters"
+title: 'Marketplace: new offer quality filters'
 id: 1fECC7oAziTif74cUV7Ess
 status: PUBLISHED
 createdAt: 2023-02-27T13:47:16.607Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: marketplace-new-offer-quality-filters
 legacySlug: marketplace-new-offer-quality-filters
-announcementImageID: ""
-announcementSynopsisEN: We have launched a new configuration page so marketplaces can create requirements for approving offers.
+announcementImageID: ''
+announcementSynopsisEN: 'We have launched a new configuration page so marketplaces can create requirements for approving offers.'
 ---
 
 A [marketplace](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#being-a-vtex-marketplace) is responsible for receiving offers from its sellers and reviewing and approving them so they can be added to the catalog, which is done through the Received SKUs page in the VTEX Admin. 
@@ -20,7 +20,7 @@ To give marketplaces more control over the approval criteria for an offer, we cr
 
 Thus, the SKUs that are sent to the marketplace meet the requirements relevant to catalog curation. 
 
- ![Offer Quality gif](https://images.ctfassets.net/alneenqid6w5/2TsdhoMwl0Fmwp8WBoViXw/ecf196465a00c5b0e12eca29f1c9e3f4/Offer_Quality_01.gif)
+ ![Offer Quality gif](//images.ctfassets.net/alneenqid6w5/2TsdhoMwl0Fmwp8WBoViXw/ecf196465a00c5b0e12eca29f1c9e3f4/Offer_Quality_01.gif)
 
 ## What has changed?
 

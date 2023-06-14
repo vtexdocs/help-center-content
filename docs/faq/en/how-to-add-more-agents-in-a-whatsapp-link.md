@@ -1,5 +1,5 @@
 ---
-title: How to add more agents in a WhatsApp link?
+title: 'How to add more agents in a WhatsApp link?'
 id: 28P4Lh6n78Nik7gG60jA3z
 status: PUBLISHED
 createdAt: 2022-08-29T19:25:07.116Z

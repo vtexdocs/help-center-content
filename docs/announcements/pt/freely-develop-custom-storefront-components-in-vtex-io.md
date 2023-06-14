@@ -1,5 +1,5 @@
 ---
-title: ""
+title: ''
 id: 2VSsZ0Y5ofRRQuD6Hmc4xb
 status: DRAFT
 createdAt: 2021-03-11T10:09:35.151Z
@@ -10,15 +10,15 @@ productTeam:
 author: 
 slug: untitled-entry-2021-03-11-at-10-09-35
 legacySlug: untitled-entry-2021-03-11-at-10-09-35
-announcementImageID: ""
-announcementSynopsisPT: 
+announcementImageID: ''
+announcementSynopsisPT: ''
 ---
 
 
-emente-componentes-customizados-de-storefront-no-vtex-io
+ente-componentes-customizados-de-storefront-no-vtex-io
 legacySlug: desenvolva-livremente-componentes-customizados-de-storefront-no-vtex-io
-announcementImageID: ""
-announcementSynopsisPT: Autorização não é mais necessária para o desenvolver componentes customizados de front de loja usando VTEX IO.
+announcementImageID: ''
+announcementSynopsisPT: 'Autorização não é mais necessária para o desenvolver componentes customizados de front de loja usando VTEX IO.'
 ---
 
 Se a sua loja é construída usando o [VTEX Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/what-is-store-framework) e você está sentindo falta daquele componente de *front* em especial, nós temos boas notícias: autorizações prévias não são mais exigidas para usar o [*builder*](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-builders) de React da VTEX!

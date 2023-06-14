@@ -1,5 +1,5 @@
 ---
-title: Configurar el subadquirente MercadoPagoV1
+title: 'Configurar el subadquirente MercadoPagoV1'
 id: 6wTlR3UTJe6YMAsEuquO26
 status: PUBLISHED
 createdAt: 2018-03-08T13:05:57.452Z

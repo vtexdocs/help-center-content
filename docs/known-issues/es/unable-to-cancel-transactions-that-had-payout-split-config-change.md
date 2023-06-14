@@ -1,5 +1,5 @@
 ---
-title: No se pueden cancelar las transacciones que han cambiado la configuración de la división del pago
+title: 'No se pueden cancelar las transacciones que han cambiado la configuración de la división del pago'
 id: 2bhsI5119DLOhNjk2cb6q
 status: PUBLISHED
 createdAt: 2022-06-28T16:44:10.992Z

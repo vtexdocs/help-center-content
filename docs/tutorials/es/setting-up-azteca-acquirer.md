@@ -1,5 +1,5 @@
 ---
-title: Configurar adquirente Azteca
+title: 'Configurar adquirente Azteca'
 id: 6AlttfcvU4cSusEqsoCeY0
 status: DRAFT
 createdAt: 2018-05-04T18:31:08.406Z

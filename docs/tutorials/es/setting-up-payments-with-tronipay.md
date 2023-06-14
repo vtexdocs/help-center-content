@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con TroniPay
+title: 'Configurar pago con TroniPay'
 id: 58bPo2KeMzSdXSHfDumu82
 status: DRAFT
 createdAt: 2022-07-20T17:34:33.741Z

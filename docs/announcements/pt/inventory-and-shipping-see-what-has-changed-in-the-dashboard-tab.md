@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis
 legacySlug: estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis
-announcementImageID: ""
-announcementSynopsisPT: Melhoramos a usabilidade do módulo "Paineis" e mudamos o nome da aba para "Estratégia de envio"
+announcementImageID: ''
+announcementSynopsisPT: 'Melhoramos a usabilidade do módulo "Paineis" e mudamos o nome da aba para "Estratégia de envio"'
 ---
 
 O módulo Estoque & Entrega é onde você faz todo o gerenciamento da logística da sua loja. Dentro dele, na aba "Painéis", você configura as transportadoras, docas e estoques vinculados à sua operação. Pensando em melhorar a experiência do módulo, atualizamos essa funcionalidade.

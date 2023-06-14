@@ -1,5 +1,5 @@
 ---
-title: New UI does not show the customers ID document for example CPF
+title: 'New UI does not show the customers ID document for example CPF'
 id: 7y7Npcr6krhsnnEy54vQFa
 status: PUBLISHED
 createdAt: 2022-12-08T22:21:07.966Z

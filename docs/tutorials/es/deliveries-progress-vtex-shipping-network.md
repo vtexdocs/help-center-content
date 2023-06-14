@@ -1,5 +1,5 @@
 ---
-title: VTEX Shipping Network: Progreso de las entregas
+title: 'VTEX Shipping Network: Progreso de las entregas'
 id: 5CZRA0lq60EecmwZpsjvfq
 status: PUBLISHED
 createdAt: 2022-03-04T13:12:38.617Z

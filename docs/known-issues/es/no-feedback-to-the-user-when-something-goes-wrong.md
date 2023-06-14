@@ -1,5 +1,5 @@
 ---
-title: No feedback to the user when something goes wrong
+title: 'No feedback to the user when something goes wrong'
 id: 2fS0k4oLLSS1cH8haveDdE
 status: DRAFT
 createdAt: 2022-05-12T14:51:17.194Z

@@ -1,5 +1,5 @@
 ---
-title: Lean Shipping sustituye el método de envío preferido por el usuario por la opción más barata en diferentes sesiones/navegadores.
+title: 'Lean Shipping sustituye el método de envío preferido por el usuario por la opción más barata en diferentes sesiones/navegadores.'
 id: 2bUIAHTUDuu2K98HWVjVfb
 status: PUBLISHED
 createdAt: 2023-02-01T21:06:22.140Z

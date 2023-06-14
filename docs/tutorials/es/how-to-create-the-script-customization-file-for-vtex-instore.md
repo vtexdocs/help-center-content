@@ -1,5 +1,5 @@
 ---
-title: Crear el archivo de personalización de scripts para el VTEX inStore
+title: 'Crear el archivo de personalización de scripts para el VTEX inStore'
 id: 2Kt5wMKGJWMIgOIg6MGkWI
 status: DRAFT
 createdAt: 2017-06-16T14:21:41.912Z

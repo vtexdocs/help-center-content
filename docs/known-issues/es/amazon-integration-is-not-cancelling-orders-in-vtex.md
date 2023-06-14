@@ -1,5 +1,5 @@
 ---
-title: La integración de Amazon no cancela los pedidos en VTEX
+title: 'La integración de Amazon no cancela los pedidos en VTEX'
 id: 6yAvdyS8zkt3owW4kO95b2
 status: PUBLISHED
 createdAt: 2022-05-30T19:12:28.085Z

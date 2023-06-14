@@ -1,5 +1,5 @@
 ---
-title: O calendário de desempenho de vendas tem um problema com alguns fusos horários europeus
+title: 'O calendário de desempenho de vendas tem um problema com alguns fusos horários europeus'
 id: 23RDaWJO0UQr0QxtTi24is
 status: PUBLISHED
 createdAt: 2023-03-06T16:20:46.718Z

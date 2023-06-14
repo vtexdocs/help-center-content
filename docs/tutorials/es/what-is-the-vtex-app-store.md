@@ -1,5 +1,5 @@
 ---
-title: ¿Qué es la VTEX App Store?
+title: '¿Qué es la VTEX App Store?'
 id: 4FYfGsosd2MoqscmaSog2O
 status: DRAFT
 createdAt: 2018-02-15T12:53:01.616Z

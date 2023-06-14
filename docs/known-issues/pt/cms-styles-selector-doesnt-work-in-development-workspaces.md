@@ -1,5 +1,5 @@
 ---
-title:  O seletor de Estilos CMS não funciona em espaços de trabalho de desenvolvimento
+title: ' O seletor de Estilos CMS não funciona em espaços de trabalho de desenvolvimento'
 id: 5FfCMy8XNdJhO8OvRatbZY
 status: PUBLISHED
 createdAt: 2022-04-19T19:44:44.842Z

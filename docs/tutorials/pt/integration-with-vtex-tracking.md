@@ -1,5 +1,5 @@
 ---
-title: Integração com o VTEX Tracking
+title: 'Integração com o VTEX Tracking'
 id: uzhbxlN6jIEiqYvSPNHhR
 status: PUBLISHED
 createdAt: 2021-09-24T15:05:02.411Z

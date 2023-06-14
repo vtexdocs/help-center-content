@@ -1,5 +1,5 @@
 ---
-title: Split de pagamento incorreto com sellers white label
+title: 'Split de pagamento incorreto com sellers white label'
 id: 4ONWSOeG3mmSKyawq8SYCQ
 status: PUBLISHED
 createdAt: 2018-07-24T18:27:44.066Z

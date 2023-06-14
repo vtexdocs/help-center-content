@@ -1,5 +1,5 @@
 ---
-title: Video component doesn't work properly on iOS devices
+title: 'Video component doesn't work properly on iOS devices'
 id: 2bRQkTdRk2OJQMw5CKVieW
 status: PUBLISHED
 createdAt: 2022-07-01T17:21:47.912Z

@@ -1,5 +1,5 @@
 ---
-title: Creating or editing a page template
+title: 'Creating or editing a page template'
 id: Y6dPEF6GzROQ8PuYKxrKe
 status: DRAFT
 createdAt: 2020-01-08T19:56:28.726Z
@@ -41,9 +41,9 @@ Check out the walk-through:
 </ul></p>
 </div>
 7. Then fill in the __Template XHTML__ box with your template code. 
-![4 1](https://images.ctfassets.net/alneenqid6w5/1BJRfbclbjHPUSztB6y0kP/bd95af131b622a00d9b41dee47789987/4_1.png)
+![4 1](//images.ctfassets.net/alneenqid6w5/1BJRfbclbjHPUSztB6y0kP/bd95af131b622a00d9b41dee47789987/4_1.png)
 9. Click on the __Save Template__ button.
-![4 2](https://images.ctfassets.net/alneenqid6w5/58ZckRTKZ2e6BbXPtx54xK/a638e74bf68dc437257a6c220d5a2c1c/4_2.png)
+![4 2](//images.ctfassets.net/alneenqid6w5/58ZckRTKZ2e6BbXPtx54xK/a638e74bf68dc437257a6c220d5a2c1c/4_2.png)
 
 To edit an existing template, the process is almost identical.
 

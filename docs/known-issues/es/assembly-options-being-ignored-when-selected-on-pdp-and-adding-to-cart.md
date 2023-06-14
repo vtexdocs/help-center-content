@@ -1,5 +1,5 @@
 ---
-title: Se ignoran las opciones de montaje al seleccionarlas en la PDP y añadirlas al carro.
+title: 'Se ignoran las opciones de montaje al seleccionarlas en la PDP y añadirlas al carro.'
 id: 2u0qbC98EK6vPskprYOsnd
 status: PUBLISHED
 createdAt: 2023-01-31T16:00:13.354Z

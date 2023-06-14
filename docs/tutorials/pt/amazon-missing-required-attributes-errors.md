@@ -1,5 +1,5 @@
 ---
-title: Erros de ausência de atributos obrigatórios na Amazon
+title: 'Erros de ausência de atributos obrigatórios na Amazon'
 id: 4sGZnPe95iKCQaXzpQGgqX
 status: DRAFT
 createdAt: 2022-02-11T01:21:21.932Z

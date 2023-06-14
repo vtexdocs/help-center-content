@@ -1,5 +1,5 @@
 ---
-title: La interfaz de pago sobrescribe el destinatario del envío cuando el nombre es diferente de los datos del perfil.
+title: 'La interfaz de pago sobrescribe el destinatario del envío cuando el nombre es diferente de los datos del perfil.'
 id: 2IrL7DbWbzdgxZh6Us6n4q
 status: PUBLISHED
 createdAt: 2023-05-09T22:08:13.314Z

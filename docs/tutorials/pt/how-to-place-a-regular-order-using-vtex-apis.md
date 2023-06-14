@@ -1,5 +1,5 @@
 ---
-title: Fazer um pedido regular usando as APIs da VTEX
+title: 'Fazer um pedido regular usando as APIs da VTEX'
 id: 5NEGP7hofS4eMMSWgeAY82
 status: DRAFT
 createdAt: 2017-12-29T14:54:18.987Z

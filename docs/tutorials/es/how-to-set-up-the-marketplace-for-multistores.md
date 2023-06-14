@@ -1,5 +1,5 @@
 ---
-title: Configurar marketplace para tiendas múltiples
+title: 'Configurar marketplace para tiendas múltiples'
 id: frequentlyAskedQuestions_672
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:57.416Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com WompiCoV2
+title: 'Configurar pagamento com WompiCoV2'
 id: SnkXNUXkESqKxfFZu0LS4
 status: PUBLISHED
 createdAt: 2023-04-14T13:55:18.776Z

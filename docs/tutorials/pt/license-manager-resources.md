@@ -1,5 +1,5 @@
 ---
-title: Recursos do License Manager
+title: 'Recursos do License Manager'
 id: 3q6ztrC8YynQf6rdc6euk3
 status: PUBLISHED
 createdAt: 2022-02-14T17:53:22.572Z

@@ -1,5 +1,5 @@
 ---
-title: Importar y exportar plantilla de stock
+title: 'Importar y exportar plantilla de stock'
 id: tutorials_2034
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:43.488Z

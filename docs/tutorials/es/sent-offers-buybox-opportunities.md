@@ -1,5 +1,5 @@
 ---
-title: Gestión de anuncios: oportunidades de Buybox
+title: 'Gestión de anuncios: oportunidades de Buybox'
 id: 1hO9eI1th47EGxQoTzGewC
 status: PUBLISHED
 createdAt: 2021-07-29T19:59:30.988Z
@@ -32,13 +32,13 @@ En la página [Gestión de anuncios](https://help.vtex.com/es/tutorial/offers-li
 
 ## Detalles del anuncio
 
-![ES Oportunidades Offer details](https://images.ctfassets.net/alneenqid6w5/05EP70mvjspXAYAqYUBlm/b27410f2f77ff4b0f4e2faa689cc2cf6/ES_Oportunidades_Offer_details.jpg)
+![ES Oportunidades Offer details](//images.ctfassets.net/alneenqid6w5/05EP70mvjspXAYAqYUBlm/b27410f2f77ff4b0f4e2faa689cc2cf6/ES_Oportunidades_Offer_details.jpg)
 
 La página [Detalles del anuncio](https://help.vtex.com/es/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P) presenta una tarjeta de `Oportunidad` en la parte superior de la página. Al hacer clic en `Ver oportunidad`, será redirigido a la siguiente página.
 
 ## Oportunidades del anuncio
 
-![ES Oportunidades oportunidades do anúncio](https://images.ctfassets.net/alneenqid6w5/6Atuthxay11bdJrmSQxEM9/1a9aa381135ca8eb4298195fd7140ad9/ES_Oportunidades_oportunidades_do_an__ncio.jpg)
+![ES Oportunidades oportunidades do anúncio](//images.ctfassets.net/alneenqid6w5/6Atuthxay11bdJrmSQxEM9/1a9aa381135ca8eb4298195fd7140ad9/ES_Oportunidades_oportunidades_do_an__ncio.jpg)
 
 La página **Oportunidades del anuncio** presenta el anuncio elegible para la Buybox al lado del anuncio que está presente en el marketplace. La página le permite comparar los datos de los dos anuncios, incluida la información de la marca, especificaciones y dimensiones.
 

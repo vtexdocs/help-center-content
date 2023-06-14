@@ -1,5 +1,5 @@
 ---
-title: A transação ficou presa na aprovação com o conector NPS devido ao psp_ResponseCod na resposta da liquidação
+title: 'A transação ficou presa na aprovação com o conector NPS devido ao psp_ResponseCod na resposta da liquidação'
 id: 1hRLO1HqsaSkvpu58eNYK2
 status: PUBLISHED
 createdAt: 2022-04-06T14:07:03.848Z

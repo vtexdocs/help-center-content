@@ -1,5 +1,5 @@
 ---
-title: "Master Data allows searches using geo coordinates"
+title: 'Master Data allows searches using geo coordinates'
 id: 67KY1C6Aowo4eOwIIuc6yE
 status: DRAFT
 createdAt: 2018-05-03T18:47:16.773Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 
 slug: master-data-allows-searches-using-geo-coordinates
 legacySlug: 
-announcementImageID: ""
-announcementSynopsisEN:  New feature (in beta) enables the use of filters and the ability to organize files based on their geographic position.
+announcementImageID: ''
+announcementSynopsisEN: ' New feature (in beta) enables the use of filters and the ability to organize files based on their geographic position.'
 ---
 
 

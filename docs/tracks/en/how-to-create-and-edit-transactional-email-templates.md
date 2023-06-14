@@ -1,5 +1,5 @@
 ---
-title: How to create and edit transactional email templates
+title: 'How to create and edit transactional email templates'
 id: 335JZKUYgvYlGOJgvJYxRO
 status: PUBLISHED
 createdAt: 2020-01-10T13:13:48.069Z

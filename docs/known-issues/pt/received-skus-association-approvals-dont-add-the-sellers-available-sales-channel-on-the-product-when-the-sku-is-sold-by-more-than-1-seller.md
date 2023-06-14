@@ -1,5 +1,5 @@
 ---
-title: Skus recebidos: As aprovações de associação não adicionam o canal de vendas disponível do vendedor no produto quando o sku é vendido por mais de um vendedor
+title: 'Skus recebidos: As aprovações de associação não adicionam o canal de vendas disponível do vendedor no produto quando o sku é vendido por mais de um vendedor'
 id: 5ob4jquCm8l84MhX6285h8
 status: PUBLISHED
 createdAt: 2022-04-18T17:15:41.091Z

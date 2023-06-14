@@ -1,5 +1,5 @@
 ---
-title: El informe de exportación de pedidos no funciona correctamente debido al doble espacio en el nombre de la promoción.
+title: 'El informe de exportación de pedidos no funciona correctamente debido al doble espacio en el nombre de la promoción.'
 id: 3dVPZEs544WyPDBNzTesWx
 status: PUBLISHED
 createdAt: 2023-04-06T20:22:47.489Z

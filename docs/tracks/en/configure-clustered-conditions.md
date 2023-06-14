@@ -1,5 +1,5 @@
 ---
-title: Configure clustered conditions
+title: 'Configure clustered conditions'
 id: 1LwzfViwdvLMxijASF0GU6
 status: PUBLISHED
 createdAt: 2020-11-18T13:54:49.394Z

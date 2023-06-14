@@ -1,5 +1,5 @@
 ---
-title: Produtos sem estoque em vendedores de whitelabel estão aparecendo no final do PLP
+title: 'Produtos sem estoque em vendedores de whitelabel estão aparecendo no final do PLP'
 id: 5WCKWky2gKGTZyp9ydnFnL
 status: PUBLISHED
 createdAt: 2022-04-20T15:52:50.807Z

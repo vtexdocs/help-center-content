@@ -1,5 +1,5 @@
 ---
-title: Se devuelve una transacción no relacionada cuando se utiliza el número de secuencia para obtener una transacción en la interfaz de administración.
+title: 'Se devuelve una transacción no relacionada cuando se utiliza el número de secuencia para obtener una transacción en la interfaz de administración.'
 id: 62ePhzVMcAe8KRgs4ASSSv
 status: PUBLISHED
 createdAt: 2022-07-25T17:03:28.496Z

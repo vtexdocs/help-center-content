@@ -1,5 +1,5 @@
 ---
-title: Minha assinatura mostrando mensagem de erro quando a assinatura está associada a um ponto de retirada
+title: 'Minha assinatura mostrando mensagem de erro quando a assinatura está associada a um ponto de retirada'
 id: 4p9jzcVzB6E5b6PTm2Ng5E
 status: PUBLISHED
 createdAt: 2022-12-15T19:08:41.210Z

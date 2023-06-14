@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Marketpay
+title: 'Configurar pago con Marketpay'
 id: 1tYNi0mOJFwkFsXts5jIO1
 status: DRAFT
 createdAt: 2022-03-22T23:15:05.721Z

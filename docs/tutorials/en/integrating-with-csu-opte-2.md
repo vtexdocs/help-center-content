@@ -1,5 +1,5 @@
 ---
-title: How to integrate with CSU (Opte+)
+title: 'How to integrate with CSU (Opte+)'
 id: tutorials_4258
 status: PUBLISHED
 createdAt: 2017-04-27T21:51:31.608Z

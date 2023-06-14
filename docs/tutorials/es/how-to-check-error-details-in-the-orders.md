@@ -1,5 +1,5 @@
 ---
-title: Verificar detalles de errores en los pedidos
+title: 'Verificar detalles de errores en los pedidos'
 id: frequentlyAskedQuestions_6718
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:33.450Z

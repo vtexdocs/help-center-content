@@ -1,5 +1,5 @@
 ---
-title: "Última chance de garantir seu lugar no VTEX Training Day"
+title: 'Última chance de garantir seu lugar no VTEX Training Day'
 id: 2EljRWj5qo2qiW00uSY4ki
 status: PUBLISHED
 createdAt: 2018-11-14T19:18:25.180Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
 slug: ultima-chance-de-garantir-seu-lugar-no-vtex-training-day
 legacySlug: ultima-chance-de-garantir-seu-lugar-no-vtex-training-day
-announcementImageID: ""
-announcementSynopsisPT: Aproveite essa oportunidade de fazer uma imersão completa na plataforma e torne-se um verdadeiro expert em VTEX.
+announcementImageID: ''
+announcementSynopsisPT: 'Aproveite essa oportunidade de fazer uma imersão completa na plataforma e torne-se um verdadeiro expert em VTEX.'
 ---
 
 O evento que reúne as principais cabeças da VTEX está chegando e os ingressos estão acabando, mas você ainda pode garantir seu lugar. São 4 salas com uma programação repleta de conteúdo especializado e um treinamento altamente qualificado. 

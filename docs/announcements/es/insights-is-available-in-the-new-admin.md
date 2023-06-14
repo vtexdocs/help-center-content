@@ -1,5 +1,5 @@
 ---
-title: "Insights está disponible en el nuevo admin"
+title: 'Insights está disponible en el nuevo admin'
 id: 2pRsPlgzQc2USEqeGuKe26
 status: PUBLISHED
 createdAt: 2018-05-18T18:15:06.125Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: authors_24
 slug: insights-esta-disponible-en-el-nuevo-admin
 legacySlug: insights-esta-disponible-en-el-nuevo-admin
-announcementImageID: ""
-announcementSynopsisES: Vea métricas detalladas, defina metas y siga el rendimiento de su tienda directamente en el escritorio.
+announcementImageID: ''
+announcementSynopsisES: 'Vea métricas detalladas, defina metas y siga el rendimiento de su tienda directamente en el escritorio.'
 ---
 
 Ahora usted tiene una visión más detallada de su tienda directamente en su administrador. Con __Insights Web__, la versión de desktop de la aplicación para smartphone que ya conoce, es más fácil que nunca identificar oportunidades y verificar resultados.

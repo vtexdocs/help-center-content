@@ -1,5 +1,5 @@
 ---
-title: Configurar parcelamento automático
+title: 'Configurar parcelamento automático'
 id: DMbcGj2IkoMEiCIiuyigY
 status: DRAFT
 createdAt: 2017-07-13T16:15:01.796Z

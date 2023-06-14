@@ -1,5 +1,5 @@
 ---
-title: Como configurar Suscripciones
+title: 'Como configurar Suscripciones'
 id: 5BprgE9RwKPcfBMYoaWZu4
 status: DRAFT
 createdAt: 2019-01-28T19:22:39.047Z

@@ -1,5 +1,5 @@
 ---
-title: "Stripe - Plataforma de pago, ahora disponible para los clientes VTEX"
+title: 'Stripe - Plataforma de pago, ahora disponible para los clientes VTEX'
 id: 6Lvnp0hVnigfghYJeQvpDd
 status: PUBLISHED
 createdAt: 2021-10-26T21:52:21.935Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 4ubliktPJIsvyl1hq91RdK
 slug: stripe-plataforma-de-pago-ahora-disponible-para-los-clientes-vtex
 legacySlug: stripe-plataforma-de-pago-ahora-disponible-para-los-clientes-vtex
-announcementImageID: ""
-announcementSynopsisES: Procese sus ventas con una de las mayores plataformas de pago de la actualidad
+announcementImageID: ''
+announcementSynopsisES: 'Procese sus ventas con una de las mayores plataformas de pago de la actualidad'
 ---
 
 Como solución de comercio global, estamos comprometidos a ayudar a nuestros clientes a acceder a los métodos de pago más populares sin importar dónde operan. Nuestra estrategia de pago tiene un papel importante en la habilitación de cada región y la alianza con Stripe potencia nuestro alcance.

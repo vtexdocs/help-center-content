@@ -1,5 +1,5 @@
 ---
-title: FetchMore mantiene el estado de nextPage y se bloquea la paginación
+title: 'FetchMore mantiene el estado de nextPage y se bloquea la paginación'
 id: 3hyeUjVRNKE8A2UYIQiw2x
 status: PUBLISHED
 createdAt: 2022-04-11T20:53:26.480Z

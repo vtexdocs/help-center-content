@@ -1,5 +1,5 @@
 ---
-title: O registro estadual não é preenchido após a aprovação da solicitação da organização
+title: 'O registro estadual não é preenchido após a aprovação da solicitação da organização'
 id: 7uUdlnXhfaaylNQNpIy3vE
 status: PUBLISHED
 createdAt: 2023-05-12T20:03:31.153Z

@@ -1,5 +1,5 @@
 ---
-title: "Review your store's CAA record"
+title: 'Review your store's CAA record'
 id: 4mBSMpdCByI4c6G64G82Um
 status: PUBLISHED
 createdAt: 2018-11-01T14:32:53.355Z
@@ -10,8 +10,8 @@ productTeam: Reliability
 author: 245tA425AIeioKAk2eaiwS
 slug: check-your-stores-caa-record
 legacySlug: check-your-stores-caa-record
-announcementImageID: ""
-announcementSynopsisEN: We recommend you to update your CAA record on your DNS domains until November 9.
+announcementImageID: ''
+announcementSynopsisEN: 'We recommend you to update your CAA record on your DNS domains until November 9.'
 ---
 
 With __Black Friday__ just around the corner, we recommend you to update the CAA records of your DNS management system until __November 9__. This is an action required to generate and update the SSL certificates, necessary to use VTEX's CDN.

@@ -1,5 +1,5 @@
 ---
-title: Ver detalhes da transação
+title: 'Ver detalhes da transação'
 id: 3Nt40DMEWkvhlpaL5PlBy
 status: PUBLISHED
 createdAt: 2019-11-26T17:51:49.079Z

@@ -1,5 +1,5 @@
 ---
-title: "Assinaturas: aplicativo disponível na VTEX App Store"
+title: 'Assinaturas: aplicativo disponível na VTEX App Store'
 id: 2McDzhB4uyLEcabCrBjeNt
 status: DRAFT
 createdAt: 2022-07-26T22:53:03.914Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: assinaturas-aplicativo-disponivel-na-vtex-app-store
 legacySlug: assinaturas-aplicativo-disponivel-na-vtex-app-store
-announcementImageID: ""
-announcementSynopsisPT: O aplicativo de Assinaturas está disponível de forma gratuita na VTEX App Store.
+announcementImageID: ''
+announcementSynopsisPT: 'O aplicativo de Assinaturas está disponível de forma gratuita na VTEX App Store.'
 ---
 
 Oferecer assinaturas é uma forma de fidelizar e reter o público que realiza compras frequentes na sua loja. A solução da VTEX para esse tipo de estratégia é o aplicativo de [Assinaturas](https://help.vtex.com/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453), que permite criar planos de assinatura que geram pedidos recorrentes de forma automática.

@@ -1,5 +1,5 @@
 ---
-title: Identifying promotions applied to the cart
+title: 'Identifying promotions applied to the cart'
 id: frequentlyAskedQuestions_345
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:52.336Z
@@ -27,10 +27,10 @@ You can place a test order in the store and then check in **Orders Management** 
 
 Example: Imagine an order in which free shipping has been applied, but you don't know the reason. By clicking on an order in **Orders Management**, you would find the name of the promotion registered in the **Sales and Marketing** or **Promotions and Partnerships** section.
 
-<img class="db center mv9 shadow-4 pointer" src="https:https://images.ctfassets.net/alneenqid6w5/1LpXT5YXqbsjb02eAQUsfg/708046486a825d2d2ec3c40ec20a9da2/detalhes-oms-en.png" alt="order-details" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
+<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/1LpXT5YXqbsjb02eAQUsfg/708046486a825d2d2ec3c40ec20a9da2/detalhes-oms-en.png" alt="order-details" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
 </em></figcaption></figure>
 
-<img class="db center mv9 shadow-4 pointer" src="https:https://images.ctfassets.net/alneenqid6w5/2mriJhUbQbqrrUSbp7tjaC/6acf4788ee8432dbfb24d7d790197022/detalhes-neworders-en.png" alt="order-details-beta" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
+<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/2mriJhUbQbqrrUSbp7tjaC/6acf4788ee8432dbfb24d7d790197022/detalhes-neworders-en.png" alt="order-details-beta" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
  (Beta)</em></figcaption></figure>
 
 If no promotion is listed, it indicates that the free shipping is not caused by a promotion, i.e. the shipping calculation in the **Inventory & shipping** module has resulted in zero. In this case, you have to use the **Shipping Simulator** to understand why shipping had zero value.
@@ -41,7 +41,7 @@ In the cart, you can move your mouse over the question mark icon below the price
 
 However, if more than one promotion is applied, what appears will be the sum of the discounts, making it difficult to analyze the scenario.
 
-![example-cart](https://images.ctfassets.net/alneenqid6w5/4OuONCFldxuXYgevJ8wU81/324846b73794d9a19305cfb4d9486ab1/image6.png)
+![example-cart](//images.ctfassets.net/alneenqid6w5/4OuONCFldxuXYgevJ8wU81/324846b73794d9a19305cfb4d9486ab1/image6.png)
 
 ## orderForm
 

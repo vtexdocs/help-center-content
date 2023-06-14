@@ -1,5 +1,5 @@
 ---
-title: Releasing the store for production
+title: 'Releasing the store for production'
 id: tutorials_1417
 status: DRAFT
 createdAt: 2017-04-27T21:56:26.356Z
@@ -29,7 +29,7 @@ Then, you have to place your store on a production status on its relevant Licens
 4. On the option **Is it n production, **click on the **No button**, to change it to **Yes**;
 5. Click on the **Save** button.
 
-![accounts.en](https://images.ctfassets.net/alneenqid6w5/5VattCUDKiUuh4fFbZUUZH/2cf97d683b28608f863ffcb803348a2e/accounts.en.png)
+![accounts.en](//images.ctfassets.net/alneenqid6w5/5VattCUDKiUuh4fFbZUUZH/2cf97d683b28608f863ffcb803348a2e/accounts.en.png)
 
 After this is set up, the access to the final URL of the store will be redirected to your e-commerce!
 

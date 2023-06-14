@@ -1,5 +1,5 @@
 ---
-title: Shipping Simulator
+title: 'Shipping Simulator'
 id: tutorials_144
 status: PUBLISHED
 createdAt: 2017-04-27T22:16:36.879Z

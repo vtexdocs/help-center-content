@@ -1,5 +1,5 @@
 ---
-title: Configurar a regionalização de sellers
+title: 'Configurar a regionalização de sellers'
 id: 32t6wLpQCEnumoh8TjT5fw
 status: PUBLISHED
 createdAt: 2022-08-26T13:58:10.648Z

@@ -1,5 +1,5 @@
 ---
-title: ListPrice shown in a cart doesn't consider if the regular price is being modified by a unitMultiplier
+title: 'ListPrice shown in a cart doesn't consider if the regular price is being modified by a unitMultiplier'
 id: 13cdmEllp9RB30DSJ9Ttka
 status: PUBLISHED
 createdAt: 2022-05-13T16:53:11.761Z

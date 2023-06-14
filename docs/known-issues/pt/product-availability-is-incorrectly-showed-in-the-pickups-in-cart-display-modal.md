@@ -1,5 +1,5 @@
 ---
-title: A disponibilidade do produto é mostrada incorretamente nos pickups no modal de exibição do carrinho
+title: 'A disponibilidade do produto é mostrada incorretamente nos pickups no modal de exibição do carrinho'
 id: 6aoRWAMSGDwcuUPvGd8bI9
 status: PUBLISHED
 createdAt: 2022-03-30T17:24:21.013Z

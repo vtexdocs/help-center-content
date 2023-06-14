@@ -1,5 +1,5 @@
 ---
-title: Como utilizar teasers de promoção
+title: 'Como utilizar teasers de promoção'
 id: 4vdGh3HbLaAkqQ4ACqgees
 status: DRAFT
 createdAt: 2018-02-07T17:40:09.168Z

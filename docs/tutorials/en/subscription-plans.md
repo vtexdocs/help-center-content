@@ -1,5 +1,5 @@
 ---
-title: Subscription plans
+title: 'Subscription plans'
 id: 5kczKRqHEsrs1tYtRcY8wR
 status: CHANGED
 createdAt: 2021-07-06T14:33:32.850Z
@@ -20,7 +20,7 @@ To offer subscription plans for your customers, you need to install the Subscrip
 
 On the **Plans** page, you can view and manage the subscription plans available to your customers, as illustrated below.
 
-![planslist EN](https://images.ctfassets.net/alneenqid6w5/5PAOM3BmvgeIjU1ruAmEYG/0355551976bbb3465d4ddad5ca8cd254/planslist_EN.png)
+![planslist EN](//images.ctfassets.net/alneenqid6w5/5PAOM3BmvgeIjU1ruAmEYG/0355551976bbb3465d4ddad5ca8cd254/planslist_EN.png)
 
 Here are the main features of this page:
 

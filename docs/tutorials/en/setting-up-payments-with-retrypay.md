@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Retrypay
+title: 'Setting up payments with Retrypay'
 id: 3QGioVKVI1Qnk3JbbJlJVY
 status: PUBLISHED
 createdAt: 2023-03-30T19:35:06.661Z

@@ -1,5 +1,5 @@
 ---
-title: Configuração de quantidade máxima do mesmo item no carrinho não pode ser alterada por contas franquia
+title: 'Configuração de quantidade máxima do mesmo item no carrinho não pode ser alterada por contas franquia'
 id: 5NqcSpcmPXEJE4KIkp6eZE
 status: PUBLISHED
 createdAt: 2022-05-12T14:52:33.074Z

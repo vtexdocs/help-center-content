@@ -1,5 +1,5 @@
 ---
-title: "Get Order and List Orders APIs may now return orders with the null status"
+title: 'Get Order and List Orders APIs may now return orders with the null status'
 id: 6IO4rL1qIEWSMsu2WgmWI0
 status: PUBLISHED
 createdAt: 2018-12-28T18:46:34.551Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: authors_41
 slug: get-order-and-list-orders-apis-may-now-return-orders-with-the-null-status
 legacySlug: get-order-and-list-orders-apis-may-now-return-orders-with-the-null-status
-announcementImageID: ""
-announcementSynopsisEN: As of 01/30/2019, orders may appear with null status in the responses for the Get Order and List Orders calls.
+announcementImageID: ''
+announcementSynopsisEN: 'As of 01/30/2019, orders may appear with null status in the responses for the Get Order and List Orders calls.'
 ---
 
 As of __January 30, 2019__, requests to the [Get Order](https://developers.vtex.com/reference/orders#getorder) and [List Orders](https://developers.vtex.com/reference/orders#listorders) APIs may return orders with the `null` status. That result wasn’t previously available while using the referred APIs.

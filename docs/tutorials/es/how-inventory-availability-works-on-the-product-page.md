@@ -1,5 +1,5 @@
 ---
-title: Cómo funciona la disponibilidad de inventario en la página de producto
+title: 'Cómo funciona la disponibilidad de inventario en la página de producto'
 id: gyVfuG5dTyUyGA02iiU0y
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:34.673Z

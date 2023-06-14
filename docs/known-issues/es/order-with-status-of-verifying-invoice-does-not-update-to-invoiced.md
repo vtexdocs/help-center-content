@@ -1,5 +1,5 @@
 ---
-title: El pedido con estado de verificación de factura no se actualiza a facturado.
+title: 'El pedido con estado de verificación de factura no se actualiza a facturado.'
 id: 2FRiGkhLT3JID4I5MvoGo6
 status: PUBLISHED
 createdAt: 2022-03-03T18:37:58.724Z

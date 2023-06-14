@@ -1,5 +1,5 @@
 ---
-title: Search with . on portal returns 404?FileNotFound
+title: 'Search with . on portal returns 404?FileNotFound'
 id: 3Gv7Jv3fjyCwASI8MwMgmQ
 status: PUBLISHED
 createdAt: 2018-09-14T18:09:52.414Z

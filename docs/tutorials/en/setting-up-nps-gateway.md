@@ -1,5 +1,5 @@
 ---
-title: Setting up Ingenico ePayments (NPS) gateway
+title: 'Setting up Ingenico ePayments (NPS) gateway'
 id: 4DtjieyNQIQeI2O2kymEgq
 status: PUBLISHED
 createdAt: 2018-04-18T13:22:00.721Z

@@ -1,5 +1,5 @@
 ---
-title: Visão Geral Marketplace
+title: 'Visão Geral Marketplace'
 id: 40Zd0z9h2RXsM9uMUp3kEb
 status: PUBLISHED
 createdAt: 2023-03-31T19:13:35.911Z
@@ -20,7 +20,7 @@ Um marketplace é uma plataforma virtual por meio da qual diferentes vendedores 
 
 Agrupamos todas as funcionalidades relacionadas a essas operações no menu __Marketplace__, do seu Admin repaginado. 
 
-![Admin v4 marketplace menu PT](https://images.ctfassets.net/alneenqid6w5/5y304Ab4DxbE2GRKVihDjJ/c1a2edea75264dc54e73faf529f8a2c2/Admin_v4_marketplace_menu_PT.jpg)
+![Admin v4 marketplace menu PT](//images.ctfassets.net/alneenqid6w5/5y304Ab4DxbE2GRKVihDjJ/c1a2edea75264dc54e73faf529f8a2c2/Admin_v4_marketplace_menu_PT.jpg)
 
 Confira abaixo mais detalhes sobre as diferentes seções e páginas deste menu.
 

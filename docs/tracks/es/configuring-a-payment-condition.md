@@ -1,5 +1,5 @@
 ---
-title: Configurar una condición de pago 
+title: 'Configurar una condición de pago '
 id: 6bzGxlz4inf8sKmvZ1c7i3
 status: PUBLISHED
 createdAt: 2019-11-26T17:47:27.426Z
@@ -96,7 +96,7 @@ Si decide configurar un medio de pago que acepte cuotas con intereses, este camp
 La opción Cuota Automática le permite configurar los detalles de las cuotas directamente en el proveedor de pago (fuera del entorno VTEX).
 Para habilitar esta opción, seleccione "Sí" en el campo **Utilizar pago en cuotas externo** durante el paso de [configuración de afiliación](https://help.vtex.com/es/tutorial/afiliacoes-de-gateway--tutorials_444).
 
-![cuotaautomatica](https://images.ctfassets.net/alneenqid6w5/3ErHSFlSGyUwbLzJWaUlXw/5e3f569ad3db6cb29111199467b34892/parcelamentoautomaticoes.JPG)
+![cuotaautomatica](//images.ctfassets.net/alneenqid6w5/3ErHSFlSGyUwbLzJWaUlXw/5e3f569ad3db6cb29111199467b34892/parcelamentoautomaticoes.JPG)
 
 <div class="alert alert-warning">
   Actualmente, solo la afiliación MercadoPagoV1 permite la función de cuota automática.

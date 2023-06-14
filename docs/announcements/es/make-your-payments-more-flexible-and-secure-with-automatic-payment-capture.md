@@ -1,5 +1,5 @@
 ---
-title: "Captura automática: haga sus pagos más flexibles y seguros "
+title: 'Captura automática: haga sus pagos más flexibles y seguros '
 id: 1nrL1zneJm3MPZwO5Lb9cp
 status: PUBLISHED
 createdAt: 2020-09-30T21:50:51.930Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: captura-automatica-haga-sus-pagos-mas-flexibles-y-seguros
 legacySlug: captura-automatica-haga-sus-pagos-mas-flexibles-y-seguros
-announcementImageID: ""
-announcementSynopsisES: Nuevo recurso permite que el administrador de la tienda configure el tiempo máximo para que la captura automática ocurra
+announcementImageID: ''
+announcementSynopsisES: 'Nuevo recurso permite que el administrador de la tienda configure el tiempo máximo para que la captura automática ocurra'
 ---
 
 A partir de octubre de 2020, será posible modificar el tiempo máximo para la captura automática de pagos.  

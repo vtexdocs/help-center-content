@@ -1,5 +1,5 @@
 ---
-title: [Analytics] Error al cargar datos en el panel de rendimiento de ventas
+title: '[Analytics] Error al cargar datos en el panel de rendimiento de ventas'
 id: 248vcET5q5GkJj0dgpc9O2
 status: PUBLISHED
 createdAt: 2023-04-28T19:55:43.216Z

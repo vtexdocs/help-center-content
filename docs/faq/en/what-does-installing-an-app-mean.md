@@ -1,5 +1,5 @@
 ---
-title: What does installing an app mean?
+title: 'What does installing an app mean?'
 id: 5OTxmyiJkA4e86W02aKU4w
 status: DRAFT
 createdAt: 2018-02-22T01:54:04.830Z

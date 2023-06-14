@@ -1,5 +1,5 @@
 ---
-title: Registros declarando que houve um reembolso, mas devido a um erro por parte do comprador, a reversão não ocorre de fato
+title: 'Registros declarando que houve um reembolso, mas devido a um erro por parte do comprador, a reversão não ocorre de fato'
 id: Bpa1ncKcUuKd7i5isR2D4
 status: PUBLISHED
 createdAt: 2022-03-17T21:07:16.944Z

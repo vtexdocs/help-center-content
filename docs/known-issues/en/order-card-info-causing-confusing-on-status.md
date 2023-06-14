@@ -1,5 +1,5 @@
 ---
-title: Order card info causing confusing on Status
+title: 'Order card info causing confusing on Status'
 id: 2f0nEqccswuyWEcwdqiRZS
 status: PUBLISHED
 createdAt: 2022-08-18T19:04:12.824Z

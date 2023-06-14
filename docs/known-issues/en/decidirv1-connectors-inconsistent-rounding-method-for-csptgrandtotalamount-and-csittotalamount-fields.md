@@ -1,5 +1,5 @@
 ---
-title: DecidirV1 Connector's Inconsistent rounding method for CSPTGRANDTOTALAMOUNT and CSITTOTALAMOUNT Fields.
+title: 'DecidirV1 Connector's Inconsistent rounding method for CSPTGRANDTOTALAMOUNT and CSITTOTALAMOUNT Fields.'
 id: 6VcgLkWcGwMdkpuJQ14ZBt
 status: PUBLISHED
 createdAt: 2023-04-10T20:32:29.930Z

@@ -1,5 +1,5 @@
 ---
-title: Incluir um registro em um formulário do Master Data
+title: 'Incluir um registro em um formulário do Master Data'
 id: tutorials_6264
 status: PUBLISHED
 createdAt: 2017-04-27T21:48:37.277Z

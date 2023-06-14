@@ -1,5 +1,5 @@
 ---
-title: Visión General Configuraciones de la Tienda
+title: 'Visión General Configuraciones de la Tienda'
 id: 6VtlMoid6iM9dP14X1CopT
 status: PUBLISHED
 createdAt: 2023-03-29T23:00:51.439Z
@@ -22,7 +22,7 @@ Para acceder a esta funcionalidad, haz clic en el ícono de **Configuración de 
 Ten en cuenta que las páginas y los ajustes configurados en el ambiente anterior no han cambiado, sino que se han reorganizado en la barra lateral del Admin, con lo que se ha cambiado la forma de acceder a ellos. 
 </div>
 
-![Admin v4 Store settings menu ES](https://images.ctfassets.net/alneenqid6w5/2EIX54YHzIivbQjreHGV4B/2abc0cab685c0421df6fe5d50f9e3162/Admin_v4_Store_settings_menu_ES.jpg)
+![Admin v4 Store settings menu ES](//images.ctfassets.net/alneenqid6w5/2EIX54YHzIivbQjreHGV4B/2abc0cab685c0421df6fe5d50f9e3162/Admin_v4_Store_settings_menu_ES.jpg)
 
 A continuación encontrarás más detalles sobre las diferentes secciones y páginas de este menú. 
 

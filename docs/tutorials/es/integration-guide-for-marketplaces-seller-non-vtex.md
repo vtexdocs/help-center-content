@@ -1,5 +1,5 @@
 ---
-title: Guía de integración para marketplaces - Seller non VTEX
+title: 'Guía de integración para marketplaces - Seller non VTEX'
 id: yMji0ow0rQuYgQsg26Kus
 status: PUBLISHED
 createdAt: 2017-10-14T21:55:39.633Z

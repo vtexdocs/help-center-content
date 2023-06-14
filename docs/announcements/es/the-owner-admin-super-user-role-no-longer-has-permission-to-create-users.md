@@ -1,5 +1,5 @@
 ---
-title: "El rol Owner (Admin Super) ya no tiene permiso para crear usuarios"
+title: 'El rol Owner (Admin Super) ya no tiene permiso para crear usuarios'
 id: 5OpVXwzX5NWqTkVZ7QLMBd
 status: PUBLISHED
 createdAt: 2023-02-03T14:49:10.763Z
@@ -10,8 +10,8 @@ productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: el-rol-owner-admin-super-ya-no-tiene-permiso-para-crear-usuarios
 legacySlug: 
-announcementImageID: ""
-announcementSynopsisES: El rol Owner (Admin Super) ya no incluye el recurso Save user, relacionado con las acciones de gestión de usuarios.
+announcementImageID: ''
+announcementSynopsisES: 'El rol Owner (Admin Super) ya no incluye el recurso Save user, relacionado con las acciones de gestión de usuarios.'
 ---
 
 **Owner (Admin Super)** es un [rol](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) que abarca todos los [recursos](https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) necesarios para acceder a información y realizar tareas cotidianas en tu tienda VTEX.

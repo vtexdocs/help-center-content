@@ -1,5 +1,5 @@
 ---
-title: Configurar pagos con Private Label (bandera propia)
+title: 'Configurar pagos con Private Label (bandera propia)'
 id: 428FgVdSGQUeAOoogkaIw4
 status: PUBLISHED
 createdAt: 2018-06-28T21:20:09.875Z

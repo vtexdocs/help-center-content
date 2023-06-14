@@ -1,5 +1,5 @@
 ---
-title: El algoritmo de selección del vendedor no tiene en cuenta la disponibilidad real del artículo para elegir la mejor opción
+title: 'El algoritmo de selección del vendedor no tiene en cuenta la disponibilidad real del artículo para elegir la mejor opción'
 id: 4wT0pC5gzxFvh7nAy7CHK7
 status: PUBLISHED
 createdAt: 2022-07-07T17:40:45.874Z

@@ -1,5 +1,5 @@
 ---
-title: La integración de MercadoPagoV1 no funciona con la función de guardar la tarjeta
+title: 'La integración de MercadoPagoV1 no funciona con la función de guardar la tarjeta'
 id: 2V8kdA60OTl7VQoUUNgBci
 status: PUBLISHED
 createdAt: 2022-05-03T15:45:09.856Z

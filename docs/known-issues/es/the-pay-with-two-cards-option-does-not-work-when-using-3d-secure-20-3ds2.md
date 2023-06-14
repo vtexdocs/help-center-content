@@ -1,5 +1,5 @@
 ---
-title: El pago con dos tarjetas no funciona con 3DS2
+title: 'El pago con dos tarjetas no funciona con 3DS2'
 id: 7tjxz6qEsQz9o42diSqMpt
 status: PUBLISHED
 createdAt: 2021-06-15T15:24:52.846Z

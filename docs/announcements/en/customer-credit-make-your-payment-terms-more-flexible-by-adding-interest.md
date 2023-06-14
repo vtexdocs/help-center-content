@@ -1,5 +1,5 @@
 ---
-title: "Customer Credit: make your payment terms more flexible by adding interest"
+title: 'Customer Credit: make your payment terms more flexible by adding interest'
 id: 5B1FjEk1pn33PPGlRsPDm
 status: CHANGED
 createdAt: 2020-04-20T22:08:31.800Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: customer-credit-make-your-payment-terms-more-flexible-by-adding-interest
 legacySlug: customer-credit-make-your-payment-terms-more-flexible-by-adding-interest
-announcementImageID: ""
-announcementSynopsisEN: Customer Credit now allows you to configure interest in your payment rules for installment credit.
+announcementImageID: ''
+announcementSynopsisEN: 'Customer Credit now allows you to configure interest in your payment rules for installment credit.'
 ---
 
 Customer Credit is an app that allows customers to offer credit to their trusted resellers. This amount can be used as a payment method, in the same way as a credit card or “boleto bancário” (popular Brazilian off-line payment method), for example.

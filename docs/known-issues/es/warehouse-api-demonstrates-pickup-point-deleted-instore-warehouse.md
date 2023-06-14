@@ -1,5 +1,5 @@
 ---
-title: La API del almacén demuestra la eliminación de puntos de recogida (almacén inStore)
+title: 'La API del almacén demuestra la eliminación de puntos de recogida (almacén inStore)'
 id: obATI7B4MgRb2lNExdXcV
 status: PUBLISHED
 createdAt: 2022-05-10T20:45:27.127Z

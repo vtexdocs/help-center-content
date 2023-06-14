@@ -1,5 +1,5 @@
 ---
-title: Incluir variables del pedido en el template de e-mail transaccional
+title: 'Incluir variables del pedido en el template de e-mail transaccional'
 id: 694Bn8eOeAWYQeaWGaOISe
 status: DRAFT
 createdAt: 2017-12-19T14:09:17.388Z

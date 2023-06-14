@@ -1,5 +1,5 @@
 ---
-title: Moeda incorreta em USD exibida em alguns locais
+title: 'Moeda incorreta em USD exibida em alguns locais'
 id: 3ESHpG4r40Ltyljn621zF2
 status: PUBLISHED
 createdAt: 2022-02-23T21:47:29.346Z

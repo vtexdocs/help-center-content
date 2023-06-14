@@ -1,5 +1,5 @@
 ---
-title: Gestión del stock
+title: 'Gestión del stock'
 id: tutorials_139
 status: PUBLISHED
 createdAt: 2017-04-27T22:17:21.085Z

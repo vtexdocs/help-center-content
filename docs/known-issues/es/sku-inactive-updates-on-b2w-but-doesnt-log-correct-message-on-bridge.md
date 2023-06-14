@@ -1,5 +1,5 @@
 ---
-title: Sku inactivo, se actualiza en B2W pero no registra el mensaje correcto en el Bridge
+title: 'Sku inactivo, se actualiza en B2W pero no registra el mensaje correcto en el Bridge'
 id: 6d2vJzRspfk1xzPAqUKoua
 status: PUBLISHED
 createdAt: 2022-06-23T14:29:39.598Z

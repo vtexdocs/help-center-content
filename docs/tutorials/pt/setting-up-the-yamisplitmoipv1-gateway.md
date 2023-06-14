@@ -1,5 +1,5 @@
 ---
-title: Configurar o gateway YamiSplitMoipV1
+title: 'Configurar o gateway YamiSplitMoipV1'
 id: 5qrjr9yukwsk4oaMMAisSK
 status: PUBLISHED
 createdAt: 2018-02-28T16:56:41.540Z

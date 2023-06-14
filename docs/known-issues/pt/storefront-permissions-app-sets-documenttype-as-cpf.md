@@ -1,5 +1,5 @@
 ---
-title: O aplicativo de permissões do Storefront define "documentType" como "cpf"
+title: 'O aplicativo de permissões do Storefront define "documentType" como "cpf"'
 id: 1vd0gFWrP50UZacQ0QBKP8
 status: PUBLISHED
 createdAt: 2023-04-27T15:19:53.064Z

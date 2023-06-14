@@ -1,5 +1,5 @@
 ---
-title: Gerenciar vendedores no VTEX Sales App
+title: 'Gerenciar vendedores no VTEX Sales App'
 id: 5pqtuvi97FFZiGf7MlSe8q
 status: PUBLISHED
 createdAt: 2023-04-17T21:01:21.431Z
@@ -25,7 +25,7 @@ Esta página permite que você gerencia seus vendedores a partir das seguintes a
 * [Editar](#editar-vendedor)
 * [Excluir](#excluir-vendedor)
 
-![vendedores-pt](https://images.ctfassets.net/alneenqid6w5/1PDeYBlqDILaEOFGOE7H8x/fbd82da71cf7d2e4a8936b2fd2aac877/PT.png)
+![vendedores-pt](//images.ctfassets.net/alneenqid6w5/1PDeYBlqDILaEOFGOE7H8x/fbd82da71cf7d2e4a8936b2fd2aac877/PT.png)
 
 A página apresenta as seguintes informações: 
 
@@ -48,7 +48,7 @@ Você pode cadastrar um vendedor seguindo os passos abaixo:
 
 Após o cadastro, o vendedor irá receber um email confirmando o cadastro e redirecionando para a opção de login do vendedor ao aplicativo inStore.
 
-![email-vendedor-pt](https://images.ctfassets.net/alneenqid6w5/28VbbIXujzHcE3BriNtZPq/3aa9729eb2211875302b7316dbe46c93/image.png)
+![email-vendedor-pt](//images.ctfassets.net/alneenqid6w5/28VbbIXujzHcE3BriNtZPq/3aa9729eb2211875302b7316dbe46c93/image.png)
 
 <div class ="alert alert-warning">
 <p>Os vendedores cadastrados no inStore não apresentam permissão para acessar o Admin VTEX. Caso um vendedor tente realizar o login no Admin seu cadastro será excluído.</p> 

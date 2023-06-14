@@ -1,5 +1,5 @@
 ---
-title: La posición de la imagen seleccionada en la PDP no se restablece al cambiar de producto
+title: 'La posición de la imagen seleccionada en la PDP no se restablece al cambiar de producto'
 id: btvmr3xSpxnJnxbahLefT
 status: PUBLISHED
 createdAt: 2022-06-14T14:04:04.519Z

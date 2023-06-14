@@ -1,5 +1,5 @@
 ---
-title: Error de mensaje incorrecto al crear/editar SKUs
+title: 'Error de mensaje incorrecto al crear/editar SKUs'
 id: 19tQzBRYyVSI1MW2STZNFf
 status: PUBLISHED
 createdAt: 2023-03-20T19:50:11.591Z

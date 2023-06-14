@@ -1,5 +1,5 @@
 ---
-title: Cómo funciona el control Search Navigator
+title: 'Cómo funciona el control Search Navigator'
 id: 2VFmZawWZiW0ckeqoscieS
 status: PUBLISHED
 createdAt: 2018-02-22T19:19:44.082Z
@@ -51,7 +51,7 @@ Para que una categoría sea exhibida por acción de ese control, debe estar con 
 
 Este flag está en la pantalla de registro de la categoría.
 
-![Cómo funciona el control Search Navigator ES 2](https://images.ctfassets.net/alneenqid6w5/5Qg0LcxqSc6e2UuEo2M0me/457a81b3196c932f1d3f157582598599/2018-10-23_22-41-18_ES_2.png)
+![Cómo funciona el control Search Navigator ES 2](//images.ctfassets.net/alneenqid6w5/5Qg0LcxqSc6e2UuEo2M0me/457a81b3196c932f1d3f157582598599/2018-10-23_22-41-18_ES_2.png)
 
 <div class="alert alert-info">
   <strong>Importante</strong>: El control  <code>&lt;vtex.cmc:searchNavigator/&gt;</code> exhibe, por estándar, apenas la categoría base (primer nivel) y la subcategoría más específica (último nivel) dentro del contexto actual. Se omiten las divisiones intermedias en el árbol de categorías. Además, el control solo funciona en los primeros tres niveles, que son tradicionalmente Departamento, Categoría y Subcategoría. Si su  <a href="https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR">arquitectura de catálogo</a> contiene subdivisiones más allá del tercer nivel, no se mostrarán con el control nativo.
@@ -84,7 +84,7 @@ Para que un campo de producto o un campo de SKU se muestre en el menú por el co
 
 Ambos se encuentran en la pantalla de registro del campo.
 
-![Cómo funciona el control Search Navigator ES 3](https://images.ctfassets.net/alneenqid6w5/25TT9lYqHamqoaS6iIeQKk/a5bf18a4d4779df84dc68a40742fd55e/2018-10-23_2243_ES_3.png)
+![Cómo funciona el control Search Navigator ES 3](//images.ctfassets.net/alneenqid6w5/25TT9lYqHamqoaS6iIeQKk/a5bf18a4d4779df84dc68a40742fd55e/2018-10-23_2243_ES_3.png)
 
 ## Rangos de precio
 

@@ -1,5 +1,5 @@
 ---
-title: Setting up Getnet acquirer
+title: 'Setting up Getnet acquirer'
 id: 5jKTzassnCkOcU4AIGc6W6
 status: DRAFT
 createdAt: 2018-03-05T19:25:46.439Z

@@ -1,5 +1,5 @@
 ---
-title: Sku único com EAN múltiplo no Merchant Center
+title: 'Sku único com EAN múltiplo no Merchant Center'
 id: 2LYJWSDXKbnCQHsRRaGVYe
 status: PUBLISHED
 createdAt: 2022-02-08T19:50:42.386Z

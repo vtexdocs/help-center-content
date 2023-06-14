@@ -1,5 +1,5 @@
 ---
-title: Modifying details of customers’ addresses
+title: 'Modifying details of customers’ addresses'
 id: 3IQsuOvkMgmuwWQMQoo8UM
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:49.820Z

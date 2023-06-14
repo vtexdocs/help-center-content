@@ -1,5 +1,5 @@
 ---
-title: Configurar el CSS del zoom del producto
+title: 'Configurar el CSS del zoom del producto'
 id: 3Ak5dP6A5iSIuAuMOWsGAG
 status: DRAFT
 createdAt: 2017-10-12T15:38:41.766Z

@@ -1,5 +1,5 @@
 ---
-title: "New API routes for automatic approval of Received SKUs"
+title: 'New API routes for automatic approval of Received SKUs'
 id: 5hpcWmKE2CnTYtuDXriUzR
 status: PUBLISHED
 createdAt: 2020-12-18T15:52:36.273Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: new-api-routes-for-automatic-approval-of-received-skus
 legacySlug: new-api-routes-for-automatic-approval-of-received-skus
-announcementImageID: ""
-announcementSynopsisEN: Marketplace: new API routes for automatic approval of received SKUs
+announcementImageID: ''
+announcementSynopsisEN: 'Marketplace: new API routes for automatic approval of received SKUs'
 ---
 
 The Received SKUs module is where marketplaces evaluate suggestions sent by sellers, in order to approve and incorporate them into their catalog or reject them. We have included new routes in our Received SKUs API, so that marketplace operators can automatically add products in a more agile way.

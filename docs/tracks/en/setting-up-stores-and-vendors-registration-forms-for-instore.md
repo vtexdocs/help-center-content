@@ -1,5 +1,5 @@
 ---
-title: Setting up stores and vendors registration forms for inStore
+title: 'Setting up stores and vendors registration forms for inStore'
 id: 58Ztk6XfxY0y0Qqo8WesKm
 status: DRAFT
 createdAt: 2018-03-15T21:32:07.649Z

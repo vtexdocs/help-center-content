@@ -1,5 +1,5 @@
 ---
-title: When trying to approve payment, Orders Managment returns "authorize-fulfillment" error. What to do?
+title: 'When trying to approve payment, Orders Managment returns "authorize-fulfillment" error. What to do?'
 id: 1cbaJI69pSMWkugoUkmQ8O
 status: PUBLISHED
 createdAt: 2017-12-21T14:02:07.873Z

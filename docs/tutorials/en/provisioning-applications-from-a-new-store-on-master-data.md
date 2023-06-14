@@ -1,5 +1,5 @@
 ---
-title: Provisioning applications from a new store on Master Data
+title: 'Provisioning applications from a new store on Master Data'
 id: 1mRKxiUXDeq2cC06CUEqOY
 status: PUBLISHED
 createdAt: 2017-06-20T22:03:59.355Z

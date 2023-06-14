@@ -1,5 +1,5 @@
 ---
-title: Error al instalar la aplicación de crédito al cliente
+title: 'Error al instalar la aplicación de crédito al cliente'
 id: 1ZrXFgFApBkNdDkIVtJfHN
 status: PUBLISHED
 createdAt: 2022-03-27T16:27:57.734Z

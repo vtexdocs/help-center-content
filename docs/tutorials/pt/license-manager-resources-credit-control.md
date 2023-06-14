@@ -1,5 +1,5 @@
 ---
-title: Recursos do License Manager - Credit Control
+title: 'Recursos do License Manager - Credit Control'
 id: 2kBD82E0jq3cF2eybJ9l3U
 status: DRAFT
 createdAt: 2022-02-16T18:05:14.810Z

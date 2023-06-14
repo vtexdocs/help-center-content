@@ -1,5 +1,5 @@
 ---
-title: Múltiplos API de promoção Sku não funcionam
+title: 'Múltiplos API de promoção Sku não funcionam'
 id: 38CLe2oIWHGNgjL4L0uIxz
 status: PUBLISHED
 createdAt: 2023-01-09T21:18:05.077Z

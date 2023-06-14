@@ -1,5 +1,5 @@
 ---
-title: Interface da integração configurada
+title: 'Interface da integração configurada'
 id: DmcxFAdyCC7t0a72hIXeT
 status: PUBLISHED
 createdAt: 2021-09-30T16:44:47.202Z

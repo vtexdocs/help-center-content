@@ -1,5 +1,5 @@
 ---
-title: Planos de assinatura
+title: 'Planos de assinatura'
 id: 5kczKRqHEsrs1tYtRcY8wR
 status: CHANGED
 createdAt: 2021-07-06T14:33:32.850Z
@@ -20,7 +20,7 @@ Para disponibilizar planos de assinatura, você precisa antes instalar o aplicat
 
 A partir da página **Planos**, você pode visualizar e gerenciar os planos de assinaturas disponibilizados para os clientes da sua loja, conforme ilustrado abaixo.
 
-![planslist PT](https://images.ctfassets.net/alneenqid6w5/5PAOM3BmvgeIjU1ruAmEYG/a727c14ea5611ca6da8bb6207ef3b09a/planslist_PT.png)
+![planslist PT](//images.ctfassets.net/alneenqid6w5/5PAOM3BmvgeIjU1ruAmEYG/a727c14ea5611ca6da8bb6207ef3b09a/planslist_PT.png)
 
 As principais funcionalidades desta página são:
 

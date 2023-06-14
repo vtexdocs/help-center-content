@@ -1,5 +1,5 @@
 ---
-title: Posibilidad de proceder al pago con el código postal en blanco en la interfaz de usuario de pago.
+title: 'Posibilidad de proceder al pago con el código postal en blanco en la interfaz de usuario de pago.'
 id: 32IVEgy5AgcFkCimUl87Rp
 status: PUBLISHED
 createdAt: 2023-01-18T21:46:19.613Z

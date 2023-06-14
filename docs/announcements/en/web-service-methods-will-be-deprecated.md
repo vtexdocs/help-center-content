@@ -1,5 +1,5 @@
 ---
-title: "Web Service methods will be deprecated after February 28 - except for the Catalog"
+title: 'Web Service methods will be deprecated after February 28 - except for the Catalog'
 id: 50CJTiHkFGoCO44MK4AyaI
 status: PUBLISHED
 createdAt: 2017-11-03T12:40:06.282Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
 slug: web-service-methods-will-be-deprecated
 legacySlug: web-service-methods-will-be-deprecated
-announcementImageID: ""
-announcementSynopsisEN: As of February 28, the use of Web Service will be discontinued for VTEX integrations, except for the Catalog methods.
+announcementImageID: ''
+announcementSynopsisEN: 'As of February 28, the use of Web Service will be discontinued for VTEX integrations, except for the Catalog methods.'
 ---
 
 As of __February 28__, we will discontinue the use of Web Service for integrations with VTEX, __except for the Catalog methods__.

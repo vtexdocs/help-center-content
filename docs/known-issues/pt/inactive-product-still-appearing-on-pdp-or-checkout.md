@@ -1,5 +1,5 @@
 ---
-title: Produto inativo ainda aparecendo no PDP ou checkout
+title: 'Produto inativo ainda aparecendo no PDP ou checkout'
 id: 567gsup9oQGoMmj5utCra9
 status: PUBLISHED
 createdAt: 2022-03-14T19:50:43.917Z

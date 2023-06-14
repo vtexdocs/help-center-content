@@ -1,5 +1,5 @@
 ---
-title: Integração entre Marketplace não VTEX e Seller VTEX - Ações Referentes ao Envio e Processamento de Pedidos
+title: 'Integração entre Marketplace não VTEX e Seller VTEX - Ações Referentes ao Envio e Processamento de Pedidos'
 id: 5AiW7dZ4nGMDI9TAg43zmf
 status: DRAFT
 createdAt: 2019-09-16T12:52:46.627Z

@@ -1,5 +1,5 @@
 ---
-title: Ativei a assinatura de um produto, mas ele não aparece no site. Por quê?
+title: 'Ativei a assinatura de um produto, mas ele não aparece no site. Por quê?'
 id: 4HTtsuhjckHBgkBIyrH8tz
 status: PUBLISHED
 createdAt: 2019-01-28T19:20:20.661Z
@@ -30,6 +30,6 @@ _Para fazer a inclusão manual de SKUs específicos, siga o passo a passo abaixo
 5. Dê um nome à sua Coleção (os demais campos não devem ser preenchidos).
 6. Insira os SKUs no campo informado e __separe-os com vírgulas__.
 
-![recurrence-specific-skus](https://images.ctfassets.net/alneenqid6w5/70r903nMha2s220AsC2W6k/2fa8421274d56304d680388cc3309323/recurrence-specific-skus.png)
+![recurrence-specific-skus](//images.ctfassets.net/alneenqid6w5/70r903nMha2s220AsC2W6k/2fa8421274d56304d680388cc3309323/recurrence-specific-skus.png)
 
 Por fim, dê um nome ao __Grupo__ da sua Coleção e clique em __Save Group__.

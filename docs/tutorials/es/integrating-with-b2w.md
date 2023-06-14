@@ -1,5 +1,5 @@
 ---
-title: Integrar con SkyHub/B2W
+title: 'Integrar con SkyHub/B2W'
 id: tutorials_408
 status: DRAFT
 createdAt: 2017-04-27T22:06:17.861Z

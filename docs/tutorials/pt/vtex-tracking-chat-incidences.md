@@ -1,5 +1,5 @@
 ---
-title: Ocorrências de Chat (VTEX Tracking)
+title: 'Ocorrências de Chat (VTEX Tracking)'
 id: 2YY7ixoHRmHOt3Fd3LzdPe
 status: PUBLISHED
 createdAt: 2020-08-03T21:41:08.810Z

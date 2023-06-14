@@ -1,5 +1,5 @@
 ---
-title: Search API not working properly after login in using the Call Center Operator.
+title: 'Search API not working properly after login in using the Call Center Operator.'
 id: 3YxbokaDhYnthzy1dc5VHs
 status: PUBLISHED
 createdAt: 2022-01-21T18:24:15.316Z

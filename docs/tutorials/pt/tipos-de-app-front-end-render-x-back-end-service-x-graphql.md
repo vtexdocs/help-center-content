@@ -1,5 +1,5 @@
 ---
-title: Tipos de app - front-end (render) x back-end (service) x GraphQL
+title: 'Tipos de app - front-end (render) x back-end (service) x GraphQL'
 id: SEMAaDZ9YccEAsuuumCqQ
 status: DRAFT
 createdAt: 2017-11-22T15:53:58.850Z

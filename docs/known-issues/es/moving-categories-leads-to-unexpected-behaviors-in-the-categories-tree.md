@@ -1,5 +1,5 @@
 ---
-title: Al mover las categorías se producen comportamientos inesperados en el árbol de categorías
+title: 'Al mover las categorías se producen comportamientos inesperados en el árbol de categorías'
 id: 2HKIvNomXHcDyYiuQYQvqI
 status: PUBLISHED
 createdAt: 2022-06-20T19:34:47.422Z

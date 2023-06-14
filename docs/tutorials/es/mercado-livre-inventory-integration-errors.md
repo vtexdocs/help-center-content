@@ -1,5 +1,5 @@
 ---
-title: Errores de integración de stock con Mercado Libre
+title: 'Errores de integración de stock con Mercado Libre'
 id: 3pWA3vRePuGmJ5tquY4fva
 status: PUBLISHED
 createdAt: 2021-10-04T19:04:23.285Z

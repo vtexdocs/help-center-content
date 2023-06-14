@@ -1,5 +1,5 @@
 ---
-title: Geolocation search for pickup points loading indefinitely
+title: 'Geolocation search for pickup points loading indefinitely'
 id: 9HACCiPSeJY9174Qh9FQb
 status: PUBLISHED
 createdAt: 2021-09-08T18:11:35.333Z
@@ -33,7 +33,7 @@ After making sure your browser meets the said condition, follow the steps below:
 5. At checkout, select the **pickup point** delivery option. 
 6. Note that the page is stuck on loading, displaying the message "Awaiting permission to get your current location".
 
-![erro EN](https://images.ctfassets.net/alneenqid6w5/4MVL2ctjpB3TRIfQt1ht3O/22bc5539ee83ef63668f4ad01c7e0933/erro_EN.png)
+![erro EN](//images.ctfassets.net/alneenqid6w5/4MVL2ctjpB3TRIfQt1ht3O/22bc5539ee83ef63668f4ad01c7e0933/erro_EN.png)
 
 ## Workaround
 

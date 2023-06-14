@@ -1,5 +1,5 @@
 ---
-title: Página de detalles del pedido
+title: 'Página de detalles del pedido'
 id: 2Y75n54Cc9VizrlG1N6ZNl
 status: PUBLISHED
 createdAt: 2020-12-28T15:51:29.428Z
@@ -38,7 +38,7 @@ A continuación, se detallan todas las secciones posibles de la página <b>Detal
 
 ## Barra superior
 
-![BarrasuperiorES](https://images.ctfassets.net/alneenqid6w5/4iRT7cRVqHuZ7BzKScT76O/a5a4369cfa3231a289e6e40e606b53b8/BarrasuperiorES.jpg)
+![BarrasuperiorES](//images.ctfassets.net/alneenqid6w5/4iRT7cRVqHuZ7BzKScT76O/a5a4369cfa3231a289e6e40e606b53b8/BarrasuperiorES.jpg)
 
 La barra superior de la página contiene la siguiente información y acciones:
 
@@ -52,7 +52,7 @@ La barra superior de la página contiene la siguiente información y acciones:
 
 ## Información general 
 
-![Informacao geraisES](https://images.ctfassets.net/alneenqid6w5/33MvPNsMEzss1dgk5qaakl/08c3f4586217f281477c87b60ac10520/Informacao_geraisES.jpg)
+![Informacao geraisES](//images.ctfassets.net/alneenqid6w5/33MvPNsMEzss1dgk5qaakl/08c3f4586217f281477c87b60ac10520/Informacao_geraisES.jpg)
 
 La información general del pedido se muestra en la parte superior de la página, debajo de la barra superior, e incluye:
 
@@ -74,7 +74,7 @@ Este bloque muestra el status actual del pedido en el [flujo de pedidos](https:/
 
 ### Ítems a facturar
 
-![Itens faturarES](https://images.ctfassets.net/alneenqid6w5/2wScKr5ZaHShpyntCuN0jy/bd9f368f2ac4a319c490bd3c84fe88d3/Itens_faturarES__1_.png)
+![Itens faturarES](//images.ctfassets.net/alneenqid6w5/2wScKr5ZaHShpyntCuN0jy/bd9f368f2ac4a319c490bd3c84fe88d3/Itens_faturarES__1_.png)
 
 El bloque **Ítems a facturar** contiene paquetes con ítems cuyo pago ha sido aprobado pero que aún no han sido [facturados](https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT), es decir, sus facturas no se no se emitieron a la plataforma.
 
@@ -87,7 +87,7 @@ En la esquina superior izquierda aparecen las siguientes acciones:
 
 ### Facturas
 
-![FaturaES](https://images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/a94ecc1266048ad8f4c973a0b9042c5a/FaturaES.png)
+![FaturaES](//images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/a94ecc1266048ad8f4c973a0b9042c5a/FaturaES.png)
 
 Este bloque muestra los ítems facturados con sus respectivas facturas y los paquetes que componen las entregas. En este bloque tú puedes:
 
@@ -98,7 +98,7 @@ Este bloque muestra los ítems facturados con sus respectivas facturas y los paq
 
 ### Ítems devueltos
 
-![Itens devolvidosES](https://images.ctfassets.net/alneenqid6w5/318Sl1C9ih6QCltdfps82D/2c0eeac373646a73f4f79686d5f8d55f/Itens_devolvidosES__1_.png)
+![Itens devolvidosES](//images.ctfassets.net/alneenqid6w5/318Sl1C9ih6QCltdfps82D/2c0eeac373646a73f4f79686d5f8d55f/Itens_devolvidosES__1_.png)
 
 El bloque de **Ítems devueltos** se muestra cuando se devuelven ítems del pedido. Mira qué información y acciones están disponibles en este bloque:
 
@@ -112,7 +112,7 @@ El bloque de **Ítems devueltos** se muestra cuando se devuelven ítems del pedi
 
 ### Historial de ítems modificados
 
-![Historico Itens alteradosES](https://images.ctfassets.net/alneenqid6w5/2iaeorSz55zPeXnjaGZdPm/52ab970237d69819a43c8c40621dd712/Historico_Itens_alteradosES.png)
+![Historico Itens alteradosES](//images.ctfassets.net/alneenqid6w5/2iaeorSz55zPeXnjaGZdPm/52ab970237d69819a43c8c40621dd712/Historico_Itens_alteradosES.png)
 
 Este bloque está disponible cuando hay un cambio de ítems en el pedido. El **Historial de ítems modificados** contiene los detalles del cambio: qué ítems se añadieron o eliminaron, la fecha en que se produjo el cambio y los valores de los productos (el precio del ítem devuelto, el precio del ítem agregado y la diferencia entre los dos).
 
@@ -120,7 +120,7 @@ Si hay cambios en el valor final del pedido, la diferencia de valor se mostrará
 
 ## Historial del pedido
 
-![Historico pedidoES](https://images.ctfassets.net/alneenqid6w5/1x2CvQpxrGD48YdmebHVsu/0e9e5ab253e4b902fa99438c725deb56/Historico_pedidoES.jpg)
+![Historico pedidoES](//images.ctfassets.net/alneenqid6w5/1x2CvQpxrGD48YdmebHVsu/0e9e5ab253e4b902fa99438c725deb56/Historico_pedidoES.jpg)
 
 Este bloque muestra las interaciones dentro del pedido, con sus respectivas fechas y horas. 
 
@@ -134,7 +134,7 @@ También puedes ver los detalles de las notificaciones enviadas por email al cli
 
 ## Comentarios
 
-![ComentariosES](https://images.ctfassets.net/alneenqid6w5/6Rqz8dZ1DzcY6nE7juDELC/e8b25905f968644d3346d14109b528d0/ComentariosES.png)
+![ComentariosES](//images.ctfassets.net/alneenqid6w5/6Rqz8dZ1DzcY6nE7juDELC/e8b25905f968644d3346d14109b528d0/ComentariosES.png)
 
 Esta sección te permite añadir comentarios internos con observaciones sobre el pedido. Para ello, escribe en la caja de texto y haz clic en `Enviar`.
 
@@ -142,7 +142,7 @@ Los comentarios enviados se registran en la página de detalles del pedido con l
 
 ## Detalles financieros
 
-![LateralES](https://images.ctfassets.net/alneenqid6w5/1oYh572kbKHKoqODLnmNyD/cb09b4e443df18a1f4af4971718e568a/LateralES.png)
+![LateralES](//images.ctfassets.net/alneenqid6w5/1oYh572kbKHKoqODLnmNyD/cb09b4e443df18a1f4af4971718e568a/LateralES.png)
 
 En la parte derecha de la página, puedes consultar los detalles financieros del pedido. Esta información se actualiza automáticamente a medida que avanza el pedido. 
 

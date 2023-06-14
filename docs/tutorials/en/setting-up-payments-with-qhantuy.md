@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Qhantuy
+title: 'Setting up payments with Qhantuy'
 id: 4KO2beK0scqVy4lrrs3Myq
 status: PUBLISHED
 createdAt: 2023-04-20T13:44:39.377Z

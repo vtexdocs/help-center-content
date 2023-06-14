@@ -1,5 +1,5 @@
 ---
-title: Preencher campos da planilha de importação de produtos e SKUs
+title: 'Preencher campos da planilha de importação de produtos e SKUs'
 id: 4nYhx63Q5yokQWaMguaIgI
 status: PUBLISHED
 createdAt: 2018-02-06T20:09:19.608Z

@@ -1,5 +1,5 @@
 ---
-title: Exportar la base de newsletter por Master Data
+title: 'Exportar la base de newsletter por Master Data'
 id: frequentlyAskedQuestions_1825
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:58.818Z

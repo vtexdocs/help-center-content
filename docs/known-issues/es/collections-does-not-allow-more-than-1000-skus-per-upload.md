@@ -1,5 +1,5 @@
 ---
-title: Recogidas no permite más de 1000 SKU por carga
+title: 'Recogidas no permite más de 1000 SKU por carga'
 id: 4XC2ZLCsBkQhexRB4YrNMn
 status: PUBLISHED
 createdAt: 2023-04-19T13:53:02.339Z

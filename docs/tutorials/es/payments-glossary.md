@@ -1,5 +1,5 @@
 ---
-title: Glosario de pagos
+title: 'Glosario de pagos'
 id: 2LtpfSn3tQrXfnamXhGsm6
 status: DRAFT
 createdAt: 2021-04-29T17:41:54.305Z

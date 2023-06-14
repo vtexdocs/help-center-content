@@ -1,5 +1,5 @@
 ---
-title: Validation of credit card fields at checkout not working properly
+title: 'Validation of credit card fields at checkout not working properly'
 id: 3eF0RQXpJWjAP1biEW9Qdy
 status: DRAFT
 createdAt: 2022-03-30T17:40:10.581Z

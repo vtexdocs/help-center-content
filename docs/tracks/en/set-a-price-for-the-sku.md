@@ -1,5 +1,5 @@
 ---
-title: Set a price for the SKU
+title: 'Set a price for the SKU'
 id: 1DtHgf6AdK6ikYoqK4ywQE
 status: DRAFT
 createdAt: 2018-05-02T20:55:28.187Z

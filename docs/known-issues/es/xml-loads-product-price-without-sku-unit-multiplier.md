@@ -1,5 +1,5 @@
 ---
-title: XML carga el precio del producto sin multiplicador de unidad de SKU
+title: 'XML carga el precio del producto sin multiplicador de unidad de SKU'
 id: 3B1Vi8l3gICcqKuqcAoKqI
 status: PUBLISHED
 createdAt: 2018-03-29T19:49:29.768Z

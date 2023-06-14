@@ -1,5 +1,5 @@
 ---
-title: "Nueva interface de Vínculos de SKU"
+title: 'Nueva interface de Vínculos de SKU'
 id: 7qbbvVykje1Q9kHT3J4sZE
 status: PUBLISHED
 createdAt: 2022-07-26T00:17:05.202Z
@@ -10,15 +10,15 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: nueva-interface-de-vinculos-de-sku
 legacySlug: nueva-interface-de-vinculos-de-sku
-announcementImageID: ""
-announcementSynopsisES: Hemos rediseñado Vínculos de SKU para facilitar la relación entre los SKU de los sellers y de los marketplaces.
+announcementImageID: ''
+announcementSynopsisES: 'Hemos rediseñado Vínculos de SKU para facilitar la relación entre los SKU de los sellers y de los marketplaces.'
 ---
 
 VTEX permite que tu tienda actúe a la vez como [seller](https://help.vtex.com/es/tutorial/como-configurar-el-seller-para-vender-en-un-marketplace-vtex--6g045OkRSjNpqhkExbQRlP) y como [marketplace](https://help.vtex.com/es/tutorial/configurar-marketplaces-vtex--7splyp5MqIyt2Iyz5jsNzb), lo que te permite reducir costos, llegar a más clientes y aumentar la variedad de productos ofrecidos. En este contexto, cada marketplace debe establecer y mantener una relación directa entre su catálogo y los [SKU](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) ofrecidos por los sellers.
 
 Para mejorar esta experiencia, hemos rediseñado la página **Vínculos de SKU** en el Admin VTEX. La nueva interfaz te permite seguir y gestionar la relación de vínculo entre los SKU del seller y del marketplace de una forma más sencilla y ágil.
 
-![sku_binding_page_ES_final](https://images.ctfassets.net/alneenqid6w5/3TrV8m2JLKuPjhKTtkY2Yl/c5f9ed73561edd82c340eef6f28ef12a/sku_binding_page_ES_final.png)
+![sku_binding_page_ES_final](//images.ctfassets.net/alneenqid6w5/3TrV8m2JLKuPjhKTtkY2Yl/c5f9ed73561edd82c340eef6f28ef12a/sku_binding_page_ES_final.png)
 
 ## ¿Qué cambió?
 

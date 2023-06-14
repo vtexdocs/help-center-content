@@ -1,5 +1,5 @@
 ---
-title: Synonyms not reflecting on the Explained Search
+title: 'Synonyms not reflecting on the Explained Search'
 id: 6twjWHNHdarFV5pz1aTfeb
 status: PUBLISHED
 createdAt: 2023-03-20T16:57:15.640Z

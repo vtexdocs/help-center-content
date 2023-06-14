@@ -1,5 +1,5 @@
 ---
-title: Forcing stock availability
+title: 'Forcing stock availability'
 id: 2SgRUekV8FO4lg2aO6YTmh
 status: DRAFT
 createdAt: 2020-06-28T19:07:00.903Z

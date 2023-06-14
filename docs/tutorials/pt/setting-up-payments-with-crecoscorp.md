@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com CrecosCorp
+title: 'Configurar pagamento com CrecosCorp'
 id: 2NNAhG7ugxXhyk7U45hIeZ
 status: PUBLISHED
 createdAt: 2022-08-15T18:54:07.978Z

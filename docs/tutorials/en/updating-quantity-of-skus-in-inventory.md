@@ -1,5 +1,5 @@
 ---
-title: Updating quantity of SKUs in inventory
+title: 'Updating quantity of SKUs in inventory'
 id: IKMWjOjMcMqKusSGko8c0
 status: DRAFT
 createdAt: 2018-10-02T19:10:45.879Z

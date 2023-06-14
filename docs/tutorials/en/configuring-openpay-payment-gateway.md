@@ -1,5 +1,5 @@
 ---
-title: Configuring Openpay payment gateway
+title: 'Configuring Openpay payment gateway'
 id: 5vGj3UIFCU4GFFqVBlYKW2
 status: PUBLISHED
 createdAt: 2021-07-06T17:31:51.598Z

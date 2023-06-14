@@ -1,5 +1,5 @@
 ---
-title: Product specifications attribute – Google Shopping XML
+title: 'Product specifications attribute – Google Shopping XML'
 id: tutorials_100
 status: PUBLISHED
 createdAt: 2017-04-27T22:19:40.955Z

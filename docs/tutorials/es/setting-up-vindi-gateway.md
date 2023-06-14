@@ -1,5 +1,5 @@
 ---
-title: Configurar el gateway Vindi
+title: 'Configurar el gateway Vindi'
 id: 61EXzfrBZYIgGU26EGcaMo
 status: DRAFT
 createdAt: 2018-03-01T15:25:39.368Z

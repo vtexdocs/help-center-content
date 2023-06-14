@@ -1,5 +1,5 @@
 ---
-title: "Melhorias no matcher da VTEX"
+title: 'Melhorias no matcher da VTEX'
 id: 13KA505i1EQT24u7CPIPrP
 status: PUBLISHED
 createdAt: 2021-06-10T12:17:25.857Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: melhorias-no-matcher-da-vtex
 legacySlug: melhorias-no-matcher-da-vtex
-announcementImageID: ""
-announcementSynopsisPT: Reformulamos o matcher da VTEX para aprimorar a catalogação de SKUs do seller, no marketplace
+announcementImageID: ''
+announcementSynopsisPT: 'Reformulamos o matcher da VTEX para aprimorar a catalogação de SKUs do seller, no marketplace'
 ---
 
 O [VTEX Matcher](https://help.vtex.com/pt/tutorial/understanding-vtex-matcher-scoring--tutorials_424) é uma ferramenta presente em marketplaces que avalia produtos e SKUs enviados por sellers para acelerar sua [catalogação](https://help.vtex.com/pt/tutorial/sugerindo-e-aprovando-skus/). O VTEX Matcher avalia os itens recebidos e busca correspondências no catálogo do marketplace, podendo associar esse item a um SKU, ou a um produto existente, e até, caso não houver correspondência, criar um produto novo.

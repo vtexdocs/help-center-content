@@ -1,5 +1,5 @@
 ---
-title: Relatórios
+title: 'Relatórios'
 id: KmTNkVu9iGYASqnxszhAa
 status: PUBLISHED
 createdAt: 2021-05-14T14:31:11.936Z
@@ -30,4 +30,4 @@ Os relatórios disponíveis, são:
 *   [Relatório de SMS e Email](https://help.vtex.com/pt/tutorial/relatorio-de-sms-e-email--7AZmTlojzg1hDmwhDOxCNO)
 *   [Relatório de Serviços](https://help.vtex.com/pt/tutorial/relatorio-de-servicos--7djPWfxtf9qb6hFTOgKDE8)
 
-![relatorio](https://images.ctfassets.net/alneenqid6w5/7y2pg2YdeX5Y4vEjz2TYMl/44110199a50b25b75041edbf9deb79ec/relatorio.png)
+![relatorio](//images.ctfassets.net/alneenqid6w5/7y2pg2YdeX5Y4vEjz2TYMl/44110199a50b25b75041edbf9deb79ec/relatorio.png)

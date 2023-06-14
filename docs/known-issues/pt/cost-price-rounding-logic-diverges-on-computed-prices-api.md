@@ -1,5 +1,5 @@
 ---
-title: A lógica de arredondamento do preço de custo diverge na API de preços calculados
+title: 'A lógica de arredondamento do preço de custo diverge na API de preços calculados'
 id: 744fWEh7fgMHwvidFEhlV
 status: PUBLISHED
 createdAt: 2023-06-12T17:15:06.190Z

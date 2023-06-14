@@ -1,5 +1,5 @@
 ---
-title: Cómo funciona la integración del Mercado Libre
+title: 'Cómo funciona la integración del Mercado Libre'
 id: 3cKjnItfjyqauWWcMkOqC0
 status: PUBLISHED
 createdAt: 2018-09-06T15:36:57.140Z

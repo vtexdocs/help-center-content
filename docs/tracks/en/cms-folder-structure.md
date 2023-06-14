@@ -1,5 +1,5 @@
 ---
-title: CMS folder structure
+title: 'CMS folder structure'
 id: 75yhGhiXHMnV6Ib0rOAnue
 status: DRAFT
 createdAt: 2020-01-08T19:46:39.934Z

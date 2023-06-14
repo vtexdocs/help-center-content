@@ -1,5 +1,5 @@
 ---
-title: Enabling product recommendations
+title: 'Enabling product recommendations'
 id: 321NRjb9YjABQPReJJ5wr2
 status: DRAFT
 createdAt: 2020-06-28T18:47:06.689Z
@@ -27,7 +27,7 @@ If you want to hide these recommendations, you need to edit the files `checkout-
 
 Like the inStore customization JavaScript file, `checkout-instore-custom.css` must be accessed through the VTEX administrative panel (as explained in the [inStore Customizations article](https://help.tex.com/tracks/instore-customizations--1z9kBm12oBPyVNDo1ivVc2/4mwdBrFsmE2EPE0FzgX28b)).
 
-![25. Enable product recommendations - 1 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/tPaSFJCJ0k3mk1GJh14r0/339b836008564c70f192820041a9df62/25._Enable_product_recommendations_-_1_-_EN.png_h_250)
+![25. Enable product recommendations - 1 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/tPaSFJCJ0k3mk1GJh14r0/339b836008564c70f192820041a9df62/25._Enable_product_recommendations_-_1_-_EN.png_h_250)
 
 In the `checkout-instore-custom.css` file, include the following CSS rule:
 

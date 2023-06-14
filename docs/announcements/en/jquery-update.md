@@ -1,5 +1,5 @@
 ---
-title: "jQuery update"
+title: 'jQuery update'
 id: hwSxHew6NGYQueWmocuaw
 status: PUBLISHED
 createdAt: 2018-07-10T14:40:08.017Z
@@ -10,8 +10,8 @@ productTeam: Reliability
 author: authors_24
 slug: jquery-update
 legacySlug: jquery-update
-announcementImageID: ""
-announcementSynopsisEN: The update is already in beta so you can test your store. The change will be completed by July 30th.
+announcementImageID: ''
+announcementSynopsisEN: 'The update is already in beta so you can test your store. The change will be completed by July 30th.'
 ---
 
 We've uploaded in __beta__ a jQuery update that will fix performance issues. The full release will be completed in stable to all stores by __July 30th__. _This is not a full upgrade. Just a few pacthes of the current version will be modified._

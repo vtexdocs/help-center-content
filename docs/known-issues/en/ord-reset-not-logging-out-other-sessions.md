@@ -1,5 +1,5 @@
 ---
-title: ord reset not logging out other sessions
+title: 'ord reset not logging out other sessions'
 id: 3LVhz4vELaVWEMnO1cpCbI
 status: PUBLISHED
 createdAt: 2022-03-18T18:51:36.294Z

@@ -1,5 +1,5 @@
 ---
-title: Não é possível simular fretes em carrinhos de recompra para endereços diferentes
+title: 'Não é possível simular fretes em carrinhos de recompra para endereços diferentes'
 id: 503wM1KC9nzDvPO4c2bQYM
 status: PUBLISHED
 createdAt: 2019-07-09T15:13:05.370Z

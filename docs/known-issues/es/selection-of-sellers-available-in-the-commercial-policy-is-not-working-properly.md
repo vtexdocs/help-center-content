@@ -1,5 +1,5 @@
 ---
-title: La selección de sellers disponible en la política comercial no funciona correctamente
+title: 'La selección de sellers disponible en la política comercial no funciona correctamente'
 id: 1w656dzgvHG8yIvPfFdGBX
 status: PUBLISHED
 createdAt: 2022-02-01T20:55:24.960Z

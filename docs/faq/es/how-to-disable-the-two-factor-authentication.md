@@ -1,5 +1,5 @@
 ---
-title: Inhabilitar la autenticacion de dos factores
+title: 'Inhabilitar la autenticacion de dos factores'
 id: 6PjgqknX8sW48AcEYA8eMg
 status: DRAFT
 createdAt: 2017-07-27T17:31:47.472Z

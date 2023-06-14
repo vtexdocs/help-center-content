@@ -1,5 +1,5 @@
 ---
-title: "NOVO PRAZO: você tem até 31/05 para ativar a nova CDN"
+title: 'NOVO PRAZO: você tem até 31/05 para ativar a nova CDN'
 id: 1NHO2lx3tyWaqcwMG6u62q
 status: PUBLISHED
 createdAt: 2018-04-20T21:14:47.734Z
@@ -10,8 +10,8 @@ productTeam: Reliability
 author: authors_24
 slug: novo-prazo-voce-tem-ate-31-05-para-ativar-a-nova-cdn
 legacySlug: novo-prazo-voce-tem-ate-31-05-para-ativar-a-nova-cdn
-announcementImageID: ""
-announcementSynopsisPT: Ative o HTTPS, atualize o CNAME e solicite a nova CDN antes do prazo final. Assim, você evita quebras na sua loja.
+announcementImageID: ''
+announcementSynopsisPT: 'Ative o HTTPS, atualize o CNAME e solicite a nova CDN antes do prazo final. Assim, você evita quebras na sua loja.'
 ---
 
 Devido à grande quantidade de lojas que não se prepararam para ativação do HTTPS e da nova CDN, decidimos prorrogar o prazo final de migração para __31 de maio__.

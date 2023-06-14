@@ -1,5 +1,5 @@
 ---
-title: Pedido com status de Verificação de Fatura não é atualizado para Faturação.
+title: 'Pedido com status de Verificação de Fatura não é atualizado para Faturação.'
 id: 2FRiGkhLT3JID4I5MvoGo6
 status: PUBLISHED
 createdAt: 2022-03-03T18:37:58.724Z

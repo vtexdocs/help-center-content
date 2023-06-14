@@ -1,5 +1,5 @@
 ---
-title: El atributo de vídeo no se envía del vendedor al mercado
+title: 'El atributo de vídeo no se envía del vendedor al mercado'
 id: 6JfHpP6F8TGmJofoKc99ON
 status: PUBLISHED
 createdAt: 2022-02-07T20:07:23.358Z

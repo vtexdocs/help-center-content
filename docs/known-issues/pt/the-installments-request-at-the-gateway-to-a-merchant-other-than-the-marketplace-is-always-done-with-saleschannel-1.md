@@ -1,5 +1,5 @@
 ---
-title: A solicitação de parcelas na porta de entrada de um comerciante que não o mercado é sempre feita com canal de vendas = 1
+title: 'A solicitação de parcelas na porta de entrada de um comerciante que não o mercado é sempre feita com canal de vendas = 1'
 id: Xo2YO6ZM9Jj0ONZjXrrrJ
 status: PUBLISHED
 createdAt: 2022-03-27T21:08:39.176Z

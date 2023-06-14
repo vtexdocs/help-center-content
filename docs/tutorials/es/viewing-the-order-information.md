@@ -1,5 +1,5 @@
 ---
-title: Visualización de la información de pedido
+title: 'Visualización de la información de pedido'
 id: 4a8P9XO7fWGWGGicqoIYi8
 status: PUBLISHED
 createdAt: 2018-05-23T18:05:47.853Z

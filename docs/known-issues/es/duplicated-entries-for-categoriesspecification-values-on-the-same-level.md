@@ -1,5 +1,5 @@
 ---
-title: Entradas duplicadas para categorías/valores de especificación en el mismo nivel
+title: 'Entradas duplicadas para categorías/valores de especificación en el mismo nivel'
 id: IoWI8yx1cabm4bWhSU4Ek
 status: PUBLISHED
 createdAt: 2022-04-18T18:53:37.507Z

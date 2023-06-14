@@ -1,5 +1,5 @@
 ---
-title: "Ofereça pontos de retirada para pedidos de assinatura"
+title: 'Ofereça pontos de retirada para pedidos de assinatura'
 id: UOKiWlMTbrzDcPf6rvVME
 status: PUBLISHED
 createdAt: 2021-05-17T14:36:13.304Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: ofereca-pontos-de-retirada-para-pedidos-de-assinatura
 legacySlug: ofereca-pontos-de-retirada-para-pedidos-de-assinatura
-announcementImageID: ""
-announcementSynopsisPT: Agora é possível escolher pontos de retirada para pedidos de assinatura.
+announcementImageID: ''
+announcementSynopsisPT: 'Agora é possível escolher pontos de retirada para pedidos de assinatura.'
 ---
 
 Agora você pode disponibilizar pontos de retirada para pedidos de assinatura. Essa forma de entrega pode ser escolhida ao criar assinaturas [durante o checkout na loja](https://help.vtex.com/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453?&utm_source=autocomplete#adicionar-produtos-para-assinatura-durante-o-checkout) ou por meio da [API de Subscriptions](https://developers.vtex.com/vtex-rest-api/reference/subscriptions-1#post_api-rns-pub-subscriptions).
@@ -22,7 +22,7 @@ A funcionalidade de pontos de retirada para assinaturas está disponível em ver
 
 Antes, as assinaturas não tinham pontos de retirada como uma das opções de entrega. Com a nova funcionalidade, o cliente final pode escolher pontos de retirada para itens de um pedido de assinatura no momento do checkout, conforme ilustrado na imagem abaixo.
 
-![subscriptionspickup PT](https://images.ctfassets.net/alneenqid6w5/6qqc7DV4Wk6yRWvsdiWNCP/d7b20c88e0bcc04178d9bd0a5234d702/subscriptionspickup_PT.gif)
+![subscriptionspickup PT](//images.ctfassets.net/alneenqid6w5/6qqc7DV4Wk6yRWvsdiWNCP/d7b20c88e0bcc04178d9bd0a5234d702/subscriptionspickup_PT.gif)
 
 Além disso, você também pode atribuir pontos de retirada a novas assinaturas e a assinaturas já existentes por meio da [API de Subscriptions](https://developers.vtex.com/vtex-rest-api/reference/subscriptions-1).
 

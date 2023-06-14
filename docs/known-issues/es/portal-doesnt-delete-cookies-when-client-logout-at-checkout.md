@@ -1,5 +1,5 @@
 ---
-title: El portal no borra las cookies cuando el cliente cierra la sesión al finalizar la compra
+title: 'El portal no borra las cookies cuando el cliente cierra la sesión al finalizar la compra'
 id: 5GPBW2TBOUzJkw5u47KC5z
 status: PUBLISHED
 createdAt: 2022-03-16T16:13:44.658Z

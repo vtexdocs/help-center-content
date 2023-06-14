@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Flywire
+title: 'Setting up payments with Flywire'
 id: 12nQ0teCWM1UUtd2Fo6lzO
 status: PUBLISHED
 createdAt: 2023-04-03T13:05:10.955Z

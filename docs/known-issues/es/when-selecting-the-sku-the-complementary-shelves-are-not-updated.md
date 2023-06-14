@@ -1,5 +1,5 @@
 ---
-title: Al seleccionar el SKU los estantes complementarios no se actualizan
+title: 'Al seleccionar el SKU los estantes complementarios no se actualizan'
 id: VTJ27UixWu8kuoiQ8G8O2
 status: PUBLISHED
 createdAt: 2017-08-18T19:33:30.804Z

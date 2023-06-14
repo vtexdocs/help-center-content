@@ -1,5 +1,5 @@
 ---
-title: Mercado Libre promotions
+title: 'Mercado Libre promotions'
 id: 3pEqEnru6H2JcZzYVioT5f
 status: PUBLISHED
 createdAt: 2022-04-07T15:22:59.827Z

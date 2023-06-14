@@ -1,5 +1,5 @@
 ---
-title: Cadastrar produtos
+title: 'Cadastrar produtos'
 id: tutorials_2567
 status: PUBLISHED
 createdAt: 2017-04-27T21:53:51.611Z

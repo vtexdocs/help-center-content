@@ -1,5 +1,5 @@
 ---
-title: The changes made to Custom payments are not reflected in checkout
+title: 'The changes made to Custom payments are not reflected in checkout'
 id: 22ot22mIyR9v8b2vXYn8VW
 status: PUBLISHED
 createdAt: 2022-03-27T17:59:14.988Z

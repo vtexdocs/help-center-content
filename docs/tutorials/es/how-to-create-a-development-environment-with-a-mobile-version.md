@@ -1,5 +1,5 @@
 ---
-title: Crear ambiente de desarrollo de versión mobile
+title: 'Crear ambiente de desarrollo de versión mobile'
 id: frequentlyAskedQuestions_587
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:55.089Z
@@ -37,7 +37,7 @@ Para desarrollar una versión mobile con un nuevo WebSite, debe seguir los sigui
 
 Storefront > Layout > Carpeta de CMS > Sites and Channels > New Website
 
-![cms-new-website](https://images.ctfassets.net/alneenqid6w5/62XyLdvzwsQaESok6EmUG8/e8a4597bed1e50d5ce24f350d46be96b/New_website.png)
+![cms-new-website](//images.ctfassets.net/alneenqid6w5/62XyLdvzwsQaESok6EmUG8/e8a4597bed1e50d5ce24f350d46be96b/New_website.png)
 
 3. Crear estructura de carpetas del WebSite Mobile: en este paso será necesario crear las carpetas estándar del sistema que se usarán en la versión mobile (búsqueda, departamento, categoría, marca, producto, etc.)
 

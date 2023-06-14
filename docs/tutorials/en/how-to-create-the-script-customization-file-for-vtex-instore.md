@@ -1,5 +1,5 @@
 ---
-title: Creating the script customization file for VTEX inStore
+title: 'Creating the script customization file for VTEX inStore'
 id: 2Kt5wMKGJWMIgOIg6MGkWI
 status: DRAFT
 createdAt: 2017-06-16T14:21:41.912Z

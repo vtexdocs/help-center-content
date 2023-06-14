@@ -1,5 +1,5 @@
 ---
-title: El artículo añadido a la orden de modificación se encuentra en otro paquete después de facturarse
+title: 'El artículo añadido a la orden de modificación se encuentra en otro paquete después de facturarse'
 id: 4a3VAtnfhYeg2N1EekVyO2
 status: PUBLISHED
 createdAt: 2022-08-19T19:25:08.342Z

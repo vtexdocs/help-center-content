@@ -1,5 +1,5 @@
 ---
-title: Modificación de la cantidad en un artículo erróneo con un componente de lista de productos (IO/SF)
+title: 'Modificación de la cantidad en un artículo erróneo con un componente de lista de productos (IO/SF)'
 id: jWaas8MOVv5NYSImgA9ao
 status: PUBLISHED
 createdAt: 2022-12-16T18:10:39.004Z

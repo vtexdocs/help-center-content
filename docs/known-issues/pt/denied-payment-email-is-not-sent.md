@@ -1,5 +1,5 @@
 ---
-title: E-mail de pagamento negado não é enviado
+title: 'E-mail de pagamento negado não é enviado'
 id: 60n6pzdjGMk6Sq6oCC2QAQ
 status: PUBLISHED
 createdAt: 2017-10-01T19:38:06.243Z

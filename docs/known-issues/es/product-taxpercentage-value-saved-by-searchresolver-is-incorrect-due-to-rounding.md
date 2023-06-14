@@ -1,5 +1,5 @@
 ---
-title: El valor del TaxPercentage del producto guardado por el search-resolver es incorrecto debido al redondeo
+title: 'El valor del TaxPercentage del producto guardado por el search-resolver es incorrecto debido al redondeo'
 id: 5zalMbGTuKaxpepVEdW3Dt
 status: PUBLISHED
 createdAt: 2022-03-21T17:38:14.386Z

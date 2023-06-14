@@ -1,5 +1,5 @@
 ---
-title: La primera búsqueda en una tienda no se considera en la IU "últimas búsquedas"
+title: 'La primera búsqueda en una tienda no se considera en la IU "últimas búsquedas"'
 id: 7mc9vRE92VGauQmRaK6NnU
 status: PUBLISHED
 createdAt: 2022-05-04T17:08:25.235Z

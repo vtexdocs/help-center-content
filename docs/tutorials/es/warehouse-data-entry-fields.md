@@ -1,5 +1,5 @@
 ---
-title: Campos de registro de Inventario
+title: 'Campos de registro de Inventario'
 id: 3AvR9vXYIbiohz8yvtsn6a
 status: DRAFT
 createdAt: 2019-08-28T22:25:01.500Z

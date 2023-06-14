@@ -1,5 +1,5 @@
 ---
-title: Itens indisponíveis que quebram o cálculo do pedidoFormulário de cálculo em um cenário específico, utilizando vendedores de whitelabel
+title: 'Itens indisponíveis que quebram o cálculo do pedidoFormulário de cálculo em um cenário específico, utilizando vendedores de whitelabel'
 id: 1LJqeG27j5tY6o6Bs8cQ7P
 status: PUBLISHED
 createdAt: 2023-02-01T21:48:14.820Z

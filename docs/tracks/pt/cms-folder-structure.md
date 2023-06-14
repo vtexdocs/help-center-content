@@ -1,5 +1,5 @@
 ---
-title: Estrutura de pastas do CMS
+title: 'Estrutura de pastas do CMS'
 id: 75yhGhiXHMnV6Ib0rOAnue
 status: DRAFT
 createdAt: 2020-01-08T19:46:39.934Z
@@ -32,7 +32,7 @@ Toda loja precisa ter, sem exceção, as seguintes pastas no CMS para garantir o
 
 Veja abaixo estas pastas básicas no CMS:
 
-![2 1](https://images.ctfassets.net/alneenqid6w5/6jvwsPMcIBTllVekqROlkk/ea2d4a9d0d4cdb8a07dd02a3add4b40b/2_1.png)
+![2 1](//images.ctfassets.net/alneenqid6w5/6jvwsPMcIBTllVekqROlkk/ea2d4a9d0d4cdb8a07dd02a3add4b40b/2_1.png)
 
 Estas pastas vêm por padrão no ambiente de todas as lojas VTEX.
 

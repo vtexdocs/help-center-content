@@ -1,5 +1,5 @@
 ---
-title: Informações de categoria de produto da dataLayer com uma classificação errada
+title: 'Informações de categoria de produto da dataLayer com uma classificação errada'
 id: 5M84UlbbxXG6msTBUYiksT
 status: PUBLISHED
 createdAt: 2022-12-13T18:02:07.567Z

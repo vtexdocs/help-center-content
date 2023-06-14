@@ -1,5 +1,5 @@
 ---
-title: Criar um template de prateleira
+title: 'Criar um template de prateleira'
 id: frequentlyAskedQuestions_1852
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:59.869Z

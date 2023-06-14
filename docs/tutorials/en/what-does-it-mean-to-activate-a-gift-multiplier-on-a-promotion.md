@@ -1,5 +1,5 @@
 ---
-title: What does it mean to activate a gift multiplier on a promotion?
+title: 'What does it mean to activate a gift multiplier on a promotion?'
 id: 1gydgkmjEWcoo2CskUwuYK
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:34.467Z
@@ -23,4 +23,4 @@ When configuring a **Buy one and Get one** promotion, it’s possible to **Activ
 For both scenarios it is necessary to fill out the maximum selectable quantity. With the **active** gift multiplier, choose the **maximum quantity** of gifts for the condition. For the **inactive** gift multiplier, the quantity is **always 1**.
 
 
-![ativar-multiplicador-brinde en](https://images.ctfassets.net/alneenqid6w5/42NpoBzyXCuagoceC0IAgQ/15fd07baa0eddbd1086831ec6e9440b7/gift_multi_en.png)
+![ativar-multiplicador-brinde en](//images.ctfassets.net/alneenqid6w5/42NpoBzyXCuagoceC0IAgQ/15fd07baa0eddbd1086831ec6e9440b7/gift_multi_en.png)

@@ -1,5 +1,5 @@
 ---
-title: "Affiliations with native split and seller change"
+title: 'Affiliations with native split and seller change'
 id: HZrgfF4RMTX9DHv4erOR6
 status: PUBLISHED
 createdAt: 2020-12-22T23:33:48.841Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: affiliations-with-native-split-and-seller-change
 legacySlug: affiliations-with-native-split-and-seller-change
-announcementImageID: ""
-announcementSynopsisEN: New capture behaviors allow seller change and make marketplaces flexible with native split affiliations.
+announcementImageID: ''
+announcementSynopsisEN: 'New capture behaviors allow seller change and make marketplaces flexible with native split affiliations.'
 ---
 
 Marketplaces may need to change sellers (who deliver the product) in a variety of situations, including for example, when the seller cancels a product in case of stockout. Changing the seller can in such cases guarantee that the marketplace makes the sale and prevents payment refund.

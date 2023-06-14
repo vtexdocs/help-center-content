@@ -1,5 +1,5 @@
 ---
-title: Acciones para la operación de marketplaces VTEX
+title: 'Acciones para la operación de marketplaces VTEX'
 id: 2SdIflvwywiOqCpczKCfev
 status: PUBLISHED
 createdAt: 2022-01-26T23:13:10.828Z

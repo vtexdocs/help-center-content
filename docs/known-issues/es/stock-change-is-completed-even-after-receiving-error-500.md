@@ -1,5 +1,5 @@
 ---
-title: El cambio de stock se completa incluso después de recibir el error 500
+title: 'El cambio de stock se completa incluso después de recibir el error 500'
 id: 3dlP8iOBiL2tfPRvjm2kUZ
 status: PUBLISHED
 createdAt: 2022-06-20T12:40:08.834Z

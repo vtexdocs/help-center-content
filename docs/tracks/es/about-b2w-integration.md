@@ -1,5 +1,5 @@
 ---
-title: Sobre la integración con B2W
+title: 'Sobre la integración con B2W'
 id: 5hHCiAMHih2lc5xb3A5Ohp
 status: PUBLISHED
 createdAt: 2022-02-02T20:54:55.426Z

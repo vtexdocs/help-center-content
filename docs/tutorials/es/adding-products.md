@@ -1,5 +1,5 @@
 ---
-title: Registrar productos
+title: 'Registrar productos'
 id: tutorials_2567
 status: PUBLISHED
 createdAt: 2017-04-27T21:53:51.611Z

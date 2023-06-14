@@ -237,7 +237,7 @@ function createMarkdownFile(entry) {
 
   if (contentType === "knownIssue") {
     fileContentEN = `---
-title: ${titleEN}
+title: '${titleEN}'
 id: ${entryId}
 status: ${status}
 createdAt: ${createdAt}
@@ -267,7 +267,7 @@ ${kiWorkaroundEN}
 
 `;
     fileContentES = `---
-title: ${titleES}
+title: '${titleES}'
 id: ${entryId}
 status: ${status}
 createdAt: ${createdAt}
@@ -297,7 +297,7 @@ ${kiWorkaroundES}
 
 `;
     fileContentPT = `---
-title: ${titlePT}
+title: '${titlePT}'
 id: ${entryId}
 status: ${status}
 createdAt: ${createdAt}
@@ -330,7 +330,7 @@ ${kiWorkaroundPT}
     contentTypes.knownIssues.push(entry);
   } else if (contentType === "tutorial") {
     fileContentEN = `---
-title: ${titleEN}
+title: '${titleEN}'
 id: ${entryId}
 status: ${status}
 createdAt: ${createdAt}
@@ -348,7 +348,7 @@ subcategory: ${subcategory}
 ${textEN}
 `;
     fileContentES = `---
-title: ${titleES}
+title: '${titleES}'
 id: ${entryId}
 status: ${status}
 createdAt: ${createdAt}
@@ -366,7 +366,7 @@ subcategory: ${subcategory}
 ${textES}
 `;
     fileContentPT = `---
-title: ${titlePT}
+title: '${titlePT}'
 id: ${entryId}
 status: ${status}
 createdAt: ${createdAt}
@@ -387,7 +387,7 @@ ${textPT}
     contentTypes.tutorials.push(entry);
   } else if (contentType === "trackArticle") {
     fileContentEN = `---
-title: ${titleEN}
+title: '${titleEN}'
 id: ${entryId}
 status: ${status}
 createdAt: ${createdAt}
@@ -404,7 +404,7 @@ trackSlugEN: ${trackSlugEN}
 ${textEN}
 `;
     fileContentES = `---
-title: ${titleES}
+title: '${titleES}'
 id: ${entryId}
 status: ${status}
 createdAt: ${createdAt}
@@ -421,7 +421,7 @@ trackSlugES: ${trackSlugES}
 ${textES}
 `;
     fileContentPT = `---
-title: ${titlePT}
+title: '${titlePT}'
 id: ${entryId}
 status: ${status}
 createdAt: ${createdAt}
@@ -441,7 +441,7 @@ ${textPT}
     contentTypes.trackArticles.push(entry);
   } else if (contentType === "frequentlyAskedQuestion") {
     fileContentEN = `---
-title: ${titleEN}
+title: '${titleEN}'
 id: ${entryId}
 status: ${status}
 createdAt: ${createdAt}
@@ -458,7 +458,7 @@ legacySlug: ${legacySlugEN}
 ${textEN}
 `;
     fileContentES = `---
-title: ${titleES}
+title: '${titleES}'
 id: ${entryId}
 status: ${status}
 createdAt: ${createdAt}
@@ -475,7 +475,7 @@ legacySlug: ${legacySlugES}
 ${textES}
 `;
     fileContentPT = `---
-title: ${titlePT}
+title: '${titlePT}'
 id: ${entryId}
 status: ${status}
 createdAt: ${createdAt}
@@ -495,7 +495,7 @@ ${textPT}
     contentTypes.faqs.push(entry);
   } else if (contentType === "updates") {
     fileContentEN = `---
-title: "${titleEN}"
+title: '${titleEN}'
 id: ${entryId}
 status: ${status}
 createdAt: ${createdAt}
@@ -506,14 +506,14 @@ productTeam: ${productTeam}
 author: ${author}
 slug: ${slugEN}
 legacySlug: ${legacySlugEN}
-announcementImageID: "${announcementImageID}"
-announcementSynopsisEN: ${announcementSynopsisEN}
+announcementImageID: '${announcementImageID}'
+announcementSynopsisEN: '${announcementSynopsisEN}'
 ---
 
 ${textEN}
 `;
     fileContentES = `---
-title: "${titleES}"
+title: '${titleES}'
 id: ${entryId}
 status: ${status}
 createdAt: ${createdAt}
@@ -524,14 +524,14 @@ productTeam: ${productTeam}
 author: ${author}
 slug: ${slugES}
 legacySlug: ${legacySlugES}
-announcementImageID: "${announcementImageID}"
-announcementSynopsisES: ${announcementSynopsisES}
+announcementImageID: '${announcementImageID}'
+announcementSynopsisES: '${announcementSynopsisES}'
 ---
 
 ${textES}
 `;
     fileContentPT = `---
-title: "${titlePT}"
+title: '${titlePT}'
 id: ${entryId}
 status: ${status}
 createdAt: ${createdAt}
@@ -542,8 +542,8 @@ productTeam: ${productTeam}
 author: ${author}
 slug: ${slugPT}
 legacySlug: ${legacySlugPT}
-announcementImageID: "${announcementImageID}"
-announcementSynopsisPT: ${announcementSynopsisPT}
+announcementImageID: '${announcementImageID}'
+announcementSynopsisPT: '${announcementSynopsisPT}'
 ---
 
 ${textPT}

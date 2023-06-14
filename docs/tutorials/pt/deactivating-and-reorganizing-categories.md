@@ -1,5 +1,5 @@
 ---
-title: Inativar e reorganizar categorias
+title: 'Inativar e reorganizar categorias'
 id: tutorials_264
 status: PUBLISHED
 createdAt: 2017-04-27T22:11:16.693Z

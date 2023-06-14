@@ -1,5 +1,5 @@
 ---
-title: For in cash payment (1 installment) is being processed by payment conditions that have not 1 installment option
+title: 'For in cash payment (1 installment) is being processed by payment conditions that have not 1 installment option'
 id: 4IFxkUqJ9jdqkJf7kSNUcy
 status: PUBLISHED
 createdAt: 2022-03-26T12:27:04.928Z

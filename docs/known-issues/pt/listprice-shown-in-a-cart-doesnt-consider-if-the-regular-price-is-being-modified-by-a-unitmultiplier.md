@@ -1,5 +1,5 @@
 ---
-title: ListPreço mostrado em um carrinho não considera se o preço regular está sendo modificado por uma unidadeMultiplicador
+title: 'ListPreço mostrado em um carrinho não considera se o preço regular está sendo modificado por uma unidadeMultiplicador'
 id: 13cdmEllp9RB30DSJ9Ttka
 status: PUBLISHED
 createdAt: 2022-05-13T16:53:11.761Z

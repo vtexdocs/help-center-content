@@ -1,5 +1,5 @@
 ---
-title: How to configure your firewall to enable IO access
+title: 'How to configure your firewall to enable IO access'
 id: 4c61e1CJI4KXIHH2HLOYUQ
 status: DRAFT
 createdAt: 2019-01-23T18:41:51.815Z

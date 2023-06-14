@@ -1,5 +1,5 @@
 ---
-title: A integração MercadoPagoV1 não funciona com a funcionalidade salvar cartão
+title: 'A integração MercadoPagoV1 não funciona com a funcionalidade salvar cartão'
 id: 2V8kdA60OTl7VQoUUNgBci
 status: PUBLISHED
 createdAt: 2022-05-03T15:45:09.856Z

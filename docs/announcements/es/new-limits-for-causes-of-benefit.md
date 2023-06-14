@@ -1,5 +1,5 @@
 ---
-title: "Nuevos límites para causas de promoción"
+title: 'Nuevos límites para causas de promoción'
 id: 1S73aHaXp6YK2m2EkkuqQA
 status: PUBLISHED
 createdAt: 2017-11-13T20:22:27.022Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: authors_24
 slug: nuevos-limites-para-causas-de-promocion
 legacySlug: nuevos-limites-para-causas-de-promocion
-announcementImageID: ""
-announcementSynopsisES: Vea abajo los nuevos límites para cada causa de promoción
+announcementImageID: ''
+announcementSynopsisES: 'Vea abajo los nuevos límites para cada causa de promoción'
 ---
 
 VTEX cambió los límites de las **causas de promoción**.

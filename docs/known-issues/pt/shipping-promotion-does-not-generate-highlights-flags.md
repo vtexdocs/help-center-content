@@ -1,5 +1,5 @@
 ---
-title: A promoção de embarque não gera destaques / bandeiras
+title: 'A promoção de embarque não gera destaques / bandeiras'
 id: wwCzhTue5cSNhKFLFX9lP
 status: PUBLISHED
 createdAt: 2022-04-25T14:00:46.027Z

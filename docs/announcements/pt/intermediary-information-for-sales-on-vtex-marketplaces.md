@@ -1,5 +1,5 @@
 ---
-title: "Dados de intermediador para vendas em marketplaces VTEX"
+title: 'Dados de intermediador para vendas em marketplaces VTEX'
 id: 1gNXqhQbudnvOkx7uHfoPB
 status: PUBLISHED
 createdAt: 2021-06-10T18:39:24.021Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: dados-de-intermediador-para-vendas-em-marketplaces-vtex
 legacySlug: dados-de-intermediador-para-vendas-em-marketplaces-vtex
-announcementImageID: ""
-announcementSynopsisPT: Estão sendo disponibilizados dados de intermediador para vendas feitas em marketplaces VTEX.
+announcementImageID: ''
+announcementSynopsisPT: 'Estão sendo disponibilizados dados de intermediador para vendas feitas em marketplaces VTEX.'
 ---
 
 Sellers que vendem seus produtos em marketplaces VTEX agora têm acesso aos dados de identificação do intermediador e método de pagamento para vendas feitas nestes marketplaces. Clientes VTEX que operam como marketplaces também passarão a enviar essas informações a seus sellers (VTEX e não VTEX).

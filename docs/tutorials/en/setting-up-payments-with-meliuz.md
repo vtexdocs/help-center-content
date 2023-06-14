@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Méliuz
+title: 'Setting up payments with Méliuz'
 id: 6ajsvgOtRWnKhmgZjnOmZN
 status: PUBLISHED
 createdAt: 2022-07-19T12:45:45.247Z

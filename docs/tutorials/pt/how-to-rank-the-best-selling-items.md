@@ -1,5 +1,5 @@
 ---
-title: Como vejo um ranking dos produtos mais vendidos?
+title: 'Como vejo um ranking dos produtos mais vendidos?'
 id: 64LG0uAOysee0YceiSiO66
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:40.694Z

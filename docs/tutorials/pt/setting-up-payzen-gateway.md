@@ -1,5 +1,5 @@
 ---
-title: Configurar o gateway PayZen
+title: 'Configurar o gateway PayZen'
 id: 3v3n5eQvxem8MQOCkugk24
 status: PUBLISHED
 createdAt: 2018-03-13T19:39:04.093Z

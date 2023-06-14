@@ -1,5 +1,5 @@
 ---
-title: Catálogo Filtro para Vendedor = 1 trae Resultados vacíos
+title: 'Catálogo Filtro para Vendedor = 1 trae Resultados vacíos'
 id: 3BG6c5IPa7W950vCpTFY6H
 status: PUBLISHED
 createdAt: 2023-05-03T14:37:41.635Z

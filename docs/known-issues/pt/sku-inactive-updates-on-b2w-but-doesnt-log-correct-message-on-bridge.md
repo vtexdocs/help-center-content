@@ -1,5 +1,5 @@
 ---
-title: Sku inativo, atualizações na B2W mas não registra a mensagem correta no Bridge
+title: 'Sku inativo, atualizações na B2W mas não registra a mensagem correta no Bridge'
 id: 6d2vJzRspfk1xzPAqUKoua
 status: PUBLISHED
 createdAt: 2022-06-23T14:29:39.598Z

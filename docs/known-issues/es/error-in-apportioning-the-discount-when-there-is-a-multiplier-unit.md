@@ -1,5 +1,5 @@
 ---
-title: Error en el rateo del descuento cuando hay unidad multiplicadora
+title: 'Error en el rateo del descuento cuando hay unidad multiplicadora'
 id: 1AbljaKsBmoKwGQOMAKo2C
 status: PUBLISHED
 createdAt: 2018-03-20T19:21:20.708Z

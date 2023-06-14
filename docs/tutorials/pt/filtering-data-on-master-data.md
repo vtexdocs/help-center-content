@@ -1,5 +1,5 @@
 ---
-title: Filtrar dados no Master Data
+title: 'Filtrar dados no Master Data'
 id: tutorials_778
 status: PUBLISHED
 createdAt: 2017-04-27T21:58:11.041Z

@@ -1,5 +1,5 @@
 ---
-title: Suscripciones Los pedidos no pueden crearse una vez que la SKU se ha vinculado a un regalo no disponible
+title: 'Suscripciones Los pedidos no pueden crearse una vez que la SKU se ha vinculado a un regalo no disponible'
 id: 1hY76gsKwR07AohWMsmUXu
 status: PUBLISHED
 createdAt: 2022-03-07T14:33:11.578Z

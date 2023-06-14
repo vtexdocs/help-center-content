@@ -1,5 +1,5 @@
 ---
-title: Recursos do License Manager - CDN Service
+title: 'Recursos do License Manager - CDN Service'
 id: 4EEWuYKVowMhMwumSibMgV
 status: DRAFT
 createdAt: 2022-03-08T15:02:11.688Z

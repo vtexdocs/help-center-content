@@ -1,5 +1,5 @@
 ---
-title: Agencies (VTEX Tracking)
+title: 'Agencies (VTEX Tracking)'
 id: 2PMohRiNdNpHPA2g2HyYH7
 status: PUBLISHED
 createdAt: 2020-08-06T19:08:35.899Z

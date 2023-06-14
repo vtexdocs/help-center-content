@@ -1,5 +1,5 @@
 ---
-title: Personalizando el layout del inStore
+title: 'Personalizando el layout del inStore'
 id: 7Hsd9UGwZeqPeAGs2k80BH
 status: DRAFT
 createdAt: 2020-06-28T19:17:52.655Z

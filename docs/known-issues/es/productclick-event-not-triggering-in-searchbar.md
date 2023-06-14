@@ -1,5 +1,5 @@
 ---
-title: El evento ProductClick no se activa en la barra de búsqueda
+title: 'El evento ProductClick no se activa en la barra de búsqueda'
 id: Nk7Dkd4YoY5LXbxpWJIKz
 status: PUBLISHED
 createdAt: 2023-01-30T17:43:44.441Z

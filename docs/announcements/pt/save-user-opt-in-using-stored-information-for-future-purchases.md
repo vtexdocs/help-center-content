@@ -1,5 +1,5 @@
 ---
-title: "Save user data opt-in no Checkout: utilizando informações pessoais e de pagamento salvas em futuras compras"
+title: 'Save user data opt-in no Checkout: utilizando informações pessoais e de pagamento salvas em futuras compras'
 id: ZZQyqkBLort425Mer2E7N
 status: PUBLISHED
 createdAt: 2022-06-21T11:47:21.760Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: save-user-opt-in-utilizando-informacoes-salvas-em-futuras-compras
 legacySlug: save-user-opt-in-utilizando-informacoes-salvas-em-futuras-compras
-announcementImageID: ""
-announcementSynopsisPT: Permita que seus clientes escolham se os seus dados devem ser salvos para utilização em futuras compras.
+announcementImageID: ''
+announcementSynopsisPT: 'Permita que seus clientes escolham se os seus dados devem ser salvos para utilização em futuras compras.'
 ---
 
 Em atendimento a regulamentações que promovem a preservação e proteção de dados dos consumidores, tais como GDPR (General Data Protection Regulation da Europa) e LGPD (Lei Geral de Proteção de Dados) no Brasil, a VTEX desenvolveu a funcionalidade **Save user data opt-in**. Por meio desta solução, o lojista permite que o cliente tome a decisão de manter os seus dados salvos ou não na loja onde está efetuando uma compra.
@@ -22,7 +22,7 @@ Anteriormente, após o cadastro na loja ou primeira compra, os dados do cliente 
 
 A partir de agora, duas caixas de seleção estarão disponíveis na tela do Checkout, permitindo que o usuário indique se deseja que suas informações pessoais e de pagamento sejam armazenadas e reutilizadas para futuras compras. Dessa maneira, será  reduzido o tempo de compra realizado pelo cliente. 
 
-![ Save user data opt-in PT](https://images.ctfassets.net/alneenqid6w5/6NGmOzVPMDNlcptCwaqTsM/5324e710aa8787fc411b63e1f67609e2/Save_user_data_-_PT.PNG)
+![ Save user data opt-in PT](//images.ctfassets.net/alneenqid6w5/6NGmOzVPMDNlcptCwaqTsM/5324e710aa8787fc411b63e1f67609e2/Save_user_data_-_PT.PNG)
 
 Saiba mais em [SmartCheckout - Preenchimento automático de dados do cliente](https://help.vtex.com/pt/tutorial/smartcheckout-customer-information-automatic-fill-in--2Nuu3xAFzdhIzJIldAdtan#).
 

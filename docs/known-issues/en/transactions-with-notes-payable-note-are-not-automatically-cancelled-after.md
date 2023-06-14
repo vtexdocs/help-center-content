@@ -1,5 +1,5 @@
 ---
-title: Transactions with notes payable note are not automatically cancelled after the payment expires
+title: 'Transactions with notes payable note are not automatically cancelled after the payment expires'
 id: 5isjT9txiBYSQzZK00xjg3
 status: PUBLISHED
 createdAt: 2021-09-30T15:45:44.398Z

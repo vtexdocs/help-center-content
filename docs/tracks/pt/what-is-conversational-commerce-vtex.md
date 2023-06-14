@@ -1,5 +1,5 @@
 ---
-title: O que é Conversational Commerce VTEX?
+title: 'O que é Conversational Commerce VTEX?'
 id: 1NwwADrU70v3roPUV7dWxI
 status: PUBLISHED
 createdAt: 2022-08-23T14:47:50.242Z
@@ -19,7 +19,7 @@ Com ele, é possível realizar compras utilizando uma lista de compras, ideal pa
 
 Para utilização do suporte humano, o Message-to-Order já está pré integrado com as plataformas de mercado Zenvia (produto Zenvia Chat) e Zendesk. Para clientes que não tenham essas plataformas ou não desejem atendimento humano, também é possível redirecionar o cliente aos canais de atendimento padrões da marca através de mensagem personalizada. 
 
-![chatbot-PT](https://images.ctfassets.net/alneenqid6w5/5w2PKYYmrGDYuiP0t4jQXU/2e05dae6dd79cd1352cade3533624f68/Captura_de_Tela_2022-07-28_a__s_11.13.08.png)
+![chatbot-PT](//images.ctfassets.net/alneenqid6w5/5w2PKYYmrGDYuiP0t4jQXU/2e05dae6dd79cd1352cade3533624f68/Captura_de_Tela_2022-07-28_a__s_11.13.08.png)
 
 <div class="alert alert-info">
 O Message-to-Order é um produto em fase de início de operação com escopo reduzido (Alpha). Portanto o perfil de cliente e mercados que abrange ainda é limitado a BR e LATAM e às capacidades disponibilizadas pelo cliente nesse estágio.

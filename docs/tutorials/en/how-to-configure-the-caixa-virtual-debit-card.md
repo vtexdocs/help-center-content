@@ -1,5 +1,5 @@
 ---
-title: How to configure the Caixa Virtual Debit Card
+title: 'How to configure the Caixa Virtual Debit Card'
 id: h5yEWP6FOJpKyXde2MjgF
 status: PUBLISHED
 createdAt: 2020-04-24T13:33:30.397Z

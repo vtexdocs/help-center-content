@@ -1,5 +1,5 @@
 ---
-title: "Security improvements to Checkout cookies"
+title: 'Security improvements to Checkout cookies'
 id: 4MThm4Y5sxYLaW3PfrHdJd
 status: PUBLISHED
 createdAt: 2022-09-19T19:22:37.019Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: security-improvements-to-checkout-cookies
 legacySlug: security-improvements-to-checkout-cookies
-announcementImageID: ""
-announcementSynopsisEN: Update to Checkout cookies allows increased security in your store
+announcementImageID: ''
+announcementSynopsisEN: 'Update to Checkout cookies allows increased security in your store'
 ---
 
 To improve data security in your store, VTEX has updated Checkout cookies. After February 13, 2023, cookie security for `checkout.vtex.com` and `CheckoutDataAccess` will be extended through the implementation of the _Secure_, _HttpOnly_, and _SameSite_ attributes.

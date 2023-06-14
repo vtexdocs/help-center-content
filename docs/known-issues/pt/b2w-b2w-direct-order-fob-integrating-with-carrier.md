@@ -1,5 +1,5 @@
 ---
-title: [Ordem "B2W direta" (FOB) integrando-se com a transportadora
+title: '[Ordem "B2W direta" (FOB) integrando-se com a transportadora'
 id: 20nA7vm1RFMhv7yhaJ43GG
 status: PUBLISHED
 createdAt: 2022-12-12T18:14:19.975Z

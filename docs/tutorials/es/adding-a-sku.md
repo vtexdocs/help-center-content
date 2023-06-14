@@ -1,5 +1,5 @@
 ---
-title: Registrar SKUs
+title: 'Registrar SKUs'
 id: tutorials_234
 status: DRAFT
 createdAt: 2017-04-27T22:13:19.829Z

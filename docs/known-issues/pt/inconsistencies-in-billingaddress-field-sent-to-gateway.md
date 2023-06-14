@@ -1,5 +1,5 @@
 ---
-title: Inconsistências no faturamentoCampo de endereço enviado ao Gateway
+title: 'Inconsistências no faturamentoCampo de endereço enviado ao Gateway'
 id: 2SNynMgq0w0t7WBoXGoZwR
 status: PUBLISHED
 createdAt: 2022-01-21T18:13:45.045Z

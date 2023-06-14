@@ -1,5 +1,5 @@
 ---
-title: Mapping Mercado Libre categories, variations and attributes
+title: 'Mapping Mercado Libre categories, variations and attributes'
 id: 4xNFUZZmboCSUVdLCFo6eA
 status: DRAFT
 createdAt: 2021-09-01T20:12:18.080Z

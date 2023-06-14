@@ -1,5 +1,5 @@
 ---
-title: Tabelas de Preço - Definição de Conceito
+title: 'Tabelas de Preço - Definição de Conceito'
 id: 1wAm5m3IUfIj6maBdaRJt8
 status: PUBLISHED
 createdAt: 2019-07-04T13:52:10.820Z

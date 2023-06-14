@@ -1,5 +1,5 @@
 ---
-title: Writing an effective ticket to VTEX support
+title: 'Writing an effective ticket to VTEX support'
 id: 6u4ehk6F0ksuDgYuCbFDRX
 status: PUBLISHED
 createdAt: 2023-03-23T22:00:24.560Z

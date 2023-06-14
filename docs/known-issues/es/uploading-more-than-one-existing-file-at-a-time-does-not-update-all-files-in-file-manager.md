@@ -1,5 +1,5 @@
 ---
-title: Al subir más de un archivo existente a la vez, no se actualizan todos los archivos en el File Manager
+title: 'Al subir más de un archivo existente a la vez, no se actualizan todos los archivos en el File Manager'
 id: 3uuWWVR3g8hFuXnPQ2Yaa8
 status: PUBLISHED
 createdAt: 2021-09-27T20:50:23.329Z

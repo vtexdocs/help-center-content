@@ -1,5 +1,5 @@
 ---
-title: Crear cuentas franquicia
+title: 'Crear cuentas franquicia'
 id: eujH0id9Y4WJjjmdazUKd
 status: PUBLISHED
 createdAt: 2022-04-04T15:07:29.526Z

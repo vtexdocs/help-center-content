@@ -1,5 +1,5 @@
 ---
-title: Mapping categories, variations and attributes in Netshoes
+title: 'Mapping categories, variations and attributes in Netshoes'
 id: 1UpQGBTJQw4wimCeYSe8yc
 status: PUBLISHED
 createdAt: 2018-09-24T20:43:34.825Z

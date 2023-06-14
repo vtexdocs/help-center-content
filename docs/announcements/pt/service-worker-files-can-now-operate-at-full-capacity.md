@@ -1,5 +1,5 @@
 ---
-title: "Service Worker já pode ser usado em todo seu potencial"
+title: 'Service Worker já pode ser usado em todo seu potencial'
 id: 5RuFcktluMeYWYWKww4au2
 status: PUBLISHED
 createdAt: 2018-03-15T18:22:49.955Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: authors_24
 slug: service-worker-ja-pode-ser-usado-em-todo-seu-potencial
 legacySlug: service-worker-ja-pode-ser-usado-em-todo-seu-potencial
-announcementImageID: ""
-announcementSynopsisPT: Em nova atualização da plataforma, arquivos Service Worker agora podem interceptar requests de toda a sua loja.
+announcementImageID: ''
+announcementSynopsisPT: 'Em nova atualização da plataforma, arquivos Service Worker agora podem interceptar requests de toda a sua loja.'
 ---
 
 O __Service Worker__ agora pode interceptar todos os requests da sua loja VTEX. Se antes esse script possuía uma atuação limitada na plataforma, agora incluímos o header `Service-Worker-Allowed` usando o valor `/` para aplicar todo seu potencial. Isso significa que seu website passa a ter as condições necessárias para contar com recursos como sincronização periódica, notificações push e até execução em modo off-line.

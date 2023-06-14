@@ -1,5 +1,5 @@
 ---
-title: Filtrar transações na seção de Pedidos
+title: 'Filtrar transações na seção de Pedidos'
 id: 6LUq65FqUgIKkKEeWa4IwC
 status: PUBLISHED
 createdAt: 2019-01-24T21:38:42.313Z

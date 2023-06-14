@@ -1,5 +1,5 @@
 ---
-title: "A partir de ahora, usted podrá exportar hasta 3.000 pedidos"
+title: 'A partir de ahora, usted podrá exportar hasta 3.000 pedidos'
 id: vo2h9LyDReC6iSkSOKucG
 status: PUBLISHED
 createdAt: 2018-10-24T21:41:38.655Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: a-partir-de-ahora-usted-podra-exportar-hasta-3-000-pedidos
 legacySlug: a-partir-de-ahora-usted-podra-exportar-hasta-3-000-pedidos
-announcementImageID: ""
-announcementSynopsisES: Este límite pretende garantizar el rendimiento de la plataforma sin perder la consistencia de los informes generados.
+announcementImageID: ''
+announcementSynopsisES: 'Este límite pretende garantizar el rendimiento de la plataforma sin perder la consistencia de los informes generados.'
 ---
 
 A partir de __24 de octubre__, el módulo de gestión de pedidos permitirá la exportación de un máximo de __3.000 pedidos__. Este cambio es fundamental para garantizar el rendimiento de la plataforma sin perder la consistencia de los informes generados.

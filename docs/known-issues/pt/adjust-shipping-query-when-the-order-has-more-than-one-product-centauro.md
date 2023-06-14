@@ -1,5 +1,5 @@
 ---
-title: Ajuste a consulta de envio quando o pedido tem mais de um produto - Centauro
+title: 'Ajuste a consulta de envio quando o pedido tem mais de um produto - Centauro'
 id: 5VsGJar6FBHbGi4OZpxvbk
 status: PUBLISHED
 createdAt: 2022-06-15T19:08:37.828Z

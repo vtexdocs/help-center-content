@@ -1,5 +1,5 @@
 ---
-title: Divergencia en el peso del kit tras los cálculos con decimales en el peso
+title: 'Divergencia en el peso del kit tras los cálculos con decimales en el peso'
 id: 4wWyTmTAd2h2oxw5HtGn6V
 status: PUBLISHED
 createdAt: 2022-09-13T19:31:43.534Z

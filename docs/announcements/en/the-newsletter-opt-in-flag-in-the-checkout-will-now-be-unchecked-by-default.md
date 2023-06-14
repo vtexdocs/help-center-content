@@ -1,5 +1,5 @@
 ---
-title: "The newsletter opt-in flag in the Checkout will now be unchecked by default"
+title: 'The newsletter opt-in flag in the Checkout will now be unchecked by default'
 id: 5MUJ8mDdxjWZqfqAw2dMg8
 status: PUBLISHED
 createdAt: 2020-04-15T14:00:58.118Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: authors_24
 slug: the-newsletter-opt-in-flag-in-the-checkout-will-now-be-unchecked-by-default
 legacySlug: the-newsletter-opt-in-flag-in-the-checkout-will-now-be-unchecked-by-default
-announcementImageID: ""
-announcementSynopsisEN: The newsletter opt-in flag in the Checkout will now be unchecked by default. If you customize this flag, check this out.
+announcementImageID: ''
+announcementSynopsisEN: 'The newsletter opt-in flag in the Checkout will now be unchecked by default. If you customize this flag, check this out.'
 ---
 
 As of __27 April 2020__, the VTEX Checkout UI will receive an important change: the opt-in flag that tells the user they will receive the store's newsletter, which is currently checked by default, will be __unchecked by default__.

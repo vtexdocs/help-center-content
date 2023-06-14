@@ -1,5 +1,5 @@
 ---
-title: Inventory update history
+title: 'Inventory update history'
 id: 5AM7xbmMzmKSEQewakamc2
 status: PUBLISHED
 createdAt: 2017-08-01T15:03:08.876Z

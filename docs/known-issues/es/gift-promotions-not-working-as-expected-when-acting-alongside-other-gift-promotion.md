@@ -1,5 +1,5 @@
 ---
-title: Las promociones de regalo no funcionan como se esperaba cuando actúan junto a otra promoción de regalo
+title: 'Las promociones de regalo no funcionan como se esperaba cuando actúan junto a otra promoción de regalo'
 id: 7p037qcaXYMYKC3kJPztc3
 status: PUBLISHED
 createdAt: 2023-01-09T21:08:49.800Z

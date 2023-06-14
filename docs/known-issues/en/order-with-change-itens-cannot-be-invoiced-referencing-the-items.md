@@ -1,5 +1,5 @@
 ---
-title: Order with change itens cannot be invoiced referencing the items
+title: 'Order with change itens cannot be invoiced referencing the items'
 id: 1g1t65544sXbvfY62dAS1n
 status: PUBLISHED
 createdAt: 2023-04-04T15:06:49.163Z

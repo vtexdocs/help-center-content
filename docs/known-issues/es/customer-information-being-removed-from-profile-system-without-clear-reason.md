@@ -1,5 +1,5 @@
 ---
-title: La información del cliente se elimina del sistema de perfiles sin una razón clara
+title: 'La información del cliente se elimina del sistema de perfiles sin una razón clara'
 id: 3xnhH9VXa5Gj0oag44cG1I
 status: PUBLISHED
 createdAt: 2022-06-25T10:53:51.548Z

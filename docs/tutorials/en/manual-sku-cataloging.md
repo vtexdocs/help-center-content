@@ -1,5 +1,5 @@
 ---
-title: Cataloging received SKUs
+title: 'Cataloging received SKUs'
 id: tutorials_396
 status: PUBLISHED
 createdAt: 2017-04-27T22:06:59.819Z

@@ -1,5 +1,5 @@
 ---
-title: License Manager resources - Rates and Benefits
+title: 'License Manager resources - Rates and Benefits'
 id: 6rCpR0SJrPqqB0r6eD3IKx
 status: DRAFT
 createdAt: 2022-02-16T20:47:48.735Z

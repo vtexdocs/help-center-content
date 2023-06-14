@@ -1,5 +1,5 @@
 ---
-title: Botón de añadir marca en la búsqueda del registro de productos no funciona
+title: 'Botón de añadir marca en la búsqueda del registro de productos no funciona'
 id: 6M7DbhKp3OIsYUUGG2uaYU
 status: PUBLISHED
 createdAt: 2018-03-23T19:29:09.783Z

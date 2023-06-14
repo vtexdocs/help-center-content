@@ -1,5 +1,5 @@
 ---
-title: "WordPress: a powerful marketing tool for your store"
+title: 'WordPress: a powerful marketing tool for your store'
 id: 01uDrNIgvAvHQK2H4wZ6uU
 status: PUBLISHED
 createdAt: 2021-03-15T12:39:28.150Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: wordpress-a-powerful-marketing-tool-for-your-store
 legacySlug: wordpress-a-powerful-marketing-tool-for-your-store
-announcementImageID: ""
-announcementSynopsisEN: Stores developed with VTEX IO can now display brand pages and blog posts within the store.
+announcementImageID: ''
+announcementSynopsisEN: 'Stores developed with VTEX IO can now display brand pages and blog posts within the store.'
 ---
 
 Content marketing has been heavily used as a marketing tool. WordPress is an open source software with which you can freely create a website or blog containing pages and posts (categorized or not) about your brand and products.

@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com MIT-MX
+title: 'Configurar pagamento com MIT-MX'
 id: 5UKZ32LxJBGUUoT7Yt0SUJ
 status: DRAFT
 createdAt: 2022-03-29T19:22:16.508Z

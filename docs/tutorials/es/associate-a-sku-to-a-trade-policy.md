@@ -1,5 +1,5 @@
 ---
-title: Asociación de SKU a una política comercial
+title: 'Asociación de SKU a una política comercial'
 id: 1qFAiybogHCStRO65sy4vb
 status: CHANGED
 createdAt: 2021-03-30T17:18:09.088Z

@@ -1,5 +1,5 @@
 ---
-title: Tempo limite das coleções herdadas do CMS
+title: 'Tempo limite das coleções herdadas do CMS'
 id: 3TgWP83kn8G8NClnUHmaoS
 status: PUBLISHED
 createdAt: 2022-02-25T12:33:00.051Z

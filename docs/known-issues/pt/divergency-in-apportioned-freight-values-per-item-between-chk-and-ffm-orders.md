@@ -1,5 +1,5 @@
 ---
-title: Divergência nos valores de frete rateados por item entre os pedidos CHK e FFM
+title: 'Divergência nos valores de frete rateados por item entre os pedidos CHK e FFM'
 id: 6v4Fero4fkOw3omZOl21Xf
 status: PUBLISHED
 createdAt: 2022-01-24T20:24:18.002Z

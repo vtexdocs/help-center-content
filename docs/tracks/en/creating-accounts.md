@@ -1,5 +1,5 @@
 ---
-title: Creating Customer Credit accounts
+title: 'Creating Customer Credit accounts'
 id: 7FHLd0cmxqqGeEUuc8uioU
 status: PUBLISHED
 createdAt: 2018-11-06T20:24:28.924Z

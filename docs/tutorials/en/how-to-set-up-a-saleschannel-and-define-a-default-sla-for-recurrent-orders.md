@@ -1,5 +1,5 @@
 ---
-title: How to set up a SalesChannel and define a default SLA for recurrent orders
+title: 'How to set up a SalesChannel and define a default SLA for recurrent orders'
 id: 4AyJBkwoMEgCkKIAMomekK
 status: DRAFT
 createdAt: 2017-05-03T16:54:56.590Z
@@ -29,7 +29,7 @@ Just include an attribute with the name `salesChannel`, as illustrated in the se
 
 Thereafter, the next orders will be created using the sales channel that was set up. In the event there is no stock for a given item in this channel, the item will be excluded from the order.   
 
-![posicao.en](https://images.ctfassets.net/alneenqid6w5/8TLvzlzTkt2yUtr5Lmj5z/507d00037f92756ddc01008590350a7b/posicao.en.png)
+![posicao.en](//images.ctfassets.net/alneenqid6w5/8TLvzlzTkt2yUtr5Lmj5z/507d00037f92756ddc01008590350a7b/posicao.en.png)
 
 *The screen showing the salesChannel ID*
 
@@ -39,5 +39,5 @@ Just include an attribute with the name `defaultSLA`, as illustrated in the setu
 
 Thereafter, the SLA set up will take preference over the cheaper SLA for the next orders created – whereby, if it has a delivery window, the first interval available will be selected.
 
-![transportadora.en](https://images.ctfassets.net/alneenqid6w5/5qOOw2KsCHgxP5XmbjmEMd/7b6d0aa40ae6f9e28c269ac42f5313d5/transportadora.en.png)
+![transportadora.en](//images.ctfassets.net/alneenqid6w5/5qOOw2KsCHgxP5XmbjmEMd/7b6d0aa40ae6f9e28c269ac42f5313d5/transportadora.en.png)
 *The screen showing the ID of the SLA*

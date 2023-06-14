@@ -1,5 +1,5 @@
 ---
-title: El parámetro isAvailablePerSalesChannel no funciona como se espera en la API de búsqueda
+title: 'El parámetro isAvailablePerSalesChannel no funciona como se espera en la API de búsqueda'
 id: 6vexCZQTib8fFI6sCSTdWL
 status: PUBLISHED
 createdAt: 2022-09-12T16:03:25.215Z

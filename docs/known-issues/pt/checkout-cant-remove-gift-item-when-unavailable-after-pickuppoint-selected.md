@@ -1,5 +1,5 @@
 ---
-title: O checkout não pode remover o item de presente quando não estiver disponível após o ponto de retirada selecionado
+title: 'O checkout não pode remover o item de presente quando não estiver disponível após o ponto de retirada selecionado'
 id: 4D6KBdrK4WU1XE81SVBPzc
 status: PUBLISHED
 createdAt: 2023-01-30T16:37:22.633Z

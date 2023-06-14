@@ -1,5 +1,5 @@
 ---
-title: Es posible realizar cambios en un workspace master?
+title: 'Es posible realizar cambios en un workspace master?'
 id: 4T7uB5tv9m8ciAEcK8WCEg
 status: DRAFT
 createdAt: 2017-11-21T19:36:56.054Z

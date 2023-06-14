@@ -1,5 +1,5 @@
 ---
-title: Cuidados ao definir a numeração de pedido
+title: 'Cuidados ao definir a numeração de pedido'
 id: VAKKptfcaOxFxM8gfPobu
 status: PUBLISHED
 createdAt: 2019-10-23T16:53:33.949Z

@@ -1,5 +1,5 @@
 ---
-title: Opções de montagem sendo ignoradas quando selecionadas no PDP e adicionadas ao carrinho
+title: 'Opções de montagem sendo ignoradas quando selecionadas no PDP e adicionadas ao carrinho'
 id: 2u0qbC98EK6vPskprYOsnd
 status: PUBLISHED
 createdAt: 2023-01-31T16:00:13.354Z

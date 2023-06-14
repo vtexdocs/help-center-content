@@ -1,5 +1,5 @@
 ---
-title: Recursos del License Manager - Pricing
+title: 'Recursos del License Manager - Pricing'
 id: 64AMM6h6daoyEruXP5U0mm
 status: DRAFT
 createdAt: 2022-02-16T20:37:15.894Z

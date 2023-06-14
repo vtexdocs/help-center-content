@@ -1,5 +1,5 @@
 ---
-title:  O crédito ao cliente não mostra as parcelas corretamente
+title: ' O crédito ao cliente não mostra as parcelas corretamente'
 id: 5qhiwp1EhfJepX6ZFqDsiG
 status: PUBLISHED
 createdAt: 2022-03-28T02:52:15.222Z

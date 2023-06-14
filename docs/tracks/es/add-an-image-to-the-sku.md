@@ -1,5 +1,5 @@
 ---
-title: Agregue una foto al SKU
+title: 'Agregue una foto al SKU'
 id: 5mZ869hbA4q6m002EwmsCw
 status: DRAFT
 createdAt: 2018-05-02T20:53:00.203Z

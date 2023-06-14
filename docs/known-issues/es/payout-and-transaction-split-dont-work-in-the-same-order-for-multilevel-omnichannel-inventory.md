@@ -1,5 +1,5 @@
 ---
-title: El pago y la división de transacciones no funcionan en el mismo orden para el inventario omnicanal multinivel.
+title: 'El pago y la división de transacciones no funcionan en el mismo orden para el inventario omnicanal multinivel.'
 id: 3rFyqzEnSwx2czwdlgDovU
 status: PUBLISHED
 createdAt: 2023-03-23T19:03:22.498Z

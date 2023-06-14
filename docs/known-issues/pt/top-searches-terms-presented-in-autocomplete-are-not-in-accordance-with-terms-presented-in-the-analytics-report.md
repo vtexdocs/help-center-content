@@ -1,5 +1,5 @@
 ---
-title: Os termos de buscas superiores apresentados no autocompletar não estão de acordo com os termos apresentados no relatório da Analytics
+title: 'Os termos de buscas superiores apresentados no autocompletar não estão de acordo com os termos apresentados no relatório da Analytics'
 id: 6nVNhs1r0jD7ozJmW37PjU
 status: PUBLISHED
 createdAt: 2023-01-27T19:33:51.552Z

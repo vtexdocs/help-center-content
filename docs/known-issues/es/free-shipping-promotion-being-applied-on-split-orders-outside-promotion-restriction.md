@@ -1,5 +1,5 @@
 ---
-title: La promoción de envío gratuito se está aplicando en pedidos divididos fuera de la restricción de la promoción
+title: 'La promoción de envío gratuito se está aplicando en pedidos divididos fuera de la restricción de la promoción'
 id: APAIGZx8tdtIjGsQJmvgu
 status: PUBLISHED
 createdAt: 2023-01-12T16:19:47.878Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar o adquirente Rede
+title: 'Configurar o adquirente Rede'
 id: 4FEVcvYWC4uS4yoYS2WAIw
 status: DRAFT
 createdAt: 2018-02-22T20:21:54.730Z

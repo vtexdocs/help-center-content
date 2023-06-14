@@ -1,5 +1,5 @@
 ---
-title: List of gateway affiliations and anti-fraud solutions per country
+title: 'List of gateway affiliations and anti-fraud solutions per country'
 id: 6K29SohDiEz6WDmZj6iiFI
 status: DRAFT
 createdAt: 2021-03-15T14:42:39.353Z

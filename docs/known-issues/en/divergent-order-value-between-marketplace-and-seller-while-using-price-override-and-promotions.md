@@ -1,5 +1,5 @@
 ---
-title: Divergent order value between marketplace and seller while using price override and promotions
+title: 'Divergent order value between marketplace and seller while using price override and promotions'
 id: 4OsDOEqVDpDTen3BFyHSYf
 status: PUBLISHED
 createdAt: 2023-02-17T18:37:04.409Z

@@ -1,5 +1,5 @@
 ---
-title: "Torne-se um expert em VTEX com o Training Day"
+title: 'Torne-se um expert em VTEX com o Training Day'
 id: 1tCMnvBGswKcoAOwkAeKY6
 status: PUBLISHED
 createdAt: 2018-10-01T15:40:06.188Z
@@ -10,11 +10,11 @@ productTeam: Others
 author: authors_24
 slug: torne-se-um-expert-em-vtex-com-o-training-day
 legacySlug: torne-se-um-expert-em-vtex-com-o-training-day
-announcementImageID: ""
-announcementSynopsisPT: Participe de um dia de treinamento intensivo em VTEX com os maiores especialistas no assunto.
+announcementImageID: ''
+announcementSynopsisPT: 'Participe de um dia de treinamento intensivo em VTEX com os maiores especialistas no assunto.'
 ---
 
-![cover fb 01](https://images.ctfassets.net/alneenqid6w5/fj8PzFYRP2yaeAaIiKCW2/e06c967d7129640c493c545ecfc48db8/cover_fb_01.png)
+![cover fb 01](//images.ctfassets.net/alneenqid6w5/fj8PzFYRP2yaeAaIiKCW2/e06c967d7129640c493c545ecfc48db8/cover_fb_01.png)
 
 <div class="alert alert-info">
 Um dia inteiro de treinamento em VTEX com os maiores especialistas no assunto.

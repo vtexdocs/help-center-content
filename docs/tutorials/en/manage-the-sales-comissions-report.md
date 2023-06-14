@@ -1,5 +1,5 @@
 ---
-title: Manage the sales comissions report
+title: 'Manage the sales comissions report'
 id: 6NgHeDt8Xo9JtMoifx7DC5
 status: DRAFT
 createdAt: 2020-12-01T12:36:42.779Z
@@ -60,7 +60,7 @@ Generating the report may take a while if the volume of data is big. In such cas
 Leaving the page will not affect the operation.
 </div>
 
-![Sales Comission Report EN](https://images.ctfassets.net/alneenqid6w5/3WoTE8ibcuYshdJf5sT6KV/e30dfb7f7de7b6dbcd506782e405d470/image.png)
+![Sales Comission Report EN](//images.ctfassets.net/alneenqid6w5/3WoTE8ibcuYshdJf5sT6KV/e30dfb7f7de7b6dbcd506782e405d470/image.png)
 
 Later, you can also download the recently generated report using a link provided in the list of reports.  
 

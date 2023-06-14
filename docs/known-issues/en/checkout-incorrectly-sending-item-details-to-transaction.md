@@ -1,5 +1,5 @@
 ---
-title: Checkout incorrectly sending item details to transaction
+title: 'Checkout incorrectly sending item details to transaction'
 id: YxjZNKuIxkKQioS7lkmu8
 status: PUBLISHED
 createdAt: 2022-03-04T15:08:55.326Z

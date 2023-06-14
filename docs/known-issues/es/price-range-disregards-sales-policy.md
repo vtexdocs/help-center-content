@@ -1,5 +1,5 @@
 ---
-title: Price range disregards sales policy
+title: 'Price range disregards sales policy'
 id: 4isnfk4T2UB3CId8bXcvFT
 status: DRAFT
 createdAt: 2022-03-16T16:35:57.963Z

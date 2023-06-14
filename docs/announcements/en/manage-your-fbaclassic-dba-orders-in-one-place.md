@@ -1,5 +1,5 @@
 ---
-title: "Amazon Integration: Manage your FBA Classic and DBA orders in the VTEX Admin"
+title: 'Amazon Integration: Manage your FBA Classic and DBA orders in the VTEX Admin'
 id: aEwDY3x18zaUEISTzO7no
 status: CHANGED
 createdAt: 2023-01-25T13:54:02.256Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 2p7evLfTcDrhc5qtrzbLWD
 slug: manage-your-fbaclassic-dba-orders-in-one-place
 legacySlug: manage-your-fbaclassic-dba-orders-in-one-place
-announcementImageID: ""
-announcementSynopsisEN: Now you can manage all your Amazon FBA Classic and DBA orders in one place.
+announcementImageID: ''
+announcementSynopsisEN: 'Now you can manage all your Amazon FBA Classic and DBA orders in one place.'
 ---
 
 The [integration](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon) between VTEX stores and Amazon allows sellers to upload their product catalog to the marketplace to expand their sales channels. Now, we have expanded the integration to support Amazon's [FBA Classic (Fulfillment by Amazon)](https://venda.amazon.com.br/cresca/fba) and [DBA (Delivery by Amazon)](https://venda.amazon.com.br/cresca/dba) logistics programs. The new feature for [importing orders from FBA Classic or DBA](https://help.vtex.com/pt/tutorial/importacao-de-pedidos-amazon-fba-dba) allows users to view and manage orders in a single place.

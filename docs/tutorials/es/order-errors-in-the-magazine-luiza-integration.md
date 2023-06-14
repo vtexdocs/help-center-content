@@ -1,5 +1,5 @@
 ---
-title: Errores de integración de pedidos de Magazine Luiza
+title: 'Errores de integración de pedidos de Magazine Luiza'
 id: 7j5iw0eqtZOfC5LDgSnkBa
 status: PUBLISHED
 createdAt: 2021-08-10T21:10:16.895Z

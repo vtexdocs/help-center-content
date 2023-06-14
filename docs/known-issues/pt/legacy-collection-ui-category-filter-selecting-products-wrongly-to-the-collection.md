@@ -1,5 +1,5 @@
 ---
-title: Filtro da categoria UI Legacy Collection selecionando produtos erroneamente para a coleção
+title: 'Filtro da categoria UI Legacy Collection selecionando produtos erroneamente para a coleção'
 id: 1IlioZpOSQf5t4TWqZreiS
 status: PUBLISHED
 createdAt: 2022-10-31T20:42:26.100Z

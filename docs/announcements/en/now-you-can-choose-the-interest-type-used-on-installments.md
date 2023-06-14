@@ -1,5 +1,5 @@
 ---
-title: "Now you can choose the interest type used on installments"
+title: 'Now you can choose the interest type used on installments'
 id: D5XEUzJ6mcY0E0sWwWoWA
 status: CHANGED
 createdAt: 2019-01-03T21:13:24.577Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: now-you-can-choose-the-interest-type-used-on-installments
 legacySlug: now-you-can-choose-the-interest-type-used-on-installments
-announcementImageID: ""
-announcementSynopsisEN: Stores can now choose between simple or compound interests, depending on the practices in the countries they operate.
+announcementImageID: ''
+announcementSynopsisEN: 'Stores can now choose between simple or compound interests, depending on the practices in the countries they operate.'
 ---
 
 We released a simple way to edit the interest type used on installments. The feature meets the needs of stores operating in countries such as Argentina, where simple interests are the norm (unlike Brazil, where compound interests are the most used).

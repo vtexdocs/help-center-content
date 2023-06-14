@@ -1,5 +1,5 @@
 ---
-title: O que é TypedQL Builder?
+title: 'O que é TypedQL Builder?'
 id: 4i3PCEkW6nmiPsUiM4N1qF
 status: DRAFT
 createdAt: 2019-03-11T15:24:00.191Z

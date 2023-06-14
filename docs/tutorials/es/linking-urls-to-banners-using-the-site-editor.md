@@ -1,5 +1,5 @@
 ---
-title: Vinculando las URL en banners utilizando Site Editor
+title: 'Vinculando las URL en banners utilizando Site Editor'
 id: 4z2PagtN733waiWA8ttOuD
 status: PUBLISHED
 createdAt: 2021-07-19T15:00:50.647Z
@@ -18,7 +18,7 @@ Puede configurar uno de los banners de su tienda para un redireccionamiento de p
 
 ## URLs Internas
 
-![url-interna](https://images.ctfassets.net/alneenqid6w5/76tw5q9jP5kqkEhkFMIAOE/3d5a31e246e7525d91009ed3f1e77af1/image5.png)
+![url-interna](//images.ctfassets.net/alneenqid6w5/76tw5q9jP5kqkEhkFMIAOE/3d5a31e246e7525d91009ed3f1e77af1/image5.png)
 
 1. En el Admin VTEX, accede a **Storefront > Site Editor**.
 2. Seleccione el bloque __Carrusel__ deseado y elija el banner cuyo contenido será editado.
@@ -32,7 +32,7 @@ Puede configurar uno de los banners de su tienda para un redireccionamiento de p
 
 ## URLs Externas
 
-![url-externa-es](https://images.ctfassets.net/alneenqid6w5/7ESwBk45QYY2eHme82hy1Y/42317522340b78b7ce0a36ef8bb8163d/image3.png)
+![url-externa-es](//images.ctfassets.net/alneenqid6w5/7ESwBk45QYY2eHme82hy1Y/42317522340b78b7ce0a36ef8bb8163d/image3.png)
 
 1. En el Admin VTEX, accede a **Storefront > Site Editor**.
 2.  Seleccione el bloque __Carrusel__ deseado y elija el banner cuyo contenido será editado.

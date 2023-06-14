@@ -1,5 +1,5 @@
 ---
-title: "Mercado Livre: Introducing Buy Box and simultaneous Classic and Premium ads."
+title: 'Mercado Livre: Introducing Buy Box and simultaneous Classic and Premium ads.'
 id: 5MVLHFGJzHb6GTVVBwZeNZ
 status: DRAFT
 createdAt: 2020-02-27T17:05:49.574Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: vztwQkZv4z6EwDVwdqbsw
 slug: mercado-livre-introducing-buy-box-and-simultaneous-classic-and-premium-ads
 legacySlug: mercado-livre-introducing-buy-box-and-simultaneous-classic-and-premium-ads
-announcementImageID: ""
-announcementSynopsisEN: We have two updates that will help you sell more and better with Mercado Livre: Buy Box and Classic/Premium ads.
+announcementImageID: ''
+announcementSynopsisEN: 'We have two updates that will help you sell more and better with Mercado Livre: Buy Box and Classic/Premium ads.'
 ---
 
 Every day we see the potential of multiple sales channels in our customers' operations. When we think of marketplaces in Latin America, Mercado Livre is one of the main players when it comes to expanding your sales capacity. For this reason, we have been offering native integration with this service since 2014.

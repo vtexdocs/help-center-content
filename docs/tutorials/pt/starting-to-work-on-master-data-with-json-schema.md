@@ -1,5 +1,5 @@
 ---
-title: Começando a trabalhar no Master Data com JSON Schema
+title: 'Começando a trabalhar no Master Data com JSON Schema'
 id: 6uLbweaMBGqOm44cESMkEQ
 status: DRAFT
 createdAt: 2017-06-26T03:22:50.244Z

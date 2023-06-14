@@ -1,5 +1,5 @@
 ---
-title: Mapeo de color y tamaño
+title: 'Mapeo de color y tamaño'
 id: HvbHUmSDbHe1io6XqvHS3
 status: CHANGED
 createdAt: 2019-11-18T13:40:10.167Z
@@ -64,7 +64,7 @@ Debe escogerse el color disponible más cercano que, en el caso de Wish, "Hielo"
   OBS: la cabecera de la tabla debe rellenarse exactamente como está en el siguiente ejemplo. Recuerde no agregar caracteres especiales como enter o espacio al rellenar esta tabla. 
   </div>
 
-![PT - Tabela Wish](https://images.ctfassets.net/alneenqid6w5/5fvuqSjSRGHwbFVNUSTM3T/6f8f13054b1be01cbd1340d7b5b90bbd/Tabela_Wish.png)
+![PT - Tabela Wish](//images.ctfassets.net/alneenqid6w5/5fvuqSjSRGHwbFVNUSTM3T/6f8f13054b1be01cbd1340d7b5b90bbd/Tabela_Wish.png)
 
 ## Cargando el archivo
 

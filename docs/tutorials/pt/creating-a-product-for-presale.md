@@ -1,5 +1,5 @@
 ---
-title: Cadastrar um produto para pré-venda
+title: 'Cadastrar um produto para pré-venda'
 id: 4o6cUJ4gIg0MQWW8WfN34K
 status: PUBLISHED
 createdAt: 2021-09-08T16:32:39.818Z

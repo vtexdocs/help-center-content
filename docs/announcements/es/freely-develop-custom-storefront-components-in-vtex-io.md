@@ -1,5 +1,5 @@
 ---
-title: ""
+title: ''
 id: 2VSsZ0Y5ofRRQuD6Hmc4xb
 status: DRAFT
 createdAt: 2021-03-11T10:09:35.151Z
@@ -10,15 +10,15 @@ productTeam:
 author: 
 slug: untitled-entry-2021-03-11-at-10-09-35
 legacySlug: untitled-entry-2021-03-11-at-10-09-35
-announcementImageID: ""
-announcementSynopsisES: 
+announcementImageID: ''
+announcementSynopsisES: ''
 ---
 
 
-remente-componentes-personalizados-de-storefront-en-vtex-io
+mente-componentes-personalizados-de-storefront-en-vtex-io
 legacySlug: desarrolle-libremente-componentes-personalizados-de-storefront-en-vtex-io
-announcementImageID: ""
-announcementSynopsisES: Ya no se requiere autorización para desarrollar componentes personalizados de storefront usando VTEX IO.
+announcementImageID: ''
+announcementSynopsisES: 'Ya no se requiere autorización para desarrollar componentes personalizados de storefront usando VTEX IO.'
 ---
 
 Si su tienda está construida con [VTEX Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/what-is-store-framework) y le falta un componente especial de *storefront*, tenemos buenas noticias: ¡ya no se requiere autorización previa para usar VTEX React [*builder*](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-builders)!

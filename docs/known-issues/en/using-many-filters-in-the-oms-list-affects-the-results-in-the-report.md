@@ -1,5 +1,5 @@
 ---
-title: Using many filters in the OMS list affects the results in the report
+title: 'Using many filters in the OMS list affects the results in the report'
 id: WO9AvZxmUkmil35OZb8Lr
 status: PUBLISHED
 createdAt: 2023-02-17T17:45:57.039Z

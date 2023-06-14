@@ -1,5 +1,5 @@
 ---
-title: "Dados de intermediador para vendas em marketplaces integrados nativamente"
+title: 'Dados de intermediador para vendas em marketplaces integrados nativamente'
 id: 76L5juzkCZa8Bn5vl6U9Cp
 status: PUBLISHED
 createdAt: 2021-03-31T13:19:17.099Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: dados-de-intermediador-para-vendas-em-marketplaces-integrados-nativamente
 legacySlug: dados-de-intermediador-para-vendas-em-marketplaces-integrados-nativamente
-announcementImageID: ""
-announcementSynopsisPT: Estão sendo disponibilizados dados de intermediador para vendas feitas em marketplaces integrados nativamente.
+announcementImageID: ''
+announcementSynopsisPT: 'Estão sendo disponibilizados dados de intermediador para vendas feitas em marketplaces integrados nativamente.'
 ---
 
 Lojas que usam integrações nativas da VTEX com marketplaces agora têm acesso a novos campos de dados, notoriamente, dados de intermediador e método de pagamento para vendas feitas nestes marketplaces. Essas integrações são com:

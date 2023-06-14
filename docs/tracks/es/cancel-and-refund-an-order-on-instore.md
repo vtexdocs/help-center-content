@@ -1,5 +1,5 @@
 ---
-title: Cancelar y reembolsar un pedido en VTEX Sales App
+title: 'Cancelar y reembolsar un pedido en VTEX Sales App'
 id: UAahHrTwypk1HhoyyMd2W
 status: PUBLISHED
 createdAt: 2021-11-09T14:00:04.800Z

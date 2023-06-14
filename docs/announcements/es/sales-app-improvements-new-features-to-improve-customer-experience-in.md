@@ -1,5 +1,5 @@
 ---
-title: "Mejoras a Sales App: nuevas funcionalidades para mejorar la experiencia del cliente en la tienda física"
+title: 'Mejoras a Sales App: nuevas funcionalidades para mejorar la experiencia del cliente en la tienda física'
 id: 4Z9I6AwY3UcNdhHpgrdXfa
 status: PUBLISHED
 createdAt: 2023-05-25T00:06:35.147Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: mejoras-a-sales-app-nuevas-funcionalidades-para-mejorar-la-experiencia-del
 legacySlug: mejoras-a-sales-app-nuevas-funcionalidades-para-mejorar-la-experiencia-del
-announcementImageID: ""
-announcementSynopsisES: Mejoras para las tiendas físicas, incluyendo la nueva funcionalidad Venta en mano y sugerencias de productos similares.
+announcementImageID: ''
+announcementSynopsisES: 'Mejoras para las tiendas físicas, incluyendo la nueva funcionalidad Venta en mano y sugerencias de productos similares.'
 ---
 
 Desarrollamos nuevas funcionalidades para [Sales App](https://apps.vtex.com/vtex-instore/p) con el objetivo de mejorar la experiencia de compra del cliente en las tiendas físicas. Ahora tendrás mayor flexibilidad y dinamismo al presentar tus productos, además de un proceso de compra más fácil y rápido.

@@ -1,5 +1,5 @@
 ---
-title: Como adicionar e manipular informações customizadas no pedido
+title: 'Como adicionar e manipular informações customizadas no pedido'
 id: 7tDi1jQQ51ufARcRm8NUnC
 status: DRAFT
 createdAt: 2020-05-29T12:05:23.571Z

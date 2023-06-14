@@ -1,5 +1,5 @@
 ---
-title: InStore does not read properly the HTML registred in the product information.
+title: 'InStore does not read properly the HTML registred in the product information.'
 id: 7d8SQcoDuoM8ALheiHjlu
 status: PUBLISHED
 createdAt: 2022-12-16T17:58:53.859Z

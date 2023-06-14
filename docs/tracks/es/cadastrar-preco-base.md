@@ -1,5 +1,5 @@
 ---
-title: Registrar Precio Base
+title: 'Registrar Precio Base'
 id: P99EjtrlRHk92Q8qDPq29
 status: PUBLISHED
 createdAt: 2019-07-04T13:52:47.694Z

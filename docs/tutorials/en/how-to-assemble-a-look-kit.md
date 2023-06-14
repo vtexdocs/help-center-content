@@ -1,5 +1,5 @@
 ---
-title: How to assemble a Kit Look
+title: 'How to assemble a Kit Look'
 id: tutorials_266
 status: PUBLISHED
 createdAt: 2017-04-27T22:11:08.863Z

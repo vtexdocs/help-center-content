@@ -1,5 +1,5 @@
 ---
-title: "Update your version of the Mercado Pago Pro payment method"
+title: 'Update your version of the Mercado Pago Pro payment method'
 id: 3dEciFxBFjH5yoQWdRtzTj
 status: PUBLISHED
 createdAt: 2020-11-23T10:39:05.840Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: update-your-version-of-the-mercado-pago-pro-payment-method
 legacySlug: update-your-version-of-the-mercado-pago-pro-payment-method
-announcementImageID: ""
-announcementSynopsisEN: The solution was updated to complete purchases without redirect.
+announcementImageID: ''
+announcementSynopsisEN: 'The solution was updated to complete purchases without redirect.'
 ---
 
 Mercado Pago Pro is one of the payment methods provided by the Mercado Pago [digital wallet](https://help.vtex.com/en/tutorial/o-que-e-uma-carteira-digital-e-wallet "digital wallet"). It allows customers to complete a purchase at Checkout without the need to log in to their account. 

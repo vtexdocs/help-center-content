@@ -1,5 +1,5 @@
 ---
-title: Tenemos un problema al validar el campo ClientId de la Giftcard en admin
+title: 'Tenemos un problema al validar el campo ClientId de la Giftcard en admin'
 id: 4S7CziQfj5P2NLAgUKnJnP
 status: PUBLISHED
 createdAt: 2022-03-28T00:29:38.482Z

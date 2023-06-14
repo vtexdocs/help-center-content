@@ -1,5 +1,5 @@
 ---
-title: No se puede filtrar por tipo de error en excel export de Integraciones
+title: 'No se puede filtrar por tipo de error en excel export de Integraciones'
 id: 1gl97y31UE6WqWSkKku2UC
 status: PUBLISHED
 createdAt: 2017-12-15T12:40:09.384Z

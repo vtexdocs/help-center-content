@@ -1,5 +1,5 @@
 ---
-title: Creating Regular Promotions
+title: 'Creating Regular Promotions'
 id: 7FjbeZdE2KMwk5L1t98pZI
 status: PUBLISHED
 createdAt: 2020-01-14T13:11:35.010Z
@@ -87,7 +87,7 @@ For the promotion to be valid for all sales policies, leave the checkboxes empty
 
 In this section, you need to choose whether this promotion will apply to all products in your store or only to specific products, as illustrated below.
 
-![promocoes-restricao-en](https://images.ctfassets.net/alneenqid6w5/55xxIduLJDJrwQMuk4OgRu/adc5cdd25eb79636530e31e668b765e3/image.png)
+![promocoes-restricao-en](//images.ctfassets.net/alneenqid6w5/55xxIduLJDJrwQMuk4OgRu/adc5cdd25eb79636530e31e668b765e3/image.png)
 
 If you want the promotion to apply to your entire catalog, select the **Apply to all products** option.
 
@@ -97,7 +97,7 @@ You can add or remove **Categories**, **Brands**, **Collections**, **Products** 
 
 See an example below. In this case, the promotion includes all products from the category **Home Appliances** whose brand is **Brastemp**, except the product **Refrigerator 100**.
 
-![exemplo-en](https://images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/b3d7c4dff6f1039056bbd2a246f05b19/image.png)
+![exemplo-en](//images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/b3d7c4dff6f1039056bbd2a246f05b19/image.png)
 
 In the **Products** and **SKUs** fields, you can opt to upload a **.txt** file with one product or SKU ID per row instead of selecting one product or one SKU at a time. To do this, click on **Choose file** and select your **.txt** file.
 

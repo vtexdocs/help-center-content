@@ -1,5 +1,5 @@
 ---
-title: Definir los textos de visualización de la tienda
+title: 'Definir los textos de visualización de la tienda'
 id: 1lTwIvUzgIcs28QGCGK0Ag
 status: PUBLISHED
 createdAt: 2018-01-25T18:21:47.414Z

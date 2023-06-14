@@ -1,5 +1,5 @@
 ---
-title: O CMS permite a criação mas não a edição de pastas com os mesmos nomes que as pastas padrão
+title: 'O CMS permite a criação mas não a edição de pastas com os mesmos nomes que as pastas padrão'
 id: q2Fvxfwv5MjAcqxb81avH
 status: PUBLISHED
 createdAt: 2022-04-26T14:09:30.508Z

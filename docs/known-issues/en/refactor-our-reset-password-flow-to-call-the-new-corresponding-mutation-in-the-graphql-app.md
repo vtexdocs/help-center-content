@@ -1,5 +1,5 @@
 ---
-title: refactor our reset password flow to call the new corresponding mutation in the graphql app
+title: 'refactor our reset password flow to call the new corresponding mutation in the graphql app'
 id: 245W7bXAR6nnnLbqqmOCda
 status: PUBLISHED
 createdAt: 2022-05-12T16:02:40.629Z

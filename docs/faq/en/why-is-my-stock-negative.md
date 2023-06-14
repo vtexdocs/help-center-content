@@ -1,5 +1,5 @@
 ---
-title: Why is my inventory negative?
+title: 'Why is my inventory negative?'
 id: frequentlyAskedQuestions_159
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:51.880Z

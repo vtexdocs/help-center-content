@@ -1,5 +1,5 @@
 ---
-title: Adding a Seller (Beta)
+title: 'Adding a Seller (Beta)'
 id: 6q4G4RNqVENr5YMJyindwL
 status: DRAFT
 createdAt: 2022-02-02T16:27:52.880Z

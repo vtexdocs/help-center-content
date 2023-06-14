@@ -1,5 +1,5 @@
 ---
-title: La pantalla de integración de facebook no guarda algunos ajustes
+title: 'La pantalla de integración de facebook no guarda algunos ajustes'
 id: 4MTMozT5bmub7Y96TXCl09
 status: PUBLISHED
 createdAt: 2022-03-23T18:52:58.216Z

@@ -1,5 +1,5 @@
 ---
-title: Selección de ventana de entrega programada parcial para el mismo SLA que afecta al flujo de compra
+title: 'Selección de ventana de entrega programada parcial para el mismo SLA que afecta al flujo de compra'
 id: 1xkpnp0vxR0O8sJYARcFJF
 status: PUBLISHED
 createdAt: 2022-08-11T18:41:25.906Z

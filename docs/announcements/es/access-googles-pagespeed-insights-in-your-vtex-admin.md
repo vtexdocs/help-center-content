@@ -1,5 +1,5 @@
 ---
-title: "Accede a PageSpeed Insights de Google en tu Admin VTEX"
+title: 'Accede a PageSpeed Insights de Google en tu Admin VTEX'
 id: 5rLPGgLfLqg8Ss0W79WS7c
 status: PUBLISHED
 createdAt: 2022-06-29T19:09:51.629Z
@@ -10,8 +10,8 @@ productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: accede-a-pagespeed-insights-de-google-en-tu-admin-vtex
 legacySlug: accede-a-pagespeed-insights-de-google-en-tu-admin-vtex
-announcementImageID: ""
-announcementSynopsisES: Evalúa el rendimiento de URLs con la nueva página Rendimiento de páginas web que se basa en PageSpeed Insights de Google
+announcementImageID: ''
+announcementSynopsisES: 'Evalúa el rendimiento de URLs con la nueva página Rendimiento de páginas web que se basa en PageSpeed Insights de Google'
 ---
 
 En el mercado del comercio digital, proporcionar una experiencia que permita al comprador no llevar demasiado tiempo para encontrar la información que necesita o para completar un pedido puede ser la ventaja competitiva entre las marcas, que compiten por la atención del mismo usuario. Por lo tanto, seguir el rendimiento de tu sitio web es importante para medir y mejorar la experiencia del usuario, lo que puede suponer un aumento de las ventas.
@@ -20,7 +20,7 @@ Con este fin, hemos creado la nueva pantalla [Rendimiento de las páginas web](h
 
 PageSpeed Insights y Lighthouse son herramientas desarrolladas por Google para proporcionar información sobre la experiencia de usuario de una página tanto en dispositivos móviles como de escritorio, ofreciendo sugerencias sobre cómo se puede mejorar esa página. Utilizan las [Métricas web principales de Google](https://web.dev/vitals/#core-web-vitals) para evaluar la experiencia del usuario _online_.
 
-![Web page performance Dash ES](https://images.ctfassets.net/alneenqid6w5/4EHCyrE0JQxGgxhk1YVdMY/32c901997b6a96b00b197ce99d2dd146/Screen_Shot_2022-06-29_at_15.47.04.png)
+![Web page performance Dash ES](//images.ctfassets.net/alneenqid6w5/4EHCyrE0JQxGgxhk1YVdMY/32c901997b6a96b00b197ce99d2dd146/Screen_Shot_2022-06-29_at_15.47.04.png)
 
 ## ¿Qué cambió?
 

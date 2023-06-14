@@ -1,5 +1,5 @@
 ---
-title: What is an Inventory?
+title: 'What is an Inventory?'
 id: 23kq5gUdY0QOymOu8QSGcA
 status: DRAFT
 createdAt: 2018-03-01T15:36:52.345Z

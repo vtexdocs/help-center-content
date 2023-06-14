@@ -1,5 +1,5 @@
 ---
-title:  "Position" of the trade policy depends on the page it is shown on the admin interface
+title: ' "Position" of the trade policy depends on the page it is shown on the admin interface'
 id: 3kcSD7J5uuHYGdhBcg1lMa
 status: PUBLISHED
 createdAt: 2022-10-31T20:28:08.565Z

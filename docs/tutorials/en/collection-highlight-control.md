@@ -1,5 +1,5 @@
 ---
-title: Collection highlight control
+title: 'Collection highlight control'
 id: 1tGdb2ndjqy6yWsk2YwKMu
 status: PUBLISHED
 createdAt: 2018-02-21T19:12:49.216Z

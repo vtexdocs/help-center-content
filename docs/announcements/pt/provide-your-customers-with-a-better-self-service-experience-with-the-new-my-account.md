@@ -1,5 +1,5 @@
 ---
-title: "Dê aos seus clientes uma nova experiência de auto-atendimento com o novo My Account"
+title: 'Dê aos seus clientes uma nova experiência de auto-atendimento com o novo My Account'
 id: 77FfArUimzsoeHM7LzSfFY
 status: CHANGED
 createdAt: 2019-04-12T22:51:48.332Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 6AcGyun1hSWewU8YcaQiO
 slug: de-aos-seus-clientes-uma-nova-experiencia-de-auto-atendimento-com-o-novo-my-account
 legacySlug: de-aos-seus-clientes-uma-nova-experiencia-de-auto-atendimento-com-o-novo-my-account
-announcementImageID: ""
-announcementSynopsisPT: Todos os pedidos e dados pessoais acessados em um só lugar.
+announcementImageID: ''
+announcementSynopsisPT: 'Todos os pedidos e dados pessoais acessados em um só lugar.'
 ---
 
 A partir de 25 de junho de 2019, todos os pedidos e dados pessoais dos seus clientes poderão ser acessados por eles em um só lugar através do novo app do My Account.

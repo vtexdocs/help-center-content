@@ -1,5 +1,5 @@
 ---
-title: Questões do menu dobrável que rendem todos os itens
+title: 'Questões do menu dobrável que rendem todos os itens'
 id: 1iOlmwj8DvaxCQCmvyHQww
 status: PUBLISHED
 createdAt: 2022-05-23T19:39:49.204Z

@@ -1,5 +1,5 @@
 ---
-title: "Apresente pontos de retirada no Google Maps"
+title: 'Apresente pontos de retirada no Google Maps'
 id: 70wpYhYSPLVq8q3njJ8ojr
 status: PUBLISHED
 createdAt: 2021-03-19T00:17:43.865Z
@@ -10,13 +10,13 @@ productTeam: VTEX IO
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: apresente-pontos-de-retirada-no-google-maps
 legacySlug: apresente-pontos-de-retirada-no-google-maps
-announcementImageID: ""
-announcementSynopsisPT: Aplicativo que lista Pontos de Retirada e os exibe como marcadores no Google Maps.
+announcementImageID: ''
+announcementSynopsisPT: 'Aplicativo que lista Pontos de Retirada e os exibe como marcadores no Google Maps.'
 ---
 
 Uma das funcionalidades mais comuns de websites e lojas online é a disponibilização de mapas que sinalizam a localização de lojas físicas. Com o novo app [Store Locator](https://apps.vtex.com/vtex-store-locator/p#overview), as lojas desenvolvidas com VTEX IO podem utilizar o Google Maps para listar os Pontos de Retirada registrados na loja e exibi-los como marcadores em um mapa.
 
-![Maps](https://images.ctfassets.net/alneenqid6w5/5Y2mR6XMrFEcRFTAapWrGY/ac3eb4449114856b2c0e573644840dec/mapas.png)
+![Maps](//images.ctfassets.net/alneenqid6w5/5Y2mR6XMrFEcRFTAapWrGY/ac3eb4449114856b2c0e573644840dec/mapas.png)
 
 ## O que mudou? 
 As lojas desenvolvidas com VTEX IO agora podem instalar o aplicativo Store Locator e apresentar os pontos de retirada no Google Maps através de marcadores.

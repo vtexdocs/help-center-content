@@ -1,5 +1,5 @@
 ---
-title: Plantilla de email transaccional para pedido reembolsado
+title: 'Plantilla de email transaccional para pedido reembolsado'
 id: 5uy6FCBb6DLyIJlSDeM10G
 status: PUBLISHED
 createdAt: 2020-09-08T12:27:15.441Z

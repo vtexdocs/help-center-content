@@ -1,5 +1,5 @@
 ---
-title: Pick-up point can't be selected in marketplaces with multi-level sellers
+title: 'Pick-up point can't be selected in marketplaces with multi-level sellers'
 id: 1DGiyBrbw9qXGVMhX3k5gs
 status: PUBLISHED
 createdAt: 2023-01-11T19:57:54.964Z

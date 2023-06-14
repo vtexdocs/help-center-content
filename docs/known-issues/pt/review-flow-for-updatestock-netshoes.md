@@ -1,5 +1,5 @@
 ---
-title: Fluxo de revisão para UpdateStock - Netshoes
+title: 'Fluxo de revisão para UpdateStock - Netshoes'
 id: 2PUhOyf34WSVygB5LvB68a
 status: PUBLISHED
 createdAt: 2022-10-24T16:17:37.186Z

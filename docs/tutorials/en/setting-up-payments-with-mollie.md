@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Mollie
+title: 'Setting up payments with Mollie'
 id: 22xsNx4lvnXXnCeJjgb8Wi
 status: DRAFT
 createdAt: 2022-08-12T19:51:09.595Z

@@ -1,5 +1,5 @@
 ---
-title: The price in the search result is different from the product page
+title: 'The price in the search result is different from the product page'
 id: 1108Xha3zw6ZvVUINfY7HR
 status: PUBLISHED
 createdAt: 2022-11-22T14:26:20.489Z

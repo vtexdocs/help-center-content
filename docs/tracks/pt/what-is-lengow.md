@@ -1,5 +1,5 @@
 ---
-title: O que é Lengow?
+title: 'O que é Lengow?'
 id: 5hvcyPkF60yGzzgYDV7DzZ
 status: PUBLISHED
 createdAt: 2020-06-30T00:23:00.941Z

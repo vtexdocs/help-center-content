@@ -1,5 +1,5 @@
 ---
-title: Problema na ordenação de melhor desconto
+title: 'Problema na ordenação de melhor desconto'
 id: 7JlXcIcicgQwkOkCuce4Ow
 status: PUBLISHED
 createdAt: 2017-04-03T20:07:11.542Z

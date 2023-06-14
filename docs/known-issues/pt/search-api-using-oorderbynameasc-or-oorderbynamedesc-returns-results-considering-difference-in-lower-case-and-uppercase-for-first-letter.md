@@ -1,5 +1,5 @@
 ---
-title: Search API usando O=OrderByNameASC ou O=OrderByNameDESC retorna resultados considerando diferença em minúsculas e maiúsculas para a primeira letra
+title: 'Search API usando O=OrderByNameASC ou O=OrderByNameDESC retorna resultados considerando diferença em minúsculas e maiúsculas para a primeira letra'
 id: 1VqHI8kcnqRarzc1kxUGig
 status: PUBLISHED
 createdAt: 2022-04-07T14:04:16.705Z

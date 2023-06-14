@@ -1,5 +1,5 @@
 ---
-title: Toolbelt del VTEX IO se bloquea en la plataforma Windows
+title: 'Toolbelt del VTEX IO se bloquea en la plataforma Windows'
 id: 5gWrgOvFZXEoDOJFMrqGoa
 status: DRAFT
 createdAt: 2019-02-06T16:15:59.916Z

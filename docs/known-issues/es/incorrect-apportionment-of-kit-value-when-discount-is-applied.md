@@ -1,5 +1,5 @@
 ---
-title: Rateo incorrecto del valor del kit cuando se aplica un descuento
+title: 'Rateo incorrecto del valor del kit cuando se aplica un descuento'
 id: mZLhWgjrvEa0eISE4syUE
 status: PUBLISHED
 createdAt: 2017-04-06T17:27:01.147Z

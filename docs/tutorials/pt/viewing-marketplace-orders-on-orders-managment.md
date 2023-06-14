@@ -1,5 +1,5 @@
 ---
-title: Visualizar pedidos de marketplace em Todos os pedidos
+title: 'Visualizar pedidos de marketplace em Todos os pedidos'
 id: tutorials_398
 status: PUBLISHED
 createdAt: 2017-04-27T22:06:52.719Z

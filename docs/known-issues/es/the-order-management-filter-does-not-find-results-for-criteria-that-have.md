@@ -1,5 +1,5 @@
 ---
-title: ​​El punto de recogida no es visible durante la asociación con la política de envío
+title: '​​El punto de recogida no es visible durante la asociación con la política de envío'
 id: 3GcfZkPG9yB3l8Cfd1lVzf
 status: PUBLISHED
 createdAt: 2021-12-16T19:34:39.907Z

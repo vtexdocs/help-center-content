@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué el filtro de campo de producto o SKU no está traendo resultado en la búsqueda?
+title: '¿Por qué el filtro de campo de producto o SKU no está traendo resultado en la búsqueda?'
 id: 7e9P6HiXTiKsgYCKiEoauy
 status: CHANGED
 createdAt: 2017-11-06T20:18:06.419Z

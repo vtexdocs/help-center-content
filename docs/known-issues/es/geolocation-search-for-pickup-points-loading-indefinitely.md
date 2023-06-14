@@ -1,5 +1,5 @@
 ---
-title: La geolocalización para buscar puntos de recogida se queda cargando
+title: 'La geolocalización para buscar puntos de recogida se queda cargando'
 id: 9HACCiPSeJY9174Qh9FQb
 status: PUBLISHED
 createdAt: 2021-09-08T18:11:35.333Z

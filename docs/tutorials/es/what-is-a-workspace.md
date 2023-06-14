@@ -1,5 +1,5 @@
 ---
-title: ¿Qué es un workspace?
+title: '¿Qué es un workspace?'
 id: 68Ks5LAKEoqkaaWsuAyyaM
 status: DRAFT
 createdAt: 2019-01-24T20:45:41.702Z

@@ -1,5 +1,5 @@
 ---
-title: How is the order delivery deadline calculated?
+title: 'How is the order delivery deadline calculated?'
 id: 1TOuKCIjGQmqOqQkEqCg82
 status: PUBLISHED
 createdAt: 2018-01-12T12:56:52.805Z
@@ -27,13 +27,13 @@ That is, for each of these steps you can define a detention time - and the deliv
 
 The detention time for the __stock__ and __dock__ are defined in the setting screens of each of these steps, in **Shipping > Shipping Strategy.**
 
-![entrega1.en](https://images.ctfassets.net/alneenqid6w5/39bRRLzf4nv4V0EpDe71cQ/ae7546c90db3697294b9fc499a80dd81/entrega1.en.png) 
+![entrega1.en](//images.ctfassets.net/alneenqid6w5/39bRRLzf4nv4V0EpDe71cQ/ae7546c90db3697294b9fc499a80dd81/entrega1.en.png) 
 
-![entrega2.en](https://images.ctfassets.net/alneenqid6w5/23DgHkimiBcH2alWZEQyYI/b9b78b5cbddaa2efa0a218122ab818ad/entrega2.en.png)
+![entrega2.en](//images.ctfassets.net/alneenqid6w5/23DgHkimiBcH2alWZEQyYI/b9b78b5cbddaa2efa0a218122ab818ad/entrega2.en.png)
 
 The detention cost of the __carrier__ is defined in the freight table, sent to VTEX through the carrier configuration screen, also in the **Shipping Strategy > Shipping policy** tab.
 
-![entrega3.en](https://images.ctfassets.net/alneenqid6w5/lFStGX80SPEuAWnVwt2eK/ca241929a087956172dedc1097559871/entrega3.en.png)
+![entrega3.en](//images.ctfassets.net/alneenqid6w5/lFStGX80SPEuAWnVwt2eK/ca241929a087956172dedc1097559871/entrega3.en.png)
 
 ### Go further
 

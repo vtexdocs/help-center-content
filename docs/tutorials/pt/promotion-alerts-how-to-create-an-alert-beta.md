@@ -1,5 +1,5 @@
 ---
-title: Alerta de promoções: como criar um alerta (Beta)
+title: 'Alerta de promoções: como criar um alerta (Beta)'
 id: 14nC51OlGoCSBLlBkZhkRR
 status: PUBLISHED
 createdAt: 2022-11-18T17:08:57.812Z

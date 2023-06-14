@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with CCAvenue
+title: 'Setting up payments with CCAvenue'
 id: HzPNMioKfNUTkXcn0BLDh
 status: DRAFT
 createdAt: 2022-03-29T16:48:26.110Z

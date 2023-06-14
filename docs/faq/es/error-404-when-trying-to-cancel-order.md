@@ -1,5 +1,5 @@
 ---
-title: Error 404 al intentar cancelar pedido. ¿Que hacer?
+title: 'Error 404 al intentar cancelar pedido. ¿Que hacer?'
 id: 7re22Xm5MswgmkgKiyiygE
 status: PUBLISHED
 createdAt: 2018-02-19T19:22:21.391Z

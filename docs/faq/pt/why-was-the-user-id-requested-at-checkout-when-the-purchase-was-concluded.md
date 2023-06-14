@@ -1,5 +1,5 @@
 ---
-title: Por que foi solicitado que meu cliente fizesse login ao tentar finalizar sua compra?
+title: 'Por que foi solicitado que meu cliente fizesse login ao tentar finalizar sua compra?'
 id: frequentlyAskedQuestions_2705
 status: PUBLISHED
 createdAt: 2017-04-27T22:25:14.581Z
@@ -17,7 +17,7 @@ Existe uma regra de segurança no Checkout que está relacionada à facilidade d
 
 Como o SmartCheckout permite fechar uma compra apenas com o e-mail e com o CVV do cartão, caso o cliente já tenha finalizado compra anteriormente, limitamos a quantidade de tentativas de finalização de compra sem sucesso a 3. Depois dessas 3 tentativas, pedimos o login do cliente.
 
-![LoginPT](https://images.ctfassets.net/alneenqid6w5/6M66QYzmnYoaAieMEkgeQU/ad36bed2e62bedaa2fb6ca5e9efe67c0/LoginPT.png)
+![LoginPT](//images.ctfassets.net/alneenqid6w5/6M66QYzmnYoaAieMEkgeQU/ad36bed2e62bedaa2fb6ca5e9efe67c0/LoginPT.png)
 
 Ou seja, caso o cliente finalize a compra apenas com o e-mail e o CVV do cartão de crédito e a autorização da operadora não ocorra em até 3 vezes seguidas, é mostrada a tela de login para que o cliente continue tentando comprar. Essa contagem volta ao início quando o cliente fizer o login e finalizar sua compra com sucesso.
 

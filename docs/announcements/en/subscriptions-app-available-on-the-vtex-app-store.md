@@ -1,5 +1,5 @@
 ---
-title: "Subscriptions app available on the VTEX App Store"
+title: 'Subscriptions app available on the VTEX App Store'
 id: 2McDzhB4uyLEcabCrBjeNt
 status: DRAFT
 createdAt: 2022-07-26T22:53:03.914Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: subscriptions-app-available-on-the-vtex-app-store
 legacySlug: subscriptions-app-available-on-the-vtex-app-store
-announcementImageID: ""
-announcementSynopsisEN: The Subscriptions app is available for free on the VTEX App Store.
+announcementImageID: ''
+announcementSynopsisEN: 'The Subscriptions app is available for free on the VTEX App Store.'
 ---
 
 Offering subscriptions is a way to build loyalty and retain the audience that makes frequent purchases in your store. VTEX's solution for this type of strategy is the [Subscriptions](https://help.vtex.com/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453) app, which allows you to create subscription plans that automatically generate recurring orders.

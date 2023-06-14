@@ -1,5 +1,5 @@
 ---
-title: Mapeamento de especificações
+title: 'Mapeamento de especificações'
 id: 4GpDlL5cdrxjxchIqI6Hyn
 status: CHANGED
 createdAt: 2020-06-30T00:30:39.534Z

@@ -1,5 +1,5 @@
 ---
-title: "Mejoras de UX en el checkout con tarjetas vencidas"
+title: 'Mejoras de UX en el checkout con tarjetas vencidas'
 id: 63xlwoVYtCo1elfBkQps78
 status: PUBLISHED
 createdAt: 2020-11-23T19:47:40.205Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: mejoras-de-ux-en-el-checkout-con-tarjetas-vencidas
 legacySlug: mejoras-de-ux-en-el-checkout-con-tarjetas-vencidas
-announcementImageID: ""
-announcementSynopsisES: Ahora evitamos que se seleccionen tarjetas vencidas en el pago, para una experiencia de compra más fluida.
+announcementImageID: ''
+announcementSynopsisES: 'Ahora evitamos que se seleccionen tarjetas vencidas en el pago, para una experiencia de compra más fluida.'
 ---
 
 Una de las principales ventajas de VTEX Smartcheckout™ es la facilidad de repetir la compra. Pues, basta que el consumidor se identifique mediante su email para que sus datos se completen automáticamente. Además, para finalizar la compra, solo tiene que ingresar el código de seguridad de su tarjeta registrada. Todo eso a través de un proceso ágil y seguro. 
@@ -22,7 +22,7 @@ Con el objetivo de continuar perfeccionando esa experiencia, incluimos una valid
 
 Antes, un consumidor podía seleccionar una tarjeta vencida y realizar una compra, cuyo pago luego sería rechazado. Ahora, señalamos las tarjetas caducadas y evitamos que sean seleccionadas en el checkout, para una experiencia de compra más fluida.
 
-![ES - Expired Cards](https://images.ctfassets.net/alneenqid6w5/7HzPrSIeXAcZj1x5v7PFsB/276fcf10f19f3c8ec703547d75e2aa5d/ES_-_Expired_Cards.png)
+![ES - Expired Cards](//images.ctfassets.net/alneenqid6w5/7HzPrSIeXAcZj1x5v7PFsB/276fcf10f19f3c8ec703547d75e2aa5d/ES_-_Expired_Cards.png)
 
 ## ¿Por qué realizamos este cambio?
 

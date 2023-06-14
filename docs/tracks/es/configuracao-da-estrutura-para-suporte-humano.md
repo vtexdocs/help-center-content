@@ -1,5 +1,5 @@
 ---
-title: Configuración de la estructura para Servicio al cliente humano
+title: 'Configuración de la estructura para Servicio al cliente humano'
 id: SxhYiiqUJYiQX4CIWxmVE
 status: PUBLISHED
 createdAt: 2022-08-23T15:25:37.553Z

@@ -1,5 +1,5 @@
 ---
-title:  Entienda las tasas de VTEX Payment
+title: ' Entienda las tasas de VTEX Payment'
 id: 1Ms2ccMazQ1NxHGXwUuTbm
 status: DRAFT
 createdAt: 2020-06-16T00:32:31.276Z

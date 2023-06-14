@@ -1,5 +1,5 @@
 ---
-title: Pedidos com changes podem não enviar email transacional de Pedido Faturado
+title: 'Pedidos com changes podem não enviar email transacional de Pedido Faturado'
 id: 1tyY0JutqQyJB18U9WTRXX
 status: PUBLISHED
 createdAt: 2019-02-17T20:45:54.094Z

@@ -1,5 +1,5 @@
 ---
-title: Facebook - Liberação de domínio
+title: 'Facebook - Liberação de domínio'
 id: 2tUZyYitZ7X17eMo9oqkD5
 status: PUBLISHED
 createdAt: 2022-08-30T18:06:34.250Z

@@ -1,5 +1,5 @@
 ---
-title: Motivo de alteración de status (VTEX Tracking)
+title: 'Motivo de alteración de status (VTEX Tracking)'
 id: 4shboc7h5XPUpA8TQzXPRG
 status: PUBLISHED
 createdAt: 2020-08-03T21:48:01.001Z

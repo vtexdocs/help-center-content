@@ -1,5 +1,5 @@
 ---
-title: El pago permite pasar al formulario de pago sin la dirección de envío en la interfaz de usuario solamente
+title: 'El pago permite pasar al formulario de pago sin la dirección de envío en la interfaz de usuario solamente'
 id: 3k9zxMq6Pl9WBnIz5Hy6Xf
 status: PUBLISHED
 createdAt: 2022-11-18T18:42:08.326Z

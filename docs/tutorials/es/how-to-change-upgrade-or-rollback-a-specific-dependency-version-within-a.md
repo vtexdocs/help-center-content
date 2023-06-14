@@ -1,5 +1,5 @@
 ---
-title: Cómo cambiar la versión (upgrade o rollback) de una dependencia dentro de un workspace
+title: 'Cómo cambiar la versión (upgrade o rollback) de una dependencia dentro de un workspace'
 id: 3GxKR5gWesEOmUkOW864sg
 status: DRAFT
 createdAt: 2019-01-14T11:58:42.128Z

@@ -1,5 +1,5 @@
 ---
-title: Calculating revenue through the worksheet exported from Orders module 
+title: 'Calculating revenue through the worksheet exported from Orders module '
 id: 51KTkEqie4UC46qO8KgGGE
 status: PUBLISHED
 createdAt: 2018-02-21T13:17:33.632Z

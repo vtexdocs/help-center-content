@@ -1,5 +1,5 @@
 ---
-title: [Giftlist] La fecha del evento guardada en la UI no es la misma que se refleja en la bd
+title: '[Giftlist] La fecha del evento guardada en la UI no es la misma que se refleja en la bd'
 id: 6PUBzRdtno8ypsPMg97B6K
 status: PUBLISHED
 createdAt: 2022-07-25T17:45:12.568Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Aditum
+title: 'Configurar pagamento com Aditum'
 id: 24042qRWfIL6EVTb0tflvt
 status: PUBLISHED
 createdAt: 2022-05-05T14:08:42.644Z

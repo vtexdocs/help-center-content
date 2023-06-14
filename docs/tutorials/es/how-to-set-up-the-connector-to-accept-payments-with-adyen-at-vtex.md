@@ -1,5 +1,5 @@
 ---
-title: Configure el conector para aceptar pagos con Adyen en VTEX
+title: 'Configure el conector para aceptar pagos con Adyen en VTEX'
 id: tutorials_2337
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:10.101Z
@@ -68,7 +68,7 @@ Luego, solo tiene que recoger las informaciones de Adyen para registrarlas en VT
 5. ¡Recuerde anotar el nombre de usuario y la contraseña que aparecerá en el campo Password, ya que no volverá a estar visible!
 6. Haga clic en el botón **Save**, que está al final de la página.
 7. Después de estos pasos, su usuario debería haber sido creado con éxito. El número 1 (indicado en la imagen en rojo) es el username. El número 2 es la contraseña (password) que deberá ingresarse en el ambiente VTEX.
-![Adyen - Image 2](https://images.ctfassets.net/alneenqid6w5/7jtKskh7uYiUuMnI6t7UqJ/ea01c037ad5c541a26fdef50b1a0d4fd/image2.png)
+![Adyen - Image 2](//images.ctfassets.net/alneenqid6w5/7jtKskh7uYiUuMnI6t7UqJ/ea01c037ad5c541a26fdef50b1a0d4fd/image2.png)
 8. Envíe un e-mail para el soporte de Adyen (suporte@adyen.com) solicitando las habilitaciones listadas en el siguiente modelo:
 
 > Asunto: Configuración de los permisos de usuario webservice de VTEX para `{accountName}`
@@ -93,7 +93,7 @@ Si pretende utilizar la plataforma de Adyen para hacer análisis antifraude con 
 
 <ui>5. La configuración deberá verse conforme sigue abajo. Asegúrese de hacer clic en **Save configuration** después de completar las alteraciones.</ui>
 
-![Adyen - Image 1](https://images.ctfassets.net/alneenqid6w5/1K5aqITpHU74XYQ5eO7wKc/a29d285086d15dd28a596ab344d72763/image1.png)
+![Adyen - Image 1](//images.ctfassets.net/alneenqid6w5/1K5aqITpHU74XYQ5eO7wKc/a29d285086d15dd28a596ab344d72763/image1.png)
 
 ## Configuraciones en VTEX
 

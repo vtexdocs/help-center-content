@@ -1,5 +1,5 @@
 ---
-title: Configurar gateway Sitef com pre-auth
+title: 'Configurar gateway Sitef com pre-auth'
 id: 2ZH4DLmZpKw022aSGcGYag
 status: PUBLISHED
 createdAt: 2018-03-05T21:07:59.629Z

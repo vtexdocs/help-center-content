@@ -1,5 +1,5 @@
 ---
-title: How to delete a dock
+title: 'How to delete a dock'
 id: 60lVaRKEGAkyM66EKIOcUQ
 status: DRAFT
 createdAt: 2017-08-03T14:26:31.219Z

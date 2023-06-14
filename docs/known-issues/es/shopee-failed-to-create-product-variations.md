@@ -1,5 +1,5 @@
 ---
-title: [Shopee] Error al crear variaciones de producto
+title: '[Shopee] Error al crear variaciones de producto'
 id: 5IKAkqtm8eejg2IhzrCgSz
 status: PUBLISHED
 createdAt: 2022-10-25T16:29:19.572Z

@@ -1,5 +1,5 @@
 ---
-title: Registrar Redondeo de Precios
+title: 'Registrar Redondeo de Precios'
 id: 1QDJfW5ALy4W8pRWg2AWt1
 status: PUBLISHED
 createdAt: 2019-07-04T13:54:05.527Z

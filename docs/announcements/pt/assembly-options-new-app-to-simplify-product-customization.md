@@ -1,5 +1,5 @@
 ---
-title: "Assembly Options: novo aplicativo para facilitar a customização de produtos"
+title: 'Assembly Options: novo aplicativo para facilitar a customização de produtos'
 id: 6LJ2tbKQzBuGLj5rqICmp2
 status: PUBLISHED
 createdAt: 2022-06-22T22:20:42.810Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: assembly-options-novo-aplicativo-para-facilitar-a-customizacao-de-produtos
 legacySlug: assembly-options-novo-aplicativo-para-facilitar-a-customizacao-de-produtos
-announcementImageID: ""
-announcementSynopsisPT: Desenvolvemos o aplicativo Assembly Options para simplificar a customização de produtos durante a compra.
+announcementImageID: ''
+announcementSynopsisPT: 'Desenvolvemos o aplicativo Assembly Options para simplificar a customização de produtos durante a compra.'
 ---
 
 A customização de produtos é uma necessidade comum durante a experiência de compra online. Na VTEX, esse tipo de customização é possível utilizando [Assembly Options](https://help.vtex.com/pt/tutorial/assembly-options--5x5FhNr4f5RUGDEGWzV1nH), que são [anexos](https://help.vtex.com/pt/tutorial/o-que-e-um-anexo--aGICk0RVbqKg6GYmQcWUm) para cenários complexos, em que é necessário gerenciar diferentes combinações de produtos, quantidades, itens adicionais e custos.
@@ -20,7 +20,7 @@ Uma situação comum em restaurantes que aceitam pedidos online, por exemplo, é
 
 Para simplificar o uso dessa funcionalidade, desenvolvemos o aplicativo **Assembly Options**, que apresenta uma interface para configuração e gerenciamento das opções de customização. O aplicativo está disponível somente para lojas que utilizam [VTEX IO](https://vtex.com/br-pt/store-framework/).
 
-![assembly-options-app](https://images.ctfassets.net/alneenqid6w5/7AoMYLduvKisAxKMho64m0/e2166df5fd26a7dba75c2420c19e43e9/image1.png)
+![assembly-options-app](//images.ctfassets.net/alneenqid6w5/7AoMYLduvKisAxKMho64m0/e2166df5fd26a7dba75c2420c19e43e9/image1.png)
 
 ## O que mudou?
 

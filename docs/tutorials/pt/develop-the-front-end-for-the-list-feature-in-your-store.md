@@ -1,5 +1,5 @@
 ---
-title: Desenvolver o front-end para a feature de listas na sua loja
+title: 'Desenvolver o front-end para a feature de listas na sua loja'
 id: iBCiwkxH8cmk6AcGoYMW0
 status: PUBLISHED
 createdAt: 2018-08-01T14:38:57.550Z

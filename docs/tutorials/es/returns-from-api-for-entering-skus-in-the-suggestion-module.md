@@ -1,5 +1,5 @@
 ---
-title: Retornos de la API de inserción de SKUs en el módulo Suggestion
+title: 'Retornos de la API de inserción de SKUs en el módulo Suggestion'
 id: tutorials_4927
 status: PUBLISHED
 createdAt: 2017-04-27T21:49:35.443Z

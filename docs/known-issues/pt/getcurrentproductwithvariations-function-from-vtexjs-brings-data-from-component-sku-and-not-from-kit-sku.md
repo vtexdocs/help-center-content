@@ -1,5 +1,5 @@
 ---
-title: getCurrentProductWithVariations da VTEX.js traz dados do Componente SKU e não do KIT SKU.
+title: 'getCurrentProductWithVariations da VTEX.js traz dados do Componente SKU e não do KIT SKU.'
 id: 1m1bMbNXZVpQo9bQG1iSjn
 status: PUBLISHED
 createdAt: 2022-03-16T16:35:51.214Z

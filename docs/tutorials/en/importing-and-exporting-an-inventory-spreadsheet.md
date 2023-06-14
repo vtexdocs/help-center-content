@@ -1,5 +1,5 @@
 ---
-title: Importing and exporting an inventory spreadsheet
+title: 'Importing and exporting an inventory spreadsheet'
 id: tutorials_2034
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:43.488Z

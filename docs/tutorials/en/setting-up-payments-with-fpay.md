@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Fpay
+title: 'Setting up payments with Fpay'
 id: 6BaLIO2R7tOh6E1MmNoDXj
 status: PUBLISHED
 createdAt: 2022-10-18T19:13:32.326Z

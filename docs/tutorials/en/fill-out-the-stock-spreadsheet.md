@@ -1,5 +1,5 @@
 ---
-title: How to fill out the inventory spreadsheet
+title: 'How to fill out the inventory spreadsheet'
 id: 2EQ0XOe8aA0UyQso0k2kkA
 status: DRAFT
 createdAt: 2019-01-24T20:45:40.102Z

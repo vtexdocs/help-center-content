@@ -1,5 +1,5 @@
 ---
-title: "Guías prácticas para comercio B2B"
+title: 'Guías prácticas para comercio B2B'
 id: 6rKmOzPK1H85hnOdqJzX55
 status: PUBLISHED
 createdAt: 2021-04-07T12:09:48.977Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: guias-practicas-para-comercio-b2b
 legacySlug: guias-practicas-para-comercio-b2b
-announcementImageID: ""
-announcementSynopsisES: Nuevos tutoriales destacan los recursos disponibles en la plataforma para los diferentes escenarios de ecommerce B2B.
+announcementImageID: ''
+announcementSynopsisES: 'Nuevos tutoriales destacan los recursos disponibles en la plataforma para los diferentes escenarios de ecommerce B2B.'
 ---
 
 Para permitir que nuestros clientes ofrezcan experiencias de comercio diseñadas para su negocio, repensando cómo colaboran con sus clientes, proveedores y partners de canal, publicamos una nueva serie de artículos y tutoriales sobre [comercio digital B2B](https://vtex.com/ar-es/b2b-commerce/ "comercio digital B2B"):

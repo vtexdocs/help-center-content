@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Authorize.Net
+title: 'Configurar pago con Authorize.Net'
 id: 4ePVaKWbzvNBgU6GGFRAY7
 status: DRAFT
 createdAt: 2022-02-14T16:21:24.124Z

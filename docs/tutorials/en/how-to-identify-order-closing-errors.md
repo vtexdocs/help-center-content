@@ -1,5 +1,5 @@
 ---
-title: Identifying order closing errors
+title: 'Identifying order closing errors'
 id: 4VZvHbDMfuIo0gO6OscgKE
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:49.682Z

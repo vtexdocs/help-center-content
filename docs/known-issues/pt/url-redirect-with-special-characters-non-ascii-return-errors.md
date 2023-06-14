@@ -1,5 +1,5 @@
 ---
-title: URL Redirecionar com caracteres especiais erros de não retorno ascii
+title: 'URL Redirecionar com caracteres especiais erros de não retorno ascii'
 id: 3rqIVyN7gPKAz0WRzgV4Zc
 status: PUBLISHED
 createdAt: 2023-02-10T13:05:23.823Z

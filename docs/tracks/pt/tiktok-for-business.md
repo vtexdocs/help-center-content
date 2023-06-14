@@ -1,5 +1,5 @@
 ---
-title: TikTok for Business
+title: 'TikTok for Business'
 id: 7Dwfwu1aHMp1aR1yvej5nv
 status: PUBLISHED
 createdAt: 2022-04-14T21:09:09.787Z

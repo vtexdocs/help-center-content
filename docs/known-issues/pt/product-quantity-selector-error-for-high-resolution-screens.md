@@ -1,5 +1,5 @@
 ---
-title: Erro no seletor de quantidade de produto para telas de alta resolução
+title: 'Erro no seletor de quantidade de produto para telas de alta resolução'
 id: 2cxI6HTJLYul0WeUAJBl66
 status: PUBLISHED
 createdAt: 2022-04-14T22:27:52.393Z

@@ -1,5 +1,5 @@
 ---
-title: Sistema considerando vendedor 1 para limite de vendedores de regras
+title: 'Sistema considerando vendedor 1 para limite de vendedores de regras'
 id: 1bUax0hSCVrnFPZ4g1VWOa
 status: PUBLISHED
 createdAt: 2022-04-20T20:43:57.392Z

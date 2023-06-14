@@ -1,5 +1,5 @@
 ---
-title: Setting up Google Adwords
+title: 'Setting up Google Adwords'
 id: tutorials_548
 status: PUBLISHED
 createdAt: 2017-04-27T22:01:18.524Z

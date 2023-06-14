@@ -1,5 +1,5 @@
 ---
-title: "Integración con Mercado Libre: nueva interfaz para mapear categorías y atributos"
+title: 'Integración con Mercado Libre: nueva interfaz para mapear categorías y atributos'
 id: 589oLekjy3OV43kUWREpoe
 status: PUBLISHED
 createdAt: 2021-11-19T19:44:09.314Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: integracion-con-mercado-libre-nueva-interfaz-para-mapear-categorias-y
 legacySlug: integracion-con-mercado-libre-nueva-interfaz-para-mapear-categorias-y
-announcementImageID: ""
-announcementSynopsisES: La nueva interfaz para mapear categorías y atributos llega para sustituir a la plantilla de mapeo.
+announcementImageID: ''
+announcementSynopsisES: 'La nueva interfaz para mapear categorías y atributos llega para sustituir a la plantilla de mapeo.'
 ---
 
 Continuando con las mejoras realizadas para la [certificación de Mercado Libre](https://help.vtex.com/es/announcements/vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil--34D14K2Y6ogJs3OxKpQUrJ), estamos proporcionando oficialmente a todos los clientes de VTEX que operan como sellers en Mercado Libre la nueva interfaz para mapear categorías y atributos.

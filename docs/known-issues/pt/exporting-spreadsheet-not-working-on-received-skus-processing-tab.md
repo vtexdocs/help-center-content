@@ -1,5 +1,5 @@
 ---
-title: Exportação de planilhas que não funcionam na guia de processamento da Sku Recebida
+title: 'Exportação de planilhas que não funcionam na guia de processamento da Sku Recebida'
 id: cApuC5KqvuKA3ihgySLcN
 status: PUBLISHED
 createdAt: 2023-04-18T15:07:53.751Z

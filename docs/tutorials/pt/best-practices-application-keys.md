@@ -1,5 +1,5 @@
 ---
-title: Boas práticas na utilização de chaves de aplicação
+title: 'Boas práticas na utilização de chaves de aplicação'
 id: 7b6nD1VMHa49aI5brlOvJm
 status: PUBLISHED
 createdAt: 2022-10-04T21:36:57.185Z

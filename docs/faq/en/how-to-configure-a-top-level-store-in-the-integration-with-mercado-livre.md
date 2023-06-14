@@ -1,5 +1,5 @@
 ---
-title: How to configure a multi-brand store in the integration with Mercado Livre
+title: 'How to configure a multi-brand store in the integration with Mercado Livre'
 id: 5KINOatgzeS48IGwaAK8IE
 status: PUBLISHED
 createdAt: 2018-09-10T20:21:30.658Z

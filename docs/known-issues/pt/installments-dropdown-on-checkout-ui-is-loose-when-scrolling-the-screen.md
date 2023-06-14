@@ -1,5 +1,5 @@
 ---
-title: As prestações caem no checkout UI está "solta" quando se rola a tela
+title: 'As prestações caem no checkout UI está "solta" quando se rola a tela'
 id: 0bbx1aDD7qw3DmaeMOebp
 status: PUBLISHED
 createdAt: 2022-03-10T20:07:05.251Z

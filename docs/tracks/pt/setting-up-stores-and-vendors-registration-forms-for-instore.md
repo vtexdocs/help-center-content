@@ -1,5 +1,5 @@
 ---
-title: Configurar formulários de cadastro de lojas e vendedores para o inStore
+title: 'Configurar formulários de cadastro de lojas e vendedores para o inStore'
 id: 58Ztk6XfxY0y0Qqo8WesKm
 status: DRAFT
 createdAt: 2018-03-15T21:32:07.649Z

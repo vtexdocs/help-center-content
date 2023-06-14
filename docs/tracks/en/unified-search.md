@@ -1,5 +1,5 @@
 ---
-title: Unified search
+title: 'Unified search'
 id: 9sXeVwoD60qYYgRJ11r5F
 status: PUBLISHED
 createdAt: 2021-08-05T13:47:18.180Z
@@ -15,15 +15,15 @@ trackSlugEN: instore-using-the-app
 
 On VTEX Sales App's endless aisle, the sales associate can search for the desired products and add them to the cart. To do this, they must click on the magnifier on the top bar of VTEX Sales App and enter the product name, the reference code, or the EAN.
 
-![instore-search-en](https://images.ctfassets.net/alneenqid6w5/5zBP54Dt2s7P6514vC1K8z/0fe42edc9020eeb5e15859c7e6e81425/instore-search-en.png)
+![instore-search-en](//images.ctfassets.net/alneenqid6w5/5zBP54Dt2s7P6514vC1K8z/0fe42edc9020eeb5e15859c7e6e81425/instore-search-en.png)
 
 VTEX Sales App has a unified search, which means that, when a sales associate searches for a product in the application, both the local inventory (of the physical store itself) and other physical stores and distribution centers associated with the ecommerce are included in the search.
 
-![instore-search-plp-en](https://images.ctfassets.net/alneenqid6w5/1WEugAiPUVHRVTL1ph3zv2/3564246537e995a74ecd15c3a6cfc8c8/instore-search-plp-en.png)
+![instore-search-plp-en](//images.ctfassets.net/alneenqid6w5/1WEugAiPUVHRVTL1ph3zv2/3564246537e995a74ecd15c3a6cfc8c8/instore-search-plp-en.png)
 
 By clicking the <i class="fas fa-chevron-down"></i> arrow next to a product, you can see its variations, delivery options, the quantity to be added to the cart, and the `Add to cart` and `More details` buttons.
 
-![instore-search-details-en](https://images.ctfassets.net/alneenqid6w5/1itzXskqYPkJ4CghrWihy8/ee15e1947451b3ed68876643efd67569/instore-search-details-en.png)
+![instore-search-details-en](//images.ctfassets.net/alneenqid6w5/1itzXskqYPkJ4CghrWihy8/ee15e1947451b3ed68876643efd67569/instore-search-details-en.png)
 
 ## Filters
 

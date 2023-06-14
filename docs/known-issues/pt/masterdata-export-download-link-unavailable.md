@@ -1,5 +1,5 @@
 ---
-title: Link para download do Masterdata Export Não disponível
+title: 'Link para download do Masterdata Export Não disponível'
 id: 2oi0ABhQQxfPsKETeNUyvE
 status: PUBLISHED
 createdAt: 2022-07-08T13:50:43.220Z

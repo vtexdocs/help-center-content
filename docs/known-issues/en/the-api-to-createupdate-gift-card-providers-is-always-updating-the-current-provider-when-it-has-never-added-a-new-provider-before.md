@@ -1,5 +1,5 @@
 ---
-title: The API to create/update gift card providers is always updating the current provider when it has never added a new provider before.
+title: 'The API to create/update gift card providers is always updating the current provider when it has never added a new provider before.'
 id: 4W5sYMJegRRJIGqa4yhvUQ
 status: PUBLISHED
 createdAt: 2023-03-10T19:05:01.536Z

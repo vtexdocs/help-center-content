@@ -1,5 +1,5 @@
 ---
-title: Setting up the Promissory conector
+title: 'Setting up the Promissory conector'
 id: 7Gy0SJRVS0Qi2CuWMAqQc0
 status: PUBLISHED
 createdAt: 2018-06-22T15:15:02.946Z

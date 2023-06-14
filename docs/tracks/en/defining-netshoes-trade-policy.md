@@ -1,5 +1,5 @@
 ---
-title: Defining Netshoes trade policy
+title: 'Defining Netshoes trade policy'
 id: 6ESk5Zk32baNfluXbL3Xmz
 status: PUBLISHED
 createdAt: 2021-02-23T20:04:34.470Z

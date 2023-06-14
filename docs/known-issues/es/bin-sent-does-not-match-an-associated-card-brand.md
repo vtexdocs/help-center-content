@@ -1,5 +1,5 @@
 ---
-title: La papelera enviada no coincide con una marca de tarjeta asociada
+title: 'La papelera enviada no coincide con una marca de tarjeta asociada'
 id: 4GvoMVXIVOdFueGiNfcTvk
 status: PUBLISHED
 createdAt: 2022-03-26T14:46:51.930Z

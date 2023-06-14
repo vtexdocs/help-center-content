@@ -1,5 +1,5 @@
 ---
-title: La aplicación de condiciones de pago agrupadas está causando problemas de sincronización de las reglas de pago
+title: 'La aplicación de condiciones de pago agrupadas está causando problemas de sincronización de las reglas de pago'
 id: 6f7VLD1g75AfZC8nhu37lM
 status: PUBLISHED
 createdAt: 2022-03-27T19:28:53.433Z

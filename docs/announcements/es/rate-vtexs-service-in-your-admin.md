@@ -1,5 +1,5 @@
 ---
-title: "Evalúa el servicio VTEX en tu Admin"
+title: 'Evalúa el servicio VTEX en tu Admin'
 id: 7rSJLgGbtRw2GhjTJezkJf
 status: PUBLISHED
 createdAt: 2022-01-13T21:49:50.331Z
@@ -10,13 +10,13 @@ productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: evalua-el-servicio-vtex-en-tu-admin
 legacySlug: evalua-el-servicio-vtex-en-tu-admin
-announcementImageID: ""
-announcementSynopsisES: Hemos lanzado una página de encuesta de satisfacción en el Admin VTEX para que evalúes tus tickets de soporte.
+announcementImageID: ''
+announcementSynopsisES: 'Hemos lanzado una página de encuesta de satisfacción en el Admin VTEX para que evalúes tus tickets de soporte.'
 ---
 
 Hemos lanzado la nueva página *Encuesta de Satisfacción* en el Admin VTEX. Ahora, puedes evaluar nuestro servicio de soporte sin salir de la plataforma VTEX.
 
-![Pesquisa de satisfação ES](https://images.ctfassets.net/alneenqid6w5/3W8q5tdB9ZOrPT4QFMZP2D/075a8169826dbd7f0a98354b9825d467/image__18_.png)
+![Pesquisa de satisfação ES](//images.ctfassets.net/alneenqid6w5/3W8q5tdB9ZOrPT4QFMZP2D/075a8169826dbd7f0a98354b9825d467/image__18_.png)
 
 ## ¿Qué cambió?
 

@@ -1,5 +1,5 @@
 ---
-title: Tag canonical en páginas personalizadas
+title: 'Tag canonical en páginas personalizadas'
 id: 70PufEhKCcgmOQo6CkAEAc
 status: PUBLISHED
 createdAt: 2017-12-24T16:14:54.951Z

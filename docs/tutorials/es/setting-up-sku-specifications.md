@@ -1,5 +1,5 @@
 ---
-title: Configurar especificaciones de SKU
+title: 'Configurar especificaciones de SKU'
 id: 2AnTdsMR60iyA0YIuq2w68
 status: DRAFT
 createdAt: 2017-08-04T17:16:00.147Z

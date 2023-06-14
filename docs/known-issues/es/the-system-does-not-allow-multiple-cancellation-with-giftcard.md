@@ -1,5 +1,5 @@
 ---
-title: El sistema no permite la cancelación múltiple con la Tarjeta de Regalo
+title: 'El sistema no permite la cancelación múltiple con la Tarjeta de Regalo'
 id: 2htvtVV2158piX4lTYhAvE
 status: PUBLISHED
 createdAt: 2022-03-27T12:54:40.811Z

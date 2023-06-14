@@ -1,5 +1,5 @@
 ---
-title: Enabling a sales rep code
+title: 'Enabling a sales rep code'
 id: 5kNtS80hbBGg58jMeF8CRv
 status: DRAFT
 createdAt: 2021-02-04T11:42:33.284Z
@@ -41,7 +41,7 @@ After following these recommendations, access the __Store setup__ module. Then g
 
 On the right side of the screen, you will see the `checkout-instore-custom.js` file. 
 
-![codevendorEN](https://images.ctfassets.net/alneenqid6w5/71ZvVaWtn6hk5mYoISKE1y/2f4f5e201f6bc9b53fc694f7d70e05f3/codevendorEN.png)
+![codevendorEN](//images.ctfassets.net/alneenqid6w5/71ZvVaWtn6hk5mYoISKE1y/2f4f5e201f6bc9b53fc694f7d70e05f3/codevendorEN.png)
 
 Open the file and add the following piece of code to the `window.INSTORE_CONFIG` object:
 
@@ -63,7 +63,7 @@ The properties of the `window.INSTORE_CONFIG` object must be filled in according
 
 Click on the __Save__ blue button at the top of the page. 
 
-![codevendor2EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/4T3vxA5Yatu9icLNPGuyCX/f456976ff81339225eef6bd0c458e6db/codevendor2EN.png)
+![codevendor2EN.png?h=250](//images.ctfassets.net/alneenqid6w5/4T3vxA5Yatu9icLNPGuyCX/f456976ff81339225eef6bd0c458e6db/codevendor2EN.png)
 
 ## Understanding the priorities
 

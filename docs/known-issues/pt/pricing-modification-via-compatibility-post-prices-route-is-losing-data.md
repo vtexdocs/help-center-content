@@ -1,5 +1,5 @@
 ---
-title: A modificação de preços através da rota de preços pós-compatibilidade está perdendo dados
+title: 'A modificação de preços através da rota de preços pós-compatibilidade está perdendo dados'
 id: 4VqqNOUcRIGiZhxyVU4Ite
 status: PUBLISHED
 createdAt: 2022-03-29T19:12:47.179Z

@@ -1,5 +1,5 @@
 ---
-title: El permiso de "acceso total al inventario de logística" no funcionó como se esperaba
+title: 'El permiso de "acceso total al inventario de logística" no funcionó como se esperaba'
 id: 6F11U5C6cULOeJ3Jo5AgAc
 status: PUBLISHED
 createdAt: 2022-04-27T14:16:03.358Z

@@ -1,5 +1,5 @@
 ---
-title: Catalog Architecture
+title: 'Catalog Architecture'
 id: 7kz4uWVq6NoaOdUpiJv4PR
 status: PUBLISHED
 createdAt: 2019-05-17T23:09:48.278Z
@@ -34,4 +34,4 @@ Such specifications are, for example, a product's composition or an SKU's voltag
 
 An example of a VTEX Catalog architecture blueprint is found below:
 
-![arquitetura-catalogo-EN](https://images.ctfassets.net/alneenqid6w5/4P3TCN2sjS3EuMdNO6Rrkb/2bb87144a5e665c082374be39da9d7af/EN.png)
+![arquitetura-catalogo-EN](//images.ctfassets.net/alneenqid6w5/4P3TCN2sjS3EuMdNO6Rrkb/2bb87144a5e665c082374be39da9d7af/EN.png)

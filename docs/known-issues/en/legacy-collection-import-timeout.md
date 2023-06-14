@@ -1,5 +1,5 @@
 ---
-title: Legacy Collection Import Timeout
+title: 'Legacy Collection Import Timeout'
 id: 3sNnbMg00W11l46LPr130g
 status: PUBLISHED
 createdAt: 2022-02-25T12:21:12.605Z

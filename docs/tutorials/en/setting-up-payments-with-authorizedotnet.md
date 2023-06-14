@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Authorize.Net
+title: 'Setting up payments with Authorize.Net'
 id: 4ePVaKWbzvNBgU6GGFRAY7
 status: DRAFT
 createdAt: 2022-02-14T16:21:24.124Z

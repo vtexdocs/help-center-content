@@ -1,5 +1,5 @@
 ---
-title: "Fewer abandoned carts with the new Checkout heuristic"
+title: 'Fewer abandoned carts with the new Checkout heuristic'
 id: 3XLEhUnRe3jjzUGLbDEZJz
 status: CHANGED
 createdAt: 2020-05-30T13:08:43.104Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: authors_24
 slug: fewer-abandoned-carts-with-the-new-checkout-heuristic
 legacySlug: fewer-abandoned-carts-with-the-new-checkout-heuristic
-announcementImageID: ""
-announcementSynopsisEN: We changed the logic that defines the order of choice of sellers for franchise accounts, thus reducing abandoned carts.
+announcementImageID: ''
+announcementSynopsisEN: 'We changed the logic that defines the order of choice of sellers for franchise accounts, thus reducing abandoned carts.'
 ---
 
 VTEX made a change in the logic that defines the order of choice of sellers to be shown at the checkout of stores that use the [franchise accounts model](https://help.vtex.com/en/tutorial/what-are-franchise-account-and-seller-white-label--5orlGHyDHGAYciQ64oEgKa). Before, the checkout assumed that the sellers had stock and selected all who delivered to the order address. From now on, the checkout first selects only those sellers who are able to deliver to that address and then filters the sellers with stock of products in the cart.

@@ -1,5 +1,5 @@
 ---
-title: El CMS permite la creación pero no la edición de carpetas con los mismos nombres que los predeterminados
+title: 'El CMS permite la creación pero no la edición de carpetas con los mismos nombres que los predeterminados'
 id: q2Fvxfwv5MjAcqxb81avH
 status: PUBLISHED
 createdAt: 2022-04-26T14:09:30.508Z

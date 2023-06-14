@@ -1,5 +1,5 @@
 ---
-title: Creating a field in Master Data
+title: 'Creating a field in Master Data'
 id: frequentlyAskedQuestions_1829
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:59.042Z
@@ -43,7 +43,7 @@ Follow the step-by-step below:
 
 <div class="alert alert-info">More information about <strong>General Settings</strong> and <strong>Search and Filter Configurations</strong> can be found in our article on <a href="https://help.vtex.com/en/tutorial/criando-entidade-de-dados--tutorials_1265#como-configurar">Creating a data entity</a>, subsection <strong>How to set up</strong>.</div>
 
-![criar campo master data ds](https://images.ctfassets.net/alneenqid6w5/5cWru1fi0SyEAOoEbgShOI/95cabcfa4a60032d87c3294773ba4fd0/criar_campo_master_data_ds.gif)
+![criar campo master data ds](//images.ctfassets.net/alneenqid6w5/5cWru1fi0SyEAOoEbgShOI/95cabcfa4a60032d87c3294773ba4fd0/criar_campo_master_data_ds.gif)
 
 You will then return to the main Data Entity page. To complete the process, you need to publish the field. Locate the entity line in which the field was added and click on the disk icon.
 
@@ -68,6 +68,6 @@ To achieve this, follow the instructions below:
 7. Drag the field from the list entitled "available fields" to the columns entitled "column Fields 1" or "column Fields 2";
 8. In the lower part of the screen, click on the blue Save button.
 
-![criar campo master data CRM](https://images.ctfassets.net/alneenqid6w5/2ykQ9Vx7FCZLehkQpxMMmp/0b52e7bc11fc024e74c5223b8e534b65/criar_campo_master_data_CRM.gif)
+![criar campo master data CRM](//images.ctfassets.net/alneenqid6w5/2ykQ9Vx7FCZLehkQpxMMmp/0b52e7bc11fc024e74c5223b8e534b65/criar_campo_master_data_CRM.gif)
 
 Done! The fields will be displayed on the form.

@@ -1,5 +1,5 @@
 ---
-title: El descuento nominal no se distribuye entre todos los artículos de la cesta
+title: 'El descuento nominal no se distribuye entre todos los artículos de la cesta'
 id: gt1qMqN71YkaHuZgk9Ibs
 status: PUBLISHED
 createdAt: 2023-01-25T17:33:59.274Z

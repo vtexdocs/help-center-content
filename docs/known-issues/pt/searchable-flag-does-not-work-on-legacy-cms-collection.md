@@ -1,5 +1,5 @@
 ---
-title: A bandeira pesquisável não funciona na coleção CMS herdada
+title: 'A bandeira pesquisável não funciona na coleção CMS herdada'
 id: 47spDrddLoEmRbYmlj7wY2
 status: PUBLISHED
 createdAt: 2022-01-21T14:52:14.951Z

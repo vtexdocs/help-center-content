@@ -1,5 +1,5 @@
 ---
-title: What is VTEX Assisted Sales (SuiteShare)?
+title: 'What is VTEX Assisted Sales (SuiteShare)?'
 id: onWmyS8j4Thhde67UBBsB
 status: PUBLISHED
 createdAt: 2022-08-25T18:50:09.227Z

@@ -1,5 +1,5 @@
 ---
-title: Google Shopping
+title: 'Google Shopping'
 id: 2kGKxwD9HKJvTLDTikQ4zG
 status: PUBLISHED
 createdAt: 2021-04-14T14:19:25.417Z

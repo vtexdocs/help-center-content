@@ -1,5 +1,5 @@
 ---
-title: Google Analytics: FAQ
+title: 'Google Analytics: FAQ'
 id: 2VRtB07muo3vwO6KEmMVn0
 status: PUBLISHED
 createdAt: 2021-12-17T18:41:26.175Z

@@ -1,5 +1,5 @@
 ---
-title: El filtro de exportación de marcas selecciona menos SKU de las esperadas
+title: 'El filtro de exportación de marcas selecciona menos SKU de las esperadas'
 id: ZceuBTJ3FOCuWdDBRectO
 status: PUBLISHED
 createdAt: 2022-06-13T14:28:10.704Z

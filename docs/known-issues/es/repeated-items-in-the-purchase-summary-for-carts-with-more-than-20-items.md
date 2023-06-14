@@ -1,5 +1,5 @@
 ---
-title: Artículos repetidos en el resumen de compras para carros con más de 20 artículos
+title: 'Artículos repetidos en el resumen de compras para carros con más de 20 artículos'
 id: 2k76x4aStel8e4ItTHfhof
 status: PUBLISHED
 createdAt: 2022-08-24T17:26:32.083Z

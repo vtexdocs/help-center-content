@@ -1,5 +1,5 @@
 ---
-title: 
+title: ''
 id: TVb02MyXOZMVZ0367Chaf
 status: DRAFT
 createdAt: 2022-02-16T14:03:01.665Z

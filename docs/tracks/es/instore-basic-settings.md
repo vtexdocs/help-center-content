@@ -1,5 +1,5 @@
 ---
-title: VTEX Sales App - Configuración básica
+title: 'VTEX Sales App - Configuración básica'
 id: 4L5SoLxE8O3YkxF7FKymrO
 status: PUBLISHED
 createdAt: 2020-06-28T13:51:53.895Z

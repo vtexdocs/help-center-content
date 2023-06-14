@@ -1,5 +1,5 @@
 ---
-title: Los campos Calle, Barrio, Complemento y Referencia no se solicitan en el paso de la dirección en la compra
+title: 'Los campos Calle, Barrio, Complemento y Referencia no se solicitan en el paso de la dirección en la compra'
 id: 2wY4t0iIie4pjpJrs0Af3F
 status: PUBLISHED
 createdAt: 2022-04-19T18:20:30.913Z

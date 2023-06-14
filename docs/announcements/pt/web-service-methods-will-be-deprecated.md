@@ -1,5 +1,5 @@
 ---
-title: "Métodos Web Service serão descontinuados a partir de 28 de fevereiro - à exceção do Catálogo"
+title: 'Métodos Web Service serão descontinuados a partir de 28 de fevereiro - à exceção do Catálogo'
 id: 50CJTiHkFGoCO44MK4AyaI
 status: PUBLISHED
 createdAt: 2017-11-03T12:40:06.282Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
 slug: metodos-web-service-serao-descontinuados
 legacySlug: metodos-web-service-serao-descontinuados
-announcementImageID: ""
-announcementSynopsisPT: A partir de 28/02/18, o uso de Web Service será descontinuado para integrações VTEX, à exceção dos métodos do Catálogo.
+announcementImageID: ''
+announcementSynopsisPT: 'A partir de 28/02/18, o uso de Web Service será descontinuado para integrações VTEX, à exceção dos métodos do Catálogo.'
 ---
 
 A partir do dia __28 de fevereiro__, vamos descontinuar o uso de Web Service para integrações com a VTEX, __à exceção dos métodos do Catálogo__.

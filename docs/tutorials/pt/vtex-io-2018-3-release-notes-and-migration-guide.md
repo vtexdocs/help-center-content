@@ -1,5 +1,5 @@
 ---
-title: VTEX IO 2018.3 - Guia de migração
+title: 'VTEX IO 2018.3 - Guia de migração'
 id: 1r3AHYTA6sccE6YGYo4UWc
 status: DRAFT
 createdAt: 2018-03-08T02:24:24.212Z

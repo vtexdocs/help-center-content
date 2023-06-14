@@ -1,5 +1,5 @@
 ---
-title: Placeholder settings in the CMS does not display all content
+title: 'Placeholder settings in the CMS does not display all content'
 id: 66IuxgG1s382mr25Amcv7L
 status: PUBLISHED
 createdAt: 2022-03-22T15:14:47.515Z

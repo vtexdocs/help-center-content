@@ -1,5 +1,5 @@
 ---
-title: Edição na nova página do histórico de indexação mostrando como atualização produtos que já foram atualizados
+title: 'Edição na nova página do histórico de indexação mostrando como atualização produtos que já foram atualizados'
 id: 2Utn4RueMZjGxYGIh7dNBp
 status: PUBLISHED
 createdAt: 2022-10-19T00:34:17.082Z

@@ -1,5 +1,5 @@
 ---
-title: El producto inactivo sigue apareciendo en la PDP o en la caja
+title: 'El producto inactivo sigue apareciendo en la PDP o en la caja'
 id: 567gsup9oQGoMmj5utCra9
 status: PUBLISHED
 createdAt: 2022-03-14T19:50:43.917Z

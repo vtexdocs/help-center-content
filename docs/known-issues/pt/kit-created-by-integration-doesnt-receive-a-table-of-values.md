@@ -1,5 +1,5 @@
 ---
-title: Kit criado por integração não recebe uma tabela de valores
+title: 'Kit criado por integração não recebe uma tabela de valores'
 id: 1IhCGsM5a48Ai6IESYCeGQ
 status: PUBLISHED
 createdAt: 2017-03-29T23:46:50.768Z

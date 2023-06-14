@@ -1,5 +1,5 @@
 ---
-title: Planes de suscripción
+title: 'Planes de suscripción'
 id: 5kczKRqHEsrs1tYtRcY8wR
 status: CHANGED
 createdAt: 2021-07-06T14:33:32.850Z
@@ -20,7 +20,7 @@ Para que los planes de suscripción estén disponibles, primero debe instalar la
 
 En la página de **Planes**, puede ver y gestionar los planes de suscripción disponibles para los clientes de su tienda, según se ilustra a continuación.
 
-![planslist ES](https://images.ctfassets.net/alneenqid6w5/5PAOM3BmvgeIjU1ruAmEYG/d5e90eb8a6d31b3d0b66d01f0a9839e8/planslist_ES.png)
+![planslist ES](//images.ctfassets.net/alneenqid6w5/5PAOM3BmvgeIjU1ruAmEYG/d5e90eb8a6d31b3d0b66d01f0a9839e8/planslist_ES.png)
 
 Las principales funcionalidades de esta página son:
 

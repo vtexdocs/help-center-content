@@ -1,5 +1,5 @@
 ---
-title: Configurar Sinônimos
+title: 'Configurar Sinônimos'
 id: 2pmba8GLf4fuzcU3v4De3H
 status: DRAFT
 createdAt: 2019-11-25T18:07:20.082Z

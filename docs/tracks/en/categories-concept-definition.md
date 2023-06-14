@@ -1,5 +1,5 @@
 ---
-title: Categories - Concept definition
+title: 'Categories - Concept definition'
 id: 2gkZDjXRqfsq62TlAkj4uf
 status: PUBLISHED
 createdAt: 2019-05-16T17:43:28.703Z

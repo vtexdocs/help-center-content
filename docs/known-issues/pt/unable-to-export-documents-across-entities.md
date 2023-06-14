@@ -1,5 +1,5 @@
 ---
-title: Exportação de documentos com campos de duas entidades diferentes não é possível
+title: 'Exportação de documentos com campos de duas entidades diferentes não é possível'
 id: 5ed6rXDZNpVa5VOyAGrttf
 status: PUBLISHED
 createdAt: 2019-04-11T00:23:14.583Z

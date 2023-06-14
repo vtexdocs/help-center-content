@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com LibraPay
+title: 'Configurar pagamento com LibraPay'
 id: GZx4YVTVYbUf0PQFRzAne
 status: DRAFT
 createdAt: 2022-08-11T14:27:49.400Z

@@ -1,5 +1,5 @@
 ---
-title: Confirmar a propriedade da sua loja no Google Search Console (Webmaster Tools)
+title: 'Confirmar a propriedade da sua loja no Google Search Console (Webmaster Tools)'
 id: frequentlyAskedQuestions_613
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:56.418Z

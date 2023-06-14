@@ -1,5 +1,5 @@
 ---
-title: Usando a Home Page do painel administrativo
+title: 'Usando a Home Page do painel administrativo'
 id: 4lq207lkPSiAoC4AYsWsE8
 status: DRAFT
 createdAt: 2017-06-22T19:28:57.833Z

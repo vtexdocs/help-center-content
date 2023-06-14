@@ -1,5 +1,5 @@
 ---
-title: ProdutoClique o evento que não aciona na barra de busca
+title: 'ProdutoClique o evento que não aciona na barra de busca'
 id: Nk7Dkd4YoY5LXbxpWJIKz
 status: PUBLISHED
 createdAt: 2023-01-30T17:43:44.441Z

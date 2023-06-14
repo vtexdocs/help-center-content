@@ -1,5 +1,5 @@
 ---
-title: Configurar la afiliación a la Tuna
+title: 'Configurar la afiliación a la Tuna'
 id: 5Db0j4pE76ma9pUvYuAhfF
 status: PUBLISHED
 createdAt: 2021-07-07T14:47:34.162Z

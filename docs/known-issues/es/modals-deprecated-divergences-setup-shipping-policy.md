@@ -1,5 +1,5 @@
 ---
-title: Configuración de las divergencias de los modales obsoletos - Política de envíos
+title: 'Configuración de las divergencias de los modales obsoletos - Política de envíos'
 id: TYWgIv5xOTUBWdC63FbK5
 status: PUBLISHED
 createdAt: 2022-05-18T18:20:55.870Z

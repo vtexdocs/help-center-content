@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 5V92cmF9jG8KG600EwUgEg
 slug: nuevo-objeto-devuelto-a-api-get-order-cancelreason
 legacySlug: nuevo-objeto-devuelto-a-api-get-order-cancelreason
-announcementImageID: ""
-announcementSynopsisES: El JSON de pedidos regresará un nuevo objeto llamado cancelReason.
+announcementImageID: ''
+announcementSynopsisES: 'El JSON de pedidos regresará un nuevo objeto llamado cancelReason.'
 ---
 
 A partir del 10 de mayo de 2019, el JSON de pedidos devolverá un nuevo objeto llamado cancelReason.
@@ -19,9 +19,7 @@ A partir del 10 de mayo de 2019, el JSON de pedidos devolverá un nuevo objeto l
 Este objeto devuelve el motivo rellenado por el usuario para la cancelación de un pedido.
 
 Ejemplo del JSON con cancel Reason:
-
-```  
-"orderId": "922480366938-01",
+```  "orderId": "922480366938-01",
     "sequence": "500367",
     "marketplaceOrderId": "",
     "marketplaceServicesEndpoint": "http://oms.vtexinternal.com.br/api/oms?an=partnerslatam",
@@ -75,11 +73,9 @@ Ejemplo del JSON con cancel Reason:
 El valor del campo es la información rellenada en el momento de la cancelación del pedido.
 
 ## Principales ventajas
-
 El nuevo campo permite que el sistema de ERP consuma la información que fue insertada como justificación para la cancelación del pedido. Estará disponible en el informe entregado por la Gestión de Pedidos en breve.
 
-## Lo que tienes que hacer
-
+## Lo que tienes que hacer 
 Es fundamental revisar las integraciones que usan las API de Get Order, como las de ERP, por ejemplo. Aquellas que no estén preparadas para recibir la nueva respuesta deben ajustarse antes del 30 de abril de 2019.
 
 Para probar usted puede utilizar la ruta en beta:

@@ -1,5 +1,5 @@
 ---
-title: O que é uma conta para o VTEX IO?
+title: 'O que é uma conta para o VTEX IO?'
 id: u8aHpJFx2oOMyqUQEWSYU
 status: DRAFT
 createdAt: 2018-02-21T22:25:33.968Z

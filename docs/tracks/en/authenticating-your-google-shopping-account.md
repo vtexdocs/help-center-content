@@ -1,5 +1,5 @@
 ---
-title: Authenticating your account
+title: 'Authenticating your account'
 id: 44hAYlKYSRZMTNY3ELxeQ2
 status: PUBLISHED
 createdAt: 2021-04-14T22:25:19.989Z

@@ -1,5 +1,5 @@
 ---
-title: Ordering of product fields and SKUs is not saved
+title: 'Ordering of product fields and SKUs is not saved'
 id: ki4RwH9MHeuYEUmyoiYSG
 status: PUBLISHED
 createdAt: 2018-08-17T02:22:22.240Z

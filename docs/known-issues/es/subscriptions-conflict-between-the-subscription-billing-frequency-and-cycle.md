@@ -1,5 +1,5 @@
 ---
-title: Suscripciones: impase entre fecha de facturación y frecuencia del pedido
+title: 'Suscripciones: impase entre fecha de facturación y frecuencia del pedido'
 id: 4k32lnRONWU3YzXyvXJItO
 status: PUBLISHED
 createdAt: 2021-06-14T20:32:51.367Z

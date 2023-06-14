@@ -1,5 +1,5 @@
 ---
-title: Filtrar pedidos por vendedor
+title: 'Filtrar pedidos por vendedor'
 id: 3cx02v6OPY20Mue4KKokEM
 status: DRAFT
 createdAt: 2018-06-28T16:17:22.135Z
@@ -15,7 +15,7 @@ trackSlugPT: instore-setup
 
 No inStore é possível ver a listagem de todos os pedidos finalizados em uma loja:
 
-![pedidos finalizados](https://images.ctfassets.net/alneenqid6w5/2bBNpiFuswIAqsc2EGuAMe/ee70cebba8bef3fe609f31dd5a7d905c/pedidos_finalizados.png)
+![pedidos finalizados](//images.ctfassets.net/alneenqid6w5/2bBNpiFuswIAqsc2EGuAMe/ee70cebba8bef3fe609f31dd5a7d905c/pedidos_finalizados.png)
 
 Porém, algumas vezes faz sentido que um vendedor veja apenas os pedidos finalizados por ele. Para habilitar essa opção é necessário editar o arquivo `checkout-instore-custom.js` presente no admin do Portal. Por se tratar de um JavaScript presente em diversos fluxos de uso da aplicação, é importante que você tenha conhecimentos de programação antes de alterá-lo, para evitar a quebra de outras funcionalidades.
 
@@ -36,4 +36,4 @@ __IMPORTANTE__: Não remova nenhuma das outras propriedades presentes no objeto 
 
 Após recarregar o inStore o resultado deve ser o seguinte:
 
-![pedidos finalizados filtrados por vendedor](https://images.ctfassets.net/alneenqid6w5/HhNBrdQZA2YAWQa8aUm6U/4f71b847a38caabe9b708bc070fda396/pedidos_finalizados_filtrados_por_vendedor.png)
+![pedidos finalizados filtrados por vendedor](//images.ctfassets.net/alneenqid6w5/HhNBrdQZA2YAWQa8aUm6U/4f71b847a38caabe9b708bc070fda396/pedidos_finalizados_filtrados_por_vendedor.png)

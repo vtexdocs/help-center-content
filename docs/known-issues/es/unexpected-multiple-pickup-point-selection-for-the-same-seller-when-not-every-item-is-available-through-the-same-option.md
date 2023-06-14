@@ -1,5 +1,5 @@
 ---
-title: Selección inesperada de varios puntos de recogida para el mismo vendedor cuando no todos los artículos están disponibles a través de la misma opción.
+title: 'Selección inesperada de varios puntos de recogida para el mismo vendedor cuando no todos los artículos están disponibles a través de la misma opción.'
 id: 1ILqLtP5CgtO6fhqh1dAgm
 status: PUBLISHED
 createdAt: 2022-08-16T01:03:28.941Z

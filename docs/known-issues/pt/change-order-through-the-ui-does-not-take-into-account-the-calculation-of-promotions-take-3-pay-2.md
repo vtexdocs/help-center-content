@@ -1,5 +1,5 @@
 ---
-title: Mudança de ordem através da IU não leva em conta o cálculo das promoções.
+title: 'Mudança de ordem através da IU não leva em conta o cálculo das promoções.'
 id: 3rvsDyCggYirvH7WT9rBVZ
 status: PUBLISHED
 createdAt: 2022-03-15T20:25:17.217Z

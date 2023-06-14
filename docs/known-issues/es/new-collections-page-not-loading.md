@@ -1,5 +1,5 @@
 ---
-title: La página de nuevas colecciones no se carga
+title: 'La página de nuevas colecciones no se carga'
 id: 4sANd9Oah8a90vkgGmCddj
 status: PUBLISHED
 createdAt: 2022-11-01T09:33:20.028Z

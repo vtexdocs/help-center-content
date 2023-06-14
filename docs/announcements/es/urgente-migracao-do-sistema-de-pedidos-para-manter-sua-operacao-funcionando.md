@@ -1,5 +1,5 @@
 ---
-title: "URGENTE - Migración del sistema de pedidos: para mantener su operación en funcionamiento, asegúrese de que su integración esté actualizada"
+title: 'URGENTE - Migración del sistema de pedidos: para mantener su operación en funcionamiento, asegúrese de que su integración esté actualizada'
 id: 34eloUZ70DPYIcJkAevq32
 status: PUBLISHED
 createdAt: 2019-07-30T16:56:23.667Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: authors_31
 slug: urgente-migracao-do-sistema-de-pedidos-para-manter-sua-operacao-funcionando
 legacySlug: urgente-migracao-do-sistema-de-pedidos-para-manter-sua-operacao-funcionando
-announcementImageID: ""
-announcementSynopsisES: Para mantener su operación en funcionamiento, asegúrese de que su integración esté actualizada
+announcementImageID: ''
+announcementSynopsisES: 'Para mantener su operación en funcionamiento, asegúrese de que su integración esté actualizada'
 ---
 
 El día 13/06/19, [anunciamos la descontinuación de las APIs de Feed V1 y V2](/announcements/descontinuacion-del-feed-v1-y-v2-del-modulo-de-gestion-de-pedidos--4zoxe3FihrNs0yQ1g1JyG4) y la obligatoriedad de migración a V3 de este servicio. Esta API es responsable por el proceso de integración de pedidos entre VTEX y sistemas externos, como ERPs.

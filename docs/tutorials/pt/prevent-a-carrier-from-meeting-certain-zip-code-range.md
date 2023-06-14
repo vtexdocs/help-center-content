@@ -1,5 +1,5 @@
 ---
-title: Como impedir que uma transportadora atenda determinada faixa de CEP?
+title: 'Como impedir que uma transportadora atenda determinada faixa de CEP?'
 id: 6GEYG5p9E4MOEy2qmY4uGa
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:39.807Z

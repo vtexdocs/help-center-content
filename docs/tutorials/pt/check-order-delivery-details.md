@@ -1,5 +1,5 @@
 ---
-title: Ver detalhes de entrega de um pedido
+title: 'Ver detalhes de entrega de um pedido'
 id: MsdvQ3Pfc4AuQImQcSGuw
 status: DRAFT
 createdAt: 2019-01-24T20:45:43.532Z
@@ -44,7 +44,7 @@ Para ver esses detalhes, basta fazer uma [simulação de frete](/pt/tutorial/sim
 6. Informe o CEP do pedido.
 7. Clique em __Simular frete__.
 
-![simular-frete-pt](https://images.ctfassets.net/alneenqid6w5/6TPVNOKh1uKmmMGGQAoeY2/e437d4fcd8f91d28f05813f936d30f4a/simular-frete-pt.png)
+![simular-frete-pt](//images.ctfassets.net/alneenqid6w5/6TPVNOKh1uKmmMGGQAoeY2/e437d4fcd8f91d28f05813f936d30f4a/simular-frete-pt.png)
 
 Para cada transportadora considerada na simulação, você pode ver os detalhes do pedido correspondente. Para isso, clique em __detalhar__.
 

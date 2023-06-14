@@ -1,5 +1,5 @@
 ---
-title: Error al cambiar el tipo de entrega cuando el vendedor tiene recursividad
+title: 'Error al cambiar el tipo de entrega cuando el vendedor tiene recursividad'
 id: 7JLnqVWHz94sQZKMOGUkKC
 status: PUBLISHED
 createdAt: 2022-06-14T14:07:38.881Z

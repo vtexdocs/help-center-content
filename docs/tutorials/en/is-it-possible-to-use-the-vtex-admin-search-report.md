@@ -1,5 +1,5 @@
 ---
-title: Is it possible to use the VTEX Admin search report?
+title: 'Is it possible to use the VTEX Admin search report?'
 id: 2LNfAq56ta6omUiW4A4Eoc
 status: DRAFT
 createdAt: 2018-06-19T15:12:20.765Z

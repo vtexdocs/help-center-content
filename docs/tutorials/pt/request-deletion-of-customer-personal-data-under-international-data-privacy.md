@@ -1,5 +1,5 @@
 ---
-title: Solicitar exclusão de dados pessoais de clientes conforme leis internacionais sobre privacidade
+title: 'Solicitar exclusão de dados pessoais de clientes conforme leis internacionais sobre privacidade'
 id: 34Sd4DN6fOk5odkjIAedpE
 status: DRAFT
 createdAt: 2022-04-11T21:00:56.085Z

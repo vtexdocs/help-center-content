@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué no puedo insertar el sello de la promocion en el marketplace?
+title: '¿Por qué no puedo insertar el sello de la promocion en el marketplace?'
 id: frequentlyAskedQuestions_702
 status: CHANGED
 createdAt: 2017-04-27T22:29:05.018Z

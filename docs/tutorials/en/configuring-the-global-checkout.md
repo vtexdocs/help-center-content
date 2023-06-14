@@ -1,5 +1,5 @@
 ---
-title: How to set up the global checkout
+title: 'How to set up the global checkout'
 id: tutorials_1929
 status: DRAFT
 createdAt: 2017-04-27T21:55:50.812Z

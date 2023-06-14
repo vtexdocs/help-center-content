@@ -1,5 +1,5 @@
 ---
-title: "Datos de intermediario para ventas en marketplaces integrados de forma nativa"
+title: 'Datos de intermediario para ventas en marketplaces integrados de forma nativa'
 id: 76L5juzkCZa8Bn5vl6U9Cp
 status: PUBLISHED
 createdAt: 2021-03-31T13:19:17.099Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: datos-de-intermediario-para-ventas-en-marketplaces-integrados-de-forma
 legacySlug: datos-de-intermediario-para-ventas-en-marketplaces-integrados-de-forma
-announcementImageID: ""
-announcementSynopsisES: Datos de intermediarios se ponen a disposición para ventas realizadas en los marketplaces integrados de forma nativa.
+announcementImageID: ''
+announcementSynopsisES: 'Datos de intermediarios se ponen a disposición para ventas realizadas en los marketplaces integrados de forma nativa.'
 ---
 
 <div class="alert alert-warning" role="alert">

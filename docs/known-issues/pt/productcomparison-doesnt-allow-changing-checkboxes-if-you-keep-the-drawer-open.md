@@ -1,5 +1,5 @@
 ---
-title: A comparação de produtos não permite mudar as caixas de verificação se você manter a gaveta aberta
+title: 'A comparação de produtos não permite mudar as caixas de verificação se você manter a gaveta aberta'
 id: 7A5r7KC6pLAtOhqHNucpcx
 status: PUBLISHED
 createdAt: 2022-04-28T15:02:26.200Z

@@ -1,5 +1,5 @@
 ---
-title: O filtro do catálogo para o vendedor = 1 traz resultados vazios
+title: 'O filtro do catálogo para o vendedor = 1 traz resultados vazios'
 id: 3BG6c5IPa7W950vCpTFY6H
 status: PUBLISHED
 createdAt: 2023-05-03T14:37:41.635Z

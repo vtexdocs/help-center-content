@@ -1,5 +1,5 @@
 ---
-title: Ponto de retirada desconsiderado por questão de prioridade
+title: 'Ponto de retirada desconsiderado por questão de prioridade'
 id: 3bbsm8TELPBa0DpFtnlAGz
 status: PUBLISHED
 createdAt: 2021-09-29T14:38:08.930Z

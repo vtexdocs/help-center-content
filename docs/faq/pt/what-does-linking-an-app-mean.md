@@ -1,5 +1,5 @@
 ---
-title: O que significa linkar uma app?
+title: 'O que significa linkar uma app?'
 id: 6DR69MYqLCuMOgYqyWqISG
 status: DRAFT
 createdAt: 2018-02-21T22:58:51.518Z

@@ -1,5 +1,5 @@
 ---
-title: Renderizar mais de um componente na mesma rota
+title: 'Renderizar mais de um componente na mesma rota'
 id: 1ZmJCD1eycemCeeKoCoa8e
 status: DRAFT
 createdAt: 2018-02-21T23:07:00.476Z

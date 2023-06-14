@@ -1,5 +1,5 @@
 ---
-title: Product/SKU duplicate specification when changing category tree or product category
+title: 'Product/SKU duplicate specification when changing category tree or product category'
 id: 2qMpMAh6B6oGk2gEq2swCY
 status: PUBLISHED
 createdAt: 2018-04-25T21:16:08.636Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar el Google Analytics 4 en tienda VTEX en CMS Portal Legado
+title: 'Configurar el Google Analytics 4 en tienda VTEX en CMS Portal Legado'
 id: 1uGePrN9CGLdrmGAqP44Qq
 status: DRAFT
 createdAt: 2023-04-06T14:19:57.340Z

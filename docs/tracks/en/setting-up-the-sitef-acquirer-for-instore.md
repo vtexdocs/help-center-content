@@ -1,5 +1,5 @@
 ---
-title: Setting up the SiTef acquirer for inStore
+title: 'Setting up the SiTef acquirer for inStore'
 id: 1Vr97VGNNWpaoyXe0rKV8U
 status: DRAFT
 createdAt: 2020-06-28T15:39:28.422Z

@@ -1,5 +1,5 @@
 ---
-title: Por que estoy recibiendo e-mails para revisar la liquidación de un pago?
+title: 'Por que estoy recibiendo e-mails para revisar la liquidación de un pago?'
 id: frequentlyAskedQuestions_4730
 status: PUBLISHED
 createdAt: 2017-04-27T22:23:56.704Z

@@ -1,5 +1,5 @@
 ---
-title: Cadastro da integração da Magazine Luiza
+title: 'Cadastro da integração da Magazine Luiza'
 id: 4QWLcDhsh2GSSamouyu6M0
 status: PUBLISHED
 createdAt: 2018-10-17T12:39:05.174Z

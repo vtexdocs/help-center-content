@@ -1,5 +1,5 @@
 ---
-title: Configurar Pix como meio de pagamento
+title: 'Configurar Pix como meio de pagamento'
 id: 5sbNavMSJY4jyLmLKRHiOf
 status: PUBLISHED
 createdAt: 2020-11-10T19:51:24.848Z

@@ -1,5 +1,5 @@
 ---
-title: "O Marketplace Network foi aprimorado"
+title: 'O Marketplace Network foi aprimorado'
 id: 3OZNGPYF1IF3lXnrFn4u8B
 status: PUBLISHED
 createdAt: 2021-06-09T17:26:17.536Z
@@ -10,15 +10,15 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: o-marketplace-network-foi-aprimorado
 legacySlug: o-marketplace-network-foi-aprimorado
-announcementImageID: ""
-announcementSynopsisPT: O Marketplace Network foi aprimorado e adicionado em todas as lojas que atuam como sellers ou marketplaces.
+announcementImageID: ''
+announcementSynopsisPT: 'O Marketplace Network foi aprimorado e adicionado em todas as lojas que atuam como sellers ou marketplaces.'
 ---
 
 Para marketplaces e sellers do nosso ecossistema, um dos maiores desafios é conectar-se a novos parceiros para ampliar suas ofertas e seu alcance. O módulo  [Marketplace Network](https://help.vtex.com/pt/tutorial/encontre-marketplaces-e-sellers-no-ecossistema-vtex--2bzC7tXlVgLEEjxo4ixcAM) facilita essa conexão, ao funcionar como um catálogo de interessados em parcerias, permitindo o cadastro, consulta e contato entre marketplaces e sellers.
 
 O Marketplace Network foi redesenhado para melhorar sua experiência. Além disso, não é mais preciso baixar a app em nossa App Store, a funcionalidade foi inserida em todas as lojas que atuam como sellers ou marketplaces automaticamente.
 
-![Marketplace network tour](https://images.ctfassets.net/alneenqid6w5/1dSZvVeBP1yyJ1Ai5xuX12/884c2b263f35ef7e8fbffee7cb23ba84/Marketplace_network_tour.gif)
+![Marketplace network tour](//images.ctfassets.net/alneenqid6w5/1dSZvVeBP1yyJ1Ai5xuX12/884c2b263f35ef7e8fbffee7cb23ba84/Marketplace_network_tour.gif)
 
 ## O que mudou?
 As páginas do Marketplace Network passaram por algumas mudanças:

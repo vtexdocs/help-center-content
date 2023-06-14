@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con PayU South Africa
+title: 'Configurar pago con PayU South Africa'
 id: 2OSeDkC70CFS8k0pWTMMxM
 status: DRAFT
 createdAt: 2022-08-12T20:27:45.058Z

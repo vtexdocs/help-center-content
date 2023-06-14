@@ -1,5 +1,5 @@
 ---
-title: Entender por qué algunos pedidos realizados en Magalu estaban como incompletos
+title: 'Entender por qué algunos pedidos realizados en Magalu estaban como incompletos'
 id: 5eFd1ukCxF9n53TeMiCvOX
 status: PUBLISHED
 createdAt: 2022-06-14T18:50:10.262Z

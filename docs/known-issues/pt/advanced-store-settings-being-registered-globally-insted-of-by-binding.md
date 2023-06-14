@@ -1,5 +1,5 @@
 ---
-title: Configurações avançadas da loja sendo registradas globalmente através de
+title: 'Configurações avançadas da loja sendo registradas globalmente através de'
 id: 6RQtg8QEaaY25hdEh9KvBD
 status: PUBLISHED
 createdAt: 2023-04-04T03:15:55.537Z

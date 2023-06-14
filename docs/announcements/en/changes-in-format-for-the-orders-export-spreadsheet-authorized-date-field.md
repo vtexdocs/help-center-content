@@ -1,5 +1,5 @@
 ---
-title: "Changes in format for the orders export spreadsheet Authorized Date field aims to ensure the quality of our data"
+title: 'Changes in format for the orders export spreadsheet Authorized Date field aims to ensure the quality of our data'
 id: 4bEpPLIkpG90dJ3QCIujx1
 status: CHANGED
 createdAt: 2019-05-23T13:42:37.232Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: changes-in-format-for-the-orders-export-spreadsheet-authorized-date-field
 legacySlug: changes-in-format-for-the-orders-export-spreadsheet-authorized-date-field
-announcementImageID: ""
-announcementSynopsisEN: New `Authorized Date` field format ensures an easier and clearer understanding of the date when the order was authorized
+announcementImageID: ''
+announcementSynopsisEN: 'New `Authorized Date` field format ensures an easier and clearer understanding of the date when the order was authorized'
 ---
 
 Starting June 12<sup>th<sup>, 2019, we will change the format of the `Authorized Date` field, found in the [orders report](https://help.vtex.com/en/tutorial/exportando-pedidos-no-gerenciamento-de-pedidos--tutorials_6417) which is exported from the Order Management module.

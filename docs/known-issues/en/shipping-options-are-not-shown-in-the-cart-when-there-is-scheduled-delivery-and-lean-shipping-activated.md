@@ -1,5 +1,5 @@
 ---
-title: Shipping options are not shown in the cart when there is scheduled delivery and Lean Shipping activated
+title: 'Shipping options are not shown in the cart when there is scheduled delivery and Lean Shipping activated'
 id: 36iHQO4mxxTY2KbF8mkrDv
 status: PUBLISHED
 createdAt: 2023-05-26T21:26:45.607Z

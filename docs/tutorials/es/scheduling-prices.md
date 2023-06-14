@@ -1,5 +1,5 @@
 ---
-title: Programación de precios
+title: 'Programación de precios'
 id: 4vVha6TGzYkguWuMOqCcCk
 status: PUBLISHED
 createdAt: 2017-12-27T16:18:43.304Z

@@ -1,5 +1,5 @@
 ---
-title: Authorizing Mercado Livre integration in VTEX panel
+title: 'Authorizing Mercado Livre integration in VTEX panel'
 id: 4leBEAd22Icm46kGeiGgak
 status: PUBLISHED
 createdAt: 2018-08-13T14:11:18.480Z

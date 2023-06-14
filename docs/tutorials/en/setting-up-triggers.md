@@ -1,5 +1,5 @@
 ---
-title: Setting up triggers in Master Data v2
+title: 'Setting up triggers in Master Data v2'
 id: 54eVOFGhS0EWyAUieoqKWo
 status: DRAFT
 createdAt: 2018-04-02T18:01:34.840Z

@@ -1,5 +1,5 @@
 ---
-title: La lista de puntos de recogida no se puede desplazar después de buscar direcciones en el modo mapa
+title: 'La lista de puntos de recogida no se puede desplazar después de buscar direcciones en el modo mapa'
 id: 3e0JgNoWSQ0GAw8kurGrIR
 status: PUBLISHED
 createdAt: 2022-08-11T18:35:48.300Z

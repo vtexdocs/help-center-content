@@ -1,5 +1,5 @@
 ---
-title: Aprovar pagamento de boleto
+title: 'Aprovar pagamento de boleto'
 id: tutorials_184
 status: PUBLISHED
 createdAt: 2017-04-27T22:16:19.919Z
@@ -24,7 +24,7 @@ Essa aprovação pode ser feita manualmente no módulo Pedidos, conforme abaixo.
 2. Clique sobre a transação desejada.
 3. Clique no botão **Notificar Pagamento**.
 
-![NotificarPT](https://images.ctfassets.net/alneenqid6w5/6jQnmZtHygY4csKym2kC0e/f48943b3a025d87ab59a724e17188df3/NotificarPT.png)
+![NotificarPT](//images.ctfassets.net/alneenqid6w5/6jQnmZtHygY4csKym2kC0e/f48943b3a025d87ab59a724e17188df3/NotificarPT.png)
 
 **Após a aprovação do pagamento, o pedido entrará no fluxo normal de compra.**
 

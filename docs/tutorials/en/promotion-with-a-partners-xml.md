@@ -1,5 +1,5 @@
 ---
-title: Promotion with a partner's XML
+title: 'Promotion with a partner's XML'
 id: tutorials_1255
 status: DRAFT
 createdAt: 2017-04-27T21:57:04.746Z

@@ -1,5 +1,5 @@
 ---
-title: Uploading a product XML
+title: 'Uploading a product XML'
 id: tutorials_2573
 status: DRAFT
 createdAt: 2017-04-27T21:53:29.368Z

@@ -1,5 +1,5 @@
 ---
-title: As pick-ups herdadas entre os vendedores Whitelabel são tratadas como pick-ups diferentes/independentes no fluxo de compra
+title: 'As pick-ups herdadas entre os vendedores Whitelabel são tratadas como pick-ups diferentes/independentes no fluxo de compra'
 id: mfLw2RDV0C7cXNic5CwoA
 status: PUBLISHED
 createdAt: 2022-05-12T14:52:12.808Z

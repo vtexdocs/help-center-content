@@ -1,5 +1,5 @@
 ---
-title: Logo del seller no aparece en la página de producto
+title: 'Logo del seller no aparece en la página de producto'
 id: 1WIIPZibFegYSsKIIscIse
 status: PUBLISHED
 createdAt: 2018-05-08T19:35:42.171Z

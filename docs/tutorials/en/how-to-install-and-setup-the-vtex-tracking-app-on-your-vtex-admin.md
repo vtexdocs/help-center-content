@@ -1,5 +1,5 @@
 ---
-title: How to install and setup the VTEX Tracking app
+title: 'How to install and setup the VTEX Tracking app'
 id: 3ejuFsJ1m0r08cT6afpIPf
 status: PUBLISHED
 createdAt: 2020-12-22T14:35:26.561Z

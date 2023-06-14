@@ -1,5 +1,5 @@
 ---
-title: "Update grants in the Promotions module"
+title: 'Update grants in the Promotions module'
 id: 44YUkn7Xk5FfnQWcGvpl6p
 status: PUBLISHED
 createdAt: 2019-08-12T21:34:06.744Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 1E4UkWguFZAXjkguvNHPIv
 slug: update-grants-in-the-promotions-module
 legacySlug: update-grants-in-the-promotions-module
-announcementImageID: ""
-announcementSynopsisEN: We've updated the Promotions module.
+announcementImageID: ''
+announcementSynopsisEN: 'We've updated the Promotions module.'
 ---
 
 Seeking to increase customization, grant greater speed and usability, we've updated the Promotions module.
@@ -36,4 +36,4 @@ This update gives you more power over your promotions' behavior. The new buttons
 6. Tick the box next to **Use recurrence settings**
 7. Set the desired days and schedule for that promotion 
 
-![CRON 2 EN](https://images.ctfassets.net/alneenqid6w5/48EFCYtz5TvqhZVXmBasyW/d37188c1a6a742e3a086fe6984eded31/CRON_2_EN.png)
+![CRON 2 EN](//images.ctfassets.net/alneenqid6w5/48EFCYtz5TvqhZVXmBasyW/d37188c1a6a742e3a086fe6984eded31/CRON_2_EN.png)

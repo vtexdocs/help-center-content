@@ -1,5 +1,5 @@
 ---
-title: El selector de vendedores de componentes puede presentar incoherencias en los precios de entrega/envío
+title: 'El selector de vendedores de componentes puede presentar incoherencias en los precios de entrega/envío'
 id: 2agLvjXgT76ngdu3YsA6uh
 status: PUBLISHED
 createdAt: 2022-09-14T22:26:22.177Z

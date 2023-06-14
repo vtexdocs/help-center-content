@@ -1,5 +1,5 @@
 ---
-title: "Gerencie seus anúncios com o novo recurso de integração do VTEX Shopping Ads "
+title: 'Gerencie seus anúncios com o novo recurso de integração do VTEX Shopping Ads '
 id: 3cGKE2G63tRrXmrp0kbic8
 status: CHANGED
 createdAt: 2019-07-31T21:54:59.585Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: gerencie-seus-anuncios-com-o-novo-recurso-de-integracao-do-vtex-shopping
 legacySlug: gerencie-seus-anuncios-com-o-novo-recurso-de-integracao-do-vtex-shopping
-announcementImageID: ""
-announcementSynopsisPT: O app VTEX Shopping Ads agora permite o uso de contas existentes de Google Ads
+announcementImageID: ''
+announcementSynopsisPT: 'O app VTEX Shopping Ads agora permite o uso de contas existentes de Google Ads'
 ---
 
 Desde o dia 23 de julho de 2019, o aplicativo VTEX Shopping Ads, disponível para apenas para lojas VTEX com operação no Brasil, permite o uso de contas existentes de Google Ads. 

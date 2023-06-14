@@ -1,5 +1,5 @@
 ---
-title: Exibição incorreta da quantidade da embalagem no checkout
+title: 'Exibição incorreta da quantidade da embalagem no checkout'
 id: 1ZphoPLQZyHJpvPlXWb1oR
 status: PUBLISHED
 createdAt: 2022-07-11T12:58:18.388Z

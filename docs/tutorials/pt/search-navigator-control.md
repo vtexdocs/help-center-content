@@ -1,5 +1,5 @@
 ---
-title: Como funciona o controle Search Navigator
+title: 'Como funciona o controle Search Navigator'
 id: 2VFmZawWZiW0ckeqoscieS
 status: PUBLISHED
 createdAt: 2018-02-22T19:19:44.082Z

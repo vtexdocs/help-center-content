@@ -1,5 +1,5 @@
 ---
-title: Configurar Konduto
+title: 'Configurar Konduto'
 id: tutorials_3125
 status: PUBLISHED
 createdAt: 2017-04-27T21:52:18.180Z

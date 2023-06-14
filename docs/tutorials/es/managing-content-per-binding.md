@@ -1,5 +1,5 @@
 ---
-title: Gestionar el contenido según el binding
+title: 'Gestionar el contenido según el binding'
 id: 5CZjZPMqi0ZNpuqzF6AUOn
 status: PUBLISHED
 createdAt: 2021-05-05T18:34:08.372Z

@@ -1,5 +1,5 @@
 ---
-title: Search doesn't encode hyphen and replaces it with a space
+title: 'Search doesn't encode hyphen and replaces it with a space'
 id: 1jH0EdXaKiIyIe8ucgCmwI
 status: PUBLISHED
 createdAt: 2018-05-29T22:02:32.123Z

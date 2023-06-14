@@ -1,5 +1,5 @@
 ---
-title: Cómo funciona el Merge Payments
+title: 'Cómo funciona el Merge Payments'
 id: 3YozHxPuUEg6msoE6oEi84
 status: DRAFT
 createdAt: 2018-03-12T20:27:05.415Z

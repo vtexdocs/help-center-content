@@ -1,5 +1,5 @@
 ---
-title: Errores de integración de pedidos de Amazon
+title: 'Errores de integración de pedidos de Amazon'
 id: QCOquR8cai882HhDOqNm7
 status: PUBLISHED
 createdAt: 2021-08-31T15:43:51.365Z

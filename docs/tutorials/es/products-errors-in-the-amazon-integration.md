@@ -1,5 +1,5 @@
 ---
-title: Errores de integración de productos de Amazon
+title: 'Errores de integración de productos de Amazon'
 id: 77ukHsrYpb8OSpkJc9poBj
 status: PUBLISHED
 createdAt: 2022-02-10T22:41:02.341Z

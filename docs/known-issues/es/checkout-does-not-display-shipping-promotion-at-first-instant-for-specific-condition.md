@@ -1,5 +1,5 @@
 ---
-title: El pago no muestra la promoción de envío en el primer instante para una condición específica
+title: 'El pago no muestra la promoción de envío en el primer instante para una condición específica'
 id: 14rQaM53csQQeA1wu5lRj8
 status: PUBLISHED
 createdAt: 2022-05-20T17:46:10.644Z

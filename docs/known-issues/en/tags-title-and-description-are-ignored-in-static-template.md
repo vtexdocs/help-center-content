@@ -1,5 +1,5 @@
 ---
-title: Tags title and description are ignored in static template
+title: 'Tags title and description are ignored in static template'
 id: 2ElYglcUPOQieoUUG6akqo
 status: PUBLISHED
 createdAt: 2017-09-05T20:55:36.892Z

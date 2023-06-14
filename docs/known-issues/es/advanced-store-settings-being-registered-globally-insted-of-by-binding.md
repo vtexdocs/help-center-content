@@ -1,5 +1,5 @@
 ---
-title: La configuración avanzada de la tienda se registra globalmente en lugar de por vinculación
+title: 'La configuración avanzada de la tienda se registra globalmente en lugar de por vinculación'
 id: 6RQtg8QEaaY25hdEh9KvBD
 status: PUBLISHED
 createdAt: 2023-04-04T03:15:55.537Z

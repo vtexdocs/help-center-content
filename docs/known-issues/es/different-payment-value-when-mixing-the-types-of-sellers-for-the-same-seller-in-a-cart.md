@@ -1,5 +1,5 @@
 ---
-title: Valor de pago diferente cuando se mezclan los tipos de vendedores para el mismo vendedor en un carro.
+title: 'Valor de pago diferente cuando se mezclan los tipos de vendedores para el mismo vendedor en un carro.'
 id: 7txlcqRF5XLB014Z31pXaL
 status: PUBLISHED
 createdAt: 2023-05-08T22:25:15.897Z

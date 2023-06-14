@@ -1,5 +1,5 @@
 ---
-title: A desactualização do Mastercard Debit regex está nos levando a identificar erroneamente alguns BINs
+title: 'A desactualização do Mastercard Debit regex está nos levando a identificar erroneamente alguns BINs'
 id: 5gx4dSY2P5gGE0JI661hGL
 status: PUBLISHED
 createdAt: 2022-08-20T00:03:11.640Z

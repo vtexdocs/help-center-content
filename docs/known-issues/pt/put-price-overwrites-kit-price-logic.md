@@ -1,5 +1,5 @@
 ---
-title: Coloca Preço Sobrescreve Lógica de Preço do KIT
+title: 'Coloca Preço Sobrescreve Lógica de Preço do KIT'
 id: 6eUXEJkxQUl6NCiFWrIiFw
 status: PUBLISHED
 createdAt: 2022-06-28T16:56:02.848Z

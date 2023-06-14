@@ -1,5 +1,5 @@
 ---
-title: Edição sobre a tradução de títulos para algumas facetas
+title: 'Edição sobre a tradução de títulos para algumas facetas'
 id: iG3Kb1AfH7QIqYn1ewnuw
 status: PUBLISHED
 createdAt: 2023-03-22T19:26:31.477Z

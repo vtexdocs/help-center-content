@@ -1,5 +1,5 @@
 ---
-title: Introduction to VTEX APIs
+title: 'Introduction to VTEX APIs'
 id: 3SjAqQ0BeUqu2ge8AiIkmW
 status: DRAFT
 createdAt: 2017-06-08T20:46:13.393Z
@@ -116,7 +116,7 @@ They are divided by module or functionality.  Click on one of them to find the c
  
 On the right side of these indications, Postman displays one Sample Request for each API. In accordance with the wording selected on the check box placed above it, the Sample Request shows the application of the request in the code.
 
-![sample request](https://images.ctfassets.net/alneenqid6w5/3wK9xsMZmwca8IeygiYOyO/fc875afab27a1abb9c812ec62e511ec9/sample_request.png)
+![sample request](//images.ctfassets.net/alneenqid6w5/3wK9xsMZmwca8IeygiYOyO/fc875afab27a1abb9c812ec62e511ec9/sample_request.png)
  
 Some APIs also have a Sample Response, which is an example of a response to that request.
  

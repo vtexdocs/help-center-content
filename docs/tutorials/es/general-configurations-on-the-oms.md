@@ -1,5 +1,5 @@
 ---
-title: Configuraciones Generales de los Pedidos
+title: 'Configuraciones Generales de los Pedidos'
 id: tutorials_194
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:49.644Z
@@ -18,7 +18,7 @@ Es posible realizar configuraciones directamente relacionadas con las condicione
 
 En el Admin VTEX, accede a **Configuración de la tienda > Pedidos > Configuración**, o escribe *Pedidos* en la barra de búsqueda en la parte superior de la página, y haga clic en *Configuración de la tienda / Pedidos*.  
 
-![configuracoes_pedidos_es](https://images.ctfassets.net/alneenqid6w5/3Pg3IFrgPiGdwsIJowvNBy/228fb71ccb74cc99cb820bac2b5a94d1/configuracoes_pedidos_es.png)
+![configuracoes_pedidos_es](//images.ctfassets.net/alneenqid6w5/3Pg3IFrgPiGdwsIJowvNBy/228fb71ccb74cc99cb820bac2b5a94d1/configuracoes_pedidos_es.png)
 
 ## Carrito
 

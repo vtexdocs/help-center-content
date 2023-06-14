@@ -1,5 +1,5 @@
 ---
-title: Ordenação dos horários de entrega agendados no checkout
+title: 'Ordenação dos horários de entrega agendados no checkout'
 id: 2ZAhWeQbJe6kWgoCEMEMWQ
 status: PUBLISHED
 createdAt: 2018-09-18T18:32:16.155Z
@@ -19,7 +19,7 @@ internalReference:
 
 Atualmente os horários de entrega para uma entrega agendada estão fora de ordem, ou em ordenação decrescente. Para melhor legibilidade, é esperado que estas informações sejam ordenadas de forma crescente.
 
-![image](https://images.ctfassets.net/alneenqid6w5/dpGWYjydIAiC2i4qEigsm/0334f47a61fa7dcc4defe1cde08d616b/image.png)
+![image](//images.ctfassets.net/alneenqid6w5/dpGWYjydIAiC2i4qEigsm/0334f47a61fa7dcc4defe1cde08d616b/image.png)
 
 ## Simulação
 

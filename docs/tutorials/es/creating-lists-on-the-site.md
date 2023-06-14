@@ -1,5 +1,5 @@
 ---
-title: Crear listas de regalo en el sitio
+title: 'Crear listas de regalo en el sitio'
 id: tutorials_248
 status: DRAFT
 createdAt: 2017-04-27T22:12:16.638Z

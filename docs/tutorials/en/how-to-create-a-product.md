@@ -1,5 +1,5 @@
 ---
-title: Seller Portal: How to create a product
+title: 'Seller Portal: How to create a product'
 id: 671zAWe0B9eCikzDu7kB1G
 status: PUBLISHED
 createdAt: 2021-04-12T15:24:41.873Z
@@ -166,7 +166,7 @@ The specifications you’ve created and their respective options will be listed 
 
 By combining these different options, the system automatically generates a list of SKUs and displays it in the **[Variations](#variations)** section.
 
-![variations EN](https://images.ctfassets.net/alneenqid6w5/DkJNVLdFQ6BuBUDPwt2Xj/c37697e3259b102f8292be8378cf6e2b/variations_EN.png)
+![variations EN](//images.ctfassets.net/alneenqid6w5/DkJNVLdFQ6BuBUDPwt2Xj/c37697e3259b102f8292be8378cf6e2b/variations_EN.png)
 
 ## Specifications
 
@@ -221,7 +221,7 @@ To edit a large number of variations at once, you can use the Bulk edit feature 
 
 1. Click on the `Bulk editing` button to open the variation editing spreadsheet.
 2. To edit information, double-click on the field you want to change.
-![edicao-massa-SKU-EN](https://images.ctfassets.net/alneenqid6w5/6WRJU5vCWJKjH0ULhdbCdV/279480fdf223ea60584f27ba4b8c2e05/image.png)
+![edicao-massa-SKU-EN](//images.ctfassets.net/alneenqid6w5/6WRJU5vCWJKjH0ULhdbCdV/279480fdf223ea60584f27ba4b8c2e05/image.png)
 
 You can edit the following information:
 - **Active:** whether the variation is active or not.
@@ -237,7 +237,7 @@ You can edit the following information:
 To filter the columns displayed in the spreadsheet, click on `Filter columns` and select the columns you want to hide.
 
 You can replicate information from one cell to other rows and columns. To do this, click on the blue square in the lower right corner of the cell and drag to the cells where you want to automatically replicate the value, as shown in the image below.
-![Formatacao-celula-EN](https://images.ctfassets.net/alneenqid6w5/7cFtECFGcmmDTQ6Oy3qGTg/b0171c41044f0a8653d13a696a33534f/Formatacao-celula-EN.gif)
+![Formatacao-celula-EN](//images.ctfassets.net/alneenqid6w5/7cFtECFGcmmDTQ6Oy3qGTg/b0171c41044f0a8653d13a696a33534f/Formatacao-celula-EN.gif)
 3.  After editing, click on `Apply` to save the changes.
 
 ## SEO

@@ -1,5 +1,5 @@
 ---
-title: "Nuevo flujo de Autorización de pedidos para conectores nativos"
+title: 'Nuevo flujo de Autorización de pedidos para conectores nativos'
 id: 3Y6aNbbRJRQxn7kykYPfU6
 status: PUBLISHED
 createdAt: 2021-12-28T20:44:32.579Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: nuevo-flujo-de-autorizacion-de-pedidos-para-conectores-nativos
 legacySlug: nuevo-flujo-de-autorizacion-de-pedidos-para-conectores-nativos
-announcementImageID: ""
-announcementSynopsisES: Pedidos de conectores nativos con error de divergencia de precios ahora son procesados por Gestión de pedidos.
+announcementImageID: ''
+announcementSynopsisES: 'Pedidos de conectores nativos con error de divergencia de precios ahora son procesados por Gestión de pedidos.'
 ---
 
 Cuando el precio establecido por un seller es diferente del precio ofrecido por los marketplaces, es posible que los pedidos realizados en los marketplaces no se procesen correctamente. En VTEX, el flujo de Autorización de pedidos permite el control y aprobación automática de estos pedidos, en base a la configuración que hace el seller de una [regla de Divergencia de precios](https://help.vtex.com/es/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW).

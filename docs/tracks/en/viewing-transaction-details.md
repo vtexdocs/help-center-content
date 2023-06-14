@@ -1,5 +1,5 @@
 ---
-title: Viewing transaction details
+title: 'Viewing transaction details'
 id: 3Nt40DMEWkvhlpaL5PlBy
 status: PUBLISHED
 createdAt: 2019-11-26T17:51:49.079Z

@@ -1,5 +1,5 @@
 ---
-title: Minimum stock control for integrations
+title: 'Minimum stock control for integrations'
 id: 5hvUNIiSeJ5QCaZQYpYf1D
 status: PUBLISHED
 createdAt: 2020-10-16T15:25:46.901Z
@@ -39,7 +39,7 @@ To set the minimum inventory for your integration, follow the steps below:
 2. In the Marketplace > Connection menu, click on **Integrations**.
 3. Select the **Settings** option.
 4. Choose the integration you want to configure.
-5. Then, click on the gears icon <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
+5. Then, click on the gears icon <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
 6. Select the **Edit Config** option.
 7. In the **Minimum inventory** field, enter the desired value.
 8. **Save** your changes.

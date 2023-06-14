@@ -1,5 +1,5 @@
 ---
-title: "Las tiendas tienen hasta el 20 de abril para activar el nuevo CDN"
+title: 'Las tiendas tienen hasta el 20 de abril para activar el nuevo CDN'
 id: 5adW2wXWCIyAW2yOmoo2gC
 status: PUBLISHED
 createdAt: 2018-01-19T12:38:21.031Z
@@ -10,8 +10,8 @@ productTeam: Reliability
 author: authors_24
 slug: las-tiendas-tienen-hasta-20-de-abril-para-activar-nuevo-cdn
 legacySlug: las-tiendas-tienen-hasta-20-de-abril-para-activar-nuevo-cdn
-announcementImageID: ""
-announcementSynopsisES: El nuevo CDN de VTEX ya estaba disponible desde octubre de 2017, trayendo más seguridad y mejor desempeño.
+announcementImageID: ''
+announcementSynopsisES: 'El nuevo CDN de VTEX ya estaba disponible desde octubre de 2017, trayendo más seguridad y mejor desempeño.'
 ---
 
 El nuevo CDN de VTEX es una solución de entrega de contenido más segura y más rápida. Con ella, su tienda pasará a soportar HTTP/2, que mejora su eficiencia y la experiencia del usuario. Este cambio es una evolución en la arquitectura que VTEX utiliza para entregar las páginas de su tienda.

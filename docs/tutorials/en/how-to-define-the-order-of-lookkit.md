@@ -1,5 +1,5 @@
 ---
-title: Defining the order of kit look products
+title: 'Defining the order of kit look products'
 id: frequentlyAskedQuestions_621
 status: CHANGED
 createdAt: 2019-01-24T20:45:56.692Z

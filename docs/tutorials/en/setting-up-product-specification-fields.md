@@ -1,5 +1,5 @@
 ---
-title: Setting up product specification fields
+title: 'Setting up product specification fields'
 id: tutorials_271
 status: DRAFT
 createdAt: 2017-04-27T22:10:51.348Z

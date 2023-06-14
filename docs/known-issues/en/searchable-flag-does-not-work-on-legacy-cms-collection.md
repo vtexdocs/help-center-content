@@ -1,5 +1,5 @@
 ---
-title: Searchable flag does not work on legacy CMS Collection
+title: 'Searchable flag does not work on legacy CMS Collection'
 id: 47spDrddLoEmRbYmlj7wY2
 status: PUBLISHED
 createdAt: 2022-01-21T14:52:14.951Z

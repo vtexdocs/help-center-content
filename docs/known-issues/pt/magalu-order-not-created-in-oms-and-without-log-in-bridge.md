@@ -1,5 +1,5 @@
 ---
-title: [Magalu] Pedido não criado no OMS e sem log no Bridge
+title: '[Magalu] Pedido não criado no OMS e sem log no Bridge'
 id: 3PlXX7uTMjwhlxXOIgfnSG
 status: PUBLISHED
 createdAt: 2022-10-06T12:48:46.567Z

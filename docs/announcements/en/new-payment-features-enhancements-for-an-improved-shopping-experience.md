@@ -1,5 +1,5 @@
 ---
-title: "New Payment Features: enhancements for an Improved Shopping Experience"
+title: 'New Payment Features: enhancements for an Improved Shopping Experience'
 id: 3b5C6DabaGrWsS9Jahs75D
 status: PUBLISHED
 createdAt: 2023-05-29T14:05:55.900Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: new-payment-features-enhancements-for-an-improved-shopping-experience
 legacySlug: new-payment-features-enhancements-for-an-improved-shopping-experience
-announcementImageID: ""
-announcementSynopsisEN: We present the recent improvements in the Payments module to enhance your shopping experience.
+announcementImageID: ''
+announcementSynopsisEN: 'We present the recent improvements in the Payments module to enhance your shopping experience.'
 ---
 
 We have developed improvements for the **Payments** module to enhance your shopping experience. With additional features, we offer more convenience, security, and cost reduction. 

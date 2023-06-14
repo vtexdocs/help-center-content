@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with VirtusPay
+title: 'Setting up payments with VirtusPay'
 id: 2Agqwp19cwyIbxuHErVG8I
 status: CHANGED
 createdAt: 2022-08-11T15:02:59.728Z

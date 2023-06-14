@@ -1,5 +1,5 @@
 ---
-title: The validity of the promissory doesn't cancel the transaction
+title: 'The validity of the promissory doesn't cancel the transaction'
 id: 3mm3tWIDKOAE9b0Yq0Wy70
 status: PUBLISHED
 createdAt: 2022-03-28T02:33:39.185Z

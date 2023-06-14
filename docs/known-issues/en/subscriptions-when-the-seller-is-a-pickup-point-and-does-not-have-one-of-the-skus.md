@@ -1,5 +1,5 @@
 ---
-title: Subscriptions when the seller is a Pickup Point and does not have one of the SKUs.
+title: 'Subscriptions when the seller is a Pickup Point and does not have one of the SKUs.'
 id: 4xIlZZQu8cK42otvvbjhMA
 status: PUBLISHED
 createdAt: 2022-10-03T12:50:59.047Z

@@ -1,5 +1,5 @@
 ---
-title: How the queries in Master Data v1 work
+title: 'How the queries in Master Data v1 work'
 id: tutorials_4629
 status: DRAFT
 createdAt: 2017-04-27T21:49:52.453Z

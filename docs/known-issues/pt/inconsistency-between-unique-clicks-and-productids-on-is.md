@@ -1,5 +1,5 @@
 ---
-title: Inconsistência entre cliques únicos e produtos em SI
+title: 'Inconsistência entre cliques únicos e produtos em SI'
 id: 2pELjlOTtAuE47OMB7rA1B
 status: PUBLISHED
 createdAt: 2022-04-07T14:47:56.735Z

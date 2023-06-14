@@ -1,5 +1,5 @@
 ---
-title: A opção de coleta não retorna a opção selecionada se a troca entre a entrega e a coleta
+title: 'A opção de coleta não retorna a opção selecionada se a troca entre a entrega e a coleta'
 id: 12AvDe4dD8IQ2WaDKTSeXx
 status: PUBLISHED
 createdAt: 2022-09-21T21:06:28.853Z

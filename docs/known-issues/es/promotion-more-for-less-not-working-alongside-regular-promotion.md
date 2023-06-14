@@ -1,5 +1,5 @@
 ---
-title: Promoción Más por Menos no funciona junto con la promoción regular
+title: 'Promoción Más por Menos no funciona junto con la promoción regular'
 id: 7MhNRYvHedtAKGPBBVulc4
 status: PUBLISHED
 createdAt: 2022-12-16T18:52:03.482Z

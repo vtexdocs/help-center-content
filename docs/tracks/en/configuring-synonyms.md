@@ -1,5 +1,5 @@
 ---
-title: Configuring Synonyms
+title: 'Configuring Synonyms'
 id: 3ExbC3QKNF4zH7Gs8jD1cL
 status: PUBLISHED
 createdAt: 2019-11-29T12:04:33.557Z

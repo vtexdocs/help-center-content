@@ -1,5 +1,5 @@
 ---
-title: Cómo funciona la promoción Compre y gane
+title: 'Cómo funciona la promoción Compre y gane'
 id: tutorials_322
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:41.148Z

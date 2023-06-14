@@ -1,5 +1,5 @@
 ---
-title: Comportamento inesperado no layout deslizante ao usar os prumos infinite=true e navigationStep=1
+title: 'Comportamento inesperado no layout deslizante ao usar os prumos infinite=true e navigationStep=1'
 id: 2uSG9sqj32yL3wHt0SUnOO
 status: PUBLISHED
 createdAt: 2022-02-01T19:49:07.658Z

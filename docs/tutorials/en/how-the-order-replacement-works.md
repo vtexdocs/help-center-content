@@ -1,5 +1,5 @@
 ---
-title: How the Order Replacement works
+title: 'How the Order Replacement works'
 id: 3aBxdbUPKgweug68YyK8oQ
 status: DRAFT
 createdAt: 2017-05-25T18:12:10.611Z
@@ -62,7 +62,7 @@ With this feature, your store users get a redesigned My Orders page with change 
 
 ![meus pedidos1 EN](//images.contentful.com/alneenqid6w5/6qCTCcaC2WSE8AgcGuI2YM/c435205525f59c10f5c04c664229044b/meus_pedidos1_EN.png)
 
-![meus pedidos3 EN](https://images.ctfassets.net/alneenqid6w5/r8wqLRzyGOEmGcMuWQYMg/3fa6aaad6bd888246457d9e96e704516/meus_pedidos3_EN.png)
+![meus pedidos3 EN](//images.ctfassets.net/alneenqid6w5/r8wqLRzyGOEmGcMuWQYMg/3fa6aaad6bd888246457d9e96e704516/meus_pedidos3_EN.png)
 
 When you select **Change order**, the customers are taken to a screen where they choose which information they would like to replace:
 

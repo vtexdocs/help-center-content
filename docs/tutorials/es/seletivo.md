@@ -1,5 +1,5 @@
 ---
-title: Seletivo
+title: 'Seletivo'
 id: 7zjQVFhGbwYZ7NW8yKRSKX
 status: PUBLISHED
 createdAt: 2022-08-29T15:13:28.472Z

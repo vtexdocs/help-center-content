@@ -1,5 +1,5 @@
 ---
-title: No se ha añadido el valor de la recompensa o se ha añadido un valor diferente a la tarjeta regalo
+title: 'No se ha añadido el valor de la recompensa o se ha añadido un valor diferente a la tarjeta regalo'
 id: 3i9TwGKpYOkwnHUXDON9V7
 status: PUBLISHED
 createdAt: 2023-06-14T16:06:37.154Z

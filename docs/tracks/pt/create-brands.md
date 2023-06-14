@@ -1,5 +1,5 @@
 ---
-title: Cadastrar Marcas
+title: 'Cadastrar Marcas'
 id: 7lEGOSpAlQJCs5eUc5XFmR
 status: PUBLISHED
 createdAt: 2019-05-16T20:24:10.456Z
@@ -38,7 +38,7 @@ As informações preenchidas no cadastro podem ser atualizadas a qualquer moment
 
 Para excluir o cadastro de alguma marca, você deve clicar na seta ao lado de  `Alterar ` e selecionar a opção `Excluir`. 
 
-![editar-marca pt](https://images.ctfassets.net/alneenqid6w5/3lz8nIX88GLSISJCiFk1h7/c45e2225e20611d450e91f3e97bc24c9/editar-marca_PT.png)
+![editar-marca pt](//images.ctfassets.net/alneenqid6w5/3lz8nIX88GLSISJCiFk1h7/c45e2225e20611d450e91f3e97bc24c9/editar-marca_PT.png)
 
 ## API
 

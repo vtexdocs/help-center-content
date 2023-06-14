@@ -1,5 +1,5 @@
 ---
-title: Campos de tradução de categoria sendo sobregravados no catálogo graphql
+title: 'Campos de tradução de categoria sendo sobregravados no catálogo graphql'
 id: 2nZlEN8Tlt7oKfF77u63ch
 status: PUBLISHED
 createdAt: 2023-03-22T15:48:59.725Z

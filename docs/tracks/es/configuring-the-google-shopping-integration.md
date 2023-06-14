@@ -1,5 +1,5 @@
 ---
-title: Configuración de la integración 
+title: 'Configuración de la integración '
 id: 7jttxOIppfjVGgCMA8rrBt
 status: PUBLISHED
 createdAt: 2021-04-14T15:26:21.436Z

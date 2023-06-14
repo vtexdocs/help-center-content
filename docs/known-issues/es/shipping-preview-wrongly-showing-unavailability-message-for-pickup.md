@@ -1,5 +1,5 @@
 ---
-title: La vista previa del envío muestra erróneamente un mensaje de no disponibilidad para la recogida
+title: 'La vista previa del envío muestra erróneamente un mensaje de no disponibilidad para la recogida'
 id: 6ntmev0Atk04FGnEy1U3QZ
 status: PUBLISHED
 createdAt: 2023-03-03T19:54:08.912Z

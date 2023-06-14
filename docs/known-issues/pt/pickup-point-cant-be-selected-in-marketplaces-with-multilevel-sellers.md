@@ -1,5 +1,5 @@
 ---
-title: O ponto de coleta não pode ser selecionado em mercados com vendedores multiníveis
+title: 'O ponto de coleta não pode ser selecionado em mercados com vendedores multiníveis'
 id: 1DGiyBrbw9qXGVMhX3k5gs
 status: PUBLISHED
 createdAt: 2023-01-11T19:57:54.964Z

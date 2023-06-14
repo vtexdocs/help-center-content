@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Ame Digital
+title: 'Setting up payments with Ame Digital'
 id: 4oEhDjLM4uk95X8omwLEG2
 status: PUBLISHED
 createdAt: 2022-02-14T17:02:38.944Z

@@ -1,5 +1,5 @@
 ---
-title: "Mercado Libre integration: New size chart"
+title: 'Mercado Libre integration: New size chart'
 id: 2obbDH8UcSlGVjoyNy92so
 status: PUBLISHED
 createdAt: 2022-06-29T19:33:31.118Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: mercado-libre-integration-new-size-chart
 legacySlug: mercado-libre-integration-new-size-chart
-announcementImageID: ""
-announcementSynopsisEN: We launched the new Mercado Libre size chart for stores that operate as sellers on the marketplace.
+announcementImageID: ''
+announcementSynopsisEN: 'We launched the new Mercado Libre size chart for stores that operate as sellers on the marketplace.'
 ---
 
 Continuing with the improvements that were completed for the [Mercado Libre certification](https://help.vtex.com/en/announcements/vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil--34D14K2Y6ogJs3OxKpQUrJ), we are launching the new Mercado Libre size chart for all VTEX stores that operate as sellers on the marketplace.

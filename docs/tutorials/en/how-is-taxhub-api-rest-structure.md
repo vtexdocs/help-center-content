@@ -1,5 +1,5 @@
 ---
-title: How is TaxHub API REST structure
+title: 'How is TaxHub API REST structure'
 id: 3vYjLUeJlmse4u6qoCCKEi
 status: DRAFT
 createdAt: 2017-07-25T22:41:58.700Z

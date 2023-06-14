@@ -1,5 +1,5 @@
 ---
-title: O pagamento e a divisão da transação não funcionam na mesma ordem para o Inventário Multilevel Omnichannel
+title: 'O pagamento e a divisão da transação não funcionam na mesma ordem para o Inventário Multilevel Omnichannel'
 id: 3rFyqzEnSwx2czwdlgDovU
 status: PUBLISHED
 createdAt: 2023-03-23T19:03:22.498Z

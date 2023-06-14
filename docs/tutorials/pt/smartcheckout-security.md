@@ -1,5 +1,5 @@
 ---
-title: Segurança do SmartCheckout
+title: 'Segurança do SmartCheckout'
 id: 3SrJuuhrqwePUg1rp1exfB
 status: PUBLISHED
 createdAt: 2022-05-12T21:08:03.866Z

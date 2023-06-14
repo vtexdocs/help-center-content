@@ -1,5 +1,5 @@
 ---
-title: Mi suscripción muestra un mensaje de error cuando la suscripción está asociada a un punto de recogida
+title: 'Mi suscripción muestra un mensaje de error cuando la suscripción está asociada a un punto de recogida'
 id: 4p9jzcVzB6E5b6PTm2Ng5E
 status: PUBLISHED
 createdAt: 2022-12-15T19:08:41.210Z

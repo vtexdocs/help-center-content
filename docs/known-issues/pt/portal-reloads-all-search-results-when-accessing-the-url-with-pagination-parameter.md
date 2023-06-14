@@ -1,5 +1,5 @@
 ---
-title: O portal recarrega todos os resultados da busca ao acessar a URL com parâmetro de paginação.
+title: 'O portal recarrega todos os resultados da busca ao acessar a URL com parâmetro de paginação.'
 id: 18Y8yYKByGTzMxyYhk1pdl
 status: PUBLISHED
 createdAt: 2022-01-23T02:35:50.182Z

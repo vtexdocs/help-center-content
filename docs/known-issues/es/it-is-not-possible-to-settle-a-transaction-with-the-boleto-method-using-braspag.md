@@ -1,5 +1,5 @@
 ---
-title: No es posible liquidar una transacción con el método del boleto utilizando BrasPag
+title: 'No es posible liquidar una transacción con el método del boleto utilizando BrasPag'
 id: 6bMohwJUByz5EX16Gn7CiR
 status: PUBLISHED
 createdAt: 2022-04-07T16:01:35.802Z

@@ -1,5 +1,5 @@
 ---
-title: As transações de verificação ao salvar o cartão em MyCards não são automaticamente canceladas
+title: 'As transações de verificação ao salvar o cartão em MyCards não são automaticamente canceladas'
 id: 3VqRlcnzHqDEx7v1IIlBuf
 status: PUBLISHED
 createdAt: 2022-03-27T15:14:55.382Z

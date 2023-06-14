@@ -1,5 +1,5 @@
 ---
-title: O cartão-presente Native está adicionando crédito, embora retorne 500
+title: 'O cartão-presente Native está adicionando crédito, embora retorne 500'
 id: 1EngiQGhpPorgURRsszMX4
 status: PUBLISHED
 createdAt: 2023-02-27T20:40:44.824Z

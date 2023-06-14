@@ -1,5 +1,5 @@
 ---
-title: Searches with % at the end not working correctly
+title: 'Searches with % at the end not working correctly'
 id: 5WHCCpoBpopbGBk0lE3dOD
 status: PUBLISHED
 createdAt: 2022-03-30T23:31:43.172Z

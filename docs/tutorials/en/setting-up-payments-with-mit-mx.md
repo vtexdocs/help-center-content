@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with MIT-MX
+title: 'Setting up payments with MIT-MX'
 id: 5UKZ32LxJBGUUoT7Yt0SUJ
 status: DRAFT
 createdAt: 2022-03-29T19:22:16.508Z

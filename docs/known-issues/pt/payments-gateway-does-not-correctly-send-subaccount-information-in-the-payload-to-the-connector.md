@@ -1,5 +1,5 @@
 ---
-title: O Gateway de Pagamentos não envia corretamente as informações da subconta na carga útil para o conector
+title: 'O Gateway de Pagamentos não envia corretamente as informações da subconta na carga útil para o conector'
 id: 49kjQUzk5LmPmfeCxpqdzg
 status: PUBLISHED
 createdAt: 2023-05-02T19:55:08.282Z

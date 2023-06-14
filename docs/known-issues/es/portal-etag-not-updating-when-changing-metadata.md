@@ -1,5 +1,5 @@
 ---
-title: El Etag del portal no se actualiza al cambiar los metadatos
+title: 'El Etag del portal no se actualiza al cambiar los metadatos'
 id: 5en7I1i58RXjB6x2ZzlINp
 status: PUBLISHED
 createdAt: 2022-06-28T16:56:32.249Z

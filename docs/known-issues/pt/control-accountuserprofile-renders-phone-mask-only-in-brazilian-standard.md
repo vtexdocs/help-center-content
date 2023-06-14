@@ -1,5 +1,5 @@
 ---
-title: Controle accountUserProfile renderiza máscara de telefone apenas no padrão brasileiro
+title: 'Controle accountUserProfile renderiza máscara de telefone apenas no padrão brasileiro'
 id: 76NuOCa920CYq2wSgSAyOc
 status: PUBLISHED
 createdAt: 2017-08-15T14:49:39.178Z

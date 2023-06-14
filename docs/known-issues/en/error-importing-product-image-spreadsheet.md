@@ -1,5 +1,5 @@
 ---
-title: Error importing product image spreadsheet
+title: 'Error importing product image spreadsheet'
 id: 4Ydb20N43mQA4a4O6wmss2
 status: PUBLISHED
 createdAt: 2018-04-13T00:00:44.849Z

@@ -1,5 +1,5 @@
 ---
-title: How to create a data entity
+title: 'How to create a data entity'
 id: tutorials_1265
 status: PUBLISHED
 createdAt: 2017-04-27T21:56:57.118Z

@@ -1,5 +1,5 @@
 ---
-title: Agregar o editar un mapeo de URL por importación de planilla
+title: 'Agregar o editar un mapeo de URL por importación de planilla'
 id: 3DmMmLdsw0KaeEYuKS0sEC
 status: DRAFT
 createdAt: 2017-08-04T15:08:47.560Z
@@ -23,4 +23,4 @@ La estructura del archivo debe de ser la siguiente:
 - Columna D: Fecha Inicial (Formato: DD/MM/AAAA)
 - Columna E: Fecha Final (Formato: DD/MM/AAAA)
 
-![urlbuilder es](https://images.ctfassets.net/alneenqid6w5/3R4XJx8UHekUASMY6euqAy/24705df3a75db5c4fcc780102689c322/urlbuilder_es.png)
+![urlbuilder es](//images.ctfassets.net/alneenqid6w5/3R4XJx8UHekUASMY6euqAy/24705df3a75db5c4fcc780102689c322/urlbuilder_es.png)

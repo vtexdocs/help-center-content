@@ -1,5 +1,5 @@
 ---
-title: Voucher (GiftCard) de cliente no localizado en el módulo administrativo al realizar consulta por CPF
+title: 'Voucher (GiftCard) de cliente no localizado en el módulo administrativo al realizar consulta por CPF'
 id: 57ReN0F8H6iAsimuMoUe8Q
 status: PUBLISHED
 createdAt: 2017-07-27T15:42:13.805Z

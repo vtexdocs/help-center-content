@@ -1,5 +1,5 @@
 ---
-title: No es posible cargar nuevos medios/documentos en un espacio de trabajo de desarrollo cuando la entidad tiene más de 10k documentos.
+title: 'No es posible cargar nuevos medios/documentos en un espacio de trabajo de desarrollo cuando la entidad tiene más de 10k documentos.'
 id: zhDX1xoXAifH9tYroXCFn
 status: PUBLISHED
 createdAt: 2023-04-24T20:01:04.211Z

@@ -1,5 +1,5 @@
 ---
-title: "VTEX anuncia sua integração com a Amazon"
+title: 'VTEX anuncia sua integração com a Amazon'
 id: 7igmBX4QogMoCQ4y6wEyow
 status: PUBLISHED
 createdAt: 2017-10-27T17:29:26.231Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: authors_59
 slug: vtex-anuncia-sua-integracao-com-a-amazon
 legacySlug: vtex-anuncia-sua-integracao-com-a-amazon
-announcementImageID: ""
-announcementSynopsisPT: Agora nossos clientes já podem se conectar com um dos maiores varejistas do mundo
+announcementImageID: ''
+announcementSynopsisPT: 'Agora nossos clientes já podem se conectar com um dos maiores varejistas do mundo'
 ---
 
 A VTEX anuncia sua nova integração com a Amazon. Agora nossos clientes já podem se conectar com um dos maiores varejistas do mundo. A integração é nativa, pode ser acompanhada e configurada pelo módulo Bridge e funciona de maneira similar a dos outros marketplaces nativos da VTEX.

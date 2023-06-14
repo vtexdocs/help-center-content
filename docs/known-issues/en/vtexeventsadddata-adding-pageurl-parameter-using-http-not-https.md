@@ -1,5 +1,5 @@
 ---
-title: vtex.events.addData adding pageUrl Parameter using http, not https
+title: 'vtex.events.addData adding pageUrl Parameter using http, not https'
 id: GKPhSAhbbODMlXwmcm0qX
 status: PUBLISHED
 createdAt: 2022-12-13T15:32:13.749Z

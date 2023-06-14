@@ -1,5 +1,5 @@
 ---
-title: "¡El Admin VTEX ahora está disponible en tailandés!"
+title: '¡El Admin VTEX ahora está disponible en tailandés!'
 id: 5m9yr7mmr2T0j8wLqGHsRm
 status: PUBLISHED
 createdAt: 2022-07-25T18:21:01.616Z
@@ -10,8 +10,8 @@ productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: el-admin-vtex-ahora-esta-disponible-en-tailandes
 legacySlug: el-admin-vtex-ahora-esta-disponible-en-tailandes
-announcementImageID: ""
-announcementSynopsisES:  Admin con una nueva opción de idioma.
+announcementImageID: ''
+announcementSynopsisES: ' Admin con una nueva opción de idioma.'
 ---
 
 El Admin VTEX admite diferentes opciones de idiomas para atender a nuestros clientes en todo el mundo. Localizamos nuestro producto para mejorar tu experiencia en general, no solo mediante traducciones, sino también a nivel cultural al tomar en cuenta las particularidades de cada país.

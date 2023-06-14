@@ -1,5 +1,5 @@
 ---
-title: "Mejora de seguridad en la primera compra del cliente"
+title: 'Mejora de seguridad en la primera compra del cliente'
 id: DKlfRaMNHxgQhUT5VqRrK
 status: DRAFT
 createdAt: 2023-04-28T12:35:44.503Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: mejora-de-seguridad-en-la-primera-compra-del-cliente
 legacySlug: mejora-de-seguridad-en-la-primera-compra-del-cliente
-announcementImageID: ""
-announcementSynopsisES: Nueva cookie en el Checkout permite aumentar la seguridad en tu tienda
+announcementImageID: ''
+announcementSynopsisES: 'Nueva cookie en el Checkout permite aumentar la seguridad en tu tienda'
 ---
 
 Con el fin de aumentar la seguridad de la información de tu tienda, VTEX ha introducido mejoras en el acceso a los datos del cliente cuando realiza su primera compra. A partir del 30 de Junio de 2023, se le envía al cliente una nueva cookie en el momento en que crea el carrito, lo que impide que terceros utilicen medios externos para acceder a su información personal.

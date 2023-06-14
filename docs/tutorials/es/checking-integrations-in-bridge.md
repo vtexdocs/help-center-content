@@ -1,5 +1,5 @@
 ---
-title: Comprobar status de integración en el panel del Integrations
+title: 'Comprobar status de integración en el panel del Integrations'
 id: tutorials_422
 status: PUBLISHED
 createdAt: 2017-04-27T22:05:50.596Z

@@ -1,5 +1,5 @@
 ---
-title: Structure configuration for Live Support
+title: 'Structure configuration for Live Support'
 id: SxhYiiqUJYiQX4CIWxmVE
 status: PUBLISHED
 createdAt: 2022-08-23T15:25:37.553Z

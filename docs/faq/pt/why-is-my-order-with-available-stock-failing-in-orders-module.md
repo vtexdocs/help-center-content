@@ -1,5 +1,5 @@
 ---
-title: Por que meu pedido com estoque disponível está dando erro no módulo Pedidos?
+title: 'Por que meu pedido com estoque disponível está dando erro no módulo Pedidos?'
 id: 2FZHMJFo8oyWW46gYSqqOc
 status: PUBLISHED
 createdAt: 2018-03-07T14:26:47.000Z

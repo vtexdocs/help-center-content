@@ -1,5 +1,5 @@
 ---
-title: Hacer que la colección de productos pueda buscarse
+title: 'Hacer que la colección de productos pueda buscarse'
 id: 50ZmQc9nNmkMcqgKQEu4Qe
 status: PUBLISHED
 createdAt: 2018-02-22T14:39:42.033Z

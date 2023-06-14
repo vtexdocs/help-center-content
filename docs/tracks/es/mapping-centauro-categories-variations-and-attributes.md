@@ -1,5 +1,5 @@
 ---
-title: Mapeo de categorías, variaciones y atributos de Centauro
+title: 'Mapeo de categorías, variaciones y atributos de Centauro'
 id: 5Lc42XVVABaidvEjm4Ki9
 status: PUBLISHED
 createdAt: 2020-10-20T19:20:09.544Z

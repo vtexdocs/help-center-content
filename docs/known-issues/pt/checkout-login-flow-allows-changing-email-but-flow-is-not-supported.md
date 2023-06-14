@@ -1,5 +1,5 @@
 ---
-title: O fluxo de login do checkout permite alterar o e-mail, mas não há suporte para o fluxo
+title: 'O fluxo de login do checkout permite alterar o e-mail, mas não há suporte para o fluxo'
 id: 2wP6MBxvyd3kFDmlgYx4Tk
 status: PUBLISHED
 createdAt: 2023-05-03T18:09:50.683Z

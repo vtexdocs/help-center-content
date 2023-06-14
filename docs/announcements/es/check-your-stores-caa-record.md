@@ -1,5 +1,5 @@
 ---
-title: "Revise las entradas CAA en su tienda"
+title: 'Revise las entradas CAA en su tienda'
 id: 4mBSMpdCByI4c6G64G82Um
 status: PUBLISHED
 createdAt: 2018-11-01T14:32:53.355Z
@@ -10,8 +10,8 @@ productTeam: Reliability
 author: 245tA425AIeioKAk2eaiwS
 slug: actualiza-las-entradas-caa-en-su-tienda
 legacySlug: actualiza-las-entradas-caa-en-su-tienda
-announcementImageID: ""
-announcementSynopsisES: Recomendamos que actualice las entradas CAA de sus administradores DNS hasta 9/11.
+announcementImageID: ''
+announcementSynopsisES: 'Recomendamos que actualice las entradas CAA de sus administradores DNS hasta 9/11.'
 ---
 
 Con el acercamiento a __Black Friday__, le recomendamos que actualice las entradas CAA en sus Gestores de DNS hasta el __9 de noviembre__. Esta acción es necesaria para que se genere y se renueve el certificado SSL. Sólo así es posible utilizar el CDN de VTEX.

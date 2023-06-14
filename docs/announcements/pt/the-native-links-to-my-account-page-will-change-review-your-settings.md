@@ -1,5 +1,5 @@
 ---
-title: "Os links nativos para a página Minha Conta vão mudar - revise suas configurações"
+title: 'Os links nativos para a página Minha Conta vão mudar - revise suas configurações'
 id: 5fZyY8ZBL4jni69eJOSEZO
 status: PUBLISHED
 createdAt: 2020-01-30T13:36:02.201Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: authors_31
 slug: os-links-nativos-para-a-pagina-minha-conta-vao-mudar-revise-suas
 legacySlug: os-links-nativos-para-a-pagina-minha-conta-vao-mudar-revise-suas
-announcementImageID: ""
-announcementSynopsisPT: A partir do dia 9 de março, os links nativos da plataforma passarão a direcionar o usuário para a página Minha Conta.
+announcementImageID: ''
+announcementSynopsisPT: 'A partir do dia 9 de março, os links nativos da plataforma passarão a direcionar o usuário para a página Minha Conta.'
 ---
 
 A página "Minha Conta", nativa na plataforma, que exibe todas as informações pessoais e de compra ao consumidor, recebeu uma série de evoluções nos últimos meses. Uma dessas evoluções foi a unificação de todos os dados relacionados ao cliente em uma só página. 
@@ -34,7 +34,7 @@ A revisão e o eventual ajuste desta mudança devem ser aplicados através dos t
 
 Passos necessários para a revisão e adaptação:
 
-1. __Configuração básica__: revise se o template da página "/account" (ilustração abaixo) já utiliza a view part `<vtex.cmc:accountUserProfile />` e a atualize se houver necessidade. Esta view part é responsável por carregar todas as informações do cliente, incluindo seus pedidos. As view parts anteriores, `<vtex.cmc:accountAddress/>` e `<vtex.cmc:orderList />` devem ser removidas deste template.![account](https://images.ctfassets.net/alneenqid6w5/LIki0Pf7j1gOUi01EIajh/f7089fece0b6b10921fcb969066e2f4a/account.png)
+1. __Configuração básica__: revise se o template da página "/account" (ilustração abaixo) já utiliza a view part `<vtex.cmc:accountUserProfile />` e a atualize se houver necessidade. Esta view part é responsável por carregar todas as informações do cliente, incluindo seus pedidos. As view parts anteriores, `<vtex.cmc:accountAddress/>` e `<vtex.cmc:orderList />` devem ser removidas deste template.![account](//images.ctfassets.net/alneenqid6w5/LIki0Pf7j1gOUi01EIajh/f7089fece0b6b10921fcb969066e2f4a/account.png)
 2. __Customização__: se a página "/account/orders" possuir alguma customização de front-end, esta deve ser migrada e adaptada para a nova URL "/account#/orders". Revise e realize todos os testes necessários garantindo funcionamento de todas as recursos personalizados;  
 3. __Links do site__: Revise e atualize todos os links customizados do site e dos e-mails transacionais que antes direcionavam o usuário para a URL "/account/orders". Estes links agora devem direcionar o usuário para "/account#/orders".
 

@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with WompiCoV2
+title: 'Setting up payments with WompiCoV2'
 id: SnkXNUXkESqKxfFZu0LS4
 status: PUBLISHED
 createdAt: 2023-04-14T13:55:18.776Z

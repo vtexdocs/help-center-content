@@ -1,5 +1,5 @@
 ---
-title: Ao selecionar o SKU as prateleiras complementares não são atualizadas
+title: 'Ao selecionar o SKU as prateleiras complementares não são atualizadas'
 id: VTJ27UixWu8kuoiQ8G8O2
 status: PUBLISHED
 createdAt: 2017-08-18T19:33:30.804Z

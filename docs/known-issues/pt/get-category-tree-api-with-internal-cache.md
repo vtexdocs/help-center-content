@@ -1,5 +1,5 @@
 ---
-title: GET Category Tree API com cache interno
+title: 'GET Category Tree API com cache interno'
 id: 4HZBeY6dv2fsCQXuZJKiSg
 status: PUBLISHED
 createdAt: 2022-06-21T14:53:59.237Z

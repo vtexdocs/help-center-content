@@ -1,5 +1,5 @@
 ---
-title: No se puede abonar con MercadoPago Redirect y Vale en carrito con producto Seller
+title: 'No se puede abonar con MercadoPago Redirect y Vale en carrito con producto Seller'
 id: 2WwCIW6chacwYakYUemOyQ
 status: PUBLISHED
 createdAt: 2017-11-15T14:46:42.109Z

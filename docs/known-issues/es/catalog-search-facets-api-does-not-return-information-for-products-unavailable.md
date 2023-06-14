@@ -1,5 +1,5 @@
 ---
-title: La API de Facetas de Búsqueda del Catálogo no devuelve la información de los productos no disponibles
+title: 'La API de Facetas de Búsqueda del Catálogo no devuelve la información de los productos no disponibles'
 id: 1JrbscqI4BQgFqfVuRZIl8
 status: PUBLISHED
 createdAt: 2022-05-23T13:58:53.501Z

@@ -1,5 +1,5 @@
 ---
-title: Product Image sorting doesn't respect the Catalog order
+title: 'Product Image sorting doesn't respect the Catalog order'
 id: 4E9tl6c3lOOkFsOaemJfVg
 status: PUBLISHED
 createdAt: 2022-10-21T16:43:20.702Z

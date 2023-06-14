@@ -1,5 +1,5 @@
 ---
-title: Búsqueda no entiende guión y lo reemplaza por espacio
+title: 'Búsqueda no entiende guión y lo reemplaza por espacio'
 id: 1jH0EdXaKiIyIe8ucgCmwI
 status: PUBLISHED
 createdAt: 2018-05-29T22:02:32.123Z

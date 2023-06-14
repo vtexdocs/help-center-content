@@ -1,5 +1,5 @@
 ---
-title: Chrome's back button doesn't function correctly when inside the admin's Order management module
+title: 'Chrome's back button doesn't function correctly when inside the admin's Order management module'
 id: 4NmjhQWbFfmr2NkKGQ3gTJ
 status: DRAFT
 createdAt: 2019-07-04T21:19:09.582Z

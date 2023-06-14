@@ -1,5 +1,5 @@
 ---
-title: Propiedad blockClass de infoCard no funciona
+title: 'Propiedad blockClass de infoCard no funciona'
 id: LTEEWCaZx2unBWSEJFDw6
 status: PUBLISHED
 createdAt: 2023-01-31T19:02:03.835Z

@@ -1,5 +1,5 @@
 ---
-title: Cadastrar vendedores no VTEX inStore
+title: 'Cadastrar vendedores no VTEX inStore'
 id: 1ZIpcUTUNu6CWYcOiG2064
 status: DRAFT
 createdAt: 2017-06-16T13:54:19.101Z

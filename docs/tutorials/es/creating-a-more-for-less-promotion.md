@@ -1,5 +1,5 @@
 ---
-title: Crear promoción Más por Menos
+title: 'Crear promoción Más por Menos'
 id: tutorials_325
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:17.186Z

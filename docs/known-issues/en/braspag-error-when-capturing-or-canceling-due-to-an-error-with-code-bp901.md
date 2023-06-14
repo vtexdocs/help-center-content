@@ -1,5 +1,5 @@
 ---
-title: Braspag error when capturing or canceling due to an error with code BP901
+title: 'Braspag error when capturing or canceling due to an error with code BP901'
 id: 6jNI8lEoQe7t9hLVdD0T2R
 status: PUBLISHED
 createdAt: 2022-06-14T17:08:24.367Z

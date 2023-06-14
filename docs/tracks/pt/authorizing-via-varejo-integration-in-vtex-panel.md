@@ -1,5 +1,5 @@
 ---
-title: Autorizar integração da Via Varejo no painel da VTEX
+title: 'Autorizar integração da Via Varejo no painel da VTEX'
 id: 4I7P4ZG6Bi6O2yIqYo4K4Y
 status: DRAFT
 createdAt: 2018-09-24T19:40:48.550Z

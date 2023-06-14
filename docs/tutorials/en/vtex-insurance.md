@@ -1,5 +1,5 @@
 ---
-title: VTEX Insurance
+title: 'VTEX Insurance'
 id: 2aF3SDIj5t2qGe3bWKCjLD
 status: PUBLISHED
 createdAt: 2023-05-23T20:15:25.639Z

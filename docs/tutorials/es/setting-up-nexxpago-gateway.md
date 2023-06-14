@@ -1,5 +1,5 @@
 ---
-title: Configurar gateway Nexxpago
+title: 'Configurar gateway Nexxpago'
 id: 28Fgmof1WYEeAcM8MkOcWm
 status: PUBLISHED
 createdAt: 2018-04-18T15:46:11.611Z

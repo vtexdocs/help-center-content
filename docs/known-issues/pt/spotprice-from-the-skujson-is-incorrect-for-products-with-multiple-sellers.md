@@ -1,5 +1,5 @@
 ---
-title: spotPrice do skuJson é incorreto para produtos com múltiplos Vendedores
+title: 'spotPrice do skuJson é incorreto para produtos com múltiplos Vendedores'
 id: 6rgLJCE1DYPXZj1Pqt6hA2
 status: PUBLISHED
 createdAt: 2022-02-24T15:32:40.223Z

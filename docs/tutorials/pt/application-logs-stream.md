@@ -1,5 +1,5 @@
 ---
-title: Recursos do License Manager - Application Logs Stream
+title: 'Recursos do License Manager - Application Logs Stream'
 id: 3xab6foVYbLpl5ue03wUAj
 status: DRAFT
 createdAt: 2022-02-16T14:02:05.358Z

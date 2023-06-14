@@ -1,5 +1,5 @@
 ---
-title: Condições de Regras de merchandising
+title: 'Condições de Regras de merchandising'
 id: 3Dvava8LSVcFKeS2S6J7XW
 status: PUBLISHED
 createdAt: 2023-04-03T17:57:24.274Z

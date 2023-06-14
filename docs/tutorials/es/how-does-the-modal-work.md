@@ -1,5 +1,5 @@
 ---
-title: Cómo funciona el modal
+title: 'Cómo funciona el modal'
 id: tutorials_125
 status: CHANGED
 createdAt: 2017-04-27T22:18:25.410Z

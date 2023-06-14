@@ -1,5 +1,5 @@
 ---
-title: Null column error when trying to import freight spreadsheet
+title: 'Null column error when trying to import freight spreadsheet'
 id: 5I6sN4rFqE6UMu6eMc8UEk
 status: PUBLISHED
 createdAt: 2018-09-28T15:57:20.736Z

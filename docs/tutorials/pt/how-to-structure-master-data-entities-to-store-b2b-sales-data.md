@@ -1,5 +1,5 @@
 ---
-title: Como estruturar entidades do Master Data para armazenar dados de venda B2B
+title: 'Como estruturar entidades do Master Data para armazenar dados de venda B2B'
 id: 7vHtMxXLc9oYnEfajjtTqL
 status: PUBLISHED
 createdAt: 2020-05-29T12:32:31.968Z

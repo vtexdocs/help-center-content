@@ -1,5 +1,5 @@
 ---
-title: Los usuarios no pueden acceder a la interfaz de usuario de configuración de crédito de cliente en el Admin debido a un error prohibido
+title: 'Los usuarios no pueden acceder a la interfaz de usuario de configuración de crédito de cliente en el Admin debido a un error prohibido'
 id: 3RBofop7gS1VlKEDHozclF
 status: PUBLISHED
 createdAt: 2022-02-24T13:19:29.719Z

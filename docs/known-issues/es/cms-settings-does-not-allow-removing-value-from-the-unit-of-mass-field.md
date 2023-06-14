@@ -1,5 +1,5 @@
 ---
-title: La configuración del CMS no permite eliminar el valor del campo Unidad de Masa
+title: 'La configuración del CMS no permite eliminar el valor del campo Unidad de Masa'
 id: QVmSN1VuGQUiklZDkarEI
 status: PUBLISHED
 createdAt: 2022-03-11T13:49:28.490Z

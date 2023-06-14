@@ -1,5 +1,5 @@
 ---
-title: Portal don't respect the tag "Principal" of SKU's Image
+title: 'Portal don't respect the tag "Principal" of SKU's Image'
 id: 2ej5V3eIGgkUoo0Omgacc6
 status: CHANGED
 createdAt: 2017-04-17T18:35:42.842Z

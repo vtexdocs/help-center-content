@@ -1,5 +1,5 @@
 ---
-title: Transactions with the TNSPay connector being denied by error: Card not ENROLLED in 3DS
+title: 'Transactions with the TNSPay connector being denied by error: Card not ENROLLED in 3DS'
 id: 2jZefzH8LYqPJxkmylmyA0
 status: PUBLISHED
 createdAt: 2022-03-14T13:21:56.187Z

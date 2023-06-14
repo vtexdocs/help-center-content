@@ -1,5 +1,5 @@
 ---
-title: Adicionar ou editar um mapeamento de URL por importação de planiliha
+title: 'Adicionar ou editar um mapeamento de URL por importação de planiliha'
 id: 3DmMmLdsw0KaeEYuKS0sEC
 status: DRAFT
 createdAt: 2017-08-04T15:08:47.560Z
@@ -25,4 +25,4 @@ A estrutura do arquivo deve ser a seguinte:
 - Coluna D: Data Inicial (Formato: DD/MM/AAAA)
 - Coluna E: Data Final (Formato: DD/MM/AAAA)
 
-![urlbuilder1](https://images.ctfassets.net/alneenqid6w5/5lgNG0muqcMmS2coOkyKgw/f96b218bfbe58e04ae16869a11f174e8/urlbuilder1.png)
+![urlbuilder1](//images.ctfassets.net/alneenqid6w5/5lgNG0muqcMmS2coOkyKgw/f96b218bfbe58e04ae16869a11f174e8/urlbuilder1.png)

@@ -1,5 +1,5 @@
 ---
-title: O redirecionamento com parâmetros no CMS Builder não funciona
+title: 'O redirecionamento com parâmetros no CMS Builder não funciona'
 id: 54X9i44JmLTO5uII1E98yL
 status: PUBLISHED
 createdAt: 2022-07-06T19:15:29.327Z

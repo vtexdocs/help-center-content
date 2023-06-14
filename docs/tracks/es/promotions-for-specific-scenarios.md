@@ -1,5 +1,5 @@
 ---
-title: Promociones para escenarios específicos
+title: 'Promociones para escenarios específicos'
 id: jOu9b69mKbrTDfSJYAawy
 status: CHANGED
 createdAt: 2020-01-22T13:55:51.326Z
@@ -37,7 +37,7 @@ La pantalla de configuración de la promoción ofrece dos listas de SKUs, que pu
 
 Puede, entonces, definir un valor de descuento para cada una de estas listas. Si, por ejemplo, la lista 1 tiene un 10% de descuento y la lista 2 un 5% de descuento, cuando el carrito tenga al menos un producto de cada una de estas listas, se concederá un descuento total del 10% sobre el valor de los ítems de la lista 1 y un descuento del 5% sobre el valor de los ítems de la lista 2.
 
-![Compre Junto - ES](https://images.ctfassets.net/alneenqid6w5/6Heut08iWTOC9Ph1CpVjJ0/255d0f4409b49327640aebba743afe6b/Screenshot_2020-06-24_https_lojadobreno_myvtex_com.png)
+![Compre Junto - ES](//images.ctfassets.net/alneenqid6w5/6Heut08iWTOC9Ph1CpVjJ0/255d0f4409b49327640aebba743afe6b/Screenshot_2020-06-24_https_lojadobreno_myvtex_com.png)
 
 Dos ejemplos de este tipo de promoción serían "Compre un pantalón y gane 10% de descuento en la compra de un cinturón" y "Compre un par de zapatos + un par de calcetines y gane 15% de descuento".
 
@@ -49,7 +49,7 @@ La promoción Más por Menos se utiliza para otorgar un descuento cuando el clie
 
 En la configuración de la promoción Más por Menos, la tienda debe definir a qué colecciones o SKUs se aplicará. Luego, elija el número de ítems en el carrito para que funcione y el número de ítems con descuento.
 
-![Leve mais por menos - ES](https://images.ctfassets.net/alneenqid6w5/2oKj9TshOn5AWpgPHP2UT4/27f982cc7854eccb0ff656f3e6f70606/Screenshot_2020-06-24_https_lojadobreno_myvtex_com_1_.png)
+![Leve mais por menos - ES](//images.ctfassets.net/alneenqid6w5/2oKj9TshOn5AWpgPHP2UT4/27f982cc7854eccb0ff656f3e6f70606/Screenshot_2020-06-24_https_lojadobreno_myvtex_com_1_.png)
 
 Por ejemplo:
 
@@ -68,7 +68,7 @@ Al configurar la promoción de Descuento Progresivo, la tienda debe definir a qu
 
 Para continuar la progresión del descuento, haga clic en el botón "+". Se agregará una nueva línea y, entonces, podrá agregar un nuevo descuento. Por ejemplo: para los siguientes 2 productos, el cliente recibirá un descuento adicional del 5%. Y así sucesivamente.
 
-![Desconto progressivo - ES](https://images.ctfassets.net/alneenqid6w5/2JgsOt6rikmlj5SeXNEjvo/f245c7434417c86f0d8cccd977d68907/Screenshot_2020-06-24_https_lojadobreno_myvtex_com_2_.png)
+![Desconto progressivo - ES](//images.ctfassets.net/alneenqid6w5/2JgsOt6rikmlj5SeXNEjvo/f245c7434417c86f0d8cccd977d68907/Screenshot_2020-06-24_https_lojadobreno_myvtex_com_2_.png)
 
 Para entender la promoción del Descuento Progresivo con más detalle, vea el artículo <a href="https://help.vtex.com/es/tutorial/descuento-progresivo--tutorials_324">Cómo el Descuento Progresivo funciona</a>.
 
@@ -78,7 +78,7 @@ La promoción Compre y Gane se utiliza para ofrecer flete gratis o un regalo si 
 
 El descuento aplicado (flete gratis o regalo) debe definirse en los datos generales de la promoción. Luego, la tienda debe elegir las colecciones o SKUs a los que se aplicará. Finalmente, debe definir la cantidad mínima de ítems en el carrito para que la promoción funcione.
 
-![Compre e Ganhe - ES](https://images.ctfassets.net/alneenqid6w5/3VixYm5a1Yj3Qb30ZSWVWp/054fe69fe18da0a1636309d621adcc59/Screenshot_2020-06-24_https_lojadobreno_myvtex_com_3_.png)
+![Compre e Ganhe - ES](//images.ctfassets.net/alneenqid6w5/3VixYm5a1Yj3Qb30ZSWVWp/054fe69fe18da0a1636309d621adcc59/Screenshot_2020-06-24_https_lojadobreno_myvtex_com_3_.png)
 
 Para entender la promoción Compre y Gane con más detalle, vea el artículo  <a href="https://help.vtex.com/es/tutorial/compre-y-gane--tutorials_322">Cómo funciona la promoción Compre y Gane</a>.
 
@@ -92,22 +92,22 @@ Es importante señalar que esta posibilidad es <strong>válida apenas para una p
 
 Después de rellenar todos [los campos de una promoción regular](https://help.vtex.com/es/tutorial/regular-promotion--tutorials_327) con descuento porcentual, puede seleccionar la opción __Definir la cantidad máxima de ítems afectados por carrito__ en la sección __Restricciones y limitaciones de uso__.
 
-![Limites de itens - ES](https://images.ctfassets.net/alneenqid6w5/4Z5PxhDSo3baaPwtNOuCnM/3ff74fed7b7652368f70fc1dab936000/image__14_.png)
+![Limites de itens - ES](//images.ctfassets.net/alneenqid6w5/4Z5PxhDSo3baaPwtNOuCnM/3ff74fed7b7652368f70fc1dab936000/image__14_.png)
 
 Por defecto, la opción __ilimitado__ está activa, aplicando la promoción a todos los ítems del carrito, como se ilustra en el siguiente diagrama:
 
-![Caso ilimitado ES](https://images.ctfassets.net/alneenqid6w5/7LMJMOT1k3hs8lHbe1BmtJ/811dc4e9f2210817bee4dcaf319443a4/Caso_ilimitado_ES.png)
+![Caso ilimitado ES](//images.ctfassets.net/alneenqid6w5/7LMJMOT1k3hs8lHbe1BmtJ/811dc4e9f2210817bee4dcaf319443a4/Caso_ilimitado_ES.png)
 
 Para restringir el número de ítems del carrito que recibirán el descuento, puede elegir una de las siguientes opciones:
 
 - __Ítems por carrito__: esta configuración limita la aplicación de la promoción a un número de ítems del carrito. Una vez alcanzado el límite, la promoción no se aplicará al resto del carrito. El sistema utiliza el precio como criterio de elección, por lo que los ítems con el precio más bajo serán los primeros en ser afectados.
 
-![Caso por itens ES](https://images.ctfassets.net/alneenqid6w5/4ZE8Sc1reAjgnSzJHlEaar/6891a83f39caa6f6d4e4fc8fc8034dfd/Caso_por_itens_ES.png)
+![Caso por itens ES](//images.ctfassets.net/alneenqid6w5/4ZE8Sc1reAjgnSzJHlEaar/6891a83f39caa6f6d4e4fc8fc8034dfd/Caso_por_itens_ES.png)
 
 - __Ítems por producto__: esta configuración limita la promoción a un número de unidades de cada producto. Como en el siguiente ejemplo, apenas dos unidades por producto serán elegibles para la promoción. El precio más bajo define qué ítems de cada producto son elegibles para la promoción.
 
-![Caso por produto ES](https://images.ctfassets.net/alneenqid6w5/X34R3R6KpYR3xCJdF2AcI/596e61129705dc40d677f5356796c5b2/Caso_por_produto_ES.png)
+![Caso por produto ES](//images.ctfassets.net/alneenqid6w5/X34R3R6KpYR3xCJdF2AcI/596e61129705dc40d677f5356796c5b2/Caso_por_produto_ES.png)
 
 - __Ítems por SKU__: esta configuración limita la promoción a un número de unidades por cada SKU en el carrito. Como en el siguiente ejemplo, apenas dos unidades de cada SKU serán elegibles para la promoción. Como en el caso anterior, será el precio más bajo el que defina los ítems elegibles para la promoción.
 
-![Caso por SKU ES](https://images.ctfassets.net/alneenqid6w5/2l071JBnZtESSnbM2MPAQ1/1b22d7143f3ce6ed219ec6817acfd489/Caso_por_SKU_ES.png)
+![Caso por SKU ES](//images.ctfassets.net/alneenqid6w5/2l071JBnZtESSnbM2MPAQ1/1b22d7143f3ce6ed219ec6817acfd489/Caso_por_SKU_ES.png)

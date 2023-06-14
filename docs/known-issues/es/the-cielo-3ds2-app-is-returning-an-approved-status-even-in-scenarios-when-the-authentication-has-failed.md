@@ -1,5 +1,5 @@
 ---
-title: La aplicación Cielo 3DS2 devuelve un estado "aprobado" incluso en situaciones en las que la autenticación ha fallado.
+title: 'La aplicación Cielo 3DS2 devuelve un estado "aprobado" incluso en situaciones en las que la autenticación ha fallado.'
 id: 58hSiWFhn6sHQofJAUoHqv
 status: PUBLISHED
 createdAt: 2023-05-05T14:48:56.148Z

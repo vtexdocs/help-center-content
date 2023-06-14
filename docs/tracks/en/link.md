@@ -1,5 +1,5 @@
 ---
-title: Link
+title: 'Link'
 id: 1dEVfBkRxoO62i0Ge6mYoG
 status: DRAFT
 createdAt: 2018-06-14T16:08:28.920Z

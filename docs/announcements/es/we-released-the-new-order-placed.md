@@ -1,5 +1,5 @@
 ---
-title: "Ya está live el nuevo Order Placed"
+title: 'Ya está live el nuevo Order Placed'
 id: 4tAmWn79M44eCqwgeyMM68
 status: PUBLISHED
 createdAt: 2017-10-26T17:24:24.087Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: authors_24
 slug: ya-esta-live-el-nuevo-order-placed
 legacySlug: ya-esta-live-el-nuevo-order-placed
-announcementImageID: ""
-announcementSynopsisES: La nueva versión de la página de confirmación de pedido ya está disponible
+announcementImageID: ''
+announcementSynopsisES: 'La nueva versión de la página de confirmación de pedido ya está disponible'
 ---
 
 A principios de este mes divulgamos el lanzamiento de una de las muchas novedades que VTEX está desarrollando para mejorar aún más la experiencia del usuario - la nueva sección de Mis Pedidos. Hoy lanzamos otra feature que integra esta sección: la nueva versión de la página de confirmación de pedido (Order Placed).

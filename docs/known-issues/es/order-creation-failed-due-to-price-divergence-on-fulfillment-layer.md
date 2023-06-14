@@ -1,5 +1,5 @@
 ---
-title: La creación de la orden falló debido a la divergencia de precios en la capa de cumplimiento
+title: 'La creación de la orden falló debido a la divergencia de precios en la capa de cumplimiento'
 id: 31fiMPNRULuOH73AhlzU5K
 status: PUBLISHED
 createdAt: 2022-02-03T15:24:07.791Z

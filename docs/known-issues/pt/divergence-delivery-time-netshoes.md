@@ -1,5 +1,5 @@
 ---
-title: Divergência no tempo de entrega - netshoes
+title: 'Divergência no tempo de entrega - netshoes'
 id: 0AQU3vi3J0RPLtNcrMQ1N
 status: PUBLISHED
 createdAt: 2022-09-23T21:17:35.069Z

@@ -1,10 +1,10 @@
 ---
-title: Google Pay (Beta)
+title: 'Google Pay (Beta)'
 id: 653pNFOw6L5CvGupLosJSq
 status: PUBLISHED
 createdAt: 2023-04-26T15:34:40.825Z
-updatedAt: 2023-04-27T18:11:19.479Z
-publishedAt: 2023-04-27T18:11:19.479Z
+updatedAt: 2023-06-14T19:34:39.943Z
+publishedAt: 2023-06-14T19:34:39.943Z
 firstPublishedAt: 2023-04-26T20:03:44.992Z
 contentType: tutorial
 productTeam: Shopping
@@ -22,13 +22,16 @@ O Google Pay™ é um serviço de pagamentos digitais que possibilita ao usuári
 
 Os termos de serviço da API do Google Pay se aplicam sempre que o serviço Google Pay for oferecido por um lojista. Para ler os termos, acesse [Google Pay API Terms of Service](https://payments.developers.google.com/terms/sellertos).
 
+<div class="alert alert-warning">
+<p>O Google Pay não está disponível para Checkout V5 ou versões anteriores do Checkout.</p>
+</div>
+
 ## Ativar Google Pay
 
 Para ativar o Google Pay, siga o passo a passo abaixo. 
 
 1. No Admin VTEX, acesse **Configurações da loja > Pagamentos > Carteiras** ou digite **Carteiras **na barra de busca no topo da página.
-2. Clique em <i class="fas-solid fa-toggle-on"></i> `Google Pay`.
-3. Selecione a opção **Ativar** para modificar o checkout para incluir a extensão do Google Pay.
+2. Selecione a opção **Ativar** para modificar o checkout para incluir a extensão do Google Pay.
 
 <div class="alert alert-info">
 <p>As bandeiras suportadas no Google Pay são as mesmas bandeiras configuradas nas condições de pagamento.</p>
@@ -36,10 +39,10 @@ Para ativar o Google Pay, siga o passo a passo abaixo.
 
 Feito isso, o Google Pay estará disponível no checkout da sua loja VTEX como nova forma de pagamento. É possível que demore em torno de 10 minutos para que a configuração apareça no Checkout.
 
-![google pay - PT](https://images.ctfassets.net/alneenqid6w5/IhdcOpZC0MPaZLYbPUYw1/a8bca906bd64bf229ac9521848a7c029/image.png)
+![google pay - PT](//images.ctfassets.net/alneenqid6w5/IhdcOpZC0MPaZLYbPUYw1/a8bca906bd64bf229ac9521848a7c029/image.png)
 
 <div class="alert alert-warning">
-<p>Google Pay, neste momento, não vai suportar assinatura. Em pedidos de assinatura, apenas a primeira compra irá funcionar.</p>
+<p>Google Pay, neste momento, não vai suportar assinatura.</p>
 </div>
 
 É necessário ter os seguintes requisitos para utilizar o Google Pay:

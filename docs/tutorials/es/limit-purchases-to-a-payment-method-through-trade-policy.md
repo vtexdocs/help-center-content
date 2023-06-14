@@ -1,5 +1,5 @@
 ---
-title: Limitar compras a un medio de pago por política comercial
+title: 'Limitar compras a un medio de pago por política comercial'
 id: 19lUPrgSmWGs6WE6U02Ukg
 status: DRAFT
 createdAt: 2017-08-18T14:11:00.883Z

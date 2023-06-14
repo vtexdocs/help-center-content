@@ -1,5 +1,5 @@
 ---
-title: Filtrar produtos por "Loja" no Catálogo Admin pode mostrar a quantidade errada de resultados
+title: 'Filtrar produtos por "Loja" no Catálogo Admin pode mostrar a quantidade errada de resultados'
 id: E38Y6a81l7QNtrmh2I2id
 status: PUBLISHED
 createdAt: 2023-02-17T16:01:30.420Z

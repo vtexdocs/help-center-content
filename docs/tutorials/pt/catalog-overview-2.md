@@ -1,5 +1,5 @@
 ---
-title: Visão Geral Catálogo
+title: 'Visão Geral Catálogo'
 id: FFrumKPYFpvIWKRXfhQYp
 status: PUBLISHED
 createdAt: 2023-03-28T17:25:52.296Z

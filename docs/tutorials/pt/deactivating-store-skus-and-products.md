@@ -1,5 +1,5 @@
 ---
-title: Inativar SKUs e produtos da loja
+title: 'Inativar SKUs e produtos da loja'
 id: 4oviRZMwCkSEcugEyEmEwo
 status: PUBLISHED
 createdAt: 2017-10-31T03:53:15.045Z

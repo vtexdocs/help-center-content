@@ -1,5 +1,5 @@
 ---
-title: installmentOptions de la API de orderForm no tiene en cuenta las promociones específicas de los plazos
+title: 'installmentOptions de la API de orderForm no tiene en cuenta las promociones específicas de los plazos'
 id: YgwSByoCsjqEmWOmuXRU4
 status: PUBLISHED
 createdAt: 2022-08-24T15:53:17.291Z

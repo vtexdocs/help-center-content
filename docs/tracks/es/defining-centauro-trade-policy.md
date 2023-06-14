@@ -1,5 +1,5 @@
 ---
-title: Definir la política comercial para Centauro
+title: 'Definir la política comercial para Centauro'
 id: 2wFjrUoLI3q85r3QZA0Tp
 status: PUBLISHED
 createdAt: 2020-10-20T18:17:56.907Z

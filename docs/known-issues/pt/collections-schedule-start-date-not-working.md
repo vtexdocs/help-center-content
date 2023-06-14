@@ -1,5 +1,5 @@
 ---
-title: Data de Início das Coleções não funciona
+title: 'Data de Início das Coleções não funciona'
 id: 3G6rD1JIm5BaZhFkFrdvok
 status: PUBLISHED
 createdAt: 2022-10-28T18:07:53.326Z

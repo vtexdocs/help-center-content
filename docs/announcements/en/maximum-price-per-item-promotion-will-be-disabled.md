@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 
 slug: maximum-price-per-item-promotion-will-be-disabled
 legacySlug: maximum-price-per-item-promotion-will-be-disabled
-announcementImageID: ""
-announcementSynopsisEN: 
+announcementImageID: ''
+announcementSynopsisEN: ''
 ---
 
 As of November 20, the promotion of type __Maximum Price per Item__ will no longer exist. But if your store uses this kind of promotion, don't panic - the same effect may be achieved through other methods, which in addition bring advantages.

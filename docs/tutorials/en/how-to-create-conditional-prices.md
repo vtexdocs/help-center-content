@@ -1,5 +1,5 @@
 ---
-title: Creating Conditional Prices
+title: 'Creating Conditional Prices'
 id: 3xtcnvFC80sgII44kKW46e
 status: DRAFT
 createdAt: 2018-06-20T19:24:47.688Z
@@ -33,4 +33,4 @@ So here is a step by step showing how you can use this feature :
 6. You can define a short message, called *Teaser*, to promote this condition to your customers. (To learn more, see [Teasers - Coming Soon])
 7. Save it
 
-![conditionalPrice](https://images.ctfassets.net/alneenqid6w5/3HJkZntAaQEOoCywOS2Sqo/09869666842b78db00d1dc0ab94ca965/conditionalPrice.gif)
+![conditionalPrice](//images.ctfassets.net/alneenqid6w5/3HJkZntAaQEOoCywOS2Sqo/09869666842b78db00d1dc0ab94ca965/conditionalPrice.gif)

@@ -1,5 +1,5 @@
 ---
-title: Change a placeholder title
+title: 'Change a placeholder title'
 id: 5ZsznWZH6EeAQMeYWqqa0m
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:45.787Z
@@ -16,7 +16,7 @@ subcategory: 2g6LxtasS4iSeGEqeYUuGW
 
 The title of a placeholder is what appears in the right corner of the object, as the image below indicates.
 
-![cms-placeholder en](https://images.ctfassets.net/alneenqid6w5/7kCsbNAZZ6kGiGe6IMGGye/02545dd609ed095ee074d85134668028/placeholder_destaque_EN.png)
+![cms-placeholder en](//images.ctfassets.net/alneenqid6w5/7kCsbNAZZ6kGiGe6IMGGye/02545dd609ed095ee074d85134668028/placeholder_destaque_EN.png)
 
 The text that is entered in this field is what will be displayed as a placeholder title on the store's website.
 
@@ -25,7 +25,7 @@ To change the title of a placeholder, just follow the steps below:
 1. Click the title.
 
 2. Insert the new title.
-![placeholder-change-name en](https://images.ctfassets.net/alneenqid6w5/2T3rBaF3RYIukMyeWOacI/e17ee1fd57027e899f409194f9bfe99e/change_name_E.png)
+![placeholder-change-name en](//images.ctfassets.net/alneenqid6w5/2T3rBaF3RYIukMyeWOacI/e17ee1fd57027e899f409194f9bfe99e/change_name_E.png)
 
 3. Click __Rename__.
 

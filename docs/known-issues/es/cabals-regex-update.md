@@ -1,5 +1,5 @@
 ---
-title: Actualización del Regex de Cabal
+title: 'Actualización del Regex de Cabal'
 id: 7vKZhdGjEVzQUqhR9QUTs9
 status: PUBLISHED
 createdAt: 2022-03-27T18:08:17.932Z

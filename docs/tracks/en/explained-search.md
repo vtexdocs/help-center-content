@@ -1,5 +1,5 @@
 ---
-title: Explained Search
+title: 'Explained Search'
 id: 4uSFqyJVCMVMIvVrtz3lxZ
 status: PUBLISHED
 createdAt: 2020-04-14T14:17:45.913Z
@@ -25,5 +25,5 @@ Follow the steps below to access it:
 1. In the VTEX Admin, go to __Storefront__, or type __Storefront__ in the search bar at the top of the page.
 2. Under **Intelligent Search**, click __Explained Search__. 
 
-![Explained Search](https://images.ctfassets.net/alneenqid6w5/5KrbVmzoI4woKzjxhsGJne/826ba767da8acaa0cad6990bfdf36ca8/explained_search_em.png)
+![Explained Search](//images.ctfassets.net/alneenqid6w5/5KrbVmzoI4woKzjxhsGJne/826ba767da8acaa0cad6990bfdf36ca8/explained_search_em.png)
 

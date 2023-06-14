@@ -1,5 +1,5 @@
 ---
-title: Sales Performance
+title: 'Sales Performance'
 id: 3DMube0sEsK9vPcRYGas72
 status: PUBLISHED
 createdAt: 2021-10-19T12:49:42.165Z
@@ -25,7 +25,7 @@ To access the page, go to __Dashboards__ and click on __Sales performance__.
 
 You can customize the view of chart and list data by filtering by period, dimensions and metrics.
 
-![Sales Perf Dash EN](https://images.ctfassets.net/alneenqid6w5/1nTkH8KfhrLPOBuxFhcZvC/2e794d37d8b2afe1d2d2b89d805ae736/Sales_Perf_Dash_EN.gif)
+![Sales Perf Dash EN](//images.ctfassets.net/alneenqid6w5/1nTkH8KfhrLPOBuxFhcZvC/2e794d37d8b2afe1d2d2b89d805ae736/Sales_Perf_Dash_EN.gif)
 
 ## Data 
 
@@ -151,7 +151,7 @@ In addition to applying filters, you can also perform the actions below.
 
 ## Views
 
-![Sales perf update EN](https://images.ctfassets.net/alneenqid6w5/5mHOltfUnUpV1DtHXrT8xD/c2573e700f0400eb44176cb4cee696bf/Sales_perf_update_EN.gif)
+![Sales perf update EN](//images.ctfassets.net/alneenqid6w5/5mHOltfUnUpV1DtHXrT8xD/c2573e700f0400eb44176cb4cee696bf/Sales_perf_update_EN.gif)
 
 The Sales Performance dashboard can be customized by applying different filters and selecting the metrics that will be displayed in the chart and in the list. To facilitate your data exploration on a daily basis, we have created views, which save the filters and metrics applied on the page for your direct viewing. You can save, edit, and share different dashboard views. The page comes with the following views configured by default:
 

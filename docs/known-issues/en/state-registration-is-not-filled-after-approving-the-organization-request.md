@@ -1,5 +1,5 @@
 ---
-title: State Registration is not filled after approving the Organization Request
+title: 'State Registration is not filled after approving the Organization Request'
 id: 7uUdlnXhfaaylNQNpIy3vE
 status: PUBLISHED
 createdAt: 2023-05-12T20:03:31.153Z

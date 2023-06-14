@@ -1,5 +1,5 @@
 ---
-title: How to configure a custom payment
+title: 'How to configure a custom payment'
 id: tutorials_451
 status: PUBLISHED
 createdAt: 2017-04-27T22:04:32.144Z

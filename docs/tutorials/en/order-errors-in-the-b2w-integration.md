@@ -1,5 +1,5 @@
 ---
-title: Order errors in the B2W integration
+title: 'Order errors in the B2W integration'
 id: 2iQqCJIfySN0JsCJkOG2h8
 status: PUBLISHED
 createdAt: 2021-08-26T15:31:43.878Z

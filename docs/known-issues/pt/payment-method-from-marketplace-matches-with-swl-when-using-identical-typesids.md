@@ -1,5 +1,5 @@
 ---
-title: O método de pagamento do Marketplace combina com o SWL ao utilizar tipos idênticos:ids
+title: 'O método de pagamento do Marketplace combina com o SWL ao utilizar tipos idênticos:ids'
 id: 4AHyl5z7ySagx6Myx0KqM7
 status: PUBLISHED
 createdAt: 2022-03-15T22:06:35.540Z

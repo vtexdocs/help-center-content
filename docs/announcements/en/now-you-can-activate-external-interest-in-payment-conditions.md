@@ -1,5 +1,5 @@
 ---
-title: "Now you can activate external interest in payment conditions"
+title: 'Now you can activate external interest in payment conditions'
 id: 2CPvlfBe5e6gGQwUIYQMYq
 status: PUBLISHED
 createdAt: 2018-02-01T13:38:03.118Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 245tA425AIeioKAk2eaiwS
 slug: now-you-can-activate-external-interest-in-payment-conditions
 legacySlug: now-you-can-activate-external-interest-in-payment-conditions
-announcementImageID: ""
-announcementSynopsisEN: The Payments module has a new feature for setting up your payment methods.
+announcementImageID: ''
+announcementSynopsisEN: 'The Payments module has a new feature for setting up your payment methods.'
 ---
 
 The Payments module has a new feature for setting up your payment methods. Now it's possible to activate external interest in the installments of your products. This is very useful for stores in countries where interest rates are charged directly by financial institutions.

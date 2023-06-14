@@ -1,5 +1,5 @@
 ---
-title: Integrating with MadeiraMadeira
+title: 'Integrating with MadeiraMadeira'
 id: J4QCENKiz4urYNfaMuE0i
 status: PUBLISHED
 createdAt: 2021-11-05T21:04:22.888Z

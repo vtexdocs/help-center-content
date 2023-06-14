@@ -1,5 +1,5 @@
 ---
-title: Seller abrangente
+title: 'Seller abrangente'
 id: 5Qn4O2GpjUIzWTPpvLUfkI
 status: PUBLISHED
 createdAt: 2021-09-27T17:51:50.695Z

@@ -1,5 +1,5 @@
 ---
-title: Locate the Google ADS pixel
+title: 'Locate the Google ADS pixel'
 id: 6FMDY6RTTxcD0ETwI7kIA
 status: PUBLISHED
 createdAt: 2022-08-30T17:40:07.731Z

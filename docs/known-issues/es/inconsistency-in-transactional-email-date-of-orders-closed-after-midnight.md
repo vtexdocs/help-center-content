@@ -1,5 +1,5 @@
 ---
-title: Inconsistencia en la fecha de e-mails transaccionales de pedidos cerrados después de la medianoche
+title: 'Inconsistencia en la fecha de e-mails transaccionales de pedidos cerrados después de la medianoche'
 id: 3D3FSEGDPykoUosW4wcwQS
 status: PUBLISHED
 createdAt: 2018-04-24T20:17:05.814Z

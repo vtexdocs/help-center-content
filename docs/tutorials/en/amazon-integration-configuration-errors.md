@@ -1,5 +1,5 @@
 ---
-title: Amazon Integration Configuration Errors
+title: 'Amazon Integration Configuration Errors'
 id: JawC0NMJuDE4NEurIWPbH
 status: DRAFT
 createdAt: 2022-02-11T01:28:42.569Z

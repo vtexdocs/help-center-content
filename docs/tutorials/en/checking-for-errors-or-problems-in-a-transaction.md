@@ -1,5 +1,5 @@
 ---
-title: Checking for errors or problems in a transaction
+title: 'Checking for errors or problems in a transaction'
 id: 3QecZEdmzumGKe8WGmeI8a
 status: PUBLISHED
 createdAt: 2019-01-24T21:38:42.709Z

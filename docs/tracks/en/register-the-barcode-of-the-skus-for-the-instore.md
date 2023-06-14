@@ -1,5 +1,5 @@
 ---
-title: Register the barcode of the SKUs for the inStore
+title: 'Register the barcode of the SKUs for the inStore'
 id: 4FjYFFvQDvg5pO7wnyp8iB
 status: DRAFT
 createdAt: 2020-06-28T19:59:13.751Z

@@ -1,5 +1,5 @@
 ---
-title: Creating a More for Less promotion
+title: 'Creating a More for Less promotion'
 id: tutorials_325
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:17.186Z
@@ -84,7 +84,7 @@ In this section, you can define the products, number of items, and discounts inc
    - **With a discount of**: the percentage discount the customer will receive if they buy the number of items defined in the promotion. 
    - **With a maximum price per item of**: the maximum price per item the customer will pay if they buy the number of items defined in the promotion. 
 
-|![Leve mais por menos 1 - EN](https://images.ctfassets.net/alneenqid6w5/1csaRIYXrmWFwoxNttIBYg/c97d6de41f3b8d4bea23978ec305c57e/image.png)|
+|![Leve mais por menos 1 - EN](//images.ctfassets.net/alneenqid6w5/1csaRIYXrmWFwoxNttIBYg/c97d6de41f3b8d4bea23978ec305c57e/image.png)|
 |:--:| 
 | _Example of a “Buy 3, get 1 free” promotion_|
 
@@ -101,7 +101,7 @@ In this section, you can specify how the discount will be applied.
   - **The lowest-priced products**: the discount will be applied to the cheapest items in the promotion.
   - **The highest-priced products**: the discount will be applied to the most expensive items in the promotion.
 
-![Leve mais por menos 2 - EN](https://images.ctfassets.net/alneenqid6w5/57U5OIjbYtvOcd2qoFe45/c137ac839cc4803e42f0ba245e6a9a7a/image.png)
+![Leve mais por menos 2 - EN](//images.ctfassets.net/alneenqid6w5/57U5OIjbYtvOcd2qoFe45/c137ac839cc4803e42f0ba245e6a9a7a/image.png)
 
 #### How must the discount be distributed?
 

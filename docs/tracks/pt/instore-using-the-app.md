@@ -1,5 +1,5 @@
 ---
-title: VTEX Sales App - Usando o app
+title: 'VTEX Sales App - Usando o app'
 id: 6cq4E1JCmA6vCvBCCtAgIM
 status: PUBLISHED
 createdAt: 2020-06-28T19:28:16.392Z

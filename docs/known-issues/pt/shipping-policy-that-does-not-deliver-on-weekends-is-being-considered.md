@@ -1,5 +1,5 @@
 ---
-title: A política de remessa que não entrega nos finais de semana está sendo considerada
+title: 'A política de remessa que não entrega nos finais de semana está sendo considerada'
 id: 25bhUZXA9sZvyFVNeMUSJl
 status: PUBLISHED
 createdAt: 2022-06-08T18:32:07.971Z

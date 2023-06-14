@@ -1,5 +1,5 @@
 ---
-title: Cómo ver el registro de reindexaciones del catálogo?
+title: 'Cómo ver el registro de reindexaciones del catálogo?'
 id: 6cND6PhkaIgGsaeEQYyuMA
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:41.135Z

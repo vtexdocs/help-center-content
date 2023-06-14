@@ -1,5 +1,5 @@
 ---
-title: I can't find a collection. What do I do?
+title: 'I can't find a collection. What do I do?'
 id: 4jqVY2ilvOQYwmuOY0sAyk
 status: PUBLISHED
 createdAt: 2018-01-24T18:25:15.475Z

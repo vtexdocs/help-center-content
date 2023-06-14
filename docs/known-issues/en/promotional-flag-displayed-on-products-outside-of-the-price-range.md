@@ -1,5 +1,5 @@
 ---
-title: Promotional flag displayed on products outside of the price range
+title: 'Promotional flag displayed on products outside of the price range'
 id: 7kJl5tyxAAOoiqW2sQcY6u
 status: PUBLISHED
 createdAt: 2018-04-10T15:21:04.585Z

@@ -1,5 +1,5 @@
 ---
-title: Seller Logo not being saved as an URL
+title: 'Seller Logo not being saved as an URL'
 id: 2bcjVyapAH9d19w79kOB2b
 status: PUBLISHED
 createdAt: 2023-01-19T14:36:20.412Z

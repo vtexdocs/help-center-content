@@ -1,5 +1,5 @@
 ---
-title: Qué es afiliado
+title: 'Qué es afiliado'
 id: 4bN3e1YarSEammk2yOeMc0
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:48.620Z

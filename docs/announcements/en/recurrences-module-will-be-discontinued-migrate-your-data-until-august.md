@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: recurrences-module-will-be-discontinued-migrate-your-data-until-august
 legacySlug: recurrences-module-will-be-discontinued-migrate-your-data-until-august
-announcementImageID: ""
-announcementSynopsisEN: All stores still using the Recurrence module should migrate to Subscriptions module until August 3, 2020
+announcementImageID: ''
+announcementSynopsisEN: 'All stores still using the Recurrence module should migrate to Subscriptions module until August 3, 2020'
 ---
 
 <div class="alert alert-info">

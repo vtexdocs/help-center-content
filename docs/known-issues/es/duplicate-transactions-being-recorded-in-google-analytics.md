@@ -1,5 +1,5 @@
 ---
-title: Las transacciones se registran en duplicado en Google Analytics
+title: 'Las transacciones se registran en duplicado en Google Analytics'
 id: 3pBn0BG1cAAqkw6CMEywIs
 status: PUBLISHED
 createdAt: 2018-11-20T16:44:40.811Z

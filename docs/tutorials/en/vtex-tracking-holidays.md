@@ -1,5 +1,5 @@
 ---
-title:  Holidays (VTEX Tracking)
+title: ' Holidays (VTEX Tracking)'
 id: 4cj0oJNmF89e0pAJMBj1sP
 status: PUBLISHED
 createdAt: 2020-07-08T20:56:34.972Z

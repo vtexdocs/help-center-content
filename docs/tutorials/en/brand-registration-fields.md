@@ -1,5 +1,5 @@
 ---
-title: Fill in Brand registration fields
+title: 'Fill in Brand registration fields'
 id: 37Ky7lTbEkiWIAYA80EMyI
 status: PUBLISHED
 createdAt: 2017-09-20T19:37:34.070Z

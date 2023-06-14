@@ -1,5 +1,5 @@
 ---
-title: Control to disable the canonical tag
+title: 'Control to disable the canonical tag'
 id: 6A8OVhzqc8qYYmecUu68kk
 status: DRAFT
 createdAt: 2019-01-24T20:45:37.943Z

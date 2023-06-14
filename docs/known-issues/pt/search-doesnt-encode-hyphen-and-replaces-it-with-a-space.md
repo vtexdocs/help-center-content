@@ -1,5 +1,5 @@
 ---
-title: Busca não encoda hífen e o substitui por espaço
+title: 'Busca não encoda hífen e o substitui por espaço'
 id: 1jH0EdXaKiIyIe8ucgCmwI
 status: PUBLISHED
 createdAt: 2018-05-29T22:02:32.123Z

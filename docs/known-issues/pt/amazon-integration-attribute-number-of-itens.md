@@ -1,5 +1,5 @@
 ---
-title: Atributo de integração da Amazônia Número de itens
+title: 'Atributo de integração da Amazônia Número de itens'
 id: 75Afw210mMY9h6dbk3AV8V
 status: PUBLISHED
 createdAt: 2022-04-07T12:18:04.361Z

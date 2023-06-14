@@ -1,5 +1,5 @@
 ---
-title: Request deletion of customer personal data under international data privacy laws
+title: 'Request deletion of customer personal data under international data privacy laws'
 id: 34Sd4DN6fOk5odkjIAedpE
 status: DRAFT
 createdAt: 2022-04-11T21:00:56.085Z

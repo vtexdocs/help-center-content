@@ -1,5 +1,5 @@
 ---
-title: Como mudar o idioma do inStore
+title: 'Como mudar o idioma do inStore'
 id: 6fBUrqT2KIQ6WW2GIYiUI8
 status: DRAFT
 createdAt: 2018-09-14T21:00:24.112Z

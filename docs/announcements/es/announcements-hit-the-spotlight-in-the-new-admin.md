@@ -1,5 +1,5 @@
 ---
-title: "Noticias de la plataforma destacadas en el Nuevo Admin"
+title: 'Noticias de la plataforma destacadas en el Nuevo Admin'
 id: 607y5tzdlKEsgueAAsWaUE
 status: PUBLISHED
 createdAt: 2018-03-09T15:29:05.784Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
 slug: announcements-ganan-destaque-en-el-nuevo-admin
 legacySlug: announcements-ganan-destaque-en-el-nuevo-admin
-announcementImageID: ""
-announcementSynopsisES: Usted recibe notificaciones a cada nuevo announcement y acompaña las nuevas noticias directamente de la home.
+announcementImageID: ''
+announcementSynopsisES: 'Usted recibe notificaciones a cada nuevo announcement y acompaña las nuevas noticias directamente de la home.'
 ---
 
 Con el __Nuevo Admin__, usted será informado sobre todas las novedades de VTEX sin salir de la plataforma. El icono de notificaciones en el menú superior avisará cada vez que se publique un aviso. Y lo mejor: las alertas vienen con un código de colores para que usted identifique rápidamente si se comunican de nuevas características o de cambios críticos en el sistema.

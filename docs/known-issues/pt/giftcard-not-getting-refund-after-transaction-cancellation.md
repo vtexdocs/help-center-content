@@ -1,5 +1,5 @@
 ---
-title: Giftcard não recebendo reembolso após o cancelamento da transação
+title: 'Giftcard não recebendo reembolso após o cancelamento da transação'
 id: lWW0jvEty50Pphr3JFYt7
 status: PUBLISHED
 createdAt: 2022-06-28T17:06:16.141Z

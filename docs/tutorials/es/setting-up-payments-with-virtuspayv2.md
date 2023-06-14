@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con VirtusPayV2
+title: 'Configurar pago con VirtusPayV2'
 id: 1tbcLRNIB5Bz0oWl8LnayB
 status: PUBLISHED
 createdAt: 2023-03-27T12:14:53.392Z

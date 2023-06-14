@@ -1,5 +1,5 @@
 ---
-title: Individual warehouse (inventory) exports do not work on seller portal accounts
+title: 'Individual warehouse (inventory) exports do not work on seller portal accounts'
 id: 7GoxwXFUWnebmCqF1sm7rm
 status: PUBLISHED
 createdAt: 2022-10-24T19:21:06.182Z

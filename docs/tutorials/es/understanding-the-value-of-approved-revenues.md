@@ -1,5 +1,5 @@
 ---
-title: Comprenda el detalle de su factura
+title: 'Comprenda el detalle de su factura'
 id: tutorials_4322
 status: PUBLISHED
 createdAt: 2017-04-27T21:51:05.741Z

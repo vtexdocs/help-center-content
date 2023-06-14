@@ -1,5 +1,5 @@
 ---
-title: Busca unificada
+title: 'Busca unificada'
 id: 9sXeVwoD60qYYgRJ11r5F
 status: PUBLISHED
 createdAt: 2021-08-05T13:47:18.180Z
@@ -15,15 +15,15 @@ trackSlugPT: instore-usando-o-app
 
 Na Prateleira Infinita do VTEX Sales App, o vendedor pode buscar pelos produtos desejados e adicioná-los ao carrinho. Para isso, é necessário clicar na lupa na barra superior do VTEX Sales App e digitar o nome do produto, o código de referência ou o EAN.
 
-![instore-search-pt](https://images.ctfassets.net/alneenqid6w5/5zBP54Dt2s7P6514vC1K8z/a7145393acb3d5517f53c0925a9d45b2/instore-search-pt.png)
+![instore-search-pt](//images.ctfassets.net/alneenqid6w5/5zBP54Dt2s7P6514vC1K8z/a7145393acb3d5517f53c0925a9d45b2/instore-search-pt.png)
 
 A busca do VTEX Sales App é unificada, ou seja, ao fazer uma busca no aplicativo, o vendedor pesquisa tanto no estoque local (da loja física em si) quanto no de outras lojas físicas e dos centros de distribuição associados ao ecommerce.
 
-![instore-search-plp-pt](https://images.ctfassets.net/alneenqid6w5/1WEugAiPUVHRVTL1ph3zv2/dbe2ac9add28b4576a4a6e7b3d5c227e/instore-search-plp-pt.png)
+![instore-search-plp-pt](//images.ctfassets.net/alneenqid6w5/1WEugAiPUVHRVTL1ph3zv2/dbe2ac9add28b4576a4a6e7b3d5c227e/instore-search-plp-pt.png)
 
 Ao clicar na seta <i class="fas fa-chevron-down"></i> ao lado de um produto, você poderá ver suas variações, as opções de entrega, a quantidade a ser adicionada ao carrinho e os botões `Adicionar ao carrinho` e `Mais detalhes`.
 
-![instore-search-details-pt](https://images.ctfassets.net/alneenqid6w5/1itzXskqYPkJ4CghrWihy8/c792832bed73d6e28782c35ab8b6fb55/Group_2__1_.png)
+![instore-search-details-pt](//images.ctfassets.net/alneenqid6w5/1itzXskqYPkJ4CghrWihy8/c792832bed73d6e28782c35ab8b6fb55/Group_2__1_.png)
 
 ## Filtros
 

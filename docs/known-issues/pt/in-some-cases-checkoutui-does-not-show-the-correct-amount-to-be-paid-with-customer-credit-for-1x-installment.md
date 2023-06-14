@@ -1,5 +1,5 @@
 ---
-title: Em alguns casos, a Checkout-UI não mostra o valor correto a ser pago com o Crédito do Cliente para 1x a prestação
+title: 'Em alguns casos, a Checkout-UI não mostra o valor correto a ser pago com o Crédito do Cliente para 1x a prestação'
 id: 3YsvVet6LKw1buFapSwFWm
 status: PUBLISHED
 createdAt: 2023-02-06T20:00:37.983Z

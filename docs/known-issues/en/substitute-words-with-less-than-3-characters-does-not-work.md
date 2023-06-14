@@ -1,5 +1,5 @@
 ---
-title: Substitute words with less than 3 characters does not work
+title: 'Substitute words with less than 3 characters does not work'
 id: 5sAdcBkmVVnRoQD3WUBNJ0
 status: PUBLISHED
 createdAt: 2022-06-08T20:03:47.576Z

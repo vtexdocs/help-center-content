@@ -1,5 +1,5 @@
 ---
-title: Edição na Busca Explicada de buscas com acentos
+title: 'Edição na Busca Explicada de buscas com acentos'
 id: 5rh2FSzIeSjnO7bUlEkJ9S
 status: PUBLISHED
 createdAt: 2022-02-23T21:59:57.268Z

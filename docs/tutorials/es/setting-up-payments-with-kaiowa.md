@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Kaiowa
+title: 'Configurar pago con Kaiowa'
 id: 1QfsSpAF0CHQFVd9qSGcA5
 status: PUBLISHED
 createdAt: 2023-04-06T18:20:04.972Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar o gateway VTEX Standard Promissory
+title: 'Configurar o gateway VTEX Standard Promissory'
 id: 2LEec9Z3m0gS8gCAK2uIYc
 status: DRAFT
 createdAt: 2018-03-09T14:46:43.809Z

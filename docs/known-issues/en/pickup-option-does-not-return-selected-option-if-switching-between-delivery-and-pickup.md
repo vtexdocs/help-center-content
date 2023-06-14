@@ -1,5 +1,5 @@
 ---
-title: Pickup option does not return selected option if switching between delivery and pickup
+title: 'Pickup option does not return selected option if switching between delivery and pickup'
 id: 12AvDe4dD8IQ2WaDKTSeXx
 status: PUBLISHED
 createdAt: 2022-09-21T21:06:28.853Z

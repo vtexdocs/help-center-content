@@ -1,5 +1,5 @@
 ---
-title: Error in the maximum quantity field of the same SKU in the Cart
+title: 'Error in the maximum quantity field of the same SKU in the Cart'
 id: 5xW5unmFphzQCwsmEochaG
 status: PUBLISHED
 createdAt: 2022-07-05T17:39:46.732Z

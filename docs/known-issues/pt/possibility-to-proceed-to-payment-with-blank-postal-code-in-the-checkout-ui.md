@@ -1,5 +1,5 @@
 ---
-title: Possibilidade de proceder ao pagamento com código postal em branco na caixa UI
+title: 'Possibilidade de proceder ao pagamento com código postal em branco na caixa UI'
 id: 32IVEgy5AgcFkCimUl87Rp
 status: PUBLISHED
 createdAt: 2023-01-18T21:46:19.613Z

@@ -1,5 +1,5 @@
 ---
-title: O que fazer quando o cliente não recebe o token para recuperação de senha
+title: 'O que fazer quando o cliente não recebe o token para recuperação de senha'
 id: 5jyaHYpuvK4uMuG0ksUKsa
 status: DRAFT
 createdAt: 2017-08-22T15:09:27.634Z

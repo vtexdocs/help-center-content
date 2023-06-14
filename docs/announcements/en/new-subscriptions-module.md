@@ -1,5 +1,5 @@
 ---
-title: "New Subscriptions module"
+title: 'New Subscriptions module'
 id: 6PfEmqovkZF97AZUp1owdf
 status: PUBLISHED
 createdAt: 2021-02-02T15:31:07.376Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: new-subscriptions-module
 legacySlug: new-subscriptions-module
-announcementImageID: ""
-announcementSynopsisEN: The Subscriptions module is the VTEX solution for recurring orders in your store, and it is continuously evolving.
+announcementImageID: ''
+announcementSynopsisEN: 'The Subscriptions module is the VTEX solution for recurring orders in your store, and it is continuously evolving.'
 ---
 
 <div class="alert alert-info">
@@ -38,37 +38,37 @@ The improvements to the Subscription system include new features for your end cu
 #### Subscription details 
 Our subscription details page has been redesigned to improve customer experience by reducing the time to find information and perform tasks. In addition, a new feature allows you to add items to an existing subscription.
 
-![img1 subscriptions EN](https://images.ctfassets.net/alneenqid6w5/YTLE4SVoIbfDCdH9BK97s/01b71fce5ac6f65621c37a917a798050/img1_subscriptions_EN.png)
+![img1 subscriptions EN](//images.ctfassets.net/alneenqid6w5/YTLE4SVoIbfDCdH9BK97s/01b71fce5ac6f65621c37a917a798050/img1_subscriptions_EN.png)
 
 #### Notification box
 Now you can use a notification box to improve your communication with users about actions they need to perform or to communicate important events about your subscriptions.
 
-![img2 subscriptions EN](https://images.ctfassets.net/alneenqid6w5/4SOJIaVfD2pnRqDK8oChFM/b925e16f3a4eefc38b2b2edc6af2333a/img2_subscriptions_EN.png)
+![img2 subscriptions EN](//images.ctfassets.net/alneenqid6w5/4SOJIaVfD2pnRqDK8oChFM/b925e16f3a4eefc38b2b2edc6af2333a/img2_subscriptions_EN.png)
 
 #### Adding products to your subscription
 You can also add new items to your subscription by searching for products available in the store.
 
-![img3 subscriptions EN](https://images.ctfassets.net/alneenqid6w5/1QLpkpJqU4GmAxG2kQl34s/adbd8d1d4cc519b9f687e27f4fea3a5a/img3_subscriptions_EN.png)
+![img3 subscriptions EN](//images.ctfassets.net/alneenqid6w5/1QLpkpJqU4GmAxG2kQl34s/adbd8d1d4cc519b9f687e27f4fea3a5a/img3_subscriptions_EN.png)
 
 #### Creating a new subscription
 A long-awaited feature is now available: a screen for creating subscriptions. You can now configure a new subscription without the need to go through the checkout and place an order. To do that, click on the __New subscription__ button on the subscriptions list.
 
-![img4 subscriptions EN](https://images.ctfassets.net/alneenqid6w5/1Olba34z68eZB3VqeGLPvL/784b7439f54cedde4fc381f3a275f556/img4_subscriptions_EN.png)
+![img4 subscriptions EN](//images.ctfassets.net/alneenqid6w5/1Olba34z68eZB3VqeGLPvL/784b7439f54cedde4fc381f3a275f556/img4_subscriptions_EN.png)
 
 ### New subscription concept in the VTEX system
 Previously, in the VTEX system, a subscription consisted of an SKU linked to a purchase configuration. It allowed the customer to subscribe to SKUs with different shipping addresses and different payment methods—which represented an evolution compared to the first version of the system.
 
 #### Before:
-![img5 subscriptions EN](https://images.ctfassets.net/alneenqid6w5/36iPClYx89vn03OHhkUfho/107288b39d263aad20e153aa3c0a045a/img5_subscriptions_EN.png)
+![img5 subscriptions EN](//images.ctfassets.net/alneenqid6w5/36iPClYx89vn03OHhkUfho/107288b39d263aad20e153aa3c0a045a/img5_subscriptions_EN.png)
 
-![img6 subscriptions EN](https://images.ctfassets.net/alneenqid6w5/3R0ImpMVwP9C81ndi5oCvg/18bbe8fa02f3361873d6e2ceba450d01/img6_subscriptions_EN.png)
+![img6 subscriptions EN](//images.ctfassets.net/alneenqid6w5/3R0ImpMVwP9C81ndi5oCvg/18bbe8fa02f3361873d6e2ceba450d01/img6_subscriptions_EN.png)
 
-![img7 subscriptions EN](https://images.ctfassets.net/alneenqid6w5/W44xbs0MAAwYxjyU8Dj4E/6e0250e84776f69dad0d8f1c17ee1eff/img7_subscriptions_EN.png)
+![img7 subscriptions EN](//images.ctfassets.net/alneenqid6w5/W44xbs0MAAwYxjyU8Dj4E/6e0250e84776f69dad0d8f1c17ee1eff/img7_subscriptions_EN.png)
 
 The subscription now consists of an SKU list and a particular purchase configuration. This means that we have removed the concept of Subscription Groups from our system. For more information, read our article [How subscription works](https://help.vtex.com/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453). The diagram below shows our new subscription concept:
 
 #### Now:
-![img8 subscriptions EN](https://images.ctfassets.net/alneenqid6w5/1tNo9gQza7gWuDXZPRxQRO/33a97511d0c48f954b9de33bcad8fa40/img8_subscriptions_EN.png)
+![img8 subscriptions EN](//images.ctfassets.net/alneenqid6w5/1tNo9gQza7gWuDXZPRxQRO/33a97511d0c48f954b9de33bcad8fa40/img8_subscriptions_EN.png)
 
 ### Subscription order cycle date
 

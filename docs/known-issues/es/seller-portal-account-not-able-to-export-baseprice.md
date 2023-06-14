@@ -1,5 +1,5 @@
 ---
-title: Cuenta del Seller Portal No se puede exportar el basePrice
+title: 'Cuenta del Seller Portal No se puede exportar el basePrice'
 id: 4Aafr7IqhFwcej2QFE4Ve8
 status: PUBLISHED
 createdAt: 2022-01-21T13:49:17.618Z

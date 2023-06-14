@@ -1,5 +1,5 @@
 ---
-title: Configurar el gateway VTEX B2W
+title: 'Configurar el gateway VTEX B2W'
 id: 4Xssw6LV5ewAWEssiqgmU6
 status: DRAFT
 createdAt: 2018-03-09T15:11:51.754Z

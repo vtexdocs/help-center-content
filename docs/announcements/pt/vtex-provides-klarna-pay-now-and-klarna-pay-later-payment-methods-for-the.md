@@ -1,5 +1,5 @@
 ---
-title: "VTEX disponibiliza meios de pagamento Klarna Pay Now e Klarna Pay Later para mercado europeu"
+title: 'VTEX disponibiliza meios de pagamento Klarna Pay Now e Klarna Pay Later para mercado europeu'
 id: 1YAcV4TEeNlhL49jvdX2w1
 status: DRAFT
 createdAt: 2020-12-04T17:57:25.772Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: vtex-disponibiliza-meios-de-pagamento-klarna-pay-now-e-klarna-pay-later
 legacySlug: vtex-disponibiliza-meios-de-pagamento-klarna-pay-now-e-klarna-pay-later-para
-announcementImageID: ""
-announcementSynopsisPT: Clientes VTEX poderão oferecer os dois novos métodos de pagamento aos seus consumidores via gateway Adyen.
+announcementImageID: ''
+announcementSynopsisPT: 'Clientes VTEX poderão oferecer os dois novos métodos de pagamento aos seus consumidores via gateway Adyen.'
 ---
 
 A partir de novembro de 2020, a VTEX oferece dois novos meios meios de pagamento Klarna - Klarna Pay Now e Klarna Pay Later -, solução de pagamentos sueca líder no mercado europeu.

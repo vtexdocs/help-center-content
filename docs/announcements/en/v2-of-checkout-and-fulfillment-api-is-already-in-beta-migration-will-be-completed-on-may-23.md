@@ -1,5 +1,5 @@
 ---
-title: "V2 of Checkout and Fulfillment API is already in beta (migration will be completed on May 23)"
+title: 'V2 of Checkout and Fulfillment API is already in beta (migration will be completed on May 23)'
 id: 2h5VNlwg3OUOSKeWqyac8q
 status: PUBLISHED
 createdAt: 2018-02-07T12:10:09.771Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: authors_24
 slug: v2-of-checkout-and-fulfillment-api-is-already-in-beta-migration-will-be-completed-on-may-23
 legacySlug: v2-of-checkout-and-fulfillment-api-is-already-in-beta-migration-will-be-completed-on-may-23
-announcementImageID: ""
-announcementSynopsisEN: The V2 brings a lot of improvements in comparison with the previous version and removes some outdated routes and fields.
+announcementImageID: ''
+announcementSynopsisEN: 'The V2 brings a lot of improvements in comparison with the previous version and removes some outdated routes and fields.'
 ---
 
 <div class="alert alert-danger">

@@ -1,5 +1,5 @@
 ---
-title: Configurar o AmazonPay (beta)
+title: 'Configurar o AmazonPay (beta)'
 id: vOKroDGBg60UX0jsLcvtq
 status: DRAFT
 createdAt: 2021-08-23T13:52:20.219Z

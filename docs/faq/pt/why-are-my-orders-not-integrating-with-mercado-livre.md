@@ -1,5 +1,5 @@
 ---
-title: Por que meus pedidos não integram com o Mercado Livre?
+title: 'Por que meus pedidos não integram com o Mercado Livre?'
 id: 2i5VkaYevgzwpXakSlMejO
 status: PUBLISHED
 createdAt: 2019-03-26T19:10:38.523Z
@@ -20,7 +20,7 @@ Dito isso, o primeiro passo é acessar o cadastro dessa integração:
 1. Acesse o módulo __Marketplace__
 2. Clique em __Integrações__
 3. Procure o __painel__ do Mercado Livre
-4. Clique na __engrenagem__ <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/3GKATZh3AUzyZ2LzqvXZSg/f1db9ae88c6bcf0ed632df42133213d4/gear.png" />
+4. Clique na __engrenagem__ <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/3GKATZh3AUzyZ2LzqvXZSg/f1db9ae88c6bcf0ed632df42133213d4/gear.png" />
 5. Clique em __Editar configuração__
 
 A partir daí, é preciso refazer o processo de integração.

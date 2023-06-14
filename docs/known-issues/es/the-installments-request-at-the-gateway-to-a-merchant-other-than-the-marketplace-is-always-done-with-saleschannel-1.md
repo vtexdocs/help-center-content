@@ -1,5 +1,5 @@
 ---
-title: La solicitud de cuotas en la pasarela a un comerciante distinto del mercado se realiza siempre con salesChannel = 1
+title: 'La solicitud de cuotas en la pasarela a un comerciante distinto del mercado se realiza siempre con salesChannel = 1'
 id: Xo2YO6ZM9Jj0ONZjXrrrJ
 status: PUBLISHED
 createdAt: 2022-03-27T21:08:39.176Z

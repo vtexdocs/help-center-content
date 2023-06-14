@@ -1,5 +1,5 @@
 ---
-title: A paginação inteligente dos valores de campo da Busca Inteligente é limitada a 9.999 itens
+title: 'A paginação inteligente dos valores de campo da Busca Inteligente é limitada a 9.999 itens'
 id: 1AH9HOWWqOnENncdxIBszv
 status: PUBLISHED
 createdAt: 2022-03-21T17:42:26.464Z

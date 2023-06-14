@@ -1,5 +1,5 @@
 ---
-title: Including order variables in the transactional e-mail template
+title: 'Including order variables in the transactional e-mail template'
 id: 694Bn8eOeAWYQeaWGaOISe
 status: DRAFT
 createdAt: 2017-12-19T14:09:17.388Z

@@ -1,5 +1,5 @@
 ---
-title: Incapaz de pausar o vendedor
+title: 'Incapaz de pausar o vendedor'
 id: 4s4VLWa93cnfOhf8faOXjU
 status: PUBLISHED
 createdAt: 2022-10-20T18:31:59.458Z

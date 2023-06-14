@@ -1,5 +1,5 @@
 ---
-title: Filling in your company information
+title: 'Filling in your company information'
 id: tutorials_2556
 status: DRAFT
 createdAt: 2017-04-27T21:54:19.514Z

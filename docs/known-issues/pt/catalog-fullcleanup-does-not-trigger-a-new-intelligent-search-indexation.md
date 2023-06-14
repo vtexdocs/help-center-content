@@ -1,5 +1,5 @@
 ---
-title: O preenchimento do catálogo não aciona uma nova indexação de busca inteligente
+title: 'O preenchimento do catálogo não aciona uma nova indexação de busca inteligente'
 id: 3QAE7sE58h96m4mw2Xv4qw
 status: PUBLISHED
 createdAt: 2022-11-25T15:09:58.987Z

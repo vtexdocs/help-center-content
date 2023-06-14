@@ -1,5 +1,5 @@
 ---
-title: Cubagem, Fator de Cubagem e como calcular Peso Cubado
+title: 'Cubagem, Fator de Cubagem e como calcular Peso Cubado'
 id: 2fgz8EKgM42BZP5C2KgC2v
 status: DRAFT
 createdAt: 2019-10-23T13:43:41.025Z

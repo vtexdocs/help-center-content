@@ -1,5 +1,5 @@
 ---
-title: "Build and scale your fulfillment operation with VTEX Pick and Pack"
+title: 'Build and scale your fulfillment operation with VTEX Pick and Pack'
 id: 5kaHPAss7KHnplbJyUsPmw
 status: PUBLISHED
 createdAt: 2023-04-06T18:48:49.599Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 5l9ZQjiivHzkEVjafL4O6v
 slug: build-and-scale-your-fulfillment-operation-with-vtex-pick-and-pack
 legacySlug: build-and-scale-your-fulfillment-operation-with-vtex-pick-and-pack
-announcementImageID: ""
-announcementSynopsisEN: VTEX Pick and Pack provides a single place for merchants to  manage picking, packing and last-mile delivery.
+announcementImageID: ''
+announcementSynopsisEN: 'VTEX Pick and Pack provides a single place for merchants to  manage picking, packing and last-mile delivery.'
 ---
 
 **[VTEX Pick and Pack](https://help.vtex.com/es/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU)** is the solution that provides a single place for you to manage picking, packing and last-mile delivery using inventory from physical stores and warehouses. 
@@ -24,7 +24,7 @@ In addition, **VTEX Pick and Pack** [collects data and analytics](https://help.v
 * [Last Mile](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr): Control of last-mile delivery.
 * **Mobile Applications:** Applications for pickers and couriers.
 
-![pick_pack_gif_EN](https://images.ctfassets.net/alneenqid6w5/5T6FQD7E0lFkze9DtsrDas/a6b1137ac375e1a046cc2a76a56e3958/pick_pack_gif_EN.gif)
+![pick_pack_gif_EN](//images.ctfassets.net/alneenqid6w5/5T6FQD7E0lFkze9DtsrDas/a6b1137ac375e1a046cc2a76a56e3958/pick_pack_gif_EN.gif)
 
 ## What has changed?
 

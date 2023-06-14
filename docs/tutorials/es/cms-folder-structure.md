@@ -1,5 +1,5 @@
 ---
-title: Estructura de carpetas del CMS
+title: 'Estructura de carpetas del CMS'
 id: 2RdMaJSv4AK4EyscmQuocu
 status: PUBLISHED
 createdAt: 2018-01-25T14:18:15.356Z

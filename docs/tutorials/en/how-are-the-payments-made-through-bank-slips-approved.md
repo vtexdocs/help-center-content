@@ -1,5 +1,5 @@
 ---
-title: How are the payments made through bank slips approved?
+title: 'How are the payments made through bank slips approved?'
 id: frequentlyAskedQuestions_489
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:53.873Z

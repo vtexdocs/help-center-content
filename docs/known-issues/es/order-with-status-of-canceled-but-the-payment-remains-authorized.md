@@ -1,5 +1,5 @@
 ---
-title: Pedido con estado de anulado pero el pago sigue autorizado
+title: 'Pedido con estado de anulado pero el pago sigue autorizado'
 id: 19WmIjIbAQmJ19AOC4q56N
 status: PUBLISHED
 createdAt: 2022-05-11T12:49:23.081Z

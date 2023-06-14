@@ -1,5 +1,5 @@
 ---
-title: Arredondamento do Valor Total em Ordens de Lista
+title: 'Arredondamento do Valor Total em Ordens de Lista'
 id: 4XyW5dYYny0wHSOuGbLCRw
 status: PUBLISHED
 createdAt: 2023-02-17T14:06:47.652Z

@@ -1,5 +1,5 @@
 ---
-title: Vinculando URLs em banners usando o Site Editor
+title: 'Vinculando URLs em banners usando o Site Editor'
 id: 4z2PagtN733waiWA8ttOuD
 status: PUBLISHED
 createdAt: 2021-07-19T15:00:50.647Z

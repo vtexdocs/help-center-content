@@ -1,5 +1,5 @@
 ---
-title: Falta de validação do número de telefone nas APIs de compra permitindo dados inválidos nos pedidos
+title: 'Falta de validação do número de telefone nas APIs de compra permitindo dados inválidos nos pedidos'
 id: 141uMln6PSWcm2YSE5UpSI
 status: PUBLISHED
 createdAt: 2022-10-18T22:35:54.297Z

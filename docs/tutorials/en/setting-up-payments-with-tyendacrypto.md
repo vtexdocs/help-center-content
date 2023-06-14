@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with TiendaCrypto
+title: 'Setting up payments with TiendaCrypto'
 id: 7qC52v2j7q7B0YUtLnW2I9
 status: PUBLISHED
 createdAt: 2023-05-26T18:19:21.462Z

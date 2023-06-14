@@ -1,5 +1,5 @@
 ---
-title: Erros de integração de estoque com a Amazon
+title: 'Erros de integração de estoque com a Amazon'
 id: 3t05cXK2vDbKCA6rifMMWj
 status: PUBLISHED
 createdAt: 2021-10-28T13:54:04.797Z

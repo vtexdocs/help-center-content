@@ -1,5 +1,5 @@
 ---
-title: Choosing between standard account, franchise account or Seller Portal
+title: 'Choosing between standard account, franchise account or Seller Portal'
 id: 4S90HzzhMyZESsHqrnUs78
 status: PUBLISHED
 createdAt: 2022-04-20T14:15:50.164Z

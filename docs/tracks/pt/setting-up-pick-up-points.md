@@ -1,5 +1,5 @@
 ---
-title: Configurar pontos de retirada 
+title: 'Configurar pontos de retirada '
 id: zHHAZQGqXCHko78EmuuN1
 status: DRAFT
 createdAt: 2020-07-01T13:13:41.945Z

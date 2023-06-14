@@ -1,5 +1,5 @@
 ---
-title: Configurar un conector de pagos
+title: 'Configurar un conector de pagos'
 id: 7pAEMAo4iqNHwYOarZ3zgm
 status: PUBLISHED
 createdAt: 2019-11-12T17:29:10.501Z

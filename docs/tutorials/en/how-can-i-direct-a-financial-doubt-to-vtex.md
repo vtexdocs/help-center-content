@@ -1,5 +1,5 @@
 ---
-title: How can I direct a financial doubt to VTEX?
+title: 'How can I direct a financial doubt to VTEX?'
 id: 5h8wQ6AqIEKYcU2mASqGEU
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:46.689Z

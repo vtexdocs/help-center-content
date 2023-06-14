@@ -1,5 +1,5 @@
 ---
-title: How to configure Subscriptions in your store
+title: 'How to configure Subscriptions in your store'
 id: 1FA9dfE7vJqxBna9Nft5Sj
 status: PUBLISHED
 createdAt: 2019-01-31T16:00:03.228Z

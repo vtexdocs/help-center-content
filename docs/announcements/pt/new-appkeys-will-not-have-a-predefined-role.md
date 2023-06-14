@@ -1,5 +1,5 @@
 ---
-title: "Novos appKeys serão criados sem um perfil de acesso predefinido"
+title: 'Novos appKeys serão criados sem um perfil de acesso predefinido'
 id: tOWdNXkLWdW9hRdGhJw0R
 status: PUBLISHED
 createdAt: 2021-01-06T19:24:51.000Z
@@ -10,8 +10,8 @@ productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: novos-appkeys-serao-criados-sem-um-perfil-de-acesso-predefinido
 legacySlug: novos-appkeys-serao-criados-sem-um-perfil-de-acesso-predefinido
-announcementImageID: ""
-announcementSynopsisPT: AppKeys não receberão mais o perfil de acesso Owner por padrão
+announcementImageID: ''
+announcementSynopsisPT: 'AppKeys não receberão mais o perfil de acesso Owner por padrão'
 ---
 
 A plataforma VTEX possui uma série de APIs REST, normalmente utilizadas para integrar soluções de terceiros, cujo acesso é dado através de credenciais específicas.

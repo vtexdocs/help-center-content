@@ -1,5 +1,5 @@
 ---
-title: Transaction stuck in Analyzing Risk due to null documentType field.
+title: 'Transaction stuck in Analyzing Risk due to null documentType field.'
 id: 5cZWkKc0ZXnMZCw4bvXJjA
 status: PUBLISHED
 createdAt: 2023-05-11T17:33:04.077Z

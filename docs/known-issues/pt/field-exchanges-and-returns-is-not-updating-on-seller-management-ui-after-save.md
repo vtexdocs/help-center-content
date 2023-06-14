@@ -1,5 +1,5 @@
 ---
-title: O campo "Trocas e devoluções" não está atualizando a interface de gestão do vendedor após salvar
+title: 'O campo "Trocas e devoluções" não está atualizando a interface de gestão do vendedor após salvar'
 id: 1z8LrsbGk5B2ejZ1PV9vaB
 status: PUBLISHED
 createdAt: 2022-11-01T17:47:30.359Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar filtro de rangos de precio
+title: 'Configurar filtro de rangos de precio'
 id: tutorials_240
 status: PUBLISHED
 createdAt: 2017-04-27T22:12:49.904Z
@@ -19,7 +19,7 @@ Importantísimas para navegación y búsqueda de los productos deseados en la ti
 
 El registro es sencillo y se pueden determinar diferentes rangos de precios para categorías, conforme a la imagen abajo:
 
-![faixa-de-preço es](https://images.ctfassets.net/alneenqid6w5/2j45MP5kMsA02YeMgMCy2y/9fa923fbae98e90882fabff0e2f7cf17/faixa-de-pre__o_es.png)
+![faixa-de-preço es](//images.ctfassets.net/alneenqid6w5/2j45MP5kMsA02YeMgMCy2y/9fa923fbae98e90882fabff0e2f7cf17/faixa-de-pre__o_es.png)
 
 Dentro de Fajas de Precio, haga clic en “Nuevo rango de precio” y rellene los campos:
 

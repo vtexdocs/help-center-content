@@ -1,5 +1,5 @@
 ---
-title: " Pix: prepare-se para esse novo meio de pagamento no seu e-commerce"
+title: ' Pix: prepare-se para esse novo meio de pagamento no seu e-commerce'
 id: 1v5clxhNiDST404Orzwrv6
 status: PUBLISHED
 createdAt: 2020-10-28T11:13:00.457Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 5kCzbURAoPwM0YJGmMCLyD
 slug: pix-prepare-se-para-esse-novo-meio-de-pagamento-no-seu-e-commerce
 legacySlug: pix-prepare-se-para-esse-novo-meio-de-pagamento-no-seu-e-commerce
-announcementImageID: ""
-announcementSynopsisPT: O Payment Provider Protocol, protocolo de integração de pagamentos da VTEX, já suporta o Pix como meio de pagamento.
+announcementImageID: ''
+announcementSynopsisPT: 'O Payment Provider Protocol, protocolo de integração de pagamentos da VTEX, já suporta o Pix como meio de pagamento.'
 ---
 
 As transações com o Pix –  novo método de pagamento do Banco Central – começarão a acontecer em 16 de Novembro de 2020 em todo o território nacional. Veja como se preparar para este novo método de pagamento na sua loja VTEX. 

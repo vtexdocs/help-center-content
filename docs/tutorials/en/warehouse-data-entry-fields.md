@@ -1,5 +1,5 @@
 ---
-title: Warehouse data entry fields
+title: 'Warehouse data entry fields'
 id: 3AvR9vXYIbiohz8yvtsn6a
 status: DRAFT
 createdAt: 2019-08-28T22:25:01.500Z

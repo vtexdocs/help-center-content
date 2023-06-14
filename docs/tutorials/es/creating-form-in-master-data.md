@@ -1,5 +1,5 @@
 ---
-title: Crear formulario en Master Data
+title: 'Crear formulario en Master Data'
 id: tutorials_1047
 status: PUBLISHED
 createdAt: 2017-04-27T21:57:35.614Z

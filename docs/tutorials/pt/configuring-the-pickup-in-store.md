@@ -1,5 +1,5 @@
 ---
-title: Configurar a retirada na loja (Pickup Store)
+title: 'Configurar a retirada na loja (Pickup Store)'
 id: frequentlyAskedQuestions_153
 status: DRAFT
 createdAt: 2019-01-24T20:45:50.866Z

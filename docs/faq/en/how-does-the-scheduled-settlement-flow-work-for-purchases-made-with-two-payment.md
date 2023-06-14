@@ -1,5 +1,5 @@
 ---
-title: How does the scheduled settlement flow work for purchases made with two payment methods?
+title: 'How does the scheduled settlement flow work for purchases made with two payment methods?'
 id: 32vvCkFrmbUydhI5ncFCja
 status: PUBLISHED
 createdAt: 2021-06-15T15:14:09.235Z

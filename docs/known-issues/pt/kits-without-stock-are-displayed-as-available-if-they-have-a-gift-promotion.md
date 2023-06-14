@@ -1,5 +1,5 @@
 ---
-title: Kits sem estoque são exibidos como disponíveis caso tenham promoção de brinde
+title: 'Kits sem estoque são exibidos como disponíveis caso tenham promoção de brinde'
 id: 5xHAJ10n3qMSOGECegw8Yo
 status: PUBLISHED
 createdAt: 2018-04-24T21:43:13.080Z

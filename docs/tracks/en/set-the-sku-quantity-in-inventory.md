@@ -1,5 +1,5 @@
 ---
-title: Set the SKU quantity in inventory
+title: 'Set the SKU quantity in inventory'
 id: 5pcUhteXHUoAo0Ece4ickO
 status: DRAFT
 createdAt: 2018-05-02T20:56:33.794Z

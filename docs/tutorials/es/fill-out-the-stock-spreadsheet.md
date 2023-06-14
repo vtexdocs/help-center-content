@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo llenar la planilla de stock
+title: '¿Cómo llenar la planilla de stock'
 id: 2EQ0XOe8aA0UyQso0k2kkA
 status: DRAFT
 createdAt: 2019-01-24T20:45:40.102Z

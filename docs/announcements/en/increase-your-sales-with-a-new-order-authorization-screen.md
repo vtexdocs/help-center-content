@@ -1,5 +1,5 @@
 ---
-title: "Increase your sales with a new Order Authorization screen"
+title: 'Increase your sales with a new Order Authorization screen'
 id: 7EXIgaESHfI46lkaZw9jrQ
 status: CHANGED
 createdAt: 2019-03-26T18:22:14.655Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 1E4UkWguFZAXjkguvNHPIv
 slug: increase-your-sales-with-a-new-order-authorization-screen
 legacySlug: increase-your-sales-with-a-new-order-authorization-screen
-announcementImageID: ""
-announcementSynopsisEN: This tool allows to control order approvals with changes in their values.
+announcementImageID: ''
+announcementSynopsisEN: 'This tool allows to control order approvals with changes in their values.'
 ---
 
 This tool allows to control order approvals with changes in their values. The changes exist in two ways:
@@ -21,7 +21,7 @@ This tool allows to control order approvals with changes in their values. The ch
 ## What changes? 
 Now, instead of opening a ticket directly with the support, you can manage the authorization rules by admin. To do this, go to the path: Menu - Order Management - Order Authorization.
 
-![ENAutorizacaoPedidos.PNG?h=250](https://images.ctfassets.net/alneenqid6w5/5DZywamKgUPvEGpYkTfZZ5/02ce2c609e45a7eccfacf103b5351f29/ENAutorizacaoPedidos.PNG_h_250)
+![ENAutorizacaoPedidos.PNG?h=250](//images.ctfassets.net/alneenqid6w5/5DZywamKgUPvEGpYkTfZZ5/02ce2c609e45a7eccfacf103b5351f29/ENAutorizacaoPedidos.PNG_h_250)
 
 ## What you need to do
 It is important to mention that the store will not lose the previous rules, which were done by opening a ticket to the support team. They will automatically update on the new screen.

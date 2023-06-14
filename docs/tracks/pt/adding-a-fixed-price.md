@@ -1,5 +1,5 @@
 ---
-title: Cadastrar preço fixo
+title: 'Cadastrar preço fixo'
 id: 3g39iXkQza4AW7C7L814mj
 status: CHANGED
 createdAt: 2019-07-04T13:53:38.630Z

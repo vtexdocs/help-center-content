@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with LibraPay
+title: 'Setting up payments with LibraPay'
 id: GZx4YVTVYbUf0PQFRzAne
 status: DRAFT
 createdAt: 2022-08-11T14:27:49.400Z

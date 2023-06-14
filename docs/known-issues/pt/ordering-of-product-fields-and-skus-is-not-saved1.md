@@ -1,5 +1,5 @@
 ---
-title: A ordenação de campos de produtos e SKUs não é salva
+title: 'A ordenação de campos de produtos e SKUs não é salva'
 id: 5UsBchV9uWw0eWn6G1d7AN
 status: DRAFT
 createdAt: 2022-02-15T18:20:03.680Z

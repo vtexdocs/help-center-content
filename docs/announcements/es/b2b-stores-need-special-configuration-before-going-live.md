@@ -1,5 +1,5 @@
 ---
-title: "Tiendas B2B ahora necesitan de configuración especial antes de salir al aire"
+title: 'Tiendas B2B ahora necesitan de configuración especial antes de salir al aire'
 id: 4XcRdSvBm4kKQB44gQ4FwT
 status: CHANGED
 createdAt: 2020-05-15T14:57:18.346Z
@@ -10,8 +10,8 @@ productTeam: Reliability
 author: 127RQ7SUoFfyTh5gbXUpdM
 slug: tiendas-b2b-necesitan-de-configuracion-especial-antes-de-salir-al-aire
 legacySlug: tiendas-b2b-necesitan-de-configuracion-especial-antes-de-salir-al-aire
-announcementImageID: ""
-announcementSynopsisES: Las tiendas B2B necesitan recibir una configuración especial por parte del equipo VTEX.
+announcementImageID: ''
+announcementSynopsisES: 'Las tiendas B2B necesitan recibir una configuración especial por parte del equipo VTEX.'
 ---
 
 __Clientes o partners que implementan tiendas B2B:__ Las tiendas B2B, de forma parecida a las que vienen de Loja Integrada o que están migrando a VTEX IO, ahora necesitan recibir una configuración especial por parte del equipo VTEX.

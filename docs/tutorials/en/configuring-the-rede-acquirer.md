@@ -1,5 +1,5 @@
 ---
-title: Configuring the Rede acquirer
+title: 'Configuring the Rede acquirer'
 id: 4FEVcvYWC4uS4yoYS2WAIw
 status: DRAFT
 createdAt: 2018-02-22T20:21:54.730Z

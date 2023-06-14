@@ -1,5 +1,5 @@
 ---
-title: Opção de parcelamento de 1x ausente no Checkout com várias condições de pagamento e configuração padrão definida para uma opção diferente
+title: 'Opção de parcelamento de 1x ausente no Checkout com várias condições de pagamento e configuração padrão definida para uma opção diferente'
 id: 6xzCd4cSKl7ygcptvqwZs9
 status: PUBLISHED
 createdAt: 2023-05-11T17:23:35.529Z

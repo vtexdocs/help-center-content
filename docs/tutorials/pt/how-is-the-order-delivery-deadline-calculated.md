@@ -1,5 +1,5 @@
 ---
-title: Como é calculado o prazo de entrega do pedido
+title: 'Como é calculado o prazo de entrega do pedido'
 id: 1TOuKCIjGQmqOqQkEqCg82
 status: PUBLISHED
 createdAt: 2018-01-12T12:56:52.805Z

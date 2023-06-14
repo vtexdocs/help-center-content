@@ -1,5 +1,5 @@
 ---
-title: "Ganhe facilidade para acessar informações de fatura com a nova coluna do relatório de pedidos"
+title: 'Ganhe facilidade para acessar informações de fatura com a nova coluna do relatório de pedidos'
 id: 691NLFaJYGwpfrOOmnQJsL
 status: CHANGED
 createdAt: 2019-05-22T19:41:07.812Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 6AcGyun1hSWewU8YcaQiO
 slug: ganhe-facilidade-para-acessar-informacoes-de-fatura-com-a-nova-coluna-do
 legacySlug: ganhe-facilidade-para-acessar-informacoes-de-fatura-com-a-nova-coluna-do
-announcementImageID: ""
-announcementSynopsisPT: O relatório de exportação de pedidos agora traz os dados de fatura na nova coluna Invoice Number
+announcementImageID: ''
+announcementSynopsisPT: 'O relatório de exportação de pedidos agora traz os dados de fatura na nova coluna Invoice Number'
 ---
 
 Para facilitar o acesso a informações importantes da sua operação, o relatório de pedidos agora traz os dados de identificação da nota fiscal dos seus pedidos. Essa informação está disponível na nova coluna de `Invoice Number`.

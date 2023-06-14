@@ -1,5 +1,5 @@
 ---
-title: A nova IU não mostra o valor faturado na página de itens de retorno
+title: 'A nova IU não mostra o valor faturado na página de itens de retorno'
 id: 3DBFXzWoz7jxSdgSLICV8i
 status: PUBLISHED
 createdAt: 2022-09-27T19:34:46.895Z

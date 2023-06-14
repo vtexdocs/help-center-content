@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com MACH
+title: 'Configurar pagamento com MACH'
 id: 7h2NpL6p94NSkNFoOhVG4q
 status: PUBLISHED
 createdAt: 2022-10-18T17:01:32.912Z

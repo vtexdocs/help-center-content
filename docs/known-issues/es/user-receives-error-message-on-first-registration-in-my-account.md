@@ -1,5 +1,5 @@
 ---
-title: El usuario recibe un mensaje de error al registrarse por primera vez en Mi cuenta
+title: 'El usuario recibe un mensaje de error al registrarse por primera vez en Mi cuenta'
 id: 1eFTt4iIxZsBPxd3UQ436r
 status: PUBLISHED
 createdAt: 2022-07-21T15:40:25.508Z

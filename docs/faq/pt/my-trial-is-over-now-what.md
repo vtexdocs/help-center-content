@@ -1,5 +1,5 @@
 ---
-title: Meu período trial acabou e agora?
+title: 'Meu período trial acabou e agora?'
 id: mZ2gwSAGMZefdDCo0hOqG
 status: PUBLISHED
 createdAt: 2022-08-29T21:04:42.133Z

@@ -1,5 +1,5 @@
 ---
-title: Limitações do campo isValueChangeable para transações com minimumValue de 0,01
+title: 'Limitações do campo isValueChangeable para transações com minimumValue de 0,01'
 id: 3Upg1JbyotDHZwfCLAD7v4
 status: PUBLISHED
 createdAt: 2023-05-12T19:59:34.646Z

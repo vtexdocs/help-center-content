@@ -1,5 +1,5 @@
 ---
-title: "VTEX IO's new translation system"
+title: 'VTEX IO's new translation system'
 id: CLDXiPt21R0R4lklbksqF
 status: DRAFT
 createdAt: 2019-02-18T21:18:44.129Z
@@ -10,8 +10,8 @@ productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
 slug: vtex-ios-new-translation-system
 legacySlug: vtex-ios-new-translation-system
-announcementImageID: ""
-announcementSynopsisEN: The new Messages App and the changes in the MessagesBuilder make the translation process easier and more complete.
+announcementImageID: ''
+announcementSynopsisEN: 'The new Messages App and the changes in the MessagesBuilder make the translation process easier and more complete.'
 ---
 
 We've launched the new __Messages App__, followed by major changes in the `MessagesBuilder`. The new features meet the needs of developers interested in a more complete translation system, which adds multilingual support to their front-end apps and the responses of back-end apps.

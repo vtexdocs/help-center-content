@@ -1,5 +1,5 @@
 ---
-title: La regionalización o las políticas comerciales no se tienen en cuenta al filtrar o clasificar los artículos por precio
+title: 'La regionalización o las políticas comerciales no se tienen en cuenta al filtrar o clasificar los artículos por precio'
 id: hipqkoLiWMSMEWJxecoIW
 status: PUBLISHED
 createdAt: 2023-05-08T14:46:49.797Z

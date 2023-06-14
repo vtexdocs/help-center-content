@@ -1,5 +1,5 @@
 ---
-title: Recursos del License Manager - VTEX ID
+title: 'Recursos del License Manager - VTEX ID'
 id: 4FkI0uxAiqiUKcjWzQmXVa
 status: DRAFT
 createdAt: 2022-02-16T21:07:47.044Z

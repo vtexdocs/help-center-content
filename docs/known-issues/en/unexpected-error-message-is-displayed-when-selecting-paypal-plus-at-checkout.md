@@ -1,5 +1,5 @@
 ---
-title: Unexpected error message is displayed when selecting PayPal Plus at checkout
+title: 'Unexpected error message is displayed when selecting PayPal Plus at checkout'
 id: 5ZxTkuVCHrFXCnpf4Q5Nb7
 status: PUBLISHED
 createdAt: 2019-03-20T17:56:18.673Z

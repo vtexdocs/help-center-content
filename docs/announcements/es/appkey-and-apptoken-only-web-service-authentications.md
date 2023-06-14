@@ -1,5 +1,5 @@
 ---
-title: "Autenticación Web Service: sólo por appKey y appToken"
+title: 'Autenticación Web Service: sólo por appKey y appToken'
 id: 6bi5pmHVE4cIqeEOIiakoW
 status: PUBLISHED
 createdAt: 2018-08-14T13:49:35.694Z
@@ -10,8 +10,8 @@ productTeam: Reliability
 author: authors_24
 slug: autenticacion-web-service-solo-por-appkey-y-apptoken
 legacySlug: autenticacion-web-service-solo-por-appkey-y-apptoken
-announcementImageID: ""
-announcementSynopsisES: A partir del 20/08, el lunes, el cambio se hará para garantizar más seguridad en las integraciones Web Service.
+announcementImageID: ''
+announcementSynopsisES: 'A partir del 20/08, el lunes, el cambio se hará para garantizar más seguridad en las integraciones Web Service.'
 ---
 
 <div class="alert-danger" role="alert">Ya no recomendamos utilizar el Web Service para nuevas integraciones.</div>

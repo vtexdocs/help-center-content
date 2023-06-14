@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with PicPay
+title: 'Setting up payments with PicPay'
 id: 5jd6wgPCaWm8IcguyCyaY2
 status: PUBLISHED
 createdAt: 2018-03-13T15:53:25.279Z

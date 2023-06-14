@@ -1,5 +1,5 @@
 ---
-title: Al mover las categorías no se actualiza el ID del departamento en los Productos
+title: 'Al mover las categorías no se actualiza el ID del departamento en los Productos'
 id: 7unyFh8IcgF7bmvXV7V37m
 status: PUBLISHED
 createdAt: 2022-06-23T19:50:55.026Z

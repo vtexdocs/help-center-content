@@ -1,5 +1,5 @@
 ---
-title: O componente de vídeo não funciona corretamente nos dispositivos iOS
+title: 'O componente de vídeo não funciona corretamente nos dispositivos iOS'
 id: 2bRQkTdRk2OJQMw5CKVieW
 status: PUBLISHED
 createdAt: 2022-07-01T17:21:47.912Z

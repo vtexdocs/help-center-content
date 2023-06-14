@@ -1,5 +1,5 @@
 ---
-title: La bandera de búsqueda no funciona en la Colección CMS heredada
+title: 'La bandera de búsqueda no funciona en la Colección CMS heredada'
 id: 47spDrddLoEmRbYmlj7wY2
 status: PUBLISHED
 createdAt: 2022-01-21T14:52:14.951Z

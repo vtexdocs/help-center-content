@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with VentiPay
+title: 'Setting up payments with VentiPay'
 id: 11n076tXgeLa1wDT3n2hyZ
 status: PUBLISHED
 createdAt: 2022-10-18T18:04:20.082Z

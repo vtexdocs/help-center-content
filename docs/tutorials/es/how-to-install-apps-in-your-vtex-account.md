@@ -1,5 +1,5 @@
 ---
-title: Cómo instalar apps en tu cuenta VTEX
+title: 'Cómo instalar apps en tu cuenta VTEX'
 id: 2AqqlpFeWIMkiaK6uamCiI
 status: DRAFT
 createdAt: 2017-06-09T17:46:47.714Z

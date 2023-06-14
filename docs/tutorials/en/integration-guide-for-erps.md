@@ -1,5 +1,5 @@
 ---
-title: Integration guide for ERPs
+title: 'Integration guide for ERPs'
 id: 3VuOwNLmb624ImooEIIkmO
 status: DRAFT
 createdAt: 2017-09-11T20:55:01.200Z

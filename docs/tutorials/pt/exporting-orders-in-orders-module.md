@@ -1,5 +1,5 @@
 ---
-title: Exportação de pedidos no módulo Pedidos
+title: 'Exportação de pedidos no módulo Pedidos'
 id: tutorials_6417
 status: PUBLISHED
 createdAt: 2017-04-27T21:48:52.052Z

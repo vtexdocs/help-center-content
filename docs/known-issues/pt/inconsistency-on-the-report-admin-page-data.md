@@ -1,5 +1,5 @@
 ---
-title: Inconsistência nos dados da página de administração do relatório
+title: 'Inconsistência nos dados da página de administração do relatório'
 id: 1PpUu4gA3esgGcdpIjITSu
 status: PUBLISHED
 createdAt: 2022-04-27T15:04:11.275Z

@@ -1,5 +1,5 @@
 ---
-title: Previsão de embarque mostrando erroneamente a mensagem de indisponibilidade para retirada
+title: 'Previsão de embarque mostrando erroneamente a mensagem de indisponibilidade para retirada'
 id: 6ntmev0Atk04FGnEy1U3QZ
 status: PUBLISHED
 createdAt: 2023-03-03T19:54:08.912Z

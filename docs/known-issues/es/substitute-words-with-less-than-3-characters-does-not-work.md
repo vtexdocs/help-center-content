@@ -1,5 +1,5 @@
 ---
-title: Sustituir palabras con menos de 3 caracteres no funciona
+title: 'Sustituir palabras con menos de 3 caracteres no funciona'
 id: 5sAdcBkmVVnRoQD3WUBNJ0
 status: PUBLISHED
 createdAt: 2022-06-08T20:03:47.576Z

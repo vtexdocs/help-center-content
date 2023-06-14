@@ -1,5 +1,5 @@
 ---
-title: Defining Magazine Luiza trade policy
+title: 'Defining Magazine Luiza trade policy'
 id: 5NcpxEUrgW1fgVI8iUKk3Z
 status: PUBLISHED
 createdAt: 2021-02-24T14:39:02.612Z

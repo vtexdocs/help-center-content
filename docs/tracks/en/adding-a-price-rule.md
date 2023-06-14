@@ -1,5 +1,5 @@
 ---
-title: Adding a price rule
+title: 'Adding a price rule'
 id: 7fyZaYe1IGzL0qVC28tOBO
 status: PUBLISHED
 createdAt: 2019-07-04T13:53:15.461Z

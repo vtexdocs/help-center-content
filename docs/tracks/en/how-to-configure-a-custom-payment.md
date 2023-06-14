@@ -1,5 +1,5 @@
 ---
-title: How to configure a custom payment
+title: 'How to configure a custom payment'
 id: 1wWt35dRwEboRs1nrSx7G0
 status: PUBLISHED
 createdAt: 2019-11-12T14:02:06.237Z

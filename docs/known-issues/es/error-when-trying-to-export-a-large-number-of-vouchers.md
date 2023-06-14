@@ -1,5 +1,5 @@
 ---
-title: Error al intentar exportar una gran cantidad de vales
+title: 'Error al intentar exportar una gran cantidad de vales'
 id: 1IGraA4i3GkEMow4iaO6MI
 status: PUBLISHED
 createdAt: 2017-04-03T19:51:03.949Z

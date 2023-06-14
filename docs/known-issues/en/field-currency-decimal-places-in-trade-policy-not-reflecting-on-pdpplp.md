@@ -1,5 +1,5 @@
 ---
-title: Field Currency decimal places in Trade Policy not reflecting on PDP/PLP
+title: 'Field Currency decimal places in Trade Policy not reflecting on PDP/PLP'
 id: 1QxxwRvFDUVnGHh5icIPpo
 status: PUBLISHED
 createdAt: 2022-11-09T17:40:35.832Z

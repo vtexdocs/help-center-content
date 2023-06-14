@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com DeunaNow
+title: 'Configurar pagamento com DeunaNow'
 id: 5Y4BfCdbQWraZAyoSm0Zzr
 status: PUBLISHED
 createdAt: 2023-04-06T18:37:58.919Z

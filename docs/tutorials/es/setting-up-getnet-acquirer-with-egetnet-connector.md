@@ -1,5 +1,5 @@
 ---
-title: Configurar adquirente Getnet con el conector Egetnet
+title: 'Configurar adquirente Getnet con el conector Egetnet'
 id: 75kwGKPKnK8mwiEmQGYiWq
 status: PUBLISHED
 createdAt: 2018-04-27T13:55:54.133Z

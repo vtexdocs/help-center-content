@@ -1,5 +1,5 @@
 ---
-title: Registrar los precios de los productos en inStore
+title: 'Registrar los precios de los productos en inStore'
 id: jA8jr6ovbUMM86K6KQ8Io
 status: DRAFT
 createdAt: 2018-03-19T15:40:33.681Z

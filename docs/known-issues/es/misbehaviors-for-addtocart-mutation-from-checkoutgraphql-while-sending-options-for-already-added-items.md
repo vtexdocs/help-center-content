@@ -1,5 +1,5 @@
 ---
-title: Comportamiento erróneo de la mutación addToCart de checkout-graphql al enviar las "opciones" de los artículos ya añadidos
+title: 'Comportamiento erróneo de la mutación addToCart de checkout-graphql al enviar las "opciones" de los artículos ya añadidos'
 id: 1lMWbgmBsOis9gAKcMm8ob
 status: PUBLISHED
 createdAt: 2022-05-03T20:42:18.655Z

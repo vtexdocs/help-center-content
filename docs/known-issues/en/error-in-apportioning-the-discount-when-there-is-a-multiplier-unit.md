@@ -1,5 +1,5 @@
 ---
-title: Error in apportioning the discount when there is a multiplier unit
+title: 'Error in apportioning the discount when there is a multiplier unit'
 id: 1AbljaKsBmoKwGQOMAKo2C
 status: PUBLISHED
 createdAt: 2018-03-20T19:21:20.708Z

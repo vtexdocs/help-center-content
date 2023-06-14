@@ -1,5 +1,5 @@
 ---
-title: Configurar Redirecionamentos
+title: 'Configurar Redirecionamentos'
 id: 4Gd2wLQFbCwTsh8RUDwSoL
 status: PUBLISHED
 createdAt: 2019-11-22T23:40:25.940Z
@@ -25,7 +25,7 @@ Para configurar um redirecionamento, você precisa seguir os passos a seguir:
 
 Você deve preencher os seguintes campos:
 
-![redirecionamentos-adminv4-PT](https://images.ctfassets.net/alneenqid6w5/69CWrwXk38Qxwb9fNNzYyc/ff394f626cfa64b037bdf652ec07ca38/Screenshot_2022-04-04_at_15-15-42_Intelligent_Search_-_Redirecionamentos.png)
+![redirecionamentos-adminv4-PT](//images.ctfassets.net/alneenqid6w5/69CWrwXk38Qxwb9fNNzYyc/ff394f626cfa64b037bdf652ec07ca38/Screenshot_2022-04-04_at_15-15-42_Intelligent_Search_-_Redirecionamentos.png)
 
 ### Informações gerais
 

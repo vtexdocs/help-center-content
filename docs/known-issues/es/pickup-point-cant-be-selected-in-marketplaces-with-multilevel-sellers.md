@@ -1,5 +1,5 @@
 ---
-title: No se puede seleccionar el punto de recogida en los mercados con vendedores multinivel
+title: 'No se puede seleccionar el punto de recogida en los mercados con vendedores multinivel'
 id: 1DGiyBrbw9qXGVMhX3k5gs
 status: PUBLISHED
 createdAt: 2023-01-11T19:57:54.964Z

@@ -1,5 +1,5 @@
 ---
-title: Una condición de periodo de tiempo especial puede no comportarse como se espera cuando se tiene como regla de pago única
+title: 'Una condición de periodo de tiempo especial puede no comportarse como se espera cuando se tiene como regla de pago única'
 id: 5bPV3FFGvHL0a8UyMuBxrc
 status: DRAFT
 createdAt: 2022-12-07T19:20:30.062Z

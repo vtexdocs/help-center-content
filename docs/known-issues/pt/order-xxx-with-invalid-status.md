@@ -1,5 +1,5 @@
 ---
-title: Pedido xxx com status inválido
+title: 'Pedido xxx com status inválido'
 id: 47wnxyMKwus7haRmDwu8rW
 status: PUBLISHED
 createdAt: 2022-01-31T23:03:38.788Z

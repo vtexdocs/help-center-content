@@ -1,5 +1,5 @@
 ---
-title: Pedido não é cancelado totalmente 
+title: 'Pedido não é cancelado totalmente '
 id: 5rEjHAKKVHQWbgkTpEBreV
 status: PUBLISHED
 createdAt: 2021-09-15T15:03:40.366Z

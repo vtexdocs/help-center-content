@@ -1,5 +1,5 @@
 ---
-title: Eliminación de parámetros de la dirección URL cuando no existe la página
+title: 'Eliminación de parámetros de la dirección URL cuando no existe la página'
 id: EbKaj7Laz6IEooYS2OuYW
 status: PUBLISHED
 createdAt: 2018-12-17T21:26:03.577Z

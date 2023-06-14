@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Clickspace (Olist)
+title: 'Configurar pago con Clickspace (Olist)'
 id: 5H5ultAfLIhnP30GwTEvgT
 status: DRAFT
 createdAt: 2022-08-10T22:43:50.049Z

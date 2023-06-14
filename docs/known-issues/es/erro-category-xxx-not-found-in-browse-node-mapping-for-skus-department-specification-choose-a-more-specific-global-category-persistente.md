@@ -1,5 +1,5 @@
 ---
-title: Erro "Categoría XXX no encontrada en el mapeo del nodo de navegación para la especificación del departamento de SKU, elija una categoría global más específica" persistente
+title: 'Erro "Categoría XXX no encontrada en el mapeo del nodo de navegación para la especificación del departamento de SKU, elija una categoría global más específica" persistente'
 id: 4DCJmkRvgh3qUYP9HYgtg2
 status: PUBLISHED
 createdAt: 2022-03-10T17:58:42.674Z

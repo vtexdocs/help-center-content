@@ -1,5 +1,5 @@
 ---
-title: Configurar Affirm
+title: 'Configurar Affirm'
 id: 4VED6U3u1LYAJaIMCy5xlN
 status: DRAFT
 createdAt: 2021-06-07T19:54:24.353Z

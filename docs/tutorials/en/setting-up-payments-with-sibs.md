@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with SIBS
+title: 'Setting up payments with SIBS'
 id: sNLPtJlAMnDpq40CCPKNo
 status: PUBLISHED
 createdAt: 2023-04-06T18:57:27.591Z

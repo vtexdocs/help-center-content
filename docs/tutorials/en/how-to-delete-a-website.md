@@ -1,5 +1,5 @@
 ---
-title: How to delete a website
+title: 'How to delete a website'
 id: 5nBkdmVqb6EscqSEYyUeIa
 status: PUBLISHED
 createdAt: 2018-01-10T17:43:37.730Z

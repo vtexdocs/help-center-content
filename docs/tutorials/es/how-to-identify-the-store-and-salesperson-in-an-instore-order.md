@@ -1,5 +1,5 @@
 ---
-title: Cómo identificar la tienda y el vendedor en un pedido de inStore
+title: 'Cómo identificar la tienda y el vendedor en un pedido de inStore'
 id: 4CXQ54PRqGKI2lOjFuJPQL
 status: DRAFT
 createdAt: 2020-11-07T00:10:46.437Z

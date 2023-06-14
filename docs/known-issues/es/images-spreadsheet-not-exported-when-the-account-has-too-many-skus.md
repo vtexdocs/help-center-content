@@ -1,5 +1,5 @@
 ---
-title: La hoja de cálculo de imágenes no se exporta cuando la cuenta tiene demasiados skus
+title: 'La hoja de cálculo de imágenes no se exporta cuando la cuenta tiene demasiados skus'
 id: 61QPFKVJfCSIMyX1iLuJbQ
 status: PUBLISHED
 createdAt: 2022-08-02T19:05:25.641Z

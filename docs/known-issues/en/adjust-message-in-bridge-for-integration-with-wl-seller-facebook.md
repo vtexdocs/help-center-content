@@ -1,5 +1,5 @@
 ---
-title: Adjust message in bridge for integration with WL seller - Facebook
+title: 'Adjust message in bridge for integration with WL seller - Facebook'
 id: 1BkqKFPOSVBWoXnbVLzwP7
 status: PUBLISHED
 createdAt: 2022-06-17T13:35:57.858Z

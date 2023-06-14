@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué un cliente logró registrar un CPF en un campo de CNPJ?
+title: '¿Por qué un cliente logró registrar un CPF en un campo de CNPJ?'
 id: 6FBJ2envYAI82eQQGMKQcm
 status: DRAFT
 createdAt: 2018-07-25T17:42:33.984Z
@@ -20,7 +20,7 @@ Siga estos pasos para validar la información:
 1. Acceda al Admin de su tienda: `https://{AccountName}.myvtex.com/admin`.
 2. En el menú lateral del Admin, haga clic en __Master Data__.
 3. En el cuadro __Profile System__, haga clic en __Clientes__.
-4. Seleccione la opción __E-mail__ y busque el correo electrónico del cliente.![e-mail - Master Data](https://images.ctfassets.net/alneenqid6w5/cjpYKSZ1i8USYqs8Yga4E/df2c4793391483458ffcf8209a222f69/e-mail_-_Master_Data.png)
+4. Seleccione la opción __E-mail__ y busque el correo electrónico del cliente.![e-mail - Master Data](//images.ctfassets.net/alneenqid6w5/cjpYKSZ1i8USYqs8Yga4E/df2c4793391483458ffcf8209a222f69/e-mail_-_Master_Data.png)
 5. Haga clic en el registro del cliente para acceder a los detalles del perfil.
 
 En la sección __Contato__, usted verá que la opción `Es Empresa?` Se llena con el valor `No`. Al mismo tiempo, en la sección __Datos de la empresa__, usted verá que el campo `Tipo documento` tiene el valor `cnpj`.

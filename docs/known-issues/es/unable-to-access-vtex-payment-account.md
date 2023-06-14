@@ -1,5 +1,5 @@
 ---
-title: No se puede acceder a la cuenta de pago VTEX.
+title: 'No se puede acceder a la cuenta de pago VTEX.'
 id: 3hcMhWyKTZj4S40a5DrxGA
 status: PUBLISHED
 createdAt: 2022-03-25T16:35:36.624Z

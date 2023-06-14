@@ -1,5 +1,5 @@
 ---
-title: Establezca la cantidad del SKU en inventario
+title: 'Establezca la cantidad del SKU en inventario'
 id: 5pcUhteXHUoAo0Ece4ickO
 status: DRAFT
 createdAt: 2018-05-02T20:56:33.794Z

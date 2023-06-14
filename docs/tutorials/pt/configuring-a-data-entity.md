@@ -1,5 +1,5 @@
 ---
-title: Configurando uma Entidade de Dados
+title: 'Configurando uma Entidade de Dados'
 id: 4RZZJhRb5KMaQOGAOCwqok
 status: DRAFT
 createdAt: 2017-06-21T21:16:27.425Z

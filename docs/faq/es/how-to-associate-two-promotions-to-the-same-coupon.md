@@ -1,5 +1,5 @@
 ---
-title: Cómo vincular dos promociones al mismo cupón
+title: 'Cómo vincular dos promociones al mismo cupón'
 id: 4xz45k6idaMF9nzTqOL9ik
 status: PUBLISHED
 createdAt: 2019-02-22T15:33:19.922Z
@@ -30,7 +30,7 @@ En este caso,
 4. Acceda a __¿Cuáles son las condiciones para que la promoción sea válida?__.
 5. Introduzca el código del cupón en __utm_source__.
 
-  ![Sincronizar promoções no mesmo cupom - 1 - ES](https://images.ctfassets.net/alneenqid6w5/7yJhwPnclx3tCiJdgpcYyv/c049994bcf92c903a7d4792330ad4306/7yJhwPnclx3tCiJdgpcYyv_-_ES.png)
+  ![Sincronizar promoções no mesmo cupom - 1 - ES](//images.ctfassets.net/alneenqid6w5/7yJhwPnclx3tCiJdgpcYyv/c049994bcf92c903a7d4792330ad4306/7yJhwPnclx3tCiJdgpcYyv_-_ES.png)
 
 6. Haga clic en 'Crear cupón a partir de las UTMs arriba'.
 7. Haga clic en 'Guardar'.
@@ -38,6 +38,6 @@ En este caso,
 9. Repita el proceso con la segunda promoción regular.
 10. Al final, ambas promociones deben presentar la misma UTM.
 
-  ![Sincronizar promoções no mesmo cupom - 2 - ES](https://images.ctfassets.net/alneenqid6w5/5nhdQy1Y4YWs4pHHokSA44/b1d28f6435312f320902fb62c12dc6b6/5nhdQy1Y4YWs4pHHokSA44_-_ES.png)
+  ![Sincronizar promoções no mesmo cupom - 2 - ES](//images.ctfassets.net/alneenqid6w5/5nhdQy1Y4YWs4pHHokSA44/b1d28f6435312f320902fb62c12dc6b6/5nhdQy1Y4YWs4pHHokSA44_-_ES.png)
 
 De este modo, el cliente puede quitar los dos valores antes de finalizar la compra.

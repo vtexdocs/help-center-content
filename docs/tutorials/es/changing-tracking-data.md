@@ -1,5 +1,5 @@
 ---
-title: Cambiar los datos de seguimiento
+title: 'Cambiar los datos de seguimiento'
 id: 63c2hG3fBSCnchiMBOR5Ck
 status: PUBLISHED
 createdAt: 2021-12-17T18:17:47.739Z
@@ -37,4 +37,4 @@ Para cambiar los datos de un pedido manualmente, sigue los pasos a continuación
     * **Seleccionar transportadora: **selecciona la transportadora que realizará la entrega.
 7. Haz clic en `Guardar`.
 
-![FaturaES](https://images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/a94ecc1266048ad8f4c973a0b9042c5a/FaturaES.png)
+![FaturaES](//images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/a94ecc1266048ad8f4c973a0b9042c5a/FaturaES.png)

@@ -1,5 +1,5 @@
 ---
-title: "Marketplace: nova barra lateral com detalhes de SKUs Recebidos"
+title: 'Marketplace: nova barra lateral com detalhes de SKUs Recebidos'
 id: 7qhY8onDDjdV9gGjICsyO4
 status: PUBLISHED
 createdAt: 2021-05-03T12:29:49.896Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: marketplace-nova-barra-lateral-com-detalhes-de-skus-recebidos
 legacySlug: marketplace-nova-barra-lateral-com-detalhes-de-skus-recebidos
-announcementImageID: ""
-announcementSynopsisPT: Catalogue SKUs Recebidos com mais agilidade, conferindo dados de SKUs  na nova barra lateral. 
+announcementImageID: ''
+announcementSynopsisPT: 'Catalogue SKUs Recebidos com mais agilidade, conferindo dados de SKUs  na nova barra lateral. '
 ---
 
 A página de [SKUs Recebidos](https://help.vtex.com/pt/tutorial/approving-suggestions-for-skus/) permite que o marketplace visualize, priorize e catalogue os itens enviados pelos sellers, tornando esses produtos disponíveis para venda. Nela, é possível catalogar os SKUs recebidos de sellers em relação aos SKUs e/ou produtos que já estão no marketplace, recusando-os, criando novos produtos, ou associando-os a produtos existentes. 
@@ -23,7 +23,7 @@ Até então, para conferir as informações de um SKU recebido era preciso acess
 
 A barra contém  imagens do SKU, preço, nível de estoque, além de outros atributos do produto, como descrição, especificações, códigos e IDs. Também inclui a porcentagem de equivalência que o SKU recebeu pelo [matcher](https://help.vtex.com/pt/tutorial/entendendo-a-pontuacao-do-vtex-matcher?locale=pt) instalado em sua loja. Ainda é possível acessar a página completa de detalhes do SKU, clicando no botão *Ver página de detalhes*. 
 
-![Sidebar received](https://images.ctfassets.net/alneenqid6w5/5weIxQqzG0wxPTsWu61XOI/6ea0f2c2f6403f60b7ca96418da7f04e/Sidebar_received.gif)
+![Sidebar received](//images.ctfassets.net/alneenqid6w5/5weIxQqzG0wxPTsWu61XOI/6ea0f2c2f6403f60b7ca96418da7f04e/Sidebar_received.gif)
 
 ## Por que fizemos essa mudança?
 

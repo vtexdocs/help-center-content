@@ -1,5 +1,5 @@
 ---
-title: Specification Field delete button not functional
+title: 'Specification Field delete button not functional'
 id: 3TYUya4gM3ciqmRNftr2sq
 status: PUBLISHED
 createdAt: 2022-08-16T18:21:40.181Z

@@ -1,5 +1,5 @@
 ---
-title: Cómo utilizar el Messages en apps del VTEX IO
+title: 'Cómo utilizar el Messages en apps del VTEX IO'
 id: tfvQmmt8Ozr95nLnQRQT1
 status: DRAFT
 createdAt: 2019-02-08T16:54:01.853Z

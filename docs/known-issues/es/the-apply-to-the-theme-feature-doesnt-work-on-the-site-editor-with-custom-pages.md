@@ -1,5 +1,5 @@
 ---
-title: La función Aplicar al tema no funciona en el Editor de Sitios con páginas personalizadas
+title: 'La función Aplicar al tema no funciona en el Editor de Sitios con páginas personalizadas'
 id: 5YkawaripXbohnZD04rj3O
 status: PUBLISHED
 createdAt: 2022-05-17T17:52:12.501Z

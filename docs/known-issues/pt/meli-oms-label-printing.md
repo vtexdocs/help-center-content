@@ -1,5 +1,5 @@
 ---
-title: Impressão do rótulo MELI OMS
+title: 'Impressão do rótulo MELI OMS'
 id: 6bjiu8eFZpTS3oGXiGQg34
 status: PUBLISHED
 createdAt: 2022-03-21T13:13:55.286Z

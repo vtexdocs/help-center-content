@@ -1,5 +1,5 @@
 ---
-title: Catalog Brand API REST permite al cliente romper la información si envía la petición con valores erróneos
+title: 'Catalog Brand API REST permite al cliente romper la información si envía la petición con valores erróneos'
 id: 1nYTOhy1TjaQOK6xDvU5H6
 status: PUBLISHED
 createdAt: 2023-03-10T20:26:07.105Z

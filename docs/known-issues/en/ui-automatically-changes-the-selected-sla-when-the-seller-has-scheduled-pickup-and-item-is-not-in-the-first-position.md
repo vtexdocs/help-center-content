@@ -1,5 +1,5 @@
 ---
-title: UI automatically changes the selected SLA when the seller has scheduled pick-up and item is not in the first position
+title: 'UI automatically changes the selected SLA when the seller has scheduled pick-up and item is not in the first position'
 id: 7Jcp2B8YnlWXHNqU4W0VfC
 status: PUBLISHED
 createdAt: 2023-06-13T23:59:24.235Z

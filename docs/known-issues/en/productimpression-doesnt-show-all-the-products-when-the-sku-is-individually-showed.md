@@ -1,5 +1,5 @@
 ---
-title: ProductImpression doesn't show all the products when the SKU is individually showed
+title: 'ProductImpression doesn't show all the products when the SKU is individually showed'
 id: 43HBv7fXndckoe9mCbMlwW
 status: PUBLISHED
 createdAt: 2022-12-16T12:23:06.408Z

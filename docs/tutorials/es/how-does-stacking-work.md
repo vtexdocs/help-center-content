@@ -1,5 +1,5 @@
 ---
-title: Cómo se maneja el apilamiento
+title: 'Cómo se maneja el apilamiento'
 id: tutorials_124
 status: PUBLISHED
 createdAt: 2017-04-27T22:18:33.952Z

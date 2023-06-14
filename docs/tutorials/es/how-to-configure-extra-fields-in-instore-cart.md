@@ -1,5 +1,5 @@
 ---
-title: Cómo configurar campos adicionales en el carrito de inStore
+title: 'Cómo configurar campos adicionales en el carrito de inStore'
 id: CDIG0jT2ak6eCOGKgOc0i
 status: DRAFT
 createdAt: 2017-08-14T23:05:34.624Z

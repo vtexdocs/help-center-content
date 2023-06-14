@@ -1,5 +1,5 @@
 ---
-title: Configuração da regra de Divergência de valores
+title: 'Configuração da regra de Divergência de valores'
 id: awAKP0sS5J8jgLs2g7pPe
 status: PUBLISHED
 createdAt: 2021-12-03T01:24:41.194Z
@@ -58,7 +58,7 @@ Uma vez definido o intervalo da regra de autorização, selecione uma das seguin
 
 Para configurar uma hierarquia de usuários responsáveis por aprovações de pedidos, é preciso inserir mais de um email e escolher a ordenação dos usuários cadastrados. É possível alterar esses usuários a qualquer momento, ao editar a regra de autorização de pedidos. Vale ressaltar que somente um usuário com [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) Admin Super (_Owner_) ou OMS Full pode editar a regra.
 
-Para criar a **2ª regra**, clique no <img class="shadow-4" src="https://https://images.ctfassets.net/alneenqid6w5/7E2BhdEapQ5Lmm4fLRKxpp/2770eaaa5af9653a71416c2f9677eb37/__cone_regras.JPG" /> sinal de adição. Esse mesmo procedimento vale para criar uma terceira ou quarta regra, e assim por diante. Após clicar no ícone, aparece a seguinte interface:
+Para criar a **2ª regra**, clique no <img class="shadow-4" src="https:////images.ctfassets.net/alneenqid6w5/7E2BhdEapQ5Lmm4fLRKxpp/2770eaaa5af9653a71416c2f9677eb37/__cone_regras.JPG" /> sinal de adição. Esse mesmo procedimento vale para criar uma terceira ou quarta regra, e assim por diante. Após clicar no ícone, aparece a seguinte interface:
 
 ![print_03_PT](https://drive.google.com/uc?export=download&id=1TNNvnvvX8wrFTNJswOXuWQGiaPzAINET)
 

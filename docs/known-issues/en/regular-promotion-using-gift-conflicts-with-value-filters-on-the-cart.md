@@ -1,5 +1,5 @@
 ---
-title: Regular Promotion using Gift conflicts with Value filters on the cart
+title: 'Regular Promotion using Gift conflicts with Value filters on the cart'
 id: oUDvaZPL0fjbN3v18QQIM
 status: PUBLISHED
 createdAt: 2022-07-25T19:29:19.209Z

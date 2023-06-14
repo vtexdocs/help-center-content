@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué el pedido fue cerrado por el marketplace sin stock?
+title: '¿Por qué el pedido fue cerrado por el marketplace sin stock?'
 id: frequentlyAskedQuestions_710
 status: DRAFT
 createdAt: 2017-04-27T22:28:42.230Z

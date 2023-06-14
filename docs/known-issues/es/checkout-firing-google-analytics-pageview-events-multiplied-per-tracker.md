@@ -1,5 +1,5 @@
 ---
-title: Disparo de eventos de páginas de Google Analytics multiplicados por rastreador
+title: 'Disparo de eventos de páginas de Google Analytics multiplicados por rastreador'
 id: 1XMmCfDdKVLEZ5SFq7TyrO
 status: PUBLISHED
 createdAt: 2022-05-12T14:51:41.067Z

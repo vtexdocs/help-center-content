@@ -1,5 +1,5 @@
 ---
-title: Admin App: Loading Animation
+title: 'Admin App: Loading Animation'
 id: 8jxf1b43IW6QSg4IegCwY
 status: DRAFT
 createdAt: 2018-08-09T21:18:03.210Z

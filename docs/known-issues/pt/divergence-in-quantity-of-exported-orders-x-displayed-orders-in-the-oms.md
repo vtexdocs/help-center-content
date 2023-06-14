@@ -1,5 +1,5 @@
 ---
-title: Divergência na quantidade de pedidos exportados x quantidade visualizada no Gerenciamento de Pedidos
+title: 'Divergência na quantidade de pedidos exportados x quantidade visualizada no Gerenciamento de Pedidos'
 id: 6sJzAuMwfY4moi6Eg6MwkW
 status: PUBLISHED
 createdAt: 2018-04-04T15:55:44.748Z

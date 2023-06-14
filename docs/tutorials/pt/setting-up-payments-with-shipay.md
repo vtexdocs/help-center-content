@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Shipay
+title: 'Configurar pagamento com Shipay'
 id: 2GVBCDdxZPexI2TikFf9Au
 status: PUBLISHED
 createdAt: 2023-03-27T14:40:05.161Z

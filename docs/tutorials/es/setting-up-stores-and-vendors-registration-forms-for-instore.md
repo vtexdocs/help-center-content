@@ -1,5 +1,5 @@
 ---
-title: Configurar formularios de registro de tiendas y vendedores para el inStore
+title: 'Configurar formularios de registro de tiendas y vendedores para el inStore'
 id: 1KJ79RwmMcC4ymyEIYAeA4
 status: DRAFT
 createdAt: 2018-03-06T21:26:24.205Z

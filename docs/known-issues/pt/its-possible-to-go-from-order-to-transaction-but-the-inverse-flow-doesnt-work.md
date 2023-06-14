@@ -1,5 +1,5 @@
 ---
-title: É possível ir da ordem para a transação, mas o fluxo inverso não funciona
+title: 'É possível ir da ordem para a transação, mas o fluxo inverso não funciona'
 id: 6du2dTCMNwdGDua01BEKAU
 status: PUBLISHED
 createdAt: 2022-03-15T20:54:12.442Z

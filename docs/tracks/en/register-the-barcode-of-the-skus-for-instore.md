@@ -1,5 +1,5 @@
 ---
-title: Register the barcode of the SKUs for VTEX Sales App
+title: 'Register the barcode of the SKUs for VTEX Sales App'
 id: 4eooWH0d8Aiwzparyi4Hg
 status: PUBLISHED
 createdAt: 2020-06-28T19:59:59.437Z

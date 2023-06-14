@@ -1,5 +1,5 @@
 ---
-title: Manual sorting of collections doesn't work as expected
+title: 'Manual sorting of collections doesn't work as expected'
 id: aGTNVDT6LKKoWuSceQWs0
 status: PUBLISHED
 createdAt: 2017-10-03T19:13:58.344Z

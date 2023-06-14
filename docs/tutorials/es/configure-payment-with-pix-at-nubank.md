@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Pix en Nubank
+title: 'Configurar pago con Pix en Nubank'
 id: 2pJBJdtkvyn645rL2sxyJy
 status: PUBLISHED
 createdAt: 2022-07-19T16:38:08.465Z

@@ -1,5 +1,5 @@
 ---
-title: How to configure Store Pickup
+title: 'How to configure Store Pickup'
 id: frequentlyAskedQuestions_153
 status: DRAFT
 createdAt: 2019-01-24T20:45:50.866Z

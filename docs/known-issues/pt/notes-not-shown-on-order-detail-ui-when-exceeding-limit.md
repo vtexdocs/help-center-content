@@ -1,5 +1,5 @@
 ---
-title: Notas não mostradas nos detalhes do pedido UI ao exceder o limite
+title: 'Notas não mostradas nos detalhes do pedido UI ao exceder o limite'
 id: 4rM3QCtcGExdLM0uFN4tOz
 status: PUBLISHED
 createdAt: 2022-06-03T18:45:04.454Z

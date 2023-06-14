@@ -1,5 +1,5 @@
 ---
-title: Product Rich Snippets not using AggregateOffer format for offers with more than one seller
+title: 'Product Rich Snippets not using AggregateOffer format for offers with more than one seller'
 id: pA3jkQ7qHjWXul7ZsBLy2
 status: PUBLISHED
 createdAt: 2023-02-14T12:45:02.825Z

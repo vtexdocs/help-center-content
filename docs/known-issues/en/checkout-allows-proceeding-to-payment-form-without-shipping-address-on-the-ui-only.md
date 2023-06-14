@@ -1,5 +1,5 @@
 ---
-title: Checkout allows proceeding to payment form without shipping address on the UI only
+title: 'Checkout allows proceeding to payment form without shipping address on the UI only'
 id: 3k9zxMq6Pl9WBnIz5Hy6Xf
 status: PUBLISHED
 createdAt: 2022-11-18T18:42:08.326Z

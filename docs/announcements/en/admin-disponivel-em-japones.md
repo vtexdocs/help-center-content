@@ -1,5 +1,5 @@
 ---
-title: "Kon’nichiwa! The Admin is now available in Japanese"
+title: 'Kon’nichiwa! The Admin is now available in Japanese'
 id: 4yij9hB2Hia3fTynwDXccF
 status: PUBLISHED
 createdAt: 2021-03-02T01:41:00.002Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: admin-disponivel-em-japones
 legacySlug: konnichiwa-the-admin-is-now-available-in-japanese
-announcementImageID: ""
-announcementSynopsisEN: The Admin has a new language option
+announcementImageID: ''
+announcementSynopsisEN: 'The Admin has a new language option'
 ---
 
 The Admin currently supports different language options. This enhances the overall product experience, not only through translations but also on a cultural level, taking into account the particularities of each country.
@@ -25,4 +25,4 @@ The Admin’s translation into Japanese was driven by the [opening of our new of
 
 ## What do you need to do
 To view the Admin in Japanese, select JP in the language dropdown menu in the upper right corner of the screen. 
-![Select JP](https://images.ctfassets.net/alneenqid6w5/4rQI0Nb2Bmz6P6dQs3Bixv/962f59494964fb2dddfb42f557949e28/japones.png)
+![Select JP](//images.ctfassets.net/alneenqid6w5/4rQI0Nb2Bmz6P6dQs3Bixv/962f59494964fb2dddfb42f557949e28/japones.png)

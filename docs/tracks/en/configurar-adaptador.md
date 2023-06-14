@@ -1,5 +1,5 @@
 ---
-title: Configurar Adaptador
+title: 'Configurar Adaptador'
 id: 5ICnxFovDDDGPWmt8aj9yy
 status: PUBLISHED
 createdAt: 2021-10-05T21:54:27.970Z

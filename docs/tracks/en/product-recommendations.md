@@ -1,5 +1,5 @@
 ---
-title: Product recommendations
+title: 'Product recommendations'
 id: 3zZrfsXNxiB27dTHslJlC9
 status: DRAFT
 createdAt: 2021-08-05T13:59:12.516Z

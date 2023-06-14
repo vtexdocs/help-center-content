@@ -1,5 +1,5 @@
 ---
-title: "Estoque & entrega: entenda o que mudou na aba "Gerenciar Inventário" "
+title: 'Estoque & entrega: entenda o que mudou na aba "Gerenciar Inventário" '
 id: 6AKTFKEdVMyjRdDBv3vGkv
 status: PUBLISHED
 createdAt: 2020-10-29T15:15:14.224Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: estoque-e-entrega-entenda-o-que-mudou-na-aba-gerenciar-inventario
 legacySlug: estoque-e-entrega-entenda-o-que-mudou-na-aba-gerenciar-inventario
-announcementImageID: ""
-announcementSynopsisPT: Além de melhorar a usabilidade da interface, mudamos o nome da aba para Gerenciar Inventário. 
+announcementImageID: ''
+announcementSynopsisPT: 'Além de melhorar a usabilidade da interface, mudamos o nome da aba para Gerenciar Inventário. '
 ---
 
 O módulo __Estoque & Entrega__ é onde você faz todo o gerenciamento da logística da sua loja. A sua aba *Inventário* permite que você confira e atualize a quantidade de itens disponíveis em seus estoques. Pensando em melhorar a experiência do módulo, atualizamos essa funcionalidade.

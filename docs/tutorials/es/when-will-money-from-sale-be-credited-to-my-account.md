@@ -1,5 +1,5 @@
 ---
-title: ¿Cuándo entra el dinero de una venta en mi cuenta?
+title: '¿Cuándo entra el dinero de una venta en mi cuenta?'
 id: 7GNnDHohqi3Tj6qytgq4Ce
 status: DRAFT
 createdAt: 2020-06-16T00:26:36.127Z

@@ -1,5 +1,5 @@
 ---
-title: Error al adjuntar archivos en MasterData
+title: 'Error al adjuntar archivos en MasterData'
 id: 2NkotRVyvWA3OHdxizCYgY
 status: PUBLISHED
 createdAt: 2019-02-15T18:42:41.461Z

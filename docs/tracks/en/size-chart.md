@@ -1,5 +1,5 @@
 ---
-title: Size chart
+title: 'Size chart'
 id: 4z0rWTM8tdYV5QeyP6JIxx
 status: DRAFT
 createdAt: 2020-10-13T17:43:29.309Z

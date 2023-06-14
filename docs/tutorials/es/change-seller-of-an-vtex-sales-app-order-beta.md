@@ -1,5 +1,5 @@
 ---
-title: Cambiar el seller de un pedido VTEX Sales App  - (Beta)
+title: 'Cambiar el seller de un pedido VTEX Sales App  - (Beta)'
 id: 6kJrNcroPbBpId9aCQTK1
 status: PUBLISHED
 createdAt: 2022-08-30T15:51:49.324Z

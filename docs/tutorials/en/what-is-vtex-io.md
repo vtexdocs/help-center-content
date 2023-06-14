@@ -1,5 +1,5 @@
 ---
-title: What is VTEX IO?
+title: 'What is VTEX IO?'
 id: 3VteNkO83SUuW88OUSCiS
 status: DRAFT
 createdAt: 2019-01-24T20:45:42.142Z

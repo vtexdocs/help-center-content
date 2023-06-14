@@ -1,5 +1,5 @@
 ---
-title: VTEX IO Cheatsheet
+title: 'VTEX IO Cheatsheet'
 id: 7CjVGlI1Lqu8M4muAWamQK
 status: DRAFT
 createdAt: 2018-02-22T02:15:58.079Z

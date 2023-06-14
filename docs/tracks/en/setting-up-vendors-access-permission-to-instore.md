@@ -1,5 +1,5 @@
 ---
-title: Setting up vendors access permission to inStore
+title: 'Setting up vendors access permission to inStore'
 id: 6iPj11m4LK2Yggq40KcciW
 status: DRAFT
 createdAt: 2018-03-15T21:32:47.484Z

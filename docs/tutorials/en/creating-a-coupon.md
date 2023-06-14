@@ -1,5 +1,5 @@
 ---
-title: How to create a coupon
+title: 'How to create a coupon'
 id: tutorials_319
 status: PUBLISHED
 createdAt: 2017-04-27T22:09:06.076Z

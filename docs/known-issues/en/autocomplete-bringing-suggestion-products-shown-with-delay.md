@@ -1,5 +1,5 @@
 ---
-title: Autocomplete bringing suggestion products shown with delay
+title: 'Autocomplete bringing suggestion products shown with delay'
 id: 26ydVkjgikjeBq8Jxuh0Vr
 status: PUBLISHED
 createdAt: 2022-07-12T12:21:25.537Z

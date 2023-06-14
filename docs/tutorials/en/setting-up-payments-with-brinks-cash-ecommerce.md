@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Brinks Cash Ecommerce
+title: 'Setting up payments with Brinks Cash Ecommerce'
 id: 5Zoex6NXtyzUFOCctdGjlZ
 status: PUBLISHED
 createdAt: 2022-08-15T17:49:34.660Z

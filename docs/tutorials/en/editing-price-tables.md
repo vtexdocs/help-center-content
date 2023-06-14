@@ -1,5 +1,5 @@
 ---
-title: Editing price tables
+title: 'Editing price tables'
 id: JyjANVnrVVKfIrj3ZYMiM
 status: PUBLISHED
 createdAt: 2021-03-30T17:47:11.755Z

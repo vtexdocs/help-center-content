@@ -1,5 +1,5 @@
 ---
-title: Mapeamento de categorias, marcas e especificações para marketplace
+title: 'Mapeamento de categorias, marcas e especificações para marketplace'
 id: tutorials_1521
 status: PUBLISHED
 createdAt: 2017-04-27T21:56:09.345Z

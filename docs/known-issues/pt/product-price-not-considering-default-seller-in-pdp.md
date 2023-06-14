@@ -1,5 +1,5 @@
 ---
-title: Preço do produto não considerando o vendedor padrão no PDP
+title: 'Preço do produto não considerando o vendedor padrão no PDP'
 id: 4VOIW6kCTfFZ3S9u3xtdDF
 status: PUBLISHED
 createdAt: 2022-02-23T21:52:42.520Z

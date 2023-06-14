@@ -1,5 +1,5 @@
 ---
-title: "Nova funcionalidade Pronto para envio"
+title: 'Nova funcionalidade Pronto para envio'
 id: 7mBy4v8f3RYybnuPnWtKp9
 status: PUBLISHED
 createdAt: 2022-02-14T13:49:22.658Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 30TBnJ838LXSZvdJFlcB8H
 slug: nova-funcionalidade-pronto-para-envio
 legacySlug: nova-funcionalidade-pronto-para-envio
-announcementImageID: ""
-announcementSynopsisPT: Nova funcionalidade do VTEX Log para impressão de etiquetas e notificação de transportadoras.
+announcementImageID: ''
+announcementSynopsisPT: 'Nova funcionalidade do VTEX Log para impressão de etiquetas e notificação de transportadoras.'
 ---
 
 Para que o envio de pacotes seja feito pelas transportadoras é preciso que cada pacote tenha uma etiqueta com as informações de envio. Normalmente as etiquetas seguem um padrão definido pela transportadora responsável pelo envio, e a loja deve ter capacidade de identificar e determinar cada pacote enviado para a respectiva transportadora. Para facilitar esse processo de etiquetagem dos pacotes, lojas que utilizam a solução [VTEX Shipping Network ](https://vtex.com/br-pt/log/)agora tem disponível a funcionalidade **Pronto para envio**.

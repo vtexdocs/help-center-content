@@ -1,5 +1,5 @@
 ---
-title: Configurar el TaxHub
+title: 'Configurar el TaxHub'
 id: 4M1vCzCCZOwqwKuMAegUmm
 status: DRAFT
 createdAt: 2017-08-02T13:10:50.494Z

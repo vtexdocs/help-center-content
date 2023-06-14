@@ -1,5 +1,5 @@
 ---
-title: ¿Es posible determinar el mínimo de items en un carrito?
+title: '¿Es posible determinar el mínimo de items en un carrito?'
 id: 3rhoZXYon6aaGqusgOwukQ
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:41.366Z

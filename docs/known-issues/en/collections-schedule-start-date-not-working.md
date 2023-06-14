@@ -1,5 +1,5 @@
 ---
-title: Collections Schedule Start Date not Working
+title: 'Collections Schedule Start Date not Working'
 id: 3G6rD1JIm5BaZhFkFrdvok
 status: PUBLISHED
 createdAt: 2022-10-28T18:07:53.326Z

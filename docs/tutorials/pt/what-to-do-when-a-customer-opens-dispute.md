@@ -1,5 +1,5 @@
 ---
-title: O que fazer quando um cliente abre uma disputa?
+title: 'O que fazer quando um cliente abre uma disputa?'
 id: JIKPGpj4B0E7XRF9YOJ09
 status: DRAFT
 createdAt: 2020-07-17T16:15:14.306Z

@@ -1,5 +1,5 @@
 ---
-title: La exportación de especificaciones de SKU de catálogo no siempre exportará todos los datos si la categoría seleccionada es un departamento.
+title: 'La exportación de especificaciones de SKU de catálogo no siempre exportará todos los datos si la categoría seleccionada es un departamento.'
 id: 1FrmIfWuDpbWSMvAnLuuho
 status: PUBLISHED
 createdAt: 2023-05-30T15:36:48.918Z

@@ -1,5 +1,5 @@
 ---
-title: "Adding new cards to the My Cards page now requires reCAPTCHA validation"
+title: 'Adding new cards to the My Cards page now requires reCAPTCHA validation'
 id: 67gG1eZGUBHQXqEBwTfLk9
 status: PUBLISHED
 createdAt: 2021-11-18T13:23:24.255Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: adding-new-cards-to-the-my-cards-page-now-requires-recaptcha-validation
 legacySlug: adding-new-cards-to-the-my-cards-page-now-requires-recaptcha-validation
-announcementImageID: ""
-announcementSynopsisEN: reCAPTCHA validation will be required whenever a customer manually adds a new card to your store’s My Cards page.
+announcementImageID: ''
+announcementSynopsisEN: 'reCAPTCHA validation will be required whenever a customer manually adds a new card to your store’s My Cards page.'
 ---
 
 Starting November 18, 2021, [reCAPTCHA](https://developers.google.com/recaptcha/docs/display) validation will be required whenever a customer manually adds a new card to your store’s [My Cards page](https://help.vtex.com/en/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#cartoes).

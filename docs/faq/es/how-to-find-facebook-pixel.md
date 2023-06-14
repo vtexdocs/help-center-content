@@ -1,5 +1,5 @@
 ---
-title: Cómo encontrar el píxel de Facebook
+title: 'Cómo encontrar el píxel de Facebook'
 id: 7KkyRBlcDqp1GLIJNYGbUR
 status: PUBLISHED
 createdAt: 2022-08-29T19:56:41.183Z

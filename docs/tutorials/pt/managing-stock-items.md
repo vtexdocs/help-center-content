@@ -1,5 +1,5 @@
 ---
-title: Gerenciar inventário
+title: 'Gerenciar inventário'
 id: tutorials_139
 status: PUBLISHED
 createdAt: 2017-04-27T22:17:21.085Z

@@ -1,5 +1,5 @@
 ---
-title: "You can now restrict user access to the Settings screen on the Orders Management module"
+title: 'You can now restrict user access to the Settings screen on the Orders Management module'
 id: 6z7TjQRMNWTmR1lKivjehn
 status: PUBLISHED
 createdAt: 2019-06-07T14:18:18.903Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: you-can-now-restrict-user-access-to-the-settings-screen-on-the-orders
 legacySlug: you-can-now-restrict-user-access-to-the-settings-screen-on-the-orders
-announcementImageID: ""
-announcementSynopsisEN: Possibility to limit user access to the Settings screen
+announcementImageID: ''
+announcementSynopsisEN: 'Possibility to limit user access to the Settings screen'
 ---
 
 <div class="alert alert-warning">
@@ -20,7 +20,7 @@ From June 25 <sup>th</sup>, 2019, users without access to <code>Checkout</code> 
 
 Seeking to ensure greater safety, we created the possibility to limit user access to the **Settings** screen on the Orders Management module, allowing information to be edited by selected users only. 
 
-![2019-06-07 17 24 10-Settings.en](https://images.ctfassets.net/alneenqid6w5/6YfxLgI43YD5FwrXu92j2A/aca4f546516816fabd42f25a39450a6d/2019-06-07_17_24_10-Settings.en.png)
+![2019-06-07 17 24 10-Settings.en](//images.ctfassets.net/alneenqid6w5/6YfxLgI43YD5FwrXu92j2A/aca4f546516816fabd42f25a39450a6d/2019-06-07_17_24_10-Settings.en.png)
 
 ## Main Advantages 
 
@@ -40,7 +40,7 @@ In order to do this, you need to add a product called `Checkout` to the desired 
 6. Choose the type of permission you wish to grant: either `Save Order Configuration` if you want to allow the user to edit the **Orders** secction, or `Save OrderForm Configuration` if you want the user to edit the **Cart** section.
 7. Finally, click on **Save**.
 
-![GIT-Checkout.en](https://images.ctfassets.net/alneenqid6w5/1stGxj4wiW6Ijfl4f5QFry/481f3c628d303dc72a40db8bbb81a89e/GIT-Checkout.en.gif)
+![GIT-Checkout.en](//images.ctfassets.net/alneenqid6w5/1stGxj4wiW6Ijfl4f5QFry/481f3c628d303dc72a40db8bbb81a89e/GIT-Checkout.en.gif)
 
 Upon adding this new product to a profile, ensure that the desired users are in fact linked to this profile.
 

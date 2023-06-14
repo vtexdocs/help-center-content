@@ -1,5 +1,5 @@
 ---
-title: Error de encoding en Mail App de Apple
+title: 'Error de encoding en Mail App de Apple'
 id: 1ppf3Edw6gSikk0KY44gmS
 status: PUBLISHED
 createdAt: 2018-06-26T17:54:35.967Z
@@ -28,7 +28,7 @@ Montar un trigger de envío de correo electrónico que tenga carácter especial 
 
 Resultado:
 
-![png](https://images.ctfassets.net/alneenqid6w5/2O4zWlYa1WoaQ0sUMUKS2Q/2862790a2e5124fcb612a7f17774a339/png.png)
+![png](//images.ctfassets.net/alneenqid6w5/2O4zWlYa1WoaQ0sUMUKS2Q/2862790a2e5124fcb612a7f17774a339/png.png)
 
 ## Workaround
 

@@ -1,5 +1,5 @@
 ---
-title: License Manager Access for Sales Channel management is not working.
+title: 'License Manager Access for Sales Channel management is not working.'
 id: 3WDPBnMmivNPhalJwC8ZmA
 status: PUBLISHED
 createdAt: 2022-01-25T20:47:12.501Z

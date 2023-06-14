@@ -1,5 +1,5 @@
 ---
-title: As promoções por ordem de pagamento não aparecem na página do produto
+title: 'As promoções por ordem de pagamento não aparecem na página do produto'
 id: HZ5IoCFFOhuxU0jQWkMPp
 status: PUBLISHED
 createdAt: 2019-08-13T20:45:50.232Z

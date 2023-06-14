@@ -1,5 +1,5 @@
 ---
-title: El nombre del grupo no se actualiza automáticamente en la Búsqueda Inteligente
+title: 'El nombre del grupo no se actualiza automáticamente en la Búsqueda Inteligente'
 id: 1GKDLtbKdYA0hq9YUhF2Bt
 status: PUBLISHED
 createdAt: 2023-05-08T19:00:44.637Z

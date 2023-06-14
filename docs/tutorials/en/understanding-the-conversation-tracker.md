@@ -1,5 +1,5 @@
 ---
-title: How communication with the client is made during the order flow
+title: 'How communication with the client is made during the order flow'
 id: tutorials_195
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:41.243Z

@@ -1,5 +1,5 @@
 ---
-title: Check change logs in Master Data
+title: 'Check change logs in Master Data'
 id: 7CSY1eKpl9YiFMmaAGgiQl
 status: PUBLISHED
 createdAt: 2019-03-18T15:21:13.487Z

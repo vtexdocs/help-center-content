@@ -1,5 +1,5 @@
 ---
-title: Cómo migrar de Recurrencia para el módulo Suscripciones
+title: 'Cómo migrar de Recurrencia para el módulo Suscripciones'
 id: 3nJ4pbsRHEyKmvoN0foYRi
 status: DRAFT
 createdAt: 2020-02-19T20:12:20.544Z

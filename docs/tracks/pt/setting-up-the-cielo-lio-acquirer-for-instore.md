@@ -1,5 +1,5 @@
 ---
-title: Configurar o adquirente Cielo LIO para o inStore
+title: 'Configurar o adquirente Cielo LIO para o inStore'
 id: 2X8bWpsWGOLOCToLZSbUkA
 status: DRAFT
 createdAt: 2020-06-28T15:28:38.682Z

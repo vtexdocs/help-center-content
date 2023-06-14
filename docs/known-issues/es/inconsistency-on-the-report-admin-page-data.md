@@ -1,5 +1,5 @@
 ---
-title: Inconsistencia en los datos de la página Report Admin
+title: 'Inconsistencia en los datos de la página Report Admin'
 id: 1PpUu4gA3esgGcdpIjITSu
 status: PUBLISHED
 createdAt: 2022-04-27T15:04:11.275Z

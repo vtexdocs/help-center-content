@@ -1,5 +1,5 @@
 ---
-title: No se consigue quitar un valor de atributo tipo texto por WebService a un producto
+title: 'No se consigue quitar un valor de atributo tipo texto por WebService a un producto'
 id: 3jyqCliMA8026y2GgwQoyG
 status: PUBLISHED
 createdAt: 2018-01-02T21:22:34.885Z

@@ -1,5 +1,5 @@
 ---
-title: Definir la Estrategia de Envío
+title: 'Definir la Estrategia de Envío'
 id: 6T5EBd0pXLftDqGvWxarR8
 status: PUBLISHED
 createdAt: 2021-08-10T20:43:41.794Z

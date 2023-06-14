@@ -1,5 +1,5 @@
 ---
-title: Crear una app React estática
+title: 'Crear una app React estática'
 id: 1obR8EKcuMCqouWMMksIM2
 status: DRAFT
 createdAt: 2018-02-21T23:03:04.114Z

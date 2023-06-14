@@ -1,5 +1,5 @@
 ---
-title: Código Postal como condición en una promoción no considera el país
+title: 'Código Postal como condición en una promoción no considera el país'
 id: 5rPGioNAiWaEmAIMQSACaM
 status: PUBLISHED
 createdAt: 2017-04-05T12:24:01.042Z

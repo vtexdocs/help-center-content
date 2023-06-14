@@ -1,5 +1,5 @@
 ---
-title: XML URL on the admin showing wrong link
+title: 'XML URL on the admin showing wrong link'
 id: 2INFcpo4UriIfAndQbXxwD
 status: PUBLISHED
 createdAt: 2022-01-21T14:39:16.879Z

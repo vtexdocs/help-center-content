@@ -1,5 +1,5 @@
 ---
-title: Error SWW en el producto PDP
+title: 'Error SWW en el producto PDP'
 id: 3DhuWocQwqiWxuAffdwYkg
 status: PUBLISHED
 createdAt: 2023-01-23T12:38:30.711Z

@@ -1,5 +1,5 @@
 ---
-title: Wordpress
+title: 'Wordpress'
 id: 6UGnuSYShU7zE0t44w9set
 status: PUBLISHED
 createdAt: 2022-08-30T14:52:39.859Z

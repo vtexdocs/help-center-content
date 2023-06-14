@@ -1,5 +1,5 @@
 ---
-title: En un escenario de pago dividido cuando el importe ya ha sido capturado, la pasarela ya no permite una solicitud de cancelación.
+title: 'En un escenario de pago dividido cuando el importe ya ha sido capturado, la pasarela ya no permite una solicitud de cancelación.'
 id: 5qVUfltwPb3FacbECRsNa0
 status: PUBLISHED
 createdAt: 2023-01-27T20:13:21.397Z

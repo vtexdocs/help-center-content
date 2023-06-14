@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Yuno
+title: 'Configurar pagamento com Yuno'
 id: h7PS0vDJJokqI9axZPNzE
 status: PUBLISHED
 createdAt: 2023-04-14T12:42:43.736Z

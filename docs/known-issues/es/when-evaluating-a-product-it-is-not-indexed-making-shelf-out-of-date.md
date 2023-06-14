@@ -1,5 +1,5 @@
 ---
-title: Al evaluar un producto, él no se indiza, dejando la vitrina desfasada
+title: 'Al evaluar un producto, él no se indiza, dejando la vitrina desfasada'
 id: 1SdYr4o8G4uuq4yy8S002A
 status: PUBLISHED
 createdAt: 2017-08-10T17:41:52.600Z

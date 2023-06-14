@@ -1,5 +1,5 @@
 ---
-title: Seleccionando stock para pedidos de Mercado Envíos Full
+title: 'Seleccionando stock para pedidos de Mercado Envíos Full'
 id: 7M4HCsV16LmWXpp20DEpAd
 status: PUBLISHED
 createdAt: 2020-12-01T20:00:15.583Z
@@ -26,8 +26,8 @@ Cuando el stock esté registrado, realice los siguientes pasos:
 2. En el módulo **Inventario y envío**, haga clic en **Estrategia de envío**.
 3. En **Estrategia de envío**, seleccione la pestaña **Almacenes** y copie el ID del stock que desea utilizar. 
 4. Luego, vaya al módulo **Marketplace**, seleccione la opción **Integraciones** y haga clic en **Configuración**.
-5. En la integración de Mercado Libre, haga clic en el ícono de engranaje <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" /> y seleccione la opción **Editar configuración**.
+5. En la integración de Mercado Libre, haga clic en el ícono de engranaje <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" /> y seleccione la opción **Editar configuración**.
 6. Ingrese el ID del stock seleccionado en el campo **Almacén Mercado Full**.
 7. Para finalizar, haga clic en **Guardar Configuración**.
 
-![Início (3)](https://images.ctfassets.net/alneenqid6w5/4iKrvuMuXZBzVzrZU7hWev/3f1bcba69b69cce6b56ff2afac670c6d/In__cio__3_.gif)
+![Início (3)](//images.ctfassets.net/alneenqid6w5/4iKrvuMuXZBzVzrZU7hWev/3f1bcba69b69cce6b56ff2afac670c6d/In__cio__3_.gif)

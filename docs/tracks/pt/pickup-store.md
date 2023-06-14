@@ -1,5 +1,5 @@
 ---
-title: Retirada na loja
+title: 'Retirada na loja'
 id: 43NDZ5mCzCSagk880MeYIC
 status: DRAFT
 createdAt: 2018-06-22T14:41:52.415Z

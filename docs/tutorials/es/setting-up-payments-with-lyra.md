@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Lyra
+title: 'Configurar pago con Lyra'
 id: 1FlJmbVEqF8KJ5ueZUpCWM
 status: DRAFT
 createdAt: 2022-10-18T13:23:05.314Z

@@ -1,5 +1,5 @@
 ---
-title: La fecha de entrega se vacía cuando el artículo es un regalo añadido
+title: 'La fecha de entrega se vacía cuando el artículo es un regalo añadido'
 id: 5HMepNuoEHY0xJPm4PKPb4
 status: PUBLISHED
 createdAt: 2022-05-25T21:39:17.092Z

@@ -1,5 +1,5 @@
 ---
-title: Como integrar um provedor de Gift Card externo à VTEX
+title: 'Como integrar um provedor de Gift Card externo à VTEX'
 id: tutorials_450
 status: PUBLISHED
 createdAt: 2017-04-27T22:05:26.566Z

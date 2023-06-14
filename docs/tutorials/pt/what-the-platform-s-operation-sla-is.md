@@ -1,5 +1,5 @@
 ---
-title: O que é o SLA de operação da plataforma
+title: 'O que é o SLA de operação da plataforma'
 id: 2cIFrsY5S8usk84OU4QOKm
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:48.688Z

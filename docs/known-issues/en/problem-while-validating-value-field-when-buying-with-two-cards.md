@@ -1,5 +1,5 @@
 ---
-title: Problem while validating value field when buying with two cards
+title: 'Problem while validating value field when buying with two cards'
 id: 6dr0p9WQPSHLkFaSbjI9J7
 status: PUBLISHED
 createdAt: 2022-03-28T01:05:19.734Z

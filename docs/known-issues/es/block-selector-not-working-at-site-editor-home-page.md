@@ -1,5 +1,5 @@
 ---
-title: El selector de bloques no funciona en la página de inicio del Editor de Sitios
+title: 'El selector de bloques no funciona en la página de inicio del Editor de Sitios'
 id: 5E1rjZUaL9Jo25JtGcf77C
 status: PUBLISHED
 createdAt: 2022-03-21T17:40:56.902Z

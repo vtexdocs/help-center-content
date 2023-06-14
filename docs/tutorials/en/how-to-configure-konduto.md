@@ -1,5 +1,5 @@
 ---
-title: How to configure Konduto
+title: 'How to configure Konduto'
 id: tutorials_3125
 status: PUBLISHED
 createdAt: 2017-04-27T21:52:18.180Z

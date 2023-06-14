@@ -1,5 +1,5 @@
 ---
-title: Catálogo - Definição de conceito
+title: 'Catálogo - Definição de conceito'
 id: 3rA2tTpIoEXdv2nzC27zxR
 status: PUBLISHED
 createdAt: 2019-05-20T20:32:58.602Z

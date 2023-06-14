@@ -1,5 +1,5 @@
 ---
-title: Layout malfunctions when adding or removing a filter
+title: 'Layout malfunctions when adding or removing a filter'
 id: 4J4xxzzbi8cMge8qQq2cOy
 status: PUBLISHED
 createdAt: 2018-01-24T15:02:47.100Z

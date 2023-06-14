@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with GlobalPay-Redeban
+title: 'Setting up payments with GlobalPay-Redeban'
 id: a2P5n6TrTwsGTqEwfyAE8
 status: DRAFT
 createdAt: 2022-03-17T13:25:31.456Z

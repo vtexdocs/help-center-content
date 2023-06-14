@@ -1,5 +1,5 @@
 ---
-title: El email de confirmación del pedido se envía dos veces cuando se utilizan dos medios de pago diferentes
+title: 'El email de confirmación del pedido se envía dos veces cuando se utilizan dos medios de pago diferentes'
 id: 3QkvzMI8Tx6k9ikQSsREpt
 status: PUBLISHED
 createdAt: 2021-09-21T14:38:35.783Z

@@ -1,5 +1,5 @@
 ---
-title: How to migrate from Recurrence to Subscriptions module
+title: 'How to migrate from Recurrence to Subscriptions module'
 id: 3nJ4pbsRHEyKmvoN0foYRi
 status: DRAFT
 createdAt: 2020-02-19T20:12:20.544Z

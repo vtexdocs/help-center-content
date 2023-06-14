@@ -1,5 +1,5 @@
 ---
-title: Site Editor - Visão geral
+title: 'Site Editor - Visão geral'
 id: 299Dbeb9mFczUTyNQ9xPe1
 status: PUBLISHED
 createdAt: 2021-12-14T20:14:01.406Z
@@ -22,7 +22,7 @@ Site Editor é uma interface gráfica de gerenciamento de conteúdo da sua frent
 
 No Admin VTEX, acesse **Storefront > Site Editor** e confira as principais ferramentas disponíveis na interface gráfica.
 
-![Site Editor - PT](https://images.ctfassets.net/alneenqid6w5/5K3z9KH8VLYFh0iYA4UFDX/e526abc990cdf0bfa1d451580e7a8ec2/site-editor-ui-pt.png)
+![Site Editor - PT](//images.ctfassets.net/alneenqid6w5/5K3z9KH8VLYFh0iYA4UFDX/e526abc990cdf0bfa1d451580e7a8ec2/site-editor-ui-pt.png)
 
 | **Ferramenta**    | **Descrição** |
 | ----------        | ----------    |

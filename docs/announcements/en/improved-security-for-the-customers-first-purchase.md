@@ -1,5 +1,5 @@
 ---
-title: "Improved security for the customer's first purchase"
+title: 'Improved security for the customer's first purchase'
 id: DKlfRaMNHxgQhUT5VqRrK
 status: DRAFT
 createdAt: 2023-04-28T12:35:44.503Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 6DODK49lJPk3yvcoe6GB6g
 slug: improved-security-for-the-customers-first-purchase
 legacySlug: improved-security-for-the-customers-first-purchase
-announcementImageID: ""
-announcementSynopsisEN: New Checkout cookie allows increased security in your store
+announcementImageID: ''
+announcementSynopsisEN: 'New Checkout cookie allows increased security in your store'
 ---
 
 In order to improve the security of your store information, VTEX has made improvements to the access to customer data in their first purchase. As of June 30, 2023, a new cookie is forwarded to the customer when they create a cart, preventing third parties from using external means to gain access to their personal information.

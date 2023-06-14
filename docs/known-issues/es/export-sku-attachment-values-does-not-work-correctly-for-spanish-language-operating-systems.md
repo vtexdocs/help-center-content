@@ -1,5 +1,5 @@
 ---
-title: La exportación de los valores de adjuntos de SKU no funciona correctamente en los sistemas operativos en español
+title: 'La exportación de los valores de adjuntos de SKU no funciona correctamente en los sistemas operativos en español'
 id: 75FXMEc3L2kI0JaFjyyZuU
 status: PUBLISHED
 createdAt: 2022-04-25T20:26:43.281Z

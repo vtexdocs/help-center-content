@@ -1,5 +1,5 @@
 ---
-title: Cómo funciona el Healthcheck de VTEX
+title: 'Cómo funciona el Healthcheck de VTEX'
 id: 4Dkcpwvbm0mWOOyimwCaWw
 status: DRAFT
 createdAt: 2019-01-24T20:45:43.117Z

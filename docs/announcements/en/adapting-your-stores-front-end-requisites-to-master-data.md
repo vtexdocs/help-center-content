@@ -1,5 +1,5 @@
 ---
-title: "Adapting your store’s front-end requisites to Master Data"
+title: 'Adapting your store’s front-end requisites to Master Data'
 id: 5h9BKOee5usqOt9rbGKbdO
 status: PUBLISHED
 createdAt: 2019-08-30T17:26:33.530Z
@@ -10,8 +10,8 @@ productTeam: Master Data
 author: authors_31
 slug: adapting-your-stores-front-end-requisites-to-master-data
 legacySlug: adapting-your-stores-front-end-requisites-to-master-data
-announcementImageID: ""
-announcementSynopsisEN: VTEX will discontinue Master Data CORS support starting on September 23rd.
+announcementImageID: ''
+announcementSynopsisEN: 'VTEX will discontinue Master Data CORS support starting on September 23rd.'
 ---
 
 With its main objective of providing clients with an increasingly efficient experience, VTEX will discontinue Master Data CORS support starting. In order for your store to avoid any operational and browsing failure, follow this article’s instructions.

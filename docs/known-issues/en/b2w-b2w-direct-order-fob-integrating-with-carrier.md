@@ -1,5 +1,5 @@
 ---
-title: [B2W] "B2W direct" order (FOB) integrating with carrier
+title: '[B2W] "B2W direct" order (FOB) integrating with carrier'
 id: 20nA7vm1RFMhv7yhaJ43GG
 status: PUBLISHED
 createdAt: 2022-12-12T18:14:19.975Z

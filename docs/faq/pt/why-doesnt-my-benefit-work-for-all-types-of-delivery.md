@@ -1,5 +1,5 @@
 ---
-title: Por que minha promoção não funciona para todos os tipos de entrega?
+title: 'Por que minha promoção não funciona para todos os tipos de entrega?'
 id: 68Eifg69ocCSsIS0ukw6W4
 status: PUBLISHED
 createdAt: 2018-03-06T14:42:34.568Z
@@ -21,7 +21,7 @@ Para especificar em que tipo de entrega você deseja aplicar a promoção, é pr
 2. Clique no card da promoção à qual você deseja aplicar o frete grátis.
 3. No item 3, ative a flag __Tipo de frete__ e especifique quais devem receber o frete grátis.
 
-![promoções-campo-tipo-frete pt](https://images.ctfassets.net/alneenqid6w5/5FX7WnVH3OOaoUGmUAumMO/a3f7f8fec3b78167565da7717e04b137/promo____es-campo-tipo-frete_pt.png)
+![promoções-campo-tipo-frete pt](//images.ctfassets.net/alneenqid6w5/5FX7WnVH3OOaoUGmUAumMO/a3f7f8fec3b78167565da7717e04b137/promo____es-campo-tipo-frete_pt.png)
 
 Feito isso, os tipos de frete epecificados entrarão na promoção e aparecerão para o cliente com o frete grátis disponível.
 

@@ -1,5 +1,5 @@
 ---
-title: [Magazine Luiza] Order with error "Object reference not set to an instance of an object"
+title: '[Magazine Luiza] Order with error "Object reference not set to an instance of an object"'
 id: 72w2GWNOlosoOHhs1ip4dl
 status: PUBLISHED
 createdAt: 2023-03-23T20:11:55.897Z

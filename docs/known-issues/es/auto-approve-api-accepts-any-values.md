@@ -1,5 +1,5 @@
 ---
-title: La API de aprobación automática acepta cualquier valor
+title: 'La API de aprobación automática acepta cualquier valor'
 id: kLl4mtwKPPqW6jk5hZMWs
 status: PUBLISHED
 createdAt: 2022-12-12T14:18:51.059Z

@@ -1,5 +1,5 @@
 ---
-title: Estoque
+title: 'Estoque'
 id: 7MNNKRcBJSyJUuqwcHrCa6
 status: DRAFT
 createdAt: 2019-04-24T20:51:45.894Z

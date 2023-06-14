@@ -1,5 +1,5 @@
 ---
-title: Como consultar lançamentos futuros?
+title: 'Como consultar lançamentos futuros?'
 id: 68OOSWWMyZ0xACmuQg3Inw
 status: DRAFT
 createdAt: 2020-06-24T22:20:37.244Z

@@ -1,5 +1,5 @@
 ---
-title: Cadastrar pontos de retirada
+title: 'Cadastrar pontos de retirada'
 id: 6Mk0PK5AwSVzEufC3FmtAO
 status: DRAFT
 createdAt: 2019-08-22T13:27:37.853Z
@@ -28,7 +28,7 @@ Siga o passo a passo abaixo para cadastrar um ponto de retirada na sua loja:
 4. Preencha os campos do formulário de ponto de retirada. Para entender melhor o significado de cada campo, consulte a seção [Campos de cadastro](#campos-de-cadastro), abaixo.
 5. Clique no botão **Save Changes** 
 
-![PT Cadastrar Pontos de Retirada GIF](https://images.ctfassets.net/alneenqid6w5/7m2LOZGJLly2gdprwvU7Gt/06d1113db5efc6d6fc35c26daa9fabf4/PT_Cadastrar_Pontos_de_Retirada_GIF.gif)
+![PT Cadastrar Pontos de Retirada GIF](//images.ctfassets.net/alneenqid6w5/7m2LOZGJLly2gdprwvU7Gt/06d1113db5efc6d6fc35c26daa9fabf4/PT_Cadastrar_Pontos_de_Retirada_GIF.gif)
 
 ### Campos de cadastro
 

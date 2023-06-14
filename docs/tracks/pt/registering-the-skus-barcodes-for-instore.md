@@ -1,5 +1,5 @@
 ---
-title: Cadastrar o código de barras dos SKUs para o inStore
+title: 'Cadastrar o código de barras dos SKUs para o inStore'
 id: 5JO1dUIV9uK2iACkwG2gEC
 status: DRAFT
 createdAt: 2018-03-15T21:34:29.165Z

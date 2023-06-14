@@ -1,5 +1,5 @@
 ---
-title: Validación de adjuntos obligatorios en el carrito de la tienda
+title: 'Validación de adjuntos obligatorios en el carrito de la tienda'
 id: 5im16SzH3qkyeGCUW4UC2M
 status: PUBLISHED
 createdAt: 2018-10-10T17:35:48.675Z

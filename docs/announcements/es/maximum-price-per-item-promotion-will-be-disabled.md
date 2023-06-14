@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 
 slug: promoción-del-tipo-precio-maximo-por-articulo-dejara-de-existir
 legacySlug: promoción-del-tipo-precio-maximo-por-articulo-dejara-de-existir
-announcementImageID: ""
-announcementSynopsisES: 
+announcementImageID: ''
+announcementSynopsisES: ''
 ---
 
 A partir del día 20 de noviembre la promoción del tipo __Precio Máximo por Artículo__ dejará de existir. Pero si su tienda usa ese tipo de promoción, quédate tranquilo - el mismo efecto puede ser logrado de otras maneras, y con ventajas.

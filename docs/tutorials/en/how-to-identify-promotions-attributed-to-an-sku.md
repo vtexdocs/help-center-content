@@ -1,5 +1,5 @@
 ---
-title: How to identify promotions attributed to an SKU?
+title: 'How to identify promotions attributed to an SKU?'
 id: frequentlyAskedQuestions_4813
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:01.523Z

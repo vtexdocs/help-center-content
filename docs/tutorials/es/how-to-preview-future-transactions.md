@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo consultar registros futuros?
+title: '¿Cómo consultar registros futuros?'
 id: 68OOSWWMyZ0xACmuQg3Inw
 status: DRAFT
 createdAt: 2020-06-24T22:20:37.244Z

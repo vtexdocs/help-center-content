@@ -1,5 +1,5 @@
 ---
-title: Produtos sem estoque aparecem disponíveis para compra na página de produto
+title: 'Produtos sem estoque aparecem disponíveis para compra na página de produto'
 id: 5yLgUHlBraGeUYAUK4w288
 status: PUBLISHED
 createdAt: 2018-02-08T18:17:40.064Z

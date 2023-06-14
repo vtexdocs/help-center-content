@@ -1,5 +1,5 @@
 ---
-title: Add or edit a URL Mapping through worksheet import
+title: 'Add or edit a URL Mapping through worksheet import'
 id: 3DmMmLdsw0KaeEYuKS0sEC
 status: DRAFT
 createdAt: 2017-08-04T15:08:47.560Z
@@ -25,4 +25,4 @@ The file structure must be as follows:
 - Column D: Data Inicial (DD/MM /YYYY format)
 - Column E: Data Final (DD/MM /YYYY format)
 
-![urlbuilder en](https://images.ctfassets.net/alneenqid6w5/4rLD4jAM0oaq6CqQam6U4y/895ec67d0ac775529a71b8536e4b03bd/urlbuilder_en.png)
+![urlbuilder en](//images.ctfassets.net/alneenqid6w5/4rLD4jAM0oaq6CqQam6U4y/895ec67d0ac775529a71b8536e4b03bd/urlbuilder_en.png)

@@ -1,5 +1,5 @@
 ---
-title: A interface do usuário usa o SLA errado quando vendedores diferentes são selecionados para entrega e coleta
+title: 'A interface do usuário usa o SLA errado quando vendedores diferentes são selecionados para entrega e coleta'
 id: 1FidTQU7qfHsuJLUbPTe7w
 status: PUBLISHED
 createdAt: 2023-04-25T21:52:00.104Z

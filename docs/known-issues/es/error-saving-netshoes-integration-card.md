@@ -1,5 +1,5 @@
 ---
-title: Error al guardar la pantalla de integración de Netshoes
+title: 'Error al guardar la pantalla de integración de Netshoes'
 id: 4amOxIQgKqzCvpuzgAeYE5
 status: PUBLISHED
 createdAt: 2022-06-14T11:55:35.684Z

@@ -1,5 +1,5 @@
 ---
-title: Registering product additional tax data (NCM and ICMS) on VTEX Sales App
+title: 'Registering product additional tax data (NCM and ICMS) on VTEX Sales App'
 id: 51xsyWzGiQ08KMO2EaaGAa
 status: PUBLISHED
 createdAt: 2017-08-14T23:24:39.793Z

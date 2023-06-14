@@ -1,5 +1,5 @@
 ---
-title: Unable to remove a text type attribute value of a product by using WebService
+title: 'Unable to remove a text type attribute value of a product by using WebService'
 id: 3jyqCliMA8026y2GgwQoyG
 status: PUBLISHED
 createdAt: 2018-01-02T21:22:34.885Z

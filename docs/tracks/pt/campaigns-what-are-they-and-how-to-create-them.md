@@ -1,5 +1,5 @@
 ---
-title: Campanhas: o que são e como criar
+title: 'Campanhas: o que são e como criar'
 id: 4W2AA8MWwIy80z5UCYw0f9
 status: PUBLISHED
 createdAt: 2020-01-13T14:46:43.276Z

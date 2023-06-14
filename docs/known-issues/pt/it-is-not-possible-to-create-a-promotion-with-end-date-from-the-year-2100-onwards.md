@@ -1,5 +1,5 @@
 ---
-title: Não é possível criar uma promoção com data de término a partir do ano 2100
+title: 'Não é possível criar uma promoção com data de término a partir do ano 2100'
 id: hYQQFkOsEMqmg5DMzBAhM
 status: DRAFT
 createdAt: 2023-05-29T21:43:04.471Z

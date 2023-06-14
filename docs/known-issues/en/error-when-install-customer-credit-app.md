@@ -1,5 +1,5 @@
 ---
-title: Error when install Customer Credit App
+title: 'Error when install Customer Credit App'
 id: 1ZrXFgFApBkNdDkIVtJfHN
 status: PUBLISHED
 createdAt: 2022-03-27T16:27:57.734Z

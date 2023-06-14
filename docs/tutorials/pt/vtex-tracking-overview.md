@@ -1,5 +1,5 @@
 ---
-title: Visão Geral VTEX Tracking
+title: 'Visão Geral VTEX Tracking'
 id: 1uDRquVudbPuoK05MtbZGh
 status: PUBLISHED
 createdAt: 2020-08-19T19:19:18.195Z

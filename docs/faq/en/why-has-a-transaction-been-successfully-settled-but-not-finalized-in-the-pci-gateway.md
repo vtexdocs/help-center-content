@@ -1,5 +1,5 @@
 ---
-title: Why has a transaction been successfully settled but not finalized in the Payments?
+title: 'Why has a transaction been successfully settled but not finalized in the Payments?'
 id: 5kOSpUYvTyuUKOOws2A8Me
 status: PUBLISHED
 createdAt: 2017-05-22T17:47:40.705Z

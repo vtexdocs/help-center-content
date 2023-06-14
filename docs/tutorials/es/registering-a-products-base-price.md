@@ -1,5 +1,5 @@
 ---
-title: Registrar el precio base de un producto
+title: 'Registrar el precio base de un producto'
 id: 4S9SbPWlVmOAAWO6yq8wE6
 status: CHANGED
 createdAt: 2018-03-20T20:04:04.818Z

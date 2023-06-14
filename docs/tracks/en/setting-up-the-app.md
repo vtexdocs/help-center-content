@@ -1,5 +1,5 @@
 ---
-title: Setting up Customer Credit
+title: 'Setting up Customer Credit'
 id: 21ok0GBwmcIeaY2IukYMOg
 status: PUBLISHED
 createdAt: 2018-11-07T17:11:22.823Z

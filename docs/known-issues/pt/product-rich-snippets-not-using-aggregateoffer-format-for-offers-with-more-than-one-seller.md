@@ -1,5 +1,5 @@
 ---
-title: Snippets ricos em produtos que não utilizam o formato AggregateOffer para ofertas com mais de um vendedor
+title: 'Snippets ricos em produtos que não utilizam o formato AggregateOffer para ofertas com mais de um vendedor'
 id: pA3jkQ7qHjWXul7ZsBLy2
 status: PUBLISHED
 createdAt: 2023-02-14T12:45:02.825Z

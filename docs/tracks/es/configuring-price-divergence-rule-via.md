@@ -1,5 +1,5 @@
 ---
-title: Configurar regla de Divergencia de precios
+title: 'Configurar regla de Divergencia de precios'
 id: 6MeJhODLMCnYwUCe18QjzP
 status: PUBLISHED
 createdAt: 2022-01-05T16:01:03.231Z

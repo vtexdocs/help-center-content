@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Wompi-Nequi
+title: 'Configurar pagamento com Wompi-Nequi'
 id: 3rX87mTmjYXbeZZ0CqSC44
 status: PUBLISHED
 createdAt: 2023-04-20T16:43:45.032Z

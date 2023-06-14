@@ -1,5 +1,5 @@
 ---
-title: How to choose the type of interest for a payment condition
+title: 'How to choose the type of interest for a payment condition'
 id: 2erloDXDuI6yawWqqcmgIo
 status: PUBLISHED
 createdAt: 2019-01-02T19:05:30.818Z

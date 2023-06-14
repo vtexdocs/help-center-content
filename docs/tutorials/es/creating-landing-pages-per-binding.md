@@ -1,5 +1,5 @@
 ---
-title: Crear páginas de destino según el binding
+title: 'Crear páginas de destino según el binding'
 id: 3LQAoWx77P3gNoqI2Rtl5A
 status: DRAFT
 createdAt: 2021-05-06T14:42:36.366Z
@@ -22,7 +22,7 @@ En el Admin, puede crear páginas de destino personalizadas según el [*binding*
 2. Seleccione el *binding* en el que debe crearse la nueva página de destino en el menú desplegable de la página.
 3. Haga clic en el botón `Crear nueva`.
 
-  ![es-landing-page-binding](https://images.ctfassets.net/alneenqid6w5/4VS1mFcJKaXeex3Cwr8V2/f22a1f99d5fe04ec192e8467ff7957cb/es-landing-page-binding.png)
+  ![es-landing-page-binding](//images.ctfassets.net/alneenqid6w5/4VS1mFcJKaXeex3Cwr8V2/f22a1f99d5fe04ec192e8467ff7957cb/es-landing-page-binding.png)
 
 4. En la sección `Detalles de la página`, rellene los campos y defina los metadatos de su nueva página de destino según los valores esperados:
 

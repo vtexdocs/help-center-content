@@ -1,5 +1,5 @@
 ---
-title: Logistics simulator is showing default currency instead of local currency.
+title: 'Logistics simulator is showing default currency instead of local currency.'
 id: AJSCxyexbrBHYyJTCWse6
 status: PUBLISHED
 createdAt: 2022-03-15T20:21:46.628Z

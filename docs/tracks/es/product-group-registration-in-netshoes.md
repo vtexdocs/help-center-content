@@ -1,5 +1,5 @@
 ---
-title: Registro de grupos de productos en Netshoes
+title: 'Registro de grupos de productos en Netshoes'
 id: 44wi4Ib06yw3dLcqZVqTv8
 status: PUBLISHED
 createdAt: 2020-06-05T02:34:01.835Z

@@ -1,5 +1,5 @@
 ---
-title: Black Week
+title: 'Black Week'
 id: GdrEBWiI6VYKI9q9kRfdC
 status: DRAFT
 createdAt: 2022-11-09T17:06:27.132Z

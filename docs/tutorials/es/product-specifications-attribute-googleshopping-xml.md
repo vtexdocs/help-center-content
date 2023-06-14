@@ -1,5 +1,5 @@
 ---
-title: Atributo de especificaciones de producto - XML Google Shopping
+title: 'Atributo de especificaciones de producto - XML Google Shopping'
 id: tutorials_100
 status: PUBLISHED
 createdAt: 2017-04-27T22:19:40.955Z

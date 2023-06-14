@@ -1,5 +1,5 @@
 ---
-title: "Nova UI para o painel de gerenciamento de usuários do Admin"
+title: 'Nova UI para o painel de gerenciamento de usuários do Admin'
 id: 154vi1oSfAdiVkEjAATmWL
 status: PUBLISHED
 createdAt: 2020-12-17T20:14:34.263Z
@@ -10,8 +10,8 @@ productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: nova-ui-para-o-painel-de-gerenciamento-de-usuarios-do-admin
 legacySlug: nova-ui-para-o-painel-de-gerenciamento-de-usuarios-do-admin
-announcementImageID: ""
-announcementSynopsisPT: A nova UI possui design moderno e inclui novas funcionalidades
+announcementImageID: ''
+announcementSynopsisPT: 'A nova UI possui design moderno e inclui novas funcionalidades'
 ---
 
 ## O que mudou?
@@ -21,7 +21,7 @@ O painel de gerenciamento de usuários teve seu design atualizado com os mesmos 
 - Apresentação da configuração de MFA (autenticação de múltiplos fatores) para cada usuário na lista de usuários.
 - Botão para exportar os dados da lista de usuários para um arquivo csv que inclui id, email e nome.
 
-![Lista Usuários User Management PT](https://images.ctfassets.net/alneenqid6w5/1IjRv0l2rDBrSWtHj82CDm/3440b1f6633113c14bf91d9147d4eb0a/Lista_Usu__rios_User_Management_PT.png)
+![Lista Usuários User Management PT](//images.ctfassets.net/alneenqid6w5/1IjRv0l2rDBrSWtHj82CDm/3440b1f6633113c14bf91d9147d4eb0a/Lista_Usu__rios_User_Management_PT.png)
 
 Além disso, o painel sofreu algumas alterações:
 

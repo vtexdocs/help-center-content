@@ -1,5 +1,5 @@
 ---
-title: Redirección de URL con caracteres especiales no ascii errores de retorno
+title: 'Redirección de URL con caracteres especiales no ascii errores de retorno'
 id: 3rqIVyN7gPKAz0WRzgV4Zc
 status: PUBLISHED
 createdAt: 2023-02-10T13:05:23.823Z

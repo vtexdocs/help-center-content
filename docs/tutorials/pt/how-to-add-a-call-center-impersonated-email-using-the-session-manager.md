@@ -1,5 +1,5 @@
 ---
-title: Como adicionar e-mail de televendas personificado via Session Manager
+title: 'Como adicionar e-mail de televendas personificado via Session Manager'
 id: 4tT90hWRChUy84UClF8pC
 status: DRAFT
 createdAt: 2020-05-29T13:00:15.053Z

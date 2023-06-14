@@ -1,5 +1,5 @@
 ---
-title: Al ordenar atributos y grupos por categoría, no se reordenan en la tienda
+title: 'Al ordenar atributos y grupos por categoría, no se reordenan en la tienda'
 id: 1oWkNKBfrWMmKSWOeeGikO
 status: PUBLISHED
 createdAt: 2017-12-18T17:08:46.708Z

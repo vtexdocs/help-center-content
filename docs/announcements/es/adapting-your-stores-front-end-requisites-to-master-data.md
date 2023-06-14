@@ -1,5 +1,5 @@
 ---
-title: "Adaptación de los requests de front-end de su tienda al Master Data"
+title: 'Adaptación de los requests de front-end de su tienda al Master Data'
 id: 5h9BKOee5usqOt9rbGKbdO
 status: PUBLISHED
 createdAt: 2019-08-30T17:26:33.530Z
@@ -10,8 +10,8 @@ productTeam: Master Data
 author: authors_31
 slug: adaptacion-de-los-requests-de-front-end-de-su-tienda-al-master-data
 legacySlug: adaptacion-de-los-requests-de-front-end-de-su-tienda-al-master-data
-announcementImageID: ""
-announcementSynopsisES: VTEX descontinuará el soporte para CORS del Master Data.
+announcementImageID: ''
+announcementSynopsisES: 'VTEX descontinuará el soporte para CORS del Master Data.'
 ---
 
 Con el objetivo principal de proporcionar una experiencia cada vez más eficiente para usted y sus clientes, VTEX descontinuará el soporte para CORS del Master Data. Siga las instrucciones de este artículo y evite cualquier falla en la operación y la navegación de su tienda.

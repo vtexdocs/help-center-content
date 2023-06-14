@@ -1,5 +1,5 @@
 ---
-title: Recursos do License Manager - Live Shopping
+title: 'Recursos do License Manager - Live Shopping'
 id: 7yEwXgpoStXaKCGHGIm928
 status: DRAFT
 createdAt: 2022-04-22T20:50:10.342Z

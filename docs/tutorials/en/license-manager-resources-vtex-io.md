@@ -1,5 +1,5 @@
 ---
-title: License Manager resources - VTEX IO
+title: 'License Manager resources - VTEX IO'
 id: 5aWXJJXnuqqPlqBYdHqMdG
 status: DRAFT
 createdAt: 2022-02-16T21:05:48.603Z

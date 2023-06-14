@@ -1,5 +1,5 @@
 ---
-title: Como funciona o Relatório de segurança
+title: 'Como funciona o Relatório de segurança'
 id: tutorials_282
 status: PUBLISHED
 createdAt: 2017-04-27T22:10:10.101Z
@@ -30,7 +30,7 @@ Siga o passo a passo para acessar o relatório:
 
 O exemplo abaixo ilustra o filtro para uma alteração (seja criação ou atualização) de preço de um SKU. Para isso, é necessário utilizar os campos __Dados__ com o Id do SKU, __Tela__ com o local da plataforma onde ocorre essa alteração e um período de tempo específico. De acordo com o relatório que se deseja, pode ser necessário usar outros campos em conjunto ou em substituição a esses.
 
-![relatoriosegurançaPT](https://images.ctfassets.net/alneenqid6w5/9t5KxHdSwTGYy84KmJIq7/beca72120562bfd90fa0b81965fcf2be/relatorio-seguranca-pt.gif)
+![relatoriosegurançaPT](//images.ctfassets.net/alneenqid6w5/9t5KxHdSwTGYy84KmJIq7/beca72120562bfd90fa0b81965fcf2be/relatorio-seguranca-pt.gif)
 
 Confira a seção a seguir para entender todos os campos disponíveis para filtrar o relatório.
 

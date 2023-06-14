@@ -1,5 +1,5 @@
 ---
-title: Criar promoção com limitação de uso
+title: 'Criar promoção com limitação de uso'
 id: frequentlyAskedQuestions_341
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:52.321Z

@@ -1,5 +1,5 @@
 ---
-title: "Boleto en plazos Lendico: la novedad que expandirá sus opciones de pago en Brasil"
+title: 'Boleto en plazos Lendico: la novedad que expandirá sus opciones de pago en Brasil'
 id: 74gYyrEe50yytQnUJzNEsH
 status: PUBLISHED
 createdAt: 2021-01-06T17:19:18.358Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 13Ue4MX9WNiX9f3SVCUZZW
 slug: boleto-en-plazos-lendico-la-novedad-que-expandira-sus-opciones-de-pago
 legacySlug: boleto-en-plazos-lendico-la-novedad-que-expandira-sus-opciones-de-pago
-announcementImageID: ""
-announcementSynopsisES: Descubra Boleto en Plazos Lendico - una nueva forma de pago para aumentar sus posibilidades de conversión en Brasil
+announcementImageID: ''
+announcementSynopsisES: 'Descubra Boleto en Plazos Lendico - una nueva forma de pago para aumentar sus posibilidades de conversión en Brasil'
 ---
 
 Hoy día, el cliente busca accesibilidad en los medios de pago. Por ello, es esencial ofrecer esta demanda al mercado en su negocio. Así, puedes asegurar las vendas de su e-commerce. 

@@ -1,5 +1,5 @@
 ---
-title: Amazon inventory integration errors
+title: 'Amazon inventory integration errors'
 id: 3t05cXK2vDbKCA6rifMMWj
 status: PUBLISHED
 createdAt: 2021-10-28T13:54:04.797Z

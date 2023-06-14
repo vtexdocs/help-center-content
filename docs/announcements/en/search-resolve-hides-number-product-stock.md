@@ -1,5 +1,5 @@
 ---
-title: "Search resolver no longer displays the number of products in stock"
+title: 'Search resolver no longer displays the number of products in stock'
 id: 7Ah6ou3RCoNmMeedZaBeJS
 status: PUBLISHED
 createdAt: 2022-02-18T15:51:53.790Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: search-resolve-hides-number-product-stock
 legacySlug: search-resolve-hides-number-product-stock
-announcementImageID: ""
-announcementSynopsisEN: To improve data privacy, search-resolver no longer displays the number of products in stock
+announcementImageID: ''
+announcementSynopsisEN: 'To improve data privacy, search-resolver no longer displays the number of products in stock'
 ---
 
 We have updated the [`search-resolver@0.x`](https://github.com/vtex-apps/search-resolver) API, an application necessary for the operation of the store search, to hide sensitive data related to the store's inventory. As of 3/20/22, the number of products in stock will no longer be displayed by [VTEX Search GraphQL](https://github.com/vtex-apps/search-graphql).

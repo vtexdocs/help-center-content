@@ -1,5 +1,5 @@
 ---
-title: Búsqueda por geocoordenadas
+title: 'Búsqueda por geocoordenadas'
 id: 5fxWoPd11Cyk6OoG0sMWQ6
 status: DRAFT
 createdAt: 2018-04-26T22:29:52.462Z

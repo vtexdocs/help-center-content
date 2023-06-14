@@ -1,5 +1,5 @@
 ---
-title: Generating coupons in bulk
+title: 'Generating coupons in bulk'
 id: frequentlyAskedQuestions_348
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:52.826Z

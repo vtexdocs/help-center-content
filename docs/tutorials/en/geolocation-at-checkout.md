@@ -1,5 +1,5 @@
 ---
-title: Setting up geolocation at checkout
+title: 'Setting up geolocation at checkout'
 id: tutorials_4345
 status: PUBLISHED
 createdAt: 2017-04-27T21:50:59.353Z
@@ -41,7 +41,7 @@ Once you have an API Key, proceed as follows:
 1. In the VTEX Admin, go to __Store Settings > Shipping > Geolocation Shipping__, or type __Geolocation Shipping__ in the search bar at the top of the page.
 2. Enter the API Key in the field indicated and click on __Register Key__.
 
-![Geolocalizacao 1 EN](https://images.ctfassets.net/alneenqid6w5/6pPXB9VKz6aQIA8YUWyyKk/ae4f7acd4ed20feac7edf6d27960c902/Geolocalizacao_1_EN.png)
+![Geolocalizacao 1 EN](//images.ctfassets.net/alneenqid6w5/6pPXB9VKz6aQIA8YUWyyKk/ae4f7acd4ed20feac7edf6d27960c902/Geolocalizacao_1_EN.png)
 
 <div class="alert alert-info">
 In some countries, Google Maps does not provide high quality mapping. Therefore it is possible that some addresses will be written wrongly, or Google may indicate an incorrect address. In these cases, you must correct the address on the map itself.
@@ -60,7 +60,7 @@ Once you've created the polygon and entered your ID in the shipping worksheet, y
 3. In the blue options menu located at the top of the page, click on __Checkout__.
 4. In the __Google Maps API Key__ field insert the API Key given in the logistics step.
 
-![Google map keys](https://images.ctfassets.net/alneenqid6w5/5Fly0uJ3DE9SmlK6I1oRNx/a0449abd0a356e5afa7cbb87a7101fc5/google_maps_api_key_en.PNG)
+![Google map keys](//images.ctfassets.net/alneenqid6w5/5Fly0uJ3DE9SmlK6I1oRNx/a0449abd0a356e5afa7cbb87a7101fc5/google_maps_api_key_en.PNG)
 
 Once the API Key has been included in the Checkout configuration, the geolocation will be visible in your store checkout.
 

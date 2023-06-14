@@ -1,5 +1,5 @@
 ---
-title: La interfaz de usuario muestra un error al exportar archivos de catálogo si el remitente de la plantilla de correo electrónico tiene su propio SMTP.
+title: 'La interfaz de usuario muestra un error al exportar archivos de catálogo si el remitente de la plantilla de correo electrónico tiene su propio SMTP.'
 id: 6MCsAvrOHbLTYjuxRHDsuU
 status: PUBLISHED
 createdAt: 2023-03-15T19:04:48.152Z

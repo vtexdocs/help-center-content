@@ -1,5 +1,5 @@
 ---
-title: Nominal discount is not being distributed among all items in the cart
+title: 'Nominal discount is not being distributed among all items in the cart'
 id: gt1qMqN71YkaHuZgk9Ibs
 status: PUBLISHED
 createdAt: 2023-01-25T17:33:59.274Z

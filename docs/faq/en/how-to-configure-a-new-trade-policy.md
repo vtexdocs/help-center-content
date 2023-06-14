@@ -1,5 +1,5 @@
 ---
-title: How to configure a new trade policy
+title: 'How to configure a new trade policy'
 id: frequentlyAskedQuestions_700
 status: DRAFT
 createdAt: 2017-04-27T22:29:12.584Z

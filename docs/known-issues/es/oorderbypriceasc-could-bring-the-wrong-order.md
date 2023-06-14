@@ -1,5 +1,5 @@
 ---
-title: O=OrderByPriceASC podría traer un pedido erróneo
+title: 'O=OrderByPriceASC podría traer un pedido erróneo'
 id: 2XCplZQutilKeD2bNnjYDx
 status: PUBLISHED
 createdAt: 2022-05-20T15:48:15.215Z

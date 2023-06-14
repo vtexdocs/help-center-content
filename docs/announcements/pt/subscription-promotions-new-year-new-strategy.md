@@ -1,5 +1,5 @@
 ---
-title: "Promoções por assinatura: novo ano, nova estratégia"
+title: 'Promoções por assinatura: novo ano, nova estratégia'
 id: 3AuiImznmJJRpxElqZWjKw
 status: PUBLISHED
 createdAt: 2021-12-21T15:54:21.543Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 5l3eEiSz8MpcppCxcnijGz
 slug: promocoes-por-assinatura-novo-ano-nova-estrategia
 legacySlug: promocoes-por-assinatura-novo-ano-nova-estrategia
-announcementImageID: ""
-announcementSynopsisPT: Promoções por assinatura são uma maneira prática e intuitiva de atrair clientes e fidelizá-los.
+announcementImageID: ''
+announcementSynopsisPT: 'Promoções por assinatura são uma maneira prática e intuitiva de atrair clientes e fidelizá-los.'
 ---
 
 Promoções por assinatura são uma maneira prática e intuitiva de atrair clientes e fidelizá-los oferecendo vantagens por meio de assinaturas recorrentes e descontos para perfis específicos.

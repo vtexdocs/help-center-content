@@ -1,5 +1,5 @@
 ---
-title: Buy Together promotions with price range restriction impact in gift promotions
+title: 'Buy Together promotions with price range restriction impact in gift promotions'
 id: 6tjViVNzlWgfLOLsUEtYSF
 status: PUBLISHED
 createdAt: 2022-10-11T19:54:05.862Z

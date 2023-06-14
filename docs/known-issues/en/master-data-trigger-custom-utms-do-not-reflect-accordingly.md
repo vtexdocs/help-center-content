@@ -1,5 +1,5 @@
 ---
-title: Master Data trigger custom UTMs do not reflect accordingly
+title: 'Master Data trigger custom UTMs do not reflect accordingly'
 id: 5IUv6xx8MpUBMxJaUDUzN7
 status: PUBLISHED
 createdAt: 2019-06-10T22:34:10.000Z

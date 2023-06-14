@@ -1,5 +1,5 @@
 ---
-title: Configuración inicial de Google Shopping Ads
+title: 'Configuración inicial de Google Shopping Ads'
 id: 4H0V9Z4NkQUiS4y2K0I8IU
 status: CHANGED
 createdAt: 2018-10-30T22:36:53.918Z

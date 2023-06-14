@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Cleo
+title: 'Configurar pagamento com Cleo'
 id: 1FuJmVYzFHBSXYBhU9MlaT
 status: DRAFT
 createdAt: 2022-10-18T18:41:03.045Z

@@ -1,5 +1,5 @@
 ---
-title: A validade da promissória não cancela a transação
+title: 'A validade da promissória não cancela a transação'
 id: 3mm3tWIDKOAE9b0Yq0Wy70
 status: PUBLISHED
 createdAt: 2022-03-28T02:33:39.185Z

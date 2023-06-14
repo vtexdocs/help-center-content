@@ -1,5 +1,5 @@
 ---
-title: Incluir variáveis do pedido no template de e-mail
+title: 'Incluir variáveis do pedido no template de e-mail'
 id: fLMUCPArCYB9vcTZEZ6bi
 status: PUBLISHED
 createdAt: 2020-01-10T13:43:21.220Z

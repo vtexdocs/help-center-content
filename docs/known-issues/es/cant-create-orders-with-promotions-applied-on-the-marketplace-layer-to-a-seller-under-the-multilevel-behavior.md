@@ -1,5 +1,5 @@
 ---
-title: No se pueden crear pedidos con promociones aplicadas en la capa del mercado a un vendedor bajo el comportamiento multinivel
+title: 'No se pueden crear pedidos con promociones aplicadas en la capa del mercado a un vendedor bajo el comportamiento multinivel'
 id: 8X5ut0NZnHJJbsrZqRxps
 status: PUBLISHED
 createdAt: 2021-12-17T17:58:11.823Z

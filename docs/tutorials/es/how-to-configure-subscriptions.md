@@ -1,5 +1,5 @@
 ---
-title: Cómo configurar Suscripciones en su tienda
+title: 'Cómo configurar Suscripciones en su tienda'
 id: 1FA9dfE7vJqxBna9Nft5Sj
 status: PUBLISHED
 createdAt: 2019-01-31T16:00:03.228Z

@@ -1,5 +1,5 @@
 ---
-title: Commmunication channels wih VTEX
+title: 'Commmunication channels wih VTEX'
 id: 3NyYmslr5SygWkYEWgmWCm
 status: DRAFT
 createdAt: 2017-11-27T16:12:20.565Z

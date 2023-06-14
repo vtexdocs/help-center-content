@@ -1,5 +1,5 @@
 ---
-title: Calculating the Cubic Weight Factor
+title: 'Calculating the Cubic Weight Factor'
 id: tutorials_128
 status: PUBLISHED
 createdAt: 2017-04-27T22:17:52.970Z

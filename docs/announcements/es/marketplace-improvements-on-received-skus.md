@@ -1,5 +1,5 @@
 ---
-title: "Marketplace: mejoras en el módulo SKUs Recibidos"
+title: 'Marketplace: mejoras en el módulo SKUs Recibidos'
 id: 5AY73ocF0evsh3yzY6AMX6
 status: PUBLISHED
 createdAt: 2020-10-26T23:30:54.501Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: marketplace-mejoras-en-el-modulo-skus-recibidos
 legacySlug: marketplace-mejoras-en-el-modulo-skus-recibidos
-announcementImageID: ""
-announcementSynopsisES: Marketplace: Bloquee SKUs para que no sean reenviados por el seller y configure la aprobación automática
+announcementImageID: ''
+announcementSynopsisES: 'Marketplace: Bloquee SKUs para que no sean reenviados por el seller y configure la aprobación automática'
 ---
 
 El panel de SKUs Recibidos es donde los marketplaces evalúan las sugerencias enviadas por los sellers, para ser aprobadas e incorporadas a su catálogo, o rechazadas. 
@@ -28,7 +28,7 @@ No se requiere ninguna configuración para activar esta funcionalidad, se instal
 
 Cabe señalar que esta acción puede ser deshecha. Es posible aprobar un SKU por API REST, si el marketplace quiere recibirlo de nuevo como una sugerencia del seller. Para obtener más información sobre la aprobación de SKUs, acceda a nuestra documentación de API en el Portal del Desarrollador.
 
-![ES SKUs Recebidos Announcement](https://images.ctfassets.net/alneenqid6w5/5UdF6jOSwSvqYQIng9w7mS/d4b04317dc8e786079db0c7fe8127a4a/ES_SKUs_Recebidos_Announcement.jpg)
+![ES SKUs Recebidos Announcement](//images.ctfassets.net/alneenqid6w5/5UdF6jOSwSvqYQIng9w7mS/d4b04317dc8e786079db0c7fe8127a4a/ES_SKUs_Recebidos_Announcement.jpg)
 
 ## Configuración de aprobación automática de SKUs
 

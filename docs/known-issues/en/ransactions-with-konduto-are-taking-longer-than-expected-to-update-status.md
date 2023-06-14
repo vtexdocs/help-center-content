@@ -1,5 +1,5 @@
 ---
-title: ransactions with Konduto are taking longer than expected to update status
+title: 'ransactions with Konduto are taking longer than expected to update status'
 id: 5yUSXenLjlEdESoj5VVvoH
 status: PUBLISHED
 createdAt: 2022-03-11T18:56:45.293Z

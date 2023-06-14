@@ -1,5 +1,5 @@
 ---
-title: O comissionamento da categoria na configuração do seller gera um Time Out
+title: 'O comissionamento da categoria na configuração do seller gera um Time Out'
 id: 5NsiGAjTIK1ygBvJo1ks2k
 status: PUBLISHED
 createdAt: 2022-09-05T14:18:53.669Z

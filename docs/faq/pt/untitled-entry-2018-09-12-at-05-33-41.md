@@ -1,5 +1,5 @@
 ---
-title: Omnichannel - Conceitos Fundamentais
+title: 'Omnichannel - Conceitos Fundamentais'
 id: 5xwKGKEgZUYYgMWqoQsamw
 status: DRAFT
 createdAt: 2018-09-12T17:33:41.210Z

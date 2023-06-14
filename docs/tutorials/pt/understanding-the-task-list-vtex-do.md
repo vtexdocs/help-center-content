@@ -1,5 +1,5 @@
 ---
-title: Como funciona a lista de tarefas do VTEX DO
+title: 'Como funciona a lista de tarefas do VTEX DO'
 id: tutorials_203
 status: DRAFT
 createdAt: 2017-04-27T22:13:34.109Z

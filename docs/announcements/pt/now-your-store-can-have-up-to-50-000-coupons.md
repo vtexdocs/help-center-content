@@ -1,5 +1,5 @@
 ---
-title: "Agora sua loja pode ter até 50 mil cupons"
+title: 'Agora sua loja pode ter até 50 mil cupons'
 id: 6LwZYyL0sgOCGeWA8SyyiO
 status: PUBLISHED
 createdAt: 2018-07-23T12:46:31.570Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: authors_24
 slug: agora-sua-loja-pode-ter-ate-50-mil-cupons
 legacySlug: agora-sua-loja-pode-ter-ate-50-mil-cupons
-announcementImageID: ""
-announcementSynopsisPT: A API de cupons recebeu uma atualização que aumenta a quantidade de cupons que podem ser criados na sua loja.
+announcementImageID: ''
+announcementSynopsisPT: 'A API de cupons recebeu uma atualização que aumenta a quantidade de cupons que podem ser criados na sua loja.'
 ---
 
 Desde __12 de julho__, a API de cupons passou a oferecer um limite maior de criação de cupons. Se antes você podia criar no máximo 5 mil cupons, agora esse número subiu para __50 mil__.

@@ -1,5 +1,5 @@
 ---
-title: Mover categorias gera comportamentos inesperados na árvore de categorias
+title: 'Mover categorias gera comportamentos inesperados na árvore de categorias'
 id: 6JSa9nnYoAAUQO1zPtzfZD
 status: PUBLISHED
 createdAt: 2019-08-20T18:20:42.655Z

@@ -1,5 +1,5 @@
 ---
-title: Troubleshooting errors in subscription orders
+title: 'Troubleshooting errors in subscription orders'
 id: uLL8AYBGdtAmbbdL5gRCf
 status: PUBLISHED
 createdAt: 2020-02-05T14:32:49.763Z
@@ -27,7 +27,7 @@ Issues in subscription cycles indicate that an obstacle prevented a subscription
 
 The **Cycles with an issue** tab displays subscription orders with such problems, as illustrated in the image below.
 
-![cicloscomproblema EN](https://images.ctfassets.net/alneenqid6w5/5ijnWeUeqRzKWa2agsxK7O/8985fa930def4ec541d9127bc855740d/cicloscomproblema_EN.png)
+![cicloscomproblema EN](//images.ctfassets.net/alneenqid6w5/5ijnWeUeqRzKWa2agsxK7O/8985fa930def4ec541d9127bc855740d/cicloscomproblema_EN.png)
 
 In this tab, you can manage orders with issues in subscription cycles and retry placing orders manually. For example, when a product is unavailable, you can edit its inventory and then try to order it again.
 
@@ -184,7 +184,7 @@ Payment errors occur during the payment approval flow, such as having a credit c
 
 You can view orders with this error on the **Payment Error** tab, as shown in the image below.
 
-![errosdepagamento EN](https://images.ctfassets.net/alneenqid6w5/1RIw7xmqhpU4eWq0zHEnKG/4bea9e2c3fa3385e1fd1b1c0add2b0f0/errosdepagamento_EN.png)
+![errosdepagamento EN](//images.ctfassets.net/alneenqid6w5/1RIw7xmqhpU4eWq0zHEnKG/4bea9e2c3fa3385e1fd1b1c0add2b0f0/errosdepagamento_EN.png)
 
 To analyze payment errors, follow the steps below:
 
@@ -192,7 +192,7 @@ To analyze payment errors, follow the steps below:
 2. Click on the **Dashboards** tab.
 3. In the **Subscription Orders** section, click on the **Payment Error** tab.
 4. Identify the order you want to analyze and click on its ID, as illustrated in the image below. You will be redirected to the order details page in the **All Orders** module.
-  ![EN Log Erro de pagamento](https://images.ctfassets.net/alneenqid6w5/2Bb1XYgaZEdNMVhcnX5lF3/a10c69783d57d09b70234c6dda18542d/EN_Log_Erro_de_pagamento.png)
+  ![EN Log Erro de pagamento](//images.ctfassets.net/alneenqid6w5/2Bb1XYgaZEdNMVhcnX5lF3/a10c69783d57d09b70234c6dda18542d/EN_Log_Erro_de_pagamento.png)
 5. Then, click on **View transaction details** under the **Payment** card. You will be redirected to the **Transactions** page in the **Payments** module.
 6. On the **Transactions** page, you can view and analyze the order transaction events. Read the article [Viewing the order's details in Payments](https://help.vtex.com/en/tutorial/como-visualizar-detalhes-do-pedido) for more information.
 

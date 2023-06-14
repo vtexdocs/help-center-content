@@ -1,5 +1,5 @@
 ---
-title: 
+title: ''
 id: 3RNhyg35DGM6qYMuC02IOu
 status: DRAFT
 createdAt: 2018-01-12T16:48:32.923Z

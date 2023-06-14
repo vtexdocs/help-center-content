@@ -1,5 +1,5 @@
 ---
-title: Promotion alerts: How to create an alert (Beta)
+title: 'Promotion alerts: How to create an alert (Beta)'
 id: 14nC51OlGoCSBLlBkZhkRR
 status: PUBLISHED
 createdAt: 2022-11-18T17:08:57.812Z

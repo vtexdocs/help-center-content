@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo funciona el campo Score?
+title: '¿Cómo funciona el campo Score?'
 id: 1BUZC0mBYEEIUgeQYAKcae
 status: PUBLISHED
 createdAt: 2018-02-16T16:17:51.610Z

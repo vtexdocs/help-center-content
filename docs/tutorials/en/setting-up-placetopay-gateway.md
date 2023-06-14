@@ -1,5 +1,5 @@
 ---
-title: Setting up PlaceToPay gateway
+title: 'Setting up PlaceToPay gateway'
 id: 3HPDEgQ6B2qCgawEGqmQwA
 status: DRAFT
 createdAt: 2018-03-07T19:23:14.790Z

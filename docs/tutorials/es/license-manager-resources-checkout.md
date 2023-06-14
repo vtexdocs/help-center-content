@@ -1,5 +1,5 @@
 ---
-title: Recursos del License Manager - Checkout
+title: 'Recursos del License Manager - Checkout'
 id: 4dbPR7yK94X5elrcJ8ZaQn
 status: DRAFT
 createdAt: 2022-02-16T17:51:48.409Z

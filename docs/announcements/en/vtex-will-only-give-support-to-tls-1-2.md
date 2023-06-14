@@ -1,5 +1,5 @@
 ---
-title: "VTEX will only give support to TLS 1.2"
+title: 'VTEX will only give support to TLS 1.2'
 id: 63OshDDS6cmcKKmau6aQUA
 status: PUBLISHED
 createdAt: 2018-06-22T16:25:55.532Z
@@ -10,8 +10,8 @@ productTeam: Reliability
 author: authors_24
 slug: vtex-will-only-give-support-to-tls-1-2
 legacySlug: vtex-will-only-give-support-to-tls-1-2
-announcementImageID: ""
-announcementSynopsisEN: As of June 30th, TLS previous versions and all SSL versions will be deprecated.
+announcementImageID: ''
+announcementSynopsisEN: 'As of June 30th, TLS previous versions and all SSL versions will be deprecated.'
 ---
 
 As part of our constant improvement, we will only give support to integrations using the __TLS 1.2 protocol__. As of __June 30th__, TLS previous versions and all SSL versions will be deprecated. Those changes are PCI DDS compliant and are necessary to keep the platform secure.

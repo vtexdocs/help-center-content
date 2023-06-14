@@ -1,5 +1,5 @@
 ---
-title: Carrefour inventory integration errors
+title: 'Carrefour inventory integration errors'
 id: 4oDrYCkrIvWETCW34I2CKF
 status: PUBLISHED
 createdAt: 2021-10-25T22:15:47.447Z

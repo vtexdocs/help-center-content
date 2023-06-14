@@ -1,5 +1,5 @@
 ---
-title: Como configurar o Mercado Pago Transparente no módulo Pagamentos?
+title: 'Como configurar o Mercado Pago Transparente no módulo Pagamentos?'
 id: tutorials_4570
 status: DRAFT
 createdAt: 2017-04-27T21:50:13.164Z

@@ -1,5 +1,5 @@
 ---
-title: Posibilidad de proceder al pago con la dirección del número en blanco y el nombre del receptor en la interfaz de usuario de la caja.
+title: 'Posibilidad de proceder al pago con la dirección del número en blanco y el nombre del receptor en la interfaz de usuario de la caja.'
 id: 5HCvh8dM70UUvR7t1U5aKY
 status: PUBLISHED
 createdAt: 2022-03-31T20:59:56.117Z

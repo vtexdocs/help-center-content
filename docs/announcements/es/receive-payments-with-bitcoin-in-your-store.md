@@ -1,5 +1,5 @@
 ---
-title: "Reciba pagos con bitcoin en su tienda"
+title: 'Reciba pagos con bitcoin en su tienda'
 id: iAYRMbmHAss8cGKWa6K4m
 status: PUBLISHED
 createdAt: 2018-05-02T20:34:43.368Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 245tA425AIeioKAk2eaiwS
 slug: reciba-pagos-con-bitcoin-en-su-tienda
 legacySlug: reciba-pagos-con-bitcoin-en-su-tienda
-announcementImageID: ""
-announcementSynopsisES: La plataforma VTEX ahora permite que su tienda acepte pagos con bitcoin
+announcementImageID: ''
+announcementSynopsisES: 'La plataforma VTEX ahora permite que su tienda acepte pagos con bitcoin'
 ---
 
 La plataforma VTEX ahora permite que su tienda acepte pagos con bitcoin. A través de la integración con el gateway __Bit.One__, especializado en el procesamiento de pagos con la criptomoneda, sus clientes van a tener otra opción para hacer compras en su tienda.

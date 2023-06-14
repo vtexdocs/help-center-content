@@ -1,5 +1,5 @@
 ---
-title: License Manager resources - Search
+title: 'License Manager resources - Search'
 id: 3xmTi6qzDtG69NjiOJSXAT
 status: DRAFT
 createdAt: 2022-02-16T20:52:04.037Z

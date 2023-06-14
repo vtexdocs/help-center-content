@@ -1,5 +1,5 @@
 ---
-title: Inconsistência na forma de pagamento boleto bancário datas de expiração
+title: 'Inconsistência na forma de pagamento boleto bancário datas de expiração'
 id: 771mUo6KdQP0pCTq5F5E0m
 status: PUBLISHED
 createdAt: 2022-03-28T01:17:58.206Z

@@ -1,5 +1,5 @@
 ---
-title: Itens repetidos no resumo de compras para carrinhos com mais de 20 itens
+title: 'Itens repetidos no resumo de compras para carrinhos com mais de 20 itens'
 id: 2k76x4aStel8e4ItTHfhof
 status: PUBLISHED
 createdAt: 2022-08-24T17:26:32.083Z

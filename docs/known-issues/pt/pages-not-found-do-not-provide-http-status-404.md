@@ -1,5 +1,5 @@
 ---
-title: Páginas não encontradas não fornecem HTTP Status 404
+title: 'Páginas não encontradas não fornecem HTTP Status 404'
 id: 45TCR3O8V2uyWcwmqYs4qS
 status: PUBLISHED
 createdAt: 2017-10-14T20:05:49.329Z

@@ -1,5 +1,5 @@
 ---
-title: Intelligent Search's pagination of field values is limited to 9,999 items
+title: 'Intelligent Search's pagination of field values is limited to 9,999 items'
 id: 1AH9HOWWqOnENncdxIBszv
 status: PUBLISHED
 createdAt: 2022-03-21T17:42:26.464Z

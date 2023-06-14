@@ -1,5 +1,5 @@
 ---
-title: ID y nombre de departamento incorrectos al exportar planilla de productos
+title: 'ID y nombre de departamento incorrectos al exportar planilla de productos'
 id: 6Nj93lJqgwGkYwaSWUu0So
 status: PUBLISHED
 createdAt: 2018-06-20T14:36:47.235Z

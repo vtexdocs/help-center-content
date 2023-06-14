@@ -1,5 +1,5 @@
 ---
-title: Search filters disappear intermittently
+title: 'Search filters disappear intermittently'
 id: 6rD4zlDx7dL9wUAsRuvSD7
 status: PUBLISHED
 createdAt: 2023-01-16T18:29:18.976Z

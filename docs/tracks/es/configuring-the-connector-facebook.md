@@ -1,5 +1,5 @@
 ---
-title: Configuración del conector
+title: 'Configuración del conector'
 id: 5OP69kHWKca01wLH0w10jX
 status: PUBLISHED
 createdAt: 2021-02-08T19:26:40.865Z

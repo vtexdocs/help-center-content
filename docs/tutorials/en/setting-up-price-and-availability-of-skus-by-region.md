@@ -1,5 +1,5 @@
 ---
-title:  Setting up price and availability of SKUs by Region
+title: ' Setting up price and availability of SKUs by Region'
 id: 12ne58BmvYsYuGsimmugoc
 status: PUBLISHED
 createdAt: 2018-09-10T15:30:53.237Z

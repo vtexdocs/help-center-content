@@ -1,5 +1,5 @@
 ---
-title: Unexpected multiple pickup point selection for the same seller when not every item is available through the same option
+title: 'Unexpected multiple pickup point selection for the same seller when not every item is available through the same option'
 id: 1ILqLtP5CgtO6fhqh1dAgm
 status: PUBLISHED
 createdAt: 2022-08-16T01:03:28.941Z

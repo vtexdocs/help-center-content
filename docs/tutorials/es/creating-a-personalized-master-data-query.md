@@ -1,5 +1,5 @@
 ---
-title: Crear consulta customizada en Master Data
+title: 'Crear consulta customizada en Master Data'
 id: tutorials_799
 status: PUBLISHED
 createdAt: 2017-04-27T21:57:44.496Z

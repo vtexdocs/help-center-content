@@ -1,5 +1,5 @@
 ---
-title: Seleção parcial da janela de entrega programada para o mesmo SLA afetando o fluxo de compra
+title: 'Seleção parcial da janela de entrega programada para o mesmo SLA afetando o fluxo de compra'
 id: 1xkpnp0vxR0O8sJYARcFJF
 status: PUBLISHED
 createdAt: 2022-08-11T18:41:25.906Z

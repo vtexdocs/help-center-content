@@ -1,5 +1,5 @@
 ---
-title: Mapping product categories and attributes to Mercado Libre
+title: 'Mapping product categories and attributes to Mercado Libre'
 id: 5XNeiye4rS4oao2MueSUeA
 status: PUBLISHED
 createdAt: 2018-08-13T12:58:18.100Z

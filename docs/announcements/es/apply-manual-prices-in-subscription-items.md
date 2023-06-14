@@ -1,5 +1,5 @@
 ---
-title: "Aplicar precios manuales en ítems de suscripción"
+title: 'Aplicar precios manuales en ítems de suscripción'
 id: 7vyYh0mDWkvwqMybqjpgHt
 status: PUBLISHED
 createdAt: 2022-05-10T19:23:46.393Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: aplicar-precios-manuales-en-items-de-suscripcion
 legacySlug: aplicar-precios-manuales-en-items-de-suscripcion
-announcementImageID: ""
-announcementSynopsisES: Ahora puedes habilitar precios manuales para las suscripciones en tu tienda.
+announcementImageID: ''
+announcementSynopsisES: 'Ahora puedes habilitar precios manuales para las suscripciones en tu tienda.'
 ---
 
 Al utilizar [Suscripciones](https://help.vtex.com/es/tutorial/como-funciona-suscripciones--frequentlyAskedQuestions_4453), la aplicación desarrollada por VTEX para facilitar las ventas recurrentes, es posible que los comerciantes necesiten configurar un precio manual para cada ítem para ofrecer mejores ofertas a los compradores recurrentes. 

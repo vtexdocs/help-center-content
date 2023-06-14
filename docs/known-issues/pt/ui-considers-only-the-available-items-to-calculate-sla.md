@@ -1,5 +1,5 @@
 ---
-title: A interface do usuário considera apenas os itens disponíveis para calcular o SLA
+title: 'A interface do usuário considera apenas os itens disponíveis para calcular o SLA'
 id: 11gXg1N1Sul7EJUZACuQNW
 status: PUBLISHED
 createdAt: 2023-04-25T21:55:37.785Z

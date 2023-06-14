@@ -1,5 +1,5 @@
 ---
-title: Recebi uma Nota Fiscal e não sou cliente VTEX. Por quê?
+title: 'Recebi uma Nota Fiscal e não sou cliente VTEX. Por quê?'
 id: 2xW1boWieUC40KQgIaugGG
 status: PUBLISHED
 createdAt: 2018-03-28T18:35:49.057Z

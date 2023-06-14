@@ -1,5 +1,5 @@
 ---
-title: El usuario suplantado no envía la cookie de autenticación suplantada en algunas llamadas
+title: 'El usuario suplantado no envía la cookie de autenticación suplantada en algunas llamadas'
 id: 3e5CZqPbsTRbhDz8W1c0p4
 status: PUBLISHED
 createdAt: 2023-04-13T21:24:06.328Z

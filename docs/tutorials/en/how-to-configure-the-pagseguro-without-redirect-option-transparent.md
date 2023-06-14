@@ -1,5 +1,5 @@
 ---
-title: How to configure the PagSeguro without redirect option (transparent)
+title: 'How to configure the PagSeguro without redirect option (transparent)'
 id: tutorials_449
 status: PUBLISHED
 createdAt: 2017-04-27T22:04:37.656Z

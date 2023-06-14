@@ -1,5 +1,5 @@
 ---
-title: Inventory Update Failure using Broadcaster for Integrations to Notify External Marketplace
+title: 'Inventory Update Failure using Broadcaster for Integrations to Notify External Marketplace'
 id: 25IVNGiJJYIl8Ppb3UuNqo
 status: PUBLISHED
 createdAt: 2022-03-24T19:30:24.948Z

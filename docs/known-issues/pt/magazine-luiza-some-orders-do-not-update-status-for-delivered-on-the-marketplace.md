@@ -1,5 +1,5 @@
 ---
-title: [Magazine Luiza] Alguns pedidos não atualizam o status de entrega no marketplace
+title: '[Magazine Luiza] Alguns pedidos não atualizam o status de entrega no marketplace'
 id: 4fcuYTyvlHUhY7dvM4KE1C
 status: PUBLISHED
 createdAt: 2023-05-17T18:39:14.983Z

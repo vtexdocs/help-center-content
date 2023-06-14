@@ -1,5 +1,5 @@
 ---
-title: Qué hacer cuando necesito usar palabras que pueden ser ignoradas por el buscador para un producto?
+title: 'Qué hacer cuando necesito usar palabras que pueden ser ignoradas por el buscador para un producto?'
 id: 4XmhcZLXA4WCQo2OuKkqy0
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:48.887Z

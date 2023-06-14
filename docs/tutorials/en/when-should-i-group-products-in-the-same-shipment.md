@@ -1,5 +1,5 @@
 ---
-title: When should I group products in the same shipment?
+title: 'When should I group products in the same shipment?'
 id: 2pjihxU2pSSoQuAUSUuWcy
 status: CHANGED
 createdAt: 2019-01-24T20:45:40.149Z

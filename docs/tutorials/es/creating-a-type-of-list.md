@@ -1,5 +1,5 @@
 ---
-title: Crear tipo de lista
+title: 'Crear tipo de lista'
 id: tutorials_254
 status: PUBLISHED
 createdAt: 2017-04-27T22:11:52.502Z
@@ -60,7 +60,7 @@ El dueño de la tienda decide si la lista tendrá o no evento. Una vez grabado e
 
 Al seleccionar **Posee evento**, el formulario hace disponibles otras opciones de configuración para el evento, donde será posible configurar todas las fechas límites para la creación de ese tipo de lista, conforme a la imagen abajo.
 
-![eventos.es](https://images.ctfassets.net/alneenqid6w5/Q48lA7Ybjz6mQ8wH27hms/85a9a1f23758f6e1fdc3a016dadeb68b/eventos.es.png)
+![eventos.es](//images.ctfassets.net/alneenqid6w5/Q48lA7Ybjz6mQ8wH27hms/85a9a1f23758f6e1fdc3a016dadeb68b/eventos.es.png)
 
 El área de evento es responsable de definir si la lista creada tiene o no un período preestablecido para la fecha del evento. Listas de desejo o listas de compras no necesitan un período determinado para ocurrencia del evento. En cambio, listas de casamento o de chá de bebe, deben tener en cuenta la fecha del evento, para que así, todos los productos comprados se entreguen al dueño en período hábil según la fecha del evento.
 
@@ -76,7 +76,7 @@ El área de evento es responsable de definir si la lista creada tiene o no un pe
 
 Después de crear el tipo de lista, usted será dirigido a la pantalla donde aparecen los tipos de listas ya registrados en la tienda. Esa pantalla ofrece las siguientes informaciones y funciones:
 
-![listagem.es](https://images.ctfassets.net/alneenqid6w5/3BTiBXCbQovhe3duPewHZx/410066a38327a8a69a3ffc1ed7bd2029/listagem.es.png)
+![listagem.es](//images.ctfassets.net/alneenqid6w5/3BTiBXCbQovhe3duPewHZx/410066a38327a8a69a3ffc1ed7bd2029/listagem.es.png)
 
 - **Exportar a Excel**: Permite exportar los datos de tipos de listas para Excel.
 - **Versión**:Identificación de listas creadas en la versión antigua de la funcionalidad, con limitaciones. La versión más actual es la “v2”.

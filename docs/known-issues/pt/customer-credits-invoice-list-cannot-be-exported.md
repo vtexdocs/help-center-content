@@ -1,5 +1,5 @@
 ---
-title: A lista de faturas do Crédito ao Cliente não pode ser exportada
+title: 'A lista de faturas do Crédito ao Cliente não pode ser exportada'
 id: 1n3CkkAyQ1n4bdxXC7S0yH
 status: PUBLISHED
 createdAt: 2022-03-27T14:26:44.668Z

@@ -1,5 +1,5 @@
 ---
-title: Changing my store’s registration details
+title: 'Changing my store’s registration details'
 id: 2asY9ZORu0OUQWOkeQguSC
 status: CHANGED
 createdAt: 2018-03-12T15:29:14.300Z

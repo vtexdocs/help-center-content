@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com PayU India
+title: 'Configurar pagamento com PayU India'
 id: 7JFaP3jBukdZHWel9p7dKX
 status: CHANGED
 createdAt: 2022-08-15T12:33:46.519Z

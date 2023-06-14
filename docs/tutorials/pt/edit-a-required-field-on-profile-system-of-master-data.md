@@ -1,5 +1,5 @@
 ---
-title: Edite um campo obrigatório no Profile System do Master Data
+title: 'Edite um campo obrigatório no Profile System do Master Data'
 id: 3Kat18isG7ZQptlLusUKnj
 status: PUBLISHED
 createdAt: 2019-03-29T14:18:37.284Z
@@ -36,11 +36,11 @@ Para selecionar um campo de preenchimento que deseja tornar obrigatório, siga o
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Storefront** > **Master Data**.
 2. Certifique-se que está na aba Aplicações, dentro de __Links Rápidos__.
-3. Clique na __engrenagem__ em __Profile System__. ![MasterDataTutorial 1 UM](https://images.ctfassets.net/alneenqid6w5/6BwZrUrNopO6Nb3n49B8L9/ba74f6ae261e1d8f0fc7a32cf7ad321f/MasterDataTutorial_1_UM.jpg)
-4. Clique no __lápis__ ao lado do item que deseja configurar. ![MasterDataTutorial2](https://images.ctfassets.net/alneenqid6w5/1OU9KjvK8sUUtHr5MZqbci/4297f3f56819f622d77845054b3dbb0d/MasterDataTutorial2.png)
+3. Clique na __engrenagem__ em __Profile System__. ![MasterDataTutorial 1 UM](//images.ctfassets.net/alneenqid6w5/6BwZrUrNopO6Nb3n49B8L9/ba74f6ae261e1d8f0fc7a32cf7ad321f/MasterDataTutorial_1_UM.jpg)
+4. Clique no __lápis__ ao lado do item que deseja configurar. ![MasterDataTutorial2](//images.ctfassets.net/alneenqid6w5/1OU9KjvK8sUUtHr5MZqbci/4297f3f56819f622d77845054b3dbb0d/MasterDataTutorial2.png)
 5. Clique em __Schemas de Layout__.
 6. Na __Seção 1__, escolha o item do campo que deseja configurar.
-7. Em __Configurações avançadas do campo__, selecione __Campo obrigatório__ no formulário. ![MasterDataTutorial3](https://images.ctfassets.net/alneenqid6w5/1gYKfvwuQaL5fR6nlyZQ8Y/50be6084a8df932cced78ae6359981bc/MasterDataTutorial3.png)
+7. Em __Configurações avançadas do campo__, selecione __Campo obrigatório__ no formulário. ![MasterDataTutorial3](//images.ctfassets.net/alneenqid6w5/1gYKfvwuQaL5fR6nlyZQ8Y/50be6084a8df932cced78ae6359981bc/MasterDataTutorial3.png)
 8. Clique em __ok__.
 
 Pronto. A partir de agora, as opções selecionadas precisarão, obrigatoriamente, serem preenchidas na loja. A opção também pode ser alterada sempre que desejado.

@@ -1,5 +1,5 @@
 ---
-title: What is the PCI SSC
+title: 'What is the PCI SSC'
 id: 4jo3Vkox3amSO2w4qIWa0E
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:48.373Z

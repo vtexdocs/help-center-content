@@ -1,5 +1,5 @@
 ---
-title: Restringir el default-src de la cabecera Política de Seguridad de Contenidos podría romper el Checkout
+title: 'Restringir el default-src de la cabecera Política de Seguridad de Contenidos podría romper el Checkout'
 id: 5fQXzMrLchSUENa53MXgf
 status: PUBLISHED
 createdAt: 2023-03-02T17:29:31.623Z

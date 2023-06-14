@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Apple Pay
+title: 'Setting up payments with Apple Pay'
 id: 5L3NWMgvdKswWQa6eIc008
 status: PUBLISHED
 createdAt: 2018-04-12T20:38:42.521Z

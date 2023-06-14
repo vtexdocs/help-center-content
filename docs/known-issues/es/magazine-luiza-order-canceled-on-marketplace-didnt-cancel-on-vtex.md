@@ -1,5 +1,5 @@
 ---
-title: [Revista Luiza] [Pedido cancelado en Marketplace no cancelado en VTEX]
+title: '[Revista Luiza] [Pedido cancelado en Marketplace no cancelado en VTEX]'
 id: 2HVJfeuKd74BYRpUKlpsQN
 status: PUBLISHED
 createdAt: 2023-04-18T16:53:18.470Z

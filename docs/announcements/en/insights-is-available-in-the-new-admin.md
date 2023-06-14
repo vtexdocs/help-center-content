@@ -1,5 +1,5 @@
 ---
-title: "Insights is available in the new admin"
+title: 'Insights is available in the new admin'
 id: 2pRsPlgzQc2USEqeGuKe26
 status: PUBLISHED
 createdAt: 2018-05-18T18:15:06.125Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: authors_24
 slug: insights-is-available-in-the-new-admin
 legacySlug: insights-is-available-in-the-new-admin
-announcementImageID: ""
-announcementSynopsisEN: Check detailed metrics, define goals and keep an eye on your store's performance right on your desktop.
+announcementImageID: ''
+announcementSynopsisEN: 'Check detailed metrics, define goals and keep an eye on your store's performance right on your desktop.'
 ---
 
 Keep track of your store's performance right on your admin. With __Insights Web__, the desktop version of the app you already know, it's easier than ever to identify opportunities and check results.

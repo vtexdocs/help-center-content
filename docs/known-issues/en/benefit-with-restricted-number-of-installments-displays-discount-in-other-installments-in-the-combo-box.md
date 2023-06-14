@@ -1,5 +1,5 @@
 ---
-title: Benefit with restricted number of installments displays discount in other installments in the combo box
+title: 'Benefit with restricted number of installments displays discount in other installments in the combo box'
 id: 4oKJDg0ygC40oiOAx2lkdG
 status: PUBLISHED
 createdAt: 2019-03-18T14:30:33.359Z

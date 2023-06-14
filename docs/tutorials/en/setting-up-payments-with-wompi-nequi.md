@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Wompi-Nequi
+title: 'Setting up payments with Wompi-Nequi'
 id: 3rX87mTmjYXbeZZ0CqSC44
 status: PUBLISHED
 createdAt: 2023-04-20T16:43:45.032Z

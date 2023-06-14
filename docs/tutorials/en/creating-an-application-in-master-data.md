@@ -1,5 +1,5 @@
 ---
-title: How to create an application in Master Data
+title: 'How to create an application in Master Data'
 id: tutorials_1115
 status: PUBLISHED
 createdAt: 2017-04-27T21:57:27.067Z

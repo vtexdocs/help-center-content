@@ -1,5 +1,5 @@
 ---
-title: "Make your payments more flexible and secure with automatic payment capture "
+title: 'Make your payments more flexible and secure with automatic payment capture '
 id: 1nrL1zneJm3MPZwO5Lb9cp
 status: PUBLISHED
 createdAt: 2020-09-30T21:50:51.930Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: make-your-payments-more-flexible-and-secure-with-automatic-payment-capture
 legacySlug: make-your-payments-more-flexible-and-secure-with-automatic-payment-capture
-announcementImageID: ""
-announcementSynopsisEN: New feature allows retailers to configure the maximum automatic payment capture time frame
+announcementImageID: ''
+announcementSynopsisEN: 'New feature allows retailers to configure the maximum automatic payment capture time frame'
 ---
 
 From October 2020, it will be possible to change the maximum time frame for automatic payment capture to be triggered.

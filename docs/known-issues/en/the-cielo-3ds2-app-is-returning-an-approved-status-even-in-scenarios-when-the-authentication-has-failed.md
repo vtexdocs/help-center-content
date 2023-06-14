@@ -1,5 +1,5 @@
 ---
-title: The Cielo 3DS2 app is returning an "approved" status even in scenarios when the authentication has failed.
+title: 'The Cielo 3DS2 app is returning an "approved" status even in scenarios when the authentication has failed.'
 id: 58hSiWFhn6sHQofJAUoHqv
 status: PUBLISHED
 createdAt: 2023-05-05T14:48:56.148Z

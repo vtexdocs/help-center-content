@@ -1,5 +1,5 @@
 ---
-title: La publicación de MELI en Mercado Libre se detiene cuando se desactiva una SKU
+title: 'La publicación de MELI en Mercado Libre se detiene cuando se desactiva una SKU'
 id: 28DDIVafmZ7U5DzAXRs6Fu
 status: PUBLISHED
 createdAt: 2022-04-06T17:20:35.601Z

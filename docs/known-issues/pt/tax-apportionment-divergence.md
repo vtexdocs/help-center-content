@@ -1,5 +1,5 @@
 ---
-title: Divergência na repartição de impostos.
+title: 'Divergência na repartição de impostos.'
 id: 4X7RMIaiJXcCUTZv5Pcy1q
 status: PUBLISHED
 createdAt: 2022-04-14T12:30:26.091Z

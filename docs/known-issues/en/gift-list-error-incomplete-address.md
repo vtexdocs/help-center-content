@@ -1,5 +1,5 @@
 ---
-title: Gift List Error - Incomplete Address
+title: 'Gift List Error - Incomplete Address'
 id: 4iwradK1HCvDdbqd3tvn4N
 status: PUBLISHED
 createdAt: 2022-01-23T02:50:33.725Z

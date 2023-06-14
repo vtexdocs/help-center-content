@@ -1,5 +1,5 @@
 ---
-title: Os campos na configuração do OrderForm são atualizados para zero quando há qualquer mudança nas configurações de gerenciamento de pedidos
+title: 'Os campos na configuração do OrderForm são atualizados para zero quando há qualquer mudança nas configurações de gerenciamento de pedidos'
 id: jKGnwUGdfmCXtKjGPe6hj
 status: PUBLISHED
 createdAt: 2023-02-06T21:00:09.224Z

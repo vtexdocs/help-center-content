@@ -1,5 +1,5 @@
 ---
-title: Setting up the standard size for the zoom image
+title: 'Setting up the standard size for the zoom image'
 id: 5ZqoOjGFgIkESq2KyyEYus
 status: PUBLISHED
 createdAt: 2017-10-12T15:38:58.079Z

@@ -1,5 +1,5 @@
 ---
-title: Controle $product.Brand substitui caracteres especiais
+title: 'Controle $product.Brand substitui caracteres especiais'
 id: 1UA4KGy7asC4uumY0uACGU
 status: PUBLISHED
 createdAt: 2017-08-29T20:19:03.244Z

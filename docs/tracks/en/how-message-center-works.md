@@ -1,5 +1,5 @@
 ---
-title: How Message Center works
+title: 'How Message Center works'
 id: 5uvq01BDu6nnDEJpseR1aH
 status: CHANGED
 createdAt: 2020-01-10T12:36:32.085Z

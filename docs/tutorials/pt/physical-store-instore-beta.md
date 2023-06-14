@@ -1,5 +1,5 @@
 ---
-title: Loja física inStore (Beta)
+title: 'Loja física inStore (Beta)'
 id: N4M9njT9xomdWD7mQyPt7
 status: DRAFT
 createdAt: 2022-12-02T17:31:27.811Z
@@ -27,7 +27,7 @@ Esta página permite que você realize as seguintes ações:
 * [Editar](#editar-loja-fisica)
 * [Excluir](#excluir-loja-fisica)
 
-![loja-fisica-PT](https://images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/0c7eafb7209254cfca3224ccb820012e/image.png)
+![loja-fisica-PT](//images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/0c7eafb7209254cfca3224ccb820012e/image.png)
 
 A página apresenta as seguintes informações: 
 
@@ -53,7 +53,7 @@ Você pode cadastrar uma loja física seguindo os passos a seguir:
 
 ### Campos de cadastro da loja física
 
-![loja-fisica2-pt](https://images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/92f54533a7b36d602d4108760ba3c7e0/image.png)
+![loja-fisica2-pt](//images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/92f54533a7b36d602d4108760ba3c7e0/image.png)
 
 #### Identificação
 

@@ -1,5 +1,5 @@
 ---
-title: Como funciona o tipo de entrega
+title: 'Como funciona o tipo de entrega'
 id: tutorials_126
 status: PUBLISHED
 createdAt: 2017-04-27T22:18:17.250Z
@@ -28,7 +28,7 @@ No carrinho, não são exibidos os nomes das transportadoras e sim os tipos de 
 
 Segue uma imagem de como seriam exibidas as opções de frete no fechamento de compra de acordo com o exemplo citado:
 
-![Transportadoras Checkout](https://images.ctfassets.net/alneenqid6w5/1c85gOqY9uokEQ2UGI4YAI/87dd9e5eeb8d1a45233e80ce1b7b8de3/Transportadoras_Checkout.png)
+![Transportadoras Checkout](//images.ctfassets.net/alneenqid6w5/1c85gOqY9uokEQ2UGI4YAI/87dd9e5eeb8d1a45233e80ce1b7b8de3/Transportadoras_Checkout.png)
 
 Note que, mesmo tendo cinco transportadoras cadastradas, só aparecem duas opções de frete: **Agendado** e **Normal**. Isso acontece por dois motivos: 
 

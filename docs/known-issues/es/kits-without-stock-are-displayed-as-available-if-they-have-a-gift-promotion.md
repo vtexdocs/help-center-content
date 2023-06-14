@@ -1,5 +1,5 @@
 ---
-title: Kits sin stock se muestran como disponibles si tienen promoción de regalo
+title: 'Kits sin stock se muestran como disponibles si tienen promoción de regalo'
 id: 5xHAJ10n3qMSOGECegw8Yo
 status: PUBLISHED
 createdAt: 2018-04-24T21:43:13.080Z

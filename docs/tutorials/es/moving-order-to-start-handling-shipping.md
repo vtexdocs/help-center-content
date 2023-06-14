@@ -1,5 +1,5 @@
 ---
-title: Enviar pedido al status a Preparar la Entrega
+title: 'Enviar pedido al status a Preparar la Entrega'
 id: tutorials_198
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:17.090Z

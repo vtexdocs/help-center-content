@@ -1,5 +1,5 @@
 ---
-title: Configuring Spin Pay gateway
+title: 'Configuring Spin Pay gateway'
 id: 3YuCJzFJV30COTjEs8Vyl3
 status: PUBLISHED
 createdAt: 2021-04-19T13:39:06.747Z

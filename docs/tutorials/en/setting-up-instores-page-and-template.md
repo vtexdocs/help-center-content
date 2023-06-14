@@ -1,5 +1,5 @@
 ---
-title: Setting up inStore's page and template
+title: 'Setting up inStore's page and template'
 id: o1J8pnO0lE44A8KeOoOkG
 status: DRAFT
 createdAt: 2018-03-06T22:27:06.192Z

@@ -1,5 +1,5 @@
 ---
-title: Los skus enviados por los vendedores se crean con Imágenes desordenadas.
+title: 'Los skus enviados por los vendedores se crean con Imágenes desordenadas.'
 id: 4I7D9QqrG5nwN2Z8KXGGIV
 status: PUBLISHED
 createdAt: 2023-04-03T14:14:43.373Z

@@ -1,5 +1,5 @@
 ---
-title: Recursos del License Manager - Portal
+title: 'Recursos del License Manager - Portal'
 id: 5PsBAKKjtdXPhsoVBvrLRQ
 status: DRAFT
 createdAt: 2022-02-16T20:34:43.926Z

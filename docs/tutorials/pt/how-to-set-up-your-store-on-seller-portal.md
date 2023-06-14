@@ -1,5 +1,5 @@
 ---
-title: Seller Portal: Primeiros Passos do seller
+title: 'Seller Portal: Primeiros Passos do seller'
 id: 6w1vBdRH2uuBGmUqgNQjwK
 status: PUBLISHED
 createdAt: 2021-01-26T15:08:22.524Z

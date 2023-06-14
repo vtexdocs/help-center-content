@@ -1,5 +1,5 @@
 ---
-title: Vista previa de envío incorrecta cuando los artículos son de entrega programada
+title: 'Vista previa de envío incorrecta cuando los artículos son de entrega programada'
 id: 32RG7BjY9cScxj9e9bcDPS
 status: DRAFT
 createdAt: 2022-09-09T18:25:35.348Z

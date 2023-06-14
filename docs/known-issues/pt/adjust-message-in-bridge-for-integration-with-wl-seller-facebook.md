@@ -1,5 +1,5 @@
 ---
-title: Ajustar mensagem em bridge para integração com o vendedor WL - Facebook
+title: 'Ajustar mensagem em bridge para integração com o vendedor WL - Facebook'
 id: 1BkqKFPOSVBWoXnbVLzwP7
 status: PUBLISHED
 createdAt: 2022-06-17T13:35:57.858Z

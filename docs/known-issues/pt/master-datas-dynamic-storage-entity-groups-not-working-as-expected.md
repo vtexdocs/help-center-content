@@ -1,5 +1,5 @@
 ---
-title: Grupos de entidades do Dynamic Storage no Master Data não funcionam como o esperado
+title: 'Grupos de entidades do Dynamic Storage no Master Data não funcionam como o esperado'
 id: 2qgBrT6ehhUyy7Z9Xj4R85
 status: PUBLISHED
 createdAt: 2019-08-05T20:46:48.873Z

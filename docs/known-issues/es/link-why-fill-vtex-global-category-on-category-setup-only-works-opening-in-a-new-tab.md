@@ -1,5 +1,5 @@
 ---
-title: El enlace "¿Por qué rellenar la Categoría Global VTEX?" en la configuración de la categoría sólo funciona abriéndose en una nueva pestaña
+title: 'El enlace "¿Por qué rellenar la Categoría Global VTEX?" en la configuración de la categoría sólo funciona abriéndose en una nueva pestaña'
 id: 3u7aq2otUovQbO98lzjbus
 status: PUBLISHED
 createdAt: 2022-03-16T17:59:14.355Z

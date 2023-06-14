@@ -1,5 +1,5 @@
 ---
-title: Las variaciones de SKU no vuelven en el PLP
+title: 'Las variaciones de SKU no vuelven en el PLP'
 id: 6AOmkZe06SmXpVqwQqTZdp
 status: PUBLISHED
 createdAt: 2022-10-19T12:20:41.544Z

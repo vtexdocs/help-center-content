@@ -1,5 +1,5 @@
 ---
-title: El HUB de tarjetas de regalo establece "R$" como moneda automática en la interfaz de usuario
+title: 'El HUB de tarjetas de regalo establece "R$" como moneda automática en la interfaz de usuario'
 id: 2ODtc4t1GSo3iUjT9Gk0uk
 status: PUBLISHED
 createdAt: 2022-11-03T12:57:31.895Z

@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué veo varios emails transaccionales repetidos en un pedido?
+title: '¿Por qué veo varios emails transaccionales repetidos en un pedido?'
 id: frequentlyAskedQuestions_5310
 status: PUBLISHED
 createdAt: 2017-04-27T22:22:48.654Z

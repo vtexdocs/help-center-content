@@ -1,5 +1,5 @@
 ---
-title: "President Barack Obama to attend 7th edition of VTEX DAY"
+title: 'President Barack Obama to attend 7th edition of VTEX DAY'
 id: 1jpRRvqR5WkrWBPC3y7PuX
 status: PUBLISHED
 createdAt: 2019-03-18T12:21:27.854Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: authors_84
 slug: president-barack-obama-to-attend-7th-edition-of-vtex-day
 legacySlug: president-barack-obama-to-attend-7th-edition-of-vtex-day
-announcementImageID: ""
-announcementSynopsisEN: The event is expected to gather 15 thousand participants on the 30th and 31st of May in São Paulo
+announcementImageID: ''
+announcementSynopsisEN: 'The event is expected to gather 15 thousand participants on the 30th and 31st of May in São Paulo'
 ---
 
 The 44th President of the United States of America, President Barack Obama will speak at VTEX DAY, the biggest digital innovation event in Latin America.

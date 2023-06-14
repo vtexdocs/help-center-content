@@ -1,5 +1,5 @@
 ---
-title: "Melhorias na experiência de Cupons"
+title: 'Melhorias na experiência de Cupons'
 id: 5ZuEdfHzmuiLfosFBgz16D
 status: PUBLISHED
 createdAt: 2023-04-13T21:15:44.940Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: melhorias-na-experiencia-de-cupons
 legacySlug: melhorias-na-experiencia-de-cupons
-announcementImageID: ""
-announcementSynopsisPT: Nova experiência de Cupons para apresentar mais informações estratégicas e novas possibilidades de configuração
+announcementImageID: ''
+announcementSynopsisPT: 'Nova experiência de Cupons para apresentar mais informações estratégicas e novas possibilidades de configuração'
 ---
 
 O objetivo principal de realizar promoções é aumentar a competitividade da loja e, consequentemente, a taxa de conversão. Isso é possível por meio da oferta de benefícios que sejam atrativos financeiramente para os compradores. Uma estratégia bem-sucedida nesse sentido é a utilização de [cupons](https://help.vtex.com/pt/tutorial/cupons-beta--1aAEN3ADpz19ss5JCIEBdL), ou seja, códigos que você pode disponibilizar para os clientes da loja para aplicar promoções.
@@ -26,7 +26,7 @@ A nova experiência de Cupons oferece os seguintes recursos:
 
 A nova [Lista de cupons](https://help.vtex.com/pt/tutorial/lista-de-cupons-beta--5z5ya3IonsC2W4B5h4JrsZ) exibe todos os cupons cadastrados na sua loja, possibilitando gerenciar seus dados e analisar em quais pedidos foram utilizados.
 
-![listacupons pt](https://images.ctfassets.net/alneenqid6w5/2uuixGwgV7WgvGhpwZnQiM/a883b91403037b62476bb53c0b905ad3/listacupons_pt.gif)
+![listacupons pt](//images.ctfassets.net/alneenqid6w5/2uuixGwgV7WgvGhpwZnQiM/a883b91403037b62476bb53c0b905ad3/listacupons_pt.gif)
 
 ### Acesso mais fácil aos códigos de cupom
 
@@ -43,7 +43,7 @@ Os novos filtros possibilitam a visualização apenas dos cupons que atendem a c
 - Última edição
 - Tipo de cupom 
 
-![filtroscupons pt](https://images.ctfassets.net/alneenqid6w5/4ycZkMAbrCVdN5sryskEcE/0d0fe4fe0dc88f7fdadc0bc21999a946/filtroscupons_pt.gif)
+![filtroscupons pt](//images.ctfassets.net/alneenqid6w5/4ycZkMAbrCVdN5sryskEcE/0d0fe4fe0dc88f7fdadc0bc21999a946/filtroscupons_pt.gif)
 
 ### Grupos de cupons para gerenciamento ágil
 

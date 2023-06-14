@@ -1,5 +1,5 @@
 ---
-title: Setting up the Moip sub-acquirer
+title: 'Setting up the Moip sub-acquirer'
 id: 16yZI11GWC2KMMUAGmec0m
 status: DRAFT
 createdAt: 2018-02-27T16:01:35.629Z

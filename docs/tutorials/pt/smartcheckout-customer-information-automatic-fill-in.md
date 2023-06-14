@@ -1,5 +1,5 @@
 ---
-title: SmartCheckout - Preenchimento automático de dados do cliente
+title: 'SmartCheckout - Preenchimento automático de dados do cliente'
 id: 2Nuu3xAFzdhIzJIldAdtan
 status: PUBLISHED
 createdAt: 2022-05-26T11:11:00.643Z

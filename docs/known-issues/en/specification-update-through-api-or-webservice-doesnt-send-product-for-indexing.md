@@ -1,5 +1,5 @@
 ---
-title: Specification update through API or webservice doesn't send product for indexing
+title: 'Specification update through API or webservice doesn't send product for indexing'
 id: d0xRClv0lM6q6EmcSCG0Q
 status: PUBLISHED
 createdAt: 2018-04-03T14:31:21.538Z

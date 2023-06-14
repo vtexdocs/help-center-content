@@ -1,5 +1,5 @@
 ---
-title: stockkeepingunit catalog API allows invalid commercial condition values
+title: 'stockkeepingunit catalog API allows invalid commercial condition values'
 id: 1ONAspL4Wj9fdu2tYcX4Ur
 status: PUBLISHED
 createdAt: 2023-03-10T20:44:01.459Z

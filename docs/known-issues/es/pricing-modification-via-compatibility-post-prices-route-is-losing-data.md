@@ -1,5 +1,5 @@
 ---
-title: La modificación de los precios a través de la ruta de los precios de los puestos de compatibilidad está perdiendo datos
+title: 'La modificación de los precios a través de la ruta de los precios de los puestos de compatibilidad está perdiendo datos'
 id: 4VqqNOUcRIGiZhxyVU4Ite
 status: PUBLISHED
 createdAt: 2022-03-29T19:12:47.179Z

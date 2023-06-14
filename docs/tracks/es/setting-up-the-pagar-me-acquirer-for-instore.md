@@ -1,5 +1,5 @@
 ---
-title: Configurar el adquirente Pagar.me para el inStore
+title: 'Configurar el adquirente Pagar.me para el inStore'
 id: 1obqdkoH82yFWtaMbwcJKx
 status: DRAFT
 createdAt: 2020-06-28T15:32:06.737Z

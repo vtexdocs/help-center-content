@@ -1,5 +1,5 @@
 ---
-title: Integration guide for marketplaces - Marketplace non VTEX with payment on seller
+title: 'Integration guide for marketplaces - Marketplace non VTEX with payment on seller'
 id: 4MyIxyg3p6UICk8O6w6O2W
 status: DRAFT
 createdAt: 2017-10-14T21:51:19.187Z

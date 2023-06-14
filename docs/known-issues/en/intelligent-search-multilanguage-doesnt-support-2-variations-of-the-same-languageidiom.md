@@ -1,5 +1,5 @@
 ---
-title: Intelligent Search multilanguage doesn't support 2 variations of the same language/idiom
+title: 'Intelligent Search multilanguage doesn't support 2 variations of the same language/idiom'
 id: 2Qr9uJWwlr20NG29VU4tn2
 status: PUBLISHED
 createdAt: 2023-06-09T20:41:32.227Z

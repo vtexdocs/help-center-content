@@ -1,5 +1,5 @@
 ---
-title: Via inventory integration errors
+title: 'Via inventory integration errors'
 id: 2jzz4Ip0M2BDzwslEtCzPc
 status: PUBLISHED
 createdAt: 2021-10-26T23:55:47.528Z

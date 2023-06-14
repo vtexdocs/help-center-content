@@ -1,5 +1,5 @@
 ---
-title: How to request a platform SLA verification?
+title: 'How to request a platform SLA verification?'
 id: 3L99VeoLhYEwMqqkWKu86i
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:46.776Z

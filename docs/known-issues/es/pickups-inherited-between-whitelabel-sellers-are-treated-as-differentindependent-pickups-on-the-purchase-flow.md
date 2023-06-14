@@ -1,5 +1,5 @@
 ---
-title: Las recogidas heredadas entre vendedores de marca blanca se tratan como recogidas diferentes/independientes en el flujo de compra
+title: 'Las recogidas heredadas entre vendedores de marca blanca se tratan como recogidas diferentes/independientes en el flujo de compra'
 id: mfLw2RDV0C7cXNic5CwoA
 status: PUBLISHED
 createdAt: 2022-05-12T14:52:12.808Z

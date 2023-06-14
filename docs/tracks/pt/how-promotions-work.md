@@ -1,5 +1,5 @@
 ---
-title: Como funcionam as promoções
+title: 'Como funcionam as promoções'
 id: 2a2D0K85Ahvs4hLnL3Ag7N
 status: PUBLISHED
 createdAt: 2019-11-27T13:19:58.758Z

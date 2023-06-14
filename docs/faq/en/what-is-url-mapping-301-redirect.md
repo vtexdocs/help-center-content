@@ -1,5 +1,5 @@
 ---
-title: What is URL Mapping (301 Redirect)
+title: 'What is URL Mapping (301 Redirect)'
 id: 2yxRLJPQAMswCQGSkgkYG8
 status: DRAFT
 createdAt: 2018-10-09T17:21:59.161Z

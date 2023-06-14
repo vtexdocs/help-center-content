@@ -1,5 +1,5 @@
 ---
-title: Incapaz de cancelar transações que tiveram mudança de configuração de pagamento dividido
+title: 'Incapaz de cancelar transações que tiveram mudança de configuração de pagamento dividido'
 id: 2bhsI5119DLOhNjk2cb6q
 status: PUBLISHED
 createdAt: 2022-06-28T16:44:10.992Z

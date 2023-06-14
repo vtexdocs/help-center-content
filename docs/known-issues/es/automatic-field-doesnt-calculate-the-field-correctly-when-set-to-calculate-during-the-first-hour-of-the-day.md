@@ -1,5 +1,5 @@
 ---
-title: Campo automático no calcula el campo correctamente cuando está programado para cambiar el registro en la primera hora del día
+title: 'Campo automático no calcula el campo correctamente cuando está programado para cambiar el registro en la primera hora del día'
 id: 6DieNCI6paEUeg06cKsCYI
 status: PUBLISHED
 createdAt: 2018-12-17T18:37:45.246Z
@@ -17,7 +17,7 @@ internalReference:
 
 ## Sumario
 
-El Campo Automático (campo calculado) funciona correctamente cuando "Recalcular este campo:" está establecido para "solo cuando ingrese el registro", pero deja de funcionar cuando está programado para recalcular "en la primera hora..." y susvariantes. ![inline1511102536](https://images.ctfassets.net/alneenqid6w5/JbRenxvruoyYOueqguwcy/8ae33d07ce4db627a1c45eed5916824e/inline1511102536.png)
+El Campo Automático (campo calculado) funciona correctamente cuando "Recalcular este campo:" está establecido para "solo cuando ingrese el registro", pero deja de funcionar cuando está programado para recalcular "en la primera hora..." y susvariantes. ![inline1511102536](//images.ctfassets.net/alneenqid6w5/JbRenxvruoyYOueqguwcy/8ae33d07ce4db627a1c45eed5916824e/inline1511102536.png)
 
 ## Simulación
 

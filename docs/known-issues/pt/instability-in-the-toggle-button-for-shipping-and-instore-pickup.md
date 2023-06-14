@@ -1,5 +1,5 @@
 ---
-title:  Instabilidade no botão que alterna a escolha entre  retirada e entrega
+title: ' Instabilidade no botão que alterna a escolha entre  retirada e entrega'
 id: 54pnP8pZGWSo2VZKhOLBKC
 status: PUBLISHED
 createdAt: 2021-09-08T17:53:29.698Z

@@ -1,5 +1,5 @@
 ---
-title: Customizing the My Orders section
+title: 'Customizing the My Orders section'
 id: 4DXbgLL65iMKsW40kuaAwK
 status: DRAFT
 createdAt: 2017-05-02T18:59:18.106Z

@@ -1,5 +1,5 @@
 ---
-title: The order management filter does not find results for criteria that have double spaces in the name
+title: 'The order management filter does not find results for criteria that have double spaces in the name'
 id: 3Z8bOmWhsdFbMX5pMp8wZU
 status: PUBLISHED
 createdAt: 2022-04-29T20:57:35.619Z

@@ -1,5 +1,5 @@
 ---
-title: Valor divergente do pedido entre o mercado e o vendedor enquanto usa a substituição de preço e promoções
+title: 'Valor divergente do pedido entre o mercado e o vendedor enquanto usa a substituição de preço e promoções'
 id: 4OsDOEqVDpDTen3BFyHSYf
 status: PUBLISHED
 createdAt: 2023-02-17T18:37:04.409Z

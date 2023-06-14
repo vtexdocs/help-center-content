@@ -1,5 +1,5 @@
 ---
-title: Como ver o log de reindexações do catálogo?
+title: 'Como ver o log de reindexações do catálogo?'
 id: 6cND6PhkaIgGsaeEQYyuMA
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:41.135Z

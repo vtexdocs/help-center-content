@@ -1,5 +1,5 @@
 ---
-title: How the payments module works
+title: 'How the payments module works'
 id: kdPbEIWf8Xq8tESQvViMB
 status: PUBLISHED
 createdAt: 2019-11-13T18:30:00.279Z

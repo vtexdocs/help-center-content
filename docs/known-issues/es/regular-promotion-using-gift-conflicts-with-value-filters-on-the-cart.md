@@ -1,5 +1,5 @@
 ---
-title: Promoción periódica mediante conflictos de regalos con filtros de valor en el carrito
+title: 'Promoción periódica mediante conflictos de regalos con filtros de valor en el carrito'
 id: oUDvaZPL0fjbN3v18QQIM
 status: PUBLISHED
 createdAt: 2022-07-25T19:29:19.209Z

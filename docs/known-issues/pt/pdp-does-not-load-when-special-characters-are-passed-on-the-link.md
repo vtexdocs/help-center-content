@@ -1,5 +1,5 @@
 ---
-title: O PDP não carrega quando caracteres especiais são passados no link
+title: 'O PDP não carrega quando caracteres especiais são passados no link'
 id: 442RD31ld9TYWHAECLjTmu
 status: PUBLISHED
 createdAt: 2023-03-14T17:13:19.750Z

@@ -1,5 +1,5 @@
 ---
-title: Cuando se selecciona una recogida que no está resaltada en la lista de recogidas del carrito, la interfaz de usuario hace una petición incorrecta a la API
+title: 'Cuando se selecciona una recogida que no está resaltada en la lista de recogidas del carrito, la interfaz de usuario hace una petición incorrecta a la API'
 id: 42NRIpmVxU7XgOMGHlO6zI
 status: PUBLISHED
 createdAt: 2022-02-22T18:21:47.541Z

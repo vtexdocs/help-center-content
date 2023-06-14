@@ -1,5 +1,5 @@
 ---
-title: "New tax information in order reports"
+title: 'New tax information in order reports'
 id: 5w4kBsXd6DIzBjyGMe5Tmy
 status: PUBLISHED
 createdAt: 2021-04-08T18:19:51.100Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 1malnhMX0vPThsaJaZMYm2
 slug: new-tax-information-in-order-reports
 legacySlug: new-tax-information-in-order-reports
-announcementImageID: ""
-announcementSynopsisEN: The Taxes column in the order report has been modified to make it easier to view the total amount of taxes applied.
+announcementImageID: ''
+announcementSynopsisEN: 'The Taxes column in the order report has been modified to make it easier to view the total amount of taxes applied.'
 ---
 
 You can use order reports to analyze the performance of promotions or as packing slips, to facilitate store logistics.

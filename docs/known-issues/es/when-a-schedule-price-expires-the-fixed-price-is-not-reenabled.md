@@ -1,5 +1,5 @@
 ---
-title: Cuando un precio agendado vence, no reactiva el precio fijo
+title: 'Cuando un precio agendado vence, no reactiva el precio fijo'
 id: 75RY8MaDPaiOGOoY2mwycg
 status: PUBLISHED
 createdAt: 2017-06-23T16:23:03.818Z

@@ -1,5 +1,5 @@
 ---
-title: List the account workspaces
+title: 'List the account workspaces'
 id: Y4TGxVPgSiIS0yISGugCG
 status: DRAFT
 createdAt: 2018-02-21T22:45:39.240Z

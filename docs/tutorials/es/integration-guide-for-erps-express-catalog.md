@@ -1,5 +1,5 @@
 ---
-title: Guía de integración de ERPs - Catálogo Expreso
+title: 'Guía de integración de ERPs - Catálogo Expreso'
 id: 5AKpnx79Bumc6IYgMKYssk
 status: DRAFT
 createdAt: 2017-09-11T22:16:10.606Z

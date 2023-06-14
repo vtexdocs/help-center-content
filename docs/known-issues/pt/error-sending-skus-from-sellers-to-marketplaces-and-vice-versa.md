@@ -1,5 +1,5 @@
 ---
-title: Erro de envio de SKUs entre sellers e marketplaces
+title: 'Erro de envio de SKUs entre sellers e marketplaces'
 id: 1fh0ea4fZrfyWW5EYnrZxj
 status: PUBLISHED
 createdAt: 2021-09-30T19:19:17.233Z

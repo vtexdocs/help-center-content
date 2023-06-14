@@ -1,5 +1,5 @@
 ---
-title: Como lidar com erro de Timeout com a integração com o catálogo?
+title: 'Como lidar com erro de Timeout com a integração com o catálogo?'
 id: 41SucuGFjn1ndIN2iR1vvr
 status: DRAFT
 createdAt: 2019-03-20T21:50:15.029Z

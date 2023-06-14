@@ -1,5 +1,5 @@
 ---
-title: "Descontinuación del status del pedido de Fulfillment `order-completed`, `order-create-error` y `order-creation-error`"
+title: 'Descontinuación del status del pedido de Fulfillment `order-completed`, `order-create-error` y `order-creation-error`'
 id: 4AJyu9fJNSKNpL4g4dfgcp
 status: PUBLISHED
 createdAt: 2019-06-12T18:05:37.415Z
@@ -10,8 +10,8 @@ productTeam: Reliability
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: descontinuacao-dos-status-dos-pedidos-de-fulfillment-order-completed-order
 legacySlug: descontinuacion-del-status-del-pedido-de-fulfillment-order-completed-order
-announcementImageID: ""
-announcementSynopsisES: Status de los pedidos de Fulfillment `order-completed``order-create-error` y `order-creation-error` serán descontinuados
+announcementImageID: ''
+announcementSynopsisES: 'Status de los pedidos de Fulfillment `order-completed``order-create-error` y `order-creation-error` serán descontinuados'
 ---
 
 A partir del 24 de junio de 2019, los status de los pedidos de Fulfillment `order-completed`, `order-create-error` y `order-creation-error` serán descontinuados.

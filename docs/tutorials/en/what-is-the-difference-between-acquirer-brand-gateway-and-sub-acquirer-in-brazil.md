@@ -1,5 +1,5 @@
 ---
-title: What is the role of financial agents in the payment flow of an application in Brazil?
+title: 'What is the role of financial agents in the payment flow of an application in Brazil?'
 id: 1dyPJ3gQCCO4ea2o6OMgCi
 status: CHANGED
 createdAt: 2017-10-11T19:08:49.654Z

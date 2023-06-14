@@ -1,5 +1,5 @@
 ---
-title: What is the platform’s operation SLA
+title: 'What is the platform’s operation SLA'
 id: 2cIFrsY5S8usk84OU4QOKm
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:48.688Z

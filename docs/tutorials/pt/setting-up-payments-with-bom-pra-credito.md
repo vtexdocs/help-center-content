@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Bom Pra Crédito
+title: 'Configurar pagamento com Bom Pra Crédito'
 id: 2arjSmF9ksov6IXTEMaGkl
 status: PUBLISHED
 createdAt: 2022-08-10T19:47:21.251Z

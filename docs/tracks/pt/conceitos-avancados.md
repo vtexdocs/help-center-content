@@ -1,5 +1,5 @@
 ---
-title: Conceitos avançados
+title: 'Conceitos avançados'
 id: 6a4cJHg8fVgDNDEdcq9S9Q
 status: PUBLISHED
 createdAt: 2022-12-22T19:24:34.808Z

@@ -1,5 +1,5 @@
 ---
-title: Los diacríticos se eliminan en CatalogAPI
+title: 'Los diacríticos se eliminan en CatalogAPI'
 id: 2iVyAQ8TSaT3jFYzcQGjSs
 status: PUBLISHED
 createdAt: 2022-07-22T18:18:04.236Z

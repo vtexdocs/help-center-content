@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 5V92cmF9jG8KG600EwUgEg
 slug: novo-objeto-retornado-na-api-get-order-cancelreason
 legacySlug: novo-objeto-retornado-na-api-get-order-cancelreason
-announcementImageID: ""
-announcementSynopsisPT: O JSON de pedidos retornará um novo objeto chamado cancelReason.
+announcementImageID: ''
+announcementSynopsisPT: 'O JSON de pedidos retornará um novo objeto chamado cancelReason.'
 ---
 
 A partir de 10 de Maio de 2019, o JSON de pedidos retornará um novo objeto chamado cancelReason. Este objeto devolverá o motivo preenchido pelo usuário para cancelamento de um pedido.

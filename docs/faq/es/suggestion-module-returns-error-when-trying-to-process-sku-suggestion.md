@@ -1,5 +1,5 @@
 ---
-title: Suggestion devuelve error al intentar procesar sugerencia de SKU. ¿Que hacer?
+title: 'Suggestion devuelve error al intentar procesar sugerencia de SKU. ¿Que hacer?'
 id: 2OAWpCkw3YQwWGAmss6sCG
 status: CHANGED
 createdAt: 2019-01-24T20:30:45.252Z

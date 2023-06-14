@@ -1,5 +1,5 @@
 ---
-title: Lixeira enviada não corresponde a uma marca de cartão associada
+title: 'Lixeira enviada não corresponde a uma marca de cartão associada'
 id: 4GvoMVXIVOdFueGiNfcTvk
 status: PUBLISHED
 createdAt: 2022-03-26T14:46:51.930Z

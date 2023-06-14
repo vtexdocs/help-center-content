@@ -1,5 +1,5 @@
 ---
-title: "B2B: Segmente preços diretamente no fluxo de compra com a nova app de Configuração de Pedidos"
+title: 'B2B: Segmente preços diretamente no fluxo de compra com a nova app de Configuração de Pedidos'
 id: 4JF7a0k3MVw56khEXWTKgE
 status: PUBLISHED
 createdAt: 2020-09-09T15:23:24.399Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: vztwQkZv4z6EwDVwdqbsw
 slug: segmente-precos-b2b-configuracao-de-pedidos
 legacySlug: segmente-precos-b2b-configuracao-de-pedidos
-announcementImageID: ""
-announcementSynopsisPT: Reflita estratégias de preço segmentadas diretamente na experiência de compra com a Configuração de Pedidos para B2B.
+announcementImageID: ''
+announcementSynopsisPT: 'Reflita estratégias de preço segmentadas diretamente na experiência de compra com a Configuração de Pedidos para B2B.'
 ---
 
 A segmentação de preços e taxas de acordo com o perfil da empresa compradora é uma parte fundamental das operações B2B. As regras mudam de comerciante para comerciante, mas fatores como a região do comprador, o tipo de pedido e a forma de pagamento podem influenciar diretamente no preço e nos impostos aplicáveis àquela venda. 

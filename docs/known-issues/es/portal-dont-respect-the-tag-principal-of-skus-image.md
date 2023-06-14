@@ -1,5 +1,5 @@
 ---
-title: Portal no respeta la etiqueta "Principal" de SKU's Imagen
+title: 'Portal no respeta la etiqueta "Principal" de SKU's Imagen'
 id: 2ej5V3eIGgkUoo0Omgacc6
 status: CHANGED
 createdAt: 2017-04-17T18:35:42.842Z

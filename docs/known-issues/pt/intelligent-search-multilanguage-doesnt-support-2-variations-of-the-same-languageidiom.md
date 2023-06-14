@@ -1,5 +1,5 @@
 ---
-title: O Intelligent Search multilíngue não é compatível com duas variações do mesmo idioma/idioma
+title: 'O Intelligent Search multilíngue não é compatível com duas variações do mesmo idioma/idioma'
 id: 2Qr9uJWwlr20NG29VU4tn2
 status: PUBLISHED
 createdAt: 2023-06-09T20:41:32.227Z

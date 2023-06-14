@@ -1,5 +1,5 @@
 ---
-title: Gestión de crédito a través de Customer Credit
+title: 'Gestión de crédito a través de Customer Credit'
 id: 5lihi3WBsV5mSIDqNvnoK0
 status: CHANGED
 createdAt: 2020-05-29T12:51:08.993Z
@@ -68,11 +68,11 @@ Para un número reducido de registros, el cliente puede crear las cuentas una po
 - Correo electrónico
 - Límite de crédito
 
-![CustomerCredit1-ES.png h 250?h=250](https://images.ctfassets.net/alneenqid6w5/5i2WziEg0CmHZ1yZGSId6q/88cc7d5c78daa86685773aa3ce28da38/CustomerCredit1-ES.png_h_250_h_250)
+![CustomerCredit1-ES.png h 250?h=250](//images.ctfassets.net/alneenqid6w5/5i2WziEg0CmHZ1yZGSId6q/88cc7d5c78daa86685773aa3ce28da38/CustomerCredit1-ES.png_h_250_h_250)
 
 Si, por otro lado, la base tiene un gran número de cuentas, lo más indicado es importar una plantilla en formato CSV. Puede descargar un modelo de este documento en la sección de Cuentas y rellenarlo con la información necesaria. Para esto, haga clic en el botón __Importar__.
 
-![CustomerCredit2-ES.png?h=250](https://images.ctfassets.net/alneenqid6w5/2kPzHCdKHPtdTRISkPpBP5/1d8832a989213974eff370027c655b3c/CustomerCredit2-ES.png_h_250)
+![CustomerCredit2-ES.png?h=250](//images.ctfassets.net/alneenqid6w5/2kPzHCdKHPtdTRISkPpBP5/1d8832a989213974eff370027c655b3c/CustomerCredit2-ES.png_h_250)
 
 ### Bases grandes
 

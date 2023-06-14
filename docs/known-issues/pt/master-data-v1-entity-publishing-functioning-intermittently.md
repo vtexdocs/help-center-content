@@ -1,5 +1,5 @@
 ---
-title: Publicação de entidade de Master Data V1 funcionando intermitentemente
+title: 'Publicação de entidade de Master Data V1 funcionando intermitentemente'
 id: 7mwbfdhdw8ENUtPiC2oEPH
 status: PUBLISHED
 createdAt: 2019-07-17T17:45:55.823Z

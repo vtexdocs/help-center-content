@@ -1,5 +1,5 @@
 ---
-title: Cuando settleId se envía como null y el código como "refund-manually" nuestra pasarela realiza un doble reembolso.
+title: 'Cuando settleId se envía como null y el código como "refund-manually" nuestra pasarela realiza un doble reembolso.'
 id: 2PdRRjHDODY2Tk0VItO4Fo
 status: PUBLISHED
 createdAt: 2022-07-11T17:37:43.961Z

@@ -1,5 +1,5 @@
 ---
-title: Como é calculado Frete Grátis para um único item em carrinho com mais itens
+title: 'Como é calculado Frete Grátis para um único item em carrinho com mais itens'
 id: 1t1LDB97WUcu4GgEkIiUce
 status: DRAFT
 createdAt: 2017-06-19T16:29:33.353Z

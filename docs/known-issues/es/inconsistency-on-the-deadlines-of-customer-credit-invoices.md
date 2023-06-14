@@ -1,5 +1,5 @@
 ---
-title: Incongruencia en los plazos de las facturas de crédito de los clientes
+title: 'Incongruencia en los plazos de las facturas de crédito de los clientes'
 id: 73zrcR44MDH7PAFdhu8fPM
 status: PUBLISHED
 createdAt: 2022-03-27T13:20:54.642Z

@@ -1,5 +1,5 @@
 ---
-title: Crear un punto de recogida de contingencia para garantizarlo como opción en el checkout  
+title: 'Crear un punto de recogida de contingencia para garantizarlo como opción en el checkout  '
 id: 3mowqWEfjyM2g6WoWgE0Ao
 status: CHANGED
 createdAt: 2018-04-01T16:02:02.437Z
@@ -20,7 +20,7 @@ Si su cliente final compra un producto en cualquiera de sus canales (en línea o
 
 Sin embargo, usted puede preferir que esa tienda funcione como un punto de recogida __ incluso si no tiene stock__. Para esto, su logística necesita asegurar que el producto llegará a esa tienda desde otro stock, por ejemplo, desde el stock del comercio electrónico. En este caso, necesita tener una política de envío en el comercio electrónico en el que esté configurado el punto de recogida de la tienda física.
 
-![contingency pickup](https://images.ctfassets.net/alneenqid6w5/7sxWH5eDPpCmNlEPfHiZF1/7a10b60e1273d58d9c2ca7610a9ba888/contingency_pickup.png)
+![contingency pickup](//images.ctfassets.net/alneenqid6w5/7sxWH5eDPpCmNlEPfHiZF1/7a10b60e1273d58d9c2ca7610a9ba888/contingency_pickup.png)
 
 ## Cómo implementar un punto de recogida de contingencia
 

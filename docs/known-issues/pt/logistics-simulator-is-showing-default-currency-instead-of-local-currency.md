@@ -1,5 +1,5 @@
 ---
-title: O simulador logístico está mostrando a moeda padrão em vez da moeda local.
+title: 'O simulador logístico está mostrando a moeda padrão em vez da moeda local.'
 id: AJSCxyexbrBHYyJTCWse6
 status: PUBLISHED
 createdAt: 2022-03-15T20:21:46.628Z

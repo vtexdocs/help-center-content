@@ -1,5 +1,5 @@
 ---
-title: Usuários (VTEX Tracking)
+title: 'Usuários (VTEX Tracking)'
 id: 1zn5nrvkoWtx0pcabbRhSZ
 status: PUBLISHED
 createdAt: 2020-07-07T21:04:54.830Z

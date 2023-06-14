@@ -1,5 +1,5 @@
 ---
-title: EAN dos componentes do KIT não são impressos no json do pedido
+title: 'EAN dos componentes do KIT não são impressos no json do pedido'
 id: 2lrOfIp4FOcGWIA2EuG6U0
 status: PUBLISHED
 createdAt: 2017-11-07T14:28:45.693Z

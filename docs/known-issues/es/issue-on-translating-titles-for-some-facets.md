@@ -1,5 +1,5 @@
 ---
-title: Problema al traducir los títulos de algunas facetas
+title: 'Problema al traducir los títulos de algunas facetas'
 id: iG3Kb1AfH7QIqYn1ewnuw
 status: PUBLISHED
 createdAt: 2023-03-22T19:26:31.477Z

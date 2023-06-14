@@ -1,5 +1,5 @@
 ---
-title: Incongruencia en las fechas de vencimiento del boleto bancario
+title: 'Incongruencia en las fechas de vencimiento del boleto bancario'
 id: 771mUo6KdQP0pCTq5F5E0m
 status: PUBLISHED
 createdAt: 2022-03-28T01:17:58.206Z

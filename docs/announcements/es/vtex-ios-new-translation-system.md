@@ -1,5 +1,5 @@
 ---
-title: "Conozca el nuevo sistema de traducción de VTEX IO"
+title: 'Conozca el nuevo sistema de traducción de VTEX IO'
 id: CLDXiPt21R0R4lklbksqF
 status: DRAFT
 createdAt: 2019-02-18T21:18:44.129Z
@@ -10,8 +10,8 @@ productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
 slug: conozca-el-nuevo-sistema-de-traduccion-de-vtex-io
 legacySlug: conozca-el-nuevo-sistema-de-traduccion-de-vtex-io
-announcementImageID: ""
-announcementSynopsisES: El nuevo Messages App (y los cambios en MessagesBuilder) facilitan y amplían la traducción de apps front y back-end.
+announcementImageID: ''
+announcementSynopsisES: 'El nuevo Messages App (y los cambios en MessagesBuilder) facilitan y amplían la traducción de apps front y back-end.'
 ---
 
 Estamos lanzando el nuevo __Messages App__ al mismo tiempo que implementamos cambios significativos en el `MessagesBuilder`. Las nuevas features atienden a las necesidades de los desarrolladores interesados en un sistema de traducción más completo, capaz de añadir soporte a varios idiomas (sea en aplicaciones front-end o respuestas de apps back-end).

@@ -1,5 +1,5 @@
 ---
-title: Adding Products
+title: 'Adding Products'
 id: 1ROhz3Y7mfSMmCO1I1GxEL
 status: PUBLISHED
 createdAt: 2019-05-21T20:07:43.400Z
@@ -29,7 +29,7 @@ In the VTEX Admin, follow the steps below.
 4.	Fill out the product form fields. For more on what each field means, read our article on [product registration fields](https://help.vtex.com/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke).
 5.	Click on `Save` or `Save and add new SKU`, in case you want to add SKUs associated to that product. 
 
-![Catalogo - Cadastrar produto EN.gif?h=250](https://images.ctfassets.net/alneenqid6w5/4Egs4EQBhRUeVCGRvIyNE2/0a89b7d303c4b2a67a686bd9d696bff4/Catalogo_-_Cadastrar_produto_EN.gif_h_250)
+![Catalogo - Cadastrar produto EN.gif?h=250](//images.ctfassets.net/alneenqid6w5/4Egs4EQBhRUeVCGRvIyNE2/0a89b7d303c4b2a67a686bd9d696bff4/Catalogo_-_Cadastrar_produto_EN.gif_h_250)
 
 ## Spreadsheet
 

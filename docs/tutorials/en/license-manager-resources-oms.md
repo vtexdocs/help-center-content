@@ -1,5 +1,5 @@
 ---
-title: License Manager resources - OMS
+title: 'License Manager resources - OMS'
 id: 60QcBsvWeum02cFi3GjBzg
 status: DRAFT
 createdAt: 2022-02-16T20:19:43.975Z

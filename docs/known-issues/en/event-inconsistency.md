@@ -1,5 +1,5 @@
 ---
-title: Event Inconsistency
+title: 'Event Inconsistency'
 id: 2YnhehJXuJcsy3f3Rezn6X
 status: CHANGED
 createdAt: 2022-06-20T23:00:31.430Z

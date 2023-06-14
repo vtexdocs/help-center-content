@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with iBuy
+title: 'Setting up payments with iBuy'
 id: 405H4xraBMf24bVoPG6zA3
 status: DRAFT
 createdAt: 2022-08-12T18:03:39.437Z

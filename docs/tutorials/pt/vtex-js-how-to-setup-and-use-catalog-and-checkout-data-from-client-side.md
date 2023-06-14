@@ -1,5 +1,5 @@
 ---
-title: VTEX js - Como instalar e manipular no front-end dados do catálogo e checkout
+title: 'VTEX js - Como instalar e manipular no front-end dados do catálogo e checkout'
 id: 5ngrD36bOAEW2WB9PShESn
 status: DRAFT
 createdAt: 2019-01-18T12:42:36.635Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con PagSmile
+title: 'Configurar pago con PagSmile'
 id: 61o6bs2mHeMZ46R4c7Vdz9
 status: DRAFT
 createdAt: 2022-03-25T16:58:36.126Z

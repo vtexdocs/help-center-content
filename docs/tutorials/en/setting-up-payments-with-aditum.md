@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Aditum
+title: 'Setting up payments with Aditum'
 id: 24042qRWfIL6EVTb0tflvt
 status: PUBLISHED
 createdAt: 2022-05-05T14:08:42.644Z

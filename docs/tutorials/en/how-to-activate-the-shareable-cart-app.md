@@ -1,5 +1,5 @@
 ---
-title: How to activate the Shareable Cart app (Social Selling)
+title: 'How to activate the Shareable Cart app (Social Selling)'
 id: 1lS3fQdXpOoC0BTeVhydfg
 status: PUBLISHED
 createdAt: 2020-05-01T23:27:25.719Z
@@ -16,7 +16,7 @@ subcategory:
 
 The [Shareable Cart](https://apps.vtex.com/vtex-social-selling/p) app allows sales assistants to select products for their customers and share the cart through channels such as WhatsApp, Facebook Messenger and email.
 
-![Shareable Cart Demo](https://images.ctfassets.net/alneenqid6w5/sf2zbYOG7janUXWbgkajd/93aa5f4ea002c5877a9620722af67890/Jy98kJ.gif)
+![Shareable Cart Demo](//images.ctfassets.net/alneenqid6w5/sf2zbYOG7janUXWbgkajd/93aa5f4ea002c5877a9620722af67890/Jy98kJ.gif)
 
 This article explains how to install the app and configure this functionality in your store. After completing the activation steps, your sales assistants will be able to [follow the instructions](https://help.vtex.com/en/tutorial/como-usar-o-app-carrinho-compartilhavel--3ePPpkmeZ96GXbeIoGZbTN) to start your Social Selling strategies.
 
@@ -83,7 +83,7 @@ You can change the button colors on your store's cart sharing interface through 
 
 In the image below, option A shows the original colors and option B shows one possible customization.
 
-![shareable-cart-ui-customization](https://images.ctfassets.net/alneenqid6w5/7qzGILGsBqu6sD2n052VQl/ba27c3afc9c744907ac707f10658e8e1/shareable-cart-ui-customization.png)
+![shareable-cart-ui-customization](//images.ctfassets.net/alneenqid6w5/7qzGILGsBqu6sD2n052VQl/ba27c3afc9c744907ac707f10658e8e1/shareable-cart-ui-customization.png)
 
 The code below must be added at the end of the `checkout5-custom.css` or `checkout6-custom.css` file, available for customization in *Store Settings > Checkout > Code*. The file that should be edited depends on the version of the Checkout used by your store.
 

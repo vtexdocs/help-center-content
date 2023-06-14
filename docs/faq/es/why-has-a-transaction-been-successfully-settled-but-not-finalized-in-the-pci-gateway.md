@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué una transacción fue liquidada con éxito pero no fue finalizada en el Pagos?
+title: '¿Por qué una transacción fue liquidada con éxito pero no fue finalizada en el Pagos?'
 id: 5kOSpUYvTyuUKOOws2A8Me
 status: PUBLISHED
 createdAt: 2017-05-22T17:47:40.705Z

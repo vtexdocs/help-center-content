@@ -1,5 +1,5 @@
 ---
-title: Category, variations, and attributes mapping on Mercado Livre
+title: 'Category, variations, and attributes mapping on Mercado Livre'
 id: 6d5DFl6MZasoKickqkOUo4
 status: DRAFT
 createdAt: 2018-07-28T17:54:34.171Z

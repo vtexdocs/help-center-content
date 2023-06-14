@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué mi pedido con stock disponible está dando error en el módulo Pedidos?
+title: '¿Por qué mi pedido con stock disponible está dando error en el módulo Pedidos?'
 id: 2FZHMJFo8oyWW46gYSqqOc
 status: PUBLISHED
 createdAt: 2018-03-07T14:26:47.000Z

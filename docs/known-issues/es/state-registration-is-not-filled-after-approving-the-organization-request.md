@@ -1,5 +1,5 @@
 ---
-title: El registro estatal no se completa tras aprobar la solicitud de organización
+title: 'El registro estatal no se completa tras aprobar la solicitud de organización'
 id: 7uUdlnXhfaaylNQNpIy3vE
 status: PUBLISHED
 createdAt: 2023-05-12T20:03:31.153Z

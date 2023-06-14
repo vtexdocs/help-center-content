@@ -1,5 +1,5 @@
 ---
-title: Como integrar VTEX utilizando Zapier
+title: 'Como integrar VTEX utilizando Zapier'
 id: 202FWo71uwyO2akG62OwQS
 status: DRAFT
 createdAt: 2017-09-19T15:41:48.007Z

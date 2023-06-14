@@ -1,5 +1,5 @@
 ---
-title: Botão Salvar desativado ao modificar sinônimos de pesquisa importados
+title: 'Botão Salvar desativado ao modificar sinônimos de pesquisa importados'
 id: 1nb1JboRv5YuLyAT50YcYx
 status: PUBLISHED
 createdAt: 2022-04-27T14:50:02.276Z

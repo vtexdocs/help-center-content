@@ -1,5 +1,5 @@
 ---
-title: Instalar una aplicación
+title: 'Instalar una aplicación'
 id: 4zR4uP5teMsyMI2eagkGKo
 status: DRAFT
 createdAt: 2018-02-22T01:56:56.752Z

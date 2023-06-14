@@ -1,5 +1,5 @@
 ---
-title: "Promoções agora consideram condição de meio de pagamento para mais de uma política comercial"
+title: 'Promoções agora consideram condição de meio de pagamento para mais de uma política comercial'
 id: 1W3IUT2YuAOu6eeAcCwYWs
 status: PUBLISHED
 createdAt: 2017-11-28T18:11:55.463Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: authors_24
 slug: promocoes-agora-consideram-condicao-de-meio-de-pagamento-para-mais-de-uma
 legacySlug: promocoes-agora-consideram-condicao-de-meio-de-pagamento-para-mais-de-uma
-announcementImageID: ""
-announcementSynopsisPT: Promoções agora reconhecem o filtro de meio de pagamento combinado com o filtro de política comercial
+announcementImageID: ''
+announcementSynopsisPT: 'Promoções agora reconhecem o filtro de meio de pagamento combinado com o filtro de política comercial'
 ---
 
 As promoções do módulo Promoções e Taxas agora reconhecem o filtro de meio de pagamento combinado com o filtro de política comercial.

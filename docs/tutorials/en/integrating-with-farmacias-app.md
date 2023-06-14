@@ -1,5 +1,5 @@
 ---
-title: How to integrate with Farmácias App
+title: 'How to integrate with Farmácias App'
 id: tutorials_6271
 status: PUBLISHED
 createdAt: 2017-04-27T21:49:03.087Z

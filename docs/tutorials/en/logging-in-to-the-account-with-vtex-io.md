@@ -1,5 +1,5 @@
 ---
-title: Logging in to the account with VTEX IO
+title: 'Logging in to the account with VTEX IO'
 id: 5lMWLYH0swucIOeGqW2YiW
 status: DRAFT
 createdAt: 2018-02-21T22:28:05.742Z

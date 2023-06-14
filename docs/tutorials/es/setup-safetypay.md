@@ -1,5 +1,5 @@
 ---
-title: Configurar gateway SafetyPay
+title: 'Configurar gateway SafetyPay'
 id: lf89DOdeveuMOI4Q0CwgC
 status: PUBLISHED
 createdAt: 2018-02-22T13:57:16.523Z

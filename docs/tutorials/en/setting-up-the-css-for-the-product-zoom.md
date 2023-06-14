@@ -1,5 +1,5 @@
 ---
-title: Setting up the CSS for the product zoom
+title: 'Setting up the CSS for the product zoom'
 id: 3Ak5dP6A5iSIuAuMOWsGAG
 status: DRAFT
 createdAt: 2017-10-12T15:38:41.766Z

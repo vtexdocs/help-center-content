@@ -1,5 +1,5 @@
 ---
-title: "Melhore a acessibilidade em sua loja"
+title: 'Melhore a acessibilidade em sua loja'
 id: 4UI7MZPfA5BXZXLi7KSedS
 status: PUBLISHED
 createdAt: 2021-03-09T19:40:54.779Z
@@ -10,8 +10,8 @@ productTeam: VTEX IO
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: conformidade-com-ada-e-wcag-na-vtex
 legacySlug: conformidade-com-ada-e-wcag-na-vtex
-announcementImageID: ""
-announcementSynopsisPT: O app accessiBe deixa a sua loja em conformidade com os padrões de acessibilidade para conteúdo Web.
+announcementImageID: ''
+announcementSynopsisPT: 'O app accessiBe deixa a sua loja em conformidade com os padrões de acessibilidade para conteúdo Web.'
 ---
 
 O termo “acessibilidade na Web” refere-se a sites, ferramentas e tecnologias que são pensados e desenvolvidos para serem usados por pessoas com deficiência.

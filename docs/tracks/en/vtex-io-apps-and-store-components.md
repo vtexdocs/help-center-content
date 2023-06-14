@@ -1,5 +1,5 @@
 ---
-title: VTEX IO apps and Store Components
+title: 'VTEX IO apps and Store Components'
 id: 4xWo849FSNi8piWi4PA6ZG
 status: DRAFT
 createdAt: 2019-02-19T18:36:28.165Z

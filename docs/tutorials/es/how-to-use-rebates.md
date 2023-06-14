@@ -1,5 +1,5 @@
 ---
-title: Cómo utilizar rebates 
+title: 'Cómo utilizar rebates '
 id: aS9z4io3auDKisk7M0rq9
 status: PUBLISHED
 createdAt: 2020-12-01T15:45:19.840Z

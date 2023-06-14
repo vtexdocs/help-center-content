@@ -1,5 +1,5 @@
 ---
-title: Los caracteres especiales no pueden utilizarse para la búsqueda de CNPJ en MasterData
+title: 'Los caracteres especiales no pueden utilizarse para la búsqueda de CNPJ en MasterData'
 id: 4sgob00QXkGYPC3TjSpQeN
 status: PUBLISHED
 createdAt: 2022-06-21T15:35:26.675Z

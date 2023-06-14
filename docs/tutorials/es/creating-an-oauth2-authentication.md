@@ -1,5 +1,5 @@
 ---
-title: Crear autenticación OAuth2
+title: 'Crear autenticación OAuth2'
 id: 21LbTSTgag4MsuisQsyIm6
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:47.861Z
@@ -37,7 +37,7 @@ Puede consultar la guía oficial del protocolo OAuth2 en esta dirección: https:
 ### Flujo de integración de OAuth2 con VTEX ID
 
 Con base en la documentación oficial, vea a continuación una ilustración que explica la integración de OAuth2 con VTEX ID:
-![oauth2](https://images.ctfassets.net/alneenqid6w5/ZIsxie9YMmuWgWcgkeUis/313ac04141d8975528a273f1d2d47023/Fluxo_OAuth2_VTEX_ID__ES_.png)
+![oauth2](//images.ctfassets.net/alneenqid6w5/ZIsxie9YMmuWgWcgkeUis/313ac04141d8975528a273f1d2d47023/Fluxo_OAuth2_VTEX_ID__ES_.png)
 
 A partir de esta ilustración, vamos a detallar los pasos a seguir.  
 

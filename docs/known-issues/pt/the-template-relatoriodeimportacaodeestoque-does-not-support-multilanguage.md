@@ -1,5 +1,5 @@
 ---
-title: O modelo "relatorio-de-importacao-de-estoque" não suporta multi-linguagem
+title: 'O modelo "relatorio-de-importacao-de-estoque" não suporta multi-linguagem'
 id: 5R8b0jnibOQdXupo0hIyts
 status: PUBLISHED
 createdAt: 2022-05-25T18:25:43.394Z

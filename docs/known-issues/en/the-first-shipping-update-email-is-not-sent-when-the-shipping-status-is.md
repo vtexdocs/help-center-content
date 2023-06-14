@@ -1,5 +1,5 @@
 ---
-title: The first shipping update email is not sent when the shipping status is updated
+title: 'The first shipping update email is not sent when the shipping status is updated'
 id: 55EJ7SR18hEeLXOP0TF9j3
 status: PUBLISHED
 createdAt: 2021-08-25T12:19:02.034Z

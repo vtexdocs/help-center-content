@@ -1,5 +1,5 @@
 ---
-title: O botão giratório MyCards não está funcionando corretamente
+title: 'O botão giratório MyCards não está funcionando corretamente'
 id: 2Y1IHSesmqAKYsep1JzIND
 status: PUBLISHED
 createdAt: 2023-03-29T19:18:47.318Z

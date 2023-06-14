@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Gateway 4all
+title: 'Configurar pagamento com Gateway 4all'
 id: 5PBSiQHhkJ9oTgxU8HRSfP
 status: DRAFT
 createdAt: 2022-03-30T12:37:58.031Z

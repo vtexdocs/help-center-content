@@ -1,5 +1,5 @@
 ---
-title: Setting up Seller White Label as a Pickup Point
+title: 'Setting up Seller White Label as a Pickup Point'
 id: 6fSUE2O0taaoKieAaiuc4e
 status: PUBLISHED
 createdAt: 2018-09-04T14:22:05.290Z

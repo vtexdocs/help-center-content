@@ -1,5 +1,5 @@
 ---
-title: Lack of phone number validation in the purchase APIs allowing invalid data in the orders
+title: 'Lack of phone number validation in the purchase APIs allowing invalid data in the orders'
 id: 141uMln6PSWcm2YSE5UpSI
 status: PUBLISHED
 createdAt: 2022-10-18T22:35:54.297Z

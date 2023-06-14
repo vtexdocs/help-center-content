@@ -1,5 +1,5 @@
 ---
-title: Site Editor content set to apply to specific categories isn't displayed if the category is not accessed using its direct link
+title: 'Site Editor content set to apply to specific categories isn't displayed if the category is not accessed using its direct link'
 id: 54uBX6xmhz8R2dm4LOEKJ7
 status: PUBLISHED
 createdAt: 2022-03-16T19:04:43.255Z

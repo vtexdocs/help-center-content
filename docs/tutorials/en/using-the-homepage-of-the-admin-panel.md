@@ -1,5 +1,5 @@
 ---
-title: Using the Home Page of the admin panel
+title: 'Using the Home Page of the admin panel'
 id: 4lq207lkPSiAoC4AYsWsE8
 status: DRAFT
 createdAt: 2017-06-22T19:28:57.833Z

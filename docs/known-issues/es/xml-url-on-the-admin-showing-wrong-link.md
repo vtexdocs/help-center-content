@@ -1,5 +1,5 @@
 ---
-title: La URL XML en el admin muestra un enlace erróneo
+title: 'La URL XML en el admin muestra un enlace erróneo'
 id: 2INFcpo4UriIfAndQbXxwD
 status: PUBLISHED
 createdAt: 2022-01-21T14:39:16.879Z

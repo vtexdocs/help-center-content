@@ -1,5 +1,5 @@
 ---
-title: La orden de cambio a través de la UI no tiene en cuenta el cálculo de las promociones Toma 3 paga 2.
+title: 'La orden de cambio a través de la UI no tiene en cuenta el cálculo de las promociones Toma 3 paga 2.'
 id: 3rvsDyCggYirvH7WT9rBVZ
 status: PUBLISHED
 createdAt: 2022-03-15T20:25:17.217Z

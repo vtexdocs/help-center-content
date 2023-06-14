@@ -1,5 +1,5 @@
 ---
-title: "El módulo Pricing V1 será descontinuado: actualice su tienda hasta septiembre"
+title: 'El módulo Pricing V1 será descontinuado: actualice su tienda hasta septiembre'
 id: 46YxKNOCLH2Ykw6a9uyxXB
 status: PUBLISHED
 createdAt: 2020-08-14T18:18:05.440Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: el-modulo-pricing-v1-sera-descontinuado-actualice-su-tienda
 legacySlug: el-modulo-pricing-v1-sera-descontinuado-actualice-su-tienda-hasta-el-fin-de, el-modulo-pricing-v1-sera-descontinuado-actualice-su-tienda
-announcementImageID: ""
-announcementSynopsisES: Con la discontinuación de Pricing V1, vea lo que debe hacer para migrar su tienda a la versión actual del módulo Precios
+announcementImageID: ''
+announcementSynopsisES: 'Con la discontinuación de Pricing V1, vea lo que debe hacer para migrar su tienda a la versión actual del módulo Precios'
 ---
 
 Con la discontinuación de Pricing V1, vea lo que necesita hacer para migrar su tienda a la versión más actualizada del módulo Precios. 
@@ -30,7 +30,7 @@ Para saber si su cuenta aún está utilizando Pricing V1, realice los siguientes
 
 Si ve una pantalla similar a la que aparece a continuación, significa que necesita realizar la migración de su cuenta. 
 
-![Tela pricing antiga - ES](https://images.ctfassets.net/alneenqid6w5/54yIQLSCHg9VfDUumByo2r/20ba1b2f56b1e1b90fa6ecc4f386cbc5/Tela_pricing_antiga_-_ES.png)
+![Tela pricing antiga - ES](//images.ctfassets.net/alneenqid6w5/54yIQLSCHg9VfDUumByo2r/20ba1b2f56b1e1b90fa6ecc4f386cbc5/Tela_pricing_antiga_-_ES.png)
 
 Si su cuenta VTEX sigue utilizando versiones anteriores del Admin de VTEX (como "vtexcommercestable"), usted necesitará realizar la migración de la misma. Para eso, siga los pasos a continuación: 
 

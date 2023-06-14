@@ -1,5 +1,5 @@
 ---
-title: Como é feita a comunicação com o cliente durante o fluxo do pedido
+title: 'Como é feita a comunicação com o cliente durante o fluxo do pedido'
 id: tutorials_195
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:41.243Z

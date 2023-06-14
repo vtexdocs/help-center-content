@@ -1,5 +1,5 @@
 ---
-title: Error al intentar abrir Mis Tarjetas
+title: 'Error al intentar abrir Mis Tarjetas'
 id: 52tGDR6eR5NU63HIJd29fr
 status: PUBLISHED
 createdAt: 2022-03-26T14:43:45.711Z

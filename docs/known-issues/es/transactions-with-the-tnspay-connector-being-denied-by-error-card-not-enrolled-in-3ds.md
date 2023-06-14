@@ -1,5 +1,5 @@
 ---
-title: Transacciones con el conector TNSPay denegadas por error: Tarjeta no REGISTRADA en 3DS
+title: 'Transacciones con el conector TNSPay denegadas por error: Tarjeta no REGISTRADA en 3DS'
 id: 2jZefzH8LYqPJxkmylmyA0
 status: PUBLISHED
 createdAt: 2022-03-14T13:21:56.187Z

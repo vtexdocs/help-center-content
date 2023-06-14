@@ -1,5 +1,5 @@
 ---
-title: Como importar pontos de retirada (pickup points) por planilha
+title: 'Como importar pontos de retirada (pickup points) por planilha'
 id: 6jqlX7MFOga6cMoWKqiugU
 status: DRAFT
 createdAt: 2018-12-18T12:12:03.208Z
@@ -26,8 +26,8 @@ Um arquivo XLS de <strong>10 MB</strong> permite o cadastro de, aproximadamente,
 ## Como fazer o upload da planilha
 1. No menu lateral, clique em __Estoque & entrega__, na seção __Pedidos__.
 2. Nas opções que se abrem, clique em __Pontos de retirada__.
-3. Clique em __Subir um XLS__, localizado no canto superior direito da página. ![Subir XLS](https://images.ctfassets.net/alneenqid6w5/405kNpYa3mg6iSaS0UgQmq/4f544dfad6e5e7b95e63c5420c8884fe/Subir_XLS.png)
-4. Um modal vai surgir, permitindo que você envie seu arquivo (com extensão `.xls`) ou baixe a [planilha de exemplo](//assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls). Lembre-se de que ela vem com valores de exemplo preenchidos, que devem ser deletados e substituídos pelos dados dos seus próprios pontos de retirada. ![modal (PT)](https://images.ctfassets.net/alneenqid6w5/20X1H7Xla4WsqoG24UssK2/12a46b5171a72837f5ad6fb46287aae5/modal__PT_.png)
+3. Clique em __Subir um XLS__, localizado no canto superior direito da página. ![Subir XLS](//images.ctfassets.net/alneenqid6w5/405kNpYa3mg6iSaS0UgQmq/4f544dfad6e5e7b95e63c5420c8884fe/Subir_XLS.png)
+4. Um modal vai surgir, permitindo que você envie seu arquivo (com extensão `.xls`) ou baixe a [planilha de exemplo](//assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls). Lembre-se de que ela vem com valores de exemplo preenchidos, que devem ser deletados e substituídos pelos dados dos seus próprios pontos de retirada. ![modal (PT)](//images.ctfassets.net/alneenqid6w5/20X1H7Xla4WsqoG24UssK2/12a46b5171a72837f5ad6fb46287aae5/modal__PT_.png)
 5. Com tudo certo, os novos pontos de retirada vão estar configurados e disponíveis para seus clientes.
 
 

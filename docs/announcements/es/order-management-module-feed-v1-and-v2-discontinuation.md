@@ -1,5 +1,5 @@
 ---
-title: "Descontinuación del Feed v1 y v2 del módulo de Gestión de Pedidos"
+title: 'Descontinuación del Feed v1 y v2 del módulo de Gestión de Pedidos'
 id: 4zoxe3FihrNs0yQ1g1JyG4
 status: CHANGED
 createdAt: 2019-06-12T18:01:18.416Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: descontinuacion-del-feed-v1-y-v2-del-modulo-de-gestion-de-pedidos
 legacySlug: descontinuacion-del-feed-v1-y-v2-del-modulo-de-gestion-de-pedidos
-announcementImageID: ""
-announcementSynopsisES: El Feed v1 y v2 del módulo de Gestión de Pedidos
+announcementImageID: ''
+announcementSynopsisES: 'El Feed v1 y v2 del módulo de Gestión de Pedidos'
 ---
 
 <div class="alert alert-warning">

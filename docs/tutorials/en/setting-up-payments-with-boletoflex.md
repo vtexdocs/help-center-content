@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with BoletoFlex
+title: 'Setting up payments with BoletoFlex'
 id: 3ikLbJGXMI6bkAm6YiglOx
 status: PUBLISHED
 createdAt: 2022-01-10T17:36:39.512Z

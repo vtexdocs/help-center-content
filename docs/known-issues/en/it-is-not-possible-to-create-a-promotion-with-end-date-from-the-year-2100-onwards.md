@@ -1,5 +1,5 @@
 ---
-title: It is not possible to create a promotion with end date from the year 2100 onwards
+title: 'It is not possible to create a promotion with end date from the year 2100 onwards'
 id: hYQQFkOsEMqmg5DMzBAhM
 status: DRAFT
 createdAt: 2023-05-29T21:43:04.471Z

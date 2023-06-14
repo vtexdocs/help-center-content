@@ -1,5 +1,5 @@
 ---
-title: Save button disabled when modifying imported search synonyms
+title: 'Save button disabled when modifying imported search synonyms'
 id: 1nb1JboRv5YuLyAT50YcYx
 status: PUBLISHED
 createdAt: 2022-04-27T14:50:02.276Z

@@ -1,5 +1,5 @@
 ---
-title: Entendendo a sua conta
+title: 'Entendendo a sua conta'
 id: 4T2vusW9RRUmVjGSuKNO2H
 status: PUBLISHED
 createdAt: 2020-01-07T14:34:05.382Z

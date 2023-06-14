@@ -1,5 +1,5 @@
 ---
-title: Configurar pagos con iPay88
+title: 'Configurar pagos con iPay88'
 id: 5wyQOaEDvOC2SWYg0Ge4Ac
 status: DRAFT
 createdAt: 2018-04-24T21:55:03.219Z

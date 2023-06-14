@@ -1,5 +1,5 @@
 ---
-title: When shippingEstimate is = 0, the deliverySlaInMinutes calculation returns null
+title: 'When shippingEstimate is = 0, the deliverySlaInMinutes calculation returns null'
 id: UGk2WYb3w3ZWH4pL07TNg
 status: PUBLISHED
 createdAt: 2022-02-01T13:04:45.737Z

@@ -1,5 +1,5 @@
 ---
-title: Los decimales del campo de la moneda en la política comercial no se reflejan en el PDP/ PLP
+title: 'Los decimales del campo de la moneda en la política comercial no se reflejan en el PDP/ PLP'
 id: 1QxxwRvFDUVnGHh5icIPpo
 status: PUBLISHED
 createdAt: 2022-11-09T17:40:35.832Z

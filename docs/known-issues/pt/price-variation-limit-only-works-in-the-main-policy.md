@@ -1,5 +1,5 @@
 ---
-title: O limite de variação de preço só funciona na política principal
+title: 'O limite de variação de preço só funciona na política principal'
 id: 201VSNEJLEl0vuDAjYP0kJ
 status: PUBLISHED
 createdAt: 2022-03-15T22:37:13.420Z

@@ -1,5 +1,5 @@
 ---
-title: El peso del kit puede ser sobrescrito por la API/servicio web
+title: 'El peso del kit puede ser sobrescrito por la API/servicio web'
 id: Dlrs4qgHsnwIHxqqV0Rmg
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:40.711Z

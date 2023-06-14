@@ -1,5 +1,5 @@
 ---
-title: El carrito creado a partir de un pedido antiguo no trae los archivos adjuntos
+title: 'El carrito creado a partir de un pedido antiguo no trae los archivos adjuntos'
 id: 2TGthMyZOUQWkc2Wo6wgIg
 status: PUBLISHED
 createdAt: 2019-01-08T16:58:19.057Z

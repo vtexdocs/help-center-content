@@ -1,5 +1,5 @@
 ---
-title: isValueChangeable field limitations for transaction with minimumValue of 0.01
+title: 'isValueChangeable field limitations for transaction with minimumValue of 0.01'
 id: 3Upg1JbyotDHZwfCLAD7v4
 status: PUBLISHED
 createdAt: 2023-05-12T19:59:34.646Z

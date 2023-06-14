@@ -1,5 +1,5 @@
 ---
-title: Kitlook não é exibido na vitrine
+title: 'Kitlook não é exibido na vitrine'
 id: 5BoJ5sHNE43tYckp1Z8Fec
 status: PUBLISHED
 createdAt: 2019-02-20T17:47:19.370Z
@@ -31,7 +31,7 @@ __Preencha o campo da Label__
 4. Vá para a aba __Imagens__
 5. Insira um termo para preencher a __Label__
 
-  ![Kit Look - Label - PT](https://images.ctfassets.net/alneenqid6w5/7FR879Lzl3eEDmAHiBV0TV/ba398076f25a3f1bc85df073e0e571c4/7FR879Lzl3eEDmAHiBV0TV_pt.png)
+  ![Kit Look - Label - PT](//images.ctfassets.net/alneenqid6w5/7FR879Lzl3eEDmAHiBV0TV/ba398076f25a3f1bc85df073e0e571c4/7FR879Lzl3eEDmAHiBV0TV_pt.png)
 
 6. Clique em __Salvar__
 

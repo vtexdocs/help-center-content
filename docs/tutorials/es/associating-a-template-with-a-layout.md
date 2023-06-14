@@ -1,5 +1,5 @@
 ---
-title: Asociar un template con un layout
+title: 'Asociar un template con un layout'
 id: 7CkgOHRj7DVbsRxyR8YQrK
 status: PUBLISHED
 createdAt: 2022-01-10T22:05:16.978Z
@@ -29,4 +29,4 @@ Esta asociación se realiza en la configuración de las propiedades del layout. 
 5. Haga clic en el menú desplegable **Template**. Ahí se listarán los templates configurados en HTML Templates.
 6. Seleccione el template que desea asociar a este layout.
 7. Digite `yes` para confirmar el cambio (este paso es necesario porque se trata de un cambio crítico para el sitio web, ya que el front-end de la página será reemplazado). 
-![CMS 4 1](https://images.ctfassets.net/alneenqid6w5/6ZaVxrZUn0cegcQni61zsc/58fd2f24e7b8b36636b0088d945c1204/CMS_4_1.png)
+![CMS 4 1](//images.ctfassets.net/alneenqid6w5/6ZaVxrZUn0cegcQni61zsc/58fd2f24e7b8b36636b0088d945c1204/CMS_4_1.png)

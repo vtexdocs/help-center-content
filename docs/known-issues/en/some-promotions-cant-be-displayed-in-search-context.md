@@ -1,5 +1,5 @@
 ---
-title: Some promotions can't be displayed in search context
+title: 'Some promotions can't be displayed in search context'
 id: 48NdMjFOswJ5w7Nypc2Txd
 status: PUBLISHED
 createdAt: 2022-03-17T20:42:39.545Z

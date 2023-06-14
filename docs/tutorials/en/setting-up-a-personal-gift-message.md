@@ -1,5 +1,5 @@
 ---
-title: Setting up a personal gift message
+title: 'Setting up a personal gift message'
 id: tutorials_291
 status: PUBLISHED
 createdAt: 2017-04-27T22:09:47.349Z

@@ -1,5 +1,5 @@
 ---
-title: [Magazine Luiza] Adjust plaintext_description specification
+title: '[Magazine Luiza] Adjust plaintext_description specification'
 id: 71sePdd6o3q9gvQ1I4JwZl
 status: PUBLISHED
 createdAt: 2023-02-14T19:15:17.763Z

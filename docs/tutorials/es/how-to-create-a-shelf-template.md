@@ -1,5 +1,5 @@
 ---
-title: Crear un template de estante
+title: 'Crear un template de estante'
 id: frequentlyAskedQuestions_1852
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:59.869Z

@@ -1,5 +1,5 @@
 ---
-title: Não é possível fazer upload de novas mídias/documentos em um espaço de trabalho de desenvolvimento quando a entidade tem mais de 10 mil documentos
+title: 'Não é possível fazer upload de novas mídias/documentos em um espaço de trabalho de desenvolvimento quando a entidade tem mais de 10 mil documentos'
 id: zhDX1xoXAifH9tYroXCFn
 status: PUBLISHED
 createdAt: 2023-04-24T20:01:04.211Z

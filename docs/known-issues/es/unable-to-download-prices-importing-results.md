@@ -1,5 +1,5 @@
 ---
-title: No se pueden descargar los precios importando los resultados
+title: 'No se pueden descargar los precios importando los resultados'
 id: 6skX0nYfLU9Tuf44yn4nSB
 status: PUBLISHED
 createdAt: 2022-05-16T20:55:19.951Z

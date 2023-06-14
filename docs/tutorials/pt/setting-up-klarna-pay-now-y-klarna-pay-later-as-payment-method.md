@@ -1,5 +1,5 @@
 ---
-title:  Configure Klarna Pay Now e Klarna Pay Later como meio de pagamento
+title: ' Configure Klarna Pay Now e Klarna Pay Later como meio de pagamento'
 id: 4nsW4t3jGU9f8qqGoVjVtz
 status: DRAFT
 createdAt: 2020-12-04T15:02:01.008Z

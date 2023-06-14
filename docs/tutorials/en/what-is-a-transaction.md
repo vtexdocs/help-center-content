@@ -1,5 +1,5 @@
 ---
-title: What is a transaction?
+title: 'What is a transaction?'
 id: 36vMP5PES4oUWMWQuskIQ6
 status: CHANGED
 createdAt: 2018-02-23T16:09:38.585Z

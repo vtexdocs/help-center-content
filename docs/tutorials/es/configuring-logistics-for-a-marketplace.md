@@ -1,5 +1,5 @@
 ---
-title: Configurar logística para marketplace
+title: 'Configurar logística para marketplace'
 id: tutorials_390
 status: PUBLISHED
 createdAt: 2017-04-27T22:07:25.530Z

@@ -1,5 +1,5 @@
 ---
-title: Limit purchases to a payment method through trade policy
+title: 'Limit purchases to a payment method through trade policy'
 id: 19lUPrgSmWGs6WE6U02Ukg
 status: DRAFT
 createdAt: 2017-08-18T14:11:00.883Z

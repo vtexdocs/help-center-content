@@ -1,5 +1,5 @@
 ---
-title: Solicitar Captura sem Registro de Novos Eventos ao utilizar Lojas Legadas
+title: 'Solicitar Captura sem Registro de Novos Eventos ao utilizar Lojas Legadas'
 id: 5at40vZVpqL3Xansc726uv
 status: PUBLISHED
 createdAt: 2022-06-23T21:38:07.187Z

@@ -1,5 +1,5 @@
 ---
-title: La API de actualización de los valores de la carga tarda en reflejarse en el módulo de simulación
+title: 'La API de actualización de los valores de la carga tarda en reflejarse en el módulo de simulación'
 id: 7Gclw70xDYX34fOah2aWAa
 status: PUBLISHED
 createdAt: 2022-07-26T17:47:10.996Z

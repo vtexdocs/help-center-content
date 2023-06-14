@@ -1,5 +1,5 @@
 ---
-title: Bucle en la ventana emergente de autenticación cuando la primera condición de pago requiere autenticación
+title: 'Bucle en la ventana emergente de autenticación cuando la primera condición de pago requiere autenticación'
 id: 7fU6wnrTjS0aJqRmertSFg
 status: PUBLISHED
 createdAt: 2023-06-14T17:54:36.973Z

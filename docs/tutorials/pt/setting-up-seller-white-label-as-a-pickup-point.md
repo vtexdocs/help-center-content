@@ -1,5 +1,5 @@
 ---
-title: Configurar Seller White Label como Ponto de Retirada (Pickup Point)
+title: 'Configurar Seller White Label como Ponto de Retirada (Pickup Point)'
 id: 6fSUE2O0taaoKieAaiuc4e
 status: PUBLISHED
 createdAt: 2018-09-04T14:22:05.290Z

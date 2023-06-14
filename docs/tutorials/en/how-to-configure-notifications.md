@@ -1,5 +1,5 @@
 ---
-title: How to set up payment notifications
+title: 'How to set up payment notifications'
 id: tutorials_448
 status: PUBLISHED
 createdAt: 2017-04-27T22:04:46.342Z

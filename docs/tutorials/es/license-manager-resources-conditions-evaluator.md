@@ -1,5 +1,5 @@
 ---
-title: Recursos del License Manager - Conditions Evaluator
+title: 'Recursos del License Manager - Conditions Evaluator'
 id: 1h8sM8CuG7jDLOGbXbfKhj
 status: DRAFT
 createdAt: 2022-02-16T17:55:37.311Z

@@ -1,5 +1,5 @@
 ---
-title: Como funciona o fluxo de liquidação agendada para compras realizadas com duas formas de pagamento?
+title: 'Como funciona o fluxo de liquidação agendada para compras realizadas com duas formas de pagamento?'
 id: 32vvCkFrmbUydhI5ncFCja
 status: PUBLISHED
 createdAt: 2021-06-15T15:14:09.235Z

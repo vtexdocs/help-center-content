@@ -1,5 +1,5 @@
 ---
-title: "Marketplace: new sidebar with Received SKU details"
+title: 'Marketplace: new sidebar with Received SKU details'
 id: 7qhY8onDDjdV9gGjICsyO4
 status: PUBLISHED
 createdAt: 2021-05-03T12:29:49.896Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: marketplace-new-sidebar-with-received-sku-details
 legacySlug: marketplace-new-sidebar-with-received-sku-details
-announcementImageID: ""
-announcementSynopsisEN: Catalog received SKUs with more agility by checking out their data on the new sidebar. 
+announcementImageID: ''
+announcementSynopsisEN: 'Catalog received SKUs with more agility by checking out their data on the new sidebar. '
 ---
 
 The [Received SKUs](https://help.vtex.com/en/tutorial/approving-suggestions-for-skus/) page allows marketplaces to view, prioritize and catalog items sent by sellers, making these products available for sale. Through the page, it is possible to catalog SKUs received from sellers, rejecting them, creating new products, or associating them with existing products.  
@@ -23,7 +23,7 @@ Previously, to check a received SKU's information, you had to leave the main lis
 
 The sidebar contains the SKU's images, price, inventory levels, and product attributes such as a description, specifications, codes and IDs. It also includes the matching percentage that the SKU received from the [matcher](https://help.vtex.com/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher?locale=pt) set up in your store. You can still access the SKU’s full details by clicking on the button *View details page*.
 
-![EN Sidebar received](https://images.ctfassets.net/alneenqid6w5/5weIxQqzG0wxPTsWu61XOI/e77bda0e72c12f4190a3fe61249a7e65/EN_Sidebar_received.gif)
+![EN Sidebar received](//images.ctfassets.net/alneenqid6w5/5weIxQqzG0wxPTsWu61XOI/e77bda0e72c12f4190a3fe61249a7e65/EN_Sidebar_received.gif)
 
 ## Why did we make this change?
 We developed the sidebar to provide more agility to your operation and facilitate the cataloging of received SKUs, by allowing you to:  

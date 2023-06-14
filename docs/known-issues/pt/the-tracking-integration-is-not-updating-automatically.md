@@ -1,5 +1,5 @@
 ---
-title: A integração de rastreamento não está atualizando de forma automática
+title: 'A integração de rastreamento não está atualizando de forma automática'
 id: 2e9RR7AnEewejyOwQBKa2c
 status: PUBLISHED
 createdAt: 2020-11-11T19:38:05.072Z

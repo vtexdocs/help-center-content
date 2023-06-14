@@ -1,5 +1,5 @@
 ---
-title: HUB Giftcard definindo "R$" como a moeda automática na IU
+title: 'HUB Giftcard definindo "R$" como a moeda automática na IU'
 id: 2ODtc4t1GSo3iUjT9Gk0uk
 status: PUBLISHED
 createdAt: 2022-11-03T12:57:31.895Z

@@ -1,5 +1,5 @@
 ---
-title: "Cree precios condicionales con el Conditions Builder"
+title: 'Cree precios condicionales con el Conditions Builder'
 id: 1GQ91gDdIIuCUgSCiGwy0A
 status: DRAFT
 createdAt: 2018-07-09T18:58:24.182Z
@@ -10,8 +10,8 @@ productTeam: VTEX IO
 author: 
 slug: cree-precios-condicionales-con-el-conditions-builder
 legacySlug: 
-announcementImageID: ""
-announcementSynopsisES: Disponible en la App Store de VTEX, el Condition Builder deja más fácil la creación de precios condicionales.
+announcementImageID: ''
+announcementSynopsisES: 'Disponible en la App Store de VTEX, el Condition Builder deja más fácil la creación de precios condicionales.'
 ---
 
 Disponible en [App Store] (https://apps.vtex.com/), el __Conditions Builder__ es una aplicación que facilitará la creación de precios condicionales en su tienda. Con una interfaz simple y bastante visual, usted y su equipo pueden fácilmente crear reglas para la aplicación de precios diferenciados.

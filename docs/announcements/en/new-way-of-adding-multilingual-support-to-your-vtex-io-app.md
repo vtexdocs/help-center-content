@@ -1,5 +1,5 @@
 ---
-title: "New way of adding multilingual support to your VTEX.IO app"
+title: 'New way of adding multilingual support to your VTEX.IO app'
 id: 5ihajfKsWkq6Mc0gm2cQUK
 status: DRAFT
 createdAt: 2018-12-13T19:55:38.654Z
@@ -10,8 +10,8 @@ productTeam: VTEX IO
 author: TnXcuQydAAOuwWACo864E
 slug: new-way-of-adding-multilingual-support-to-your-vtex-io-app
 legacySlug: new-way-of-adding-multilingual-support-to-your-vtex-io-app
-announcementImageID: ""
-announcementSynopsisEN:  In the new VTEX.IO version, JSON translation files must be saved on a new folder, on the root directory.
+announcementImageID: ''
+announcementSynopsisEN: ' In the new VTEX.IO version, JSON translation files must be saved on a new folder, on the root directory.'
 ---
 
 We're changing the way translation files are served through VTEX.IO. The new method uses a new builder called `messages 0.x` and requires a minor change in folder structure. That way, JSON translation files must be saved on the `messages` folder, on the root directory.

@@ -1,5 +1,5 @@
 ---
-title: [Meli] SKU integration with "Object reference not set to an instance of an object" error.
+title: '[Meli] SKU integration with "Object reference not set to an instance of an object" error.'
 id: 3GNnAidwvASTP223ncqsiV
 status: PUBLISHED
 createdAt: 2022-12-07T11:59:25.793Z

@@ -1,5 +1,5 @@
 ---
-title: Registrar una colección
+title: 'Registrar una colección'
 id: 3moFonW33dgOYDrU21Z1X0
 status: PUBLISHED
 createdAt: 2019-05-22T17:23:15.536Z

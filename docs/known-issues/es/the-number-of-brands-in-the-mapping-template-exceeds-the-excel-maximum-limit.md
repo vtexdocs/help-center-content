@@ -1,5 +1,5 @@
 ---
-title: La cantidad de marcas excede el límite de Excel en la plantilla de mapeo
+title: 'La cantidad de marcas excede el límite de Excel en la plantilla de mapeo'
 id: 4sYUppK1iceta3rO6lLO1K
 status: PUBLISHED
 createdAt: 2021-08-31T18:18:28.874Z

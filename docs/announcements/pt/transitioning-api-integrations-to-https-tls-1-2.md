@@ -1,5 +1,5 @@
 ---
-title: "Transição das integrações via API para HTTPS / TLS 1.2 "
+title: 'Transição das integrações via API para HTTPS / TLS 1.2 '
 id: 50H4bHnV1uk2GCY3CaJBXo
 status: CHANGED
 createdAt: 2020-07-10T20:32:32.971Z
@@ -10,8 +10,8 @@ productTeam: Reliability
 author: 127RQ7SUoFfyTh5gbXUpdM
 slug: transicao-das-integracoes-via-api-para-https-tls-1-2
 legacySlug: transicao-das-integracoes-via-api-para-https-tls-1-2
-announcementImageID: ""
-announcementSynopsisPT: Nos próximos meses, eliminaremos o suporte a todas as conexões HTTP a fim de aumentar a segurança da nossa plataforma. 
+announcementImageID: ''
+announcementSynopsisPT: 'Nos próximos meses, eliminaremos o suporte a todas as conexões HTTP a fim de aumentar a segurança da nossa plataforma. '
 ---
 
 Como parte do nosso comprometimento contínuo em adotar padrões mundiais de segurança e privacidade, eliminaremos gradualmente o suporte a todas as conexões HTTP nos próximos meses. 

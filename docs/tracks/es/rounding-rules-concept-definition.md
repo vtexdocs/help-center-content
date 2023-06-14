@@ -1,5 +1,5 @@
 ---
-title: Redondeo de Precios – Definición de Concepto
+title: 'Redondeo de Precios – Definición de Concepto'
 id: 1tUIUvF6BUkDgMsknGaMkF
 status: PUBLISHED
 createdAt: 2019-07-04T13:53:48.537Z

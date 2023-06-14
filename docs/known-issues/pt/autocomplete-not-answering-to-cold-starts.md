@@ -1,5 +1,5 @@
 ---
-title: Autocompletar não respondendo a partidas frias
+title: 'Autocompletar não respondendo a partidas frias'
 id: 2lgYjT8lmFIvLV3vKOXKmt
 status: PUBLISHED
 createdAt: 2022-02-23T22:01:05.141Z

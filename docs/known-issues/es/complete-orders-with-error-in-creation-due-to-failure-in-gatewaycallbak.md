@@ -1,5 +1,5 @@
 ---
-title: Pedidos completos con error de creación por fallo en gatewaycallbak
+title: 'Pedidos completos con error de creación por fallo en gatewaycallbak'
 id: 2qVa686QBsvkgXY8wwmc8Y
 status: PUBLISHED
 createdAt: 2022-05-04T19:28:00.775Z

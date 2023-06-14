@@ -1,5 +1,5 @@
 ---
-title:  Installing Customer Credit
+title: ' Installing Customer Credit'
 id: 36grlQ69NK6OCuioeekyCs
 status: PUBLISHED
 createdAt: 2018-11-06T19:45:12.804Z

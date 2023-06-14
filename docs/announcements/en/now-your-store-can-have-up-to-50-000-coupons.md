@@ -1,5 +1,5 @@
 ---
-title: "Now your store can have up to 50,000 coupons"
+title: 'Now your store can have up to 50,000 coupons'
 id: 6LwZYyL0sgOCGeWA8SyyiO
 status: PUBLISHED
 createdAt: 2018-07-23T12:46:31.570Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: authors_24
 slug: now-your-store-can-have-up-to-50-000-coupons
 legacySlug: now-your-store-can-have-up-to-50-000-coupons
-announcementImageID: ""
-announcementSynopsisEN: The coupons API received an update, significantly increasing your store's coupon creation potential.
+announcementImageID: ''
+announcementSynopsisEN: 'The coupons API received an update, significantly increasing your store's coupon creation potential.'
 ---
 
 The coupons API was updated on __July 12__, increasing the capacity to generate coupons. Before the update, you could only create as few as 5,000 coupons. Now, you can generate up to __50,000__.

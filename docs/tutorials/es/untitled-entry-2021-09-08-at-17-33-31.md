@@ -1,5 +1,5 @@
 ---
-title: 
+title: ''
 id: 4lX2TJnDntJwX8QaAvsp2L
 status: DRAFT
 createdAt: 2021-09-08T17:33:31.636Z

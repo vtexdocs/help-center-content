@@ -1,5 +1,5 @@
 ---
-title: Cómo configurar Mercado Pago Pro como medio de pago
+title: 'Cómo configurar Mercado Pago Pro como medio de pago'
 id: 520AthtalgojtTUKw0La9S
 status: PUBLISHED
 createdAt: 2020-11-17T17:45:31.552Z

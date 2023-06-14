@@ -1,5 +1,5 @@
 ---
-title: Visión General Catálogo
+title: 'Visión General Catálogo'
 id: FFrumKPYFpvIWKRXfhQYp
 status: PUBLISHED
 createdAt: 2023-03-28T17:25:52.296Z
@@ -23,7 +23,7 @@ El menú **Catálogo** contiene las funcionalidades relativas al surtido de prod
 
 El menú **Catálogo** de tu Admin actualizado reúne las páginas donde gestionas tu catálogo, los precios y el stock de tu *ecommerce*.
 
-![visao-geral-produto-ES](https://images.ctfassets.net/alneenqid6w5/6hg7IQ4sv6sphRtywSsDMQ/ad397a99b3db19ea9187ef5667577a26/image.png)
+![visao-geral-produto-ES](//images.ctfassets.net/alneenqid6w5/6hg7IQ4sv6sphRtywSsDMQ/ad397a99b3db19ea9187ef5667577a26/image.png)
 
 A continuación, encontrarás más detalles sobre las diferentes secciones y páginas de este menú.
 

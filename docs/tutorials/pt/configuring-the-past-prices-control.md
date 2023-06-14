@@ -1,5 +1,5 @@
 ---
-title: Configurar o controle de histórico de preço
+title: 'Configurar o controle de histórico de preço'
 id: tutorials_4288
 status: DRAFT
 createdAt: 2017-04-27T21:51:18.726Z

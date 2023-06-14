@@ -1,5 +1,5 @@
 ---
-title: Registering physical stores in VTEX inStore
+title: 'Registering physical stores in VTEX inStore'
 id: 3NwAmeHF6EgeUAEeow0wgq
 status: DRAFT
 createdAt: 2017-06-16T14:18:06.367Z

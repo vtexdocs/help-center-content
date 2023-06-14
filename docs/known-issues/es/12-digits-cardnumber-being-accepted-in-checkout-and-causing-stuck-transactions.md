@@ -1,5 +1,5 @@
 ---
-title: 12 dígitos cardNumber siendo aceptados en la caja y causando transacciones atascadas
+title: '12 dígitos cardNumber siendo aceptados en la caja y causando transacciones atascadas'
 id: 2vLsFwO5Dt2gUL9kUTZ8s3
 status: PUBLISHED
 createdAt: 2022-03-03T18:39:42.814Z

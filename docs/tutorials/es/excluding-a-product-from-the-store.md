@@ -1,5 +1,5 @@
 ---
-title: Excluir un producto de la tienda
+title: 'Excluir un producto de la tienda'
 id: 1s5pt7owBOKSauMYw28AIc
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:46.460Z

@@ -1,5 +1,5 @@
 ---
-title: Algunos SKUs no se están cargando en el catálogo de Facebook
+title: 'Algunos SKUs no se están cargando en el catálogo de Facebook'
 id: g0xGqBvBnnnSo9Wl3AfmA
 status: PUBLISHED
 createdAt: 2022-04-08T18:07:48.956Z

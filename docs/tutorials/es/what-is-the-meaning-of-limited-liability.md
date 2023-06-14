@@ -1,5 +1,5 @@
 ---
-title: ¿Cuál es el significado de Responsabilidad Limitada?
+title: '¿Cuál es el significado de Responsabilidad Limitada?'
 id: 6iDhhIJktO8GeuASE6eQ4a
 status: DRAFT
 createdAt: 2018-04-04T18:25:00.682Z

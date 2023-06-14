@@ -1,5 +1,5 @@
 ---
-title: Setting up Braspag gateway
+title: 'Setting up Braspag gateway'
 id: 7tQmfLMvtYEsWoaaAaeKSC
 status: PUBLISHED
 createdAt: 2018-02-27T18:21:37.603Z

@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué no funciona el zoom de mi tienda?
+title: '¿Por qué no funciona el zoom de mi tienda?'
 id: frequentlyAskedQuestions_6220
 status: PUBLISHED
 createdAt: 2017-04-27T22:22:37.129Z
@@ -24,7 +24,7 @@ Este tamaño de imagen puede configurarse por el camino abajo:
 2. Haga clic en __Configuraciones__.
 3. Acceda a la pestaña __Tipos de Archivos__.
 
-![Tipos de Arquivo ES](https://images.ctfassets.net/alneenqid6w5/4j5jxDs3lSgOmgEOgyI2KS/2321dffd3c570bba5bd73b0efba87c4e/Tipos_de_Arquivo_ES.png)
+![Tipos de Arquivo ES](//images.ctfassets.net/alneenqid6w5/4j5jxDs3lSgOmgEOgyI2KS/2321dffd3c570bba5bd73b0efba87c4e/Tipos_de_Arquivo_ES.png)
 
 El tamaño 1000x1000 significa que el zoom resultante mostrará la imagen en ese tamaño. Por tanto, éste es el tamaño mínimo para que funcione el zoom.
 

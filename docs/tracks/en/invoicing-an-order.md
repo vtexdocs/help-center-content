@@ -1,5 +1,5 @@
 ---
-title: Invoicing an order
+title: 'Invoicing an order'
 id: 2WgQrlHTyVo4hLjhUs1LMT
 status: PUBLISHED
 createdAt: 2019-11-14T16:05:32.413Z

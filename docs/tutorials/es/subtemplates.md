@@ -1,5 +1,5 @@
 ---
-title: Cómo utilizar Subtemplates
+title: 'Cómo utilizar Subtemplates'
 id: tutorials_577
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:46.725Z

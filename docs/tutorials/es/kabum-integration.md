@@ -1,5 +1,5 @@
 ---
-title: Integración de KaBuM!
+title: 'Integración de KaBuM!'
 id: DM0uQeFIXOk7CY9oAPrf0
 status: PUBLISHED
 createdAt: 2022-11-11T16:52:59.397Z

@@ -1,5 +1,5 @@
 ---
-title: Como o ERP diferencia um pedido normal do pedido recorrente?
+title: 'Como o ERP diferencia um pedido normal do pedido recorrente?'
 id: frequentlyAskedQuestions_4690
 status: DRAFT
 createdAt: 2019-01-24T20:46:01.256Z

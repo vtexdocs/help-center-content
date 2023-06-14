@@ -1,5 +1,5 @@
 ---
-title: Cadastro da integração da Centauro
+title: 'Cadastro da integração da Centauro'
 id: 4EqL0hADU1AWvP0gTr4nyq
 status: PUBLISHED
 createdAt: 2020-10-20T18:55:02.489Z

@@ -1,5 +1,5 @@
 ---
-title: Customer profile on VTEX Sales App
+title: 'Customer profile on VTEX Sales App'
 id: 48cSQw1XD4qWkZEsb2ZGbn
 status: PUBLISHED
 createdAt: 2021-08-05T13:54:45.151Z

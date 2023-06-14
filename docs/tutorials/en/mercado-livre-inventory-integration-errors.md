@@ -1,5 +1,5 @@
 ---
-title: Mercado Livre inventory integration errors
+title: 'Mercado Livre inventory integration errors'
 id: 3pWA3vRePuGmJ5tquY4fva
 status: PUBLISHED
 createdAt: 2021-10-04T19:04:23.285Z

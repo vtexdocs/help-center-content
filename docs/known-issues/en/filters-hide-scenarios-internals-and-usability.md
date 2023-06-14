@@ -1,5 +1,5 @@
 ---
-title: Filters - hide scenarios, internals and usability
+title: 'Filters - hide scenarios, internals and usability'
 id: 3TvpIUFzdXWesADHDhjyLQ
 status: PUBLISHED
 createdAt: 2022-02-23T21:59:22.607Z

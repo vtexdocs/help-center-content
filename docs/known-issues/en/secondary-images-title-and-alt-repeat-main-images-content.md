@@ -1,5 +1,5 @@
 ---
-title: Secondary images' Title and Alt repeat main image's content
+title: 'Secondary images' Title and Alt repeat main image's content'
 id: F3uErEnXLaa8GEesQkk0c
 status: PUBLISHED
 createdAt: 2017-09-27T20:06:18.992Z

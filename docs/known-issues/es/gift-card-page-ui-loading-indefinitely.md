@@ -1,5 +1,5 @@
 ---
-title: La interfaz de la página de la Tarjeta de regalo se está cargando indefinidamente, lo que impide a los usuarios con permiso acceder a ella correctamente
+title: 'La interfaz de la página de la Tarjeta de regalo se está cargando indefinidamente, lo que impide a los usuarios con permiso acceder a ella correctamente'
 id: 6HfglIfAEuXfQlVVnIJiQO
 status: PUBLISHED
 createdAt: 2021-07-29T12:25:51.576Z

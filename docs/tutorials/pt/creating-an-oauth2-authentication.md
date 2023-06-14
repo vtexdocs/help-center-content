@@ -1,5 +1,5 @@
 ---
-title: Criar autenticação OAuth2
+title: 'Criar autenticação OAuth2'
 id: 21LbTSTgag4MsuisQsyIm6
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:47.861Z

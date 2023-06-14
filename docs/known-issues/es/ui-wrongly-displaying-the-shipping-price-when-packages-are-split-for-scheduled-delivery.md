@@ -1,5 +1,5 @@
 ---
-title: La interfaz de usuario muestra erróneamente el precio del envío cuando los paquetes se dividen para una entrega programada.
+title: 'La interfaz de usuario muestra erróneamente el precio del envío cuando los paquetes se dividen para una entrega programada.'
 id: 6HkjI7IwvvYaxHAqMS2aUv
 status: PUBLISHED
 createdAt: 2023-03-20T14:59:50.827Z

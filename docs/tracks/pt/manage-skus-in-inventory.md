@@ -1,5 +1,5 @@
 ---
-title: Gerenciar SKUs em estoque
+title: 'Gerenciar SKUs em estoque'
 id: 6q8viq5Rvdb9mPDKs8MWKO
 status: DRAFT
 createdAt: 2019-09-23T12:29:35.372Z

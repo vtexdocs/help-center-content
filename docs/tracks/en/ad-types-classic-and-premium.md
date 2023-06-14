@@ -1,5 +1,5 @@
 ---
-title: Ad types: Classic and Premium
+title: 'Ad types: Classic and Premium'
 id: 2MR2USqcvDGaoAkGNdCfGi
 status: PUBLISHED
 createdAt: 2020-01-27T18:35:18.377Z

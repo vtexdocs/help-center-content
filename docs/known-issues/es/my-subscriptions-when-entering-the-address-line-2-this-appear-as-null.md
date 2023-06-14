@@ -1,5 +1,5 @@
 ---
-title: Mis suscripciones Al introducir la dirección de la línea 2 ésta aparece como nula
+title: 'Mis suscripciones Al introducir la dirección de la línea 2 ésta aparece como nula'
 id: 1VbFyW5rQcfUSEJgKphrqb
 status: PUBLISHED
 createdAt: 2022-05-30T13:50:13.717Z

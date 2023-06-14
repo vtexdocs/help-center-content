@@ -1,5 +1,5 @@
 ---
-title: Specification value ordering is not saved
+title: 'Specification value ordering is not saved'
 id: 7Fm0MJaKXKBfpslyV0AnPk
 status: PUBLISHED
 createdAt: 2022-05-23T20:07:52.919Z

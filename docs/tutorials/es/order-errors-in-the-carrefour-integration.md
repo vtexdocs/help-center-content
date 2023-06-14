@@ -1,5 +1,5 @@
 ---
-title: Errores de integración de pedidos de Carrefour
+title: 'Errores de integración de pedidos de Carrefour'
 id: 7d64msl56pE98MVMKfvRM
 status: PUBLISHED
 createdAt: 2021-08-10T19:41:36.567Z

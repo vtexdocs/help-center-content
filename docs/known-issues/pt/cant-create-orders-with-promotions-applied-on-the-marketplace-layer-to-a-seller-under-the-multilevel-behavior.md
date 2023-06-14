@@ -1,5 +1,5 @@
 ---
-title: Não pode criar pedidos com promoções aplicadas na camada de mercado a um vendedor sob o comportamento multinível
+title: 'Não pode criar pedidos com promoções aplicadas na camada de mercado a um vendedor sob o comportamento multinível'
 id: 8X5ut0NZnHJJbsrZqRxps
 status: PUBLISHED
 createdAt: 2021-12-17T17:58:11.823Z

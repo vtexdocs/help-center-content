@@ -1,5 +1,5 @@
 ---
-title: Problema en la Búsqueda Explicada para las búsquedas con tildes
+title: 'Problema en la Búsqueda Explicada para las búsquedas con tildes'
 id: 5rh2FSzIeSjnO7bUlEkJ9S
 status: PUBLISHED
 createdAt: 2022-02-23T21:59:57.268Z

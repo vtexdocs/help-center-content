@@ -1,5 +1,5 @@
 ---
-title: Clients (VTEX Tracking)
+title: 'Clients (VTEX Tracking)'
 id: 277Z0epDNArIGJIbqtPMA9
 status: PUBLISHED
 createdAt: 2020-07-07T21:23:35.987Z

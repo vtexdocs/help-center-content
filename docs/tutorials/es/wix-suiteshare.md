@@ -1,5 +1,5 @@
 ---
-title: Wix
+title: 'Wix'
 id: 1AAIFgZTL87mFrPAwj4FFb
 status: PUBLISHED
 createdAt: 2022-08-31T12:45:47.887Z

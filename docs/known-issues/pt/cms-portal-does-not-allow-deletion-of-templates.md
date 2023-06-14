@@ -1,5 +1,5 @@
 ---
-title: Portal CMS não permite a exclusão de templates
+title: 'Portal CMS não permite a exclusão de templates'
 id: 6gJPScO5ryCWqOA2M6OEAY
 status: PUBLISHED
 createdAt: 2017-04-10T14:52:54.044Z

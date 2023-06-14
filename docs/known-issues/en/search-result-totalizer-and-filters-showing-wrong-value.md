@@ -1,5 +1,5 @@
 ---
-title: Search result totalizer and filters showing wrong value
+title: 'Search result totalizer and filters showing wrong value'
 id: 62FJLXM5ckM8sqYUIQg0C4
 status: PUBLISHED
 createdAt: 2017-12-22T16:50:30.032Z

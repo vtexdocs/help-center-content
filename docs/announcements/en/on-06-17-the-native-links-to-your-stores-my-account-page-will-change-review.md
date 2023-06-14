@@ -1,5 +1,5 @@
 ---
-title: "My Account: On June 17th, the native links to 'My Account' page will change - review your settings"
+title: 'My Account: On June 17th, the native links to 'My Account' page will change - review your settings'
 id: 2N9T3weFs2VDXan6vrGgnC
 status: CHANGED
 createdAt: 2020-05-26T14:16:56.645Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: on-06-17-the-native-links-to-your-stores-my-account-page-will-change-review
 legacySlug: on-06-17-the-native-links-to-your-stores-my-account-page-will-change-review
-announcementImageID: ""
-announcementSynopsisEN: From June 17, your customers would access all their information, including orders, through a single "/account" URL.
+announcementImageID: ''
+announcementSynopsisEN: 'From June 17, your customers would access all their information, including orders, through a single "/account" URL.'
 ---
 
 The "My Account" page, native to the platform, which displays a user's personal and purchase data, recently received a set of updates and upgrades during the last couple of months. One of these upgrades was putting all customer related data on a single page. In practical terms, this means that customers would access all their information, including orders, through a single "/account" URL. 
@@ -33,7 +33,7 @@ This change's review and subsequent adjustment should be implemented following t
 
 Required steps for review and adjustment:
 
-1. __Basic configuration__: ensure that the template of the "/account" page (illustration below) already uses the `<vtex.cmc:accountUserProfile />` view part and update it if necessary. This view part is responsible for loading all of the customer information, including orders. The previous view parts, `<vtex.cmc:accountAddress/>` and `<vtex.cmc:orderList />`, must be deleted from this template.![account](https://images.ctfassets.net/alneenqid6w5/LIki0Pf7j1gOUi01EIajh/f7089fece0b6b10921fcb969066e2f4a/account.png)  
+1. __Basic configuration__: ensure that the template of the "/account" page (illustration below) already uses the `<vtex.cmc:accountUserProfile />` view part and update it if necessary. This view part is responsible for loading all of the customer information, including orders. The previous view parts, `<vtex.cmc:accountAddress/>` and `<vtex.cmc:orderList />`, must be deleted from this template.![account](//images.ctfassets.net/alneenqid6w5/LIki0Pf7j1gOUi01EIajh/f7089fece0b6b10921fcb969066e2f4a/account.png)  
 2. __Customization__: if the "/account/orders" page is affected by any front-end customization, it should be migrated and adapted to the new URL: "/account#/orders". Review and perform all necessary tests to ensure that all custom resources are functioning properly.  
 3. __Site links__: Review and update all of the site's custom links, in addition to the ones pertaining to transactional emails that would previously direct users to "/account/orders". These links should now direct users to "/account#/orders".
 

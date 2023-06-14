@@ -1,5 +1,5 @@
 ---
-title: Horário de corte da transportadora não é respeitado quando digitado
+title: 'Horário de corte da transportadora não é respeitado quando digitado'
 id: 3a4bgiGkvKos2maYQ0cosu
 status: DRAFT
 createdAt: 2018-02-27T17:34:04.011Z

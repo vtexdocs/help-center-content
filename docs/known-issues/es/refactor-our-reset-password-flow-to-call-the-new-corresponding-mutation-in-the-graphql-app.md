@@ -1,5 +1,5 @@
 ---
-title: refactorizar nuestro flujo de restablecimiento de contraseña para llamar a la nueva mutación correspondiente en la aplicación graphql
+title: 'refactorizar nuestro flujo de restablecimiento de contraseña para llamar a la nueva mutación correspondiente en la aplicación graphql'
 id: 245W7bXAR6nnnLbqqmOCda
 status: PUBLISHED
 createdAt: 2022-05-12T16:02:40.629Z

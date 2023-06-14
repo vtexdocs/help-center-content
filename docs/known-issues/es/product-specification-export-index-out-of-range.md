@@ -1,5 +1,5 @@
 ---
-title: La exportación de especificación del producto retorna Index Out of Range
+title: 'La exportación de especificación del producto retorna Index Out of Range'
 id: 2Qu9QCZvfcjmNfAh3uvPkf
 status: PUBLISHED
 createdAt: 2022-02-25T12:22:04.014Z

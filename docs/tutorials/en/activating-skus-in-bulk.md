@@ -1,5 +1,5 @@
 ---
-title: Activating SKUs in bulk
+title: 'Activating SKUs in bulk'
 id: 4uMZATlSc0kEYiewWKSwEY
 status: PUBLISHED
 createdAt: 2018-01-30T12:57:18.128Z

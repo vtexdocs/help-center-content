@@ -1,5 +1,5 @@
 ---
-title: Formulário B2B
+title: 'Formulário B2B'
 id: 2o7cyfIWtmAEE2y8KkYQcM
 status: DRAFT
 createdAt: 2018-06-28T17:07:01.490Z
@@ -45,12 +45,12 @@ Exemplos de como fica no inStore o formulário com pessoa jurídica:
 
 __Formulário B2B__ opcional fechado:
 
-![b2b-opcional-fechado](https://images.ctfassets.net/alneenqid6w5/5gFb3SBRocc6Gwcm4YusAA/86d15e9f80377edc8bda880c2fda829c/b2b-opcional-fechado.png)
+![b2b-opcional-fechado](//images.ctfassets.net/alneenqid6w5/5gFb3SBRocc6Gwcm4YusAA/86d15e9f80377edc8bda880c2fda829c/b2b-opcional-fechado.png)
 
 __Formulário B2B__ opcional aberto:
 
-![b2b-opcional-aberto](https://images.ctfassets.net/alneenqid6w5/5KlFHUrxhmWmiK468eogck/f13e50591cb44afb21c804c6f3d7618b/b2b-opcional-aberto.png)
+![b2b-opcional-aberto](//images.ctfassets.net/alneenqid6w5/5KlFHUrxhmWmiK468eogck/f13e50591cb44afb21c804c6f3d7618b/b2b-opcional-aberto.png)
 
 __Formulário B2B__ obrigatório (já vem todos os campos abertos):
 
-![b2b-obrigatorio](https://images.ctfassets.net/alneenqid6w5/1t7EvHWtg0AiSsUSkaAqUi/3f704862cc694d3feeaf540fabfba228/b2b-obrigatorio.png)
+![b2b-obrigatorio](//images.ctfassets.net/alneenqid6w5/1t7EvHWtg0AiSsUSkaAqUi/3f704862cc694d3feeaf540fabfba228/b2b-obrigatorio.png)

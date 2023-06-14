@@ -1,5 +1,5 @@
 ---
-title:  O recurso "Produto visitado" não funciona corretamente
+title: ' O recurso "Produto visitado" não funciona corretamente'
 id: 5AiCVwLkGToEgtLkZVPe5i
 status: PUBLISHED
 createdAt: 2022-11-25T18:45:15.389Z

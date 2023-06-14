@@ -1,5 +1,5 @@
 ---
-title: Minicart does not show SKU specs in B2B scenario
+title: 'Minicart does not show SKU specs in B2B scenario'
 id: 4eOpxrLEkyHyobCDuWzsMK
 status: PUBLISHED
 createdAt: 2022-10-27T19:11:58.877Z

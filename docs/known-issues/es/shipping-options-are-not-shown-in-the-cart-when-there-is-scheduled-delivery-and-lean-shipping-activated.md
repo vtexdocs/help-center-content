@@ -1,5 +1,5 @@
 ---
-title: Las opciones de envío no se muestran en el carrito cuando hay entrega programada y Lean Shipping activado
+title: 'Las opciones de envío no se muestran en el carrito cuando hay entrega programada y Lean Shipping activado'
 id: 36iHQO4mxxTY2KbF8mkrDv
 status: PUBLISHED
 createdAt: 2023-05-26T21:26:45.607Z

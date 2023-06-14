@@ -1,5 +1,5 @@
 ---
-title: Ver histórico de e-mails de um pedido
+title: 'Ver histórico de e-mails de um pedido'
 id: 13YJE9CKzeduRfVplgjC88
 status: PUBLISHED
 createdAt: 2020-01-10T14:07:26.022Z

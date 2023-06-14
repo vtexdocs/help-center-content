@@ -1,5 +1,5 @@
 ---
-title: "Gane facilidad para acceder a informaciones de factura con la nueva columna del informe de pedidos"
+title: 'Gane facilidad para acceder a informaciones de factura con la nueva columna del informe de pedidos'
 id: 691NLFaJYGwpfrOOmnQJsL
 status: CHANGED
 createdAt: 2019-05-22T19:41:07.812Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 6AcGyun1hSWewU8YcaQiO
 slug: gane-facilidad-para-acceder-a-informaciones-de-factura-con-la-nueva-columna-del-informe-de-pedidos
 legacySlug: gane-facilidad-para-acceder-a-informaciones-de-factura-con-la-nueva-columna-del-informe-de-pedidos
-announcementImageID: ""
-announcementSynopsisES: El informe de exportación de pedidos ahora trae los datos de factura en la nueva columna Invoice Number
+announcementImageID: ''
+announcementSynopsisES: 'El informe de exportación de pedidos ahora trae los datos de factura en la nueva columna Invoice Number'
 ---
 
 Para facilitar el acceso a informaciones importantes sobre su operación, el informe de pedidos ahora trae los datos de identificación de la nota fiscal de los pedidos. Esta información está disponible en la nueva columna `Invoice Number`.

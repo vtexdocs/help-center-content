@@ -1,5 +1,5 @@
 ---
-title: Métrica diaria en el informe de búsqueda que muestra la fecha duplicada
+title: 'Métrica diaria en el informe de búsqueda que muestra la fecha duplicada'
 id: 2GZz9wQgopOWpjDYsoAvq3
 status: PUBLISHED
 createdAt: 2022-04-27T15:02:22.168Z

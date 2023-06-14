@@ -1,5 +1,5 @@
 ---
-title: Setting up Device Fingerprint for Niubiz
+title: 'Setting up Device Fingerprint for Niubiz'
 id: opa2M7CHVjCzlEY95nexP
 status: PUBLISHED
 createdAt: 2021-01-07T14:05:56.827Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar gateway maxiPago!
+title: 'Configurar gateway maxiPago!'
 id: 5yUVMQON0WqaGG8Owi4oAU
 status: DRAFT
 createdAt: 2018-04-20T16:23:13.404Z

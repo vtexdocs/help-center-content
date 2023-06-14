@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo configurar la retirada en la tienda (Pickup Store)?
+title: '¿Cómo configurar la retirada en la tienda (Pickup Store)?'
 id: frequentlyAskedQuestions_153
 status: DRAFT
 createdAt: 2019-01-24T20:45:50.866Z

@@ -1,5 +1,5 @@
 ---
-title: Stock reservado en pedidos facturados
+title: 'Stock reservado en pedidos facturados'
 id: TfDOKEybi6eSAEoCEEAqg
 status: PUBLISHED
 createdAt: 2017-06-13T18:43:58.606Z

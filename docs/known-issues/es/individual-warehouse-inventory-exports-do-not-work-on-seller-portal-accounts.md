@@ -1,5 +1,5 @@
 ---
-title: Las exportaciones de almacenes individuales (inventario) no funcionan en las cuentas del Seller Portal
+title: 'Las exportaciones de almacenes individuales (inventario) no funcionan en las cuentas del Seller Portal'
 id: 7GoxwXFUWnebmCqF1sm7rm
 status: PUBLISHED
 createdAt: 2022-10-24T19:21:06.182Z

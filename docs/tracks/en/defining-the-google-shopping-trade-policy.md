@@ -1,5 +1,5 @@
 ---
-title: Defining the trade policy
+title: 'Defining the trade policy'
 id: 3AqbcsWrge8zLt0BC5CtGd
 status: PUBLISHED
 createdAt: 2021-04-14T17:58:41.545Z

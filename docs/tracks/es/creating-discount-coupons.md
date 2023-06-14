@@ -1,5 +1,5 @@
 ---
-title: Crear cupones de descuento
+title: 'Crear cupones de descuento'
 id: 6RU676Ot6K15ZT1aJA8NRW
 status: CHANGED
 createdAt: 2020-01-13T21:02:16.828Z

@@ -1,5 +1,5 @@
 ---
-title: "Now you can export up to 20 thousand orders at the same time"
+title: 'Now you can export up to 20 thousand orders at the same time'
 id: 4JFEKzngwOiSYRonJtRy58
 status: CHANGED
 createdAt: 2020-07-24T18:53:36.928Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: authors_24
 slug: now-you-can-export-up-to-20-thousand-orders-at-the-same-time
 legacySlug: now-you-can-export-up-to-20-thousand-orders-at-the-same-time
-announcementImageID: ""
-announcementSynopsisEN: We increased the limit of orders exported per file from 7,000 to 20,000. And this limit will soon be 50,000.
+announcementImageID: ''
+announcementSynopsisEN: 'We increased the limit of orders exported per file from 7,000 to 20,000. And this limit will soon be 50,000.'
 ---
 
 We constantly receive requests and feedbacks about the need to export more orders than allowed today. Therefore, our export limit for orders per report will now be __20 thousand__. Previously, this limit was 7 thousand orders per report.

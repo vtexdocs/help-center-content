@@ -1,5 +1,5 @@
 ---
-title: "Nueva versión de My Orders ya está en App Store"
+title: 'Nueva versión de My Orders ya está en App Store'
 id: 546CQlKSo8okiMOuusMag6
 status: PUBLISHED
 createdAt: 2018-02-15T12:07:58.587Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: authors_24
 slug: my-orders-ya-esta-disponible-en-extension-store
 legacySlug: my-orders-ya-esta-disponible-en-extension-store
-announcementImageID: ""
-announcementSynopsisES: A partir del 5 de junio, el uso de la extensión a la página "Mis pedidos" será obligatorio para todas las tiendas.
+announcementImageID: ''
+announcementSynopsisES: 'A partir del 5 de junio, el uso de la extensión a la página "Mis pedidos" será obligatorio para todas las tiendas.'
 ---
 
 <div class="alert alert-info">

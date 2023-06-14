@@ -1,5 +1,5 @@
 ---
-title: VTEX Orders Management FAQ
+title: 'VTEX Orders Management FAQ'
 id: 4vddUgU784wyGYQ64cw6I8
 status: DRAFT
 createdAt: 2018-07-20T17:27:48.286Z

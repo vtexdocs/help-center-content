@@ -1,5 +1,5 @@
 ---
-title: Bloqueio de propriedadeClass de infoCard não funciona
+title: 'Bloqueio de propriedadeClass de infoCard não funciona'
 id: LTEEWCaZx2unBWSEJFDw6
 status: PUBLISHED
 createdAt: 2023-01-31T19:02:03.835Z

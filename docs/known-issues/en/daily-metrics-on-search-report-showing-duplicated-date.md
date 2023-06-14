@@ -1,5 +1,5 @@
 ---
-title: Daily metrics on search report showing duplicated date
+title: 'Daily metrics on search report showing duplicated date'
 id: 2GZz9wQgopOWpjDYsoAvq3
 status: PUBLISHED
 createdAt: 2022-04-27T15:02:22.168Z

@@ -1,5 +1,5 @@
 ---
-title: En algunos casos, Checkout-UI no muestra el importe correcto que debe abonarse con el Crédito de cliente para 1x plazo
+title: 'En algunos casos, Checkout-UI no muestra el importe correcto que debe abonarse con el Crédito de cliente para 1x plazo'
 id: 3YsvVet6LKw1buFapSwFWm
 status: PUBLISHED
 createdAt: 2023-02-06T20:00:37.983Z

@@ -1,5 +1,5 @@
 ---
-title: Filtro de selección múltiple del control searchNavigator sin considerar el término buscado
+title: 'Filtro de selección múltiple del control searchNavigator sin considerar el término buscado'
 id: ijtyA8hzgsgSYwa6EoyES
 status: PUBLISHED
 createdAt: 2017-08-29T15:40:30.287Z

@@ -1,5 +1,5 @@
 ---
-title: Order Allocation Algorithm (Beta)
+title: 'Order Allocation Algorithm (Beta)'
 id: 1zLCAyEdnVe3EsE9Kz88xA
 status: PUBLISHED
 createdAt: 2022-07-12T23:39:25.008Z

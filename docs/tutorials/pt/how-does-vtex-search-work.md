@@ -1,5 +1,5 @@
 ---
-title: Como funciona a busca da VTEX
+title: 'Como funciona a busca da VTEX'
 id: tutorials_542
 status: PUBLISHED
 createdAt: 2017-04-27T22:02:07.746Z

@@ -1,5 +1,5 @@
 ---
-title: What is the WhatsApp link?
+title: 'What is the WhatsApp link?'
 id: 6dXqhvOZ0C1ktF8oTJjx36
 status: PUBLISHED
 createdAt: 2022-08-30T11:59:34.711Z

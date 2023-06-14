@@ -1,5 +1,5 @@
 ---
-title: Establezca un precio para el SKU
+title: 'Establezca un precio para el SKU'
 id: 1DtHgf6AdK6ikYoqK4ywQE
 status: DRAFT
 createdAt: 2018-05-02T20:55:28.187Z

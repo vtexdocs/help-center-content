@@ -1,5 +1,5 @@
 ---
-title: VTEX Shipping Network: Ready to dispatch
+title: 'VTEX Shipping Network: Ready to dispatch'
 id: 5YOZV7Aotv3pap0fGNESDs
 status: PUBLISHED
 createdAt: 2021-11-11T20:13:17.128Z

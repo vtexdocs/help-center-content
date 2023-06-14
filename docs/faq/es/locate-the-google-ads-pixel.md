@@ -1,5 +1,5 @@
 ---
-title: Localiza el píxel de Google ADS
+title: 'Localiza el píxel de Google ADS'
 id: 6FMDY6RTTxcD0ETwI7kIA
 status: PUBLISHED
 createdAt: 2022-08-30T17:40:07.731Z

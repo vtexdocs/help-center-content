@@ -1,5 +1,5 @@
 ---
-title: Cómo cambiar la ordenación de tipos de entrega en el carrito?
+title: 'Cómo cambiar la ordenación de tipos de entrega en el carrito?'
 id: 2dSSqqtT4wmaIMoYu2SMG0
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:46.019Z

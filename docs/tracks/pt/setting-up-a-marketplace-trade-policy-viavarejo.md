@@ -1,5 +1,5 @@
 ---
-title: Configurar política comercial 
+title: 'Configurar política comercial '
 id: D63aTOOoQXd6NYq1f5rhc
 status: PUBLISHED
 createdAt: 2021-02-22T16:52:54.100Z

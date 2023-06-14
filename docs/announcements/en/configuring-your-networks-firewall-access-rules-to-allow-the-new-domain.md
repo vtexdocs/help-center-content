@@ -1,5 +1,5 @@
 ---
-title: "Configuring your network's firewall access rules to allow the new domain"
+title: 'Configuring your network's firewall access rules to allow the new domain'
 id: 1ib1hW8UJlR7SniuFTHzx4
 status: PUBLISHED
 createdAt: 2020-01-06T17:05:54.548Z
@@ -10,8 +10,8 @@ productTeam: Reliability
 author: authors_31
 slug: configuring-your-networks-firewall-access-rules-to-allow-the-new-domain
 legacySlug: configuring-your-networks-firewall-access-rules-to-allow-the-new-domain
-announcementImageID: ""
-announcementSynopsisEN: VTEX will change the domain that loads files. Review your firewall rules to ensure the domain is enabled.
+announcementImageID: ''
+announcementSynopsisEN: 'VTEX will change the domain that loads files. Review your firewall rules to ensure the domain is enabled.'
 ---
 
 On __January 20th, 2020__, VTEX will implement a change to the domain that is responsible for loading image files, javascript and CSS on the platform. Check whether your operation's network, due to a firewall rule, has any rule that blocks the new domain from loading.

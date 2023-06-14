@@ -1,5 +1,5 @@
 ---
-title: "New mandatory attribute for products sent to Mercado Libre"
+title: 'New mandatory attribute for products sent to Mercado Libre'
 id: 5nr8nGhCLFNtIP5tFkNEpJ
 status: PUBLISHED
 createdAt: 2022-02-25T18:35:17.032Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: new-mandatory-attribute-for-products-sent-to-mercado-libre
 legacySlug: new-mandatory-attribute-for-products-sent-to-mercado-libre
-announcementImageID: ""
-announcementSynopsisEN: Products in the Cell phones category in Mercado Libre must have the new mandatory attribute
+announcementImageID: ''
+announcementSynopsisEN: 'Products in the Cell phones category in Mercado Libre must have the new mandatory attribute'
 ---
 
 When a VTEX store integrated with Mercado Livre wants to [send products](https://help.vtex.com/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq/5XNeiye4rS4oao2MueSUeA) to the marketplace catalog, it must map the categories and attributes of these products.

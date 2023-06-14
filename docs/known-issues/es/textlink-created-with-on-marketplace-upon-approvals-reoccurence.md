@@ -1,5 +1,5 @@
 ---
-title: Enlace de texto creado con " " en Marketplace tras las aprobaciones - Reoccurrence
+title: 'Enlace de texto creado con " " en Marketplace tras las aprobaciones - Reoccurrence'
 id: 2afynQ9MwaHPMPWyhx80Tp
 status: PUBLISHED
 createdAt: 2023-04-24T19:36:10.185Z

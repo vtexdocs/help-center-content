@@ -1,5 +1,5 @@
 ---
-title: Categorías globales del catálogo obsoletas en comparación con Google
+title: 'Categorías globales del catálogo obsoletas en comparación con Google'
 id: 4vH5NRdMsuZmOohdHFn16H
 status: PUBLISHED
 createdAt: 2023-02-14T19:42:08.121Z

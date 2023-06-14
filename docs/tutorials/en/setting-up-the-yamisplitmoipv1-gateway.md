@@ -1,5 +1,5 @@
 ---
-title: Setting up the YamiSplitMoipV1 gateway
+title: 'Setting up the YamiSplitMoipV1 gateway'
 id: 5qrjr9yukwsk4oaMMAisSK
 status: PUBLISHED
 createdAt: 2018-02-28T16:56:41.540Z

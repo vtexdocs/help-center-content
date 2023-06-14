@@ -1,5 +1,5 @@
 ---
-title: Como adicionar o selo PCI SSC à minha loja?
+title: 'Como adicionar o selo PCI SSC à minha loja?'
 id: frequentlyAskedQuestions_4650
 status: CHANGED
 createdAt: 2019-01-24T20:46:01.185Z

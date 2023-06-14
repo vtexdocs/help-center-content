@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamentos com MEO Wallet
+title: 'Configurar pagamentos com MEO Wallet'
 id: RTxEjuC7eMSeamQKAKs0W
 status: DRAFT
 createdAt: 2018-04-20T15:36:37.820Z

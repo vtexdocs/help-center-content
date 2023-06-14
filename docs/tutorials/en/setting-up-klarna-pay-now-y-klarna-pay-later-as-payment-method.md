@@ -1,5 +1,5 @@
 ---
-title: Setting up Klarna Pay Now and Klarna Pay Later as a payment method
+title: 'Setting up Klarna Pay Now and Klarna Pay Later as a payment method'
 id: 4nsW4t3jGU9f8qqGoVjVtz
 status: DRAFT
 createdAt: 2020-12-04T15:02:01.008Z

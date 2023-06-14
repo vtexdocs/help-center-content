@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Conekta
+title: 'Configurar pago con Conekta'
 id: 7kiAD3SlnABF75xLSL3eSA
 status: PUBLISHED
 createdAt: 2022-08-11T12:41:42.110Z

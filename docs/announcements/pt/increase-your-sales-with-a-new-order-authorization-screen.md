@@ -1,5 +1,5 @@
 ---
-title: "Aumente suas vendas com a nova tela Autorização de Pedidos"
+title: 'Aumente suas vendas com a nova tela Autorização de Pedidos'
 id: 7EXIgaESHfI46lkaZw9jrQ
 status: CHANGED
 createdAt: 2019-03-26T18:22:14.655Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 1E4UkWguFZAXjkguvNHPIv
 slug: aumente-suas-vendas-com-a-nova-tela-autorizacao-de-pedidos
 legacySlug: aumente-suas-vendas-com-a-nova-tela-autorizacao-de-pedidos
-announcementImageID: ""
-announcementSynopsisPT: Esta ferramenta permite o controle das aprovações de pedidos com mudanças em seus valores.
+announcementImageID: ''
+announcementSynopsisPT: 'Esta ferramenta permite o controle das aprovações de pedidos com mudanças em seus valores.'
 ---
 
 Esta ferramenta permite o controle das aprovações de pedidos com mudanças em seus valores. As diferenças podem existir de duas formas:
@@ -21,7 +21,7 @@ Esta ferramenta permite o controle das aprovações de pedidos com mudanças em 
 ## O que muda
 Agora, ao invés de abrir um chamado diretamente com o suporte, é possível configurar as regras de autorização pelo admin. Para isso, acesse o caminho: Menu - Gerenciamento de Pedidos - Autorização de Pedidos.
 
-![Print Tela Principal OrderAuthorization (2)](https://images.ctfassets.net/alneenqid6w5/3hRybooCq6ynxWhOBN2J6C/58182a66426ecd5d480c9a79a5f8a9e7/Print_Tela_Principal_OrderAuthorization__2_.jpg)
+![Print Tela Principal OrderAuthorization (2)](//images.ctfassets.net/alneenqid6w5/3hRybooCq6ynxWhOBN2J6C/58182a66426ecd5d480c9a79a5f8a9e7/Print_Tela_Principal_OrderAuthorization__2_.jpg)
 
 ## O que você precisa fazer
 Importante mencionar que a loja não perde as regras configuradas através do fluxo antigo, que era feito abrindo chamado para a equipe de suporte. Elas serão atualizadas automaticamente na nova tela.

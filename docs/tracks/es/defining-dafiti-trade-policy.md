@@ -1,5 +1,5 @@
 ---
-title: Definición de la política comercial de Dafiti
+title: 'Definición de la política comercial de Dafiti'
 id: 54cBCKrJgqdrm61vxihY1g
 status: PUBLISHED
 createdAt: 2021-02-23T21:32:12.282Z

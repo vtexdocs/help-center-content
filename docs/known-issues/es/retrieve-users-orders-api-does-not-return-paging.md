@@ -1,5 +1,5 @@
 ---
-title: La API de recuperación de pedidos del usuario no devuelve la paginación
+title: 'La API de recuperación de pedidos del usuario no devuelve la paginación'
 id: 7ncV7acM5F3B4fJxOO2mGh
 status: PUBLISHED
 createdAt: 2022-02-03T12:20:48.330Z

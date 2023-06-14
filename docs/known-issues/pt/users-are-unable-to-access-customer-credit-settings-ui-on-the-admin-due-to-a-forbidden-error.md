@@ -1,5 +1,5 @@
 ---
-title: Os usuários não podem acessar as configurações de crédito do cliente UI no Admin devido a um erro proibido
+title: 'Os usuários não podem acessar as configurações de crédito do cliente UI no Admin devido a um erro proibido'
 id: 3RBofop7gS1VlKEDHozclF
 status: PUBLISHED
 createdAt: 2022-02-24T13:19:29.719Z

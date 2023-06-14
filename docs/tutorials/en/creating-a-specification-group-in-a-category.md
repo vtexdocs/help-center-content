@@ -1,5 +1,5 @@
 ---
-title: Creating a specification group in a category
+title: 'Creating a specification group in a category'
 id: tutorials_246
 status: PUBLISHED
 createdAt: 2017-04-27T22:12:25.134Z

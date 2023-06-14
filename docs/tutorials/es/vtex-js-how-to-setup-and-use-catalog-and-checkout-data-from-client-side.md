@@ -1,5 +1,5 @@
 ---
-title: VTEX js - Cómo instalar y manejar datos del catálogo y checkout desde la interfaz de cliente
+title: 'VTEX js - Cómo instalar y manejar datos del catálogo y checkout desde la interfaz de cliente'
 id: 5ngrD36bOAEW2WB9PShESn
 status: DRAFT
 createdAt: 2019-01-18T12:42:36.635Z

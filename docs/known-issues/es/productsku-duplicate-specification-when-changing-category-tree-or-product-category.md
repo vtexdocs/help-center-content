@@ -1,5 +1,5 @@
 ---
-title: Especificación de producto/SKU duplicada al cambiar árbol de categorías o producto de categoría
+title: 'Especificación de producto/SKU duplicada al cambiar árbol de categorías o producto de categoría'
 id: 2qMpMAh6B6oGk2gEq2swCY
 status: PUBLISHED
 createdAt: 2018-04-25T21:16:08.636Z

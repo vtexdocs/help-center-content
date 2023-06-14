@@ -1,5 +1,5 @@
 ---
-title: Sistema que considera al vendedor 1 para el límite de vendedores de la regla
+title: 'Sistema que considera al vendedor 1 para el límite de vendedores de la regla'
 id: 1bUax0hSCVrnFPZ4g1VWOa
 status: PUBLISHED
 createdAt: 2022-04-20T20:43:57.392Z

@@ -1,5 +1,5 @@
 ---
-title: [Magazine Luiza] Algunos pedidos no actualizan el estado de entregado en el mercado
+title: '[Magazine Luiza] Algunos pedidos no actualizan el estado de entregado en el mercado'
 id: 4fcuYTyvlHUhY7dvM4KE1C
 status: PUBLISHED
 createdAt: 2023-05-17T18:39:14.983Z

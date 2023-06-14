@@ -1,5 +1,5 @@
 ---
-title: Número de 12 dígitos do cartãoNúmero sendo aceito na caixa e causando transações presas
+title: 'Número de 12 dígitos do cartãoNúmero sendo aceito na caixa e causando transações presas'
 id: 2vLsFwO5Dt2gUL9kUTZ8s3
 status: PUBLISHED
 createdAt: 2022-03-03T18:39:42.814Z

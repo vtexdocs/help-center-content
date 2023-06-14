@@ -1,5 +1,5 @@
 ---
-title: ¿Qué pasa con el dinero de mi cuenta cuando pierdo una disputa?
+title: '¿Qué pasa con el dinero de mi cuenta cuando pierdo una disputa?'
 id: 2Dep6HZG7EUp74ALukV1Mw
 status: DRAFT
 createdAt: 2019-05-26T22:00:37.208Z

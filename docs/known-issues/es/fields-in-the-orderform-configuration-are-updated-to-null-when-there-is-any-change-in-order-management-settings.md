@@ -1,5 +1,5 @@
 ---
-title: Los campos de la configuración de orderForm se actualizan a null cuando se produce algún cambio en la configuración de la gestión de pedidos.
+title: 'Los campos de la configuración de orderForm se actualizan a null cuando se produce algún cambio en la configuración de la gestión de pedidos.'
 id: jKGnwUGdfmCXtKjGPe6hj
 status: PUBLISHED
 createdAt: 2023-02-06T21:00:09.224Z

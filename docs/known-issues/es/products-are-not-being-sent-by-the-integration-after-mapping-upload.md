@@ -1,5 +1,5 @@
 ---
-title: Productos no se envían por la integración al hacerse el upload del mapeo
+title: 'Productos no se envían por la integración al hacerse el upload del mapeo'
 id: 2A6AvKjkTm2wocOg4ywIAa
 status: PUBLISHED
 createdAt: 2018-05-04T17:50:27.140Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar el feed
+title: 'Configurar el feed'
 id: 3D9Dw6MQnGkqHZhPzme31X
 status: PUBLISHED
 createdAt: 2021-04-15T15:24:48.671Z

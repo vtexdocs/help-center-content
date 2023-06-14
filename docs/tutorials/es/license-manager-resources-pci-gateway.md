@@ -1,5 +1,5 @@
 ---
-title: Recursos del License Manager - PCI Gateway
+title: 'Recursos del License Manager - PCI Gateway'
 id: 50Qes0HC8UpAmCYj4rxnKl
 status: DRAFT
 createdAt: 2022-02-16T20:31:28.717Z

@@ -1,5 +1,5 @@
 ---
-title: Recursos do License Manager - Suggestion
+title: 'Recursos do License Manager - Suggestion'
 id: hrNYkZC3zSF3BxkTpxOLs
 status: DRAFT
 createdAt: 2022-02-16T21:01:20.907Z

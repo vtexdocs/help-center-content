@@ -1,5 +1,5 @@
 ---
-title: Compatibility with browsers in VTEX Admin
+title: 'Compatibility with browsers in VTEX Admin'
 id: tutorials_547
 status: PUBLISHED
 createdAt: 2017-04-27T22:01:25.561Z

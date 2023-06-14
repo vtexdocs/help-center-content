@@ -1,5 +1,5 @@
 ---
-title: Los artículos no disponibles rompen el cálculo del orderForm en un escenario específico cuando se utilizan vendedores con etiqueta blanca.
+title: 'Los artículos no disponibles rompen el cálculo del orderForm en un escenario específico cuando se utilizan vendedores con etiqueta blanca.'
 id: 1LJqeG27j5tY6o6Bs8cQ7P
 status: PUBLISHED
 createdAt: 2023-02-01T21:48:14.820Z

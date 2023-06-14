@@ -1,5 +1,5 @@
 ---
-title: "‘Kon'nichiwa!’ Admin ahora disponible en japonés"
+title: '‘Kon'nichiwa!’ Admin ahora disponible en japonés'
 id: 4yij9hB2Hia3fTynwDXccF
 status: PUBLISHED
 createdAt: 2021-03-02T01:41:00.002Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: admin-disponivel-em-japones
 legacySlug: konnichiwa-admin-ahora-disponible-en-japones
-announcementImageID: ""
-announcementSynopsisES: Admin con una nueva opción de idioma
+announcementImageID: ''
+announcementSynopsisES: 'Admin con una nueva opción de idioma'
 ---
 
 Actualmente, el Admin ofrece soporte para diversas opciones de idioma. Esto mejora la experiencia de producto en general, no solo mediante traducciones, sino también a nivel cultural al tomar en cuenta las particularidades locales de cada cultura.
@@ -24,4 +24,4 @@ La [apertura de una oficina en Singapur](https://vtex.com/us-en/press/vtex-opens
 
 ## ¿Qué se necesita hacer?
 Para visualizar el Admin en japonés, basta con seleccionar el código __JP__ en el menú desplegable de idioma situado en la esquina superior derecha de la pantalla. 
-![Seleccionar el código JP ](https://images.ctfassets.net/alneenqid6w5/4rQI0Nb2Bmz6P6dQs3Bixv/7ab7644ee7b02343b7eccaa5dc2e4596/japones.png)
+![Seleccionar el código JP ](//images.ctfassets.net/alneenqid6w5/4rQI0Nb2Bmz6P6dQs3Bixv/7ab7644ee7b02343b7eccaa5dc2e4596/japones.png)

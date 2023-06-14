@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Oney
+title: 'Configurar pagamento com Oney'
 id: 3tVdxBpbgu8w7FdNYulqQK
 status: DRAFT
 createdAt: 2022-08-11T19:09:50.683Z

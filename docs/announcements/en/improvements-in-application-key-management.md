@@ -1,5 +1,5 @@
 ---
-title: "Improvements in application key management"
+title: 'Improvements in application key management'
 id: 6DsPdiQ65RKNUNl7p93zHJ
 status: PUBLISHED
 createdAt: 2021-08-19T14:45:15.177Z
@@ -10,8 +10,8 @@ productTeam: Identity
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: improvements-in-application-key-management
 legacySlug: improvements-in-application-key-management
-announcementImageID: ""
-announcementSynopsisEN: Manage your authentication credentials in a single place and delegate this responsibility as needed.
+announcementImageID: ''
+announcementSynopsisEN: 'Manage your authentication credentials in a single place and delegate this responsibility as needed.'
 ---
 
 Many of our customers leverage API integrations to connect their VTEX account with external systems. [Authentication](https://developers.vtex.com/vtex-rest-api/docs/getting-started-authentication) credentials are used to give secure access to the data these integrations require, without exposing your account to unauthorized users or applications. 

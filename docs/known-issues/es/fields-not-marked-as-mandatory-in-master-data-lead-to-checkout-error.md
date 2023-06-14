@@ -1,5 +1,5 @@
 ---
-title: Campos no marcados como obligatorios en Master Data conducen a un error de pago
+title: 'Campos no marcados como obligatorios en Master Data conducen a un error de pago'
 id: 1iB9Zy7FPH2ge6L7AVyHxN
 status: PUBLISHED
 createdAt: 2019-09-17T21:45:28.631Z

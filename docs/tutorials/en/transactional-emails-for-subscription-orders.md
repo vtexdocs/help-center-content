@@ -1,5 +1,5 @@
 ---
-title: Transactional emails for subscription orders
+title: 'Transactional emails for subscription orders'
 id: 2NYHqHMRqZ43Cn6s84ZCB5
 status: PUBLISHED
 createdAt: 2020-02-11T15:13:38.504Z

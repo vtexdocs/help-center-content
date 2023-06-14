@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Metro Bank (NeoGateway)
+title: 'Setting up payments with Metro Bank (NeoGateway)'
 id: 3R3KrcDHqmKUfFb5XE8xTg
 status: DRAFT
 createdAt: 2022-08-11T19:48:45.238Z

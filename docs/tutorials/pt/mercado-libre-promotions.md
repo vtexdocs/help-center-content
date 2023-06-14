@@ -1,5 +1,5 @@
 ---
-title: Promoções do Mercado Livre
+title: 'Promoções do Mercado Livre'
 id: 3pEqEnru6H2JcZzYVioT5f
 status: PUBLISHED
 createdAt: 2022-04-07T15:22:59.827Z
@@ -20,7 +20,7 @@ Para proporcionar maior agilidade à operação do seller, na barra de busca glo
 
 Para acessar a página de promoções disponíveis no Admin VTEX, você deve seguir o caminho __Marketplace > Mercado Livre > Promoções.__  
 
-![Promoções do mercado livre](https://images.ctfassets.net/alneenqid6w5/6LigPeBx1YMf6NQPJaqURK/cae6ebf8e19c5bc2fd8b8d4839ad029e/buscapromocoes.gif)
+![Promoções do mercado livre](//images.ctfassets.net/alneenqid6w5/6LigPeBx1YMf6NQPJaqURK/cae6ebf8e19c5bc2fd8b8d4839ad029e/buscapromocoes.gif)
 
 ## Tipos de promoções  
 

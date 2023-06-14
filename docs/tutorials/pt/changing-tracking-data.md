@@ -1,5 +1,5 @@
 ---
-title: Alterar dados de rastreio
+title: 'Alterar dados de rastreio'
 id: 63c2hG3fBSCnchiMBOR5Ck
 status: PUBLISHED
 createdAt: 2021-12-17T18:17:47.739Z
@@ -37,4 +37,4 @@ Para alterar os dados de um pedido manualmente, siga os passos abaixo:
     * **Selecionar transportadora:** selecione qual transportadora realizará a entrega.
 7. Clique em `Salvar`.
 
-![Fatura](https://images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/0dc623d9ea7bff059e5a52f90584b4c4/Fatura__2_.png)
+![Fatura](//images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/0dc623d9ea7bff059e5a52f90584b4c4/Fatura__2_.png)

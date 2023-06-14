@@ -1,5 +1,5 @@
 ---
-title: "Agora você pode integrar pedidos de marketplace com divergência de preço"
+title: 'Agora você pode integrar pedidos de marketplace com divergência de preço'
 id: 2hbmlBKFeU0OsECukOcw4w
 status: PUBLISHED
 createdAt: 2018-11-12T17:52:20.888Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 245tA425AIeioKAk2eaiwS
 slug: aumente-suas-vendas-em-marketplace
 legacySlug: aumente-suas-vendas-em-marketplace
-announcementImageID: ""
-announcementSynopsisPT: A nova funcionalidade facilita a identificação de pedidos com divergência no preço e permite sua loja recuperar vendas.
+announcementImageID: ''
+announcementSynopsisPT: 'A nova funcionalidade facilita a identificação de pedidos com divergência no preço e permite sua loja recuperar vendas.'
 ---
 
 <div class ="alert alert-warning">

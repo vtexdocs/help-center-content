@@ -1,5 +1,5 @@
 ---
-title: Habilitar código del vendedor
+title: 'Habilitar código del vendedor'
 id: 5kNtS80hbBGg58jMeF8CRv
 status: DRAFT
 createdAt: 2021-02-04T11:42:33.284Z
@@ -41,7 +41,7 @@ Después de seguir estas recomendaciones, acceda al módulo __Configuración de 
 
 Al lado derecho de la pantalla, encontrará el archivo `checkout-custom-instore.js`.
 
-![codevendorES.png?h=250](https://images.ctfassets.net/alneenqid6w5/4hITwpBXNEoN359J96d2oy/0bb39f0f4085e4daf2bc3d6b4fca1d97/codevendorES.png)
+![codevendorES.png?h=250](//images.ctfassets.net/alneenqid6w5/4hITwpBXNEoN359J96d2oy/0bb39f0f4085e4daf2bc3d6b4fca1d97/codevendorES.png)
 
 Acceda a este archivo y agregue el siguiente código al objeto `window.INSTORE_CONFIG`:
 
@@ -65,7 +65,7 @@ Cada responsable debe completar las propiedades del objeto `window.INSTORE_CONFI
 
 Por último, finalice haciendo clic en el botón azul __Guardar__ que se encuentra en la parte superior de la página.
 
-![codevendor2ES](https://images.ctfassets.net/alneenqid6w5/zkFzm3m0NvekTQZQRznzZ/8a65b58374a71cd91b3ce972844fc762/codevendor2ES.png)
+![codevendor2ES](//images.ctfassets.net/alneenqid6w5/zkFzm3m0NvekTQZQRznzZ/8a65b58374a71cd91b3ce972844fc762/codevendor2ES.png)
 
 ## Entendiendo las propiedades
 

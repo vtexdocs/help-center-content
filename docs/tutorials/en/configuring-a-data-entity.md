@@ -1,5 +1,5 @@
 ---
-title: Configuring a Data Entity
+title: 'Configuring a Data Entity'
 id: 4RZZJhRb5KMaQOGAOCwqok
 status: DRAFT
 createdAt: 2017-06-21T21:16:27.425Z

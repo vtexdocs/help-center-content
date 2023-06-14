@@ -1,5 +1,5 @@
 ---
-title: Las vacaciones no se muestran en la lista después de utilizar la API para crear (PUT)
+title: 'Las vacaciones no se muestran en la lista después de utilizar la API para crear (PUT)'
 id: WqzSTP6oFwk4MbGaO5mIU
 status: PUBLISHED
 createdAt: 2022-05-02T22:26:55.630Z

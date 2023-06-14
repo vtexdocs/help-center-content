@@ -1,5 +1,5 @@
 ---
-title: Cobranças não permitem mais de 1000 SKUs por Upload
+title: 'Cobranças não permitem mais de 1000 SKUs por Upload'
 id: 4XC2ZLCsBkQhexRB4YrNMn
 status: PUBLISHED
 createdAt: 2023-04-19T13:53:02.339Z

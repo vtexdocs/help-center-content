@@ -1,5 +1,5 @@
 ---
-title: [Magazine Luiza] Pedidos com status APROVADO no marketplace não estão sendo aprovados na VTEX
+title: '[Magazine Luiza] Pedidos com status APROVADO no marketplace não estão sendo aprovados na VTEX'
 id: b11rdpYX5fEpjzuTm13lw
 status: PUBLISHED
 createdAt: 2023-05-10T19:01:49.804Z

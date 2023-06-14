@@ -1,5 +1,5 @@
 ---
-title: Incorrect canonical tag on HTTPS pages
+title: 'Incorrect canonical tag on HTTPS pages'
 id: 45d21Kz3hYsie6MaO24ioC
 status: PUBLISHED
 createdAt: 2018-01-24T14:54:21.165Z

@@ -1,5 +1,5 @@
 ---
-title: "The VTEX Admin is now available in Bulgarian"
+title: 'The VTEX Admin is now available in Bulgarian'
 id: 7bp6cSA4jdErMOMlLiWMl7
 status: PUBLISHED
 createdAt: 2021-10-25T15:51:32.612Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: the-vtex-admin-is-now-available-in-bulgarian
 legacySlug: the-vtex-admin-is-now-available-in-bulgarian
-announcementImageID: ""
-announcementSynopsisEN: The Admin is now available in one more language
+announcementImageID: ''
+announcementSynopsisEN: 'The Admin is now available in one more language'
 ---
 
 The VTEX Admin currently supports different languages. We localize our product to improve the customer experience, not only by translating our platform, but also by taking into account the particularities of each country.

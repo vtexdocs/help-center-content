@@ -1,5 +1,5 @@
 ---
-title: Tx Id link in Orders management doesn't redirect to Payment module in marketplace orders
+title: 'Tx Id link in Orders management doesn't redirect to Payment module in marketplace orders'
 id: 5LPtSrvUVnd3Bnw3GtQ67M
 status: PUBLISHED
 createdAt: 2019-03-08T20:00:30.460Z

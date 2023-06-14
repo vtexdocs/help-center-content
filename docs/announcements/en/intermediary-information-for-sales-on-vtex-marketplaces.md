@@ -1,5 +1,5 @@
 ---
-title: "Intermediary information for sales on VTEX marketplaces"
+title: 'Intermediary information for sales on VTEX marketplaces'
 id: 1gNXqhQbudnvOkx7uHfoPB
 status: PUBLISHED
 createdAt: 2021-06-10T18:39:24.021Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: intermediary-information-for-sales-on-vtex-marketplaces
 legacySlug: intermediary-information-for-sales-on-vtex-marketplaces
-announcementImageID: ""
-announcementSynopsisEN: Intermediary information will now be available for sales completed on VTEX marketplaces.
+announcementImageID: ''
+announcementSynopsisEN: 'Intermediary information will now be available for sales completed on VTEX marketplaces.'
 ---
 
 Sellers who sell their products on VTEX marketplaces now have access to the intermediary identification and payment method information for sales completed on that type of marketplace. VTEX clients operating as marketplaces will also send this information to their sellers (VTEX and non-VTEX).

@@ -1,5 +1,5 @@
 ---
-title: La función Feed Hook Indexing omite eventos en los filtros FromOrders
+title: 'La función Feed Hook Indexing omite eventos en los filtros FromOrders'
 id: 6wpHloVS4KnH1TN5S5ySN2
 status: PUBLISHED
 createdAt: 2023-05-25T20:23:18.818Z

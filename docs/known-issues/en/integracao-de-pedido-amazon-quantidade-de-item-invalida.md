@@ -1,5 +1,5 @@
 ---
-title: Integração de Pedido - Amazon - Quantidade de item inválida
+title: 'Integração de Pedido - Amazon - Quantidade de item inválida'
 id: 2Aqp7dJ8aqnZAjMxFmME3g
 status: PUBLISHED
 createdAt: 2022-03-10T17:59:27.633Z

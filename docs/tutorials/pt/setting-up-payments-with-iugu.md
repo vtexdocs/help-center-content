@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Iugu
+title: 'Configurar pagamento com Iugu'
 id: 2c1nAo5iR6jG1UySzRB89t
 status: PUBLISHED
 createdAt: 2022-03-31T18:58:08.146Z

@@ -1,5 +1,5 @@
 ---
-title: Sales channel info divergent between UI and API
+title: 'Sales channel info divergent between UI and API'
 id: 66bWccTAGpRbodBXvmIlHK
 status: PUBLISHED
 createdAt: 2023-05-04T15:30:18.265Z

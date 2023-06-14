@@ -1,5 +1,5 @@
 ---
-title: "Abandoned Cart app: configure it quickly and easily"
+title: 'Abandoned Cart app: configure it quickly and easily'
 id: 6NCx5m1ZwMpKcUfWBL0P2H
 status: PUBLISHED
 createdAt: 2021-03-22T14:29:24.300Z
@@ -10,8 +10,8 @@ productTeam: VTEX IO
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: abandoned-cart-app-configure-it-quickly-and-easily
 legacySlug: abandoned-cart-app-configure-it-quickly-and-easily
-announcementImageID: ""
-announcementSynopsisEN: A new app makes it easier to send emails to customers who have interrupted their purchases.
+announcementImageID: ''
+announcementSynopsisEN: 'A new app makes it easier to send emails to customers who have interrupted their purchases.'
 ---
 
 If a potential customer visiting your store adds products to the cart and identifies themself with their email, this is a strong indication of purchase intent. Therefore, the interruption of this purchase flow should be handled as a lost opportunity.

@@ -1,5 +1,5 @@
 ---
-title: "La navegación en el Admin ahora estará restringida según el perfil de acceso del usuario"
+title: 'La navegación en el Admin ahora estará restringida según el perfil de acceso del usuario'
 id: 4AkzWcYXhsLboTZeSW3jcj
 status: PUBLISHED
 createdAt: 2021-05-03T12:51:16.640Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: la-navegacion-en-el-admin-ahora-estara-restringida-segun-el-perfil-de-acceso
 legacySlug: la-navegacion-en-el-admin-ahora-estara-restringida-segun-el-perfil-de-acceso
-announcementImageID: ""
-announcementSynopsisES: Usuarios solo verán los ítems del menú de la barra lateral a los que tengan acceso, según su perfil de aceso y permisos.
+announcementImageID: ''
+announcementSynopsisES: 'Usuarios solo verán los ítems del menú de la barra lateral a los que tengan acceso, según su perfil de aceso y permisos.'
 ---
 
 Los [perfiles de acceso](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) permiten a las tiendas conceder y limitar el acceso de los usuarios a un subconjunto determinado de recursos en la plataforma. Aunque esto era suficiente para proteger la integridad y seguridad de su cuenta, los usuarios sí podían ver los ítems del menú de las secciones restringidas del Admin. Ahora las secciones no son visibles de manera que los usuarios solo ven los ítems a los que tienen acceso. 
@@ -28,7 +28,7 @@ Ahora, los usuarios sólo verán los ítems del menú de la barra lateral a los 
 
 La imagen a continuación ilustra cómo la barra lateral cambiaría al aplicar esta modificación de mantenimiento para mejorar la seguridad y la experiencia de usuario de su tienda.
 
-![ES Sidebar permissions announcement screenshot](https://images.ctfassets.net/alneenqid6w5/1dnqc48HsZDxmiUygavYHZ/e099126ea9483ee64e156948b6bd1695/ES_Sidebar_permissions_announcement_screenshot__1_.png)
+![ES Sidebar permissions announcement screenshot](//images.ctfassets.net/alneenqid6w5/1dnqc48HsZDxmiUygavYHZ/e099126ea9483ee64e156948b6bd1695/ES_Sidebar_permissions_announcement_screenshot__1_.png)
 
 ## ¿Por qué realizamos este cambio?
 

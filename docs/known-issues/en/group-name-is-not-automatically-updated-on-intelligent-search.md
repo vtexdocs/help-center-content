@@ -1,5 +1,5 @@
 ---
-title: Group name is not automatically updated on Intelligent Search
+title: 'Group name is not automatically updated on Intelligent Search'
 id: 1GKDLtbKdYA0hq9YUhF2Bt
 status: PUBLISHED
 createdAt: 2023-05-08T19:00:44.637Z

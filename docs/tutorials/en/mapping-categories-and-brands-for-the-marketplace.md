@@ -1,5 +1,5 @@
 ---
-title: Mapping categories, brands and specifications for the marketplace
+title: 'Mapping categories, brands and specifications for the marketplace'
 id: tutorials_1521
 status: PUBLISHED
 createdAt: 2017-04-27T21:56:09.345Z

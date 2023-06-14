@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Parcelex
+title: 'Configurar pago con Parcelex'
 id: 2CqB2f1A8pxaAFyk8lxbzy
 status: PUBLISHED
 createdAt: 2022-06-22T19:16:08.714Z

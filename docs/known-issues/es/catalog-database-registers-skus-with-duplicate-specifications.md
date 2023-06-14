@@ -1,5 +1,5 @@
 ---
-title: La base de datos del catálogo registra las SKU con especificaciones duplicadas
+title: 'La base de datos del catálogo registra las SKU con especificaciones duplicadas'
 id: zs3Gy1NQ9EYLpAlQ3aXXe
 status: PUBLISHED
 createdAt: 2022-03-04T18:24:48.159Z

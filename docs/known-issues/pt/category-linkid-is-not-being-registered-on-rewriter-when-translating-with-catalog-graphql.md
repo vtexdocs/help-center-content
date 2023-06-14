@@ -1,5 +1,5 @@
 ---
-title: A categoria linkId não está sendo registrada em reescrita ao traduzir com o gráfico do catálogo
+title: 'A categoria linkId não está sendo registrada em reescrita ao traduzir com o gráfico do catálogo'
 id: 7b7KOHlxyIO4zKy2xrMuSD
 status: PUBLISHED
 createdAt: 2022-09-08T21:27:03.855Z

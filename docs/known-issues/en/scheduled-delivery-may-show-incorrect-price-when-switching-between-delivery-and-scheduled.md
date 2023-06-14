@@ -1,5 +1,5 @@
 ---
-title: Scheduled delivery may show incorrect price when switching between delivery and scheduled
+title: 'Scheduled delivery may show incorrect price when switching between delivery and scheduled'
 id: 1Jue9hi3G4ryML88dqWz4E
 status: PUBLISHED
 createdAt: 2023-03-13T20:40:19.424Z

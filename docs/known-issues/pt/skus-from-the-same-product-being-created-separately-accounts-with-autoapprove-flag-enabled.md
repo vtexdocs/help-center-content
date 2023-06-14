@@ -1,5 +1,5 @@
 ---
-title: Skus do mesmo produto sendo criado separadamente (contas com a bandeira Autoapprove habilitada)
+title: 'Skus do mesmo produto sendo criado separadamente (contas com a bandeira Autoapprove habilitada)'
 id: 1nkfd9OuKTFsnBWe1k6dif
 status: PUBLISHED
 createdAt: 2023-02-15T12:22:35.143Z

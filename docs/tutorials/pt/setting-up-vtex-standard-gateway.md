@@ -1,5 +1,5 @@
 ---
-title: Configurar o gateway VTEX Standard
+title: 'Configurar o gateway VTEX Standard'
 id: 3B0uJ5XGVqecaII8WG0qaE
 status: DRAFT
 createdAt: 2018-06-21T22:12:51.416Z

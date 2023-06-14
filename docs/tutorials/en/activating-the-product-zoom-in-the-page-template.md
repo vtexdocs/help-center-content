@@ -1,5 +1,5 @@
 ---
-title: Activating the product zoom in the page template
+title: 'Activating the product zoom in the page template'
 id: 104Z7aky7IcYKYIgs4KUIg
 status: PUBLISHED
 createdAt: 2017-10-12T15:38:55.676Z

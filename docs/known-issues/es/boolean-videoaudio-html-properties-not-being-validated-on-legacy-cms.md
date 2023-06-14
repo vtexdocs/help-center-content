@@ -1,5 +1,5 @@
 ---
-title: Las propiedades HTML booleanas de vídeo/audio no se validan en el CMS heredado
+title: 'Las propiedades HTML booleanas de vídeo/audio no se validan en el CMS heredado'
 id: 2WjsLZ7vw0KO023rGQd77L
 status: PUBLISHED
 createdAt: 2022-03-16T19:27:06.599Z

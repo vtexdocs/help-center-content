@@ -1,5 +1,5 @@
 ---
-title: Habilitando notificações PWA da loja
+title: 'Habilitando notificações PWA da loja'
 id: 1be3ZPhbsgZSbE7h5H46pG
 status: PUBLISHED
 createdAt: 2021-08-27T18:42:13.075Z

@@ -1,5 +1,5 @@
 ---
-title: Pré-visualização de embarque relatando erroneamente a seleção de coleta
+title: 'Pré-visualização de embarque relatando erroneamente a seleção de coleta'
 id: 1KfCAK44prpDXLKUSVmm7O
 status: PUBLISHED
 createdAt: 2022-03-30T17:47:49.278Z

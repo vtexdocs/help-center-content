@@ -1,5 +1,5 @@
 ---
-title: How the integration with Buscapé works
+title: 'How the integration with Buscapé works'
 id: 689SI30FCEGYAeiIY66yAe
 status: DRAFT
 createdAt: 2018-09-28T17:13:22.994Z

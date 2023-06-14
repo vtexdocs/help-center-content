@@ -1,5 +1,5 @@
 ---
-title: "Subscription promotions: new year, new strategy"
+title: 'Subscription promotions: new year, new strategy'
 id: 3AuiImznmJJRpxElqZWjKw
 status: PUBLISHED
 createdAt: 2021-12-21T15:54:21.543Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 5l3eEiSz8MpcppCxcnijGz
 slug: subscription-promotions-new-year-new-strategy
 legacySlug: subscription-promotions-new-year-new-strategy
-announcementImageID: ""
-announcementSynopsisEN: Subscription promotions are a practical and intuitive way to attract customers and build customer loyalty.
+announcementImageID: ''
+announcementSynopsisEN: 'Subscription promotions are a practical and intuitive way to attract customers and build customer loyalty.'
 ---
 
 Subscription promotions are a practical and intuitive way to attract customers and build customer loyalty with the advantages of recurring subscription and discounts for specific profiles.

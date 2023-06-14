@@ -1,5 +1,5 @@
 ---
-title: Configurar login com Facebook e Google
+title: 'Configurar login com Facebook e Google'
 id: tutorials_513
 status: PUBLISHED
 createdAt: 2017-04-27T22:03:01.743Z
@@ -30,12 +30,12 @@ Antes de configurar nossa integração de login com o Google e Facebook, é nece
 Após a configuração no Facebook e/ou Google, é preciso configurar na sua loja a opção de login por esses dois provedores. Nos dois casos, você precisará ter em mãos o `Client ID` e o `Client Secret` cadastrados.
 
 1. Acesse o módulo do VTEX ID pelo painel administrativo da loja no menu Configurações Da Conta > Autenticação;  
-![Lista Autenticação](https://images.ctfassets.net/alneenqid6w5/3Bnb1ifcL7krcXEnAHzxu1/2fce3d14bc8d98ccf4586175791361ef/autenticacao_PT.png)
+![Lista Autenticação](//images.ctfassets.net/alneenqid6w5/3Bnb1ifcL7krcXEnAHzxu1/2fce3d14bc8d98ccf4586175791361ef/autenticacao_PT.png)
 2. Selecione o provedor e selecione **EDITAR**;
 3. Preencha o formulário com o `Client ID` e o `Client Secret` cadastrado;  
-![Facebook OAuth PT](https://images.ctfassets.net/alneenqid6w5/2mWEocn4zdG0BJVMaujzk8/c07c9d4160e7273a0f5ad2a0cabd1bec/facebook_PT.png)
+![Facebook OAuth PT](//images.ctfassets.net/alneenqid6w5/2mWEocn4zdG0BJVMaujzk8/c07c9d4160e7273a0f5ad2a0cabd1bec/facebook_PT.png)
 4. Ative o uso do provedor com o seu interruptor.  
-![Lista Autenticação Switch On Highlight](https://images.ctfassets.net/alneenqid6w5/4devCJpXnMWF3TV6xMDiUT/c079f95b7833c2bdba7e5a86860f03cd/switch_On_highlight_PT.png)
+![Lista Autenticação Switch On Highlight](//images.ctfassets.net/alneenqid6w5/4devCJpXnMWF3TV6xMDiUT/c079f95b7833c2bdba7e5a86860f03cd/switch_On_highlight_PT.png)
 
 ## Valide a configuração
 

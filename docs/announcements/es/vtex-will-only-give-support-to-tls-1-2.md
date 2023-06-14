@@ -1,5 +1,5 @@
 ---
-title: "VTEX sólo admitirá TLS 1.2"
+title: 'VTEX sólo admitirá TLS 1.2'
 id: 63OshDDS6cmcKKmau6aQUA
 status: PUBLISHED
 createdAt: 2018-06-22T16:25:55.532Z
@@ -10,8 +10,8 @@ productTeam: Reliability
 author: authors_24
 slug: vtex-solo-admitira-tls-1-2
 legacySlug: vtex-solo-admitira-tls-1-2
-announcementImageID: ""
-announcementSynopsisES: A partir del 30 de junio, las versiones anteriores de TLS y todas las versiones de SSL se descontinuarán.
+announcementImageID: ''
+announcementSynopsisES: 'A partir del 30 de junio, las versiones anteriores de TLS y todas las versiones de SSL se descontinuarán.'
 ---
 
 Como parte de nuestro proceso de mejora continua, vamos a pasar a dar soporte sólo para integraciones que usan __TLS 1.2__. A partir del __30 de junio__, las versiones anteriores de TLS y todas las versiones de SSL se descontinuarán. Este cambio cumple con los requisitos PCI DDS y es fundamental para mantener la seguridad de la plataforma.

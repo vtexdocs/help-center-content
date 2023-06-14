@@ -1,5 +1,5 @@
 ---
-title: Configuring the additional shipping rate
+title: 'Configuring the additional shipping rate'
 id: tutorials_105
 status: DRAFT
 createdAt: 2017-04-27T22:19:32.492Z

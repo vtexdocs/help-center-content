@@ -1,5 +1,5 @@
 ---
-title: Error saving Netshoes integration card
+title: 'Error saving Netshoes integration card'
 id: 4amOxIQgKqzCvpuzgAeYE5
 status: PUBLISHED
 createdAt: 2022-06-14T11:55:35.684Z

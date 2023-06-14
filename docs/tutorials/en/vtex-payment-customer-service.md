@@ -1,5 +1,5 @@
 ---
-title: VTEX Payment Customer Service
+title: 'VTEX Payment Customer Service'
 id: 37QiH6y2nmK75SR0pqTsUx
 status: DRAFT
 createdAt: 2020-06-04T14:12:13.811Z

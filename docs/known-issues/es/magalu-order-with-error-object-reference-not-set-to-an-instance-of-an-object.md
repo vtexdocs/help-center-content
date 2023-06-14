@@ -1,5 +1,5 @@
 ---
-title:  [Magalu] Pedido con error "Referencia de objeto no establecida a una instancia de un objeto"
+title: ' [Magalu] Pedido con error "Referencia de objeto no establecida a una instancia de un objeto"'
 id: 6758qSnWuXR6TWQ1mlKOxs
 status: PUBLISHED
 createdAt: 2022-11-29T17:45:30.636Z

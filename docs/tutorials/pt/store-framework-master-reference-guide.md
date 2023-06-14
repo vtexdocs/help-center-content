@@ -1,5 +1,5 @@
 ---
-title: Guia de referência principal para Store Framework
+title: 'Guia de referência principal para Store Framework'
 id: 5DuS29UYoDxairc3Qy39oP
 status: DRAFT
 createdAt: 2019-04-09T14:46:15.428Z

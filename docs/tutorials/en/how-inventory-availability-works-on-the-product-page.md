@@ -1,5 +1,5 @@
 ---
-title: How inventory availability works on the product page
+title: 'How inventory availability works on the product page'
 id: gyVfuG5dTyUyGA02iiU0y
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:34.673Z

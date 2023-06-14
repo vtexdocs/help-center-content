@@ -1,5 +1,5 @@
 ---
-title: "Now it’s easier to sell the products from your physical stores in marketplaces"
+title: 'Now it’s easier to sell the products from your physical stores in marketplaces'
 id: 2rOEBV0tOAoZIgow7CODyj
 status: PUBLISHED
 createdAt: 2019-03-12T21:54:26.822Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 6AcGyun1hSWewU8YcaQiO
 slug: now-its-easier-to-sell-the-products-from-your-physical-stores-in
 legacySlug: now-it's-easier-to-sell-the-products-from-your-physical-stores-in
-announcementImageID: ""
-announcementSynopsisEN: When integrating the main account with a marketplace, franchise accounts inventories are now automatically considered.
+announcementImageID: ''
+announcementSynopsisEN: 'When integrating the main account with a marketplace, franchise accounts inventories are now automatically considered.'
 ---
 
 You can now easily sell products from your entire network of physical stores in __external marketplaces__. Through the __Multilevel Omnichannel Inventory__, the [franchise accounts](/tutorial/what-are-franchise-account-and-seller-white-label?locale=en) are fully integrated with the main account immediately after being created. This means that when the main account sets up an integration with an external marketplace, the franchise accounts' inventory will also be considered in the process, ie, it will no longer be necessary to manage each franchise account individually in order to integrate it into the marketplace.

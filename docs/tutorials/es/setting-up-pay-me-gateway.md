@@ -1,5 +1,5 @@
 ---
-title: Configurar gateway Pay-me
+title: 'Configurar gateway Pay-me'
 id: 34IXQJGJdea666aiOA8y8S
 status: DRAFT
 createdAt: 2018-03-28T19:01:07.670Z

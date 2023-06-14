@@ -1,5 +1,5 @@
 ---
-title: Os comerciantes não estão recebendo o relatório de preço fixo
+title: 'Os comerciantes não estão recebendo o relatório de preço fixo'
 id: itfcHiyewZYWOW9Ff16yM
 status: PUBLISHED
 createdAt: 2022-10-07T18:51:22.646Z

@@ -1,5 +1,5 @@
 ---
-title: VTEX Shipping Network Correios: FAQ
+title: 'VTEX Shipping Network Correios: FAQ'
 id: 2Wavf7Wie5GEUAEHKtn5oC
 status: PUBLISHED
 createdAt: 2023-06-01T13:24:23.895Z

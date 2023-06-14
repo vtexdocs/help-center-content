@@ -1,5 +1,5 @@
 ---
-title: Tiempo de espera de importación de colecciones heredadas
+title: 'Tiempo de espera de importación de colecciones heredadas'
 id: 3sNnbMg00W11l46LPr130g
 status: PUBLISHED
 createdAt: 2022-02-25T12:21:12.605Z

@@ -1,5 +1,5 @@
 ---
-title: CVV sin validación del tipo de caracteres
+title: 'CVV sin validación del tipo de caracteres'
 id: 63MJ3ODCvr3ayfgJiuN1ja
 status: PUBLISHED
 createdAt: 2022-03-27T20:25:43.400Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Bamboo
+title: 'Configurar pagamento com Bamboo'
 id: 33TDZBp1wmgzJdiZtvu1xY
 status: PUBLISHED
 createdAt: 2022-08-12T20:06:37.117Z

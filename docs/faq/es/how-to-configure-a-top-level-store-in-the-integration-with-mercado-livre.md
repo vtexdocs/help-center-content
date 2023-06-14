@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo configurar la tienda paraguas en la integración con Mercado Libre?
+title: '¿Cómo configurar la tienda paraguas en la integración con Mercado Libre?'
 id: 5KINOatgzeS48IGwaAK8IE
 status: PUBLISHED
 createdAt: 2018-09-10T20:21:30.658Z

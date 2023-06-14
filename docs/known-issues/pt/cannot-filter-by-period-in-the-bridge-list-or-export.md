@@ -1,5 +1,5 @@
 ---
-title: Não pode ser filtrado por período na lista ou na exportação do Bridge
+title: 'Não pode ser filtrado por período na lista ou na exportação do Bridge'
 id: 5U95urZgFa082kwwC2AKE0
 status: PUBLISHED
 createdAt: 2017-12-15T18:02:31.443Z

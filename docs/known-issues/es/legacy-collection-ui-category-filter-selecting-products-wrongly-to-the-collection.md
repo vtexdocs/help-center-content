@@ -1,5 +1,5 @@
 ---
-title: El filtro de categorías de la interfaz de usuario de la colección heredada selecciona productos erróneamente en la colección.
+title: 'El filtro de categorías de la interfaz de usuario de la colección heredada selecciona productos erróneamente en la colección.'
 id: 1IlioZpOSQf5t4TWqZreiS
 status: PUBLISHED
 createdAt: 2022-10-31T20:42:26.100Z

@@ -1,5 +1,5 @@
 ---
-title: Centro de Distribuição - Definição de Conceito
+title: 'Centro de Distribuição - Definição de Conceito'
 id: 4uW93f3ITgEQTb1SbKzwe2
 status: DRAFT
 createdAt: 2019-08-13T15:21:35.470Z

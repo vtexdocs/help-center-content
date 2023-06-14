@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Abastece aí
+title: 'Configurar pagamento com Abastece aí'
 id: tt7sdWzzOoLhJmuBslA8F
 status: DRAFT
 createdAt: 2022-07-18T19:01:02.679Z

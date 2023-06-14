@@ -1,5 +1,5 @@
 ---
-title: Emisión parcial de la factura cambia la fecha de autorización del pago
+title: 'Emisión parcial de la factura cambia la fecha de autorización del pago'
 id: 3kjzXJNFj2miIeIMAW6uW2
 status: PUBLISHED
 createdAt: 2017-04-06T17:10:46.252Z

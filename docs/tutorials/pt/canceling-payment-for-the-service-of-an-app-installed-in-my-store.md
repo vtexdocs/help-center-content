@@ -1,5 +1,5 @@
 ---
-title: Cancelar o pagamento pelo serviço de uma app instalada na minha loja
+title: 'Cancelar o pagamento pelo serviço de uma app instalada na minha loja'
 id: 587GU01BchtMMoQwFtpIcW
 status: PUBLISHED
 createdAt: 2019-01-30T21:21:20.606Z

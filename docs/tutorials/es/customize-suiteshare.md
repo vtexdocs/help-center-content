@@ -1,5 +1,5 @@
 ---
-title: Personalice
+title: 'Personalice'
 id: sG7FAksOsU1EW9vcbPgIe
 status: PUBLISHED
 createdAt: 2022-08-31T17:57:30.081Z

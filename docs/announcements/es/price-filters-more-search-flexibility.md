@@ -1,5 +1,5 @@
 ---
-title: "Filtro para precios: más flexibilidad de búsqueda"
+title: 'Filtro para precios: más flexibilidad de búsqueda'
 id: 4l7hoNvAXGI6rrefWgLvlK
 status: PUBLISHED
 createdAt: 2020-09-11T20:56:24.841Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: filtro-para-precios-mas-flexibilidad-de-busqueda
 legacySlug: filtro-para-precios-mas-flexibilidad-de-busqueda
-announcementImageID: ""
-announcementSynopsisES: Para tener una gestión más dinámica de sus precios, desarrollamos más opciones para la configuración de filtros
+announcementImageID: ''
+announcementSynopsisES: 'Para tener una gestión más dinámica de sus precios, desarrollamos más opciones para la configuración de filtros'
 ---
 
 Para tener una gestión más dinámica de sus precios, desarrollamos más opciones para la configuración de filtros, con la finalidad de mejorar su experiencia.
@@ -22,7 +22,7 @@ Ahora usted puede filtrar los precios combinando las múltiples Categorías y Ma
 
 Esta actualización de la funcionalidad permite la exportación de precios más específicos, a partir de la selección de los filtros.
 
-![filtro preco-ES](https://images.ctfassets.net/alneenqid6w5/7rJSF8qFUuoagVZaeVw2mp/4f00df74073f97f6da58c621b0b4a313/filtro_preco-ES.png)
+![filtro preco-ES](//images.ctfassets.net/alneenqid6w5/7rJSF8qFUuoagVZaeVw2mp/4f00df74073f97f6da58c621b0b4a313/filtro_preco-ES.png)
 
 ## ¿Qué necesito hacer?
 Para utilizar esta nueva configuración, realice los siguientes pasos:

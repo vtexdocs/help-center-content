@@ -1,5 +1,5 @@
 ---
-title: Shopify - Suiteshare
+title: 'Shopify - Suiteshare'
 id: 5KjmgKBMsvI0ChWRbFrQng
 status: PUBLISHED
 createdAt: 2022-08-31T14:37:57.075Z

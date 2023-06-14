@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo funciona el flujo de liquidación programada para las compras realizadas con dos formas de pago?
+title: '¿Cómo funciona el flujo de liquidación programada para las compras realizadas con dos formas de pago?'
 id: 32vvCkFrmbUydhI5ncFCja
 status: PUBLISHED
 createdAt: 2021-06-15T15:14:09.235Z

@@ -1,5 +1,5 @@
 ---
-title: Mapeo de categorías y marcas para marketplace (Beta)
+title: 'Mapeo de categorías y marcas para marketplace (Beta)'
 id: 6NU8LwR6i0tTb8nk30bnbE
 status: PUBLISHED
 createdAt: 2022-05-11T13:35:34.836Z

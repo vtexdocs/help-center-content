@@ -1,5 +1,5 @@
 ---
-title: Export SKU attachment values does not work correctly for Spanish language operating systems
+title: 'Export SKU attachment values does not work correctly for Spanish language operating systems'
 id: 75FXMEc3L2kI0JaFjyyZuU
 status: PUBLISHED
 createdAt: 2022-04-25T20:26:43.281Z

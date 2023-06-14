@@ -1,5 +1,5 @@
 ---
-title: Usuario titular
+title: 'Usuario titular'
 id: 3oPr7YuIkEYqUGmEqIMSEy
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:43.693Z

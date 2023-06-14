@@ -1,5 +1,5 @@
 ---
-title: Sugestão de pacote dividido que não funciona corretamente
+title: 'Sugestão de pacote dividido que não funciona corretamente'
 id: 1amgn9hWwc6i2nLx1U3wDC
 status: DRAFT
 createdAt: 2022-09-13T02:01:52.651Z

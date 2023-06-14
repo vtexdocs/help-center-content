@@ -1,5 +1,5 @@
 ---
-title: Como funciona o rateio de promoção?
+title: 'Como funciona o rateio de promoção?'
 id: frequentlyAskedQuestions_299
 status: CHANGED
 createdAt: 2019-01-24T20:45:51.968Z

@@ -1,5 +1,5 @@
 ---
-title: Visualizar o log detalhado do pedido
+title: 'Visualizar o log detalhado do pedido'
 id: 1VIvDUUVlKc2E0SeECcokg
 status: PUBLISHED
 createdAt: 2018-03-07T15:44:56.658Z

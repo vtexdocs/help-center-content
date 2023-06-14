@@ -1,5 +1,5 @@
 ---
-title: Inability to make partial cancellation with MercadoPagoV1
+title: 'Inability to make partial cancellation with MercadoPagoV1'
 id: 59aimeqhjGVOVkP9f6A9ls
 status: PUBLISHED
 createdAt: 2022-06-28T16:44:19.059Z

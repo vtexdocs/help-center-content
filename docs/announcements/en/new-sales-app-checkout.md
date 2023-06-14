@@ -1,5 +1,5 @@
 ---
-title: "New Sales App checkout"
+title: 'New Sales App checkout'
 id: 7g2D5NZmdJRFmzZsDCMU18
 status: PUBLISHED
 createdAt: 2023-05-22T14:32:02.896Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 5l3eEiSz8MpcppCxcnijGz
 slug: new-sales-app-checkout
 legacySlug: new-sales-app-checkout
-announcementImageID: ""
-announcementSynopsisEN: With the goal of simplifying your physical store's checkout experience, we've developed the new Sales App checkout.
+announcementImageID: ''
+announcementSynopsisEN: 'With the goal of simplifying your physical store's checkout experience, we've developed the new Sales App checkout.'
 ---
 
 To simplify your physical store's checkout experience, we've developed the new Sales App checkout.

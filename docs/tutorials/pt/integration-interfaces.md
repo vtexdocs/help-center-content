@@ -1,5 +1,5 @@
 ---
-title: Como funcionam as interfaces de integração da VTEX
+title: 'Como funcionam as interfaces de integração da VTEX'
 id: tutorials_743
 status: DRAFT
 createdAt: 2017-04-27T21:59:00.743Z

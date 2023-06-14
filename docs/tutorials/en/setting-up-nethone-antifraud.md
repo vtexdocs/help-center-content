@@ -1,5 +1,5 @@
 ---
-title: Setting up Nethone antifraud
+title: 'Setting up Nethone antifraud'
 id: 7wyoUovwCkoT998uXkOis8
 status: PUBLISHED
 createdAt: 2021-06-16T17:00:06.641Z

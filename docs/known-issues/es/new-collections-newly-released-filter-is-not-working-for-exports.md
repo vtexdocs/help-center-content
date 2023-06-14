@@ -1,5 +1,5 @@
 ---
-title: New Collections 'Newly Released' filter is not working for Exports
+title: 'New Collections 'Newly Released' filter is not working for Exports'
 id: 5JAkYgWVz6pwLn17oQkuif
 status: DRAFT
 createdAt: 2022-05-11T13:58:31.619Z

@@ -1,5 +1,5 @@
 ---
-title: Configuração de SMS no módulo de Central de mensagens retorna erro
+title: 'Configuração de SMS no módulo de Central de mensagens retorna erro'
 id: 4OlzNBkOfFqHxX8WTGjH4O
 status: PUBLISHED
 createdAt: 2019-05-08T18:01:12.389Z

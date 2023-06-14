@@ -1,5 +1,5 @@
 ---
-title: "From now on, you can export up to 3 thousand orders"
+title: 'From now on, you can export up to 3 thousand orders'
 id: vo2h9LyDReC6iSkSOKucG
 status: PUBLISHED
 createdAt: 2018-10-24T21:41:38.655Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 245tA425AIeioKAk2eaiwS
 slug: from-now-on-you-can-export-up-to-3-thousand-orders
 legacySlug: from-now-on-you-can-export-up-to-3-thousand-orders
-announcementImageID: ""
-announcementSynopsisEN: The limit will guarantee the platform's performance, without quality loss of the generated reports.
+announcementImageID: ''
+announcementSynopsisEN: 'The limit will guarantee the platform's performance, without quality loss of the generated reports.'
 ---
 
 As of __October 24__, the orders management module will only allow you to export up to 3.000 orders. This limit will guarantee the platform's performance, without quality loss of the generated reports.

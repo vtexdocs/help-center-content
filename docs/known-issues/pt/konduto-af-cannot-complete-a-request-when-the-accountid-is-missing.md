@@ -1,5 +1,5 @@
 ---
-title: Konduto AF não pode completar um pedido quando falta a contaId.
+title: 'Konduto AF não pode completar um pedido quando falta a contaId.'
 id: CGHZoCfr01ATsbtiLU9ym
 status: PUBLISHED
 createdAt: 2022-03-03T22:09:57.638Z

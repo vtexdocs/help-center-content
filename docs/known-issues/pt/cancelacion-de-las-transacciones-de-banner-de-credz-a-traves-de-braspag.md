@@ -1,5 +1,5 @@
 ---
-title: Cancelamento de transações da bandeira Credz via Braspag
+title: 'Cancelamento de transações da bandeira Credz via Braspag'
 id: 13zKpRlvD8WCc888IYSKQE
 status: PUBLISHED
 createdAt: 2017-07-03T21:04:29.131Z

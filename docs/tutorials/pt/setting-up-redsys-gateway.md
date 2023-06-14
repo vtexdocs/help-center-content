@@ -1,5 +1,5 @@
 ---
-title: Configurar gateway Redsýs
+title: 'Configurar gateway Redsýs'
 id: 7xRnMyzZS0kQoIG2ISagY8
 status: DRAFT
 createdAt: 2018-04-17T21:39:11.781Z

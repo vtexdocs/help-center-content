@@ -1,5 +1,5 @@
 ---
-title: O checkout não calcula corretamente o valor do frete para um único item que tenha frete gratuito e entrega programada
+title: 'O checkout não calcula corretamente o valor do frete para um único item que tenha frete gratuito e entrega programada'
 id: 4jX7JT0Wxt9S4xBe9FSwO
 status: PUBLISHED
 createdAt: 2022-02-21T19:48:04.202Z

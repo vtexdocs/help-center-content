@@ -1,5 +1,5 @@
 ---
-title: Restrict the default-src of the header Content Security Policy could break the Checkout
+title: 'Restrict the default-src of the header Content Security Policy could break the Checkout'
 id: 5fQXzMrLchSUENa53MXgf
 status: PUBLISHED
 createdAt: 2023-03-02T17:29:31.623Z

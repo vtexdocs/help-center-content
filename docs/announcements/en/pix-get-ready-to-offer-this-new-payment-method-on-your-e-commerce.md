@@ -1,5 +1,5 @@
 ---
-title: "Pix: get ready to offer this new payment method on your e-commerce"
+title: 'Pix: get ready to offer this new payment method on your e-commerce'
 id: 1v5clxhNiDST404Orzwrv6
 status: PUBLISHED
 createdAt: 2020-10-28T11:13:00.457Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 5kCzbURAoPwM0YJGmMCLyD
 slug: pix-get-ready-to-offer-this-new-payment-method-on-your-e-commerce
 legacySlug: pix-get-ready-to-offer-this-new-payment-method-on-your-e-commerce
-announcementImageID: ""
-announcementSynopsisEN: Payment provider protocol, VTEX’s integration protocol for payments, already supports Pix as a payment method.
+announcementImageID: ''
+announcementSynopsisEN: 'Payment provider protocol, VTEX’s integration protocol for payments, already supports Pix as a payment method.'
 ---
 
 Pix transactions - the new payment method offered by Banco Central (Bacen) - a Brazilian public organization responsible for the Economy - will start on November 16th in the whole country. Learn how to get prepared for this new payment method that can be available in your VTEX store.

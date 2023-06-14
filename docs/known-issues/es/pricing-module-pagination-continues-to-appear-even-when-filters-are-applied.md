@@ -1,5 +1,5 @@
 ---
-title: Paginación del módulo de precios continúa apareciendo al aplicar un filtro
+title: 'Paginación del módulo de precios continúa apareciendo al aplicar un filtro'
 id: 64JuaXsWyrcQmk6iUi8wFD
 status: PUBLISHED
 createdAt: 2019-12-10T21:18:48.943Z

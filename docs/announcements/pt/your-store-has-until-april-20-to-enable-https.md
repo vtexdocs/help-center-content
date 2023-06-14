@@ -1,5 +1,5 @@
 ---
-title: "Sua loja tem até 20 de abril para ativar o HTTPS"
+title: 'Sua loja tem até 20 de abril para ativar o HTTPS'
 id: 63uJxr5LRmAKMuggog6GIs
 status: PUBLISHED
 createdAt: 2018-04-03T17:51:53.983Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: authors_24
 slug: sua-loja-tem-ate-20-de-abril-para-ativar-o-https
 legacySlug: sua-loja-tem-ate-20-de-abril-para-ativar-o-https
-announcementImageID: ""
-announcementSynopsisPT: Além de trazer mais segurança para seus clientes, ativar o HTTPS em todo o site é requisito para migrar para a nova CDN.
+announcementImageID: ''
+announcementSynopsisPT: 'Além de trazer mais segurança para seus clientes, ativar o HTTPS em todo o site é requisito para migrar para a nova CDN.'
 ---
 
 Até o dia __20 de abril__, as lojas VTEX devem ativar o protocolo HTTPS em todas as suas páginas. Essa mudança garante mais segurança para seu website e seus clientes, já que toda troca de dados passa ser criptografada.

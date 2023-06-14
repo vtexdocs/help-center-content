@@ -1,5 +1,5 @@
 ---
-title: Registros del Newsletter con control <vtex.cmc:newsletterOptIn/>
+title: 'Registros del Newsletter con control <vtex.cmc:newsletterOptIn/>'
 id: xqKrRRHBscEI8O6UKi8eE
 status: PUBLISHED
 createdAt: 2017-06-07T18:35:59.237Z

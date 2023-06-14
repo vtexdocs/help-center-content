@@ -1,5 +1,5 @@
 ---
-title: Error al exportar una gran cantidad de tarjetas de regalo
+title: 'Error al exportar una gran cantidad de tarjetas de regalo'
 id: 2EZ9XmZwYmcWdRxKbTNEBJ
 status: PUBLISHED
 createdAt: 2022-03-27T12:37:51.512Z

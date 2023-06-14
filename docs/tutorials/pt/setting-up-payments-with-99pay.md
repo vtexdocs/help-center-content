@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com 99Pay
+title: 'Configurar pagamento com 99Pay'
 id: QIStxPsGb6LoIwFBfcTfb
 status: PUBLISHED
 createdAt: 2023-04-06T19:37:06.116Z

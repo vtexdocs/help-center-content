@@ -1,5 +1,5 @@
 ---
-title: Shipping is displayed with wrong value for negative inventory
+title: 'Shipping is displayed with wrong value for negative inventory'
 id: 3EwZH688kMiS8uyugOk4uw
 status: PUBLISHED
 createdAt: 2017-08-23T13:13:48.362Z

@@ -1,5 +1,5 @@
 ---
-title: Editores de componentes de renderização no site
+title: 'Editores de componentes de renderização no site'
 id: 66gcFw8LwnL6WsvuXPRzFn
 status: PUBLISHED
 createdAt: 2022-04-19T19:41:08.520Z

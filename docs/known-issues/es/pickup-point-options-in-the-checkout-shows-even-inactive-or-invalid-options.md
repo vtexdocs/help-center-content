@@ -1,5 +1,5 @@
 ---
-title: Las opciones del punto de recogida en la caja muestran incluso las opciones inactivas o no válidas
+title: 'Las opciones del punto de recogida en la caja muestran incluso las opciones inactivas o no válidas'
 id: 4LF45BWQxDh6r7Bk7chu4P
 status: PUBLISHED
 createdAt: 2022-05-31T18:07:23.568Z

@@ -1,5 +1,5 @@
 ---
-title: How proportional shipping costs are calculated
+title: 'How proportional shipping costs are calculated'
 id: frequentlyAskedQuestions_155
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:51.013Z

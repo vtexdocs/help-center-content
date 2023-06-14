@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con PayU Europe
+title: 'Configurar pago con PayU Europe'
 id: 2S4vyXM5WDNzb7LX7HGb8N
 status: DRAFT
 createdAt: 2022-09-20T19:37:07.737Z

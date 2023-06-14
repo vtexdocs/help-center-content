@@ -1,5 +1,5 @@
 ---
-title: Telesales toolbar
+title: 'Telesales toolbar'
 id: tutorials_5500
 status: PUBLISHED
 createdAt: 2017-04-27T21:48:31.368Z
@@ -18,7 +18,7 @@ The telesales toolbar is displayed at the top of your store's website for users 
 
 Once the registered operator logs into the store environment, the toolbar will be displayed at the top of all sections of the website.
 
-![toolbartelevendas EN](https://images.ctfassets.net/alneenqid6w5/5ed5A8G266JqwpCaYAyDdI/ab7894a0dc03568e5e1745a0adbec2f3/toolbartelevendas_EN.png)
+![toolbartelevendas EN](//images.ctfassets.net/alneenqid6w5/5ed5A8G266JqwpCaYAyDdI/ab7894a0dc03568e5e1745a0adbec2f3/toolbartelevendas_EN.png)
 
 See below the main features of the telesales toolbar:
 *   [Log in as customer](#log-in-as-customer)

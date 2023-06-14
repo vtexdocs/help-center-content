@@ -1,5 +1,5 @@
 ---
-title: Setting up the logistics for inStore
+title: 'Setting up the logistics for inStore'
 id: 2T24PlQ69WswwYKmwc2MSI
 status: DRAFT
 createdAt: 2018-03-15T14:45:36.523Z

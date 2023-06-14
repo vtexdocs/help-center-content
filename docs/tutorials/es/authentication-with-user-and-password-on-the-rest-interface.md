@@ -1,5 +1,5 @@
 ---
-title: Autenticarse con usuario y contraseña en la interfaz REST
+title: 'Autenticarse con usuario y contraseña en la interfaz REST'
 id: tutorials_6058
 status: DRAFT
 createdAt: 2017-04-27T21:49:08.671Z

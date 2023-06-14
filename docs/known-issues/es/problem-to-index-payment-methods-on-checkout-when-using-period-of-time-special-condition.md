@@ -1,5 +1,5 @@
 ---
-title: Problema para indexar los métodos de pago en el checkout cuando se utiliza la condición especial de periodo de tiempo
+title: 'Problema para indexar los métodos de pago en el checkout cuando se utiliza la condición especial de periodo de tiempo'
 id: 1sM1ZtZw0GZ9TFuULg3Igd
 status: PUBLISHED
 createdAt: 2022-04-15T18:34:49.426Z

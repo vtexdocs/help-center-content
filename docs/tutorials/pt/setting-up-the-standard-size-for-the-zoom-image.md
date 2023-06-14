@@ -1,5 +1,5 @@
 ---
-title: Configurar o tamanho padrão da imagem de zoom
+title: 'Configurar o tamanho padrão da imagem de zoom'
 id: 5ZqoOjGFgIkESq2KyyEYus
 status: PUBLISHED
 createdAt: 2017-10-12T15:38:58.079Z

@@ -1,5 +1,5 @@
 ---
-title: La ordenación de los campos de los productos y las SKU no se guarda
+title: 'La ordenación de los campos de los productos y las SKU no se guarda'
 id: 5UsBchV9uWw0eWn6G1d7AN
 status: DRAFT
 createdAt: 2022-02-15T18:20:03.680Z

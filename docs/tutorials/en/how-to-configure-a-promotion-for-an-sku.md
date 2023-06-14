@@ -1,5 +1,5 @@
 ---
-title: Configuring a promotion for an SKU
+title: 'Configuring a promotion for an SKU'
 id: frequentlyAskedQuestions_347
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:52.891Z

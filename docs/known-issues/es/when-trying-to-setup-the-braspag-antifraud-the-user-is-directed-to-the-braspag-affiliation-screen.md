@@ -1,5 +1,5 @@
 ---
-title: Al intentar configurar el antifraude de Braspag, el usuario es dirigido a la pantalla de afiliación de Braspag
+title: 'Al intentar configurar el antifraude de Braspag, el usuario es dirigido a la pantalla de afiliación de Braspag'
 id: YcLMt8AUf9SVN9s3cbKSk
 status: PUBLISHED
 createdAt: 2022-03-28T01:55:40.554Z

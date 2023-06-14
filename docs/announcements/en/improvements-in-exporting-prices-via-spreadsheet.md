@@ -1,5 +1,5 @@
 ---
-title: "Improvements in exporting prices via spreadsheet"
+title: 'Improvements in exporting prices via spreadsheet'
 id: 7L4mGhB2AwkWZD2kelgiIJ
 status: PUBLISHED
 createdAt: 2023-01-13T21:36:13.340Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: improvements-in-exporting-prices-via-spreadsheet
 legacySlug: improvements-in-exporting-prices-via-spreadsheet
-announcementImageID: ""
-announcementSynopsisEN: We have updated the process of exporting prices via spreadsheet to give customers more visibility.
+announcementImageID: ''
+announcementSynopsisEN: 'We have updated the process of exporting prices via spreadsheet to give customers more visibility.'
 ---
 
 In digital commerce, retailers frequently update prices to keep a product competitive. The faster prices change, the greater the chance of converting sales.
@@ -24,7 +24,7 @@ On VTEX, you can change the price many times a day according to your store's str
 
 You can add prices via spreadsheet in two steps, exporting and importing. The price export had its experience improved with new features to give the user more visibility about the status of each price export spreadsheet.
 
-![exportacao en](https://images.ctfassets.net/alneenqid6w5/5mPN6MnLBwQOvlRAccbT58/c5c7b58769f5355ac63eb89c96200b6a/exportacao_en.gif)
+![exportacao en](//images.ctfassets.net/alneenqid6w5/5mPN6MnLBwQOvlRAccbT58/c5c7b58769f5355ac63eb89c96200b6a/exportacao_en.gif)
 
 ## What has changed?
 

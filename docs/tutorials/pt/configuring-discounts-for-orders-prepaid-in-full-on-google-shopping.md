@@ -1,5 +1,5 @@
 ---
-title: Configurar desconto de preço à vista para Google Shopping
+title: 'Configurar desconto de preço à vista para Google Shopping'
 id: 40K3R5d4NogMvCzIWdWt3e
 status: PUBLISHED
 createdAt: 2020-12-18T19:17:16.033Z
@@ -24,7 +24,7 @@ Para configurar o desconto de preço à vista para o Google Shopping é preciso 
 4. Clique no template da sua página de produto na lista de templates.
 5. No componente `richSnippets`, você deve adicionar o parâmetro `paymentSystemId` com o valor do meio de pagamento desejado.
 
-![Screenshot 2020-12-18 Criar preço à vista para Google Shopping](https://images.ctfassets.net/alneenqid6w5/3cZKIpG2uAhDmFTJDslHZk/1bd7628049b5c5b7326df8044ac673f2/Screenshot_2020-12-18_Criar_pre__o____vista_para_Google_Shopping.png)
+![Screenshot 2020-12-18 Criar preço à vista para Google Shopping](//images.ctfassets.net/alneenqid6w5/3cZKIpG2uAhDmFTJDslHZk/1bd7628049b5c5b7326df8044ac673f2/Screenshot_2020-12-18_Criar_pre__o____vista_para_Google_Shopping.png)
 
 6. Após a alteração, clique em __Save Template__ no campo superior para salvar.
 

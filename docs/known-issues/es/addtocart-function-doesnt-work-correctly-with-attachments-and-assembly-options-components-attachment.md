@@ -1,5 +1,5 @@
 ---
-title: La función addToCart no funciona correctamente con los anexos y el anexo del componente de opciones de montaje.
+title: 'La función addToCart no funciona correctamente con los anexos y el anexo del componente de opciones de montaje.'
 id: 6I8vn2K7PWLRwIj2YTY7nZ
 status: PUBLISHED
 createdAt: 2023-05-23T15:40:36.343Z

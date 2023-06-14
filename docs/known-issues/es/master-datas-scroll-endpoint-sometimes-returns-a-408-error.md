@@ -1,5 +1,5 @@
 ---
-title: El endpoint de la API de Scroll eventualmente devuelve el error 408 
+title: 'El endpoint de la API de Scroll eventualmente devuelve el error 408 '
 id: 4d05lBhLsBSgDknxAWaL1A
 status: PUBLISHED
 createdAt: 2019-06-12T18:05:38.623Z

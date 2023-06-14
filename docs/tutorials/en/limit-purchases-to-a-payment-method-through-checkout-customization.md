@@ -1,5 +1,5 @@
 ---
-title: Limit purchases to a payment method through Checkout customization
+title: 'Limit purchases to a payment method through Checkout customization'
 id: 14Z3W5xlHyeSGkSmGyOIEi
 status: DRAFT
 createdAt: 2017-08-18T14:11:04.138Z

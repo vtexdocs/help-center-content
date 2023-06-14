@@ -1,5 +1,5 @@
 ---
-title: "Opt-in de newsletter do Checkout passará a vir desmarcado por padrão"
+title: 'Opt-in de newsletter do Checkout passará a vir desmarcado por padrão'
 id: 5MUJ8mDdxjWZqfqAw2dMg8
 status: PUBLISHED
 createdAt: 2020-04-15T14:00:58.118Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: authors_24
 slug: opt-in-de-newsletter-do-checkout-passara-a-vir-desmarcado-por-padrao
 legacySlug: opt-in-de-newsletter-do-checkout-passara-a-vir-desmarcado-por-padrao
-announcementImageID: ""
-announcementSynopsisPT: A flag de newsletter do Checkout passará a vir desmarcada por padrão. Se você customiza essa flag, fique atento.
+announcementImageID: ''
+announcementSynopsisPT: 'A flag de newsletter do Checkout passará a vir desmarcada por padrão. Se você customiza essa flag, fique atento.'
 ---
 
 A partir do dia __27 de abril de 2020__, a UI do Checkout da VTEX receberá uma mudança importante: a opção de receber a newsletter da loja, que atualmente vem marcada por padrão, passará a vir __desmarcada por padrão__.

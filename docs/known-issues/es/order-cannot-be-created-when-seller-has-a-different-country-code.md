@@ -1,5 +1,5 @@
 ---
-title: No se puede crear un pedido cuando el vendedor tiene un código de país diferente.
+title: 'No se puede crear un pedido cuando el vendedor tiene un código de país diferente.'
 id: 5AaGGDakL4Ys5ZvzD2RNAB
 status: PUBLISHED
 createdAt: 2023-03-03T13:02:18.553Z

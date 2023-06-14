@@ -1,5 +1,5 @@
 ---
-title: As transações feitas com PayU não mudam do status de cancelamento
+title: 'As transações feitas com PayU não mudam do status de cancelamento'
 id: 5pyv7cj5LHOuPAiCXv7MO0
 status: PUBLISHED
 createdAt: 2022-03-03T18:45:17.651Z

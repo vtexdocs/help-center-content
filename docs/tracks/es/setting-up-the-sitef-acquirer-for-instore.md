@@ -1,5 +1,5 @@
 ---
-title: Configurar el adquirente SiTef para el inStore
+title: 'Configurar el adquirente SiTef para el inStore'
 id: 1Vr97VGNNWpaoyXe0rKV8U
 status: DRAFT
 createdAt: 2020-06-28T15:39:28.422Z

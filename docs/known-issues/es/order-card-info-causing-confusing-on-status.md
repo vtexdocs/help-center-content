@@ -1,5 +1,5 @@
 ---
-title: La información de la tarjeta de pedido causa confusión en el Estado
+title: 'La información de la tarjeta de pedido causa confusión en el Estado'
 id: 2f0nEqccswuyWEcwdqiRZS
 status: PUBLISHED
 createdAt: 2022-08-18T19:04:12.824Z

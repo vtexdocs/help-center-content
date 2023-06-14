@@ -1,5 +1,5 @@
 ---
-title: "Lojas VTEX agora têm compactação automática de imagens para WebP"
+title: 'Lojas VTEX agora têm compactação automática de imagens para WebP'
 id: 3yQCLdzwZiqOqOAsq8yOUC
 status: PUBLISHED
 createdAt: 2017-10-25T22:01:26.377Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: authors_24
 slug: lojas-vtex-agora-tem-compactacao-automatica-de-imagens-para-webp
 legacySlug: lojas-vtex-agora-tem-compactacao-automatica-de-imagens-para-webp
-announcementImageID: ""
-announcementSynopsisPT: Lojas VTEX agora contam com compactação automática de imagens para WebP
+announcementImageID: ''
+announcementSynopsisPT: 'Lojas VTEX agora contam com compactação automática de imagens para WebP'
 ---
 
 As lojas VTEX agora contam com compactação automática de imagens para WebP. Este recurso possibilita uma redução de até 25% no peso do site.

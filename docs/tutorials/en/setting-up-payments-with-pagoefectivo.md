@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with PagoEfectivo
+title: 'Setting up payments with PagoEfectivo'
 id: 1GGyNqZSYE2a8ga4UemYyw
 status: PUBLISHED
 createdAt: 2018-04-09T20:26:14.388Z

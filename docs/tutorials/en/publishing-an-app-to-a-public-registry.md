@@ -1,5 +1,5 @@
 ---
-title: Publishing an app to a public Registry
+title: 'Publishing an app to a public Registry'
 id: 5zafCowaD6MCqqMcoaY6MI
 status: DRAFT
 createdAt: 2018-02-22T01:51:02.726Z

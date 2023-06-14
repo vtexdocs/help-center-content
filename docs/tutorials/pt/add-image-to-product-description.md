@@ -1,5 +1,5 @@
 ---
-title: Adicionar imagem à descrição do produto
+title: 'Adicionar imagem à descrição do produto'
 id: 2hQGTAAiyUSoISGSyOK8Y4
 status: PUBLISHED
 createdAt: 2018-01-24T22:32:03.084Z

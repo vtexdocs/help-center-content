@@ -1,5 +1,5 @@
 ---
-title: SKU ativo mesmo sem especificações cadastradas
+title: 'SKU ativo mesmo sem especificações cadastradas'
 id: RVkBbJAVMGwo2cqcq6Okg
 status: PUBLISHED
 createdAt: 2018-06-28T22:50:36.470Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar o device fingerprint para Braspag
+title: 'Configurar o device fingerprint para Braspag'
 id: frequentlyAskedQuestions_488
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:54.261Z
@@ -67,6 +67,6 @@ Preencha com o seguinte código HTML:
 <script src="https://h.online-metrix.net/fp/check.js?org_id={{cs_orgId}}&amp;session_id={{cs_merchantId}}{{cs_sessionId}}" type="text/javascript"></script>
 ```
 
-![braspag fingerprint](https://images.ctfassets.net/alneenqid6w5/JTnL01Ko0DMc7Pu8Bp1CQ/c023534e5c43d1f5fd06ebf9e13dcac6/image.png)
+![braspag fingerprint](//images.ctfassets.net/alneenqid6w5/JTnL01Ko0DMc7Pu8Bp1CQ/c023534e5c43d1f5fd06ebf9e13dcac6/image.png)
 
 Por fim, publique as alterações.

@@ -1,5 +1,5 @@
 ---
-title: "Documentação do VTEX IO tem uma nova casa"
+title: 'Documentação do VTEX IO tem uma nova casa'
 id: 2eOYoB8gNNNSq6zukr8hCH
 status: CHANGED
 createdAt: 2020-04-08T13:51:13.362Z
@@ -10,15 +10,15 @@ productTeam: VTEX IO
 author: 6AcGyun1hSWewU8YcaQiO
 slug: documentacoes-do-vtex-io-tem-uma-nova-casa
 legacySlug: documentacoes-do-vtex-io-tem-uma-nova-casa
-announcementImageID: ""
-announcementSynopsisPT: As documentações do  VTEX IO e VTEX IO Store Framework agora disponíveis no VTEX IO Docs. 
+announcementImageID: ''
+announcementSynopsisPT: 'As documentações do  VTEX IO e VTEX IO Store Framework agora disponíveis no VTEX IO Docs. '
 ---
 
 Desde 13 de março de 2020, as documentações do  VTEX IO e VTEX IO Store Framework não estão mais disponíveis no Help Center da VTEX. 
 
 Agora, elas devem ser acessadas através do [**VTEX IO Docs**](https://vtex.io/docs), plataforma de documentação que reúne todos os conteúdos disponíveis sobre ambas soluções. 
 
-![vtex-io-docs](https://images.ctfassets.net/alneenqid6w5/3mjm7jrAJybhh11YIBsU7Y/3b50ae0f6b3b3252901ad7597f128c2a/vtex-io-docs.png)
+![vtex-io-docs](//images.ctfassets.net/alneenqid6w5/3mjm7jrAJybhh11YIBsU7Y/3b50ae0f6b3b3252901ad7597f128c2a/vtex-io-docs.png)
 
 ## Por que estamos realizando esta mudança?
 
@@ -32,7 +32,7 @@ A decisão de remover do Help Center as documentações do VTEX IO e VTEX IO Sto
 
 Abrigando nossa [documentação de API](https://developers.vtex.com/reference), [guias](https://developers.vtex.com/docs) voltados para desenvolvedores que trabalham com integrações e customizações e [Release Notes](https://developers.vtex.com/changelog) sincronizados com tudo de novo que acontece no nosso produto, o [**Developer Portal**](https://developers.vtex.com) - antigo Developer Docs do Help Center - oferece em um só lugar todos os recursos necessários para os usuários mais técnicos da VTEX. 
 
-![developer-portal](https://images.ctfassets.net/alneenqid6w5/7MvPBbDIyOhzeOXqpJ7IqP/e5bcdea0033bf9dd9ac8b8d2ff120f72/developer-portal.png)
+![developer-portal](//images.ctfassets.net/alneenqid6w5/7MvPBbDIyOhzeOXqpJ7IqP/e5bcdea0033bf9dd9ac8b8d2ff120f72/developer-portal.png)
 
 Com o objetivo de melhorar a experiência de desenvolvimento na VTEX, o Developer Portal em breve também contará com as documentações do VTEX IO e VTEX IO Store Framework - hoje disponibilizadas no VTEX IO Docs. 
 

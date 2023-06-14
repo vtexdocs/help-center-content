@@ -1,5 +1,5 @@
 ---
-title: Is it possible to determine the total minimum value in a cart?
+title: 'Is it possible to determine the total minimum value in a cart?'
 id: NZFfukp8QeCWwm8sM4e2W
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:41.130Z

@@ -1,5 +1,5 @@
 ---
-title: Al relacionar adjuntos a un servicio, otros servicios también se alteran
+title: 'Al relacionar adjuntos a un servicio, otros servicios también se alteran'
 id: 6OdMz37fgWig4cIQciQuk4
 status: PUBLISHED
 createdAt: 2018-02-28T18:49:35.824Z

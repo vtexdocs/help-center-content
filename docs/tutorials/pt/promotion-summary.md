@@ -1,5 +1,5 @@
 ---
-title: Resumo da promoção
+title: 'Resumo da promoção'
 id: 7aSxktBrFi4sUSmuSafZ4h
 status: PUBLISHED
 createdAt: 2021-11-17T16:34:39.963Z
@@ -62,7 +62,7 @@ O resumo da promoção pode exibir três tipos diferentes de alertas. Veja as de
 Alertas de alto risco indicam configurações ou falhas de preenchimento críticas que precisam ser revistas, pois podem comprometer negativamente a atuação da promoção e, consequentemente, a margem de operação da loja.
 
 Exemplo:
-![alert-alto-risco-PT](https://images.ctfassets.net/alneenqid6w5/5RRucT5TJJKfoe39NsQvPx/3f4a74d3d0222b13056831b2e941e8dd/image.png)
+![alert-alto-risco-PT](//images.ctfassets.net/alneenqid6w5/5RRucT5TJJKfoe39NsQvPx/3f4a74d3d0222b13056831b2e941e8dd/image.png)
 
 ### Médio risco
 Alertas de médio risco apresentam avisos de configurações que podem causar efeitos indesejados na promoção.

@@ -1,5 +1,5 @@
 ---
-title: Lista de controles para plantillas
+title: 'Lista de controles para plantillas'
 id: tutorials_563
 status: DRAFT
 createdAt: 2017-04-27T22:00:32.542Z

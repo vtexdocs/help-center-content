@@ -1,5 +1,5 @@
 ---
-title: Configuring the inclusion of a newsletter in Master Data
+title: 'Configuring the inclusion of a newsletter in Master Data'
 id: frequentlyAskedQuestions_1816
 status: DRAFT
 createdAt: 2019-01-24T20:45:58.651Z

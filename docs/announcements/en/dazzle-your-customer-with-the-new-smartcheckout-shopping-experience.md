@@ -1,5 +1,5 @@
 ---
-title: "Dazzle your customer with the new SmartCheckout shopping experience"
+title: 'Dazzle your customer with the new SmartCheckout shopping experience'
 id: 47B91RA1WNhUfTNg5iGU0J
 status: PUBLISHED
 createdAt: 2019-05-21T22:16:15.673Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: authors_59
 slug: dazzle-your-customer-with-the-new-smartcheckout-shopping-experience
 legacySlug: dazzle-your-customer-with-the-new-smartcheckout-shopping-experience
-announcementImageID: ""
-announcementSynopsisEN: Discover Checkout v6's new features
+announcementImageID: ''
+announcementSynopsisEN: 'Discover Checkout v6's new features'
 ---
 
 Your customer's journey ultimately leads to the decisive **checkout** step, the last leg of the shopping experience. This stage defines whether or not your customer will buy the product in question. Therefore, this experience needs to be as **efficient and enjoyable** as possible. 

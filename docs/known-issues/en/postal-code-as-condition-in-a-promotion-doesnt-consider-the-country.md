@@ -1,5 +1,5 @@
 ---
-title: Postal Code as condition in a promotion doesn't consider the country
+title: 'Postal Code as condition in a promotion doesn't consider the country'
 id: 5rPGioNAiWaEmAIMQSACaM
 status: PUBLISHED
 createdAt: 2017-04-05T12:24:01.042Z

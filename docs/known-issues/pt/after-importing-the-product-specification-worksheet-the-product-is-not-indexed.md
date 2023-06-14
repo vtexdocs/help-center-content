@@ -1,5 +1,5 @@
 ---
-title: Ao importar a planilha de Especificação de Produtos o produto não é indexado
+title: 'Ao importar a planilha de Especificação de Produtos o produto não é indexado'
 id: 6MQhj9Kqsg4w0iUuecgGqg
 status: PUBLISHED
 createdAt: 2017-11-27T17:42:48.080Z

@@ -1,5 +1,5 @@
 ---
-title: Archivar tasas / impuestos
+title: 'Archivar tasas / impuestos'
 id: tutorials_2256
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:35.534Z
@@ -16,7 +16,7 @@ subcategory: 18Gsips3u48UYCu0Ku2sWm
 
 Si quiere usted que una tasa creada no permanezca en la lista principal por no ser más utilizada, por ejemplo, puede desplazarla a la lista de archivadas. Al hacerlo, la tasa tendrá automáticamente alterado su status para inactivo. Para hacerlo siga los pasos siguientes:
 
-![ejemplo 1](https://images.ctfassets.net/alneenqid6w5/58rtXjsuvCsCyoyCUmUk4w/4a8253c930bdb09e01886162148e5cf7/ejemplo_1.png)
+![ejemplo 1](//images.ctfassets.net/alneenqid6w5/58rtXjsuvCsCyoyCUmUk4w/4a8253c930bdb09e01886162148e5cf7/ejemplo_1.png)
 
 1. En el Admin VTEX, accede a *Promociones > Impuestos*, o escribe *Impuestos* en la barra de búsqueda en la parte superior de la página.
 2. Busque la tasa que desea archivar.

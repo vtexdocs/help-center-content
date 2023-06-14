@@ -1,5 +1,5 @@
 ---
-title: Initial setup
+title: 'Initial setup'
 id: 3l6F07zCA0eyc2Ki2um8C8
 status: DRAFT
 createdAt: 2018-04-26T19:26:16.134Z

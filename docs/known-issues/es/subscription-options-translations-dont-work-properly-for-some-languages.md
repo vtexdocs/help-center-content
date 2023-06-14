@@ -1,5 +1,5 @@
 ---
-title: Las traducciones de las opciones de suscripción no funcionan correctamente en algunos idiomas.
+title: 'Las traducciones de las opciones de suscripción no funcionan correctamente en algunos idiomas.'
 id: 6trVpxFrfpMIibospU2scp
 status: PUBLISHED
 createdAt: 2023-04-10T16:46:34.794Z

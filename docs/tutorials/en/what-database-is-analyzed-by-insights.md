@@ -1,5 +1,5 @@
 ---
-title: What database is analyzed by Insights?
+title: 'What database is analyzed by Insights?'
 id: 3SPG9N0IMoQcOYouk6S6Y8
 status: DRAFT
 createdAt: 2019-01-24T20:45:35.453Z

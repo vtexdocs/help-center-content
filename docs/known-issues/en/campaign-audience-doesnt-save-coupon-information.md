@@ -1,5 +1,5 @@
 ---
-title: Campaign Audience doesn't save coupon information
+title: 'Campaign Audience doesn't save coupon information'
 id: 2UVQQVLSb0UjDmyWQ5xqEX
 status: PUBLISHED
 createdAt: 2022-10-13T18:18:40.484Z

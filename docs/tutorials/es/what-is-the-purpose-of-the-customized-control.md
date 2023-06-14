@@ -1,5 +1,5 @@
 ---
-title: ¿Para qué sirve el Control Personalizado?
+title: '¿Para qué sirve el Control Personalizado?'
 id: frequentlyAskedQuestions_627
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:57.169Z
@@ -34,7 +34,7 @@ Estos tipos son:
 
 Para crear una tag de control personalizado, basta hacer clic en __Add__, registrar un nombre y una tag, luego seleccionar el tipo.
 
-![cms-custom-elements EN / ES](https://images.ctfassets.net/alneenqid6w5/6pGE6dFRJuawKcMWce0Gem/87bbe6dfb66e75a8402b4be8935eeb18/custom_elements_EN_E_ES.png)
+![cms-custom-elements EN / ES](//images.ctfassets.net/alneenqid6w5/6pGE6dFRJuawKcMWce0Gem/87bbe6dfb66e75a8402b4be8935eeb18/custom_elements_EN_E_ES.png)
 
 <div class="alert alert-warning">
   <p><b>Atención:</b> no cree un control del tipo HTML con un elemento <code>title</code>. Esto puede interferir con el buen funcionamiento de su tienda.</p>

@@ -1,5 +1,5 @@
 ---
-title: Custom video thumbnail image is not displayed on mobile version
+title: 'Custom video thumbnail image is not displayed on mobile version'
 id: 5d71mBz4kXdwX7AhspYhit
 status: PUBLISHED
 createdAt: 2022-03-21T17:51:55.027Z

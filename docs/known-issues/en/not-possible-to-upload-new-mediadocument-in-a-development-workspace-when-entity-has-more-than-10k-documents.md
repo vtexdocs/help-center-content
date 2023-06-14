@@ -1,5 +1,5 @@
 ---
-title: Not possible to upload new media/document in a development workspace when entity has more than 10k documents
+title: 'Not possible to upload new media/document in a development workspace when entity has more than 10k documents'
 id: zhDX1xoXAifH9tYroXCFn
 status: PUBLISHED
 createdAt: 2023-04-24T20:01:04.211Z

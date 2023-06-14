@@ -1,5 +1,5 @@
 ---
-title: How does Netshoes integration work?
+title: 'How does Netshoes integration work?'
 id: 4WnhtMXAw0EgmEwiqgaOIu
 status: PUBLISHED
 createdAt: 2018-07-09T13:24:54.048Z

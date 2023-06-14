@@ -1,5 +1,5 @@
 ---
-title: Faça um loop na janela pop-up de autenticação quando a primeira condição de pagamento exigir autenticação
+title: 'Faça um loop na janela pop-up de autenticação quando a primeira condição de pagamento exigir autenticação'
 id: 7fU6wnrTjS0aJqRmertSFg
 status: PUBLISHED
 createdAt: 2023-06-14T17:54:36.973Z

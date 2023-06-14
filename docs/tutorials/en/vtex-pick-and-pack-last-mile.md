@@ -1,5 +1,5 @@
 ---
-title: VTEX Pick and Pack: Last Mile
+title: 'VTEX Pick and Pack: Last Mile'
 id: HN7WKV0xoq2ssVjsJlfzr
 status: PUBLISHED
 createdAt: 2023-04-10T16:01:14.613Z

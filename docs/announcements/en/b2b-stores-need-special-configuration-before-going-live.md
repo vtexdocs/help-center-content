@@ -1,5 +1,5 @@
 ---
-title: "B2B stores now need special configuration before going live"
+title: 'B2B stores now need special configuration before going live'
 id: 4XcRdSvBm4kKQB44gQ4FwT
 status: CHANGED
 createdAt: 2020-05-15T14:57:18.346Z
@@ -10,8 +10,8 @@ productTeam: Reliability
 author: 127RQ7SUoFfyTh5gbXUpdM
 slug: b2b-stores-need-special-configuration-before-going-live
 legacySlug: b2b-stores-need-special-configuration-before-going-live
-announcementImageID: ""
-announcementSynopsisEN: B2B stores need to be specially configured by the VTEX team.
+announcementImageID: ''
+announcementSynopsisEN: 'B2B stores need to be specially configured by the VTEX team.'
 ---
 
 

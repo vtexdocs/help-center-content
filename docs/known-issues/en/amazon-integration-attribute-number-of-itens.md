@@ -1,5 +1,5 @@
 ---
-title: Amazon integration attribute Number of itens
+title: 'Amazon integration attribute Number of itens'
 id: 75Afw210mMY9h6dbk3AV8V
 status: PUBLISHED
 createdAt: 2022-04-07T12:18:04.361Z

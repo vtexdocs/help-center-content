@@ -1,5 +1,5 @@
 ---
-title: Setting up Paymentez gateway
+title: 'Setting up Paymentez gateway'
 id: 7zmH2WCtVuAoUUQWyU2qgO
 status: PUBLISHED
 createdAt: 2018-03-28T17:47:41.909Z

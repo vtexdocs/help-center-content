@@ -1,5 +1,5 @@
 ---
-title: Melhorando o SEO das Páginas de lista de produtos
+title: 'Melhorando o SEO das Páginas de lista de produtos'
 id: UrQtlKAMuSaLBP5wG9ftG
 status: PUBLISHED
 createdAt: 2021-11-04T19:36:00.442Z

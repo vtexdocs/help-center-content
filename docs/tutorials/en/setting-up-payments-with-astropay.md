@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Astropay
+title: 'Setting up payments with Astropay'
 id: 1A5hrnp3wLTlkUkYLlielB
 status: PUBLISHED
 createdAt: 2022-08-15T18:20:38.640Z

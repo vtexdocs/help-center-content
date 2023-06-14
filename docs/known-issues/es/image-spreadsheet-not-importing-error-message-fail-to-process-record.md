@@ -1,5 +1,5 @@
 ---
-title: La hoja de cálculo de imágenes no se importa. Mensaje de error: Fallo al procesar el registro.
+title: 'La hoja de cálculo de imágenes no se importa. Mensaje de error: Fallo al procesar el registro.'
 id: 4HKn7B4b4Au5NFfg87Zu6T
 status: PUBLISHED
 createdAt: 2022-11-04T12:17:16.480Z

@@ -1,5 +1,5 @@
 ---
-title: Setting up a marketplace trade policy
+title: 'Setting up a marketplace trade policy'
 id: 4rbhQuuWlUvOp4oOeBlbiC
 status: PUBLISHED
 createdAt: 2021-02-22T19:46:30.515Z

@@ -1,5 +1,5 @@
 ---
-title: Cómo ingresar un correo electrónico de operador de televentas personificado con el Session Manager
+title: 'Cómo ingresar un correo electrónico de operador de televentas personificado con el Session Manager'
 id: 4tT90hWRChUy84UClF8pC
 status: DRAFT
 createdAt: 2020-05-29T13:00:15.053Z

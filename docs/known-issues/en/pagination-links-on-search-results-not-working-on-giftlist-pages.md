@@ -1,5 +1,5 @@
 ---
-title: Pagination links on Search Results not working on Giftlist Pages
+title: 'Pagination links on Search Results not working on Giftlist Pages'
 id: 1w6h5MwZthKMM8rvqXZtQi
 status: PUBLISHED
 createdAt: 2022-11-02T14:01:35.650Z

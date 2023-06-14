@@ -1,5 +1,5 @@
 ---
-title: Publicar a app no Registro da conta atual
+title: 'Publicar a app no Registro da conta atual'
 id: 5rOmrv2O88c24CcIK8EqU6
 status: DRAFT
 createdAt: 2017-09-12T21:22:12.157Z

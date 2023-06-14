@@ -1,5 +1,5 @@
 ---
-title: Setting up Bit.One gateway
+title: 'Setting up Bit.One gateway'
 id: 6uK38PBmBUgEqGCY4uoAIq
 status: DRAFT
 createdAt: 2018-05-02T19:56:44.890Z

@@ -1,5 +1,5 @@
 ---
-title: Cómo utilizar el control de meta tags
+title: 'Cómo utilizar el control de meta tags'
 id: 2OPiSPubgcEqIikAWsCouk
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:38.270Z

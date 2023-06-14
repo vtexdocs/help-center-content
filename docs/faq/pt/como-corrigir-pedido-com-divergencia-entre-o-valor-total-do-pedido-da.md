@@ -1,5 +1,5 @@
 ---
-title: Como corrigir divergências de valores do produto na integração com a Magazine Luiza?
+title: 'Como corrigir divergências de valores do produto na integração com a Magazine Luiza?'
 id: oqLsT8s8KSlRsEWxu6jX9
 status: DRAFT
 createdAt: 2019-03-20T16:38:03.548Z

@@ -1,5 +1,5 @@
 ---
-title: Customizing VTEX Sales App
+title: 'Customizing VTEX Sales App'
 id: Rby973h1l9tEM4C1YrzwZ
 status: PUBLISHED
 createdAt: 2021-09-16T00:55:10.885Z

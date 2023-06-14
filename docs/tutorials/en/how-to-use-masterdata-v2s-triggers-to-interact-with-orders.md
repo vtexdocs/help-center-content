@@ -1,5 +1,5 @@
 ---
-title: Use v2 triggers to interact with orders
+title: 'Use v2 triggers to interact with orders'
 id: 4cqms9Z186yQQMvdxjflAg
 status: DRAFT
 createdAt: 2019-01-14T15:29:01.109Z

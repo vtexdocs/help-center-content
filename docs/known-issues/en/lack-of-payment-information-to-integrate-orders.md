@@ -1,5 +1,5 @@
 ---
-title: Lack of payment information to integrate orders (when there are retries with the connector)
+title: 'Lack of payment information to integrate orders (when there are retries with the connector)'
 id: 5WMBV2GRuo2mqmyCkKmwsG
 status: PUBLISHED
 createdAt: 2018-03-19T13:30:56.334Z

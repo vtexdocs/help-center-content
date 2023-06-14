@@ -1,5 +1,5 @@
 ---
-title: Sinónimos
+title: 'Sinónimos'
 id: 1pxAWPEglBey1UFdvcetZV
 status: PUBLISHED
 createdAt: 2019-11-29T12:01:19.985Z

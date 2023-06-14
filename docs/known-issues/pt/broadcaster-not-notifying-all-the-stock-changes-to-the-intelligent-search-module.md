@@ -1,5 +1,5 @@
 ---
-title: Emissora que não notifica todas as mudanças de estoque no módulo de Busca Inteligente
+title: 'Emissora que não notifica todas as mudanças de estoque no módulo de Busca Inteligente'
 id: XLozPnuonjPImtZa8bWAz
 status: PUBLISHED
 createdAt: 2022-10-24T12:26:59.536Z

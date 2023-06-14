@@ -1,5 +1,5 @@
 ---
-title: Botão de adicionar marca na busca do cadastro de produtos não funciona
+title: 'Botão de adicionar marca na busca do cadastro de produtos não funciona'
 id: 6M7DbhKp3OIsYUUGG2uaYU
 status: PUBLISHED
 createdAt: 2018-03-23T19:29:09.783Z

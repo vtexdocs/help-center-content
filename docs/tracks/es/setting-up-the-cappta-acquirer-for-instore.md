@@ -1,5 +1,5 @@
 ---
-title: Configurar el adquirente Cappta para el inStore
+title: 'Configurar el adquirente Cappta para el inStore'
 id: 5FuKPBLD27Izx6Ou40CI6F
 status: DRAFT
 createdAt: 2020-06-28T15:24:26.367Z

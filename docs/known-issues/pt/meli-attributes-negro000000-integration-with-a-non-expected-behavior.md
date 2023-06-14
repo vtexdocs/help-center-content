@@ -1,5 +1,5 @@
 ---
-title: [Atributos da integração Negro_#000000 com um comportamento não esperado
+title: '[Atributos da integração Negro_#000000 com um comportamento não esperado'
 id: 1GPrObE1SQPP4ScyNHyjDt
 status: PUBLISHED
 createdAt: 2022-09-19T14:04:56.594Z

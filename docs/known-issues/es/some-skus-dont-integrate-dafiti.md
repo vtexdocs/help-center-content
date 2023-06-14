@@ -1,5 +1,5 @@
 ---
-title: Algunos skus no se integran - Dafiti
+title: 'Algunos skus no se integran - Dafiti'
 id: 25aMinfLherQ7nKOhomTtc
 status: PUBLISHED
 createdAt: 2022-09-26T23:44:52.246Z

@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo identificar cual archivo JavaScript está aplicado en una página?
+title: '¿Cómo identificar cual archivo JavaScript está aplicado en una página?'
 id: frequentlyAskedQuestions_6132
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:02.714Z

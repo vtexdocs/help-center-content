@@ -1,5 +1,5 @@
 ---
-title: Configurar gateway maxiPago! con MaxiPagoV3
+title: 'Configurar gateway maxiPago! con MaxiPagoV3'
 id: 1J2LXYN5QMCCcqw6gqUgUG
 status: DRAFT
 createdAt: 2018-04-24T13:34:20.772Z

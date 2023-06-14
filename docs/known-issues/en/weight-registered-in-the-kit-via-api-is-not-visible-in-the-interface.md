@@ -1,5 +1,5 @@
 ---
-title: Weight registered in the kit via API is not visible in the interface
+title: 'Weight registered in the kit via API is not visible in the interface'
 id: 3pXAznG51YoUquomEmaeUi
 status: PUBLISHED
 createdAt: 2018-08-06T22:31:30.571Z

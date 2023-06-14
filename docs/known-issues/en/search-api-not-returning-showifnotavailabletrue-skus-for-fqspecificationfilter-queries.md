@@ -1,5 +1,5 @@
 ---
-title: Search API not returning showIfNotAvailable=true SKUs for &fq=specificationFilter queries.
+title: 'Search API not returning showIfNotAvailable=true SKUs for &fq=specificationFilter queries.'
 id: 7p26JmS8pyPA8H0b1QJHyU
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:27.329Z

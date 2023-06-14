@@ -1,5 +1,5 @@
 ---
-title: Location's details page (Beta)
+title: 'Location's details page (Beta)'
 id: 3se4QBRYsNCwC8Wo56J6zG
 status: PUBLISHED
 createdAt: 2023-05-09T16:24:38.315Z

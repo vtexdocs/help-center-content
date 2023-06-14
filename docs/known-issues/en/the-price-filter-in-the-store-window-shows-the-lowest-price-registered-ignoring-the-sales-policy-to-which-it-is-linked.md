@@ -1,5 +1,5 @@
 ---
-title: The price filter in the store window shows the lowest price registered, ignoring the sales policy to which it is linked
+title: 'The price filter in the store window shows the lowest price registered, ignoring the sales policy to which it is linked'
 id: 1xbpUOsLDGIgqeQ6UCCgK0
 status: PUBLISHED
 createdAt: 2017-04-03T20:54:18.423Z

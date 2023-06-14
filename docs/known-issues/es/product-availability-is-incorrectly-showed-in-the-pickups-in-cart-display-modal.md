@@ -1,5 +1,5 @@
 ---
-title: La disponibilidad del producto se muestra incorrectamente en el modo de visualización de las recogidas en el carro
+title: 'La disponibilidad del producto se muestra incorrectamente en el modo de visualización de las recogidas en el carro'
 id: 6aoRWAMSGDwcuUPvGd8bI9
 status: PUBLISHED
 createdAt: 2022-03-30T17:24:21.013Z

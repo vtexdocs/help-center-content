@@ -1,5 +1,5 @@
 ---
-title: Exporting orders in Orders module
+title: 'Exporting orders in Orders module'
 id: tutorials_6417
 status: PUBLISHED
 createdAt: 2017-04-27T21:48:52.052Z

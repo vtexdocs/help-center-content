@@ -1,5 +1,5 @@
 ---
-title: PSE redirect does not happen when the user chooses to pay with Giftcard and PSE
+title: 'PSE redirect does not happen when the user chooses to pay with Giftcard and PSE'
 id: 7IAYArdAUuRd5XYCEJ7LPA
 status: DRAFT
 createdAt: 2022-05-17T14:53:16.834Z

@@ -1,5 +1,5 @@
 ---
-title: Documentação de homologação para a AppStore
+title: 'Documentação de homologação para a AppStore'
 id: Y87JaGVk2qOYiiouMSU4G
 status: DRAFT
 createdAt: 2018-10-23T22:18:45.145Z

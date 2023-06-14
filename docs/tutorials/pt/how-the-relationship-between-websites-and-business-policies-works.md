@@ -1,5 +1,5 @@
 ---
-title: Como funciona a relação entre websites e políticas comerciais
+title: 'Como funciona a relação entre websites e políticas comerciais'
 id: 1VuakBcyNOgg4AM4cUeeQg
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:42.855Z

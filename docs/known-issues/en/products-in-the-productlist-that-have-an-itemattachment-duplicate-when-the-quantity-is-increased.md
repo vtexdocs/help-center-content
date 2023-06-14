@@ -1,5 +1,5 @@
 ---
-title: Products in the 'product-list' that have an 'itemAttachment' duplicate when the quantity is increased
+title: 'Products in the 'product-list' that have an 'itemAttachment' duplicate when the quantity is increased'
 id: 4QybxJRoj7wLNvN7NG2FLA
 status: PUBLISHED
 createdAt: 2022-01-24T21:19:51.135Z

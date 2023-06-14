@@ -1,5 +1,5 @@
 ---
-title: La API para listar los puntos de recogida no devuelve el campo additionalInfo
+title: 'La API para listar los puntos de recogida no devuelve el campo additionalInfo'
 id: 5YY5srSA2ZRiOSZiMY9UF9
 status: PUBLISHED
 createdAt: 2022-09-02T12:09:09.980Z

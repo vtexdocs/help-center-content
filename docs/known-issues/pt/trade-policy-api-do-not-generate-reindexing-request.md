@@ -1,5 +1,5 @@
 ---
-title: A API de política comercial não gera solicitação de reindexação
+title: 'A API de política comercial não gera solicitação de reindexação'
 id: 6xAm1zg05zDB3ff8rOloMR
 status: PUBLISHED
 createdAt: 2023-04-28T18:52:41.010Z

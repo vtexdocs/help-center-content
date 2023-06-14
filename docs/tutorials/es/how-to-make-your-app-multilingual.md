@@ -1,5 +1,5 @@
 ---
-title: Cómo crear una app multilingüe
+title: 'Cómo crear una app multilingüe'
 id: 7kxGvpbS8MkaMAS4UqIoKs
 status: DRAFT
 createdAt: 2018-03-06T15:12:14.213Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar boleto registrado Bradesco
+title: 'Configurar boleto registrado Bradesco'
 id: bbnXBjvKOkWYiOosmASiA
 status: DRAFT
 createdAt: 2018-03-20T22:08:43.187Z

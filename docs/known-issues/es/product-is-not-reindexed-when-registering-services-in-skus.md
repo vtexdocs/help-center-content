@@ -1,5 +1,5 @@
 ---
-title: El producto no es reindexado al registrarse servicios en los SKUs
+title: 'El producto no es reindexado al registrarse servicios en los SKUs'
 id: 3shcZ8gz2MM8QUyGiS0qUq
 status: PUBLISHED
 createdAt: 2018-06-28T23:47:58.354Z

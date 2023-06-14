@@ -1,5 +1,5 @@
 ---
-title: O menu suspenso Selecionar especificações do Portal do Vendedor não está funcionando corretamente
+title: 'O menu suspenso Selecionar especificações do Portal do Vendedor não está funcionando corretamente'
 id: 7DeU9mKh7gseN7svVPtDzb
 status: PUBLISHED
 createdAt: 2022-12-06T14:27:57.920Z

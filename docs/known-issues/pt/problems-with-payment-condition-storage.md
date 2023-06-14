@@ -1,5 +1,5 @@
 ---
-title: Problemas com o armazenamento das condições de pagamento
+title: 'Problemas com o armazenamento das condições de pagamento'
 id: 5PjlMyI7sWJIjVucy0hmVM
 status: PUBLISHED
 createdAt: 2022-03-13T21:39:19.155Z

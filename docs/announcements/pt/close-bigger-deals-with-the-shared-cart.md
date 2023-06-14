@@ -1,5 +1,5 @@
 ---
-title: "Faça vendas maiores com o carrinho compartilhado"
+title: 'Faça vendas maiores com o carrinho compartilhado'
 id: 1gvY2p1Rc9hjkfyVvOHY2C
 status: PUBLISHED
 createdAt: 2019-02-18T21:26:10.613Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: 245tA425AIeioKAk2eaiwS
 slug: faca-vendas-maiores-com-o-carrinho-compartilhado
 legacySlug: faca-vendas-maiores-com-o-carrinho-compartilhado
-announcementImageID: ""
-announcementSynopsisPT: O carrinho compartilhado já está disponível para todas as lojas, permitindo que mais de um cliente interaja com ele.
+announcementImageID: ''
+announcementSynopsisPT: 'O carrinho compartilhado já está disponível para todas as lojas, permitindo que mais de um cliente interaja com ele.'
 ---
 
 Acabamos de lançar em stable o carrinho compartilhado, funcionalidade que permite a mais de um cliente adicionar, retirar ou atualizar produtos e dados de um mesmo carrinho. Assim, sua loja pode realizar vendas maiores e ganhar maior eficiência operacional, enquanto seus clientes podem ser organizar para aproveitar promoções.

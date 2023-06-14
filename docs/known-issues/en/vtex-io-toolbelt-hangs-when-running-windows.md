@@ -1,5 +1,5 @@
 ---
-title: VTEX IO Toolbelt hangs when running Windows
+title: 'VTEX IO Toolbelt hangs when running Windows'
 id: 5gWrgOvFZXEoDOJFMrqGoa
 status: DRAFT
 createdAt: 2019-02-06T16:15:59.916Z

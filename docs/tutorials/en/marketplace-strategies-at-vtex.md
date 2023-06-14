@@ -1,5 +1,5 @@
 ---
-title: Marketplace strategies at VTEX
+title: 'Marketplace strategies at VTEX'
 id: tutorials_402
 status: PUBLISHED
 createdAt: 2017-04-27T22:06:47.209Z

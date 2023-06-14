@@ -1,5 +1,5 @@
 ---
-title: Amazon Missing Required Attributes Errors
+title: 'Amazon Missing Required Attributes Errors'
 id: 4sGZnPe95iKCQaXzpQGgqX
 status: DRAFT
 createdAt: 2022-02-11T01:21:21.932Z

@@ -1,5 +1,5 @@
 ---
-title: "Facebook Business Extension: Conversions API updates"
+title: 'Facebook Business Extension: Conversions API updates'
 id: 5lsu1b7jkWk9NlTaxfkoqs
 status: PUBLISHED
 createdAt: 2022-07-27T18:39:45.215Z
@@ -10,8 +10,8 @@ productTeam: Apps
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: facebook-business-extension-conversions-api-updates
 legacySlug: facebook-business-extension-conversions-api-updates
-announcementImageID: ""
-announcementSynopsisEN: What's new in Conversions API for the Facebook Business Extension app.
+announcementImageID: ''
+announcementSynopsisEN: 'What's new in Conversions API for the Facebook Business Extension app.'
 ---
 
 The [Facebook Business Extension](https://apps.vtex.com/vtex-facebook-fbe/p) app, available for free in the VTEX App Store, allows you to streamline the integration between VTEX stores and the Facebook Manager platform, making it easier to offer products in yet another sales channel.

@@ -1,5 +1,5 @@
 ---
-title: Identificando um erro de layout 
+title: 'Identificando um erro de layout '
 id: 637WHNV6I8q4gKoQO4CWcA
 status: DRAFT
 createdAt: 2017-07-10T22:14:00.960Z

@@ -1,5 +1,5 @@
 ---
-title: Trade Policy API do not generate reindexing request
+title: 'Trade Policy API do not generate reindexing request'
 id: 6xAm1zg05zDB3ff8rOloMR
 status: PUBLISHED
 createdAt: 2023-04-28T18:52:41.010Z

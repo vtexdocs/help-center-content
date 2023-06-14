@@ -1,5 +1,5 @@
 ---
-title: Scheduled banners doesn't work properly
+title: 'Scheduled banners doesn't work properly'
 id: 4bIdOHIxrFOpbI94HugWf7
 status: PUBLISHED
 createdAt: 2022-03-21T17:52:05.046Z

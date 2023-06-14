@@ -1,5 +1,5 @@
 ---
-title: Installing an app
+title: 'Installing an app'
 id: 4zR4uP5teMsyMI2eagkGKo
 status: DRAFT
 createdAt: 2018-02-22T01:56:56.752Z

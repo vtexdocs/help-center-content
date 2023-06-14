@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com Pagaleve
+title: 'Configurar pagamento com Pagaleve'
 id: 3ro5eb99noG7T4QpoQaJI5
 status: PUBLISHED
 createdAt: 2022-06-22T16:26:18.290Z

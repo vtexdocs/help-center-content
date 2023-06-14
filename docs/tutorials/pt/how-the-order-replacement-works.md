@@ -1,5 +1,5 @@
 ---
-title: Como funciona a Substituição de Pedidos
+title: 'Como funciona a Substituição de Pedidos'
 id: 3aBxdbUPKgweug68YyK8oQ
 status: DRAFT
 createdAt: 2017-05-25T18:12:10.611Z
@@ -63,7 +63,7 @@ Com essa funcionalidade, os usuários da sua loja ganham uma página de Meus Ped
 
 ![meu pedidos1 PT](//images.contentful.com/alneenqid6w5/3HQW2z7EfmokwYcWWCae8C/f0b0a251aecf8b2e140ad9a1ec2ee3c9/meu_pedidos1_PT.png)
 
-![meus pedidos3 PT](https://images.ctfassets.net/alneenqid6w5/Np1Rhp4HIsQ6ocyOcqG4i/291263f717dd3da2ef8a027b5a1534e6/meus_pedidos3_PT.png)
+![meus pedidos3 PT](//images.ctfassets.net/alneenqid6w5/Np1Rhp4HIsQ6ocyOcqG4i/291263f717dd3da2ef8a027b5a1534e6/meus_pedidos3_PT.png)
 
 Ao selecionar **Alterar pedido**, o cliente é levado para uma tela onde escolhe qual informação gostaria de substituir:
 

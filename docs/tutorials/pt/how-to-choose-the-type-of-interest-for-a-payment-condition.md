@@ -1,5 +1,5 @@
 ---
-title: Como escolher o tipo de juros de uma condição de pagamento
+title: 'Como escolher o tipo de juros de uma condição de pagamento'
 id: 2erloDXDuI6yawWqqcmgIo
 status: PUBLISHED
 createdAt: 2019-01-02T19:05:30.818Z

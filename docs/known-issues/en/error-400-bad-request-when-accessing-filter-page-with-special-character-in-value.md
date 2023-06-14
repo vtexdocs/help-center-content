@@ -1,5 +1,5 @@
 ---
-title: Error 400 (Bad Request) when accessing filter page with special character in value
+title: 'Error 400 (Bad Request) when accessing filter page with special character in value'
 id: 1mHUPIG42A0UUoAwac8IYE
 status: PUBLISHED
 createdAt: 2017-09-18T19:12:57.298Z

@@ -1,5 +1,5 @@
 ---
-title: Error en la lista de regalos - Dirección incompleta
+title: 'Error en la lista de regalos - Dirección incompleta'
 id: 4iwradK1HCvDdbqd3tvn4N
 status: PUBLISHED
 createdAt: 2022-01-23T02:50:33.725Z

@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with PayU South Africa
+title: 'Setting up payments with PayU South Africa'
 id: 2OSeDkC70CFS8k0pWTMMxM
 status: DRAFT
 createdAt: 2022-08-12T20:27:45.058Z

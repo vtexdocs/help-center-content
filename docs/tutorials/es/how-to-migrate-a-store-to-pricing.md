@@ -1,5 +1,5 @@
 ---
-title: Características del Pricing
+title: 'Características del Pricing'
 id: 2b4KuARqwsUw0i8AwqYauK
 status: DRAFT
 createdAt: 2019-01-24T20:45:36.290Z

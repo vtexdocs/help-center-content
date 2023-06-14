@@ -1,5 +1,5 @@
 ---
-title: Usando o Session Manager para rastrear sessões de navegação em lojas VTEX
+title: 'Usando o Session Manager para rastrear sessões de navegação em lojas VTEX'
 id: 1pA0tqsD4BFnJYhQ7ORQBd
 status: DRAFT
 createdAt: 2019-11-19T20:42:07.386Z
@@ -40,7 +40,7 @@ Apps que têm uma dependência de sessão monitoram mudanças nas suas entradas 
 
 Transforms frequentemente disparam outras transforms, repetindo até que nenhuma atualização de parâmetro adicional seja enviada por apps. Esta operação é, naturalmente, cautelosamente monitorada para evitar condições de loop. O diagrama abaixo ilustra um exemplo de ciclo de transform:
 
-![EN - Session Manager](https://images.ctfassets.net/alneenqid6w5/1QWb3hs5wfr3Zj38TnpwHY/162fb09edaf6fca3b5cdf3ce7d5a20b2/Session_Manager.jpg)
+![EN - Session Manager](//images.ctfassets.net/alneenqid6w5/1QWb3hs5wfr3Zj38TnpwHY/162fb09edaf6fca3b5cdf3ce7d5a20b2/Session_Manager.jpg)
 
 1. Uma mudança foi feita no parâmetro de sessão X
 2. A App A monitorava o parâmetro de sessão X, o que disparou a Transform 1

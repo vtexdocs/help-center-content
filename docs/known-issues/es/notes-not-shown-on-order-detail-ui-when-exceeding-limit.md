@@ -1,5 +1,5 @@
 ---
-title: Las notas no se muestran en la interfaz de usuario de los pedidos cuando se supera el límite
+title: 'Las notas no se muestran en la interfaz de usuario de los pedidos cuando se supera el límite'
 id: 4rM3QCtcGExdLM0uFN4tOz
 status: PUBLISHED
 createdAt: 2022-06-03T18:45:04.454Z

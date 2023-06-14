@@ -1,5 +1,5 @@
 ---
-title: La ruta /transaction del sistema actual de tarjetas regalo devuelve un código de estado 200 OK al añadir o eliminar créditos, aunque la tarjeta esté inactiva.
+title: 'La ruta /transaction del sistema actual de tarjetas regalo devuelve un código de estado 200 OK al añadir o eliminar créditos, aunque la tarjeta esté inactiva.'
 id: 4d5oeiLIvxLqmA1uHtZmrw
 status: PUBLISHED
 createdAt: 2023-04-24T20:31:14.640Z

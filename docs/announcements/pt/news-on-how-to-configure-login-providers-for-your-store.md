@@ -1,5 +1,5 @@
 ---
-title: "Novidades em como configurar provedores de login para sua loja"
+title: 'Novidades em como configurar provedores de login para sua loja'
 id: 6tP4uxQJ0BdnDw38hmyeOW
 status: CHANGED
 createdAt: 2020-10-06T17:50:13.106Z
@@ -10,8 +10,8 @@ productTeam: Identity
 author: 4ubliktPJIsvyl1hq91RdK
 slug: novidades-em-como-configurar-provedores-de-login-para-sua-loja
 legacySlug: novidades-em-como-configurar-provedores-de-login-para-sua-loja
-announcementImageID: ""
-announcementSynopsisPT: Novidades em como configurar provedores de login para sua loja
+announcementImageID: ''
+announcementSynopsisPT: 'Novidades em como configurar provedores de login para sua loja'
 ---
 
 A tela de configuração de provedores de login, no admin da sua loja VTEX, agora tem uma interface nova. A partir de 21 de outubro você poderá acessar a nova interface em **Configurações Da Conta** > **Autenticação** no seu menu administrativo. Mais informações podem ser encontradas [nesse artigo](https://help.vtex.com/pt/tutorial/integracao-google-e-facebook-para-login--tutorials_513 "Configurar login com Facebook e Google").

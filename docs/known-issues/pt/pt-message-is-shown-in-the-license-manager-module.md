@@ -1,5 +1,5 @@
 ---
-title: A mensagem PT é mostrada no módulo License Manager
+title: 'A mensagem PT é mostrada no módulo License Manager'
 id: 6nC0EfB2pO2pIyH9HEDDAP
 status: PUBLISHED
 createdAt: 2022-07-19T19:02:51.412Z

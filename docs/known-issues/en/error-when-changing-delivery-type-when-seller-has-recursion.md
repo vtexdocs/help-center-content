@@ -1,5 +1,5 @@
 ---
-title: Error when changing delivery type when seller has recursion
+title: 'Error when changing delivery type when seller has recursion'
 id: 7JLnqVWHz94sQZKMOGUkKC
 status: PUBLISHED
 createdAt: 2022-06-14T14:07:38.881Z

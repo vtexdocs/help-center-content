@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo solicitar una copia de mi boleto de cobro?
+title: '¿Cómo solicitar una copia de mi boleto de cobro?'
 id: 5uIetorejSECKuyS2068mG
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:47.207Z

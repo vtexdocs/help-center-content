@@ -1,5 +1,5 @@
 ---
-title: CultureInfo does not allow values longer than 10 characters
+title: 'CultureInfo does not allow values longer than 10 characters'
 id: fI0HXTnXF5suyo5UL68cc
 status: PUBLISHED
 createdAt: 2022-10-12T14:31:58.090Z

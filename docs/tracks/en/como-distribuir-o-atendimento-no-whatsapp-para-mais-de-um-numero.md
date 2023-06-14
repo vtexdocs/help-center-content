@@ -1,5 +1,5 @@
 ---
-title: How to distribute WhatsApp support to more than one number?
+title: 'How to distribute WhatsApp support to more than one number?'
 id: 4Xgqw105OM7zRdKmdY6avV
 status: PUBLISHED
 createdAt: 2022-08-25T17:49:03.709Z

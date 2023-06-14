@@ -1,5 +1,5 @@
 ---
-title: Cómo identificar split de pedidos en omnichannel
+title: 'Cómo identificar split de pedidos en omnichannel'
 id: 5LuhsjJkEEqU0uysEuIUQO
 status: PUBLISHED
 createdAt: 2018-06-19T06:52:10.893Z

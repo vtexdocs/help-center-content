@@ -1,5 +1,5 @@
 ---
-title: parcelamentoOpções do pedidoO formulário API não leva em conta promoções de parcelas específicas
+title: 'parcelamentoOpções do pedidoO formulário API não leva em conta promoções de parcelas específicas'
 id: YgwSByoCsjqEmWOmuXRU4
 status: PUBLISHED
 createdAt: 2022-08-24T15:53:17.291Z

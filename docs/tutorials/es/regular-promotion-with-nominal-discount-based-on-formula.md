@@ -1,5 +1,5 @@
 ---
-title: Promoción regular con descuento nominal basado en la fórmula
+title: 'Promoción regular con descuento nominal basado en la fórmula'
 id: 2Pwrq6THyGViNedQG381jV
 status: PUBLISHED
 createdAt: 2022-04-18T16:51:30.736Z
@@ -18,7 +18,7 @@ Al crear una [promoción regular](https://help.vtex.com/es/tutorial/registro-pro
 
 Al seleccionar este tipo de descuento, deberás crear una fórmula para definir cuál será el cálculo del descuento que se aplicará. En este artículo, explicaremos cómo crear una fórmula que cumpla con los objetivos de tu promoción.
 
-![tipo-descuento-formula](https://images.ctfassets.net/alneenqid6w5/5NTM35GkPQtUzA6CKDco9q/cb74d4e22b46f159aee6f51a09fe4646/desc-es.PNG)
+![tipo-descuento-formula](//images.ctfassets.net/alneenqid6w5/5NTM35GkPQtUzA6CKDco9q/cb74d4e22b46f159aee6f51a09fe4646/desc-es.PNG)
 
 En general, la fórmula para calcular el descuento nominal de la promoción sigue la misma lógica que las [fórmulas de Microsoft Excel](https://support.microsoft.com/pt-br/office/f%C3%B3rmulas-e-fun%C3%A7%C3%B5es-294d9486-b332-48ed-b489-abe7d0f9eda9), es decir que puedes usar [variables](#variables) (`total`, ` freight` y `quantity`), hacer [operaciones](#operaciones) (suma, resta, multiplicación y división) y aplicar [funciones](#funciones) (`min` y `max`).
 
@@ -77,19 +77,19 @@ De esta manera, la promoción aplicará el valor de descuento más bajo en cada 
 
 Un cliente agregó al carrito un ítem cuyo precio es $ 45. Al calcular el 20% del total del precio, el resultado es 9, ya que `total * 0.2 = 9.` Como 9 está por debajo del valor límite de descuento, el descuento que se aplicará será de $ 9.
 
-![scenario1-es](https://images.ctfassets.net/alneenqid6w5/22tobaXfukykfntCXBpISS/d85aee72b0ba9e25aa9174d1adfa8bd6/scenario1-es.png)
+![scenario1-es](//images.ctfassets.net/alneenqid6w5/22tobaXfukykfntCXBpISS/d85aee72b0ba9e25aa9174d1adfa8bd6/scenario1-es.png)
 
 #### Escenario 2
 
 Otro cliente agregó al carrito un ítem cuyo precio es de $ 2600. Al calcular el 20% de ese valor, el resultado es 520, ya que `total * 0.2 = 520.` Como este valor está por encima del límite ($ 10), el descuento aplicado será de $ 10.
 
-![scenario2-es](https://images.ctfassets.net/alneenqid6w5/6M3rMa2VKBXNtDV44J3x5w/281dfb618c4116d64023a38182f775ae/scenario2-es.png)
+![scenario2-es](//images.ctfassets.net/alneenqid6w5/6M3rMa2VKBXNtDV44J3x5w/281dfb618c4116d64023a38182f775ae/scenario2-es.png)
 
 #### Escenario 3
 
 Un tercer cliente agregó dos ítems al carrito: un ítem tiene un precio de $ 100, y el otro, $ 2600. La suma de estos valores da como resultado $ 2700, por lo tanto, `total = 2700`. Al calcular el 20% del valor total, obtenemos un resultado de 540, ya que `total * 0.2 =  540`. Como este valor está por encima del límite ($ 10), el descuento total aplicado será de $ 10.
 
-![scenario3-es](https://images.ctfassets.net/alneenqid6w5/2lYHI6Iw0pZ8sOyN282TDr/bc0bd5ef72252b31779b9b6df92fbdf4/scenario3-es.png)
+![scenario3-es](//images.ctfassets.net/alneenqid6w5/2lYHI6Iw0pZ8sOyN282TDr/bc0bd5ef72252b31779b9b6df92fbdf4/scenario3-es.png)
 
 El descuento total de $ 10 se distribuye proporcionalmente entre los ítems, teniendo en cuenta el precio y la cantidad de cada uno. Esta distribución la realiza la plataforma de manera automática, siguiendo la lógica que se explica a continuación:
 

@@ -1,5 +1,5 @@
 ---
-title: Ejemplos de promociones
+title: 'Ejemplos de promociones'
 id: 5A8UTc7knvAscxo7e7rMFD
 status: PUBLISHED
 createdAt: 2020-08-28T14:19:25.735Z

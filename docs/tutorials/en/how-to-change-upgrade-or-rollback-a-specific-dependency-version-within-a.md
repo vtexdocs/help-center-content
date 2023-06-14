@@ -1,5 +1,5 @@
 ---
-title: How to change (upgrade or rollback) a specific dependency version within a workspace
+title: 'How to change (upgrade or rollback) a specific dependency version within a workspace'
 id: 3GxKR5gWesEOmUkOW864sg
 status: DRAFT
 createdAt: 2019-01-14T11:58:42.128Z

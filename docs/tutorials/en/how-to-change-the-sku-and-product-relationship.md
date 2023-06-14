@@ -1,5 +1,5 @@
 ---
-title: How to change the SKU and Product relationship
+title: 'How to change the SKU and Product relationship'
 id: 6LEuMI1YYMYMeIwg606Wce
 status: PUBLISHED
 createdAt: 2017-07-04T17:56:33.013Z

@@ -1,5 +1,5 @@
 ---
-title: VTEX Sales App: Desempeño de Ventas
+title: 'VTEX Sales App: Desempeño de Ventas'
 id: 7i4Elt835tatBM6iqZoc56
 status: CHANGED
 createdAt: 2023-05-29T17:39:08.403Z
@@ -22,7 +22,7 @@ Puedes acceder a las métricas de ventas de tu tienda que indican el desempeño 
 2. Haz clic en el botón <i class="fas fa-bars"></i>.
 3. Después, en **Desempeño de ventas**.
 
-![Sales Performance (Store)](https://images.ctfassets.net/alneenqid6w5/2YMohTrMzA23P64djqnLWb/befba785d99d38ac7ae16e4a045ab32a/analytics_en.png)
+![Sales Performance (Store)](//images.ctfassets.net/alneenqid6w5/2YMohTrMzA23P64djqnLWb/befba785d99d38ac7ae16e4a045ab32a/analytics_en.png)
 
 En esa página, tendrás acceso a las siguientes métricas:
 
@@ -36,7 +36,7 @@ En esa página, tendrás acceso a las siguientes métricas:
 
 Para acceder a las métricas específicas de un vendedor, sigue los pasos a continuación:
 
-![Ventas de Bruna - VTEX Sales App](https://images.ctfassets.net/alneenqid6w5/78nJXcuThGbc7cGrOb7CqV/0742350774cffb176c09e1597d24270d/Ventas_de_bruna_-.png)
+![Ventas de Bruna - VTEX Sales App](//images.ctfassets.net/alneenqid6w5/78nJXcuThGbc7cGrOb7CqV/0742350774cffb176c09e1597d24270d/Ventas_de_bruna_-.png)
 
 1. Haz clic en el ícono <i class="far fa-id-badge"></i>.
 2. Selecciona el perfil de un vendedor e introduce la contraseña.

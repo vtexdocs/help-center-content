@@ -1,5 +1,5 @@
 ---
-title: Configurar pagos con Tarjeta de Tienda (cobranded)
+title: 'Configurar pagos con Tarjeta de Tienda (cobranded)'
 id: jrkLK41IjuquUmyKUi86Q
 status: PUBLISHED
 createdAt: 2018-06-25T15:48:13.031Z

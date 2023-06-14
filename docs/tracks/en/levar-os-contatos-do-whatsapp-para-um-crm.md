@@ -1,5 +1,5 @@
 ---
-title: Bringing your WhatsApp contacts into a CRM
+title: 'Bringing your WhatsApp contacts into a CRM'
 id: 5d9MKRl47mVpMZVedhltwC
 status: PUBLISHED
 createdAt: 2022-08-24T20:43:16.284Z

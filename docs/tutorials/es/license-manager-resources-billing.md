@@ -1,5 +1,5 @@
 ---
-title: Recursos del License Manager - Billing
+title: 'Recursos del License Manager - Billing'
 id: 13qKy6rwf9chc8ta90rDcy
 status: DRAFT
 createdAt: 2022-02-16T15:22:39.389Z

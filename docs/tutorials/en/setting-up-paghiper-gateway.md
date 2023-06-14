@@ -1,5 +1,5 @@
 ---
-title: Setting up PagHiper gateway
+title: 'Setting up PagHiper gateway'
 id: I3KXAIIJG0oyyg4A4MykE
 status: PUBLISHED
 createdAt: 2018-04-09T22:06:11.621Z

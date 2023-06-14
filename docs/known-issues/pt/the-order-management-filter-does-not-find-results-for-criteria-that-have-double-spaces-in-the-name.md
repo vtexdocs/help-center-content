@@ -1,5 +1,5 @@
 ---
-title: O filtro de gestão de pedidos não encontra resultados para critérios que possuem espaços duplos no nome
+title: 'O filtro de gestão de pedidos não encontra resultados para critérios que possuem espaços duplos no nome'
 id: 3Z8bOmWhsdFbMX5pMp8wZU
 status: PUBLISHED
 createdAt: 2022-04-29T20:57:35.619Z

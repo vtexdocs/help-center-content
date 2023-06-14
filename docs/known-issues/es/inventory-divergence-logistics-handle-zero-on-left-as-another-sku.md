@@ -1,5 +1,5 @@
 ---
-title: Divergencia de inventario - La logística maneja el cero a la izquierda como otra SKU
+title: 'Divergencia de inventario - La logística maneja el cero a la izquierda como otra SKU'
 id: 3FKaDXw5pWVyUfwgKo6pfV
 status: PUBLISHED
 createdAt: 2022-05-18T15:19:00.037Z

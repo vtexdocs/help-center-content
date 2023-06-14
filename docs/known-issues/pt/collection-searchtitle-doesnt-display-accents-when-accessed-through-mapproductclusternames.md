@@ -1,5 +1,5 @@
 ---
-title: Pesquisa de coleção - o título não exibe acentos quando acessado através de map=productClusterNames
+title: 'Pesquisa de coleção - o título não exibe acentos quando acessado através de map=productClusterNames'
 id: 41m89nYPVQxFaNUXAcGo3X
 status: PUBLISHED
 createdAt: 2022-03-21T17:40:39.850Z

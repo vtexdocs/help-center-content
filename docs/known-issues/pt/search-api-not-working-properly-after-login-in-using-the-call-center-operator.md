@@ -1,5 +1,5 @@
 ---
-title: Busca API que não funciona corretamente após o login no uso do Call Center Operator.
+title: 'Busca API que não funciona corretamente após o login no uso do Call Center Operator.'
 id: 3YxbokaDhYnthzy1dc5VHs
 status: PUBLISHED
 createdAt: 2022-01-21T18:24:15.316Z

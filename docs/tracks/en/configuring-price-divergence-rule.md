@@ -1,5 +1,5 @@
 ---
-title: Configuring Price Divergence rule
+title: 'Configuring Price Divergence rule'
 id: 1AfMKDQWtC7iDDV6reEDog
 status: PUBLISHED
 createdAt: 2021-12-26T20:10:05.459Z

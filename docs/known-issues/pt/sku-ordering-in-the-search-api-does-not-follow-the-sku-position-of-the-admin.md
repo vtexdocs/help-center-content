@@ -1,5 +1,5 @@
 ---
-title: A ordem de SKUs na Search API não segue a posição do SKU do Admin
+title: 'A ordem de SKUs na Search API não segue a posição do SKU do Admin'
 id: 6onugQyL4odM0jExTsMqnZ
 status: PUBLISHED
 createdAt: 2022-02-01T15:33:37.326Z

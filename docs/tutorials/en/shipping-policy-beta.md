@@ -1,5 +1,5 @@
 ---
-title: Shipping policy (Beta)
+title: 'Shipping policy (Beta)'
 id: QJqfPfjGvoXJeuDsHxvUb
 status: DRAFT
 createdAt: 2021-04-22T17:19:04.531Z

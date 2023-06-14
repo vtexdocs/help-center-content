@@ -1,5 +1,5 @@
 ---
-title: Los pedidos de recogida no funcionan como se esperaba
+title: 'Los pedidos de recogida no funcionan como se esperaba'
 id: 3fp47LblCRqrevZwlEakgi
 status: PUBLISHED
 createdAt: 2022-01-12T14:03:31.662Z

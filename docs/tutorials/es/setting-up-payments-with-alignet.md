@@ -1,5 +1,5 @@
 ---
-title: Configurar pagos com Alignet
+title: 'Configurar pagos com Alignet'
 id: 4qfl6jgDyMGA0IuM0siEii
 status: PUBLISHED
 createdAt: 2018-03-28T20:48:01.728Z

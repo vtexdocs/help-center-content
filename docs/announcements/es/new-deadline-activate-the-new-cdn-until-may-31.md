@@ -1,5 +1,5 @@
 ---
-title: "NUEVO PLAZO: active la nueva CDN hasta el 31/05"
+title: 'NUEVO PLAZO: active la nueva CDN hasta el 31/05'
 id: 1NHO2lx3tyWaqcwMG6u62q
 status: PUBLISHED
 createdAt: 2018-04-20T21:14:47.734Z
@@ -10,8 +10,8 @@ productTeam: Reliability
 author: authors_24
 slug: nuevo-plazo-active-la-nueva-cdn-hasta-el-31-05
 legacySlug: nuevo-plazo-active-la-nueva-cdn-hasta-el-31-05
-announcementImageID: ""
-announcementSynopsisES: Activar HTTPS, actualizar el CNAME y solicitar el nuevo CDN antes de la fecha límite evitará problemas en su tienda.
+announcementImageID: ''
+announcementSynopsisES: 'Activar HTTPS, actualizar el CNAME y solicitar el nuevo CDN antes de la fecha límite evitará problemas en su tienda.'
 ---
 
 Debido al gran número de tiendas que no se prepararon para la activación del HTTPS y de el nuevo CDN, decidimos prorrogar el plazo final de migración a __31 de mayo__.

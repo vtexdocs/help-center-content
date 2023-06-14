@@ -1,5 +1,5 @@
 ---
-title: Cómo integrar un proveedor externo de Tarjeta de Regalo a VTEX
+title: 'Cómo integrar un proveedor externo de Tarjeta de Regalo a VTEX'
 id: tutorials_450
 status: PUBLISHED
 createdAt: 2017-04-27T22:05:26.566Z

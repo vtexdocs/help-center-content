@@ -1,5 +1,5 @@
 ---
-title: Guía de integración de ERPs - Pedidos
+title: 'Guía de integración de ERPs - Pedidos'
 id: 3w09vFuYoUKcUyweWguoma
 status: DRAFT
 createdAt: 2017-09-11T22:24:49.039Z

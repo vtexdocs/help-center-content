@@ -1,5 +1,5 @@
 ---
-title: "Flujo de autenticación 3DS2: acepte pagos en línea de forma más segura"
+title: 'Flujo de autenticación 3DS2: acepte pagos en línea de forma más segura'
 id: 6UdTjjVU1AcEQ2aE3Ftxsl
 status: PUBLISHED
 createdAt: 2020-12-21T21:03:33.860Z
@@ -10,8 +10,8 @@ productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: flujo-de-autenticacion-3ds2-acepte-pagos-en-linea-de-forma-mas-segura-1
 legacySlug: flujo-de-autenticacion-3ds2-acepte-pagos-en-linea-de-forma-mas-segura
-announcementImageID: ""
-announcementSynopsisES: El nuevo protocolo implementa un proceso de verificación de datos del cliente final más robusto y moderno
+announcementImageID: ''
+announcementSynopsisES: 'El nuevo protocolo implementa un proceso de verificación de datos del cliente final más robusto y moderno'
 ---
 
 3DS2 es un flujo de autenticación de pagos que reduce la posibilidad de fraude debido a un proceso de verificación más robusto.

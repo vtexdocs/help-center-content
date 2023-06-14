@@ -1,5 +1,5 @@
 ---
-title: Configuring Redirects
+title: 'Configuring Redirects'
 id: 4Gd2wLQFbCwTsh8RUDwSoL
 status: PUBLISHED
 createdAt: 2019-11-22T23:40:25.940Z
@@ -25,7 +25,7 @@ To configure a redirect, follow the steps below.
 
 You must fill in the fields below.
 
-![redirecionamentos-adminv4-EN](https://images.ctfassets.net/alneenqid6w5/69CWrwXk38Qxwb9fNNzYyc/c67dd6c3ebe5563f2a32492db7a94298/image.png)
+![redirecionamentos-adminv4-EN](//images.ctfassets.net/alneenqid6w5/69CWrwXk38Qxwb9fNNzYyc/c67dd6c3ebe5563f2a32492db7a94298/image.png)
 
 ### General information
 

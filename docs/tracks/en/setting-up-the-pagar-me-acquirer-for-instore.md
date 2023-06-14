@@ -1,5 +1,5 @@
 ---
-title: Setting up the Pagar.me acquirer for inStore
+title: 'Setting up the Pagar.me acquirer for inStore'
 id: 1obqdkoH82yFWtaMbwcJKx
 status: DRAFT
 createdAt: 2020-06-28T15:32:06.737Z

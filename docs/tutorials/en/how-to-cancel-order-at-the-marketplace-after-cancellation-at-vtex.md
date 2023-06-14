@@ -1,5 +1,5 @@
 ---
-title: How to cancel order at the marketplace after cancellation at VTEX
+title: 'How to cancel order at the marketplace after cancellation at VTEX'
 id: 1MwOfwKlTe6k6c4WUeMc8G
 status: DRAFT
 createdAt: 2017-08-31T22:05:27.307Z

@@ -1,5 +1,5 @@
 ---
-title: Planilha de frete
+title: 'Planilha de frete'
 id: tutorials_127
 status: PUBLISHED
 createdAt: 2019-02-22T19:36:18.509Z
@@ -180,7 +180,7 @@ Para fins de usabilidade de termos, utilizamos em nossa documentação o termo "
 
 Veja abaixo um exemplo de preenchimento dos campos, considerando o formato aceito em cada coluna. 
 
-![modelo_planilhanumerica](https://images.ctfassets.net/alneenqid6w5/15Dc2cfsXWbIwSt2vypWN3/20628e9acf5336c3fefcc84d334c08ec/freight_-_Debora_Moreno.png)
+![modelo_planilhanumerica](//images.ctfassets.net/alneenqid6w5/15Dc2cfsXWbIwSt2vypWN3/20628e9acf5336c3fefcc84d334c08ec/freight_-_Debora_Moreno.png)
 
 ### Planilha para os Correios
 

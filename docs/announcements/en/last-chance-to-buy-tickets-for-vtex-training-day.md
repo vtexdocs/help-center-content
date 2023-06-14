@@ -1,5 +1,5 @@
 ---
-title: "Last chance to buy tickets for VTEX Training Day"
+title: 'Last chance to buy tickets for VTEX Training Day'
 id: 2EljRWj5qo2qiW00uSY4ki
 status: PUBLISHED
 createdAt: 2018-11-14T19:18:25.180Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 245tA425AIeioKAk2eaiwS
 slug: last-chance-to-buy-tickets-for-vtex-training-day
 legacySlug: last-chance-to-buy-tickets-for-vtex-training-day
-announcementImageID: ""
-announcementSynopsisEN: This is your chance to deep dive in the platform and become a true VTEX expert.
+announcementImageID: ''
+announcementSynopsisEN: 'This is your chance to deep dive in the platform and become a true VTEX expert.'
 ---
 
 The event that brings together the brains behind VTEX is just around the corner, and we're running out of tickets. But you can still get the chance to attend it.  There will be four rooms with a complete schedule of specialized content and highly qualified training sessions. 

@@ -1,5 +1,5 @@
 ---
-title: "Inventario y envío: comprenda lo que cambió en la pestaña "Paneles"."
+title: 'Inventario y envío: comprenda lo que cambió en la pestaña "Paneles".'
 id: 1YNfaeNG206XKI2UbGBRSl
 status: CHANGED
 createdAt: 2020-05-05T18:56:51.879Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: inventario-y-envio-comprenda-lo-que-cambio-en-la-pestana-paneles
 legacySlug: inventario-y-envio-comprenda-lo-que-cambio-en-la-pestana-paneles
-announcementImageID: ""
-announcementSynopsisES: Mejoramos la usabilidad del módulo de “Paneles”, y cambiamos su nombre para “Estrategia de Envío”
+announcementImageID: ''
+announcementSynopsisES: 'Mejoramos la usabilidad del módulo de “Paneles”, y cambiamos su nombre para “Estrategia de Envío”'
 ---
 
 El módulo Inventario y Envío es donde usted realiza toda la gestión logística de su tienda. Dentro de este módulo, en la pestaña "Paneles", se configuran las transportadoras, los muelles y los  inventarios vinculados con su operación. Pensando en mejorar la experiencia del módulo, hemos actualizado esta funcionalidad.

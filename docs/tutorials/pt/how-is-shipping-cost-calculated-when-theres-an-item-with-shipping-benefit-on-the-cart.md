@@ -1,5 +1,5 @@
 ---
-title: Como é calculado o custo de envio quando há um item com promoção de frete no carrinho?
+title: 'Como é calculado o custo de envio quando há um item com promoção de frete no carrinho?'
 id: 3EaQjxkErC6OKAWCWYSMiw
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:34.018Z

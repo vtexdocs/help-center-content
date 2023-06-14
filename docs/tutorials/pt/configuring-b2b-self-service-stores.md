@@ -1,5 +1,5 @@
 ---
-title: Configurar loja B2B self-service
+title: 'Configurar loja B2B self-service'
 id: 4576nMaRKk4madDZ7liiXS
 status: PUBLISHED
 createdAt: 2021-03-30T13:11:03.141Z

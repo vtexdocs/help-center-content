@@ -1,5 +1,5 @@
 ---
-title: White label seller
+title: 'White label seller'
 id: 5orlGHyDHGAYciQ64oEgKa
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:34.034Z

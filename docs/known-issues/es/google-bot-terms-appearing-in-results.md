@@ -1,5 +1,5 @@
 ---
-title: Términos del bot de Google que aparecen en los resultados.
+title: 'Términos del bot de Google que aparecen en los resultados.'
 id: 395c3GQH2zuJpjsUL6yHp7
 status: PUBLISHED
 createdAt: 2023-05-19T17:32:32.877Z

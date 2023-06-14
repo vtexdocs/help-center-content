@@ -1,5 +1,5 @@
 ---
-title: QR Code
+title: 'QR Code'
 id: t7faoKDUUr4ZZlrfS0sXV
 status: PUBLISHED
 createdAt: 2022-08-30T21:34:04.733Z

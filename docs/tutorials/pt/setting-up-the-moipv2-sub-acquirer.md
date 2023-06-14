@@ -1,5 +1,5 @@
 ---
-title: Configurar o subadquirente MoipV2
+title: 'Configurar o subadquirente MoipV2'
 id: 4BipUcTxQ7cq2BiYzUDmEH
 status: DRAFT
 createdAt: 2021-12-03T16:57:26.876Z

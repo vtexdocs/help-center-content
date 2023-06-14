@@ -1,5 +1,5 @@
 ---
-title: PlaceOrder generating wrong discount and shipping values between items that appear more than once
+title: 'PlaceOrder generating wrong discount and shipping values between items that appear more than once'
 id: 01ipdei4r6juYcXD3xFz4b
 status: PUBLISHED
 createdAt: 2023-01-12T19:13:16.232Z

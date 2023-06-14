@@ -1,5 +1,5 @@
 ---
-title: Como encontrar o Pixel do Linkedin?
+title: 'Como encontrar o Pixel do Linkedin?'
 id: 7fCg6LUYJTDqyuh1I3XzD0
 status: PUBLISHED
 createdAt: 2022-08-30T17:34:20.620Z

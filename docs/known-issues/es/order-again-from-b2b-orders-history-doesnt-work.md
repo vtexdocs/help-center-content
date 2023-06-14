@@ -1,5 +1,5 @@
 ---
-title: Volver a pedir desde el historial de pedidos B2B no funciona
+title: 'Volver a pedir desde el historial de pedidos B2B no funciona'
 id: 2kT6UJsivYRgEaYpeRpEWa
 status: PUBLISHED
 createdAt: 2023-05-05T13:16:44.403Z

@@ -1,5 +1,5 @@
 ---
-title: "Nova versão do SmartCheckout™ já está no ar para todas as lojas"
+title: 'Nova versão do SmartCheckout™ já está no ar para todas as lojas'
 id: 1SN2x7kv3W22sY4c4g28au
 status: PUBLISHED
 createdAt: 2018-01-12T15:50:03.846Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: authors_24
 slug: nova-versao-do-smartcheckout-tm-ja-esta-no-ar-para-todas-as-lojas
 legacySlug: nova-versao-do-smartcheckout-tm-ja-esta-no-ar-para-todas-as-lojas
-announcementImageID: ""
-announcementSynopsisPT: Foi realizada a migração de todas as lojas para a quinta versão do SmartCheckout™.
+announcementImageID: ''
+announcementSynopsisPT: 'Foi realizada a migração de todas as lojas para a quinta versão do SmartCheckout™.'
 ---
 
 Foi realizada a migração de todas as lojas para a quinta versão do SmartCheckout™, o one-click-buy checkout sem login e senha da VTEX.

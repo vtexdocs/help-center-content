@@ -1,5 +1,5 @@
 ---
-title: "Schedule content publication with Site Editor"
+title: 'Schedule content publication with Site Editor'
 id: 1nKMy0i8VKEq23MJNih4T3
 status: PUBLISHED
 createdAt: 2021-12-16T17:38:42.017Z
@@ -10,13 +10,13 @@ productTeam: VTEX IO
 author: 1DedyaVUPp5wLAvjY7wKKv
 slug: schedule-content-publication-with-site-editor
 legacySlug: schedule-content-publication-with-site-editor
-announcementImageID: ""
-announcementSynopsisEN: Create and schedule predefined block versions in Site Editor
+announcementImageID: ''
+announcementSynopsisEN: 'Create and schedule predefined block versions in Site Editor'
 ---
 
 The Site Editor feature **Configurations** was updated. It is now called **Versions** and allows you to create deactivated versions of your store’s content and activate them whenever you want.
 
-![activating-versions-en](https://images.ctfassets.net/alneenqid6w5/31O8XD7Pt9GWWYk2W8q13K/d3402adb77ed7eaada1fb51b8ac736ab/activating-versions-en.gif)
+![activating-versions-en](//images.ctfassets.net/alneenqid6w5/31O8XD7Pt9GWWYk2W8q13K/d3402adb77ed7eaada1fb51b8ac736ab/activating-versions-en.gif)
 
 ## What has changed?
 Previously, the **Versions** feature was called **Configurations**, and it only allowed users to create a new activated version, such as a Carousel with promotional products or schedule to activate it. After inactivating a version, it was also not possible to activate it again.

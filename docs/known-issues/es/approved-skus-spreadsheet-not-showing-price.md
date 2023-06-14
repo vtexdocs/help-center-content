@@ -1,5 +1,5 @@
 ---
-title: La hoja de cálculo de Skus aprobados no muestra el precio
+title: 'La hoja de cálculo de Skus aprobados no muestra el precio'
 id: 3nWwzGYX1Ys0rKkoSZZpdz
 status: PUBLISHED
 createdAt: 2022-03-29T19:22:12.977Z

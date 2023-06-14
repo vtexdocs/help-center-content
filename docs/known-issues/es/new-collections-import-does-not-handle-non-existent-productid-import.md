@@ -1,5 +1,5 @@
 ---
-title: La importación de nuevas colecciones no maneja la importación de un ProductID no existente
+title: 'La importación de nuevas colecciones no maneja la importación de un ProductID no existente'
 id: 2bqGzlvbYqn7hVVfVbJZDO
 status: PUBLISHED
 createdAt: 2022-06-28T16:56:12.572Z

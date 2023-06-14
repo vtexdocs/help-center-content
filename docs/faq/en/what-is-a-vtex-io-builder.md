@@ -1,5 +1,5 @@
 ---
-title: What is a VTEX IO Builder?
+title: 'What is a VTEX IO Builder?'
 id: 5ZqqfbmAuIaKcwaaA2eWoM
 status: DRAFT
 createdAt: 2018-12-06T12:41:20.098Z

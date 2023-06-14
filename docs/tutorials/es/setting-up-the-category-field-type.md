@@ -1,5 +1,5 @@
 ---
-title: Configurar tipo de especificaciones
+title: 'Configurar tipo de especificaciones'
 id: tutorials_286
 status: DRAFT
 createdAt: 2017-04-27T22:09:54.906Z

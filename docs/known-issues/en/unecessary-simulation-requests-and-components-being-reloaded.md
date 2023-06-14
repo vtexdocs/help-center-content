@@ -1,5 +1,5 @@
 ---
-title: Unecessary simulation requests and components being reloaded
+title: 'Unecessary simulation requests and components being reloaded'
 id: 1qXJU1XC4r0e9KWxNUKp3L
 status: PUBLISHED
 createdAt: 2022-08-30T17:34:47.635Z

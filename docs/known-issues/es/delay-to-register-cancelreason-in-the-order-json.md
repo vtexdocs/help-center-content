@@ -1,5 +1,5 @@
 ---
-title: Retraso para registrar CancelReason en el json del pedido
+title: 'Retraso para registrar CancelReason en el json del pedido'
 id: 3n8i3EHJO9wPTEKDbaWbo2
 status: PUBLISHED
 createdAt: 2023-04-18T17:20:25.088Z

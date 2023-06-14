@@ -1,5 +1,5 @@
 ---
-title: No reconozco el ID de reserva de un pedido. ¿Qué puede haber ocurrido?
+title: 'No reconozco el ID de reserva de un pedido. ¿Qué puede haber ocurrido?'
 id: tja793G4XAWI2K8uIC4uW
 status: PUBLISHED
 createdAt: 2018-03-05T21:07:36.301Z

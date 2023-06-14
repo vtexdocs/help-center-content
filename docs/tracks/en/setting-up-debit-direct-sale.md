@@ -1,5 +1,5 @@
 ---
-title: Setting up Debit Direct Sale
+title: 'Setting up Debit Direct Sale'
 id: 74ESYaDpWvw6RSODO2SDl0
 status: PUBLISHED
 createdAt: 2021-09-27T20:07:32.304Z

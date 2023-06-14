@@ -1,5 +1,5 @@
 ---
-title: Ordenação de imagens ao fazer upload de uma nova versão não funcionando
+title: 'Ordenação de imagens ao fazer upload de uma nova versão não funcionando'
 id: 2Oq65YHU6uIQpQ5g8ZpjTE
 status: PUBLISHED
 createdAt: 2023-01-25T15:08:43.356Z

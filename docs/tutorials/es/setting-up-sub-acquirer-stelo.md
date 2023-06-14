@@ -1,5 +1,5 @@
 ---
-title: Configurar subadquirente Stelo
+title: 'Configurar subadquirente Stelo'
 id: 3gHWiaK9wQg08wOsoysciQ
 status: PUBLISHED
 createdAt: 2018-03-02T17:43:45.957Z

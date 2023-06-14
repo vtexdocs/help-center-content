@@ -1,5 +1,5 @@
 ---
-title: "Integración con Mercado Libre: nueva tabla de medidas"
+title: 'Integración con Mercado Libre: nueva tabla de medidas'
 id: 2obbDH8UcSlGVjoyNy92so
 status: PUBLISHED
 createdAt: 2022-06-29T19:33:31.118Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: integracion-con-mercado-libre-nueva-tabla-de-medidas
 legacySlug: integracion-con-mercado-libre-nueva-tabla-de-medidas
-announcementImageID: ""
-announcementSynopsisES: Lanzamos una nueva tabla de medidas de Mercado Libre para las tiendas que actúan como sellers en el marketplace.
+announcementImageID: ''
+announcementSynopsisES: 'Lanzamos una nueva tabla de medidas de Mercado Libre para las tiendas que actúan como sellers en el marketplace.'
 ---
 
 Continuando con las mejoras realizadas para la [certificación de Mercado Libre](https://help.vtex.com/es/announcements/vtex-agora-e-oficialmente-um-parceiro-certificado-do-mercado-livre-no-brasil--34D14K2Y6ogJs3OxKpQUrJ), lanzamos la nueva tabla de medidas de Mercado Libre para todas las tiendas VTEX que operan como sellers en el marketplace. 

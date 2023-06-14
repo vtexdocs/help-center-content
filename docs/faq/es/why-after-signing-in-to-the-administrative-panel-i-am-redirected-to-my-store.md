@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué al entrar en el panel administrativo soy redirigido a mi tienda?
+title: '¿Por qué al entrar en el panel administrativo soy redirigido a mi tienda?'
 id: 3JOlJmgmacAqCQEe0kwGwg
 status: PUBLISHED
 createdAt: 2017-10-01T03:35:33.165Z

@@ -1,5 +1,5 @@
 ---
-title: Quando ocorre um erro após a Firstdata aprovar um acordo, a transação não pode ser concluída.
+title: 'Quando ocorre um erro após a Firstdata aprovar um acordo, a transação não pode ser concluída.'
 id: 7MITAqam9KWVXrUiNX5Jh0
 status: PUBLISHED
 createdAt: 2023-02-27T15:48:31.356Z

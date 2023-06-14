@@ -1,5 +1,5 @@
 ---
-title: Cómo funcionan los parámetros de búsqueda
+title: 'Cómo funcionan los parámetros de búsqueda'
 id: tutorials_567
 status: DRAFT
 createdAt: 2017-04-27T22:00:24.532Z

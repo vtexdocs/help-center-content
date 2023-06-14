@@ -1,5 +1,5 @@
 ---
-title: Order with Status of Verifying Invoice does not update to Invoiced.
+title: 'Order with Status of Verifying Invoice does not update to Invoiced.'
 id: 2FRiGkhLT3JID4I5MvoGo6
 status: PUBLISHED
 createdAt: 2022-03-03T18:37:58.724Z

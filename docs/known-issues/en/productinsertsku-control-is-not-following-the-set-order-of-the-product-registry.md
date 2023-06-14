@@ -1,5 +1,5 @@
 ---
-title: $product.InsertSku control is not following the set order of the product registry
+title: '$product.InsertSku control is not following the set order of the product registry'
 id: laM7GlhASOuGisu2e8KGO
 status: PUBLISHED
 createdAt: 2018-01-11T20:32:44.037Z

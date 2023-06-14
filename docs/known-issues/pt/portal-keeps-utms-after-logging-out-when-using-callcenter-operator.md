@@ -1,5 +1,5 @@
 ---
-title: O Portal mantém os UTM's após o log out quando se utiliza o Callcenter Operator.
+title: 'O Portal mantém os UTM's após o log out quando se utiliza o Callcenter Operator.'
 id: 4dogeU7iMoTXBWwv5DyR8u
 status: PUBLISHED
 createdAt: 2022-03-18T19:04:54.519Z

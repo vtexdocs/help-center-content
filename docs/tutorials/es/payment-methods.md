@@ -1,5 +1,5 @@
 ---
-title: Formas de pago
+title: 'Formas de pago'
 id: 6BqtfrlO7WKCmVqme2Odrp
 status: DRAFT
 createdAt: 2019-05-27T18:45:27.758Z

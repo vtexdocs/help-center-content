@@ -1,5 +1,5 @@
 ---
-title: Buy button control (BuyButton)
+title: 'Buy button control (BuyButton)'
 id: 2rIQKH1Vny0kuCasQGSYGu
 status: PUBLISHED
 createdAt: 2018-02-09T18:10:33.586Z

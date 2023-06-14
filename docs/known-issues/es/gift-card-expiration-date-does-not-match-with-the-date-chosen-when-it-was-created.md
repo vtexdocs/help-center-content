@@ -1,5 +1,5 @@
 ---
-title: La fecha de caducidad de la tarjeta regalo no coincide con la fecha elegida al crearla
+title: 'La fecha de caducidad de la tarjeta regalo no coincide con la fecha elegida al crearla'
 id: 57GeuSubkdDkQNwzL3nmup
 status: PUBLISHED
 createdAt: 2022-03-27T14:08:35.577Z

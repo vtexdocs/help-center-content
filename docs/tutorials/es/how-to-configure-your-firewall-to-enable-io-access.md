@@ -1,5 +1,5 @@
 ---
-title: Cómo configurar su firewall empresarial para permitir el acceso al IO
+title: 'Cómo configurar su firewall empresarial para permitir el acceso al IO'
 id: 4c61e1CJI4KXIHH2HLOYUQ
 status: DRAFT
 createdAt: 2019-01-23T18:41:51.815Z

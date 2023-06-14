@@ -1,5 +1,5 @@
 ---
-title: A opção "Salvar novo cartão" não funciona para provedores assíncronos de pagamento
+title: 'A opção "Salvar novo cartão" não funciona para provedores assíncronos de pagamento'
 id: 3B4gVSNrSeCc8EBXwk5sAu
 status: PUBLISHED
 createdAt: 2022-03-11T17:54:35.664Z

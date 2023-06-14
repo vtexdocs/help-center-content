@@ -1,5 +1,5 @@
 ---
-title: [Facebook] [Revisar el comportamiento de la ruta de carga de skus en facebook]
+title: '[Facebook] [Revisar el comportamiento de la ruta de carga de skus en facebook]'
 id: 1gd1djMnaXxFw8l2ZsKZFn
 status: PUBLISHED
 createdAt: 2023-03-30T11:38:17.727Z

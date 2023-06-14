@@ -1,5 +1,5 @@
 ---
-title: O seletor de componentes do vendedor pode apresentar inconsistência nos preços de entrega/remessa
+title: 'O seletor de componentes do vendedor pode apresentar inconsistência nos preços de entrega/remessa'
 id: 2agLvjXgT76ngdu3YsA6uh
 status: PUBLISHED
 createdAt: 2022-09-14T22:26:22.177Z

@@ -1,5 +1,5 @@
 ---
-title: Recursos do License Manager - Seller Register
+title: 'Recursos do License Manager - Seller Register'
 id: 6crvwmCGhrzihWZhVnr5Mu
 status: DRAFT
 createdAt: 2022-02-16T20:54:10.404Z

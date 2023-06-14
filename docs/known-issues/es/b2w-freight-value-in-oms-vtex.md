@@ -1,5 +1,5 @@
 ---
-title: [B2W] Valor de la carga en OMS VTEX
+title: '[B2W] Valor de la carga en OMS VTEX'
 id: 7kVoMojCNmOHatg2L1ykBP
 status: PUBLISHED
 createdAt: 2022-10-04T19:43:17.116Z

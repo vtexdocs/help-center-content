@@ -1,5 +1,5 @@
 ---
-title: El email «Avísame» se envía incluso cuando el producto no está disponible para la política comercial del sitio web
+title: 'El email «Avísame» se envía incluso cuando el producto no está disponible para la política comercial del sitio web'
 id: 577r3i32P5Yv9QIfVR5AYP
 status: PUBLISHED
 createdAt: 2021-02-22T20:44:52.444Z

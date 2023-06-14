@@ -1,5 +1,5 @@
 ---
-title: Uso de cupom não restaurado para pedidos incompletos
+title: 'Uso de cupom não restaurado para pedidos incompletos'
 id: 1iJr9GTJ8gG852YDVWTttl
 status: PUBLISHED
 createdAt: 2022-08-16T20:44:43.329Z

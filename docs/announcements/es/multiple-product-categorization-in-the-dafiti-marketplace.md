@@ -1,5 +1,5 @@
 ---
-title: "Categorización de múltiples productos en el marketplace Dafiti"
+title: 'Categorización de múltiples productos en el marketplace Dafiti'
 id: 6502CEk0sVudia0RquF82J
 status: PUBLISHED
 createdAt: 2021-03-18T13:44:48.738Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 46G4yHIZerH7B9Jo0Iw5KI
 slug: categorizacion-de-multiples-productos-en-el-marketplace-dafiti
 legacySlug: categorizacion-de-multiples-productos-en-el-marketplace-dafiti
-announcementImageID: ""
-announcementSynopsisES: Asociar producto a varias categorías a través de un nuevo modelo de plantilla de mapeo que tiene atributos obligatorios
+announcementImageID: ''
+announcementSynopsisES: 'Asociar producto a varias categorías a través de un nuevo modelo de plantilla de mapeo que tiene atributos obligatorios'
 ---
 
 La búsqueda de productos en su tienda Dafiti toma en cuenta las categorías con las que se corresponden. Para optimizar los resultados, los productos deben colocarse en varias categorías y devolver la mayor cantidad de resultados posible.

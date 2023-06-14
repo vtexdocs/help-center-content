@@ -1,5 +1,5 @@
 ---
-title: Collections does not Allow more than 1000 SKUs per Upload
+title: 'Collections does not Allow more than 1000 SKUs per Upload'
 id: 4XC2ZLCsBkQhexRB4YrNMn
 status: PUBLISHED
 createdAt: 2023-04-19T13:53:02.339Z

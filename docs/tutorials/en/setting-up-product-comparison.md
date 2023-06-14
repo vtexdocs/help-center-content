@@ -1,5 +1,5 @@
 ---
-title: Setting up product comparison
+title: 'Setting up product comparison'
 id: tutorials_236
 status: PUBLISHED
 createdAt: 2017-04-27T22:13:10.537Z

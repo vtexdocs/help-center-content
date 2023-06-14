@@ -1,5 +1,5 @@
 ---
-title: Promoção de remessa gratuita sendo aplicada em pedidos divididos fora da restrição de promoção
+title: 'Promoção de remessa gratuita sendo aplicada em pedidos divididos fora da restrição de promoção'
 id: APAIGZx8tdtIjGsQJmvgu
 status: PUBLISHED
 createdAt: 2023-01-12T16:19:47.878Z

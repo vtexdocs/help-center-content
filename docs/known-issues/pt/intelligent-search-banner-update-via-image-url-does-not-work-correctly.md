@@ -1,5 +1,5 @@
 ---
-title: A atualização inteligente do Banner de busca via URL da imagem não funciona corretamente
+title: 'A atualização inteligente do Banner de busca via URL da imagem não funciona corretamente'
 id: bMFrVUmfbjvTWs4Ag6U57
 status: PUBLISHED
 createdAt: 2023-01-17T14:34:02.195Z

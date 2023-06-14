@@ -1,5 +1,5 @@
 ---
-title: La nueva interfaz de usuario no muestra el documento de identidad del cliente, por ejemplo el CPF.
+title: 'La nueva interfaz de usuario no muestra el documento de identidad del cliente, por ejemplo el CPF.'
 id: 7y7Npcr6krhsnnEy54vQFa
 status: PUBLISHED
 createdAt: 2022-12-08T22:21:07.966Z

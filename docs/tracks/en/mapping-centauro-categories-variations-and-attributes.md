@@ -1,5 +1,5 @@
 ---
-title: Mapping Centauro categories, variations and attributes
+title: 'Mapping Centauro categories, variations and attributes'
 id: 5Lc42XVVABaidvEjm4Ki9
 status: PUBLISHED
 createdAt: 2020-10-20T19:20:09.544Z

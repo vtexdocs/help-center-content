@@ -1,5 +1,5 @@
 ---
-title: Instability in the toggle button for shipping and in-store pickup
+title: 'Instability in the toggle button for shipping and in-store pickup'
 id: 54pnP8pZGWSo2VZKhOLBKC
 status: PUBLISHED
 createdAt: 2021-09-08T17:53:29.698Z

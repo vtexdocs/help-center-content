@@ -1,5 +1,5 @@
 ---
-title: Error de cálculo de la sección "total" del informe de indexación del catálogo
+title: 'Error de cálculo de la sección "total" del informe de indexación del catálogo'
 id: 6TJXux104P2c0mruo5vlEn
 status: PUBLISHED
 createdAt: 2022-02-25T11:39:42.098Z

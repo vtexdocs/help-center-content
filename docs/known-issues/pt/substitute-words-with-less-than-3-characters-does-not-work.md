@@ -1,5 +1,5 @@
 ---
-title: Palavras substitutas com menos de 3 caracteres não funcionam
+title: 'Palavras substitutas com menos de 3 caracteres não funcionam'
 id: 5sAdcBkmVVnRoQD3WUBNJ0
 status: PUBLISHED
 createdAt: 2022-06-08T20:03:47.576Z

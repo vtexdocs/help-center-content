@@ -1,5 +1,5 @@
 ---
-title: Toolbelt del VTEX IO - Definición de concepto
+title: 'Toolbelt del VTEX IO - Definición de concepto'
 id: sq7pQ21bqKa8QeQmmUKyG
 status: DRAFT
 createdAt: 2017-11-21T13:36:33.568Z

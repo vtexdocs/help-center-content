@@ -1,5 +1,5 @@
 ---
-title: Changing the total cost of the order
+title: 'Changing the total cost of the order'
 id: 2asq4BmxvSD8Tw9xpfZuMo
 status: PUBLISHED
 createdAt: 2021-12-15T18:43:55.480Z
@@ -27,13 +27,13 @@ To make the change, follow the steps below:
 3. Click the order to access the **Order details page**.        
 4. Go to the **Total cost of the order** section on the right side of the Order Details page.    
 5. Click `Change final cost`.    
-![valorfinalEN](https://images.ctfassets.net/alneenqid6w5/5VwpodKoIiDSWBwYQs2rDc/22a8836f14fd64c2f17257c60e711a8a/valorfinalEN__1_.png)  
+![valorfinalEN](//images.ctfassets.net/alneenqid6w5/5VwpodKoIiDSWBwYQs2rDc/22a8836f14fd64c2f17257c60e711a8a/valorfinalEN__1_.png)  
 6. On the **Change value** page, fill in the required fields.  
 7. Fill in the required fields:  
     * **Value:** Select Discount or Increase and enter the amount corresponding to what you want to change.    
     * **Reason:** indicate why you are making this change.  
 8. On the right side of the page click `Submit`.  
-![Alterar valorEN](https://images.ctfassets.net/alneenqid6w5/15TldKoBz42ds5fJswW13O/91ea6db5cdf47879f616f2a17e31c542/Alterar_valorEN.png)
+![Alterar valorEN](//images.ctfassets.net/alneenqid6w5/15TldKoBz42ds5fJswW13O/91ea6db5cdf47879f616f2a17e31c542/Alterar_valorEN.png)
 
 Changes to the order cost will be updated in the "Items to invoice" and "Order History" sections. Note that the order total will also change.
 

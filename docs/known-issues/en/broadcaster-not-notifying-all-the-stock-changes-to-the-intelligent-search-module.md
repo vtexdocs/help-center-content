@@ -1,5 +1,5 @@
 ---
-title: Broadcaster not notifying all the stock changes to the Intelligent Search module
+title: 'Broadcaster not notifying all the stock changes to the Intelligent Search module'
 id: XLozPnuonjPImtZa8bWAz
 status: PUBLISHED
 createdAt: 2022-10-24T12:26:59.536Z

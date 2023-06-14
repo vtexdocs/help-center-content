@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with ZIP
+title: 'Setting up payments with ZIP'
 id: 52os0cinGkauS5E83r3ngU
 status: DRAFT
 createdAt: 2022-08-15T14:42:46.592Z

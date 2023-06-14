@@ -1,5 +1,5 @@
 ---
-title: A regionalização ou as políticas comerciais não são consideradas ao filtrar ou classificar itens por preço
+title: 'A regionalização ou as políticas comerciais não são consideradas ao filtrar ou classificar itens por preço'
 id: hipqkoLiWMSMEWJxecoIW
 status: PUBLISHED
 createdAt: 2023-05-08T14:46:49.797Z

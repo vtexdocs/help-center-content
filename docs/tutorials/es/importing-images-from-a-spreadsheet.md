@@ -1,5 +1,5 @@
 ---
-title: Importar imágenes por plantilla
+title: 'Importar imágenes por plantilla'
 id: tutorials_262
 status: PUBLISHED
 createdAt: 2017-04-27T22:11:24.581Z

@@ -1,5 +1,5 @@
 ---
-title: Creando Promociones por Tabla de Precio
+title: 'Creando Promociones por Tabla de Precio'
 id: pIwaCYDwWqpbao6GahcjT
 status: PUBLISHED
 createdAt: 2019-06-17T20:59:23.665Z

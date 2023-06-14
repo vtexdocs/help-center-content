@@ -1,5 +1,5 @@
 ---
-title: How to integrate with Google Shopping
+title: 'How to integrate with Google Shopping'
 id: tutorials_7034
 status: DRAFT
 createdAt: 2017-04-27T21:48:21.080Z

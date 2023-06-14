@@ -1,5 +1,5 @@
 ---
-title: Abrir chamados para o suporte VTEX
+title: 'Abrir chamados para o suporte VTEX'
 id: 16yOEqpO32UQYygSmMSSAM
 status: CHANGED
 createdAt: 2017-11-21T22:18:13.507Z
@@ -18,7 +18,7 @@ Todos os clientes têm acesso a atendimento fornecido pelo time de especialistas
 
 Este artigo explica como clientes devem abrir chamados no Suporte VTEX e acompanhar o status dos chamados. Para saber mais sobre disponibilidade, tempo estimado de resposta (SLA) e recursos disponíveis para clientes no Brasil, leia o artigo [Suporte VTEX - Brasil](https://help.vtex.com/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9).
 
-![DALL-E 3D aesthetic rendering of one male and two female coders typing on a computer pink background](https://images.ctfassets.net/alneenqid6w5/7r6SOrCUNRVbiiVFklLy6w/08a19a4f7191a1abff66f8690eb9bda4/DALL__E_2022-12-16_15.33.39_-_3D_aesthetic_rendering_of_one_male_and_two_female_coders_typing_on_a_computer_pink_background.png)
+![DALL-E 3D aesthetic rendering of one male and two female coders typing on a computer pink background](//images.ctfassets.net/alneenqid6w5/7r6SOrCUNRVbiiVFklLy6w/08a19a4f7191a1abff66f8690eb9bda4/DALL__E_2022-12-16_15.33.39_-_3D_aesthetic_rendering_of_one_male_and_two_female_coders_typing_on_a_computer_pink_background.png)
 
 Ele está dividido nas etapas a seguir:
 
@@ -66,7 +66,7 @@ Ao selecionar essa opção de suporte, você precisa preencher as informações 
    * *Tenho uma dúvida e gostaria de fazer uma pergunta*
    * *Gostaria de solicitar uma configuração*
 2. No campo **Assunto da solicitação**, preencha com informações relacionadas ao tipo de problema que você precisa de ajuda. Baseada na descrição do seu problema, iremos indicar alguns artigos do [Help Center](https://help.vtex.com/pt/) que podem ajudar a solucionar seu problema. Caso você entenda que nenhum artigo pode ajudar a resolver o problema, siga para o próximo passo.
-![https help.vtex.com pt support](https://images.ctfassets.net/alneenqid6w5/1R5JgnPNiJWbG8IDU0MQmm/ae29e8a323aae90c3e6cb11b36baed8d/https___help.vtex.com_pt_support.gif)
+![https help.vtex.com pt support](//images.ctfassets.net/alneenqid6w5/1R5JgnPNiJWbG8IDU0MQmm/ae29e8a323aae90c3e6cb11b36baed8d/https___help.vtex.com_pt_support.gif)
 3. Clique no botão `Continuar`.
 Você será direcionado para outra página.
 4. No campo **Impacto do problema**, selecione a opção que melhor corresponde ao impacto do problema:

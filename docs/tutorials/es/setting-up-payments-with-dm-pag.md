@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con DM Pag
+title: 'Configurar pago con DM Pag'
 id: 4sRXGp1RnpTvqb4wtkYbGo
 status: DRAFT
 createdAt: 2022-08-24T17:19:20.410Z

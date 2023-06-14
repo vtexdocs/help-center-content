@@ -1,5 +1,5 @@
 ---
-title: Logs stating that there was a refund, but due to an error on the part of the acquirer, the reversal does not actually occur
+title: 'Logs stating that there was a refund, but due to an error on the part of the acquirer, the reversal does not actually occur'
 id: Bpa1ncKcUuKd7i5isR2D4
 status: PUBLISHED
 createdAt: 2022-03-17T21:07:16.944Z

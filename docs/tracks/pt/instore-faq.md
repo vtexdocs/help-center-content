@@ -1,5 +1,5 @@
 ---
-title: inStore - FAQ
+title: 'inStore - FAQ'
 id: 4kHY0Ov6JxLXmma5cLWlxd
 status: DRAFT
 createdAt: 2020-05-19T12:12:11.971Z

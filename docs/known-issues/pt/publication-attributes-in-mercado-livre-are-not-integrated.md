@@ -1,5 +1,5 @@
 ---
-title: Atributos das Publicações no Mercado Livre não integrados
+title: 'Atributos das Publicações no Mercado Livre não integrados'
 id: 4CxNV3zIh28wk2a6weQcK
 status: PUBLISHED
 createdAt: 2018-01-29T17:57:35.003Z

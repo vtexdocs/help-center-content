@@ -1,5 +1,5 @@
 ---
-title: La vista previa de los envíos no utiliza el nombre del ANS para su visualización en la interfaz de usuario
+title: 'La vista previa de los envíos no utiliza el nombre del ANS para su visualización en la interfaz de usuario'
 id: 6v7vh0CSUfpiF04brZ0bgb
 status: PUBLISHED
 createdAt: 2022-05-06T20:46:38.910Z

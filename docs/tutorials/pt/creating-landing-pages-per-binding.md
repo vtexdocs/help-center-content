@@ -1,5 +1,5 @@
 ---
-title: Criando landing pages por binding
+title: 'Criando landing pages por binding'
 id: 3LQAoWx77P3gNoqI2Rtl5A
 status: DRAFT
 createdAt: 2021-05-06T14:42:36.366Z
@@ -22,7 +22,7 @@ No Admin, é possível criar *landing pages* customizadas por [*binding*](https:
 2. Selecione o *binding* no qual deseja criar a nova *landing page* no menu suspenso da página.
 3. Clique no botão `Criar nova`.
 
-  ![pt-landing-page-binding](https://images.ctfassets.net/alneenqid6w5/4o8DseduoS1fsMR98iRt1R/8c75f884af19cf8e61e4c4adb1e2a83f/pt-landing-page-binding.png)
+  ![pt-landing-page-binding](//images.ctfassets.net/alneenqid6w5/4o8DseduoS1fsMR98iRt1R/8c75f884af19cf8e61e4c4adb1e2a83f/pt-landing-page-binding.png)
 
 4. Na seção `Detalhes da página`, preencha os campos e defina os metadados para sua nova *landing page* de acordo com os valores esperados:
 

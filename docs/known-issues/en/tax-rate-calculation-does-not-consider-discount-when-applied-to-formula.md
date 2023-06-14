@@ -1,5 +1,5 @@
 ---
-title: Tax rate calculation does not consider discount when applied to formula
+title: 'Tax rate calculation does not consider discount when applied to formula'
 id: 58sEdphNQ4c4QEY8ewqYOq
 status: PUBLISHED
 createdAt: 2017-08-01T17:33:07.889Z

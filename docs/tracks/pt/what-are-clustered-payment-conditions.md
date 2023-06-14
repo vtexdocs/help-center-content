@@ -1,5 +1,5 @@
 ---
-title: O que é o Condições de Pagamento Clusterizadas?
+title: 'O que é o Condições de Pagamento Clusterizadas?'
 id: 4z2upCJ2om27Cs0BVJRA0U
 status: PUBLISHED
 createdAt: 2020-11-18T11:49:06.387Z

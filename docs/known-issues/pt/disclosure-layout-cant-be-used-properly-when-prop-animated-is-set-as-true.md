@@ -1,5 +1,5 @@
 ---
-title: O layout de divulgação não pode ser usado corretamente quando a animação de propulsão é definida como verdadeira.
+title: 'O layout de divulgação não pode ser usado corretamente quando a animação de propulsão é definida como verdadeira.'
 id: 14QweVpzLO8TsyI68H79ZG
 status: PUBLISHED
 createdAt: 2022-04-19T19:53:22.409Z

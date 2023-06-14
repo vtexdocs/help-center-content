@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamento com GlobalPayments
+title: 'Configurar pagamento com GlobalPayments'
 id: 3q4luaNV8e6whx2brDnTDT
 status: DRAFT
 createdAt: 2022-03-16T19:26:21.652Z

@@ -1,5 +1,5 @@
 ---
-title: "Nuevo Admin está siendo liberado a todas las tiendas"
+title: 'Nuevo Admin está siendo liberado a todas las tiendas'
 id: 5jPWeap8OQ8IwaGQeQOOCK
 status: PUBLISHED
 createdAt: 2018-03-06T17:29:18.942Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: authors_24
 slug: nuevo-admin-esta-siendo-liberado-a-todas-las-tiendas
 legacySlug: nuevo-admin-esta-siendo-liberado-a-todas-las-tiendas
-announcementImageID: ""
-announcementSynopsisES: Hasta 7 de mayo, todas las tiendas VTEX van a operar con el nuevo Admin.
+announcementImageID: ''
+announcementSynopsisES: 'Hasta 7 de mayo, todas las tiendas VTEX van a operar con el nuevo Admin.'
 ---
 
 <div class="alert alert-warning">

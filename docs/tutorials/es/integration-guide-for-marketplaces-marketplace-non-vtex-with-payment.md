@@ -1,5 +1,5 @@
 ---
-title: Guía de integración para marketplaces - Marketplace non VTEX con pago en seller
+title: 'Guía de integración para marketplaces - Marketplace non VTEX con pago en seller'
 id: 4MyIxyg3p6UICk8O6w6O2W
 status: DRAFT
 createdAt: 2017-10-14T21:51:19.187Z

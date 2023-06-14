@@ -1,5 +1,5 @@
 ---
-title: El informe de suscriptores no muestra correctamente las suscripciones activas
+title: 'El informe de suscriptores no muestra correctamente las suscripciones activas'
 id: 4sqvm1v4CbCJLQ3HBBVTmp
 status: PUBLISHED
 createdAt: 2022-05-27T19:44:57.301Z

@@ -1,5 +1,5 @@
 ---
-title: "TikTok for Business: Advertise your products on TikTok"
+title: 'TikTok for Business: Advertise your products on TikTok'
 id: 7tmXUHUcTwS6KJxymFt5ZX
 status: PUBLISHED
 createdAt: 2022-04-14T21:51:19.121Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: 1malnhMX0vPThsaJaZMYm2
 slug: tiktok-for-business-advertise-your-products-on-tiktok
 legacySlug: tiktok-for-business-advertise-your-products-on-tiktok
-announcementImageID: ""
-announcementSynopsisEN: We have developed an app that allows you to use TikTok as a sales and ad channel integrated with your VTEX catalog.
+announcementImageID: ''
+announcementSynopsisEN: 'We have developed an app that allows you to use TikTok as a sales and ad channel integrated with your VTEX catalog.'
 ---
 
 Important practices for a good unified commerce strategy are broadening your sales channels and displaying ads where your buyers are. To achieve that, it is essential to harness the potential of social networks.

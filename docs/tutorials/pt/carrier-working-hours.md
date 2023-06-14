@@ -1,5 +1,5 @@
 ---
-title: Horário de funcionamento das transportadoras
+title: 'Horário de funcionamento das transportadoras'
 id: 2oGpbInIgdxSWUi3TZjdCS
 status: PUBLISHED
 createdAt: 2019-02-06T16:21:24.412Z

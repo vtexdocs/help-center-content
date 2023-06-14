@@ -1,5 +1,5 @@
 ---
-title: A UI não atualiza a melhor escolha de SLA no carrinho
+title: 'A UI não atualiza a melhor escolha de SLA no carrinho'
 id: 5H05jLUJA0gmSDTO6nMsPE
 status: PUBLISHED
 createdAt: 2022-03-26T02:30:36.692Z

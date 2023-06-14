@@ -1,5 +1,5 @@
 ---
-title: Skus de un mismo producto creados por separado (cuentas con el indicador Autoaprobar activado)
+title: 'Skus de un mismo producto creados por separado (cuentas con el indicador Autoaprobar activado)'
 id: 1nkfd9OuKTFsnBWe1k6dif
 status: PUBLISHED
 createdAt: 2023-02-15T12:22:35.143Z

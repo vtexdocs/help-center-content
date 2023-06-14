@@ -1,5 +1,5 @@
 ---
-title: La API GET SKU by EAN sólo devuelve las SKU activas
+title: 'La API GET SKU by EAN sólo devuelve las SKU activas'
 id: 5NiuB1Lgf3CM5kXSSVdfuu
 status: PUBLISHED
 createdAt: 2020-03-23T15:10:23.842Z

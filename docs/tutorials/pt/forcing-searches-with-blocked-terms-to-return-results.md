@@ -1,5 +1,5 @@
 ---
-title: Forçar buscas com termos bloqueados a retornarem resultados
+title: 'Forçar buscas com termos bloqueados a retornarem resultados'
 id: 6OcM3za1tmUIuiua8y40I2
 status: CHANGED
 createdAt: 2018-01-23T19:44:20.011Z

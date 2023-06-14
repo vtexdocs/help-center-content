@@ -1,5 +1,5 @@
 ---
-title: Use cases
+title: 'Use cases'
 id: 5k74U1EJm6FzirFczMYHBk
 status: PUBLISHED
 createdAt: 2020-11-18T13:40:47.138Z

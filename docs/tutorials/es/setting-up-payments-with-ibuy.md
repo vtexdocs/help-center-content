@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con iBuy
+title: 'Configurar pago con iBuy'
 id: 405H4xraBMf24bVoPG6zA3
 status: DRAFT
 createdAt: 2022-08-12T18:03:39.437Z

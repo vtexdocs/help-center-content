@@ -1,5 +1,5 @@
 ---
-title: Restablecer la configuración de la aplicación de autenticación de dos factores
+title: 'Restablecer la configuración de la aplicación de autenticación de dos factores'
 id: 4ftaOCZono1MiQia2hxbTy
 status: PUBLISHED
 createdAt: 2023-02-08T13:55:25.623Z

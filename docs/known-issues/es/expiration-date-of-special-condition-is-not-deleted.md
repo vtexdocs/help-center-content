@@ -1,5 +1,5 @@
 ---
-title: La fecha de caducidad de la condición especial no se elimina
+title: 'La fecha de caducidad de la condición especial no se elimina'
 id: 4UuFAcukNrutyJOthTPxAA
 status: PUBLISHED
 createdAt: 2022-03-21T19:49:55.408Z

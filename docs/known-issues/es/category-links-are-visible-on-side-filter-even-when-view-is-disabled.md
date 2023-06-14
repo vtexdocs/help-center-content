@@ -1,5 +1,5 @@
 ---
-title: Links de categorías visibles en el filtro lateral incluso con vista deshabilitada
+title: 'Links de categorías visibles en el filtro lateral incluso con vista deshabilitada'
 id: 5NwWyNDLtmKu6kCu6KYgs6
 status: PUBLISHED
 createdAt: 2018-05-03T17:37:48.868Z

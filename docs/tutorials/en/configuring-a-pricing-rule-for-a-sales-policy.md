@@ -1,5 +1,5 @@
 ---
-title: Configuring a pricing rule for a sales policy
+title: 'Configuring a pricing rule for a sales policy'
 id: 5LQMLwcUcEGCWK6SMI6cEM
 status: PUBLISHED
 createdAt: 2018-03-19T17:49:25.791Z

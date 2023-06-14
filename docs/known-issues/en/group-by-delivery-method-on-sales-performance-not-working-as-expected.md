@@ -1,5 +1,5 @@
 ---
-title:  Group by Delivery Method on Sales Performance not working as expected
+title: ' Group by Delivery Method on Sales Performance not working as expected'
 id: 8zHND5pzrt0mrIrb061Zq
 status: PUBLISHED
 createdAt: 2022-11-30T19:02:13.548Z

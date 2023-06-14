@@ -1,5 +1,5 @@
 ---
-title: "Post Mortem OMS - Noviembre 2017"
+title: 'Post Mortem OMS - Noviembre 2017'
 id: dCyxZuPKPC2ckccoMKqk4
 status: PUBLISHED
 createdAt: 2017-11-15T03:34:25.106Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: authors_59
 slug: post-mortem-oms-noviembre-2017
 legacySlug: post-mortem-oms-noviembre-2017
-announcementImageID: ""
-announcementSynopsisES: Este post tiene el objetivo de explicar el incidente ocurrido este viernes
+announcementImageID: ''
+announcementSynopsisES: 'Este post tiene el objetivo de explicar el incidente ocurrido este viernes'
 ---
 
 Estimados clientes,

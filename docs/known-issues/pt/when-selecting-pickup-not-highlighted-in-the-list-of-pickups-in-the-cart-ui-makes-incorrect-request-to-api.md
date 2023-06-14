@@ -1,5 +1,5 @@
 ---
-title: Ao selecionar pickups não destacados na lista de pickups no carrinho, a UI faz solicitação incorreta ao API
+title: 'Ao selecionar pickups não destacados na lista de pickups no carrinho, a UI faz solicitação incorreta ao API'
 id: 42NRIpmVxU7XgOMGHlO6zI
 status: PUBLISHED
 createdAt: 2022-02-22T18:21:47.541Z

@@ -1,5 +1,5 @@
 ---
-title: Nova IU não mostra itens pendentes de fatura em pedidos com Fatura Parcial ou Total
+title: 'Nova IU não mostra itens pendentes de fatura em pedidos com Fatura Parcial ou Total'
 id: yIkfB9VkFUeywJzclMYKe
 status: PUBLISHED
 createdAt: 2022-08-26T14:24:13.932Z

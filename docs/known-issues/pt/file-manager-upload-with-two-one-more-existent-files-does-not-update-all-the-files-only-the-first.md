@@ -1,5 +1,5 @@
 ---
-title: O File Manager upload com mais dois arquivos existentes não atualiza todos os arquivos, apenas o primeiro
+title: 'O File Manager upload com mais dois arquivos existentes não atualiza todos os arquivos, apenas o primeiro'
 id: 2LHdzsFFe83E1Tf0Z4j66y
 status: PUBLISHED
 createdAt: 2022-03-17T00:20:51.454Z

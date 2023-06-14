@@ -1,5 +1,5 @@
 ---
-title: Configurar registro de la integración de la Via
+title: 'Configurar registro de la integración de la Via'
 id: 1okse2MybWk04AQoueu88O
 status: PUBLISHED
 createdAt: 2018-09-24T18:45:21.544Z

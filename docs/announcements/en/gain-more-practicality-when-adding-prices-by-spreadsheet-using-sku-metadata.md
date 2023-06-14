@@ -1,5 +1,5 @@
 ---
-title: "Gain more practicality when adding prices by spreadsheet using SKU metadata"
+title: 'Gain more practicality when adding prices by spreadsheet using SKU metadata'
 id: 5ln4wq8nuvaGhlBDEjEMKi
 status: PUBLISHED
 createdAt: 2019-05-27T20:35:45.666Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 71cQH3Q0oKXzeY2DmMZRKX
 slug: gain-more-practicality-when-adding-prices-by-spreadsheet-using-sku-metadata
 legacySlug: gain-more-practicality-when-adding-prices-by-spreadsheet-using-sku-metadata
-announcementImageID: ""
-announcementSynopsisEN: Our development team added another functionality to the pricing module.
+announcementImageID: ''
+announcementSynopsisEN: 'Our development team added another functionality to the pricing module.'
 ---
 
 Our development team added another functionality to the pricing module. You can now use SKU metadata to help you update prices. 

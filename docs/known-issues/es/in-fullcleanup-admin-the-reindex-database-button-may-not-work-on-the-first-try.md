@@ -1,5 +1,5 @@
 ---
-title: En el administrador de limpieza completa, el botón Reindexar base de datos puede no funcionar en el primer intento.
+title: 'En el administrador de limpieza completa, el botón Reindexar base de datos puede no funcionar en el primer intento.'
 id: 4spOMbnKZPCcnQghKTP6Zb
 status: PUBLISHED
 createdAt: 2023-04-14T17:39:56.758Z

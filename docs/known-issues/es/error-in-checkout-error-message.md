@@ -1,5 +1,5 @@
 ---
-title: Error en el mensaje de error de la compra
+title: 'Error en el mensaje de error de la compra'
 id: 7jCEQoDRPvNwYCJmAt78im
 status: PUBLISHED
 createdAt: 2022-03-25T14:46:49.548Z

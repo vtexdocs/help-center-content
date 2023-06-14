@@ -1,5 +1,5 @@
 ---
-title: Cómo utilizar la clase de producto no disponible del control de selección de SKU
+title: 'Cómo utilizar la clase de producto no disponible del control de selección de SKU'
 id: 62t7maHVvyAsqkSmi62g82
 status: PUBLISHED
 createdAt: 2018-01-18T18:10:19.780Z

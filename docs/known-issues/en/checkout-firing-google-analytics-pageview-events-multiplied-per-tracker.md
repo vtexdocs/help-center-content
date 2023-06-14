@@ -1,5 +1,5 @@
 ---
-title: Checkout firing Google Analytics' pageview events multiplied per tracker
+title: 'Checkout firing Google Analytics' pageview events multiplied per tracker'
 id: 1XMmCfDdKVLEZ5SFq7TyrO
 status: PUBLISHED
 createdAt: 2022-05-12T14:51:41.067Z

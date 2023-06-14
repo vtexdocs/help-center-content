@@ -1,5 +1,5 @@
 ---
-title: Configurar o E-bit
+title: 'Configurar o E-bit'
 id: tutorials_2714
 status: PUBLISHED
 createdAt: 2017-04-27T21:52:54.264Z

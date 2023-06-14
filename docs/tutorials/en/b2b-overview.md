@@ -1,5 +1,5 @@
 ---
-title: B2B – Overview
+title: 'B2B – Overview'
 id: 5vb9SNXhX2bZnkpAh7ADdC
 status: PUBLISHED
 createdAt: 2021-03-30T12:31:10.644Z

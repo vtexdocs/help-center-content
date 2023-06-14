@@ -1,5 +1,5 @@
 ---
-title: Por que a data prometida diverge com a data de entrega?
+title: 'Por que a data prometida diverge com a data de entrega?'
 id: 2ykKClT2FWgEKQ6Y0s4iMS
 status: PUBLISHED
 createdAt: 2018-03-05T15:42:17.800Z

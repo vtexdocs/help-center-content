@@ -1,5 +1,5 @@
 ---
-title: "We've released our new Cross-selling and Up-selling APIs"
+title: 'We've released our new Cross-selling and Up-selling APIs'
 id: 37Lc6sI2owMCiUamocgAcc
 status: PUBLISHED
 createdAt: 2017-12-04T18:54:28.850Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 245tA425AIeioKAk2eaiwS
 slug: weve-released-our-new-cross-selling-and-up-selling-apis
 legacySlug: weve-released-our-new-cross-selling-and-up-selling-apis
-announcementImageID: ""
-announcementSynopsisEN: We've released our Cross-Selling and Up-selling APIs to all our customers and partners.
+announcementImageID: ''
+announcementSynopsisEN: 'We've released our Cross-Selling and Up-selling APIs to all our customers and partners.'
 ---
 
 We've released our Cross-Selling and Up-selling APIs to all our customers and partners. Using these sales techniques, you will be able to display in your showcase several offers with some simple API calls.

@@ -1,5 +1,5 @@
 ---
-title: Cómo trabajar con diferentes layouts para una misma página
+title: 'Cómo trabajar con diferentes layouts para una misma página'
 id: tutorials_546
 status: PUBLISHED
 createdAt: 2017-04-27T22:01:32.948Z
@@ -37,7 +37,7 @@ Después de eso, una nueva sección estará disponible y podrá definir a travé
 
 Es posible limitar la disponibilidad del template a un período de tiempo predeterminado rellenando los campos __From__ y __To__, así como definir en qué categorías, productos, marcas y colecciones se aplicará el template elegido.
 
-![template-condicionado-cms](https://images.ctfassets.net/alneenqid6w5/5oheUsdoc0aKS4ysOwQ6ig/66a11beac0c32d7fde34d43b94fb45bb/template-condicionado-cms.png)
+![template-condicionado-cms](//images.ctfassets.net/alneenqid6w5/5oheUsdoc0aKS4ysOwQ6ig/66a11beac0c32d7fde34d43b94fb45bb/template-condicionado-cms.png)
 
 Después de llenar todos los campos, asegúrese de guardar los cambios realizados haciendo clic en __Save Layout__.
 

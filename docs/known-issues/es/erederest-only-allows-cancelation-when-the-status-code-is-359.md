@@ -1,5 +1,5 @@
 ---
-title: ERedeRest sólo permite la cancelación cuando el código de estado es 359
+title: 'ERedeRest sólo permite la cancelación cuando el código de estado es 359'
 id: 5lNLTmKp1xRfewx9OyhcNk
 status: PUBLISHED
 createdAt: 2023-01-26T18:29:35.310Z

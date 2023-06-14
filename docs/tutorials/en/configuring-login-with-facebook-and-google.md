@@ -1,5 +1,5 @@
 ---
-title: Configuring login with Facebook and Google
+title: 'Configuring login with Facebook and Google'
 id: tutorials_513
 status: PUBLISHED
 createdAt: 2017-04-27T22:03:01.743Z
@@ -30,12 +30,12 @@ Before configuring our login integration with Google and Facebook, you need to c
 Once you have completed the previous step on Facebook and/or Google, you must configure the login options for these two providers in your store. In both cases, you will need to have in hands your `Client ID` and `Client Secret`.
 
 1. Access the VTEX ID module from the store administration dashboard in the Account Settings > Authentication menu;
-  ![List Authentication](https://images.ctfassets.net/alneenqid6w5/3Bnb1ifcL7krcXEnAHzxu1/7c232ba07cbf687813319f27328468f7/autenticacao_EN.png)
+  ![List Authentication](//images.ctfassets.net/alneenqid6w5/3Bnb1ifcL7krcXEnAHzxu1/7c232ba07cbf687813319f27328468f7/autenticacao_EN.png)
 2. Select the provider and click on **EDIT**;
 3. Fill out the form with the `Client ID` and the `Client Secret`;
-  ![Facebook OAuth EN](https://images.ctfassets.net/alneenqid6w5/2mWEocn4zdG0BJVMaujzk8/06b29f9c839316df31c736a315ba1786/facebook_EN.png)
+  ![Facebook OAuth EN](//images.ctfassets.net/alneenqid6w5/2mWEocn4zdG0BJVMaujzk8/06b29f9c839316df31c736a315ba1786/facebook_EN.png)
 4. Activate providers using theirs toggle switches.
-  ![List Authentication Switch On Highlight](https://images.ctfassets.net/alneenqid6w5/4devCJpXnMWF3TV6xMDiUT/02ec0a744eb98636917b144e09cc9b3c/switch_On_highlight_EN.png)
+  ![List Authentication Switch On Highlight](//images.ctfassets.net/alneenqid6w5/4devCJpXnMWF3TV6xMDiUT/02ec0a744eb98636917b144e09cc9b3c/switch_On_highlight_EN.png)
 
 ## Validate the configuration
 

@@ -1,5 +1,5 @@
 ---
-title: Crear appKey y appToken para autenticar las integraciones
+title: 'Crear appKey y appToken para autenticar las integraciones'
 id: 43tQeyQJgAKGEuCqQKAOI2
 status: DRAFT
 createdAt: 2017-10-24T13:30:43.908Z

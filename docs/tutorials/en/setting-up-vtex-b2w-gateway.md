@@ -1,5 +1,5 @@
 ---
-title: Setting up VTEX B2W gateway
+title: 'Setting up VTEX B2W gateway'
 id: 4Xssw6LV5ewAWEssiqgmU6
 status: DRAFT
 createdAt: 2018-03-09T15:11:51.754Z

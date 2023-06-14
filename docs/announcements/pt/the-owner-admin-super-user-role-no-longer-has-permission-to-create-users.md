@@ -1,5 +1,5 @@
 ---
-title: "O perfil de acesso Owner (Admin Super) não tem mais permissão para criação de usuários"
+title: 'O perfil de acesso Owner (Admin Super) não tem mais permissão para criação de usuários'
 id: 5OpVXwzX5NWqTkVZ7QLMBd
 status: PUBLISHED
 createdAt: 2023-02-03T14:49:10.763Z
@@ -10,8 +10,8 @@ productTeam: Identity
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: o-perfil-de-acesso-owner-admin-super-nao-tem-mais-permissao-para-criacao-de-usuarios
 legacySlug: 
-announcementImageID: ""
-announcementSynopsisPT: O perfil de acesso Owner (Admin Super) não inclui mais o recurso Save user, ligado a ações de gerenciamento de usuários.
+announcementImageID: ''
+announcementSynopsisPT: 'O perfil de acesso Owner (Admin Super) não inclui mais o recurso Save user, ligado a ações de gerenciamento de usuários.'
 ---
 
 **Owner (Admin Super)** é um [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) que abarca praticamente todos os [recursos](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) necessários para acessar informações e realizar tarefas no dia a dia da sua loja VTEX.

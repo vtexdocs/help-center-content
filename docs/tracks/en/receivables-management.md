@@ -1,5 +1,5 @@
 ---
-title: Receivables management
+title: 'Receivables management'
 id: 4zO5DEg07BSqHsmlBrCgvr
 status: PUBLISHED
 createdAt: 2020-05-28T18:01:47.594Z

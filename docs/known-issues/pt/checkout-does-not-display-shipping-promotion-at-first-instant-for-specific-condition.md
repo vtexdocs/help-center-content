@@ -1,5 +1,5 @@
 ---
-title: O checkout não exibe promoção de remessa no primeiro instante para condições específicas
+title: 'O checkout não exibe promoção de remessa no primeiro instante para condições específicas'
 id: 14rQaM53csQQeA1wu5lRj8
 status: PUBLISHED
 createdAt: 2022-05-20T17:46:10.644Z

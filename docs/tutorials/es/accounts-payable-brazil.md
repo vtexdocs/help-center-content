@@ -1,5 +1,5 @@
 ---
-title: Cuentas a Pagar - Brasil
+title: 'Cuentas a Pagar - Brasil'
 id: tutorials_660
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:25.003Z

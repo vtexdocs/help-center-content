@@ -1,5 +1,5 @@
 ---
-title: Collections - Concept Definition
+title: 'Collections - Concept Definition'
 id: 4hN41yU8IPeb8HKmmaXoca
 status: PUBLISHED
 createdAt: 2019-05-24T15:10:08.139Z

@@ -1,5 +1,5 @@
 ---
-title: Schema não apresenta preço em itens outOfstock (indisponíveis)
+title: 'Schema não apresenta preço em itens outOfstock (indisponíveis)'
 id: 492FPEWTmgsWuq6wWqSUEu
 status: PUBLISHED
 createdAt: 2018-01-29T20:29:42.910Z

@@ -1,5 +1,5 @@
 ---
-title: O seletor de quantidade no modo stepper não se atualiza após atingir a qunatity máxima disponível
+title: 'O seletor de quantidade no modo stepper não se atualiza após atingir a qunatity máxima disponível'
 id: 77bK8oIAPR8LEMtOn6QEqs
 status: PUBLISHED
 createdAt: 2022-12-23T12:20:23.568Z

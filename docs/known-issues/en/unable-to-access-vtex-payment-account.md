@@ -1,5 +1,5 @@
 ---
-title: Unable to access VTEX Payment account.
+title: 'Unable to access VTEX Payment account.'
 id: 3hcMhWyKTZj4S40a5DrxGA
 status: PUBLISHED
 createdAt: 2022-03-25T16:35:36.624Z

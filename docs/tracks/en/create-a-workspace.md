@@ -1,5 +1,5 @@
 ---
-title: Create a workspace
+title: 'Create a workspace'
 id: 4weumbbMpW2QOQoCi0GIU6
 status: DRAFT
 createdAt: 2018-04-26T19:27:03.943Z

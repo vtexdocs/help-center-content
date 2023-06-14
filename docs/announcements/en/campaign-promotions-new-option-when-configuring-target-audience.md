@@ -1,5 +1,5 @@
 ---
-title: "Campaign promotions: New option when configuring target audience"
+title: 'Campaign promotions: New option when configuring target audience'
 id: UJOyf1nYJ0xHXl88RytJ5
 status: PUBLISHED
 createdAt: 2022-07-22T14:00:40.004Z
@@ -10,8 +10,8 @@ productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: campaign-promotions-new-option-when-configuring-target-audience
 legacySlug: campaign-promotions-new-option-when-configuring-target-audience
-announcementImageID: ""
-announcementSynopsisEN: Use multiple target audiences in a campaign audience simultaneously, instead of applying audiences alternatively.
+announcementImageID: ''
+announcementSynopsisEN: 'Use multiple target audiences in a campaign audience simultaneously, instead of applying audiences alternatively.'
 ---
 
 Promotions dedicated to segments of audience are strategic actions for attracting and retaining customers. At VTEX, a [campaign promotion](https://help.vtex.com/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume) allows you to reach specific target audiences within a single [campaign audience](https://help.vtex.com/en/tutorial/campaign-audiences--3o7lhpNseXY2WmjZO0gQ6m).
@@ -22,7 +22,7 @@ We have improved the campaign audience settings so that you can add up target au
 
 In the VTEX Admin, **Products > Promotions and Taxes > Campaign Audience > New Campaign Audience**, in the settings related to the **Target Audience**, we added the "and" option, where there was previously only the "or" option. This means that now you can apply a criteria adding logic ("and") besides the pre-existent alternative logic ("or"). Please see the image below:
 
-![publico-alvo-e-ou-en](https://images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/655312e51c8e30a847cb012d4382de39/en-publico-alvo.gif)
+![publico-alvo-e-ou-en](//images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/655312e51c8e30a847cb012d4382de39/en-publico-alvo.gif)
 
 Using the new option, you can create campaign promotions flexibly combining different criteria.
 

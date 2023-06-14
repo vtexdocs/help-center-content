@@ -1,5 +1,5 @@
 ---
-title: Personalizar el SMTP de VTEX
+title: 'Personalizar el SMTP de VTEX'
 id: tutorials_2733
 status: PUBLISHED
 createdAt: 2017-04-27T21:52:41.580Z

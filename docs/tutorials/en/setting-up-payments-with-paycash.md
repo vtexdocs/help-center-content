@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with Paycash
+title: 'Setting up payments with Paycash'
 id: 5gxrb0YlEhq0JnprN2uaOf
 status: PUBLISHED
 createdAt: 2023-04-06T17:19:09.254Z

@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo distribuir el servicio de respuesta en WhatsApp a más de un número?
+title: '¿Cómo distribuir el servicio de respuesta en WhatsApp a más de un número?'
 id: 4Xgqw105OM7zRdKmdY6avV
 status: PUBLISHED
 createdAt: 2022-08-25T17:49:03.709Z

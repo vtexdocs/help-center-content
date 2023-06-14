@@ -1,5 +1,5 @@
 ---
-title: How to integrate an external Gift Card provider with VTEX
+title: 'How to integrate an external Gift Card provider with VTEX'
 id: tutorials_450
 status: PUBLISHED
 createdAt: 2017-04-27T22:05:26.566Z

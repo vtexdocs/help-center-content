@@ -1,5 +1,5 @@
 ---
-title: Configuring physical stores integration with B2W
+title: 'Configuring physical stores integration with B2W'
 id: 1yv2BSquNmdp8M6vJvaLwm
 status: PUBLISHED
 createdAt: 2021-03-09T18:14:58.278Z

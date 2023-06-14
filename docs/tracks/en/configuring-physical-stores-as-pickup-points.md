@@ -1,5 +1,5 @@
 ---
-title: Physical stores as pickup points
+title: 'Physical stores as pickup points'
 id: 4hXfgqXxS1lwAfnxgja3xW
 status: PUBLISHED
 createdAt: 2021-08-23T17:04:37.282Z

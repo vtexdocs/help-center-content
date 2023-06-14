@@ -1,5 +1,5 @@
 ---
-title: Adding a seller
+title: 'Adding a seller'
 id: tutorials_392
 status: PUBLISHED
 createdAt: 2017-04-27T22:07:15.357Z

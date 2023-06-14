@@ -1,5 +1,5 @@
 ---
-title: What publishing an app means
+title: 'What publishing an app means'
 id: 4uixZEIGq4GiEsOYo2QiCC
 status: DRAFT
 createdAt: 2017-11-22T13:16:44.413Z

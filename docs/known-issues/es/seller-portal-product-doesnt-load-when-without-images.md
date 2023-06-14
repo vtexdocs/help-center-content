@@ -1,5 +1,5 @@
 ---
-title: El producto del portal del vendedor no se carga sin imágenes
+title: 'El producto del portal del vendedor no se carga sin imágenes'
 id: 58szTo4jJRTjjIoGoDXH3F
 status: PUBLISHED
 createdAt: 2023-05-02T13:58:51.153Z

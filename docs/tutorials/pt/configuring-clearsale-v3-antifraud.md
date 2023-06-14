@@ -1,5 +1,5 @@
 ---
-title: Configurar antifraude ClearSale v3
+title: 'Configurar antifraude ClearSale v3'
 id: 2pPORygesIqQOa6cIG6agg
 status: PUBLISHED
 createdAt: 2017-10-30T14:10:20.822Z

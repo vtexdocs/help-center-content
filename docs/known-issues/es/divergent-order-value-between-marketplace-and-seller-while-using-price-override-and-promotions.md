@@ -1,5 +1,5 @@
 ---
-title: Valor de pedido divergente entre el mercado y el vendedor al utilizar anulación de precios y promociones
+title: 'Valor de pedido divergente entre el mercado y el vendedor al utilizar anulación de precios y promociones'
 id: 4OsDOEqVDpDTen3BFyHSYf
 status: PUBLISHED
 createdAt: 2023-02-17T18:37:04.409Z

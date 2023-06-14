@@ -1,5 +1,5 @@
 ---
-title: Configurar cache para consultas ao Master Data
+title: 'Configurar cache para consultas ao Master Data'
 id: SmOSkCybOCa02Ssakca28
 status: DRAFT
 createdAt: 2018-03-01T20:30:33.229Z

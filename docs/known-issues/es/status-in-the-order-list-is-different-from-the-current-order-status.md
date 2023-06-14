@@ -1,5 +1,5 @@
 ---
-title: El estado en la lista de pedidos es diferente del estado actual del pedido
+title: 'El estado en la lista de pedidos es diferente del estado actual del pedido'
 id: 2UBFdtXWtCIygv0SiObCTN
 status: PUBLISHED
 createdAt: 2022-05-11T18:25:07.711Z

@@ -1,5 +1,5 @@
 ---
-title: No se envía el correo electrónico de confirmación del pedido
+title: 'No se envía el correo electrónico de confirmación del pedido'
 id: 4RelMFApLldLtf0GxhYzdt
 status: PUBLISHED
 createdAt: 2023-03-10T22:07:59.908Z

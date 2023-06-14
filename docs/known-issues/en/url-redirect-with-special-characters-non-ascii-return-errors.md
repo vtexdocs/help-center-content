@@ -1,5 +1,5 @@
 ---
-title: URL Redirect with special characters non ascii return errors
+title: 'URL Redirect with special characters non ascii return errors'
 id: 3rqIVyN7gPKAz0WRzgV4Zc
 status: PUBLISHED
 createdAt: 2023-02-10T13:05:23.823Z

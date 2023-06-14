@@ -1,5 +1,5 @@
 ---
-title: Los productos destacados no funcionan en una lista de productos
+title: 'Los productos destacados no funcionan en una lista de productos'
 id: 7lh3YMj55vQvs3EEQFUas1
 status: PUBLISHED
 createdAt: 2022-03-21T17:34:16.526Z

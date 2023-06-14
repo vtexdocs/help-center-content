@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Dock
+title: 'Configurar pago con Dock'
 id: 3Y0tLnXjBcG9qxHwAHGbHn
 status: PUBLISHED
 createdAt: 2022-07-19T19:58:56.608Z

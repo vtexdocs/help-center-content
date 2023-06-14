@@ -1,5 +1,5 @@
 ---
-title: "Guias de integración con ERP tienen una nueva casa"
+title: 'Guias de integración con ERP tienen una nueva casa'
 id: 3lqN5Z0ydDBAxxYN9mbQ6K
 status: PUBLISHED
 createdAt: 2020-06-03T23:49:57.335Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 56yU9Wz6mLwmzo82TjgAHy
 slug: guias-de-integracion-con-erp-tienen-una-nueva-casa
 legacySlug: guia-de-integracion-de-erps-pedidos, guia-de-integracion-de-erps-catalogo-expreso, guia-de-integracion-de-erps-catalogo-completo, guia-de-integracion-de-erps-arquitectura-del-catalogo, interfaces-de-integracion
-announcementImageID: ""
-announcementSynopsisES: Esta documentación se actualizó recientemente y está disponible en nuestro Developer Portal.
+announcementImageID: ''
+announcementSynopsisES: 'Esta documentación se actualizó recientemente y está disponible en nuestro Developer Portal.'
 ---
 
 Como parte del esfuerzo por migrar la documentación para desarrolladores a nuestro Developer Portal, recientemente creamos una nueva [Guía de integración ERP](https://developers.vtex.com/docs/guides/erp-integration-guide) que detalla cómo usar nuestros puntos finales API para:

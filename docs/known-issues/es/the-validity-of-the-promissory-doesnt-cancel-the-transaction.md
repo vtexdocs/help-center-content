@@ -1,5 +1,5 @@
 ---
-title: La validez del pagaré no anula la transacción
+title: 'La validez del pagaré no anula la transacción'
 id: 3mm3tWIDKOAE9b0Yq0Wy70
 status: PUBLISHED
 createdAt: 2022-03-28T02:33:39.185Z

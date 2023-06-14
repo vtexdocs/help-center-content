@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con MobilPay
+title: 'Configurar pago con MobilPay'
 id: 3NG5rHR700xg8CaPy1IGRn
 status: DRAFT
 createdAt: 2022-02-22T15:08:29.690Z

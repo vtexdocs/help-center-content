@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamentos com Stelo
+title: 'Configurar pagamentos com Stelo'
 id: 6c16nRhAGWaA2mSUOOuC00
 status: PUBLISHED
 createdAt: 2018-03-02T20:20:44.376Z

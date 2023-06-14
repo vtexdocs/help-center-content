@@ -1,5 +1,5 @@
 ---
-title: "Un nuevo filtro del feed permite las notificaciones relacionadas con cualquier atributo del pedido"
+title: 'Un nuevo filtro del feed permite las notificaciones relacionadas con cualquier atributo del pedido'
 id: 4j99SY7EW0sSJz1Vu0p4uP
 status: PUBLISHED
 createdAt: 2021-05-20T16:39:31.231Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 2Gy429C47ie3tL9XUEjeFL
 slug: nuevas-opciones-de-filtrado-para-feed-y-hook
 legacySlug: nuevas-opciones-de-filtrado-para-feed-y-hook
-announcementImageID: ""
-announcementSynopsisES: Ahora es posible filtrar el Feed de pedidos por cualquier atributo, como por entrega o cambios de ítems.
+announcementImageID: ''
+announcementSynopsisES: 'Ahora es posible filtrar el Feed de pedidos por cualquier atributo, como por entrega o cambios de ítems.'
 ---
 
 Hemos mejorado las opciones de configuración del [Feed y Hook](https://developers.vtex.com/vtex-rest-api/docs/feed-v3-1) de pedidos con un nuevo filtro que permite a las tiendas recibir actualizaciones relacionadas con cualquier atributo del pedido. Ahora es posible recibir actualizaciones cuando se entrega un pedido o cuando se cambian los ítems, entre otras cosas.

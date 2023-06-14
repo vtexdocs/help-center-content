@@ -1,5 +1,5 @@
 ---
-title: El conector antifraude ClearSale está enviando los artículos del carrito equivocados en los casos en los que dos o más artículos comparten el mismo nombre.
+title: 'El conector antifraude ClearSale está enviando los artículos del carrito equivocados en los casos en los que dos o más artículos comparten el mismo nombre.'
 id: 1OSID8MeL6DxaM3urR7CHj
 status: PUBLISHED
 createdAt: 2023-04-28T12:21:24.524Z

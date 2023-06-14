@@ -1,5 +1,5 @@
 ---
-title: Perguntas frequentes VTEX Shipping Network
+title: 'Perguntas frequentes VTEX Shipping Network'
 id: 7rORylcjzSixyExqVhtmaW
 status: PUBLISHED
 createdAt: 2020-07-20T17:29:40.264Z

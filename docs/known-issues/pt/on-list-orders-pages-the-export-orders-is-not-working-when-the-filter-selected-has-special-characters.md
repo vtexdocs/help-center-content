@@ -1,5 +1,5 @@
 ---
-title: Nas páginas de Ordens de Lista, as Ordens de Exportação não estão funcionando quando o filtro selecionado tem caracteres especiais
+title: 'Nas páginas de Ordens de Lista, as Ordens de Exportação não estão funcionando quando o filtro selecionado tem caracteres especiais'
 id: 2eA1rykmTHxhUsiCQmeNoA
 status: PUBLISHED
 createdAt: 2022-09-21T17:54:38.517Z

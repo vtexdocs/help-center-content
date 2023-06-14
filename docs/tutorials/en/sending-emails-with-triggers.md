@@ -1,5 +1,5 @@
 ---
-title: Sending emails with triggers in Master Data v2
+title: 'Sending emails with triggers in Master Data v2'
 id: 1gMSksj9SuW8EwyscsgKGK
 status: DRAFT
 createdAt: 2018-04-02T22:56:53.499Z

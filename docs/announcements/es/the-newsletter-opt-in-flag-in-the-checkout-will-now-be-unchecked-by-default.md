@@ -1,5 +1,5 @@
 ---
-title: "El flag de newsletter del Checkout ahora vendrá deseleccionado por defecto"
+title: 'El flag de newsletter del Checkout ahora vendrá deseleccionado por defecto'
 id: 5MUJ8mDdxjWZqfqAw2dMg8
 status: PUBLISHED
 createdAt: 2020-04-15T14:00:58.118Z
@@ -10,8 +10,8 @@ productTeam: Shopping
 author: authors_24
 slug: el-flag-de-newsletter-del-checkout-ahora-vendra-deseleccionado-por-defecto
 legacySlug: el-flag-de-newsletter-del-checkout-ahora-vendra-deseleccionado-por-defecto
-announcementImageID: ""
-announcementSynopsisES: El flag de newsletter del Checkout ahora vendrá deseleccionado. Si usted personaliza el flag, comprenda el cambio.
+announcementImageID: ''
+announcementSynopsisES: 'El flag de newsletter del Checkout ahora vendrá deseleccionado. Si usted personaliza el flag, comprenda el cambio.'
 ---
 
 A partir del __27 de abril de 2020__, la interfaz de usuario de VTEX Checkout recibirá un cambio importante: el flag de recibir el newsletter de la tienda, que actualmente viene seleccionado por defecto, ahora vendrá __deseleccionado por defecto__.

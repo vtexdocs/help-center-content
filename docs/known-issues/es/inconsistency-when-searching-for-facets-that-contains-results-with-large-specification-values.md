@@ -1,5 +1,5 @@
 ---
-title: Incoherencia al buscar facetas que contienen resultados con valores de especificación grandes.
+title: 'Incoherencia al buscar facetas que contienen resultados con valores de especificación grandes.'
 id: 4taz7hmgvjn3hqWyyjxiKz
 status: PUBLISHED
 createdAt: 2023-05-11T17:42:06.008Z

@@ -1,5 +1,5 @@
 ---
-title: A posição na imagem selecionada no PDP não é reinicializada ao mudar de produto
+title: 'A posição na imagem selecionada no PDP não é reinicializada ao mudar de produto'
 id: btvmr3xSpxnJnxbahLefT
 status: PUBLISHED
 createdAt: 2022-06-14T14:04:04.519Z

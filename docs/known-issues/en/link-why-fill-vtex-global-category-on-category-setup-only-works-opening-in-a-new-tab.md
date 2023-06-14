@@ -1,5 +1,5 @@
 ---
-title: Link "Why fill VTEX Global Category?" on category setup only works opening in a new tab
+title: 'Link "Why fill VTEX Global Category?" on category setup only works opening in a new tab'
 id: 3u7aq2otUovQbO98lzjbus
 status: PUBLISHED
 createdAt: 2022-03-16T17:59:14.355Z

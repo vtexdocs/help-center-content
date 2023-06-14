@@ -1,5 +1,5 @@
 ---
-title: "Benefits now consider payment system condition for more than one trade policy"
+title: 'Benefits now consider payment system condition for more than one trade policy'
 id: 1W3IUT2YuAOu6eeAcCwYWs
 status: PUBLISHED
 createdAt: 2017-11-28T18:11:55.463Z
@@ -10,8 +10,8 @@ productTeam: Channels
 author: authors_24
 slug: benefits-now-consider-condition-of-payment-system-for-more-than-one-trade
 legacySlug: benefits-now-consider-condition-of-payment-system-for-more-than-one-trade
-announcementImageID: ""
-announcementSynopsisEN: Benefits now recognize the payment medium filter combined with the commercial policy filter
+announcementImageID: ''
+announcementSynopsisEN: 'Benefits now recognize the payment medium filter combined with the commercial policy filter'
 ---
 
 Benefits in the Promotions & Taxes module now recognize the payment system filter combined with the trade policy filter.

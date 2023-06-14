@@ -1,5 +1,5 @@
 ---
-title: Cadastrar API de frete
+title: 'Cadastrar API de frete'
 id: 3W7OqhHUl2CQKIsAc0SS4g
 status: PUBLISHED
 createdAt: 2018-09-27T22:38:15.061Z

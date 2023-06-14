@@ -1,5 +1,5 @@
 ---
-title: Setting up PayZen gateway
+title: 'Setting up PayZen gateway'
 id: 3v3n5eQvxem8MQOCkugk24
 status: PUBLISHED
 createdAt: 2018-03-13T19:39:04.093Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar split de pagamento
+title: 'Configurar split de pagamento'
 id: 4EOhp8cdVXaHl68KykPG6
 status: DRAFT
 createdAt: 2020-11-05T20:01:18.593Z

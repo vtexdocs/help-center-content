@@ -1,5 +1,5 @@
 ---
-title: "Nuevo dashboard: Desempeño de Ventas"
+title: 'Nuevo dashboard: Desempeño de Ventas'
 id: 5H7Vp6BHhiOmBU8XVj7nvV
 status: PUBLISHED
 createdAt: 2021-10-19T12:36:56.184Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: nuevo-dashboard-desempeno-de-ventas
 legacySlug: nuevo-dashboard-desempeno-de-ventas
-announcementImageID: ""
-announcementSynopsisES: Analiza los datos de tus canales de venta y obtén inteligencia empresarial con el nuevo dashboard Desempeño de Ventas.
+announcementImageID: ''
+announcementSynopsisES: 'Analiza los datos de tus canales de venta y obtén inteligencia empresarial con el nuevo dashboard Desempeño de Ventas.'
 ---
 
 
@@ -19,7 +19,7 @@ Con un volumen cada vez mayor de datos disponibles para que las operaciones de e
 
 El dashboard permite a los usuarios analizar los datos de todos los canales de venta de la tienda y de sus sellers, incluyendo métricas sobre los ingresos, los pedidos, el ticket promedio y mucho más. También incluye gráficos y tablas para que puedas comparar los resultados de diferentes periodos, e introduce once opciones de filtro para proporcionar insights unificados de toda la operación.
 
-![Sales Perf Dash ES](https://images.ctfassets.net/alneenqid6w5/1nTkH8KfhrLPOBuxFhcZvC/49985a1bc354e18e3dce208e12bfbdb5/Sales_Perf_Dash_ES.gif)
+![Sales Perf Dash ES](//images.ctfassets.net/alneenqid6w5/1nTkH8KfhrLPOBuxFhcZvC/49985a1bc354e18e3dce208e12bfbdb5/Sales_Perf_Dash_ES.gif)
 
 ## ¿Qué cambió?
 Anteriormente, tu Admin VTEX solo contaba con la página Insights para generar inteligencia empresarial a partir de los datos de tus operaciones. Ahora hemos incluido una nueva página, Desempeño de Ventas, para ofrecerte una visión más detallada de los resultados de los diferentes canales de venta de tu tienda. La página Insights permanecerá en tu Admin VTEX.

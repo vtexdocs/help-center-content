@@ -1,5 +1,5 @@
 ---
-title: Inactive SKU Notice
+title: 'Inactive SKU Notice'
 id: 4z6BLCm2rjqi6oipQWPF6P
 status: DRAFT
 createdAt: 2022-02-11T01:38:38.732Z

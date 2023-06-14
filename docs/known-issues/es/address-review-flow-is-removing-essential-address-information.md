@@ -1,5 +1,5 @@
 ---
-title: El flujo de revisión de direcciones está eliminando la información esencial de la dirección
+title: 'El flujo de revisión de direcciones está eliminando la información esencial de la dirección'
 id: 416pFRk6KsWIfgPr8pzWii
 status: PUBLISHED
 createdAt: 2022-08-11T18:33:49.548Z

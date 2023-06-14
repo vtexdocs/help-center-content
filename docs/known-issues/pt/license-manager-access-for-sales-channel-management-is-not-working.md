@@ -1,5 +1,5 @@
 ---
-title: O acesso do License Manager para o gerenciamento de Políticas Comerciais não está funcionando.
+title: 'O acesso do License Manager para o gerenciamento de Políticas Comerciais não está funcionando.'
 id: 3WDPBnMmivNPhalJwC8ZmA
 status: PUBLISHED
 createdAt: 2022-01-25T20:47:12.501Z

@@ -1,5 +1,5 @@
 ---
-title: Utilizar o Relatório de Indexação
+title: 'Utilizar o Relatório de Indexação'
 id: 4ikVpMhwByyS8sysaeOIm4
 status: CHANGED
 createdAt: 2017-07-04T13:10:40.431Z

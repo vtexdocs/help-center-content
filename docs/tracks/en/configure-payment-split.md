@@ -1,5 +1,5 @@
 ---
-title: Configure payment split
+title: 'Configure payment split'
 id: 4EOhp8cdVXaHl68KykPG6
 status: DRAFT
 createdAt: 2020-11-05T20:01:18.593Z

@@ -1,5 +1,5 @@
 ---
-title: Função ObterTotalDePontos não funciona dentro do Campo Automatico
+title: 'Função ObterTotalDePontos não funciona dentro do Campo Automatico'
 id: 1iHy0tOPoUEIyGsYoq2Sqm
 status: PUBLISHED
 createdAt: 2018-12-10T18:08:19.476Z

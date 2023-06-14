@@ -1,5 +1,5 @@
 ---
-title: Cálculo incorreto de entrega quando um dos SLAs não possui todos os itens
+title: 'Cálculo incorreto de entrega quando um dos SLAs não possui todos os itens'
 id: 57rd31npt6iWcOQm0gIAMA
 status: PUBLISHED
 createdAt: 2018-08-06T18:50:44.391Z

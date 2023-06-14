@@ -1,5 +1,5 @@
 ---
-title: El selector de cantidad en modo paso a paso no se actualiza después de alcanzar la máxima cantidad disponible.
+title: 'El selector de cantidad en modo paso a paso no se actualiza después de alcanzar la máxima cantidad disponible.'
 id: 77bK8oIAPR8LEMtOn6QEqs
 status: PUBLISHED
 createdAt: 2022-12-23T12:20:23.568Z

@@ -1,5 +1,5 @@
 ---
-title: Configurar mensaje personalizado de regalo
+title: 'Configurar mensaje personalizado de regalo'
 id: tutorials_291
 status: PUBLISHED
 createdAt: 2017-04-27T22:09:47.349Z

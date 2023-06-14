@@ -1,5 +1,5 @@
 ---
-title: La condición de pago único no aparece en el checkout.
+title: 'La condición de pago único no aparece en el checkout.'
 id: 3L7GJTRaWWA9Wjw2zkQqtS
 status: PUBLISHED
 createdAt: 2022-06-29T11:57:22.859Z

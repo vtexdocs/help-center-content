@@ -1,5 +1,5 @@
 ---
-title: Cannot filter by error type in the excel Integrations export spreadsheet
+title: 'Cannot filter by error type in the excel Integrations export spreadsheet'
 id: 1gl97y31UE6WqWSkKku2UC
 status: PUBLISHED
 createdAt: 2017-12-15T12:40:09.384Z

@@ -1,5 +1,5 @@
 ---
-title: Como funciona o Adaptador VTEX?
+title: 'Como funciona o Adaptador VTEX?'
 id: 5hXbbNSbB115TRtmOeOC2Z
 status: PUBLISHED
 createdAt: 2021-10-05T21:31:25.859Z

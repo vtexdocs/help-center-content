@@ -1,5 +1,5 @@
 ---
-title: URL que redirigen a EmptySearch
+title: 'URL que redirigen a EmptySearch'
 id: 1ldn0vS1KKmHmvniHfr7lp
 status: PUBLISHED
 createdAt: 2023-03-29T20:28:46.379Z

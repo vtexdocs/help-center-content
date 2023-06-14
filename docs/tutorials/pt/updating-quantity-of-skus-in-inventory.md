@@ -1,5 +1,5 @@
 ---
-title: Atualizar quantidade de SKUs em estoque
+title: 'Atualizar quantidade de SKUs em estoque'
 id: IKMWjOjMcMqKusSGko8c0
 status: DRAFT
 createdAt: 2018-10-02T19:10:45.879Z

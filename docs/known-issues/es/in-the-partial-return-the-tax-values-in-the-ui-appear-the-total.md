@@ -1,5 +1,5 @@
 ---
-title: En la declaración parcial, los valores de los impuestos en la UI aparecen el total
+title: 'En la declaración parcial, los valores de los impuestos en la UI aparecen el total'
 id: 2I5a9hwrUo6s1htxOg8H1U
 status: PUBLISHED
 createdAt: 2022-04-11T13:15:06.455Z

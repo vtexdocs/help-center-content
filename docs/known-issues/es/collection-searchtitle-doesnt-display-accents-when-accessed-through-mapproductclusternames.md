@@ -1,5 +1,5 @@
 ---
-title: El título de búsqueda de la colección no muestra los acentos cuando se accede a través de map=productClusterNames
+title: 'El título de búsqueda de la colección no muestra los acentos cuando se accede a través de map=productClusterNames'
 id: 41m89nYPVQxFaNUXAcGo3X
 status: PUBLISHED
 createdAt: 2022-03-21T17:40:39.850Z

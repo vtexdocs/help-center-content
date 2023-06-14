@@ -1,5 +1,5 @@
 ---
-title: What does VTEX consider as revenues for invoice calculation?
+title: 'What does VTEX consider as revenues for invoice calculation?'
 id: 58j4cfoXfisWyemASACwSq
 status: CHANGED
 createdAt: 2019-01-24T20:45:47.341Z
@@ -32,7 +32,7 @@ To learn how to access the orders that were considered for revenues calculation,
 All financially approved orders will receive this status, which can be seen in the orders management module:
 
 
-![image (2)](https://images.ctfassets.net/alneenqid6w5/1Q14q5mtiayBLRBSupsKGs/53c5555a68359b9fd3dd882336beccb7/image__2_.png)
+![image (2)](//images.ctfassets.net/alneenqid6w5/1Q14q5mtiayBLRBSupsKGs/53c5555a68359b9fd3dd882336beccb7/image__2_.png)
 
 
 To access this module, follow the step by step below:

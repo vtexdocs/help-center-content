@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo consultar el detalle de los movimientos financieros?
+title: '¿Cómo consultar el detalle de los movimientos financieros?'
 id: 3JolGkk8RcxF9UttM9MqB7
 status: DRAFT
 createdAt: 2020-06-24T22:17:42.374Z

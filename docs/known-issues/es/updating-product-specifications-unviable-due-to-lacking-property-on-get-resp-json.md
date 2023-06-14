@@ -1,5 +1,5 @@
 ---
-title: Actualización de las especificaciones del producto inviable debido a la falta de propiedad en GET Resp. JSON
+title: 'Actualización de las especificaciones del producto inviable debido a la falta de propiedad en GET Resp. JSON'
 id: 6FeuIyF2E5WdS0PNRRzgdA
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:06.720Z

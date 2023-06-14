@@ -1,5 +1,5 @@
 ---
-title: 
+title: ''
 id: KI50xtqPhcdTJS1o4iufD
 status: DRAFT
 createdAt: 2020-08-24T16:48:46.057Z

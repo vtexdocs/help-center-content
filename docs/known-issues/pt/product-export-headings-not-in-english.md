@@ -1,5 +1,5 @@
 ---
-title: Títulos de colunas da exportação de produtos indisponíveis em inglês
+title: 'Títulos de colunas da exportação de produtos indisponíveis em inglês'
 id: 5Xxm9H2gRYnZ2jm3Wwt1TV
 status: PUBLISHED
 createdAt: 2019-01-23T21:52:49.274Z

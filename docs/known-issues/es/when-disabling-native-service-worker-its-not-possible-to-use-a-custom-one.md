@@ -1,5 +1,5 @@
 ---
-title: Cuando se desactiva el service worker nativo no es posible utilizar uno personalizado
+title: 'Cuando se desactiva el service worker nativo no es posible utilizar uno personalizado'
 id: 1GpzVam1nuGbrKR4Izx6D9
 status: PUBLISHED
 createdAt: 2023-03-14T18:20:55.443Z

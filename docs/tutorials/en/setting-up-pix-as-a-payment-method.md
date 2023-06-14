@@ -1,5 +1,5 @@
 ---
-title: Setting up Pix as a payment method
+title: 'Setting up Pix as a payment method'
 id: 5sbNavMSJY4jyLmLKRHiOf
 status: PUBLISHED
 createdAt: 2020-11-10T19:51:24.848Z

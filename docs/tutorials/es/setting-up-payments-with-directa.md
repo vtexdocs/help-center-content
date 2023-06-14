@@ -1,5 +1,5 @@
 ---
-title: Configurar pago con Directa
+title: 'Configurar pago con Directa'
 id: 1YYZzSIgoE2UMCFbNFAHFK
 status: DRAFT
 createdAt: 2022-03-29T16:28:11.158Z

@@ -1,5 +1,5 @@
 ---
-title: "Avalie o atendimento da VTEX pelo seu Admin"
+title: 'Avalie o atendimento da VTEX pelo seu Admin'
 id: 7rSJLgGbtRw2GhjTJezkJf
 status: PUBLISHED
 createdAt: 2022-01-13T21:49:50.331Z
@@ -10,13 +10,13 @@ productTeam: Management
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: avalie-o-atendimento-da-vtex-pelo-seu-admin
 legacySlug: avalie-o-atendimento-da-vtex-pelo-seu-admin
-announcementImageID: ""
-announcementSynopsisPT: Lançamos uma página de pesquisa de satisfação no Admin VTEX para você avaliar seus chamados com nosso suporte.
+announcementImageID: ''
+announcementSynopsisPT: 'Lançamos uma página de pesquisa de satisfação no Admin VTEX para você avaliar seus chamados com nosso suporte.'
 ---
 
 Lançamos a nova página *Pesquisa de Satisfação* no seu Admin VTEX. Agora, você pode avaliar o atendimento do nosso suporte sem sair do ambiente VTEX.
 
-![Pesquisa de satisfação PT](https://images.ctfassets.net/alneenqid6w5/3W8q5tdB9ZOrPT4QFMZP2D/b213884709ae4bd96dc820d6b60b99b2/image__19_.png)
+![Pesquisa de satisfação PT](//images.ctfassets.net/alneenqid6w5/3W8q5tdB9ZOrPT4QFMZP2D/b213884709ae4bd96dc820d6b60b99b2/image__19_.png)
 
 ## O que mudou?
 

@@ -1,5 +1,5 @@
 ---
-title: New Route
+title: 'New Route'
 id: 58zHktlupty2jfvSYsQE5h
 status: PUBLISHED
 createdAt: 2021-03-31T17:07:01.944Z

@@ -1,5 +1,5 @@
 ---
-title: El precio de venta sobrescribe la lógica del precio del KIT
+title: 'El precio de venta sobrescribe la lógica del precio del KIT'
 id: 6eUXEJkxQUl6NCiFWrIiFw
 status: PUBLISHED
 createdAt: 2022-06-28T16:56:02.848Z

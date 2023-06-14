@@ -1,5 +1,5 @@
 ---
-title: Events available in Audit
+title: 'Events available in Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z

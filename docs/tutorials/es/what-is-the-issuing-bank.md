@@ -1,5 +1,5 @@
 ---
-title: ¿Qué es el Banco Emisor?
+title: '¿Qué es el Banco Emisor?'
 id: 7aVIVGwgtU4SWuqowSQksg
 status: PUBLISHED
 createdAt: 2018-02-19T13:32:08.386Z

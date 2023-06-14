@@ -1,5 +1,5 @@
 ---
-title: Put Price Overwrites KIT Price Logic
+title: 'Put Price Overwrites KIT Price Logic'
 id: 6eUXEJkxQUl6NCiFWrIiFw
 status: PUBLISHED
 createdAt: 2022-06-28T16:56:02.848Z

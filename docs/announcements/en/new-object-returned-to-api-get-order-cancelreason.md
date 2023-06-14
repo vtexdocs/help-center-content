@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 5V92cmF9jG8KG600EwUgEg
 slug: new-object-returned-to-api-get-order-cancelreason
 legacySlug: new-object-returned-to-api-get-order-cancelreason
-announcementImageID: ""
-announcementSynopsisEN: The JSON orders will return a new object called cancelReason.
+announcementImageID: ''
+announcementSynopsisEN: 'The JSON orders will return a new object called cancelReason.'
 ---
 
 As of May 10, 2019, JSON orders will return a new object called cancelReason.

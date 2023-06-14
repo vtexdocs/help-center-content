@@ -1,5 +1,5 @@
 ---
-title: No se puede asociar Sellers-SKUs en la planilla de Export/Import de SKU/Produto
+title: 'No se puede asociar Sellers-SKUs en la planilla de Export/Import de SKU/Produto'
 id: 1Y2qEpfCDOAQOgm0oeCCgW
 status: PUBLISHED
 createdAt: 2017-12-28T21:12:56.067Z

@@ -1,5 +1,5 @@
 ---
-title: "Versiones previas del script VTEX ID se descontinuarán"
+title: 'Versiones previas del script VTEX ID se descontinuarán'
 id: 1IHQ2NS5McYgKySOmyEmgU
 status: PUBLISHED
 createdAt: 2018-03-19T21:14:22.078Z
@@ -10,8 +10,8 @@ productTeam: Identity
 author: authors_24
 slug: versiones-previas-del-script-vtex-id-se-descontinuaran
 legacySlug: versiones-previas-del-script-vtex-id-se-descontinuaran
-announcementImageID: ""
-announcementSynopsisES: A partir del 21 de mayo, sólo la versión más actual del script del VTEX ID tendrá soporte de la plataforma.
+announcementImageID: ''
+announcementSynopsisES: 'A partir del 21 de mayo, sólo la versión más actual del script del VTEX ID tendrá soporte de la plataforma.'
 ---
 
 Utilizar versiones anteriores del script de VTEX ID hace que su tienda esté expuesta a brechas de seguridad ya resueltas por las versiones más recientes. Pensando en eso, decidimos mantener el soporte sólo para la última versión y discontinuar todas las anteriores. Este proceso se realizará en etapas, según el calendario siguiente:

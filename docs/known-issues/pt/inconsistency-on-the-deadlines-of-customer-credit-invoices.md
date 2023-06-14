@@ -1,5 +1,5 @@
 ---
-title: Inconsistência sobre os prazos das faturas de crédito ao cliente
+title: 'Inconsistência sobre os prazos das faturas de crédito ao cliente'
 id: 73zrcR44MDH7PAFdhu8fPM
 status: PUBLISHED
 createdAt: 2022-03-27T13:20:54.642Z

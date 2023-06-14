@@ -1,5 +1,5 @@
 ---
-title: El valor por defecto en la especificación sólo funciona cuando se crean productos a través de la administración
+title: 'El valor por defecto en la especificación sólo funciona cuando se crean productos a través de la administración'
 id: 6oL4LDFx18s0pOvOEKcniQ
 status: PUBLISHED
 createdAt: 2022-03-25T14:21:28.216Z

@@ -1,5 +1,5 @@
 ---
-title: Habilitando aplicaciones de una nueva tienda en el Master Data 
+title: 'Habilitando aplicaciones de una nueva tienda en el Master Data '
 id: 1mRKxiUXDeq2cC06CUEqOY
 status: PUBLISHED
 createdAt: 2017-06-20T22:03:59.355Z

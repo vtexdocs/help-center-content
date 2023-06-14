@@ -1,5 +1,5 @@
 ---
-title: Impossibilidade de usar duas ou mais credenciais diferentes do PayPal para a mesma conta.
+title: 'Impossibilidade de usar duas ou mais credenciais diferentes do PayPal para a mesma conta.'
 id: 3cVh2SbvToH8yGOOYcWgDB
 status: PUBLISHED
 createdAt: 2022-03-03T18:39:24.442Z

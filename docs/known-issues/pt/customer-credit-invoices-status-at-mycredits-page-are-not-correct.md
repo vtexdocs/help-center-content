@@ -1,5 +1,5 @@
 ---
-title: O status das faturas de crédito do cliente na página MyCredits não está correto
+title: 'O status das faturas de crédito do cliente na página MyCredits não está correto'
 id: 413knN4Gtk9GuZV5zFlw7k
 status: PUBLISHED
 createdAt: 2022-03-27T17:49:32.464Z

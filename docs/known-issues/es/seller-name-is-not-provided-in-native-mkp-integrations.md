@@ -1,5 +1,5 @@
 ---
-title: El Nombre del Seller no se provee en integraciones mkp nativas
+title: 'El Nombre del Seller no se provee en integraciones mkp nativas'
 id: bPx7CPZEXecgMe2Sscg6k
 status: PUBLISHED
 createdAt: 2017-12-28T15:21:09.238Z

@@ -1,5 +1,5 @@
 ---
-title: Erro no campo de quantidade máxima da mesma SKU no carrinho
+title: 'Erro no campo de quantidade máxima da mesma SKU no carrinho'
 id: 5xW5unmFphzQCwsmEochaG
 status: PUBLISHED
 createdAt: 2022-07-05T17:39:46.732Z

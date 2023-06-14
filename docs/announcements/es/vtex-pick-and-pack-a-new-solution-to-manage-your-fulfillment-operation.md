@@ -1,5 +1,5 @@
 ---
-title: "VTEX Pick and Pack: nueva solución para gestionar tu operación logística"
+title: 'VTEX Pick and Pack: nueva solución para gestionar tu operación logística'
 id: a8No4F86ZlecbBPIhgE5J
 status: PUBLISHED
 createdAt: 2023-06-04T20:48:18.798Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 0QBQws7rk0t5Mnu8fgfUv
 slug: vtex-pick-and-pack-nueva-solucion-para-gestionar-tu-operacion-logistica
 legacySlug: vtex-pick-and-pack-nueva-solucion-para-gestionar-tu-operacion-logistica
-announcementImageID: ""
-announcementSynopsisES: Agregamos nuevas funcionalidades para que Pick and Pack fuera más flexible, escalable y adecuado para más  arquitecturas
+announcementImageID: ''
+announcementSynopsisES: 'Agregamos nuevas funcionalidades para que Pick and Pack fuera más flexible, escalable y adecuado para más  arquitecturas'
 ---
 
 [VTEX Pick and Pack](https://help.vtex.com/es/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU) es una plataforma logística nativa de VTEX que permite gestionar el alistamiento, el empaquetado y la entrega de productos desde tiendas físicas y bodegas. Además, la solución también ofrece la recopilación de datos y análisis de tu tienda, generando información para la toma de decisiones estratégicas y potenciar la operación omnicanal, con un _time to market_ excepcional.

@@ -1,5 +1,5 @@
 ---
-title: The user cannot make a daily subscription directly from the my-subscriptions area
+title: 'The user cannot make a daily subscription directly from the my-subscriptions area'
 id: QJrZvOmlRusACgS2iGRyT
 status: PUBLISHED
 createdAt: 2022-05-18T18:37:18.099Z

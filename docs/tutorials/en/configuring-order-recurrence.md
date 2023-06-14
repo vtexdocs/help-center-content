@@ -1,5 +1,5 @@
 ---
-title: How to configure Subscriptions
+title: 'How to configure Subscriptions'
 id: 5BprgE9RwKPcfBMYoaWZu4
 status: DRAFT
 createdAt: 2019-01-28T19:22:39.047Z

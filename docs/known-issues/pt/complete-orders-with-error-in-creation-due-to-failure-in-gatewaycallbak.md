@@ -1,5 +1,5 @@
 ---
-title: Pedidos completos com erro na criação devido a falha no gatewaycallbak
+title: 'Pedidos completos com erro na criação devido a falha no gatewaycallbak'
 id: 2qVa686QBsvkgXY8wwmc8Y
 status: PUBLISHED
 createdAt: 2022-05-04T19:28:00.775Z

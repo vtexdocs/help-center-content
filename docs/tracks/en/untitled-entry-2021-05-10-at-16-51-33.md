@@ -1,5 +1,5 @@
 ---
-title: 
+title: ''
 id: 1FsonMpPD5C32fREHIMiLR
 status: DRAFT
 createdAt: 2021-05-10T16:51:33.152Z

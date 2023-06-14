@@ -1,5 +1,5 @@
 ---
-title: Lentidão na edição de arquivos do Checkout
+title: 'Lentidão na edição de arquivos do Checkout'
 id: 4uKQzzpNfbYLKZdhTW4f0O
 status: PUBLISHED
 createdAt: 2019-09-16T17:25:55.922Z

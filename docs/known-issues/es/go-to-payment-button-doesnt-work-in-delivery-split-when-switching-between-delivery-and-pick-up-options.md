@@ -1,5 +1,5 @@
 ---
-title: El botón "Ir al pago" no funciona en la división de entrega cuando se cambia entre las opciones de Entrega y Recogida.
+title: 'El botón "Ir al pago" no funciona en la división de entrega cuando se cambia entre las opciones de Entrega y Recogida.'
 id: 4VDxpsWl6N0SjriaqUtXG9
 status: PUBLISHED
 createdAt: 2023-02-17T18:03:49.526Z

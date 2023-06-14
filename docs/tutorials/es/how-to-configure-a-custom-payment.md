@@ -1,5 +1,5 @@
 ---
-title: Configurar pago personalizado
+title: 'Configurar pago personalizado'
 id: tutorials_451
 status: PUBLISHED
 createdAt: 2017-04-27T22:04:32.144Z

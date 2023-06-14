@@ -1,5 +1,5 @@
 ---
-title: [Shopee] No se pudo crear el producto.
+title: '[Shopee] No se pudo crear el producto.'
 id: 4h5FLGm6vI7VPn48agVX6X
 status: PUBLISHED
 createdAt: 2022-10-25T16:14:49.143Z

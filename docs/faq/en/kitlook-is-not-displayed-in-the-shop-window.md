@@ -1,5 +1,5 @@
 ---
-title: Kitlook is not displayed in the shop window
+title: 'Kitlook is not displayed in the shop window'
 id: 5BoJ5sHNE43tYckp1Z8Fec
 status: PUBLISHED
 createdAt: 2019-02-20T17:47:19.370Z
@@ -31,7 +31,7 @@ __Fill in the Label field__
 4. Go to the __Images__ tab;
 5. Enter a term to populate the __Label__;
 
-  ![Kit Look - Label - EN](https://images.ctfassets.net/alneenqid6w5/7FR879Lzl3eEDmAHiBV0TV/2789e7a69d5258c78d192a47ecc2aff5/7FR879Lzl3eEDmAHiBV0TV_en.jpg)
+  ![Kit Look - Label - EN](//images.ctfassets.net/alneenqid6w5/7FR879Lzl3eEDmAHiBV0TV/2789e7a69d5258c78d192a47ecc2aff5/7FR879Lzl3eEDmAHiBV0TV_en.jpg)
 
 6. Click __Save__.
 

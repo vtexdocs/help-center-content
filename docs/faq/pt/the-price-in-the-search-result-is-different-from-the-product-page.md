@@ -1,5 +1,5 @@
 ---
-title: Preço do resultado de busca é diferente da página de produto
+title: 'Preço do resultado de busca é diferente da página de produto'
 id: 2A75LUcywLJdeq38hsBhk0
 status: PUBLISHED
 createdAt: 2023-02-28T21:09:23.876Z

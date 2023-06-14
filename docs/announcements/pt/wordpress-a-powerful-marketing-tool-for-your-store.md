@@ -1,5 +1,5 @@
 ---
-title: "WordPress: uma poderosa ferramenta de marketing para sua loja"
+title: 'WordPress: uma poderosa ferramenta de marketing para sua loja'
 id: 01uDrNIgvAvHQK2H4wZ6uU
 status: PUBLISHED
 createdAt: 2021-03-15T12:39:28.150Z
@@ -10,8 +10,8 @@ productTeam: Others
 author: 5WE9zkDdoqqUMRbxIgmp1o
 slug: wordpress-uma-poderosa-ferramenta-de-marketing-para-sua-loja
 legacySlug: wordpress-uma-poderosa-ferramenta-de-marketing-para-sua-loja
-announcementImageID: ""
-announcementSynopsisPT: As lojas desenvolvidas com VTEX IO agora podem apresentar páginas e postagens do blog da marca dentro da loja.
+announcementImageID: ''
+announcementSynopsisPT: 'As lojas desenvolvidas com VTEX IO agora podem apresentar páginas e postagens do blog da marca dentro da loja.'
 ---
 
 O marketing de conteúdo tem sido fortemente utilizado como ferramenta de marketing. O WordPress é um software open source com o qual você pode gratuitamente criar um website ou blog contendo páginas e posts (categorizados ou não) a respeito da sua marca e dos seus produtos.

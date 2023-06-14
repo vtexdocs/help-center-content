@@ -1,5 +1,5 @@
 ---
-title: Criar formulários de Cliente e Endereço em novas lojas
+title: 'Criar formulários de Cliente e Endereço em novas lojas'
 id: 46ETfuaGogKwaMau4ESAAM
 status: PUBLISHED
 createdAt: 2017-08-16T16:57:24.708Z

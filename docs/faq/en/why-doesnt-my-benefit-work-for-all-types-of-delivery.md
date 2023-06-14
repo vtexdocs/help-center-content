@@ -1,5 +1,5 @@
 ---
-title: Why doesn't my benefit work for all types of delivery?
+title: 'Why doesn't my benefit work for all types of delivery?'
 id: 68Eifg69ocCSsIS0ukw6W4
 status: PUBLISHED
 createdAt: 2018-03-06T14:42:34.568Z
@@ -21,7 +21,7 @@ To specify the type of delivery to which you want to apply the benefit, you must
 2. Click on the card of the benefit to which you want to apply the free shipping.
 3. In item 3, activate the __Shipping Method__ flag and specify which ones should receive the free shipping.
 
-![promoções-campo-tipo-frete en](https://images.ctfassets.net/alneenqid6w5/cEe5QqUczQ4MikWAEGkwS/054310fa7cf2bef0d7b02f058f4ddc49/promo____es-campo-tipo-frete_en.png)
+![promoções-campo-tipo-frete en](//images.ctfassets.net/alneenqid6w5/cEe5QqUczQ4MikWAEGkwS/054310fa7cf2bef0d7b02f058f4ddc49/promo____es-campo-tipo-frete_en.png)
 
 Once this has been done, the specified shipping types will enter the promotion and will appear to the customer with free shipping available.
 

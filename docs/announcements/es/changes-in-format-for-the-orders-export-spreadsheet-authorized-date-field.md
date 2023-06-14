@@ -1,5 +1,5 @@
 ---
-title: "Cambio en el formato del campo Authorized Date de la plantilla de exportación de pedidos busca garantizar la calidad de nuestros datos"
+title: 'Cambio en el formato del campo Authorized Date de la plantilla de exportación de pedidos busca garantizar la calidad de nuestros datos'
 id: 4bEpPLIkpG90dJ3QCIujx1
 status: CHANGED
 createdAt: 2019-05-23T13:42:37.232Z
@@ -10,8 +10,8 @@ productTeam: Post-purchase
 author: 5DnIDwto7E6PRpdH1Kpdyu
 slug: cambio-en-el-formato-del-campo-authorized-date
 legacySlug: cambio-en-el-formato-del-campo-authorized-date-de-la-plantilla-de
-announcementImageID: ""
-announcementSynopsisES: Nuevo formato del campo Authorized Date garantiza un entendimiento más claro de la fecha en que el pedido fue autorizado
+announcementImageID: ''
+announcementSynopsisES: 'Nuevo formato del campo Authorized Date garantiza un entendimiento más claro de la fecha en que el pedido fue autorizado'
 ---
 
 A partir del 12 de junio de 2019, haremos un cambio en el formato del campo `Authorized Date`, que puede encontrarse en el [informe de pedidos](https://help.vtex.com/es/tutorial/exportando-pedidos-no-gerenciamento-de-pedidos--tutorials_6417) exportado desde el módulo de Gestión de Pedidos.

@@ -1,5 +1,5 @@
 ---
-title: El mensaje "Mi dirección de facturación es ..." en el iFrame de la tarjeta de crédito está en un idioma incorrecto cuando se utiliza el checkout en catalán.
+title: 'El mensaje "Mi dirección de facturación es ..." en el iFrame de la tarjeta de crédito está en un idioma incorrecto cuando se utiliza el checkout en catalán.'
 id: 3AqPihwDDIM2qixa1jvJmz
 status: PUBLISHED
 createdAt: 2022-03-28T01:11:35.679Z

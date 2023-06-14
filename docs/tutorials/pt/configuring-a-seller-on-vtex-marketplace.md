@@ -1,5 +1,5 @@
 ---
-title: Configurar seller para vender em marketplace VTEX
+title: 'Configurar seller para vender em marketplace VTEX'
 id: 6g045OkRSjNpqhkExbQRlP
 status: PUBLISHED
 createdAt: 2022-05-11T16:49:11.747Z

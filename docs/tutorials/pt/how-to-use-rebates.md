@@ -1,5 +1,5 @@
 ---
-title: Como utilizar rebate ou VPC
+title: 'Como utilizar rebate ou VPC'
 id: aS9z4io3auDKisk7M0rq9
 status: PUBLISHED
 createdAt: 2020-12-01T15:45:19.840Z

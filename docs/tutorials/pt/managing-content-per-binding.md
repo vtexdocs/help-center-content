@@ -1,5 +1,5 @@
 ---
-title: Gerenciando conteúdo por binding
+title: 'Gerenciando conteúdo por binding'
 id: 5CZjZPMqi0ZNpuqzF6AUOn
 status: PUBLISHED
 createdAt: 2021-05-05T18:34:08.372Z

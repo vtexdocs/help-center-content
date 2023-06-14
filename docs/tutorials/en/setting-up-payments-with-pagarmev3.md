@@ -1,5 +1,5 @@
 ---
-title: Setting up payments with PagarMeV3
+title: 'Setting up payments with PagarMeV3'
 id: 5PMavdamrVijwIrHas9ndE
 status: PUBLISHED
 createdAt: 2022-06-22T17:05:12.930Z

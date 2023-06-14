@@ -1,5 +1,5 @@
 ---
-title: Configurar pagamentos customizados usando MercadoPago (América Latina)
+title: 'Configurar pagamentos customizados usando MercadoPago (América Latina)'
 id: oqLVXpxZ4GqgosA8QQYEs
 status: PUBLISHED
 createdAt: 2018-03-15T13:13:15.893Z

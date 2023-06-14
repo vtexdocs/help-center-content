@@ -1,5 +1,5 @@
 ---
-title: O que é Mapeamento de URL (Redirecionamento 301)
+title: 'O que é Mapeamento de URL (Redirecionamento 301)'
 id: 2yxRLJPQAMswCQGSkgkYG8
 status: DRAFT
 createdAt: 2018-10-09T17:21:59.161Z

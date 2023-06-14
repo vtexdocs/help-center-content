@@ -1,5 +1,5 @@
 ---
-title: Duplicate transactions being recorded in Google Analytics
+title: 'Duplicate transactions being recorded in Google Analytics'
 id: 3pBn0BG1cAAqkw6CMEywIs
 status: PUBLISHED
 createdAt: 2018-11-20T16:44:40.811Z

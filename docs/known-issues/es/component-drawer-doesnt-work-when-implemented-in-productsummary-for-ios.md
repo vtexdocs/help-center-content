@@ -1,5 +1,5 @@
 ---
-title: Componente cajón no funciona cuando se implementa en el producto-resumen para iOS
+title: 'Componente cajón no funciona cuando se implementa en el producto-resumen para iOS'
 id: 75145kfQE8swAef57Yr4Aj
 status: PUBLISHED
 createdAt: 2023-05-29T13:22:57.856Z

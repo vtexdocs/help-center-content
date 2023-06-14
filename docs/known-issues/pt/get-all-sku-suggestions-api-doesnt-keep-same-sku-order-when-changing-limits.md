@@ -1,5 +1,5 @@
 ---
-title: "Obtenha todas as sugestões de SKU" API não mantém a mesma ordem de sku ao mudar os limites
+title: '"Obtenha todas as sugestões de SKU" API não mantém a mesma ordem de sku ao mudar os limites'
 id: 4wQbZm9rFc8iD2xYwEiAlQ
 status: PUBLISHED
 createdAt: 2022-12-05T14:49:46.856Z

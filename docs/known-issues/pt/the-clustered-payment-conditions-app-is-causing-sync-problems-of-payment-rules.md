@@ -1,5 +1,5 @@
 ---
-title: O aplicativo Clustered Payment Conditions App está causando problemas de sincronização das regras de pagamento
+title: 'O aplicativo Clustered Payment Conditions App está causando problemas de sincronização das regras de pagamento'
 id: 6f7VLD1g75AfZC8nhu37lM
 status: PUBLISHED
 createdAt: 2022-03-27T19:28:53.433Z

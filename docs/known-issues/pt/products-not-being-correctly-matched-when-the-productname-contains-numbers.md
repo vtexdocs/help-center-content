@@ -1,5 +1,5 @@
 ---
-title: Produtos que não correspondem corretamente quando o produtoNome contém números
+title: 'Produtos que não correspondem corretamente quando o produtoNome contém números'
 id: 7Kr0VtRScH54j04Rh2uuOj
 status: PUBLISHED
 createdAt: 2023-03-01T18:55:20.183Z

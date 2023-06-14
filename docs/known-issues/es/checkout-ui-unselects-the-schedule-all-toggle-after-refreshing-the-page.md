@@ -1,5 +1,5 @@
 ---
-title: La interfaz de pago deselecciona la opción "Programar todo" después de actualizar la página.
+title: 'La interfaz de pago deselecciona la opción "Programar todo" después de actualizar la página.'
 id: 28TIselp0EzU3iSD4kLJgX
 status: PUBLISHED
 createdAt: 2023-04-04T21:08:55.937Z
