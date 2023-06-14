@@ -11,7 +11,7 @@ author: authors_24
 slug: my-orders-is-now-available-on-extension-store
 legacySlug: my-orders-is-now-available-on-extension-store
 announcementImageID: ''
-announcementSynopsisEN: "Starting June 5, the use of the "My Orders" page's extension will be required for all stores."
+announcementSynopsisEN: Starting June 5, the use of the "My Orders" page's extension will be required for all stores.
 ---
 
 <div class="alert alert-info">
