@@ -1,5 +1,5 @@
 ---
-title: 'Ofertas Las interacciones de sku's de gestión no son estables'
+title: "Ofertas Las interacciones de sku's de gestión no son estables"
 id: 7o3IEgPiDB9vYVJ8RS50jl
 status: PUBLISHED
 createdAt: 2023-02-02T16:29:12.305Z

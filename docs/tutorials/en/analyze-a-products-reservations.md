@@ -1,5 +1,5 @@
 ---
-title: 'Analyze a product's reservations'
+title: "Analyze a product's reservations"
 id: 1xdDyqnDo4IKwcUYQouQCE
 status: DRAFT
 createdAt: 2017-08-01T15:07:23.815Z

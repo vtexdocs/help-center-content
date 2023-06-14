@@ -1,5 +1,5 @@
 ---
-title: 'Changing a SKU's price'
+title: "Changing a SKU's price"
 id: tutorials_95
 status: PUBLISHED
 createdAt: 2017-04-27T22:19:48.759Z

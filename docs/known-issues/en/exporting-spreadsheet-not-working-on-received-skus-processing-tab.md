@@ -1,5 +1,5 @@
 ---
-title: 'Exporting spreadsheet not working on Received Sku's Processing Tab'
+title: "Exporting spreadsheet not working on Received Sku's Processing Tab"
 id: cApuC5KqvuKA3ihgySLcN
 status: PUBLISHED
 createdAt: 2023-04-18T15:07:53.751Z

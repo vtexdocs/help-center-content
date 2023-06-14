@@ -1,5 +1,5 @@
 ---
-title: 'Using VTEX's native controls'
+title: "Using VTEX's native controls"
 id: 7mGkGmo8l6wf4fXJCkWwPi
 status: DRAFT
 createdAt: 2020-01-09T22:03:37.865Z

@@ -1,5 +1,5 @@
 ---
-title: 'Catalog's new visual and navigation'
+title: "Catalog's new visual and navigation"
 id: 2RA84SQDigksKgIAEqi2SG
 status: PUBLISHED
 createdAt: 2018-07-12T12:51:09.042Z
@@ -11,7 +11,7 @@ author: authors_24
 slug: catalogs-new-visual-and-navigation
 legacySlug: catalogs-new-visual-and-navigation
 announcementImageID: ''
-announcementSynopsisEN: 'On 07/10, the Catalog became more integrated with the New Admin but kept it's most important flows and features.'
+announcementSynopsisEN: "On 07/10, the Catalog became more integrated with the New Admin but kept it's most important flows and features."
 ---
 
 On __July 10__, we gave an important step towards the unification of the user experience on VTEX's platform. We've updated the Catalog's look and feel, applying the __New Admin's__ style. But we kept untouched most of the flows and features you already know, so you'll have minimum impacts on your daily routine.

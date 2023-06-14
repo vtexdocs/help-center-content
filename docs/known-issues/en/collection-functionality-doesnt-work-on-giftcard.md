@@ -1,5 +1,5 @@
 ---
-title: 'Collection functionality doesn't work on Giftcard'
+title: "Collection functionality doesn't work on Giftcard"
 id: 7kdbZUdscJLo1sGY6bo1jp
 status: CHANGED
 createdAt: 2022-03-27T15:19:37.657Z

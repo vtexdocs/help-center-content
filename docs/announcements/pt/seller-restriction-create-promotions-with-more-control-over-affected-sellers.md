@@ -1,10 +1,10 @@
 ---
 title: 'Restrição de sellers: crie promoções com maior controle de sellers afetados'
-id: 6WtmETyavLkN5gaalat300
-status: PUBLISHED
-createdAt: 2020-10-29T15:06:31.823Z
-updatedAt: 2020-10-29T15:07:45.807Z
-publishedAt: 2020-10-29T15:07:45.807Z
+id: 60lGywVHhu7ivW6Z5BPziy
+status: DRAFT
+createdAt: 2020-09-14T16:07:46.777Z
+updatedAt: 2020-10-29T15:08:39.430Z
+publishedAt: 
 contentType: updates
 productTeam: Marketing & Merchandising
 author: 2o8pvz6z9hvxvhSoKAiZzg
@@ -59,3 +59,4 @@ Configuração após a atualização:
 Sua loja não precisa realizar nenhuma ação para se adequar a essa mudança. Essa nova feature apenas traz uma nova possibilidade de configuração para suas promoções.
 
 Saiba mais sobre essa funcionalidade no nosso artigo [Campos da Promoção Regular](https://help.vtex.com/pt/tutorial/promocao-regular--tutorials_327). 
+o-regular--tutorials_327). 

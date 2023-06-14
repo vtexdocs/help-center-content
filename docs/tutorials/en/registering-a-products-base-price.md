@@ -1,5 +1,5 @@
 ---
-title: 'Registering a product's base price'
+title: "Registering a product's base price"
 id: 4S9SbPWlVmOAAWO6yq8wE6
 status: CHANGED
 createdAt: 2018-03-20T20:04:04.818Z

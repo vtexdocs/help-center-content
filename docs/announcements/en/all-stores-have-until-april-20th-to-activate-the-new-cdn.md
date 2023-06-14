@@ -11,7 +11,7 @@ author: authors_24
 slug: all-stores-have-until-april-20th-to-activate-the-new-cdn
 legacySlug: all-stores-have-until-april-20th-to-activate-the-new-cdn
 announcementImageID: ''
-announcementSynopsisEN: 'VTEX's new CDN was already available since October 2017, bringing more reliability and better performance.'
+announcementSynopsisEN: "VTEX's new CDN was already available since October 2017, bringing more reliability and better performance."
 ---
 
 VTEX's new CDN is a solution wich delivers content in an even safer and faster way. Your store will then work under HTTP/2, wich powers-up your website both in therms of efficiency and user experience. This change is an improvement in the architecture that VTEX uses to deliver the pages of your store.

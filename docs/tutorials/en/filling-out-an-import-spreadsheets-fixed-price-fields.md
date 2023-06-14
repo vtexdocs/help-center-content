@@ -1,5 +1,5 @@
 ---
-title: 'Filling out an import spreadsheet's fixed price fields'
+title: "Filling out an import spreadsheet's fixed price fields"
 id: 50RFoH3ruV97FJgeBUCURh
 status: PUBLISHED
 createdAt: 2019-07-10T13:38:59.441Z

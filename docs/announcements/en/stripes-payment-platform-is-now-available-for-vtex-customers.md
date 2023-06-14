@@ -11,7 +11,7 @@ author: 4ubliktPJIsvyl1hq91RdK
 slug: stripes-payment-platform-is-now-available-for-vtex-customers
 legacySlug: stripes-payment-platform-is-now-available-for-vtex-customers
 announcementImageID: ''
-announcementSynopsisEN: 'Process your sales with one of today's largest payment platforms'
+announcementSynopsisEN: "Process your sales with one of today's largest payment platforms"
 ---
 
 As a global commerce solution, we are committed to helping our clients unlock the most popular payment methods no matter where they operate. Our payment strategy has an important role in enabling every region and the partnership with Stripe potentiates our reach.

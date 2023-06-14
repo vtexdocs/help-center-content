@@ -11,7 +11,7 @@ author: 1malnhMX0vPThsaJaZMYm2
 slug: new-sku-bindings-interface
 legacySlug: new-sku-bindings-interface
 announcementImageID: ''
-announcementSynopsisEN: 'The SKU Bindings page has been redesigned to simplify managing the relationship between sellers' and marketplaces' SKUs.'
+announcementSynopsisEN: "The SKU Bindings page has been redesigned to simplify managing the relationship between sellers' and marketplaces' SKUs."
 ---
 
 VTEX allows your store to act both as a [seller](https://help.vtex.com/en/tutorial/configuring-a-seller-on-vtex-marketplace--6g045OkRSjNpqhkExbQRlP) and as a [marketplace](https://help.vtex.com/en/tutorial/configuring-vtex-marketplace--7splyp5MqIyt2Iyz5jsNzb), which allows you to reduce costs, reach more customers, and increase the variety of products you offer. In this context, each marketplace must establish and maintain a direct relationship between its catalog and the[ SKUs](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) offered by sellers.

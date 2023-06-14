@@ -1,5 +1,5 @@
 ---
-title: 'How to turn my store's website into a PWA'
+title: "How to turn my store's website into a PWA"
 id: 3i8VmYeToAUGKgo2kKK6I2
 status: PUBLISHED
 createdAt: 2018-03-19T18:20:25.794Z

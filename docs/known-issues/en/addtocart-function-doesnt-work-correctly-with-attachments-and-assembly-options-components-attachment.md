@@ -1,5 +1,5 @@
 ---
-title: 'addToCart function doesn't work correctly with attachments and assembly options' component's attachment'
+title: "addToCart function doesn't work correctly with attachments and assembly options' component's attachment"
 id: 6I8vn2K7PWLRwIj2YTY7nZ
 status: PUBLISHED
 createdAt: 2023-05-23T15:40:36.343Z

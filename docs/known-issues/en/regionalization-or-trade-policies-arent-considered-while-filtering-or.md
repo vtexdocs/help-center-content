@@ -1,5 +1,5 @@
 ---
-title: 'Regionalization or trade policies aren't considered while filtering or sorting items by price'
+title: "Regionalization or trade policies aren't considered while filtering or sorting items by price"
 id: hipqkoLiWMSMEWJxecoIW
 status: PUBLISHED
 createdAt: 2023-05-08T14:46:49.797Z

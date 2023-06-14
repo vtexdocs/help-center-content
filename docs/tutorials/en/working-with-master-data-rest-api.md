@@ -1,5 +1,5 @@
 ---
-title: 'Working with Master Data's REST API'
+title: "Working with Master Data's REST API"
 id: 3Je8Rn3TOocwGoWIaEugq2
 status: DRAFT
 createdAt: 2017-06-21T20:27:11.616Z

@@ -1,5 +1,5 @@
 ---
-title: 'Collections UI doesn't allow to search for products with special characters'
+title: "Collections UI doesn't allow to search for products with special characters"
 id: 3O9C8uOskw2UJYdBVUCFw
 status: PUBLISHED
 createdAt: 2022-04-07T20:36:02.541Z

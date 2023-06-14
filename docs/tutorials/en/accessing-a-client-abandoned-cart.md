@@ -1,5 +1,5 @@
 ---
-title: 'Accessing a client's abandoned cart'
+title: "Accessing a client's abandoned cart"
 id: 4bbXy1TlzJaiCr41xKDN4e
 status: PUBLISHED
 createdAt: 2019-02-21T14:36:12.078Z

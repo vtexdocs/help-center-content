@@ -1,5 +1,5 @@
 ---
-title: 'I've activated a product subscription, but it doesn't appear on the site. Why?'
+title: "I've activated a product subscription, but it doesn't appear on the site. Why?"
 id: 4HTtsuhjckHBgkBIyrH8tz
 status: PUBLISHED
 createdAt: 2019-01-28T19:20:20.661Z

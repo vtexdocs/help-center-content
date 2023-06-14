@@ -11,7 +11,7 @@ author: authors_24
 slug: get-your-store-ready-for-black-friday-with-our-best-practices-guide
 legacySlug: get-your-store-ready-for-black-friday-with-our-best-practices-guide
 announcementImageID: ''
-announcementSynopsisEN: 'Follow our recommendations and exclusive tips to make the most out of this year's Black Friday.'
+announcementSynopsisEN: "Follow our recommendations and exclusive tips to make the most out of this year's Black Friday."
 ---
 
 __Black Friday__ is coming. Despite its official date (__November 23__), many stores will start their campaigns a lot earlier. To make sure you'll make the most out of one of the main events on the retail calendar, start prepping soon.

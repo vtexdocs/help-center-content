@@ -1,5 +1,5 @@
 ---
-title: 'VTEX IO's new translation system'
+title: "VTEX IO's new translation system"
 id: CLDXiPt21R0R4lklbksqF
 status: DRAFT
 createdAt: 2019-02-18T21:18:44.129Z

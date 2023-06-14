@@ -1,5 +1,5 @@
 ---
-title: 'Position on selected image on PDP doesn't reset when changing product'
+title: "Position on selected image on PDP doesn't reset when changing product"
 id: btvmr3xSpxnJnxbahLefT
 status: PUBLISHED
 createdAt: 2022-06-14T14:04:04.519Z

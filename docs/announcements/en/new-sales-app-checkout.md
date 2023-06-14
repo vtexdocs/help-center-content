@@ -11,7 +11,7 @@ author: 5l3eEiSz8MpcppCxcnijGz
 slug: new-sales-app-checkout
 legacySlug: new-sales-app-checkout
 announcementImageID: ''
-announcementSynopsisEN: 'With the goal of simplifying your physical store's checkout experience, we've developed the new Sales App checkout.'
+announcementSynopsisEN: "With the goal of simplifying your physical store's checkout experience, we've developed the new Sales App checkout."
 ---
 
 To simplify your physical store's checkout experience, we've developed the new Sales App checkout.

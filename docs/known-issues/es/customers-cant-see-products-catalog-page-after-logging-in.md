@@ -1,5 +1,5 @@
 ---
-title: 'Customers can't see products catalog page after logging in'
+title: "Customers can't see products catalog page after logging in"
 id: 6MvR2VaPmViUeRE0ZrNCHQ
 status: DRAFT
 createdAt: 2022-03-25T14:30:45.456Z

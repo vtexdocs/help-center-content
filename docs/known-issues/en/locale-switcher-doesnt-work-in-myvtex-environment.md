@@ -1,5 +1,5 @@
 ---
-title: 'Locale Switcher doesn't work in myvtex environment'
+title: "Locale Switcher doesn't work in myvtex environment"
 id: 1ZB56egPjPbTaUUnws5juK
 status: PUBLISHED
 createdAt: 2023-03-27T12:26:31.974Z

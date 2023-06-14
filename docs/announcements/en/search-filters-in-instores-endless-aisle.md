@@ -1,5 +1,5 @@
 ---
-title: 'Search filters in inStore's Endless Aisle'
+title: "Search filters in inStore's Endless Aisle"
 id: 7wRkHWBnad2W1xILet7fyw
 status: PUBLISHED
 createdAt: 2021-12-02T16:43:25.612Z
@@ -11,7 +11,7 @@ author: 1malnhMX0vPThsaJaZMYm2
 slug: search-filters-in-instores-endless-aisle
 legacySlug: search-filters-in-instores-endless-aisle
 announcementImageID: ''
-announcementSynopsisEN: 'VTEX Intelligent Search filters are now available in inStore's Endless Aisle.'
+announcementSynopsisEN: "VTEX Intelligent Search filters are now available in inStore's Endless Aisle."
 ---
 
 

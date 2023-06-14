@@ -11,7 +11,7 @@ author: 245tA425AIeioKAk2eaiwS
 slug: announcements-hit-the-spotlight-in-the-new-admin
 legacySlug: announcements-hit-the-spotlight-in-the-new-admin
 announcementImageID: ''
-announcementSynopsisEN: 'You get notified whenever there's a new announcement and have a glimpse of the latest news right on the main page.'
+announcementSynopsisEN: "You get notified whenever there's a new announcement and have a glimpse of the latest news right on the main page."
 ---
 
 With VTEX's __New Admin__, you stay up to date on all things VTEX without leaving the platform. The alert icon in the top bar will let you know whenever a new announcement comes out. And more: alerts come in different colors, so you can easily identify if they're about a new feature or a major change.

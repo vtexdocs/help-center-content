@@ -1,5 +1,5 @@
 ---
-title: 'Customizing inStore's layout'
+title: "Customizing inStore's layout"
 id: 7Hsd9UGwZeqPeAGs2k80BH
 status: DRAFT
 createdAt: 2020-06-28T19:17:52.655Z

@@ -1,5 +1,5 @@
 ---
-title: 'DecidirV1 Connector's Inconsistente método de arredondamento para os campos CSPTGRANDTOTALAMOUNT e CSITTOTALAMOUNT.'
+title: "DecidirV1 Connector's Inconsistente método de arredondamento para os campos CSPTGRANDTOTALAMOUNT e CSITTOTALAMOUNT."
 id: 6VcgLkWcGwMdkpuJQ14ZBt
 status: PUBLISHED
 createdAt: 2023-04-10T20:32:29.930Z

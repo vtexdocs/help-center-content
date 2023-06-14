@@ -11,7 +11,7 @@ author: 1E4UkWguFZAXjkguvNHPIv
 slug: update-grants-in-the-promotions-module
 legacySlug: update-grants-in-the-promotions-module
 announcementImageID: ''
-announcementSynopsisEN: 'We've updated the Promotions module.'
+announcementSynopsisEN: "We've updated the Promotions module."
 ---
 
 Seeking to increase customization, grant greater speed and usability, we've updated the Promotions module.

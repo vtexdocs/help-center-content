@@ -1,5 +1,5 @@
 ---
-title: 'Cabal's Regex update'
+title: "Cabal's Regex update"
 id: 7vKZhdGjEVzQUqhR9QUTs9
 status: PUBLISHED
 createdAt: 2022-03-27T18:08:17.932Z

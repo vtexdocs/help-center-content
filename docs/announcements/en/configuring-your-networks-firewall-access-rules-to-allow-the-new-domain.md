@@ -1,5 +1,5 @@
 ---
-title: 'Configuring your network's firewall access rules to allow the new domain'
+title: "Configuring your network's firewall access rules to allow the new domain"
 id: 1ib1hW8UJlR7SniuFTHzx4
 status: PUBLISHED
 createdAt: 2020-01-06T17:05:54.548Z

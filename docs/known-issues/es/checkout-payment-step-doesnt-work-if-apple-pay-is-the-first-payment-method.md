@@ -1,5 +1,5 @@
 ---
-title: 'Checkout payment step doesn't work if Apple Pay is the first payment method'
+title: "Checkout payment step doesn't work if Apple Pay is the first payment method"
 id: 1FryZMcH54j7Rr5PNnV3eU
 status: PUBLISHED
 createdAt: 2022-11-24T19:13:41.785Z

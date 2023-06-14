@@ -1,5 +1,5 @@
 ---
-title: 'Customer Credit doesn't show installments correctly'
+title: "Customer Credit doesn't show installments correctly"
 id: 5qhiwp1EhfJepX6ZFqDsiG
 status: PUBLISHED
 createdAt: 2022-03-28T02:52:15.222Z

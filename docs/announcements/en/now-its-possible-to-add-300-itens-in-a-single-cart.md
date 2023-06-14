@@ -1,5 +1,5 @@
 ---
-title: 'Now it's possible to add 300 items in a single cart'
+title: "Now it's possible to add 300 items in a single cart"
 id: 1jtuIaeYVws8cWoGaaSOGC
 status: PUBLISHED
 createdAt: 2018-06-06T18:24:10.770Z

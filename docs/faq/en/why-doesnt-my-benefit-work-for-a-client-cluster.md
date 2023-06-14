@@ -1,5 +1,5 @@
 ---
-title: 'Why doesn't my benefit work for a client cluster?'
+title: "Why doesn't my benefit work for a client cluster?"
 id: 4I7FRBu5zj9JYs0xBwg5aR
 status: PUBLISHED
 createdAt: 2019-02-22T18:12:54.910Z

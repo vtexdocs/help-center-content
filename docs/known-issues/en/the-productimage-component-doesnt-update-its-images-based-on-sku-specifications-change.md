@@ -1,5 +1,5 @@
 ---
-title: 'The ProductImage component doesn't update its images based on SKU specifications change'
+title: "The ProductImage component doesn't update its images based on SKU specifications change"
 id: 3NATd5bJRoMbzepedPaIEu
 status: PUBLISHED
 createdAt: 2022-09-30T22:16:54.477Z

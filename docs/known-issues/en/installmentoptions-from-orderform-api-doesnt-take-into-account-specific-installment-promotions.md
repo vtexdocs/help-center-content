@@ -1,5 +1,5 @@
 ---
-title: 'installmentOptions from orderForm API doesn't take into account specific installment promotions'
+title: "installmentOptions from orderForm API doesn't take into account specific installment promotions"
 id: YgwSByoCsjqEmWOmuXRU4
 status: PUBLISHED
 createdAt: 2022-08-24T15:53:17.291Z

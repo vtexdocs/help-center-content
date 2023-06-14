@@ -1,5 +1,5 @@
 ---
-title: '​​Rate VTEX's service in your Admin  '
+title: "​​Rate VTEX's service in your Admin  "
 id: 7rSJLgGbtRw2GhjTJezkJf
 status: PUBLISHED
 createdAt: 2022-01-13T21:49:50.331Z

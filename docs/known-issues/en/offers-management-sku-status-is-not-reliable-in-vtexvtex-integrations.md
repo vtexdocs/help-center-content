@@ -1,5 +1,5 @@
 ---
-title: 'Offers Management sku's interactions are not stable'
+title: "Offers Management sku's interactions are not stable"
 id: 7o3IEgPiDB9vYVJ8RS50jl
 status: PUBLISHED
 createdAt: 2023-02-02T16:29:12.305Z

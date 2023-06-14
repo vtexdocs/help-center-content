@@ -1,5 +1,5 @@
 ---
-title: 'When disabling native service worker it's not possible to use a custom one'
+title: "When disabling native service worker it's not possible to use a custom one"
 id: 1GpzVam1nuGbrKR4Izx6D9
 status: PUBLISHED
 createdAt: 2023-03-14T18:20:55.443Z

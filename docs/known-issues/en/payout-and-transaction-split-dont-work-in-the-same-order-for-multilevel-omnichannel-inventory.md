@@ -1,5 +1,5 @@
 ---
-title: 'Payout and Transaction split don't work in the same order for Multilevel Omnichannel Inventory'
+title: "Payout and Transaction split don't work in the same order for Multilevel Omnichannel Inventory"
 id: 3rFyqzEnSwx2czwdlgDovU
 status: PUBLISHED
 createdAt: 2023-03-23T19:03:22.498Z

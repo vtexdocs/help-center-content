@@ -11,7 +11,7 @@ author: 1malnhMX0vPThsaJaZMYm2
 slug: redesigned-products-and-skus-page
 legacySlug: redesigned-products-and-skus-page
 announcementImageID: ''
-announcementSynopsisEN: 'The redesigned Products and SKUs interface allows you to manage your store's Catalog more efficiently and intuitively.'
+announcementSynopsisEN: "The redesigned Products and SKUs interface allows you to manage your store's Catalog more efficiently and intuitively."
 ---
 
 Catalog management is key to a successful ecommerce website, as the product window display allows customers to interact with the brand and make purchase decisions. Therefore, retailers need to have a consistent and agile experience when viewing, adding, and editing information about products and SKUs.

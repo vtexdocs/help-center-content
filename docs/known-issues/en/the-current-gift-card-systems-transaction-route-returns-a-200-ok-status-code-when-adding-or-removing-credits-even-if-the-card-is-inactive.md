@@ -1,5 +1,5 @@
 ---
-title: 'The current gift card system's /transaction route returns a 200 OK status code when adding or removing credits, even if the card is inactive.'
+title: "The current gift card system's /transaction route returns a 200 OK status code when adding or removing credits, even if the card is inactive."
 id: 4d5oeiLIvxLqmA1uHtZmrw
 status: PUBLISHED
 createdAt: 2023-04-24T20:31:14.640Z

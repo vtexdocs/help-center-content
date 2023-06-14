@@ -1,5 +1,5 @@
 ---
-title: 'Improved security for the customer's first purchase'
+title: "Improved security for the customer's first purchase"
 id: DKlfRaMNHxgQhUT5VqRrK
 status: DRAFT
 createdAt: 2023-04-28T12:35:44.503Z

@@ -1,5 +1,5 @@
 ---
-title: 'What to do when my report doesn't reach my inbox?'
+title: "What to do when my report doesn't reach my inbox?"
 id: 3b7h8wnbI5rD6tr4WqgOgl
 status: DRAFT
 createdAt: 2019-02-21T22:02:15.382Z

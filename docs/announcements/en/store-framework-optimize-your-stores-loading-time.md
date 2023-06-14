@@ -1,5 +1,5 @@
 ---
-title: 'Store Framework: optimize your store's loading time thanks to improvements in performance'
+title: "Store Framework: optimize your store's loading time thanks to improvements in performance"
 id: 2aE6NPUuCTdmxrC8KxRkby
 status: PUBLISHED
 createdAt: 2020-06-17T16:49:13.781Z

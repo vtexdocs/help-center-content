@@ -1,5 +1,5 @@
 ---
-title: 't's not possible to update a product name and description on Centauro.'
+title: "t's not possible to update a product name and description on Centauro."
 id: 6gWGtNPsyce5OToAAn7kbh
 status: PUBLISHED
 createdAt: 2022-03-16T18:37:12.297Z

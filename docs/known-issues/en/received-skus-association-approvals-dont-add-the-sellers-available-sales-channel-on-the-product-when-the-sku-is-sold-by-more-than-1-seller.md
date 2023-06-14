@@ -1,5 +1,5 @@
 ---
-title: 'Received Skus: Association approvals don't add the seller's available sales channel on the product when the sku is sold by more than 1 seller'
+title: "Received Skus: Association approvals don't add the seller's available sales channel on the product when the sku is sold by more than 1 seller"
 id: 5ob4jquCm8l84MhX6285h8
 status: PUBLISHED
 createdAt: 2022-04-18T17:15:41.091Z

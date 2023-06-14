@@ -1,5 +1,5 @@
 ---
-title: 'Seller selection algorithm doesn't consider the real availability of the item to choose the best option'
+title: "Seller selection algorithm doesn't consider the real availability of the item to choose the best option"
 id: 4wT0pC5gzxFvh7nAy7CHK7
 status: PUBLISHED
 createdAt: 2022-07-07T17:40:45.874Z

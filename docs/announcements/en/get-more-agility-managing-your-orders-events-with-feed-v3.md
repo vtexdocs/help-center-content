@@ -11,7 +11,7 @@ author: 6AcGyun1hSWewU8YcaQiO
 slug: get-more-agility-managing-your-orders-events-with-feed-v3
 legacySlug: get-more-agility-managing-your-orders-events-with-feed-v3
 announcementImageID: ''
-announcementSynopsisEN: 'Through its new features, Feed v3 enables more effective management of your feed's records.'
+announcementSynopsisEN: "Through its new features, Feed v3 enables more effective management of your feed's records."
 ---
 
 Given the latest version demands, Feed v3 new features ensure better operating performance for your store. By introducing filters into your requests and a waiting time for an event display in your feed, the new version enables fast and easy control of your feed's records.

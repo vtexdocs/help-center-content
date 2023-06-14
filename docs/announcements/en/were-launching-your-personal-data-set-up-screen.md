@@ -1,5 +1,5 @@
 ---
-title: 'We're launching your personal data set up screen'
+title: "We're launching your personal data set up screen"
 id: 3MEbq0DfmMgo2WG4osYE8K
 status: PUBLISHED
 createdAt: 2017-11-14T20:55:55.931Z
@@ -11,7 +11,7 @@ author: authors_59
 slug: were-launching-your-personal-data-set-up-screen
 legacySlug: were-launching-your-personal-data-set-up-screen
 announcementImageID: ''
-announcementSynopsisEN: 'Now it's easier to edit your personal VTEX Admin access settings'
+announcementSynopsisEN: "Now it's easier to edit your personal VTEX Admin access settings"
 ---
 
 It has become easier to edit your personal VTEX Admin access settings.

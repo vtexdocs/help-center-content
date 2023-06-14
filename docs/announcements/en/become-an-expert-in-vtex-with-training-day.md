@@ -11,7 +11,7 @@ author: authors_24
 slug: become-an-expert-in-vtex-with-training-day
 legacySlug: become-an-expert-in-vtex-with-training-day
 announcementImageID: ''
-announcementSynopsisEN: 'Take part in an intensive VTEX training day with the world's leading experts.'
+announcementSynopsisEN: "Take part in an intensive VTEX training day with the world's leading experts."
 ---
 
 <div class="alert alert-info">

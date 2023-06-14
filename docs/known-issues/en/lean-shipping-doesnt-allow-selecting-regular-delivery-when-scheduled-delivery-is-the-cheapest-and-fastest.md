@@ -1,5 +1,5 @@
 ---
-title: 'Lean shipping doesn't allow selecting regular delivery when scheduled delivery is the cheapest and fastest'
+title: "Lean shipping doesn't allow selecting regular delivery when scheduled delivery is the cheapest and fastest"
 id: 4foQfCWNbU4280gcG9G4Of
 status: PUBLISHED
 createdAt: 2023-06-12T12:40:32.241Z

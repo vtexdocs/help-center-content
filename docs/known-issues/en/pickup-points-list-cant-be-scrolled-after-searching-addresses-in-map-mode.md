@@ -1,5 +1,5 @@
 ---
-title: 'Pickup points list can't be scrolled after searching addresses in map mode'
+title: "Pickup points list can't be scrolled after searching addresses in map mode"
 id: 3e0JgNoWSQ0GAw8kurGrIR
 status: PUBLISHED
 createdAt: 2022-08-11T18:35:48.300Z

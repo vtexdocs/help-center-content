@@ -1,5 +1,5 @@
 ---
-title: 'The Apply to the theme feature doesn't work on the Site Editor with custom pages'
+title: "The Apply to the theme feature doesn't work on the Site Editor with custom pages"
 id: 5YkawaripXbohnZD04rj3O
 status: PUBLISHED
 createdAt: 2022-05-17T17:52:12.501Z

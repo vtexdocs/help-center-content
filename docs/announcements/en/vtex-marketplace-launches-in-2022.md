@@ -11,7 +11,7 @@ author: 0QBQws7rk0t5Mnu8fgfUv
 slug: vtex-marketplace-launches-in-2022
 legacySlug: vtex-marketplace-launches-in-2022
 announcementImageID: ''
-announcementSynopsisEN: 'We've launched four new features to boost your marketplace operation.'
+announcementSynopsisEN: "We've launched four new features to boost your marketplace operation."
 ---
 
 In 2022, VTEX has been investing in solutions to help our customers maximize their ecommerce profit and meet consumer needs in the post-pandemic scenario. 

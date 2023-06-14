@@ -1,5 +1,5 @@
 ---
-title: 'Schema doesn't present price in outOfstock items (unavailable)'
+title: "Schema doesn't present price in outOfstock items (unavailable)"
 id: 492FPEWTmgsWuq6wWqSUEu
 status: PUBLISHED
 createdAt: 2018-01-29T20:29:42.910Z

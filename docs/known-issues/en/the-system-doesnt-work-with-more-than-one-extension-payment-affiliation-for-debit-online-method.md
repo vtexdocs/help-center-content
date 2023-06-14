@@ -1,5 +1,5 @@
 ---
-title: 'The system doesn't work with more than one extension payment affiliation for debit online method'
+title: "The system doesn't work with more than one extension payment affiliation for debit online method"
 id: 3bXtVPHqsrSFpJk9ZfyP4v
 status: PUBLISHED
 createdAt: 2022-03-03T18:45:02.639Z

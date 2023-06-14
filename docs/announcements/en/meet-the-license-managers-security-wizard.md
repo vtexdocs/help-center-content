@@ -1,5 +1,5 @@
 ---
-title: 'Meet the License Manager's Security Wizard'
+title: "Meet the License Manager's Security Wizard"
 id: dVVRgVI2Z2cwCWMOIKMoe
 status: PUBLISHED
 createdAt: 2018-03-12T18:56:44.981Z
@@ -11,7 +11,7 @@ author: 245tA425AIeioKAk2eaiwS
 slug: meet-the-license-managers-security-wizard
 legacySlug: meet-the-license-managers-security-wizard
 announcementImageID: ''
-announcementSynopsisEN: 'A new feature that helps you manage and revise the permissions of who has access to your store's admin.'
+announcementSynopsisEN: "A new feature that helps you manage and revise the permissions of who has access to your store's admin."
 ---
 
 VTEX's License Manager now has __Security Wizard__, a new feature that helps you manage who has access to your store's admin. You can find it in the module's main page, where it shows all users who haven't logged in in the previous 60 days.

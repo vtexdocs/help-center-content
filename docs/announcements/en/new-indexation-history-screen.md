@@ -11,7 +11,7 @@ author: 2o8pvz6z9hvxvhSoKAiZzg
 slug: new-indexation-history-screen
 legacySlug: new-indexation-history-screen
 announcementImageID: ''
-announcementSynopsisEN: 'The updated Indexing History page allows you to track the indexing of your store's products'
+announcementSynopsisEN: "The updated Indexing History page allows you to track the indexing of your store's products"
 ---
 
 In every ecommerce operation, it is necessary to add or edit product information in the store. To make sure that this data is up to date and quickly available to the customer, the products must be indexed.

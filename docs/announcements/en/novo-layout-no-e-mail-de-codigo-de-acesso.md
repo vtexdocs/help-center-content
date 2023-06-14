@@ -11,7 +11,7 @@ author: 1E4UkWguFZAXjkguvNHPIv
 slug: novo-layout-no-e-mail-de-codigo-de-acesso
 legacySlug: novo-layout-no-e-mail-de-codigo-de-acesso
 announcementImageID: ''
-announcementSynopsisEN: 'We've updated the layout for the email you receive when requesting an access code for your admin. '
+announcementSynopsisEN: "We've updated the layout for the email you receive when requesting an access code for your admin. "
 ---
 
 We've updated the layout for the email you receive when requesting an access code for your admin. From now on, every time access to login or change password is requested, you'll receive an email as the one shown below:

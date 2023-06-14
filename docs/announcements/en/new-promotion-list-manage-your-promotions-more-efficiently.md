@@ -11,7 +11,7 @@ author: 1malnhMX0vPThsaJaZMYm2
 slug: new-promotion-list-manage-your-promotions-more-efficiently
 legacySlug: new-promotion-list-manage-your-promotions-more-efficiently
 announcementImageID: ''
-announcementSynopsisEN: 'The new Promotion List allows you to manage your store's promotions in a complete and optimized way.'
+announcementSynopsisEN: "The new Promotion List allows you to manage your store's promotions in a complete and optimized way."
 ---
 
 Offering promotions is a method to increase customer attraction and retention by giving advantages such as discounts and gifts. Having an overall promotion management view is fundamental to taking strategic decisions and planning this type of action.

@@ -1,5 +1,5 @@
 ---
-title: 'Your store's orders now display the currency used on the transaction'
+title: "Your store's orders now display the currency used on the transaction"
 id: 2WjHQtSINaSOEE2YSAkKEK
 status: PUBLISHED
 createdAt: 2018-12-19T18:48:14.865Z

@@ -1,5 +1,5 @@
 ---
-title: 'Review your store's CAA record'
+title: "Review your store's CAA record"
 id: 4mBSMpdCByI4c6G64G82Um
 status: PUBLISHED
 createdAt: 2018-11-01T14:32:53.355Z

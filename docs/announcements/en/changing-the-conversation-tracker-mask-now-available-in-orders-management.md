@@ -11,7 +11,7 @@ author: 0QBQws7rk0t5Mnu8fgfUv
 slug: changing-the-conversation-tracker-mask-now-available-in-orders-management
 legacySlug: changing-the-conversation-tracker-mask-now-available-in-orders-management
 announcementImageID: ''
-announcementSynopsisEN: 'It is now possible to change the Conversation Tracker's mask (Soft and Hard modes) through the Order Management module.'
+announcementSynopsisEN: "It is now possible to change the Conversation Tracker's mask (Soft and Hard modes) through the Order Management module."
 ---
 
 [Conversation Tracker](https://help.vtex.com/en/tutorial/conversation-tracker--tutorials_195) unifies all communication made with a customer during an order flow. These emails, which also include messages sent to the customer by any other integrated system, are added to the order timeline. 

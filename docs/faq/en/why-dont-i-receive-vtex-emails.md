@@ -1,5 +1,5 @@
 ---
-title: 'Why don't I receive VTEX emails?'
+title: "Why don't I receive VTEX emails?"
 id: 18LsIyIBLuEmSOos4KUaI0
 status: PUBLISHED
 createdAt: 2018-01-22T21:49:50.299Z

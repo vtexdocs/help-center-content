@@ -1,5 +1,5 @@
 ---
-title: ' CMS Styles selector doesn't work in development workspaces'
+title: " CMS Styles selector doesn't work in development workspaces"
 id: 5FfCMy8XNdJhO8OvRatbZY
 status: PUBLISHED
 createdAt: 2022-04-19T19:44:44.842Z

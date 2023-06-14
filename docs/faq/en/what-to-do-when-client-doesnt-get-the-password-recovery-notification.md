@@ -1,5 +1,5 @@
 ---
-title: 'What to do when client doesn't get the password recovery token'
+title: "What to do when client doesn't get the password recovery token"
 id: 5jyaHYpuvK4uMuG0ksUKsa
 status: DRAFT
 createdAt: 2017-08-22T15:09:27.634Z

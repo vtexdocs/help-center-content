@@ -11,7 +11,7 @@ author:
 slug: set-conditional-prices-with-the-conditions-builder-app
 legacySlug: 
 announcementImageID: ''
-announcementSynopsisEN: 'Available on VTEX's App Store, the Conditions Builder makes it easier to make conditional prices.'
+announcementSynopsisEN: "Available on VTEX's App Store, the Conditions Builder makes it easier to make conditional prices."
 ---
 
 Available on [App Store](https://apps.vtex.com/), the __Conditions Builder__ is an app that will make it easy to create conditional prices on your store. With its simple and friendly UI, you and your team will be able to make rules to offer custom prices seamlessly.

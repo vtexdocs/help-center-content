@@ -1,5 +1,5 @@
 ---
-title: 'Transactional emails don't consider items removed from the order'
+title: "Transactional emails don't consider items removed from the order"
 id: 42sPSPAnjiMkeOIsSAgmo4
 status: PUBLISHED
 createdAt: 2018-03-27T15:00:02.581Z

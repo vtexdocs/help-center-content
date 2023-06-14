@@ -1,5 +1,5 @@
 ---
-title: 'View the contents of the store's CSS files'
+title: "View the contents of the store's CSS files"
 id: U5v7DXpRSee86uqiKQUQi
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:42.414Z

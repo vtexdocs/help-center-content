@@ -1,5 +1,5 @@
 ---
-title: 'Subscription options translations don't work properly for some languages'
+title: "Subscription options translations don't work properly for some languages"
 id: 6trVpxFrfpMIibospU2scp
 status: PUBLISHED
 createdAt: 2023-04-10T16:46:34.794Z

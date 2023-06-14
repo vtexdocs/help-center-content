@@ -1,5 +1,5 @@
 ---
-title: 'Outdated locale zones in Guatemala's billing address on the checkout page'
+title: "Outdated locale zones in Guatemala's billing address on the checkout page"
 id: 368AeP5GZQsYb0MU75XoZl
 status: PUBLISHED
 createdAt: 2022-04-17T20:50:08.677Z

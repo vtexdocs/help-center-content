@@ -1,5 +1,5 @@
 ---
-title: 'SKU Specification filters aren't loaded when the SKU is only available in a Whitelabel seller'
+title: "SKU Specification filters aren't loaded when the SKU is only available in a Whitelabel seller"
 id: 5SpoacD49oxDDGJjepUEoL
 status: PUBLISHED
 createdAt: 2022-03-21T17:41:20.048Z

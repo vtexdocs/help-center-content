@@ -1,5 +1,5 @@
 ---
-title: 'Why doesn't a search term return available products?'
+title: "Why doesn't a search term return available products?"
 id: frequentlyAskedQuestions_6363
 status: CHANGED
 createdAt: 2017-04-27T22:22:33.606Z

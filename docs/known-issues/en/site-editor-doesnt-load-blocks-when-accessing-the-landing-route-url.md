@@ -1,5 +1,5 @@
 ---
-title: 'Site Editor doesn't load blocks when accessing the landing route URL'
+title: "Site Editor doesn't load blocks when accessing the landing route URL"
 id: 2d2GWj84pOy0ZQLbUWi5pY
 status: PUBLISHED
 createdAt: 2023-02-16T21:06:50.850Z

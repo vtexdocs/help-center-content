@@ -1,5 +1,5 @@
 ---
-title: 'Trigger's Source E-mail field doesn't accept placeholder'
+title: "Trigger's Source E-mail field doesn't accept placeholder"
 id: 4EW6n1Ymus8CGSEW2CuK44
 status: PUBLISHED
 createdAt: 2017-12-12T17:50:04.943Z

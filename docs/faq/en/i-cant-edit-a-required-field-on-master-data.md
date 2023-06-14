@@ -1,5 +1,5 @@
 ---
-title: 'I can't edit a required field on Master Data'
+title: "I can't edit a required field on Master Data"
 id: 1OKGBWyU8wlQnXUWuOWuRu
 status: DRAFT
 createdAt: 2019-04-02T17:31:52.682Z

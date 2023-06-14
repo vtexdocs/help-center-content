@@ -1,5 +1,5 @@
 ---
-title: 'Orders invoiced at VTEX but that don't update the invoice at Netshoes'
+title: "Orders invoiced at VTEX but that don't update the invoice at Netshoes"
 id: 1SrJBQj0iTYh4AdvmJQqIg
 status: PUBLISHED
 createdAt: 2022-05-11T19:45:30.831Z

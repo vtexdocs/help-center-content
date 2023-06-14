@@ -11,7 +11,7 @@ author: authors_24
 slug: appkey-and-apptoken-only-web-service-authentications
 legacySlug: appkey-and-apptoken-only-web-service-authentications
 announcementImageID: ''
-announcementSynopsisEN: 'Starting 08/20 (Monday), this change will enhance the security level of all your store's Web Service integrations.'
+announcementSynopsisEN: "Starting 08/20 (Monday), this change will enhance the security level of all your store's Web Service integrations."
 ---
 
 <div class="alert-danger" role="alert">We no longer recommend using the Web Service for new integrations.</div>

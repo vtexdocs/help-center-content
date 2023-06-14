@@ -1,5 +1,5 @@
 ---
-title: 'Setting up personal data on the user's screen'
+title: "Setting up personal data on the user's screen"
 id: 3S32bI9Qb6Ecec66SckYK6
 status: PUBLISHED
 createdAt: 2017-11-14T13:50:53.390Z

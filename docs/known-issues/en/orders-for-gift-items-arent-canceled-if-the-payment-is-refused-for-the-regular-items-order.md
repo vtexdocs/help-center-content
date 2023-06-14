@@ -1,5 +1,5 @@
 ---
-title: 'Orders for gift items aren't canceled if the payment is refused for the regular item's order'
+title: "Orders for gift items aren't canceled if the payment is refused for the regular item's order"
 id: 6Yr7bEseJceNQiY2sw7Vtx
 status: PUBLISHED
 createdAt: 2022-10-18T22:34:21.726Z

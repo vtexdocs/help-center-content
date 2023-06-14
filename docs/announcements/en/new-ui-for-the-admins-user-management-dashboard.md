@@ -1,5 +1,5 @@
 ---
-title: 'New UI for the Admin's user management dashboard'
+title: "New UI for the Admin's user management dashboard"
 id: 154vi1oSfAdiVkEjAATmWL
 status: PUBLISHED
 createdAt: 2020-12-17T20:14:34.263Z

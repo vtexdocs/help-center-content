@@ -1,5 +1,5 @@
 ---
-title: 'I received an invoice and I'm not a VTEX client. Why?'
+title: "I received an invoice and I'm not a VTEX client. Why?"
 id: 2xW1boWieUC40KQgIaugGG
 status: PUBLISHED
 createdAt: 2018-03-28T18:35:49.057Z

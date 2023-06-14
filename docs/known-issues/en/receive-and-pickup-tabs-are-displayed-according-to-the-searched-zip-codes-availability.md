@@ -1,5 +1,5 @@
 ---
-title: 'Receive and Pick-up tabs are displayed according to the searched ZIP code's availability '
+title: "Receive and Pick-up tabs are displayed according to the searched ZIP code's availability "
 id: 5PVGReAvyE0AOcoIq2SeKS
 status: PUBLISHED
 createdAt: 2018-11-21T16:19:00.507Z

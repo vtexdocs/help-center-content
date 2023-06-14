@@ -1,5 +1,5 @@
 ---
-title: 'Why isn't the product or SKU field filter bringing any result in the search?'
+title: "Why isn't the product or SKU field filter bringing any result in the search?"
 id: 7e9P6HiXTiKsgYCKiEoauy
 status: CHANGED
 createdAt: 2017-11-06T20:18:06.419Z
