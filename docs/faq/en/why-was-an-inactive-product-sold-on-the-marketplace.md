@@ -1,5 +1,5 @@
 ---
-title: Why was an inactive product sold on the marketplace?
+title: 'Why was an inactive product sold on the marketplace?'
 id: frequentlyAskedQuestions_1763
 status: PUBLISHED
 createdAt: 2017-04-27T22:26:50.444Z

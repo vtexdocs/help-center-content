@@ -1,5 +1,5 @@
 ---
-title: Configurar el gateway PayMee
+title: 'Configurar el gateway PayMee'
 id: 3fsilRdrBS6GOAy622soWy
 status: PUBLISHED
 createdAt: 2018-02-28T21:29:08.666Z

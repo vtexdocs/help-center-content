@@ -1,5 +1,5 @@
 ---
-title: Information about Uruguay custom payments
+title: 'Information about Uruguay custom payments'
 id: 4cXMr3C5rqIkUkMWgCcWeU
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:36.816Z

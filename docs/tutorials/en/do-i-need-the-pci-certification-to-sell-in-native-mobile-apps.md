@@ -1,5 +1,5 @@
 ---
-title: Do I need the PCI certification to sell in native mobile apps?
+title: 'Do I need the PCI certification to sell in native mobile apps?'
 id: 7c36NBxoHugm0UoyMoCYWa
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:33.947Z

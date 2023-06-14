@@ -1,5 +1,5 @@
 ---
-title: Qué hacer cuando mi producto no fue importado de B2W
+title: 'Qué hacer cuando mi producto no fue importado de B2W'
 id: 3TX480WABWCogqIacqe4wC
 status: DRAFT
 createdAt: 2019-01-24T20:30:45.246Z

@@ -1,5 +1,5 @@
 ---
-title: Adicionar o selo PCI SSC à loja
+title: 'Adicionar o selo PCI SSC à loja'
 id: 1AcE6BLjTGYYgGUkQwgW6q
 status: DRAFT
 createdAt: 2017-08-21T22:52:13.177Z

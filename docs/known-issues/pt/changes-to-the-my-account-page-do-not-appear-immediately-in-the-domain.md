@@ -1,5 +1,5 @@
 ---
-title: Alterações na página de "minha conta" não aparecem imediatamente no domínio "vtexcommercestable.com.br"
+title: 'Alterações na página de "minha conta" não aparecem imediatamente no domínio "vtexcommercestable.com.br"'
 id: iUmuXOYVj97sTpqQnJqAU
 status: PUBLISHED
 createdAt: 2019-03-19T13:23:11.941Z

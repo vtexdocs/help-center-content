@@ -1,5 +1,5 @@
 ---
-title: Entenda el Dashboard
+title: 'Entenda el Dashboard'
 id: frequentlyAskedQuestions_615
 status: DRAFT
 createdAt: 2017-04-27T22:32:17.134Z

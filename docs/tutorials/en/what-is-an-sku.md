@@ -1,5 +1,5 @@
 ---
-title: What is an SKU?
+title: 'What is an SKU?'
 id: 1K75s4RXAQyOuGUYKMM68u
 status: PUBLISHED
 createdAt: 2018-01-25T21:52:12.128Z

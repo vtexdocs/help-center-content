@@ -1,5 +1,5 @@
 ---
-title: Descontos em compras de recorrencias (V1) sendo considerados como Manual Price, criando alçadas indevidamente para lojas que possuem alçada e manual price ativos
+title: 'Descontos em compras de recorrencias (V1) sendo considerados como Manual Price, criando alçadas indevidamente para lojas que possuem alçada e manual price ativos'
 id: 76a7i1rKyTwQIStPXgi23j
 status: DRAFT
 createdAt: 2019-03-28T17:12:52.959Z

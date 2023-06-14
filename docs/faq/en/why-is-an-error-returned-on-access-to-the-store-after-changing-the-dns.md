@@ -1,5 +1,5 @@
 ---
-title: Why is an error returned on access to the store after changing the DNS?
+title: 'Why is an error returned on access to the store after changing the DNS?'
 id: frequentlyAskedQuestions_2248
 status: PUBLISHED
 createdAt: 2017-04-27T22:25:29.934Z

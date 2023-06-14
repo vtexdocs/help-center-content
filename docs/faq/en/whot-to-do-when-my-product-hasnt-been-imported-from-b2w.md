@@ -1,5 +1,5 @@
 ---
-title: Whot to do when my product hasn't been imported from B2W
+title: 'Whot to do when my product hasn't been imported from B2W'
 id: 3TX480WABWCogqIacqe4wC
 status: DRAFT
 createdAt: 2019-01-24T20:30:45.246Z

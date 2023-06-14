@@ -1,5 +1,5 @@
 ---
-title: Generating a HAR file for troubleshooting
+title: 'Generating a HAR file for troubleshooting'
 id: 15xVlw8nuakk2k6Cao4k2Q
 status: PUBLISHED
 createdAt: 2018-02-23T13:16:02.404Z

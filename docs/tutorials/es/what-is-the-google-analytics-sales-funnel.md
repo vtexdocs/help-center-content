@@ -1,5 +1,5 @@
 ---
-title: Qué es el funil de ventas de Google Analytics
+title: 'Qué es el funil de ventas de Google Analytics'
 id: 78JsJp19U42UoCCSEieaGK
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:47.994Z

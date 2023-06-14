@@ -1,5 +1,5 @@
 ---
-title: Why is it not possible to integrate a VTEX marketplace to other marketplaces?
+title: 'Why is it not possible to integrate a VTEX marketplace to other marketplaces?'
 id: frequentlyAskedQuestions_4801
 status: PUBLISHED
 createdAt: 2017-04-27T22:23:24.680Z

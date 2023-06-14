@@ -1,5 +1,5 @@
 ---
-title: Can I have more than one recurrence in my store?
+title: 'Can I have more than one recurrence in my store?'
 id: frequentlyAskedQuestions_4688
 status: DRAFT
 createdAt: 2019-01-24T20:46:01.219Z

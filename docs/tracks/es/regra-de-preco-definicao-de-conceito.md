@@ -1,5 +1,5 @@
 ---
-title: Regla de Precio – Definición de Concepto
+title: 'Regla de Precio – Definición de Concepto'
 id: 2rBirbpB7wLnei4dQ9KGMW
 status: PUBLISHED
 createdAt: 2019-07-04T13:52:56.900Z

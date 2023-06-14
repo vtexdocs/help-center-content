@@ -1,5 +1,5 @@
 ---
-title: Logística no segmento de Grocery (supermercados)
+title: 'Logística no segmento de Grocery (supermercados)'
 id: tutorials_142
 status: PUBLISHED
 createdAt: 2017-04-27T22:16:54.342Z

@@ -1,5 +1,5 @@
 ---
-title: Hacer transacción de pedido recurrente por tokenización de la tarjeta
+title: 'Hacer transacción de pedido recurrente por tokenización de la tarjeta'
 id: ONKkNx2M8KQOcCYySOm6S
 status: DRAFT
 createdAt: 2017-10-29T16:22:10.308Z

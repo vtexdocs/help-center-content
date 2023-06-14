@@ -1,5 +1,5 @@
 ---
-title: Investigating why a product appears as unavailable at the store
+title: 'Investigating why a product appears as unavailable at the store'
 id: frequentlyAskedQuestions_161
 status: DRAFT
 createdAt: 2017-04-27T22:39:35.556Z

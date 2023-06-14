@@ -1,5 +1,5 @@
 ---
-title: Enviar ao Gateway ou ao ERP o preço do item já com o imposto separado
+title: 'Enviar ao Gateway ou ao ERP o preço do item já com o imposto separado'
 id: 77O1rBSLHqW8eWWsE6IEii
 status: PUBLISHED
 createdAt: 2017-08-14T15:30:39.027Z

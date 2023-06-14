@@ -1,5 +1,5 @@
 ---
-title: O que significa desvincular um SKU Seller
+title: 'O que significa desvincular um SKU Seller'
 id: 5cDVluO1zUewuGeMUymku
 status: DRAFT
 createdAt: 2017-08-17T19:49:17.142Z

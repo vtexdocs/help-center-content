@@ -1,5 +1,5 @@
 ---
-title: ¿Qué es una cartera digital (e-wallet)?
+title: '¿Qué es una cartera digital (e-wallet)?'
 id: 4v5wcOe4A0SiaimWM2cU60
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:38.294Z

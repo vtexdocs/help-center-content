@@ -1,5 +1,5 @@
 ---
-title: Does the shipping calculation take into account the free gift?
+title: 'Does the shipping calculation take into account the free gift?'
 id: frequentlyAskedQuestions_6579
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:02.736Z

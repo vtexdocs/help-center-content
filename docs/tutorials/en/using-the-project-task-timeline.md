@@ -1,5 +1,5 @@
 ---
-title: Using the project task timeline
+title: 'Using the project task timeline'
 id: tutorials_1864
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:58.397Z

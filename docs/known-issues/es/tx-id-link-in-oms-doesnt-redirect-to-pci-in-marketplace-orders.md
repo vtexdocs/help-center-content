@@ -1,5 +1,5 @@
 ---
-title: Link del Tx Id en Gestión de pedidos no redirige al módulo de pagos en pedidos Marketplace
+title: 'Link del Tx Id en Gestión de pedidos no redirige al módulo de pagos en pedidos Marketplace'
 id: 6dgOOZv9qoaC4u8eSUecmQ
 status: DRAFT
 createdAt: 2018-03-09T16:25:32.034Z

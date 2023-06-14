@@ -1,5 +1,5 @@
 ---
-title: Controles para exibir o nome da marca
+title: 'Controles para exibir o nome da marca'
 id: 4WF5ZfVXcIkykGCICkeQYy
 status: PUBLISHED
 createdAt: 2018-02-26T13:36:50.601Z

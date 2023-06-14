@@ -1,5 +1,5 @@
 ---
-title: Price rule - Concept definition
+title: 'Price rule - Concept definition'
 id: 2rBirbpB7wLnei4dQ9KGMW
 status: PUBLISHED
 createdAt: 2019-07-04T13:52:56.900Z

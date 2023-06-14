@@ -1,5 +1,5 @@
 ---
-title: O que são controles?
+title: 'O que são controles?'
 id: 6e2qsk9zu8IQuyEysKweag
 status: PUBLISHED
 createdAt: 2018-02-05T16:07:23.584Z

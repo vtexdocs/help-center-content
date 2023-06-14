@@ -1,5 +1,5 @@
 ---
-title: Gestionar el inventario del kit
+title: 'Gestionar el inventario del kit'
 id: frequentlyAskedQuestions_156
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:51.252Z

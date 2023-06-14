@@ -1,5 +1,5 @@
 ---
-title: WebService method for activating SKU does not work when no price is set in the main sales policy
+title: 'WebService method for activating SKU does not work when no price is set in the main sales policy'
 id: 5a4XUoUvpm2KmWw66Um0mu
 status: PUBLISHED
 createdAt: 2017-07-09T22:52:26.629Z

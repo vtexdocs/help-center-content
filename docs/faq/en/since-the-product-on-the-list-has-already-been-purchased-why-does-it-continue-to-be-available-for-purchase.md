@@ -1,5 +1,5 @@
 ---
-title: Since the product on the list has already been purchased, why does it continue to be available for purchase?
+title: 'Since the product on the list has already been purchased, why does it continue to be available for purchase?'
 id: frequentlyAskedQuestions_378
 status: CHANGED
 createdAt: 2017-04-27T22:36:31.013Z

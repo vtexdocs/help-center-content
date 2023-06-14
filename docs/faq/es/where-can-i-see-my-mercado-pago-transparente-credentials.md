@@ -1,5 +1,5 @@
 ---
-title: Cómo acceder a mis credenciales de Mercado Pago Transparente?
+title: 'Cómo acceder a mis credenciales de Mercado Pago Transparente?'
 id: frequentlyAskedQuestions_4560
 status: DRAFT
 createdAt: 2017-04-27T22:24:11.922Z

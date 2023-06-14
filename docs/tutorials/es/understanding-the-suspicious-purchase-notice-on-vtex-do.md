@@ -1,5 +1,5 @@
 ---
-title: Cómo funciona el aviso de compra sospechosa en el VTEX DO
+title: 'Cómo funciona el aviso de compra sospechosa en el VTEX DO'
 id: tutorials_7102
 status: DRAFT
 createdAt: 2017-04-27T21:48:17.808Z

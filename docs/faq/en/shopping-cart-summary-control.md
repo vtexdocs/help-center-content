@@ -1,5 +1,5 @@
 ---
-title: Using the shopping cart summary control
+title: 'Using the shopping cart summary control'
 id: frequentlyAskedQuestions_625
 status: DRAFT
 createdAt: 2017-04-27T22:31:48.529Z

@@ -1,5 +1,5 @@
 ---
-title: Preciso de uma hospedagem para minha loja VTEX?
+title: 'Preciso de uma hospedagem para minha loja VTEX?'
 id: frequentlyAskedQuestions_7138
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:33.482Z

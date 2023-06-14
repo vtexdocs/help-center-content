@@ -1,5 +1,5 @@
 ---
-title: Diferença entre meios de pagamento e condições de pagamento
+title: 'Diferença entre meios de pagamento e condições de pagamento'
 id: 3azJenhGFyUy2gsocms42Q
 status: PUBLISHED
 createdAt: 2018-02-23T12:28:37.517Z

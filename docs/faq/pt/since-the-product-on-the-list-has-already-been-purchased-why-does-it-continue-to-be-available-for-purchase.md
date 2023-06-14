@@ -1,5 +1,5 @@
 ---
-title: Por que o produto da lista já foi comprado e continua disponível para a compra?
+title: 'Por que o produto da lista já foi comprado e continua disponível para a compra?'
 id: frequentlyAskedQuestions_378
 status: CHANGED
 createdAt: 2017-04-27T22:36:31.013Z

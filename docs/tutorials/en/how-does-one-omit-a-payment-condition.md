@@ -1,5 +1,5 @@
 ---
-title: Omitting a payment condition
+title: 'Omitting a payment condition'
 id: 5f8aZrc7y8oiu0KOmaOy0e
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:50.203Z

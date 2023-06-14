@@ -1,5 +1,5 @@
 ---
-title: Como recuperar a senha de acesso
+title: 'Como recuperar a senha de acesso'
 id: frequentlyAskedQuestions_531
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:54.549Z

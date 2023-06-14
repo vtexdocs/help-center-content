@@ -1,5 +1,5 @@
 ---
-title: Why don’t my payment methods appear on the marketplace?
+title: 'Why don’t my payment methods appear on the marketplace?'
 id: frequentlyAskedQuestions_689
 status: PUBLISHED
 createdAt: 2017-04-27T22:29:46.341Z

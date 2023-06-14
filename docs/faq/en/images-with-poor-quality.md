@@ -1,5 +1,5 @@
 ---
-title: Why are the images in my store being displayed with poor quality?
+title: 'Why are the images in my store being displayed with poor quality?'
 id: 5LxgbF8S2cIUOCaCO00GcK
 status: PUBLISHED
 createdAt: 2018-02-22T19:10:35.567Z

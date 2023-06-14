@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo se comprueba el SLA de operación de la plataforma?
+title: '¿Cómo se comprueba el SLA de operación de la plataforma?'
 id: frequentlyAskedQuestions_662
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:57.436Z

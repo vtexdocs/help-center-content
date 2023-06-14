@@ -1,5 +1,5 @@
 ---
-title: Qué significa excluir un SKU Seller
+title: 'Qué significa excluir un SKU Seller'
 id: 7HOBl577KE2yeMGiiCAsEA
 status: DRAFT
 createdAt: 2017-08-17T19:49:26.278Z

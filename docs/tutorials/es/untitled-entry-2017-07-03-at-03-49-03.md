@@ -1,5 +1,5 @@
 ---
-title: Como crear un attachment para un SKU 
+title: 'Como crear un attachment para un SKU '
 id: 4o9btJ7gAEQOOaqOWOC6ms
 status: DRAFT
 createdAt: 2017-07-03T15:49:03.846Z

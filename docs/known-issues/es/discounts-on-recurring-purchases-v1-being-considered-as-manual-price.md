@@ -1,5 +1,5 @@
 ---
-title: Descuentos en compras recurrentes (V1) se consideran como Manual Price, creando alzadas indebidamente para tiendas que tienen alzada y manual price activos
+title: 'Descuentos en compras recurrentes (V1) se consideran como Manual Price, creando alzadas indebidamente para tiendas que tienen alzada y manual price activos'
 id: 76a7i1rKyTwQIStPXgi23j
 status: DRAFT
 createdAt: 2019-03-28T17:12:52.959Z

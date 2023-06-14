@@ -1,5 +1,5 @@
 ---
-title: ¿Qué es una Subcategoría?
+title: '¿Qué es una Subcategoría?'
 id: 2cb0aRkG3i6AeiAMM24iwY
 status: PUBLISHED
 createdAt: 2018-01-25T20:50:31.252Z

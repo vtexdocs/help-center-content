@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué el hostName en el JSON del Centro de mensajes muestra información distinta a la de la Gestión de la cuenta?
+title: '¿Por qué el hostName en el JSON del Centro de mensajes muestra información distinta a la de la Gestión de la cuenta?'
 id: frequentlyAskedQuestions_6695
 status: PUBLISHED
 createdAt: 2017-04-27T22:22:10.816Z

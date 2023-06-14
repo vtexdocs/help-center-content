@@ -1,5 +1,5 @@
 ---
-title: Setting up the PayMee gateway
+title: 'Setting up the PayMee gateway'
 id: 3fsilRdrBS6GOAy622soWy
 status: PUBLISHED
 createdAt: 2018-02-28T21:29:08.666Z

@@ -1,5 +1,5 @@
 ---
-title: What is an acquirer?
+title: 'What is an acquirer?'
 id: 7N1oRTG8dGmOiIugC0cs4E
 status: PUBLISHED
 createdAt: 2018-02-20T17:53:36.416Z

@@ -1,5 +1,5 @@
 ---
-title: How do I terminate my contract with VTEX?
+title: 'How do I terminate my contract with VTEX?'
 id: HhPeg8EOismMSImoWwaI8
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:36.822Z

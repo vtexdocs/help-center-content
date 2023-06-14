@@ -1,5 +1,5 @@
 ---
-title: Que pagamentos customizados estão disponíveis na América Latina?
+title: 'Que pagamentos customizados estão disponíveis na América Latina?'
 id: 6plXudxQJiwaE0key20Yoe
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:37.217Z

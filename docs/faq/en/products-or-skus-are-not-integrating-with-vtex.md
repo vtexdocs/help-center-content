@@ -1,5 +1,5 @@
 ---
-title: Why do some products, SKUs or orders are not integrating with VTEX?
+title: 'Why do some products, SKUs or orders are not integrating with VTEX?'
 id: frequentlyAskedQuestions_772
 status: PUBLISHED
 createdAt: 2017-04-27T22:27:26.513Z

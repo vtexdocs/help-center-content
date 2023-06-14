@@ -1,5 +1,5 @@
 ---
-title: Usando o mesmo estoque de outra loja no marketplace
+title: 'Usando o mesmo estoque de outra loja no marketplace'
 id: 5IFWC9JnQQoeMQ6wyGCacc
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:40.717Z

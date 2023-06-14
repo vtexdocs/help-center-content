@@ -1,5 +1,5 @@
 ---
-title: Can I generate a report with the best-selling products in my store?
+title: 'Can I generate a report with the best-selling products in my store?'
 id: 1kAFHDatvOiwqEGGs2OYwK
 status: DRAFT
 createdAt: 2018-02-27T13:44:34.700Z

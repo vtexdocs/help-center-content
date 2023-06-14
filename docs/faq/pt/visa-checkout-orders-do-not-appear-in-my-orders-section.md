@@ -1,5 +1,5 @@
 ---
-title: Pedidos feitos com Visa Checkout não aparecem na área de Meus Pedidos
+title: 'Pedidos feitos com Visa Checkout não aparecem na área de Meus Pedidos'
 id: 4BrqWFB2XCUS0SmkcqOAwe
 status: PUBLISHED
 createdAt: 2018-06-15T20:21:24.876Z

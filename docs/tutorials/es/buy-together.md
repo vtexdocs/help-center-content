@@ -1,5 +1,5 @@
 ---
-title: Crear promoción Comprar Juntos
+title: 'Crear promoción Comprar Juntos'
 id: tutorials_323
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:34.791Z

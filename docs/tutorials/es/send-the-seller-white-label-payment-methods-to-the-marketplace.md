@@ -1,5 +1,5 @@
 ---
-title: Enviar los medios de pago del Seller White Label al Marketplace
+title: 'Enviar los medios de pago del Seller White Label al Marketplace'
 id: bfvtPzZyikacSqgkgeGW
 status: PUBLISHED
 createdAt: 2018-09-27T20:35:08.990Z

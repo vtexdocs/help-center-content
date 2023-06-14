@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué mi anuncio fue pausado en Mercado Libre?
+title: '¿Por qué mi anuncio fue pausado en Mercado Libre?'
 id: 22SAekXkFKSI8TZFlRuutR
 status: PUBLISHED
 createdAt: 2019-02-25T16:23:15.196Z

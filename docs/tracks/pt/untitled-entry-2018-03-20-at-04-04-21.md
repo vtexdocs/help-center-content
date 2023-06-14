@@ -1,5 +1,5 @@
 ---
-title: [SkyHub] Fluxo de estoque
+title: '[SkyHub] Fluxo de estoque'
 id: 3Es2ijZgJys6iSyqum404u
 status: DRAFT
 createdAt: 2018-03-20T16:04:21.858Z

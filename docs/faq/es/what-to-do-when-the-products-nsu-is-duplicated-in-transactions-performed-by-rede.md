@@ -1,5 +1,5 @@
 ---
-title: ¿Qué hacer cuando el NSU del producto se duplica en las transacciones realizadas por Rede?
+title: '¿Qué hacer cuando el NSU del producto se duplica en las transacciones realizadas por Rede?'
 id: 6GCSJnX9pnCk8jVOQ4cDK1
 status: PUBLISHED
 createdAt: 2019-02-27T20:58:12.700Z

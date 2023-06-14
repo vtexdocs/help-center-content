@@ -1,5 +1,5 @@
 ---
-title: Checkout con error "tienda no encontrada". ¿Que hacer?
+title: 'Checkout con error "tienda no encontrada". ¿Que hacer?'
 id: 23ZZv5zvfuAsSWCwOMIoQE
 status: PUBLISHED
 createdAt: 2017-11-29T14:00:08.262Z

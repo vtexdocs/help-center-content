@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué un pago se detiene en el status de Autorización?
+title: '¿Por qué un pago se detiene en el status de Autorización?'
 id: 3hMw16ZijKm6QmSSY0KOGk
 status: PUBLISHED
 createdAt: 2019-01-24T20:30:45.163Z

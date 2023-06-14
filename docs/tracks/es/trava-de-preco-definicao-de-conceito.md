@@ -1,5 +1,5 @@
 ---
-title: Bloqueo de Precio – Definición de Concepto
+title: 'Bloqueo de Precio – Definición de Concepto'
 id: 7JZhLmI3mjBVu0RMOueoy3
 status: PUBLISHED
 createdAt: 2019-07-04T13:54:19.429Z

@@ -1,5 +1,5 @@
 ---
-title: Qué son layouts?
+title: 'Qué son layouts?'
 id: CckPh00rZIcIUG60y8Gse
 status: PUBLISHED
 createdAt: 2018-02-02T12:28:22.770Z

@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué el precio no fue integrado con el marketplace?
+title: '¿Por qué el precio no fue integrado con el marketplace?'
 id: frequentlyAskedQuestions_723
 status: PUBLISHED
 createdAt: 2017-04-27T22:28:00.522Z

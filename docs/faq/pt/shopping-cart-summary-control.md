@@ -1,5 +1,5 @@
 ---
-title: Usando o controle de resumo do carrinho
+title: 'Usando o controle de resumo do carrinho'
 id: frequentlyAskedQuestions_625
 status: DRAFT
 createdAt: 2017-04-27T22:31:48.529Z

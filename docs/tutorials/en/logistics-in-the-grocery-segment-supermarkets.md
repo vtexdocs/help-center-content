@@ -1,5 +1,5 @@
 ---
-title: Logistics in the Grocery Segment (supermarkets)
+title: 'Logistics in the Grocery Segment (supermarkets)'
 id: tutorials_142
 status: PUBLISHED
 createdAt: 2017-04-27T22:16:54.342Z

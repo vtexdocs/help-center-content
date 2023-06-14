@@ -1,5 +1,5 @@
 ---
-title: Ao modificar categoria de parent, informações de hierarquia não são atualizadas
+title: 'Ao modificar categoria de parent, informações de hierarquia não são atualizadas'
 id: 2quVeZkZHqi4mOQecgugaA
 status: DRAFT
 createdAt: 2018-02-15T22:45:32.060Z

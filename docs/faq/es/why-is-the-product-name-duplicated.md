@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué el producto está con nombre duplicado?
+title: '¿Por qué el producto está con nombre duplicado?'
 id: frequentlyAskedQuestions_380
 status: PUBLISHED
 createdAt: 2017-04-27T22:36:22.480Z

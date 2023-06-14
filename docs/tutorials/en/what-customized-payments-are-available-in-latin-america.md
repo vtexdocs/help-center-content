@@ -1,5 +1,5 @@
 ---
-title: What customized payments are available in Latin America?
+title: 'What customized payments are available in Latin America?'
 id: 6plXudxQJiwaE0key20Yoe
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:37.217Z

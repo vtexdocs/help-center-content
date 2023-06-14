@@ -1,5 +1,5 @@
 ---
-title: Hacer transacción de pedido recurrente sin CVV
+title: 'Hacer transacción de pedido recurrente sin CVV'
 id: iYJ5L8LsiIu0oEkQeE4aC
 status: DRAFT
 createdAt: 2017-10-29T16:22:22.783Z

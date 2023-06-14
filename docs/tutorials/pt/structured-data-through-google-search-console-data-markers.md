@@ -1,5 +1,5 @@
 ---
-title: Dados estruturados através do Marcador de Dados do Google Search Console
+title: 'Dados estruturados através do Marcador de Dados do Google Search Console'
 id: tutorials_560
 status: PUBLISHED
 createdAt: 2017-04-27T22:00:54.606Z

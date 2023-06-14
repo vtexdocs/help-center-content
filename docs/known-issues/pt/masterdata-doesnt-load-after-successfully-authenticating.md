@@ -1,5 +1,5 @@
 ---
-title: MasterData não carrega após autenticação
+title: 'MasterData não carrega após autenticação'
 id: 1E22WpBMvzVHzGfWUsvjc0
 status: PUBLISHED
 createdAt: 2019-02-17T20:15:14.214Z

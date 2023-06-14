@@ -1,5 +1,5 @@
 ---
-title: What is a sub-acquirer?
+title: 'What is a sub-acquirer?'
 id: 64aX6PeRQQ66O8uCqo0W4q
 status: PUBLISHED
 createdAt: 2018-02-20T20:17:44.101Z

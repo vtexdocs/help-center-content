@@ -1,5 +1,5 @@
 ---
-title: Trigger não funciona
+title: 'Trigger não funciona'
 id: 4dX1C5BVnkobCV7VrwRiD4
 status: PUBLISHED
 createdAt: 2019-04-01T22:06:02.199Z

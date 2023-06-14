@@ -1,5 +1,5 @@
 ---
-title: Quais selos de segurança podem ser adicionados à minha loja?
+title: 'Quais selos de segurança podem ser adicionados à minha loja?'
 id: 29ivkiHbXqMIa8QMKCSQ2K
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:48.223Z

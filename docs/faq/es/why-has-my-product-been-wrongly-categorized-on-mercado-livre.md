@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué mi producto fue categorizado equivocadamente en Mercado Livre?
+title: '¿Por qué mi producto fue categorizado equivocadamente en Mercado Livre?'
 id: frequentlyAskedQuestions_4462
 status: PUBLISHED
 createdAt: 2017-04-27T22:24:19.119Z

@@ -1,5 +1,5 @@
 ---
-title: Promociones e impuestos no se aplican a los servicios
+title: 'Promociones e impuestos no se aplican a los servicios'
 id: 4u12zyfc387daNQamFohA2
 status: PUBLISHED
 createdAt: 2019-02-15T18:52:59.074Z

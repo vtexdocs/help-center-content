@@ -1,5 +1,5 @@
 ---
-title: Omitir uma condição de pagamento
+title: 'Omitir uma condição de pagamento'
 id: 5f8aZrc7y8oiu0KOmaOy0e
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:50.203Z

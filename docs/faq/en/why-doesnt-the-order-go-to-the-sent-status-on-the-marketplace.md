@@ -1,5 +1,5 @@
 ---
-title: Why doesn’t the order go to the ‘Sent’ status on the marketplace?
+title: 'Why doesn’t the order go to the ‘Sent’ status on the marketplace?'
 id: frequentlyAskedQuestions_719
 status: PUBLISHED
 createdAt: 2017-04-27T22:28:07.933Z

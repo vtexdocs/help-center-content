@@ -1,5 +1,5 @@
 ---
-title: ¿Es necesario tener certificado PCI para vender en apps móviles nativas?
+title: '¿Es necesario tener certificado PCI para vender en apps móviles nativas?'
 id: 7c36NBxoHugm0UoyMoCYWa
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:33.947Z

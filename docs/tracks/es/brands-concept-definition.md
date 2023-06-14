@@ -1,5 +1,5 @@
 ---
-title: Marcas - Definición de concepto
+title: 'Marcas - Definición de concepto'
 id: 7i3sB8fgkqUp5NoH5yJtfh
 status: PUBLISHED
 createdAt: 2019-05-21T19:06:19.756Z

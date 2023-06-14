@@ -1,5 +1,5 @@
 ---
-title: ¿Qué es una bandera de tarjeta de crédito?
+title: '¿Qué es una bandera de tarjeta de crédito?'
 id: 4bNba5QYuIwKEmac88KwyI
 status: PUBLISHED
 createdAt: 2018-02-21T12:37:52.121Z

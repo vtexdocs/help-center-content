@@ -1,5 +1,5 @@
 ---
-title: Por que o preço não foi enviado para o marketplace?
+title: 'Por que o preço não foi enviado para o marketplace?'
 id: frequentlyAskedQuestions_723
 status: PUBLISHED
 createdAt: 2017-04-27T22:28:00.522Z

@@ -1,5 +1,5 @@
 ---
-title: How is the platform’s operation SLA determined?
+title: 'How is the platform’s operation SLA determined?'
 id: frequentlyAskedQuestions_662
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:57.436Z

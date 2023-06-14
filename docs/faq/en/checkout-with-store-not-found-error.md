@@ -1,5 +1,5 @@
 ---
-title: Checkout with "store not found" error. What to do?
+title: 'Checkout with "store not found" error. What to do?'
 id: 23ZZv5zvfuAsSWCwOMIoQE
 status: PUBLISHED
 createdAt: 2017-11-29T14:00:08.262Z

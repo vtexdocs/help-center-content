@@ -1,5 +1,5 @@
 ---
-title: ¿Puedo generar un informe con los productos más vendidos en mi tienda?
+title: '¿Puedo generar un informe con los productos más vendidos en mi tienda?'
 id: 1kAFHDatvOiwqEGGs2OYwK
 status: DRAFT
 createdAt: 2018-02-27T13:44:34.700Z

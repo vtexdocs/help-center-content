@@ -1,5 +1,5 @@
 ---
-title: How to add the PCI SSC certificate to the store
+title: 'How to add the PCI SSC certificate to the store'
 id: 1AcE6BLjTGYYgGUkQwgW6q
 status: DRAFT
 createdAt: 2017-08-21T22:52:13.177Z

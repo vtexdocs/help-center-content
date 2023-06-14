@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué el origen de los pedidos está diferente en VTEX y en Google Analytics?
+title: '¿Por qué el origen de los pedidos está diferente en VTEX y en Google Analytics?'
 id: frequentlyAskedQuestions_5030
 status: PUBLISHED
 createdAt: 2017-04-27T22:22:57.838Z

@@ -1,5 +1,5 @@
 ---
-title: Why does the hostName in the Message Center JSON display different information from the Account management?
+title: 'Why does the hostName in the Message Center JSON display different information from the Account management?'
 id: frequentlyAskedQuestions_6695
 status: PUBLISHED
 createdAt: 2017-04-27T22:22:10.816Z

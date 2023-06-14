@@ -1,5 +1,5 @@
 ---
-title: Por que o Pagamentos não finaliza o cancelamento da transação?
+title: 'Por que o Pagamentos não finaliza o cancelamento da transação?'
 id: 3IBqfy5IhOMkYKuKmu2wSs
 status: PUBLISHED
 createdAt: 2017-05-16T14:37:21.265Z

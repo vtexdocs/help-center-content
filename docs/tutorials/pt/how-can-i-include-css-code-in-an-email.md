@@ -1,5 +1,5 @@
 ---
-title: Qual estilo de CSS deve ser usado nos e-mails?
+title: 'Qual estilo de CSS deve ser usado nos e-mails?'
 id: frequentlyAskedQuestions_5390
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:02.325Z

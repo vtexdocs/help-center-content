@@ -1,5 +1,5 @@
 ---
-title: Qué es binding?
+title: 'Qué es binding?'
 id: 4NcN3NJd0IeYccgWCI8O2W
 status: PUBLISHED
 createdAt: 2018-01-29T18:16:54.508Z

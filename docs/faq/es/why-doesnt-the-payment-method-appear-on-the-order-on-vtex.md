@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué no aparece la forma de pago en el pedido en VTEX?
+title: '¿Por qué no aparece la forma de pago en el pedido en VTEX?'
 id: frequentlyAskedQuestions_695
 status: PUBLISHED
 createdAt: 2017-04-27T22:29:28.700Z

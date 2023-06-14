@@ -1,5 +1,5 @@
 ---
-title:  O que são placeholders?
+title: ' O que são placeholders?'
 id: 5qLiCMldlYYM0E4usEAuII
 status: PUBLISHED
 createdAt: 2018-02-02T13:30:17.819Z

@@ -1,5 +1,5 @@
 ---
-title: He editado un placeholder y el sitio no se actualiza. ¿Que hacer?
+title: 'He editado un placeholder y el sitio no se actualiza. ¿Que hacer?'
 id: 3aYplfjwuQumeiEe20UUaO
 status: PUBLISHED
 createdAt: 2018-01-22T22:00:31.331Z

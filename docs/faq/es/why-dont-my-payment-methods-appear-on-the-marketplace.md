@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué mis medios de pago no aparecen en el marketplace?
+title: '¿Por qué mis medios de pago no aparecen en el marketplace?'
 id: frequentlyAskedQuestions_689
 status: PUBLISHED
 createdAt: 2017-04-27T22:29:46.341Z

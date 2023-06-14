@@ -1,5 +1,5 @@
 ---
-title: Why does my order appear cancelled on the marketplace but is shown as billed on VTEX?
+title: 'Why does my order appear cancelled on the marketplace but is shown as billed on VTEX?'
 id: frequentlyAskedQuestions_6279
 status: PUBLISHED
 createdAt: 2017-04-27T22:22:27.939Z

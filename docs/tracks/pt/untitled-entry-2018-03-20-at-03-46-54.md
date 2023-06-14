@@ -1,5 +1,5 @@
 ---
-title: [SkyHub] Fluxo de produtos
+title: '[SkyHub] Fluxo de produtos'
 id: 2n0EgHmrYoomUw8iCCAgMc
 status: DRAFT
 createdAt: 2018-03-20T15:46:54.578Z

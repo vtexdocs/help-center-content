@@ -1,5 +1,5 @@
 ---
-title: Price Variation Limiter - Concept Definition
+title: 'Price Variation Limiter - Concept Definition'
 id: 7JZhLmI3mjBVu0RMOueoy3
 status: PUBLISHED
 createdAt: 2019-07-04T13:54:19.429Z

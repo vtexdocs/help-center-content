@@ -1,5 +1,5 @@
 ---
-title: Discounts on recurring purchases (V1) being considered as Manual Price, creating improper authority limits for stores that have active authority limit and manual price
+title: 'Discounts on recurring purchases (V1) being considered as Manual Price, creating improper authority limits for stores that have active authority limit and manual price'
 id: 76a7i1rKyTwQIStPXgi23j
 status: DRAFT
 createdAt: 2019-03-28T17:12:52.959Z

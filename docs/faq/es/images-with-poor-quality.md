@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué las imágenes de mi tienda se muestran con baja calidad?
+title: '¿Por qué las imágenes de mi tienda se muestran con baja calidad?'
 id: 5LxgbF8S2cIUOCaCO00GcK
 status: PUBLISHED
 createdAt: 2018-02-22T19:10:35.567Z

@@ -1,5 +1,5 @@
 ---
-title: Why isn’t my product deactivated on the marketplace
+title: 'Why isn’t my product deactivated on the marketplace'
 id: frequentlyAskedQuestions_687
 status: PUBLISHED
 createdAt: 2017-04-27T22:29:53.670Z

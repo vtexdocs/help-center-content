@@ -1,5 +1,5 @@
 ---
-title: Create and find Price Tables
+title: 'Create and find Price Tables'
 id: 4b0xGz749lx0Q45GYrbxcL
 status: DRAFT
 createdAt: 2019-06-26T17:19:26.210Z

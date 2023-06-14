@@ -1,5 +1,5 @@
 ---
-title: Sharing your store access to Google Webmaster Tools
+title: 'Sharing your store access to Google Webmaster Tools'
 id: frequentlyAskedQuestions_595
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:55.899Z

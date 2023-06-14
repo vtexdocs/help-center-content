@@ -1,5 +1,5 @@
 ---
-title: Por que as imagens da minha loja estão sendo exibidas com baixa qualidade?
+title: 'Por que as imagens da minha loja estão sendo exibidas com baixa qualidade?'
 id: 5LxgbF8S2cIUOCaCO00GcK
 status: PUBLISHED
 createdAt: 2018-02-22T19:10:35.567Z

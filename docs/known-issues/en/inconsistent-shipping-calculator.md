@@ -1,5 +1,5 @@
 ---
-title: Shipping calculator for shopping cart is inconsistent 
+title: 'Shipping calculator for shopping cart is inconsistent '
 id: 2U3U4r7DAAuIegW0geKG8U
 status: PUBLISHED
 createdAt: 2018-12-10T16:09:32.683Z

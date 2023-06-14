@@ -1,5 +1,5 @@
 ---
-title: Por que o pagamento por boleto registrado exige autenticação?
+title: 'Por que o pagamento por boleto registrado exige autenticação?'
 id: 5gpsx6cUXKGG4asA6aiCki
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:34.913Z

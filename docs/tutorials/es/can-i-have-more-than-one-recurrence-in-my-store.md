@@ -1,5 +1,5 @@
 ---
-title: Puedo tener más de una recurrencia en mi tienda?
+title: 'Puedo tener más de una recurrencia en mi tienda?'
 id: frequentlyAskedQuestions_4688
 status: DRAFT
 createdAt: 2019-01-24T20:46:01.219Z

@@ -1,5 +1,5 @@
 ---
-title: Por que cadastrei categoria similar e os produtos não são exibidos?
+title: 'Por que cadastrei categoria similar e os produtos não são exibidos?'
 id: frequentlyAskedQuestions_374
 status: PUBLISHED
 createdAt: 2017-04-27T22:36:46.454Z

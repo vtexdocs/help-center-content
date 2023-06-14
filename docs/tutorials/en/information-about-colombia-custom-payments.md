@@ -1,5 +1,5 @@
 ---
-title: Information about Colombia custom payments
+title: 'Information about Colombia custom payments'
 id: 3tcvqc6LBSKOqMWCumwyaq
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:36.914Z

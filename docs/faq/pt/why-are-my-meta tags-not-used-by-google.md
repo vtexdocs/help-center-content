@@ -1,5 +1,5 @@
 ---
-title: Por que minhas meta tags não são utilizadas pelo Google?
+title: 'Por que minhas meta tags não são utilizadas pelo Google?'
 id: Jrbp69dICOygSIMMw2mW2
 status: PUBLISHED
 createdAt: 2018-06-25T14:08:48.635Z

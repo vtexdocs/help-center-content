@@ -1,5 +1,5 @@
 ---
-title: Planifique su proyecto
+title: 'Planifique su proyecto'
 id: tutorials_2546
 status: PUBLISHED
 createdAt: 2017-04-27T21:54:42.370Z

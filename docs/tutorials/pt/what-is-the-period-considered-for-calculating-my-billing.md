@@ -1,5 +1,5 @@
 ---
-title: Qual é o período considerado para a apuração da cobrança da minha loja?
+title: 'Qual é o período considerado para a apuração da cobrança da minha loja?'
 id: 2vnhGtq7vKkqY6q2uqIQMO
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:47.622Z

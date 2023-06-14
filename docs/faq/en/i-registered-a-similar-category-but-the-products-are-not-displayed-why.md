@@ -1,5 +1,5 @@
 ---
-title: I registered a similar category, but the products are not displayed. Why?
+title: 'I registered a similar category, but the products are not displayed. Why?'
 id: frequentlyAskedQuestions_374
 status: PUBLISHED
 createdAt: 2017-04-27T22:36:46.454Z

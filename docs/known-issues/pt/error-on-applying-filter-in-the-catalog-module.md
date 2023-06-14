@@ -1,5 +1,5 @@
 ---
-title: Erro ao aplicar filtro no módulo Catalog
+title: 'Erro ao aplicar filtro no módulo Catalog'
 id: 1cCgcFEnte0kguQIi6ESo4
 status: PUBLISHED
 createdAt: 2017-04-03T19:09:52.412Z

@@ -1,5 +1,5 @@
 ---
-title: Crear promoción de campaña
+title: 'Crear promoción de campaña'
 id: 2pW6SMDKaArNM3a9LpDnF5
 status: DRAFT
 createdAt: 2019-03-20T21:46:18.880Z

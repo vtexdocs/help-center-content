@@ -1,5 +1,5 @@
 ---
-title: Why did the carrier calculate freight for a weight lower than the minimum set?
+title: 'Why did the carrier calculate freight for a weight lower than the minimum set?'
 id: frequentlyAskedQuestions_164
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:17.904Z

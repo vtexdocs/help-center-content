@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué no puedo integrar producto sin EAN o con EAN incorrecto?
+title: '¿Por qué no puedo integrar producto sin EAN o con EAN incorrecto?'
 id: frequentlyAskedQuestions_704
 status: PUBLISHED
 createdAt: 2017-04-27T22:28:57.378Z

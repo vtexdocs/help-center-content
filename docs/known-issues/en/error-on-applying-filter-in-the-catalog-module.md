@@ -1,5 +1,5 @@
 ---
-title: Error on applying filter in the Catalog module
+title: 'Error on applying filter in the Catalog module'
 id: 1cCgcFEnte0kguQIi6ESo4
 status: PUBLISHED
 createdAt: 2017-04-03T19:09:52.412Z

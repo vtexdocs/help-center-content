@@ -1,5 +1,5 @@
 ---
-title: Cómo funciona la regla de disponibilidad mínima
+title: 'Cómo funciona la regla de disponibilidad mínima'
 id: tutorials_394
 status: PUBLISHED
 createdAt: 2017-04-27T22:07:07.997Z

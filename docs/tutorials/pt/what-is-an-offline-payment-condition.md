@@ -1,5 +1,5 @@
 ---
-title: O que é uma condição de pagamento offline?
+title: 'O que é uma condição de pagamento offline?'
 id: 3WtA4nmQJWqAaCy0kYG6IG
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:37.593Z

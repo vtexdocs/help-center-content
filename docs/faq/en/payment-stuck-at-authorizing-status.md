@@ -1,5 +1,5 @@
 ---
-title: Why is a payment stuck at Authorizing status?
+title: 'Why is a payment stuck at Authorizing status?'
 id: 3hMw16ZijKm6QmSSY0KOGk
 status: PUBLISHED
 createdAt: 2019-01-24T20:30:45.163Z

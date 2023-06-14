@@ -1,5 +1,5 @@
 ---
-title: ¿Qué es una Marca?
+title: '¿Qué es una Marca?'
 id: QU07yhHoaWcEYseEucOQW
 status: PUBLISHED
 createdAt: 2018-01-25T21:48:56.054Z

@@ -1,5 +1,5 @@
 ---
-title: Parámetros de campañas son perdidos en redireción de HTTP para HTTPS
+title: 'Parámetros de campañas son perdidos en redireción de HTTP para HTTPS'
 id: 2GHGz8HUBiqw4mqI0uSmu6
 status: PUBLISHED
 createdAt: 2017-08-16T20:33:02.765Z

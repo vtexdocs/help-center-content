@@ -1,5 +1,5 @@
 ---
-title: Gerar arquivo HAR para debugar problemas na loja
+title: 'Gerar arquivo HAR para debugar problemas na loja'
 id: 15xVlw8nuakk2k6Cao4k2Q
 status: PUBLISHED
 createdAt: 2018-02-23T13:16:02.404Z

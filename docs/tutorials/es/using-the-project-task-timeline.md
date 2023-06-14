@@ -1,5 +1,5 @@
 ---
-title: Utilizar el cronograma de tareas en su proyecto
+title: 'Utilizar el cronograma de tareas en su proyecto'
 id: tutorials_1864
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:58.397Z

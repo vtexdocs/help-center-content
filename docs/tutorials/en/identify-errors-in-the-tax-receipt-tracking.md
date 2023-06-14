@@ -1,5 +1,5 @@
 ---
-title: Identify errors in the tax receipt tracking
+title: 'Identify errors in the tax receipt tracking'
 id: 6MHzcsarpCIU0QWQMOCqsi
 status: PUBLISHED
 createdAt: 2017-08-04T14:22:48.908Z

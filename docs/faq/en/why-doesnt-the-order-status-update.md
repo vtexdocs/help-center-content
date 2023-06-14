@@ -1,5 +1,5 @@
 ---
-title: Why doesn’t the order status update?
+title: 'Why doesn’t the order status update?'
 id: frequentlyAskedQuestions_712
 status: PUBLISHED
 createdAt: 2017-04-27T22:28:34.393Z

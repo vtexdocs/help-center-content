@@ -1,5 +1,5 @@
 ---
-title: ¿Cuánto tiempo tarda la plataforma para identificar mi pago?
+title: '¿Cuánto tiempo tarda la plataforma para identificar mi pago?'
 id: 57aNfMj0tqeWUQwQWyaYuY
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:35.576Z

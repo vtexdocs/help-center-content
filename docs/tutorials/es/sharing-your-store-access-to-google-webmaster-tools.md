@@ -1,5 +1,5 @@
 ---
-title: Compartir acceso al Google Webmaster Tools de su tienda
+title: 'Compartir acceso al Google Webmaster Tools de su tienda'
 id: frequentlyAskedQuestions_595
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:55.899Z

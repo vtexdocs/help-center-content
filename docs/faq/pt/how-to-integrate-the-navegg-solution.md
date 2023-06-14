@@ -1,5 +1,5 @@
 ---
-title: Como integrar a solução Navegg
+title: 'Como integrar a solução Navegg'
 id: frequentlyAskedQuestions_590
 status: DRAFT
 createdAt: 2017-04-27T22:33:23.709Z

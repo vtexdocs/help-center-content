@@ -1,5 +1,5 @@
 ---
-title: Informações dos pagamentos customizados da Colômbia
+title: 'Informações dos pagamentos customizados da Colômbia'
 id: 3tcvqc6LBSKOqMWCumwyaq
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:36.914Z

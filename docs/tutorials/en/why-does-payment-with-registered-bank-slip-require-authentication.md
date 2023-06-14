@@ -1,5 +1,5 @@
 ---
-title: Why does payment with registered bank slip require authentication?
+title: 'Why does payment with registered bank slip require authentication?'
 id: 5gpsx6cUXKGG4asA6aiCki
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:34.913Z

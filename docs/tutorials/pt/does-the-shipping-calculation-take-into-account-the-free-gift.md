@@ -1,5 +1,5 @@
 ---
-title: O cálculo do frete leva em consideração o brinde?
+title: 'O cálculo do frete leva em consideração o brinde?'
 id: frequentlyAskedQuestions_6579
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:02.736Z

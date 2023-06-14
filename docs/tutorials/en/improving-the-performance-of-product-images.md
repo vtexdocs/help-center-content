@@ -1,5 +1,5 @@
 ---
-title: Improving the performance of product images
+title: 'Improving the performance of product images'
 id: tutorials_4833
 status: PUBLISHED
 createdAt: 2017-04-27T21:50:00.291Z

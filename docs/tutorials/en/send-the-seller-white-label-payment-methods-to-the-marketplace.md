@@ -1,5 +1,5 @@
 ---
-title: Send the Seller White Label payment methods to the Marketplace
+title: 'Send the Seller White Label payment methods to the Marketplace'
 id: bfvtPzZyikacSqgkgeGW
 status: PUBLISHED
 createdAt: 2018-09-27T20:35:08.990Z

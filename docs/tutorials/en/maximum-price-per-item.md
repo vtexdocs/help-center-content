@@ -1,5 +1,5 @@
 ---
-title: Creating a Maximum price per item promotion
+title: 'Creating a Maximum price per item promotion'
 id: tutorials_3221
 status: DRAFT
 createdAt: 2017-04-27T21:52:05.359Z

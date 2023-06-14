@@ -1,5 +1,5 @@
 ---
-title: What is a List?
+title: 'What is a List?'
 id: 4b4NsVFwA8kwqS8S82w4Go
 status: PUBLISHED
 createdAt: 2018-01-25T21:44:19.327Z

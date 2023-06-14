@@ -1,5 +1,5 @@
 ---
-title: ¿Cuál es el periodo considerado para cómputo de la cobranza de mi tienda?
+title: '¿Cuál es el periodo considerado para cómputo de la cobranza de mi tienda?'
 id: 2vnhGtq7vKkqY6q2uqIQMO
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:47.622Z

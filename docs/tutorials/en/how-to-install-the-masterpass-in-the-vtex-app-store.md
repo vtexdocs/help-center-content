@@ -1,5 +1,5 @@
 ---
-title: How to install the Masterpass in the VTEX App Store
+title: 'How to install the Masterpass in the VTEX App Store'
 id: 65YWjWkNKoM6ysISCasiso
 status: DRAFT
 createdAt: 2017-06-28T03:24:28.333Z

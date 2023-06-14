@@ -1,5 +1,5 @@
 ---
-title: Remoção de produtos
+title: 'Remoção de produtos'
 id: 1keOadVJq0gmS0oaymaO8Y
 status: DRAFT
 createdAt: 2017-09-06T14:36:02.791Z

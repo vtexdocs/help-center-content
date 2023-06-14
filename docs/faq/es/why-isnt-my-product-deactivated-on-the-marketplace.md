@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué el producto no es inactivado en el marketplace?
+title: '¿Por qué el producto no es inactivado en el marketplace?'
 id: frequentlyAskedQuestions_687
 status: PUBLISHED
 createdAt: 2017-04-27T22:29:53.670Z

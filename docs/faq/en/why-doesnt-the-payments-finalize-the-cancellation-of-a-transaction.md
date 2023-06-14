@@ -1,5 +1,5 @@
 ---
-title: Why doesn’t Payments finalize the cancellation of a transaction?
+title: 'Why doesn’t Payments finalize the cancellation of a transaction?'
 id: 3IBqfy5IhOMkYKuKmu2wSs
 status: PUBLISHED
 createdAt: 2017-05-16T14:37:21.265Z

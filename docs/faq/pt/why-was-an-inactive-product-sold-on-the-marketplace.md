@@ -1,5 +1,5 @@
 ---
-title: Por que meu produto inativo foi vendido no marketplace?
+title: 'Por que meu produto inativo foi vendido no marketplace?'
 id: frequentlyAskedQuestions_1763
 status: PUBLISHED
 createdAt: 2017-04-27T22:26:50.444Z

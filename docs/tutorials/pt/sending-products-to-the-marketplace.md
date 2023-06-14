@@ -1,5 +1,5 @@
 ---
-title: Enviar produtos para o marketplace
+title: 'Enviar produtos para o marketplace'
 id: tutorials_388
 status: PUBLISHED
 createdAt: 2017-04-27T22:07:33.486Z

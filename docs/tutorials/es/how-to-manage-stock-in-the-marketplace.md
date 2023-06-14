@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo gestionar stock en el marketplace?
+title: '¿Cómo gestionar stock en el marketplace?'
 id: 0VCRHUbEF9orby4z3VWsC
 status: PUBLISHED
 createdAt: 2019-01-28T20:11:24.529Z

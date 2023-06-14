@@ -1,5 +1,5 @@
 ---
-title: Registrar marcas
+title: 'Registrar marcas'
 id: tutorials_2561
 status: DRAFT
 createdAt: 2017-04-27T21:54:06.169Z

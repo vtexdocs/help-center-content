@@ -1,5 +1,5 @@
 ---
-title: Activating the new VTEX CDN
+title: 'Activating the new VTEX CDN'
 id: 400JfRm4VGgsKgqgOw4WWA
 status: PUBLISHED
 createdAt: 2017-10-02T23:12:05.096Z

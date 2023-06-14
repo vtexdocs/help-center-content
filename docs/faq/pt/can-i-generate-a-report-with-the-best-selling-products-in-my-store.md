@@ -1,5 +1,5 @@
 ---
-title: Consigo gerar um relatório com os produtos mais vendidos na minha loja?
+title: 'Consigo gerar um relatório com os produtos mais vendidos na minha loja?'
 id: 1kAFHDatvOiwqEGGs2OYwK
 status: DRAFT
 createdAt: 2018-02-27T13:44:34.700Z

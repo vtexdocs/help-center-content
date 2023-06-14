@@ -1,5 +1,5 @@
 ---
-title: Inventario personalizado en el marketplace
+title: 'Inventario personalizado en el marketplace'
 id: 5dkNpIHB3aYCOEQuaII8gW
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:40.348Z

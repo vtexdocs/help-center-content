@@ -1,5 +1,5 @@
 ---
-title: Configurar el layout del site
+title: 'Configurar el layout del site'
 id: tutorials_2571
 status: DRAFT
 createdAt: 2017-04-27T21:53:36.966Z

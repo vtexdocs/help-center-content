@@ -1,5 +1,5 @@
 ---
-title: What offline payment conditions are available in Latin America?
+title: 'What offline payment conditions are available in Latin America?'
 id: 2lXPwiH6KcsSMuWaoigueq
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:37.602Z

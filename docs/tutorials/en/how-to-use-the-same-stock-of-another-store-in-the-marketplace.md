@@ -1,5 +1,5 @@
 ---
-title: Using the same inventory of another store in the marketplace
+title: 'Using the same inventory of another store in the marketplace'
 id: 5IFWC9JnQQoeMQ6wyGCacc
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:40.717Z

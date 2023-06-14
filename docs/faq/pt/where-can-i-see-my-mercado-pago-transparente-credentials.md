@@ -1,5 +1,5 @@
 ---
-title: Onde acessar minhas credenciais do Mercado Pago Transparente?
+title: 'Onde acessar minhas credenciais do Mercado Pago Transparente?'
 id: frequentlyAskedQuestions_4560
 status: DRAFT
 createdAt: 2017-04-27T22:24:11.922Z

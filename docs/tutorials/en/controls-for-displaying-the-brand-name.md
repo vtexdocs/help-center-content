@@ -1,5 +1,5 @@
 ---
-title: Controls for displaying the brand name
+title: 'Controls for displaying the brand name'
 id: 4WF5ZfVXcIkykGCICkeQYy
 status: PUBLISHED
 createdAt: 2018-02-26T13:36:50.601Z

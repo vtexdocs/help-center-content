@@ -1,5 +1,5 @@
 ---
-title: Mejorar la performance de imágenes de productos
+title: 'Mejorar la performance de imágenes de productos'
 id: tutorials_4833
 status: PUBLISHED
 createdAt: 2017-04-27T21:50:00.291Z

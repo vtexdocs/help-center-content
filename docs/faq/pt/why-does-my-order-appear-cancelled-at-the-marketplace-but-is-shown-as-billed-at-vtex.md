@@ -1,5 +1,5 @@
 ---
-title: Por que meu pedido aparece cancelado no marketplace mas está como faturado na VTEX?
+title: 'Por que meu pedido aparece cancelado no marketplace mas está como faturado na VTEX?'
 id: frequentlyAskedQuestions_6279
 status: PUBLISHED
 createdAt: 2017-04-27T22:22:27.939Z

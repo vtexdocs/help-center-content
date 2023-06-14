@@ -1,5 +1,5 @@
 ---
-title: Managing the kit stock
+title: 'Managing the kit stock'
 id: frequentlyAskedQuestions_156
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:51.252Z

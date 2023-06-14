@@ -1,5 +1,5 @@
 ---
-title: ¿Qué es una condición de pago sin conexión?
+title: '¿Qué es una condición de pago sin conexión?'
 id: 3WtA4nmQJWqAaCy0kYG6IG
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:37.593Z

@@ -1,5 +1,5 @@
 ---
-title: Crear promoción Precio máximo por artículo
+title: 'Crear promoción Precio máximo por artículo'
 id: tutorials_3221
 status: DRAFT
 createdAt: 2017-04-27T21:52:05.359Z

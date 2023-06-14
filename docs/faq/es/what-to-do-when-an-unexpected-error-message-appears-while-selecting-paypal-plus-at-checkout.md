@@ -1,5 +1,5 @@
 ---
-title: Qué hacer cuando aparece un mensaje de error inesperado al seleccionar PayPal Plus en el checkout
+title: 'Qué hacer cuando aparece un mensaje de error inesperado al seleccionar PayPal Plus en el checkout'
 id: 2eyMuEf6wsWuOgrjo7tzQH
 status: PUBLISHED
 createdAt: 2019-03-18T14:01:50.694Z

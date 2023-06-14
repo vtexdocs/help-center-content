@@ -1,5 +1,5 @@
 ---
-title: Checking the ownership of a VTEX store on Google Search Console
+title: 'Checking the ownership of a VTEX store on Google Search Console'
 id: frequentlyAskedQuestions_594
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:55.830Z

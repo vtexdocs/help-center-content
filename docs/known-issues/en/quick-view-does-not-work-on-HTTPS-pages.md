@@ -1,5 +1,5 @@
 ---
-title: Quick view does not work on HTTPS pages
+title: 'Quick view does not work on HTTPS pages'
 id: cXoMffma6AMOKgcimgmYO
 status: PUBLISHED
 createdAt: 2017-08-02T17:25:52.444Z

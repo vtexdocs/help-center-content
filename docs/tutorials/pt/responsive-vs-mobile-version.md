@@ -1,5 +1,5 @@
 ---
-title: Responsivo × Versão Mobile
+title: 'Responsivo × Versão Mobile'
 id: tutorials_576
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:54.196Z

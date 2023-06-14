@@ -1,5 +1,5 @@
 ---
-title: Utilizando hooks de entidades de datos
+title: 'Utilizando hooks de entidades de datos'
 id: 3yWxApA76MucioQsQ2eY8M
 status: DRAFT
 createdAt: 2017-12-04T18:56:47.005Z

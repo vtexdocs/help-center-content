@@ -1,5 +1,5 @@
 ---
-title: Difference between payment methods and payment conditions
+title: 'Difference between payment methods and payment conditions'
 id: 3azJenhGFyUy2gsocms42Q
 status: PUBLISHED
 createdAt: 2018-02-23T12:28:37.517Z

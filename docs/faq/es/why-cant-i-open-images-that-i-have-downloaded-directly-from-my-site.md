@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué no consigo abrir imágenes que descargué directamente de mi sitio?
+title: '¿Por qué no consigo abrir imágenes que descargué directamente de mi sitio?'
 id: 5ngrYfggZaWWimyA8OE0Uo
 status: PUBLISHED
 createdAt: 2017-08-17T21:13:03.926Z

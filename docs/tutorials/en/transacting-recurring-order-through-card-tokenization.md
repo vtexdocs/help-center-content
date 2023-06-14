@@ -1,5 +1,5 @@
 ---
-title: Transacting a recurring order through card tokenization
+title: 'Transacting a recurring order through card tokenization'
 id: ONKkNx2M8KQOcCYySOm6S
 status: DRAFT
 createdAt: 2017-10-29T16:22:10.308Z

@@ -1,5 +1,5 @@
 ---
-title: Produtos permanecem na coleção após sua remoção
+title: 'Produtos permanecem na coleção após sua remoção'
 id: hyuFn96MqOsyIoM6iUqWo
 status: PUBLISHED
 createdAt: 2017-06-16T20:47:54.231Z

@@ -1,5 +1,5 @@
 ---
-title: El método WebService de activar SKU no funciona cuando no hay precio en la política comercial principal
+title: 'El método WebService de activar SKU no funciona cuando no hay precio en la política comercial principal'
 id: 5a4XUoUvpm2KmWw66Um0mu
 status: PUBLISHED
 createdAt: 2017-07-09T22:52:26.629Z

@@ -1,5 +1,5 @@
 ---
-title: How the minimum availability rule works
+title: 'How the minimum availability rule works'
 id: tutorials_394
 status: PUBLISHED
 createdAt: 2017-04-27T22:07:07.997Z

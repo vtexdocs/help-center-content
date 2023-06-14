@@ -1,5 +1,5 @@
 ---
-title: Como funciona o desconto progressivo
+title: 'Como funciona o desconto progressivo'
 id: tutorials_324
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:26.447Z

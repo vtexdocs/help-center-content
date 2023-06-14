@@ -1,5 +1,5 @@
 ---
-title: How does the Search Context work?
+title: 'How does the Search Context work?'
 id: tutorials_543
 status: DRAFT
 createdAt: 2017-04-27T22:01:57.778Z

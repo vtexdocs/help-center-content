@@ -1,5 +1,5 @@
 ---
-title: Autorizar integração da Wish no painel da VTEX
+title: 'Autorizar integração da Wish no painel da VTEX'
 id: 2aF61hBlTKNXJlhN6aowbM
 status: PUBLISHED
 createdAt: 2019-11-18T13:39:18.957Z

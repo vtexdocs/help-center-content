@@ -1,5 +1,5 @@
 ---
-title: Por que a transportadora calculou frete para um peso menor do que o mínimo configurado?
+title: 'Por que a transportadora calculou frete para um peso menor do que o mínimo configurado?'
 id: frequentlyAskedQuestions_164
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:17.904Z

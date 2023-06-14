@@ -1,5 +1,5 @@
 ---
-title: SKU - Definición de concepto
+title: 'SKU - Definición de concepto'
 id: 3mJbIqMlz6oKDmyZ2bKJoA
 status: PUBLISHED
 createdAt: 2019-05-21T21:19:38.919Z

@@ -1,5 +1,5 @@
 ---
-title: Transacionar pedido recorrente sem CVV
+title: 'Transacionar pedido recorrente sem CVV'
 id: iYJ5L8LsiIu0oEkQeE4aC
 status: DRAFT
 createdAt: 2017-10-29T16:22:22.783Z

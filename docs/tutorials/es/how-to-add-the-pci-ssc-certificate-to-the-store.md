@@ -1,5 +1,5 @@
 ---
-title: Añadir el certificado PCI SSC a la tienda
+title: 'Añadir el certificado PCI SSC a la tienda'
 id: 1AcE6BLjTGYYgGUkQwgW6q
 status: DRAFT
 createdAt: 2017-08-21T22:52:13.177Z

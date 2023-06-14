@@ -1,5 +1,5 @@
 ---
-title: Criar feed de produto XML com HTTPS
+title: 'Criar feed de produto XML com HTTPS'
 id: 4iiyqi9V9YigaCs8MWEA2C
 status: DRAFT
 createdAt: 2017-06-20T16:08:41.297Z

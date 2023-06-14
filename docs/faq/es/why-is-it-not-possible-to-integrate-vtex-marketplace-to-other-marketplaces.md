@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué no puedo integrar un marketplace VTEX con otro marketplace?
+title: '¿Por qué no puedo integrar un marketplace VTEX con otro marketplace?'
 id: frequentlyAskedQuestions_4801
 status: PUBLISHED
 createdAt: 2017-04-27T22:23:24.680Z

@@ -1,5 +1,5 @@
 ---
-title: Why doesn't the product field appear as a filter?
+title: 'Why doesn't the product field appear as a filter?'
 id: frequentlyAskedQuestions_376
 status: PUBLISHED
 createdAt: 2017-04-27T22:36:38.251Z

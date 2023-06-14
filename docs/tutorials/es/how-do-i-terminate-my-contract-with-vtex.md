@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo puedo rescindir mi contrato con VTEX?
+title: '¿Cómo puedo rescindir mi contrato con VTEX?'
 id: HhPeg8EOismMSImoWwaI8
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:36.822Z

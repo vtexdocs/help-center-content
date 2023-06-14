@@ -1,5 +1,5 @@
 ---
-title: Benefits and taxes are not applied to services
+title: 'Benefits and taxes are not applied to services'
 id: 4u12zyfc387daNQamFohA2
 status: PUBLISHED
 createdAt: 2019-02-15T18:52:59.074Z

@@ -1,5 +1,5 @@
 ---
-title: How does payment gateway retry work?
+title: 'How does payment gateway retry work?'
 id: 2JaHsjQIs0ceks0e2Mkwgu
 status: PUBLISHED
 createdAt: 2019-01-24T21:38:42.128Z

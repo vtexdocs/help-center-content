@@ -1,5 +1,5 @@
 ---
-title: Al modificar la categoría de padre, la información de jerarquía no se actualiza
+title: 'Al modificar la categoría de padre, la información de jerarquía no se actualiza'
 id: 2quVeZkZHqi4mOQecgugaA
 status: DRAFT
 createdAt: 2018-02-15T22:45:32.060Z

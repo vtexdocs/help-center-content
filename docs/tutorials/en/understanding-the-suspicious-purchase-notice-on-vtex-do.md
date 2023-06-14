@@ -1,5 +1,5 @@
 ---
-title: How the suspicious purchase notice on VTEX DO works
+title: 'How the suspicious purchase notice on VTEX DO works'
 id: tutorials_7102
 status: DRAFT
 createdAt: 2017-04-27T21:48:17.808Z

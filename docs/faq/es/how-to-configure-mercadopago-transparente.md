@@ -1,5 +1,5 @@
 ---
-title: Configurar Mercado Pago Transparente
+title: 'Configurar Mercado Pago Transparente'
 id: frequentlyAskedQuestions_487
 status: DRAFT
 createdAt: 2017-04-27T22:35:31.234Z

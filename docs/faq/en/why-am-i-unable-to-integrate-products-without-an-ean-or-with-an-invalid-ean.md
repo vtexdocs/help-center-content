@@ -1,5 +1,5 @@
 ---
-title: Why am I unable to integrate products without an EAN or with an invalid EAN?
+title: 'Why am I unable to integrate products without an EAN or with an invalid EAN?'
 id: frequentlyAskedQuestions_704
 status: PUBLISHED
 createdAt: 2017-04-27T22:28:57.378Z

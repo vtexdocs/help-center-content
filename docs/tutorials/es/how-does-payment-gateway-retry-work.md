@@ -1,5 +1,5 @@
 ---
-title: ¿Cómo funciona el reintento del gateway de pagos?
+title: '¿Cómo funciona el reintento del gateway de pagos?'
 id: 2JaHsjQIs0ceks0e2Mkwgu
 status: PUBLISHED
 createdAt: 2019-01-24T21:38:42.128Z

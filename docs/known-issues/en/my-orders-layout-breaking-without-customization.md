@@ -1,5 +1,5 @@
 ---
-title: My Orders layout breaking without customization
+title: 'My Orders layout breaking without customization'
 id: 6o2E1VOSaW2Yso0Cg0uU8Q
 status: PUBLISHED
 createdAt: 2017-05-26T15:03:53.391Z

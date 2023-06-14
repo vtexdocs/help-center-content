@@ -1,5 +1,5 @@
 ---
-title: I can not edit SKUs. What to do?
+title: 'I can not edit SKUs. What to do?'
 id: kcHp9ealgWmmyuMCso2uc
 status: PUBLISHED
 createdAt: 2018-01-22T16:31:52.753Z

@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué he registrado categoría similar y los productos no son exhibidos?
+title: '¿Por qué he registrado categoría similar y los productos no son exhibidos?'
 id: frequentlyAskedQuestions_374
 status: PUBLISHED
 createdAt: 2017-04-27T22:36:46.454Z

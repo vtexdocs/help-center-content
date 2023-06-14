@@ -1,5 +1,5 @@
 ---
-title: Información de los pagos personalizados de Colombia
+title: 'Información de los pagos personalizados de Colombia'
 id: 3tcvqc6LBSKOqMWCumwyaq
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:36.914Z

@@ -1,5 +1,5 @@
 ---
-title: How to customize a page using placeholders
+title: 'How to customize a page using placeholders'
 id: tutorials_544
 status: PUBLISHED
 createdAt: 2017-04-27T22:01:48.368Z

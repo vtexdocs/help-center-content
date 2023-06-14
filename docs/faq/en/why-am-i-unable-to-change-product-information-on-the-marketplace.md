@@ -1,5 +1,5 @@
 ---
-title: Why am I unable to change product information on the marketplace?
+title: 'Why am I unable to change product information on the marketplace?'
 id: frequentlyAskedQuestions_698
 status: PUBLISHED
 createdAt: 2017-04-27T22:29:20.701Z

@@ -1,5 +1,5 @@
 ---
-title: Boleto Bancario Registrado - Flujo básico de pago
+title: 'Boleto Bancario Registrado - Flujo básico de pago'
 id: 1WlPkeueWQiykUwW8mcM4S
 status: PUBLISHED
 createdAt: 2019-01-24T21:38:41.612Z

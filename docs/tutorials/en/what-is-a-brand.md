@@ -1,5 +1,5 @@
 ---
-title: What is a Brand?
+title: 'What is a Brand?'
 id: QU07yhHoaWcEYseEucOQW
 status: PUBLISHED
 createdAt: 2018-01-25T21:48:56.054Z

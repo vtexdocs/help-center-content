@@ -1,5 +1,5 @@
 ---
-title: What is trade policy
+title: 'What is trade policy'
 id: 2UI1Ww7nJm2UgoAQag6O8c
 status: DRAFT
 createdAt: 2017-08-18T13:49:57.300Z

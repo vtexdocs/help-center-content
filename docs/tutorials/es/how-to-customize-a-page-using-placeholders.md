@@ -1,5 +1,5 @@
 ---
-title: Personalizar una página usando placeholder
+title: 'Personalizar una página usando placeholder'
 id: tutorials_544
 status: PUBLISHED
 createdAt: 2017-04-27T22:01:48.368Z

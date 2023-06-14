@@ -1,5 +1,5 @@
 ---
-title: ¿Qué hacer cuando hay problemas con una transacción?
+title: '¿Qué hacer cuando hay problemas con una transacción?'
 id: 3d183R70xqAYoyyqwaAmGa
 status: PUBLISHED
 createdAt: 2017-05-09T13:38:39.142Z

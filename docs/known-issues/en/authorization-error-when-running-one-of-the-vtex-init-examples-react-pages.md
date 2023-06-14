@@ -1,5 +1,5 @@
 ---
-title: Authorization error when running one of the vtex init examples (React, Pages, GraphQL, Node)
+title: 'Authorization error when running one of the vtex init examples (React, Pages, GraphQL, Node)'
 id: 7JrIaSFSiQWCqmWiEOmOoy
 status: DRAFT
 createdAt: 2019-01-09T12:38:43.670Z

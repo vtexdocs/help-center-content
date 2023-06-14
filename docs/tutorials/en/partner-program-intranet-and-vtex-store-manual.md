@@ -1,5 +1,5 @@
 ---
-title: Partner Program - Intranet and VTEX Store Manual
+title: 'Partner Program - Intranet and VTEX Store Manual'
 id: 2eIsV6mIysMcwaAYikUgK0
 status: PUBLISHED
 createdAt: 2017-07-05T19:07:58.480Z

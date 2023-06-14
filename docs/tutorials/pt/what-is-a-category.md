@@ -1,5 +1,5 @@
 ---
-title: O que é uma Categoria?
+title: 'O que é uma Categoria?'
 id: 6HV4Q3E2FauUoOQoiCCgCg
 status: PUBLISHED
 createdAt: 2018-01-25T21:32:32.038Z

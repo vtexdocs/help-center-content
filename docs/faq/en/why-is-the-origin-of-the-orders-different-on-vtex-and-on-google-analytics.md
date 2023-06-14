@@ -1,5 +1,5 @@
 ---
-title: Why is the origin of the orders different on VTEX and on Google Analytics?
+title: 'Why is the origin of the orders different on VTEX and on Google Analytics?'
 id: frequentlyAskedQuestions_5030
 status: PUBLISHED
 createdAt: 2017-04-27T22:22:57.838Z

@@ -1,5 +1,5 @@
 ---
-title: Configuring MercadoPago Transparente
+title: 'Configuring MercadoPago Transparente'
 id: frequentlyAskedQuestions_487
 status: DRAFT
 createdAt: 2017-04-27T22:35:31.234Z

@@ -1,5 +1,5 @@
 ---
-title: Que condições de pagamento offline estão disponíveis na América Latina?
+title: 'Que condições de pagamento offline estão disponíveis na América Latina?'
 id: 2lXPwiH6KcsSMuWaoigueq
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:37.602Z

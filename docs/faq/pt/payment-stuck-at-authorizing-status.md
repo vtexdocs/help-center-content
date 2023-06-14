@@ -1,5 +1,5 @@
 ---
-title: Por que um pagamento está parado no status Authorizing?
+title: 'Por que um pagamento está parado no status Authorizing?'
 id: 3hMw16ZijKm6QmSSY0KOGk
 status: PUBLISHED
 createdAt: 2019-01-24T20:30:45.163Z

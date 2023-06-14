@@ -1,5 +1,5 @@
 ---
-title: What to configure in Wish prior to the integration
+title: 'What to configure in Wish prior to the integration'
 id: 4mIn8NE9McE9BxKsAf9IcB
 status: PUBLISHED
 createdAt: 2019-11-13T16:43:49.316Z

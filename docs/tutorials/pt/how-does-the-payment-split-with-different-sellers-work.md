@@ -1,5 +1,5 @@
 ---
-title: Como funciona split de pagamento com sellers diferentes?
+title: 'Como funciona split de pagamento com sellers diferentes?'
 id: frequentlyAskedQuestions_674
 status: DRAFT
 createdAt: 2019-01-24T20:45:57.485Z

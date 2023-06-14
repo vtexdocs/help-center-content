@@ -1,5 +1,5 @@
 ---
-title: Por que pedidos não foram associados a uma lista?
+title: 'Por que pedidos não foram associados a uma lista?'
 id: 1Ksug2wESM5kpANvTdjJNe
 status: PUBLISHED
 createdAt: 2019-01-29T18:03:47.228Z

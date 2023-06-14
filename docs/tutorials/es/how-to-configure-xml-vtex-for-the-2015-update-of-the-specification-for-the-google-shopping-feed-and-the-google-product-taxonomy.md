@@ -1,5 +1,5 @@
 ---
-title: Cómo configurar el XML VTEX para la Actualización de 2015 de la Especificación del feed del Google Shopping y de la Taxonomia del producto de Google
+title: 'Cómo configurar el XML VTEX para la Actualización de 2015 de la Especificación del feed del Google Shopping y de la Taxonomia del producto de Google'
 id: tutorials_541
 status: DRAFT
 createdAt: 2017-04-27T22:02:13.320Z

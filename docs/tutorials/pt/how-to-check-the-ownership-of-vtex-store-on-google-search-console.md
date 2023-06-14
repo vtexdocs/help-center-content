@@ -1,5 +1,5 @@
 ---
-title: Verificar propriedade no Google Search Console de loja VTEX
+title: 'Verificar propriedade no Google Search Console de loja VTEX'
 id: frequentlyAskedQuestions_594
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:55.830Z

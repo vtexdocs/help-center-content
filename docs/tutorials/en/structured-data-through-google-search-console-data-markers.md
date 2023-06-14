@@ -1,5 +1,5 @@
 ---
-title: Structured data through Google Search Console Data Markers
+title: 'Structured data through Google Search Console Data Markers'
 id: tutorials_560
 status: PUBLISHED
 createdAt: 2017-04-27T22:00:54.606Z

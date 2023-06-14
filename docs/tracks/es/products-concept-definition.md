@@ -1,5 +1,5 @@
 ---
-title: Productos - Definición de concepto
+title: 'Productos - Definición de concepto'
 id: 1wmX3QvQVxbKVmalhIE5Ru
 status: PUBLISHED
 createdAt: 2019-05-21T19:09:20.068Z

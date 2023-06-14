@@ -1,5 +1,5 @@
 ---
-title: "Invalid header signature" error when trying to import freight spreadsheet
+title: '"Invalid header signature" error when trying to import freight spreadsheet'
 id: qruKcwf7zwwOcGWA6mkgK
 status: PUBLISHED
 createdAt: 2018-10-02T16:01:21.654Z

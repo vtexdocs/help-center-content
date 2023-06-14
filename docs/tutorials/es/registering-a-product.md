@@ -1,5 +1,5 @@
 ---
-title: Registrar un producto
+title: 'Registrar un producto'
 id: tutorials_250
 status: DRAFT
 createdAt: 2017-04-27T22:12:08.082Z

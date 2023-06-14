@@ -1,5 +1,5 @@
 ---
-title: What is a payment gateway?
+title: 'What is a payment gateway?'
 id: 2KH9Wdi7F6swOU4amECSOk
 status: PUBLISHED
 createdAt: 2018-02-19T20:39:46.326Z

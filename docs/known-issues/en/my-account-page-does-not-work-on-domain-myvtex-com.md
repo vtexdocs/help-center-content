@@ -1,5 +1,5 @@
 ---
-title: "My Account" page does not work on domain "myvtex.com"
+title: '"My Account" page does not work on domain "myvtex.com"'
 id: 1EW2Fuwbt3vO9uF8b9zRz4
 status: PUBLISHED
 createdAt: 2019-03-19T13:18:13.540Z

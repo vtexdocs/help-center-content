@@ -1,5 +1,5 @@
 ---
-title: O que é um Departamento?
+title: 'O que é um Departamento?'
 id: 22rKjmYWVmmKAK8CWa8yKw
 status: PUBLISHED
 createdAt: 2018-01-25T21:25:55.009Z

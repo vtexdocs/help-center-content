@@ -1,5 +1,5 @@
 ---
-title: Why was my ad on Mercado Livre paused?
+title: 'Why was my ad on Mercado Livre paused?'
 id: 22SAekXkFKSI8TZFlRuutR
 status: PUBLISHED
 createdAt: 2019-02-25T16:23:15.196Z

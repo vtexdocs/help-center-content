@@ -1,5 +1,5 @@
 ---
-title: Marketplace VTEX não considera o preço mais barato quando o próprio marketplace também vende o produto
+title: 'Marketplace VTEX não considera o preço mais barato quando o próprio marketplace também vende o produto'
 id: 2rS3ArRydyM2ee68eIcWK4
 status: DRAFT
 createdAt: 2017-06-21T18:35:04.469Z

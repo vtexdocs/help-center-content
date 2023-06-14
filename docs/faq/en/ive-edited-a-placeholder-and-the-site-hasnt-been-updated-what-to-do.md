@@ -1,5 +1,5 @@
 ---
-title: I've edited a placeholder and the site hasn't been updated. What to do?
+title: 'I've edited a placeholder and the site hasn't been updated. What to do?'
 id: 3aYplfjwuQumeiEe20UUaO
 status: PUBLISHED
 createdAt: 2018-01-22T22:00:31.331Z

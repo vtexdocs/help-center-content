@@ -1,5 +1,5 @@
 ---
-title: VTEX Network
+title: 'VTEX Network'
 id: tutorials_5144
 status: PUBLISHED
 createdAt: 2017-04-27T21:49:16.911Z

@@ -1,5 +1,5 @@
 ---
-title: Como é apurado o SLA de operação da plataforma?
+title: 'Como é apurado o SLA de operação da plataforma?'
 id: frequentlyAskedQuestions_662
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:57.436Z

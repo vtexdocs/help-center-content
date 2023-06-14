@@ -1,5 +1,5 @@
 ---
-title: Why does the gift appear as unavailable?
+title: 'Why does the gift appear as unavailable?'
 id: 3DPIETP2FGSCkCmscCqGMK
 status: PUBLISHED
 createdAt: 2017-11-06T12:27:28.709Z

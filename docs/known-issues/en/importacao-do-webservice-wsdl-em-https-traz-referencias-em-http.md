@@ -1,5 +1,5 @@
 ---
-title: Webservice import (WSDL) in HTTPS brings references in HTTP
+title: 'Webservice import (WSDL) in HTTPS brings references in HTTP'
 id: 4dnbERTOWkWAkkmSg4i0w8
 status: PUBLISHED
 createdAt: 2018-08-06T15:10:50.988Z

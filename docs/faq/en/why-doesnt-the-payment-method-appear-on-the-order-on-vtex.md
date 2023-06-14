@@ -1,5 +1,5 @@
 ---
-title: Why doesn’t the payment method appear on the order on VTEX?
+title: 'Why doesn’t the payment method appear on the order on VTEX?'
 id: frequentlyAskedQuestions_695
 status: PUBLISHED
 createdAt: 2017-04-27T22:29:28.700Z

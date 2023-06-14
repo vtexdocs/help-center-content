@@ -1,5 +1,5 @@
 ---
-title: Why wasn’t the price sent to the marketplace?
+title: 'Why wasn’t the price sent to the marketplace?'
 id: frequentlyAskedQuestions_723
 status: PUBLISHED
 createdAt: 2017-04-27T22:28:00.522Z

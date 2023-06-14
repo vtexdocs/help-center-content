@@ -1,5 +1,5 @@
 ---
-title: Como funciona a retentativa do gateway de pagamentos?
+title: 'Como funciona a retentativa do gateway de pagamentos?'
 id: 2JaHsjQIs0ceks0e2Mkwgu
 status: PUBLISHED
 createdAt: 2019-01-24T21:38:42.128Z

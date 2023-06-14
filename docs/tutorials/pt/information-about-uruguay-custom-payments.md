@@ -1,5 +1,5 @@
 ---
-title: Informações dos pagamentos customizados do Uruguai
+title: 'Informações dos pagamentos customizados do Uruguai'
 id: 4cXMr3C5rqIkUkMWgCcWeU
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:36.816Z

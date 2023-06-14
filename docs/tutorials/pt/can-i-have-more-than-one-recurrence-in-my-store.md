@@ -1,5 +1,5 @@
 ---
-title: Posso ter mais de uma recorrência na minha loja?
+title: 'Posso ter mais de uma recorrência na minha loja?'
 id: frequentlyAskedQuestions_4688
 status: DRAFT
 createdAt: 2019-01-24T20:46:01.219Z

@@ -1,5 +1,5 @@
 ---
-title: Why is the product name duplicated?
+title: 'Why is the product name duplicated?'
 id: frequentlyAskedQuestions_380
 status: PUBLISHED
 createdAt: 2017-04-27T22:36:22.480Z

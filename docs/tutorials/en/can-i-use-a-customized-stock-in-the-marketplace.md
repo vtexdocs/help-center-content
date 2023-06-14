@@ -1,5 +1,5 @@
 ---
-title: Customized inventory in the marketplace
+title: 'Customized inventory in the marketplace'
 id: 5dkNpIHB3aYCOEQuaII8gW
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:40.348Z

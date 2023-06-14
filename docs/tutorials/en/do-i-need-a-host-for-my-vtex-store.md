@@ -1,5 +1,5 @@
 ---
-title: Do I need a host for my VTEX store?
+title: 'Do I need a host for my VTEX store?'
 id: frequentlyAskedQuestions_7138
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:33.482Z

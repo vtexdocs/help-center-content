@@ -1,5 +1,5 @@
 ---
-title: Corregir error de redireccionamiento en PagSeguro
+title: 'Corregir error de redireccionamiento en PagSeguro'
 id: 5b1lVDQ9HUKQs4Wy24uWq2
 status: PUBLISHED
 createdAt: 2018-02-15T16:07:47.669Z

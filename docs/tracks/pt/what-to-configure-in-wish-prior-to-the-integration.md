@@ -1,5 +1,5 @@
 ---
-title:  O que configurar na Wish antes de iniciar a integração
+title: ' O que configurar na Wish antes de iniciar a integração'
 id: 4mIn8NE9McE9BxKsAf9IcB
 status: PUBLISHED
 createdAt: 2019-11-13T16:43:49.316Z

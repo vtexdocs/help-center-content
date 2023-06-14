@@ -1,5 +1,5 @@
 ---
-title: ¿Por qué recibo un error al acceder a la tienda después de configurar el DNS?
+title: '¿Por qué recibo un error al acceder a la tienda después de configurar el DNS?'
 id: frequentlyAskedQuestions_2248
 status: PUBLISHED
 createdAt: 2017-04-27T22:25:29.934Z

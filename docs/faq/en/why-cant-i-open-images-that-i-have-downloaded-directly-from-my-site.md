@@ -1,5 +1,5 @@
 ---
-title: Why can’t I open images that I have downloaded directly from my site?
+title: 'Why can’t I open images that I have downloaded directly from my site?'
 id: 5ngrYfggZaWWimyA8OE0Uo
 status: PUBLISHED
 createdAt: 2017-08-17T21:13:03.926Z

@@ -1,5 +1,5 @@
 ---
-title: What is a credit card brand?
+title: 'What is a credit card brand?'
 id: 4bNba5QYuIwKEmac88KwyI
 status: PUBLISHED
 createdAt: 2018-02-21T12:37:52.121Z

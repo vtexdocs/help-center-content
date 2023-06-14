@@ -1,5 +1,5 @@
 ---
-title: Why was the item splitted in the cart?
+title: 'Why was the item splitted in the cart?'
 id: frequentlyAskedQuestions_350
 status: PUBLISHED
 createdAt: 2017-04-27T22:37:20.610Z

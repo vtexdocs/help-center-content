@@ -1,5 +1,5 @@
 ---
-title: Link do Tx Id no Gerenciamento de pedidos não redireciona para o módulo de Pagamentos em pedidos de marketplaceLink do Tx Id no Gerenciamento de pedidos não redireciona para o módulo de Pagamentos em pedidos de marketplace
+title: 'Link do Tx Id no Gerenciamento de pedidos não redireciona para o módulo de Pagamentos em pedidos de marketplaceLink do Tx Id no Gerenciamento de pedidos não redireciona para o módulo de Pagamentos em pedidos de marketplace'
 id: 6dgOOZv9qoaC4u8eSUecmQ
 status: DRAFT
 createdAt: 2018-03-09T16:25:32.034Z
