@@ -56,7 +56,7 @@ To create a rule, follow the steps below:
    * The system automatically configures a rule with a percentage of divergence between 0% and 30%, corresponding to the light blue bar.
 6. hoose one of the following options for the authorization rule: `Automatically authorize`, `Automatically deny`, or `Create a VTEX DO task to approve`.
 7. To increase or decrease the divergence percentage, click on the bar and drag its extremities considering the symbols "<" (less than) and ">" (greater than).
-8. To create the second rule, click on the icon <img class="shadow-4" src="https:////images.ctfassets.net/alneenqid6w5/7E2BhdEapQ5Lmm4fLRKxpp/2770eaaa5af9653a71416c2f9677eb37/__cone_regras.JPG" /> and repeat steps 6 and 7.
+8. To create the second rule, click on the icon <img class="shadow-4" src="https://https://images.ctfassets.net/alneenqid6w5/7E2BhdEapQ5Lmm4fLRKxpp/2770eaaa5af9653a71416c2f9677eb37/__cone_regras.JPG" /> and repeat steps 6 and 7.
 9. Click on `Save rules`.
 
 During the process of creating rules, you will see the following tabs:

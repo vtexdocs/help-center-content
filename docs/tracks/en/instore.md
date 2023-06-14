@@ -23,7 +23,7 @@ The first contact between the the physical store salesperson and inStore happens
 
 Here, the e-mail and password created for the salesperson in the [Basic Setup](https://help.vtex.com/en/tracks/instore-setting-up--zav76TFEZlAjnyBVL5tRc) must be used. Remember that you cannot use emails that already have access to the administrative panel of VTEX stores.
 
-![31. inStore - Product Overview - 1 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/35HU0Wz5eJp53X7JSebBgx/608f3fa8cef774bee9106a997de71567/31._inStore_-_Product_Overview_-_1_-_EN.png_h_250)
+![31. inStore - Product Overview - 1 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/35HU0Wz5eJp53X7JSebBgx/608f3fa8cef774bee9106a997de71567/31._inStore_-_Product_Overview_-_1_-_EN.png_h_250)
 
 Upon logging in, the salesperson accesses the inStore application specific to a VTEX account. Although it is not a common scenario, the same salesperson may be linked to more than one account. If you need to switch accounts, just log out and, on the login screen, click on __Change Store__.
 
@@ -45,7 +45,7 @@ You can [configure which identification methods you want to enable](https://help
 
 In the example image below, E-mail and CPF are enabled.
 
-![31. inStore - Product Overview - 2 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/2YKc9S2FehS7eA2zTskL33/f15d5d5556b31f7ce78eb3d77994c722/31._inStore_-_Product_Overview_-_2_-_EN.png_h_250)
+![31. inStore - Product Overview - 2 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/2YKc9S2FehS7eA2zTskL33/f15d5d5556b31f7ce78eb3d77994c722/31._inStore_-_Product_Overview_-_2_-_EN.png_h_250)
 
 Just enter one of these data in the field and click on the __Confirm__ button.
 
@@ -59,11 +59,11 @@ Although it is possible to cater customers without identifying them, we always r
 
 The top bar of the inStore app offers some options frequently used by the salesperson. One of them is the SKU search, available in the upper right corner.
 
-![31. inStore - Product Overview - 3 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/5zBP54Dt2s7P6514vC1K8z/f0680a6383e525a329089eb247501d4d/31._inStore_-_Product_Overview_-_3_-_EN.png_h_250)
+![31. inStore - Product Overview - 3 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/5zBP54Dt2s7P6514vC1K8z/f0680a6383e525a329089eb247501d4d/31._inStore_-_Product_Overview_-_3_-_EN.png_h_250)
 
 In inStore the search is omnichannel. That is, when doing a search in the app, the salesperson is searching both in the local inventory (of the physical store itself) and in the catalog of other physical stores and the e-commerce.
 
-![31. inStore - Product Overview - 4 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/5jBZMQOVW1n0ObtiwMYDtV/37bc53a81fea4d2db3cc61e5ccc0dd51/31._inStore_-_Product_Overview_-_4_-_EN.png_h_250)
+![31. inStore - Product Overview - 4 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/5jBZMQOVW1n0ObtiwMYDtV/37bc53a81fea4d2db3cc61e5ccc0dd51/31._inStore_-_Product_Overview_-_4_-_EN.png_h_250)
 
 The delivery and pickup availability options will be shown later, in the delivery stage.
 
@@ -71,11 +71,11 @@ The delivery and pickup availability options will be shown later, in the deliver
 
 After identifying the customer, the salesperson is taken directly to the cart. There, if you are using the desktop version of inStore, connected to a barcode reader, simply beep the products and they will appear in the cart.
 
-![31. inStore - Product Overview - 5 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/5QbuILII93SyE4j7ovXed5/0390993518b96fb07f68c19345470413/31._inStore_-_Product_Overview_-_5_-_EN.png_h_250)
+![31. inStore - Product Overview - 5 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/5QbuILII93SyE4j7ovXed5/0390993518b96fb07f68c19345470413/31._inStore_-_Product_Overview_-_5_-_EN.png_h_250)
 
 If the salesperson is using a tablet or smartphone, they will see a barcode reading button on the top bar of the application.
 
-![31. inStore - Product Overview - 6 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/4yAzpm3JHk9Ksjku7FbVcO/b1b41cfb9a3cfb9266383011e793c175/31._inStore_-_Product_Overview_-_6_-_EN.png_h_250)
+![31. inStore - Product Overview - 6 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/4yAzpm3JHk9Ksjku7FbVcO/b1b41cfb9a3cfb9266383011e793c175/31._inStore_-_Product_Overview_-_6_-_EN.png_h_250)
 
 When clicking on it, the salesperson can use the camera to beep a product and, with that, be automatically taken to the details screen of that product.
 
@@ -118,7 +118,7 @@ Remember that all this information refers not only to the customer's experience 
 
 When clicking on the details of a product that appears in the inStore search results, or when beeping a product, the salesperson is directed to the product details screen.
 
-![31. inStore - Product Overview - 7 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/fSLOfLn7bnpFyAfujZ8GN/52e0133e7222676d105e4444ce83ea96/31._inStore_-_Product_Overview_-_7_-_EN.png_h_250)
+![31. inStore - Product Overview - 7 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/fSLOfLn7bnpFyAfujZ8GN/52e0133e7222676d105e4444ce83ea96/31._inStore_-_Product_Overview_-_7_-_EN.png_h_250)
 
 This screen shows the name of the product, its photo gallery, variations, description and availability. On this screen, the salesperson can add the product to the cart.
 
@@ -136,7 +136,7 @@ InStore let's you [enable a cart transfer functionality](https://help.vtex.com/e
 
 Once in an order cart, the salesperson has access to the __Transfer__ button. When clicking this button, the app shows a QR Code and a four-digit numeric code.
 
-![31. inStore - Product Overview - 8 - EN.png?h=250](//images.ctfassets.net/alneenqid6w5/4DIaRH9gE7NVSsFMQINg4x/2531727e3528f275e02919c9939c5c09/31._inStore_-_Product_Overview_-_8_-_EN.png_h_250)
+![31. inStore - Product Overview - 8 - EN.png?h=250](https://images.ctfassets.net/alneenqid6w5/4DIaRH9gE7NVSsFMQINg4x/2531727e3528f275e02919c9939c5c09/31._inStore_-_Product_Overview_-_8_-_EN.png_h_250)
 
 Another salesperson logged into the same store can then capture that cart and continue selling from their device.
 
@@ -155,21 +155,21 @@ The next screen shows the delivery options. As inStore deals with the catalog of
 
 The example below shows two options: receive all items at home or pick up at another physical store within 5 working days.
 
-![31. inStore - Product Overview - 10](//images.ctfassets.net/alneenqid6w5/621Dlpel880kPOoL8Ur6id/476f54c1dba26c76fc90a691f33baa0c/31._inStore_-_Product_Overview_-_10.png)
+![31. inStore - Product Overview - 10](https://images.ctfassets.net/alneenqid6w5/621Dlpel880kPOoL8Ur6id/476f54c1dba26c76fc90a691f33baa0c/31._inStore_-_Product_Overview_-_10.png)
 
 ### Pick-up Points
 
 For pick-up point options, the system selects the stores that have the SKUs in stock and shows the store closest to the customer's zip code, as a suggestion. If the salesperson wants to change the store where the customer will pick up the items, they just need to click the __Change pick-up point__ button.
 
-![31. inStore - Product Overview - 11](//images.ctfassets.net/alneenqid6w5/2lmJceEfryZV6OBtgGc3Tq/167a7c3f169dab3ffbf49c30d670702e/31._inStore_-_Product_Overview_-_11.png)
+![31. inStore - Product Overview - 11](https://images.ctfassets.net/alneenqid6w5/2lmJceEfryZV6OBtgGc3Tq/167a7c3f169dab3ffbf49c30d670702e/31._inStore_-_Product_Overview_-_11.png)
 
 When choosing to change the pick-up point, the salesperson first has access to the pick-up point suggested by the system. To see all available pick-up points, click __View all pick-up points__.
 
-![31. inStore - Product Overview - 12](//images.ctfassets.net/alneenqid6w5/1ZUGWgHe2jI2ROLpIZ1HnN/e6a59ee600f6ae05a2d3e2a27cc8501e/31._inStore_-_Product_Overview_-_12.png)
+![31. inStore - Product Overview - 12](https://images.ctfassets.net/alneenqid6w5/1ZUGWgHe2jI2ROLpIZ1HnN/e6a59ee600f6ae05a2d3e2a27cc8501e/31._inStore_-_Product_Overview_-_12.png)
 
 The app will then show the list of pick-up points ordered by the shortest distance from the customer's zip code. It's also possible to choose a pick-up point on the map.
 
-![31. inStore - Product Overview - 13](//images.ctfassets.net/alneenqid6w5/uT46sKKgmyT4Lmh8usLO3/3aa559f183e4d5dda3254844aac2fd19/31._inStore_-_Product_Overview_-_13.png)
+![31. inStore - Product Overview - 13](https://images.ctfassets.net/alneenqid6w5/uT46sKKgmyT4Lmh8usLO3/3aa559f183e4d5dda3254844aac2fd19/31._inStore_-_Product_Overview_-_13.png)
 
 ## 12. Payment
 
@@ -177,17 +177,17 @@ In the payment step, the salesperson will see the [payment options that have bee
 
 An important feature allowed by inStore is multiple payments. For example, by choosing Cash and then clicking __Add another payment__, the salesperson can charge part of the amount in cash and part on credit or debit card.
 
-![31. inStore - Product Overview - 14](//images.ctfassets.net/alneenqid6w5/1Kka7eQvf03YXWR5DA2NEJ/6701ce986792dce02f88bfc4a18c0d9d/31._inStore_-_Product_Overview_-_14.png)
+![31. inStore - Product Overview - 14](https://images.ctfassets.net/alneenqid6w5/1Kka7eQvf03YXWR5DA2NEJ/6701ce986792dce02f88bfc4a18c0d9d/31._inStore_-_Product_Overview_-_14.png)
 
 The top bar of the payment screen allows you to add a coupon and a gift card. It also allows changing the customer ID number that will appear on the invoice.
 
-![31. inStore - Product Overview - 15](//images.ctfassets.net/alneenqid6w5/3CymGlJlWQ9I9w5tiheXQk/577fb68901d2e0a8b17ae11fb55ed98f/31._inStore_-_Product_Overview_-_15.png)
+![31. inStore - Product Overview - 15](https://images.ctfassets.net/alneenqid6w5/3CymGlJlWQ9I9w5tiheXQk/577fb68901d2e0a8b17ae11fb55ed98f/31._inStore_-_Product_Overview_-_15.png)
 
 ## 13. Order placed
 
 The salesperson can see this same screen by clicking on __Completed Orders__ in inStore's main menu or searching for the order by order number or customer.
 
-![31. inStore - Product Overview - 16](//images.ctfassets.net/alneenqid6w5/1WzildtkElOIkalZuY3hkI/3bda7ef00a309b1e57081ad805adb889/31._inStore_-_Product_Overview_-_16.png)
+![31. inStore - Product Overview - 16](https://images.ctfassets.net/alneenqid6w5/1WzildtkElOIkalZuY3hkI/3bda7ef00a309b1e57081ad805adb889/31._inStore_-_Product_Overview_-_16.png)
 
 ## 14. NFC-e printing
 

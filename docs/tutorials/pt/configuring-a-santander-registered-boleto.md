@@ -61,7 +61,7 @@ Após o recebimento do seu certificado digital, o Santander iniciará a próxima
 Para fazer a configuração na VTEX, tenha em mãos os dados fornecidos pelo banco na contratação do serviço, seu certificado digital no formato PFX e a senha do certificado e siga as instruções abaixo:
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Acesse a aba **Afiliações de Gateways** e clique no ícone <img src="https://images.ctfassets.net/alneenqid6w5/4oUB04BWtdR3i6mYdYISFX/a47b099664e386416b0962c13ee00ddc/image1.png" alt="Botão verde de afiliação" style="width: 23px;" /> e escolha o conector __Boleto Santander__.
+2. Acesse a aba **Afiliações de Gateways** e clique no ícone <img src="https:https://images.ctfassets.net/alneenqid6w5/4oUB04BWtdR3i6mYdYISFX/a47b099664e386416b0962c13ee00ddc/image1.png" alt="Botão verde de afiliação" style="width: 23px;" /> e escolha o conector __Boleto Santander__.
 3. Escolha o __Nome da afiliação__ que preferir e selecione o modo de __Teste__.
 4. Preencha as configurações da tabela abaixo com os dados da sua empresa, as configurações do boleto, os dados fornecidos pelo Santander e seu certificado digital. Não se esqueça de __Salvar__ ao concluir o preenchimento.
 

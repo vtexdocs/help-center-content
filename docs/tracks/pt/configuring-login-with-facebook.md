@@ -27,7 +27,7 @@ Após a configuração no Facebook, é preciso configurar essa opção de login 
 1.  No módulo de **Configurações da Conta**, acesse a aba de **Autenticação**.
 2.  Clique no botão **Editar** correspondente ao Facebook.
 3.  Preencha os campos com o _Client Id_ e o _Client Secret_ cadastrados no **Facebook**.
-    ![Facebook OAuth PT](//images.ctfassets.net/alneenqid6w5/2mWEocn4zdG0BJVMaujzk8/c07c9d4160e7273a0f5ad2a0cabd1bec/facebook_PT.png)
+    ![Facebook OAuth PT](https://images.ctfassets.net/alneenqid6w5/2mWEocn4zdG0BJVMaujzk8/c07c9d4160e7273a0f5ad2a0cabd1bec/facebook_PT.png)
 4.  Clique no botão **Salvar**. 
 5.  Para validar se o login foi feito corretamente, acesse o front-end da sua loja e clique em **Login**.
 6. Aparecerão as opções de login configuradas. Clique na opção **Facebook** e confira se o nome da sua loja é exibido.

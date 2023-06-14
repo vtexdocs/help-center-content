@@ -32,20 +32,20 @@ A página inicial apresenta a lista de promoções em uma grade que permite visu
 - Duplicar ou arquivar promoções através do botão <i class="fas fa-ellipsis-v"></i>
 - Gerenciar as condições da promoção clicando em qualquer parte da linha do grid (veja [Nova promoção](#nova-promocao) para detalhamento das condições da promoção).
 
-![promobeta1 acoes lista promocoes PT](//images.ctfassets.net/alneenqid6w5/1iLvxFtAqM5pFOz6enx8KU/75ce08a03318ebe1cf47d3a01b5b7c62/promobeta1_acoes_lista_promocoes_PT.gif)
+![promobeta1 acoes lista promocoes PT](https://images.ctfassets.net/alneenqid6w5/1iLvxFtAqM5pFOz6enx8KU/75ce08a03318ebe1cf47d3a01b5b7c62/promobeta1_acoes_lista_promocoes_PT.gif)
 
 A lista de promoções pode ser filtrada e ordenada conforme a sua necessidade. A filtragem da lista pode ser feita por *Efeito*, *Estado*, *Data início*, *Data fim* ou *Política comercial*.
 
-![promobeta2 filtros lista promocoes PT](//images.ctfassets.net/alneenqid6w5/4UBGUJC4RTEA9alSeHmJlh/8bbb1eefeee7a0f8b4c6c8746249481f/promobeta2_filtros_lista_promocoes_PT.gif)
+![promobeta2 filtros lista promocoes PT](https://images.ctfassets.net/alneenqid6w5/4UBGUJC4RTEA9alSeHmJlh/8bbb1eefeee7a0f8b4c6c8746249481f/promobeta2_filtros_lista_promocoes_PT.gif)
 
 A ordenação pode ser crescente ou decrescente a partir das informações básicas da promoção, bastando clicar sobre o título.
 
-![promobeta3 ordenacao lista promocoes PT](//images.ctfassets.net/alneenqid6w5/60Z7afuYC3PqwTEPCVLVYd/1c13ddd465a09fe39561b685a1dbe35f/promobeta3_ordenacao_lista_promocoes_PT.gif)
+![promobeta3 ordenacao lista promocoes PT](https://images.ctfassets.net/alneenqid6w5/60Z7afuYC3PqwTEPCVLVYd/1c13ddd465a09fe39561b685a1dbe35f/promobeta3_ordenacao_lista_promocoes_PT.gif)
 
 ## Nova promoção
 Na tela inicial, clique no botão **NOVA PROMOÇÃO** para acessar a página de criação de promoções, na qual você vai preencher uma variedade de campos para configurar as condições desejadas para a sua promoção.
 
-![promobeta4 botao novapromocao PT](//images.ctfassets.net/alneenqid6w5/4Zp0NocPVWeIW44Ky8pWqo/e336ee376b77685d357999e5bd6430d2/promobeta4_botao_novapromocao_PT.png)
+![promobeta4 botao novapromocao PT](https://images.ctfassets.net/alneenqid6w5/4Zp0NocPVWeIW44Ky8pWqo/e336ee376b77685d357999e5bd6430d2/promobeta4_botao_novapromocao_PT.png)
 
 As condições da nova promoção, bem como os campos da tela, estão separados por grupos, sendo eles:
 

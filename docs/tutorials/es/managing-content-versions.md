@@ -18,7 +18,7 @@ La versión de un bloque es una copia de su contenido en un momento determinado.
 
 Con el recurso **Versiones**, puedes crear, programar y experimentar con diferentes contenidos para un bloque determinado, sin comprometer la versión publicada de tu tienda. Cada bloque disponible en el Site Editor puede tener varias versiones.
 
-![Activating Versions - Versiones](//images.ctfassets.net/alneenqid6w5/2W6NS7tRlWMcUdSunI2ifx/72d7fa2f8c892de190e1e2a62f087490/activating-first-es.png)
+![Activating Versions - Versiones](https://images.ctfassets.net/alneenqid6w5/2W6NS7tRlWMcUdSunI2ifx/72d7fa2f8c892de190e1e2a62f087490/activating-first-es.png)
 
 Ve en las siguientes secciones cómo:
 

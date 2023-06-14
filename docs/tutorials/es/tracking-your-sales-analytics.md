@@ -37,7 +37,7 @@ La hora de referencia de los datos se indica en la interfaz con un retraso de un
 <table width="100%">
   <tr>
    <td>
-    <img src="https://images.ctfassets.net/alneenqid6w5/2f8tj5XokKtnZOvjfgmFVf/19eb434db4421da2c0b461268cec80f9/Insights_-_Conhecendo_a_interface__1_.png?h=250" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Conhecendo a interface" title="Insights - Conhecendo a interface">
+    <img src="https:https://images.ctfassets.net/alneenqid6w5/2f8tj5XokKtnZOvjfgmFVf/19eb434db4421da2c0b461268cec80f9/Insights_-_Conhecendo_a_interface__1_.png?h=250" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Conhecendo a interface" title="Insights - Conhecendo a interface">
    </td>
   </tr>
   <tr>
@@ -56,7 +56,7 @@ Este panel permite comparar el valor consolidado de las métricas entre los día
 <table width="100%">
   <tr>
    <td>
-    <img src="https://images.ctfassets.net/alneenqid6w5/5lKQrdbytYWAaMV3tHnOi4/727c2229447881d0ae905c20995ca0f7/Insights_-_Visa__o_Geral__1_.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Visão Geral" title="Insights - Visão Geral">
+    <img src="https:https://images.ctfassets.net/alneenqid6w5/5lKQrdbytYWAaMV3tHnOi4/727c2229447881d0ae905c20995ca0f7/Insights_-_Visa__o_Geral__1_.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Visão Geral" title="Insights - Visão Geral">
    </td>
   </tr>
   <tr>
@@ -75,7 +75,7 @@ Este panel permite seguir la evolución de las métricas a lo largo del día. Al
 <table width="100%">
   <tr>
    <td>
-    <img src="https://images.ctfassets.net/alneenqid6w5/L43eNghJLlakmOFcGmKiM/3741dfa1b1837a51d3437c9d5cfbd5e0/Insights_-_Detalhes__1_.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Detalhes 1" title="Insights - Detalhes 1">
+    <img src="https:https://images.ctfassets.net/alneenqid6w5/L43eNghJLlakmOFcGmKiM/3741dfa1b1837a51d3437c9d5cfbd5e0/Insights_-_Detalhes__1_.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Detalhes 1" title="Insights - Detalhes 1">
    </td>
   </tr>
   <tr>
@@ -90,7 +90,7 @@ Este panel permite seguir la evolución de las métricas a lo largo del día. Al
 <table width="100%">
   <tr>
    <td>
-    <img src="https://images.ctfassets.net/alneenqid6w5/1TExoNJjCZInwh3LGQrkzO/d425b2c7c83551decd7f2edddf1026cc/image13.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Detalhes 2" title="Insights - Detalhes 2">
+    <img src="https:https://images.ctfassets.net/alneenqid6w5/1TExoNJjCZInwh3LGQrkzO/d425b2c7c83551decd7f2edddf1026cc/image13.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Detalhes 2" title="Insights - Detalhes 2">
    </td>
   </tr>
   <tr>
@@ -116,7 +116,7 @@ Este panel permite seguir el volumen de sesiones en las etapas intermedias del f
 <table width="100%">
   <tr>
    <td>
-    <img src="https://images.ctfassets.net/alneenqid6w5/4DdN3hdCz7CdoukLu3H0Ea/6e7d8add7116d6334148fec85878b993/Insights_-_Funil_de_conversa__o__1_.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Funil de conversão" title="Insights - Funil de conversão">
+    <img src="https:https://images.ctfassets.net/alneenqid6w5/4DdN3hdCz7CdoukLu3H0Ea/6e7d8add7116d6334148fec85878b993/Insights_-_Funil_de_conversa__o__1_.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Funil de conversão" title="Insights - Funil de conversão">
    </td>
   </tr>
   <tr>

@@ -18,4 +18,4 @@ Integration settings is the functionality responsible for the initial indexing o
 The tool consists of a text informing about the indexing process and a Start button. Upon pressing the button, indexing starts and a link to the __Indexing status__ screen is displayed.
 
 
-![config-int-EN](//images.ctfassets.net/alneenqid6w5/6Dhh6x6Roi1vRePJDtbOFY/d642a9f13d421ef3f3062a5ff261ff39/config-int-EN.png)
+![config-int-EN](https://images.ctfassets.net/alneenqid6w5/6Dhh6x6Roi1vRePJDtbOFY/d642a9f13d421ef3f3062a5ff261ff39/config-int-EN.png)

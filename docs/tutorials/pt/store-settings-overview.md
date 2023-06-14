@@ -22,7 +22,7 @@ Para acessar esse recurso, clique no ícone de __Configurações da Loja__ no me
 Observe que as páginas e as configurações definidas no ambiente anterior não foram alteradas, apenas reorganizadas no menu lateral do Admin, mudando a forma como você as acessa.
   </div>
 
-![Admin v4 Store settings menu PT](//images.ctfassets.net/alneenqid6w5/2EIX54YHzIivbQjreHGV4B/794611f3616f225deb26e20cb74f77ae/Admin_v4_Store_settings_menu_PT.jpg)
+![Admin v4 Store settings menu PT](https://images.ctfassets.net/alneenqid6w5/2EIX54YHzIivbQjreHGV4B/794611f3616f225deb26e20cb74f77ae/Admin_v4_Store_settings_menu_PT.jpg)
 
 Veja abaixo mais detalhes sobre as diferentes seções e páginas deste menu.
 

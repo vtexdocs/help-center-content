@@ -29,7 +29,7 @@ This was because the number `1` had been set as the default, even when there was
 
 Log in to your **VTEX Admin > Home > How to improve > Catalog**. If the section indicates that `1` issue was found, by clicking on `Popular products without stock` you will be redirected to the Catalog page.
 
-![Como melhorar EN](//images.ctfassets.net/alneenqid6w5/54P0d7km19QIamqTFa10F6/956eb8af39b7edff3928a4acb13ba700/Como_melhorar_EN.png)
+![Como melhorar EN](https://images.ctfassets.net/alneenqid6w5/54P0d7km19QIamqTFa10F6/956eb8af39b7edff3928a4acb13ba700/Como_melhorar_EN.png)
 
 
 ## Workaround
@@ -38,5 +38,5 @@ No action is required from the user as we have already fixed the issue. When no 
 
 `We didn't find any issues in your catalog`
 
-![Como melhorar fixed EN](//images.ctfassets.net/alneenqid6w5/32jMVhuthv5CUK5oECisEr/4251750222051f48f073536c305e0f10/Como_melhorar_fixed_EN.png)
+![Como melhorar fixed EN](https://images.ctfassets.net/alneenqid6w5/32jMVhuthv5CUK5oECisEr/4251750222051f48f073536c305e0f10/Como_melhorar_fixed_EN.png)
 

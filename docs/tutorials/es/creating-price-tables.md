@@ -22,7 +22,7 @@ Para crear una Tabla de Precios siga estos pasos:
  4. Seleccione **Crear nueva Tabla de Precios**.
  5. Seleccione el nombre de la tabla de precios que desea crear y haga clic en el botón azul **Crear tabla de precios**.
  
- ![TutorialPriceTableES 2806](//images.ctfassets.net/alneenqid6w5/2r1rSI1tIDEWDMDSxJmt3b/9559174f94375c2a8c4c080d6e4d3609/TutorialPriceTableES_2806.gif)
+ ![TutorialPriceTableES 2806](https://images.ctfassets.net/alneenqid6w5/2r1rSI1tIDEWDMDSxJmt3b/9559174f94375c2a8c4c080d6e4d3609/TutorialPriceTableES_2806.gif)
 
 Para encontrar una Tabla de Precio:
 

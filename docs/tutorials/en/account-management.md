@@ -84,7 +84,7 @@ After a user has filled in and saved the **Name** and **E-mail** in the contacts
 The template for this automatic email can be changed in the <a href="https://help.vtex.com/en/tutorial/understanding-the-message-center--tutorials_84">Message Center</a> by modifying the <i>account registration</i> template.
 </div>
 
-![account registration](//images.ctfassets.net/alneenqid6w5/I0CttFz6ayQW2Q8uOkKmc/19184a55a9a8de5cb3e04088251a9c93/account_registration.jpg)
+![account registration](https://images.ctfassets.net/alneenqid6w5/I0CttFz6ayQW2Q8uOkKmc/19184a55a9a8de5cb3e04088251a9c93/account_registration.jpg)
 
 ## Security
 
@@ -100,7 +100,7 @@ s tab, you can:
 
 By clicking the **Stores** tab at the top of the screen, you will see a list with all the information of all the stores created in your VTEX account.
 
-![Account details page - Stores](//images.ctfassets.net/alneenqid6w5/rAFyEsEDLBDqj3UBGufrb/19d4e782db194e0482398ffa382a9565/2en.png)
+![Account details page - Stores](https://images.ctfassets.net/alneenqid6w5/rAFyEsEDLBDqj3UBGufrb/19d4e782db194e0482398ffa382a9565/2en.png)
 
 For each store, you can view the following details:
 

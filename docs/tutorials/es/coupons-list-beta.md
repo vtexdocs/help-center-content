@@ -30,7 +30,7 @@ Desde esta página puedes:
 
 Para acceder a la página desde el Admin VTEX, haz clic en **Promociones > Cupones**.
 
-![lista-cupons](//images.ctfassets.net/alneenqid6w5/3KpOX5OW4oM5dBUNxkc0YP/1526330ae6f09ee70d1250a5c6ac0082/screencapture-coupons-pricingqa-myvtex-admin-coupons-2022-04-29-18_13_40_1.png)
+![lista-cupons](https://images.ctfassets.net/alneenqid6w5/3KpOX5OW4oM5dBUNxkc0YP/1526330ae6f09ee70d1250a5c6ac0082/screencapture-coupons-pricingqa-myvtex-admin-coupons-2022-04-29-18_13_40_1.png)
 
 Luego, verás la descripción de las acciones y los componentes incluidos en la página.
 
@@ -82,7 +82,7 @@ El archivo que se genera contiene la siguiente información:
 
 A continuación, puedes ver un ejemplo del archivo CSV exportado:
 
-![cupons-exportados](//images.ctfassets.net/alneenqid6w5/3BiCzXoNpaMM1ZpkBoa3Nr/921b74b837ae69f974aef332dc8d816a/image3.png)
+![cupons-exportados](https://images.ctfassets.net/alneenqid6w5/3BiCzXoNpaMM1ZpkBoa3Nr/921b74b837ae69f974aef332dc8d816a/image3.png)
 
 #### Exportar códigos del lote de cupones
 
@@ -99,13 +99,13 @@ Para ver o exportar todos los códigos de un lote de cupones, sigue los pasos a 
     * <i class="far fa-clone"></i> **Copiar todos:** permite copiar los códigos generados a su área de transferencia. También puedes copiar cada código haciendo clic sobre él.
     * **Exportar:** permite exportar los códigos generados a un archivo CSV. El archivo exportado tiene una columna con un código por línea.
 
-![exportar-cupones](//images.ctfassets.net/alneenqid6w5/P8bIJHkyTTi2jVZ325rko/e41e4a9922531597949431314c41ed5d/image_6.png)
+![exportar-cupones](https://images.ctfassets.net/alneenqid6w5/P8bIJHkyTTi2jVZ325rko/e41e4a9922531597949431314c41ed5d/image_6.png)
 
 ### Ver uso de cupones
 
 Para ver el total de los cupones activos y el espacio disponible restante para los cupones nuevos, haz clic en <i class="fas fa-chart-line"></i> `Uso de los cupones`.
 
-![uso-de-cupones](//images.ctfassets.net/alneenqid6w5/CaNOtLMQXu26MGYfaAe4o/0ed73731ce39d27daf747bae02757a81/image_9.png)
+![uso-de-cupones](https://images.ctfassets.net/alneenqid6w5/CaNOtLMQXu26MGYfaAe4o/0ed73731ce39d27daf747bae02757a81/image_9.png)
 
 La cantidad máxima de cupones activos que puedes tener es de 5000. Para liberar espacio, puedes archivar cupones desde la [Lista de cupones](#lista-de-cupones). Si necesitas aumentar el límite de los cupones activos, ponte en contacto con [nuestro Soporte](https://support.vtex.com/hc/pt-br/requests).
 
@@ -154,13 +154,13 @@ La ventana **Ver detalles de uso** muestra los datos de uso de cada cupón, que 
 
     Esta sección muestra la lista de pedidos en que se usó el cupón y permite buscar por número de pedido. Al hacer clic en el número de un pedido, serás redirigido a la página de detalles del pedido en **Gestión de pedidos**.
 
-![ver-detalles-de-uso](//images.ctfassets.net/alneenqid6w5/1bFOCXCpWwoXzJToacK3BM/5ce20bfb2a8105f006dc649682b5221a/ver-detalles-de-uso.png)
+![ver-detalles-de-uso](https://images.ctfassets.net/alneenqid6w5/1bFOCXCpWwoXzJToacK3BM/5ce20bfb2a8105f006dc649682b5221a/ver-detalles-de-uso.png)
 
 * **Uso general de códigos de cupon** (lotes de cupones): muestra la cantidad total de usos de los códigos de un grupo de cupones y la cantidad de usos restantes, si ha limitado la cantidad de usos.
 
     Esta sección también muestra la lista de códigos en el lote de cupones y le permite buscar un código específico. Al hacer clic en un código, se accede a la lista de pedidos en los que se ha utilizado el código y se puede buscar por un número de pedido. Al hacer clic en un número de pedido, accederá a la página de detalles del pedido en **Gestión de pedidos**.
 
-![selecciona-el-codigo-lotes-cupones](//images.ctfassets.net/alneenqid6w5/25yE4tmkHYDm4MISaz9upH/7ea64df31330da8be8002f373451f262/selecione-o-codigo-grupo-es.PNG)
+![selecciona-el-codigo-lotes-cupones](https://images.ctfassets.net/alneenqid6w5/25yE4tmkHYDm4MISaz9upH/7ea64df31330da8be8002f373451f262/selecione-o-codigo-grupo-es.PNG)
 
 ## Más información
 

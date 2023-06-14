@@ -19,7 +19,7 @@ internalReference:
 
 Atualmente os horários de entrega para uma entrega agendada estão fora de ordem, ou em ordenação decrescente. Para melhor legibilidade, é esperado que estas informações sejam ordenadas de forma crescente.
 
-![image](//images.ctfassets.net/alneenqid6w5/dpGWYjydIAiC2i4qEigsm/0334f47a61fa7dcc4defe1cde08d616b/image.png)
+![image](https://images.ctfassets.net/alneenqid6w5/dpGWYjydIAiC2i4qEigsm/0334f47a61fa7dcc4defe1cde08d616b/image.png)
 
 ## Simulação
 

@@ -27,9 +27,9 @@ Puedes hacer un pedido de prueba en la tienda y, luego, verificar en **Gestión 
 
 Ejemplo: imagina un pedido en el que se aplicó el envío gratis, pero no sabes por qué. Al hacer clic en un pedido en **Gestión de pedidos**, encontrarás el nombre de la promoción registrada en la sección **Ventas y Marketing** o **Promociones y asociaciones**.
 
-<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/1LpXT5YXqbsjb02eAQUsfg/3a84036866c5ed37f964e79a36f8bcd4/detalhes-oms-es.png" alt="detalles-del-pedido" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Detalles del pedido</em></figcaption></figure>
+<img class="db center mv9 shadow-4 pointer" src="https:https://images.ctfassets.net/alneenqid6w5/1LpXT5YXqbsjb02eAQUsfg/3a84036866c5ed37f964e79a36f8bcd4/detalhes-oms-es.png" alt="detalles-del-pedido" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Detalles del pedido</em></figcaption></figure>
 
-<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/2mriJhUbQbqrrUSbp7tjaC/35b752b315cc8578199647fe535677fa/detalhes-neworders-en__1_.png" alt="detalles-del-pedido-beta" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Detalles del pedido (Beta)</em></figcaption></figure>
+<img class="db center mv9 shadow-4 pointer" src="https:https://images.ctfassets.net/alneenqid6w5/2mriJhUbQbqrrUSbp7tjaC/35b752b315cc8578199647fe535677fa/detalhes-neworders-en__1_.png" alt="detalles-del-pedido-beta" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Detalles del pedido (Beta)</em></figcaption></figure>
 
 Si no hay ninguna promoción en la lista, eso significa que el envío gratis no se debe a una promoción, es decir, que el cálculo del envío en el módulo **Stock y entrega** tuvo como resultado cero. En ese caso, será necesario usar el **Simulador de envío** para comprender por qué razón el envío tiene un valor de cero.
 
@@ -39,7 +39,7 @@ En el carrito, puedes pasar el mouse sobre el ícono de interrogación que está
 
 Sin embargo, si se aplicó más de una promoción, aparecerá solo la sumatoria de todos los descuentos, lo cual dificultará el análisis del escenario.
 
-![example-cart](//images.ctfassets.net/alneenqid6w5/4OuONCFldxuXYgevJ8wU81/8d5f5572c67f308480e9e4b1f65dc9e7/image6.png)
+![example-cart](https://images.ctfassets.net/alneenqid6w5/4OuONCFldxuXYgevJ8wU81/8d5f5572c67f308480e9e4b1f65dc9e7/image6.png)
 
 ## orderForm
 

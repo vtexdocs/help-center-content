@@ -22,7 +22,7 @@ Por defecto, es necesario que, en el marketplace, haya [stock](https://help.vtex
 
 En la imagen que aparece a continuación se muestra un ejemplo en el cual el seller A envió un producto al marketplace A. Si el marketplace A tiene en stock el mismo producto que recibió del seller A, puede enviar ese ítem al marketplace B.
 
-![erro-envio-skus-sellers-marketplaces-docnovo](//images.ctfassets.net/alneenqid6w5/3T528zwESuAVeiJXJWpFME/bb694301be01d46ac0d33ced3016da01/erro-envio-skus-sellers-marketplaces-docnovo.JPG)
+![erro-envio-skus-sellers-marketplaces-docnovo](https://images.ctfassets.net/alneenqid6w5/3T528zwESuAVeiJXJWpFME/bb694301be01d46ac0d33ced3016da01/erro-envio-skus-sellers-marketplaces-docnovo.JPG)
 
 Los marketplaces que cuentan con este modelo de negocio se ven beneficiados porque pueden ofrecer su gama de productos en canales de venta de terceros y así generar más oportunidades de venta.
 

@@ -26,4 +26,4 @@ Siga los pasos a continuación para desbloquear su Admin durante este período. 
 - Introduzca el número del ticket que abrió previamente para el desbloqueo.
 - Haga clic en el botón **Desbloquear por 48 horas**.
 
-![Home 1](//images.ctfassets.net/alneenqid6w5/6GCOTVMqGicNCz1TdzzrzJ/6dadcd5d6923b9eaa0612a62b006180f/Home__1_.gif)
+![Home 1](https://images.ctfassets.net/alneenqid6w5/6GCOTVMqGicNCz1TdzzrzJ/6dadcd5d6923b9eaa0612a62b006180f/Home__1_.gif)

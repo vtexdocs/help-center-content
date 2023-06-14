@@ -37,4 +37,4 @@ To manually change an order's data, follow the steps below:
     * **Select carrier:** select which carrier will deliver the order.
 7. Click `Save`.
 
-![FaturaEN](//images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/1f68c545e4a42383d85aa82b7dd6ba96/FaturaEN.png)
+![FaturaEN](https://images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/1f68c545e4a42383d85aa82b7dd6ba96/FaturaEN.png)

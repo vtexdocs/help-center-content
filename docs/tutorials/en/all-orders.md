@@ -23,7 +23,7 @@ The **All Orders** page allows retailers to track their store's orders and extra
 
 The following sections provide more details about each page component and its actions.
 
-![Order Listing EN](//images.ctfassets.net/alneenqid6w5/683JysQxHoXao2zRxQCJ6x/e39aa9ff8eab7e0a031c2d7464dc2e87/Order_Listing_EN.gif)
+![Order Listing EN](https://images.ctfassets.net/alneenqid6w5/683JysQxHoXao2zRxQCJ6x/e39aa9ff8eab7e0a031c2d7464dc2e87/Order_Listing_EN.gif)
 
 ## Top bar
 
@@ -154,7 +154,7 @@ Learn more about each column.
 
 ## VTEX DO
 
-![VTEX Do overview EN](//images.ctfassets.net/alneenqid6w5/4FzyUh5uqhzXKfbw9MJXsQ/0b341bae7a9f462483ddefb3ad044e14/VTEX_Do_overview_EN.gif)
+![VTEX Do overview EN](https://images.ctfassets.net/alneenqid6w5/4FzyUh5uqhzXKfbw9MJXsQ/0b341bae7a9f462483ddefb3ad044e14/VTEX_Do_overview_EN.gif)
 
 [VTEX DO](https://help.vtex.com/en/tutorial/vtex-do-beta--7KMbRL4OslN8DTX9oiuCiu) manages tasks automatically created by the VTEX Admin that require manual action by the ecommerce team. 
 

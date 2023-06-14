@@ -14,7 +14,7 @@ legacySlug: catalogo-visao-geral
 subcategory: 
 ---
 
-![Overview do catálogo (capa)](//images.ctfassets.net/alneenqid6w5/1OkPBtIH7KNPWFpCYVv89Y/381c53d2f596018d117c044d38d70ab4/image1.jpg)
+![Overview do catálogo (capa)](https://images.ctfassets.net/alneenqid6w5/1OkPBtIH7KNPWFpCYVv89Y/381c53d2f596018d117c044d38d70ab4/image1.jpg)
 Catálogo é o módulo de administração da sua loja que possibilita configurar as funcionalidades referentes aos produtos do seu ecommerce. Para que o seu cliente veja os produtos no site, você precisa cadastrá-los neste módulo. 
 
 Neste artigo você encontrará uma visão geral dos itens do catálogo e suas funcionalidades.
@@ -24,7 +24,7 @@ A Categoria é o segundo nível de categorização da sua loja, logo abaixo do n
 
 O módulo **Categorias** permite visualizar e gerenciar a árvore de categorias cadastradas na sua loja, como mostrado no exemplo abaixo.
 
-![Estrutura do catálogo](//images.ctfassets.net/alneenqid6w5/6x2Nbxv5BvPZ9XW2Q4pTHa/66d1260822745c13cc2771f79289a131/image3.png)
+![Estrutura do catálogo](https://images.ctfassets.net/alneenqid6w5/6x2Nbxv5BvPZ9XW2Q4pTHa/66d1260822745c13cc2771f79289a131/image3.png)
 
 Você pode cadastrar uma categoria seguindo o tutorial [Cadastrar uma Categoria](https://help.vtex.com/pt/tutorial/cadastrando-categoria--tutorials_206). Se deseja gerenciar ou inativar uma categoria, siga os passos do tutorial [Inativar e reorganizar categorias](https://help.vtex.com/pt/tutorial/inativando-e-reorganizando-categorias--tutorials_264).
 

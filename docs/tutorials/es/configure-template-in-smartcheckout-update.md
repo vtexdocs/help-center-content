@@ -36,11 +36,11 @@ Cada sitio registrado corresponde a un multidominio (si la cuenta tiene multidom
 
 Creación del nuevo sitio web: 
 
-![ses.smartchackout1](//images.ctfassets.net/alneenqid6w5/KyggI6FeMn1nhKkrKekDj/55be5d1156b71333e640f7c75c693045/ses.smartchackout1.png) 
+![ses.smartchackout1](https://images.ctfassets.net/alneenqid6w5/KyggI6FeMn1nhKkrKekDj/55be5d1156b71333e640f7c75c693045/ses.smartchackout1.png) 
 
 Acceso a __Nombre de cuenta__:
 
-![ses.smartchackout2](//images.ctfassets.net/alneenqid6w5/2NH2v4bG5DZZucsAYKLt3o/bf6bee1d305b72c30045e717d3d229aa/ses.smartchackout2.png)
+![ses.smartchackout2](https://images.ctfassets.net/alneenqid6w5/2NH2v4bG5DZZucsAYKLt3o/bf6bee1d305b72c30045e717d3d229aa/ses.smartchackout2.png)
 
 ## Editar y configurar sitio
 
@@ -55,14 +55,14 @@ Acceso a __Nombre de cuenta__:
    - __Páginas__: mostrar páginas existentes para el sitio. 
 
 Ejemplo de sitios existentes en la misma cuenta:
-![ES Cards Portal](//images.ctfassets.net/alneenqid6w5/lHivoZotqDLXjLShaqv2i/a60e8f0fba49b962fd33f6d56652bec7/ES_Cards_Portal.png)
+![ES Cards Portal](https://images.ctfassets.net/alneenqid6w5/lHivoZotqDLXjLShaqv2i/a60e8f0fba49b962fd33f6d56652bec7/ES_Cards_Portal.png)
 
 Si desea __eliminar__ un sitio web, haga clic en el botón Eliminar del sitio web deseado, como en el siguiente ejemplo:
-![ses.smartchackout3](//images.ctfassets.net/alneenqid6w5/6PIZEMRdKproPnIFvHaNcG/d116b65f10aba502d0a9e21fee41cbfb/ses.smartchackout3.png)
+![ses.smartchackout3](https://images.ctfassets.net/alneenqid6w5/6PIZEMRdKproPnIFvHaNcG/d116b65f10aba502d0a9e21fee41cbfb/ses.smartchackout3.png)
 
 Si desea __eliminar__ una página existente, haga clic en el botón indicado en la imagen de abajo:
 
-![ses.smartchackout5](//images.ctfassets.net/alneenqid6w5/6ruS0mUjxfgB9AdoXsucCh/72bf1ed75dde2ffa0bfe2558fdf41734/ses.smartchackout5.png)
+![ses.smartchackout5](https://images.ctfassets.net/alneenqid6w5/6ruS0mUjxfgB9AdoXsucCh/72bf1ed75dde2ffa0bfe2558fdf41734/ses.smartchackout5.png)
 
 A continuación, pasaremos a la configuración paso a paso de las opciones del menú: __Código__ y __Checkout__ - pues configuran las páginas de *Checkout* y *Order Placed*.
 
@@ -79,7 +79,7 @@ A continuación, pasaremos a la configuración paso a paso de las opciones del m
   <li><b>Cálculo de las Opciones de Entrega (Beta y Stable)</b>: seleccione si el cálculo del flete se hará desde la hoja de cálculo o por geolocalización.</li>
   </ul>
 
-![ses.smartchackout6](//images.ctfassets.net/alneenqid6w5/5sUaemiWXUvCQ7nLeWyvE2/4c30814fa4d2db0360bb83ee2c124ef5/ses.smartchackout6.png)
+![ses.smartchackout6](https://images.ctfassets.net/alneenqid6w5/5sUaemiWXUvCQ7nLeWyvE2/4c30814fa4d2db0360bb83ee2c124ef5/ses.smartchackout6.png)
 
 ## Configurar código
 
@@ -89,7 +89,7 @@ A continuación, pasaremos a la configuración paso a paso de las opciones del m
 
 Ejemplo:
 
-![ses.smartchackout7](//images.ctfassets.net/alneenqid6w5/1PD1qlTDCj1Ckdp1BukJDf/1b5cdeabc1ff8fce27a5a4ff64cd39da/ses.smartchackout7.png)
+![ses.smartchackout7](https://images.ctfassets.net/alneenqid6w5/1PD1qlTDCj1Ckdp1BukJDf/1b5cdeabc1ff8fce27a5a4ff64cd39da/ses.smartchackout7.png)
 
 ### Configurar templates del menú "Código"
 
@@ -109,27 +109,27 @@ A continuación se muestran ejemplos de cómo se pueden llenar los códigos pres
 
 - Template __checkout-header__ y la cabecera de página del sitio web:
 
-![ses.smartchackout10](//images.ctfassets.net/alneenqid6w5/5laYto6t3IYF5YjJNmlo7t/457f048f5b8450cf5b3e925f72e9e971/ses.smartchackout10.png) 
+![ses.smartchackout10](https://images.ctfassets.net/alneenqid6w5/5laYto6t3IYF5YjJNmlo7t/457f048f5b8450cf5b3e925f72e9e971/ses.smartchackout10.png) 
 
-![checkout-header-page-es](//images.ctfassets.net/alneenqid6w5/4jO17CaVCHEn2mFRUu4smR/d98e30e3889f5c94d509c6c3cf4c586e/smartcheckout11.pt.png)
+![checkout-header-page-es](https://images.ctfassets.net/alneenqid6w5/4jO17CaVCHEn2mFRUu4smR/d98e30e3889f5c94d509c6c3cf4c586e/smartcheckout11.pt.png)
 
 - Template __checkout-footer__ y pie de página del sitio web:
 
-![checkout-footer-codigo-pt](//images.ctfassets.net/alneenqid6w5/h9oan75Htfkd7JCIReZQx/65cb5c227d520f6a6ff3e4e732a920c5/PT_C__digo_Checkout_Footer_preenchido.png)
+![checkout-footer-codigo-pt](https://images.ctfassets.net/alneenqid6w5/h9oan75Htfkd7JCIReZQx/65cb5c227d520f6a6ff3e4e732a920c5/PT_C__digo_Checkout_Footer_preenchido.png)
 
-![checkout-footer-cesta-es](//images.ctfassets.net/alneenqid6w5/4P9DSkLsgPN8F2x5JM1dQM/b71853e444095cbacba1b45a6f6110b6/checkout_footer_cesta.es.png)
+![checkout-footer-cesta-es](https://images.ctfassets.net/alneenqid6w5/4P9DSkLsgPN8F2x5JM1dQM/b71853e444095cbacba1b45a6f6110b6/checkout_footer_cesta.es.png)
 
 - Template __vtex-checkout__ y página de carrito al finalizar la compra:
 
-![smartcheckout16.pt](//images.ctfassets.net/alneenqid6w5/syu2Ul4PbhWNaCWbLQY84/a49ebebfaa7fd9df54cf6b2e757ffb9b/smartcheckout16.pt.png) 
+![smartcheckout16.pt](https://images.ctfassets.net/alneenqid6w5/syu2Ul4PbhWNaCWbLQY84/a49ebebfaa7fd9df54cf6b2e757ffb9b/smartcheckout16.pt.png) 
 
-![vtex-checkout-pagina-es](//images.ctfassets.net/alneenqid6w5/6yT3yPkqatyVRLQ4Cn0TVb/643e0bc15c803d5d50053e7eabc2fb29/ses.smartchackout17.png)
+![vtex-checkout-pagina-es](https://images.ctfassets.net/alneenqid6w5/6yT3yPkqatyVRLQ4Cn0TVb/643e0bc15c803d5d50053e7eabc2fb29/ses.smartchackout17.png)
 
 - Template __vtex-orderPlaced__ y página de pedido confirmado:
 
-![ses.smartchackout18](//images.ctfassets.net/alneenqid6w5/7v3DAlrUo8B4uFwn8G0NI8/b2859b32f480e91e8142969e6975cb43/ses.smartchackout18.png) 
+![ses.smartchackout18](https://images.ctfassets.net/alneenqid6w5/7v3DAlrUo8B4uFwn8G0NI8/b2859b32f480e91e8142969e6975cb43/ses.smartchackout18.png) 
 
-![vtex-orderplaced-paginas-es](//images.ctfassets.net/alneenqid6w5/2gFpnjs8tsTfOvmAgKQ3hh/8adc2c384b5ed34fbc5b02a82850c03e/ses.smartchackout19.png)
+![vtex-orderplaced-paginas-es](https://images.ctfassets.net/alneenqid6w5/2gFpnjs8tsTfOvmAgKQ3hh/8adc2c384b5ed34fbc5b02a82850c03e/ses.smartchackout19.png)
 
 ### Cuentas con multidominio 
 

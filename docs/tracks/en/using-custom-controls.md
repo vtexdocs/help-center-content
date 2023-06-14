@@ -31,7 +31,7 @@ To create a custom control, follow the walk-through below:
 3. Click on the __CMS__ folder.
 4. Click on the __Custom Elements__ folder.
 5. Click on the __Add__ button.
-![8 1](//images.ctfassets.net/alneenqid6w5/2O1QkWg7UoaHzM7r1kZetq/aae42e4de48ea2bb9845f5607d14332c/8_1.png)
+![8 1](https://images.ctfassets.net/alneenqid6w5/2O1QkWg7UoaHzM7r1kZetq/aae42e4de48ea2bb9845f5607d14332c/8_1.png)
 6. Fill in the __Name__ field with the custom control name.
 7. Fill in the __Tag name__ field. This is the name that will be used in the control when adding it to the template.
 8. Select the control type on __Type__.

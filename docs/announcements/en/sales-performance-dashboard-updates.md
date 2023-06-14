@@ -18,7 +18,7 @@ The Sales Performance dashboard allows store operators to analyze data from all 
 
 We have improved the experience on this page based on your suggestions, adding new features for applying filters, customizing views, and exploring data. 
 
-![Sales perf update EN](//images.ctfassets.net/alneenqid6w5/5mHOltfUnUpV1DtHXrT8xD/c2573e700f0400eb44176cb4cee696bf/Sales_perf_update_EN.gif)
+![Sales perf update EN](https://images.ctfassets.net/alneenqid6w5/5mHOltfUnUpV1DtHXrT8xD/c2573e700f0400eb44176cb4cee696bf/Sales_perf_update_EN.gif)
 
 ## What has changed?
 We have enhanced existing features, such as Filters and Data, and added the Views menu. The new filter experience allows you to try different filter combinations with fewer clicks. The new Views feature has been designed to save the filters and metrics applied on the page, allowing you to access the same view combination quickly. 

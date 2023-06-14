@@ -52,22 +52,22 @@ Otra ventaja para el administrador de la tienda es el aumento de conversión, qu
 
 En esta sección se muestran los términos más buscados por otros clientes dentro del sitio web.
 
-![PT - Autocomplete termos mais pesquisados](//images.ctfassets.net/alneenqid6w5/6gBULnYzroBY96Ler918qJ/de1f57f6942d1c1ec554246917f524a0/PT_-_Autocomplete_termos_mais_pesquisados.png)
+![PT - Autocomplete termos mais pesquisados](https://images.ctfassets.net/alneenqid6w5/6gBULnYzroBY96Ler918qJ/de1f57f6942d1c1ec554246917f524a0/PT_-_Autocomplete_termos_mais_pesquisados.png)
 
 ## Últimas búsquedas realizadas
 
 En esta sección se muestran las últimas búsquedas realizadas por el cliente. Así, es posible comenzar la interacción con la búsqueda instantáneamente.
 
-![PT - Autocomplete historico](//images.ctfassets.net/alneenqid6w5/1GXQ879Y9rEMXFKjVquys1/4f68e9d2277b02d56cb155ecf29fcfc6/PT_-_Autocomplete_historico.png)
+![PT - Autocomplete historico](https://images.ctfassets.net/alneenqid6w5/1GXQ879Y9rEMXFKjVquys1/4f68e9d2277b02d56cb155ecf29fcfc6/PT_-_Autocomplete_historico.png)
 
 ## Sugerencia de búsquedas
 
 En esta sección se muestran los términos buscados por otros usuarios que se relacionan con la búsqueda realizada en ese momento. Además de términos, también se sugieren categorías relacionadas con la búsqueda.
 
-![PT - Autocomplete sugestao termos](//images.ctfassets.net/alneenqid6w5/2rOg8Q94A0F8VEbueLkXDS/34faeaa87bbf7989072e3dddec7f9b04/PT_-_Autocomplete_sugestao_termos.png)
+![PT - Autocomplete sugestao termos](https://images.ctfassets.net/alneenqid6w5/2rOg8Q94A0F8VEbueLkXDS/34faeaa87bbf7989072e3dddec7f9b04/PT_-_Autocomplete_sugestao_termos.png)
 
 ## Sugerencia de productos
 
 En esta sección se muestran los productos que coinciden con la búsqueda realizada en ese momento. Así, al mostrar productos relacionados con su búsqueda durante la escritura, se reducen las interrupciones y se le permite al usuario realizar una compra más dinámica.
 
-![PT - Autocomplete sugestao de produtos](//images.ctfassets.net/alneenqid6w5/1wXXgJr59cCCjz00DHA3nU/49288947b9326f3309ed7bea482a2331/PT_-_Autocomplete_sugestao_de_produtos.png)
+![PT - Autocomplete sugestao de produtos](https://images.ctfassets.net/alneenqid6w5/1wXXgJr59cCCjz00DHA3nU/49288947b9326f3309ed7bea482a2331/PT_-_Autocomplete_sugestao_de_produtos.png)

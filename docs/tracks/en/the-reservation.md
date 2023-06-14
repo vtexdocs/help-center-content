@@ -33,7 +33,7 @@ This is the reservation flow at VTEX:
  
  3. Finally, once the order is being prepared for delivery, the items move to the status `Reservation Acknowledged`. This status indicates that the items no longer exist in the physical inventory.
 
-![reservation en](//images.ctfassets.net/alneenqid6w5/7mm0YP3bcfb5fqZf5XhmZX/8798695363d5f4008f0a9c7078ebc386/reservation_en.png)
+![reservation en](https://images.ctfassets.net/alneenqid6w5/7mm0YP3bcfb5fqZf5XhmZX/8798695363d5f4008f0a9c7078ebc386/reservation_en.png)
 
 <div class="alert alert-warning">
 VTEX does not automatically remove items from the inventory, even after they have moved to <code>Reservation Recognized</code> status. Purchased items will remain in this status until the ERP or the store remove them from the inventory.

@@ -139,7 +139,7 @@ Send an HTTP request and save the response information in the Master Data.
 
 Fill in the **Request data** section with the information of the request to be sent. In the **Response action** section, you can indicate how the response information should be saved in the Master Data.
 
-![Master Data v1 send http request screenshot](//images.ctfassets.net/alneenqid6w5/5uIXuDHBecTzuJxi0mnjWv/74bc888f1f8b2a901e642d9809207fd5/mdv1_trigger_http_request.PNG)
+![Master Data v1 send http request screenshot](https://images.ctfassets.net/alneenqid6w5/5uIXuDHBecTzuJxi0mnjWv/74bc888f1f8b2a901e642d9809207fd5/mdv1_trigger_http_request.PNG)
 
 To configure the **Response action**, select the desired data entity and set the corresponding JSON path in the response for each field to be saved.
 

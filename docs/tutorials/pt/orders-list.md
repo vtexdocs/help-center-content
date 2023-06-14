@@ -16,7 +16,7 @@ subcategory: 2t00bBkcAwIkgSCGKsMOwY
 
 É através da lista de pedidos do Gerenciamento de Pedidos que o lojista pode acompanhar as compras concretizadas em sua loja. A listagem está disponível na primeira tela do módulo Gerenciamento de Pedidos.
 
-![todosospedidos.pt](//images.ctfassets.net/alneenqid6w5/RIjd55ovorcC4L2gZ4aFQ/c1f8a9043d1da0e979348951bbbba1e7/todosospedidos.pt.png)
+![todosospedidos.pt](https://images.ctfassets.net/alneenqid6w5/RIjd55ovorcC4L2gZ4aFQ/c1f8a9043d1da0e979348951bbbba1e7/todosospedidos.pt.png)
 
 Na visualização padrão são listados todos os pedidos da loja a partir do mais recente. É possível alterar a ordenação clicando no nome das colunas, assim como buscar ou filtrar os pedidos por dados específicos, e também exportar estes dados.
 

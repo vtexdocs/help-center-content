@@ -15,7 +15,7 @@ trackSlugES: instore-usando-el-app
 
 En el pasillo infinito de VTEX Sales App, el vendedor puede buscar los productos deseados y añadirlos al carrito. Para ello, es necesario hacer clic en la lupa de la barra superior de VTEX Sales App e introducir el nombre del producto, el código de referencia o el EAN.
 
-![instore-search-es](//images.ctfassets.net/alneenqid6w5/5zBP54Dt2s7P6514vC1K8z/d3d9724e70f6f8b96242f3c960cb02c0/instore-search-es.png)
+![instore-search-es](https://images.ctfassets.net/alneenqid6w5/5zBP54Dt2s7P6514vC1K8z/d3d9724e70f6f8b96242f3c960cb02c0/instore-search-es.png)
 
 VTEX Sales App tiene una búsqueda unificada, es decir, al buscar un producto en la aplicación, el vendedor lo busca tanto en el almacén local (de la propia tienda física) como en el de otras tiendas físicas y centros de distribución asociados al ecommerce.
 
@@ -23,7 +23,7 @@ VTEX Sales App tiene una búsqueda unificada, es decir, al buscar un producto en
 
 Al hacer clic en la flecha <i class="fas fa-chevron-down"></i> junto a un producto, podrás ver sus variaciones, las opciones de entrega, la cantidad a agregar al carrito y los botones `Agregar al carrito` y `Más detalles`.
 
-![instore-search-details-es](//images.ctfassets.net/alneenqid6w5/1itzXskqYPkJ4CghrWihy8/463d49a83d0f421f2f62f4a1cf0368a6/Group_1__1_.png)
+![instore-search-details-es](https://images.ctfassets.net/alneenqid6w5/1itzXskqYPkJ4CghrWihy8/463d49a83d0f421f2f62f4a1cf0368a6/Group_1__1_.png)
 
 ## Filtros
 

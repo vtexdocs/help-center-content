@@ -19,7 +19,7 @@ internalReference:
 
 When accessing the CMS through the new administrative environment (My VTEX - `{AccountName}.myvtex.com/admin`), an error page is displayed, and the CMS can not be accessed.
 
-![4JSc1cw](//images.ctfassets.net/alneenqid6w5/2SQ58O96w0u668aoMgeygI/2fe3498d2cade6d204c2b2b67e0be9b0/4JSc1cw.png)
+![4JSc1cw](https://images.ctfassets.net/alneenqid6w5/2SQ58O96w0u668aoMgeygI/2fe3498d2cade6d204c2b2b67e0be9b0/4JSc1cw.png)
 
 ## Simulation
 

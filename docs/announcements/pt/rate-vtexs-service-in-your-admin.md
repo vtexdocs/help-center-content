@@ -16,7 +16,7 @@ announcementSynopsisPT: Lançamos uma página de pesquisa de satisfação no Adm
 
 Lançamos a nova página *Pesquisa de Satisfação* no seu Admin VTEX. Agora, você pode avaliar o atendimento do nosso suporte sem sair do ambiente VTEX.
 
-![Pesquisa de satisfação PT](//images.ctfassets.net/alneenqid6w5/3W8q5tdB9ZOrPT4QFMZP2D/b213884709ae4bd96dc820d6b60b99b2/image__19_.png)
+![Pesquisa de satisfação PT](https://images.ctfassets.net/alneenqid6w5/3W8q5tdB9ZOrPT4QFMZP2D/b213884709ae4bd96dc820d6b60b99b2/image__19_.png)
 
 ## O que mudou?
 

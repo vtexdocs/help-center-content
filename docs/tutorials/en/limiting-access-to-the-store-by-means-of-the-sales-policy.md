@@ -47,7 +47,7 @@ After creating a cluster, you must include a rule in the sales policy allowing a
 3. In the **Conditional Rule** field, enter the value **ClusterName=”true”**. Note that the value **ClusterName** must be changed to the name of the field in the data entity.
 4. Click on the **Save** button.
 
-![Cluster EN](//images.ctfassets.net/alneenqid6w5/1Nsw3FMZT2K0mQ4mcYImCy/c15e260101a8e43ccad6ce1191a904a3/Cluster_EN.png)
+![Cluster EN](https://images.ctfassets.net/alneenqid6w5/1Nsw3FMZT2K0mQ4mcYImCy/c15e260101a8e43ccad6ce1191a904a3/Cluster_EN.png)
 
 In the above configuration, only customers with the value “true” (using a Boolean field – where values are either true or false) can access the site.
 

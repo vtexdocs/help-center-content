@@ -26,17 +26,17 @@ Uma empresa que possui lojas em vários cidades (Ex: São Paulo, Rio de Janeiro,
 
 Para começar você deve ter [criado os links](https://help.vtex.com/pt/tutorial/links--7h7YXPFovF2k5z6ZSZs5WB)  que serão utilizados no seu atendimento e um link âncora.  Depois de ter criado os links no painel do VTEX Assisted Sales (SuiteShare), acesse a opção _**Organizar > Geolocalização.**_
 
-![Geolocalizado 1](//images.ctfassets.net/alneenqid6w5/4l9dgcmAdSNdgj0PUaKVC8/db334a7cdc6a13954e62d94fbd7ebb0a/Screenshot_2022-08-29_at_17-59-43_Geolocalizado.png)
+![Geolocalizado 1](https://images.ctfassets.net/alneenqid6w5/4l9dgcmAdSNdgj0PUaKVC8/db334a7cdc6a13954e62d94fbd7ebb0a/Screenshot_2022-08-29_at_17-59-43_Geolocalizado.png)
 
 Clique em _**“Novo”**_.
 
-![Geolocalizado 2](//images.ctfassets.net/alneenqid6w5/4Q7Q0Rnkz4UYR85akhHQAh/78deaaef0fc5a328b5bee90eb3a043fb/Screenshot_2022-08-29_at_17-59-47_Geolocalizado.png)
+![Geolocalizado 2](https://images.ctfassets.net/alneenqid6w5/4Q7Q0Rnkz4UYR85akhHQAh/78deaaef0fc5a328b5bee90eb3a043fb/Screenshot_2022-08-29_at_17-59-47_Geolocalizado.png)
 
 Em **Link Âncora**, como o próprio nome já diz, você irá selecionar o link principal da central. Esse é o link que você irá divulgar e que os clientes irão clicar. 
 
 **Nota**: Esse será o link responsável por fazer a ligação com os demais atendentes.
 
-![Geolocalizado 3](//images.ctfassets.net/alneenqid6w5/1VNj6ggD6sFyXtYDojXVKv/aacec6cba54332300bfc899de4c0fed5/Screenshot_2022-08-29_at_17-59-51_Geolocalizado.png)
+![Geolocalizado 3](https://images.ctfassets.net/alneenqid6w5/1VNj6ggD6sFyXtYDojXVKv/aacec6cba54332300bfc899de4c0fed5/Screenshot_2022-08-29_at_17-59-51_Geolocalizado.png)
 
 O link whts.co/geolocalizado  sera o link principal. Nesse link está cadastrado o número de telefone da Matriz da Loja Teste que fica no Rio de Janeiro. 
 
@@ -46,11 +46,11 @@ O link whts.co/geolocalizado  sera o link principal. Nesse link está cadastrad
 
 Clique em _**“Avançar”**_.
 
-![Geolocalizado  4](//images.ctfassets.net/alneenqid6w5/1KIRHBEqDhssJV76yEaszd/15f59999569923cc82a1dd06146190fb/Screenshot_2022-08-29_at_18-00-00_Geolocalizado.png)
+![Geolocalizado  4](https://images.ctfassets.net/alneenqid6w5/1KIRHBEqDhssJV76yEaszd/15f59999569923cc82a1dd06146190fb/Screenshot_2022-08-29_at_18-00-00_Geolocalizado.png)
 
 Em Links Geolocalizados,selecione os vendedores ou números,  que irão participar da central. Clique em **_“Adicionar”_,** selecione o estado e a região e selecione o link para cada participante da central.
 
-![Geolocalizado 5](//images.ctfassets.net/alneenqid6w5/5hq88ccviJz56OJpv9jJdi/1d32fa1d927326fe58fdcfd7cdbb0309/Screenshot_2022-08-29_at_18-00-04_Geolocalizado.png)
+![Geolocalizado 5](https://images.ctfassets.net/alneenqid6w5/5hq88ccviJz56OJpv9jJdi/1d32fa1d927326fe58fdcfd7cdbb0309/Screenshot_2022-08-29_at_18-00-04_Geolocalizado.png)
 
 **IMPORTANTE:** No exemplo definimos por estados e não por cidades, mas você também pode definir somente por cidades.
 

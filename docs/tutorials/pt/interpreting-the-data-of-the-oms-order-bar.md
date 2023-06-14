@@ -25,7 +25,7 @@ O seguinte conjunto de dados é apresentado na tela de __Todos os pedidos__ na s
 
 Ao lado de cada um desses valores, pode-se ver uma porcentagem que representa a variação relativa aos pedidos feitos no dia de hoje.
 
-![order-metric-pt](//images.ctfassets.net/alneenqid6w5/4H6gLOi9RSYkUG2eIM6Oc2/d6de6b0c59982229df6b5ccc152dd83a/order-metric-pt.png)
+![order-metric-pt](https://images.ctfassets.net/alneenqid6w5/4H6gLOi9RSYkUG2eIM6Oc2/d6de6b0c59982229df6b5ccc152dd83a/order-metric-pt.png)
 
 No screenshot das métricas acima, podemos ver as seguintes informações:
 

@@ -42,7 +42,7 @@ As with the OMS interface, the API shows `vtex:fob_1111` in the selectedSla, del
 
 It is important that the ERP is able to accept data in this format.
 
-![](//images.ctfassets.net/alneenqid6w5/5jPtBeUPHCUvgMco9FoKuZ/add1ce05e78a216f0aa7074c3ae4d444/slack-imgs.com.png)
+![](https://images.ctfassets.net/alneenqid6w5/5jPtBeUPHCUvgMco9FoKuZ/add1ce05e78a216f0aa7074c3ae4d444/slack-imgs.com.png)
 
 ## Label
 
@@ -50,6 +50,6 @@ The order is mailed under an agreement between Correios (national postal service
 
 The label can be accessed directly through OMS, under the order list. Just click on the link and a new window will open with the label in PDF format.
 
-![Delivery label by Correios (BR) - Marketplace](//images.ctfassets.net/alneenqid6w5/3Xc7eqzjetqNwScoZxkWOK/4b1c70652ae5dc8248c829527d733c65/Screen_Shot_2020-03-25_at_11.43.43.png)
+![Delivery label by Correios (BR) - Marketplace](https://images.ctfassets.net/alneenqid6w5/3Xc7eqzjetqNwScoZxkWOK/4b1c70652ae5dc8248c829527d733c65/Screen_Shot_2020-03-25_at_11.43.43.png)
 
 If you want to make use of the label in your ERP, it is also available in the [Orders API](https://developers.vtex.com/reference/orders#getorder), in the `trackingHints` array of the `shippingData` object.

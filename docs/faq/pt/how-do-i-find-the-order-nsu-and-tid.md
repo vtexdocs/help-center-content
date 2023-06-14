@@ -23,4 +23,4 @@ NSU e TID são dados de pagamento que ficam registrados em __Pagamentos__, na se
 
 Essas informações são informadas à VTEX durante as transações e são organizadas para uma simples visualização em **+ Informações**, no [detalhe do pedido](/pt/tutorial/como-visualizar-detalhes-do-pedido "detalhe do pedido"), conforme imagem abaixo:
 
-![mais-informações-detalhes-pedido pt](//images.ctfassets.net/alneenqid6w5/5SaZEE8HcJHaXfdahYfueX/aae0b71aea18bd58876bdf3b5af7ca4e/mais-informa____es-detalhes-pedido_pt.png)
+![mais-informações-detalhes-pedido pt](https://images.ctfassets.net/alneenqid6w5/5SaZEE8HcJHaXfdahYfueX/aae0b71aea18bd58876bdf3b5af7ca4e/mais-informa____es-detalhes-pedido_pt.png)

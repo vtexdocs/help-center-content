@@ -27,7 +27,7 @@ Esta página te permite gestionar tus vendedores a través de las siguientes acc
 * [Editar](#editar-vendedor)
 * [Eliminar](#eliminar-vendedor)
 
-![vendedores-es](//images.ctfassets.net/alneenqid6w5/1PDeYBlqDILaEOFGOE7H8x/7ca04713635ff6b9975ebbdddcd2ccc8/image.png)
+![vendedores-es](https://images.ctfassets.net/alneenqid6w5/1PDeYBlqDILaEOFGOE7H8x/7ca04713635ff6b9975ebbdddcd2ccc8/image.png)
 
 La página contiene la siguiente información:
 
@@ -50,7 +50,7 @@ Puedes crear un vendedor siguiendo los pasos a continuación:
 
 Después de registrado, el vendedor recibirá un email de confirmación y se le redirigirá a la opción de inicio de sesión del vendedor en la aplicación VTEX Sales App.
 
-![email-vendedor-pt](//images.ctfassets.net/alneenqid6w5/28VbbIXujzHcE3BriNtZPq/3aa9729eb2211875302b7316dbe46c93/image.png)
+![email-vendedor-pt](https://images.ctfassets.net/alneenqid6w5/28VbbIXujzHcE3BriNtZPq/3aa9729eb2211875302b7316dbe46c93/image.png)
 
 <div class ="alert alert-warning">
 <p>Los vendedores registrados en VTEX Sales App no tienen permiso para acceder al Admin VTEX. Si un vendedor intenta iniciar sesión en el Admin, se eliminará su registro.</p> 

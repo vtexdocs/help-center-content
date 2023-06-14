@@ -98,7 +98,7 @@ If you decide to configure a payment method that accepts installments with inter
 The Automatic Installment option allows you to configure the details of the installments directly in the payment provider (outside the VTEX environment).
 To enable this option, select “Yes” in the **Use external installments** field during the [affiliation setup](https://help.vtex.com/en/tutorial/afiliacoes-de-gateway--tutorials_444) step.
 
-![automaticinstallment](//images.ctfassets.net/alneenqid6w5/3ErHSFlSGyUwbLzJWaUlXw/965203e926177f608618ed0048411de6/parcelamentoautomaticous.JPG)
+![automaticinstallment](https://images.ctfassets.net/alneenqid6w5/3ErHSFlSGyUwbLzJWaUlXw/965203e926177f608618ed0048411de6/parcelamentoautomaticous.JPG)
 
 <div class="alert alert-warning">
   Currently, only the MercadoPagoV1 affiliation allows the automatic installment function.

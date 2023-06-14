@@ -40,8 +40,8 @@ Vea a continuación el procedimiento:
 <li><code>admin</code></li>
 </ul></p>
 </div>
-7. A continuación, rellene el box __Template XHTML__ con el código de su template.![4 1](//images.ctfassets.net/alneenqid6w5/1BJRfbclbjHPUSztB6y0kP/bd95af131b622a00d9b41dee47789987/4_1.png)
-8. En la esquina superior derecha, haga clic en el botón  __Save Template__.![4 2](//images.ctfassets.net/alneenqid6w5/58ZckRTKZ2e6BbXPtx54xK/a638e74bf68dc437257a6c220d5a2c1c/4_2.png)
+7. A continuación, rellene el box __Template XHTML__ con el código de su template.![4 1](https://images.ctfassets.net/alneenqid6w5/1BJRfbclbjHPUSztB6y0kP/bd95af131b622a00d9b41dee47789987/4_1.png)
+8. En la esquina superior derecha, haga clic en el botón  __Save Template__.![4 2](https://images.ctfassets.net/alneenqid6w5/58ZckRTKZ2e6BbXPtx54xK/a638e74bf68dc437257a6c220d5a2c1c/4_2.png)
 
 Para editar un template ya existente, el proceso es casi idéntico.
 

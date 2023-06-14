@@ -16,7 +16,7 @@ announcementSynopsisES: La aplicación permite a las tiendas transmitir en vivo,
 
 La aplicación Live Shopping es responsable por revolucionar su relación con los consumidores: utilícela para realizar transmisiones en vivo en el sitio web de su tienda para promover colecciones de productos, aumentar los índices de venta y mejorar la experiencia de los usuarios de forma simultánea y en tiempo real.
 
-![live-shopping-overviewes](//images.ctfassets.net/alneenqid6w5/6QNneCank2FRHN1M5pZVF1/db72cb142151c3a0745d07c8025ced0c/-Official_Sales_Deck-_VTEX_Live_Shopping_App.png)
+![live-shopping-overviewes](https://images.ctfassets.net/alneenqid6w5/6QNneCank2FRHN1M5pZVF1/db72cb142151c3a0745d07c8025ced0c/-Official_Sales_Deck-_VTEX_Live_Shopping_App.png)
 
 La aplicación está disponible en la [VTEX App Store](https://apps.vtex.com/) y todas las tiendas que utilicen VTEX IO y Legado la pueden descargar por un precio de suscripción razonable.
 
@@ -41,7 +41,7 @@ Los controles en el Admin le permiten:
 - establecer una lista de palabras prohibidas que serán bloqueadas en el chat en tiempo real;
 - proponer encuestas y pruebas a sus usuarios.
 
-![live-shopping-event-details-es](//images.ctfassets.net/alneenqid6w5/3S1LlDHlh3P3VAZzLEgMOl/d6c04ae630f2d812789410ad5e2fe2a7/image4.png)
+![live-shopping-event-details-es](https://images.ctfassets.net/alneenqid6w5/3S1LlDHlh3P3VAZzLEgMOl/d6c04ae630f2d812789410ad5e2fe2a7/image4.png)
 
 ## ¿Cuáles son las ventajas?
 

@@ -118,6 +118,6 @@ To add a component to this page, we simply need to declare a new shelf block and
 
 If you save this in `store/blocks.json` and `vtex link` your store, you should see a new shelf rendered when visiting the home.
 
-![shelf](//images.ctfassets.net/alneenqid6w5/6Hw3fRA4E8xC0Q4bNdO6gV/8b6742fd0c57a341db0cc0baea4cfb06/shelf.svg)
+![shelf](https://images.ctfassets.net/alneenqid6w5/6Hw3fRA4E8xC0Q4bNdO6gV/8b6742fd0c57a341db0cc0baea4cfb06/shelf.svg)
 
 You can customize the blocks declared by the `store-theme` app freely, and also declare new ones yourself. For now, you can find the documentation for each component on their [GitHub repositories](https://github.com/vtex-apps?q=store-components). There, you can find the available properties for each component.

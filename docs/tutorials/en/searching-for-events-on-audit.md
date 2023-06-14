@@ -17,7 +17,7 @@ subcategory: 2TNXiKzLZOPxjMTyGiEeJu
 
 To increase transparency and trust among your store's admin users, you can see the records of multiple transactions and their respective times on Audit — a module used to search and investigate the store's transaction history with the help of filters. 
 
-![Screenshot for Audit UI for announcement](//images.ctfassets.net/alneenqid6w5/1CwFsrYwjxCIhyqcc6ei86/1cae72785358e9622b3bbf0c481bd998/Audit_EN.png)
+![Screenshot for Audit UI for announcement](https://images.ctfassets.net/alneenqid6w5/1CwFsrYwjxCIhyqcc6ei86/1cae72785358e9622b3bbf0c481bd998/Audit_EN.png)
 
 To access the Audit page, click _Store setup_ > _Audit_. On this page, you can use filters to search, check the last actions performed, and see examples of filters that can be used as a template.
 
@@ -41,11 +41,11 @@ Note that you can add more than one filter, even with the same value. In this ca
 
 For example, the search corresponding to the figure below returned results whose actions are _Payment Notification_ or _Change Status_ and whose author is _[email@email.com](mailto:email@email.com)_.
 
-![Filtros no Audit](//images.ctfassets.net/alneenqid6w5/2Bl1FZuuaa3ZeHT52FEcMD/0b57df78228a0c06aa9d2c1ff302d7d4/Audit_filters_EN.png)
+![Filtros no Audit](https://images.ctfassets.net/alneenqid6w5/2Bl1FZuuaa3ZeHT52FEcMD/0b57df78228a0c06aa9d2c1ff302d7d4/Audit_filters_EN.png)
 
 After selecting the application, the date, and other search filters, click the **Search** button to get the events that were found. 
 
-Every search you perform will be saved in the **Last searches** tab. To redo a search, go to this tab, and click the <img src="//images.ctfassets.net/alneenqid6w5/4gWsOnbLMOUeWh0r5YRDz/9b7148d995c03ca84b39473f266b46a9/refresh.png" width="15"> button corresponding to the search you want to perform again.
+Every search you perform will be saved in the **Last searches** tab. To redo a search, go to this tab, and click the <img src="https://images.ctfassets.net/alneenqid6w5/4gWsOnbLMOUeWh0r5YRDz/9b7148d995c03ca84b39473f266b46a9/refresh.png" width="15"> button corresponding to the search you want to perform again.
 
 <div class="alert alert-warning">
 This page shows only the last 50 searches. If you want to save a search indefinitely, perform the same search and add it to your browser favorites.

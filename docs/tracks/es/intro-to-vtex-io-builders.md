@@ -18,6 +18,6 @@ Las apps de VTEX IO exportan código o configuración para proporcionar features
 Estos pedazos de código y configuración generalmente requieren alguna preparación o validación para servir a su propósito. Por ejemplo, los componentes React deben tener sus dependencias extraídas y compiladas en paquetes JavaScript.
 
 El VTEX IO se encarga automáticamente de todos estos pasos, implementándolos como builders. Una vez que su app declara que utiliza un builder, la carpeta correspondiente y su contenido son procesados por él cuando se realiza el link.
-![builders](//images.ctfassets.net/alneenqid6w5/4giehwW3uYLEMkq42cFFiX/ba4d8c95146e19f7db0f55bd1a41c2d4/builders.svg)
+![builders](https://images.ctfassets.net/alneenqid6w5/4giehwW3uYLEMkq42cFFiX/ba4d8c95146e19f7db0f55bd1a41c2d4/builders.svg)
 
 El proyecto store theme utiliza dos builders principales (`store` y `styles`), pero a medida que cree apps con funciones más avanzadas, usted comenzará a usar otros builders de nivel más bajo, como `react`, `messages`, `graphql` y `node`.

@@ -231,7 +231,7 @@ Obtén más información en <a href=”https://json-schema.org/”>esquemas JSON
 
 Puedes guardar un documento en cualquier entidad de datos si el contenido es un JSON válido. Una entidad de datos puede tener asociados o no varios esquemas JSON.
 
-![Master Data schemas](//images.ctfassets.net/alneenqid6w5/CaidhUAHIxcwas8eWLQZu/3b032813aed32ec745e01d4d32cf4e87/schemas_es.jpg)
+![Master Data schemas](https://images.ctfassets.net/alneenqid6w5/CaidhUAHIxcwas8eWLQZu/3b032813aed32ec745e01d4d32cf4e87/schemas_es.jpg)
 
 <div class = "alert alert-info">
 Un documento puede ser compatible con varios esquemas JSON, o con ninguno.

@@ -17,6 +17,6 @@ Ao entrar em **Afiliações de Gateways**, é possível ver a listagem de todas 
 
 Isso significa que esta afiliação não está ativa, e sim, está em teste. É possível confirmar essa informação entrando na afiliação destacada. 
 
-![afiliação-gateway-teste pt](//images.ctfassets.net/alneenqid6w5/5fCrLnTamsyKIwY4WaEI4e/1d5e0ef719b52b6b46257032a3d5d521/gateway_teste_pt.png)
+![afiliação-gateway-teste pt](https://images.ctfassets.net/alneenqid6w5/5fCrLnTamsyKIwY4WaEI4e/1d5e0ef719b52b6b46257032a3d5d521/gateway_teste_pt.png)
 
 Ou seja, a cor destaca aquelas configurações que ainda não estão ativas.

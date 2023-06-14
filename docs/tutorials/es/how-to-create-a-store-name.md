@@ -22,7 +22,7 @@ Para crear o editar un [nombre de la tienda](https://help.vtex.com/es/tutorial/o
 4. En el dashboard de la tienda, verás los nombres de la tienda que ya hay en tu cuenta. Puedes editar la información de cada tienda, o crear un nuevo nombre de la tienda, al hacer clic en el botón **Configurar esta tienda**.
 5. Para saber cómo configurar el dominio de tus tiendas, consulta el artículo [Cambiar el dominio de la tienda](https://help.vtex.com/es/tutorial/o-que-preciso-fazer-para-mudar-o-dominio-da-minha-loja--frequentlyAskedQuestions_626).
 
-![Configuracion de nombre de tienda](//images.ctfassets.net/alneenqid6w5/6SMoOHKSbO68nfy6x5mx02/95ef9845c325ed8b55632be5ac1c3bab/ES.PNG)
+![Configuracion de nombre de tienda](https://images.ctfassets.net/alneenqid6w5/6SMoOHKSbO68nfy6x5mx02/95ef9845c325ed8b55632be5ac1c3bab/ES.PNG)
 
 Para saber cómo configurar el dominio de tus tiendas, consulta el artículo [Cambiar el dominio de la tienda](https://help.vtex.com/es/tutorial/o-que-preciso-fazer-para-mudar-o-dominio-da-minha-loja--frequentlyAskedQuestions_626).
 

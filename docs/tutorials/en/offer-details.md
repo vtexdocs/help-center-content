@@ -34,7 +34,7 @@ In <b>Offer Management</b> , you can track offers using <a href="https://help.vt
 
 ## Header
 
-![Offer details EN cabecalho](//images.ctfassets.net/alneenqid6w5/6XRh7RmJr7rfGUfVHER580/95810a56417e12b9296cd728ac3cb326/Offer_details_EN_cabecalho.jpg)
+![Offer details EN cabecalho](https://images.ctfassets.net/alneenqid6w5/6XRh7RmJr7rfGUfVHER580/95810a56417e12b9296cd728ac3cb326/Offer_details_EN_cabecalho.jpg)
 
 The header displays the main information about the offer for quick viewing, such as its image, channel, name, status, ID on VTEX, and ID on the channel. You can also make the following changes by clicking on the `Edit` button:
 
@@ -50,13 +50,13 @@ The Status block shows details about the offer status, which can be Synched, Err
 
 ### Status: Synched
 
-![Offer details PT status sucesso](//images.ctfassets.net/alneenqid6w5/6s1o33PAsB6H7X3Z0UJxaY/c2968ed1f70e475991cf6ab432099d7d/Offer_details_EN_status_sucesso.jpg)
+![Offer details PT status sucesso](https://images.ctfassets.net/alneenqid6w5/6s1o33PAsB6H7X3Z0UJxaY/c2968ed1f70e475991cf6ab432099d7d/Offer_details_EN_status_sucesso.jpg)
 
 The *Synched* status indicates that the offer has been successfully received on a channel and is being updated by both the marketplace and the seller in real time.   
 
 ### Status: Error
 
-![Offer details PT status erro](//images.ctfassets.net/alneenqid6w5/5M2tBMrTbrBloZ1093Jdjw/482919e396734cfdc6e1ccc0ba1a555b/Offer_details_EN_status_erro.jpg)
+![Offer details PT status erro](https://images.ctfassets.net/alneenqid6w5/5M2tBMrTbrBloZ1093Jdjw/482919e396734cfdc6e1ccc0ba1a555b/Offer_details_EN_status_erro.jpg)
 
 The *Error* status indicates that the system identified an issue that prevents an offer from being sent or updated on a channel, and the seller needs to take action to fix it. Errors can be generated on the VTEX seller side, such as product descriptions that exceed the character limit, and on the marketplace side, such as failed API calls.   
 
@@ -74,19 +74,19 @@ If there are still errors to be fixed, or if all errors have been fixed but the 
 
 ### Status: Unavailable
 
-![Offer details PT status indisponivel](//images.ctfassets.net/alneenqid6w5/5ASZDWJU36WcdTJPL4HyWh/5631d49b42f0b71ae84b5f6892657c7b/Offer_details_EN_status_indisponivel.jpg)
+![Offer details PT status indisponivel](https://images.ctfassets.net/alneenqid6w5/5ASZDWJU36WcdTJPL4HyWh/5631d49b42f0b71ae84b5f6892657c7b/Offer_details_EN_status_indisponivel.jpg)
 
 The *Unavailable* status indicates that the offer has been discarded for being inactive or not included in the [sales channel](https://help.vtex.com/en/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) (or trade policy) determined for the channel.
 
 ### Status: Sending
 
-![Offer details PT status enviando](//images.ctfassets.net/alneenqid6w5/4sIUmJ2FxZ02SlOCPNYEi6/1f50f1f4b63b5a94ab6747fd70ab8df5/Offer_details_EN_status_enviando.jpg)
+![Offer details PT status enviando](https://images.ctfassets.net/alneenqid6w5/4sIUmJ2FxZ02SlOCPNYEi6/1f50f1f4b63b5a94ab6747fd70ab8df5/Offer_details_EN_status_enviando.jpg)
 
 The *Sending* status indicates that the offer is being submitted to the channel. This status refers to offers that: are being submitted to the marketplace for the first time; are migrating to a new channel; or have been resent after being discarded in another channel.   
 
 ## List of interactions
 
-![Offer details PT lista interacoes](//images.ctfassets.net/alneenqid6w5/78sdw5zgXZJL8aM9wMKqVE/6a9970fc7c50d001f4bc1df358247641/Offer_details_EN_lista_interacoes.jpg)
+![Offer details PT lista interacoes](https://images.ctfassets.net/alneenqid6w5/78sdw5zgXZJL8aM9wMKqVE/6a9970fc7c50d001f4bc1df358247641/Offer_details_EN_lista_interacoes.jpg)
 
 The *Interactions* tab lists all `inventory`, `price` or `catalog` updates that that SKU has undergone. You can filter them by origin or status and adjust the number of items displayed per page. Each row corresponds to an interaction regarding that offer and includes the following data:
 

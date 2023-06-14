@@ -16,6 +16,6 @@ announcementSynopsisPT:
 
 kjevfuevd
 
-![PT Horário de funcionamento transportadora beta](//images.ctfassets.net/alneenqid6w5/7p1pOc8ng4KJCVIUUOZMtJ/e5ae82ee60854de23f4b3142720c3aa7/PT_Hor__rio_de_funcionamento_transportadora_beta.jpg)
+![PT Horário de funcionamento transportadora beta](https://images.ctfassets.net/alneenqid6w5/7p1pOc8ng4KJCVIUUOZMtJ/e5ae82ee60854de23f4b3142720c3aa7/PT_Hor__rio_de_funcionamento_transportadora_beta.jpg)
 
 jsvdcusv

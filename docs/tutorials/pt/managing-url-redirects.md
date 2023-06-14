@@ -26,7 +26,7 @@ subcategory: 1znnjA17XqaUNdNFr42PW5
 4. Na caixa de seleção, indique se esse redirecionamento é temporário ou permanente. Caso seja temporário, é preciso definir a data final.
 5. Clique em `Salvar` para finalizar.
 
-![gerenciando redirecionamentos pt 1](//images.ctfassets.net/alneenqid6w5/6WZzZNgQPLtfwP1Z8fK7S9/1492276d15ccad0d3fb36ea59f712912/image4.png)
+![gerenciando redirecionamentos pt 1](https://images.ctfassets.net/alneenqid6w5/6WZzZNgQPLtfwP1Z8fK7S9/1492276d15ccad0d3fb36ea59f712912/image4.png)
 ## Importar redirecionamento
 
 Para importar um redirecionamento, siga os passos abaixo.

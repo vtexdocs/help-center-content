@@ -29,7 +29,7 @@ Para isso, o VTEX Intelligent Search contabiliza quantas vezes nos últimos 30 d
 
 Você pode revisar as sugestões geradas e optar por uma das três ações: recusar, editar ou aprovar. Confira o passo a passo na seção a seguir.
 
-![syn-sug-pt](//images.ctfassets.net/alneenqid6w5/3bDrkDw6O6d8mHvvBKwWGm/e9091f09b67349b79a829e31b9969392/syn-sug-pt.png)
+![syn-sug-pt](https://images.ctfassets.net/alneenqid6w5/3bDrkDw6O6d8mHvvBKwWGm/e9091f09b67349b79a829e31b9969392/syn-sug-pt.png)
 
 ## Revisar sugestões
 

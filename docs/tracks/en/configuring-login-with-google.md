@@ -28,7 +28,7 @@ After configuring your Google identity platform, you need to configure your logi
 1. In the **Account Settings** module, click on the **Authentication** tab.
 2. Click on the **Edit** button corresponding to Google.
 3. Fill in the fields with the _Client Id_ and _Client Secret_ added to **Google**.
-    ![Google OAuth](//images.ctfassets.net/alneenqid6w5/67wXwVN1RaDZ5oOy6XrTSe/1dd69d7f89b79cbca4c0d3265e800c3c/google_EN.png)
+    ![Google OAuth](https://images.ctfassets.net/alneenqid6w5/67wXwVN1RaDZ5oOy6XrTSe/1dd69d7f89b79cbca4c0d3265e800c3c/google_EN.png)
 4. Click on the **Save** button.
 5. To confirm whether your login was successfully configured, access the front-end of your store and click on **Login**.
 6. The configured login options will be shown. Click on the **Google** option and check whether your store name is displayed.

@@ -54,7 +54,7 @@ El módulo de **Inventario y envío** se divide en las siguientes secciones:
 * **Configuración**: configuraciones logísticas generales, como la activación de la notificación de stock crítico.
 * **[Puntos de recogida](https://help.vtex.com/es/tutorial/puntos-de-recogida--2fljn6wLjn8M4lJHA6HP3R)**: sección para registrar los puntos físicos donde los clientes pueden recoger sus pedidos.
 
-![estoque e entregaES](//images.ctfassets.net/alneenqid6w5/21rlEVE55jPh2hYBKTn99U/a66b016481c796b9170823b1c111d3d9/estoque_e_entregaES.png)
+![estoque e entregaES](https://images.ctfassets.net/alneenqid6w5/21rlEVE55jPh2hYBKTn99U/a66b016481c796b9170823b1c111d3d9/estoque_e_entregaES.png)
 
 <div class = "alert alert-info">
 Los clientes que utilizan <a href="https://vtex.com/ar-es/">VTEX Shipping Network</a> acceden a la funcionalidad a través del módulo Inventario y envío.

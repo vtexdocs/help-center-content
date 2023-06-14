@@ -33,7 +33,7 @@ No Admin VTEX, a página **Storefront** > **Intelligent Search** > **Regras de m
 * [Editar regra de merchandising](#editar-regras-de-merchandising)
 * [Deletar regra de merchandising](#deletar-regras-de-merchandising)
 
-![configurar regras de merchandising-pt](//images.ctfassets.net/alneenqid6w5/4RIkVevSJArI3LhEHjELHu/cb0f5d067d0e668c84a6cec1dd1fdbf5/image.png)
+![configurar regras de merchandising-pt](https://images.ctfassets.net/alneenqid6w5/4RIkVevSJArI3LhEHjELHu/cb0f5d067d0e668c84a6cec1dd1fdbf5/image.png)
 
 | Coluna | Descrição |
 | - | - |

@@ -43,7 +43,7 @@ Los siguientes campos son opcionales en la plantilla, se exportan solo para exhi
 <table width="100%">
   <tr>
    <td>
-    <img src="https://images.ctfassets.net/alneenqid6w5/2XX0xwgVreVnFb6U2rjJR7/900c3bc9557aabaa87811369ce785581/baseprices_table.png" style="display: block; margin-left: auto; margin-right: auto;" alt="base prices table" title="base prices table">
+    <img src="https:https://images.ctfassets.net/alneenqid6w5/2XX0xwgVreVnFb6U2rjJR7/900c3bc9557aabaa87811369ce785581/baseprices_table.png" style="display: block; margin-left: auto; margin-right: auto;" alt="base prices table" title="base prices table">
    </td>
   </tr>
   <tr>

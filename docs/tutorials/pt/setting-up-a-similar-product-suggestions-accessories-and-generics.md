@@ -34,7 +34,7 @@ Para te auxiliar na utilização da técnicas acima podemos utilizar os campos n
 4. Preencha os campos corretamente conforme indicação abaixo.
 5. Clique no botão `Salvar`.
 
-![produto-similar-sugestão-acessório-exemplo pt](//images.ctfassets.net/alneenqid6w5/2Eg0eAnNjCkWu6acGQYq4Q/02418b5ba84fbbca1c8269ebcbc51d96/produto-simular-sugest__o-acess__rio-exemplo_pt.png)
+![produto-similar-sugestão-acessório-exemplo pt](https://images.ctfassets.net/alneenqid6w5/2Eg0eAnNjCkWu6acGQYq4Q/02418b5ba84fbbca1c8269ebcbc51d96/produto-simular-sugest__o-acess__rio-exemplo_pt.png)
 
 **Acessórios:** nesse campo cadastramos os produtos que devem ser vendidos como complemento de um outro produto. Nesta opção os produto cadastrados como acessórios são mostrados como opção de compra com o checkbox de seleção habilitado (função feita no layout).
 

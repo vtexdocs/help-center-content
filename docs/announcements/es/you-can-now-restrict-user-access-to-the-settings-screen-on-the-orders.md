@@ -20,7 +20,7 @@ A partir del 25 de junio de 2019, el usuario que no tenga acceso vinculado al pe
 
 Con el fin de garantizar una mayor seguridad, creamos la posibilidad de limitar perfiles de acceso en la pantalla **Configuración**, permitiendo que solo algunos usuarios editen las informaciones.
 
-![2019-06-07 17 24 38-Configuración.es](//images.ctfassets.net/alneenqid6w5/1SrUApvjjUxaUZRJfJnqwB/b597be4eb4343dbf03e74feee5cb5cdc/2019-06-07_17_24_38-Configuraci__n.es.png)
+![2019-06-07 17 24 38-Configuración.es](https://images.ctfassets.net/alneenqid6w5/1SrUApvjjUxaUZRJfJnqwB/b597be4eb4343dbf03e74feee5cb5cdc/2019-06-07_17_24_38-Configuraci__n.es.png)
 
 ## Principales ventajas
 
@@ -40,6 +40,6 @@ Para hacer esto es necesario añadir un producto llamado `Checkout` al perfil de
  6. Elija el tipo de permiso deseado: `Save Order Configuration`, para permitir al usuario editar la sección **Pedidos**, o `Save OrderForm Configuration`, para permitir al usuario editar la sección **Carrito**.
  7. Haga clic en **Guardar**
 
-![GIT-Checkout.es](//images.ctfassets.net/alneenqid6w5/245LTWQExeQEmDWb7HrAyZ/9acea81b01288dd051acffec409a2984/GIT-Checkout.es.gif)
+![GIT-Checkout.es](https://images.ctfassets.net/alneenqid6w5/245LTWQExeQEmDWb7HrAyZ/9acea81b01288dd051acffec409a2984/GIT-Checkout.es.gif)
 
 Después de añadir este nuevo producto a un perfil, asegúrese de que los usuarios deseados están asociados a este perfil de acceso.

@@ -15,7 +15,7 @@ subcategory: 27t6x0lngvjI3bnUg5AgEO
 ---
 
 Media is responsible for managing your store's media files, such as images and GIFs. With Media, you can upload and organize media files in the following formats: `PNG`, `JPG`, `GIF`, `SVG`, and `WEBP`.
-![Media Overview](//images.ctfassets.net/alneenqid6w5/3HL6n5pBx5OpIyJMmPccuZ/4151c07cdf6675310b41607256633894/en-media-overview.png)
+![Media Overview](https://images.ctfassets.net/alneenqid6w5/3HL6n5pBx5OpIyJMmPccuZ/4151c07cdf6675310b41607256633894/en-media-overview.png)
 
 In addition, Media is integrated with **Site Editor** and **Headless CMS**. This integration allows you to access and manage Media directly through VTEX CMS solutions.
 
@@ -35,7 +35,7 @@ There are three ways to access Media:
 
 In the following image, you can see an overview of the Media interface and the actions available for managing your media files:
 
-![Media Features](//images.ctfassets.net/alneenqid6w5/2teyzkUy2zP5vjMLPxlXgD/7466fed34ed8183fde0b9d61e68b9e1f/en-media-features.png)
+![Media Features](https://images.ctfassets.net/alneenqid6w5/2teyzkUy2zP5vjMLPxlXgD/7466fed34ed8183fde0b9d61e68b9e1f/en-media-features.png)
 
 | Field | Description |
 | ---------- | ------------- |

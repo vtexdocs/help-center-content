@@ -31,7 +31,7 @@ Here's how to do so:
 5. Go to the __HTML__ box.  
 6. Enter the __code__ of the images you want to insert. 
 
-  ![Let me know - EN](https://images.ctfassets.net/alneenqid6w5/57IqVpUH7SZKkH8sRtlfSf/7911794b89b0b35d0d59a6ece5c05c30/57IqVpUH7SZKkH8sRtlfSf_Imagem_Message_Center_EN.jpg)
+  ![Let me know - EN](https:https://images.ctfassets.net/alneenqid6w5/57IqVpUH7SZKkH8sRtlfSf/7911794b89b0b35d0d59a6ece5c05c30/57IqVpUH7SZKkH8sRtlfSf_Imagem_Message_Center_EN.jpg)
 
 7. Click `Save`.  
 

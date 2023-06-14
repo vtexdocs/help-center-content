@@ -85,5 +85,5 @@ Cuidados com o preenchimento da planilha:
   </body>
 </div>
 
-![menu importação de serviços](//images.ctfassets.net/alneenqid6w5/6VXBtxVKQvnNvqEwCI09dZ/15a4abddec959d9efdd9ae97f4116b97/importacao_servi__os.png)
+![menu importação de serviços](https://images.ctfassets.net/alneenqid6w5/6VXBtxVKQvnNvqEwCI09dZ/15a4abddec959d9efdd9ae97f4116b97/importacao_servi__os.png)
 

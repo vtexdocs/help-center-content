@@ -37,7 +37,7 @@ Nas etapas abaixo, iremos utilizar o cartão de crédito como exemplo de condiç
 
 ### À vista
 
-![pagamento-a-vista pt](//images.ctfassets.net/alneenqid6w5/16U7FyAeXiC88gWCwkKmSU/b07c00338cbbf59430ec4e5a322e0159/pagamento-a-vista.png)
+![pagamento-a-vista pt](https://images.ctfassets.net/alneenqid6w5/16U7FyAeXiC88gWCwkKmSU/b07c00338cbbf59430ec4e5a322e0159/pagamento-a-vista.png)
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. Na aba __Condições de Pagamentos__, clique no botão __+__.
@@ -55,7 +55,7 @@ No Passo 5. você pode escolher outros métodos de pagamento como cartões de d�
 
 ### Parcelado sem juros
 
-![parcelamento-sem-juros pt](//images.ctfassets.net/alneenqid6w5/5UuCXeD07moeaQiqqmuCMe/05b2cdeeac157859c9ffadce866eaebf/parcelamento-sem-juros.png)
+![parcelamento-sem-juros pt](https://images.ctfassets.net/alneenqid6w5/5UuCXeD07moeaQiqqmuCMe/05b2cdeeac157859c9ffadce866eaebf/parcelamento-sem-juros.png)
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. Na aba __Condições de Pagamentos__, clique no botão __+__.
@@ -72,7 +72,7 @@ No Passo 5. você pode escolher outros métodos de pagamento como cartões de d�
 
 ### Parcelado com juros
 
-![parcelamento-com-juros pt](//images.ctfassets.net/alneenqid6w5/46wBJ8tCUgCaWmAyOgkycY/cada24446ff801ebffdcf02c5aa4b0e7/parcelamento-com-juros.png)
+![parcelamento-com-juros pt](https://images.ctfassets.net/alneenqid6w5/46wBJ8tCUgCaWmAyOgkycY/cada24446ff801ebffdcf02c5aa4b0e7/parcelamento-com-juros.png)
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. Na aba __Condições de Pagamentos__, clique no botão __+__.
@@ -90,7 +90,7 @@ No Passo 5. você pode escolher outros métodos de pagamento como cartões de d�
 14. Para escolher entre juros compostos e juros simples, clique em __Juros compostos aplicados. Alterar__. Uma caixa de seleção vai aparecer oferecendo as duas opções.
 15. Clique em __Salvar__.
 
-![Juros - pt](//images.ctfassets.net/alneenqid6w5/6LByLxJORIELFs7gTY3kmA/ce12cf0d03887377566de5eeadd0ed98/Juros_-_pt.png)
+![Juros - pt](https://images.ctfassets.net/alneenqid6w5/6LByLxJORIELFs7gTY3kmA/ce12cf0d03887377566de5eeadd0ed98/Juros_-_pt.png)
 
 #### Juros Externos
 
@@ -106,5 +106,5 @@ Atenção: a funcionalidade de juros externos é válida apenas para algumas afi
 2. Na aba __Condições de Pagamentos__, clique sobre a condição de pagamento que deseja remover.
 3. Clique sobre o ícone de lixeira.
 
-![Remover condição de pagamento](//images.ctfassets.net/alneenqid6w5/30AGmwCJOclqEqvcNPzuxV/9486e6e1036228c2ad8dfa7d0685768e/remover_condi____o_pagamento.png)
+![Remover condição de pagamento](https://images.ctfassets.net/alneenqid6w5/30AGmwCJOclqEqvcNPzuxV/9486e6e1036228c2ad8dfa7d0685768e/remover_condi____o_pagamento.png)
 

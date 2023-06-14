@@ -164,7 +164,7 @@ Después de llevar a cabo este procedimiento, las especificaciones creadas y sus
 
 Además, a partir de las opciones creadas, la lista de SKU posibles se genera automáticamente y se muestra en la sección **[Variaciones](#variaciones)**.
 
-![variations ES](//images.ctfassets.net/alneenqid6w5/DkJNVLdFQ6BuBUDPwt2Xj/74c9b1a069394f60e647acd42130f24c/variations_ES.png)
+![variations ES](https://images.ctfassets.net/alneenqid6w5/DkJNVLdFQ6BuBUDPwt2Xj/74c9b1a069394f60e647acd42130f24c/variations_ES.png)
 
 ## Especificaciones
 
@@ -218,7 +218,7 @@ Para editar un gran número de variaciones a la vez, puede utilizar la funcional
 
 1. Haga clic en el botón `Edición en masa` para abrir la plantilla de edición de variaciones.
 2. Para editar la información en la plantilla, debe hacer doble clic en el campo que desee modificar.
-![edicao-massa-SKU-ES](//images.ctfassets.net/alneenqid6w5/6WRJU5vCWJKjH0ULhdbCdV/def837067f47c559d8199af8c9de8169/image.png)
+![edicao-massa-SKU-ES](https://images.ctfassets.net/alneenqid6w5/6WRJU5vCWJKjH0ULhdbCdV/def837067f47c559d8199af8c9de8169/image.png)
 
 En la plantilla puede editar la siguiente información:
 - **Activo:** indica si la variación está activa o no.
@@ -234,7 +234,7 @@ En la plantilla puede editar la siguiente información:
 Para filtrar las columnas mostradas en la plantilla, haga clic en `Filtrar columnas` y seleccione las columnas que desee ocultar.
 
 Puede replicar la información de una celda a otras filas y columnas. Para ello, haga clic en el cuadrado azul en la esquina inferior derecha de la celda y arrástrelo a las celdas en las que desee replicar automáticamente el valor, como se muestra en la imagen a continuación.
-![Formatacao-celula-ES](//images.ctfassets.net/alneenqid6w5/7cFtECFGcmmDTQ6Oy3qGTg/bc801e55c612036ff1c0481bb1cc3bc3/Formatacao-celula-ES.gif)
+![Formatacao-celula-ES](https://images.ctfassets.net/alneenqid6w5/7cFtECFGcmmDTQ6Oy3qGTg/bc801e55c612036ff1c0481bb1cc3bc3/Formatacao-celula-ES.gif)
 3. Después de editar, haga clic en `Aplicar` para guardar los cambios.
 
 ## SEO

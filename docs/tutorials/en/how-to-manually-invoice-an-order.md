@@ -33,7 +33,7 @@ To send the invoice via VTEX Admin, follow the steps below:
 2. Search for the order by using the search bar [or the filters](https://help.vtex.com/en/tutorial/como-filtrar-pedidos--tutorials_192).  
 3. Click the desired order.     
 4. Scroll down to the Invoice to items section, and click on the arrow icon <i class="fas fa-chevron-right"></i> to expand.  
-![Itens faturarEN](//images.ctfassets.net/alneenqid6w5/2wScKr5ZaHShpyntCuN0jy/c88e7dc843b651ed6b703ed4cd05ba3c/Itens_faturarEN.png)
+![Itens faturarEN](https://images.ctfassets.net/alneenqid6w5/2wScKr5ZaHShpyntCuN0jy/c88e7dc843b651ed6b703ed4cd05ba3c/Itens_faturarEN.png)
 5. Click the `Invoice` button. 
 6. Click the desired billing option:      
     * **Submit invoice referencing items:** to invoice the order referencing the package items.  
@@ -63,7 +63,7 @@ To send the invoice via VTEX Admin, follow the steps below:
 
 After the order is `Invoiced`, go to the **Invoice** section to check the invoices added, as shown in the image below:
 
-![FaturaEN](//images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/1f68c545e4a42383d85aa82b7dd6ba96/FaturaEN.png)
+![FaturaEN](https://images.ctfassets.net/alneenqid6w5/24K1rMqn970zgeKxK81f3Z/1f68c545e4a42383d85aa82b7dd6ba96/FaturaEN.png)
 
 For [partial invoices](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), when [changing or removing items from an order](https://help.vtex.com/en/tutorial/how-to-change-order-items--7jekq618QxgbsOxKkXBjE8), the order total will be updated after invoicing and will correspond to what is captured by the VTEX payment gateway.
 

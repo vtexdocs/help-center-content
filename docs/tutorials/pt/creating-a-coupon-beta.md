@@ -39,7 +39,7 @@ O formulário para criar ou editar um cupom apresenta as seguintes seções:
 
 O painel superior do formulário de criação e edição de cupom, ilustrado abaixo, apresenta a quantidade de vezes em que o cupom foi utilizado e a quantidade de promoções vinculadas ao cupom.
 
-![usos-do-cupom-promocoes-vinculadas](//images.ctfassets.net/alneenqid6w5/3HAiF63zYFGjrfOnBCl5Hb/7642e6bfa91548c82c851d849fd34a87/criar-cupom-1.png)
+![usos-do-cupom-promocoes-vinculadas](https://images.ctfassets.net/alneenqid6w5/3HAiF63zYFGjrfOnBCl5Hb/7642e6bfa91548c82c851d849fd34a87/criar-cupom-1.png)
 
 Ao clicar em qualquer uma dessas informações no painel, você tem acesso ao modal **Ver detalhes de uso**, que apresenta os dados descritos a seguir:
 
@@ -51,11 +51,11 @@ Ao clicar em qualquer uma dessas informações no painel, você tem acesso ao mo
 
     Caso o cupom seja único, esta seção apresenta a lista de pedidos em que o cupom foi utilizado e permite buscar pelo número de um pedido. Ao clicar no número de um pedido, você será conduzido para a página de detalhes do pedido no **Gerenciamento de pedidos**.
 
-  ![ver-detalhes-de-uso](//images.ctfassets.net/alneenqid6w5/1bFOCXCpWwoXzJToacK3BM/bcd304169c9f0763693e8d85f54e3e01/ver-detalhes-de-uso.png "Detalhes de uso de um cupom único")
+  ![ver-detalhes-de-uso](https://images.ctfassets.net/alneenqid6w5/1bFOCXCpWwoXzJToacK3BM/bcd304169c9f0763693e8d85f54e3e01/ver-detalhes-de-uso.png "Detalhes de uso de um cupom único")
 
     Caso seja um grupo de cupons, esta seção apresenta a lista de códigos do grupo de cupons e permite buscar por um código específico. Ao clicar em um código, você tem acesso à lista de pedidos em que o código foi utilizado e pode buscar pelo número de um pedido. Clicando no número de um pedido, você será conduzido para a página de detalhes do pedido no **Gerenciamento de pedidos**.
 
-  ![selecione-o-codigo-grupo-cupons](//images.ctfassets.net/alneenqid6w5/25yE4tmkHYDm4MISaz9upH/87b9f4e806c8d2c0b4399d64524658b4/Group_2__4_.png "Detalhes de uso de um grupo de cupons")
+  ![selecione-o-codigo-grupo-cupons](https://images.ctfassets.net/alneenqid6w5/25yE4tmkHYDm4MISaz9upH/87b9f4e806c8d2c0b4399d64524658b4/Group_2__4_.png "Detalhes de uso de um grupo de cupons")
 
 ### Geral
 
@@ -91,7 +91,7 @@ Após salvar o novo cupom, se você tiver criado um [grupo de cupons](https://he
 * <i class="far fa-clone"></i> **Copiar tudo:** permite copiar os códigos gerados para a sua área de transferência. Posteriormente, se desejar, você pode colá-los em um editor de planilhas como o Excel ou o Google Sheets. Também é possível copiar cada código clicando sobre ele.
 * **Exportar:** permite exportar os códigos gerados para um arquivo CSV. O arquivo exportado contém uma coluna, com um código por linha.
 
-![cupons-gerados-pt](//images.ctfassets.net/alneenqid6w5/3Ar3vHIyynacQr9vJ5qUf3/094bd2aaca673c282bba6a95f688a1b4/cupons-gerados-pt.gif)
+![cupons-gerados-pt](https://images.ctfassets.net/alneenqid6w5/3Ar3vHIyynacQr9vJ5qUf3/094bd2aaca673c282bba6a95f688a1b4/cupons-gerados-pt.gif)
 
 ## Vincular o cupom a uma promoção
 

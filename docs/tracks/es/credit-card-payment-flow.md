@@ -31,7 +31,7 @@ Para saber más sobre los agentes financieros involucrados en el flujo de pago d
 El flujo completo para pago por tarjeta de crédito en VTEX puede ser descrito por la siguiente imagen.  
 
 <br/>
-![Cartão de crédito - Fluxo básico de um pagamento](//images.ctfassets.net/alneenqid6w5/64zjpwrBkpqbOhR7vtZhKs/424c414ed06f81c4edcc676773fd00d9/Fluxo_Cart__o_de_Cr__dito.jpg)
+![Cartão de crédito - Fluxo básico de um pagamento](https://images.ctfassets.net/alneenqid6w5/64zjpwrBkpqbOhR7vtZhKs/424c414ed06f81c4edcc676773fd00d9/Fluxo_Cart__o_de_Cr__dito.jpg)
 <br/>
 
 1. En la pantalla de Checkout de su tienda, el cliente elige el **Medio de pago** _tarjeta de crédito_ para realizar el pago de su compra.

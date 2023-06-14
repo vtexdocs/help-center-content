@@ -32,4 +32,4 @@ To add a loading dock to a store's admin, follow the steps detailed in this [lin
 ### Carrier
 A carrier is used to distribute orders to the their respective end users and is comprised of a fleet of vehicles that will perform the actual deliveries. The distribution center sends orders out for delivery directly to the carrier that will be used to complete the process until its final destination.
 
-![EN Conceitos Logística](//images.ctfassets.net/alneenqid6w5/4G4LhYlo2dWZKdyM17uxry/745f847e0eae518e231c98bfff99906e/EN_Conceitos_Log__stica.png)
+![EN Conceitos Logística](https://images.ctfassets.net/alneenqid6w5/4G4LhYlo2dWZKdyM17uxry/745f847e0eae518e231c98bfff99906e/EN_Conceitos_Log__stica.png)

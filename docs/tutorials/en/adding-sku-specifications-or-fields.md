@@ -42,7 +42,7 @@ Before creating any specifications, it's important to understand that they follo
 
 Example: consider a **Men's shirt** product. In __Catalog > Products and SKUs > SKU > Specifications__, as illustrated in the page below, we can see that the specification group called **Characteristics** is associated with the Shirt category. This group includes a field named **Color** and a field named **Size**.
 
-![heranca-especificacoes-sku-en](//images.ctfassets.net/alneenqid6w5/1KPyqwiasQnbeEhBZ8K5ZJ/1dd8ca5d13bf8f288cac031795bf85ea/sku-specifications-inheritance-en.PNG)
+![heranca-especificacoes-sku-en](https://images.ctfassets.net/alneenqid6w5/1KPyqwiasQnbeEhBZ8K5ZJ/1dd8ca5d13bf8f288cac031795bf85ea/sku-specifications-inheritance-en.PNG)
 
 Since this is an SKU specification, the information selected on that page will apply only to the **Men's Shirt** product variations. All SKUs added to the **Men's Shirt** category and all product SKUs of the same category must also have these specifications filled out.
 
@@ -84,7 +84,7 @@ To create an SKU field, follow the instructions below:
     * **Active**: Inserts or removes this field when adding an SKU.
 7. Click `Save`.
 
-![sku-spec-1](//images.ctfassets.net/alneenqid6w5/5b2UFRxvAQ6BoL6eStxf0D/3c508d340371923bcc233d8737197b66/en-sku-spec-2.gif)
+![sku-spec-1](https://images.ctfassets.net/alneenqid6w5/5b2UFRxvAQ6BoL6eStxf0D/3c508d340371923bcc233d8737197b66/en-sku-spec-2.gif)
 
 #### SKU Field types
 
@@ -129,13 +129,13 @@ The **Values** of the SKU fields will vary according to the selected field type:
 
     Insert one value per row and press `Enter` after each value, as illustrated in the image below.
 
-    ![valores-campo-sku-en](//images.ctfassets.net/alneenqid6w5/7puatHudsAbkAY9NUKpWYh/f7aa05de7fb5964660b912f2aa2f0b24/valores-especificacoes-sku-en.PNG)
+    ![valores-campo-sku-en](https://images.ctfassets.net/alneenqid6w5/7puatHudsAbkAY9NUKpWYh/f7aa05de7fb5964660b912f2aa2f0b24/valores-especificacoes-sku-en.PNG)
 
 8. Click `Save`.
 
     The added values will be displayed in the [SKU registration interface](#sku-registration).
 
-![sku-spec-2](//images.ctfassets.net/alneenqid6w5/5MwO6aTSuIzCbxlrnzjTHQ/a6da423b96ac0edb46837b590e7a030f/en-sku-spec-2.gif)
+![sku-spec-2](https://images.ctfassets.net/alneenqid6w5/5MwO6aTSuIzCbxlrnzjTHQ/a6da423b96ac0edb46837b590e7a030f/en-sku-spec-2.gif)
 
 <div class = "alert alert-info">
   <p>If you are adding values for the first time in a field, you must return to the form of that specific field and check the <strong>Active</strong> option.</p>
@@ -179,7 +179,7 @@ To fill in the specifications for each SKU individually, follow the instructions
 
 8. Click `Save`.
 
-![sku-spec-3](//images.ctfassets.net/alneenqid6w5/6mV0lyVG6Z2ywmtNheePEf/caa7782074d6311b0ac3b7182258464d/en-sku-spec-3.gif)
+![sku-spec-3](https://images.ctfassets.net/alneenqid6w5/6mV0lyVG6Z2ywmtNheePEf/caa7782074d6311b0ac3b7182258464d/en-sku-spec-3.gif)
 
 #### Spreadsheet
 
@@ -202,7 +202,7 @@ To fill in SKU specifications in bulk using a spreadsheet, first you must export
 9. Click **Select** to select the file with the filled out spreadsheet from your computer.
 10. Click `Import`.
 
-![sku-spec-4](//images.ctfassets.net/alneenqid6w5/6apU0Qp7SqnH6ZfPT5lzrr/9fb7eb05a187b6cd90ad963067ca1223/en-sku-spec-4.gif)
+![sku-spec-4](https://images.ctfassets.net/alneenqid6w5/6apU0Qp7SqnH6ZfPT5lzrr/9fb7eb05a187b6cd90ad963067ca1223/en-sku-spec-4.gif)
 
 ## Learn more
 - [Adding product specifications or fields](https://help.vtex.com/en/tutorial/adding-specifications-or-product-fields--tutorials_106)
