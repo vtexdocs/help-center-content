@@ -1,0 +1,17 @@
+---
+title: Definir la Estrategia de Envío
+id: 69cLhDK7PGOqgSs2EyqMke
+status: PUBLISHED
+createdAt: 2018-09-24T19:51:55.267Z
+updatedAt: 2022-01-18T22:08:54.766Z
+publishedAt: 2022-01-18T22:08:54.766Z
+firstPublishedAt: 2018-09-27T22:13:49.998Z
+contentType: trackArticle
+productTeam: Channels
+slug: definir-la-estrategia-de-envio-via
+trackId: 3E9XylGaJ2wqwISGyw4GuY
+trackSlugES: configurar-la-integracion-de-via-varejo
+---
+
+<div class="alert alert-warning" role="alert">Este contenido es exclusivamente regional; 
+por lo tanto, no se aplica a los países de habla española.</div>

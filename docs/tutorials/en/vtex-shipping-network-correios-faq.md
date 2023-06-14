@@ -1,0 +1,18 @@
+---
+title: VTEX Shipping Network Correios: FAQ
+id: 2Wavf7Wie5GEUAEHKtn5oC
+status: PUBLISHED
+createdAt: 2023-06-01T13:24:23.895Z
+updatedAt: 2023-06-09T12:55:42.194Z
+publishedAt: 2023-06-09T12:55:42.194Z
+firstPublishedAt: 2023-06-01T14:47:24.289Z
+contentType: tutorial
+productTeam: Post-purchase
+author: 5l9ZQjiivHzkEVjafL4O6v
+slug: vtex-shipping-network-correios-faq
+legacySlug: vtex-shipping-network-correios-faq
+subcategory: 5n5MnINzWTQUX1I2EZl4Ib
+---
+
+<div class="alert alert-warning" role="alert">
+This is a regional exclusive content not applicable to English speaking countries.</div>

@@ -1,0 +1,78 @@
+---
+title: Importar dados de clientes
+id: 2zWYVOyj0sISYQmeUwCsI0
+status: PUBLISHED
+createdAt: 2017-06-22T20:55:49.745Z
+updatedAt: 2022-10-17T20:32:21.800Z
+publishedAt: 2022-10-17T20:32:21.800Z
+firstPublishedAt: 2017-06-27T14:40:29.106Z
+contentType: tutorial
+productTeam: Master Data
+author: authors_4
+slug: importando-dados-de-clientes-brasil
+legacySlug: importando-dados-de-clientes-brasil
+subcategory: 42hDtnYXHw5ExG6l19RP1l
+---
+
+A importação de dados de clientes deve ser feita no Master Data. Para o envio de dados, use o artigo [Importando dados no Master Data](/pt/tutorial/importando-dados-no-master-data).
+
+<div class="alert alert-danger">
+<p>Este artigo se refere aos campos do Master Data v1 especificamente para as lojas do <strong>Brasil</strong>.</p>
+<p>Você também pode conferir o guia sobre como <a href="https://developers.vtex.com/vtex-rest-api/docs/setting-up-triggers-in-master-data-v2">importar dados de clientes programaticamente com a API do Master Data v2</a>.</p>
+</div>
+
+O checkout trabalha com os dados das entidades CL (cliente) e AD (endereço).
+
+Mas é importante notar que, para que o checkout já traga os dados do cliente no carrinho com base no e-mail, chave primária do Master Data, é fundamental garantir que todos os dados a seguir estejam corretamente cadastrados na plataforma.
+
+Dito isso, as tabelas a seguir representam os dados o formatos necessários para a importação.
+
+### Cliente
+
+| Nome do campo | Descrição | Formato |
+|---------------|-----------|---------|
+| firstName | nome | texto |
+| lastName | sobrenome | texto |
+| email | e-mail do cliente | email |
+| documentType | Tipo do documento | para Brasil deve ser "cpf" |
+| document | Documento (CPF) | 11 dígitos, sem máscara |
+| homePhone | Telefone | no formato "+5511999999999", sendo +55 para o país e sucedido   pelo telefone com DDD |
+
+O campo `id` é gerado pelo sistema logo após a importação, e será usado como `userId` na importação do endereço.
+
+O campo `userId` dos clientes deve ser deixado em branco, e não será usado neste momento. Será gerado pelo sistema após a primeira compra do cliente.
+
+Se o cliente for **pessoa jurídica**, `document` e `documentType` deixam de ser obrigatórios e os seguintes campos adicionais devem ser preenchidos:
+
+| Nome do campo | Descrição | Formato |
+|---------------|-----------|---------|
+| isCorporate | define se o cliente é pessoa jurídica | deve ser "true" |
+| corporateName | razão social | texto |
+| tradeName | nome fantasia | texto |
+| stateRegistration | inscrição estadual | deve ser "Isento" ou texto/alfanumérico |
+| corporateDocument | CNPJ | 14 dígitos, sem máscara |
+
+### Endereço
+
+É obrigatório que os clientes possuam pelo menos um endereço.
+
+| Nome do campo | Descrição | Formato |
+|---------------|-----------|---------|
+| id | ID do endereço | em branco |
+| userId | ID do cliente | campo `id`, gerado após importação de clientes |
+| addressName | nome do endereço | texto/alfanumérico |
+| addressType | tipo do endereço | deve ser "residential" ou "commercial" |
+| country | país | "BRA" para Brasil |
+| state | estado (UF) | duas letras |
+| city | cidade | texto |
+| neighborhood | bairro | texto |
+| postalCode | CEP | 8 ou 9 dígitos, com hífen |
+| street | endereço | texto |
+| number | número | alfanumérico |
+| complement | Complemento e referência | texto |
+| reference | campo não usado | em branco |
+| receiverName | destinatário | texto |
+
+---
+
+Caso os dados (cliente ou endereço) não estejam consistentes, incluindo CPF/CNPJ válidos, o checkout não irá completar os dados do cliente e ele fará a compra como um novo usuário.
