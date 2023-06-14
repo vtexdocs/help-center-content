@@ -4,7 +4,6 @@ id: tutorials_668
 status: DRAFT
 createdAt: 2017-04-27T21:59:19.117Z
 updatedAt: 2021-01-20T01:36:51.796Z
-publishedAt: 
 firstPublishedAt: 2017-04-27T23:03:41.575Z
 contentType: tutorial
 productTeam: Others
