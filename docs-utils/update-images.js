@@ -24,6 +24,7 @@ const getExtension = (url) => {
 const updateImages = async (filepath) => {
   const content = fs.readFileSync(filepath, 'utf-8')
   const slug = frontmatter(content).attributes.slug
+  const locale = frontmatter(content).attributes.locale
   
   const images = []
   const replaceURL = (match, extra, url) => {
@@ -40,7 +41,7 @@ const updateImages = async (filepath) => {
         url
       })
 
-      newURL = `${baseURL}/images/${filename}`
+      newURL = `${baseURL}/images/${locale}/${filename}`
     } else if (path.isAbsolute(url)) {
       newURL = `${baseURL}${url}`
     } else {
