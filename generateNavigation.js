@@ -35,7 +35,7 @@ const navigation = { navbar: [
     documentation: 'News',
     slugPrefix: 'updates/announcements',
     categories: []
-  }
+  },
 ] };
 
 function getTutorialEndpoints(endpointIds) {
@@ -131,6 +131,21 @@ function getNews() {
     yearCategory.children.sort((a, b) => b.publishedAt - a.publishedAt)
   });
   const newsCategories = [];
+  const months = [
+    { en: 'January', es: 'Enero', pt: 'Janeiro' },
+    { en: 'February', es: 'Febrero', pt: 'Fevereiro' },
+    { en: 'March', es: 'Marzo', pt: 'Março' },
+    { en: 'April', es: 'Abril', pt: 'Abril' },
+    { en: 'May', es: 'Mayo', pt: 'Maio' },
+    { en: 'June', es: 'Junio', pt: 'Junho' },
+    { en: 'July', es: 'Julio', pt: 'Julho' },
+    { en: 'August', es: 'Agosto', pt: 'Agosto' },
+    { en: 'September', es: 'Septiembre', pt: 'Setembro' },
+    { en: 'October', es: 'Octubre', pt: 'Outubro' },
+    { en: 'November', es: 'Noviembre', pt: 'Novembro' },
+    { en: 'December', es: 'Diciembre', pt: 'Dezembro' },
+  ];
+
   for (let i = 0; i < news.length; i++) {
     const value = news[i];
     const newsCategory = {
@@ -141,15 +156,30 @@ function getNews() {
       },
       slug: `news-category-${value.year}`,
       origin: '',
-      children: value.children.map(({ name, slug }) => {
+      type: 'category',
+      children: months.map((month) => {
         return {
-          name,
-          slug,
+          name: month,
+          slug: `news-category-${value.year}-${month.en}`,
           origin: '',
+          type: 'category',
           children: []
         }
       })
     };
+
+    value.children.forEach(({ name, slug, publishedAt }) => {
+      const fileDate = new Date(publishedAt);
+      const month = fileDate.getUTCMonth();
+      newsCategory.children[month].children.push({
+        name,
+        slug,
+        origin: '',
+        type: 'markdown',
+        children: []
+      });
+    })
+
     newsCategories.push(newsCategory);
   }
 
