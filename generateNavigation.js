@@ -148,6 +148,28 @@ function getNews() {
 
   for (let i = 0; i < news.length; i++) {
     const value = news[i];
+    const monthCategories = months.map((month) => {
+      return {
+        name: month,
+        slug: `news-category-${value.year}-${month.en}`,
+        origin: '',
+        type: 'category',
+        children: []
+      }
+    });
+
+    value.children.forEach(({ name, slug, publishedAt }) => {
+      const fileDate = new Date(publishedAt);
+      const month = fileDate.getUTCMonth();
+      monthCategories[month].children.push({
+        name,
+        slug,
+        origin: '',
+        type: 'markdown',
+        children: []
+      });
+    })
+
     const newsCategory = {
       name: {
         "en": `${value.year}`,
@@ -157,28 +179,8 @@ function getNews() {
       slug: `news-category-${value.year}`,
       origin: '',
       type: 'category',
-      children: months.map((month) => {
-        return {
-          name: month,
-          slug: `news-category-${value.year}-${month.en}`,
-          origin: '',
-          type: 'category',
-          children: []
-        }
-      })
+      children: monthCategories.filter((e) => e.children.length > 0)
     };
-
-    value.children.forEach(({ name, slug, publishedAt }) => {
-      const fileDate = new Date(publishedAt);
-      const month = fileDate.getUTCMonth();
-      newsCategory.children[month].children.push({
-        name,
-        slug,
-        origin: '',
-        type: 'markdown',
-        children: []
-      });
-    })
 
     newsCategories.push(newsCategory);
   }
