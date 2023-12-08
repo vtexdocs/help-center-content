@@ -1,7 +1,7 @@
 const contentful = require("contentful-management");
 
 const client = contentful.createClient({
-  accessToken: "CFPAT-7nG-G6E-h51qLhX1O2A57e5f_cnRFio5DoxoRdzzmLE",
+  accessToken: "INSERT TOKEN HERE",
 });
 
 const fs = require("fs");
