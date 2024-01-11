@@ -17,6 +17,13 @@ jobs:
 
       - name: Install dependencies
         run: yarn
+
+      - name: Set up git
+        run: |
+          git config --global user.email "${GH_USERNAME}@users.noreply.github.com"
+          git config --global user.name "${GH_USERNAME}"
+        env:
+          GH_USERNAME: ${{ github.actor }}
       
       - name: Retrieve documentation from Contentful
         run: |
@@ -29,7 +36,15 @@ jobs:
           git add .
         if: success()
 
-      - name: Commit and Push
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Commit changes
+        run: |
+          git commit -m "update documentation files using contentful"
+        if: success()
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v3
         with:
-          commit_message: update documentation files
+          title: "Retrieve docs from Contentful"
+          branch: retrieve-docs-contentful
+          body: "This PR is generated when running the Retrieve docs from Contentful workflow. It contains the updated documentation files."
+          labels: "documentation"
