@@ -13,6 +13,9 @@ locale: pt
 legacySlug: gerencie-seus-pedidos-fbaclassic-dba-em-um-so-lugar
 announcementImageID: ''
 announcementSynopsisPT: 'Agora você pode gerenciar todos os seus pedidos Amazon FBA Classic e DBA em um só lugar.'
+seeAlso:
+ - manage-your-ads-using-the-new-vtex-shopping-ads-integration-resource
+ - marketplace-new-sidebar-with-received-sku-details
 ---
 
 A [integração](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon) entre lojas VTEX e a Amazon permite que sellers enviem seu catálogo de produtos para o marketplace, ampliando os canais de venda. Agora, expandimos a integração para suportar os programas logísticos da Amazon [FBA Classic (Fulfillment by Amazon)](https://venda.amazon.com.br/cresca/fba) e [DBA (Delivery by Amazon)](https://venda.amazon.com.br/cresca/dba). A nova funcionalidade de importação de pedidos do FBA Classic ou DBA possibilita visualizar e gerenciar os pedidos em um só lugar.
