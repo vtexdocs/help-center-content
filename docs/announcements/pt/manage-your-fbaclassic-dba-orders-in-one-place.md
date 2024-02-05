@@ -16,6 +16,10 @@ announcementSynopsisPT: 'Agora você pode gerenciar todos os seus pedidos Amazon
 seeAlso:
  - manage-your-ads-using-the-new-vtex-shopping-ads-integration-resource
  - marketplace-new-sidebar-with-received-sku-details
+ - master-data-allows-searches-using-geo-coordinates
+ - more-time-to-adapt-your-store's-front-end-requests-to-master-data
+ - new-limits-for-causes-of-benefit
+ - marketplaces-received-skus-beta
 ---
 
 A [integração](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon) entre lojas VTEX e a Amazon permite que sellers enviem seu catálogo de produtos para o marketplace, ampliando os canais de venda. Agora, expandimos a integração para suportar os programas logísticos da Amazon [FBA Classic (Fulfillment by Amazon)](https://venda.amazon.com.br/cresca/fba) e [DBA (Delivery by Amazon)](https://venda.amazon.com.br/cresca/dba). A nova funcionalidade de importação de pedidos do FBA Classic ou DBA possibilita visualizar e gerenciar os pedidos em um só lugar.
