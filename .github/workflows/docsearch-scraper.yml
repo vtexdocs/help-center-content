@@ -1,0 +1,20 @@
+name: Help Center Scraper
+
+on:
+  pull_request:
+    branches:
+      - main
+    types: [closed]
+
+jobs:
+  docs-build:
+    runs-on: ubuntu-latest
+    name: Scraper running
+    steps:
+    - uses: actions/checkout@v2
+    - name: Help Center Scraper
+      uses: vtexdocs/devportal-docsearch-action@main
+      with:
+        algolia_application_id: '${{ secrets.ALGOLIA_APP_ID }}'
+        algolia_api_key: ${{ secrets.ALGOLIA_WRITE_KEY }}
+        file: './configs/scraper_helpcenter.json'
