@@ -1,8 +1,9 @@
 // retrieve entries from contentful
 const contentful = require("contentful-management");
+require('dotenv').config();
 
 const client = contentful.createClient({
-  accessToken: "INSERT TOKEN HERE",
+  accessToken: process.env.CONTENTFUL_ACCESS_TOKEN ?? '',
 });
 
 let fileCount = 0;

@@ -7,6 +7,7 @@
     "author": "Júlia Rabello <julia.rabello@vtex.com.br>",
     "license": "MIT",
     "dependencies": {
-        "contentful-management": "^10.35.1"
+        "contentful-management": "^10.35.1",
+        "dotenv": "^16.3.1"
     }
 }
