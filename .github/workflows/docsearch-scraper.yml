@@ -7,14 +7,38 @@ on:
     types: [closed]
 
 jobs:
-  docs-build:
+  scrape-files:
     runs-on: ubuntu-latest
     name: Scraper running
     steps:
-    - uses: actions/checkout@v2
-    - name: Help Center Scraper
-      uses: vtexdocs/devportal-docsearch-action@main
-      with:
-        algolia_application_id: '${{ secrets.ALGOLIA_APP_ID }}'
-        algolia_api_key: ${{ secrets.ALGOLIA_WRITE_KEY }}
-        file: './configs/scraper_helpcenter.json'
+      - uses: actions/checkout@v2.1.0
+      - name: 'get changed files'
+        uses: jitterbit/get-changed-files@v1
+        id: generate-changed-files
+        with:
+          format: space-delimited
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Printing
+        run: |
+          echo "All:"
+          echo "${{ steps.generate-changed-files.outputs.all }}"
+          echo "Added:"
+          echo "${{ steps.generate-changed-files.outputs.added }}"
+          echo "Removed:"
+          echo "${{ steps.generate-changed-files.outputs.removed }}"
+          echo "Renamed:"
+          echo "${{ steps.generate-changed-files.outputs.renamed }}"
+          echo "Modified:"
+          echo "${{ steps.generate-changed-files.outputs.modified }}"
+          echo "Added+Modified:"
+          echo "${{ steps.generate-changed-files.outputs.added_modified }}"
+      - uses: actions/checkout@v2
+      - name: Helpcenter Scraper
+        uses: vtexdocs/devportal-docsearch-action@main
+        with:
+          algolia_application_id: '${{ secrets.ALGOLIA_APP_ID }}'
+          algolia_api_key: ${{ secrets.ALGOLIA_WRITE_KEY }}
+          file: './configs/scraper_helpcenter_files.json'
+          added: '${{ steps.generate-changed-files.outputs.added }}'
+          updated: '${{ steps.generate-changed-files.outputs.modified }}'
+          removed: '${{ steps.generate-changed-files.outputs.removed }}'
