@@ -3,8 +3,8 @@ title: "Locale Switcher doesn't work in myvtex environment"
 id: 1ZB56egPjPbTaUUnws5juK
 status: PUBLISHED
 createdAt: 2023-03-27T12:26:31.974Z
-updatedAt: 2023-03-27T14:55:12.486Z
-publishedAt: 2023-03-27T14:55:12.486Z
+updatedAt: 2024-02-02T21:03:39.535Z
+publishedAt: 2024-02-02T21:03:39.535Z
 firstPublishedAt: 2023-03-27T12:26:32.649Z
 contentType: knownIssue
 productTeam: Store Framework

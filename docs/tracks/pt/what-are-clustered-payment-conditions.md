@@ -3,8 +3,8 @@ title: 'O que é o Condições de Pagamento Clusterizadas?'
 id: 4z2upCJ2om27Cs0BVJRA0U
 status: PUBLISHED
 createdAt: 2020-11-18T11:49:06.387Z
-updatedAt: 2022-02-07T13:17:58.519Z
-publishedAt: 2022-02-07T13:17:58.519Z
+updatedAt: 2024-05-07T19:41:05.528Z
+publishedAt: 2024-05-07T19:41:05.528Z
 firstPublishedAt: 2020-11-18T17:37:30.544Z
 contentType: trackArticle
 productTeam: Financial
@@ -21,5 +21,3 @@ Atualmente, esta funcionalidade encontra-se em Closed Beta (estágio de testes) 
 </div>            
 
 A personalização das regras de prazo e parcelamento acontece por meio de nosso banco de dados - o [Master Data](https://help.vtex.com/pt/tutorial/what-is-master-data--4otjBnR27u4WUIciQsmkAw "Master Data"). 
-
-A seguir, explicaremos todas as etapas para que você use essa funcionalidade na operação da sua loja.

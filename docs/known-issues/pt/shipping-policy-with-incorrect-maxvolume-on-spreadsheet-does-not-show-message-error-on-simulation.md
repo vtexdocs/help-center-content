@@ -3,8 +3,8 @@ title: 'Política de envio com MaxVolume incorreto na planilha não mostra erro 
 id: 7zIbmadcOfI3oHmkm8LmkY
 status: PUBLISHED
 createdAt: 2022-05-18T18:19:04.901Z
-updatedAt: 2022-11-25T21:59:49.182Z
-publishedAt: 2022-11-25T21:59:49.182Z
+updatedAt: 2024-02-16T20:25:21.794Z
+publishedAt: 2024-02-16T20:25:21.794Z
 firstPublishedAt: 2022-05-18T18:19:05.868Z
 contentType: knownIssue
 productTeam: Logistics
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: politica-de-envio-com-maxvolume-incorreto-na-planilha-nao-mostra-erro-de-mensagem-na-simulacao
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 380471
 ---
 

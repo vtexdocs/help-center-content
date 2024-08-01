@@ -1,10 +1,10 @@
 ---
 title: 'Configuring a registered "boleto" (Brazilian off-line payment method)'
 id: frequentlyAskedQuestions_2867
-status: PUBLISHED
+status: DRAFT
 createdAt: 2019-01-24T20:46:00.197Z
-updatedAt: 2020-11-24T13:14:10.947Z
-publishedAt: 2020-11-24T13:14:10.947Z
+updatedAt: 2024-03-18T18:09:27.673Z
+publishedAt: 
 firstPublishedAt: 2019-01-24T22:08:27.705Z
 contentType: tutorial
 productTeam: Financial
@@ -26,22 +26,13 @@ VTEX has adapted to this measure and there are now several ways of making this p
 - [Boleto Santander](https://help.vtex.com/en/tutorial/configurar-boleto-registrado-santander--67siNqkC7mcgy2GWUYimaa)
 - [Boleto Itaú](https://help.vtex.com/en/tutorial/configurar-boleto-registrado-itau-itau-registrado--6MEHf1oDTOkuWM2CaYi4gu)
 - [Itaú Shopline](https://help.vtex.com/en/tutorial/configurar-boleto-registrado-itau--3TqzCHPU7KIYGsOKuUeQcq)
-- [Bradesco Registrado](https://help.vtex.com/en/tutorial/configurar-boleto-registrado-bradesco--bbnXBjvKOkWYiOosmASiA)
+- [Boleto Bradesco Registrado](https://help.vtex.com/pt/tutorial/configurar-boleto-registrado-bradesco--bbnXBjvKOkWYiOosmASiA)
 
 In addition, VTEX has an automatic integration for Bradesco and Itaú Shopline registered "boletos". However, for "boletos" created without an acquisition, the reconciliation is done through a .RET file.
 
-Every client should get this file from their respective bank. In this specific example, we use Itaú Registrado and Santander. We emphasize that these files must necessarily follow the standard established by Febraran.
+Every client should get this file from their respective bank. In this specific example, we use Itaú Registrado and Santander. We emphasize that these files must necessarily follow the standard established by Febraban.
 
-For other banks you have to use one of the following gateways:
-
-- Braspag
-- PagSeguro Transparente
-- Mundipagg
-- Moip
-- MercadoPago Transparente
-- Pagar.Me
-- CieloV3
-- Adyen
+For other banks, you must use one of the gateways available in your store's Admin (eg Braspag, PagSeguro Transparente, CieloV3, among others).
 
 The cost of a registered "boleto" is different from that of the traditional "boleto" and varies according to your agreement with the bank. Make sure you plan this properly and control your margin.
 
@@ -54,6 +45,4 @@ The creation of this number by VTEX guarantees that each "boleto" is unique and 
 ## Related articles
 
 - [How to configure gateway affiliation](/en/tutorial/registering-gateway-affiliations/)
-- [How to configure PagSeguro transparente](/en/tutorial/how-to-configure-the-pagseguro-without-redirect-option-transparent)
-- [Configuring Itaú registered ticket](/en/tutorial/setting-up-itau-registered-ticket)
 

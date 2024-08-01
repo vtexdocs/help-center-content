@@ -3,15 +3,15 @@ title: 'Crear o editar un template de página'
 id: frequentlyAskedQuestions_1850
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:59.664Z
-updatedAt: 2023-03-27T14:56:34.174Z
-publishedAt: 2023-03-27T14:56:34.174Z
+updatedAt: 2023-11-01T20:27:09.646Z
+publishedAt: 2023-11-01T20:27:09.646Z
 firstPublishedAt: 2019-01-24T22:03:09.865Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: authors_84
 slug: como-crear-un-template-de-pagina
 locale: es
-legacySlug: como-crear-un-template-de-pagina
+legacySlug: crear-un-template-de-pagina
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
@@ -46,7 +46,7 @@ Vea a continuación el procedimiento:
 <li><code>app</code></li>
 </ul></p>
 </div>
-6. A continuación, rellene el box __Template XHTML__ con el código de su template.![4 1](https://images.ctfassets.net/alneenqid6w5/1BJRfbclbjHPUSztB6y0kP/bd95af131b622a00d9b41dee47789987/4_1.png)
+6. A continuación, rellene el box __Template XHTML__ con el código de su template.![4 1](//images.ctfassets.net/alneenqid6w5/1BJRfbclbjHPUSztB6y0kP/bd95af131b622a00d9b41dee47789987/4_1.png)
 7. En la esquina superior derecha, haga clic en el botón  __Save Template__.
 
 Para editar un template ya existente, el proceso es casi idéntico.

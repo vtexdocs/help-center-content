@@ -1,16 +1,16 @@
 ---
-title: 'Exportação de Especificação do produto retorna Index Out of Range'
+title: 'Especificação do produto Índice de exportação fora da faixa'
 id: 2Qu9QCZvfcjmNfAh3uvPkf
 status: PUBLISHED
 createdAt: 2022-02-25T12:22:04.014Z
-updatedAt: 2022-11-25T21:45:45.357Z
-publishedAt: 2022-11-25T21:45:45.357Z
+updatedAt: 2024-01-10T20:25:32.586Z
+publishedAt: 2024-01-10T20:25:32.586Z
 firstPublishedAt: 2022-02-25T12:22:04.405Z
 contentType: knownIssue
 productTeam: Catalog
 author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
-slug: exportacao-de-especificacao-do-produto-retorna-index-out-of-range
+slug: especificacao-do-produto-indice-de-exportacao-fora-da-faixa
 locale: pt
 kiStatus: Backlog
 internalReference: 481095
@@ -23,32 +23,26 @@ internalReference: 481095
 </div>
 
 
-Ao tentar exportar, utilizando a IU: , dados das especificações do produto, se eles não tiverem campos válidos registrados diretamente na categoria a ser exportada, o processo falhará com uma mensagem "Index out of Range".
-
-
-
+Ao tentar exportar especificações de produtos da interface do usuário "Importar e exportar", se houver algum valor nulo ou relação nula na categoria a ser exportada, o processo falhará com uma mensagem "Índice fora do intervalo". Em outras palavras, a categoria deve ter registrado diretamente em seu nível um campo de produto, produtos e produtos com valores associados.
 
 
 ## Simulação
 
 
-1) Ir para a IU de exportação de SPecification do produto: ProdutoExportacaoImportacaoEspecificacaoV2.aspx
+1) Acesse a UI de exportação da Especificação do produto: ProdutoExportacaoImportacaoEspecificacaoV2.aspx
 
-2) Clique com o botão direito em uma categoria na qual não há nenhum campo de especificação de produto registrado
+2) Clique com o botão direito do mouse em uma categoria na qual não haja um campo de especificação de produto registrado
 
-3) Uma mensagem de erro de "Index out of bonds" será solicitada.
-
-
-
+3) Será exibida uma mensagem de erro do tipo "Index out of bonds".
 
 
 
 ## Workaround
 
 
-Exportar os pais ou filhos da categoria desejada
+Exporte a categoria pai ou filha da categoria desejada
 
 ou
 
-Use a API de obtenção de especificações de produto para buscar dados: https://developers.vtex.com/vtex-rest-api/reference/catalog-api-product-specification
+Use a API de obtenção de especificações do produto para obter dados: https://developers.vtex.com/vtex-rest-api/reference/catalog-api-product-specification
 

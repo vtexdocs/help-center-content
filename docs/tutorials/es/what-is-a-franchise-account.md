@@ -3,8 +3,8 @@ title: '¿Qué es una cuenta franquicia?'
 id: kWQC6RkFSCUFGgY5gSjdl
 status: PUBLISHED
 createdAt: 2021-10-13T20:38:07.014Z
-updatedAt: 2023-05-31T15:20:29.177Z
-publishedAt: 2023-05-31T15:20:29.177Z
+updatedAt: 2024-05-24T16:38:26.710Z
+publishedAt: 2024-05-24T16:38:26.710Z
 firstPublishedAt: 2021-10-13T20:57:01.457Z
 contentType: tutorial
 productTeam: Shopping
@@ -19,7 +19,7 @@ En la plataforma VTEX, tienes la opción de registrar tiendas físicas, franquic
 
 La cuenta franquicia está asociada a una cuenta principal. En el caso de una marca que tenga varias tiendas físicas, franquiciados o representantes, cada uno de ellos puede tener una cuenta franquicia vinculada a la cuenta principal de la marca. Esto les permite entregar los productos vendidos por el ecommerce de la marca.
 
-![diagrama contas v2 - es](https://images.ctfassets.net/alneenqid6w5/6KC4yvWh08WZ3DMcGRJS4I/38f2bac55f9150f6049aaa20193aa97e/diagrama_contas_v2_-_es.png)
+![diagrama contas v2 - es](//images.ctfassets.net/alneenqid6w5/6KC4yvWh08WZ3DMcGRJS4I/38f2bac55f9150f6049aaa20193aa97e/diagrama_contas_v2_-_es.png)
 
 En este artículo, trataremos los siguientes temas:
 
@@ -38,7 +38,7 @@ Además, utilizando la cuenta franquicia, puedes gestionar precios y medios de p
 
 Una cuenta franquicia no tiene su propio sitio web. Los consumidores navegan directamente en el sitio web de la cuenta principal, que funciona como un _marketplace_ en esta situación. Los datos de los clientes se almacenan en el Master Data de la cuenta principal.
 
-![diagrama admin contas - es](https://images.ctfassets.net/alneenqid6w5/226ePm8TzkWPFnTvJj2Sej/b30710b00e3a9a898fe2cd1fb5dd96c5/diagrama_admin_contas_-_es.png)
+![diagrama admin contas - es](//images.ctfassets.net/alneenqid6w5/226ePm8TzkWPFnTvJj2Sej/b30710b00e3a9a898fe2cd1fb5dd96c5/diagrama_admin_contas_-_es.png)
 
 ## Relación entre la cuenta franquicia y el _Seller White Label_
 
@@ -71,6 +71,11 @@ Para que la cuenta franquicia utilice los precios configurados en la cuenta prin
 
 Para configurar precios propios de la cuenta franquicia, es necesario quitar la marca de la casilla **Heredar precios de la cuenta padre** en la Configuración del módulo de **Precios** de la cuenta franquicia, como se describe en [este artículo](https://help.vtex.com/es/tutorial/price-configuration--3hbBtCzNUBrj8GaWgCtSWN). Además, es necesario configurar los precios deseados en el [módulo de Precios](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) o mediante la [API de Pricing](https://developers.vtex.com/vtex-rest-api/reference/pricing-api-overview).
 
+Para garantizar una experiencia de compra uniforme, es importante [configurar la regionalización](https://help.vtex.com/pt/tutorial/configurar-a-regionalizacao-de-sellers--32t6wLpQCEnumoh8TjT5fw?&utm_source=autocomplete) cuando cada cuenta franquicia tiene precios diferentes.
+La adopción de la regionalización posibilita solicitar el código postal del cliente antes de que este inicie la navegación, lo que a su vez permite mostrar los productos y precios correspondientes a la cuenta franquicia antes de continuar al checkout.
+Si la regionalización no está activa, puede haber casos en los que el consumidor vea un determinado valor de producto al navegar por la tienda, pero al llegar al checkout e ingresar el código postal se determine que la cuenta franquicia que debe atender el pedido es otra y, por lo tanto, el precio sea diferente.
+Esto ocurre porque el catálogo de menor precio es priorizado durante la navegación por la tienda. Sin embargo, en el checkout, si la cuenta franquicia de menor precio no tiene stock disponible, se seleccionará el catálogo de otro seller que tenga stock del producto disponible y se actualizará el precio al valor utilizado por dicho seller.
+
 ### Pagos
 
 #### Utilizar los medios de pago de la cuenta principal
@@ -92,7 +97,7 @@ VTEX ofrece soluciones de _split_ de pagos que pueden hacer que la distribución
 Existen varios tipos de configuración posibles para los precios y medios de pago relacionados con las cuentas franquicia en VTEX, que se indican a continuación. Puedes elegir la forma de uso que mejor se adecue a tu negocio.
 
 <div class="alert alert-warning">
-<p>Si deseas implementar inStore en tus tiendas físicas, no te recomendamos que configures medios de pago propios para las cuentas franquicia. Lo ideal es que las cuentas franquicia utilicen los medios de pago de la cuenta principal, para evitar conflictos de pago.</p>
+<p>Si deseas implementar la aplicación VTEX Sales App, es necesario que las tiendas físicas utilicen los medios de pago de la cuenta principal.</p>
 </div>
 
 ## Solicitar la creación de una cuenta franquicia

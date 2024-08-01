@@ -3,8 +3,8 @@ title: 'Registering a category'
 id: tutorials_206
 status: PUBLISHED
 createdAt: 2017-04-27T22:15:39.383Z
-updatedAt: 2023-03-29T17:45:06.786Z
-publishedAt: 2023-03-29T17:45:06.786Z
+updatedAt: 2023-11-29T19:10:35.853Z
+publishedAt: 2023-11-29T19:10:35.853Z
 firstPublishedAt: 2017-04-27T23:00:46.516Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -38,4 +38,4 @@ Follow the instructions below to create a category:
 - [Fill in category registration fields](/en/tutorial/category-registration-fields)
 - [Cleaning store's data base](/en/tutorial/understanding-how-to-maintain-a-database)
 - [Registering a product](/en/tutorial/registering-a-product)
-- [Registering an SKU](/en/tutorial/registering-sku)
+- [Registering an SKU](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ)

@@ -3,8 +3,8 @@ title: 'VTEX Pick and Pack'
 id: 1OOops3WrUyz7e0bnhkfXU
 status: PUBLISHED
 createdAt: 2023-04-10T15:22:56.572Z
-updatedAt: 2023-04-20T00:55:31.302Z
-publishedAt: 2023-04-20T00:55:31.302Z
+updatedAt: 2023-08-25T15:48:44.351Z
+publishedAt: 2023-08-25T15:48:44.351Z
 firstPublishedAt: 2023-04-10T15:42:38.221Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -14,6 +14,10 @@ locale: es
 legacySlug: vtex-pick-and-pack
 subcategory: 7Kllu6CmeLNV3tYXlCFvOt
 ---
+
+<div class = "alert alert-info">
+Si tienes interés en implementarla en tu negocio, rellena nuestro <a href="https://vtex.com/co-es/contacto/">formulario</a> indicando en el campo <code>Comentarios</code> el nombre del producto deseado.
+</div>
 
 **VTEX Pick and Pack** es la solución que permite a los comerciantes gestionar la recolección, el empaquetado y la entrega de pedidos desde tiendas físicas y almacenes a las direcciones de los clientes o [puntos de recogida](https://help.vtex.com/es/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R). Toda la gestión se realiza en un único lugar, lo que proporciona visibilidad y control a los comerciantes durante todo el proceso de fulfillment.
 

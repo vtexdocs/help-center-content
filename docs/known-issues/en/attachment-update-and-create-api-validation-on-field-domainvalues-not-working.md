@@ -3,8 +3,8 @@ title: 'Attachment Update and Create API validation on field DomainValues not wo
 id: 1NAwwi7C65xM2G61uaTLrB
 status: PUBLISHED
 createdAt: 2023-02-09T16:10:03.814Z
-updatedAt: 2023-02-09T16:10:04.449Z
-publishedAt: 2023-02-09T16:10:04.449Z
+updatedAt: 2024-07-01T18:48:48.654Z
+publishedAt: 2024-07-01T18:48:48.654Z
 firstPublishedAt: 2023-02-09T16:10:04.449Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: attachment-update-and-create-api-validation-on-field-domainvalues-not-working
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 751091
 ---
 

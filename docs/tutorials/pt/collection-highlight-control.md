@@ -3,8 +3,8 @@ title: 'Controle de destaque de coleção'
 id: 1tGdb2ndjqy6yWsk2YwKMu
 status: PUBLISHED
 createdAt: 2018-02-21T19:12:49.216Z
-updatedAt: 2023-03-29T18:01:46.386Z
-publishedAt: 2023-03-29T18:01:46.386Z
+updatedAt: 2023-06-22T17:42:41.479Z
+publishedAt: 2023-06-22T17:42:41.479Z
 firstPublishedAt: 2018-02-21T20:51:49.939Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -16,7 +16,7 @@ subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
 <div class = "alert alert-warning">
-  <p><b>Atenção:</b> existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do CMS</a>.</p>
+  <p> existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do Portal CMS Legado.</a>.</p>
 </div>
 
 O controle `<vtex.cmc:HightLight/>` (para páginas de produto) ou `$product.HightLight` (para prateleiras) renderiza um elemento HTML com uma classe específica no contexto dos produtos que fizerem parte de uma coleção marcada com a flag __Highlight__.

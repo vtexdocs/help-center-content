@@ -3,8 +3,8 @@ title: 'Configurar pago con Puntos Colombia'
 id: 5lj66uK0w5XxfzfncEyhP6
 status: PUBLISHED
 createdAt: 2022-03-17T14:14:06.885Z
-updatedAt: 2023-03-26T21:55:55.409Z
-publishedAt: 2023-03-26T21:55:55.409Z
+updatedAt: 2024-01-25T17:08:21.898Z
+publishedAt: 2024-01-25T17:08:21.898Z
 firstPublishedAt: 2022-03-17T14:23:01.073Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pago-con-puntos-colombia
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX es posible la integración con el proveedor de pagos Puntos Colombia. Con este conector tu tienda podrá realizar ventas a través del programa de fidelización Puntos Colombia.
+En VTEX es posible la integración con el proveedor de pagos Puntos Colombia. Con este proveedor, tu tienda podrá realizar ventas a través del programa de fidelización Puntos Colombia.
 
-Para configurar la afiliación Puntos Colombia, siga los pasos a continuación:
+Para configurar Puntos Colombia, siga los pasos a continuación:
 
-1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
-2. En la pestana __Afiliaciones de Gateway__, haga clic en el botón __+__.
-3. Haga clic en el conector __PuntosColombia__.
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __PuntosColombia__ en la barra de búsqueda y haga clic en el nombre del proveedor.
 4. Rellene los campos de registro __Application Key__ y __Application Token__ con los datos proporcionados por Puntos Colombia.
 5. Haga clic en __Guardar__.
 

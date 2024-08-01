@@ -3,8 +3,8 @@ title: 'Plantilla de flete'
 id: tutorials_127
 status: PUBLISHED
 createdAt: 2019-02-22T19:36:18.509Z
-updatedAt: 2023-03-29T18:18:59.537Z
-publishedAt: 2023-03-29T18:18:59.537Z
+updatedAt: 2023-10-10T13:26:19.271Z
+publishedAt: 2023-10-10T13:26:19.271Z
 firstPublishedAt: 2019-02-22T19:36:22.375Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -122,7 +122,7 @@ Vea la siguiente tabla para entender cada campo en detalle.
             <td class="t-body pa5" style="min-width: 15rem;">
                 <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">PricePercent</span>
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;"> <a href="https://help.vtex.com/es/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV"> Adicional de precio</a>, calculado según el precio del carrito, expresado en número decimal. Para rellenar la tabla, utilice el valor en porcentaje (por ejemplo, para un 10% adicional, complete la tabla con el número 10).
+            <td class="t-body pa5" style="min-width: 15rem;"> <a href="https://help.vtex.com/es/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV"> Adicional de precio</a>, calculado según el precio de los productos en el carrito y expresado en número decimal. Para rellenar la tabla, utilice el valor en porcentaje. Por ejemplo, para un 10% adicional, complete la tabla con el número 10.
             </td>
             <td class="t-body pa5" style="min-width: 15rem;"> Utilice este campo en los casos en que haya un costo adicional en el precio de la entrega. Los <a href="https://help.vtex.com/es/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV"> adicionales de flete </a> se suman al valor fijo.
             </td>
@@ -181,11 +181,7 @@ Para facilitar el uso de los términos en nuestra documentación utilizamos «pe
 
 Vea el siguiente ejemplo de cómo rellenar los campos, teniendo en cuenta el formato aceptado en cada columna. 
 
-![modelo_planilhanumerica](https://images.ctfassets.net/alneenqid6w5/15Dc2cfsXWbIwSt2vypWN3/20628e9acf5336c3fefcc84d334c08ec/freight_-_Debora_Moreno.png)
-
-### Plantilla para Correios
-
-Si desea ofrecer la entrega por correo en Brasil, puede generar una plantilla automática con el estándar de VTEX. Acceda al integrador Correios, y genere la plantilla a través de la herramienta ofrecida por XP Agência en el link [XP planilhas](http://planilha.xpagencia.com.br/).
+![modelo_planilhanumerica](//images.ctfassets.net/alneenqid6w5/15Dc2cfsXWbIwSt2vypWN3/20628e9acf5336c3fefcc84d334c08ec/freight_-_Debora_Moreno.png)
 
 ## Enviar el archivo por el Admin VTEX
 
@@ -198,7 +194,7 @@ El envío de la plantilla se realiza en el registro o en la edición de la _Pol�
 3. Después de descargar la plantilla modelo y [completar los campos](#completar-los-campos-de-la-plantilla), cargue el archivo en la sección Cargar tarifas de envío, como se ilustra en la siguiente imagen. 
 4. Al finalizar, haga clic en `Guardar cambios`.
 
-  ![upload tarifas envioES](https://images.ctfassets.net/alneenqid6w5/1qNl0ZaHhZMpshuBWRQhs9/b788e6926bffa8aa5a70db06ca1ccba7/upload_tarifas_envioES.png)
+  ![upload tarifas envioES](//images.ctfassets.net/alneenqid6w5/1qNl0ZaHhZMpshuBWRQhs9/b788e6926bffa8aa5a70db06ca1ccba7/upload_tarifas_envioES.png)
 
 <div class="alert alert-warning">
 Para registrar una <b>nueva</b> Política de envío se debe completar otros campos además de la plantilla de flete.  Aprenda cómo crear, editar y completar todos los campos necesarios en el artículo <a href="https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140">Política de envío</a>.

@@ -1,10 +1,10 @@
 ---
 title: 'Abrir tickets para el soporte VTEX'
 id: 16yOEqpO32UQYygSmMSSAM
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-11-21T22:18:13.507Z
-updatedAt: 2022-12-16T19:09:29.363Z
-publishedAt: 2022-05-31T21:10:30.601Z
+updatedAt: 2023-12-01T18:51:22.803Z
+publishedAt: 2023-12-01T18:51:22.803Z
 firstPublishedAt: 2017-11-22T02:37:19.330Z
 contentType: tutorial
 productTeam: Others
@@ -65,7 +65,7 @@ Al seleccionar esta opción de soporte, deberás rellenar la información que se
    * *Tengo una duda y quisiera hacer una pregunta*
    * *Quisiera solicitar una configuración*
 2. En el campo **Asunto de la solicitud**, rellena con la información relacionada con el tipo de problema para el que necesitas ayuda. En base a la descripción de tu problema, te indicaremos algunos artículos del [Centro de Ayuda](https://help.vtex.com/es/) que podrían serte útiles para solucionar tu problema. Si crees que ninguno de los artículos puede ayudarte a resolver el problema, avanza al paso siguiente.
-![https help.vtex.com es support](https://images.ctfassets.net/alneenqid6w5/6th3vu5w61nnzp8NE1Xiza/e1e53143d8559adad86d03e8550ba258/https___help.vtex.com_es_support.gif)
+![https help.vtex.com es support](//images.ctfassets.net/alneenqid6w5/6th3vu5w61nnzp8NE1Xiza/e1e53143d8559adad86d03e8550ba258/https___help.vtex.com_es_support.gif)
 3. Haz clic en el botón `Seguir`.
 Serás direccionado a otra página.
 4. .En el campo **Impacto del problema**, selecciona la opción que mejor se adapte al impacto del problema:

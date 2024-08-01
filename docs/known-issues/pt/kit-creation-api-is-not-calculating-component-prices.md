@@ -3,8 +3,8 @@ title: 'A API de criação de kits não está calculando os preços dos componen
 id: 3yyIEv6o3CjIbUg4KoLOWT
 status: PUBLISHED
 createdAt: 2023-03-28T16:34:55.491Z
-updatedAt: 2023-03-28T16:34:55.990Z
-publishedAt: 2023-03-28T16:34:55.990Z
+updatedAt: 2024-04-02T18:36:44.624Z
+publishedAt: 2024-04-02T18:36:44.624Z
 firstPublishedAt: 2023-03-28T16:34:55.990Z
 contentType: knownIssue
 productTeam: Catalog
@@ -23,7 +23,7 @@ internalReference: 739693
 </div>
 
 
-Atualmente, a carga útil do KIT API de inserção tem um formato que solicita os componentes que compõem este kit e suas quantidades e preços de acordo com as quantidades.
+Atualmente, a carga útil da API de inserção de KIT tem um formato que solicita os componentes que compõem esse kit e suas respectivas quantidades e preços.
 
 O preço esperado de um KIT deve ser uma soma ponderada dos preços de seus componentes * suas quantidades necessárias para compor o kit.
 
@@ -34,29 +34,20 @@ Componente (B) --> $25, 1 unidade
 
 O preço do kit deve ser: 10*2 + 25 === 45.
 
-Isto é o que acontece no KIT UI SkuKit.aspx.
+Isso é o que acontece no KIT UI SkuKit.aspx.
 
-Entretanto, a API https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunitkit não contabiliza múltiplos componentes na soma, portanto, o preço só considera cada componente uma vez no cálculo (então, nosso exemplo acima seria, incorretamente, 10 + 25 = 35).
+Entretanto, a API https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunitkit não está fazendo essas atualizações de preço para outros componentes além do primeiro adicionado.
 
-
-
-
-
-##
 
 ## Simulação
 
 
-Crie um kit utilizando o seguinte API com um componente com uma quantidade de 2 ou mais https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunitkit e depois verifique seu preço no módulo de preços UI.
+Crie um kit usando a seguinte API com um componente com uma quantidade de 2 ou mais https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunitkit e, em seguida, verifique seu preço na interface do usuário do módulo de preços.
 
 
-
-
-
-##
 
 ## Workaround
 
 
-Ao criar um kit, vá até a IU e salve os componentes mais uma vez para executar a lógica de cálculo da referida soma ponderada.
+Insira o preço final do kit diretamente por meio da API de preços.
 

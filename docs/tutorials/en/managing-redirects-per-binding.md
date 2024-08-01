@@ -3,8 +3,8 @@ title: 'Managing URL redirects per binding'
 id: 67GAK2TCQgjvmtPXxAqREb
 status: PUBLISHED
 createdAt: 2021-04-20T15:03:54.330Z
-updatedAt: 2023-03-24T22:20:43.304Z
-publishedAt: 2023-03-24T22:20:43.304Z
+updatedAt: 2023-09-04T12:42:32.729Z
+publishedAt: 2023-09-04T12:42:32.729Z
 firstPublishedAt: 2021-05-05T18:11:25.521Z
 contentType: tutorial
 productTeam: VTEX IO
@@ -21,12 +21,16 @@ Multi-domain stores commonly ask for redirect management per [binding](https://h
 
 Taking this into consideration, VTEX enables you to manage your URL redirects according to the store bindings through the admin interface.
 
+<div class="alert alert-warning" role="alert">
+To create, edit, or remove redirects, the Admin user must have a role that has the <a href="https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3">License Manager</a> <strong>CMS Settings</strong> resource. You can grant the user a role with the resource by following the instructions in the <a href="https://help.vtex.com/en/tutorial/managing-users--tutorials_512#editing-users">How to manage users</a> article or create a new role including the resource by following the instructions in the <a href="https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role">Roles</a> article.
+</div>
+
 In VTEX Admin:
 
 1. Access **Storefront > Pages**.
 2. Click on the `Redirects` tab.
 
-![en-redirecttab](https://images.ctfassets.net/alneenqid6w5/7G20PhFKWBFNKmvN2T8MFo/4b88bd44abc30aa3af4e0f9ca8557e3e/new-redirect.png)
+![en-redirecttab](//images.ctfassets.net/alneenqid6w5/7G20PhFKWBFNKmvN2T8MFo/4b88bd44abc30aa3af4e0f9ca8557e3e/new-redirect.png)
 
 ## Manually creating redirects
 
@@ -36,7 +40,7 @@ In VTEX Admin:
 4. Check whether your redirect will be permanent or temporary — in case it is temporary, you can toggle the `This redirect has an end date` button to set an end date for it. 
 5. Save your changes.
 
-![en-novoredirect](https://images.ctfassets.net/alneenqid6w5/4CdPssJV4wAfbvr0ZB2ugi/2d3efd147908ec9e1da471403cba2cf9/redirect-novo.png)
+![en-novoredirect](//images.ctfassets.net/alneenqid6w5/4CdPssJV4wAfbvr0ZB2ugi/2d3efd147908ec9e1da471403cba2cf9/redirect-novo.png)
 
 ## Manually deleting redirects
 
@@ -44,7 +48,7 @@ In VTEX Admin:
 2. Click on the `Remove` button.
 3. Confirm your action. 
 
-![en-remove-redirect](https://images.ctfassets.net/alneenqid6w5/4Ki1noxgrPgStT4wZGbrCk/7de9c0c5b3a4b9c734657c96ae20cccf/remove-redirect.png)
+![en-remove-redirect](//images.ctfassets.net/alneenqid6w5/4Ki1noxgrPgStT4wZGbrCk/7de9c0c5b3a4b9c734657c96ae20cccf/remove-redirect.png)
 
 <div class="alert alert-warning">
 A bug may be found when trying to click on redirects with query strings. The VTEX product team is already aware of this unexpected behavior and working on the fix. If you cannot click on the desired redirect to delete it, opt to do it through the spreadsheet while the issue is not resolved. 
@@ -73,7 +77,7 @@ The spreadsheet's inputs will be mandatorily created or deleted from the store's
 4. Click on the `Import` button.
 5. Check the `Save` or the `Delete` button according to your scenario.
 
-  ![en-redirect-planilha](https://images.ctfassets.net/alneenqid6w5/1LA0kpUcu5NhfUgWWhkjea/b83ae63b44fa2367877b00daf47467c7/redirect-planilha.png)
+  ![en-redirect-planilha](//images.ctfassets.net/alneenqid6w5/1LA0kpUcu5NhfUgWWhkjea/b83ae63b44fa2367877b00daf47467c7/redirect-planilha.png)
 
   <div class="alert alert-warning">
 By clicking on the <code>Save</code> button, you will create all the redirects listed in your spreadsheet, whereas clicking on the <code>Delete</code> button will remove all of them from your store's redirect database.

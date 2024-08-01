@@ -3,8 +3,8 @@ title: 'Como funciona o cálculo de envio'
 id: tutorials_116
 status: PUBLISHED
 createdAt: 2017-04-27T22:18:59.694Z
-updatedAt: 2022-06-21T14:55:49.737Z
-publishedAt: 2022-06-21T14:55:49.737Z
+updatedAt: 2023-07-25T19:55:42.137Z
+publishedAt: 2023-07-25T19:55:42.137Z
 firstPublishedAt: 2017-04-27T23:00:43.230Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -83,8 +83,7 @@ No Admin VTEX, é possível configurar critérios e prioridades diferentes para 
 - **Docas:** as prioridades são configuradas nos [campos de cadastro da doca](https://help.vtex.com/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW#campos-de-cadastro).
 - **Frete:** os preços de frete são configurados nas [tarifas de envio](https://help.vtex.com/pt/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM), com exceção da [tarifa de doca](https://help.vtex.com/pt/tutorial/custo-final-do-envio--5bwhIO108VA5Y2YOpef9lV), que é um valor adicional opcional, configurado ao adicionar a doca a um estoque.
 - **Prazo:** o tempo para envio é configurado na [estimativa de SLA](#estimativa-de-tempo-de-envio).
-- **Divisão de pacotes:** os critérios adotados são configurados no módulo Checkout, saiba mais em [divisões de pacotes](https://help.vtex.com/pt/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV).
-- **Priorização do inventário:** configurar um critério diferente para priorização do inventário só pode ser feito por API, pela chamada [Create/update warehouse](https://developers.vtex.com/vtex-rest-api/reference/createupdatewarehouse), ao acrescentar a propriedade `priority`. 
+- **Divisão de pacotes:** os critérios adotados são configurados no módulo Checkout, saiba mais em [divisões de pacotes](https://help.vtex.com/pt/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV). 
 
 ## Estimativa de tempo de envio
 

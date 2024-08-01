@@ -3,8 +3,8 @@ title: 'How the Buy One Get One (BoGo) promotion works'
 id: tutorials_322
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:41.148Z
-updatedAt: 2021-12-13T17:23:17.182Z
-publishedAt: 2021-12-13T17:23:17.182Z
+updatedAt: 2024-02-19T11:48:37.254Z
+publishedAt: 2024-02-19T11:48:37.254Z
 firstPublishedAt: 2017-04-27T23:03:14.992Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,46 +15,111 @@ legacySlug: buy-win
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-This kind of promotion is used to offer free shipping or a free gift if a determined product is purchased. For example, "buy a TV and get free shipping" or "buy a video game and win a game."
 
-## What is the general data of this promotion?
+Buy One Get One promotions are used to offer free shipping or a gift for buying a specific product. For example, "Buy a TV and get free shipping" or "Buy a video game and get a game for free".
 
-- __Name__
-- __Name of the promotion__
-- __Status__
-- __Enable or disable the promotion__
-- __Internal description of the promotion__: This field is used for your store's internal communication, in order to explain if the promotion is the result of a campaign, stock clearance, etc.
-- __Expiration Date__: Promotion start and end date. A future date and/or time can be used to launch the promotion on the website, where it will have a scheduled status until the set date and time arrive. As long as the promotion is valid, it will have the enabled status and, at the end of the set date and time, the status will automatically change to disabled.
-- __Specify days of the week for the enabling__: This option is displayed as a check box. When selected, it provides seven other check boxes, that represent the days of the week when the promotion can be offered. If you want the promotion to be offered on every day of the week, don't select this option.
-- __What is the type and value of the discount?__; 
-  1. __Maximum Price per Item__: Sets the maximum price for each item.
-  2. __Free Shipping__: Total discount on shipping fees.
-  3. __Gift__: Total discount on the value of a product defined as gift. Selecting this option will open other fields to enter a SKU, a box to activate the gift multiplier and the amount of product defined as gifts. The SKU can be entered by name or ID, being also possible to enter more than one. 
-To learn how to set up this type of discount, have a look at the article on [Setup Buy and Win promotion gift for a Specific SKU](/en/tutorial/how-to-set-a-buy-and-win-promotion-gift-for-a-specific-sku).
-- __Discount highlight__: Inserts a flag with the name of the promotion. Used on the product's window and page. This flag will only be inserted if you use the correct promotion display control on the template. <vtex.cmc:discountHightLight>;
-- __Seller__: Selects the seller that will offer the discount. Having a multistore will make all the sellers registered to your account appear. This option allows you to assign a different discount for each seller.
-- __Commercial Policy__: Selects the Commercial Policies that will offer the discount. All the policies registered in `E-Commerce > Marketplace > Commercial Policy` will be listed. This option allows you to offer a different discount for each policy.
+In this article, we'll explain the steps required to set up a Buy One Get One promotion:
 
-## Buy One Get One
+1. [Promotion overview](#1-promotion-overview)
+    - [Restrict this promotion to seller products](#restrict-this-promotion-to-seller-products)
+    - [Trade policy](#trade-policy)
+2. [Buy One, Get One](#2-buy-one-get-one)
+3. [Conditions for the promotion to be valid](#3-conditions-for-the-promotions-to-be-valid)
+4. [Restrictions and limitations of use](#4-restrictions-and-limitations-of-use)
 
-- __Collections__: enter the name of the product collection you wish to relate to this type of discount. It is possible to enter more than one name. The promotion will only be applied to products that are in the collections registered in this field.
-- __SKUs__: enter the name or Id of the SKUs to which you want to apply the discount. You can import a list of SKUs, which must be saved as a text file (.txt), with each Id on a different line. 
+# Creating a promotion
+In the VTEX Admin, go to Promotions > Promotions, or type Promotions in the search bar at the top of the page.
 
-__Notice__: if products are not limited by collection or SKU, the platform will not allow the creation of the promotion.
+1. Click the `Create Promotion` button.
+2. Select the **Buy One Get One** option.
+3. Complete the promotion fields.
+4. Click `Save`.
 
-__Notice__: the maximum number of registered SKUs for this promotion is 100.
+# 1. Promotion overview
+In this section, we provide information on the promotion overview.
+- **Name:** Promotion name. Required field.
+- **Status:** Activates or deactivates the promotion.
+- **Description:** This field is for internal communication in your store to indicate the purpose of the promotion, such as a campaign, a clearance sale, etc.
+- **Expiration date:** Start and end date and time of the promotion. You can use a future date and/or time for the promotion to start on your website. If configured this way, the promotion status will be displayed as follows:
+    - Scheduled: Before the selected start date and time.
+    - Active: During the scheduled promotion period.
+    - Inactive: After the selected end date and time.
+- **Use recurrence settings:** By selecting this option, you can configure the recurrence, such as the weekday and time.
+- **Type and amount of discount:** Allows you to select one of the options below:
+    1. **Maximum price per item:** Sets the maximum price for each item in the order.
+    2. **Free shipping:** Full discount on shipping costs.
+    3. **Gift:** Full discount on the product amount set as a gift. By selecting this option, you can indicate the SKU (by name or ID) that will be considered a gift, choose if you want to activate the [gift multiplier](https://help.vtex.com/en/tutorial/o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao--1gydgkmjEWcoo2CskUwuYK), and the maximum number of products that can be used as gifts in the promotion. For more information on this type of discount, check [How to set a Buy One Get One promotion (gift) for a specific SKU](https://help.vtex.com/en/tutorial/configurar-promocao-compre-e-ganhe-para-um-sku-especifico).
+- **Additional information (optional):** Allows you to add name and value details to the promotion.
+- **Promotion is highlighted:** Adds a tag with the promotion name,  which is displayed in the window display and on the product page. This tag will only be added if you use the right promotion display control in the template. `<vtex.cmc:discountHightLight>`.
 
-- __Product Threshold__: sets the number of products required in the cart in order to grant the discount. This field is mandatory.
+![Promotion Overview](//images.ctfassets.net/alneenqid6w5/4s7Zxlvv0aIThx2WW2JMO3/fb5019d7359026929f45631e94e2f454/Promotion_Overview.png)
 
-## What are the conditions for the promotion to be valid?
+## Restrict this promotion to seller products
 
-- __BIN Restriction__: defines which credit cards can benefit from this promotion.
-- __Customer Cluster__: you can use an existing field in the __CL__ Data Entity to create a threshold. Example: `age = 25`
-- __Type of Shipping__: the discount will be granted if the type of shipping is the same as the one registered.
-- __Utm\_source__: the discount will be granted if browsing is performed with the utm\_source that contains the registered value.
-- __Utm\_campaign__: The discount will be granted if browsing is performed with the utm\_campaign that contains the registered value.
+In this section, you can determine to which sellers the promotion will apply. You can specify the sellers you want to include or exclude from the discount.
 
-## Restrictions and limitations of use
+- Equal to: Select the sellers you want to include.
+- Different from: Select the sellers you want to exclude.
 
-- __Only for the same items__: The discount will only be applied per SKU, once each one has a minimum registered amount. If you don't check this option, the discount will be applied to products from the collection or from the list of SKUs, without the need of having the minimum registered amount in the cart for each of them. The sum of these products will be considered instead.
-- __Allow promotion stockpiling__: Allows that more than one promotion with the same type of discount be granted at the same time.
+For the promotion to be valid for all sellers, leave the field blank.
+
+<div class = "alert alert-warning">
+  <p>It is not possible to select a white label seller. There are two ways to include a white label seller in the promotion:</p><ol>1. Restrict sellers to the main store. This will add all white label sellers in your store to the promotion.</ol><ol>2. Leave the field blank.  In this way, all sellers will be included in the promotion.</ol>
+</div>
+
+![Restrict this promotion to seller products](//images.ctfassets.net/alneenqid6w5/3Up0CJMzHHY9rZO0LLRXuw/32b26e784595d4551700c022fc539598/Restrict_this_promotion_to_seller_products.png)
+
+## Trade policy
+
+In this section, you can set the trade policies valid for the promotion. You can include or exclude trade policies from the discount.
+
+- **Equal to:**  Select the trade policies you want to include.
+- **Different from:** Select the trade policies you want to exclude.
+- **Provided by me (my store):** Select trade policies with products from your store. You can select more than one trade policy.
+- **Delivered by me (other stores):** Select trade policies in which your products are available in third-party stores. You can select more than one trade policy.
+
+For the promotion to be valid for all trade policies, leave the selection empty.
+
+![Trade Policy](//images.ctfassets.net/alneenqid6w5/1EUrXEMs0tyZ6J1ulXco9i/2d378d9c081945a7128525036ed1f9e4/Trade_policy.png)
+
+# 2. Buy One Get One
+
+In this section, you can define the collections, SKUs, and minimum quantity for the promotion to apply.
+
+- **Collections:** Select one or more product collections you want to give this type of discount. The promotion will only be applied to products in the collections listed in this field.
+- **SKUs:** Allows you to enter the SKU name or ID to which the discount will apply. You can import a list of SKUs that must be saved in a text file (**.txt**), with each ID listed on a different row.
+- **Minimum quantity:** Allows you to define the minimum quantity of products that must be added to the cart for the discount to be applied. This is a required field.
+
+<div class = "alert alert-warning">
+<p>The promotion will not be created if the Collections or SKUs fields are not completed.<p>
+</div>
+
+<div class = "alert alert-warning">
+<p>A Buy One Get One promotion can be created with a maximum of 100 different SKUs at the same time.<p>
+</div>
+
+![Buy One Get One](//images.ctfassets.net/alneenqid6w5/27rGDqH0dMTcgA8m7cWs27/c521b34d5694bf3712f5450f32839a91/Buy_One_Get_One.png)
+
+# 3. Conditions for the promotion to be valid
+
+In this section, we will detail the conditions you must apply for a promotion to be valid.
+
+- **Use restriction BINs:** Allows you to activate or deactivate the BIN restriction, limiting the credit cards used in the promotion. You can import a list of BINs, which must be saved in a text file (.txt) with each BIN listed on a different row.
+- **Customer cluster:** Allows you to activate or deactivate the customer cluster. When activated, you can choose a customer cluster created via [Master Data](https://help.vtex.com/en/tutorial/como-criar-um-cluster-de-clientes).
+- **Shipping method:** Allows you to choose if the promotion will be applied to one or more shipping methods. When activated, choose a shipping method; when deactivated, you can apply the discount to the cheapest shipping method.
+- **Payment method:** Allows you to choose if the promotion will be applied to one or more of the selected payment methods.
+- **Utm_source:** The discount will apply if the customer navigation uses an utm_source parameter corresponding to a listed one in this promotion.
+- **Utm_campaign:** The discount will apply if the customer navigation uses an utm_source parameter corresponding to a listed one in this promotion.
+
+![What are the conditions for the promotion to be valid?](//images.ctfassets.net/alneenqid6w5/4zOT1bHe70Z1wbN2wQjCXD/935d35fb86b2e6931c238d60e14f2872/What_are_the_conditions_for_the_promotion_to_be_valid.png)
+
+# 4. Restrictions and limitations of use
+
+In this section, you will find important information about the promotion conditions and restrictions.
+
+- How many times will this promotion be applied in your store: Allows you to restrict the promotion in your store to a specific limit or use it unlimitedly.
+- How many times per customer will this promotion be applied in your store: Allows you to restrict the promotion in your store to each customer for a specific limit or to use it unlimitedly.
+- Only for the same items: If this option is activated, the promotion is only applied if the minimum quantity of items (previously added) is reached using the same SKU in the cart. If this option is deactivated, the promotion will be applied even when the minimum quantity of items is added to the cart, regardless of whether the SKUs are different or the same.
+- Apply with other promotions: Allows this promotion to be applied to the cart in combination with other promotions that give the same discount type.
+
+![Restrictions and limitations of use](//images.ctfassets.net/alneenqid6w5/71kLc3PWSLecGA49Iytuyd/3786a7a5b6067de6410cabfe402325b4/Restrictions_and_limitations_of_use.png)

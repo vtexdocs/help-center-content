@@ -1,10 +1,10 @@
 ---
 title: 'Order partial return triggered the transaction total refund'
 id: 5cPpyvV4t6swxDPrEmuzrn
-status: PUBLISHED
+status: DRAFT
 createdAt: 2022-04-04T21:20:39.334Z
-updatedAt: 2022-11-25T22:03:29.435Z
-publishedAt: 2022-11-25T22:03:29.435Z
+updatedAt: 2024-05-28T19:09:23.158Z
+publishedAt: 
 firstPublishedAt: 2022-04-04T21:20:40.180Z
 contentType: knownIssue
 productTeam: Order Management

@@ -3,8 +3,8 @@ title: '¿Por qué mi transportadora calculó flete,  para un peso menor que el 
 id: frequentlyAskedQuestions_164
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:17.904Z
-updatedAt: 2019-12-31T14:25:25.374Z
-publishedAt: 2019-12-31T14:25:25.374Z
+updatedAt: 2023-12-19T16:53:24.136Z
+publishedAt: 2023-12-19T16:53:24.136Z
 firstPublishedAt: 2017-04-27T23:01:43.295Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
@@ -14,7 +14,7 @@ locale: es
 legacySlug: por-que-mi-transportadora-calculo-flete-para-un-peso-menor-que-el-minimo-configurado
 ---
 
-El cálculo del flete considera siempre dos parámetros, el peso y el volumen del producto. La prioridad de cálculo es siempre para el peso real o cúbico, vale el mayor. Sin embargo, caso el peso del producto sea menor que el mínimo catastrado para el transportista, será considerado el volumen.
+El cálculo del flete considera siempre dos parámetros, el peso y el volumen del producto. La prioridad de cálculo es siempre para el peso mínimo o cúbico, vale el mayor. Sin embargo, caso el peso del producto sea menor que el mínimo catastrado para el transportista, será considerado el volumen.
 
 ## Ejemplos
 

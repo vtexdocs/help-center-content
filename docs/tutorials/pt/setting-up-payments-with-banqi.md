@@ -3,8 +3,8 @@ title: 'Configurar pagamento com banQi'
 id: 41rk9E7JUmCl683MJ9p52P
 status: PUBLISHED
 createdAt: 2023-03-30T12:31:49.459Z
-updatedAt: 2023-03-30T19:51:34.281Z
-publishedAt: 2023-03-30T19:51:34.281Z
+updatedAt: 2024-01-23T18:25:15.982Z
+publishedAt: 2024-01-23T18:25:15.982Z
 firstPublishedAt: 2023-03-30T13:04:03.008Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pagamento-com-banqi
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento banQi. Por meio deste conector, sua loja pode realizar vendas pelo carnê banQi.
+Na VTEX, é possível realizar a integração com o provedor de pagamento banQi. Por meio deste provedor, sua loja pode realizar vendas pelo carnê banQi.
 
-Para configurar a afiliação banQi, siga os passos abaixo:
+Para configurar banQi, siga os passos abaixo:
 
-1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão `+`.
-3. Clique no conector __banQi__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __banQi__ na barra de busca e clique sobre o nome do provedor.
 4. Preencha os campos __Application Key__ e __Application Token__ com as informações da sua conta banQi.
 5. Caso seja exibida uma mensagem de alerta indicando a necessidade de instalação do app, clique no botão `Instalar app` e siga as instruções de instalação.
 6. Clique em `Salvar`.

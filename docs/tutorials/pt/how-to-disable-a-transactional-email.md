@@ -28,7 +28,7 @@ Confira o passo a passo a seguir:
 3. Pesquise por __Payment Pending__ na caixa de busca.
 4. Desmarque a opção __Ativar envio de e-mail__.
 
-  ![Message Center - Desativar - PT](https://images.ctfassets.net/alneenqid6w5/dlSCQPRLKf46SnYGl7X9a/3ed63d224e34fc3b5a52540cc880ba4a/dlSCQPRLKf46SnYGl7X9a_PT_Payment_Pending.jpg)
+  ![Message Center - Desativar - PT](//images.ctfassets.net/alneenqid6w5/dlSCQPRLKf46SnYGl7X9a/3ed63d224e34fc3b5a52540cc880ba4a/dlSCQPRLKf46SnYGl7X9a_PT_Payment_Pending.jpg)
 
 5. Clique em __Salvar__.
 

@@ -3,8 +3,8 @@ title: 'Requisitos previos para usar VTEX Sales App'
 id: 1wtAanSRA3g2316dw7bw8u
 status: PUBLISHED
 createdAt: 2020-06-28T13:28:33.600Z
-updatedAt: 2023-05-31T15:30:38.223Z
-publishedAt: 2023-05-31T15:30:38.223Z
+updatedAt: 2024-06-27T16:50:09.189Z
+publishedAt: 2024-06-27T16:50:09.189Z
 firstPublishedAt: 2020-06-28T13:41:36.817Z
 contentType: trackArticle
 productTeam: Shopping
@@ -29,15 +29,12 @@ Para mantener el equipo y el buen funcionamiento de tu operación, es importante
 
 ### _Tablets, smartphones_ y computadores
 
-La aplicación VTEX Sales App funciona en _tablets_ y _smartphones_ con sistemas operativos **Android 6.0** (o superior) e **iOS 9** (o superior).
+Se recomienda que los dispositivos estén actualizados a la última versión del sistema operativo o, como mínimo, utilizar una de las:
 
-Algunos ejemplos de dispositivos que se pueden utilizar:
+* Tres versiones más recientes de iOS, o
+* Cuatro últimas versiones de Android.
 
-* Tablet Samsung Galaxy Tab A Note
-* Motorola G4
-* Samsung S8
-
-Recomendamos que los dispositivos utilizados para acceder a VTEX Sales App tengan chips 4G para el acceso a Internet. De este modo, tu tienda seguirá funcionando con normalidad aunque la red Wi-Fi tenga problemas.
+Al acceder a VTEX Sales App, los dispositivos utilizados deben contar con chips 4G para conexión a internet. De esta forma, tu tienda seguirá funcionando con normalidad, incluso en situaciones en las que la red wifi presente problemas.
 
 VTEX Sales App también funciona en computadores con sistema operativo **Windows**, siempre que se cumplan los siguientes requisitos mínimos:
 
@@ -85,6 +82,15 @@ Para imprimir la factura electrónica y los recibos de tarjeta, necesitarás una
 ## Partners
 
 VTEX tiene una serie de _partners_ que hacen posible la operación de las tiendas físicas. Cada _partner_ tiene un papel específico que desempeñar para que todo el proceso de venta se desarrolle sin problemas.
+Entre estos partners se encuentran:
+
+- Integración con PDV:
+    - Jitterbit
+    - Neomode
+- Integración de pagos:
+    - Pagarme
+    - Adyen
+    - Cielo
 
 VTEX tiene un contrato estándar con estos _partners_ para facilitar la implementación de sus productos, pero depende de ti negociar mejores condiciones directamente con ellos.
 

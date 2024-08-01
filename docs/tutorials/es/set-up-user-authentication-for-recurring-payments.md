@@ -27,6 +27,6 @@ Para configurar esta autenticación, siga los pasos abajo.
 2. Acceda **Configuración**
 3. Active la flag __Exigir autenticación del usuario para los pagos autorizados automáticamente__
 
-![autenticação-usuario-pagamento-recorrencia es](https://images.ctfassets.net/alneenqid6w5/1W670r1zO4EQOUUqY2MmAs/1644f9c9e1fe370662ad9c2dfedea2f4/autentica____o-usuario-pagamento-recorrencia_es.png)
+![autenticação-usuario-pagamento-recorrencia es](//images.ctfassets.net/alneenqid6w5/1W670r1zO4EQOUUqY2MmAs/1644f9c9e1fe370662ad9c2dfedea2f4/autentica____o-usuario-pagamento-recorrencia_es.png)
 
 4. Haga clic en el botón __Guardar__.

@@ -3,8 +3,8 @@ title: ""Get all SKU suggestions" API doesn't keep same sku order when changing 
 id: 4wQbZm9rFc8iD2xYwEiAlQ
 status: PUBLISHED
 createdAt: 2022-12-05T14:49:46.856Z
-updatedAt: 2022-12-05T14:50:25.991Z
-publishedAt: 2022-12-05T14:50:25.991Z
+updatedAt: 2024-03-01T21:06:12.857Z
+publishedAt: 2024-03-01T21:06:12.857Z
 firstPublishedAt: 2022-12-05T14:49:47.309Z
 contentType: knownIssue
 productTeam: Marketplace
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: get-all-sku-suggestions-api-doesnt-keep-same-sku-order-when-changing-limits
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 367187
 ---
 

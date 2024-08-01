@@ -3,8 +3,8 @@ title: 'Setting up payments with Apple Pay'
 id: 5L3NWMgvdKswWQa6eIc008
 status: PUBLISHED
 createdAt: 2018-04-12T20:38:42.521Z
-updatedAt: 2023-03-26T21:54:30.284Z
-publishedAt: 2023-03-26T21:54:30.284Z
+updatedAt: 2024-06-25T21:20:56.252Z
+publishedAt: 2024-06-25T21:20:56.252Z
 firstPublishedAt: 2018-05-23T19:26:11.000Z
 contentType: tutorial
 productTeam: Financial
@@ -24,40 +24,32 @@ Your customers can shop using Apple Pay, the [digital wallet](/en/faq/what-is-an
   Apple Pay currently only works on MacOs, IOS operating systems, and the Safari browser. For more information, go to <a href="https://support.apple.com/en-gb/HT208531">Devices compatible with Apple Pay</a>.
 </div>
 
-With these requirements met, just follow the steps below to offer this payment condition in your store:
+## Setting up the payment provider
 
-## Setting up the gateway affiliation
-Offering payment conditions to customers in your store depends on gateway affiliates being able to process them. On the VTEX platform, the affiliations currently compatible with __Apple Pay__ are __ERedeREST__ (integration of the acquirer Rede), __Adyen__ and __Stripe__.
+Firstly, you need to configure a provider in your store's Admin that processes transactions with Apple Pay, such as [Adyen](https://help.vtex.com/en/tutorial/configuring-payment-with-adyenv3) and [Stripe](https://help.vtex.com/en/tutorial/configuring-stripe-gateway-affiliation--fwF2wk2FQKrODrWWkvSLO).
 
-These articles show how to set up [ERedeREST](/en/tutorial/setting-up-rede-acquirer-with-erederest), [Adyen](/en/tutorial/how-to-configure-the-adyen-gateway-on-vtex) and [Stripe](https://help.vtex.com/en/tutorial/configuring-stripe-gateway-affiliation--fwF2wk2FQKrODrWWkvSLO).  
+To check all the provider options available for this payment method, access the list as described in Step 5 of the section [Set up payment with Apple Pay](#setting-up-payment-with-apple-pay).
 
-But remember: it's critical to [register the Merchant ID on Apple Pay](https://developers.vtex.com/vtex-rest-api/docs/setting-up-merchant-id-in-apple-pay) before setting up the gateway affiliation.
+<div class="alert alert-warning">
+  Before starting to configure the provider, you must <a href="register your Merchant ID with Apple Pay">register your Merchant ID with Apple Pay</a>.
+</div>
 
-## Downloading and installing VTEX App Store application
-1. On the admin side menu, click __Apps__.
-2. Access the __VTEX App Store__ link or use the URL `https://apps.vtex.com/?an={{AccountName}}` directly in the browser, changing `{{AccountName}}` to the name of the store in which you want to offer Apple Pay.
-3. Browse for the __Apple Pay__ app and click __Get__.
-4. You will be directed to an order review screen. Check the data and click the __Confirm order and begin installation__ button.
-5. You will get to the installation screen. There, you can review the application permissions and start the download (by clicking __Instalar__).
-6. The app will be installed on your workspace, but you will need to fill in the __Merchant ID__ (in the __Merchant Identifier__ field) to be applied in your store.
-7. Click __Save__.
+## Setting up payment with Apple Pay
 
-## Setting up Apple Pay payment condition
 1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
 2. Click the __Payment conditions__ tab and then the __+__ button.
 3. Select the __Apple Pay__ payment method.
-4. Click the __Status__ button to enable this payment condition.
-5. In the __Process with affiliation__ field, select the option that will be used to process the payments.
-6. If there is an anti-fraud set up in your store, you can activate it for this payment condition by checking the __Use Anti-Fraud__ box.
+4. Click the `Status` button to enable this payment condition.
+5. In the __Process with provider__ field, select the provider that will be used to process the payments.
+6. If there is an anti-fraud set up in your store, you can activate it for this payment condition by checking the __Use anti-Fraud solutio__ box.
 7. Choose whether you want payments to be made in cash or installments.
 8. If you wish, you can also opt for a [special payment condition](/en/tutorial/special-conditions).
-9. Click __Save__.
+9. Click `Save`.
 
-After following the steps indicated above, __Apple Pay__ will appear at your store checkout as a payment option for your customers to use.
+After following the indicated steps, Apple Pay may take up to 10 minutes to appear at your store's checkout as a payment option.
 
 ### Related articles
-- [Setting up Rede acquirer with ERedeRest](/en/tutorial/setting-up-rede-acquirer-with-erederest)
-- [How to set up your Adyen gateway in VTEX platform](/en/tutorial/how-to-configure-the-adyen-gateway-on-vtex)
+
 - [Setting up Merchant ID in Apple Pay](https://developers.vtex.com/vtex-rest-api/docs/setting-up-merchant-id-in-apple-pay)
-- [Configuring payment special conditions](/en/tutorial/special-conditions)
-- [What is an e-wallet?](/en/faq/what-is-an-e-wallet)
+- [Configuring payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456)
+- [What is an ewallet?](https://help.vtex.com/en/tutorial/what-is-an-e-wallet--4v5wcOe4A0SiaimWM2cU60)

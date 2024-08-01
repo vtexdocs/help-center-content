@@ -3,8 +3,8 @@ title: 'Adding Mercado Livre conector'
 id: 4YvYdgICMosaEgISOYogsi
 status: PUBLISHED
 createdAt: 2018-08-13T12:33:55.818Z
-updatedAt: 2022-02-03T23:29:27.323Z
-publishedAt: 2022-02-03T23:29:27.323Z
+updatedAt: 2023-07-06T20:21:00.334Z
+publishedAt: 2023-07-06T20:21:00.334Z
 firstPublishedAt: 2018-08-13T14:28:06.574Z
 contentType: trackArticle
 productTeam: Channels

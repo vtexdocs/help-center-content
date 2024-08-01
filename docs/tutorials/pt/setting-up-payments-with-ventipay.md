@@ -3,8 +3,8 @@ title: 'Configurar pagamento com VentiPay'
 id: 11n076tXgeLa1wDT3n2hyZ
 status: PUBLISHED
 createdAt: 2022-10-18T18:04:20.082Z
-updatedAt: 2023-03-21T20:49:01.107Z
-publishedAt: 2023-03-21T20:49:01.107Z
+updatedAt: 2024-01-24T18:08:16.663Z
+publishedAt: 2024-01-24T18:08:16.663Z
 firstPublishedAt: 2022-10-18T18:28:35.755Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pagamento-com-ventipay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o gateway VentiPay. Com este conector, sua loja pode realizar vendas por meio da VentiPay.
+Na VTEX, é possível realizar a integração com o provedor de pagamentos VentiPay. Por meio deste provedor, sua loja pode realizar vendas por meio da VentiPay.
 
-Para configurar a afiliação VentiPay, siga os passos abaixo:
+Para configurar VentiPay, siga os passos abaixo:
 
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão `+`.
-3. Clique no conector __Ventipay__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __Ventipay__ na barra de busca e clique sobre o nome do provedor.
 4. Preencha os campos __Application Key__ e __Application Token__ com as informações da sua conta VentiPay.
 5. Clique em `Salvar`.
 
@@ -33,5 +33,5 @@ Para configurar a afiliação VentiPay, siga os passos abaixo:
 4. Ative a condição no campo __Status__.
 5. Clique em `Salvar`.
 
-Depois de seguir os passos indicados, o conector VentiPay pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 
+Depois de seguir os passos indicados, VentiPay pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 
 

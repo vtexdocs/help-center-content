@@ -3,8 +3,8 @@ title: 'Classificar pelo nome trabalhando de forma diferente em lojas integradas
 id: 96cQG19ZAmAtVT0ykZ4nF
 status: PUBLISHED
 createdAt: 2022-06-20T12:11:22.846Z
-updatedAt: 2022-11-25T21:58:18.041Z
-publishedAt: 2022-11-25T21:58:18.041Z
+updatedAt: 2024-07-01T18:48:26.055Z
+publishedAt: 2024-07-01T18:48:26.055Z
 firstPublishedAt: 2022-06-20T12:11:23.353Z
 contentType: knownIssue
 productTeam: Intelligent Search
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: classificar-pelo-nome-trabalhando-de-forma-diferente-em-lojas-integradas-antes-de-uma-data
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 600468
 ---
 

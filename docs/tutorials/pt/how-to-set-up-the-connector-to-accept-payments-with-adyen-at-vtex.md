@@ -1,10 +1,10 @@
 ---
 title: 'Configurar o conector para aceitar pagamentos com Adyen na VTEX'
 id: tutorials_2337
-status: PUBLISHED
+status: DRAFT
 createdAt: 2017-04-27T21:55:10.101Z
-updatedAt: 2023-03-24T14:56:13.138Z
-publishedAt: 2023-03-24T14:56:13.138Z
+updatedAt: 2024-03-18T17:52:42.714Z
+publishedAt: 
 firstPublishedAt: 2017-04-27T23:03:52.166Z
 contentType: tutorial
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: pt
 legacySlug: como-configurar-o-gateway-adyen-na-vtex
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+<div class="alert alert-danger">Essa integração de pagamento não pode ser mais configurada na plataforma devido ao <a href="https://help.vtex.com/pt/announcements/conectores-legados-de-pagamentos-serao-descontinuados-em-2024--4R5YIjUu1IWkiOHzXtQU14">processo de remoção de provedores legados</a> e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.</div>
 
 <div class="alert alert-warning">As configurações documentadas neste artigo são realizadas em um ambiente externo à VTEX. Portanto, podem ser descontinuadas sem prévio aviso.</div>
 
@@ -75,7 +77,7 @@ Em seguida, é só recolher as informações da Adyen para cadastrar na VTEX. Ai
 
 7. Depois destes passos, seu usuário deverá ter sido criado com sucesso. O número 1 (indicado na imagem em vermelho) é o username. Já o número 2 é a senha (password) que deverá ser inserida no ambiente VTEX.
 
-    ![Adyen - Image 2](https://images.ctfassets.net/alneenqid6w5/7jtKskh7uYiUuMnI6t7UqJ/ea01c037ad5c541a26fdef50b1a0d4fd/image2.png)
+    ![Adyen - Image 2](//images.ctfassets.net/alneenqid6w5/7jtKskh7uYiUuMnI6t7UqJ/ea01c037ad5c541a26fdef50b1a0d4fd/image2.png)
 
 8. Envie um e-mail para o suporte da Adyen (suporte@adyen.com) solicitando as habilitações listadas no modelo abaixo:
 
@@ -102,16 +104,13 @@ Se você pretende usar a plataforma da Adyen para fazer análise antifraude com 
 
 <ui>5. A configuração deverá parecer conforme abaixo. Não esqueça de clicar em **Save configuration** após concluir as alterações.</ui>
 
-![Adyen - Image 1](https://images.ctfassets.net/alneenqid6w5/1K5aqITpHU74XYQ5eO7wKc/a29d285086d15dd28a596ab344d72763/image1.png)
+![Adyen - Image 1](//images.ctfassets.net/alneenqid6w5/1K5aqITpHU74XYQ5eO7wKc/a29d285086d15dd28a596ab344d72763/image1.png)
 
 ## Configurações na VTEX
 
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-
-2. Clique em **Afiliações de Gateway**.
-
-3. Clique em **Adyen**.
-
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __Adyen__ na barra de busca e clique sobre o nome do provedor.
 4. Preencha os campos do formulário com os dados obtidos na Adyen e clique no botão **Salvar**:
 
 - **username** - username Adyen (instrução 5 das **Configurações na Adyen**)

@@ -1,10 +1,10 @@
 ---
 title: 'Setting up payments with BraspagV2'
 id: 6gaw7zu9wlItgjfDVndRPn
-status: PUBLISHED
+status: DRAFT
 createdAt: 2022-01-20T19:41:22.154Z
-updatedAt: 2023-03-22T19:03:11.096Z
-publishedAt: 2023-03-22T19:03:11.096Z
+updatedAt: 2023-09-19T14:27:03.358Z
+publishedAt: 
 firstPublishedAt: 2022-01-21T16:38:10.049Z
 contentType: tutorial
 productTeam: Financial

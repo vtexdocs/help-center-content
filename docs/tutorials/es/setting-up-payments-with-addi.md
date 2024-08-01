@@ -3,8 +3,8 @@ title: 'Configurar pago con Addi'
 id: 7FhMbT3hN2i5je74lqx6QI
 status: PUBLISHED
 createdAt: 2022-02-14T12:22:11.957Z
-updatedAt: 2023-03-27T12:46:46.989Z
-publishedAt: 2023-03-27T12:46:46.989Z
+updatedAt: 2024-01-23T18:29:23.380Z
+publishedAt: 2024-01-23T18:29:23.380Z
 firstPublishedAt: 2022-02-14T15:04:37.219Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pago-con-addi
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX es posible la integración con el proveedor de pagos Addi. Con este conector, tu tienda puede realizar ventas a plazos sin tarjeta de crédito.
+En VTEX es posible la integración con el proveedor de pagos Addi. Con este proveedor, tu tienda puede realizar ventas a plazos sin tarjeta de crédito.
 
-Para configurar la afiliación Addi, siga los pasos a continuación:
+Para configurar Addi, siga los pasos a continuación:
 
-1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
-2. En la pestana __Afiliaciones de Gateway__, haga clic en el botón __+__.
-3. Haga clic en el conector __Addi__.
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __Addi__ en la barra de búsqueda y haga clic en el nombre del proveedor.
 4. Rellene los campos de registro __Application Key__ y __Application Token__ con los datos proporcionados por Addi.
 5. En __Country of Operation__, seleccione el país donde operará el conector.
 6. Haga clic en __Guardar__.

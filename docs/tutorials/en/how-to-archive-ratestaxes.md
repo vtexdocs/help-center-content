@@ -18,7 +18,7 @@ subcategory: 18Gsips3u48UYCu0Ku2sWm
 
 If you want to remove a rate created from the main list, for example, because it is not being used, you can move it to the list of archived taxes. By doing this, the status of the rate will be automatically changed to inactive. To do so, follow the steps below:
 
-![example 1](https://images.ctfassets.net/alneenqid6w5/14f4EpASB8c2m2kMEcES0c/7e83ef6235c1d6bb8071fb4a2ae0dea4/example_1.png)
+![example 1](//images.ctfassets.net/alneenqid6w5/14f4EpASB8c2m2kMEcES0c/7e83ef6235c1d6bb8071fb4a2ae0dea4/example_1.png)
 
 1. In the VTEX Admin, go to *Promotions > Taxes*, or type *Taxes* in the search bar at the top of the page.
 2. Search the rate that you intend to archive.

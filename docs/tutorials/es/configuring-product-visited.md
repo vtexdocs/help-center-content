@@ -1,10 +1,10 @@
 ---
 title: 'Configurar producto visitado'
 id: tutorials_3136
-status: PUBLISHED
+status: CHANGED
 createdAt: 2017-04-27T21:52:11.184Z
-updatedAt: 2023-03-28T23:34:22.351Z
-publishedAt: 2023-03-28T23:34:22.351Z
+updatedAt: 2024-06-18T21:19:01.080Z
+publishedAt: 2024-06-18T21:15:58.589Z
 firstPublishedAt: 2017-04-27T23:03:54.918Z
 contentType: tutorial
 productTeam: Master Data
@@ -14,6 +14,10 @@ locale: es
 legacySlug: configurar-producto-visitado
 subcategory: 2nx7hMJmisofwqwy2P9l2i
 ---
+
+<div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
+Tutorial válido solo para tiendas CMS Portal Legado.
+</div>
 
 El producto visitado es la funcionalidad que envía emails a los clientes que navegaron por un producto en su site pero que no finalizaron compra. Ese email tiene como objetivo la recuperación de la venta, enviando, además del producto abandonado, sugerencias de nuevos productos. Todo ello es posible a través de su Master Data.
 

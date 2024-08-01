@@ -3,8 +3,8 @@ title: 'El servicio fiscal utiliza los datos del documento en lugar del correo e
 id: IOu1ZV40Q5yHjgbcS9C15
 status: PUBLISHED
 createdAt: 2022-03-23T17:50:15.754Z
-updatedAt: 2022-11-25T21:53:38.397Z
-publishedAt: 2022-11-25T21:53:38.397Z
+updatedAt: 2024-02-16T20:28:42.991Z
+publishedAt: 2024-02-16T20:28:42.991Z
 firstPublishedAt: 2022-03-23T17:50:16.302Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-servicio-fiscal-utiliza-los-datos-del-documento-en-lugar-del-correo-electronico-del-cliente
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 548671
 ---
 

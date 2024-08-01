@@ -3,8 +3,8 @@ title: 'Configuring promotions for marketplaces'
 id: tutorials_406
 status: PUBLISHED
 createdAt: 2017-04-27T22:06:28.854Z
-updatedAt: 2023-01-26T18:41:34.664Z
-publishedAt: 2023-01-26T18:41:34.664Z
+updatedAt: 2024-01-18T17:21:44.418Z
+publishedAt: 2024-01-18T17:21:44.418Z
 firstPublishedAt: 2017-04-27T23:03:23.902Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -24,6 +24,7 @@ Only the following [regular promotions](https://help.vtex.com/en/tracks/promotio
 - Free shipping
 - Percentage shipping
 - Percentage price
+- Price tables
 
 The settings available for VTEX marketplaces are different from the ones of external marketplaces. Therefore, promotions in other marketplace environments are slightly different.
 
@@ -41,7 +42,7 @@ For this type of promotion, it is important to keep the following information in
 
 For this type of promotion, it is important to keep the following information in mind:
 
-- The marketplace does not receive the promotion but rather a notification via API informing that the price has changed. It is up to the marketplace to check the promotional price.
+- Once the seller has created and activated the promotion, it does not send any notifications to the marketplace. It is up to the marketplace to check the promotional price.
 - For the promotion to be applied to the product price, the marketplace must simulate the SKU price using the [Do OrderForm Simulation](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pub/orderForms/simulation) endpoint of the Checkout API.
 - The promotion will not apply to the product price if the marketplace uses the [Get Price](https://developers.vtex.com/docs/api-reference/pricing-api#get-/prices/-itemId-) endpoint of the Pricing API for checking prices. This endpoint shows only the prices listed on VTEX without considering promotions.
 - Sellers determine the discount limits that the marketplace can apply to the total order value. If the discount is greater than the established limit, the order will not be placed. You can change your store’s settings in the [Order authorization](https://help.vtex.com/en/tutorial/how-order-authorization-works--3MBK6CmKHAuUjMBieDU0pn#price-divergence) section.
@@ -51,13 +52,13 @@ For this type of promotion, it is important to keep the following information in
 There are differences between the settings available for VTEX marketplaces and external marketplaces. See in the table below the features applicable in each case.
 
 <div class = "alert alert-warning">
-  <p><b>Warning:</b>In the case of external integrations, configurations are unique to each marketplace, and it’s up to them to decide which features they will use.</p>
+  <p>In the case of external integrations, configurations are unique to each marketplace, and it’s up to them to decide which features they will use.</p>
 </div>
 
 | Settings  | Description      | Available for VTEX marketplaces? | Available for external marketplaces? |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------------ |
 | Name| Promotion name | Yes| Yes|
-| Status| Option that defines if the promotion is active or inactive.| Yes| Yes|
+| Status| Option that defines if the promotion is active or inactive.| Yes| Yes| 
 | Description| The internal description of the promotion| Yes| Yes|
 | Allow cumulative promotions   | More than one promotion can be applied simultaneously, regardless of the discount type.| Yes| Yes|
 | Nominal Discount| Discount granted to the total cart price.| Yes| Yes|
@@ -74,7 +75,47 @@ There are differences between the settings available for VTEX marketplaces and e
 | Sales channels| The discount applies to a sales channel list.| Yes| Yes|
 | Item price between| Sets the trade policies applicable to the promotion.| Yes| Yes|
 
-## Determining where promotions will be applied
+## Promotions unavailable for marketplaces
+
+Check the promotions that are not available for marketplaces:
+
+* Nominal discount
+* Maximum price per item
+* Nominal shipping
+* Maximum shipping
+* Gift
+* Nominal reward amount
+* Buy Together - Bundle
+* More for Less
+* Progressive Discount
+* Buy One Get One
+* Campaign Promotion
+
+### Unavailable settings
+
+See below the settings that are not available for marketplaces:
+
+| Name                                                                      | Description                                                                                                                                                                                               |
+| ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Customer cluster                                                          | Discount given if the customer is part of the selected [cluster](https://help.vtex.com/en/tutorial/como-criar-um-cluster-de-clientes--frequentlyAskedQuestions_1724).                                     |
+| Marketing tags                                                            | Used to limit the promotion's activation if the order is placed through [the VTEX Subscriptions module](https://help.vtex.com/en/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453).     |
+| UTMs                                                                      | Discount given depending on the value of a given [UTM parameter](https://help.vtex.com/en/tutorial/o-que-sao-utm-source-utm-campaign-e-utm-medium--2wTz7QJ8KUG6skGAoAQuii).                               |
+| Campaign audience                                                         | Allows you to segment your store's promotions by defining [target audiences](https://help.vtex.com/en/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m#publico-alvo) that meet specific criteria. |
+| Coupons                                                                   | Code that allows promotions to be applied to the total cart amount.                                                                                                                                       |
+| Cart maximum or minimum total amount                                      | Applied based on the total cart amount, regardless of other promotions or shipping.                                                                                                                       |
+| Number of installments                                                    | Discount given if the number of installments selected by the customer is within the specified range.                                                                                                      |
+| Restriction BIN                                                           | Discount given if the card's BIN is among the specified numbers.                                                                                                                                          |
+| Payment method                                                            | Discount given if the customer selects the same payment method as the one in the promotion.                                                                                                               |
+| First purchase                                                            | Discount given on the customer's first purchase.                                                                                                                                                          |
+| Aggregate purchase value                                                  | Discount given if the customer's total purchase amount reaches the specified amount.                                                                                                                      |
+| Apply with manual prices                                                  | Allows the promotion to be applied to products with prices manually added by telesales.                                                                                                                   |
+| Price "from" and "to" are the same or Price "from" and "to" are different | Refers to the prices saved for that product.                                                                                                                                                              |
+| Seller filter                                                             | Defines which sellers the promotion will be applied to.                                                                                                                                                   |
+| Maximum use of promotion per customer                                     | Limits the number of times each customer can receive the promotion.                                                                                                                                       |
+| Maximum use of promotion per store                                        | Limits the number of times the promotion can be applied.                                                                                                                                                  |
+| Maximum use of coupon per product                                         | Limits the number of times a coupon can be applied to a product.                                                                                                                                          |
+
+## Determining the context in which promotions will be applied
 
 If necessary, you can segment promotions for specific marketplaces. You can obtain these results by using two selectors:
 
@@ -96,5 +137,5 @@ If necessary, you can segment promotions for specific marketplaces. You can obta
 4. Click on `Save`.
 
 <div class = "alert alert-warning">
-  <p> Please remember to <a href = "https://help.vtex.com/pt/tutorial/entendendo-a-manutencao-da-base-de-dados--34P9LGs7BCIQK6acQom802">reindex all products included in the promotion</a> after you’ve created it. This will ensure that the prices of your products are up to date.</p>
+  <p> Please remember to <a href = "https://help.vtex.com/pt/tutorial/entendendo-a-manutencao-da-base-de-dados--34P9LGs7BCIQK6acQom802">reindex all products included in the promotion</a> after you’ve created it and at the beginning and end of the promotions. This will ensure that the prices of your products are up to date.</p>
 </div>

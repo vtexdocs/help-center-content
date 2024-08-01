@@ -37,7 +37,7 @@ Após a instalação, a página **Catálogo > Assembly Options** se torna dispon
 
 No Admin VTEX, em **Catálogo > Assembly options**, você tem acesso a uma lista com todas as Assembly Options cadastradas na sua loja utilizando o aplicativo.
 
-![assembly-options-app](https://images.ctfassets.net/alneenqid6w5/7AoMYLduvKisAxKMho64m0/e2166df5fd26a7dba75c2420c19e43e9/image1.png)
+![assembly-options-app](//images.ctfassets.net/alneenqid6w5/7AoMYLduvKisAxKMho64m0/e2166df5fd26a7dba75c2420c19e43e9/image1.png)
 
 As informações exibidas na lista são:
 

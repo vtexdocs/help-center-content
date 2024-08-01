@@ -3,8 +3,8 @@ title: 'Seller Portal: First Steps for the Seller'
 id: 6w1vBdRH2uuBGmUqgNQjwK
 status: PUBLISHED
 createdAt: 2021-01-26T15:08:22.524Z
-updatedAt: 2023-03-02T21:29:12.945Z
-publishedAt: 2023-03-02T21:29:12.945Z
+updatedAt: 2024-05-30T22:41:41.434Z
+publishedAt: 2024-05-30T22:41:41.434Z
 firstPublishedAt: 2021-09-15T20:50:27.452Z
 contentType: tutorial
 productTeam: Channels
@@ -52,6 +52,8 @@ Here are some details about the Seller Portal:
 - Managing seller’s own assortment of products  
 
 ## Setting up your store
+
+<div class="alert alert-warning"> The limit for each Seller Portal account is 100 thousand products. For more information, please contact our <a href="https://support.vtex.com/hc/pt-br/requests">Support.</div>
 
 To start selling your products on the marketplace, you need to configure your store on the Seller Portal. This article explains the complete flow of this initial setup and indicates other documentation for you to access each step in more detail. The basic configuration of the Seller Portal includes the steps listed below.
 
@@ -131,9 +133,18 @@ Whenever a product or variation is created on the Seller Portal, they are automa
 ### 7. Orders
 The moment the end customer pushes the Checkout button, an order is generated inside VTEX. This means that you will now be able to track the order flow through the Order Management module within your store's admin panel. That is, you can now know the details of each step throughout the order progress. To access the Orders module, go to the sidebar and click on Orders > All Orders / Transactions.
  To learn more, check out our article:  
- - [How Orders work in VTEX](https://help.vtex.com/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE)
+ - [How Orders work in VTEX](https://help.vtex.com/en/tracks/orders--2xkTisx4SXOWXQel8Jg8sa/2sl6hj2eqwgqbDgTF6y5qE)  
 
-### 8. Supervising Offer Management
+### 8. Creating and managing promotions
+
+The **Promotions** page on the Seller Portal allows sellers and marketplaces to create promotions and manage a complete list of registered promotions, simplifying promotion management.
+
+To learn more, check out the following articles:
+
+- [Seller Portal: Promotions](https://help.vtex.com/en/tutorial/seller-portal-promocoes--73LL7Ja0P4JbD77AH0jHwu)  
+- [Seller Portal: Creating a promotion](https://help.vtex.com/en/tutorial/seller-portal-criar-uma-promocao--kzNPEaiJE8EWkDzO9dbBI)  
+
+### 9. Supervising Offer Management
 
 The _Offer Management_ module allows sellers to monitor their offers’ submission and synchronization on all channels integrated with the store. The main page features two components that display in real-time the status of the offers and their updates based on data from the marketplace and other VTEX modules. It’s where sellers can track all interactions of Catalog, Price, or Stock type in their offers in order to identify errors while sending and syncing offers.
 
@@ -143,7 +154,7 @@ To learn more, check out the following articles:
 - [Offer Management: offer details](https://help.vtex.com/en/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P)  
 - [Offer Management: interaction details](https://help.vtex.com/en/tutorial/detalhes-da-interacao--5qC6XPkyUsYPd0dqKHQNlf)
 
-### 9. Sales Performance Dashboard
+### 10. Sales Performance Dashboard
 The _Dashboards_ menu is a control panel that displays data for your unified commerce. The analyses presented here can inform decisions and help prioritize tasks for different professionals, from operations to commercial and marketing. The Dashboards include up-to-date data from all sales channels in which your store operates with VTEX, including key metrics that impact your store revenue.
 
 ## Optional configurations

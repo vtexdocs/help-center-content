@@ -3,8 +3,8 @@ title: "Elo's card brand transactions with ERedeRest are not respecting early ca
 id: 2OSpQyzDkiGioqcEmhuXpk
 status: PUBLISHED
 createdAt: 2023-05-08T20:29:59.412Z
-updatedAt: 2023-05-08T20:36:20.200Z
-publishedAt: 2023-05-08T20:36:20.200Z
+updatedAt: 2024-02-16T20:27:48.477Z
+publishedAt: 2024-02-16T20:27:48.477Z
 firstPublishedAt: 2023-05-08T20:29:59.878Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: elos-card-brand-transactions-with-erederest-are-not-respecting-early-capture
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 350814
 ---
 

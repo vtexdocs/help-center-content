@@ -51,8 +51,8 @@ That is, I'm using the variables `preposicaonomeloja2` and `nomeloja`.
 When using variables to compose a text, replace the <code>#</code> symbol with <code>@</code>. That is, <b>#variable#</b> becomes <b>@variable@</b>.
 </div>
 
-![textos-importantes en](https://images.ctfassets.net/alneenqid6w5/3ck7V4j6wgygm0qE2ia2m8/ec2d596e8fbee37f53d38568d797a401/textos_importantes_en.png)
-![exemplos-textos-importantes en](https://images.ctfassets.net/alneenqid6w5/3qJmU7aPIcUowc6SkaYoSS/4c7d666cf29ef651c19ee837c9f42a75/3_en.png)
+![textos-importantes en](//images.ctfassets.net/alneenqid6w5/3ck7V4j6wgygm0qE2ia2m8/ec2d596e8fbee37f53d38568d797a401/textos_importantes_en.png)
+![exemplos-textos-importantes en](//images.ctfassets.net/alneenqid6w5/3qJmU7aPIcUowc6SkaYoSS/4c7d666cf29ef651c19ee837c9f42a75/3_en.png)
 
 As I defined the content of the first variable to be "to" and the second one is "World Shopping", the final text rendered on the site will be "Welcome to World Shopping".
 

@@ -1,10 +1,10 @@
 ---
 title: 'Offer Quality Filters'
 id: 4xm0gi8leCyxHj8YdgHSJH
-status: CHANGED
+status: PUBLISHED
 createdAt: 2023-02-27T12:15:26.682Z
-updatedAt: 2023-05-30T21:12:51.762Z
-publishedAt: 2023-02-28T13:45:44.808Z
+updatedAt: 2024-06-20T21:38:38.621Z
+publishedAt: 2024-06-20T21:38:38.621Z
 firstPublishedAt: 2023-02-27T19:32:00.584Z
 contentType: tutorial
 productTeam: Channels
@@ -12,7 +12,7 @@ author: 0QBQws7rk0t5Mnu8fgfUv
 slug: offer-quality-filters
 locale: en
 legacySlug: offer-quality-filters
-subcategory: 4hU8QWlzhxWg711Kz7Gmib
+subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---
 
 [Marketplaces](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#being-a-vtex-marketplace) need to review and approve offers submitted by sellers to add products to the catalog. In the VTEX Admin, this [cataloging process](https://help.vtex.com/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396) is done through the Received SKUs page.
@@ -21,7 +21,7 @@ Quality criteria are important for the marketplace's operation so that the offer
 
 **Offer quality filters** is the page where marketplaces add and manage the requirement groups applied to the received SKU cataloging process. To access it, in your VTEX Admin, go to **Marketplace > Offer Quality** or type __"Offer Quality"__ in the search bar.
 
-![EN offer quality](https://images.ctfassets.net/alneenqid6w5/7GL1AaqkfQqjLCj262wg04/73ac6313be9a602772446d24f0dbd8ba/EN_offer_quality.png)
+![EN offer quality](//images.ctfassets.net/alneenqid6w5/7GL1AaqkfQqjLCj262wg04/73ac6313be9a602772446d24f0dbd8ba/EN_offer_quality.png)
 
 In this article, learn how to:
 
@@ -46,7 +46,7 @@ The feature allows the marketplace operator to perform many actions, each offeri
 | Bring more transparency to the cataloging criteria for submitted offers and how sellers and offers do or do not comply.                                                                     | It allows you to identify which sellers and offer types do not meet the requirements, speeding up corrections.         |
 
 ## Viewing Default requirements
-![EN Default requirements](https://images.ctfassets.net/alneenqid6w5/6OxPTO8QO6o9zZ8kTt5tVG/83dd62ff723ec843269ea0919c31633d/EN_Default_requirements.png)
+![EN Default requirements](//images.ctfassets.net/alneenqid6w5/6OxPTO8QO6o9zZ8kTt5tVG/83dd62ff723ec843269ea0919c31633d/EN_Default_requirements.png)
 
 The page, by default, has some pre-configured requirements that will apply to all categories, sellers, and brands, called _Default requirements_. Some of these criteria are natively configured in [VTEX Matcher](https://help.vtex.com/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424), the tool applied to VTEX marketplaces to support the cataloging process of submitted offers.
 

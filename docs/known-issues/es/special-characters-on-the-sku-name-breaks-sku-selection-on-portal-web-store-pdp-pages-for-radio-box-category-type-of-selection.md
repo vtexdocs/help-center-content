@@ -3,8 +3,8 @@ title: 'Caracteres especiales en el nombre de la SKU rompe la selección de la S
 id: 1G4FSBVZqn44ke7YJTuBJA
 status: PUBLISHED
 createdAt: 2022-03-16T16:26:36.035Z
-updatedAt: 2022-11-25T22:11:14.593Z
-publishedAt: 2022-11-25T22:11:14.593Z
+updatedAt: 2024-02-16T20:29:47.269Z
+publishedAt: 2024-02-16T20:29:47.269Z
 firstPublishedAt: 2022-03-16T16:26:36.503Z
 contentType: knownIssue
 productTeam: Portal
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: caracteres-especiales-en-el-nombre-de-la-sku-rompe-la-seleccion-de-la-sku-en-las-paginas-del-portal-web-store-pdp-para-la-caja-de-radio-tipo-de-seleccion-de-la-categoria
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 337933
 ---
 

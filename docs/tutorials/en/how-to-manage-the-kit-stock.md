@@ -3,8 +3,8 @@ title: 'Managing the kit stock'
 id: frequentlyAskedQuestions_156
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:51.252Z
-updatedAt: 2019-12-31T15:26:27.183Z
-publishedAt: 2019-12-31T15:26:27.183Z
+updatedAt: 2024-04-29T13:09:03.955Z
+publishedAt: 2024-04-29T13:09:03.955Z
 firstPublishedAt: 2019-01-24T22:03:46.311Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -19,17 +19,13 @@ A kit can be assembled in two ways. Below, see some considerations about each of
 
 ## Kit product without components
 
-That's normally a product that is already structured as a kit (several components) in the store distribution center. VTEX only indicates this product, without the need for registration of its components. 
-
-That is, both the price and the stock are displayed directly on the SKU kit.
+That's normally a product that is already structured as a kit (several components) in the store distribution center. VTEX only indicates this product, without the need for registration of its components. That is, both the price and the stock are displayed directly on the SKU kit.
 
 ## Kit product with components
 
 The kit with components is the idea of a kit product whose SKU is a "cluster" of other SKUs. This model is normally used when the kit consists of other products that are already in store, and are sold separately by origin. So, the store SKUs are selected, and the price and the stock needed for each SKU to compose 1 (one) of this kit products are settled.
 
-![](//images.contentful.com/alneenqid6w5/42WZMhNkPSaq2mCkQSQI0G/4c411361196ea8d24a8a1a08aabfa783/kit.png)
-
-In the example above, the kit Product called **Colorido** is composed by other 10 SKUs. Each, with its required amount of 1 (one) SKU item to compose the kit.
+For example, a kit product called Colorido is composed by other 10 SKUs. Each, with its required amount of 1 (one) SKU item to compose the kit.
 
 ![](//images.contentful.com/alneenqid6w5/2zwcLWeIX2kwsiQ0GCYm6G/b11fa6ded4ffb56faed9bc0158e980ae/kitcolorido.png)
 

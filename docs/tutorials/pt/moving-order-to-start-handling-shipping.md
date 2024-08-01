@@ -3,8 +3,8 @@ title: 'Passar pedido para o status Preparando Entrega'
 id: tutorials_198
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:17.090Z
-updatedAt: 2023-03-31T14:47:04.890Z
-publishedAt: 2023-03-31T14:47:04.890Z
+updatedAt: 2023-06-15T13:32:59.728Z
+publishedAt: 2023-06-15T13:32:59.728Z
 firstPublishedAt: 2017-04-27T23:02:47.756Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -21,9 +21,11 @@ A baixa na reserva não ocorre automaticamente, isso deve ser controlado pelo se
 
 Veja a seguir as maneiras possíveis de atualização desse status.
 
-## Por integração
+## Por integração e API
 
-As integrações automatizam esse processo. Elas acontecem quando outros sistemas consultam os pedidos da VTEX para seguir com o fluxo de expedição. Essa integração pode ser feita via API REST, conforme nosso [guia de integração de ERPs](https://developers.vtex.com/docs/erp-integration-set-up-order-processing).
+As integrações automatizam esse processo. Elas acontecem quando outros sistemas consultam os pedidos da VTEX para seguir com o fluxo de expedição. Essa integração pode ser feita via API REST, conforme nosso [guia de integração de ERPs](https://developers.vtex.com/docs/erp-integration-set-up-order-processing). 
+
+Feito isso, você poderá usar a API [Start handling order](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/start-handling).
 
 ## Pelo Admin VTEX
 

@@ -3,8 +3,8 @@ title: 'Data subject rights'
 id: 6imchxTx09icupKMbzHVIM
 status: PUBLISHED
 createdAt: 2023-04-26T18:56:45.938Z
-updatedAt: 2023-04-27T12:43:48.560Z
-publishedAt: 2023-04-27T12:43:48.560Z
+updatedAt: 2023-06-22T21:47:26.569Z
+publishedAt: 2023-06-22T21:47:26.569Z
 firstPublishedAt: 2023-04-26T19:50:54.254Z
 contentType: tutorial
 productTeam: Others
@@ -50,7 +50,7 @@ To export data from the Master Data v1 through the Admin dashboard, follow these
 1. In the VTEX Admin, go to **Store Settings** > **Storefront** > **Master Data.**
 2. Click the **Applications** tab.
 3. Click the view icon (on the right) of the desired data entity.
-![Master Data view button](https://images.ctfassets.net/alneenqid6w5/oYSaPi7x9Vlr4EAiufbew/601df52aab81d94c5ad3afc75103fde3/visualizar_bot__o_master_data_EN.png)
+![Master Data view button](//images.ctfassets.net/alneenqid6w5/oYSaPi7x9Vlr4EAiufbew/601df52aab81d94c5ad3afc75103fde3/visualizar_bot__o_master_data_EN.png)
 4. Use the [Master Data v1 filter](https://help.vtex.com/tutorial/filtering-data-on-master-data--tutorials_778#how-to-use-filters) to filter only the data for the desired user. Use the `email` or `user ID` as the filter field.
 5. Click `Export XLS`.
 6. Select the `Select all fields` option.
@@ -133,7 +133,7 @@ Learn more about <a href="https://help.vtex.com/en/tutorial/configurar-carrinho-
 
 ## Erasure
 
-The right to erasure allows customers to request that their personal data be deleted from the platform.
+The right to erasure allows customers to request that their personal data be erased from the platform.
 
-If any customer requests to delete their data from your store, you can comply by following the [Deleting customer data](https://help.vtex.com/en/tutorial/exclusao-de-dados-de-clientes--1R9Fn7A06Ifj4R9YD4JTKU) guide.
+If any customer requests to erase their data from your store, you can comply by following the [Erasing customer data](https://help.vtex.com/en/tutorial/exclusao-de-dados-de-clientes--1R9Fn7A06Ifj4R9YD4JTKU) guide.
 

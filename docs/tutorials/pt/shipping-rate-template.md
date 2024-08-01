@@ -3,8 +3,8 @@ title: 'Planilha de frete'
 id: tutorials_127
 status: PUBLISHED
 createdAt: 2019-02-22T19:36:18.509Z
-updatedAt: 2023-03-29T18:18:59.537Z
-publishedAt: 2023-03-29T18:18:59.537Z
+updatedAt: 2023-10-10T13:26:19.271Z
+publishedAt: 2023-10-10T13:26:19.271Z
 firstPublishedAt: 2019-02-22T19:36:22.375Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -121,7 +121,7 @@ Confira a tabela a seguir para entender cada campo detalhadamente.
             <td class="t-body pa5" style="min-width: 15rem;">
                 <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">PricePercent</span>
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;"><a href="https://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV">Adicional por preço,</a> calculado de acordo com o preço do carrinho, em número decimal. Para o preenchimento da tabela utilize o valor em porcentagem (por exemplo para um adicional de 10% preencha a tabela com 10).
+            <td class="t-body pa5" style="min-width: 15rem;"><a href="https://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV">Adicional por preço,</a> calculado em número decimal de acordo com o preço dos produtos no carrinho. Para o preenchimento da tabela, utilize o valor em porcentagem. Por exemplo: para um adicional de 10% preencha a tabela com 10.
             </td>
             <td class="t-body pa5" style="min-width: 15rem;"> Utilize o campo nos casos em que exista um adicional de preço para a entrega. Os <a href="https://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV">adicionais de frete</a> são somados ao valor fixo.
             </td>
@@ -181,11 +181,7 @@ Para fins de usabilidade de termos, utilizamos em nossa documentação o termo "
 
 Veja abaixo um exemplo de preenchimento dos campos, considerando o formato aceito em cada coluna. 
 
-![modelo_planilhanumerica](https://images.ctfassets.net/alneenqid6w5/15Dc2cfsXWbIwSt2vypWN3/20628e9acf5336c3fefcc84d334c08ec/freight_-_Debora_Moreno.png)
-
-### Planilha para os Correios
-
-Caso queira disponibilizar a entrega pelos Correios, é possível gerar uma planilha automática no padrão VTEX. Acesse o integrador Correios, e gere a planilha pela ferramenta oferecida pela XP Agência no link [XP planilhas](http://planilha.xpagencia.com.br/).
+![modelo_planilhanumerica](//images.ctfassets.net/alneenqid6w5/15Dc2cfsXWbIwSt2vypWN3/20628e9acf5336c3fefcc84d334c08ec/freight_-_Debora_Moreno.png)
 
 ## Enviar o arquivo pelo Admin VTEX
 

@@ -3,8 +3,8 @@ title: 'My Admin is blocked. What do I do?'
 id: 4IkFRmDVx6quIIcwoOGY6K
 status: PUBLISHED
 createdAt: 2017-10-11T13:36:13.665Z
-updatedAt: 2021-03-22T20:31:43.767Z
-publishedAt: 2021-03-22T20:31:43.767Z
+updatedAt: 2023-07-24T15:11:04.222Z
+publishedAt: 2023-07-24T15:11:04.222Z
 firstPublishedAt: 2017-10-11T13:39:18.676Z
 contentType: frequentlyAskedQuestion
 productTeam: Others
@@ -22,9 +22,8 @@ While waiting for the Finance team to contact you, you can temporarily unlock th
 
 Follow the steps below in order to unlock your Admin for this period of time. You must have the permissions of Admin Super or [Financial Role](https://help.vtex.com/en/tutorial/como-criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv?locale=en) to perform the following actions:
 
-- Access the Invoices module.
-- Click **Check how to temporarily unlock**.
-- Enter the ticket number you previously opened to unlock.
-- Click the **Unlock for 48 hours** button.
+1. Access the Invoices module.
+2. Click **Check how to temporarily unlock**.
+3. Enter the ticket number you previously opened to unlock.
+4. Click the **Unlock for 48 hours** button.
 
-![Home](https://images.ctfassets.net/alneenqid6w5/47nqpufLpGtuGZKFS9hUj2/45133349a94313f29910f94f40c7f860/Home.gif)

@@ -3,8 +3,8 @@ title: 'Cómo solucionar errores en pedidos de suscripción'
 id: uLL8AYBGdtAmbbdL5gRCf
 status: PUBLISHED
 createdAt: 2020-02-05T14:32:49.763Z
-updatedAt: 2022-12-05T17:09:40.639Z
-publishedAt: 2022-12-05T17:09:40.639Z
+updatedAt: 2023-12-21T14:07:42.772Z
+publishedAt: 2023-12-21T14:07:42.772Z
 firstPublishedAt: 2020-02-11T15:00:00.666Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -14,6 +14,10 @@ locale: es
 legacySlug: como-resolver-pedidos-de-suscripcion-con-errores
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
+
+<div class = "alert alert-info">
+Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi Cuenta</a>.
+</div>
 
 Es posible identificar y gestionar errores en pedidos de suscripción a través del módulo **Suscripciones** > **Dashboards** > **Pedidos de suscripción** en el Admin.
 
@@ -28,7 +32,7 @@ Los problemas en ciclos de suscripción se producen cuando hay un impedimento pa
 
 La pestaña **Ciclos con un problema**, que se ilustra en la siguiente imagen, recoge los pedidos de suscripción que tienen este tipo de problemas.
 
-![pedidos_assinaturas_print_es](https://images.ctfassets.net/alneenqid6w5/1dhCAuymIdeS4JyaxC7ep2/018f9060f82320eada25f385328cbd3a/pedidos_assinaturas_print_es.png)
+![pedidos_assinaturas_print_es](//images.ctfassets.net/alneenqid6w5/1dhCAuymIdeS4JyaxC7ep2/018f9060f82320eada25f385328cbd3a/pedidos_assinaturas_print_es.png)
 
 Desde esta pestaña se puede gestionar los pedidos que presentan ciclos con un problema y realizar reintentos manuales de creación de pedidos. Por ejemplo, cuando un producto no está disponible, puede ajustar el stock y volver a intentarlo.
 
@@ -185,7 +189,7 @@ Los errores de pago se producen durante el flujo de aprobación del pago, como e
 
 Los pedidos con este tipo de error pueden visualizarse en la pestaña **Error de pago**, ilustrada en la siguiente imagen.
 
-![pedidos_assinaturas_print_erro_pagamento_es](https://images.ctfassets.net/alneenqid6w5/2Cc9hhcSr6CjeU3tDIerqo/adfef0d0054bb88ef52d32d6ce7d81fd/pedidos_assinaturas_print_erro_pagamento_es.png)
+![pedidos_assinaturas_print_erro_pagamento_es](//images.ctfassets.net/alneenqid6w5/2Cc9hhcSr6CjeU3tDIerqo/adfef0d0054bb88ef52d32d6ce7d81fd/pedidos_assinaturas_print_erro_pagamento_es.png)
 
 Para analizar errores de pago, realice el siguiente procedimiento.
 

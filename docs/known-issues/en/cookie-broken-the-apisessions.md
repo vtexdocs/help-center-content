@@ -3,8 +3,8 @@ title: 'Cookie broken the API/Sessions'
 id: 5knDMVZabZRYaEtITjkDbE
 status: PUBLISHED
 createdAt: 2023-03-27T19:54:42.696Z
-updatedAt: 2023-03-27T19:54:43.232Z
-publishedAt: 2023-03-27T19:54:43.232Z
+updatedAt: 2024-03-20T20:34:36.743Z
+publishedAt: 2024-03-20T20:34:36.743Z
 firstPublishedAt: 2023-03-27T19:54:43.232Z
 contentType: knownIssue
 productTeam: Identity

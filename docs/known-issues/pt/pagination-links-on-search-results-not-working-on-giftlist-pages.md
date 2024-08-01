@@ -3,8 +3,8 @@ title: 'Links de paginação nos resultados da pesquisa que não funcionam nas p
 id: 1w6h5MwZthKMM8rvqXZtQi
 status: PUBLISHED
 createdAt: 2022-11-02T14:01:35.650Z
-updatedAt: 2022-11-25T21:41:59.731Z
-publishedAt: 2022-11-25T21:41:59.731Z
+updatedAt: 2024-02-16T20:26:50.585Z
+publishedAt: 2024-02-16T20:26:50.585Z
 firstPublishedAt: 2022-11-02T14:01:36.502Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: links-de-paginacao-nos-resultados-da-pesquisa-que-nao-funcionam-nas-paginas-da-giftlist
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 481330
 ---
 

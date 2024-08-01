@@ -3,8 +3,8 @@ title: 'Os textos do controle Avise-me não estão sendo traduzidos'
 id: 4UXWf34IXNVAEKgH4hQLTx
 status: PUBLISHED
 createdAt: 2022-02-03T17:18:23.078Z
-updatedAt: 2022-12-02T18:35:11.786Z
-publishedAt: 2022-12-02T18:35:11.786Z
+updatedAt: 2024-02-16T20:26:19.991Z
+publishedAt: 2024-02-16T20:26:19.991Z
 firstPublishedAt: 2022-02-03T17:18:23.416Z
 contentType: knownIssue
 productTeam: Portal
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: os-textos-do-controle-avise-me-nao-estao-sendo-traduzidos
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 517165
 ---
 

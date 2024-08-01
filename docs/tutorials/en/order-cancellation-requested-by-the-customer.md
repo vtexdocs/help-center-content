@@ -3,8 +3,8 @@ title: 'Order cancellation requested by the customer'
 id: 3wEI6DUNtecooG2Ki4Akqo
 status: PUBLISHED
 createdAt: 2019-01-24T21:42:57.276Z
-updatedAt: 2023-04-28T00:40:54.949Z
-publishedAt: 2023-04-28T00:40:54.949Z
+updatedAt: 2024-04-01T15:51:58.098Z
+publishedAt: 2024-04-01T15:51:58.098Z
 firstPublishedAt: 2019-01-24T21:42:57.707Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -19,6 +19,10 @@ Customers may request to cancel their order for various reasons. They can [cance
 
 <div class="alert alert-danger">
 Once an order is canceled, it is no longer possible to change its status.
+</div>
+
+<div class = "alert alert-warning">
+Orders with <a href="https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe">partial invoices</a> cannot be <a href="https://help.vtex.com/en/tutorial/como-cancelar-pedido--tutorials_186">canceled</a>. If the customer wants to replace or remove items from the order, it is possible to <a href="https://help.vtex.com/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190">change the order</a>.
 </div>
 
 ## Cancellation within the grace period

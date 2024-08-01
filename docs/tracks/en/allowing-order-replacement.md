@@ -3,8 +3,8 @@ title: 'Allowing order replacement'
 id: 381eYJw7lrypjGq3hmPtGV
 status: PUBLISHED
 createdAt: 2019-11-18T11:57:28.677Z
-updatedAt: 2023-03-31T22:52:53.575Z
-publishedAt: 2023-03-31T22:52:53.575Z
+updatedAt: 2024-04-01T17:58:20.948Z
+publishedAt: 2024-04-01T17:58:20.948Z
 firstPublishedAt: 2019-11-18T12:20:58.872Z
 contentType: trackArticle
 productTeam: Post-purchase
@@ -17,6 +17,10 @@ trackSlugEN: orders
 **Order Replacement** allows customers in your store to change data in orders already placed.
 
 The goal is to help them correct errors without having to manually place a new order or contact your support, which facilitates the operation of your store and reduces costs.
+
+<div class = "alert alert-warning">
+Orders with <a href="https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe">partial invoices</a> cannot be <a href="https://help.vtex.com/en/tutorial/como-cancelar-pedido--tutorials_186">canceled</a>. If the customer wants to replace or remove items from the order, it is possible to <a href="https://help.vtex.com/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190">change the order</a>.
+</div>
 
 ## Enabling order replacement
 

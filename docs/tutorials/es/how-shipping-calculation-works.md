@@ -3,8 +3,8 @@ title: 'Cómo funciona el cálculo del envío'
 id: tutorials_116
 status: PUBLISHED
 createdAt: 2017-04-27T22:18:59.694Z
-updatedAt: 2022-06-21T14:55:49.737Z
-publishedAt: 2022-06-21T14:55:49.737Z
+updatedAt: 2023-07-25T19:55:42.137Z
+publishedAt: 2023-07-25T19:55:42.137Z
 firstPublishedAt: 2017-04-27T23:00:43.230Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -85,7 +85,6 @@ En el Admin VTEX, se pueden configurar criterios y prioridades distintas para la
 - **Flete:** los precios del flete se configuran en las [tarifas de envío](https://help.vtex.com/es/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM), excepto la [tarifa del muelle de carga](https://help.vtex.com/es/tutorial/custo-final-do-envio--5bwhIO108VA5Y2YOpef9lV), que es un valor adicional opcional que se configura al agregar el muelle de carga a un almacén.
 - **Plazo:** el tiempo para el envío se configura en la [estimación del SLA](#estimacion-del-tiempo-de-envio).
 - **División de paquetes:** los criterios adoptados se configuran en el módulo _Checkout_. Obtén más información en [División de pedidos y división de entregas](https://help.vtex.com/es/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV).
-- **Prioridad del stock:** la configuración de un criterio distinto para priorizar el stock solo puede hacerse por la API, a través de [Create/update warehouse](https://developers.vtex.com/vtex-rest-api/reference/createupdatewarehouse), agregando la propiedad `priority`. 
 
 ## Estimación del tiempo de envío
 

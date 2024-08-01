@@ -3,8 +3,8 @@ title: 'Como integrar um provedor de Gift Card externo à VTEX'
 id: tutorials_450
 status: PUBLISHED
 createdAt: 2017-04-27T22:05:26.566Z
-updatedAt: 2023-04-13T12:40:41.423Z
-publishedAt: 2023-04-13T12:40:41.423Z
+updatedAt: 2024-06-04T18:55:35.271Z
+publishedAt: 2024-06-04T18:55:35.271Z
 firstPublishedAt: 2017-04-27T23:03:24.938Z
 contentType: tutorial
 productTeam: Financial
@@ -15,22 +15,18 @@ legacySlug: integrando-com-gift-card
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, uma das opções de uso do Gift Card é ser utilizado como um programa de créditos. 
+Na VTEX, uma das opções de uso do gift card é ser utilizado como um programa de créditos. 
 
 Nesse contexto, existem alguns casos de clientes que já trabalham com um provedor próprio. Esse sistema gerencia sua relação de créditos ou pontos sob uma base de clientes participantes de um sistema de fidelidade, por exemplo.
 
-Dito isto, o cliente tem a opção de integrar a solução externa ao sistema da VTEX. Aqui, explicaremos o passo a passo para realizar essa integração.
+Caso o cliente deseje integrar um solução externa de gift card ao sistema da VTEX, é necessário utilizar o [Giftcard Provider Protocol](https://developers.vtex.com/docs/api-reference/giftcard-provider-protocol).
 
-## Desenvolvimento do provider
-A VTEX conta com Gift Card Provider Protocol. Ou seja, um guia de chamadas de API que serão feitas para se comunicar com o nosso sistema.
+## Desenvolvimento do provedor
 
-Desse modo, o cliente deve desenvolver um middleware - sistema que faz o intermédio entre dois sistemas diferentes-, no caso, o provedor externo e os sistemas da VTEX.
+Por meio do [Giftcard Provider Protocol](https://developers.vtex.com/docs/api-reference/giftcard-provider-protocol), o provedor externo de gift card deve desenvolver um [middleware](https://pt.wikipedia.org/wiki/Middleware) para transmitir as informações entre o seu sistema e a VTEX.
 
-Logo, uma vez implementado, será capaz de receber as chamadas da VTEX e interpretar as informações contidas em cada uma delas.
+Para mais informações sobre o sistema de gift card na VTEX, acesse [Giftcard Hub](https://developers.vtex.com/docs/api-reference/giftcard-hub-api).
 
-Para saber mais detalhes, consulte a nossa documentação técnica sobre o [Gift Card Provider Protocol](https://developers.vtex.com/docs/guides/giftcard-provider-protocol-overview). 
+## Envio de informações dos endpoints
+Após a conclusão do middleware, o provedor deve abrir um [ticket](https://help.vtex.com/pt/support) na VTEX informando os endpoints a serem utilizados para que os clientes realizem transações de pagamento utilizando o seu sistema de gift card.
 
-## Envio do endpoint
-Finalizada a primeira etapa, o cliente deve enviar para a VTEX o endpoint que será utilizado para realizar as chamadas. Essa rota funcionará como uma ponte entre os dois sistemas. 
-
-Por fim, a VTEX cadastra o endpoint do provedor no seu sistema. Assim, o sistema de Gift Card externo estará integrado à VTEX e será é utilizado em todo fechamento de compra em que o cliente utilizá-lo como meio de pagamento.

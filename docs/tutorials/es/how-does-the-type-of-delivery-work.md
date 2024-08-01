@@ -3,8 +3,8 @@ title: 'Cómo se maneja el tipo de entrega'
 id: tutorials_126
 status: PUBLISHED
 createdAt: 2017-04-27T22:18:17.250Z
-updatedAt: 2023-05-31T14:45:20.914Z
-publishedAt: 2023-05-31T14:45:20.914Z
+updatedAt: 2023-11-13T15:00:10.346Z
+publishedAt: 2023-11-13T15:00:10.346Z
 firstPublishedAt: 2017-04-27T23:00:44.173Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -29,7 +29,7 @@ En el checkout, no se exhiben los nombres de los transportistas, y sí los tipos
 
 Siguiendo en el ejemplo más arriba, sigue la imagen de cómo se exhibirían las opciones de flete en el cierre de compra:
 
-![Transportadoras Checkout ES](https://images.ctfassets.net/alneenqid6w5/3JEcAUPVTOsSsUCqiMSCUM/6085c74c27b51a0ffcfc5552d1a80eff/Transportadoras_Checkout_ES.png)
+![Transportadoras Checkout ES](//images.ctfassets.net/alneenqid6w5/3JEcAUPVTOsSsUCqiMSCUM/6085c74c27b51a0ffcfc5552d1a80eff/Transportadoras_Checkout_ES.png)
 
 O sea, aunque se tenga cinco transportistas catastrados (en las categorías **Normal**, **Expresa** y **Programada**), sólo se exhiben tres opciones de flete para el cliente. Y el motivo no es porque los demás transportistas no atienden al carrito, es porque dentro de un mismo tipo sólo se exhibirá el transportista de mayor ventaja al cliente.
 

@@ -3,8 +3,8 @@ title: 'How to create an application in Master Data'
 id: tutorials_1115
 status: PUBLISHED
 createdAt: 2017-04-27T21:57:27.067Z
-updatedAt: 2023-03-28T23:26:06.249Z
-publishedAt: 2023-03-28T23:26:06.249Z
+updatedAt: 2024-06-25T20:45:29.002Z
+publishedAt: 2024-06-25T20:45:29.002Z
 firstPublishedAt: 2017-04-27T23:03:43.159Z
 contentType: tutorial
 productTeam: Master Data
@@ -15,32 +15,33 @@ legacySlug: creating-an-application-in-master-data
 subcategory: 2AThnkEZAYbk4G4EIs53rL
 ---
 
-“Application” is a grouper of forms. Its function is to organize, divide and establish refined accesses by area. In other words, you must create an application and the forms within this application, in order to facilitate the organization of data as required. For example: Atendimento Application; Cliente and Ticket forms.
+An application is a grouping of forms that organizes, divides, and establishes refined access by topic in Master Data. When you create an application, you can include several forms within it, making it easier to organize data as needed. For example, in the Support application, you can have Customer and Ticket forms.
 
-## How to create the application
+## Creating applications
 
-1. In the VTEX Admin, access **Store Settings** > **Storefront** > **Master Data**.
-2. Click on the tab **Aplicações**.
-3. Click on the button **Criar Aplicação**.
-4. Enter the name of the **Aplicação**.
-5. Fill out the field **Criar Cópia De** if you intend to copy the forms from another application.
-6. Click on the **Salvar** button.
-7. When uploading the applications page, click on the button **Recarregar Aplicações**.
+Follow the instructions below to create a new application:
 
-<video class="wp-video-shortcode" id="video-1115-2" width="840" height="411" preload="metadata" controls="controls"><source type="video/mp4" src="//assets.contentful.com/alneenqid6w5/7Ibn7u8xVYAUigYkaIQQYI/aa2ca7d7ad7abdc8e30b7f2a7f855da7/CriandoAplicacao.mp4?_=2" />[//assets.contentful.com/alneenqid6w5/7Ibn7u8xVYAUigYkaIQQYI/aa2ca7d7ad7abdc8e30b7f2a7f855da7/CriandoAplicacao.mp4](//assets.contentful.com/alneenqid6w5/7Ibn7u8xVYAUigYkaIQQYI/aa2ca7d7ad7abdc8e30b7f2a7f855da7/CriandoAplicacao.mp4 "//assets.contentful.com/alneenqid6w5/7Ibn7u8xVYAUigYkaIQQYI/aa2ca7d7ad7abdc8e30b7f2a7f855da7/CriandoAplicacao.mp4")</video>
+1. In the VTEX Admin, go to **Store Settings** > **Storefront** > **Master Data**.
+2. Click the `Create applications` button.
+3. Enter the **Name** of the application.
+4. Select an option on the **Create copy of** field if you want to copy the forms from another application.
+5. Click the `Save` button.
 
-## How to edit the application
+## Editing applications
 
-1. Access the **Master Data** module;
-2. Click on the tab **Aplicações**;
-3. In the Application intended, click on the gear icon;
-4. Edit the application;
-5. Click on **Salvar**.
+Follow the instructions below to edit an application:
 
-## How to delete the application
+1. In the VTEX Admin, go to **Store Settings** > **Storefront** > **Master Data**.
+2. In the desired application, click the gear icon <i class="fas fa-cog"></i>.
+3. Edit the application.
+4. Click `Save`.
 
-1. Access the **Master Data** module;
-2. Click on the **Aplicações **tab;
-3. In the desiredApplication intended, click on the gear icon;
-4. Click on the **Aplicações **option;
-5. In the desired Application, click on the **Excluir **button, in red.
+## Deleting applications
+
+Follow the instructions below to delete an application:
+
+1. In the VTEX Admin, go to **Store Settings** > **Storefront** > **Master Data**.
+2. In the desired application, click the gear icon <i class="fas fa-cog"></i>.
+3. Click **Applications**.
+4. In the row of the application you want to delete, click the delete button ⛔.
+5. Click `OK`.

@@ -3,8 +3,8 @@ title: 'No se pueden cancelar las transacciones que han cambiado la configuraci√
 id: 2bhsI5119DLOhNjk2cb6q
 status: PUBLISHED
 createdAt: 2022-06-28T16:44:10.992Z
-updatedAt: 2022-11-25T22:06:55.006Z
-publishedAt: 2022-11-25T22:06:55.006Z
+updatedAt: 2024-02-16T20:24:09.734Z
+publishedAt: 2024-02-16T20:24:09.734Z
 firstPublishedAt: 2022-06-28T16:44:11.460Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: no-se-pueden-cancelar-las-transacciones-que-han-cambiado-la-configuracion-de-la-division-del-pago
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 364382
 ---
 

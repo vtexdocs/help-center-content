@@ -3,8 +3,8 @@ title: 'O atributo de vídeo não está sendo enviado do vendedor para o marketp
 id: 6JfHpP6F8TGmJofoKc99ON
 status: PUBLISHED
 createdAt: 2022-02-07T20:07:23.358Z
-updatedAt: 2023-05-09T19:03:49.838Z
-publishedAt: 2023-05-09T19:03:49.838Z
+updatedAt: 2024-02-16T20:23:28.657Z
+publishedAt: 2024-02-16T20:23:28.657Z
 firstPublishedAt: 2022-02-07T20:07:23.814Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: o-atributo-de-video-nao-esta-sendo-enviado-do-vendedor-para-o-marketplace
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 519412
 ---
 

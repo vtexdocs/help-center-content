@@ -3,8 +3,8 @@ title: 'Configurar pago con PicPay'
 id: 5jd6wgPCaWm8IcguyCyaY2
 status: PUBLISHED
 createdAt: 2018-03-13T15:53:25.279Z
-updatedAt: 2023-03-29T01:02:29.955Z
-publishedAt: 2023-03-29T01:02:29.955Z
+updatedAt: 2024-01-23T21:16:28.952Z
+publishedAt: 2024-01-23T21:16:28.952Z
 firstPublishedAt: 2018-03-13T19:36:37.769Z
 contentType: tutorial
 productTeam: Financial
@@ -17,16 +17,16 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 
 PicPay es una [cartera digital](/es/faq/que-es-una-cartera-digital) que permite la transferencia de valores entre usuarios, incluyendo establecimientos comerciales. Su cliente elige pagar con ella y recibe un código para escanear usando la aplicación para smartphones.
 
-Para configurar pagos con esta cartera digital, primero usted debe registrar la afiliación de gateway __PicPay__ siguiendo los pasos abajo:
+Para configurar PicPay, siga los pasos a continuación:
 
-## Configurar la afiliación de gateway PicPay
-1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
-2. En la pestaña __Afiliaciones__, haga clic en el botón __+__.
-3. Haga clic en el conector __PicPay__.
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __PicPay__ en la barra de búsqueda y haga clic en el nombre del proveedor.
 4. Rellene los campos _Application Key_ y _Application Token_ con la información de su cuenta __PicPay__.
-5. Haga clic en __Guardar__.
+5. Haga clic en `Guardar`.
 
 ## Configurar la condición de pago
+
 1. Dentro de los __Configuración__ del módulo Pagos, haga clic en la pestaña __Planes de pago__.
 2. Haga clic en el botón __+__.
 3. Seleccione el medio de pago __PicPay__.

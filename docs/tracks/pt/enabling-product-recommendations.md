@@ -22,7 +22,7 @@ Por padrão, o inStore mostra uma lista de produtos sugeridos ao vendedor em dua
 - No carrinho
 - Na página de produto
 
-![25. Enable product recommendations - 1](https://images.ctfassets.net/alneenqid6w5/4j8YWYRuwENptnipUat6Wj/44401abb84a8aba3c3c89282afafc511/25._Enable_product_recommendations_-_1.png)
+![25. Enable product recommendations - 1](//images.ctfassets.net/alneenqid6w5/4j8YWYRuwENptnipUat6Wj/44401abb84a8aba3c3c89282afafc511/25._Enable_product_recommendations_-_1.png)
 
 Caso deseje ocultar essas recomendações, é necessário editar os arquivos `checkout-instore-custom.css` e `checkout-instore-custom.js`.
 
@@ -30,7 +30,7 @@ Caso deseje ocultar essas recomendações, é necessário editar os arquivos `ch
 
 Assim como o arquivo JavaScript de customização do inStore, o `checkout-instore-custom.css` deve ser acessado pelo painel administrativo da VTEX (conforme explicado no artigo [inStore Customizations](https://help.tex.com/tracks/instore-customizations--1z9kBm12oBPyVNDo1ivVc2/4mwdBrFsmE2EPE0FzgX28b)).
 
-![25. Enable product recommendations - 2](https://images.ctfassets.net/alneenqid6w5/4jRvpkXNEW0k5kwXXxkRnG/fe7e30eef89ad19ad4d4bfc0ca9579a5/25._Enable_product_recommendations_-_2.png)
+![25. Enable product recommendations - 2](//images.ctfassets.net/alneenqid6w5/4jRvpkXNEW0k5kwXXxkRnG/fe7e30eef89ad19ad4d4bfc0ca9579a5/25._Enable_product_recommendations_-_2.png)
 
 No arquivo `checkout-instore-custom.css`, inclua a seguinte regra de CSS:
 

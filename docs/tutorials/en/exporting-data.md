@@ -3,8 +3,8 @@ title: 'Exporting data from Master Data v1'
 id: tutorials_1125
 status: PUBLISHED
 createdAt: 2017-04-27T21:57:19.601Z
-updatedAt: 2023-03-28T23:31:33.420Z
-publishedAt: 2023-03-28T23:31:33.420Z
+updatedAt: 2024-06-20T15:09:14.414Z
+publishedAt: 2024-06-20T15:09:14.414Z
 firstPublishedAt: 2017-04-27T23:03:43.216Z
 contentType: tutorial
 productTeam: Master Data
@@ -21,21 +21,21 @@ The mass export of data records in Master Data v1 can be made through the API or
 Exporting data from Master Data is not an immediate operation, and its execution time depends on the amount of data in Master Data. Therefore, in stores with a very large amount of data and a high update frequency, the exported file may become outdated in relation to the new data. If this occurs, the solution may be to export the data again, preferably when there are not many updates taking place (for example, outside of business hours or on weekends).
 </div>
 
-## How to export
+## Export report with data from Master Data v1
 
-1. In the VTEX Admin, access **Store Settings** > **Storefront** > **Master Data.**
-2. Click on the **Aplicações** tab.
-3. Click on **visualizar** in the intended form.
-![visualizar button master data](https://images.ctfassets.net/alneenqid6w5/2x1xCx4tEeV6eMPy4VRFpE/0e59f11450a93765e037da555f8d6c09/visualizar_button_export_data.png)
-4. The list of the form selected will be uploaded.
-5. Click on the **Exportar XLS** button.
+Follow the instructions below to export a report with data from documents of a form in Master Data v1.
+
+1. In the VTEX Admin, access **Store Settings** > **Storefront** > **Master Data**.
+2. Make sure you are in the **Applications** tab.
+3. Click the list icon <i class="fas fa-bars"></i> next to the desired form.
+4. Click on the `Export XLS` button.
 6. Select the fields that you want to see in the report.
-7. Give the e-mail to which the report will be sent (by default, the system will show the e-mail of the user who logged in, but this can be changed).
-8. Click on **Exportar.**
+7. Inform the email to which the report will be sent (by default, the system will show the email of the user who is logged in, but this can be changed).
+8. Click on `Export`.
 
 ## Exported customer data
 
-Below you can see all fields exported from the **Clientes** tab in the Profile System (CRM) in Master Data v1.
+Below you can see all fields exported from the **Customers** tab in the Profile System (CRM) in Master Data v1.
 
 | Field     | Description     | Origin     |
 | ---------- | ---------- | ---------- |
@@ -72,5 +72,5 @@ Below you can see all fields exported from the **Clientes** tab in the Profile S
 | rclastcartvalue       | Value of last cart	       | Browsing script       |
 | carttag       | List of IDs of last SKUs in the cart	       | Browsing script       |
 
-Remember that these fields are the ones shown by default in the Customer form. If the store has customized this company (Customer), other fields may have been created.
+These fields are the ones shown by default in the __Customer__ form. If the store has customized this entity (__Customer__), other fields may have been created.
 

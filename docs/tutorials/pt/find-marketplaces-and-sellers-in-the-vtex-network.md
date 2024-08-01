@@ -1,10 +1,10 @@
 ---
 title: 'Marketplace Network: encontre marketplaces e sellers no ecossistema VTEX'
 id: 2bzC7tXlVgLEEjxo4ixcAM
-status: PUBLISHED
+status: DRAFT
 createdAt: 2020-09-14T22:21:50.677Z
-updatedAt: 2022-04-07T14:44:29.576Z
-publishedAt: 2022-04-07T14:44:29.576Z
+updatedAt: 2023-07-19T21:34:02.498Z
+publishedAt: 
 firstPublishedAt: 2020-09-14T23:03:21.356Z
 contentType: tutorial
 productTeam: Apps
@@ -21,7 +21,7 @@ Note que o Marketplace Network é uma ferramenta que promove o contato entre pot
 
 ## Encontrar Sellers e Marketplaces
 
-![Marketplace network tour](https://images.ctfassets.net/alneenqid6w5/1dSZvVeBP1yyJ1Ai5xuX12/884c2b263f35ef7e8fbffee7cb23ba84/Marketplace_network_tour.gif)
+![Marketplace network tour](//images.ctfassets.net/alneenqid6w5/1dSZvVeBP1yyJ1Ai5xuX12/884c2b263f35ef7e8fbffee7cb23ba84/Marketplace_network_tour.gif)
 
 Para acessar a listagem de marketplaces e sellers cadastrados navegue em *Marketplace > Marketplace Network > Encontrar Sellers / Encontrar Marketplaces*. Em ambas abas, é possível  buscar por palavras-chave e filtrar a lista para obter resultados mais precisos, além de entrar em contato com potenciais parceiros.
 
@@ -44,7 +44,7 @@ O potencial parceiro comercial receberá um e-mail com as informações preenchi
 </div>
 
 ## Perfil da loja
-![Network profile PT](https://images.ctfassets.net/alneenqid6w5/0F1E1mqf6hD5FLzVGqBA7/3566eb996b94604d3449fa0ae773cf27/Marketplace_store_profile_PT.gif)
+![Network profile PT](//images.ctfassets.net/alneenqid6w5/0F1E1mqf6hD5FLzVGqBA7/3566eb996b94604d3449fa0ae773cf27/Marketplace_store_profile_PT.gif)
 
 1. Na seção *Marketplace* da sua loja, clique em __Marketplace Network__.  
 2. Clique na aba __Perfil da Loja__.  

@@ -3,8 +3,8 @@ title: 'Histórico de movimentações do inventário'
 id: 5AM7xbmMzmKSEQewakamc2
 status: PUBLISHED
 createdAt: 2017-08-01T15:03:08.876Z
-updatedAt: 2023-03-29T19:59:22.057Z
-publishedAt: 2023-03-29T19:59:22.057Z
+updatedAt: 2024-04-02T18:24:14.768Z
+publishedAt: 2024-04-02T18:24:14.768Z
 firstPublishedAt: 2017-08-01T15:06:58.792Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -31,10 +31,13 @@ Para visualizar as movimentações de um SKU:
 2. Selecione o SKU de que deseja conferir o histórico. Para saber como utilizar os filtros e realizar a busca, confira o artigo [Gerenciar inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139).
 3. Na coluna **Última atualização,** clique no número em azul.
 4. A janela **Registro de atualizações** ficará disponível com a tabela das alterações. Cada linha corresponde a um registro de atualização, e as colunas contêm:
-    * O usuário que realizou a alteração.
-    * A data e o horário em que a atualização foi feita.
-    * A quantidade de itens antes da atualização e a quantidade de itens após a atualização.
+  * O usuário que realizou a alteração.
+  * A data e o horário em que a atualização foi feita.
+  * A quantidade de itens antes da atualização.
+  * A quantidade de itens após a atualização.
 
- <div class="alert alert-warning">
- Só é possível consultar as últimas 50 movimentações no registro de atualizações de um determinado SKU.
+<div class="alert alert-warning">
+Só é possível consultar as últimas 50 movimentações no registro de atualizações de um determinado SKU.
 </div>
+
+A quantidade total de itens na página [Gerenciamento de inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139) é atualizada em tempo real, mas pode haver um atraso de até 1 hora para a informação aparecer no registro de atualizações.

@@ -26,15 +26,15 @@ Hay varias aplicaciones y extensiones de Chrome que retiran las personalizacione
 
 1. Para abrir DevTools, ingrese a Chrome y oprima **F12** o haga clic en el **botón derecho del mouse > Inspeccionar**.
 
-![Customizations1](https://images.ctfassets.net/alneenqid6w5/3fMKFRgHKwCa8dlwcMbnDk/6e445678697a809650b9185adb0df631/Customizations1.png)
+![Customizations1](//images.ctfassets.net/alneenqid6w5/3fMKFRgHKwCa8dlwcMbnDk/6e445678697a809650b9185adb0df631/Customizations1.png)
 
 2. Vamos a buscar la función **Request Blocking** para bloquear todas las personalizaciones realizadas con CSS, JavaScript y Google Tag Manager. Haga clic en los tres puntos de la derecha, como se indica en la imagen, después en **More Tools** y, por último, en **Request Blocking**.
 
-![Customizations2](https://images.ctfassets.net/alneenqid6w5/7wjDCIMx0j0VMLFBlJs4x3/e04f5f48d28ddfa160f977371972549d/Customizations2.png)
+![Customizations2](//images.ctfassets.net/alneenqid6w5/7wjDCIMx0j0VMLFBlJs4x3/e04f5f48d28ddfa160f977371972549d/Customizations2.png)
 
 3. Se abrirá un recuadro como se muestra aquí:
 
-![Customizations3](https://images.ctfassets.net/alneenqid6w5/1oi04fyBlkMVmio4LtMVcv/973bf322f246e2a24eb89ac9de9e449e/Customizations3.png)
+![Customizations3](//images.ctfassets.net/alneenqid6w5/1oi04fyBlkMVmio4LtMVcv/973bf322f246e2a24eb89ac9de9e449e/Customizations3.png)
 
 4. Haga clic en la pestaña **Request Blocking**.
 
@@ -50,7 +50,7 @@ Ahora defina los recursos que se deben bloquear. Solo tiene que hacer la configu
 
 El recuadro se verá así:
 
-![Customizations4](https://images.ctfassets.net/alneenqid6w5/49opNOaTq3t2xJ2HpAnuo1/61f32fd8a4c49715c4c1bc95f0ee1e8d/Customizations4.png)
+![Customizations4](//images.ctfassets.net/alneenqid6w5/49opNOaTq3t2xJ2HpAnuo1/61f32fd8a4c49715c4c1bc95f0ee1e8d/Customizations4.png)
 
 Recuerde: solo tiene que hacer la configuración __una__ vez.
 
@@ -60,11 +60,11 @@ Recuerde: solo tiene que hacer la configuración __una__ vez.
 
 2. Esta será la configuración que quedará definida como estándar, con las cinco opciones habilitadas para el bloqueo.
 
-![Customizations5](https://images.ctfassets.net/alneenqid6w5/McVb5AEghRIe3tpl1dWGr/5e1881a4a781880dd31eea0938b1ab01/Customizations5.png)
+![Customizations5](//images.ctfassets.net/alneenqid6w5/McVb5AEghRIe3tpl1dWGr/5e1881a4a781880dd31eea0938b1ab01/Customizations5.png)
 
 3. Ahora, actualice la página oprimiendo **F5**. La página se mostrará sin los componentes de personalización.
 
-![Customizations6](https://images.ctfassets.net/alneenqid6w5/5MOuqKoGsMU8QpvoR03n9Y/5ca0038583837708383438479a6ead23/Customizations6.png)
+![Customizations6](//images.ctfassets.net/alneenqid6w5/5MOuqKoGsMU8QpvoR03n9Y/5ca0038583837708383438479a6ead23/Customizations6.png)
 
 4. Para volver a visualizar las personalizaciones, solo tiene que desactivar la casilla **Enable request blocking** y actualizar la página otra vez.
 

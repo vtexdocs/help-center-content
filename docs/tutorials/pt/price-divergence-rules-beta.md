@@ -60,7 +60,7 @@ Para criar as regras, siga os passos abaixo:
    * É criada uma regra configurada automaticamente com percentual de divergência entre 0% a 30%, correspondente à barra azul claro.
 6. Para aumentar ou diminuir o percentual de divergência, clique na barra e arraste-a pelas extremidades, menos “<” ou para mais “>”.
 7. Escolha entre as seguintes ações de regras para pedidos: `Autorizar automaticamente`, `Negar automaticamente` ou `Criar Uma Tarefa no VTEX DO para Aprovação`.
-8. Para criar a 2ª regra, clique no ícone <img class="shadow-4" src="https://https://images.ctfassets.net/alneenqid6w5/7E2BhdEapQ5Lmm4fLRKxpp/2770eaaa5af9653a71416c2f9677eb37/__cone_regras.JPG" /> e repita os passos 6 e 7.
+8. Para criar a 2ª regra, clique no ícone <img class="shadow-4" src="https:////images.ctfassets.net/alneenqid6w5/7E2BhdEapQ5Lmm4fLRKxpp/2770eaaa5af9653a71416c2f9677eb37/__cone_regras.JPG" /> e repita os passos 6 e 7.
 11. Clique em `Salvar Regras`.
 
 Durante o processo de criação de regras, são apresentadas as seguintes abas:

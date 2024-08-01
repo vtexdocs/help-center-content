@@ -3,8 +3,8 @@ title: 'Ship From Store'
 id: 50GAmxxFsJoLWqcnMysWdl
 status: PUBLISHED
 createdAt: 2020-06-30T21:36:43.926Z
-updatedAt: 2023-05-31T14:45:10.189Z
-publishedAt: 2023-05-31T14:45:10.189Z
+updatedAt: 2023-07-26T18:44:48.356Z
+publishedAt: 2023-07-26T18:44:48.356Z
 firstPublishedAt: 2020-06-30T21:45:36.187Z
 contentType: trackArticle
 productTeam: Shopping
@@ -16,7 +16,7 @@ trackSlugES: estrategias-de-comercio-unificado
 
 La estrategia de **Ship From Store** se produce cuando el cliente desea recibir los productos en su casa y estos productos provienen del almacén de una tienda física. En otras palabras, en este escenario, la tienda funciona como un mini centro de distribución.
 
-![35. Setting up Shipping From Store - 1](https://images.ctfassets.net/alneenqid6w5/7uHIuX10TvTGJS1kkwPmBb/6847796e390c9d18123eea24f87469c4/35._Setting_up_Shipping_From_Store_-_1.png)
+![35. Setting up Shipping From Store - 1](//images.ctfassets.net/alneenqid6w5/7uHIuX10TvTGJS1kkwPmBb/6847796e390c9d18123eea24f87469c4/35._Setting_up_Shipping_From_Store_-_1.png)
 
 Este tipo de logística ayuda a su operación a reducir costos y tiempo de envío. Esto se debe a que, en lugar de tener solo los almacenes principales, generalmente lejos de las áreas centrales de las ciudades, ahora usted tiene una red de entrega más capilar.
 
@@ -24,7 +24,7 @@ Considere este ejemplo: un cliente que se encuentra en su casa hace un pedido en
 
 ## Prerrequisitos
 
-En primer lugar, consideremos los requisitos previos que su tienda necesita para asegurarse de comenzar a implementar una estrategia de Ship From Store. Consulte nuestro artículo sobre [Requisitos previos para utilizar inStore](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u "Requisitos previos para utilizar inStore").
+En primer lugar, consideremos los requisitos previos que su tienda necesita para asegurarse de comenzar a implementar una estrategia de Ship From Store. Consulte nuestro artículo sobre [Requisitos previos para utilizar VTEX Sales App](https://help.vtex.com/es/tracks/instore-primeros-pasos-y-configuracion--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u "Requisitos previos para utilizar VTEX Sales App").
 
 ## Cómo implementar el Ship From Store
 

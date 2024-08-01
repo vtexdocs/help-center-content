@@ -1,10 +1,10 @@
 ---
 title: 'Utilizar el Informe de Indexación'
 id: 4ikVpMhwByyS8sysaeOIm4
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-07-04T13:10:40.431Z
-updatedAt: 2023-03-29T19:04:52.988Z
-publishedAt: 2023-03-29T19:02:27.075Z
+updatedAt: 2023-07-13T19:45:25.468Z
+publishedAt: 2023-07-13T19:45:25.468Z
 firstPublishedAt: 2017-07-04T19:16:21.471Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -17,7 +17,7 @@ subcategory: 5yDQmr18K4GgQAeGwq8USa
 
 El **Informe de Indexación** es el reporte que indica el status de indexación de todos los productos de la tienda. 
 
-![productosindexados](https://images.ctfassets.net/alneenqid6w5/9KzymaEjoAeqO6Googkya/7eba6e62cb07e66f8a5952c6fcc10b2e/productosindexados.png)
+![productosindexados](//images.ctfassets.net/alneenqid6w5/9KzymaEjoAeqO6Googkya/7eba6e62cb07e66f8a5952c6fcc10b2e/productosindexados.png)
 
 <div class="alert alert-info">
 <strong>Nota:</strong> Acceda a ver más información en <a href="/es/tutorial/entendiendo-el-funcionamento-de-la-indexacion">Entendiendo el funcionamiento de la indexación.</a>

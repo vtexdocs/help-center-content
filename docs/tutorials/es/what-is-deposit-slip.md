@@ -3,8 +3,8 @@ title: 'Qué es Ficha de Depósito'
 id: 5zcak00O9G2KqoysQggus6
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:35.451Z
-updatedAt: 2019-12-31T15:25:20.325Z
-publishedAt: 2019-12-31T15:25:20.325Z
+updatedAt: 2024-03-18T13:03:11.449Z
+publishedAt: 2024-03-18T13:03:11.449Z
 firstPublishedAt: 2019-01-24T22:10:45.867Z
 contentType: tutorial
 productTeam: Financial
@@ -23,6 +23,12 @@ Para pagar con Ficha de Depósito, el usuario debe elegir esta condición de pag
 Para efectuar la compra, el usuario debe ir a uno de los puntos acreditados y pagar el valor del documento. Este pago puede hacerse en efectivo o con tarjetas de crédito.
 
 ## Cómo aceptar Ficha de Depósito en su tienda
-Su tienda VTEX puede aceptar pagos con Ficha de Depósito, siempre que actúe en México y tenga registro en Citibanamex. Este banco mexicano tiene integración con nuestra plataforma y puede ser configurado en su tienda.
 
-Para saber cómo configurar el conector Banamex (responsable de la comunicación con Citibanamex), acceda a [este artículo del Help](/es/tutorial/configurar-gateway-banamex).
+Para consultar los proveedores que realizan transacciones con Ficha Depósito y configurarlos en tu tienda, sigue los pasos a continuación:
+
+1. En el Admin de VTEX, acceda a __Configuración de la Tienda > Pago > Configuración__, o escriba __Configuración__ en la barra de búsqueda en la parte superior de la página.
+2. En la pestaña __Condiciones de pago__, haga clic en el botón `+`.
+3. Haga clic en __FichaDepósito__.
+4. Active la condición en el campo __Status__.
+5. Seleccione las opciones de proveedor disponibles y realice las configuraciones necesarias para cada una de ellas.
+6. Haga clic en "Guardar".

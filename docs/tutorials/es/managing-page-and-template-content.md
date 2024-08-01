@@ -34,7 +34,7 @@ Site Editor no le permite agregar un nuevo bloque a un <i>template</i> o a una p
 
 1. Seleccione el bloque para el que desea crear nuevo contenido. Puede seleccionarlo utilizando la lista en la esquina derecha o a través de la interfaz:
 
-![seta-interface-es](https://images.ctfassets.net/alneenqid6w5/5Jy42Ht1E66ETZf4Beiv85/a3e4c77ec2b3203740be27c7e8f150b7/img-two-es.png)
+![seta-interface-es](//images.ctfassets.net/alneenqid6w5/5Jy42Ht1E66ETZf4Beiv85/a3e4c77ec2b3203740be27c7e8f150b7/img-two-es.png)
 
 2. Haga clic en `Versiones` en la esquina superior derecha. 
 
@@ -61,7 +61,7 @@ Site Editor aplica la configuración de contenido según la jerarquía de parám
 
 1. Seleccione el bloque cuyo contenido desea sobrescribir. Puede seleccionarlo utilizando la lista en la esquina derecha o a través de la interfaz:
 
-![seta-interface-es](https://images.ctfassets.net/alneenqid6w5/5Jy42Ht1E66ETZf4Beiv85/a3e4c77ec2b3203740be27c7e8f150b7/img-two-es.png)
+![seta-interface-es](//images.ctfassets.net/alneenqid6w5/5Jy42Ht1E66ETZf4Beiv85/a3e4c77ec2b3203740be27c7e8f150b7/img-two-es.png)
 
 2. El contenido disponible corresponde al que está activo ahora. Modifique los campos con los nuevos valores o haga clic en `Versiones` para cambiar la configuración de otro contenido. 
 3. Guarde los cambios.
@@ -74,7 +74,7 @@ No puede actualizar la visibilidad del contenido que se derive del código fuent
 
 1. Seleccione el bloque cuyo contenido desea eliminar o restablecer. Puede seleccionarlo utilizando la lista en la esquina derecha o a través de la interfaz:
 
-![seta-interface-es](https://images.ctfassets.net/alneenqid6w5/5Jy42Ht1E66ETZf4Beiv85/a3e4c77ec2b3203740be27c7e8f150b7/img-two-es.png)
+![seta-interface-es](//images.ctfassets.net/alneenqid6w5/5Jy42Ht1E66ETZf4Beiv85/a3e4c77ec2b3203740be27c7e8f150b7/img-two-es.png)
 
 2. Haga clic en `Versiones` en la esquina superior derecha. 
 3. Haga clic en el menú del contenido deseado (tres puntos verticales). 

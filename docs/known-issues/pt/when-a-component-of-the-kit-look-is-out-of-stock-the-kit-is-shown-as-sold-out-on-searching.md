@@ -1,36 +1,38 @@
 ---
-title: 'When a component of the kit look is out of stock, the kit is shown as sold out on searching'
-id: 56QpnBz2ayEAe00L9ojSI0
-status: DRAFT
-createdAt: 2022-01-21T18:06:21.645Z
-updatedAt: 2022-03-16T16:22:00.845Z
-publishedAt: 
-firstPublishedAt: 
+title: 'Quando um componente de kit look não tem estoque, kit aparece esgotado na busca'
+id: 5PRtTKk1HyGkKciOussWEI
+status: PUBLISHED
+createdAt: 2017-03-29T23:44:56.615Z
+updatedAt: 2022-12-22T20:43:08.857Z
+publishedAt: 2022-12-22T20:43:08.857Z
+firstPublishedAt: 2017-03-29T23:46:36.720Z
 contentType: knownIssue
-productTeam: Portal
+productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
-tag: Portal
-slug: when-a-component-of-the-kit-look-is-out-of-stock-the-kit-is-shown-as-sold-out-on-searching
+tag: Catalog
+slug: quando-um-componente-de-kit-look-nao-tem-estoque-kit-aparece-esgotado-na-busca
 locale: pt
 kiStatus: Backlog
-internalReference: 342720
+internalReference: 
 ---
 
 ## Sumário
 
-<div class="alert alert-warning">
-  <p>Este conteúdo só está disponível em Inglês.</p>
-</div>
+Quando um componente de um kit look fica sem estoque, todo o kit é exibido como esgotado na busca.
 
 ## Simulação
 
-<div class="alert alert-warning">
-  <p>Este conteúdo só está disponível em Inglês.</p>
-</div>
+<!--- Conta original era automacaoqa, removemos por conta de EDU-2582 --->
+
+Kit Look: `https://lojateste.vtexcommercebeta.com.br/admin/site/ProdutoForm.aspx?id=2000205`
+
+Componente indisponível: `https://lojateste.vtexcommercebeta.com.br/admin/site/SkuForm.aspx?IdSku=2000362`
+
+Exibição correta na página de produto: `https://lojateste.vtexcommercebeta.com.br/admin/site/SkuForm.aspx?IdSku=2000362`
+
+Exibição incorreta na busca: `https://lojateste.vtexcommercebeta.com.br/kits`
 
 ## Workaround
 
-<div class="alert alert-warning">
-  <p>Este conteúdo só está disponível em Inglês.</p>
-</div>
+Apenas utilize Kit Look se puder garantir que todos os componentes possuem estoque.
 

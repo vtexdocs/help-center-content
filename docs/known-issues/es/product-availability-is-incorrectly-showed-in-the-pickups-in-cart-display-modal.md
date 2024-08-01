@@ -3,8 +3,8 @@ title: 'La disponibilidad del producto se muestra incorrectamente en el modo de 
 id: 6aoRWAMSGDwcuUPvGd8bI9
 status: PUBLISHED
 createdAt: 2022-03-30T17:24:21.013Z
-updatedAt: 2022-11-25T21:53:23.560Z
-publishedAt: 2022-11-25T21:53:23.560Z
+updatedAt: 2024-02-16T20:28:45.041Z
+publishedAt: 2024-02-16T20:28:45.041Z
 firstPublishedAt: 2022-03-30T17:24:21.669Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-disponibilidad-del-producto-se-muestra-incorrectamente-en-el-modo-de-visualizacion-de-las-recogidas-en-el-carro
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 552875
 ---
 

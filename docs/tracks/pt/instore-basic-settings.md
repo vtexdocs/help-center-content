@@ -3,8 +3,8 @@ title: 'VTEX Sales App - Configurações Básicas'
 id: 4L5SoLxE8O3YkxF7FKymrO
 status: PUBLISHED
 createdAt: 2020-06-28T13:51:53.895Z
-updatedAt: 2023-05-31T15:55:29.064Z
-publishedAt: 2023-05-31T15:55:29.064Z
+updatedAt: 2023-07-26T18:42:22.814Z
+publishedAt: 2023-07-26T18:42:22.814Z
 firstPublishedAt: 2020-06-28T14:01:36.462Z
 contentType: trackArticle
 productTeam: Shopping
@@ -17,7 +17,7 @@ trackSlugPT: instore-primeiros-passos-e-configuracoes
 O VTEX Sales App é um dos principais produtos da VTEX para operações de [Comércio Unificado](https://help.vtex.com/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv). Ele é um aplicativo que permite à sua loja oferecer uma experiência omnichannel real, integrando seus canais online e físicos e colocando seus clientes no centro do negócio.
 
 <div class="alert alert-info">
-<p>Verifique se a sua loja cumpre todos os <a href="https://help.vtex.com/pt/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u">pré-requisitos para usar o inStore</a> antes de começar a utilizá-lo.</p>
+<p>Verifique se a sua loja cumpre todos os <a href="https://help.vtex.com/pt/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u">pré-requisitos para usar o VTEX Sales App</a> antes de começar a utilizá-lo.</p>
 </div>
 
 Para utilizar o VTEX Sales App, você precisa seguir os passos descritos a seguir na sua conta principal.

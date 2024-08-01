@@ -3,8 +3,8 @@ title: 'VTEX Shipping Network: Ready to dispatch'
 id: 5YOZV7Aotv3pap0fGNESDs
 status: PUBLISHED
 createdAt: 2021-11-11T20:13:17.128Z
-updatedAt: 2023-06-09T12:57:15.077Z
-publishedAt: 2023-06-09T12:57:15.077Z
+updatedAt: 2024-02-29T19:44:25.837Z
+publishedAt: 2024-02-29T19:44:25.837Z
 firstPublishedAt: 2021-11-11T20:44:13.846Z
 contentType: tutorial
 productTeam: Others

@@ -3,8 +3,8 @@ title: 'Telesales toolbar'
 id: tutorials_5500
 status: PUBLISHED
 createdAt: 2017-04-27T21:48:31.368Z
-updatedAt: 2023-03-29T19:50:13.858Z
-publishedAt: 2023-03-29T19:50:13.858Z
+updatedAt: 2023-12-07T15:29:46.537Z
+publishedAt: 2023-12-07T15:29:46.537Z
 firstPublishedAt: 2017-04-27T23:11:19.311Z
 contentType: tutorial
 productTeam: Shopping
@@ -19,7 +19,7 @@ The telesales toolbar is displayed at the top of your store's website for users 
 
 Once the registered operator logs into the store environment, the toolbar will be displayed at the top of all sections of the website.
 
-![toolbartelevendas EN](https://images.ctfassets.net/alneenqid6w5/5ed5A8G266JqwpCaYAyDdI/ab7894a0dc03568e5e1745a0adbec2f3/toolbartelevendas_EN.png)
+![toolbartelevendas EN](//images.ctfassets.net/alneenqid6w5/5ed5A8G266JqwpCaYAyDdI/ab7894a0dc03568e5e1745a0adbec2f3/toolbartelevendas_EN.png)
 
 See below the main features of the telesales toolbar:
 *   [Log in as customer](#log-in-as-customer)
@@ -58,8 +58,9 @@ By clicking on the customer's name, the operator will view the following informa
 
 ## Related articles
 
-*   [Roles - telesales](https://help.vtex.com/en/tutorial/como-criar-um-usuario-de-televendas--frequentlyAskedQuestions_4227.)
-*   [Customizing the telesales toolbar](https://help.vtex.com/en/tutorial/customizar-a-toolbar-de-televendas--1XEz1zqO3KyIuwC4asUsOg)
-*   [My orders](https://help.vtex.com/pt/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#pedidos)
-*   [How to use telesales features](https://help.vtex.com/en/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS)
-*   [How to configure telesales features](https://help.vtex.com/en/tutorial/como-configurar-as-funcionalidades-de-televendas--76FNgQP2Glc4umMJ5Yr50R)
+* [Predefined roles - Call center operator](https://help.vtex.com/en/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#call-center-operator)
+* [Creating a call center user](https://help.vtex.com/en/tutorial/how-can-i-create-callcenter-user--frequentlyAskedQuestions_4227)
+* [Customizing the telesales toolbar](https://help.vtex.com/en/tutorial/customizar-a-toolbar-de-televendas--1XEz1zqO3KyIuwC4asUsOg)
+* [My orders](https://help.vtex.com/pt/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#pedidos)
+* [How to use telesales features](https://help.vtex.com/en/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS)
+* [How to configure telesales features](https://help.vtex.com/en/tutorial/como-configurar-as-funcionalidades-de-televendas--76FNgQP2Glc4umMJ5Yr50R)

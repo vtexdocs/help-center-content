@@ -3,8 +3,8 @@ title: 'Como funciona a atualização do XML'
 id: tutorials_297
 status: PUBLISHED
 createdAt: 2017-04-27T22:09:31.811Z
-updatedAt: 2019-12-31T15:28:59.361Z
-publishedAt: 2019-12-31T15:28:59.361Z
+updatedAt: 2024-02-29T14:57:59.233Z
+publishedAt: 2024-02-29T14:57:59.233Z
 firstPublishedAt: 2017-04-27T23:03:14.354Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

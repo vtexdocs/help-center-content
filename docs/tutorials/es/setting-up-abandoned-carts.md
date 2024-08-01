@@ -3,8 +3,8 @@ title: 'Configurar carrito abandonado'
 id: tutorials_740
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:05.882Z
-updatedAt: 2023-04-28T14:50:21.362Z
-publishedAt: 2023-04-28T14:50:21.362Z
+updatedAt: 2024-06-24T14:49:04.124Z
+publishedAt: 2024-06-24T14:49:04.124Z
 firstPublishedAt: 2017-04-27T23:03:41.572Z
 contentType: tutorial
 productTeam: Shopping
@@ -40,7 +40,7 @@ Puede crear su propio template de email personalizado o utilizar la opción de e
 4. Rellene el campo __Template XHTML__ con los códigos de template.
 5. Haga clic en `Save Template`.
 
-![template xhtml](https://images.ctfassets.net/alneenqid6w5/44IZ7N3din2EELL15z5FeQ/5e4164dc9abd8f5139d7934cae41e44c/Template_XHTML.PNG)
+![template xhtml](//images.ctfassets.net/alneenqid6w5/44IZ7N3din2EELL15z5FeQ/5e4164dc9abd8f5139d7934cae41e44c/Template_XHTML.PNG)
 
 <div class="alert alert-warning">
 Recomendamos que lo realicen profesionales familiarizados con el módulo CMS, que ya hayan realizado la configuración de otros templates de página y expositor.
@@ -50,7 +50,7 @@ Recomendamos que lo realicen profesionales familiarizados con el módulo CMS, qu
 2. En __CMS > HTML Templates__, haga clic en el icono `CEM-Abandoned-Cart`.
 3. Verifique la información de los códigos de template presentes en el campo __Template XHTML__.
 
-![CEM-Abandoned-Cart](https://images.ctfassets.net/alneenqid6w5/5ZBXBk2KNJVjekmT7P7RqQ/0dd187775baec69f3deee305c05950cb/CEM-Abandoned-Cart.PNG)
+![CEM-Abandoned-Cart](//images.ctfassets.net/alneenqid6w5/5ZBXBk2KNJVjekmT7P7RqQ/0dd187775baec69f3deee305c05950cb/CEM-Abandoned-Cart.PNG)
 
 #### Configurar modelo de email en el Centro de mensajes
 
@@ -69,7 +69,7 @@ Una vez que se haya creado el nuevo template de email o se hayan utilizado los d
 El campo JSON Data no debe completarse ni sus datos deben usarse en el template de email. Solo contiene información para permitir una vista previa del formato en el que se verán los datos en el email.
 </div>
 
-![New template - message center](https://images.ctfassets.net/alneenqid6w5/7nX1YnaZoesV51yG24Z3ls/68a8a4f2f7ad9f9911598b3aab475817/Novo_template.PNG)
+![New template - message center](//images.ctfassets.net/alneenqid6w5/7nX1YnaZoesV51yG24Z3ls/68a8a4f2f7ad9f9911598b3aab475817/Novo_template.PNG)
 
 #### Liberación del SPF
 
@@ -77,7 +77,7 @@ La liberación del SPF es fundamental para evitar problemas de entregabilidad de
 
 Como buena práctica para configurar DNS para un dominio genérico (no obligatorio), siga el siguiente ejemplo:
 
-![Hostnames - SPF](https://images.ctfassets.net/alneenqid6w5/4txj9x3nVeN7Z3WEZmSpev/45230f3dbeda2d8ee040ec8a6ee39d31/Hostnames_-_SPF.PNG)
+![Hostnames - SPF](//images.ctfassets.net/alneenqid6w5/4txj9x3nVeN7Z3WEZmSpev/45230f3dbeda2d8ee040ec8a6ee39d31/Hostnames_-_SPF.PNG)
 
 Para obtener más información sobre este asunto, consulte [Configurar el apuntamiento del DNS para VTEX](https://help.vtex.com/es/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280#).
 
@@ -126,7 +126,7 @@ Además, tenemos incluso los filtros "Carrito" y "Último carrito". Por mucho qu
 
 <blockquote><blockquote><ui>-> Último Carrinho - Não está nulo</ui> 
 
-![Filter master data 2](https://images.ctfassets.net/alneenqid6w5/6aME0zp72kjwJiulRdoRNl/d6c7e5d4e84c5d2b8b870de4ee0db4bc/Filter_Master_Data.PNG)
+![Filter master data 2](//images.ctfassets.net/alneenqid6w5/6aME0zp72kjwJiulRdoRNl/d6c7e5d4e84c5d2b8b870de4ee0db4bc/Filter_Master_Data.PNG)
 
 <div class="alert alert-warning">
   Además de los filtros indicados anteriormente, se recomienda insertar otro filtro en el siguiente formato: <code>Receives newsletter? - Equal to - True</code>. Esto garantiza el cumplimiento de los <a href="https://help.vtex.com/es/tutorial/data-subject-rights--6imchxTx09icupKMbzHVIM">derechos de los titulares de datos</a>, ya que solo los clientes suscritos al boletín recibirán correos electrónicos de carritos abandonados. La suscripción al boletín de su tienda se puede realizar en el momento de la compra o en la sección <a href="https://help.vtex.com/es/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#profile">Mi Cuenta</a> de su tienda.
@@ -134,7 +134,7 @@ Además, tenemos incluso los filtros "Carrito" y "Último carrito". Por mucho qu
 
 <blockquote><ui> 10. Haga clic en pestaña <b>Schedule</b> (Programación) y seleccione si desea enviar el correo electrónico en una fecha específica o en una fecha dinámica.</ui>
 
-![Schedule date](https://images.ctfassets.net/alneenqid6w5/3SiaNvXMctzVtBzSjzsg3E/840f17bdc08c9703fdc972b2c8793668/Schedule_date.PNG)
+![Schedule date](//images.ctfassets.net/alneenqid6w5/3SiaNvXMctzVtBzSjzsg3E/840f17bdc08c9703fdc972b2c8793668/Schedule_date.PNG)
 
 <blockquote><ui>11. En la pestaña <b>If positive</b> (Si es positivo):</ui>
 
@@ -157,7 +157,7 @@ Además, tenemos incluso los filtros "Carrito" y "Último carrito". Por mucho qu
 
 <blockquote><blockquote><ui>h. En <b>URL</b>, ingrese la dirección de su tienda con las carpetas en las que el layout del carrito abandonado fue configurado, con el tag del carrito después (?refs={!carttag_SCORE}). Ex.: nomedaloja.com.br/CEM/Abandoned-Cart?refs={!carttag_SCORE}.</ui>
 
-  ![PastasCarrinhoAbandonado](https://images.ctfassets.net/alneenqid6w5/4DSsVaeDvWmaaw2iwySCOy/b579eb818e0bcda140dba0ae96ecc90f/PastasCarrinhoAbandonado.png)
+  ![PastasCarrinhoAbandonado](//images.ctfassets.net/alneenqid6w5/4DSsVaeDvWmaaw2iwySCOy/b579eb818e0bcda140dba0ae96ecc90f/PastasCarrinhoAbandonado.png)
 
 <div class="alert alert-warning">Esta URL debe ser la final de la tienda, y no la URL con vtexcommercestable.
 </div>
@@ -171,7 +171,7 @@ Además, tenemos incluso los filtros "Carrito" y "Último carrito". Por mucho qu
 <div class="alert alert-warning">La sesión de una página expira en 30 minutos. Solamente después de ese tiempo consideramos la programación del disparo de trigger de Carrito Abandonado. Es decir, el tiempo a ser considerado es el tiempo de la sesión + la programación de trigger. 
 </div>
 
-![If positive tab](https://images.ctfassets.net/alneenqid6w5/2GDAJ2St3ayiKjcWoONDRc/d863f83956f876035351cd222a0482ad/If_positive_Tab.PNG)
+![If positive tab](//images.ctfassets.net/alneenqid6w5/2GDAJ2St3ayiKjcWoONDRc/d863f83956f876035351cd222a0482ad/If_positive_Tab.PNG)
 
 ### Configuración para tiendas VTEX IO
 
@@ -182,7 +182,7 @@ Para configurar la funcionalidad de carrito abandonado en las tiendas VTEX IO, s
 3. Realice la [liberación del SPF](#liberacion-del-spf).
 4. [Configure el trigger](#configuracion-de-trigger) de la misma manera que en las tiendas Legacy hasta el Paso 10. A partir del Paso 11 (pestaña __Si es positivo__), siga las instrucciones disponibles en [Trigger configuration information](https://developers.vtex.com/vtex-developer-docs/docs/vtex-abandoned-cart-service#trigger-configuration-information).
 
-![If positive tab IO](https://images.ctfassets.net/alneenqid6w5/4kuuU7JySZQVklXS2jtfsp/ce32f7997824f648690edefe77ad03c0/If_positive_Tab_IO.PNG)
+![If positive tab IO](//images.ctfassets.net/alneenqid6w5/4kuuU7JySZQVklXS2jtfsp/ce32f7997824f648690edefe77ad03c0/If_positive_Tab_IO.PNG)
 
 ## Dudas frecuentes
 

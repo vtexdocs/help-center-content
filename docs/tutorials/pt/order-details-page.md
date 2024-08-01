@@ -3,8 +3,8 @@ title: 'Página de detalhes do pedido'
 id: 2Y75n54Cc9VizrlG1N6ZNl
 status: PUBLISHED
 createdAt: 2020-12-28T15:51:29.428Z
-updatedAt: 2023-03-23T19:27:38.026Z
-publishedAt: 2023-03-23T19:27:38.026Z
+updatedAt: 2023-12-21T14:06:02.509Z
+publishedAt: 2023-12-21T14:06:02.509Z
 firstPublishedAt: 2020-12-28T19:33:51.059Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,9 +15,20 @@ legacySlug: pagina-de-detalhes-do-pedido-beta
 subcategory: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-A página de **Detalhes do Pedido** permite visualizar todas as informações de um pedido e gerenciá-lo em um único lugar. Para visualizá-la, no Admin VTEX, acesse **Pedidos > [Todos os Pedidos](https://help.vtex.com/pt/tutorial/lista-de-pedidos-interface--2QTduKHAJMFIZ3BAsi6Pi)**, e clique no pedido desejado. 
+<div class = "alert alert-info">
+É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo <a href="https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Minha Conta</a>.
+</div>
 
-Nesta página, você pode:
+A página de **Detalhes do Pedido** permite visualizar todas as informações de um pedido e gerenciá-lo em um único lugar. Para visualizá-la, no Admin VTEX, acesse **Pedidos > [Todos os Pedidos](https://help.vtex.com/pt/tutorial/lista-de-pedidos-interface--2QTduKHAJMFIZ3BAsi6Pi)**, e clique no pedido desejado.
+
+Você também pode buscar pedidos a partir de qualquer página no Admin VTEX usando a barra de busca global no topo da página. Por padrão, a busca está configurada para `Páginas`. Para buscar um pedido, clique sobre a barra, selecione a opção `Pedidos` e utilize algum dos seguintes critérios:
+
+- ID do pedido
+- Nome do cliente
+- Email do cliente
+- Documento do cliente 
+
+Na página de detalhes do pedido, você pode:
 
 * Consultar em qual estágio o pedido está no fluxo de pedidos (status do pedido).
 * Acessar todo o histórico de mudanças e interações do pedido.

@@ -3,8 +3,8 @@ title: 'Criar ou editar template de e-mail transacional'
 id: 335JZKUYgvYlGOJgvJYxRO
 status: PUBLISHED
 createdAt: 2020-01-10T13:13:48.069Z
-updatedAt: 2021-02-11T13:19:34.511Z
-publishedAt: 2021-02-11T13:19:34.511Z
+updatedAt: 2024-06-11T19:54:28.554Z
+publishedAt: 2024-06-11T19:54:28.554Z
 firstPublishedAt: 2020-01-13T14:38:32.506Z
 contentType: trackArticle
 productTeam: Post-purchase
@@ -22,6 +22,10 @@ Para editar um template de e-mail transacional, siga os passos abaixo.
 2. Busque o template desejado e clique no card correspondente.
 3. Altere o título do e-mail e o destinatário (os valores entre chaves duplas são variáveis; vamos aprender no próximo artigo como lidar com elas). Você pode incluir destinatários em cópia (`CC`) e cópia oculta (`CCO`).
 4. Deixe a flag __Usar o remetente padrão__ para usar o endereço de e-mail cadastrado como padrão, conforme explicado no artigo anterior desta trilha.
+
+<div class = "alert alert-info">
+A lista de templates está disponível no artigo <a href="https://help.vtex.com/pt/tutorial/templates-de-emails-transacionais--3g2S2kqBOoSGcCaqMYK2my">Templates de emails transacionais referentes ao pedido</a>.
+</div>
 
 É no campo __HTML__ que você encontra o código HTML do template. Você pode editar o código no próprio campo ou copiá-lo para o editor de sua preferência, editar e depois colar novamente no campo do template.
 

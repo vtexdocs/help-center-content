@@ -76,4 +76,4 @@ Generally, affiliations allow you to set a capture date to force a capture and a
 
 Here you can see the automatic capture schedule date:
 
-![captura-auto-agendada pt](https://images.ctfassets.net/alneenqid6w5/6rg3IZhX9eGegqeUUQCEgQ/cc229f8dc0916dced5e7288ea279abec/transa____o_programada_cap_auto_pt.png)
+![captura-auto-agendada pt](//images.ctfassets.net/alneenqid6w5/6rg3IZhX9eGegqeUUQCEgQ/cc229f8dc0916dced5e7288ea279abec/transa____o_programada_cap_auto_pt.png)

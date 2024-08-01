@@ -3,8 +3,8 @@ title: 'Configurar pago con Digital River V2'
 id: 5dlXHutd9Ik6vtN3WP7GRP
 status: PUBLISHED
 createdAt: 2022-02-17T12:11:27.726Z
-updatedAt: 2023-03-26T21:59:25.157Z
-publishedAt: 2023-03-26T21:59:25.157Z
+updatedAt: 2024-01-24T17:19:19.577Z
+publishedAt: 2024-01-24T17:19:19.577Z
 firstPublishedAt: 2022-02-17T13:44:17.095Z
 contentType: tutorial
 productTeam: Financial
@@ -15,15 +15,15 @@ legacySlug: configurar-pago-con-digital-river-v2
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX es posible la integración con el proveedor de pagos Digital River V2. Con este conector, su tienda puede realizar ventas a través de diferentes [métodos de pagos](https://www.digitalriver.com/payment-method-guide/).
+En VTEX es posible la integración con el proveedor de pagos Digital River V2. Con este proveedor, su tienda puede realizar ventas a través de diferentes [métodos de pagos](https://www.digitalriver.com/payment-method-guide/).
 
-Para configurar la afiliación Digital River V2, siga los pasos a continuación:
+Para configurar Digital River V2, siga los pasos a continuación:
 
-<ui>1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.</ui>
+<ui>1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Proveedores**, o escribe **Proveedores** en la barra de búsqueda en la parte superior de la página.</ui>
 
-<ui>2. En la pestana __Afiliaciones de Gateway__, haga clic en el botón __+__.</ui>
+<ui>2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.</ui>
 
-<ui>3. Haga clic en el conector __DigitalRiverV2__.</ui>
+<ui>3. Escriba el nombre __DigitalRiverV2__ en la barra de búsqueda y haga clic en el nombre del proveedor.</ui>
 
 <ui>4. Rellene los campos de registro __Application Key__ y __Application Token__ con los datos proporcionados por Digital River V2.</ui>
 

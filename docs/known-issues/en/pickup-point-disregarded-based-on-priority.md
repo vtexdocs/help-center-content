@@ -3,8 +3,8 @@ title: 'Pickup point disregarded based on priority'
 id: 3bbsm8TELPBa0DpFtnlAGz
 status: PUBLISHED
 createdAt: 2021-09-29T14:38:08.930Z
-updatedAt: 2022-12-22T20:41:01.800Z
-publishedAt: 2022-12-22T20:41:01.800Z
+updatedAt: 2024-06-14T16:56:59.120Z
+publishedAt: 2024-06-14T16:56:59.120Z
 firstPublishedAt: 2021-09-29T14:49:34.443Z
 contentType: knownIssue
 productTeam: Post-purchase
@@ -13,7 +13,7 @@ tag: Logistics
 slug: pickup-point-disregarded-based-on-priority
 locale: en
 kiStatus: Backlog
-internalReference: 
+internalReference: 380545
 ---
 
 ## Summary
@@ -36,7 +36,7 @@ To simulate the described scenario, at least two shipping policies serving the s
 4. See which pickup point has been selected;
 5. Check which pickup points were disregarded and note the message displayed.
 
-![KIpontoderetirada EN](https://images.ctfassets.net/alneenqid6w5/6TLSPTSA7E5EG2sevnDYXf/097a4d4b13f79150adf8f2eda2e7a888/KIpontoderetirada_EN.png)
+![KIpontoderetirada EN](//images.ctfassets.net/alneenqid6w5/6TLSPTSA7E5EG2sevnDYXf/097a4d4b13f79150adf8f2eda2e7a888/KIpontoderetirada_EN.png)
 
 The pickup point was disregarded because there was another shipping method already named as **SCS Mall**.
 

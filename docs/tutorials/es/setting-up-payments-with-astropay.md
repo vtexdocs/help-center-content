@@ -3,8 +3,8 @@ title: 'Configurar pago con Astropay'
 id: 1A5hrnp3wLTlkUkYLlielB
 status: PUBLISHED
 createdAt: 2022-08-15T18:20:38.640Z
-updatedAt: 2023-03-26T21:21:01.948Z
-publishedAt: 2023-03-26T21:21:01.948Z
+updatedAt: 2024-01-25T19:07:17.927Z
+publishedAt: 2024-01-25T19:07:17.927Z
 firstPublishedAt: 2022-08-15T18:39:51.774Z
 contentType: tutorial
 productTeam: Financial
@@ -15,9 +15,9 @@ legacySlug: configurar-pago-con-astropay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX es posible la integración con el proveedor de pagos Astropay. Con este conector, tu tienda puede realizar ventas a través de Astropay.
+En VTEX es posible la integración con el proveedor de pagos Astropay. Con este proveedor, tu tienda puede realizar ventas a través de Astropay.
 
-Para configurar la afiliación Astropay, siga los pasos a continuación:
+Para configurar Astropay, siga los pasos a continuación:
 
 1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
 2. En la pestana __Afiliaciones de Gateway__, haga clic en el botón `+`.

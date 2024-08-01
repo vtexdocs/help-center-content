@@ -3,8 +3,8 @@ title: 'Products without stock on whitelabel sellers are appearing in the end of
 id: 5WCKWky2gKGTZyp9ydnFnL
 status: PUBLISHED
 createdAt: 2022-04-20T15:52:50.807Z
-updatedAt: 2022-11-25T21:57:51.904Z
-publishedAt: 2022-11-25T21:57:51.904Z
+updatedAt: 2024-07-01T18:48:10.012Z
+publishedAt: 2024-07-01T18:48:10.012Z
 firstPublishedAt: 2022-04-20T15:52:51.421Z
 contentType: knownIssue
 productTeam: Intelligent Search
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: products-without-stock-on-whitelabel-sellers-are-appearing-in-the-end-of-plp
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 495741
 ---
 

@@ -80,7 +80,7 @@ Después de rellenar el formulario de configuración de la integración, debes c
 
 En la página **Set up TikTok for Business** (Configurar TikTok for Business), que se muestra abajo, debes seguir las instrucciones de configuración que se describen a continuación.
 
-![set-up-tiktok-for-business](https://images.ctfassets.net/alneenqid6w5/77d9v0437SxRBVXD0OUmW/290a1ece93c0fcb0fe91a1da61352513/image2.png)
+![set-up-tiktok-for-business](//images.ctfassets.net/alneenqid6w5/77d9v0437SxRBVXD0OUmW/290a1ece93c0fcb0fe91a1da61352513/image2.png)
 
 1. Haz clic en la sección **TikTok for Business Account** y verifica que tu cuenta esté en la lista.
     * Si quieres conectar otra cuenta, haz clic en `Disconnect` y repite el paso de inicio de sesión que se describe en [Conectar con la cuenta de TikTok](#2-conectar-con-la-cuenta-de-tiktok).

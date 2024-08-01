@@ -1,10 +1,10 @@
 ---
 title: 'Filtros de calidad de anuncios'
 id: 4xm0gi8leCyxHj8YdgHSJH
-status: CHANGED
+status: PUBLISHED
 createdAt: 2023-02-27T12:15:26.682Z
-updatedAt: 2023-05-30T21:12:51.762Z
-publishedAt: 2023-02-28T13:45:44.808Z
+updatedAt: 2024-06-20T21:38:38.621Z
+publishedAt: 2024-06-20T21:38:38.621Z
 firstPublishedAt: 2023-02-27T19:32:00.584Z
 contentType: tutorial
 productTeam: Channels
@@ -12,7 +12,7 @@ author: 0QBQws7rk0t5Mnu8fgfUv
 slug: calidad-de-anuncios
 locale: es
 legacySlug: calidad-de-anuncios
-subcategory: 4hU8QWlzhxWg711Kz7Gmib
+subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---
 
 Los [marketplaces](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-un-marketplace-vtex) tienen que revisar y aprobar anuncios enviados por los sellers para agregar los productos al catálogo. En el Admin VTEX, este [proceso de catalogación](https://help.vtex.com/es/tutorial/sugerindo-e-aprovando-skus--tutorials_396) se realiza a través de la página «SKU recibidos».
@@ -21,7 +21,7 @@ Es importante para la operación del marketplace que haya criterios de calidad p
 
 **Calidad de anuncios** es la página donde los marketplaces registran y gestionan los grupos de requisitos aplicados al proceso de catalogación de SKU recibidos. Para accederla, en su VTEX Admin, haz clic en **Marketplace > Calidad de anuncios**, o escriba __"Calidad del anuncio"__ en la barra de búsqueda.
 
-![ES offer quality](https://images.ctfassets.net/alneenqid6w5/7GL1AaqkfQqjLCj262wg04/890bb24504e8f6b809cd318fb85ed53a/ES_offer_quality.png)
+![ES offer quality](//images.ctfassets.net/alneenqid6w5/7GL1AaqkfQqjLCj262wg04/890bb24504e8f6b809cd318fb85ed53a/ES_offer_quality.png)
 
 Con este tutorial, sepa cómo:
 
@@ -46,7 +46,7 @@ La funcionalidad permite que el operador del marketplace pueda realizar una seri
 | Aportar más transparencia a los criterios de catalogación de anuncios recibidos y a la medida en que los sellers y anuncios los cumplen.                                                            | Permite identificar los sellers y los tipos de anuncios que no cumplen los requisitos, lo que acelera la corrección de problemas.                 |
 
 ## Ver "Default requirements" 
-![ESDefault requirements](https://images.ctfassets.net/alneenqid6w5/6OxPTO8QO6o9zZ8kTt5tVG/b86fb58a9c6b454c31fb0bf0829adf4f/ESDefault_requirements.png)
+![ESDefault requirements](//images.ctfassets.net/alneenqid6w5/6OxPTO8QO6o9zZ8kTt5tVG/b86fb58a9c6b454c31fb0bf0829adf4f/ESDefault_requirements.png)
 
 La página estándar tiene algunos requisitos preestablecidos que se aplicarán a todas las categorías, sellers y marcas, conocidas como «Default requirements». Algunos de estos criterios se configuran de forma nativa en [VTEX Matcher](https://help.vtex.com/es/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424), la herramienta aplicada a los marketplaces VTEX para ayudar en el proceso de catalogación de los anuncios recibidos.
 

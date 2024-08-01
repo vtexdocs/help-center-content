@@ -3,8 +3,8 @@ title: 'Envío de los productos a Dafiti'
 id: 3b8BZfB1BC8G8SCe0ao46m
 status: PUBLISHED
 createdAt: 2018-09-27T18:14:09.967Z
-updatedAt: 2022-10-14T12:56:30.575Z
-publishedAt: 2022-10-14T12:56:30.575Z
+updatedAt: 2023-08-24T20:14:58.159Z
+publishedAt: 2023-08-24T20:14:58.159Z
 firstPublishedAt: 2018-09-27T21:44:56.294Z
 contentType: trackArticle
 productTeam: Channels
@@ -138,3 +138,7 @@ Después de rellenar la plantilla de mapeo de Dafiti, debes cargarla en el Admin
 8. Haz clic en `Enviar archivo`.
 
 Si no se ha producido ningún error en el envío, los productos se enviarán a Dafiti con sus respectivos atributos.
+
+<div class="alert alert-info">
+  La integración entre VTEX y Dafiti redimensiona automáticamente las fotos de los productos si son mayores que el tamaño solicitado por Dafiti (1000x1000).
+  </div>

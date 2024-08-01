@@ -3,8 +3,8 @@ title: 'El botón giratorio de MyCards no funciona correctamente'
 id: 2Y1IHSesmqAKYsep1JzIND
 status: PUBLISHED
 createdAt: 2023-03-29T19:18:47.318Z
-updatedAt: 2023-03-29T19:18:47.732Z
-publishedAt: 2023-03-29T19:18:47.732Z
+updatedAt: 2023-11-06T13:02:14.964Z
+publishedAt: 2023-11-06T13:02:14.964Z
 firstPublishedAt: 2023-03-29T19:18:47.732Z
 contentType: knownIssue
 productTeam: Payments

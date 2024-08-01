@@ -3,8 +3,8 @@ title: 'Cadastrar um anexo'
 id: 7zHMUpuoQE4cAskqEUWScU
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:42.901Z
-updatedAt: 2023-03-29T15:07:58.328Z
-publishedAt: 2023-03-29T15:07:58.328Z
+updatedAt: 2023-11-16T17:23:31.034Z
+publishedAt: 2023-11-16T17:23:31.034Z
 firstPublishedAt: 2019-01-24T22:06:25.639Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -31,7 +31,7 @@ O objetivo de um anexo é [complementar o produto com uma informação personali
 Após realizar o cadastro inicial do anexo, você precisa adicionar as chaves e os **Valores Permitidos** relacionados ao anexo criado. Você pode adicionar quantas chaves desejar. Para adicionar as chaves e os **Valores Permitidos**, siga os passos a seguir.
 
 1. Na página **Campos personalizados**, identifique a linha do anexo criado e clique em `Alterar`, conforme ilustrado na imagem abaixo.
-   ![anexos.pt](https://images.ctfassets.net/alneenqid6w5/4hSZgKMwFjJ3fE2Tfek60C/cfb0a116c7f139d84ba256cab5b649cd/anexos.pt.png)
+   ![anexos.pt](//images.ctfassets.net/alneenqid6w5/4hSZgKMwFjJ3fE2Tfek60C/cfb0a116c7f139d84ba256cab5b649cd/anexos.pt.png)
 2. Preencha os campos listados a seguir.
     * **Nome da Chave:** nome da informação personalizada. Este campo é obrigatório e não pode conter caracteres especiais, apenas letras, números ou pontos. Exemplo: se o produto personalizável for uma Camisa da Seleção Brasileira, os nomes das suas chaves podem ser `Nome` e `Numero`.
     * **Máximo de Caracteres:** máximo de caracteres que o cliente pode digitar para inserir uma informação personalizada no produto. Este campo é obrigatório. Exemplo: neste campo você poderia estipular o limite de caracteres para o nome que será impresso em uma camisa.

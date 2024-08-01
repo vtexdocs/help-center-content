@@ -3,8 +3,8 @@ title: 'Configuring Price Divergence rule'
 id: 1ivH7sJoS771wZFMkaFdpt
 status: PUBLISHED
 createdAt: 2022-01-05T16:18:22.558Z
-updatedAt: 2022-01-05T16:22:48.459Z
-publishedAt: 2022-01-05T16:22:48.459Z
+updatedAt: 2024-03-27T20:43:18.424Z
+publishedAt: 2024-03-27T20:43:18.424Z
 firstPublishedAt: 2022-01-05T16:22:48.459Z
 contentType: trackArticle
 productTeam: Channels

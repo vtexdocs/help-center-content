@@ -3,8 +3,8 @@ title: 'Setting up payments with Mercado Pago'
 id: 2FPdhTma6QywUmwEcEUGoS
 status: PUBLISHED
 createdAt: 2018-03-08T21:11:28.158Z
-updatedAt: 2023-03-23T16:02:38.696Z
-publishedAt: 2023-03-23T16:02:38.696Z
+updatedAt: 2024-01-23T11:46:52.226Z
+publishedAt: 2024-01-23T11:46:52.226Z
 firstPublishedAt: 2018-03-08T22:43:32.092Z
 contentType: tutorial
 productTeam: Financial
@@ -23,10 +23,11 @@ In addition to a sub-acquirer that processes transactions carried out with vario
 
 Below are the settings for __Mercado Pago__ connector.
 
-## Setting up MercadoPago gateway affiliation
-1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
-2. On the __Gateway Affiliations__ tab, click the __+__ button.
-3. Click the __MercadoPago__ connector.
+## Setting up MercadoPago gateway
+
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __MercadoPago__ in the search bar and click on the name of the provider.
 4. Fill in the registration fields with the credentials provided by MercadoPago (fields _Client id_ and _Client secret_). Remember that they should not start with __APP\_USR__.
 5. In the __País__ field ("Country"), select the country of your store.
 6. In __Time Zone__, specify the region that defines your local time.

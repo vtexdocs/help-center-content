@@ -1,10 +1,10 @@
 ---
 title: 'Configurar el subadquirente MercadoPagoV1'
 id: 6wTlR3UTJe6YMAsEuquO26
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-03-08T13:05:57.452Z
-updatedAt: 2023-03-22T18:05:53.962Z
-publishedAt: 2023-03-22T18:05:53.962Z
+updatedAt: 2024-03-18T18:35:39.248Z
+publishedAt: 
 firstPublishedAt: 2018-03-08T19:45:23.370Z
 contentType: tutorial
 productTeam: Financial
@@ -15,19 +15,21 @@ legacySlug: configurar-el-subadquirente-mercadopagov1
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
+<div class="alert alert-danger">Esta integración de pago ya no se puede configurar en la plataforma debido al <a href="https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14">proceso de descontinuación de los proveedores legados</a> y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.</div>
+
 En el Gateway de VTEX, puede configurar el [subadquirente](/es/tutorial/que-es-un-subadquirente) MercadoPago para operar de varias formas. El __MercadoPagoV1__ permite que su tienda reciba pagos con tarjetas de débito y crédito, además de la [cartera digital](/es/faq/que-es-una-billetera-digital-e-wallet) Mercado Pago.
 
 <div class="alert alert-warning">
-La afiliación <strong>MercadoPagoV1</strong> no admite pagos por boleto bancario.
+La integración <strong>MercadoPagoV1</strong> no admite pagos por boleto bancario.
 </div>
 
 Para configurar MercadoPagoV1, siga los siguientes pasos:
 
-## Configurar afiliación de gateway MercadoPagoV1
+## Configurar MercadoPagoV1
 
-1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
-2. En la pestaña __Afiliaciones de Gateways__, haga clic en el botón __+__.
-3. Haga clic en el conector __MercadoPagoV1__.
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __MercadoPagoV1__ en la barra de búsqueda y haga clic en el nombre del proveedor.
 4. El campo __OAuth login__ no se utiliza. Déjelo como está.
 5. Rellene los campos de registro __PublicKey__ y __AccessToken__ con los datos proporcionados por MercadoPago.
 6. Deje los campos __RefreshToken__, __ExpiredTokenIn__ y __Merchant Account Id__ en blanco.

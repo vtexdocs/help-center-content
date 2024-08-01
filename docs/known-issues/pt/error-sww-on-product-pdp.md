@@ -3,8 +3,8 @@ title: 'Erro SWW no produto PDP'
 id: 3DhuWocQwqiWxuAffdwYkg
 status: PUBLISHED
 createdAt: 2023-01-23T12:38:30.711Z
-updatedAt: 2023-01-23T12:38:31.382Z
-publishedAt: 2023-01-23T12:38:31.382Z
+updatedAt: 2023-09-19T19:15:13.868Z
+publishedAt: 2023-09-19T19:15:13.868Z
 firstPublishedAt: 2023-01-23T12:38:31.382Z
 contentType: knownIssue
 productTeam: Catalog
@@ -23,26 +23,14 @@ internalReference: 738108
 </div>
 
 
-Em algumas ocasiões, ao abrir o produto PDP através da página de administração (ou do domínio final), aparece na tela um erro Something Went Wrong.
-
-
-##
+Em algumas ocasiões, ao abrir o PDP do produto por meio da página de administração (ou do domínio final), um erro Something Went Wrong (Algo deu errado) é exibido na tela.
+Esse comportamento pode ocorrer devido a movimentos de categorias anteriores na árvore de categorias, causando uma validação incorreta das especificações do produto/sku no sistema de catálogo.
 
 ## Simulação
 
 
-Este comportamento pode acontecer devido a movimentos anteriores da categoria na árvore de categorias, causando uma validação errada das especificações do produto/sku no sistema de catálogo.
-
-A mensagem de erro real por trás do erro SWW (que pode ser verificado através de logs internos) é "Nome da variação do produto não encontrado".
-
-
-##
 
 ## Workaround
-
-
-A fim de corrigir este comportamento, a especificação que causa o erro não deve ter valor no produto.
-
 
 
 

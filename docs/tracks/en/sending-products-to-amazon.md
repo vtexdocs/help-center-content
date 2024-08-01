@@ -1,10 +1,10 @@
 ---
-title: 'Sending products to Amazon'
+title: 'Mapping and sending product categories to Amazon'
 id: 5xklf2wSdeztQh4iy5kJvD
 status: PUBLISHED
 createdAt: 2019-02-28T23:12:40.204Z
-updatedAt: 2023-03-16T19:46:44.241Z
-publishedAt: 2023-03-16T19:46:44.241Z
+updatedAt: 2023-10-18T19:47:04.829Z
+publishedAt: 2023-10-18T19:47:04.829Z
 firstPublishedAt: 2019-02-28T23:13:35.624Z
 contentType: trackArticle
 productTeam: Channels
@@ -14,7 +14,54 @@ trackId: 6sgd4Pagy3wNsWKBvmIFrP
 trackSlugEN: amazon-integration
 ---
 
-Once you have configured the initial integration settings, you can send products to the Amazon catalog. To speed up the process of cataloging products on Amazon and making them available for sale, you will need to map the characteristics of the products in your VTEX store to the characteristics of the same products in your Amazon store. To perform the mapping, you must:
+Once you have configured the initial integration settings, you can send the products to the Amazon catalog. To speed up the process of cataloging products on Amazon, and making them available for sale, you will need to map the characteristics of the products in your VTEX store to the characteristics of the same products in your Amazon store.  
+
+To send your products to Amazon, you need to map the product [categories](https://help.vtex.com/en/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) and [attributes](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP).  
+
+<div class="alert alert-info">
+Your products need to have the <a href="https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">warehouse</a> and <a href="https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP">price</a> configured before sending them to Amazon.  </div>
+
+## Mapping categories  
+
+The mapping process can be done through the [VTEX Admin](#mapping-through-the-vtex-admin), or a [spreadsheet](#mapping-via-spreadsheet). See below how to do it in each case. 
+
+<div class="alert alert-danger">
+When mapping a category using the VTEX Admin, the category mapping previously done via a spreadsheet will be overwritten and cannot be recovered.
+</div>  
+
+### Mapping through the VTEX Admin (BETA)  
+
+To access the Amazon mapping page, go to **Marketplace > Marketplaces and Integrations > Amazon > Perform Mapping.**
+
+On the Amazon mapping page, you will see a list of your VTEX store categories. The category mapping allows you to match your categories to the Amazon ones. This way, the products you send will be displayed in the equivalent category in the marketplace.  
+
+On the mapping page, use the search bar to search for the category name. In addition, the **Store Categories** section displays a list of all categories in your store.  
+
+This list includes icons to indicate the status of your mapping:
+
+| **Icon** | **Status**| **Description**|
+|:---:|:---:|:---:|
+|![mapeado mapper](//images.ctfassets.net/alneenqid6w5/3ZYriZU76d9cneJceH3ljb/94a47adb24232c9a88da68e951edfad4/mapeado_mapper.jpg)| **Mapped** |Indicates that the category mapping was completed.|
+|![mapeamentoincompleto mapper](//images.ctfassets.net/alneenqid6w5/pHYXqYM9WBjmR0uYpwrFC/5c707e0427e064603b127ecffba75970/mapeamentoincompleto_mapper.jpg) | **Incomplete mapping** |The category is partially mapped.The required attributes, indicated by an asterisk, need to be added for completing the mapping. |
+|![erromapeamento mapper](//images.ctfassets.net/alneenqid6w5/1wyY50BdeT8YA7y7XAb7Sd/f84c40b49563dacdf2f96c5ac20ad65e/erromapeamento_mapper.jpg) | **Error in mapping** |The mapping error occurs when the marketplace removes or changes the product category. To solve this, simply remap the category. |
+|![incompleto mapper](//images.ctfassets.net/alneenqid6w5/7wXO0cZBKZD7PWbbP9y877/5c2bb3c9fd5f5d131b9a2e153d7857d0/incompleto_mapper.jpg) | **Not mapped** | Indicates that the category was not mapped. |  
+
+To map a category, follow these steps:  
+
+1. In the Admin, go to **Marketplace > Marketplaces and Integrations > Amazon > Perform Mapping.**  
+2. Select the category you want to map.
+3. Select the corresponding category on Amazon for the product you want to send.
+4. Match the attributes in the side window, as shown in the image below: ![Amazon Mapper Attributes](//downloads.ctfassets.net/alneenqid6w5/3gw5pXd6bvjIMs4ydBLmwv/da4ea7365efc744b036e55305feaea6f/mapper_amazon_atributos.gif)  
+5. Click the `Save Changes` button.  
+
+<div class="alert alert-danger">
+Fields with an * asterisks are required.
+<br>Completing an attribute can trigger new required fields that only become visible under <b>Marketplace > Connections > Products</b> after the mapping has been saved.</br>
+</div>
+
+### Mapping via spreadsheet  
+
+To carry out the mapping via spreadsheet, follow the steps below:
 
 1. [Download the Amazon general category template](#1-amazon-general-categories-template)
 2. [Download the Amazon mandatory attributes template](#2-amazon-attributes-template)
@@ -23,21 +70,21 @@ Once you have configured the initial integration settings, you can send products
 5. [Fill out the mapping template](#5-filling-in-the-mapping-spreadsheet)
 6. [Upload the completed mapping template](##6-uploading-the-mapping-template)
 
-## 1. Amazon general categories template
+#### 1. Amazon general categories template
 
 Amazon uses the [global categories](https://help.vtex.com/en/tutorial/configurando-a-categoria-global--tutorials_188) registered on the VTEX platform to map products. Therefore, it is important that the equivalence between the global categories in VTEX and the categories in Amazon is done correctly.
 
 To learn about the categories accepted by Amazon, please download the [Amazon general categories template.xlsx.](https://drive.google.com/uc?export=download&id=1GC5Guic4k_8C2ZnEGQUoDqT2cdJzp-Ti) This template will be used for consultation purposes only.
 
-## 2. Amazon attributes template
+#### 2. Amazon attributes template
 
 Amazon has reference attributes for certain product features that must be considered when mapping attributes.
 
-To know which attributes are accepted by Amazon according to each column of the mapping template, please download the [Amazon attributes template.xlsx.](https://drive.google.com/uc?export=download&id=1UkcrfPopMg-cnrSDOF0qt51NRIXgzi0r) This template will be used for consultation purposes only.
+To know which attributes are accepted by Amazon according to each column of the mapping template, please download the [Amazon required attributes template.xlsx.](https://drive.google.com/uc?export=download&id=1UkcrfPopMg-cnrSDOF0qt51NRIXgzi0r) This template will be used for consultation purposes only.
 
 In this template, each tab corresponds to a global subcategory on Amazon. When you click on a tab, the template displays the subcategories present within the selected global category.
 
-## 3. Pre-configuring the catalog
+#### 3. Pre-configuring the catalog
 
 Before mapping the products in your store, you must configure the following [fields for the product](https://help.vtex.com/es/tutorial/criando-um-campo-de-produto--tutorials_106) you want to send to Amazon:
 
@@ -56,22 +103,21 @@ When configuring a global category on the VTEX platform, please consider the Ama
 
 To configure a global category in the VTEX environment according to the global categories on Amazon, please follow the steps below:
 
-1. In the [Amazon attributes template](#1-amazon-general-categories-template) find the category that will be used for your products.
-2. In the [Amazon general categories template](#2-amazon-attributes-template) filter column I - **Cat-Amazon-General** and select the desired category.
-3. In the [Amazon general categories template](#2-amazon-attributes-template), identify which category tree will apply to VTEX by viewing columns B, C, D and/or E.
-4. In VTEX Admin, go to the *CATALOG*, module and select the **Products and SKUs** tab. 
+1. In the [Amazon required attributes template](#1-amazon-general-categories-template) find the category that will be used for your products.
+2. In the [Amazon global categories template](#2-amazon-attributes-template) filter column I - **Cat-Amazon-General** and select the desired category.
+3. In the [Amazon global categories template](#2-amazon-attributes-template), identify which category tree will apply to VTEX by viewing columns B, C, D and/or E.
+4. In VTEX Admin, go to the **Catalog**, module and select the **Products and SKU Management** tab. 
 5. Find the product by searching for the desired category in the search field.
-6. Click on `Edit`.
+6. Click on `Edit Product`.
 7. On the product page, find the `VTEX global category` field.
 8. Fill out the [VTEX global category](https://help.vtex.com/pt/tutorial/configurando-a-categoria-global) field with the name of the category you found in step 3.
 9. Click on `Save`.
 
-#### Example of how to use the templates for consultation 
-
-In the Amazon attributes template, we will use the **Health** category as an example:
+**Example of a spreadsheet query**
+In the Amazon required attributes template, we will use the **Health** category as an example:  
 ![categoriageral01](//images.contentful.com/alneenqid6w5/154htyPg3K3IZ6Wxej3kek/a446c9815c249dda3084aa1773b76b3a/categoriageral01.JPG)
 
-In the Amazon general categories template, filter column I (Cat-Amazon-General) by clicking on **Filter > Health > OK**.
+In the Amazon general categories template, filter column "I" Cat-Amazon-General by clicking on **Filter > Health > OK**.
 ![categoriageral02](//images.contentful.com/alneenqid6w5/2PTS1fxztRjYHaAicwVH7W/f44b94c30ca7401ec08a19c467ee8912/categoriageral02.JPG)
 
 Following the previous example, filter columns B, C, and D in the **Health & Beauty > Personal care > Massage & Relaxation** tree.
@@ -85,7 +131,7 @@ Because Amazon's catalog is unique, Amazon requires that products shipped have a
 
 #### EAN exemption
 
-However, there are situations in which [Amazon exempts the retailer from entering the EAN](https://sellercentral.amazon.com.br/gp/help/200426310). In this case, the exemption must be configured in both Amazon and VTEX. 
+However, there are situations in which [Amazon exempts the merchant from sending the EAN](https://sellercentral.amazon.com.br/gp/help/200426310). In this case, the exemption must be configured in both Amazon and VTEX. 
 
 If Amazon has already granted EAN exemption for your store, please [submit a support ticket](https://support.vtex.com/hc/en-us) with the subject "Amazon - EAN exemption" to request VTEX to do the same. To obtain the EAN exemption, the integration must already be configured before you make the request via support ticket.
 
@@ -114,13 +160,13 @@ Whether you are selling a brand's products or your own branded products, Amazon 
 
 If you want to sell a product that is associated with another owner (creating a new ASIN), it is important to pay attention to the [approvals](https://sellercentral.amazon.com/gp/help/help.html/?itemID=G201844590&ref_=xx_G201844590_a_r0_cont_sgsearch).
 
-## 4. Mapping spreadsheet
+#### 4. Mapping spreadsheet
 
 In this step, you will need to categorize product variations and attributes and send them to the marketplace. This information is sent using the mapping template, which establishes the equivalence between the categories, variations and attributes of your store and the standards adopted by Amazon.
 
 Download the [Amazon mapping template.xlsx](https://assets.ctfassets.net/alneenqid6w5/4mNcXF4yS3160xUGgCZVQC/caf8cfc88b316bc9878000264e16e30b/Planilha_modelo.xlsx) and fill it out. This file will be submitted to Amazon afterwards.
 
-## 5. Filling in the mapping spreadsheet
+#### 5. Filling in the mapping spreadsheet
 
 The template contains the following columns:
 
@@ -157,7 +203,7 @@ Follow the steps below for each product:
 Depending on the category, the <b>VariationTheme</b> values may be similar. There are categories in which <b>VariationTheme</b> can be: <i>SizeColor</i>, <i>Color</i> e <i>Size</i>, while there are other categories in which it can be: <i>ColorSize</i>, <i>Color</i> e <i>Size</i>. The difference is in the order. In <i>SizeColor</i>, the checkboxes on the product page will be sorted by size and color, while in <i>ColorSize</I> they will be sorted by color and size. Pay attention to the values valid for each category that will be mapped. 
 </div>
 
-### Example
+#### Example
 
 | CategoryID | VariationTheme | Type | VTEXSpecification | AmazonSpecification | VTEXValue | AmazonValue |
 | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- | ---------- |
@@ -165,7 +211,7 @@ Depending on the category, the <b>VariationTheme</b> values may be similar. Ther
 | 212 | SizeColor | Variation | Size | Size | M | M |
 | 212 | SizeColor | Variation | Size | Size | L | L |
 
-## 6. Uploading the mapping template
+#### 6. Uploading the mapping template
 
 After filling in the spreadsheet, go to Integrations in the Admin menu:
 
@@ -177,19 +223,4 @@ After filling in the spreadsheet, go to Integrations in the Admin menu:
 6. Select the completed mapping template and click on `Upload file`.
 
 If no error has occurred during the process, the products will be sent to Amazon with their respective attributes.  
-
-## 7. Automatic matching
-
-Whenever a [SKU](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) with a registered [EAN](https://sellercentral.amazon.com.br/learn/courses?ref_=su_course_accordion&moduleId=71d0b122-4e43-4547-a05a-04517e8f41a2&courseId=959bc7cb-2866-499c-b24a-8d3f6def1306&modLanguage=Portuguese&videoPlayer=youtube) is sent to Amazon, the marketplace performs a matching process, combining offers for the same product using its EAN.  
-
-The EAN added on VTEX is used to match the corresponding [ASIN](https://associados.amazon.com.br/resource-center/asin-amazon?ac-ms-src=rc-home-card) (Amazon Standard Identification Number) on Amazon. This matching happens automatically; however, it may not be done correctly.  
-
-<div class= "alert alert-info">
-We recommend that the seller review all products in the `Processed with warning` status. Products that do not have a matching EAN and ASIN need to be resent.  
-</div>
-
-Follow the steps below to filter products that were not processed correctly:  
-
-1. In the VTEX Admin, go to __Marketplace > Integrations > Products__.  
-2. Filter the products with the Affiliate field filled in with Amazon and the Status field with the value Warning. You will see the products that have not been processed with the matching EAN and ASIN and will be able to resend them.  
 

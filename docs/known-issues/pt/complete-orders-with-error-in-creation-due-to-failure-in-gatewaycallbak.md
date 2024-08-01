@@ -3,8 +3,8 @@ title: 'Pedidos completos com erro na criação devido a falha no gatewaycallbak
 id: 2qVa686QBsvkgXY8wwmc8Y
 status: PUBLISHED
 createdAt: 2022-05-04T19:28:00.775Z
-updatedAt: 2022-11-25T21:52:28.991Z
-publishedAt: 2022-11-25T21:52:28.991Z
+updatedAt: 2024-04-04T16:46:47.602Z
+publishedAt: 2024-04-04T16:46:47.602Z
 firstPublishedAt: 2022-05-04T19:28:01.142Z
 contentType: knownIssue
 productTeam: Checkout
@@ -23,21 +23,25 @@ internalReference: 416936
 </div>
 
 
-Recebemos algumas consultas sobre pedidos que estavam presos no status de aprovação de pagamento, mas que já foram aprovados, o que o fluxo normal de pedidos não deveria acontecer.
+Recebemos algumas consultas sobre pedidos que estavam presos no status de pagamento aprovado, mas já aprovados, o que não deveria acontecer no fluxo normal de pedidos.
 
-Com base na análise dos casos, entendemos que uma possível ocorrência desta ocorrência foi;
+Com base na análise dos casos, entendemos que uma possível ocorrência desse fato foi;
 
-A ordem de mercado foi criada incompleta, a ordem de mercado recebe a chamada de gatewaycallback e, neste momento, ocorre uma falha, e isto faz com que um processo de cancelamento de ordem seja iniciado, mas a ordem de marketppace recebe uma segunda chamada de gatewaycallback que faz com que a ordem seja autorizada e completa, impedindo assim que a transação seja cancelada, e este cenário gera uma ordem completa (marketplace / checkout), mas com um erro de criação e a ordem de preenchimento cancelada, o que poderia ser evitado implementando uma validação em gatewaycallback para não proceder com pedidos incompletos.
-
-
-
-
+O pedido do marketplace foi criado incompleto, o pedido do marketplace recebe a chamada do gatewaycallback e, nesse momento, ocorre uma falha, e isso faz com que se inicie um processo de cancelamento do pedido, mas o pedido do marketppace recebe uma segunda chamada do gatewaycallback que faz com que o pedido seja autorizado e concluído, impedindo assim que a transação seja cancelada, e esse cenário gera um pedido completo (marketplace/checkout), mas com um erro de criação e o pedido completo cancelado, o que poderia ser evitado implementando uma validação no gatewaycallback para não prosseguir com pedidos incompletos.
+Em alguns casos, o pedido do vendedor pode não ser cancelado.
 
 ## Simulação
 
 
 
+Não podemos simular devido à complexidade do fluxo, a análise deve ser feita considerando os dados aqui informados.
+
 ## Workaround
+
+
+Nos casos em que o pedido do vendedor não for cancelado, você deverá cancelar o pedido manualmente ou aguardar o prazo de 30 dias.
+
+
 
 
 

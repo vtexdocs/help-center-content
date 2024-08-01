@@ -3,8 +3,8 @@ title: 'Setting up payments with Ebanx'
 id: 4yKdQrt57AW7aElfHH4QKM
 status: PUBLISHED
 createdAt: 2023-03-22T14:27:42.440Z
-updatedAt: 2023-03-23T12:45:53.859Z
-publishedAt: 2023-03-23T12:45:53.859Z
+updatedAt: 2024-01-23T18:07:19.598Z
+publishedAt: 2024-01-23T18:07:19.598Z
 firstPublishedAt: 2023-03-22T17:04:49.283Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: setting-up-payments-with-ebanx
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the Ebanx payment provider. With this connector, your store can make sales through bank invoice, credit cards and PIX.
+At VTEX, it is possible to integrate with the Ebanx payment provider. With this provider, your store can make sales through bank invoice, credit cards and PIX.
 
-To configure Ebanx affiliation, follow the steps below:
+To configure Ebanx, follow the steps below:
 
-1. In the VTEX Admin, go to __Store Settings > Payments > Settings__, or type __Settings__ in the search bar at the top of the page.
-2. In the __Gateway affiliations__ tab, click on the `+` button.
-3. Click on the __Ebanx__ connector.
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __Ebanx__ in the search bar and click on the name of the provider.
 4. Click on __Authorize__. You will be redirected to the Ebanx environment.
 5. In the Ebanx environment, enter your Ebanx account login and password. Follow the indicated instructions to complete the Ebanx account linking with VTEX.
 6. After returning to __Admin VTEX__, click on `Save`.

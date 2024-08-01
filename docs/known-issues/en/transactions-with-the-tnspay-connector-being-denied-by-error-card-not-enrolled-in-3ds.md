@@ -3,8 +3,8 @@ title: 'Transactions with the TNSPay connector being denied by error: Card not E
 id: 2jZefzH8LYqPJxkmylmyA0
 status: PUBLISHED
 createdAt: 2022-03-14T13:21:56.187Z
-updatedAt: 2023-04-10T16:10:48.998Z
-publishedAt: 2023-04-10T16:10:48.998Z
+updatedAt: 2024-02-16T20:24:33.195Z
+publishedAt: 2024-02-16T20:24:33.195Z
 firstPublishedAt: 2022-03-14T13:21:56.952Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: transactions-with-the-tnspay-connector-being-denied-by-error-card-not-enrolled-in-3ds
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 541687
 ---
 

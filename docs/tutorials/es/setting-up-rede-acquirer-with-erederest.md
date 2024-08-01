@@ -1,10 +1,10 @@
 ---
 title: 'Configurar adquirente Rede con ERedeRest'
 id: 5TD6Ap9kiIUSiAMUsgYmcY
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-04-12T15:47:44.783Z
-updatedAt: 2023-03-29T01:11:21.243Z
-publishedAt: 2023-03-29T01:11:21.243Z
+updatedAt: 2024-03-18T18:22:35.227Z
+publishedAt: 
 firstPublishedAt: 2018-04-13T15:41:42.879Z
 contentType: tutorial
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: es
 legacySlug: configurar-adquirente-rede-con-erederest
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+<div class="alert alert-danger">Esta integración de pago ya no se puede configurar en la plataforma debido al <a href="https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14">proceso de descontinuación de los proveedores legados</a> y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.</div>
 
 En VTEX, usted puede hacer la integración con el [adquirente](/es/tutorial/que-es-un-adquirente) Rede usando el conector ERedeREST. Este conector trae una serie de mejoras, entre ellas el soporte a medios de pago con pre-autorización (__Visa__, __Mastercard__, __American Express__, __Diners__, __Hipercard__, __JCB__ y __Credz__).
 

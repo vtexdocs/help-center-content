@@ -1,10 +1,10 @@
 ---
 title: 'Acompanhando a evolução das suas vendas'
 id: 5QtyTR0jFy9gDnr4EYCjdq
-status: PUBLISHED
+status: DRAFT
 createdAt: 2020-09-10T13:32:39.637Z
-updatedAt: 2020-09-11T00:16:35.791Z
-publishedAt: 2020-09-11T00:16:35.791Z
+updatedAt: 2023-10-18T15:24:34.576Z
+publishedAt: 
 firstPublishedAt: 2020-09-10T17:37:50.007Z
 contentType: tutorial
 productTeam: Management
@@ -38,7 +38,7 @@ O horário de referência para os dados é indicado na interface, com uma defasa
 <table width="100%">
   <tr>
    <td>
-    <img src="https:https://images.ctfassets.net/alneenqid6w5/2f8tj5XokKtnZOvjfgmFVf/8766d35f81efb2710d048d67618781b0/Insights_-_Conhecendo_a_interface.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Conhecendo a interface" title="Insights - Conhecendo a interface">
+    <img src="https://images.ctfassets.net/alneenqid6w5/2f8tj5XokKtnZOvjfgmFVf/8766d35f81efb2710d048d67618781b0/Insights_-_Conhecendo_a_interface.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Conhecendo a interface" title="Insights - Conhecendo a interface">
    </td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@ Este painel permite comparar o valor consolidado das métricas entre os dias sel
 <table width="100%">
   <tr>
    <td>
-    <img src="https:https://images.ctfassets.net/alneenqid6w5/5lKQrdbytYWAaMV3tHnOi4/0235b8bc175e3a3575b37caf68760d0d/Insights_-_Visa__o_Geral.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Visão Geral" title="Insights - Visão Geral">
+    <img src="https://images.ctfassets.net/alneenqid6w5/5lKQrdbytYWAaMV3tHnOi4/0235b8bc175e3a3575b37caf68760d0d/Insights_-_Visa__o_Geral.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Visão Geral" title="Insights - Visão Geral">
    </td>
   </tr>
   <tr>
@@ -76,7 +76,7 @@ Este painel permite acompanhar a evolução das métricas ao longo do dia. Ao ar
 <table width="100%">
   <tr>
    <td>
-    <img src="https:https://images.ctfassets.net/alneenqid6w5/L43eNghJLlakmOFcGmKiM/b33fac8dc56733bd1c8bec7ffcf50dbc/Insights_-_Detalhes.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Detalhes 1" title="Insights - Detalhes 1">
+    <img src="https://images.ctfassets.net/alneenqid6w5/L43eNghJLlakmOFcGmKiM/b33fac8dc56733bd1c8bec7ffcf50dbc/Insights_-_Detalhes.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Detalhes 1" title="Insights - Detalhes 1">
    </td>
   </tr>
   <tr>
@@ -91,7 +91,7 @@ Este painel permite acompanhar a evolução das métricas ao longo do dia. Ao ar
 <table width="100%">
   <tr>
    <td>
-    <img src="https:https://images.ctfassets.net/alneenqid6w5/1TExoNJjCZInwh3LGQrkzO/9f3552d7e67b8916f740eb8113e9ed65/image11.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Detalhes 2" title="Insights - Detalhes 2">
+    <img src="https://images.ctfassets.net/alneenqid6w5/1TExoNJjCZInwh3LGQrkzO/9f3552d7e67b8916f740eb8113e9ed65/image11.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Detalhes 2" title="Insights - Detalhes 2">
    </td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@ Este painel permite acompanhar o volume de sessões nas etapas intermediárias d
 <table width="100%">
   <tr>
    <td>
-    <img src="https:https://images.ctfassets.net/alneenqid6w5/4DdN3hdCz7CdoukLu3H0Ea/0284cb7630896fbf4f45e63ddd9506e0/Insights_-_Funil_de_conversa__o.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Funil de conversão" title="Insights - Funil de conversão">
+    <img src="https://images.ctfassets.net/alneenqid6w5/4DdN3hdCz7CdoukLu3H0Ea/0284cb7630896fbf4f45e63ddd9506e0/Insights_-_Funil_de_conversa__o.png" style="display: block; margin-left: auto; margin-right: auto;" alt="Insights - Funil de conversão" title="Insights - Funil de conversão">
    </td>
   </tr>
   <tr>

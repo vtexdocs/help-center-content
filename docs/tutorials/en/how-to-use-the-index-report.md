@@ -1,10 +1,10 @@
 ---
 title: 'How to use the Index Report'
 id: 4ikVpMhwByyS8sysaeOIm4
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-07-04T13:10:40.431Z
-updatedAt: 2023-03-29T19:04:52.988Z
-publishedAt: 2023-03-29T19:02:27.075Z
+updatedAt: 2023-07-13T19:45:25.468Z
+publishedAt: 2023-07-13T19:45:25.468Z
 firstPublishedAt: 2017-07-04T19:16:21.471Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -17,7 +17,7 @@ subcategory: 5yDQmr18K4GgQAeGwq8USa
 
 The **Index Report** shows the indexing status of all products of the store. 
 
-![Indexingreport](https://images.ctfassets.net/alneenqid6w5/3eSr5kdaesUGkCmuAEkQQo/8f9466ec380b282176491d7f6424bbe1/Indexingreport.png)
+![Indexingreport](//images.ctfassets.net/alneenqid6w5/3eSr5kdaesUGkCmuAEkQQo/8f9466ec380b282176491d7f6424bbe1/Indexingreport.png)
 
 <div class="alert alert-info">
 <strong>Notice:</strong> For more information, access <a href="/en/tutorial/understanding-how-indexation-works">Understanding the operation of the indexation.</a>

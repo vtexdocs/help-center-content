@@ -3,8 +3,8 @@ title: "Portal keeps UTM's after logging out when using Callcenter Operator."
 id: 4dogeU7iMoTXBWwv5DyR8u
 status: PUBLISHED
 createdAt: 2022-03-18T19:04:54.519Z
-updatedAt: 2022-11-25T22:10:46.942Z
-publishedAt: 2022-11-25T22:10:46.942Z
+updatedAt: 2024-02-16T20:27:34.500Z
+publishedAt: 2024-02-16T20:27:34.500Z
 firstPublishedAt: 2022-03-18T19:04:55.239Z
 contentType: knownIssue
 productTeam: Portal

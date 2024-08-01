@@ -3,8 +3,8 @@ title: 'How to import data into Master Data'
 id: tutorials_1135
 status: PUBLISHED
 createdAt: 2017-04-27T21:57:12.437Z
-updatedAt: 2023-03-28T23:29:25.337Z
-publishedAt: 2023-03-28T23:29:25.337Z
+updatedAt: 2023-06-15T19:48:45.566Z
+publishedAt: 2023-06-15T19:48:45.566Z
 firstPublishedAt: 2017-04-27T23:03:43.488Z
 contentType: tutorial
 productTeam: Master Data
@@ -42,10 +42,10 @@ Keep the same format of the worksheet (xls) for the import to be successful.
 </div>
 
 1. In the VTEX Admin, access **Store Settings** > **Storefront** > **Master Data**.
-2. Click on the **Aplicações** tab.
-3. Click on the **Modo de Importação** button.
+2. Click on the **Applications** tab.
+3. Click on the **Import** button.
 4. Select the data entity to be entered or updated (here, you must enter the data entity of the form containing the records that you intend to include or update).
 5. Select the file.
-6. Click on the **Importar** button at the bottom of the screen.
+6. Click on the **Import** button at the bottom of the screen.
 
 ![Importando](//images.contentful.com/alneenqid6w5/3xkB2DzbqoeIsk2Qice8sM/71d3c7d0379e03a8641180ccbe97dc77/Importando-1.gif)

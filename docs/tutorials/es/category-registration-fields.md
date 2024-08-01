@@ -3,8 +3,8 @@ title: 'Llenar campos de registro de categoría'
 id: 5Z7RrvW41yumyQCmk2iqoG
 status: PUBLISHED
 createdAt: 2017-09-20T14:44:06.897Z
-updatedAt: 2022-08-01T18:47:26.486Z
-publishedAt: 2022-08-01T18:47:26.486Z
+updatedAt: 2024-01-04T14:40:33.174Z
+publishedAt: 2024-01-04T14:40:33.174Z
 firstPublishedAt: 2017-09-20T14:58:27.420Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -43,9 +43,9 @@ Para entender mejor el significado de cada campo del registro de categoría, vea
 - __Score (utilizado para ordenación de búsqueda):__ valor utilizado para definir la prioridad en la página de resultados de búsqueda. Para entender más sobre Score, accede a nuestro artículo [¿Cómo funciona el campo Score?](https://help.vtex.com/es/tutorial/como-funciona-el-campo-score--1BUZC0mBYEEIUgeQYAKcae).
 - __Modo de visualización de los productos:__ define cómo se mostrarán los SKUs en la página del producto. Vea abajo las opciones de relleno de este campo:
   - __Lista de SKUs:__ todos los SKUs del departamento o categoría en cuestión se mostrarán en el formato de lista. Cada uno con su botón de Comprar al lado.
-  ![1Lista.es](https://images.ctfassets.net/alneenqid6w5/37tngqcxF8hJTzWqxUG8jA/1c5f90c33525bfaf34b6ab729a9d02b5/Lista.es.png)
+  ![1Lista.es](//images.ctfassets.net/alneenqid6w5/37tngqcxF8hJTzWqxUG8jA/1c5f90c33525bfaf34b6ab729a9d02b5/Lista.es.png)
   - __Ingeles de selección de radio (radioBox):__ todos los SKUs de ese departamento/categoría necesitarán ser seleccionados a través de selección de radio.
-  ![RadioBox.es](https://images.ctfassets.net/alneenqid6w5/F33F8dSkcV2SePNONlGb2/d0029323d5f7f07f2d1c53fb5d784ccc/RadioBox.es.png)
+  ![RadioBox.es](//images.ctfassets.net/alneenqid6w5/F33F8dSkcV2SePNONlGb2/d0029323d5f7f07f2d1c53fb5d784ccc/RadioBox.es.png)
   - __Sigue la definición de la especificación SKU:__ todos los SKUs de ese departamento/categoría serán seleccionados de acuerdo con la pestaña Especificación, en el formulario de registro de SKU. Las opciones preconfiguradas son Combo o Radio.
-  ![Campos.es](https://images.ctfassets.net/alneenqid6w5/17S7QKJpvr31r3LGRRCSSn/c3350ddfca051df6be8592fad107410f/Campos.es.png)
+  ![Campos.es](//images.ctfassets.net/alneenqid6w5/17S7QKJpvr31r3LGRRCSSn/c3350ddfca051df6be8592fad107410f/Campos.es.png)
 

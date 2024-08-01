@@ -3,8 +3,8 @@ title: 'Los diacríticos se eliminan en CatalogAPI'
 id: 2iVyAQ8TSaT3jFYzcQGjSs
 status: PUBLISHED
 createdAt: 2022-07-22T18:18:04.236Z
-updatedAt: 2022-11-25T21:44:21.525Z
-publishedAt: 2022-11-25T21:44:21.525Z
+updatedAt: 2024-02-16T20:28:19.994Z
+publishedAt: 2024-02-16T20:28:19.994Z
 firstPublishedAt: 2022-07-22T18:18:05.160Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: los-diacriticos-se-eliminan-en-catalogapi
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 623345
 ---
 

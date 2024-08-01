@@ -1,9 +1,9 @@
 ---
 title: 'Mejora de seguridad en la primera compra del cliente'
-id: DKlfRaMNHxgQhUT5VqRrK
+id: 3RBko0KXi8eOm4nKARgReD
 status: DRAFT
-createdAt: 2023-04-28T12:35:44.503Z
-updatedAt: 2023-06-09T15:37:43.651Z
+createdAt: 2023-07-03T11:34:49.078Z
+updatedAt: 2023-10-09T14:12:03.607Z
 publishedAt: 
 contentType: updates
 productTeam: Shopping
@@ -21,7 +21,7 @@ Con el fin de aumentar la seguridad de la información de tu tienda, VTEX ha int
 
 Antes, durante la primera compra, la información personal del cliente se mostraba en el carrito sin enmascaramiento de datos, ya que aún no tiene un perfil creado en la tienda.
 
-Ahora, durante la creación de un nuevo carrito, además de la cookie `checkout.vtex.com` que contiene el orderFormId, se enviará una nueva cookie (`CheckoutOrderFormOwnership`). Esto permitirá que solo el cliente que creó el carrito tenga acceso ilimitado a su información.
+Ahora, durante la creación de un nuevo carrito, además de la cookie `checkout.vtex.com` que contiene el `orderFormId`, se enviará una nueva cookie (`CheckoutOrderFormOwnership`). Esto permitirá que solo el cliente que creó el carrito tenga acceso ilimitado a su información.
 
 Si se produce un intento externo de acceder a los datos del carrito, no se podrá ver la información personal del cliente, ya que sus datos aparecerán enmascarados.
 

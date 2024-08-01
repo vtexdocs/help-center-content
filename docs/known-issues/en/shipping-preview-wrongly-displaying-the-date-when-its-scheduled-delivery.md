@@ -3,8 +3,8 @@ title: "Shipping Preview wrongly displaying the date when it's scheduled deliver
 id: 6pbufuWTFkL4NK3xLIxj1z
 status: PUBLISHED
 createdAt: 2023-01-31T19:36:58.137Z
-updatedAt: 2023-01-31T19:36:58.933Z
-publishedAt: 2023-01-31T19:36:58.933Z
+updatedAt: 2024-07-01T18:48:44.228Z
+publishedAt: 2024-07-01T18:48:44.228Z
 firstPublishedAt: 2023-01-31T19:36:58.933Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: shipping-preview-wrongly-displaying-the-date-when-its-scheduled-delivery
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 743774
 ---
 

@@ -1,16 +1,16 @@
 ---
 title: 'Configurar la integración de los puntos de recogida '
 id: 52C1lm8gMovN8v68s6v89d
-status: PUBLISHED
+status: DRAFT
 createdAt: 2021-08-12T18:12:20.076Z
-updatedAt: 2021-09-08T17:52:30.570Z
-publishedAt: 2021-09-08T17:52:30.570Z
+updatedAt: 2024-03-11T22:19:05.610Z
+publishedAt: 
 firstPublishedAt: 2021-08-19T15:16:01.224Z
 contentType: trackArticle
 productTeam: Channels
 slug: configurar-la-integracion-de-los-puntos-de-recogida
 locale: es
-trackId: 2YfvI3Jxe0CGIKoWIGQEIq
+trackId: 
 trackSlugES: configurar-integracion-con-mercado-libre
 ---
 
@@ -58,7 +58,7 @@ Para ativar os pontos de retirada nas contas franquias:
 1. Acceda al Admin VTEX.
 2. En el módulo MARKETPLACE, seleccione **Integraciones**.
 3. Luego, haga clic en `Configuración`.
-4. En la integración de Mercado Libre, haga clic en el ícono de engranaje <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
+4. En la integración de Mercado Libre, haga clic en el ícono de engranaje <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />.
 5. Elija la opción `Editar configuración`.
 6. En el campo **Activar integración de los puntos de recogida de las cuentas franquicia**, haga clic en la opción `Sí`.
 7. Haga clic en `Guardar configuración`.

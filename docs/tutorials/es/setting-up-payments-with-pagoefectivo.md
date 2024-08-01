@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pagos con PagoEfectivo'
 id: 1GGyNqZSYE2a8ga4UemYyw
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-04-09T20:26:14.388Z
-updatedAt: 2021-06-17T18:59:09.202Z
-publishedAt: 2021-06-17T18:59:09.202Z
+updatedAt: 2024-03-18T19:11:11.066Z
+publishedAt: 
 firstPublishedAt: 2018-04-09T21:57:41.363Z
 contentType: tutorial
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: es
 legacySlug: configurar-pagos-con-pagoefectivo
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+<div class="alert alert-danger">Esta integración de pago ya no se puede configurar en la plataforma debido al <a href="https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14">proceso de descontinuación de los proveedores legados</a> y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.</div>
 
 Usted puede configurar PagoEfectivo para recibir pagos en su tienda. En esta modalidad, su cliente escoge el __medio de pago__ PagoEfectivo para efectuar la compra.
 

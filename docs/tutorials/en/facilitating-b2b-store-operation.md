@@ -1,9 +1,9 @@
 ---
 title: 'Facilitating B2B store operation'
 id: 8t1f9FYBsSCopHHVujKWR
-status: PUBLISHED
+status: CHANGED
 createdAt: 2021-03-30T14:29:12.548Z
-updatedAt: 2021-05-20T18:17:16.108Z
+updatedAt: 2024-05-10T10:59:55.549Z
 publishedAt: 2021-05-20T18:17:16.108Z
 firstPublishedAt: 2021-03-30T19:54:13.259Z
 contentType: tutorial
@@ -12,7 +12,7 @@ author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: facilitating-b2b-store-operation
 locale: en
 legacySlug: facilitating-b2b-store-operation
-subcategory: 5N5GjDrKSycIQMeoS7CLtj
+subcategory: 2LrbEY7MFeKqmdfYLBCnfi
 ---
 
 You can facilitate the operation of your store by installing applications to solve business issues related to store usability, sales, and after-sales.
@@ -91,7 +91,7 @@ All VTEX stores have the [My account](https://help.vtex.com/en/tutorial/como-fun
 
 This tool allows you to monitor the order status in the after-sales flow and carry out operations such as: “Order again”, which allows placing the same order again.  
 
-![Order again](https://images.ctfassets.net/alneenqid6w5/1t7B2SNKQ9aJZ4gFE03ViD/8ba194685df6e2374b7e287fb0ed59bc/image.png)
+![Order again](//images.ctfassets.net/alneenqid6w5/1t7B2SNKQ9aJZ4gFE03ViD/8ba194685df6e2374b7e287fb0ed59bc/image.png)
 
 For more details on “My Account,” check out the tutorial on [how to configure this feature](https://help.vtex.com/en/tutorial/configurar-o-my-account--23Ayv5D6b86UBnYfoXqZL1 "").
 

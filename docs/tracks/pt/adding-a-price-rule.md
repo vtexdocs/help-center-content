@@ -3,8 +3,8 @@ title: 'Cadastrar regra de preço'
 id: 7fyZaYe1IGzL0qVC28tOBO
 status: PUBLISHED
 createdAt: 2019-07-04T13:53:15.461Z
-updatedAt: 2023-03-29T18:50:59.023Z
-publishedAt: 2023-03-29T18:50:59.023Z
+updatedAt: 2023-08-21T17:10:07.115Z
+publishedAt: 2023-08-21T17:10:07.115Z
 firstPublishedAt: 2019-07-17T19:42:10.960Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -23,7 +23,7 @@ Siga o passo a passo abaixo para cadastrar a regra de preço da sua loja:
 
 ## Admin
 
-1.  No Admin VTEX, acesse *Preços > Regras de preços*, ou digite *Regras de preços* na barra de busca no topo da página.
+1.  No Admin VTEX, acesse **Preços > Regras de preços**, ou digite **Regras de preços** na barra de busca no topo da página.
 2.  Clique no botão verde **Nova Regra**.
 3.  No primeiro passo, **Quais os dados gerais dessa regra?**, selecione no *dropdown* uma tabela de preços.
 4.  No segundo passo, **Em quais itens esta regra será aplicada?**, selecione se a regra irá se *Aplicar em todos os produtos* ou *Apenas em categorias e marcas escolhidas*. Se selecionada a segunda opção, você deve escolher as **Categorias** e/ou **Marcas** desejadas. 

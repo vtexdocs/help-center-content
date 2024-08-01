@@ -1,10 +1,10 @@
 ---
 title: '¿Qué pagos personalizados están disponibles en América Latina?'
 id: 6plXudxQJiwaE0key20Yoe
-status: PUBLISHED
+status: DRAFT
 createdAt: 2019-01-24T20:45:37.217Z
-updatedAt: 2019-12-31T15:29:09.442Z
-publishedAt: 2019-12-31T15:29:09.442Z
+updatedAt: 2024-03-19T12:09:37.330Z
+publishedAt: 
 firstPublishedAt: 2019-01-24T21:58:52.021Z
 contentType: tutorial
 productTeam: Financial

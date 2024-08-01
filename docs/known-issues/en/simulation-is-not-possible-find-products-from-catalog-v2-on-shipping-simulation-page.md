@@ -3,8 +3,8 @@ title: 'Simulation Is not possible find Products from Catalog V2 on Shipping Sim
 id: 7jZBMAZHNilokDdbCxWzSs
 status: PUBLISHED
 createdAt: 2022-05-18T18:26:09.456Z
-updatedAt: 2022-11-25T21:59:14.900Z
-publishedAt: 2022-11-25T21:59:14.900Z
+updatedAt: 2024-02-16T20:28:57.548Z
+publishedAt: 2024-02-16T20:28:57.548Z
 firstPublishedAt: 2022-05-18T18:26:10.048Z
 contentType: knownIssue
 productTeam: Logistics
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: simulation-is-not-possible-find-products-from-catalog-v2-on-shipping-simulation-page
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 488362
 ---
 

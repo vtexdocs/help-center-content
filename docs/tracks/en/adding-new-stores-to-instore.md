@@ -3,8 +3,8 @@ title: 'Managing physical stores in VTEX Sales App'
 id: 5PSjRstg7UU4lOm0s8aqKN
 status: PUBLISHED
 createdAt: 2020-06-29T13:30:51.354Z
-updatedAt: 2023-05-31T15:07:31.507Z
-publishedAt: 2023-05-31T15:07:31.507Z
+updatedAt: 2023-07-26T18:59:24.074Z
+publishedAt: 2023-07-26T18:59:24.074Z
 firstPublishedAt: 2020-06-29T14:22:11.121Z
 contentType: trackArticle
 productTeam: Shopping
@@ -25,7 +25,7 @@ This page allows you to perform the following actions:
 * [Edit](#editing-a-physical-store)
 * [Inactivate](#inactivating-a-physical-store)
 
-![loja-fisica-EN](https://images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/516078c3146ebc1f4a7905faed445098/image.png)
+![loja-fisica-EN](//images.ctfassets.net/alneenqid6w5/6C1IhZgOyHi06ZogDIfTcF/516078c3146ebc1f4a7905faed445098/image.png)
 
 The page displays the following information: 
 
@@ -50,7 +50,7 @@ You can add a physical store by following the steps below:
 
 ### Physical store fields
 
-![loja-fisica2-en](https://images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/6a50e8a8cd3f452b4102af5871ede996/image.png)
+![loja-fisica2-en](//images.ctfassets.net/alneenqid6w5/60OAU1QatgSvdghvRebAOW/6a50e8a8cd3f452b4102af5871ede996/image.png)
 
 #### Identification
 

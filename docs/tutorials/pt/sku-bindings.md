@@ -1,10 +1,10 @@
 ---
 title: 'Vínculos de SKU'
 id: 1SmrVgNwjJX17hdqwLa0TX
-status: CHANGED
+status: PUBLISHED
 createdAt: 2022-05-27T17:27:26.963Z
-updatedAt: 2023-05-25T15:51:50.053Z
-publishedAt: 2023-03-31T19:05:52.334Z
+updatedAt: 2024-01-23T15:50:13.022Z
+publishedAt: 2024-01-23T15:50:13.022Z
 firstPublishedAt: 2022-05-31T17:14:23.589Z
 contentType: tutorial
 productTeam: Channels
@@ -27,7 +27,7 @@ Por padrão, para <a href="https://help.vtex.com/pt/tutorial/seller-white-label-
 
 A página **Vínculos de SKU** permite ao marketplace acompanhar e gerenciar a relação de vínculo entre os SKUs do seller e do marketplace. Para acessar a página, no Admin VTEX vá em **Marketplace > Sellers > Vínculos de SKU**. A seguinte interface vai aparecer:
 
-![sku-bindings-pt](https://images.ctfassets.net/alneenqid6w5/3TrV8m2JLKuPjhKTtkY2Yl/f226cc707a595197ffa86fcb68db212b/sku-bindings-pt.png)
+![sku-bindings-pt](//images.ctfassets.net/alneenqid6w5/3TrV8m2JLKuPjhKTtkY2Yl/f226cc707a595197ffa86fcb68db212b/sku-bindings-pt.png)
 
 A tabela a seguir apresenta a descrição das colunas da listagem de vínculos de SKUs:
 

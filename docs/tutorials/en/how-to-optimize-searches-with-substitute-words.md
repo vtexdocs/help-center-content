@@ -1,10 +1,10 @@
 ---
 title: 'Optimizing searches with substitute words '
 id: 32FqSsl5VuQyiIMEc02Uwu
-status: PUBLISHED
+status: CHANGED
 createdAt: 2019-01-24T20:45:49.707Z
-updatedAt: 2021-09-14T19:00:59.249Z
-publishedAt: 2021-09-14T19:00:59.249Z
+updatedAt: 2024-02-28T22:28:58.551Z
+publishedAt: 2024-01-10T13:30:55.078Z
 firstPublishedAt: 2019-01-24T22:00:22.364Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -16,8 +16,7 @@ subcategory: pwxWmUu7T222QyuGogs68
 ---
 
 <div class = "alert alert-warning">
-  <strong>Warning</strong>: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see <a href = "https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">this track</a>.
-</div>
+We don't recommend using <a href="https://help.vtex.com/en/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu">Substitute Words</a> when using Intelligent Search. To associate words with products, we recommend using <a href="https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV">Synonyms</a>, which allows you to manage terms per product in a more scalable way. For more information, contact our <a href="https://support.vtex.com/hc/pt-br/requests">Support team</a>.</div>
 
 ## How the search engine works 
 VTEX has an intelligent algorithm that, based on the term searched for, identifies the best result for the user, i.e., it always shoes the result that will generate more conversions into sales.
@@ -39,15 +38,13 @@ A resource frequently used by the internal teams to expedite searches is to inpu
 
 ### 1. Product integration 
 Integrating the products with the ProductInsertUpdate webservice permits to aggregate their Substitute Words and to associate them with the relevant products:
-<http://help.vtex.com/en/tutorial/manual-of-classes-and-methods-used-on-webservice>
+[](http://help.vtex.com/en/tutorial/manual-of-classes-and-methods-used-on-webservice)
 
 ### 2. Import by spreadsheet
-Input the Substitute Words directly through product spreadsheet, on a massive basis:
-<https://help.vtex.com/en/tutorial/registering-a-product#importing-products-through-worksheet>
+Input the Substitute Words directly through product spreadsheet, on a massive basis [](https://help.vtex.com/en/tutorial/registering-a-product#importing-products-through-worksheet)
 
 ### 3. To edit a product 
-Input the Substitute Words directly to each product individually in the field "Substitute Words":
-<https://help.vtex.com/en/tutorial/registering-a-product#registering-a-product-through-the-admin>
+Input the Substitute Words directly to each product individually in the field **Substitute Word** https://help.vtex.com/en/tutorial/registering-a-product#registering-a-product-through-the-admin
 
 ## Where do I get substitute words
 ### Google Trends

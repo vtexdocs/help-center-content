@@ -3,8 +3,8 @@ title: 'La API de creación de kits no calcula los precios de los componentes'
 id: 3yyIEv6o3CjIbUg4KoLOWT
 status: PUBLISHED
 createdAt: 2023-03-28T16:34:55.491Z
-updatedAt: 2023-03-28T16:34:55.990Z
-publishedAt: 2023-03-28T16:34:55.990Z
+updatedAt: 2024-04-02T18:36:44.624Z
+publishedAt: 2024-04-02T18:36:44.624Z
 firstPublishedAt: 2023-03-28T16:34:55.990Z
 contentType: knownIssue
 productTeam: Catalog
@@ -36,9 +36,7 @@ El Precio del kit debería ser: 10*2 + 25 === 45.
 
 Esto es lo que ocurre en el KIT UI SkuKit.aspx.
 
-Sin embargo, la API https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunitkit no tiene en cuenta los componentes múltiples en la suma, por lo que el precio sólo considera cada componente una vez en el cálculo (entonces, nuestro ejemplo anterior sería, incorrectamente, 10 + 25 = 35).
-
-
+Sin embargo, la API https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunitkit no realiza estas actualizaciones de precios para componentes distintos del primero que se añade.
 
 
 
@@ -47,7 +45,7 @@ Sin embargo, la API https://developers.vtex.com/docs/api-reference/catalog-api#p
 ## Simulación
 
 
-Crear un kit utilizando la siguiente API con un componente con una cantidad de 2 o más https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunitkit y luego comprobar su precio en la interfaz de usuario del módulo de precios.
+Cree un kit utilizando la siguiente API con un componente con una cantidad de 2 o más https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/stockkeepingunitkit y, a continuación, compruebe su precio en la interfaz de usuario del módulo de precios.
 
 
 
@@ -57,5 +55,5 @@ Crear un kit utilizando la siguiente API con un componente con una cantidad de 2
 ## Workaround
 
 
-Al crear un kit, vaya a la interfaz de usuario y guarde los componentes una vez más para ejecutar la lógica de cálculo de la suma ponderada mencionada.
+Introduzca el precio final del kit directamente a través de la API de precios.
 

@@ -3,8 +3,8 @@ title: 'Filtros'
 id: 50Dh4mpv0Sax0XpbvsjAtP
 status: PUBLISHED
 createdAt: 2020-03-05T17:44:58.362Z
-updatedAt: 2023-05-05T19:32:35.780Z
-publishedAt: 2023-05-05T19:32:35.780Z
+updatedAt: 2024-06-04T15:34:47.299Z
+publishedAt: 2024-06-04T15:34:47.299Z
 firstPublishedAt: 2020-03-05T19:54:44.962Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -37,13 +37,13 @@ La funcionalidad Filtros tiene las siguientes funciones:
 - Búsqueda que permite al cliente buscar un término dentro de un filtro.
 - Configurar y definir la cantidad máxima de opciones en un filtro antes de generar un desplazamiento.
 - Configurar en cuál *layout* se mostrará un filtro. Puede elegir entre los siguientes formatos:
- - Lista vertical (formato estándar).
- - Lista horizontal: se utiliza para mostrar filtros como «Tamaño» y «Color».
- - Barra deslizante: normalmente utilizada en los filtros numéricos, alterna del valor mínimo al valor máximo.
- - Conjunto con intervalos: división de productos en grupos de valores a partir de la cantidad de ítems.
- - Entrada de valores: permite al cliente introducir el valor «De» y «Hasta» que se utilizará para filtrar.
 
-Esta herramienta permite al cliente explorar las características relevantes de un producto durante la experiencia de búsqueda, así como proporcionar escenarios que facilitan la toma de decisiones del usuario.
+   - Lista vertical (formato estándar).
+   - Lista horizontal: se utiliza para mostrar filtros como «Tamaño» y «Color».
+   - Barra deslizante: utilizada para alternar del precio mínimo al precio máximo.
+   - Entrada de valores: permite al cliente indicar el precio “De” y “Hasta” que se utilizará en el filtro.
+
+Consulte la guía [Search Result](https://developers.vtex.com/docs/apps/vtex.search-result#:~:text=%7D-,filter%2Dnavigator.v3%20block,-This%20block%20renders) en el Developer Portal para obtener más detalles técnicos sobre el uso de filtros.
 
 <div class="alert alert-warning">
   <p>Aunque las tiendas regionalizadas solo muestran productos disponibles en una determinada región en la página de lista de productos, los filtros no tienen en cuenta la regionalización. Debido a esta limitación, es posible que los clientes de la tienda seleccionen filtros que resulten en productos que no están disponibles en su región.</p>

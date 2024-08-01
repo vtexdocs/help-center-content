@@ -1,10 +1,10 @@
 ---
 title: 'Acessar o ambiente beta pelo domínio myvtex.com'
 id: 3BHM289568gcSwk2O80Asu
-status: PUBLISHED
+status: CHANGED
 createdAt: 2018-07-26T18:09:29.968Z
-updatedAt: 2019-12-31T15:26:39.674Z
-publishedAt: 2019-12-31T15:26:39.674Z
+updatedAt: 2024-03-13T12:00:57.622Z
+publishedAt: 2024-03-12T19:18:51.136Z
 firstPublishedAt: 2018-07-26T18:43:10.906Z
 contentType: tutorial
 productTeam: Reliability
@@ -15,26 +15,32 @@ legacySlug: acessar-o-ambiente-beta-pelo-dominio-myvtex-com
 subcategory: Se4oi5LroIII2Ei0uGAoE
 ---
 
-Na VTEX, todas as lojas possuem um ambiente beta. 
+Na VTEX, todas as lojas possuem um ambiente beta. Neste local, o usuário da plataforma (lojista, desenvolvedor ou outra pessoa com acesso) pode realizar testes para validar novas configurações  ou versões de aplicações/serviços antes de promover as mudanças no ambiente em que os clientes realizam as compras, também conhecido como ambiente de produção (stable).
 
-Este ambiente é um local de testes para que o usuário da plataforma possa validar alterações numa loja antes de promover as mudanças para o ambiente principal.
+<div class = "alert alert-info">
+O ambiente beta é uma reprodução exata do ambiente de produção (stable), incluindo dados e configurações da loja.
+</div>
 
-## Como funciona o ambiente beta
-
-O ambiente beta funciona como um ambiente de testes para diferentes versões de aplicações/serviços da VTEX na sua loja. Ele é um ambiente que reproduz todas as informações do ambiente principal (`stable`). Assim, os dados da loja são os mesmos, tanto em beta quanto em stable. Dessa forma, __a alteração de dados no ambiente beta afeta os dados no ambiente stable__.
+Dessa forma, **a alteração de dados no ambiente beta afeta os dados no ambiente stable**.
 
 ## Acessar o ambiente beta
 
-O acesso ao ambiente beta se localiza no final do menu lateral do admin. Basta clicar em `Usar beta` para ter acesso ao ambiente de testes.
+Para acessar o ambiente beta em sua loja, é necessário habilitar o cookie `vtex-commerce-env` da seguinte forma:
 
-![usar-beta-pt-br](https://images.ctfassets.net/alneenqid6w5/6FhvL9s66QsKuYIwsy0Kkm/29dcc61ec07d4322c9ced983bd0c82e2/usar-beta-pt-br.png)
+<ol start="1">
+  <li>Dentro do Admin VTEX, acesse a tela Dev.Tools em seu navegador pressionando a tecla <code>F12</code> ou clicando com o botão direito, e escolhendo a opção <b>Inspecionar</b>.</li>
+  <li>Na barra superior da tela, acesse a aba <b>Aplicativo</b>, e na barra lateral esquerda em Cookies, clique na URL de sua loja.
+</li>
+  <li>Na tabela, insira as informações abaixo na células da última linha:</li>
+  <ul>
+<li>Nome: <code>vtex-commerce-env</code></li>
+<li>Valor: <code>beta</code>
+</li>
+</ul>
+<img src="https://images.ctfassets.net/alneenqid6w5/3g8wintA1heJbzdV8J0s45/8eb6f5917e2d9d8a134b81231dc42728/Ambiente_beta_.png" alt="beta">
+<li>Atualize a página pressionando a tecla <code>F5</code> ou o botão de atualizar do seu navegador. Após o carregamento da página, o Admin da loja já estará em ambiente Beta.</li>
+</ol>
 
-<div class="alert alert-info">
-Para retornar ao ambiente principal, clique em <code>Usar stable</code>, também localizado no final do menu lateral do admin.
+<div class = "alert alert-info">
+Para voltar à loja em seu ambiente principal, acesse novamente a tela Dev. Tools do seu navegador e remova o cookie <code>vtex-commerce-env</code> inserido. Atualize novamente a página para retornar ao ambiente de produção <b>stable</b>.
 </div>
-
-## Verificar mudanças no ambiente beta
- 
-Para acessar sua loja em modo beta e verificar como as mudanças feitas afetaram o front da sua loja, basta clicar no botão `VISITE A LOJA` depois de ter realizado o acesso ao ambiente beta descrito no passo acima.
-
-![visite-a-loja-beta-pt](https://images.ctfassets.net/alneenqid6w5/1ROmY3DdHSkSoeoMYwMkg2/7ca0f31551fa9b45a14b784ed84503eb/visite-a-loja-beta-pt.png) 

@@ -3,8 +3,8 @@ title: 'O CMS permite a criação mas não a edição de pastas com os mesmos no
 id: q2Fvxfwv5MjAcqxb81avH
 status: PUBLISHED
 createdAt: 2022-04-26T14:09:30.508Z
-updatedAt: 2022-11-25T22:10:43.268Z
-publishedAt: 2022-11-25T22:10:43.268Z
+updatedAt: 2024-02-16T20:26:06.081Z
+publishedAt: 2024-02-16T20:26:06.081Z
 firstPublishedAt: 2022-04-26T14:09:31.061Z
 contentType: knownIssue
 productTeam: Portal
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: o-cms-permite-a-criacao-mas-nao-a-edicao-de-pastas-com-os-mesmos-nomes-que-as-pastas-padrao
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 566791
 ---
 

@@ -3,8 +3,8 @@ title: 'Cómo funciona Suscripciones '
 id: frequentlyAskedQuestions_4453
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:00.886Z
-updatedAt: 2023-02-15T23:42:14.386Z
-publishedAt: 2023-02-15T23:42:14.386Z
+updatedAt: 2024-07-24T17:36:44.989Z
+publishedAt: 2024-07-24T17:36:44.989Z
 firstPublishedAt: 2019-01-24T22:14:56.290Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -17,13 +17,15 @@ subcategory: 1rA9wuuskW3PpjvMrhatAM
 
 El **Sistema de Suscripciones** es una aplicación desarrollada por VTEX para facilitar las ventas recurrentes, que sustiye el módulo de *Recurrencia*. Funciona como un programador automático: realiza una recompra en la frecuencia solicitada por el cliente de la tienda. 
 
-Su cliente indica con qué frecuencia desea repetir la compra de un determinado SKU y el sistema rehace el pedido de la compra automáticamente en cada periodo programado, con las mismas características configuradas en el pedido original. 
+Su cliente indica con qué frecuencia desea repetir la compra de un determinado SKU y el sistema rehace el pedido de la compra automáticamente en cada periodo programado, con las mismas características configuradas en el pedido original. La suscripción es una forma simple de ahorrarle tiempo a su cliente y traer un flujo programado de ventas adicional a su tienda. 
 
-Una suscripción para VTEX consiste en una lista de SKUs vinculada a cierta configuración de compra. Todas las operaciones de gestión giran en torno a la entidad «Suscripción», que contiene toda la información necesaria para generar el pedido correspondiente. El diagrama a continuación presenta el concepto de suscripción:
+Una suscripción para VTEX consiste en una lista de SKUs vinculada a cierta configuración de compra. Todas las operaciones de gestión giran en torno a la entidad «Suscripción», que contiene toda la información necesaria para generar el pedido correspondiente, tal como:
 
-![img8 subscriptions ES](https://images.ctfassets.net/alneenqid6w5/1tNo9gQza7gWuDXZPRxQRO/0d226ff2f1bbcf31e803c7b9d297e35a/img8_subscriptions_ES_2.png)
-
-La suscripción es una forma simple de ahorrarle tiempo a su cliente y traer un flujo programado de ventas adicional a su tienda. 
+- Perfil de usuario
+- Dirección
+- Forma de pago
+- Frecuencia
+- Fecha de inicio del pedido por subscripción
 
 ## Cómo el cliente de su tienda genera un pedido con Suscripciones 
 
@@ -42,6 +44,10 @@ El cliente de su tienda tiene acceso a la creación de suscripciones en la pági
 Para ello, solo hay que entrar a la página **Mi cuenta** en el sitio web de su tienda, acceder a la sección **Suscripciones** y hacer clic en el botón **Nueva suscripción**. Una vez que se registren los métodos de pago y la dirección de entrega, solo hay que hacer clic en el botón **Suscribirse** para activar la suscripción de los productos seleccionados.
 
 ## Cómo el cliente de su tienda visualiza las Suscripciones
+
+<div class = "alert alert-info">
+En <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi Cuenta</a>, los clientes solo pueden acceder a los pedidos de los últimos dos años.
+</div>
 
 Después de finalizar el pedido con Suscripción, su cliente visualiza en la página **Mi cuenta** la sección **Suscripciones**. En esta sección, el cliente también puede encontrar la lista de suscripciones realizadas con los detalles y el estado individual. Su cliente también recibirá por *email* una confirmación de la suscripción y del pedido generado.
 
@@ -104,3 +110,5 @@ Sí, el precio que paga el cliente por la suscripción se basa en el precio regi
 
 12. **¿A qué hora se crean pedidos de suscripción?**
 La creación de pedidos de suscripción se realiza entre 6:00 y 7:00 de la mañana, con referencia a la zona de Brasil (GMT-3).
+
+13. **¿La funcionalidad Suscripciones funciona con el Seller Portal?** No, Suscripciones no funciona con el [Seller Portal](https://help.vtex.com/es/tutorial/how-to-set-up-your-store-on-seller-portal).

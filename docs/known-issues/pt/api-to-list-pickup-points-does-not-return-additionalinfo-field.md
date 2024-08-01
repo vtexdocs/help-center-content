@@ -3,8 +3,8 @@ title: 'API para listar pontos de coleta não retorna campo de informações adi
 id: 5YY5srSA2ZRiOSZiMY9UF9
 status: PUBLISHED
 createdAt: 2022-09-02T12:09:09.980Z
-updatedAt: 2022-11-25T21:50:17.504Z
-publishedAt: 2022-11-25T21:50:17.504Z
+updatedAt: 2024-02-16T20:24:50.684Z
+publishedAt: 2024-02-16T20:24:50.684Z
 firstPublishedAt: 2022-09-02T12:09:10.777Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: api-para-listar-pontos-de-coleta-nao-retorna-campo-de-informacoes-adicionais
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 650714
 ---
 

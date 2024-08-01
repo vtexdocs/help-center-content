@@ -3,8 +3,8 @@ title: 'Minhas assinaturas Ao entrar na linha de endereço 2 isto aparece como n
 id: 1VbFyW5rQcfUSEJgKphrqb
 status: PUBLISHED
 createdAt: 2022-05-30T13:50:13.717Z
-updatedAt: 2022-11-25T22:02:34.424Z
-publishedAt: 2022-11-25T22:02:34.424Z
+updatedAt: 2024-02-16T20:28:33.052Z
+publishedAt: 2024-02-16T20:28:33.052Z
 firstPublishedAt: 2022-05-30T13:50:14.433Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: minhas-assinaturas-ao-entrar-na-linha-de-endereco-2-isto-aparece-como-nulo
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 588046
 ---
 

@@ -3,8 +3,8 @@ title: 'Como funciona a assinatura'
 id: frequentlyAskedQuestions_4453
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:00.886Z
-updatedAt: 2023-02-15T23:42:14.386Z
-publishedAt: 2023-02-15T23:42:14.386Z
+updatedAt: 2024-07-24T17:36:44.989Z
+publishedAt: 2024-07-24T17:36:44.989Z
 firstPublishedAt: 2019-01-24T22:14:56.290Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -17,13 +17,15 @@ subcategory: 1rA9wuuskW3PpjvMrhatAM
 
 O **Sistema de Assinaturas** é uma aplicação desenvolvida pela VTEX para facilitar as vendas recorrentes. Funciona como um agendador automático, realizando uma recompra na frequência solicitada pelo cliente da loja.
 
-Seu cliente indica a periodicidade que deseja repetir a compra de um determinado item, e o sistema refaz o pedido de compra. Essa compra é feita automaticamente, a cada período agendado, com as mesmas características configuradas no pedido original.
+Seu cliente indica a periodicidade que deseja repetir a compra de um determinado item, e o sistema refaz o pedido de compra. Essa compra é feita automaticamente, a cada período agendado, com as mesmas características configuradas no pedido original. A assinatura é uma forma simples de poupar o tempo de seu cliente, trazendo mais um fluxo programado de vendas para a sua loja. 
 
-A assinatura na VTEX consiste em uma lista de SKUs vinculada a uma certa configuração de compra. Todas as operações de gerenciamento giram em torno dessa entidade Assinatura, que contém toda a informação necessária para gerar um pedido recorrente. O diagrama abaixo demonstra o conceito de assinatura:
+A assinatura na VTEX consiste em uma lista de SKUs vinculada a uma certa configuração de compra. Todas as operações de gerenciamento giram em torno dessa entidade Assinatura, que contém toda a informação necessária para gerar um pedido recorrente, como:
 
-![img8 subscriptions PT](https://images.ctfassets.net/alneenqid6w5/1tNo9gQza7gWuDXZPRxQRO/474f3170b2f10977be30172465ffd630/img8_subscriptions_PT.png)
-
-A assinatura é uma forma simples de poupar o tempo de seu cliente, trazendo mais um fluxo programado de vendas para a sua loja. 
+- Perfil de usuário
+- Endereço
+- Forma de pagamento
+- Frequência
+- Data de início do pedido de assinatura
 
 ## Como o cliente da sua loja cria um pedido com assinatura
 
@@ -44,6 +46,10 @@ O cliente da sua loja tem acesso a uma tela de criação de assinaturas, na pág
 Para isso, basta entrar na página **Minha Conta** no site da sua loja, acessar a seção **Assinaturas** e clicar no botão **Nova assinatura**.  Uma vez cadastrados os meios de pagamento e um endereço de entrega, basta clicar no botão **Assinar** para ativar a assinatura dos produtos selecionados.  
 
 ## Como o cliente da sua loja visualiza suas Assinaturas
+
+<div class = "alert alert-info">
+Em <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Minha Conta</a>, os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
+</div>
 
 Após a finalização do pedido com Assinatura, o seu cliente visualiza na página **Minha Conta** a seção **Assinaturas**. Nessa seção, ele também pode encontrar a lista de assinaturas realizadas com os detalhes e estado individual. Seu cliente também receberá por e-mail uma confirmação da Assinatura e do pedido gerado.
 
@@ -107,3 +113,4 @@ Sim, o preço que o cliente paga na assinatura é baseado no preço cadastrado p
 12. **Qual o horário no qual os pedidos de assinatura são gerados?**
 A criação de pedidos de assinatura ocorre entre 6:00 e 7:00 da manhã, com referência ao fuso horário do Brasil (GMT-3).
 
+13. **A funcionalidade Assinaturas funciona com o Seller Portal?** Não, Assinaturas não funciona com o [Seller Portal](https://help.vtex.com/pt/tutorial/how-to-set-up-your-store-on-seller-portal).

@@ -3,8 +3,8 @@ title: 'Configurar a integração com o FBE no Admin VTEX'
 id: jUtgjBDumr5oGWIU7mVLC
 status: PUBLISHED
 createdAt: 2021-09-30T16:07:29.101Z
-updatedAt: 2021-10-05T21:36:44.675Z
-publishedAt: 2021-10-05T21:36:44.675Z
+updatedAt: 2024-04-17T14:57:04.600Z
+publishedAt: 2024-04-17T14:57:04.600Z
 firstPublishedAt: 2021-09-30T18:49:18.739Z
 contentType: trackArticle
 productTeam: Channels
@@ -40,7 +40,7 @@ Para que a integração funcione corretamente, o recomendável é conceder todas
 10. Clique em `Avançar`.
 11. Na janela aberta, aparecerá uma confirmação de que a integração foi realizada. Clique em `Concluir`.
 
-![gif_pt_v1](https://drive.google.com/uc?export=download&id=1QwtFUWSBxeq1MMSsBnVyzVcWnsS6oeee)
+![gif pt v1](//images.ctfassets.net/alneenqid6w5/1FptUh8HMlsK1FvVPBw89H/a677146be91000f363e02c81cd5e6e25/gif_pt_v1.gif)
 
 ## Envio de dados dos produtos para o Facebook Business Extension
 

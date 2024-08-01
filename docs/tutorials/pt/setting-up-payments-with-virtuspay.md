@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pagamento com VirtusPay'
 id: 2Agqwp19cwyIbxuHErVG8I
-status: CHANGED
+status: PUBLISHED
 createdAt: 2022-08-11T15:02:59.728Z
-updatedAt: 2023-03-27T12:42:29.231Z
-publishedAt: 2023-03-26T21:15:04.050Z
+updatedAt: 2024-01-23T21:50:25.883Z
+publishedAt: 2024-01-23T21:50:25.883Z
 firstPublishedAt: 2022-08-11T16:38:04.718Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pagamento-com-virtuspay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o gateway VirtusPay. Com este conector, sua loja pode realizar vendas parceladas e sem cartão por meio da VirtusPay.
+Na VTEX, é possível realizar a integração com o gateway VirtusPay. Com esta integração, sua loja pode realizar vendas parceladas e sem cartão por meio da VirtusPay.
 
-Para configurar a afiliação VirtusPay, siga os passos abaixo:
+Para configurar VirtusPay, siga os passos abaixo:
 
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão `+`.
-3. Clique no conector __VirtusPay__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __VirtusPay__ na barra de busca e clique sobre o nome do provedor.
 4. Preencha os campos __Application Key__ e __Application Token__ com as informações da sua conta VirtusPay.
 5. Clique em `Salvar`.
 

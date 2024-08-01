@@ -1,10 +1,10 @@
 ---
 title: 'Gestión de anuncios: detalles del anuncio'
 id: 4FF9QYAewqAn610mDHwb0P
-status: PUBLISHED
+status: DRAFT
 createdAt: 2021-03-17T01:07:12.412Z
-updatedAt: 2023-03-31T04:51:33.756Z
-publishedAt: 2023-03-31T04:51:33.756Z
+updatedAt: 2024-06-20T21:34:45.076Z
+publishedAt: 
 firstPublishedAt: 2021-03-17T01:13:19.773Z
 contentType: tutorial
 productTeam: Channels
@@ -14,6 +14,13 @@ locale: es
 legacySlug: detalles-del-anuncio
 subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---
+
+<div class="alert alert-info">
+Para evolucionar su experiencia al sincronizar y actualizar anuncios, el equipo de VTEX está desarrollando una nueva funcionalidad que sustituirá el módulo de <b>Gestión de anuncios</b>.
+Por este motivo, Gestión de anuncios no recibirá más actualizaciones ni mantenimiento.
+Para conectores y marketplaces que ya se integraron con el módulo, comuníquese con nuestro equipo de desarrollo por email <a href="taissa.araujo@vtex.com.br">taissa.araujo@vtex.com.br</a>.
+Para los conectores interesados en comenzar la integración, les pedimos que esperen el lanzamiento del nuevo módulo, tan pronto como esté disponible, notificaremos a todos los clientes a través del <a href="https://developers.vtex.com/updates/release-notes">Developer Portal</a> y el <a href="https://help.vtex.com/pt/en/announcements">VTEX Help Center</a>.
+ </div>  
 
 Un anuncio es un SKU cuyo precio y stock fueron configurados por un seller y que fue enviado a diferentes canales de venta. En el módulo [Gestión de anuncios](https://help.vtex.com/es/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE), los sellers supervisan el envío de sus anuncios a marketplaces y su sincronización.
 
@@ -36,7 +43,7 @@ La página **Detalles del anuncio** incluye las siguientes secciones:
 
 ## Encabezado
 
-![Offer details ES cabecalho](https://images.ctfassets.net/alneenqid6w5/6XRh7RmJr7rfGUfVHER580/7daa6c6a14fa3f1bdb959526d5f33157/Offer_details_ES_cabecalho.jpg)
+![Offer details ES cabecalho](//images.ctfassets.net/alneenqid6w5/6XRh7RmJr7rfGUfVHER580/7daa6c6a14fa3f1bdb959526d5f33157/Offer_details_ES_cabecalho.jpg)
 
 El encabezado presenta la información principal del anuncio para su rápida visualización, como imagen, nombre del canal, status, ID en VTEX e ID en el canal. También permite realizar las siguientes interacciones mediante el botón `Editar`:
 
@@ -52,13 +59,13 @@ En este bloque, se presenta información sobre los status posibles para un  dete
 
 ### Status: sincronizado
 
-![Offer details PT status sucesso](https://images.ctfassets.net/alneenqid6w5/6s1o33PAsB6H7X3Z0UJxaY/f9aae1830daa0fe200e2f7ec5b470d7e/Offer_details_ES_status_sucesso.jpg)
+![Offer details PT status sucesso](//images.ctfassets.net/alneenqid6w5/6s1o33PAsB6H7X3Z0UJxaY/f9aae1830daa0fe200e2f7ec5b470d7e/Offer_details_ES_status_sucesso.jpg)
 
 El status *Sincronizado* significa que el anuncio ha sido recibido con éxito en un canal y está siendo actualizado tanto por el marketplace como por el seller, en tiempo real.   
 
 ### Status: error
 
-![Offer details PT status erro](https://images.ctfassets.net/alneenqid6w5/5M2tBMrTbrBloZ1093Jdjw/cba423c498f0003a3990768c22a993a4/Offer_details_ES_status_erro.jpg)
+![Offer details PT status erro](//images.ctfassets.net/alneenqid6w5/5M2tBMrTbrBloZ1093Jdjw/cba423c498f0003a3990768c22a993a4/Offer_details_ES_status_erro.jpg)
 
 El status *Error* significa que el sistema ha encontrado un problema que impide el envío o la actualización de un anuncio en un canal, de modo que se requiere que el seller lo solucione. Los errores pueden originarse tanto del lado del seller VTEX, como descripciones de productos que exceden el límite de caracteres, como del lado del marketplace, como llamadas de API con errores.   
 
@@ -76,19 +83,19 @@ Si todavía hay errores por corregir, o si están todos corregidos pero se está
 
 ### Status: indisponible
 
-![Offer details PT status indisponivel](https://images.ctfassets.net/alneenqid6w5/5ASZDWJU36WcdTJPL4HyWh/3fcfa6c8636db3979e7e23b4af740da4/Offer_details_ES_status_indisponivel.jpg)
+![Offer details PT status indisponivel](//images.ctfassets.net/alneenqid6w5/5ASZDWJU36WcdTJPL4HyWh/3fcfa6c8636db3979e7e23b4af740da4/Offer_details_ES_status_indisponivel.jpg)
 
 El status *Indisponible* se produce cuando el anuncio es descartado, por estar inactivo o no estar incluido en la [política comercial](https://help.vtex.com/es/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) determinada para el canal.
 
 ### Status: enviando
 
-![Offer details PT status enviando](https://images.ctfassets.net/alneenqid6w5/4sIUmJ2FxZ02SlOCPNYEi6/1a7b65d75c2fe5ca1025663298f97970/Offer_details_ES_status_enviando.jpg)
+![Offer details PT status enviando](//images.ctfassets.net/alneenqid6w5/4sIUmJ2FxZ02SlOCPNYEi6/1a7b65d75c2fe5ca1025663298f97970/Offer_details_ES_status_enviando.jpg)
 
 El status *Enviando* es un estado intermedio, cuando los anuncios aún están en proceso de ser enviados al canal. Este status comprende anuncios que se envían al marketplace por primera vez, que están migrando a un nuevo canal o que han sido reenviados después de haber sido descartados en un canal.   
 
 ## Lista de interacciones
 
-![Offer details PT lista interacoes](https://images.ctfassets.net/alneenqid6w5/78sdw5zgXZJL8aM9wMKqVE/3b825866f07b646c065df4004c802ff3/Offer_details_ES_lista_interacoes.jpg)
+![Offer details PT lista interacoes](//images.ctfassets.net/alneenqid6w5/78sdw5zgXZJL8aM9wMKqVE/3b825866f07b646c065df4004c802ff3/Offer_details_ES_lista_interacoes.jpg)
 
 La pestaña *Interacciones* de la página **Detalles del anuncio** muestra todas las actualizaciones de `stock`, `precio` o `catálogo` que sufrió el SKU. Cada fila corresponde a una interacción producida en el anuncio, e incluye los siguientes datos:
 

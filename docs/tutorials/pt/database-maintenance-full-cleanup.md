@@ -3,8 +3,8 @@ title: 'Manutenção de Base (Full Cleanup)'
 id: 34P9LGs7BCIQK6acQom802
 status: PUBLISHED
 createdAt: 2018-02-07T14:32:22.879Z
-updatedAt: 2022-12-08T22:26:21.443Z
-publishedAt: 2022-12-08T22:26:21.443Z
+updatedAt: 2023-08-02T16:15:41.168Z
+publishedAt: 2023-08-02T16:15:41.168Z
 firstPublishedAt: 2018-02-07T16:44:48.971Z
 contentType: tutorial
 productTeam: Others
@@ -39,10 +39,6 @@ Estas são as operações disponíveis:
 - __Apagar Produtos/Skus e itens relacionados:__ ao apagar esses elementos, seus produtos e SKUs, além dos seus itens relacionados, serão removidos de forma definitiva da sua loja.
 
 - __Apagar Categorias, Marcas, Campos e Itens relacionados:__ ao apagar esses elementos, Categorias, Marcas e Campos, além dos seus itens relacionados, serão removidos de forma definitiva da sua loja. Para que a exclusão possa acontecer, é necessário apagar produtos e SKUs antes. 
-
-  <div class="alert alert-info">
-    <p>Para os casos em que for realizada a operação <b>Apagar Produtos/Skus e itens relacionados</b> ou <b>Apagar Categorias, Marcas, Campos e Itens relacionados</b> e a loja utilize o <a href="https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG">VTEX Intelligent Search</a>, entre em contato com nosso <a href="https://support.vtex.com/hc/pt-br/requests">Suporte</a> para realizar a manutenção total da base de dados.</p>
-  </div>
 
 - __Apagar Sellers e Itens relacionados:__ ao apagar esse elemento, seus sellers, além dos seus itens relacionados, serão removidos de forma definitiva da sua loja.
 

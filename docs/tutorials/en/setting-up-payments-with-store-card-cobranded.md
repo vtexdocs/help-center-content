@@ -3,8 +3,8 @@ title: 'Setting up payments with Store Card (cobranded)'
 id: jrkLK41IjuquUmyKUi86Q
 status: PUBLISHED
 createdAt: 2018-06-25T15:48:13.031Z
-updatedAt: 2023-03-22T19:19:30.029Z
-publishedAt: 2023-03-22T19:19:30.029Z
+updatedAt: 2023-09-22T21:25:38.666Z
+publishedAt: 2023-09-22T21:25:38.666Z
 firstPublishedAt: 2018-06-27T20:17:05.882Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -26,10 +26,18 @@ The first configuration step will be the creation of the custom payment __(cobra
 4. In __Name__, fill in the name of the card.
 5. In __Description__, write the text that will give more details about the payment condition.
 6. In the __Card Brand__ field, choose the banner to which your store card is linked. Currently, the possible options are: American Express, Cabal, Diners, Elo, Mastercard and Visa.
-7. In __BIN ranges__, enter the BIN codes of the cards so that they are validated by the system. You can insert a range of BINs (by inserting the first and last code of the sequence, separated by hyphen) or several (separating each one by comma and without spaces). If you prefer, you can use the co-branded card validator, filling in the values `100000-999999`.
-8. In the field __Acquirer Payment Code__, enter the code to be sent and processed by the acquirer you have contracted.
-9. In __Split Payments__, if you choose to use this option, when the sale involves marketplace stores, the amounts will be split between the sellers and the marketplace.
-10. Click __Save__.
+7. In __BIN ranges (optional)__, 
+you can enter a range of BINs (by entering the first and last code in the sequence, separated by a hyphen) or several (separating each range by a comma and without spaces).
+
+<div class="alert alert-warning">
+  When the customer enters a bin number outside the range specified in this field, the following message will be displayed "Check the digits printed on your card. We couldn't confirm if the card number is correct". If there is no error in the number entered, they can click on "YES, THE NUMBER IS CORRECT" to continue completing the order.
+</div>
+
+<blockquote><ui>8. In the field <b>Acquirer Payment Code (optional)</b>, enter the code to be sent and processed by the acquirer you have contracted.</ui>
+
+<blockquote><ui>9. In <b>Split Payments</b>, if you choose to use this option, when the sale involves marketplace stores, the amounts will be split between the sellers and the marketplace.</ui>
+
+<blockquote><ui>10. Click <b>Save</b>.</ui>
 
 ## Set up payment condition
 After configuring the card, you will need to configure the payment condition.

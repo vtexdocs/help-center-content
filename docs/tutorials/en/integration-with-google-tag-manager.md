@@ -3,8 +3,8 @@ title: 'Configuring Google Tag Manager'
 id: frequentlyAskedQuestions_616
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:56.745Z
-updatedAt: 2023-05-12T15:09:43.299Z
-publishedAt: 2023-05-12T15:09:43.299Z
+updatedAt: 2023-07-17T13:33:10.627Z
+publishedAt: 2023-07-17T13:33:10.627Z
 firstPublishedAt: 2019-01-24T22:13:48.493Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -16,7 +16,7 @@ subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---
 
 <div class="alert alert-warning">
-If your store is built with <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">VTEX IO</a>, you also need to install the Google Tag Manager pixel app to integrate all pages. See how to do this in the <a href="https://developers.vtex.com/vtex-developer-docs/docs/google-tag-manager">app documentation</a>.
+If your store is built with <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">Store Framework</a>, you also need to install the Google Tag Manager pixel app to integrate all pages. See how to do this in the <a href="https://developers.vtex.com/vtex-developer-docs/docs/google-tag-manager">app documentation</a>.
 </div>
 
 Google Tag Manager is a tag management system created by Google to manage JavaScript and HTML tags used for website tracking and analytics.
@@ -48,7 +48,7 @@ After this, you have to set up the store identification code from Tag Manager on
 4. In the __Google Tag Manager__ field, enter the store identification code in `GTM-XXXX` format, as shown in the image below.
 5. Click `Save`. 
 
-![Google Tag Manager](https://images.ctfassets.net/alneenqid6w5/2AVIJtSgxsTDl4mVRORj41/c16814591d79d4165f6c6c7954c0c48a/Google_Tag_Manager_-_EN.PNG)
+![Google Tag Manager](//images.ctfassets.net/alneenqid6w5/2AVIJtSgxsTDl4mVRORj41/c16814591d79d4165f6c6c7954c0c48a/Google_Tag_Manager_-_EN.PNG)
 
 To check available events (triggers) and variables on the pages, which will be used in the tags, you can use the Google Tag Manager preview mode. For more information, check the [Google Tag Manager documentation](https://support.google.com/tagmanager/answer/6107056?hl=pt-BR).
 
@@ -58,7 +58,7 @@ You can use the Facebook pixel app among your store's Google Tag Manager to trac
 
 ## VTEX IO: Installing the Google Tag Manager pixel app
 
-If your store uses [VTEX IO](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), in addition to the setup, you need to install a new version of the Google Tag Manager app. For more information, see [Installing Google Tag Manager](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-google-tag-manager).
+If your store uses [VTEX IO - Store Framework](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), in addition to the setup, you need to install a new version of the Google Tag Manager app. For more information, see [Installing Google Tag Manager](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-google-tag-manager).
 
 This step is not required for stores using the [Legacy CMS Portal](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
 

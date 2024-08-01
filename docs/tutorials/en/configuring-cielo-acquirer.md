@@ -1,10 +1,10 @@
 ---
 title: 'Configuring Cielo acquirer'
 id: 3avjZ7q65WcM02K8K0eeWu
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-05-02T19:02:05.427Z
-updatedAt: 2023-03-21T18:55:28.551Z
-publishedAt: 2023-03-21T18:55:28.551Z
+updatedAt: 2023-09-19T14:27:20.410Z
+publishedAt: 
 firstPublishedAt: 2018-05-02T19:49:35.201Z
 contentType: tutorial
 productTeam: Financial

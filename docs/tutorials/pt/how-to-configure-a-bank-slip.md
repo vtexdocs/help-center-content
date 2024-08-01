@@ -3,8 +3,8 @@ title: 'Configurar boleto bancário'
 id: tutorials_447
 status: PUBLISHED
 createdAt: 2017-04-27T22:04:55.249Z
-updatedAt: 2023-03-21T20:14:57.262Z
-publishedAt: 2023-03-21T20:14:57.262Z
+updatedAt: 2024-04-16T14:44:36.023Z
+publishedAt: 2024-04-16T14:44:36.023Z
 firstPublishedAt: 2017-04-27T23:03:25.766Z
 contentType: tutorial
 productTeam: Financial
@@ -15,43 +15,22 @@ legacySlug: como-configurar-boleto-bancario
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-O boleto bancário é um forma de pagamento em que é necessário ter uma conta bancária e contratar uma carteira de cobrança junto ao banco. 
+Na VTEX, é possível suas loja pode realizar vendar por meio do [Boleto Bancário](https://help.vtex.com/pt/tutorial/boleto-bancario-registrado-fluxo-basico-de-um-pagamento--1WlPkeueWQiykUwW8mcM4S). Para configurar o Boleto bancário, siga os passos abaixo:
 
-A partir daí, já é possível emitir boletos e receber diretamente em sua conta.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite na barra de busca o nome do provedor o qual irá processar o boleto bancário.
+4.  Preencha os campos do formulário de acordo com os dados informados pelo provedor/banco.
+5.  Clique em `Salvar`.
 
-Existem duas maneiras de configurar o boleto:
-- Diretamente na VTEX, sem um gateway de pagamento externo
-- Através de um gateway de pagamento, como PagSeguro.
+## Configurar condição de pagamento
 
-As duas formas de configuração estão descritas abaixo.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
+2. Na aba __Condições de Pagamentos__, clique no botão `+`.
+3. Em __Boleto__, selecione a opção __Boleto Bancário__.
+4. Ative a condição no campo __Status__.
+5. Em __Processar com o provedor__, selecione o provedor configurado anteriormente.
+6. Se desejar, você também pode [Configurar condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456).
+7. Clique em `Salvar`.
 
-## Como configurar sem gateway de pagamento externo
-
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Acesse a aba **Afiliações de Gateways**.
-3. Clique em **+**.
-4. Selecione uma das opções em **Boleto Bancário**.
-5. Preencha os campos do formulário de acordo com os dados informados pelo seu banco - para cada banco são necessárias informações diferentes. Por isso, sempre confirme com o banco quais são as informações obrigatórias.
-6. Clique em **Salvar**.
-
-## Como configurar com gateway de pagamento externo
-
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Acesse a aba **Afiliações de Gateways**.
-3. Clique em **+**.
-4. Selecione uma das opções em **Outros** (para a configuração por PagSeguro, selecione a opção PagSeguro sem redirect).
-5. Preencha os campos do formulário de acordo com os dados informados pelo seu gateway de pagamento - para cada gateway são necessárias informações diferentes. Por isso, sempre confirme com o gateway de pagamento quais são as informações obrigatórias.
-6. Clique em **Salvar**.
-
-Após as configurações de Afiliação de Gateway, tanto para gateway externo quanto para a configuração direta do boleto bancário, é preciso configurar  a condição de pagamento.
-
-## Como configurar a condição de pagamento
-
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Acesse a aba **Condições de Pagamento**.
-3. Clique no símbolo **+**.
-4. Em **Boleto**, selecione a opção **Boleto Bancário**.
-5. Preencha o nome, selecione a afiliação de gateway configurada acima e verifique se gostaria de usar a configuração por [condição especial](/pt/tutorial/condicoes-especiais/).
-6. Clique no botão **Salvar**.
-
-Após essa última configuração, a forma de pagamento já estará disponível no checkout da loja.
+Depois de seguir os passos indicados, o Boleto Bancário pode demorar até 10 minutos para aparecer no checkout da sua loja como opção de pagamento.

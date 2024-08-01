@@ -3,8 +3,8 @@ title: 'E-mails de Pagamento Pendente Replicado'
 id: 6ibJCSrep1aWEKi1DRTLDv
 status: PUBLISHED
 createdAt: 2022-05-18T18:30:57.906Z
-updatedAt: 2022-11-25T22:02:18.499Z
-publishedAt: 2022-11-25T22:02:18.499Z
+updatedAt: 2024-02-16T20:29:35.766Z
+publishedAt: 2024-02-16T20:29:35.766Z
 firstPublishedAt: 2022-05-18T18:30:58.383Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: emails-de-pagamento-pendente-replicado
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 348932
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: 'Enabling 3DS2 for Redsýs V2 integration'
 id: 1ixji2XORg9p0UoW8gBtUG
-status: PUBLISHED
+status: DRAFT
 createdAt: 2021-03-08T14:53:08.780Z
-updatedAt: 2023-03-23T15:42:17.139Z
-publishedAt: 2023-03-23T15:42:17.139Z
+updatedAt: 2024-03-18T19:54:47.084Z
+publishedAt: 
 firstPublishedAt: 2021-03-08T16:29:32.443Z
 contentType: tutorial
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: en
 legacySlug: enabling-3ds2-for-redsys-v2-integration
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+<div class="alert alert-danger">This payment integration can no longer be configured on the platform due to the <a href="https://help.vtex.com/en/announcements/legacy-payment-connectors-will-be-discontinued-in-2024--4R5YIjUu1IWkiOHzXtQU14">legacy provider removal process</a> and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.</div>
 
 The 3DS2 feature is now available for payments made with credit cards and processed by the [Redsýs](https://help.vtex.com/en/tutorial/configurar-gateway-redsys--7xRnMyzZS0kQoIG2ISagY8) payment gateway.
 
@@ -33,7 +35,7 @@ In this tutorial, you will learn how to add the 3DS2 authentication to the Reds�
 4. Scroll down the screen and select __Yes__ for the __3DS Enabled__ option.
 5. Click on __Save__.
 
-![RedsysV2 EN](https://images.ctfassets.net/alneenqid6w5/9Ee9cJHkCY2NQy6AAwsr5/d1671b87629fbc5d59dd8c0298f9a90f/Redsys_3DS2_-_EN.png)
+![RedsysV2 EN](//images.ctfassets.net/alneenqid6w5/9Ee9cJHkCY2NQy6AAwsr5/d1671b87629fbc5d59dd8c0298f9a90f/Redsys_3DS2_-_EN.png)
 
 It’s done! Now the solution is enabled for Redsýs’s transactions with credit cards.
 

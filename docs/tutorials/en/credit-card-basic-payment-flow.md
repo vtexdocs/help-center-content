@@ -17,7 +17,7 @@ subcategory: 2Xay1NOZKE2CSqKMwckOm8
 
 This article aims to explain how the basic flow of a __credit card__ payment works:
 
-![EN Credit Card Flow](https://images.ctfassets.net/alneenqid6w5/5uiKlzNdkvbaN0u8pYltiv/6fadc7c928fd8974e8398c410b6716c7/EN_Credit_Card_Flow.svg)
+![EN Credit Card Flow](//images.ctfassets.net/alneenqid6w5/5uiKlzNdkvbaN0u8pYltiv/6fadc7c928fd8974e8398c410b6716c7/EN_Credit_Card_Flow.svg)
 
 1. On the Checkout screen, the customer chooses the credit card __Payment Method__ to pay for their purchase.
 2. Payment information is passed to the __Payment Gateway__. The [gateway](/en/tutorial/what-is-a-payment-gateway) is the player responsible for ensuring that this payment is successful.

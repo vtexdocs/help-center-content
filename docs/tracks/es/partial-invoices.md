@@ -3,8 +3,8 @@ title: 'Facturas parciales'
 id: q9GPspTb9cHlMeAZfdEUe
 status: PUBLISHED
 createdAt: 2022-06-20T20:13:46.342Z
-updatedAt: 2023-03-31T22:36:12.880Z
-publishedAt: 2023-03-31T22:36:12.880Z
+updatedAt: 2024-04-01T17:51:08.329Z
+publishedAt: 2024-04-01T17:51:08.329Z
 firstPublishedAt: 2022-06-20T20:21:34.641Z
 contentType: trackArticle
 productTeam: Post-purchase
@@ -29,7 +29,8 @@ Las facturas parciales generan las siguientes acciones en el módulo **Pedidos**
 * Las facturas parciales emitidas en los pedidos también generan liquidaciones parciales en la transacción. El valor total del pedido se actualizará después de emitir la factura por el valor que se facturó a través del _gateway_ de pagos de VTEX.  
 * Si hay una diferencia en los valores, el consumidor recibe un reembolso de modo automático.  
 * Luego, si el _retailer_ identifica que se deben eliminar un ítem y su valor, se podrá modificar el pedido y descontar ese importe, ya que las facturas anteriores solo incluían los valores correspondientes y el saldo del valor facturado estaba pendiente.  
-* Como en la factura parcial solo se liquida el valor correspondiente a la factura, se pueden realizar cambios en los importes del pedido. Con la factura parcial, la transacción queda pendiente y a la espera de que el valor restante se facture o cancele, tal como sucede cuando hay un cambio en un pedido por un descuento en el valor.   
+* Como en la factura parcial solo se liquida el valor correspondiente a la factura, se pueden realizar cambios en los importes del pedido. Con la factura parcial, la transacción queda pendiente.
+* No es posible [cancelar](https://help.vtex.com/es/tutorial/como-cancelar-pedido--tutorials_186) pedidos parcialmente facturados. Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](https://help.vtex.com/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
 <div class = "alert alert-info">
 La funcionalidad de facturas parciales está disponible para toda la base de clientes VTEX, pero la liquidación parcial en el gateway se encuentra en la versión Beta. Además, para que las facturas parciales disparen liquidaciones parciales en la transacció, es necesario utilizar un conector que utilice el <a href="https://help.vtex.com/es/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m">Payment Provider Protocol</a>. Los conectores legados no admiten la funcionalidad.

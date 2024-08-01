@@ -35,7 +35,7 @@ Para registrar las especificaciones, su tienda necesita tener departamentos, cat
  7. Rellene los campos del formulario de especificaciones. En el caso de los SKUs, el flag de campo obligatorio siempre está seleccionado por default. Para entender mejor el significado de cada campo, acceda a nuestro artículo sobre [cómo rellenar los campos de especificaciones de SKU](https://help.vtex.com/es/tutorial/criando-campo-de-sku--tutorials_119)
  8.  Haga clic en **Guardar**
 
-![ES1](https://images.ctfassets.net/alneenqid6w5/4cSrsR60RiWrSSllCFgbsQ/2d8e6ffab449e23f59c3521e67764568/ES1.gif)
+![ES1](//images.ctfassets.net/alneenqid6w5/4cSrsR60RiWrSSllCFgbsQ/2d8e6ffab449e23f59c3521e67764568/ES1.gif)
 
 Para añadir valores a la especificación de SKU, siga los siguientes pasos:
 
@@ -49,7 +49,7 @@ Para añadir valores a la especificación de SKU, siga los siguientes pasos:
  9. Haga clic en **Nuevo valor**
  10. Escriba el **Nombre** del valor deseado y haga clic en **Guardar**
 
-![ES2](https://images.ctfassets.net/alneenqid6w5/7v4nItIFqlZZP6SVOhVlcf/2e81e722d6f6c69a3e551ddc5c221bec/ES2.gif)
+![ES2](//images.ctfassets.net/alneenqid6w5/7v4nItIFqlZZP6SVOhVlcf/2e81e722d6f6c69a3e551ddc5c221bec/ES2.gif)
 
 ### Vincular las especificaciones a un SKU
 
@@ -65,7 +65,7 @@ Para incluir las especificaciones en un **SKU** siga los siguientes pasos:
  6. Haga clic en la pestaña **Especificaciones** y seleccione el valor de la especificación para ese SKU
  7. Haga clic en **Guardar**
 
-![ES3](https://images.ctfassets.net/alneenqid6w5/2r7p71kBKd70qbLDu7EJBS/c10904a508a3a2e5baf02c2a22288c8a/ES3.gif)
+![ES3](//images.ctfassets.net/alneenqid6w5/2r7p71kBKd70qbLDu7EJBS/c10904a508a3a2e5baf02c2a22288c8a/ES3.gif)
 
 ## Plantilla
 
@@ -94,7 +94,7 @@ Después de rellenar los datos de la plantilla, siga el procedimiento para impor
 5. Haga clic en **Select** para seleccionar la plantilla rellenada
 6. Haga clic en **Importar**
 
-![ES4](https://images.ctfassets.net/alneenqid6w5/7gytIVRaKu9gmvZXlIyfe2/073d2f187de623baf5bb44a89615e5e1/ES4.gif)
+![ES4](//images.ctfassets.net/alneenqid6w5/7gytIVRaKu9gmvZXlIyfe2/073d2f187de623baf5bb44a89615e5e1/ES4.gif)
 
 ## API
 

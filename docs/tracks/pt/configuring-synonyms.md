@@ -3,8 +3,8 @@ title: 'Configurar Sinônimos'
 id: 3ExbC3QKNF4zH7Gs8jD1cL
 status: PUBLISHED
 createdAt: 2019-11-29T12:04:33.557Z
-updatedAt: 2023-03-30T19:19:37.658Z
-publishedAt: 2023-03-30T19:19:37.658Z
+updatedAt: 2024-01-30T22:46:15.605Z
+publishedAt: 2024-01-30T22:46:15.605Z
 firstPublishedAt: 2020-03-05T19:56:02.826Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -13,6 +13,8 @@ locale: pt
 trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugPT: vtex-intelligent-search
 ---
+
+<div class = "alert alert-info"> Para relacionar palavras ao produto, é recomendada a utilização da configuração de <a href="https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV?&utm_source=autocomplete">Sinônimos</a> ao invés das <a href="https://help.vtex.com/pt/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu?&utm_source=autocomplete">Palavras Substitutas</a>, uma vez que os sinônimos possibilitam uma gestão mais escalável de termos por produto. Para mais informações, entre em contato com nosso <a href="https://support.vtex.com/hc/pt-br/requests">Suporte</a>.</div>
 
 Existem duas formas de configurar sinônimos no Admin VTEX: [individualmente](#criar-sinonimos-individualmente) ou por [importação de uma planilha em formato CSV](#importar-csv). Se você precisa cadastrar sinônimos em massa, recomendamos utilizar a planilha. Confira as instruções para cada forma de configuração nas seções a seguir.
 
@@ -32,6 +34,7 @@ Siga o passo a passo para configurar sinônimos individualmente no Admin VTEX:
 4. Preencha os campos referentes ao sinônimo:
    - __Tipo:__ define o tipo de sinônimo. Confira [Tipos de sinônimos](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#tipos-de-sinonimos) para mais informações.
    - __Termos:__ palavras ou expressões a serem definidas como sinônimos. É necessário teclar `Enter` após cada termo para inserir um outro termo.
+   - **Idiomas:** idiomas aos quais o sinônimo será aplicado. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma (Beta)](https://help.vtex.com/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
    - __Status:__ define se o sinônimo estará ativo ou inativo.
 5. Para finalizar, clique em `Salvar`.
 
@@ -43,9 +46,22 @@ A alteração pode demorar até duas horas para ser aplicada.
 
 ## Importar CSV
 
-Caso existam muitos sinônimos a serem cadastrados, você pode fazer um arquivo .csv e depois importá-lo no Admin VTEX. O arquivo deve conter o seguinte formato, de acordo com os [tipos de sinônimos](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#tipos-de-sinonimos) escolhidos:
+Caso existam muitos sinônimos a serem cadastrados, você pode fazer um arquivo .csv e depois importá-lo no Admin VTEX. 
 
- - **Unidirecional**: `{termos separados por vírgula};{termos expandidos separados por vírgula};{status}`
+Para importar sinônimos por planilha, siga os passos abaixo:
+
+1. Crie um arquivo CSV no formato indicado em [Template da planilha de sinônimos](#template-da-planilha-de-sinonimos).
+2. No Admin VTEX, acesse __Storefront__, ou digite __Storefront__ na barra de busca no topo da página.
+3. Em **Intelligent Search**, clique em **Sinônimos**.
+4. Clique em <i class="fas fa-download"></i> `Importar`.
+5. Arraste o arquivo CSV para a área delimitada ou clique em `escolha um arquivo` para selecionar o arquivo no seu dispositivo.
+6. Clique em `Importar`.
+
+### Template da planilha de sinônimos
+
+O arquivo deve conter o seguinte formato, de acordo com os [tipos de sinônimos](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV#tipos-de-sinonimos) escolhidos:
+
+ - **Unidirecional**: `{termos separados por vírgula};{termo equivalente};{status}`
 
    __Exemplos:__
 
@@ -56,11 +72,23 @@ Caso existam muitos sinônimos a serem cadastrados, você pode fazer um arquivo 
 
    __Exemplos:__
 
-    - `tv,televisão,televisor;true`: ao pesquisar por qualquer um dos ternos, qual produto que contenha um deles será exibido.
-    - `monitor,tela,display;true`: ao pesquisar por qualquer um dos ternos, qualquer produto que contenha um deles será exibido.
+    - `tv,televisão,televisor;true`: ao pesquisar por qualquer um dos termos, qualquer produto que contenha um deles será exibido.
+    - `monitor,tela,display;true`: ao pesquisar por qualquer um dos termos, qualquer produto que contenha um deles será exibido.
 
-Para importar a planilha, siga os passos abaixo:
+#### Lojas Multi-idioma (Beta)
 
-1. No Admin VTEX, acesse __Storefront__, ou digite __Storefront__ na barra de busca no topo da página.
-2. Em **Intelligent Search**, clique em **Sinônimos**.
-3. Clique em `Importar`.
+Lojas que utilizam [Configurações Multi-idioma (Beta)](https://help.vtex.com/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO) devem seguir o template abaixo para fazer a importação de Sinônimos para idiomas específicos.
+
+- __Unidirecional__: `{termos separados por vírgula};{termo equivalente};{status};{locales separados por vírgula}`
+
+   __Exemplo:__
+   - `smartphone;iphone;true;en-GB`: ao pesquisar por `smartphone` na loja no idioma inglês (`locale = en-GB`), os resultados para `iphone` irão aparecer. Contudo, ao pesquisar por `iphone`, os resultados para `smartphone` não irão aparecer.
+
+- __Bidirecional__: `{termos separados por vírgula};{status};{locales separados por vírgula}`
+
+     __Exemplo:__
+     - `tv,smart tv;true;en-GB`: ao pesquisar por qualquer um dos termos na loja no idioma inglês (`locale = en-GB`), qualquer produto que contenha um desses termos irá aparecer nos resultados da busca.
+
+<div class="alert alert-warning">
+<p> Se o arquivo CSV importado não apresentar o <code>locale</code>, o sinônimo será válido para todos os idiomas disponíveis na loja.</p>
+</div>

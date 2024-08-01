@@ -3,8 +3,8 @@ title: 'Products not being correctly matched when the productName contains numbe
 id: 7Kr0VtRScH54j04Rh2uuOj
 status: PUBLISHED
 createdAt: 2023-03-01T18:55:20.183Z
-updatedAt: 2023-03-01T18:55:20.910Z
-publishedAt: 2023-03-01T18:55:20.910Z
+updatedAt: 2023-10-19T12:08:30.076Z
+publishedAt: 2023-10-19T12:08:30.076Z
 firstPublishedAt: 2023-03-01T18:55:20.910Z
 contentType: knownIssue
 productTeam: Marketplace
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: products-not-being-correctly-matched-when-the-productname-contains-numbers
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 762525
 ---
 

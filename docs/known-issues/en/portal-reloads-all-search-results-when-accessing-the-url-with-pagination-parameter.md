@@ -3,8 +3,8 @@ title: 'Portal reloads all search results when accessing the URL with pagination
 id: 18Y8yYKByGTzMxyYhk1pdl
 status: PUBLISHED
 createdAt: 2022-01-23T02:35:50.182Z
-updatedAt: 2022-11-25T22:11:17.525Z
-publishedAt: 2022-11-25T22:11:17.525Z
+updatedAt: 2024-02-16T20:29:31.154Z
+publishedAt: 2024-02-16T20:29:31.154Z
 firstPublishedAt: 2022-03-16T16:22:55.043Z
 contentType: knownIssue
 productTeam: Portal
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: portal-reloads-all-search-results-when-accessing-the-url-with-pagination-parameter
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 342378
 ---
 

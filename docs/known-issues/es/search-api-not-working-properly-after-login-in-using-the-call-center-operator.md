@@ -3,8 +3,8 @@ title: 'La API de búsqueda no funciona correctamente después de iniciar sesió
 id: 3YxbokaDhYnthzy1dc5VHs
 status: PUBLISHED
 createdAt: 2022-01-21T18:24:15.316Z
-updatedAt: 2022-11-25T22:11:01.363Z
-publishedAt: 2022-11-25T22:11:01.363Z
+updatedAt: 2024-02-16T20:29:54.425Z
+publishedAt: 2024-02-16T20:29:54.425Z
 firstPublishedAt: 2022-03-16T16:50:03.972Z
 contentType: knownIssue
 productTeam: Portal
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: la-api-de-busqueda-no-funciona-correctamente-despues-de-iniciar-sesion-con-el-operador-del-centro-de-llamadas
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 304586
 ---
 

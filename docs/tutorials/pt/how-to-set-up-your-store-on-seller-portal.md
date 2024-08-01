@@ -3,8 +3,8 @@ title: 'Seller Portal: Primeiros Passos do seller'
 id: 6w1vBdRH2uuBGmUqgNQjwK
 status: PUBLISHED
 createdAt: 2021-01-26T15:08:22.524Z
-updatedAt: 2023-03-02T21:29:12.945Z
-publishedAt: 2023-03-02T21:29:12.945Z
+updatedAt: 2024-05-30T22:41:41.434Z
+publishedAt: 2024-05-30T22:41:41.434Z
 firstPublishedAt: 2021-09-15T20:50:27.452Z
 contentType: tutorial
 productTeam: Channels
@@ -37,13 +37,14 @@ Por meio do Seller Portal, sellers conseguem:
 
 Saiba alguns detalhes sobre o Seller Portal:   
 
-- Somente marketplaces poderão criar e gerenciar promoções sobre produtos.  
 - A arquitetura do catálogo pode ser compartilhada entre marketplace e seller através do compartilhamento de produtos. O seller, no entanto, pode criar seus próprios produtos, definindo categorias, marcas e especificações.
 - Quando o seller escolhe compartilhar o catálogo com o marketplace, os produtos compartilhados têm as mesmas categorias, marcas e especificações definidos pelo marketplace. No entanto, somente as categorias são importadas para o ambiente do seller de forma completa. As marcas são importadas somente quando um produto é importado e as especificações não são importadas.
 - Se o marketplace processar pagamentos, o comissionamento e repasse do faturamento do seller deverá ser feito por fora da VTEX.  
 - O suporte à experiência do seller será fornecido pelo próprio marketplace.  
 
 ## Configurar sua loja
+
+<div class="alert alert-warning"> O limite para cada conta do Seller Portal é de 100 mil produtos. Para mais informações, entre em contato com nosso <a href="https://support.vtex.com/hc/pt-br/requests">Suporte.</div>
 
 Para começar a vender seus produtos no marketplace, é preciso configurar a sua loja no Seller Portal. Este artigo explica o fluxo completo dessa configuração inicial e indica outras documentações para que você acesse cada passo em mais detalhes. A configuração básica do Seller Portal inclui os passos listados abaixo.
 
@@ -136,7 +137,16 @@ Para saber mais, confira os artigos abaixo:
 
 - [Como funcionam Pedidos na VTEX](https://help.vtex.com/pt/tracks/orders--2xkTisx4SXOWXQel8Jg8sa)
 
-### 8. Acompanhar Gestão de anúncios
+### 8. Criar e gerenciar promoções
+
+A página **Promoções** no Seller Portal permite que sellers e marketplaaces, criem promoções e gerenciem a lista completa de promoções cadastradas, simplificando a gestão de promoções.
+
+Para saber mais, confira os seguintes artigos:
+
+ - [Seller Portal: Promoções](https://help.vtex.com/pt/tutorial/seller-portal-promocoes--73LL7Ja0P4JbD77AH0jHwu)  
+  - [Seller Portal: Criar uma promoção](https://help.vtex.com/pt/tutorial/seller-portal-criar-uma-promocao--kzNPEaiJE8EWkDzO9dbBI)  
+
+### 9. Acompanhar Gestão de anúncios
 
 O módulo _Gestão de anúncios_ permite que sellers supervisionem o envio e a sincronização de anúncios em todos os canais integrados à loja. A página retrata, em tempo real, o status dos anúncios e suas atualizações a partir dos dados vindos do marketplace e de outros módulos VTEX. É onde sellers podem acompanhar todas as interações do tipo Catálogo, Preço ou Estoque, ocorridas com seus anúncios, para identificar erros durante seu envio e sincronização. 
 
@@ -146,7 +156,7 @@ Para saber mais, confira os seguintes artigos:
 - [Gestão de anúncios: detalhes do anúncio](https://help.vtex.com/pt/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P)  
 - [Gestão de anúncios: detalhes da interação](https://help.vtex.com/pt/tutorial/detalhes-da-interacao--5qC6XPkyUsYPd0dqKHQNlf)
 
-### 9. Dashboard Performance de Vendas
+### 10. Dashboard Performance de Vendas
 
 O menu _Dashboards_ é o painel de controle dos dados do seu comércio unificado. As análises trazidas aqui informam decisões e ajudam a priorizar tarefas de diferentes profissionais, desde a operação, até o comercial e marketing. Os dashboards incluem dados atualizados de todos os canais de venda em que sua loja opera com a VTEX, incluindo as principais métricas que impactam a receita da sua loja.
 

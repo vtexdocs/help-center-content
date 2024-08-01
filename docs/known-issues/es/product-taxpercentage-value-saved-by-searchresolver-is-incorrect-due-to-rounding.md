@@ -3,8 +3,8 @@ title: 'El valor del TaxPercentage del producto guardado por el search-resolver 
 id: 5zalMbGTuKaxpepVEdW3Dt
 status: PUBLISHED
 createdAt: 2022-03-21T17:38:14.386Z
-updatedAt: 2022-11-25T22:12:35.742Z
-publishedAt: 2022-11-25T22:12:35.742Z
+updatedAt: 2024-02-16T20:27:03.136Z
+publishedAt: 2024-02-16T20:27:03.136Z
 firstPublishedAt: 2022-03-21T17:38:14.760Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: el-valor-del-taxpercentage-del-producto-guardado-por-el-searchresolver-es-incorrecto-debido-al-redondeo
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 470143
 ---
 

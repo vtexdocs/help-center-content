@@ -3,8 +3,8 @@ title: 'Checkout does not correctly calculate shipping value for single item tha
 id: 4jX7JT0Wxt9S4xBe9FSwO
 status: PUBLISHED
 createdAt: 2022-02-21T19:48:04.202Z
-updatedAt: 2022-11-25T21:53:42.846Z
-publishedAt: 2022-11-25T21:53:42.846Z
+updatedAt: 2024-02-16T20:26:29.918Z
+publishedAt: 2024-02-16T20:26:29.918Z
 firstPublishedAt: 2022-02-21T19:48:04.748Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: checkout-does-not-correctly-calculate-shipping-value-for-single-item-that-has-free-shipping-and-scheduled-delivery
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 529043
 ---
 

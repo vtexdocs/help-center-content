@@ -1,10 +1,10 @@
 ---
-title: 'ew UI não sugere o item correto a ser devolvido quando o pedido tem uma mudança'
+title: 'New UI não sugere o item correto a ser devolvido quando o pedido tem uma mudança'
 id: 7hjZaUZ1GNiGjMnSKe0pZu
 status: PUBLISHED
 createdAt: 2023-01-18T17:05:53.889Z
-updatedAt: 2023-01-18T17:05:54.590Z
-publishedAt: 2023-01-18T17:05:54.590Z
+updatedAt: 2024-05-28T18:33:17.977Z
+publishedAt: 2024-05-28T18:33:17.977Z
 firstPublishedAt: 2023-01-18T17:05:54.590Z
 contentType: knownIssue
 productTeam: Order Management

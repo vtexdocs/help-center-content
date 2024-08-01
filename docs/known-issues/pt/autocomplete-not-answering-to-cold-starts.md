@@ -1,18 +1,18 @@
 ---
-title: 'Autocompletar não respondendo a partidas frias'
+title: 'O preenchimento automático não responde a partidas a frio'
 id: 2lgYjT8lmFIvLV3vKOXKmt
 status: PUBLISHED
 createdAt: 2022-02-23T22:01:05.141Z
-updatedAt: 2022-11-25T21:58:01.186Z
-publishedAt: 2022-11-25T21:58:01.186Z
+updatedAt: 2024-03-14T18:48:50.406Z
+publishedAt: 2024-03-14T18:48:50.406Z
 firstPublishedAt: 2022-02-23T22:01:05.666Z
 contentType: knownIssue
 productTeam: Intelligent Search
 author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
-slug: autocompletar-nao-respondendo-a-partidas-frias
+slug: o-preenchimento-automatico-nao-responde-a-partidas-a-frio
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 418573
 ---
 
@@ -23,9 +23,7 @@ internalReference: 418573
 </div>
 
 
-O recurso de busca inteligente conhecido como **autocompleto** não está funcionando para algumas lojas novas, mesmo depois de executar um processo interno chamado _início frio_.
-
-
+O recurso de pesquisa inteligente conhecido como **autocompletar** não está funcionando em algumas lojas novas, mesmo após a execução de um processo interno chamado _cold start_.
 
 
 ## Simulação
@@ -33,10 +31,11 @@ O recurso de busca inteligente conhecido como **autocompleto** não está funcio
 
 N/A.
 
-
-
 ## Workaround
 
 
-Atualmente não há solução para este problema conhecido, mas o auto-completar por si só está funcionando corretamente e continuará aprendendo com base na experiência do usuário, o que significa que um tempo depois de viver, ele funcionará bem para novas contas.
+No momento, não há solução alternativa para esse problema conhecido, mas o autocompletar em si está funcionando corretamente e continuará aprendendo com base na experiência do usuário, o que significa que, um pouco depois de entrar em operação, ele funcionará muito bem para novas contas.
+
+
+
 

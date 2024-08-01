@@ -3,8 +3,8 @@ title: 'Importing images from a spreadsheet'
 id: tutorials_262
 status: PUBLISHED
 createdAt: 2017-04-27T22:11:24.581Z
-updatedAt: 2023-03-29T17:46:11.384Z
-publishedAt: 2023-03-29T17:46:11.384Z
+updatedAt: 2024-03-04T22:25:58.399Z
+publishedAt: 2024-03-04T22:25:58.399Z
 firstPublishedAt: 2017-04-27T23:03:11.506Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -57,11 +57,11 @@ Below, you'll find information on how to fill in each field in the image import 
 <p>This is a mandatory field. No special characters, periods or accents are admitted on the image name.</p>
 </div>
 
-It is the URL of the image to be linked to the SKU, which must be public and hosted on an FTP server where the image link originates. The URL must start with the HTTPS protocol identifier (`https://`) and end with the file extension (`.jpg`, `.png` or `.gif`). Example: `https://www.exemploimagem.com.br/imagem03/teste01/exemplo15.jpg`.
+It is the URL of the image to be linked to the SKU, which must be public and hosted on an FTP server where the image link originates. The URL must start with the HTTP protocol identifier (`http://`) and end with the file extension (`.jpg`, `.png` or `.gif`). Example: `http://www.imageexample.com.br/imagem03/teste01/exemplo15.jpg`.
 
-To avoid any possible mistakes, you should verify the image URL you entered in the template: it should go from `https://` to the file extension. Otherwise, the system will not be able to access the URL and the image will not be imported.
+To avoid any possible mistakes, you should verify the image URL you entered in the template: it should go from `http://` to the file extension. Otherwise, the system will not be able to access the URL and the image will not be imported.
 
-You don't need to have your own FTP server to forward the image URLs. You may host that data on free websites and external or internal FTP servers, if they use the HTTPS protocol.
+You don't need to have your own FTP server to forward the image URLs. You may host that data on free websites and external or internal FTP servers, if they use the HTTP protocol.
 
 In addition, you can use an external provider to authenticate the URL.
 

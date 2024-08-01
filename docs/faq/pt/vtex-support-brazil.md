@@ -3,8 +3,8 @@ title: 'Suporte VTEX - Brasil'
 id: 5q861sTw1n7H2BENOu7ls9
 status: PUBLISHED
 createdAt: 2021-03-02T00:59:46.352Z
-updatedAt: 2022-12-23T15:47:00.476Z
-publishedAt: 2022-12-23T15:47:00.476Z
+updatedAt: 2024-05-23T16:25:31.311Z
+publishedAt: 2024-05-23T16:25:31.311Z
 firstPublishedAt: 2021-03-02T01:09:50.358Z
 contentType: frequentlyAskedQuestion
 productTeam: Others
@@ -15,6 +15,8 @@ legacySlug: suporte-vtex-brasil
 ---
 
 Este artigo apresenta a disponibilidade, SLA e recursos de suporte adicionais disponíveis para clientes atendidos por nossos escritórios no **Brasil**. Para uma perspectiva mais ampla de nossos recursos de suporte global, consulte: [Como funciona o suporte VTEX?](https://help.vtex.com/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe)
+
+<div class="alert alert-info">Se a equipe de Suporte identificar que um chamado foi aberto incorretamente, será recomendado o recurso mais apropriado a ser utilizado, e essa avaliação poderá ser feita em qualquer momento durante o processo de resolução.</div>
 
 ## Disponibilidade e SLA de atendimento
 

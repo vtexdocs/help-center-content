@@ -3,8 +3,8 @@ title: 'Relatório de pedidos'
 id: 31m1ewsmsEe0WS4So2aGMY
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:42.311Z
-updatedAt: 2023-05-31T15:43:26.524Z
-publishedAt: 2023-05-31T15:43:26.524Z
+updatedAt: 2024-03-01T01:28:57.258Z
+publishedAt: 2024-03-01T01:28:57.258Z
 firstPublishedAt: 2019-01-24T22:03:18.967Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -92,7 +92,7 @@ As colunas correspondem a uma informação específica sobre o pedido, conforme 
 *   **Authorization ID**: ID da autorização.
 *   **TID**: [Transaction ID](https://app.contentful.com/pt/faq/como-achar-nsu-e-tid-do-pedido) do pedido.
 *   **NSU**: [Número sequencial único](https://app.contentful.com/pt/faq/como-achar-nsu-e-tid-do-pedido) do pedido.
-*    **Card First Digits**: seis primeiros dígitos do cartão usado na compra.
+*   **Card First Digits**: seis primeiros dígitos do cartão usado na compra.
 *   **Card Last Digits**: quatro últimos dígitos do cartão usado na compra.
 *   **Payment Approved By**: email da pessoa que aprovou o pagamento (aplicado quando a aprovação é feita manualmente).
 *   **Canceled By**: email do usuário que realizou o cancelamento do pedido.
@@ -114,7 +114,7 @@ As colunas correspondem a uma informação específica sobre o pedido, conforme 
 *   **Taxes**: resultado da soma entre Tax e CustomTax, as taxas atribuídas ao SKU. Se ambos os valores não existirem, a coluna estará vazia.
 *   **Invoice Numbers**: número da nota fiscal do pedido.
 *   **Country**: país em que o pedido foi realizado.
-*   **Input Invoices Numbers**: números de nota fiscal do tipo Input, ou seja, referente a uma devolução.
-*   **Output Invoices Numbers**: números de nota fiscal do tipo Output, ou seja, referente a uma compra.
+*   **Input Invoices Numbers**: números de nota fiscal do tipo Output, ou seja, referente a uma compra.
+*   **Output Invoices Numbers**: números de nota fiscal do tipo Input, ou seja, referente a uma devolução.
 *   **Status raw value (temporary)**: o valor do status de um pedido sem nenhum tratamento específico, ou seja, o estado de um pedido como uma string não tratada. Por exemplo: o status de um pedido pode aparecer na interface como `Manuseando` e nesse campo estaria `handling`.
 *   **Cancellation Data**: motivo indicado pelo cliente final para o cancelamento do pedido, conforme apresentado no campo `Reason` do objeto `cancellationData` apresentado na [API de Orders](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/cancel). Caso o usuário não preencha esse campo no momento do cancelamento, essa coluna estará vazia no relatório.

@@ -3,8 +3,8 @@ title: 'UI does not update best SLA choice in cart'
 id: 5H05jLUJA0gmSDTO6nMsPE
 status: PUBLISHED
 createdAt: 2022-03-26T02:30:36.692Z
-updatedAt: 2022-11-25T21:54:03.143Z
-publishedAt: 2022-11-25T21:54:03.143Z
+updatedAt: 2024-02-16T20:26:13.531Z
+publishedAt: 2024-02-16T20:26:13.531Z
 firstPublishedAt: 2022-03-26T02:30:37.014Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: ui-does-not-update-best-sla-choice-in-cart
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 550201
 ---
 

@@ -3,8 +3,8 @@ title: 'Los precios de los servicios no se actualizan cuando se añaden a los ar
 id: 5hJ7TbHzX4zFbdNWqPnMRQ
 status: PUBLISHED
 createdAt: 2023-05-09T14:27:37.283Z
-updatedAt: 2023-05-09T14:27:37.766Z
-publishedAt: 2023-05-09T14:27:37.766Z
+updatedAt: 2023-06-23T18:37:32.624Z
+publishedAt: 2023-06-23T18:37:32.624Z
 firstPublishedAt: 2023-05-09T14:27:37.766Z
 contentType: knownIssue
 productTeam: Checkout
@@ -34,7 +34,7 @@ Los precios de los servicios no se actualizan si se añadió a un artículo ante
 
 - Crear un servicio;
 - Añadir un artículo con servicio al carrito;
-- Cambiar el precio del servicio;
+- Modificar el precio del servicio;
 - Comprobar el carro previamente montado; el servicio no se actualiza.
 
 

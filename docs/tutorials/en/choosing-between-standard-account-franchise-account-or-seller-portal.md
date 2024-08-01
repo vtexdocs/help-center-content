@@ -3,8 +3,8 @@ title: 'Choosing between standard account, franchise account or Seller Portal'
 id: 4S90HzzhMyZESsHqrnUs78
 status: PUBLISHED
 createdAt: 2022-04-20T14:15:50.164Z
-updatedAt: 2022-06-22T21:39:18.954Z
-publishedAt: 2022-06-22T21:39:18.954Z
+updatedAt: 2023-11-22T14:09:05.122Z
+publishedAt: 2023-11-22T14:09:05.122Z
 firstPublishedAt: 2022-04-27T21:42:35.010Z
 contentType: tutorial
 productTeam: Channels
@@ -22,6 +22,8 @@ There are three types of accounts on the VTEX platform and each one allows you t
 - **Standard account:** It has all the VTEX platform module configurations and acts as a standard seller, known as [VTEX seller](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#being-a-vtex-seller).
 - **Franchise account:** It is associated with a standard account, inheriting its catalog. [Franchise accounts](https://help.vtex.com/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) can configure their own logistics, payment and prices, and use the VTEX platform modules partially. This type of seller is called a [white label seller](https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa).
 - **Seller Portal:** The [Seller Portal](https://help.vtex.com/en/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) is a feature of the VTEX platform that allows sellers to connect and sell their products on marketplaces of the VTEX ecosystem, regardless of whether the seller already has a VTEX account. The Seller Portal allows partial access to the platform modules, and the seller type can be standard or [white label seller](https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa).
+
+<div class="alert alert-warning"> The limit for each Seller Portal account is 100 thousand products. For more information, please contact our <a href="https://support.vtex.com/hc/pt-br/requests">Support.</div>
 
 The table below presents the main use cases for each account type:
 
@@ -61,7 +63,7 @@ See below for comparisons explaining how the Seller Portal, standard accounts an
 | **Aspect** | **Seller Portal** | **Standard account** | **Franchise account** |
 |---------- | ---------- | ---------- | ---------- |
 | Inheriting prices from  another account | When the VTEX marketplace [invites](https://help.vtex.com/en/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A) a seller to the Seller Portal selecting the [White Label Seller](https://help.vtex.com/en/tutorial/white-label-seller--5orlGHyDHGAYciQ64oEgKa) option, the seller products inherit the marketplace prices. However, the seller can edit those prices. | Standard accounts do not inherit prices from another account. Prices must be added in the standard account environment. | Franchise accounts can inherit prices from the main account. |
-| VTEX marketplaces can overwrite seller prices | No. The VTEX marketplace can only set trade rules for sellers. | Yes. | No. The VTEX marketplace can only set trade rules for franchise accounts. |
+| VTEX marketplaces can overwrite seller prices | When the seller created via invitation is a regular seller, its price can be overwritten, but not if it is a white label seller. | Yes. | No. The VTEX marketplace can only set trade rules for franchise accounts. |
 | Possibility of using [Manual Pricing](https://help.vtex.com/en/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS#manual-pricing) | Yes. | Yes. | Yes. |
 
 ## Promotions

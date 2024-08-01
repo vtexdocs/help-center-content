@@ -3,8 +3,8 @@ title: 'Visión General Promociones'
 id: 3PeHVYcooLIDmA33IAnjhm
 status: PUBLISHED
 createdAt: 2023-03-29T19:29:50.947Z
-updatedAt: 2023-03-29T19:33:24.646Z
-publishedAt: 2023-03-29T19:33:24.646Z
+updatedAt: 2023-09-13T22:35:44.331Z
+publishedAt: 2023-09-13T22:35:44.331Z
 firstPublishedAt: 2023-03-29T19:31:43.053Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -18,8 +18,6 @@ subcategory:
 Una promoción es un descuento que se concede al cliente, asociado a uno o varios productos del carrito, o incluso al envío o a un obsequio. En VTEX, el comerciante puede crear una serie de reglas que, según el contexto de la compra, determinarán si se aplicará el descuento y cómo. 
 
 En el menú **Promociones** de su Admin, puedes configurar una promoción con restricciones de listas de productos, listas de clientes, rangos de códigos postales, valor mínimo del carrito, entre otros.
-
-![visao-geral-promo-ES](https://images.ctfassets.net/alneenqid6w5/6FHow2OrXNqAoiKaJngwPU/b042023b3d3624f98bde582d8817b41d/image.png)
 
 A continuación, encontrarás más detalles sobre las diferentes secciones y páginas de este menú.
 

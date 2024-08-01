@@ -3,8 +3,8 @@ title: '¿Cómo se comprueba el SLA de operación de la plataforma?'
 id: frequentlyAskedQuestions_662
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:57.436Z
-updatedAt: 2019-12-31T17:00:45.718Z
-publishedAt: 2019-12-31T17:00:45.718Z
+updatedAt: 2024-03-11T22:38:31.694Z
+publishedAt: 2024-03-11T22:38:31.694Z
 firstPublishedAt: 2019-01-24T22:11:03.028Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,26 +15,25 @@ legacySlug: como-se-comprueba-el-sla-de-operacion-de-la-plataforma
 subcategory: 5PYkoNDZyo2G80yiiqG2YW
 ---
 
-Además de los plazos, hay que identificar qué asumimos como violación del SLA. O sea, qué realmente contará como tiempo de indisponibilidad.
+Cualquier minuto de interrupción es muy costoso, tanto para las tiendas como para la misma VTEX. Así, tratamos de ser lo más transparentes posible con relación a la salud de nuestra plataforma. Ponemos a disposición la [página de status](https://status.vtex.com) en la que registramos todos los incidentes que impactaron nuestro SLA. Esos eventos se contabilizan como sigue.
 
-Como nuestro modelo comercial se basa en el rendimiento de la tienda, queda muy claro para todo el equipo VTEX que cualquier minuto de interrupción es muy costoso, tanto para las tiendas como para la misma VTEX. Así, tratamos de ser lo más transparentes posible con relación a la salud de nuestra plataforma. Ponemos a disposición la [página de status](http://status.vtex.com "página de status") en la que registramos todos los incidentes que impactaron nuestro SLA. Esos eventos se contabilizan como sigue.
+Para determinar las violaciones del SLA, es decir, para contabilizar el tiempo de indisponibilidad de la plataforma, consideramos los siguientes acontecimientos:
 
-### Se contabilizan
+- Interrupciones en la tienda virtual que estén impactando significativamente el número de pedidos realizados, por ejemplo: interrupción de la tienda, acceso lento, error en el checkout.
+- Interrupciones que duren al menos 10 minutos.
 
-- Cualquier interrupción en la tienda virtual que esté impactando significativamente el número de pedidos realizados. Ej.: tienda fuera del aire, lentitud en el acceso, error en el checkout.
-- Contabilizamos interrupciones con duración de, como mínimo, 10 minutos.
+<div class="alert alert-warning">
+  <p>No contabilizamos el mantenimiento programado como tiempo de indisponibilidad.</p>
+</div>
 
-### No se contabilizan
+## Verificar el status de VTEX
 
-- Manutenimientos programados.
-- Interrupción de algún servicio en el módulo administrativo.
+Para facilitar la identificación de escenarios de instabilidad, recomendamos consultar la página [Status VTEX](http://status.vtex.com) si sospecha que la herramienta no está disponible. El status se actualiza cuando la incidencia ha superado un mínimo de 10 minutos, con la siguiente información:
 
-### Verificando en el status
+- __Investigando/Identificado__: el equipo está investigando el incidente y llevando a cabo las acciones necesarias para restablecer el servicio.
+- __Monitoreando__: el incidente se ha resuelto y el servicio se ha estabilizado. Se está supervisando el ambiente.
+- __Resuelto__: caso cerrado, con registro del tiempo total de interrupción del SLA. En la mayoría de los casos, el tiempo total de interrupción es la suma del tiempo de inactividad del incidente.
 
-Para facilitar la identificación de esos escenarios, siempre recomendamos que se verifique el status en cualquier sospecha de indisponibilidad de la herramienta. El status es actualizado cuando el incidente excede del prazo mínimo de 10 minutos, con la siguiente información:
+## Más información
 
-- __Investigando/Identificado__: Incidente siendo investigado por el equipo. El equipo está tomando la acción necesaria para el restablecimiento del servicio.
-- __Monitoreando__: Incidente resuelto, servicio estabilizado. Ambiente bajo monitoreo.
-- __Resuelto__: Caso cerrado. Registrado tiempo total de interrupción. En la mayoría de los casos, el SLA es la suma del tiempo de indisponibilidad de cada incidente.
-
-![](//images.contentful.com/alneenqid6w5/2Le8koNu7YUoICaquSSuuY/134a3f2ca7cee4614a09c96397573dd9/Screen_Shot_2016-04-22_at_16.28.39.png)
+- [Página VTEX Status](https://help.vtex.com/es/tutorial/pagina-de-status-da-vtex--gPhqDn9IQ3c67wbJEX3JJ)

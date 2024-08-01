@@ -21,7 +21,7 @@ El Catálogo del Seller Portal es un módulo donde usted configura el surtido de
 
 La arquitectura del Catálogo del Seller Portal se basa en algunos conceptos fundamentales que se distribuyen según la siguiente jerarquía:
 
-![ilustra-catalogoES](https://images.ctfassets.net/alneenqid6w5/3U5oa9w94stDXltSJPqF1V/372a36eabdf9dec772108dcffa655814/ilustra-catalogoES.png)
+![ilustra-catalogoES](//images.ctfassets.net/alneenqid6w5/3U5oa9w94stDXltSJPqF1V/372a36eabdf9dec772108dcffa655814/ilustra-catalogoES.png)
 
 - **Categorías:** formas de organizar sus productos. Usted no puede agregar sus propias Categorías, ya que el marketplace define cuáles estarán disponibles para categorizar sus productos. Es obligatorio que cada producto esté relacionado con una de las categorías que fueron creadas por el marketplace.   
 - **Marcas:**  parte de los atributos que caracterizan a los Productos de su tienda. Permite que sus clientes puedan encontrar lo que buscan de forma más específica.   

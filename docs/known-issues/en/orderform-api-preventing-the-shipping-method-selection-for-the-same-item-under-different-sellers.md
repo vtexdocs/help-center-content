@@ -3,8 +3,8 @@ title: 'OrderForm API preventing the shipping method selection for the same item
 id: 4dEfq7lNqTLF7SFIOaRsc2
 status: PUBLISHED
 createdAt: 2023-01-27T21:56:04.190Z
-updatedAt: 2023-01-27T22:03:21.165Z
-publishedAt: 2023-01-27T22:03:21.165Z
+updatedAt: 2023-07-05T14:33:51.370Z
+publishedAt: 2023-07-05T14:33:51.370Z
 firstPublishedAt: 2023-01-27T21:56:04.914Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: orderform-api-preventing-the-shipping-method-selection-for-the-same-item-under-different-sellers
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 742139
 ---
 

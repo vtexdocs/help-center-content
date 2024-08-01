@@ -3,8 +3,8 @@ title: 'Divisão de pedidos e divisão de entregas'
 id: jQvzA6QgSd51e2p6bthoV
 status: PUBLISHED
 createdAt: 2021-09-27T21:06:59.520Z
-updatedAt: 2023-01-13T18:53:14.386Z
-publishedAt: 2023-01-13T18:53:14.386Z
+updatedAt: 2023-09-23T01:00:23.558Z
+publishedAt: 2023-09-23T01:00:23.558Z
 firstPublishedAt: 2021-09-27T21:12:55.418Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -14,7 +14,6 @@ locale: pt
 legacySlug: divisao-de-pedidos-e-divisao-de-entregas
 subcategory: 6XAvmMxp7yyY06ewYMuggs
 ---
-
 
 Na plataforma VTEX, há cenários em que o cliente final recebe seu pedido em diferentes pacotes. Este artigo apresenta uma visão geral sobre a **divisão de pacotes (ou divisão de entregas)** e a **divisão de pedidos**, além de indicar as configurações que podem ser realizadas por parte do lojista.
 
@@ -57,4 +56,4 @@ O pedido é atendido por um único seller, mas é preciso realizar mais de uma e
   Não recomendamos operar a loja com o campo <code>allowMultipleDeliveries</code> indicado como <i>false</i>. Nesta configuração, quando existirem itens no carrinho que não possuam nenhum método de entrega do tipo delivery em comum, ou seja, os SLAIDs são distintos, e o carrinho tenha algum pickup-point, não será possível concluir o pedido.
 </div>
 
-* **Estoques distintos:** uma única loja oferece todos os itens de um pedido, mas estes estão em estoques diferentes. Então é preciso _dividir os pacotes de entrega,_ mas sem dividir o pedido entre lojas distintas. Isso é feito automaticamente pela plataforma.
+* **Docas distintas:** uma única loja oferece todos os itens de um pedido, mas no cálculo da rota de envio eles envolvem docas diferentes. Então é preciso _dividir os pacotes de entrega,_ mas sem dividir o pedido entre lojas distintas. Isso é feito automaticamente pela plataforma.

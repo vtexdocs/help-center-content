@@ -1,10 +1,10 @@
 ---
 title: 'Activar nueva CDN de VTEX'
 id: 400JfRm4VGgsKgqgOw4WWA
-status: PUBLISHED
+status: DRAFT
 createdAt: 2017-10-02T23:12:05.096Z
-updatedAt: 2019-12-31T15:25:39.216Z
-publishedAt: 2019-12-31T15:25:39.216Z
+updatedAt: 2023-08-09T20:43:20.267Z
+publishedAt: 
 firstPublishedAt: 2017-10-03T02:09:58.361Z
 contentType: tutorial
 productTeam: Reliability

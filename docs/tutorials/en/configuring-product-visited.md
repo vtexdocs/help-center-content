@@ -1,10 +1,10 @@
 ---
 title: 'How to configure visited product'
 id: tutorials_3136
-status: PUBLISHED
+status: CHANGED
 createdAt: 2017-04-27T21:52:11.184Z
-updatedAt: 2023-03-28T23:34:22.351Z
-publishedAt: 2023-03-28T23:34:22.351Z
+updatedAt: 2024-06-18T21:19:01.080Z
+publishedAt: 2024-06-18T21:15:58.589Z
 firstPublishedAt: 2017-04-27T23:03:54.918Z
 contentType: tutorial
 productTeam: Master Data
@@ -14,6 +14,10 @@ locale: en
 legacySlug: configuring-product-visited
 subcategory: 2nx7hMJmisofwqwy2P9l2i
 ---
+
+<div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
+Tutorial valid only for Legacy CMS Stores.
+</div>
 
 Product visited is a function that sends emails to customers who viewed a product on your site but did not complete a purchase. The purpose of this email is to recover the sale, by sending details of the product abandoned and suggestions for others. You can do all this through your Master Data.
 

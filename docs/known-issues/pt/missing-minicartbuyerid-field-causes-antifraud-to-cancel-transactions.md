@@ -3,8 +3,8 @@ title: 'O campo minicart.buyer.id ausente faz com que o antifraude cancele trans
 id: 6dvOH9b96qGAHXIzW3wBe1
 status: PUBLISHED
 createdAt: 2023-05-23T17:10:17.329Z
-updatedAt: 2023-05-23T17:10:17.964Z
-publishedAt: 2023-05-23T17:10:17.964Z
+updatedAt: 2024-02-16T20:26:42.045Z
+publishedAt: 2024-02-16T20:26:42.045Z
 firstPublishedAt: 2023-05-23T17:10:17.964Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: o-campo-minicartbuyerid-ausente-faz-com-que-o-antifraude-cancele-transacoes
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 514335
 ---
 

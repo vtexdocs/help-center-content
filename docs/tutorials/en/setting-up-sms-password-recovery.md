@@ -1,10 +1,10 @@
 ---
 title: 'Setting up SMS password recovery'
 id: 4MBZmPN2GSBNFooa9la555
-status: PUBLISHED
+status: DRAFT
 createdAt: 2019-03-07T21:02:11.023Z
-updatedAt: 2020-09-17T21:00:30.654Z
-publishedAt: 2020-09-17T21:00:30.654Z
+updatedAt: 2024-05-22T13:29:09.953Z
+publishedAt: 
 firstPublishedAt: 2019-03-07T21:04:24.196Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -26,13 +26,13 @@ That being said, check out the step-by-step on how to set it up:
 1. Enter the __Message Center__.
 2. Click __Templates__.
 
-  ![5NrtBpFRTxInFl4aY2FrVz-en](https://images.ctfassets.net/alneenqid6w5/1l0OsDNW7teR6iaGoNgei0/588f1c7842ebdfce815de1890a561264/5NrtBpFRTxInFl4aY2FrVzt-en.png)
+  ![5NrtBpFRTxInFl4aY2FrVz-en](//images.ctfassets.net/alneenqid6w5/1l0OsDNW7teR6iaGoNgei0/588f1c7842ebdfce815de1890a561264/5NrtBpFRTxInFl4aY2FrVzt-en.png)
 
 3. Click on the __Password Recovery__ template.
 4. Click the __SMS__ tab.
 5. Choose the option __"Enable SMS sending?"__.
 
-  ![password-recovery-sms-tab-en](https://images.ctfassets.net/alneenqid6w5/6bGbc4Wo9IJcKld5wBXYoi/68638513852254018741915f68cfa795/password-recovery-sms-tab-en.gif)
+  ![password-recovery-sms-tab-en](//images.ctfassets.net/alneenqid6w5/6bGbc4Wo9IJcKld5wBXYoi/68638513852254018741915f68cfa795/password-recovery-sms-tab-en.gif)
 
   *After clicking on "Enable SMS sending", the platform presents the other sending settings.*
 
@@ -40,7 +40,7 @@ That being said, check out the step-by-step on how to set it up:
 7. Fill in the __Destination__ field with the variable `{{_accountInfo.Telephone}}`.
 8. Fill in the __Message Text__ field with the message content. The information `Name: {{name}}`, `Login: {{login}}` and `Password: {{password}}` are essential.
 
-  ![password-recovery-sms-fields-en](https://images.ctfassets.net/alneenqid6w5/7D17OjBCwC4FWnpMJ5hlys/ab09b49184ae0bc382ab26bc551d4b6e/password-recovery-sms-fields-en.png)
+  ![password-recovery-sms-fields-en](//images.ctfassets.net/alneenqid6w5/7D17OjBCwC4FWnpMJ5hlys/ab09b49184ae0bc382ab26bc551d4b6e/password-recovery-sms-fields-en.png)
 
 9. Review the SMS content in __Preview__.
 10. Click __Save__.

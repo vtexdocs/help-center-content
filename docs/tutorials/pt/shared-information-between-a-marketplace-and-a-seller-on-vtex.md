@@ -3,8 +3,8 @@ title: 'Informações compartilhadas entre marketplace e seller na VTEX'
 id: 3o7WGiBtfnKKZ3Ddug26k3
 status: PUBLISHED
 createdAt: 2022-04-07T13:32:06.199Z
-updatedAt: 2023-04-17T21:51:10.740Z
-publishedAt: 2023-04-17T21:51:10.740Z
+updatedAt: 2023-10-31T19:54:13.803Z
+publishedAt: 2023-10-31T19:54:13.803Z
 firstPublishedAt: 2022-04-07T14:23:25.578Z
 contentType: tutorial
 productTeam: Channels
@@ -44,7 +44,7 @@ Além disso, para [adicionar o seller](https://help.vtex.com/pt/tutorial/configu
 É possível integrar o marketplace VTEX a seller VTEX, ou seller externo, tanto pelo Admin VTEX quanto por API. Nos dois casos, os dados compartilhados entre marketplace e seller serão os mesmos.
 
 <div class = "alert alert-info">
-Para mais informações sobre como conectar marketplace VTEX a seller VTEX, ou seller externo, pelo Admin VTEX, veja o artigo <a href="https://help.vtex.com/pt/tutorial/configurando-seller">Adicionar seller</a>. Para integração por API, utilize a chamada <a href="https://developers.vtex.com/vtex-rest-api/reference/upsertsellerrequest">Configure Seller Account</a>. Em caso de seller externo, confira o <a href="https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide">guia de integração com seller externo</a>.
+Para mais informações sobre como conectar marketplace VTEX a seller VTEX, ou seller externo, pelo Admin VTEX, veja o artigo <a href="https://help.vtex.com/pt/tutorial/configurando-seller">Adicionar seller</a>. Para integração por API, utilize a chamada <a href="https://developers.vtex.com/docs/api-reference/marketplace-apis#post-/seller-register/pvt/sellers">Configure Seller Account</a>. Em caso de seller externo, confira o <a href="https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide">guia de integração com seller externo</a>.
 </div>
 
 ### Conectar marketplace VTEX a seller VTEX
@@ -75,14 +75,14 @@ Quando o seller é do tipo externo, não hospedado no ambiente VTEX, ele precisa
 
 Uma vez que o marketplace VTEX e o seller VTEX, ou externo, estejam conectados, o marketplace pode acessar essas informações sobre o seller pelo Admin VTEX, em **MARKETPLACE > Gerenciamento**.
 
-Também é possível consultar as informações fornecidas pelo seller por API, tanto para seller VTEX quanto externo, pela chamada [Get Seller data by ID](https://developers.vtex.com/vtex-rest-api/reference/getretrieveseller).
+Também é possível consultar as informações fornecidas pelo seller por API, tanto para seller VTEX quanto externo, pela chamada [Get Seller data by ID](https://developers.vtex.com/docs/api-reference/marketplace-apis#get-/seller-register/pvt/sellers/-sellerId-).
 
 ## Compartilhamento de emails de clientes
 
 O marketplace pode conceder ao seller acesso parcial aos emails da sua base de clientes, de forma que esses emails sejam utilizados nas requisições de consulta às condições comerciais de itens e na criação de pedidos. Esta não é uma configuração padrão e o gerenciamento dessas informações é feito por API, por meio do campo `TrustPolicy`, utilizando as seguintes chamadas:
 
-- [Configure Seller Account](https://developers.vtex.com/vtex-rest-api/reference/upsertsellerrequest): permite configurar a conta do seller, seja ele seller VTEX ou externo.
-- [Update Seller by Seller ID](https://developers.vtex.com/vtex-rest-api/reference/updateseller): permite atualizar os dados do seller, seja ele seller VTEX ou externo.
+- [Configure Seller Account](https://developers.vtex.com/docs/api-reference/marketplace-apis#post-/seller-register/pvt/sellers): permite configurar a conta do seller, seja ele seller VTEX ou externo.
+- [Update Seller by Seller ID](https://developers.vtex.com/docs/api-reference/marketplace-apis#patch-/seller-register/pvt/sellers/-sellerId-): permite atualizar os dados do seller, seja ele seller VTEX ou externo.
 
 <div class = "alert alert-info">
 Em pedidos realizados no marketplace, o email do cliente não é exibido para o seller. A relação do cliente é estabelecida com o marketplace e seria necessário o consentimento do cliente para o compartilhamento de seus dados.

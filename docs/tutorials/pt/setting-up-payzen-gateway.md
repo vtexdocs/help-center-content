@@ -1,10 +1,10 @@
 ---
 title: 'Configurar o gateway PayZen'
 id: 3v3n5eQvxem8MQOCkugk24
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-03-13T19:39:04.093Z
-updatedAt: 2023-03-29T00:56:10.654Z
-publishedAt: 2023-03-29T00:56:10.654Z
+updatedAt: 2024-03-18T19:50:54.475Z
+publishedAt: 
 firstPublishedAt: 2018-03-13T22:27:11.198Z
 contentType: tutorial
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: pt
 legacySlug: configurar-o-gateway-payzen
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+<div class="alert alert-danger">Essa integração de pagamento não pode ser mais configurada na plataforma devido ao <a href="https://help.vtex.com/pt/announcements/conectores-legados-de-pagamentos-serao-descontinuados-em-2024--4R5YIjUu1IWkiOHzXtQU14">processo de remoção de provedores legados</a> e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.</div>
 
 Na VTEX, você pode configurar o [gateway](/pt/tutorial/o-que-e-um-gateway-de-pagamentos) PayZen na sua loja. De fácil integração, ele segue os padrões de segurança definidos pelo [Pagamentos](/pt/faq/o-que-e-o-pci-ssc).
 

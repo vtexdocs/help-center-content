@@ -84,84 +84,10 @@ Depois que um usuário preenche e salva **Nome** e **E-mail**, nos campos de co
 O template deste e-mail automático pode ser alterado na <a href="https://help.vtex.com/pt/tutorial/understanding-the-message-center--tutorials_84">Central de mensagens</a> modificando o template <i>account registration</i>.
 </div>
 
-![cadastro de conta](https://images.ctfassets.net/alneenqid6w5/5tBCNxqBxeWkqOgiIcEaQw/4e044e1f46911db85da4e5ea0a195226/cadastro_de_conta.jpg)
+![cadastro de conta](//images.ctfassets.net/alneenqid6w5/5tBCNxqBxeWkqOgiIcEaQw/4e044e1f46911db85da4e5ea0a195226/cadastro_de_conta.jpg)
 
 ## Segurança
 
 Nessa área são criados os [appKeys e appTokens](https://help.vtex.com/pt/tutorial/chaves-de-aplicacao) usados para autenticar integrações com a sua loja.
 
 Apenas o usuário Titular tem permissão para criar appKeys e appTokens, uma vez que estes dão acesso à sua loja por API, o que pode ser crítico se não utilizado por profissionais habilitados.
- lojas](#lojas).
-- [Adicionar nova loja](#criar-loja).
-- [Editar loja](#editar-loja).
-- [Excluir loja](#excluir-loja).
-
-Ao clicar na aba **Lojas**, na parte superior da tela, você verá uma lista com as informações de todas as lojas criadas na sua conta VTEX. 
-
-![Página de detalhes da conta - Lojas](https://images.ctfassets.net/alneenqid6w5/rAFyEsEDLBDqj3UBGufrb/70dea056a37a7cffd997803160605978/2pt.png)
-
-Para cada loja, você pode visualizar os seguintes detalhes:
-
-- **Nome da loja:** identificador interno da loja.
-- **Nome comercial:** nome utilizado comercialmente.
-- **Hosts:** domínios associados à loja.
-
-Você pode usar a caixa de busca para filtrar as lojas exibidas na lista por qualquer um dos atributos.
-
-Além disso, você poderá [criar uma nova loja](#criar-loja), [editar uma loja](#editar-loja) ou [excluir](#excluir-loja) lojas existentes.
-
-### Criar loja
-
-Para criar uma nova loja, siga os passos:
-
-1. Acesse a página de **Conta**, clicando no **avatar do seu perfil**, marcado pela inicial do seu email, e depois em **Configurações da conta** > **Conta**.
-2. Clique na aba **Loja** na parte superior da tela.
-3. Clique no botão `+ Nova loja`.
-4. Preencha as informações básicas da loja:
-    - **Nome da loja:**  identificador interno da loja.
-    - **Nome comercial:** nome utilizado comercialmente.
-    - **Localidade:** idioma predefinido associado a esta loja.
-    - **Canal de vendas:** [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV#) que deseja associar à nova loja.
-5. Se deseja iniciar o processo de [go-live](https://help.vtex.com/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM) da sua loja, preencha o campo **Hosts** com o domínio da sua loja. Caso contrário, deixe este campo em branco.
-6. Clique no botão `Criar`.
-
-<div class = "alert alert-info">
-  Para saber mais sobre a configuração de <b>Hosts</b> da sua loja, confira o artigo  <a href="https://help.vtex.com/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450">Configurando o domínio da sua loja</a>.
-</div>
-
-<div class="alert alert-warning">
-Não utilize um domínio do tipo ".com" no campo Nome da Loja. Esse tipo de entrada só pode existir nos campos Hosts.
-</div>
-
-### Editar loja
-
-Você pode editar informações de uma loja existente com estes passos:
-
-1. Acesse a página de **Conta**, clicando no **avatar do seu perfil**, marcado pela inicial do seu email, e depois em **Configurações da conta** > **Conta**.
-2. Clique na aba **Loja** na parte superior da tela.
-3. Clique no botão de ações <i class="fas fa-ellipsis-v"></i> correspondente à loja que deseja editar.
-4. Clique em `Editar`.
-5. Você verá a página de edição de conta. Edite as informações que deseja.
-6. Clique em `Salvar`.
-
-### Excluir loja
-
-Para excluir uma loja, siga estes passos:
-
-1. Acesse a página de **Conta**, clicando no **avatar do seu perfil**, marcado pela inicial do seu email, e depois em **Configurações da conta** > **Conta**.
-2. Clique na aba **Loja** na parte superior da tela.
-3. Clique no botão de ações <i class="fas fa-ellipsis-v"></i> correspondente à loja que deseja excluir.
-4. Clique em `Excluir`.
-5. Você verá um modal de confirmação. Clique em `Excluir`.
-
-<div class="alert alert-warning">
-Note que a loja principal, sinalizada com uma estrela ao lado do nome na lista de lojas, não pode ser excluída.
-</div>
-
-Saiba mais:
-- [O que é nome de conta?](https://help.vtex.com/pt/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC)
-- [Usuário titular](https://help.vtex.com/pt/tutorial/o-que-e-o-usuario-titular--3oPr7YuIkEYqUGmEqIMSEy)
-- [Transferir a propriedade da loja](https://help.vtex.com/pt/tutorial/transferencia-de-propriedade-da-loja)
-- [Configurando o domínio da sua loja](https://help.vtex.com/pt/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450)
-- [Go-live](https://help.vtex.com/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM)
-

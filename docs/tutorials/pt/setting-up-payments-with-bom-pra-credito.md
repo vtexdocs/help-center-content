@@ -3,8 +3,8 @@ title: 'Configurar pagamento com Bom Pra Crédito'
 id: 2arjSmF9ksov6IXTEMaGkl
 status: PUBLISHED
 createdAt: 2022-08-10T19:47:21.251Z
-updatedAt: 2023-03-26T21:24:13.881Z
-publishedAt: 2023-03-26T21:24:13.881Z
+updatedAt: 2024-01-23T18:19:59.534Z
+publishedAt: 2024-01-23T18:19:59.534Z
 firstPublishedAt: 2022-08-10T19:52:22.782Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pagamento-com-bom-pra-credito
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o gateway Bom Pra Crédito. Com este conector, sua loja pode realizar vendas parceladas por meio da Bom Pra Crédito.
+Na VTEX, é possível realizar a integração com o gateway Bom Pra Crédito. Por meio desta integração, sua loja pode realizar vendas parceladas por meio da Bom Pra Crédito.
 
-Para configurar a afiliação Bom Pra Crédito, siga os passos abaixo:
+Para configurar Bom Pra Crédito, siga os passos abaixo:
 
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão `+`.
-3. Clique no conector __BomPraCredito__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __BomPraCredito__ na barra de busca e clique sobre o nome do provedor.
 4. Clique no botão __Instalar app__ e siga as instruções de instalação.
 5. Preencha os campos __Application Key__ e __Application Token__ com as informações da sua conta Bom Pra Crédito.
 6. Clique em `Salvar`.

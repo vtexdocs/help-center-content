@@ -3,8 +3,8 @@ title: 'Configurar producto similar, sugerencias, accesorios y genéricos'
 id: tutorials_280
 status: PUBLISHED
 createdAt: 2017-04-27T22:10:17.727Z
-updatedAt: 2023-03-29T14:45:42.789Z
-publishedAt: 2023-03-29T14:45:42.789Z
+updatedAt: 2024-07-25T21:19:12.871Z
+publishedAt: 2024-07-25T21:19:12.871Z
 firstPublishedAt: 2017-04-27T23:03:13.377Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -35,7 +35,7 @@ Para ayudarlo a utilizar las técnicas arriba, podemos usar los campos en el reg
 4. Rellene los campos, como indicado abajo.
 5. Haga clic en el botón `Guardar`.
 
-![produto-similar-sugestão-acessório-exemplo es](https://images.ctfassets.net/alneenqid6w5/5ZqMyFekmcoAggmAww44w6/a6bbabc539865f8b82fdc583469864d5/produto-simular-sugest__o-acess__rio-exemplo_es.png)
+![produto-similar-sugestão-acessório-exemplo es](//images.ctfassets.net/alneenqid6w5/5ZqMyFekmcoAggmAww44w6/a6bbabc539865f8b82fdc583469864d5/produto-simular-sugest__o-acess__rio-exemplo_es.png)
 
 **Accesorios:** En este campo registramos los productos que deben venderse como complemento de otro producto. En esta opción, los productos registrados como accesorios se muestran como opción de compra con el checkbox de selección habilitado (función hecha en el layout).
 
@@ -44,7 +44,5 @@ Para ayudarlo a utilizar las técnicas arriba, podemos usar los campos en el reg
 **Similares (Sustitutos):** En este campo seleccionamos los productos similares que queremos mostrarle al cliente cuando está comprando, pero no existe la opción de checkbox como en el caso de accesorios.
 
 **Mostrar junto**: Muestra los SKUs de los productos sugeridos para la compra en conjunto.
-
-Otras opciones de Cross Selling se pueden habilitar en la construcción del layout de la tienda como por medio de las opciónes de templates de estantes como “Quién compró compró también”, “Quien vio compró también” y "Quien vio vio también". Para más informaciones, acceda nuestro tutorial sobre [controles del template de estante](https://help.vtex.com/es/tutorial/lista-de-controles-para-plantillas--tutorials_563). 
 
 La opción de Up Selling se puede trabajar usando la promoción [Compre Junto](http://help.vtex.com/es/tutorial/comprar-juntos-registro-de-promocion).

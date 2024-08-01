@@ -3,8 +3,8 @@ title: 'Order flow and status'
 id: tutorials_196
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:33.518Z
-updatedAt: 2023-02-28T16:04:19.511Z
-publishedAt: 2023-02-28T16:04:19.511Z
+updatedAt: 2024-04-01T15:37:30.788Z
+publishedAt: 2024-04-01T15:37:30.788Z
 firstPublishedAt: 2017-04-27T23:02:47.616Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -41,7 +41,7 @@ For incomplete orders, check out the article <a href="https://help.vtex.com/en/t
 
 ### Marketplace flow
 
-![pedido_marketplace_en](https://images.ctfassets.net/alneenqid6w5/5XrrV8mQNzqESn0XKJHJW7/315b6d8c70b8631d2be02c4dd659af98/pedido_marketplace_en.png)
+![pedido_marketplace_en](//images.ctfassets.net/alneenqid6w5/5XrrV8mQNzqESn0XKJHJW7/315b6d8c70b8631d2be02c4dd659af98/pedido_marketplace_en.png)
 
 The marketplace flow is integrated with the seller flow. When an order delivered by an external seller (which is not the main seller) is finalized, this is the flow visible to the marketplace:
 
@@ -58,7 +58,7 @@ Learn how to identify orders from marketplaces in the article [Viewing marketpla
 
 ### Seller flow
 
-![pedido_fluxo_seller_en](https://images.ctfassets.net/alneenqid6w5/wAez6nwupt5Fw7OosaTUH/9cc2dbb00ed43160d6e4699594107b22/pedido_fluxo_seller_en.png)
+![pedido_fluxo_seller_en](//images.ctfassets.net/alneenqid6w5/wAez6nwupt5Fw7OosaTUH/9cc2dbb00ed43160d6e4699594107b22/pedido_fluxo_seller_en.png)
 
 This is the order flow visible to the store responsible for shipping the order products. In this case, the order was placed through another store (online marketplace), and the seller flow starts once the order is confirmed.
 
@@ -97,7 +97,7 @@ Please note that:
 
 ### Complete flow
 
-![pedido_fluxo_completo_en_2](https://images.ctfassets.net/alneenqid6w5/hQ09aEM1eaW28N7TRG0PY/4dffff0e3ad8bd51e4bdcacb14a10b50/pedido_fluxo_completo_en.png)
+![pedido_fluxo_completo_en_2](//images.ctfassets.net/alneenqid6w5/hQ09aEM1eaW28N7TRG0PY/4dffff0e3ad8bd51e4bdcacb14a10b50/pedido_fluxo_completo_en.png)
 
 The complete order flow is visible to the store that sells and delivers the order. It is composed of the marketplace flow followed by the seller flow.
 
@@ -126,6 +126,8 @@ Orders can be canceled for several reasons. Each type of cancellation is indicat
 
 Once there is a request to cancel an order, the platform processes the order cancellation automatically. The payment refund to the customer depends on the stage the payment is at and the payment method used.
 
+Orders with [partial invoices](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](https://help.vtex.com/en/tutorial/como-cancelar-pedido--tutorials_186). If the customer wants to replace or remove items from the order, it is possible to [change the order](https://help.vtex.com/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
+
 <div class = "alert alert-info">
 Learn more about cancellation and refunds in the articles <a href="https://help.vtex.com/en/faq/por-que-meu-pedido-cancelado-foi-cobrado-na-fatura-do-cliente">Why was my cancelled order charged in the customer's invoice?</a>, and <a href="https://help.vtex.com/en/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#reembolsocancelamento">Refund or cancellation</a>.
 </div>
@@ -140,7 +142,7 @@ Learn more about order cancellation in the article [Why was my order cancelled?]
 
 ### Chain flow
 
-![pedido_fluxo_chain_en](https://images.ctfassets.net/alneenqid6w5/1H891HnUzdCfoEVuO3Ry3Q/7617928cd9328c928ecd09d05b08af2e/pedido_fluxo_chain_en.png)
+![pedido_fluxo_chain_en](//images.ctfassets.net/alneenqid6w5/1H891HnUzdCfoEVuO3Ry3Q/7617928cd9328c928ecd09d05b08af2e/pedido_fluxo_chain_en.png)
 
 The order flow seen by the intermediate store in a [Multilevel Omnichannel Inventory](https://help.vtex.com/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4) is similar to the marketplace order flow, except for receiving the payment for orders. In the `Payment pending` stage, instead of the chain receiving payment directly from the gateway, the marketplace informs the chain it has received the payment confirmation. 
 
@@ -274,7 +276,7 @@ Note that the complete order flow (visible to the stores responsible for selling
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">waiting-for-fulfillment</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Waits for order's fulfillment. Status exclusive for stores that have a Warehouse Management System (WMS).</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">Waits for order's fulfillment. Status exclusive for stores that have a Warehouse Management System (WMS). When the marketplace does not authorize the seller to fulfill the order within 30 days, this order is automatically canceled by the platform.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
@@ -292,7 +294,7 @@ Note that the complete order flow (visible to the stores responsible for selling
     <td class="tg-zr06"><span style="font-weight:400">Authorize fulfillment</span></td>
     <td class="tg-zr06"><span style="font-weight:400">authorize-fulfillment</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Seller and complete flow</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Internal process for approving the order handling. In this status, the platform confirms the</span> <a href="https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada"><span style="font-weight:400;color:#F71963;background-color:transparent">item reservation</span></a><span style="font-weight:400">.</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">Internal process for approving the order handling. In this status, the platform confirms the</span> <a href="https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada"><span style="font-weight:400;color:#F71963;background-color:transparent">item reservation</span></a><span style="font-weight:400">. When the marketplace does not authorize the seller to fulfill the order within 30 days, this order is automatically canceled by the platform.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Cancellation window</span></td>

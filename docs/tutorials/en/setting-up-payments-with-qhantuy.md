@@ -3,8 +3,8 @@ title: 'Setting up payments with Qhantuy'
 id: 4KO2beK0scqVy4lrrs3Myq
 status: PUBLISHED
 createdAt: 2023-04-20T13:44:39.377Z
-updatedAt: 2023-04-20T17:36:03.040Z
-publishedAt: 2023-04-20T17:36:03.040Z
+updatedAt: 2024-01-24T17:10:50.292Z
+publishedAt: 2024-01-24T17:10:50.292Z
 firstPublishedAt: 2023-04-20T14:12:44.589Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: setting-up-payments-with-qhantuy
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the Qhantuy payment provider. With this connector, your store can make sales through credit cards and Qhantuy.
+At VTEX, it is possible to integrate with the Qhantuy payment provider. With this provider, your store can make sales through credit cards and Qhantuy.
 
-To configure Qhantuy affiliation, follow the steps below:
+To configure Qhantuy, follow the steps below:
 
-1. In the VTEX Admin, go to __Store Settings > Payments > Settings__, or type __Settings__ in the search bar at the top of the page.
-2. In the __Gateway affiliations__ tab, click on the `+` button.
-3. Click on the __Qhantuy__ connector.
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __Qhantuy__ in the search bar and click on the name of the provider.
 4. Fill in the __Application Key__ and __Application Token__ fields with data provided by Qhantuy.
 5. In the __Payment settlement__ field, select one of the available options:
 
@@ -35,7 +35,7 @@ To configure Qhantuy affiliation, follow the steps below:
 
 <ui>  7. If an alert message appears indicating the need to install the app, click on the <b>Install app</b> button and follow the installation instructions.</ui>
 
-<ui>  8. Click on <b>Save.</b></ui>
+<ui>  8. Click <b>Save.</b></ui>
 
 To configure the payment methods to be processed by Qhantuy, access [Configuring Payment Conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
 

@@ -3,8 +3,8 @@ title: 'Criar Regra de merchandising - Editor manual'
 id: 2FpbarYzsnbg7aZZn3TGF8
 status: PUBLISHED
 createdAt: 2020-04-14T14:10:24.518Z
-updatedAt: 2023-04-03T22:07:36.546Z
-publishedAt: 2023-04-03T22:07:36.546Z
+updatedAt: 2024-01-29T16:58:41.850Z
+publishedAt: 2024-01-29T16:58:41.850Z
 firstPublishedAt: 2020-04-15T00:39:30.807Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -23,7 +23,7 @@ Para configurar uma [regra de merchandising](https://help.vtex.com/pt/tracks/vte
     * **Nome**: nome da regra de merchandising. Exemplo: promover o produto A quando a pesquisa for Biscoito de chocolate.
     * **Data de início (opcional)**: agendamento da data a partir da qual a regra de merchandising será aplicada. A data segue o fuso horário UTC-0.
     * **Data de término (opcional)**: agendamento da data em que a regra de merchandising não será mais aplicada às buscas na loja. A data segue o fuso horário UTC-0.
-    * **Idiomas:** idiomas aos quais a regra de merchandising será aplicada.
+    * **Aplicar aos idiomas:** idiomas aos quais a regra de merchandising será aplicada. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma (Beta)](https://help.vtex.com/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
 5. Clique em **Editor manual**. Para mais informações sobre cada editor, confira [Tipos de edição](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao).
 6. Clique em `Próximo`.
 7. Se necessário, altere as informações básicas já definidas sobre a nova regra de merchandising na seção [Informação Geral](#informacao-geral).
@@ -35,6 +35,8 @@ Para configurar uma [regra de merchandising](https://help.vtex.com/pt/tracks/vte
 <div class="alert alert-info">
 <p>Após salvar, as alterações de regras de merchandising levam em média dois minutos para serem atualizadas.</p>
 </div>
+
+## Exemplo
 
 Considere o seguinte exemplo: você quer promover produtos da marca Beautyx durante a semana de Carnaval, ou seja, quando o cliente pesquisar por "sabonete" ou "shampoo", a busca precisa promover produtos da marca. Para isso, a configuração precisa ser feita da seguinte forma:
 

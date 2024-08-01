@@ -3,8 +3,8 @@ title: 'Admin Collection Brand List Timeout'
 id: 4de4lqAIhr9mU77EPAbvq1
 status: PUBLISHED
 createdAt: 2022-08-17T15:58:26.950Z
-updatedAt: 2022-11-25T21:43:44.331Z
-publishedAt: 2022-11-25T21:43:44.331Z
+updatedAt: 2024-07-01T18:48:37.335Z
+publishedAt: 2024-07-01T18:48:37.335Z
 firstPublishedAt: 2022-08-17T15:58:27.573Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: admin-collection-brand-list-timeout
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 639905
 ---
 

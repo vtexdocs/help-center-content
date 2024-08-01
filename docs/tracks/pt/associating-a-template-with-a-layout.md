@@ -30,4 +30,4 @@ Essa associação é feita na configuração de propriedades do layout. Para che
 6. Selecione o template que você deseja associar a esse layout.
 7. Digite "yes" para confirmar a mudança. (Este passo é necessário porque esta é uma alteração crítica para o site, já que o front-end da página será substituído.) 
 
-![CMS 4 1](https://images.ctfassets.net/alneenqid6w5/6ZaVxrZUn0cegcQni61zsc/58fd2f24e7b8b36636b0088d945c1204/CMS_4_1.png)
+![CMS 4 1](//images.ctfassets.net/alneenqid6w5/6ZaVxrZUn0cegcQni61zsc/58fd2f24e7b8b36636b0088d945c1204/CMS_4_1.png)

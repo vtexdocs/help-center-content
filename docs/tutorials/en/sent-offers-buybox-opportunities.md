@@ -1,10 +1,10 @@
 ---
 title: 'Offer Management: Buybox opportunities'
 id: 1hO9eI1th47EGxQoTzGewC
-status: PUBLISHED
+status: DRAFT
 createdAt: 2021-07-29T19:59:30.988Z
-updatedAt: 2022-10-20T01:38:56.059Z
-publishedAt: 2022-10-20T01:38:56.059Z
+updatedAt: 2024-06-20T21:42:56.304Z
+publishedAt: 
 firstPublishedAt: 2021-07-29T20:20:39.780Z
 contentType: tutorial
 productTeam: Channels
@@ -12,8 +12,14 @@ author: 0QBQws7rk0t5Mnu8fgfUv
 slug: sent-offers-buybox-opportunities
 locale: en
 legacySlug: sent-offers-buybox-opportunities-beta
-subcategory: 2zVauFUkYn8vgS0y0MfWeK
+subcategory: 
 ---
+
+<div class="alert alert-info">
+To evolve your experience in synchronizing and updating offers, the VTEX team is developing a new functionality that will replace the current module <b>Offer Management</b>. As a result, the module will not receive new updates or maintenance.
+For connectors and marketplaces already integrated into the module, please contact the development team by email <a href="taissa.araujo@vtex.com.br">taissa.araujo@vtex.com.br</a>.
+For connectors interested in starting the integration, we ask you to wait for the release of the new module, as soon as it is available we will announce it to all customers through the <a href="https://developers.vtex.com/updates/release-notes">Developer Portal's release notes section</a> and <a href="https://help.vtex.com/pt/en/announcements">VTEX Help Center announcements page</a>.
+</div>  
 
 An offer is a SKU from a seller that has been sent to a sales channel and whose price and inventory have been configured. The [Offer Management](https://help.vtex.com/en/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE) module in the VTEX Admin allows sellers to monitor their offers’ submission and sync on marketplaces. Besides, it can lead to an increase in your product sales. 
 
@@ -33,13 +39,13 @@ On the [Offer Management](https://help.vtex.com/en/tutorial/offers-listing--7MRb
 
 ## Offer details
 
-![EN Oportunidades Offer details](https://images.ctfassets.net/alneenqid6w5/05EP70mvjspXAYAqYUBlm/6ed62b0628ffc356995b4aa59321f28c/EN_Oportunidades_Offer_details.jpg)
+![EN Oportunidades Offer details](//images.ctfassets.net/alneenqid6w5/05EP70mvjspXAYAqYUBlm/6ed62b0628ffc356995b4aa59321f28c/EN_Oportunidades_Offer_details.jpg)
 
 The [Offer details](https://help.vtex.com/en/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P) page displays a message about the `Opportunity` at the top of the page. By clicking on `View opportunity`, you will be redirected to the following page.
 
 ## Offer opportunities
 
-![EN Oportunidades oportunidades do anúncio](https://images.ctfassets.net/alneenqid6w5/6Atuthxay11bdJrmSQxEM9/f4ca300fea32688a1dcb606f92104cb9/EN_Oportunidades_oportunidades_do_an__ncio.jpg)
+![EN Oportunidades oportunidades do anúncio](//images.ctfassets.net/alneenqid6w5/6Atuthxay11bdJrmSQxEM9/f4ca300fea32688a1dcb606f92104cb9/EN_Oportunidades_oportunidades_do_an__ncio.jpg)
 
 The **Offer opportunities** page displays the Buybox-eligible offer next to the one already available for sale on the marketplace. On this page, you can compare the data of both offers, such as their brand information, specifications, and dimensions.
 

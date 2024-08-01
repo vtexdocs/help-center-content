@@ -1,10 +1,10 @@
 ---
 title: '¿Es posible determinar el mínimo de items en un carrito?'
 id: 3rhoZXYon6aaGqusgOwukQ
-status: PUBLISHED
+status: DRAFT
 createdAt: 2019-01-24T20:45:41.366Z
-updatedAt: 2023-03-30T15:55:10.926Z
-publishedAt: 2023-03-30T15:55:10.926Z
+updatedAt: 2024-02-05T18:20:53.788Z
+publishedAt: 
 firstPublishedAt: 2019-01-24T22:01:19.953Z
 contentType: tutorial
 productTeam: Shopping
@@ -12,16 +12,15 @@ author: 7FpKZ0rc6k4WqeymES80cw
 slug: determinar-el-minimo-de-items-en-un-carrito
 locale: es
 legacySlug: determinar-el-minimo-de-items-en-un-carrito
-subcategory: 3tDGibM2tqMyqIyukqmmMw
+subcategory: 
 ---
 
-Sí. De forma predeterminada, la cantidad mínima de items en el carrito es de 1 item. Sin embargo, usted puede cambiar este valor y especificar el número que la tienda entiende como ideal para su negocio.
+De forma predeterminada, a cantidad mínima de ítems en el carrito es 1 artículo. Sin embargo, es posible cambiar este valor y especificar el número que la tienda cree que es ideal para su negocio.
 
-Si se cambia el número de 1 *(predeterminado)* a 2, esto impedirá que el cliente cierre la compra sin tener al menos 2 items en el carrito.
+Por ejemplo, si cambias el número de 1 *(predeterminado)* a 2, esto evitará que el cliente pueda completar la compra sin haber añadido al menos 2 ítems al carrito.
 
-__Para cambiar este número, siga los pasos abajo:__
+Para cambiar la cantidad mínima de ítems en el carrito, siga los pasos a continuación:
 
-1. En el Admin VTEX, accede a **Apps** > **Afiliados** > **Gestión de Pedidos**, o escribe **Gestión de Pedidos** en la barra de búsqueda en la parte superior de la página
-2. Haga clic en __Configuración__.
-3. Ajuste el valor del campo __Cantidad mínima de ítems en el carrito__.
-4. Haga clic en el botón __Salvar__.
+1. En el Admin de VTEX, acceda a __Configuración de Tienda > Pedidos > Configuración__, o escriba __Configuración__ en la barra de búsqueda en la parte superior de la página.
+2. En la pestaña __General__, sección __Carrito__, ajuste el valor del campo __Cantidad mínima de ítems en el carrito__ según lo desee.
+3. Haga clic en "Guardar".

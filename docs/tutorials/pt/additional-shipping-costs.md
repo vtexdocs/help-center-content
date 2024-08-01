@@ -18,7 +18,7 @@ subcategory: 7uJcyu0VawEm8ggqKu404u
 
 Os adicionais de frete são valores extras adicionados ao custo de envio pelas [políticas de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140). Então, ao configurar um valor de custo para a entrega dos itens da sua loja, é possível configurar uma tarifa fixa e incluir valores adicionais. O custo fixo de entrega somado aos adicionais compõem os custos da [tarifa de envio](https://help.vtex.com/pt/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM).
 
-![Tarifa envio PT](https://images.ctfassets.net/alneenqid6w5/21DY5nCwLfuquTatiw2Q3e/7b02d517a10fc6acdf0f343c3b1ea797/Tarifa_envio_PT.svg)
+![Tarifa envio PT](//images.ctfassets.net/alneenqid6w5/21DY5nCwLfuquTatiw2Q3e/7b02d517a10fc6acdf0f343c3b1ea797/Tarifa_envio_PT.svg)
 
 Os valores adicionais podem ser configurados conforme:
 

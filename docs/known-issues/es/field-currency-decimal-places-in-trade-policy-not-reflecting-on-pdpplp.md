@@ -3,8 +3,8 @@ title: 'Los decimales del campo de la moneda en la política comercial no se ref
 id: 1QxxwRvFDUVnGHh5icIPpo
 status: PUBLISHED
 createdAt: 2022-11-09T17:40:35.832Z
-updatedAt: 2022-11-25T21:41:45.862Z
-publishedAt: 2022-11-25T21:41:45.862Z
+updatedAt: 2024-02-16T20:24:30.832Z
+publishedAt: 2024-02-16T20:24:30.832Z
 firstPublishedAt: 2022-11-09T17:40:36.610Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: los-decimales-del-campo-de-la-moneda-en-la-politica-comercial-no-se-reflejan-en-el-pdp-plp
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 695044
 ---
 

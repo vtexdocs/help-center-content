@@ -3,8 +3,8 @@ title: 'Importar datos en el Master Data'
 id: tutorials_1135
 status: PUBLISHED
 createdAt: 2017-04-27T21:57:12.437Z
-updatedAt: 2023-03-28T23:29:25.337Z
-publishedAt: 2023-03-28T23:29:25.337Z
+updatedAt: 2023-06-15T19:48:45.566Z
+publishedAt: 2023-06-15T19:48:45.566Z
 firstPublishedAt: 2017-04-27T23:03:43.488Z
 contentType: tutorial
 productTeam: Master Data
@@ -42,9 +42,9 @@ Tras la exportación y edición de la planilla exportada, es hora de realizar la
 Mantenga el mismo formato de la planilla (xls) para realizar la importación con éxito.
 </div>
 
-1. En el Admin VTEX, accede **Configuración de la tienda** > **Storefront** > **Master Data**.
-2. Haga clic en la pestaña **Aplicações**.
-3. Haga clic en el botón **Modo de Importação**.
+1. En el Admin VTEX, accede **Configuración de la tienda** > **Storefront** > **Master Data.**
+2. Haga clic en la pestaña **Aplicações.**
+3. Haga clic en el botón **Importar.**
 4. Seleccione la entidad de datos que desea insertar o actualizar registros (Aquí, usted debe insertar la entidad de datos del formulario donde están los registros que desea insertar o actualizar).
 5. Elija el archivo.
 6. Haga clic en el botón **Importar** en la esquina inferior de la pantalla.

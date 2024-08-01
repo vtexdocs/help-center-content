@@ -3,8 +3,8 @@ title: 'Cadastrar uma Categoria'
 id: tutorials_206
 status: PUBLISHED
 createdAt: 2017-04-27T22:15:39.383Z
-updatedAt: 2023-03-29T17:45:06.786Z
-publishedAt: 2023-03-29T17:45:06.786Z
+updatedAt: 2023-11-29T19:10:35.853Z
+publishedAt: 2023-11-29T19:10:35.853Z
 firstPublishedAt: 2017-04-27T23:00:46.516Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -38,5 +38,5 @@ Siga o passo a passo para cadastrar suas categorias:
 - [Preencher campos de cadastro de categoria](/pt/tutorial/campos-de-cadastro-de-categoria)
 - [Excluir uma Categoria](/pt/tutorial/entendendo-a-manutencao-da-base-de-dados)
 - [Cadastrar um Produto](/pt/tutorial/cadastrando-produto)
-- [Cadastrar um SKU](/pt/tutorial/cadastrando-sku)
+- [Cadastrar um SKU](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ?&utm_source=autocomplete)
 

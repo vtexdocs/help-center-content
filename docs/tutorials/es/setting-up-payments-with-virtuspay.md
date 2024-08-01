@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pago con VirtusPay'
 id: 2Agqwp19cwyIbxuHErVG8I
-status: CHANGED
+status: PUBLISHED
 createdAt: 2022-08-11T15:02:59.728Z
-updatedAt: 2023-03-27T12:42:29.231Z
-publishedAt: 2023-03-26T21:15:04.050Z
+updatedAt: 2024-01-23T21:50:25.883Z
+publishedAt: 2024-01-23T21:50:25.883Z
 firstPublishedAt: 2022-08-11T16:38:04.718Z
 contentType: tutorial
 productTeam: Financial

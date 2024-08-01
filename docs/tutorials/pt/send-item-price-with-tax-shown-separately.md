@@ -3,13 +3,13 @@ title: 'Enviar ao Gateway ou ao ERP o preço do item já com o imposto separado'
 id: 77O1rBSLHqW8eWWsE6IEii
 status: PUBLISHED
 createdAt: 2017-08-14T15:30:39.027Z
-updatedAt: 2019-12-31T15:21:46.929Z
-publishedAt: 2019-12-31T15:21:46.929Z
+updatedAt: 2024-04-17T14:38:57.929Z
+publishedAt: 2024-04-17T14:38:57.929Z
 firstPublishedAt: 2017-08-16T17:43:33.301Z
 contentType: tutorial
 productTeam: Others
 author: 5V92cmF9jG8KG600EwUgEg
-slug: enviar-preço-com-imposto-separado
+slug: enviar-preco-com-imposto-separado
 locale: pt
 legacySlug: enviar-preço-com-imposto-separado
 subcategory: 18Gsips3u48UYCu0Ku2sWm
@@ -33,7 +33,7 @@ Para indicar nas vitrines o preço somando as taxas aplicadas, utilize o atribut
 
 Ou, então, para criar um JS e somar o valor do imposto nas vitrines, também é possível utilizar o controle `$product.Tax` (Ele indica as taxas registradas referentes ao produto).
 
-[Veja a documentação sobre controles aqui](/pt/tutorial/controles-do-template-de-prateleira)
+[Veja a documentação sobre controles aqui](https://developers.vtex.com/docs/guides/shelf-template-controls)
 
 __Atenção__: Na página de produto é necessário colocar um JavaScript para fazer a soma do valor.
 

@@ -3,8 +3,8 @@ title: 'Approving payment of the bank payment slip'
 id: tutorials_184
 status: PUBLISHED
 createdAt: 2017-04-27T22:16:19.919Z
-updatedAt: 2023-03-26T21:44:48.077Z
-publishedAt: 2023-03-26T21:44:48.077Z
+updatedAt: 2024-06-03T20:36:09.927Z
+publishedAt: 2024-06-03T20:36:09.927Z
 firstPublishedAt: 2017-04-27T23:00:46.699Z
 contentType: tutorial
 productTeam: Financial
@@ -25,7 +25,7 @@ This approval can be done manually through the Orders Management module as shown
 2. Click on the transaction.
 3. Click on **Notify Payment** button.
 
-![NotificarEN](https://images.ctfassets.net/alneenqid6w5/19t11NnJzs40wGQqkaeKIu/1d7fee23772ca875bccb59286859c415/NotificarEN.png)
+![NotificarEN](//images.ctfassets.net/alneenqid6w5/19t11NnJzs40wGQqkaeKIu/1d7fee23772ca875bccb59286859c415/NotificarEN.png)
 
 **After approval of the payment, the order will go through the normal purchase flow.**
 
@@ -33,7 +33,7 @@ This approval can be done manually through the Orders Management module as shown
 In the Account management module, the user must have a role that includes the <code>Notify payment</code> permission to be able to approve payments.
 </div>
 
-To approve payments through API, check the [documentation about the payment notification request](https://developers.vtex.com/reference/payment#getorder).
+To approve payments through API, check the [documentation about the payment notification request](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/payments/-paymentId-/payment-notification).
 
 <div class="alert alert-warning">
 Since <a href="https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide">ERP integrations</a> are governed by the <a href="https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196#">orders flow</a>, manually approving a payment will continue the integration of this order with the store’s back office as usual. Therefore, caution is recommended when approving payments manually, in order to ensure that every order that is processed and shipped is received.

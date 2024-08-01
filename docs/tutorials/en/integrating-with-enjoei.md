@@ -3,8 +3,8 @@ title: 'Integrating with Enjoei'
 id: 3mV9uhw1AdqFol8K2tfwly
 status: PUBLISHED
 createdAt: 2021-11-05T19:27:31.160Z
-updatedAt: 2023-03-29T15:54:34.785Z
-publishedAt: 2023-03-29T15:54:34.785Z
+updatedAt: 2024-02-19T20:17:35.239Z
+publishedAt: 2024-02-19T20:17:35.239Z
 firstPublishedAt: 2021-11-05T20:49:41.372Z
 contentType: tutorial
 productTeam: Channels

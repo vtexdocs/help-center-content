@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pagamentos com PagosWEB'
 id: 2qKIeEPUBKqEGo2OyikyQw
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-04-05T15:48:50.151Z
-updatedAt: 2023-03-29T01:06:09.900Z
-publishedAt: 2023-03-29T01:06:09.900Z
+updatedAt: 2024-03-18T19:12:24.950Z
+publishedAt: 
 firstPublishedAt: 2018-04-05T22:01:49.141Z
 contentType: tutorial
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: pt
 legacySlug: configurar-pagamentos-com-pagosweb
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+<div class="alert alert-danger">Essa integração de pagamento não pode ser mais configurada na plataforma devido ao <a href="https://help.vtex.com/pt/announcements/conectores-legados-de-pagamentos-serao-descontinuados-em-2024--4R5YIjUu1IWkiOHzXtQU14">processo de remoção de provedores legados</a> e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.</div>
 
 Você pode configurar o PagosWEB para receber pagamentos na sua loja. Nesta modalidade, seu cliente escolhe o __meio de pagamento__ PagosWEB para efetuar a compra.
 

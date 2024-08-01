@@ -3,8 +3,8 @@ title: 'Registering geolocation'
 id: tutorials_138
 status: PUBLISHED
 createdAt: 2017-04-27T22:17:36.462Z
-updatedAt: 2023-03-29T13:25:16.724Z
-publishedAt: 2023-03-29T13:25:16.724Z
+updatedAt: 2023-08-25T14:52:20.340Z
+publishedAt: 2023-08-25T14:52:20.340Z
 firstPublishedAt: 2017-04-27T23:00:44.871Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -31,6 +31,10 @@ Access the [Generate your polygons with geojson.io](http://geojson.io/#map=2/20.
 6. With the polygon ready, copy the JSon created on the right side of the screen and save it to a file.
 
 This JSON will be used to add the polygon to the platform, that will translate that language to understand which Zip Codes are included in your area.
+
+<div class="alert alert-danger">
+When generating a polygon, it is not possible to delimit overlapping areas, meaning it is not possible to overlap geographic coordinates.
+</div>
 
 ## How to add a polygon
 

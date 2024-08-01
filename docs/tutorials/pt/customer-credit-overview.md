@@ -3,8 +3,8 @@ title: 'Customer Credit - Visão Geral'
 id: 1uIqTjWxIIIEW0COMg4uE0
 status: PUBLISHED
 createdAt: 2018-11-08T17:11:28.486Z
-updatedAt: 2023-03-29T14:46:02.462Z
-publishedAt: 2023-03-29T14:46:02.462Z
+updatedAt: 2024-02-09T21:37:56.199Z
+publishedAt: 2024-02-09T21:37:56.199Z
 firstPublishedAt: 2018-11-08T19:14:39.491Z
 contentType: tutorial
 productTeam: Financial
@@ -15,85 +15,76 @@ legacySlug: credit-control-visao-geral
 subcategory: 7EWKfPIGfmI0G8iMYK8Aiy
 ---
 
-O Customer Credit é a app da VTEX que permite a loja oferecer crédito para os clientes de confiança. Com mais tempo para pagar o cliente tem maior poder de compra.
-
-Pela plataforma é possível configurar prazos e parcelamentos e gerenciar contas, definindo limites de crédito e acompanhando os  títulos de cobrança emitidos. Seus clientes têm visibilidade sobre o crédito disponível e os valores a pagar direto no site da sua loja.
+O Customer Credit é a app da VTEX que permite uma loja oferecer crédito exclusivo a seus clientes de confiança, aumentando o poder de compra ao permitir um prazo maior para pagamento dos pedidos.
 
 ## Quando utilizar
 
-Modelos de negócio que têm uma relação comercial com seus clientes costumam precisar de um sistema de gerenciamento de crédito para poder emitir boletos faturados sem pôr em risco o fluxo de caixa da empresa. 
+Modelos de negócio que possuem uma relação comercial consolidada com seus clientes geralmente necessitam de um sistema de gerenciamento de crédito que permita a emissão de boletos faturados sem comprometer o fluxo de caixa da empresa.
 
-A aprovação desses pagamentos em plataformas de e-commerce costumam demandar esforço manual de aprovação pedido a pedido, mesmo com clientes que possuem crédito disponível.
+A aprovação desses tipos de pagamentos em plataformas de ecommerce costumam demandar esforço manual de aprovação pedido a pedido, mesmo para aqueles clientes que já possuem crédito disponível.
 
-Lojas com relações B2B como distribuidores de redes varejistas, venda direta para revendedores, material de escritório para empresas ou insumos industriais podem utilizar o Customer Credit para oferecer uma experiência integrada à plataforma VTEX de compra e pagamento a prazo. 
+Lojas que realizam transações comerciais B2B, tais como, distribuidores de redes varejistas, venda direta para revendedores, materiais de escritório para empresas ou insumos industriais, podem utilizar o Customer Credit para oferecer uma experiência de compra e pagamento a prazo integrada à plataforma VTEX.
 
 ## Como funciona
 
-![Fluxo básico do Customer Credit](https://images.ctfassets.net/alneenqid6w5/uTJmG1ZC48mCQeQKMCQ4m/5c64e88daa90836eeeabb7903af91a0f/cc-flow_pt.gif)
-*Fluxo básico de como funciona o Customer Credit nas lojas VTEX.*
+Por meio do Admin VTEX ou da [API do Customer Credit](https://developers.vtex.com/docs/api-reference/customer-credit-api), você pode realizar as seguintes ações no app do Customer Credit:
 
-Por ter sido desenvolvido na VTEX, o Customer Credit está plenamente integrado ao SmartCheckout, o que significa que a experiência de compra dos seus clientes permanece a mesma.
-Você pode escolher os usuários que receberão crédito, definir o limite de crédito para cada um deles e gerenciar individualmente cada título.
+- Criar e gerenciar contas para os clientes escolhidos
+- Definir limites e tolerâncias de crédito para cada conta
+- Configurar prazos e parcelamentos de títulos de cobrança
+- Acompanhar e modificar o status dos títulos emitidos
 
-O Customer Credit pode ser utilizado tanto pela interface web do Admin quanto pela API.
+<div class="alert alert-info">
+Quando instalado, o Customer Credit aparece como uma opção de pagamento no Checkout somente para os clientes selecionados pelo lojista, exibindo o valor de crédito disponível para ser utilizado na compra.
+</div>
 
-## Conceitos
+Veja abaixo o fluxo básico de funcionamento do Customer Credit nas lojas VTEX:
 
-### Conta corrente
+![GIF_CC_PT](//images.ctfassets.net/alneenqid6w5/6e4DmVcrW4FCvZgrhOYQDe/4aa3ae0434d69c91f827675128a5ae13/GIF_CC_PT.gif)
 
-Para conseguir ter acesso ao pagamento a prazo o usuário deve ter acesso a uma conta cadastrada no Customer Credit. Esta conta é composta por identificadores como e-mail e documento, assim como o limite de crédito definido.
+## Definições no Customer Credit
+
+### Conta (Customer Credit account)
+
+Para utilizar o Customer Credit como meio de pagamento em uma compra, o cliente deve ter uma conta cadastrada pelo lojista no app do Customer Credit. Esta conta possui informações como, tipo e número de documento do titular, email, limite e tolerância de crédito.
 
 ### Limite de crédito
 
-Para cada conta você deve definir um limite de crédito. Esse limite indica o valor máximo que a conta pode ter em títulos abertos ao mesmo tempo. 
-Quando títulos forem pagos ou cancelados, seus valores restauram o limite de crédito. O limite pode ser redefinido a qualquer momento pelo usuário com as permissões necessárias.
+Cada conta possui um limite de crédito cadastrado no momento de sua abertura. Esse limite indica o valor máximo que o cliente pode utilizar para realizar uma ou mais compras  ao mesmo tempo via Customer Credit.
 
-No momento da compra, o cliente tem visibilidade de quanto crédito tem disponível. Quando não é o suficiente para o valor total, não é possível utilizar seus créditos.
+<div class="alert alert-warning">
+O limite de crédito de uma conta pode ser alterado pelo lojista a qualquer momento.
+</div>
 
-O limite de crédito definido em uma conta também pode ser utilizado por mais de um dependente. 
+### Crédito disponível
+
+Valor que o cliente ainda tem disponível em sua conta para realizar compras por meio do Customer Credit.
+
+Sempre que o cliente conclui uma compra e o pedido é faturado, o valor do crédito disponível diminui. Entretanto, após o cliente efetuar o pagamento do título emitido, o valor de crédito disponível retorna ao valor pré-compra.
+
+<div class="alert alert-warning">
+No momento de uma compra, o cliente tem visibilidade de quanto crédito é possível utilizar via Customer Credit. Caso o valor da compra seja maior que o crédito disponível, o pagamento não poderá ser realizado por meio do Customer Credit.
+</div>
 
 ### Título
 
-Título são referências de pagamentos futuros. Eles são automaticamente criados quando um pedido pago com Customer Credit é faturado. Ele é composto por data de vencimento, valor e descrição. 
+Título é o documento gerado após o cliente realizar uma compra utilizando o Customer Credit como meio de pagamento e o pedido ser faturado.
 
-Um link de pagamento externo pode ser adicionado a cada título para facilitar sua liquidação.
-
-Há 3 estados possíveis para os títulos: **Aberto**, **Pago** e **Cancelado**. Na interface haverá um 4o estado, o **Vencido**, mas que é na realidade um título em *Aberto* cuja data de vencimento está expirada.
-
-Um título é sempre criado com o status de Aberto, e dependendo de ações do Admin ou chamadas de API pode transitar para o estado de Pago ou Cancelado. 
-
-### Tolerância
-
-Permite que uma compra seja aprovada mesmo que ela ultrapasse o crédito disponível do usuário. Caso a funcionalidade seja ligada, uma porcentagem poderá ser configurada individualmente para cada conta cadastrada.
+Em casos de compras parceladas, os títulos são gerados de acordo com o número de parcelas. Por exemplo, uma compra efetuada com pagamento em 10x no Customer Credit irá gerar 10 títulos relacionados ao mesmo número do pedido.
 
 ### Prazos e parcelamentos
 
-O Customer Credit permite que você configure como quiser os prazos de parcelamentos que estarão disponíveis para seus clientes. Alguns exemplos comuns de prazos usados são de 7 dias, 28, 45, 30/60, 30/60/90, etc.
+O Customer Credit permite que o lojista configure diferentes cenários de prazos e parcelamentos de títulos para oferecer uma maior flexibilidade de pagamento aos clientes cadastrados.
 
 ### Pré-autorização e liquidação
 
-Após aprovado o pagamento com crédito, o sistema pré-autoriza o valor, reservando-o automaticamente após 5 dias úteis ou até que o pedido seja faturado. Nesse momento ocorre a liquidação do valor na conta e os títulos são gerados.
+Após o cliente realizar a compra utilizando o Customer Credit, o pagamento é aprovado como um crédito e a plataforma pré-autoriza o valor, reservando-o automaticamente após 5 dias úteis ou até que o pedido seja faturado. Nesse momento ocorre a liquidação do valor na conta e os títulos de pagamento são gerados.
 
-O fluxo segue o mesmo padrão dos cartões de crédito: modificações feitas no pedido durante o período de pré-autorização alteram o valor de crédito reservado. 
+O fluxo no Customer Credit é similar ao de cartões de crédito em relação a modificações no pedido. Quando uma alteração de valor no pedido ocorre durante o período de pré-autorização, o valor do crédito é alterado.
 
-As modificações feitas após a liquidação, ou seja, após a emissão dos títulos, atualizam os títulos já emitidos caso o valor diminua e emitem novos títulos caso o valor do pedido aumente. 
-
-## Pontos de contato
-
-### Admin
-
-A interface do Customer Credit no Admin da VTEX fornece visibilidade completa do sistema: títulos, contas e configurações gerais. A interface também permite você buscar, filtrar e ordenar dados, além de importá-los e exportá-los. 
-
-### Checkout
-
-É pelo Checkout da VTEX que o usuário poderá fechar compras usando o Customer Credit. O sistema irá verificar automaticamente se o usuário já possui uma conta com crédito e, caso positivo, permitirá que ele se autentique para visualizar o crédito disponível e as opções de prazos e parcelamentos para fechar a compra.
-
-### Meus Créditos
-
-É a interface pela qual o seu cliente terá acesso às informações de sua conta. Ela é muito similar à página de Contas do Admin da VTEX. Nela o usuário enxerga seus limites disponíveis, títulos pagos e em aberto, além do histórico da conta.
+<div class="alert alert-warning">
+Se for necessário alterar  uma ordem para diminuir o seu valor após o período de liquidação (emissão de títulos), o sistema irá atualizar os títulos para o novo valor. Caso o valor do pedido seja aumentado, o sistema criará novos títulos.
+</div>
 
 ## Instalação e configuração
-Preparamos um guia detalhado para você [começar a usar o Customer Credit na sua loja](/pt/tracks/customer-credit-como-comecar). Acesse e ofereça crédito exclusivo para seus melhores clientes agora mesmo.
-
-Para maiores informações sobre as APIs do Customer Credit, acesse [Customer Credit API - Overview](https://developers.vtex.com/docs/api-reference/customer-credit-api).
-
+Para instalar e configurar o Customer Credit em sua loja, acesse a Track [Customer Credit - Como começar](https://help.vtex.com/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/36grlQ69NK6OCuioeekyCs).

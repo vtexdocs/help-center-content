@@ -1,10 +1,10 @@
 ---
 title: 'Dashboard'
 id: 7vg42kAdhUQeWBzncsSymN
-status: PUBLISHED
+status: DRAFT
 createdAt: 2023-01-24T15:01:36.426Z
-updatedAt: 2023-01-26T12:57:04.230Z
-publishedAt: 2023-01-26T12:57:04.230Z
+updatedAt: 2024-01-05T17:14:37.506Z
+publishedAt: 
 firstPublishedAt: 2023-01-25T14:42:22.919Z
 contentType: trackArticle
 productTeam: Shopping
@@ -16,7 +16,7 @@ trackSlugEN: conversational-commerce
 
 On the Dashboard page, VTEX store owners have access to metrics from the [VTEX Conversational Commerce](https://help.vtex.com/en/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/1NwwADrU70v3roPUV7dWxI) channel. In this dashboard, you can view the sales performance and session indicators, filter them by period and export them to a CSV file.
 
-![Conversational Commerce Analytics Panel](https://images.ctfassets.net/alneenqid6w5/1kQwpA3cAfiW4OdlGOYjOf/d138299cada7a34e32a0a5189ee1a5f7/Conversational_Commerce_Analytics_Panel_EN.png)
+![Conversational Commerce Analytics Panel](//images.ctfassets.net/alneenqid6w5/1kQwpA3cAfiW4OdlGOYjOf/d138299cada7a34e32a0a5189ee1a5f7/Conversational_Commerce_Analytics_Panel_EN.png)
 
 ## Data
 

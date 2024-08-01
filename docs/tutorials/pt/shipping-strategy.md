@@ -1,10 +1,10 @@
 ---
-title: 'Estratégia de Envio'
+title: 'Estratégia de envio'
 id: 58vLBDbjYVQzJ6rRc5QNz3
 status: PUBLISHED
 createdAt: 2021-07-15T17:04:23.563Z
-updatedAt: 2021-09-23T22:21:40.782Z
-publishedAt: 2021-09-23T22:21:40.782Z
+updatedAt: 2024-01-31T15:00:05.216Z
+publishedAt: 2024-01-31T15:00:05.216Z
 firstPublishedAt: 2021-07-15T17:27:37.590Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -17,7 +17,7 @@ subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 
 Estratégia de envio é a relação entre estoque, doca e política de envio. A forma que   estoque, doca e política de envio se comunicam definirá a combinação de estrutura para entrega dos pedidos da loja.
 
-![EstrategiaEnvio](//images.contentful.com/alneenqid6w5/91iqVknOpCjUKO1XQaYvq/02cad4cbd4829e774e2b51474e4675cf/Frame_2__1_.svg)
+![shipping_strategy_PT](//images.ctfassets.net/alneenqid6w5/1LdEuL3gjF12uwFj4ya6OL/c60984b010b96980383798cffad3527f/shipping_strategy_PT.png)
 
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
    <tr class="bb b--muted-3">
@@ -43,14 +43,13 @@ Estratégia de envio é a relação entre estoque, doca e política de envio. A 
     </tr>
 </table>
 
-<div class="alert alert-warning">
-A ordem de cadastro sugerida na plataforma VTEX para o funcionamento esperado do sistema logístico é:
-<body>
-<ol>
-<li><a href="https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV">Política Comercial;</a></li>
-  <li><a href="https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140">Política de Envio;</a></li>
-  <li><a href="https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj">Doca;</a></li>
-<li><a href="https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137">Estoque.</a></li>
-</ol>
-</body>
-</div>
+## Primeiras configurações logísticas
+
+As configurações podem ser realizadas pelo Admin VTEX ou por API. Se você está começando a configurar sua estratégia de envio, a ordem de cadastro sugerida é a seguinte:
+
+| **Assunto** | **Configuração via Admin VTEX** | **Configuração via API** |
+| :--- | :--- | :--- |
+| 1. [Política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) | [Criar uma política de envio](https://help.vtex.com/pt/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT) | [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) |
+| 2. [Estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) | [Gerenciar estoque](https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |
+| 3. [Doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) | [Gerenciar doca](https://help.vtex.com/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
+

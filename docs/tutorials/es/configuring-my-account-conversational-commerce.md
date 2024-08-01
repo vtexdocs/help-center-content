@@ -1,10 +1,10 @@
 ---
 title: 'Configurar Mi cuenta (Conversational Commerce)'
 id: 42bnIdyC2c5dwz9KKT0UKc
-status: PUBLISHED
+status: DRAFT
 createdAt: 2023-03-07T19:10:12.107Z
-updatedAt: 2023-03-07T20:00:20.806Z
-publishedAt: 2023-03-07T20:00:20.806Z
+updatedAt: 2024-01-05T16:28:41.167Z
+publishedAt: 
 firstPublishedAt: 2023-03-07T19:58:45.529Z
 contentType: tutorial
 productTeam: Shopping
@@ -24,7 +24,7 @@ subcategory: 5bBAgUbHdh6ovdZ4kGsN7O
 
 ## Campos de configuración de conversación
 
-![my account - conversational commerce - ES](https://images.ctfassets.net/alneenqid6w5/6HpER9MIEWSWz1ULYD22h8/78adcfa1fc6e5d221e9bcd57aee82a28/image.png)
+![my account - conversational commerce - ES](//images.ctfassets.net/alneenqid6w5/6HpER9MIEWSWz1ULYD22h8/78adcfa1fc6e5d221e9bcd57aee82a28/image.png)
 
 - **Idioma: **el idioma predeterminado para los mensajes del bot con los clientes en VTEX Conversational Commerce. Campo obligatorio.
 

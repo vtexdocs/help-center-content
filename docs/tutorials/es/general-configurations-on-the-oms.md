@@ -3,8 +3,8 @@ title: 'Configuraciones Generales de los Pedidos'
 id: tutorials_194
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:49.644Z
-updatedAt: 2023-03-29T16:11:56.900Z
-publishedAt: 2023-03-29T16:11:56.900Z
+updatedAt: 2024-07-02T19:07:22.178Z
+publishedAt: 2024-07-02T19:07:22.178Z
 firstPublishedAt: 2017-04-27T23:00:47.468Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -19,7 +19,7 @@ Es posible realizar configuraciones directamente relacionadas con las condicione
 
 En el Admin VTEX, accede a **Configuración de la tienda > Pedidos > Configuración**, o escribe *Pedidos* en la barra de búsqueda en la parte superior de la página, y haga clic en *Configuración de la tienda / Pedidos*.  
 
-![configuracoes_pedidos_es](https://images.ctfassets.net/alneenqid6w5/3Pg3IFrgPiGdwsIJowvNBy/228fb71ccb74cc99cb820bac2b5a94d1/configuracoes_pedidos_es.png)
+![configuracoes_pedidos_es](//images.ctfassets.net/alneenqid6w5/3Pg3IFrgPiGdwsIJowvNBy/228fb71ccb74cc99cb820bac2b5a94d1/configuracoes_pedidos_es.png)
 
 ## Carrito
 
@@ -33,7 +33,7 @@ Esta configuración es un flag que activa o inactiva la exigencia de una autenti
 
 - **Cantidad mínima de ítems en el carrito:** _Estándar: 1 ítem._ Esto impedirá que el cliente cierre la compra sin tener al menos el valor en cantidad de ítems igual al definido en este campo.
 - **Cifras decimales que se considerarán:** _Estándar: 2 cifras._ Esto hará con que los precios de los Productos sean ilustrados de acuerdo con la cantidad de cifras decimales definidas. No se hará redondeo de valor. 
-- **Valor mínimo total del carrito:** _Estándar: R$ 0,10._ Así como la cantidad mínima de ítems en el carrito, esto impedirá que el cliente cierre la compra sin tener al menos el valor en productos igual al definido en este campo.
+- **Valor mínimo total del carrito:** _Estándar: R$ 0,10._ Así como la cantidad mínima de ítems en el carrito, esto impedirá que el cliente cierre la compra sin tener al menos el valor en productos igual al definido en este campo. El valor mínimo del carrito también incluye tasas y costos de envío. Es el valor final del pedido que está siendo calculado.
 
 ## Pedidos
 

@@ -3,8 +3,8 @@ title: 'Configurar pagamento com Ebanx'
 id: 4yKdQrt57AW7aElfHH4QKM
 status: PUBLISHED
 createdAt: 2023-03-22T14:27:42.440Z
-updatedAt: 2023-03-23T12:45:53.859Z
-publishedAt: 2023-03-23T12:45:53.859Z
+updatedAt: 2024-01-23T18:07:19.598Z
+publishedAt: 2024-01-23T18:07:19.598Z
 firstPublishedAt: 2023-03-22T17:04:49.283Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pagamento-com-ebanx
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento Ebanx. Por meio deste conector, sua loja pode realizar vendas por meio de boleto bancário, cartões de crédito e PIX.
+Na VTEX, é possível realizar a integração com o provedor de pagamento Ebanx. Por meio deste provedor, sua loja pode realizar vendas por meio de boleto bancário, cartões de crédito e PIX.
 
-Para configurar a afiliação Ebanx, siga os passos abaixo:
+Para configurar Ebanx, siga os passos abaixo:
 
-1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão `+`.
-3. Clique no conector __Ebanx__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __Ebanx__ na barra de busca e clique sobre o nome do provedor.
 4. Clique em __Autorizar__. Você será redirecionado para o ambiente do Ebanx.
 5. No ambiente do Ebanx, insira os seus dados de login e senha da conta Ebanx. Siga as instruções indicadas para concluir a vinculação da conta Ebanx com a VTEX.
 6. Ao retornar ao __Admin VTEX__, clique em `Salvar`.

@@ -3,8 +3,8 @@ title: 'Compartilhar carrinho utilizando o VTEX Sales App Social Selling'
 id: 6deiffo22iKkY27PkfstXy
 status: PUBLISHED
 createdAt: 2021-08-05T14:57:10.773Z
-updatedAt: 2023-05-31T15:22:18.271Z
-publishedAt: 2023-05-31T15:22:18.271Z
+updatedAt: 2023-07-26T19:00:02.450Z
+publishedAt: 2023-07-26T19:00:02.450Z
 firstPublishedAt: 2021-08-05T15:08:06.961Z
 contentType: trackArticle
 productTeam: Shopping
@@ -14,8 +14,7 @@ trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugPT: instore-usando-o-app
 ---
 
-
-A funcionalidade Social Selling no inStore permite que vendedores selecionem produtos e compartilhem o carrinho preenchido utilizando um QR code ou enviando um link por canais como o WhatsApp ou outras redes sociais. Dessa forma, seus clientes podem realizar o pagamento e concluir a compra em seu próprio celular, tablet ou computador.
+A funcionalidade Social Selling no VTEX Sales App permite que vendedores selecionem produtos e compartilhem o carrinho preenchido utilizando um QR code ou enviando um link por canais como o WhatsApp ou outras redes sociais. Dessa forma, seus clientes podem realizar o pagamento e concluir a compra em seu próprio celular, tablet ou computador.
 
 Existem duas formas de utilizar essa funcionalidade:
 
@@ -24,7 +23,7 @@ Existem duas formas de utilizar essa funcionalidade:
 
 ## Sugestão de carrinho
 
-Essa opção possibilita compartilhar um carrinho preenchido com um ou mais clientes. Após adicionar produtos ao carrinho no inStore, o vendedor pode seguir os passos abaixo para compartilhar o link.
+Essa opção possibilita compartilhar um carrinho preenchido com um ou mais clientes. Após adicionar produtos ao carrinho no VTEX Sales App, o vendedor pode seguir os passos abaixo para compartilhar o link.
 
 1. Clique no botão `Compartilhar`.
 2. Clique na opção `Sugestão de carrinho`.
@@ -38,7 +37,7 @@ Essa opção possibilita compartilhar um carrinho preenchido com um ou mais clie
 
 Veja o passo a passo ilustrado a seguir.
 
-![socialselling-sugestaocarrinho-pt](https://images.ctfassets.net/alneenqid6w5/4UJM2FglGqcJGdFJqZ9AQg/e0ce46b332549816ac9ff81a99d39879/socialselling-sugestaocarrinho-pt.gif)
+![socialselling-sugestaocarrinho-pt](//images.ctfassets.net/alneenqid6w5/4UJM2FglGqcJGdFJqZ9AQg/e0ce46b332549816ac9ff81a99d39879/socialselling-sugestaocarrinho-pt.gif)
 
 O vendedor pode enviar o mesmo link para vários clientes, quantas vezes desejar. Cada vez que uma pessoa acessar esse link, um novo carrinho será gerado, exatamente igual ao criado no inStore. Cada carrinho acessado também fica associado à conta do vendedor e, se houver, ao código do vendedor.
 
@@ -64,4 +63,4 @@ Nesse caso, o vendedor precisa colocar itens no carrinho, preencher as informaç
 
 Veja o passo a passo ilustrado abaixo.
 
-![socialselling-paymentlink-pt](https://images.ctfassets.net/alneenqid6w5/hCgVTtE5YrsUFA2WHKrny/c00c97d9a8eec83b259d30793879d019/socialselling-paymentlink-pt.gif)
+![socialselling-paymentlink-pt](//images.ctfassets.net/alneenqid6w5/hCgVTtE5YrsUFA2WHKrny/c00c97d9a8eec83b259d30793879d019/socialselling-paymentlink-pt.gif)

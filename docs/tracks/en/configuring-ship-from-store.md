@@ -3,8 +3,8 @@ title: 'Ship From Store'
 id: 50GAmxxFsJoLWqcnMysWdl
 status: PUBLISHED
 createdAt: 2020-06-30T21:36:43.926Z
-updatedAt: 2023-05-31T14:45:10.189Z
-publishedAt: 2023-05-31T14:45:10.189Z
+updatedAt: 2023-07-26T18:44:48.356Z
+publishedAt: 2023-07-26T18:44:48.356Z
 firstPublishedAt: 2020-06-30T21:45:36.187Z
 contentType: trackArticle
 productTeam: Shopping
@@ -16,11 +16,11 @@ trackSlugEN: unified-commerce-strategies
 
 The **Ship From Store** strategy allows a customer who wants to receive the products at home to receive them from the warehouse of a physical store. In other words, in this scenario, the store functions as a mini distribution center.
 
-![35. Setting up Shipping From Store - 1](https://images.ctfassets.net/alneenqid6w5/7uHIuX10TvTGJS1kkwPmBb/6847796e390c9d18123eea24f87469c4/35._Setting_up_Shipping_From_Store_-_1.png)
+![35. Setting up Shipping From Store - 1](//images.ctfassets.net/alneenqid6w5/7uHIuX10TvTGJS1kkwPmBb/6847796e390c9d18123eea24f87469c4/35._Setting_up_Shipping_From_Store_-_1.png)
 
 This type of logistics helps your operation to reduce costs and shipping time. Instead of having only the main warehouses - usually away from the central areas of cities - you now have a more capillary delivery network.
 
-Consider this example: a customer who is at homeplaces an order on the e-commerce and wants to receive the products at home. Let's say you have a physical store in their neighborhood, 500 meters from the customer's home. If the store has the products they ordered in their local inventory, the Shipping From Store strategy allows these products to be shipped to the customer from that store - at a lower cost for you and with a better delivery time for the customer.
+Consider this example: a customer who is at homeplaces an order on the ecommerce and wants to receive the products at home. Let's say you have a physical store in their neighborhood, 500 meters from the customer's home. If the store has the products they ordered in their local inventory, the Shipping From Store strategy allows these products to be shipped to the customer from that store - at a lower cost for you and with a better delivery time for the customer.
 
 ## Prerequisites
 

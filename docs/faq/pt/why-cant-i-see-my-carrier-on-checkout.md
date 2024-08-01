@@ -3,8 +3,8 @@ title: 'Por que minha transportadora não aparece no checkout?'
 id: frequentlyAskedQuestions_165
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:09.470Z
-updatedAt: 2023-03-20T20:32:20.572Z
-publishedAt: 2023-03-20T20:32:20.572Z
+updatedAt: 2023-08-25T15:13:42.026Z
+publishedAt: 2023-08-25T15:13:42.026Z
 firstPublishedAt: 2017-04-27T23:01:43.444Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
@@ -25,6 +25,10 @@ Vale ressaltar que antes de prosseguir a leitura desse artigo, é preciso garant
 No momento de cadastro de uma transportadora, é preciso incluir o [método de envio](https://help.vtex.com/pt/tutorial/como-funciona-o-tipo-de-entrega/) desta transportadora. No checkout, são exibidos os _métodos de envio_ e não o nome das transportadoras.
 
 O checkout exibe sempre a transportadora mais rápida/barata entre as opções de um mesmo métodos de envio. Assim, uma transportadora não aparece no checkout quando outra do mesmo tipo tem menor prazo/custo cadastrado.
+
+<div class="alert alert-warning">
+O critério de desempate na concorrência entre transportadoras é a priorização do menor custo de envio.
+</div>
 
 ### Solução
 

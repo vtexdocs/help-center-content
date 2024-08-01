@@ -3,8 +3,8 @@ title: 'Se está estudiando una política de envíos que no entregue los fines d
 id: 25bhUZXA9sZvyFVNeMUSJl
 status: PUBLISHED
 createdAt: 2022-06-08T18:32:07.971Z
-updatedAt: 2022-11-25T21:59:34.643Z
-publishedAt: 2022-11-25T21:59:34.643Z
+updatedAt: 2024-02-16T20:25:34.078Z
+publishedAt: 2024-02-16T20:25:34.078Z
 firstPublishedAt: 2022-06-08T18:32:08.836Z
 contentType: knownIssue
 productTeam: Logistics
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: se-esta-estudiando-una-politica-de-envios-que-no-entregue-los-fines-de-semana
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 594828
 ---
 

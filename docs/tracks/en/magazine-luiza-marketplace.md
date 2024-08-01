@@ -3,8 +3,8 @@ title: 'Magazine Luiza Marketplace'
 id: 5CEVGKgtrMuifbjNoo8jKX
 status: PUBLISHED
 createdAt: 2021-03-16T19:41:45.000Z
-updatedAt: 2021-03-19T16:23:48.653Z
-publishedAt: 2021-03-19T16:23:48.653Z
+updatedAt: 2024-07-26T18:58:37.335Z
+publishedAt: 2024-07-26T18:58:37.335Z
 firstPublishedAt: 2021-03-18T14:15:52.422Z
 contentType: trackArticle
 productTeam: Channels

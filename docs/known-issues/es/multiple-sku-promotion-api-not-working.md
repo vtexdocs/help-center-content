@@ -3,8 +3,8 @@ title: 'La API de promoción de múltiples Sku no funciona'
 id: 38CLe2oIWHGNgjL4L0uIxz
 status: PUBLISHED
 createdAt: 2023-01-09T21:18:05.077Z
-updatedAt: 2023-01-09T21:18:05.807Z
-publishedAt: 2023-01-09T21:18:05.807Z
+updatedAt: 2024-02-16T20:23:56.065Z
+publishedAt: 2024-02-16T20:23:56.065Z
 firstPublishedAt: 2023-01-09T21:18:05.807Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: la-api-de-promocion-de-multiples-sku-no-funciona
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 729990
 ---
 

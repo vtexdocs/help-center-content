@@ -3,8 +3,8 @@ title: 'Mi suscripción muestra un mensaje de error cuando la suscripción está
 id: 4p9jzcVzB6E5b6PTm2Ng5E
 status: PUBLISHED
 createdAt: 2022-12-15T19:08:41.210Z
-updatedAt: 2022-12-15T19:08:42.066Z
-publishedAt: 2022-12-15T19:08:42.066Z
+updatedAt: 2024-03-11T19:58:56.132Z
+publishedAt: 2024-03-11T19:58:56.132Z
 firstPublishedAt: 2022-12-15T19:08:42.066Z
 contentType: knownIssue
 productTeam: Order Management

@@ -3,8 +3,8 @@ title: '[B2W] Valor do frete em OMS VTEX'
 id: 7kVoMojCNmOHatg2L1ykBP
 status: PUBLISHED
 createdAt: 2022-10-04T19:43:17.116Z
-updatedAt: 2022-11-25T21:55:17.709Z
-publishedAt: 2022-11-25T21:55:17.709Z
+updatedAt: 2024-02-16T20:23:26.779Z
+publishedAt: 2024-02-16T20:23:26.779Z
 firstPublishedAt: 2022-10-04T19:43:20.129Z
 contentType: knownIssue
 productTeam: Connections
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: b2w-valor-do-frete-em-oms-vtex
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 671748
 ---
 

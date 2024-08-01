@@ -3,8 +3,8 @@ title: 'Set up Mundi gateway'
 id: 2yn9dKzvZOF5tn4RCX2Nbq
 status: PUBLISHED
 createdAt: 2019-04-04T21:12:48.808Z
-updatedAt: 2023-03-26T21:57:24.882Z
-publishedAt: 2023-03-26T21:57:24.882Z
+updatedAt: 2024-01-23T19:02:29.463Z
+publishedAt: 2024-01-23T19:02:29.463Z
 firstPublishedAt: 2019-04-04T21:20:22.149Z
 contentType: tutorial
 productTeam: Financial
@@ -21,13 +21,13 @@ At VTEX, it is possible to integrate with the Mundi payment provider.
 If you also want to use Mundi's anti-fraud, the settings for this function must be performed by the company's own hub. In case of doubts about this stage of the operation, consult Mundi's technical support.
 </div>
 
-To configure Mundi affiliation, follow the steps below:
+To configure Mundi, follow the steps below:
 
-<ui>1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.</ui>
+<ui>1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.</ui>
 
-<ui>2. In the __Gateway affiliations__ tab, click on the __+__ button.</ui>
+<ui>2. On the providers screen, click the `New Provider` button.</ui>
 
-<ui>3. Click on the __Mundi__ connector.</ui>
+<ui>3. Type the name __Mundi__ in the search bar and click on the name of the provider.</ui>
 
 <ui>4. Fill in the __Application Key__ and __Application Token__ fields with data provided by Mundi.</ui>
 

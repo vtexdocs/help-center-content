@@ -3,8 +3,8 @@ title: 'Configurar Redireccionamientos'
 id: 4Gd2wLQFbCwTsh8RUDwSoL
 status: PUBLISHED
 createdAt: 2019-11-22T23:40:25.940Z
-updatedAt: 2023-03-30T19:34:08.021Z
-publishedAt: 2023-03-30T19:34:08.021Z
+updatedAt: 2024-06-17T12:20:22.176Z
+publishedAt: 2024-06-17T12:20:22.176Z
 firstPublishedAt: 2019-11-25T17:36:44.905Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -26,7 +26,7 @@ Para configurar un redireccionamiento, es necesario seguir los siguientes pasos:
 
 Debes rellenar los siguientes campos:
 
-![redirecionamentos-adminv4-ES](https://images.ctfassets.net/alneenqid6w5/69CWrwXk38Qxwb9fNNzYyc/41f7ae70f06576fe650bb84d379f5288/image.png)
+![redirecionamentos-adminv4-ES](//images.ctfassets.net/alneenqid6w5/69CWrwXk38Qxwb9fNNzYyc/41f7ae70f06576fe650bb84d379f5288/image.png)
 
 ### Informaciones generales
 
@@ -34,6 +34,7 @@ Esta sección proporciona las siguientes informaciones generales sobre el redire
 
 - **Nombre**: nombre del conjunto de reglas del redireccionamiento creado.
 - **URL de redireccionamiento**: URL de destino al cual el cliente será dirigido. Debe ser registrado de forma absoluta - dirección completa - y no relativa. Ejemplo: `https://www.tienda.com/_secure/account/#/orders` en vez de `_secure/account/#/orders`.
+- **Idiomas:** idiomas en los que se aplicará el redireccionamiento. Campo solo disponible para tiendas que utilizan [configuración multidioma (beta)](https://help.vtex.com/es/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
 
 ### Reglas de activación
 

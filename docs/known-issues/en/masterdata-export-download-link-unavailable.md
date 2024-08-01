@@ -3,8 +3,8 @@ title: 'Masterdata Export Download Link Unavailable'
 id: 2oi0ABhQQxfPsKETeNUyvE
 status: PUBLISHED
 createdAt: 2022-07-08T13:50:43.220Z
-updatedAt: 2023-01-19T14:19:49.870Z
-publishedAt: 2023-01-19T14:19:49.870Z
+updatedAt: 2023-07-28T17:14:13.207Z
+publishedAt: 2023-07-28T17:14:13.207Z
 firstPublishedAt: 2022-07-08T13:50:43.638Z
 contentType: knownIssue
 productTeam: Storage
@@ -40,5 +40,5 @@ Currently, for data entities with several fields, when there's an attempt to exp
 ## Workaround
 
 
-fetch data via API https://developers.vtex.com/docs/api-reference/masterdata-api#get-/api/dataentities/-acronym-/search and/or download data into several, smaller spreadsheets
+**Right-click on the Download link and copy the link, then paste the link in another tab and the download will start or** fetch data via API https://developers.vtex.com/docs/api-reference/masterdata-api#get-/api/dataentities/-acronym-/search and/or download data into several, smaller spreadsheets
 

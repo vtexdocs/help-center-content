@@ -1,10 +1,10 @@
 ---
-title: 'Integration Settings'
+title: 'Integrations'
 id: 6wKQgKmu2FT6084BJT7z5V
 status: PUBLISHED
 createdAt: 2020-04-14T13:28:52.687Z
-updatedAt: 2020-04-20T20:15:39.952Z
-publishedAt: 2020-04-20T20:15:39.952Z
+updatedAt: 2024-01-24T19:12:30.626Z
+publishedAt: 2024-01-24T19:12:30.626Z
 firstPublishedAt: 2020-04-14T23:53:14.582Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -14,9 +14,17 @@ trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search
 ---
 
-Integration settings is the functionality responsible for the initial indexing of the Catalog with VTEX Intelligent Search. After installing the application, this will be the first step to integrating it with the Catalog.
+The **Store Settings** > **Intelligent Search** > **Integrations** page in the VTEX Admin handles the initial indexing of the Catalog with VTEX Intelligent Search. After installing the app, this will be the first step in integrating the app with the Catalog.
 
-The tool consists of a text informing about the indexing process and a Start button. Upon pressing the button, indexing starts and a link to the __Indexing status__ screen is displayed.
+Follow the instructions to start the integration process:
 
+1. In the VTEX Admin, go to **Store Settings**, or type **Store Settings** in the search bar at the top of the page.
+2. Under **Intelligent Search**, click **Integrations**.
+3. Click `Start Integration`.
 
-![config-int-EN](https://images.ctfassets.net/alneenqid6w5/6Dhh6x6Roi1vRePJDtbOFY/d642a9f13d421ef3f3062a5ff261ff39/config-int-EN.png)
+The indexing process will start. Once completed, the screen shown below will be displayed.
+
+![integracoes-is-en](//images.ctfassets.net/alneenqid6w5/3biSEYFprYPdnhQpgfpGhV/20ef33f4ff2b33fca08a777d6c3c90c2/integracoes-is-en.PNG)
+
+You don't need to repeat this process. After starting the integration, you can follow the indexing status on the [Indexing History](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH) page.
+

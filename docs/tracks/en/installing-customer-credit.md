@@ -3,8 +3,8 @@ title: ' Installing Customer Credit'
 id: 36grlQ69NK6OCuioeekyCs
 status: PUBLISHED
 createdAt: 2018-11-06T19:45:12.804Z
-updatedAt: 2020-08-17T22:17:50.649Z
-publishedAt: 2020-08-17T22:17:50.649Z
+updatedAt: 2024-02-08T11:31:30.622Z
+publishedAt: 2024-02-08T11:31:30.622Z
 firstPublishedAt: 2018-11-06T20:24:15.191Z
 contentType: trackArticle
 productTeam: Financial
@@ -14,20 +14,14 @@ trackId: 1hCRg21lXYy2seOKgqQ2CC
 trackSlugEN: customer-credit-getting-started
 ---
 
-In this track, we will explain the step by step to install and configure Customer Credit.
+In this track you will find step-by-step instructions for installing and configuring the Customer Credit app. For more information about this app, visit [Customer Credit - Overview](https://help.vtex.com/en/tutorial/customer-credit-overview--1uIqTjWxIIIEW0COMg4uE0).
 
-First of all, if this app’s concepts are new to you, we recommend that you read our article on [Customer Credit’s general concepts](https://help.vtex.com/en/tutorial/customer-credit-overview--1uIqTjWxIIIEW0COMg4uE0).
+To install Customer Credit in your store, follow the steps below:
 
-After reading it, you should be able to make purchases at VTEX stores using Customer Credit as a payment method.
+1. In the VTEX Admin, go to __Applications > Extensions Hub > App Store__, or type __App Store__ in the search bar at the top of the page.
+2. Type __Customer Credit__ in the search bar on the App Store page and click on the app icon.
+3. Click on the `Get App` button.
+4. Then click `Install App` and `INSTALL`.
+5. Refresh the page (by pressing the __F5__ key or your browser's refresh button).
 
-This way, we can proceed to the first step, which is installing the app. Check out the walk-through below:
-
-1. Access the VTEX [App Store](https://apps.vtex.com/ "App Store") page;
-2. Find the __Customer Credit__ icon;
-3. Click on the __“Get”__ button;
-4. Fill in the __Account info__ field with your store's __"Account Name"__;
-5. Click on the __“Confirm order and begin installation”__ button.
-
-You will then be redirected to your store's Admin. Log in and complete the installation by clicking on the “Install” button, located in the upper right corner of the screen.
-
-With the app installed, the new Customer Credit section will appear in the Admin, within the Transactions module.
+After the page loads, the new Customer Credit section can be accessed in the VTEX Admin under __Apps > Customer Credit__.

@@ -3,8 +3,8 @@ title: 'Component Seller Selector may present inconsistency in delivery/shipping
 id: 2agLvjXgT76ngdu3YsA6uh
 status: PUBLISHED
 createdAt: 2022-09-14T22:26:22.177Z
-updatedAt: 2022-11-25T22:13:07.124Z
-publishedAt: 2022-11-25T22:13:07.124Z
+updatedAt: 2024-02-16T20:28:08.976Z
+publishedAt: 2024-02-16T20:28:08.976Z
 firstPublishedAt: 2022-09-14T22:26:22.762Z
 contentType: knownIssue
 productTeam: Store Framework
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: component-seller-selector-may-present-inconsistency-in-deliveryshipping-prices
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 658452
 ---
 

@@ -19,7 +19,7 @@ Having done the initial settings for the [Amazon integration](/en/tutorial/integ
 
 The mapping will only be done once for each category. With that, even once you have done the mapping, when new products are created, they will be directly integrated. A __from/to__ of the attributes registered in VTEX will be made with the attributes accepted by Amazon.
 
-1. Create an __upload spreadsheet__ in the format ".xlsx" and fill in the columns title as shown below.![Modelo Atributos Amazon](https://images.ctfassets.net/alneenqid6w5/1oqAPItLPaMc8gYICU6oWa/7d54955d0c179a2fbcb036e62ede9dc3/Modelo_Atributos_Amazon.png)
+1. Create an __upload spreadsheet__ in the format ".xlsx" and fill in the columns title as shown below.![Modelo Atributos Amazon](//images.ctfassets.net/alneenqid6w5/1oqAPItLPaMc8gYICU6oWa/7d54955d0c179a2fbcb036e62ede9dc3/Modelo_Atributos_Amazon.png)
 
 2. Fill in the fields of the mapping spreadsheet as follows:
 
@@ -46,7 +46,7 @@ Note: If <strong>none</strong> of the category attributes is required by Amazon,
 
 Sample spreadsheet using the Clothing & Accessories category:
 
-![Amazon Mapeamento ](https://images.ctfassets.net/alneenqid6w5/5p6RrFb0T6my86cCOmW0c8/a5e93f7732929c9d9ea4cc0dd855b9a1/Amazon_Mapeamento.png)
+![Amazon Mapeamento ](//images.ctfassets.net/alneenqid6w5/5p6RrFb0T6my86cCOmW0c8/a5e93f7732929c9d9ea4cc0dd855b9a1/Amazon_Mapeamento.png)
 
 <div class = "alert alert-danger">
 Note that these values must conform to the ones from Amazon. Check which terms are allowed and make the From/To between what is registered in your SKU field in VTEX and the values accepted by Amazon.

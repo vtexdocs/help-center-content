@@ -3,8 +3,8 @@ title: 'Definição da política comercial para Dafiti'
 id: 54cBCKrJgqdrm61vxihY1g
 status: PUBLISHED
 createdAt: 2021-02-23T21:32:12.282Z
-updatedAt: 2022-12-08T20:36:49.783Z
-publishedAt: 2022-12-08T20:36:49.783Z
+updatedAt: 2023-08-11T18:10:58.039Z
+publishedAt: 2023-08-11T18:10:58.039Z
 firstPublishedAt: 2021-02-23T21:41:19.622Z
 contentType: trackArticle
 productTeam: Channels
@@ -14,7 +14,7 @@ trackId: 4wF4RBx9ygEkimW6SsKw8i
 trackSlugPT: configurar-integracao-da-dafiti
 ---
 
-Na VTEX, uma [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) é o que determina o sortimento de produtos, preços e estratégia de envio em um canal de venda. Ou seja, é por meio da política comercial que você define as configurações que serão aplicadas aos seus produtos na Netshoes.
+Na VTEX, uma [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) é o que determina o sortimento de produtos, preços e estratégia de envio em um canal de venda. Ou seja, é por meio da política comercial que você define as configurações que serão aplicadas aos seus produtos na Dafiti.
 
 Se as mesmas configurações de catálogo, preço e estratégia de envio da sua loja VTEX forem utilizadas na Dafiti, não é preciso [criar uma política comercial](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE) nova, pois uma mesma política comercial pode ser usada para diferentes canais de venda.
 

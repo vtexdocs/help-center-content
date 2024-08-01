@@ -1,10 +1,10 @@
 ---
 title: 'SKU Bindings'
 id: 1SmrVgNwjJX17hdqwLa0TX
-status: CHANGED
+status: PUBLISHED
 createdAt: 2022-05-27T17:27:26.963Z
-updatedAt: 2023-05-25T15:51:50.053Z
-publishedAt: 2023-03-31T19:05:52.334Z
+updatedAt: 2024-01-23T15:50:13.022Z
+publishedAt: 2024-01-23T15:50:13.022Z
 firstPublishedAt: 2022-05-31T17:14:23.589Z
 contentType: tutorial
 productTeam: Channels
@@ -27,7 +27,7 @@ By default, <a href="https://help.vtex.com/en/tutorial/seller-white-label--5orlG
 
 The **SKU Bindings** page allows the marketplace to track and manage the binding relationship between the seller’s SKUs and the ones from the marketplace. To access the page, go to the VTEX Admin, **Marketplace > Sellers > SKU Bindings**. You'll see the following interface:
 
-![sku-bindings-en](https://images.ctfassets.net/alneenqid6w5/3TrV8m2JLKuPjhKTtkY2Yl/9a76d4471db1707286f7464e19cadcb8/sku-bindings-en.png)
+![sku-bindings-en](//images.ctfassets.net/alneenqid6w5/3TrV8m2JLKuPjhKTtkY2Yl/9a76d4471db1707286f7464e19cadcb8/sku-bindings-en.png)
 
 The following table contains a description of the columns in the SKU binding list:
 

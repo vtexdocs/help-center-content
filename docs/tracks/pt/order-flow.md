@@ -3,8 +3,8 @@ title: 'Fluxo do pedido'
 id: 4811ExCe3WrEiRMV3sy9n8
 status: PUBLISHED
 createdAt: 2019-11-14T13:46:22.682Z
-updatedAt: 2022-08-08T22:25:52.457Z
-publishedAt: 2022-08-08T22:25:52.457Z
+updatedAt: 2023-10-24T15:32:07.852Z
+publishedAt: 2023-10-24T15:32:07.852Z
 firstPublishedAt: 2019-11-14T15:38:27.680Z
 contentType: trackArticle
 productTeam: Post-purchase
@@ -14,13 +14,13 @@ trackId: 2xkTisx4SXOWXQel8Jg8sa
 trackSlugPT: pedidos
 ---
 
-O __fluxo do pedido__ é o caminho percorrido por um pedido na plataforma VTEX, desde o momento em que o cliente clica no botão de Finalizar Compra até o momento em que o pedido é faturado ou cancelado.
+O [fluxo do pedido](https://help.vtex.com/pt/tutorial/order-flow-and-status--tutorials_196) é o caminho percorrido por um pedido na plataforma VTEX, desde o momento em que o cliente clica no botão de Finalizar Compra até o momento em que o pedido é faturado ou cancelado.
 
 Alterações no pedido - sejam elas causadas pelo cliente, pela loja ou por sistemas externos - geram mudanças no __status do pedido__. E com, isso, o pedido se movimenta dentro do fluxo.
 
 ## Marketplaces e Sellers
 
-Os conceitos de Marketplace e Seller são fundamentais para o entendimento do fluxo de um pedido na VTEX. Vamos entender por quê:
+Os conceitos de [Marketplace e Seller](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) são fundamentais para o entendimento do fluxo de um pedido na VTEX. Vamos entender por quê:
 
 - __Marketplace__ é o ambiente onde é realizado o fechamento do pedido, ou seja, onde o cliente realiza o processo de checkout. 
 - __Seller__ é o dono do SKU. É, portanto, o responsável pelo fulfilment - ou seja, por fazer a entrega do produto ao cliente. 
@@ -33,7 +33,7 @@ Toda loja que vende produtos em seu próprio ambiente e realiza suas próprias e
 
 ## Fluxo do pedido no Marketplace
 
-![Screen Shot Fluxo de Marketplace](https://images.ctfassets.net/alneenqid6w5/51d58fXMpuxCTqFCyLkdaV/21d945a4e3d519e1500a8b73f7c24c02/Screen_Shot_Fluxo_de_Marketplace.png)
+![Screen Shot Fluxo de Marketplace](//images.ctfassets.net/alneenqid6w5/51d58fXMpuxCTqFCyLkdaV/21d945a4e3d519e1500a8b73f7c24c02/Screen_Shot_Fluxo_de_Marketplace.png)
 
 Ocorre quando a loja atua apenas como Marketplace no pedido. Ou seja, quando a loja vende produtos de outra loja - seu Seller.
 
@@ -47,7 +47,7 @@ Então, o despacho é autorizado e logo em seguida entra-se no status `Carência
 
 ## Fluxo do pedido no Seller
 
-![screenshoot fluxo seller PT](https://images.ctfassets.net/alneenqid6w5/19xYHIDMJf3wClpHAnTwuf/8adf145a324fdbc36db70785f55675c0/screenshoot_fluxo_seller_PT.JPG)
+![screenshoot fluxo seller PT](//images.ctfassets.net/alneenqid6w5/19xYHIDMJf3wClpHAnTwuf/8adf145a324fdbc36db70785f55675c0/screenshoot_fluxo_seller_PT.JPG)
 
 Ocorre quando a loja atua como Seller. Ou seja, quando ela é a dona do produto.
 
@@ -61,7 +61,7 @@ O próximo status é então o de `Preparando entrega`, quando o Seller prepara a
 
 ## Fluxo completo do pedido
 
-![Screen Shot Fluxo completo](https://images.ctfassets.net/alneenqid6w5/7A1IWqoCQw4INm34u6lOWF/f21882fb0c337fbaf2ebb462ebb197f7/Screen_Shot_Fluxo_completo.png)
+![Screen Shot Fluxo completo](//images.ctfassets.net/alneenqid6w5/7A1IWqoCQw4INm34u6lOWF/f21882fb0c337fbaf2ebb462ebb197f7/Screen_Shot_Fluxo_completo.png)
 
 Ocorre quando a loja é ao mesmo tempo Marketplace e Seller. Ou seja, é quando o pedido foi fechado na loja e a própria loja é a dona do produto, sendo responsável pelo fulfillment.
 

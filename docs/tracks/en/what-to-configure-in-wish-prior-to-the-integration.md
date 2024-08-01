@@ -3,8 +3,8 @@ title: 'What to configure in Wish prior to the integration'
 id: 4mIn8NE9McE9BxKsAf9IcB
 status: PUBLISHED
 createdAt: 2019-11-13T16:43:49.316Z
-updatedAt: 2020-02-13T15:01:13.402Z
-publishedAt: 2020-02-13T15:01:13.402Z
+updatedAt: 2023-09-22T20:08:35.507Z
+publishedAt: 2023-09-22T20:08:35.507Z
 firstPublishedAt: 2019-11-19T17:27:37.060Z
 contentType: trackArticle
 productTeam: Channels

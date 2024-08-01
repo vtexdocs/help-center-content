@@ -3,8 +3,8 @@ title: 'Configure payment with Pix at Nubank'
 id: 2pJBJdtkvyn645rL2sxyJy
 status: PUBLISHED
 createdAt: 2022-07-19T16:38:08.465Z
-updatedAt: 2023-03-24T15:03:05.135Z
-publishedAt: 2023-03-24T15:03:05.135Z
+updatedAt: 2024-01-23T19:11:23.258Z
+publishedAt: 2024-01-23T19:11:23.258Z
 firstPublishedAt: 2022-07-19T16:56:30.888Z
 contentType: tutorial
 productTeam: Financial

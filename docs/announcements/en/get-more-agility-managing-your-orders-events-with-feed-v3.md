@@ -3,8 +3,8 @@ title: 'Get more agility managing your orders events with Feed v3'
 id: 49FssyfGcJfvGfrb3JQjVr
 status: PUBLISHED
 createdAt: 2019-02-18T19:55:07.210Z
-updatedAt: 2019-12-31T15:13:12.603Z
-publishedAt: 2019-12-31T15:13:12.603Z
+updatedAt: 2024-01-03T18:00:45.130Z
+publishedAt: 2024-01-03T18:00:45.130Z
 contentType: updates
 productTeam: Post-purchase
 author: 6AcGyun1hSWewU8YcaQiO
@@ -31,6 +31,5 @@ Once they are independent solutions, a migration is not needed and you can enabl
 
 ## What do you need to do
 
-Find the step-by-step for the Feed v3 setup in our [Order Management Feed v3](https://help.vtex.com/en/tutorial/orders-management-feed-v3)
-
+Find the setuo step-by-step in [Feed v3](https://developers.vtex.com/docs/guides/orders-feed).
 

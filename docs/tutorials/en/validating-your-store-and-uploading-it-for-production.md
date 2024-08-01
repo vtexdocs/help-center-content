@@ -1,10 +1,10 @@
 ---
 title: 'Validating the store to move it to production'
 id: tutorials_1419
-status: CHANGED
+status: DRAFT
 createdAt: 2017-04-27T21:56:14.582Z
-updatedAt: 2022-06-01T20:06:41.976Z
-publishedAt: 2019-12-31T15:29:01.968Z
+updatedAt: 2023-07-25T21:07:26.780Z
+publishedAt: 
 firstPublishedAt: 2017-04-27T23:03:49.725Z
 contentType: tutorial
 productTeam: Others

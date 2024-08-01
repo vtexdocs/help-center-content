@@ -3,8 +3,8 @@ title: 'Edição na Busca Explicada de buscas com acentos'
 id: 5rh2FSzIeSjnO7bUlEkJ9S
 status: PUBLISHED
 createdAt: 2022-02-23T21:59:57.268Z
-updatedAt: 2022-11-25T21:58:45.841Z
-publishedAt: 2022-11-25T21:58:45.841Z
+updatedAt: 2024-02-16T20:28:06.748Z
+publishedAt: 2024-02-16T20:28:06.748Z
 firstPublishedAt: 2022-02-23T21:59:57.508Z
 contentType: knownIssue
 productTeam: Intelligent Search
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: edicao-na-busca-explicada-de-buscas-com-acentos
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 434752
 ---
 

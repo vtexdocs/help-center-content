@@ -1,10 +1,10 @@
 ---
 title: 'Setting up payments with CieloV4'
 id: 7M2CqJxprwpDtbgLZHBoiI
-status: PUBLISHED
+status: DRAFT
 createdAt: 2022-07-20T14:25:28.188Z
-updatedAt: 2023-03-26T21:25:12.482Z
-publishedAt: 2023-03-26T21:25:12.482Z
+updatedAt: 2023-09-19T14:27:43.425Z
+publishedAt: 
 firstPublishedAt: 2022-07-20T17:07:25.186Z
 contentType: tutorial
 productTeam: Financial

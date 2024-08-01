@@ -3,8 +3,8 @@ title: 'VTEX Intelligent Search: configuración Multidioma (Beta)'
 id: 2WahlTESLXIJ9XBdQMdTYO
 status: PUBLISHED
 createdAt: 2021-03-09T22:44:16.513Z
-updatedAt: 2023-03-30T17:45:54.079Z
-publishedAt: 2023-03-30T17:45:54.079Z
+updatedAt: 2023-07-26T19:15:24.855Z
+publishedAt: 2023-07-26T19:15:24.855Z
 firstPublishedAt: 2021-03-10T21:13:35.816Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -27,11 +27,7 @@ VTEX Intelligent Search Multidioma expande las funcionalidades de [Intelligent S
 <p> En caso de que desee expandir su ecommerce a otro idioma, contacte a <a href="https://support.vtex.com/hc/pt-br/requests">nuestro Soporte</a> para que el equipo de VTEX realice las configuraciones necesarias.</p>
 </div>
 
-Cuando tiene VTEX Intelligent Search Multidioma instalada, la información del Catálogo de su tienda es traducida por la aplicación [Messages](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization), si la misma está registrada como términos traducibles de los siguientes campos: Nombre, Marca (solo si hay una traducción registrada por el administrador de la tienda), Descripción, Categorías, CategoryTrees, metadata, metadataKeyword, Especificaciones, SKU {name}.
-
-<div class="alert alert-warning">
-<p> Si un término no tiene una traducción registrada en Messages, es traducido por un servicio automático. Por eso, es importante <a href="https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization">registrar la traducción de todos los campos</a> para evitar efectos no deseados, como las traducciones literales que no reflejen la lengua que se utiliza en una región determinada. Si el término correcto no está registrado, el nombre de un producto como «whole milk», por ejemplo, corre el riesgo de ser traducido automáticamente como «leche entera» en lugar de «leche integral».</p>
-</div>
+Cuando tiene VTEX Intelligent Search Multidioma instalada, la información del Catálogo de su tienda es traducida por la aplicación [Messages](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization). Para eso, es importante registrar la traducción de los siguientes campos: Nombre, Marca (solo si hay una traducción registrada por el administrador de la tienda), Descripción, Categorías, CategoryTrees, metadata, metadataKeyword, Especificaciones, SKU {name}. Lea la guía para desarrolladores [Traducción del contenido del catálogo](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization) para obtener más información.
 
 A través de [Multi-Tenant API](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-multi-language-stores), VTEX Intelligent Search Multidioma obtiene todos los lugares y respectivos idiomas (ej.: pt-br, en-GB) registrados en la tienda. Cada lugar posee una URL propia.
 
@@ -47,7 +43,7 @@ VTEX Intelligent Search Multidioma permite que personalice la experiencia de bú
 ### Reglas de merchandising
 Cuando tiene VTEX Intelligent Search Multidioma instalada, la página de edición o creación de Reglas de merchandising — que se accede en el Admin VTEX en __Storefront__ > __Intelligent Search__ > __Reglas de merchandising__ — exhibe el campo adicional __Regiones__, que permite elegir los idiomas a los que se aplicará la regla de merchandising mediante la selección de los idiomas deseados, como se muestra en la siguiente imagen.  
 
-![img regrasmerch intelligentsearchmultilanguage ES](https://images.ctfassets.net/alneenqid6w5/3Pv8xpcvB43bLALrijD1UO/a0f959bcd8d52fe586e7b4ab4d91c63a/01-merchrules-es.png)
+![img regrasmerch intelligentsearchmultilanguage ES](//images.ctfassets.net/alneenqid6w5/3Pv8xpcvB43bLALrijD1UO/a0f959bcd8d52fe586e7b4ab4d91c63a/01-merchrules-es.png)
 
 Para saber más sobre los campos, lea nuestro artículo sobre [cómo configurar Reglas de merchandising en VTEX Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8).
 
@@ -61,7 +57,7 @@ Hay dos formas de configurar Sinónimos en una tienda multidioma en el Admin: co
 #### Crear Sinónimos vía formulario
 Cuando tiene VTEX Intelligent Search Multidioma instalada,  la página de edición o creación de Sinónimos — que se accede en el Admin VTEX en __Storefront__ > __Intelligent Search__ > __Sinónimos__ — exhibe el campo adicional __Regiones__, que permite elegir los idiomas a los que se aplicará los sinónimos registrados, como se muestra en la siguiente imagen. Haga clic en los idiomas deseados para seleccionarlos.  
 
-![img sinonimos intelligentsearchmultilanguage ES](https://images.ctfassets.net/alneenqid6w5/12CjlIh67TyloFOBPkE72x/3fe16ea17b2f435094c2cb823831e57b/image_4.png)
+![img sinonimos intelligentsearchmultilanguage ES](//images.ctfassets.net/alneenqid6w5/12CjlIh67TyloFOBPkE72x/3fe16ea17b2f435094c2cb823831e57b/image_4.png)
 
 Para saber más sobre los campos, lea nuestro artículo sobre [cómo configurar Sinónimos en VTEX Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3ExbC3QKNF4zH7Gs8jD1cL).
 
@@ -85,7 +81,7 @@ Para saber más sobre la importación de una plantilla de Sinónimos, lea nuestr
 
 Cuando tiene VTEX Intelligent Search Multidioma instalada, la página de edición o creación de Redireccionamientos  — que se accede en el Admin VTEX en __Storefront__ > __Intelligent Search__ > __Redireccionamientos__ — exhibe el campo adicional __Regiones__, que permite elegir los idiomas a los que se aplicará las redirecciones registradas, como se muestra en la siguiente imagen. Haga clic en los idiomas deseados para seleccionarlos.  
 
-![img redirecionamentos intelligentsearchmultilanguage ES](https://images.ctfassets.net/alneenqid6w5/2f245NNeb0APEgeQGj6bTg/84213b8bd9f82c318b08f54813358fa4/03-redirecionamento-en.png)
+![img redirecionamentos intelligentsearchmultilanguage ES](//images.ctfassets.net/alneenqid6w5/2f245NNeb0APEgeQGj6bTg/84213b8bd9f82c318b08f54813358fa4/03-redirecionamento-en.png)
 
 Para saber más sobre los campos, lea nuestro artículo sobre [cómo configurar Redireccionamientos en VTEX Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4Gd2wLQFbCwTsh8RUDwSoL).
 
@@ -93,6 +89,6 @@ Para saber más sobre los campos, lea nuestro artículo sobre [cómo configurar 
 
 Cuando tiene VTEX Intelligent Search Multidioma instalada, la página de edición o creación de Banners — que se accede en el Admin VTEX en __Storefront__ > __Banners__ — exhibe el campo adicional __Regiones__, que permite elegir los idiomas a los que se aplicará los banners registrados, como se muestra en la siguiente imagen. Haga clic en los idiomas deseados para seleccionarlos.  
 
-![img banner intelligentsearchmultilanguage ES](https://images.ctfassets.net/alneenqid6w5/2TeFZzq8LxaVApotGBfemL/8231d24b62009bf4afeb9ce8299650a7/image_9.png)
+![img banner intelligentsearchmultilanguage ES](//images.ctfassets.net/alneenqid6w5/2TeFZzq8LxaVApotGBfemL/8231d24b62009bf4afeb9ce8299650a7/image_9.png)
 
 Para saber más sobre los campos, lea nuestro artículo sobre [cómo configurar Banners en VTEX Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4ViKEivLJtJsvpaW0aqIQ5).

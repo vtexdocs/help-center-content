@@ -3,8 +3,8 @@ title: 'Configuración del conector Dafiti'
 id: 3PV2OACP2E4O4uOKKW2sMg
 status: PUBLISHED
 createdAt: 2018-09-27T17:57:53.647Z
-updatedAt: 2022-01-25T15:51:13.004Z
-publishedAt: 2022-01-25T15:51:13.004Z
+updatedAt: 2024-07-02T19:17:57.983Z
+publishedAt: 2024-07-02T19:17:57.983Z
 firstPublishedAt: 2018-09-27T20:41:13.133Z
 contentType: trackArticle
 productTeam: Channels
@@ -50,6 +50,27 @@ Si se activa la opción <i>No</i>, los intentos de enviar SKU registrados como k
 
 - **Nombre de SKU*:** determina cuál será la regla para nombrar los SKU en el portal de Dafiti. Debe seleccionar una de las combinaciones disponibles de los siguientes atributos: _Marca_, _Nombre del Producto_ y _Nombre del SKU._
 
-  ![print tela nome exibição produto](https://drive.google.com/uc?export=download&id=1LZby5znJvD8J1ul7WagR70OWhr7J25Qp)
+![print nome exibicao produto es](//images.ctfassets.net/alneenqid6w5/3MiGbDbIXFGiawLcXjji5w/35e795635bba7aa025facd31d63d76d7/print_nome_exibicao_produto_es.png)
 
 > Ejemplo: mi producto es una zapatilla deportiva negra de Nike. El _Nombre de SKU_ que seleccioné fue _Marca - Nombre del Producto - Nombre del SKU_. Así, el nombre que aparecerá en el portal de Dafiti será Nike zapatilla deportiva negra.
+
+- **NCM:** es la Nomenclatura Común del Mercosur (NCM), que define la tasa impositiva común para el bloque. Para determinados productos, es necesario informar en este campo el nombre único de la especificación del producto o SKU responsable, que contiene la información de NCM en el catálogo.
+- **Id. de cliente:** código único asignado a un vendedor para acceder a la integración.
+- **Client Secret:** código único utilizado para autenticar la integración.
+- **Mapeo de campos personalizados (Nombre y descripción):** Para utilizar este mapeo es necesario crear un campo personalizado. Para saber cómo crear campos personalizados accede a la documentación de [Registrar especificaciones o campos de producto](https://help.vtex.com/es/tutorial/criando-um-campo-de-produto--tutorials_106).
+
+Para que el mapeo funcione, el seller debe seguir los siguientes pasos:
+
+1. Crea un campo de tipo `Texto grande`.  
+2. Deshabilite la opción `Mostrar especificación`.  
+3. Complete los campos creados en cada producto registrado.  
+
+Este campo debe completarse de la siguiente manera:
+
+1. Complete el campo **DESDE** con el nombre del campo de origen.  
+2. Complete el campo **PARA** con el nombre del nuevo campo.  
+3. Haga clic en el botón <i class="fas fa-plus" aria-hidden="true"></i> y se agregará una regla de mapeo a tu integración.  
+
+<div class = "alert alert-info">
+Cada regla registrada asigna solo un campo.
+

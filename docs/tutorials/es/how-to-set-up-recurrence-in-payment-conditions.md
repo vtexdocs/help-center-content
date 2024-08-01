@@ -3,8 +3,8 @@ title: 'Configurar recurrencia en condiciones de pago'
 id: 6EGuoAytLqU2CqUuaI2GUW
 status: PUBLISHED
 createdAt: 2017-06-29T20:56:04.718Z
-updatedAt: 2023-03-30T15:57:59.484Z
-publishedAt: 2023-03-30T15:57:59.484Z
+updatedAt: 2024-01-09T19:47:20.977Z
+publishedAt: 2024-01-09T19:47:20.977Z
 firstPublishedAt: 2017-07-03T15:16:40.562Z
 contentType: tutorial
 productTeam: Financial
@@ -26,8 +26,8 @@ Despues de realizar esta configuración podemos setear las condiciones especiale
 2. Clic en **Planes de pago**.
 3. Hacer clic en la condición de pago creada.
 4. Hacer clic en **Condición Especial**.
-5. Elegir la opción **Periodo**.
-6. Setearemos el rango de días para la validez de la condición de pago en **Sólo durante el período**.
+5. Elegir la opción **Fecha de vencimiento**.
+6. Setearemos el rango de días para la validez de la condición de pago en **Apenas para este periodo**.
 7. Debajo del periodo, veremos el campo **Recurrencia**. Alli podemos seleccionar **Todos los días** o (Desactivando la opción de "Todos los días") podemos seleccionar **los días de la semana** deseados; también podemos configurar una hora de inicio y una hora de finalización.
 8. Si queremos agregar otra **Recurrencia** debemos de hacer click en el boton `+`.
 

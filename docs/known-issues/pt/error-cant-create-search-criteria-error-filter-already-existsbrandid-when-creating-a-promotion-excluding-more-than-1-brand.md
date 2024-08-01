@@ -3,8 +3,8 @@ title: 'Erro "não pode criar critérios de busca! erro: o filtro já existe: "b
 id: 6s6cvYpImIBEH0SLqE3J2U
 status: PUBLISHED
 createdAt: 2022-09-22T15:53:15.001Z
-updatedAt: 2022-11-25T22:11:53.363Z
-publishedAt: 2022-11-25T22:11:53.363Z
+updatedAt: 2024-02-16T20:23:47.779Z
+publishedAt: 2024-02-16T20:23:47.779Z
 firstPublishedAt: 2022-09-22T15:53:16.277Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: erro-nao-pode-criar-criterios-de-busca-erro-o-filtro-ja-existe-brandid-ao-criar-uma-promocao-excluindo-mais-de-1-marca
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 663698
 ---
 

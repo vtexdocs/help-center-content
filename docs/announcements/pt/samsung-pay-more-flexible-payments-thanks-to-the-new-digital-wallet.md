@@ -3,8 +3,8 @@ title: 'Samsung Pay: flexibilize pagamentos com a nova carteira digital'
 id: 2hPbwpiBjuUDh5exB2t5I9
 status: PUBLISHED
 createdAt: 2020-08-26T13:58:55.512Z
-updatedAt: 2020-08-26T16:42:36.874Z
-publishedAt: 2020-08-26T16:42:36.874Z
+updatedAt: 2023-09-26T15:25:06.834Z
+publishedAt: 2023-09-26T15:25:06.834Z
 contentType: updates
 productTeam: Financial
 author: 7qy2DBsUp8U5P9lqV0JHfR
@@ -15,7 +15,7 @@ announcementImageID: ''
 announcementSynopsisPT: 'A partir de Agosto, a VTEX conta com Samsung Pay, carteira digital da Samsung, como meio de pagamento no SmartCheckout.'
 ---
 
-A VTEX procura sempre entregar a melhor experiência de compra para os seus clientes. Por isso, agora você pode utilizar o [Samsung Pay](https://www.samsung.com.br/samsungpay/ "Samsung Pay") - a [carteira digital](https://help.vtex.com/pt/tutorial/o-que-e-uma-carteira-digital-e-wallet?locale=pt "carteira digital") (e-wallet) da Samsung - como meio de pagamento no seu e-commerce.
+A VTEX procura sempre entregar a melhor experiência de compra para os seus clientes. Por isso, agora você pode utilizar o [Samsung Pay](https://www.samsung.com.br/samsungpay/ "Samsung Pay") - a [carteira digital](https://help.vtex.com/pt/tutorial/o-que-e-uma-carteira-digital-e-wallet?locale=pt "carteira digital") (ewallet) da Samsung - como meio de pagamento no seu e-commerce.
 
 ## Vantagens 
 Oferecer carteiras digitais como forma de pagamento no SmartCheckout expande a gama de meios de pagamento do seu e-commerce.

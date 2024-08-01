@@ -3,8 +3,8 @@ title: 'Kit registration'
 id: tutorials_215
 status: PUBLISHED
 createdAt: 2017-04-27T22:13:50.843Z
-updatedAt: 2023-03-29T14:48:43.077Z
-publishedAt: 2023-03-29T14:48:43.077Z
+updatedAt: 2024-05-06T14:40:12.311Z
+publishedAt: 2024-05-06T14:40:12.311Z
 firstPublishedAt: 2017-04-27T23:02:48.663Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -26,7 +26,7 @@ A kit may or may not allow for its components to be sold separately. See the dif
 
 To set up the kit, all its products – that is, its components – must have already been created. See the example below:
 
-![01-components EN](https://images.ctfassets.net/alneenqid6w5/3pQ4a93uZi8sqQA2oGywi4/4c0acd198d16920872025de5d95ed61f/01-components_EN.png)
+![01-components EN](//images.ctfassets.net/alneenqid6w5/3pQ4a93uZi8sqQA2oGywi4/4c0acd198d16920872025de5d95ed61f/01-components_EN.png)
 
 After creating all component products, we can move on to defining the kit’s settings.
 
@@ -37,7 +37,7 @@ After creating all component products, we can move on to defining the kit’s se
 5. If you would like a look kit, click on the option __Bundle with SKUs sold separately__.
 6. Click on `Save`.
 
-![02-kit EN](https://images.ctfassets.net/alneenqid6w5/5O4ZP4iGI0YE60aMOkAI4Q/830694f23e7b6b7d2e4b0cd6c2438c41/02-kit_EN.png)
+![02-kit EN](//images.ctfassets.net/alneenqid6w5/5O4ZP4iGI0YE60aMOkAI4Q/830694f23e7b6b7d2e4b0cd6c2438c41/02-kit_EN.png)
 
 ## Associating components
 
@@ -52,9 +52,9 @@ After the kit product has been created, you must associate the components, accor
 7. Enter the SKU unit price inside the kit.
 6. Click on `Save`.
 
-![03-add component to kit EN](https://images.ctfassets.net/alneenqid6w5/1qBz4qjkAQ8OE8kMMeiw0o/eb5437d1d8a7c40e30998f2ad3723c5e/03-add_component_to_kit_EN.gif)
+![03-add component to kit EN](//images.ctfassets.net/alneenqid6w5/1qBz4qjkAQ8OE8kMMeiw0o/eb5437d1d8a7c40e30998f2ad3723c5e/03-add_component_to_kit_EN.gif)
 
-![04-kit in cart ALL](https://images.ctfassets.net/alneenqid6w5/4yJVbkTnDyIC2c682UskYw/8cad5dc5512f49e73a10abb31184ba8e/04-kit_in_cart_ALL.png)
+![04-kit in cart ALL](//images.ctfassets.net/alneenqid6w5/4yJVbkTnDyIC2c682UskYw/8cad5dc5512f49e73a10abb31184ba8e/04-kit_in_cart_ALL.png)
 
 ## Kit Weight
 
@@ -62,11 +62,7 @@ The weight of the kit will be made up by the sum of the weight of its components
 
 ## Inventory
 
-The kit’s inventory will always be the inventory of its components. In other words, it is not possible to enter inventory merely in the kit, but rather in each and every independent component, in order to update the kit’s inventory. 
-
-This information can be easily previewed in __Inventory &amp; shipping &gt; Inventory__:
-
-![05-manage inventory by kit EN](https://images.ctfassets.net/alneenqid6w5/TIr2YphaMMW2WO8wKma8W/9c561bfa69de4943eea8efe9480a369b/05-manage_inventory_by_kit_EN.gif)
+The kit’s [inventory](https://help.vtex.com/en/tutorial/inventory-management--tutorials_139) will always be the inventory of its components. In other words, it is not possible to enter inventory merely in the kit, but rather in each and every independent component, in order to update the kit’s inventory. You can access this information in your VTEX Admin in **Catalog > Inventory > Inventory Management**.
 
 Since the SKUs that make up the kit must be sold together, the kit overall inventory will be equal to the SKU which has less inventory items. This is as such due to the fact that when a component is out of stock, the kit cannot be purchased.
 
@@ -87,7 +83,7 @@ You may only change the final price of the kit by directly accessing the pricing
 Please note that any change in any component will generate a new final price, updating what had been previously registered. 
 
 Merely changing the final price will not update the price of the components.
-![06-price list EN](https://images.ctfassets.net/alneenqid6w5/1OFwACSPPuCiiWA4YqYa28/5b4ef3a2e50e78b0be869c97288e5778/06-price_list_EN.png)
+![06-price list EN](//images.ctfassets.net/alneenqid6w5/1OFwACSPPuCiiWA4YqYa28/5b4ef3a2e50e78b0be869c97288e5778/06-price_list_EN.png)
 
 ### Learn more
 

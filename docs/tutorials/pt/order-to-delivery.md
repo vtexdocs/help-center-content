@@ -29,7 +29,7 @@ subcategory: 5SE2asHiQtHKfbnFru8RWH
 
 Você pode buscar por um pedido clicando no ícone da lupa 🔍. Você pode clicar em <i class="fas fa-ellipsis-v" alt="elipses"></i> para receber pedidos de outra origem ou gerar um relatório de pedidos.
 
-![Pedidos para entrega - PT](https://images.ctfassets.net/alneenqid6w5/6yMDBApwvfHclrY5DS3fVk/d1bad3ebb121029d42034109b5d9154e/Screenshot_2022-06-01_at_17-09-12_Figma.png)
+![Pedidos para entrega - PT](//images.ctfassets.net/alneenqid6w5/6yMDBApwvfHclrY5DS3fVk/d1bad3ebb121029d42034109b5d9154e/Screenshot_2022-06-01_at_17-09-12_Figma.png)
 
 As categorias de etapas do pedido são as seguintes: 
 
@@ -57,7 +57,7 @@ Cada pedido apresenta as seguintes informações:
 - Tipo de entrega, podendo ser **Retirada na loja** ou **Entrega em casa**.
 - Modalidade de entrega do pedido, como **Expressa** ou **Normal**.
 
-![Preparação - PT](https://images.ctfassets.net/alneenqid6w5/4gdmIBJfITnEIkYf68xDjk/c0fc7e138a6bf423b073ee78649b06d7/Screenshot_2022-06-01_at_17-24-04_Figma.png)
+![Preparação - PT](//images.ctfassets.net/alneenqid6w5/4gdmIBJfITnEIkYf68xDjk/c0fc7e138a6bf423b073ee78649b06d7/Screenshot_2022-06-01_at_17-24-04_Figma.png)
 
 ## Entrega em casa
 A etapa **Entrega em casa** exibe os pedidos que estão em fase de envio para a casa do cliente. Os pedidos são ordenados por prioridade de prazo, ou seja, o pedido com previsão de entrega mais próximo ou atrasado há mais tempo é o primeiro da lista.
@@ -71,7 +71,7 @@ Na aba **Pedidos** são exibidos os pedidos na etapa. Cada pedido apresenta as s
 - ID do pedido.
 - Status atual do pedido, podendo ser **Aguardando criação do envio**, **Aguardando transportadora** ou **Coletado pela transportadora**.
 
-![Entrega em casa - PT](https://images.ctfassets.net/alneenqid6w5/4C9M1TGP6cExmF6RICxOR6/090775ac0eacddb8ce7101db419a672e/Screenshot_2022-06-02_at_16-24-36_Figma.png)
+![Entrega em casa - PT](//images.ctfassets.net/alneenqid6w5/4C9M1TGP6cExmF6RICxOR6/090775ac0eacddb8ce7101db419a672e/Screenshot_2022-06-02_at_16-24-36_Figma.png)
 
 Na aba **Lotes de envio** são exibidas informações de cada envio feito pela loja. São apresentadas as seguintes informações:
 
@@ -79,13 +79,13 @@ Na aba **Lotes de envio** são exibidas informações de cada envio feito pela l
 - Número do lote de envio e nome da transportadora.
 - Status atual do envio, podendo ser **Aguardando transportadora**, **Coletado pela transportadora** ou **Concluído**.
 
-![Entrega em casa - lotes de envio -PT](https://images.ctfassets.net/alneenqid6w5/2o1qrINumd4BhrsKCX1YVy/8bd3d3ebb16e344e11a942be97b811b3/Entrega_em_casa_-_lotes_de_envio.png)
+![Entrega em casa - lotes de envio -PT](//images.ctfassets.net/alneenqid6w5/2o1qrINumd4BhrsKCX1YVy/8bd3d3ebb16e344e11a942be97b811b3/Entrega_em_casa_-_lotes_de_envio.png)
 
 Para criar um novo lote, clique em <i class="fas fa-plus"></i> `Criar lote de envio`.
 
 Ao selecionar um lote de envio será exibido uma tela com os detalhes de cada pedido relacionado a ele. Caso a transportadora responsável pelo envio não esteja integrada com a loja, será exibido um alerta, como na imagem abaixo.
 
-![Lote de envio - PT](https://images.ctfassets.net/alneenqid6w5/3dw9uaaJMdMPZQb6q5xqLN/d44731538f9e485360a5af9176812dc0/Screenshot_2022-06-02_at_16-31-42_Figma.png)
+![Lote de envio - PT](//images.ctfassets.net/alneenqid6w5/3dw9uaaJMdMPZQb6q5xqLN/d44731538f9e485360a5af9176812dc0/Screenshot_2022-06-02_at_16-31-42_Figma.png)
 
 Para confirmar o envio dos pedidos, siga os passos a seguir:
 
@@ -103,7 +103,7 @@ Ao clicar no ícone <i class="fas fa-ellipsis-v"></i> de um pedido, é possível
 
 Clicando em `Informações do envio`, será exibida uma tela com **Status**, **Transportadora**, **Pedidos neste envio** e **Data de criação**.
 
-![Informações do envio - PT](https://images.ctfassets.net/alneenqid6w5/132AGJoZVmHLM04lLEkB8B/383a20e3500a3147597af869f47576b9/Screenshot_2022-06-02_at_16-33-50_Figma.png)
+![Informações do envio - PT](//images.ctfassets.net/alneenqid6w5/132AGJoZVmHLM04lLEkB8B/383a20e3500a3147597af869f47576b9/Screenshot_2022-06-02_at_16-33-50_Figma.png)
 
 Caso a loja não apresente integração com transportadora, será preciso marcar manualmente os pedidos como Entregue quando eles forem entregues ao cliente. Caso exista a integração com a transportadora, os pedidos são marcados como entregues automaticamente.
 
@@ -118,7 +118,7 @@ Cada pedido apresenta as seguintes informações:
 - Em casos de atraso, é indicado quanto tempo a retirada do cliente está atrasada.
 - ID do pedido.
 
-![Retirada na loja - PT](https://images.ctfassets.net/alneenqid6w5/5dWy0rBy4GfEb2jVmS0MIE/256dedcced031fcf6717a6404a045a37/Screenshot_2022-06-02_at_16-36-07_Figma.png)
+![Retirada na loja - PT](//images.ctfassets.net/alneenqid6w5/5dWy0rBy4GfEb2jVmS0MIE/256dedcced031fcf6717a6404a045a37/Screenshot_2022-06-02_at_16-36-07_Figma.png)
 
 ## Recusados
 A etapa **Recusados** exibe os pedidos que foram cancelados pela loja por falta do item no estoque, produto com defeito, entre outros motivos. Os pedidos são ordenados por prioridade de prazo, ou seja, o pedido com previsão de entrega mais próximo ou atrasado há mais tempo é o primeiro da lista.
@@ -133,7 +133,7 @@ Cada pedido apresenta as seguintes informações:
 - Status atual do pedido, podendo ser **Cancelado** ou **Aguardando análise**.
 - Modalidade de entrega, podendo ser **Retirada na loja** ou **Entrega em casa**.
 
-![Recusados - PT](https://images.ctfassets.net/alneenqid6w5/6JOEUXqZsrD4Fl4PflbIeU/3295b747e4b5c12bf33d7efa8a5a72c1/Screenshot_2022-06-02_at_16-40-10_Figma.png)
+![Recusados - PT](//images.ctfassets.net/alneenqid6w5/6JOEUXqZsrD4Fl4PflbIeU/3295b747e4b5c12bf33d7efa8a5a72c1/Screenshot_2022-06-02_at_16-40-10_Figma.png)
 
 ## Devoluções
 A etapa **Devoluções** exibe os pedidos que foram devolvidos pelo cliente. Você pode buscar por um pedido clicando no ícone da lupa 🔍. Cada pedido apresenta as seguintes informações:
@@ -142,7 +142,7 @@ A etapa **Devoluções** exibe os pedidos que foram devolvidos pelo cliente. Voc
 - Data e horário de quando o pedido foi devolvido.
 - Modalidade de entrega, podendo ser **Retirada na loja** ou **Entrega em casa**.
 
-![Devoluções - PT](https://images.ctfassets.net/alneenqid6w5/sI6uA75Ms3LQHAkaCF1ts/0a0e7b5140d72fb78053f9a894fff0ff/Screenshot_2022-06-02_at_17-09-08_Figma.png)
+![Devoluções - PT](//images.ctfassets.net/alneenqid6w5/sI6uA75Ms3LQHAkaCF1ts/0a0e7b5140d72fb78053f9a894fff0ff/Screenshot_2022-06-02_at_17-09-08_Figma.png)
 
 ## Entregues
 A etapa Entregues exibe os pedidos que foram finalizados e entregues ao cliente. Você pode buscar por um pedido clicando no ícone da lupa 🔍. Cada pedido apresenta as seguintes informações:
@@ -151,4 +151,4 @@ A etapa Entregues exibe os pedidos que foram finalizados e entregues ao cliente.
 - Tipo de entrega, podendo ser **Retirada na loja** ou **Entrega em casa**.
 - Modalidade de entrega do pedido, como **Expressa** ou **Normal**.
 
-![Entregues - PT](https://images.ctfassets.net/alneenqid6w5/5GJhMUquRRYWAo9zRtZtst/62aaef737462a4f77cd37c025cdbbed5/Screenshot_2022-06-02_at_17-22-45_Figma.png)
+![Entregues - PT](//images.ctfassets.net/alneenqid6w5/5GJhMUquRRYWAo9zRtZtst/62aaef737462a4f77cd37c025cdbbed5/Screenshot_2022-06-02_at_17-22-45_Figma.png)

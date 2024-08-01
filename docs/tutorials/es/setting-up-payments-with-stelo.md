@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pagos con Stelo'
 id: 6c16nRhAGWaA2mSUOOuC00
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-03-02T20:20:44.376Z
-updatedAt: 2023-03-29T01:07:31.337Z
-publishedAt: 2023-03-29T01:07:31.337Z
+updatedAt: 2024-03-18T20:21:28.181Z
+publishedAt: 
 firstPublishedAt: 2018-03-05T19:08:32.807Z
 contentType: tutorial
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: es
 legacySlug: configurar-pagos-con-stelo
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+<div class="alert alert-danger">Esta integración de pago ya no se puede configurar en la plataforma debido al <a href="https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14">proceso de descontinuación de los proveedores legados</a> y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.</div>
 
 Además de un [subadquirente](/es/tutorial/configurar-subadquirente-stelo) para procesar transacciones realizadas con diversas condiciones de pago, Stelo también ofrece un servicio de [cartera digital](/es/faq/que-es-una-cartera-digital). Su cliente elige pagar con ella y se redirige a la autenticación en el ambiente de Stelo.
 

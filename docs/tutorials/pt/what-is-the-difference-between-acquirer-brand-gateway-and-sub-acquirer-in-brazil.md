@@ -1,10 +1,10 @@
 ---
 title: 'Qual é o papel dos agentes financeiros no fluxo de pagamento de um pedido no Brasil?'
 id: 1dyPJ3gQCCO4ea2o6OMgCi
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-10-11T19:08:49.654Z
-updatedAt: 2020-11-27T19:40:35.496Z
-publishedAt: 2019-12-31T15:27:52.279Z
+updatedAt: 2024-03-18T18:55:40.724Z
+publishedAt: 2024-03-18T18:55:40.724Z
 firstPublishedAt: 2017-10-11T19:34:43.203Z
 contentType: tutorial
 productTeam: Financial
@@ -21,7 +21,7 @@ Neste artigo, esclareceremos os conceitos de adquirente, subadquirente, gateway,
 
 ## Gateway 
 
-Um gateway (também chamado de gateway de pagamento) é um __sistema que efetua a transmissão dos dados das compras realizadas na sua loja no momento do checkout__ como as empresas Braspag e Mundipagg.
+Um gateway (também chamado de gateway de pagamento) é um __sistema que efetua a transmissão dos dados das compras realizadas na sua loja no momento do checkout__.
 
 Como primeiro player do fluxo, ele é responsável por enviar as informações do pagamento recebidas no checkout para adquirentes, bandeiras e [bancos emissores](https://help.vtex.com/pt/tutorial/o-que-e-banco-emissor--7aVIVGwgtU4SWuqowSQksg "O que é Banco Emissor?") para, então, obter um retorno sobre a continuação do fluxo de compra ou do seu cancelamento. Em outras palavras, o gateway envia os dados de pagamento da compra e recebe respostas para que você saiba se uma determinada compra deve ou não ser confirmada, ou seja, se o pagamento foi ou não aprovado. 
 
@@ -41,7 +41,6 @@ Para que sua loja VTEX possa receber pagamentos, por exemplo, você precisa habi
 
 Quando tudo está em ordem e uma compra é autorizada pelos outros players do fluxo de compra, o adquirente fica responsável por repassar os valores (cobrados do cliente pelo banco emissor) para a conta da sua loja.
 
-
 ## Subadquirente
 
 Um subdadquirente é uma empresa que processa pagamentos e transmite suas informações para os outros players envolvidos no [fluxo de pagamento](https://help.vtex.com/pt/tutorial/cartao-de-credito-fluxo-basico-de-um-pagamento--1L1Y66GgcAUgkIqwgccCUK "Cartão de crédito - Fluxo básico de um pagamento"). Como facilitador, o seu papel é semelhante ao de um adquirente, mas não o substitui por completo pela sua falta de autonomia para desempenhar todas as funcionalidades de um adquirente. 
@@ -60,7 +59,6 @@ As bandeiras mantêm uma relação próxima com os adquirentes para garantir a a
 
 No [fluxo de pagamento por cartão de crédito](https://help.vtex.com/pt/tutorial/cartao-de-credito-fluxo-basico-de-um-pagamento--1L1Y66GgcAUgkIqwgccCUK "Cartão de crédito - Fluxo básico de um pagamento"), a bandeira recebe do adquirente as informações da compra realizada na sua loja. Então, ela valida as condições (como o número de parcelas) e envia os dados para o banco emissor, que verifica se o comprador possui limite disponível. Dessa forma, a bandeira serve tanto para regular o uso do cartão quanto como ponte entre a adquirente e o banco do consumidor.
 
-
 ## Banco Emissor
 
 Banco Emissor é a instituição financeira responsável pelos meios de pagamento, sejam eles boletos bancários, cartões de débito ou de crédito. É ele que, ao receber os dados de uma compra feita na sua loja, vai autorizar ou não a venda (dependendo do limite de crédito ou do dinheiro disponível na conta do usuário). Com tudo certo, o banco efetiva a cobrança do valor.
@@ -75,6 +73,7 @@ Ele coleta dados sobre o comportamento dos usuários e os comparam com padrões 
 
 Na VTEX, primeiro a operadora do pagamento aprova a compra e, em seguida, o antifraude avalia o pedido. Com tudo em ordem, ele segue seu fluxo normal. São exemplos de antifraude a ClearSale e a Konduto. 
 
----
-
+<div class="alert alert-info">
 É importante ressaltar que cada negócio depende de fatores específicos que influenciam na decisão sobre qual modalidade usar. São diversas as variáveis que podem determinar a escolha do meio de pagamento e qual será o seu fluxo financeiro. É fundamental, portanto, ter em mente as reais necessidades e propósitos do lojista e do projeto desejado.
+</div>
+

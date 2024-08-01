@@ -3,8 +3,8 @@ title: 'Marketplaces and Integrations'
 id: 5AcBO1t29nhq7rBHas9b6V
 status: PUBLISHED
 createdAt: 2023-04-18T13:51:54.217Z
-updatedAt: 2023-05-04T18:59:04.105Z
-publishedAt: 2023-05-04T18:59:04.105Z
+updatedAt: 2024-02-19T20:19:40.774Z
+publishedAt: 2024-02-19T20:19:40.774Z
 firstPublishedAt: 2023-05-03T17:09:07.242Z
 contentType: tutorial
 productTeam: Channels
@@ -33,7 +33,7 @@ If you want to act as a VTEX marketplace, read the <a href="https://help.vtex.co
 
 To access the page, in the VTEX Admin, click __Marketplace > Connections > Marketplaces and Integrations__. On the page, you can see the recommended marketplaces to connect to and the complete list of all available or already connected marketplaces.  
 
-![Marketplaces and Integrations](https://images.ctfassets.net/alneenqid6w5/6O436Pjv91m3GWuWFsmeAD/e4382e0c375781f8f1029ffe29e6738a/Captura_de_tela_2023-04-17_110739.png)
+![Marketplaces and Integrations](//images.ctfassets.net/alneenqid6w5/6O436Pjv91m3GWuWFsmeAD/e4382e0c375781f8f1029ffe29e6738a/Captura_de_tela_2023-04-17_110739.png)
 
 The table listing the marketplaces has the following columns:  
 
@@ -124,4 +124,4 @@ See the list of tutorials available for marketplace integration:
 - [Farmácias App](https://help.vtex.com/pt/tutorial/integrando-com-farmacias-app--tutorials_6271)    
 - [Shopee](https://help.vtex.com/pt/tutorial/integracao-com-a-shopee-beta--5OV9idUY6fHu3P8grnCnqj)  
 - [Wish ](https://help.vtex.com/pt/tracks/integracao-com-a-wish--50hbG4bzhSIhjz1lzqI1g4) 
-- [Conecta Lá](https://help.vtex.com/pt/tutorial/integracao-com-conecta-la--403fvPYdv2f6VeP0na3awP)  
+

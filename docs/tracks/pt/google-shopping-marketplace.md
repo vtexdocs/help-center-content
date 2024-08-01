@@ -3,8 +3,8 @@ title: 'Google Shopping'
 id: 2kGKxwD9HKJvTLDTikQ4zG
 status: PUBLISHED
 createdAt: 2021-04-14T14:19:25.417Z
-updatedAt: 2021-04-16T22:47:55.190Z
-publishedAt: 2021-04-16T22:47:55.190Z
+updatedAt: 2024-02-29T19:00:16.087Z
+publishedAt: 2024-02-29T19:00:16.087Z
 firstPublishedAt: 2021-04-15T17:41:07.946Z
 contentType: trackArticle
 productTeam: Channels
@@ -16,7 +16,7 @@ trackSlugPT: configurar-integracao-com-o-google-shopping
 
 O [Google Shopping](https://shopping.google.com/) é uma plataforma na qual um produto é apresentado em listagens gratuitas classificadas de forma orgânica em pesquisas do Google. Ou seja, é um serviço de comparação e rastreamento de preços, que apresenta seus produtos gratuitamente nos resultados de pesquisa de produtos locais.
 
-![google-shopping](https://drive.google.com/uc?export=download&id=1htNbqBqTs4HSdnPnp4Q6__wDzMTYPl6-)
+![Google Shopping](//images.ctfassets.net/alneenqid6w5/4NP2qyti6VbXkuVSzAg5iH/d9e89361ff7eec1ad054348e16d15432/logo_Google_shopping.png)
 
 Através do Google Shopping, é possível exibir ao consumidor alguns dos atributos do seu produto, tais como imagem, título, preço e nome da sua loja.
 

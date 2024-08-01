@@ -3,8 +3,8 @@ title: 'Cancelar pedido'
 id: 4ts2ItvjYo8wm5gg76miS3
 status: PUBLISHED
 createdAt: 2019-11-18T11:50:32.691Z
-updatedAt: 2023-03-22T23:28:21.211Z
-publishedAt: 2023-03-22T23:28:21.211Z
+updatedAt: 2024-04-01T18:04:36.603Z
+publishedAt: 2024-04-01T18:04:36.603Z
 firstPublishedAt: 2019-11-18T12:20:50.741Z
 contentType: trackArticle
 productTeam: Post-purchase
@@ -21,6 +21,10 @@ Usted puede cancelar un pedido con VTEX de tres maneras diferentes:
 
 <div class="alert alert-warning">
 Una vez cancelado el pedido, no se puede cambiar su status. Es posible cancelar el pedido hasta antes de <b>Facturado</b>, después el pedido no puede ser modificado.
+</div>
+
+<div class = "alert alert-info">
+No es posible <a href="https://help.vtex.com/es/tutorial/como-cancelar-pedido--tutorials_186">cancelar</a> pedidos <a href="https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe">parcialmente facturados</a>. Si el cliente desea sustituir o remover ítems del pedido, es posible <a href="https://help.vtex.com/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190">modificar el pedido</a>.
 </div>
 
 ## Cancelación por el módulo Pedidos

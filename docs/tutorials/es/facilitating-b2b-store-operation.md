@@ -1,9 +1,9 @@
 ---
 title: 'Facilitar la operación de una tienda B2B'
 id: 8t1f9FYBsSCopHHVujKWR
-status: PUBLISHED
+status: CHANGED
 createdAt: 2021-03-30T14:29:12.548Z
-updatedAt: 2021-05-20T18:17:16.108Z
+updatedAt: 2024-05-10T10:59:55.549Z
 publishedAt: 2021-05-20T18:17:16.108Z
 firstPublishedAt: 2021-03-30T19:54:13.259Z
 contentType: tutorial
@@ -12,7 +12,7 @@ author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: facilitar-la-operacion-de-una-tienda-b2b
 locale: es
 legacySlug: facilitar-la-operacion-de-una-tienda-b2b
-subcategory: 5N5GjDrKSycIQMeoS7CLtj
+subcategory: 2LrbEY7MFeKqmdfYLBCnfi
 ---
 
 Puede facilitar la operación de su tienda a través de aplicaciones que se pueden instalar en la misma para solucionar problemas de negocio específicos que están relacionados con la usabilidad de la tienda, las ventas y la posventa.
@@ -91,7 +91,7 @@ VTEX cuenta con [My account](https://help.vtex.com/es/tutorial/como-funciona-o-m
 
 Esta herramienta permite al consumidor seguir el status de su pedido en el flujo de posventa, así como realizar algunas operaciones. Entre estas, «Pedir nuevamente» para volver a realizar un pedido que se efectuó anteriormente.  
 
-![reorder ES](https://images.ctfassets.net/alneenqid6w5/53BeeU3MFPuA26NepAhXrI/708213aadff4d416977f6e5dc6b18638/reorder_ES.png)
+![reorder ES](//images.ctfassets.net/alneenqid6w5/53BeeU3MFPuA26NepAhXrI/708213aadff4d416977f6e5dc6b18638/reorder_ES.png)
 
 Para saber más detalles de My Account, lea el tutorial sobre [cómo configurar esta funcionalidad](https://help.vtex.com/pt/tutorial/configurar-o-my-account--23Ayv5D6b86UBnYfoXqZL1 "cómo configurar esta funcionalidad").
 

@@ -3,8 +3,8 @@ title: 'Admin is showing image extension as .jpg even when the image is .png'
 id: 1nVCuVnNjT7e1E9Cy0Veer
 status: PUBLISHED
 createdAt: 2022-02-02T18:48:49.607Z
-updatedAt: 2022-11-25T21:48:51.993Z
-publishedAt: 2022-11-25T21:48:51.993Z
+updatedAt: 2024-02-16T20:26:18.176Z
+publishedAt: 2024-02-16T20:26:18.176Z
 firstPublishedAt: 2022-02-02T18:48:49.929Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: admin-is-showing-image-extension-as-jpg-even-when-the-image-is-png
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 516269
 ---
 

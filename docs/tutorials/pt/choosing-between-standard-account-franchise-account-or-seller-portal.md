@@ -3,8 +3,8 @@ title: 'Escolher entre conta padrão, conta franquia ou Seller Portal'
 id: 4S90HzzhMyZESsHqrnUs78
 status: PUBLISHED
 createdAt: 2022-04-20T14:15:50.164Z
-updatedAt: 2022-06-22T21:39:18.954Z
-publishedAt: 2022-06-22T21:39:18.954Z
+updatedAt: 2023-11-22T14:09:05.122Z
+publishedAt: 2023-11-22T14:09:05.122Z
 firstPublishedAt: 2022-04-27T21:42:35.010Z
 contentType: tutorial
 productTeam: Channels
@@ -22,6 +22,8 @@ Na VTEX, existem três tipos de conta e cada uma permite atuar com um perfil de 
 - **Conta padrão:** dispõe das configurações de todos os módulos da plataforma VTEX e atua como seller do tipo normal, recebendo nome de [seller VTEX](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex).
 - **Conta franquia:** é criada associada a uma conta padrão, de quem ela herda o [catálogo](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR), ou seja, categorias, produtos e especificações são importados para o ambiente da [conta franquia](https://help.vtex.com/pt/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl), que não cria produtos próprios. No entanto, ela pode configurar logística, pagamento e preços próprios. A conta franquia dispõe parcialmente dos módulos da plataforma VTEX e atua como [seller white label](https://help.vtex.com/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa) da conta padrão.
 - **Seller Portal:** o [Seller Portal](https://help.vtex.com/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) é uma edição da plataforma VTEX que permite a sellers se conectarem e venderem produtos em marketplaces do ecossistema VTEX, independente do seller já ter ou não uma conta na VTEX. O Seller Portal permite acesso parcial aos módulos da plataforma e o seller pode ser do tipo normal ou [seller white label](https://help.vtex.com/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa).
+
+  <div class="alert alert-warning"> O limite para cada conta do Seller Portal é de 100 mil produtos. Para mais informações, entre em contato com nosso <a href="https://support.vtex.com/hc/pt-br/requests">Suporte.</div>
 
 A tabela a seguir apresenta os principais cenários de uso de cada tipo de conta:
 
@@ -61,7 +63,7 @@ A seguir, há uma série de comparativos de como Seller Portal, conta padrão e 
 | **Aspecto** | **Seller Portal** | **Conta padrão** | **Conta franquia** |
 | ---------- | ---------- | ---------- | ---------- |
 | Herdar preço de outra conta | Quando o marketplace VTEX [convida](https://help.vtex.com/pt/tutorial/marketplace-convite-de-sellers-beta--6rb2FkcslmDueJ689Ulb9A) o seller para o Seller Portal escolhendo a opção [Seller White Label](https://help.vtex.com/pt/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa), os produtos do seller herdam os preços do marketplace. No entanto, o seller pode editar os preços. | A conta padrão não herda preços de outra conta, é necessário cadastrá-los no seu próprio ambiente. | A conta franquia pode herdar preços da conta principal. |
-| Marketplace VTEX poder sobrescrever preço do seller | Não, o marketplace VTEX pode apenas definir regras comerciais para o seller. | Sim. | Não, o marketplace VTEX pode apenas definir regras comerciais para a conta franquia. |
+| Marketplace VTEX poder sobrescrever preço do seller | Quando o seller criado via convite for um seller comum, o preço deste pode ser sobrescrito, mas se for Seller white label, o preço não pode ser sobrescrito. | Sim. | Não, o marketplace VTEX pode apenas definir regras comerciais para a conta franquia. |
 | Dispor de [Manual Pricing](https://help.vtex.com/pt/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS#inserir-preco-manual) | Sim. | Sim. | Sim. |
 
 ## Promoções

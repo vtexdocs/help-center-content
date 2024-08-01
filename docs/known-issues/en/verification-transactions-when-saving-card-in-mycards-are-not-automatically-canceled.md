@@ -3,8 +3,8 @@ title: 'Verification transactions when saving card in MyCards are not automatica
 id: 3VqRlcnzHqDEx7v1IIlBuf
 status: PUBLISHED
 createdAt: 2022-03-27T15:14:55.382Z
-updatedAt: 2022-11-25T22:08:31.611Z
-publishedAt: 2022-11-25T22:08:31.611Z
+updatedAt: 2024-02-16T20:27:46.524Z
+publishedAt: 2024-02-16T20:27:46.524Z
 firstPublishedAt: 2022-03-27T15:14:56.630Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: verification-transactions-when-saving-card-in-mycards-are-not-automatically-canceled
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 347084
 ---
 

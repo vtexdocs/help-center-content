@@ -3,8 +3,8 @@ title: 'Promotions UI loading wrong currency information'
 id: 7liSZOtS1Hs2P84bXzRrG9
 status: PUBLISHED
 createdAt: 2022-12-19T14:41:51.129Z
-updatedAt: 2022-12-19T14:41:51.903Z
-publishedAt: 2022-12-19T14:41:51.903Z
+updatedAt: 2024-02-15T12:11:06.893Z
+publishedAt: 2024-02-15T12:11:06.893Z
 firstPublishedAt: 2022-12-19T14:41:51.903Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
@@ -12,12 +12,11 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: promotions-ui-loading-wrong-currency-information
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 718908
 ---
 
 ## Summary
-
 
 
 When opening the Promotions module very quickly and many times in a row a wrong behavior appears on the UI.
@@ -34,7 +33,6 @@ When Saving the promotion the final value is not the one expected by the client.
 ## Simulation
 
 
-
 There is not an easy way to reproduce this scenario. Sometimes, when opening the promotions module in different tabs very quickly the behavior happens.
 Check if the field "Restrict this promotion to seller products" is different to know you've reached the scenario.
 
@@ -44,6 +42,9 @@ Check if the field "Restrict this promotion to seller products" is different to 
 ## Workaround
 
 
-
 Close the current promotions UI and open a new one where the behavior is not happening.
+
+
+
+
 

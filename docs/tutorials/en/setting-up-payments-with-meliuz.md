@@ -3,8 +3,8 @@ title: 'Setting up payments with Méliuz'
 id: 6ajsvgOtRWnKhmgZjnOmZN
 status: PUBLISHED
 createdAt: 2022-07-19T12:45:45.247Z
-updatedAt: 2023-03-26T21:35:11.618Z
-publishedAt: 2023-03-26T21:35:11.618Z
+updatedAt: 2024-01-23T18:53:00.570Z
+publishedAt: 2024-01-23T18:53:00.570Z
 firstPublishedAt: 2022-07-19T13:15:41.771Z
 contentType: tutorial
 productTeam: Financial

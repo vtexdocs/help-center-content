@@ -25,7 +25,7 @@ El dashboard Rendimiento de las páginas web incorpora la herramienta [PageSpeed
 
 Aunque el _dashboard_ Rendimiento de las páginas web ofrece las mismas funcionalidades que PageSpeed Insights de Google, los comerciantes pueden agregar varias URL y hacerles un seguimiento constante únicamente en el Admin VTEX. 
 
-![Web page performance Dash ES](https://images.ctfassets.net/alneenqid6w5/4EHCyrE0JQxGgxhk1YVdMY/32c901997b6a96b00b197ce99d2dd146/Screen_Shot_2022-06-29_at_15.47.04.png)
+![Web page performance Dash ES](//images.ctfassets.net/alneenqid6w5/4EHCyrE0JQxGgxhk1YVdMY/32c901997b6a96b00b197ce99d2dd146/Screen_Shot_2022-06-29_at_15.47.04.png)
 
 ## ¿Por qué deberías hacer un seguimiento del rendimiento de una página web?
 
@@ -104,7 +104,7 @@ Ten en cuenta que no podrás eliminar las 10 páginas más visitadas de tu _ecom
 
 ## Métricas web principales
 
-![Core web vitals ES](https://images.ctfassets.net/alneenqid6w5/2dqXPGBXhoqAOlu98GvSjg/16028a64c956d2461f1fc1f5c924beda/Screen_Shot_2022-06-29_at_15.47.45.png)
+![Core web vitals ES](//images.ctfassets.net/alneenqid6w5/2dqXPGBXhoqAOlu98GvSjg/16028a64c956d2461f1fc1f5c924beda/Screen_Shot_2022-06-29_at_15.47.45.png)
 
 Para cada URL, la página Rendimiento de las páginas web muestra la puntuación de las [Métricas web principales de Google](https://web.dev/vitals/#core-web-vitals) para esa página web. 
 

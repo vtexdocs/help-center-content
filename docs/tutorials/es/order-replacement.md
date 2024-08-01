@@ -3,8 +3,8 @@ title: 'Cambio de pedido'
 id: 2IK9mwQjBKseQmE8K8saO8
 status: PUBLISHED
 createdAt: 2018-02-20T19:29:21.502Z
-updatedAt: 2023-03-29T15:54:02.723Z
-publishedAt: 2023-03-29T15:54:02.723Z
+updatedAt: 2024-07-08T14:22:27.104Z
+publishedAt: 2024-07-08T14:22:27.104Z
 firstPublishedAt: 2018-02-20T20:24:08.083Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -60,7 +60,7 @@ Los datos que se pueden modificar con el cambio de pedidos son:
 El cambio de pedidos no es posible en los casos de:
 
 * [Pedidos incompletos](https://help.vtex.com/pt/tutorial/entendendo-os-pedidos-incompletos--tutorials_294): cuando el pedido no contiene toda la información necesaria para ser finalizado en la plataforma.
-* Transacción compartida: pedidos con más de un _seller_ y pago realizado al _marketplace_.
+* Transacción compartida: pedidos con un o más _sellers_ y pago realizado al _marketplace_.
 * Pedidos ya modificados por la tienda.
 * Pedidos con los siguientes status:
     * Verificando factura

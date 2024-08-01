@@ -3,8 +3,8 @@ title: 'Os artigos de presente lançam uma exceção genérica se não tiver pre
 id: 7Jw1Nihqp3Sg2ecg7R9IEt
 status: PUBLISHED
 createdAt: 2022-05-12T14:52:18.546Z
-updatedAt: 2022-11-25T21:51:44.617Z
-publishedAt: 2022-11-25T21:51:44.617Z
+updatedAt: 2024-02-16T20:27:57.698Z
+publishedAt: 2024-02-16T20:27:57.698Z
 firstPublishedAt: 2022-05-12T14:52:18.968Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: os-artigos-de-presente-lancam-uma-excecao-generica-se-nao-tiver-preco
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 510490
 ---
 

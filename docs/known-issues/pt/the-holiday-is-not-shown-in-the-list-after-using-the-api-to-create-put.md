@@ -3,8 +3,8 @@ title: 'O feriado não é mostrado na lista depois de usar o API para criar (PUT
 id: WqzSTP6oFwk4MbGaO5mIU
 status: PUBLISHED
 createdAt: 2022-05-02T22:26:55.630Z
-updatedAt: 2022-11-25T22:00:07.142Z
-publishedAt: 2022-11-25T22:00:07.142Z
+updatedAt: 2024-02-16T20:28:28.551Z
+publishedAt: 2024-02-16T20:28:28.551Z
 firstPublishedAt: 2022-05-02T22:26:56.888Z
 contentType: knownIssue
 productTeam: Logistics
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: o-feriado-nao-e-mostrado-na-lista-depois-de-usar-o-api-para-criar-put
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 571040
 ---
 

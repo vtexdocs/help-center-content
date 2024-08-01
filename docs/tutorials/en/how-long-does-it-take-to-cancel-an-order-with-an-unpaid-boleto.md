@@ -3,8 +3,8 @@ title: 'How long does it take to cancel an order with an unpaid "boleto"?'
 id: frequentlyAskedQuestions_300
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:51.983Z
-updatedAt: 2021-10-28T11:55:41.026Z
-publishedAt: 2021-10-28T11:55:41.026Z
+updatedAt: 2024-06-11T21:26:30.893Z
+publishedAt: 2024-06-11T21:26:30.893Z
 firstPublishedAt: 2019-01-24T22:03:31.971Z
 contentType: tutorial
 productTeam: Financial

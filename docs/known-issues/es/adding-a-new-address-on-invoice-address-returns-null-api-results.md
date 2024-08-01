@@ -3,8 +3,8 @@ title: 'Añadir una nueva dirección en Dirección de factura devuelve resultado
 id: 43eiz4YORQv1u4yDahZdvC
 status: PUBLISHED
 createdAt: 2023-02-07T13:15:36.832Z
-updatedAt: 2023-02-07T13:15:52.825Z
-publishedAt: 2023-02-07T13:15:52.825Z
+updatedAt: 2024-07-01T18:48:46.296Z
+publishedAt: 2024-07-01T18:48:46.296Z
 firstPublishedAt: 2023-02-07T13:15:37.293Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: anadir-una-nueva-direccion-en-direccion-de-factura-devuelve-resultados-nulos-de-la-api
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 748668
 ---
 

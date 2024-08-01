@@ -1,10 +1,10 @@
 ---
 title: 'Credit card payment flow'
 id: TEYVv2fcVkH7et9n3OnBS
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-11-12T15:51:05.024Z
-updatedAt: 2020-11-27T19:39:59.301Z
-publishedAt: 2020-02-13T15:38:53.526Z
+updatedAt: 2023-11-01T12:40:40.235Z
+publishedAt: 2023-11-01T12:40:40.235Z
 firstPublishedAt: 2019-11-22T19:30:16.374Z
 contentType: trackArticle
 productTeam: Financial
@@ -24,10 +24,11 @@ The basic flow of a credit card payment is performed by the following players:
 To learn more about the financial agents involved in the payment flow of an order in Brazil, check out [this article](https://help.vtex.com/en/tutorial/what-is-the-difference-between-acquirer-brand-gateway-and-sub-acquirer-in-brazil--1dyPJ3gQCCO4ea2o6OMgCi). <br/>
 <br/>
 
-
 ## Payment Flow
 
 The complete credit card payment flow at VTEX is shown in the following scheme:
+
+![Credit Card - Basic payment flow](//images.ctfassets.net/alneenqid6w5/64zjpwrBkpqbOhR7vtZhKs/dbee2595f3dda339db8010cb8d00f67d/payments_image1_EN.JPG)
 
 1. On the Checkout screen of your store, the customer chooses the _credit card_ **Payment Method** to complete the purchase.
 

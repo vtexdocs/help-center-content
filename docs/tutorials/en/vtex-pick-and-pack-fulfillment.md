@@ -3,8 +3,8 @@ title: 'VTEX Pick and Pack: Fulfillment'
 id: 1zGUEItEEVsal6cuBEBNcA
 status: PUBLISHED
 createdAt: 2023-04-10T15:43:59.687Z
-updatedAt: 2023-04-20T15:41:30.789Z
-publishedAt: 2023-04-20T15:41:30.789Z
+updatedAt: 2023-08-31T19:52:23.529Z
+publishedAt: 2023-08-31T19:52:23.529Z
 firstPublishedAt: 2023-04-10T17:57:34.714Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -14,6 +14,10 @@ locale: en
 legacySlug: vtex-pick-and-pack-fulfillment
 subcategory: 7Kllu6CmeLNV3tYXlCFvOt
 ---
+
+<div class = "alert alert-info">
+If you are interested in implementing for your business, fill out our <a href="https://vtex.com/us-en/contact/">form</a> and indicate the name of the desired product in the <code>Comments</code> section.
+</div>
 
 [VTEX Pick and Pack](https://help.vtex.com/en/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU) is a solution to streamline stores’ fulfillment processes by optimizing orders’ picking and packing, and the last-mile delivery. The solution is composed of the [Last Mile](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) and **VTEX Pick and Pack Fulfillment** features, and appears in your VTEX Admin in **Apps**.
 

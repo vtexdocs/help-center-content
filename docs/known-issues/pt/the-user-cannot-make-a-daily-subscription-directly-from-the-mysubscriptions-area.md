@@ -3,8 +3,8 @@ title: 'O usuário não pode fazer uma assinatura diária diretamente da área m
 id: QJrZvOmlRusACgS2iGRyT
 status: PUBLISHED
 createdAt: 2022-05-18T18:37:18.099Z
-updatedAt: 2022-11-25T22:02:05.580Z
-publishedAt: 2022-11-25T22:02:05.580Z
+updatedAt: 2024-02-16T20:27:15.017Z
+publishedAt: 2024-02-16T20:27:15.017Z
 firstPublishedAt: 2022-05-18T18:37:18.579Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: o-usuario-nao-pode-fazer-uma-assinatura-diaria-diretamente-da-area-mysubscriptions
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 430650
 ---
 

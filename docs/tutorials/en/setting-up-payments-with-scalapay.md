@@ -3,8 +3,8 @@ title: 'Setting up payments with Scalapay'
 id: 6SCh3WUqjeqIrOl209MENA
 status: PUBLISHED
 createdAt: 2022-08-12T19:31:38.569Z
-updatedAt: 2023-05-09T14:07:50.542Z
-publishedAt: 2023-05-09T14:07:50.542Z
+updatedAt: 2024-01-25T18:03:45.856Z
+publishedAt: 2024-01-25T18:03:45.856Z
 firstPublishedAt: 2022-08-12T19:39:58.598Z
 contentType: tutorial
 productTeam: Financial
@@ -15,15 +15,15 @@ legacySlug: setting-up-payments-with-scalapay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the Scalapay payment provider. With this connector, your store can make sales through credit card and Scalapay.
+At VTEX, it is possible to integrate with the Scalapay payment provider. With this provider, your store can make sales through credit card and Scalapay.
 
-To configure Scalapay affiliation, follow the steps below:
+To configure Scalapay, follow the steps below:
 
-<ui>1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.</ui>
+<ui>1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.</ui>
 
-<ui>2. In the __Gateway affiliations__ tab, click on the __+__ button.</ui>
+<ui>2. On the providers screen, click the `New Provider` button.</ui>
 
-<ui>3. Click on the __Scalapay__ connector.</ui>
+<ui>3. Type the name __Scalapay__ in the search bar and click on the name of the provider.</ui>
 
 <ui>4. Fill in the __Application Key__ and __Application Token__ fields with data provided by Scalapay.</ui>
 
@@ -34,8 +34,8 @@ To configure Scalapay affiliation, follow the steps below:
  - __Automatic Capture Immediately After Anti-fraud Analysis__:  Capture is automatically performed right after payment authorization and anti-fraud analysis. If you select this behavior and do not have anti-fraud analysis, the system will perform the payment capture as in __Automatic Capture Immediately After Payment Authorization__.  
  - __Deactivated: Not Automatically Captured__: capture takes place only when the order is invoiced. If you select this behavior, it is important to pay attention to the invoicing time, as invoicing can exceed the capture time agreed with the payment provider and lead to the cancellation of the transaction.
 
-<ui>6.Click on __Save__.</ui>
+<ui>6.Click `Save`.</ui>
 
 To set up payment conditions, access [Configure special payment conditions](https://help.vtex.com/en/tutorial/condicoes-de-pagamento). For the credit card option, select the __vtex-integration-scalapay-v0__ affiliation.
 
-After following the indicated steps, Scalapay connector may take up to 10 minutes to appear at your store's checkout as a payment option.
+After following the indicated steps, Scalapay may take up to 10 minutes to appear at your store's checkout as a payment option.

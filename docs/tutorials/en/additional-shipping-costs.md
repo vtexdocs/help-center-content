@@ -17,7 +17,7 @@ subcategory: 7uJcyu0VawEm8ggqKu404u
 
 Additional shipping costs are extra charges added to the shipping rate as established in [shipping policies](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140). So, when configuring costs for shipping items, you can set a fixed rate and include additional charges. Together, these values will compose the [shipping rate](https://help.vtex.com/en/tutorial/gerenciar-valores-de-frete--tutorials_141). 
 
-![Tarifa envio EN](https://images.ctfassets.net/alneenqid6w5/21DY5nCwLfuquTatiw2Q3e/8aa8e3fcbe570f3862e3e31b3a7db0eb/Tarifa_envio_EN.svg)
+![Tarifa envio EN](//images.ctfassets.net/alneenqid6w5/21DY5nCwLfuquTatiw2Q3e/8aa8e3fcbe570f3862e3e31b3a7db0eb/Tarifa_envio_EN.svg)
 
 You can configure the following additional costs:
 
@@ -26,7 +26,7 @@ You can configure the following additional costs:
 * [Insurance charge](https://help.vtex.com/en/tutorial/additional-shipping-costs--2vqGwMn0LabkOHY6zSHYNV#additional-insurance-charge);
 * [Extra shipping charge](https://help.vtex.com/en/tutorial/additional-shipping-costs--2vqGwMn0LabkOHY6zSHYNV#additional-shipping-charge).
 
-![adicionais frete EN](https://images.ctfassets.net/alneenqid6w5/3j3VNUKq6qTGJRfGWGbc14/eee27446335556a96fece61f8d2f0e8f/adicionais_frete_EN.svg)
+![adicionais frete EN](//images.ctfassets.net/alneenqid6w5/3j3VNUKq6qTGJRfGWGbc14/eee27446335556a96fece61f8d2f0e8f/adicionais_frete_EN.svg)
 
 <div class="alert alert-danger">
 Note that all of them can be simultaneously considered for composing the shipping rate. The final calculation of the <a href="https://help.vtex.com/en/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM">shipping rate</a> is the sum of all additional charges plus the flat rate. 
@@ -69,7 +69,7 @@ There are two ways to configure the weight-based additional charge:
 
 To learn more, access their tutorials.
 
-![faixa-peso EN](https://images.ctfassets.net/alneenqid6w5/4s9nSGox3lNthbGiDUdOFq/df911253923073437cf3708e1d2b753b/faixa-peso_EN.png)
+![faixa-peso EN](//images.ctfassets.net/alneenqid6w5/4s9nSGox3lNthbGiDUdOFq/df911253923073437cf3708e1d2b753b/faixa-peso_EN.png)
 
 ## Price-based additional charge
 
@@ -163,4 +163,4 @@ To configure the additional shipping charge, go to the left-side menu in the VTE
     If you want to include a 10% fee, fill in the field with 10. Use a period to indicate the decimal place, such as 1.67.
 3. Click on `Save`.
 
-![adicional configuracoes EN](https://images.ctfassets.net/alneenqid6w5/2pVEQFyDHdXcZYpkQW85m0/2a2708eaac81731568792959f167bdd9/adicional_configuracoes_EN.png)
+![adicional configuracoes EN](//images.ctfassets.net/alneenqid6w5/2pVEQFyDHdXcZYpkQW85m0/2a2708eaac81731568792959f167bdd9/adicional_configuracoes_EN.png)

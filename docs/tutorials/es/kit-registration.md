@@ -3,8 +3,8 @@ title: 'Registrar kit'
 id: tutorials_215
 status: PUBLISHED
 createdAt: 2017-04-27T22:13:50.843Z
-updatedAt: 2023-03-29T14:48:43.077Z
-publishedAt: 2023-03-29T14:48:43.077Z
+updatedAt: 2024-05-06T14:40:12.311Z
+publishedAt: 2024-05-06T14:40:12.311Z
 firstPublishedAt: 2017-04-27T23:02:48.663Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -26,7 +26,7 @@ Un kit puede permitir o no que sus componentes se vendan por separado, entienda 
 
 Para configurar el Kit es necesario que los productos que harán parte de este – sus componentes – ya estén creados. Como en el siguiente ejemplo:
 
-![01-Componentes ES](https://images.ctfassets.net/alneenqid6w5/1cgf40SaniUaYUIg4wuKyo/0f124e3ab1d1f881f5d0fe225b64d746/01-components_ES.png)
+![01-Componentes ES](//images.ctfassets.net/alneenqid6w5/1cgf40SaniUaYUIg4wuKyo/0f124e3ab1d1f881f5d0fe225b64d746/01-components_ES.png)
 
 Luego de crear los productos componentes, podemos continuar con la configuración del Kit.
 
@@ -38,7 +38,7 @@ Luego de crear los productos componentes, podemos continuar con la configuració
 5. Si quiere un Kit Look, haga clic en la opción __Kit con ítems vendidos por separado__.
 6. Haga clic en `Guardar`.
 
-![02-kit ES](https://images.ctfassets.net/alneenqid6w5/6PUdHiV1UAuMC6A80QYOQI/e14209f28e53d84e8f1af4ecb6261bac/02-kit_ES.png)
+![02-kit ES](//images.ctfassets.net/alneenqid6w5/6PUdHiV1UAuMC6A80QYOQI/e14209f28e53d84e8f1af4ecb6261bac/02-kit_ES.png)
 
 ## Asociar componentes
 
@@ -53,30 +53,26 @@ Después de crear el producto que se convertirá en el Kit, deben asociarse los 
 7. Rellene el precio unitario del SKU dentro del Kit.
 6. Haga clic en `Guardar`.
 
-![03-agregar componente al Kit ES](https://images.ctfassets.net/alneenqid6w5/2ghV5EOOAQ4kQOIomsmusE/5f7f3a94ffb0df4b4cdb74f71373445a/03-add_component_to_kit_ES.gif)
+![03-agregar componente al Kit ES](//images.ctfassets.net/alneenqid6w5/2ghV5EOOAQ4kQOIomsmusE/5f7f3a94ffb0df4b4cdb74f71373445a/03-add_component_to_kit_ES.gif)
 
-![04-Kit en el carrito  TODO](https://images.ctfassets.net/alneenqid6w5/4yJVbkTnDyIC2c682UskYw/8cad5dc5512f49e73a10abb31184ba8e/04-kit_in_cart_ALL.png)
+![04-Kit en el carrito  TODO](//images.ctfassets.net/alneenqid6w5/4yJVbkTnDyIC2c682UskYw/8cad5dc5512f49e73a10abb31184ba8e/04-kit_in_cart_ALL.png)
 
 ## Peso del Kit
 
 El peso del Kit estará conformado por la suma del peso de sus componentes. Editar el peso directamente en la página del Kit no surtirá efectos en la plataforma. La simulación de coste de envío sigue la misma regla.
 
-## Inventario
+## Stock
 
-El inventario del Kit siempre será el inventario de sus componentes. Es decir, no es posible ingresar inventario apenas en el Kit, es necesario que se ingrese inventario en cada uno de sus componentes independientes, a fin de actualizar el inventario del Kit.
+El [stock](https://help.vtex.com/es/tutorial/inventory-management--tutorials_139) del Kit siempre será el inventario de sus componentes. Es decir, no es posible ingresar stock apenas en el Kit, es necesario que se ingrese stock en cada uno de sus componentes independientes, a fin de actualizar el stock del Kit. Esa información es visualizada en tu Admin VTEX en **Catálogo > Stock > Gestión del stock**.
 
-Esa información es visualizada en __Inventario y envío > Inventario__:
+Como todos los SKUs componentes del Kit solo pueden venderse juntos, el stock será igual al SKU con menos ítems en stock. Esto porque no puede comprarse el Kit cuando uno de los componentes ya no tiene stock.  
 
-![05-Administrar inventario por Kit ES](https://images.ctfassets.net/alneenqid6w5/4qlUYLkF1YyaAkQqyQkEKO/25614dccff3abf9ed8c52e06890d2fb9/05-manage_inventory_by_kit_ES.gif)
+Ejemplo: El Kit tiene dos componentes. El componente 1 tiene 30 unidades en stock. El componente 2 tiene 3 unidades en stock. Solo podrán venderse 3 unidades del Kit.
 
-Como todos los SKUs componentes del Kit solo pueden venderse juntos, el inventario será igual al SKU con menos ítems en inventario. Esto porque no puede comprarse el Kit cuando uno de los componentes ya no tiene inventario.  
-
-Ejemplo: El Kit tiene dos componentes. El componente 1 tiene 30 unidades en inventario. El componente 2 tiene 3 unidades en inventario. Solo podrán venderse 3 unidades del Kit.
-
-Los componentes del Kit pueden estar en distintos inventarios, siempre que se envíen desde el mismo muelle. Si no salen por el mismo muelle, todo el Kit deja de estar disponible. 
+Los componentes del Kit pueden estar en distintos stocks, siempre que se envíen desde el mismo muelle. Si no salen por el mismo muelle, todo el Kit deja de estar disponible. 
 
 <div class="alert alert-info">
-<p>Este escenario no ocurre con Kit Look, porque el Kit Look puede venderse con los componentes que quedan en inventario, sin necesidad de tener todos los componentes del Kit con inventario.</p>
+<p>Este escenario no ocurre con Kit Look, porque el Kit Look puede venderse con los componentes que quedan en stock, sin necesidad de tener todos los componentes del Kit con stock.</p>
 </div>
 
 ## Precio
@@ -88,7 +84,7 @@ También podrá modificar únicamente el precio final del Kit directamente desde
 Pero tenga en cuenta que al cambiar cualquier componente se generará un nuevo precio final, actualizando lo que se había registrado anteriormente.
 Alterar solo el precio final no actualiza el precio de los componentes.
 
-![06-Lista de precios ES](https://images.ctfassets.net/alneenqid6w5/4lM2ecWDE40Ooa44scKIq6/6fa14fb364430e3bfc2fa3fff64c8e96/06-price_list_ES.png)
+![06-Lista de precios ES](//images.ctfassets.net/alneenqid6w5/4lM2ecWDE40Ooa44scKIq6/6fa14fb364430e3bfc2fa3fff64c8e96/06-price_list_ES.png)
 
 ### Más información
 

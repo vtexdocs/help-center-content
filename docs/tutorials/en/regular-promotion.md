@@ -1,10 +1,10 @@
 ---
 title: 'Regular Promotion'
 id: tutorials_327
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-04-27T22:07:59.690Z
-updatedAt: 2022-12-08T19:33:36.098Z
-publishedAt: 2022-08-23T19:50:18.784Z
+updatedAt: 2024-05-15T16:38:18.730Z
+publishedAt: 2024-05-15T16:38:18.730Z
 firstPublishedAt: 2017-04-27T23:03:15.647Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -89,7 +89,7 @@ For the promotion to be valid for all sales policies, leave the checkboxes empty
 
 In this section, you need to choose whether this promotion will apply to all products in your store or only to specific products, as illustrated below.
 
-![promocoes-restricao-en](https://images.ctfassets.net/alneenqid6w5/55xxIduLJDJrwQMuk4OgRu/adc5cdd25eb79636530e31e668b765e3/image.png)
+![promocoes-restricao-en](//images.ctfassets.net/alneenqid6w5/55xxIduLJDJrwQMuk4OgRu/adc5cdd25eb79636530e31e668b765e3/image.png)
 
 If you want the promotion to apply to your entire catalog, select the **Apply to all products** option.
 
@@ -99,7 +99,7 @@ You can add or remove **Categories**, **Brands**, **Collections**, **Products** 
 
 See an example below. In this case, the promotion includes all products from the category **Home Appliances** whose brand is **Brastemp**, except the product **Refrigerator 100**.
 
-![exemplo-en](https://images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/b3d7c4dff6f1039056bbd2a246f05b19/image.png)
+![exemplo-en](//images.ctfassets.net/alneenqid6w5/69J3NHBR8yLbbn04SSc5er/b3d7c4dff6f1039056bbd2a246f05b19/image.png)
 
 In the **Products** and **SKUs** fields, you can opt to upload a **.txt** file with one product or SKU ID per row instead of selecting one product or one SKU at a time. To do this, click on **Choose file** and select your **.txt** file.
 
@@ -113,12 +113,12 @@ Products must meet all the conditions specified in this section to be available 
 
 The customer's request must meet the conditions added in this section to be valid in the promotion.
 
-- **Minimum and maximum order value:** The promotion will apply considering the "gross" cart value, without taking other discounts/promotions or shipping into account.
+- **Minimum and maximum order value:** for price promotions that directly adjust the value of items in the cart, the promotion activation is based on the original price of the items. And for promotions that offer other benefits, such as free shipping or gifts, the price considered to activate the promotion is the price already discounted.
 - **Aggregate value of purchases:** The discount will apply if the total value of all purchases made by the customer reaches the required value.
 - **Item price between:** The discount will apply if the value of the item is within the range of values set by the store.
 - **Price "From" and "to"; prices are the same** or **"from" and "to" prices are different:** Refers to the added product values. Only one can be selected.
 - **Use restriction BINs:** The discount will be granted if the card's BIN is given.
-- **Marketing Tags:** Field used to restrict the activation of the promotion if the purchase is made by the [VTEX Subscription System module](https://help.vtex.com/en/tutorial/how-do-subscriptions-work--frequentlyAskedQuestions_4453#). 
+- **Marketing Tags:** Field used to restrict the activation of the promotion. 
 - **Affiliates:** Marketplace order identifier. The discount will apply to selected affiliates. Read the article on [What is an affiliate](https://help.vtex.com/en/tutorial/what-is-an-affiliate--4bN3e1YarSEammk2yOeMc0?locale=en) for more information.
 - **Customer cluster:** The discount will apply if the client is part of the selected cluster. It is important to stress that the name of the cluster must be the same as the one added; any spelling error will prevent the correct functioning of the configuration.
 - **Shipping countries**: The discount will apply to the selected countries given in this field. 

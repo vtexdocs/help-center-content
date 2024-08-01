@@ -23,7 +23,7 @@ Ahora usted puede filtrar los precios combinando las múltiples Categorías y Ma
 
 Esta actualización de la funcionalidad permite la exportación de precios más específicos, a partir de la selección de los filtros.
 
-![filtro preco-ES](https://images.ctfassets.net/alneenqid6w5/7rJSF8qFUuoagVZaeVw2mp/4f00df74073f97f6da58c621b0b4a313/filtro_preco-ES.png)
+![filtro preco-ES](//images.ctfassets.net/alneenqid6w5/7rJSF8qFUuoagVZaeVw2mp/4f00df74073f97f6da58c621b0b4a313/filtro_preco-ES.png)
 
 ## ¿Qué necesito hacer?
 Para utilizar esta nueva configuración, realice los siguientes pasos:

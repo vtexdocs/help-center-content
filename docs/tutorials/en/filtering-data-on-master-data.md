@@ -3,8 +3,8 @@ title: 'How to filter data in Master Data'
 id: tutorials_778
 status: PUBLISHED
 createdAt: 2017-04-27T21:58:11.041Z
-updatedAt: 2023-03-28T23:42:30.477Z
-publishedAt: 2023-03-28T23:42:30.477Z
+updatedAt: 2024-06-27T00:07:07.554Z
+publishedAt: 2024-06-27T00:07:07.554Z
 firstPublishedAt: 2017-04-27T23:03:42.905Z
 contentType: tutorial
 productTeam: Master Data
@@ -15,40 +15,54 @@ legacySlug: filtering-data-on-master-data
 subcategory: WpbGhubuRZaNZilJSXnqu
 ---
 
-In Master Data, you can create filters for accesses through API, or for viewing the forms. Creating filters facilitates the search and query of data, enabling a greater control on your data. Filters must be set up first in the data entity, and subsequently, in the form desired. To be set up as a filter, a field should not be of the CEP, Text and File types. Also, a good practice is to set up filters with fields that contain just a few options for completion, such as “Categoria,” for example.
+In Master Data, you can create filters for API access and viewing forms. Filters simplify data search and query, giving you more control over your data.
 
-## How to set up a Data Entity filter
+To create a filter, you must first configure it on the data entity and then on the desired form, following the steps described in the following sections.
 
-1. In the VTEX Admin, access **Store Settings** > **Storefront** > **Master Data.**
-2. In Master Data, click **Aplications** > **Data structure.**
-2. Access the **Entidade de Dados** tab.
-3. Click on the **editar** button in the entity in which you intend to set up a filter.
-4. The list of fields will be shown.
-5. Click on the gear icon of the field that you intend to set up.
-6. Check the **É filtro **option.**
-7. Click on the **Salvar** button.
-8. In the list of entities, click on the **Publicar** button, with the disk icon.
-9. Wait for the publication and re-indexation of data to view the filter.
+## Filter requirements
 
-## How to set up the filter in the form
+Follow the recommendations below when setting fields as filters:
 
-1. Access the **Master Data** module;
-2. Click on the **Aplicações** tab;
-3. In the application containing the form in which you want to create the filter, click on the gear icon;
-4. The list of forms will be displayed; click on the pencil icon of the form that you intend to edit;
-5. Fill out the **Filtros** field with the internal name of the field that was marked as filter. “Internal name” is the first column when creating and editing a data entity; this name cannot be changed. To enter more than one value, just separate them by comas, without spaces;
-6. Click on the **Salvar **button.
+- Do not use fields of the **CEP** (Brazilian postal code system), **Text** and **File** types as filters.
+- Add a field containing a few options as a filter, such as "Category".
 
-## How to use filters
+## Configuring filters in the data entity
 
-After creating the filter, you will be able to use it in the form. To do so, follow the steps below:
+Follow the instructions below to set an existing field as a filter in the data entity:
 
-1. Access the **Master Data** module;
-2. Click on the **Aplicações** tab;
-3. In the desired application, identify the form that you intend to view;
-4. In the desired form, click on the list icon;
-5. The page with the list of records of this form will be shown. On one side, you will see the filters set up.
-6. To use the filters, just click on the name of the filter, and on its value.
-7. To check the results of the filter, scroll down the page and click on the **Filtrar **button.
-8. You can use several fields simultaneously as filters, as well as several values in the same field. To remove a filter, just click on the **x** icon next to the value.
+1. In the VTEX Admin, access **Store Settings** > **Storefront** > **Master Data**.
+2. In Master Data, click the gear icon <i class="fas fa-cog"></i> next to an application.
+3. Click **Data structure**.
+4. Go to the **Data Entities** tab.
+5. Click the edit button <i class="fas fa-edit"></i> on the entity you want to set the filter.
 
+   You will be redirected to the list of the entity's fields.
+6. Click the gear <i class="fas fa-cog"></i> button in the field you want to set as a filter.
+7. Check the **Is filterable?** option.
+8. Click the `Save` button.
+9. In the list of entities, click the diskette button <i class="fas fa-save"></i> to publish the entity.
+10. Click the reindex button <i class="fas fa-expand-arrows-alt"></i> to index the entity.
+
+## Configuring filters in the form
+
+Follow the instructions below to configure filters in the form:
+
+1. In the VTEX Admin, access **Store Settings** > **Storefront** > **Master Data**.
+2. In the application containing the form where you want to create the filter, click the gear icon <i class="fas fa-cog"></i>.
+
+   You will be redirected to the list of forms in the app.
+3. Click the edit <i class="fas fa-edit"></i> button on the row of the form you want to edit.
+4. Complete the **Filters** field with the internal name of the designated filter field. The internal name corresponds to the initial field value when creating and editing the data entity, and it cannot be changed. To input multiple values, separate them with commas, without spaces.
+5. Click the `Save` button.
+
+## Filtering form records
+
+After creating the filter, you can use it in the form. To do this, follow the steps below:
+
+1. In the VTEX Admin, go to **Store Settings** > **Storefront** > **Master Data**.
+2. In the desired application, find the form you want to view and click the list icon <i class="fas fa-bars"></i>.
+
+   You will be redirected to the list of records for this form. On the side, you will see the configured filters. 
+3. To filter, select the filter's name and value, then click `Filter`.
+
+   You can filter by multiple fields at once, and use multiple values for a single field. To remove a filter, click the `X` next to its value.

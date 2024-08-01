@@ -3,8 +3,8 @@ title: 'Setting up payments with Khipu'
 id: RcHQjURWDXa0doL15DiUj
 status: PUBLISHED
 createdAt: 2023-03-24T19:34:06.675Z
-updatedAt: 2023-03-30T14:08:54.819Z
-publishedAt: 2023-03-30T14:08:54.819Z
+updatedAt: 2024-01-24T17:53:53.676Z
+publishedAt: 2024-01-24T17:53:53.676Z
 firstPublishedAt: 2023-03-30T14:08:54.819Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: setting-up-payments-with-khipu
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the Khipu payment provider. With this connector, your store can make sales through promissory.
+At VTEX, it is possible to integrate with the Khipu payment provider. With this provider, your store can make sales through Notes Payable.
 
-To configure Khipu affiliation, follow the steps below:
+To configure Khipu, follow the steps below:
 
-1. In the VTEX Admin, go to __Store Settings > Payments > Settings__, or type __Settings__ in the search bar at the top of the page.
-2. In the __Gateway affiliations__ tab, click on the `+` button.
-3. Click on the __Khipu__ connector.
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __Khipu__ in the search bar and click on the name of the provider.
 4. Fill in the __Application Key__ and __Application Token__ fields with data provided by Khipu.
 5. In the __Payment settlement__ field, select one of the available options:
 
@@ -35,18 +35,18 @@ To configure Khipu affiliation, follow the steps below:
 
 <ui>  7. Click on <b>Save.</b></ui>
 
-## Setting up Promissory
+## Setting up Notes Payable
 
-If you have not yet configured the promissory note as a payment method in other connectors in your store, go to [Setting up payments with Promissory](https://help.vtex.com/en/tutorial/setting-up-payments-with-promissory--5pW7avTwtyQcMu4uiW8quQ).
+If you have not yet configured the Notes Payable as a payment method in other connectors in your store, go to [Setting up payments with Notes Payable](https://help.vtex.com/en/tutorial/setting-up-payments-with-notes-payable).
 
 ## Setting up payment condition 
 
 1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
 2. In the __Payment Conditions__ tab, click on the `+` button.
-3. On __Custom Payment__, click the button corresponding to the name used for the promissory note payment method (configured in the previous section).
+3. On __Custom Payment__, click the button corresponding to the name used for the Notes Payable payment method (configured in the previous section).
 4. Activate the condition in the __Status__ field.
 5. On __Process with affiliation__, select __srconsultores-khipu-v0__.
 6. If you wish, you can also configure [payment special conditionso](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
 7. Click on `Save`.
 
-After following the indicated steps, Khipu connector may take up to 10 minutes to appear at your store's checkout as a payment option.
+After following the indicated steps, Khipu may take up to 10 minutes to appear at your store's checkout as a payment option.

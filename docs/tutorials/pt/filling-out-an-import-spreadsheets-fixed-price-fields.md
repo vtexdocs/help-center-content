@@ -17,7 +17,7 @@ subcategory: 4id9W3RDyw02CasOm2C2iy
 
 Para entender melhor o significado de cada campo da planilha de cadastro de preço fixo, veja a descrição completa dos itens abaixo.
 
-![tabela.preço.fixo](https://images.ctfassets.net/alneenqid6w5/6V1yGMgHF0NP5pzZzcSOCF/cc9369da09f81cafaeac1fc73ac61aa1/tabela.pre__o.fixo.png)
+![tabela.preço.fixo](//images.ctfassets.net/alneenqid6w5/6V1yGMgHF0NP5pzZzcSOCF/cc9369da09f81cafaeac1fc73ac61aa1/tabela.pre__o.fixo.png)
 
 - **SKU ID:** ID do SKU que deseja adicionar o preço fixo.
 - **Trade Policy:** nome ou ID da política comercial em que o preço fixo será aplicado.

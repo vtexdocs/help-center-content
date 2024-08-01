@@ -3,8 +3,8 @@ title: 'Partial Invoices'
 id: q9GPspTb9cHlMeAZfdEUe
 status: PUBLISHED
 createdAt: 2022-06-20T20:13:46.342Z
-updatedAt: 2023-03-31T22:36:12.880Z
-publishedAt: 2023-03-31T22:36:12.880Z
+updatedAt: 2024-04-01T17:51:08.329Z
+publishedAt: 2024-04-01T17:51:08.329Z
 firstPublishedAt: 2022-06-20T20:21:34.641Z
 contentType: trackArticle
 productTeam: Post-purchase
@@ -29,7 +29,8 @@ Partial invoices generate the following actions in the **Orders** module and oth
 * Partial invoices added to orders also result in partial settlements in the transaction. The total order amount will be updated after adding the invoice, and it corresponds to the amount settled in the VTEX payment gateway.   
 * The customer is automatically refunded in case there is a chargeback.  
 * In case an item and its value have to be removed from an order, the retailer can change the order, discounting the item's value — only if the previous invoices settle the corresponding amounts and keep the rest of the settled amount open.  
-* As the partial invoice only settles the amount corresponding to the invoice, requesting changes to the order amount is possible. A partial invoice keeps the transaction open, waiting for the rest of the amount to be settled or canceled — as when changing an order by discounting the amount.   
+* As the partial invoice only settles the amount corresponding to the invoice, requesting changes to the order amount is possible. A partial invoice keeps the transaction open.
+* Orders with partial invoices cannot be [canceled](https://help.vtex.com/en/tutorial/como-cancelar-pedido--tutorials_186). If the customer wants to replace or remove items from the order, it is possible to [change the order](https://help.vtex.com/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
 <div class = "alert alert-info">
 The partial invoices feature is available to all VTEX stores, but the partial settlement in the gateway is in beta. Besides, for partial invoices to trigger partial settlements in the transaction, it is necessary to use a connector with the <a href="https://help.vtex.com/en/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m">Payment Provider Protocol</a>. Legacy connectors do not support the functionality.

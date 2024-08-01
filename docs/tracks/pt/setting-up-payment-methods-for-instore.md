@@ -1,10 +1,10 @@
 ---
-title: 'Configurar métodos de pagamento para o inStore'
+title: 'Configurar métodos de pagamento para o VTEX Sales App'
 id: 2liigRors32hzqBNs2M1Oa
 status: PUBLISHED
 createdAt: 2020-06-28T14:54:46.020Z
-updatedAt: 2023-05-31T14:44:58.176Z
-publishedAt: 2023-05-31T14:44:58.176Z
+updatedAt: 2023-08-28T11:55:43.015Z
+publishedAt: 2023-08-28T11:55:43.015Z
 firstPublishedAt: 2020-06-28T15:17:02.889Z
 contentType: trackArticle
 productTeam: Shopping

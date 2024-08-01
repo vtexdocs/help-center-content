@@ -3,8 +3,8 @@ title: 'Criar Audiência de campanha'
 id: 6cnuDZJzIkIeocewAQQK4K
 status: PUBLISHED
 createdAt: 2018-12-02T18:34:21.663Z
-updatedAt: 2023-03-31T13:38:38.613Z
-publishedAt: 2023-03-31T13:38:38.613Z
+updatedAt: 2023-10-31T19:23:55.713Z
+publishedAt: 2023-10-31T19:23:55.713Z
 firstPublishedAt: 2018-12-03T16:51:36.457Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -69,7 +69,7 @@ Após clicar em `Criar novo público-alvo`, você precisa seguir as instruções
     * **ou:** a audiência de campanha será composta por clientes que se encaixarem em qualquer um dos públicos-alvo.
     * **e:** a audiência de campanha será composta por clientes que se encaixarem em todos os públicos-alvos, somando seus critérios.
 
-![publico-alvo-e-ou-pt](https://images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/92a1ac37149d16f9b039cd1f024e6dff/image4.gif)
+![publico-alvo-e-ou-pt](//images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/92a1ac37149d16f9b039cd1f024e6dff/image4.gif)
 
 ### Defina seu público-alvo
 
@@ -85,13 +85,12 @@ Após clicar em `Criar novo público-alvo`, você precisa seguir as instruções
 
 Exemplo: participam do público-alvo os itens cuja marca é __Nike__, conforme ilustrado a seguir. A configuração também indica que pelo menos 3 itens precisam se enquadrar nesses critérios. Portanto, um cliente precisa ter no carrinho pelo menos 3 itens que se encaixam nesse cenário para participar do público-alvo.
 
-![exemplo-marca-publico-alvo-pt](https://images.ctfassets.net/alneenqid6w5/4Bot3XZUQJ4JkWJknpTxB2/e92e92a79b28abc9bbfe84f886c17c8d/screencapture-lojadobreno-myvtex-admin-rnb-2022-07-21-18_12_45_1.png)
+![exemplo-marca-publico-alvo-pt](//images.ctfassets.net/alneenqid6w5/4Bot3XZUQJ4JkWJknpTxB2/e92e92a79b28abc9bbfe84f886c17c8d/screencapture-lojadobreno-myvtex-admin-rnb-2022-07-21-18_12_45_1.png)
 
 ### Condições para seu público-alvo ser aplicado
 
 * **Valor mínimo do pedido:** valor mínimo que o total de itens no carrinho do cliente precisa ter. Este total considera a soma do preço dos produtos no carrinho que atendem aos critérios da audiência de campanha.
 * **Valor máximo do pedido:** valor máximo que o total de itens no carrinho do cliente pode ter. Este total considera a soma dos preços dos produtos no carrinho que atendem aos critérios da audiência de campanha.
-* **Usar histórico em promoção:** permite que o histórico de compras do cliente seja considerado ao avaliar se ele faz parte do público-alvo ou não. Caso selecionada, essa opção exige que você escolha o período de tempo em que o histórico deve ser considerado. Você pode adicionar datas específicas ou contar dias a partir da data atual.
 * **Valor do item entre __ e __:** preço mínimo e máximo que cada item no carrinho pode ter. A audiência de campanha será ativada se o valor do item atender ao intervalo de valores preenchidos.
 * **Restrição de Promoção por BIN:** a audiência de campanha será ativada caso o _Bank Identification Number_ (BIN) do cartão de crédito esteja entre os caracteres preenchidos. O BIN corresponde aos 6 ou 8 números iniciais de um cartão e serve para identificar o banco e a bandeira do cartão.
 * **Marketing Tags:** campo utilizado para restringir a ativação da audiência de campanha caso a compra seja realizada pelo [módulo de Assinaturas da VTEX](https://help.vtex.com/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453#).

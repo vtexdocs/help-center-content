@@ -1,10 +1,10 @@
 ---
 title: 'Configuring My Account (Conversational Commerce)'
 id: 42bnIdyC2c5dwz9KKT0UKc
-status: PUBLISHED
+status: DRAFT
 createdAt: 2023-03-07T19:10:12.107Z
-updatedAt: 2023-03-07T20:00:20.806Z
-publishedAt: 2023-03-07T20:00:20.806Z
+updatedAt: 2024-01-05T16:28:41.167Z
+publishedAt: 
 firstPublishedAt: 2023-03-07T19:58:45.529Z
 contentType: tutorial
 productTeam: Shopping
@@ -24,7 +24,7 @@ subcategory: 5bBAgUbHdh6ovdZ4kGsN7O
 
 ## Conversational Settings Fields
 
-![my account - conversational commerce - EN](https://images.ctfassets.net/alneenqid6w5/6HpER9MIEWSWz1ULYD22h8/2329e5c54977ddb95a7fd6fd4ad01b47/image.png)
+![my account - conversational commerce - EN](//images.ctfassets.net/alneenqid6w5/6HpER9MIEWSWz1ULYD22h8/2329e5c54977ddb95a7fd6fd4ad01b47/image.png)
 
 * **Language:** The default language for bot messages to customers in VTEX Conversational Commerce. Required field.
 * **Welcome message:** The first message that VTEX Conversational Commerce will send in its initial interaction with the customer. This message is followed by explanatory messages about the purchase process and human support from your customer service team. Required field. Our default suggestion is: 

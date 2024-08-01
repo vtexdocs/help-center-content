@@ -1,10 +1,10 @@
 ---
 title: 'Setting up payments with PayPal'
 id: 4p3sD9u1moq2Aya2oc684w
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-02-21T17:15:53.516Z
-updatedAt: 2023-03-21T20:46:52.481Z
-publishedAt: 2023-03-21T20:46:52.481Z
+updatedAt: 2024-03-18T20:29:36.504Z
+publishedAt: 
 firstPublishedAt: 2018-02-21T17:54:19.079Z
 contentType: tutorial
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: en
 legacySlug: setting-up-payment-with-paypal
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+<div class="alert alert-danger">This payment integration can no longer be configured on the platform due to the <a href="https://help.vtex.com/en/announcements/legacy-payment-connectors-will-be-discontinued-in-2024--4R5YIjUu1IWkiOHzXtQU14">legacy provider removal process</a> and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.</div>
 
 At VTEX gateway, you can set up the PayPal sub-acquirer to receive your payments. Through it, your customer chooses the PayPal __payment method__ and performs their authentication in the PayPal environment.
 

@@ -3,8 +3,8 @@ title: 'Como solucionar erros em pedidos de assinaturas'
 id: uLL8AYBGdtAmbbdL5gRCf
 status: PUBLISHED
 createdAt: 2020-02-05T14:32:49.763Z
-updatedAt: 2022-12-05T17:09:40.639Z
-publishedAt: 2022-12-05T17:09:40.639Z
+updatedAt: 2023-12-21T14:07:42.772Z
+publishedAt: 2023-12-21T14:07:42.772Z
 firstPublishedAt: 2020-02-11T15:00:00.666Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -14,6 +14,10 @@ locale: pt
 legacySlug: como-solucionar-pedidos-de-assinatura-com-erros
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
+
+<div class = "alert alert-info">
+É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo <a href="https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Minha Conta</a>.
+</div>
 
 É possível identificar e gerenciar erros em pedidos de assinaturas através do módulo de **Assinaturas** > **Dashboards** > **Pedidos de Assinatura** no Admin.
 
@@ -28,7 +32,7 @@ Problemas em ciclos de assinaturas acontecem quando há um problema que impede a
 
 A aba **Ciclos com problema**, ilustrada na imagem abaixo, reúne os pedidos de assinaturas que apresentam problemas desse tipo.
 
-![cicloscomproblema PT](https://images.ctfassets.net/alneenqid6w5/5ijnWeUeqRzKWa2agsxK7O/ee04171d3d9c785e049382f1e927b715/cicloscomproblema_PT.png)
+![cicloscomproblema PT](//images.ctfassets.net/alneenqid6w5/5ijnWeUeqRzKWa2agsxK7O/ee04171d3d9c785e049382f1e927b715/cicloscomproblema_PT.png)
 
 A partir dessa aba, é possível gerenciar os pedidos que apresentam ciclos com problema e fazer novas tentativas manuais de criação de pedidos. Por exemplo, quando um produto está indisponível, você pode ajustar o estoque e, em seguida, fazer a nova tentativa.
 
@@ -185,7 +189,7 @@ Erros de pagamento são os que acontecem durante o fluxo de aprovação do pagam
 
 Pedidos com esse tipo de erro podem ser visualizados na aba **Erro de Pagamento**, ilustrada na imagem abaixo.
 
-![errosdepagamento PT](https://images.ctfassets.net/alneenqid6w5/1RIw7xmqhpU4eWq0zHEnKG/305350275dedd4e7c7888814db9fab07/errosdepagamento_PT.png)
+![errosdepagamento PT](//images.ctfassets.net/alneenqid6w5/1RIw7xmqhpU4eWq0zHEnKG/305350275dedd4e7c7888814db9fab07/errosdepagamento_PT.png)
 
 Para analisar erros de pagamento, confira o passo a passo a seguir.
 
@@ -193,7 +197,7 @@ Para analisar erros de pagamento, confira o passo a passo a seguir.
 2. Clique na aba **Dashboards**.
 3. Na seção **Pedidos de Assinatura**, clique na aba **Erro de Pagamento**.
 4. Identifique o pedido desejado e clique na ID do pedido, conforme ilustrado na imagem abaixo. Você será redirecionado à página de detalhes do pedido, no módulo de **Todos os pedidos**.
-  ![PT Log Erro de pagamento](https://images.ctfassets.net/alneenqid6w5/7697GbtjQbOutzL1sgrpjV/afdaba25349564a26d46149b437aab2a/PT_Log_Erro_de_pagamento.png)
+  ![PT Log Erro de pagamento](//images.ctfassets.net/alneenqid6w5/7697GbtjQbOutzL1sgrpjV/afdaba25349564a26d46149b437aab2a/PT_Log_Erro_de_pagamento.png)
 5. Uma vez na página de detalhes do pedido, clique em `Ver detalhes da transação`, no card de **Pagamento**. Você será redirecionado à página de **Transações**, no módulo de **Pagamentos**.
 6. Na página de **Transações**, você poderá visualizar e analisar os eventos de transação do pedido. Leia o artigo [Visualizar detalhes da transação no Pagamentos](https://help.vtex.com/pt/tutorial/como-visualizar-detalhes-do-pedido) para mais informações.
 

@@ -1,10 +1,10 @@
 ---
 title: 'Abrir chamados para o suporte financeiro da VTEX'
 id: 1ad3TguXzCSKq4yuYSK80c
-status: CHANGED
+status: PUBLISHED
 createdAt: 2018-04-04T13:58:56.872Z
-updatedAt: 2020-11-27T19:40:27.285Z
-publishedAt: 2020-03-09T18:09:31.386Z
+updatedAt: 2024-07-29T22:02:21.897Z
+publishedAt: 2024-07-29T22:02:21.897Z
 firstPublishedAt: 2018-04-04T19:53:34.588Z
 contentType: tutorial
 productTeam: Billing
@@ -35,16 +35,17 @@ Depois de se autenticar pelo método escolhido, você entra no painel de suporte
 
 Para abrir um chamado, basta clicar no botão __Enviar uma solicitação__.
 
-![chamado financeiro1 PT](https://images.ctfassets.net/alneenqid6w5/51uuDEcQzKOkoOUEImoGqO/c8df51e5c79445754b132ca7cef1c12c/chamado_financeiro1_PT.png)
+![chamado financeiro1 PT](//images.ctfassets.net/alneenqid6w5/51uuDEcQzKOkoOUEImoGqO/c8df51e5c79445754b132ca7cef1c12c/chamado_financeiro1_PT.png)
 
 Você será levado para o formulário de abertura de chamado, onde deve preencher:
 - Seu nome.
 - A conta VTEX à qual se refere o chamado (o formulário carrega uma lista com as contas às quais você tem acesso. Se não tiver acesso a nenhuma conta VTEX, você não consegue abrir chamados).
+- CNPJ.
 - Que sua dúvida é Financeira.
 - O assunto.
 - A descrição da pergunta ou do problema.
 
-![chamado financeiro2 PT](https://images.ctfassets.net/alneenqid6w5/7sG4rinPpeuMyMcYsQke0G/10dc27da30681e980219bab1bba1dc0a/chamado_financeiro2_PT.png)
+![chamado financeiro2 PT](//images.ctfassets.net/alneenqid6w5/7sG4rinPpeuMyMcYsQke0G/10dc27da30681e980219bab1bba1dc0a/chamado_financeiro2_PT.png)
 
 Você pode também incluir anexos, como capturas de telas ou gifs animados que ajudem a descrever o contexto da sua solicitação.
 
@@ -84,7 +85,7 @@ Clicando em __Minhas solicitações__, você vê o histórico de chamados aberto
 
 Se clicar em __Todas as solicitações__, você pode ver o histórico de chamados abertos por quaisquer funcionários da sua loja.
 
-![chamado financeiro3 PT](https://images.ctfassets.net/alneenqid6w5/5rFH6THjZSeC2282OGcO0/575bdab938687e35d787bb41e618fee3/chamado_financeiro3_PT.png)
+![chamado financeiro3 PT](//images.ctfassets.net/alneenqid6w5/5rFH6THjZSeC2282OGcO0/575bdab938687e35d787bb41e618fee3/chamado_financeiro3_PT.png)
 
 ## Os status dos chamados
 
@@ -99,4 +100,4 @@ Depois disso, ele passa pelos status `Aguardando resposta`, `Resolvido` e `Fecha
 
 No seu painel de suporte, você pode filtrar a busca de chamados por status. Para isso, basta usar a caixa de seleção abaixo do botão de envio de solicitação.
 
-![chamado financeiro4 PT](https://images.ctfassets.net/alneenqid6w5/66WicNamPYmIWuKGo2ICSC/f45496c0f278e4382098908fcc1ae872/chamado_financeiro4_PT.png)
+![chamado financeiro4 PT](//images.ctfassets.net/alneenqid6w5/66WicNamPYmIWuKGo2ICSC/f45496c0f278e4382098908fcc1ae872/chamado_financeiro4_PT.png)

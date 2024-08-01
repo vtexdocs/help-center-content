@@ -3,8 +3,8 @@ title: 'Los métodos de pago mostrados en la caja difieren de las condiciones de
 id: 1cpVNspn5G6je4EZKzvCF9
 status: PUBLISHED
 createdAt: 2022-09-27T16:32:55.806Z
-updatedAt: 2023-04-10T15:14:18.718Z
-publishedAt: 2023-04-10T15:14:18.718Z
+updatedAt: 2024-06-07T21:23:28.431Z
+publishedAt: 2024-06-07T21:23:28.431Z
 firstPublishedAt: 2023-04-10T15:11:01.389Z
 contentType: knownIssue
 productTeam: Payments
@@ -36,8 +36,14 @@ Se trata de un problema intermitente y no se sabe cómo reproducir este comporta
 ## Simulación
 
 
+N/A
+
+
 
 ## Workaround
 
 
+
+1. Guardando de nuevo la regla.
+2. Reindexar todos los sistemas de pago en la caja a través de la API.
 

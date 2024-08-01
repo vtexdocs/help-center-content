@@ -3,8 +3,8 @@ title: 'As exportações de estoques individuais (inventários) não funcionam n
 id: 7GoxwXFUWnebmCqF1sm7rm
 status: PUBLISHED
 createdAt: 2022-10-24T19:21:06.182Z
-updatedAt: 2022-11-25T21:43:01.961Z
-publishedAt: 2022-11-25T21:43:01.961Z
+updatedAt: 2024-07-01T18:48:39.414Z
+publishedAt: 2024-07-01T18:48:39.414Z
 firstPublishedAt: 2022-10-24T19:21:06.574Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: as-exportacoes-de-estoques-individuais-inventarios-nao-funcionam-nas-contas-do-seller-portal
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 684464
 ---
 

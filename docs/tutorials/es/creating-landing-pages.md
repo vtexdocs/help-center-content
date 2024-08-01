@@ -3,8 +3,8 @@ title: 'Crear páginas de destino'
 id: 2DqFleXKz0Vsg3KhHLuUEB
 status: PUBLISHED
 createdAt: 2022-02-02T13:57:03.484Z
-updatedAt: 2023-03-24T22:24:37.311Z
-publishedAt: 2023-03-24T22:24:37.311Z
+updatedAt: 2024-08-01T13:10:40.896Z
+publishedAt: 2024-08-01T13:10:40.896Z
 firstPublishedAt: 2022-02-02T14:41:53.952Z
 contentType: tutorial
 productTeam: VTEX IO
@@ -27,7 +27,7 @@ En el Admin puedes crear páginas de destino personalizadas, como páginas para 
 
 2.Haz clic en **CREAR NUEVA**.
 
-![Crear Landing Pages](https://images.ctfassets.net/alneenqid6w5/79EZvMxQKLKyE88OxQJudE/b02f8122f28275b8e93a3241a7b7ba3f/cms-pages-es.png)
+![Crear Landing Pages](//images.ctfassets.net/alneenqid6w5/79EZvMxQKLKyE88OxQJudE/b02f8122f28275b8e93a3241a7b7ba3f/cms-pages-es.png)
 
 3.En la sección **Detalles de la página**, rellena los siguientes campos para definir los metadatos de la página:
 
@@ -38,6 +38,11 @@ En el Admin puedes crear páginas de destino personalizadas, como páginas para 
 | Requiere autenticación | Marca esta casilla si la nueva página de destino solo deberá ser accesible para usuarios autenticados. |
 | Descripción | Resumen de la nueva página web que se mostrará en las páginas de resultados de los motores de búsqueda. |
 | Palabras clave | Temas que definen el contenido de la página, ayudando a mostrar la página a los usuarios interesados en los resultados de los motores de búsqueda. |
+
+<div class="alert alert-warning">
+<p>Para evitar conflictos y garantizar la integridad del sistema, no se permite modificar la URL de una ruta existente. Si es necesario modificarla, se recomienda crear una nueva página con la nueva ruta y, de ser necesario, desactivar la anterior.
+</p>
+</div>
 
 <div class = "alert alert-info">
 <p>Los cinco campos anteriores impactan directamente en los accesos a la tienda y en el posicionamiento en las páginas de resultados de los motores de búsqueda. Antes de rellenar los metadatos de la página, ten en cuenta las mejores prácticas de SEO.

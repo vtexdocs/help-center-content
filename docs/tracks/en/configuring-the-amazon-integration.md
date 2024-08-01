@@ -3,8 +3,8 @@ title: 'Configuring the Amazon integration'
 id: 5J9CWPIbYQdAegJJWGsxan
 status: PUBLISHED
 createdAt: 2019-02-28T23:11:28.346Z
-updatedAt: 2022-02-03T23:25:36.883Z
-publishedAt: 2022-02-03T23:25:36.883Z
+updatedAt: 2023-09-22T20:17:01.064Z
+publishedAt: 2023-09-22T20:17:01.064Z
 firstPublishedAt: 2019-02-28T23:12:37.347Z
 contentType: trackArticle
 productTeam: Channels

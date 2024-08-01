@@ -3,8 +3,8 @@ title: "When disabling native service worker it's not possible to use a custom o
 id: 1GpzVam1nuGbrKR4Izx6D9
 status: PUBLISHED
 createdAt: 2023-03-14T18:20:55.443Z
-updatedAt: 2023-03-14T18:20:55.953Z
-publishedAt: 2023-03-14T18:20:55.953Z
+updatedAt: 2024-02-02T21:00:43.540Z
+publishedAt: 2024-02-02T21:00:43.540Z
 firstPublishedAt: 2023-03-14T18:20:55.953Z
 contentType: knownIssue
 productTeam: Store Framework

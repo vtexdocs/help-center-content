@@ -3,8 +3,8 @@ title: 'La API de búsqueda no devuelve los SKUs showIfNotAvailable=true para la
 id: 7p26JmS8pyPA8H0b1QJHyU
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:27.329Z
-updatedAt: 2022-11-25T22:10:15.920Z
-publishedAt: 2022-11-25T22:10:15.920Z
+updatedAt: 2024-02-16T20:29:43.164Z
+publishedAt: 2024-02-16T20:29:43.164Z
 firstPublishedAt: 2022-06-28T16:55:28.384Z
 contentType: knownIssue
 productTeam: Portal
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: la-api-de-busqueda-no-devuelve-los-skus-showifnotavailabletrue-para-las-consultas-fqspecificationfilter
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 336896
 ---
 

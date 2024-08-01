@@ -30,5 +30,5 @@ Criar um novo dicionário no Módulo CMS que não possua nenhum Host previamente
 
 Acesse o módulo CMS, clique nos botões lupa e limpar em sequência e o botão adicionar novo host será desbloqueado.
 
-![PT - Criar dicionário não disponibiliza opção de "Add"](https://images.ctfassets.net/alneenqid6w5/7bUb8P0cVAGpEb2Do9oRLz/f1e0765bbcb26d36981c3fe76d268cd3/image__2_.png)
+![PT - Criar dicionário não disponibiliza opção de "Add"](//images.ctfassets.net/alneenqid6w5/7bUb8P0cVAGpEb2Do9oRLz/f1e0765bbcb26d36981c3fe76d268cd3/image__2_.png)
 

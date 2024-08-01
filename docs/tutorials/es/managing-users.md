@@ -3,8 +3,8 @@ title: 'Gestionar usuarios'
 id: tutorials_512
 status: PUBLISHED
 createdAt: 2017-04-27T22:03:09.608Z
-updatedAt: 2022-08-24T14:24:37.685Z
-publishedAt: 2022-08-24T14:24:37.685Z
+updatedAt: 2024-06-10T18:24:36.901Z
+publishedAt: 2024-06-10T18:24:36.901Z
 firstPublishedAt: 2017-04-27T23:03:28.211Z
 contentType: tutorial
 productTeam: Identity
@@ -15,25 +15,27 @@ legacySlug: creando-usuarios, gestionar-usuarios
 subcategory: 63DHe3VQEEE6Uuua8gIs2M
 ---
 
-La gestión de los usuarios con acceso al ambiente administrativo de su tienda VTEX se realiza a través de la [Gestión de la cuenta](/es/tutorial/visao-geral-do-modulo-license-manager/), en la sección de **Usuarios**. Para acceder a esta sección, vaya a __Gestión de la cuenta__ > __Usuarios__ en el panel izquierdo del Admin.
-![Menú Usuarios](https://images.ctfassets.net/alneenqid6w5/4ufKrojjLZwb8zBdD5xz7f/9c7276322c2b64435565f664830dbd89/Men___Usuarios.png)
+La gestión de los usuarios con acceso al ambiente administrativo de su tienda VTEX se realiza a través de la [Configuración de la cuenta](https://help.vtex.com/es/tutorial/vision-general-configuraciones-de-la-cuenta--6USYxLuzNt4uAkvjdPF7I8), en la página de **Usuarios**. Para acceder a esta sección, en la barra superior de VTEX Admin, haz clic en el **avatar de tu perfil**, marcado con la inicial de tu correo electrónico, y luego en **Configuración de la cuenta** > **Cuenta**.
 
 En esta sección, se mostrará la lista de usuarios con sus respectivos __Nombre__, __Email__ y configuración de __MFA__. También pueden verse las presentes opciones de búsqueda, exportación y creación de nuevos usuarios, así como editar y eliminar usuarios.
-![Lista Usuários User Management ES](https://images.ctfassets.net/alneenqid6w5/1IjRv0l2rDBrSWtHj82CDm/e5e96de76d8d66202887bd3339e0f01d/Lista_Usu__rios_User_Management_ES.png)
+
+![Lista Usuários User Management ES](//images.ctfassets.net/alneenqid6w5/1IjRv0l2rDBrSWtHj82CDm/e5e96de76d8d66202887bd3339e0f01d/Lista_Usu__rios_User_Management_ES.png)
+
+<div class="alert alert-warning">
+Cualquier usuario que desee gestionar usuarios o claves de aplicación debe tener un perfil que contenga el <a href="https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3">recurso</a> <b>Save User</b>. Puedes utilizar, por ejemplo, el perfil predeterminado <a href="https://help.vtex.com/es/tutorial/roles-de-usuario-predefinidos--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted">User Administrator - RESTRICTED</a>.
+</div>
 
 ## Creando un nuevo usuario
 
-1. Acceda al módulo __Gestión de la cuenta__.
-2. Haga clic en la pestaña __Usuarios__.  
-![Menú Usuarios](https://images.ctfassets.net/alneenqid6w5/4ufKrojjLZwb8zBdD5xz7f/9c7276322c2b64435565f664830dbd89/Men___Usuarios.png)
-3. Haga clic en el botón __(+) Nuevo __.  
-![Botão Novo Usuário User Management ES](https://images.ctfassets.net/alneenqid6w5/2MzlIdrqPecPcrnjeSMTTx/a677d46ec25ae71c650f4839c870a169/Bot__o_Novo_Usu__rio_User_Management_ES.png)
-4. Rellene el campo **Email**.  
-![Cadastro Novo usuário User Management ES](https://images.ctfassets.net/alneenqid6w5/6EWyev5Qu1nYYxbL1K8YMw/c25703eb8635123358251772d94e147a/Cadastro_Novo_usu__rio_User_Management_ES.png)
-5. Agregue los [roles](/es/tutorial/como-criar-perfil-de-acesso/) deseados.  
-![Selecionar perfis User Management ES](https://images.ctfassets.net/alneenqid6w5/4wSp2QkYZH114DFFEOo3ly/dc315c780a29a71e12efa19bdaaa8995/Selecionar_perfis_User_Management__ES.png)
-6. Haga clic en el botón **Guardar**.  
-![Botão Salvar Usuário User Management ES](https://images.ctfassets.net/alneenqid6w5/707TZ7u4fRaSVGVDfaLcMC/624a61dd96c3bc51ebd92a09c07385b2/Bot__o_Salvar_Usu__rio_User_Management_ES.png)
+1. En la barra superior de VTEX Admin, haga clic en el **avatar de tu perfil**, marcado con la inicial de tu correo electrónico, y luego en **Configuración de la cuenta** > **Cuenta**.
+2. Haga clic en el botón `+ Nuevo`.  
+3. Rellene el campo **Email**.  
+  ![Cadastro Novo usuário User Management ES](//images.ctfassets.net/alneenqid6w5/6EWyev5Qu1nYYxbL1K8YMw/c25703eb8635123358251772d94e147a/Cadastro_Novo_usu__rio_User_Management_ES.png)
+4. Haga clic en `+ Agregar roles`.
+5. Seleccione los [roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) deseados, como se muestra en la imagen: 
+  ![Selecionar perfis User Management ES](//images.ctfassets.net/alneenqid6w5/4wSp2QkYZH114DFFEOo3ly/fed2df535522db7b5d7288845497b8d4/seleccionar-roles.PNG)
+6. Haga clic en `Agregar rol` para confirmar la selección.
+7. Haga clic en `Guardar`.  
 
 El usuario recibirá un email confirmando la creación, con un link para registrar una nueva contraseña de acceso.
 
@@ -41,13 +43,14 @@ La contraseña debe tener al menos 8 caracteres, incluyendo un número, una letr
 
 ## Editando usuarios
 
-Para editar un usuario ya registrado, solamente se debe hacer clic en su nombre. Esto también es posible haciendo clic en los tres puntos al lado derecho del usuario en la lista y luego en la opción **Editar**.
-![Botão Editar Usuário User Management ES](https://images.ctfassets.net/alneenqid6w5/5XzJuCftOAty7JHkxHO5Th/6063958f0625ce0beabac99f407a3b87/Bot__o_Editar_Usu__rio_User_Management_ES.png)
-
-El email no puede ser cambiado. Si desea hacer esto, se deberá realizar un nuevo registro.
-
-En la pantalla de edición, se pueden agregar o eliminar los [roles](/es/tutorial/como-criar-perfil-de-acesso/) de los usuarios.  
-![Selecionar perfis User Management ES](https://images.ctfassets.net/alneenqid6w5/4wSp2QkYZH114DFFEOo3ly/dc315c780a29a71e12efa19bdaaa8995/Selecionar_perfis_User_Management__ES.png)
+1. En la barra superior de VTEX Admin, haga clic en el **avatar de tu perfil**, marcado con la inicial de tu correo electrónico, y luego en **Configuración de la cuenta** > **Cuenta**.
+2. Para editar un usuario ya registrado, haga clic en su nombre. Esto también es posible haciendo clic en los tres puntos al lado derecho del usuario en la lista y luego en la opción **Editar**.
+  ![Botão Editar Usuário User Management ES](//images.ctfassets.net/alneenqid6w5/5XzJuCftOAty7JHkxHO5Th/6063958f0625ce0beabac99f407a3b87/Bot__o_Editar_Usu__rio_User_Management_ES.png)
+  <div class="alert alert-warning" role="alert">El email no puede ser cambiado. Si desea hacer esto, se deberá realizar un nuevo registro.</div>
+3. En la pantalla de edición, se pueden agregar o eliminar los [roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) de los usuarios.  
+  ![Selecionar perfis User Management ES](//images.ctfassets.net/alneenqid6w5/4wSp2QkYZH114DFFEOo3ly/fed2df535522db7b5d7288845497b8d4/seleccionar-roles.PNG)
+4. Haga clic en `Agregar rol` para confirmar la selección.
+5. Haga clic en `Guardar`.
 
 <div class="alert alert-info" role="alert">Aparecerá una alerta al agregar nuevos roles para un usuario que no utiliza autenticación de múltiples factores (MFA). El artículo <a href="https://help.vtex.com/es/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ">Habilitar login por autenticación de 2 factores</a> muestra como habilitar esta configuración.</div>
 
@@ -55,17 +58,15 @@ En la pantalla de edición, se pueden agregar o eliminar los [roles](/es/tutoria
 
 ## Eliminando un usuario
 
-1. Para remover el acceso de un usuario, haga clic en botón con tres puntos al lado del usuario que desea eliminar.
-2. Haga clic en la opción **Eliminar**.  
-![Botão Excluir Usuário User Management ES](https://images.ctfassets.net/alneenqid6w5/40v9IfXb47lKyi79vZgWpJ/fe34b8820154abc988ee1317cf75da3a/Bot__o_Excluir_Usu__rio_User_Management_ES.png)
-3. Confirme haciendo clic en **SÍ, ELIMINAR TODO ACCESO**.  
-![Confirmar Remover Acesso User Management ES](https://images.ctfassets.net/alneenqid6w5/2lnDFzfX0ZPsZM8uX59Nq7/2e0ecc32f578b0da6f0698fb136a8a21/Confirmar_Remover_Acesso_User_Management_ES.png)
+1. En la barra superior de VTEX Admin, haga clic en el **avatar de tu perfil**, marcado con la inicial de tu correo electrónico, y luego en **Configuración de la cuenta** > **Cuenta**.
+2. Para remover el acceso de un usuario, haga clic en botón con tres puntos <i class="fas fa-ellipsis-v"></i> al lado del usuario que desea eliminar.
+3. Haga clic en la opción **Eliminar**.  
+  ![Botão Excluir Usuário User Management ES](//images.ctfassets.net/alneenqid6w5/40v9IfXb47lKyi79vZgWpJ/fe34b8820154abc988ee1317cf75da3a/Bot__o_Excluir_Usu__rio_User_Management_ES.png)
+4. Confirme haciendo clic en `SÍ, ELIMINAR TODO ACCESO`.  
+  ![Confirmar Remover Acesso User Management ES](//images.ctfassets.net/alneenqid6w5/2lnDFzfX0ZPsZM8uX59Nq7/2e0ecc32f578b0da6f0698fb136a8a21/Confirmar_Remover_Acesso_User_Management_ES.png)
 
-<div class="alert alert-info">
-A pesar de que aparecen tokens de integración en la lista de usuarios, los mismos no pueden ser eliminados. Para desactivarlos, acceda a <em>Configuración de la cuenta> Gestión de la cuenta> Cuenta</em>, y desactive el campo <strong>Estado de los Tokens</strong>.
-</div>
+## Exportando datos de usuarios
 
-## Exportando datos de usuario
-
-1. Para exportar datos de usuario, haga clic en el botón **EXPORTAR**.
-2. Guarde el archivo csv en su dispositivo. El archivo contiene el id, el email y el nombre de cada usuario.
+1. En la barra superior de VTEX Admin, haga clic en el **avatar de tu perfil**, marcado con la inicial de tu correo electrónico, y luego en **Configuración de la cuenta** > **Cuenta**.
+2. Para exportar datos de usuarios, haga clic en el botón <i class="fas fa-download"></i> `Exportar`.
+3. Guarde el archivo CSV en su dispositivo. El archivo contiene el ID, el email y el nombre de cada usuario.

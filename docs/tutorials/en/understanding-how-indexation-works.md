@@ -3,8 +3,8 @@ title: 'How indexing works'
 id: tutorials_256
 status: PUBLISHED
 createdAt: 2017-04-27T22:11:43.688Z
-updatedAt: 2023-03-29T19:50:49.722Z
-publishedAt: 2023-03-29T19:50:49.722Z
+updatedAt: 2024-03-04T16:39:16.578Z
+publishedAt: 2024-03-04T16:39:16.578Z
 firstPublishedAt: 2017-04-27T23:03:11.322Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -14,6 +14,12 @@ locale: en
 legacySlug: understanding-how-indexation-works
 subcategory: pwxWmUu7T222QyuGogs68
 ---
+
+<div class="alert alert-warning">
+<p>This tutorial is valid only for stores using <a href="https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">Legacy CMS Portal</a> search.</p>
+<p>If your store uses <a href="https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG">Intelligent Search</a>, check <a href="https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH">Indexing History
+</a> to follow the indexing process.</p>
+</div>
 
 Indexing is a process that prepares the general SKU data, such as catalogue data, prices and inventory, and updates the information to serve as a basis for searches and for setting up the site's product display shelves.
 
@@ -27,7 +33,7 @@ Every time product listing data is altered as shown below, the database is reind
 
 Once a product is marked for reindexing, the text _pending indexing_ is included in the product listing in admin. The indexer places these products in a queue for processing, with a 2-minute waiting time. After the 2 minutes, the product is available for indexing. In this process, all the VTEX modules are consulted, with prices and availability updated for every sales policy. This process takes an average of 4 minutes.
 
-![indexaçao.en](https://images.ctfassets.net/alneenqid6w5/1OCaCwIsLA1CeKVqnwIU7E/b014aa1be9f142f208b3c000b3e80998/indexa__ao.en.png)
+![indexaçao.en](//images.ctfassets.net/alneenqid6w5/1OCaCwIsLA1CeKVqnwIU7E/b014aa1be9f142f208b3c000b3e80998/indexa__ao.en.png)
 
 ## Indexing Report
 
@@ -42,7 +48,7 @@ The products are divided according to each step of the indexing process and to t
 - **Total Indexed**, **Not yet in queue** and **Total in Queue**: relate to the stages of the product in the process **Not yet in queue** are those that were changed in less than 2 minutes, and _Total na fila_ (Total in queue) are those that have started the indexing process, after these 2 minutes.
 - **In queue from 1 to 2 hours** and **In queue from 2 to 4 hours**, **In queue from 4 to 8 hours**: represent the periods for which the products have been in the indexing process.
 
-![Indexingreport](https://images.ctfassets.net/alneenqid6w5/3eSr5kdaesUGkCmuAEkQQo/8f9466ec380b282176491d7f6424bbe1/Indexingreport.png)
+![Indexingreport](//images.ctfassets.net/alneenqid6w5/3eSr5kdaesUGkCmuAEkQQo/8f9466ec380b282176491d7f6424bbe1/Indexingreport.png)
 
 The indexing report also indicates the time the last item took to be reindexed. This is shown in the upper right side of the report (see the image above). 
 

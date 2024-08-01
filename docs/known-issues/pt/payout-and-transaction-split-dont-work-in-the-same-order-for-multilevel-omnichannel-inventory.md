@@ -3,8 +3,8 @@ title: 'O pagamento e a divisão da transação não funcionam na mesma ordem pa
 id: 3rFyqzEnSwx2czwdlgDovU
 status: PUBLISHED
 createdAt: 2023-03-23T19:03:22.498Z
-updatedAt: 2023-03-27T12:27:57.714Z
-publishedAt: 2023-03-27T12:27:57.714Z
+updatedAt: 2024-02-16T20:25:26.525Z
+publishedAt: 2024-02-16T20:25:26.525Z
 firstPublishedAt: 2023-03-23T19:03:23.526Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: o-pagamento-e-a-divisao-da-transacao-nao-funcionam-na-mesma-ordem-para-o-inventario-multilevel-omnichannel
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 777201
 ---
 

@@ -3,8 +3,8 @@ title: 'Puntos de recogida'
 id: 2fljn6wLjn8M4lJHA6HP3R
 status: PUBLISHED
 createdAt: 2020-07-01T19:16:21.675Z
-updatedAt: 2023-03-29T19:48:10.418Z
-publishedAt: 2023-03-29T19:48:10.418Z
+updatedAt: 2023-07-25T16:53:09.640Z
+publishedAt: 2023-07-25T16:53:09.640Z
 firstPublishedAt: 2020-07-01T19:25:40.136Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -68,7 +68,7 @@ VTEX considera que el punto de recogida es una forma de envío. Es por eso que l
     - Paso 2: Haz clic en la pestaña **Políticas de envío**, selecciona la política de envío creada para el punto de recogida.
     - Paso 3: En la columna **Acciones**, haz clic en el ícono <i class="fas fa-pen"></i> para editar.
     - Paso 4: Activa el botón <i class="fas fa-toggle-on"></i> del campo **Asociar puntos de recogida**.
-    - Paso 5: Selecciona el punto de recogida mediante los campos disponibles.![relacionarpontosretiradaES](https://images.ctfassets.net/alneenqid6w5/6BvdDCekjMPgqE0ULZmNaV/d72f0278d6fdbb3041d883fa4685f436/relacionarpontosretiradaES.png) <div class = "alert alert-info">Para las tiendas que tienen más de 50 puntos de recogida, recomendamos utilizar el campo Tags de <a href="https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140#registrar-politica-de-envio">los puntos de recogida al crear un punto de recogida</a>. Utilizar tags facilita la búsqueda de los puntos de recogida al asociarlos con la política de envío.También recuerda que la política de envío que está asociada a un punto de recogida no estará disponible para otros tipos de envíos. Recomendamos crear una política de envío dedicada al punto de recogida.</div>
+    - Paso 5: Selecciona el punto de recogida mediante los campos disponibles.![relacionarpontosretiradaES](//images.ctfassets.net/alneenqid6w5/6BvdDCekjMPgqE0ULZmNaV/d72f0278d6fdbb3041d883fa4685f436/relacionarpontosretiradaES.png) <div class = "alert alert-info">Para las tiendas que tienen más de 50 puntos de recogida, recomendamos utilizar el campo Tags de <a href="https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140#registrar-politica-de-envio">los puntos de recogida al crear un punto de recogida</a>. Utilizar tags facilita la búsqueda de los puntos de recogida al asociarlos con la política de envío.También recuerda que la política de envío que está asociada a un punto de recogida no estará disponible para otros tipos de envíos. Recomendamos crear una política de envío dedicada al punto de recogida.</div>
 
 4. [Registrar la geolocalización](https://help.vtex.com/es/tutorial/gestionar-geolocalizacion--tutorials_138): para una mayor precisión de la ubicación de los puntos de recogida en el _checkout_.<div class = "alert alert-info">La visualización de los puntos de recogida con el mapa y la hora en el checkout solo está disponible para Checkout V6.</div>
 
@@ -76,8 +76,8 @@ VTEX considera que el punto de recogida es una forma de envío. Es por eso que l
     - Paso 1: En el Admin VTEX, accede a **Configuración de la tienda > Storefront > Checkout**, o escribe *Checkout* en la barra de búsqueda en la parte superior de la página.  
     - Paso 2: Selecciona la configuración utilizada en la tienda y haz clic en el ícono <i class="fas fa-cog"></i>.
     - Paso 3: Haz clic en la pestaña **Checkout** en la barra superior.
-    - Paso 4: Selecciona el botón <i class="fas fa-toggle-on"></i> del campo **Dirección de la factura para recogida en la tienda**. ![NFpontoretiradaES](https://images.ctfassets.net/alneenqid6w5/7yOdSylqbRcHEfT9c9OfwX/c81afd5e90d05deec1684dba401f569e/NFpontoretiradaES.png)<div class="alert alert-warning">La opción de <b>Dirección en la factura para recogida en la tienda</b> debe estar habilitada en todas las tiendas en Brasil, ya que es requisito que la factura emitida contenga la información de la dirección del cliente, incluso si la opción de entrega de el pedido está en el punto de recogida. La dirección ingresada por el cliente se registrará en el campo `invoiceData` del <a href="https://developers.vtex.com/vtex-rest-api/reference/orderform-fields#invoicedata">orderForm</a>.</div>
+    - Paso 4: Selecciona el botón <i class="fas fa-toggle-on"></i> del campo **Dirección de la factura para recogida en la tienda**. ![NFpontoretiradaES](//images.ctfassets.net/alneenqid6w5/7yOdSylqbRcHEfT9c9OfwX/c81afd5e90d05deec1684dba401f569e/NFpontoretiradaES.png)<div class="alert alert-warning">La opción de <b>Dirección en la factura para recogida en la tienda</b> debe estar habilitada en todas las tiendas en Brasil, ya que es requisito que la factura emitida contenga la información de la dirección del cliente, incluso si la opción de entrega de el pedido está en el punto de recogida. La dirección ingresada por el cliente se registrará en el campo `invoiceData` del <a href="https://developers.vtex.com/vtex-rest-api/reference/orderform-fields#invoicedata">orderForm</a>.</div>
 
 6. Para configurar la cantidad de puntos de recogida que se muestran en el checkout:
     - Paso 1: En el Admin VTEX, accede a **Configuración de la tienda > Envío > Configuración**, o escribe *Envío* en la barra de búsqueda en la parte superior de la página, y haga clic en *Configuración de la tienda / Envío*.    
-    - Paso 2: Cambia el campo **Configuración de los puntos de recogida**. Utiliza los botones <i class="far fa-caret-square-up"></i> y <i class="far fa-caret-square-down"></i> y selecciona los puntos de recogida que estarán disponibles en la lista de búsqueda (mostrada en el checkout).
+    - Paso 2: Cambia el campo **Configuración de los puntos de recogida**. Utiliza los botones <i class="far fa-caret-square-up"></i> y <i class="far fa-caret-square-down"></i> y selecciona la cantidad de puntos de recogida que estarán disponibles en la lista de búsqueda (mostrada en el checkout).

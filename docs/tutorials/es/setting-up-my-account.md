@@ -3,8 +3,8 @@ title: 'Configuración de My Account'
 id: 23Ayv5D6b86UBnYfoXqZL1
 status: PUBLISHED
 createdAt: 2019-02-19T21:35:31.855Z
-updatedAt: 2021-05-24T18:07:48.662Z
-publishedAt: 2021-05-24T18:07:48.662Z
+updatedAt: 2023-12-21T14:12:18.587Z
+publishedAt: 2023-12-21T14:12:18.587Z
 firstPublishedAt: 2019-02-19T21:37:25.249Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -14,6 +14,10 @@ locale: es
 legacySlug: configuración-de-my-account
 subcategory: 1RWR7qSyaREbD5RfgCjdYG
 ---
+
+<div class = "alert alert-info">
+En <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi Cuenta</a>, los clientes solo pueden acceder a los pedidos de los últimos dos años.
+</div>
 
 El nuevo [My Account](https://help.vtex.com/es/tutorial/como-funciona-el-my-account--2BQ3GiqhqGJTXsWVuio3Xh) ya está instalado en todas las cuentas VTEX en un <strong>ambiente de prueba</strong>, permitiendo ajustes en la nueva página sin impactos en la experiencia de usuario.
 

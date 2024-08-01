@@ -1,10 +1,10 @@
 ---
 title: 'Filtros de qualidade dos anúncios'
 id: 4xm0gi8leCyxHj8YdgHSJH
-status: CHANGED
+status: PUBLISHED
 createdAt: 2023-02-27T12:15:26.682Z
-updatedAt: 2023-05-30T21:12:51.762Z
-publishedAt: 2023-02-28T13:45:44.808Z
+updatedAt: 2024-06-20T21:38:38.621Z
+publishedAt: 2024-06-20T21:38:38.621Z
 firstPublishedAt: 2023-02-27T19:32:00.584Z
 contentType: tutorial
 productTeam: Channels
@@ -12,7 +12,7 @@ author: 0QBQws7rk0t5Mnu8fgfUv
 slug: filtros-de-qualidade-dos-anuncios
 locale: pt
 legacySlug: filtros-de-qualidade-dos-anuncios
-subcategory: 4hU8QWlzhxWg711Kz7Gmib
+subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---
 
 Marketplaces precisam revisar e aprovar anúncios enviados por sellers para que os produtos sejam adicionados ao catálogo. No Admin VTEX esse [processo de catalogação](https://help.vtex.com/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396) é feito por meio da página SKUs Recebidos. 
@@ -21,7 +21,7 @@ Marketplaces precisam revisar e aprovar anúncios enviados por sellers para que 
 
 **Filtros de qualidade dos anúncios** é a página onde marketplaces cadastram e gerenciam os grupos de requisitos aplicados ao processo de catalogação de SKUs recebidos. Para acessá-la, em seu Admin VTEX, vá para **Marketplace > Qualidade dos Anúncios** ou digite __“Qualidade dos anúncios”__ na barra de busca.
 
-![PT offer quality](https://images.ctfassets.net/alneenqid6w5/7GL1AaqkfQqjLCj262wg04/d51603a30cf92b54035d2229ae23792a/PT_offer_quality.png)
+![PT offer quality](//images.ctfassets.net/alneenqid6w5/7GL1AaqkfQqjLCj262wg04/d51603a30cf92b54035d2229ae23792a/PT_offer_quality.png)
 
 Nesse artigo, saiba como:
 
@@ -47,7 +47,7 @@ A funcionalidade permite ao operador de marketplace realizar uma série de açõ
 
 ## Visualizar "Default requirements"
 
-![PT Default requirements](https://images.ctfassets.net/alneenqid6w5/6OxPTO8QO6o9zZ8kTt5tVG/7b191f93fedb9f951939925e481c473b/PT_Default_requirements.png)
+![PT Default requirements](//images.ctfassets.net/alneenqid6w5/6OxPTO8QO6o9zZ8kTt5tVG/7b191f93fedb9f951939925e481c473b/PT_Default_requirements.png)
 
 A página já vem por padrão com alguns requisitos pré-cadastrados que serão aplicados a todas as categorias, sellers e marcas, chamados de "Default requirements", ou Regras padrão. Alguns desses critérios são configurados nativamente no [VTEX Matcher](https://help.vtex.com/pt/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424), a ferramenta aplicada aos marketplaces VTEX para auxiliar no processo de catalogação de anúncios recebidos. 
 

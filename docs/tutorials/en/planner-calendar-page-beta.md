@@ -40,7 +40,7 @@ You can view the **Calendar** page in three ways:
 
 In the following image, you will see the view per month and what you can do in the interface:
 
-![releases-calendar-monthly-view-en](https://images.ctfassets.net/alneenqid6w5/BQCF0b8kNzGTOv06wCOde/6dc0c1f3eef1fa4aef0bbd7a6f462f63/releases-calendar-monthly-view-en.png)
+![releases-calendar-monthly-view-en](//images.ctfassets.net/alneenqid6w5/BQCF0b8kNzGTOv06wCOde/6dc0c1f3eef1fa4aef0bbd7a6f462f63/releases-calendar-monthly-view-en.png)
 
 In this page, you can:
 
@@ -58,7 +58,7 @@ In this page, you can:
 
 In the following image, you'll see the view per week and what you can do in the interface:
 
-![releases-calendar-weekly-view-en](https://images.ctfassets.net/alneenqid6w5/QHZDKB0IX07GLoEO84NJv/a968361f0e0d1f0eece420ff190c1a94/releases-calendar-weekly-view-en.png)
+![releases-calendar-weekly-view-en](//images.ctfassets.net/alneenqid6w5/QHZDKB0IX07GLoEO84NJv/a968361f0e0d1f0eece420ff190c1a94/releases-calendar-weekly-view-en.png)
 
 In this page, you can:
 
@@ -76,7 +76,7 @@ In this page, you can:
 
 In the following image, you'll see the view per day and what you can do in the interface:
 
-![daily view v2 en](https://images.ctfassets.net/alneenqid6w5/5dwgo1qqTYNFMKV4sBNW0Q/b41cc39641404cceacfee3fb47d35615/daily_view_v2_en.png)
+![daily view v2 en](//images.ctfassets.net/alneenqid6w5/5dwgo1qqTYNFMKV4sBNW0Q/b41cc39641404cceacfee3fb47d35615/daily_view_v2_en.png)
 
 Apart from viewing information about the release, in this page, you can:
 

@@ -3,8 +3,8 @@ title: 'La caja no calcula correctamente el valor del envío para un solo artíc
 id: 4jX7JT0Wxt9S4xBe9FSwO
 status: PUBLISHED
 createdAt: 2022-02-21T19:48:04.202Z
-updatedAt: 2022-11-25T21:53:42.846Z
-publishedAt: 2022-11-25T21:53:42.846Z
+updatedAt: 2024-02-16T20:26:29.918Z
+publishedAt: 2024-02-16T20:26:29.918Z
 firstPublishedAt: 2022-02-21T19:48:04.748Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-caja-no-calcula-correctamente-el-valor-del-envio-para-un-solo-articulo-que-tiene-envio-gratuito-y-entrega-programada
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 529043
 ---
 

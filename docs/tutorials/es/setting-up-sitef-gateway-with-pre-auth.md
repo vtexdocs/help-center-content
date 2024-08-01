@@ -1,10 +1,10 @@
 ---
 title: 'Configurar gateway Sitef con pre-auth'
 id: 2ZH4DLmZpKw022aSGcGYag
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-03-05T21:07:59.629Z
-updatedAt: 2023-03-29T01:21:24.445Z
-publishedAt: 2023-03-29T01:21:24.445Z
+updatedAt: 2024-03-18T20:04:33.165Z
+publishedAt: 
 firstPublishedAt: 2018-03-06T14:09:56.654Z
 contentType: tutorial
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: es
 legacySlug: configurar-gateway-sitef-con-pre-auth
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+<div class="alert alert-danger">Esta integración de pago ya no se puede configurar en la plataforma debido al <a href="https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14">proceso de descontinuación de los proveedores legados</a> y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.</div>
 
 Para permitir que las compras realizadas con tarjeta de crédito tengan el valor reservado, usted puede configurar el gateway __Sitef con pre-auth__ (pre-autorización) en su tienda.
 

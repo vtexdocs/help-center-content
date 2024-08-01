@@ -3,8 +3,8 @@ title: 'Configurar pagamento com Qhantuy'
 id: 4KO2beK0scqVy4lrrs3Myq
 status: PUBLISHED
 createdAt: 2023-04-20T13:44:39.377Z
-updatedAt: 2023-04-20T17:36:03.040Z
-publishedAt: 2023-04-20T17:36:03.040Z
+updatedAt: 2024-01-24T17:10:50.292Z
+publishedAt: 2024-01-24T17:10:50.292Z
 firstPublishedAt: 2023-04-20T14:12:44.589Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pagamento-com-qhantuy
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento Qhantuy. Com este conector, sua loja pode realizar vendas por meio de cartões de crédito e Qhantuy.
+Na VTEX, é possível realizar a integração com o provedor de pagamento Qhantuy. Com este provedor, sua loja pode realizar vendas por meio de cartões de crédito e Qhantuy.
 
-Para configurar a afiliação Qhantuy, siga os passos abaixo:
+Para configurar Qhantuy, siga os passos abaixo:
 
-1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão `+`.
-3. Clique no conector __Qhantuy__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __Qhantuy__ na barra de busca e clique sobre o nome do provedor.
 4. Preencha os campos __Application Key__ e __Application Token__ com as informações da sua conta Qhantuy.
 5. Em __Captura Automática de Pagamento__, selecione uma das opções disponíveis:
 

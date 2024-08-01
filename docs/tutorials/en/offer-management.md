@@ -1,10 +1,10 @@
 ---
 title: 'Offer Management module'
 id: 7MRb9S78aBdZjFGpbuffpE
-status: PUBLISHED
+status: DRAFT
 createdAt: 2021-03-17T00:44:49.452Z
-updatedAt: 2023-03-31T04:39:55.235Z
-publishedAt: 2023-03-31T04:39:55.235Z
+updatedAt: 2024-06-20T21:34:27.585Z
+publishedAt: 
 firstPublishedAt: 2021-03-17T01:05:49.343Z
 contentType: tutorial
 productTeam: Channels
@@ -15,19 +15,25 @@ legacySlug: offers-listing
 subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---
 
+<div class="alert alert-info">
+To evolve your experience in synchronizing and updating offers, the VTEX team is developing a new functionality that will replace the current module <b>Offer Management</b>. As a result, the module will not receive new updates or maintenance.
+For connectors and marketplaces already integrated into the module, please contact the development team by email <a href="taissa.araujo@vtex.com.br">taissa.araujo@vtex.com.br</a>.
+For connectors interested in starting the integration, we ask you to wait for the release of the new module, as soon as it is available we will announce it to all customers through the <a href="https://developers.vtex.com/updates/release-notes">Developer Portal's release notes section</a> and <a href="https://help.vtex.com/pt/en/announcements">VTEX Help Center announcements page</a>.
+</div>  
+
 The **Offer Management** module allows sellers to track the sending and syncing of their offers on all sales channels integrated with the store. On the VTEX platform, an offer is a SKU from a seller that has been sent to a sales channel and whose price and inventory information have been configured.
 
-![Offer Management gif](https://images.ctfassets.net/alneenqid6w5/39zPddPF6cBtI1QZn7GSDz/d270dd62f2b92f6100de71836279b195/Offer_Management_gif.gif)
+![Offer Management gif](//images.ctfassets.net/alneenqid6w5/39zPddPF6cBtI1QZn7GSDz/d270dd62f2b92f6100de71836279b195/Offer_Management_gif.gif)
 
 In **Offer Management**, you can track offers sent to the following channels: [Mercado Libre](https://help.vtex.com/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic and Premium), [Netshoes](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) and VTEX marketplaces. For connectors to integrate via API, see [Offer Management Integration Guide](https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors).
 
 To access the module, in the VTEX Admin go to **Marketplace > Connections > Offer Management**. The following interface is displayed:
 
-![sent-offers-en_2](https://images.ctfassets.net/alneenqid6w5/4NEuTkSW9kSb6SQa3I7QPc/ab112c902aff07dd90b1271dbac0cfae/sent-offers-en_2.png)
+![sent-offers-en_2](//images.ctfassets.net/alneenqid6w5/4NEuTkSW9kSb6SQa3I7QPc/ab112c902aff07dd90b1271dbac0cfae/sent-offers-en_2.png)
 
 The **Offer Management** interface displays a list of your offers, and you can click on any of the offers to access the [offer details](https://help.vtex.com/en/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P) and check the [interaction details](https://help.vtex.com/en/tutorial/detalhes-da-interacao--5qC6XPkyUsYPd0dqKHQNlf). Interactions are the offer logs when sending and syncing them with the sales channel and are available for consultation for ten days.
 
-![diagrama ju meyer sent offers en](https://images.ctfassets.net/alneenqid6w5/1v1nQSOtb5hekGMB4sQCiW/4537ebb6b68838ee6ee4d1bc03dd87c8/diagrama_ju_meyer_sent_offers_en.png)
+![diagrama ju meyer sent offers en](//images.ctfassets.net/alneenqid6w5/1v1nQSOtb5hekGMB4sQCiW/4537ebb6b68838ee6ee4d1bc03dd87c8/diagrama_ju_meyer_sent_offers_en.png)
 
 On the **Offer Management** page, you can perform the following actions:
 

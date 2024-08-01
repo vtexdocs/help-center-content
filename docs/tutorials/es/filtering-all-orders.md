@@ -3,8 +3,8 @@ title: 'Filtrar pedidos en Todos los pedidos'
 id: tutorials_192
 status: PUBLISHED
 createdAt: 2017-04-27T22:15:05.494Z
-updatedAt: 2023-05-31T14:45:05.491Z
-publishedAt: 2023-05-31T14:45:05.491Z
+updatedAt: 2023-12-21T14:06:54.896Z
+publishedAt: 2023-12-21T14:06:54.896Z
 firstPublishedAt: 2017-04-27T23:00:47.449Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,9 +15,13 @@ legacySlug: como-filtrar-pedidos
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
+<div class = "alert alert-info">
+Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi Cuenta</a>.
+</div>
+
 En el módulo **Pedidos**, la página **Todos los pedidos** permite acceder a todos los pedidos de la tienda y buscar utilizando la barra de búsqueda y filtros según se muestra en la imagen a continuación:
 
-![search_bar_ES](https://images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/daa7bf97f15445140cba0433da887aa5/search_bar_ES.png)
+![search_bar_ES](//images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/daa7bf97f15445140cba0433da887aa5/search_bar_ES.png)
 
 Este artículo explica cómo utilizar estos recursos y se divide en:
 
@@ -25,6 +29,13 @@ Este artículo explica cómo utilizar estos recursos y se divide en:
 - [Filtros](#filtros)
 - [Filtrar por status](#filtrar-por-status)
 - [Creado](#creado)
+
+Además de buscar pedidos en **Pedidos > Todos los pedidos**, puede buscar pedidos desde cualquier página del Admin VTEX utilizando la barra de búsqueda global en la parte superior de la página. Por defecto, la búsqueda está configurada en `Páginas`. Para buscar un pedido, haga clic en la barra, seleccione la opción `Pedidos` y utilice cualquiera de los siguientes criterios:
+
+- ID del pedido
+- Nombre del cliente
+- Email del cliente
+- Documento del cliente
 
 ## Barra de búsqueda
 
@@ -52,7 +63,7 @@ La búsqueda en todos los pedidos devuelve todos los pedidos relacionados con el
 
 Para buscar en todos los pedidos, ingresa el término deseado en la casilla de búsqueda. Se mostrará la opción <i class="fas fa-toggle-on"></i> `Remover límite de fechas`. Solo hay que activarla para iniciar la búsqueda.
 
-![search_bar_without_time_limit_ES](https://images.ctfassets.net/alneenqid6w5/2ii9VFh5uRpG4Ad0nwIIN0/3e96ddad7e6e25df9bfc57510655390b/search_bar_without_time_limit_ES.png)
+![search_bar_without_time_limit_ES](//images.ctfassets.net/alneenqid6w5/2ii9VFh5uRpG4Ad0nwIIN0/3e96ddad7e6e25df9bfc57510655390b/search_bar_without_time_limit_ES.png)
 
 <div class="alert alert-danger">
 La búsqueda en todos los pedidos no se puede asociar a otros filtros. Es decir, al remover el límite de fechas de búsqueda, cualquier filtro activo pasa a estar inactivo. Si se remueve el término de búsqueda o se desactiva el botón de alternancia <i class="fas fa-toggle-off"></i>, los filtros configurados anteriormente se vuelven a activar.
@@ -70,7 +81,7 @@ Realizar una búsqueda con filtros permite combinar diferentes filtros que se de
 
 La página **Pedidos > Todos los pedidos** tiene la opción `Filtros` según se muestra en la imagen a continuación:
 
-![search_bar_ES](https://images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/daa7bf97f15445140cba0433da887aa5/search_bar_ES.png)
+![search_bar_ES](//images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/daa7bf97f15445140cba0433da887aa5/search_bar_ES.png)
 
 Al hacer clic en `Filtros`, se muestra una ventana modal que presenta las siguientes opciones:
 
@@ -186,7 +197,7 @@ Para utilizar estos filtros, haz `Filtros` y selecciona **Otros**. Puedes buscar
 
 La página **Pedidos > Todos los pedidos** tiene la opción `Filtrar por status` <i class="fas fa-angle-down"></i> según se muestra en la siguiente imagen:
 
-![search_bar_ES](https://images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/daa7bf97f15445140cba0433da887aa5/search_bar_ES.png)
+![search_bar_ES](//images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/daa7bf97f15445140cba0433da887aa5/search_bar_ES.png)
 
 Al hacer clic en `Filtrar por status` <i class="fas fa-angle-down"></i>, se muestran las opciones de [status de pedidos](https://help.vtex.com/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196) de tu tienda. Por ejemplo, si no hay pedidos cancelados entre todos tus pedidos, esta opción no estará visible.
 
@@ -198,7 +209,7 @@ Para más opciones de filtros de status, consulta la sección <a href="https://h
 
 La página **Pedidos > Todos los pedidos** tiene la opción `Creado: Hoy` <i class="fas fa-angle-down"></i> según se muestra en la siguiente imagen:
 
-![search_bar_ES](https://images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/daa7bf97f15445140cba0433da887aa5/search_bar_ES.png)
+![search_bar_ES](//images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/daa7bf97f15445140cba0433da887aa5/search_bar_ES.png)
 
 Este filtro tiene la fecha **Hoy** activada como estándar, pero al hacer clic aparecen las siguientes opciones:
 

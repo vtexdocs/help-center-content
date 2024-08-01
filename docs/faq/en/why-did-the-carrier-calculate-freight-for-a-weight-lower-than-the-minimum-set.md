@@ -3,8 +3,8 @@ title: 'Why did the carrier calculate freight for a weight lower than the minimu
 id: frequentlyAskedQuestions_164
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:17.904Z
-updatedAt: 2019-12-31T14:25:25.374Z
-publishedAt: 2019-12-31T14:25:25.374Z
+updatedAt: 2023-12-19T16:53:24.136Z
+publishedAt: 2023-12-19T16:53:24.136Z
 firstPublishedAt: 2017-04-27T23:01:43.295Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
@@ -14,7 +14,7 @@ locale: en
 legacySlug: why-did-the-carrier-calculate-freight-for-a-weight-lower-than-the-minimum-set
 ---
 
-Freight calculation always considers two parameters: product weight and volume. The priority in calculation is always given to the real or cubed weight &#8211; the one with highest value. However, if the weight of a product is lower than the minimum registered for a carrier, volume will be considered.
+Freight calculation always considers two parameters: product weight and volume. The priority in calculation is always given to the minimum weight or cubed weight &#8211; the one with highest value. However, if the weight of a product is lower than the minimum registered for a carrier, volume will be considered.
 
 ## Examples
 

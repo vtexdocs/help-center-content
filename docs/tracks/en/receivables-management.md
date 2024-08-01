@@ -1,10 +1,10 @@
 ---
 title: 'Receivables management'
 id: 4zO5DEg07BSqHsmlBrCgvr
-status: PUBLISHED
+status: DRAFT
 createdAt: 2020-05-28T18:01:47.594Z
-updatedAt: 2023-03-14T22:07:36.630Z
-publishedAt: 2023-03-14T22:07:36.630Z
+updatedAt: 2023-10-05T14:14:03.274Z
+publishedAt: 
 firstPublishedAt: 2020-05-29T17:50:17.208Z
 contentType: trackArticle
 productTeam: Financial

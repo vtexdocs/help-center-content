@@ -36,7 +36,7 @@ O menu Aplicativos permite que os comerciantes baixem novos aplicativos diretame
 
 Essas operações podem ser realizadas no menu Aplicativos do seu Admin repaginado.
 
-![Apps Overview menu PT](https://images.ctfassets.net/alneenqid6w5/2Bj2bz36YQcD1Q6cl4Pf44/46e4dce503c39c70978460a967bd34b0/Apps_Overview_menu_PT.jpg)
+![Apps Overview menu PT](//images.ctfassets.net/alneenqid6w5/2Bj2bz36YQcD1Q6cl4Pf44/46e4dce503c39c70978460a967bd34b0/Apps_Overview_menu_PT.jpg)
 
 Veja abaixo mais detalhes sobre as diferentes seções e páginas deste recurso, que em breve estará disponível no Admin repaginado.
 

@@ -1,10 +1,10 @@
 ---
 title: 'Otimizar as buscas com palavras substitutas'
 id: 32FqSsl5VuQyiIMEc02Uwu
-status: PUBLISHED
+status: CHANGED
 createdAt: 2019-01-24T20:45:49.707Z
-updatedAt: 2021-09-14T19:00:59.249Z
-publishedAt: 2021-09-14T19:00:59.249Z
+updatedAt: 2024-02-28T22:28:58.551Z
+publishedAt: 2024-01-10T13:30:55.078Z
 firstPublishedAt: 2019-01-24T22:00:22.364Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -16,7 +16,7 @@ subcategory: pwxWmUu7T222QyuGogs68
 ---
 
 <div class = "alert alert-warning">
-  <strong>Atenção</strong>: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse <a href = "https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nossa track</a>.
+As operações da configuração <a href="https://help.vtex.com/pt/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu?&utm_source=autocomplete">Palavras Substitutas</a> não são recomendadas para a sua loja em caso de utilização do Intelligent Search. Para relacionar palavras ao produto, é recomendada a utilização da configuração de <a href="https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV">Sinônimos</a>, que possibilita uma gestão mais escalável de termos por produto. Para mais informações, entre em contato com nosso <a href="https://support.vtex.com/hc/pt-br/requests">Suporte</a>.
 </div>
 
 ## Como funciona o buscador
@@ -39,15 +39,15 @@ Um recurso muito utilizado para agilizar as buscas da equipe interna é colocar 
 
 ### 1. Integração de produtos
 Integrar os produtos mediante o webservice ProductInsertUpdate permite agregar suas Palavras Substitutas e associá-las ao produto em questão:
-<http://help.vtex.com/pt/tutorial/manual-das-classes-e-metodos-usados-no-webservice>
+[](http://help.vtex.com/pt/tutorial/manual-das-classes-e-metodos-usados-no-webservice)
 
 ### 2. Importação por planilha
 Carregar as Palavras Substitutas diretamente por planilha de produto, de modo massivo:
-<https://help.vtex.com/pt/tutorial/cadastrando-produto#importacao-de-produtos-por-planilha>
+[](https://help.vtex.com/pt/tutorial/cadastrando-produto#importacao-de-produtos-por-planilha)
 
 ### 3. Editar um produto
 Carregar as Palavras Substitutas diretamente a cada produto individualmente no campo “Palavras Substitutas”:
-<https://help.vtex.com/pt/tutorial/cadastrando-produto#cadastrando-produto-pelo-admin>
+[](https://help.vtex.com/pt/tutorial/cadastrando-produto#cadastrando-produto-pelo-admin)
 
 ## Onde consigo palavras substitutas
 ### Google Trends

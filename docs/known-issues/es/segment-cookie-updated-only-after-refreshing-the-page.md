@@ -3,8 +3,8 @@ title: 'Segmento Cookie actualizado sólo después de actualizar la página'
 id: 3QBmp4D2tvIAxEzEy2LpNf
 status: PUBLISHED
 createdAt: 2022-11-01T16:33:05.698Z
-updatedAt: 2023-03-08T20:36:59.962Z
-publishedAt: 2023-03-08T20:36:59.962Z
+updatedAt: 2024-01-10T17:18:13.115Z
+publishedAt: 2024-01-10T17:18:13.115Z
 firstPublishedAt: 2022-11-01T16:33:06.403Z
 contentType: knownIssue
 productTeam: Store Framework
@@ -23,7 +23,7 @@ internalReference: 647116
 </div>
 
 
-Algunas funciones y componentes de VTEX pueden utilizar datos solicitados a la cookie de segmento para presentar información (como precio, datos de promoción, disponibilidad de SKU, etc.) en el escaparate. Esta cookie se almacena en el navegador del usuario cuando se crea la sesión. A veces, sobre todo en escenarios dinámicos donde se necesita hacer cambios en el frente donde se desencadena una actualización del Segmento Cookie, la cookie en sí pierde algunos datos que es de un comportamiento en render-runtime que no desencadena el cambio de segmento en el contexto.
+Algunas funciones y componentes de VTEX pueden utilizar datos solicitados a la cookie de segmento para presentar información (como precio, datos de promoción, disponibilidad de SKU, etc.) en el escaparate. Esta cookie se almacena en el navegador del usuario cuando se crea la sesión. A veces, sobre todo en escenarios dinámicos donde se necesita hacer cambios en el frente donde se desencadena una actualización del Segmento Cookie, la cookie en sí pierde algunos datos que es de un comportamiento en render-runtime que no desencadena el cambio de segmento al contexto.
 
 Cómo recuperar la información de la sesión:
 https://developers.vtex.com/vtex-rest-api/reference/getsession

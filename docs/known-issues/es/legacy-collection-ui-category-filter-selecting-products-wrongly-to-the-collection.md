@@ -3,8 +3,8 @@ title: 'El filtro de categorías de la interfaz de usuario de la colección here
 id: 1IlioZpOSQf5t4TWqZreiS
 status: PUBLISHED
 createdAt: 2022-10-31T20:42:26.100Z
-updatedAt: 2022-12-20T16:37:12.340Z
-publishedAt: 2022-12-20T16:37:12.340Z
+updatedAt: 2024-02-16T20:28:22.357Z
+publishedAt: 2024-02-16T20:28:22.357Z
 firstPublishedAt: 2022-10-31T20:42:26.591Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-filtro-de-categorias-de-la-interfaz-de-usuario-de-la-coleccion-heredada-selecciona-productos-erroneamente-en-la-coleccion
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 590934
 ---
 

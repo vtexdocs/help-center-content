@@ -1,10 +1,10 @@
 ---
 title: "Location's details page (Beta)"
 id: 3se4QBRYsNCwC8Wo56J6zG
-status: PUBLISHED
+status: DRAFT
 createdAt: 2023-05-09T16:24:38.315Z
-updatedAt: 2023-05-10T00:53:18.368Z
-publishedAt: 2023-05-10T00:53:18.368Z
+updatedAt: 2023-11-10T14:44:21.843Z
+publishedAt: 
 firstPublishedAt: 2023-05-09T20:47:55.824Z
 contentType: tutorial
 productTeam: Post-purchase

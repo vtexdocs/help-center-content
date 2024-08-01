@@ -3,8 +3,8 @@ title: 'Setting up payments with 99Pay'
 id: QIStxPsGb6LoIwFBfcTfb
 status: PUBLISHED
 createdAt: 2023-04-06T19:37:06.116Z
-updatedAt: 2023-04-06T19:41:32.060Z
-publishedAt: 2023-04-06T19:41:32.060Z
+updatedAt: 2024-01-23T18:31:10.050Z
+publishedAt: 2024-01-23T18:31:10.050Z
 firstPublishedAt: 2023-04-06T19:41:32.060Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: setting-up-payments-with-99pay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the 99Pay payment provider. With this connector, your store can make sales through 99Pay.
+At VTEX, it is possible to integrate with the 99Pay payment provider. With this provider, your store can make sales through 99Pay.
 
-To configure 99Pay affiliation, follow the steps below:
+To configure 99Pay, follow the steps below:
 
-1. In the VTEX Admin, go to __Store Settings > Payments > Settings__, or type __Settings__ in the search bar at the top of the page.
-2. In the __Gateway affiliations__ tab, click on the `+` button.
-3. Click on the __99Pay__ connector.
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __99Pay__ in the search bar and click on the name of the provider.
 4. Fill in the __Application Key__ and __Application Token__ fields with data provided by 99Pay.
 5. In the __Payment settlement__ field, select one of the available options:
 

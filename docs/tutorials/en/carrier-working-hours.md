@@ -3,8 +3,8 @@ title: 'Carrier working hours'
 id: 2oGpbInIgdxSWUi3TZjdCS
 status: PUBLISHED
 createdAt: 2019-02-06T16:21:24.412Z
-updatedAt: 2021-08-11T17:43:41.414Z
-publishedAt: 2021-08-11T17:43:41.414Z
+updatedAt: 2024-04-11T00:33:50.619Z
+publishedAt: 2024-04-11T00:33:50.619Z
 firstPublishedAt: 2019-02-06T18:25:37.545Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,32 +15,39 @@ legacySlug: setting-up-business-hours-for-carriers, configuring-carriers-cut-off
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-On the VTEX platform, you can determine working hours for your store’s carriers. To do that, you have to configure pickup times and shipping windows available in your store.
+On VTEX, you can determine business hours for your store’s [carriers](https://help.vtex.com/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) in the [shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140). You can configure pickup time and shipping window periods available for the carrier.
 
-To configure a carrier’s working hours in your store, go to `Inventory & shipping` and click on `Shipping strategy`. Then, you can create a [shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) or edit an existing one. 
+To configure a carrier’s business hours in your store, in your VTEX Admin go to **Shipping > Shipping strategy**. You can [create a shipping policy](https://help.vtex.com/en/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT) or [edit](https://help.vtex.com/en/tutorial/gerenciar-politicas-de-envio--30nynylgbWieimhaMtGTIE) an existing one.
 
 The way you configure working hours will influence the delivery time calculation. These configurations can be made on the shipping policy’s details page, in the following options:
 
-* **[Shipping window](#shipping-window)**: periods in which the carrier ships items to customers.
-* **[Pickup time](#pickup-time)**: timetables in which the carrier picks up items for delivery.
+* **[Shipping Window](#shipping-window)**: periods in which the carrier ships items to customers.
+* **[Pickup Time](#pickup-time)**: timetables in which the carrier picks up items for delivery.
 
-## Shipping window
+## Shipping Window
 
-1. Click on the `Shipping window` card.
-2. Click the toggle button to enable or disable the option `Accept purchases outside working hours`.
+1. In the [Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140), in the **Business Hours** section, click the `Shipping Window` card.
+2. If you wish to activate the option `Accept purchases outside working hours`, enable the toggle switch. Otherwise, leave it deactivated.
 
-    Enable it if the carrier agrees to receive orders outside working hours. By setting this option to `Active`, the delivery time will be calculated differently. For example, if an order is placed after the pickup time, the time until the next available pickup time will be added to the total delivery time.
+  <div class="alert alert-danger">
+To authorize the carrier to receive orders on weekends, this toggle must be marked as <code>Active</code>. Even if Saturdays and Sundays are configured as valid windows, activating the toggle is mandatory to authorize the carrier to receive orders outside business hours.
+</div>
+
+  <div class = "alert alert-info">
+When this option is enabled, the order <a href="https://help.vtex.com/en/tutorial/how-shipping-calculation-works--tutorials_116">shipping calculation</a> is influenced, and the period from order placement to the carrier's business time is added to the total shipping time.
+</div>
 
 3. Select the `Day of the week`, as well as the `Start time` and `End time` for shipping items to customers.
     * **Day of the week**: days on which carriers make deliveries.
     * **Start time**: the time the shipping window starts.
     * **End time**: the time the shipping window ends.
-4. Click on `Add shipping window` if you want to add a new window.
-5. Click on `Save changes`.
+4. If you want to add a new window period, click `Add shipping window`.
+5. Click `Save changes`.
 
-## Pickup time
+## Pickup Time
 
-1. Click on the `Pickup time` card.
-2. Select the `Day of the week` and `Pickup time`. 
-3. Click on `Add pickup time` if you want to add a new time for pickup.
-4. Click on `Save changes`.
+1. In the [Shipping policy](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140), in the **Business Hours** section, click the `Pickup Time` card.
+2. Select the `Day of the week`.
+3. Select the `Pickup time`. 
+4. If you want to add a new pickup period, click `Add pickup time`.
+5. Click `Save changes`.

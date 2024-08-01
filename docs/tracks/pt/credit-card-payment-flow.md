@@ -1,10 +1,10 @@
 ---
 title: 'Fluxo de um pagamento por cartão de crédito'
 id: TEYVv2fcVkH7et9n3OnBS
-status: CHANGED
+status: PUBLISHED
 createdAt: 2019-11-12T15:51:05.024Z
-updatedAt: 2020-11-27T19:39:59.301Z
-publishedAt: 2020-02-13T15:38:53.526Z
+updatedAt: 2023-11-01T12:40:40.235Z
+publishedAt: 2023-11-01T12:40:40.235Z
 firstPublishedAt: 2019-11-22T19:30:16.374Z
 contentType: trackArticle
 productTeam: Financial
@@ -28,7 +28,7 @@ Para saber mais sobre os agentes financeiros envolvidos no fluxo de pagamento de
 
 O fluxo completo para pagamento por cartão de crédito na VTEX pode ser descrito pela imagem abaixo. 
 
-![Cartão de crédito - Fluxo básico de um pagamento](https://images.ctfassets.net/alneenqid6w5/64zjpwrBkpqbOhR7vtZhKs/424c414ed06f81c4edcc676773fd00d9/Fluxo_Cart__o_de_Cr__dito.jpg)
+![Cartão de crédito - Fluxo básico de um pagamento](//images.ctfassets.net/alneenqid6w5/64zjpwrBkpqbOhR7vtZhKs/424c414ed06f81c4edcc676773fd00d9/Fluxo_Cart__o_de_Cr__dito.jpg)
 
 1. Na tela de Checkout da sua loja, o cliente escolhe o  **Meio de Pagamento**  _cartão de crédito_ para realizar o pagamento de sua compra.  
 
@@ -37,7 +37,7 @@ O fluxo completo para pagamento por cartão de crédito na VTEX pode ser descrit
 3. Com as informações em mãos, o _gateway de pagamentos_ repassa as informações necessárias para o  **Adquirente**, que é responsável pelas liquidações das transações financeiras com os varejistas.  
 
 4. Em posse das informações, o adquirente envia os dados do pagamento para a  **Bandeira**. A bandeira, que conecta o sistema de adquirentes com os bancos emissores. 
-   
+
 5. Por fim, a bandeira envia as informações do pagamento para o **Banco Emissor**. O banco emissor faz a análise de crédito, verifica o limite disponível e então autoriza ou nega o pagamento.
 
 Com a resposta do banco emissor, é realizado o fluxo inverso e o  **Gateway de Pagamentos**  recebe a informação se o pagamento foi aprovado ou negado.

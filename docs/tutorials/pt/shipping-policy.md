@@ -1,10 +1,10 @@
 ---
-title: 'Política de Envio'
+title: 'Política de envio'
 id: tutorials_140
 status: PUBLISHED
 createdAt: 2017-04-27T22:17:12.502Z
-updatedAt: 2023-03-29T18:19:38.883Z
-publishedAt: 2023-03-29T18:19:38.883Z
+updatedAt: 2024-01-31T01:24:50.628Z
+publishedAt: 2024-01-31T01:24:50.628Z
 firstPublishedAt: 2017-04-27T23:00:45.247Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,69 +15,44 @@ legacySlug: cadastrar-transportadora, gerenciar-transportadora
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-Política de envio é um conjunto de regras que definem as opções e condições de frete que serão apresentadas ao consumidor no momento da finalização da compra. As condições de frete incluem configurações de horário de funcionamento da transportadora, prazos de entrega, valores adicionais de frete, tipos de produtos passíveis de entrega (modais) e janelas de entrega.
+O conjunto de configurações [logísticas](https://help.vtex.com/pt/tutorial/fulfillment-logistica-vtex--53udnvI5eBy8DKo8FOjMoP) essenciais de uma loja VTEX recebe o nome de [estratégia de envio](https://help.vtex.com/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3), que é a relação entre os seguintes aspectos:
 
-Todas essas configurações são baseadas principalmente no contrato que a sua loja tem com uma [transportadora](https://help.vtex.com/pt/tutorial/o-que-e-uma-transportadora--7u9duMD5UQa2QQwukAWMcE), com um prestador de serviço, ou com qualquer outro tipo de contrato de serviço de frete que sua loja ofereça aos consumidores.
+1. Política de envio
+2. [Estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)
+3. [Doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)
 
-<div class="alert alert-info"> 
-É possível que uma mesma transportadora seja base de múltiplas políticas de envio, cada uma com suas particularidades. Veja abaixo como criar, editar e excluir políticas de envio.
-</div>
+A imagem abaixo mostra como esses conceitos se relacionam entre si:
 
-Pela plataforma da VTEX, é possível: 
+![shipping_strategy_PT](//images.ctfassets.net/alneenqid6w5/1LdEuL3gjF12uwFj4ya6OL/c60984b010b96980383798cffad3527f/shipping_strategy_PT.png)
 
-*   [Cadastrar políticas de envio](#cadastrar-uma-politica-de-envio)
-*   [Editar políticas de envio](#editar-uma-politica-de-envio)
-*   [Excluir políticas de envio](#excluir-uma-politica-de-envio)
+**Política de envio** é um conjunto de regras e configurações que definem quais opções de envio serão apresentadas aos clientes no checkout. Quando a plataforma VTEX [calcula o tempo de envio](https://help.vtex.com/pt/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) do pedido, as configurações das políticas de envio são consideradas, e algumas das principais são:
 
-## Cadastrar uma política de envio
+* [Transportadora](https://help.vtex.com/pt/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE)
+* [Horário de funcionamento da transportadora](https://help.vtex.com/pt/tutorial/horario-de-funcionamento-das-transportadoras--2oGpbInIgdxSWUi3TZjdCS)
+* [Feriados](https://help.vtex.com/pt/tutorial/cadastrar-feriados--2ItOthSEAoyAmcwsuiO6Yk)
+* [Adicionais de frete](https://help.vtex.com/pt/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV)
+* [Entrega agendada](https://help.vtex.com/pt/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi)
+* [Pontos de retirada](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R)
 
-1. No Admin VTEX, acesse **Envio > Estratégia de Envio > Políticas de Envio** ou digite *Estratégia de envio* na barra de busca no topo da página.
-2. Clique no botão `Criar política de envio`.
-3. Preencha os campos da tela e clique em `Salvar alterações` ao terminar:
-*   **Ativa**: ativa ou desativa a política de envio.
-*   **Nome:** nome interno da política de envio.
-*   **ID:** identificador interno e para integradores. Deve ser preenchido apenas com letras e números. Caso não seja preenchido, será criado um ID automaticamente.
-*   **[Método de Envio](https://help.vtex.com/pt/tutorial/como-funciona-o-tipo-de-entrega--tutorials_126):** nome do tipo de entrega. Serve para separar os diferentes serviços de entrega. É o nome que será exibido na finalização de compra para o cliente. Ex. expresso vs. normal. 
-*   **[Upload de tarifas de envio](https://help.vtex.com/pt/tutorial/como-montar-a-planilha-de-frete--tutorials_127)**: é a tabela com os valores e prazos de frete assumidos pela política de envio. 
-*   **[Dimensões do Pacote](https://help.vtex.com/pt/tutorial/como-funciona-o-empilhamento--tutorials_124):**
-    *   **Soma das dimensões:** limite de dimensão do pacote que leva em conta a soma da medida de todas as arestas do pacote. Ao atingir esse valor, ou a entrega é dividida em pacotes ou não é feita. Estes dados são passados pela transportadora no momento de fechamento do contrato com a mesma. 
-    *   **Maior aresta:** limite de tamanho da maior aresta do pacote. Ao atingir esse valor, ou a entrega é dividida em pacotes ou não é feita.
-    *   **[Fator de peso cúbico](https://help.vtex.com/pt/tutorial/como-o-peso-cubado-e-calculado--tutorials_128):** fator que será utilizado para cálculo do peso cubado. Soma das medidas, dividida pelo fator cúbico. 
-    *   **Fator de peso mínimo:** use o peso cúbico apenas se este passar deste valor. Limite de peso onde, a partir dele, será considerado o cálculo do peso cubado para o frete.
-*   **Fins de semana e feriados:** os dias da semana para entregas. Marque as flags, para ativar a entrega nos seguintes cenários: `Entrega nos sábados`, `Entrega nos domingos`, `Entrega nos feriados`.
-*   **[Modais ativos](https://help.vtex.com/pt/tutorial/como-funciona-o-modal--tutorials_125):** especificações de produtos que necessitam de uma entrega especial. São as limitações de envio do produto que a política de envio permite. Marque as flags para ativar a entrega nos seguintes cenários: `químicos`, `eletrônicos`, `móveis`, `vidro`, `líquidos`, `colchões`, `refrigerados`, `pneus`, `linha branca` e `armas de fogo`.
-*   **Itens do pacote:** descrição de valor e número de itens do pacote:
-    *   **Valor mínimo:** valor mínimo aceito pela política de envio, para realizar o frete.
-    *   **Mínimo de itens:**  múltiplo mínimo da quantidade de itens aceita pela transportadora. Por exemplo, se for preenchido com o valor **3**, significa que a transportadora só realiza  entregas que têm quantidades de itens múltiplos de  três (3, 6, 9, 21…).
-    *   **Valor máximo:** máximo valor aceito pela política de envio, para realizar o frete.
-*   **Relacionar pontos de retirada:** marque esta flag, para abrir a opção de Pontos de retirada. Clique no dropdown e selecione entre `Tags dos pontos de retirada`, `Nomes dos pontos de retirada` e `Importar ponto de retirada de sellers` previamente cadastrados.
-*   **[Horário de funcionamento:](https://help.vtex.com/pt/tutorial/configurar-horario-de-funcionamento-para-transportadoras--2oGpbInIgdxSWUi3TZjdCS)** os horários em que a política de envio faz coletas ou as janelas de tempo em que ela envia os itens para os clientes. Estas configurações influenciam o cálculo do tempo de entrega:
-    *   **Período de envio:** é onde você cadastra os períodos de funcionamento da política de envio, ou seja, os horários em que ela aceita o recebimento do pedido. Para configurar selecione a janela `Período de envio` :
-        *   `Aceitar compras fora do horário de funcionamento`: ativa ou inativa o recebimento de compras fora do horário de funcionamento. Quando ativo, o intervalo de tempo do momento do pedido até o início horário, será somado ao tempo total da entrega.
-        *   Selecione o `Dia da semana`, e preencha `Horário de início` e `Horário de fim`.
-        *   Para adicionar mais dias da semana, clique em `Adicionar período de envio`.
-    *   **Horário de coleta:** é onde você cadastra os horários em que a política de envio coleta pacotes em seu estoque ou centro de distribuição, para em seguida enviá-los aos clientes finais. Caso o pedido seja feito antes do início do horário de coleta, nenhum tempo será adicionado ao tempo total da entrega. No entanto, se ele for feito após o horário de coleta, o intervalo de tempo do momento do pedido até o início horário, será somado ao tempo total da entrega.
-        *   Selecione o `Dia da semana` e preencha o `Horário da coleta`. 
-        *   Para adicionar mais dias da semana, clique em `Adicionar período de coleta`.
-*   **[Entrega agendada:](https://help.vtex.com/pt/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi)** essa funcionalidade pode ser habilitada caso a política de envio ofereça o serviço de entrega agendada. É aqui que você deverá adicionar as janelas de entrega que ficarão disponíveis para o cliente ao final da compra. Para utilizar, habilite `entrega agendada` e preencha:
-    *   **Tempo máximo de entrega:** define o tempo máximo de entrega, deve ser preenchido com o tempo em dias.
-    *   **Período de entrega:** define as janelas de entrega que a política de entrega realiza. Você deve adicionar os dias da semana, horários de `Início` e `Fim` da janela de entrega, e valor adicional. Clique em `Adicionar novo período de entrega` para adicionar mais janelas de entrega. 
-    *   **Capacidade de entrega:** permite limitar quantos itens/pedidos podem ser entregues para cada janela de entrega. Essa funcionalidade pode ser habilitada, ou não. O uso ou não dessa funcionalidade não interfere no funcionamento da plataforma. Para saber mais sobre esses recursos consulte a [Entrega agendada](https://help.vtex.com/pt/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi) e [Gerenciar capacidade de entrega](https://help.vtex.com/pt/tutorial/gerenciar-capacidade-de-entrega--2y217FQZCjD0I1n62yxVcz). Caso seja habilitada você deve:
-        *   Escolher a unidade da capacidade de entrega entre `itens` e `pedidos`.
-        *   Conferir as janelas de entrega.
-        *   Definir o número da capacidade de entrega. Recomendamos cuidado especial ao escolher a unidade e a quantidade da capacidade de entrega, pois o sistema não calcula a disponibilidade da `capacidade de entrega` levando em conta a quantidade de itens sendo comprada. Então, se a janela de entregas ainda tiver capacidade para 2 itens e seu cliente estiver comprando 4 itens, ele ainda terá a opção de selecionar a janela de entrega disponível.
+Para saber como criar uma política de envio, veja o artigo [Criar uma política de envio](https://help.vtex.com/pt/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT). Para informações sobre gerenciamento, confira o artigo [Gerenciar políticas de envio](https://help.vtex.com/pt/tutorial/gerenciar-politicas-de-envio--30nynylgbWieimhaMtGTIE).
 
-            É importante lembrar que as janelas de entrega deixam de ficar disponíveis aos clientes caso já tenham atingido o limite da `capacidade de entrega`. Para que uma janela fique novamente disponível aos clientes, é preciso aumentar a quantidade de itens/pedidos da capacidade de entrega da janela. 
+## Política de envio e planilha de frete
 
-## Editar uma política de envio
+Toda política de envio está associada a uma [planilha de frete](https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127), que é onde você cadastra informações como:
 
-1. No Admin VTEX, acesse **Envio > Estratégia de Envio > Políticas de Envio** ou digite *Estratégia de envio* na barra de busca no topo da página.
-2. Clique na `política de envio` que deseja alterar.
-3. Altere `os campos de` [Cadastrar políticas de envio](#cadastrar-uma-politica-de-envio) e salve.
+* Identificação da transportadora
+* Valor de envio cobrado pela transportadora
+* Intervalos de código postal ou [polígonos](https://help.vtex.com/pt/tutorial/gerenciar-geolocalizacao--tutorials_138) válidos para envios
 
-## Excluir uma política de envio
+Uma vez que a planilha de frete é associada à política de envio, essas informações passam a fazer parte da sua operação logística na VTEX.
 
-1. No Admin VTEX, acesse **Envio > Estratégia de Envio > Políticas de Envio** ou digite *Estratégia de envio* na barra de busca no topo da página.
-2. Passe o mouse sobre a política de envio que deseja excluir.
-3. Clique no ícone de lixeira.
-4. Clique no botão `Deletar`.
+## Primeiras configurações logísticas
+
+As configurações podem ser realizadas pelo Admin VTEX ou por API. Se você está começando a configurar sua [estratégia de envio](https://help.vtex.com/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3), a ordem de cadastro sugerida é a seguinte:
+
+| **Assunto** | **Configuração via Admin VTEX** | **Configuração via API** |
+| :--- | :--- | :--- |
+| 1. Política de envio | [Criar uma política de envio](https://help.vtex.com/pt/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT) | [Create shipping policy](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/shipping-policies) |
+| 2. [Estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) | [Gerenciar estoque](https://help.vtex.com/pt/tutorial/gerenciar-estoque--tutorials_137) | [Create/update warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/warehouses) |
+| 3. [Doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) | [Gerenciar doca](https://help.vtex.com/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW) | [Create/update dock](https://developers.vtex.com/docs/api-reference/logistics-api#post-/api/logistics/pvt/configuration/docks) |
+

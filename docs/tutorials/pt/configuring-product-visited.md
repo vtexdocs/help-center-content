@@ -1,10 +1,10 @@
 ---
 title: 'Configurar produto visitado'
 id: tutorials_3136
-status: PUBLISHED
+status: CHANGED
 createdAt: 2017-04-27T21:52:11.184Z
-updatedAt: 2023-03-28T23:34:22.351Z
-publishedAt: 2023-03-28T23:34:22.351Z
+updatedAt: 2024-06-18T21:19:01.080Z
+publishedAt: 2024-06-18T21:15:58.589Z
 firstPublishedAt: 2017-04-27T23:03:54.918Z
 contentType: tutorial
 productTeam: Master Data
@@ -14,6 +14,10 @@ locale: pt
 legacySlug: configurando-produto-visitado
 subcategory: 2nx7hMJmisofwqwy2P9l2i
 ---
+
+<div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding: 15px; margin-bottom: 10px">
+Tutorial válido apenas para lojas CMS Portal Legado.
+</div>
 
 O produto visitado é a funcionalidade que envia e-mails para os clientes que navegaram por um produto em seu site mas não finalizaram compra. Esse e-mail tem como objetivo a recuperação da venda, enviando, além do produto abandonado, sugestões de novos produtos. Tudo isso é possível através de seu Master Data.
 
@@ -55,11 +59,11 @@ Após criar um campo na entidade, é preciso configurar para que o campo seja ex
 
 ### Crie o template de e-mail
 
-O template do e-mail que será enviado, assim como no Carrinho Abandonado, é configurado no módulo CMS. Para auxiliar a configuração, [use nosso template de exemplo](//assets.contentful.com/alneenqid6w5/6TloqmkC76AAauQ4e4SWmA/bf28c1d0d7d6618d5eb1231a578934f1/produtoVisitadoExemplo.html "use nosso template de exemplo").
+O template do e-mail que será enviado, assim como no Carrinho Abandonado, é configurado no módulo CMS. Para auxiliar a configuração, [use nosso template de exemplo](//assets.ctfassets.net/alneenqid6w5/6TloqmkC76AAauQ4e4SWmA/90018592126fff6bd0d7a9a4ae8568d7/produtovisitadoexemplo.zip).
 
 1. Acesse o módulo **CMS**;
 2. Clique em **Portal**;
-3. [Clique aqui para baixar o template de exemplo](//assets.contentful.com/alneenqid6w5/6TloqmkC76AAauQ4e4SWmA/bf28c1d0d7d6618d5eb1231a578934f1/produtoVisitadoExemplo.html "Clique aqui para baixar o template de exemplo");
+3. [Clique aqui para baixar o template de exemplo](//assets.ctfassets.net/alneenqid6w5/6TloqmkC76AAauQ4e4SWmA/90018592126fff6bd0d7a9a4ae8568d7/produtovisitadoexemplo.zip)
 4. Clique em **Templates de página**;
 5. Clique em **novo template**;
 6. Preencha o nome e cole o código de seu template. Atenção! Se estiver usando o template de exemplo, lembre-se de alterar o código `TEMPLATE_DE_PRATELEIRA` pelo id de seu template de prateleira e o código `NOME_DA_LOJA` pela URL de sua loja.

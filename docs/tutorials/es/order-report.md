@@ -3,8 +3,8 @@ title: 'Informe de pedidos'
 id: 31m1ewsmsEe0WS4So2aGMY
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:42.311Z
-updatedAt: 2023-05-31T15:43:26.524Z
-publishedAt: 2023-05-31T15:43:26.524Z
+updatedAt: 2024-03-01T01:28:57.258Z
+publishedAt: 2024-03-01T01:28:57.258Z
 firstPublishedAt: 2019-01-24T22:03:18.967Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -114,7 +114,7 @@ Las columnas corresponden a información específica sobre el pedido, conforme s
 *   **Taxes**: es el resultado de la suma entre Tax y CustomTax, las tarifas asignadas al SKU. Si ambos valores no existen, la columna estará vacía.
 *   **Invoice Number**: es el número de factura del pedido.
 *   **Country**: es el país en el que se realizó el pedido.
-*   **Input Invoices Numbers:** son los números de la factura de entrada, referente a una devolución.
-*   **Output Invoices Numbers:** son los números de la factura referente a una compra.
+*   **Input Invoices Numbers:** son los números de la factura de tipo Output, referente a una compra.
+*   **Output Invoices Numbers:** son los números de la factura de tipo Input, referente a una devolución.
 *   **Status raw value (temporary)**: es el valor del _status_ de un pedido sin ningún tratamiento específico, es decir, el _status_ de un pedido como una _string_ que no ha sido tratada. Por ejemplo: el _status_ de un pedido puede aparecer en la interfaz como `preparando` y en este campo sería `handling`.
 *   **Cancellation Data**: motivo de la cancelación del pedido indicado por el cliente final, de acuerdo con lo que se muestra en el campo `Reason` del objeto `cancellationData` exhibido en la [API de Orders](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/cancel). En caso de que el usuario no complete este campo cuando realice la cancelación, dicha columna estará vacía en el informe.

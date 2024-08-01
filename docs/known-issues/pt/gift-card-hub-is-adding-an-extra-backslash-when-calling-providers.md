@@ -3,8 +3,8 @@ title: 'O hub do Gift Card está adicionando uma contrabarra extra ("/") ao liga
 id: 2ZstMKKGUbrdXGuhS2Rr1f
 status: PUBLISHED
 createdAt: 2022-09-30T21:07:47.856Z
-updatedAt: 2022-11-25T22:04:08.181Z
-publishedAt: 2022-11-25T22:04:08.181Z
+updatedAt: 2024-02-16T20:24:58.109Z
+publishedAt: 2024-02-16T20:24:58.109Z
 firstPublishedAt: 2022-09-30T21:07:48.985Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: o-hub-do-gift-card-esta-adicionando-uma-contrabarra-extra-ao-ligar-para-os-fornecedores
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 669575
 ---
 

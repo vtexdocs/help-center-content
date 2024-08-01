@@ -3,8 +3,8 @@ title: 'Product Price not considering default seller in PDP'
 id: 4VOIW6kCTfFZ3S9u3xtdDF
 status: PUBLISHED
 createdAt: 2022-02-23T21:52:42.520Z
-updatedAt: 2022-11-25T22:13:37.983Z
-publishedAt: 2022-11-25T22:13:37.983Z
+updatedAt: 2024-02-16T20:27:12.071Z
+publishedAt: 2024-02-16T20:27:12.071Z
 firstPublishedAt: 2022-03-07T22:34:44.879Z
 contentType: knownIssue
 productTeam: Store Framework
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: product-price-not-considering-default-seller-in-pdp
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 429888
 ---
 

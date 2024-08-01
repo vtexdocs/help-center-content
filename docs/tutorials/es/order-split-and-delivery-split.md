@@ -3,8 +3,8 @@ title: 'División de pedidos y división de entregas'
 id: jQvzA6QgSd51e2p6bthoV
 status: PUBLISHED
 createdAt: 2021-09-27T21:06:59.520Z
-updatedAt: 2023-01-13T18:53:14.386Z
-publishedAt: 2023-01-13T18:53:14.386Z
+updatedAt: 2023-09-23T01:00:23.558Z
+publishedAt: 2023-09-23T01:00:23.558Z
 firstPublishedAt: 2021-09-27T21:12:55.418Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -58,4 +58,4 @@ El pedido lo atiende un solo _seller_, pero es necesario realizar más de una en
   No recomendamos operar la tienda con el campo <code>allowMultipleDeliveries</code> indicado como <i>false</i>. En esta configuración, cuando hay artículos en el carrito que no tienen ningún método de entrega en común, es decir, los SLAID son diferentes y el carrito tiene un punto de recogida, no será posible completar el pedido.
 </div>
 
-* **Almacenes diferentes:** una misma tienda ofrece todos los ítems de un pedido, pero estos se encuentran en diferentes almacenes. Entonces hay que _dividir los paquetes de entrega_, pero sin dividir el pedido entre diferentes tiendas. La plataforma lo hace automáticamente.
+* **Muelles diferentes:** una misma tienda ofrece todos los ítems de un pedido, pero en el cálculo de la ruta logística están asociados a diferentes muelles. Entonces hay que _dividir los paquetes de entrega_, pero sin dividir el pedido entre diferentes tiendas. La plataforma lo hace automáticamente.

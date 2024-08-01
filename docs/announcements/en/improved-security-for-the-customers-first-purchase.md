@@ -1,9 +1,9 @@
 ---
 title: "Improved security for the customer's first purchase"
-id: DKlfRaMNHxgQhUT5VqRrK
+id: 3RBko0KXi8eOm4nKARgReD
 status: DRAFT
-createdAt: 2023-04-28T12:35:44.503Z
-updatedAt: 2023-06-09T15:37:43.651Z
+createdAt: 2023-07-03T11:34:49.078Z
+updatedAt: 2023-10-09T14:12:03.607Z
 publishedAt: 
 contentType: updates
 productTeam: Shopping
@@ -21,7 +21,7 @@ In order to improve the security of your store information, VTEX has made improv
 
 During a customer's first purchase, their personal information is displayed unmasked next to the cart since they do not have a profile in the store yet.
 
-Now, when a new cart is created, a new cookie called `CheckoutOrderFormOwnership` is forwarded along with the existing `checkout.vtex.com` cookie that contains the orderFormId. This will ensure that only the customer who created the cart has unrestricted access to their personal information.
+Now, when a new cart is created, a new cookie called `CheckoutOrderFormOwnership` is forwarded along with the existing `checkout.vtex.com` cookie that contains the `orderFormId`. This will ensure that only the customer who created the cart has unrestricted access to their personal information.
 
 In case there is an external attempt to access the cart data, the customer's personal information cannot be viewed, as the data will appear masked.
 

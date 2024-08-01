@@ -3,8 +3,8 @@ title: 'Temos um problema de validação do campo ClientId do Giftcard na admini
 id: 4S7CziQfj5P2NLAgUKnJnP
 status: PUBLISHED
 createdAt: 2022-03-28T00:29:38.482Z
-updatedAt: 2022-11-25T22:07:33.502Z
-publishedAt: 2022-11-25T22:07:33.502Z
+updatedAt: 2024-02-16T20:24:40.988Z
+publishedAt: 2024-02-16T20:24:40.988Z
 firstPublishedAt: 2022-03-28T00:29:39.028Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: temos-um-problema-de-validacao-do-campo-clientid-do-giftcard-na-administracao
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 454388
 ---
 

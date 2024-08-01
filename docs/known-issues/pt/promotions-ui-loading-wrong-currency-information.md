@@ -1,18 +1,18 @@
 ---
-title: 'Promoções UI carregando informações erradas sobre moeda'
+title: 'IU de promoções carregando informações de moeda incorretas'
 id: 7liSZOtS1Hs2P84bXzRrG9
 status: PUBLISHED
 createdAt: 2022-12-19T14:41:51.129Z
-updatedAt: 2022-12-19T14:41:51.903Z
-publishedAt: 2022-12-19T14:41:51.903Z
+updatedAt: 2024-02-15T12:11:06.893Z
+publishedAt: 2024-02-15T12:11:06.893Z
 firstPublishedAt: 2022-12-19T14:41:51.903Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
 author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
-slug: promocoes-ui-carregando-informacoes-erradas-sobre-moeda
+slug: iu-de-promocoes-carregando-informacoes-de-moeda-incorretas
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 718908
 ---
 
@@ -23,31 +23,26 @@ internalReference: 718908
 </div>
 
 
+Ao abrir o módulo Promoções muito rapidamente e várias vezes seguidas, um comportamento incorreto aparece na interface do usuário.
 
-Ao abrir o módulo Promoções muito rapidamente e muitas vezes em uma fila, um comportamento errado aparece na IU.
+O campo "Restrict this promotion to seller products" (Restringir esta promoção a produtos do vendedor) não carrega o espaço reservado correto, mas sim o espaço reservado "GLOBAL SELECT-A-SELLER..." (Selecionar um vendedor global).
 
-O campo "Restringir esta promoção aos produtos do vendedor" não carrega o lugar correto, em vez disso carrega o lugar correto "GLOBAL SELECT-A-SELLLER...".
-
-A informação da moeda é carregada como R$ (real)
+As informações de moeda são carregadas como R$ (real)
 
 Ao salvar a promoção, o valor final não é o esperado pelo cliente.
-
-
-##
 
 ## Simulação
 
 
-
-Não há uma maneira fácil de reproduzir este cenário. Às vezes, ao abrir o módulo de promoções em diferentes abas muito rapidamente, o comportamento acontece.
-Verifique se o campo "Restringir esta promoção aos produtos do vendedor" é diferente para saber se você chegou ao cenário.
-
-
-##
+Não há uma maneira fácil de reproduzir esse cenário. Às vezes, ao abrir o módulo de promoções em guias diferentes muito rapidamente, o comportamento acontece.
+Verifique se o campo "Restrict this promotion to seller products" (Restringir esta promoção a produtos do vendedor) está diferente para saber se você alcançou o cenário
 
 ## Workaround
 
 
+Feche a IU de promoções atual e abra uma nova em que o comportamento não esteja ocorrendo.
 
-Feche a atual UI de promoções e abra uma nova onde o comportamento não esteja acontecendo.
+
+
+
 

@@ -3,8 +3,8 @@ title: 'Facetas de busca na API do Catálogo não retornam informações para pr
 id: 1JrbscqI4BQgFqfVuRZIl8
 status: PUBLISHED
 createdAt: 2022-05-23T13:58:53.501Z
-updatedAt: 2022-11-25T21:45:53.573Z
-publishedAt: 2022-11-25T21:45:53.573Z
+updatedAt: 2024-02-16T20:25:52.080Z
+publishedAt: 2024-02-16T20:25:52.080Z
 firstPublishedAt: 2022-05-23T13:58:53.924Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: facetas-de-busca-na-api-do-catalogo-nao-retornam-informacoes-para-produtos-nao-disponiveis
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 583623
 ---
 

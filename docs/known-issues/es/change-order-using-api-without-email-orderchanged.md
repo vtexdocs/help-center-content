@@ -3,8 +3,8 @@ title: 'Modificación de la orden a través de la API sin correo electrónico or
 id: 1KMglga4xM1s7EvNO1mmua
 status: PUBLISHED
 createdAt: 2022-05-18T18:40:48.935Z
-updatedAt: 2022-11-25T22:02:43.384Z
-publishedAt: 2022-11-25T22:02:43.384Z
+updatedAt: 2024-02-16T20:27:31.478Z
+publishedAt: 2024-02-16T20:27:31.478Z
 firstPublishedAt: 2022-05-18T18:40:49.234Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: modificacion-de-la-orden-a-traves-de-la-api-sin-correo-electronico-orderchanged
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 380509
 ---
 

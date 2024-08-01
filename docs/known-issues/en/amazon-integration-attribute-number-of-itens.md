@@ -3,8 +3,8 @@ title: 'Amazon integration attribute Number of itens'
 id: 75Afw210mMY9h6dbk3AV8V
 status: PUBLISHED
 createdAt: 2022-04-07T12:18:04.361Z
-updatedAt: 2022-11-25T21:56:13.168Z
-publishedAt: 2022-11-25T21:56:13.168Z
+updatedAt: 2024-02-16T20:25:56.485Z
+publishedAt: 2024-02-16T20:25:56.485Z
 firstPublishedAt: 2022-04-07T12:18:05.650Z
 contentType: knownIssue
 productTeam: Connections
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: amazon-integration-attribute-number-of-itens
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 557788
 ---
 

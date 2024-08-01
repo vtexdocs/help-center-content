@@ -3,8 +3,8 @@ title: 'Na página Order Placed, o DataLayer captura apenas as informações do 
 id: 5cTy3dCZ6x7FNMKvBbc9s8
 status: PUBLISHED
 createdAt: 2023-01-04T21:06:17.111Z
-updatedAt: 2023-01-10T19:08:17.450Z
-publishedAt: 2023-01-10T19:08:17.450Z
+updatedAt: 2024-02-16T20:23:30.519Z
+publishedAt: 2024-02-16T20:23:30.519Z
 firstPublishedAt: 2023-01-04T21:14:00.744Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,7 +12,7 @@ author: authors_84
 tag: Order Management
 slug: na-pagina-order-placed-o-datalayer-captura-apenas-as-informacoes-do-primeiro
 locale: pt
-kiStatus: Fixed
+kiStatus: No Fix
 internalReference: 727339
 ---
 

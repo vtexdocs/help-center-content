@@ -3,8 +3,8 @@ title: 'New UI does not show the invoiced value on Return items page'
 id: 3DBFXzWoz7jxSdgSLICV8i
 status: PUBLISHED
 createdAt: 2022-09-27T19:34:46.895Z
-updatedAt: 2022-11-25T22:01:19.774Z
-publishedAt: 2022-11-25T22:01:19.774Z
+updatedAt: 2024-02-16T20:28:14.405Z
+publishedAt: 2024-02-16T20:28:14.405Z
 firstPublishedAt: 2022-09-27T19:34:47.384Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: new-ui-does-not-show-the-invoiced-value-on-return-items-page
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 664838
 ---
 

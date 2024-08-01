@@ -3,8 +3,8 @@ title: 'VTEX Shipping Network Correios: FAQ'
 id: 2Wavf7Wie5GEUAEHKtn5oC
 status: PUBLISHED
 createdAt: 2023-06-01T13:24:23.895Z
-updatedAt: 2023-06-09T12:55:42.194Z
-publishedAt: 2023-06-09T12:55:42.194Z
+updatedAt: 2023-08-25T15:32:25.418Z
+publishedAt: 2023-08-25T15:32:25.418Z
 firstPublishedAt: 2023-06-01T14:47:24.289Z
 contentType: tutorial
 productTeam: Post-purchase

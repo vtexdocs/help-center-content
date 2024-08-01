@@ -3,8 +3,8 @@ title: 'Product Insert/Update API allows "\n" in the textLink field.'
 id: 5TfUw5tTxBEu9HkL3ypBKw
 status: PUBLISHED
 createdAt: 2022-06-28T16:55:53.325Z
-updatedAt: 2022-11-25T21:44:48.430Z
-publishedAt: 2022-11-25T21:44:48.430Z
+updatedAt: 2024-02-16T20:28:55.474Z
+publishedAt: 2024-02-16T20:28:55.474Z
 firstPublishedAt: 2022-06-28T16:55:54.138Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: product-insertupdate-api-allows-n-in-the-textlink-field
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 486459
 ---
 

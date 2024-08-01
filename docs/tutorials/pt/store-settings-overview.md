@@ -3,8 +3,8 @@ title: 'Visão Geral Configurações da Loja'
 id: 6VtlMoid6iM9dP14X1CopT
 status: PUBLISHED
 createdAt: 2023-03-29T23:00:51.439Z
-updatedAt: 2023-03-29T23:07:38.446Z
-publishedAt: 2023-03-29T23:07:38.446Z
+updatedAt: 2023-09-13T22:38:50.560Z
+publishedAt: 2023-09-13T22:38:50.560Z
 firstPublishedAt: 2023-03-29T23:07:38.446Z
 contentType: tutorial
 productTeam: Management
@@ -17,13 +17,11 @@ subcategory: 5RAUzLD6X9Wa1maenj1eGA
 
 **Configurações da Loja** são as configurações aplicadas à sua loja, o que inclui o seu storefront. Elas estão agrupadas na seção __Configurações da Loja__, no menu de navegação esquerdo do Admin VTEX. Aqui, você pode acessar as configurações aplicadas às seguintes seções: Pagamentos, Pedidos, Templates de Email, Produtos, Storefront, Canais e Intelligent Search.
 
-Para acessar esse recurso, clique no ícone de __Configurações da Loja__ no menu de navegação à esquerda, e então clique na seção desejada.
+Para acessar esse recurso, clique em __Configurações da Loja__ no menu de navegação à esquerda, e então clique na seção desejada.
 
 <div class="alert alert-warning" role="alert">
 Observe que as páginas e as configurações definidas no ambiente anterior não foram alteradas, apenas reorganizadas no menu lateral do Admin, mudando a forma como você as acessa.
-  </div>
-
-![Admin v4 Store settings menu PT](https://images.ctfassets.net/alneenqid6w5/2EIX54YHzIivbQjreHGV4B/794611f3616f225deb26e20cb74f77ae/Admin_v4_Store_settings_menu_PT.jpg)
+</div>
 
 Veja abaixo mais detalhes sobre as diferentes seções e páginas deste menu.
 

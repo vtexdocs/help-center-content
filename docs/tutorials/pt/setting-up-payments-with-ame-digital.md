@@ -3,8 +3,8 @@ title: 'Configurar pagamento com a Ame Digital'
 id: 4oEhDjLM4uk95X8omwLEG2
 status: PUBLISHED
 createdAt: 2022-02-14T17:02:38.944Z
-updatedAt: 2023-03-26T21:42:08.346Z
-publishedAt: 2023-03-26T21:42:08.346Z
+updatedAt: 2024-01-23T18:28:00.633Z
+publishedAt: 2024-01-23T18:28:00.633Z
 firstPublishedAt: 2022-02-14T17:35:18.865Z
 contentType: tutorial
 productTeam: Financial
@@ -15,15 +15,15 @@ legacySlug: configurar-pagamento-com-a-ame-digital
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento Ame Digital. Com este conector, sua loja pode realizar vendas à vista, prazo, com QR Code ou link de pagamento. Além disto, os seus clientes podem ter acesso a cashback durante as compras.
+Na VTEX, é possível realizar a integração com o provedor de pagamento Ame Digital. Por meio deste provedor, sua loja pode realizar vendas à vista, prazo, com QR Code ou link de pagamento. Além disto, os seus clientes podem ter acesso a cashback durante as compras.
 
-Para configurar a afiliação Ame Digital, siga os passos abaixo:
-1. 
-2. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-3. Na aba __Afiliações de Gateways__, clique no botão __+__.
-4. Clique no conector __AmeDigital__.
-5. Preencha os campos __Application Key__ e __Application Token__ com as informações da sua conta Ame Digital.
-6. Clique em __Salvar__.
+Para configurar Ame Digital, siga os passos abaixo:
+
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __AmeDigital__ na barra de busca e clique sobre o nome do provedor.
+4. Preencha os campos __Application Key__ e __Application Token__ com as informações da sua conta Ame Digital.
+5. Clique em __Salvar__.
 
 ## Configurar condição de pagamento
 

@@ -21,16 +21,16 @@ Para configurar el pago por Visa Débito en su tienda, en el Admin VTEX, accede 
 En primer lugar, deberemos crear un plan de pagos para habilitar Visa Débito en el Checkout.
 Para eso, en **Configuración** acceda al menú de opciones de **Planes de pago**:
 
-![2.3](https://images.ctfassets.net/alneenqid6w5/42TQNxEPPO8c0wW8k64U2E/862916e5d2a003018fd37d03a470adbc/2.3.png)
+![2.3](//images.ctfassets.net/alneenqid6w5/42TQNxEPPO8c0wW8k64U2E/862916e5d2a003018fd37d03a470adbc/2.3.png)
 
 Seleccione Visa Electron para crear el plan de pagos:
 
-![4.3](https://images.ctfassets.net/alneenqid6w5/2XPKxgRKhWkGoqeUa0qmSS/ad23305902a49316570c5ac8f9b3cf7d/4.3.png)
+![4.3](//images.ctfassets.net/alneenqid6w5/2XPKxgRKhWkGoqeUa0qmSS/ad23305902a49316570c5ac8f9b3cf7d/4.3.png)
 
 ### Configurar Plan de Pagos
 Se deberá seleccionar la afiliación deseada para transaccionar los pagos, activar el plan de pagos y finalmente salvar los cambios:
 
-![3.3](https://images.ctfassets.net/alneenqid6w5/4dI5gmauwMGuukI2wCSMOO/89fa814df4dd450410ed5cabe0cb89b8/3.3.png)
+![3.3](//images.ctfassets.net/alneenqid6w5/4dI5gmauwMGuukI2wCSMOO/89fa814df4dd450410ed5cabe0cb89b8/3.3.png)
 
 ### Visualizando las tarjetas de débito en Checkout
 Luego de finalizar la configuración del plan de pagos de Visa Débito, se verá una nueva pestaña en el Checkout, llamada Tarjeta de Débito. Dicha pestaña contendrá la opción de Visa Débito para ser elegida por el cliente y pagar online.

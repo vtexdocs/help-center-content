@@ -1,10 +1,10 @@
 ---
 title: 'Mercado Livre '
 id: 51oWBHvVxSs8eAwLQhSbSd
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-09-23T20:16:36.804Z
-updatedAt: 2023-03-28T21:46:05.528Z
-publishedAt: 2021-09-04T11:14:45.743Z
+updatedAt: 2024-03-11T22:19:17.941Z
+publishedAt: 2024-03-11T22:19:17.941Z
 firstPublishedAt: 2020-09-23T20:31:42.798Z
 contentType: trackArticle
 productTeam: Channels
@@ -18,7 +18,7 @@ O [Mercado Livre](https://www.mercadolivre.com.br/) é um dos líderes do e-comm
 
 Sua operação está presente nos países: Argentina, Brasil, Chile, Colômbia,  México, Uruguai e Venezuela.
 
-![mercado-livre-reproducao-w-970x550](https://images.ctfassets.net/alneenqid6w5/2oy6tDlTCV5xKtYinxqr3G/9f13547ee20c96383f18e8151f98177e/mercado-livre-reproducao-w-970x550.jpg)
+![mercado-livre-reproducao-w-970x550](//images.ctfassets.net/alneenqid6w5/2oy6tDlTCV5xKtYinxqr3G/9f13547ee20c96383f18e8151f98177e/mercado-livre-reproducao-w-970x550.jpg)
 
 O marketplace do Mercado Livre oferece um ambiente de negociação on-line totalmente automatizado, organizado por tópicos e fácil de usar. Esse serviço oferece aos compradores uma grande variedade de itens novos e usados, permitindo que empresas e indivíduos anunciem itens e realizem suas vendas e compras no maior mercado da América Latina.
 

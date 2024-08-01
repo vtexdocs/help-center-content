@@ -16,7 +16,7 @@ trackSlugPT: instore-customizacoes
 
 Quando o vendedor conclui um pedido com o inStore, ele pode imprimir um resumo desse pedido. Mas, para habilitar essa funcionalidade, você precisa fazer algumas configurações.
 
-![15. Configurar impressão de resumo do pedido - 1](https://images.ctfassets.net/alneenqid6w5/I5tu0upqIMUVTCxTHFfmL/d25cd88a3601658aabea48fcee8e97f0/15._Configurar_impress__o_de_resumo_do_pedido_-_1.png)
+![15. Configurar impressão de resumo do pedido - 1](//images.ctfassets.net/alneenqid6w5/I5tu0upqIMUVTCxTHFfmL/d25cd88a3601658aabea48fcee8e97f0/15._Configurar_impress__o_de_resumo_do_pedido_-_1.png)
 
 São necessárias duas etapas:
 
@@ -50,7 +50,7 @@ window.INSTORE_CONFIG = {
 
 Essa alteração fará aparecer no menu principal do inStore a opção __Configurar o dispositivo__, como mostra a imagem abaixo. É por meio dessa opção que vamos configurar a impressora.
 
-![15. Configurar impressão de resumo do pedido - 2](https://images.ctfassets.net/alneenqid6w5/KxD08Gfiwa8mj6y6KzaKu/7fab9110af8d1337f5646252b8c9387c/15._Configurar_impress__o_de_resumo_do_pedido_-_2.png)
+![15. Configurar impressão de resumo do pedido - 2](//images.ctfassets.net/alneenqid6w5/KxD08Gfiwa8mj6y6KzaKu/7fab9110af8d1337f5646252b8c9387c/15._Configurar_impress__o_de_resumo_do_pedido_-_2.png)
 
 <div class="alert alert-info">
 <strong>Nota:</strong> Há uma opção para imprimir automaticamente o resumo do pedido, assim que o pedido for concluído. Para habilitar, basta adicionar a propriedade <code>printPageAutomatically</code> com o valor <code>true</code> dentro do objeto printingConfig. Veja abaixo como ficaria o trecho de código neste caso.
@@ -84,11 +84,11 @@ Tendo o AppKey e o AppToken em mãos, siga os passos abaixo:
 2. Abra o aplicativo do inStore e entre na loja onde deseja configurar a impressora.
 3. No menu principal do inStore, na seção Configurações, agora deve constar a opção __Configurar o dispositivo__. Clique nessa opção.
 
-![15. Configurar impressão de resumo do pedido - 3](https://images.ctfassets.net/alneenqid6w5/4BZ0V5CVUYA2Kwv49PfTYS/4fa9c04035ef00f8a0df9a9ae71b326b/15._Configurar_impress__o_de_resumo_do_pedido_-_3.png)
+![15. Configurar impressão de resumo do pedido - 3](//images.ctfassets.net/alneenqid6w5/4BZ0V5CVUYA2Kwv49PfTYS/4fa9c04035ef00f8a0df9a9ae71b326b/15._Configurar_impress__o_de_resumo_do_pedido_-_3.png)
 
 Você encontrará o resumo do dispositivo configurado. Se essa for a primeira vez em que você realiza essa configuração, os campos dessa tela estarão vazios. Se um dispositivo já tiver sido configurado anteriormente, algumas informações sobre o dispositivo serão exibidas (Nome do dispositivo e Impressora padrão). Clique no botão __Editar__.
 
-![15. Configurar impressão de resumo do pedido - 4](https://images.ctfassets.net/alneenqid6w5/4Xrv2WFGkaQ5ejAYZlF3ly/10e8b6b922cd7ee0f970f8db15cae1f9/15._Configurar_impress__o_de_resumo_do_pedido_-_4.png)
+![15. Configurar impressão de resumo do pedido - 4](//images.ctfassets.net/alneenqid6w5/4Xrv2WFGkaQ5ejAYZlF3ly/10e8b6b922cd7ee0f970f8db15cae1f9/15._Configurar_impress__o_de_resumo_do_pedido_-_4.png)
 
 Será exibido um formulário contendo os campos __AppKey__, __AppToken__ e o __nome__ com o qual você deseja identificar o dispositivo. Após inserir esses dados, clique em __Configurar__.
 

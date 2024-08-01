@@ -1,10 +1,10 @@
 ---
 title: 'Reserved stock in invoiced orders'
 id: TfDOKEybi6eSAEoCEEAqg
-status: PUBLISHED
+status: DRAFT
 createdAt: 2017-06-13T18:43:58.606Z
-updatedAt: 2022-12-22T14:51:09.663Z
-publishedAt: 2022-12-22T14:51:09.663Z
+updatedAt: 2023-10-17T15:29:19.908Z
+publishedAt: 
 firstPublishedAt: 2017-06-14T00:07:07.051Z
 contentType: knownIssue
 productTeam: Post-purchase

@@ -3,8 +3,8 @@ title: 'Cadastrar kit'
 id: tutorials_215
 status: PUBLISHED
 createdAt: 2017-04-27T22:13:50.843Z
-updatedAt: 2023-03-29T14:48:43.077Z
-publishedAt: 2023-03-29T14:48:43.077Z
+updatedAt: 2024-05-06T14:40:12.311Z
+publishedAt: 2024-05-06T14:40:12.311Z
 firstPublishedAt: 2017-04-27T23:02:48.663Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -26,7 +26,7 @@ Um kit pode permitir ou não que seus componentes sejam vendidos separadamente, 
 
 Para a configuração do kit é necessário que os produtos que irão fazer parte dele &#8211; seus componentes &#8211; já estejam criados. Confira o exemplo abaixo:
 
-![Componentes](https://images.ctfassets.net/alneenqid6w5/6k1lQeZ7AQ4qSQ80sWy0wg/24b2af0e0aa753077e69a3a0a8de7359/Screenshot_2018-10-24_11.05.54.png)
+![Componentes](//images.ctfassets.net/alneenqid6w5/6k1lQeZ7AQ4qSQ80sWy0wg/24b2af0e0aa753077e69a3a0a8de7359/Screenshot_2018-10-24_11.05.54.png)
 
 Após a criação dos produtos componentes, podemos seguir para a configuração do kit.
 
@@ -37,7 +37,7 @@ Após a criação dos produtos componentes, podemos seguir para a configuração
 5. Caso queira um kit look, clique na opção __Kit com itens vendidos separadamente__.
 6. Clique em `Salvar`.
 
-![kit](https://images.ctfassets.net/alneenqid6w5/2ELMh0gTCcSiag28qAsAmg/68fb75589fef19ed4001aec9b3cedfa1/02-kit_PT.png)
+![kit](//images.ctfassets.net/alneenqid6w5/2ELMh0gTCcSiag28qAsAmg/68fb75589fef19ed4001aec9b3cedfa1/02-kit_PT.png)
 
 ## Associar componentes
 
@@ -52,30 +52,26 @@ Depois de criar o produto que será o kit, você precisa associar os componentes
 7. Preencha o preço unitário do SKU dentro do KIT.
 6. Clique em `Salvar`.
 
-![Adicionar componente ao kit](https://images.ctfassets.net/alneenqid6w5/3Cza8qJSEoIK6I00wa2aAU/07caa35d542518e389b66eca48bdffbb/03-add_component_to_kit_PT.gif)
+![Adicionar componente ao kit](//images.ctfassets.net/alneenqid6w5/3Cza8qJSEoIK6I00wa2aAU/07caa35d542518e389b66eca48bdffbb/03-add_component_to_kit_PT.gif)
 
-![Kit no carrinho](https://images.ctfassets.net/alneenqid6w5/239UK8f3gEQi4IKc6YeyEI/0878bffc1325d9c3f79365f7aa479ef8/04-kit_in_cart_ALL.png)
+![Kit no carrinho](//images.ctfassets.net/alneenqid6w5/239UK8f3gEQi4IKc6YeyEI/0878bffc1325d9c3f79365f7aa479ef8/04-kit_in_cart_ALL.png)
 
 ## Peso do kit
 
 O peso do kit será formado pelo somatório do peso de seus componentes. Editar o peso diretamente no novo produto Kit não irá surtir efeitos na plataforma. O simulação de frete segue a mesma regra.
 
-## Estoque
+## Inventário
 
-O estoque do kit sempre será o estoque de seus componentes. Ou seja, não é possível inserir estoque apenas no kit, é preciso inserir estoque em cada um de seus componentes independentes, a fim de atualizar o estoque do kit. 
+O [inventário](https://help.vtex.com/pt/tutorial/inventory-management--tutorials_139) do kit sempre será o inventário de seus componentes. Ou seja, não é possível inserir inventário apenas no kit, é preciso inserir inventário em cada um de seus componentes independentes, a fim de atualizar o inventário do kit. Essa informação pode ser visualizada no Admin VTEX em **Catálogo > Inventário > Gerenciamento de inventário**.
 
-Essa informação pode ser visualizada em __Estoque &amp; entrega &gt; Inventário__:
+Como todos os SKUs componentes do kit só podem ser vendidos juntos, o inventário do kit será igual ao SKU com menos itens em inventário. Quando um dos componentes não possui mais inventário, o kit não pode ser comprado.
 
-![ Alterar inventário de componentes do kit](https://images.ctfassets.net/alneenqid6w5/5ZsH4tsHV6q6s4OAy6em8k/a57829903e61fa5b00bdd6becd992051/05-manage_inventory_by_kit_PS.gif)
-
-Como todos os SKUs componentes do kit só podem ser vendidos juntos, o estoque do kit será igual ao SKU com menos itens em estoque. Quando um dos componentes não possui mais estoque, o kit não pode ser comprado.
-
-Exemplo: um kit possui dois componentes. Considere que o componente 1 possui 30 unidades em estoque e o componente 2 possui 3 unidades em estoque. Logo, apenas 3 unidades do kit poderão ser vendidas.
+Exemplo: um kit possui dois componentes. Considere que o componente 1 possui 30 unidades em inventário e o componente 2 possui 3 unidades no inventário. Logo, apenas 3 unidades do kit poderão ser vendidas.
 
 Os componentes do kit podem estar em estoques diferentes, contanto que eles sejam enviados a partir da mesma doca. Se não saírem pela mesma doca, o kit inteiro se torna indisponível. 
 
 <div class="alert alert-info">
-<p>Este cenário não acontece com um kit look, pois o kit look pode ser vendido com os componentes que restaram em estoque, sem a necessidade de se ter todos os componentes do kit com estoque.</p>
+<p>Este cenário não acontece com um kit look, pois o kit look pode ser vendido com os componentes que restaram no inventário, sem a necessidade de se ter todos os componentes do kit no inventário.</p>
 </div>
 
 ## Preço
@@ -88,7 +84,7 @@ Mas note que alterar qualquer componente irá gerar um novo preço final, atuali
 
 Alterar somente o preço final não atualiza o preço dos componentes.
 
-![Lista de preços](https://images.ctfassets.net/alneenqid6w5/6eI3atVTvq0SgOw6c2uAqa/27af79495fd4de8860c36d214196246e/06-price_list_PT.png)
+![Lista de preços](//images.ctfassets.net/alneenqid6w5/6eI3atVTvq0SgOw6c2uAqa/27af79495fd4de8860c36d214196246e/06-price_list_PT.png)
 
 ### Saiba mais
 

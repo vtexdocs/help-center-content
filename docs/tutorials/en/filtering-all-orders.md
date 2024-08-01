@@ -3,8 +3,8 @@ title: 'Filtering orders on All Orders'
 id: tutorials_192
 status: PUBLISHED
 createdAt: 2017-04-27T22:15:05.494Z
-updatedAt: 2023-05-31T14:45:05.491Z
-publishedAt: 2023-05-31T14:45:05.491Z
+updatedAt: 2023-12-21T14:06:54.896Z
+publishedAt: 2023-12-21T14:06:54.896Z
 firstPublishedAt: 2017-04-27T23:00:47.449Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,9 +15,13 @@ legacySlug: filtering-orders-in-oms, filtering-orders-on-the-oms
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
+<div class = "alert alert-info">
+You can only access information from orders created in the last two years, and that same period is valid for customers through <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>.
+</div>
+
 In the **Orders** module, the **All Orders** page allows you to access your store's orders, search and filter them, as shown in the image below:
 
-![search_bar_EN](https://images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
+![search_bar_EN](//images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
 
 This article explains how to use these resources, and it is divided into:
 
@@ -25,6 +29,13 @@ This article explains how to use these resources, and it is divided into:
 - [Filters](#filters)
 - [Filter by Status](#filter-by-status)
 - [Created](#created)
+
+Besides searching for orders in **Orders > All Orders**, you can search for orders from any page in the VTEX Admin using the global search bar at the top bar. By default, the search is configured as `Pages`. To search for an order, click on the bar, select `Orders`, and use one of the following criteria:
+
+- Order ID
+- Customer name
+- Customer email
+- Customer document
 
 ## Search bar
 
@@ -52,7 +63,7 @@ Searching on All orders returns all orders related to the criteria used, regardl
 
 Enter the desired term in the search bar to search on All orders. This will make <i class="fas fa-toggle-on"></i> `Remove date limit` option visible. Then, activate it to search.
 
-![search_bar_without_time_limit_EN](https://images.ctfassets.net/alneenqid6w5/2ii9VFh5uRpG4Ad0nwIIN0/c861b2b825068d861850bce56660aa30/search_bar_without_time_limit_EN.png)
+![search_bar_without_time_limit_EN](//images.ctfassets.net/alneenqid6w5/2ii9VFh5uRpG4Ad0nwIIN0/c861b2b825068d861850bce56660aa30/search_bar_without_time_limit_EN.png)
 
 <div class="alert alert-danger">
 The search on All orders cannot be combined with other filters. So, once you remove the date limit from the search, any active filters become inactive. If the search term is removed or the <i class="fas fa-toggle-off"></i> <b>Remove date limit</b> is disabled, the previously configured filters become active again.
@@ -70,7 +81,7 @@ Searching by associated filters allows you to combine different filters, which a
 
 On the **Orders > All Orders** page, there is `Filters` option, as shown in the image below: 
 
-![search_bar_EN](https://images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
+![search_bar_EN](//images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
 
 When you click `Filters`, a modal is displayed with the following options:
 
@@ -186,7 +197,7 @@ Click `Filters` to use these filters and select **Other**. You can find the opti
 
 On the **Orders > All Orders** page, there is the `Filter by Status` <i class="fas fa-angle-down"></i> option, as shown in the image below:
 
-![search_bar_EN](https://images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
+![search_bar_EN](//images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
 
 When clicking `Filter by Status` <i class="fas fa-angle-down"></i>, your store's [order status](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196) options are displayed. For example, if among all your orders, there are no canceled ones, this option will not be visible. 
 
@@ -198,7 +209,7 @@ For more status filter options, go to the section <a href="https://help.vtex.com
 
 On the **Orders > All Orders** page, there is the option `Created: Today` <i class="fas fa-angle-down"></i>, as shown in the image below:
 
-![search_bar_EN](https://images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
+![search_bar_EN](//images.ctfassets.net/alneenqid6w5/1aPXtEWSmO3isVQ5k1GF3z/c5d9141fa1eb3389ff779b8f169d4d59/search_bar_EN.png)
 
 This filter has the **Today** date enabled by default, but by clicking it, the following options are displayed:
 

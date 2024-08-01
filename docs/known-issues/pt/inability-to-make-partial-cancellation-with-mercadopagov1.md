@@ -3,8 +3,8 @@ title: 'Incapacidade de fazer cancelamento parcial com MercadoPagoV1'
 id: 59aimeqhjGVOVkP9f6A9ls
 status: PUBLISHED
 createdAt: 2022-06-28T16:44:19.059Z
-updatedAt: 2022-11-25T22:06:36.432Z
-publishedAt: 2022-11-25T22:06:36.432Z
+updatedAt: 2024-02-16T20:30:01.307Z
+publishedAt: 2024-02-16T20:30:01.307Z
 firstPublishedAt: 2022-06-28T16:44:19.331Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: incapacidade-de-fazer-cancelamento-parcial-com-mercadopagov1
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 286738
 ---
 

@@ -3,8 +3,8 @@ title: 'Large Import/Export Spreadsheet Error on New Collections Admin'
 id: 6xbBVR2Z7CCpIC0iCAKHgN
 status: PUBLISHED
 createdAt: 2023-02-16T19:04:08.298Z
-updatedAt: 2023-02-16T19:04:08.784Z
-publishedAt: 2023-02-16T19:04:08.784Z
+updatedAt: 2023-12-12T21:08:23.871Z
+publishedAt: 2023-12-12T21:08:23.871Z
 firstPublishedAt: 2023-02-16T19:04:08.784Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,15 +12,14 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: large-importexport-spreadsheet-error-on-new-collections-admin
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 362017
 ---
 
 ## Summary
 
 
-Currently, the new collection's admin, in the import feature for an SKU inclusion, using the SKU row, often returns an unspecific error response when attempting to import a file with too many registries.
-
+Currently, uploading items to the new collections module with a list with over 1000 SKUs is impossible, since the process will timeout. It returns an unspecific error response:
 "`Your file was not imported. Please try importing this file again.`"
 
 
@@ -29,9 +28,11 @@ Currently, the new collection's admin, in the import feature for an SKU inclusio
 ## Simulation
 
 
-1) In a store in which the catalog is very large, 50K+ products access the new collections admin /admin/collections
 
-2) In a collection, try importing new registries with over 100 SKUs in a single import.
+1. Go to the new collections module
+2. Select the tab "Import"
+3. Use a sheet that has over 1000 SKUs (i.e. 300 products with 50 SKUs, each)
+4. The import will generate a timeout.
 
 
 ##
@@ -39,11 +40,7 @@ Currently, the new collection's admin, in the import feature for an SKU inclusio
 ## Workaround
 
 
-1) Use the legacy collections for massively importing SKUs.
-
-2) Split the imports into smaller sheets and do the process gradually.
-
-3) Use the UI's massive actions to reach the desired effect.
+Upload gradually using smaller sheets, the legacy CMS collections and/or the insert SKU to subcollection API https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/subcollection/-subCollectionId-/stockkeepingunit
 
 
 

@@ -3,8 +3,8 @@ title: 'Exportar y importar especificaciones de producto y SKU'
 id: tutorials_274
 status: PUBLISHED
 createdAt: 2017-04-27T22:10:43.787Z
-updatedAt: 2023-03-29T15:30:59.932Z
-publishedAt: 2023-03-29T15:30:59.932Z
+updatedAt: 2024-02-21T20:34:56.013Z
+publishedAt: 2024-02-21T20:34:56.013Z
 firstPublishedAt: 2017-04-27T23:03:12.428Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -32,14 +32,18 @@ Vea a continuación cómo exportar la plantilla con las especificaciones del pro
 1. En el Admin VTEX, accede a **Catálogo**, o escribe **Catálogo** en la barra de búsqueda en la parte superior de la página.
 2. Haz clic en **Importación y exportación**.
 3. Haz clic en la pestaña __Especificaciones de producto__ o **Especificaciones de SKU**, en función de sus necesidades.
-    ![skuexport1.es](https://images.ctfassets.net/alneenqid6w5/6dlUefWP7lw3FzqWZjcLet/1d604f16ca07a32db13bdb1a3d52836a/skuexport1.es.png)
+    ![skuexport1.es](//images.ctfassets.net/alneenqid6w5/6dlUefWP7lw3FzqWZjcLet/1d604f16ca07a32db13bdb1a3d52836a/skuexport1.es.png)
 4. Haz clic con el botón derecho en la categoría deseada.
     No puede exportar especificaciones de todas las categorías a la vez. Debe elegir sólo una categoría cuyas especificaciones desee exportar. 
 5. Haz clic en `Exportar`.
     Aparecerá un rectángulo verde en pantalla.
 6. Haz clic en `Haz clic aquí para descargar el archivo` para exportar la plantilla.
 
-![skuexport2.es](https://images.ctfassets.net/alneenqid6w5/6aQThG8rLVv6c48ZAO1in4/eeb2118c25334f4b18d485b2c2127cd5/skuexport2.es.png)
+![skuexport2.es](//images.ctfassets.net/alneenqid6w5/6aQThG8rLVv6c48ZAO1in4/eeb2118c25334f4b18d485b2c2127cd5/skuexport2.es.png)
+
+<div class = "alert alert-info">
+  <p>La hoja de plantilla exportada estará disponible en tu email durante una semana. Si supera este periodo, vuelva a seguir la exportación paso a paso para generar una nueva hoja de plantilla.</p>
+</div>
 
 ## Importar especificaciones de producto o SKU
 
@@ -59,7 +63,7 @@ Siga los pasos a continuación para importar la plantilla:
 2. Haz clic en **Seleccionar** para seleccionar el archivo con la plantilla completa en la computadora.
 3.  Haz clic en `Importar`.
 
-![skuexport3.es](https://images.ctfassets.net/alneenqid6w5/5IJmGafmCsB9tawXSYAyz1/473921b906075a53364a0018aaf08176/skuexport3.es.png)
+![skuexport3.es](//images.ctfassets.net/alneenqid6w5/5IJmGafmCsB9tawXSYAyz1/473921b906075a53364a0018aaf08176/skuexport3.es.png)
 
 ## Más información
 - [Especificaciones de producto e de SKU](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP)

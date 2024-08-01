@@ -172,7 +172,7 @@ Al concluir las etapas para rellenar la plantilla de mapeo, usted debe seguir lo
 1. Acceda al Admin.
 2. En el módulo Marketplace, haga clic en Integraciones.
 3. Seleccione la opción Configuración.
-4. En la integración Mercado Libre, haga clic en el engranaje<img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />
+4. En la integración Mercado Libre, haga clic en el engranaje<img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />
 5. Elija la opción **Carga de mapeo**.
 6. Seleccione la opción **Elegir un archivo**.
 7. Ahora, seleccione la plantilla de mapeo de categorías, atributos y variaciones de Mercado Libre.

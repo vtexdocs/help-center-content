@@ -3,8 +3,8 @@ title: 'Reglas de merchandising'
 id: 5tBSYXb9EIdePa0MWTnFd0
 status: PUBLISHED
 createdAt: 2020-03-05T18:53:37.305Z
-updatedAt: 2023-04-03T22:01:51.692Z
-publishedAt: 2023-04-03T22:01:51.692Z
+updatedAt: 2024-01-29T17:07:18.414Z
+publishedAt: 2024-01-29T17:07:18.414Z
 firstPublishedAt: 2020-03-05T19:58:55.021Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -21,9 +21,7 @@ Las reglas de merchandising son un criterio prioritario. Así, si se configura u
 Puedes determinar reglas de merchandising para:
 
 *	**Marcas:** puedes configurar qué productos de una marca tienen mayor relevancia que los demás. Cuando el cliente busque «smartphone», por ejemplo, los productos de la marca aparecerán en el inicio de la lista y los productos de otras marcas aparecerán debajo de ellos.
-* **Producto:** otra posibilidad es promocionar un producto específico. Por ejemplo, puedes definir que cuando el cliente busque «camiseta para correr», el producto «Camiseta Running» sea el primer resultado presentado en la lista.
-
-## Lista de Reglas de Merchandising
+* **Productos:** otra posibilidad es promocionar un producto específico. Por ejemplo, puedes definir que cuando el cliente busque «camiseta para correr», el producto «Camiseta Running» sea el primer resultado presentado en la lista.
 
 En el Admin VTEX, la página **Storefront** > **Intelligent Search** > **Reglas de merchandising** permite realizar las siguientes acciones:
 
@@ -32,25 +30,36 @@ En el Admin VTEX, la página **Storefront** > **Intelligent Search** > **Reglas 
 * [Editar](#editar-reglas-de-merchandising)
 * [Eliminar](#eliminar-reglas-de-merchandising)
 
-![configurar las reglas de merchandising-es](https://images.ctfassets.net/alneenqid6w5/4RIkVevSJArI3LhEHjELHu/1370d2d2a0a79dd02f01514452fc938d/image.png)
+![reglas-merch-es](//images.ctfassets.net/alneenqid6w5/3EB5tru4DiZzTMQ7oe8xHV/4624acb4cd7dbe4e2a4d858e570f1f92/reglas-merch-es.PNG)
 
 La página contiene la siguiente información: 
 
-| Campos de la columna | Descripción         |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Nombre               | Nombre que identifica la regla de merchandising definida en la etapa [Crear reglas de merchandising](#crear-reglas-de-merchandising). |
-| Fecha de inicio      | Fecha en la que la regla de merchandising comenzará a estar disponible.                                                                                                                                            |
-| Fecha de fin         | Fecha en la que la regla de merchandising dejará de estar disponible.                                                                                                                                              |
-| Activa               | Opción para activar o desactivar una regla de merchandising.                                                                                                                                                       |
-| Acciones             | Opción para eliminar o editar una regla de merchandising.                                                                                                                                                          |
+| Campos de la columna | Descripción |
+| - | - |
+| __Nombre__ | Nombre que identifica la regla de merchandising definida en la etapa [Crear reglas de merchandising](#crear-reglas-de-merchandising). |
+| __Fecha de inicio__ | Fecha en la que la regla de merchandising comenzará a estar disponible. |
+| __Fecha de fin__ | Fecha en la que la regla de merchandising dejará de estar disponible. |
+| __Tipo__ | Indica el [tipo de edición](#tipos-de-edicion) utilizado en la regla de merchandising. |
+| __Activa__ | Opción para activar o desactivar una regla de merchandising. |
+| __Acciones__ <i class="fas fa-ellipsis-v"></i> | Menú con acciones para `Editar` o `Eliminar` una regla de merchandising. |
 
 ### Crear reglas de merchandising
 
-Para configurar una regla de merchandising, haga clic en `Agregar`. Más información sobre toda la información necesaria para crear un Banner en las siguientes secciones.
+Para configurar una regla de merchandising, haga clic en `+ Agregar`. Más información sobre toda la información necesaria para crear una regla de merchandising en las siguientes secciones.
 
 ### Tipos de edición
 
-Al crear o editar Reglas de merchandising, puedes elegir entre dos tipos de edición disponibles: el [Editor manual](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8) y el [Editor visual (Beta)](https://help.vtex.com/es/tutorial/crear-regla-de-merchandising-editor-visual-beta--6xteumx9MsDt0uEppbChu3). A continuación, te mostramos cuáles son las funcionalidades disponibles en cada una de estas opciones para que puedas decidir cuál es la más adecuada para usar en tu caso en particular:
+Existen dos tipos de editor para Reglas de merchandising: el [Editor manual](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8) y el [Editor visual](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2ejly01m1w28RsZlCKowEr).
+
+A continuación, te mostramos cuáles son las funcionalidades en cada una de estas opciones:
+
+| Funcionalidad | Descripción | Editor manual | Editor visual |
+|---|---|---|---|---|
+| Reglas de activación  | Define las condiciones para la activación de la regla de merchandising. | Sí | Sí |
+| Reglas de personalización | Controla los resultados de la búsqueda a partir de condiciones específicas. | Sí | No |
+| Vista previa | Ofrece una vista previa de cómo los clientes verán los resultados de la búsqueda mientras navegan por la tienda. | No | Sí |
+| Reordenar los resultados de búsqueda | Modifica el orden de los artículos incluidos en la lista de los resultados de la búsqueda. | No | Sí |
+| Fijar productos en las primeras posiciones | Determina que un determinado elemento de un resultado de búsqueda se muestre siempre en la primera posición entre los resultados de búsqueda. | No | Sí |
 
 ## Buscar reglas de merchandising
 
@@ -60,10 +69,10 @@ Para buscar una regla de merchandising, escribe el nombre de la regla de comerci
 
 Puedes editar la información de una regla de merchandising siguiendo los pasos a continuación.
 
-1. Haz clic en el botón del lápiz <i class="fa-solid fa-pencil"></i>.
+1. Haz clic en el menú <i class="fas fa-ellipsis-v"></i> de la línea de la regla de merchandising y, a continuación, en el botón <i class="fas fa-pencil-alt"></i> `Editar`.
 2. Edita la información deseada en la regla de merchandising.
 3. Haz clic en `Guardar`.
 
 ## Eliminar reglas de merchandising
 
-Puedes eliminar una regla haciendo clic en el botón de la papelera <i class="fa-solid fa-trash-can"></i>.
+Puedes eliminar una regla haciendo clic en el menú <i class="fas fa-ellipsis-v"></i> de la línea de la regla de merchandising y, a continuación, en el botón <i class="fas fa-trash"></i> `Eliminar`.

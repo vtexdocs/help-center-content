@@ -3,8 +3,8 @@ title: 'Envío de productos a Facebook'
 id: 41qzoa7TWIYTyIhABHdgzI
 status: PUBLISHED
 createdAt: 2021-02-08T19:45:07.202Z
-updatedAt: 2021-07-09T22:04:10.786Z
-publishedAt: 2021-07-09T22:04:10.786Z
+updatedAt: 2024-01-22T15:03:37.861Z
+publishedAt: 2024-01-22T15:03:37.861Z
 firstPublishedAt: 2021-02-08T20:10:14.152Z
 contentType: trackArticle
 productTeam: Channels
@@ -89,10 +89,10 @@ Vea un ejemplo de plantilla llenada:
 El tercer y último paso para finalizar el mapeo es cargar la plantilla llenada.  Esta acción se realiza en el Admin, a través de los siguientes pasos:
 
 1. Acceda al Admin.
-2. En el módulo _MARKETPLACE_, haga clic en `Integracione`.
-3. Seleccione la opción `Configuración`.
-4. En la tarjeta de Facebook, haga clic en <i class="fas fa-cog"></i>
-5. Elija la opción `Carga de mapeo`.
+2. En el módulo Marketplace, haga clic en Marketplace e integraciones.
+4. Busque Facebook en la barra de búsqueda.
+5. Haga clic en `Editar`
+6. Elija la opción `Mapeo de categorías`.
 6. Haga clic en `Elegir un archivo`.
 7. Seleccione la plantilla de mapeo llenada.
 8. Haga clic en `Subir archivo`.

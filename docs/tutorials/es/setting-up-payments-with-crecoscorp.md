@@ -3,8 +3,8 @@ title: 'Configurar pago con CrecosCorp'
 id: 2NNAhG7ugxXhyk7U45hIeZ
 status: PUBLISHED
 createdAt: 2022-08-15T18:54:07.978Z
-updatedAt: 2022-08-15T18:59:46.828Z
-publishedAt: 2022-08-15T18:59:46.828Z
+updatedAt: 2024-01-25T17:37:02.016Z
+publishedAt: 2024-01-25T17:37:02.016Z
 firstPublishedAt: 2022-08-15T18:59:46.828Z
 contentType: tutorial
 productTeam: Financial
@@ -15,9 +15,9 @@ legacySlug: configurar-pago-con-crecoscorp
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX es posible la integración con el proveedor de pagos CrecosCorp. Con este conector, tu tienda puede realizar ventas a través de tarjetas private labels.
+En VTEX es posible la integración con el proveedor de pagos CrecosCorp. Con este proveedor, tu tienda puede realizar ventas a través de tarjetas private labels.
 
-Para configurar tu afiliación CrecosCorp, acceda a [Registrar afiliaciones de gateway](https://help.vtex.com/es/tutorial/afiliacoes-de-gateway--tutorials_444#).
+Para configurar CrecosCorp, acceda a [Registrar afiliaciones de gateway](https://help.vtex.com/es/tutorial/afiliacoes-de-gateway--tutorials_444#).
 
 Para configurar el pago con tarjetas private labels, acceda a [Configurar pagos con Private Label](https://help.vtex.com/es/tutorial/configurar-pagamentos-com-cartoes-de-loja-bandeira-propria--428FgVdSGQUeAOoogkaIw4#).
 

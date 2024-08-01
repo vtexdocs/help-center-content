@@ -3,7 +3,7 @@ title: 'Ponto de retirada não fica visível durante associação com política 
 id: 84BhCZGoAxxuu1eljw0Uh
 status: DRAFT
 createdAt: 2021-12-28T14:52:46.105Z
-updatedAt: 2022-01-05T21:09:34.658Z
+updatedAt: 2024-02-16T20:27:08.666Z
 publishedAt: 
 firstPublishedAt: 2021-12-28T22:18:57.306Z
 contentType: knownIssue
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: 
 slug: pickup-point-not-visible-for-selection-in-shipping-policy-ui
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 449813
 ---
 

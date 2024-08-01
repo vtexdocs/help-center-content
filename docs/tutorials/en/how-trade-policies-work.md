@@ -3,8 +3,8 @@ title: 'How trade policies work'
 id: 6Xef8PZiFm40kg2STrMkMV
 status: PUBLISHED
 createdAt: 2021-05-25T20:05:42.155Z
-updatedAt: 2022-12-08T14:39:11.093Z
-publishedAt: 2022-12-08T14:39:11.093Z
+updatedAt: 2024-06-20T22:52:38.544Z
+publishedAt: 2024-06-20T22:52:38.544Z
 firstPublishedAt: 2021-05-25T20:17:12.408Z
 contentType: tutorial
 productTeam: Others
@@ -33,7 +33,10 @@ See how different VTEX configurations relate to trade policies:
 
 To [request additional trade policies](https://help.vtex.com/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), contact our Growth Operations team through Support by selecting **Commercial** and `Create a trade policy`.
 
-Additional trade policies to integrate with [native connectors](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-native-connector-vtex), [certified connectors (partners)](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-certified-connector-partner), or other VTEX stores are free of charge.
+Additional trade policies to integrate with [certified connectors](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-certified-connector-partner), or other VTEX stores are free of charge.
+
+<div class=alert alert-warning>
+If the same trade policy is applied to a certified connector and a partner connector, there is no fee exemption.</div>
 
 ## Catalog
 You can restrict which products are available for certain trade policies when [adding new products](https://help.vtex.com/en/tutorial/cadastrando-produtos--tutorials_2567) to the catalog. In doing so, the catalog will be segmented according to different business strategies. These strategies can have products segmented by region, marketplace, or specific types of customers, such as employees. Learn more about how to configure your [catalog](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ).

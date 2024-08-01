@@ -1,10 +1,10 @@
 ---
 title: 'Mercado Libre '
 id: 51oWBHvVxSs8eAwLQhSbSd
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-09-23T20:16:36.804Z
-updatedAt: 2023-03-28T21:46:05.528Z
-publishedAt: 2021-09-04T11:14:45.743Z
+updatedAt: 2024-03-11T22:19:17.941Z
+publishedAt: 2024-03-11T22:19:17.941Z
 firstPublishedAt: 2020-09-23T20:31:42.798Z
 contentType: trackArticle
 productTeam: Channels
@@ -18,7 +18,7 @@ trackSlugES: configurar-integracion-con-mercado-libre
 
 Su operación está presente en países: Argentina, Brasil, Chile, Colombia, México, Uruguay y Venezuela.
 
-![image3](https://images.ctfassets.net/alneenqid6w5/2oy6tDlTCV5xKtYinxqr3G/c459fc424669363e045e5a6bca90c82d/image3.png)
+![image3](//images.ctfassets.net/alneenqid6w5/2oy6tDlTCV5xKtYinxqr3G/c459fc424669363e045e5a6bca90c82d/image3.png)
 
 El marketplace de Mercado Libre ofrece un entorno de comercio en línea totalmente automatizado, organizado por temas y fácil de usar. Este servicio ofrece a los compradores una amplia variedad de artículos nuevos y usados, permitiendo a empresas y particulares publicitar artículos y realizar sus ventas y compras en el mercado más grande de América Latina.
 

@@ -3,8 +3,8 @@ title: 'Setting up payments with BoletoFlex'
 id: 3ikLbJGXMI6bkAm6YiglOx
 status: PUBLISHED
 createdAt: 2022-01-10T17:36:39.512Z
-updatedAt: 2023-03-22T19:10:38.069Z
-publishedAt: 2023-03-22T19:10:38.069Z
+updatedAt: 2024-01-23T15:50:34.329Z
+publishedAt: 2024-01-23T15:50:34.329Z
 firstPublishedAt: 2022-01-10T20:19:23.317Z
 contentType: tutorial
 productTeam: Financial
@@ -18,9 +18,10 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 BoletoFlex is a payment method where users can pay their purchases in installments using the boleto, with pre-determined interest rates and without the need to use a credit card.
 
 ## Setting up BoletoFlex gateway affiliation 
-1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
-2. In the __Gateway affiliations__ tab, click on the __+__ button.
-3. Click on the __BoletoFlex__ connector.
+
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __BoletoFlex__ in the search bar and click on the name of the provider.
 4. Fill in the __Application Key__ and __Application Token__ fields with data provided by BoletoFlex.
 5. Click on __Save__.
 

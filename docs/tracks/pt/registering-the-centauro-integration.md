@@ -3,8 +3,8 @@ title: 'Cadastro da integração da Centauro'
 id: 4EqL0hADU1AWvP0gTr4nyq
 status: PUBLISHED
 createdAt: 2020-10-20T18:55:02.489Z
-updatedAt: 2022-01-25T15:55:01.810Z
-publishedAt: 2022-01-25T15:55:01.810Z
+updatedAt: 2024-07-02T19:28:22.448Z
+publishedAt: 2024-07-02T19:28:22.448Z
 firstPublishedAt: 2020-10-20T19:51:24.705Z
 contentType: trackArticle
 productTeam: Channels
@@ -32,3 +32,30 @@ Nessa etapa, você realizará o cadastro da sua loja na integração da Centauro
 | Token da Centauro * | Chave de acesso para comunicação entre VTEX e Centauro. Este token deve ser solicitado diretamente para Centauro e preenchido neste campo.|
 | Estoque mínimo | Valor mínimo de estoque de segurança. Se a quantidade de itens em estoque de um produto estiver abaixo do valor escolhido, seu anúncio é pausado para evitar que sejam feitas vendas sem estoque durante o tempo de atualização da Centauro pela VTEX. Escolha com cuidado: essa configuração é aplicada a todos produtos. Verifique se algum produto deixaria de ser anunciado devido ao seu estoque inicial.|
 | Account da Centauro | Nome da loja no ambiente da Centauro. |
+
+**Mapeamento de Campos Customizados (Nome e descrição):**  Para utilizar esse mapeamento é necessário criar um campo customizado. Para saber como criar campos customizados, acesse a documentação [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/tutorial/criando-um-campo-de-produto--tutorials_106).  
+
+<div class = "alert alert-info">
+  O mapeamento de campos customizáveis está disponível apenas para <b>nome do produto</b> e <b>descrição do produto</b>.
+  <p><b>Exemplo de nome para o novo campo:</b> <code>CTR_ProductName</code> para nome do produto e <code>CTR_ProductDescription</code> para descrição do produto.</p>
+</div>  
+
+Para o mapeamento funcionar, é necessário o seller seguir os seguintes passos:  
+
+1. Criar um campo do tipo `Texto grande`.  
+2. Desativar a opção  `Exibe especificação`.  
+3. Preencher os campos criados em cada produto cadastrado.  
+
+O preenchimento desse campo deve ser realizado da seguinte maneira:
+
+1. Preencha o campo DE com o nome do campo de origem.   
+Obrigatoriamente `ProductName` para título do produto ou Obrigatoriamente `ProductDescription` para descrição do produto.  
+2. Preencha o campo PARA com o nome do novo campo.   
+`CTR_ProductName` para nome do produto e `CTR_ProductDescription` para descrição do produto.    
+3. Clique no botão e uma regra de mapeamento será adicionada a sua integração.   
+
+<div class="alert alert-info">
+Cada regra cadastrada mapeia apenas um campo.
+<p>Caso o campo mapeado não tenha um valor preenchido, será enviado o valor padrão de <code>Título</code> ou <code>Descrição</code> cadastrados no catálogo.
+</div>
+

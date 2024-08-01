@@ -3,8 +3,8 @@ title: 'How to configure Subscriptions in your store'
 id: 1FA9dfE7vJqxBna9Nft5Sj
 status: PUBLISHED
 createdAt: 2019-01-31T16:00:03.228Z
-updatedAt: 2023-04-11T00:33:27.310Z
-publishedAt: 2023-04-11T00:33:27.310Z
+updatedAt: 2024-07-09T14:27:30.778Z
+publishedAt: 2024-07-09T14:27:30.778Z
 firstPublishedAt: 2019-01-31T16:01:57.927Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -67,7 +67,7 @@ Currently, the following payment methods are enabled for subscription orders:
   <p>To make the <strong>Credit card</strong> payment option available, contact your store's acquirer and make sure they accept recurring purchase transactions coming from tokenized cards (no CVV). The <strong>Subscriptions</strong> system will use the same card data from the first purchase to place subsequent subscription orders, ensuring the security of the entire process.</p>
 </div>
 
-To enable this type of transaction in the connector, the store manager must ask the acquirer for permission to process recurring payments. Check out our article on [how to set up a payment gateway in your store](https://help.vtex.com/en/tutorial/pci-gateway-visao-geral/).
+To enable this type of transaction in the connector, the store manager must ask the acquirer for permission to process recurring payments. Check out our article [Registering gateway affiliations](https://help.vtex.com/en/tutorial/registering-gateway-affiliations--tutorials_444).
 
 ## 3. Create a subscription plan
 
@@ -94,12 +94,12 @@ See the table below for features related to the Subscriptions module.
 
 To configure Subscription roles, please follow the instructions below.
 
-1. Under **Account settings**, click on **Account management** and then on **Roles**.
-2. Click on the `New role` button. 
+1. Under **Account Settings**, click **User Roles**.
+2. Click `New Role`.
 3. Fill in the **Role name**.
-4. Under **Products and resources** select **OMS**.
-5. Check the **Subscription resources** you would like to add.
-6. Click on `Save`.
+4. Under **Products and Resources** select `Subscriptions`.
+5. Check the resources you would like to add.
+6. Click `Save`.
 
 Once Subscriptions are configured in your store, please read our article on how to [manage subscriptions](https://help.vtex.com/en/tutorial/como-gerenciar-assinaturas--6Jk50FPbv6iuz1OsFypv8x).
 

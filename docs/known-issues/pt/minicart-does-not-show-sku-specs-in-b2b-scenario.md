@@ -3,8 +3,8 @@ title: 'O Minicart não mostra as especificações do SKU no cenário B2B'
 id: 4eOpxrLEkyHyobCDuWzsMK
 status: PUBLISHED
 createdAt: 2022-10-27T19:11:58.877Z
-updatedAt: 2022-11-25T22:13:10.845Z
-publishedAt: 2022-11-25T22:13:10.845Z
+updatedAt: 2024-02-16T20:28:02.341Z
+publishedAt: 2024-02-16T20:28:02.341Z
 firstPublishedAt: 2022-10-27T19:11:59.318Z
 contentType: knownIssue
 productTeam: Store Framework
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: o-minicart-nao-mostra-as-especificacoes-do-sku-no-cenario-b2b
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 687308
 ---
 

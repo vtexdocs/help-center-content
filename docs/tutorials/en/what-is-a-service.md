@@ -3,8 +3,8 @@ title: 'What is a Service?'
 id: 46Ha8CEEQoC6Y40i6akG0y
 status: PUBLISHED
 createdAt: 2018-02-16T13:35:47.291Z
-updatedAt: 2020-09-10T14:25:34.223Z
-publishedAt: 2020-09-10T14:25:34.223Z
+updatedAt: 2023-11-16T17:24:14.877Z
+publishedAt: 2023-11-16T17:24:14.877Z
 firstPublishedAt: 2018-02-16T17:24:14.979Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -25,5 +25,5 @@ If your purchased product is a Brazilian National Team Shirt, the name of your s
 
 ### Related articles
 - [What is an attachment?](/en/tutorial/what-is-an-attachment)
-- [Registering an attachment](/en/tutorial/registering-an-attachment)
+- [Registering an attachment](/en/tutorial/adding-an-attachment--7zHMUpuoQE4cAskqEUWScU)
 - [How to create a service for a SKU](/en/tutorial/creating-a-service-for-a-sku)

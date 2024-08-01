@@ -22,7 +22,7 @@ En esta track, vamos a enseñar paso a paso cómo desarrollar una aplicación ut
 
 En la siguiente imagen se muestra la estructura jerárquica del VTEX IO:
 
-![VTEX IO Hierarchy](https://images.ctfassets.net/alneenqid6w5/41yNT81ioog0yMeq0wMKM4/86005dd6b0cee4548e16133acfb8b6fe/VTEX_IO_Hierarchy.jpg)
+![VTEX IO Hierarchy](//images.ctfassets.net/alneenqid6w5/41yNT81ioog0yMeq0wMKM4/86005dd6b0cee4548e16133acfb8b6fe/VTEX_IO_Hierarchy.jpg)
 
 - __Account__: para desarrollar una aplicación, es necesario tener una cuenta en VTEX.
 - __Workspaces__: son los ambientes donde las aplicaciones serán desarrolladas. Estos ambientes están vinculados a la cuenta. Es posible que haya varios workspaces para una sola cuenta.

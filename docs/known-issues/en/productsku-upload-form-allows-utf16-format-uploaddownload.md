@@ -3,8 +3,8 @@ title: 'Product/SKU upload form allows UTF-16 format upload/download'
 id: 3NSxmGXvgFKHd2C4v2EwWV
 status: PUBLISHED
 createdAt: 2022-06-08T20:04:18.508Z
-updatedAt: 2022-11-25T22:12:28.497Z
-publishedAt: 2022-11-25T22:12:28.497Z
+updatedAt: 2024-02-16T20:26:55.864Z
+publishedAt: 2024-02-16T20:26:55.864Z
 firstPublishedAt: 2022-06-08T20:04:19.062Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: productsku-upload-form-allows-utf16-format-uploaddownload
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 493402
 ---
 

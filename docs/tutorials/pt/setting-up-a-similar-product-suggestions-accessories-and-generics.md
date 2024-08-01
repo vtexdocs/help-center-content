@@ -3,8 +3,8 @@ title: 'Configurar produto similar, sugestões, acessórios e genéricos'
 id: tutorials_280
 status: PUBLISHED
 createdAt: 2017-04-27T22:10:17.727Z
-updatedAt: 2023-03-29T14:45:42.789Z
-publishedAt: 2023-03-29T14:45:42.789Z
+updatedAt: 2024-07-25T21:19:12.871Z
+publishedAt: 2024-07-25T21:19:12.871Z
 firstPublishedAt: 2017-04-27T23:03:13.377Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -35,7 +35,7 @@ Para te auxiliar na utilização da técnicas acima podemos utilizar os campos n
 4. Preencha os campos corretamente conforme indicação abaixo.
 5. Clique no botão `Salvar`.
 
-![produto-similar-sugestão-acessório-exemplo pt](https://images.ctfassets.net/alneenqid6w5/2Eg0eAnNjCkWu6acGQYq4Q/02418b5ba84fbbca1c8269ebcbc51d96/produto-simular-sugest__o-acess__rio-exemplo_pt.png)
+![produto-similar-sugestão-acessório-exemplo pt](//images.ctfassets.net/alneenqid6w5/2Eg0eAnNjCkWu6acGQYq4Q/02418b5ba84fbbca1c8269ebcbc51d96/produto-simular-sugest__o-acess__rio-exemplo_pt.png)
 
 **Acessórios:** nesse campo cadastramos os produtos que devem ser vendidos como complemento de um outro produto. Nesta opção os produto cadastrados como acessórios são mostrados como opção de compra com o checkbox de seleção habilitado (função feita no layout).
 
@@ -44,7 +44,5 @@ Para te auxiliar na utilização da técnicas acima podemos utilizar os campos n
 **Similar (Produtos Suplentes):** Neste campo selecionamos os produtos similares que queremos mostrar ao cliente na hora da compra, contudo não existe a opção de checkbox como na opção de Acessórios. 
 
 **Mostrar junto:** Exibe os SKUs dos produtos sugeridos para compra em conjunto. 
-
-Outras opções de Cross Selling podem ser habilitadas na construção do layout da loja através das opções de templates de prateleiras como “Quem comprou comprou também”, "Quem viu comprou também" e “Quem viu viu também". Para mais informações, acesse o artigo sobre [Controles do template de prateleira](https://help.vtex.com/pt/tutorial/lista-de-controles-para-templates--tutorials_563).
 
 A opção de Up Selling pode ser trabalhada com o uso da promoção [Compre Junto](http://help.vtex.com/pt/tutorial/compre-junto).

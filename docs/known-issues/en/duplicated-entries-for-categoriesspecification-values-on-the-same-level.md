@@ -3,8 +3,8 @@ title: 'Duplicated entries for categories/specification values on the same level
 id: IoWI8yx1cabm4bWhSU4Ek
 status: PUBLISHED
 createdAt: 2022-04-18T18:53:37.507Z
-updatedAt: 2022-11-25T21:58:08.677Z
-publishedAt: 2022-11-25T21:58:08.677Z
+updatedAt: 2024-02-16T20:26:00.077Z
+publishedAt: 2024-02-16T20:26:00.077Z
 firstPublishedAt: 2022-04-18T18:53:38.097Z
 contentType: knownIssue
 productTeam: Intelligent Search
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: duplicated-entries-for-categoriesspecification-values-on-the-same-level
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 562588
 ---
 

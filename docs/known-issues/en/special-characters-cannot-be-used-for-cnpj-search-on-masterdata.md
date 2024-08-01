@@ -3,8 +3,8 @@ title: 'Special Characters cannot be used for CNPJ search on MasterData'
 id: 4sgob00QXkGYPC3TjSpQeN
 status: PUBLISHED
 createdAt: 2022-06-21T15:35:26.675Z
-updatedAt: 2022-11-25T22:13:02.870Z
-publishedAt: 2022-11-25T22:13:02.870Z
+updatedAt: 2023-08-07T13:52:30.392Z
+publishedAt: 2023-08-07T13:52:30.392Z
 firstPublishedAt: 2022-06-21T15:35:27.341Z
 contentType: knownIssue
 productTeam: Storage

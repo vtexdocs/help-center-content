@@ -40,7 +40,7 @@ Tudo o que você precisa fazer no ambiente Protheus é alterar os valores  de tr
 3. Clique em **Parâmetros**. A seguinte tela será exibida:
 ![protheusParametros-adaptador](//images.contentful.com/alneenqid6w5/3aqBRHAGIDIeEuSJUTwPjm/c442a2efa4ea45d6040db8a9e6eeaa62/protheusParametros-adaptador.png)
 4. Na barra de ferramentas superior, clique no botão `FILTRO`. Abrirá a tela **Expressão de Filtro**:
-![protheusParametros2-adaptador](https://images.ctfassets.net/alneenqid6w5/5RJ5621Oog3oUS5kzl1Siq/91d3daf359cb35448132f1c68191869d/protheusParametros2-adaptador.png)
+![protheusParametros2-adaptador](//images.ctfassets.net/alneenqid6w5/5RJ5621Oog3oUS5kzl1Siq/91d3daf359cb35448132f1c68191869d/protheusParametros2-adaptador.png)
 5. Na caixa **campos**, informe `X6_VAR`.
 6. Na caixa **Operadores**, escolha **Contém a expressão**.
 7. Na caixa **expressão** informe `MV_LJEC`.

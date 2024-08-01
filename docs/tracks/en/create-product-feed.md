@@ -28,11 +28,11 @@ To make product updates available to Lengow, you must [configure an XML feed](ht
 
 - **File Name:** `lengow.xml`
 - **Collection:** `Lengow` (or another name you chose)
-- **Show Unavailable SKUs:** <img src="https:https://images.ctfassets.net/alneenqid6w5/3tqaZgkyGMFRCdDIpQoU4v/ae419a4f9ff8c73c32964bcc8d3391f9/image3.png"/> (enabled)
+- **Show Unavailable SKUs:** <img src="https://images.ctfassets.net/alneenqid6w5/3tqaZgkyGMFRCdDIpQoU4v/ae419a4f9ff8c73c32964bcc8d3391f9/image3.png"/> (enabled)
 
 The feed itself should then be filled in as seen in the image below:
 
-![image2](https://images.ctfassets.net/alneenqid6w5/2TuXQFVWgd7liQ7jSxYHDu/c46858cd6a536d3f3290bafe2e105724/image2.png)
+![image2](//images.ctfassets.net/alneenqid6w5/2TuXQFVWgd7liQ7jSxYHDu/c46858cd6a536d3f3290bafe2e105724/image2.png)
 
 ## Verify XML feed consistency
 
@@ -42,7 +42,7 @@ Your product feed should now be available at the following URL:
 
 If you visit this URL in your browser, you should see an XML document tree like this:
 
-![image8](https://images.ctfassets.net/alneenqid6w5/7fBOjuxHDkRYtIoLPSnJcp/038cfb985ae364a3af5068ed5f69e489/image8.png)
+![image8](//images.ctfassets.net/alneenqid6w5/7fBOjuxHDkRYtIoLPSnJcp/038cfb985ae364a3af5068ed5f69e489/image8.png)
 
 The numbers seen in the XML feed correspond to the Product ID for all products in the collection you created for the Lengow connector.
 

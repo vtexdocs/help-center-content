@@ -1,10 +1,10 @@
 ---
 title: 'Requests with pagination will change in the search API'
 id: 3UZR4qoAisiqE6kmuuYEAc
-status: CHANGED
+status: PUBLISHED
 createdAt: 2018-01-24T14:11:26.225Z
-updatedAt: 2020-11-27T19:40:17.179Z
-publishedAt: 2020-05-11T18:53:36.826Z
+updatedAt: 2023-12-15T13:03:53.872Z
+publishedAt: 2023-12-15T13:03:53.872Z
 contentType: updates
 productTeam: Identity
 author: authors_24
@@ -32,4 +32,4 @@ This change has already been implemented in the API, but until the due date, bot
 - There's also a limit of 2500 items for any given search. Because of that, it's not possible to have a value over 2500 at the <b>_to</b> parameter.<br>
 </div>
 
-To know more about how pagination requests work in the search API, take a look at this [document](https://developers.vtex.com/reference/search-api-overview).
+To know more about how pagination requests work in the search API, take a look at this [document](https://developers.vtex.com/docs/api-reference/search-api).

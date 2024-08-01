@@ -1,10 +1,10 @@
 ---
 title: 'Mode-Off: FAQ'
 id: 6hbd7PuvoxuRbPCvTqjxeB
-status: PUBLISHED
+status: CHANGED
 createdAt: 2021-01-21T17:29:10.793Z
-updatedAt: 2021-04-06T20:20:55.582Z
-publishedAt: 2021-04-06T20:20:55.581Z
+updatedAt: 2024-04-11T19:26:47.407Z
+publishedAt: 2024-04-11T19:22:34.569Z
 firstPublishedAt: 2021-01-21T17:54:12.941Z
 contentType: tutorial
 productTeam: Financial
@@ -51,9 +51,10 @@ Transactions shall be resumed when the partner stops experiencing a rate of five
 
 ## For how long VTEX runs processing reattempts for transactions on standby?
 
-Each partner defines the retry time during their integration with the Payment Provider Protocol. 
+The time between transaction processing reattempts (_retries_) can be defined by the partner when sending payment information. When configuring the payment cancellation time (`delayToCancel` field) for a period of less than 1 day, retry attempts will be made every 1 hour. If the time to cancel the payment is set to be equal to or greater than 1 day, retry attempts will be made every 4 hours. For more information, visit [Create Payment endpoint](https://developers.vtex.com/docs/api-reference/payment-provider-protocol?endpoint=post-/payments).
 
-In case you haven’t previously defined it, the default time is __four hours__.
+<div class="alert alert-info">
+ If payment is made by <a href="https://help.vtex.com/pt/tutorial/configurar-pix-como-meio-de-pagamento--5sbNavMSJY4jyLmLKRHiOf">PIX (Brazilian instant payment method)</a> or the payment cancellation time is set between 5 minutes and 1 hour, retry calls will occur every 5 minutes.</div>
 
 ## How to identify the mode-off? What to do if it is active?
 

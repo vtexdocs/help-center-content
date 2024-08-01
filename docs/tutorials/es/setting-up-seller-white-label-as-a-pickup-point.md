@@ -1,10 +1,10 @@
 ---
 title: 'Configurar Seller White Label como punto de recogida (Pickup Point)'
 id: 6fSUE2O0taaoKieAaiuc4e
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-09-04T14:22:05.290Z
-updatedAt: 2023-03-29T18:58:34.411Z
-publishedAt: 2023-03-29T18:58:34.411Z
+updatedAt: 2023-07-26T21:33:59.946Z
+publishedAt: 
 firstPublishedAt: 2018-09-05T20:38:04.270Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -28,6 +28,7 @@ Las configuraciones se deben realizar en la cuenta del seller White Label. Los �
 </div>
 
 ## Configuración inicial
+
 Para configurar Seller White Label como punto de recogida, es necesario crear en el Admin VTEX:
 
 - [Pickup point](https://help.vtex.com/es/tutorial/creating-pickup-points--2R5ClQiwe4KoSQgsuiOw4E): con la dirección del seller white label.    
@@ -46,6 +47,10 @@ Para saber en detalle cómo llenar los campos de la plantilla, ingrese a nuestro
 ## Validar configuración
 
 Si la configuración del punto de recogida se ha efectuado correctamente en la Cuenta Franquicia, los SKUs con __stock disponible y precio__ podrán venderse en la Cuenta Principal, donde la Cuenta Franquicia actuará como un __Seller White Label__ y la Cuenta Principal funcionará como un __Marketplace__.
+
+<div class="alert alert-warning">
+Asegúrese de que el seller white label esté activo. Acceda a el Admin VTEX, en <b>Marketplace > Sellers > Gestión de sellers</b>, y en la línea del seller y la columna <i>Status</i>, haga clic en <code>Activo</code>.
+</div>
 
 ### Seller White Label/Cuenta Franquicia
 

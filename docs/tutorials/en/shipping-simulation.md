@@ -3,8 +3,8 @@ title: 'Shipping Simulator'
 id: tutorials_144
 status: PUBLISHED
 createdAt: 2017-04-27T22:16:36.879Z
-updatedAt: 2023-03-29T19:24:17.032Z
-publishedAt: 2023-03-29T19:24:17.032Z
+updatedAt: 2024-06-18T19:48:13.737Z
+publishedAt: 2024-06-18T19:48:13.737Z
 firstPublishedAt: 2017-04-27T23:00:45.450Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -41,7 +41,7 @@ There may be a discrepancy between the final price indicated by the simulator an
  6. Select the SKU `quantity`.  
  7. Fill in the `Price`. This field is optional.
 
- > The simulator does not take into account the price given in the Catalog module. Therefore, the rate indicated by the simulator does not consider any current promotion for those SKUs, and may indicate a rate that is different from the real rate in your store. We suggest that you manually enter the SKU’s exact rate with the applied promotions, so that the simulator returns an accurate calculation.*
+ > The simulator does not take into account the price registered in the Catalog module. Therefore, the calculation does not consider any current promotions for those SKUs, or shipping taxes for the shopping cart price, if there is any. This may result in a different rate from the real one in your store. To avoid this, we suggest that you manually enter the SKU’s exact rate with the applied promotions, which will make the simulator result more accurate.
 
  8. Click on the `+` icon to add more than one product to the simulation.
 If you want, you can check the `Simulate items individually` box.
@@ -60,7 +60,7 @@ The items measurements in the simulation result appear in centimeters and grams;
 
 ## Simulation details
 
-The shipping simulation shows all the shipping possibilities and availability for the items included in the simulation and describes [delivery details for an order](https://help.vtex.com/tutorial/ver-detalhes-de-entrega-de-um-pedido?locale=en) or shipping cost and delivery time taking into account the factors below.
+The shipping simulation shows all the shipping possibilities and availability for the items included in the simulation and describes [delivery details for an order](https://help.vtex.com/en/tutorial/pagina-de-detalles-del-pedido--2Y75n54Cc9VizrlG1N6ZNl) or shipping cost and delivery time taking into account the factors below.
 
 * **Excluded carriers**: when running the simulation, some carriers may be unavailable because they do not meet the [Shipping Policy’s](https://help.vtex.com/en/tutorial/politica-de-envio--tutorials_140) criteria  (see[excluded carriers](#excluded-carrier) for more information).
 * **Simulation sharing**: the simulation can be shared by clicking `share shipping simulation` in the upper right corner of the page. When you click, a share link is copied to your clipboard. This feature makes it easy to get the VTEX team, or your store’s team, to resolve issues on specific orders. Only users who have access to the VTEX environment can view the share link.

@@ -3,8 +3,8 @@ title: ' Método de entrega por grupo no desempenho de vendas não funciona como
 id: 8zHND5pzrt0mrIrb061Zq
 status: PUBLISHED
 createdAt: 2022-11-30T19:02:13.548Z
-updatedAt: 2022-12-01T22:14:52.118Z
-publishedAt: 2022-12-01T22:14:52.118Z
+updatedAt: 2024-02-16T20:25:12.853Z
+publishedAt: 2024-02-16T20:25:12.853Z
 firstPublishedAt: 2022-11-30T19:02:13.994Z
 contentType: knownIssue
 productTeam: Analytics
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Analytics
 slug: metodo-de-entrega-por-grupo-no-desempenho-de-vendas-nao-funciona-como-esperado
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 639294
 ---
 

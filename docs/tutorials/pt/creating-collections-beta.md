@@ -1,10 +1,10 @@
 ---
 title: 'Cadastrar Coleções (Beta)'
 id: yJBHqNMViOAnnnq4fyOye
-status: PUBLISHED
+status: CHANGED
 createdAt: 2020-08-17T20:29:25.500Z
-updatedAt: 2023-03-29T14:50:46.438Z
-publishedAt: 2023-03-29T14:50:46.438Z
+updatedAt: 2024-03-04T20:48:30.215Z
+publishedAt: 2024-02-22T12:15:26.041Z
 firstPublishedAt: 2020-08-27T15:16:59.673Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -88,37 +88,39 @@ A seleção de produtos pelo Admin VTEX pode ser feita pela lista de produtos, p
 
 Há uma variedade de filtros que podem ser selecionados para reduzir a quantidade de produtos mostrados na lista.
 
-![Coleções-PT](https://images.ctfassets.net/alneenqid6w5/1z2kSTLCnZMCyYwaqeopOU/6e80254a130ea6ec1e4ed11663e91219/Screenshot_2020-08-04_Cole____es.png)
+![Coleções-PT](//images.ctfassets.net/alneenqid6w5/1z2kSTLCnZMCyYwaqeopOU/6e80254a130ea6ec1e4ed11663e91219/Screenshot_2020-08-04_Cole____es.png)
 
 Você pode criar novos filtros a partir de outros critérios que não são abordados nos filtros pré-determinados. As imagens abaixo exemplificam essas opções:
 
-![Novo filtro - PT](https://images.ctfassets.net/alneenqid6w5/7s94eqKdl8d3xCPI5wPfOK/d786e39f3886c90831907fc92466f640/Screenshot_14.png)
+![Novo filtro - PT](//images.ctfassets.net/alneenqid6w5/7s94eqKdl8d3xCPI5wPfOK/d786e39f3886c90831907fc92466f640/Screenshot_14.png)
 
-![Novo filtro detalhes - PT](https://images.ctfassets.net/alneenqid6w5/60i6UvQEcghy6zsku1hTia/c158886033e62d698bf043c18d27a659/Screenshot_2020-08-05_Cole____es.png)
+![Novo filtro detalhes - PT](//images.ctfassets.net/alneenqid6w5/60i6UvQEcghy6zsku1hTia/c158886033e62d698bf043c18d27a659/Screenshot_2020-08-05_Cole____es.png)
 
 Para adicionar um produto à coleção, basta clicar no ícone <i class="fas fa-plus-circle" title = "check em círculo"></i> referente ao produto. Assim, ele será salvo na coleção automaticamente.
 
 Caso deseje mais informações sobre o item, clique no ícone <i class="fas fa-external-link-alt" title = "link externo"></i> para abrir a página de produto ou clique na imagem para ampliá-la.
 
-![PT-colecao-adicionar](https://images.ctfassets.net/alneenqid6w5/68r7LGGksNkoM9oqjwStFM/a7ac4e3caea2639e7581bae747f2ee1f/PT-colecao-adicionar.gif)
+![PT-colecao-adicionar](//images.ctfassets.net/alneenqid6w5/68r7LGGksNkoM9oqjwStFM/a7ac4e3caea2639e7581bae747f2ee1f/PT-colecao-adicionar.gif)
 
 Caso você deseje realizar uma inclusão massiva, aplique pelo menos um dos filtros e clique no botão `Adicionar Todos`. Vale ressaltar que o produto precisa ter pelo menos um SKU cadastrado para ser incluído a uma coleção.
 
-![Coleções Adicionar Todos - PT](https://images.ctfassets.net/alneenqid6w5/7Bo9F9fU4sGW4FqBTBquD8/20fa966d9f2bb7339ad12140fc722d2b/Screenshot_22.png)
+![Coleções Adicionar Todos - PT](//images.ctfassets.net/alneenqid6w5/7Bo9F9fU4sGW4FqBTBquD8/20fa966d9f2bb7339ad12140fc722d2b/Screenshot_22.png)
 
 <div class = "alert alert-danger">
-  <p>Não adicione massivamente uma quantidade acima de 150 mil produtos. Isso pode comprometer a indexação do Catálogo e o funcionamento da sua loja.</p>
+  <p>Não adicione massivamente uma quantidade acima de 100 mil produtos. Isso pode comprometer a indexação do Catálogo e o funcionamento da sua loja.</p>
 </div>
 
 #### Por planilha
 
-Você também pode adicionar os itens em uma coleção por planilha. 
+Você também pode adicionar os itens em uma coleção por planilha.
+
+<div class = "alert alert-info">O limite máximo para importação e exportação é de 10 mil SKUs por operação.</div>
 
 Para isso, siga os passos a seguir:
 
   1. No painel da sua coleção, clique no botão `Importar`.  
   2. Clique na opção **Adicionar produtos à coleção** e, em seguida, no botão `Importar`.  
-  3. Clique em **Baixe o modelo** para ter o modelo correto da planilha, como o  exemplo abaixo: ![Coleção planilha - PT](https://images.ctfassets.net/alneenqid6w5/2qWba0T6YYLIiwH8vy2JOX/567b23d9479f9e5d8d2929590aa81779/colecao-planilha_-PT.png)
+  3. Clique em **Baixe o modelo** para ter o modelo correto da planilha, como o  exemplo abaixo: ![Coleção planilha - PT](//images.ctfassets.net/alneenqid6w5/2qWba0T6YYLIiwH8vy2JOX/567b23d9479f9e5d8d2929590aa81779/colecao-planilha_-PT.png)
   4. Preencha a planilha com os IDs ou RefIDs dos Produtos ou dos SKUs. Adicione apenas um ID em cada linha. Independente do ID que você preencher, todos os SKUs do produto selecionado serão adicionados à coleção depois da importação.  
   5. Depois de preencher a planilha, salve as alterações e importe o documento no Admin. Você pode soltar o arquivo na área indicada ou clicar em **Escolha um arquivo**. São aceitos arquivos em formato CSV ou XML. Em caso de um arquivo CSV, use `,` para delimitar os campos.
   6. Para finalizar, clique em `Importar`.
@@ -135,11 +137,11 @@ Os produtos podem ser removidos tanto pela seleção de itens na lista do módul
 
 Para remover um item da coleção, basta clicar no <i class="far fa-check-circle" title="check em círculo"></i> do produto.
 
-![PT-colecao-remover](https://images.ctfassets.net/alneenqid6w5/4C7mFX4v4gpVTNV1D9QL2h/e01f7dadd8cedea525b6545eb853a355/PT-colecao-remover.gif)
+![PT-colecao-remover](//images.ctfassets.net/alneenqid6w5/4C7mFX4v4gpVTNV1D9QL2h/e01f7dadd8cedea525b6545eb853a355/PT-colecao-remover.gif)
 
 Caso você deseje realizar uma remoção massiva, aplique um dos filtros e clique no botão `Remover Todos`.
 
-![Coleções remover filtrados - PT](https://images.ctfassets.net/alneenqid6w5/1Ahv25AQ16j2B6zIV7YJrO/0f7aff71f6a25c295315745a69561c1c/Screenshot_23.png)
+![Coleções remover filtrados - PT](//images.ctfassets.net/alneenqid6w5/1Ahv25AQ16j2B6zIV7YJrO/0f7aff71f6a25c295315745a69561c1c/Screenshot_23.png)
 
 Você também pode clicar no botão <i class="far fa-check-circle" title = "check em círculo"></i> (**Produtos nesta coleção**) na barra superior e depois selecionar `Remover Todos`.
 
@@ -172,7 +174,7 @@ Para alterar a ordem da sua coleção, siga os passos abaixo:
 
   b. Selecione a caixa dos produtos que deseja alterar e clique em `Mover de Posição`. Indique o número da nova posição e, para finalizar, clique em `Mover`. Aqui é possível reordenar massivamente os itens da lista.
 
-![Coleções mover - PT](https://images.ctfassets.net/alneenqid6w5/WHrP3DW5rGbyXY40Baixh/4291fbe93c0c64759ca44c07b213146d/Cole____es_mover_-_PT.PNG)
+![Coleções mover - PT](//images.ctfassets.net/alneenqid6w5/WHrP3DW5rGbyXY40Baixh/4291fbe93c0c64759ca44c07b213146d/Cole____es_mover_-_PT.PNG)
 
 ## Exportar planilha da coleção
 

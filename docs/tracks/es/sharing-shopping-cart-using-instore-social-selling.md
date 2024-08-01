@@ -3,8 +3,8 @@ title: 'Compartir el carrito utilizando VTEX Sales App Social Selling'
 id: 6deiffo22iKkY27PkfstXy
 status: PUBLISHED
 createdAt: 2021-08-05T14:57:10.773Z
-updatedAt: 2023-05-31T15:22:18.271Z
-publishedAt: 2023-05-31T15:22:18.271Z
+updatedAt: 2023-07-26T19:00:02.450Z
+publishedAt: 2023-07-26T19:00:02.450Z
 firstPublishedAt: 2021-08-05T15:08:06.961Z
 contentType: trackArticle
 productTeam: Shopping
@@ -37,7 +37,7 @@ Esta opción permite compartir un carrito lleno de ítems con uno o más cliente
 
 Vea el paso a paso que se muestra a continuación.
 
-![socialselling-sugestaocarrinho-es](https://images.ctfassets.net/alneenqid6w5/4UJM2FglGqcJGdFJqZ9AQg/dccf53fd6fdac19cd750717c4dd4a0be/socialselling-sugestaocarrinho-es.gif)
+![socialselling-sugestaocarrinho-es](//images.ctfassets.net/alneenqid6w5/4UJM2FglGqcJGdFJqZ9AQg/dccf53fd6fdac19cd750717c4dd4a0be/socialselling-sugestaocarrinho-es.gif)
 
 El vendedor puede enviar el mismo enlace a varios clientes, tantas veces como lo desee. Cada vez que una persona acceda a este enlace, se generará un nuevo carrito de compra, exactamente igual al creado en VTEX Sales App. Cada carrito al que se accede también está asociado a la cuenta del vendedor y, si existe, al código del vendedor.
 
@@ -63,4 +63,4 @@ En este caso, el vendedor tiene que poner los ítems en el carrito, rellenar los
 
 Vea el paso a paso que se muestra a continuación.
 
-![socialselling-paymentlink-es](https://images.ctfassets.net/alneenqid6w5/hCgVTtE5YrsUFA2WHKrny/3690f99dd3ac16dd3ae0f90c2bf85cc1/socialselling-paymentlink-es.gif)
+![socialselling-paymentlink-es](//images.ctfassets.net/alneenqid6w5/hCgVTtE5YrsUFA2WHKrny/3690f99dd3ac16dd3ae0f90c2bf85cc1/socialselling-paymentlink-es.gif)

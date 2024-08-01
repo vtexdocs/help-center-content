@@ -1,16 +1,16 @@
 ---
-title: 'Los XMLs devuelven el error 500'
+title: 'Los XML devuelven un error 500'
 id: 6L48cBRaKQmjAOnNza3aNA
 status: PUBLISHED
 createdAt: 2022-06-07T17:53:45.884Z
-updatedAt: 2022-11-25T22:10:40.212Z
-publishedAt: 2022-11-25T22:10:40.212Z
+updatedAt: 2024-05-23T18:54:18.843Z
+publishedAt: 2024-05-23T18:54:18.843Z
 firstPublishedAt: 2022-06-07T17:53:46.260Z
 contentType: knownIssue
 productTeam: Portal
 author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
-slug: los-xmls-devuelven-el-error-500
+slug: los-xml-devuelven-un-error-500
 locale: es
 kiStatus: Backlog
 internalReference: 268042
@@ -23,14 +23,17 @@ internalReference: 268042
 </div>
 
 
-Eventualmente, el XML puede devolver un error 500, esto sucede principalmente en archivos XML grandes.
+Eventualmente, el XML puede devolver un error 500, ocurre principalmente en archivos XML grandes.
 
 
+
+##
 
 ## Simulación
 
 
-Intenta cargar un archivo XML grande.
+Intente cargar un archivo XML grande.
+
 
 
 
@@ -40,4 +43,8 @@ Intenta cargar un archivo XML grande.
 
 - Intentar recargar el XML suele resolver el problema;
 - Utiliza más de un XML.
+
+
+
+
 

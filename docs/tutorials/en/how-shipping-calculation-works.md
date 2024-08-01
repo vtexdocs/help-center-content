@@ -3,8 +3,8 @@ title: 'How shipping calculation works'
 id: tutorials_116
 status: PUBLISHED
 createdAt: 2017-04-27T22:18:59.694Z
-updatedAt: 2022-06-21T14:55:49.737Z
-publishedAt: 2022-06-21T14:55:49.737Z
+updatedAt: 2023-07-25T19:55:42.137Z
+publishedAt: 2023-07-25T19:55:42.137Z
 firstPublishedAt: 2017-04-27T23:00:43.230Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -84,7 +84,6 @@ You can configure different priorities and criteria for [logistics](https://help
 - **Shipping rates:** The shipping rate prices are configured in the [shipping rates](https://help.vtex.com/en/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM), except for the [loading dock rate](https://help.vtex.com/en/tutorial/custo-final-do-envio--5bwhIO108VA5Y2YOpef9lV), which is an optional value, configured when adding a new loading dock to a warehouse.
 - **Delivery time:** The shipping time is configured in the [SLA estimate](#shipping-time-estimate).
 - **Package splitting:** The adopted criteria are configured in the Checkout module. Learn more in [package splitting](https://help.vtex.com/en/tutorial/divisao-de-pedidos-e-divisao-de-entregas--jQvzA6QgSd51e2p6bthoV).
-- **Warehouse prioritization:** You can only configure a different criterion for warehouse prioritization via API, adding the `priority` property in [Create/update warehouse](https://developers.vtex.com/vtex-rest-api/reference/createupdatewarehouse). 
 
 ## Shipping time estimate
 

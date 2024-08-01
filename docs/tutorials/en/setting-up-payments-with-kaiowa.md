@@ -3,8 +3,8 @@ title: 'Setting up payments with Kaiowa'
 id: 1QfsSpAF0CHQFVd9qSGcA5
 status: PUBLISHED
 createdAt: 2023-04-06T18:20:04.972Z
-updatedAt: 2023-04-06T18:26:07.966Z
-publishedAt: 2023-04-06T18:26:07.966Z
+updatedAt: 2024-01-23T17:58:45.045Z
+publishedAt: 2024-01-23T17:58:45.045Z
 firstPublishedAt: 2023-04-06T18:26:07.966Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: setting-up-payments-with-kaiowa
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the Kaiowa payment provider. With this connector, your store can make sales through Kaiowa.
+At VTEX, it is possible to integrate with the Kaiowa payment provider. With this provider, your store can make sales through Kaiowa.
 
-To configure Kaiowa affiliation, follow the steps below:
+To configure Kaiowa, follow the steps below:
 
-1. In the VTEX Admin, go to __Store Settings > Payments > Settings__, or type __Settings__ in the search bar at the top of the page.
-2. In the __Gateway affiliations__ tab, click on the `+` button.
-3. Click on the __Kaiowa__ connector.
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __Kaiowa__ in the search bar and click on the name of the provider.
 4. Fill in the __Application Key__ and __Application Token__ fields with data provided by your account Kaiowa.
 5. If an alert message appears indicating the need to install the app, click on the `Install app` button and follow the installation instructions.
 6. Click on `Save`.

@@ -3,8 +3,8 @@ title: 'Lista de Provedores de Pagamento por País'
 id: 2im3BEGXxSAcRuxEaIHPvp
 status: PUBLISHED
 createdAt: 2022-02-01T18:37:56.763Z
-updatedAt: 2023-04-17T15:31:26.758Z
-publishedAt: 2023-04-17T15:31:26.758Z
+updatedAt: 2023-11-13T18:15:23.134Z
+publishedAt: 2023-11-13T18:15:23.134Z
 firstPublishedAt: 2022-02-01T18:39:26.915Z
 contentType: tutorial
 productTeam: Financial
@@ -15,7 +15,7 @@ legacySlug: lista-de-provedores-de-pagamento-por-pais
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-A VTEX oferece a possibilidade de diversos [provedores de pagamento](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444?&utm_source=autocomplete) para o seu negócio em muitos países.
+A VTEX oferece a possibilidade de diversos [provedores de pagamento](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444) para o seu negócio em muitos países.
 
 Para identificar as opções disponíveis, clique em **Search** e digite o nome do país, provedor de pagamento ou disponibilidade do Split de Recebíveis (Sim/Não). Você também pode optar por exibir 10, 25, 50 ou 100 resultados por página, selecionando o campo **Show Entries**.
 

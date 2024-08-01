@@ -3,8 +3,8 @@ title: 'Configuração do conector Dafiti'
 id: 3PV2OACP2E4O4uOKKW2sMg
 status: PUBLISHED
 createdAt: 2018-09-27T17:57:53.647Z
-updatedAt: 2022-01-25T15:51:13.004Z
-publishedAt: 2022-01-25T15:51:13.004Z
+updatedAt: 2024-07-02T19:17:57.983Z
+publishedAt: 2024-07-02T19:17:57.983Z
 firstPublishedAt: 2018-09-27T20:41:13.133Z
 contentType: trackArticle
 productTeam: Channels
@@ -16,11 +16,9 @@ trackSlugPT: configurar-integracao-da-dafiti
 
 A configuração do conector é feita no Admin. Para realizá-la, siga as instruções abaixo:
 
-1. Acesse o Admin.
-2. No módulo _MARKETPLACE_, clique em `Integrações`.
-3. Clique em `Configurações`.
-4. No _card_ da Dafiti, clique em `Integrar`.
-5. Preencha os campos da tela descritos logo abaixo e em seguida, clique no botão `Salvar configuração` (campos marcados com o símbolo * são obrigatórios).
+1. Acesse no Admin **Marketplace > Conexões > Marketplaces e Integrações** ou digite **Marketplaces e Integrações**.
+3. Selecione o marketplace **Dafiti** e clique em `Conectar`.
+4. Preencha os campos da tela descritos logo abaixo e em seguida, clique no botão `Salvar configuração` (campos marcados com o símbolo * são obrigatórios).
 
 - **Integração (se optar por desativar a integração, toda a configuração, incluindo afiliado, serão excluídos)*:** marque _Ativada_ para que a integração comece a operar.
 
@@ -45,11 +43,39 @@ A configuração do conector é feita no Admin. Para realizá-la, siga as instru
 - **Enviar KIT*:** ao escolher _Não_, SKUs [cadastrados como kit](https://help.vtex.com/pt/tutorial/cadastrando-kit--tutorials_215) não são enviados para a Dafiti. Ao habilitar _Sim_, todos os itens da sua política comercial são enviados para o marketplace, sem filtrar SKUs cadastrados como kit. Mudanças na configuração do conector podem ser feitas a qualquer momento, sendo que isso não afeta SKUs que já tenham sido enviados. Por exemplo, se você mudasse sua configuração de _Sim_ para _Não_, SKUs enviados anteriormente para a Dafiti não seriam removidos ou sofreriam qualquer alteração.
 
   <div class="alert alert-info">
-Com a opção <i>Não</i> ativada, tentativas de envio para a Dafiti de SKUs cadastrados como kit resultarão no seguinte aviso: <i>O conector está configurado para não enviar SKUs do tipo Kit</i>. Esta mensagem pode ser visualizada no Admin, no módulo <b>MARKETPLACE > Integrações > Produtos,</b> ao se clicar sobre o SKU.
+Com a opção <i>Não</i> ativada, tentativas de envio para a Dafiti de SKUs cadastrados como kit resultarão no seguinte aviso: <i>O conector está configurado para não enviar SKUs do tipo Kit</i>. Esta mensagem pode ser visualizada no Admin, no módulo <b>Marketplace> Conexões> Produtos,</b> ao se clicar sobre o SKU.
 </div>
 
 - **Nome do SKU*:** determina qual será a regra para nomeação de SKUs no portal da Dafiti. Você deve selecionar uma das combinações disponíveis dos seguintes atributos: _Marca_, _Nome do Produto_ e _Nome do SKU_.
 
-  ![print tela nome exibição produto](https://drive.google.com/uc?export=download&id=1KqEfKd5RCUJve3IZrAd50Ke0nlL2pL4l)
+![print nome exibicao produto es](//images.ctfassets.net/alneenqid6w5/3MiGbDbIXFGiawLcXjji5w/62b3d417ca2cfc58e13f8602c482ff23/print_nome_exibicao_produto.png)
 
 > Exemplo: meu produto é um tênis preto da marca Nike. O _Nome do SKU_ que eu selecionei foi _Marca - Nome do Produto - Nome do SKU_. Assim, o nome que aparecerá no portal da Dafiti será _Nike tênis preto_.
+
+- **NCM:** é a Nomenclatura Comum do Mercosul (NCM), que define a alíquota de impostos comum ao bloco. Para determinados produtos, é necessário informar neste campo o nome único da especificação do produto ou SKU responsável, que contém a informação do NCM no catálogo.
+- **Client Id:** código único atribuído a um seller para acessar a integração.
+- **Client Secret:** código único utilizado para autenticação da integração.
+- **Mapeamento de Campos Customizados (Nome e descrição):**  Para utilizar esse mapeamento é necessário criar um campo customizado. Para saber como criar campos customizados, acesse a documentação [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/tutorial/criando-um-campo-de-produto--tutorials_106).  
+
+<div class = "alert alert-info">
+  O mapeamento de campos customizáveis está disponível apenas para <b>nome do produto</b> e <b>descrição do produto</b>.
+  <p><b>Exemplo de nome para o novo campo:</b> <code>DFT_ProductName</code> para nome do produto e <code>DFT_ProductDescription</code> para descrição do produto.</p>
+</div>  
+
+Para o mapeamento funcionar, é necessário o seller seguir os seguintes passos:  
+
+1. Criar um campo do tipo `Texto grande`.  
+2. Desativar a opção  `Exibe especificação`.  
+3. Preencher os campos criados em cada produto cadastrado.  
+
+O preenchimento desse campo deve ser realizado da seguinte maneira:
+
+1. Preencha o campo DE com o nome do campo de origem.   Obrigatoriamente `ProductName` para título do produto ou Obrigatoriamente `ProductDescription` para descrição do produto.  
+2. Preencha o campo PARA com o nome do novo campo. `DFT_ProductName` para nome do produto e `DFT_ProductDescription` para descrição do produto.  
+3. Clique no botão e uma regra de mapeamento será adicionada a sua integração.  
+
+<div class="alert alert-info">
+Cada regra cadastrada mapeia apenas um campo.
+<p>Caso o campo mapeado não tenha um valor preenchido, será enviado o valor padrão de <code>Título</code> ou <code>Descrição</code> cadastrados no catálogo.
+</div>
+

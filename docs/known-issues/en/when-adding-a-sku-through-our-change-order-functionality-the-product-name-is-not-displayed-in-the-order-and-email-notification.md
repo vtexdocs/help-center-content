@@ -3,8 +3,8 @@ title: 'When adding a SKU through our "Change Order" functionality, the product 
 id: 35Q3KoOSsUr9n9XEDIk7nk
 status: PUBLISHED
 createdAt: 2022-04-07T14:53:35.829Z
-updatedAt: 2022-11-25T22:02:48.606Z
-publishedAt: 2022-11-25T22:02:48.606Z
+updatedAt: 2024-02-16T20:24:27.100Z
+publishedAt: 2024-02-16T20:24:27.100Z
 firstPublishedAt: 2022-04-07T14:53:36.256Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: when-adding-a-sku-through-our-change-order-functionality-the-product-name-is-not-displayed-in-the-order-and-email-notification
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 557978
 ---
 

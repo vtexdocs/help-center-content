@@ -3,8 +3,8 @@ title: 'O componente de vídeo não funciona corretamente nos dispositivos iOS'
 id: 2bRQkTdRk2OJQMw5CKVieW
 status: PUBLISHED
 createdAt: 2022-07-01T17:21:47.912Z
-updatedAt: 2022-11-25T22:13:54.314Z
-publishedAt: 2022-11-25T22:13:54.314Z
+updatedAt: 2024-02-16T20:25:23.862Z
+publishedAt: 2024-02-16T20:25:23.862Z
 firstPublishedAt: 2022-07-01T17:21:48.826Z
 contentType: knownIssue
 productTeam: Store Framework
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: o-componente-de-video-nao-funciona-corretamente-nos-dispositivos-ios
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 609462
 ---
 

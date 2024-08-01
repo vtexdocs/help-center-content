@@ -3,8 +3,8 @@ title: 'Simulador de envío'
 id: tutorials_144
 status: PUBLISHED
 createdAt: 2017-04-27T22:16:36.879Z
-updatedAt: 2023-03-29T19:24:17.032Z
-publishedAt: 2023-03-29T19:24:17.032Z
+updatedAt: 2024-06-18T19:48:13.737Z
+publishedAt: 2024-06-18T19:48:13.737Z
 firstPublishedAt: 2017-04-27T23:00:45.450Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -41,7 +41,7 @@ Puede haber una divergencia entre el precio final indicado por el simulador y el
  6. Seleccione la `cantidad` del SKU.  
  7. Determine el `Precio`. Este campo es abierto y opcional. 	  
 
- > El simulador no tiene en cuenta el precio registrado en el módulo Catálogo. Por lo tanto, el costo indicado por el simulador no considera ninguna promoción vigente para aquellos SKUs, y puede indicar un costo diferente del valor real en su tienda. Sugerimos que ingrese manualmente el valor exacto del SKU con las promociones aplicadas, para que el simulador devuelva un cálculo preciso.*
+ > El simulador no tiene en cuenta el precio registrado en el módulo Catálogo. Por lo tanto, el costo indicado por el simulador no considera ninguna promoción vigente para aquellos SKUs, y tampoco considera acréscimos de flete en el carrito, se los hay. Eso puede resultar en un costo diferente del valor real del producto en su tienda. Sugerimos que ingrese manualmente el valor exacto del SKU con las promociones aplicadas, para que el simulador devuelva un cálculo preciso.
 
  8. Haga clic en el ícono `+` para agregar más de un producto en la simulación. 
 Si lo desea, puede seleccionar la casilla `Simular ítems individualmente`.  
@@ -60,7 +60,7 @@ En el resultado de la simulación, las medidas del ítem aparecen en centímetro
 
 ## Detalles de la simulación
 
-La simulación de flete indica todas las posibilidades de envío y la disponibilidad de los ítems incluidos en la simulación y describe los [detalles de entrega de un pedido](https://help.vtex.com/es/tutorial/ver-detalhes-de-entrega-de-um-pedido?locale=pt), el valor del flete y el tiempo de entrega tomando en cuenta las particularidades que se indican a continuación.
+La simulación de flete indica todas las posibilidades de envío y la disponibilidad de los ítems incluidos en la simulación y describe los [detalles de entrega de un pedido](https://help.vtex.com/es/tutorial/pagina-de-detalles-del-pedido--2Y75n54Cc9VizrlG1N6ZNl), el valor del flete y el tiempo de entrega tomando en cuenta las particularidades que se indican a continuación.
 
 * **Transportadoras desconsideradas**: al realizar la simulación, algunas transportadoras pueden estar indisponibles porque no cumplen los criterios de la [ Política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140) (vea 
 [transportadoras desconsideradas](#transportadoras-desconsideradas) para más información)

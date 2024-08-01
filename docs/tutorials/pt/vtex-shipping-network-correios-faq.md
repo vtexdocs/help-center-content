@@ -3,8 +3,8 @@ title: 'VTEX Shipping Network Correios: FAQ'
 id: 2Wavf7Wie5GEUAEHKtn5oC
 status: PUBLISHED
 createdAt: 2023-06-01T13:24:23.895Z
-updatedAt: 2023-06-09T12:55:42.194Z
-publishedAt: 2023-06-09T12:55:42.194Z
+updatedAt: 2023-08-25T15:32:25.418Z
+publishedAt: 2023-08-25T15:32:25.418Z
 firstPublishedAt: 2023-06-01T14:47:24.289Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -16,7 +16,7 @@ subcategory: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
 <div class="alert alert-info">
-Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato pelo email <i>vtexlog@vtex.com.br</i>.
+Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site <a href="https://vtex.com/br-pt/shipping-network-correios/">VTEX Shipping Network Correios</a>. Em caso de dúvidas, entre em contato pelo email <i>vtexlog@vtex.com.br</i>.
 </div>
 
 Este artigo reúne as dúvidas mais comuns sobre o [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/), a solução da VTEX para você integrar sua operação com os serviços PAC e SEDEX dos Correios pelo Admin VTEX, dispor de recursos exclusivos e aproveitar nossas tarifas competitivas.

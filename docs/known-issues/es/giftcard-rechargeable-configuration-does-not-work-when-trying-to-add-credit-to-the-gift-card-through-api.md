@@ -3,8 +3,8 @@ title: 'La configuración de la tarjeta de regalo recargable no funciona cuando 
 id: 3MXPd85Km51KpO4FNPqlDf
 status: PUBLISHED
 createdAt: 2022-05-23T14:21:10.608Z
-updatedAt: 2022-11-25T22:05:59.003Z
-publishedAt: 2022-11-25T22:05:59.003Z
+updatedAt: 2024-02-16T20:25:54.496Z
+publishedAt: 2024-02-16T20:25:54.496Z
 firstPublishedAt: 2022-05-23T14:21:11.126Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: la-configuracion-de-la-tarjeta-de-regalo-recargable-no-funciona-cuando-se-intenta-anadir-credito-a-la-tarjeta-de-regalo-a-traves-de-la-api
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 583669
 ---
 

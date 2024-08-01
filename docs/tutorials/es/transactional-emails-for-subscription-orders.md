@@ -3,8 +3,8 @@ title: 'Correos Electrónicos Transaccionales para Pedidos de Suscripción'
 id: 2NYHqHMRqZ43Cn6s84ZCB5
 status: PUBLISHED
 createdAt: 2020-02-11T15:13:38.504Z
-updatedAt: 2021-11-30T18:14:37.654Z
-publishedAt: 2021-11-30T18:14:37.654Z
+updatedAt: 2023-12-21T14:14:10.536Z
+publishedAt: 2023-12-21T14:14:10.536Z
 firstPublishedAt: 2020-02-17T21:15:14.903Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -28,6 +28,10 @@ También puede crear su propia plantilla de correo electrónico. Entienda mejor 
 
 ## Cómo su cliente acompaña sus pedidos de suscripción
 
+<div class = "alert alert-info">
+En <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi Cuenta</a>, los clientes solo pueden acceder a los pedidos de los últimos dos años.
+</div>
+
 Cada acción, que ocurre dentro del flujo de pedidos de Suscripción, contiene un gatillo que dispara un correo electrónico notificando a su cliente.  Una vez activada la suscripción, el cliente recibirá correos electrónicos con detalles del status de cada pedido de suscripción cada vez que realice una acción. 
 
 No es necesario activar el envío de correos electrónicos manualmente, pues se envían automáticamente según cada escenario incluido en el Centro de Mensajes. Sin embargo, si lo desea, puede desactivar el envío de determinados correos electrónicos:
@@ -39,7 +43,7 @@ No es necesario activar el envío de correos electrónicos manualmente, pues se 
 5. Desactive la casilla `¿Activar envío de e-mail?`, que por defecto está marcada como activa.
 6. Haga clic en **Guardar**.
 
-![PT Subscription Message Center](https://images.ctfassets.net/alneenqid6w5/3g9hWtw1XUcYlUlwGCzagX/8161e2468d88999ec8505a46274b55f1/PT_Subscription_Message_Center.png)
+![PT Subscription Message Center](//images.ctfassets.net/alneenqid6w5/3g9hWtw1XUcYlUlwGCzagX/8161e2468d88999ec8505a46274b55f1/PT_Subscription_Message_Center.png)
 
 ## Plantillas Estándar del Centro de Mensajes 
 

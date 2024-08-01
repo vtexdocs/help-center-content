@@ -3,8 +3,8 @@ title: 'Confirmed order email not being sent'
 id: 4RelMFApLldLtf0GxhYzdt
 status: PUBLISHED
 createdAt: 2023-03-10T22:07:59.908Z
-updatedAt: 2023-05-29T20:07:11.271Z
-publishedAt: 2023-05-29T20:07:11.271Z
+updatedAt: 2023-08-28T14:53:51.322Z
+publishedAt: 2023-08-28T14:53:51.322Z
 firstPublishedAt: 2023-03-10T22:08:01.026Z
 contentType: knownIssue
 productTeam: Checkout

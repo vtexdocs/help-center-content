@@ -3,8 +3,8 @@ title: 'Como é apurado o SLA de operação da plataforma?'
 id: frequentlyAskedQuestions_662
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:57.436Z
-updatedAt: 2019-12-31T17:00:45.718Z
-publishedAt: 2019-12-31T17:00:45.718Z
+updatedAt: 2024-03-11T22:38:31.694Z
+publishedAt: 2024-03-11T22:38:31.694Z
 firstPublishedAt: 2019-01-24T22:11:03.028Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,26 +15,25 @@ legacySlug: como-e-apurado-o-sla-de-operacao-da-plataforma
 subcategory: 5PYkoNDZyo2G80yiiqG2YW
 ---
 
-Além dos prazos, é preciso identificar o que assumimos como violação do SLA. Ou seja, o que realmente contará como tempo de indisponibilidade.
+Qualquer minuto de interrupção pode custar muito, tanto para as lojas quanto para a VTEX. Assim, procuramos ser o mais transparente possível em relação à saúde da nossa plataforma. Disponibilizamos a página [Status VTEX](https://status.vtex.com), onde registramos todos os incidentes que impactaram nosso SLA.
 
-Como nosso modelo comercial é baseado no rendimento da loja, fica muito claro para todo o time VTEX que qualquer minuto de interrupção custa muito, tanto para as lojas quando para a própria VTEX. Desta forma, procuramos ser o mais transparente possível em relação a saúde da nossa plataforma. Disponibilizamos a [página de status](http://status.vtex.com "página de status") onde registramos todos incidentes que impactaram nosso SLA. Esses eventos são contabilizados conforme abaixo.
+Para apurar violações do SLA, ou seja, contabilizar tempo de indisponibilidade da plataforma, consideramos os eventos a seguir:
 
-### São contabilizados
+- Interrupções na loja virtual que estejam impactando significativamente o número de pedidos realizados, por exemplo: loja fora do ar, lentidão no acesso, erro no checkout.
+- Interrupções com duração de no mínimo 10 minutos.
 
-- Qualquer interrupção na loja virtual que esteja impactando significativamente o número de pedidos realizados. Ex: loja fora do ar, lentidão no acesso, erro no checkout.
-- Contabilizamos interrupções com duração de no mínimo 10 minutos.
+<div class="alert alert-warning">
+  <p>Não contabilizamos manutenções agendadas como tempo de indisponibilidade.</p>
+</div>
 
-### Não são contabilizados
+## Verificar o status da VTEX
 
-- Manutenções agendadas.
-- Interrupção de algum serviço no módulo administrativo.
+Para facilitar a identificação de cenários de instabilidade, recomendamos verificar a página [Status VTEX](https://status.vtex.com) em caso de suspeita de indisponibilidade da ferramenta. O status é atualizado quando o incidente passa do prazo mínimo de 10 minutos, com as informações a seguir:
 
-### Verificando no status
+- __Investigando/Identificado__: o time está investigando o incidente e realizando as ações necessárias para restabelecer o serviço.
+- __Monitorando__: o incidente foi resolvido e o serviço estabilizado. O ambiente está sob monitoramento.
+- __Resolvido__: caso encerrado, com tempo total de interrupção do SLA registrado. Na maioria dos casos, o tempo total de interrupção é o somatório do tempo de indisponibilidade do incidente.
 
-Para facilitar a identificação desses cenários, sempre recomendamos que o status seja verificado a cada suspeita de indisponibilidade da ferramenta. O status é atualizado quando o incidente passa do prazo mínimo de 10 minutos, com as seguintes informações:
+## Saiba mais
 
-- __Investigando/Identificado__: Incidente sendo investigado pelo time. Time está tomando ação necessário para restabelecimento do serviço.
-- __Monitorando__: Incidente resolvido, serviço estabilizado. Ambiente sob monitoramento.
-- __Resolvido__: Caso encerrado. Registrado tempo total de interrupção. Na maioria dos casos, o SLA é o somatório do tempo de indisponibilidade de cada incidente.
-
-![](//images.contentful.com/alneenqid6w5/2Le8koNu7YUoICaquSSuuY/134a3f2ca7cee4614a09c96397573dd9/Screen_Shot_2016-04-22_at_16.28.39.png)
+- [Página de status da VTEX](https://help.vtex.com/pt/tutorial/pagina-de-status-da-vtex--gPhqDn9IQ3c67wbJEX3JJ)

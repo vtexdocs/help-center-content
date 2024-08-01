@@ -3,8 +3,8 @@ title: 'Sending products to Facebook'
 id: 41qzoa7TWIYTyIhABHdgzI
 status: PUBLISHED
 createdAt: 2021-02-08T19:45:07.202Z
-updatedAt: 2021-07-09T22:04:10.786Z
-publishedAt: 2021-07-09T22:04:10.786Z
+updatedAt: 2024-01-22T15:03:37.861Z
+publishedAt: 2024-01-22T15:03:37.861Z
 firstPublishedAt: 2021-02-08T20:10:14.152Z
 contentType: trackArticle
 productTeam: Channels
@@ -89,10 +89,10 @@ Here is an example of a completed spreadsheet:
 The third and final step to complete the mapping is to upload the completed spreadsheet. To do this, follow the steps below:
 
 1. Access the Admin.
-2. In the _MARKETPLACE_ module, click on `Integrations`.
-3. Click on `Settings`.
-4. In the Facebook card, click on <i class="fas fa-cog"></i>
-5. Choose the Upload Mapping option.
+2. In the Marketplace module, click Marketplace and Integrations.
+4. Search for Facebook in the search bar.
+5. Click `Edit`
+6. Choose the `Category Mapping` option.
 6. Click on `Choose a File`.
 7. Select the completed mapping spreadsheet.
 8. Click on `Upload File`.

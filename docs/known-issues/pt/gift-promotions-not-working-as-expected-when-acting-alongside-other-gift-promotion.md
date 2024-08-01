@@ -3,8 +3,8 @@ title: 'Promoções de presentes que não funcionam como esperado quando atuam e
 id: 7p037qcaXYMYKC3kJPztc3
 status: PUBLISHED
 createdAt: 2023-01-09T21:08:49.800Z
-updatedAt: 2023-01-09T21:08:50.899Z
-publishedAt: 2023-01-09T21:08:50.899Z
+updatedAt: 2024-02-16T20:23:54.228Z
+publishedAt: 2024-02-16T20:23:54.228Z
 firstPublishedAt: 2023-01-09T21:08:50.899Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: promocoes-de-presentes-que-nao-funcionam-como-esperado-quando-atuam-em-conjunto-com-outras-promocoes-de-presentes
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 729980
 ---
 

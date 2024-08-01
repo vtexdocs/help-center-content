@@ -38,6 +38,6 @@ La configuración es similar al de las demás condiciones especiales de pago.
 
 La principal diferencia es que, después de seleccionar el país y el banco emisor, el administrador de la tienda puede elegir entre las opciones de Card Level que ofrece  la institución financiera elegida.
 
-![comousarcardlevelES.gif?h=250](https://images.ctfassets.net/alneenqid6w5/7GeRvL3w0PW2czAGdnQWRw/e7ed1290e19aea854cb4dda72f501b26/comousarcardlevelES.gif_h_250)
+![comousarcardlevelES.gif?h=250](//images.ctfassets.net/alneenqid6w5/7GeRvL3w0PW2czAGdnQWRw/e7ed1290e19aea854cb4dda72f501b26/comousarcardlevelES.gif_h_250)
 
 Para saber en detalle cómo configurar esta funcionalidad, vea nuestro [artículo sobre Configuración de Condiciones Especiales de Pago](https://help.vtex.com/tutorial/condiciones-especiales--tutorials_456).

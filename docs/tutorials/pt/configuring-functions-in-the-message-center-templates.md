@@ -35,7 +35,7 @@ _classe.atributo_ são obtidos do JSON. No MessageCenter exibimos o JSON espec�
 **HTML do template**
 `<strong>{{_accountInfo.HostName}}</strong> => lojavirtual`
 
-![exemplohtml](https://images.ctfassets.net/alneenqid6w5/2L8EnLX9I4gqOyaKUY4wGw/47d7e0db874a73e9569d6ddabe69b470/exemplohtml.png)
+![exemplohtml](//images.ctfassets.net/alneenqid6w5/2L8EnLX9I4gqOyaKUY4wGw/47d7e0db874a73e9569d6ddabe69b470/exemplohtml.png)
 
 Para o exemplo acima, uma loja seller pode possuir um hostname diferente de uma loja marketplace. Sempre leve em conta as suas configurações!
 

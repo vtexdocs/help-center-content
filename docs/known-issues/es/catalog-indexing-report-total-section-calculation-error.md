@@ -3,8 +3,8 @@ title: 'Error de cálculo de la sección "total" del informe de indexación del 
 id: 6TJXux104P2c0mruo5vlEn
 status: PUBLISHED
 createdAt: 2022-02-25T11:39:42.098Z
-updatedAt: 2022-11-25T21:45:40.741Z
-publishedAt: 2022-11-25T21:45:40.741Z
+updatedAt: 2024-02-16T20:26:35.750Z
+publishedAt: 2024-02-16T20:26:35.750Z
 firstPublishedAt: 2022-02-25T11:39:42.485Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: error-de-calculo-de-la-seccion-total-del-informe-de-indexacion-del-catalogo
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 499450
 ---
 

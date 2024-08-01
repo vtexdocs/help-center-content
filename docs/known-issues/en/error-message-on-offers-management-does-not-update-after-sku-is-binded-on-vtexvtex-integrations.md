@@ -3,8 +3,8 @@ title: 'Error message on offers management does not update after sku is binded o
 id: 5tMKDMsFTZlXQrkVM4WeJD
 status: PUBLISHED
 createdAt: 2022-12-08T14:02:22.948Z
-updatedAt: 2022-12-08T14:03:27.764Z
-publishedAt: 2022-12-08T14:03:27.764Z
+updatedAt: 2024-02-16T20:24:16.785Z
+publishedAt: 2024-02-16T20:24:16.785Z
 firstPublishedAt: 2022-12-08T14:02:23.384Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: error-message-on-offers-management-does-not-update-after-sku-is-binded-on-vtexvtex-integrations
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 712956
 ---
 

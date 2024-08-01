@@ -15,18 +15,17 @@ legacySlug: catalogo-vision-general
 subcategory: 
 ---
 
-![Catalogo overview (tapa)](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/es/catalogo-vision-general-0.jpg)
-El catálogo es el módulo de administración de tu tienda que te permite configurar las funcionalidades relacionadas con los productos de tu ecommerce. Para que tu cliente pueda ver los productos en el sitio web, debes registrarlos en este módulo.
+![Catalogo overview (tapa)](//images.ctfassets.net/alneenqid6w5/1OkPBtIH7KNPWFpCYVv89Y/acb839745dcafabbe9cfa2dfbd529484/image1.jpg)
+El catálogo es el módulo de administración de tu tienda que te permite configurar las funcionalidades relacionadas con los productos de tu ecommerce. Para que tu cliente pueda ver los productos en el sitio web, debes registrarlos en este módulo. 
 
 En este artículo, encontrarás una visión general de los ítems del catálogo y su funcionalidad.
 
 ## Categorías
-
 La categoría es el segundo nivel de categorización de tu tienda, debajo del nivel [Departamentos](https://help.vtex.com/es/tutorial/que-es-un-departamento--22rKjmYWVmmKAK8CWa8yKw), que son secciones o sectores que categorizan las áreas de tu negocio. La categoría esencial para el registro de productos.
 
 El módulo **Categorías** te permite ver y gestionar el árbol de categorías registradas en tu tienda, como se muestra en el ejemplo a continuación.
 
-![Estructura del catalogo](https://raw.githubusercontent.com/vtexdocs/help-center-content/main/images/es/catalogo-vision-general-1.png)
+![Estructura del catalogo](//images.ctfassets.net/alneenqid6w5/6x2Nbxv5BvPZ9XW2Q4pTHa/6f11799fa0f016fa0429a2e49e757f27/image5.png)
 
 Puedes registrar una categoría siguiendo el tutorial [Registrar una categoría](https://help.vtex.com/es/tutorial/registrando-categoria--tutorials_206). Si deseas gestionar o desactivar una categoría, sigue los pasos del tutorial [Desactivar y reorganizar categorías](https://help.vtex.com/es/tutorial/desactivando-y-reorganizando-categorias--tutorials_264).
 
@@ -35,7 +34,6 @@ Dentro de las categorías, existen las [subcategorías](https://help.vtex.com/es
 Las [categorías similares](https://help.vtex.com/es/tutorial/configurando-categoria-similar--tutorials_204) permiten que un producto esté en más de una categoría al mismo tiempo, y las [categorías globales](https://help.vtex.com/es/tutorial/configurando-a-categoria-global--tutorials_188) se utilizan para las integraciones externas, como con los marketplaces u otros canales de venta.  
 
 ## Marcas
-
 La marca es un campo obligatorio para la creación de un producto, ya que sin ella no es posible registrarlo. En VTEX, hay una sección específica para que registres las marcas de los productos disponibles en tu tienda.
 
 Al asociar una marca a tus productos, puedes crear una navegación utilizando este atributo como filtro en tu tienda. Los clientes suelen buscar productos empleando el nombre de una marca como palabra clave.
@@ -46,9 +44,9 @@ Puedes registrar una marca siguiendo el tutorial [Registrar marcas](https://help
 
 ## Productos y SKU
 
-El producto es la definición más genérica de algo disponible en tu tienda, como, por ejemplo, "Camisa". Los SKU son variaciones de este producto, como el color y el tamaño, por ejemplo. Una misma camisa (producto) puede estar disponible en las tallas P, M o G, que son las especificaciones.
+El producto es la definición más genérica de algo disponible en tu tienda, como, por ejemplo, "Camisa". Los SKU son variaciones de este producto, como el color y el tamaño, por ejemplo. Una misma camisa (producto) puede estar disponible en las tallas P, M o G, que son las especificaciones. 
 
-La combinación de especificaciones de un producto es un SKU, como, por ejemplo, camisa P. Es obligatorio que un producto tenga al menos un SKU.
+La combinación de especificaciones de un producto es un SKU, como, por ejemplo, camisa P. Es obligatorio que un producto tenga al menos un SKU. 
 
 La sección Productos y SKU del VTEX Admin te permite gestionar tus productos y SKU. Puedes registrar un producto siguiendo el tutorial [Registrar productos](https://help.vtex.com/es/tutorial/registrar-productos--tutorials_2567). A continuación, registra un SKU siguiendo los pasos del tutorial [Rellenar los campos de registro de SKU](https://help.vtex.com/es/tutorial/campos-de-registro-de-sku--21DDItuEQc6mseiW8EakcY).
 
@@ -64,13 +62,13 @@ Para registrar una especificación, accede a los tutoriales [Crear un campo de p
 
 ## Importación y exportación
 
-Esta funcionalidad permite al usuario del Admin importar [imágenes](https://help.vtex.com/es/tutorial/importando-imagenes-por-plantilla--tutorials_262), [productos](https://help.vtex.com/es/tutorial/como-exportar-planilla-de-productos--2sIroGeqZqaN3NAvaSGwWV), [SKU](https://help.vtex.com/es/tutorial/importar-y-exportar-especificacion-de-producto-y-sku--tutorials_274), marcas y [plantillas de stock](https://help.vtex.com/es/tutorial/importando-y-exportando-plantilla-de-stock--tutorials_2034) en tu tienda a través de plantillas, lo que facilita el llenado en masa.
+Esta funcionalidad permite al usuario del Admin importar [imágenes](https://help.vtex.com/es/tutorial/importando-imagenes-por-plantilla--tutorials_262), [productos](https://help.vtex.com/es/tutorial/como-exportar-planilla-de-productos--2sIroGeqZqaN3NAvaSGwWV), [SKU](https://help.vtex.com/es/tutorial/importar-y-exportar-especificacion-de-producto-y-sku--tutorials_274), marcas y [plantillas de stock](https://help.vtex.com/es/tutorial/importando-y-exportando-plantilla-de-stock--tutorials_2034) en tu tienda a través de plantillas, lo que facilita el llenado en masa. 
 
 Para entender cómo utilizar esta funcionalidad, lee el artículo [Rellenar los campos de la plantilla de importación](https://help.vtex.com/es/tutorial/rellenar-campos-de-la-planilla-de-importacion--4nYhx63Q5yokQWaMguaIgI).
 
 ## Tipos de listas
 
-Las listas son agrupaciones de productos que ofrecer a tus clientes en tu tienda. Pueden ser de varios tipos y estar asociadas a eventos, como bodas, cumpleaños u otras ocasiones.
+Las listas son agrupaciones de productos que ofrecer a tus clientes en tu tienda. Pueden ser de varios tipos y estar asociadas a eventos, como bodas, cumpleaños u otras ocasiones. 
 
 En esta sección se configuran las listas que estarán disponibles en el sitio web. Para aprender a crear una lista, sigue el tutorial [Crear un tipo de lista](https://help.vtex.com/es/tutorial/criando-tipo-de-lista--tutorials_254).
 
@@ -89,25 +87,22 @@ En VTEX, la funcionalidad de configuración de XML utiliza combinaciones de dife
 Para entender cómo configurar un XML, sigue los pasos del tutorial [Cómo configurar un XML](https://help.vtex.com/es/tutorial/como-configurar-xml--tutorials_242).
 
 ## Informes
-
 Puedes obtener informes de los movimientos en tu tienda. Los informes disponibles en la tienda son:
 
-- [Informe de seguridad](https://help.vtex.com/es/tutorial/informe-de-seguridad--tutorials_282)
-- [Informe de indexación](https://help.vtex.com/es/tutorial/utilizando-el-informe-de-indexacion--4ikVpMhwByyS8sysaeOIm4)
-- Informe de lista de compras
-- Informe de Avísame
-- Informe de newsletter
-- [Informe de evaluación](https://help.vtex.com/es/tutorial/acceder-a-las-evaluaciones-de-productos--139sIVny6fyXK0Nk60L1NF)
-- Informe de descargas
+ - [Informe de seguridad](https://help.vtex.com/es/tutorial/informe-de-seguridad--tutorials_282)
+ - [Informe de indexación](https://help.vtex.com/es/tutorial/utilizando-el-informe-de-indexacion--4ikVpMhwByyS8sysaeOIm4)
+ - Informe de lista de compras
+ - Informe de Avísame
+ - Informe de newsletter
+ - [Informe de evaluación](https://help.vtex.com/es/tutorial/acceder-a-las-evaluaciones-de-productos--139sIVny6fyXK0Nk60L1NF)
+ - Informe de descargas
 
 ## Condiciones comerciales
-
 La condición comercial es una agrupación de SKU que sirve para crear diferentes escenarios de pago. Por ejemplo, esta configuración puede permitir el pago en 12 cuotas con tarjetas de crédito solo para productos electrónicos en tu tienda.
 
 Para registrar una condición comercial, sigue el tutorial [Registrar una condición comercial](https://help.vtex.com/es/tutorial/registrar-condicion-comercial--tutorials_445).
 
 ## Proveedores
-
 Esta funcionalidad te permite registrar proveedores para tu tienda o marketplace. Para registrar un proveedor, sigue los pasos a continuación.
 En el Admin, haz clic en **Catálogo** > **Proveedores**.
 Haz clic en `Nuevo proveedor`.
@@ -122,7 +117,6 @@ Rellena los siguientes campos de registro:
 6. Haz clic en `Guardar`.
 
 ## Colecciones
-
 La colección es la agrupación de dos o más SKU que pueden tener o no características comunes para ser presentados en las páginas de productos de tu tienda.
 
 Se pueden crear colecciones para asociar los SKU utilizando otros criterios de agrupación, como festividades, lanzamientos o productos más vendidos.
@@ -130,3 +124,4 @@ Se pueden crear colecciones para asociar los SKU utilizando otros criterios de a
 Por ejemplo, puedes crear una página para celebrar el Día de San Valentín y hacer una lista de regalos recomendados para la ocasión, creando una colección de "regalos".
 
 Para crear una colección, sigue el tutorial [Crear una colección](https://help.vtex.com/es/tutorial/registrar-colecciones-beta--yJBHqNMViOAnnnq4fyOye).
+

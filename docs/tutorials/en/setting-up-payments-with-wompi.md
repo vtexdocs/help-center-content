@@ -3,8 +3,8 @@ title: 'Setting up payments with Wompi'
 id: 40d6lWEyzLViHS7aYvcsqV
 status: PUBLISHED
 createdAt: 2022-02-21T18:22:13.804Z
-updatedAt: 2023-03-26T22:00:59.701Z
-publishedAt: 2023-03-26T22:00:59.701Z
+updatedAt: 2024-01-24T13:49:31.304Z
+publishedAt: 2024-01-24T13:49:31.304Z
 firstPublishedAt: 2022-02-21T19:06:12.105Z
 contentType: tutorial
 productTeam: Financial
@@ -15,16 +15,16 @@ legacySlug: setting-up-payments-with-wompi
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the Wompi payment provider. With this connector, your store can make sales through credit and debit cards, bank transactions, Nequi and PSE (colombian payment systems) and banking correspondents.
+At VTEX, it is possible to integrate with the Wompi payment provider. With this provider, your store can make sales through credit and debit cards, bank transactions, Nequi and PSE (colombian payment systems) and banking correspondents.
 
-To configure Wompi affiliation, follow the steps below:
+To configure Wompi, follow the steps below:
 
 1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
 2. In the __Gateway affiliations__ tab, click on the __+__ button.
 3. Click on the __WompiCo__ connector.
 4. Click on __Authorize__. You will be redirected to the Wompi environment.
 5. In the Wompi environment, enter your Wompi account login and password, and click on __Vincular cuenta__. Follow the indicated instructions to complete the Wompi account linking with VTEX.
-6. After returning to VTEX Admin, click on __Save__.
+6. After returning to VTEX Admin, click `Save`.
 
 ## Setting up the payment condition
 

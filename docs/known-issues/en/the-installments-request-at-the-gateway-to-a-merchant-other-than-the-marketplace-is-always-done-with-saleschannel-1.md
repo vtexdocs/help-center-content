@@ -3,8 +3,8 @@ title: 'The installments request at the gateway to a merchant other than the mar
 id: Xo2YO6ZM9Jj0ONZjXrrrJ
 status: PUBLISHED
 createdAt: 2022-03-27T21:08:39.176Z
-updatedAt: 2022-11-25T22:05:55.885Z
-publishedAt: 2022-11-25T22:05:55.885Z
+updatedAt: 2024-02-16T20:29:17.920Z
+publishedAt: 2024-02-16T20:29:17.920Z
 firstPublishedAt: 2022-03-27T21:08:39.738Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: the-installments-request-at-the-gateway-to-a-merchant-other-than-the-marketplace-is-always-done-with-saleschannel-1
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 391197
 ---
 

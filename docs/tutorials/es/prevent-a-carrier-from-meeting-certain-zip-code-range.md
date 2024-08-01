@@ -3,8 +3,8 @@ title: '¿Cómo impedir que un transportista atienda cierto rango de códigos po
 id: 6GEYG5p9E4MOEy2qmY4uGa
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:39.807Z
-updatedAt: 2023-03-29T14:15:58.885Z
-publishedAt: 2023-03-29T14:15:58.885Z
+updatedAt: 2024-03-01T01:07:45.930Z
+publishedAt: 2024-03-01T01:07:45.930Z
 firstPublishedAt: 2019-01-24T22:03:33.994Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -33,3 +33,7 @@ Para ello, siga estos pasos:
 4. Cada una de estas líneas debe ser transformada en dos, de modo que el código postal 45920-000 sea ignorado. Por lo tanto, usted pasaría a tener: `ZipCodeStart` = __37900-001__ y `ZipCodeEnd` = __45919-999__ / `ZipCodeStart` = __45920-001__ y `ZipCodeEnd` = __97904-999__.
 
 Con ello, la planilla de flete pasaría a "saltar" el código postal 45920-000. Por lo tanto, ya no se consideraría como una opción de dirección atendida por ese transportista.
+
+<div class = "alert alert-info">
+Los ejemplos de códigos postales de este artículo se refieren a Brasil, cada país tiene su propio formato de código postal.
+</div>

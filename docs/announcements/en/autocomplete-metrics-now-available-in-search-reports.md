@@ -24,7 +24,7 @@ Previously it was only possible to see, and export reports on search results and
 <table width = "100%">
   <tr>
     <td>
-      <img src = "https:https://images.ctfassets.net/alneenqid6w5/34n3YHcet5J5gHNNLwLw3r/092ec32f2cc0c2f4fb8254b3327006fd/relatorios-filtros-EN.png" style = "display:block; margin-left: auto; margin-right: auto;" alt = "Opções de filtros do relatório" title = "Opções de filtros do relatório">
+      <img src = "https://images.ctfassets.net/alneenqid6w5/34n3YHcet5J5gHNNLwLw3r/092ec32f2cc0c2f4fb8254b3327006fd/relatorios-filtros-EN.png" style = "display:block; margin-left: auto; margin-right: auto;" alt = "Opções de filtros do relatório" title = "Opções de filtros do relatório">
     </td>
   </tr>
   <tr>

@@ -3,8 +3,8 @@ title: 'Configurações de preços'
 id: 3hbBtCzNUBrj8GaWgCtSWN
 status: PUBLISHED
 createdAt: 2020-10-14T18:43:49.750Z
-updatedAt: 2023-03-29T20:45:21.665Z
-publishedAt: 2023-03-29T20:45:21.665Z
+updatedAt: 2023-08-21T17:13:42.982Z
+publishedAt: 2023-08-21T17:13:42.982Z
 firstPublishedAt: 2020-10-22T19:38:48.506Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ legacySlug: configuracao-de-precos
 subcategory: 3O1NvPgBPqE0qU88MSQaie
 ---
 
-A página *Configuração de loja > Produto > Configuração de preços* no Admin VTEX permite alterar configurações gerais de precificação forma prática e rápida.
+A página **Configuração de loja > Produto > Configuração de preços** no Admin VTEX permite alterar configurações gerais de precificação forma prática e rápida.
 
 Você pode definir o markup padrão e o limite de variação de preço da sua loja. Aqui também é possível herdar preços da conta-pai e sobrescrever os preços de sellers com os da sua conta.
 

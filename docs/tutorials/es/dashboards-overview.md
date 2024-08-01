@@ -3,8 +3,8 @@ title: 'Vista General Dashboards'
 id: 1yn2nZUoXtDO3teTEJsCNl
 status: PUBLISHED
 createdAt: 2023-03-29T21:16:46.179Z
-updatedAt: 2023-03-29T21:18:04.195Z
-publishedAt: 2023-03-29T21:18:04.195Z
+updatedAt: 2024-06-19T15:30:06.441Z
+publishedAt: 2024-06-19T15:30:06.441Z
 firstPublishedAt: 2023-03-29T21:18:04.195Z
 contentType: tutorial
 productTeam: Others
@@ -23,5 +23,4 @@ La sección incluye las siguientes páginas, que ya son parte del Admin:
 
 - [Visión general](https://help.vtex.com/es/v4/docs/vision-general-de-la-tienda--6mcM4LPUqQxSiXY6uFtXZy): es donde los administradores de tiendas tienen acceso a las principales métricas que afectan a los ingresos de sus tiendas. En este panel, puedes seguir la evolución de tus ventas a través de los recursos de análisis de tendencias de pedidos, tasa de conversión y gráficos de embudo de ventas.  
 - [Desempeño de ventas](https://help.vtex.com/es/v4/docs/desempeno-de-ventas--6gx46RGRzWO8qgaVck7PRp): un panel diseñado para el comercio unificado que ayuda a las tiendas a hacer crecer su negocio y a tomar decisiones más precisas.  
-- [Rendimiento de páginas web](https://help.vtex.com/es/v4/docs/rendimiento-de-paginas-web--7DeyhX8cGtG9PtAGkL8zvc): incorpora la herramienta PageSpeed Insights de Google a tu Admin VTEX para permitirte hacer un seguimiento del rendimiento de las URL de tu ecommerce. 
 

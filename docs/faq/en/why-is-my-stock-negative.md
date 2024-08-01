@@ -3,8 +3,8 @@ title: 'Why is my inventory negative?'
 id: frequentlyAskedQuestions_159
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:51.880Z
-updatedAt: 2023-03-22T20:34:48.834Z
-publishedAt: 2023-03-22T20:34:48.834Z
+updatedAt: 2024-04-18T14:18:13.634Z
+publishedAt: 2024-04-18T14:18:13.634Z
 firstPublishedAt: 2017-04-27T23:01:42.612Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase

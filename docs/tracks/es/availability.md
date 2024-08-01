@@ -3,8 +3,8 @@ title: 'Disponibilidad'
 id: 7LMQbWK5nElIkXo0NK8Kux
 status: PUBLISHED
 createdAt: 2021-10-04T18:01:24.137Z
-updatedAt: 2021-10-04T18:18:56.501Z
-publishedAt: 2021-10-04T18:18:56.501Z
+updatedAt: 2023-12-07T19:28:15.731Z
+publishedAt: 2023-12-07T19:28:15.731Z
 firstPublishedAt: 2021-10-04T18:18:56.501Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -16,7 +16,7 @@ trackSlugES: vtex-intelligent-search
 
 Al elaborar un resultado de búsqueda, VTEX Intelligent Search tiene en cuenta la disponibilidad de cada producto encontrado en la búsqueda. Los productos disponibles siempre tendrán prioridad sobre los no disponibles en los resultados de búsqueda. 
 
-Al verificar la disponibilidad del producto, VTEX Intelligent Search utiliza el campo **Mostrar producto agotado** registrado en el [Catálogo](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR) para saber qué productos se mostrarán aunque no estén disponibles. Si la configuración del producto define que no se mostrará si está agotado, la plataforma lo situará al final del resultado de búsqueda. VTEX Intelligent Search también verifica si:
+Al verificar la disponibilidad del producto, VTEX Intelligent Search utiliza el campo **Mostrar producto agotado** registrado en el [Catálogo](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR) para saber qué productos se mostrarán aunque no estén disponibles. Si la configuración del producto determina que no debe mostrarse cuando esté fuera de stock, la plataforma no presentará el producto. Sin embargo, si la configuración indica que el producto debe mostrarse incluso cuando esté sin stock, la plataforma lo colocará al final de los resultados de búsqueda. VTEX Intelligent Search también verifica si:
 
 - El producto en cuestión está activo.
 - Al menos un SKU del producto está activo.

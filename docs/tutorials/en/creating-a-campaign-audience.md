@@ -3,8 +3,8 @@ title: 'Creating a campaign audience'
 id: 6cnuDZJzIkIeocewAQQK4K
 status: PUBLISHED
 createdAt: 2018-12-02T18:34:21.663Z
-updatedAt: 2023-03-31T13:38:38.613Z
-publishedAt: 2023-03-31T13:38:38.613Z
+updatedAt: 2023-10-31T19:23:55.713Z
+publishedAt: 2023-10-31T19:23:55.713Z
 firstPublishedAt: 2018-12-03T16:51:36.457Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -69,7 +69,7 @@ After clicking `Create New Target Audience`, you must follow the instructions be
     * **or:** The campaign audience will consist of customers fitting any target audience.
     * **and:** The campaign audience will consist of customers fitting all the target audiences, summing up all their criteria.
 
-![publico-alvo-e-ou-en](https://images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/655312e51c8e30a847cb012d4382de39/en-publico-alvo.gif)
+![publico-alvo-e-ou-en](//images.ctfassets.net/alneenqid6w5/2NrpuE4MN7q6qaHI6mkoCe/655312e51c8e30a847cb012d4382de39/en-publico-alvo.gif)
 
 ### Define your target audience
 
@@ -85,13 +85,12 @@ After clicking `Create New Target Audience`, you must follow the instructions be
 
 For example: The target audience includes items whose brand is **Nike**, as illustrated below. The configuration also indicates that at least 3 items must meet the criteria. Therefore, a customer must have at least **3** items in the shopping cart to be included in the target audience.
 
-![exemplo-marca-publico-alvo-en](https://images.ctfassets.net/alneenqid6w5/4Bot3XZUQJ4JkWJknpTxB2/7aeb73bd45e025ca84337c37d6800991/screencapture-lojadobreno-myvtex-admin-rnb-2022-07-21-18_10_40_1.png)
+![exemplo-marca-publico-alvo-en](//images.ctfassets.net/alneenqid6w5/4Bot3XZUQJ4JkWJknpTxB2/7aeb73bd45e025ca84337c37d6800991/screencapture-lojadobreno-myvtex-admin-rnb-2022-07-21-18_10_40_1.png)
 
 ### Conditions for your target audience to be applied
 
 * **Minimum order value:** Minimum value the items in the cart must have in total. The total considers the sum of the prices of cart items that meet all the campaign audience criteria.
 * **Maximum order value:** Maximum value the items in the cart must have in total. This total considers the sum of the prices of cart items that meet all the campaign audience criteria.
-* **Use history in promotion:** Allows the customer purchase history to be taken into consideration when evaluating whether they fit in the target audience. When checked, this option requires you to set a time frame for considering the purchase history. You can add specific dates or count the days from the submission date.
 * **Item price between __ and __:** Minimum and maximum price for each item in the cart. The campaign audience will be activated if the item value is within the range of the set values.
 * **Use restriction BINs:** The campaign audience will be activated if the credit card _Bank Identification Number_ (BIN) corresponds to the filled-in characters. The BIN refers to the first 6 or 8 digits on a credit card and is used to identify the bank and the card label.
 * **Marketing Tags:**: this field prevents activating the campaign audience if the purchase is made using the [VTEX Subscriptions module](https://help.vtex.com/en/tutorial/how-subscriptions-work--frequentlyAskedQuestions_4453).

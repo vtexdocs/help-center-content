@@ -3,8 +3,8 @@ title: 'Lista de Promoções'
 id: 4yB7nNdliiFxBTXE19GCIi
 status: PUBLISHED
 createdAt: 2022-05-05T13:39:53.273Z
-updatedAt: 2023-03-02T15:34:23.200Z
-publishedAt: 2023-03-02T15:34:23.200Z
+updatedAt: 2023-07-24T13:34:09.177Z
+publishedAt: 2023-07-24T13:34:09.177Z
 firstPublishedAt: 2022-05-05T13:52:17.590Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -30,7 +30,7 @@ A página apresenta a lista com as promoções cadastradas na sua loja e suas in
 | `Até` | Data de término da promoção. |
 | `Status` | Status da promoção, que pode estar: <p> __Ativa:__ quando a promoção está ativada.</p> <p>__Programada:__ quando a promoção foi programada.</p> <p>__Pausada:__ quando a promoção estiver pausada. <p>__Finalizada:__ quando a promoção foi encerrada.</p> |
 
-![listadepromocoes pt](https://images.ctfassets.net/alneenqid6w5/3vT0P63t0Kvm2heipqfpsT/5f4e74dae8d76243d8214588c2db247a/listadepromocoes_pt.gif)
+![listadepromocoes pt](//images.ctfassets.net/alneenqid6w5/3vT0P63t0Kvm2heipqfpsT/5f4e74dae8d76243d8214588c2db247a/listadepromocoes_pt.gif)
 
 Você pode ordenar a exibição das promoções a partir do nome, das datas ou do status da promoção. Para isso, clique no título da coluna com a informação que você deseja utilizar como critério de ordenação.
 
@@ -82,7 +82,7 @@ O arquivo contém as seguintes informações sobre cada promoção:
 
 ## Uso das promoções
 
-![usodaspromoções pt](https://images.ctfassets.net/alneenqid6w5/6kpAz3b5vxOjIb8o9Aouxe/2c9b92564afeadbeb777b04813fbe0fa/usodaspromo____es_pt.JPG)
+![usodaspromoções pt](//images.ctfassets.net/alneenqid6w5/6kpAz3b5vxOjIb8o9Aouxe/2c9b92564afeadbeb777b04813fbe0fa/usodaspromo____es_pt.JPG)
 
 Para visualizar o total de promoções ativas na sua loja e a cota de espaço restante para novas promoções, clique em `Uso das promoções`.
 
@@ -90,7 +90,7 @@ O número máximo padrão de promoções ativas é 100. Caso precise aumentar es
 
 ## Filtrar promoções
 
-![filtrodepromocoes pt](https://images.ctfassets.net/alneenqid6w5/3flpyzIkBlYDiuhYLea8nu/6e57eb53961b821b54233964711fe4d4/filtrodepromocoes_pt.gif)
+![filtrodepromocoes pt](//images.ctfassets.net/alneenqid6w5/3flpyzIkBlYDiuhYLea8nu/6e57eb53961b821b54233964711fe4d4/filtrodepromocoes_pt.gif)
 
 A lista de promoções pode ser filtrada conforme a sua necessidade. A filtragem da lista pode ser feita pelos filtros a seguir: 
 
@@ -106,7 +106,7 @@ Selecione os filtros desejados e clique em `Aplicar` para filtrar as promoções
 
 Ao clicar no ícone <i class="fas fa-ellipsis-v"></i> de uma promoção, você pode realizar as seguintes ações:
 
-- <i class="far fa-times-circle"></i> __Editar:__ editar a promoção.
+- <i class="fas fa-pencil-alt"></i> __Editar:__ editar a promoção.
 - <i class="far fa-check-circle"></i> __Ativar:__ ativar a promoção.
 - <i class="far fa-clone"></i> __Duplicar:__ criar uma cópia da promoção.
 - <i class="fas fa-archive"></i> __Arquivar:__ arquivar a promoção. A promoção será movida automaticamente para a página *[Promoções arquivadas](#promocoes-arquivadas)*.

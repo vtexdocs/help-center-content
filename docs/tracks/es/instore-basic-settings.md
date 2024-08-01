@@ -3,8 +3,8 @@ title: 'VTEX Sales App - Configuración básica'
 id: 4L5SoLxE8O3YkxF7FKymrO
 status: PUBLISHED
 createdAt: 2020-06-28T13:51:53.895Z
-updatedAt: 2023-05-31T15:55:29.064Z
-publishedAt: 2023-05-31T15:55:29.064Z
+updatedAt: 2023-07-26T18:42:22.814Z
+publishedAt: 2023-07-26T18:42:22.814Z
 firstPublishedAt: 2020-06-28T14:01:36.462Z
 contentType: trackArticle
 productTeam: Shopping
@@ -17,7 +17,7 @@ trackSlugES: instore-primeros-pasos-y-configuracion
 VTEX Sales App es uno de los principales productos de VTEX para las operaciones de [comercio unificado](https://help.vtex.com/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv). Es una aplicación que permite a tu tienda ofrecer una verdadera experiencia <i>omnichannel</i>, integrando perfectamente tus canales <i>online</i> y físicos y poniendo a tus clientes en el centro del negocio.
 
 <div class="alert alert-info">
-<p>Comprueba que tu tienda cumple todos los <a href="https://help.vtex.com/pt/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u">requisitos para utilizar inStore</a> antes de empezar a configurarla.</p>
+<p>Comprueba que tu tienda cumple todos los <a href="https://help.vtex.com/pt/tracks/instore-primeiros-passos--6N0QlieWqboSVU2ehgAVAb/1wtAanSRA3g2316dw7bw8u">requisitos para utilizar VTEX Sales App</a> antes de empezar a configurarla.</p>
 </div>
 
 Para utilizar VTEX Sales App, debes seguir los pasos descritos a continuación en tu cuenta principal.
@@ -78,7 +78,7 @@ Si decides `Saltar este paso`, se creará un vendedor ficticio con el email `ins
 
 ### Configurar métodos de pago
 
-El siguiente paso es configurar los métodos de pago que aceptarás en inStore. Activa las opciones deseadas utilizando el botón <i class="fas fa-toggle-on"></i> como se ilustra a continuación.
+El siguiente paso es configurar los métodos de pago que aceptarás en VTEX Sales App. Activa las opciones deseadas utilizando el botón <i class="fas fa-toggle-on"></i> como se ilustra a continuación.
 
 ![configurar-meios-de-pagamento-pt](//images.contentful.com/alneenqid6w5/3kjTg7Y2tUI5UErQBsGc02/5174724afd2987a4b8f578c1d74b87b9/configurar-meios-de-pagamento-pt.gif)
 
@@ -93,7 +93,7 @@ Después de seleccionar las opciones deseadas, haz clic en `Confirmar`. Verás e
 
 ## Configurar condiciones de pago
 
-Después de realizar la configuración básica, debes configurar las condiciones de pago para inStore en el módulo de **Pagos**. Para ello, lee la guía [Configurar métodos de pago para inStore](https://help.vtex.com/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
+Después de realizar la configuración básica, debes configurar las condiciones de pago para VTEX Sales App en el módulo de **Pagos**. Para ello, lee la guía [Configurar métodos de pago para inStore](https://help.vtex.com/pt/tracks/instore-pagamentos--43B4Nr7uZva5UdwWEt3PEy).
 
 ## Configurar logística
 

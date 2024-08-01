@@ -3,8 +3,8 @@ title: 'Importar imagens por planilha'
 id: tutorials_262
 status: PUBLISHED
 createdAt: 2017-04-27T22:11:24.581Z
-updatedAt: 2023-03-29T17:46:11.384Z
-publishedAt: 2023-03-29T17:46:11.384Z
+updatedAt: 2024-03-04T22:25:58.399Z
+publishedAt: 2024-03-04T22:25:58.399Z
 firstPublishedAt: 2017-04-27T23:03:11.506Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -57,11 +57,11 @@ A seguir, explicamos o preenchimento de cada campo da planilha de importação d
 <p>Este campo é obrigatório. Não é permitido o uso de caracteres especiais, pontos no nome da imagem ou acentos.</p>
 </div>
 
-Este campo precisa ser preenchido com a URL da imagem a ser associada ao SKU, que deve estar pública e hospedada em um servidor FTP, de onde se origina o link da imagem. A URL deve obrigatoriamente iniciar com o identificador de protocolo HTTPS (`https://`) e terminar com a extensão do arquivo (`.jpg`, `.png` ou `.gif`). Exemplo: `https://www.exemploimagem.com.br/imagem03/teste01/exemplo15.jpg`.
+Este campo precisa ser preenchido com a URL da imagem a ser associada ao SKU, que deve estar pública e hospedada em um servidor FTP, de onde se origina o link da imagem. A URL deve obrigatoriamente iniciar com o identificador de protocolo HTTP (`http://`) e terminar com a extensão do arquivo (`.jpg`, `.png` ou `.gif`). Exemplo: `http://www.exemploimagem.com.br/imagem03/teste01/exemplo15.jpg`.
 
-Para evitar erros, é importante verificar se a URL da imagem inserida na planilha está completa, incluindo desde o `https://` até a extensão do arquivo. Caso contrário, o sistema não conseguirá acessar a URL e a imagem não será importada.
+Para evitar erros, é importante verificar se a URL da imagem inserida na planilha está completa, incluindo desde o `http://` até a extensão do arquivo. Caso contrário, o sistema não conseguirá acessar a URL e a imagem não será importada.
 
-Você não precisa ter um servidor FTP próprio para enviar as URLs das imagens. É possível hospedar esses dados em sites gratuitos e em servidores FTP externos ou internos, desde que utilizem o protocolo de segurança HTTPS.
+Você não precisa ter um servidor FTP próprio para enviar as URLs das imagens. É possível hospedar esses dados em sites gratuitos e em servidores FTP externos ou internos, desde que utilizem o protocolo de segurança HTTP.
 
 Além disso, para verificar se as URLs estão corretas, você pode utilizar um serviço externo, o qual verifica se estas são válidas.
 

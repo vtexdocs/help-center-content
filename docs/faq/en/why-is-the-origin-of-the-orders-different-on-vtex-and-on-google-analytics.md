@@ -1,10 +1,10 @@
 ---
 title: 'Why is the origin of the orders different on VTEX and on Google Analytics?'
 id: frequentlyAskedQuestions_5030
-status: PUBLISHED
+status: DRAFT
 createdAt: 2017-04-27T22:22:57.838Z
-updatedAt: 2019-12-31T14:24:58.529Z
-publishedAt: 2019-12-31T14:24:58.529Z
+updatedAt: 2023-06-21T22:44:36.086Z
+publishedAt: 
 firstPublishedAt: 2017-04-27T23:02:44.531Z
 contentType: frequentlyAskedQuestion
 productTeam: Identity

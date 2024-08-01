@@ -3,8 +3,8 @@ title: 'Search configuration'
 id: 5t75L6lYNwix93l41s1Yrx
 status: PUBLISHED
 createdAt: 2020-08-17T19:50:20.729Z
-updatedAt: 2023-03-30T19:37:35.404Z
-publishedAt: 2023-03-30T19:37:35.404Z
+updatedAt: 2024-04-25T17:06:18.124Z
+publishedAt: 2024-04-25T17:06:18.124Z
 firstPublishedAt: 2020-09-28T20:51:58.291Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -14,25 +14,38 @@ trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugEN: vtex-intelligent-search
 ---
 
-Search configuration comprises all VTEX Intelligent Search global settings. It consists of two sections: [General Settings](#general-settings) and [Facet Settings](#facet-settings).
+The **Search Settings** page comprises the VTEX Intelligent Search general settings. To access it in the VTEX Admin, go to **Store Settings > Intelligent Search > Search Settings**. The page is divided into two sections: [General Settings](#general-settings) and [Facet Settings](#facet-settings).
 
 ## General settings
-These are the settings that handle the totality of VTEX Intelligent Search. This feature is composed by the following option:
-Use SKU specifications to display individual products in search results: defines which specifications will be used to separate SKUs in search results. 
 
-Suppose you have a product available in two different colors: blue and red. If you select the attribute "color" in this field, the search result will return two different products (one blue and one red) instead of only one product.
-To configure this field, click on the drop-down arrow and select the specifications you want to add.
+The general settings display the following options related to[ product and SKU specifications](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP):
 
-For more information, read [this article](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5uVxuWxTA8VvLX3G8UCcUE#).
+* **Use SKU specifications to display individual products in search results**: Defines which specifications will sort the SKUs in the search results.
 
-![General configuration Intelligent Search V4](https://images.ctfassets.net/alneenqid6w5/41W9W07VVWur0rAxScJG9e/936118514a133901d11e4e52ef1fe7b7/general_settings_right_2.png)
+    Suppose you have a product available in two colors: blue and red. If you select the attribute "color" in this field, the search result will return two products (one blue and one red) instead of only one product.
+
+    To configure this field, click the dropdown arrow and select the specifications you want to add.
+
+    Check the guide [Detaching SKUs by specification](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5uVxuWxTA8VvLX3G8UCcUE) for more details on this configuration behavior.
+
+* **Searchable specifications:** Determines which product specifications can be searched by the search engine.
+
+    For example, if a shirt doesn't have a color in the product name or SKU, by default, Intelligent Search won't identify this attribute in the search results for "blue shirt", returning shirts of different colors. However, if the color specification is set as searchable, the search can return blue shirts in the top results.
 
 ## Facet settings
-Using the intelligent search on Admin V4, you are able to edit your search’s facet. The available configurations are:
 
-- **Facet order:** order in which the filters will be displayed in the store. If you do not have any facet selected, the default order will be alphabetical. To add a facet, click on `Add`, select a filter and click on `Save`. You can change the sorting by dragging the three stacked lines icon. You can also click the trash button <i class="fa-solid fa-trash-can"></i> to delete the facet.
-- **Hide facets:** option that allows you to hide certain filters in the store. To hide a filter, click on the dropdown menu and select it.
+The facet settings have settings related to the[ filters](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/50Dh4mpv0Sax0XpbvsjAtP) displayed to your customers during the search:
 
-![Facet configurations](https://images.ctfassets.net/alneenqid6w5/mSm3lqR5H5pTn1AVrhYk8/2f421fca7b4914deb993bb84e731a2d7/facet_settings_admin_v4.png)
+![Facet configurations](//images.ctfassets.net/alneenqid6w5/mSm3lqR5H5pTn1AVrhYk8/2f421fca7b4914deb993bb84e731a2d7/facet_settings_admin_v4.png)
 
-For more information, read [this article](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/50Dh4mpv0Sax0XpbvsjAtP) about **Filters**.
+* **Facet order:** Order in which the facets will be displayed in the store. If no facet is selected, the default order is alphabetical.
+
+    To add a facet, click `Add`, select the facet, and click `Save` to confirm.
+
+    You can change the order by dragging the three-bar icon <i class="fas fa-grip-vertical"></i> on each facet to the desired position.
+
+    To delete a facet, click the trash can icon <i class="fas fa-trash-alt"></i>.
+
+* **Hide facets:** Option that allows you to hide certain facets in the store. To hide a facet, click the dropdown menu and select the facet you want to hide.
+
+    To redisplay a facet, click the X next to its name. If you want to show all the previously hidden facets again, click the X on the right side of the field.

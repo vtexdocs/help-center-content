@@ -3,8 +3,8 @@ title: 'Seller Portal: Productos Compartidos'
 id: 6vUGj2UmOuLzQTK9pj04lu
 status: PUBLISHED
 createdAt: 2021-02-02T20:31:40.476Z
-updatedAt: 2023-03-31T15:18:11.408Z
-publishedAt: 2023-03-31T15:18:11.408Z
+updatedAt: 2023-11-22T14:00:41.976Z
+publishedAt: 2023-11-22T14:00:41.976Z
 firstPublishedAt: 2021-09-15T20:52:51.767Z
 contentType: tutorial
 productTeam: Channels
@@ -14,6 +14,9 @@ locale: es
 legacySlug: seller-portal-productos-compartidos
 subcategory: 4hisB47iAVZk4r3SEmMoG
 ---
+
+
+<div class="alert alert-warning"> El límite para cada cuenta en el Seller Portal es de 100 mil productos. Para obtener más información, póngase en contacto con <a href="https://support.vtex.com/hc/pt-br/requests">nuestro equipo de soporte.</div>
 
 **Productos compartidos** es el módulo donde usted gestiona los productos en común entre su catálogo y lo que ya se oferta en el marketplace. El panel de productos compartidos informa todos los productos que el marketplace ha puesto a disposición de su tienda para venta. Son productos sincronizados con el catálogo del marketplace. 
 
@@ -26,7 +29,7 @@ Para acceder a la funcionalidad «Productos compartidos», acceda a la pestaña 
 
 ## Importados
 
-![Shared products Importados EN](https://images.ctfassets.net/alneenqid6w5/2mmTwK1Kn3g8TPOICMMMk8/cde09ee87d8f119009fbc0b8cb8c5fef/Shared_products_Importados_ES.jpg)
+![Shared products Importados EN](//images.ctfassets.net/alneenqid6w5/2mmTwK1Kn3g8TPOICMMMk8/cde09ee87d8f119009fbc0b8cb8c5fef/Shared_products_Importados_ES.jpg)
 
 La pestaña «Importados» reúne los productos del catálogo del marketplace que ya han sido importados por el seller, es decir, que ya pueden convertirse en anuncios. La lista contiene una barra de búsqueda que permite buscar productos por nombre o SKU. А través de esta pestaña se activan los productos.  
 
@@ -36,7 +39,7 @@ Al hacer clic en un producto de la lista, accederá a la página [Detalles del P
 
 ## Disponibles
 
-![Shared products Disponíveis ES](https://images.ctfassets.net/alneenqid6w5/1MIr5t82Ncx9ssV5oT2eyw/0568df604b5d3754bd8f3b802dd646b1/Shared_products_Dispon__veis_ES.jpg)
+![Shared products Disponíveis ES](//images.ctfassets.net/alneenqid6w5/1MIr5t82Ncx9ssV5oT2eyw/0568df604b5d3754bd8f3b802dd646b1/Shared_products_Dispon__veis_ES.jpg)
 
 La pestaña «Disponibles» reúne los productos del catálogo del marketplace que se han puesto a disposición del seller para su venta y que aún no se han incorporado a su catálogo. Puede filtrar los productos disponibles por marca o categoría para agilizar el proceso de importación de los productos seleccionados. 
 

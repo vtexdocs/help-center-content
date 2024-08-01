@@ -3,8 +3,8 @@ title: 'Services prices are not updated when added to items'
 id: 5hJ7TbHzX4zFbdNWqPnMRQ
 status: PUBLISHED
 createdAt: 2023-05-09T14:27:37.283Z
-updatedAt: 2023-05-09T14:27:37.766Z
-publishedAt: 2023-05-09T14:27:37.766Z
+updatedAt: 2023-06-23T18:37:32.624Z
+publishedAt: 2023-06-23T18:37:32.624Z
 firstPublishedAt: 2023-05-09T14:27:37.766Z
 contentType: knownIssue
 productTeam: Checkout

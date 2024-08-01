@@ -3,8 +3,8 @@ title: 'Scheduled delivery'
 id: 22g3HAVCGLFiU7xugShOBi
 status: PUBLISHED
 createdAt: 2021-04-19T13:26:44.564Z
-updatedAt: 2021-10-27T16:49:43.778Z
-publishedAt: 2021-10-27T16:49:43.778Z
+updatedAt: 2024-03-25T19:12:45.519Z
+publishedAt: 2024-03-25T19:12:45.519Z
 firstPublishedAt: 2021-05-24T17:01:23.885Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -20,6 +20,10 @@ The scheduled delivery feature allows you to set delivery time frames so that th
 The delivery time frames that are available to customers are called delivery windows and are directly related to your store's Shipping Policies. It means that when offering scheduled deliveries, you must consider whether your shipping policy includes this service.
 
 If this is the case, you can enable scheduled deliveries by configuring delivery windows and setting the delivery capacity for each of them. To do that, access the Scheduled delivery section on the Shipping Policy page.
+
+<div class="alert alert-warning">
+For <a href="https://help.vtex.com/en/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi">Scheduled delivery</a> and <a href="https://help.vtex.com/en/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz">Delivery capacity</a> to perform correctly, you must follow the rules below:<p><ul><li>The result from {<a href="https://help.vtex.com/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC">account name</a>} + {shipping policy ID} cannot exceed 60 characters.</li><li>Do not use spaces in <a href="https://help.vtex.com/en/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT">shipping policy IDs</a>.</li></ul></p>
+</div>
 
 Once you've enabled the __Scheduled Delivery__ feature in the Shipping Policy, you can fill in the fields that will determine how it will work. Fill them to define the [maximum delivery time](#maximum-delivery-time), the [delivery window](#delivery-window), and the [delivery capacity limit](#delivery-capacity).
 

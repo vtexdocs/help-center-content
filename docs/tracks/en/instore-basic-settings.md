@@ -3,8 +3,8 @@ title: 'VTEX Sales App - Basic settings'
 id: 4L5SoLxE8O3YkxF7FKymrO
 status: PUBLISHED
 createdAt: 2020-06-28T13:51:53.895Z
-updatedAt: 2023-05-31T15:55:29.064Z
-publishedAt: 2023-05-31T15:55:29.064Z
+updatedAt: 2023-07-26T18:42:22.814Z
+publishedAt: 2023-07-26T18:42:22.814Z
 firstPublishedAt: 2020-06-28T14:01:36.462Z
 contentType: trackArticle
 productTeam: Shopping

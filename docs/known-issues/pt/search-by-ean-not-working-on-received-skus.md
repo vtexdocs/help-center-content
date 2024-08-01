@@ -1,36 +1,47 @@
 ---
-title: 'Search by EAN not working on Received Skus'
+title: 'A pesquisa por EAN não está funcionando em Skus recebidos'
 id: PKdNXxjVPFbJbVBSTFvep
-status: DRAFT
+status: PUBLISHED
 createdAt: 2022-01-26T19:24:01.975Z
-updatedAt: 2022-01-31T18:31:27.337Z
-publishedAt: 
+updatedAt: 2024-02-16T20:24:48.686Z
+publishedAt: 2024-02-16T20:24:48.686Z
 firstPublishedAt: 2022-01-26T19:25:13.218Z
 contentType: knownIssue
 productTeam: Marketplace
 author: 2mXZkbi0oi061KicTExNjo
-tag: 
-slug: search-by-ean-not-working-on-received-skus
+tag: Marketplace
+slug: a-pesquisa-por-ean-nao-esta-funcionando-em-skus-recebidos
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 510907
 ---
 
 ## Sumário
 
-<div class="alert alert-warning">
-  <p>Este conteúdo só está disponível em Inglês.</p>
+<div class="alert alert-info">
+  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
 </div>
+
+
+O recurso de pesquisa Received Skus permite que o marketplace pesquise um produto ou sku pelos seguintes critérios:
+- Nome do Sku;
+- ID;
+- EAN.
+
+Atualmente, a pesquisa de EAN não está se comportando como esperado, não fornecendo nenhum resultado.
 
 ## Simulação
 
-<div class="alert alert-warning">
-  <p>Este conteúdo só está disponível em Inglês.</p>
-</div>
+
+Tente encontrar um sku pesquisando-o usando seu EAN.
+O resultado deve ser a sku em vez de uma área em branco
 
 ## Workaround
 
-<div class="alert alert-warning">
-  <p>Este conteúdo só está disponível em Inglês.</p>
-</div>
+
+Use os outros critérios de pesquisa, como Sku Name ou ID.
+
+
+
+
 

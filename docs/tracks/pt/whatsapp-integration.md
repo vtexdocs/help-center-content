@@ -1,10 +1,10 @@
 ---
 title: 'Integração com o WhatsApp'
 id: 33sM0SVrwffWhAhAgiGrZb
-status: PUBLISHED
+status: DRAFT
 createdAt: 2022-08-23T15:11:28.551Z
-updatedAt: 2023-04-25T20:26:48.598Z
-publishedAt: 2023-04-25T20:26:48.598Z
+updatedAt: 2024-01-05T17:14:09.083Z
+publishedAt: 
 firstPublishedAt: 2022-08-23T17:47:05.529Z
 contentType: trackArticle
 productTeam: Shopping
@@ -45,7 +45,7 @@ Além de enviar essas informações, o administrador deve autorizar via [Gerenci
 Recomendamos também [verificar a sua loja junto à Meta](https://www.facebook.com/business/help/1095661473946872?id=180505742745347). Essa etapa é opcional para a integração, mas é obrigatória caso:
 
 * Você deseje iniciar conversas, como aviso de rastreio de produtos, para seus clientes pelo WhatsApp.
-* Você deseje que sua conta comercial seja [oficial](https://developers.facebook.com/micro_site/url/?click_from_context_menu=true&country=BR&destination=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fwhatsapp%2Foverview%2Fbusiness-accounts%2F%3Ftranslation%23official-business-account&event_type=click&last_nav_impression_id=0txQ0CoZfJfxi7cez&max_percent_page_viewed=44&max_viewport_height_px=869&max_viewport_width_px=1794&orig_http_referrer=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fwhatsapp%2Foverview%2Fbusiness-accounts%2F%3Ftranslation&orig_request_uri=https%3A%2F%2Fdevelopers.facebook.com%2Fajax%2Fdocs%2Fnav%2F%3Ftranslation%26path1%3Dwhatsapp%26path2%3Doverview%26path3%3Dbusiness-accounts&region=latam&scrolled=true&session_id=2nAsnwfEzmFrzLZoM&site=developers), que permite exibir o nome da loja em vez do número de telefone na lista e com o selo <img src="https://images.ctfassets.net/alneenqid6w5/4DNjQiVYTI24Wjt3t9CRfG/8e1ec0ab6bb167b4ff0de2547243354f/101835379_284952909300321_643050663994982400_n.png" alt="selo oficial whatsapp" width="25"/>.
+* Você deseje que sua conta comercial seja [oficial](https://developers.facebook.com/micro_site/url/?click_from_context_menu=true&country=BR&destination=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fwhatsapp%2Foverview%2Fbusiness-accounts%2F%3Ftranslation%23official-business-account&event_type=click&last_nav_impression_id=0txQ0CoZfJfxi7cez&max_percent_page_viewed=44&max_viewport_height_px=869&max_viewport_width_px=1794&orig_http_referrer=https%3A%2F%2Fdevelopers.facebook.com%2Fdocs%2Fwhatsapp%2Foverview%2Fbusiness-accounts%2F%3Ftranslation&orig_request_uri=https%3A%2F%2Fdevelopers.facebook.com%2Fajax%2Fdocs%2Fnav%2F%3Ftranslation%26path1%3Dwhatsapp%26path2%3Doverview%26path3%3Dbusiness-accounts&region=latam&scrolled=true&session_id=2nAsnwfEzmFrzLZoM&site=developers), que permite exibir o nome da loja em vez do número de telefone na lista e com o selo <img src="//images.ctfassets.net/alneenqid6w5/4DNjQiVYTI24Wjt3t9CRfG/8e1ec0ab6bb167b4ff0de2547243354f/101835379_284952909300321_643050663994982400_n.png" alt="selo oficial whatsapp" width="25"/>.
 
 ## Criação pelo cliente via Admin VTEX
 
@@ -62,16 +62,16 @@ Após a instalação do aplicativo, a VTEX compartilhará a URL do Admin do Conv
 Com essas informações, siga os passos abaixo:
 
 1. Acesse o Admin VTEX via URL enviada pelo time de suporte. Você será encaminhado para a tela abaixo:
-![Track 101 - Conversational Commerce 1 - PT](https://images.ctfassets.net/alneenqid6w5/Zg2VTR41pSMleFi6bpcLT/cf9fb66691f9ec8f18a184099c70f3bf/Screenshot_2022-10-04_at_18-05-46_Track_101_-_Conversational_Commerce.png)
+![Track 101 - Conversational Commerce 1 - PT](//images.ctfassets.net/alneenqid6w5/Zg2VTR41pSMleFi6bpcLT/cf9fb66691f9ec8f18a184099c70f3bf/Screenshot_2022-10-04_at_18-05-46_Track_101_-_Conversational_Commerce.png)
 2. Clique no botão `Configurar conta WhatsApp Business`.
 3. Uma janela do Facebook será aberta para configuração. Efetue o login com o perfil de Administração do Business Manager desejado.
 4. Selecione a opção `Criar uma conta WhatsApp Business`.
 5. Insira o nome da conta que será exibido como nome do perfil no WhatsApp.
 6. Selecione a categoria e cadastre a descrição da conta. 
-![Track 101 - Conversational Commerce 2 - PT](https://images.ctfassets.net/alneenqid6w5/1DbUwuYgXSleNYBzDnS72n/e935883f195905d78f9c2209b1cc324b/Screenshot_2022-10-04_at_18-07-00_Track_101_-_Conversational_Commerce.png)
+![Track 101 - Conversational Commerce 2 - PT](//images.ctfassets.net/alneenqid6w5/1DbUwuYgXSleNYBzDnS72n/e935883f195905d78f9c2209b1cc324b/Screenshot_2022-10-04_at_18-07-00_Track_101_-_Conversational_Commerce.png)
 7. Verifique o número de telefone a ser associado à conta por meio do código enviado para o telefone.
 8. Notifique o suporte da VTEX para finalizar a configuração.
 
 Uma vez que a configuração seja concluída, o alerta abaixo será exibido no Admin. 
 
-![Track 101 - Conversational Commerce 3 - PT](https://images.ctfassets.net/alneenqid6w5/3RkQDfGaL3r5KV7j8uTXRH/6f32bb6973f7762a6eb06f12cd596e32/Screenshot_2022-10-04_at_18-07-47_Track_101_-_Conversational_Commerce.png)
+![Track 101 - Conversational Commerce 3 - PT](//images.ctfassets.net/alneenqid6w5/3RkQDfGaL3r5KV7j8uTXRH/6f32bb6973f7762a6eb06f12cd596e32/Screenshot_2022-10-04_at_18-07-47_Track_101_-_Conversational_Commerce.png)

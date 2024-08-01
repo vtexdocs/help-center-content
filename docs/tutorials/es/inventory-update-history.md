@@ -3,8 +3,8 @@ title: '​​Historial de movimientos del stock'
 id: 5AM7xbmMzmKSEQewakamc2
 status: PUBLISHED
 createdAt: 2017-08-01T15:03:08.876Z
-updatedAt: 2023-03-29T19:59:22.057Z
-publishedAt: 2023-03-29T19:59:22.057Z
+updatedAt: 2024-04-02T18:24:14.768Z
+publishedAt: 2024-04-02T18:24:14.768Z
 firstPublishedAt: 2017-08-01T15:06:58.792Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -31,11 +31,13 @@ Para ver los movimientos de un SKU:
 2. Selecciona el SKU deseado. Para aprender a utilizar los filtros y realizar una búsqueda, consulta el artículo [Gestión del stock](https://help.vtex.com/es/tutorial/gestionar-items-en-inventario--tutorials_139).
 3. En la columna **Última actualización**, haz clic en el número en azul;
 4. Se abrirá la ventana **Registro de actualizaciones** con todos los cambios. Cada fila corresponde a una actualización, y las columnas contienen:
-    * El usuario que realizó el cambio.      
-    * La fecha y hora de la última actualización.
-    * La cantidad de ítems antes y después de la actualización.
+  * El usuario que realizó el cambio.      
+  * La fecha y hora de la última actualización.
+  * La cantidad de ítems antes de la actualización.
+  * La cantidad de ítems después de la actualización.
 
 <div class="alert alert-warning">
 Solo puedes consultar las últimas 50 actualizaciones en el registro de actualizaciones de un determinado SKU.
 </div>
 
+La cantidad total de ítems en la página [Gestión de stock](https://help.vtex.com/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) se actualiza en tiempo real, pero puede haber un retraso de hasta 1 hora para que la información aparezca en el historial de movimientos.

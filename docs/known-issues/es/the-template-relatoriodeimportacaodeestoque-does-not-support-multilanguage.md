@@ -3,8 +3,8 @@ title: 'La plantilla "relatorio-de-importacao-de-estoque" no admite el multiling
 id: 5R8b0jnibOQdXupo0hIyts
 status: PUBLISHED
 createdAt: 2022-05-25T18:25:43.394Z
-updatedAt: 2022-11-25T21:59:26.792Z
-publishedAt: 2022-11-25T21:59:26.792Z
+updatedAt: 2024-02-16T20:24:28.851Z
+publishedAt: 2024-02-16T20:24:28.851Z
 firstPublishedAt: 2022-05-25T18:25:43.976Z
 contentType: knownIssue
 productTeam: Logistics
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: la-plantilla-relatoriodeimportacaodeestoque-no-admite-el-multilinguismo
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 585906
 ---
 

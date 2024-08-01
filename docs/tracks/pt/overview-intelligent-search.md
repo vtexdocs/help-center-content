@@ -1,10 +1,10 @@
 ---
 title: 'Intelligent Search'
 id: 3qgT47zY08biLP3d5os3DG
-status: PUBLISHED
+status: CHANGED
 createdAt: 2020-03-05T14:47:05.068Z
-updatedAt: 2023-04-13T22:52:19.619Z
-publishedAt: 2023-04-13T22:52:19.619Z
+updatedAt: 2023-08-22T17:03:02.484Z
+publishedAt: 2023-08-22T17:01:21.074Z
 firstPublishedAt: 2020-03-05T19:53:38.701Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -14,6 +14,10 @@ trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugPT: vtex-intelligent-search
 ---
 
+<div class="alert alert-info" role="alert"><p>
+Este app só está disponível para lojas desenvolvidas usando VTEX IO. Antes de prosseguir, é preciso instalar e configurar o Intelligent Search na sua loja.</p>
+</div>
+
 O Intelligent Search é uma plataforma de busca inteligente para o comércio digital. Ele é uma solução de busca nativa da plataforma VTEX, auxiliando o cliente em toda sua jornada de compra, independente do canal (website, mobile app, conversational, etc). 
 
 De forma simples e intuitiva, ele apresenta resultados relevantes com base no catálogo desde a primeira interação do usuário com a loja, seja através da barra de busca, navegando pelas categorias, ou mesmo através das vitrines de produtos.
@@ -22,9 +26,7 @@ A ferramenta ainda conta com funcionalidades como o autocomplete, exibindo suges
 
 Além disso, o Intelligent Search utiliza dados históricos de cliques e pedidos para melhorar a busca dinamicamente, bem como possui a capacidade de lidar com erros ortográficos, plural/singular, gênero (radical). Por fim, conta com configurações que possibilitam tanto melhorar a experiência do cliente, quanto atender as necessidades de negócio do comerciante.
 
-<div class="alert alert-info" role="alert"><p>
-Esta app só está disponível para lojas desenvolvidas usando VTEX IO. Antes de prosseguir, é preciso instalar e configurar o Intelligent Search na sua loja.</p>
-</div>
+O VTEX Intelligent Search suporta os seguintes idiomas: Alemão, Árabe, Armênio, Basco, Bengali, Búlgaro, Catalão, Chinês, Coreano, Dinamarquês, Espanhol, Estoniano, Finlandês, Francês, Galego, Grego, Hindi, Holandês, Húngaro, Indonésio, Inglês, Irlandês, Italiano, Japonês, Letão, Lituano, Norueguês, Persa, Polonês, Português, Português do Brasil, Romeno, Russo, Sorani, Sueco, Tailandês, Tcheco, Turco e Urdu.
 
 Nos artigos mencionados abaixo, você encontrará uma visão geral sobre cada funcionalidade do Intelligent Search.
 
@@ -36,4 +38,4 @@ Nos artigos mencionados abaixo, você encontrará uma visão geral sobre cada fu
 - **Relevância**: Relevância é uma funcionalidade que define a ordem dos produtos no resultado de busca. 
 - **Redirecionamentos**: Redirecionamentos é uma funcionalidade que direciona o cliente para qualquer outra página, seja interna, seja externa ao seu site. Esse redirecionamento é feito na área de busca, utilizando termos ou filtros selecionados. Dentro do Admin, o redirecionamento é chamado de Redirecionamento.
 - **Sinônimos**: permite o cadastro de sinônimos - palavras de mesmo sentido - a um termo de busca específico, aumentando a chance de uma busca com sucesso.
-- **Relatórios**: Organiza os dados relacionados às pesquisas realizadas na loja e possibilita exportar esses dados em um arquivo CSV.
+- **Analytics**: Organiza os dados relacionados às pesquisas realizadas na loja e possibilita exportar esses dados em um arquivo CSV.

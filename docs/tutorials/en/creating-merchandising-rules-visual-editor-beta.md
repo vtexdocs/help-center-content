@@ -1,10 +1,10 @@
 ---
 title: 'Creating merchandising rules - Visual Editor (Beta)'
 id: 6xteumx9MsDt0uEppbChu3
-status: PUBLISHED
+status: DRAFT
 createdAt: 2023-04-03T21:05:14.304Z
-updatedAt: 2023-04-11T22:34:40.303Z
-publishedAt: 2023-04-11T22:34:40.303Z
+updatedAt: 2024-01-29T17:17:03.584Z
+publishedAt: 
 firstPublishedAt: 2023-04-03T21:30:34.359Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -19,54 +19,73 @@ subcategory: 23WdCYqmn2V2Z7SDlc14DF
   <p>This feature is in closed beta, which means that only selected customers can access it for now. If you are interested in implementing it for your business in the future, please contact our <a href="https://support.vtex.com/hc/pt-br/requests">Support team</a>.</p>
 </div>
 
-The Visual Editor (beta) for[ merchandising rules](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0) in VTEX Intelligent Search allows you to:
+To configure a VTEX Intelligent Search [merchandising rule](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0) using[ Visual Editor](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao), follow the steps below.
 
-![visual-merch-rules-EN](https://images.ctfassets.net/alneenqid6w5/5Pah0D3Y9CfUyczqFR99bd/4d8ea287aaed825eb017a0c6325b6e05/visual-merch-rules-EN.png)
+1.	In the VTEX Admin, go to **Storefront**, or type **Storefront** in the search bar at the top of the page.
+2.	Under **Intelligent Search**, click **Merchandising Rules**.
+3.	Click the `+ New` button.
+4.	Complete the following fields:
 
-<ol class="mv7" type="I">
-    <li class="t-body c-on-base mb5 lh-copy">Edit the name of the merchandising rule.</li>
-    <li class="t-body c-on-base mb5 lh-copy">Set search terms to apply the merchandising rule.</li>
-    <li class="t-body c-on-base mb5 lh-copy">Set <a href="#adding-filters-and-conditions" rel="noopener noreferrer"
-            target="_self"
-            class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">filters</a>
-        to apply the
-        merchandising rule.</li>
-    <li class="t-body c-on-base mb5 lh-copy">Specify the number of items per row.</li>
-    <li class="t-body c-on-base mb5 lh-copy">Specify the number of items per page.</li>
-    <li class="t-body c-on-base mb5 lh-copy">Navigate between search results pages.</li>
-    <li class="t-body c-on-base mb5 lh-copy">Drag and drop products to the desired position in the search results.
-        You can only drag products that have been pinned (action IX).</li>
-    <li class="t-body c-on-base mb5 lh-copy">Hide products from the search results. This action cannot be undone,
-        so to make a product display in the results again, you need to create another merchandising rule.</li>
-    <li class="t-body c-on-base mb5 lh-copy">Pin products to the top positions of the search results. By pinning
-        product A and then product B, they will appear in this order in the search results, just before the others.</li>
-    <li class="t-body c-on-base mb5 lh-copy">See product details.</li>
-    <li class="t-body c-on-base mb5 lh-copy">Cancel editing.</li>
-    <li class="t-body c-on-base mb5 lh-copy">Save settings.</li>
-</ol>
+	* **Rule name**: Merchandising rule name. Example: Promote product A when searching for a chocolate cookie.
+	* **Start date (optional)**: Set a date from which the merchandising rule will apply. The date follows the UTC-0 time zone.
+	* **End date (optional)**: Set a date when the merchandising rule will no longer apply to store searches. The date follows the UTC-0 time zone.
+	* **Apply to locales:** Languages to which the merchandising rule will apply. The field is only available for stores using [Multilanguage settings (Beta)](https://help.vtex.com/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+5.	Click **Visual Editor**. Read the [Types of editing](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao) section for more information about each editor.
+6.	Click `Next`.
+7.	Define at least one search term or filter for applying the merchandising rule:
 
-## Setting up a merchandising rule
+	* To define a search term, type the term in the search bar (item **II** in the  [Actions available in the Visual Editor](#actions-available-in-the-visual-editor) section).
+	* To create a filter for applying the merchandising rule (item **III** in the  [Actions available in the Visual Editor](#actions-available-in-the-visual-editor) section), follow the steps described in the[ Adding filters and conditions](https://help.vtex.com/pt/tutorial/criar-regra-de-merchandising-editor-visual-beta--6xteumx9MsDt0uEppbChu3#adicionar-filtros-e-condicoes) section.
+8.	You can also perform the following additional actions to customize the search results.
 
-To configure a merchandising rule in the Visual Editor, follow the steps below.
+	* Define the number of items per row in the search results.
+	* Define the number of items per page in the search results.
+	* Hide products in the search results.
+	* Pin products to the top positions of the search results.
+	* Drag the pinned product to the desired position in the search results.
+	* Edit the initial settings of the merchandising rule, including the rule name, start and end dates, and the locales to which it will be applied if the store uses the[ Multilanguage settings (Beta)](https://help.vtex.com/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
 
-1. In the VTEX Admin, go to **Storefront**, or type **Storefront** in the search bar at the top of the page.
-2. Under **Intelligent Search**, click **Merchandising Rules**.
-3. Click the `+ New` button.
-4. Fill in the following fields:
-   * **Name**: Name of the merchandising rule. Example: Promote product A when searching for a chocolate cookie.
-   * **Start date (optional)**: Set a date from which the merchandising rule will apply. The date follows the UTC-0 time zone.
-   * **End date (optional)**: Set a date on which the merchandising rule will no longer apply to store searches. The date follows the UTC-0 time zone.
-   * **Locales:** Languages to which the merchandising rule will apply.
-5. Click **Visual Editor**. See [Types of editing](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#types-of-editing) for more information about each editor.
-6. Click `Next`.
-7. To define a search term that determines when the merchandising rule applies, enter the term in the search bar (item II in the previous image). You need to define at least one term or a filter (step 8) to apply the rule.
-8. To create a filter to apply the merchandising rule (item III in the previous image), follow the steps described in the [Adding filters and conditions](#adding-filters-and-conditions) section. You need to define at least one filter or term (step 7) for the rule to apply.
-9. You can also perform additional actions to customize the search results (items IV, V, VII, VIII, IX in the previous image).
-10. Click `Save`.
+      Learn more about these actions in items **IV, V, VI, VIII, IX**, and **XI** of the [Actions available in the Visual Editor](#actions-available-in-the-visual-editor) section.
+9.	Click `Save`.
 
 <div class="alert alert-info">
   <p>After saving, the changes to merchandising rules will take an average of two minutes to be updated.</p>
 </div>
+
+## Actions available in the Visual Editor
+
+The Visual Editor for merchandising rules in VTEX Intelligent Search allows you to perform the actions shown in the image below:
+
+![visual-merch-rules-EN-v2](//images.ctfassets.net/alneenqid6w5/1wQEvrFFEp5ixHPCVtHsxa/2f765817f537bc8477b0d6fddfb171b8/visual-merch-rules-EN-v2.png)
+
+<ol class="mv7" type="I">
+    <li class="t-body c-on-base mb5 lh-copy">Edit the name of the merchandising rule.</li>
+    <li class="t-body c-on-base mb5 lh-copy">Define search terms to apply the merchandising rule.</li>
+    <li class="t-body c-on-base mb5 lh-copy">Set <a href="#adding-filters-and-conditions" rel="noopener noreferrer"
+            target="_self"
+            class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">filters</a>
+        to apply the merchandising rule.</li>
+    <li class="t-body c-on-base mb5 lh-copy">Define the number of items per row in the search results.</li>
+    <li class="t-body c-on-base mb5 lh-copy">Define the number of items per page in the search results.</li>
+    <li class="t-body c-on-base mb5 lh-copy">Hide products in the search results. Hidden products appear in gray with the crossed-out eye icon <i class="far fa-eye-slash"></i> in the Visual Editor. To display a hidden product again, hover over it and click the eye icon <i class="far fa-eye"></i>.</li>
+    <li class="t-body c-on-base mb5 lh-copy">View product details. The information displayed is:<br /><br />
+    	 <ul>
+			   <li class="t-body c-on-base mb5 lh-copy"><strong>Available:</strong> Indicates whether the product is available in the store.</li>
+				<li class="t-body c-on-base mb5 lh-copy"><strong>Clicks:</strong> Number of clicks over the last 90 days.</li>
+				<li class="t-body c-on-base mb5 lh-copy"><strong>Orders:</strong> Number of orders containing the product that were placed over the last 90 days.</li>
+				<li class="t-body c-on-base mb5 lh-copy"><strong>Revenue:</strong> Revenue the product represented over the last 90 days.</li>
+				<li class="t-body c-on-base mb5 lh-copy"><strong>Launch date:</strong> Date on which the product was launched.</li>
+				<li class="t-body c-on-base mb5 lh-copy"><strong>Promotion:</strong> Indicates whether the product participates in a promotion.</li> 
+				<li class="t-body c-on-base mb5 lh-copy"><strong>Discount:</strong> Discount applied to the product.</li>
+				<li class="t-body c-on-base mb5 lh-copy"><strong>Available matrix variety:</strong> Represents the percentage of SKUs available for a product. For example, if a product has five SKUs and only three are available, the available matrix variety will be 60%, represented as 0.6 in this field. If all the SKUs are available, the field value will be 1.</li>
+		    </ul>
+	    </li>
+    <li class="t-body c-on-base mb5 lh-copy">Drag the pinned product to the desired position in the search results. You can only drag pinned products (action <strong>IX</strong> in this list).</li>
+    <li class="t-body c-on-base mb5 lh-copy">Pin products to the top positions of the search results. By pinning product A and then product B, they will appear in this order in the search results, just before the others. To pin a product, hover over it and click the pin-crossed icon <i class="fas fa-thumbtack"></i>.</li>
+    <li class="t-body c-on-base mb5 lh-copy">Navigate between search result pages.</li>
+    <li class="t-body c-on-base mb5 lh-copy">Cancel editing.</li>
+    <li class="t-body c-on-base mb5 lh-copy">Save settings.</li>
+</ol>
 
 ### Adding filters and conditions
 

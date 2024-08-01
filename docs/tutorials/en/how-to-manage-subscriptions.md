@@ -3,8 +3,8 @@ title: 'How to manage Subscriptions'
 id: 6Jk50FPbv6iuz1OsFypv8x
 status: PUBLISHED
 createdAt: 2020-02-05T14:18:54.781Z
-updatedAt: 2022-12-05T16:48:31.127Z
-publishedAt: 2022-12-05T16:48:31.127Z
+updatedAt: 2023-12-21T14:08:39.725Z
+publishedAt: 2023-12-21T14:08:39.725Z
 firstPublishedAt: 2020-02-11T14:56:17.333Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -35,9 +35,13 @@ The **Unique Subscriptions** section allows you to:
 - View a **dynamic chart** with the *active*, *canceled* and *all* subscriptions within the selected period. By hovering the cursor over the chart lines, you can see in detail the subscriptions variation per day.
 - **Export subscriptions** within the filtered period by clicking on the button in the upper right corner of the screen.
 
- ![EN Dashboard Assinatura única](https://images.ctfassets.net/alneenqid6w5/1UiNoDxKut3m9UUbhDBZoa/5d6af9bbfcc2d46e751050f5c848f206/EN_Dashboard_Assinatura___nica.png)
+ ![EN Dashboard Assinatura única](//images.ctfassets.net/alneenqid6w5/1UiNoDxKut3m9UUbhDBZoa/5d6af9bbfcc2d46e751050f5c848f206/EN_Dashboard_Assinatura___nica.png)
 
 ### Subscription Orders
+
+<div class = "alert alert-info">
+You can only access information from orders created in the last two years, and that same period is valid for customers through <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>.
+</div>
 
 The **Subscription Orders** section allows you to:
 
@@ -45,12 +49,12 @@ The **Subscription Orders** section allows you to:
 - Monitor the **absolute number and corresponding percentage** of Subscription Orders that were *scheduled*, *processed*, *generated* and *completed* per period.
 - View a **chart** with the percentage of *skipped* orders, *cycles with an issue* and *payment errors*.
 
-![EN Dashboard Pedidos Assinatura](https://images.ctfassets.net/alneenqid6w5/hZxhtReMjrrwi4VQl8Pyu/bb2e62f626072108fba24e78db87dc15/EN_Dashboard_Pedidos_Assinatura.png)
+![EN Dashboard Pedidos Assinatura](//images.ctfassets.net/alneenqid6w5/hZxhtReMjrrwi4VQl8Pyu/bb2e62f626072108fba24e78db87dc15/EN_Dashboard_Pedidos_Assinatura.png)
 
 - When accessing each tab of the **Subscription Orders** table, you can view the flow and details of the orders that were *skipped*, those that presented *Cycles with an issue*, those that contain a *Payment Error* and the *Completed* orders. 
 - In addition to listing the details of the errors that occurred during the  Subscription orders flow, it is also possible to perform a **manual retry** of orders with errors. Check out our article on [Troubleshooting of Subscription orders issues](https://help.vtex.com/tutorial/como-solucionar-pedidos-de-assinatura-com-erros--uLL8AYBGdtAmbbdL5gRCf) to learn more.
 
-![EN Log Pedidos Assinatura](https://images.ctfassets.net/alneenqid6w5/X9H4zlZTb6t7hpAKvbJ7L/9592cb74a6690ea5c76001bfa0218c33/EN_Log_Pedidos_Assinatura.png)
+![EN Log Pedidos Assinatura](//images.ctfassets.net/alneenqid6w5/X9H4zlZTb6t7hpAKvbJ7L/9592cb74a6690ea5c76001bfa0218c33/EN_Log_Pedidos_Assinatura.png)
 
 ### Subscribers
 

@@ -3,8 +3,8 @@ title: 'Ao adicionar um SKU através de nossa funcionalidade "Change Order", o n
 id: 35Q3KoOSsUr9n9XEDIk7nk
 status: PUBLISHED
 createdAt: 2022-04-07T14:53:35.829Z
-updatedAt: 2022-11-25T22:02:48.606Z
-publishedAt: 2022-11-25T22:02:48.606Z
+updatedAt: 2024-02-16T20:24:27.100Z
+publishedAt: 2024-02-16T20:24:27.100Z
 firstPublishedAt: 2022-04-07T14:53:36.256Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: ao-adicionar-um-sku-atraves-de-nossa-funcionalidade-change-order-o-nome-do-produto-nao-e-exibido-no-pedido-e-na-notificacao-por-email
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 557978
 ---
 

@@ -3,8 +3,8 @@ title: 'Unecessary simulation requests and components being reloaded'
 id: 1qXJU1XC4r0e9KWxNUKp3L
 status: PUBLISHED
 createdAt: 2022-08-30T17:34:47.635Z
-updatedAt: 2022-11-25T21:50:25.658Z
-publishedAt: 2022-11-25T21:50:25.658Z
+updatedAt: 2024-02-16T20:25:15.198Z
+publishedAt: 2024-02-16T20:25:15.198Z
 firstPublishedAt: 2022-08-30T17:34:48.111Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: unecessary-simulation-requests-and-components-being-reloaded
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 648298
 ---
 

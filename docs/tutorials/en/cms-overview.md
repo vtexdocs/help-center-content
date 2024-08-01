@@ -1,10 +1,10 @@
 ---
 title: 'CMS - Overview'
 id: 2X1xWJi9WmtNylxmggn3ts
-status: PUBLISHED
+status: DRAFT
 createdAt: 2023-03-29T18:36:32.910Z
-updatedAt: 2023-03-29T19:34:13.250Z
-publishedAt: 2023-03-29T19:34:13.250Z
+updatedAt: 2023-07-18T18:36:27.273Z
+publishedAt: 
 firstPublishedAt: 2023-03-29T18:38:26.442Z
 contentType: tutorial
 productTeam: Others
@@ -15,7 +15,7 @@ legacySlug: cms-overview
 subcategory: 3PNmhq67KMmGTBSfIWJdcQ
 ---
 
-![CMS Capa overview](https://images.ctfassets.net/alneenqid6w5/5FaFzk5z2vdyWIKl5AlCby/19a53d3f1e02f7f01e1a4a6250da2b20/CAPA_OVERVIEW_CMS.png)
+![CMS Capa overview](//images.ctfassets.net/alneenqid6w5/5FaFzk5z2vdyWIKl5AlCby/19a53d3f1e02f7f01e1a4a6250da2b20/CAPA_OVERVIEW_CMS.png)
 
 CMS (Content Management System) is a feature dedicated to manage content in a constant and practical manner.
 

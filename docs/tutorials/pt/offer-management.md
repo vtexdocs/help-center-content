@@ -1,10 +1,10 @@
 ---
 title: 'Módulo Gerenciamento de anúncios'
 id: 7MRb9S78aBdZjFGpbuffpE
-status: PUBLISHED
+status: DRAFT
 createdAt: 2021-03-17T00:44:49.452Z
-updatedAt: 2023-03-31T04:39:55.235Z
-publishedAt: 2023-03-31T04:39:55.235Z
+updatedAt: 2024-06-20T21:34:27.585Z
+publishedAt: 
 firstPublishedAt: 2021-03-17T01:05:49.343Z
 contentType: tutorial
 productTeam: Channels
@@ -15,19 +15,26 @@ legacySlug: listagem-de-anuncios
 subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---
 
+<div class="alert alert-info">
+Para evoluir sua experiência ao sincronizar e atualizar anúncios, o time da VTEX está desenvolvendo uma nova funcionalidade que irá substituir o atual módulo <b>Gerenciamento de anúncios</b>.
+Por este motivo, o Gerenciamento de anúncios não receberá novas atualizações ou manutenção. 
+Para conectores e marketplaces que já se integraram com o módulo, solicitamos que entre em contato com nosso time de desenvolvimento através do email <a href="taissa.araujo@vtex.com.br">taissa.araujo@vtex.com.br</a>.
+Para os conectores com interesse em iniciar a integração, solicitamos que aguardem o lançamento do novo módulo, assim que disponível avisaremos a todos os clientes através do <a href="https://developers.vtex.com/updates/release-notes">Developer portal na página de release notes</a> e <a href="https://help.vtex.com/pt/en/announcements">VTEX Help Center na página de novidades</a>.
+</div>  
+
 O módulo **Gerenciamento de anúncios** permite aos sellers acompanhar o envio e a sincronização de anúncios de integrações com canais de venda. Na VTEX, anúncio é um SKU de um seller que teve seu preço e estoque configurados e foi enviado para um canal de venda.
 
-![Offer Management gif](https://images.ctfassets.net/alneenqid6w5/39zPddPF6cBtI1QZn7GSDz/d270dd62f2b92f6100de71836279b195/Offer_Management_gif.gif)
+![Offer Management gif](//images.ctfassets.net/alneenqid6w5/39zPddPF6cBtI1QZn7GSDz/d270dd62f2b92f6100de71836279b195/Offer_Management_gif.gif)
 
 O **Gerenciamento de anúncios** permite acompanhar anúncios com o [Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic e Premium), [Netshoes](https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) e marketplaces VTEX. Para conectores que desejam integrar via API, existe o [Guia de integração do Gerenciamento de anúncios](https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors).
 
 Para acessar o módulo, no Admin VTEX, acesse **Marketplace > Conexões > Gerenciamento de anúncios**. Feito isso, a seguinte interface vai aparecer: 
 
-![gerenciamentodeanúncios front](https://images.ctfassets.net/alneenqid6w5/u8R35ILY4A5G79HWKj7cg/cf4fe5a5145955d4f8955faf3ae47dee/gerenciamentodean__ncios_front.JPG)
+![gerenciamentodeanúncios front](//images.ctfassets.net/alneenqid6w5/u8R35ILY4A5G79HWKj7cg/cf4fe5a5145955d4f8955faf3ae47dee/gerenciamentodean__ncios_front.JPG)
 
 A interface da **Gerenciamento de anúncios** apresenta uma listagem dos seus anúncios, sendo possível clicar sobre o anúncio para acessar [detalhes do anúncio](https://help.vtex.com/pt/tutorial/detalhes-do-anuncio--4FF9QYAewqAn610mDHwb0P) e conferir [detalhes da interação](https://help.vtex.com/pt/tutorial/detalhes-da-interacao--5qC6XPkyUsYPd0dqKHQNlf). As interações são os registros do anúncio ao longo do processo de sincronização e envio para o canal de venda, e ficam disponíveis para consulta por dez dias.
 
-![diagrama ju meyer sent offers pt](https://images.ctfassets.net/alneenqid6w5/1v1nQSOtb5hekGMB4sQCiW/c87303d8811c779c9ae72e9ee97df409/diagrama_ju_meyer_sent_offers_pt.png)
+![diagrama ju meyer sent offers pt](//images.ctfassets.net/alneenqid6w5/1v1nQSOtb5hekGMB4sQCiW/c87303d8811c779c9ae72e9ee97df409/diagrama_ju_meyer_sent_offers_pt.png)
 
 Na página **Gerenciamento de anúncios**, é possível realizar as seguintes ações:
 

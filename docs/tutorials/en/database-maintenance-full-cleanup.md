@@ -3,8 +3,8 @@ title: 'Database Maintenance (Full Cleanup)'
 id: 34P9LGs7BCIQK6acQom802
 status: PUBLISHED
 createdAt: 2018-02-07T14:32:22.879Z
-updatedAt: 2022-12-08T22:26:21.443Z
-publishedAt: 2022-12-08T22:26:21.443Z
+updatedAt: 2023-08-02T16:15:41.168Z
+publishedAt: 2023-08-02T16:15:41.168Z
 firstPublishedAt: 2018-02-07T16:44:48.971Z
 contentType: tutorial
 productTeam: Others
@@ -41,10 +41,6 @@ These are the operations available:
 - __Delete products/SKUs and related items__: With this operation, your products, SKUs, and related items will be permanently removed from your store.
 
 - __Delete categories, brands, fields, and related items__: By deleting Categories, Brands, Fields, and related items, they will be permanently removed from your store. Before performing this operation, you must delete your Products and SKUs.
-
-<div class="alert alert-info">
-  <p>For cases where the <b>Delete Products/SKUs and related items</b> or <b>Delete categories, brands, fields, and related items</b> operation is performed and the store uses <a href="https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG">VTEX Intelligent Search</a>, please contact our <a href="https://support.vtex.com/hc/en-us/requests">Support team</a> to perform full database maintenance.</p>
-</div>
 
 - __Delete sellers and related items__: By deleting Sellers and related items, they will be permanently removed from your store.
 
