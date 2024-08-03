@@ -62,17 +62,17 @@ Una vez instalada la aplicación, VTEX compartirá la URL del Admin de VTEX Conv
 Con esta información, sigue los pasos a continuación.
 
 1. Accede al VTEX Admin a través de la URL que te ha enviado el equipo de soporte. Verás la siguiente pantalla:
-![Track 101 - Conversational Commerce 1 - PT](//images.ctfassets.net/alneenqid6w5/Zg2VTR41pSMleFi6bpcLT/cf9fb66691f9ec8f18a184099c70f3bf/Screenshot_2022-10-04_at_18-05-46_Track_101_-_Conversational_Commerce.png)
+![Track 101 - Conversational Commerce 1 - PT](https://images.ctfassets.net/alneenqid6w5/Zg2VTR41pSMleFi6bpcLT/cf9fb66691f9ec8f18a184099c70f3bf/Screenshot_2022-10-04_at_18-05-46_Track_101_-_Conversational_Commerce.png)
 2. Haz clic en el botón `Configurar la cuenta de WhatsApp Business`.
 3. Se abrirá una ventana de Facebook para la configuración. Inicia sesión con el perfil de administrador deseado de Business Manager.
 4. Selecciona la opción `Crear una cuenta de WhatsApp Business`.
 5. Introduce el nombre de la cuenta que se mostrará como nombre de perfil en WhatsApp.
 6. Selecciona la categoría y introduce la descripción de la cuenta. 
-![Track 101 - Conversational Commerce 2 - PT](//images.ctfassets.net/alneenqid6w5/1DbUwuYgXSleNYBzDnS72n/e935883f195905d78f9c2209b1cc324b/Screenshot_2022-10-04_at_18-07-00_Track_101_-_Conversational_Commerce.png)
+![Track 101 - Conversational Commerce 2 - PT](https://images.ctfassets.net/alneenqid6w5/1DbUwuYgXSleNYBzDnS72n/e935883f195905d78f9c2209b1cc324b/Screenshot_2022-10-04_at_18-07-00_Track_101_-_Conversational_Commerce.png)
 7. Verifica el número de teléfono que se asociará a la cuenta mediante el código enviado al teléfono.
 8. Comunica al equipo de soporte de VTEX para que finalice la configuración.
 
 Una vez completada la configuración, se mostrará la alerta de abajo en el Admin. 
 
-![Track 101 - Conversational Commerce 3 - PT](//images.ctfassets.net/alneenqid6w5/3RkQDfGaL3r5KV7j8uTXRH/6f32bb6973f7762a6eb06f12cd596e32/Screenshot_2022-10-04_at_18-07-47_Track_101_-_Conversational_Commerce.png)
+![Track 101 - Conversational Commerce 3 - PT](https://images.ctfassets.net/alneenqid6w5/3RkQDfGaL3r5KV7j8uTXRH/6f32bb6973f7762a6eb06f12cd596e32/Screenshot_2022-10-04_at_18-07-47_Track_101_-_Conversational_Commerce.png)
 

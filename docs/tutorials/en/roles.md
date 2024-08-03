@@ -25,7 +25,7 @@ From the **Roles** page, you can do the following:
 * [Edit a role](#editing-a-role)
 * [Delete a role](#deleting-a-role)
 
-![roles-en](//images.ctfassets.net/alneenqid6w5/hn5I8XMFI38UCoMxIIjjM/d0c8e68b433a987fb1d0c9f031726d6f/roles-en.png)
+![roles-en](https://images.ctfassets.net/alneenqid6w5/hn5I8XMFI38UCoMxIIjjM/d0c8e68b433a987fb1d0c9f031726d6f/roles-en.png)
 
 The page displays a list of all roles added to the account and their respective information in a table:
 

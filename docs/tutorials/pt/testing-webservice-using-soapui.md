@@ -33,7 +33,7 @@ O passo a passo de utilização é o seguinte:
 
 Substitua o valor {NOMEDALOJA} pelo nome de sua loja.
 
-![](//images.contentful.com/alneenqid6w5/WMZnCJCLg2WGSIesMOMKu/efed51a5c0e151d1ac1f7902600e522a/1.png)
+![](https://images.contentful.com/alneenqid6w5/WMZnCJCLg2WGSIesMOMKu/efed51a5c0e151d1ac1f7902600e522a/1.png)
 
 Efetue o login com os dados do Web Service desejado. Após efetuar o login, você visualizará todos os métodos existentes no [manual do Web Service](/pt/tutorial/manual-das-classes-e-metodos-usados-no-webservice/).
 
@@ -42,7 +42,7 @@ Efetue o login com os dados do Web Service desejado. Após efetuar o login, voc�
 3. Localize o botão **Auth** e repita a autenticação antes de executar o método;
 4. Execute o método.
 
-![](//images.contentful.com/alneenqid6w5/3TBC8YgtvyQ6sMQAyQACOg/5e14a72feaa3bf0d00a8b245d56788d1/2.png)
+![](https://images.contentful.com/alneenqid6w5/3TBC8YgtvyQ6sMQAyQACOg/5e14a72feaa3bf0d00a8b245d56788d1/2.png)
 
 <div class="alert alert-danger"><p>Atenção: somente os métodos SOAP pertinentes ao <strong>catálogo</strong> são válidos.</p>
 <p><strong>Todos os outros métodos estão descontinuados.</strong></p>

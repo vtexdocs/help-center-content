@@ -31,7 +31,7 @@ Por isso, para ter acesso ao change seller, a afiliação com split deve ser con
 - __Use O Comportamento Recomendado Pelo Processador de Pagamentos__.
 - __Desativado: Não Capturado Automaticamente__.
 
-![Captura automática de pagamento](//images.ctfassets.net/alneenqid6w5/6oARqXfu6KSJ6g8ZH4069P/cf5b21c4ecb29930d9e52d7df430d60c/Captura_Autom__tica.png)
+![Captura automática de pagamento](https://images.ctfassets.net/alneenqid6w5/6oARqXfu6KSJ6g8ZH4069P/cf5b21c4ecb29930d9e52d7df430d60c/Captura_Autom__tica.png)
 
 ### Selecionando o comportamento de liquidação não automática, quando o pagamento será liquidado?
 

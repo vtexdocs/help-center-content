@@ -20,7 +20,7 @@ Importantíssimas para navegação e procura dos produtos desejados na loja.
 
 O cadastro é simples e pode-se determinar diferentes faixas de preços para categorias, conforme imagem abaixo:
 
-![faixa-de-preço pt](//images.ctfassets.net/alneenqid6w5/2H77Lil1K88GcO4W6CYoy8/5af2211860af12fdcd846fbebabb9c2e/faixa-de-pre__o_pt.png)
+![faixa-de-preço pt](https://images.ctfassets.net/alneenqid6w5/2H77Lil1K88GcO4W6CYoy8/5af2211860af12fdcd846fbebabb9c2e/faixa-de-pre__o_pt.png)
 
 Dentro de Faixas de Preço, clique em “Nova Faixa de Preço” e preencha os campos abaixo:
 

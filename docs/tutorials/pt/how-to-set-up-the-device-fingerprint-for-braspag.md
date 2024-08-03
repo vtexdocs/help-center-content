@@ -31,7 +31,7 @@ Para inserir os scripts que a Braspag/CyberSource exige para o device fingerprin
 
 ## Criação de variáveis (macros) e acionador
 
-- Crie a variável de nome `trasactionPaymentId`, tipo **Variável da camada de dados**, lendo a variável `transactionPayment.id` do datalayer.![](//images.contentful.com/alneenqid6w5/2iGloCXR32IMAyWAKe8qWy/cf1108ad17e944adc63f189e67cfa93d/gtm-cybersource-variavel1-1.png)
+- Crie a variável de nome `trasactionPaymentId`, tipo **Variável da camada de dados**, lendo a variável `transactionPayment.id` do datalayer.![](https://images.contentful.com/alneenqid6w5/2iGloCXR32IMAyWAKe8qWy/cf1108ad17e944adc63f189e67cfa93d/gtm-cybersource-variavel1-1.png)
 - Crie a variável de nome `cs_sessionId`, com o tipo **JavaScript personalizado** e o seguinte código:
 
 ```
@@ -41,15 +41,15 @@ function() {
   }
 ```
 
-![](//images.contentful.com/alneenqid6w5/2qhm00B2d2guyeqIU4gCCc/15c42813f5a0ad04937da7aebcc2e5b2/gtm-cybersource-variavel2-javascript-3.png)
+![](https://images.contentful.com/alneenqid6w5/2qhm00B2d2guyeqIU4gCCc/15c42813f5a0ad04937da7aebcc2e5b2/gtm-cybersource-variavel2-javascript-3.png)
 
 - Crie as variáveis `cs_orgId` e `cs_merchantId` com o tipo **Permanente**. O valor dessas duas variáveis deverá ser preenchido com o conteúdo fornecido pela Braspag. Fique atento que esse valor também configura no conector da Braspag como **FingerPrint_MerchantId**.
 
-![gtm-cybersource-variavel3-permanente](//images.contentful.com/alneenqid6w5/5EFSTIM6TCKUE4GEOA66kc/8c2f37cdd8cc94571f6f2ac72ec1d35b/gtm-cybersource-variavel3-permanente.png)
+![gtm-cybersource-variavel3-permanente](https://images.contentful.com/alneenqid6w5/5EFSTIM6TCKUE4GEOA66kc/8c2f37cdd8cc94571f6f2ac72ec1d35b/gtm-cybersource-variavel3-permanente.png)
 
 - Crie ou edite um acionador para a tela de OrderPlaced (tela de compra finalizada com sucesso), para que seja compatível com o evento de tipo **Evento personalizado** e de valor **orderPlaced**.
 
-![gtm-cybersource-acionador-orderplaced](//images.contentful.com/alneenqid6w5/51IPOyaAjmowkEQ24sYyw4/7b11cddfb71c200dd1cd2c85149c7726/gtm-cybersource-acionador-orderplaced.png)
+![gtm-cybersource-acionador-orderplaced](https://images.contentful.com/alneenqid6w5/51IPOyaAjmowkEQ24sYyw4/7b11cddfb71c200dd1cd2c85149c7726/gtm-cybersource-acionador-orderplaced.png)
 
 ## Criação da tag para Braspag
 
@@ -68,6 +68,6 @@ Preencha com o seguinte código HTML:
 <script src="https://h.online-metrix.net/fp/check.js?org_id={{cs_orgId}}&amp;session_id={{cs_merchantId}}{{cs_sessionId}}" type="text/javascript"></script>
 ```
 
-![braspag fingerprint](//images.ctfassets.net/alneenqid6w5/JTnL01Ko0DMc7Pu8Bp1CQ/c023534e5c43d1f5fd06ebf9e13dcac6/image.png)
+![braspag fingerprint](https://images.ctfassets.net/alneenqid6w5/JTnL01Ko0DMc7Pu8Bp1CQ/c023534e5c43d1f5fd06ebf9e13dcac6/image.png)
 
 Por fim, publique as alterações.

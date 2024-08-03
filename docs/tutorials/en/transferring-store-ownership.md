@@ -25,7 +25,7 @@ The Sponsor management page allows you to identify the current Sponsor user, tra
 
 You should see a screen that is similar to the image below, with contact information for the current Sponsor user, a disclaimer indicating the risks associated with transferring store ownership and a button that allows you to acknowledge the risks and transfer ownership anyway.
 
-![Sponsor management panel](//images.ctfassets.net/alneenqid6w5/7AiPMmn3NnMjg89WgEfBXP/b4b9533827aeb3d03960c24eb092cb98/Sponsor_Management_en.png)
+![Sponsor management panel](https://images.ctfassets.net/alneenqid6w5/7AiPMmn3NnMjg89WgEfBXP/b4b9533827aeb3d03960c24eb092cb98/Sponsor_Management_en.png)
 
 ## Steps in the ownership transfer flow
 
@@ -51,7 +51,7 @@ This will complete the ownership transfer – cancelling the invitation will no 
 
 The Sponsor user is responsible for critical maintenance and authorization actions, and mistakes made by this user role can have drastic consequences. Therefore, it is essential to track  changes related to this user role. To monitor and audit  account ownership transfers, you can access the activity log on the Sponsor management page by clicking on the **Activity Log** button. 
 
-![Activity Log](//images.ctfassets.net/alneenqid6w5/6iXw7ib1Wsq4BiyR4Dgp8C/a4d638c4dac1442a317acc1e40686326/Activity_Log_en.gif)
+![Activity Log](https://images.ctfassets.net/alneenqid6w5/6iXw7ib1Wsq4BiyR4Dgp8C/a4d638c4dac1442a317acc1e40686326/Activity_Log_en.gif)
 
 All events related to the transfer of account ownership are logged in the activity log with the date they occurred and the user associated with the event.
 

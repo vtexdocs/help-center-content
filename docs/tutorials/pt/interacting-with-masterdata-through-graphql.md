@@ -25,7 +25,7 @@ Comece certificando-se de ter a versão mais recente do VTEX CLI e clonando o ap
 
 Execute o comando `vtex init` e selecione `graphql getting-started`.
 
-![Screen Shot 2019-01-16 at 15.00.29](//images.ctfassets.net/alneenqid6w5/6Ms4swzkPZ7zdyZyTllB78/f4fde23e90b0f4bc9845cbf86fd83431/Screen_Shot_2019-01-16_at_15.00.29.png)
+![Screen Shot 2019-01-16 at 15.00.29](https://images.ctfassets.net/alneenqid6w5/6Ms4swzkPZ7zdyZyTllB78/f4fde23e90b0f4bc9845cbf86fd83431/Screen_Shot_2019-01-16_at_15.00.29.png)
 
 Vamos usar sua estrutura básica para adaptá-la às nossas necessidades.
 
@@ -155,15 +155,15 @@ Abra o Postman e digite a seguinte pesquisa:
 
 Escolha um ID e copie-o. Vamos colá-lo em nossa consulta.
 
-![Screen Shot 2019-01-16 at 16.14.31](//images.ctfassets.net/alneenqid6w5/2eDkOdvUmisBlGWOIDMU5S/b77a875756854e0977c838494a287c14/Screen_Shot_2019-01-16_at_16.14.31.png)
+![Screen Shot 2019-01-16 at 16.14.31](https://images.ctfassets.net/alneenqid6w5/2eDkOdvUmisBlGWOIDMU5S/b77a875756854e0977c838494a287c14/Screen_Shot_2019-01-16_at_16.14.31.png)
 
-![Screen Shot 2019-01-16 at 17.34.04](//images.ctfassets.net/alneenqid6w5/3C82QeSWvvPNjAKTd8TKhC/c89275da1bb55836c3bf10f87d72ae37/Screen_Shot_2019-01-16_at_17.34.04.png)
+![Screen Shot 2019-01-16 at 17.34.04](https://images.ctfassets.net/alneenqid6w5/3C82QeSWvvPNjAKTd8TKhC/c89275da1bb55836c3bf10f87d72ae37/Screen_Shot_2019-01-16_at_17.34.04.png)
 
 Agora você deve ver a luz de output à direita.
 Parabéns! Você realizou sua primeira consulta simples em tempo recorde.
 
 Voltando ao terminal, você pode olhar sob o capô e perceber o GraphQL resolvendo as consultas, como normalmente você teria feito.
-![Screen Shot 2019-01-16 at 16.29.03](//images.ctfassets.net/alneenqid6w5/38KV7YYgHz8xTcsY18ySPf/e6a33fd274c4f40610e47793ff2ca0d3/Screen_Shot_2019-01-16_at_16.29.03.png)
+![Screen Shot 2019-01-16 at 16.29.03](https://images.ctfassets.net/alneenqid6w5/38KV7YYgHz8xTcsY18ySPf/e6a33fd274c4f40610e47793ff2ca0d3/Screen_Shot_2019-01-16_at_16.29.03.png)
 
 **Mas e se quisermos pesquisar usando todos os filtros possíveis?**
 Vamos seguir em frente para definir uma nova estrutura de consulta e criar um novo resolver para lidar com os novos parâmetros.
@@ -279,6 +279,6 @@ query{
 
 ```
 
-![Screen Shot 2019-01-16 at 17.23.00](//images.ctfassets.net/alneenqid6w5/6Q06UiMGSQVeJjQKpLuant/92de5aeaf26a41b1cffa22603391a834/Screen_Shot_2019-01-16_at_17.23.00.png)
+![Screen Shot 2019-01-16 at 17.23.00](https://images.ctfassets.net/alneenqid6w5/6Q06UiMGSQVeJjQKpLuant/92de5aeaf26a41b1cffa22603391a834/Screen_Shot_2019-01-16_at_17.23.00.png)
 
 E é isso :)  Happy coding!

@@ -40,11 +40,11 @@ The app creates three types of affiliate pages, available to them without any ac
 
 The **affiliate page** is the VTEX store URL that they will share with the customers. The following image shows an example:
 
-![print_affiliates_url_en](//images.ctfassets.net/alneenqid6w5/63BnppaNSakcI7YJVX2mAV/6d0e53ff26c4f9c7f3d9fbd3cebf4db9/print_affiliates_url_en.png)
+![print_affiliates_url_en](https://images.ctfassets.net/alneenqid6w5/63BnppaNSakcI7YJVX2mAV/6d0e53ff26c4f9c7f3d9fbd3cebf4db9/print_affiliates_url_en.png)
 
 The **affiliate profile page** is an interface where the affiliate can track and manage their orders and commissions. The image below shows an example:
 
-![affiliate_profile_page_en](//images.ctfassets.net/alneenqid6w5/7kNS1iqcYLpB7roih4QdiF/9f11c3ffaa7aac74fe70ab6268679b74/print_profile_en.png)
+![affiliate_profile_page_en](https://images.ctfassets.net/alneenqid6w5/7kNS1iqcYLpB7roih4QdiF/9f11c3ffaa7aac74fe70ab6268679b74/print_profile_en.png)
 
 The **registration page** allows those who are interested in becoming affiliates to fill in their information to apply for VTEX store registration. 
 
@@ -74,7 +74,7 @@ The **Affiliate Management** page allows you to do the following:
 - [View affiliate details](#viewing-affiliate-details)
 - [Edit an affiliate](#editing-an-affiliate)
 
-![affiliates_management_page_en](//images.ctfassets.net/alneenqid6w5/7E41Gki569BjcMFnhsttH9/6ea891b6bd27373375fb3d808b26d97c/affiliates_management_page_en.png)
+![affiliates_management_page_en](https://images.ctfassets.net/alneenqid6w5/7E41Gki569BjcMFnhsttH9/6ea891b6bd27373375fb3d808b26d97c/affiliates_management_page_en.png)
 
 ### Adding an affiliate
 
@@ -121,7 +121,7 @@ The **Order Management** page allows you to do the following:
 - [Export order spreadsheet](#exporting-the-order-list)
 - [View order details](#viewing-order-details)
 
-![orders_management_page_en](//images.ctfassets.net/alneenqid6w5/4oecP3rDffWqrP0KtvOhrp/9f63b76106915d023708574ad68f3d18/orders_management_page_en.jpg)
+![orders_management_page_en](https://images.ctfassets.net/alneenqid6w5/4oecP3rDffWqrP0KtvOhrp/9f63b76106915d023708574ad68f3d18/orders_management_page_en.jpg)
 
 ### Monitoring data
 
@@ -174,7 +174,7 @@ The **Commission Management** page allows you to do the following:
 - [Import commissions](#importing-commissions)
 - [Download last import](#downloading-the-last-import)
 
-![commissions_ management_page_en](//images.ctfassets.net/alneenqid6w5/4sPaoOQE8vAbN9tsCMS7zt/73d8406a30e628474923dfb098dc53da/commissions__management_page_en.png)
+![commissions_ management_page_en](https://images.ctfassets.net/alneenqid6w5/4sPaoOQE8vAbN9tsCMS7zt/73d8406a30e628474923dfb098dc53da/commissions__management_page_en.png)
 
 ### Searching for commissions
 

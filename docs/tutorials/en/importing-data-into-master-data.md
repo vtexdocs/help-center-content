@@ -48,4 +48,4 @@ Keep the same format of the worksheet (xls) for the import to be successful.
 5. Select the file.
 6. Click on the **Import** button at the bottom of the screen.
 
-![Importando](//images.contentful.com/alneenqid6w5/3xkB2DzbqoeIsk2Qice8sM/71d3c7d0379e03a8641180ccbe97dc77/Importando-1.gif)
+![Importando](https://images.contentful.com/alneenqid6w5/3xkB2DzbqoeIsk2Qice8sM/71d3c7d0379e03a8641180ccbe97dc77/Importando-1.gif)

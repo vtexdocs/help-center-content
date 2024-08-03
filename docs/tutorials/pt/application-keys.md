@@ -62,7 +62,7 @@ Para criar chaves de aplicação internas na sua conta, siga os passos abaixo.
 
     Você será redirecionado(a) para a página **Minhas chaves**, ilustrada abaixo. Essa página lista todas as [chaves de aplicação internas](#chaves-de-aplicacao-internas).
 
-    ![Minhas chaves](//images.ctfassets.net/alneenqid6w5/1pSqVIzYaiCJO3RkJUoXZQ/56384e78cd25d545b8bfb8ee603a4c59/minhas-chaves-pt.png)
+    ![Minhas chaves](https://images.ctfassets.net/alneenqid6w5/1pSqVIzYaiCJO3RkJUoXZQ/56384e78cd25d545b8bfb8ee603a4c59/minhas-chaves-pt.png)
 
     Estes são os campos visíveis na página **Minhas chaves**:
 
@@ -114,7 +114,7 @@ Ao editar uma chave de aplicação, você pode:
 
 Após ter adicionado perfis de acesso à chave de aplicação, ela será exibida na página **Chaves de aplicação**.
 
-![Chaves de aplicação](//images.ctfassets.net/alneenqid6w5/2wGtLJjEnzTf1VJmkFcRhm/b21ce0058da588e889f23ef46582b91c/appkeys-pt.png)
+![Chaves de aplicação](https://images.ctfassets.net/alneenqid6w5/2wGtLJjEnzTf1VJmkFcRhm/b21ce0058da588e889f23ef46582b91c/appkeys-pt.png)
 
 Estes são os campos visíveis na página **Chaves de aplicação**:
 

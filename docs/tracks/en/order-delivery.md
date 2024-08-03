@@ -23,7 +23,7 @@ See two examples of this scenario:
 
 In this case, items usually come from the warehouse of a distribution center, as illustrated below.
 
-![EN Conceitos Logística](//images.ctfassets.net/alneenqid6w5/4G4LhYlo2dWZKdyM17uxry/745f847e0eae518e231c98bfff99906e/EN_Conceitos_Log__stica.png)
+![EN Conceitos Logística](https://images.ctfassets.net/alneenqid6w5/4G4LhYlo2dWZKdyM17uxry/745f847e0eae518e231c98bfff99906e/EN_Conceitos_Log__stica.png)
 
 Another shipping possibility that can optimize your store’s operation and reduce costs is implementing the [Ship From Store](https://help.vtex.com/en/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/50GAmxxFsJoLWqcnMysWdl) strategy. This strategy refers to in-store fulfillment, meaning items can also be shipped from physical stores' inventories.
 

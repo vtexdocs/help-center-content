@@ -17,7 +17,7 @@ announcementSynopsisES: 'Lanzamiento global del lead time, una configuración op
 
 VTEX ha puesto a disposición de todas las tiendas el [lead time](https://help.vtex.com/es/tutorial/lead-time-tempo-de-envio-a-nivel-de-sku--16yv5Mkj6bTyWR1hCN2f4B), una configuración del tiempo de envío de un SKU en un determinado stock. En otras palabras, puedes definir a nivel de SKU un tiempo de envío adicional en el cálculo de las promesas de envío que se muestran a los clientes en el checkout.
 
-![lead_time_image_total_time_ES](//images.ctfassets.net/alneenqid6w5/WDlW2CzaAKl3KtzzsgGwc/f9610838cce53ee740054bee68e634d1/lead_time_image_total_time_ES.png)
+![lead_time_image_total_time_ES](https://images.ctfassets.net/alneenqid6w5/WDlW2CzaAKl3KtzzsgGwc/f9610838cce53ee740054bee68e634d1/lead_time_image_total_time_ES.png)
 
 El uso del lead time es opcional y, cuando no se configura, el envío de pedidos de la tienda permanece sin cambios. Cabe señalar que las reglas de consolidación del checkout, que calculan el plazo de envío total del pedido tomando en consideración el tiempo más largo de uno de los ítems, se mantienen.
 
@@ -31,7 +31,7 @@ Antes, el [cálculo del envío de pedidos](https://help.vtex.com/es/tutorial/com
 
 Ahora, también existe la opción de configurar el tiempo de envío a nivel de SKU, con la nueva columna de lead time en la página [Gestión del stock](https://help.vtex.com/es/tutorial/gerenciar-inventario--tutorials_139), a la que puedes acceder a través del Admin VTEX > **Catálogo > Stock > Gestión del stock**, como se muestra en la imagen a continuación:
 
-![lead_time_inventory_management_ES](//images.ctfassets.net/alneenqid6w5/mfWUVzj7tgHMQxJTnVjGX/898387e10a3c41d8837df10604ec652d/lead_time_inventory_management_ES.png)
+![lead_time_inventory_management_ES](https://images.ctfassets.net/alneenqid6w5/mfWUVzj7tgHMQxJTnVjGX/898387e10a3c41d8837df10604ec652d/lead_time_inventory_management_ES.png)
 
 <div class="alert alert-warning">
 En el Admin VTEX, el lead time se configura en días, hasta un límite de 365. De manera predeterminada, el contaje se realiza en días laborables, pero puedes configurar tu política de envío para se <a href="https://help.vtex.com/es/tutorial/lead-time-tempo-de-envio-a-nivel-de-sku--16yv5Mkj6bTyWR1hCN2f4B#configurar-el-contaje-del-lead-time-en-dias-naturales-opcional">realice en días naturales</a>. Para configurar periodos en horas, minutos y segundos debes utilizar el endpoint <a href="https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-">Update inventory by SKU and warehouse</a>.

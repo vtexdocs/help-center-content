@@ -33,7 +33,7 @@ La página SKUs recibidos se organiza en pestañas correspondientes a los distin
 
 Dentro de cada pestaña, además de visualizar la lista de SKU, es posible filtrar anuncios, revisar las especificaciones de cada uno y verificar el porcentaje de SKUs recibidos que se encuentran en ese status específico.  
 
-![skus-recibidos-pestanas-es](//images.ctfassets.net/alneenqid6w5/4jNrRvJsZgja1LuSz204P1/3757c1f533031f535b2c233eb55f3d08/skus-recibidos-pestanas-es.png)
+![skus-recibidos-pestanas-es](https://images.ctfassets.net/alneenqid6w5/4jNrRvJsZgja1LuSz204P1/3757c1f533031f535b2c233eb55f3d08/skus-recibidos-pestanas-es.png)
 
 ### Pendientes
 
@@ -50,7 +50,7 @@ Cada fila de la lista representa un producto con la siguiente información:
 
 Para consultar todas las especificaciones de un producto, haz clic en el nombre del producto deseado y se abrirá una nueva ventana con toda la información.  
 
-![skus-recibidos-analisis-es](//images.ctfassets.net/alneenqid6w5/3QSXyYXqhdAB3R4J3lL749/d789b0d0ad6be43a7eb75ee0b6a0c637/skus-recibidos-analisis-es.png)
+![skus-recibidos-analisis-es](https://images.ctfassets.net/alneenqid6w5/3QSXyYXqhdAB3R4J3lL749/d789b0d0ad6be43a7eb75ee0b6a0c637/skus-recibidos-analisis-es.png)
 
 ### Problemas
 
@@ -62,7 +62,7 @@ La acción de solicitar corrección no está disponible en la pestaña <b>Proble
 
 Para identificar el problema de un anuncio solo hay que hacer clic en el nombre del producto deseado. Se mostrará una nueva ventana con la información del producto, el mensaje de error y el revisor del anuncio.  
 
-![skus-recibidos-problemas-analisis-es](//images.ctfassets.net/alneenqid6w5/4yZtOcq16r6SXvai0lWzau/9209d4817cfdb057283cb12a6bdb99a6/skus-recibidos-problemas-analisis-es.png)
+![skus-recibidos-problemas-analisis-es](https://images.ctfassets.net/alneenqid6w5/4yZtOcq16r6SXvai0lWzau/9209d4817cfdb057283cb12a6bdb99a6/skus-recibidos-problemas-analisis-es.png)
 
 ### Aprobados
 
@@ -121,7 +121,7 @@ De manera predeterminada, los ítems más recientemente agregados se muestran pr
 
 En este caso, los ítems se ordenarán de forma ascendente o descendente al hacer clic en __Precio__ o __Stock.__
 
-![skus-recibidos-ord-es](//images.ctfassets.net/alneenqid6w5/3Eur3cPCdSTtZjoGIqeq6o/a44da25a3176f26b0ab2e318ef171375/skus-recibidos-ord-es.png)
+![skus-recibidos-ord-es](https://images.ctfassets.net/alneenqid6w5/3Eur3cPCdSTtZjoGIqeq6o/a44da25a3176f26b0ab2e318ef171375/skus-recibidos-ord-es.png)
 
 ## Catalogación de ítems  
 
@@ -151,7 +151,7 @@ Las acciones disponibles para la catalogación son:
 Esta acción puede realizarse en las pestañas <b>Pendientes</b> y <b>Problemas</b>.
 </div>
 
-![skus-recibidos-crear-nuevo-producto-es](//images.ctfassets.net/alneenqid6w5/4H2vmekbrtbXQXUVrwVoSF/4b686bea24c2df091c8739ecc398a645/skus-recibidos-crear-nuevo-producto-es.png)
+![skus-recibidos-crear-nuevo-producto-es](https://images.ctfassets.net/alneenqid6w5/4H2vmekbrtbXQXUVrwVoSF/4b686bea24c2df091c8739ecc398a645/skus-recibidos-crear-nuevo-producto-es.png)
 
 - __Asociar a un producto existente:__ crea una relación entre el producto del seller y un producto que ya existe en el catálogo del marketplace. Para llevar a cabo esta acción, sigue los pasos a continuación:  
 
@@ -170,7 +170,7 @@ Al crear una nueva asociación, las nuevas tallas se agrupan con las demás que 
 Esta acción puede realizarse en las pestañas <b>Pendientes</b> y <b>Problemas</b>.
 </div>
 
-![skus-recibidos-vincular-al-producto-es](//images.ctfassets.net/alneenqid6w5/2fAWptfykAdJ3UTDSCpNhW/7bf8dee7e2b09fa4c36aefa485a461c8/skus-recibidos-vincular-al-producto-es.png)
+![skus-recibidos-vincular-al-producto-es](https://images.ctfassets.net/alneenqid6w5/2fAWptfykAdJ3UTDSCpNhW/7bf8dee7e2b09fa4c36aefa485a461c8/skus-recibidos-vincular-al-producto-es.png)
 
 - __Asociar a un SKU existente:__ crea una relación entre el SKU del seller y un SKU que ya existe en el catálogo del marketplace. Para llevar a cabo esta acción, sigue los pasos a continuación:  
 
@@ -189,7 +189,7 @@ No obstante, es posible que este marketplace reciba el mismo SKU de 128 GB del S
 Esta acción puede realizarse en las pestañas <b>Pendientes</b> y <b>Problemas</b>.
 </div>
 
-![skus-recibidos-vincular-al-sku-es](//images.ctfassets.net/alneenqid6w5/2326FaqSqhPfQ0qeiD8KWE/5d8fc3e9ba0d93b2c2f9186d73f4f69b/skus-recibidos-vincular-al-sku-es.png)
+![skus-recibidos-vincular-al-sku-es](https://images.ctfassets.net/alneenqid6w5/2326FaqSqhPfQ0qeiD8KWE/5d8fc3e9ba0d93b2c2f9186d73f4f69b/skus-recibidos-vincular-al-sku-es.png)
 
 - __Bloquear:__ esta acción bloquea los anuncios seleccionados, impidiendo su reprocesamiento automático. Para llevar a cabo esta acción, sigue los pasos a continuación:  
 
@@ -204,7 +204,7 @@ Cuando el marketplace bloquea un SKU, significa que la próxima vez que el selle
 Esta acción puede realizarse en las pestañas <b>Pendientes</b> y <b>Problemas</b>. Los anuncios bloqueados se mostrarán en la pestaña <b>Bloqueados</b>.
 </div>
 
-![skus-recibidos-rechazar-y-bloquear-es](//images.ctfassets.net/alneenqid6w5/3rfJ5AjzArgvv7thlD3keQ/bb22e0cfd4ff98513d5da66696b2e5d5/skus-recibidos-rechazar-y-bloquear-es.png)
+![skus-recibidos-rechazar-y-bloquear-es](https://images.ctfassets.net/alneenqid6w5/3rfJ5AjzArgvv7thlD3keQ/bb22e0cfd4ff98513d5da66696b2e5d5/skus-recibidos-rechazar-y-bloquear-es.png)
 
 - Rechazar para corrección: rechaza el anuncio y envía al seller una solicitud para corregir la información. Para llevar a cabo esta acción, sigue los pasos a continuación:  
 
@@ -217,6 +217,6 @@ Esta acción puede realizarse en las pestañas <b>Pendientes</b> y <b>Problemas<
 Esta acción puede realizarse en la pestaña <b>Pendientes</b>. Los anuncios que necesitan corrección se mostrarán en la pestaña <b>Problemas</b>.
 </div>  
 
-![skus-recibidos-rechazar-para-correccion-es](//images.ctfassets.net/alneenqid6w5/62XmAvuM9luOqmLCwLpW2A/bc526e9f64a729781f5ebebcd6a62ee0/skus-recibidos-rechazar-para-correccion-es.png)
+![skus-recibidos-rechazar-para-correccion-es](https://images.ctfassets.net/alneenqid6w5/62XmAvuM9luOqmLCwLpW2A/bc526e9f64a729781f5ebebcd6a62ee0/skus-recibidos-rechazar-para-correccion-es.png)
 
 - __Aprobación automática:__ también puedes configurar la aprobación automática de SKU de un seller específico, independientemente de la puntuación asignada por Matcher. Esta acción solo puede realizarse a través de la API REST. Para saber más, consulta la documentación de [Suggestions](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions).  

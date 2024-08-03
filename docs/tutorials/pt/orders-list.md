@@ -17,7 +17,7 @@ subcategory: 2t00bBkcAwIkgSCGKsMOwY
 
 É através da lista de pedidos do Gerenciamento de Pedidos que o lojista pode acompanhar as compras concretizadas em sua loja. A listagem está disponível na primeira tela do módulo Gerenciamento de Pedidos.
 
-![todosospedidos.pt](//images.ctfassets.net/alneenqid6w5/RIjd55ovorcC4L2gZ4aFQ/c1f8a9043d1da0e979348951bbbba1e7/todosospedidos.pt.png)
+![todosospedidos.pt](https://images.ctfassets.net/alneenqid6w5/RIjd55ovorcC4L2gZ4aFQ/c1f8a9043d1da0e979348951bbbba1e7/todosospedidos.pt.png)
 
 Na visualização padrão são listados todos os pedidos da loja a partir do mais recente. É possível alterar a ordenação clicando no nome das colunas, assim como buscar ou filtrar os pedidos por dados específicos, e também exportar estes dados.
 
@@ -30,7 +30,7 @@ Ao clicar em qualquer pedido, o usuário é direcionado para a página de detalh
 
 Sempre que o Gerenciamento de Pedidos estiver aberto e novos pedidos forem realizados, uma indicação será exibida, permitindo que se clique para atualizar a lista de pedidos.
 
-![oms novospedidos](//images.contentful.com/alneenqid6w5/764uQcLH1YiGiusQEec8Uc/80cbd9c180ad0c65143ae753b833f8a8/oms-novospedidos.png)
+![oms novospedidos](https://images.contentful.com/alneenqid6w5/764uQcLH1YiGiusQEec8Uc/80cbd9c180ad0c65143ae753b833f8a8/oms-novospedidos.png)
 
 Veja a seguir mais detalhes sobre as colunas da lista:
 
@@ -38,7 +38,7 @@ Veja a seguir mais detalhes sobre as colunas da lista:
 
 Nada mais é do que o número do pedido (exibido ao cliente), o sufixo e o código sequencial da transação (para uso interno).
 
-![oms formato do pedido](//images.contentful.com/alneenqid6w5/60zd69MLTyOk8SW080Mo8o/ebef05cf26d82b3b15aaed852567fe5c/oms-formato-do-pedido.png)
+![oms formato do pedido](https://images.contentful.com/alneenqid6w5/60zd69MLTyOk8SW080Mo8o/ebef05cf26d82b3b15aaed852567fe5c/oms-formato-do-pedido.png)
 
 ### Número do pedido
 
@@ -77,7 +77,7 @@ Traz sempre o nome e o sobrenome do cliente que efetuou a compra, mesmo que o pe
 
 Expõe quantos produtos diferentes existem no pedido (sem considerar a quantidade comprada de cada item). Ao passar o mouse é possível ver quais foram os produtos comprados.
 
-![oms produtos do pedido](//images.contentful.com/alneenqid6w5/4fTIEf2ywwc2U2IuwSkg8U/82b81b00387db8959cf18ae392e5e1f0/oms-produtos-do-pedido.png)
+![oms produtos do pedido](https://images.contentful.com/alneenqid6w5/4fTIEf2ywwc2U2IuwSkg8U/82b81b00387db8959cf18ae392e5e1f0/oms-produtos-do-pedido.png)
 
 ## Valor
 

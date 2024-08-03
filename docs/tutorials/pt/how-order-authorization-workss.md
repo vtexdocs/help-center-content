@@ -17,7 +17,7 @@ subcategory: 2t00bBkcAwIkgSCGKsMOwY
 
 No módulo de Gerenciamento de pedidos, a seção __Autorização de pedidos__ permite o controle e a aprovação de pedidos com divergências de preços na sua loja.
 
-![autorização-de-pedidos PT](//images.ctfassets.net/alneenqid6w5/2oP1np8C9Cv004b8NPk1Jn/a7694ae95272db05344bf35d93206e58/autoriza____o-de-pedidos__PT.png)
+![autorização-de-pedidos PT](https://images.ctfassets.net/alneenqid6w5/2oP1np8C9Cv004b8NPk1Jn/a7694ae95272db05344bf35d93206e58/autoriza____o-de-pedidos__PT.png)
 
 As divergências de preços entre pedidos podem ser encontradas em dois principais cenários: 
 
@@ -35,15 +35,15 @@ As regras de autorização são atribuídas a uma faixa percentual à sua escolh
 
 - De 0% a 10% de variação de preço, o pedido será aprovado automaticamente
 
-![regra-1-autorização-de-pedidos PT](//images.ctfassets.net/alneenqid6w5/1wohOoNoG0OrOU69zBxoPM/ff7ca27e0807785aae26bab5190271fc/regra-1-autoriza____o-de-pedidos_PT.png)
+![regra-1-autorização-de-pedidos PT](https://images.ctfassets.net/alneenqid6w5/1wohOoNoG0OrOU69zBxoPM/ff7ca27e0807785aae26bab5190271fc/regra-1-autoriza____o-de-pedidos_PT.png)
 
 - De 10% a 20% de variação de preço, o pedido será enviado para o usuário `usuario@exemplo.com.br` aprovar através de uma tarefa no VTEX DO
 
-![regra2-autorização-de-pedidos PT](//images.ctfassets.net/alneenqid6w5/XkBsErQYCMnQe4TQefwCL/b7cacd0f633c1768de1cb0b703785479/regra2-autoriza____o-de-pedidos_PT.png)
+![regra2-autorização-de-pedidos PT](https://images.ctfassets.net/alneenqid6w5/XkBsErQYCMnQe4TQefwCL/b7cacd0f633c1768de1cb0b703785479/regra2-autoriza____o-de-pedidos_PT.png)
 
 - De 20% a 100% de variação de preço, o pedido será negado automaticamente
 
-![regra3-autorização-de-pedidos pt](//images.ctfassets.net/alneenqid6w5/2t9asV03OYvCiscGKaws7m/2df3c008d6e802f0ecaf8d48b2b3d751/regra3-autoriza____o-de-pedidos_pt.png)
+![regra3-autorização-de-pedidos pt](https://images.ctfassets.net/alneenqid6w5/2t9asV03OYvCiscGKaws7m/2df3c008d6e802f0ecaf8d48b2b3d751/regra3-autoriza____o-de-pedidos_pt.png)
 
 Para a configuração da segunda regra, será necessário o cadastro de usuários com [permissões](https://help.vtex.com/tutorial/como-criar-perfil-de-acesso--tutorials_526) para aprovação de pedidos. 
 

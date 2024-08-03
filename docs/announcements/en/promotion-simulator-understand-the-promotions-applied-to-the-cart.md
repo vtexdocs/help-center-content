@@ -32,7 +32,7 @@ From now on, the **Promotion Simulator** will be available for all VTEX stores v
 * **Test applying** other promotions to the cart before activating them, including scheduled or inactive promotions.
 * **Understand the reasons** a promotion was not applied to the cart.
 
-![promotions simulator - en-gif 3](//downloads.ctfassets.net/alneenqid6w5/5RwzKZuP1klBEZfpUYAivG/c54434442ee4cd19b211505896daa841/promotions_simulator_gi-3.gif)
+![promotions simulator - en-gif 3](https://downloads.ctfassets.net/alneenqid6w5/5RwzKZuP1klBEZfpUYAivG/c54434442ee4cd19b211505896daa841/promotions_simulator_gi-3.gif)
 
 ## What needs to be done?
 

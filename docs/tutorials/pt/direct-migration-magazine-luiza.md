@@ -19,7 +19,7 @@ A **Migração Direta Magazine Luiza** foi desenvolvida para facilitar o process
 
 Utilizando a **Migração Direta,** a conta do seller no marketplace é reaproveitada e neste caso a relevância de vendas do seller é mantida.  
 
-![Fluxo da migração](//images.ctfassets.net/alneenqid6w5/7GdLQ0HFfZXJ7mxvqGgNeO/26fc293e4cf1592347635841669433b5/Fluxo_de_funcionamento_integra__o.png)
+![Fluxo da migração](https://images.ctfassets.net/alneenqid6w5/7GdLQ0HFfZXJ7mxvqGgNeO/26fc293e4cf1592347635841669433b5/Fluxo_de_funcionamento_integra__o.png)
 
 ## Integrando a loja VTEX com o Magazine Luiza marketplace
 
@@ -47,7 +47,7 @@ O código de referência do SKU na VTEX deve ser igual ao ID do SKU no Magazine 
 Na data e horário acordado entre o seller e a VTEX, o processo de migração será iniciado e os pedidos que estão pendentes no Portal do seller Magazine Luiza serão segmentados. Todos os pedidos pendentes anteriores à data definida, ficam sob responsabilidade do seller para atualização manual no Portal do seller e os pedidos posteriores à data definida ficam sob responsabilidade da VTEX.
 </div>
 
-![Data de migração](//images.ctfassets.net/alneenqid6w5/3TcYO5vYXIMqRqpGoY2sWV/3f23ceeb4116f807b2b65e075d42fe85/Fluxo_de_pedidos_na_migra__o.png)
+![Data de migração](https://images.ctfassets.net/alneenqid6w5/3TcYO5vYXIMqRqpGoY2sWV/3f23ceeb4116f807b2b65e075d42fe85/Fluxo_de_pedidos_na_migra__o.png)
 
 Após informar o dia e horário desejado para realizar a integração, o seller deve aguardar o retorno da VTEX confirmando a finalização da migração para seguir aos [testes](#testes).
 

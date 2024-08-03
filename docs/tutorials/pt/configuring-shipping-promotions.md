@@ -40,40 +40,40 @@ Abaixo explicamos alguns cenários que podem ser configurados na plataforma da V
 Caso você habilite a opção **Aplicar o desconto somente no frete mais barato**, o desconto do frete será aplicado somente no menor valor estimado para o frete. Esta opção já aparece habilitada por padrão, mas você pode desabilitá-la caso prefira configurar a promoção conforme o [Cenário 3](#cenario-3) ou o [Cenário 4](#cenario-4).
 
 #### Configuração
-![Aplicar o desconto somente no frete mais barato - PT](//images.contentful.com/alneenqid6w5/2Y0g5Ta6h4VL6uMRQouzjC/94aab036bb00a8162c934780cdfcb1c9/image.png)
+![Aplicar o desconto somente no frete mais barato - PT](https://images.contentful.com/alneenqid6w5/2Y0g5Ta6h4VL6uMRQouzjC/94aab036bb00a8162c934780cdfcb1c9/image.png)
 
 #### Resultado
-![saggincaso1.2](//images.ctfassets.net/alneenqid6w5/5YS2Iva3GwayZPPA3pqMmf/1b1f4d05ad16378b993a748e4923e12d/saggincaso1.2.png)
+![saggincaso1.2](https://images.ctfassets.net/alneenqid6w5/5YS2Iva3GwayZPPA3pqMmf/1b1f4d05ad16378b993a748e4923e12d/saggincaso1.2.png)
 
 ### Cenário 2
 
 Caso você desabilite a opção Aplicar o desconto somente no frete mais barato, o desconto do frete será aplicado em todos os fretes disponíveis.
 
 #### Configuração
-![Nenhum frete selecionado -PT](//images.ctfassets.net/alneenqid6w5/bdzVVgf0w0vxQttjV5bYm/a3a7f5c6af2d23ac3af5a51ca33fe242/image.png)
+![Nenhum frete selecionado -PT](https://images.ctfassets.net/alneenqid6w5/bdzVVgf0w0vxQttjV5bYm/a3a7f5c6af2d23ac3af5a51ca33fe242/image.png)
 
 #### Resultado
-![saggincaso2.2](//images.ctfassets.net/alneenqid6w5/5bfXAeiAs17vBy1nPPg9jh/ee179b414e3325707e8805ab3ba14dcb/saggincaso2.2.png)
+![saggincaso2.2](https://images.ctfassets.net/alneenqid6w5/5bfXAeiAs17vBy1nPPg9jh/ee179b414e3325707e8805ab3ba14dcb/saggincaso2.2.png)
 
 ### Cenário 3
 
 Caso você habilite somente a opção **Tipo de Frete** e selecione os tipos de frete desejados, o desconto de frete será aplicado a todos os tipos de frete selecionados.
 
 #### Configuração
-![Tipo de Frete - PT](//images.ctfassets.net/alneenqid6w5/4cyEZYLm8kQOhIDnB4lvN2/0ff11ad4ee57639a34f2260c40334eb7/image.png)
+![Tipo de Frete - PT](https://images.ctfassets.net/alneenqid6w5/4cyEZYLm8kQOhIDnB4lvN2/0ff11ad4ee57639a34f2260c40334eb7/image.png)
 
 #### Resultado
-![saggincaso2.2](//images.ctfassets.net/alneenqid6w5/5bfXAeiAs17vBy1nPPg9jh/ee179b414e3325707e8805ab3ba14dcb/saggincaso2.2.png)
+![saggincaso2.2](https://images.ctfassets.net/alneenqid6w5/5bfXAeiAs17vBy1nPPg9jh/ee179b414e3325707e8805ab3ba14dcb/saggincaso2.2.png)
 
 ### Cenário 4
 
 Caso você habilite as opções **Tipo de Frete** e **Aplicar o desconto somente quando uma das transportadoras acima for selecionada pelo cliente** e selecione os tipos de frete desejados, o desconto de frete será aplicado para todos os tipos de frete selecionados somente quando o cliente escolher o tipo de frete no checkout.
 
 #### Configuração
-![Tipo de Frete e Aplicar o desconto somente quando uma das transportadoras acima for selecionada pelo cliente - PT](//images.ctfassets.net/alneenqid6w5/3lL3TwmFFxL8aOW4UvHFER/931f18d33e7c3147ff12a13620f83b45/image.png)
+![Tipo de Frete e Aplicar o desconto somente quando uma das transportadoras acima for selecionada pelo cliente - PT](https://images.ctfassets.net/alneenqid6w5/3lL3TwmFFxL8aOW4UvHFER/931f18d33e7c3147ff12a13620f83b45/image.png)
 
 #### Resultado
-![saggincaso3.2](//images.ctfassets.net/alneenqid6w5/5U1bTkH8109ZfTsnnZrfXG/c5111f305488d0130be338dc0ad07919/saggincaso3.2.png)
+![saggincaso3.2](https://images.ctfassets.net/alneenqid6w5/5U1bTkH8109ZfTsnnZrfXG/c5111f305488d0130be338dc0ad07919/saggincaso3.2.png)
 
 Em resumo, a função do checkbox **Aplicar o desconto somente quando uma das transportadoras acima for selecionada pelo cliente** é de aplicar o desconto somente quando a Transportadora for selecionada.
 

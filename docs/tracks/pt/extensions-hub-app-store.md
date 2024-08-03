@@ -18,7 +18,7 @@ A App Store é a página do Admin onde você pode buscar, visualizar e obter app
 
 ## Página inicial
 
-![Extensions Hub App Store página inicial](//images.ctfassets.net/alneenqid6w5/3wzHr69aCqLuPG2cuT2e6y/ba56f15ab8cc4041dd0d8cf3d10afa1d/Extensions_Hub_App_Store_home_page_PT.png)
+![Extensions Hub App Store página inicial](https://images.ctfassets.net/alneenqid6w5/3wzHr69aCqLuPG2cuT2e6y/ba56f15ab8cc4041dd0d8cf3d10afa1d/Extensions_Hub_App_Store_home_page_PT.png)
 
 Ao entrar na loja, você estará na página inicial. Nesta página estão disponíveis as seguintes opções:
 
@@ -28,13 +28,13 @@ Ao entrar na loja, você estará na página inicial. Nesta página estão dispon
 
 ## Busca
 
-![Extensions Hub App Store busca](//images.ctfassets.net/alneenqid6w5/1VuHQqhPZ9G88K3ZOQqny8/1cca7f3ff65a4568f6327cae2e4e6de0/Extensions_Hub_App_Store_search_PT.png)
+![Extensions Hub App Store busca](https://images.ctfassets.net/alneenqid6w5/1VuHQqhPZ9G88K3ZOQqny8/1cca7f3ff65a4568f6327cae2e4e6de0/Extensions_Hub_App_Store_search_PT.png)
 
 A busca permite que você pesquise por apps através do nome. Ao digitar na caixa de texto da busca e pressionar a tecla `Enter`, você será direcionado para a página de resultados da busca. Os resultados serão os apps cujos nomes correspondam ao texto inserido na busca. Os apps aparecem no formato de cartões quadrados, onde é possível ver o nome, o subtítulo e o custo do app. Ao clicar em um app, você será levado para a [página do app](#pagina-do-app).
 
 ## Página do app
 
-![Extensions Hub App Store app page](//images.ctfassets.net/alneenqid6w5/4VdhF4EhRvcktxnlqK0nt/c0e06d0a250b05fa32b97b4161fae294/Extensions_Hub_App_Store_app_page_PT.png)
+![Extensions Hub App Store app page](https://images.ctfassets.net/alneenqid6w5/4VdhF4EhRvcktxnlqK0nt/c0e06d0a250b05fa32b97b4161fae294/Extensions_Hub_App_Store_app_page_PT.png)
 
 Ao clicar em um app na página inicial ou na busca, você será direcionado para a página do respectivo app. Nesta página você encontrará todas as informações sobre o app, incluindo os custos, e a opção para baixá-lo.
 

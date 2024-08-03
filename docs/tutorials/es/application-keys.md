@@ -62,7 +62,7 @@ Para crear claves de aplicación internas en tu cuenta sigue los pasos a continu
 
     Se te redirigirá a la página **Mis claves**, ilustrada a continuación,  donde podrás consultar todas las [claves de aplicación internas](#claves-de-aplicacion-internas).
 
-    ![Mis Claves](//images.ctfassets.net/alneenqid6w5/1pSqVIzYaiCJO3RkJUoXZQ/68300cda392cc27ff02bc50af0bc2b7e/mis-claves-es.png)
+    ![Mis Claves](https://images.ctfassets.net/alneenqid6w5/1pSqVIzYaiCJO3RkJUoXZQ/68300cda392cc27ff02bc50af0bc2b7e/mis-claves-es.png)
 
     Estos son los campos visibles en la página **Mis claves**:
 
@@ -114,7 +114,7 @@ Al editar una clave de aplicación, puedes:
 
 Tras agregar los roles de acceso a una clave de aplicación, esta aparecerá en la página **Claves de aplicación**.
 
-![Claves de aplicación](//images.ctfassets.net/alneenqid6w5/2wGtLJjEnzTf1VJmkFcRhm/931a3bd780840b11e47bf7d2a84ff718/claves-es.png)
+![Claves de aplicación](https://images.ctfassets.net/alneenqid6w5/2wGtLJjEnzTf1VJmkFcRhm/931a3bd780840b11e47bf7d2a84ff718/claves-es.png)
 
 Consulta a continuación los campos visibles en la página **Claves de aplicación**:
 

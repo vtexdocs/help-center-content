@@ -93,7 +93,7 @@ Ao falar de implementação de frontend, é preciso lembrar que o [VTEX IO](http
 
 Isso significa que ao trabalhar com VTEX IO, a pessoa desenvolve seu código localmente. Porém, quando se trata de implantar e executar a loja, o VTEX IO gerencia a infraestrutura, CI/CD e segurança, além de cuidar do processo de implantação. A imagem abaixo apresenta como estes conceitos se relacionam entre si:
 
-![Arquitetura de desenvolvimento frontend](//images.ctfassets.net/alneenqid6w5/70awnhEGvAlpk5NBrGJJJ6/a552a6ae6c50ef92304ff8f11e651cbf/frontend_image2_PT.png)
+![Arquitetura de desenvolvimento frontend](https://images.ctfassets.net/alneenqid6w5/70awnhEGvAlpk5NBrGJJJ6/a552a6ae6c50ef92304ff8f11e651cbf/frontend_image2_PT.png)
 
 ### Principais funcionalidades do Store Framework
 
@@ -229,7 +229,7 @@ O time de desenvolvimento deve iniciar um novo projeto com a FastStore através 
 - *Product Details Page* (PDP)
 - *Minicart*
 
-![FastStore template](//images.ctfassets.net/alneenqid6w5/gRMxctAER60dhr8UEIEh2/56b79e81aae806bf7ab17d6088267f90/frontend_image4_ALL.png)
+![FastStore template](https://images.ctfassets.net/alneenqid6w5/gRMxctAER60dhr8UEIEh2/56b79e81aae806bf7ab17d6088267f90/frontend_image4_ALL.png)
 
 #### Requisitos para um MVP da FastStore
 
@@ -282,7 +282,7 @@ O time de desenvolvimento deve iniciar um novo projeto com o Store Framework clo
 - *Product Listing Page* (PLP)
 - *Product Details Page* (PDP)
 
-![Store Framework template](//images.ctfassets.net/alneenqid6w5/5TpA31coQ1lu5ZoMkj8boS/d1f1bfb2f0e46ff3755375e00658a466/frontend_image5_ALL.png)
+![Store Framework template](https://images.ctfassets.net/alneenqid6w5/5TpA31coQ1lu5ZoMkj8boS/d1f1bfb2f0e46ff3755375e00658a466/frontend_image5_ALL.png)
 
 #### Requisitos para um MVP do Store Framework
 

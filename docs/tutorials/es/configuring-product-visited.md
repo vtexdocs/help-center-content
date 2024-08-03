@@ -21,7 +21,7 @@ Tutorial válido solo para tiendas CMS Portal Legado.
 
 El producto visitado es la funcionalidad que envía emails a los clientes que navegaron por un producto en su site pero que no finalizaron compra. Ese email tiene como objetivo la recuperación de la venta, enviando, además del producto abandonado, sugerencias de nuevos productos. Todo ello es posible a través de su Master Data.
 
-[![ExemploProdutoVisitado](//images.contentful.com/alneenqid6w5/3S5FjnFRl6SUoqAkIY84sI/1f6913ec8cd925c89906500a923de0c2/ExemploProdutoVisitado.png)](//images.contentful.com/alneenqid6w5/3S5FjnFRl6SUoqAkIY84sI/1f6913ec8cd925c89906500a923de0c2/ExemploProdutoVisitado.png "![ExemploProdutoVisitado](//images.contentful.com/alneenqid6w5/3S5FjnFRl6SUoqAkIY84sI/1f6913ec8cd925c89906500a923de0c2/ExemploProdutoVisitado.png)")
+[![ExemploProdutoVisitado](https://images.contentful.com/alneenqid6w5/3S5FjnFRl6SUoqAkIY84sI/1f6913ec8cd925c89906500a923de0c2/ExemploProdutoVisitado.png)](https://images.contentful.com/alneenqid6w5/3S5FjnFRl6SUoqAkIY84sI/1f6913ec8cd925c89906500a923de0c2/ExemploProdutoVisitado.png "![ExemploProdutoVisitado](https://images.contentful.com/alneenqid6w5/3S5FjnFRl6SUoqAkIY84sI/1f6913ec8cd925c89906500a923de0c2/ExemploProdutoVisitado.png)")
 
 _Para que este recurso funcione de manera adecuada es necesario que su tienda tenga un alto flujo de visitas y compras, ya que los expositores se generan relacionando datos de navegación a un producto específico._
 
@@ -49,21 +49,21 @@ Haga clic en el botón **Salvar**.
 Tras crear un campo en la entidad, es necesario configurar para que el campo sea exhibido en el formulario &#8211; así, es posible ver los datos registrados en el mismo. Esto también es válido para campos que creados automáticamente por VTEX pero que no fueron marcados para ser exhibidos en el formulario. Sigue a continuación un manual sobre cómo exhibir los campos que serán importantes para el escenario de Producto Visitado.
 
 1. Acceda al módulo **Master Data**;
-2. En la aplicación **Profile System**, haga clic en el símbolo de **engrenagem**; [![aplicacaoEditar](//images.contentful.com/alneenqid6w5/5EGLrHpiY8MOcEsUCUCaqS/7edf07ca138296670b0e2b7a0455bbef/aplicacaoEditar.png)](//images.contentful.com/alneenqid6w5/5EGLrHpiY8MOcEsUCUCaqS/7edf07ca138296670b0e2b7a0455bbef/aplicacaoEditar.png "![aplicacaoEditar](//images.contentful.com/alneenqid6w5/5EGLrHpiY8MOcEsUCUCaqS/7edf07ca138296670b0e2b7a0455bbef/aplicacaoEditar.png)")
+2. En la aplicación **Profile System**, haga clic en el símbolo de **engrenagem**; [![aplicacaoEditar](https://images.contentful.com/alneenqid6w5/5EGLrHpiY8MOcEsUCUCaqS/7edf07ca138296670b0e2b7a0455bbef/aplicacaoEditar.png)](https://images.contentful.com/alneenqid6w5/5EGLrHpiY8MOcEsUCUCaqS/7edf07ca138296670b0e2b7a0455bbef/aplicacaoEditar.png "![aplicacaoEditar](https://images.contentful.com/alneenqid6w5/5EGLrHpiY8MOcEsUCUCaqS/7edf07ca138296670b0e2b7a0455bbef/aplicacaoEditar.png)")
 3. Haga clic en el símbolo del **lápis** sobre el formulario **Cliente**;
 4. Haga clic en la pestaña **Schemas de Layout**;
 5. Haga clic en el botón **Incluir Nova seção**;
 6. Dele un nombre a esa sección;
-7. En la columna **Campos disponíveis **, arrastre el campo deseado hasta el área **Campos da columna 1**, abajo del nombre de la sección creada; [![arrastandoCampo](//images.contentful.com/alneenqid6w5/57Ridc88Te6kIo2CO4sOEI/80f6dd2602600841e62b666e88a2bd38/arrastandoCampo.png)](//images.contentful.com/alneenqid6w5/57Ridc88Te6kIo2CO4sOEI/80f6dd2602600841e62b666e88a2bd38/arrastandoCampo.png "![arrastandoCampo](//images.contentful.com/alneenqid6w5/57Ridc88Te6kIo2CO4sOEI/80f6dd2602600841e62b666e88a2bd38/arrastandoCampo.png)") [![arrastandoCampo2](//images.contentful.com/alneenqid6w5/4TQBONq7tKoEuEqCSoAS44/967247336bbb61ca775f7dd2488ae4f0/arrastandoCampo2.png)](//images.contentful.com/alneenqid6w5/4TQBONq7tKoEuEqCSoAS44/967247336bbb61ca775f7dd2488ae4f0/arrastandoCampo2.png "![arrastandoCampo2](//images.contentful.com/alneenqid6w5/4TQBONq7tKoEuEqCSoAS44/967247336bbb61ca775f7dd2488ae4f0/arrastandoCampo2.png)") [![seçãoCriada](//images.contentful.com/alneenqid6w5/6DwxZSd692YAweEwQs64C4/ed5a48459e501cf8f57ff180ba96dc73/se_C3_A7_C3_A3oCriada.png)](//images.contentful.com/alneenqid6w5/6DwxZSd692YAweEwQs64C4/ed5a48459e501cf8f57ff180ba96dc73/se_C3_A7_C3_A3oCriada.png "![seçãoCriada](//images.contentful.com/alneenqid6w5/6DwxZSd692YAweEwQs64C4/ed5a48459e501cf8f57ff180ba96dc73/se_C3_A7_C3_A3oCriada.png)")
+7. En la columna **Campos disponíveis **, arrastre el campo deseado hasta el área **Campos da columna 1**, abajo del nombre de la sección creada; [![arrastandoCampo](https://images.contentful.com/alneenqid6w5/57Ridc88Te6kIo2CO4sOEI/80f6dd2602600841e62b666e88a2bd38/arrastandoCampo.png)](https://images.contentful.com/alneenqid6w5/57Ridc88Te6kIo2CO4sOEI/80f6dd2602600841e62b666e88a2bd38/arrastandoCampo.png "![arrastandoCampo](https://images.contentful.com/alneenqid6w5/57Ridc88Te6kIo2CO4sOEI/80f6dd2602600841e62b666e88a2bd38/arrastandoCampo.png)") [![arrastandoCampo2](https://images.contentful.com/alneenqid6w5/4TQBONq7tKoEuEqCSoAS44/967247336bbb61ca775f7dd2488ae4f0/arrastandoCampo2.png)](https://images.contentful.com/alneenqid6w5/4TQBONq7tKoEuEqCSoAS44/967247336bbb61ca775f7dd2488ae4f0/arrastandoCampo2.png "![arrastandoCampo2](https://images.contentful.com/alneenqid6w5/4TQBONq7tKoEuEqCSoAS44/967247336bbb61ca775f7dd2488ae4f0/arrastandoCampo2.png)") [![seçãoCriada](https://images.contentful.com/alneenqid6w5/6DwxZSd692YAweEwQs64C4/ed5a48459e501cf8f57ff180ba96dc73/se_C3_A7_C3_A3oCriada.png)](https://images.contentful.com/alneenqid6w5/6DwxZSd692YAweEwQs64C4/ed5a48459e501cf8f57ff180ba96dc73/se_C3_A7_C3_A3oCriada.png "![seçãoCriada](https://images.contentful.com/alneenqid6w5/6DwxZSd692YAweEwQs64C4/ed5a48459e501cf8f57ff180ba96dc73/se_C3_A7_C3_A3oCriada.png)")
 8. Haga clic en el botón **Salvar**.
 
 ### Cree el template de email
 
-El template del e-mail que será enviado, al igual que en el Carrito Abandonado, se configura en el módulo CMS. Para auxiliar en la configuración, [use nuestro template de ejemplo](//assets.contentful.com/alneenqid6w5/6TloqmkC76AAauQ4e4SWmA/bf28c1d0d7d6618d5eb1231a578934f1/produtoVisitadoExemplo.html "use nuestro template de ejemplo").
+El template del e-mail que será enviado, al igual que en el Carrito Abandonado, se configura en el módulo CMS. Para auxiliar en la configuración, [use nuestro template de ejemplo](https://assets.contentful.com/alneenqid6w5/6TloqmkC76AAauQ4e4SWmA/bf28c1d0d7d6618d5eb1231a578934f1/produtoVisitadoExemplo.html "use nuestro template de ejemplo").
 
 1. Acceda al módulo **CMS**;
 2. Haga clic en **Portal**;
-3. [Haga clic aquí para descargar el template de ejemplo](//assets.contentful.com/alneenqid6w5/6TloqmkC76AAauQ4e4SWmA/bf28c1d0d7d6618d5eb1231a578934f1/produtoVisitadoExemplo.html "Clique aqui para baixar o template de exemplo");
+3. [Haga clic aquí para descargar el template de ejemplo](https://assets.contentful.com/alneenqid6w5/6TloqmkC76AAauQ4e4SWmA/bf28c1d0d7d6618d5eb1231a578934f1/produtoVisitadoExemplo.html "Clique aqui para baixar o template de exemplo");
 4. Haga clic en **Templates de página**;
 5. Haga clic en **novo template**;
 6. Llene el nombre y pegue el código de su template. ¡Atención! Si está usted usando el template de ejemplo, recuerde modificar el código `TEMPLATE_DE_EXPOSITOR` por el id de su template de expositor y el código `NOMBRE_DE_TIENDA` por la URL de su tienda.
@@ -103,7 +103,7 @@ Haga clic en el botón **Salvar Pasta**.
 Tras la creación de la carpeta, asocie el template de página al layout de la página.
 
 1. Haga clic en la carpeta creada;
-2. Haga clic en **novo layout**; [![novoLayout](//images.contentful.com/alneenqid6w5/7x9hPRCKsgwOgk4iQ4IAsq/2eeb7573f284daf0429c7d129a8eaf26/novoLayout.png)](//images.contentful.com/alneenqid6w5/7x9hPRCKsgwOgk4iQ4IAsq/2eeb7573f284daf0429c7d129a8eaf26/novoLayout.png "![novoLayout](//images.contentful.com/alneenqid6w5/7x9hPRCKsgwOgk4iQ4IAsq/2eeb7573f284daf0429c7d129a8eaf26/novoLayout.png)")
+2. Haga clic en **novo layout**; [![novoLayout](https://images.contentful.com/alneenqid6w5/7x9hPRCKsgwOgk4iQ4IAsq/2eeb7573f284daf0429c7d129a8eaf26/novoLayout.png)](https://images.contentful.com/alneenqid6w5/7x9hPRCKsgwOgk4iQ4IAsq/2eeb7573f284daf0429c7d129a8eaf26/novoLayout.png "![novoLayout](https://images.contentful.com/alneenqid6w5/7x9hPRCKsgwOgk4iQ4IAsq/2eeb7573f284daf0429c7d129a8eaf26/novoLayout.png)")
 3. Seleccione el template creado anteriormente;
 4. Haga clic en el botón **Salvar**.
 
@@ -123,7 +123,7 @@ En **Filtro adicional**, configure conforme lo que sigue:
 
 Luego, haga clic en el botón **Incluir grupo**, y haga clic en **Incluir filtro** y complete como sigue:
 - **Fecha del último trigger enviado** Menor o igual `FECHA ACTUAL` &#8211; `Sustraer días` &#8211; `7` or
-- **Fecha del último trigger enviado** Está nulo [![CondicoesTrigger](//images.contentful.com/alneenqid6w5/2fU6mJE1asQiQ4agmCSSaG/ff6148cbe2f6f07a8e01aea1ee0a68f1/CondicoesTrigger.png)](//images.contentful.com/alneenqid6w5/2fU6mJE1asQiQ4agmCSSaG/ff6148cbe2f6f07a8e01aea1ee0a68f1/CondicoesTrigger.png "![CondicoesTrigger](//images.contentful.com/alneenqid6w5/2fU6mJE1asQiQ4agmCSSaG/ff6148cbe2f6f07a8e01aea1ee0a68f1/CondicoesTrigger.png)")
+- **Fecha del último trigger enviado** Está nulo [![CondicoesTrigger](https://images.contentful.com/alneenqid6w5/2fU6mJE1asQiQ4agmCSSaG/ff6148cbe2f6f07a8e01aea1ee0a68f1/CondicoesTrigger.png)](https://images.contentful.com/alneenqid6w5/2fU6mJE1asQiQ4agmCSSaG/ff6148cbe2f6f07a8e01aea1ee0a68f1/CondicoesTrigger.png "![CondicoesTrigger](https://images.contentful.com/alneenqid6w5/2fU6mJE1asQiQ4agmCSSaG/ff6148cbe2f6f07a8e01aea1ee0a68f1/CondicoesTrigger.png)")
 
 Luego, siga los pasos siguientes:
 

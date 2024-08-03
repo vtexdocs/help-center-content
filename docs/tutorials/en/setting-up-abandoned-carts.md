@@ -40,7 +40,7 @@ You can create your own custom email template or use the default template option
 4. Fill in the __Template XHTML__ field with the template codes.
 5. Click on `Save Template`.
 
-![template xhtml](//images.ctfassets.net/alneenqid6w5/44IZ7N3din2EELL15z5FeQ/d48bd1624a47451e2314e2296237992f/Template_XHTML.PNG)
+![template xhtml](https://images.ctfassets.net/alneenqid6w5/44IZ7N3din2EELL15z5FeQ/d48bd1624a47451e2314e2296237992f/Template_XHTML.PNG)
 
 <div class="alert alert-warning">
 We recommend that template customization should be performed by professionals with experience in the CMS module, and preferably, who have already configured other page and shelf templates.
@@ -50,7 +50,7 @@ We recommend that template customization should be performed by professionals wi
 2. Under __CMS > HTML__ Templates, click on the `CEM-Abandoned-Cart` icon.
 3. Check the information of the template codes present in the __Template XHTML__ field.
 
-![CEM-Abandoned-Cart](//images.ctfassets.net/alneenqid6w5/5ZBXBk2KNJVjekmT7P7RqQ/45690f27bc8825ff3819ac3204d168e8/CEM-Abandoned-Cart.PNG)
+![CEM-Abandoned-Cart](https://images.ctfassets.net/alneenqid6w5/5ZBXBk2KNJVjekmT7P7RqQ/45690f27bc8825ff3819ac3204d168e8/CEM-Abandoned-Cart.PNG)
 
 #### Configuring email template in Message Center
 
@@ -69,7 +69,7 @@ Once the new email template has been created or the data from the default templa
 The JSON Data field must not be filled or its data used in the email template. It only contains information to allow a preview of the format in which the data will be viewed in the email.
 </div>
 
-![New template - message center](//images.ctfassets.net/alneenqid6w5/7nX1YnaZoesV51yG24Z3ls/72c7499b2fdc65ee661c3cb45a387a60/new_template.PNG)
+![New template - message center](https://images.ctfassets.net/alneenqid6w5/7nX1YnaZoesV51yG24Z3ls/72c7499b2fdc65ee661c3cb45a387a60/new_template.PNG)
 
 #### SPF Release
 
@@ -77,7 +77,7 @@ The SPF release is essential to avoid problems with email deliverability and mus
 
 As a good practice for configuring DNS for a generic domain (not mandatory), follow the example below:
 
-![Hostnames - SPF](//images.ctfassets.net/alneenqid6w5/4txj9x3nVeN7Z3WEZmSpev/1ca34737e3275712b51c45283ec5b0c5/Hostnames_-_SPF.PNG)
+![Hostnames - SPF](https://images.ctfassets.net/alneenqid6w5/4txj9x3nVeN7Z3WEZmSpev/1ca34737e3275712b51c45283ec5b0c5/Hostnames_-_SPF.PNG)
 
 Learn more at [Setting up DNS pointing to VTEX](https://help.vtex.com/en/tutorial/configurando-o-apontamento-de-dns-para-a-vtex--tutorials_4280#).
 
@@ -126,7 +126,7 @@ In addition, we also have the "Cart" and "Last Cart" filters. Although they seem
 
 <blockquote><blockquote><ui>-> Último Carrinho - Não está nulo (Last cart - is not null)</ui>   
 
-![Filter master data 2](//images.ctfassets.net/alneenqid6w5/6aME0zp72kjwJiulRdoRNl/6408ac4ab3b36d015790bcf1b1b5d667/Filter_Master_Data.PNG)
+![Filter master data 2](https://images.ctfassets.net/alneenqid6w5/6aME0zp72kjwJiulRdoRNl/6408ac4ab3b36d015790bcf1b1b5d667/Filter_Master_Data.PNG)
 
 <div class="alert alert-warning">
   In addition to the filters indicated above, it is recommended to insert another filter in the following format: <code>Receives newsletter? - Equal to - True</code>. This ensures compliance with <a href="https://help.vtex.com/en/tutorial/data-subject-rights--6imchxTx09icupKMbzHVIM">data subject rights</a>, as only customers subscribed to the newsletter will receive abandoned cart emails. Subscription to your store's newsletter can be managed at checkout or in the <a href="https://help.vtex.com/en/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#profile">My Account</a> section of your store.
@@ -134,7 +134,7 @@ In addition, we also have the "Cart" and "Last Cart" filters. Although they seem
 
 <blockquote><ui> 10. Click on the <b>Schedule</b> tab and select whether to send the email on a specific date or on a dynamic date.</ui>
 
-![Schedule date](//images.ctfassets.net/alneenqid6w5/3SiaNvXMctzVtBzSjzsg3E/6956b67734b6b7c3970d193c03e8fefc/Schedule_date.PNG)
+![Schedule date](https://images.ctfassets.net/alneenqid6w5/3SiaNvXMctzVtBzSjzsg3E/6956b67734b6b7c3970d193c03e8fefc/Schedule_date.PNG)
 
 <blockquote><ui>11. In the <b>If positive</b> tab:</ui>
 
@@ -157,7 +157,7 @@ In addition, we also have the "Cart" and "Last Cart" filters. Although they seem
 
 <blockquote><blockquote><ui>h. In <b>URL</b>, enter your store’s address, including the folders in which the layout of the abandoned cart was set up, followed by the cart tag (?refs={!carttag_SCORE}). Ex.: storename.com/CEM/Abandoned-Cart?refs={!carttag_SCORE}.</ui>  
 
-![PastasCarrinhoAbandonado](//images.ctfassets.net/alneenqid6w5/4DSsVaeDvWmaaw2iwySCOy/b579eb818e0bcda140dba0ae96ecc90f/PastasCarrinhoAbandonado.png)  
+![PastasCarrinhoAbandonado](https://images.ctfassets.net/alneenqid6w5/4DSsVaeDvWmaaw2iwySCOy/b579eb818e0bcda140dba0ae96ecc90f/PastasCarrinhoAbandonado.png)  
 
 <div class="alert alert-warning">The URL address must be the real one of the store, not the URL with vtexcommercestable.
 </div>
@@ -171,7 +171,7 @@ In addition, we also have the "Cart" and "Last Cart" filters. Although they seem
 <div class="alert-warning">A page’s session expires in 30 minutes. Only after that time, the system schedules the abandoned cart trigger. In other words, the time to be considered is the session's time + the trigger schedule.
 </div>  
 
-![If positive tab](//images.ctfassets.net/alneenqid6w5/2GDAJ2St3ayiKjcWoONDRc/44d05312148341427e720b76d8a1f24f/If_positive_Tab.PNG)  
+![If positive tab](https://images.ctfassets.net/alneenqid6w5/2GDAJ2St3ayiKjcWoONDRc/44d05312148341427e720b76d8a1f24f/If_positive_Tab.PNG)  
 
 ### Configuration for VTEX IO stores
 
@@ -182,7 +182,7 @@ To configure the abandoned cart functionality in VTEX IO stores, follow these st
 3. Perform the [SPF release](#spf-release).
 4. [Configure the trigger](#trigger-configuration) the same way as in Legado stores up to Step 10. From Step 11 (__If positive__ tab), follow the instructions available at [Trigger configuration information](https://developers.vtex.com/vtex-developer-docs/docs/vtex-abandoned-cart-service#trigger-configuration-information).
 
-  ![If positive tab IO](//images.ctfassets.net/alneenqid6w5/4kuuU7JySZQVklXS2jtfsp/1b177fab2726c1d05d39608727cc2057/If_positive_Tab_IO.PNG)
+  ![If positive tab IO](https://images.ctfassets.net/alneenqid6w5/4kuuU7JySZQVklXS2jtfsp/1b177fab2726c1d05d39608727cc2057/If_positive_Tab_IO.PNG)
 
 ## Frequently Asked Questions (FAQ)
 

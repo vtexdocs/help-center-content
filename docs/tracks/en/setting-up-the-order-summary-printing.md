@@ -16,7 +16,7 @@ trackSlugEN: instore-customizations
 
 When the salesperson completes an order with inStore, they can print a summary of that order. But, to enable this functionality, you need to make some settings.
 
-![15. Configurar impressão de resumo do pedido - 1](//images.ctfassets.net/alneenqid6w5/I5tu0upqIMUVTCxTHFfmL/d25cd88a3601658aabea48fcee8e97f0/15._Configurar_impress__o_de_resumo_do_pedido_-_1.png)
+![15. Configurar impressão de resumo do pedido - 1](https://images.ctfassets.net/alneenqid6w5/I5tu0upqIMUVTCxTHFfmL/d25cd88a3601658aabea48fcee8e97f0/15._Configurar_impress__o_de_resumo_do_pedido_-_1.png)
 
 Two steps are required:
 
@@ -50,7 +50,7 @@ Do not remove any of the other properties present in the <code>window.INSTORE_CO
 
 This change will make the __Configure device__ option appear in the inStore main menu, as shown in the image below. It is through this option that you will configure the printer.
 
-![15. Configurar impressão de resumo do pedido - 2](//images.ctfassets.net/alneenqid6w5/KxD08Gfiwa8mj6y6KzaKu/7fab9110af8d1337f5646252b8c9387c/15._Configurar_impress__o_de_resumo_do_pedido_-_2.png)
+![15. Configurar impressão de resumo do pedido - 2](https://images.ctfassets.net/alneenqid6w5/KxD08Gfiwa8mj6y6KzaKu/7fab9110af8d1337f5646252b8c9387c/15._Configurar_impress__o_de_resumo_do_pedido_-_2.png)
 
 <div class="alert alert-info">
 <strong>Note:</strong> There is an option to automatically print the order summary as soon as the order is completed. To enable it, add the <code>printPageAutomatically</code> property with the value <code>true</code> inside the <code>printingConfig</code> object. See below how the code would look like in this case.
@@ -84,11 +84,11 @@ With AppKey and AppToken in hand, follow the steps below:
 2. Open the inStore app and enter the store where you want to set up the printer.
 3. In the inStore main menu, in the Settings section, the option __Configure device__ should now appear. Click on that option.
 
-![15. Configurar impressão de resumo do pedido - 3](//images.ctfassets.net/alneenqid6w5/4BZ0V5CVUYA2Kwv49PfTYS/4fa9c04035ef00f8a0df9a9ae71b326b/15._Configurar_impress__o_de_resumo_do_pedido_-_3.png)
+![15. Configurar impressão de resumo do pedido - 3](https://images.ctfassets.net/alneenqid6w5/4BZ0V5CVUYA2Kwv49PfTYS/4fa9c04035ef00f8a0df9a9ae71b326b/15._Configurar_impress__o_de_resumo_do_pedido_-_3.png)
 
 You will find the summary of the configured device. If this is the first time you are making this configuration, the fields on this screen will be empty. If a device has been previously configured, some information about the device will be displayed (Device name and Default printer). Click the __Edit__ button.
 
-![15. Configurar impressão de resumo do pedido - 4](//images.ctfassets.net/alneenqid6w5/4Xrv2WFGkaQ5ejAYZlF3ly/10e8b6b922cd7ee0f970f8db15cae1f9/15._Configurar_impress__o_de_resumo_do_pedido_-_4.png)
+![15. Configurar impressão de resumo do pedido - 4](https://images.ctfassets.net/alneenqid6w5/4Xrv2WFGkaQ5ejAYZlF3ly/10e8b6b922cd7ee0f970f8db15cae1f9/15._Configurar_impress__o_de_resumo_do_pedido_-_4.png)
 
 A form will show containing the __AppKey__, __AppToken__ and __name__ fields with which you want to identify the device. After entering this data, click __Configure__.
 

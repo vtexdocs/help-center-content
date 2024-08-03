@@ -23,7 +23,7 @@ A página Visão Geral (Beta) em seu Admin VTEX fornece um acompanhamento em tem
 
 Essa ferramenta está disponível no Admin VTEX, na página de início. Para acessá-la, clique em **Dashboards > Visão Geral** no menu de navegação, ou digite _Visão Geral_ na barra de busca no topo da página.
 
-![PT Visão geral Beta](//images.ctfassets.net/alneenqid6w5/5C2Na8YDkwgIsMHqp28oGv/62aceefab415f246a39fcd604a89f080/PT_Visa__o_geral_Beta.png)
+![PT Visão geral Beta](https://images.ctfassets.net/alneenqid6w5/5C2Na8YDkwgIsMHqp28oGv/62aceefab415f246a39fcd604a89f080/PT_Visa__o_geral_Beta.png)
 
 Neste artigo, apresentamos as principais seções e ações presentes na página. Saiba mais sobre:
 
@@ -78,7 +78,7 @@ Caso deseje analisar os resultados gerados por campanhas, promoções ou lançam
 3. Selecione a [visualização](#visualizacao) `Acumulada`.
 4. Acompanhe a performance hora a hora das métricas.
 
-![PT visão geral acumulado](//images.ctfassets.net/alneenqid6w5/44wg1PRlF5WHD5I6R5Cu8o/93f86ef067d3c7630ba6b545a8811a8b/PT_visa__o_geral_acumulado.png)
+![PT visão geral acumulado](https://images.ctfassets.net/alneenqid6w5/44wg1PRlF5WHD5I6R5Cu8o/93f86ef067d3c7630ba6b545a8811a8b/PT_visa__o_geral_acumulado.png)
 
 ### Acompanhar impactos de mudanças na loja
 
@@ -91,7 +91,7 @@ Caso deseje ver o impacto de mudanças feitas na loja, para identificar um poss�
 3. Avalie o pulso nas métricas, ou pontos de inflexão no gráfico, ocorridos nas últimas duas horas. 
 4. Compare os horários dos pontos de inflexão, com as mudanças geradas para identificar sua causa e impacto. 
 
-![PT visão geral últimas duas horas](//images.ctfassets.net/alneenqid6w5/6JA6a85eBz6dMN5Cg1EAQi/a069a0657d521f68a7be3a4221b70036/PT_visa__o_geral_u__ltimas_duas_horas.png)
+![PT visão geral últimas duas horas](https://images.ctfassets.net/alneenqid6w5/6JA6a85eBz6dMN5Cg1EAQi/a069a0657d521f68a7be3a4221b70036/PT_visa__o_geral_u__ltimas_duas_horas.png)
 
 ## Comparar períodos
 
@@ -134,7 +134,7 @@ A tabela abaixo descreve os gráficos incluídos na seção _Monitoramento_ da p
 
 ## Métricas
 
-![PT métricas](//images.ctfassets.net/alneenqid6w5/6kxOvmmLfGYnhFiBvOtrOV/5757d545cae0367ad8a8e784532252f8/PT_me__tricas.png)
+![PT métricas](https://images.ctfassets.net/alneenqid6w5/6kxOvmmLfGYnhFiBvOtrOV/5757d545cae0367ad8a8e784532252f8/PT_me__tricas.png)
 
 A tabela abaixo descreve as métricas disponíveis no painel da página inicial. Todas as métricas se referem aos fluxos de compra realizados em lojas VTEX no período selecionado.
 

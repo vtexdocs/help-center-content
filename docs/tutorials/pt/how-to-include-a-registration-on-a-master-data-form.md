@@ -37,9 +37,9 @@ Vamos dizer, por exemplo, que voce deseje editar as informações de um cliente 
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Storefront** > **Master Data**.
 2. No Master Data, clique em **Aplicações**.
-3. Dentro da aplicação **Profile System**, escolha o formulário **Clientes**.![IncluirRegistro1](//images.contentful.com/alneenqid6w5/RnwtCnfBccYk06g8se4OE/94fbce274f877694e8f4cbd09e44e9ba/IncluirRegistro1.png)
+3. Dentro da aplicação **Profile System**, escolha o formulário **Clientes**.![IncluirRegistro1](https://images.contentful.com/alneenqid6w5/RnwtCnfBccYk06g8se4OE/94fbce274f877694e8f4cbd09e44e9ba/IncluirRegistro1.png)
 4. Busque o usuário pelo campo **E-mail** (ou outro campo definido na entidade de dados como buscável).
-5. Clique em **Editar** uma vez dentro do cadastro do usuário.![IncluirRegistro2](//images.contentful.com/alneenqid6w5/2KvY5k3iTSI8CsEaG4mkyq/546835e1a58293c1d3c350733c5e7f7e/IncluirRegistro2.png)
+5. Clique em **Editar** uma vez dentro do cadastro do usuário.![IncluirRegistro2](https://images.contentful.com/alneenqid6w5/2KvY5k3iTSI8CsEaG4mkyq/546835e1a58293c1d3c350733c5e7f7e/IncluirRegistro2.png)
 6. Faça a edição desejada e clique em **Salvar**.
 
 As informações apresentadas neste exemplo vêm da da entidade de dados **CL**, e seus campos podem ser configurados como editáveis ou não diretamente na entidade de dados.

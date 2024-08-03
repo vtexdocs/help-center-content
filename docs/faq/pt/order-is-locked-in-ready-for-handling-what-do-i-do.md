@@ -25,7 +25,7 @@ Quando o ERP consulta e insere este pedido em sua base, é preciso que ele infor
 
 > Para isso, clique no símbolo de seta acima do box **Iniciar manuseio**, conforme indicado no diagrama de fluxo de pedidos abaixo.
 
-![ProntoParaManuseio](//images.contentful.com/alneenqid6w5/5VSeCrxvSogcI46mgkYkm8/84ea107934684ada917d6a8163aeae34/ProntoParaManuseio.png)
+![ProntoParaManuseio](https://images.contentful.com/alneenqid6w5/5VSeCrxvSogcI46mgkYkm8/84ea107934684ada917d6a8163aeae34/ProntoParaManuseio.png)
 
 > É necessário ter um [perfil de acesso com permissão OMS - Full access](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access "Perfis de acesso - OMS Full access") para realizar esta ação.
 

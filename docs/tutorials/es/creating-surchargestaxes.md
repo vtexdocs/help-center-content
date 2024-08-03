@@ -58,4 +58,4 @@ El impuesto se aplica conforme al registro que hará el vendedor. A continuaci�
 
 La planificación de un impuesto se produce cuando es creado o modificado con el tiempo y la fecha de validación más adelante del actual. Visualmente se pueden identificar estos impuestos en la página principal del módulo de Tsas y Promociones a través de una franja naranja en la esquina superior derecha de la lista de precios con la palabra programado. A continuación se muestra un ejemplo de cómo se identifica el impuesto cuando está programado.
 
-![agendamento.es](//images.ctfassets.net/alneenqid6w5/2DPKlUdsr38TTIwc3e9GH5/31b3319951c14c8faa6ab3558cebf19b/agendamento.es.png)
+![agendamento.es](https://images.ctfassets.net/alneenqid6w5/2DPKlUdsr38TTIwc3e9GH5/31b3319951c14c8faa6ab3558cebf19b/agendamento.es.png)

@@ -73,7 +73,7 @@ Digamos que dois preços fixos sejam cadastrados para o mesmo SKU. Além disso, 
 
 Por exemplo: o primeiro preço fixo é de __R$ 50,00__ e seu agendamento vai das __10h às 16h__. Já o segundo é de __R$ 25,00__, só que está programado das __12h às 20h do mesmo dia__. Neste caso, *entre 12h e 16h*, os dois preços fixos competem entre si. Desse modo, o valor de __R$ 25,00__ será o preço de venda do SKU neste horário em comum.
 
-![fixed price - example2](//images.ctfassets.net/alneenqid6w5/1GR4ZZSlxREEGHno3VXorQ/b014a5ed36bf608e9f582775ca06e507/fixed_price_-_example2.svg)
+![fixed price - example2](https://images.ctfassets.net/alneenqid6w5/1GR4ZZSlxREEGHno3VXorQ/b014a5ed36bf608e9f582775ca06e507/fixed_price_-_example2.svg)
 
 ### Concorrência pelo critério de Itens mínimos no carrinho
 
@@ -83,7 +83,7 @@ Imagine que cadastramos um preço fixo de R$ 200,00 para __dois ou mais itens no
 
 Qual seria o preço aplicado para 5 ou mais itens? O preço de venda será de R$ 100,00, visto que o sistema prioriza o menor valor.
 
-![fixed price - example1](//images.ctfassets.net/alneenqid6w5/60d7Vr6w08B8XZt9FCk4AG/8a577583a2df4290c2acfaa08b97b71f/fixed_price_-_example1.svg)
+![fixed price - example1](https://images.ctfassets.net/alneenqid6w5/60d7Vr6w08B8XZt9FCk4AG/8a577583a2df4290c2acfaa08b97b71f/fixed_price_-_example1.svg)
 
 ## Exemplos
 

@@ -48,7 +48,7 @@ To install B2B Suite, follow the steps below:
 
 3. Click Get App to install.
 
-![Instalação B2B Suite - EN](//images.ctfassets.net/alneenqid6w5/6FXd6YnL0yCzDalN9BlOTO/fbf0baa072a40dfdf9f89f5130eb82bf/Instala__o_B2B_Suite_-_EN.gif)
+![Instalação B2B Suite - EN](https://images.ctfassets.net/alneenqid6w5/6FXd6YnL0yCzDalN9BlOTO/fbf0baa072a40dfdf9f89f5130eb82bf/Instala__o_B2B_Suite_-_EN.gif)
 
 ## B2B Suite apps
 

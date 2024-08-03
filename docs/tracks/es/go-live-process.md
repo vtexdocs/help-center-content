@@ -18,7 +18,7 @@ Si has [configurado el funcionamiento de tu tienda](https://help.vtex.com/pt/tra
 
 En este tutorial, encontrarás una guía detallada paso a paso sobre cómo realizar el _go live_ de tu tienda.
 
-![Go live](//images.ctfassets.net/alneenqid6w5/1DBW4Cw10Z3Gt4orXMAqWE/d2dcbd2093cd822624d8ed29642eae4e/go_live_es.jpg)
+![Go live](https://images.ctfassets.net/alneenqid6w5/1DBW4Cw10Z3Gt4orXMAqWE/d2dcbd2093cd822624d8ed29642eae4e/go_live_es.jpg)
 
 <div class = "alert alert-info">
 Ten en cuenta que una tienda en producción es diferente de una cuenta en producción. En general, se puede decir que para que una tienda esté en producción, es necesario poner la cuenta en producción y realizar el apuntamiento de DNS. Consulta todos los pasos de este proceso a continuación.
@@ -27,7 +27,7 @@ Ten en cuenta que una tienda en producción es diferente de una cuenta en produc
 ## Antes de comenzar
 Antes de realizar el go live de tu tienda, es importante garantizar que hayas completado todas las configuraciones necesarias para el buen funcionamiento de la tienda.
 
-Copia esta [Lista de verificación de tienda](//assets.ctfassets.net/alneenqid6w5/3yv1ofQRJ5xeX7J5EGglGy/f254ea28c42f4fe323bb5ad29fd0da36/Lista_verificacion_tienda.xlsx) y comprueba, para cada ítem, si realizaste la configuración de acuerdo con el funcionamiento deseado de la tienda.
+Copia esta [Lista de verificación de tienda](https://assets.ctfassets.net/alneenqid6w5/3yv1ofQRJ5xeX7J5EGglGy/f254ea28c42f4fe323bb5ad29fd0da36/Lista_verificacion_tienda.xlsx) y comprueba, para cada ítem, si realizaste la configuración de acuerdo con el funcionamiento deseado de la tienda.
 
 <div class="alert alert-warning">
 La lista de verificación que se presenta aquí muestra las funcionalidades y configuraciones básicas para el funcionamiento de una tienda VTEX. Tu equipo debe definir qué funcionalidades implementará en la tienda y cómo se deben configurar para crear la experiencia de tienda deseada. Esto significa que la lista no necesariamente incluye todas las funcionalidades que tu tienda utiliza. Sin embargo, es importante verificar todos los aspectos del funcionamiento de tu tienda aunque no estén en la lista sugerida.

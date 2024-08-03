@@ -24,7 +24,7 @@ Pero existe una manera de extraer manualmente este informe accediendo al Master 
 A continuación, entienda el paso a paso para hacerlo:
 
 1. En el Admin VTEX, accede **Configuración de la tienda** > **Storefront** > **Master Data**.
-2. Haga clic en __Exportaciones__. ![exportaciones-md](//images.ctfassets.net/alneenqid6w5/70bXGj3PhkEfcixEF0ik6I/b47b9d6d497864bf45547f77c3bdd927/exportaciones.png)
+2. Haga clic en __Exportaciones__. ![exportaciones-md](https://images.ctfassets.net/alneenqid6w5/70bXGj3PhkEfcixEF0ik6I/b47b9d6d497864bf45547f77c3bdd927/exportaciones.png)
 3. Asegúrese de que la pestaña abierta es la de __Aplicaciones__.
 4. En __Status de las exportaciones__, identifique la línea del informe que desea descargar.
 5. Si el __Status__ es __Realizado - Descargar__, haga clic en **Descargar** para descargar el archivo.

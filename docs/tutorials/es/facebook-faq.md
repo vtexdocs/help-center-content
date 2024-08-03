@@ -37,7 +37,7 @@ Lo primero que debe verificar en este escenario es si el SKU realmente no posee 
 
 En el caso de que el SKU posea un precio, verifique el status del SKU porque el error también puede estar relacionado con la situación de activo/inactivo. La mejor manera de hacerlo es realizando una simulación de checkout:
 
-![face faq01](//images.ctfassets.net/alneenqid6w5/6PFO5g1ZrT0uv7uWLdWNmT/c7b62f12066bdb95f7c45d533b2bb460/face_faq01.JPG)
+![face faq01](https://images.ctfassets.net/alneenqid6w5/6PFO5g1ZrT0uv7uWLdWNmT/c7b62f12066bdb95f7c45d533b2bb460/face_faq01.JPG)
 
 En esta simulación es importante analizar los campos:  
 

@@ -23,7 +23,7 @@ Con el objetivo de continuar perfeccionando esa experiencia, incluimos una valid
 
 Antes, un consumidor podía seleccionar una tarjeta vencida y realizar una compra, cuyo pago luego sería rechazado. Ahora, señalamos las tarjetas caducadas y evitamos que sean seleccionadas en el checkout, para una experiencia de compra más fluida.
 
-![ES - Expired Cards](//images.ctfassets.net/alneenqid6w5/7HzPrSIeXAcZj1x5v7PFsB/276fcf10f19f3c8ec703547d75e2aa5d/ES_-_Expired_Cards.png)
+![ES - Expired Cards](https://images.ctfassets.net/alneenqid6w5/7HzPrSIeXAcZj1x5v7PFsB/276fcf10f19f3c8ec703547d75e2aa5d/ES_-_Expired_Cards.png)
 
 ## ¿Por qué realizamos este cambio?
 

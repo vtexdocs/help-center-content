@@ -33,7 +33,7 @@ The Received SKUs page is divided in tabs that correspond to the different offer
 
 Each tab displays a SKU list, offer SKU specifications, and the percentage of offers that have that status. Additionally, the tab has filter options that you can apply to the offers.  
 
-![received-skus-tabs-en](//images.ctfassets.net/alneenqid6w5/4jNrRvJsZgja1LuSz204P1/09fa16e993ba58dffa27b8809bb22c8f/received-skus-tabs-en.png)
+![received-skus-tabs-en](https://images.ctfassets.net/alneenqid6w5/4jNrRvJsZgja1LuSz204P1/09fa16e993ba58dffa27b8809bb22c8f/received-skus-tabs-en.png)
 
 ### Pending
 
@@ -50,7 +50,7 @@ Each row in the list represents a product and contains the following information
 
 To check all the specifications of a product, click the name of the product. This will open a window that contains all the product information.  
 
-![received-skus-tabs-en](//images.ctfassets.net/alneenqid6w5/3QSXyYXqhdAB3R4J3lL749/ff94df985c2cc930548645ac0fbd5e98/received-skus-analyse-product-en.png)
+![received-skus-tabs-en](https://images.ctfassets.net/alneenqid6w5/3QSXyYXqhdAB3R4J3lL749/ff94df985c2cc930548645ac0fbd5e98/received-skus-analyse-product-en.png)
 
 ### Issues  
 
@@ -62,7 +62,7 @@ The __Issues__ tab contains all the offers that haven't been approved because th
 
 To identify the issue of an offer, simply click the name of the product. This will open a window with the product information, an error message, and the offer reviewer.  
 
-![received-skus-problems-tab](//images.ctfassets.net/alneenqid6w5/4yZtOcq16r6SXvai0lWzau/58d57ab4904c6794299855c91bfa6ef1/received-skus-problems-tab.png)
+![received-skus-problems-tab](https://images.ctfassets.net/alneenqid6w5/4yZtOcq16r6SXvai0lWzau/58d57ab4904c6794299855c91bfa6ef1/received-skus-problems-tab.png)
 
 ### Approved  
 
@@ -121,7 +121,7 @@ By default, the items that were submitted most recently are displayed at the top
 
 In this case, the items will be sorted in ascending or descending order when you click the __Price__ or __Inventory__ column headers.  
 
-![received-skus-ord-en](//images.ctfassets.net/alneenqid6w5/3Eur3cPCdSTtZjoGIqeq6o/585afe9679294087fe9351cea7f0799a/received-skus-ord-en.png)
+![received-skus-ord-en](https://images.ctfassets.net/alneenqid6w5/3Eur3cPCdSTtZjoGIqeq6o/585afe9679294087fe9351cea7f0799a/received-skus-ord-en.png)
 
 ## Cataloging items  
 
@@ -152,7 +152,7 @@ The available cataloging actions are:
 This action can be applied in the offer tabs <b>Pending</b> and <b>Issues</b>.
 </div>
 
-![received-skus-create-new-product-en](//images.ctfassets.net/alneenqid6w5/4H2vmekbrtbXQXUVrwVoSF/2d18fb18e7711cb4cd341795ac0820b4/received-skus-create-new-product-en.png)
+![received-skus-create-new-product-en](https://images.ctfassets.net/alneenqid6w5/4H2vmekbrtbXQXUVrwVoSF/2d18fb18e7711cb4cd341795ac0820b4/received-skus-create-new-product-en.png)
 
 - __Link to an existing product:__ Creates a relationship between the seller product and a product in the marketplace catalog. To apply this action, follow the steps below:  
 
@@ -171,7 +171,7 @@ Creating a new link groups the new sizes with the existing ones. After this, the
 This action can be applied in the offer tabs <b>Pending</b> and <b>Issues</b>.
 </div>  
 
-![received-skus-bind-to-product-en](//images.ctfassets.net/alneenqid6w5/2fAWptfykAdJ3UTDSCpNhW/fc02d18fe2771b0603f861f8516ab7ae/received-skus-bind-to-product-en.png)
+![received-skus-bind-to-product-en](https://images.ctfassets.net/alneenqid6w5/2fAWptfykAdJ3UTDSCpNhW/fc02d18fe2771b0603f861f8516ab7ae/received-skus-bind-to-product-en.png)
 
 - __Link to an existing SKU:__ Creates a relationship between the new seller SKU and a SKU in the marketplace catalog. To apply this action, follow the steps below:  
 
@@ -190,7 +190,7 @@ Now, let's say the marketplace received the same 128 GB SKU from Seller 2. To av
 This action can be applied in the offer tabs <b>Pending</b> and <b>Issues</b>.
 </div>
 
-![received-skus-bind-to-sku-en](//images.ctfassets.net/alneenqid6w5/2326FaqSqhPfQ0qeiD8KWE/8bc6c9b98e03afe02252bd69342005d1/received-skus-bind-to-sku-en.png)
+![received-skus-bind-to-sku-en](https://images.ctfassets.net/alneenqid6w5/2326FaqSqhPfQ0qeiD8KWE/8bc6c9b98e03afe02252bd69342005d1/received-skus-bind-to-sku-en.png)
 
 - __Block:__ Blocks the selected offers. This will prevent them from being automatically processed again. To apply this action, follow the steps below:  
 
@@ -205,7 +205,7 @@ When the marketplace blocks a SKU, it won't be included with other submitted off
 This action can be applied in the offer tabs <b>Pending</b> and <b>Issues</b>. Blocked offers can be viewed in the <b>Blocked</b> tab.
 </div>
 
-![received-skus-reject-and-block-en](//images.ctfassets.net/alneenqid6w5/3rfJ5AjzArgvv7thlD3keQ/247d5dcfb554755d091b1367d84db2d5/received-skus-reject-and-block-en.png)
+![received-skus-reject-and-block-en](https://images.ctfassets.net/alneenqid6w5/3rfJ5AjzArgvv7thlD3keQ/247d5dcfb554755d091b1367d84db2d5/received-skus-reject-and-block-en.png)
 
 - __Reject for correction:__ Rejects the offer and sends an information correction request to the seller. To apply this action, follow the steps below:  
 
@@ -218,7 +218,7 @@ This action can be applied in the offer tabs <b>Pending</b> and <b>Issues</b>. B
 	<p>This action can be applied in the offer tab <b>Pending</b>. The offers that need correction will show in the <b>Issues</b> tab.</p>
 </div>  
 
-![received-skus-reject-for-correction-en](//images.ctfassets.net/alneenqid6w5/62XmAvuM9luOqmLCwLpW2A/7d456cf95d5a4ed7011accdfe0550fba/received-skus-reject-for-correction-en.png)
+![received-skus-reject-for-correction-en](https://images.ctfassets.net/alneenqid6w5/62XmAvuM9luOqmLCwLpW2A/7d456cf95d5a4ed7011accdfe0550fba/received-skus-reject-for-correction-en.png)
 
 - __Automatic approval:__ You can also set up automatic approval for SKUs from a specific seller regardless of their Matcher score. This action can only be applied through a REST API. To learn more, see [Suggestions](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions).  
 

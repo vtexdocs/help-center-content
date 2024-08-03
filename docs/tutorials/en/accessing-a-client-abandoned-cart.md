@@ -29,26 +29,26 @@ Viewing these fields is very simple. Once logged in to your store Admin, just fo
 
 1. In the Admin sidebar, click __Master Data__;
 
-  ![Carrinho Abandonado - 1 - EN](//images.ctfassets.net/alneenqid6w5/4GdZSkwtm9f76BIVFnC65D/4e22ff4da9abc1b692ee236082a1c85d/4GdZSkwtm9f76BIVFnC65D_Masterdata_EN.jpg)
+  ![Carrinho Abandonado - 1 - EN](https://images.ctfassets.net/alneenqid6w5/4GdZSkwtm9f76BIVFnC65D/4e22ff4da9abc1b692ee236082a1c85d/4GdZSkwtm9f76BIVFnC65D_Masterdata_EN.jpg)
 
 2. Click the __Profile System__ Settings icon (gear);
 
-  ![Carrinho Abandonado - 2 - EN](//images.ctfassets.net/alneenqid6w5/2lT6TyHXyqprOVrVWKcrXL/b22ea9f10722d249dd6bbda4ab6f43ac/2lT6TyHXyqprOVrVWKcrXL_Masterdata.jpg)
+  ![Carrinho Abandonado - 2 - EN](https://images.ctfassets.net/alneenqid6w5/2lT6TyHXyqprOVrVWKcrXL/b22ea9f10722d249dd6bbda4ab6f43ac/2lT6TyHXyqprOVrVWKcrXL_Masterdata.jpg)
 
 3. Make sure you are in the __Applications__ tab;
 
-  ![Carrinho Abandonado - 3 - EN](//images.ctfassets.net/alneenqid6w5/7uNmvjaX9n2fEyS6qrqBs5/2cba845e608d8d2c577542351afebe1f/7uNmvjaX9n2fEyS6qrqBs5_Masterdata.jpg)
+  ![Carrinho Abandonado - 3 - EN](https://images.ctfassets.net/alneenqid6w5/7uNmvjaX9n2fEyS6qrqBs5/2cba845e608d8d2c577542351afebe1f/7uNmvjaX9n2fEyS6qrqBs5_Masterdata.jpg)
 
 4. Click Edit (Pencil icon) in the __Customers__ category;
 
-  ![Carrinho Abandonado - 4 - EN](//images.ctfassets.net/alneenqid6w5/3ea3rmBM3CGMla7fngViDb/e2ec5bfae66b41f7b882a30510d08c51/3ea3rmBM3CGMla7fngViDb_Masterdata.jpg)
+  ![Carrinho Abandonado - 4 - EN](https://images.ctfassets.net/alneenqid6w5/3ea3rmBM3CGMla7fngViDb/e2ec5bfae66b41f7b882a30510d08c51/3ea3rmBM3CGMla7fngViDb_Masterdata.jpg)
 
 5. Select __"Last Cart"__ and __"Cart"__ from the __Listing Options__;
 
-  ![Carrinho Abandonado - 5 - EN](//images.ctfassets.net/alneenqid6w5/1jjfpJH15yyTILbKIJqVaH/e74e93b98db80fd40db53d38efd7436a/1jjfpJH15yyTILbKIJqVaH_Masterdata_PT.jpg)
+  ![Carrinho Abandonado - 5 - EN](https://images.ctfassets.net/alneenqid6w5/1jjfpJH15yyTILbKIJqVaH/e74e93b98db80fd40db53d38efd7436a/1jjfpJH15yyTILbKIJqVaH_Masterdata_PT.jpg)
 
 6. Click __Save__.
 
-  ![Carrinho Abandonado - 6 - EN](//images.ctfassets.net/alneenqid6w5/5NUGVb2W2Jq98vbJgF1UcN/75c67997d3547b16653b09030778d91e/5NUGVb2W2Jq98vbJgF1UcN_Masterdata.jpg)
+  ![Carrinho Abandonado - 6 - EN](https://images.ctfassets.net/alneenqid6w5/5NUGVb2W2Jq98vbJgF1UcN/75c67997d3547b16653b09030778d91e/5NUGVb2W2Jq98vbJgF1UcN_Masterdata.jpg)
 
 With this, you can see the parameters of your customers' abandoned carts.

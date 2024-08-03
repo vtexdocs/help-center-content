@@ -21,7 +21,7 @@ Ao se integrar com um marketplace, é preciso definir quais produtos serão envi
 
 Uma possibilidade é trabalhar todo o catálogo de produtos junto ao marketplace. Para isso, basta associar o ID da política comercial da loja principal, que será sempre a de **ID 1**, [quando solicitado nas configurações](/pt/tutorial/integrando-com-marketplace/).
 
-![ExemploPoliticaComercial](//images.contentful.com/alneenqid6w5/37CzxbrZ9KciYm4G2gK0MK/54a58d8fa3a53dcf310caa2769e53174/ExemploPoliticaComercial.png)
+![ExemploPoliticaComercial](https://images.contentful.com/alneenqid6w5/37CzxbrZ9KciYm4G2gK0MK/54a58d8fa3a53dcf310caa2769e53174/ExemploPoliticaComercial.png)
 
 Esta política comercial não demanda uma coleção de produtos configurada, pois o sistema já entende que ela se refere a todos os produtos.
 
@@ -34,7 +34,7 @@ Outra possibilidade é trabalhar com um sortimento específico por alguma polí
 5. Marque o checkbox das políticas comerciais a qual este produto deverá pertencer.
 6. Clique em **Salvar**.
 
-![](//images.contentful.com/alneenqid6w5/2Fp2Y3qFF6SCwQaQI2iEiC/fae0654d1685f1f625794180044ae6a6/loja-cadastro-produto.gif)
+![](https://images.contentful.com/alneenqid6w5/2Fp2Y3qFF6SCwQaQI2iEiC/fae0654d1685f1f625794180044ae6a6/loja-cadastro-produto.gif)
 _Caso existam produtos que não têm nenhum valor marcado no campo **loja** no cadastro de produtos ou no cadastro de preços, esses produtos serão enviados para todas as políticas comerciais configuradas sem coleção._
 
 ## Indexação do Produto

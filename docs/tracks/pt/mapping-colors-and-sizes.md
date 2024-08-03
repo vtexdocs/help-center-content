@@ -65,7 +65,7 @@ Deve-se escolher a cor disponível mais próxima que, no caso da Wish, "Gelo" po
   OBS: o cabeçalho da tabela deve ser preenchida exatamente como está no exemplo abaixo. Lembre-se de não adicionar caracteres especiais como enter ou espaço no preenchimento dessa tabela. 
   </div>
 
-![PT - Tabela Wish](//images.ctfassets.net/alneenqid6w5/5fvuqSjSRGHwbFVNUSTM3T/6f8f13054b1be01cbd1340d7b5b90bbd/Tabela_Wish.png)
+![PT - Tabela Wish](https://images.ctfassets.net/alneenqid6w5/5fvuqSjSRGHwbFVNUSTM3T/6f8f13054b1be01cbd1340d7b5b90bbd/Tabela_Wish.png)
 
 ## Fazendo o upload
 

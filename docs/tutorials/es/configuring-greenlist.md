@@ -45,7 +45,7 @@ Cuanto más datos de suscripción exijas, más estrictas serán tus reglas, y me
 
 Para marcar un cliente como confiable, el propietario de la tienda usa algunos criterios. Estos criterios son los __datos de compra que componen la firma de un pedido__
 
-![Greenlist - suscripción](//images.contentful.com/alneenqid6w5/3CvVVFRIJ22wS6o8sq6ok6/45cdf4a8259437d36aa74a40a8a04715/Greenlist_-_assinatura.png) 
+![Greenlist - suscripción](https://images.contentful.com/alneenqid6w5/3CvVVFRIJ22wS6o8sq6ok6/45cdf4a8259437d36aa74a40a8a04715/Greenlist_-_assinatura.png) 
 
 Digamos que marques tres de las opciones arriba: __E-mail__, __Dirección de entrega__ y __Tarjeta de crédito__. Esto significa que, para que nuevos pedidos de ese cliente no pasen por el antifraude, él tiene que usar en nuevas compras los mismos datos de email, dirección y tarjeta de crédito. 
 
@@ -57,7 +57,7 @@ La recurrencia de la firma define el número de pedidos que un cliente debe hace
 
 Este número debe definirlo el propio propietario de la tienda, y puede variar de __1 a 10__.
 
-![Greenlist - recurrencia](//images.contentful.com/alneenqid6w5/2TFJUnw1Cw8I0KcqCcAsmS/6aaec62228ec8ff5a38093e743a4229b/Greenlist_-_recorrencia.png)
+![Greenlist - recurrencia](https://images.contentful.com/alneenqid6w5/2TFJUnw1Cw8I0KcqCcAsmS/6aaec62228ec8ff5a38093e743a4229b/Greenlist_-_recorrencia.png)
 
 Si defines la recurrencia en 6, por ejemplo, todos los clientes de tu tienda que hagan seis compras usando los mismos datos definidos en la firma dejan de pasar por el antifraude a partir de la próxima compra.
 
@@ -65,7 +65,7 @@ Si defines la recurrencia en 6, por ejemplo, todos los clientes de tu tienda que
 
 Puedes configurar un valor máximo para que la Greenlist sea válida. Esto porque aun si un cliente ya ha sido marcado como confiable, puedes preferir que - para valores muy altos, en los que es mayor el riesgo de pérdida – el antifraude actúe independientemente del historial de compras de ese cliente.
 
-![Greenlist - valor maximo](//images.contentful.com/alneenqid6w5/1CG6Wm74qIu4Qam2WekkE4/02f3e165b7970651406d667ae66e4589/Greenlist_-_valor_maximo.png)
+![Greenlist - valor maximo](https://images.contentful.com/alneenqid6w5/1CG6Wm74qIu4Qam2WekkE4/02f3e165b7970651406d667ae66e4589/Greenlist_-_valor_maximo.png)
 
 ### Plazo de seguridad para Chargeback
 
@@ -73,7 +73,7 @@ Algunas veces, después de efectuado un pedido y aprobada la compra por el antif
 
 En este caso, es interesante definir un margen de seguridad para el análisis de la Greenlist. Por ejemplo, al elegir un plazo de seguridad de 30 días, el comerciante está diciendo que todo pedido aprobado por el antifraude será evaluado por la Greenlist solamente después de 30 días.
 
-![Greenlist - chargeback](//images.contentful.com/alneenqid6w5/314Ig5HLCU2uy0kyYEu4gC/105ed241ac49923035a7b4d441d698e0/Greenlist_-_chargeback.png)
+![Greenlist - chargeback](https://images.contentful.com/alneenqid6w5/314Ig5HLCU2uy0kyYEu4gC/105ed241ac49923035a7b4d441d698e0/Greenlist_-_chargeback.png)
 
 ### Activando la Greenlist
 
@@ -92,6 +92,6 @@ Si identificas que el pedido de un cliente integrante de la Greenlist (o cualqui
 2. En la lista de transacciones, hacer clic en la transacción que se desea marcar como fraude;
 3. Hacer clic en el botón __Marcar el pago como fraude__.
 
-![Marcar como fraude](//images.contentful.com/alneenqid6w5/3EiAcGulosCgQq4qCIGqQE/d0be6c70e7129f63b189c56bdb79012b/fraud.png)
+![Marcar como fraude](https://images.contentful.com/alneenqid6w5/3EiAcGulosCgQq4qCIGqQE/d0be6c70e7129f63b189c56bdb79012b/fraud.png)
 
 Una vez que se marca una transacción como fraude, se remueve del Greenlist el cliente que hizo el pedido. 

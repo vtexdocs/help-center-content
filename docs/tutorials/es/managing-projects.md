@@ -17,7 +17,7 @@ subcategory: 27t6x0lngvjI3bnUg5AgEO
 
 Proyectos es una funcionalidad de VTEX Headless CMS que simplifica la gestión de varios proyectos de frontend, como aplicaciones móviles, páginas web y email marketing, desde un único dashboard.
 
-![Projects pages](//images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/28a48f587a491e87481d837595130e0d/projects-one-es.gif)
+![Projects pages](https://images.ctfassets.net/alneenqid6w5/5sXlS9M78whzUVdSxJiKpX/28a48f587a491e87481d837595130e0d/projects-one-es.gif)
 
 Cada proyecto cuenta con sus propios ajustes, contenido y marca, pudiendo personalizarse en función de públicos u objetivos específicos. 
 
@@ -33,7 +33,7 @@ Para gestionar el Headless CMS, asegúrese de que los [recursos](https://help.vt
 ## Visión general
 Para acceder a **Proyectos**, en el Admin VTEX ve a **Storefront > Headless CMS**.
 
-![Projects overview](//images.ctfassets.net/alneenqid6w5/3RgVmOuLr7SJmEfots0KMZ/fa66fd00d9a29e3eeb835369c70277d7/projects-two-es-outro.png)
+![Projects overview](https://images.ctfassets.net/alneenqid6w5/3RgVmOuLr7SJmEfots0KMZ/fa66fd00d9a29e3eeb835369c70277d7/projects-two-es-outro.png)
 
 | Opciones     | Descripción     |
 | ---------- | ---------- |
@@ -113,7 +113,7 @@ Para archivar un proyecto sigue los pasos a continuación:
 1. Accede a **Storefront > Proyectos**.
 2. Selecciona el proyecto que deseas archivar y haz clic en **Configuración** (⚙️). 
 3. Haz clic en `Archivar proyecto` en la página `General`. Aparecerá un mensaje emergente para confirmar que deseas archivar el proyecto.
-![Arquivar projeto - ES](//images.ctfassets.net/alneenqid6w5/3FkQ3UCU68HH8QkP4LH91I/a7f9e04f4b9dc6161bd3f9a9c683f99c/projects-three-es.png)
+![Arquivar projeto - ES](https://images.ctfassets.net/alneenqid6w5/3FkQ3UCU68HH8QkP4LH91I/a7f9e04f4b9dc6161bd3f9a9c683f99c/projects-three-es.png)
 4. Haz clic en `Archivar`. A continuación aparecerá un mensaje informando que el proyecto se archivó con éxito.
 
 Para restaurar un proyecto archivado, sigue los pasos descritos en [Restaurar proyecto] (#restaurar-proyecto).

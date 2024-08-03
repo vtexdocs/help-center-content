@@ -44,9 +44,9 @@ A tabela cliente possui 2 colunas: ID e nome.
 ID é um número que não se repete, pois é o número que identifica o cliente. Nome é o nome do cliente.
 Porém, para facilitar a busca, a coluna nome foi criada como índice e colocada como **Valores Únicos**. 
 
-[![indice1](//images.contentful.com/alneenqid6w5/2Z02pI4DxeaaWOmYw42Suu/60bb0d893f5bd07f94928288390a5526/image011.png)](//images.contentful.com/alneenqid6w5/2Z02pI4DxeaaWOmYw42Suu/60bb0d893f5bd07f94928288390a5526/image011.png "![indice1](//images.contentful.com/alneenqid6w5/2Z02pI4DxeaaWOmYw42Suu/60bb0d893f5bd07f94928288390a5526/image011.png)")Com isso, caso se queira inserir um nome que já tenha sido cadastrado em Cliente, não será possível. 
+[![indice1](https://images.contentful.com/alneenqid6w5/2Z02pI4DxeaaWOmYw42Suu/60bb0d893f5bd07f94928288390a5526/image011.png)](https://images.contentful.com/alneenqid6w5/2Z02pI4DxeaaWOmYw42Suu/60bb0d893f5bd07f94928288390a5526/image011.png "![indice1](https://images.contentful.com/alneenqid6w5/2Z02pI4DxeaaWOmYw42Suu/60bb0d893f5bd07f94928288390a5526/image011.png)")Com isso, caso se queira inserir um nome que já tenha sido cadastrado em Cliente, não será possível. 
 
-[![indice2](//images.contentful.com/alneenqid6w5/FwEjcrqaQwKE8U4AEMOY4/ca741feb38fb89e6c3e0bd3ec442ba37/image002.png)](//images.contentful.com/alneenqid6w5/FwEjcrqaQwKE8U4AEMOY4/ca741feb38fb89e6c3e0bd3ec442ba37/image002.png "![indice2](//images.contentful.com/alneenqid6w5/FwEjcrqaQwKE8U4AEMOY4/ca741feb38fb89e6c3e0bd3ec442ba37/image002.png)")
+[![indice2](https://images.contentful.com/alneenqid6w5/FwEjcrqaQwKE8U4AEMOY4/ca741feb38fb89e6c3e0bd3ec442ba37/image002.png)](https://images.contentful.com/alneenqid6w5/FwEjcrqaQwKE8U4AEMOY4/ca741feb38fb89e6c3e0bd3ec442ba37/image002.png "![indice2](https://images.contentful.com/alneenqid6w5/FwEjcrqaQwKE8U4AEMOY4/ca741feb38fb89e6c3e0bd3ec442ba37/image002.png)")
 Esse exemplo mostra que a opção **Valores Únicos** deve ser utilizada com cuidado, pois, caso um valor possa se repetir, ele será impedido de ser cadastrado com a configuração realizada.
 
 ### Vários campos no Índice
@@ -57,9 +57,9 @@ Neste caso, a chave alternativa vai impedir que a combinação dos campos seleci
 
 Seguindo o mesmo exemplo, imagine que a entidade cliente tenha mais uma coluna: CPF. Então, na configuração do índice, em **Composição de campos**, foram inseridas as colunas nome e CPF.
 
-[![indice3](//images.contentful.com/alneenqid6w5/41Y8vUIFjWGuqoqwA6UYaK/0a33bc147f17f95ea5038124bbd5132a/image021.png)](//images.contentful.com/alneenqid6w5/41Y8vUIFjWGuqoqwA6UYaK/0a33bc147f17f95ea5038124bbd5132a/image021.png "![indice3](//images.contentful.com/alneenqid6w5/41Y8vUIFjWGuqoqwA6UYaK/0a33bc147f17f95ea5038124bbd5132a/image021.png)")
+[![indice3](https://images.contentful.com/alneenqid6w5/41Y8vUIFjWGuqoqwA6UYaK/0a33bc147f17f95ea5038124bbd5132a/image021.png)](https://images.contentful.com/alneenqid6w5/41Y8vUIFjWGuqoqwA6UYaK/0a33bc147f17f95ea5038124bbd5132a/image021.png "![indice3](https://images.contentful.com/alneenqid6w5/41Y8vUIFjWGuqoqwA6UYaK/0a33bc147f17f95ea5038124bbd5132a/image021.png)")
 Então, agora é possível incluir o Marcos do exemplo anterior, basta que ele não tenha o mesmo CPF que o Marcos já inserido. Ou seja, apenas a combinação de campos não pode se repetir. Podem ter CPFs repetidos entre si e podem ter nomes repetidos entre si, porém, não pode ser CPF e nome repetido para o mesmo registro.
 
-[![indice4](//images.contentful.com/alneenqid6w5/36308RenwQq2aYcSkAYq6K/5a18bd8e7eca83e3f7ac40d3e6ca41ad/image031.png)](//images.contentful.com/alneenqid6w5/36308RenwQq2aYcSkAYq6K/5a18bd8e7eca83e3f7ac40d3e6ca41ad/image031.png "![indice4](//images.contentful.com/alneenqid6w5/36308RenwQq2aYcSkAYq6K/5a18bd8e7eca83e3f7ac40d3e6ca41ad/image031.png)")
+[![indice4](https://images.contentful.com/alneenqid6w5/36308RenwQq2aYcSkAYq6K/5a18bd8e7eca83e3f7ac40d3e6ca41ad/image031.png)](https://images.contentful.com/alneenqid6w5/36308RenwQq2aYcSkAYq6K/5a18bd8e7eca83e3f7ac40d3e6ca41ad/image031.png "![indice4](https://images.contentful.com/alneenqid6w5/36308RenwQq2aYcSkAYq6K/5a18bd8e7eca83e3f7ac40d3e6ca41ad/image031.png)")
 
 __Lembre-se!__ Neste caso também é necessário atenção pois a mesma combinação de valores não poderão e repetir e o registro será impossibilitado de ser gravado. Recomendamos que o atributo **Valores Únicos** no Índice seja utilizado apenas quando os valores não têm possibilidade de se repetir.

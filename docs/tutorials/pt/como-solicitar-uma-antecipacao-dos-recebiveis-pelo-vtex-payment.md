@@ -31,7 +31,7 @@ Agora que você já conferiu o saldo, é importante ter em mente que o valor mí
 
 Por exemplo, caso o seu menor recebível seja de R$10, esse é o valor mínimo que você pode antecipar. Já o valor máximo é informado no próprio Admin - o saldo que você acabou de conferir - na página de “Antecipar recebíveis”. 
 
-![anteciparpaymentPT](//images.ctfassets.net/alneenqid6w5/25BWOQcUJ4RHHefod0IkFw/3d4ba6ba362db2362e870420dd3653a3/anteciparpaymentPT.png)
+![anteciparpaymentPT](https://images.ctfassets.net/alneenqid6w5/25BWOQcUJ4RHHefod0IkFw/3d4ba6ba362db2362e870420dd3653a3/anteciparpaymentPT.png)
 
 <div class=”alert alert-info”>
 <strong>Atenção</strong>: recebíveis em disputa ou previstos para o próximo dia útil não podem ser antecipados.

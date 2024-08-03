@@ -20,7 +20,7 @@ The functions described in this article are not yet available for all clients.
 
 A pricing rule is a modifier of the base price, registered on the Price List screen.
 
-![new-dashboard-pricing-en](//images.contentful.com/alneenqid6w5/3OrKTf9XKE0WEAw2IW2Mae/696d2244b31a1858f42b48a88af9d780/new-dashboard-pricing-en.gif)
+![new-dashboard-pricing-en](https://images.contentful.com/alneenqid6w5/3OrKTf9XKE0WEAw2IW2Mae/696d2244b31a1858f42b48a88af9d780/new-dashboard-pricing-en.gif)
 
 ## How it works
 
@@ -34,7 +34,7 @@ In addition, it is important to note that pricing rules are applied to the price
 
 **Only the first** pricing rule that is valid for the SKU conditions (category; brand; and the markup range) will be applied. Even if there are other valid pricing rules, only the first one in the order will be used to calculate the price of the SKU.
 
-![new-dashboard-pricing-rule-reordering-en](//images.contentful.com/alneenqid6w5/4E63yq87du4wWaCkMwwIyi/1d547309fe17e23ee260448d895e4176/new-dashboard-pricing-rule-reordering-en.gif)
+![new-dashboard-pricing-rule-reordering-en](https://images.contentful.com/alneenqid6w5/4E63yq87du4wWaCkMwwIyi/1d547309fe17e23ee260448d895e4176/new-dashboard-pricing-rule-reordering-en.gif)
 
 _We recommend that the order should start with the most specific rules and end with the most comprehensive ones._
 
@@ -42,7 +42,7 @@ _We recommend that the order should start with the most specific rules and end w
 
 The step-by-step procedure for registering is very simple, and is illustrated below:
 
-![new-dashboard-pricing-add-rule-en](//images.contentful.com/alneenqid6w5/4pswVlLUXeuaqUESyakQwo/749e46b278c883e95f4f41b03b4328d1/new-dashboard-pricing-add-rule-en.gif)
+![new-dashboard-pricing-add-rule-en](https://images.contentful.com/alneenqid6w5/4pswVlLUXeuaqUESyakQwo/749e46b278c883e95f4f41b03b4328d1/new-dashboard-pricing-add-rule-en.gif)
 
 1. The **Price rules** will show a list of all the commercial policies. Each of these policies will contain rules. Click on the button **New rule**, above the list, to create a rule.
 2. Select the commercial policy which is to contain this rule.
@@ -53,8 +53,8 @@ The step-by-step procedure for registering is very simple, and is illustrated be
 
 Below you can see examples of the flows of editing and deleting pricing rules. 
 
-![new-dashboard-pricing-edit-rule-en](//images.contentful.com/alneenqid6w5/3N1ZqQ2bSww8wmYAs84yeS/998ade54241f0544b88840d0577898e4/new-dashboard-pricing-edit-rule-en.gif)
+![new-dashboard-pricing-edit-rule-en](https://images.contentful.com/alneenqid6w5/3N1ZqQ2bSww8wmYAs84yeS/998ade54241f0544b88840d0577898e4/new-dashboard-pricing-edit-rule-en.gif)
 _Procedure for modifying a rule_
 
-![new-dashboard-pricing-remove-rule-en](//images.contentful.com/alneenqid6w5/1oA1m0LkgI6uIeaYquoCIA/4e34d4baefd7bc3c31170701d5101bf8/new-dashboard-pricing-remove-rule-en.gif)
+![new-dashboard-pricing-remove-rule-en](https://images.contentful.com/alneenqid6w5/1oA1m0LkgI6uIeaYquoCIA/4e34d4baefd7bc3c31170701d5101bf8/new-dashboard-pricing-remove-rule-en.gif)
 _Procedure for deleting a rule_

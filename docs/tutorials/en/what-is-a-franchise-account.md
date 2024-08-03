@@ -19,7 +19,7 @@ On the VTEX platform, you have the option to register physical stores, franchise
 
 The franchise account is associated with a main account. In the case of a brand that has several physical stores, franchisees or representatives, each of them can have a franchise account linked to the brand's main account. This allows them to deliver the products sold by the brand's ecommerce.
 
-![diagrama contas v2 - en](//images.ctfassets.net/alneenqid6w5/6KC4yvWh08WZ3DMcGRJS4I/bf1a348a817eb6a839db435d5dce1a9c/diagrama_contas_v2_-_en.png)
+![diagrama contas v2 - en](https://images.ctfassets.net/alneenqid6w5/6KC4yvWh08WZ3DMcGRJS4I/bf1a348a817eb6a839db435d5dce1a9c/diagrama_contas_v2_-_en.png)
 
 In this article, we will cover the following topics:
 
@@ -38,7 +38,7 @@ In addition, when using the franchise account you can manage prices and payment 
 
 A franchise account does not have its own website. Consumers browse directly on the main account website, which functions as a marketplace in this situation. Customer data is stored in the Master Data of the main account.
 
-![diagrama admin contas - en](//images.ctfassets.net/alneenqid6w5/226ePm8TzkWPFnTvJj2Sej/34a3ac170c1d3f7db9f4f03d27fa2a03/diagrama_admin_contas_-_en.png)
+![diagrama admin contas - en](https://images.ctfassets.net/alneenqid6w5/226ePm8TzkWPFnTvJj2Sej/34a3ac170c1d3f7db9f4f03d27fa2a03/diagrama_admin_contas_-_en.png)
 
 ## Relationship between franchise account and White Label Seller
 

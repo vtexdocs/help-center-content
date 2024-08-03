@@ -26,11 +26,11 @@ Não é necessário criar um JSON Schema para salvar documentos. Você pode salv
 
 O JSON Schema indica como validar e indexar. Uma entidade de dados pode ou não ter múltiplos JSON Schemas.
 
-![master-data-data-entity-schemas](//images.contentful.com/alneenqid6w5/5Ms8eS24xOsGWcEGY0WKwu/724d0585090ee2d3bf6fc47dad7a3859/master-data-data-entity-schemas.jpg)
+![master-data-data-entity-schemas](https://images.contentful.com/alneenqid6w5/5Ms8eS24xOsGWcEGY0WKwu/724d0585090ee2d3bf6fc47dad7a3859/master-data-data-entity-schemas.jpg)
 
 Um documento pode ser compatível com múltiplos JSON Schemas, mas também com nenhum.
 
-![master-data-documents-compliant](//images.contentful.com/alneenqid6w5/7m7NMV5Hc4Wq8aKeGeWiAY/29301b6873e1549c244d56e15cf4caf7/master-data-documents-compliant.jpg)
+![master-data-documents-compliant](https://images.contentful.com/alneenqid6w5/7m7NMV5Hc4Wq8aKeGeWiAY/29301b6873e1549c244d56e15cf4caf7/master-data-documents-compliant.jpg)
 
 Isso significa que o JSON Schema é um formato de documentos em entidades de dados.
 

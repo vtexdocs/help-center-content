@@ -21,7 +21,7 @@ A partir do dia 25 de junho de 2019, o usuário que não tiver acesso vinculado 
 
 Buscando garantir maior segurança, criamos a possibilidade de limitar perfis de acesso a tela de **Configurações** do módulo Gerenciamento de Pedidos, permitindo que somente alguns usuários editem as informações.
 
-![2019-06-07 17 23 36-Configurações.pt](//images.ctfassets.net/alneenqid6w5/45magq14vJ6nY1opKENj62/f7f22017b6c4fb359d5d0a0211669401/2019-06-07_17_23_36-Configura____es.pt.png)
+![2019-06-07 17 23 36-Configurações.pt](https://images.ctfassets.net/alneenqid6w5/45magq14vJ6nY1opKENj62/f7f22017b6c4fb359d5d0a0211669401/2019-06-07_17_23_36-Configura____es.pt.png)
 
 ## Principais Vantagens
 
@@ -41,7 +41,7 @@ Para fazer isso é necessário adicionar um produto chamado `Checkout` ao perfil
  6. Escolha o tipo de permissão desejada: `Save Order Configuration`, para permitir que o usuário edite e salve modificações na seção de **Pedidos**, ou `Save OrderForm Configuration`, para permitir a edição na seção de **Carrinho**.
  7. Clique em **Salvar**
 
-![GIT-Checkout.pt](//images.ctfassets.net/alneenqid6w5/4nqdHOVWcKnMNdMjLqJhtF/9d285f0e1d5c4f6f3277cbce6f73cfb3/GIT-Checkout.pt.gif)
+![GIT-Checkout.pt](https://images.ctfassets.net/alneenqid6w5/4nqdHOVWcKnMNdMjLqJhtF/9d285f0e1d5c4f6f3277cbce6f73cfb3/GIT-Checkout.pt.gif)
 
 Após adicionar este novo produto a um perfil, certifique-se de que os usuários desejados estão associados a este perfil de acesso.
   

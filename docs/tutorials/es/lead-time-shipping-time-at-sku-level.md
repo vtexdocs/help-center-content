@@ -35,7 +35,7 @@ Para configurar el lead time vía API, accede a <a href="https://developers.vtex
 
 Cuando se configura, el lead time es un tiempo adicional que compone el plazo de envío del pedido que se muestra al cliente en el checkout. En la imagen a continuación, se muestran los elementos que componen el plazo total:
 
-![lead_time_image_total_time_ES](//images.ctfassets.net/alneenqid6w5/WDlW2CzaAKl3KtzzsgGwc/f9610838cce53ee740054bee68e634d1/lead_time_image_total_time_ES.png)
+![lead_time_image_total_time_ES](https://images.ctfassets.net/alneenqid6w5/WDlW2CzaAKl3KtzzsgGwc/f9610838cce53ee740054bee68e634d1/lead_time_image_total_time_ES.png)
 
 * **Lead time:** cantidad de tiempo configurable para el SKU de un almacén. Este periodo puede corresponder al tiempo de procesamiento o fabricación del ítem, por ejemplo. Esta configuración es opcional y se establece en cero días de forma predeterminada.
 * [Tiempo de almacén:](https://help.vtex.com/es/tutorial/gerenciar-estoque--tutorials_137) tiempo que tarda el SKU en pasar del almacén al [muelle](https://help.vtex.com/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj). Este ajuste es obligatorio, pero puedes configurar el tiempo como cero.
@@ -80,7 +80,7 @@ Para configurar el lead time de un SKU sigue los pasos a continuación:
 1. En el Admin VTEX, accede a **Catálogo > Stock > Gestión del stock**, o ingresa **Gestión del stock** en la barra de búsqueda de la parte superior de la página.
 2. Selecciona el SKU que deseas configurar. Puedes utilizar la barra y los filtros de búsqueda.
 3. Ingresa el número de días en la fila del SKU y en la columna **Lead time (días)**.
-  ![lead_time_inventory_management_ES](//images.ctfassets.net/alneenqid6w5/mfWUVzj7tgHMQxJTnVjGX/898387e10a3c41d8837df10604ec652d/lead_time_inventory_management_ES.png)
+  ![lead_time_inventory_management_ES](https://images.ctfassets.net/alneenqid6w5/mfWUVzj7tgHMQxJTnVjGX/898387e10a3c41d8837df10604ec652d/lead_time_inventory_management_ES.png)
 4. Haz clic en `Guardar` en la parte inferior de la página.
 
 <div class = "alert alert-info">

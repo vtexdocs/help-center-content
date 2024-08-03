@@ -29,7 +29,7 @@ A good seller operational capacity management leads to the following advantages:
 
 When you go to the VTEX Admin under **Shipping > Operational Capacity**, you will find a page like the one below:
 
-![operational_capacity_image1_EN](//images.ctfassets.net/alneenqid6w5/5k7wWTuVZk7Ylc2IHpNE5C/87f03e4f1a667a76349095e450244602/operational_capacity_image1_EN.png)
+![operational_capacity_image1_EN](https://images.ctfassets.net/alneenqid6w5/5k7wWTuVZk7Ylc2IHpNE5C/87f03e4f1a667a76349095e450244602/operational_capacity_image1_EN.png)
 
 <div class="alert alert-warning">
 The sellers displayed on the interface are your operation's sellers, previously configured by our team. To add a new seller, contact <a href="https://help.vtex.com/en/support">our Support</a> team.
@@ -127,7 +127,7 @@ The platform has some restrictions regarding <a href="https://help.vtex.com/en/t
 
 The **Operational Capacity Status** chart shows, in real time, the percentage of the seller's capacity that has already been used, as in the image below:
 
-![operational_capacity_image2_EN](//images.ctfassets.net/alneenqid6w5/510RtT3ugOksM3YD5tYSGc/0bed6fad834c5b5ab6d22ce713abd11d/operational_capacity_image2_EN.png)
+![operational_capacity_image2_EN](https://images.ctfassets.net/alneenqid6w5/510RtT3ugOksM3YD5tYSGc/0bed6fad834c5b5ab6d22ce713abd11d/operational_capacity_image2_EN.png)
 
 The chart shows the following periods:
 
@@ -149,7 +149,7 @@ To edit the seller's address or identification name in **Operational Capacity**,
 
 In the **Operational Capacity** section, you can see the seller's current operational capacity settings for each day of the week, as in the following image:
 
-![operational_capacity_image3_EN](//images.ctfassets.net/alneenqid6w5/70kbPFFifh8ykCHvIj6vEZ/7aa99cf4ff1a7deb322671c5e1961537/operational_capacity_image3_EN.png)
+![operational_capacity_image3_EN](https://images.ctfassets.net/alneenqid6w5/70kbPFFifh8ykCHvIj6vEZ/7aa99cf4ff1a7deb322671c5e1961537/operational_capacity_image3_EN.png)
 
 To change these settings, follow the steps below:
 

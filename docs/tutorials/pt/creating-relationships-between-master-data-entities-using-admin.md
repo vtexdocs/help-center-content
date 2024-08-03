@@ -48,7 +48,7 @@ Confira o passo a passo a seguir, ilustrado com esse exemplo:
 8. Clique no ícone de engrenagem <i class="fas fa-cog"></i> ao lado do campo de **Relacionamento** para configurá-lo.
 9. Em **Configurações de campo personalizado**, selecione a entidade à qual deseja fazer referência e o campo que será mostrado no relacionamento. Neste exemplo, o relacionamento será feito com a entidade **Cliente** e será exibido o campo **email**.
 
-   ![Relacionamento entidade Lista de Compras](//images.ctfassets.net/alneenqid6w5/3YjtdLHluQz9ve11TkmylY/41cb881fc6bfe93744e4a68cca8ea43a/Lista_Compras_Relacionamento.png)
+   ![Relacionamento entidade Lista de Compras](https://images.ctfassets.net/alneenqid6w5/3YjtdLHluQz9ve11TkmylY/41cb881fc6bfe93744e4a68cca8ea43a/Lista_Compras_Relacionamento.png)
 
 10. Clique no botão `Salvar` para salvar as configurações.
 11. Clique no ícone de publicação <i class="fas fa-save"></i> para publicar a entidade.
@@ -85,7 +85,7 @@ Confira o passo a passo a seguir:
 
 Agora, ao criar um novo documento a partir do formulário, você pode selecionar o valor desejado (neste exemplo, o Cliente preexistente que irá se relacionar com a Lista de Compras):
 
-![Selecionar relacionamento de documento Master Data](//images.ctfassets.net/alneenqid6w5/6Ss4S4Be4qRqNKLWBz51KF/a913e0402c87456ab9ca07e7431d4eac/Selecionar_relacionamento_de_documento_Master_Data.png)
+![Selecionar relacionamento de documento Master Data](https://images.ctfassets.net/alneenqid6w5/6Ss4S4Be4qRqNKLWBz51KF/a913e0402c87456ab9ca07e7431d4eac/Selecionar_relacionamento_de_documento_Master_Data.png)
 
 Além do relacionamento, é possível também visualizar os registros relacionados ao visualizar cada registro de uma entidade, por exemplo, visualizar as ‘Lista de compras’ criadas por um ‘Cliente’ ao consultar o registro do cliente.
 
@@ -95,6 +95,6 @@ Para isso, você precisa adicionar ao formulário da entidade o valor `{acronimo
 
 Os relacionamentos são mantidos através dos IDs dos documentos. Então, ao tentar inserir o valor do campo de relacionamento como filtro no formulário, obteremos apenas os valores dos IDs dos documentos referidos, e não os valores do campo escolhido para cada documento. As duas figuras abaixo mostram esse resultado. Veja mais informações no artigo [Filtrar dados no Master Data](https://help.vtex.com/pt/tutorial/filtrando-dados-no-master-data--tutorials_778).
 
-![Selecionar filtro relacionamento](//images.ctfassets.net/alneenqid6w5/Kh7PNTktepTfJn4s5AQlI/cc64d40a1bcfcd5b508dae36b7ee80cd/Selecionar_filtro_relacionamento.png)
+![Selecionar filtro relacionamento](https://images.ctfassets.net/alneenqid6w5/Kh7PNTktepTfJn4s5AQlI/cc64d40a1bcfcd5b508dae36b7ee80cd/Selecionar_filtro_relacionamento.png)
 
-![Filtro relacionamento ID](//images.ctfassets.net/alneenqid6w5/4O1qpGWOrnnM3Zzmyqzymu/a9e179027658143481e6a6f3444e24cd/Filtro_relacionamento_ID.png)
+![Filtro relacionamento ID](https://images.ctfassets.net/alneenqid6w5/4O1qpGWOrnnM3Zzmyqzymu/a9e179027658143481e6a6f3444e24cd/Filtro_relacionamento_ID.png)

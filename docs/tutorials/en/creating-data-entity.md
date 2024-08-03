@@ -19,7 +19,7 @@ Data entity is a representation of a set of information about a given concept. E
 
 For example, imagine the system that controls a library. This system controls books than can be borrowed by customers. So, we can notice that these 3 concepts (book, customer, borrowing) are entities that include information about each one of them. Thus, “data entity” is a set of information about a given concept.
 
-![exemploBiblioteca](//images.contentful.com/alneenqid6w5/4WFfw93mlykqGCMSyAKcW2/27a0fd02aba4dd22df42a00fd506b75e/new-infographic.png)
+![exemploBiblioteca](https://images.contentful.com/alneenqid6w5/4WFfw93mlykqGCMSyAKcW2/27a0fd02aba4dd22df42a00fd506b75e/new-infographic.png)
 
 Considering these concepts, it is possible to set up several data control scenarios in the Master Data. By default, the following data entities are considered: Customer, Address, Stores etc. You may create as many data entities as you wish in order to develop a customized environment according to the needs of your store.
 

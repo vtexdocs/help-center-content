@@ -33,7 +33,7 @@ If you want to act as a VTEX marketplace, read the <a href="https://help.vtex.co
 
 To access the page, in the VTEX Admin, click __Marketplace > Connections > Marketplaces and Integrations__. On the page, you can see the recommended marketplaces to connect to and the complete list of all available or already connected marketplaces.  
 
-![Marketplaces and Integrations](//images.ctfassets.net/alneenqid6w5/6O436Pjv91m3GWuWFsmeAD/e4382e0c375781f8f1029ffe29e6738a/Captura_de_tela_2023-04-17_110739.png)
+![Marketplaces and Integrations](https://images.ctfassets.net/alneenqid6w5/6O436Pjv91m3GWuWFsmeAD/e4382e0c375781f8f1029ffe29e6738a/Captura_de_tela_2023-04-17_110739.png)
 
 The table listing the marketplaces has the following columns:  
 

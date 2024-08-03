@@ -17,7 +17,7 @@ subcategory: 2Xay1NOZKE2CSqKMwckOm8
 
 **Pagos** es el módulo responsable por intermediar y gestionar todas las transacciones y pagos entre su tienda VTEX, operadoras financieras y sus clientes. En él usted hace consultas como status de las transacciones, extornos, cancelaciones, liquidaciones y también configuraciones como condiciones para las formas de pago.
 
-![new-admin-pagos](//images.ctfassets.net/alneenqid6w5/CPFZboq2pqOUSI0CAuQgW/bb254d7dd631b1983cb4fb6e7d01f244/NEW_ADMIN_PAGAMENTOS_ES.png)
+![new-admin-pagos](https://images.ctfassets.net/alneenqid6w5/CPFZboq2pqOUSI0CAuQgW/bb254d7dd631b1983cb4fb6e7d01f244/NEW_ADMIN_PAGAMENTOS_ES.png)
 
 # Empezando a usar
 

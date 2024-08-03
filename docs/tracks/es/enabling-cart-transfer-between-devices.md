@@ -34,11 +34,11 @@ window.INSTORE_CONFIG = {
 
 Después de realizar este cambio, abra el menú inStore y actualice los datos haciendo clic en el botón __Restaurar Datos__. Una vez hecho esto, aparecerá un slider en la parte inferior de la página de identificación de inStore:
 
-![24. Enable cart transfer between devices - 1 - ES.png?h=250](//images.ctfassets.net/alneenqid6w5/62BOCXeTPeE0Qa4dJQvAWV/01364823bc0b73dd1b8f383215f6602e/24._Enable_cart_transfer_between_devices_-_1_-_ES.png_h_250)
+![24. Enable cart transfer between devices - 1 - ES.png?h=250](https://images.ctfassets.net/alneenqid6w5/62BOCXeTPeE0Qa4dJQvAWV/01364823bc0b73dd1b8f383215f6602e/24._Enable_cart_transfer_between_devices_-_1_-_ES.png_h_250)
 
 Cuando arrastre la pantalla hacia la derecha, verá la pantalla para __Capturar Carrito__, como se muestra en la imagen a continuación.
 
-![24. Enable cart transfer between devices - 2 - ES.png?h=250](//images.ctfassets.net/alneenqid6w5/7GdTfFFfOFLoogeWZCHThR/0287a10b7fe85ed4fb1cd4a17045fc36/24._Enable_cart_transfer_between_devices_-_2_-_ES.png_h_250)
+![24. Enable cart transfer between devices - 2 - ES.png?h=250](https://images.ctfassets.net/alneenqid6w5/7GdTfFFfOFLoogeWZCHThR/0287a10b7fe85ed4fb1cd4a17045fc36/24._Enable_cart_transfer_between_devices_-_2_-_ES.png_h_250)
 
 En esta pantalla, el vendedor puede capturar un carrito utilizando uno de estos tres métodos:
 - Código del carrito
@@ -49,4 +49,4 @@ En esta pantalla, el vendedor puede capturar un carrito utilizando uno de estos 
 
 Para compartir un carrito, el vendedor puede generar un código numérico o un código QR. Para hacer esto, mientras está en la pantalla del carrito, haga clic en el botón __Transferir__. Vea un ejemplo en la imagen a continuación.
 
-![24. Enable cart transfer between devices - 3 - ES.png?h=250](//images.ctfassets.net/alneenqid6w5/lur8HH4iTaiw0KKkq7UHn/90dd5fa5297759372d7cb5c8f083559e/24._Enable_cart_transfer_between_devices_-_3_-_ES.png_h_250)
+![24. Enable cart transfer between devices - 3 - ES.png?h=250](https://images.ctfassets.net/alneenqid6w5/lur8HH4iTaiw0KKkq7UHn/90dd5fa5297759372d7cb5c8f083559e/24._Enable_cart_transfer_between_devices_-_3_-_ES.png_h_250)

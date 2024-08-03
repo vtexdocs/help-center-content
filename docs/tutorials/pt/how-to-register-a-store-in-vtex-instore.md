@@ -30,7 +30,7 @@ Esse guia auxilia o lojista a configurar sua loja para funcionar melhor com o VT
 
 Assim que o aplicativo é aberto pela primeira vez, ele pergunta qual é o nome da loja que será usada. Conforme a tela abaixo, basta digitar o nome da sua loja para ter as configurações carregadas para o app.
 
-![instore-identificacao-loja](//images.contentful.com/alneenqid6w5/20IMJOo5Kc8Kw4OqicCQyc/8a76ed7d6c16d6b269518d430998ec44/instore-identificacao-loja.png)
+![instore-identificacao-loja](https://images.contentful.com/alneenqid6w5/20IMJOo5Kc8Kw4OqicCQyc/8a76ed7d6c16d6b269518d430998ec44/instore-identificacao-loja.png)
 
 ### Como cadastrar uma loja física
 
@@ -40,14 +40,14 @@ Para gerenciar o seu cadastro de lojas físicas basta acessar o seu Masterdata. 
 
 *Se você não encontrar essa aplicação significa que seu ambiente ainda não foi corretamente configurado. Para isso recomendamos o tutorial de configuração de ambiente para uso do inStore.*
 
-![masterdata-home-loja](//images.contentful.com/alneenqid6w5/2uBujqshwgCUkKkeEKWaEU/121417a9d25e998c8bb7a29f85ab1830/masterdata-home-loja.png)
+![masterdata-home-loja](https://images.contentful.com/alneenqid6w5/2uBujqshwgCUkKkeEKWaEU/121417a9d25e998c8bb7a29f85ab1830/masterdata-home-loja.png)
 
 Quando você clicar em *listar*, uma lista de lojas cadastradas irá aparecer como mostra a imagem abaixo. Clique em "Novo" para cadastrar uma nova loja.
 
-![cadastrar-loja](//images.contentful.com/alneenqid6w5/2UxKo2u6CsEagsIYuo8Emy/8c922392c6f0b9373f497575af2cefaf/cadastrar-loja.png)
+![cadastrar-loja](https://images.contentful.com/alneenqid6w5/2UxKo2u6CsEagsIYuo8Emy/8c922392c6f0b9373f497575af2cefaf/cadastrar-loja.png)
 
 Preencha os dados da loja no formulário e depois clique em "salvar".
 
-![cadastrar-loja-formulario](//images.contentful.com/alneenqid6w5/3t3edGHxuo8WoYqkeYmIou/98d23008f916793e6cab618e33905dc2/cadastrar-loja-formulario.png)
+![cadastrar-loja-formulario](https://images.contentful.com/alneenqid6w5/3t3edGHxuo8WoYqkeYmIou/98d23008f916793e6cab618e33905dc2/cadastrar-loja-formulario.png)
 
 Pronto. Sua loja está cadastrada! 😃 Agora você pode continuar cadastrando os vendedores! Veja [aqui](/pt/tutorial/como-cadastrar-vendedores-no-vtex-instore) como fazer.

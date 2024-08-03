@@ -31,7 +31,7 @@ The types include Banner, BannerDHTML Collection or HTML.
 
 To create a customized control tag, click on Add, enter a name, a tag name, and select the type.
 
-![cms-custom-elements EN / ES](//images.ctfassets.net/alneenqid6w5/6pGE6dFRJuawKcMWce0Gem/87bbe6dfb66e75a8402b4be8935eeb18/custom_elements_EN_E_ES.png)
+![cms-custom-elements EN / ES](https://images.ctfassets.net/alneenqid6w5/6pGE6dFRJuawKcMWce0Gem/87bbe6dfb66e75a8402b4be8935eeb18/custom_elements_EN_E_ES.png)
 
 <div class="alert alert-warning">
   <p><b>Warning:</b> do not create an HTML type control with an element <code>title</code>. This may interfere with your store operation.</p>

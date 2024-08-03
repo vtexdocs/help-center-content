@@ -21,7 +21,7 @@ Com esse objetivo, nós criamos a nova tela [Performance das páginas web](https
 
 O PageSpeed Insights e o Lighthouse são ferramentas desenvolvidas pelo Google para gerar relatórios sobre a experiência do usuário de uma página tanto em dispositivos móveis quanto em computadores, fornecendo sugestões sobre como essa página pode ser aprimorada. Eles usam as [principais métricas da web do Google](https://web.dev/vitals/#core-web-vitals) para avaliar a experiência do usuário online. 
 
-![Web page performance Dash PT](//images.ctfassets.net/alneenqid6w5/4EHCyrE0JQxGgxhk1YVdMY/69b6c76024c031cda5ec2a557620d067/Screen_Shot_2022-06-29_at_15.37.19.png)
+![Web page performance Dash PT](https://images.ctfassets.net/alneenqid6w5/4EHCyrE0JQxGgxhk1YVdMY/69b6c76024c031cda5ec2a557620d067/Screen_Shot_2022-06-29_at_15.37.19.png)
 
 ## O que mudou?
 

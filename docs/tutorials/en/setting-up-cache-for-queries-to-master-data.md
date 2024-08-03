@@ -26,7 +26,7 @@ To configure this cache layer, follow the steps below:
 2. Click __Novo__ to create a new entity or the pencil icon of an existing entity if you want to edit it.
 3. Click the __Tempo de cache para consultas paginadas__ check box ("Cache time for paged queries") and choose the cache time for the entity.
 
-![cacheMD](//images.contentful.com/alneenqid6w5/7EJ8s7Z3uE0coc4QUkQcQC/0efbe18c6bd8018165e18f6d87da765f/cacheMD.jpg)
+![cacheMD](https://images.contentful.com/alneenqid6w5/7EJ8s7Z3uE0coc4QUkQcQC/0efbe18c6bd8018165e18f6d87da765f/cacheMD.jpg)
 
 The cache time options are:
 - 5 hours

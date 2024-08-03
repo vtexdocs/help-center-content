@@ -24,7 +24,7 @@ However, there is a way to extract this report manually by accessing Master Data
 Let's see how in the following step-by-step:
 
 1. In the VTEX Admin, access **Store Settings** > **Storefront** > **Master Data**.
-2. Click __Exports__. ![exports-md](//images.ctfassets.net/alneenqid6w5/70bXGj3PhkEfcixEF0ik6I/1ac3c2bd600edaac1440899274a8005b/exportaciones.png)
+2. Click __Exports__. ![exports-md](https://images.ctfassets.net/alneenqid6w5/70bXGj3PhkEfcixEF0ik6I/1ac3c2bd600edaac1440899274a8005b/exportaciones.png)
 3. Make sure that the tab currently open is __Applications__.
 4. Under __Export Status__, identify the row of the report you want to download.
 5. If the __Status__ is __Completed - Download__, click **Download** to download the file.

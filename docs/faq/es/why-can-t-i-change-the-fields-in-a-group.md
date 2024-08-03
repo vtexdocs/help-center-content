@@ -26,13 +26,13 @@ Una vez localizado el campo, continúe con las instrucciones:
 
 1. Acceda al módulo __Catálogo__
 2. Haga clic en __Categorías__
-![campos1](//images.ctfassets.net/alneenqid6w5/5BKcfVdzklTK5ZIdPdjvvS/5a4f032447dadfc8a8e7aa129960c6a3/campos1.PNG)
+![campos1](https://images.ctfassets.net/alneenqid6w5/5BKcfVdzklTK5ZIdPdjvvS/5a4f032447dadfc8a8e7aa129960c6a3/campos1.PNG)
 3. Haga clic en __Acciones__
 4. Seleccione __Campos (Producto)__
-![campos2](//images.ctfassets.net/alneenqid6w5/14Ak3SlbVXodLJr17Cd8Nu/00dfd546a9c2297250a1aec6fb74336a/campos2.PNG)
+![campos2](https://images.ctfassets.net/alneenqid6w5/14Ak3SlbVXodLJr17Cd8Nu/00dfd546a9c2297250a1aec6fb74336a/campos2.PNG)
 5. Encuentre el __grupo__ al que desea hacerle modificaciones. 
 6. Haga clic en __Alterar__
-![campos3](//images.ctfassets.net/alneenqid6w5/5k3B7j47J6TBfSAyzeNUGS/5bbb39dfcd00093401e71f036efcb3e0/campos3.PNG)
+![campos3](https://images.ctfassets.net/alneenqid6w5/5k3B7j47J6TBfSAyzeNUGS/5bbb39dfcd00093401e71f036efcb3e0/campos3.PNG)
 7. Después de realizar los cambios requeridos, haga clic en __Guardar__
 
 ¡Listo, campos alterados! No se olvide de guardar las configuraciones para que las alteraciones sean exhibidas en el front de la tienda.

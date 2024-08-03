@@ -93,7 +93,7 @@ Follow the steps below to create a shipping option:
     - **Free shipping:** Free of charge for the consumer; no additional configuration is required.
 8. Click `Save`.
 
-![opcoes_envio_criacao_en](//images.ctfassets.net/alneenqid6w5/6TOlNWWBTED41BXemhsvQE/3f6e3be89d0d3b4c22216df25aa2c875/opcoes_envio_criacao_en.png)
+![opcoes_envio_criacao_en](https://images.ctfassets.net/alneenqid6w5/6TOlNWWBTED41BXemhsvQE/3f6e3be89d0d3b4c22216df25aa2c875/opcoes_envio_criacao_en.png)
 
 ## Editing a shipping option
 
@@ -117,7 +117,7 @@ Besides editing a shipping option from the menu icon <i class="fas fa-ellipsis-v
 
 Once you have configured the shipping options, they will be listed under **Store Settings > Shipping > Shipping Options**, as shown in the following image:
 
-![opcoes_envio_listagem_en](//images.ctfassets.net/alneenqid6w5/2MAxFwYr86Y2ErCyo7GRIN/7c6c0928864ee46602bdf7799c9f00b1/opcoes_envio_listagem_en.png)
+![opcoes_envio_listagem_en](https://images.ctfassets.net/alneenqid6w5/2MAxFwYr86Y2ErCyo7GRIN/7c6c0928864ee46602bdf7799c9f00b1/opcoes_envio_listagem_en.png)
 
 The table below contains the description of the columns shown:
 

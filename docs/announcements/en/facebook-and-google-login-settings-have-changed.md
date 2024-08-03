@@ -21,6 +21,6 @@ The flag __Use VTEX keys__, which previously activated the use of data provided 
 
 This means that the stream has been fixed and it is no longer possible to use VTEX keys to login with Facebook and Google. Now retailers need to set up their own keys.
 
-![login2](//images.contentful.com/alneenqid6w5/8ctzWCGmeAuay68eyk888/630cfc3d79ef248f06ca47575556738c/login2.png)
+![login2](https://images.contentful.com/alneenqid6w5/8ctzWCGmeAuay68eyk888/630cfc3d79ef248f06ca47575556738c/login2.png)
 
 This change does not have any negative impact on your store. However, if some customization was done wrongly on your login screen, crashes may occur. So check out your login screen to make sure everything goes like it used to.

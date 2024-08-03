@@ -61,7 +61,7 @@ Após salvar as configurações, o DBA estará ativo na integração com a Amazo
 
 A cada compra finalizada, os pedidos correspondentes ao DBA aparecerão na aba __Pedidos > Todos pedidos__ do Admin VTEX. O sufixo **`_DBA`** aparecerá no ID de cada pedido do programa. Para prosseguir com a entrega, o pedido precisa ser faturado, conforme os passos descritos em [Faturar um pedido > Nota Fiscal](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT#nota-fiscal).  
 
-![pedido DBA](//downloads.ctfassets.net/alneenqid6w5/29NDtLCX5tVW7SzePTvuEG/32ab35230267fe61f772d9c60ea555e8/Pedidos.gif)
+![pedido DBA](https://downloads.ctfassets.net/alneenqid6w5/29NDtLCX5tVW7SzePTvuEG/32ab35230267fe61f772d9c60ea555e8/Pedidos.gif)
 
 ### 3. Download de etiqueta  
 

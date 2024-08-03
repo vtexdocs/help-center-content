@@ -25,7 +25,7 @@ Os pedidos que apresentam erros por divergência de preço maior que os valores 
 
 Os pedidos apresentam um status de erro no módulo de *INTEGRAÇÕES* e ficam aguardando serem reprocessados manualmente.
 
-![Início (6)](//images.contentful.com/alneenqid6w5/3ew5jbEQLOWq35gB0H0rLx/1fa45e6308ecc1906fcff908df9ba0c2/In__cio__6_.gif)
+![Início (6)](https://images.contentful.com/alneenqid6w5/3ew5jbEQLOWq35gB0H0rLx/1fa45e6308ecc1906fcff908df9ba0c2/In__cio__6_.gif)
 
 Para que os pedidos com divergência de preço subam para o OMS, foi criada a regra de divergência de valores (Beta). Nessa regra, todos os pedidos com divergência de preço são enviados ao OMS e devem ser aprovados manualmente pelo responsável da loja, com e-mail cadastrado em *Gerenciamento de contas > Contas*. É possível ter mais de um e-mail cadastrado.
 
@@ -47,7 +47,7 @@ Na configuração da regra de divergência de valores, temos duas possibilidades
 
 ### Criar regras
 
-![barra regradivergencia](//images.contentful.com/alneenqid6w5/6JNnSQFFrel5aIEWZPPQGs/98dd2567f3a1c178dc0ea1c150895ee0/barra_regradivergencia.JPG)
+![barra regradivergencia](https://images.contentful.com/alneenqid6w5/6JNnSQFFrel5aIEWZPPQGs/98dd2567f3a1c178dc0ea1c150895ee0/barra_regradivergencia.JPG)
 
 Para criar as regras, siga os passos abaixo:
 
@@ -80,7 +80,7 @@ Para editar as regras já existentes, siga os passos abaixo:
 5. Edite a regra que deseja alterando a barra de porcentagem.
 6. Clique em `Salvar Regras`.
 
-![Início (7)](//images.contentful.com/alneenqid6w5/78PxO7B0deTXnm48YPRlew/0b46e4637bfe89bfb373a679b4afadac/In__cio__7_.gif)
+![Início (7)](https://images.contentful.com/alneenqid6w5/78PxO7B0deTXnm48YPRlew/0b46e4637bfe89bfb373a679b4afadac/In__cio__7_.gif)
 
 ## Autorização de pedidos
 
@@ -103,7 +103,7 @@ Para autorizar manualmente os pedidos, siga os passos a seguir:
 4. Selecione o pedido com status `Aguardando autorização manual` que deseja autorizar. 
 5. Clique em `Confirmar pedido`.
 
-![Início (8)](//images.contentful.com/alneenqid6w5/4cDra6L7aNwPbmTxZJVNPJ/8f232c924f02fa9377bccb8f1e42d698/In__cio__8_.gif)
+![Início (8)](https://images.contentful.com/alneenqid6w5/4cDra6L7aNwPbmTxZJVNPJ/8f232c924f02fa9377bccb8f1e42d698/In__cio__8_.gif)
 
 ### Autorização pelo VTEX DO
 
@@ -117,4 +117,4 @@ O [VTEX DO](https://help.vtex.com/pt/tutorial/vtex-do--tutorials_203?&utm_source
 6. Clique em `Fechar`.
 7. Clique em `Autorizar`.
 
-![Início (9)](//images.contentful.com/alneenqid6w5/6WCfZf454PzSeJ2ZZASERn/f1fd489741a19979544bcc80f8686598/In__cio__9_.gif)
+![Início (9)](https://images.contentful.com/alneenqid6w5/6WCfZf454PzSeJ2ZZASERn/f1fd489741a19979544bcc80f8686598/In__cio__9_.gif)

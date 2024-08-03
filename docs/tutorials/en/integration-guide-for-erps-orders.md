@@ -25,7 +25,7 @@ In this article you will find the primary method for getting the orders you rece
 
 An order integration comprises four moments, each one being a small process in itself.
 
-![ERP Orders 1](//images.contentful.com/alneenqid6w5/7MtCGP7jpKOO2gKa8muGwO/481c6346e0d216f1cbe0588dc79eb617/ERP_Orders_1.png) 
+![ERP Orders 1](https://images.contentful.com/alneenqid6w5/7MtCGP7jpKOO2gKa8muGwO/481c6346e0d216f1cbe0588dc79eb617/ERP_Orders_1.png) 
 
 # Order integration steps
 
@@ -39,7 +39,7 @@ After deciding it is time to take an order into your fulfillment platform, you j
 
 In the end, for the processed orders, you send a “Start Handling” message the OMS.
 
-![ERP Orders 2](//images.contentful.com/alneenqid6w5/3SUWupt48gSG2iqM2q8qEA/28a578fa22944fac74f7f9d9121506ca/orders-integration-download.png) 
+![ERP Orders 2](https://images.contentful.com/alneenqid6w5/3SUWupt48gSG2iqM2q8qEA/28a578fa22944fac74f7f9d9121506ca/orders-integration-download.png) 
 
 ### API calls
 
@@ -112,7 +112,7 @@ Now the order is being processed by your fulfillment platform. During this proce
 
 When you are ready to deliver the order, it is time to tell VTEX you are ready, so that payment authorization may be captured and your customer be notified about the progress.
 
-![ERP Orders 3](//images.contentful.com/alneenqid6w5/5UGtFvC0UwoEoEcqQk8kGa/249a691293a7f195257f5c161565cf5c/ERP_Orders_3.png)
+![ERP Orders 3](https://images.contentful.com/alneenqid6w5/5UGtFvC0UwoEoEcqQk8kGa/249a691293a7f195257f5c161565cf5c/ERP_Orders_3.png)
 
 ### API calls
 
@@ -185,7 +185,7 @@ There is no hard limit in the number of tracking messages that can be added to a
 
 It's important to notice that this information is actually a set of attributes of the invoice. So, it can be sent together with the invoice, when sending it to the web store in case you have this information at that time.
 
-![ERP Orders 4](//images.contentful.com/alneenqid6w5/1v0Mk0y5a0uAmgcGmgAks4/6d416ec4b79faa89330d683a32c6905c/ERP_Orders_4.png) 
+![ERP Orders 4](https://images.contentful.com/alneenqid6w5/1v0Mk0y5a0uAmgcGmgAks4/6d416ec4b79faa89330d683a32c6905c/ERP_Orders_4.png) 
 
 ### API calls
 

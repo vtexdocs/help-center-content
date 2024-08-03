@@ -19,7 +19,7 @@ Atendimento Humano é a configuração que auxiliará sua loja no suporte ao cli
 Para a ativação do Atendimento Humano, é necessário seguir os passos de integração descritos em [Configuração da estrutura para atendimento humano](https://help.vtex.com/pt/tracks/conversational-commerce-vtex--5UZ9BdvwwtZm2t9QTXcbZs/SxhYiiqUJYiQX4CIWxmVE).
 
 Para configurar os horários de funcionamento do Atendimento Humano na sua loja, siga os passos abaixo.
-![Live Support pt](//images.ctfassets.net/alneenqid6w5/LUYDZvr1wopIGPIxieLPh/cf276b86b26aaa97131b381e7d47aff0/image1.png)
+![Live Support pt](https://images.ctfassets.net/alneenqid6w5/LUYDZvr1wopIGPIxieLPh/cf276b86b26aaa97131b381e7d47aff0/image1.png)
 
 1. Visite seu Admin > Apps > Conversational Commerce > Configurações> Atendimento Humano.
 2. Ative o Atendimento Humano em sua loja.
@@ -29,11 +29,11 @@ Para configurar os horários de funcionamento do Atendimento Humano na sua loja,
 # Configurações Gerais
 
 1. Defina se deseja ativar o Atendimento Humano em sua loja. 
-![Live Support pt](//images.ctfassets.net/alneenqid6w5/LUYDZvr1wopIGPIxieLPh/cf276b86b26aaa97131b381e7d47aff0/image1.png)
+![Live Support pt](https://images.ctfassets.net/alneenqid6w5/LUYDZvr1wopIGPIxieLPh/cf276b86b26aaa97131b381e7d47aff0/image1.png)
 Se optar por não utilizar, é necessário definir uma mensagem de indisponibilidade indicando o melhor canal de atendimento para seu cliente. 
-![Mensagem de indisponibilidade](//images.ctfassets.net/alneenqid6w5/16iLFjlXSqrrAW34s8PIXn/893fc8739cf19e9160a37c650614af2b/Mensagem_de_indisponibilidade.png)
+![Mensagem de indisponibilidade](https://images.ctfassets.net/alneenqid6w5/16iLFjlXSqrrAW34s8PIXn/893fc8739cf19e9160a37c650614af2b/Mensagem_de_indisponibilidade.png)
 2. Defina o fuso horário que será utilizado em seu atendimento. 
-![Fuso horário](//images.ctfassets.net/alneenqid6w5/6cJ4PNNKSc4LQl7MHuBLNA/70da2f837c8ace1dcf4f03196d03eeb6/Hor__rios_de_funcionamento.png)
+![Fuso horário](https://images.ctfassets.net/alneenqid6w5/6cJ4PNNKSc4LQl7MHuBLNA/70da2f837c8ace1dcf4f03196d03eeb6/Hor__rios_de_funcionamento.png)
 3. Selecione os dias e defina os horários de funcionamento do seu Atendimento Humano. É possível definir mais de um período de atendimento por dia de semana. 
 
 <div class="alert alert-info">

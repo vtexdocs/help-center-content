@@ -32,7 +32,7 @@ Agora vamos criar a condição de pagamento.
 1. Ainda na página **Configurações**, clique na aba **Condições de pagamento**.
 2. Clique no botão verde com o ícone de `+` para adicionar uma nova condição, conforme destacado abaixo.
 
-![pt-add-payment-condition](//images.contentful.com/alneenqid6w5/27933kBohPNieKSiiulGZA/dba7411939d50fe127453f77a9ec727d/pt-add-payment-condition.png)
+![pt-add-payment-condition](https://images.contentful.com/alneenqid6w5/27933kBohPNieKSiiulGZA/dba7411939d50fe127453f77a9ec727d/pt-add-payment-condition.png)
 
 3. Na seção **Pagamento Customizado**, clique na opção **Dinheiro** que você criou anteriormente.
 4. Dê um nome para essa condição de pagamento, mude o status para **Ativa** e, no seletor **Processar com a afiliação**, escolha o pagamento customizado que você criou no passo anterior.

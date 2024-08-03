@@ -40,7 +40,7 @@ Filling in the <b>Email</b> field is mandatory, as the VTEX platform uses this i
 
 From this moment on, the new account created will be displayed on the __Accounts__ screen.
 
-![CC_new_account_1_EN](//images.ctfassets.net/alneenqid6w5/5Kpskv3ba4pSvVpPROQQQf/29c36c044a54c156d6dbf4d385da0dee/CC_new_account_1_EN.JPG)
+![CC_new_account_1_EN](https://images.ctfassets.net/alneenqid6w5/5Kpskv3ba4pSvVpPROQQQf/29c36c044a54c156d6dbf4d385da0dee/CC_new_account_1_EN.JPG)
 
 ## Create multiple accounts (bulk import)
 
@@ -57,7 +57,7 @@ To create multiple accounts at the same time (in bulk) in Customer Credit, you c
   <li>Columns <b>Credit limit</b> and <b>Tolerance rate</b>: values available to each customer. The <b>Tolerance rate</b> must be entered in decimal format, for example, a tolerance of 5% must be indicated as 0.05.</li>
 </ul>
 
-![CC_criar_conta_2_ALL](//images.ctfassets.net/alneenqid6w5/2KwguLYrq4sasC46xAIUfV/9b504a53cbf5796f78fafc77c5125e22/CC_criar_conta_2_ALL.JPG)
+![CC_criar_conta_2_ALL](https://images.ctfassets.net/alneenqid6w5/2KwguLYrq4sasC46xAIUfV/9b504a53cbf5796f78fafc77c5125e22/CC_criar_conta_2_ALL.JPG)
 
 <blockquote><ui>6. Save the .csv spreadsheet.</ui>
 

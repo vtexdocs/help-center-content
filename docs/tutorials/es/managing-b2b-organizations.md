@@ -48,7 +48,7 @@ Los status son los siguientes:
 
 - **Inactivo:** la organización ha sido desactivada por los administradores de la tienda, por lo que sus usuarios no podrán iniciar sesión.
 
-![Status- ES](//images.ctfassets.net/alneenqid6w5/2UywOtrYrvizJEY5LjQgau/c3472217083893e427bd505924a3317a/Status-_ES.gif)
+![Status- ES](https://images.ctfassets.net/alneenqid6w5/2UywOtrYrvizJEY5LjQgau/c3472217083893e427bd505924a3317a/Status-_ES.gif)
 
 ## Agregar una nueva organización 
 
@@ -72,7 +72,7 @@ Para agregar una nueva organización accede al Admin VTEX, Apps > Organizaciones
     - **Destinatario:** nombre de la persona que recibirá los pedidos en la dirección informada.
 4. Haz clic en el botón `Agregar`.
 
-![Adiconar organização- ES](//images.ctfassets.net/alneenqid6w5/7vp9NX3NLvSWErVBlYzbNI/5af4c08cc7df3765ee76eb20a1028e93/Adiconar_organiza__o-_ES.gif)
+![Adiconar organização- ES](https://images.ctfassets.net/alneenqid6w5/7vp9NX3NLvSWErVBlYzbNI/5af4c08cc7df3765ee76eb20a1028e93/Adiconar_organiza__o-_ES.gif)
 
 ## Notificaciones por email
 

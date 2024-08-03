@@ -17,7 +17,7 @@ subcategory: 4hisB47iAVZk4r3SEmMoG
 
 A página **Marcas** permite visualizar, gerenciar e cadastrar marcas no Seller Portal. Você pode acessar a página no Admin VTEX em **Catálogo** > **Marcas**.
 
-![brands-pt](//images.ctfassets.net/alneenqid6w5/5fhVobFAoo4vZiNqjEIh8u/4556bc8cc6f367453b4bf4ccbe2bf145/brands-pt.PNG)
+![brands-pt](https://images.ctfassets.net/alneenqid6w5/5fhVobFAoo4vZiNqjEIh8u/4556bc8cc6f367453b4bf4ccbe2bf145/brands-pt.PNG)
 
 ## Criar marca 
 Para cadastrar uma nova marca, clique no botão `Criar marca`. Veja abaixo como preencher os campos da tela __Nova marca__.

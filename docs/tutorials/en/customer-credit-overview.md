@@ -40,7 +40,7 @@ When installed, Customer Credit appears as a payment option at Checkout only for
 
 See below the basic flow of how Customer Credit works in VTEX stores:
 
-![GIF_CC_EN](//images.ctfassets.net/alneenqid6w5/6e4DmVcrW4FCvZgrhOYQDe/28fd6b4db8e48a99115fd02e00273b54/GIF_CC_EN.gif)
+![GIF_CC_EN](https://images.ctfassets.net/alneenqid6w5/6e4DmVcrW4FCvZgrhOYQDe/28fd6b4db8e48a99115fd02e00273b54/GIF_CC_EN.gif)
 
 ## Customer Credit definitions
 

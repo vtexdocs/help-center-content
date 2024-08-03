@@ -62,16 +62,16 @@ Após a instalação do aplicativo, a VTEX compartilhará a URL do Admin do Conv
 Com essas informações, siga os passos abaixo:
 
 1. Acesse o Admin VTEX via URL enviada pelo time de suporte. Você será encaminhado para a tela abaixo:
-![Track 101 - Conversational Commerce 1 - PT](//images.ctfassets.net/alneenqid6w5/Zg2VTR41pSMleFi6bpcLT/cf9fb66691f9ec8f18a184099c70f3bf/Screenshot_2022-10-04_at_18-05-46_Track_101_-_Conversational_Commerce.png)
+![Track 101 - Conversational Commerce 1 - PT](https://images.ctfassets.net/alneenqid6w5/Zg2VTR41pSMleFi6bpcLT/cf9fb66691f9ec8f18a184099c70f3bf/Screenshot_2022-10-04_at_18-05-46_Track_101_-_Conversational_Commerce.png)
 2. Clique no botão `Configurar conta WhatsApp Business`.
 3. Uma janela do Facebook será aberta para configuração. Efetue o login com o perfil de Administração do Business Manager desejado.
 4. Selecione a opção `Criar uma conta WhatsApp Business`.
 5. Insira o nome da conta que será exibido como nome do perfil no WhatsApp.
 6. Selecione a categoria e cadastre a descrição da conta. 
-![Track 101 - Conversational Commerce 2 - PT](//images.ctfassets.net/alneenqid6w5/1DbUwuYgXSleNYBzDnS72n/e935883f195905d78f9c2209b1cc324b/Screenshot_2022-10-04_at_18-07-00_Track_101_-_Conversational_Commerce.png)
+![Track 101 - Conversational Commerce 2 - PT](https://images.ctfassets.net/alneenqid6w5/1DbUwuYgXSleNYBzDnS72n/e935883f195905d78f9c2209b1cc324b/Screenshot_2022-10-04_at_18-07-00_Track_101_-_Conversational_Commerce.png)
 7. Verifique o número de telefone a ser associado à conta por meio do código enviado para o telefone.
 8. Notifique o suporte da VTEX para finalizar a configuração.
 
 Uma vez que a configuração seja concluída, o alerta abaixo será exibido no Admin. 
 
-![Track 101 - Conversational Commerce 3 - PT](//images.ctfassets.net/alneenqid6w5/3RkQDfGaL3r5KV7j8uTXRH/6f32bb6973f7762a6eb06f12cd596e32/Screenshot_2022-10-04_at_18-07-47_Track_101_-_Conversational_Commerce.png)
+![Track 101 - Conversational Commerce 3 - PT](https://images.ctfassets.net/alneenqid6w5/3RkQDfGaL3r5KV7j8uTXRH/6f32bb6973f7762a6eb06f12cd596e32/Screenshot_2022-10-04_at_18-07-47_Track_101_-_Conversational_Commerce.png)

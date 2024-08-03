@@ -28,7 +28,7 @@ Agora, os usuários irão visualizar apenas os itens do menu lateral que eles t�
 
 A imagem abaixo ilustra uma das possibilidades de visualização da barra lateral de acordo com a nova organização para melhorar a segurança e a experiência do usuário da sua loja.
 
-![PT Sidebar permissions announcement screenshot](//images.ctfassets.net/alneenqid6w5/1dnqc48HsZDxmiUygavYHZ/0404c44da45173707c4fb3af5eb2de74/PT_Sidebar_permissions_announcement_screenshot.png)
+![PT Sidebar permissions announcement screenshot](https://images.ctfassets.net/alneenqid6w5/1dnqc48HsZDxmiUygavYHZ/0404c44da45173707c4fb3af5eb2de74/PT_Sidebar_permissions_announcement_screenshot.png)
 
 ## Por que fizemos essa mudança?
 O objetivo dessa mudança é limitar a visualização de módulos importantes dentro de uma conta, protegendo a integridade da sua loja. Dessa forma, o risco de possíveis interrupções na operação da loja é minimizado e você garante que cada usuário irá visualizar apenas o que é permitido ao seu perfil de acesso.

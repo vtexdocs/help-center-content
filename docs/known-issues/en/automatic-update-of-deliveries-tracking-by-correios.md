@@ -30,7 +30,7 @@ The only thing necessary is a valid tracking code for each order. On the followi
 
 It's possible to send tracking updates via API, with emails continuing to be sent. The same is true for the delivery confirmation, which can also be done on the OMS interface.
 
-![2017-08-16 195850](//images.contentful.com/alneenqid6w5/1IPsGBnkKYggY8m6smeqOA/a2a95afc6fb34e7bfe89c1cab2fdb612/2017-08-16_195850.jpg)
+![2017-08-16 195850](https://images.contentful.com/alneenqid6w5/1IPsGBnkKYggY8m6smeqOA/a2a95afc6fb34e7bfe89c1cab2fdb612/2017-08-16_195850.jpg)
 
 Delivery confirmation via OMS is also passed on to the marketplaces.
 

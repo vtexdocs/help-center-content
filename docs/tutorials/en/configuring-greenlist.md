@@ -45,7 +45,7 @@ The more signature data you ask for, the stricter will be your rules, and the fe
 
 To mark a customer as trustworthy, the store owner uses certain criteria. These criteria are __purchase details making up the signature of an order__:
 
-![Greenlist - signature](//images.contentful.com/alneenqid6w5/3CvVVFRIJ22wS6o8sq6ok6/45cdf4a8259437d36aa74a40a8a04715/Greenlist_-_assinatura.png)
+![Greenlist - signature](https://images.contentful.com/alneenqid6w5/3CvVVFRIJ22wS6o8sq6ok6/45cdf4a8259437d36aa74a40a8a04715/Greenlist_-_assinatura.png)
 
 Let’s say you select three options from the above screen: __Email address__, __Delivery address__ and __Credit card number__. This means that for new orders from this customer not to have to pass through the antifraud, he will have to use the same email address, delivery address and credit card number for new purchases. 
 
@@ -57,7 +57,7 @@ The recurrence of a signature defines the number of orders a customer must make 
 
 This number must be defined by the store owner, and can vary from __1 to 10__.
 
-![Greenlist - recurrence](//images.contentful.com/alneenqid6w5/2TFJUnw1Cw8I0KcqCcAsmS/6aaec62228ec8ff5a38093e743a4229b/Greenlist_-_recorrencia.png)
+![Greenlist - recurrence](https://images.contentful.com/alneenqid6w5/2TFJUnw1Cw8I0KcqCcAsmS/6aaec62228ec8ff5a38093e743a4229b/Greenlist_-_recorrencia.png)
 
 If you set recurrence at 6, for example, every customer of your store who makes six purchases using the same details for the signature will not have to pass through antifraud on subsequent purchases.
 
@@ -65,7 +65,7 @@ If you set recurrence at 6, for example, every customer of your store who makes 
 
 You can set a maximum value for the Greenlist to operate. This is because even if a customer has been marked as trustworthy, you may prefer that – for very large amounts, where the risk of loss is greater – the antifraud should operate irrespective of the customer’s purchase record.
 
-![Greenlist – maximum value](//images.contentful.com/alneenqid6w5/1CG6Wm74qIu4Qam2WekkE4/02f3e165b7970651406d667ae66e4589/Greenlist_-_valor_maximo.png)
+![Greenlist – maximum value](https://images.contentful.com/alneenqid6w5/1CG6Wm74qIu4Qam2WekkE4/02f3e165b7970651406d667ae66e4589/Greenlist_-_valor_maximo.png)
 
 ### Security period for Chargeback
 
@@ -73,7 +73,7 @@ Sometimes, after an order has been placed and the antifraud has approved the pur
 
 In this case, it is good to define a margin of security for the Greenlist analysis. If, for example, you select a security period of 30 days, you are saying that every order approved by the antifraud will be assessed for the Greenlist only after 30 days.
 
-![Greenlist - chargeback](//images.contentful.com/alneenqid6w5/314Ig5HLCU2uy0kyYEu4gC/105ed241ac49923035a7b4d441d698e0/Greenlist_-_chargeback.png)
+![Greenlist - chargeback](https://images.contentful.com/alneenqid6w5/314Ig5HLCU2uy0kyYEu4gC/105ed241ac49923035a7b4d441d698e0/Greenlist_-_chargeback.png)
 
 ### Activating a Greenlist
 
@@ -92,6 +92,6 @@ If you find that an order from a customer on the Greenlist (or any other custome
 2. In the list of transactions, click on the one you want to mark as fraudulent;
 3. Click on __Mark the payment as fraudulent__.
 
-![Mark as fraudulent](//images.contentful.com/alneenqid6w5/3EiAcGulosCgQq4qCIGqQE/d0be6c70e7129f63b189c56bdb79012b/fraud.png)
+![Mark as fraudulent](https://images.contentful.com/alneenqid6w5/3EiAcGulosCgQq4qCIGqQE/d0be6c70e7129f63b189c56bdb79012b/fraud.png)
 
 Once this is done, the customer that placed the order is removed from the Greenlist.

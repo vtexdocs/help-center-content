@@ -21,15 +21,15 @@ To create a query, it is necessary to [apply a filter to the list](/en/tutorial/
 
 After filtering, _click on the button **Salvar Consulta** -> give the query a name -> click on the button **Salvar**_.
 
-![image00(3)](//images.contentful.com/alneenqid6w5/Cj2YVA2pZ64Sscy0O2MA0/6698a619ebf6041e828b61ef657ceb89/image003.png)
+![image00(3)](https://images.contentful.com/alneenqid6w5/Cj2YVA2pZ64Sscy0O2MA0/6698a619ebf6041e828b61ef657ceb89/image003.png)
 
 Thus, in order for the enquiry to appear as an option for viewing the list, just reload the application in the **Aplicações** tab. Clicking on the button **Recarregar aplicações**.
 
-![image02(2)](//images.contentful.com/alneenqid6w5/23qCsgXVSYQYmsS6Ya6eAs/99c65c0009dd7f9e75c1ba4a2cea50cc/image022.png)
+![image02(2)](https://images.contentful.com/alneenqid6w5/23qCsgXVSYQYmsS6Ya6eAs/99c65c0009dd7f9e75c1ba4a2cea50cc/image022.png)
 
 Moreover, to view all the queries saved, click on the button **Consultas**, on the form list.
 
-![consulta3](//images.contentful.com/alneenqid6w5/4h0zjZuAc8W8eUaqImo2qg/b1c06c13603d398d1f83bef9f7deb19b/image012.png)
+![consulta3](https://images.contentful.com/alneenqid6w5/4h0zjZuAc8W8eUaqImo2qg/b1c06c13603d398d1f83bef9f7deb19b/image012.png)
 
 It is also interesting to configure a form, so that it always presents the list with the query filter. To do so, follow these steps:
 
@@ -40,4 +40,4 @@ It is also interesting to configure a form, so that it always presents the list 
 5. In the option **Consulta Padrão**, select the personalized query you want to display whenever you click on the form.
 6. Click on the **Salvar**** **button.
 
-![consulta5](//images.contentful.com/alneenqid6w5/66y0WU112osUwkwuyMquMW/a9143a8ca1aa05bc49cc69d1dd102002/image032.png)
+![consulta5](https://images.contentful.com/alneenqid6w5/66y0WU112osUwkwuyMquMW/a9143a8ca1aa05bc49cc69d1dd102002/image032.png)

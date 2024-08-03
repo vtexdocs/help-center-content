@@ -19,5 +19,5 @@ Es común que la tienda haga cambios en los placeholders de un layout, en el mó
 Normalmente, esto sucede porque la tienda guarda el placeholder después de los cambios pero no guarda el layout.
 
 Siempre que cambie un placeholder, recuerde que es necesario:
-1. Guardar el placeholder.![savePlaceholder](//images.contentful.com/alneenqid6w5/3CefNlrWxWOO8kgyKEkMMk/3deea3f44d5f21e037e799a07500f147/savePlaceholder.png)
-2. Guardar el layout.![saveLayout](//images.contentful.com/alneenqid6w5/1WUC8Yy2Vq2qEOAuQMG0km/83bce62e6f8145112655dae251474bf5/saveLayout.png)
+1. Guardar el placeholder.![savePlaceholder](https://images.contentful.com/alneenqid6w5/3CefNlrWxWOO8kgyKEkMMk/3deea3f44d5f21e037e799a07500f147/savePlaceholder.png)
+2. Guardar el layout.![saveLayout](https://images.contentful.com/alneenqid6w5/1WUC8Yy2Vq2qEOAuQMG0km/83bce62e6f8145112655dae251474bf5/saveLayout.png)

@@ -17,7 +17,7 @@ subcategory: 5yDQmr18K4GgQAeGwq8USa
 
 El **Informe de Indexación** es el reporte que indica el status de indexación de todos los productos de la tienda. 
 
-![productosindexados](//images.ctfassets.net/alneenqid6w5/9KzymaEjoAeqO6Googkya/7eba6e62cb07e66f8a5952c6fcc10b2e/productosindexados.png)
+![productosindexados](https://images.ctfassets.net/alneenqid6w5/9KzymaEjoAeqO6Googkya/7eba6e62cb07e66f8a5952c6fcc10b2e/productosindexados.png)
 
 <div class="alert alert-info">
 <strong>Nota:</strong> Acceda a ver más información en <a href="/es/tutorial/entendiendo-el-funcionamento-de-la-indexacion">Entendiendo el funcionamiento de la indexación.</a>

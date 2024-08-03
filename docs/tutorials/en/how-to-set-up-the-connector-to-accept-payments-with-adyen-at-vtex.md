@@ -70,7 +70,7 @@ Next, you'll just need to collect information from Adyen to register on VTEX. St
 5. Remember to write down the username and password that appear in the Password field, since it can't be viewed again!
 6. Click on the **Save** button, located in the page footer.
 7. By following these steps, your user will be successfully set up. In the image below number 1 (highlighted in red) is the username and number 2 is the password that you will have to enter on VTEX’s environment.
-![Adyen - Image 2](//images.ctfassets.net/alneenqid6w5/7jtKskh7uYiUuMnI6t7UqJ/ea01c037ad5c541a26fdef50b1a0d4fd/image2.png)
+![Adyen - Image 2](https://images.ctfassets.net/alneenqid6w5/7jtKskh7uYiUuMnI6t7UqJ/ea01c037ad5c541a26fdef50b1a0d4fd/image2.png)
 8. Send an email to Adyen support (suporte@adyen.com), requesting the permissions listed in the model below:
 
 > Subject: Setting VTEX web-service user permissions for `{accountName}`
@@ -96,7 +96,7 @@ If you intend Adyen's platform to manually revise the anti-fraud analysis of imp
 
 <ui>5. The configuration should appear as in the image below. Don't forget to click on **Save configuration** to save the changes.</ui>
 
-![Adyen - Image 1](//images.ctfassets.net/alneenqid6w5/1K5aqITpHU74XYQ5eO7wKc/a29d285086d15dd28a596ab344d72763/image1.png)
+![Adyen - Image 1](https://images.ctfassets.net/alneenqid6w5/1K5aqITpHU74XYQ5eO7wKc/a29d285086d15dd28a596ab344d72763/image1.png)
 
 ## VTEX Configuration
 

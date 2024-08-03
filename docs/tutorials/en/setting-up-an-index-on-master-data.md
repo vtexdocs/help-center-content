@@ -39,9 +39,9 @@ The alternate key prevents registration of a value that has already been registe
 The ID is a number that cannot be repeated, since it identifies the customer. “Nome” is the customer name.
 However, to facilitate the search, the column “Nome” was set up as an index and classified as a **Valores Únicos **column. 
 
-[![indice1](//images.contentful.com/alneenqid6w5/2Z02pI4DxeaaWOmYw42Suu/60bb0d893f5bd07f94928288390a5526/image011.png)](//images.contentful.com/alneenqid6w5/2Z02pI4DxeaaWOmYw42Suu/60bb0d893f5bd07f94928288390a5526/image011.png "![indice1](//images.contentful.com/alneenqid6w5/2Z02pI4DxeaaWOmYw42Suu/60bb0d893f5bd07f94928288390a5526/image011.png)")As a result, you will not be able to enter a name that is already registered in Cliente. 
+[![indice1](https://images.contentful.com/alneenqid6w5/2Z02pI4DxeaaWOmYw42Suu/60bb0d893f5bd07f94928288390a5526/image011.png)](https://images.contentful.com/alneenqid6w5/2Z02pI4DxeaaWOmYw42Suu/60bb0d893f5bd07f94928288390a5526/image011.png "![indice1](https://images.contentful.com/alneenqid6w5/2Z02pI4DxeaaWOmYw42Suu/60bb0d893f5bd07f94928288390a5526/image011.png)")As a result, you will not be able to enter a name that is already registered in Cliente. 
 
-[![indice2](//images.contentful.com/alneenqid6w5/FwEjcrqaQwKE8U4AEMOY4/ca741feb38fb89e6c3e0bd3ec442ba37/image002.png)](//images.contentful.com/alneenqid6w5/FwEjcrqaQwKE8U4AEMOY4/ca741feb38fb89e6c3e0bd3ec442ba37/image002.png "![indice2](//images.contentful.com/alneenqid6w5/FwEjcrqaQwKE8U4AEMOY4/ca741feb38fb89e6c3e0bd3ec442ba37/image002.png)")
+[![indice2](https://images.contentful.com/alneenqid6w5/FwEjcrqaQwKE8U4AEMOY4/ca741feb38fb89e6c3e0bd3ec442ba37/image002.png)](https://images.contentful.com/alneenqid6w5/FwEjcrqaQwKE8U4AEMOY4/ca741feb38fb89e6c3e0bd3ec442ba37/image002.png "![indice2](https://images.contentful.com/alneenqid6w5/FwEjcrqaQwKE8U4AEMOY4/ca741feb38fb89e6c3e0bd3ec442ba37/image002.png)")
 The example above shows that the **Valores Únicos** option must be used carefully, or, in case a value is repeated, it will not be registered with the settings chosen.
 
 ### Several fields in the Index
@@ -52,9 +52,9 @@ In this case, the alternate key will prevent a combination of the fields selecte
 
 In the same example, imagine that the cliente entity has one more column: CPF. Accordingly, in the settings of the index, the columns nome and CPF were included in **Composição de campos.**
 
-[![indice3](//images.contentful.com/alneenqid6w5/41Y8vUIFjWGuqoqwA6UYaK/0a33bc147f17f95ea5038124bbd5132a/image021.png)](//images.contentful.com/alneenqid6w5/41Y8vUIFjWGuqoqwA6UYaK/0a33bc147f17f95ea5038124bbd5132a/image021.png "![indice3](//images.contentful.com/alneenqid6w5/41Y8vUIFjWGuqoqwA6UYaK/0a33bc147f17f95ea5038124bbd5132a/image021.png)")
+[![indice3](https://images.contentful.com/alneenqid6w5/41Y8vUIFjWGuqoqwA6UYaK/0a33bc147f17f95ea5038124bbd5132a/image021.png)](https://images.contentful.com/alneenqid6w5/41Y8vUIFjWGuqoqwA6UYaK/0a33bc147f17f95ea5038124bbd5132a/image021.png "![indice3](https://images.contentful.com/alneenqid6w5/41Y8vUIFjWGuqoqwA6UYaK/0a33bc147f17f95ea5038124bbd5132a/image021.png)")
 Now, it is possible to include the name “Marcos” from the previous example, as long as he does not have the same CPF number as the “Marcos” previously registered. That is, just the combination of fields cannot be repeated. Records may have the same CPFs or names, but registering the same CPF and name in one record is not allowed.
 
-[![indice4](//images.contentful.com/alneenqid6w5/36308RenwQq2aYcSkAYq6K/5a18bd8e7eca83e3f7ac40d3e6ca41ad/image031.png)](//images.contentful.com/alneenqid6w5/36308RenwQq2aYcSkAYq6K/5a18bd8e7eca83e3f7ac40d3e6ca41ad/image031.png "![indice4](//images.contentful.com/alneenqid6w5/36308RenwQq2aYcSkAYq6K/5a18bd8e7eca83e3f7ac40d3e6ca41ad/image031.png)")
+[![indice4](https://images.contentful.com/alneenqid6w5/36308RenwQq2aYcSkAYq6K/5a18bd8e7eca83e3f7ac40d3e6ca41ad/image031.png)](https://images.contentful.com/alneenqid6w5/36308RenwQq2aYcSkAYq6K/5a18bd8e7eca83e3f7ac40d3e6ca41ad/image031.png "![indice4](https://images.contentful.com/alneenqid6w5/36308RenwQq2aYcSkAYq6K/5a18bd8e7eca83e3f7ac40d3e6ca41ad/image031.png)")
 
 __Remember!__ This situation also requires attention, since the same combination of values cannot be repeated, and the record will not be saved. We recommend that the attribute **Valores Únicos**, in the Index, is used only when the repetition of values is not possible.

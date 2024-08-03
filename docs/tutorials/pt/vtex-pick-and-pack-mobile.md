@@ -21,7 +21,7 @@ subcategory: 7Kllu6CmeLNV3tYXlCFvOt
 
 O aplicativo móvel do [VTEX Pick and Pack](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA) auxilia o separador - profissional responsável por selecionar e empacotar itens na instalação - no manuseio de pedidos, abrangendo desde a separação dos itens até o envio. Assim, o fluxo de separação e entrega dos pedidos da loja torna-se mais organizado e fluido.
 
-![pickpack-mobile-pt](//images.ctfassets.net/alneenqid6w5/4VZJd6qfgBB45lcqptQ5L9/825577c3ee5232ac15408d243a20d04e/image.png)
+![pickpack-mobile-pt](https://images.ctfassets.net/alneenqid6w5/4VZJd6qfgBB45lcqptQ5L9/825577c3ee5232ac15408d243a20d04e/image.png)
 
 O manuseio do pedido é dividido em quatro etapas, seguindo o caminho normal de pedidos na loja:
 
@@ -56,7 +56,7 @@ Ordens de serviço se aplicam apenas às fases de separação e empacotamento de
 
 A aba __Sem alocação__ lista os pedidos que devem ser selecionados para [ordens de serviço](#ordem-de-servico).
 
-![pickpack-ordemservico-pt](//images.ctfassets.net/alneenqid6w5/2zTfjSklG6b57gEHryo2BI/ed6060bd509ee50e397b06e62a335547/image.png)
+![pickpack-ordemservico-pt](https://images.ctfassets.net/alneenqid6w5/2zTfjSklG6b57gEHryo2BI/ed6060bd509ee50e397b06e62a335547/image.png)
 
 Para criar uma ordem de serviço, siga os passos abaixo:
 
@@ -72,7 +72,7 @@ A etapa de separação consiste em selecionar fisicamente os itens correspondent
 
 A aba __Pendentes__ exibe a lista de ordens de serviço que ainda não tiveram sua separação finalizada.
 
-![pickpack-pendente-pt](//images.ctfassets.net/alneenqid6w5/43VayjqahaHNiFLoT2gjbm/617071b6d8e6f098f74aa466bd5321fc/image.png)
+![pickpack-pendente-pt](https://images.ctfassets.net/alneenqid6w5/43VayjqahaHNiFLoT2gjbm/617071b6d8e6f098f74aa466bd5321fc/image.png)
 
 Nesta aba, é possível selecionar pelo ID de uma ordem de serviço, caso queira visualizar apenas os itens separados daquele pedido.
 
@@ -87,7 +87,7 @@ Ao clicar em uma ordem de serviço, as seguintes informações são exibidas:
 - __Informações:__ informações gerais da ordem de serviço e do pedido.
 - __Resumo:__ produtos que já foram separados pelo separador.
 
-![pickpack-em-separacao-pt](//images.ctfassets.net/alneenqid6w5/5zrrsEx43mNC0shZkDiBQ0/5f0e48be4c066bf3aa3757f0ddc3db07/image.png)
+![pickpack-em-separacao-pt](https://images.ctfassets.net/alneenqid6w5/5zrrsEx43mNC0shZkDiBQ0/5f0e48be4c066bf3aa3757f0ddc3db07/image.png)
 
 Ao clicar no menu <i class="fas fa-ellipsis-v"></i>, serão exibidas as seguintes ações:
 
@@ -103,7 +103,7 @@ Para separar um produto, siga estes passos:
 1. Na tela de __Separação__, acesse a aba __Item(ns)__.
 2. Clique no produto que deseja separar ou deslize o produto para a direita. Caso o produto tenha mais de uma unidade, é necessário clicar a quantidade de unidades do produto. Para produtos que contém peso ou volume é preciso confirmar a medida e depois confirmar a seleção, como o exemplo abaixo.
 
-![pickpack-item-pt](//images.ctfassets.net/alneenqid6w5/6DXcDvIWNba93QEDb1wjo3/f46444bb6af306fc698e2084473a421d/image.png)
+![pickpack-item-pt](https://images.ctfassets.net/alneenqid6w5/6DXcDvIWNba93QEDb1wjo3/f46444bb6af306fc698e2084473a421d/image.png)
 
 Para separar todos os produtos da ordem de serviço de uma única vez, siga estes passos:
 
@@ -126,7 +126,7 @@ Para recusar um produto da ordem de serviço, siga os passos abaixo:
 1. Acesse a aba __Item(ns)__.
 2. Clique e deslize para a esquerda o produto que deseja recusar.
 3. Selecione a razão da recusa da lista **Motivos de recusa**.
-  ![pickpack-item-recusa-pt](//images.ctfassets.net/alneenqid6w5/2rFwEeBHOf6PLRpgpcdDTL/08fac545bfe628e5211c0c818a22c3df/image.png)
+  ![pickpack-item-recusa-pt](https://images.ctfassets.net/alneenqid6w5/2rFwEeBHOf6PLRpgpcdDTL/08fac545bfe628e5211c0c818a22c3df/image.png)
 4. Selecione a quantidade de itens que deseja recusar ou clique em `Confirmar e descartar todas as unidades`.
 5. Clique em `Descartar unidades`.
 
@@ -154,7 +154,7 @@ Para substituir itens da ordem de serviço, siga os passos abaixo:
 2. Pressione o produto que deseja substituir.
 3. Clique na opção **Substituir item**.
 4. Busque ou selecione o item que substituirá o produto do pedido e clique na caixa de seleção <i class="fas fa-check-square"></i>.
-  ![pickpack-item-substituir-pt](//images.ctfassets.net/alneenqid6w5/3rdotgG0FkRbv3AprESrYA/6558b779984c5b763bfbc5e3a87c838d/image.png)
+  ![pickpack-item-substituir-pt](https://images.ctfassets.net/alneenqid6w5/3rdotgG0FkRbv3AprESrYA/6558b779984c5b763bfbc5e3a87c838d/image.png)
 5. Selecione o número de unidades que deverão ser substituídas.
 6. Selecione o motivo da substituição dentre as opções da lista.
 7. Preencha o campo **Descrição** com mais informações sobre a substituição.
@@ -168,14 +168,14 @@ Uma vez que todos os itens da ordem de serviço foram separados, recusados ou su
 
 Na etapa de empacotamento, o separador seleciona os itens de cada pedido nas respectivas embalagens de envio. O aplicativo móvel do Pick and Pack permite organizar todos os pacotes necessários para diversos pedidos de forma simples e fácil.
 
-![pickpack-empacotamento-pt](//images.ctfassets.net/alneenqid6w5/7vJJMaVu3OgpDTtpXAPOCU/346447464d242ff16d085322378503fe/image.png)
+![pickpack-empacotamento-pt](https://images.ctfassets.net/alneenqid6w5/7vJJMaVu3OgpDTtpXAPOCU/346447464d242ff16d085322378503fe/image.png)
 
 É possível acessar a página de Empacotamento ao [concluir a separação](#concluir-separacao) de uma ordem de serviço ou seguindo estes passos:
 
 1. Na tela inicial do aplicativo, clique em **Para empacotar**. Será exibida uma lista com as [ordens de serviço](#ordens-de-servico) designadas ao separador que estão na etapa de empacotamento.
 2. Clique na ordem de serviço cujos produtos deseja separar. 
 
-![pickpack-item-pendente-pt](//images.ctfassets.net/alneenqid6w5/6ZdONyhqHoSVFf0snDQ6SO/abcca3f55094eea7f71c73660bd1b5f0/image.png)
+![pickpack-item-pendente-pt](https://images.ctfassets.net/alneenqid6w5/6ZdONyhqHoSVFf0snDQ6SO/abcca3f55094eea7f71c73660bd1b5f0/image.png)
 
 Siga os passos abaixo para empacotar itens:
 
@@ -194,10 +194,10 @@ Caso opte por empacotar todos os itens do pedido, os produtos que ainda não for
 Os itens que já foram empacotados estão disponíveis na aba **Itens empacotados**. É possível alternar a visualização dos itens entre uma lista de itens ou de pedidos e pacotes, clicando em <i class="fas fa-toggle-on"></i>.
 
 __Lista de itens__
-![pickpack-item-empacotado-pt](//images.ctfassets.net/alneenqid6w5/2fKkok0mKMpcwLtaaY48gd/5bb135ce0588205f44ff5511681ff816/image.png)
+![pickpack-item-empacotado-pt](https://images.ctfassets.net/alneenqid6w5/2fKkok0mKMpcwLtaaY48gd/5bb135ce0588205f44ff5511681ff816/image.png)
 
 __Pedidos e pacotes__
-![pickpack-item-empacotado-2-pt](//images.ctfassets.net/alneenqid6w5/6BIoHcM0CwTg8boKYiiL4T/fbaaedf590f158d3dbc9d24941d9f15a/image.png)
+![pickpack-item-empacotado-2-pt](https://images.ctfassets.net/alneenqid6w5/6BIoHcM0CwTg8boKYiiL4T/fbaaedf590f158d3dbc9d24941d9f15a/image.png)
 
 ### Envio
 
@@ -215,11 +215,11 @@ Para enviar pacotes no aplicativo Pick and Pack, siga os passos abaixo:
 4. Preencha as informações de envio:
     - **Data prevista para coleta**
     - **Data prevista para entrega**
-    ![pickpack-envio-pt](//images.ctfassets.net/alneenqid6w5/241KZLvmluqVG6uR63dBze/913d43663fb129edf3750b852bad2706/image.png)
+    ![pickpack-envio-pt](https://images.ctfassets.net/alneenqid6w5/241KZLvmluqVG6uR63dBze/913d43663fb129edf3750b852bad2706/image.png)
 5. Selecione uma transportadora disponível.
 6. Clique em `Selecionar e continuar`.
 7. Confirme as informações do envio. Se nenhuma correção for necessária, clique no botão `Criar serviço`. Caso contrário, clique em `Voltar` e volte ao passo 5. 
 
 Finalizado o cadastro, as informações do envio serão exibidas na tela seguinte no aplicativo. Os pedidos enviados estão disponíveis pelo menu <i class="fas fa-ellipsis-v"></i> __> Concluído__. 
 
-![pickpack-finalizacao-pt](//images.ctfassets.net/alneenqid6w5/40mZiPyjG5VEHmcDazxUrI/2007a8d429ddb218f53add49575c0e76/image.png)
+![pickpack-finalizacao-pt](https://images.ctfassets.net/alneenqid6w5/40mZiPyjG5VEHmcDazxUrI/2007a8d429ddb218f53add49575c0e76/image.png)

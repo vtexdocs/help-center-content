@@ -23,7 +23,7 @@ Las integraciones entre los sellers VTEX y los [conectores nativos](https://help
 
 Los pedidos que presentan errores por divergencia de valores mayores que los valores configurados en la integración con el marketplace, no se cargan automáticamente en el OMS. Por tanto, permanecen con el status de error en la sección `Pedidos` del módulo *INTEGRACIONES* del Admin, a la espera de ser reprocesados manualmente.
 
-![divergenciadepreçosES-01](//images.contentful.com/alneenqid6w5/2he3DSbVXaIpDMuAQu4094/66781d82b678c9b312bbd508cc6c2b92/divergenciadepre__osES-01.gif)
+![divergenciadepreçosES-01](https://images.contentful.com/alneenqid6w5/2he3DSbVXaIpDMuAQu4094/66781d82b678c9b312bbd508cc6c2b92/divergenciadepre__osES-01.gif)
 
 Para que los pedidos con divergencia de valores se carguen al OMS, se creó la regla de autorización (Beta). En esta regla, todos los pedidos con divergencia de valores se envían al OMS y deben ser aprobados manualmente por el administrador de la tienda, con el email registrado en *Gestión de la cuenta > Cuenta*. Se puede tener más de un email registrado.
 
@@ -45,7 +45,7 @@ Hay dos opciones de configuración en la regla de autorización:
 
 ### Crear reglas
 
-![barra regradivergenciaES](//images.contentful.com/alneenqid6w5/31XPGn5RQPGtJRoaXabiRL/16f13095fe5760e51d249d7b55f18f80/barra_regradivergenciaES.JPG)
+![barra regradivergenciaES](https://images.contentful.com/alneenqid6w5/31XPGn5RQPGtJRoaXabiRL/16f13095fe5760e51d249d7b55f18f80/barra_regradivergenciaES.JPG)
 
 Para crear las reglas, realice los siguientes pasos:
 
@@ -78,7 +78,7 @@ Para editar las reglas existentes, realice los siguientes pasos:
 6. Edite la regla que desee modificando la barra de porcentaje.
 7. Haga clic en `Guardar reglas`.
 
-![divergenciadepreçosES-02](//images.contentful.com/alneenqid6w5/2AUFOv0VJLYU5hJvBUgSfH/75f22616f278d53efacd9457ff737e38/divergenciadepre__osES-02.gif)
+![divergenciadepreçosES-02](https://images.contentful.com/alneenqid6w5/2AUFOv0VJLYU5hJvBUgSfH/75f22616f278d53efacd9457ff737e38/divergenciadepre__osES-02.gif)
 
 ## Autorización de pedidos 
 
@@ -101,7 +101,7 @@ Para autorizar manualmente los pedidos, realice los siguientes pasos:
 4. Seleccione el pedido que tiene el status `Esperando autorización manual` que desea autorizar.
 5. Haga clic en `Confirmar pedido`.
 
-![divergenciadepreçosES-03](//images.contentful.com/alneenqid6w5/3dNZ1HQF0Nl979OmPkszEv/56de42e69dea0dea0efed9630c054a8d/divergenciadepre__osES-03.gif)
+![divergenciadepreçosES-03](https://images.contentful.com/alneenqid6w5/3dNZ1HQF0Nl979OmPkszEv/56de42e69dea0dea0efed9630c054a8d/divergenciadepre__osES-03.gif)
 
 ### Autorización por VTEX DO
 
@@ -115,4 +115,4 @@ Para autorizar manualmente los pedidos, realice los siguientes pasos:
 6. Haga clic en `Cerrar`.
 7. Haga clic en `Autorizar`.
 
-![divergenciadepreçosES-04](//images.contentful.com/alneenqid6w5/3yOoU6kEwFcMZAEZC0tAvA/a84b0c0fbdb948e93a9dfdf2b8b22c1e/divergenciadepre__osES-04.gif)
+![divergenciadepreçosES-04](https://images.contentful.com/alneenqid6w5/3yOoU6kEwFcMZAEZC0tAvA/a84b0c0fbdb948e93a9dfdf2b8b22c1e/divergenciadepre__osES-04.gif)

@@ -28,7 +28,7 @@ En primer lugar, vamos a ver dónde se encuentra la flag Highlight:
 3. Haga clic en una colección.
 4. Marque la flag __Highlight__, que se encuentra en la pantalla de la colección, y haga clic en __Save Product Cluster__.
 
-![CollectionHighlightFlag](//images.contentful.com/alneenqid6w5/4ced6Gcbeg662KewckyQka/77aaef77fc87cf8112f759c867a6bd4b/CollectionHighlightFlag.png)
+![CollectionHighlightFlag](https://images.contentful.com/alneenqid6w5/4ced6Gcbeg662KewckyQka/77aaef77fc87cf8112f759c867a6bd4b/CollectionHighlightFlag.png)
 
 Al marcar la flag, usted informa al sistema que siempre que el control de destaque se utilice en el template de una página, los productos mostrados en esa página que formen parte de la colección deben aparecer con el elemento HTML abajo, donde en lugar de `{nombreDeLaColeccion}` aparece el nombre de la colección registrada en el CMS:
 

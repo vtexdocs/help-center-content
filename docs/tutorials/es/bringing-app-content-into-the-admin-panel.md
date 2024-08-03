@@ -25,13 +25,13 @@ Navegue hasta el proyecto y abra el archivo `pages.json`.
 
 Añadimos el `"admin/"` al nombre de la página, así como a la ruta. Es importante también añadir `"admin/"` al principio del nombre de todas las extensiones que se utilizarán. Su `pages.json` debe quedar así:
 
-![2 pages](//images.ctfassets.net/alneenqid6w5/1JbyPjpfd2m2Qg6YuIG0WG/c2e98ed69b39f41703c49cda8ee6f578/2_pages.png)
+![2 pages](https://images.ctfassets.net/alneenqid6w5/1JbyPjpfd2m2Qg6YuIG0WG/c2e98ed69b39f41703c49cda8ee6f578/2_pages.png)
 
 ## Actualizar las dependencias para usar vtex.admin
 
 Ahora necesitamos actualizar el archivo manifest.json para listar el `vtex.admin` como dependencia. Recuerde que en VTEX IO siempre especificamos la versión que se utilizará. El manifest.json debe quedar así:
 
-![3 manifest](//images.ctfassets.net/alneenqid6w5/m02IxioqqcMgEygiOkakI/1bf3d7cf52f72a46a5d3f2a9afaeb40a/3_manifest.png)
+![3 manifest](https://images.ctfassets.net/alneenqid6w5/m02IxioqqcMgEygiOkakI/1bf3d7cf52f72a46a5d3f2a9afaeb40a/3_manifest.png)
 
 ## Los toques finales
 
@@ -43,5 +43,5 @@ Utilizaremos el `componentDidMount()` para comprobar que la string se ha renderi
 
 Sólo hay que navegar a `index.js` y añadir el `componentDidMount()` por encima de nuestro render. Se va a quedar así:
 
-![4 final touches](//images.ctfassets.net/alneenqid6w5/3FhYXrK6qAeW6U8AK8S2uI/adca7a874c3a7fd5f1d0558c1664a54b/4_final_touches.png) 
-![5 completo](//images.ctfassets.net/alneenqid6w5/2u3bfIpopSSeqiq6o0KW2q/1173fb70b77505ec92ab126efd908d63/5_completo.png)
+![4 final touches](https://images.ctfassets.net/alneenqid6w5/3FhYXrK6qAeW6U8AK8S2uI/adca7a874c3a7fd5f1d0558c1664a54b/4_final_touches.png) 
+![5 completo](https://images.ctfassets.net/alneenqid6w5/2u3bfIpopSSeqiq6o0KW2q/1173fb70b77505ec92ab126efd908d63/5_completo.png)

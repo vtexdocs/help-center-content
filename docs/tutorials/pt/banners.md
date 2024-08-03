@@ -34,7 +34,7 @@ No Admin VTEX, a página **Storefront** > **Banners** exibe a listagem dos banne
 * [Editar um banner](#editar-banner)
 * [Deletar um banner](#deletar-banner) 
 
-![banners-intro-pt](//images.ctfassets.net/alneenqid6w5/1MDMMN6lidEIiDwaDalvNU/76b18f06e75a40e33c5a84882a247ac2/image.png)
+![banners-intro-pt](https://images.ctfassets.net/alneenqid6w5/1MDMMN6lidEIiDwaDalvNU/76b18f06e75a40e33c5a84882a247ac2/image.png)
 
 A página apresenta as seguintes informações: 
 
