@@ -3,8 +3,8 @@ title: 'Configurações Gerais dos pedidos'
 id: tutorials_194
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:49.644Z
-updatedAt: 2023-03-29T16:11:56.900Z
-publishedAt: 2023-03-29T16:11:56.900Z
+updatedAt: 2024-07-02T19:07:22.178Z
+publishedAt: 2024-07-02T19:07:22.178Z
 firstPublishedAt: 2017-04-27T23:00:47.468Z
 contentType: tutorial
 productTeam: Post-purchase

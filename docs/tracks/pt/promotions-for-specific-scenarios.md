@@ -1,10 +1,10 @@
 ---
 title: 'Promoções para cenários específicos'
 id: jOu9b69mKbrTDfSJYAawy
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-01-22T13:55:51.326Z
-updatedAt: 2020-11-27T19:40:32.581Z
-publishedAt: 2020-07-29T22:53:59.120Z
+updatedAt: 2023-10-23T17:08:04.859Z
+publishedAt: 2023-10-23T17:08:04.859Z
 firstPublishedAt: 2020-01-22T15:01:20.187Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -44,14 +44,13 @@ Dois exemplos desse tipo de promoção seriam "Compre uma calça e ganhe 10% na 
 
 Para entender a promoção Compre Junto em mais detalhes, veja o artigo [Criar promoção Compre Junto](https://help.vtex.com/pt/tutorial/compre-junto--tutorials_323).
 
-
 ### Leve Mais por Menos
 
 A promoção do tipo Leve Mais por Menos é usada para conceder desconto quando o cliente adiciona várias unidades do mesmo produto ao carrinho. Um exemplo clássico dessa promoção seria "Leve 4 e pague 3".
 
 Na configuração da promoção Leve Mais por Menos, a loja deve definir a quais coleções ou SKUs ela será aplicada. Em seguida, escolha o número de itens no carrinho para ela funcionar e o número de itens com desconto.
 
-![5 2](https://images.ctfassets.net/alneenqid6w5/5wvLzNJIbEEzXFkH4Yf5lV/0da926307c9b2c31fcc6f7a63ad0c6c2/5_2.png)
+![Leve mais por menos](https://images.ctfassets.net/alneenqid6w5/5LQErZWrN4WyX8ZuIBEMPM/88a65536af3f8ee11f7fb7881056176b/Promo__es.png)
 
 Por exemplo:
 - A cada `3` produtos, o cliente levará `1` produto `grátis`.
@@ -93,7 +92,7 @@ Esta configuração define quantos itens do carrinho serão afetados pela promo�
 
 Depois de preencher todos [os campos de uma promoção regular](https://help.vtex.com/pt/tutorial/regular-promotion--tutorials_327) com desconto percentual, você pode selecionar a opção __Definir quantidade máxima de itens afetados por carrinho__ na seção __Restrições e limites de uso__.
 
-![Limite itens - PT](https://images.ctfassets.net/alneenqid6w5/6X3fH4UtV36JojrWyVXfqj/57d55acfe5510ac9b9bdfe1c54ae0123/Limite_itens_-_PT.png)
+![Limite itens - PT](https://images.ctfassets.net/alneenqid6w5/1W6ZYterIepCud41XJr4UQ/efa4913d768b6c60a738ade38b36250c/Limite_itens_-_PT.png)
 
 Por default, a seleção __ilimitado__ está ativa, aplicando a promoção em todos os itens do carrinho, como ilustrado no diagrama abaixo:
 

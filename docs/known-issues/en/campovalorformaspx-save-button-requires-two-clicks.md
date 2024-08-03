@@ -3,8 +3,8 @@ title: 'CampoValorForm.aspx Save button requires two clicks'
 id: G0YtmOpdB4nNdw8w87ZNz
 status: PUBLISHED
 createdAt: 2022-02-16T13:28:52.922Z
-updatedAt: 2022-11-25T21:45:10.712Z
-publishedAt: 2022-11-25T21:45:10.712Z
+updatedAt: 2024-02-16T20:26:25.672Z
+publishedAt: 2024-02-16T20:26:25.672Z
 firstPublishedAt: 2022-02-16T13:28:53.505Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: campovalorformaspx-save-button-requires-two-clicks
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 525616
 ---
 

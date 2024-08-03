@@ -3,8 +3,8 @@ title: 'Boas práticas de SPF (Sender Policy Framework)'
 id: 42t0lkl2VyC6Yewc4wA6wI
 status: PUBLISHED
 createdAt: 2017-08-09T16:58:00.716Z
-updatedAt: 2023-03-10T18:49:18.935Z
-publishedAt: 2023-03-10T18:49:18.935Z
+updatedAt: 2024-02-22T18:11:49.023Z
+publishedAt: 2024-02-22T18:11:49.023Z
 firstPublishedAt: 2017-08-10T00:04:19.239Z
 contentType: tutorial
 productTeam: Reliability
@@ -25,13 +25,13 @@ Para mais detalhes da sintaxe, recomendamos a documentação [Sender Policy Fram
 
 No gerenciador de DNS, o SPF será uma entrada TXT na raíz do domínio (ex: site.com), com o seguinte formato:
 
-`site.com. IN TXT “v=spf1 a mx ip4:192.0.2.32/27 include:provedor.com -all”`
+`site.com. IN TXT “v=spf1 a mx ip4:192.0.2.32/27 include:provedor.com ~all”`
 
 Podemos dividir a política acima nas seguintes seções:
 
 - `v=spf1`: prefixo obrigatório.
 - `a mx ip4:192.0.2.32/27 include:provedor.com`: remetentes permitidos.
-- `-all`: condição de inclusão ou exclusão de remetentes fora dos declarados anteriormente.
+- `~all`: condição de inclusão ou exclusão de remetentes fora dos declarados anteriormente.
 
 Dentro do elemento de remetentes permitidos, as regras acima significam que um servidor pode enviar mensagens em nome do domínio em questão (site.com) quando:
 
@@ -44,12 +44,13 @@ A condição de inclusão ou exclusão pode apresentar os seguintes valores:
 
 - `+all`: será permitido qualquer remetente fora dos declarados.
 - `-all`: será recusado qualquer remetente fora dos declarados.
-- `~all`: será necessária outra etapa de verificação para recusar os remetentes não autorizados.
+- `~all`: será necessária outra etapa de verificação para recusar os remetentes não autorizados. (Recomendado)
 - `?all`: será desconsiderada a verificação dos remetentes não autorizados.
 
-É recomendado a utilização de -all, que apresenta melhor taxa de entregabilidade. Contudo, é preciso garantir que todos os domínios que enviam mensagens em seu nome estejam devidamente configurados, caso contrário as mensagens não serão entregues.
+Recomendamos a utilização de `~all`, que apresenta melhor taxa de entregabilidade. Se houver um remetente não autorizado, essa opção não trava o envio do email, mas informa que a validação do SPF falhou.
 
 ## SPF no contexto VTEX
+
 A VTEX faz uso do SPF `include:amazonses.com`. É o serviço de envio de emails transacionais da Amazon, utilizado no remetente padrão (tipo VTEX) do Message Center.
 
 Veja nosso artigo de [configuração do SPF](https://developers.vtex.com/vtex-rest-api/docs/setting-up-the-spf) para mais detalhes.

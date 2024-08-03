@@ -3,8 +3,8 @@ title: 'Logistics Simulation with Minimum and Maximum price in Shipping Policy d
 id: 5gsBLbPMIZjZvkl5QHudVY
 status: PUBLISHED
 createdAt: 2022-03-30T20:10:30.205Z
-updatedAt: 2022-11-25T21:59:57.297Z
-publishedAt: 2022-11-25T21:59:57.297Z
+updatedAt: 2024-02-16T20:26:15.370Z
+publishedAt: 2024-02-16T20:26:15.370Z
 firstPublishedAt: 2022-05-17T14:23:38.006Z
 contentType: knownIssue
 productTeam: Logistics
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: logistics-simulation-with-minimum-and-maximum-price-in-shipping-policy-does-not-work-when-productprice-as-0-zero
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 553080
 ---
 

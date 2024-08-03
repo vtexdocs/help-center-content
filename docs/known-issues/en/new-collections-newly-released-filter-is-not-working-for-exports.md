@@ -55,5 +55,3 @@ However, when combining this functionality with the sheet export, this filter is
 
 Use alternative filters for your export.
 
-rnative filters for your export.
-

@@ -3,8 +3,8 @@ title: 'Configurar pagamento com Zenki'
 id: 6LK7wMg0OB39UQKoZILoNL
 status: PUBLISHED
 createdAt: 2023-03-30T17:34:01.758Z
-updatedAt: 2023-03-30T18:04:59.870Z
-publishedAt: 2023-03-30T18:04:59.870Z
+updatedAt: 2024-01-25T18:50:47.590Z
+publishedAt: 2024-01-25T18:50:47.590Z
 firstPublishedAt: 2023-03-30T18:02:25.796Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pagamento-com-zenki
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento Zenki. Por meio deste conector, sua loja pode realizar vendas por meio de bitcoins.
+Na VTEX, é possível realizar a integração com o provedor de pagamento Zenki. Por meio deste provedor, sua loja pode realizar vendas por meio de bitcoins.
 
-Para configurar a afiliação Zenki, siga os passos abaixo:
+Para configurar Zenki, siga os passos abaixo:
 
-1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão `+`.
-3. Clique no conector __Zenki__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __Zenki__ na barra de busca e clique sobre o nome do provedor.
 4. Preencha os campos __Application Key__, __Application Token__, __API key__, __Secret Key__ e __Webhook signing secret__ com as informações da sua conta Zenki.
 5. Caso seja exibida uma mensagem de alerta indicando a necessidade de instalação do app, clique no botão `Instalar app` e siga as instruções de instalação.
 6. Clique em `Salvar`.
@@ -37,4 +37,4 @@ Para configurar a afiliação Zenki, siga os passos abaixo:
 7. Se desejar, você também pode [configurar condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condiciones-especiales--tutorials_456).
 8. Clique em `Salvar`.
 
-Depois de seguir os passos indicados, o conector Zenki pode demorar até 10 minutos para aparecer no Checkout da sua loja como uma opção de pagamento. 
+Depois de seguir os passos indicados, Zenki pode demorar até 10 minutos para aparecer no Checkout da sua loja como uma opção de pagamento. 

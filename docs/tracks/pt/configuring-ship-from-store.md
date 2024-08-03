@@ -3,8 +3,8 @@ title: 'Ship From Store'
 id: 50GAmxxFsJoLWqcnMysWdl
 status: PUBLISHED
 createdAt: 2020-06-30T21:36:43.926Z
-updatedAt: 2023-05-31T14:45:10.189Z
-publishedAt: 2023-05-31T14:45:10.189Z
+updatedAt: 2023-07-26T18:44:48.356Z
+publishedAt: 2023-07-26T18:44:48.356Z
 firstPublishedAt: 2020-06-30T21:45:36.187Z
 contentType: trackArticle
 productTeam: Shopping

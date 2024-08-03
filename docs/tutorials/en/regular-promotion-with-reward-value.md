@@ -85,10 +85,10 @@ When a customer places an order which is eligible to receive a reward credit, yo
 
 The name of the promotion applied to the order appears in the **Sales and marketing** section:
 
-<img class="db center mv9 shadow-4 pointer" src="https:https://images.ctfassets.net/alneenqid6w5/1LpXT5YXqbsjb02eAQUsfg/708046486a825d2d2ec3c40ec20a9da2/detalhes-oms-en.png" alt="order-details" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
+<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/1LpXT5YXqbsjb02eAQUsfg/708046486a825d2d2ec3c40ec20a9da2/detalhes-oms-en.png" alt="order-details" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
 </em></figcaption></figure>
 
-<img class="db center mv9 shadow-4 pointer" src="https:https://images.ctfassets.net/alneenqid6w5/2mriJhUbQbqrrUSbp7tjaC/6acf4788ee8432dbfb24d7d790197022/detalhes-neworders-en.png" alt="order-details-beta" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
+<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/2mriJhUbQbqrrUSbp7tjaC/6acf4788ee8432dbfb24d7d790197022/detalhes-neworders-en.png" alt="order-details-beta" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Order details
  (Beta)</em></figcaption></figure>
 
 In the **Order flow** section, you can check the reward value applied:

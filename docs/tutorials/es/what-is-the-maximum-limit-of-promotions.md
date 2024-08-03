@@ -3,8 +3,8 @@ title: '¿Cuantos cupones, tasas y promociones puedo tener en mi tienda?'
 id: frequentlyAskedQuestions_352
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:52.883Z
-updatedAt: 2021-02-01T15:43:04.116Z
-publishedAt: 2021-02-01T15:43:04.116Z
+updatedAt: 2023-07-10T18:00:19.469Z
+publishedAt: 2023-07-10T18:00:19.469Z
 firstPublishedAt: 2019-01-24T22:05:32.884Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,12 +15,12 @@ legacySlug: cual-es-el-limite-máximo-de-promociones
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-Hoy tenemos una limitación en la cantidad de promociones, tasas y cupones activos.
+Hay un límite en la cantidad de promociones, tasas y cupones activos:
 
 - [Promociones](/es/tutorial/como-criar-promocoes--tutorials_320): 100
 - [Tasas](/es/tutorial/creando-la-tasaimpuesto/): 100
 - [Cupones:](/es/tutorial/crear-cupon-de-descuento/) 50.000
 
-_Se contabilizarán solamente las promociones, tasas o cupones activos, es decir, las promociones, tasas o cupones archivados no se contabilizarán._
+Para calcular este límite sólo se tienen en cuenta las promociones, tasas o cupones activos, es decir, no se consideran las promociones, tasas o cupones archivados.
 
-Entre en contacto con VTEX si necesita modificar alguno de esos límites.
+Si necesita cambiar alguno de estos límites, póngase en contacto con nuestro [Soporte](https://help.vtex.com/en/support) para analizar la viabilidad del cambio.

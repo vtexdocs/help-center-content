@@ -3,8 +3,8 @@ title: 'What is the PCI SSC'
 id: 4jo3Vkox3amSO2w4qIWa0E
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:48.373Z
-updatedAt: 2021-09-22T12:32:07.193Z
-publishedAt: 2021-09-22T12:32:07.193Z
+updatedAt: 2024-07-23T15:26:30.020Z
+publishedAt: 2024-07-23T15:26:30.020Z
 firstPublishedAt: 2019-01-24T22:12:41.627Z
 contentType: tutorial
 productTeam: Financial
@@ -21,4 +21,4 @@ It was founded by American Express, Discover Financial Services, JCB Internatio
 
 PCI SSC is a certification given by that institution, through which VTEX guarantees the safety of its services. It brings security information that we make available for the stores and your customers. 
 
-For more information, see the [VTEX PCI SSC certification category](https://secure.vtex.com/?an=VTEX).
+For more information, see the [VTEX PCI SSC certification category](https://vtex.com/us-en/compliance/certifications/).

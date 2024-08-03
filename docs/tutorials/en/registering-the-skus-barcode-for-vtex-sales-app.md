@@ -3,8 +3,8 @@ title: 'Registering the SKUs barcodes for VTEX Sales App'
 id: 2jkOdRB4XSMG2ke0uUQIKS
 status: PUBLISHED
 createdAt: 2018-03-12T17:23:32.837Z
-updatedAt: 2023-05-31T16:11:54.350Z
-publishedAt: 2023-05-31T16:11:54.350Z
+updatedAt: 2023-07-26T19:04:52.107Z
+publishedAt: 2023-07-26T19:04:52.107Z
 firstPublishedAt: 2018-03-12T17:27:18.421Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

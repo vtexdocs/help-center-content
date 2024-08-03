@@ -3,8 +3,8 @@ title: 'Precios'
 id: tutorials_4393
 status: PUBLISHED
 createdAt: 2017-04-27T21:50:28.982Z
-updatedAt: 2021-12-20T21:12:57.515Z
-publishedAt: 2021-12-20T21:12:57.515Z
+updatedAt: 2023-08-21T17:24:39.459Z
+publishedAt: 2023-08-21T17:24:39.459Z
 firstPublishedAt: 2017-04-27T23:11:16.737Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -16,7 +16,7 @@ subcategory: 3pGCbMh80UueoeSqoAgSuS
 ---
 
 La gestión de los precios se realiza a través del módulo Pricing. 
-Impuestos y promociones en la plataforma VTEX se administran en el módulo *Tasas y Promociones*.
+Impuestos y promociones en la plataforma VTEX se administran en el módulo Promociones.
 
 Algunas ventajas de la nueva lista de precios son:
 

@@ -3,8 +3,8 @@ title: 'Visão Geral Dashboards'
 id: 1yn2nZUoXtDO3teTEJsCNl
 status: PUBLISHED
 createdAt: 2023-03-29T21:16:46.179Z
-updatedAt: 2023-03-29T21:18:04.195Z
-publishedAt: 2023-03-29T21:18:04.195Z
+updatedAt: 2024-06-19T15:30:06.441Z
+publishedAt: 2024-06-19T15:30:06.441Z
 firstPublishedAt: 2023-03-29T21:18:04.195Z
 contentType: tutorial
 productTeam: Others
@@ -23,4 +23,3 @@ A seção inclui as seguintes páginas, já em seu Admin:
 
 - [Visão Geral](https://help.vtex.com/pt/v4/docs/visao-geral-da-loja--6mcM4LPUqQxSiXY6uFtXZy): onde lojistas têm acesso às principais métricas que impactam a receita de suas lojas. Nesse painel, você pode acompanhar a evolução das suas vendas através dos recursos de análise de tendências de pedidos, taxa de conversão e gráficos de funil de vendas.  
 - [Performance de Vendas](https://help.vtex.com/pt/v4/docs/performance-de-vendas--6gx46RGRzWO8qgaVck7PRp): um painel de controle para comércio unificado, ajudando lojas a ampliarem seu negócio e tomarem decisões com mais precisão.  
-- [Performance de páginas Web](https://help.vtex.com/pt/v4/docs/performance-de-paginas-web--7DeyhX8cGtG9PtAGkL8zvc): disponibiliza a ferramenta PageSpeed Insights do Google em seu Admin VTEX, assim, é possível monitorar o desempenho das URLs do seu ecommerce.   

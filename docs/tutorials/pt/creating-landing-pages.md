@@ -3,8 +3,8 @@ title: 'Criando landing pages'
 id: 2DqFleXKz0Vsg3KhHLuUEB
 status: PUBLISHED
 createdAt: 2022-02-02T13:57:03.484Z
-updatedAt: 2023-03-24T22:24:37.311Z
-publishedAt: 2023-03-24T22:24:37.311Z
+updatedAt: 2024-08-01T13:10:40.896Z
+publishedAt: 2024-08-01T13:10:40.896Z
 firstPublishedAt: 2022-02-02T14:41:53.952Z
 contentType: tutorial
 productTeam: VTEX IO
@@ -39,6 +39,11 @@ No Admin, você pode criar landing pages personalizadas, como páginas para ofer
 | Requer autenticação | Selecione esta opção se a nova landing page só deve ser acessada por usuários autenticados. |
 | Descrição | Resumo da nova página que será exibida nas páginas de resultados dos mecanismos de busca. |
 | Palavras-chave | Tópicos que definem o conteúdo da página e ajudam a mostrar a página aos usuários interessados nos resultados dos mecanismos de busca. |
+
+<div class="alert alert-warning">
+<p>Para evitar conflitos e garantir a integridade do sistema, não é permitida a alteração da URL de uma rota já existente. Caso precise modificar uma URL, recomenda-se criar uma nova página com o caminho desejado e desativar a antiga, se necessário.
+</p>
+</div>
 
 <div class = "alert alert-info">
 <p>Os cinco campos acima têm um impacto direto nos acessos à loja e em seu posicionamento nos resultados dos mecanismos de busca. Ao preencher os metadados da página, considere as melhores práticas de SEO.

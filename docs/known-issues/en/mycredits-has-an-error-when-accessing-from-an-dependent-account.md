@@ -3,8 +3,8 @@ title: 'MyCredits has an error when accessing from an dependent account'
 id: 6QJWAD7Q2PSEMsmZYXqMag
 status: PUBLISHED
 createdAt: 2022-03-27T16:19:47.411Z
-updatedAt: 2022-11-25T22:08:20.276Z
-publishedAt: 2022-11-25T22:08:20.276Z
+updatedAt: 2024-02-16T20:29:22.908Z
+publishedAt: 2024-02-16T20:29:22.908Z
 firstPublishedAt: 2022-03-27T16:19:47.994Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: mycredits-has-an-error-when-accessing-from-an-dependent-account
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 367276
 ---
 

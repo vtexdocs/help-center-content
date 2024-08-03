@@ -3,8 +3,8 @@ title: 'O seletor de quantidade no modo stepper não se atualiza após atingir a
 id: 77bK8oIAPR8LEMtOn6QEqs
 status: PUBLISHED
 createdAt: 2022-12-23T12:20:23.568Z
-updatedAt: 2022-12-23T12:20:24.148Z
-publishedAt: 2022-12-23T12:20:24.148Z
+updatedAt: 2024-02-16T20:27:43.811Z
+publishedAt: 2024-02-16T20:27:43.811Z
 firstPublishedAt: 2022-12-23T12:20:24.148Z
 contentType: knownIssue
 productTeam: Store Framework
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: o-seletor-de-quantidade-no-modo-stepper-nao-se-atualiza-apos-atingir-a-qunatity-maxima-disponivel
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 704458
 ---
 

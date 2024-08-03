@@ -3,8 +3,8 @@ title: 'Auto aprova API aceita quaisquer valores'
 id: kLl4mtwKPPqW6jk5hZMWs
 status: PUBLISHED
 createdAt: 2022-12-12T14:18:51.059Z
-updatedAt: 2022-12-12T14:18:51.733Z
-publishedAt: 2022-12-12T14:18:51.733Z
+updatedAt: 2024-02-16T20:27:19.981Z
+publishedAt: 2024-02-16T20:27:19.981Z
 firstPublishedAt: 2022-12-12T14:18:51.733Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: auto-aprova-api-aceita-quaisquer-valores
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 713704
 ---
 

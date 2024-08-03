@@ -3,8 +3,8 @@ title: 'En la declaración parcial, los valores de los impuestos en la UI aparec
 id: 2I5a9hwrUo6s1htxOg8H1U
 status: PUBLISHED
 createdAt: 2022-04-11T13:15:06.455Z
-updatedAt: 2022-11-25T22:03:40.667Z
-publishedAt: 2022-11-25T22:03:40.667Z
+updatedAt: 2024-02-16T20:28:35.114Z
+publishedAt: 2024-02-16T20:28:35.114Z
 firstPublishedAt: 2022-04-11T13:15:07.028Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: en-la-declaracion-parcial-los-valores-de-los-impuestos-en-la-ui-aparecen-el-total
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 559458
 ---
 

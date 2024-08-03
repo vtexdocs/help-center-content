@@ -3,8 +3,8 @@ title: 'Substituição de pedidos'
 id: 2IK9mwQjBKseQmE8K8saO8
 status: PUBLISHED
 createdAt: 2018-02-20T19:29:21.502Z
-updatedAt: 2023-03-29T15:54:02.723Z
-publishedAt: 2023-03-29T15:54:02.723Z
+updatedAt: 2024-07-08T14:22:27.104Z
+publishedAt: 2024-07-08T14:22:27.104Z
 firstPublishedAt: 2018-02-20T20:24:08.083Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -37,7 +37,7 @@ Se a Substituição de pedidos for ativada em lojas que têm customização na p
 
 Para ativar a funcionalidade, siga os passos abaixo:
 
-1. No Admin VTEX, acesse **Configurações da loja > Pedidos > Configurações**, ou digite *Envio* na barra de busca no topo da página e selecione **Configurações da loja / Envio**.
+1. No Admin VTEX, acesse **Configurações da loja > Pedidos > Configurações**, ou digite *Pedidos* na barra de busca no topo da página e selecione **Configurações da loja / Pedidos**.
 2. Na aba **Gerais**, ao final da página, selecione o <a class="far fa-check-square"></a> em **Substituição do pedido**, ao lado de _Permitir que os clientes façam alterações em pedidos_.
 3. Clique em `Salvar`.
 
@@ -61,7 +61,7 @@ Os dados que podem ser alterados com a substituição de pedidos são:
 Não é possível realizar substituição de pedidos nos casos de:
 
 * [Pedidos incompletos](https://help.vtex.com/pt/tutorial/entendendo-os-pedidos-incompletos--tutorials_294): quando o pedido não está com todas as informações completas para ser finalizado na plataforma.
-* Transação compartilhada: pedidos com mais de um seller e pagamento realizado para o marketplace.
+* Transação compartilhada: pedidos com um seller ou mais e pagamento realizado para o marketplace.
 * Pedidos já modificados pela loja.
 * Pedidos com os seguintes status:
     * Verificando nota fiscal

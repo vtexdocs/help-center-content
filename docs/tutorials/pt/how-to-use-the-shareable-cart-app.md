@@ -41,7 +41,7 @@ Uma vez ativado o app, não é necessário fazer login para iniciar a navegaçã
 
 ## Adicionar código de vendedor
 
-Após selecionar os produtos, clique no botão <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/3N22EOkpKDTgr32mkN9ei5/6cb4627d028e3ffe0aa29c607ce6c90b/image10.png" /> para adicionar o seu código de vendedor. Siga as instruções da loja para o preenchimento, já que cada loja pode escolher formas diferentes para identificar vendedores e descontos.
+Após selecionar os produtos, clique no botão <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/3N22EOkpKDTgr32mkN9ei5/6cb4627d028e3ffe0aa29c607ce6c90b/image10.png" /> para adicionar o seu código de vendedor. Siga as instruções da loja para o preenchimento, já que cada loja pode escolher formas diferentes para identificar vendedores e descontos.
 
 ![shareable-cart-addcode](https://images.ctfassets.net/alneenqid6w5/1ORhQKfIfTsXZhPR40d3FQ/f751f96f3800e2c7f7ec91bae80257b0/shareable-cart-addcode.gif)
 
@@ -63,7 +63,7 @@ Depois de adicionar seu código de vendedor, clique no botão correspondente à 
 
 Para compartilhar o carrinho por WhatsApp:
 
-1. Clique no botão <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/34fTsrnmu0yZKKAU2Kq9iR/a9e805534e6bc81434026357529be8a3/image11.png" />
+1. Clique no botão <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/34fTsrnmu0yZKKAU2Kq9iR/a9e805534e6bc81434026357529be8a3/image11.png" />
 2. Digite o __número de telefone do cliente__ e clique em OK
 3. (Opcional) Customize a mensagem no WhatsApp
 4. Envie a mensagem pelo WhatsApp
@@ -74,7 +74,7 @@ Para compartilhar o carrinho por WhatsApp:
 
 Para compartilhar o carrinho por Facebook Messenger:
 
-1. Clique no botão <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/513wjcWdQzEydkFpsdm2Kb/e6ffef11d724e6fc1b66bf00504c81bb/image1.png" />
+1. Clique no botão <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/513wjcWdQzEydkFpsdm2Kb/e6ffef11d724e6fc1b66bf00504c81bb/image1.png" />
 2. Digite o __nome do perfil do cliente__ no Facebook Messenger
 3. Customize a mensagem no Facebook Messenger
 4. Envie a mensagem pelo Facebook Messenger
@@ -88,7 +88,7 @@ Não é possível compartilhar carrinhos no Messenger para perfis desconhecidos.
 
 Para compartilhar o carrinho por SMS: 
 
-1. Clique no botão <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/aYyWKNKx0Fb4sSNT5yNJQ/34f7516d18c2f6efcb6c62c70ba8c04b/image7.png" />
+1. Clique no botão <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/aYyWKNKx0Fb4sSNT5yNJQ/34f7516d18c2f6efcb6c62c70ba8c04b/image7.png" />
 2. Digite o __número de telefone do cliente__ e clique em OK
 3. (Opcional) Customize a mensagem no seu aplicativo de SMS
 4. Envie a mensagem pelo seu aplicativo de SMS
@@ -97,7 +97,7 @@ Para compartilhar o carrinho por SMS:
 
 Para compartilhar o carrinho por Link:
 
-1. Clique no botão <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/2GZp3YTXtUkh5KvG9BTFx6/0921f73c5c553a90ddd39056ab918202/image15.png" />
+1. Clique no botão <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/2GZp3YTXtUkh5KvG9BTFx6/0921f73c5c553a90ddd39056ab918202/image15.png" />
 2. Copie o link destacado em __Link para compartilhar__
 3. (Opcional) Escreva uma mensagem customizada com o link
 4. Envie o link para o cliente no seu canal de contato
@@ -106,7 +106,7 @@ Para compartilhar o carrinho por Link:
 
 Para compartilhar o carrinho por Gmail:
 
-1. Clique no botão <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/1rQ6MAeLHDZZ4vnX2p3Gyq/17bcbb4ebb94ac94a34dffb6c3515663/image14.png" />
+1. Clique no botão <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/1rQ6MAeLHDZZ4vnX2p3Gyq/17bcbb4ebb94ac94a34dffb6c3515663/image14.png" />
 2. Digite o __endereço de e-mail do cliente__ e clique em OK
 3. (Opcional) Customize a mensagem no Gmail
 4. Envie a mensagem pelo Gmail
@@ -117,7 +117,7 @@ Para compartilhar o carrinho por Gmail:
 
 Para compartilhar o carrinho por Email:
 
-1. Clique no botão <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/1B5ehv90NAceay9z6PPr7R/70fd43fed7c4aaec4e5a902c01255072/image8.png" />
+1. Clique no botão <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/1B5ehv90NAceay9z6PPr7R/70fd43fed7c4aaec4e5a902c01255072/image8.png" />
 2. Digite o __endereço de e-mail do cliente__ e clique em OK
 3. (Opcional) Customize a mensagem no seu aplicativo de e-mail
 4. Envie a mensagem pelo seu aplicativo de e-mail
@@ -126,7 +126,7 @@ Para compartilhar o carrinho por Email:
 
 ## Limpar carrinho
 
-Após concluir o atendimento de um cliente, clique no botão <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/2fM6iuMfYNkTWlPA1vaSFM/c5c7c03611d846d609907d272b66684b/image5.png"/> para limpar seu carrinho e escolher novos produtos para outro cliente.
+Após concluir o atendimento de um cliente, clique no botão <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/2fM6iuMfYNkTWlPA1vaSFM/c5c7c03611d846d609907d272b66684b/image5.png"/> para limpar seu carrinho e escolher novos produtos para outro cliente.
 
 <div class="alert alert-info" role="alert"><strong>Cada vendedor pode trabalhar com vários clientes!</strong> Recomendamos guardar os links já compartilhados em uma planilha ou bloco de notas. Assim você mantém seus carrinhos organizados e poderá fazer alterações sempre que solicitado por um cliente.</div>
 

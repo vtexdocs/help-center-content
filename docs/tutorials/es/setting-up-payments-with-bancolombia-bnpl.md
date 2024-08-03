@@ -3,8 +3,8 @@ title: 'Configurar pago con Bancolombia BNPL'
 id: 16iFxjwsOPwmBwmjhb17WN
 status: PUBLISHED
 createdAt: 2023-03-30T16:25:46.370Z
-updatedAt: 2023-03-30T17:24:01.279Z
-publishedAt: 2023-03-30T17:24:01.279Z
+updatedAt: 2024-01-24T21:15:43.651Z
+publishedAt: 2024-01-24T21:15:43.651Z
 firstPublishedAt: 2023-03-30T17:24:01.279Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pago-con-bancolombia-bnpl
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX es posible la integración con el proveedor de pagos Bancolombia BNPL. Con este conector, su tienda puede realizar ventas a través de Bancolombia BNPL (Buy Now Pay Later).
+En VTEX es posible la integración con el proveedor de pagos Bancolombia BNPL. Con este proveedor, su tienda puede realizar ventas a través de Bancolombia BNPL (Buy Now Pay Later).
 
-Para configurar la afiliación Bancolombia BNPL, siga los pasos a continuación:
+Para configurar Bancolombia BNPL, siga los pasos a continuación:
 
-1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Configuración__, o escribe __Configuración__ en la barra de búsqueda en la parte superior de la página.
-2. En la pestana __Afiliaciones de Gateway__, haga clic en el botón `+`.
-3. Haga clic en el conector __BancolombiaBNPL__.
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __BancolombiaBNPL__ en la barra de búsqueda y haga clic en el nombre del proveedor.
 4. Rellene los campos de registro __Application Token__ y __Application Token__ con los datos proporcionados por su cuenta Bancolombia.
 5. Si aparece un mensaje de alerta que indica la necesidad de instalar la aplicación, haga clic en el botón `Instalar aplicación` y siga las instrucciones de instalación.
 6. Haga clic en `Guardar`.

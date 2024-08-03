@@ -3,8 +3,8 @@ title: 'Alteração de itens de um pedido finalizado'
 id: tutorials_190
 status: PUBLISHED
 createdAt: 2017-04-27T22:15:22.411Z
-updatedAt: 2023-05-03T14:22:00.584Z
-publishedAt: 2023-05-03T14:22:00.584Z
+updatedAt: 2024-04-01T17:40:33.284Z
+publishedAt: 2024-04-01T17:40:33.284Z
 firstPublishedAt: 2017-04-27T23:00:47.264Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -40,6 +40,7 @@ Antes de realizar as alterações no pedido, fique atento às restrições da fu
 * É preciso que o [adquirente](https://help.vtex.com/pt/tutorial/o-que-e-um-adquirente--7N1oRTG8dGmOiIugC0cs4E) aceite o novo valor da operação para que a alteração ocorra.
 * O acréscimo de valores só é permitido se pedido foi pago por [Promissória de Crédito](https://help.vtex.com/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ), [dinheiro](https://help.vtex.com/pt/tutorial/como-configurar-pagamento-customizado--tutorials_451) ou [controle de crédito](https://help.vtex.com/pt/tutorial/customer-credit-visao-geral--1uIqTjWxIIIEW0COMg4uE0). Além disso, o [adquirente ](https://help.vtex.com/pt/tutorial/o-que-e-um-adquirente--7N1oRTG8dGmOiIugC0cs4E)deve permitir a operação sem o uso de CVV e duas operações de cobrança em um mesmo pedido.
 * A [reserva](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona--tutorials_92)dos itens no inventário não é automática. É preciso atualizar manualmente a quantidade de itens que ainda estão disponíveis no [inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139).
+* Não é possível [cancelar pedidos](https://help.vtex.com/pt/tutorial/como-cancelar-pedido--tutorials_186) que já tenham sido [faturados parcialmente](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Caso o cliente deseje substituir ou remover itens do pedido, é possível alterar o pedido.
 * Não é possível alterar um pedido com a transação finalizada. Para alterações no valor do pedido com desconto, por exemplo, o OMS leva em considera que ainda é possível alterar o valor da transação se o status mostrado em Detalhes da transação é diferente de `Finished`, mesmo se o valor já tenha sido liquidado.  
 * Não é possível fazer alterações em pedidos vindos de [marketplaces integrados com a VTEX](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) (tanto conectores nativos ou conectores de parceiros).
 * É possível alterar apenas pedidos que foram para manuseio, no status *Preparando entrega*.

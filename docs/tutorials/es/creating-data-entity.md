@@ -19,7 +19,7 @@ Entidad de datos es una representación de un conjunto de información sobre un 
 
 Para ejemplificar, imagine un sistema de control de una biblioteca. Este sistema controla los libros que pueden ser alquilados por los clientes. Así, vemos que estos tres conceptos (libro, cliente y alquiler) son entidades que poseen informaciones sobre cada una de ellas. Entidad de datos, por lo tanto, es un grupo de información sobre un determinado concepto.
 
-![exemploBiblioteca](//images.contentful.com/alneenqid6w5/4WFfw93mlykqGCMSyAKcW2/27a0fd02aba4dd22df42a00fd506b75e/new-infographic.png)
+![exemploBiblioteca](https://images.contentful.com/alneenqid6w5/4WFfw93mlykqGCMSyAKcW2/27a0fd02aba4dd22df42a00fd506b75e/new-infographic.png)
 
 Con estos conceptos, es posible configurar los más diversos escenarios de control de datos por el Master Data. De forma predeterminada, se insertan las siguientes entidades de datos: Cliente, Dirección, Tiendas, etc. Es posible crear cuántas más entidades de datos desee, posibilitando un ambiente personalizado, orientado a las necesidades de cada tienda.
 

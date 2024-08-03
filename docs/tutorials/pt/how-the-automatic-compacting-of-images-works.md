@@ -17,7 +17,7 @@ subcategory: 2g6LxtasS4iSeGEqeYUuGW
 
 As lojas VTEX contam com compatação automática de imagens para __WebP__. Este recurso possibilita uma redução de até 25% no peso do site.
 
-![webplogo](//images.contentful.com/alneenqid6w5/1HsHoCbkyM86KKA4sCWucO/0e6f078eb62b773cc927da79b8ea6f1e/webplogo.png)
+![webplogo](https://images.contentful.com/alneenqid6w5/1HsHoCbkyM86KKA4sCWucO/0e6f078eb62b773cc927da79b8ea6f1e/webplogo.png)
 
 O formato, desenvolvido pelo Google, é mais eficiente que o JPG ou o PNG, sem necessariamente reduzir a qualidade das imagens. Gera facilmente um ganho de 1 ou 2 segundos no tempo de carregamento das páginas (variando conforme o layout).
 

@@ -3,8 +3,8 @@ title: 'VTEX Pick and Pack: Fulfillment'
 id: 1zGUEItEEVsal6cuBEBNcA
 status: PUBLISHED
 createdAt: 2023-04-10T15:43:59.687Z
-updatedAt: 2023-04-20T15:41:30.789Z
-publishedAt: 2023-04-20T15:41:30.789Z
+updatedAt: 2023-08-31T19:52:23.529Z
+publishedAt: 2023-08-31T19:52:23.529Z
 firstPublishedAt: 2023-04-10T17:57:34.714Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,625 +15,464 @@ legacySlug: vtex-pick-and-pack-fulfillment
 subcategory: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-[VTEX Pick and Pack](https://help.vtex.com/es/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU) es una solución para agilizar los procesos de fulfillment de las tiendas, optimizando la recolección y el empaquetado de los pedidos y la entrega last mile. La solución está compuesta por las páginas [Last Mile](https://help.vtex.com/es/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) y **VTEX Pick and Pack Fulfillment**, y está disponible en tu VTEX Admin en **Apps**.
-
-El módulo **VTEX Pick and Pack Fulfillment** está relacionado con el proceso de gestión de pedidos y cuenta con las siguientes secciones:
-
-- [Recolección y empaquetado](#recoleccion-y-empaquetado)
-- [Insights](#insights)
-- [Configuración](#configuracion)
-- [Usuarios](#usuarios)
-
-<div class="alert alert-danger">
-<b>VTEX Pick and Pack</b> no es un sistema de facturación. Tras la recolección y el empaquetado, el pedido debe ser facturado y actualizado como <code>Facturado</code> en OMS, para que <b>VTEX Fulfillment</b> pueda finalizar el flujo de recolección y empaquetado y proceder al envío.
+<div class = "alert alert-info">
+Si tienes interés en implementarla en tu negocio, rellena nuestro <a href="https://vtex.com/co-es/contacto/">formulario</a> indicando en el campo <code>Comentarios</code> el nombre del producto deseado.
 </div>
 
-## Recolección y empaquetado
+- [Ingreso a la aplicación](#ingreso-a-la-aplicacion)
+    - [Página de inicio](#pagina-de-inicio)
+- [Proceso de alistamiento](#proceso-de-alistamiento)
+    - [Creación de hojas de trabajo](#creacion-de-hojas-de-trabajo)
+    - [Alistamiento de ítems](#alistamiento-de-items)
+    - [Rechazar ítems](#rechazar-items)
+    - [Reemplazar ítems](#reemplazar-items)
+    - [Observaciones al ítem o al pedido](#observaciones-al-item-o-al-pedido)
+    - [Opciones de la hoja de trabajo dentro del menú](#opciones-de-la-hoja-de-trabajo-dentro-del-menu)
+- [Proceso de empaquetado](#proceso-de-empaquetado)
+    - [Empaquetado en masa o individual](#empaquetado-en-masa-o-individual)
+        - [Empaquetado en masa](#empaquetado-en-masa)
+        - [Empaquetado individual](#empaquetado-individual)
+- [Proceso de envío](#proceso-de-envio)
+- [Sección Pedidos - Admin](#seccion-pedidos---admin)
+- [Sección Hojas de trabajo - Admin](#seccion-hojas-de-trabajo---admin)
+- [Configuración de la aplicación](#configuracion-de-la-aplicacion)
+    - [Configuración y alistamiento](#configuracion-y-alistamiento)
+    - [Cambios en los pedidos](#cambios-en-los-pedidos)
+    - [Motivos de rechazo y motivos de cambios de precio](#motivos-de-rechazo-y-motivos-de-cambios-de-precio)
+        - [Límite de cambios](#limite-de-cambios)
+        - [Hojas de trabajo para habilitar o deshabilitar funciones](#hojas-de-trabajo-para-habilitar-o-deshabilitar-funciones)
+        - [Tags de hojas de trabajo](#tags-de-hojas-de-trabajo)
+        - [Activar códigos EAN dinámicos](#activar-codigos-ean-dinamicos)
+    - [Configuración de categorías](#configuracion-de-categorias)
+    - [Configuración de empaquetado](#configuracion-de-empaquetado)
+    - [Configuración de pedidos](#configuracion-de-pedidos)
+    - [Configuración de automatización](#configuracion-de-automatizacion)
+    - [Configuración de instalaciones](#configuracion-de-instalaciones)
+    - [Configuración de catálogo](#configuracion-de-catalogo)
 
-Esta es la interfaz de gestión de pedidos, con dos páginas principales:
+## Ingreso a la aplicación
 
-- [Lista de recolección y empaquetado](#lista-de-recoleccion-y-empaquetado)
-- [Detalles de recolección y empaquetado](#detalles-de-recoleccion-y-empaquetado)
+Para empezar a utilizar Pick and Pack, es necesario tener acceso a la [aplicación](https://picking.pickingnpacking.com/login) como alistador. Como alistador podrás acceder a tu cuenta, iniciar sesión y encontrar pedidos. [Ir a la aplicación](https://picking.pickingnpacking.com/login).
 
-### Lista de recolección y empaquetado
+Ingresa tu usuario debidamente registrado, contraseña y haz clic en  **iniciar sesión**.
 
-Al acceder a **Fulfillment > Recolección y empaquetado**, encontrarás una página en la que se enumeran todos los pedidos con pago confirmado con [status](https://help.vtex.com/en/tutorial/order-flow-and-status--tutorials_196) `Listo para recolección`, como en la imagen de abajo.
+![pick and pack 1](https://images.ctfassets.net/alneenqid6w5/3tIH46Q7spSVEa1nDMBaHU/6c9cf04d64fe02a4a4e27c0cbcfe9ea2/image26.png)
 
-La tabla siguiente contiene la descripción de las columnas mostradas:
+## Página de inicio
 
-| **Columna** | **Descripción** |
-| ----------- | ---------- |
-| Fecha de creación | Fecha y hora de realización del pedido. |
-| Fecha de entrega | El plazo de entrega de los pedidos, definido en el acuerdo de nivel de servicio (SLA) entre la tienda y el cliente. |
-| Forma de entrega | El tipo de envío del pedido, que puede ser entrega, envío a la dirección del cliente o recogida en un [punto de recogida](https://help.vtex.com/es/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R). |
-| Número del pedido | ID único que identifica un pedido, el mismo que se utiliza en el sistema de gestión de pedidos (OMS). |
-| Entregador | Nombre del _entregador_ asignado al pedido. El _entregador_ es la persona responsable del proceso de recolecc ión. El valor predeterminado es `No asignado` hasta que se asigne un _entregador_. |
-| Status | El status del pedido, que puede ser:<ul><li><b>Listo para preparación:</b> los pedidos están listos para su preparación, pero aún no se han asignado a un recolector.</li><li><b>Listo para recolección:</b> el pedido fue asignado a un recolector y depende de su confirmación para pasar al siguiente status.</li><li><b>Recolectando:</b> se están recogiendo los ítems del pedido.</li><li><b>Listo para empaquetar:</b> el proceso de recolección ha finalizado y el pedido está listo para ser empaquetado.</li><li><b>Empaquetando:</b> los ítems del pedido se están empaquetando en bolsas o paquetes determinados por la tienda.</li><li><b>Listo para facturar:</b> el pedido puede ser facturado. La solución VTEX Pick and Pack no factura los pedidos.</li><li><b>Facturado:</b> el pedido fue facturado.</li><li><b>Preparando servicios:</b> los servicios de envío están listos para ser creados.</li><li><b>Listo para envío:</b> el pedido está listo para envío.</li><li><b>Entregado:</b> el pedido fue entregado a la dirección del cliente o punto de recogida.</li><li><b>Inactivo:</b> el pedido era de fulfillment externo, y VTEX Pick and Pack no podrá procesarlo. Si el pedido se factura en OMS en un status distinto a <code>Listo para facturar</code>, el sistema también lo considerará un caso de fulfillment externo y cambiará el status del pedido a <code>Inactivo</code>.</li><li><b>Cancelado:</b> el pedido estaba listo para preparación, pero fue cancelado.</li></ul> | 
+Al acceder, se habilita el dashboard del alistador, que te permitirá monitorizar, analizar y visualizar los indicadores clave de desempeño del alistador.
 
-Para ver más detalles sobre un pedido, selecciona uno de la lista y la información siguiente aparecerá:
+![pick and pack 2](https://images.ctfassets.net/alneenqid6w5/3Hx3ir28gfSdv60DupqIpj/d169addf3e5162f53fd4ffae4fabf172/image3.png)
 
-| **Columna** | **Descripción** |
-| ---------- | ---------- |
-| Información del cliente | El nombre, email y número de contacto del cliente. |
-| Información de entrega | La dirección de entrega del cliente o la dirección del punto de recogida, cuando el cliente elige la opción de recogida en tienda. |
-| Ventana de entrega | Muestra la fecha en que se realizó el pedido y la fecha prevista en que el cliente lo recibirá. |
-| Ítems del pedido | El número de ítems y sus categorías. |
-| Medio de pago | El valor total del pedido y el [medio de pago](https://help.vtex.com/es/tutorial/difference-between-payment-methods-and-payment-conditions--3azJenhGFyUy2gsocms42Q) utilizado, como tarjetas de crédito o débito. |
+- Permite visualizar de manera gráfica la cantidad de pedidos alistados durante los últimos días.
+- Puedes consultar la cantidad de pedidos con alistamiento finalizado.
+- Puedes consultar el tiempo total invertido en cada ítem de los pedidos procesados.
+- Permite conocer la cantidad de hojas de trabajo con el proceso de alistamiento finalizado y las que están pendientes de realizar el proceso de empaquetado.
+- - Permite conocer los pedidos pendientes que aún no han iniciado el proceso de alistamiento.
 
-Puedes realizar las siguientes acciones en la página de Recolección y empaquetado:
+En la sección superior de la aplicación podrás encontrar las siguientes funcionalidades.
 
-- [Buscar](#buscar)
-- [Filtrar](#filtrar)
-- [Importar](#importar)
-- [Exportar](#exportar)
-- [Imprimir recibos](#imprimir-recibos)
-- [Asignar/reasignar entregador](#asignar-reasignar-entregador)
+- **Selección de instalación,** ubicada a la derecha del ícono del usuario alistador. Al tocar, indica las instalaciones asociadas al usuario.
 
-#### Buscar
+![pick and pack 3](https://images.ctfassets.net/alneenqid6w5/7KTcPX2RJjmo7QMfZxsxx8/b5b10100395ac08bc6cb78575e3eeaed/image15.png)
 
-En la parte superior de la página, hay un cuadro de búsqueda con el ícono de lupa <i class="fas fa-search"></i> en el que puedes buscar pedidos utilizando los siguientes criterios:
+- **Menú**, donde figuran los accesos directos a las funcionalidades principales de la aplicación.
+
+![pick and pack 4](https://images.ctfassets.net/alneenqid6w5/2633eMzDne2LCpYWqksCUm/e09e4962d5a17b8b68993387b2fcb719/image17.png)
+
+## Proceso de alistamiento
+
+### Creación de hojas de trabajo
+
+Desde la página de inicio, toca la opción **Sin asignar.** 
+
+Al ingresar, encontrarás pedidos que están listos para preparación, organizados por fecha de entrega de forma descendiente.
+
+Los pedidos en color rojo son aquellos que llevan mucho tiempo sin ser gestionados y el verde representa aquellos más recientes.
+
+<div class = "alert alert-info">
+Las hojas de trabajo permitirán combinar varios pedidos, de modo que todos los ítems puedan ser alistados.
+</div>
+
+Elige los pedidos que deseas gestionar y haz clic en la opción  **Empezar a alistar.** En ese momento el sistema crea las hojas de trabajo, con su respectivo número de identificación, que estarán compuestas por los ítems de los pedidos seleccionados.
+
+![pick and pack 5](https://images.ctfassets.net/alneenqid6w5/3ibz0RB8PSB3NdQnfVmXny/dc584f577881dbe47ff343a05ea0c528/image43.png)
+
+![pick and pack 6](https://images.ctfassets.net/alneenqid6w5/79AdZNyZkpj3dK8uLfFUnz/ee0bd30e3073345a515d46c7e0de1019/image11.png)
+
+De igual manera, se  habilitarán las acciones de alistamiento para cada producto que compone los pedidos asociados a las hojas de trabajo.
+
+### Alistamiento de ítems
+
+Hay varias formas de iniciar el alistamiento de los productos: 
+
+Sitúate sobre el producto que deses alistar, y desliza hacia la izquierda.
+
+![pick and pack 7](https://images.ctfassets.net/alneenqid6w5/1hGlv0xBZbzSxviLzKXHTW/05f428c28ca4faff07d563b48a8e60e6/image39.png)
+
+Si se pulsa una vez sobre el producto, solo será alistada una unidad. Si se pulsa dos veces, se alistarán todas las unidades.
+
+### Rechazar ítems
+
+Existen varias formas de rechazar un producto:
+
+Sitúate en el producto que deseas alistar, y desliza hacia el lado derecho.
+
+![pick and pack 8](https://images.ctfassets.net/alneenqid6w5/57QUYlKaUtl360QlxWC4kt/af1d8ca336a5f911568f9ec948461bf4/image7.png)
+
+Mantén pulsado el producto y se desplegará un menú, donde puedes seleccionar Descartar ítem.
+
+![pick and pack 9](https://images.ctfassets.net/alneenqid6w5/2zRTW81m8FsoFpvNl70O4/b6b7f8ebe0d37d6439a348ed0735a5f0/image25.png)
+
+Después, debe incluirse el motivo del rechazo. Si lo deseas, puedes rechazar una cantidad específica, ingresando la cifra para después pulsar la opción Descartar unidades. También puedes descartarlas todas, como se muestra en la captura de pantalla a continuación.
+
+![pick and pack 10](https://images.ctfassets.net/alneenqid6w5/78Ghr0v7Dp1PkKqLF1Q4pZ/2fc6d278277e1aa09c19ffad4c05935d/image23.png)
+
+### Reemplazar ítems
+
+La opción **Reemplazar ítem** se encuentra en el menú que se despliega al tocar cada producto.
+
+Si se accede a **Reemplaza ítem**, el sistema valida los pedidos a los que pertenece el producto. Si existen pedidos que comparten productos el sistema habilita el listado de los pedidos asociados.
+
+![pick and pack 11](https://images.ctfassets.net/alneenqid6w5/2fFFzKLeIp6dNgknXAYuC/efdcba4627eadd592938dc8d4419218c/image21.png)
+
+Selecciona los pedidos deseados y toca la opción **Reemplazar en los pedidos seleccionados.** Después, el sistema habilitará la pantalla **Reemplazar ítem.**
+
+La pantalla Reemplazar ítem habilita los productos asociados al producto a reemplazar. Puedes utilizar el filtro de búsqueda.
+
+![pick and pack 12](https://images.ctfassets.net/alneenqid6w5/3lGf61iDMk0nXqPtpIjTvM/3ff3f40f5609d481d8ee1d844a586a5a/image57.png)
+
+Selecciona el producto deseado y haz clic en  la opción Reemplazar ítem: el sistema habilitará los campos de reemplazo.
+
+![pick and pack 13](https://images.ctfassets.net/alneenqid6w5/1pYNdI9Az53pRgdg1cYTnm/aef41d13dbcfa7534c36fe94de3733ff/image35.png)
+
+Se pueden ingresar los siguientes datos:
+- Precio.
+- Cantidad.
+- Seleccionar el motivo de rechazo.
+- Ingresar la descripción del rechazo.
+- Modificar el precio.
+
+Toca la opción **Confirmar reemplazo.**
+
+### Observaciones al ítem o al pedido
+
+Para ingresar observaciones sobre el producto, accede al menú del ítem y después a la opción **Agregar observaciones.**
+
+![pick and pack 14](https://images.ctfassets.net/alneenqid6w5/1r3yi390cfL6GxMcbEAWyj/1f8138ce000a1408441d5f77dbed2d2b/image31.png)
+
+Si existen pedidos que comparten producto, selecciona el pedido al que debe asociarse la observación. Ingresa la observación y toca la opción **Agregar observación.**
+
+Para ingresar observaciones a la hoja de trabajo, nos ubicamos en el menú y seleccionamos la opción **Agregar observaciones.** Ingresamos las observaciones y tocamos en **Agregar observación.**
+
+### Opciones de la hoja de trabajo dentro del menú
+
+- **Listo para empaquetar:** permite alistar o rechazar todos los ítems asociados a la hoja de trabajo.
+- **Pausar alistamiento:** al hacer clic sobre esta opción, la hoja de trabajo queda en estado de pausa para no afectar el rendimiento del alistador.
+- **Imprimir lista de alistamiento:** disponibiliza un documento que enumera los ítems alistados de cada pedido.
+
+![pick and pack 15](https://images.ctfassets.net/alneenqid6w5/7D4oZ5bWzb5BPeN43xH7HV/002a586863b4e1044aeac477b165cc2e/image45.png)
+
+## Proceso de empaquetado
+
+Al terminar con el alistamiento del pedido el status pasa a ser Listo para empaquetar, permitiendo realizar el proceso de empaquetado.
+
+Existen varias formas de iniciar el empaque.
+
+En el dashboard se encuentra la opción **Para empaquetar;** al acceder, nos redirige a la lista de hojas de trabajo pendientes por empacar. Desde el menú, accedemos a la lista de **Empaquetado** ubicada dentro de la opción **Pendiente.**
+
+![pick and pack 15](https://images.ctfassets.net/alneenqid6w5/5wiF37YnG1uwyR3j3SjB50/f3634ddeab5a581319b18252955ae4b3/image9.png)
+
+Dentro de la pestaña **Empaquetado** seleccionamos la hoja de trabajo que se encuentre en estado Listo para empaquetar o Empaquetado para iniciar o continuar el proceso de empaque.
+
+Al acceder encontramos la lista de productos, donde podemos realizar un empaque individual o en masa.
+
+![pick and pack 16](https://images.ctfassets.net/alneenqid6w5/76b06UUuKR7apFSGFXfetA/2a2b5bdfd1377b631e33102676adc9d3/image14.png)
+
+### Empaquetado individual o en masa
+
+#### Empaquetado en masa
+
+Para realizar un empaquetado en masa, dirígete al icono en forma de caja ubicado al lado derecho del campo de búsqueda.
+
+Al tocar, se abre una ventana donde seleccionar el pedido para hacer el empaque masivo. Elige el embalaje que deseas utilizar.
+
+Verifica los productos del pedido que seleccionaste y toca la opción Empaquetar producto.
+
+![pick and pack 17](https://images.ctfassets.net/alneenqid6w5/4cTjjNy4p1dcFjTFklDhhi/ccb4a42627f2d3e78a3ef26f23f9ee28/image5.png)
+
+#### Empaquetado individual
+
+Para realizar un empaquetado individual, selecciona el producto que necesitas empaquetar.
+
+Si el producto está asociado a más de un pedido, el sistema lista los pedidos que puedes empaquetar; elige el pedido deseado.
+
+Haz clic en **Nuevo Paquete** y selecciona el embalaje que deseas utilizar. 
+
+Agrega las unidades y selecciona la opción **Empaquetar producto.**
+
+## Proceso de envío
+
+Una vez alistados todos los ítems, debes realizar el proceso de envío seleccionando desde el menú la opción **Para enviar.**
+
+![pick and pack 18](https://images.ctfassets.net/alneenqid6w5/3JqIlsCpWHul7ou3md1N4h/8307b7628684191dfa7f712ca4293808/image18.png)
+
+Se abrirá el listado de pedidos que se encuentran listos para envío, organizados por fecha de empaque. Haz clic sobre el pedido que deseas enviar.
+
+Si el pedido contiene más de un paquete, se deben seleccionar los paquetes para crear el servicio de envío. Después, haz clic en **Siguiente.**
+
+Para crear el servicio de envío, deben proporcionarse los siguientes datos:
+
+- Fecha de recolección.
+- Fecha de entrega.
+- Seleccionar transportadora.
+
+Al terminar, toca en la opción **Seleccionar y continuar.**
+
+![pick and pack 18](https://images.ctfassets.net/alneenqid6w5/7mvhayvPfwyNkHgq5DMCWk/24ad3596a5d163694abc38f6b858a226/image16.png)
+
+Verifica los datos del servicio y haz clic en la opción **Crear servicio.**
+
+## Sección pedidos - Admin
+
+Al entrar como Administrador tendrás acceso a la opción **Pedidos** desde el panel de Pick and Pack.
+
+En esta sección se muestra la distribución de pedidos según el estado en el que se encuentre actualmente:
+
+- Todos
+- Pendiente
+- Para enviar
+- Entregados
+- Cancelado
+- Rechazado
+- Exportar
+
+Posee un filtro de búsqueda configurable según la necesidad de resultado del usuario. Se puede filtrar por:
+
+- Fecha de creación
+- Fecha de entrega
+- Categorías
+- Medios de pago
+- Estrategia de envío
+
+Cuenta con un botón para **cerrar** ventana, o en su defecto, para **borrar todos** los filtros seleccionados.
+
+![pick and pack 20](https://images.ctfassets.net/alneenqid6w5/2cCfB2KdjWyRdvD8q9z4BF/3710266548a474dff6516120945ed626/image4.png)
+
+La  sección Pedidos muestra la tabla de datos sin filtrar, con las opciones:
 
 - ID del pedido
-- Nombre del cliente
-- Operador de la tienda responsable del pedido
+- Facturas
+- Ítem(s)
+- Envío
+- Pago
+- Tags
+- Fecha de vencimiento
+- Status
 
-#### Filtrar
+El usuario tendrá acceso a toda la información necesaria que corresponde al pedido.
 
-Puedes filtrar los pedidos utilizando diferentes criterios. Al hacer clic en `Filtros`, un modal muestra estas opciones:
+Al seleccionar un pedido, se abrirá una ventana adicional en la cual se muestra el estado del pedido.
 
-- **Orden ascendente/descendente:** al seleccionar orden ascendente, se muestran primero los pedidos con la fecha y hora de entrega más recientes, según lo establecido por los clientes al realizar el pago. En orden descendente, los pedidos se muestran de forma inversa.
-- **Fecha del pedido:** define un rango para filtrar los pedidos creados entre las fechas de inicio y fin elegidas.
-- **Fecha de vencimiento:** los plazos de entrega ocurren dentro de la fecha de inicio y fin elegidas.
-- **Status:** selecciona uno o varios [status de pedido](#lista-de-recoleccion-y-empaquetado).
-- **Total del pedido:** el rango de costo del pedido, que puede ir de USD 0 a 5 millones.
-- **Número de ítems:** el número de ítems del pedido, que puede ir de 0 a 99.
-- **Transportadora:** la [transportadora](https://help.vtex.com/es/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) responsable de la entrega.
-- **Medio de pago:** el [medio de pago](https://help.vtex.com/es/tutorial/difference-between-payment-methods-and-payment-conditions--3azJenhGFyUy2gsocms42Q) utilizado por el cliente, como tarjetas de crédito o débito.
-- **Entregador:** el entregador asignado para el proceso de recolección del pedido. Utiliza los emails de los entregadores disponibles.
-- **Categorías:** las categorías de los ítems de los pedidos. Por ejemplo, _Bebidas_ o _Ropas_. Depende del árbol de categorías de la tienda configurado en el Catálogo.
+- Además se puede comprobar el tiempo de preparación y la fecha de entrega prevista.
+- Las facturas del pedido.
+- Los ítem(s): se observarán los ítems ya alistados, rechazados, reemplazados y otras acciones realizadas desde la aplicación.
+- Las observaciones del pedido.
+- La información de envío.
+- La información del pago.
+- La información adicional.
+- Inicios de sesión.
 
-Si deseas eliminar los filtros seleccionados, haz clic en `Filtros` y luego en `Borrar filtros`.
+## Sección hojas de trabajo - Admin
 
-#### Importar
+Al acceder como administrador, se podrá hacer un seguimiento de los pedidos y los flujos de datos de todas las acciones realizadas en la aplicación.
 
-Por defecto, los pedidos con status `Listo para preparación` deben ser importados automáticamente de OMS a Recolección y empaquetado. Si un pedido no aparece en el módulo de fulfillment, a pesar de estar `Listo para separación`, puede deberse a cambios manuales en el status del pedido en OMS, y puedes importarlo manualmente.
+En la opción **Hojas de trabajo** se muestran las  siguientes secciones:
 
-Para importar un pedido manualmente, sigue los pasos a continuación.
+### Tiempo real
 
-1. Haz clic en `Importar`.
-2. Introduce el ID del pedido.
-3. Selecciona la casilla `Solo se importarán los pedidos que no se hayan descargado automáticamente`.
-4. Haz clic en `Importar`.
+Muestra la cantidad de pedidos realizados y su porcentaje.
 
-#### Exportar
+### Pedidos no asignados
 
-Puedes exportar una lista de pedidos siguiendo los pasos a continuación.
+En esta sección se encuentran los pedidos que aún no han sido asignados a ningún alistador; los pedidos en color rojo son los que llevan más tiempo y los que están en verde son los más recientes.
 
-1. Haz clic en `Exportar`.
-2. Aplica los filtros deseados.
-    > No se pueden exportar todos los pedidos. Puedes duplicar o eliminar filtros en el menú <i class="fas fa-ellipsis-v"></i>. Los filtros disponibles son:
-    - Entregador
-    - Categorías
-    - Transportadora
-    - Fecha de inicio
-    - Fecha de fin
-    - Ciudad
-3. Haz clic en `Exportar`.
+### Hojas de trabajo
 
-#### Imprimir recibo
+En esta opción se podrán encontrar los pedidos que ya han iniciado un proceso de alistamiento desde la aplicación.
 
-El recibo es un informe que contiene lo que recogió el entregador y el valor total del pedido. Puede funcionar como factura en algunos países, pero no es la norma.
+Al ingresar se muestra una tabla con las opciones:
 
-Para imprimir un recibo de pedido, haz clic en el menú <i class="fas fa-ellipsis-v"></i> de la fila correspondiente al pedido y selecciona `Imprimir recibo`.
+- Todos
+- Alistando
+- Empaquetando
+- Completado
+- Cancelado
 
-#### Asignar/reasignar entregador
+También posee la opción de Fijado, donde el usuario puede acceder a los pedidos en los que está trabajando actualmente.
 
-Para asignar o reasignar un entregador, en la fila del pedido deseado, haz clic en el menú <i class="fas fa-ellipsis-v"></i> y selecciona `Asignar` o `Reasignar`. Se abrirá un modal donde elegirás el nombre del entregador.
+### Filtro de Búsqueda
 
-También puedes asignar o reasignar un entregador en la página [Detalles de Recolección y empaquetado](#detalles-de-recoleccion-y-empaquetado), haciendo clic en el icono del lápiz <i class="fas fa-pencil-alt"></i> y seleccionando el entregador.
+Además, cuenta con un filtro de búsqueda que permite encontrar los pedidos según la necesidad del usuario.
 
-### Detalles de recolección y empaquetado
+![pick and pack 21](https://images.ctfassets.net/alneenqid6w5/T6d3roLMCvoOMi52X7KMJ/3faf3580c22a2c289ff7aeef7c2ffc7f/image59.png)
 
-Para acceder a la página de detalles de un pedido, en la **página de la lista de recolección y empaquetado**, haz clic en el botón de menú <i class="fas fa-ellipsis-v"></i> de la fila del pedido sobre el que deseas ver más información y selecciona `Ver detalles`. Se te redirigirá a la siguiente página:
+## Configuración de la aplicación
 
-En la página de detalles, puedes realizar las acciones a continuación. Las acciones disponibles en la **página de detalles de Recolección y empaquetado** cambiarán en función del status del pedido mostrado en la [página de lista de Recolección y empaquetado](#recoleccion-y-empaquetado).
+Entra al panel de administrador de tu tienda VTEX utilizando tus credenciales de acceso. Después, en el menú **Pick and Pack,** haz clic en la opción **Configuración.**
 
-- [Recolectar](#recolectar)*
-- [Agregar ítem](#agregar-item)*
-- [Crear producto personalizado](#crear-producto-personalizado)
-- [Reemplazar ítem (Buscar)](#buscar-reemplazar-item)*
-- [Reemplazar por ítem recomendado (Sugerencias)](#sugerencias-sustituir-por-un-item-recomendado)*
-- [Cambiar precio](#cambiar-precio)*
-- [Eliminar ítem](#eliminar-item)*
-- [Finalizar recolección/confirmar recolección](#finalizar-recoleccion-confirmar-recoleccion)*
-- [Empaquetar](#empaquetar)*
-- [Imprimir recibo y comprobante](#imprimir-recibo-y-comprobante)
-- [Agregar servicio de envío](#agregar-servicio-de-envio)
-- [Seguir pedido](#seguir-pedido)
+Una vez dentro, encontrarás varias opciones que te permitirán personalizar los siguientes procesos:
 
-<div class="alert alert-danger">
-Aunque las acciones anteriores pueden ser realizadas por <a href="https://help.vtex.com/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#usuarios">usuarios</a> con acceso al Admin, típicamente las acciones con un <b>*</b> (asterisco) deben ser ejecutadas únicamente por entregadores utilizando sus dispositivos móviles, sin ningún acceso al Admin de la tienda.
-</div>
-
-#### Recolectar
-
-En el flujo natural, la recolección la realizan los recolectores en sus dispositivos móviles. Esta sección muestra cómo hacerlo a través del Admin, por si [otros usuarios](#usuarios) necesitan realizar esta acción.
-
-En la fila del producto, como en la imagen de abajo, puedes elegir un producto y realizar otras acciones.
-
-Para recolectar un producto, sigue los pasos que a continuación.
-
-1. En la columna **Cantidad**, selecciona el número deseado de ítems.
-2. Haz clic en el símbolo <i class="far fa-check-circle"></i> al final de la fila.
-3. Haz clic en `Confirmar`.
-
-En caso de que necesites deshacer la recolección, haz clic en el menú <i class="fas fa-ellipsis-v"></i> en la fila del producto y selecciona `Restaurar`.
-
-#### Agregar ítem
-
-En el flujo natural, la adición de los ítems la realizan los recolectores en sus dispositivos móviles. Esta sección muestra cómo hacerlo a través del Admin, por si [otros usuarios](#usuarios) necesitan realizar esta acción.
-
-Puedes agregar otro producto siguiendo los pasos a continuación.
-
-1. En el menú <i class="fas fa-ellipsis-v"></i>, en la misma fila del ID del pedido, haz clic en `+Agregar ítem`.
-2. Busca el producto deseado.
-3. Haz clic en `Seleccionar`.
-4. Haz clic en `Agregar productos`
-
-#### Crear producto personalizado
-
-Puedes crear un producto personalizado siguiendo los pasos a continuación.
-
-1. En el menú <i class="fas fa-ellipsis-v"></i>, en la misma fila del ID del pedido, haz clic en `+Agregar ítem`.
-2. Haz clic en el ícono con el signo <i class="fas fa-plus"></i> más.
-3. Rellena los siguientes campos:
-    - Nombre
-    - Precio
-    - RefID
-    - EAN
-4. Selecciona una categoría.
-5. Haz clic en `Agregar`.
-6. Haz clic en `Agregar productos`.
-
-#### Buscar: reemplazar ítem
-
-En el flujo natural, el reemplazo de los ítems lo realizan los recolectores en sus dispositivos móviles. Esta sección muestra cómo hacerlo a través del Admin, por si [otros usuarios](#usuarios) necesitan realizar esta acción.
-
-Puedes reemplazar un producto siguiendo los pasos a continuación.
-
-1. En la fila de un producto no recolectado, haz clic en el menú <i class="fas fa-ellipsis-v"></i>.
-2. Haz clic en `Buscar`.
-3. Busca el producto deseado.
-4. Haz clic en `Seleccionar`.
-5. Haz clic en `Confirmar`.
-6. En el modal que se abre, selecciona un motivo para el reemplazo.
-    > Es necesario configurar los motivos, como se explica en la sección [Configuración de recolección](#configuracion-de-recoleccion).
-7. Rellena el campo **Observaciones** con una breve explicación para el reemplazo (obligatorio).
-8. Haz clic en `Confirmar`.
-
-#### Sugerencias: sustituir por un ítem recomendado
-
-En el flujo natural, el reemplazo de los ítems lo realizan los recolectores en sus dispositivos móviles. Esta sección muestra cómo hacerlo a través del Admin, por si [otros usuarios](#usuarios) necesitan realizar esta acción.
-
-Puedes reemplazar un ítem por otro basándote en una recomendación. La opción mostrada depende de cuál sea tu configuración en [Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb).
-
-Para reemplazar un ítem por una recomendación, sigue los pasos a continuación.
-
-1. En la fila correspondiente a un producto no recolectado, haz clic en el menú <i class="fas fa-ellipsis-v"></i>.
-2. Haz clic en `Sugerencias`.
-3. Agrega el producto mostrado haciendo clic en `Seleccionar`.
-4. Haz clic en `Confirmar`.
-5. En el modal que se abre, selecciona un motivo para el reemplazo.
-    > Es necesario configurar los motivos, como se explica en la sección [Configuración de recolección] (#configuración-recolección).
-6. Rellena el campo **Observaciones** con una breve explicación para el reemplazo (obligatorio).
-7. Haz clic en `Confirmar`.
-
-Para buscar un producto manualmente, sigue los pasos a continuación.
-
-1. En el menú <i class="fas fa-ellipsis-v"></i>, haz clic en `Sugerencias`.
-2. Haz clic en `Buscar manualmente`.
-3. Busca el producto deseado.
-4. Haz clic en `Seleccionar`.
-5. Haz clic en `Confirmar`.
-6. En el modal que se abre, selecciona un motivo para el reemplazo.
-    > Es necesario configurar los motivos, como se explica en la sección [Configuración de recolección] (#configuración-recolección).
-7. Rellena el campo **Observaciones** con una breve explicación para el reemplazo (obligatorio).
-8. Haz clic en `Confirmar`.
-
-#### Cambiar precio
-
-En el flujo natural, el cambio de precio lo realizan los recolectores en sus dispositivos móviles. Esta sección muestra cómo hacerlo a través del Admin, por si [otros usuarios](#usuarios) necesitan realizar esta acción.
-
-Para cambiar el precio de un ítem, sigue los pasos a continuación.
-
-1. En la fila correspondiente a un producto no recolectado, haz clic en el menú <i class="fas fa-ellipsis-v"></i>.
-2. Haz clic en `Cambiar precio`.
-3. En el modal que se abre, rellena los campos:
-    - Nuevo precio
-    - Motivo
-    - Observaciones
-4. Haz clic en `Cambiar precio`.
-
-#### Eliminar ítem
-
-En el flujo natural, la eliminación de los ítems lo realizan los recolectores en sus dispositivos móviles. Esta sección muestra cómo hacerlo a través del Admin, por si [otros usuarios](#usuarios) necesitan realizar esta acción.
-
-Puedes rechazar un producto siguiendo los pasos a continuación.
-
-1. En el menú <i class="fas fa-ellipsis-v"></i>, haz clic en `Eliminar ítem`.
-2. En el modal que se abre, selecciona un motivo para el rechazo.
-3. Rellena el campo **Observaciones** con una breve explicación para el reemplazo (obligatorio).
-4. Haz clic en `Confirmar`.
-
-En caso de que necesites restaurar el producto, haz clic en el menú <i class="fas fa-ellipsis-v"></i> y selecciona `Restaurar`.
-
-#### Finalizar recolección/confirmar recolección
-
-En el flujo natural, este paso lo realizan los recolectores en sus dispositivos móviles. Esta sección muestra cómo hacerlo a través del Admin, por si [otros usuarios](#usuarios) necesitan realizar esta acción.
-
-Dependiendo del status del pedido que aparezca en la [página de la lista de recolección y empaquetado](#lista-de-recoleccion-y-empaquetado), en la sección **Status**, encontrarás diferentes botones para acciones específicas, como `Finalizar recolección` en la imagen de abajo:
-
-Puedes realizar las siguientes acciones haciendo clic en los botones disponibles:
-
-- `Finalizar recolección`: todos los ítems fueron recogidos y finalizas la recolección, pasando al proceso de empaquetado.
-- `Confirmar recogida`: si se trata de una entrega, confirmas la recogida cuando los paquetes están listos para ser entregados, y una transportadora los ha recogido. Si el cliente va a recibir el pedido en un punto de recogida, confirma la recogida después de que el cliente reciba los paquetes.
-
-#### Empaquetar 
-
-En el flujo natural, el empaquetado lo realizan los recolectores en sus dispositivos móviles. Esta sección muestra cómo hacerlo a través del Admin, por si [otros usuarios](#usuarios) necesitan realizar esta acción.
-
-Una vez finalizado el proceso de recolección, debes crear los paquetes e indicar qué ítem va en cada paquete. La [configuración de los paquetes](#configuracion-de-paquetes) sobre cómo configurar las bolsas y cualquier tipo de paquetes se verá en las próximas secciones.
-
-Para crear un nuevo paquete, sigue los pasos a continuación.
-
-1. Haz clic en el icono de la sección **Lista de paquetes**.
-2. Selecciona el tipo de paquete.
-3. Haz clic en `Crear paquete`.
-
-Puedes agregar un solo producto a un paquete o todos los productos a la vez. Una vez empaquetados todos los productos, haz clic en `Cerrar paquetes`. Una vez que cierres los paquetes, ya no podrás agregar ítems ni realizar ningún tipo de cambio.
-
-<div class="alert alert-danger">
-<b>VTEX Pick and Pack</b> no es un sistema de facturación. Una vez que el pedido pasa al status <code>Listo para facturar</code>, debe facturarse y actualizarse como <code>Facturado</code> en OMS. Solo después <b>VTEX Fulfillment</b> finalizará el flujo de recolección y empaquetado y procederá al envío. Si el pedido se factura en un status distinto a <code>Listo para facturar</code>, el sistema lo considerará un caso de fulfillment externo y cambiará el status del pedido a <code>Inactivo</code> y no permitirá que <b>VTEX Pick and Pack</b> lo procese.
-</div>
-
-#### Imprimir recibo y comprobante
-
-En la parte superior de la página de detalles, a la izquierda de **Status**, encontrarás un menú <i class="fas fa-ellipsis-v"></i>. Al hacer clic en él, se muestran las siguientes opciones:
-
-- **Recibo:** imprimir el recibo del pedido con una lista de todos los ítems.
-- **Comprobante:** imprime el comprobante, un informe para los clientes que contiene información general y que puede ser firmado por ellos.
-- **Recibo de los ítems recogidos:** imprime el recibo del pedido relacionado solo con los ítems ya recolectados.
-- **Comprobante de los ítems recogidos:** imprime el comprobante del pedido relacionado solo con los ítems ya recolectados.
-- **+ Agregar ítem:** [agrega un nuevo producto](#agregar-item) o crea un [producto personalizado](#crear-producto-personalizado).
-
-#### Agregar servicio de envío
-
-Cuando la recolección, el empaquetado y la facturación del pedido hayan finalizado y el pedido se encuentre en el status `Preparando servicios`, puedes agregar un servicio de envío siguiendo los pasos a continuación.
-
-1. Haz clic en el botón `Agregar servicio`.
-2. Selecciona el **día** y **hora** en que el pedido estará listo para recolección.
-3. Selecciona el **día** y **hora** en que se enviará el pedido.
-4. Selecciona la transportadora.
-5. Selecciona el tipo de servicio.
-6. Selecciona el medio de pago.
-7. Selecciona los paquetes que se enviarán.
-8. Haz clic en `Confirmar envíos`.
-
-Recibirás un mensaje de éxito y el pedido pasará al status _Listo para envío_.
-
-#### Seguir pedido
-
-Una vez que el pedido pase al status _Listo para envío _o _Entregado_, aparecerá el botón `Ir al seguimiento` en la [página de detalles de Recolección y empaquetado](#detalles-de-recoleccion-y-empaquetado). Al hacer clic en él, se te redirigirá a la [Last Mile](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) para realizar el seguimiento del pedido.
-
-O puedes ir a **Last Mile** directamente en el Admin de la tienda, accediendo a **Apps > Last Mile > Servicios de envío**.
-
-## Insights
-
-En **VTEX Pick and Pack**, la página **Insights** proporciona datos y análisis sobre tus pedidos durante el proceso de fulfillment. En esta página, verás dos pestañas:
-
-- [Recolección y empaquetado](#insights-recoleccion-y-empaquetado)
-- [Operación](#insights-operacion)
-
-<div class="alert alert-warning">
-Para poder acceder a <b>Insights</b>, es necesario tener un perfil de usuario de administrador en VTEX Fulfillment Admin, que es diferente de los <a href="https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">roles</a>. Para más información, consulta la sección <a href="https://help.vtex.com/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#usuarios">Usuarios</a>.
-</div>
-
-### Insights: Recolección y empaquetado
-
-El **Total de pedidos** es una métrica actualizada en tiempo real que proporciona información sobre todos los pedidos de un determinado periodo en comparación con otro. Puedes utilizar varios [filtros](#insights-filtros) para obtener diferentes resultados.
-
-#### Insights: Filtros
-
-Puedes combinar varios filtros para filtrar la información que deseas ver en las métricas, accediendo a `Filtros` en la parte superior de la página. Puedes filtrar por los siguientes criterios:
-
-- Entregador
-- Forma de entrega
-- Transportadora
-- Ciudad
-- Seller
-
-<div class = "alert alert-info">
-El filtro <b>Seller</b> solo está disponible para las cuentas que operan como marketplace. Los <a href="https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa">sellers white label</a> no tienen esta opción de filtro <b>Insights</b>.
-</div>
-
-Además del **Total de pedidos**, hay una secuencia de métricas para obtener datos sobre _medios de pago_ y pedidos:
-
-- Recolectados
-- Enviados
-- Entregados
-- Cancelados
-
-Puedes aplicar varios filtros para obtener diferentes resultados.
-
-#### Insights: Rendimiento de categorías y productos
-
-Debajo del **Total de pedidos**, encontrarás métricas sobre el número de pedidos, las unidades compradas y a qué categoría pertenecen. Puedes elegir agrupar por `Categorías` o `Productos`.
-
-### Insights: Operación
-
-En la pestaña **Operación**, verás el **flujo de pedidos** de Recolección y empaquetado, que mostrará la cantidad total de pedidos distribuidos por día en los últimos siete días. Cuanto más oscuro sea el tono de azul, más pedirás; cuanto más claro, menos.
-
-<div class = "alert alert-info">
-El flujo de <b>Recolección y empaquetado</b> se calcula considerando todos los pedidos de los últimos 7 días y los distribuye en horas, de 0 a 23. Aunque cambies el periodo a 15 días, por ejemplo, la visualización permanecerá fija considerando 7 días.
-</div>
-
-Debajo del **flujo de pedidos**, hay una métrica con pedidos filtrados por entregador. Verás información sobre:
-
+- Alistamiento
+- Categorías de los productos
+- Empaquetado
 - Pedidos
-- Productos
-- Productos rechazados
-- Tasa de fulfillment
-- Tiempo promedio
+- Automatización
+- Usuarios
+- Catálogo
+- Instalaciones
 
-La página también proporciona métricas relacionadas con los siguientes temas:
+### Configuración y alistamiento
 
-- **Pedidos recolectados:** el número de pedidos recolectados en el periodo seleccionado.
-- **Tasa de fulfillment:** el porcentaje de pedidos recolectados dentro del plazo mínimo de entrega.
-- **Tiempo:** el tiempo promedio del proceso de recolección.
-- **Motivos de rechazo:** la explicación de por qué se ha rechazado un producto.
-- **Motivos de rechazo:** la explicación de por qué se ha reemplazado un producto.
-- **Motivo del cambio de precio:** la explicación de por qué un producto ha sufrido un cambio de precio.
+La estrategia de alistamiento está estructurada por olas, e incluye:
 
-## Configuración
+- Cambios en los pedidos.
+- Motivos de reemplazo y rechazo.
+- Motivos de cambio de precio.
+- Límite de cambios de cantidad de ítems en el pedido.
+- Límite de cambios de precio en ítems del pedido.
+- Límite total de cambios en los pedidos.
+- Hojas de trabajo.
+- Tags de hojas de trabajo.
+- Activar códigos EAN dinámicos.
 
-Para configurar **VTEX Pick y Pack** para su tienda, en tu Admin ve a **Apps > Fulfillment > Configuración.** Verás una página con las siguientes pestañas:
-
-- [General](#configuracion-general)
-- [Recolección](#configuracion-de-recoleccion)
-- [Categorías](#configuracion-de-categorias)
-- [Paquetes](#configuracion-de-paquetes)
-- [Envío](#configuracion-de-envio)
-- [Impresión](#configuracion-de-impresion)
-- [Webhooks](#configuracion-de-webhook)
-
-<div class="alert alert-warning">
-Para poder acceder a <b>Configuración</b>, debes ser un <a href="https://help.vtex.com/es/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#usuarios">usuario administrador de VTEX Fulfillment</a> o un usuario de atención al cliente.
+<div class = "alert alert-info">
+Alistamiento por olas significa que a medida que van llegando los pedidos estos pueden alistarse.
 </div>
 
-### Configuración general
+### Cambios en los pedidos
 
-En esta pestaña, puedes configurar la tienda a la que vas a agregar **VTEX Pick and Pack**. Puedes elegir una tienda haciendo clic en el lápiz <i class="fas fa-pencil-alt"></i> en la parte superior de la página y seleccionando la tienda deseada.
+Activar o desactivar las siguientes funciones:
 
-Para configurar una tienda, sigue los pasos a continuación.
+- Enviar cambios al OMS
+- Permitir cambiar el precio de los ítems
+- Permitir reemplazo de ítems
+- Permitir rechazar ítems
+- Permitir editar las cantidades de los ítems
+- Permitir agregar observaciones en el pedido
+- Permitir agregar observaciones en los ítems
 
-1. Rellena los campos junto al mapa con la información de la dirección de la tienda.
-2. En **Información de contacto**, rellena los datos de la persona de contacto, si es necesario.
-3. En **Horario laboral**, configura la hora de inicio y fin de los días de la semana en los que se puede realizar la recolección en la tienda.
-4. En **Unidades de medida**, selecciona qué unidad será la predeterminada para medir la longitud de los ítems y paquetes, por ejemplo.
-5. Haz clic en el botón `Guardar`.
+### Motivos de rechazo y motivos de cambios de precio
 
-### Configuración de recolección
+Permiten configurar las opciones que el sistema va a habilitar dentro de la aplicación Pick and Pack. Solo debes hacer clic sobre los campos para crearlos o eliminarlos del listado.
 
-En esta pestaña se configuran algunos de los principales aspectos y preferencias del proceso de recolección, como los motivos de rechazo y los [entregadores](#usuarios-y-license-manager-en-vtex-fulfillment).
+#### Límite de cambios
 
-Para ajustar la configuración de recolección, sigue los pasos a continuación.
+Los límites de cambios de cantidad y precio de ítems en el pedido te permiten configurar el porcentaje (%) aceptado por cada tienda.
 
-1. En **Asignación de entregadores**, selecciona si la tienda asignará los entregadores manualmente (`manual`), por un [usuario administrador](#usuarios-y-license-manager-en-vtex-fulfillment) o automáticamente (`automático`), en función de la disponibilidad de los entregadores.
-2. En **Ruta de empaquetado**, selecciona el momento en el que deseas que se inicie el proceso de empaquetado, que puede ser:
-    - Después de la recolección
-    - Después de la facturación
-    - A partir de la facturación
-3. En la **aplicación de recolección**, activa los botones relacionados con las preferencias de las actividades que los entregadores podrán ver y realizar a través de la aplicación móvil. No es obligatorio activarlos. Las opciones son:
-    - Mostrar información del cliente
-    - Permitir el cambio de precio
-    - Permitir el reemplazo de productos
-    - Permitir el rechazo de productos
-    - Limitar la cantidad de recolección de ítems
-    - Permitir el empaquetado
-4. En **Motivos**, en _Motivos de reemplazo_, rellena el campo con el nombre de la opción que identificará un motivo de reemplazo válido y pulsa `Entrar`. Repite el proceso para agregar tantas etiquetas como quieras.
-5. En _Motivos de cambio de precio_, rellena el campo con el nombre de la opción que identificará el motivo de los cambios y pulsa `Entrar`. Repite el proceso para agregar tantas etiquetas como quieras.
-6. Rellena el campo _Límite de cambios_ con el número de cambios que se pueden realizar por pedido.
-7. En **Orden de prioridad**, elige el nivel de prioridad en el nivel del árbol de categorías para ordenar los ítems en el proceso de recolección. Puedes elegir entre `1` (categorías principales) o `2` (categorías secundarias).
-8. Haz clic en el botón `Guardar`.
+#### Hojas de trabajo para habilitar o deshabilitar las siguientes funciones:
+
+- Permitir varios pedidos en una hoja de trabajo
+- Activar alistamiento rápido
+- Activar express fulfillment
+- Permitir mover pedidos una vez iniciado el alistamiento
+- Permitir mover pedidos entre hojas de trabajo
+
+#### Tags de hojas de trabajo
+
+<div class="alert alert-warning">
+Solo debes hacer clic sobre el campo para crearlo o eliminarlo del listado.
+</div>
+
+Las tags ayudan como identificadores de las hojas de trabajo para poder realizar configuraciones, filtros o asignaciones  necesarias dentro del sistema.
+
+#### Activar códigos EAN dinámicos
+
+Existen tres tipos: precio, peso y cantidad. La configuración se compone de:
+
+- **Prefijo:** corresponde al identificador que el sistema va a tomar en el momento de asociar los EAN dinámicos.
+- **Identificador del ítem:** corresponde al tipo de identificador que el sistema va a tomar (RefID o SKU) para los identificadores.
+- **Decimales:** cantidad de decimales que soporta.
+- **Prueba:** permite verificar que la configuración esté correcta.
+
+<div class = "alert alert-info">
+Puedes seleccionar los tres tipos de configuraciones para la tienda.
+</div>
+
+<div class = "alert alert-info">
+Si quieres eliminar un tipo puedes hacerlo dentro del campo haciendo clic sobre la X que lo acompaña.
+</div>
+
+<div class="alert alert-danger">
+EAN dinámico es un código que se genera con el peso del producto para calcular el precio.
+</div>
 
 ### Configuración de categorías
 
-En esta pestaña, encontrarás categorías y subcategorías que deben enumerarse según las prioridades del modelo de negocio de la tienda.
+Aquí puedes realizar la configuración de las categorías que van a estar disponibles en la tienda, permitiendo importarlas y exportarlas. Esta configuración se realiza por Instalación.
 
-Las acciones que puedes realizar son:
+También puedes definir el orden de alistamiento preferido para cada instalación. Este orden de alistamiento se aplica a todas las hojas de trabajo de una instalación específica.
 
-- **Cambiar prioridad:** haz clic en la categoría y arrástrala a la posición deseada.
-- **Eliminar categoría:** haz clic en el ícono de la papelera &lt;insert_icon> y luego en `Sí, eliminar`. Esta acción hará que la categoría desaparezca de la lista y aparezca junto a ella, bajo _Prioridad de la categoría/recolección_.
-- **Agregar categoría:** si se ha eliminado una categoría, aparecerá en _Prioridad de la categoría/recolección_, y podrás agregarla a la lista haciendo clic sobre ella.
+La opción **Configuración rápida** replica la configuración de todas las Instalaciones asociadas a la tienda.
 
-Después de cambiar la lista de prioridades, haz clic en `Guardar`.
+### Configuración de empaquetado
 
-### Configuración de paquetes
+La configuración de empaquetado e impresión incluye: 
 
-En esta pestaña, controlas los paquetes utilizados para entregar el pedido y puedes crear o eliminar un paquete.
+- Permitir informes sobre paquetes.
+- Permitir empaquetado automático.
+- Configuración de impresión de etiquetas de paquetes.
+- Configuración de impresión de recibos.
+- Sobres.
 
-Para crear un paquete, haz lo siguiente:
+La configuración de impresión de etiquetas de los paquetes te permite realizar los ajustes de la hoja de impresión: 
 
-1. Haz clic en `Agregar nuevo`.
-2. Introduce el nombre que identificará el paquete.
-3. Rellena las medidas del paquete: altura, anchura y longitud, utilizando solo números.
+- Formato
+- Tamaño de la fuente
+- Márgenes
+- Dimensiones
 
-  <div class = "alert alert-info">
-La unidad de medida es la configurada en la pestaña General, en <b>Unidades de medida</b>.
-</div>
+La configuración de sobres te permite crear el tipo de empaque de la tienda.
 
-4. Haz clic en `Agregar`.
+En el momento de crearlos, el sistema proporciona los campos de configuración del paquete, que incluyen: 
 
-Para eliminar un paquete, haz clic en la fila de ese paquete y, a continuación, haz clic en `Sí, eliminar`.
+- **Nombre.**
+- **Tipo:* permite seleccionar si son bolsas, cajas, sobres, etc.
+- **Código:** corresponde a la identificación que maneja la tienda.
+- **Medidas.**
 
-### Configuración de envío
+### Configuración de pedidos
 
-En esta pestaña, asocias un servicio [Last Mile](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) a tu tienda, lo que te permite seguir el status y la ubicación con actualizaciones en tiempo real, mientras tu flota interna de entregadores entrega los pedidos a los clientes.
+La configuración de pedidos te permite habilitar la descarga de pedidos del OMS, teniendo en cuenta las siguientes configuraciones:
 
-Si el botón **Last Mile** está desactivado, no hay opciones de configuración. Para empezar a utilizar Last Mile, sigue los pasos a continuación.
+- Medios de pago.
+- Métodos de envío.
+- Tipo de envío.
+- Tags del pedido.
 
-1. Activa el botón haciendo clic sobre él.
-2. En **Transportadora asociada**, selecciona el nombre de la transportadora.
-3. Si no deseas activar la asignación automática de entregadores al crear servicios de envío, deja el botón desactiva y haz clic en `Guardar`.
-4. Si deseas activar la asignación automática de entregadores, activa el interruptor `Asignación automática de entregadores`.
-5. En _Tipo de asignación_, selecciona la regla de asignación para elegir los entregadores, que puede ser:
-    - **Uno a la vez:** la notificación de servicio se envía al entregador que esté más cerca del punto de recogida. Si el primer entregador no acepta el servicio dentro del plazo de la solicitud, el servicio se enviará al siguiente entregador más cercano, y así sucesivamente. Si ningún entregador acepta la tarea, permanece sin asignar.
-    - **Enviar a todos:** todos los entregadores disponibles y en la zona horaria del servicio reciben la notificación, con un límite de 500 entregadores. El servicio se asigna al primer entregador que lo acepte, y permanece sin asignar hasta que alguien lo acepte.
-    - **Round robin:** dentro de un radio determinado, se realiza una asignación por turnos rotativos, o round robin — un algoritmo para programar y asignar recursos — al entregador. Puedes elegir las siguientes opciones:
-        - Asignar servicios a usuarios desconectados
-        - Reiniciar asignación si el servicio es rechazado
-        - Priorizar entregadores sin servicios
-        - Dar prioridad a los repartidores con plazos de entrega más cortos
-    - **El más cercano:** se asigna la tarea al entregador disponible más cercano al punto donde se recogerá el pedido.
-6. Rellena el campo _Expira en (segundos)_ con x, utilizando solo números.
-7. Rellene el campo _Número de reintentos_ con x, utilizando solo números.
-8. Haz clic en `Guardar`.
+### Configuración de automatización
 
-### Configuración de impresión
+Esta configuración permite crear, editar y eliminar usuarios de Pick and Pack.
 
-En esta pestaña se configuran las preferencias de [impresión](#imprimir-recibo-y-comprobante), organizadas en las siguientes secciones:
+Podemos asignar el rol Admin a los usuarios que se encuentran habitados.
 
-- **Recibo:** el recibo del pedido.
-- **Etiqueta del paquete:** la etiqueta que aparece en los productos y que se puede escanear en el proceso de recolección.
-- **Etiqueta de envío:** la etiqueta con la dirección de envío.
+También podemos crear usuarios Alistadores, asignarles instalaciones, realizar el proceso de empaquetado y asignación de categorías.
 
-En cada una de esas secciones, hay un botón <i class="fas fa-toggle-off"></i> `Desactivado` que debe estar <i class="fas fa-toggle-on"></i> `Activado` para que la configuración sea válida.
+### Configuración de instalaciones
 
-Una vez que hayas terminado de definir la configuración de impresión, haz clic en `Guardar`.
+Para la gestión del usuario alistador, es importante la asignación de instalaciones (facilities), debido a que esto le permitirá ver los pedidos asociados y así podrá realizar la gestión del alistamiento.
 
-### Configuración de webhook
-
-En esta pestaña, puedes configurar un webhook para recibir notificaciones sobre los cambios dl status de los pedidos y obtener información sobre un pedido determinado.
+Los alistadores pueden vincularse a una o varias instalaciones.
 
 <div class = "alert alert-info">
-Para más información, consulta nuestra documentación de <a href="https://developers.vtex.com/docs/guides/vtex-pick-and-pack">VTEX Pick and Pack</a> para desarrolladores.
+Instalación: es el lugar físico donde existen alistadores recolectando productos.
 </div>
 
-## Usuarios
+### Configuración de catálogo
 
-En **VTEX Pick and Pack**, la página **Usuarios** permite gestionar los perfiles implicados en el proceso de fulfillment, denominados _usuarios_. Hay tres tipos de usuarios:
+Te permite tener sincronizado el catálogo de VTEX con el de Pick and Pack.
 
-| **Usuario** | **Descripción** | **Permiso** |
-| ---------- | ---------- | ---------- |
-| Entregador | La persona responsable de la recolección. | <ul><li>Acceso a la aplicación, ya sea en versión móvil o web (no funciona sin conexión).</li><li>No tiene acceso al Admin.</li></ul> |
-| Atención al cliente | El operador de la tienda que es responsable del pedido y tiene acceso al Admin. | <ul><li>Acceso a todos los pedidos en el Admin.</li><li>Seguir pedidos.</li><li>Comunicarse con los entregadores.</li></ul> |
-| Admin | El rol de administrador permite comprobar los entregadores, gestionar todas las configuraciones y el flujo de pedidos, incluida la cancelación de pedidos, si es necesario. | Todos los permisos concedidos al usuario de atención al cliente, excepto: <ul><li>Gestionar todas las configuraciones.</li><li>Gestionar el flujo de pedidos, incluida la cancelación de pedidos.</li></ul> |
+Si existen nuevos productos dentro del catálogo se debe indexar el catálogo.
 
-### Usuarios y License Manager en VTEX Fulfillment
+Además, incluimos la opción de agregar más EAN a los productos e indicar si son productos que deben mantenerse a temperatura ambiente, fríos o congelados.
 
-El concepto de _usuario_ en **VTEX Pick and Pack** es diferente del significado común del término en VTEX. En **VTEX Fulfillment**, hay tres tipos de usuarios que participan en el proceso de fulfillment: entregador, atención al cliente y administrador. Generalmente, en VTEX, los usuarios están relacionados con [roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) y [características de License Manager](https://help.vtex.com/es/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
-
-Para acceder a **VTEX Fulfillment**, los usuarios administradores y de atención al cliente deben tener permisos relacionados con las funciones de License Manager. Recomendamos [crear un rol](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) identificado como «_Admin de fulfillment», _que debe tener al menos los siguientes productos y recursos asociados:
-
-| **Producto** | **Recursos asociados** |
-| ---------- | ---------- |
-| Insights | <ul><li>Insights metrics</li></ul> |
-| License Manager | <ul><li>Get account by identifier</li><li>Obtener aplicaciones</li><li>Find user by email</li><li>View users with account access</li><li>View all admin users</li><li>Get resource by key</li><li>Get role</li><li>Get paged roles</li><li>Get paged users</li><li>Get admin status</li><li>Get accounts</li><li>Get accounts by host</li></ul> |
-
-### Acciones en la página Usuarios
-
-En la página **Usuarios**, puedes realizar las siguientes acciones:
-
-- [Agregar un usuario entregador](#agregar-un-usuario-entregador)
-- [Agregar un usuario de atención al cliente](#agregar-un-usuario-de-atencion-al-cliente)
-- [Agregar un usuario administrador](#agregar-un-usuario-admin)
-- [Editar usuario](#editar-usuario)
-- [Generar clave API](#generar-clave-api)
-- [Eliminar usuario](#eliminar-usuario)
-
-#### Agregar un usuario entregador
-
-Para crear un nuevo _entregador_, sigue los pasos a continuación:
-
-1. En tu Admin VTEX, ve a **Apps > Fulfillment > Usuarios**.
-2. En el menú superior <i class="fas fa-ellipsis-v"></i>, haz clic en `Agregar entregador`.
-3. Rellena la siguiente información:
-    - **Nombre:** el nombre completo del entregador.
-    - **Email:** email del entregador.
-    - **Usuario:** nombre de usuario que identificará el entregador.
-    - **Contraseña:** la contraseña que necesitará el entregador para identificarse y autenticarse en la aplicación. La contraseña debe tener al menos:
-        - Una letra mayúscula
-        - Una letra minúscula
-        - Un número
-    - **Tiendas:** selecciona el entorno al que se asociará el entregador. Cada entorno puede tener múltiples [sellers white label](https://help.vtex.com/es/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) asociados.
-    - **Categorías:** selecciona hasta cuatro categorías relacionadas con los productos que recogerá el entregador.
-
-  <div class = "alert alert-info">
-Las categorías relacionadas con el entregador optimizan el algoritmo a la hora de determinar qué entregador recibirá el pedido. Sin embargo, no es una limitación: cualquier entregador puede ser asignado a servicios relacionados con todas las categorías.
-</div>
-
-4. Haz clic en `Guardar usuario`.
-
-#### Agregar un usuario de atención al cliente
-
-Solo los [usuarios administradores](#usuarios-y-license-manager-en-vtex-fulfillment) pueden crear nuevos _usuarios de atención al cliente_. Para ello, sigue los pasos a continuación:
-
-1. En tu Admin VTEX, ve a **Apps > Fulfillment > Usuarios**.
-2. En el menú superior <i class="fas fa-ellipsis-v"></i>, haz clic en `Agregar usuario de atención al cliente`.
-3. En el campo de búsqueda, busca introduciendo el nombre, email o ID del usuario.
-4. Haz clic en `Confirmar`.
-
-#### Agregar un usuario Admin
-
-Solo un [usuario administrador](#usuarios-y-license-manager-en-vtex-fulfillment) puede crear nuevos _usuarios de atención al cliente_. Para ello, sigue los pasos a continuación:
-
-1. En tu Admin VTEX, ve a **Apps > Fulfillment > Usuarios**.
-2. En el menú superior <i class="fas fa-ellipsis-v"></i>, haz clic en `Agregar administrador`.
-3. En el campo de búsqueda, busca introduciendo el nombre, email o ID del usuario.
-4. Haz clic en `Confirmar`.
-
-#### Editar usuarios
-
-Puedes editar cualquier tipo de usuario para cambiar la información a continuación.
-
-- Nombre
-- Contraseña
-- Categorías
-- Tienda
-
-Para editar un usuario, sigue los pasos a continuación:
-
-1. En tu Admin VTEX, ve a **Apps > Fulfillment > Usuarios**.
-2. En la fila correspondiente al usuario que deseas editar, haz clic en el menú <i class="fas fa-ellipsis-v"></i>.
-3. Selecciona la opción `Editar`.
-4. Cambia los campos deseados.
-5. Introduce la contraseña.
-6. Haz clic en `Guardar`.
-
-#### Generar clave API
-
-Los [usuarios administradores](#usuarios-y-license-manager-en-vtex-fulfillment) pueden generar claves API para utilizar las API de **VTEX Pick and Pack**. Para más información, consulta nuestra [documentación para desarrolladores](https://developers.vtex.com/docs/guides/vtex-pick-and-pack).
-
-Para generar una clave API, sigue los pasos a continuación:
-
-1. En tu Admin VTEX, ve a **Apps > Fulfillment > Usuarios**.
-2. En la fila correspondiente a un usuario administrador, haz clic en el menú <i class="fas fa-ellipsis-v"></i>.
-3. Selecciona la opción `Editar`.
-4. Haz clic en `Generar`.
-5. Guarda la clave API en un lugar seguro.
-
-  <div class="alert alert-danger">
-La clave API solo se mostrará una vez. No podrás volver a acceder a esta información, así que debes asegurarte de guardarla en un lugar seguro.
-</div>
-
-6. Introduce la contraseña.
-7. Haz clic en `Guardar`.
-
- #### Eliminar usuarios
-
-Solo los usuarios administradores pueden eliminar otros usuarios. Esto se puede hacer siguiendo los pasos a continuación:
-
-1. En tu Admin VTEX, ve a **Apps > Fulfillment > Usuarios**.
-2. En la fila correspondiente al usuario que deseas editar, haz clic en el menú <i class="fas fa-ellipsis-v"></i>.
-3. Selecciona la opción `Eliminar`.
-4. Haz clic en `Guardar`.

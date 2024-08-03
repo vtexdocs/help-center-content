@@ -3,8 +3,8 @@ title: 'Setting up payments with PicPay'
 id: 5jd6wgPCaWm8IcguyCyaY2
 status: PUBLISHED
 createdAt: 2018-03-13T15:53:25.279Z
-updatedAt: 2023-03-29T01:02:29.955Z
-publishedAt: 2023-03-29T01:02:29.955Z
+updatedAt: 2024-01-23T21:16:28.952Z
+publishedAt: 2024-01-23T21:16:28.952Z
 firstPublishedAt: 2018-03-13T19:36:37.769Z
 contentType: tutorial
 productTeam: Financial
@@ -17,16 +17,16 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 
 PicPay is a [digital wallet](/en/faq/what-is-an-e-wallet) that allows transfers between users, including merchants. Your customer chooses to pay with it and receives a code to scan using the smartphone application.
 
-To set up payments with this digital wallet, you first need to register __PicPay__ gateway affiliation by following the steps below:
+To configure PicPay, follow the steps below:
 
-## Setting up PicPay gateway affiliation
-1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
-2. On the __Gateway Affiliations__ tab, click the __+__ button.
-3. Click the __PicPay__ connector.
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __PicPay__ in the search bar and click on the name of the provider.
 4. Fill in the _Application Key_ and _Application Token_ fields with your __PicPay__ account information.
-5. Click __Save__.
+5. Click `Save`.
 
 ## Setting up the payment condition
+
 1. Within Payments __Settings__, click on the __Payment Conditions__ tab.
 2. Click the __+__ button.
 3. Select __PicPay__ payment method.

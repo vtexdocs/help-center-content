@@ -3,8 +3,8 @@ title: 'Inventory update history'
 id: 5AM7xbmMzmKSEQewakamc2
 status: PUBLISHED
 createdAt: 2017-08-01T15:03:08.876Z
-updatedAt: 2023-03-29T19:59:22.057Z
-publishedAt: 2023-03-29T19:59:22.057Z
+updatedAt: 2024-04-02T18:24:14.768Z
+publishedAt: 2024-04-02T18:24:14.768Z
 firstPublishedAt: 2017-08-01T15:06:58.792Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -31,11 +31,14 @@ To view the update history of a SKU, follow the steps below:
 2. Select the SKU of which you want to see the history. To learn how to use the filters and search, check out the article [Inventory management](https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139).
 3. In the **Last update** column, click the blue number.
 4. The **Update Logs** window will open with all the changes. Each row corresponds to an update, and the columns contain:
-    * The user who made the change.	
-    * Last updated date and time.
-    * The quantity of items before and after the update.
+  * The user who made the change.	
+  * Last updated date and time.
+  * The quantity of items before the update.
+  * The quantity of itemsafter the update.
 
- <div class="alert alert-warning">
+<div class="alert alert-warning">
 You can only see the last 50 updates in the update log of a given SKU.
 </div>
+
+The total quantity of items on the [Inventory Management](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139) page is updated in real-time, but it may take up to 1 hour to reflect in the inventory history.
 

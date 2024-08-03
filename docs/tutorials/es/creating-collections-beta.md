@@ -1,10 +1,10 @@
 ---
 title: 'Registar Colecciones (Beta)'
 id: yJBHqNMViOAnnnq4fyOye
-status: PUBLISHED
+status: CHANGED
 createdAt: 2020-08-17T20:29:25.500Z
-updatedAt: 2023-03-29T14:50:46.438Z
-publishedAt: 2023-03-29T14:50:46.438Z
+updatedAt: 2024-03-04T20:48:30.215Z
+publishedAt: 2024-02-22T12:15:26.041Z
 firstPublishedAt: 2020-08-27T15:16:59.673Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -111,8 +111,9 @@ Si desea incluir productos de forma masiva, aplique uno de los filtros y haga cl
 </div>
 
 #### Por plantilla
-
 Usted también puede agregar ítems a una colección mediante una plantilla. 
+
+<div class = "alert alert-info">El límite máximo para la importación e exportación es de 10,000 SKUs por operación.</div>
 
 Para eso, realice los siguientes pasos: 
 

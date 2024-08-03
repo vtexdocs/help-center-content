@@ -1,10 +1,10 @@
 ---
-title: 'Sending products to Via Marketplace'
+title: 'Sending products to Casas Bahia Marketplace'
 id: 5QVZFYNfuRIQKdq34MbTxz
 status: PUBLISHED
 createdAt: 2020-03-30T18:51:30.236Z
-updatedAt: 2022-01-24T19:39:58.658Z
-publishedAt: 2022-01-24T19:39:58.658Z
+updatedAt: 2024-07-26T19:30:35.060Z
+publishedAt: 2024-07-26T19:30:35.060Z
 firstPublishedAt: 2020-03-30T23:08:05.849Z
 contentType: trackArticle
 productTeam: Channels

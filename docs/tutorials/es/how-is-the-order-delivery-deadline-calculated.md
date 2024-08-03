@@ -3,8 +3,8 @@ title: '¿Cómo se calcula el plazo de entrega del pedido?'
 id: 1TOuKCIjGQmqOqQkEqCg82
 status: PUBLISHED
 createdAt: 2018-01-12T12:56:52.805Z
-updatedAt: 2023-03-29T14:09:06.429Z
-publishedAt: 2023-03-29T14:09:06.429Z
+updatedAt: 2023-09-23T00:34:19.034Z
+publishedAt: 2023-09-23T00:34:19.034Z
 firstPublishedAt: 2018-01-12T14:42:26.502Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,28 +15,22 @@ legacySlug: como-se-calcula-el-plazo-de-entrega-del-pedido
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-El plazo de entrega de una solicitud tiene en cuenta los __temos de costo__ definidos para las cinco etapas de la ruta de logística:
+El plazo de envío de un pedido es calculado considerando los seguientes aspectos:
 
-- Almacén.
-- Doca.
-- Transportadora.
-- Feriados.
-- Horários de corte.
+- [Lead time](https://help.vtex.com/es/tutorial/lead-time-tempo-de-envio-a-nivel-de-sku--16yv5Mkj6bTyWR1hCN2f4B)
+- [Almacén](https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb)
+- [Muelle](https://help.vtex.com/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj)
+- [Política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140)
 
-Es decir, para cada uno de estos pasos usted puede establecer un tiempo de costo - y el plazo de entrega que su cliente verá en el checkout es la suma de estos tiempos de coste.
+![lead_time_image_total_time_ES](https://images.ctfassets.net/alneenqid6w5/WDlW2CzaAKl3KtzzsgGwc/f9610838cce53ee740054bee68e634d1/lead_time_image_total_time_ES.png)
 
-![deliveryCostTimes](//images.contentful.com/alneenqid6w5/hA6N4VPj440AEqEecIUck/0a6784f0c3d6f6d88b65547762600a7d/deliveryCostTimes.png)
+Usted define una duración para cada una de esas etapas y su cliente en checkout vé um plazo de envío que es la suma de estos tiempos.  
 
-Los tiempos de coste del __almacén__ y de la __doca__ se definen en las pantallas de configuración de cada uno de estos pasos en el módulo **Envío > Estratégia de Envío.**
+El tiempo de envío de la transportadora está definido por la [plantilha de flete](https://help.vtex.com/es/tutorial/planilha-de-frete--tutorials_127), que tiene que estar asociada a su estrategia de envío por medio de una [política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140).
 
-![entrega1.es](https://images.ctfassets.net/alneenqid6w5/11Sxc5vISEU8Knt0cf9uyJ/25e7778597e647d3bd5cd8c41fd6ccb9/entrega1.es.png) 
+Para configurar una política de envío, almacén o muelle, acceda a su Admin VTEX an **Envío > Estratégia de Envío**. Para configurar el lead time, acceda a **Catálogo > Gerenciamento de stock**.
 
-![entrega2.es](https://images.ctfassets.net/alneenqid6w5/187jUxkOBm3zEyU5zr1Uzy/c117ef2faf8d9f1aefd890cc4654739d/entrega2.es.png)
+### Sepa más
 
-El tiempo de coste de la __transportadora__ se define en la tabla de flete, enviada a VTEX a través de la pantalla de configuración del transportista, en **Envío > Estratégia de Envío > Política de Envío.**
-
-![entrega3.es](https://images.ctfassets.net/alneenqid6w5/3gd2irrk8fStTd7XSEf5eC/5d693f6e0a0e2538157f16ee97cb1665/entrega3.es.png)
-
-### Para obtener más información
-
-Por medio de la simulación de flete, puede comprobar cómo se ha calculado el plazo de entrega de una solicitud específica. Entiende como en el artículo [Verificar como el plazo de entrega de una solicitud fue calculado](/es/tutorial/comprobar-como-se-calculo-el-plazo-de-entrega-de-un-pedido).
+- [Simulador de envío](https://help.vtex.com/es/tutorial/simulador-de-envio--tutorials_144)
+- [Verificar como el plazo de entrega de una solicitud fue calculado](https://help.vtex.com/es/tutorial/comprobar-como-se-calculo-el-plazo-de-entrega-de-un-pedido).

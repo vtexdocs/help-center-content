@@ -1,16 +1,16 @@
 ---
-title: 'Editores de componentes de renderização no site'
+title: 'Problemas com o componente de renderização no editor de sites'
 id: 66gcFw8LwnL6WsvuXPRzFn
 status: PUBLISHED
 createdAt: 2022-04-19T19:41:08.520Z
-updatedAt: 2023-03-10T14:17:10.739Z
-publishedAt: 2023-03-10T14:17:10.739Z
+updatedAt: 2024-06-21T12:24:51.158Z
+publishedAt: 2024-06-21T12:24:51.158Z
 firstPublishedAt: 2022-04-19T19:41:09.223Z
 contentType: knownIssue
 productTeam: CMS
 author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
-slug: editores-de-componentes-de-renderizacao-no-site
+slug: problemas-com-o-componente-de-renderizacao-no-editor-de-sites
 locale: pt
 kiStatus: Backlog
 internalReference: 415674
@@ -23,21 +23,28 @@ internalReference: 415674
 </div>
 
 
-Este comportamento ocorre de forma intermitente, às vezes os componentes não são renderizados e às vezes é renderizado duas vezes com base em cliques na página.
+Devido à quantidade de informações na página, o editor do site pode ter problemas ao renderizar blocos. Esse comportamento ocorre de forma intermitente, às vezes os componentes não são renderizados e às vezes são renderizados duas vezes. Pode acontecer de nenhum bloco aparecer no editor do site:
+ ![](https://vtexhelp.zendesk.com/attachments/token/miNCNkBPcmbXcVHmb9f5HWxIS/?name=image.png)
 
+Ou pode acontecer com menos blocos.
 
-##
+Também pode ocorrer um atraso após salvar um novo conteúdo. O conteúdo é salvo, mas a tela continua carregando:
+
+ ![](https://vtexhelp.zendesk.com/attachments/token/BwlA7jzWiWCxYMLOGxMb0N84N/?name=image.png)
 
 ## Simulação
 
 
-Tente editar o Site Editor, às vezes ele não será renderizado e às vezes alguns blocos serão renderizados duas vezes.
+1 - Tente editar o Site Editor, às vezes ele não será renderizado e, às vezes, alguns blocos serão renderizados duas vezes.
+
+2 - Tente salvar uma alteração de conteúdo, o conteúdo é salvo, mas a tela continua carregando
 
 
-##
 
 ## Workaround
 
 
-Não há nenhuma solução de trabalho conhecida.
+Nenhuma solução alternativa conhecida está disponível.
+
+
 

@@ -3,8 +3,8 @@ title: 'Setting up payments with Addi'
 id: 7FhMbT3hN2i5je74lqx6QI
 status: PUBLISHED
 createdAt: 2022-02-14T12:22:11.957Z
-updatedAt: 2023-03-27T12:46:46.989Z
-publishedAt: 2023-03-27T12:46:46.989Z
+updatedAt: 2024-01-23T18:29:23.380Z
+publishedAt: 2024-01-23T18:29:23.380Z
 firstPublishedAt: 2022-02-14T15:04:37.219Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: setting-up-payments-with-addi
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the Addi payment provider. With this connector, your store can make installment sales without a credit card.
+At VTEX, it is possible to integrate with the Addi payment provider. With this provider, your store can make installment sales without a credit card.
 
-To configure Addi affiliation, follow the steps below:
+To configure Addi, follow the steps below:
 
-1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
-2. In the __Gateway affiliations__ tab, click on the __+__ button.
-3. Click on the __Addi__ connector.
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __Addi__ in the search bar and click on the name of the provider.
 4. Fill in the __Application Key__ and __Application Token__ fields with data provided by Addi.
 5. In the __Country of Operation__ field, select the country where the connector will operate.
 6. Click on __Save__.

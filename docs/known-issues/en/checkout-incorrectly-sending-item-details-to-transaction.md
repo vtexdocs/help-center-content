@@ -3,8 +3,8 @@ title: 'Checkout incorrectly sending item details to transaction'
 id: YxjZNKuIxkKQioS7lkmu8
 status: PUBLISHED
 createdAt: 2022-03-04T15:08:55.326Z
-updatedAt: 2022-11-25T21:52:34.380Z
-publishedAt: 2022-11-25T21:52:34.380Z
+updatedAt: 2024-02-16T20:28:39.301Z
+publishedAt: 2024-02-16T20:28:39.301Z
 firstPublishedAt: 2022-03-04T15:08:55.710Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: checkout-incorrectly-sending-item-details-to-transaction
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 535859
 ---
 

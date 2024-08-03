@@ -3,8 +3,8 @@ title: 'Direitos dos titulares de dados pessoais'
 id: 6imchxTx09icupKMbzHVIM
 status: PUBLISHED
 createdAt: 2023-04-26T18:56:45.938Z
-updatedAt: 2023-04-27T12:43:48.560Z
-publishedAt: 2023-04-27T12:43:48.560Z
+updatedAt: 2023-06-22T21:47:26.569Z
+publishedAt: 2023-06-22T21:47:26.569Z
 firstPublishedAt: 2023-04-26T19:50:54.254Z
 contentType: tutorial
 productTeam: Others

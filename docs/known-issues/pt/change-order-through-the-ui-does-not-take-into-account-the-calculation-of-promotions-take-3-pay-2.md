@@ -3,8 +3,8 @@ title: 'Mudança de ordem através da IU não leva em conta o cálculo das promo
 id: 3rvsDyCggYirvH7WT9rBVZ
 status: PUBLISHED
 createdAt: 2022-03-15T20:25:17.217Z
-updatedAt: 2022-11-25T22:03:48.329Z
-publishedAt: 2022-11-25T22:03:48.329Z
+updatedAt: 2024-02-16T20:23:38.705Z
+publishedAt: 2024-02-16T20:23:38.705Z
 firstPublishedAt: 2022-03-15T20:25:17.513Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: mudanca-de-ordem-atraves-da-iu-nao-leva-em-conta-o-calculo-das-promocoes
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 472882
 ---
 

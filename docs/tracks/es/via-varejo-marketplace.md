@@ -1,10 +1,10 @@
 ---
-title: 'Via Marketplace'
+title: 'Casas Bahia Marketplace'
 id: 3rymwJDuc5Z6lQtsyTINim
 status: PUBLISHED
 createdAt: 2020-03-30T17:59:31.535Z
-updatedAt: 2022-01-18T21:38:11.833Z
-publishedAt: 2022-01-18T21:38:11.833Z
+updatedAt: 2023-11-30T20:51:57.221Z
+publishedAt: 2023-11-30T20:51:57.221Z
 firstPublishedAt: 2020-03-30T18:11:59.947Z
 contentType: trackArticle
 productTeam: Channels

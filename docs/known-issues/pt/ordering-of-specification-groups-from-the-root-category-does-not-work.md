@@ -3,8 +3,8 @@ title: 'A ordenação de grupos de especificação da categoria raiz não funcio
 id: 5iuLxVdAuK70VMYGts7CzJ
 status: PUBLISHED
 createdAt: 2022-08-09T00:46:23.102Z
-updatedAt: 2022-11-25T21:43:59.468Z
-publishedAt: 2022-11-25T21:43:59.468Z
+updatedAt: 2024-02-16T20:25:08.305Z
+publishedAt: 2024-02-16T20:25:08.305Z
 firstPublishedAt: 2022-08-09T00:46:23.684Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: a-ordenacao-de-grupos-de-especificacao-da-categoria-raiz-nao-funciona
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 634129
 ---
 

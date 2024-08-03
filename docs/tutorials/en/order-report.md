@@ -3,8 +3,8 @@ title: 'Order report'
 id: 31m1ewsmsEe0WS4So2aGMY
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:42.311Z
-updatedAt: 2023-05-31T15:43:26.524Z
-publishedAt: 2023-05-31T15:43:26.524Z
+updatedAt: 2024-03-01T01:28:57.258Z
+publishedAt: 2024-03-01T01:28:57.258Z
 firstPublishedAt: 2019-01-24T22:03:18.967Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -114,7 +114,7 @@ Each column corresponds to specific information, as described below.
 *    **Taxes:** the sum of the values defined as Tax and CustomTax, the taxes applied to the SKU. If those values do not exist, the column will be empty.
 *    **Invoice Numbers:** the order's invoice number.
 *    **Country:** country in which the order was placed.
-*    **Input Invoices Numbers:** number of an invoice of Input type, which means that it refers to a return.
-*    **Output Invoices Numbers:** number of an invoice of Output type, which means that it refers to a purchase.
+*    **Input Invoices Numbers:** number of an invoice of Output type, which means that it refers to a purchase.
+*    **Output Invoices Numbers:** number of an invoice of Input type, which means that it refers to a return.
 *    **Status raw value (temporary):** the raw status value of an order. For example, the status of an order can be displayed on the interface as `Handling` while in this field it would be `handling`.
 *   **Cancellation Data**: the reason given by the end-customer for canceling the order, as shown in the `Reason` field of the `cancellationData` object in the [Orders API](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/cancel). If the user does not fill in this field when canceling the order, this column will be empty in the report.

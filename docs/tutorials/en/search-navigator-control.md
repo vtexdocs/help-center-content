@@ -44,7 +44,7 @@ For a collection to be rendered in the menu by the Search Navigator control, it 
 
 This flag can be found in the collection's settings, inside CMS.
 
-![searchNavigator2](//images.contentful.com/alneenqid6w5/30xKS65fWMuoiQO4ac2EKM/921be3bc19a8cdff48dade515c354908/searchNavigator2.jpg)
+![searchNavigator2](https://images.contentful.com/alneenqid6w5/30xKS65fWMuoiQO4ac2EKM/921be3bc19a8cdff48dade515c354908/searchNavigator2.jpg)
 
 ## Categories
 

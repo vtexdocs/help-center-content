@@ -3,8 +3,8 @@ title: 'Configurar Samsung Pay como meio de pagamento '
 id: 5Yj9rgzOCVYuGmAumQlfpP
 status: PUBLISHED
 createdAt: 2020-08-26T13:40:16.356Z
-updatedAt: 2023-03-29T01:17:07.597Z
-publishedAt: 2023-03-29T01:17:07.597Z
+updatedAt: 2024-07-24T13:36:58.723Z
+publishedAt: 2024-07-24T13:36:58.723Z
 firstPublishedAt: 2020-08-26T16:30:52.180Z
 contentType: tutorial
 productTeam: Financial
@@ -15,27 +15,21 @@ legacySlug: configurar-samsung-pay-como-meio-de-pagamento
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Neste tutorial, ensinaremos como configurar a carteira digital Samsung Pay como meio de pagamento. 
+Na VTEX, é possível utilizar a carteira digital Samsung Pay como meio de pagamento em sua loja.
 
-O primeiro passo é configurar o conector da Adyen - afiliação de gateway que processa os pagamentos realizados com o Samsung Pay - na sua loja. Você pode conferir o passo a passo completo para realizar essa ação [aqui](https://help.vtex.com/pt/tutorial/como-configurar-o-gateway-adyen-na-vtex--tutorials_2337?locale=pt "aqui").
+Primeiramente é necessário configurar o provedor de pagamento da [Adyen](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-adyenv3--7xAz67E2Eg63LWCQNjVdwv) em sua loja, pois ele será responsável por processar os pagamentos recebidos via Samsung Pay.
 
-Em seguida, você pode configurar o meio de pagamento em si.
+Depois será necessário configurar o Samsung Pay conforme as etapas abaixo:
 
-Siga as instruções:
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
+2. Na aba __Condições de Pagamentos__, clique no botão `+`.
+3. Clique sobre a opção __Samsung Pay__.
+4. Ative a condição no campo __Status__.
+5. Em __Processar com o provedor__, selecione a opção __Adyen__.
+6. Se desejar utilizar um sistema antifraude, selecione a opção __Usar solução antifraude__.
+7. Se desejar, você também pode [configurar condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condiciones-especiales--tutorials_456).
+8. Clique em `Salvar`.
 
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Certifique-se que você está na aba __Condições de pagamento__.
-3. Ao lado da barra de busca, clique no __botão verde “+”__.
-4. Na seção “Outro”, clique na opção __Samsung Pay__.
-5. No topo da página, defina um __nome__ no campo __Nome da Regra__.
-6. Logo abaixo, clique no botão __Status__ para ativar a regra.
-7. Em Processar com afiliação, selecione a opção __Adyen__.
-8. Se for o caso, selecione o serviço de __Antifraude__ que será usado.
+Para definir condições especiais sobre o Samsung Pay, acesse [Configurar condições especiais de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
 
-Desse modo, você terá realizado a configuração mais básica do meio de pagamento. 
-
-Contudo, existe ainda a opção de __definir condições especiais de pagamento__ - regras específicas para o Samsung Pay que são aplicadas apenas em certos contextos definidos por período, país, política comercial (Canal de Vendas), condição comercial ou nome de uma conta. 
-
-Basta clicar no botão branco “__Adicionar condição especial__” e selecionar qual contexto você deseja especificar. Vale lembrar que é possível definir mais de uma condição especial por meio de pagamento. Para saber mais detalhes, confira o [tutorial sobre como configurar cada uma das condições especiais](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456?locale=pt "tutorial sobre como configurar cada uma das condições especiais").
-
-Se esse não for o caso, finalize a configuração clicando no botão __“Salvar”__.
+Depois de seguir os passos indicados, Samsung Pay pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 

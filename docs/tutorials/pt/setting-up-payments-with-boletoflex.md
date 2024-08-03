@@ -3,8 +3,8 @@ title: 'Configurar pagamento com BoletoFlex'
 id: 3ikLbJGXMI6bkAm6YiglOx
 status: PUBLISHED
 createdAt: 2022-01-10T17:36:39.512Z
-updatedAt: 2023-03-22T19:10:38.069Z
-publishedAt: 2023-03-22T19:10:38.069Z
+updatedAt: 2024-01-23T15:50:34.329Z
+publishedAt: 2024-01-23T15:50:34.329Z
 firstPublishedAt: 2022-01-10T20:19:23.317Z
 contentType: tutorial
 productTeam: Financial
@@ -18,9 +18,10 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 BoletoFlex é um meio de pagamento no qual o usuário pode parcelar as suas compras no boleto, com taxas de juros pré-determinadas e sem a necessidade de utilizar cartão de crédito.
 
 ## Configurar afiliação de gateway BoletoFlex
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão __+__.
-3. Clique no conector __BoletoFlex__.
+
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __BoletoFlex__ na barra de busca e clique sobre o nome do provedor.
 4. Preencha os campos __Application Key__ e __Application Token__ com as informações da sua conta BoletoFlex.
 5. Clique em __Salvar__.
 

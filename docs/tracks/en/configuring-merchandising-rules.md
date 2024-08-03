@@ -3,8 +3,8 @@ title: 'Creating merchandising rules - Manual Editor'
 id: 2FpbarYzsnbg7aZZn3TGF8
 status: PUBLISHED
 createdAt: 2020-04-14T14:10:24.518Z
-updatedAt: 2023-04-03T22:07:36.546Z
-publishedAt: 2023-04-03T22:07:36.546Z
+updatedAt: 2024-01-29T16:58:41.850Z
+publishedAt: 2024-01-29T16:58:41.850Z
 firstPublishedAt: 2020-04-15T00:39:30.807Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -23,8 +23,8 @@ Follow the steps below to configure a [merchandising rule](https://help.vtex.com
    * **Rule name**: Name of the merchandising rule. Example: Promote product A when searching for a chocolate cookie.
    * **Start date (optional)**: Set a date from which the merchandising rule will apply. The date follows the UTC-0 time zone.
    * **End date (optional)**: Set a date on which the merchandising rule will no longer apply to store searches. The date follows the UTC-0 time zone.
-   * **Locales:** Languages to which the merchandising rule will apply.
-5. Click **Manual Editor**. For more information about each editor, go to [Types of editing](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#types-of-editing).
+   * **Apply to locales:** Languages to which the merchandising rule will apply. The field is only available for stores using [Multilanguage settings (Beta)](https://help.vtex.com/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
+5. Click on **Manual editor**. For more information on each editor, see [Types of editing](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#types-of-editing).
 6. Click `Next`.
 7. If necessary, you can change what you have already filled in about the new merchandising rule in the [General Information](#general-information) section.
 8. Define the [Trigger rules](#trigger-rules), the set of conditions that determine when the merchandising rule will be applied.
@@ -35,6 +35,8 @@ Follow the steps below to configure a [merchandising rule](https://help.vtex.com
 <div class="alert alert-info">
   <p>After saving, the changes to merchandising rules will take an average of two minutes to be updated.</p>
 </div>
+
+## Example
 
 Imagine the following example: You want to promote Beautyx products during the 4th of July week. When the customer searches for "soap" or "shampoo", the search should promote the brand's products, so the configuration should be:
 

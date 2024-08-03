@@ -1,10 +1,10 @@
 ---
 title: 'Configurar política comercial para marketplace'
 id: tutorials_404
-status: PUBLISHED
+status: CHANGED
 createdAt: 2017-04-27T22:06:38.350Z
-updatedAt: 2022-12-08T17:30:09.288Z
-publishedAt: 2022-12-08T17:30:09.288Z
+updatedAt: 2024-06-14T14:19:35.130Z
+publishedAt: 2024-05-15T00:18:56.253Z
 firstPublishedAt: 2017-04-27T23:03:23.796Z
 contentType: tutorial
 productTeam: Channels
@@ -30,7 +30,10 @@ Confira como políticas comerciais podem ser configuradas nos seguintes módulos
 
 Para [contratar políticas comerciais adicionais](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta solicitar via ticket em [*Suporte*](https://help.vtex.com/pt/support), selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
 
-A contratação de política comercial adicional para integrar com [conector nativo](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), [conector certificado (parceiro)](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro) ou outras lojas VTEX é isenta de taxas.
+A contratação de política comercial adicional para integrar com um [conector certificado](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro) ou outras lojas VTEX é isenta de taxas.
+
+<div class=alert alert-warning>
+Se a mesma política comercial for usada em um conector certificado e em um conector parceiro, não há isenção de taxas.</div>
 
 ## Configurações da Loja 
 Criar uma nova política comercial é o primeiro passo para definir as condições aplicadas a cada marketplace em que um seller atua. Sellers podem criar múltiplas políticas comerciais, ou aplicar a mesma política em mais de um marketplace. 

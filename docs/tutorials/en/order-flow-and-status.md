@@ -3,8 +3,8 @@ title: 'Order flow and status'
 id: tutorials_196
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:33.518Z
-updatedAt: 2023-02-28T16:04:19.511Z
-publishedAt: 2023-02-28T16:04:19.511Z
+updatedAt: 2024-04-01T15:37:30.788Z
+publishedAt: 2024-04-01T15:37:30.788Z
 firstPublishedAt: 2017-04-27T23:02:47.616Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -125,6 +125,8 @@ Orders can be canceled for several reasons. Each type of cancellation is indicat
 - **[Order cancellation by the store](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/4ts2ItvjYo8wm5gg76miS3):** When the seller or marketplace cancels the order.
 
 Once there is a request to cancel an order, the platform processes the order cancellation automatically. The payment refund to the customer depends on the stage the payment is at and the payment method used.
+
+Orders with [partial invoices](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](https://help.vtex.com/en/tutorial/como-cancelar-pedido--tutorials_186). If the customer wants to replace or remove items from the order, it is possible to [change the order](https://help.vtex.com/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
 <div class = "alert alert-info">
 Learn more about cancellation and refunds in the articles <a href="https://help.vtex.com/en/faq/por-que-meu-pedido-cancelado-foi-cobrado-na-fatura-do-cliente">Why was my cancelled order charged in the customer's invoice?</a>, and <a href="https://help.vtex.com/en/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#reembolsocancelamento">Refund or cancellation</a>.
@@ -274,7 +276,7 @@ Note that the complete order flow (visible to the stores responsible for selling
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
     <td class="tg-zr06"><span style="font-weight:400">waiting-for-fulfillment</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Seller</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Waits for order's fulfillment. Status exclusive for stores that have a Warehouse Management System (WMS).</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">Waits for order's fulfillment. Status exclusive for stores that have a Warehouse Management System (WMS). When the marketplace does not authorize the seller to fulfill the order within 30 days, this order is automatically canceled by the platform.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">-</span></td>
@@ -292,7 +294,7 @@ Note that the complete order flow (visible to the stores responsible for selling
     <td class="tg-zr06"><span style="font-weight:400">Authorize fulfillment</span></td>
     <td class="tg-zr06"><span style="font-weight:400">authorize-fulfillment</span></td>
     <td class="tg-zr06"><span style="font-weight:400">Seller and complete flow</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Internal process for approving the order handling. In this status, the platform confirms the</span> <a href="https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada"><span style="font-weight:400;color:#F71963;background-color:transparent">item reservation</span></a><span style="font-weight:400">.</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">Internal process for approving the order handling. In this status, the platform confirms the</span> <a href="https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada"><span style="font-weight:400;color:#F71963;background-color:transparent">item reservation</span></a><span style="font-weight:400">. When the marketplace does not authorize the seller to fulfill the order within 30 days, this order is automatically canceled by the platform.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Cancellation window</span></td>

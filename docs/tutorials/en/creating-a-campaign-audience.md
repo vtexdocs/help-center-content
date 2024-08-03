@@ -3,8 +3,8 @@ title: 'Creating a campaign audience'
 id: 6cnuDZJzIkIeocewAQQK4K
 status: PUBLISHED
 createdAt: 2018-12-02T18:34:21.663Z
-updatedAt: 2023-03-31T13:38:38.613Z
-publishedAt: 2023-03-31T13:38:38.613Z
+updatedAt: 2023-10-31T19:23:55.713Z
+publishedAt: 2023-10-31T19:23:55.713Z
 firstPublishedAt: 2018-12-03T16:51:36.457Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -91,7 +91,6 @@ For example: The target audience includes items whose brand is **Nike**, as illu
 
 * **Minimum order value:** Minimum value the items in the cart must have in total. The total considers the sum of the prices of cart items that meet all the campaign audience criteria.
 * **Maximum order value:** Maximum value the items in the cart must have in total. This total considers the sum of the prices of cart items that meet all the campaign audience criteria.
-* **Use history in promotion:** Allows the customer purchase history to be taken into consideration when evaluating whether they fit in the target audience. When checked, this option requires you to set a time frame for considering the purchase history. You can add specific dates or count the days from the submission date.
 * **Item price between __ and __:** Minimum and maximum price for each item in the cart. The campaign audience will be activated if the item value is within the range of the set values.
 * **Use restriction BINs:** The campaign audience will be activated if the credit card _Bank Identification Number_ (BIN) corresponds to the filled-in characters. The BIN refers to the first 6 or 8 digits on a credit card and is used to identify the bank and the card label.
 * **Marketing Tags:**: this field prevents activating the campaign audience if the purchase is made using the [VTEX Subscriptions module](https://help.vtex.com/en/tutorial/how-subscriptions-work--frequentlyAskedQuestions_4453).

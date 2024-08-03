@@ -1,10 +1,10 @@
 ---
 title: 'Configurar boleto registrado (método de pago brasileño)'
 id: frequentlyAskedQuestions_2867
-status: PUBLISHED
+status: DRAFT
 createdAt: 2019-01-24T20:46:00.197Z
-updatedAt: 2020-11-24T13:14:10.947Z
-publishedAt: 2020-11-24T13:14:10.947Z
+updatedAt: 2024-03-18T18:09:27.673Z
+publishedAt: 
 firstPublishedAt: 2019-01-24T22:08:27.705Z
 contentType: tutorial
 productTeam: Financial
@@ -26,22 +26,13 @@ VTEX se adecuó a esta determinación y, actualmente, ya existen algunas maneras
 - [Boleto Santander](https://help.vtex.com/es/tutorial/configurar-boleto-registrado-santander--67siNqkC7mcgy2GWUYimaa)
 - [Boleto Itaú](https://help.vtex.com/es/tutorial/configurar-boleto-registrado-itau-itau-registrado--6MEHf1oDTOkuWM2CaYi4gu)
 - [Itaú Shopline](https://help.vtex.com/es/tutorial/configurar-boleto-registrado-itau--3TqzCHPU7KIYGsOKuUeQcq)
-- [Bradesco Registrado](https://help.vtex.com/es/tutorial/configurar-boleto-registrado-bradesco--bbnXBjvKOkWYiOosmASiA)
+- [Boleto Bradesco Registrado](https://help.vtex.com/pt/tutorial/configurar-boleto-registrado-bradesco--bbnXBjvKOkWYiOosmASiA)
 
-Además, VTEX tiene integración automática para boletos registrados Bradesco e Itaú Shopline. Sin embargo, para los boletos generados sin una adquirencia, la conciliación se realiza a través de un archivo (.RET).
+Además, VTEX tiene integración automática para boletos registrados Bradesco y Itaú Shopline. Sin embargo, para los boletos generados sin una adquirencia, la conciliación se realiza a través de un archivo (.RET).
 
 Cada cliente debe obtener los archivos de sus respectivos bancos. En este caso específico, Itaú Registrado y Santander. Hacemos hincapié en que estos archivos deben seguir necesariamente el estándar establecido por Febraban - Federación Brasileña de Bancos.
 
-Para otros bancos es necesario usar uno de los siguientes gateways de pago:
-
-- Braspag
-- PagSeguro Transparente
-- Mundipagg
-- Moip
-- MercadoPago Transparente
-- Pagar.Me
-- CieloV3
-- Adyen
+Para otros bancos, debe utilizar una de los gateways disponibles en el Admin de su tienda (por ejemplo, Braspag, PagSeguro Transparente, CieloV3, entre otras).
 
 Los costos del boleto registrado son diferentes a los del boleto tradicional y varían de acuerdo con su negociación con el banco. Preste atención para planificar y controlar su margen.
 
@@ -56,5 +47,4 @@ La creación de este número por VTEX garantiza la particularidad de cada boleto
 ## Artículos relacionados
 
 - [Cómo configurar afiliaciones de Gateway](/es/tutorial/afiliaciones-de-gateway)
-- [Cómo configurar PagSeguro transparente](/es/tutorial/como-configurar-el-pagseguro-sin-redirect/)
-- [Configurar boleto registrado Itaú](/es/tutorial/configurar-boleto-registrado-itau)
+

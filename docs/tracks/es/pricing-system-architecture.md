@@ -3,8 +3,8 @@ title: 'Arquitectura del sistema de Precios'
 id: 7GptzvlPDVM11ojEjywIQx
 status: PUBLISHED
 createdAt: 2019-07-04T13:51:00.418Z
-updatedAt: 2022-07-27T20:39:31.113Z
-publishedAt: 2022-07-27T20:39:31.113Z
+updatedAt: 2024-04-22T19:20:30.485Z
+publishedAt: 2024-04-22T19:20:30.485Z
 firstPublishedAt: 2019-07-17T19:40:40.258Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -64,7 +64,7 @@ Para verificar el precio de venta de un SKU en una determinada tabla de precios,
 
 ![computed-price-es](https://images.ctfassets.net/alneenqid6w5/4bUfMSdT0nD8ySiMZ5QztD/6e34043f53fbb6296a3d82c9d6892aa4/computed-price-es.png)
 
-También puede verificar cuál es el precio computado de un SKU en una tabla de precios **haciendo una llamada por API**. Para esto, debe hacer un **GET** en el endpoint [Get Computed Price by price table or trade policy](https://developers.vtex.com/vtex-rest-api/reference/getcomputedpricebypricetable).
+También puede verificar cuál es el precio computado de un SKU en una tabla de precios **haciendo una llamada por API**. Para esto, debe hacer un **GET** en el endpoint [Get Computed Price by price table or trade policy](https://developers.vtex.com/docs/api-reference/pricing-api#get-/pricing/prices/-itemId-/computed/-priceTableId-).
 
 Esta llamada devuelve el `sellingPrice` de un SKU en la tabla de precio `1`. **Esta es la información que *Pricing* entrega como *precio de venta* del SKU**.
 

@@ -3,8 +3,8 @@ title: 'Preencher campos de cadastro de SKU'
 id: 21DDItuEQc6mseiW8EakcY
 status: PUBLISHED
 createdAt: 2017-09-22T00:20:45.920Z
-updatedAt: 2022-12-19T18:03:03.864Z
-publishedAt: 2022-12-19T18:03:03.864Z
+updatedAt: 2023-07-14T20:59:40.541Z
+publishedAt: 2023-07-14T20:59:40.541Z
 firstPublishedAt: 2017-09-22T00:40:16.232Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -23,7 +23,7 @@ Para entender o significado de cada campo do cadastro de SKU, veja a descrição
 
 __Nome do produto:__ já aparece preenchido com o nome do produto ao qual o SKU irá pertencer.
 
-__Nome:__ deve conter o nome do SKU, ou seja, a variação do produto, que já foi cadastrado anteriormente. Produto - Geladeira, SKU -110 volts.
+__Nome:__ deve conter o nome do SKU, ou seja, a variação do produto, que já foi cadastrado anteriormente. Exemplo: Produto - Geladeira, SKU - 110 volts. O nome do SKU é limitado a 200 caracteres.
 
 __Valor para Fidelidade:__ crédito que o cliente recebe ao concluir uma compra de 1 unidade de um determinado SKU. Ao colocar “1,00” neste campo, o cliente ganha um crédito de R$ 1,00 no site.
 

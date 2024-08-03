@@ -105,7 +105,7 @@ Na página **Set up TikTok For Business** (Configurar o TikTok For Business), il
 
 Ao concluir essa configuração, você será conduzido novamente para **Marketplace > TikTok** no Admin VTEX, onde poderá [gerenciar a integração](https://help.vtex.com/pt/tracks/integracao-com-o-tiktok--1r0yJSO11nrer1YVu3WTFd/24SfBYkRkKMaetgjLDKgaP). Para algumas versões do Admin VTEX, a página se encontra em **Aplicativos > Meus Aplicativos > TikTok**. Após a configuração ter sido concluída com sucesso, qualquer usuário logado no Admin VTEX poderá acessar essa área de gerenciamento do TikTok. 
 
-![tiktok-config-3](//downloads.ctfassets.net/alneenqid6w5/4gryDGvlRXWO50awLjcpBx/6f225b366777870d8eed7dd33f90614a/tiktok-config-3.gif)
+![tiktok-config-3](https://downloads.ctfassets.net/alneenqid6w5/4gryDGvlRXWO50awLjcpBx/6f225b366777870d8eed7dd33f90614a/tiktok-config-3.gif)
 
 ### Envio de dados dos produtos para o TikTok
 

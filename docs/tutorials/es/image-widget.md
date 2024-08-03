@@ -3,8 +3,8 @@ title: 'Reutilización de imágenes con Image Widget'
 id: 7pRSVI2xXpQUzjUZj0m4ov
 status: PUBLISHED
 createdAt: 2021-06-30T18:06:46.531Z
-updatedAt: 2023-03-28T13:24:31.101Z
-publishedAt: 2023-03-28T13:24:31.101Z
+updatedAt: 2024-03-27T14:07:43.190Z
+publishedAt: 2024-03-27T14:07:43.190Z
 firstPublishedAt: 2021-07-02T21:20:16.653Z
 contentType: tutorial
 productTeam: VTEX IO
@@ -41,11 +41,11 @@ Ahora que ya sabe cómo acceder a Image Widget, vea lo que puede hacer a continu
 ### Añadir una imagen
 Después de [acceder a Image Widget](#acceso-a-image-widget) y con él abierto podrá añadir imágenes:
 
-<div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding-left: 5px">
+<div class="alert alert-warning">
 Al agregar nuevas imágenes en el modal Image Widget usando un <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-workspace">development workspace</a>, la configuración realizada se guardará directamente en el espacio de trabajo principal. Es decir, se reflejarán inmediatamente en el modal de tu tienda.
 </div>
 <br>
-<div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding-left: 5px">
+<div class="alert alert-warning">
   El tamaño máximo que admite Image Widget es de 4 MB por archivo.
 </div>
 
@@ -83,7 +83,7 @@ En el bloque en el que desea sustituir una imagen:
 ### Eliminar una imagen
 Para eliminar una imagen del bloque deseado, haga clic en `Más acciones` en la miniatura de la imagen y seleccione __Eliminar.__ Después de este procedimiento, la imagen ya no será visible en el bloque.
 
-<div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding-left: 5px; margin-bottom: 10px">
+<div class="alert alert-warning">
   Cuando se remueve una imagen, no significa que se excluya del repositorio. Para ello, consulte la sección <a href="#funcionalidades-dentro-de-image-widget">Funcionalidades dentro de Image Widget</a>.
 </div>
 

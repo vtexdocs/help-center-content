@@ -3,8 +3,8 @@ title: 'Indexed price for a product considering the SKU with the highest instead
 id: 333mavl9dvgO4Jrgv8ECE6
 status: PUBLISHED
 createdAt: 2023-05-09T14:39:56.338Z
-updatedAt: 2023-05-09T14:39:56.771Z
-publishedAt: 2023-05-09T14:39:56.771Z
+updatedAt: 2023-08-18T17:24:09.314Z
+publishedAt: 2023-08-18T17:24:09.314Z
 firstPublishedAt: 2023-05-09T14:39:56.771Z
 contentType: knownIssue
 productTeam: Intelligent Search
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: indexed-price-for-a-product-considering-the-sku-with-the-highest-instead-of-the-lowest-price
 locale: en
-kiStatus: Scheduled
+kiStatus: Fixed
 internalReference: 822120
 ---
 

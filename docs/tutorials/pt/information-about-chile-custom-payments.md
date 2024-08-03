@@ -1,10 +1,10 @@
 ---
 title: 'Informações dos pagamentos customizados do Chile'
 id: 1cqQ4JInfcOGUwW2aMOoEK
-status: PUBLISHED
+status: DRAFT
 createdAt: 2019-01-24T20:45:37.205Z
-updatedAt: 2019-12-31T15:26:29.898Z
-publishedAt: 2019-12-31T15:26:29.898Z
+updatedAt: 2024-03-19T12:13:49.935Z
+publishedAt: 
 firstPublishedAt: 2019-01-24T22:11:20.233Z
 contentType: tutorial
 productTeam: Financial

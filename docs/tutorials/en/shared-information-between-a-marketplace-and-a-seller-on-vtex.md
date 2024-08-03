@@ -3,8 +3,8 @@ title: 'Shared information between a marketplace and a seller on VTEX'
 id: 3o7WGiBtfnKKZ3Ddug26k3
 status: PUBLISHED
 createdAt: 2022-04-07T13:32:06.199Z
-updatedAt: 2023-04-17T21:51:10.740Z
-publishedAt: 2023-04-17T21:51:10.740Z
+updatedAt: 2023-10-31T19:54:13.803Z
+publishedAt: 2023-10-31T19:54:13.803Z
 firstPublishedAt: 2022-04-07T14:23:25.578Z
 contentType: tutorial
 productTeam: Channels
@@ -44,7 +44,7 @@ Also, to [add the seller](https://help.vtex.com/en/tutorial/configurando-seller)
 You can integrate a VTEX marketplace with a VTEX seller or with an external seller either through the VTEX Admin or through API. In either case, the information shared between the marketplace and the seller will be the same.
 
 <div class = "alert alert-info">
-For more information on how to connect a VTEX marketplace to a VTEX seller using the VTEX Admin, please check out the article <a href="https://help.vtex.com/en/tutorial/configurando-seller">Adding a seller</a>. For integration via API use the call <a href="https://developers.vtex.com/vtex-rest-api/reference/upsertsellerrequest">Configure Seller Account</a>. For external sellers, check out the <a href="https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide">External Seller Integration Guide</a>.
+For more information on how to connect a VTEX marketplace to a VTEX seller using the VTEX Admin, please check out the article <a href="https://help.vtex.com/en/tutorial/configurando-seller">Adding a seller</a>. For integration via API use the call <a href="https://developers.vtex.com/docs/api-reference/marketplace-apis#post-/seller-register/pvt/sellers">Configure Seller Account</a>. For external sellers, check out the <a href="https://developers.vtex.com/vtex-rest-api/docs/external-seller-integration-guide">External Seller Integration Guide</a>.
 </div>
 
 ### Connecting a VTEX marketplace to a VTEX seller
@@ -75,14 +75,14 @@ An external seller not hosted on the VTEX environment will have to provide the V
 
 Once the VTEX marketplace and the VTEX seller, or the external seller, are connected, the marketplace can access the seller information through the VTEX Admin, in **MARKETPLACE > Management**.
 
-The information provided by the seller, whether it is a VTEX seller or an external one, can be requested via API, using the call [Get Seller data by ID](https://developers.vtex.com/vtex-rest-api/reference/getretrieveseller).
+The information provided by the seller, whether it is a VTEX seller or an external one, can be requested via API, using the call [Get Seller data by ID](https://developers.vtex.com/docs/api-reference/marketplace-apis#get-/seller-register/pvt/sellers/-sellerId-).
 
 ## Sharing customer emails
 
 The marketplace can give the seller partial access to the email addresses of its customer base, in order to use them for query requests to commercial conditions and for order creation. This is not a standard configuration, and this information is managed via API using the following calls in the `trustPolicy` field:
 
-- [Configure Seller Account](https://developers.vtex.com/vtex-rest-api/reference/upsertsellerrequest): this allows setting up the seller account, whether it is a VTEX seller or an external one.
-- [Update Seller by Seller ID](https://developers.vtex.com/vtex-rest-api/reference/updateseller): this allows updating the seller information, whether it is a VTEX seller or an external one.
+- [Configure Seller Account](https://developers.vtex.com/docs/api-reference/marketplace-apis#post-/seller-register/pvt/sellers): this allows setting up the seller account, whether it is a VTEX seller or an external one.
+- [Update Seller by Seller ID](https://developers.vtex.com/docs/api-reference/marketplace-apis#patch-/seller-register/pvt/sellers/-sellerId-): this allows updating the seller information, whether it is a VTEX seller or an external one.
 
 <div class = "alert alert-info">
 For orders placed in the marketplace, the customer email is not displayed to the seller. The customer establishes a relationship with the marketplace. Therefore, the customer's consent would be necessary for sharing their information.

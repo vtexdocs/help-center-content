@@ -3,8 +3,8 @@ title: '¿Qué es un Servicio?'
 id: 46Ha8CEEQoC6Y40i6akG0y
 status: PUBLISHED
 createdAt: 2018-02-16T13:35:47.291Z
-updatedAt: 2020-09-10T14:25:34.223Z
-publishedAt: 2020-09-10T14:25:34.223Z
+updatedAt: 2023-11-16T17:24:14.877Z
+publishedAt: 2023-11-16T17:24:14.877Z
 firstPublishedAt: 2018-02-16T17:24:14.979Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -25,5 +25,5 @@ Si su producto comprado es una Camisa de la Selección Brasileña, el nombre de 
 
 ### Artículos relacionados
 - [¿Qué es un anexo?](/es/tutorial/que-es-un-anexo)
-- [Registrar un anexo](/es/tutorial/registrar-un-anexo)
+- [Registrar un anexo](/es/tutorial/registrar-un-anexo--7zHMUpuoQE4cAskqEUWScU)
 - [Crear servicio para un SKU](/es/tutorial/criando-servico-para-um-sku)

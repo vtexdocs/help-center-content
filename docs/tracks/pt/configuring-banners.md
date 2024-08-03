@@ -3,8 +3,8 @@ title: 'Configurar Banners'
 id: 4ViKEivLJtJsvpaW0aqIQ5
 status: PUBLISHED
 createdAt: 2019-11-27T16:34:24.404Z
-updatedAt: 2023-03-30T21:35:08.898Z
-publishedAt: 2023-03-30T21:35:08.898Z
+updatedAt: 2024-01-30T21:59:49.330Z
+publishedAt: 2024-01-30T21:59:49.330Z
 firstPublishedAt: 2020-03-05T19:58:30.009Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -51,6 +51,7 @@ Para cadastrar o banner, é necessário preencher os seguintes campos:
 * **Horário de início**: horário que define o início da disponibilidade do banner.
 * **Data de término**: data que define o término da disponibilidade do banner - o que permite o gestor agendar campanhas futuras, facilitando o seu controle.
 * **Horário de término**: horário que define o término da disponibilidade do banner.
+* **Idiomas:** idiomas aos quais o banner será aplicado. Campo disponível apenas para lojas que utilizam [Configurações Multi-idioma (Beta)](https://help.vtex.com/pt/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
 
 ### Regras de ativação 
 

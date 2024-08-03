@@ -3,8 +3,8 @@ title: 'Lojas físicas como pontos de retirada'
 id: 4hXfgqXxS1lwAfnxgja3xW
 status: PUBLISHED
 createdAt: 2021-08-23T17:04:37.282Z
-updatedAt: 2023-05-31T14:45:23.483Z
-publishedAt: 2023-05-31T14:45:23.483Z
+updatedAt: 2023-07-26T18:51:23.201Z
+publishedAt: 2023-07-26T18:51:23.201Z
 firstPublishedAt: 2021-08-23T17:12:50.884Z
 contentType: trackArticle
 productTeam: Shopping
@@ -20,9 +20,9 @@ Você pode utilizar as lojas físicas da sua marca como pontos de retirada, para
 
 Fica a critério do cliente decidir se deseja que o pedido seja entregue em casa ou se prefere buscá-lo em um ponto de retirada, e qual dos pontos de retirada disponíveis é a melhor opção.
 
-## Pré-requisitos - inStore
+## Pré-requisitos - VTEX Sales App
 
-Verifique os requisitos que sua loja precisa garantir para iniciar a implementação de lojas físicas como pontos de retirada para pedidos realizados no [inStore](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf). Para isso, confira o artigo [Pré-requisitos para usar o inStore](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u "Pré-requisitos para usar o inStore").
+Verifique os requisitos que sua loja precisa garantir para iniciar a implementação de lojas físicas como pontos de retirada para pedidos realizados no [VTEX Sales App](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf). Para isso, confira o artigo [Pré-requisitos para usar o VTEX Sales App](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/1wtAanSRA3g2316dw7bw8u "Pré-requisitos para usar o VTEX Sales App").
 
 ## Configurar lojas físicas como pontos de retirada
 

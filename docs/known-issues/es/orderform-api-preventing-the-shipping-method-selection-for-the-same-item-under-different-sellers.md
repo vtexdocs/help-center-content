@@ -1,18 +1,18 @@
 ---
-title: 'La API de OrderForm impide la selección del método de envío para el mismo artículo en diferentes vendedores.'
+title: 'La API de OrderForm impide la selección del método de envío para el mismo artículo con diferentes vendedores.'
 id: 4dEfq7lNqTLF7SFIOaRsc2
 status: PUBLISHED
 createdAt: 2023-01-27T21:56:04.190Z
-updatedAt: 2023-01-27T22:03:21.165Z
-publishedAt: 2023-01-27T22:03:21.165Z
+updatedAt: 2023-07-05T14:33:51.370Z
+publishedAt: 2023-07-05T14:33:51.370Z
 firstPublishedAt: 2023-01-27T21:56:04.914Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: la-api-de-orderform-impide-la-seleccion-del-metodo-de-envio-para-el-mismo-articulo-en-diferentes-vendedores
+slug: la-api-de-orderform-impide-la-seleccion-del-metodo-de-envio-para-el-mismo-articulo-con-diferentes-vendedores
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 742139
 ---
 

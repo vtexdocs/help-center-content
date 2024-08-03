@@ -3,8 +3,8 @@ title: 'Crear y editar usuario '
 id: 5enE0a0glnI0coEj7rRHBA
 status: PUBLISHED
 createdAt: 2019-11-22T15:16:38.307Z
-updatedAt: 2022-08-24T14:23:48.018Z
-publishedAt: 2022-08-24T14:23:48.018Z
+updatedAt: 2024-06-17T15:10:57.072Z
+publishedAt: 2024-06-17T15:10:57.072Z
 firstPublishedAt: 2020-01-13T14:33:11.563Z
 contentType: trackArticle
 productTeam: Identity
@@ -23,7 +23,7 @@ Es en esta sección donde registramos quién puede acceder al ambiente administr
 1. En el módulo Gestión de la Cuenta, haga clic en la pestaña **Usuarios**.
 2. Haga clic en el botón **Nuevo usuario**.
 3. Complete el **Correo electrónico** y el **Nombre completo**.
-4. Agregue o cree los [roles](https://help.vtex.com/es/tutorial/guia-para-crear-perfiles-de-usuario/) deseados.
+4. Agregue o cree los [roles](https://help.vtex.com/es/tutorial/gerenciando-usuarios--tutorials_512) deseados.
 5. Haga clic en el botón **Guardar**.
 
 El usuario recibirá un correo electrónico confirmando el registro, con un enlace para registrar la contraseña de acceso.

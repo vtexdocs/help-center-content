@@ -53,7 +53,7 @@ Response:
 ```
 
 Evidence:
-![TaxHubAPIGetTax](//images.contentful.com/alneenqid6w5/4CaoACwzqEYcUQem6okKQO/0e295bc9101cc0b46e7669a49b6f99e3/TaxHubAPIGetTax.jpg)
+![TaxHubAPIGetTax](https://images.contentful.com/alneenqid6w5/4CaoACwzqEYcUQem6okKQO/0e295bc9101cc0b46e7669a49b6f99e3/TaxHubAPIGetTax.jpg)
 
 __2 Occupation Area__
 
@@ -99,7 +99,7 @@ Response:
 ```
  
 Evidence:
-![TaxHubOccupationArea](//images.contentful.com/alneenqid6w5/2lJDIuKFz6AwgM62eI6aWA/c0bab0f8e5016e3ced947cfb94050d43/TaxHubOccupationArea.jpg)
+![TaxHubOccupationArea](https://images.contentful.com/alneenqid6w5/2lJDIuKFz6AwgM62eI6aWA/c0bab0f8e5016e3ced947cfb94050d43/TaxHubOccupationArea.jpg)
 
 __3 FiscalRegion__
 
@@ -137,7 +137,7 @@ Response:
 ```
 
 Evidence:
-![TaxHubFiscalRegion](//images.contentful.com/alneenqid6w5/3i7TuC4rJYwoIWY62UwgE0/5cfc50a55c0e068a2dea68573a636a1b/TaxHubFiscalRegion.jpg)
+![TaxHubFiscalRegion](https://images.contentful.com/alneenqid6w5/3i7TuC4rJYwoIWY62UwgE0/5cfc50a55c0e068a2dea68573a636a1b/TaxHubFiscalRegion.jpg)
 
 __4	CustomerCode__
 - Host: http://api.beta.vtex.com
@@ -171,7 +171,7 @@ Response:
 ```
 
 Evidence:
-![TaxHubCustomerCode](//images.contentful.com/alneenqid6w5/5ANPppLxvikIK4Kkaoe6qM/3d5033469dc13154c1bae8ddaeb02c06/TaxHubCustomerCode.jpg)
+![TaxHubCustomerCode](https://images.contentful.com/alneenqid6w5/5ANPppLxvikIK4Kkaoe6qM/3d5033469dc13154c1bae8ddaeb02c06/TaxHubCustomerCode.jpg)
 
 __5	ItemCode__
 
@@ -207,7 +207,7 @@ Response:
 
 Evidence:
 
-![TaxHubItemCode](//images.contentful.com/alneenqid6w5/4im391LOekSmYIgWgeqIIK/078dbcbb83861e5b90d9b0b9519778e5/TaxHubItemCode.jpg)
+![TaxHubItemCode](https://images.contentful.com/alneenqid6w5/4im391LOekSmYIgWgeqIIK/078dbcbb83861e5b90d9b0b9519778e5/TaxHubItemCode.jpg)
 
 __6 Aliquot__
 - Host: http://api.beta.vtex.com
@@ -244,7 +244,7 @@ Response:
 ```
 
 Evidence:
-![TaxHubAliquot](//images.contentful.com/alneenqid6w5/6d6Kgove5GaWM2As0EAqmg/6959389c39c4d0c69cccd1982ccf7c6e/TaxHubAliquot.jpg)
+![TaxHubAliquot](https://images.contentful.com/alneenqid6w5/6d6Kgove5GaWM2As0EAqmg/6959389c39c4d0c69cccd1982ccf7c6e/TaxHubAliquot.jpg)
 
 __7 TaxValue__
 
@@ -292,6 +292,6 @@ Response:
 ```
 
 Evidence:
-![TaxHubTaxValue](//images.contentful.com/alneenqid6w5/53rujXNKTYs0kugAMwSca8/53b29d1078e0960a39360bdad84e4b7e/TaxHubTaxValue.jpg)
+![TaxHubTaxValue](https://images.contentful.com/alneenqid6w5/53rujXNKTYs0kugAMwSca8/53b29d1078e0960a39360bdad84e4b7e/TaxHubTaxValue.jpg)
 
 [Continue reading about TaxHub with our article about its JS Structure](https://taxhub-estructura-de-app-en-js "TaxHub Estructura de App en JS")

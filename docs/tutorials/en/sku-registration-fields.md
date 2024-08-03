@@ -3,8 +3,8 @@ title: 'Filling in SKU registration fields'
 id: 21DDItuEQc6mseiW8EakcY
 status: PUBLISHED
 createdAt: 2017-09-22T00:20:45.920Z
-updatedAt: 2022-12-19T18:03:03.864Z
-publishedAt: 2022-12-19T18:03:03.864Z
+updatedAt: 2023-07-14T20:59:40.541Z
+publishedAt: 2023-07-14T20:59:40.541Z
 firstPublishedAt: 2017-09-22T00:40:16.232Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -23,7 +23,7 @@ For more information on each field, read their complete description below.
 
 __Product Name:__ This field is already filled in with the SKU product name.
 
-__Name:__ The SKU name, that is, the variation of the previously added product. Product - Fridge, SKU - 110V.
+__Name:__ The SKU name, that is, the variation of the previously added product. Example: Product - Fridge, SKU - 110V. The SKU name is limited to 200 characters.
 
 __Loyalty Value:__ Credit that the customer receives upon completing a purchase of 1 (one) specific SKU unit. If you enter "1" in this field, this means that the customer will get U$ 1 credit on the website.
 

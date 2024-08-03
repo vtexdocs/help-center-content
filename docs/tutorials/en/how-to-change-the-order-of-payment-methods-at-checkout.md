@@ -3,8 +3,8 @@ title: 'Changing the order of payment methods at checkout'
 id: frequentlyAskedQuestions_490
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:54.205Z
-updatedAt: 2022-04-25T15:09:37.985Z
-publishedAt: 2022-04-25T15:09:37.985Z
+updatedAt: 2023-10-31T17:27:08.660Z
+publishedAt: 2023-10-31T17:27:08.660Z
 firstPublishedAt: 2019-01-24T22:12:00.925Z
 contentType: tutorial
 productTeam: Shopping

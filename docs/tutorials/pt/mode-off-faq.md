@@ -1,10 +1,10 @@
 ---
 title: 'Mode-Off: FAQ'
 id: 6hbd7PuvoxuRbPCvTqjxeB
-status: PUBLISHED
+status: CHANGED
 createdAt: 2021-01-21T17:29:10.793Z
-updatedAt: 2021-04-06T20:20:55.582Z
-publishedAt: 2021-04-06T20:20:55.581Z
+updatedAt: 2024-04-11T19:26:47.407Z
+publishedAt: 2024-04-11T19:22:34.569Z
 firstPublishedAt: 2021-01-21T17:54:12.941Z
 contentType: tutorial
 productTeam: Financial
@@ -55,9 +55,10 @@ As transações serão liberadas normalmente quando o parceiro parar de apresent
 
 ## Por quanto tempo a VTEX faz a retentativa de processamento das transações represadas?
 
-O tempo de retry é definido por cada parceiro no momento da integração com o Payment Provider Protocol. 
+O tempo entre retentativas de processamento da transação (_retries_) pode ser definido pelo parceiro no momento do envio das informações de pagamento. Ao configurar o tempo para cancelamento do pagamento (campo `delayToCancel`) para um período menor que 1 dia, as retentativas serão realizadas a cada 1 hora. Se o tempo para cancelar o pagamento for definido como igual ou maior que 1 dia, as retentativas serão realizadas a cada 4 horas. Para mais informações, acesse [Create Payment endpoint](https://developers.vtex.com/docs/api-reference/payment-provider-protocol?endpoint=post-/payments).
 
-Caso esse período não tenha sido previamente definido, o tempo padrão é de __quatro horas__.
+<div class="alert alert-info">
+ Caso o pagamento seja realizado por <a href="https://help.vtex.com/pt/tutorial/configurar-pix-como-meio-de-pagamento--5sbNavMSJY4jyLmLKRHiOf">PIX</a> ou o tempo para cancelamento do pagamento seja configurado entre 5 minutos e 1 hora, as chamadas de retry ocorrerão a cada 5 minutos.</div>
 
 ## Como identificar o mode-off e o que fazer quando ele estiver ligado?
 

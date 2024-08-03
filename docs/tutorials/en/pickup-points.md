@@ -3,8 +3,8 @@ title: 'Pickup points'
 id: 2fljn6wLjn8M4lJHA6HP3R
 status: PUBLISHED
 createdAt: 2020-07-01T19:16:21.675Z
-updatedAt: 2023-03-29T19:48:10.418Z
-publishedAt: 2023-03-29T19:48:10.418Z
+updatedAt: 2023-07-25T16:53:09.640Z
+publishedAt: 2023-07-25T16:53:09.640Z
 firstPublishedAt: 2020-07-01T19:25:40.136Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -84,4 +84,4 @@ VTEX considers the pickup point to be a shipping method, and therefore the setti
 
 6. Set the amount of pickup points that are displayed at checkout:
     - Step 1: In the VTEX Admin, go to **Store settings > Shipping > Settings**, or type *Shipping* in the search bar at the top of the page and select *Store settings / Shipping*.    
-    - Step 2: Change the **Pickup points configuration** field: use the <i class="far fa-caret-square-up"></i> and <i class="far fa-caret-square-down"></i> buttons and select the first pickup points that will become available in the search list (displayed at checkout).
+    - Step 2: Change the **Pickup points configuration** field: use the <i class="far fa-caret-square-up"></i> and <i class="far fa-caret-square-down"></i> buttons and select the quantity of pickup points that will become available in the search list (displayed at checkout).

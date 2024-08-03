@@ -3,7 +3,7 @@ title: 'FAQ - Seguridad 2'
 id: 1ayXEtqawI9yuxFXutiITh
 status: DRAFT
 createdAt: 2022-05-26T13:33:48.633Z
-updatedAt: 2022-08-22T12:33:50.220Z
+updatedAt: 2024-05-28T16:48:10.138Z
 publishedAt: 
 firstPublishedAt: 2022-06-09T22:09:20.893Z
 contentType: tutorial

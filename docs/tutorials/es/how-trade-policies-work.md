@@ -3,8 +3,8 @@ title: 'Como funciona una Política Comercial'
 id: 6Xef8PZiFm40kg2STrMkMV
 status: PUBLISHED
 createdAt: 2021-05-25T20:05:42.155Z
-updatedAt: 2022-12-08T14:39:11.093Z
-publishedAt: 2022-12-08T14:39:11.093Z
+updatedAt: 2024-06-20T22:52:38.544Z
+publishedAt: 2024-06-20T22:52:38.544Z
 firstPublishedAt: 2021-05-25T20:17:12.408Z
 contentType: tutorial
 productTeam: Others
@@ -33,7 +33,9 @@ Vea cómo se relacionan las diferentes configuraciones de VTEX con las política
 
 Para [contratar políticas comerciales adicionales](https://help.vtex.com/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), póngase en contacto con nuestro equipo de Growth Operations en Soporte, seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Política Comercial`.
 
-La contratación de políticas comerciales adicionales para integración con un [conector nativo](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex), un [conector certificado (partner)](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-certificado-partner) u otras tiendas VTEX está exenta de la cuota mensual.
+La contratación de políticas comerciales adicionales para integración con un [conector certificado](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-certificado-partner) u otras tiendas VTEX está exenta de la cuota mensual.
+
+<div class=alert alert-warning> Si se aplica la misma política comercial a un conector certificado y a un conector asociado, no hay exención de tarifas.</div>
 
 ## Catálogo
 Al [registrar productos](https://help.vtex.com/es/tutorial/cadastrando-produtos--tutorials_2567) en el catálogo, puede restringir su disponibilidad para determinadas políticas comerciales. De este modo, el catálogo se segmenta en función de las diferentes estrategias de negocio. Las estrategias pueden incluir la segmentación de productos por región, para un marketplace o para tipos específicos de clientes, como los empleados. Vea más información sobre la configuración del [catálogo](https://help.vtex.com/es/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ).

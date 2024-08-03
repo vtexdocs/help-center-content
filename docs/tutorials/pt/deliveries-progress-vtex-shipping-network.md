@@ -3,8 +3,8 @@ title: 'VTEX Shipping Network: Entregas Correios'
 id: 5CZRA0lq60EecmwZpsjvfq
 status: PUBLISHED
 createdAt: 2022-03-04T13:12:38.617Z
-updatedAt: 2023-06-09T12:56:36.259Z
-publishedAt: 2023-06-09T12:56:36.259Z
+updatedAt: 2024-03-04T21:51:37.046Z
+publishedAt: 2024-03-04T21:51:37.046Z
 firstPublishedAt: 2022-03-04T13:17:13.380Z
 contentType: tutorial
 productTeam: Others
@@ -15,8 +15,12 @@ legacySlug: entregas-correios-vtex-log
 subcategory: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
+<div class="alert alert-info">
+Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site <a href="https://vtex.com/br-pt/shipping-network/">VTEX Shipping Network</a>.
+</div>
+
 <div class="alert alert-warning">
-<p>O <a href="https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC">VTEX Shipping Network Correios</a> integra sua operação com os serviços PAC e SEDEX dos Correios, e o <a href="https://vtex.com/br-pt/shipping-network/">VTEX Shipping Network</a> integra a sua operação com os Correios e outras transportadoras. Com ambas as soluções você pode usar as funcionalidades:</p><p><ul><li><a href="https://help.vtex.com/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs">Pronto para envio</a></li><li><a href="https://help.vtex.com/pt/tutorial/painel-vtex-shipping-network--51e8tx1IehiN4ZtURRWU92">Painel VTEX Shipping Network</a></li><li>Entregas Correios</li></ul></p>
+<p>O <a href="https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC">VTEX Shipping Network Correios</a> integra sua operação com os serviços PAC e SEDEX do contrato VTEX junto aos Correios, e o <a href="https://vtex.com/br-pt/shipping-network/">VTEX Shipping Network</a> integra a sua operação com os Correios e outras transportadoras. Com ambas as soluções você pode usar as funcionalidades:</p><p><ul><li><a href="https://help.vtex.com/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs">Pronto para envio</a></li><li><a href="https://help.vtex.com/pt/tutorial/painel-vtex-shipping-network--51e8tx1IehiN4ZtURRWU92">Painel VTEX Shipping Network</a></li><li>Entregas Correios</li></ul></p>
 </div>
 
 **Entregas Correios** é a funcionalidade do [VTEX Shipping Network](https://vtex.com/br-pt/log/) que permite ao lojista acompanhar as informações e o andamento de pacotes postados nos [Correios](https://www.correios.com.br/). A solução permite solicitar um Pedido de Informação (PI) para entregas que estão atrasadas, extraviadas ou foram feitas indevidamente.
@@ -37,14 +41,14 @@ Além disso, ao final do artigo você vai encontrar informações sobre:
 * Serviço de Logística Reversa dos Correios
 
 <div class = "alert alert-info">
-Para imprimir etiquetas dos pacotes e notificar os Correios para realizar a coleta dos pacotes, no Admin VTEX, utilize a ferramenta <a href="https://help.vtex.com/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs"><b>Pronto para envio</b></a>. Você também pode fazer isso por API. Saiba  mais na nossa documentação para desenvolvedores <a href="https://developers.vtex.com/docs/guides/vtex-shipping-network-labels-integration">VTEX Shipping Network Labels Integration</a>.
+Para imprimir etiquetas dos pacotes no Admin VTEX, utilize a ferramenta <a href="https://help.vtex.com/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs"><b>Pronto para envio</b></a>. Você também pode fazer isso por API. Saiba  mais na nossa documentação para desenvolvedores <a href="https://developers.vtex.com/docs/guides/vtex-shipping-network-labels-integration">VTEX Shipping Network Labels Integration</a>.
 </div>
 
 ## Informações dos Pedidos
 
 No Admin VTEX, em **Envio > Entregas Correios**, a página **Informações dos Pedidos** apresenta uma listagem de todos os pacotes postados. Na lista, é possível acompanhar as seguintes informações:
 
-![entregas_correios_interface_PT](https://images.ctfassets.net/alneenqid6w5/6yRZTRg0D2HkJC5TeVLKSx/12386242428176b32fdfc8e7e6719ff8/entregas_correios_interface_PT.png)
+![order_information_shipping_network_PT](https://images.ctfassets.net/alneenqid6w5/2B9Ofd5hFwPkSxl31szyzU/d348694f06824d1e46b995bc712406af/order_information_shipping_network_PT.png)
 
 <table class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">
     <thead class="w-100 center mv7 bb b--gray" style="border-spacing: 0px; border-collapse: collapse;">

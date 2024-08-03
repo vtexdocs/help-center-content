@@ -1,10 +1,10 @@
 ---
 title: 'Error exporting large amount of Giftcards'
 id: 2EZ9XmZwYmcWdRxKbTNEBJ
-status: PUBLISHED
+status: DRAFT
 createdAt: 2022-03-27T12:37:51.512Z
-updatedAt: 2022-11-25T22:09:09.150Z
-publishedAt: 2022-11-25T22:09:09.150Z
+updatedAt: 2023-07-03T17:14:32.962Z
+publishedAt: 
 firstPublishedAt: 2022-03-27T12:37:52.279Z
 contentType: knownIssue
 productTeam: Payments
@@ -34,4 +34,17 @@ N/A
 
 
 N/A
+
+imulation
+
+
+Try to make the export process with more than 50000 giftcards.
+
+
+##
+
+## Workaround
+
+
+Export in smaller amounts or smaller periods of time.
 

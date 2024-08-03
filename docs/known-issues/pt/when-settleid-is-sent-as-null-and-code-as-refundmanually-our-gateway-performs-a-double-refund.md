@@ -3,8 +3,8 @@ title: 'Quando o acordo é enviado tão nulo e codificado como "reembolso-manual
 id: 2PdRRjHDODY2Tk0VItO4Fo
 status: PUBLISHED
 createdAt: 2022-07-11T17:37:43.961Z
-updatedAt: 2022-11-25T22:04:38.681Z
-publishedAt: 2022-11-25T22:04:38.681Z
+updatedAt: 2024-02-16T20:28:17.704Z
+publishedAt: 2024-02-16T20:28:17.704Z
 firstPublishedAt: 2022-07-11T17:37:44.954Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: quando-o-acordo-e-enviado-tao-nulo-e-codificado-como-reembolsomanual-nosso-gateway-realiza-um-duplo-reembolso
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 615050
 ---
 

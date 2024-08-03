@@ -3,8 +3,8 @@ title: 'Creating Customer Credit accounts'
 id: 7FHLd0cmxqqGeEUuc8uioU
 status: PUBLISHED
 createdAt: 2018-11-06T20:24:28.924Z
-updatedAt: 2023-05-12T12:20:09.076Z
-publishedAt: 2023-05-12T12:20:09.076Z
+updatedAt: 2024-02-08T19:08:32.443Z
+publishedAt: 2024-02-08T19:08:32.443Z
 firstPublishedAt: 2018-11-06T21:15:02.053Z
 contentType: trackArticle
 productTeam: Financial
@@ -14,103 +14,82 @@ trackId: 1hCRg21lXYy2seOKgqQ2CC
 trackSlugEN: customer-credit-getting-started
 ---
 
-The next step is to create accounts for the customers you want to offer credit to your store.
+The next step is to create accounts for the customers you want to offer credit to in your store. Accounts can be created in three different ways:
 
-There are three ways to create them:
-
-- Via Admin;
-- Through the bulk import feature;
-- Via API.
+- [Individual account (Admin VTEX)](#create-accounts-individually)
+- [Multiple Accounts (Admin VTEX)](#create-multiple-accounts-bulk-import)
+- [Individual account (Customer Credit API)](#criar-conta-via-api)
 
 <div class="alert alert-info">
-<strong>Warning</strong>: Customer Credit accounts are not integrated with the customer base registered in Master Data entities. Accounts must be created in the app before or after the user has concluded in-store purchases.
+Accounts created in the Customer Credit app have no relationship or share data with the customer base registered in the store's <a href="https://help.vtex.com/en/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#data-entities">Master Data entities</a>. For a customer to be able to use Customer Credit as a payment method, their account must be registered by the merchant in the app even if the customer already has an account in the store. 
 </div>
 
-In addition, in all cases where users choose to update data by importing a spreadsheet into the system, it is necessary to make sure that all values are separated by commas. Otherwise, the operation will not be completed correctly.
+## Create accounts individually
 
-See how to create accounts in these three possible ways:
+To register a new customer in Customer Credit, follow the steps below:
 
-## Creating accounts individually
+1. In the VTEX Admin, access __Apps > Customer Credit > Accounts__, or type __Accounts__ in the search bar at the top of the page.
+2. On the __Accounts__ screen, click the `NEW` button.
+3. In __Identification__, select the __Document type__ and fill in the __Document__ and __Email__ fields with the information of the customer you want to register.
+4. In __Credit__, enter the __Credit Limit (BRL)__ and __Tolerance__ values that you want to make available to the customer.
+5. Click `Confirm`.
 
-If users prefer, they can create multiple accounts manually through Admin.
+<div class="alert alert-warning">
+Filling in the <b>Email</b> field is mandatory, as the VTEX platform uses this information to authenticate the customer's access to the credit limits of their account. For more information about data protection, visit <a href="https://help.vtex.com/en/tutorial/smartcheckout-security--3SrJuuhrqwePUg1rp1exfB">SmartCheckout Security</a>.
+</div>
 
-Follow the step by step:
+From this moment on, the new account created will be displayed on the __Accounts__ screen.
 
-1. Access the __Admin__;
-2. Click on the __Customer Credit__ module;
-3. Then click on __Accounts__;
-4. On the right side of the screen, click on the __“New”__ button;
-5. Select the __document type__ that will identify the account;
-6. Enter the document number in the __Document__ field;
-7. Fill in the __Email__ field;
-8. Set the __credit limit__ for the account;
-9. Click on the __"Confirm"__ button.
+![CC_new_account_1_EN](https://images.ctfassets.net/alneenqid6w5/5Kpskv3ba4pSvVpPROQQQf/29c36c044a54c156d6dbf4d385da0dee/CC_new_account_1_EN.JPG)
 
-Filling in the email field in the form is mandatory, because through the email (access key to the VTEX system), it is possible to authenticate the customer's access to the credit limits of an account. For more information about data protection, visit [SmartCheckout Security](https://help.vtex.com/en/tutorial/seguranca-do-smartcheckout--3SrJuuhrqwePUg1rp1exfB).
+## Create multiple accounts (bulk import)
 
-This way, the new account will be displayed on the main page of the “Accounts” section.
+To create multiple accounts at the same time (in bulk) in Customer Credit, you can use a template spreadsheet in CSV (Comma Separated Value) format containing each customer's information. Follow the steps below to create multiple accounts:
 
-## Creating accounts via bulk import
+1. In the VTEX Admin, access __Apps > Customer Credit > Accounts__, or type __Accounts__ in the search bar at the top of the page.
+2. On the __Accounts__ screen, click the `IMPORT` button.
+3. In __Do you want to create or update accounts?__, select the __Create__ option and click `CONTINUE`.
+4. Click on `DOWNLOAD TEMPLATE`. A spreadsheet template in .csv format will be sent to your device (computer, cell phone or tablet).
+5. Fill in each line:
+<br>
+<ul>
+  <li>Columns <b>Email</b>, <b>Document</b> and <b>Document Type</b>: customer information.</li>
+  <li>Columns <b>Credit limit</b> and <b>Tolerance rate</b>: values available to each customer. The <b>Tolerance rate</b> must be entered in decimal format, for example, a tolerance of 5% must be indicated as 0.05.</li>
+</ul>
 
-To create accounts in bulk, users can use the CSV (comma-separated value, a spreadsheet format) file import feature. 
+![CC_criar_conta_2_ALL](https://images.ctfassets.net/alneenqid6w5/2KwguLYrq4sasC46xAIUfV/9b504a53cbf5796f78fafc77c5125e22/CC_criar_conta_2_ALL.JPG)
 
-This functionality is very useful as it makes it possible to import thousands of accounts into the system at once.
+<blockquote><ui>6. Save the .csv spreadsheet.</ui>
 
-1. Access the __Admin__;
-2. Click on the __Customer Credit__ module;
-3. Then click on __Accounts__;
-4. Next to the “New” button, click on __Import__ option;
-5. Select the __Create__ option;
-6. Click on the __"Continue"__ button;
-7. Then click on the __Download template__ option.
+<blockquote><ui>7. Return to the <b>Accounts</b> screen and click the <b>IMPORT</b> button again.</ui>
 
-This way, your computer will download a spreadsheet template in CSV format. You can find it in the Downloads folder.
+<blockquote><ui>8. In <b>Do you want to create or update accounts?</b>, select the <b>Update</b> option and click <b>CONTINUE</b>.</ui>
 
-The next step is to fill in the columns listed in the document with the information for each of the accounts you want to create.
+<blockquote><ui>9. Insert or select the .csv spreadsheet in the space <b>Drop your CSV here or choose a file</b>.</ui>
 
-The table has 13 columns, but the email column is the only required, since VTEX’s system uses this information to identify users in SmartCheckout.
+<blockquote><ui>10. Click on the <b>IMPORT FILE</b> button.</ui>
 
-When you finish filling out the table and save the changes, proceed with the walkthrough:
+From this moment on, new accounts created via the .csv spreadsheet will be available on the __Accounts__ screen.
 
-1. Return to the __Accounts__ section in the Admin;
-2. Click on the __Import__ option;
-3. Select the __Update__ option inside the box;
-4. Click on the __"Continue"__ button;
-5. Insert the spreadsheet in the space __“Drop the CSV here or choose file”__;
-6. Click on the __"Import file"__ button.
+<div class="alert alert-warning">
+It is also possible to track previous processes of creating multiple accounts, identifying whether the accounts were created correctly. To check this information, click on <b>Import History</b> on the <b>Accounts</b> screen.
+</div>  
 
-Done! Your accounts will be created and displayed on the Accounts section main page.
+### Update multiple accounts (bulk import)
 
-In the context of creating new accounts, you can check your import history. To do this, click on “Import history” on the main page of the Accounts section. This way, it is also possible to check if the imports were done correctly. Otherwise, the necessary corrections will be indicated in the interface.
+To update information, such as document, document type, email, credit limit and tolerance, in multiple accounts at the same time, you can also use the bulk import functionality.
 
-### Updating Accounts via bulk import
-You can also update all your accounts’ data - email, credit limit, document, document type, status and tolerance - at once using the bulk import feature.
+The procedure is similar to [create multiple accounts](#create-multiple-accounts-bulk-import). However, you must already have the .csv spreadsheet downloaded and filled out on your device (computer, cell phone or tablet). Follow the steps below to update customer information: 
 
-The process is similar to creating accounts. However, here it is assumed that you already have the CSV file template downloaded on your machine.
+1. In the VTEX Admin, access __Apps > Customer Credit > Accounts__, or type __Accounts__ in the search bar at the top of the page.
+2. On the __Accounts__ screen, click the `IMPORT` button.
+3. In __Do you want to create or update accounts?__, select the __Update__ option and click `CONTINUE`.
+4. Insert or select the .csv spreadsheet in the space __Drop your CSV here or choose a file__ here.
+5. Click on the IMPORT FILE button.
+6. After the spreadsheet is loaded into Admin, check on the __Accounts__ screen whether the information was updated correctly in each customer's accounts.  
 
-Follow the step by step:
+## Create account via API
 
-1. Access the __Admin__;
-2. Click on the __Customer Credit__ module;
-3. Then click on __Accounts__;
-4. Next to the “New” button, click on the __Import__ option;
-5. Select the __Update__ option;
-6. Click on the __"Continue"__ button;
-7. Insert the updated CSV file into the *Drop Zone*;
-8. Click on the __"Import File"__ button.
+You can also create accounts for your customers in Customer Credit through the endpoint [POST - Open an account](https://developers.vtex.com/docs/api-reference/customer-credit-api#post-/api/ creditcontrol/accounts).
 
-Finally, wait for the spreadsheet to be uploaded.
-
-## Creating accounts through API
-Another option is to create accounts through the `POST Open or Change Account` [endpoint](https://developers.vtex.com/docs/api-reference/customer-credit-api#put-/api/creditcontrol/accounts/-accountId- "endpoint").
-
-Fill in the body with the following information:
-
-     {
-      "id": "id",
-      "creditLimit": "number",
-      "document": "CPF or CNPJ or Other",
-      "email": "email"
-    }
-
-For more details, see our [technical documentation on Customer Credit APIs](https://developers.vtex.com/docs/guides/customer-credit-api-overview "technical documentation on Customer Credit API.").
+For more information about Customer Credit API endpoints, visit [Customer Credit API - Overview](https://developers.vtex.com/docs/api-reference/customer-credit-api#overview).  

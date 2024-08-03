@@ -3,8 +3,8 @@ title: 'Captura de email'
 id: 15oNhcDa7HA8ztfJnpvhmJ
 status: PUBLISHED
 createdAt: 2022-10-17T19:51:45.533Z
-updatedAt: 2022-10-17T19:55:21.831Z
-publishedAt: 2022-10-17T19:55:21.831Z
+updatedAt: 2023-07-20T17:49:29.730Z
+publishedAt: 2023-07-20T17:49:29.730Z
 firstPublishedAt: 2022-10-17T19:53:55.523Z
 contentType: tutorial
 productTeam: Master Data
@@ -15,7 +15,7 @@ legacySlug: entendiendo-el-sistema-de-captura-de-email-de-vtex
 subcategory: 2nx7hMJmisofwqwy2P9l2i
 ---
 
-El propósito de este artículo es mostrar cómo se recibe el correo electrónico de un usuario en el [Master Data CRM](https://help.vtex.com/es/subcategory/visao-geral-do-master-data--5gtjaqCG7eIseyCI0aSqc2#). Para ello, se demostrará cómo **Checkout**, **RC.JS** y **Master Data** trabajan en conjunto para capturar la información de correo electrónico de un nuevo usuario.
+El propósito de este artículo es mostrar cómo se recibe el correo electrónico de un usuario en el [Master Data CRM](https://help.vtex.com/es/tutorial/master-data--4otjBnR27u4WUIciQsmkAw). Para ello, se demostrará cómo **Checkout**, **RC.JS** y **Master Data** trabajan en conjunto para capturar la información de correo electrónico de un nuevo usuario.
 
 Para una mejor comprensión, presentaremos un escenario (dividido en 3 pasos), donde el usuario completa con éxito su compra y el pedido se reenvía a OMS, mientras que su correo electrónico se transmite de forma segura a Master Data. En este contexto, las acciones del usuario y el flujo de la plataforma ocurren en el siguiente orden:
 

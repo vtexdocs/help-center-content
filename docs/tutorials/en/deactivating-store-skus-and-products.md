@@ -25,4 +25,4 @@ To deactivate the SKU of a product, proceed as follows:
 4. Click on the SKU which you want to deactivate.
 5. Deselect the option __Activate the SKU if possible__.
 
-![deactivateSKU](//images.contentful.com/alneenqid6w5/4On7ZXJXPyAUqqy2GaGEuu/04ebceeab81b47272be45f16679c7597/inativarSKU.png)
+![deactivateSKU](https://images.contentful.com/alneenqid6w5/4On7ZXJXPyAUqqy2GaGEuu/04ebceeab81b47272be45f16679c7597/inativarSKU.png)

@@ -3,8 +3,8 @@ title: 'Rellenar campos de registro de SKU'
 id: 21DDItuEQc6mseiW8EakcY
 status: PUBLISHED
 createdAt: 2017-09-22T00:20:45.920Z
-updatedAt: 2022-12-19T18:03:03.864Z
-publishedAt: 2022-12-19T18:03:03.864Z
+updatedAt: 2023-07-14T20:59:40.541Z
+publishedAt: 2023-07-14T20:59:40.541Z
 firstPublishedAt: 2017-09-22T00:40:16.232Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -23,7 +23,7 @@ Para entender mejor el significado de cada campo del registro, vea la descripci�
 
 __Nombre del Producto:__ ya está completado con el nombre del producto al que pertenecerá el SKU.
 
-__Nombre:__ debe contener el nombre del SKU, es decir, la variación del producto, que ya ha sido registrada anteriormente. Producto - Heladera, SKU -110 voltios.
+__Nombre:__ debe contener el nombre del SKU, es decir, la variación del producto, que ya ha sido registrada anteriormente. Ejemplo: Producto - Heladera, SKU - 110 voltios.  El nombre del SKU está limitado a 200 caracteres.
 
 __Valor de Fidelidad:__ crédito que el cliente recibe al realizar la compra de 1 unidad de un determinado SKU. Poniendo "1,00" en este campo, el cliente gana un crédito de $ 1,00 en el sitio web.
 

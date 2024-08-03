@@ -3,8 +3,8 @@ title: 'Split Payment'
 id: 6k5JidhYRUxileNolY2VLx
 status: PUBLISHED
 createdAt: 2021-04-06T20:03:53.443Z
-updatedAt: 2023-04-24T19:09:31.016Z
-publishedAt: 2023-04-24T19:09:31.016Z
+updatedAt: 2024-06-18T17:50:44.146Z
+publishedAt: 2024-06-18T17:50:44.146Z
 firstPublishedAt: 2021-04-07T18:57:19.713Z
 contentType: tutorial
 productTeam: Financial
@@ -19,13 +19,18 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 This is a marketplace payment solution.
 </div>
 
-To guarantee that our marketplace clients automatically divide the payment between all sellers, set a commission based on a fixed percentage, and stay compliant with the current regulations, VTEX offers the __Split Payment solution__.
+To guarantee that our [marketplace](https://help.vtex.com/en/tutorial/what-is-a-marketplace--680lLJTnmEAmekcC0MIea8) clients automatically divide the payment between all [sellers](https://help.vtex.com/en/tutorial/what-is-a-seller--5FkLvhZ3Few4CWWIuYOK2w), set a commission based on a fixed percentage, and remain operating in accordance with current regulations, VTEX offers the __Split Payment__.
 
-When a shopper adds multiple products of multiple sellers in the same shopping cart and pays for them in a unified checkout experience, VTEX automatically splits that payment so every party can get their share directly into their bank account.
+Below are two examples of split payment application scenarios where a consumer adds products from different sellers to the same cart:
 
-However, this amount may or may not be equally divided among recipients. The distribution is done according to the seller's predefined conditions and the commissions taken by the marketplace. When configured, the Split Payment allows the amount paid for an order to be automatically divided between [sellers](https://help.vtex.com/tutorial/what-is-a-seller) and [marketplaces](https://help.vtex.com/en/tutorial/o-que-e-um-marketplace--680lLJTnmEAmekcC0MIea8).
+1. When the marketplace is responsible for processing payment for the purchase, VTEX automatically divides this payment so that each beneficiary receives their share directly into their own bank account, thus carrying out the [Payout Split](https://help.vtex.com/tutorial/split-payment--6k5JidhYRUxileNolY2VLx#payout-split).
+2. When the cart involves sellers who are responsible for processing their own payment method (without depending on the marketplace), VTEX creates different payment transactions for the Marketplace and the sellers, performing the [Transaction Split](https://help.vtex.com/tutorial/split-payment--6k5JidhYRUxileNolY2VLx#transaction-split).
 
-You can configure split payment in two different ways: [Payout Split](https://help.vtex.com/en/tutorial/split-payment#payout-split) and [Transaction Split](https://help.vtex.com/en/tutorial/split-payment#transaction-split). Both types of Split Payment have some differences that might be taken into consideration before choosing between them. 
+<div class="alert alert-warning">
+The distribution of purchase amounts is always carried out in accordance with pre-defined commission percentage agreements between the marketplace and sellers.
+</div>
+
+Check below for more details about each of the split payment models:
 
 | Characteristics    | Payout Split     | Transaction Split     |
 | ---------- | ---------- | ---------- |
@@ -34,7 +39,7 @@ You can configure split payment in two different ways: [Payout Split](https://he
 | __Number of purchases in the customer’s credit card statement__       | Only one       | One purchase to each seller. <li>*This fact may lead to misunderstandings and increase disputes and chargebacks*.</li>       |
 | __Fees negotiation__  | Marketplace will be responsible for negotiating all fees. <li>In scale, this can be positive to increase bargain power.</li>       | Marketplace will be responsible for negotiating all fees. In scale, this can be positive to increase bargain power.       |
 | __Anti fraud assessment__      | As only one transaction is generated, the entire order is assessed by one anti-fraud.       | As multiple transactions are generated, each of them run into a different analysis. If one transaction is denied, all others are automatically denied as well       |
-| __Payment providers integrated__       | Information available in the [List of Payment Providers by Country](https://help.vtex.com/en/tutorial/list-of-payment-providers-by-country--2im3BEGXxSAcRuxEaIHPvp) | All payment providers integrated to VTEX.       |
+| __Payment providers integrated__       | See which payment providers use Payout Split in the [List of Payment Providers by Country](https://help.vtex.com/en/tutorial/list-of-payment-providers-by-country--2im3BEGXxSAcRuxEaIHPvp) | All payment providers integrated to VTEX.       |
 | __Cost__       |Costs according to the negotiated fee. <ul><li>Usually costs more than non-split transactions.</li><li>Carts that only have marketplace products, will still be processed taking into consideration the negotiated fee, potentially increasing cost.</li></ul>       | No additional costs, VTEX clients will only be responsible for their usual fees with payment providers       |
 | __Checkout Experience__       | No limitations regarding payment methods and payment conditions. Those will be defined by the marketplace. <ul><li>The payment provider must also support Split in specific payment methods (Pix, for example). Nowadays our partners support split with one or two credit cards, debit cards and boleto (Brazil).</li></ul>      | Only displays payment methods accepted by all sellers fulfilling the order. In other words, payments by credit card, cash or card promissory (promissories that can be splited), will only be available if all sellers involved in the order accept them. Incompatible with:<ul><li>Boleto (Brazil).</li><li>Pix (Brazil).</li></ul><ul><li>Cards with 3DS2 or any authentication.</li></ul> |
 | __Ideal for__       | <ul><li>Marketplaces that want to charge automatic commissions, avoiding the risk of delinquency.</li><li>Marketplaces whose sellers do not have a payment provider.</li></ul><ul><li> Marketplaces that want to have more control over the payment flow of sellers.</li><li> Marketplaces that want to process transactions with Pix (Brazil), boleto (Brazil) and credit cards with 3DS2 or any other authentication.</li></ul>       | <ul><li> Marketplaces that don't want to be merchants of record (common for B2B businesses from Europe and the United States).</li><li> Cases in which the seller has more decision power than the marketplace and only accepts that the payment is processed by their own payment provider.</li></ul><ul><li> Marketplaces that have urgency to implement split and do not have partners supporting split in their countries.</li><li>Marketplaces that don't want to have all the chargeback risks.</li></ul>       |
@@ -56,25 +61,20 @@ As you can see, our Gateway calculates and distributes payouts for each recipien
 
 ![Receivables](https://images.ctfassets.net/alneenqid6w5/1rJ1dG3TMX9UqjPr5H4GMR/1b024e71291ab003f9b6379d0ffcecca/RECEBIVEIS.png)
 
-With this model, our marketplace clients also have access to a Commission Report, and using this feature, they can check the listing of orders invoiced by each of their sellers and the respective commission rates retained.
-
-The Commission Report brings transparency to the amounts due to each seller and the commissions those orders brought to the marketplace.
-
-<div class="alert alert-warning">
-Currently, our commission report is only available for specific clients that are part of our beta test.</div>
-
 Our __Payout Split__ solution has some limitations that are important to consider:
 
 - __Combined Payment Methods__: it does not support when one of them does not support Split. Example: gift card + credit card (gift card does not support Split).  Currently, it is only possible to have the split payment when the combined methods are two credit cards due to a checkout limitation.
-- __Change Order__: it does not work with changes in values or items after the order is placed. That also means that it isn't possible to partially cancel an order with split.
+- __Change Order__: it does not work with changes in values or items after the order is placed. Orders containing splits can be partially refunded, but not cancelled.
 - __VTEX Subscriptions__: it does not support marketplace orders.
 - __Sellers ID__: CNPJ is the primary  key to make the split, so the recipients (marketplaces or sellers) need to be legal entities.
 - __Same CNPJ__: since the CNPJ is the primary key to make the Split, it is not possible for two or more recipients/sales participants with the same CNPJ to be seen as different "entities".
 - __Parties Involved__: it does not allow to Split the payment with recipients who are not selling products in the cart. For example: to split the freight directly to the carrier.
 - __Nominal Fees__: it does not allow nominal fees. Currently, it is only possible to apply percentage commissions on products and/or freight.
 - __Assigning transactions to the provider__: today it is only possible to assign a preferred affiliation at the gateway to process Split using commercial conditions for the SKUs that are sold by the Seller. However, there are limitations:
-        - If the seller and the marketplace have the same SKU, the cart will always go to the Split payment method.
-        - The list of SKUs has to be constantly updated.
+    - If the seller and the marketplace have the same SKU, the cart will always go to the Split payment method.
+    - The list of SKUs has to be constantly updated.
+
+- __Transaction interest__: it is not possible to select who will receive the interest information (marketplace or seller). All transactions in which the customer made interest payments are automatically sent to the marketplace.
 
 ## Transaction Split
 
@@ -109,7 +109,5 @@ When Transaction Split and Payout Split are combined, the Transaction Split will
 
 #### Learn more
 
-- [Configure Payout Split - PagarMeV2](https://help.vtex.com/en/tutorial/setting-up-pagarmev2-gateway--5TugxXNMOs0Ocyg4uqussM?&utm_source=autocomplete)
-- [Configure Payout Split - VTEX Payment](https://help.vtex.com/en/tracks/vtex-payment--7iCCIoIZFmd9OabU6QlmXu/1lZWKCGdy7xpYjukTLfFJL)
 - [Send the Seller White Label payment methods to the Marketplace](https://help.vtex.com/en/tutorial/enviar-os-meios-de-pagamento-do-seller-white-label-para-o-marketplace--bfvtPzZyikacSqgkgeGW) (for more information about how to setup Transaction Split).
 

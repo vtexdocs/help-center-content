@@ -3,8 +3,8 @@ title: 'Visión General Configuraciones de la Tienda'
 id: 6VtlMoid6iM9dP14X1CopT
 status: PUBLISHED
 createdAt: 2023-03-29T23:00:51.439Z
-updatedAt: 2023-03-29T23:07:38.446Z
-publishedAt: 2023-03-29T23:07:38.446Z
+updatedAt: 2023-09-13T22:38:50.560Z
+publishedAt: 2023-09-13T22:38:50.560Z
 firstPublishedAt: 2023-03-29T23:07:38.446Z
 contentType: tutorial
 productTeam: Management
@@ -17,13 +17,11 @@ subcategory: 5RAUzLD6X9Wa1maenj1eGA
 
 La configuración de la tienda se aplica a tu tienda y a tu *storefront*, y está relacionada con la forma en que tus clientes interactúan con tu ecommerce. Hemos agrupado todas estas configuraciones en la sección **Configuración de la tienda** en el menú de navegación a la izquierda del Admin v4. Allí puedes acceder a las configuraciones de Pagos, Pedidos, Plantillas de email, Envío, Productos, Storefront, Canales e Intelligent Search. 
 
-Para acceder a esta funcionalidad, haz clic en el ícono de **Configuración de la tienda** en el menú de navegación a la izquierda y luego en la sección deseada.
+Para acceder a esta funcionalidad, haz clic en **Configuración de la tienda** en el menú de navegación a la izquierda y luego en la sección deseada.
 
 <div class="alert alert-warning" role="alert">
 Ten en cuenta que las páginas y los ajustes configurados en el ambiente anterior no han cambiado, sino que se han reorganizado en la barra lateral del Admin, con lo que se ha cambiado la forma de acceder a ellos. 
 </div>
-
-![Admin v4 Store settings menu ES](https://images.ctfassets.net/alneenqid6w5/2EIX54YHzIivbQjreHGV4B/2abc0cab685c0421df6fe5d50f9e3162/Admin_v4_Store_settings_menu_ES.jpg)
 
 A continuación encontrarás más detalles sobre las diferentes secciones y páginas de este menú. 
 

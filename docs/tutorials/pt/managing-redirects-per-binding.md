@@ -3,8 +3,8 @@ title: 'Gerenciando redirecionamentos de URL por binding '
 id: 67GAK2TCQgjvmtPXxAqREb
 status: PUBLISHED
 createdAt: 2021-04-20T15:03:54.330Z
-updatedAt: 2023-03-24T22:20:43.304Z
-publishedAt: 2023-03-24T22:20:43.304Z
+updatedAt: 2023-09-04T12:42:32.729Z
+publishedAt: 2023-09-04T12:42:32.729Z
 firstPublishedAt: 2021-05-05T18:11:25.521Z
 contentType: tutorial
 productTeam: VTEX IO
@@ -19,7 +19,11 @@ Redirecionamentos são ferramentas para encaminhar usuários e mecanismos de bus
 
 Lojas multi-domínio pedem gerenciamento de redirecionamento por [*binding*](https://help.vtex.com/pt/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) devido, principalmente, à complexidade apresentada pelas várias URLs disponíveis simultâneamente.
 
-Com isso em mente, a VTEX permite que você gerencie seus redirecionamentos de URL de acordo com os bindings da sua loja, por meio do painel de administração.
+Com isso em mente, a VTEX permite que você gerencie seus redirecionamentos de URL de acordo com os bindings da sua loja, por meio do painel de administração. 
+
+<div class="alert alert-warning" role="alert">
+Para criar, editar ou apagar redirecionamentos, o usuário do Admin precisa ter um perfil de acesso com o <a href="https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3">recurso do License Manager</a> <strong>CMS Settings</strong>. Você pode atribuir um perfil de acesso com o recurso ao usuário seguindo as instruções do artigo <a href="https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512#editar-usuarios">Gerenciando usuários</a>, ou criar um novo perfil de acesso que inclui o recurso seguindo as instruções do artigo <a href="https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso">Perfis de acesso</a>.
+</div>
 
 No Admin VTEX:
 

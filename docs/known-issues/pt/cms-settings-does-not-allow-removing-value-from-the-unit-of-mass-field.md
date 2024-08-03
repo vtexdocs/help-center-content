@@ -3,8 +3,8 @@ title: 'As configurações do CMS não permitem retirar valor do campo Unidade d
 id: QVmSN1VuGQUiklZDkarEI
 status: PUBLISHED
 createdAt: 2022-03-11T13:49:28.490Z
-updatedAt: 2022-11-25T22:11:28.148Z
-publishedAt: 2022-11-25T22:11:28.148Z
+updatedAt: 2024-02-16T20:28:41.042Z
+publishedAt: 2024-02-16T20:28:41.042Z
 firstPublishedAt: 2022-03-11T13:49:28.850Z
 contentType: knownIssue
 productTeam: Portal
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: as-configuracoes-do-cms-nao-permitem-retirar-valor-do-campo-unidade-de-massa
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 540756
 ---
 

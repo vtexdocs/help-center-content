@@ -3,8 +3,8 @@ title: 'Configuração da regra de Divergência de valores'
 id: awAKP0sS5J8jgLs2g7pPe
 status: PUBLISHED
 createdAt: 2021-12-03T01:24:41.194Z
-updatedAt: 2023-03-29T19:19:25.326Z
-publishedAt: 2023-03-29T19:19:25.326Z
+updatedAt: 2024-03-27T21:10:37.241Z
+publishedAt: 2024-03-27T21:10:37.241Z
 firstPublishedAt: 2021-12-03T01:31:08.666Z
 contentType: tutorial
 productTeam: Channels
@@ -17,7 +17,13 @@ subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 
 Quando o preço definido por um seller é diferente do preço oferecido pelo marketplace, pedidos realizados em marketplaces podem não ser processados corretamente. Na VTEX, o fluxo de Autorização de pedidos permite o controle e a aprovação automática desses pedidos, a partir da configuração de uma [regra de Divergência de valores](https://help.vtex.com/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW). Este artigo explica como o seller pode criar e editar uma regra de Divergência de valores, e autorizar pedidos manualmente.
 
-Quando nenhuma regra de Divergência de valores foi criada, por padrão, pedidos com divergência de preço são aprovados automaticamente. Isso vale para marketplaces VTEX, marketplaces externos, [conectores certificados (parceiros)](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro), mas não para [conectores nativos](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex). 
+Quando nenhuma regra de Divergência de preços for criada, a plataforma VTEX terá um comportamento específico para cada uma das situações abaixo:
+
+- **Pedidos criados pela interface de Marketplace:** Serão negados automaticamente.
+- **Pedidos criados via API:** Serão negados automaticamente, caso o campo `isCreatedAsync` não seja enviado.
+- **Pedidos com Divergência de preço relacionado a descontos manuais:** Serão aprovados automaticamente.
+
+Para utilizar o fluxo de Autorização de pedidos, em casos de divergência de preços é necessário enviar o campo `isCreatedAsync`  na API de [Place Fulfillment order](https://developers.vtex.com/docs/api-reference/marketplace-protocol-external-marketplace-orders#post-/api/fulfillment/pvt/orders) , independentemente do tipo de conector utilizado. Esse cenário é válido para marketplaces VTEX, marketplaces externos, [conectores certificados](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro) (parceiros), ou [conectores nativos](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex)
 
 Quando um seller está integrado a um conector nativo, como o Mercado Livre ou a B2W, mas não configurou uma regra de Divergência de valores, pedidos com erro por diferença de preço ficam pendentes até a criação da regra. É possível acompanhá-los no seu Admin VTEX, em **MARKETPLACE > Conexões > Pedidos**.
 
@@ -35,17 +41,17 @@ Para criar uma regra de Divergência de valores, siga os passos abaixo:
 
 1. No Admin VTEX, acesse **Configurações da loja > Pedidos > Autorização de pedidos**, ou digite *Autorização de pedidos* na barra de busca no topo da página.
 2. Na seção _Divergência de valores_, clique em `CRIAR REGRAS`.
-3. Na nova página, clique em `CRIAR REGRAS`. 
+3. Na nova página, clique em `CRIAR REGRAS`.
 
 Você verá a seguinte tela:
 
-![print_01_PT](https://drive.google.com/uc?export=download&id=1VzNIIRjC4RoS9LGRY5-ux8QGwdSUpuxk)
+![print_01_PT](https://images.ctfassets.net/alneenqid6w5/6lp2IKdU8VvaFgOUhHv5GA/97a35d8b97cc9bd3a9ccd7c9db67b87a/print_01_PT.png)
 
-A aba **Todas** apresenta todas as regras de autorização configuradas. 
+A aba **Todas** apresenta todas as regras de autorização configuradas.
 
 Para criar a 1ª regra de autorização, clique em **CRIAR REGRAS**. A partir disso, será possível identificar uma nova aba, chamada **1ª regra**. Clique sobre ela e opções de configuração vão aparecer.
 
-![print_02_PT](https://drive.google.com/uc?export=download&id=1O_-p1ZP4hNZSYEtf_wwv40PXTbZkAg1Y)
+![print_02_PT](https://images.ctfassets.net/alneenqid6w5/Q8TwzIWNwQPg13tcaALd6/a8a96047fce4c061362d5a22ada0d2c0/print_02_PT.png)
 
 Para configurar a **1ª regra**, você pode aumentar ou diminuir o percentual de divergência, arrastando as extremidades da barra, sendo o sinal > para definir o início do intervalo, e < para determinar até onde ele vai. O intervalo percentual escolhido pode variar de 0% a 100%.
 
@@ -59,9 +65,9 @@ Uma vez definido o intervalo da regra de autorização, selecione uma das seguin
 
 Para configurar uma hierarquia de usuários responsáveis por aprovações de pedidos, é preciso inserir mais de um email e escolher a ordenação dos usuários cadastrados. É possível alterar esses usuários a qualquer momento, ao editar a regra de autorização de pedidos. Vale ressaltar que somente um usuário com [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) Admin Super (_Owner_) ou OMS Full pode editar a regra.
 
-Para criar a **2ª regra**, clique no <img class="shadow-4" src="https://https://images.ctfassets.net/alneenqid6w5/7E2BhdEapQ5Lmm4fLRKxpp/2770eaaa5af9653a71416c2f9677eb37/__cone_regras.JPG" /> sinal de adição. Esse mesmo procedimento vale para criar uma terceira ou quarta regra, e assim por diante. Após clicar no ícone, aparece a seguinte interface:
+Para criar a **2ª regra**, clique no `<img class="shadow-4" src="https:////images.ctfassets.net/alneenqid6w5/7E2BhdEapQ5Lmm4fLRKxpp/2770eaaa5af9653a71416c2f9677eb37/__cone_regras.JPG" />` sinal de adição. Esse mesmo procedimento vale para criar uma terceira ou quarta regra, e assim por diante. Após clicar no ícone, aparece a seguinte interface:
 
-![print_03_PT](https://drive.google.com/uc?export=download&id=1TNNvnvvX8wrFTNJswOXuWQGiaPzAINET)
+![print_03_PT](https://images.ctfassets.net/alneenqid6w5/6Yxvh93ja2V69Yywn3CyWt/15b1a362d2184c3e8a09f65796ea9db2/print_03_PT.png)
 
 Configure a nova regra de autorização e, após definir todas as regras desejadas, clique no botão **SALVAR REGRAS**. Você verá a seguinte mensagem: _Após salvar, você ainda poderá editá-las ou excluí-las quando quiser_. Clique em **OK** para  confirmar. Feito isso, você terá concluído a criação da regra de Divergência de valores.
 
@@ -118,8 +124,9 @@ Para autorizar um pedido com Divergência de valores pelo VTEX DO, realize os se
 4. Clique em `Fechar`.
 5. A seguir, clique na opção `Authorize`.
 
-###  Saiba mais
+### Saiba mais
 
 - [Regra de Divergência de valores](https://help.vtex.com/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW)
 - [Todos os pedidos](https://help.vtex.com/pt/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi)
 - [Estratégias de marketplace na VTEX](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402)
+

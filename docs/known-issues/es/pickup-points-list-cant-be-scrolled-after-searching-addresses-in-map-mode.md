@@ -3,8 +3,8 @@ title: 'La lista de puntos de recogida no se puede desplazar después de buscar 
 id: 3e0JgNoWSQ0GAw8kurGrIR
 status: PUBLISHED
 createdAt: 2022-08-11T18:35:48.300Z
-updatedAt: 2022-11-25T21:50:52.987Z
-publishedAt: 2022-11-25T21:50:52.987Z
+updatedAt: 2024-07-01T18:48:32.968Z
+publishedAt: 2024-07-01T18:48:32.968Z
 firstPublishedAt: 2022-08-11T18:35:48.775Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-lista-de-puntos-de-recogida-no-se-puede-desplazar-despues-de-buscar-direcciones-en-el-modo-mapa
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 624646
 ---
 

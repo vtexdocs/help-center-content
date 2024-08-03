@@ -3,8 +3,8 @@ title: 'Configurar gateway Pagar.me'
 id: egFyDkXjfa80wkSkUWsmc
 status: PUBLISHED
 createdAt: 2018-04-10T17:54:18.410Z
-updatedAt: 2023-03-26T21:05:35.943Z
-publishedAt: 2023-03-26T21:05:35.943Z
+updatedAt: 2024-01-23T19:17:28.562Z
+publishedAt: 2024-01-23T19:17:28.562Z
 firstPublishedAt: 2018-04-10T18:10:52.337Z
 contentType: tutorial
 productTeam: Financial
@@ -19,10 +19,9 @@ Pagar.me es un [gateway](/es/tutorial/que-es-un-gateway-de-pagos) que ofrece div
 
 Para configurar Pagar.me, siga estos pasos:
 
-## Configurar la afiliación de gateway Pagar.me
-1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
-2. En la pestaña __Afiliaciones__, haga clic en el botón __+__.
-3. Haga clic en el conector __PagarMe__.
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __Pagar.me__ en la barra de búsqueda y haga clic en el nombre del proveedor.
 4. En el campo __External Service Url__, configure la URL externa que va a estar asociada a `/pvt/payments?an={AccountName}`.
 5. Rellene los campos de registro con los datos proporcionados por Pagar.me (campos __appKey__ y __appToken__).
 6. En __Implements Installments Service__, usted debe elegir si desea utilizar servicios externos de parcelación o lo que está configurado en el portal. Si elige la opción _yes_, el sistema utilizará la URL configurada en el campo __Installments Service Url__.

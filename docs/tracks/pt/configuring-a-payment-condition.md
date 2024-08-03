@@ -3,8 +3,8 @@ title: 'Configurar uma condição de pagamento'
 id: 6bzGxlz4inf8sKmvZ1c7i3
 status: PUBLISHED
 createdAt: 2019-11-26T17:47:27.426Z
-updatedAt: 2023-03-21T20:02:36.184Z
-publishedAt: 2023-03-21T20:02:36.184Z
+updatedAt: 2024-03-13T21:42:43.233Z
+publishedAt: 2024-03-13T21:42:43.233Z
 firstPublishedAt: 2019-11-26T20:43:48.321Z
 contentType: trackArticle
 productTeam: Financial
@@ -27,17 +27,18 @@ Já as condições de pagamentos são as regras que deverão ser seguidas por um
 Dito isso, podemos partir para a configuração das condições de pagamento em si.
 
 ## Configurações gerais
-Para configurar uma condição de pagamento, primeiro você precisa cadastrar uma afiliação, conforme explicado no documento [Afiliações de Gateway](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway/).
 
-O que não muda de uma condição de pagamento para outra é a necessidade de:
+Para configurar uma condição de pagamento, primeiramente você precisa cadastrar um provedor de pagamento, conforme descrito em [Cadastrar provedores de pagamento e antifraude](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444).
+
+Independente da condição de pagamento a ser escolhida, as ações abaixo sempre devem ser efetuadas:
 - Definir o nome da regra de acordo com o que ela representa, para ajudar a identificá-la;
 - Ativá-la;
-- Definir por qual afiliação de gateway essa condição será processada;
-- Definir se você vai ou não usar [antifraude](https://help.vtex.com/pt/tutorial/como-configurar-antifraude?locale=pt).
+- Definir por qual provedor de pagamento essa condição será processada;
+- Definir se você vai ou não usar [antifraude](https://help.vtex.com/pt/tutorial/como-configurar-antifraude--tutorials_446).
 
-Além disso, existe a possibilidade de definir se o pagamento será à vista ou em parcelas, com ou sem juros e [condições especiais](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456?locale=pt "condições especiais").
+Além disso, para algumas condições de pagamento pode ser necessário definir se o pagamento será à vista ou em parcelas, com ou sem juros e [condições especiais](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456).
 
-Como o meio de pagamento que permite todas essas configurações é o **Cartão de Crédito**, siga as etapas abaixo para cada uma dessas configurações.
+Como o __Cartão de Crédito__ é um meio de pagamento que permite aplicar todas essas características, veja abaixo como configurá-lo:
 
 ## À vista
 Aqui, antes de ativar a condição de pagamento, você deve verificar com o gateway ou adquirente se a bandeira ou o meio de pagamento estão disponíveis no sistema deles.
@@ -50,9 +51,9 @@ Feito isso, siga as instruções:
 4. Escolha um dos cartões de crédito como meio de pagamento.
 5. Nomeie a regra no campo **Nome da regra**.
 6. Ative a condição no campo **Status**.
-7. No campo **Processar com a afiliação**, escolha a afiliação que configurou.
+7. No campo **Processar com o provedor**, escolha o provedor configurado anteriormente.
 8. No campo **À vista ou parcelado?**, selecione a opção **À vista**.
-9. Clique no botão **Salvar**.
+9. Clique em **Salvar**.
 
 ## Parcelado
 
@@ -68,11 +69,11 @@ Vale ressaltar que o campo **Cobrança** só será levado em consideração para
 4. Escolha um dos cartões de crédito como meio de pagamento.
 5. Nomeie a regra no campo **Nome da regra**.
 6. Ative a condição no campo **Status**.
-7. No campo **Processar com a afiliação**, escolha a afiliação que configurou. 
+7. No campo **Processar com o provedor**, escolha o provedor configurado anteriormente.
 8. No campo **À vista ou parcelado?**, selecione **parcelado**.
 9. Configure o número de parcelas sequenciais ou individuais no campo **Total de parcelas**.
 10. Defina uma parcela mínima para ser aplicada conforme o valor de cada produto.
-11. Clique no botão **Salvar**.
+11. Clique em **Salvar**.
 
 ### Com juros
 Caso você decida configurar um meio de pagamento que aceite parcelas com juros, esse campo aceita valores com até duas casas decimais. Por exemplo, 1,25 ou 10,89 são valores possíveis.
@@ -83,7 +84,7 @@ Caso você decida configurar um meio de pagamento que aceite parcelas com juros,
 4. Escolha um dos cartões de crédito como meio de pagamento.
 5. Nomeie a regra no campo **Nome da regra**.
 6. Ative a condição no campo **Status**.
-7. No campo **Processar com a afiliação**, escolha a afiliação que configurou.
+7. No campo **Processar com o provedor**, escolha o provedor configurado anteriormente.
 8. No campo **À vista ou parcelado?**, selecione **parcelado**.
 9. Configure o número de parcelas sequenciais ou individuais no campo **Total de parcelas**.
 10. Defina uma parcela mínima para ser aplicada conforme o valor de cada produto.
@@ -91,19 +92,15 @@ Caso você decida configurar um meio de pagamento que aceite parcelas com juros,
 12. Clique no botão **Adicionar juros**.
 13. Digite o valor do juros que deseja aplicar a cada uma das parcelas.
 14. Clique em **Juros composto aplicado. Alterar** para escolher entre juros composto ou simples.
-15. Clique no botão **Salvar**.
+15. Clique em **Salvar**.
 
 ### Parcelamento Automático
 A opção de Parcelamento Automático permite que você configure os detalhes dos parcelamentos diretamente no provedor de pagamento (externamente ao ambiente VTEX).
-Para habilitar esta opção, selecione “Sim” no campo **Usar parcelamento externo** durante a etapa de [configuração de afiliação](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444).
+Para habilitar esta opção, selecione “Sim” no campo **Usar parcelamento externo** durante a etapa de [configuração de provedores](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444).
 
 ![parcelamentoautomatico](https://images.ctfassets.net/alneenqid6w5/3ErHSFlSGyUwbLzJWaUlXw/f05aa9a6c8ed312d82a5aa2e51b5fa03/parcelamentoautomaticobr.JPG)
 
-<div class="alert alert-warning">
-  Atualmente, somente a afiliação do MercadoPagoV1 permite a função de parcelamento automático.
-</div>
-
-Após habilitar o parcelamento automático na afiliação, siga os seguintes passos:
+Após habilitar o parcelamento automático no provedor, siga os seguintes passos:
 
 1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
 2. Clique em **Condições de pagamento**.
@@ -111,9 +108,9 @@ Após habilitar o parcelamento automático na afiliação, siga os seguintes pas
 4. Escolha um dos cartões de crédito como meio de pagamento.
 5. Nomeie a regra no campo **Nome da regra**.
 6. Ative a condição no campo **Status**.
-7. No campo **Processar com a afiliação**, escolha a afiliação que configurou.
+7. No campo **Processar com o provedor**, escolha o provedor configurado anteriormente.
 8. Se desejar utilizar um sistema antifraude, selecione a opção **Usar antifraude**.
 9. Selecione uma opção de antifraude. 
 10. No campo **À vista ou parcelado?**, selecione **Automático**.
-11. Clique no botão **Salvar**.
+11. Clique em **Salvar**.
 

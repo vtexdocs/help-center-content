@@ -3,8 +3,8 @@ title: 'Setting up payments with banQi'
 id: 41rk9E7JUmCl683MJ9p52P
 status: PUBLISHED
 createdAt: 2023-03-30T12:31:49.459Z
-updatedAt: 2023-03-30T19:51:34.281Z
-publishedAt: 2023-03-30T19:51:34.281Z
+updatedAt: 2024-01-23T18:25:15.982Z
+publishedAt: 2024-01-23T18:25:15.982Z
 firstPublishedAt: 2023-03-30T13:04:03.008Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: setting-up-payments-with-banqi
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the banQi payment provider. With this connector, your store can make sales through payment book banQi.
+At VTEX, it is possible to integrate with the banQi payment provider. With this provider, your store can make sales through payment book banQi.
 
-To configure banQi affiliation, follow the steps below:
+To configure banQi, follow the steps below:
 
-1. In the VTEX Admin, go to __Store Settings > Payments > Settings__, or type __Settings__ in the search bar at the top of the page.
-2. In the __Gateway affiliations__ tab, click on the `+` button.
-3. Click on the __banQi__ connector.
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __banQi__ in the search bar and click on the name of the provider.
 4. Fill in the __Application Key__ and __Application Token__ fields with data provided by your account banQi.
 5. If an alert message appears indicating the need to install the app, click on the `Install app` button and follow the installation instructions.
 6. Click on `Save`.

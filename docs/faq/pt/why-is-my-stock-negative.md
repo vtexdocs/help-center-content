@@ -3,8 +3,8 @@ title: 'Por que meu estoque está negativo?'
 id: frequentlyAskedQuestions_159
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:51.880Z
-updatedAt: 2023-03-22T20:34:48.834Z
-publishedAt: 2023-03-22T20:34:48.834Z
+updatedAt: 2024-04-18T14:18:13.634Z
+publishedAt: 2024-04-18T14:18:13.634Z
 firstPublishedAt: 2017-04-27T23:01:42.612Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
@@ -30,7 +30,7 @@ O fluxo correto prevê que a baixa no estoque só ocorra após o status __Prepar
 
 Para ajustar este cenário, o estoque do item deve ser atualizado com a quantidade de itens físicos no estoque. Dessa maneira, o valor dos itens em estoque deve ser a soma dos itens disponíveis mais os itens que estão reservados e que ainda não estão no status de __Preparando Entrega__. A correção pode ser feita seguindo os passos abaixo:
 
-1. No Admin VTEX, acesse __Catálogo > Estoque__, ou digite **Estoque** na barra de busca no topo da página.
+1. No Admin VTEX, acesse __Catálogo > Inventário__, ou digite **Inventário** na barra de busca no topo da página.
 2. Clique em __Gerenciamento de inventário__.
 3. Busque pelo SKU desejado e clique no resultado da busca.
 4. Na coluna __Atualizar contagem__, preencha com o valor indicado na descrição acima.

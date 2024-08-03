@@ -3,42 +3,51 @@ title: 'Configurar inicio de sesión con Facebook y Google'
 id: tutorials_513
 status: PUBLISHED
 createdAt: 2017-04-27T22:03:01.743Z
-updatedAt: 2023-02-08T14:32:57.255Z
-publishedAt: 2023-02-08T14:32:57.255Z
+updatedAt: 2023-10-20T19:35:59.221Z
+publishedAt: 2023-10-20T19:35:59.221Z
 firstPublishedAt: 2017-04-27T23:03:27.844Z
 contentType: tutorial
 productTeam: Identity
 author: authors_84
-slug: integracion-google-y-facebook-en-smartcheckout
+slug: configurar-inicio-de-sesion-con-facebook-y-google
 locale: es
 legacySlug: integracion-google-y-facebook-en-smartcheckout, configurar-login-con-facebook-y-google
 subcategory: 14V5ezEX0cewOMg0o0cYM6
 ---
 
-En VTEX, no se necesita crear una cuenta o iniciar sesión para realizar una compra. Sin embargo, si el cliente quiere efectuar alguna alteración en los datos informados durante la primera compra, debe comprobar la propiedad del correo electrónico que proporcionó.
+En VTEX, no es necesario crear una cuenta o iniciar sesión para realizar una compra. Sin embargo, si el cliente desea editar la información proporcionada en su primera compra, deberá verificar su email.
 
-De forma nativa, la plataforma ofrece opciones de inicio de sesión mediante correo electrónico y contraseña o un código de acceso enviado al correo electrónico del cliente. También ofrece integraciones nativas con Google y Facebook, que son opcionales y deben ser configuradas.
+El comportamiento nativo de la plataforma es ofrecer opciones de inicio de sesión con email y contraseña y con código de acceso al email del cliente. También ofrecemos integraciones opcionales nativas con Google y Facebook que requieren configuración. Esta guía explica los pasos para configurar los proveedores de inicio de sesión:
 
-## Realice el registro con los proveedores
+1. [Obtener credenciales de los proveedores](#obtener-credenciales-de-los-proveedores)
+2. [Configurar inicio de sesión con los proveedores](#configurar-inicio-de-sesion-con-los-proveedores)
+3. [Validar la configuración](#validar-la-configuracion)
 
-Antes de configurar nuestra integración de inicio de sesión con Google o Facebook, necesita crear credenciales de OAuth 2.0 (protocolo utilizado para la integración) en estos servicios. Para realizar esto, siga las instrucciones indicadas en los siguientes artículos: 
+## Obtener credenciales de los proveedores
 
-- [Facebook](/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook)
-- [Google](/pt/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google)
+Antes de configurar nuestra integración de inicio de sesión con Google y Facebook, se deben crear credenciales de OAuth 2.0 (protocolo para la integración) en esos servicios. Para obtenerlas, sigue las instrucciones en los artículos a continuación:
 
-## Configure en su tienda
+- [Facebook](https://help.vtex.com/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-facebook)
+- [Google](https://help.vtex.com/es/tutorial/cadastrar-client-id-e-client-secret-para-login-com-google)
 
-Después de la configuración en Facebook y/o Google, es necesario configurar la opción de inicio de sesión mediante estos proveedores en su tienda VTEX. En ambos casos, debe tener a la mano el 'Client ID' y el 'Client Secret' registrados. 
+## Configurar inicio de sesión con los proveedores
 
-1. Acceda al módulo de VTEX ID por el panel de administración de su tienda en el menú Configuración de la Cuenta > Autenticación;
-  ![Lista Autenticación](https://images.ctfassets.net/alneenqid6w5/3Bnb1ifcL7krcXEnAHzxu1/d63b5b6892d8e1dfd756e2977ea753b4/autenticacao_ES.png)
-2. Seleccione el proveedor y haga clic en **EDITAR**;
-3. Complete el formulario ingresando el `Client ID` y el `Client Secret` registrados;
-  ![Facebook OAuth ES](https://images.ctfassets.net/alneenqid6w5/2mWEocn4zdG0BJVMaujzk8/ffc13a1eb81a285feea15e78a72342b9/facebook_ES.png)
-4. Active la utilización del proveedor mediante el interruptor.  
+Después de realizar la configuración en Facebook y Google, debes configurar la opción de inicio de sesión mediante el proveedor deseado en el Admin VTEX. En ambos casos, debes tener listos el `Client ID` y el `Client Secret` proporcionados por los proveedores.
+
+1. En la barra superior del Admin VTEX, haz clic en el **avatar de tu perfil** que tiene la inicial de tu email.
+2. Haz clic en **Configuración de la cuenta > Autenticación**.
+
+  Se te redirigirá a la pestaña **Tienda virtual** de la página **Autenticación**, que lista los métodos de inicio de sesión disponibles en tu tienda.
+
+  ![Lista Autenticación](https://images.ctfassets.net/alneenqid6w5/3Bnb1ifcL7krcXEnAHzxu1/814b27712f00a7a00bcc3c717a3aee5f/autenticacao-es.png)
+3. En la fila del proveedor de inicio de sesión deseado, haz clic en `Configurar`.
+4. Rellena el formulario con el `Client ID` y el `Secreto del cliente` registrados en la [etapa anterior](#obtener-credenciales-de-los-proveedores) y haz clic en `Guardar`.
+
+  ![Facebook OAuth ES](https://images.ctfassets.net/alneenqid6w5/2mWEocn4zdG0BJVMaujzk8/e85e70614c1ff706937104c8f5ec917c/1-login-fb-es.PNG)
+5. En la página **Autenticación**, activa el uso del proveedor haciendo clic en el botón de alternancia. 
+
   ![Lista Autenticación Switch On Highlight](https://images.ctfassets.net/alneenqid6w5/4devCJpXnMWF3TV6xMDiUT/7567505995ce1af975d6b5c69159a323/switch_On_highlight_ES.png)
 
-## Valide la configuración
+## Validar la configuración
 
-Después de realizar todos los ajustes anteriores, puede probar su configuración. Recomendamos que haga esto accediendo a la URL final que sus usuarios utilizarán para ingresar a su tienda. Al intentar iniciar sesión, las opciones referentes a los proveedores activos deben estar disponibles y el proceso se debe efectuar sin ningún problema. 
-
+Después de completar la configuración en el Admin VTEX, recomendamos probar el inicio de sesión con el proveedor a través de la URL final que tus usuarios utilizarán para acceder a la tienda. Al probar el inicio de sesión, se mostrarán las opciones de los proveedores activos.

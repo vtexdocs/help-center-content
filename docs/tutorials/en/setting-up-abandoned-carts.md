@@ -3,8 +3,8 @@ title: 'Setting up Cart Abandonment (Trigger)'
 id: tutorials_740
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:05.882Z
-updatedAt: 2023-04-28T14:50:21.362Z
-publishedAt: 2023-04-28T14:50:21.362Z
+updatedAt: 2024-06-24T14:49:04.124Z
+publishedAt: 2024-06-24T14:49:04.124Z
 firstPublishedAt: 2017-04-27T23:03:41.572Z
 contentType: tutorial
 productTeam: Shopping

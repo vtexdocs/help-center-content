@@ -3,8 +3,8 @@ title: ' Cómo funciona el flete cuando la entrega es hecha por el marketplace (
 id: EY1l6tYW3IUquwwwcQqwQ
 status: PUBLISHED
 createdAt: 2017-08-28T23:17:57.225Z
-updatedAt: 2021-08-11T17:11:00.299Z
-publishedAt: 2021-08-11T17:11:00.299Z
+updatedAt: 2024-02-05T15:48:24.006Z
+publishedAt: 2024-02-05T15:48:24.006Z
 firstPublishedAt: 2017-08-29T20:09:40.790Z
 contentType: tutorial
 productTeam: Channels
@@ -23,7 +23,8 @@ Este flujo evita validaciones innecesarias del pedido, simplifica la configuraci
 
 La regla para elegir el stock que servirá al SKU siempre será de la siguiente manera:
 
-1. Mayor cantidad disponible del SKU.
+1. Memor cantidad disponible del SKU.
+    > _Para evitar que se retenga stock con pocos ítems._ 
 2. Menor tiempo de ruta entre stock y muelle.
 3. Menor precio de ruta entre stock y muelle.
 
@@ -35,7 +36,7 @@ Si el pedido tiene varias unidades de un SKU, es necesario que alguno de los sto
 
 Como la entrega será realizada por el marketplace, el OMS no traerá información del valor del flete, ya que esto quedó acordado entre el marketplace y el comprador del producto, no acarreando cargo a la tienda. La información de plazo que aparece en el pedido no es la que el marketplace informó a VTEX, sino una simulación de flete hecha en el momento de integrar el pedido.  
 
-En el lugar de las identificaciones de transportadora y tipo de entrega se presenta la información `vtex:fob_1111`, donde `1111` corresponderá al ID del stock en el que se reservó el SKU.
+En el lugar de las identificaciones de transportadora y tipo de entrega se presenta la información `vtex:fob_1111`, donde `1111` corresponderá al ID del muelle.
 
 ## API
 
@@ -53,4 +54,4 @@ Es posible acceder a la etiqueta directamente por el OMS, debajo de los ítems d
 
 ![Etiqueta de entrega por Correios (BR) - Marketplace](https://images.ctfassets.net/alneenqid6w5/3Xc7eqzjetqNwScoZxkWOK/f715c425b47359c8d8735cde8aac8377/Screen_Shot_2020-03-25_at_11.44.05.png)
 
-En el caso de que se quiera aprovechar la etiqueta dentro del ERP, esta también está disponible en la [API de Pedidos](https://developers.vtex.com/reference/orders#getorder), en el array `trackingHints` que se encuentra en el objecto `shippingData`.
+En el caso de que se quiera aprovechar la etiqueta dentro del ERP, esta también está disponible en la [Marketplace Protocol API](https://developers.vtex.com/docs/api-reference/marketplace-protocol-external-marketplace-orders#post-/api/order-integration/orders), sepa más en [New Order Integration](https://developers.vtex.com/docs/guides/external-marketplace-integration-collect-orders#scenario-12-order-with-tracking-hints).

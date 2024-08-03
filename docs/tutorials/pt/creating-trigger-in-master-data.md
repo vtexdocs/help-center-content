@@ -3,8 +3,8 @@ title: 'Criar trigger no Master Data v1'
 id: tutorials_1270
 status: PUBLISHED
 createdAt: 2017-04-27T21:56:49.666Z
-updatedAt: 2022-12-14T18:27:30.828Z
-publishedAt: 2022-12-14T18:27:30.828Z
+updatedAt: 2024-06-27T13:01:58.637Z
+publishedAt: 2024-06-27T13:01:58.637Z
 firstPublishedAt: 2017-04-27T23:03:50.015Z
 contentType: tutorial
 productTeam: Master Data
@@ -16,146 +16,158 @@ subcategory: 2nx7hMJmisofwqwy2P9l2i
 ---
 
 <div class="alert alert-info">
-Esse artigo se refere ao Master Data v1. Se você quiser utilizar o Master Data v2, veja os passos <a href="https://help.vtex.com/pt/tutorial/configurar-triggers--54eVOFGhS0EWyAUieoqKWo">deste artigo</a>.
+<p>Este artigo se refere ao Master Data v1. Se você quiser utilizar o Master Data v2, veja os passos do guia <a href="https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2">Setting up triggers in Master Data v2</a>.</p>
 </div>
 
-Conceitualmente, **trigger** é um recurso de programação que executa determinada ação sempre que um evento associado ocorrer. No Master Data, um trigger é a configuração de um ou mais disparos (eventos) quando determinada situação ocorre. Essa situação é configurada com base em diversas variáveis.
+Conceitualmente, trigger é um recurso de programação que executa uma ação específica sempre que um evento associado ocorre. No Master Data, um trigger é a configuração de um ou mais disparos (eventos) que são acionados quando uma determinada situação ocorre, baseada em diversas variáveis.
 
-Isso possibilita diversas automatizações e controle de dados, aumentando a eficiência de seu gerenciamento de dados. Ou seja, de modo simples, trigger é uma funcionalidade que permite o agendamento de ações caso uma ação de disparo aconteça.
+Isso possibilita diversas automatizações e controle de dados, aumentando a eficiência de seu gerenciamento de dados. Simplificando, um trigger é uma funcionalidade que permite agendar ações a serem realizadas quando um evento disparador ocorre.
 
-1. Uma entidade de dados contém os dados de todas as suas lojas físicas
-2. Um novo registro é inserido nessa entidade
-3. Um trigger configurado envia para todos os clientes um e-mail contando a novidade
+Por exemplo:
 
-Imagine que são feitos agendamentos de determinadas ações para, quando uma condição for atendida, essas ações sejam realizadas. Então, qualquer informação cadastrada no MasterData pode ser uma ação que dispare outras inúmeras ações, de acordo com o que for desejado. O trigger possui algumas características importantes, descritas a seguir:
+1. Uma entidade de dados contém os dados de todas as suas lojas físicas.
+2. Um novo registro é inserido nessa entidade.
+3. Um trigger configurado envia para todos os clientes um email contando a novidade.
 
-- São associados a uma entidade de dados;
-- São chamados automaticamente;
-- Não podem ser chamados diretamente;
-- Dispara diversas ações;
-- Permite a criação de cenários de recursividade;
-- Pode impactar na manipulação de dados da entidade, devido à característica anterior.
+Os triggers permitem agendar ações para serem executadas quando certas condições são atendidas. Qualquer informação cadastrada no Master Data pode desencadear inúmeras outras ações, conforme desejado.
 
-A configuração se dá por 4 partes. Cada uma delas é detalhada abaixo:
+As principais características dos triggers são:
 
-1. Configuração da ação que vai disparar o trigger. Para isso, decida qual ação deve ser seguida por outra. E, essa configuração é separada em duas partes: a **condição** do trigger e os **filtros adicionais**. A condição é a ação que dispara o trigger, um cadastro por exemplo, enquanto os filtros são as especificações que aquela ação deve atender para a ação de resposta ser executada, como o cadastro ser feito pelo formulário de newsletter e não pela finalização de compra. Neste caso, a condição do trigger seria: “Sempre que um registro for inserido” e, nos filtros adicionais, existir um campo “origem” filtrando por “newsletter”. Assim, sempre que um novo cadastrado fosse realizado, o trigger verificaria se o cliente cadastrou-se pela newsletter e, somente neste caso, realizaria a ação configurada para este fim.
-2. Tempo para o disparo. É possível configurar vários envios separados por um intervalo de tempo. Ou, mais ainda, agendar o disparo de acordo com a data de outro campo. Exemplo: existe o campo “Data de Vencimento” no cadastro de uma entidade “Produto” e é desejado que, 1 mês antes dessa data, seja enviada uma notificação por API para outro sistema. Neste caso, o tempo de disparo será “Data de Vencimento” menos 1 mês.
+- São associados a uma entidade de dados.
+- São acionados automaticamente.
+- Não podem ser chamados diretamente.
+- Disparam diversas ações.
+- Permitem a criação de cenários de recursividade.
+- Podem impactar na manipulação de dados da entidade devido à característica anterior.
 
-Ações que serão executadas caso um registro atenda à condição do trigger e aos filtros. Aqui, são configuradas todas as ações que serão executadas quando o registro que atendeu as condições também atendeu aos filtros chegou na data definida no agendamento. Essas ações podem ser envio de e-mail, de comentário, alterar outro campo e outras possibilidades, detalhadas mais abaixo. Exemplo real:
+## Estrutura de um trigger
 
-- **Condição** - O atributo Checkout for alterado;
-- **Filtro adicional** - Checkout igual Finalizado;
-- **Ações em caso positivo** - Alterar o campo Bônus (tipo score), colocando a tag bônus com valor 10 e validade 30 dias.
+Antes de [criar um trigger](#configurar-um-trigger), é necessário compreender que a configuração de um trigger se dá por quatro partes, explicadas a seguir.
 
-Nesse caso, é um cenário onde se busca fazer a pontuação de um campo a cada nova compra do cliente. Ou seja, sempre que o cliente finaliza um pedido, é somado 10 pontos no campo “Bônus”. Supondo que o bônus seja concedido quando esse campo soma 40 pontos, existe a necessidade de um outro trigger que verifique esse bônus e dê a promoção. Para isso, o segundo trigger vai associar o cliente a um cluster que já está configurado em uma promoção. Veja a configuração do segundo trigger:
+![trigger](https://images.ctfassets.net/alneenqid6w5/5WbC7SD6aPFqaOHuHWgQoq/f093dfa7ef956882313f224afe0e4dd0/trigger.png)
 
-- **Condição** - O atributo Bônus for alterado
-- **Filtro adicional** - Bônus maior ou igual 40
-- **Ações em caso positivo** - Alterar o campo ClusterBônus para verdadeiro.
+### Ação que dispara o trigger
 
-Ações que serão executadas caso um registro atenda à condição do trigger mas não atenda  aos filtros. Essa opção é exatamente o contrário da opção acima. Só será executada caso o registro que passou pela condição da trigger **não** atenda aos filtros adicionais. Exemplo real:
+Para isso, é necessário decidir qual ação deve impulsionar uma outra ação. Essa configuração é separada em duas partes:
 
-- **Condição** - Um novo registro em Cadastro Estendido for inserido
-- **Filtro adicional** - Sexo igual feminino
-- **Ações em caso positivo** - Enviar um e-mail com ofertas do departamento feminino.
-- **Ações em caso negativo** - Enviar um e-mail com ofertas do departamento masculino.
+- **Regra**: ação que dispara o trigger. Exemplo: o cadastro de um novo cliente na loja.
+- **Filtros adicionais**: condições que aquela ação deve atender para a ação de resposta ser executada, como o cadastro ser feito pelo formulário de newsletter e não pela finalização de compra. Exemplo: para acionar o trigger, o cadastro precisa ser feito pelo formulário de newsletter e não pela finalização de compra.
 
-## Como configurar
+Neste exemplo, a condição do trigger seria **Sempre que um registro for inserido** e, nos filtros adicionais, deveria existir um campo "origem" filtrando por "newsletter". Assim, sempre que um novo cadastro fosse realizado, o trigger verificaria se o cliente se cadastrou pela newsletter e, somente neste caso, realizaria a ação configurada.
 
-1. Acesse o DynamicStorage (https://*SUALOJA*.ds.vtexcrm.com.br);
-2. Clique na aba **Trigger**;
-3. Clique no botão **Novo**;
-4. Insira o Nome da trigger;
-5. Preencha um e-mail que será notificado caso ocorra algum erro na execução;
-6. Selecione a [entidade de dados](/tutorial/criando-entidade-de-dados/ "entidade de dados") que irá disparar a ação do trigger;
-7. Após selecionar a entidade de dados, surgirão os demais campos de configuração;
-8. Selecione um status para a trigger;
-9. Siga na configuração de cada uma das abas conforme abaixo:
+### Tempo para o disparo
 
-### Condições
+É possível configurar vários envios separados por um intervalo de tempo. Ou, mais ainda, agendar o disparo de acordo com a data de outro campo. Exemplo: existe o campo **Data de Vencimento** no cadastro de uma entidade **Produto** e é desejado que, 1 mês antes dessa data, seja enviada uma notificação por API para outro sistema. Neste caso, o tempo de disparo será **Data de Vencimento** menos 1 mês.
 
-Aqui, são configuradas as condições que vão disparar o(s) evento(s) configurado(s) no trigger. A maneira de fazer essa configuração é descrita da seguinte forma:
+### Ações que serão executadas caso um registro atenda à regra do trigger e aos filtros
 
-#### Condição do trigger
+Aqui, você deve configurar todas as ações que serão executadas quando o registro que atendeu às condições também atendeu aos filtros. Essas ações podem ser envio de email, pontuar um campo do tipo Score2, entre outras possibilidades, detalhadas adiante.
 
-- **Se o valor de um atributo for alterado** - significa que, quando o valor do campo que for informado abaixo for alterado, em qualquer registro, este trigger será disparado.
-Deve ser informado o campo que será filtrado. Ex.: Quando o campo “Email” for alterado o trigger deve ser disparado &#8211; informe campo “Email” no campo “Informe o atributo”.
-- **Se um evento for levantado** - Este tipo foi descontinuado.
-- **Um registro for alterado** - significa que, quando um registro for alterado, em qualquer campo, este trigger será disparado.
-- **Um registro for comentado** - significa que, quando um registro for comentado, este trigger será disparado.
-- **Um registro for inserido** - significa que, quando um registro for inserido, este trigger será disparado.
-- **Um registro for removido** - significa que, quando um registro for removido, este trigger será disparado.
+Exemplo: um cenário onde se busca fazer a pontuação de um campo a cada nova compra do cliente. Sempre que o cliente finaliza um pedido, 10 pontos são somados ao valor atual do campo **Bônus**.
+
+- **Regra**: quando o atributo Checkout for alterado.
+- **Filtro adicional**: Checkout igual Finalizado.
+- **Ações em caso positivo**: Alterar o campo Bônus (tipo Score2), colocando a tag bônus com valor 10 e validade 30 dias.
+
+### Ações que serão executadas caso um registro atenda à regra do trigger mas não atenda aos filtros
+
+Nesta configuração, você deve definir ações que serão executadas somente se o registro que passou pela condição da trigger **não** atender aos filtros adicionais. Exemplo:
+
+- **Regra**: um novo registro em Cadastro Estendido for inserido.
+- **Filtro adicional**: Gênero igual feminino.
+- **Ações em caso positivo**: Enviar um email com ofertas do departamento feminino.
+- **Ações em caso negativo**: Enviar um email com ofertas do departamento masculino.
+
+## Configurar trigger
+
+Siga as instruções a seguir para criar um trigger no Master Data v1:
+
+1. Acesse o Master Data em `https://{nomedaconta}.ds.vtexcrm.com.br/`, substituindo `{nomedaconta}` pelo nome da sua conta VTEX.
+2. Clique na aba **Ativação**.
+3. Clique no botão `Adicionar`.
+4. Insira o **Nome** do trigger.
+5. Selecione a [entidade de dados](https://help.vtex.com/pt/tutorial/entidade-de-dados--tutorials_1265/ "entidade de dados") que irá disparar a ação do trigger.
+
+   Após selecionar a entidade de dados, surgirão os demais campos de configuração.
+7. Selecione um status para o trigger, que pode ser **Ativo** ou **Desativado**.
+8. Realize as configurações em cada uma das abas, conforme as seções:
+
+    - [Regras](#regras)
+    - [Agendar](#agendar)
+    - [Se positivo](#se-positivo)
+    - [Se negativo](#se-negativo)
+
+9. Clique em `Salvar`.   
+
+### Regras
+
+Aqui, você deve definir as condições que vão disparar o(s) evento(s) configurado(s) no trigger.
+
+#### Regra de ativação
+
+- **O valor de um atributo é alterado**: quando o valor do campo que for informado abaixo for alterado, em qualquer registro, o trigger será disparado.
+
+   Na opção **Campo**, selecione o campo que será utilizado. Exemplo: se quando o campo **Email** for alterado, o trigger deva ser disparado, selecione o campo **Email**.
+
+- **Um atributo de filtro é alterado**: quando um atributo de filtro for alterado, o trigger será disparado.
+- **Um registro é alterado**: quando um registro for alterado, em qualquer campo, o trigger será disparado.
+- **Um registro é inserido**: quando um registro for inserido, o trigger será disparado.
+- **Um registro é removido**: quando um registro for removido, o trigger será disparado.
 
 #### Filtro adicional
 
-**Adicionar grupo** - cria grupos que contém filtros. Cada um desses grupos pode se relacionar com os demais, formando camadas mais complexas de filtro.
-![relacaoGrupos](//images.contentful.com/alneenqid6w5/6n2ipjsapUYyG8quIucIke/1b789ceed1f6ea993096f0d3c857b114/relacaoGrupos.png)
+- **Adicionar grupo**: cria grupos que contém filtros. Cada um desses grupos pode se relacionar com os demais, formando camadas mais complexas de filtro.
+- **Adicionar filtro**: é possível criar um filtro dentro do último grupo criado ou de maneira independente de grupos. Um filtro sempre interage com os demais, no modelo de conjunto, sendo as opções "E" e "OU" para cada um deles.
 
-**Incluir filtro** - é possível criar dentro do último grupo criado ou sem a necessidade de grupos. Um filtro sempre interage com os demais, no modelo de conjunto, sendo as opções “E” e “OU” para cada um deles.
-Deve-se selecionar quais são os campos e quais os valores aceitos ou não para que o trigger seja disparado.
-![filtroTrigger](//images.contentful.com/alneenqid6w5/go7XW0mqWsuA4ygwYsoMS/cf6c5ef321a8d39e16a09d30c2ca1245/filtroTrigger.png)
+   Selecione quais são os campos e quais os valores aceitos ou não para que o trigger seja disparado.
+
+   ![filters-pt](https://images.ctfassets.net/alneenqid6w5/go7XW0mqWsuA4ygwYsoMS/34cbeea173c7f4944ee87c22eb406c02/filters-pt.png)
 
 <div class="alert alert-info">
-O Master Data v1 não permite configuração de retentativas de trigger, diferente do Master Data v2.
+  <p>O Master Data v1 não permite configuração de retentativas de trigger, diferente do Master Data v2.</p>
 </div>
 
-### Agendamento
+### Agendar
 
-Aqui, é configurado quando o trigger deve ser disparado. Pode ser imediatamente, com a opção “Executar o mais rápido possível”, agendamento com uma data no calendário com  “Agendar para uma data específica” ou um valor no futuro, partindo da data atual ou da data de algum campo de data, podendo utilizar minutos, horas, dias, mês e anos com a opção “Agendar execução para uma data dinâmica”.
+Esta aba permite configurar quando o trigger deve ser disparado:
 
-### Ações em caso positivo
+- **Executar o mais rápido possível:** imediatamente.
+- **Agendar em uma data específica:** agendamento com uma data e hora no calendário.
+- **Agendar em uma data dinâmica:** definição de uma data no futuro, partindo da data atual ou da data de algum campo de data, podendo utilizar minutos, horas, dias, mês e anos.
 
-Serão configurados os eventos a serem disparados caso o registro que desencadeou o evento passe por todos os filtros adicionais.
+### Se positivo
 
-#### Alterar um atributo
+Nesta aba, você deve configurar os eventos a serem disparados caso o registro que desencadeou o evento passe por todos os filtros adicionais.
 
-Esta ação altera um campo do registro que disparou a trigger. Deve ser informado qual o campo (atributo) deve ser alterado assim como qual a fórmula deve ser utilizada. O campo “Expressões dinâmica” exibe quais são os valores que devem ser inseridos na fórmula caso queira se usar valores contidos em campos do registro ou dos registros relacionados (se possuir). Entende-se como fórmula um código em C# que retorne algum valor do mesmo tipo definido na entidade de dados para o campo.
-![fórmula](//images.contentful.com/alneenqid6w5/F3qRfRkScKWAYoCas4GCe/36f27cb6e71425b80340e1221251d3d2/f_C3_B3rmula-1.png)
+#### Enviar um email
 
-O botão validar vai compilar o código no campo fórmula para verificar se está ou não válido e mostrará qual o valor que será retornado para o campo.
-![validacaoFormula](//images.contentful.com/alneenqid6w5/3Fjh4Q1hVCqkY0yAmMSmOM/67564a371055792fd5c0f40efed7670b/validacaoFormula.png)
+Envia um email para destinatários dinâmicos (contidos no registro) ou estáticos. O email a ser enviado é  personalizado, podendo ser um texto, HTML ou até mesmo o conteúdo de uma URL. É possível inserir anexos e o campo **Tags válidas** mostra como inserir valores de campos do registro.
 
-#### Incluir um comentário
+![send-email-pt](https://images.ctfassets.net/alneenqid6w5/KsQUtktQoECEMiKEY6EU8/9467386aa32cf4f3338e8d33f9a68fef/send-email-pt.png)
 
-Inclui um comentário no registro que disparou o trigger. Deve-se digitar o comentário que será inserido.
+#### Enviar um email usando um modelo do VTEX Message Center
 
-#### Enviar email
+Envia um email utilizando um template existente no Message Center.
 
-Envia um e-mail para destinatários dinâmicos (contidos no registro) ou fixos. O E-mail a ser enviado é todo personalizado, podendo ser um texto, HTML ou até mesmo o conteúdo de uma URL. É possível inserir anexos e, o campo tag válidas, mostra como inserir valores de campos do registro.
-![email](//images.contentful.com/alneenqid6w5/KsQUtktQoECEMiKEY6EU8/89d9d75e4cfdb2fd539dece5a542f8ce/email.png)
+#### Adicionar pontuação ao campo Pontuação2
 
-#### Pontuar campo Score
+Um campo do tipo Pontuação2 ou Score2 é um tipo especial de dado que guarda 3 informações: Chave, Pontos e Validade. Você pode definir um valor para cada um desses pontos e salvar em um campo desse tipo.
 
-Um campo score é um tipo especial de dado que guarda 3 informações: Chave, Pontos e Validade. Você pode definir um valor para cada um desses pontos e salvar em um campo do tipo Score. 
+#### Enviar uma solicitação HTTP
 
-#### Gerar um QRCode
+Envia uma requisição HTTP com a possibilidade de salvar informações da resposta no Master Data.
 
-Gera um QRCode com o conteúdo inserido. Este QRCode deve ser inserido em algum campo do tipo “file” do registro.
+Preencha a seção **Informações da solicitação** com as informações da requisição a ser enviada. Na seção **Ação de resposta**, você poderá indicar como as informações da resposta deverão ser salvas no Master Data.
 
-Podem ser configurados mais de uma ação, porém, é recomendado até 3 ações por trigger. Configure as ações conforme a prioridade, pois, caso haja algum erro na configuração de um evento, todos os eventos abaixo dele não serão disparados.
+![http-request-pt](https://images.ctfassets.net/alneenqid6w5/5uIXuDHBecTzuJxi0mnjWv/7bbe43cc3c3e54a23ba82dca1e21ef19/http-request-pt.png)
 
-#### Envie requisição HTTP
+Para configurar a **Ação de resposta**, selecione a entidade de dados desejada e defina, para cada campo a ser salvo, o caminho JSON correspondente na resposta.
 
-Envie uma requisição HTTP com a possibilidade de salvar informações da resposta no Master Data.
+### Se negativo
 
-Preencha a seção **Request data** com as informações da requisição a ser enviada. Na seção **Response action** você poderá indicar como as informações da resposta deverão ser salvas no Master Data.
-
-![Master Data v1 enviar requisição http screenshot](https://images.ctfassets.net/alneenqid6w5/5uIXuDHBecTzuJxi0mnjWv/07197eb9ba3d6a3c298a8e27f6392c13/mdv1_trigger_http_request.PNG)
-
-Para configurar a **Response action** selecione a entidade de dados desejada e defina, para cada campo a ser salvo, o caminho JSON correspondente na resposta.
-
-### Ações em caso negativo
-
-Serão feitos os disparos de eventos para quando o registro não passar pelos filtros adicionais do trigger. Podem ser configurados os mesmos eventos das “Ações em caso positivo”.
-
-<!--
-## Exemplo
-
-Veja o vídeo a seguir com a configuração do seguinte cenário: Envio de um e-mail de Boas Vindas para cada novo cliente da loja. A não ser que o cliente faça parte de um cluster. Neste caso, a abordagem de boas vindas será feito por telefone, portanto, clientes do cluster “Cluster 1” não devem receber o e-mail.
-
-<iframe width="840" height="473" src="https://www.youtube.com/embed/A6UrxcYIq5E?feature=oembed" frameborder="0" allowfullscreen></iframe>
--->
+Serão feitos os disparos de eventos para quando o registro não passar pelos filtros adicionais do trigger. Podem ser configurados os mesmos eventos das [ações em caso positivo](#se-positivo).
 
 ## Exemplos
 
 - [Configurar Carrinho Abandonado](https://help.vtex.com/pt/tutorial/configurando-carrinho-abandonado--tutorials_740)
+

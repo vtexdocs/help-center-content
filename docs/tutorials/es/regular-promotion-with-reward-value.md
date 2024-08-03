@@ -85,9 +85,9 @@ Cuando un cliente realiza un pedido apto para obtener crédito por fidelidad, pu
 
 En la sección **Ventas y marketing**, aparece el nombre de la promoción que se aplicó al pedido:
 
-<img class="db center mv9 shadow-4 pointer" src="https:https://images.ctfassets.net/alneenqid6w5/1LpXT5YXqbsjb02eAQUsfg/3a84036866c5ed37f964e79a36f8bcd4/detalhes-oms-es.png" alt="detalles-del-pedido" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Detalles del pedido</em></figcaption></figure>
+<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/1LpXT5YXqbsjb02eAQUsfg/3a84036866c5ed37f964e79a36f8bcd4/detalhes-oms-es.png" alt="detalles-del-pedido" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Detalles del pedido</em></figcaption></figure>
 
-<img class="db center mv9 shadow-4 pointer" src="https:https://images.ctfassets.net/alneenqid6w5/2mriJhUbQbqrrUSbp7tjaC/35b752b315cc8578199647fe535677fa/detalhes-neworders-en__1_.png" alt="detalles-del-pedido-beta" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Detalles del pedido (Beta)</em></figcaption></figure>
+<img class="db center mv9 shadow-4 pointer" src="https://images.ctfassets.net/alneenqid6w5/2mriJhUbQbqrrUSbp7tjaC/35b752b315cc8578199647fe535677fa/detalhes-neworders-en__1_.png" alt="detalles-del-pedido-beta" style="margin-bottom: 20px;"> <figcaption align = "center"><em>Detalles del pedido (Beta)</em></figcaption></figure>
 
 En la sección **Flujo del pedido**, puedes verificar el valor de fidelidad otorgado:
 

@@ -1,10 +1,10 @@
 ---
 title: 'Marketplace Network: encontre marketplaces e sellers no ecossistema VTEX'
 id: 2bzC7tXlVgLEEjxo4ixcAM
-status: PUBLISHED
+status: DRAFT
 createdAt: 2020-09-14T22:21:50.677Z
-updatedAt: 2022-04-07T14:44:29.576Z
-publishedAt: 2022-04-07T14:44:29.576Z
+updatedAt: 2023-07-19T21:34:02.498Z
+publishedAt: 
 firstPublishedAt: 2020-09-14T23:03:21.356Z
 contentType: tutorial
 productTeam: Apps

@@ -1,10 +1,10 @@
 ---
 title: 'Requisições com paginação na API de busca vão mudar'
 id: 3UZR4qoAisiqE6kmuuYEAc
-status: CHANGED
+status: PUBLISHED
 createdAt: 2018-01-24T14:11:26.225Z
-updatedAt: 2020-11-27T19:40:17.179Z
-publishedAt: 2020-05-11T18:53:36.826Z
+updatedAt: 2023-12-15T13:03:53.872Z
+publishedAt: 2023-12-15T13:03:53.872Z
 contentType: updates
 productTeam: Identity
 author: authors_24
@@ -32,5 +32,5 @@ Essa mudança já foi implementada na API, mas até a data limite, ainda será p
 - Também há um limite de 2500 itens para uma busca. Por isso, não é possível adicionar um valor maior que 2500 ao parâmetro <b>_to</b>.<br>
 </div>
 
-Para saber todos os detalhes do funcionamento das requisições de paginação na API de busca, acesse este [documento](https://developers.vtex.com/reference/search-api-overview).
+Para saber todos os detalhes do funcionamento das requisições de paginação na API de busca, acesse este [documento](https://developers.vtex.com/docs/api-reference/search-api).
 

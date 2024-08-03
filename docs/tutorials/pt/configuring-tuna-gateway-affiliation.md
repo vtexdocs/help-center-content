@@ -3,8 +3,8 @@ title: 'Configurar a afiliação de gateway Tuna'
 id: 5Db0j4pE76ma9pUvYuAhfF
 status: PUBLISHED
 createdAt: 2021-07-07T14:47:34.162Z
-updatedAt: 2023-03-26T21:51:52.610Z
-publishedAt: 2023-03-26T21:51:52.610Z
+updatedAt: 2024-01-23T21:47:01.684Z
+publishedAt: 2024-01-23T21:47:01.684Z
 firstPublishedAt: 2021-07-07T14:57:45.358Z
 contentType: tutorial
 productTeam: Financial
@@ -15,7 +15,7 @@ legacySlug: configurar-a-afiliacao-de-gateway-tuna
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, você pode configurar a sua loja com a afiliação de gateway Tuna para receber pagamentos por meio de: boleto, cartões de débito, crédito, PIX e Bitcoin.
+Na VTEX, você pode configurar a sua loja com o gateway Tuna para receber pagamentos por meio de: boleto, cartões de débito, crédito, PIX e Bitcoin.
 
 <div class="alert alert-warning">
   A integração da sua loja com a Tuna é feita por meio de uma <b>Application Key</b> e <b>Application Token.</b> Os dados de acesso para obter essas informações e permitir as configurações na VTEX serão enviados após a criação da sua conta. Para isso, preencha <a href="https://docs.google.com/forms/d/e/1FAIpQLScWk5fsmkIfGaW2Z6qhdGH-JJ5iU6Fv5TGghUR1Pod5dY5Z2Q/viewform">este formulário</a> e aguarde o retorno da Tuna com mais detalhes.
@@ -23,9 +23,9 @@ Na VTEX, você pode configurar a sua loja com a afiliação de gateway Tuna para
 
 Após ter criado sua conta e obtido as __Application Key__ e __Token__, siga as etapas abaixo para configurar a Tuna na sua loja:
 
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão __+__.
-3. Clique no conector __Tuna__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __Tuna__ na barra de busca e clique sobre o nome do provedor.
 4. Preencha os campos __Application Key__ e __Application Token__ com as informações da sua conta Tuna.
 5. Em __Captura Automática de Pagamento__, selecione uma das opções disponíveis:
 

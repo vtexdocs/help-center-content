@@ -3,8 +3,8 @@ title: 'Como faturar um pedido'
 id: 7p1h852V5t54KyscpgxE2v
 status: PUBLISHED
 createdAt: 2020-12-28T20:50:42.445Z
-updatedAt: 2023-05-31T14:44:54.458Z
-publishedAt: 2023-05-31T14:44:54.458Z
+updatedAt: 2024-04-01T17:55:58.671Z
+publishedAt: 2024-04-01T17:55:58.671Z
 firstPublishedAt: 2020-12-28T21:01:55.107Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -21,7 +21,7 @@ Faturar o pedido na plataforma VTEX significa inserir a nota fiscal dos itens no
 
 É preciso faturar o pedido para que a nota fiscal fique disponível para o cliente e o [fluxo do pedido](https://help.vtex.com/pt/tutorial/fluxo-de-pedido--tutorials_196) chegue ao fim. O envio da fatura pode ser feito:
 
-* Via [API](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice) de envio de fatura
+* Via [API](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice) de envio de fatura.
 * Via Admin VTEX.
 
 <div class = "alert alert-info">
@@ -68,3 +68,4 @@ Depois do pedido `Faturado`, confira as notas fiscais inseridas na seção **Fat
 
 Em casos de envios de [faturas parciais](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), ao [alterar ou remover itens](https://help.vtex.com/pt/tutorial/how-to-change-order-items--7jekq618QxgbsOxKkXBjE8) de um pedido, o valor total do pedido será atualizado após o faturamento, e corresponde ao que é captado pelo gateway de pagamentos da VTEX.
 
+Não é possível [cancelar pedidos](https://help.vtex.com/pt/tutorial/como-cancelar-pedido--tutorials_186) que já tenham sido [faturados parcialmente](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).

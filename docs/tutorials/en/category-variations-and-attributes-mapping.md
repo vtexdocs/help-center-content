@@ -25,7 +25,7 @@ With this feature, you can categorize your products in Mercado Livre and also cr
 
 The mapping will only be done once for each category. This means that once you have done the mapping, new products will be integrated directly into the correct category (and their variations and attributes).
 
-- [Download here](//assets.ctfassets.net/alneenqid6w5/qyDp7OSL5YAGaGKagWiK0/07900f41a952a460185e18f9db190eb1/Planilha_de_Mapeamento_do_Mercado_Livre.xlsx) the __Mercado Livre Mapping Spreadsheet__ in the format `.xlsx`.
+- [Download here](https://assets.ctfassets.net/alneenqid6w5/qyDp7OSL5YAGaGKagWiK0/07900f41a952a460185e18f9db190eb1/Planilha_de_Mapeamento_do_Mercado_Livre.xlsx) the __Mercado Livre Mapping Spreadsheet__ in the format `.xlsx`.
 
 The same spreadsheet will be used in the three steps described below (categorization, variations and attributes). Follow the step by step, filling in the fields of the mapping spreadsheet as follows.
 
@@ -34,7 +34,7 @@ The same spreadsheet will be used in the three steps described below (categoriza
 Here we will do the correspondence between your categories in VTEX with those used by Mercado Livre.
 
 1. __CategoryId:__ it is the category ID in VTEX. You can find it next to the name of each category as you expand the categories tree.
-2. __MeliCategoryId:__ it is the category ID in Mercado Livre. [Click here](//assets.ctfassets.net/alneenqid6w5/4IGh23L6buEm8s8IWYwISS/f8f1e862f39f8f0052b1b60a696aadd6/MercadoLivre_CategoriasFixas.xlsx) to download the worksheet where these values are available. If you prefer, access this [Mercado Livre API](https://api.mercadolibre.com/sites/MLB/categories) to query the categories, which are always updated there.
+2. __MeliCategoryId:__ it is the category ID in Mercado Livre. [Click here](https://assets.ctfassets.net/alneenqid6w5/4IGh23L6buEm8s8IWYwISS/f8f1e862f39f8f0052b1b60a696aadd6/MercadoLivre_CategoriasFixas.xlsx) to download the worksheet where these values are available. If you prefer, access this [Mercado Livre API](https://api.mercadolibre.com/sites/MLB/categories) to query the categories, which are always updated there.
 
 >_`Ex:` you have the following tree in __VTEX __:_
 
@@ -64,7 +64,7 @@ In Mercado Livre, there are two types of variation: the __mandatory__ ones and t
 
 - Mandatory Variations
 
-If your product is a `Footwear`, `Clothing`, `Bag`, `Belt` or `Home Appliance`, __you will need to map the required variations__. Their name must follow exactly the values accepted by the marketplace. [Download here](//assets.ctfassets.net/alneenqid6w5/5nLnBUVonS8qgWqqeck4MQ/d338d66ed72d2183802c546e88ce1f3e/Planilha_de_Variac__o__es_do_Mercado_Livre.xlsx) the __Mercado Livre Variations Spreadsheet__ to check the accepted values according to each type of product.
+If your product is a `Footwear`, `Clothing`, `Bag`, `Belt` or `Home Appliance`, __you will need to map the required variations__. Their name must follow exactly the values accepted by the marketplace. [Download here](https://assets.ctfassets.net/alneenqid6w5/5nLnBUVonS8qgWqqeck4MQ/d338d66ed72d2183802c546e88ce1f3e/Planilha_de_Variac__o__es_do_Mercado_Livre.xlsx) the __Mercado Livre Variations Spreadsheet__ to check the accepted values according to each type of product.
 
 - Customizable Variations
 

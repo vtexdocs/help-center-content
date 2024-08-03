@@ -3,8 +3,8 @@ title: 'Como a reserva funciona'
 id: tutorials_92
 status: PUBLISHED
 createdAt: 2017-04-27T22:19:56.753Z
-updatedAt: 2023-04-28T22:58:58.294Z
-publishedAt: 2023-04-28T22:58:58.294Z
+updatedAt: 2023-10-18T17:20:21.911Z
+publishedAt: 2023-10-18T17:20:21.911Z
 firstPublishedAt: 2017-04-27T23:00:42.751Z
 contentType: tutorial
 productTeam: Post-purchase

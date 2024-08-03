@@ -75,7 +75,7 @@ Always contains the name and surname of the customer who made the purchase, even
 
 Shows how many different products the order contains (without taking into account the quantity of each item purchased). Moving the mouse makes it possible to see which products were purchased.
 
-![oms produtos do pedido](//images.contentful.com/alneenqid6w5/4fTIEf2ywwc2U2IuwSkg8U/82b81b00387db8959cf18ae392e5e1f0/oms-produtos-do-pedido.png)
+![oms produtos do pedido](https://images.contentful.com/alneenqid6w5/4fTIEf2ywwc2U2IuwSkg8U/82b81b00387db8959cf18ae392e5e1f0/oms-produtos-do-pedido.png)
 
 ## Amount
 

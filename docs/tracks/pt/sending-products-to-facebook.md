@@ -3,8 +3,8 @@ title: 'Envio de produtos para o Facebook'
 id: 41qzoa7TWIYTyIhABHdgzI
 status: PUBLISHED
 createdAt: 2021-02-08T19:45:07.202Z
-updatedAt: 2021-07-09T22:04:10.786Z
-publishedAt: 2021-07-09T22:04:10.786Z
+updatedAt: 2024-01-22T15:03:37.861Z
+publishedAt: 2024-01-22T15:03:37.861Z
 firstPublishedAt: 2021-02-08T20:10:14.152Z
 contentType: trackArticle
 productTeam: Channels
@@ -89,12 +89,12 @@ Veja um exemplo de planilha preenchida:
 O terceiro e último passo para concluir o mapeamento é fazer o upload da planilha preenchida. Esta ação é realizada no Admin, através dos seguintes passos:
 
 1. Acesse o Admin.
-2. No módulo _MARKETPLACE_, clique em `Integrações`.
-3. Selecione a opção `Configurações`.
-4. No card do Facebook, clique na <i class="fas fa-cog"></i>
-5. Escolha a opção `Upload de mapeamento`.
-6. Clique em `Escolher um arquivo`.
-7. Selecione a planilha de mapeamento preenchida.
-8. Clique em `Enviar arquivo`.
+2. No módulo Marketplace, clique em Marketplace e integrações.
+4. Procure Facebook na barra de busca.
+5. Clique em `Editar`
+6. Escolha a opção `Mapeamento de categorias`.
+7. Clique em `Escolher um arquivo`.
+8. Selecione a planilha de mapeamento preenchida.
+9. Clique em `Enviar arquivo`.
 
 Feito isso, você terá concluído o mapeamento de categorias e atributos dos seus produtos. O tempo para isso se refletir no Facebook vai depender da extensão do seu catálogo.

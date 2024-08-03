@@ -1,10 +1,10 @@
 ---
-title: 'Configurar registro de la integración de la Via'
+title: 'Configurar registro de la integración de la Casas Bahia Marketplace'
 id: 1okse2MybWk04AQoueu88O
 status: PUBLISHED
 createdAt: 2018-09-24T18:45:21.544Z
-updatedAt: 2022-02-07T21:16:28.792Z
-publishedAt: 2022-02-07T21:16:28.792Z
+updatedAt: 2024-07-02T19:20:54.448Z
+publishedAt: 2024-07-02T19:20:54.448Z
 firstPublishedAt: 2018-09-27T22:12:25.372Z
 contentType: trackArticle
 productTeam: Channels

@@ -1,10 +1,10 @@
 ---
 title: 'Información de pagos personalizados de Argentina'
 id: jvDroisg0wu0sQMAW4qAs
-status: PUBLISHED
+status: DRAFT
 createdAt: 2019-01-24T20:45:37.320Z
-updatedAt: 2019-12-31T15:27:50.416Z
-publishedAt: 2019-12-31T15:27:50.416Z
+updatedAt: 2024-03-19T12:11:44.590Z
+publishedAt: 
 firstPublishedAt: 2019-01-24T22:14:28.069Z
 contentType: tutorial
 productTeam: Financial

@@ -1,18 +1,18 @@
 ---
-title: 'Os campos na configuração do OrderForm são atualizados para zero quando há qualquer mudança nas configurações de gerenciamento de pedidos'
+title: 'Os campos na configuração do orderForm são atualizados para nulos quando há alguma alteração nas configurações do Order Management.'
 id: jKGnwUGdfmCXtKjGPe6hj
 status: PUBLISHED
 createdAt: 2023-02-06T21:00:09.224Z
-updatedAt: 2023-04-03T14:22:00.794Z
-publishedAt: 2023-04-03T14:22:00.794Z
+updatedAt: 2024-05-09T12:44:51.823Z
+publishedAt: 2024-05-09T12:44:51.823Z
 firstPublishedAt: 2023-02-06T21:00:09.753Z
 contentType: knownIssue
-productTeam: Checkout
+productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
-tag: Checkout
-slug: os-campos-na-configuracao-do-orderform-sao-atualizados-para-zero-quando-ha-qualquer-mudanca-nas-configuracoes-de-gerenciamento-de-pedidos
+tag: Order Management
+slug: os-campos-na-configuracao-do-orderform-sao-atualizados-para-nulos-quando-ha-alguma-alteracao-nas-configuracoes-do-order-management
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 748404
 ---
 
@@ -23,26 +23,20 @@ internalReference: 748404
 </div>
 
 
-Ao atualizar qualquer informação nas Configurações de Gerenciamento de Pedidos (na administração), os campos "Sistema de PagamentoPagarPrimeiro Pedido" e "Sistema de PagamentoPagarPagarPadrãoAplicarNo Formulário de Pedido/Usuário" são configurados como "nulo" na Configuração do Formulário de Pedido
-
-
-##
+Ao atualizar qualquer informação nas configurações de gerenciamento de pedidos (no administrador), os campos `paymentSystemToCheckFirstInstallment` e `defaultPaymentSystemToApplyOnUserOrderForm` são definidos como `null` na configuração do formulário de pedido
 
 ## Simulação
 
 
 
-- Configurar os campos `paymentSystemToCheckFirstInstallment' e `defaultPaymentSystemToApplyOnUserOrderOrderForm' na ordemForm de configuração via API
+- Configure os campos `paymentSystemToCheckFirstInstallment` e `defaultPaymentSystemToApplyOnUserOrderForm` na configuração do orderForm via API
 - Alterar qualquer coisa nas configurações de gerenciamento de pedidos (admin)
-- Quando você fizer o pedidoFormar configuração, você verá esses campos como 'nulos'.
-
-
-##
+- Ao obter a configuração do orderForm, você verá esses campos como "nulos"
 
 ## Workaround
 
 
-Salvar a configuração do OrderForm com os valores corretos para os campos `paymentSystemToCheckFirstInstallment' e `defaultPaymentSystemToApplyOnUserOrderOrderForm' após a mudança nas configurações de gerenciamento de pedidos
+Salve a configuração do orderForm com os valores corretos para os campos `paymentSystemToCheckFirstInstallment` e `defaultPaymentSystemToApplyOnUserOrderForm` após a alteração nas configurações do Order Management
 
 
 

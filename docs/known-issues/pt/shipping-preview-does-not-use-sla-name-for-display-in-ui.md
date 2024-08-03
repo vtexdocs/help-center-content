@@ -3,8 +3,8 @@ title: 'A visualização prévia da expedição não usa o nome SLA para exibiç
 id: 6v7vh0CSUfpiF04brZ0bgb
 status: PUBLISHED
 createdAt: 2022-05-06T20:46:38.910Z
-updatedAt: 2022-11-25T21:52:23.344Z
-publishedAt: 2022-11-25T21:52:23.344Z
+updatedAt: 2024-02-16T20:25:44.430Z
+publishedAt: 2024-02-16T20:25:44.430Z
 firstPublishedAt: 2022-05-06T20:46:39.731Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: a-visualizacao-previa-da-expedicao-nao-usa-o-nome-sla-para-exibicao-na-interface-de-usuario
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 574651
 ---
 

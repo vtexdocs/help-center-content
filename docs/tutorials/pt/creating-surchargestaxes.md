@@ -3,8 +3,8 @@ title: 'Criar taxa/imposto'
 id: tutorials_321
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:49.745Z
-updatedAt: 2023-03-31T16:53:05.461Z
-publishedAt: 2023-03-31T16:53:05.461Z
+updatedAt: 2023-10-26T13:20:22.531Z
+publishedAt: 2023-10-26T13:20:22.531Z
 firstPublishedAt: 2017-04-27T23:03:14.603Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -17,7 +17,7 @@ subcategory: 18Gsips3u48UYCu0Ku2sWm
 
 Taxa é o contrário de promoção, ou seja, é um adicional percentual inserido no preço do produto, visando aumentar o valor. A taxa pode ser configurada considerando diversos tipos de condições, como faixa de CEP, departamento e marca dos produtos, cluster de cliente etc. A taxa é inserida somente no carrinho, na área denominada **Imposto**.
 
-A taxa é aplicada conforme o cadastro que é feito no seller. Então se no carrinho da sua loja tem um produto de outro seller, a taxa a ser aplicada nesse produto, será aquela que estiver cadastrada no admin do seller que é o dono do produto. Não será considerada a taxa cadastrada no módulo de Pricing do marketplace, ainda que essa taxa esteja associada a esse produto.
+A taxa é aplicada conforme o cadastro que é feito no seller. Então se no carrinho da sua loja tem um produto de outro seller, a taxa a ser aplicada a esse produto, será aquela que estiver cadastrada no Admin do seller dono do produto. Não será considerada a taxa cadastrada no módulo de Preço do marketplace, ainda que essa taxa esteja associada a esse produto.
 
 ## Como criar
 
@@ -30,28 +30,30 @@ A taxa é aplicada conforme o cadastro que é feito no seller. Então se no car
 
 ### Quais os dados gerais desta taxa?
 
-- **Nome**: Nome da taxa.
-- **Status**: Ativa ou Inativa a taxa.
-- **Descrição**: Descrição interna da taxa. O objetivo desse campo é que seja usado para comunicação interna na sua loja, a fim de deixar claro se a taxa é devido à alguma regra especial, por exemplo.
-- **Validade**: Data e hora de início e de fim da taxa. Pode ser usada uma data e/ou horário futuros, para que a taxa comece a ser aplicada no site. Caso seja configurada dessa forma, a taxa terá o status de agendada até que a data e horário sejam atingidos. Enquanto a taxa estiver válida, esta terá o status de ativa e ao término da data e hora definidos, o status será alterado para inativo automaticamente.
+- **Nome**: nome da taxa.
+- **Status**: ativa ou Inativa a taxa.
+- **Descrição**: descrição interna da taxa. O objetivo desse campo é que seja usado para comunicação interna na sua loja, a fim de deixar claro se a taxa é devido a alguma regra especial, por exemplo.
+- **Validade**: data e hora de início e de fim da taxa. Pode ser usada uma data e/ou horário futuros, para que a taxa comece a ser aplicada no site. Caso seja configurada dessa forma, a taxa terá o status de agendada até que a data e horário sejam atingidos. Enquanto a taxa estiver válida, esta terá o status de ativa e ao término da data e hora definidos, o status será alterado para inativo automaticamente.
 - **Qual o tipo e valor da Taxa?**:
-  - **Taxa Percentual**: Percentual sobre o valor do produto que será adicionado ao valor.
-  - **Taxa com base em fórmula**: Taxa seguirá o cálculo inserido no campo.
-  - **Taxa percentual sobre frete**: Acréscimo percentual em cima do valor do frete.
-- **Política Comercial**: Selecione as políticas comerciais onde a taxa será aplicada.
+  - **Taxa Percentual**: percentual sobre o valor do produto que será adicionado ao valor dele.
+  - **Taxa com base em fórmula**: esta taxa seguirá o cálculo inserido no campo.
+  - **Taxa percentual sobre frete**: acréscimo percentual em cima do valor do frete.
+  - **Taxa Nominal**: imposto adicional com valor predefinido.
 
-### Em quais itens esta taxa será aplicada?
+- **Política comercial**: selecione as políticas comerciais às quais a taxa será aplicada.
 
-- **Categorias, Marcas, Coleções e Produtos**: Deve atender a todas as condições cadastradas. Ex.: se for cadastrada uma categoria e uma marca, o produto deve atender a essas duas condições.
+### A quais itens esta taxa será aplicada?
+
+- **Categorias, Marcas, Coleções e Produtos**: deve atender a todas as condições cadastradas. Ex.: se for cadastrada uma categoria e uma marca, o produto deve atender a essas duas condições.
 
 ### Quais as condições para a taxa ser válida?
 
-- **Valor acumulado em compras**: A taxa será aplicada caso o total de todas as compras já realizadas pelo cliente esteja atendendo ao valor preenchido.
-- **Marketing Tags**: Campo utilizado para restringir a ativação da campanha caso a compra seja realizada pelo Sistema de Recorrência da VTEX. 
-- **Afiliados**: Identificador de pedidos do marketplace
-- **Cluster de clientes**: A taxa será aplicada caso o cliente esteja cadastrado no cluster selecionado.
-- **O CEP de entrega deve**: A taxa será aplicada caso o CEP esteja atendendo à regra configurada.
-- **Tipo de frete**: A taxa será aplicada caso o tipo de frete for o mesmo que o cadastrado.
+- **Valor acumulado em compras**: a taxa será aplicada caso o total de todas as compras já realizadas pelo cliente esteja atendendo ao valor preenchido.
+- **Marketing Tags**: campo utilizado para restringir a ativação da campanha caso a compra seja realizada pelo sistema de recorrência da VTEX.
+- **Afiliados**: identificador de pedidos do marketplace.
+- **Cluster de clientes**: a taxa será aplicada caso o cliente esteja cadastrado no cluster selecionado.
+- **O CEP de entrega deve**: a taxa será aplicada caso o CEP esteja atendendo à regra configurada.
+- **Tipo de frete**: a taxa será aplicada caso o tipo de frete for o mesmo que o cadastrado.
 
 ## Agendamento
 

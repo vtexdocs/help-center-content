@@ -3,8 +3,8 @@ title: 'El modo de visualización SELECT del selector SKU no funciona en las est
 id: 4viowN3tnbsdc0f1bqXrux
 status: PUBLISHED
 createdAt: 2023-01-18T12:24:32.528Z
-updatedAt: 2023-01-18T12:24:33.003Z
-publishedAt: 2023-01-18T12:24:33.003Z
+updatedAt: 2024-02-16T20:24:43.422Z
+publishedAt: 2024-02-16T20:24:43.422Z
 firstPublishedAt: 2023-01-18T12:24:33.003Z
 contentType: knownIssue
 productTeam: Store Framework
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: el-modo-de-visualizacion-select-del-selector-sku-no-funciona-en-las-estanterias
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 682152
 ---
 

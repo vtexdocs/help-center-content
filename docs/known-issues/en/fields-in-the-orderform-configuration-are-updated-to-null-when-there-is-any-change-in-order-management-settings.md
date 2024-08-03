@@ -3,16 +3,16 @@ title: 'Fields in the orderForm Configuration are updated to null when there is 
 id: jKGnwUGdfmCXtKjGPe6hj
 status: PUBLISHED
 createdAt: 2023-02-06T21:00:09.224Z
-updatedAt: 2023-04-03T14:22:00.794Z
-publishedAt: 2023-04-03T14:22:00.794Z
+updatedAt: 2024-05-09T12:44:51.823Z
+publishedAt: 2024-05-09T12:44:51.823Z
 firstPublishedAt: 2023-02-06T21:00:09.753Z
 contentType: knownIssue
-productTeam: Checkout
+productTeam: Order Management
 author: 2mXZkbi0oi061KicTExNjo
-tag: Checkout
+tag: Order Management
 slug: fields-in-the-orderform-configuration-are-updated-to-null-when-there-is-any-change-in-order-management-settings
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 748404
 ---
 

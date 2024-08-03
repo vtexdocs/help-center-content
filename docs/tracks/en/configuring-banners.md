@@ -3,8 +3,8 @@ title: 'Configuring Banners'
 id: 4ViKEivLJtJsvpaW0aqIQ5
 status: PUBLISHED
 createdAt: 2019-11-27T16:34:24.404Z
-updatedAt: 2023-03-30T21:35:08.898Z
-publishedAt: 2023-03-30T21:35:08.898Z
+updatedAt: 2024-01-30T21:59:49.330Z
+publishedAt: 2024-01-30T21:59:49.330Z
 firstPublishedAt: 2020-03-05T19:58:30.009Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -51,6 +51,7 @@ To add a banner, the following fields need to be completed:
 * **Start time**: Time when the banner will start being available.
 * **End date**: Date when the banner will stop being available. This allows the administrator to schedule future campaigns, which makes them easier to control.
 * **End time**: Time when the banner will stop being available.
+* **Locales:** Languages to which the banner will apply. The field is only available for stores using [Multilanguage settings (Beta)](https://help.vtex.com/en/tutorial/vtex-intelligent-search-configuracoes-multi-idioma-beta--2WahlTESLXIJ9XBdQMdTYO).
 
 ### Trigger Rules
 

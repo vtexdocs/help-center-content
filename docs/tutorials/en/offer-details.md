@@ -1,10 +1,10 @@
 ---
 title: 'Offer Management: offer details'
 id: 4FF9QYAewqAn610mDHwb0P
-status: PUBLISHED
+status: DRAFT
 createdAt: 2021-03-17T01:07:12.412Z
-updatedAt: 2023-03-31T04:51:33.756Z
-publishedAt: 2023-03-31T04:51:33.756Z
+updatedAt: 2024-06-20T21:34:45.076Z
+publishedAt: 
 firstPublishedAt: 2021-03-17T01:13:19.773Z
 contentType: tutorial
 productTeam: Channels
@@ -14,6 +14,12 @@ locale: en
 legacySlug: offer-details
 subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---
+
+<div class="alert alert-info">
+To evolve your experience in synchronizing and updating offers, the VTEX team is developing a new functionality that will replace the current module <b>Offer Management</b>. As a result, the module will not receive new updates or maintenance.
+For connectors and marketplaces already integrated into the module, please contact the development team by email <a href="taissa.araujo@vtex.com.br">taissa.araujo@vtex.com.br</a>.
+For connectors interested in starting the integration, we ask you to wait for the release of the new module, as soon as it is available we will announce it to all customers through the <a href="https://developers.vtex.com/updates/release-notes">Developer Portal's release notes section</a> and <a href="https://help.vtex.com/pt/en/announcements">VTEX Help Center announcements page</a>.
+</div>  
 
 An offer is an SKU from a seller that has been sent to different sales channels and whose price and inventory have been configured. The [Offer Management](https://help.vtex.com/en/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE) module allows sellers to supervise the sending of their offers to marketplaces and see their sync status.
 

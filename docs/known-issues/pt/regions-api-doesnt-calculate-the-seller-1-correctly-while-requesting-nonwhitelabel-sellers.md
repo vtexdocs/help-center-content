@@ -1,10 +1,10 @@
 ---
 title: 'Regions API não calcula corretamente o "seller 1" ao solicitar sellers que não são white label'
 id: 20sT9AMMi7Ob5IZc7FeiCB
-status: PUBLISHED
+status: DRAFT
 createdAt: 2022-03-28T20:45:27.687Z
-updatedAt: 2022-11-25T21:53:57.112Z
-publishedAt: 2022-11-25T21:53:57.112Z
+updatedAt: 2024-03-14T13:47:34.269Z
+publishedAt: 
 firstPublishedAt: 2022-03-28T20:45:28.144Z
 contentType: knownIssue
 productTeam: Checkout

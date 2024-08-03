@@ -3,8 +3,8 @@ title: 'Ver detalhes do pedido'
 id: 204AjAQseJe8RLUi8GAhiC
 status: PUBLISHED
 createdAt: 2019-11-14T15:12:10.952Z
-updatedAt: 2023-03-29T15:17:48.189Z
-publishedAt: 2023-03-29T15:17:48.189Z
+updatedAt: 2023-11-08T14:56:01.508Z
+publishedAt: 2023-11-08T14:56:01.508Z
 firstPublishedAt: 2019-11-18T12:20:18.851Z
 contentType: trackArticle
 productTeam: Post-purchase
@@ -22,9 +22,16 @@ Além disso, a busca oferece um filtro bastante flexível, que explicaremos em d
 
 Para entender a lista de pedidos em detalhes, consulte o artigo [Visão geral da lista de pedidos](https://help.vtex.com/pt/tutorial/lista-de-pedidos--tutorials_200)
 
+Além de pesquisar pedidos em **Pedidos > Todos os pedidos**, você pode buscar pedidos a partir de qualquer página no Admin VTEX usando a barra de busca global no topo da página. Por padrão, a busca está configurada para `Páginas`. Para buscar um pedido, clique sobre a barra, selecione a opção `Pedidos` e utilize algum dos seguintes critérios:
+
+- ID do pedido
+- Nome do cliente
+- Email do cliente
+- Documento do cliente 
+
 ## Vendo os detalhes de um pedido
 
-Ao clicar em um pedido, você é direcionado para a tela de __detalhes do pedido__, onde é possível consultar uma série de informações sobre o pedido e ainda executar algumas ações, tais como:
+Ao clicar em um pedido, você é direcionado para a tela de [detalhes do pedido](https://help.vtex.com/pt/tutorial/order-details-page-interface--2Y75n54Cc9VizrlG1N6ZNl), onde é possível consultar uma série de informações sobre o pedido e ainda executar algumas ações, tais como:
 - Reenviar o último e-mail para o cliente.
 - Cancelar manualmente o pedido.
 - Faturar os itens do pedido.

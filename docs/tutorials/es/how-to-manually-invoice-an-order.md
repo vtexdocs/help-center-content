@@ -3,8 +3,8 @@ title: 'Como facturar un pedido'
 id: 7p1h852V5t54KyscpgxE2v
 status: PUBLISHED
 createdAt: 2020-12-28T20:50:42.445Z
-updatedAt: 2023-05-31T14:44:54.458Z
-publishedAt: 2023-05-31T14:44:54.458Z
+updatedAt: 2024-04-01T17:55:58.671Z
+publishedAt: 2024-04-01T17:55:58.671Z
 firstPublishedAt: 2020-12-28T21:01:55.107Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -67,3 +67,5 @@ Una vez `facturado` el pedido, comprueba las facturas introducidas en la secció
 ![Itens faturarES](https://images.ctfassets.net/alneenqid6w5/2wScKr5ZaHShpyntCuN0jy/bd9f368f2ac4a319c490bd3c84fe88d3/Itens_faturarES__1_.png)
 
 En los casos de envío de [facturas parciales](https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe), al [modificar o eliminar ítems de un pedido](https://help.vtex.com/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190), el valor total del pedido se actualizará después de la facturación, y corresponderá al valor capturado por el _gateway_ de pagos de VTEX.
+
+No es posible [cancelar](https://help.vtex.com/es/tutorial/como-cancelar-pedido--tutorials_186) pedidos [parcialmente facturados](https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](https://help.vtex.com/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).

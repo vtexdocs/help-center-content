@@ -3,8 +3,8 @@ title: 'Preencher campos de cadastro de Categoria'
 id: 5Z7RrvW41yumyQCmk2iqoG
 status: PUBLISHED
 createdAt: 2017-09-20T14:44:06.897Z
-updatedAt: 2022-08-01T18:47:26.486Z
-publishedAt: 2022-08-01T18:47:26.486Z
+updatedAt: 2024-01-04T14:40:33.174Z
+publishedAt: 2024-01-04T14:40:33.174Z
 firstPublishedAt: 2017-09-20T14:58:27.420Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

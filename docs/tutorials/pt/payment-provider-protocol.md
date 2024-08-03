@@ -3,8 +3,8 @@ title: 'Payment Provider Protocol'
 id: RdsT2spdq80MMwwOeEq0m
 status: PUBLISHED
 createdAt: 2018-01-02T15:40:00.920Z
-updatedAt: 2023-05-31T14:44:41.300Z
-publishedAt: 2023-05-31T14:44:41.300Z
+updatedAt: 2024-07-24T13:58:10.009Z
+publishedAt: 2024-07-24T13:58:10.009Z
 firstPublishedAt: 2018-01-02T17:53:48.934Z
 contentType: tutorial
 productTeam: Financial
@@ -15,7 +15,6 @@ legacySlug: payment-provider-protocol
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---
 
-## O que é o Payment Provider Protocol?
 O Payment Provider Protocol é o protocolo de integração entre a VTEX e outras empresas que processam pagamentos.
 
 Por meio dele, a VTEX oferece um contrato público disponível para todos os provedores que desejam se integrar à nossa plataforma. Assim, os provedores obtêm maior autonomia em relação à integração.
@@ -45,7 +44,7 @@ __Adquirente:__ empresa especializada em processar pagamentos. É responsável p
 ## Pré-requisitos para implementação
 ### Assinatura de um contrato de parceria comercial para Serviços Financeiros
 
-Para implementação, publicação e atualização de um conector de pagamentos na VTEX é necessário a assinatura de um contrato de parceria __específico para serviços financeiros__ que cubram as especificidades do tema e as regulações dentro da plataforma. Se você ainda não tem um contrato de parceria, mas tem interesse em se tornar um provedor de pagamento, entre em contato com o nosso time pelo [site](https://vtex.com/br-pt/partner/).
+Para implementação, publicação e atualização de um conector de pagamentos na VTEX é necessário a assinatura de um contrato de parceria __específico para serviços financeiros__ que cubram as especificidades do tema e as regulações dentro da plataforma. Se você ainda não tem um contrato de parceria, mas tem interesse em se tornar um provedor de pagamento, entre em contato com o nosso time pelo [site](https://vtex.com/br-pt/partner).
 
 ### Ter acesso a um ambiente VTEX
 
@@ -59,7 +58,7 @@ Se o parceiro for SI (Service Implementer) que desenvolva integrações para cli
 Para se tornar um provedor VTEX integrado, é necessário utilizar uma das seguintes soluções:
 
 - A infraestrutura onde o conector será construído precisa ter o certificado PCI-DSS assinado por um QSA (Qualified Security Assessor). Maiores informações no [Conselho de Normas de Segurança do PCI](https://www.pcisecuritystandards.org/).
-- Caso não possua o certificado, implementar o provedor utilizando o [Secure Proxy](https://developers.vtex.com/vtex-rest-api/docs/payments-integration-secure-proxy).
+- Caso não possua o certificado, implementar o provedor utilizando o [Secure Proxy](https://developers.vtex.com/docs/guides/payments-integration-secure-proxy).
 
 Se o provedor for certificado ou já iniciou o processo de certificação, é possível entrar em contato com a equipe de negócios da VTEX para começar a integração.
 
@@ -86,105 +85,76 @@ Antes de configurar o ambiente VTEX, o provedor deve implementar o serviço back
 ### 2. Casos de uso específicos
 Há casos em que conectores podem ser construídos para atender alguma solução específica. Abaixo se encontram referências na nossa documentação para instruir sobre esses casos:
 
-- [Payment Provider Framework (PPF)](https://developers.vtex.com/vtex-rest-api/docs/payments-integration-payment-provider-framework): Solução para implementação de conectores através do VTEX IO a partir de um boilerplate. O boilerplate já vem com grande parte do trabalho feito, incluindo os endpoints do protocolo. A utilização do VTEX IO também acelera o processo de desenvolvimento e testes na loja.
-- [Payment Provider Protocol aplicado a pagamentos com POS](https://developers.vtex.com/vtex-rest-api/docs/payments-integration-ppp-applied-to-pos): Aplicação do PPP para pagamentos em lojas físicas utilizando um terminal de pagamento (POS). Pode ser utilizado com cartões de crédito e débito. O fluxo do pagamento se inicia com uma compra feita no [VTEX Sales App](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) e então será feita a comunicação com o POS, onde o cliente irá inserir o cartão.
+- [Payment Provider Framework (PPF)](https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework): Solução para implementação de conectores através do VTEX IO a partir de um boilerplate. O boilerplate já vem com grande parte do trabalho feito, incluindo os endpoints do protocolo. A utilização do VTEX IO também acelera o processo de desenvolvimento e testes na loja.
+- [Payment Provider Protocol aplicado a pagamentos com POS](https://developers.vtex.com/docs/guides/payments-integration-ppp-applied-to-pos): Aplicação do PPP para pagamentos em lojas físicas utilizando um terminal de pagamento (POS). Pode ser utilizado com cartões de crédito e débito. O fluxo do pagamento se inicia com uma compra feita no [VTEX Sales App](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) e então será feita a comunicação com o POS, onde o cliente irá inserir o cartão.
 
 ### 3. Homologação do Payment Provider
-Depois de receber os dados de acesso e implementar o back-end, o provedor deve instalar a app Payment Provider Test Suite para acessar a ferramenta de testes. A instalação é feita na [VTEX App Store](https://apps.vtex.com/vtex-payment-provider-test-suite/p "VTEX App Store"). 
+Depois de receber os dados de acesso e implementar o back-end, o provedor deve instalar a app Payment Provider Test Suite para acessar a ferramenta de testes. A instalação é feita por meio de [VTEX App Store](https://apps.vtex.com/vtex-payment-provider-test-suite/p "VTEX App Store"). 
 
-![print1](https://images.ctfassets.net/alneenqid6w5/2sZn44SfDSGcUkgouQ2iyu/d9d72ca9a6fa585f959fa932412930d7/print1.png)
+![ppp-vtex-store-pt](https://images.ctfassets.net/alneenqid6w5/2sZn44SfDSGcUkgouQ2iyu/d4ba38eb2aed1c4a4072cddbc2b4decf/image.png)
 
 <div class="alert alert-warning">
-Toda comunicação com servidores, seja durante o processo de homologação ou em produção, deve ocorrer via HTTPS, que por padrão utiliza a porta 443. É importante lembrar que toda comunicação HTTPS deve ser exclusivamente sobre <strong>TLS 1.2</strong>.
+Para passar no processo de homologação, é necessário implementar uma lógica específica para lidar com os requisitos do teste. Nas requisições enviadas ao Test Suite, utilize o header extra <code>X-VTEX-API-Is-TestSuite = true</code> para identificá-las e mascarar qualquer cenário exigido.<br>Toda comunicação com servidores, seja durante o processo de homologação ou em produção, deve ocorrer via HTTPS, que por padrão utiliza a porta 443. É importante lembrar que toda comunicação HTTPS deve ser exclusivamente sobre TLS 1.2.
 </div> 
 
-Após a instalação, basta conferir o módulo Outros no menu lateral esquerdo do Admin. Em seguida, selecione a opção Payment Provider para configurá-la corretamente.
+Após a instação, clique no item Apps no painel lateral esquerdo do Admin. Em seguida, selecione o app Payment Provider Test Suite para configurá-lo corretamente.
 
-Desse modo, você verá dois formulários: “Service Information” e “Tests”. 
+Dependendo da versão do Admin utilizada na conta da loja, o app não estará visível na lista de apps. Para acessá-lo, utilize o endereço `https://{{accountName}}.myvtex.com/admin/test-suite/payment-provider`, substituindo `{{accountName}}` pelo Nome da Conta da sua loja.
 
-Preencha os campos de cada um de acordo com as indicações abaixo:
+Feito isso, você encontrará um formulário com três seções: __Service info__, __Payment method__ e __Test cases__. Preencha os campos de acordo com as instruções abaixo.
 
-Ao acessar o ambiente pelo link descrito no item anterior, você verá um formulário. Preencha os campos de acordo com as indicações abaixo:
+#### Service info
 
-#### Service Information
-
-- __Service URL__: defina a URL do seu serviço de provedor. Essa URL será o endereço base do protocolo e deve seguir o formato determinado por ele. Por exemplo, se a URL do serviço for https://10.10.10.10, a URL completa para o endpoint /payments será https://10.10.10.10/payments.
-- __Connector Name__: preencha com o nome que você deseja dar ao seu conector dentro da VTEX. Ressaltamos o que o nome só pode conter letras minúsculas, numerais e hífen.
-- __X-VTEX-API-AppKey__: insira o valor de "PROVIDER-API-AppKey" do header do request do seu provedor, para fins de teste.
-- __X-VTEX-API-AppToken__: insira o valor de "PROVIDER-API-AppToken" do header do request do seu provedor, para fins de teste.
-
-<div class="alert alert-warning">
-Seu provedor deve esperar os headers: <strong>X-VTEX-API-AppKey</strong> e <strong>X-VTEX-API-AppToken</strong>. Essa combinação são as credenciais para identificar um lojista. O Gateway armazena as credenciais dos lojistas e os outros parâmetros utilizados na configuração da afiliação, os quais serão enviados para o provedor nas transações.
-</div>
-
-![Payment Provider Test Suite 0](https://images.ctfassets.net/alneenqid6w5/3V1eMOFEQ8Mg4ygC46G4AY/15d41dae35aaa91f3dd9b55e1bdcee1f/Payment_Provider_Test_Suite_0.jpg)
-
-#### Tests
-
-Depois de revisar todos os campos, clique no botão __CHECK URL__. O sistema vai verificar os métodos de pagamento através de uma chamada para o endpoint __/manifest__ do seu provedor. Veja a referência à API [aqui](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#get-/manifest). 
-
-Após a chamada, os endpoints das operações disponíveis no seu provedor serão identificados e os testes respectivos a cada operação serão habilitados automaticamente.
-
-Você pode selecionar quais testes deseja rodar, mas para que sua integração passe pela análise da nossa equipe, __todos os testes habilitados automaticamente precisam ser realizados__. Portanto, recomendamos que todos eles permaneçam selecionados.
-
-![Payment Provider Test Suite 1](https://images.ctfassets.net/alneenqid6w5/5LROAprSeFd1O64M2WCisC/af4e2408feb2d1e5dfb9b9bac7067f6d/Payment_Provider_Test_Suite_1.jpg)
-
-### 4. Testes
-Ao clicar no botão __RUN TESTS__, o Payment Provider vai aplicar os testes na sua integração para os diferentes cenários possíveis. É importante lembrar que, para executá-los, seu serviço precisa estar em HTTPS.  Os testes são:
-
-- __Authorize__: esse teste é dividido em três etapas. Na primeira, enviamos um request de _Create Payments_ para `{{ServiceURL}}/payments`, esperando como resposta o status _approved_. Na segunda, um request de _Settle Payment_ é enviado para `/payments/{PAYMENT_ID}/settlements` e esperamos uma resposta com o _settleId_ preenchido. Por fim, enviamos um request de _Refund Payment_ para `/payments/{PAYMENT_ID}/refunds`, esperando uma resposta com o _refundId_ preenchido.
-
-- __Denied__: nesse teste, enviamos um request de _Create Payments_ para `{{ServiceURL}}/payments`, esperando como resposta o status _denied_.
-
-- __Cancel__: para esse teste, precisamos primeiro do status _approved_ como resposta ao request de _Create Payments_ para `{{ServiceURL}}/payments`. Depois, enviamos um request de _Cancel Payment_ para `/payments/{PAYMENT_ID}/cancellations` e esperamos uma resposta com o status _cancelled_.
-
-- __AsyncApproved__: esse teste é dividido em duas etapas. Na primeira, enviamos um request de _Create Payments_ para `{{ServiceURL}}/payments`, esperando como resposta o status _undefined_. Então, esperamos receber em até 15 segundos a mesma resposta, só que com status _approved_ em um POST na URL enviada no campo _callbackUrl_. Em seguida, um request de _Capture Payment_ é enviado para `/payments/{PAYMENT_ID}/settlements` e esperamos uma resposta com o _settleId_ preenchido. Por fim, enviamos um request de _Refund Payment_ para `/payments/{PAYMENT_ID}/refunds`, esperando uma resposta com o _refundId_ preenchido. Depois que a integração está em produção, essa chamada feita por callbackUrl é autenticada com as chaves do ambiente do parceiro: _vtex-app-key_ e _vtex-app-token_.
-
-- __AsyncDenied__: a exemplo do anterior, esse teste também é dividido em duas etapas. Na primeira, enviamos um request de _Create Payments_ para `{{ServiceURL}}/payments`, esperando como resposta o status _undefined_. Então, esperamos receber em até 15 segundos a mesma resposta, só que com status _denied_ em um POST na URL enviada no campo _callbackUrl_. Depois que a integração está em produção, essa última chamada feita por callbackUrl é autenticada com as chaves do ambiente do parceiro: _vtex-app-key_ e _vtex-app-token_. 
-
-- __BankInvoice__: nesse teste, enviamos um request de _Create Payments_ para `{{ServiceURL}}/payments`, esperando que a resposta venha com o status _undefined_ e o campo `bankIssueInvoiceUrl` preenchido com a URL do boleto. Depois, esperamos receber em até 15 segundos a mesma resposta, só que com status _approved_ em um POST na URL enviada no campo _callbackUrl_. Quando a integração estiver em produção, essa última chamada feita por callbackUrl será autenticada com as chaves do ambiente do parceiro: _vtex-app-key_ e _vtex-app-token_.
-
-- __Redirect__: esse teste é dividido em duas etapas. Na primeira, enviamos um request de _Create Payments_ para `{{ServiceURL}}/payments`, esperando que a resposta venha com o status _undefined_ e o campo `redirectUrl` preenchido com a URL que vai ser usada para redirecionar o cliente. Então, esperamos receber em até 15 segundos a mesma resposta, só que com status _approved_ em um POST na URL enviada no campo _callbackUrl_. Quando a integração estiver em produção, essa última chamada feita por callbackUrl será autenticada com as chaves do ambiente do parceiro: _vtex-app-key_ e _vtex-app-token_. Para o conector que utilizará o Redirect, não existe a necessidade de aprovação em todos os testes do Test Suit, somente no do Redirect.
-
-Todos os requests são enviados desde o IP 54.236.214.202
-
-<div class="alert alert-warning">
-No caso dos cartões de crédito, os testes obrigatórios são: <strong>Authorize</strong>, <strong>Denied</strong>, <strong>Cancel</strong>, <strong>AsyncApproved</strong> e <strong>AsyncDenied</strong>.
-</div>
+* **Service URL:** Defina a URL do seu serviço de provedor. Essa URL será o endereço base do protocolo e deve seguir o formato determinado por ele. Por exemplo, se a URL do serviço for `https://example.com/`, a URL completa para o endpoint /payments será `https://example.com/payments`.
+* **AppKey e AppToken:** O botão Test with AppKey and AppToken permite que você escolha entre configurar os valores desses campos ou não, o que pode facilitar os testes durante a etapa de desenvolvimento. Se não habilitar essa opção, as credenciais serão enviadas nos headers como uma string vazia.
 
 <div class="alert alert-info">
-Para cada teste com cartões de crédito, enviamos um número específico para retornar a resposta esperada. São eles:<br>
-<strong>Resposta com status approved:</strong> cartão numero 4444333322221111<br>
-<strong>Resposta com status denied:</strong> cartão numero 4444333322221112<br>
-<strong>Resposta com status undefined e retorno no callbackUrl com status approved:</strong> cartão numero 4222222222222224<br>
-<strong>Resposta com status undefined e retorno no callbackUrl com status denied:</strong> cartão numero 4222222222222225<br>
-</div>
+  <p>O Gateway armazena as credenciais das lojas configuradas na afiliação e as envia nos headers X-VTEX-API-AppKey e X-VTEX-API-AppToken. A exceção para isso são as integrações desenvolvidas com VTEX IO. Para elas, os headers serão enviados como x-provider-api-appKey e x-provider-api-appToken. Se você está desenvolvendo com o <a href="https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework">Payment Provider Framework (IO)</a>, isso é configurado pela opção usesProviderHeadersName. Veja as configurações disponíveis <a href="https://developers.vtex.com/docs/guides/payments-integration-payment-provider-framework#available-configurable-options">aqui</a>.
+</p></div>
 
-### 5. Resultados
-Depois de executar os testes, o sistema retorna os resultados, tanto positivos quanto negativos. O sistema também traz a informação dos resultados esperados para cada teste. Assim, você tem mais visibilidade do que deve ser ajustado em caso de erro.
+#### Payment method
 
-![Payment Provider Test Suite 2](https://images.ctfassets.net/alneenqid6w5/6o9b9Wz3tSKiU6mwEssEgs/38e5f5d1391d10ca831eba5682c5544b/Payment_Provider_Test_Suite_2.jpg)
+Após preeencher o campo Service URL, o Test Suite irá validar o [endpoint Manifest](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#get-/manifest) e fazer uma verificação para os métodos de pagamento declarados. Eles irão aparecer como opções nesse campo. Selecione os meios de pagamento no qual você deseja realizar os testes.
 
-Para visualizar de forma detalhada cada ação realizada pela integração (e, assim, identificar possíveis erros), basta clicar no botão __TRY LOADING AGAIN?__. Uma lista com as informações completas dos eventos que aconteceram durante o teste vai ser exibida abaixo dos resultados.
+#### Test cases
 
-![Payment Provider Test Suite Logs](https://images.ctfassets.net/alneenqid6w5/3FCFc1FA7L6ILyXB8NSmA3/12a0a237d1c8725b8eeb9bb61eb48fbc/Payment_Provider_Test_Suite_Logs.jpg)
+Nessa seção, você deve selecionar os casos que deseja testar. Se você está testando um método de cartão de crédito, a sua integração deve passar nos casos Approved, Denied, Cancellation, Async Approved e Async Denied. Para um método de pagamento com [redirecionamento](https://developers.vtex.com/docs/guides/payments-integration-purchase-flows#redirect), apenas o Redirect flow é necessário.
 
-![Payment Provider Test Suite 3](https://images.ctfassets.net/alneenqid6w5/7svc9sEJaMiwsYK0ykU0SS/590453ef17cda1dab3b1bb4342f1d9d1/Payment_Provider_Test_Suite_3.jpg)
+![ppp-config-pt](https://images.ctfassets.net/alneenqid6w5/5s70iVRPAnrikX88iv8fn1/e41bf6da622195968fe1f91bad8f3b75/image.png)
 
-Quando sua integração tiver passado em todos os testes com sucesso, basta abrir um ticket no [Help da VTEX](/pt/support "VTEX Help") informando a conclusão. Porém, antes de abrir o ticket, certifique-se que você possui as seguintes informações:
+### 4. Testes
 
-- __Connector Name__: uma descrição do provedor. Use o máximo de 16 caracteres alfanuméricos. Este nome não pode ser modificado após publicado.
-- __Partner contact__: endereço de email do parceiro para caso seja necessário comunicar alterações e novas funcionalidades do nosso protocolo.
-- __Production Service Provider Endpoint__: o caminho base a ser utilizado para chamadas de API para o provedor, por exemplo, _https://vtex.pagseguro.com_. Ele deve responder à rota `{{serviceUrl}}/manifest`. Este endpoint deve estar disponível publicamente. 
-- __Sandbox Service Provider Endpoint__: o caminho base a ser utilizado no modo de teste para chamadas de API para o provedor. Por exemplo: _https://sandboxserviceproviderendpoint.com_. 
-- __Owner account__: o nome da conta VTEX a ser utilizada em solicitações de retorno de chamada. Esta conta deve estar disponível em _{account}.myvtex.com_. 
-- __Allowed Accounts__: informe quais contas VTEX deste provedor estarão disponíveis (todas as contas ou contas específicas).
-- __New Payment methods__: informe se este conector suporta uma forma de pagamento que ainda não está disponível no VTEX Admin. 
-- __New Payment method purchase flow__: se uma “Nova forma de pagamento” for suportada, informe se ela funciona com Redirect ou Payment App. Para maiores informações, accesse [Purchase Flows](https://developers.vtex.com/vtex-rest-api/docs/payments-integration-purchase-flows).
+Quando você clicar no botão `Run Test`, o Test Suite irá chamar a **Service URL** fornecida e executar os casos de teste selecionados. Os testes são:
+
+* **Approved flow:** Este teste é dividido em três estágios. No primeiro, nós enviamos uma requisição [Create Payment](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments) para `{{ServiceURL}}/payments`, esperando pelo status approved como resposta. No segundo, uma requisição [Settle Payment](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments/-paymentId-/settlements) é enviada para `{{ServiceURL}}/payments/{paymentId}/settlements` e esperamos uma resposta com o `settleId` preenchido. E no último, nós enviamos uma requisição [Refund Payment](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments/-paymentId-/refunds) para `{{ServiceURL}}/payments/{paymentId}/refunds` esperando por uma resposta com `refundId` preenchido.
+* **Denied flow:** Neste teste, nós enviamos uma requisição [Create Payment](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments) para `{{ServiceURL}}/payments`, esperando pelo status denied como resposta.
+* **Cancellation flow:** Para este teste, primeiro nós precisamos do status approved em resposta à requisição de [Create Payment](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments) para `{{ServiceURL}}/payments`. Nós então enviamos uma requisição [Cancel Payment](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments/-paymentId-/cancellations) para `{{ServiceURL}}/payments/{paymentId}/cancellations` e esperamos uma resposta com status canceled.
+* **Async Approved flow:** Este teste é divido em dois passos. No primeiro, nós enviamos uma requisição [Create Payment](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments) para `{{ServiceURL}}/payments`, esperando pelo status undefined como resposta. Após 15 segundos, nós esperamos receber outra resposta no mesmo formato através de um `POST` da URL enviada no campo callbackUrl e com o status approved. Com a integração em produção, esta última chamada feita por `callbackUrl` é autenticada com as chaves de ambiente do parceiro: `vtex-app-key` e `vtex-app-token`. Mais detalhes sobre o fluxo de callback podem ser encontrados na seção [Autorização de pagamento](#autorizacao-de-pagamento).
+* **Async Denied flow:** Este teste é dividido em dois passos, assim como o anterior. No primeiro, nós enviamos uma requisição [Create Payment](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments) para `{{ServiceURL}}/payments`, esperando pelo status undefined como resposta. Após 15 segundos, nós esperamos receber outra resposta no mesmo formato através de um `POST` da URL enviada no campo callbackUrl e com o status denied. Com a integração em produção, esta última chamada feita por `callbackUrl` é autenticada com as chaves de ambiente do parceiro: `vtex-app-key` e `vtex-app-token`. Mais detalhes sobre o fluxo de callback podem ser encontrados na seção [Autorização de pagamento](#autorizacao-de-pagamento).
+* **Bank Invoice flow** Neste teste, nós enviamos uma requisição[ Create Payment](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments) para `{{ServiceURL}}/payments`, esperando por uma resposta com status undefined e o campo `bankIssueInvoiceUrl` preenchido com a URL do ticket. Após 15 segundos, nós esperamos receber outra resposta no mesmo formato através de um POST da URL enviada no campo callbackUrl e com o status approved. Com a integração em produção, esta última chamada feita por `callbackUrl` é autenticada com as chaves de ambiente do parceiro: `vtex-app-key` e `vtex-app-token`. Mais detalhes sobre o fluxo de callback podem ser encontrados na seção [Autorização de pagamento](#autorizacao-de-pagamento).
+* **Redirect flow:** Este teste é dividido em dois passos. No primeiro, nós enviamos uma requisição [Create Payment](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments) para {{ServiceURL}}/payments, esperando por uma resposta com status undefined e o campo redirectUrl preenchido com a URL que será utilizada para redirecionar o cliente. Após 15 segundos, nós esperamos receber outra resposta no mesmo formato através de um POST da URL enviada no campo `callbackUrl` e com o status approved. Com a integração em produção, esta última chamada feita por `callbackUrl` é autenticada com as chaves de ambiente do parceiro: `vtex-app-key` e `vtex-app-token`. Mais detalhes sobre o fluxo de callback podem ser encontrados na seção [Autorização de pagamento](#autorizacao-de-pagamento). Para o conector que irá utilizar o Redirect, não há necessidade de passar em todos os testes do Test Suite, apenas no de Redirect.
 
 <div class="alert alert-warning">
-O SLA necessário para que a equipe de pagamento efetue a homologação é de dia 30 dias. Este prazo será iniciado somente após o envio do documento <b>Master Partner Agreement for Financial Services (MPA)</b>. Para solicitações de homologação sem a utilização do MPA, o prazo do SLA poderá ser estendido devido a necessidade de análise adicional da equipe de pagamentos.
+No caso dos cartões de crédito, os testes obrigatórios são: Authorize, Denied, Cancel, Async Approved e Async Denied.
 </div>
+
+Para identificar como responder corretamente a cada um dos testes com cartão de crédito, utilize estes números específicos:
+
+| Número do cartão | Status da resposta                         |
+| ---------------- | ------------------------------------------ |
+| 4444333322221111 | __approved__                                   |
+| 4444333322221112 | __denied__                                     |
+| 4222222222222224 | __undefined__, `callbackUrl` com status __approved__ |
+| 4222222222222225 | __undefined__, `callbackUrl` com status __denied__   |
+
+### 5. Resultados
+Após executar os testes, o sistema irá mostrar o Test Report, onde você pode ver os resultados detalhados de cada caso de teste. Desse modo, você tem mais visibilidade sobre o que deve ser ajustado caso ocorra algum erro.
+
+![Payment Provider Test Suite 2](https://images.ctfassets.net/alneenqid6w5/6o9b9Wz3tSKiU6mwEssEgs/9ecdf0551940ee02ed6bd21b3b86420e/image.png)
+
+Para ver as mensagens transmitidas entre o Test Suite e a implementação do seu provedor de pagamento, clique no botão Inspect Log do caso de teste desejado. Um modal irá se abrir para mostrar a lista de mensagem transmitidas e o payload de cada requisição e resposta. O botão no canto superior direito da seção de código facilita a cópia do código para a área de transferência.
+
+![Payment Provider Test Suite Logs](https://images.ctfassets.net/alneenqid6w5/3FCFc1FA7L6ILyXB8NSmA3/369d86cffea42dfbe842d037bfdd065e/image.png)
 
 ## Fluxo do protocolo de pagamento
 Aqui vamos explicar o fluxo de pagamento integrado em detalhes. A imagem abaixo ilustra todo o fluxo, mostrando o fluxo de um pagamento e as responsabilidades do seu fornecedor.
@@ -192,6 +162,9 @@ Aqui vamos explicar o fluxo de pagamento integrado em detalhes. A imagem abaixo 
 Tudo começa com a solicitação de um novo pagamento, após a criação de um novo pedido. A VTEX cria uma nova representação do pagamento e avança para o processamento dos pagamentos.
 
 ![fluxo-atualizado-ppp](https://images.ctfassets.net/alneenqid6w5/7lQZhSFEff1iaN7t2UVVNE/2890bc7073210c268d7d429d0162c9b7/FLUXO1.png)
+
+<div class="alert alert-info">
+  O período padrão de 7 dias para novas tentativas de pagamento assíncronas só é aplicado quando o usuário não especifica um valor no campo <code>delayToCancel</code> do endpoint <a href="https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments">Create Payment</a> ou ao enviar o callbackURL.</div>
 
 ### Autorização de pagamento
 Nesse ponto a VTEX chama o endpoint __*/payments*__ e envia um payload com os dados de pagamento para o seu provedor. O provedor deve processar esses dados e enviar de volta a resposta, que deve conter um dos valores de status: __approved__, __denied__ ou __undefined__.
@@ -233,6 +206,20 @@ https://gatewayqa.vtexpayments.com.br/api/pvt/payment-provider/transactions/8FB0
 ```
 
 Na [página de Transações do Admin](https://help.vtex.com/pt/tutorial/como-visualizar-detalhes-do-pedido--tutorials_452), o token de assinatura aparece mascarado por questões de segurança, como neste exemplo: `X-VTEX-signature=Rj******tk`. 
+
+Veja abaixo, um exemplo de payload encaminhado junto ao callback URL:
+
+```json
+{"paymentId":"8B3BA2F4352545A8B1C5A215F356A01C","status":"approved","authorizationId":"184520","nsu":"21705348","tid":"21705348","acquirer":"pagarme","code":"0000","message":"Transação aprovada com sucesso","delayToAutoSettle":1200, "delayToAutoSettleAfterAntifraud":1200, "delayToCancel":86400,"cardBrand":"Mastercard","firstDigits":"534696","lastDigits":"6921","maxValue":16.6}
+```
+
+<div class="alert alert-info">
+  Os valores dos parâmetros enviados no payload do callback substituem os valores originais informados na chamada do <a href="https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments">Create Payment</a>.  
+</div>
+
+<div class="alert alert-warning">
+  Caso os parâmetros de tempo de espera (<i>delayToAutoSettle</i> e <i>delayToAutoSettleAfterAntifraud</i>) não sejam enviados com a callback URL, os valores serão automaticamente configurados para 24 horas.
+</div>
 
 Ao fazer a solicitação de callback, recomendamos que os provedores de pagamento utilizem a callback URL exatamente como recebida, o que garante que todos os parâmetros estejam incluídos.
 

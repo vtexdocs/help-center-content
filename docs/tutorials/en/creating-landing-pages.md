@@ -3,8 +3,8 @@ title: 'Creating landing pages'
 id: 2DqFleXKz0Vsg3KhHLuUEB
 status: PUBLISHED
 createdAt: 2022-02-02T13:57:03.484Z
-updatedAt: 2023-03-24T22:24:37.311Z
-publishedAt: 2023-03-24T22:24:37.311Z
+updatedAt: 2024-08-01T13:10:40.896Z
+publishedAt: 2024-08-01T13:10:40.896Z
 firstPublishedAt: 2022-02-02T14:41:53.952Z
 contentType: tutorial
 productTeam: VTEX IO
@@ -39,6 +39,11 @@ In the Admin, you can create customized landing pages, such as pages for special
 | Requires authentication | Check this box if the new landing page should only be accessible to authenticated users. |
 | Description | Summary of the new web page to be displayed in search engine result pages. |
 | Keywords | Topics that define the page content and  help deliver the page to interested users in search engine results. |
+
+<div class="alert alert-warning">
+<p>To avoid conflicts and protect the integrity of the system, changing an existing URL route is not allowed. If you need to change a URL, we recommend creating a new page with the desired path and deactivating the old one if necessary.
+</p>
+</div>
 
 <div class = "alert alert-info">
 <p>The five fields above have a direct impact on store hits and search engine results rankings. Before filling in the page metadata, keep SEO best practices in mind.

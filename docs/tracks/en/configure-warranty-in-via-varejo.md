@@ -1,10 +1,10 @@
 ---
-title: 'Configure warranty in Via Varejo'
+title: 'Configure warranty in Casas Bahia Marketplace'
 id: 3FFcVmL5Aod6tkFIz9vJmX
 status: PUBLISHED
 createdAt: 2020-10-01T19:13:10.864Z
-updatedAt: 2022-01-24T20:11:25.306Z
-publishedAt: 2022-01-24T20:11:25.306Z
+updatedAt: 2023-11-30T21:39:33.028Z
+publishedAt: 2023-11-30T21:39:33.028Z
 firstPublishedAt: 2020-10-01T20:32:16.599Z
 contentType: trackArticle
 productTeam: Channels

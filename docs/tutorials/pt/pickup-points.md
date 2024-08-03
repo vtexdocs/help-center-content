@@ -3,8 +3,8 @@ title: 'Pontos de retirada'
 id: 2fljn6wLjn8M4lJHA6HP3R
 status: PUBLISHED
 createdAt: 2020-07-01T19:16:21.675Z
-updatedAt: 2023-03-29T19:48:10.418Z
-publishedAt: 2023-03-29T19:48:10.418Z
+updatedAt: 2023-07-25T16:53:09.640Z
+publishedAt: 2023-07-25T16:53:09.640Z
 firstPublishedAt: 2020-07-01T19:25:40.136Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -83,4 +83,4 @@ A VTEX considera que o ponto de retirada é uma forma de envio e, por isso, as c
 
 6. Configurar a quantidade de pontos de retirada que são exibidos no checkout:
     - a. No Admin VTEX, acesse **Configurações da loja > Envio > Configurações**, ou digite *Envio* na barra de busca no topo da página e selecione *Configurações da loja / Envio*. 
-    - b. Altere o campo **Configurações de pontos de retirada:** utilize os botões <i class="far fa-caret-square-up"></i> e <i class="far fa-caret-square-down"></i> e selecione os primeiros pontos de retirada que ficarão disponíveis na lista de busca (exibida no checkout).
+    - b. Altere o campo **Configurações de pontos de retirada:** utilize os botões <i class="far fa-caret-square-up"></i> e <i class="far fa-caret-square-down"></i> e selecione a quantidade dos primeiros pontos de retirada que ficarão disponíveis na lista de busca exibida no checkout para o cliente.

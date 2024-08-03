@@ -3,8 +3,8 @@ title: 'El parámetro isAvailablePerSalesChannel no funciona como se espera en l
 id: 6vexCZQTib8fFI6sCSTdWL
 status: PUBLISHED
 createdAt: 2022-09-12T16:03:25.215Z
-updatedAt: 2022-11-25T21:43:40.015Z
-publishedAt: 2022-11-25T21:43:40.015Z
+updatedAt: 2024-02-16T20:24:54.890Z
+publishedAt: 2024-02-16T20:24:54.890Z
 firstPublishedAt: 2022-09-12T16:03:25.837Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: el-parametro-isavailablepersaleschannel-no-funciona-como-se-espera-en-la-api-de-busqueda
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 656284
 ---
 

@@ -3,8 +3,8 @@ title: 'Error al cambiar el tipo de entrega cuando el vendedor tiene recursivida
 id: 7JLnqVWHz94sQZKMOGUkKC
 status: PUBLISHED
 createdAt: 2022-06-14T14:07:38.881Z
-updatedAt: 2022-11-25T21:52:59.031Z
-publishedAt: 2022-11-25T21:52:59.031Z
+updatedAt: 2024-02-16T20:24:13.311Z
+publishedAt: 2024-02-16T20:24:13.311Z
 firstPublishedAt: 2022-06-14T14:07:39.358Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: error-al-cambiar-el-tipo-de-entrega-cuando-el-vendedor-tiene-recursividad
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 597915
 ---
 

@@ -3,8 +3,8 @@ title: 'Configuring bank slips'
 id: tutorials_447
 status: PUBLISHED
 createdAt: 2017-04-27T22:04:55.249Z
-updatedAt: 2023-03-21T20:14:57.262Z
-publishedAt: 2023-03-21T20:14:57.262Z
+updatedAt: 2024-04-16T14:44:36.023Z
+publishedAt: 2024-04-16T14:44:36.023Z
 firstPublishedAt: 2017-04-27T23:03:25.766Z
 contentType: tutorial
 productTeam: Financial
@@ -15,41 +15,22 @@ legacySlug: how-to-configure-a-bank-slip
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-The bank slip is a payment instrument where, for the recovery, you just need to have a bank account, and to contract a collection portfolio with the bank. After that, it is possible to send and receive slips directly through your bank account.
+At VTEX, your store can sell via [bank slips](https://help.vtex.com/en/tutorial/registered-ticket-flow--1WlPkeueWQiykUwW8mcM4S). To configure the bank slip, follow the steps below:
 
-There are two ways of configuration:
-- Straight through VTEX, without an external payment gateway.
-- Through a payment gateway, such as PagSeguro.
+1. In the VTEX Admin, access __Store Settings > Payments > Providers__, or type __Provedores__ in the search bar at the top of the page.
+2. On the providers screen, click the `New provider` button.
+3. Type in the search bar the name of the provider that will process the bank slip.
+4. Fill in the form fields according to the data provided by the provider/bank.
+5. Click `Save`.
 
-The two ways of configuration are described below.
+## Setting up the payment condition
 
-## Setting it up without an external payment gateway
+1. In the VTEX Admin, go to __Store Settings > Payment > Settings__, or type __Settings__ in the search bar at the top of the page
+2. In the __Payment Conditions__ tab, click on the `+` button.
+3. In __Boleto__, select the option __Boleto Bancário__.
+4. Activate the condition in the __Status__ field.
+5. Under __Process with provider__, select the previously configured provider.
+6. If you want, you can also [Set up special payment conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
+7. Click `Save`.
 
-1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
-2. Access the **Gateway Affiliations** tab.
-3. Click on **+**.
-4. Select one of the **Bank Slip** options.
-5. Fill out the form fields according to the data provided by your bank - each bank requires different information. So, always check with the bank which are the mandatory information.
-6. Click on **Save**.
-
-## Setting it up with an external payment gateway
-
-1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
-2. Access the **Gateway Affiliations** tab.
-3. Click on **+**.
-4. Select one of the options in **Other** (to configure payment through PagSeguro, select the "PagSeguro without redirect" option).
-5. Fill out the form fields according to the data provided by your payment gateway - each gateway requires different information. So, always check with the payment gateway which are the mandatory information.
-6. Click on **Save**.
-
-After the configuration at Gateway Affiliations, both for external gateway or direct configuration options, you need to configure the payment condition.
-
-## How to set up the payment condition
-
-1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
-2. Access the **Payment Conditions** tab.
-3. Click on **+**.
-4. In **Slip**, select the **Bank Slip** option.
-5. Fill out the name, select the gateway affiliation configured above, and decide wheter you would like to use the [special condition](/en/tutorial/special-conditions) configuration.
-6. Click on **Save**.
-
-After this last configuration, this form of payment will be available at the checkout of the store.
+After following the steps indicated, Boleto Bancário may take up to 10 minutes to appear at your store checkout as a payment option.

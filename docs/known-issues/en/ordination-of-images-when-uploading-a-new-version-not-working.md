@@ -3,8 +3,8 @@ title: 'Ordination of images when uploading a new version not working'
 id: 2Oq65YHU6uIQpQ5g8ZpjTE
 status: PUBLISHED
 createdAt: 2023-01-25T15:08:43.356Z
-updatedAt: 2023-01-25T15:08:43.873Z
-publishedAt: 2023-01-25T15:08:43.873Z
+updatedAt: 2024-02-16T20:26:48.206Z
+publishedAt: 2024-02-16T20:26:48.206Z
 firstPublishedAt: 2023-01-25T15:08:43.873Z
 contentType: knownIssue
 productTeam: CMS
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: CMS
 slug: ordination-of-images-when-uploading-a-new-version-not-working
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 739814
 ---
 

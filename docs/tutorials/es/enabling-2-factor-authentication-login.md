@@ -3,8 +3,8 @@ title: 'Habilitar inicio de sesión por autenticación de dos factores'
 id: 4Ae1fcQi12g8u4SkQKCqWQ
 status: PUBLISHED
 createdAt: 2017-11-09T00:46:29.023Z
-updatedAt: 2023-02-08T14:28:53.895Z
-publishedAt: 2023-02-08T14:28:53.895Z
+updatedAt: 2024-03-12T17:52:28.500Z
+publishedAt: 2024-03-12T17:52:28.500Z
 firstPublishedAt: 2017-11-09T13:09:54.237Z
 contentType: tutorial
 productTeam: Identity
@@ -16,8 +16,6 @@ subcategory: 4sY1T2qdFehvVmC0tL5xW3
 ---
 
 La autenticación de dos fatores (2FA) es un método de verificación que aumenta en gran medida la seguridad del inicio de sesión de su tienda. 
-
-![ES- LoginAdmin](https://images.ctfassets.net/alneenqid6w5/3elCQzyG1TLdPwoFjgkW6u/6472c560259c581f731f9d55ffa1d4c8/ES-_LoginAdmin.png)
 
 Esto porque, en el inicio de sesión, el sistema además de exigir el email y la contraseña exige una clave de acceso (en el caso de VTEX, esta puede ser un código enviado por SMS o generado por aplicación).
 

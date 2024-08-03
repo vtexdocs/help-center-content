@@ -3,8 +3,8 @@ title: 'O campo de coleções sempre aparece como "Igual a" no formulário da ca
 id: 2NPEh7LZkrpO0gf802I7HZ
 status: PUBLISHED
 createdAt: 2022-11-11T21:18:53.386Z
-updatedAt: 2022-11-25T22:11:31.863Z
-publishedAt: 2022-11-25T22:11:31.863Z
+updatedAt: 2024-02-16T20:27:37.566Z
+publishedAt: 2024-02-16T20:27:37.566Z
 firstPublishedAt: 2022-11-11T21:18:54.385Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: o-campo-de-colecoes-sempre-aparece-como-igual-a-no-formulario-da-campanha-para-o-publico
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 697168
 ---
 

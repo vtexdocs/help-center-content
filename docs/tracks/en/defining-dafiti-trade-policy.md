@@ -3,8 +3,8 @@ title: 'Defining Dafiti trade policy'
 id: 54cBCKrJgqdrm61vxihY1g
 status: PUBLISHED
 createdAt: 2021-02-23T21:32:12.282Z
-updatedAt: 2022-12-08T20:36:49.783Z
-publishedAt: 2022-12-08T20:36:49.783Z
+updatedAt: 2023-08-11T18:10:58.039Z
+publishedAt: 2023-08-11T18:10:58.039Z
 firstPublishedAt: 2021-02-23T21:41:19.622Z
 contentType: trackArticle
 productTeam: Channels

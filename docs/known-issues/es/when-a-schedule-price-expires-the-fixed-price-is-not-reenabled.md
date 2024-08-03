@@ -20,7 +20,7 @@ internalReference:
 
 Se cuentan con dos precios: un precio fijo que siempre permanece vigente y un precio agendado que tiene validez para un rango acotado de fechas, que estará activo a la par del precio fijo.
 
-![precio-agendado-no-reactiva](//images.contentful.com/alneenqid6w5/28x1hbS9l2QgsyIcYyUoSM/bf1eecf7c1a429f8fc0070040f6fc2ac/precio-agendado-no-reactiva.png)
+![precio-agendado-no-reactiva](https://images.contentful.com/alneenqid6w5/28x1hbS9l2QgsyIcYyUoSM/bf1eecf7c1a429f8fc0070040f6fc2ac/precio-agendado-no-reactiva.png)
 
 Cuando el precio agendado vence, debería reactivar el precio fijo, ya que será el nuevo y único precio válido para ese SKU. Esta reactivación ocurre para la mayoría de los precios, pero no está ocurriendo en todos los casos y el producto queda publicado en la web, generalmente con un precio más económico que el precio fijo que no se reactivó automáticamente.
 

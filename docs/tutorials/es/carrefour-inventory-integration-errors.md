@@ -3,8 +3,8 @@ title: 'Errores de integración de stock con Carrefour'
 id: 4oDrYCkrIvWETCW34I2CKF
 status: PUBLISHED
 createdAt: 2021-10-25T22:15:47.447Z
-updatedAt: 2023-03-29T14:40:33.949Z
-publishedAt: 2023-03-29T14:40:33.949Z
+updatedAt: 2024-06-17T15:05:00.226Z
+publishedAt: 2024-06-17T15:05:00.226Z
 firstPublishedAt: 2021-10-25T22:30:07.082Z
 contentType: tutorial
 productTeam: Channels

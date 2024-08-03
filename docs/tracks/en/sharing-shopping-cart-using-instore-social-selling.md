@@ -3,8 +3,8 @@ title: 'Sharing shopping cart using VTEX Sales App Social Selling'
 id: 6deiffo22iKkY27PkfstXy
 status: PUBLISHED
 createdAt: 2021-08-05T14:57:10.773Z
-updatedAt: 2023-05-31T15:22:18.271Z
-publishedAt: 2023-05-31T15:22:18.271Z
+updatedAt: 2023-07-26T19:00:02.450Z
+publishedAt: 2023-07-26T19:00:02.450Z
 firstPublishedAt: 2021-08-05T15:08:06.961Z
 contentType: trackArticle
 productTeam: Shopping

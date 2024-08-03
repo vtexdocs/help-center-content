@@ -1,9 +1,9 @@
 ---
 title: 'Best practices for using application keys'
 id: 7b6nD1VMHa49aI5brlOvJm
-status: PUBLISHED
+status: CHANGED
 createdAt: 2022-10-04T21:36:57.185Z
-updatedAt: 2022-10-04T21:41:08.638Z
+updatedAt: 2024-03-19T14:22:43.610Z
 publishedAt: 2022-10-04T21:41:08.638Z
 firstPublishedAt: 2022-10-04T21:41:08.638Z
 contentType: tutorial
@@ -22,6 +22,7 @@ This type of credential is used to authenticate identities via API.
 </div>
 
 Improper handling of [application keys](https://help.vtex.com/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) can generate leaks, consequently leading to improper access scenarios. Below, you can see the best practices we recommend to manage the credentials you can implement to increase the security of your store.
+
 ## Rotate keys periodically
 
 It is recommended that you disable old keys and create new ones over time. By doing so, you make sure your [application keys](https://help.vtex.com/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) will have a certain duration.

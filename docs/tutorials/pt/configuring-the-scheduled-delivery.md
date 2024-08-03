@@ -44,7 +44,7 @@ Nesta estrutura, temos os seguintes dados:
 
 Usando o mesmo cenário da loja citada acima, segue a configuração da transportadora segundo sua demanda:
 
-![](//images.contentful.com/alneenqid6w5/6AEhj0a4SIeyQWCI6IQeCk/28a10fa00baa9723e73847d983e12d66/horariosentregaagendada.jpg)
+![](https://images.contentful.com/alneenqid6w5/6AEhj0a4SIeyQWCI6IQeCk/28a10fa00baa9723e73847d983e12d66/horariosentregaagendada.jpg)
 
 Supondo que o Estoque tem 2 dias de prazo; a Doca tem 1 dia de prazo; a Tabela de Frete tem 5 dias de prazo. O primeiro dia disponibilizado será **8** dias depois da data que o pedido está sendo efetuado. Como o Tempo Máximo de Entrega é de 10 dias, o último dia disponível para a escolha será o **18º** dia após a data que o pedido está sendo efetuado.
 

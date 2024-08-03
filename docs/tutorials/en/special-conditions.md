@@ -3,8 +3,8 @@ title: 'Configuring payment special conditions'
 id: tutorials_456
 status: PUBLISHED
 createdAt: 2017-04-27T22:03:58.783Z
-updatedAt: 2023-02-24T20:54:02.331Z
-publishedAt: 2023-02-24T20:54:02.331Z
+updatedAt: 2023-07-27T16:59:12.708Z
+publishedAt: 2023-07-27T16:59:12.708Z
 firstPublishedAt: 2017-04-27T23:03:26.753Z
 contentType: tutorial
 productTeam: Financial
@@ -20,10 +20,6 @@ Special conditions are part of the configuration of payment conditions which all
 To identify the special conditions applicable to each payment method, in the VTEX Admin, access  __Payments > Settings > Payment Conditions__, select the desired payment method and check the options as shown in the illustration below.
 
 ![special payment conditions](https://images.ctfassets.net/alneenqid6w5/1DllASa2BBHO7VjL1krOqD/5f674ce32524424a33df81b671e04e5c/Special_payment_conditions.png)
-
-<div class = "alert alert-info">
-  <p>The special conditions of the payment rules apply only to the number of installments. The payment method remains the same.</p>
-</div>
 
 ## Commercial condition
 

@@ -3,8 +3,8 @@ title: 'Componente cajón no funciona cuando se implementa en el producto-resume
 id: 75145kfQE8swAef57Yr4Aj
 status: PUBLISHED
 createdAt: 2023-05-29T13:22:57.856Z
-updatedAt: 2023-05-29T13:22:58.422Z
-publishedAt: 2023-05-29T13:22:58.422Z
+updatedAt: 2024-02-19T18:51:53.024Z
+publishedAt: 2024-02-19T18:51:53.024Z
 firstPublishedAt: 2023-05-29T13:22:58.422Z
 contentType: knownIssue
 productTeam: Store Framework

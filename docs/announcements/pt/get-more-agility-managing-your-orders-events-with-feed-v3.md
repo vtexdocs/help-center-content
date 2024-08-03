@@ -3,8 +3,8 @@ title: 'Ganhe mais agilidade na gestão dos eventos dos seus pedidos com o Feed 
 id: 49FssyfGcJfvGfrb3JQjVr
 status: PUBLISHED
 createdAt: 2019-02-18T19:55:07.210Z
-updatedAt: 2019-12-31T15:13:12.603Z
-publishedAt: 2019-12-31T15:13:12.603Z
+updatedAt: 2024-01-03T18:00:45.130Z
+publishedAt: 2024-01-03T18:00:45.130Z
 contentType: updates
 productTeam: Post-purchase
 author: 6AcGyun1hSWewU8YcaQiO
@@ -31,7 +31,5 @@ Por serem soluções independentes e não se tratar de uma migração, é possí
 
 ## O que você precisa fazer
 
-Encontre o passo a passo da configuração do feed v3 no nosso tutorial [Feed v3 de Gerenciamento de pedidos](https://help.vtex.com/pt/tutorial/feed-v3-de-gerenciamento-de-pedidos) 
-
-
+Encontre o passo a passo da configuração em [Feed v3](https://developers.vtex.com/docs/guides/orders-feed).
 

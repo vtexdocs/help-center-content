@@ -77,7 +77,7 @@ La segunda etapa para rellenar la plantilla de mapeo es hacer la correspondencia
 
 Las variaciones obligatorias son atributos indispensables para el mapeo de determinadas categorías del producto. Si se trata de un `calzado`, `ropa`, `bolsa`, `cinturón` o `electrodoméstico`, será necesario mapear las variaciones obligatorias. 
 
-El nombre de estas debe estar exactamente de acuerdo con los valores aceptados por el marketplace. [Descargue aquí](//assets.ctfassets.net/alneenqid6w5/5nLnBUVonS8qgWqqeck4MQ/28d9a8e7ce08b03d243b43bb6b759c5d/Planilha_de_Atributos_do_Mercado_Livre.xlsx) la __Plantilla de Variaciones de Mercado Libre__ para verificar los valores aceptados de acuerdo con cada tipo de producto.
+El nombre de estas debe estar exactamente de acuerdo con los valores aceptados por el marketplace. [Descargue aquí](https://assets.ctfassets.net/alneenqid6w5/5nLnBUVonS8qgWqqeck4MQ/28d9a8e7ce08b03d243b43bb6b759c5d/Planilha_de_Atributos_do_Mercado_Livre.xlsx) la __Plantilla de Variaciones de Mercado Libre__ para verificar los valores aceptados de acuerdo con cada tipo de producto.
 
 ### Variaciones personalizables 
 
@@ -172,7 +172,7 @@ Al concluir las etapas para rellenar la plantilla de mapeo, usted debe seguir lo
 1. Acceda al Admin.
 2. En el módulo Marketplace, haga clic en Integraciones.
 3. Seleccione la opción Configuración.
-4. En la integración Mercado Libre, haga clic en el engranaje<img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />
+4. En la integración Mercado Libre, haga clic en el engranaje<img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/39oIVAfBAL5iIPqR5mrg2y/f1943060e88dd71804dcc7844a71c1cd/engrenagem.JPG" />
 5. Elija la opción **Carga de mapeo**.
 6. Seleccione la opción **Elegir un archivo**.
 7. Ahora, seleccione la plantilla de mapeo de categorías, atributos y variaciones de Mercado Libre.

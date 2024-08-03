@@ -3,8 +3,8 @@ title: 'Promotions Overview'
 id: 3PeHVYcooLIDmA33IAnjhm
 status: PUBLISHED
 createdAt: 2023-03-29T19:29:50.947Z
-updatedAt: 2023-03-29T19:33:24.646Z
-publishedAt: 2023-03-29T19:33:24.646Z
+updatedAt: 2023-09-13T22:35:44.331Z
+publishedAt: 2023-09-13T22:35:44.331Z
 firstPublishedAt: 2023-03-29T19:31:43.053Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -18,8 +18,6 @@ subcategory:
 A promotion is a discount granted to the customer on one or more products in the cart or on the shipping cost, or even a gift. On VTEX, the retailer can create a series of rules that, depending on the context of the purchase, will determine if and how the discount will be applied. 
 
 In the **Promotions** menu of your redesigned Admin you can set up a promotion restricted to certain product lists, customer lists, zip code ranges, minimum cart value, and more.
-
-![visao-geral-promo-EN](https://images.ctfassets.net/alneenqid6w5/6FHow2OrXNqAoiKaJngwPU/57e0072889c99d6cfff9846f58fc28a9/image.png)
 
 Check out the menu’s different sections and pages below.
 

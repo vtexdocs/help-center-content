@@ -1,10 +1,10 @@
 ---
 title: 'Setting up MercadoPagoV1 sub-acquirer'
 id: 6wTlR3UTJe6YMAsEuquO26
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-03-08T13:05:57.452Z
-updatedAt: 2023-03-22T18:05:53.962Z
-publishedAt: 2023-03-22T18:05:53.962Z
+updatedAt: 2024-03-18T18:35:39.248Z
+publishedAt: 
 firstPublishedAt: 2018-03-08T19:45:23.370Z
 contentType: tutorial
 productTeam: Financial
@@ -15,19 +15,21 @@ legacySlug: setting-up-mercadopagov1-sub-acquirer
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
+<div class="alert alert-danger">This payment integration can no longer be configured on the platform due to the <a href="https://help.vtex.com/en/announcements/legacy-payment-connectors-will-be-discontinued-in-2024--4R5YIjUu1IWkiOHzXtQU14">legacy provider removal process</a> and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.</div>
+
 With the VTEX gateway, you can configure the MercadoPago [sub-acquirer](/en/tutorial/what-is-a-sub-acquirer) to operate in various ways. __MercadoPagoV1__ allows your store to receive payments using debit and credit cards, in addition to Mercado Pago's [digital wallet](/en/faq/what-is-an-e-wallet).
 
 <div class="alert alert-warning">
-  The <strong>MercadoPagoV1</strong> affiliation does not support payment using boleto bancario (payment method in Brazil).
+  The <strong>MercadoPagoV1</strong> integration does not support payment using boleto bancario (payment method in Brazil).
 </div>
 
 The steps below will let you set up MercadoPagoV1:
 
-## Setting up MercadoPagoV1 gateway affiliation
+## Setting up MercadoPagoV1
 
-1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
-2. Click on the __+__ button, in the __Gateway affiliations__ tab.
-3. Click on the __MarketPagoV1__ connector.
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __MercadoPagoV1__ in the search bar and click on the name of the provider.
 4. The __OAuth login__ field is not used. Leave it as it is.
 5. Fill in the __PublicKey__ and __AccessToken__ fields with the data provided by MercadoPago.
 6. Leave the __RefreshToken__, __ExpiredTokenIn__, and __Merchant Account Id__ fields blank.

@@ -3,8 +3,8 @@ title: 'Registrar especificaciones o campos de SKU'
 id: tutorials_119
 status: PUBLISHED
 createdAt: 2017-04-27T22:18:08.662Z
-updatedAt: 2023-03-29T17:31:34.699Z
-publishedAt: 2023-03-29T17:31:34.699Z
+updatedAt: 2023-11-30T12:05:25.945Z
+publishedAt: 2023-11-30T12:05:25.945Z
 firstPublishedAt: 2017-04-27T23:00:44.181Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ legacySlug: criando-campo-de-sku
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
-La especificación de SKU es un campo en el registro del SKU en el cual se ingresan las características específicas para cada variación de un producto.
+La especificación de SKU es un campo obligatorio en el registro del SKU en el cual se ingresan las características específicas para cada variación de un producto.
 
 En VTEX, una especificación siempre forma parte de un [grupo de especificaciones](https://help.vtex.com/es/tutorial/criando-grupo-de-categoria--tutorials_246) que está asociado a una [categoría](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf). Es precisamente por esto que, para crear una especificación (campo) del SKU, debe existir, al menos, el registro de una categoría y de un grupo de especificaciones.
 

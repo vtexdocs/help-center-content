@@ -3,8 +3,8 @@ title: 'Los filtros de especificación de SKU no se cargan cuando la SKU sólo e
 id: 5SpoacD49oxDDGJjepUEoL
 status: PUBLISHED
 createdAt: 2022-03-21T17:41:20.048Z
-updatedAt: 2022-11-25T21:58:05.886Z
-publishedAt: 2022-11-25T21:58:05.886Z
+updatedAt: 2024-02-16T20:29:10.321Z
+publishedAt: 2024-02-16T20:29:10.321Z
 firstPublishedAt: 2022-03-21T17:41:20.389Z
 contentType: knownIssue
 productTeam: Intelligent Search
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: los-filtros-de-especificacion-de-sku-no-se-cargan-cuando-la-sku-solo-esta-disponible-en-un-vendedor-de-etiqueta-blanca
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 431888
 ---
 

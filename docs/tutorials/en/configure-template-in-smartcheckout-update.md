@@ -138,5 +138,5 @@ Multi-domain accounts can use just one site if no specifics configuration requir
 
 An example of a "body" tag that's inserted according to the accessed domain:
 
-![](//images.contentful.com/alneenqid6w5/4YAbMPcyqA8eqMM8ycokoU/836778d23afee9b0e793b27d9ab8cc0c/Portal16.jpg)
+![](https://images.contentful.com/alneenqid6w5/4YAbMPcyqA8eqMM8ycokoU/836778d23afee9b0e793b27d9ab8cc0c/Portal16.jpg)
 

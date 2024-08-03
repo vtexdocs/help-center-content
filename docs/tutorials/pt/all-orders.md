@@ -3,8 +3,8 @@ title: 'Todos os pedidos'
 id: 2QTduKHAJMFIZ3BAsi6Pi
 status: PUBLISHED
 createdAt: 2022-04-04T21:50:53.330Z
-updatedAt: 2023-03-23T16:27:45.086Z
-publishedAt: 2023-03-23T16:27:45.086Z
+updatedAt: 2023-12-21T14:05:13.862Z
+publishedAt: 2023-12-21T14:05:13.862Z
 firstPublishedAt: 2022-04-04T22:39:11.450Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -14,6 +14,10 @@ locale: pt
 legacySlug: lista-de-pedidos-beta
 subcategory: 3VNOhxDrvYxJThhuJClrYZ
 ---
+
+<div class = "alert alert-info">
+É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo <a href="https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Minha Conta</a>.
+</div>
 
 A página **Todos os Pedidos** permite que lojistas acompanhem os pedidos da sua loja e extraiam informação para uma gestão inteligente do seu negócio. Para acessar a página, no menu do seu Admin VTEX, clique em **Pedidos > Todos os Pedidos**. Nesta página, você pode:
 
@@ -25,6 +29,13 @@ A página **Todos os Pedidos** permite que lojistas acompanhem os pedidos da sua
 A seguir exploraremos os componentes e ações incluídos na página.
 
 ![Order Listing EN](https://images.ctfassets.net/alneenqid6w5/683JysQxHoXao2zRxQCJ6x/90dad9da099d53164009d4a428d2f731/Order_Listing_EN.gif)
+
+Além de pesquisar pedidos em **Pedidos > Todos os pedidos**, você pode buscar pedidos a partir de qualquer página no Admin VTEX usando a barra de busca global no topo da página. Por padrão, a busca está configurada para `Páginas`. Para buscar um pedido, clique sobre a barra, selecione a opção `Pedidos` e utilize algum dos seguintes critérios:
+
+- ID do pedido
+- Nome do cliente
+- Email do cliente
+- Documento do cliente 
 
 ## Barra superior
 

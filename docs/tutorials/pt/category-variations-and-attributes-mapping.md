@@ -21,7 +21,7 @@ Com essa feature, será possível categorizar corretamente os seus produtos no M
 
 O mapeamento só será feito uma vez para cada categoria. Isso significa que, já tendo feito o mapeamento uma vez, os novos produtos que forem criados vão ser integrados diretamente na categoria correta (e com suas respectivas variações e atributos).
 
-- [Baixe aqui](//assets.ctfassets.net/alneenqid6w5/qyDp7OSL5YAGaGKagWiK0/07900f41a952a460185e18f9db190eb1/Planilha_de_Mapeamento_do_Mercado_Livre.xlsx) a __Planilha de Mapeamento do Mercado Livre__ no formato `.xlsx`.
+- [Baixe aqui](https://assets.ctfassets.net/alneenqid6w5/qyDp7OSL5YAGaGKagWiK0/07900f41a952a460185e18f9db190eb1/Planilha_de_Mapeamento_do_Mercado_Livre.xlsx) a __Planilha de Mapeamento do Mercado Livre__ no formato `.xlsx`.
 
 A mesma planilha será usada nas três macroetapas, descritas a seguir (categorização, variações e atributos). Siga o passo a passo, preenchendo os campos da planilha de mapeamento conforme as indicações abaixo.
 
@@ -30,7 +30,7 @@ A mesma planilha será usada nas três macroetapas, descritas a seguir (categori
 Aqui será feito o de/para das suas categorias na VTEX com as usadas pelo Mercado Livre. 
 
 1. __CategoryId:__ é o ID da categoria na VTEX. Você consegue encontrá-lo do lado do nome de cada categoria ao expandir a árvore.
-2. __MeliCategoryId:__ é o ID da categoria no Mercado Livre. [Clique aqui](//assets.ctfassets.net/alneenqid6w5/4IGh23L6buEm8s8IWYwISS/f8f1e862f39f8f0052b1b60a696aadd6/MercadoLivre_CategoriasFixas.xlsx) para fazer o download da planilha em que esses valores estão disponibilizados. Se preferir, acesse esta [API do Mercado Livre](https://api.mercadolibre.com/sites/MLB/categories) para consultar as categorias, que estão sempre atualizadas por lá.
+2. __MeliCategoryId:__ é o ID da categoria no Mercado Livre. [Clique aqui](https://assets.ctfassets.net/alneenqid6w5/4IGh23L6buEm8s8IWYwISS/f8f1e862f39f8f0052b1b60a696aadd6/MercadoLivre_CategoriasFixas.xlsx) para fazer o download da planilha em que esses valores estão disponibilizados. Se preferir, acesse esta [API do Mercado Livre](https://api.mercadolibre.com/sites/MLB/categories) para consultar as categorias, que estão sempre atualizadas por lá.
 
 >_`Ex:` você tem a seguinte árvore na __VTEX__:_
 
@@ -60,7 +60,7 @@ No Mercado Livre, existem dois tipos de variação: as __obrigatórias__ e as __
 
 - Variações obrigatórias
 
-Caso seu produto seja um `Calçado`, `Roupa`, `Bolsa`, `Cinto` ou `Eletrodoméstico`, __será necessário mapear as variações obrigatórias__. O nome delas deve seguir exatamente os valores aceitos pelo marketplace. [Baixe aqui](//assets.ctfassets.net/alneenqid6w5/5nLnBUVonS8qgWqqeck4MQ/11965d535fbb660d698cd73cc2109df1/Planilha_de_Variac__o__es_do_Mercado_Livre.xlsx) a __Planilha de Variações do Mercado Livre__ para verificar os valores aceitos de acordo com cada tipo de produto.
+Caso seu produto seja um `Calçado`, `Roupa`, `Bolsa`, `Cinto` ou `Eletrodoméstico`, __será necessário mapear as variações obrigatórias__. O nome delas deve seguir exatamente os valores aceitos pelo marketplace. [Baixe aqui](https://assets.ctfassets.net/alneenqid6w5/5nLnBUVonS8qgWqqeck4MQ/11965d535fbb660d698cd73cc2109df1/Planilha_de_Variac__o__es_do_Mercado_Livre.xlsx) a __Planilha de Variações do Mercado Livre__ para verificar os valores aceitos de acordo com cada tipo de produto.
 
 - Variações customizáveis
 

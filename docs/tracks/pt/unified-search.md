@@ -1,10 +1,10 @@
 ---
-title: 'Busca unificada'
+title: 'Busca unificada no VTEX Sales App'
 id: 9sXeVwoD60qYYgRJ11r5F
-status: PUBLISHED
+status: CHANGED
 createdAt: 2021-08-05T13:47:18.180Z
-updatedAt: 2023-05-31T14:45:09.383Z
-publishedAt: 2023-05-31T14:45:09.383Z
+updatedAt: 2024-05-03T13:22:04.096Z
+publishedAt: 2024-05-03T12:35:21.520Z
 firstPublishedAt: 2021-08-05T14:45:51.056Z
 contentType: trackArticle
 productTeam: Shopping
@@ -14,33 +14,42 @@ trackId: 4BYzQIwyOHvnmnCYQgLzdr
 trackSlugPT: instore-usando-o-app
 ---
 
-Na Prateleira Infinita do VTEX Sales App, o vendedor pode buscar pelos produtos desejados e adicioná-los ao carrinho. Para isso, é necessário clicar na lupa na barra superior do VTEX Sales App e digitar o nome do produto, o código de referência ou o EAN.
+Com a [prateleira infinita](https://help.vtex.com/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) do VTEX Sales App, o vendedor pode buscar por produtos que não estão limitados ao estoque da loja e adicioná-los ao carrinho. Para buscar um produto, clique no ícone de lupa <i class="fas fa-search"></i> e a barra de busca será exibida no topo da página inicial da loja.  Digite o nome do produto, código referência, SKU ID  ou EAN para encontrar o que precisa.
 
-![instore-search-pt](https://images.ctfassets.net/alneenqid6w5/5zBP54Dt2s7P6514vC1K8z/a7145393acb3d5517f53c0925a9d45b2/instore-search-pt.png)
+<div class = "alert alert-info">
+Para melhorar a experiência em cenários em que a conexão com a internet esteja em baixa velocidade, esta funcionalidade conta com recursos otimizados que fazem uso do cache do navegador para otimizar a busca.
+</div>
 
-A busca do VTEX Sales App é unificada, ou seja, ao fazer uma busca no aplicativo, o vendedor pesquisa tanto no estoque local (da loja física em si) quanto no de outras lojas físicas e dos centros de distribuição associados ao ecommerce.
+![Barra busca - PT](https://images.ctfassets.net/alneenqid6w5/3bfHAUCI0TwYoAkLMf67yw/3c7031056980ae911e2436933bee89fa/Tela_1_barra_busca.gif)
 
-![instore-search-plp-pt](https://images.ctfassets.net/alneenqid6w5/1WEugAiPUVHRVTL1ph3zv2/dbe2ac9add28b4576a4a6e7b3d5c227e/instore-search-plp-pt.png)
+A busca do VTEX Sales App é unificada, o que significa que ao fazer uma busca no aplicativo a pesquisa é feita tanto no estoque local (da sua loja física) quanto no de outras lojas físicas e nos centros de distribuição associados ao ecommerce.
 
-Ao clicar na seta <i class="fas fa-chevron-down"></i> ao lado de um produto, você poderá ver suas variações, as opções de entrega, a quantidade a ser adicionada ao carrinho e os botões `Adicionar ao carrinho` e `Mais detalhes`.
+Os resultados da busca mostram os produtos organizados para melhorar a experiência do cliente, com imagens que facilitam a identificação dos produtos e informações relevantes para o vendedor.
 
-![instore-search-details-pt](https://images.ctfassets.net/alneenqid6w5/1itzXskqYPkJ4CghrWihy8/c792832bed73d6e28782c35ab8b6fb55/Group_2__1_.png)
+![Busca unificada - PT](https://images.ctfassets.net/alneenqid6w5/2xcAiK7XONko8bTJrQPRNR/c918c2a6179fc8899f9bc3d899b60121/Busca_unificada_VTEX_Sales_App.png)
+
+Ao clicar na opção `Adicionar ao carrinho`, as seguintes informações do produto serão exibidas:
+
+- Variação do produto, SKUs.
+- Disponibilidade das opções de entrega.
+- Quantidade do produto que será adicionada no carrinho.
+
+Para adicionar o produto ao carrinho, selecione a variação, entrega e quantidade desejada e clique em `Adicionar ao carrinho`.
+
+![Carrinho - PT](https://images.ctfassets.net/alneenqid6w5/3lUWtqtEAZZCsJhTYVkYBO/f4a3612b1e625a03b446831229bbf605/Adicionar_ao_carrinho_VTEX_Sales_App.png)
 
 ## Filtros
 
+Os filtros permitem que a busca seja refinada de acordo com as preferências do cliente. Com a possibilidade de associar diferentes filtros, é possível realizar uma combinação precisa de critérios de pesquisa e, se necessário, remover qualquer filtro de forma simples.
 Para utilizar os filtros de busca no VTEX Sales App, é necessário antes instalar e configurar o [VTEX Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG). Nesse contexto, observe alguns pontos de atenção:
-
-* É fundamental configurar os filtros que serão exibidos, conforme o artigo [Configuração da busca](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx), caso contrário todas as informações do produto serão atributos filtráveis no VTEX Sales App.
-* A opção **Autocomplete** não se aplica à busca no VTEX Sales App, portanto pode ser deixada vazia.
-* Qualquer alteração realizada na configuração de busca também vai se aplicar ao ecommerce caso a ferramenta utilizada seja o VTEX Intelligent Search.
+- É fundamental configurar os filtros que serão exibidos, conforme o artigo [Configuração da busca](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5t75L6lYNwix93l41s1Yrx), caso contrário todas as informações do produto serão atributos filtráveis no VTEX Sales App.
+- Qualquer alteração realizada na configuração de busca também será aplicada ao ecommerce caso a ferramenta de busca utilizada seja o VTEX Intelligent Search.
 
 Além das configurações do VTEX Intelligent Search, é preciso [entrar em contato com o time de suporte da VTEX](https://support.vtex.com/hc/pt-br/requests) para habilitar a funcionalidade de filtros no VTEX Sales App.
 
-Uma vez que os filtros estiverem habilitados, é possível utilizar esse recurso seguindo o procedimento abaixo durante a busca por produtos.
-
-1. Se estiver utilizando o VTEX Sales App em um dispositivo móvel, como um smartphone, clique em `Filtrar busca`. Se estiver usando outro dispositivo com uma tela maior, pule este passo.
+Uma vez que os filtros estejam habilitados, é possível utilizar esse recurso seguindo o procedimento abaixo durante a busca por produtos:
+1. Se estiver utilizando o VTEX Sales App em um dispositivo móvel, como um smartphone, clique em `Filtros`.  Se estiver usando outro dispositivo com uma tela maior, pule este passo.
 2. Selecione os filtros desejados.
-3. Clique em `Filtrar busca`.
+3. Clique em `Filtrar`.
 
 Os resultados exibidos serão filtrados de acordo com as suas preferências.
-

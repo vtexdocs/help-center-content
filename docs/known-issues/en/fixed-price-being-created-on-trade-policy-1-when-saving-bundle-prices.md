@@ -3,8 +3,8 @@ title: 'Fixed Price being created on trade Policy 1 when saving bundle prices.'
 id: 3Xbh5GVn0jm2yhaOiRg3Le
 status: PUBLISHED
 createdAt: 2022-11-28T12:41:07.808Z
-updatedAt: 2022-11-28T12:41:08.426Z
-publishedAt: 2022-11-28T12:41:08.426Z
+updatedAt: 2024-02-16T20:24:01.848Z
+publishedAt: 2024-02-16T20:24:01.848Z
 firstPublishedAt: 2022-11-28T12:41:08.426Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: fixed-price-being-created-on-trade-policy-1-when-saving-bundle-prices
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 705869
 ---
 

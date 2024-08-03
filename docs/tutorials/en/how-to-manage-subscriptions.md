@@ -3,8 +3,8 @@ title: 'How to manage Subscriptions'
 id: 6Jk50FPbv6iuz1OsFypv8x
 status: PUBLISHED
 createdAt: 2020-02-05T14:18:54.781Z
-updatedAt: 2022-12-05T16:48:31.127Z
-publishedAt: 2022-12-05T16:48:31.127Z
+updatedAt: 2023-12-21T14:08:39.725Z
+publishedAt: 2023-12-21T14:08:39.725Z
 firstPublishedAt: 2020-02-11T14:56:17.333Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -38,6 +38,10 @@ The **Unique Subscriptions** section allows you to:
  ![EN Dashboard Assinatura única](https://images.ctfassets.net/alneenqid6w5/1UiNoDxKut3m9UUbhDBZoa/5d6af9bbfcc2d46e751050f5c848f206/EN_Dashboard_Assinatura___nica.png)
 
 ### Subscription Orders
+
+<div class = "alert alert-info">
+You can only access information from orders created in the last two years, and that same period is valid for customers through <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>.
+</div>
 
 The **Subscription Orders** section allows you to:
 

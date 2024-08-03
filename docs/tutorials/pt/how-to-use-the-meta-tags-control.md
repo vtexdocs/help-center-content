@@ -3,8 +3,8 @@ title: 'Como usar o controle de meta tags'
 id: 2OPiSPubgcEqIikAWsCouk
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:38.270Z
-updatedAt: 2023-03-29T17:49:39.799Z
-publishedAt: 2023-03-29T17:49:39.799Z
+updatedAt: 2023-10-17T14:24:54.898Z
+publishedAt: 2023-10-17T14:24:54.898Z
 firstPublishedAt: 2019-01-24T22:06:45.424Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -55,5 +55,5 @@ Veja abaixo um exemplo de meta tags inseridas pelo controle `<vtex:metaTags/>` p
 ```
 
 <div class="alert alert-info">
-Caso não queira usar a tag canonical (&lt;link rel="canonical"&gt;), você pode desabilitá-la por meio de um <a href="http://help.vtex.com/pt/faq/controle-para-desabilitar-a-tag-canonical">controle específico para isso</a>.
+Caso não queira usar a tag canonical (&lt;link rel="canonical"&gt;), você pode desabilitá-la por meio de um <a href="https://developers.vtex.com/docs/guides/control-to-disable-the-canonical-tag">controle específico para isso</a>.
 </div>

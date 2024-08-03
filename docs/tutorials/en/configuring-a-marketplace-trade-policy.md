@@ -1,10 +1,10 @@
 ---
 title: 'Configuring a marketplace trade policy'
 id: tutorials_404
-status: PUBLISHED
+status: CHANGED
 createdAt: 2017-04-27T22:06:38.350Z
-updatedAt: 2022-12-08T17:30:09.288Z
-publishedAt: 2022-12-08T17:30:09.288Z
+updatedAt: 2024-06-14T14:19:35.130Z
+publishedAt: 2024-05-15T00:18:56.253Z
 firstPublishedAt: 2017-04-27T23:03:23.796Z
 contentType: tutorial
 productTeam: Channels
@@ -30,7 +30,9 @@ Learn how you can configure trade policies in the following modules when your st
 
 To [request additional trade policies](https://help.vtex.com/en/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), contact our Growth Operations team through *[Support](https://help.vtex.com/en/support)* by selecting **Commercial** and `Create a trade policy`.
 
-Requesting additional trade policies to integrate with [native connectors](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-native-connector-vtex), [certified connectors (partners)](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-certified-connector-partner), or other VTEX stores is free of charge.
+Requesting additional trade policies to integrate with [native connectors](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-native-connector-vtex), [certified connectors](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-certified-connector-partner), or other VTEX stores is free of charge.
+
+<div class=alert alert-warning> If the same trade policy is applied to a certified connector and a partner connector, there is no fee exemption.</div>
 
 ## Store setup
 Creating a new trade policy is the first step in defining the conditions that apply to each marketplace in which a seller operates. Sellers can create multiple trade policies, or apply the same policy to more than one marketplace.

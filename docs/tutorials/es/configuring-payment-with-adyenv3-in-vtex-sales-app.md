@@ -3,8 +3,8 @@ title: 'Configurar pagos con AdyenV3 en VTEX Sales App'
 id: 24yO6KloBn6DN6CbprHtgt
 status: PUBLISHED
 createdAt: 2023-05-09T14:12:03.567Z
-updatedAt: 2023-06-01T11:38:18.504Z
-publishedAt: 2023-06-01T11:38:18.504Z
+updatedAt: 2024-07-26T16:55:23.474Z
+publishedAt: 2024-07-26T16:55:23.474Z
 firstPublishedAt: 2023-05-11T20:30:50.460Z
 contentType: tutorial
 productTeam: Financial
@@ -55,8 +55,12 @@ Para habilitar el acceso de VTEX en el entorno Adyen, sigue los pasos a continua
 
 ### Obtener la POS Live URL
 
+Esta información hace referencia a los endpoints utilizados por las API de terminales de Adyen en un entorno productivo. Para obtener más información, vaya a [documentación Adyen](https://docs.adyen.com/point-of-sale/design-your-integration/terminal-api#cloud).
+
+### Obtener la Live URL prefix
+
 1. En la barra lateral, accede a **Developers > API URLs**.
-2. Haz clic en `Copy` en el campo **Point of Sale** y anota la información guardada en un lugar seguro.
+2. Haz clic en `Copy` en el campo **Prefix** y anota la información guardada en un lugar seguro. Este prefijo controla su terminal en la plataforma Adyen.
 
 ### Obtener la API Key
 
@@ -102,22 +106,19 @@ Si tienes varias tiendas, es necesario configurar el webhook para cada una de el
 
 ## Configurar el conector AdyenV3 (VTEX Sales App) en VTEX
 
-1. En el Admin VTEX, ve a **Configuración de la tienda > Pagos > Configuración**, o ingresa **Configuración** en la barra de búsqueda situada en la parte superior de la página.
-2. En la pestaña **Afiliaciones de gateway**, haz clic en el botón `+`.
-3. Haz clic en el conector **AdyenV3**.
-4. Rellena los siguientes campos con tus datos de Adyen:
-    - **Application Key**: el nombre de tu Adyen Merchant Account (paso 3 de la sección [Obtener las credenciales Company y Merchant Account](#obtener-las-credenciales-company-y-merchant-account).
-    - **Application Token**: API Key (paso 4 de la sección [Obtener la API Key](#obtener-la-api-key)).
-    - **Live URL prefix**: no es necesario rellenar este campo (solo aplicable a otros canales de venta online).
-    - **Company account**: el nombre de tu company account (paso 2 de la sección [Obtener las credenciales Company y Merchant Account](#obtener-las-credenciales-company-y-merchant-account)).
-    - **Live POS URL**: URL prefix (paso 2 de la sección [Obtener la POS Live URL](#obtener-la-pos-live-url). 
-    - **Client key**: no es necesario rellenar este campo (solo aplicable a otros canales de venta online).
-
-<blockquote><ui>  5. Si aparece un mensaje de alerta indicando la necesidad de instalar la aplicación, haz clic en el botón <b>Instalar aplicación</b> y sigue las instrucciones para hacerlo.</ui>
-
-<blockquote><ui>  6. Haz clic en <b>Guardar</b>.</ui>
-
-![Adyenv3_9](https://images.ctfassets.net/alneenqid6w5/SCflCIOFcwFro09YTxEZy/27b941b772a6afb021d0fa2fe25c9fa9/Adyenv3_9.PNG)
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __AdyenV3__ en la barra de búsqueda y haga clic en el nombre del proveedor.
+4. En __Clave de aplicación__, el nombre de tu Adyen Merchant Account (paso 3 de la sección [Obtener las credenciales Company y Merchant Account](#obtener-las-credenciales-company-y-merchant-account).
+5. En __Token de aplicación__, ingrese la clave API (paso 4 de la sección [Obtener la API Key](#obtener-la-api-key)).
+6. Si desea modificar el nombre de identificación que se mostrará para el proveedor AdyenV3 en la pantalla VTEX Admin, ingrese la información en el campo __Nombre__ en __Información general__.
+7. En __Control de pago__, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en __Activar modo de prueba__.
+8. En __Live URL prefix__, complete el prefijo disponible en el área de clientes de Adyen (paso 2 de la sección [Obtener la Live URL prefix](#obtener-la-live-url-prefix)).
+9. En __Company account__, ingrese el nombre de tu company account (paso 2 de la sección [Obtener las credenciales Company y Merchant Account](#obtener-las-credenciales-company-y-merchant-account)).
+10. En __Live POS URL__, complete los endpoints utilizados para acceder a las API de terminales de Adyen. Obtenga más información en [documentación de Adyen] (https://docs.adyen.com/point-of-sale/design-your-integration/terminal-api#cloud).
+11. No es necesario rellenar el campo __Client key__, ya que sólo es aplicable a otro tipo de canales de venta online.
+12. En __Auto Capture Settings__, seleccione cuándo desea capturar el pago.
+13. Haga clic en `Guardar`.  
 
 ## Configurar condición de pago
 

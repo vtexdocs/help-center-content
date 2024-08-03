@@ -1,10 +1,10 @@
 ---
 title: 'SKU Bindings'
 id: 1SmrVgNwjJX17hdqwLa0TX
-status: CHANGED
+status: PUBLISHED
 createdAt: 2022-05-27T17:27:26.963Z
-updatedAt: 2023-05-25T15:51:50.053Z
-publishedAt: 2023-03-31T19:05:52.334Z
+updatedAt: 2024-01-23T15:50:13.022Z
+publishedAt: 2024-01-23T15:50:13.022Z
 firstPublishedAt: 2022-05-31T17:14:23.589Z
 contentType: tutorial
 productTeam: Channels

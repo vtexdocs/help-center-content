@@ -1,10 +1,10 @@
 ---
 title: 'Añadir soporte a 3DS2 en la integración con Redsýs V2'
 id: 1ixji2XORg9p0UoW8gBtUG
-status: PUBLISHED
+status: DRAFT
 createdAt: 2021-03-08T14:53:08.780Z
-updatedAt: 2023-03-23T15:42:17.139Z
-publishedAt: 2023-03-23T15:42:17.139Z
+updatedAt: 2024-03-18T19:54:47.084Z
+publishedAt: 
 firstPublishedAt: 2021-03-08T16:29:32.443Z
 contentType: tutorial
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: es
 legacySlug: anadir-soporte-a-3ds2-en-la-integracion-con-redsys-v2
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+<div class="alert alert-danger">Esta integración de pago ya no se puede configurar en la plataforma debido al <a href="https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14">proceso de descontinuación de los proveedores legados</a> y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.</div>
 
 La funcionalidad 3DS2 ahora está disponible también para pagos realizados con tarjeta de crédito y procesados a través del *gateway* de pagos [Redsýs](https://help.vtex.com/pt/tutorial/configurar-gateway-redsys--7xRnMyzZS0kQoIG2ISagY8).
 

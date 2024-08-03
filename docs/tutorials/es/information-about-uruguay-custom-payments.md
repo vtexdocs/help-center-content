@@ -1,10 +1,10 @@
 ---
 title: 'Información de los pagos personalizados de Uruguay'
 id: 4cXMr3C5rqIkUkMWgCcWeU
-status: PUBLISHED
+status: DRAFT
 createdAt: 2019-01-24T20:45:36.816Z
-updatedAt: 2019-12-31T15:20:18.360Z
-publishedAt: 2019-12-31T15:20:18.360Z
+updatedAt: 2024-03-19T12:18:07.525Z
+publishedAt: 
 firstPublishedAt: 2019-01-24T22:01:06.326Z
 contentType: tutorial
 productTeam: Financial

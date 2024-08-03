@@ -3,8 +3,8 @@ title: 'La API GET SKU by EAN sólo devuelve las SKU activas'
 id: 5NiuB1Lgf3CM5kXSSVdfuu
 status: PUBLISHED
 createdAt: 2020-03-23T15:10:23.842Z
-updatedAt: 2022-11-25T22:00:19.153Z
-publishedAt: 2022-11-25T22:00:19.153Z
+updatedAt: 2023-10-24T17:25:02.496Z
+publishedAt: 2023-10-24T17:25:02.496Z
 firstPublishedAt: 2020-03-27T19:32:53.914Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: la-api-get-sku-by-ean-solo-devuelve-las-sku-activas
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 699007
 ---
 

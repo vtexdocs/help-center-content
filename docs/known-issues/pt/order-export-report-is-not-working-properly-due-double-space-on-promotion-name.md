@@ -1,10 +1,10 @@
 ---
-title: 'O Relatório de Exportação de Pedidos não está funcionando corretamente devido ao espaço duplo no nome da Promoção'
+title: 'O relatório de exportação de pedidos não está funcionando corretamente devido ao espaço duplo no nome da promoção'
 id: 3dVPZEs544WyPDBNzTesWx
 status: PUBLISHED
 createdAt: 2023-04-06T20:22:47.489Z
-updatedAt: 2023-04-06T20:22:48.141Z
-publishedAt: 2023-04-06T20:22:48.141Z
+updatedAt: 2024-06-28T17:44:15.662Z
+publishedAt: 2024-06-28T17:44:15.662Z
 firstPublishedAt: 2023-04-06T20:22:48.141Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: o-relatorio-de-exportacao-de-pedidos-nao-esta-funcionando-corretamente-devido-ao-espaco-duplo-no-nome-da-promocao
 locale: pt
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 786216
 ---
 
@@ -23,27 +23,22 @@ internalReference: 786216
 </div>
 
 
-Para promoção de pedidos, não é correto usar espaço doble ou caráter especial nos nomes, isto pode quebrar o filtro ou faltar algum pedido no relatório de exportação do pedido.
-Nome na matriz "ratesAndBenefitsData".
-
-
-##
+O sistema de relatório de pedidos atualmente não consegue criar um arquivo a partir de filtros de promoção que contêm espaços duplos em seus nomes. Ao tentar criar o relatório, o sistema gera um erro e a exportação não é realizada, resultando na mensagem "_Exportação concluída. 0 pedidos foram enviados para seu e-mail"_.
 
 ## Simulação
 
 
-Criar pedido usando alguma promoção com nome incorreto, por exemplo, com espaço doble no nome.
-Depois disso, vai para o gerenciamento de pedidos todos os pedidos e executa um filtro com esta promoção como condição.
-Nesse momento você pode ver o pedido na lista de pedidos filtrados, mas escolhendo o relatório de exportação que a exportação não obterá o pedido com promoção com espaço duplo.
 
+Crie um pedido usando alguma promoção cujo nome contenha espaços duplos;
 
-##
+Depois disso, vá para o gerenciamento de pedidos e execute um filtro com essa promoção como condição.
+
+Nesse ponto, a IU do OMS exibirá normalmente uma lista de pedidos com a condição escolhida, mas, ao selecionar a exportação de pedidos, a IU retornará a seguinte mensagem: "_Exportação concluída. 0 pedidos foram enviados para seu e-mail_"
 
 ## Workaround
 
 
-Não há nenhuma solução disponível.
-
+Filtre os pedidos na interface do usuário por outro parâmetro, por exemplo, data, forma de pagamento etc., depois exporte os pedidos e filtre-os por promoção diretamente no arquivo Excel gerado pelo sistema.
 
 
 

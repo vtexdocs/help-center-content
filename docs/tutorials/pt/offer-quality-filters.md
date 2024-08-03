@@ -1,10 +1,10 @@
 ---
 title: 'Filtros de qualidade dos anúncios'
 id: 4xm0gi8leCyxHj8YdgHSJH
-status: CHANGED
+status: PUBLISHED
 createdAt: 2023-02-27T12:15:26.682Z
-updatedAt: 2023-05-30T21:12:51.762Z
-publishedAt: 2023-02-28T13:45:44.808Z
+updatedAt: 2024-06-20T21:38:38.621Z
+publishedAt: 2024-06-20T21:38:38.621Z
 firstPublishedAt: 2023-02-27T19:32:00.584Z
 contentType: tutorial
 productTeam: Channels
@@ -12,7 +12,7 @@ author: 0QBQws7rk0t5Mnu8fgfUv
 slug: filtros-de-qualidade-dos-anuncios
 locale: pt
 legacySlug: filtros-de-qualidade-dos-anuncios
-subcategory: 4hU8QWlzhxWg711Kz7Gmib
+subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---
 
 Marketplaces precisam revisar e aprovar anúncios enviados por sellers para que os produtos sejam adicionados ao catálogo. No Admin VTEX esse [processo de catalogação](https://help.vtex.com/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396) é feito por meio da página SKUs Recebidos. 

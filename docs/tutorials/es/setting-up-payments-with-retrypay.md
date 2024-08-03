@@ -3,8 +3,8 @@ title: 'Configurar pago con Retrypay'
 id: 3QGioVKVI1Qnk3JbbJlJVY
 status: PUBLISHED
 createdAt: 2023-03-30T19:35:06.661Z
-updatedAt: 2023-03-30T20:01:51.283Z
-publishedAt: 2023-03-30T20:01:51.283Z
+updatedAt: 2024-02-08T14:23:02.038Z
+publishedAt: 2024-02-08T14:23:02.038Z
 firstPublishedAt: 2023-03-30T20:01:51.283Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pago-con-retrypay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX es posible la integración con el proveedor de pagos Retrypay. Con este conector, tu tienda puede realizar ventas a través de pagarés y Retrypay.
+En VTEX es posible la integración con el proveedor de pagos Retrypay. Con este proveedor, tu tienda puede realizar ventas a través de pagarés y Retrypay.
 
-Para configurar la afiliación Retrypay, siga los pasos a continuación:
+Para configurar Retrypay, siga los pasos a continuación:
 
-1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Configuración__, o escribe __Configuración__ en la barra de búsqueda en la parte superior de la página.
-2. En la pestana __Afiliaciones de Gateway__, haga clic en el botón `+`.
-3. Haga clic en el conector __RetryPay__.
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __RetryPay__ en la barra de búsqueda y haga clic en el nombre del proveedor.
 4. Rellene los campos de registro __Application Key__, __Application Token__, __Tenant__, __Retripay Merchant API Key__ y __Retripay Hook Token__ con los datos proporcionados por Retrypay. 
 5. En __Payment Method__, elija una de dos opciones: __Redirect__ o __Payment App__.
 6. En __Environment__, elija una de dos opciones: __Demo__ o __Production__.
@@ -29,7 +29,7 @@ Para configurar la afiliación Retrypay, siga los pasos a continuación:
 
 ## Configurar la condición de pago Pagaré
 
-Si quieres utilizar Retrypay con pagaré y no has configurado el pagaré como método de pago en otros conectores de tu tienda, accede a [Configurar pagos con Pagaré](https://help.vtex.com/es/tutorial/configurar-pagos-con-pagare--5pW7avTwtyQcMu4uiW8quQ).
+Si quieres utilizar Retrypay con pagaré y no has configurado el pagaré como método de pago en otros proveedores de tu tienda, accede a [Configurar pagos con Pagaré](https://help.vtex.com/es/tutorial/configurar-pagos-con-pagare).
 
 Luego siga los pasos a continuación:
 

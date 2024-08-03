@@ -37,7 +37,7 @@ A continuación, explicamos algunos escenarios que se pueden configurar en la pl
 Si habilita la opción **Aplicar el descuento solo para la opción de envío más barata**, el descuento del flete se aplicará únicamente al valor de flete estimado más bajo. Esta opción ya aparece habilitada de manera predeterminada, pero la puede desactivar si prefiere configurar la promoción según el [Escenario 3](#escenario-3) o el [Escenario 4](escenario-4). 
 
 #### Configuración
-![Aplicar el descuento solo para la opción de envío más barata - ES](//images.contentful.com/alneenqid6w5/4dO4pM8BrIVl4r27K5xgqT/d8a5a9992eb31f05591aaf88c79f4268/image.png)
+![Aplicar el descuento solo para la opción de envío más barata - ES](https://images.contentful.com/alneenqid6w5/4dO4pM8BrIVl4r27K5xgqT/d8a5a9992eb31f05591aaf88c79f4268/image.png)
 
 #### Resultado
 ![saggincaso1.2](https://images.ctfassets.net/alneenqid6w5/5YS2Iva3GwayZPPA3pqMmf/1b1f4d05ad16378b993a748e4923e12d/saggincaso1.2.png)
@@ -47,7 +47,7 @@ Si habilita la opción **Aplicar el descuento solo para la opción de envío má
 Si desactiva la opción **Aplicar el descuento solo para la opción de envío más barata**, el descuento se aplicará a todos los fletes disponibles.
 
 #### Configuración
-![Nenhum frete selecionado - ES](//images.contentful.com/alneenqid6w5/7a7lDpKd56Md9xIlJQF9tX/4a3dc46a38e0d43a3d4947af0368c191/image.png)
+![Nenhum frete selecionado - ES](https://images.contentful.com/alneenqid6w5/7a7lDpKd56Md9xIlJQF9tX/4a3dc46a38e0d43a3d4947af0368c191/image.png)
 
 #### Resultado
 ![saggincaso2.2](https://images.ctfassets.net/alneenqid6w5/5bfXAeiAs17vBy1nPPg9jh/ee179b414e3325707e8805ab3ba14dcb/saggincaso2.2.png)

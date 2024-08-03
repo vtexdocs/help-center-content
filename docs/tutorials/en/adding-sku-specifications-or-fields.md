@@ -3,8 +3,8 @@ title: 'Adding SKU specifications or fields'
 id: tutorials_119
 status: PUBLISHED
 createdAt: 2017-04-27T22:18:08.662Z
-updatedAt: 2023-03-29T17:31:34.699Z
-publishedAt: 2023-03-29T17:31:34.699Z
+updatedAt: 2023-11-30T12:05:25.945Z
+publishedAt: 2023-11-30T12:05:25.945Z
 firstPublishedAt: 2017-04-27T23:00:44.181Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,7 +15,7 @@ legacySlug: creating-sku-fields
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
-An SKU specification is a field in the SKU form where you can insert specific characteristics for every product variation.
+An SKU specification is a mandatory field in the SKU form where you can insert specific characteristics for every product variation.
 
 At VTEX, a specification is always included in a [specification group](https://help.vtex.com/en/tutorial/creating-category-groups--tutorials_246), associated with a [category](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/2gkZDjXRqfsq62TlAkj4uf). Therefore, to create an SKU specification (field), you must first create at least one category and one specification group.
 

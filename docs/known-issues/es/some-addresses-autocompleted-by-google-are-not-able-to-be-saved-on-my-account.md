@@ -3,8 +3,8 @@ title: 'Algunas direcciones autocompletadas por Google no se pueden guardar en M
 id: DgYKHOqC0nnpHKEdcTeXQ
 status: PUBLISHED
 createdAt: 2022-04-28T19:44:12.222Z
-updatedAt: 2023-01-06T17:13:51.809Z
-publishedAt: 2023-01-06T17:13:51.809Z
+updatedAt: 2023-10-18T00:06:40.142Z
+publishedAt: 2023-10-18T00:06:40.142Z
 firstPublishedAt: 2022-05-10T18:17:39.573Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: algunas-direcciones-autocompletadas-por-google-no-se-pueden-guardar-en-mi-cuenta
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 415388
 ---
 
@@ -49,4 +49,7 @@ Ejemplo:
 
 
 No hay solución disponible para esto.
+
+
+
 

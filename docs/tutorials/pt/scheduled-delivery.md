@@ -3,8 +3,8 @@ title: 'Entrega agendada'
 id: 22g3HAVCGLFiU7xugShOBi
 status: PUBLISHED
 createdAt: 2021-04-19T13:26:44.564Z
-updatedAt: 2021-10-27T16:49:43.778Z
-publishedAt: 2021-10-27T16:49:43.778Z
+updatedAt: 2024-03-25T19:12:45.519Z
+publishedAt: 2024-03-25T19:12:45.519Z
 firstPublishedAt: 2021-05-24T17:01:23.885Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,16 +15,20 @@ legacySlug: entrega-agendada, como-funciona-a-entrega-agendada
 subcategory: 1UL6Q7nUN6SkA2g2SUsECi
 ---
 
-
 A funcionalidade de entrega agendada permite a você definir períodos de entrega para que o consumidor possa escolher o melhor dia e horário para receber o produto comprado.
 
 Os períodos de entrega que ficam disponíveis para os consumidores são chamados de janelas de entrega e estão diretamente relacionados às Políticas de Envio da sua loja. Nesse sentido, ao oferecer entregas agendadas, você precisa considerar se a política de envio oferece este serviço.
 
 Caso a política de envio ofereça o serviço, você pode habilitar a entrega agendada configurando as janelas de entrega e definindo a capacidade de realização das entregas para cada janela de entrega, caso desejar.A habilitação da entrega agendada é feita através do campo __Entrega Agendada__ presente na tela de criação ou edição de Política de Envio. 
 
+<div class="alert alert-warning">
+Para que a <a href="https://help.vtex.com/pt/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi">Entrega agendada</a> e a <a href="https://help.vtex.com/pt/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz">Capacidade de entrega</a> funcionem corretamente, você deve observar que:<p><ul><li>A soma {<a href="https://help.vtex.com/pt/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC">account name</a>} + {ID da política de envio} não pode exceder 60 caracteres.</li><li>Não se deve utilizar espaçamento no ID de <a href="https://help.vtex.com/pt/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT">políticas de envio</a>.</li></ul></p>
+</div>
+
 Uma vez habilitada a Entrega Agendada, você pode configurar os campos que determinarão como ela funcionará. Tais campos definem o [tempo máximo de entrega](#tempo-maximo-de-entrega), o [período de entrega](#periodo-de-entrega) e o [limite da capacidade de entrega](#capacidade-de-entrega).
 
-Leia o artigo [Política de Envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) para saber como criar uma nova política. 
+Leia o artigo [Política de Envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) para saber como criar uma nova política.
+
 ## Tempo máximo de entrega
 
 O tempo máximo de entrega é o maior período de tempo que a política de envio usa para realizar uma entrega  desde a confirmação do pedido até a  confirmação da entrega. Ele é configurado através do campo `Tempo máximo de entrega` que está localizado na tela de entrega agendada na qual você definirá a quantidade de dias que compõem o tempo máximo de entrega.

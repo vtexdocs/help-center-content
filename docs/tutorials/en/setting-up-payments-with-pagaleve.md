@@ -3,8 +3,8 @@ title: 'Setting up payments with Pagaleve'
 id: 3ro5eb99noG7T4QpoQaJI5
 status: PUBLISHED
 createdAt: 2022-06-22T16:26:18.290Z
-updatedAt: 2023-03-26T21:40:42.801Z
-publishedAt: 2023-03-26T21:40:42.801Z
+updatedAt: 2024-01-23T19:14:42.547Z
+publishedAt: 2024-01-23T19:14:42.547Z
 firstPublishedAt: 2022-06-22T16:33:24.266Z
 contentType: tutorial
 productTeam: Financial

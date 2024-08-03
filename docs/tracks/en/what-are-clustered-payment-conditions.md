@@ -3,8 +3,8 @@ title: 'What are Clustered Payment Conditions?'
 id: 4z2upCJ2om27Cs0BVJRA0U
 status: PUBLISHED
 createdAt: 2020-11-18T11:49:06.387Z
-updatedAt: 2022-02-07T13:17:58.519Z
-publishedAt: 2022-02-07T13:17:58.519Z
+updatedAt: 2024-05-07T19:41:05.528Z
+publishedAt: 2024-05-07T19:41:05.528Z
 firstPublishedAt: 2020-11-18T17:37:30.544Z
 contentType: trackArticle
 productTeam: Financial
@@ -21,6 +21,3 @@ This functionality is currently in Closed Beta (testing stage) and is not availa
 </div>  
 
 This customization is done using our [Master Data](https://help.vtex.com/en/tutorial/what-is-master-data--4otjBnR27u4WUIciQsmkAw "Master Data") database. 
-
-Next, you will learn how to use this feature in your store’s operation.
-

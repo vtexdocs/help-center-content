@@ -3,8 +3,8 @@ title: 'Bucle en la ventana emergente de autenticación cuando la primera condic
 id: 7fU6wnrTjS0aJqRmertSFg
 status: PUBLISHED
 createdAt: 2023-06-14T17:54:36.973Z
-updatedAt: 2023-06-14T17:55:47.281Z
-publishedAt: 2023-06-14T17:55:47.281Z
+updatedAt: 2023-12-21T15:50:16.992Z
+publishedAt: 2023-12-21T15:50:16.992Z
 firstPublishedAt: 2023-06-14T17:54:37.537Z
 contentType: knownIssue
 productTeam: Checkout

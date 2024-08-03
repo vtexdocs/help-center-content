@@ -3,8 +3,8 @@ title: 'Dashboards Overview'
 id: 1yn2nZUoXtDO3teTEJsCNl
 status: PUBLISHED
 createdAt: 2023-03-29T21:16:46.179Z
-updatedAt: 2023-03-29T21:18:04.195Z
-publishedAt: 2023-03-29T21:18:04.195Z
+updatedAt: 2024-06-19T15:30:06.441Z
+publishedAt: 2024-06-19T15:30:06.441Z
 firstPublishedAt: 2023-03-29T21:18:04.195Z
 contentType: tutorial
 productTeam: Others
@@ -23,5 +23,4 @@ This section includes the following pages, which are already available in your A
 
 - [Overview](https://help.vtex.com/en/v4/docs/store-overview--6mcM4LPUqQxSiXY6uFtXZy): where store owners have access to key metrics that impact their store revenue. In this dashboard, you can track the evolution of your sales through order trend analysis, conversion rate, and sales funnel charts.  
 - [Sales Performance](https://help.vtex.com/en/v4/docs/sales-performance--6gx46RGRzWO8qgaVck7PRp): a dashboard for unified commerce that helps stores grow their business and make more accurate decisions.  
-- [Web Page Performance](https://help.vtex.com/en/v4/docs/web-page-performance--7DeyhX8cGtG9PtAGkL8zvc):  brings Google's PageSpeed Insights tool to your VTEX Admin, allowing you to track the performance of your ecommerce's URLs. 
 

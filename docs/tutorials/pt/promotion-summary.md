@@ -69,10 +69,10 @@ Exemplo:
 Alertas de médio risco apresentam avisos de configurações que podem causar efeitos indesejados na promoção.
 
 Exemplo:
-![alert-medio-risco-PT](//images.contentful.com/alneenqid6w5/1vYDqk4ZK3X2jjfGBY0voq/f13a84dd765566d3ca5939deee6e1d23/image.png)
+![alert-medio-risco-PT](https://images.contentful.com/alneenqid6w5/1vYDqk4ZK3X2jjfGBY0voq/f13a84dd765566d3ca5939deee6e1d23/image.png)
 
 ### Baixo risco 
 Alertas de baixo risco apresentam informações relevantes sobre a configuração da promoção, que podem contribuir para uma melhor performance.
 
 Exemplo:
-![alert-baixo-risco-PT](//images.contentful.com/alneenqid6w5/tvjluVBbsK78ozr29Fgfb/4db7719d69da3936610f5c8ab32e0819/image.png)
+![alert-baixo-risco-PT](https://images.contentful.com/alneenqid6w5/tvjluVBbsK78ozr29Fgfb/4db7719d69da3936610f5c8ab32e0819/image.png)

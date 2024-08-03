@@ -3,8 +3,8 @@ title: 'Exporting and importing product and SKU specifications'
 id: tutorials_274
 status: PUBLISHED
 createdAt: 2017-04-27T22:10:43.787Z
-updatedAt: 2023-03-29T15:30:59.932Z
-publishedAt: 2023-03-29T15:30:59.932Z
+updatedAt: 2024-02-21T20:34:56.013Z
+publishedAt: 2024-02-21T20:34:56.013Z
 firstPublishedAt: 2017-04-27T23:03:12.428Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -31,11 +31,15 @@ In this article, we explain how to export and import spreadsheets with product a
     ![skuexport1.en](https://images.ctfassets.net/alneenqid6w5/2bM5OviaFXKxXxM8ggXEr3/8f45b5a59425898d0a66697480526899/skuexport1.en.png)
 4. Right-click on the desired category.
     You cannot export specifications from all categories at once. You must choose only one category whose specifications you want to export. 
-7. Click on `Export...`.
+5. Click on `Export...`.
     A green rectangle will appear on the screen.
-8. Click `Click here to download the file` to export the spreadsheet.
+6. Click `Click here to download the file` to export the spreadsheet.
 
 ![skuexport2.en](https://images.ctfassets.net/alneenqid6w5/6oBhxWWjktsofR8XGRzl3E/87e1859f2f3ece16f3c0e1c527a392ee/skuexport2.en.png)
+
+<div class = "alert alert-info">
+  <p>The exported spreadsheet will be available in your email for one week. If you exceed this period, follow the export step-by-step again to generate a new spreadsheet.</p>
+</div>
 
 ## Importing product or SKU specifications
 

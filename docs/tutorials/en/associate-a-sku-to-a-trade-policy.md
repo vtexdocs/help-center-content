@@ -1,10 +1,10 @@
 ---
 title: 'Associate a SKU to a trade policy'
 id: 1qFAiybogHCStRO65sy4vb
-status: CHANGED
+status: PUBLISHED
 createdAt: 2021-03-30T17:18:09.088Z
-updatedAt: 2023-03-29T18:27:48.036Z
-publishedAt: 2021-08-04T18:13:54.928Z
+updatedAt: 2024-05-31T22:32:04.940Z
+publishedAt: 2024-05-31T22:32:04.940Z
 firstPublishedAt: 2021-03-30T17:34:49.644Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -28,5 +28,9 @@ You can associate an SKU with one or more trade policies on the configuration pa
 5. On the form, go to the **Trade policies** field.
 6. Mark the checkbox of the trade policy for B2B.
 7. At the bottom of the page, click on the `Save` button to save changes.
+
+<div class="alert alert-warning" role="alert">
+  <p>If no specific trade policy is selected on the SKU configuration, all trade policies will have access to the SKU.</p>
+</div>
 
 Every change made to an SKU takes time to be processed, including associating it with trade policies. This period is called re-indexing. Learn more in the article [How indexing works](https://help.vtex.com/en/tutorial/understanding-how-indexation-works--tutorials_256).

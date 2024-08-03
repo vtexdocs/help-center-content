@@ -3,15 +3,15 @@ title: 'Adding an attachment'
 id: 7zHMUpuoQE4cAskqEUWScU
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:42.901Z
-updatedAt: 2023-03-29T15:07:58.328Z
-publishedAt: 2023-03-29T15:07:58.328Z
+updatedAt: 2023-11-16T17:23:31.034Z
+publishedAt: 2023-11-16T17:23:31.034Z
 firstPublishedAt: 2019-01-24T22:06:25.639Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
 author: 1malnhMX0vPThsaJaZMYm2
 slug: adding-an-attachment
 locale: en
-legacySlug: adding-an-attachment
+legacySlug: registering-an-attachment
 subcategory: 1hoOi2R0Rm6ky0yCwOUoiy
 ---
 

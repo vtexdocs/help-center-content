@@ -3,8 +3,8 @@ title: 'Gestionar Geolocalización'
 id: tutorials_138
 status: PUBLISHED
 createdAt: 2017-04-27T22:17:36.462Z
-updatedAt: 2023-03-29T13:25:16.724Z
-publishedAt: 2023-03-29T13:25:16.724Z
+updatedAt: 2023-08-25T14:52:20.340Z
+publishedAt: 2023-08-25T14:52:20.340Z
 firstPublishedAt: 2017-04-27T23:00:44.871Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -31,6 +31,10 @@ Accediendo a través del enlace [Genere sus polígonos con geojson.io](http://ge
 6. Con el polígono listo, copie el JSon que queda en la pantalla de la derecha y pegue en un archivo de texto para no perder la información.
 
 Usted usará ese JSon para añadir el polígono en la plataforma, que comprenderá a partir de ese lenguaje cuáles códigos postales están incluidos en esa área.
+
+<div class="alert alert-danger">
+En la configuración de un polígono, no es posible delimitar áreas superpuestas, o sea, no es posible superponer coordenadas geográficas.
+</div>
 
 ## Cómo añadir un Polígono
 

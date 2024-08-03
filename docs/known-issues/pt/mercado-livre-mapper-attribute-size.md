@@ -1,18 +1,18 @@
 ---
-title: 'Mercado Book Mapper atributo Tamanho'
+title: 'Tamanho do atributo do Mercado Livre Mapper'
 id: 3dLrm6SVsPB4tU46SC3Xdi
 status: PUBLISHED
 createdAt: 2022-07-26T19:53:34.899Z
-updatedAt: 2022-11-25T21:55:42.119Z
-publishedAt: 2022-11-25T21:55:42.119Z
+updatedAt: 2024-02-16T20:28:24.174Z
+publishedAt: 2024-02-16T20:28:24.174Z
 firstPublishedAt: 2022-07-26T19:53:35.449Z
 contentType: knownIssue
 productTeam: Connections
 author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
-slug: mercado-book-mapper-atributo-tamanho
+slug: tamanho-do-atributo-do-mercado-livre-mapper
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 592577
 ---
 
@@ -24,20 +24,20 @@ internalReference: 592577
 
 
 
-Mesmo mapeando corretamente o atributo "Tamanho" no mapeador, para algumas categorias MELI não está funcionando corretamente.
-
-
+Mesmo mapeando corretamente o atributo "Size" no mapeador, para algumas categorias MELI ele não está funcionando corretamente.
 
 ## Simulação
 
 
 
-Dentro do menu de produtos bridge, você verá um erro sobre o tamanho do atributo em MELI.
-
-
+Dentro do menu de produtos da ponte, você verá um erro sobre o atributo Size no MELI.
 
 ## Workaround
 
 
-n/d
+Existe uma solução alternativa para esse erro? Se sim, descreva-a aqui. Caso contrário, escreva "N/A" ou "Não há nenhuma solução alternativa disponível". Não remova esta seção se não houver solução alternativa, por favor.
+
+
+
+
 

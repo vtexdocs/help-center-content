@@ -1,10 +1,10 @@
 ---
 title: 'Setting up Conductor gateway'
 id: Q5Ezi95TSEyE2GCQSs8ak
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-05-02T17:09:15.090Z
-updatedAt: 2023-03-29T00:55:20.862Z
-publishedAt: 2023-03-29T00:55:20.862Z
+updatedAt: 2024-03-18T18:11:12.675Z
+publishedAt: 
 firstPublishedAt: 2018-05-02T18:38:56.879Z
 contentType: tutorial
 productTeam: Financial
@@ -15,14 +15,15 @@ legacySlug: setting-up-conductor-gateway
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
+<div class="alert alert-danger">This payment integration can no longer be configured on the platform due to the <a href="https://help.vtex.com/en/announcements/legacy-payment-connectors-will-be-discontinued-in-2024--4R5YIjUu1IWkiOHzXtQU14">legacy provider removal process</a> and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.</div>
+
 Conductor is a [payment gateway](/en/tutorial/what-is-a-payment-gateway) with [PCI certification](/en/faq/what-is-the-pci-ssc) that is more than 20 years old. In VTEX, it can be configured to process payments made with __credit cards with store brand__.
 
 To enable Conductor in your store, follow the steps below:
 
-## Setting up Conductor gateway affiliation
-1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
-2. On the __Gateway Affiliations__ tab, click the __+__ button.
-3. Click the __Conductor__ connector.
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __Conductor__ in the search bar and click on the name of the provider.
 4. In the __External Service Url__ field, configure the external URL that will be associated with `/pvt/payments?an={AccoutName}`.
 5. Fill in the registration fields with the data provided by Conductor (fields _appKey_ and _appToken_).
 6. Under __Implements Installments Service__, choose whether you want to use external installment services or what the one configured on the portal. If you choose _yes_, the system will use the URL configured in the __Installments Service Url__ field.

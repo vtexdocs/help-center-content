@@ -1,10 +1,10 @@
 ---
 title: 'Configure el conector para aceptar pagos con Adyen en VTEX'
 id: tutorials_2337
-status: PUBLISHED
+status: DRAFT
 createdAt: 2017-04-27T21:55:10.101Z
-updatedAt: 2023-03-24T14:56:13.138Z
-publishedAt: 2023-03-24T14:56:13.138Z
+updatedAt: 2024-03-18T17:52:42.714Z
+publishedAt: 
 firstPublishedAt: 2017-04-27T23:03:52.166Z
 contentType: tutorial
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: es
 legacySlug: como-configurar-el-gateway-adyen-en-vtex
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+<div class="alert alert-danger">Esta integración de pago ya no se puede configurar en la plataforma debido al <a href="https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14">proceso de descontinuación de los proveedores legados</a> y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.</div>
 
 <div class="alert alert-warning">Las configuraciones documentadas en este artículo se realizan en un ambiente  externo a VTEX. Por lo tanto, pueden ser descontinuadas sin previo aviso.
 </div>
@@ -98,9 +100,9 @@ Si pretende utilizar la plataforma de Adyen para hacer análisis antifraude con 
 
 ## Configuraciones en VTEX
 
-1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
-2. Haga clic en **Afiliaciones de Gateways**.
-3. Haga clic en **Adyen**.
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __Adyen__ en la barra de búsqueda y haga clic en el nombre del proveedor.
 4. Rellene los campos del formulario con los datos obtenidos en Adyen y haga clic en el botón **Guardar**:
 
 - **username** - username Adyen (instrucción 5 de las **Configuraciones en  Adyen**).

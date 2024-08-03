@@ -3,8 +3,8 @@ title: 'Impressão de resumo do pedido'
 id: 5UeqJA3sHp5goJacvHwPoS
 status: PUBLISHED
 createdAt: 2021-08-05T14:40:53.752Z
-updatedAt: 2023-05-31T15:23:48.750Z
-publishedAt: 2023-05-31T15:23:48.750Z
+updatedAt: 2023-07-26T19:01:33.402Z
+publishedAt: 2023-07-26T19:01:33.402Z
 firstPublishedAt: 2021-08-05T14:47:18.680Z
 contentType: trackArticle
 productTeam: Shopping

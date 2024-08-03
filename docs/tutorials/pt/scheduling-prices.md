@@ -58,7 +58,7 @@ Você também pode realizar o agendamento de preços por importação de planilh
 
 1. No Admin VTEX, acesse *Preços > Lista de preços*, ou digite *Lista de preços* na barra de busca no topo da página.
 2. Clique no ícone 📥 para exportar a planilha que será preenchida.
-![Agendar preço fixo - PT](//images.contentful.com/alneenqid6w5/49YjTAWw59Mglg2DMUT65w/08b89d10517f3bbddc78569650ebc09d/Screenshot_2021-08-05_at_17-11-39_-EDU-4229-_Agendar_pre__o_fixo.png)
+![Agendar preço fixo - PT](https://images.contentful.com/alneenqid6w5/49YjTAWw59Mglg2DMUT65w/08b89d10517f3bbddc78569650ebc09d/Screenshot_2021-08-05_at_17-11-39_-EDU-4229-_Agendar_pre__o_fixo.png)
 3. Selecione apenas a opção **Tabela de preços fixos**.
 4. Clique em `Exportar 1 tabela` para finalizar.
 
@@ -72,7 +72,7 @@ A planilha será enviada para seu email e pode ser baixada por lá. Após baixar
 - **Date From:** data e hora de início, no formato [RFC3339](https://www.ietf.org/rfc/rfc3339.txt), do agendamento do preço fixo. Será a partir dessa data e hora que o preço fixo será válido.
 - **Date To:** data e hora de fim, no formato [RFC3339](https://www.ietf.org/rfc/rfc3339.txt), do agendamento do preço fixo. Será a partir dessa data e hora que o preço fixo não será mais válido.
 
-![Agendar preço fixo planilha PT](//images.contentful.com/alneenqid6w5/7g3wkpsDPcdjYHT2xSqGhS/1895766def1ed02971f47f003d115491/Screenshot_2021-08-05_at_17-17-11_-EDU-4229-_Agendar_pre__o_fixo.png)
+![Agendar preço fixo planilha PT](https://images.contentful.com/alneenqid6w5/7g3wkpsDPcdjYHT2xSqGhS/1895766def1ed02971f47f003d115491/Screenshot_2021-08-05_at_17-17-11_-EDU-4229-_Agendar_pre__o_fixo.png)
 
 Depois de finalizar o preenchimento da planilha é necessário importá-la para a loja. Siga os passos abaixo.
 

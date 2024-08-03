@@ -3,8 +3,8 @@ title: 'How the integration with Carrefour works'
 id: UbtveAQnoQGKOkQIYG0uQ
 status: PUBLISHED
 createdAt: 2018-09-26T13:35:41.191Z
-updatedAt: 2021-07-09T19:05:35.482Z
-publishedAt: 2021-07-09T19:05:35.482Z
+updatedAt: 2023-09-22T20:09:43.231Z
+publishedAt: 2023-09-22T20:09:43.231Z
 firstPublishedAt: 2018-10-11T20:58:12.080Z
 contentType: tutorial
 productTeam: Channels

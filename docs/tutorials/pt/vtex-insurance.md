@@ -1,10 +1,10 @@
 ---
 title: 'VTEX Insurance'
 id: 2aF3SDIj5t2qGe3bWKCjLD
-status: PUBLISHED
+status: DRAFT
 createdAt: 2023-05-23T20:15:25.639Z
-updatedAt: 2023-05-26T18:43:28.958Z
-publishedAt: 2023-05-26T18:43:28.958Z
+updatedAt: 2024-01-11T20:01:57.317Z
+publishedAt: 
 firstPublishedAt: 2023-05-26T17:46:59.436Z
 contentType: tutorial
 productTeam: B2B
@@ -69,27 +69,28 @@ Após a preparação do catálogo, sua loja já tem o vínculo do seguro com os 
 Siga os passos abaixo para configurar seu app VTEX Insurance.
 
 ### Company Information
-![Insurance Configuration](https://images.ctfassets.net/alneenqid6w5/27tKnogbpFLSaeGPW4OnkZ/343aefaafe713ae74ab488f87caf4b55/image5.png)
-
+1. ![Insurance Configuration](https://images.ctfassets.net/alneenqid6w5/27tKnogbpFLSaeGPW4OnkZ/343aefaafe713ae74ab488f87caf4b55/image5.png)
 1. Preencha a seção com as seguintes informações:
-**Email**: email da loja.
-**Name**: nome da loja.
-**Phone**: telefone da loja.
-**Mark-Up Value**: margem de lucro a ser obtida. Deve ser preenchida com valor 0 (zero). 
-**Street Name**: rua da loja ou do seu escritório.
-**City**: cidade da loja ou do seu escritório.
-**State**: Estado da loja ou do seu escritório.
-**Postal Code**: CEP da sua loja ou do seu escritório.
-**Country**: país de sua loja ou do seu escritório.
+
+- **Email**: email da loja.
+- **Name**: nome da loja.
+- **Phone**: telefone da loja.
+- **Mark-Up Value**: margem de lucro a ser obtida. Deve ser preenchida com valor 0 (zero). 
+- **Street Name**: rua da loja ou do seu escritório.
+- **City**: cidade da loja ou do seu escritório.
+- **State**: Estado da loja ou do seu escritório.
+- **Postal Code**: CEP da sua loja ou do seu escritório.
+- **Country**: país de sua loja ou do seu escritório.
+
 2. Clique em `Submit`.
 
 ### Items bound to insurance items
 ![Items Bound to Source Items](https://images.ctfassets.net/alneenqid6w5/6E68A1BaKeUzAgZuzD7KIY/e55e7f2af44167b5885af398cfda7637/image6.png)
 
 1. Selecione os códigos que representam os tipos de seguro desejados para a coleção criada. 
-2. Vincule os SKUs criados com os planos de seguro: você deverá incluir o plano de seguro seguido pelo SKU ID. 
+2. Vincule os SKUs criados com os planos de seguro: você deverá incluir o plano de seguro seguido pelo SKU ID.
 _Exemplo_: Ao vincular o Tipo de Seguro **Garantia Estendida** (Código **EW**) com o SKU criado para esse mesmo tipo de seguro (ID **357**), o vínculo será representado da seguinte maneira: **EW|357** (sem espaçamento).
-Se desejar vincular mais de um plano de seguro, como o de **Roubo e Furto Qualificado** (Código **TH**) com o SKU criado (ID **358**), vínculo **TH|358**, O campo deverá ser preenchido da seguinte maneira: **EW|357, TH|358**
+Se desejar vincular mais de um plano de seguro, como o de **Roubo e Furto Qualificado** (Código **TH**) com o SKU criado (ID **358**), vínculo **TH|358**, O campo deverá ser preenchido da seguinte maneira: **EW|357, TH|358**.
 3. Clique em `Submit`.      
 
 ### Warranty field name

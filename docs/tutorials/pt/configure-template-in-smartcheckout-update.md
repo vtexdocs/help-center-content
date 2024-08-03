@@ -135,4 +135,4 @@ As contas que possuem multidomínio podem usar apenas um site, caso não haja ne
 
 Classe inserida na tag "body" de acordo com o domínio acessado:
 
-![](//images.contentful.com/alneenqid6w5/4YAbMPcyqA8eqMM8ycokoU/836778d23afee9b0e793b27d9ab8cc0c/Portal16.jpg)
+![](https://images.contentful.com/alneenqid6w5/4YAbMPcyqA8eqMM8ycokoU/836778d23afee9b0e793b27d9ab8cc0c/Portal16.jpg)

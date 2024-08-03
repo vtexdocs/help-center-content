@@ -3,8 +3,8 @@ title: 'Flujo y status de pedidos'
 id: tutorials_196
 status: PUBLISHED
 createdAt: 2017-04-27T22:14:33.518Z
-updatedAt: 2023-02-28T16:04:19.511Z
-publishedAt: 2023-02-28T16:04:19.511Z
+updatedAt: 2024-04-01T15:37:30.788Z
+publishedAt: 2024-04-01T15:37:30.788Z
 firstPublishedAt: 2017-04-27T23:02:47.616Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -126,7 +126,9 @@ La cancelación de un pedido se inicia en varios escenarios. Para cada tipo de c
 - **[Solicitud de cancelación por parte del cliente](https://help.vtex.com/es/tutorial/como-funciona-o-cancelamento-de-pedido-por-parte-do-cliente--3wEI6DUNtecooG2Ki4Akqo):** el cliente realiza la cancelación durante el periodo de cancelación o solicita la cancelación a la tienda. Cuando la cancelación ocurre dentro del periodo de cancelación, los ítems del pedido no se reservan. Pero, si la cancelación se produce después de la preparación del pedido (después del status `Iniciar preparación`), los ítems han sido reservados.
 - **[Cancelación por parte de la tienda](https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/4ts2ItvjYo8wm5gg76miS3):** el _seller_ o _marketplace_ renunció a la venta y canceló el pedido.
 
-Cuando se solicita la cancelación de un pedido, la plataforma procesa automáticamente la cancelación del pedido. El reembolso del pago al cliente depende de la etapa en la que se encuentre el pago y del medio de pago utilizado. 
+Cuando se solicita la cancelación de un pedido, la plataforma procesa automáticamente la cancelación del pedido. El reembolso del pago al cliente depende de la etapa en la que se encuentre el pago y del medio de pago utilizado.
+
+No es posible [cancelar](https://help.vtex.com/es/tutorial/como-cancelar-pedido--tutorials_186) pedidos [parcialmente facturados](https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](https://help.vtex.com/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
 <div class = "alert alert-info">
 Ve más información sobre la cancelación y el reembolso en los artículos <a href="https://help.vtex.com/pt/faq/por-que-meu-pedido-cancelado-foi-cobrado-na-fatura-do-cliente">¿Por qué se cobró en la factura del cliente mi pedido cancelado?</a> y <a href="https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#reembolsocancelamento">Reembolso o cancelación</a>.
@@ -294,7 +296,7 @@ Ten en cuenta que los status del flujo de pedido completo (flujo visto por las t
     <td class="tg-zr06"><span style="font-weight:400">Autorizar fulfillment</span></td>
     <td class="tg-zr06"><span style="font-weight:400">authorize-fulfillment</span></td>
     <td class="tg-1547"><span style="font-style:italic">Seller</span><span style="font-weight:400">, flujo completo</span></td>
-    <td class="tg-zr06"><span style="font-weight:400">Proceso interno de liberación a preparación. Aquí se realiza la</span> <a href="https://help.vtex.com/es/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada"><span style="font-weight:400;color:#F71963;background-color:transparent">confirmación de la reserva</span></a><span style="font-weight:400">.</span></td>
+    <td class="tg-zr06"><span style="font-weight:400">Proceso interno de liberación a preparación. Aquí se realiza la</span> <a href="https://help.vtex.com/es/tutorial/como-a-reserva-funciona--tutorials_92#reserva-confirmada"><span style="font-weight:400;color:#F71963;background-color:transparent">confirmación de la reserva</span></a><span style="font-weight:400">. Cuando el marketplace no autoriza al seller el fulfillment del pedido dentro de 30 días, la plataforma cancela el pedido automáticamente.</span></td>
   </tr>
   <tr>
     <td class="tg-zr06"><span style="font-weight:400">Periodo de cancelación</span></td>

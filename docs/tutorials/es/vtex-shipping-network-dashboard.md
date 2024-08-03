@@ -3,8 +3,8 @@ title: 'VTEX Shipping Network: Panel '
 id: 51e8tx1IehiN4ZtURRWU92
 status: PUBLISHED
 createdAt: 2020-04-06T20:01:00.909Z
-updatedAt: 2023-06-09T12:56:22.175Z
-publishedAt: 2023-06-09T12:56:22.175Z
+updatedAt: 2024-02-29T19:20:49.152Z
+publishedAt: 2024-02-29T19:20:49.152Z
 firstPublishedAt: 2020-04-16T21:37:18.831Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -48,8 +48,9 @@ Esta pestaña está destinada al seguimiento y supervisión del resultado financ
 | **Ingresos Facturados VTEX Shipping Network**    | Suma de todos los fletes pagados en el checkout. Cuánto de hecho su cliente pagó por el flete, filtrando apenas por transportadoras VTEX Shipping Network; es decir, se considera si tuvo un descuento en el flete o si fue flete gratis, por ejemplo.                                                                                                                                                                                                             |
 | **Costo Proyectado General**        | Independientemente de ser VTEX Shipping Network o no, es la suma de los valores de flete estimados por el módulo de Inventario y Envío para todos los pedidos. Tiene flechas que indican el porcentaje de crecimiento o reducción de costos. La disminución de costos en este card (flecha hacia abajo) es una medida positiva para los resultados de una tienda.                                                                                                                                |
 | **Costo Proyectado VTEX Shipping Network**     | Suma de los valores de flete estimados por el módulo de Inventario y Envío para todos los pedidos, filtrando apenas a transportadoras VTEX Shipping Network. Tiene flechas que indican el porcentaje de crecimiento o reducción de costos.  La disminución de costos en este card (flecha hacia abajo) es una medida positiva para los resultados de una tienda.                                                                                                                           |
-| **Costo Emitido vía CTE**        | Costo que proveniente de CONEMB para todos estos pedidos. VTEX recibe esta información a través del envío de archivos CONEMB, que las transportadoras nos envían. Este archivo indica en detalle cuánto gastó la transportadora, y el número de la factura del pedido.  Tiene flechas que indican el porcentaje de crecimiento o reducción de costos.  La disminución de costos en este card (flecha hacia abajo) es una medida positiva para los resultados de una tienda.                                                                                                            |
-|  **Diferencia de costos señalada** | Diferencia entre el costo proyectado y el costo emitido vía CTE.  CTE es el archivo recibido de las transportadoras VTEX Shipping Network, que indica en detalle cuánto gastó la transportadora, y el número de factura del pedido.  Tiene flechas que indican el porcentaje de crecimiento o reducción de costos.  El aumento entre la diferencia de costos en este card es una medida positiva para los resultados de una tienda.                                                                                                          |
+
+* Estamos mejorando el **Costo Emitido vía CTE** y la **Diferencia de costos señalada** y actualmente no están disponibles.
+
 ## Rendimiento 
 
 Es posible hacer seguimiento del rendimiento de las transportadoras configuradas en la logística de su tienda a través de una herramienta analítica. En la herramienta, puede ver la evolución del rendimiento de cada transportadora en particular y de las transportadoras VTEX Shipping Network en general.
@@ -82,9 +83,9 @@ Todas las transportadoras VTEX Shipping Network tienen un sello de verificación
 
 Es importante saber que si no se calculó el rendimiento de una transportadora en la plataforma significa que los datos de seguimiento no están integrados con VTEX Shipping Network. 
 
-Para que se realice el cálculo de las transportadoras que no son VTEX Shipping Network, el _seller_ debe enviar los datos a través de una API de seguimiento proporcionada por la solución VTEX Shipping Network. 
+Para que se realice el cálculo de las transportadoras que no son VTEX Shipping Network, el _seller_ debe enviar los datos a través de una API de seguimiento proporcionada por la solución VTEX Shipping Network. En estos casos, cabe señalar que los datos del panel pueden ser inexactos, al no realizarse una validación de la entrega en el plazo indicado.
 
-Para saber más sobre cómo realizar la integración, consulte la información en [Overview VTEX Shipping Network](https://developers.vtex.com/vtex-rest-api/reference/vtex-log-api-overview) de nuestras API. 
+Para saber más sobre cómo realizar la integración, consulte la información en [Overview VTEX Shipping Network](https://developers.vtex.com/docs/api-reference/vtex-shipping-network-api) de nuestras API. 
 
 ### Exportar informe
 

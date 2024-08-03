@@ -3,8 +3,8 @@ title: 'Resetting your two-factor authentication app configuration'
 id: 4ftaOCZono1MiQia2hxbTy
 status: PUBLISHED
 createdAt: 2023-02-08T13:55:25.623Z
-updatedAt: 2023-02-08T14:26:33.141Z
-publishedAt: 2023-02-08T14:26:33.141Z
+updatedAt: 2024-03-12T18:52:44.442Z
+publishedAt: 2024-03-12T18:52:44.442Z
 firstPublishedAt: 2023-02-08T14:26:33.141Z
 contentType: tutorial
 productTeam: Identity
@@ -17,11 +17,11 @@ subcategory: 4sY1T2qdFehvVmC0tL5xW3
 
 If you have already [enabled two-factor authentication login](https://help.vtex.com/pt/tutorial/enabling-2-factor-authentication-login--4Ae1fcQi12g8u4SkQKCqWQ) but made a mistake during the configuration or lost access to your two-factor authentication app, you might not be able to access your VTEX account.
 
+## Regaining access to VTEX Admin
+
 To regain access to your account, follow these steps:
-1. Go to this address to see your account's login page:
-```
-https://{accountName}.myvtex.com/admin
-```
+
+1. Go to VTEX Admin to see your account's login page.
 2. Enter your email address.
 3. Click `Continue`.
 4. Click **Forgot password**.
@@ -32,12 +32,13 @@ https://{accountName}.myvtex.com/admin
 
 Once you have regained access to your account as described above, you can reset the two-step verification app by following these steps:
 
-1. Go to the two-step verification configuration page in your account here:
-```
-https://{accountName}.myvtex.com/admin/myuser/twostepverification
-```
-2. Click **Change** in the **Google Authenticator app** section.
-3. If you do not have the Google Authenticator app installed, install it on your mobile device.
-4. Scan the QR code using the Google Authenticator app.
-5. Enter the code that appears in the app in the field indicated on the page.
-
+1. In the top bar of the VTEX Admin, click your profile avatar, indicated by the initial letter of your email address.
+2. Click **User Settings**.
+3. In the **Authentication**, click on the **2-Step Verification** row.
+4. Select **Google Authenticator app**.
+5. Click `Setup` or`Change`, if you already have an authenticator app configured.
+6. In case you do not have the __Google Authenticator__ ([App Store](https://itunes.apple.com/us/app/google-authenticator/id388497605?mt=8) / [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)), install it on your mobile device.
+7. Scan the QR code using the Google Authenticator app.
+8. Click `Next`.
+9. Enter the code that appears in the app in the field indicated on the page.
+10. Click `Confirm`.

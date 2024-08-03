@@ -1,10 +1,10 @@
 ---
 title: 'Google Pay (Beta)'
 id: 653pNFOw6L5CvGupLosJSq
-status: PUBLISHED
+status: DRAFT
 createdAt: 2023-04-26T15:34:40.825Z
-updatedAt: 2023-06-14T19:34:39.943Z
-publishedAt: 2023-06-14T19:34:39.943Z
+updatedAt: 2023-06-27T21:56:34.229Z
+publishedAt: 
 firstPublishedAt: 2023-04-26T20:03:44.992Z
 contentType: tutorial
 productTeam: Shopping

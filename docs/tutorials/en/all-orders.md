@@ -3,8 +3,8 @@ title: 'All Orders'
 id: 2QTduKHAJMFIZ3BAsi6Pi
 status: PUBLISHED
 createdAt: 2022-04-04T21:50:53.330Z
-updatedAt: 2023-03-23T16:27:45.086Z
-publishedAt: 2023-03-23T16:27:45.086Z
+updatedAt: 2023-12-21T14:05:13.862Z
+publishedAt: 2023-12-21T14:05:13.862Z
 firstPublishedAt: 2022-04-04T22:39:11.450Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -14,6 +14,10 @@ locale: en
 legacySlug: order-listing-beta
 subcategory: 3VNOhxDrvYxJThhuJClrYZ
 ---
+
+<div class = "alert alert-info">
+You can only access information from orders created in the last two years, and that same period is valid for customers through <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>.
+</div>
 
 The **All Orders** page allows retailers to track their store's orders and extract information for intelligent business management. To access the page, go to your VTEX Admin menu and click **Orders > All Orders**. On this page, you can:
 
@@ -25,6 +29,13 @@ The **All Orders** page allows retailers to track their store's orders and extra
 The following sections provide more details about each page component and its actions.
 
 ![Order Listing EN](https://images.ctfassets.net/alneenqid6w5/683JysQxHoXao2zRxQCJ6x/e39aa9ff8eab7e0a031c2d7464dc2e87/Order_Listing_EN.gif)
+
+Besides searching for orders in **Orders > All Orders**, you can search for orders from any page in the VTEX Admin using the global search bar at the top bar. By default, the search is configured as `Pages`. To search for an order, click on the bar, select `Orders`, and use one of the following criteria:
+
+- Order ID
+- Customer name
+- Customer email
+- Customer document
 
 ## Top bar
 

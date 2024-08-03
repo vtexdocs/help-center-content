@@ -3,8 +3,8 @@ title: '[Giftlist] La fecha del evento guardada en la UI no es la misma que se r
 id: 6PUBzRdtno8ypsPMg97B6K
 status: PUBLISHED
 createdAt: 2022-07-25T17:45:12.568Z
-updatedAt: 2022-11-25T21:42:07.374Z
-publishedAt: 2022-11-25T21:42:07.374Z
+updatedAt: 2024-02-16T20:28:47.100Z
+publishedAt: 2024-02-16T20:28:47.100Z
 firstPublishedAt: 2022-07-25T17:45:13.009Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: giftlist-la-fecha-del-evento-guardada-en-la-ui-no-es-la-misma-que-se-refleja-en-la-bd
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 402134
 ---
 

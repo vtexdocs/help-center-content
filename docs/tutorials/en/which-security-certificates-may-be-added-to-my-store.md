@@ -1,10 +1,10 @@
 ---
 title: 'Which security certificates may be added to my store?'
 id: 29ivkiHbXqMIa8QMKCSQ2K
-status: PUBLISHED
+status: DRAFT
 createdAt: 2019-01-24T20:45:48.223Z
-updatedAt: 2019-12-31T15:23:12.479Z
-publishedAt: 2019-12-31T15:23:12.479Z
+updatedAt: 2024-03-11T13:21:15.878Z
+publishedAt: 
 firstPublishedAt: 2019-01-24T22:15:04.845Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

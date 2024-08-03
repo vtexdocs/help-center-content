@@ -3,7 +3,7 @@ title: 'Proteção contra ataques em transações'
 id: 62oQBmi7UZlYlgb0Ha1hZ3
 status: DRAFT
 createdAt: 2021-10-25T19:02:59.690Z
-updatedAt: 2021-12-10T13:52:07.652Z
+updatedAt: 2024-03-01T15:58:16.139Z
 publishedAt: 
 firstPublishedAt: 
 contentType: tutorial
@@ -15,7 +15,7 @@ legacySlug: protecao-contra-ataques-em-transacoes
 subcategory: 
 ---
 
-## Proteção contra ataques em transações
+# Proteção contra ataques em transações
 
 A proteção contra ataques envolvendo transações é uma das soluções que a VTEX oferece para reduzir o risco de operações fraudulentas. Esta proteção é ativada automaticamente quando detectamos uma taxa muito alta de negação de autorizações de transações (acima de 90%) dentro de um curto período de tempo (15 minutos).
 
@@ -77,6 +77,7 @@ Para acessar estas informações, confira o passo a passo:
 ![tela-ameaça-neutralizada1](https://images.ctfassets.net/alneenqid6w5/68JvVENRbcGGOcBFXno54/fe85365340965f6d7927f2d6525d27a2/tela-amea__a-neutralizada1.png)
 
 ### Artigos relacionados
+
 - [O que é antifraude?](https://help.vtex.com/pt/tutorial/o-que-e-antifraude)
 - [Como configurar o antifraude](https://help.vtex.com/pt/tutorial/como-configurar-antifraude)
 - [Visão geral de Pagamentos](https://help.vtex.com/pt/tutorial/pci-gateway-visao-geral)

@@ -3,8 +3,8 @@ title: 'The field Judet county is not showing as saved when address editing on R
 id: 5aOtbUdNXPzOpuvLnmJtMf
 status: PUBLISHED
 createdAt: 2022-02-24T14:52:37.615Z
-updatedAt: 2022-11-25T22:02:22.409Z
-publishedAt: 2022-11-25T22:02:22.409Z
+updatedAt: 2024-02-16T20:25:19.581Z
+publishedAt: 2024-02-16T20:25:19.581Z
 firstPublishedAt: 2022-05-18T18:46:59.023Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: the-field-judet-county-is-not-showing-as-saved-when-address-editing-on-romania-my-account
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 394658
 ---
 
@@ -22,6 +22,7 @@ internalReference: 394658
 For stores from Romania on _**My Account**_ page there is a field named "Judet", county in english, that is not showing as saved when editing address.
 
 
+##
 
 ## Simulation
 
@@ -32,9 +33,14 @@ For stores from Romania on _**My Account**_ page there is a field named "Judet",
 - Click on Edit Address and the previous address is still in the fields of address except for Judet.
 
 
+##
 
 ## Workaround
 
 
 There is no workaround available for that in the My Account itself, but maybe using our Master Data APIs can update or create those addresses.
+
+
+
+
 

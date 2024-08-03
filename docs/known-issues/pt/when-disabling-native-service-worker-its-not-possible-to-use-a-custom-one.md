@@ -1,16 +1,16 @@
 ---
-title: 'Ao desativar um trabalhador de serviço nativo, não é possível usar um serviço personalizado'
+title: 'Ao desativar o service worker nativo, não é possível usar um personalizado'
 id: 1GpzVam1nuGbrKR4Izx6D9
 status: PUBLISHED
 createdAt: 2023-03-14T18:20:55.443Z
-updatedAt: 2023-03-14T18:20:55.953Z
-publishedAt: 2023-03-14T18:20:55.953Z
+updatedAt: 2024-02-02T21:00:43.540Z
+publishedAt: 2024-02-02T21:00:43.540Z
 firstPublishedAt: 2023-03-14T18:20:55.953Z
 contentType: knownIssue
 productTeam: Store Framework
 author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
-slug: ao-desativar-um-trabalhador-de-servico-nativo-nao-e-possivel-usar-um-servico-personalizado
+slug: ao-desativar-o-service-worker-nativo-nao-e-possivel-usar-um-personalizado
 locale: pt
 kiStatus: Backlog
 internalReference: 770949
@@ -24,17 +24,14 @@ internalReference: 770949
 
 
 
-Para usar um prestador de serviços personalizados, você precisa desativar nosso prestador de serviços nativo, mas, ao fazê-lo, não estamos reconhecendo o prestador de serviços personalizados
-
-
-##
+Para usar um service worker personalizado, você precisa desativar nosso service worker nativo, mas, ao fazer isso, não estamos reconhecendo o service worker personalizado
 
 ## Simulação
 
 
 
-Desativar nosso trabalhador de serviço nativo
-Tente ligar um novo
+Desativar nosso service worker nativo
+Tente vincular um novo
 
 Referências:
 
@@ -45,12 +42,11 @@ https://developers.vtex.com/docs/guides/vtex-io-documentation-using-several-serv
 https://developers.vtex.com/docs/guides/vtex-io-documentation-deactivating-the-vtex-io-native-service-worker
 
 
-##
 
 ## Workaround
 
 
-Não há solução
+Não há solução alternativa
 
 
 

@@ -3,8 +3,8 @@ title: 'La nueva interfaz de usuario no muestra el documento de identidad del cl
 id: 7y7Npcr6krhsnnEy54vQFa
 status: PUBLISHED
 createdAt: 2022-12-08T22:21:07.966Z
-updatedAt: 2022-12-08T22:21:08.507Z
-publishedAt: 2022-12-08T22:21:08.507Z
+updatedAt: 2024-02-16T20:27:18.190Z
+publishedAt: 2024-02-16T20:27:18.190Z
 firstPublishedAt: 2022-12-08T22:21:08.507Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: la-nueva-interfaz-de-usuario-no-muestra-el-documento-de-identidad-del-cliente-por-ejemplo-el-cpf
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 713480
 ---
 

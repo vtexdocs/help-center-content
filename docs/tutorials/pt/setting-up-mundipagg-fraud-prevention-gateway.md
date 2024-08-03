@@ -1,10 +1,10 @@
 ---
 title: 'Configurar gateway Mundipagg Fraud Prevention'
 id: yFbysX42GW2wawu82q6QA
-status: PUBLISHED
+status: CHANGED
 createdAt: 2018-04-18T21:01:40.512Z
-updatedAt: 2023-03-29T00:39:20.112Z
-publishedAt: 2023-03-29T00:39:20.112Z
+updatedAt: 2024-03-18T18:40:56.708Z
+publishedAt: 2024-02-16T12:17:04.418Z
 firstPublishedAt: 2018-04-18T21:23:11.844Z
 contentType: tutorial
 productTeam: Financial
@@ -15,14 +15,15 @@ legacySlug: configurar-gateway-mundipagg-fraud-prevention
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
+<div class="alert alert-danger">Essa integração de pagamento não pode ser mais configurada na plataforma devido ao <a href="https://help.vtex.com/pt/announcements/conectores-legados-de-pagamentos-serao-descontinuados-em-2024--4R5YIjUu1IWkiOHzXtQU14">processo de remoção de provedores legados</a> e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.</div>
+
 A Mundipagg oferece uma versão do seu [gateway](/pt/tutorial/o-que-e-um-gateway-de-pagamentos) com a funcionalidade de antifraude. O Mundipagg Fraud Prevention traz ainda mais segurança para o processamento de compras feitas com boletos, transferências bancárias e as principais bandeiras de cartão de crédito.
 
 Para configurar o Mundipagg Fraud Prevention, siga os passos abaixo:
 
-## Configurar afiliação de gateway Mundipagg Fraud Prevention
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão __+__.
-3. Clique no conector __Mundipagg Fraud Prevention__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __Mundipagg Fraud Prevention__ na barra de busca e clique sobre o nome do provedor.
 4. Preencha o campo __Merchant Key__ ("Chave da Loja") com a chave cadastrada na Mundipagg. Ela é formada por 36 caracteres, entre letras, números e hífens.
 5. Em __País__, escolha o país da sua loja.
 6. O campo __Cadastro Url Post Notification em Mundipagg__ traz um endereço para que você configure o recebimento de notificações sobre status de pagamento. No link `https://{sellerhost}.vtexpayments.com.br/mundipagg/payment/statusnotification`, substitua `{sellerhost}` pelo account name da sua loja. Então, envie a URL final para a Mundipagg completar o cadastro.

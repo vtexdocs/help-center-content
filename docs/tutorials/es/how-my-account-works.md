@@ -3,8 +3,8 @@ title: 'Cómo funciona Mi Cuenta'
 id: 2BQ3GiqhqGJTXsWVuio3Xh
 status: PUBLISHED
 createdAt: 2019-04-11T21:14:26.117Z
-updatedAt: 2023-04-24T23:39:56.581Z
-publishedAt: 2023-04-24T23:39:56.581Z
+updatedAt: 2023-12-21T14:09:42.863Z
+publishedAt: 2023-12-21T14:09:42.863Z
 firstPublishedAt: 2019-05-21T19:48:15.019Z
 contentType: tutorial
 productTeam: Identity
@@ -77,6 +77,10 @@ El botón `Añadir dirección` permite incluir direcciones diferentes a las que 
 
 ## Pedidos
 
+<div class = "alert alert-info">
+En <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi Cuenta</a>, los clientes solo pueden acceder a los pedidos de los últimos dos años.
+</div>
+
 Esta pestaña proporciona una lista completa de los pedidos realizados por un cliente en su tienda. La lista se ordena por fecha de creación y muestra detalles como la fecha del pedido, el valor total de la compra, el ID del pedido, el _status_ y los ítems comprados.
 
 ![orders ES](https://images.ctfassets.net/alneenqid6w5/1VTgMxrq3WI02LZt21wuw6/c6d01d4becb2a0f1173e34a82f83cb90/orders_ES.png)
@@ -116,7 +120,12 @@ Este botón permite que el cliente modifique la información del pedido, como di
 
 ## Tarjetas de crédito
 
-En la pestaña **Tarjetas de crédito**, el cliente tiene autonomía para gestionar las tarjetas de crédito relacionadas con su cuenta.  Es posible incluir y editar los datos de las tarjetas de crédito que ya se registraron en el _checkout_. Para agregar nuevas tarjetas, sigue los pasos a continuación:
+En la pestaña **Tarjetas de crédito**, el cliente tiene autonomía para administrar las tarjetas de crédito relacionadas con su cuenta a través de las siguientes acciones:
+
+- Agregar nuevas tarjetas
+- Eliminar tarjetas con fecha de vencimiento alcanzada
+
+Para agregar nuevas tarjetas, sigue los pasos a continuación:
 
 1. Abre **Mi cuenta** (My Account) en la tienda.
 2. Haz clic en la sección **Tarjetas de crédito**.

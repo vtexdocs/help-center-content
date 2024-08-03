@@ -3,8 +3,8 @@ title: 'Gestión de redirecciones de URL'
 id: 3UJuFrU8imSVWg134mkvJV
 status: PUBLISHED
 createdAt: 2022-02-03T13:17:46.873Z
-updatedAt: 2023-03-24T22:07:21.230Z
-publishedAt: 2023-03-24T22:07:21.230Z
+updatedAt: 2023-11-14T18:03:08.019Z
+publishedAt: 2023-11-14T18:03:08.019Z
 firstPublishedAt: 2022-02-03T14:42:10.000Z
 contentType: tutorial
 productTeam: VTEX IO
@@ -15,6 +15,10 @@ legacySlug: gestion-de-redirecciones-de-url
 subcategory: 1znnjA17XqaUNdNFr42PW5
 ---
 
+<div class="alert alert-warning" role="alert">
+Para crear, editar o eliminar redirecciones, el usuario del Admin VTEX debe tener un rol de acceso con el <a href="https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3">recurso de License Manager</a> <strong>CMS Settings</strong>. Puedes asignar al usuario un rol de acceso con el recurso siguiendo las instrucciones del artículo <a href="https://help.vtex.com/es/tutorial/gestionar-usuarios--tutorials_512#editando-usuarios">Gestionar usuarios</a>, o crear un nuevo rol de acceso que incluya dicho recurso consultando las instrucciones del artículo <a href="https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol">Roles</a>.
+</div>
+
 1. En el Admin VTEX, haz clic en **Storefront** > **Redirecciones**.
 2. Haz clic en `Nueva redirección`.
 3. Rellena los siguientes campos:
@@ -24,13 +28,19 @@ subcategory: 1znnjA17XqaUNdNFr42PW5
 5. Haz clic en `Guardar` para finalizar.
 
 ![gerenciando redirecionamentos es 1](https://images.ctfassets.net/alneenqid6w5/6WZzZNgQPLtfwP1Z8fK7S9/ca2f417ea225d8d6875f37c31d0847a7/image5.png)
+
 ## Importar redirección
 Para importar una redirección, sigue los pasos a continuación.
 
 1. Haz clic en <i class="fas fa-upload"></i> `Importar`.
-2. Selecciona el archivo CSV en tu computadora.
+2. Selecciona el archivo CSV en tu computadora, asegurándote de que utilice un punto y coma como separador (`;`).
 3. Haz clic en `Importar archivo`.
 4. Haz clic en  `Guardar` para finalizar.
+
+<div class="alert alert-warning" role="alert">
+Ten en cuenta que algunos editores pueden modificar automáticamente el separador. Por lo tanto, antes de importar un archivo, verifica que el formato del mismo sea CSV, y que el punto y coma (<code>;</code>) se utiliza como separador de valores. No se aceptarán archivos que utilicen otros separadores como comas (<code>,</code>) o espacio de tabulación (<code>&nbsp;&nbsp;</code>).<br><br>
+Algunos editores, como Google Sheets, exportan los archivos CSV con la coma (<code>,</code>) como separador predeterminado y es posible que no permitan el uso del punto y coma (<code>;</code>). En esos casos, se recomienda utilizar otros editores que permitan sustituir los separadores o guardar el archivo con el punto y coma (<code>;</code>) como separador.
+</div>
 
 ## Exportar redirección
 

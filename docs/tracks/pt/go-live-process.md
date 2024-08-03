@@ -1,10 +1,10 @@
 ---
 title: 'Realizando o go-live da sua loja'
 id: 1iP90RcJvlrfQhnlxM54wo
-status: PUBLISHED
+status: CHANGED
 createdAt: 2022-12-09T19:12:28.218Z
-updatedAt: 2023-03-27T14:51:55.484Z
-publishedAt: 2023-03-27T14:51:55.484Z
+updatedAt: 2024-05-24T14:32:56.445Z
+publishedAt: 2024-01-31T13:30:12.446Z
 firstPublishedAt: 2022-12-09T22:09:43.345Z
 contentType: trackArticle
 productTeam: Reliability
@@ -28,7 +28,7 @@ Note que uma loja em produção é diferente de uma conta em produção. De modo
 
 Antes de realizar o go-live da sua loja, é essencial garantir que você tenha realizado todas as configurações necessárias para o bom funcionamento da sua loja.
 
-Copie esta [Checklist de configuração de loja](//assets.ctfassets.net/alneenqid6w5/3yv1ofQRJ5xeX7J5EGglGy/dbe5b9175ab01586916c6155ac5681fa/Checklist_de_configura____o_de_loja.xlsx) e verifique, para cada item, se realizou as configurações de acordo com o funcionamento desejado da loja.
+Copie esta [Checklist de configuração de loja](https://assets.ctfassets.net/alneenqid6w5/3yv1ofQRJ5xeX7J5EGglGy/f504033fb6e8bf38b639547c5fd8790a/Checklist_de_configura__o_de_loja.xlsx) e verifique, para cada item, se realizou as configurações de acordo com o funcionamento desejado da loja.
 
 <div class="alert alert-warning">
 A checklist indicada acima lista funcionalidades e configurações básicas para o funcionamento de uma loja VTEX. Cabe à sua equipe definir quais funcionalidades implementar na sua loja e como deverão ser configuradas de maneira a produzir a experiência de loja desejada. Isso significa que a lista pode não contemplar todas as funcionalidades usadas pela sua loja. Ainda assim, é importante verificar todos os aspectos do funcionamento da sua loja, mesmo que não estejam na lista sugerida.
@@ -39,7 +39,7 @@ A checklist indicada acima lista funcionalidades e configurações básicas para
 O processo de go-live da sua loja pode ter variações dependendo de algumas características da sua operação. Além disso, alguns passos são sensíveis ao tempo. Por esses motivos recomendamos que planeje o processo completo do seu go-live com no mínimo 15 dias de antecedência.
 
 <div class = "alert alert-info">
-Se você usa o CMS Legado Portal e deseja migrar para uma frente de loja construída com [CMS IO](https://help.vtex.com/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), siga as instruções no guia [Migrando sua frente de loja do CMS Legado Portal para Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io).
+  <p>Se você usa o CMS Legado Portal e deseja migrar para uma frente de loja construída com <a href="https://help.vtex.com/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">VTEX IO</a>, siga as instruções no guia <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io">Migrando sua frente de loja do CMS Legado Portal para Store Framework</a>.</p>
 </div>
 
 Por motivo de organização e conveniência, este guia divide os passos envolvidos no go-live em quatro estágios:

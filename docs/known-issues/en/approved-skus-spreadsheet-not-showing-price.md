@@ -3,8 +3,8 @@ title: 'Approved Skus Spreadsheet not showing price'
 id: 3nWwzGYX1Ys0rKkoSZZpdz
 status: PUBLISHED
 createdAt: 2022-03-29T19:22:12.977Z
-updatedAt: 2022-11-25T22:00:49.862Z
-publishedAt: 2022-11-25T22:00:49.862Z
+updatedAt: 2024-02-16T20:23:36.636Z
+publishedAt: 2024-02-16T20:23:36.636Z
 firstPublishedAt: 2022-03-29T19:22:13.346Z
 contentType: knownIssue
 productTeam: Marketplace
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: approved-skus-spreadsheet-not-showing-price
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 552155
 ---
 

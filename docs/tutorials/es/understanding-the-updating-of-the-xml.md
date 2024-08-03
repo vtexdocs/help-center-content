@@ -3,8 +3,8 @@ title: 'Cómo se hace la actualización del XML'
 id: tutorials_297
 status: PUBLISHED
 createdAt: 2017-04-27T22:09:31.811Z
-updatedAt: 2019-12-31T15:28:59.361Z
-publishedAt: 2019-12-31T15:28:59.361Z
+updatedAt: 2024-02-29T14:57:59.233Z
+publishedAt: 2024-02-29T14:57:59.233Z
 firstPublishedAt: 2017-04-27T23:03:14.354Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -21,6 +21,6 @@ Esa consulta significa que se convocó el XML en menos de 48 horas. Aquellos XML
 
 Es posible visualizar la última fecha de actualización del XML. Esa información queda en horario UTC al final del documento, conforme imagen abajo.
 
-![](//images.contentful.com/alneenqid6w5/5YwPKBeb5ekeGEu6gcQgUG/585efc76d9e56c5ed434d4faa6e526f0/xml.png)
+![](https://images.contentful.com/alneenqid6w5/5YwPKBeb5ekeGEu6gcQgUG/585efc76d9e56c5ed434d4faa6e526f0/xml.png)
 
 <div class="alert alert-info">Caso la opción "Exhibir los SKUs sin saldo disponible (agotados) en Stock entre los resultados" no esté señalada, los productos/SKUs que estén agotados <strong>no</strong> surgirán en el XML. Productos inactivos también <strong>no</strong> surgen en el XML.</div>

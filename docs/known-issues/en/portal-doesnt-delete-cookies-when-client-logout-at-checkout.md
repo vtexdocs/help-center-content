@@ -3,8 +3,8 @@ title: "Portal doesn't delete cookies when client logout at checkout"
 id: 5GPBW2TBOUzJkw5u47KC5z
 status: PUBLISHED
 createdAt: 2022-03-16T16:13:44.658Z
-updatedAt: 2022-11-25T22:10:31.240Z
-publishedAt: 2022-11-25T22:10:31.240Z
+updatedAt: 2024-04-26T18:05:09.421Z
+publishedAt: 2024-04-26T18:05:09.421Z
 firstPublishedAt: 2022-03-16T16:13:45.038Z
 contentType: knownIssue
 productTeam: Portal
@@ -24,6 +24,7 @@ At a store's checkout, we have an option to log out.
 Unfortunately, the request made to the portal application, is not deleting the cookies of the user, remaining on the OrderForm with the email ID from this client, so the client cannot log out using this option
 
 
+##
 
 ## Simulation
 
@@ -39,9 +40,14 @@ Checkout performs the request normally, making the request along with the `order
 However, Portal Application is not deleting this user's cookie and thus returning the same user, with this the email is kept in the orderForm and consequently, it is not logged out.
 
 
+##
 
 ## Workaround
 
 
-Log out using the Home page.
+Use a JS custom to force the logout
+
+
+
+
 

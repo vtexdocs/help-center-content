@@ -1,10 +1,10 @@
 ---
 title: 'Cadastrar Coleções (Beta)'
 id: yJBHqNMViOAnnnq4fyOye
-status: PUBLISHED
+status: CHANGED
 createdAt: 2020-08-17T20:29:25.500Z
-updatedAt: 2023-03-29T14:50:46.438Z
-publishedAt: 2023-03-29T14:50:46.438Z
+updatedAt: 2024-03-04T20:48:30.215Z
+publishedAt: 2024-02-22T12:15:26.041Z
 firstPublishedAt: 2020-08-27T15:16:59.673Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -107,12 +107,14 @@ Caso você deseje realizar uma inclusão massiva, aplique pelo menos um dos filt
 ![Coleções Adicionar Todos - PT](https://images.ctfassets.net/alneenqid6w5/7Bo9F9fU4sGW4FqBTBquD8/20fa966d9f2bb7339ad12140fc722d2b/Screenshot_22.png)
 
 <div class = "alert alert-danger">
-  <p>Não adicione massivamente uma quantidade acima de 150 mil produtos. Isso pode comprometer a indexação do Catálogo e o funcionamento da sua loja.</p>
+  <p>Não adicione massivamente uma quantidade acima de 100 mil produtos. Isso pode comprometer a indexação do Catálogo e o funcionamento da sua loja.</p>
 </div>
 
 #### Por planilha
 
-Você também pode adicionar os itens em uma coleção por planilha. 
+Você também pode adicionar os itens em uma coleção por planilha.
+
+<div class = "alert alert-info">O limite máximo para importação e exportação é de 10 mil SKUs por operação.</div>
 
 Para isso, siga os passos a seguir:
 

@@ -3,8 +3,8 @@ title: 'Impossibilidade de usar duas ou mais credenciais diferentes do PayPal pa
 id: 3cVh2SbvToH8yGOOYcWgDB
 status: PUBLISHED
 createdAt: 2022-03-03T18:39:24.442Z
-updatedAt: 2022-11-25T22:05:45.390Z
-publishedAt: 2022-11-25T22:05:45.390Z
+updatedAt: 2024-02-16T20:25:01.876Z
+publishedAt: 2024-02-16T20:25:01.876Z
 firstPublishedAt: 2022-03-03T18:39:25.004Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: impossibilidade-de-usar-duas-ou-mais-credenciais-diferentes-do-paypal-para-a-mesma-conta
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 459704
 ---
 
@@ -23,21 +23,20 @@ internalReference: 459704
 </div>
 
 
-Quando o cliente registra duas afiliações diferentes na mesma conta usando PayPalPlus, a plataforma não atualiza o cache para quando há uma mudança na regra de pagamento, ou seja, é possível usar apenas uma credencial por conta.
-
-
-
+Quando o usuário registra duas afiliações diferentes na mesma conta usando o PayPalPlus, a plataforma não atualiza o cache para quando houver uma alteração em uma regra de pagamento, ou seja, é possível usar apenas uma credencial por conta.
 
 ## Simulação
 
 
-Registre duas filiações diferentes com credenciais diferentes e crie regras considerando estas duas filiações.
-Feche duas compras, cada uma com uma das regras, e na carga útil da transação você pode ver que apesar de entrar com as regras corretas, o merchant_id (identificação da conta na qual o dinheiro cairá) é o mesmo.
-
-
+Registre duas afiliações diferentes com credenciais diferentes e crie regras considerando essas duas afiliações.
+Feche duas compras, cada uma com uma das regras, e no payload da transação você pode ver que, apesar de inserir as regras corretas, o merchant_id (identificação da conta na qual o dinheiro cairá) é o mesmo
 
 ## Workaround
 
 
-Não há solução
+N/A
+
+
+
+
 

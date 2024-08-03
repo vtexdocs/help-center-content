@@ -3,8 +3,8 @@ title: 'Setting up vcmais gateway'
 id: 28nAmwnfxWSoQEIO8EYYaI
 status: PUBLISHED
 createdAt: 2018-04-17T21:48:38.248Z
-updatedAt: 2023-03-29T00:43:23.712Z
-publishedAt: 2023-03-29T00:43:23.712Z
+updatedAt: 2023-10-18T12:07:58.261Z
+publishedAt: 2023-10-18T12:07:58.261Z
 firstPublishedAt: 2018-04-18T21:26:18.172Z
 contentType: tutorial
 productTeam: Financial
@@ -15,7 +15,7 @@ legacySlug: setting-up-vcmais-gateway
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-On the VTEX platform, you may set up VC+ [gateway](/en/tutorial/what-is-a-payment-gateway) to receive payments through promissory notes.
+On the VTEX platform, you may set up VC+ [gateway](/en/tutorial/what-is-a-payment-gateway) to receive payments through Notes Payable.
 
 To set VC+ up, follow the steps below:
 

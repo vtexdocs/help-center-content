@@ -3,8 +3,8 @@ title: '​​Availability'
 id: 7LMQbWK5nElIkXo0NK8Kux
 status: PUBLISHED
 createdAt: 2021-10-04T18:01:24.137Z
-updatedAt: 2021-10-04T18:18:56.501Z
-publishedAt: 2021-10-04T18:18:56.501Z
+updatedAt: 2023-12-07T19:28:15.731Z
+publishedAt: 2023-12-07T19:28:15.731Z
 firstPublishedAt: 2021-10-04T18:18:56.501Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -16,7 +16,7 @@ trackSlugEN: vtex-intelligent-search
 
 To generate a search result, VTEX Intelligent Search takes into account the availability of each product found in the search. Available products will always have priority over unavailable products in the search results.
 
-When checking the availability of a product, VTEX Intelligent Search uses the **Show out of stock** field in the [Catalog](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR) to verify which products will be displayed even if they are unavailable. If the product configuration defines that it will not be displayed when it is out of stock, the platform will place it at the end of the search results. VTEX Intelligent Search also checks if:
+When checking the availability of a product, VTEX Intelligent Search uses the **Show out of stock** field in the [Catalog](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR) to verify which products will be displayed even if they are unavailable. If the product configuration specifies that it should not be displayed when out of stock, the platform will not showcase the product. However, if the configuration indicates that the product should be displayed even when out of stock, the platform will position it at the end of the search results. VTEX Intelligent Search also checks if:
 
 - The product in question is active.
 - At least one product SKU is active.

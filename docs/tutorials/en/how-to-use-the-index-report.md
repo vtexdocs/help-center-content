@@ -1,10 +1,10 @@
 ---
 title: 'How to use the Index Report'
 id: 4ikVpMhwByyS8sysaeOIm4
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-07-04T13:10:40.431Z
-updatedAt: 2023-03-29T19:04:52.988Z
-publishedAt: 2023-03-29T19:02:27.075Z
+updatedAt: 2023-07-13T19:45:25.468Z
+publishedAt: 2023-07-13T19:45:25.468Z
 firstPublishedAt: 2017-07-04T19:16:21.471Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

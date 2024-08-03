@@ -3,8 +3,8 @@ title: 'Simulação Não é possível encontrar Produtos do Catálogo V2 na Pág
 id: 7jZBMAZHNilokDdbCxWzSs
 status: PUBLISHED
 createdAt: 2022-05-18T18:26:09.456Z
-updatedAt: 2022-11-25T21:59:14.900Z
-publishedAt: 2022-11-25T21:59:14.900Z
+updatedAt: 2024-02-16T20:28:57.548Z
+publishedAt: 2024-02-16T20:28:57.548Z
 firstPublishedAt: 2022-05-18T18:26:10.048Z
 contentType: knownIssue
 productTeam: Logistics
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: simulacao-nao-e-possivel-encontrar-produtos-do-catalogo-v2-na-pagina-de-simulacao-de-embarque
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 488362
 ---
 

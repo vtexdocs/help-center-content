@@ -1,10 +1,10 @@
 ---
 title: 'Servicio al cliente humano'
 id: 1woBo299K5gvDG7MSa8HYL
-status: PUBLISHED
+status: DRAFT
 createdAt: 2023-04-18T15:27:09.214Z
-updatedAt: 2023-04-27T15:25:57.212Z
-publishedAt: 2023-04-27T15:25:57.212Z
+updatedAt: 2024-01-05T17:14:29.070Z
+publishedAt: 
 firstPublishedAt: 2023-04-18T19:58:12.540Z
 contentType: trackArticle
 productTeam: Shopping
@@ -39,8 +39,8 @@ Si eliges no utilizarlo, debes incluir un mensaje de indisponibilidad que indiqu
 Para los feriados nacionales, regionales u otras fechas en las que no vayas a prestar servicio: informa la fecha y hora en que el servicio no estará disponible. Si los periodos se repiten anualmente, es posible seleccionar “Recurrencia anual”, predefiniendo la configuración de los periodos seleccionados.
 </div>
 <ol start="4">
-  <li>En caso de existir alguna excepción, informa los periodos de indisponibilidad.<br><img src="https://images.ctfassets.net/alneenqid6w5/2z0LWtsZqBbxpjbf060Hvu/ec040b052be986620bc101c9d56ce0f4/excecoes_ou_feriados_es.png"></li>
-  <li>Establece un mensaje de indisponibilidad. Este mensaje se enviará cuando los clientes contacten por WhatsApp fuera de las ventanas de servicio previamente configuradas.<br><img src="https://images.ctfassets.net/alneenqid6w5/16iLFjlXSqrrAW34s8PIXn/cd07b2d6e44515253f2d9b7a722c5a98/indisponibilidad.png" alt="Mensage de indisponibilidad"></li>
+  <li>En caso de existir alguna excepción, informa los periodos de indisponibilidad.<br><img src="//images.ctfassets.net/alneenqid6w5/2z0LWtsZqBbxpjbf060Hvu/ec040b052be986620bc101c9d56ce0f4/excecoes_ou_feriados_es.png"></li>
+  <li>Establece un mensaje de indisponibilidad. Este mensaje se enviará cuando los clientes contacten por WhatsApp fuera de las ventanas de servicio previamente configuradas.<br><img src="//images.ctfassets.net/alneenqid6w5/16iLFjlXSqrrAW34s8PIXn/cd07b2d6e44515253f2d9b7a722c5a98/indisponibilidad.png" alt="Mensage de indisponibilidad"></li>
   <li>Haz clic en <code>Guardar</code>.</li>
 </ol> 
 

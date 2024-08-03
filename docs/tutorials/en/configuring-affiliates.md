@@ -3,8 +3,8 @@ title: 'Configuring affiliates'
 id: tutorials_187
 status: PUBLISHED
 createdAt: 2017-04-27T22:15:31.422Z
-updatedAt: 2023-03-29T18:05:11.905Z
-publishedAt: 2023-03-29T18:05:11.905Z
+updatedAt: 2024-01-08T18:13:15.897Z
+publishedAt: 2024-01-08T18:13:15.897Z
 firstPublishedAt: 2017-04-27T23:00:46.992Z
 contentType: tutorial
 productTeam: Channels
@@ -15,9 +15,9 @@ legacySlug: configuring-affiliates
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
 
-It will only be necessary to register [affiliates](https://help.vtex.com/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) in the conditions where the store acts as a seller in a marketplace, because the seller creates an affiliate code to identify each marketplace.
+At VTEX, the [affiliate](https://help.vtex.com/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) is an identification code of the marketplace for the seller. The [VTEX seller](https://help.vtex.com/en/tutorial/integrating-with-marketplace/#being-a-vtex-seller) needs to configure an affiliate code in order to integrate with a [VTEX marketplace](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#being-a-vtex-marketplace), and this configuration is only necessary when both marketplace and seller are VTEX stores.
 
-This configuration is only required in the case of integrations where the marketplace and the seller are VTEX stores or [when the marketplace is not a VTEX store and has no configuration using the Integrations module.](/en/tutorial/integrating-with-marketplace/) In these cases, the affiliate is created automatically.
+When the marketplace is not a VTEX store (as in [external integrations](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-an-external-marketplace)), or when the store integrates with a [certified marketplace](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-a-certified-marketplace) (such as Amazon or Mercado Livre), the affiliate code is automatically created by the platform.
 
 ## How to set it up
 

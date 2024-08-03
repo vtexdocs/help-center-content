@@ -31,7 +31,7 @@ Para insertar  los scripts que Braspag/CyberSource requiere para el device finge
 
 ## Creación de variables (macros) y disparadores
 
-- Cree la variable de nombre `trasactionPaymentId`, tipo **Variable de la capa de datos**, leyendo la variable `transactionPayment.id` del datalayer.![](//images.contentful.com/alneenqid6w5/2iGloCXR32IMAyWAKe8qWy/cf1108ad17e944adc63f189e67cfa93d/gtm-cybersource-variavel1-1.png)
+- Cree la variable de nombre `trasactionPaymentId`, tipo **Variable de la capa de datos**, leyendo la variable `transactionPayment.id` del datalayer.![](https://images.contentful.com/alneenqid6w5/2iGloCXR32IMAyWAKe8qWy/cf1108ad17e944adc63f189e67cfa93d/gtm-cybersource-variavel1-1.png)
 - Cree la variable de nombre `cs_sessionId`, con el tipo **JavaScript personalizado** y el siguiente código:
 
 ```
@@ -41,15 +41,15 @@ function() {
   }
 ```
 
-![](//images.contentful.com/alneenqid6w5/2qhm00B2d2guyeqIU4gCCc/15c42813f5a0ad04937da7aebcc2e5b2/gtm-cybersource-variavel2-javascript-3.png)
+![](https://images.contentful.com/alneenqid6w5/2qhm00B2d2guyeqIU4gCCc/15c42813f5a0ad04937da7aebcc2e5b2/gtm-cybersource-variavel2-javascript-3.png)
 
 - Cree las variables `cs_orgId` y `cs_merchantId` con el tipo **Permanente**. El valor de estas dos variables deberá rellenarse con el contenido proporcionado por Braspag.
 
-![gtm-cybersource-variavel3-permanente](//images.contentful.com/alneenqid6w5/5EFSTIM6TCKUE4GEOA66kc/8c2f37cdd8cc94571f6f2ac72ec1d35b/gtm-cybersource-variavel3-permanente.png)
+![gtm-cybersource-variavel3-permanente](https://images.contentful.com/alneenqid6w5/5EFSTIM6TCKUE4GEOA66kc/8c2f37cdd8cc94571f6f2ac72ec1d35b/gtm-cybersource-variavel3-permanente.png)
 
 - Cree o edite un disparador para la pantalla de OrderPlaced (pantalla de compra finalizada con éxito), para que sea compatible con el evento de tipo **Evento personalizado** y de valor **orderPlaced**.
 
-![gtm-cybersource-acionador-orderplaced](//images.contentful.com/alneenqid6w5/51IPOyaAjmowkEQ24sYyw4/7b11cddfb71c200dd1cd2c85149c7726/gtm-cybersource-acionador-orderplaced.png)
+![gtm-cybersource-acionador-orderplaced](https://images.contentful.com/alneenqid6w5/51IPOyaAjmowkEQ24sYyw4/7b11cddfb71c200dd1cd2c85149c7726/gtm-cybersource-acionador-orderplaced.png)
 
 ## Creación de la tag para Braspag
 

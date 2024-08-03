@@ -1,17 +1,17 @@
 ---
 title: 'Crear un punto de recogida de contingencia para garantizarlo como opción en el checkout  '
 id: 3mowqWEfjyM2g6WoWgE0Ao
-status: CHANGED
+status: PUBLISHED
 createdAt: 2018-04-01T16:02:02.437Z
-updatedAt: 2020-06-20T04:56:48.306Z
-publishedAt: 2020-06-14T22:20:33.622Z
+updatedAt: 2023-08-01T21:35:48.449Z
+publishedAt: 2023-08-01T21:35:48.449Z
 firstPublishedAt: 2019-01-25T17:26:19.150Z
 contentType: tutorial
 productTeam: Shopping
 author: authors_35
-slug: crear-punto-de-recogida-de-contingencia-como-opcion-en-el-checkout  
+slug: crear-punto-de-recogida-de-contingencia-como-opcion-en-el-checkout
 locale: es
-legacySlug: crear-punto-de-recogida-de-contingencia-como-opcion-en-el-checkout  
+legacySlug: crear-punto-de-recogida-de-contingencia-como-opcion-en-el-checkout
 subcategory: 8AGXmtpbTqUE2KQu0Swwk
 ---
 
@@ -21,15 +21,19 @@ Si su cliente final compra un producto en cualquiera de sus canales (en línea o
 
 Sin embargo, usted puede preferir que esa tienda funcione como un punto de recogida __ incluso si no tiene stock__. Para esto, su logística necesita asegurar que el producto llegará a esa tienda desde otro stock, por ejemplo, desde el stock del comercio electrónico. En este caso, necesita tener una política de envío en el comercio electrónico en el que esté configurado el punto de recogida de la tienda física.
 
-![contingency pickup](https://images.ctfassets.net/alneenqid6w5/7sxWH5eDPpCmNlEPfHiZF1/7a10b60e1273d58d9c2ca7610a9ba888/contingency_pickup.png)
+![Crear punto de retiro de contingencia para garantizarlo como opción en checkout](https://images.ctfassets.net/alneenqid6w5/38phAuzqPzQoBPy8811K3K/aebc9c8a6dded36f5b31496626099186/diagrama-como-criar-um-ponto-de_contigencia-es.jpg)
 
 ## Cómo implementar un punto de recogida de contingencia
 
-Siga estos pasos para implementar un stock de contingencia:
-- En el panel administrativo del comercio electrónico o de la tienda que desee utilizar como fallback, es decir, la tienda de cuyo stock saldrán los productos para abastecer el punto de recogida, configure un nuevo punto de recogida con la información de la tienda física deseada.
-- Aún en el comercio electrónico o en la tienda de fallback, cree una nueva política de envío. Esta política de envío debe tener exactamente el __mismo tipo de entrega__ ya configurado en la logística de recogida que se utiliza en la tienda física donde los productos serán retirados.
-- Asocie el nuevo punto de recogida creado con esta política de envío.
+Para implementar un punto de recogida de contingencia, es necesario configurar los siguientes pasos:
 
-<div class="alert alert-info">
-Con esto, tendrá dos rutas logísticas con el mismo punto de recogida: una con el stock local de la tienda física y la otra con el stock de otro canal (comercio electrónico u otra tienda física). Cuando un cliente elige este punto de recogida en el checkout, las dos rutas competirán. Siempre que haya stock local, su SLA será más ventajoso y por lo tanto ganará. Cuando no haya stock local, el pedido caerá en la ruta que usted configuró a partir de este artículo.
-</div>
+1. En el Admin VTEX, [agrega un nuevo](https://help.vtex.com/es/tutorial/cadastro-de-pontos-de-retirada--2R5ClQiwe4KoSQgsuiOw4E) punto de recogida en la tienda, con stock para suministrar los ítems que abastecerán dicho punto de recogida.
+2. [Crea una nueva política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140) cuya estrategia de envío coincida con la estrategia de envío previamente configurada en la política que utiliza la tienda física donde se recogerán los productos.
+3. Asocia esta nueva política al punto de recogida recién creado.
+
+De esta forma, tendrás dos rutas logísticas: una que utilizará el stock de la tienda física, y otra logística que utilizará el stock de una tienda diferente.
+
+Cuando el cliente elija este punto de recogida en el checkout, el sistema procederá de la siguiente manera:
+
+- Si hay stock local, el plazo de entrega será más corto. En este caso, se seleccionará el punto de recogida principal.
+- Si no hay stock local, se seleccionará la ruta logística configurada como contingencia.

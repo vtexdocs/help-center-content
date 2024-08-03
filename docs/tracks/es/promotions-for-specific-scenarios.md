@@ -1,10 +1,10 @@
 ---
 title: 'Promociones para escenarios específicos'
 id: jOu9b69mKbrTDfSJYAawy
-status: CHANGED
+status: PUBLISHED
 createdAt: 2020-01-22T13:55:51.326Z
-updatedAt: 2020-11-27T19:40:32.581Z
-publishedAt: 2020-07-29T22:53:59.120Z
+updatedAt: 2023-10-23T17:08:04.859Z
+publishedAt: 2023-10-23T17:08:04.859Z
 firstPublishedAt: 2020-01-22T15:01:20.187Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -50,7 +50,7 @@ La promoción Más por Menos se utiliza para otorgar un descuento cuando el clie
 
 En la configuración de la promoción Más por Menos, la tienda debe definir a qué colecciones o SKUs se aplicará. Luego, elija el número de ítems en el carrito para que funcione y el número de ítems con descuento.
 
-![Leve mais por menos - ES](https://images.ctfassets.net/alneenqid6w5/2oKj9TshOn5AWpgPHP2UT4/27f982cc7854eccb0ff656f3e6f70606/Screenshot_2020-06-24_https_lojadobreno_myvtex_com_1_.png)
+![Más por menos](https://images.ctfassets.net/alneenqid6w5/5LQErZWrN4WyX8ZuIBEMPM/2f8e02eef7f52bdaccf728ff9406ece7/Mas_por_menos.png)
 
 Por ejemplo:
 
@@ -93,7 +93,7 @@ Es importante señalar que esta posibilidad es <strong>válida apenas para una p
 
 Después de rellenar todos [los campos de una promoción regular](https://help.vtex.com/es/tutorial/regular-promotion--tutorials_327) con descuento porcentual, puede seleccionar la opción __Definir la cantidad máxima de ítems afectados por carrito__ en la sección __Restricciones y limitaciones de uso__.
 
-![Limites de itens - ES](https://images.ctfassets.net/alneenqid6w5/4Z5PxhDSo3baaPwtNOuCnM/3ff74fed7b7652368f70fc1dab936000/image__14_.png)
+![Limite itens - ES](https://images.ctfassets.net/alneenqid6w5/1W6ZYterIepCud41XJr4UQ/b2df8c53d0e4cb8d144db320ddb983ae/Limite_itens_-_ES.png)
 
 Por defecto, la opción __ilimitado__ está activa, aplicando la promoción a todos los ítems del carrito, como se ilustra en el siguiente diagrama:
 

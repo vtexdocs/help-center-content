@@ -3,8 +3,8 @@ title: 'Skus de un mismo producto creados por separado (cuentas con el indicador
 id: 1nkfd9OuKTFsnBWe1k6dif
 status: PUBLISHED
 createdAt: 2023-02-15T12:22:35.143Z
-updatedAt: 2023-02-15T12:22:35.839Z
-publishedAt: 2023-02-15T12:22:35.839Z
+updatedAt: 2023-11-28T19:01:37.291Z
+publishedAt: 2023-11-28T19:01:37.291Z
 firstPublishedAt: 2023-02-15T12:22:35.839Z
 contentType: knownIssue
 productTeam: Marketplace
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: skus-de-un-mismo-producto-creados-por-separado-cuentas-con-el-indicador-autoaprobar-activado
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 467112
 ---
 

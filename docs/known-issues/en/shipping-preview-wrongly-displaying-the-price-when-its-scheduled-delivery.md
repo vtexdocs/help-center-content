@@ -3,8 +3,8 @@ title: "Shipping Preview wrongly displaying the price when it's scheduled delive
 id: 1348f4mDxoxAT7pTKBxm29
 status: PUBLISHED
 createdAt: 2023-01-31T19:16:25.118Z
-updatedAt: 2023-02-01T20:32:44.535Z
-publishedAt: 2023-02-01T20:32:44.535Z
+updatedAt: 2024-03-27T15:40:02.745Z
+publishedAt: 2024-03-27T15:40:02.745Z
 firstPublishedAt: 2023-01-31T19:16:25.874Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: shipping-preview-wrongly-displaying-the-price-when-its-scheduled-delivery
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 532487
 ---
 

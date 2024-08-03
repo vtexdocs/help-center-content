@@ -3,12 +3,12 @@ title: 'Configurar marketplace VTEX'
 id: 7splyp5MqIyt2Iyz5jsNzb
 status: PUBLISHED
 createdAt: 2022-01-26T21:27:16.808Z
-updatedAt: 2023-04-17T22:04:41.917Z
-publishedAt: 2023-04-17T22:04:41.917Z
+updatedAt: 2024-05-23T15:18:17.648Z
+publishedAt: 2024-05-23T15:18:17.648Z
 firstPublishedAt: 2022-01-26T23:06:58.565Z
 contentType: tutorial
 productTeam: Channels
-author: 0QBQws7rk0t5Mnu8fgfUv
+author: 2p7evLfTcDrhc5qtrzbLWD
 slug: configurar-marketplace-vtex
 locale: pt
 legacySlug: configurar-marketplace-vtex
@@ -75,7 +75,7 @@ Sellers diferentes podem ser exibidos durante a experiência de compra no seu ma
 - **Seller identificável:** o seller é visível no *storefront* do seu marketplace e escolhido pelo consumidor durante a experiência de compra no buy box.  
 - **Seller não identificável (white label):** [sellers white label](https://help.vtex.com/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label) são contas franquia na VTEX, ocultos na experiência de compra e selecionados automaticamente pelo sistema do checkout para o fulfillment.  
 
-Para adicionar um seller não identificável (white label), é necessário ter esse modelo previsto no contrato com a VTEX. Uma vez ajustado o contrato com o representante comercial da VTEX responsável pelo seu marketplace, solicite a adição de uma conta franquia seguindo as instruções em [O que são conta franquia e seller white label](https://help.vtex.com/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa#o-que-e-uma-conta-franquia). Toda conta franquia é criada como seller white label e não é possível mudar o tipo de seller após a sua criação. Saiba mais em [Adicionar sellers](https://help.vtex.com/pt/tutorial/adding-a-seller--tutorials_392). 
+Para adicionar um seller não identificável (white label), é necessário ter esse modelo previsto no contrato com a VTEX. solicite a adição de uma conta franquia seguindo as instruções em [Solicitar criação de conta franquia](https://help.vtex.com/pt/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl#solicitar-criacao-de-conta-franquia). Toda conta franquia é criada como seller white label e não é possível mudar o tipo de seller após a sua criação. Saiba mais em [Adicionar sellers](https://help.vtex.com/pt/tutorial/adding-a-seller--tutorials_392). 
 
 ### Localização
 

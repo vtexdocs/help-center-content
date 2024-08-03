@@ -1,10 +1,10 @@
 ---
 title: 'Configurar gateway Mundipagg'
 id: 6C9412jePCUMGguq0YWU8M
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-04-18T18:01:44.533Z
-updatedAt: 2023-03-29T00:36:17.690Z
-publishedAt: 2023-03-29T00:36:17.690Z
+updatedAt: 2024-03-18T18:39:56.272Z
+publishedAt: 
 firstPublishedAt: 2018-04-18T20:58:03.675Z
 contentType: tutorial
 productTeam: Financial
@@ -15,14 +15,15 @@ legacySlug: configurar-gateway-mundipagg
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
+<div class="alert alert-danger">Esta integración de pago ya no se puede configurar en la plataforma debido al <a href="https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14">proceso de descontinuación de los proveedores legados</a> y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.</div>
+
 Mundipagg es un [gateway](/es/tutorial/que-es-un-gateway-de-pagos) que procesa pagos hechos con boletos, transferencias bancarias y las principales banderas de tarjetas de crédito.
 
 Para configurar Mundipagg, siga estos pasos:
 
-## Configurar la afiliación de gateway Mundipagg
-1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
-2. En la pestaña __Afiliaciones__, haga clic en el botón __+__.
-3. Haga clic en el conector __Mundipagg__.
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __Mundipagg__ en la barra de búsqueda y haga clic en el nombre del proveedor.
 4. Rellene el campo __Merchant Key__ ("Llave de la tienda")con la clave registrada en Mundipagg. Se compone de 36 caracteres, entre letras, números y guiones.
 5. En __País__, elija el país de su tienda.
 6. El campo __Registro Url Post Notification en Mundipagg__ trae una dirección para configurar la recepción de notificaciones sobre el status de pago. En el enlace `https://{sellerhost}.vtexpayments.com.br/mundipagg/payment/statusnotification`, sustituya `{sellerhost}` por el nombre de su tienda. Entonces, envíe la URL final a Mundipagg para completar el registro.

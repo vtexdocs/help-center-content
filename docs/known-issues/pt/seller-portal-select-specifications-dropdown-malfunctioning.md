@@ -3,8 +3,8 @@ title: 'O menu suspenso Selecionar especificações do Portal do Vendedor não e
 id: 7DeU9mKh7gseN7svVPtDzb
 status: PUBLISHED
 createdAt: 2022-12-06T14:27:57.920Z
-updatedAt: 2023-05-09T19:08:09.706Z
-publishedAt: 2023-05-09T19:08:09.706Z
+updatedAt: 2024-02-16T20:24:15.024Z
+publishedAt: 2024-02-16T20:24:15.024Z
 firstPublishedAt: 2022-12-06T14:27:58.644Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: o-menu-suspenso-selecionar-especificacoes-do-portal-do-vendedor-nao-esta-funcionando-corretamente
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 711303
 ---
 

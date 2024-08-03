@@ -3,8 +3,8 @@ title: 'Configurar cadastro do conector Carrefour'
 id: 2AhqcmRN1mseCsGuGIe6GK
 status: PUBLISHED
 createdAt: 2018-10-08T23:26:55.073Z
-updatedAt: 2022-09-06T22:59:04.246Z
-publishedAt: 2022-09-06T22:59:04.246Z
+updatedAt: 2024-07-02T19:27:42.975Z
+publishedAt: 2024-07-02T19:27:42.975Z
 firstPublishedAt: 2018-10-08T23:51:59.055Z
 contentType: trackArticle
 productTeam: Channels
@@ -54,6 +54,31 @@ Caso a categoria de produtos não exija o mapeamento de certificados, o campo de
 - __Mapeamento de SLA de tipo Expressa*:__ preencha com o nome do [Método de Envio](https://help.vtex.com/pt/tutorial/como-funciona-o-tipo-de-entrega--tutorials_126) cadastrado na [Política de Envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_1400). Por exemplo, se você cadastrou como `Expressa`, então, deve preencher esse campo o nome exatamente igual.
 - __Mapeamento de SLA de tipo Econômica*:__ preencha com o nome do [Método de Envio](https://help.vtex.com/pt/tutorial/como-funciona-o-tipo-de-entrega--tutorials_126) cadastrado na [Política de Envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_1400). Por exemplo, se você cadastrou como `Entrega econômica`, então, deve preencher esse campo o nome exatamente igual.
 - __Mapeamento de SLA de tipo Agendada*:__ preencha com o nome do [Método de Envio](https://help.vtex.com/pt/tutorial/como-funciona-o-tipo-de-entrega--tutorials_126) cadastrado na [Política de Envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_1400). Por exemplo, se você cadastrou como `Agendada`, então, deve preencher esse campo o nome exatamente igual.
+- **Mapeamento de Campos Customizados (Nome e descrição):**  Para utilizar esse mapeamento é necessário criar um campo customizado. Para saber como criar campos customizados, acesse a documentação [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/tutorial/criando-um-campo-de-produto--tutorials_106).  
+
+<div class = "alert alert-info">
+  O mapeamento de campos customizáveis está disponível apenas para <b>nome do produto</b> e <b>descrição do produto</b>.
+  <p><b>Exemplo de nome para o novo campo:</b> <code>CRF_ProductName</code> para nome do produto e <code>CRF_ProductDescription</code> para descrição do produto.</p>
+</div>  
+
+Para o mapeamento funcionar, é necessário o seller seguir os seguintes passos:  
+
+1. Criar um campo do tipo `Texto grande`.  
+2. Desativar a opção  `Exibe especificação`.  
+3. Preencher os campos criados em cada produto cadastrado.  
+
+O preenchimento desse campo deve ser realizado da seguinte maneira:
+
+1. Preencha o campo DE com o nome do campo de origem.   
+Obrigatoriamente `ProductName` para título do produto ou Obrigatoriamente `ProductDescription` para descrição do produto.  
+2. Preencha o campo PARA com o nome do novo campo.   
+`CRF_ProductName` para nome do produto e `CRF_ProductDescription` para descrição do produto.    
+3. Clique no botão e uma regra de mapeamento será adicionada a sua integração.  
+
+<div class="alert alert-info">
+Cada regra cadastrada mapeia apenas um campo.
+<p>Caso o campo mapeado não tenha um valor preenchido, será enviado o valor padrão de <code>Título</code> ou <code>Descrição</code> cadastrados no catálogo.
+</div>  
 
 ### Categorias elegíveis
 

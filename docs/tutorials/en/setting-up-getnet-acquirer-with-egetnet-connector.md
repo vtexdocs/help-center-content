@@ -1,10 +1,10 @@
 ---
-title: 'Setting up Getnet acquirer with Egetnet connector '
+title: 'Setting up payments with Egetnet'
 id: 75kwGKPKnK8mwiEmQGYiWq
 status: PUBLISHED
 createdAt: 2018-04-27T13:55:54.133Z
-updatedAt: 2023-03-29T00:59:42.828Z
-publishedAt: 2023-03-29T00:59:42.828Z
+updatedAt: 2024-03-14T18:03:01.948Z
+publishedAt: 2024-03-14T18:03:01.948Z
 firstPublishedAt: 2018-04-27T16:07:30.586Z
 contentType: tutorial
 productTeam: Financial
@@ -15,17 +15,19 @@ legacySlug: setting-up-getnet-acquirer-with-egetnet-connector
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Getnet, one of the largest [acquirers](/en/tutorial/what-is-an-acquirer) in Brazil, can be configured in your store using the Egetnet connector. We recommend that you use this connector to gain access to the latest integration and to the new Getnet features.
+At VTEX, it is possible to integrate with the Egetnet payment provider. With this provider, your store can make sales through credit and debit cards, bank invoice and PIX.
 
-To set up Getnet with the Egetnet connector, follow the steps below:
+To configure Egetnet, follow the steps below:
 
-## Setting up Egetnet gateway affiliation
-1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
-2. On the __Gateway Affiliations__ tab, click the __+__ button.
-3. Click the __Egetnet__ connector.
-4. In the __Application Key__ field, enter the application key provided by Getnet.
-5. In __Application Token__, fill in the field with the token provided by Getnet.
-6. Click __Save__.
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __Egetnet__ in the search bar and click on the name of the provider.
+4. In __Provider Authorization__, fill in the __App Key__ and __App token__ fields with data provided by Egetnet.
+5. If you wish to modify the identification name to be displayed for the Egetnet provider on the VTEX Admin screen, enter the information in the __Name__ field in __Basic Information__.
+6. Click `Save`.
 
-## Setting up the payment condition
-After following the steps indicated above, the Egetnet connector will be configured in your store. Thus, when you are registering a payment condition, it will be available in the __Process with affiliation__ field (provided the payment method is compatible with Egetnet). To learn how to set up payment conditions, visit [this Help article](/en/tutorial/how-to-configure-payment-conditions).
+To configure the payment methods to be processed by Egetnet, access [Configuring Payment Conditions](https://help.vtex.com/en/tutorial/how-to-configure-payment-conditions--tutorials_455#).
+
+To set special conditions on payment methods, go to [Configuring payment special conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456#).
+
+After following the indicated steps, Egetnet may take up to 10 minutes to appear at your store's checkout as a payment option.

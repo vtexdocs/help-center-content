@@ -3,7 +3,7 @@ title: 'Security education and awareness'
 id: 5t6HaGHiHFVrCIvePJKkV6
 status: DRAFT
 createdAt: 2022-05-26T13:50:41.046Z
-updatedAt: 2022-08-18T20:43:54.577Z
+updatedAt: 2023-07-19T23:57:15.726Z
 publishedAt: 
 firstPublishedAt: 
 contentType: tutorial
@@ -15,4 +15,4 @@ legacySlug: security-education-and-awareness
 subcategory: 
 ---
 
-
+test

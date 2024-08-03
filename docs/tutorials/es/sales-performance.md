@@ -3,8 +3,8 @@ title: 'Desempeño de Ventas'
 id: 3DMube0sEsK9vPcRYGas72
 status: PUBLISHED
 createdAt: 2021-10-19T12:49:42.165Z
-updatedAt: 2022-12-20T14:05:11.128Z
-publishedAt: 2022-12-20T14:05:11.128Z
+updatedAt: 2023-11-09T19:56:56.074Z
+publishedAt: 2023-11-09T19:56:56.074Z
 firstPublishedAt: 2021-10-19T12:55:27.227Z
 contentType: tutorial
 productTeam: Others
@@ -35,7 +35,9 @@ Para asegurarte de que tienes acceso tanto a los últimos datos actualizados com
 
 Estos grupos también son procesados por sistemas diferentes, lo que puede provocar una diferencia entre los datos del OMS y los del Desempeño de las Ventas, aunque nuestro objetivo es presentar una divergencia máxima del 3%.
 
+<div class ="alert alert-warning">
 Por ejemplo, puede que haya diferencias entre las métricas de ingresos y ticket promedio registradas en el OMS y Desempeño de Ventas. Esto se debe a que Desempeño de Ventas considera el valor de los ítems, mientras que el OMS también toma en cuenta descuentos, valor de envío, impuestos y promociones en el pedido, lo que puede aumentar o disminuir el valor final.
+</div>
 
 ## Periodo
 

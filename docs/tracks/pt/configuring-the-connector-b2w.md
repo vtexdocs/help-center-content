@@ -3,8 +3,8 @@ title: 'Configurar conector'
 id: 40eYElt1qwIqGeIeum2W4M
 status: PUBLISHED
 createdAt: 2018-09-27T22:25:49.315Z
-updatedAt: 2022-09-06T22:53:13.914Z
-publishedAt: 2022-09-06T22:53:13.914Z
+updatedAt: 2024-07-02T19:23:01.065Z
+publishedAt: 2024-07-02T19:23:01.065Z
 firstPublishedAt: 2018-09-27T22:41:30.135Z
 contentType: trackArticle
 productTeam: Channels
@@ -50,6 +50,31 @@ Com a opção <i>Não</i> ativada, tentativas de envio para a B2W de SKUs cadast
 </div>
 
 - **E-mails Para Notificação de Pedidos Não Integrados*:** digite o endereço eletrônico desejado e, em seguida, clique em `+` sinal de adição. Você pode inserir vários emails para receberem a notificação de [pedidos da B2W que não foram integrados](https://help.vtex.com/pt/tutorial/erros-de-integracao-de-pedidos-da-b2w--2iQqCJIfySN0JsCJkOG2h8).
-- **Etiqueta dos pedidos de B2W Entrega*:** selecione o formato que você deseja para a emissão de etiquetas, se em JSON (JavaScript Object Notation) ou em PDF (Portable Document Format).
+- **Etiqueta dos pedidos de B2W Entrega*:** selecione o formato que você deseja para a emissão de etiquetas, se em JSON (JavaScript Object Notation) ou em PDF (Portable Document Format).  
+- **Mapeamento de Campos Customizados (Nome e descrição):**  Para utilizar esse mapeamento é necessário criar um campo customizado. Para saber como criar campos customizados, acesse a documentação Cadastrar especificações ou campos de produto.  
+
+<div class = "alert alert-info">
+  O mapeamento de campos customizáveis está disponível apenas para <b>nome do produto</b> e <b>descrição do produto</b>.
+  <p><b>Exemplo de nome para o novo campo:</b> <code>B2W_ProductName</code> para nome do produto e <code>B2W_ProductDescription</code> para descrição do produto.</p>
+</div>  
+
+Para o mapeamento funcionar, é necessário o seller seguir os seguintes passos:  
+
+1. Criar um campo do tipo `Texto grande`.  
+2. Desativar a opção  `Exibe especificação`.  
+3. Preencher os campos criados em cada produto cadastrado.  
+
+O preenchimento desse campo deve ser realizado da seguinte maneira:
+
+1. Preencha o campo DE com o nome do campo de origem.   
+Obrigatoriamente `ProductName` para título do produto ou Obrigatoriamente `ProductDescription` para descrição do produto.  
+2. Preencha o campo PARA com o nome do novo campo.   
+`B2W_ProductName` para nome do produto e `B2W_ProductDescription` para descrição do produto.    
+3. Clique no botão e uma regra de mapeamento será adicionada a sua integração.  
+
+<div class="alert alert-info">
+Cada regra cadastrada mapeia apenas um campo.
+<p>Caso o campo mapeado não tenha um valor preenchido, será enviado o valor padrão de <code>Título</code> ou <code>Descrição</code> cadastrados no catálogo.
+</div>
 
 Após salvar a configuração, a integração envia automaticamente todos os produtos associados à política comercial determinada para a SkyHub, a integradora com a B2W.

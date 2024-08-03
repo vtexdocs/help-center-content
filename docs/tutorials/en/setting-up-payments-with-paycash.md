@@ -3,8 +3,8 @@ title: 'Setting up payments with Paycash'
 id: 5gxrb0YlEhq0JnprN2uaOf
 status: PUBLISHED
 createdAt: 2023-04-06T17:19:09.254Z
-updatedAt: 2023-04-06T17:57:16.146Z
-publishedAt: 2023-04-06T17:57:16.146Z
+updatedAt: 2024-01-23T21:05:57.921Z
+publishedAt: 2024-01-23T21:05:57.921Z
 firstPublishedAt: 2023-04-06T17:40:32.746Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: setting-up-payments-with-paycash
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-At VTEX, it is possible to integrate with the Paycash payment provider. With this connector, your store can make sales through Paycash.
+At VTEX, it is possible to integrate with the Paycash payment provider. With this provider, your store can make sales through Paycash.
 
-To configure Paycash affiliation, follow the steps below:
+To configure Paycash, follow the steps below:
 
-1. In the VTEX Admin, go to __Store Settings > Payments > Settings__, or type __Settings__ in the search bar at the top of the page.
-2. In the __Gateway affiliations__ tab, click on the `+` button.
-3. Click on the __Paycash__ connector.
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __Paycash__ in the search bar and click on the name of the provider.
 4. Fill in the __Application Key__, __Application Token__ and __Paycash Production Api Key__ fields with data provided by Paycash.
 5. In the __Payment settlement__ field, select one of the available options:
 

@@ -3,8 +3,8 @@ title: 'What is an affiliate'
 id: 4bN3e1YarSEammk2yOeMc0
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:48.620Z
-updatedAt: 2022-10-05T18:24:46.905Z
-publishedAt: 2022-10-05T18:24:46.905Z
+updatedAt: 2024-05-23T16:09:45.545Z
+publishedAt: 2024-05-23T16:09:45.545Z
 firstPublishedAt: 2019-01-24T22:01:57.938Z
 contentType: tutorial
 productTeam: Channels

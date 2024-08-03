@@ -3,8 +3,8 @@ title: "Products&SKUs Import does not support 'lb'"
 id: 1OjtnFf9MpY1IFzQa8Ua2t
 status: PUBLISHED
 createdAt: 2022-06-17T19:38:17.726Z
-updatedAt: 2023-01-05T20:03:49.367Z
-publishedAt: 2023-01-05T20:03:49.367Z
+updatedAt: 2024-02-16T20:29:45.337Z
+publishedAt: 2024-02-16T20:29:45.337Z
 firstPublishedAt: 2022-06-17T19:38:18.052Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: productsskus-import-does-not-support-lb
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 337860
 ---
 

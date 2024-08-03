@@ -3,8 +3,8 @@ title: 'Shipping rate template'
 id: tutorials_127
 status: PUBLISHED
 createdAt: 2019-02-22T19:36:18.509Z
-updatedAt: 2023-03-29T18:18:59.537Z
-publishedAt: 2023-03-29T18:18:59.537Z
+updatedAt: 2023-10-10T13:26:19.271Z
+publishedAt: 2023-10-10T13:26:19.271Z
 firstPublishedAt: 2019-02-22T19:36:22.375Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -121,7 +121,7 @@ See below the spreadsheet columns content to understand each field in detail.
             <td class="t-body pa5" style="min-width: 15rem;">
                 <span class="t-body c-on-base pa2 mw6 br2 bg-muted-4" style="word-break: break-word; overflow-wrap: break-word;">PricePercent</span>
             </td>
-            <td class="t-body pa5" style="min-width: 15rem;"> <a href="https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV"> Price-based additional shipping charge</a>, calculated based on the total price of the order, in decimal number. You must fill in this field with a percentage value. For example, for an additional charge of 10%, fill in the table with 10.
+            <td class="t-body pa5" style="min-width: 15rem;"> <a href="https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV"> Price-based additional shipping charge</a> calculated in decimal number based on the total price of the products in the shopping cart. You must fill in this field with a percentage value. For example, for an additional charge of 10%, fill in the table with 10.
             </td>
             <td class="t-body pa5" style="min-width: 15rem;"> <a href="https://help.vtex.com/en/tutorial/adicionais-de-frete--2vqGwMn0LabkOHY6zSHYNV">Additional shipping costs</a> will be added to the fixed cost.
             </td>

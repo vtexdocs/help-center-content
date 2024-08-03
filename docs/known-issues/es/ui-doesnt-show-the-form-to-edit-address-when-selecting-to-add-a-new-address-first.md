@@ -3,8 +3,8 @@ title: 'La interfaz de usuario no muestra el formulario para editar la direcció
 id: 4rqphb66vAzsAyx9mUmNLu
 status: PUBLISHED
 createdAt: 2023-02-06T13:15:57.816Z
-updatedAt: 2023-02-06T13:15:58.251Z
-publishedAt: 2023-02-06T13:15:58.251Z
+updatedAt: 2023-06-23T17:47:10.184Z
+publishedAt: 2023-06-23T17:47:10.184Z
 firstPublishedAt: 2023-02-06T13:15:58.251Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: la-interfaz-de-usuario-no-muestra-el-formulario-para-editar-la-direccion-cuando-se-selecciona-anadir-primero-una-nueva-direccion
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 747772
 ---
 
@@ -42,7 +42,7 @@ La interfaz de usuario no muestra el formulario correcto para editar la direcci�
 ## Workaround
 
 
-Vuelva a cargar la página para poder editar de nuevo la dirección seleccionada.
+Recargue la página para poder editar de nuevo la dirección seleccionada.
 
 
 

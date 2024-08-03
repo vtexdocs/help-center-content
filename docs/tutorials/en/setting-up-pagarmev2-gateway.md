@@ -3,8 +3,8 @@ title: 'Setting up PagarMeV2 gateway'
 id: 5TugxXNMOs0Ocyg4uqussM
 status: PUBLISHED
 createdAt: 2018-04-10T18:50:48.932Z
-updatedAt: 2023-03-26T21:04:07.182Z
-publishedAt: 2023-03-26T21:04:07.182Z
+updatedAt: 2024-01-23T19:19:58.174Z
+publishedAt: 2024-01-23T19:19:58.174Z
 firstPublishedAt: 2018-04-11T21:51:25.333Z
 contentType: tutorial
 productTeam: Financial
@@ -15,16 +15,20 @@ legacySlug: setting-up-pagarmev2-gateway
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-PagarMeV2 is the latest version of the [Pagar.me gateway](https://help.vtex.com/pt/tutorial/o-que-e-um-gateway-de-pagamentos) affiliation. Follow the steps below to configure it:
+At VTEX, it is possible to process payments with the PagarMe provider through V2 and V3 integrations.
 
-## Setting up PagarMeV2 gateway affiliation
+<div class="alert alert-warning">
+If you want to configure the V3 version of Pagarme in your store, go to <a href="https://help.vtex.com/en/tutorial/setting-up-payments-with-pagarmev3--5PMavdamrVijwIrHas9ndE">Setting up payments with PagarMeV3</a>.
+</div>
 
-1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
-2. In __Gateway Affiliations__, click on the green “__+__” button.
-3. Search for __PagarMeV2__ and select its card.
+To configure PagarMeV2, follow the steps below:
+
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __PagarMeV2__ in the search bar and click on the name of the provider.
 4. Fill in the fields with the following information:<br>
 <ul>
-<li><b>Application Key</b> e <b>Application Token</b>: enter the information provided by Pagar.me.</li>
+<li><b>App Key</b> e <b>App Token</b>: enter the information provided by Pagar.me.</li>
 <li><b>Payment capture:</b>: select one of the following options:<br><br>
     <ul>
     	<li><b>Use behavior recommended by the payment processor</b>: acapture is not automatic; it is scheduled according to the period specified by the acquirer. The acquirer indicates whether the payment has been authorized and can determine or recommend a number of days for the capture upon payment authorization. (This is the platform's default behavior.).</li>

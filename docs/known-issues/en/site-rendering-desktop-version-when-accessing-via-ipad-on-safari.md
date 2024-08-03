@@ -3,8 +3,8 @@ title: 'Site rendering Desktop Version when accessing via IPad on Safari'
 id: 17jzhKnc8X1bKo5ExwEY5L
 status: PUBLISHED
 createdAt: 2023-01-17T18:24:02.908Z
-updatedAt: 2023-01-17T18:27:50.296Z
-publishedAt: 2023-01-17T18:27:50.296Z
+updatedAt: 2024-02-16T20:26:44.446Z
+publishedAt: 2024-02-16T20:26:44.446Z
 firstPublishedAt: 2023-01-17T18:24:03.621Z
 contentType: knownIssue
 productTeam: Store Framework
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Store Framework
 slug: site-rendering-desktop-version-when-accessing-via-ipad-on-safari
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 735208
 ---
 

@@ -3,8 +3,8 @@ title: 'Cadastro da integração da Netshoes'
 id: 7o8Vt25LJmAUuMmSWSmWes
 status: PUBLISHED
 createdAt: 2018-09-24T20:27:48.984Z
-updatedAt: 2023-01-05T20:12:16.965Z
-publishedAt: 2023-01-05T20:12:16.965Z
+updatedAt: 2024-07-02T19:19:00.338Z
+publishedAt: 2024-07-02T19:19:00.338Z
 firstPublishedAt: 2018-09-27T15:02:23.717Z
 contentType: trackArticle
 productTeam: Channels
@@ -54,3 +54,29 @@ Com a opção <i>Não</i> ativada, tentativas de envio para a Netshoes de SKUs c
 </div> 
 
    * **Emails de notificação de erro de pedido:** adicione os endereços eletrônicos por meio dos quais você gostaria de ser notificado em caso de erro de integração de um pedido. Não há um número limite para esses emails.
+   * **Mapeamento de Campos Customizados (Nome e descrição):**  Para utilizar esse mapeamento é necessário criar um campo customizado. Para saber como criar campos customizados, acesse a documentação [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/tutorial/criando-um-campo-de-produto--tutorials_106).  
+
+Para o mapeamento funcionar, é necessário o seller seguir os seguintes passos:  
+
+<div class = "alert alert-info">
+  O mapeamento de campos customizáveis está disponível apenas para <b>nome do produto</b> e <b>descrição do produto</b>.
+  <p><b>Exemplo de nome para o novo campo:</b> <code>NTS_ProductName</code> para nome do produto e <code>NTS_ProductDescription</code> para descrição do produto.</p>
+</div>  
+
+Para o mapeamento funcionar, é necessário o seller seguir os seguintes passos:  
+
+1. Criar um campo do tipo `Texto grande`.  
+2. Desativar a opção  `Exibe especificação`.  
+3. Preencher os campos criados em cada produto cadastrado.  
+
+O preenchimento desse campo deve ser realizado da seguinte maneira:
+
+1. Preencha o campo DE com o nome do campo de origem.   Obrigatoriamente `ProductName` para título do produto ou Obrigatoriamente `ProductDescription` para descrição do produto.  
+2. Preencha o campo PARA com o nome do novo campo.   `NTS_ProductName` para nome do produto e `NTS_ProductDescription` para descrição do produto.  
+3. Clique no botão e uma regra de mapeamento será adicionada a sua integração.  
+
+<div class="alert alert-info">
+Cada regra cadastrada mapeia apenas um campo.
+<p>Caso o campo mapeado não tenha um valor preenchido, será enviado o valor padrão de `Título` ou `Descrição` cadastrados no catálogo.<p>
+</div>
+

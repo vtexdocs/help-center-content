@@ -3,8 +3,8 @@ title: 'Solicitud incorrecta al buscar términos con "%" directamente a través 
 id: 3gdZ8egQRa4zcNRe2f5CbT
 status: PUBLISHED
 createdAt: 2023-03-21T22:51:46.273Z
-updatedAt: 2023-03-21T22:51:46.888Z
-publishedAt: 2023-03-21T22:51:46.888Z
+updatedAt: 2024-02-16T17:45:27.298Z
+publishedAt: 2024-02-16T17:45:27.298Z
 firstPublishedAt: 2023-03-21T22:51:46.888Z
 contentType: knownIssue
 productTeam: Store Framework
@@ -39,8 +39,8 @@ Al buscar un término con "%" directamente vía URL, la página devuelve un 400 
 
 ## Workaround
 
-**
-Buscar sin el "%"
+
+N/A
 
 
 

@@ -41,7 +41,7 @@ Once the app is activated, it is not necessary to log in to start browsing and t
 
 ## Adding a sales assistant code
 
-After selecting the products, click on the <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/3N22EOkpKDTgr32mkN9ei5/6cb4627d028e3ffe0aa29c607ce6c90b/image10.png" /> button to add your sales assistant code. Follow the store's instructions for filling out, as each store can choose different ways to identify sales assistants and add discounts to their carts.
+After selecting the products, click on the <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/3N22EOkpKDTgr32mkN9ei5/6cb4627d028e3ffe0aa29c607ce6c90b/image10.png" /> button to add your sales assistant code. Follow the store's instructions for filling out, as each store can choose different ways to identify sales assistants and add discounts to their carts.
 
 ![shareable-cart-addcode](https://images.ctfassets.net/alneenqid6w5/1ORhQKfIfTsXZhPR40d3FQ/f751f96f3800e2c7f7ec91bae80257b0/shareable-cart-addcode.gif)
 
@@ -63,7 +63,7 @@ After adding your sales assistant code, click on the button corresponding to the
 
 To share the cart via WhatsApp:
 
-1. Click on the <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/34fTsrnmu0yZKKAU2Kq9iR/a9e805534e6bc81434026357529be8a3/image11.png" /> button
+1. Click on the <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/34fTsrnmu0yZKKAU2Kq9iR/a9e805534e6bc81434026357529be8a3/image11.png" /> button
 2. Enter the **customer’s phone number** and click on OK
 3. (Optional) Customize the message on WhatsApp
 4. Send the message via WhatsApp
@@ -74,7 +74,7 @@ To share the cart via WhatsApp:
 
 To share the cart via Facebook Messenger:
 
-1. Click on the <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/513wjcWdQzEydkFpsdm2Kb/e6ffef11d724e6fc1b66bf00504c81bb/image1.png" /> button
+1. Click on the <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/513wjcWdQzEydkFpsdm2Kb/e6ffef11d724e6fc1b66bf00504c81bb/image1.png" /> button
 2. Enter the **client’s name** on Facebook Messenger
 3. Customize the message on Facebook Messenger
 4. Send the message via Facebook Messenger
@@ -88,7 +88,7 @@ You cannot share carts in Messenger with people you’re not friends with on Fac
 
 To share the cart via SMS: 
 
-1. Click on the <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/aYyWKNKx0Fb4sSNT5yNJQ/34f7516d18c2f6efcb6c62c70ba8c04b/image7.png" /> button
+1. Click on the <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/aYyWKNKx0Fb4sSNT5yNJQ/34f7516d18c2f6efcb6c62c70ba8c04b/image7.png" /> button
 2. Enter the **customer’s phone number** and click on OK
 3. (Optional) Customize the message on your SMS app
 4. Send the message via SMS
@@ -97,7 +97,7 @@ To share the cart via SMS:
 
 To share the cart via Link:
 
-1. Click on the <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/2GZp3YTXtUkh5KvG9BTFx6/0921f73c5c553a90ddd39056ab918202/image15.png" /> button
+1. Click on the <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/2GZp3YTXtUkh5KvG9BTFx6/0921f73c5c553a90ddd39056ab918202/image15.png" /> button
 2. Copy the link highlighted in **Link to share**
 3. (Optional) Write a custom message with the link
 4. Send the link to the customer on your contact channel
@@ -106,7 +106,7 @@ To share the cart via Link:
 
 To share the cart via Gmail:
 
-1. Click on the <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/1rQ6MAeLHDZZ4vnX2p3Gyq/17bcbb4ebb94ac94a34dffb6c3515663/image14.png" /> button
+1. Click on the <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/1rQ6MAeLHDZZ4vnX2p3Gyq/17bcbb4ebb94ac94a34dffb6c3515663/image14.png" /> button
 2. Enter the **customer's email address** and click on OK
 3. (Optional) Customize the message in Gmail
 4. Send the message via Gmail
@@ -115,7 +115,7 @@ To share the cart via Gmail:
 
 ### Email
 
-1. Click on the <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/1B5ehv90NAceay9z6PPr7R/70fd43fed7c4aaec4e5a902c01255072/image8.png" /> button
+1. Click on the <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/1B5ehv90NAceay9z6PPr7R/70fd43fed7c4aaec4e5a902c01255072/image8.png" /> button
 2. Enter the **customer's email address** and click on OK
 3. (Optional) Customize the message in your email app 
 4. Send the message via email
@@ -124,7 +124,7 @@ To share the cart via Gmail:
 
 ## Clearing the cart
 
-After finishing assisting a customer, click on the <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/2fM6iuMfYNkTWlPA1vaSFM/c5c7c03611d846d609907d272b66684b/image5.png"/> button to empty your cart and choose new products for another customer.
+After finishing assisting a customer, click on the <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/2fM6iuMfYNkTWlPA1vaSFM/c5c7c03611d846d609907d272b66684b/image5.png"/> button to empty your cart and choose new products for another customer.
 
 <div class="alert alert-info" role="alert"><strong>Each salesperson can serve multiple customers!</strong> We recommend keeping the links you’ve shared in a spreadsheet or notepad. This way you keep your carts organized and can make changes whenever a customer requests.</div>
 

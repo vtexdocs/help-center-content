@@ -3,8 +3,8 @@ title: 'Order replacement'
 id: 2IK9mwQjBKseQmE8K8saO8
 status: PUBLISHED
 createdAt: 2018-02-20T19:29:21.502Z
-updatedAt: 2023-03-29T15:54:02.723Z
-publishedAt: 2023-03-29T15:54:02.723Z
+updatedAt: 2024-07-08T14:22:27.104Z
+publishedAt: 2024-07-08T14:22:27.104Z
 firstPublishedAt: 2018-02-20T20:24:08.083Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -61,7 +61,7 @@ The information that can be modified using the Order replacement feature are:
 Orders cannot be modified in the cases of:
 
 * [Incomplete orders](https://help.vtex.com/en/tutorial/understanding-incomplete-orders--tutorials_294): when the order does not contain all the information necessary to be completed on the platform.
-* Shared transaction: orders with more than one seller and payment made to the marketplace.
+* Shared transaction: orders with one or more sellers and payment made to the marketplace.
 * Orders already modified by the store.
 * Orders with status:
     * Verifying invoice

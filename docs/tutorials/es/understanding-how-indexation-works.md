@@ -3,8 +3,8 @@ title: 'Cómo funciona la indexación'
 id: tutorials_256
 status: PUBLISHED
 createdAt: 2017-04-27T22:11:43.688Z
-updatedAt: 2023-03-29T19:50:49.722Z
-publishedAt: 2023-03-29T19:50:49.722Z
+updatedAt: 2024-03-04T16:39:16.578Z
+publishedAt: 2024-03-04T16:39:16.578Z
 firstPublishedAt: 2017-04-27T23:03:11.322Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -14,6 +14,11 @@ locale: es
 legacySlug: entendiendo-el-funcionamento-de-la-indexacion
 subcategory: pwxWmUu7T222QyuGogs68
 ---
+
+<div class="alert alert-warning">
+<p>Este tutorial sólo es válido para las tiendas que utilizan la búsqueda del <a href="https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">CMS Portal Legado</a>.</p>
+<p>Si su tienda utiliza el <a href="https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG">Intelligent Search</a>, consulte la página <a href="https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH">Historial de indexación</a> para seguir el proceso de indexación.</p>
+</div>
 
 La indexación es un proceso que prepara los datos generales del SKU, tales como datos de catálogo, de precio y de stock y actualiza la información para servir de base para búsquedas y montajes de las estantes del sitio.
 

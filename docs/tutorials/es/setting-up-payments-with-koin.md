@@ -1,10 +1,10 @@
 ---
 title: 'Configurar pagos con Koin'
 id: 415vLlrVSUgeYYwycCaGiQ
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-04-24T19:48:39.401Z
-updatedAt: 2023-03-29T00:51:56.272Z
-publishedAt: 2023-03-29T00:51:56.272Z
+updatedAt: 2024-03-18T18:30:25.798Z
+publishedAt: 
 firstPublishedAt: 2018-04-24T21:17:23.835Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -14,6 +14,8 @@ locale: es
 legacySlug: configurar-pagos-con-koin
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+<div class="alert alert-danger">Esta integración de pago ya no se puede configurar en la plataforma debido al <a href="https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14">proceso de descontinuación de los proveedores legados</a> y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.</div>
 
 Usted puede configurar Koin para recibir pagos en su tienda. En esta modalidad, su cliente escoge el __medio de pago__ Koin Pospago para efectuar la compra.
 

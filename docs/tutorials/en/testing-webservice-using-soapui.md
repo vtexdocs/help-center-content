@@ -33,11 +33,11 @@ The step-by-step utilization is as follows:
  
 Substitute the value {STORENAME} with the name of your store.
 
-![](//images.contentful.com/alneenqid6w5/WMZnCJCLg2WGSIesMOMKu/efed51a5c0e151d1ac1f7902600e522a/1.png)
+![](https://images.contentful.com/alneenqid6w5/WMZnCJCLg2WGSIesMOMKu/efed51a5c0e151d1ac1f7902600e522a/1.png)
 
 Log in using the data of the webservice desired. After logging in, you will view all the methods to be found in the [Web Service manual](/en/tutorial/manual-of-classes-and-methods-used-on-webservice/)
 
-![](//images.contentful.com/alneenqid6w5/3TBC8YgtvyQ6sMQAyQACOg/5e14a72feaa3bf0d00a8b245d56788d1/2.png)
+![](https://images.contentful.com/alneenqid6w5/3TBC8YgtvyQ6sMQAyQACOg/5e14a72feaa3bf0d00a8b245d56788d1/2.png)
 
 1. Locate the desired method. e.g.: the ImageInsertUpdate method, which is the method used for adding images;
 2. Fill out the fields referring to the method (these fields are the ImageDTO type, references are in the manual);

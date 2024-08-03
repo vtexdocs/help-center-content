@@ -1,10 +1,10 @@
 ---
 title: 'Creating Collections (Beta)'
 id: yJBHqNMViOAnnnq4fyOye
-status: PUBLISHED
+status: CHANGED
 createdAt: 2020-08-17T20:29:25.500Z
-updatedAt: 2023-03-29T14:50:46.438Z
-publishedAt: 2023-03-29T14:50:46.438Z
+updatedAt: 2024-03-04T20:48:30.215Z
+publishedAt: 2024-02-22T12:15:26.041Z
 firstPublishedAt: 2020-08-27T15:16:59.673Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -111,6 +111,8 @@ If you want to add in bulk, apply one of the filters and click on the `Add All` 
 </div>
 
 #### By spreadsheet
+
+<div class = "alert alert-info">The maximum limit for import and export is 10,000 SKUs per operation.</div>
 
 You can also add items to a collection using a spreadsheet by following the steps below:
 

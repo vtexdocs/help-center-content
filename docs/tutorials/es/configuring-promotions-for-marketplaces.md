@@ -3,8 +3,8 @@ title: 'Configurar promoción para marketplace'
 id: tutorials_406
 status: PUBLISHED
 createdAt: 2017-04-27T22:06:28.854Z
-updatedAt: 2023-01-26T18:41:34.664Z
-publishedAt: 2023-01-26T18:41:34.664Z
+updatedAt: 2024-01-18T17:21:44.418Z
+publishedAt: 2024-01-18T17:21:44.418Z
 firstPublishedAt: 2017-04-27T23:03:23.902Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,42 +15,43 @@ legacySlug: promocion-para-marketplace
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-El módulo de promociones de VTEX permite la creación de diferentes tipos de promoción, desde las más clásicas hasta las más innovadoras. Sin embargo, su utilización en marketplaces está restringido a algunos tipos específicos. Este tutorial explica cómo definir los marketplaces en los que se aplicará una promoción y cuáles son las condiciones que son aplicables en ese escenario. 
+VTEX permite la creación de diferentes tipos de [promociones](https://help.vtex.com/es/tutorial/visao-geral-promocoes--3PeHVYcooLIDmA33IAnjhm?&utm_source=autocomplete#). Sin embargo, las promociones que se configuran en la cuenta de un seller y se utilizan en marketplaces (VTEX o externos) se limitan a algunos tipos específicos. Este tutorial explica cómo definir las promociones y condiciones que son aplicables en estos escenarios.
 
-## Promociones disponibles para marketplaces
+## Promociones disponibles de sellers para marketplaces
 
-Solo los siguientes tipos de [promociones regulares](https://help.vtex.com/es/tracks/promotions--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI) funcionan en los marketplaces:
+En marketplaces, solamente pueden aplicarse los siguientes tipos de [promociones regulares](https://help.vtex.com/es/tracks/promocoes--6asfF1vFYiZgTQtOzwJchR/7FjbeZdE2KMwk5L1t98pZI):
 
-- Promoción de flete gratis.
-- Promoción de flete porcentual.
-- Promoción de precio porcentual.
+* Envío gratis
+* Envío porcentual
+* Porcentaje de precio
+* Tabla de precios
 
-La configuración disponible para marketplaces VTEX es diferente a la ofrecida para marketplaces externos, y el comportamiento de esas promociones es ligeramente diferente a lo habitual. 
+La [configuración disponible](#heading=h.2et92p0) para marketplaces VTEX es diferente de la que se ofrece a los marketplaces externos. Por esta razón, el comportamiento de las promociones en otros marketplaces es ligeramente distinto del habitual.
 
-### Promociones de flete gratis y porcentual
+### Promociones de envío gratis y envío porcentual
 
-Para este tipo de promoción se debe considerar la siguiente información: 
+Para este tipo de promociones es importante tener en cuenta la siguiente información:
 
-- Algunos marketplaces utilizan su propia tabla de fletes. Esto impide que una promoción de flete gratis sea aplicada en un pedido, ya que el marketplace no consulta el valor del flete registrado en VTEX.  
-- Para que la promoción afecte al valor del flete, el marketplace debe simular el flete utilizando el endpoint `POST` `https://{accountName}.vtexcommercestable.com.br/api/fulfillment/pvt/orderForms/simulation?sc={salesChannel}&affiliateId={affiliateId}`.
-- La promoción no afectará al valor del producto si el marketplace utiliza el endpoint [List Freight Values](https://developers.vtex.com/docs/api-reference/logistics-api#get-/logistics/pvt/configuration/freights/-carrierId-/-cep-/values) de Logistics API para la consulta de fletes. Este endpoint solo devuelve los fletes registrados en VTEX, sin considerar los efectos de las promociones.
-- Los sellers determinan los límites de reducción de precio que el marketplace puede aplicar sobre el flete cobrado. En caso de que sobrepase el límite establecido, el pedido no es rechazado.
+* Algunos marketplaces utilizan sus propias tablas de envío. Esto impide que se aplique una promoción de envío a un pedido, ya que el marketplace no consulta el precio del envío registrado en VTEX.
+* Para que la promoción se aplique al valor del envío, el marketplace debe simular el envío utilizando el endpoint [Fulfillment simulation - External Marketplace](https://developers.vtex.com/docs/api-reference/marketplace-protocol-external-marketplace-orders#post-/api/checkout/pub/orderForms/simulation).
+* La promoción no se aplicará al valor del producto si el marketplace utiliza el endpoint [List Freight Values](https://developers.vtex.com/vtex-developer-docs/reference/carriers#freightvalues) de la API de Logistics para la consulta de tarifas de envío. Este endpoint devuelve únicamente las tarifas de envío registradas en VTEX, sin considerar los efectos de la aplicación de la promoción.
+* Los sellers determinan los límites de reducción de precio que el marketplace puede aplicar al valor del envío. Si el valor de la reducción supera el límite establecido, no se realizará el pedido.
 
-### Promoción de precio porcentual
+### Promociones de porcentaje de precio
 
-Para este tipo de promoción se debe considerar lo siguiente: 
+Para este tipo de promociones es importante tener en cuenta la siguiente información:
 
-- El marketplace no recibe la promoción en sí, solamente una notificación por API que indica que el precio sufrió alteraciones. Por ello, al marketplace le corresponde consultar el precio promocional. 
-- Para que la promoción afecte al valor del producto, el marketplace debe simular el precio del SKU utilizando el endpoint [Do OrderForm Simulation](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pub/orderForms/simulation) de Checkout API.
-- La promoción no afectará al valor del producto si el marketplace utiliza el endpoint [Get Price](https://developers.vtex.com/docs/api-reference/pricing-api#get-/prices/-itemId-) de Pricing API para consultas de precios. Este endpoint solo devuelve los precios registrados en VTEX, sin considerar los efectos de las promociones. 
-- Los sellers determinan los límites de reducción de precio que el marketplace puede aplicar sobre el valor total del pedido. En caso de que sobrepase el límite establecido, el pedido es rechazado. Usted puede modificar la configuración de su tienda en la sección [Autorización de Pedidos](https://help.vtex.com/es/tutorial/como-funciona-la-autorizacion-de-pedidos--3MBK6CmKHAuUjMBieDU0pn#divergencia-de-valores).
+* Una vez que el seller crea y activa la promoción, esta no genera ningún tipo de notificación para el marketplace. Corresponde al marketplace consultar el precio promocional.
+* Para que la promoción se aplique al valor del producto, el marketplace debe simular el precio del SKU utilizando el endpoint [Do OrderForm Simulation](https://developers.vtex.com/vtex-developer-docs/reference/orderform#orderformsimulation) de la API de Checkout.
+* La promoción no se aplicará al valor del producto si el marketplace utiliza el endpoint [Get Price](https://developers.vtex.com/vtex-developer-docs/reference/prices-and-fixed-prices#getprice) de la API de Pricing para consulta de envíos. Este endpoint devuelve únicamente los precios registrados en VTEX, sin considerar los efectos de la aplicación de la promoción.
+* Los sellers determinan los límites de reducción de precio que el marketplace puede aplicar sobre el valor total del envío. Si el valor de la reducción supera el límite establecido, no se realizará el pedido. Puedes modificar la configuración de tu tienda en la sección [Autorización de pedidos](https://help.vtex.com/es/tutorial/como-funciona-a-autorizacao-de-pedidos--3MBK6CmKHAuUjMBieDU0pn?&utm_source=autocomplete#divergencia-de-valores).
 
-### Configuraciones disponibles
+### Configuración disponible
 
-Existen diferencias entre la configuración que está disponible para marketplaces VTEX y para marketplaces externos. Vea las funcionalidades que aplican a cada caso en la siguiente tabla.  
+Existen diferencias entre la configuración disponible para marketplaces VTEX y para marketplaces externos. Consulta en la tabla siguiente las funcionalidades que se aplican en cada caso.
 
 <div class = "alert alert-warning">
-  <p><b>Importante:</b>en el caso de las integraciones externas, las configuraciones son únicas para cada marketplace, y estos deciden qué funcionalidades utilizarán.</p>
+  <p>En el caso de las integraciones externas, las configuraciones son únicas para cada marketplace, y estos deciden qué funcionalidades utilizarán.</p>
 </div>
 
 | Nombre  | Descripción      | ¿Disponible para marketplaces VTEX? | ¿Disponible para marketplaces externos? |
@@ -73,9 +74,49 @@ Existen diferencias entre la configuración que está disponible para marketplac
 | Canales de venta| La promoción se aplicará a una lista de canales de venta| Sí| Sí|
 | Valor del ítem entre| Establece las políticas comerciales válidas para la promoción| Sí| Sí|
 
-## Definiendo dónde se aplicará la promoción
+## Promociones no disponibles para marketplaces**
 
-Si es necesario, se puede segmentar promociones para marketplaces específicos. Existen dos opciones que se pueden utilizar para obtener ese resultado:
+Consulta a continuación las promociones que no están disponibles para marketplaces:
+
+* Descuento nominal
+* Precio máximo por ítem
+* Envío nominal
+* Envío máximo
+* Regalo
+* Valor de fidelidad
+* Comprar juntos
+* Más por menos
+* Descuento progresivo
+* Compra uno y lleva uno gratis
+* Promoción de campaña
+
+### Configuración no disponible
+
+A continuación se muestran las opciones de configuración** **no disponibles para marketplaces:
+
+| Nombre | Descripción |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Clúster de clientes                                                  | Descuento concedido si el cliente está registrado en el [clúster](https://help.vtex.com/es/tutorial/como-criar-um-cluster-de-clientes--frequentlyAskedQuestions_1724) seleccionado.                                           |
+| Tag de marketing                                                     | Utilizado para restringir la activación de la promoción si la compra se realiza a través del [módulo de Suscripciones de VTEX](https://help.vtex.com/es/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453#). |
+| UTM                                                                  | Descuento concedido en función del valor de un determinado [parámetro UTM](https://help.vtex.com/es/tutorial/o-que-sao-utm-source-utm-campaign-e-utm-medium--2wTz7QJ8KUG6skGAoAQuii).                                         |
+| Audiencia de campaña                                                 | Permite segmentar las promociones de tu tienda definiendo [públicos objetivos](https://help.vtex.com/es/tutorial/audiencias-de-campanhas--3o7lhpNseXY2WmjZO0gQ6m#publico-alvo) que cumplan criterios específicos.             |
+| Cupones                                                              | Código que permite aplicar promociones sobre el valor del carrito.                                                                                                                                                            |
+| Valor mínimo o máximo del carrito                                    | Se aplica teniendo en cuenta el valor del carrito sin considerar ni otras promociones ni el envío.                                                                                                                            |
+| Número de cuotas                                                     | Descuento concedido si el número de cuotas seleccionado por el cliente se encuentra dentro del intervalo registrado.                                                                                                          |
+| Restricción por BIN                                                  | Descuento concedido si el BIN de la tarjeta figura entre los números ingresados.                                                                                                                                              |
+| Medio de pago                                                        | Descuento concedido si el medio de pago seleccionado por el cliente es el mismo que el registrado en la promoción.                                                                                                            |
+| Primera compra                                                       | Descuento concedido en la primera compra del cliente.                                                                                                                                                                         |
+| Valor acumulado de las compras                                       | Descuento concedido si el valor total de todas las compras ya realizadas por el cliente coincide con el valor ingresado.                                                                                                      |
+| Permitir acumular con precios manuales                               | Permite aplicar la promoción a productos cuyos precios han sido ingresados manualmente por el teleoperador de ventas.                                                                                                         |
+| Precio "de" y "por" son iguales o Precio "de" y "por" son diferentes | Hace referencia a los valores del registro del producto.                                                                                                                                                                      |
+| Filtro de sellers                                                    | Define a qué sellers se aplicará la promoción.                                                                                                                                                                                |
+| Uso máximo de la promoción por cliente                               | Limita la cantidad de veces que cada cliente puede recibir la promoción.                                                                                                                                                      |
+| Uso máximo de la promoción por tienda                                | Limita el número de veces que se aplicará la promoción.                                                                                                                                                                       |
+| Uso máximo del cupón por producto                                    | Limita el número de veces que el cupón será válido por producto.                                                                                                                                                              |
+
+## Definir el contexto en el que se aplicará la promoción
+
+Los sellers pueden segmentar las promociones para mercados específicos. Hay dos modos de realizarlo:
 
 - [Política comercial](https://help.vtex.com/es/tutorial/que-es-una-politica-comercial--563tbcL0TYKEKeOY4IAgAE): se utiliza cuando todos los marketplaces objetivos comparten la misma configuración de canal de ventas (catálogo, precio y logística).
 - [Afiliado](https://help.vtex.com/es/tutorial/que-es-afiliado--4bN3e1YarSEammk2yOeMc0): se utiliza para seleccionar uno o más marketplaces específicos, aunque no compartan la misma configuración de canal de ventas.
@@ -95,5 +136,5 @@ Si es necesario, se puede segmentar promociones para marketplaces específicos. 
 4. Haga clic en `Guardar`.
 
 <div class = "alert alert-warning">
-  <p>Una vez creada la promoción, recuerde <a href = "https://help.vtex.com/es/tutorial/entendendo-a-manutencao-da-base-de-dados--34P9LGs7BCIQK6acQom802">reindexar los productos afectados</a>. De esta manera, sus productos tendrán los precios actualizados.</p>
+  <p>Una vez creada la promoción, recuerde <a href = "https://help.vtex.com/es/tutorial/entendendo-a-manutencao-da-base-de-dados--34P9LGs7BCIQK6acQom802">reindexar los productos afectados</a> al inicio y al final de las promociones. De esta manera, sus productos tendrán los precios actualizados.</p>
 </div>

@@ -3,8 +3,8 @@ title: 'Hub de extensiones: amplía tu operación a través del Admin VTEX'
 id: 4FYJCHTttMa0znV1mdHW9w
 status: PUBLISHED
 createdAt: 2023-05-31T22:15:06.695Z
-updatedAt: 2023-06-04T22:02:53.542Z
-publishedAt: 2023-06-04T22:02:53.542Z
+updatedAt: 2023-08-02T14:37:08.083Z
+publishedAt: 2023-08-02T14:37:08.083Z
 contentType: updates
 productTeam: Apps
 author: 4ubliktPJIsvyl1hq91RdK
@@ -60,3 +60,5 @@ Además, renovamos la experiencia de compra de aplicaciones en la **App Store**.
 Por último, nuestro objetivo es reforzar la relación entre los administradores de las tiendas y los partners de VTEX. Así, los administradores de las tiendas que deseen implementar soluciones únicas en sus negocios, pueden ahora encontrar y contactar directamente con partners y desarrolladores a través de la nueva sección, **Partners**, en el Admin VTEX.
 
 Para obtener más información, consulta nuestra [documentación sobre el Hub de extensiones](https://help.vtex.com/es/tracks/hub-de-extensiones--AW7klkYMh557y5IUOgzco).
+
+_\*Información actualizada el 2 de agosto de 2023: la página **Partners** estará disponible en el futuro. Sin embargo, todavía no hay una fecha prevista para su lanzamiento._

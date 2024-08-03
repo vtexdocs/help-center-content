@@ -1,10 +1,10 @@
 ---
 title: '¿Por qué un cliente logró registrar un CPF en un campo de CNPJ?'
 id: K6zJn8JFOKk5ON1XFB6ZJ
-status: PUBLISHED
+status: DRAFT
 createdAt: 2022-10-17T19:22:31.749Z
-updatedAt: 2023-03-28T22:55:52.032Z
-publishedAt: 2023-03-28T22:55:52.032Z
+updatedAt: 2024-07-11T19:21:58.380Z
+publishedAt: 
 firstPublishedAt: 2022-10-17T19:43:17.176Z
 contentType: tutorial
 productTeam: Master Data

@@ -3,8 +3,8 @@ title: 'Cuando shippingEstimate es = 0, el cálculo de deliverySlaInMinutes devu
 id: UGk2WYb3w3ZWH4pL07TNg
 status: PUBLISHED
 createdAt: 2022-02-01T13:04:45.737Z
-updatedAt: 2022-11-25T21:51:01.802Z
-publishedAt: 2022-11-25T21:51:01.802Z
+updatedAt: 2024-02-16T20:24:38.902Z
+publishedAt: 2024-02-16T20:24:38.902Z
 firstPublishedAt: 2022-02-01T13:04:46.164Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: cuando-shippingestimate-es-0-el-calculo-de-deliveryslainminutes-devuelve-null
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 514835
 ---
 

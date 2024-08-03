@@ -1,36 +1,35 @@
 ---
-title: 'Price range disregards sales policy'
-id: 4isnfk4T2UB3CId8bXcvFT
-status: DRAFT
-createdAt: 2022-03-16T16:35:57.963Z
-updatedAt: 2022-06-08T14:01:22.874Z
-publishedAt: 
-firstPublishedAt: 
+title: 'Faixa de preço não respeita política comercial'
+id: 3OsmwHOZyM0AQWA8CuK0aC
+status: PUBLISHED
+createdAt: 2017-10-17T17:50:40.970Z
+updatedAt: 2022-12-22T20:46:23.778Z
+publishedAt: 2022-12-22T20:46:23.778Z
+firstPublishedAt: 2017-10-17T18:03:23.731Z
 contentType: knownIssue
-productTeam: Portal
+productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
-tag: Portal
-slug: price-range-disregards-sales-policy
+tag: Portal (CMS)
+slug: faixa-de-preco-nao-respeita-politica-comercial
 locale: pt
 kiStatus: Backlog
-internalReference: 322764
+internalReference: 
 ---
 
 ## Sumário
 
-<div class="alert alert-warning">
-  <p>Este conteúdo só está disponível em Inglês.</p>
-</div>
+O filtro por faixa de preço, que é configurado nas opções de categoria, considera o preço cadastrado em todas as políticas comerciais da loja, ou seja, sempre vai imprimir o considerando o valor mais baixo cadastrado entre todas as políticas comerciais, possibilitando a exibição de um produto que não está na faixa de preço da política comercial específica.
 
 ## Simulação
 
-<div class="alert alert-warning">
-  <p>Este conteúdo só está disponível em Inglês.</p>
-</div>
+
+1. Cadastre preços diferentes em políticas comerciais diferentes para o mesmo SKU;
+2. Cadastre faixas de preço na categoria onde os preços cadastrados fiquem em faixas diferentes;
+3. Na política comercial com o preço do SKU mais caro, faça o filtro por faixa de preço;
+4. Veja que o valor do SKU considerado é o da outra política comercial, pois ele considera o valor mais barato entre todas as políticas.
+
 
 ## Workaround
 
-<div class="alert alert-warning">
-  <p>Este conteúdo só está disponível em Inglês.</p>
-</div>
+Não existe solução de contorno para o cenário.
 

@@ -1,10 +1,10 @@
 ---
 title: 'What is VTEX Payment?'
 id: 1lZWKCGdy7xpYjukTLfFJL
-status: PUBLISHED
+status: DRAFT
 createdAt: 2020-05-28T17:29:51.035Z
-updatedAt: 2023-03-14T22:08:12.345Z
-publishedAt: 2023-03-14T22:08:12.345Z
+updatedAt: 2023-10-05T14:12:50.764Z
+publishedAt: 
 firstPublishedAt: 2020-05-29T17:47:57.806Z
 contentType: trackArticle
 productTeam: Financial

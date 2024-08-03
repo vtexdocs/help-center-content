@@ -3,8 +3,8 @@ title: 'Filtering orders on All Orders'
 id: tutorials_192
 status: PUBLISHED
 createdAt: 2017-04-27T22:15:05.494Z
-updatedAt: 2023-05-31T14:45:05.491Z
-publishedAt: 2023-05-31T14:45:05.491Z
+updatedAt: 2023-12-21T14:06:54.896Z
+publishedAt: 2023-12-21T14:06:54.896Z
 firstPublishedAt: 2017-04-27T23:00:47.449Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -14,6 +14,10 @@ locale: en
 legacySlug: filtering-orders-in-oms, filtering-orders-on-the-oms
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---
+
+<div class = "alert alert-info">
+You can only access information from orders created in the last two years, and that same period is valid for customers through <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>.
+</div>
 
 In the **Orders** module, the **All Orders** page allows you to access your store's orders, search and filter them, as shown in the image below:
 
@@ -25,6 +29,13 @@ This article explains how to use these resources, and it is divided into:
 - [Filters](#filters)
 - [Filter by Status](#filter-by-status)
 - [Created](#created)
+
+Besides searching for orders in **Orders > All Orders**, you can search for orders from any page in the VTEX Admin using the global search bar at the top bar. By default, the search is configured as `Pages`. To search for an order, click on the bar, select `Orders`, and use one of the following criteria:
+
+- Order ID
+- Customer name
+- Customer email
+- Customer document
 
 ## Search bar
 

@@ -3,8 +3,8 @@ title: 'Informações do cartão de pedido causando confusão no Status'
 id: 2f0nEqccswuyWEcwdqiRZS
 status: PUBLISHED
 createdAt: 2022-08-18T19:04:12.824Z
-updatedAt: 2022-11-25T22:01:43.687Z
-publishedAt: 2022-11-25T22:01:43.687Z
+updatedAt: 2024-02-16T20:24:07.700Z
+publishedAt: 2024-02-16T20:24:07.700Z
 firstPublishedAt: 2022-08-18T19:04:13.465Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: informacoes-do-cartao-de-pedido-causando-confusao-no-status
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 619778
 ---
 

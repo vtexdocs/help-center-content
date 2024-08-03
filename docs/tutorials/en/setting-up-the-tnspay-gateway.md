@@ -1,10 +1,10 @@
 ---
 title: 'Setting up the TNSPay gateway'
 id: 6jIUr6Va00QyEuMEGAmQA6
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-03-02T12:43:42.795Z
-updatedAt: 2023-03-29T01:14:08.864Z
-publishedAt: 2023-03-29T01:14:08.864Z
+updatedAt: 2024-03-18T20:23:20.750Z
+publishedAt: 
 firstPublishedAt: 2018-03-02T15:56:49.389Z
 contentType: tutorial
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: en
 legacySlug: setting-up-the-tnspay-gateway
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+<div class="alert alert-danger">This payment integration can no longer be configured on the platform due to the <a href="https://help.vtex.com/en/announcements/legacy-payment-connectors-will-be-discontinued-in-2024--4R5YIjUu1IWkiOHzXtQU14">legacy provider removal process</a> and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.</div>
 
 TNSPay is a [payment gateway](/en/tutorial/what-is-a-payment-gateway) with PCI certification that offers a number of security features to facilitate the processing of [recurring purchases](/en/faq/how-does-recurring-purchase-work).
 

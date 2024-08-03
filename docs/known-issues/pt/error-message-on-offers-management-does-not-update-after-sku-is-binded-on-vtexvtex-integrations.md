@@ -3,8 +3,8 @@ title: 'Mensagem de erro na gestão de ofertas não é atualizada depois que o s
 id: 5tMKDMsFTZlXQrkVM4WeJD
 status: PUBLISHED
 createdAt: 2022-12-08T14:02:22.948Z
-updatedAt: 2022-12-08T14:03:27.764Z
-publishedAt: 2022-12-08T14:03:27.764Z
+updatedAt: 2024-02-16T20:24:16.785Z
+publishedAt: 2024-02-16T20:24:16.785Z
 firstPublishedAt: 2022-12-08T14:02:23.384Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: mensagem-de-erro-na-gestao-de-ofertas-nao-e-atualizada-depois-que-o-sku-e-vinculado-a-integracoes-vtexvtex
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 712956
 ---
 

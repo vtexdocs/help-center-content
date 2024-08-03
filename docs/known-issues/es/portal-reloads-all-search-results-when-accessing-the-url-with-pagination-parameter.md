@@ -3,8 +3,8 @@ title: 'El portal recarga todos los resultados de la búsqueda cuando se accede 
 id: 18Y8yYKByGTzMxyYhk1pdl
 status: PUBLISHED
 createdAt: 2022-01-23T02:35:50.182Z
-updatedAt: 2022-11-25T22:11:17.525Z
-publishedAt: 2022-11-25T22:11:17.525Z
+updatedAt: 2024-02-16T20:29:31.154Z
+publishedAt: 2024-02-16T20:29:31.154Z
 firstPublishedAt: 2022-03-16T16:22:55.043Z
 contentType: knownIssue
 productTeam: Portal
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Portal
 slug: el-portal-recarga-todos-los-resultados-de-la-busqueda-cuando-se-accede-a-la-url-con-el-parametro-de-paginacion
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 342378
 ---
 

@@ -3,8 +3,8 @@ title: 'Store Settings Overview'
 id: 6VtlMoid6iM9dP14X1CopT
 status: PUBLISHED
 createdAt: 2023-03-29T23:00:51.439Z
-updatedAt: 2023-03-29T23:07:38.446Z
-publishedAt: 2023-03-29T23:07:38.446Z
+updatedAt: 2023-09-13T22:38:50.560Z
+publishedAt: 2023-09-13T22:38:50.560Z
 firstPublishedAt: 2023-03-29T23:07:38.446Z
 contentType: tutorial
 productTeam: Management
@@ -17,13 +17,11 @@ subcategory: 5RAUzLD6X9Wa1maenj1eGA
 
 **Store Settings** are the configurations applied to your store, storefront and how your end customers interact with your ecommerce. We have grouped all settings applied to your store under the __Store Settings__ section on the left navigation menu. That is where you can access settings applied to Payments, Orders, Email Templates, Shipping, Product, Storefront, Channels and Intelligent Search. 
 
-To access this feature, click on the __Store Settings__ icon on the left navigation menu, and click on the desired section.
+To access this feature, click __Store Settings__ on the left navigation menu, and click on the desired section.
 
 <div class="alert alert-warning" role="alert">
 Note that the settings you had configured in the previous environment have not changed. We have only rearranged how you reach them.  
 </div>
-
-![Admin v4 Store settings menu EN](https://images.ctfassets.net/alneenqid6w5/2EIX54YHzIivbQjreHGV4B/de97901ab7998117667296e7ce096cf2/Admin_v4_Store_settings_menu_EN.jpg)
 
 Check out more details about the different sections and pages of this menu below. 
 

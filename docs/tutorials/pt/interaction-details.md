@@ -1,10 +1,10 @@
 ---
 title: 'Gerenciamento de anúncios: detalhes da interação'
 id: 5qC6XPkyUsYPd0dqKHQNlf
-status: PUBLISHED
+status: DRAFT
 createdAt: 2021-03-17T01:16:13.273Z
-updatedAt: 2023-03-31T04:45:50.134Z
-publishedAt: 2023-03-31T04:45:50.134Z
+updatedAt: 2024-06-20T21:43:33.011Z
+publishedAt: 
 firstPublishedAt: 2021-03-17T01:20:58.901Z
 contentType: tutorial
 productTeam: Channels
@@ -12,8 +12,15 @@ author: 0QBQws7rk0t5Mnu8fgfUv
 slug: detalhes-da-interacao
 locale: pt
 legacySlug: detalhes-da-interacao
-subcategory: 2zVauFUkYn8vgS0y0MfWeK
+subcategory: 
 ---
+
+<div class="alert alert-info">
+Para evoluir sua experiência ao sincronizar e atualizar anúncios, o time da VTEX está desenvolvendo uma nova funcionalidade que irá substituir o atual módulo <b>Gerenciamento de anúncios</b>.
+Por este motivo, o Gerenciamento de anúncios não receberá novas atualizações ou manutenção. 
+Para conectores e marketplaces que já se integraram com o módulo, solicitamos que entre em contato com nosso time de desenvolvimento através do email <a href="taissa.araujo@vtex.com.br">taissa.araujo@vtex.com.br</a>.
+Para os conectores com interesse em iniciar a integração, solicitamos que aguardem o lançamento do novo módulo, assim que disponível avisaremos a todos os clientes através do <a href="https://developers.vtex.com/updates/release-notes">Developer portal na página de release notes</a> e <a href="https://help.vtex.com/pt/en/announcements">VTEX Help Center na página de novidades</a>.
+</div>   
 
 A página de **Detalhes da interação**, do módulo [Gerenciamento de anúncios](https://help.vtex.com/pt/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE), permite que sellers visualizem de forma mais completa as interações ocorridas a um anúncio durante seu processo de envio e sincronização com um canal. Cada interação do anúncio fica disponível por dez dias a partir do seu registro.
 

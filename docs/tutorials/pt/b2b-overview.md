@@ -3,8 +3,8 @@ title: 'B2B – Visão Geral '
 id: 5vb9SNXhX2bZnkpAh7ADdC
 status: PUBLISHED
 createdAt: 2021-03-30T12:31:10.644Z
-updatedAt: 2021-05-11T17:43:13.209Z
-publishedAt: 2021-05-11T17:43:13.209Z
+updatedAt: 2024-05-10T13:56:48.012Z
+publishedAt: 2024-05-10T13:56:48.012Z
 firstPublishedAt: 2021-03-30T18:43:45.812Z
 contentType: tutorial
 productTeam: B2B
@@ -12,7 +12,7 @@ author: 7qy2DBsUp8U5P9lqV0JHfR
 slug: b2b-visao-geral
 locale: pt
 legacySlug: visao-geral
-subcategory: 5N5GjDrKSycIQMeoS7CLtj
+subcategory: 1PSq4adEARlFaK5Mdv74Y7
 ---
 
 É comum separar o ecommerce em dois tipos de modelo de negócios: B2C (Business to Consumer) e B2B (Business to Business).

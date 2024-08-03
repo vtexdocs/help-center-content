@@ -1,10 +1,10 @@
 ---
-title: '¿Qué es una cartera digital (e-wallet)?'
+title: '¿Qué es una cartera digital (ewallet)?'
 id: 4v5wcOe4A0SiaimWM2cU60
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:38.294Z
-updatedAt: 2019-12-31T15:26:35.284Z
-publishedAt: 2019-12-31T15:26:35.284Z
+updatedAt: 2023-09-26T15:16:20.294Z
+publishedAt: 2023-09-26T15:16:20.294Z
 firstPublishedAt: 2019-01-24T22:05:07.777Z
 contentType: tutorial
 productTeam: Financial
@@ -15,7 +15,7 @@ legacySlug: que-es-una-cartera-digital
 subcategory: 2Xay1NOZKE2CSqKMwckOm8
 ---
 
-Una cartera digital (también llamada e-wallet) es un ambiente seguro donde se pueden almacenar datos bancarios y/o de tarjeta de crédito. Esta información se cifra en el sistema y, cuando es accedida por su dueño, puede usarse para realizar compras en internet.
+Una cartera digital (también llamada ewallet) es un ambiente seguro donde se pueden almacenar datos bancarios y/o de tarjeta de crédito. Esta información se cifra en el sistema y, cuando es accedida por su dueño, puede usarse para realizar compras en internet.
 
 Comprar con una cartera digital ofrece más seguridad para el usuario, ya que no necesita informar sus datos de pago en el momento de la compra. En vez de eso, el usuario se redirige al ambiente de la cartera digital, donde deberá pasar por etapas de autenticación.
 

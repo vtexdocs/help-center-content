@@ -3,8 +3,8 @@ title: 'VTEX Intelligent Search: configurações Multi-idioma (Beta)'
 id: 2WahlTESLXIJ9XBdQMdTYO
 status: PUBLISHED
 createdAt: 2021-03-09T22:44:16.513Z
-updatedAt: 2023-03-30T17:45:54.079Z
-publishedAt: 2023-03-30T17:45:54.079Z
+updatedAt: 2023-07-26T19:15:24.855Z
+publishedAt: 2023-07-26T19:15:24.855Z
 firstPublishedAt: 2021-03-10T21:13:35.816Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -27,11 +27,7 @@ O VTEX Intelligent Search Multi-idioma expande as funcionalidades do [Intelligen
 <p> Caso você deseje expandir o seu ecommerce para outro idioma, entre em contato com o <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a> para que o time da VTEX realize as configurações necessárias.</p>
 </div>
 
-Com o VTEX Intelligent Search Multi-idioma instalado, as informações do Catálogo da loja são traduzidas pelo aplicativo [Messages](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization). Para isso, você deve cadastrar previamente como traduzíveis os termos dos seguintes campos: __Nome__, __Marca__, __Descrição__, __Categorias__, __CategoryTrees__, __metadata__, __metadataKeyword__, __Especificações__, __SKU {name}__.
-
-<div class="alert alert-warning">
-  <p> Se um termo não possui tradução cadastrada no <strong>Messages</strong>, sua tradução é realizada por um serviço automático, exceto no caso do campo <strong>Marca</strong>. Por isso, é importante <a href="https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization">cadastrar a tradução de todos os campos</a> para evitar efeitos indesejados, como traduções literais que não refletem a língua utilizada em determinada região. Sem o cadastro do termo correto, o nome de um produto como “whole milk", por exemplo, corre o risco de ser traduzido automaticamente para "leite inteiro" em vez de "leite integral".</p>
-</div>
+Com o VTEX Intelligent Search Multi-idioma instalado, as informações do Catálogo da loja são traduzidas pelo aplicativo [Messages](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization). Para isso, é importante cadastrar a tradução dos seguintes campos: __Nome__, __Marca__, __Descrição__, __Categorias__, __CategoryTrees__, __metadata__, __metadataKeyword__, __Especificações__, __SKU {name}__. Leia o guia para desenvolvedores [Tradução do conteúdo do catálogo](https://developers.vtex.com/vtex-developer-docs/docs/catalog-internationalization) para mais informações.
 
 A partir da [Multi-Tenant API](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-multi-language-stores), o VTEX Intelligent Search Multi-idioma obtém todos os locais e respectivos idiomas (exemplos: `pt-br`, `en-uk`) registrados na loja. Cada local possui uma URL própria.
 

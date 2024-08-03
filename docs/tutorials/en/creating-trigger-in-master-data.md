@@ -3,8 +3,8 @@ title: 'How to create a trigger in Master Data v1'
 id: tutorials_1270
 status: PUBLISHED
 createdAt: 2017-04-27T21:56:49.666Z
-updatedAt: 2022-12-14T18:27:30.828Z
-publishedAt: 2022-12-14T18:27:30.828Z
+updatedAt: 2024-06-27T13:01:58.637Z
+publishedAt: 2024-06-27T13:01:58.637Z
 firstPublishedAt: 2017-04-27T23:03:50.015Z
 contentType: tutorial
 productTeam: Master Data
@@ -16,147 +16,156 @@ subcategory: 2nx7hMJmisofwqwy2P9l2i
 ---
 
 <div class="alert alert-info">
-This article talks about Master Data v1. If you want to use Master Data v2, check out the steps explained in <a href="https://help.vtex.com/en/tutorial/setting-up-triggers--54eVOFGhS0EWyAUieoqKWo">this article</a>.
+<p>This article is about Master Data v1. If you want to use Master Data v2, see the steps in the guide <a href="https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2">Setting up triggers in Master Data v2</a>.</p>
 </div>
 
-Conceptually, the “Trigger” is a programming feature that is executed whenever its linked event takes place. In Master Data, the trigger is the setup of one or more events when a given situation takes place. This situation is set up based on several variables.
+Conceptually, a trigger is a programming resource that performs a specific action whenever an associated event occurs. In Master Data, a trigger consists of configuring one or more events that activate when a particular situation occurs based on different variables.
 
-This enables the use of certain data automation and controls, increasing the efficiency of your data management. In other words, simply speaking, triggers are functionalities that enable the scheduling of actions if an event takes place.
+This enables diverse automations and data control, increasing the efficiency of your data management. A trigger is a feature that allows you to schedule actions to be executed when a triggering event occurs.
 
-1. A data entity contains data from all stores
-2. A new registry is added to this entity
-3. A configured trigger sends an email providing all customers with this update
+For example:
 
-Suppose that certain actions are scheduled to take place when a given condition is met. Accordingly, any information recorded in MasterData may trigger innumerable actions, as required. Triggers have some important characteristics, as described below:
+1. A data entity contains the data of all your physical stores.
+2. A new record is added to this entity.
+3. A configured trigger sends an email to all customers with the updates.
 
-- They relate to a data entity;
-- They are called automatically;
-- They cannot be called directly;
-- They set off several actions;
-- They enable the creation of recursion scenarios;
-- They may impact the handling of data by the entity, due to the previous characteristic.
+Triggers allow you to schedule actions to be executed when certain conditions are met. Any information registered in Master Data can trigger many other actions as desired.
 
-Triggers are set up through a 4-step process. Each step is detailed below:
+Below are the main characteristics of triggers:
 
-1. Settings of the action that will activate the trigger. You have to determine which action must be followed by another action. This setting is divided in two parts: **condição** and **filtros adicionais**. Condição (condition) is the action that sets off the trigger (for example, a registration), while filtros (filters) are the specifications that must be met so that the return action can be executed, such as a registration that is carried out through a newsletter form, rather than upon the completion of a purchase. In this case, the condition of the trigger would be as follows: “Whenever a record is included”, and the additional filters include an “origin” field filtering by “newsletter.” So, whenever a new registration is made, the trigger checks whether the customer registered through the newsletter and, only in this case, it would carry out the action that was set up for this purpose.
-2. Trigger timing. It is possible to set up several sending actions separated by time intervals. You may also schedule the trigger according to the date of another field. For example: the field “Maturity Date” is included in the registration of a “Product” entity; it is required that, 1 month before this date, a notice is sent by API to another system. In this case, the trigger timing will be the “Maturity Date” less 1 month.
+- They are associated with a data entity.
+- They activate automatically.
+- They cannot be called directly.
+- They trigger several actions.
+- They allow creating recursion scenarios.
+- They can impact the manipulation of the entity's data due to the previous aspect.
 
-Actions that will be performed when a record meets the condition of the trigger and the filters. Here, you must set up all actions that will be executed when the record that met the conditions has also met the filters and reached the date established in the schedule. These actions may include the sending of e-mails, comments, changing other fields and other possibilities, which are detailed below: Real example:
+## Trigger structure
 
-- **Condition – **The Checkout attribute is changed.
-- **Additional filter – **Checkout is equal to Completed
-- **Actions in positive case – **Change the Bonus field (score type) by including a bonus tag with value 10 and valid for 30 days.
+Before [creating a trigger](#configuring-triggers), it's important to understand that configuring a trigger has four parts, which are explained below.
 
-In this case, this is a situation that seeks to score a field at each new purchase made by the customer. That is, at each order made by the customer, 10 points are added to the Bonus field. Supposing that the bonus is granted when this field reaches 40 points, another trigger is required to check this bonus and grant the promotion. For this purpose, a second trigger will associate the customer with a cluster that is already set up in a promotion. See below the settings of the second trigger:
+![trigger](https://images.ctfassets.net/alneenqid6w5/5WbC7SD6aPFqaOHuHWgQoq/7c3bad97c814b7cb52393616ef58fa47/trigger-en.png)
 
-- **Condition** - The Checkout attribute is changed**.**
-- **Additional filter ** - The bonus is equal to or greater than 40.
-- **Actions in positive case** – Change the ClusterBônus field to “true.”
+### Action that fires the trigger
 
-Actions that will be performed when a record meets the condition of the trigger but not the filters. This option is exactly the opposite of the option above. It will be performed only when the record that met the condition of the trigger **does not** meet the additional filters. Real example:
+To configure this, you need to decide which action should trigger another action. This configuration is separated into two parts:
 
-**Condition** – Addition of a new record in the Extended Registration
-**Additional filter** – The sex is equal to “female”.
-**Actions in positive case** – Sending of e-mail with offers from the women’s department.
-**Actions in negative case** - Sending of e-mail with offers from the men’s department.
+- **Rule**: Action that fires the trigger. Example: A new registration in the store.
+- **Additional filters**: Conditions the action must meet for the response action to be executed, such as registration through a newsletter form and not through the checkout. Example: To trigger the action, registration must be done through the newsletter form, not checkout.
 
-## How to set it up
+In this example, the trigger condition would be **Every time a record is created**, and in the additional filters, there should be a "source" field filtered by "newsletter". So, whenever a new registration is made, the trigger checks whether the customer registered via the newsletter. Only if this condition is met will the configured action be executed.
 
-1. Go to the DynamicStorage (https://*YOURSTORE*.ds.vtexcrm.com.br);
-2. Click on the **Trigger **tab;
-3. Click on the **Novo **button;
-4. Enter the trigger Name;
-5. Give an e-mail address to receive a notice in case the execution fails;
-6. Select the [data entity](/tutorial/criando-entidade-de-dados/ "data entity") that will activate the trigger;
-7. After selecting the data entity, the other fields of the settings will be displayed;
-8. Select a status for the trigger;
-9. Continue to set up the tabs as below:
+### Trigger time
 
-### Conditions
+You can set multiple triggers separated by a time intervals. Or, even better, schedule the trigger based on the date of another field. For example, there is a **Due date** field in a **Product** entity record, and you want an API notification to be sent to another system 1 month before the due date. In this case, the trigger time will be the **Due date** minus 1 month.
 
-Here, you will define the conditions that will activate the event(s) set up in the trigger. These settings are described below:
+### Actions that will be executed if a record meets the trigger rule and filters
 
-#### Condition of the trigger
+You must configure all the actions that will be executed when the record meets the conditions and filters. These actions can include sending an email or scoring a field of Score2 type, among other options, as detailed below.
 
-- **The value of an attribute was changed** – this means that, should there be any change in the value of the field given, regarding any record, this trigger will be activated.
-The field to be filtered must be given. E.g.: When the “E-mail” field is changed, the trigger should be set off – give the “E-mail” field in the “Give the attribute” field.
-- **An event was raised** – This type was discontinued.
-- **A record was changed **– this means that when a record is changed in any field, this trigger will be activated.
-- **A record was commented **– this means that, when a record is commented, this trigger will be set off.
-- **A record was entered** – this means that, when a record is entered, this trigger will be set off.
-- **A record was removed **– this means that, when a record is removed, this trigger will be set off.
+Example: A scenario in which you want to score a field with every new order. Every time the customer places an order, 10 points are added to the current value of the **Bonus** field.
 
-#### Additional filter
+- **Rule**: When the Checkout attribute is changed.
+- **Additional filter**: Checkout equal to Completed.
+- **If positive actions**: Change the Bonus field (Score2 type), setting the bonus tag to 10 and valid for 30 days.
 
-**Add group** – creates groups that contain filters. Each of these groups may relate to other groups in order to create more complex filter layers.
-![relacaoGrupos](//images.contentful.com/alneenqid6w5/6n2ipjsapUYyG8quIucIke/1b789ceed1f6ea993096f0d3c857b114/relacaoGrupos.png)
+### Actions that will be executed if a record meets the trigger rule but does not meet the filters
 
-**Enter filter** – this can be created inside the most recently created group, or without the need for a group. In the set model, a filter always interacts with other filters through the “AND” and “OR” options for each one of them.
-The fields and values accepted must be selected in order to activate the trigger.
-![filtroTrigger](//images.contentful.com/alneenqid6w5/go7XW0mqWsuA4ygwYsoMS/cf6c5ef321a8d39e16a09d30c2ca1245/filtroTrigger.png)
+In this configuration, you must define actions that will only be executed if the record that meets the trigger condition **does not** meet the additional filters. Example:
+
+- **Rule**: When a new record is created.
+- **Additional filter**: Gender is equal to female.
+- **Actions if positive**: Sends an email with deals from the female department.
+- **Actions if negative**: Sends an email with deals from the male department.
+
+## Configuring triggers
+
+Follow the instructions below to create a trigger in Master Data v1:
+
+1. Access Master Data at `https://{accountname}.ds.vtexcrm.com.br/`, replacing `{accountname}` with your VTEX account name.
+2. Click the **Trigger** tab.
+3. Click the `Add` button.
+4. Enter the **Name** of the trigger.
+5. Select the [data entity](https://help.vtex.com/en/tutorial/data-entity--tutorials_1265 "data entity") that will fire the trigger.
+6. After selecting the data entity, the other configuration fields will be displayed.
+7. Select a status for the trigger, which can be **Enabled** or **Disabled**.
+8. Configure each of the tabs based on the sections:
+
+	- [Rules](#rules)
+	- [Schedule](#schedule)
+	- [If Positive](#if-positive)
+	- [If Negative](#if-negative)
+
+9. Click `Save`.  
+
+### Rules
+
+In this section, you must set the conditions that will fire the event(s) configured in the trigger.
+
+#### Trigger rules
+
+- **An attribute value is changed**: When the value of the field below is changed in any record, the trigger will be enabled.
+
+   In the **Field** option, select the field that will be used. For example: If the trigger should be fired when the **Email** field is changed, select the **Email** field.
+
+- **A filter attribute is changed**: The trigger will be fired when a filter attribute is changed.
+- **A record is changed**: The trigger will be fired when a record is changed in any field.
+- **A record is created**: The trigger will be fired when a record is created.
+- **A record is deleted**: The trigger will be fired when a record is deleted.
+
+#### Additional filters
+
+- **Add Group**: Creates groups with filters. Each group can be related to the others, creating more complex filter layers.
+- **Add Filter**: You can create a filter within the last group created or independently of groups. A filter always interacts with other filters based on the set arrangement, with the "and" and "or" options for each.
+
+   Select which fields and values are accepted or not for the trigger to be fired.
+
+   ![filters-en](https://images.ctfassets.net/alneenqid6w5/go7XW0mqWsuA4ygwYsoMS/c0d93fda52ba199ee2101c62028d1c33/filters-en.png)
 
 <div class="alert alert-info">
-Master Data v1 does not allow retries configuration, unlike Master Data v2.
+  <p>Master Data v1 does not allow the configuration of trigger reattempts, unlike Master Data v2.</p>
 </div>
 
-#### Scheduling
+### Schedule
 
-This defines when the trigger should be activated. It can be immediately, through the option “Execute as soon as possible;” scheduling for a calendar date through “Schedule for a specific date;” or a future value, starting from the current date or the date of some date field, using minutes, hours, days, month and years through the option “Schedule the execution for a dynamic date.”
+This tab allows you to configure when the trigger should be fired:
 
-### Actions in positive case
+- **Run ASAP**: Immediately.
+- **Schedule on specific date**: Schedule for a specific date and time in the calendar.
+- **Schedule on dynamic date:** Set a future date, starting from the current date or the date of a date field. You can use minutes, hours, days, months, and years.
 
-The events to be triggered in case the record that triggered the event meets the conditions of all additional filters, will be set up.
+### If Positive
 
-#### Changing an attribute
+In this tab, you must configure the events to be triggered if the record that triggered the event meets all the additional filters.
 
-This action changes the record field that activated the trigger. The field (attribute) that must be changed and the formula to be used must be given. The field “Expressões dinâmica” displays the values that should be used in the formula in case you intend to use the values given in the record fields or fields of related records (if any). “Formula” is a C# code that returns a value of the same type defined in the data entity for the field.
-![fórmula](//images.contentful.com/alneenqid6w5/F3qRfRkScKWAYoCas4GCe/36f27cb6e71425b80340e1221251d3d2/f_C3_B3rmula-1.png)
+#### Send an email
 
-The Validar button will compile the code in the formula field to check whether or not it is valid, showing the value that will be returned to the field.
-![validacaoFormula](//images.contentful.com/alneenqid6w5/3Fjh4Q1hVCqkY0yAmMSmOM/67564a371055792fd5c0f40efed7670b/validacaoFormula.png)
+Sends an email to dynamic (specified in the record) or static recipients. The email content can be customized to include text, HTML, or even URL content. You can also add attachments, and the **Valid tags** field shows how to enter field values in the record.
 
-#### Entering a comment
+![send-email-en](https://images.ctfassets.net/alneenqid6w5/KsQUtktQoECEMiKEY6EU8/ed63e14a042e2e8b9ec80cc7303b7f00/send-email-en.png)
 
-Includes a comment in the record that activated the trigger. Type in the comment that will be entered.
+#### Send an email using a VTEX Message Center template
 
-#### Sending an email
+Sends an email using an existing Message Center template.
 
-Sends an e-mail for fixed or dynamic (included in the record) addressees. The e-mail to be sent is fully customized, and it may be a text, HTML, or even the contents of an URL. Attachments can also be included, and the “tag válidas” field shows how to enter values in record fields.
-![email](//images.contentful.com/alneenqid6w5/KsQUtktQoECEMiKEY6EU8/89d9d75e4cfdb2fd539dece5a542f8ce/email.png)
+#### Add scores to the Score2 field
 
-#### Assigning points to the Score field
+A Score2 field is a special type of data that stores three pieces of information: key, points, and validity. You can define a value for each score and save it in a field of this type.
 
-A score field includes a special type of data about 3 information: Key, Points and Effectiveness. You may establish a value for each of these points and save it in a Score-type field. 
+#### Send an HTTP request
 
-#### Generating a QRCode
+Sends an HTTP request, allowing you to save the response details in Master Data.
 
-generates a QRCode with the content entered. This QRCode must be entered in some file-type field of the record.
+Complete the **Request information** section with the request details you want to send. In the **Response action** section, you can indicate how the response details should be saved in Master Data.
 
-More than one action can be set up, but we recommend including up to 3 actions per trigger. The actions have to be set up according to a priority, or, in case of failure in the settings of an event, the subsequent events will not be triggered.
-
-#### Sending an HTTP request
-
-Send an HTTP request and save the response information in the Master Data.
-
-Fill in the **Request data** section with the information of the request to be sent. In the **Response action** section, you can indicate how the response information should be saved in the Master Data.
-
-![Master Data v1 send http request screenshot](https://images.ctfassets.net/alneenqid6w5/5uIXuDHBecTzuJxi0mnjWv/74bc888f1f8b2a901e642d9809207fd5/mdv1_trigger_http_request.PNG)
+![http-request-en](https://images.ctfassets.net/alneenqid6w5/5uIXuDHBecTzuJxi0mnjWv/63d495ea6217ad26f62c5d1f26b4d299/http-request-en.png)
 
 To configure the **Response action**, select the desired data entity and set the corresponding JSON path in the response for each field to be saved.
 
-### Actions in negative case
+### If Negative
 
-Some events are set off when a record does not go through the additional filters of the trigger. The same events of the “Actions in positive case” can be set up.
-
-<!--
-## For example:
-
-Watch the video indicated below, which shows the settings for the following scenario: Sending of an e-mail welcoming the new customers of the store. Except if the customer is included in a cluster. In this case, the initial approach to customers will be made by phone. So, “Cluster 1” customers should not receive a welcome e-mail.
-
-<iframe width="840" height="473" src="https://www.youtube.com/embed/A6UrxcYIq5E?feature=oembed" frameborder="0" allowfullscreen></iframe>
--->
+Events will be triggered when the record does not meet the trigger additional filters. The same events can be configured for [actions if positive](#if-positive).
 
 ## Examples
 
-- [Setting up Cart Abandonment (Trigger)
-](https://help.vtex.com/en/tutorial/configurando-carrinho-abandonado--tutorials_740)
+- [Configuring abandoned carts](https://help.vtex.com/en/tutorial/configuring-abandoned-carts--tutorials_740)

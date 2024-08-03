@@ -1,36 +1,33 @@
 ---
-title: 'Price range disregards sales policy'
-id: 4isnfk4T2UB3CId8bXcvFT
-status: DRAFT
-createdAt: 2022-03-16T16:35:57.963Z
-updatedAt: 2022-06-08T14:01:22.874Z
-publishedAt: 
-firstPublishedAt: 
+title: 'La franja de precios no respeta la política comercial'
+id: 3OsmwHOZyM0AQWA8CuK0aC
+status: PUBLISHED
+createdAt: 2017-10-17T17:50:40.970Z
+updatedAt: 2022-12-22T20:46:23.778Z
+publishedAt: 2022-12-22T20:46:23.778Z
+firstPublishedAt: 2017-10-17T18:03:23.731Z
 contentType: knownIssue
-productTeam: Portal
+productTeam: Marketing & Merchandising
 author: 2mXZkbi0oi061KicTExNjo
-tag: Portal
-slug: price-range-disregards-sales-policy
+tag: Portal (CMS)
+slug: la-franja-de-precios-no-respeta-la-politica-comercial
 locale: es
 kiStatus: Backlog
-internalReference: 322764
+internalReference: 
 ---
 
 ## Sumario
 
-<div class="alert alert-warning">
-  <p>Este contenido sólo está disponible en Inglês.</p>
-</div>
+El filtro por rango de precio, que se configura en las opciones de categoría, considera el precio registrado en todas las políticas comerciales de la tienda, es decir, siempre va a imprimir el considerando el valor más bajo registrado entre todas las políticas comerciales, posibilitando la exhibición de un producto que no está en el rango de precios de la política comercial específica.
 
 ## Simulación
 
-<div class="alert alert-warning">
-  <p>Este contenido sólo está disponible en Inglês.</p>
-</div>
+1. Registre precios diferentes en políticas comerciales diferentes para el mismo SKU;
+2. Registre franjas de precio en la categoría donde los precios registrados queden en franjas diferentes;
+3. En la política comercial con el precio del SKU más caro, haga el filtro por rango de precio;
+4. Véase que el valor del SKU considerado es el de la otra política comercial, pues considera el valor más barato entre todas las políticas.
 
 ## Workaround
 
-<div class="alert alert-warning">
-  <p>Este contenido sólo está disponible en Inglês.</p>
-</div>
+No hay solución de contorno para el escenario.
 

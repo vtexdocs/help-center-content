@@ -3,8 +3,8 @@ title: 'Configurar gateway Kushki'
 id: 69VC8nQMkEE0yu8oIyG2wG
 status: PUBLISHED
 createdAt: 2018-04-24T15:50:00.468Z
-updatedAt: 2023-03-29T00:41:16.269Z
-publishedAt: 2023-03-29T00:41:16.269Z
+updatedAt: 2024-01-23T17:48:58.465Z
+publishedAt: 2024-01-23T17:48:58.465Z
 firstPublishedAt: 2018-04-24T19:47:19.057Z
 contentType: tutorial
 productTeam: Financial
@@ -15,20 +15,20 @@ legacySlug: configurar-gateway-kushki
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Kushki es un [gateway](/es/tutorial/que-es-un-gateway-de-pagos) con certificación [PCI](/es/faq/que-es-el-pci-ssc) que opera enfocado en América Latina.
+Kushki es un [gateway](https://help.vtex.com/es/tutorial/que-es-un-gateway-de-pagos--2KH9Wdi7F6swOU4amECSOk) con certificación [PCI](https://help.vtex.com/tutorial/what-is-the-pci-ssc--4jo3Vkox3amSO2w4qIWa0E) que opera enfocado en América Latina.
 
 Para configurar Kushki, siga estos pasos:
 
-## Configurar la afiliación de gateway Kushki
-1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
-2. En la pestaña __Afiliaciones__, haga clic en el botón __+__.
-3. Haga clic en el conector __Kushkiv2__.
-4. Rellene los campos con los datos proporcionados por Kushki.
-5. El campo __appKey__ debe rellenarse con la __clave privada__ de Kushki.
-6. El campo __appToken__ debe rellenarse con la __clave pública__ de Kushki.
-7. Para guardar, haga clic en el botón __Salva__.
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __Kushkiv2__ en la barra de búsqueda y haga clic en el nombre del proveedor.
+4. En los campos __Clave de aplicación__ y __Token de aplicación__, ingrese la información proporcionada por Kushki.
+5. Si desea modificar el nombre de identificación que se mostrará para el proveedor iugu en la pantalla VTEX Admin, ingrese la información en el campo __Nombre__ en __Información general__.
+6. En __Control de pago__, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en __Activar modo de prueba__.
+7. Haga clic en `Guardar`.
 
-Después de finalizar esta configuración, usted tiene que crear las credenciales de VTEX para configurar la afiliacón Kushki en su tienda. Para más detalles, consulte la [guía de autenticación](https://developers.vtex.com/docs/getting-started-authentication "guía de autenticación") en el Portal del Desarrollador.  
+Para configurar los métodos de pago a procesar por Liquido Payment, acceda al [Configurar Condiciones de Pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455#).
 
-## Configurar la condición de pago
-Luego de realizar los ajustes anteriores, Kushki estará configurada en su tienda. Por lo tanto, cuando registre una condición de pago estará disponible en el campo __Proceso con la afiliación__ (cuando el medio de pago sea compatible con Kushki). Para saber cómo definir las condiciones de pago, acceda a [este artículo](/es/tutorial/condiciones-de-pago).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456#).
+
+Después de seguir los pasos indicados, Kushki puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

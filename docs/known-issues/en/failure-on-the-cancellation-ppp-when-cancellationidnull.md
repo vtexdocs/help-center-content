@@ -3,8 +3,8 @@ title: 'Failure on the cancellation (PPP) when cancellationId=null'
 id: 4yNCRQ1xhA8lEp5AGRs5eu
 status: PUBLISHED
 createdAt: 2022-06-21T21:37:04.567Z
-updatedAt: 2022-11-25T22:07:04.838Z
-publishedAt: 2022-11-25T22:07:04.838Z
+updatedAt: 2023-08-11T19:16:35.985Z
+publishedAt: 2023-08-11T19:16:35.985Z
 firstPublishedAt: 2022-06-21T21:37:05.374Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: failure-on-the-cancellation-ppp-when-cancellationidnull
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 333897
 ---
 

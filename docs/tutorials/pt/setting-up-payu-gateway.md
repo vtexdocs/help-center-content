@@ -1,10 +1,10 @@
 ---
 title: 'Configurar gateway PayU'
 id: 36zWOAFHmwIAoWIEU2Y08q
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-03-27T15:25:04.654Z
-updatedAt: 2023-03-21T20:17:16.717Z
-publishedAt: 2023-03-21T20:17:16.717Z
+updatedAt: 2024-03-18T20:27:28.378Z
+publishedAt: 
 firstPublishedAt: 2018-03-27T22:13:40.899Z
 contentType: tutorial
 productTeam: Financial
@@ -15,14 +15,15 @@ legacySlug: configurar-gateway-payu
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
+<div class="alert alert-danger">Essa integração de pagamento não pode ser mais configurada na plataforma devido ao <a href="https://help.vtex.com/pt/announcements/conectores-legados-de-pagamentos-serao-descontinuados-em-2024--4R5YIjUu1IWkiOHzXtQU14">processo de remoção de provedores legados</a> e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.</div>
+
 A PayU é um [gateway](/pt/tutorial/o-que-e-um-gateway-de-pagamentos) que oferece uma série de soluções para facilitar (e deixar mais seguras) as transações realizadas na sua loja. Com certificação [PCI](/pt/faq/o-que-e-o-pci-ssc), essa solução é exclusiva para Argentina, Brasil, Chile, Colômbia, México, Panamá e Peru.
 
 Para configurar a PayU, siga os passos abaixo:
 
-## Configurar afiliação de gateway PayU
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão __+__.
-3. Clique no conector __PayU__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __PayU__ na barra de busca e clique sobre o nome do provedor.
 4. Preencha os campos de cadastro com os dados fornecidos pela PayU (campos _API Login_, _API Key_, _Account Id_ e _Merchant Id_).
 5. No campo __Forma de Autorização__, escolha o modo como quer autorizar as transações.
 6. Em __Moeda__, selecione a moeda que será usada nas transações.

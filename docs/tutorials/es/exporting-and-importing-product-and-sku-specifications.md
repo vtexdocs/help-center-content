@@ -3,8 +3,8 @@ title: 'Exportar y importar especificaciones de producto y SKU'
 id: tutorials_274
 status: PUBLISHED
 createdAt: 2017-04-27T22:10:43.787Z
-updatedAt: 2023-03-29T15:30:59.932Z
-publishedAt: 2023-03-29T15:30:59.932Z
+updatedAt: 2024-02-21T20:34:56.013Z
+publishedAt: 2024-02-21T20:34:56.013Z
 firstPublishedAt: 2017-04-27T23:03:12.428Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -40,6 +40,10 @@ Vea a continuación cómo exportar la plantilla con las especificaciones del pro
 6. Haz clic en `Haz clic aquí para descargar el archivo` para exportar la plantilla.
 
 ![skuexport2.es](https://images.ctfassets.net/alneenqid6w5/6aQThG8rLVv6c48ZAO1in4/eeb2118c25334f4b18d485b2c2127cd5/skuexport2.es.png)
+
+<div class = "alert alert-info">
+  <p>La hoja de plantilla exportada estará disponible en tu email durante una semana. Si supera este periodo, vuelva a seguir la exportación paso a paso para generar una nueva hoja de plantilla.</p>
+</div>
 
 ## Importar especificaciones de producto o SKU
 

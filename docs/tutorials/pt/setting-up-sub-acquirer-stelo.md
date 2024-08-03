@@ -1,10 +1,10 @@
 ---
 title: 'Configurar subadquirente Stelo'
 id: 3gHWiaK9wQg08wOsoysciQ
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-03-02T17:43:45.957Z
-updatedAt: 2023-03-29T01:10:18.026Z
-publishedAt: 2023-03-29T01:10:18.026Z
+updatedAt: 2024-03-18T20:16:43.458Z
+publishedAt: 
 firstPublishedAt: 2018-03-02T20:17:14.474Z
 contentType: tutorial
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: pt
 legacySlug: configurar-subadquirente-stelo
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+<div class="alert alert-danger">Essa integração de pagamento não pode ser mais configurada na plataforma devido ao <a href="https://help.vtex.com/pt/announcements/conectores-legados-de-pagamentos-serao-descontinuados-em-2024--4R5YIjUu1IWkiOHzXtQU14">processo de remoção de provedores legados</a> e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.</div>
 
 A Stelo é um [subadquirente](/pt/tutorial/o-que-e-um-subadquirente) que facilita a integração de meios de pagamento à sua loja.
 

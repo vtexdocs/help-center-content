@@ -3,8 +3,8 @@ title: 'How to create surcharges/taxes'
 id: tutorials_321
 status: PUBLISHED
 createdAt: 2017-04-27T22:08:49.745Z
-updatedAt: 2023-03-31T16:53:05.461Z
-publishedAt: 2023-03-31T16:53:05.461Z
+updatedAt: 2023-10-26T13:20:22.531Z
+publishedAt: 2023-10-26T13:20:22.531Z
 firstPublishedAt: 2017-04-27T23:03:14.603Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -30,28 +30,29 @@ The surcharge is applied in accordance with the registration done on the seller.
 
 ### What is the general information of this tax?
 
-- **Name**: Name of the surcharge.
-- **Status**: Activates or deactivates the surcharge.
-- **Description**: Internal description of the surcharge This field is intended for communication within your store, to make it clear whether the surcharge is based on some special rule, for example.
-- **Expiration Date**: Date and time of the start and finish of the surcharge. Future dates and times can be used to schedule the application of the surcharge on the site. If it is configured in this manner, the surcharge will be shown as scheduled, until the date and time indicated are reached. While the surcharge is in effect, it will have active status and, when the defined date and time run out, the status will automatically change to inactive.
+- **Name**: name of the surcharge.
+- **Status**: activates or deactivates the surcharge.
+- **Description**: internal description of the surcharge This field is intended for communication within your store, to make it clear whether the surcharge is based on some special rule, for example.
+- **Expiration Date**: date and time of the start and finish of the surcharge. Future dates and times can be used to schedule the application of the surcharge on the site. If it is configured in this manner, the surcharge will be shown as scheduled, until the date and time indicated are reached. While the surcharge is in effect, it will have active status and, when the defined date and time run out, the status will automatically change to inactive.
 - **What kind and amount of Tax?**:
-  - **Percentage Tax**: A percentage of the value of the product to be added to the amount.
-  - **Formula-based Tax Value**: The surcharge will apply the calculation entered in the field.
-  - **Shipping percentual tax**: Percentage increase over freight value.
-- **Sales Policy**: Select the sales policies to which the surcharge will apply.
+  - **Percentage Tax**: a percentage of the value of the product to be added to the amount.
+  - **Formula-based Tax Value**: the surcharge will apply the calculation entered in the field.
+  - **Shipping percentual tax**: percentage increase over freight value.
+  - **Nominal tax**: additional tax with a predefined value.
+- **Sales Policy**: select the sales policies to which the surcharge will apply.
 
 ### To what items will this tax apply?
 
-- **Categories, Brands, Collections and Products:** It must meet all the conditions registered. E.g.: if a category and a brand are registered, the product must meet both conditions.
+- **Categories, Brands, Collections and Products:** it must meet all the conditions registered. E.g.: if a category and a brand are registered, the product must meet both conditions.
 
 ### What are the conditions for the tax to be valid?
 
-- **Aggregate value of purchases**: The surcharge will be applied if the total of all purchases previously made by the customer meets this minimum.
-- **Marketing Tags**: Field used to restrict the activation of the campaign if the purchase is made by the VTEX Recurrence System.
-- **Affiliates**: Marketplace order identifier
-- **Customer cluster**: The surcharge will be applied if the customer is registered in the selected cluster.
-- **Shipping to postal code should**: The surcharge will be applied where the postal code meets the rule configured.
-- **Shipping Method**: The surcharge will be applied if the type of shipping is as registered.
+- **Aggregate value of purchases**: the surcharge will be applied if the total of all purchases previously made by the customer meets this minimum.
+- **Marketing Tags**: field used to restrict the activation of the campaign if the purchase is made by the VTEX recurrence system.
+- **Affiliates**: marketplace order identifier
+- **Customer cluster**: the surcharge will be applied if the customer is registered in the selected cluster.
+- **Shipping to postal code should**: the surcharge will be applied where the postal code meets the rule configured.
+- **Shipping Method**: the surcharge will be applied if the type of shipping is as registered.
 
 ## Scheduling
 

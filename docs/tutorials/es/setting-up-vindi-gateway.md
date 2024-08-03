@@ -1,10 +1,10 @@
 ---
-title: 'Configurar el gateway Vindi'
+title: 'Configurar pago con Vindi'
 id: 61EXzfrBZYIgGU26EGcaMo
-status: DRAFT
+status: PUBLISHED
 createdAt: 2018-03-01T15:25:39.368Z
-updatedAt: 2022-12-23T20:47:23.110Z
-publishedAt: 
+updatedAt: 2024-01-23T21:49:28.618Z
+publishedAt: 2024-01-23T21:49:28.618Z
 firstPublishedAt: 2018-03-01T16:21:19.864Z
 contentType: tutorial
 productTeam: Financial
@@ -15,20 +15,18 @@ legacySlug: configurar-el-gateway-vindi
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Vindi es un gateway de pagos con certificación PCI, lo que garantiza la seguridad de los datos transaccionados por él. Actualmente, procesa pagos realizados por tarjetas de crédito, boletos bancarios y Paypal.
+En VTEX es posible la integración con el proveedor de pagos Vindi. Con este proveedor, su tienda puede realizar ventas a través de tarjetas de crédito, boletos bancarios y Paypal.
 
-Para configurar Vindi, siga estos pasos:
+Para configurar Vindi, siga los pasos a continuación:
 
-## Configurar la afiliación de gateway Vindi
-1. Acceda al módulo __Pagos__.
-2. Haga clic en __Configuración__.
-3. En la pestaña __Afiliaciones__, haga clic en el botón __+__.
-4. Haga clic en el conector __Vindi__.
-5. Rellene los campos de registro con los datos proporcionados por Vindi (campos _Application Key_ y _Application Token_).
-6. Haga clic en __Guardar__.
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __Vindi__ en la barra de búsqueda y haga clic en el nombre del proveedor.
+4. Rellene los campos de registro __Application Key__ y __Application Token__  con los datos proporcionados por el Vindi.
+5. Haga clic en `Guardar`.
 
-## Configurar la condición de pago
+Para configurar los métodos de pago a procesar por Vindi, acceda al [Configurar Condiciones de Pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455#).
 
-Después de seguir los pasos indicados arriba, Vindi estará configurada en su tienda. Por lo tanto, cuando se registre una condición de pago, este gateway estará disponible en el campo __Procesar con la afiliación__ (siempre que los medios de pago sean compatibles con Vindi).
+Para establecer condiciones especiales en los métodos de pago, acceda al [Configurar condiciones especiales de Pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456#).
 
-Para saber cómo definir condiciones de pago, acceda a [este artículo del Help](/es/tutorial/condiciones-de-pago).
+Después de seguir los pasos indicados, Vindi puede tardar hasta 10 minutos en aparecer en el checkout de tu tienda como una opción de pago.

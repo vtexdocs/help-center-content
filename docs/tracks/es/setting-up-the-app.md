@@ -1,10 +1,10 @@
 ---
-title: 'Configurar Customer Credit'
+title: ' Configurar el Customer Credit'
 id: 21ok0GBwmcIeaY2IukYMOg
 status: PUBLISHED
 createdAt: 2018-11-07T17:11:22.823Z
-updatedAt: 2022-01-07T13:30:23.058Z
-publishedAt: 2022-01-07T13:30:23.058Z
+updatedAt: 2024-02-08T18:03:14.738Z
+publishedAt: 2024-02-08T18:03:14.738Z
 firstPublishedAt: 2018-11-07T17:23:16.520Z
 contentType: trackArticle
 productTeam: Financial
@@ -14,100 +14,101 @@ trackId: 1hCRg21lXYy2seOKgqQ2CC
 trackSlugES: customer-credit-como-empezar
 ---
 
-## Configuración de primero acceso
+Después de instalar la aplicación del Customer Credit, debe realizar las siguientes configuraciones:
 
-Ahora vamos a configurar Customer Credit. 
+- [Primer acceso](#configuracion-de-primer-acceso)
+- [App](#configuracion-de-app) 
+- [Condiciones de pago](#condiciones-de-pago)
 
-El primer paso es acceder a la página de configuración de la aplicación en el Admin. 
+## Configuración de primer acceso
 
-Luego de hacer esto, justo al inicio de la pantalla, verá tres comandos dentro del box "Pendiente".
+Para realizar la configuración inicial del Customer Credit, siga los pasos a continuación:
 
-Estos son: 
+1. En el Admin VTEX, accede a __Apps > Customer Credit > Configuración__, o escribe __Configuración__ en la barra de búsqueda en la parte superior de la página.
+2. En la sección __Pendiente__, es posible que se muestren una o más de las configuraciones enumeradas a continuación:
+<br>
+<ul>
+<br>
+    	<li><b>Habilitar emails transaccionales en el Centro de mensajes</b>: haga clic en <b>Habilitar</b> para instalar las plantillas de correo electrónico transaccional relacionadas con el Customer Credit en <a href="https://help.vtex.com/pt/tutorial/conhecendo-o-message-center--tutorials_84">Message Center</a>.</li>
+    	<li><b>Configurar las condiciones de pago del checkout</b>: haga clic en <b>Configurar</b> para permitirle definir la fecha límite y las reglas de pago de la tienda.</li>
+  	<li><b>Afiliación no autenticada todavía</b>: haga clic en <b>Autenticar</b> para ser redirigido a la pantalla de configuración donde deberás completar la información <b>Application Key</b> y <b>Application Token</b>. Esta acción permitirá que los pagos realizados a través de Customer Credit se procesen en su tienda. Obtenga más información en <a href="https://developers.vtex.com/docs/guides/authentication">Autenticación</a>.</li>
+</ul>
 
-1. __Activar correos electrónicos transaccionales en el Message Center__: instala los templates de correos electrónicos transaccionales relativos al Customer Credit en el Message Center. Para activarlo, haga clic en el botón "Activar".
-2. __Configurar las condiciones de pago del checkout__: define las reglas de plazo y de pago en cuotas de la tienda. Para activarlo, haga clic en el botón "Configurar".
-3. __AppKey y AppToken de la afiliación no definidos__: Customer Credit como forma de pago. Para activarlo, haga clic en el botón “Autenticar”. A continuación, usted será redirigido a la página “Afiliaciones de Gateway”, donde deberá rellenar los campos vacíos con su Key y Token para aquella tienda. Para saber más detalles, consulte nuestro [artículo sobre cómo crear appKey y appToken](https://help.vtex.com/es/tutorial/creating-appkeys-and-apptokens-to-authenticate-integrations--43tQeyQJgAKGEuCqQKAOI2 "artículo sobre cómo crear appKey y appToken"). 
+![CC Configuracion 1 ES](https://images.ctfassets.net/alneenqid6w5/6cDl5QeEatvpLW3kYxV7Yd/7e7102273c6ef79723ff3124d3aab727/CC_Configuracion_1_ES.JPG)
 
-De esta manera, Customer Credit estará disponible como forma de pago en el SmartCheckout de su tienda.
+## Configuración de app
 
-## Configuración de la aplicación 
+Luego, aún en la misma pantalla de VTEX Admin (__Apps > Customer Credit > Configuración__), debes verificar las siguientes opciones de configuración:
 
-A continuación, tendrá cuatro opciones de personalización de la experiencia que su consumidor tendrá en la tienda. 
-
-Revise los detalles de cada uno de estos.
+- [Tolerancia](#tolerancia)
+- [Creación automática de cuenta](#creacion-automática-de-cuenta) 
+- [Página Mis créditos](#pagina-mis-creditos)
+- [Instrucciones de pago](#instrucciones-de-pago)
+- [Información de identificación](#informacion-de-identificacion)
 
 ### Tolerancia
 
-Esta opción permite cerrar una compra aunque exceda el crédito disponible del usuario. Cabe mencionar que es posible registrar un porcentaje excedente de crédito disponible para cada cuenta registrada.
+Activar esta opción permite completar una compra incluso si su valor excede el límite de crédito disponible del cliente. Al crear una cuenta, es posible registrar un porcentaje de exceso de crédito (tolerancia) para cada cliente.
 
-Por ejemplo, digamos que una cuenta tiene R$ 1.000,00 de crédito disponible y una tolerancia del 10%. De esta manera, el sistema permitirá que se hagan pedidos de hasta R$ 1.100,00.
+Por ejemplo, para una cuenta creada con un límite de crédito de $1.000,00 y una tolerancia del 10%, el cliente podrá realizar un pedido con un valor máximo de $1.100,00 utilizando Customer Credit como método de pago. Si el cliente desea utilizar el crédito para pagar un pedido por valor de $1.250,00, el sistema no permitirá completar la compra.
 
 <div class="alert alert-warning">
-Los valores de tolerancia se establecen en números decimales, donde 0 representa el 0% y 1 representa el 100%. Ejemplo: para una tolerancia del 5%, el valor a configurar es 0.05.
+Los valores de tolerancia se configuran en números decimales, donde 0 representa el 0% y 1 representa el 100%. Ejemplo: para utilizar una tolerancia del 5%, el valor a configurar es 0,05.
 </div>
 
-Para establecer la tolerancia, consulte el procedimiento: 
+![CC_Configuracion_2_ES](https://images.ctfassets.net/alneenqid6w5/3kjEQ2OblMKqwumNWSFnSt/c87641a0ebdb835abfb632fcc2ebff90/CC_Configuracion_2_ES.JPG)
 
-1. Acceda al __Admin__.
-2. Haga clic en __Customer Credit__.
-3. Luego, haga clic en __Cuentas__.
-4. Haga clic en la cuenta de cliente para la que desea establecer la tolerancia.
-5. En __Tolerancia__, haga clic en __Editar__.
-6. Complete el valor de tolerancia (en decimales).
-7. Haga clic en __Actualizar__.
+### Creación automática de cuenta
 
-### Creación automática de cuenta  
-Este flag permite a los clientes finalizar una compra utilizando Customer Credit como forma de pago, aunque no tengan una cuenta previa con un límite de crédito definido. 
+Esta opción permite que cualquier cliente de la tienda utilice Customer Credit como método de pago, incluso si no ha creado previamente una cuenta para ellos en la aplicación Customer Credit . Al activar esta funcionalidad, también deberás definir el límite de crédito inicial que se puede utilizar para los pedidos realizados por clientes sin una cuenta de Customer Credit .
 
-En la página de configuración, tiene la opción de establecer un límite de crédito predeterminado para los clientes cuyas cuentas se crearán automáticamente en el SmartCheckout
+![CC_Configurações_3_ES](https://images.ctfassets.net/alneenqid6w5/1TX1ArtNwm8toa84UqNCHZ/7ff9a5cbdb0e164891c5da0931add045/CC_Configuracion_3_ES.JPG)
 
-### Mi página de créditos
-Es la interfaz a través de la cual el usuario final tendrá acceso a la información de su cuenta.
+### Página Mis créditos
 
-En esta, el usuario ve sus límites disponibles, los títulos abiertos y pagados, el extracto de cuenta y la posibilidad de añadir o eliminar dependientes. 
+Al instalar la página __Mis créditos__, permitirá a los clientes ver y administrar información sobre los créditos y facturas disponibles en su cuenta.
 
-Cuando la página esté habilitada, estará disponible en el área de acceso del cliente - MyAccount.
+El cliente puede acceder a esta página en el sitio web de su tienda en __Mi Cuenta > Mis Créditos__.
 
-### Instrucciones de pago  
+![CC_Configuracion_4_ES](https://images.ctfassets.net/alneenqid6w5/59SuH9h84mmgaHmcDB2Bbl/72cff75048d2ac6bb609169f73bb9c49/CC_Configuracion_4_ES.JPG)
 
-Aquí, el usuario puede ingresar instrucciones de pago en los documentos de sus títulos. Para esto, simplemente haga clic en "Editar" y escriba la orientación que prefiera. No olvide hacer clic en el botón azul "Actualizar" para guardar la configuración.
+### Instrucciones de pago 
 
-Además, destacamos que la misma instrucción se reproducirá en todas las facturas de la tienda, independientemente de la cuenta a la que esté vinculado el título y de su status.
-
-## Condiciones de pago  
-En ese momento, Customer Credit está correctamente instalado y configurado en su tienda. Ahora puede crear condiciones de pago que se mostrarán en el  SmartCheckout.
-
-Puede definir diferentes escenarios de negocio para estas condiciones de pago. Esto también implica los plazos y el número de cuotas disponibles para sus clientes. 
-
-Algunos de los plazos utilizados son:
-
-- Pagos realizados en 7, 28 y 45 días.
-- Pagos hechos en 45 días. 
-- Plazos de 30, 60 y 90 días. 
-
-A continuación, consulte el procedimiento: 
-
-1. Acceda al __Admin__.
-2. Haga clic en __Pagos__.
-3. Luego, haga clic en __Configuración__.
-4. Asegúrese de que está en la pestaña __Planes de Pago__.
-5. En el lado derecho de la pantalla, haga clic en el botón verde __“+”__.
-6. Localice y haga clic en la opción __Customer Credit__.
-7. En el lado derecho, establezca el criterio en el box __Configure las reglas de plazo y parcelación__.
-
-Si desea establecer más de una regla, solo tiene que hacer clic en el botón azul "Agregar nueva regla". Por último, haga clic en el botón "Guardar" para actualizar la configuración.
-
-Además, como en otras formas de pago, Customer Credit también permite la configuración de [condiciones especiales](https://help.vtex.com/es/tutorial/condicoes-especiais?locale=es "condiciones especiales"). Esto hace que el usuario defina los contextos de compra que se aplicarán para cada plan de pago configurado en la tienda.
-
-### Intereses 
-Por último, también puede establecer tasas de interés simples para las reglas de pago en cuotas establecidas en su tienda. Actualmente, puede aplicar estas tasas a los pedidos que se pagarán en dos o más cuotas.
+Esta configuración permite insertar instrucciones relacionadas con el pago en las facturas emitidas por Customer Credit. Para editar el mensaje que se mostrará en la factura, ingrese la información en el cuadro de texto y haga clic en `Actualizar`.
 
 <div class="alert alert-warning">
-<strong>Atención</strong>: las tasas de interés <strong>no</strong> se aplican a los pedidos que se pagarán en solo una cuota.
-</div> 
+El mensaje registrado en esta configuración se replicará en todos las facturas emitidas para todas las cuentas de clientes de Customer Credit. No es posible configurar un mensaje único para cada cliente o factura específica.
+</div>
 
-Sin embargo, apenas un valor de intereses aplicado a las cuotas aparecerá en el SmartCheckout.
+![CC_Configuracion_5_ES](https://images.ctfassets.net/alneenqid6w5/6UkZi827KKQqH8Yk1mmPKj/791355858bde3d7fa86eaa8b142b56e9/CC_Configuracion_5_ES.JPG)
 
-Por ejemplo, digamos que ha configurado tres cuotas para Customer Credit, cada una con un tipo de interés diferente: la primera con el 10%, la segunda con el 15% y la tercera con el 20%.
+### Información de identificación
 
-Como la configuración de 10 % es la más ventajosa para el consumidor final, esta será la única opción de pago que se mostrará en el SmartCheckout.
+Esta opción le permite seleccionar qué información de identificación de la tienda debe mostrarse en la parte superior de las facturas emitidas.
+
+![CC_Configuracion_6_ES](https://images.ctfassets.net/alneenqid6w5/6ADAtBnrZQS6sCzkwPSqFt/cda6ab4a6232705bfb4323be12fc93bb/CC_Configuracion_6_ES.JPG)
+
+![CC_Configuration_8_ES](https://images.ctfassets.net/alneenqid6w5/54WcXTGpAGppAyGxxoa8gx/708d343130c21d3c308ea058e4414c5c/CC_Configuration_8_ES.JPG)
+
+## Condiciones de pago 
+
+Una vez que se completa la configuración del Customer Credit, es necesario indicar qué opciones de plazo y cuotas estarán disponibles para mostrarse a los clientes en la pantalla de Checkout.
+
+Para crear condiciones de pago para títulos de Customer Credit, siga los pasos a continuación:
+
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Configuración__, o escribe __Configuración__ en la barra de búsqueda en la parte superior de la página.
+2. En la pestaña __Condiciones de pago__, haga clic en el botón `+`.
+3. Seleccione la opción __Customer Credit__.
+4. Complete el campo __Nombre de la condición__ con un nombre de su elección para identificación.
+5. Active la condición en el campo __Status__.
+6. En __Configura las condiciones de plazo y de pago en cuotas__, indique el número de cuotas, el plazo de vencimiento (en días) y la tasa de interés simple a aplicar a cada cuota. Para crear más de una condición de pago, haga clic en `Agregar nueva regla`.
+
+![CC_Configuration_9_ES](https://images.ctfassets.net/alneenqid6w5/3P3JMnSiAPXNprYvgaNFNh/35c2d14c21c1e10aba4ac95f49fc3354/CC_Configuration_9_ES.JPG)
+
+<blockquote><ui>7. Si lo deseas también puedes <a href="https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456">Configurar condiciones especiales de pago</a>.</ui>
+
+<blockquote><ui>8. Clic en <b>Guardar</b>.</ui>
+
+<div class="alert alert-warning">
+No es posible establecer una tasa de interés para una condición de pago creada con una sola cuota. 
+</div>

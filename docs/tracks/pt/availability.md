@@ -3,8 +3,8 @@ title: 'Disponibilidade'
 id: 7LMQbWK5nElIkXo0NK8Kux
 status: PUBLISHED
 createdAt: 2021-10-04T18:01:24.137Z
-updatedAt: 2021-10-04T18:18:56.501Z
-publishedAt: 2021-10-04T18:18:56.501Z
+updatedAt: 2023-12-07T19:28:15.731Z
+publishedAt: 2023-12-07T19:28:15.731Z
 firstPublishedAt: 2021-10-04T18:18:56.501Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -16,7 +16,8 @@ trackSlugPT: vtex-intelligent-search
 
 Para montar um resultado de busca, o VTEX Intelligent Search considera a disponibilidade de cada produto encontrado na pesquisa. Produtos disponíveis serão sempre priorizados em relação a produtos sem disponibilidade nos resultados de busca. 
 
-Ao verificar a disponibilidade do produto, o VTEX Intelligent Search utiliza o campo **Mostrar produto esgotado** cadastrado no [Catálogo](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ) para verificar quais produtos serão exibidos mesmo quando indisponíveis. Caso a configuração do produto defina que ele não será exibido se estiver sem estoque, a plataforma o posicionará no final do resultado de busca.  Além da exibição do produto sem estoque, o VTEX Intelligent Search também verifica se:
+Ao verificar a disponibilidade do produto, o VTEX Intelligent Search utiliza o campo **Mostrar produto esgotado** cadastrado no [Catálogo](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ) para verificar quais produtos serão exibidos mesmo quando indisponíveis. Se a configuração do produto determinar que ele não deve ser exibido quando estiver fora de estoque, a plataforma não apresentará o produto. No entanto, se a configuração indicar que o produto deve ser exibido mesmo quando estiver sem estoque, a plataforma o colocará no final dos resultados de busca.
+Além da exibição do produto sem estoque, o VTEX Intelligent Search também verifica se:
 
 - O produto em questão está ativo.
 - Pelo menos um SKU do produto está ativo.

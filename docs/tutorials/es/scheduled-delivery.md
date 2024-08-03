@@ -3,8 +3,8 @@ title: 'Entrega programada'
 id: 22g3HAVCGLFiU7xugShOBi
 status: PUBLISHED
 createdAt: 2021-04-19T13:26:44.564Z
-updatedAt: 2021-10-27T16:49:43.778Z
-publishedAt: 2021-10-27T16:49:43.778Z
+updatedAt: 2024-03-25T19:12:45.519Z
+publishedAt: 2024-03-25T19:12:45.519Z
 firstPublishedAt: 2021-05-24T17:01:23.885Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,12 +15,15 @@ legacySlug: entrega-programada, como-se-maneja-la-entrega-programada
 subcategory: 1UL6Q7nUN6SkA2g2SUsECi
 ---
 
-
 La funcionalidad de entrega programada permite que defina periodos de entrega para que el consumidor pueda elegir el mejor día y horario para recibir los productos adquiridos.
 
 Los periodos de entrega que están disponibles para los clientes se denominan ventanas de entrega y están directamente relacionados con las políticas de envío de su tienda. Es decir, para ofrecer el servicio de entregas programadas, debe considerar si la política de envío lo incluye.
 
 En caso de que la política de envío ofrezca el servicio, puede habilitar la entrega programada configurando las ventanas de entrega y estableciendo la capacidad de realización de entregas para cada ventana, si así lo desea.
+
+<div class="alert alert-warning">
+Para que la <a href="https://help.vtex.com/es/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi">Entrega programada</a> y la <a href="https://help.vtex.com/es/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz">Capacidad de entrega</a> funcionen correctamente, debes tener en cuenta que:<p><ul><li>La suma de {<a href="https://help.vtex.com/es/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC">account name</a>} + {ID de la política de envío} no puede exceder los 60 caracteres.</li><li>No se debe utilizar espacio en el ID de la <a href="https://help.vtex.com/es/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT">política de envío</a>.</li></ul></p>
+</div>
 
 La entrega programada se habilita a través del campo Entrega programada que se muestra en la pantalla de creación o edición de [Política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140). 
 

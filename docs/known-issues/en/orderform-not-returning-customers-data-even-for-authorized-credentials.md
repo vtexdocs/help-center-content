@@ -3,8 +3,8 @@ title: "OrderForm not returning customer's data even for authorized credentials"
 id: JcjDusU8YP0kerWXC6LXK
 status: PUBLISHED
 createdAt: 2022-05-19T16:25:28.039Z
-updatedAt: 2023-02-01T21:29:33.875Z
-publishedAt: 2023-02-01T21:29:33.875Z
+updatedAt: 2023-09-27T20:39:27.746Z
+publishedAt: 2023-09-27T20:39:27.746Z
 firstPublishedAt: 2022-05-19T16:25:28.427Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: orderform-not-returning-customers-data-even-for-authorized-credentials
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 582070
 ---
 

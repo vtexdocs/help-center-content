@@ -3,8 +3,8 @@ title: 'Anúncios do VTEX Sales App'
 id: 3UtOFwbwD4muz3p72RBPmC
 status: PUBLISHED
 createdAt: 2023-05-25T17:16:06.902Z
-updatedAt: 2023-05-30T15:53:49.413Z
-publishedAt: 2023-05-30T15:53:49.413Z
+updatedAt: 2024-06-26T18:31:53.389Z
+publishedAt: 2024-06-26T18:31:53.389Z
 firstPublishedAt: 2023-05-26T22:11:51.769Z
 contentType: tutorial
 productTeam: Shopping
@@ -16,6 +16,8 @@ subcategory: 4T6qfa6gNO6g4sAUIa6s2G
 ---
 
 A nova área de anúncios no VTEX Sales App conta com dois tipos principais de anúncios: produtos específicos ou resultados de busca. Essa flexibilidade permite que os merchants adaptem suas estratégias de marketing de acordo com suas necessidades e objetivos específicos, promovendo produtos individuais ou grupos de produtos relacionados.
+
+Para customizar a vitrine de uma loja, os lojistas podem adicionar uma página de `Anúncio por loja` especificando o ID da loja no [Master Data](https://developers.vtex.com/docs/guides/master-data-introduction) ao qual o anúncio será vinculado, permitindo criar anúncios personalizados para cada loja.
 
 Neste documento, forneceremos instruções detalhadas sobre como instalar, configurar e utilizar a nova área de anúncios. Siga os passos descritos abaixo para configurar esta ferramenta e impulsionar suas vendas online.
 
@@ -29,31 +31,31 @@ Neste documento, forneceremos instruções detalhadas sobre como instalar, confi
 
 Antes de instalar as dependências, você deve possuir o [VTEX IO CLI](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-install) instalado. Com o VTEX IO CLI instalado, execute os seguintes comandos no prompt do seu computador para instalar as dependências necessárias:
 
-```
-vtex login {account}
-
-vtex install vtex.admin-cms@1.x vtex.admin-cms-graphql@0.x 
-vtex.admin-cms-graphql-rc@1.x vtex.admin-releases@0.x 
-vtex.cms-builder-sf-jamstack@1.x
-```
+1.
+    ```
+    vtex login {account}  
+    ```
+2.
+    ```
+    vtex install vtex.admin-cms@1.x vtex.admin-cms-graphql@0.x vtex.admin-cms-graphql-rc@1.x vtex.admin-releases@0.x vtex.cms-builder-sf-jamstack@1.x
+    ```
 
 ## Configurar o aplicativo Headless CMS
 
 1. No Admin VTEX, acesse  **Aplicativos > Meus Aplicativos**, ou digite **Meus Aplicativos** na barra de busca no topo da página.
 2. Clique em `Configurações` do item **CMS (alpha)**.
 3. Clique em `Add More`.
-4. No campo **Project ID**, digite `instore`.
+4. No campo **Project ID**, digite `assisted-sales-app`.
 5. No campo **Sections URL**, digite `https://instore--instore.vtex.app/assisted-sales/cms/sections.json`.
 6. No campo **Content types URL**, digite `https://instore--instore.vtex.app/assisted-sales/cms/content-types.json`.
-7. No campo **Translation keys URL**, digite `https://instore--instore.vtex.app/assisted-sales/cms/translation-keys.json`.
-8. Clique em `Save`.
+7. Clique em `Save`.
 
 ## Criar página de anúncios
 
 Para criar uma página de anúncios para o VTEX Sales App, siga os passos abaixo:
 
 1. Acesse a URL do VTEX Admin: 
-```https://{conta_principal}.myvtex.com/admin/new-cms/instore```
+```https://{conta_principal}.myvtex.com/admin/new-cms/assisted-sales-app```
 2. Clique em **Criar Novo** e selecione **Anúncios**.
 3. Clique em **Untitled** para editar e incluir o nome que desejar. Recomendamos o nome **Anúncios**.
 4. Na aba **Seções**, clique no botão `+` para adicionar uma nova seção. Cada seção é um uma coleção de produtos ou termos de busca. Cada seção será exibida como uma vitrine no formato de carrossel. Você pode ordernar as vitrines clicando nos botões `Mover para baixo` ou `Mover para cima`. 
@@ -77,6 +79,9 @@ Quando o vendedor clicar no termo de busca, ele será direcionado para o resulta
 <ol start="6">
   <li>Depois de criar as seções, clique em <code>Salvar</code>, em seguida, clique em <code>Publicar</code> e <code>Publicar agora</code> para finalizar.</li>
 </ol> 
+- **Vitrine de coleção:** exibirá produtos da coleção que você definir. Adicione as seguintes informações: **Título da vitrine:** nome da vitrine que será exibido na página. **ID da coleção:** número do identificador da coleção que será exibido na página.
+
+![Vitrine-PT](https://images.ctfassets.net/alneenqid6w5/4hppMA8Zky77l93af8W6ks/d83fcc5ea60cc763f33f1cc3bab74c6f/Vitrine-PT.png)
 
 A publicação da vitrine entrará na fila de indexação e estará publicada em torno de alguns  segundos.
 
@@ -88,10 +93,10 @@ A publicação da vitrine entrará na fila de indexação e estará publicada em
 3. Selecione a aba **Código**.
 4. Selecione na aba lateral o arquivo `checkout-instore-custom-js`.
 ![checkout-instore-custom-js-file](https://images.ctfassets.net/alneenqid6w5/6JgOUD4YUDyArNzUkgzIVJ/5a409dc3b01459cb8957e398f79a8c42/image.png)
-5. No objeto `window.INSTORE_CONFIG`, adicione a flag `enableExplore: true`.
+5. No objeto `window.INSTORE_CONFIG`, adicione a flag `enableExplore: true,`.
 ![window.INSTORE_CONFIG](https://images.ctfassets.net/alneenqid6w5/6kpTp7g4zRuIsyYGdo5Bio/08b22d0623a7e72a032872e838c114f6/image.png)
 6. Clique em <i class="fas fa-save"></i> `Salvar`. 
-7. Opcionalmente, você pode determinar que a página inicial do vendedor seja a página de anúncios. Para isso, adicione a flag `initialPage : advertisements` no objeto `window.INSTORE_CONFIG`.
+7. Opcionalmente, você pode determinar que a página inicial do vendedor seja a página de anúncios. Para isso, adicione a flag `initialPage : 'advertisements',` no objeto `window.INSTORE_CONFIG`.
 
 ![initialPage : advertisements](https://images.ctfassets.net/alneenqid6w5/1zS4dgPnw7Q0ZP2w0thQdt/eaac77cd87a26f72436209229c733fa4/image.png)
 

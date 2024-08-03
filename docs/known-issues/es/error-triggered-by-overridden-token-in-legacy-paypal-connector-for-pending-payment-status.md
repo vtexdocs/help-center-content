@@ -3,8 +3,8 @@ title: 'Error provocado por un TOKEN anulado en el conector heredado de PayPal p
 id: 5GrnhD8fwte7qu50Az8r3Y
 status: PUBLISHED
 createdAt: 2023-06-13T22:35:16.397Z
-updatedAt: 2023-06-13T22:38:27.909Z
-publishedAt: 2023-06-13T22:38:27.909Z
+updatedAt: 2024-07-01T18:47:54.680Z
+publishedAt: 2024-07-01T18:47:54.680Z
 firstPublishedAt: 2023-06-13T22:35:16.955Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: error-provocado-por-un-token-anulado-en-el-conector-heredado-de-paypal-para-el-estado-de-pago-pendiente
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 308214
 ---
 

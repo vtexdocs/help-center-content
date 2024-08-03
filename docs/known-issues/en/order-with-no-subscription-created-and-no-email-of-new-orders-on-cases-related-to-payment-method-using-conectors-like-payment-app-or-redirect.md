@@ -3,8 +3,8 @@ title: 'Order with no subscription Created and no email of New Orders on Cases r
 id: 747TGL3sy1mmM1LnVkEjuO
 status: PUBLISHED
 createdAt: 2022-02-21T20:54:35.174Z
-updatedAt: 2022-11-25T22:03:15.831Z
-publishedAt: 2022-11-25T22:03:15.831Z
+updatedAt: 2024-02-16T20:23:42.061Z
+publishedAt: 2024-02-16T20:23:42.061Z
 firstPublishedAt: 2022-05-18T18:43:19.767Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: order-with-no-subscription-created-and-no-email-of-new-orders-on-cases-related-to-payment-method-using-conectors-like-payment-app-or-redirect
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 529143
 ---
 

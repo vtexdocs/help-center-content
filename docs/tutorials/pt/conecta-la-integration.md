@@ -1,10 +1,10 @@
 ---
 title: 'Integração com Conecta Lá'
 id: 403fvPYdv2f6VeP0na3awP
-status: PUBLISHED
+status: DRAFT
 createdAt: 2021-06-08T17:54:34.361Z
-updatedAt: 2023-03-29T15:27:11.094Z
-publishedAt: 2023-03-29T15:27:11.094Z
+updatedAt: 2024-02-19T20:16:43.888Z
+publishedAt: 
 firstPublishedAt: 2021-06-08T18:36:46.591Z
 contentType: tutorial
 productTeam: Channels

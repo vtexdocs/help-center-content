@@ -3,8 +3,8 @@ title: 'El formulario de carga de productos/SKU permite cargar/descargar el form
 id: 3NSxmGXvgFKHd2C4v2EwWV
 status: PUBLISHED
 createdAt: 2022-06-08T20:04:18.508Z
-updatedAt: 2022-11-25T22:12:28.497Z
-publishedAt: 2022-11-25T22:12:28.497Z
+updatedAt: 2024-02-16T20:26:55.864Z
+publishedAt: 2024-02-16T20:26:55.864Z
 firstPublishedAt: 2022-06-08T20:04:19.062Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: el-formulario-de-carga-de-productossku-permite-cargardescargar-el-formato-utf16
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 493402
 ---
 

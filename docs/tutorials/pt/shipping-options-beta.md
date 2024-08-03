@@ -1,10 +1,10 @@
 ---
 title: 'Opções de envio (Beta)'
 id: 7gsdck3519Z3VPqzwFFHJL
-status: PUBLISHED
+status: DRAFT
 createdAt: 2022-05-27T15:35:44.505Z
-updatedAt: 2023-03-21T17:44:07.634Z
-publishedAt: 2023-03-21T17:44:07.634Z
+updatedAt: 2023-08-14T17:28:57.629Z
+publishedAt: 
 firstPublishedAt: 2022-05-31T18:53:28.695Z
 contentType: tutorial
 productTeam: Others

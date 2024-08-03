@@ -3,8 +3,8 @@ title: 'How to create and edit transactional email templates'
 id: 335JZKUYgvYlGOJgvJYxRO
 status: PUBLISHED
 createdAt: 2020-01-10T13:13:48.069Z
-updatedAt: 2021-02-11T13:19:34.511Z
-publishedAt: 2021-02-11T13:19:34.511Z
+updatedAt: 2024-06-11T19:54:28.554Z
+publishedAt: 2024-06-11T19:54:28.554Z
 firstPublishedAt: 2020-01-13T14:38:32.506Z
 contentType: trackArticle
 productTeam: Post-purchase
@@ -22,6 +22,10 @@ To edit a transactional email template, follow the steps below.
 2. Search for the desired template and click on the corresponding card.
 3. Change the e-mail title and the recipient (values bounded by double braces are variable; in the next article we will learn how to handle them). You can add recipients on Carbon Copy (`CC`) and Blind Carbon Copy (`CCO`).  
 4. Check the box __Use default sender__ to use the registered email address as default, as explained in the previous article on this track.
+
+<div class = "alert alert-info">
+The list of templates is available in the article <a href="https://help.vtex.com/en/tutorial/templates-de-emails-transacionais--3g2S2kqBOoSGcCaqMYK2my">Order transactional email templates</a>.
+</div>
 
 In the __HTML__ field you will find the template's HTML code. You can edit the code in the field itself or copy it to an editor of your choice, edit it and then paste it back into the template field.
 

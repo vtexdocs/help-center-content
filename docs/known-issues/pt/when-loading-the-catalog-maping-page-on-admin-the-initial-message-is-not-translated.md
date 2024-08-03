@@ -3,8 +3,8 @@ title: 'Ao carregar a página "Mapeamento do Catálogo" em admin a mensagem inic
 id: 4WszmRZ5jpeSDNTEuFIdwF
 status: PUBLISHED
 createdAt: 2022-12-15T12:32:17.741Z
-updatedAt: 2022-12-15T12:32:18.420Z
-publishedAt: 2022-12-15T12:32:18.420Z
+updatedAt: 2024-02-16T20:23:22.033Z
+publishedAt: 2024-02-16T20:23:22.033Z
 firstPublishedAt: 2022-12-15T12:32:18.420Z
 contentType: knownIssue
 productTeam: Marketplace
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: ao-carregar-a-pagina-mapeamento-do-catalogo-em-admin-a-mensagem-inicial-nao-e-traduzida
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 717066
 ---
 

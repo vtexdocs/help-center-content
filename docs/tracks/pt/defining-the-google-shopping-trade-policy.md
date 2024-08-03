@@ -3,8 +3,8 @@ title: 'Definição da política comercial'
 id: 3AqbcsWrge8zLt0BC5CtGd
 status: PUBLISHED
 createdAt: 2021-04-14T17:58:41.545Z
-updatedAt: 2022-12-08T21:04:01.815Z
-publishedAt: 2022-12-08T21:04:01.815Z
+updatedAt: 2023-10-23T20:22:26.830Z
+publishedAt: 2023-10-23T20:22:26.830Z
 firstPublishedAt: 2021-04-15T17:41:14.352Z
 contentType: trackArticle
 productTeam: Channels
@@ -22,7 +22,7 @@ Será necessário solicitar a criação de uma nova política comercial apenas s
 - Quiser oferecer uma seleção de produtos diferente no Google Shopping.
 - Precisar enviar preços diferentes para o Google Shopping.
 
-Para [contratar políticas comerciais adicionais](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta solicitar via ticket em nosso [Suporte](https://help.vtex.com/pt/support) selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
+Para [contratar políticas comerciais adicionais](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta solicitar via ticket em nosso [Suporte](https://help.vtex.com/pt/support) selecionando a ção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
 
 A contratação de política comercial adicional para integrar com [conector nativo](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-nativo-vtex), [conector certificado (parceiro)](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro) ou outras lojas VTEX é isenta de taxas.
 
@@ -30,12 +30,38 @@ A contratação de política comercial adicional para integrar com [conector nat
 
 O [preço](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu) do seu produto no Google Shopping é determinado na escolha da política comercial. É importante ter atenção a alguns pontos.
 
-Se na sua política comercial existirem preços de/por (que na VTEX chamamos de [preço de lista](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#preco-de-lista) e [preço computado](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx#preco-computado)), será enviado para o Google Shopping o preço computado, ou seja, o preço “por”.
+Se na sua política comercial existirem preços de/por (que na VTEX chamamos de [preço de lista](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#preco-de-lista) e [preço computado](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx#preco-computado)), o preço computado só será enviado para o Google Shopping caso seja habilitado no campo **“Enviar preços com e sem desconto (De/Por)”.**  
 
-Caso exista uma promoção de desconto à vista (condicionada ao método de pagamento [boleto](https://help.vtex.com/pt/tutorial/como-configurar-boleto-bancario--tutorials_447)), esse benefício será aplicado ao valor do produto antes do envio.
+Para que essas promoções apareçam no Google Shopping, é preciso que os produtos atendam aos seguintes requisitos no Merchant Center:  
+- O preço base ou um valor mais alto precisa ter sido cobrado por 30 dias, consecutivos ou não, nos últimos 200 dias.  
+- O preço base precisa ser válido.  
+- O preço promocional precisa ser inferior ao preço base.  
+- O desconto da promoção precisa ser superior a 5% e inferior a 90% em relação ao preço base.  
+
+Com seus produtos seguindo todos os requisitos acima, a ferramenta aplica o valor promocional previamente configurado na VTEX, nas visualizações do Google Shopping.  
 
 <div class="alert alert-warning">
-A ativação de pagamento por boleto é determinada na <a href="https://help.vtex.com/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl">configuração do conector</a>, no campo de preenchimento obrigatório <i/>Considerar desconto para pagamento com boleto no preço enviado (Desconto à vista)</i>.
-</div>
+  Caso exista uma promoção de desconto à vista (condicionada ao método de pagamento boleto ou pix), esse benefício será aplicado ao valor do produto antes do envio.
+  </div>
 
-Além disso, quando há vários [sellers](https://help.vtex.com/pt/tutorial/o-que-e-um-seller--5FkLvhZ3Few4CWWIuYOK2w) vinculados a um produto na sua loja, para o Google Shopping a regra é anunciar a melhor oferta disponível.
+## Desconto vinculado ao método de pagamento  
+
+A ativação de desconto atrelado a um método de pagamento é realizada em duas etapas: a [configuração do desconto](#configurar-desconto), do método de pagamento e, posteriormente, a ativação dos descontos na [configuração do conector](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl). 
+
+### Configurar desconto
+
+Para configurar um desconto vinculado a um método de pagamento, é necessário seguir as seguintes documentações:  
+
+1. [Set a discount using the checkout API](https://developers.vtex.com/docs/guides/set-a-discount-using-the-checkout-api) para inserir qual o método de pagamento desejado na variável `paymentSystemToCheckFirstInstallment` e simular uma carrinho de comprar para verificar se a forma de pagamento foi atualizada.  
+2.  [Configurar desconto de preço à vista](https://help.vtex.com/pt/tutorial/configurar-desconto-de-preco-a-vista--7Lfcj9Wb5dpYfA2gKkACIt) para atrelar o SKU ao meio de pagamento.  
+3. [Configurar desconto de preço à vista para Google Shooping](https://help.vtex.com/pt/tutorial/configurar-desconto-de-preco-a-vista-para-google-shopping--40K3R5d4NogMvCzIWdWt3e)  
+
+Após seguir essas documentações, a ativação deverá ser realizada através da [Configuração do conector](https://help.vtex.com/pt/tracks/configurar-integracao-com-o-google-shopping--25Sl7iOqq58PGfVfTAo8Xw/wWyl0Njxgs5KfXvxYZJrl).
+
+<div class="alert alert-warning">
+  Quando há vários sellers vinculados a um produto na sua loja, para o Google Shopping a regra é anunciar a melhor oferta disponível.
+  </div>
+
+  <div class="alert alert-danger">
+  Cada promoção criada só pode ter um método de pagamento atrelado para que o desconto seja enviado ao Google Shooping.
+  </div>

@@ -3,8 +3,8 @@ title: 'Extensions Hub: Expand your operation through the VTEX Admin'
 id: 4FYJCHTttMa0znV1mdHW9w
 status: PUBLISHED
 createdAt: 2023-05-31T22:15:06.695Z
-updatedAt: 2023-06-04T22:02:53.542Z
-publishedAt: 2023-06-04T22:02:53.542Z
+updatedAt: 2023-08-02T14:37:08.083Z
+publishedAt: 2023-08-02T14:37:08.083Z
 contentType: updates
 productTeam: Apps
 author: 4ubliktPJIsvyl1hq91RdK
@@ -59,4 +59,6 @@ Additionally, we have redesigned the app shopping experience in the **App Store*
 
 Finally, our goal is to strengthen the relationship between merchants and VTEX partners. Thus, merchants who want to implement unique store solutions can now directly find and contact partners and developers through the **Partners** page in the VTEX Admin.
 
-Learn more in our [Extensions Hub documentation](https://help.vtex.com/es/tracks/extensions-hub--AW7klkYMh557y5IUOgzco).
+Learn more in our [Extensions Hub documentation](https://help.vtex.com/en/tracks/extensions-hub--AW7klkYMh557y5IUOgzco).
+
+_\*Updated on August 2, 2023: The **Partners** page will be available later. There is no expected date when this page will be available._

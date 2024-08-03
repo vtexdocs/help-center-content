@@ -3,8 +3,8 @@ title: 'Configurar condiciones especiales de pago'
 id: tutorials_456
 status: PUBLISHED
 createdAt: 2017-04-27T22:03:58.783Z
-updatedAt: 2023-02-24T20:54:02.331Z
-publishedAt: 2023-02-24T20:54:02.331Z
+updatedAt: 2023-07-27T16:59:12.708Z
+publishedAt: 2023-07-27T16:59:12.708Z
 firstPublishedAt: 2017-04-27T23:03:26.753Z
 contentType: tutorial
 productTeam: Financial
@@ -20,10 +20,6 @@ Las condiciones especiales forman parte de la configuración de las condiciones 
 Para identificar las condiciones especiales aplicables a cada método de pago, en VTEX Admin, acceda a __Pago > Configuraçión > Condiciones de Pago__, seleccione el método de pago deseado y verifique las opciones como se muestra en la siguiente ilustración.
 
 ![condiciones especiales de pago](https://images.ctfassets.net/alneenqid6w5/1DllASa2BBHO7VjL1krOqD/1f9aaa7975a61f40c575db834c163a6b/Condiciones_especiales_de_pago.png)
-
-<div class = "alert alert-info">
-  <p>Las condiciones especiales de las reglas de pago se aplican solo al número de cuotas. El método de pago sigue siendo el mismo.</p>
-</div>
 
 ## Condición Comercial
 

@@ -3,8 +3,8 @@ title: 'El pago y la división de transacciones no funcionan en el mismo orden p
 id: 3rFyqzEnSwx2czwdlgDovU
 status: PUBLISHED
 createdAt: 2023-03-23T19:03:22.498Z
-updatedAt: 2023-03-27T12:27:57.714Z
-publishedAt: 2023-03-27T12:27:57.714Z
+updatedAt: 2024-02-16T20:25:26.525Z
+publishedAt: 2024-02-16T20:25:26.525Z
 firstPublishedAt: 2023-03-23T19:03:23.526Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: el-pago-y-la-division-de-transacciones-no-funcionan-en-el-mismo-orden-para-el-inventario-omnicanal-multinivel
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 777201
 ---
 

@@ -3,8 +3,8 @@ title: 'Configurar boleto bancario'
 id: tutorials_447
 status: PUBLISHED
 createdAt: 2017-04-27T22:04:55.249Z
-updatedAt: 2023-03-21T20:14:57.262Z
-publishedAt: 2023-03-21T20:14:57.262Z
+updatedAt: 2024-04-16T14:44:36.023Z
+publishedAt: 2024-04-16T14:44:36.023Z
 firstPublishedAt: 2017-04-27T23:03:25.766Z
 contentType: tutorial
 productTeam: Financial
@@ -15,26 +15,22 @@ legacySlug: como-configurar-boleto-bancario
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-El boleto bancario es un instrumento de pago que, para el cobro, basta tener una cuenta bancaria y contratar una cartera de cobro junto al banco. 
+En VTEX, su tienda puede vender a través del [Boleto Bancário](https://help.vtex.com/es/tutorial/boleto-bancario-registrado-flujo--1WlPkeueWQiykUwW8mcM4S). Para configurar el Boleto Bancario, siga los pasos a continuación:
 
-A partir de eso, ya es posible emitir boletos y recibir directamente en su cuenta.
+1. En el Admin de VTEX, acceda a __Configuración de la Tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón "Nuevo proveedor".
+3. Escriba en la barra de búsqueda el nombre del proveedor que procesará el Boleto Bancario.
+4. Rellene los campos del formulario según los datos proporcionados por el proveedor/banco.
+5. Haga clic en `Guardar`.
 
-Hay dos maneras de configurar el boleto:
-- Directamente en VTEX sin un gateway de enlace externo.
-- A través de un gateway de pago, como por ejemplo, PagSeguro. 
+## Configurar condición de pago
 
-Las dos formas de configuración se describen a continuación.
+1. En el Admin de VTEX, acceda a __Configuración de la Tienda > Pago > Configuración__, o escriba __Configuración__ en la barra de búsqueda en la parte superior de la página.
+2. En la pestaña __Condiciones de pago__, haga clic en el botón `+`.
+3. En __Boleto__, seleccione la opción __Boleto Bancário__.
+4. Active la condición en el campo __Status__.
+5. En __Procesar con proveedor__, seleccione el proveedor configurado previamente.
+6. Si lo deseas, también puedes [Configurar condiciones especiales de pago](https://help.vtex.com/es/tutorial/condiciones-especiales--tutorials_456).
+7. Haga clic en `Guardar`.
 
-## Cómo configurar
-
-1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.
-2. Acceda a la pestaña __Afiliaciones__.
-3. Haga clic en "__+__".
-4. Llene los campos del formulario de acuerdo con los datos informados por su banco - para cada banco son necesarias informaciones distintas. Por eso, siempre confirme con el banco cuáles son las informaciones obligatorias.
-5. Haga clic en __Guardar__.
-
-OBS.: Ese paso es opcional, pues es posible el catastro de boleto pasando por un Gateway de Pago. En este caso, es necesario catastrar el Gateway de Pago en Afiliaciones de Gateway y realizar la configuración abajo.
-
-Después de la configuración de la Afiliación de Gateway, es necesario configurar la condición de pago. Para eso, siga las configuraciones de cómo crear condiciones de pago.
-
-Con esas configuraciones realizadas, la forma de pago ya estará disponible en el checkout de su tienda.
+Después de seguir los pasos indicados, Boleto Bancário puede tardar hasta 10 minutos en aparecer en la caja de tu tienda como opción de pago.

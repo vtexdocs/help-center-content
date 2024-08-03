@@ -3,8 +3,8 @@ title: 'Meu Admin está bloqueado. O que fazer?'
 id: 4IkFRmDVx6quIIcwoOGY6K
 status: PUBLISHED
 createdAt: 2017-10-11T13:36:13.665Z
-updatedAt: 2021-03-22T20:31:43.767Z
-publishedAt: 2021-03-22T20:31:43.767Z
+updatedAt: 2023-07-24T15:11:04.222Z
+publishedAt: 2023-07-24T15:11:04.222Z
 firstPublishedAt: 2017-10-11T13:39:18.676Z
 contentType: frequentlyAskedQuestion
 productTeam: Others
@@ -22,12 +22,10 @@ Enquanto aguarda o contato do Financeiro, é possível desbloquear temporariamen
 
 Siga os passos abaixo para desbloquear seu Admin por esse período. Você deve possuir as permissões de Admin Super ou [Perfil de Acesso Financeiro](https://help.vtex.com/pt/tutorial/como-criar-um-perfil-de-acesso-financeiro--717qPtxW3Cy9n5KrReHeVv?locale=pt) para realizar as ações a seguir:
 
-- Acesse o módulo Faturas.
-- Clique no botão **Veja como desbloquear temporariamente**.
-- Insira o número do ticket que você abriu anteriormente para desbloqueio.
-- Clique no botão **Desbloquear por 48 horas**.
+1. Acesse o módulo Faturas.
+2. Clique no botão **Veja como desbloquear temporariamente**.
+3. Insira o número do ticket que você abriu anteriormente para desbloqueio.
+4. Clique no botão **Desbloquear por 48 horas**.
 
 Feito esse procedimento, seu perfil ficará desbloqueado por 48 horas de dias úteis. Aproveite para colocar suas faturas em dia até o contato do time Financeiro.
-
-![Início](https://images.ctfassets.net/alneenqid6w5/6bYCHufFuKJ2TKivBJl8Pr/bc552ab6bbfad7ef49c1a9a59e2d5724/In__cio.gif)
 

@@ -44,7 +44,7 @@ Es posible asociar un usuario con el rol Finance ya existente:
 3. Haga clic en la pestaña **Usuarios**.
 4. Seleccione el usuario que desea asociar.
 5. Ahora, escoja el **rol Financiero**.
-6. Haga clic en el botón <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/2jZogtT8WT3XVmv5U6yXh/2dc70b446b9aad1b27840e64b2cf15ce/bot__o_adicionar.png" /> al lado del rol seleccionado para agregarlo.
+6. Haga clic en el botón <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/2jZogtT8WT3XVmv5U6yXh/2dc70b446b9aad1b27840e64b2cf15ce/bot__o_adicionar.png" /> al lado del rol seleccionado para agregarlo.
 7. Para finalizar, haga clic en **Guardar**.
 
 ![gif usuárioES](https://images.ctfassets.net/alneenqid6w5/gRA4oVVbG7Z8ksFX4QiWm/f097214bc3c314a36dc384efcbc51980/gif_usu__rioES.gif)

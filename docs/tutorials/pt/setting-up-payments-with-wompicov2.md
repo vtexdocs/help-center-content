@@ -3,8 +3,8 @@ title: 'Configurar pagamento com WompiCoV2'
 id: SnkXNUXkESqKxfFZu0LS4
 status: PUBLISHED
 createdAt: 2023-04-14T13:55:18.776Z
-updatedAt: 2023-04-14T14:23:30.858Z
-publishedAt: 2023-04-14T14:23:30.858Z
+updatedAt: 2024-01-24T13:54:46.662Z
+publishedAt: 2024-01-24T13:54:46.662Z
 firstPublishedAt: 2023-04-14T14:23:30.858Z
 contentType: tutorial
 productTeam: Financial
@@ -15,9 +15,9 @@ legacySlug: configurar-pagamento-com-wompicov2
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento WompiCoV2. Por meio deste conector, sua loja pode realizar vendas por meio de cartões de crédito e débito.
+Na VTEX, é possível realizar a integração com o provedor de pagamento WompiCoV2. Por meio deste provedor, sua loja pode realizar vendas por meio de cartões de crédito e débito.
 
-Para configurar a afiliação WompiCoV2, siga os passos abaixo:
+Para configurar WompiCoV2, siga os passos abaixo:
 
 1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
 2. Na aba __Afiliações de Gateways__, clique no botão `+`.

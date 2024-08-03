@@ -1,10 +1,10 @@
 ---
 title: 'Configurar el gateway TNSPay'
 id: 6jIUr6Va00QyEuMEGAmQA6
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-03-02T12:43:42.795Z
-updatedAt: 2023-03-29T01:14:08.864Z
-publishedAt: 2023-03-29T01:14:08.864Z
+updatedAt: 2024-03-18T20:23:20.750Z
+publishedAt: 
 firstPublishedAt: 2018-03-02T15:56:49.389Z
 contentType: tutorial
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: es
 legacySlug: configurar-el-gateway-tnspay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+<div class="alert alert-danger">Esta integración de pago ya no se puede configurar en la plataforma debido al <a href="https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14">proceso de descontinuación de los proveedores legados</a> y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.</div>
 
 TNSPay es un [gateway de pago](/es/tutorial/que-es-un-gateway-de-pagos) con certificación PCI que proporciona una serie de features de seguridad para facilitar el procesamiento de [compras recurrentes](/es/faq/como-funciona-la-compra-recurrente).
 

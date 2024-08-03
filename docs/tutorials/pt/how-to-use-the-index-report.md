@@ -1,10 +1,10 @@
 ---
 title: 'Utilizar o Relatório de Indexação'
 id: 4ikVpMhwByyS8sysaeOIm4
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-07-04T13:10:40.431Z
-updatedAt: 2023-03-29T19:04:52.988Z
-publishedAt: 2023-03-29T19:02:27.075Z
+updatedAt: 2023-07-13T19:45:25.468Z
+publishedAt: 2023-07-13T19:45:25.468Z
 firstPublishedAt: 2017-07-04T19:16:21.471Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -17,7 +17,7 @@ subcategory: 5yDQmr18K4GgQAeGwq8USa
 
 O **Relatório de Indexação** é o relatório que indica o status de indexação de todos os produtos da loja. 
 
-![RelatorioIndexação](//images.contentful.com/alneenqid6w5/6Y212qGxIAU4KWuWw8Uou2/306e536e7b5196abf04513915550a9f6/RelatorioIndexa_C3_A7_C3_A3o.png)
+![RelatorioIndexação](https://images.contentful.com/alneenqid6w5/6Y212qGxIAU4KWuWw8Uou2/306e536e7b5196abf04513915550a9f6/RelatorioIndexa_C3_A7_C3_A3o.png)
 
 <div class="alert alert-info">
 <strong>Nota:</strong> Para mais informações, acesse <a href="http://help.vtex.com/pt/tutorial/entendendo-o-funcionamento-da-indexacao">Entendendo o funcionamento da indexação.</a>

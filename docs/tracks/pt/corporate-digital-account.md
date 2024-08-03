@@ -1,10 +1,10 @@
 ---
 title: 'Conta digital corporativa'
 id: 3MVAuZJenHAEt8jsgX99GD
-status: PUBLISHED
+status: DRAFT
 createdAt: 2020-05-28T17:37:52.588Z
-updatedAt: 2023-03-14T22:07:22.796Z
-publishedAt: 2023-03-14T22:07:22.796Z
+updatedAt: 2023-10-05T14:13:52.213Z
+publishedAt: 
 firstPublishedAt: 2020-05-29T17:48:20.683Z
 contentType: trackArticle
 productTeam: Financial

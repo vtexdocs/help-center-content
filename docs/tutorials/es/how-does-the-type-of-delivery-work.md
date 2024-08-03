@@ -3,8 +3,8 @@ title: 'Cómo se maneja el tipo de entrega'
 id: tutorials_126
 status: PUBLISHED
 createdAt: 2017-04-27T22:18:17.250Z
-updatedAt: 2023-05-31T14:45:20.914Z
-publishedAt: 2023-05-31T14:45:20.914Z
+updatedAt: 2023-11-13T15:00:10.346Z
+publishedAt: 2023-11-13T15:00:10.346Z
 firstPublishedAt: 2017-04-27T23:00:44.173Z
 contentType: tutorial
 productTeam: Post-purchase

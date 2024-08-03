@@ -3,8 +3,8 @@ title: 'Cadastrar geolocalização'
 id: tutorials_138
 status: PUBLISHED
 createdAt: 2017-04-27T22:17:36.462Z
-updatedAt: 2023-03-29T13:25:16.724Z
-publishedAt: 2023-03-29T13:25:16.724Z
+updatedAt: 2023-08-25T14:52:20.340Z
+publishedAt: 2023-08-25T14:52:20.340Z
 firstPublishedAt: 2017-04-27T23:00:44.871Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -31,6 +31,10 @@ Acessando o link [Gere seus polígonos com geojson.io](http://geojson.io/#map=2/
 7. Com o polígono pronto, copie o JSON que fica na tela da direita e guarde-o em um arquivo.
 
 Esse JSON será usado para adicionar o polígono na plataforma, que entenderá a partir dessa linguagem quais códigos postais estão inclusos nessa área.
+
+<div class="alert alert-danger">
+Na configuração de um polígono, não é possível delimitar áreas sobrepostas, ou seja, não é possível sobrepor coordenadas geográficas.
+</div>
 
 ### Como adicionar um polígono
 

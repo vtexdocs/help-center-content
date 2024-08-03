@@ -3,8 +3,8 @@ title: 'El informe de exportación de pedidos no funciona correctamente debido a
 id: 3dVPZEs544WyPDBNzTesWx
 status: PUBLISHED
 createdAt: 2023-04-06T20:22:47.489Z
-updatedAt: 2023-04-06T20:22:48.141Z
-publishedAt: 2023-04-06T20:22:48.141Z
+updatedAt: 2024-06-28T17:44:15.662Z
+publishedAt: 2024-06-28T17:44:15.662Z
 firstPublishedAt: 2023-04-06T20:22:48.141Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: el-informe-de-exportacion-de-pedidos-no-funciona-correctamente-debido-al-doble-espacio-en-el-nombre-de-la-promocion
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 786216
 ---
 
@@ -23,8 +23,7 @@ internalReference: 786216
 </div>
 
 
-Para la promoción de pedidos, no es correcto el uso de doble espacio o carácter especial en los nombres, esto puede romper el filtro o la falta de algunos pedidos en el informe de exportación de pedidos.
-Nombre en el array "ratesAndBenefitsData".
+El sistema de reporte de pedidos actualmente no puede construir un archivo a partir de filtros de promoción que contengan doble espacio en sus nombres, al intentar construir el reporte el sistema genera un error y no se realiza la exportación, dando como resultado el mensaje "_Exportación completada. Se enviaron 0 pedidos a su correo electrónico"_.
 
 
 ##
@@ -32,17 +31,19 @@ Nombre en el array "ratesAndBenefitsData".
 ## Simulación
 
 
-Crear un pedido usando una promoción con un nombre incorrecto, por ejemplo con doble espacio en el nombre.
-Después de esto, vaya a la gestión de pedidos y ejecute un filtro con esta promoción como condición.
-En ese momento se puede ver el pedido en la lista de pedidos filtrado, pero al elegir el informe de exportación no aparecerá el pedido con la promoción con doble espacio.
+
+Crear pedido utilizando alguna promoción cuyo nombre contenga espacios dobles;
+
+Después de eso, vaya a la gestión de pedidos y ejecute un filtro con esta promoción como condición.
+
+En este punto, la interfaz de usuario de OMS mostrará normalmente una lista de pedidos con la condición elegida, pero al seleccionar exportar pedidos la interfaz de usuario devolverá el siguiente mensaje "_Exportación completada. Se han enviado 0 pedidos a su correo electrónico_".
 
 
 
 ## Workaround
 
 
-No hay ninguna solución disponible.
-
+Filtre los pedidos en la UI por otro parámetro, por ejemplo, fecha, forma de pago, etc., luego exporte los pedidos y fíltrelos por promoción directamente en el archivo Excel generado por el sistema.
 
 
 

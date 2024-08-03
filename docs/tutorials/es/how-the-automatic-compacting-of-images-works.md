@@ -17,7 +17,7 @@ subcategory: 2g6LxtasS4iSeGEqeYUuGW
 
 Las tiendas VTEX cuentan con compactación automática de imágenes para __WebP__. Este recurso posibilita una reducción hasta del 25% en el peso del sitio.
 
-![webplogo](//images.contentful.com/alneenqid6w5/1HsHoCbkyM86KKA4sCWucO/0e6f078eb62b773cc927da79b8ea6f1e/webplogo.png)
+![webplogo](https://images.contentful.com/alneenqid6w5/1HsHoCbkyM86KKA4sCWucO/0e6f078eb62b773cc927da79b8ea6f1e/webplogo.png)
 
 El formato, desarrollado por Google, es más eficiente que el JPG o el PNG, sin necesariamente reducir la calidad de las imágenes. Genera fácilmente una ganancia de 1 ó 2 segundos en el tiempo de carga de las páginas (variando según el layout).
 

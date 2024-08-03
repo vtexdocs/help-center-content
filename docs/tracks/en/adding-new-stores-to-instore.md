@@ -3,8 +3,8 @@ title: 'Managing physical stores in VTEX Sales App'
 id: 5PSjRstg7UU4lOm0s8aqKN
 status: PUBLISHED
 createdAt: 2020-06-29T13:30:51.354Z
-updatedAt: 2023-05-31T15:07:31.507Z
-publishedAt: 2023-05-31T15:07:31.507Z
+updatedAt: 2023-07-26T18:59:24.074Z
+publishedAt: 2023-07-26T18:59:24.074Z
 firstPublishedAt: 2020-06-29T14:22:11.121Z
 contentType: trackArticle
 productTeam: Shopping

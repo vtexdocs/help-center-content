@@ -3,8 +3,8 @@ title: 'Configurar pago con Paycash'
 id: 5gxrb0YlEhq0JnprN2uaOf
 status: PUBLISHED
 createdAt: 2023-04-06T17:19:09.254Z
-updatedAt: 2023-04-06T17:57:16.146Z
-publishedAt: 2023-04-06T17:57:16.146Z
+updatedAt: 2024-01-23T21:05:57.921Z
+publishedAt: 2024-01-23T21:05:57.921Z
 firstPublishedAt: 2023-04-06T17:40:32.746Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pago-con-paycash
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX es posible la integración con el proveedor de pagos Paycash. Con este conector, tu tienda puede realizar ventas a través de Paycash.
+En VTEX es posible la integración con el proveedor de pagos Paycash. Con este proveedor, tu tienda puede realizar ventas a través de Paycash.
 
-Para configurar la afiliación Paycash, siga los pasos a continuación:
+Para configurar Paycash, siga los pasos a continuación:
 
-1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Configuración__, o escribe __Configuración__ en la barra de búsqueda en la parte superior de la página.
-2. En la pestana __Afiliaciones de Gateway__, haga clic en el botón `+`.
-3. Haga clic en el conector __Paycash__.
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __Paycash__ en la barra de búsqueda y haga clic en el nombre del proveedor.
 4. Rellene los campos de registro __Application Key__, __Application Token__ y __Paycash Production Api Key__ con los datos proporcionados por Paycash. 
 5. En __Captura automática de pago__, seleccione una de las opciones disponibles:
 

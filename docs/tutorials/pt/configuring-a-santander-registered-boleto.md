@@ -1,10 +1,10 @@
 ---
 title: 'Configurar boleto registrado Santander'
 id: 67siNqkC7mcgy2GWUYimaa
-status: PUBLISHED
+status: DRAFT
 createdAt: 2017-12-04T19:04:02.215Z
-updatedAt: 2023-03-30T16:12:20.970Z
-publishedAt: 2023-03-30T16:12:20.970Z
+updatedAt: 2024-03-18T18:03:25.298Z
+publishedAt: 
 firstPublishedAt: 2019-01-25T17:15:35.225Z
 contentType: tutorial
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: pt
 legacySlug: configurar-boleto-registrado-santander
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+<div class="alert alert-danger">Essa integração de pagamento não pode ser mais configurada na plataforma devido ao <a href="https://help.vtex.com/pt/announcements/conectores-legados-de-pagamentos-serao-descontinuados-em-2024--4R5YIjUu1IWkiOHzXtQU14">processo de remoção de provedores legados</a> e o artigo será removido em breve do Help Center. Verifique com o seu provedor maiores informações sobre o desenvolvimento da nova integração de pagamento e os passos necessários para a migração das configurações em sua loja.</div>
 
 O boleto bancário é uma das formas de pagamento mais populares no Brasil. Apesar de não apresentar a mesma praticidade dos cartões de crédito, muitos compradores a consideram uma opção mais segura e acessível para adquirir bens de valor elevado. Dessa maneira, disponibilizar o boleto bancário é uma boa opção para aumentar as vendas no e-commerce.
 
@@ -61,10 +63,11 @@ Após o recebimento do seu certificado digital, o Santander iniciará a próxima
 
 Para fazer a configuração na VTEX, tenha em mãos os dados fornecidos pelo banco na contratação do serviço, seu certificado digital no formato PFX e a senha do certificado e siga as instruções abaixo:
 
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Acesse a aba **Afiliações de Gateways** e clique no ícone <img src="https:https://images.ctfassets.net/alneenqid6w5/4oUB04BWtdR3i6mYdYISFX/a47b099664e386416b0962c13ee00ddc/image1.png" alt="Botão verde de afiliação" style="width: 23px;" /> e escolha o conector __Boleto Santander__.
-3. Escolha o __Nome da afiliação__ que preferir e selecione o modo de __Teste__.
-4. Preencha as configurações da tabela abaixo com os dados da sua empresa, as configurações do boleto, os dados fornecidos pelo Santander e seu certificado digital. Não se esqueça de __Salvar__ ao concluir o preenchimento.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __BankInvoiceSantander__ na barra de busca e clique sobre o nome do provedor.
+4. Escolha o __Nome da afiliação__ que preferir e selecione o modo de __Teste__.
+5. Preencha as configurações da tabela abaixo com os dados da sua empresa, as configurações do boleto, os dados fornecidos pelo Santander e seu certificado digital. Não se esqueça de __Salvar__ ao concluir o preenchimento.
 
     | | |
     |-------------------------|---------------------------------------------------------------------------------------------------|
@@ -83,10 +86,10 @@ Se a geração de boletos em ambiente de teste for validada pelo Santander, voc�
 
 Para finalizar a configuração do boleto registrado Santander e disponibilizar este meio de pagamento na sua loja, você deve fazer um último teste:
 
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Acesse a aba **Afiliações de Gateways** e escolha a afiliação configurada na etapa de homologação do __Boleto Santander__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Digite o nome __BankInvoiceSantander__ na barra de busca e clique sobre o nome do provedor. 
 3. Selecione o modo de __Live/Produção__ e clique no botão __Salvar__.
-4. Acesse *Condições de pagamento* e clique na condição configurada na etapa de homologação do __Boleto Santander__. Ative-a para que a opção de Boleto Bancário possa aparecer no checkout da sua loja
+4. Acesse *Condições de pagamento* e clique na condição configurada na etapa de homologação do __Boleto Santander__. Ative-a para que a opção de Boleto Bancário possa aparecer no checkout da sua loja.
 5. Faça uma compra de teste, escolhendo o Boleto Bancário no checkout da sua loja. __Não se esqueça de desativar a condição de pagamento quando terminar__.
 6. Pague o boleto da compra e verifique se o valor correspondente é creditado na sua conta, através do Internet Banking.
 

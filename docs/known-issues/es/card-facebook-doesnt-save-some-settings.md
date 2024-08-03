@@ -3,8 +3,8 @@ title: 'La pantalla de integración de facebook no guarda algunos ajustes'
 id: 4MTMozT5bmub7Y96TXCl09
 status: PUBLISHED
 createdAt: 2022-03-23T18:52:58.216Z
-updatedAt: 2022-12-02T18:05:07.099Z
-publishedAt: 2022-12-02T18:05:07.099Z
+updatedAt: 2024-02-16T20:26:09.791Z
+publishedAt: 2024-02-16T20:26:09.791Z
 firstPublishedAt: 2022-03-23T18:52:58.849Z
 contentType: knownIssue
 productTeam: Connections
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Connections
 slug: la-pantalla-de-integracion-de-facebook-no-guarda-algunos-ajustes
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 548763
 ---
 

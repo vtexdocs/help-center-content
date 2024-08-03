@@ -3,8 +3,8 @@ title: 'Como funciona uma Política Comercial'
 id: 6Xef8PZiFm40kg2STrMkMV
 status: PUBLISHED
 createdAt: 2021-05-25T20:05:42.155Z
-updatedAt: 2022-12-08T14:39:11.093Z
-publishedAt: 2022-12-08T14:39:11.093Z
+updatedAt: 2024-06-20T22:52:38.544Z
+publishedAt: 2024-06-20T22:52:38.544Z
 firstPublishedAt: 2021-05-25T20:17:12.408Z
 contentType: tutorial
 productTeam: Others
@@ -33,7 +33,12 @@ Confira como diferentes configurações da VTEX se relacionam com políticas com
 
 Para [contratar políticas comerciais adicionais](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta solicitar via ticket em [*Suporte*](https://help.vtex.com/pt/support), selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`, o tempo estimado de resposta (SLA) é de 48 horas úteis.
 
-A contratação de política comercial adicional para integrar com [conector nativo](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?#integrado-a-conector-nativo-vtex), [conector certificado (parceiro)](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete#integrado-a-conector-certificado-parceiro) ou outras lojas VTEX é isenta de taxas.
+A contratação de política comercial adicional para integrar com [conector certificado](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402?&utm_source=autocomplete#integrado-a-conector-certificado-parceiro) ou outras lojas VTEX é isenta de taxas.
+
+Cada cliente na plataforma VTEX é regido por um contrato que define os parâmetros para a contratação de políticas comerciais. Essas políticas são projetadas para oferecer benefícios específicos, complementando a política comercial nativa incluída automaticamente em cada conta. A VTEX estabelece [Regras de Cobrança](#regras-de-cobranca) e [Regras de Isenção](#regras-de-isencao) para algumas políticas comerciais adicionais, promovendo o fortalecimento das integrações dentro do seu ecossistema.
+
+<div class=alert alert-warning>
+Se a mesma política comercial for usada em um conector certificado e em um conector parceiro, não há isenção de taxas.</div>
 
 ## Catálogo
 Ao [cadastrar produtos](https://help.vtex.com/pt/tutorial/cadastrando-produtos--tutorials_2567) no catálogo, é possível restringir sua disponibilidade para determinadas políticas comerciais. Dessa forma, o catálogo é segmentado de acordo com diferentes estratégias de negócio. Essas estratégias podem incluir a segmentação de produtos por região, para um marketplace, ou para tipos específicos de clientes, como funcionários, por exemplo. Saiba mais sobre a configuração do [catálogo](https://help.vtex.com/pt/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ).
@@ -62,6 +67,14 @@ Para clientes com muitas subcontas, ou com operação de loja física que possib
 </div>
 
 O excesso de políticas comerciais em um ambiente VTEX faz com que o processo de indexação de produtos na vitrine da loja e a simulação de frete no checkout fiquem mais lentos, possivelmente afetando a conversão de pedidos. Ao segmentar o catálogo por múltiplas políticas comerciais em vez de criar store names com inventário próprio, a loja também pode perder oportunidades de venda e melhores condições de entrega, ao restringir a oferta de produtos. Saiba mais sobre [como criar um store name](https://help.vtex.com/pt/tutorial/como-criar-um-store-name).
+
+## Regras de Cobrança
+Cada cliente VTEX possui valores estabelecidos em seu contrato para a contratação de políticas comerciais adicionais e essas possuem custo. Ressaltamos que cada conta na VTEX já possui uma [política comercial nativa](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV?&amp;utm_source=autocomplete), que não se enquadra nessas regras de cobrança.
+
+A Política Comercial será passível de cobrança a partir do momento da sua criação mesmo que não haja pedidos sendo realizados. Caso seja totalmente utilizada para integrações diretas com lojas VTEX ou Marketplaces certificados, a bonificação ocorrerá automaticamente na fatura.
+
+## Regras de Isenção
+As regras de isenção das políticas comerciais são um benefício estratégico concedido pela VTEX, visando incentivar o fortalecimento das integrações dentro do nosso ecossistema. Essas regras podem ser atualizadas ao longo do tempo. Hoje a isenção é aplicada para as políticas que possuem pedidos em conector certificado ou integração direta com outras lojas VTEX.
 
 ## Saiba mais
 

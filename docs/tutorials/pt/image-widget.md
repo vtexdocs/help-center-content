@@ -3,8 +3,8 @@ title: 'Reutilizando imagens com o Image Widget'
 id: 7pRSVI2xXpQUzjUZj0m4ov
 status: PUBLISHED
 createdAt: 2021-06-30T18:06:46.531Z
-updatedAt: 2023-03-28T13:24:31.101Z
-publishedAt: 2023-03-28T13:24:31.101Z
+updatedAt: 2024-03-27T14:07:43.190Z
+publishedAt: 2024-03-27T14:07:43.190Z
 firstPublishedAt: 2021-07-02T21:20:16.653Z
 contentType: tutorial
 productTeam: VTEX IO
@@ -42,11 +42,11 @@ Agora que você sabe como acessar o Image Widget, verifique o que você pode faz
 
 Depois de [acessar Image Widget](#acessando-image-widget) e com ele aberto você consegue adicionar imagens:
 
-<div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding-left: 5px">
+<div class="alert alert-warning">
 Ao adicionar novas imagens no modal Image Widget usando um <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-workspace">development workspace</a>, as configurações performadas serão salvas diretamente em master, ou seja, imediatamente refletirão no modal da sua loja.
 </div>
 <br>
-<div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding-left: 5px">
+<div class="alert alert-warning">
   O tamanho máximo que o Image Widget suporta é 4 MB por arquivo.
 </div>
 
@@ -65,12 +65,13 @@ Dentro do modal, alguns dos recursos que você possui são um campo para busca d
 Além disso, [adicionando uma imagem](#adicionando-uma-imagem) em seu modal, agora você pode visualizar, copiar a URL de uma imagem, fazer o download e excluí-las de seu repositório.
 
 Com o modal aberto, clique em `mais ações` na miniatura de uma imagem.
-| Opções     | Descrição     |
-| ---------- | ---------- |
+
+| Opções     | Descrição                                          |
+| ---------- | -------------------------------------------------- |
 | __Antevisão__  | Abre uma nova página para mostrar uma prévia da imagem. |
 | __Copiar URL__ | Permite que você copie o URL da imagem e use-a em outras partes da sua loja.    |
-| __Baixar__ | Baixe a imagem para o seu computador. |
-| __Excluir__| Remove a imagem do repositório. |
+| __Baixar__     | Baixe a imagem para o seu computador.              |
+| __Excluir__    | Remove a imagem do repositório.                    |
 
 ### Substituindo uma imagem
 
@@ -85,7 +86,7 @@ No bloco que você deseja substituir uma imagem:
 
 Para remover uma imagem do bloco desejado, clique em `Mais ações` na miniatura de uma imagem e selecione __remover__. Após esse procedimento, a imagem não estará mais visível no bloco.
 
-<div style="background-color:#FCF8F2; border-left: 2px solid #F0AD4E; border-top-left-radius: 2px; border-bottom-left-radius: 2px; padding-left: 5px; margin-bottom: 10px">
+<div class="alert alert-warning">
   Quando você remove uma imagem, isso não significa que ela seja excluída do repositório. Para isso, verifique a seção <a href="#recursos-dentro-do-image-widget">Recursos dentro do Image Widget</a>.
 </div>
 

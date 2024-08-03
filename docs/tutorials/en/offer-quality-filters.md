@@ -1,10 +1,10 @@
 ---
 title: 'Offer Quality Filters'
 id: 4xm0gi8leCyxHj8YdgHSJH
-status: CHANGED
+status: PUBLISHED
 createdAt: 2023-02-27T12:15:26.682Z
-updatedAt: 2023-05-30T21:12:51.762Z
-publishedAt: 2023-02-28T13:45:44.808Z
+updatedAt: 2024-06-20T21:38:38.621Z
+publishedAt: 2024-06-20T21:38:38.621Z
 firstPublishedAt: 2023-02-27T19:32:00.584Z
 contentType: tutorial
 productTeam: Channels
@@ -12,7 +12,7 @@ author: 0QBQws7rk0t5Mnu8fgfUv
 slug: offer-quality-filters
 locale: en
 legacySlug: offer-quality-filters
-subcategory: 4hU8QWlzhxWg711Kz7Gmib
+subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---
 
 [Marketplaces](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#being-a-vtex-marketplace) need to review and approve offers submitted by sellers to add products to the catalog. In the VTEX Admin, this [cataloging process](https://help.vtex.com/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396) is done through the Received SKUs page.

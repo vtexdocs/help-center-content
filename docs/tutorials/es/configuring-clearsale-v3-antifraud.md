@@ -1,10 +1,10 @@
 ---
 title: 'Configurar antifraude ClearSale v3'
 id: 2pPORygesIqQOa6cIG6agg
-status: PUBLISHED
+status: CHANGED
 createdAt: 2017-10-30T14:10:20.822Z
-updatedAt: 2021-12-15T21:23:21.984Z
-publishedAt: 2021-12-15T21:23:21.984Z
+updatedAt: 2024-04-24T18:52:20.944Z
+publishedAt: 2024-04-24T18:49:44.223Z
 firstPublishedAt: 2017-10-30T14:26:53.089Z
 contentType: tutorial
 productTeam: Financial
@@ -15,22 +15,32 @@ legacySlug: configurar-antifraude-clearsale-v3
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Para habilitar el antifraude ClearSale v3, debes [añadir la afiliación de gateway](https://help.vtex.com/es/tutorial/afiliaciones-de-gateway--tutorials_444) en la sección de Pagos eligiendo la opción **ClearSaleV3**. La configuración de la afiliación de ClearSale v3 contiene los siguientes campos:
+En VTEX es posible integrarse con el [antifraude](https://help.vtex.com/es/tutorial/como-configurar-antifraude--tutorials_446) ClearSaleV3. A través de este sistema es posible aumentar el nivel de seguridad en las transacciones de pago realizadas en tu tienda mediante análisis de riesgos que identifican posibles fraudes.
 
-- **Login**: Login.
-- **Password**: Contraseña.
-- **Custom SLA en minutos** (opcional):  Número de minutos que ClearSale tendrá para procesar el análisis de fraude.
-- **Producto** (opcional): Valor numérico. Corresponde al ID del producto contratado en la clearsale.
-- **Transaction currency**: Moneda.
-- **Observation** (opcional): Texto abierto para enviar a ClearSale como nota.
-- **Enviar transacciones autenticadas?**: Tiene las opciones **Sí** y **No**. Las transacciones autenticadas son aquellas con pagos verificados con una contraseña usando el programa 3DSecure.
+Para configurar ClearSaleV3 siga los pasos a continuación:
 
-<div class = "alert alert-info">
-La documentación de ClearSale acerca de <a href="https://api.clearsale.com.br/docs/finger-print" target="_blank"> FingerPrint </a> explica en detalle el script de abajo.
-</div>
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __ClearSaleV3__ en la barra de búsqueda y haga clic en el nombre del proveedor.
+4. Si desea modificar el nombre de identificación que se mostrará para el proveedor PagoEfectivoV2 en la pantalla VTEX Admin, ingrese la información en el campo __Nombre__ en __Información general__.
+5. En __Control de pago__, seleccione si desea activar el proveedor en un entorno de prueba haciendo clic en __Activar modo de prueba__.
+6. Complete la siguiente información de acuerdo con su configuración de ClearSale:
+<br>
+<ul>
+<br>
+  <li><b>Login</b>: login.</li>
+  <li><b>Password</b>: contraseña.</li>
+  <li><b>SLA personalizado en minutos (opcional)</b>: período en el que ClearSale tendrá que procesar el análisis de fraude.</li>
+  <li><b>Producto (opcional)</b>: valor numérico. Corresponde al ID del producto contratado en ClearSale.</li>
+  <li><b>Transaction currency</b>: moneda en la que se realiza la transacción.</li>
+  <li><b>Observation (opcional)</b>: texto abierto para enviar a ClearSale como nota.</li>
+  <li><b>¿Enviar transacciones autenticadas?</b>: indica si las transacciones de pago deben autenticarse con una contraseña en el programa 3DSecure.</li>
+</ul>
+7. Haga clic en `Guardar`.
 
-<div class="alert alert-warning">
-Si desea configurar el antifraude <strong>ClearSale T</strong>, siga este <a href="http://help.vtex.com/es/tutorial/como-configurar-antifraude">paso a paso</a>.
+<div class="alert alert-info">
+<p>Si tiene una aplicación móvil que utiliza API de VTEX en el momento del pago, es necesario implementar la recolección de datos de huellas dactilares para enviarlos a Clearsale, según la plataforma utilizada por la aplicación. Obtenga más información en <a href="https://api.clearsale.com.br/docs/behavior-analytics" target="_blank">Clearsale Behavior Analytics</a>.</p>
+  <p>Con la implementación del SDK es necesario recolectar el valor de <span class="bg-muted-4">sessionId</span> y enviarlo en el <span class="bg-muted-4">deviceFingerprint</span> a través de la <a href="https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments">API al momento de crear el pago</a>.</p>  
 </div>
 
 ## Creación de la etiqueta de Google Tag Manager
@@ -63,7 +73,7 @@ La configuración del antifraude ClearSale v3 requiere la creación de una etiqu
 10. Hacer clic en el botón __Crear Tag__, insertar un nombre para esta tag y guardar.
 11. En la esquina superior derecha, hacer clic en __Publicar__.
 
-![Pasted image at 2017 10 20 01 11 PM](//images.contentful.com/alneenqid6w5/2kdI4xh9IYwKI2mSiU20yW/b850c070cc8de2ec09e690ffe6cc9c15/Pasted_image_at_2017_10_20_01_11_PM.png)
+![Pasted image at 2017 10 20 01 11 PM](https://images.contentful.com/alneenqid6w5/2kdI4xh9IYwKI2mSiU20yW/b850c070cc8de2ec09e690ffe6cc9c15/Pasted_image_at_2017_10_20_01_11_PM.png)
 
 ## Detalles del campo customSLA
 

@@ -3,8 +3,8 @@ title: 'Registrar kit'
 id: tutorials_215
 status: PUBLISHED
 createdAt: 2017-04-27T22:13:50.843Z
-updatedAt: 2023-03-29T14:48:43.077Z
-publishedAt: 2023-03-29T14:48:43.077Z
+updatedAt: 2024-05-06T14:40:12.311Z
+publishedAt: 2024-05-06T14:40:12.311Z
 firstPublishedAt: 2017-04-27T23:02:48.663Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -61,22 +61,18 @@ Después de crear el producto que se convertirá en el Kit, deben asociarse los 
 
 El peso del Kit estará conformado por la suma del peso de sus componentes. Editar el peso directamente en la página del Kit no surtirá efectos en la plataforma. La simulación de coste de envío sigue la misma regla.
 
-## Inventario
+## Stock
 
-El inventario del Kit siempre será el inventario de sus componentes. Es decir, no es posible ingresar inventario apenas en el Kit, es necesario que se ingrese inventario en cada uno de sus componentes independientes, a fin de actualizar el inventario del Kit.
+El [stock](https://help.vtex.com/es/tutorial/inventory-management--tutorials_139) del Kit siempre será el inventario de sus componentes. Es decir, no es posible ingresar stock apenas en el Kit, es necesario que se ingrese stock en cada uno de sus componentes independientes, a fin de actualizar el stock del Kit. Esa información es visualizada en tu Admin VTEX en **Catálogo > Stock > Gestión del stock**.
 
-Esa información es visualizada en __Inventario y envío > Inventario__:
+Como todos los SKUs componentes del Kit solo pueden venderse juntos, el stock será igual al SKU con menos ítems en stock. Esto porque no puede comprarse el Kit cuando uno de los componentes ya no tiene stock.  
 
-![05-Administrar inventario por Kit ES](https://images.ctfassets.net/alneenqid6w5/4qlUYLkF1YyaAkQqyQkEKO/25614dccff3abf9ed8c52e06890d2fb9/05-manage_inventory_by_kit_ES.gif)
+Ejemplo: El Kit tiene dos componentes. El componente 1 tiene 30 unidades en stock. El componente 2 tiene 3 unidades en stock. Solo podrán venderse 3 unidades del Kit.
 
-Como todos los SKUs componentes del Kit solo pueden venderse juntos, el inventario será igual al SKU con menos ítems en inventario. Esto porque no puede comprarse el Kit cuando uno de los componentes ya no tiene inventario.  
-
-Ejemplo: El Kit tiene dos componentes. El componente 1 tiene 30 unidades en inventario. El componente 2 tiene 3 unidades en inventario. Solo podrán venderse 3 unidades del Kit.
-
-Los componentes del Kit pueden estar en distintos inventarios, siempre que se envíen desde el mismo muelle. Si no salen por el mismo muelle, todo el Kit deja de estar disponible. 
+Los componentes del Kit pueden estar en distintos stocks, siempre que se envíen desde el mismo muelle. Si no salen por el mismo muelle, todo el Kit deja de estar disponible. 
 
 <div class="alert alert-info">
-<p>Este escenario no ocurre con Kit Look, porque el Kit Look puede venderse con los componentes que quedan en inventario, sin necesidad de tener todos los componentes del Kit con inventario.</p>
+<p>Este escenario no ocurre con Kit Look, porque el Kit Look puede venderse con los componentes que quedan en stock, sin necesidad de tener todos los componentes del Kit con stock.</p>
 </div>
 
 ## Precio

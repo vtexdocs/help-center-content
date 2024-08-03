@@ -3,8 +3,8 @@ title: 'Puntos de recogida'
 id: 2fljn6wLjn8M4lJHA6HP3R
 status: PUBLISHED
 createdAt: 2020-07-01T19:16:21.675Z
-updatedAt: 2023-03-29T19:48:10.418Z
-publishedAt: 2023-03-29T19:48:10.418Z
+updatedAt: 2023-07-25T16:53:09.640Z
+publishedAt: 2023-07-25T16:53:09.640Z
 firstPublishedAt: 2020-07-01T19:25:40.136Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -80,4 +80,4 @@ VTEX considera que el punto de recogida es una forma de envío. Es por eso que l
 
 6. Para configurar la cantidad de puntos de recogida que se muestran en el checkout:
     - Paso 1: En el Admin VTEX, accede a **Configuración de la tienda > Envío > Configuración**, o escribe *Envío* en la barra de búsqueda en la parte superior de la página, y haga clic en *Configuración de la tienda / Envío*.    
-    - Paso 2: Cambia el campo **Configuración de los puntos de recogida**. Utiliza los botones <i class="far fa-caret-square-up"></i> y <i class="far fa-caret-square-down"></i> y selecciona los puntos de recogida que estarán disponibles en la lista de búsqueda (mostrada en el checkout).
+    - Paso 2: Cambia el campo **Configuración de los puntos de recogida**. Utiliza los botones <i class="far fa-caret-square-up"></i> y <i class="far fa-caret-square-down"></i> y selecciona la cantidad de puntos de recogida que estarán disponibles en la lista de búsqueda (mostrada en el checkout).

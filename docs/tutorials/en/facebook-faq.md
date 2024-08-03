@@ -53,7 +53,7 @@ This process is recommended for authentication issues concerning the Facebook in
 
 #### Deleting VTEX integration app on Facebook 
 1. Deleting VTEX integration app on Facebook 
-2. In the upper right corner of the screen, **click the button** <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/7bplP3pn7Pu5gpfYKGHUjQ/688fda65e48070afcf18f57e396c2b22/sua_conta_fb.JPG" />
+2. In the upper right corner of the screen, **click the button** <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/7bplP3pn7Pu5gpfYKGHUjQ/688fda65e48070afcf18f57e396c2b22/sua_conta_fb.JPG" />
 3.  Select **Settings and Privacy**, then click on **Settings**.
 4.  Click on **Business integrations**.
 5.  Select VTEX Integration and click **Remove**.
@@ -62,7 +62,7 @@ This process is recommended for authentication issues concerning the Facebook in
 1. Go to [Facebook Business Manager](https://business.facebook.com/).
 2. Click on **Settings**.
 3. Click on **Business Settings**.
-4. Select the VTEX catalog you would like to delete and click on the trash can icon <img class="shadow-4" src="https:https://images.ctfassets.net/alneenqid6w5/6zFRTeiTa9xkTlafUVBIcK/d2c5a40219dbee8084d22f76d0b88109/excluir_fb.JPG" />
+4. Select the VTEX catalog you would like to delete and click on the trash can icon <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/6zFRTeiTa9xkTlafUVBIcK/d2c5a40219dbee8084d22f76d0b88109/excluir_fb.JPG" />
 5. Click **Confirm**.
 
 #### Deleting Facebook integration on VTEX

@@ -3,8 +3,8 @@ title: 'Preços'
 id: tutorials_4393
 status: PUBLISHED
 createdAt: 2017-04-27T21:50:28.982Z
-updatedAt: 2021-12-20T21:12:57.515Z
-publishedAt: 2021-12-20T21:12:57.515Z
+updatedAt: 2023-08-21T17:24:39.459Z
+publishedAt: 2023-08-21T17:24:39.459Z
 firstPublishedAt: 2017-04-27T23:11:16.737Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,8 +15,8 @@ legacySlug: precos-v2
 subcategory: 3pGCbMh80UueoeSqoAgSuS
 ---
 
-Na nova versão da lista de preços, o gerenciamento dos preços é realizado no *módulo Pricing*. 
-O módulo que cuida das taxas e promoções da plataforma VTEX é o *Promoções e Taxas*.
+Na nova versão da lista de preços, o gerenciamento dos preços é realizado no módulo Preços. 
+O módulo que cuida das taxas e promoções da plataforma VTEX é o Promoções.
 
 Algumas das vantagens da nova lista de preços são:
 

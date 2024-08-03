@@ -56,7 +56,7 @@ In this section, you need to add at least one trade policy to apply to the produ
 
 In this step, you must write a description with the main information related to the product. The text should contain a clear and simple product description. This is a rich text editor, which means that you can use several formatting features using the toolbar, as illustrated below.
 
-![richtext-EN](//images.contentful.com/alneenqid6w5/5qza9JxGS1DIAKpZ6LkAwC/2e79ac8b7ddffefc466714db3046c29c/richttext-EN.gif)
+![richtext-EN](https://images.contentful.com/alneenqid6w5/5qza9JxGS1DIAKpZ6LkAwC/2e79ac8b7ddffefc466714db3046c29c/richttext-EN.gif)
 
 Here are the features available:
 
@@ -89,7 +89,7 @@ To add images to the product, follow the instructions below:
 
 To rearrange the images and change their display order on the product page, you can click on an image and then drag and drop it to a certain position, as shown below.
 
-![imagens-sku-EN](//images.contentful.com/alneenqid6w5/oJHgJiv7E7RZFb7XeubfA/dba3c742cdb200d0a65cd0aa5ad70b1b/imagens-sku-EN.gif)
+![imagens-sku-EN](https://images.contentful.com/alneenqid6w5/oJHgJiv7E7RZFb7XeubfA/dba3c742cdb200d0a65cd0aa5ad70b1b/imagens-sku-EN.gif)
 
 You can change information by clicking the <i class="fas fa-ellipsis-v"></i> button in the row of each image, which opens a menu with the following options:
 
@@ -124,7 +124,7 @@ For example, a cosmetic store could configure attribute groups of a perfume as s
   1. Fixation time: long
   2. Application type: spray
 
-![atributo-EN](//images.contentful.com/alneenqid6w5/4k55tsjwIBJU1f5e2ifTmW/d083207baba781dccb4f8166f08820fc/atributo-EN.gif)
+![atributo-EN](https://images.contentful.com/alneenqid6w5/4k55tsjwIBJU1f5e2ifTmW/d083207baba781dccb4f8166f08820fc/atributo-EN.gif)
 
 After you have made the desired changes in the attribute dashboard, save the information.
 
@@ -198,7 +198,7 @@ By clicking on the button, you can perform the following actions:
   * **Select images:** select images corresponding to the variation. To select an image, just click on it. If you want to select all images at once, use the keyboard shortcut `Ctrl` + `A`.
   * **Apply to multiple variations:** you can add the selected images to multiple variations. To do so, click on `Apply to multiple variations +` and select the values of the specifications your image relates to. For example, for an image of beige sneakers, you should select the `beige` option from the `color` specification. The image will then apply to all variations whose `color` specification has the value `beige`, regardless of any other specifications you have set. 
 
-![variacoes-EN](//images.contentful.com/alneenqid6w5/1CNiASM7uobd4NUXK6Q4Wy/3c7324d43747404d6a2b09690dce2f49/variacoes-EN.gif)
+![variacoes-EN](https://images.contentful.com/alneenqid6w5/1CNiASM7uobd4NUXK6Q4Wy/3c7324d43747404d6a2b09690dce2f49/variacoes-EN.gif)
 
   * **Add images:** on this page, you can also upload new images by clicking on the `Add images` button or by dropping image files into the dotted space.
 * **Deactivate:** deactivate the SKU.
@@ -211,7 +211,7 @@ By clicking on the button, you can perform the following actions:
 
 You can view and edit all information and images related to each product variation in the variations advanced editing dashboard, illustrated below.
 
-![Advanced editing EN](//images.contentful.com/alneenqid6w5/11lFaBFxSswNbDDqgdcMbi/8a1bd4a197cb37abb2c609fad88cb1b4/Screenshot_13.png)
+![Advanced editing EN](https://images.contentful.com/alneenqid6w5/11lFaBFxSswNbDDqgdcMbi/8a1bd4a197cb37abb2c609fad88cb1b4/Screenshot_13.png)
 
 In the **Variations** section on the left side of the dashboard, you will find the list of variations of your product. To edit a specific variation, click on it.
 
@@ -251,7 +251,7 @@ The way you fill in the fields in this section affects how the product will be r
 
 By filling out the SEO fields, a preview of your product in Google's results will be displayed. See an example in the image below.
 
-![SEO-EN](//images.contentful.com/alneenqid6w5/3oL8DjR85z8zbkhBcjO1sW/1fcfa63c213107f343d80f01871eeed6/Screenshot_9.png)
+![SEO-EN](https://images.contentful.com/alneenqid6w5/3oL8DjR85z8zbkhBcjO1sW/1fcfa63c213107f343d80f01871eeed6/Screenshot_9.png)
 
 ## Storefront
 

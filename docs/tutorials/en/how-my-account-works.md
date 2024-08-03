@@ -3,8 +3,8 @@ title: 'How My Account works'
 id: 2BQ3GiqhqGJTXsWVuio3Xh
 status: PUBLISHED
 createdAt: 2019-04-11T21:14:26.117Z
-updatedAt: 2023-04-24T23:39:56.581Z
-publishedAt: 2023-04-24T23:39:56.581Z
+updatedAt: 2023-12-21T14:09:42.863Z
+publishedAt: 2023-12-21T14:09:42.863Z
 firstPublishedAt: 2019-05-21T19:48:15.019Z
 contentType: tutorial
 productTeam: Identity
@@ -77,6 +77,10 @@ The `Add address` button allows customers to include new addresses besides the o
 
 ## Orders
 
+<div class = "alert alert-info">
+In <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>, customers can only access their orders from the last two years.
+</div>
+
 This section displays a list of all orders placed by the customer in your store. The list is sorted by creation date and displays details such as order date, total price of the order, order ID, status, and items purchased.
 
 ![orders EN](https://images.ctfassets.net/alneenqid6w5/1VTgMxrq3WI02LZt21wuw6/29e797af3e99000a06d906bf5e3ae0d1/orders_EN.png)
@@ -115,7 +119,12 @@ The `More options` button allows customers to change their order information, su
 
 ## Credit cards
 
-In the **Credit cards** section, the customer has autonomy to manage credit cards in their account. They can include and edit the credit card data saved at checkout. To add new cards, follow the steps below:
+In the **Credit cards** section, the customer has autonomy to manage the credit cards related to his account through the following actions:
+
+- Add new cards
+- Remove cards with an expired expiration date
+
+To add new cards, follow the steps below:
 
 1. Open **My Account** in the store.
 2. Click the **Credit cards** tab.

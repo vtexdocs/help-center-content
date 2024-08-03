@@ -101,7 +101,7 @@ Para excluir um SKU da lista, basta clicar no botão vermelho ao lado do SKU cor
 
 Apesar dos filtros de grupos serem muito práticos para criar agrupamentos de produtos de forma automática, é possível que eles não atendam as suas necessidades em situações específicas. Para resolver isso, é possível importar uma listagem com os SKUs que farão parte do grupo e consequentemente, da coleção. O módulo de Coleções aceita arquivos nos formatos planilha do Excel (.xls). Todos os IDs dos SKUs devem estar dispostos na primeira coluna, com o cabeçalho, como exemplifica a figura abaixo:
 
-  ![2017-03-08_170117](//images.contentful.com/alneenqid6w5/kZmLZpVL44Uci86aOciEW/a94cb2d1b8cb7e687d1ef625120a1a6b/2017-03-08_170117.jpg)
+  ![2017-03-08_170117](https://images.contentful.com/alneenqid6w5/kZmLZpVL44Uci86aOciEW/a94cb2d1b8cb7e687d1ef625120a1a6b/2017-03-08_170117.jpg)
 
 Depois que a planilha for importada pelo sistema, os SKUs são apresentados da seguinte maneira:
 
@@ -119,7 +119,7 @@ Para evitar que um administrador tenha que excluir manualmente diversos SKUs, um
 
 ![Excluir_lista_de_skus](https://images.ctfassets.net/alneenqid6w5/7fkP3OAKk0Kq0SYM8aAw6M/37026d5804485392c3dac490adad7b40/Excluir_lista_de_skus.gif)
 
-Obtenha um modelo de arquivo para a importação tanto para inclusão quanto para exclusão de itens na coleção [aqui](//assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls "aqui").
+Obtenha um modelo de arquivo para a importação tanto para inclusão quanto para exclusão de itens na coleção [aqui](https://assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls "aqui").
 
 ### Pesquisar coleções
 

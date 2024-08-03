@@ -1,10 +1,10 @@
 ---
 title: 'Módulo Gestión de anuncios'
 id: 7MRb9S78aBdZjFGpbuffpE
-status: PUBLISHED
+status: DRAFT
 createdAt: 2021-03-17T00:44:49.452Z
-updatedAt: 2023-03-31T04:39:55.235Z
-publishedAt: 2023-03-31T04:39:55.235Z
+updatedAt: 2024-06-20T21:34:27.585Z
+publishedAt: 
 firstPublishedAt: 2021-03-17T01:05:49.343Z
 contentType: tutorial
 productTeam: Channels
@@ -14,6 +14,13 @@ locale: es
 legacySlug: lista-de-anuncios
 subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---
+
+<div class="alert alert-info">
+Para evolucionar su experiencia al sincronizar y actualizar anuncios, el equipo de VTEX está desarrollando una nueva funcionalidad que sustituirá el módulo de <b>Gestión de anuncios</b>.
+Por este motivo, Gestión de anuncios no recibirá más actualizaciones ni mantenimiento.
+Para conectores y marketplaces que ya se integraron con el módulo, comuníquese con nuestro equipo de desarrollo por email <a href="taissa.araujo@vtex.com.br">taissa.araujo@vtex.com.br</a>.
+Para los conectores interesados en comenzar la integración, les pedimos que esperen el lanzamiento del nuevo módulo, tan pronto como esté disponible, notificaremos a todos los clientes a través del <a href="https://developers.vtex.com/updates/release-notes">Developer Portal</a> y el <a href="https://help.vtex.com/pt/en/announcements">VTEX Help Center</a>.
+ </div>  
 
 El módulo **Gestión de anuncios** permite a los _sellers_ hacer el seguimiento del envío y la sincronización de los anuncios de las integraciones con los canales de venta. En VTEX, un anuncio es un SKU cuyo precio y stock fueron configurados por un _seller_ y que fue enviado a un canal de ventas.
 

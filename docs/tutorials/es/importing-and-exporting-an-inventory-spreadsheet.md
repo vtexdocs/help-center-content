@@ -3,8 +3,8 @@ title: 'Importar y exportar plantilla de stock'
 id: tutorials_2034
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:43.488Z
-updatedAt: 2023-03-29T14:51:46.368Z
-publishedAt: 2023-03-29T14:51:46.368Z
+updatedAt: 2023-07-24T15:03:49.647Z
+publishedAt: 2023-07-24T15:03:49.647Z
 firstPublishedAt: 2017-04-27T23:03:50.695Z
 contentType: tutorial
 productTeam: Post-purchase

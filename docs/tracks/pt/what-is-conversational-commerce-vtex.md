@@ -1,10 +1,10 @@
 ---
 title: 'O que é Conversational Commerce VTEX?'
 id: 1NwwADrU70v3roPUV7dWxI
-status: PUBLISHED
+status: DRAFT
 createdAt: 2022-08-23T14:47:50.242Z
-updatedAt: 2023-04-18T15:02:45.235Z
-publishedAt: 2023-04-18T15:02:45.235Z
+updatedAt: 2024-01-05T17:13:58.076Z
+publishedAt: 
 firstPublishedAt: 2022-08-23T17:46:55.444Z
 contentType: trackArticle
 productTeam: Shopping

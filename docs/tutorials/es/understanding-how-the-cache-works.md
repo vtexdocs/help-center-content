@@ -63,7 +63,7 @@ Si el valor está rellenado con “HIT”, significa que el contenido exhibido e
 
 Otra información relevante que puede ser identificada en los headers de los **requests** es la fecha en la que el cache fue creado. Esa información está disponible en la propiedad `X-vtex-processed-at`.
 
-![](//images.contentful.com/alneenqid6w5/5GPSsb4UWA28QS4soyguSI/8772946997cc979ddf9c2297f2ca8bb6/cache.png)
+![](https://images.contentful.com/alneenqid6w5/5GPSsb4UWA28QS4soyguSI/8772946997cc979ddf9c2297f2ca8bb6/cache.png)
 
 Pese a que archivos javascript y CSS también tienen la duración de cache establecida, como este tipo de archivos se usa en la dormitación de los layouts y, por eso, en algunos casos, necesitan una actualización más ágil, el portal posee una inteligencia que identifica modificaciones en sus contenidos, rompiendo con la capa de cache. 
 

@@ -3,8 +3,8 @@ title: 'Issue on translating titles for some facets'
 id: iG3Kb1AfH7QIqYn1ewnuw
 status: PUBLISHED
 createdAt: 2023-03-22T19:26:31.477Z
-updatedAt: 2023-03-22T19:26:31.933Z
-publishedAt: 2023-03-22T19:26:31.933Z
+updatedAt: 2023-10-27T00:51:10.361Z
+publishedAt: 2023-10-27T00:51:10.361Z
 firstPublishedAt: 2023-03-22T19:26:31.933Z
 contentType: knownIssue
 productTeam: Intelligent Search
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: issue-on-translating-titles-for-some-facets
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 776353
 ---
 
@@ -35,9 +35,5 @@ Check the path that is being mounted also check if the store is multilanguage, a
 ## Workaround
 
 
-There's none
-
-
-
-
+N/A
 

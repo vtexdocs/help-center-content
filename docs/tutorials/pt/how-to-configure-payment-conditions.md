@@ -1,10 +1,10 @@
 ---
 title: 'Configurar condições de pagamento'
 id: tutorials_455
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-04-27T22:04:07.105Z
-updatedAt: 2023-03-21T21:01:23.792Z
-publishedAt: 2023-03-21T21:01:12.557Z
+updatedAt: 2023-10-18T17:17:55.702Z
+publishedAt: 2023-10-18T17:17:55.702Z
 firstPublishedAt: 2017-04-27T23:03:26.687Z
 contentType: tutorial
 productTeam: Financial

@@ -3,8 +3,8 @@ title: 'Criar e editar usuário'
 id: 5enE0a0glnI0coEj7rRHBA
 status: PUBLISHED
 createdAt: 2019-11-22T15:16:38.307Z
-updatedAt: 2022-08-24T14:23:48.018Z
-publishedAt: 2022-08-24T14:23:48.018Z
+updatedAt: 2024-06-17T15:10:57.072Z
+publishedAt: 2024-06-17T15:10:57.072Z
 firstPublishedAt: 2020-01-13T14:33:11.563Z
 contentType: trackArticle
 productTeam: Identity
@@ -23,7 +23,7 @@ Também é possível cadastrar e gerenciar __usuários__ por meio do módulo Ger
 1.  No módulo Gerenciamento da conta, clique na aba **Usuários**.  
 2.  Clique no botão **Novo usuário**.  
 3.  Preencha o **Email** e o **Nome Completo**.  
-4.  Adicione ou crie os [perfis de acesso](https://help.vtex.com/pt/tutorial/como-criar-perfil-de-acesso/) desejados.  
+4.  Adicione ou crie os [perfis de acesso](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512) desejados.  
 5.  Clique no botão **Salvar**.
 
 O usuário irá receber um e-mail confirmando o cadastro, com um link para cadastrar a senha de acesso.

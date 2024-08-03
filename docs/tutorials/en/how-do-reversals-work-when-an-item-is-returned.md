@@ -3,8 +3,8 @@ title: 'Refund function when item is returned'
 id: frequentlyAskedQuestions_298
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:51.904Z
-updatedAt: 2021-08-12T18:29:59.905Z
-publishedAt: 2021-08-12T18:29:59.905Z
+updatedAt: 2024-02-28T17:25:13.906Z
+publishedAt: 2024-02-28T17:25:13.906Z
 firstPublishedAt: 2019-01-24T21:55:16.859Z
 contentType: tutorial
 productTeam: Financial
@@ -17,7 +17,7 @@ subcategory: 3Gdgj9qfu8mO0c0S4Ukmsu
 
 When a request is made for the [partial or total return of items](/en/tutorial/returning-order-items) in orders paid using a credit card or other payments **except "boleto"** (popular Brazilian off-line payment method), the Orders Management contacts Payments requesting the chargeback for the items to be returned.
 
-In such cases, VTEX sends the refund to the acquirer when the value has already been billed (`Billed` status). It works in the following way: VTEX gets in touch with the acquirer and tries to solve the refund online as soon as possible.
+In such cases, VTEX sends the refund to the acquirer when the value has already been billed (`Invoiced` status). It works in the following way: VTEX gets in touch with the acquirer and tries to solve the refund online as soon as possible.
 
 However, if this operation is not successful, an [e-mail notification](/en/tutorial/how-to-configure-notifications/) will be sent, informing the retailer to get in touch with the acquirer in order to make the automatic refund.
 

@@ -1,10 +1,10 @@
 ---
 title: 'Visão Geral Catálogo'
 id: FFrumKPYFpvIWKRXfhQYp
-status: PUBLISHED
+status: DRAFT
 createdAt: 2023-03-28T17:25:52.296Z
-updatedAt: 2023-03-28T17:31:02.205Z
-publishedAt: 2023-03-28T17:31:02.205Z
+updatedAt: 2024-03-14T16:38:37.477Z
+publishedAt: 
 firstPublishedAt: 2023-03-28T17:31:02.205Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -23,8 +23,6 @@ O menu **Catálogo** contém as funcionalidades referentes ao sortimento de prod
 - **Especificações:** propriedades cadastradas em um produto para definir as características específicas das variações.  
 
 O menu **Catálogo** do Admin VTEX reúne as páginas onde você gerencia catálogo, preços e inventário do seu ecommerce.
-
-![visao-geral-produto-PT](//images.contentful.com/alneenqid6w5/6hg7IQ4sv6sphRtywSsDMQ/e5cf20175dc73345dbf7c9330fcf29e4/image.png)
 
 Confira abaixo mais detalhes sobre as diferentes seções e páginas deste menu.
 

@@ -117,6 +117,6 @@ The plug-in has been developed to help you install the form on the template. To 
 - jQuery
 - Bootstrap
 
-[For more details access the attached example](//assets.contentful.com/alneenqid6w5/4rfOv1xQoEuwWYS0sq24QM/3099aa480d85a9ca4d2ce50dfef64a68/contactMasterData.zip "For more details access the attached example").
+[For more details access the attached example](https://assets.contentful.com/alneenqid6w5/4rfOv1xQoEuwWYS0sq24QM/3099aa480d85a9ca4d2ce50dfef64a68/contactMasterData.zip "For more details access the attached example").
 
 __Important__: This plug-in has been developed to help you create the Talk to Us form using Master Data. VTEX **DOES NOT** offer support for this extension and its code is open, so it can be altered and adapted.

@@ -1,10 +1,10 @@
 ---
 title: 'Configurar política comercial para marketplace'
 id: tutorials_404
-status: PUBLISHED
+status: CHANGED
 createdAt: 2017-04-27T22:06:38.350Z
-updatedAt: 2022-12-08T17:30:09.288Z
-publishedAt: 2022-12-08T17:30:09.288Z
+updatedAt: 2024-06-14T14:19:35.130Z
+publishedAt: 2024-05-15T00:18:56.253Z
 firstPublishedAt: 2017-04-27T23:03:23.796Z
 contentType: tutorial
 productTeam: Channels
@@ -30,7 +30,9 @@ Vea cómo se pueden configurar las políticas comerciales en los siguientes mód
 
 Para [contratar políticas comerciales adicionales](https://help.vtex.com/es/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), póngase en contacto con nuestro equipo de Growth Operations en *[Soporte](https://help.vtex.com/es/support)* seleccionando la opción **Comercial** y el tipo de solicitud `Creación de Política Comercial`.
 
-La contratación de políticas comerciales adicionales para integración con un [conector nativo](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex), un [conector certificado (partner)](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-certificado-partner) u otras tiendas VTEX está exenta de la cuota mensual.
+La contratación de políticas comerciales adicionales para integración con un [conector nativo](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex), un [conector certificado](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-certificado-partner) u otras tiendas VTEX está exenta de la cuota mensual.
+
+<div class=alert alert-warning> Si se aplica la misma política comercial a un conector certificado y a un conector asociado, no hay exención de tarifas.</div>
 
 ## Configuración de la tienda 
 La creación de una nueva política comercial es el primer paso para definir las condiciones aplicadas a cada *marketplace* en el que opera un *seller*. Los *sellers* pueden crear múltiples políticas comerciales o pueden aplicar la misma política en más de un *marketplace*. 

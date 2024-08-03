@@ -87,7 +87,7 @@ Para agregar imágenes al producto, siga las instrucciones a continuación:
 
 Puede hacer clic en una imagen y arrastrarla para posicionarla antes o después de las otras si desea reorganizar las imágenes y cambiar el orden de visualización en la página del producto, como se ilustra a continuación.
 
-![imagens-sku-ES](//images.contentful.com/alneenqid6w5/ePL8umUhPBzy7RCTx6blG/75dba8571076bf8e2d972da51a02c224/imagens-sku-ES.gif)
+![imagens-sku-ES](https://images.contentful.com/alneenqid6w5/ePL8umUhPBzy7RCTx6blG/75dba8571076bf8e2d972da51a02c224/imagens-sku-ES.gif)
 
 Puede modificar la información de cada imagen haciendo clic en el botón <i class="fas fa-ellipsis-v"></i> en la fila de cada una, esto abre un menú con las siguientes opciones.
 
@@ -122,7 +122,7 @@ Ejemplo: una tienda de cosméticos puede configurar los grupos de atributos de u
   1. Tiempo de fijación: largo.
   2. Tipo de aplicación: spray.
 
-![atributo-ES](//images.contentful.com/alneenqid6w5/8NYBzqEEONslutbIBciw1/6ecfe23b8462b39921ce748bef78e640/atributo-ES.gif)
+![atributo-ES](https://images.contentful.com/alneenqid6w5/8NYBzqEEONslutbIBciw1/6ecfe23b8462b39921ce748bef78e640/atributo-ES.gif)
 
 Después de realizar los cambios deseados en el panel de atributos, haga clic en `Aplicar`.
 
@@ -196,7 +196,7 @@ Al hacer clic en el botón <i class="fas fa-ellipsis-v"></i>, puede realizar las
   * **Seleccionar imágenes:** seleccione las imágenes correspondientes a la variación. Para seleccionar una imagen, basta con hacer clic en ella. Si quiere seleccionar todas las imágenes a la vez, puede utilizar el acceso directo pulsando `Ctrl` + `A` en el teclado.
   * **Aplicar a múltiples variaciones:** si lo desea, puede aplicar las imágenes seleccionadas a múltiples variaciones. Para eso, haga clic en `Aplicar a múltiples variaciones +` y seleccione los valores de las especificaciones relacionadas con su imagen. Por ejemplo: si la imagen es de una zapatilla deportiva de color beige, debe seleccionar la opción `beige` de la especificación `color` en este campo. Con esta configuración, la imagen se aplicará a todas las variaciones cuya especificación de `color` tenga el valor `beige`, independientemente de otras especificaciones configuradas, como el `tamaño`. La siguiente imagen ilustra este flujo de configuración.
 
-![variacoes-ES](//images.contentful.com/alneenqid6w5/3xeQNRanqPwUZazIEdPjT6/5ddd5e6421a9edd14151e4fd893af09c/variacoes-ES.gif)
+![variacoes-ES](https://images.contentful.com/alneenqid6w5/3xeQNRanqPwUZazIEdPjT6/5ddd5e6421a9edd14151e4fd893af09c/variacoes-ES.gif)
 
   * **Agregar imágenes:** en este panel, también se puede cargar nuevas imágenes haciendo clic en el botón `Agregar imágenes` o arrastrando y soltando los archivos de imagen en el espacio delimitado por la línea punteada.
 * **Desactivar:** desactive la variación en su tienda. 
@@ -208,7 +208,7 @@ Al hacer clic en el botón <i class="fas fa-ellipsis-v"></i>, puede realizar las
 ### Edición avanzada
 El panel de edición avanzada de variaciones, que se ilustra a continuación, permite ver y editar toda la información y las imágenes relacionadas con cada variación del producto. 
 
-![Edición avanzada ES](//images.contentful.com/alneenqid6w5/3euZICBWkiKr0l6qu4bZ5R/11d449c231ffefe0794b93c6d395ef92/Screenshot_14.png)
+![Edición avanzada ES](https://images.contentful.com/alneenqid6w5/3euZICBWkiKr0l6qu4bZ5R/11d449c231ffefe0794b93c6d395ef92/Screenshot_14.png)
 
 En la sección **Variaciones**, en el lado izquierdo del panel, encontrará la lista de variaciones de su producto. Para editar una variación específica, debe hacer clic en ella.
 
@@ -248,7 +248,7 @@ La manera de completar los campos de esta sección influye en la posición que e
 
 Al rellenar los campos de SEO, se puede observar, en el lado derecho, la vista previa del producto en los resultados de Google. A continuación, vea un ejemplo de cómo completar tales campos.
 
-![SEO-ES](//images.contentful.com/alneenqid6w5/1Mf7tKJD1xvZt4sieGdBSc/2c2d8a5672aa52dc79fb56671c1ca0bb/Screenshot_11.png)
+![SEO-ES](https://images.contentful.com/alneenqid6w5/1Mf7tKJD1xvZt4sieGdBSc/2c2d8a5672aa52dc79fb56671c1ca0bb/Screenshot_11.png)
 
 ## Storefront
 

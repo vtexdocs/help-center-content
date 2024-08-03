@@ -3,8 +3,8 @@ title: 'Configurar o antifraude'
 id: tutorials_446
 status: PUBLISHED
 createdAt: 2017-04-27T22:05:02.912Z
-updatedAt: 2023-03-29T00:57:28.767Z
-publishedAt: 2023-03-29T00:57:28.767Z
+updatedAt: 2024-03-13T12:04:32.047Z
+publishedAt: 2024-03-13T12:04:32.047Z
 firstPublishedAt: 2017-04-27T23:03:25.730Z
 contentType: tutorial
 productTeam: Financial
@@ -15,22 +15,24 @@ legacySlug: como-configurar-antifraude
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Antifraude é um sistema externo que identifica fraudes e dá mais segurança para as compras realizadas. Na VTEX, você pode escolher algumas opções de antifraude para usar em sua loja. E configurá-las é bem fácil.
+Antifraude é um sistema externo que identifica fraudes e permite aumentar a segurança em transações de pagamento realizadas em compras online. Na VTEX, você pode escolher algumas opções de provedores de antifraude para usar em sua loja. 
 
-## Como configurar
+Para configurar um provedor de antifraude, siga os passos abaixo:
 
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Acesse a aba **Afiliações de Gateways**.
-3. Clique em **+**.
-4. Clique sobre o antifraude que deseja configurar.
-5. Preencha os campos do formulário com os dados indicados pelo antifraude (EntityCode).
-6. Clique no botão **Salvar**.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o provedor de antifraude desejado na barra de busca e clique sobre o seu nome.
+4. Preencha os campos do formulário com os dados indicados pelo provedor de antifraude.
+5. Clique em `Salvar`.
 
-Após a configuração em Afiliação de Gateways, é preciso entrar nas condições de pagamento e associar o antifraude em cada um deles.
+Após habilitar o provedor de antifraude, você precisa associá-lo a uma ou mais condições de pagamento. Para realizar esta operação, siga os passos abaixo:
 
-1. Acesse a aba **Condições de Pagamento**.
-2. Clique sobre a condição desejada ou [crie a condição de pagamento](/pt/tutorial/condicoes-de-pagamento).
-3. Selecione a opção **Usar antifraude**.
-4. Selecione qual antifraude deseja utilizar.
-5. Clique no botão **Salvar**.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
+2. Na aba __Condições de Pagamentos__, clique no botão `+`.
+3. Clique sobre o meio de pagamento desejado.
+4. Preencha o campo __Nome da condição__ com um nome de sua preferência para identificação.
+5. Ative a condição no campo __Status__.
+6. Em __Processar com o provedor__ selecione o provedor de pagamento desejado.
+7. Em __Usar solução antifraude__, selecione o provedor de antifraude habilitado anteriormente, caso o mesmo esteja disponível para utilização neste meio de pagamento.
+8. Clique em `Salvar`.
 

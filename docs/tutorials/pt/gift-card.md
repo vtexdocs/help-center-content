@@ -1,10 +1,10 @@
 ---
-title: 'Configurar Vale-compra'
+title: 'Configurar Vale-presente'
 id: tutorials_995
-status: PUBLISHED
+status: CHANGED
 createdAt: 2017-04-27T21:57:54.816Z
-updatedAt: 2023-04-27T17:11:31.494Z
-publishedAt: 2023-04-27T17:11:31.494Z
+updatedAt: 2024-01-19T19:16:50.349Z
+publishedAt: 2024-01-12T12:46:20.978Z
 firstPublishedAt: 2017-04-27T23:03:42.674Z
 contentType: tutorial
 productTeam: Financial
@@ -15,42 +15,43 @@ legacySlug: gift-card
 subcategory: 3qWeS7abxCyC0G0GMq42gA
 ---
 
-O GiftCard, vale presente ou vale-compra é um dos recursos do módulo de Pagamentos que pode funcionar de duas formas:
+O GiftCard ou vale-presente é um dos recursos do módulo de Pagamentos que pode funcionar de duas formas:
 
 - Meio de pagamento para compras; 
 - Programa de fidelidade que o lojista pode conectar com o sistema VTEX. 
 
 Para saber mais detalhes sobre a segunda opção de uso, verifique nossa documentação técnica sobre [como integrar com o GiftCard](https://help.vtex.com/pt/tutorial/integrando-com-gift-card?locale=pt "como integrar com o GiftCard").   
 
-## Como criar o Vale-compras pelo Admin
+## Como criar o Vale-presente pelo Admin
 
-Por padrão VTEX, o vale-compras é considerado como uma forma de pagamento. Esse produto conta com um valor nominal que pode ser utilizado no ato da compra para abater parte do valor de um pedido.
+Por padrão VTEX, o vale-presente é considerado como uma forma de pagamento. Esse produto conta com um valor nominal que pode ser utilizado no ato da compra para abater parte do valor de um pedido.
 
-Para criar um novo vale-compra, confira o passo a passo:
+Para criar um novo vale-presente, confira o passo a passo:
 <ol>
   <li>No Admin VTEX, acesse <b>Promoções > Vales-presente</b>, ou digite <b>Vales-presente</b> na barra de busca no topo da página.</li> 
   <br>
   <li>Clique no botão azul <b>Criar vale</b>.</li>  
   <br>
 <div class = "alert alert-info">
-  <p>Na página de preenchimento, o campo <b>Vale-presente</b> corresponde ao ID do vale. Este é gerado automaticamente pelo sistema da VTEX e será exibido no SmartCheckout (para vales que não são associados a um CPF ou CNPJ exclusivo).</p>
+  <p>Na tela de criação do vale, o campo <b>Vale-presente</b> é automaticamente preenchido pelo sistema VTEX com o código ID do novo vale. Esse é o código a ser inserido pelo cliente na tela do checkout para aplicar o vale-presente no carrinho e reduzir o valor de pagamento do pedido.</p>
 </div>
 <br>
   <li>Preencha os demais campos apresentados conforme as orientações abaixo:</li>
   <br>
 <ul>
   <li><b>Valor</b>: valor nominal que será concedido para o uso do vale.</li>
+  <li><b>Código da moeda</b>: moeda na qual o vale será criado. As opções disponíveis para seleção são apresentadas de acordo com as políticas comerciais de cada loja.</li>
   <li><b>Data de expiração</b>: trata-se da data de vigência da utilização do vale.</li>
   <li><b>CPF/CNPJ Cliente</b>: dado que identifica e define o vale para um específico cliente.</li>
   <li><b>Coleção</b>: determina a coleção de produtos que define os itens em que o vale poderá ser aplicado.</li>
 </ul><br>
 
 <div class="alert alert-warning">
-<strong>Atenção</strong>: o preenchimento dos campos “Valor” e “Data de expiração” é <strong>obrigatório</strong>. Caso o contrário, o vale-compra não será salvo.
+<strong>Atenção</strong>: o preenchimento dos campos “Valor” e “Data de expiração” é <strong>obrigatório</strong>. Caso o contrário, o vale-presente não será salvo.
 </div>
 
 <div class="alert alert-danger">
-A funcionalidade de criação de vale-compras limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo <a href="https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank">Restricting the use of GiftCards to a collection of products does not work</a>.
+A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo <a href="https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank">Restricting the use of GiftCards to a collection of products does not work</a>.
 </div>
 
 Depois de preencher os campos corretamente, o usuário poderá assinalar até três opções de configuração: 
@@ -67,9 +68,9 @@ Não há limite para a criação de vales, porém apenas 8000 vales podem ser ex
 
 </ol>
 
-## Como criar um lote de Vale-compras pelo Admin
+## Como criar um lote de Vales-presente pelo Admin
 
-Para criar mais de um vale-compra ao mesmo tempo (um lote), confira o passo a passo:
+Para criar mais de um vale-presente ao mesmo tempo (um lote), confira o passo a passo:
 <ol>
   <li>No Admin VTEX, acesse <b>Promoções > Vales-presente</b>, ou digite <b>Vales-presente</b> na barra de busca no topo da página.</li> 
   <br>
@@ -78,17 +79,18 @@ Para criar mais de um vale-compra ao mesmo tempo (um lote), confira o passo a pa
   <li>Preencha os campos apresentados conforme as orientações abaixo:</li>  
 <br>
 <ul>
-  <li><b>Quantidade de vales-presente</b>: este é o número de vales que você deseja criar em um mesmo lote. Um número máximo de 500 (quinhentos) vales podem ser criados por lote;</li>
+  <li><b>Quantidade de vales-presente</b>: este é o número de vales que você deseja criar em um mesmo lote. Um número máximo de 500 (quinhentos) vales podem ser criados por lote.</li>
   <li><b>Valor</b>: valor nominal que será concedido para todos os vales do lote.</li>
+  <li><b>Código da moeda</b>: moeda na qual os vales serão criados em lote. As opções disponíveis para seleção são apresentadas de acordo com as políticas comerciais de cada loja.</li>
   <li><b>Data de expiração</b>: trata-se da data de vigência da utilização de todos os vales do lote.</li>
   <li><b>Coleção</b>: determina a coleção de produtos que define os itens em que os vales poderão ser aplicados.</li>
   <br>
   <div class="alert alert-warning">
-<strong>Atenção</strong>: o preenchimento dos campos “Quantidade de vales-presente”, “Valor” e “Data de Validade” é <strong>obrigatório</strong>. Caso o contrário, os vales-compra não serão salvos.
+<strong>Atenção</strong>: o preenchimento dos campos “Quantidade de vales-presente”, “Valor” e “Data de Validade” é <strong>obrigatório</strong>. Caso o contrário, os vales-presente não serão salvos.
 </div>
 <br>
   <div class="alert alert-danger">
-A funcionalidade de criação de vale-compras limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo <a href="https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank">Restricting the use of GiftCards to a collection of products does not work</a>.
+A funcionalidade de criação de vales-presente limitados por coleções de produtos não está funcionando. Mais informações sobre este problema podem ser encontrados no artigo <a href="https://help.vtex.com/en/known-issues/restricting-the-use-of-giftcards-to-a-collection-of-products-does-not-work--7kdbZUdscJLo1sGY6bo1jp" target="_blank">Restricting the use of GiftCards to a collection of products does not work</a>.
 </div>
 <br>
   <li><b>Recarregável</b>: enquanto estes vales estiverem disponíveis, seus saldos poderão ser alterados.</li>
@@ -96,7 +98,7 @@ A funcionalidade de criação de vale-compras limitados por coleções de produt
 </ul><br>  
   <li>Clique no botão <b>Salvar</b>.</li>
 <br>
-Uma nova tela irá aparecer confirmando que foram gerados o número de vales-compras solicitados e os respectivos códigos de identificação serão apresentados.<br> 
+Uma nova tela irá aparecer confirmando que foram gerados o número de vales-presentes solicitados e os respectivos códigos de identificação serão apresentados.<br> 
 <br>
   <li>Por fim, clique no botão <b>Voltar</b>.</li>
 <br>
@@ -105,11 +107,11 @@ Não há limite para a criação de vales, porém apenas 8000 vales podem ser ex
 </div>
 </ol>
 
-## Como configurar o Vale-compra como meio de pagamento
+## Como configurar o Vale-presente como meio de pagamento
 
-Perfeito! Agora que o seu vale-compra foi criado, é preciso configurá-lo como meio de pagamento. Isso fará com que o Gift Card seja exibido no Checkout e, assim, seus clientes poderão finalizar pedidos usando o crédito do vale.
+Após a criação do vale-presente, é necessário configurá-lo como meio de pagamento. Desta forma, seus clientes poderão utilizá-lo no Checkout.
 
-Acompanhe as instruções:
+Siga os passos abaixo para configurar o vale-presente:
 
 1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
 2. Na aba __Condições de pagamento__, clique no botão `+`.
@@ -119,7 +121,7 @@ Acompanhe as instruções:
 6. Em __Processar com afiliação__, selecione o provedor de giftcard desejado.
 7. Clique em `Salvar`.
 
-Além disso, você ainda pode definir condições especiais de pagamento para o vale-compra. Não há limite de condições de podem ser aplicadas a um meio de pagamento e especificamos como configurar cada uma delas [aqui](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456?locale=pt "aqui."). 
+Além disso, você ainda pode definir condições especiais de pagamento para o vale-presente. Não há limite de condições de podem ser aplicadas a um meio de pagamento e especificamos como configurar cada uma delas [aqui](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456?locale=pt "aqui."). 
 
 Por fim, clique no botão azul Salvar.
 

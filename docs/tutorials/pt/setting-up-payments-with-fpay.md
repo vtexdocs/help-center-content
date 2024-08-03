@@ -3,8 +3,8 @@ title: 'Configurar pagamento com Fpay'
 id: 6BaLIO2R7tOh6E1MmNoDXj
 status: PUBLISHED
 createdAt: 2022-10-18T19:13:32.326Z
-updatedAt: 2023-03-21T20:52:34.889Z
-publishedAt: 2023-03-21T20:52:34.889Z
+updatedAt: 2024-01-24T17:26:52.492Z
+publishedAt: 2024-01-24T17:26:52.492Z
 firstPublishedAt: 2022-10-18T19:42:03.523Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pagamento-com-fpay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o gateway Fpay. Com este conector, sua loja pode realizar vendas por meio de promissórias.
+Na VTEX, é possível realizar a integração com o gateway Fpay. Por meio deste provedor, sua loja pode realizar vendas por meio de promissórias.
 
-Para configurar a afiliação Fpay, siga os passos abaixo:
+Para configurar Fpay, siga os passos abaixo:
 
-1. No Admin VTEX, acesse **Configurações da loja** > **Pagamentos** > **Configurações**, ou digite **Configurações** na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão `+`.
-3. Clique no conector __Fpay__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __Fpay__ na barra de busca e clique sobre o nome do provedor.
 4. Preencha os campos __Application Key__ e __Application Token__ com as informações da sua conta Fpay.
 5. Clique em `Salvar`.
 

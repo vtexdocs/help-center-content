@@ -1,10 +1,10 @@
 ---
 title: 'Abrir tikets para el soporte financiero de VTEX'
 id: 1ad3TguXzCSKq4yuYSK80c
-status: CHANGED
+status: PUBLISHED
 createdAt: 2018-04-04T13:58:56.872Z
-updatedAt: 2020-11-27T19:40:27.285Z
-publishedAt: 2020-03-09T18:09:31.386Z
+updatedAt: 2024-07-29T22:02:21.897Z
+publishedAt: 2024-07-29T22:02:21.897Z
 firstPublishedAt: 2018-04-04T19:53:34.588Z
 contentType: tutorial
 productTeam: Billing
@@ -40,6 +40,7 @@ Para abrir un ticket, simplemente haga clic en el botón __Enviar una solicitud_
 Usted será llevado al formulario de envío de ticket, donde debe llenar:
 - Su nombre.
 - La cuenta VTEX a la que se refiere el ticket (el formulario carga una lista con las cuentas a las que tiene acceso. Si no tiene acceso a ninguna cuenta de VTEX, no puede abrir tickets).
+- El número de registro de su negocio (por ejemplo: CUIT en Argentina).
 - Que tu pregunta es financiera.
 - El tema.
 - La descripción de la pregunta o del problema.

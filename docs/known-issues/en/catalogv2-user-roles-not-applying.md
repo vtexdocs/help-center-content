@@ -3,8 +3,8 @@ title: 'CatalogV2 User Roles not Applying'
 id: 3cDaOuqpAJyCL5JOMzD5nL
 status: PUBLISHED
 createdAt: 2022-02-25T12:18:17.776Z
-updatedAt: 2022-11-25T21:55:04.311Z
-publishedAt: 2022-11-25T21:55:04.311Z
+updatedAt: 2024-02-16T20:26:53.078Z
+publishedAt: 2024-02-16T20:26:53.078Z
 firstPublishedAt: 2022-02-25T12:18:18.632Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: catalogv2-user-roles-not-applying
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 489297
 ---
 

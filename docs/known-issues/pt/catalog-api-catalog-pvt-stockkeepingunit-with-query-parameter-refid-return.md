@@ -3,8 +3,8 @@ title: 'Catalog API /catalog/pvt/stockkeepingunit with query parameter refId ret
 id: 71Y9CFaM10xaVyQkcgKydQ
 status: PUBLISHED
 createdAt: 2022-01-21T15:28:34.187Z
-updatedAt: 2022-12-22T15:16:11.363Z
-publishedAt: 2022-12-22T15:16:11.363Z
+updatedAt: 2024-02-16T20:24:19.402Z
+publishedAt: 2024-02-16T20:24:19.402Z
 firstPublishedAt: 2022-12-22T15:16:11.363Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: catalog-api-catalog-pvt-stockkeepingunit-with-query-parameter-refid-return
 locale: pt
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 388869
 ---
 

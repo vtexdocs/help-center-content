@@ -3,8 +3,8 @@ title: "Changing a SKU's price"
 id: tutorials_95
 status: PUBLISHED
 createdAt: 2017-04-27T22:19:48.759Z
-updatedAt: 2023-03-30T16:36:10.950Z
-publishedAt: 2023-03-30T16:36:10.950Z
+updatedAt: 2024-01-05T17:59:41.793Z
+publishedAt: 2024-01-05T17:59:41.793Z
 firstPublishedAt: 2017-04-27T23:00:42.506Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -35,14 +35,14 @@ This updating normally occurs where a quick adjustment is needed to the SKU pric
 2. Enter the ID of the SKU whose **SKU** field you wish to change in **Search**.
 3. Click on the SKU desired. 
 4. Add the **Cost Price ($)** + **Initial Markup (%)** = **Base Price (final value of product to consumer)**.
-5. The information will automatically be saved by closing the tab 
+5. The information will automatically be saved by closing the tab. 
 
 ## Fields of the SKU price change form
 
 These fields represent the information that is changed in any of the three manners mentioned. The difference is that whoever enters data manually, sees this form, when importing a spreadsheet, arranged in columns, while in the case of integration the request structure shows fields in the JSon format.
 
-- **ID:** code of the SKU you accessed
-- **SKU:** name of the SKU
+- **ID:** code of the SKU you accessed.
+- **SKU:** name of the SKU.
 - **Parceiro (utm\_source):** Optional field. This is a parameter for conditioning differentiated pricing, by using it on the site of the utm source registered here.
 - **Campaign Audience (utm\_campaign):** Optional field. This is a parameter for conditioning differentiated pricing, by using it on the site of the utm campaign registered here, which can also be used in e-mail marketing links.
 - **Internal Campaign Audience (utmi\_cp):** Optional field. This is a parameter for conditioning differentiated pricing, by using it on the site of the utm source registered here. Normally used for store employees, when it’s the case of having differentiated purchase conditions.
@@ -77,26 +77,24 @@ Once the e-mail arrives and you download it, only change those SKUs that really 
 
 These are the spreadsheet columns that arrive at the user’s e-mail upon export, as mentioned in the step-by-step procedure above. The text below is exactly how it appears in the spreadsheet. The mandatory completion of each column abides by the same standard as the fields of the form described in the topic mentioned above.
 
-- **StockKeepingUnitId:** id of the SKU;
-- **Source:** utm\_source;
-- **Price:** product selling price;
-- **Id:** Price ID. Do not change this value, otherwise the system will create a new line on the price table and two prices will be registered for the SKU;
-- **StoreId:** id of the sales policy in which the price will be applied. If you have any doubts about the identification code of any policy, access the module E-Commerce &gt; Marketplace &gt; Política Comercial. Check the number that appears in the “Id – Nome” column, this is the code that should be used here;
-- **Medium (Disregard):** Discontinued field;
-- **Campaign:** utm\_campaign;
-- **InternalCampaign:** utmi\_cp;
+- **StockKeepingUnitId:** id of the SKU.
+- **Source:** utm\_source.
+- **Price:** product selling price.
+- **Id:** Price ID. Do not change this value, otherwise the system will create a new line on the price table and two prices will be registered for the SKU.
+- **StoreId:** id of the sales policy in which the price will be applied. If you have any doubts about the identification code of any policy, access the module E-Commerce &gt; Marketplace &gt; Política Comercial. Check the number that appears in the “Id – Nome” column, this is the code that should be used here.
+- **Medium (Disregard):** Discontinued field.
+- **Campaign:** utm\_campaign.
+- **InternalCampaign:** utmi\_cp.
 - **DateFrom:** initial effective date for the price. Fill out in the dd/mm/yyyy format.
 - **DateTo:** final effective date for the price. Fill out in the dd/mm/yyyy format.
-- **ListPrice:** price of, also known as the list price. It is the one that appears crossed out (e.g.: De: R$ 10,00) on the site;
-- **RefId (Unchangeable):** product reference code, as per the product registration. Do not change this value;
-- **Ean13Default (Unchangeable):** product ean, as per the product registration. Do not change this value;
-- **BrandName (Unchangeable):** product brand name, as per the product registration. Do not change this value;
-- **StockKeepingUnitName (Unchangeable):** name of the SKU, as per the product registration. Do not change this value;
+- **ListPrice:** price of, also known as the list price. It is the one that appears crossed out (e.g.: From: $ 10,00) on the site.
+- **RefId (Unchangeable):** product reference code, as per the product registration. Do not change this value.
+- **Ean13Default (Unchangeable):** product ean, as per the product registration. Do not change this value.
+- **BrandName (Unchangeable):** product brand name, as per the product registration. Do not change this value.
+- **StockKeepingUnitName (Unchangeable):** name of the SKU, as per the product registration. Do not change this value.
 - **SellerId:** id of the seller who owns the product. This will only be pre-populated in the event your store is the marketplace of another store.
 
 ## Through integration with ERP
 
-This is usually configured when your store is being set up, and you and your technical team must follow the integration manual to avoid inconsistent integrations or any problem that might adversely affect the information that will be fed into the platform. The price is updated via REST, using the POST method, with the body in the JSon standard.
+This is usually configured when your store is being set up, and you and your technical team must follow the integration manual to avoid inconsistent integrations or any problem that might adversely affect the information that will be fed into the platform. The price update is performade via API, for information, access [Pricing API](https://developers.vtex.com/docs/api-reference/pricing-api#overview).
 
-Check out the API documentation in our Developer Docs:
-https://developers.vtex.com/reference/pricing-api-overview#listorders

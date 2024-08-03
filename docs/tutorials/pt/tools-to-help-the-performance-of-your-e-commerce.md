@@ -1,10 +1,10 @@
 ---
 title: 'Ferramentas para melhorar a performance da loja'
 id: tutorials_4852
-status: PUBLISHED
+status: DRAFT
 createdAt: 2017-04-27T21:49:27.344Z
-updatedAt: 2020-07-26T15:27:37.237Z
-publishedAt: 2020-07-26T15:27:37.237Z
+updatedAt: 2024-03-11T13:20:56.413Z
+publishedAt: 
 firstPublishedAt: 2017-04-27T23:11:17.373Z
 contentType: tutorial
 productTeam: Others

@@ -3,8 +3,8 @@ title: 'Filling in the category registration fields'
 id: 5Z7RrvW41yumyQCmk2iqoG
 status: PUBLISHED
 createdAt: 2017-09-20T14:44:06.897Z
-updatedAt: 2022-08-01T18:47:26.486Z
-publishedAt: 2022-08-01T18:47:26.486Z
+updatedAt: 2024-01-04T14:40:33.174Z
+publishedAt: 2024-01-04T14:40:33.174Z
 firstPublishedAt: 2017-09-20T14:58:27.420Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -40,7 +40,7 @@ To better understand the meaning of each category registration field, see the fu
 - __Active:__ When selecting this item, the category or department is activated or deactivated in your store.
 - __Menu with active link:__ When selecting this item, the category or department is active and clickable on the site for the client to navigate through it.
 - __Brand Filter:__ When selecting this item, the category or department will have a brand filter on the page.
-- __Score (used for search ordering):__ value used to set the priority on the search result page. To understand more about Score, access our article: [How does the score field work?](https://help.vtex.com/en/tutorial/how-does-the-score-field-work--1BUZC0mBYEEIUgeQYAKcaee).
+- __Score (used for search ordering):__ value used to set the priority on the search result page. To understand more about Score, access our article: [How does the score field work?](https://help.vtex.com/en/tutorial/how-does-the-score-field-work--1BUZC0mBYEEIUgeQYAKcae).
 - __Product display mode:__ defines how SKUs will be displayed on the product page. See below the options for this field:
   - __List of SKUs:__ All SKUs in the department or category in question will be displayed in list format. Each one with its Buy button on the side.
   ![1Lista.en](https://images.ctfassets.net/alneenqid6w5/52RUiCTYT5JeL6Huo53nSh/1b3c9713709f10be3e88ae5925128de5/Lista.en.png)

@@ -3,8 +3,8 @@ title: 'El espacio en la identificación del almacén hace que fallen las solici
 id: M8SsnABs2HgYsUvNnjCFx
 status: PUBLISHED
 createdAt: 2022-09-20T21:51:05.157Z
-updatedAt: 2023-01-05T19:34:07.126Z
-publishedAt: 2023-01-05T19:34:07.126Z
+updatedAt: 2024-02-16T20:24:53.145Z
+publishedAt: 2024-02-16T20:24:53.145Z
 firstPublishedAt: 2022-09-20T21:51:05.702Z
 contentType: knownIssue
 productTeam: Logistics
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Logistics
 slug: el-espacio-en-la-identificacion-del-almacen-hace-que-fallen-las-solicitudes-de-logistica-interna
 locale: es
-kiStatus: Fixed
+kiStatus: No Fix
 internalReference: 654370
 ---
 

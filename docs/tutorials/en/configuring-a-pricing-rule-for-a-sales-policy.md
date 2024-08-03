@@ -3,8 +3,8 @@ title: 'Configuring a pricing rule for a sales policy'
 id: 5LQMLwcUcEGCWK6SMI6cEM
 status: PUBLISHED
 createdAt: 2018-03-19T17:49:25.791Z
-updatedAt: 2023-03-29T20:00:47.266Z
-publishedAt: 2023-03-29T20:00:47.266Z
+updatedAt: 2023-08-21T17:23:00.178Z
+publishedAt: 2023-08-21T17:23:00.178Z
 firstPublishedAt: 2018-03-19T18:26:04.279Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -25,7 +25,7 @@ By default, the __base price__ registered for a product is applied to all sales 
 
 To create a pricing rule specific to a sales policy, follow the steps below:
 
-1. In the VTEX Admin, go to *Prices > Price rules*, or type *Price rules* in the search bar at the top of the page.
+1. In the VTEX Admin, go to **Prices > Price rules**, or type **Price rules** in the search bar at the top of the page.
 2. Click on `New rule`.
 3. In the __Trade policy__ field, choose the desired trade policy.
 4. Choose whether the rule will be applied to __all products__ of this policy or __only in categories and brands chosen__.

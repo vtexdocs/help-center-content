@@ -1,10 +1,10 @@
 ---
 title: 'Abrir chamados para o suporte VTEX'
 id: 16yOEqpO32UQYygSmMSSAM
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-11-21T22:18:13.507Z
-updatedAt: 2022-12-16T19:09:29.363Z
-publishedAt: 2022-05-31T21:10:30.601Z
+updatedAt: 2023-12-01T18:51:22.803Z
+publishedAt: 2023-12-01T18:51:22.803Z
 firstPublishedAt: 2017-11-22T02:37:19.330Z
 contentType: tutorial
 productTeam: Others
@@ -17,9 +17,9 @@ subcategory: 1VvCpaa8NCA6a0MK6W6oWg
 
 Todos os clientes têm acesso a atendimento fornecido pelo time de especialistas do [Suporte VTEX](https://help.vtex.com/pt/faq/como-funciona-o-suporte-da-vtex--3kACEfni4m8Yxa1vnf2ebe). Os especialistas estão preparados para proporcionar a melhor experiência possível para a solução dos chamados. Para contatá-los, é necessário abrir um chamado por meio do sistema de tickets.
 
-Este artigo explica como clientes devem abrir chamados no Suporte VTEX e acompanhar o status dos chamados. Para saber mais sobre disponibilidade, tempo estimado de resposta (SLA) e recursos disponíveis para clientes no Brasil, leia o artigo [Suporte VTEX - Brasil](https://help.vtex.com/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9).
+<div class="alert alert-info">É necessário <a href="https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">habilitar a autorização de suporte</a> no <a href="https://help.vtex.com/pt/tutorial/recursos-do-license-manager--3q6ztrC8YynQf6rdc6euk3">License Manager</a> para que o usuário tenha acesso ao Suporte da VTEX. Esta configuração é válida apenas para contas no Brasil.</div>
 
-![DALL-E 3D aesthetic rendering of one male and two female coders typing on a computer pink background](https://images.ctfassets.net/alneenqid6w5/7r6SOrCUNRVbiiVFklLy6w/08a19a4f7191a1abff66f8690eb9bda4/DALL__E_2022-12-16_15.33.39_-_3D_aesthetic_rendering_of_one_male_and_two_female_coders_typing_on_a_computer_pink_background.png)
+Este artigo explica como clientes devem abrir chamados no Suporte VTEX e acompanhar o status dos chamados. Para saber mais sobre disponibilidade, tempo estimado de resposta (SLA) e recursos disponíveis para clientes no Brasil, leia o artigo [Suporte VTEX - Brasil](https://help.vtex.com/pt/faq/suporte-vtex-brasil--5q861sTw1n7H2BENOu7ls9).
 
 Ele está dividido nas etapas a seguir:
 
@@ -141,4 +141,4 @@ Os status possíveis de um chamado são:
 - __Resolvido__: chamado que foi solucionado pelo agente do suporte ou pelo próprio cliente. Após o chamado ser resolvido, o cliente tem 27 horas úteis para reabrir o chamado respondendo o e-mail do Suporte ou entrando no Histórico de solicitações. Caso não o faça, o chamado será fechado.
 - __Fechado__: chamado marcado como Resolvido e, por não ter recebido nova interação após 27 horas úteis, foi automaticamente fechado. Não pode ser reaberto.
 
-Depois que os chamados são resolvidos, a equipe de suporte envia um email para o usuário com o link para uma [Pesquisa de Satisfação](https://help.vtex.com/pt/announcements/avalie-o-atendimento-da-vtex-pelo-seu-admin--7rSJLgGbtRw2GhjTJezkJf). Através dela, é possível avaliar o atendimento do nosso suporte sem sair do ambiente VTEX e nos ajudar a melhorar nossa experiência.
+Depois que os chamados são resolvidos, a equipe de suporte envia um email para o usuário com o link para uma [Pesquisa de Satisfação](https://help.vtex.com/pt/announcements/avalie-o-atendimento-da-vtex-pelo-seu-admin--7rSJLgGbtRw2GhjTJezkJf). Através dela, é possível avaliar o atendimento do nosso suporte sem sair do ambiente VTEX e nos ajudar a melhorar nossa experiência. 

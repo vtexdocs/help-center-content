@@ -3,8 +3,8 @@ title: 'Configurar pago con Shipay'
 id: 2GVBCDdxZPexI2TikFf9Au
 status: PUBLISHED
 createdAt: 2023-03-27T14:40:05.161Z
-updatedAt: 2023-03-27T16:15:57.347Z
-publishedAt: 2023-03-27T16:15:57.347Z
+updatedAt: 2024-01-23T21:27:19.732Z
+publishedAt: 2024-01-23T21:27:19.732Z
 firstPublishedAt: 2023-03-27T14:44:22.502Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pago-con-shipay
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-En VTEX es posible la integración con el proveedor de pagos Shipay. Con este conector, su tienda puede realizar ventas a través de PIX.
+En VTEX es posible la integración con el proveedor de pagos Shipay. Con este proveedor, su tienda puede realizar ventas a través de PIX.
 
-Para configurar la afiliación Shipay, siga los pasos a continuación:
+Para configurar Shipay, siga los pasos a continuación:
 
-1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Configuración__, o escribe __Configuración__ en la barra de búsqueda en la parte superior de la página.
-2. En la pestana __Afiliaciones de Gateway__, haga clic en el botón `+`.
-3. Haga clic en el conector __Shipay__.
+1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.
+2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.
+3. Escriba el nombre __Shipay__ en la barra de búsqueda y haga clic en el nombre del proveedor.
 4. Rellene los campos de registro __Application Token__ y __Application Token__ con los datos proporcionados por su cuenta Shipay.
 5. Si aparece un mensaje de alerta que indica la necesidad de instalar la aplicación, haga clic en el botón `Instalar aplicación` y siga las instrucciones de instalación.
 6. Haga clic en `Guardar`.

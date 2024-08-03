@@ -19,15 +19,15 @@ Consulta customizada es un filtro o un conjunto de filtros que, para serem utili
 
 Para crear una consulta, se hace necesario que [sea realizado un filtro en el listado](/es/tutorial/filtrar-datos-en-el-master-data). Luego de filtrar, _hacer click en el botón **Salvar Consulta** (Guardar Consulta) -> poner un nombre para su consulta -> hacer click en el botón **Salvar** (Guardar)_.
 
-![image00(3)](//images.contentful.com/alneenqid6w5/Cj2YVA2pZ64Sscy0O2MA0/6698a619ebf6041e828b61ef657ceb89/image003.png)
+![image00(3)](https://images.contentful.com/alneenqid6w5/Cj2YVA2pZ64Sscy0O2MA0/6698a619ebf6041e828b61ef657ceb89/image003.png)
 
 Luego, para que la consulta aparezca como una opción de visualización en el listado, hay que recargar la aplicación, en la pestaña **Aplicações**. Haciendo click en el botón **Recarregar aplicações**.
 
-![image02(2)](//images.contentful.com/alneenqid6w5/23qCsgXVSYQYmsS6Ya6eAs/99c65c0009dd7f9e75c1ba4a2cea50cc/image022.png)
+![image02(2)](https://images.contentful.com/alneenqid6w5/23qCsgXVSYQYmsS6Ya6eAs/99c65c0009dd7f9e75c1ba4a2cea50cc/image022.png)
 
 Además de eso, es posible ver todas las consultas guardadas haciendo click en el botón **Consultas**, en el listado del form.
 
-![consulta3](//images.contentful.com/alneenqid6w5/4h0zjZuAc8W8eUaqImo2qg/b1c06c13603d398d1f83bef9f7deb19b/image012.png)
+![consulta3](https://images.contentful.com/alneenqid6w5/4h0zjZuAc8W8eUaqImo2qg/b1c06c13603d398d1f83bef9f7deb19b/image012.png)
 
 También es importante configurar un form para que él siempre te traiga el listado de filtros de consulta. Para eso, ver el paso a paso abajo:
 
@@ -38,4 +38,4 @@ También es importante configurar un form para que él siempre te traiga el list
 5. En la opción **Consulta Padrão**, seleccione la consulta customizada que desea exibir siempre que ingresar en el form.
 6. Hacer click en el botón **Salvar**.
 
-![consulta5](//images.contentful.com/alneenqid6w5/66y0WU112osUwkwuyMquMW/a9143a8ca1aa05bc49cc69d1dd102002/image032.png)
+![consulta5](https://images.contentful.com/alneenqid6w5/66y0WU112osUwkwuyMquMW/a9143a8ca1aa05bc49cc69d1dd102002/image032.png)

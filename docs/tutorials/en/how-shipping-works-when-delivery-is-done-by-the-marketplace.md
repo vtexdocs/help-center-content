@@ -3,8 +3,8 @@ title: ' How shipping works when delivery is done by the marketplace (FOB)'
 id: EY1l6tYW3IUquwwwcQqwQ
 status: PUBLISHED
 createdAt: 2017-08-28T23:17:57.225Z
-updatedAt: 2021-08-11T17:11:00.299Z
-publishedAt: 2021-08-11T17:11:00.299Z
+updatedAt: 2024-02-05T15:48:24.006Z
+publishedAt: 2024-02-05T15:48:24.006Z
 firstPublishedAt: 2017-08-29T20:09:40.790Z
 contentType: tutorial
 productTeam: Channels
@@ -23,7 +23,8 @@ This procedure avoids the order being unnecessarily validated, simplifies the in
 
 The following rules must always be applied when selecting the inventories to serve an SKU:
 
-1. Largest available SKU amount.
+1. Fewest available SKU amount.
+    > _So inventories with small item quantities are not blocked out._ 
 2. Shortest travel time between warehouse and loading dock.
 3. Lowest travel price between warehouse and loading dock.
 
@@ -35,7 +36,7 @@ If an order has several units of an SKU, one of the warehouses must have the ful
 
 Since delivery will be made by the marketplace, the OMS does not indicate delivery time or cost, since this is agreed between upon between the marketplace and the buyer of the product, at no cost to the store. The information pertaining to the deadline, found in the order, is a shipping simulation done when integrating the order, rather than what the marketplace had informed VTEX about.
 
-Instead of carrier identification and the type of delivery, `vtex:fob_1111` is shown, with `1111` being the ID of the warehouse where the SKU has been reserved.
+Instead of carrier identification and the type of delivery, `vtex:fob_1111` is shown, with `1111` being the ID of the loading dock.
 
 ## API
 
@@ -53,4 +54,4 @@ The label can be accessed directly through OMS, under the order list. Just click
 
 ![Delivery label by Correios (BR) - Marketplace](https://images.ctfassets.net/alneenqid6w5/3Xc7eqzjetqNwScoZxkWOK/4b1c70652ae5dc8248c829527d733c65/Screen_Shot_2020-03-25_at_11.43.43.png)
 
-If you want to make use of the label in your ERP, it is also available in the [Orders API](https://developers.vtex.com/reference/orders#getorder), in the `trackingHints` array of the `shippingData` object.
+If you want to make use of the label in your ERP, it is also available in the [Marketplace Protocol API](https://developers.vtex.com/docs/api-reference/marketplace-protocol-external-marketplace-orders#post-/api/order-integration/orders), more information in [New Order Integration](https://developers.vtex.com/docs/guides/external-marketplace-integration-collect-orders#scenario-12-order-with-tracking-hints).

@@ -62,7 +62,7 @@ En ella deben incluirse:
  
 En el Postman, debe insertarse la URL en el campo destacado a continuación:
 
-![APIs1](//images.contentful.com/alneenqid6w5/f53Sv9BCZqK4EI0sYmW8A/63e512b825d47daa2f685ae5bb9df553/APIs1.png)
+![APIs1](https://images.contentful.com/alneenqid6w5/f53Sv9BCZqK4EI0sYmW8A/63e512b825d47daa2f685ae5bb9df553/APIs1.png)
 
 ****
 
@@ -80,7 +80,7 @@ Sin embargo, usted no necesita deducir esto solo. Al poner a disposición una AP
  
 En el Postman, el método es seleccionado a la izquierda del campo de URL.
 
-![APIs2](//images.contentful.com/alneenqid6w5/wDClzNRJDiCE6OKecOAs4/8545dbce3bc2ee546b8cf497750360b5/APIs2.png)
+![APIs2](https://images.contentful.com/alneenqid6w5/wDClzNRJDiCE6OKecOAs4/8545dbce3bc2ee546b8cf497750360b5/APIs2.png)
 
 
 ****
@@ -96,7 +96,7 @@ En el postman, la AppKey y el AppToken deben insertarse en la pestaña **Headers
 
 Para saber como generar su AppKey y su AppToken, ler el artículo [Crear appKey y appToken para autenticar las integraciones](/es/tutorial/crear-appkey-y-apptoken-para-autenticar-las-integraciones).
 
-![APIs3](//images.contentful.com/alneenqid6w5/4z9W9DYJEcYa2WGIoSceEE/166d8adc70a8176af1a7fb04e5cdbb65/APIs3.png)
+![APIs3](https://images.contentful.com/alneenqid6w5/4z9W9DYJEcYa2WGIoSceEE/166d8adc70a8176af1a7fb04e5cdbb65/APIs3.png)
 
 ****
 
@@ -117,7 +117,7 @@ Las APIs de VTEX están disponibles en nuestro Help Center, en la sección [Deve
  
 Ellas quedan divididas por módulo o funcionalidad. Ingresando a uno de éstos, usted encuentra las APIs correspondientes, cada una de ellas acompañada de la indicación del método correcto, URL y Headers. Algunas APIs tienen también el código que debe pasarse en el Body.
  
-![APIs4](//images.contentful.com/alneenqid6w5/1JZCBHsm6UGS2EwuGqoGm4/a61e000b81acd2f06a1021f70c12e31b/APIs4.png)
+![APIs4](https://images.contentful.com/alneenqid6w5/1JZCBHsm6UGS2EwuGqoGm4/a61e000b81acd2f06a1021f70c12e31b/APIs4.png)
  
 A la derecha de esas indicaciones, el Postman exhibe, para cada API, un Sample Request. De acuerdo con el lenguaje elegido en la caja de selección por encima de él, el Sample Request muestra cómo sería la aplicación de la solicitud en el código.
 

@@ -3,8 +3,8 @@ title: 'Mantenimiento de Base de Datos (Full Cleanup)'
 id: 34P9LGs7BCIQK6acQom802
 status: PUBLISHED
 createdAt: 2018-02-07T14:32:22.879Z
-updatedAt: 2022-12-08T22:26:21.443Z
-publishedAt: 2022-12-08T22:26:21.443Z
+updatedAt: 2023-08-02T16:15:41.168Z
+publishedAt: 2023-08-02T16:15:41.168Z
 firstPublishedAt: 2018-02-07T16:44:48.971Z
 contentType: tutorial
 productTeam: Others
@@ -40,10 +40,6 @@ Estas son las operaciones disponibles:
 - __Eliminar Productos/SKU e ítems relacionados:__ al borrar productos y SKU, además de sus ítems relacionados, se eliminarán de forma definitiva de su tienda.
 
 - __Eliminar Categorías, Tags, Campos e Ítems relacionados:__ al borrar categorías, marcas y campos, además de sus ítems relacionados, se eliminarán de forma definitiva de su tienda. Para que la exclusión se produzca, es necesario que antes se borren productos y SKU.
-
-  <div class="alert alert-info">
-    <p>Para los casos en los que se realice la operación <b>Eliminar Productos/SKU e ítems relacionados</b> o <b>Eliminar Categorías, Tags, Campos e Ítems relacionados</b> y la tienda utilice <a href="https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG"VTEX> Intelligent Search</a>, póngase en contacto con nuestro <a href="https://support.vtex.com/hc/es-419/requests">equipo de soporte</a> para realizar un mantenimiento completo de la base de datos.</p>
-  </div>
 
 - __Eliminar sellers e ítems relacionados:__ al borrar sus sellers, además de sus ítems relacionados, se eliminarán de forma definitiva de su tienda.
 

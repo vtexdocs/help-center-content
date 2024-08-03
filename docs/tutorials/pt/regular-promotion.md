@@ -1,10 +1,10 @@
 ---
 title: 'Promoção Regular'
 id: tutorials_327
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-04-27T22:07:59.690Z
-updatedAt: 2022-12-08T19:33:36.098Z
-publishedAt: 2022-08-23T19:50:18.784Z
+updatedAt: 2024-05-15T16:38:18.730Z
+publishedAt: 2024-05-15T16:38:18.730Z
 firstPublishedAt: 2017-04-27T23:03:15.647Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -114,12 +114,12 @@ Para serem válidos na promoção, os produtos precisam atender a todas as condi
 
 O pedido do cliente deve atender às condições cadastradas nesta seção para ser válido na promoção.
 
-- **Valor mínimo e máximo do pedido:** a promoção será aplicada levando em conta o valor "bruto" do carrinho, sem considerar demais promoções ou frete.
+- **Valor mínimo e máximo do pedido:** para promoções de preço que ajustam diretamente o valor dos itens no carrinho, a ativação da promoção é baseada no preço original dos itens. E para promoções que oferecem outros benefícios, como frete gratuito ou brindes, o preço considerado para ativar a promoção é o preço já com descontos aplicados.
 - **Valor acumulado em compras:** o desconto será concedido caso o total de todas as compras já realizadas pelo cliente, esteja atendendo ao valor preenchido.
 - **Valor do item entre:** o desconto será concedido caso o valor do item estiver atendendo ao intervalo de valores preenchidos.
 - **Preço "de" e "por" são iguais** ou **Preço "de" e "por" são diferentes:**  se refere aos valores do cadastro do produto. Somente uma opção pode ser selecionada.
 - **Restrição de Promoção por BIN:** o desconto será concedido caso o BIN do cartão esteja entre os número preenchidos preenchidos.
-- **Marketing Tags:** campo utilizado para restringir a ativação da promoção caso a compra seja realizada pelo [módulo de Assinaturas da VTEX](https://help.vtex.com/pt/tutorial/como-funciona-a-assinatura--frequentlyAskedQuestions_4453#). 
+- **Marketing Tags:** campo utilizado para restringir a ativação da promoção.
 - **Afiliados:** identificador de pedidos do marketplace. O desconto será aplicado nos afiliados selecionados. Veja o artigo [O que é afiliado](https://help.vtex.com/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0?locale=pt) para mais informações.
 - **Cluster de clientes:** o desconto será concedido caso o cliente esteja cadastrado no cluster selecionado. É importante destacar que o nome do cluster deve ser exatamente como cadastrado, qualquer erro de grafia impedirá o funcionamento correto da configuração.
 - **Países de entrega**: o desconto será concedido aos países selecionados neste campo.

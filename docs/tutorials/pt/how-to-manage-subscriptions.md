@@ -3,8 +3,8 @@ title: 'Como gerenciar Assinaturas'
 id: 6Jk50FPbv6iuz1OsFypv8x
 status: PUBLISHED
 createdAt: 2020-02-05T14:18:54.781Z
-updatedAt: 2022-12-05T16:48:31.127Z
-publishedAt: 2022-12-05T16:48:31.127Z
+updatedAt: 2023-12-21T14:08:39.725Z
+publishedAt: 2023-12-21T14:08:39.725Z
 firstPublishedAt: 2020-02-11T14:56:17.333Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -38,6 +38,10 @@ A seção **Assinaturas Únicas** permite:
  ![PT Dashboard Assinatura única](https://images.ctfassets.net/alneenqid6w5/Dbqw5LPyrXvpT3tElkIXY/89e5fa3647a3e02e5b399e464ce03003/PT_Dashboard_Assinatura___nica.png)
 
 ### Pedidos de Assinatura
+
+<div class = "alert alert-info">
+É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo <a href="https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Minha Conta</a>.
+</div>
 
 A seção **Pedidos de Assinatura** permite:
 

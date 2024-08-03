@@ -3,8 +3,8 @@ title: 'Crear clúster de clientes'
 id: frequentlyAskedQuestions_1724
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:58.065Z
-updatedAt: 2022-10-17T21:24:38.123Z
-publishedAt: 2022-10-17T21:24:38.123Z
+updatedAt: 2024-05-24T19:15:04.156Z
+publishedAt: 2024-05-24T19:15:04.156Z
 firstPublishedAt: 2019-01-24T22:05:41.666Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -44,6 +44,6 @@ Técnicamente, un clúster en el CRM es nada más que un campo.
 
 Para rellenar este campo, usted puede usar una [planilla de importación](https://help.vtex.com/es/tutorial/importar-datos-en-el-master-data--tutorials_1135 "Importar datos en el Master Data") o una API, o puede hacerlo manualmente por el formulario Cliente en CRM. Todo depende de la estrategia de la tienda para agrupar a sus clientes.
 
-## Para saber más
+## Más información
 
 - [Crear promoción para un clúster](/es/tutorial/creando-promociones-cluster-clientes)

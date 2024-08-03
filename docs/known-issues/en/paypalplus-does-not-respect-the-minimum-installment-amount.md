@@ -3,8 +3,8 @@ title: 'PayPalPlus does not respect the minimum installment amount'
 id: 1IGzNPtXaaUsPkaq0qRgfK
 status: PUBLISHED
 createdAt: 2022-03-26T23:00:59.044Z
-updatedAt: 2022-11-25T22:06:43.067Z
-publishedAt: 2022-11-25T22:06:43.067Z
+updatedAt: 2024-02-16T20:25:30.693Z
+publishedAt: 2024-02-16T20:25:30.693Z
 firstPublishedAt: 2022-03-26T23:00:59.445Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: paypalplus-does-not-respect-the-minimum-installment-amount
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 370271
 ---
 

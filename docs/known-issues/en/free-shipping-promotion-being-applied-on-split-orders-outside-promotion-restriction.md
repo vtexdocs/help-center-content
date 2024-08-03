@@ -3,8 +3,8 @@ title: 'Free shipping promotion being applied on split orders outside promotion 
 id: APAIGZx8tdtIjGsQJmvgu
 status: PUBLISHED
 createdAt: 2023-01-12T16:19:47.878Z
-updatedAt: 2023-01-12T16:19:48.479Z
-publishedAt: 2023-01-12T16:19:48.479Z
+updatedAt: 2024-02-16T20:23:58.107Z
+publishedAt: 2024-02-16T20:23:58.107Z
 firstPublishedAt: 2023-01-12T16:19:48.479Z
 contentType: knownIssue
 productTeam: Pricing & Promotions
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Pricing & Promotions
 slug: free-shipping-promotion-being-applied-on-split-orders-outside-promotion-restriction
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 732302
 ---
 

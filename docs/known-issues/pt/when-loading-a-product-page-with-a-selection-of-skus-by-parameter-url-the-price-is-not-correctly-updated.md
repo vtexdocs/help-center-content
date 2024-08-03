@@ -22,7 +22,7 @@ Ao acessar uma página de produto com variação (mais de um SKU) com o parâmet
 
 No entanto, se o SKU escolhido (Do parâmetro) estiver indisponível (sem estoque / não entregável), quando o usuário seleciona outro SKU disponível no seletor de SKU, as informações de preço não são exibidas.
 
-![Preço não atualizado com seleção de SKU](//images.contentful.com/alneenqid6w5/1GKcK5NUSoEcmMuesmiGiM/6ddb61d748aa566c6eb5607711a0ae3d/preco.gif)
+![Preço não atualizado com seleção de SKU](https://images.contentful.com/alneenqid6w5/1GKcK5NUSoEcmMuesmiGiM/6ddb61d748aa566c6eb5607711a0ae3d/preco.gif)
 
 ## Simulação
 

@@ -3,8 +3,8 @@ title: 'Dafiti marketplace'
 id: 5lAIj7OCqizD5EisLJvatx
 status: PUBLISHED
 createdAt: 2021-05-26T15:09:29.538Z
-updatedAt: 2021-05-26T15:51:04.313Z
-publishedAt: 2021-05-26T15:51:04.313Z
+updatedAt: 2024-06-26T15:28:29.564Z
+publishedAt: 2024-06-26T15:28:29.564Z
 firstPublishedAt: 2021-05-26T15:28:12.852Z
 contentType: trackArticle
 productTeam: Channels

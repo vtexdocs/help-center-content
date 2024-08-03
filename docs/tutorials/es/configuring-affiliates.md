@@ -3,8 +3,8 @@ title: 'Configurar afiliado'
 id: tutorials_187
 status: PUBLISHED
 createdAt: 2017-04-27T22:15:31.422Z
-updatedAt: 2023-03-29T18:05:11.905Z
-publishedAt: 2023-03-29T18:05:11.905Z
+updatedAt: 2024-01-08T18:13:15.897Z
+publishedAt: 2024-01-08T18:13:15.897Z
 firstPublishedAt: 2017-04-27T23:00:46.992Z
 contentType: tutorial
 productTeam: Channels
@@ -15,9 +15,9 @@ legacySlug: como-configurar-afiliado
 subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 ---
 
-Solo es necesario hacer el registro de un afiliado si actúa como seller de un marketplace, ya que el seller crea el código del afiliado para identificar el marketplace.
+En VTEX, el [afiliado](https://help.vtex.com/es/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0) es un código que identifica el marketplace para el seller. El [seller VTEX](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#como-seller-vtex) necesita configurar un código de afiliado para poder integrarse con un [marketplace VTEX](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-un-marketplace-vtex), y esta configuración solo es necesaria cuando el mercado integrado y el vendedor son ambos tiendas VTEX.
 
-Esta configuración solo debe ser hecha para integraciones en que el marketplace y el seller son tiendas VTEX o [cuando el marketplace no es tienda VTEX y no tiene configuración por el módulo de Integraciones.](/es/tutorial/integrando-con-marketplace/). En estos casos, el afiliado es creado automáticamente.
+Cuando el marketplace no es una tienda VTEX (como en las [integraciones externas](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-marketplace-externo)), o cuando la tienda se integra con un [marketplace certificado](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-marketplace-certificado) (como Amazon o Mercado Livre), la plataforma crea automáticamente el código de afiliado.
 
 ## Cómo configurar
 

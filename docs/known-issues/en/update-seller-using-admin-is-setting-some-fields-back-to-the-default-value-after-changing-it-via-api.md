@@ -3,8 +3,8 @@ title: 'Update seller using Admin is setting some fields back to the default val
 id: 2gtqnZmCW59OKoqRpU3UaQ
 status: PUBLISHED
 createdAt: 2022-06-30T12:21:23.852Z
-updatedAt: 2022-11-25T22:00:35.980Z
-publishedAt: 2022-11-25T22:00:35.980Z
+updatedAt: 2024-02-16T20:28:26.435Z
+publishedAt: 2024-02-16T20:28:26.435Z
 firstPublishedAt: 2022-06-30T12:21:24.538Z
 contentType: knownIssue
 productTeam: Marketplace
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Marketplace
 slug: update-seller-using-admin-is-setting-some-fields-back-to-the-default-value-after-changing-it-via-api
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 608120
 ---
 

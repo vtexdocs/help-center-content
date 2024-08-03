@@ -3,8 +3,8 @@ title: 'Configurar gateway Mundi '
 id: 2yn9dKzvZOF5tn4RCX2Nbq
 status: PUBLISHED
 createdAt: 2019-04-04T21:12:48.808Z
-updatedAt: 2023-03-26T21:57:24.882Z
-publishedAt: 2023-03-26T21:57:24.882Z
+updatedAt: 2024-01-23T19:02:29.463Z
+publishedAt: 2024-01-23T19:02:29.463Z
 firstPublishedAt: 2019-04-04T21:20:22.149Z
 contentType: tutorial
 productTeam: Financial
@@ -23,11 +23,11 @@ Si también desea utilizar el antifraude de Mundi, la configuración de esta fun
 
 Para configurar la afiliación Mundi, siga los pasos a continuación:
 
-<ui>1. En el Admin VTEX, accede a **Configuración de la tienda** > **Pago** > **Configuración**, o escribe **Configuración** en la barra de búsqueda en la parte superior de la página.</ui>
+<ui>1. En el Admin VTEX, accede a __Configuración de la tienda > Pago > Proveedores__, o escribe __Proveedores__ en la barra de búsqueda en la parte superior de la página.</ui>
 
-<ui>2. En la pestana __Afiliaciones de Gateway__, haga clic en el botón __+__.</ui>
+<ui>2. En la pantalla de proveedores, haga clic en el botón `Nuevo proveedor`.</ui>
 
-<ui>3. Haga clic en el conector __Mundi__.</ui>
+<ui>3. Escriba el nombre __Mundi__ en la barra de búsqueda y haga clic en el nombre del proveedor.</ui>
 
 <ui>4. Rellene los campos de registro __Application Key__ y __Application Token__ con los datos proporcionados por Mundi.</ui>
 

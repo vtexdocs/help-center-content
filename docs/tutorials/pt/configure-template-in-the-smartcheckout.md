@@ -110,6 +110,6 @@ As contas que possuem multi domínio podem usar apenas um site, se não houver n
 
 Classe inserida na tag &lt;body&gt; de acordo com o domínio acessado:
 
-![](//images.contentful.com/alneenqid6w5/4YAbMPcyqA8eqMM8ycokoU/836778d23afee9b0e793b27d9ab8cc0c/Portal16.jpg)
+![](https://images.contentful.com/alneenqid6w5/4YAbMPcyqA8eqMM8ycokoU/836778d23afee9b0e793b27d9ab8cc0c/Portal16.jpg)
 
 **Importante**: Todo javascript que for incluído diretamente em qualquer template do Portal será ignorado pela plataforma, ou seja, no momento da renderização da página, a plataforma o removerá. Isso porque o SmartCheckout apenas aceita scripts originados no Google Tag Manager. Assim, sempre que houver necessidade de realizar alguma customização (ou mesmo inserção de tags específicas) via javascript, faça essa inclusão via Google Tag Manager.

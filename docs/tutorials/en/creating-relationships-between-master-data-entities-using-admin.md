@@ -1,9 +1,9 @@
 ---
 title: 'Creating relationships between Master Data entities using Admin'
 id: 1qzbCit8SYXbKwrT5x2FfA
-status: PUBLISHED
+status: CHANGED
 createdAt: 2020-08-11T13:48:26.272Z
-updatedAt: 2022-10-17T19:11:39.513Z
+updatedAt: 2024-06-06T19:36:29.525Z
 publishedAt: 2022-10-17T19:11:39.513Z
 firstPublishedAt: 2020-08-18T19:47:29.772Z
 contentType: tutorial

@@ -3,8 +3,8 @@ title: 'Subscribers report does not show active subscriptions correctly'
 id: 4sqvm1v4CbCJLQ3HBBVTmp
 status: PUBLISHED
 createdAt: 2022-05-27T19:44:57.301Z
-updatedAt: 2022-11-25T22:02:30.682Z
-publishedAt: 2022-11-25T22:02:30.682Z
+updatedAt: 2024-07-01T18:48:23.947Z
+publishedAt: 2024-07-01T18:48:23.947Z
 firstPublishedAt: 2022-05-27T19:44:57.688Z
 contentType: knownIssue
 productTeam: Order Management
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Order Management
 slug: subscribers-report-does-not-show-active-subscriptions-correctly
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 587556
 ---
 

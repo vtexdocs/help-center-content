@@ -3,8 +3,8 @@ title: 'Merchandising rules'
 id: 5tBSYXb9EIdePa0MWTnFd0
 status: PUBLISHED
 createdAt: 2020-03-05T18:53:37.305Z
-updatedAt: 2023-04-03T22:01:51.692Z
-publishedAt: 2023-04-03T22:01:51.692Z
+updatedAt: 2024-01-29T17:07:18.414Z
+publishedAt: 2024-01-29T17:07:18.414Z
 firstPublishedAt: 2020-03-05T19:58:55.021Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -21,9 +21,7 @@ Merchandising rules are priority criteria. If you configure a rule to promote a 
 You can set merchandising rules for:
 
 * **Brands:** You can set which brand products are more relevant than others. When the customer searches for "smartphone," for example, the products of this brand will appear at the beginning of the list, and the other brands' products below them.
-* **Product:** Another option is promoting a specific product. For example: set that when searching for "running t-shirt," the product "Running T-shirt" is the first result displayed in the list.
-
-## Merchandising rules listing page
+* **Products:** Another option is promoting a specific product. For example: set that when searching for "running t-shirt," the product "Running T-shirt" is the first result displayed in the list.
 
 On VTEX Admin, the page **Storefront** > **Intelligent Search** > **Merchandising Rules** allows you to do the following actions: 
 
@@ -32,33 +30,36 @@ On VTEX Admin, the page **Storefront** > **Intelligent Search** > **Merchandisin
 * [Edit](#editing-merchandising-rules)
 * [Delete](#deleting-merchandising-rules)
 
-![manage merchandising rules-en](https://images.ctfassets.net/alneenqid6w5/4RIkVevSJArI3LhEHjELHu/6a9a5125d69d32a448f22619ec8ad04e/image.png)
+![merch-rules-en](https://images.ctfassets.net/alneenqid6w5/3EB5tru4DiZzTMQ7oe8xHV/6b6dc34a4127cd654dab40fa17a70664/merch-rules-en.PNG)
 
 The page displays the following information: 
 
-| Column     | Description          |
-| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Name       | Name that identifies the merchandising rule, defined in the "[Creating merchandising rules](#creating-merchandising-rules)" section. |
-| Start date | Date that sets the date the merchandising rule becomes available.                                                                                                                                                  |
-| End date   | Date that sets the date the merchandising rule is no longer available.                                                                                                                                             |
-| Active     | Option that enables or disables a merchandising rule.                                                                                                                                                              |
-| Actions    | Delete or edit a merchandising rule.                                                                                                                                                                               |
+| Column | Description |
+| - | - |
+| __Name__ | Name that identifies the merchandising rule, defined in the "[Creating merchandising rules](#creating-merchandising-rules)" section. |
+| __Start date__ | Date that sets the date the merchandising rule becomes available. |
+| __End date__ | Date that sets the date the merchandising rule is no longer available. |
+| __Type__ | Indicates the [type of editing](#type-of-editing) used in the merchandising rule. |
+| __Active__ | Option that enables or disables a merchandising rule. |
+| __Actions__ <i class="fas fa-ellipsis-v"></i>| Menu with actions to `Edit` or `Delete` a merchandising rule. |
 
 ## Creating merchandising rules
 
-To add a new merchandising rule, click `New`. Learn more about all the information needed to create a merchandising rule in the sections below.
+To add a new merchandising rule, click `+ New`. Learn more about all the information needed to create a merchandising rule in the sections below.
 
 ### Types of editing
 
-When creating or editing Merchandising rules, you can choose between two types of editing: the [Manual Editor](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8) and the [Visual Editor (Beta)](https://help.vtex.com/en/tutorial/creating-merchandising-rules-visual-editor-beta--6xteumx9MsDt0uEppbChu3). Below are the features available to decide which one works best for you:
+There are two types of editor to create or modify Merchandising rules: the [Manual Editor](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2FpbarYzsnbg7aZZn3TGF8) and the [Visual Editor](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/2ejly01m1w28RsZlCKowEr).
 
-| Feature | Description | Manual Editor | Visual Editor (Beta) |
+Below are the features of each editor:
+
+| Feature | Description | Manual Editor | Visual Editor |
 |---|---|---|---|
 | Trigger rules | Set conditions for the merchandising rule to be triggered. | Yes | Yes |
 | Customization Rules | Control search results using specific conditions. | Yes | No |
 | Preview | Preview how search results will be displayed to customers while navigating the store. | No | Yes |
 | Reorder search results | Change the order of the items listed as search results. | No | Yes |
-| Pinning a result in a given position | Set a fixed position for a given item in a search result. | No | Yes |
+| Pin products to the top positions | Determine that a given item in a search result will always be displayed in the top position among search results. | No | Yes |
 
 ## Searching for merchandising rules
 
@@ -68,11 +69,11 @@ Enter the name of the merchandising rule in the search bar to search for a merch
 
 You can edit the information in a merchandising rule by following the steps below.
 
-1. Click the pencil button <i class="fa-solid fa-pencil"></i>.
+1. Click the menu <i class="fas fa-ellipsis-v"></i> in the row of the merchandising rule, then click <i class="fas fa-pencil-alt"></i> `Edit`.
 2. Change the information you want in the merchandising rule.
 3. Click `Save`.
 
 ## Deleting merchandising rules
 
-You can delete a merchandising rule by clicking the trash button <i class="fa-solid fa-trash-can"></i>.
+You can delete a merchandising rule by clicking the menu <i class="fas fa-ellipsis-v"></i> in the row of the merchandising rule, then <i class="fas fa-trash"></i> `Delete`.
 

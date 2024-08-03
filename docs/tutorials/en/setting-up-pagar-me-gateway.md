@@ -3,8 +3,8 @@ title: 'Setting up Pagar.me gateway'
 id: egFyDkXjfa80wkSkUWsmc
 status: PUBLISHED
 createdAt: 2018-04-10T17:54:18.410Z
-updatedAt: 2023-03-26T21:05:35.943Z
-publishedAt: 2023-03-26T21:05:35.943Z
+updatedAt: 2024-01-23T19:17:28.562Z
+publishedAt: 2024-01-23T19:17:28.562Z
 firstPublishedAt: 2018-04-10T18:10:52.337Z
 contentType: tutorial
 productTeam: Financial
@@ -19,10 +19,9 @@ Pagar.me is a [gateway](/en/tutorial/what-is-a-payment-gateway) that offers seve
 
 To set up Pagar.me, follow the steps below:
 
-## Setting up Pagar.me gateway affiliation
-1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
-2. On the __Gateway Affiliations__ tab, click the __+__ button.
-3. Click the __Pagar.me__ connector.
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __Pagar.me__ in the search bar and click on the name of the provider.
 4. In the __External Service Url__ field, configure the external URL that will be associated with `/pvt/payments?an={AccountName}`.
 5. Fill in the registration fields with the data provided by Pagar.me (fields __appKey__ and __appToken__).
 6. In __Implements Installments Service__, you must choose whether you want to use external installment services or the one that is configured on the portal. If you choose _yes_, the system will use the URL configured in the __Installments Service Url__ field.

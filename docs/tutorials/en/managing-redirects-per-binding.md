@@ -3,8 +3,8 @@ title: 'Managing URL redirects per binding'
 id: 67GAK2TCQgjvmtPXxAqREb
 status: PUBLISHED
 createdAt: 2021-04-20T15:03:54.330Z
-updatedAt: 2023-03-24T22:20:43.304Z
-publishedAt: 2023-03-24T22:20:43.304Z
+updatedAt: 2023-09-04T12:42:32.729Z
+publishedAt: 2023-09-04T12:42:32.729Z
 firstPublishedAt: 2021-05-05T18:11:25.521Z
 contentType: tutorial
 productTeam: VTEX IO
@@ -20,6 +20,10 @@ Redirects are a tool to forward both users and search engines to a more relevant
 Multi-domain stores commonly ask for redirect management per [binding](https://help.vtex.com/en/tutorial/what-is-binding--4NcN3NJd0IeYccgWCI8O2W) due to the complexity presented by the several URLs available simultaneously. 
 
 Taking this into consideration, VTEX enables you to manage your URL redirects according to the store bindings through the admin interface.
+
+<div class="alert alert-warning" role="alert">
+To create, edit, or remove redirects, the Admin user must have a role that has the <a href="https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3">License Manager</a> <strong>CMS Settings</strong> resource. You can grant the user a role with the resource by following the instructions in the <a href="https://help.vtex.com/en/tutorial/managing-users--tutorials_512#editing-users">How to manage users</a> article or create a new role including the resource by following the instructions in the <a href="https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role">Roles</a> article.
+</div>
 
 In VTEX Admin:
 

@@ -3,8 +3,8 @@ title: 'Cancelamento de pedido solicitado pelo cliente'
 id: 3wEI6DUNtecooG2Ki4Akqo
 status: PUBLISHED
 createdAt: 2019-01-24T21:42:57.276Z
-updatedAt: 2023-04-28T00:40:54.949Z
-publishedAt: 2023-04-28T00:40:54.949Z
+updatedAt: 2024-04-01T15:51:58.098Z
+publishedAt: 2024-04-01T15:51:58.098Z
 firstPublishedAt: 2019-01-24T21:42:57.707Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -19,6 +19,10 @@ Existem cenários em que os clientes podem solicitar o cancelamento de um pedido
 
 <div class="alert alert-danger">
 Uma vez que o pedido é cancelado, não é mais possível alterar o status do pedido.
+</div>
+
+<div class = "alert alert-warning">
+Não é possível <a href="https://help.vtex.com/pt/tutorial/como-cancelar-pedido--tutorials_186">cancelar pedidos</a> que já tenham sido <a href="https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe">faturados parcialmente</a>. Caso o cliente deseje substituir ou remover itens do pedido, é possível <a href="https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190">alterar o pedido</a>.
 </div>
 
 ## Cancelamento no prazo de carência

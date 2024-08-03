@@ -3,8 +3,8 @@ title: 'Data subject rights'
 id: 6imchxTx09icupKMbzHVIM
 status: PUBLISHED
 createdAt: 2023-04-26T18:56:45.938Z
-updatedAt: 2023-04-27T12:43:48.560Z
-publishedAt: 2023-04-27T12:43:48.560Z
+updatedAt: 2023-06-22T21:47:26.569Z
+publishedAt: 2023-06-22T21:47:26.569Z
 firstPublishedAt: 2023-04-26T19:50:54.254Z
 contentType: tutorial
 productTeam: Others
@@ -133,7 +133,7 @@ Learn more about <a href="https://help.vtex.com/en/tutorial/configurar-carrinho-
 
 ## Erasure
 
-The right to erasure allows customers to request that their personal data be deleted from the platform.
+The right to erasure allows customers to request that their personal data be erased from the platform.
 
-If any customer requests to delete their data from your store, you can comply by following the [Deleting customer data](https://help.vtex.com/en/tutorial/exclusao-de-dados-de-clientes--1R9Fn7A06Ifj4R9YD4JTKU) guide.
+If any customer requests to erase their data from your store, you can comply by following the [Erasing customer data](https://help.vtex.com/en/tutorial/exclusao-de-dados-de-clientes--1R9Fn7A06Ifj4R9YD4JTKU) guide.
 

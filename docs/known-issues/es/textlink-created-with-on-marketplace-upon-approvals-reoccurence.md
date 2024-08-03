@@ -3,8 +3,8 @@ title: 'Enlace de texto creado con " " en Marketplace tras las aprobaciones - Re
 id: 2afynQ9MwaHPMPWyhx80Tp
 status: PUBLISHED
 createdAt: 2023-04-24T19:36:10.185Z
-updatedAt: 2023-05-08T17:47:01.002Z
-publishedAt: 2023-05-08T17:47:01.002Z
+updatedAt: 2023-07-13T15:25:43.450Z
+publishedAt: 2023-07-13T15:25:43.450Z
 firstPublishedAt: 2023-04-24T19:36:10.701Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: enlace-de-texto-creado-con-en-marketplace-tras-las-aprobaciones-reoccurrence
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 795900
 ---
 
@@ -29,13 +29,9 @@ La SKU se devuelve para su aprobación en el módulo de SKUs Recibidas, pero no 
 
 
 
-
-
 ##
 
 ## Simulación
-
-
 
 
 1) Suele ocurrir con un error genérico de skus recibidos al intentar aprobar (esto no ocurre en todos los casos).
@@ -48,10 +44,11 @@ La SKU se devuelve para su aprobación en el módulo de SKUs Recibidas, pero no 
 
 
 
-
-
 ## Workaround
 
 
 Actualizar manualmente/API los enlaces de texto del producto en este escenario.
+
+
+
 

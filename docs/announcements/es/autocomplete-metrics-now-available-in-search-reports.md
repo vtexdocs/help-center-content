@@ -23,7 +23,7 @@ Antes solo se podía ver y exportar informes sobre los resultados de búsqueda y
 <table width = "100%">
   <tr>
     <td>
-      <img src = "https:https://images.ctfassets.net/alneenqid6w5/7xQxfEBJDIY7aOBzPqkRox/9a2594c86f5fe7aa30e75f78a10241e9/relatorios-filtros-ES.png" style = "display:block; margin-left: auto; margin-right: auto;" alt = "Opções de filtros do relatório" title = "Opções de filtros do relatório">
+      <img src = "https://images.ctfassets.net/alneenqid6w5/7xQxfEBJDIY7aOBzPqkRox/9a2594c86f5fe7aa30e75f78a10241e9/relatorios-filtros-ES.png" style = "display:block; margin-left: auto; margin-right: auto;" alt = "Opções de filtros do relatório" title = "Opções de filtros do relatório">
     </td>
   </tr>
   <tr>

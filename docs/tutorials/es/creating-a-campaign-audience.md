@@ -3,8 +3,8 @@ title: 'Crear audiencias de campaña'
 id: 6cnuDZJzIkIeocewAQQK4K
 status: PUBLISHED
 createdAt: 2018-12-02T18:34:21.663Z
-updatedAt: 2023-03-31T13:38:38.613Z
-publishedAt: 2023-03-31T13:38:38.613Z
+updatedAt: 2023-10-31T19:23:55.713Z
+publishedAt: 2023-10-31T19:23:55.713Z
 firstPublishedAt: 2018-12-03T16:51:36.457Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -91,7 +91,6 @@ Ejemplo: en la imagen a continuación, los ítems cuya marca es **Nike** forman 
 
 * **Valor mínimo del pedido:** valor mínimo que debe tener el total de los ítems en el carrito del cliente. Este total incluye la suma de los precios de los productos en el carrito que cumplen con los criterios de la audiencia de campaña.
 * **Valor máximo del pedido:** valor máximo que puede tener el total de los ítems en el carrito del cliente. Este total incluye la suma de los precios de los productos en el carrito que cumplen con los criterios de la audiencia de campaña.
-* **Uso de histórico a la promoción:** permite que se tenga en cuenta el historial de compras del cliente al momento de evaluar si este forma parte del público-objetivo o no. En caso de seleccionar esta opción, deberás elegir el periodo del historial que se considerará. Puedes agregar fechas específicas o contar días a partir de la fecha actual.
 * **Valor del ítem entre __ y __:** precio mínimo y máximo que puede tener cada ítem en el carrito. La audiencia de campaña se activará si el valor del ítem cumple con el intervalo de valores completados.
 * **Restricción de promoción por BIN:** la audiencia de campaña se activará si el _Número de Identificación Bancaria_ (BIN) de la tarjeta de crédito está entre los caracteres rellenados. El BIN corresponde a los 6 u 8 primeros números de una tarjeta y sirve para identificar al banco y al emisor de la tarjeta.
 * **Marketing Tags:** campo usado para restringir la activación de la audiencia de campaña si la compra la realiza el [módulo de Suscripciones de VTEX](https://help.vtex.com/es/tutorial/como-funciona-suscripciones--frequentlyAskedQuestions_4453).

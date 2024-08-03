@@ -21,9 +21,9 @@ One of the first things you have to do in your web site is to link it to a store
 1. In the VTEX Admin, access **Storefront > Layout**.
 2. Click the __CMS__ folder.
 3. Click the __Sites and channels__ folder.
-4. Click on the desired Website.![websites](//images.contentful.com/alneenqid6w5/56BRjkYWyIwKogAI0oMmSM/0910a749d03b6fd8d596ce6361a21045/websites.png)
+4. Click on the desired Website.![websites](https://images.contentful.com/alneenqid6w5/56BRjkYWyIwKogAI0oMmSM/0910a749d03b6fd8d596ce6361a21045/websites.png)
 5. Click on __Save Website__.
-6. Click __Add__.![addBinding](//images.contentful.com/alneenqid6w5/r0P8ZE9LNesKoeGewcWOu/527511bc3ae48875fe1a6421a1db5f42/addBinding.png)
-7. Select the store name.![chooseBinding](//images.contentful.com/alneenqid6w5/3nFPaDlnaEG2EqIMM8gCe0/188754ebaa172cef01a9212eea168e46/chooseBinding.png)
-8. Check the trade policy or trade policies that will be tied to this store.![bindingSalesPolicy](//images.contentful.com/alneenqid6w5/5FFxnelVTyCu04a6EkiEkS/30905c7f368a1393100f118fd70fcb02/bindingSalesPolicy.png)
+6. Click __Add__.![addBinding](https://images.contentful.com/alneenqid6w5/r0P8ZE9LNesKoeGewcWOu/527511bc3ae48875fe1a6421a1db5f42/addBinding.png)
+7. Select the store name.![chooseBinding](https://images.contentful.com/alneenqid6w5/3nFPaDlnaEG2EqIMM8gCe0/188754ebaa172cef01a9212eea168e46/chooseBinding.png)
+8. Check the trade policy or trade policies that will be tied to this store.![bindingSalesPolicy](https://images.contentful.com/alneenqid6w5/5FFxnelVTyCu04a6EkiEkS/30905c7f368a1393100f118fd70fcb02/bindingSalesPolicy.png)
 9. Click __Save Binding__.

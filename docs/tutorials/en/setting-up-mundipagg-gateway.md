@@ -1,10 +1,10 @@
 ---
 title: 'Setting up Mundipagg gateway'
 id: 6C9412jePCUMGguq0YWU8M
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-04-18T18:01:44.533Z
-updatedAt: 2023-03-29T00:36:17.690Z
-publishedAt: 2023-03-29T00:36:17.690Z
+updatedAt: 2024-03-18T18:39:56.272Z
+publishedAt: 
 firstPublishedAt: 2018-04-18T20:58:03.675Z
 contentType: tutorial
 productTeam: Financial
@@ -15,14 +15,15 @@ legacySlug: setting-up-mundipagg-gateway
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
+<div class="alert alert-danger">This payment integration can no longer be configured on the platform due to the <a href="https://help.vtex.com/en/announcements/legacy-payment-connectors-will-be-discontinued-in-2024--4R5YIjUu1IWkiOHzXtQU14">legacy provider removal process</a> and the article will soon be removed from the Help Center. Check with your provider for more information about developing the new payment integration and the steps required for migrating settings in your store.</div>
+
 Mundipagg is a [gateway](/en/tutorial/what-is-a-payment-gateway) that processes payments made with bank slips, bank transfers and major credit card brands.
 
 To configure Mundipagg, follow the steps below:
 
-## Setting up Mundipagg gateway affiliation
-1. In the VTEX Admin, go to **Store Settings** > **Payment** > **Settings**, or type **Settings** in the search bar at the top of the page.
-2. On the __Gateway Affiliations__ tab, click the __+__ button.
-3. Click the __Mundipagg__ connector.
+1. In the VTEX Admin, go to __Store Settings > Payment > Providers__, or type __Providers__ in the search bar at the top of the page.
+2. On the providers screen, click the `New Provider` button.
+3. Type the name __Mundipagg__ in the search bar and click on the name of the provider.
 4. Fill in the __Merchant Key__ field with the key registered in Mundipagg. It consists of 36 characters, including letters, numbers and hyphens.
 5. In __Pais__ ("Country"), choose the country of your store.
 6. The __Register Url Post Notification at Mundipagg__ field gives an address for you to set up the receiving of notifications about payment statuses. In the link `https://{sellerhost}.vtexpayments.com.br/mundipagg/payment/statusnotification`, replace `{sellerhost}` with your store's account name. Then, send the final URL to Mundipagg to complete the registration.

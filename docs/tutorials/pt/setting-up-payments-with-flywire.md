@@ -3,8 +3,8 @@ title: 'Configurar pagamento com Flywire'
 id: 12nQ0teCWM1UUtd2Fo6lzO
 status: PUBLISHED
 createdAt: 2023-04-03T13:05:10.955Z
-updatedAt: 2023-04-03T13:32:26.361Z
-publishedAt: 2023-04-03T13:32:26.361Z
+updatedAt: 2024-01-25T18:15:31.540Z
+publishedAt: 2024-01-25T18:15:31.540Z
 firstPublishedAt: 2023-04-03T13:32:26.361Z
 contentType: tutorial
 productTeam: Financial
@@ -15,13 +15,13 @@ legacySlug: configurar-pagamento-com-flywire
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-Na VTEX, é possível realizar a integração com o provedor de pagamento Flywire. Com este conector, sua loja pode realizar vendas por meio de promissórias e do Flywire.
+Na VTEX, é possível realizar a integração com o provedor de pagamento Flywire. Por meio deste provedor, sua loja pode realizar vendas por meio de promissórias e do Flywire.
 
-Para configurar a afiliação Flywire, siga os passos abaixo:
+Para configurar Flywire, siga os passos abaixo:
 
-1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Configurações__, ou digite __Configurações__ na barra de busca no topo da página.
-2. Na aba __Afiliações de Gateways__, clique no botão `+`.
-3. Clique no conector __Flywire__.
+1. No Admin VTEX, acesse __Configurações da loja > Pagamentos > Provedores__, ou digite __Provedores__ na barra de busca no topo da página.
+2. Na tela de provedores, clique no botão `Novo provedor`.
+3. Digite o nome __Flywire__ na barra de busca e clique sobre o nome do provedor.
 4. Preencha os campos __Application Key__, __Application Token__, __Recipient__, __Locale__, __Provider__ e __Callback version__ com as informações da sua conta 
 Flywire.
 5. Em __Environment__, escolha uma das duas opções: __Demo__ ou __Production__.
@@ -52,5 +52,5 @@ Depois, siga os passos abaixo:
 6. Se desejar, você também pode configurar [condições especiais de pagamento](https://help.vtex.com/pt/tutorial/condicoes-especiais--tutorials_456#).
 7. Clique em `Salvar`.
 
-Depois de seguir os passos indicados, o conector Flywire pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 
+Depois de seguir os passos indicados, Flywire pode demorar até 10 minutos para aparecer no checkout da sua loja como uma opção de pagamento. 
 

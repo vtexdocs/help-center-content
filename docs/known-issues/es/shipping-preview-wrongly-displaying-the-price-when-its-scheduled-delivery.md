@@ -1,18 +1,18 @@
 ---
-title: 'Vista previa de envío muestra erróneamente el precio cuando es entrega programada'
+title: 'La vista previa del envío muestra erróneamente el precio cuando se trata de una entrega programada'
 id: 1348f4mDxoxAT7pTKBxm29
 status: PUBLISHED
 createdAt: 2023-01-31T19:16:25.118Z
-updatedAt: 2023-02-01T20:32:44.535Z
-publishedAt: 2023-02-01T20:32:44.535Z
+updatedAt: 2024-03-27T15:40:02.745Z
+publishedAt: 2024-03-27T15:40:02.745Z
 firstPublishedAt: 2023-01-31T19:16:25.874Z
 contentType: knownIssue
 productTeam: Checkout
 author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
-slug: vista-previa-de-envio-muestra-erroneamente-el-precio-cuando-es-entrega-programada
+slug: la-vista-previa-del-envio-muestra-erroneamente-el-precio-cuando-se-trata-de-una-entrega-programada
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 532487
 ---
 

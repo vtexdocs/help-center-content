@@ -1,10 +1,10 @@
 ---
 title: 'Que condições de pagamento offline estão disponíveis na América Latina?'
 id: 2lXPwiH6KcsSMuWaoigueq
-status: PUBLISHED
+status: DRAFT
 createdAt: 2019-01-24T20:45:37.602Z
-updatedAt: 2019-12-31T15:19:41.744Z
-publishedAt: 2019-12-31T15:19:41.744Z
+updatedAt: 2024-03-19T12:05:40.449Z
+publishedAt: 
 firstPublishedAt: 2019-01-24T22:01:19.092Z
 contentType: tutorial
 productTeam: Financial

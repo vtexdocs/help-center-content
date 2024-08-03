@@ -1,10 +1,10 @@
 ---
 title: 'Setting up payments with PagoEfectivo'
 id: 1GGyNqZSYE2a8ga4UemYyw
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-04-09T20:26:14.388Z
-updatedAt: 2021-06-17T18:59:09.202Z
-publishedAt: 2021-06-17T18:59:09.202Z
+updatedAt: 2024-03-18T19:11:11.066Z
+publishedAt: 
 firstPublishedAt: 2018-04-09T21:57:41.363Z
 contentType: tutorial
 productTeam: Financial

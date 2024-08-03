@@ -106,6 +106,6 @@ Multi-domain accounts can only use one site, if the need arises for specific con
 
 Class inserted in the tag &lt;body&gt; according to the domain accessed:
 
-![](//images.contentful.com/alneenqid6w5/4YAbMPcyqA8eqMM8ycokoU/836778d23afee9b0e793b27d9ab8cc0c/Portal16.jpg)
+![](https://images.contentful.com/alneenqid6w5/4YAbMPcyqA8eqMM8ycokoU/836778d23afee9b0e793b27d9ab8cc0c/Portal16.jpg)
 
 Important: Any JavaScript included directly in any Portal template will be ignored by the platform, that is, when the page is rendered the platform will remove it. This is because the SmartCheckout only accepts scripts that originated in Google Tag Manager. Thus, whenever the need arises to undertake some customization (or even to insert specific tags) using JavaScript, do the inclusion using Google Tag Manager.

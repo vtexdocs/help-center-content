@@ -3,8 +3,8 @@ title: 'Toolbar de televendas'
 id: tutorials_5500
 status: PUBLISHED
 createdAt: 2017-04-27T21:48:31.368Z
-updatedAt: 2023-03-29T19:50:13.858Z
-publishedAt: 2023-03-29T19:50:13.858Z
+updatedAt: 2023-12-07T15:29:46.537Z
+publishedAt: 2023-12-07T15:29:46.537Z
 firstPublishedAt: 2017-04-27T23:11:19.311Z
 contentType: tutorial
 productTeam: Shopping
@@ -57,8 +57,9 @@ Ao clicar no nome do cliente, o operador pode visualizar as informações abaixo
 
 ## Artigos relacionados
 
-*   [Como criar um usuário televendas](https://help.vtex.com/pt/tutorial/como-criar-um-usuario-de-televendas--frequentlyAskedQuestions_4227)
-*   [Customizar a Toolbar de televendas](https://help.vtex.com/pt/tutorial/customizar-a-toolbar-de-televendas--1XEz1zqO3KyIuwC4asUsOg)
-*   [Pedidos](https://help.vtex.com/pt/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#pedidos)
-*   [Como utilizar as funcionalidades de televendas](https://help.vtex.com/pt/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS)
-*   [Como configurar as funcionalidades de televendas](https://help.vtex.com/pt/tutorial/como-configurar-as-funcionalidades-de-televendas--76FNgQP2Glc4umMJ5Yr50R)
+* [Perfis de acesso predefinidos - Call center operator](https://help.vtex.com/pt/tutorial/perfis-de-acesso-predefinidos--jGDurZKJHvHJS13LnO7Dy#call-center-operator)
+* [Como criar um usuário televendas](https://help.vtex.com/pt/tutorial/como-criar-um-usuario-de-televendas--frequentlyAskedQuestions_4227)
+* [Customizar a Toolbar de televendas](https://help.vtex.com/pt/tutorial/customizar-a-toolbar-de-televendas--1XEz1zqO3KyIuwC4asUsOg)
+* [Pedidos](https://help.vtex.com/pt/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#pedidos)
+* [Como utilizar as funcionalidades de televendas](https://help.vtex.com/pt/tutorial/funcionalidades-de-televendas--UqhiccIRIK2KD0OqkzJaS)
+* [Como configurar as funcionalidades de televendas](https://help.vtex.com/pt/tutorial/como-configurar-as-funcionalidades-de-televendas--76FNgQP2Glc4umMJ5Yr50R)

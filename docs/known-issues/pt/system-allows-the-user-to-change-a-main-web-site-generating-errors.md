@@ -22,7 +22,7 @@ No módulo CMS, o sistema deixa o usuário manusear um Web Site A e apontar a um
 
 Caso o usuário queira retornar, nao há a possibilidade de apontar o Web Site B para o A, como pai. Com isso, gera erros no site como o erro abaixo, e o admin fica inacessível.
 
-![KI erro website](//images.contentful.com/alneenqid6w5/17hdmuW8qis8kyKUs6e8SG/2234b8f8916038ce6e8ccf98b6ff14a9/KI_erro_website.png)
+![KI erro website](https://images.contentful.com/alneenqid6w5/17hdmuW8qis8kyKUs6e8SG/2234b8f8916038ce6e8ccf98b6ff14a9/KI_erro_website.png)
 
 
 ## Simulação
@@ -32,7 +32,7 @@ Caso o usuário queira retornar, nao há a possibilidade de apontar o Web Site B
 - No primeiro Web Site > campo Web Site Pai, inserir o Web Site referente ao Web Site 2;
 - No segundo Web Site > campo Web Site Pai, inserir o Web Site referente ao Web Site 1.
 
-![KI erro website2](//images.contentful.com/alneenqid6w5/a6SpuvdBT2KOIiaSO6EGq/e98a7e9081262e773f63f165f7344ecc/KI_erro_website2.png)
+![KI erro website2](https://images.contentful.com/alneenqid6w5/a6SpuvdBT2KOIiaSO6EGq/e98a7e9081262e773f63f165f7344ecc/KI_erro_website2.png)
 
 ## Workaround
 

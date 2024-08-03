@@ -3,8 +3,8 @@ title: 'Comportamiento erróneo de la mutación addToCart de checkout-graphql al
 id: 1lMWbgmBsOis9gAKcMm8ob
 status: PUBLISHED
 createdAt: 2022-05-03T20:42:18.655Z
-updatedAt: 2022-11-25T22:44:04.555Z
-publishedAt: 2022-11-25T22:44:04.555Z
+updatedAt: 2023-11-16T16:46:29.538Z
+publishedAt: 2023-11-16T16:46:29.538Z
 firstPublishedAt: 2022-05-03T20:42:18.940Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: comportamiento-erroneo-de-la-mutacion-addtocart-de-checkout-graphql-al-enviar-las-opciones-de-los-articulos-ya-anadidos
 locale: es
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 452053
 ---
 

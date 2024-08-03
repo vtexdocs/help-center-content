@@ -50,7 +50,7 @@ If you enable the option **Apply discount only to the cheapest shipping rate**, 
 If you disable the option **Apply discount only to the cheapest shipping rate**, the discount will be applied to all available shipping rates.
 
 #### Configuration
-![Nenhum frete selecionado - EN](//images.contentful.com/alneenqid6w5/3hN4Ed2L4VP3us5NBQpEfV/ff352c5a835e77ed19dc2d5c33cddc73/image.png)
+![Nenhum frete selecionado - EN](https://images.contentful.com/alneenqid6w5/3hN4Ed2L4VP3us5NBQpEfV/ff352c5a835e77ed19dc2d5c33cddc73/image.png)
 
 #### Result
 ![saggincaso2.2](https://images.ctfassets.net/alneenqid6w5/5bfXAeiAs17vBy1nPPg9jh/ee179b414e3325707e8805ab3ba14dcb/saggincaso2.2.png)

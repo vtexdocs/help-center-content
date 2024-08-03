@@ -30,7 +30,7 @@ O custo final do envio é o preço total que será cobrado do cliente final para
 
 Sendo assim, de modo geral, o custo final de envio pode ser calculado desta forma:
 
-![Custo-final-envio-PT](//images.contentful.com/alneenqid6w5/5qeoN5AQPvoWyOPcNW3J6q/dc18eacbd9078557282f53cecb2ae4cf/Custo-final-envio-PT.svg)
+![Custo-final-envio-PT](https://images.contentful.com/alneenqid6w5/5qeoN5AQPvoWyOPcNW3J6q/dc18eacbd9078557282f53cecb2ae4cf/Custo-final-envio-PT.svg)
 
 <div class="alert alert-danger">
 Se o <b>adicional por preço</b> for menor que o <b>adicional de seguro</b>, a tarifa que é considerada é a do adicional de seguro e o adicional por preço é desconsiderado no cálculo da tarifa final.<p>

@@ -3,8 +3,8 @@ title: 'How the reservation works'
 id: tutorials_92
 status: PUBLISHED
 createdAt: 2017-04-27T22:19:56.753Z
-updatedAt: 2023-04-28T22:58:58.294Z
-publishedAt: 2023-04-28T22:58:58.294Z
+updatedAt: 2023-10-18T17:20:21.911Z
+publishedAt: 2023-10-18T17:20:21.911Z
 firstPublishedAt: 2017-04-27T23:00:42.751Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -43,7 +43,7 @@ The item remains with this status for a certain time, and if payment is not conf
 
 _Payment expiration period + inventory reservation period_
 
-- **Payment expiration period:** the time period (in days) in which the payment must be made. You can configure this period in the **[Payments](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB)** module for payments with boleto (Brazilian offline payment method) or [notes payable](https://help.vtex.com/en/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ#promissory-setup). For other payment methods, such as credit card and wallet, no time limit for payment expiration can be specified. The payment flow starts right after checkout, and the payment can be approved or denied in different time periods, depending on the selected payment method.
+- **Payment expiration period:** the time period (in days) in which the payment must be made. You can configure this period in the **[Payments](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB)** module for payments with boleto (Brazilian offline payment method) or [notes payable](https://help.vtex.com/en/tutorial/setting-up-payments-with-notes-payable--5pW7avTwtyQcMu4uiW8quQ#notes-payable-setup). For other payment methods, such as credit card and wallet, no time limit for payment expiration can be specified. The payment flow starts right after checkout, and the payment can be approved or denied in different time periods, depending on the selected payment method.
 - **Inventory reservation period:** is set automatically, following the rules below.
     - **four calendar days:** when the payment is due on a Sunday, Monday or Tuesday.
     - **five calendar days:** when the payment is due on a Wednesday, Thursday or Friday.

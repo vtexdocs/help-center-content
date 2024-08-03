@@ -3,8 +3,8 @@ title: 'Filtrar pedidos en Todos los pedidos'
 id: tutorials_192
 status: PUBLISHED
 createdAt: 2017-04-27T22:15:05.494Z
-updatedAt: 2023-05-31T14:45:05.491Z
-publishedAt: 2023-05-31T14:45:05.491Z
+updatedAt: 2023-12-21T14:06:54.896Z
+publishedAt: 2023-12-21T14:06:54.896Z
 firstPublishedAt: 2017-04-27T23:00:47.449Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -14,6 +14,10 @@ locale: es
 legacySlug: como-filtrar-pedidos
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---
+
+<div class = "alert alert-info">
+Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi Cuenta</a>.
+</div>
 
 En el módulo **Pedidos**, la página **Todos los pedidos** permite acceder a todos los pedidos de la tienda y buscar utilizando la barra de búsqueda y filtros según se muestra en la imagen a continuación:
 
@@ -25,6 +29,13 @@ Este artículo explica cómo utilizar estos recursos y se divide en:
 - [Filtros](#filtros)
 - [Filtrar por status](#filtrar-por-status)
 - [Creado](#creado)
+
+Además de buscar pedidos en **Pedidos > Todos los pedidos**, puede buscar pedidos desde cualquier página del Admin VTEX utilizando la barra de búsqueda global en la parte superior de la página. Por defecto, la búsqueda está configurada en `Páginas`. Para buscar un pedido, haga clic en la barra, seleccione la opción `Pedidos` y utilice cualquiera de los siguientes criterios:
+
+- ID del pedido
+- Nombre del cliente
+- Email del cliente
+- Documento del cliente
 
 ## Barra de búsqueda
 

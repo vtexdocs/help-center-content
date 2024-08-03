@@ -3,8 +3,8 @@ title: 'Category Score field is not being saved'
 id: 3YxhdI31I4SY62w6oY806s
 status: PUBLISHED
 createdAt: 2018-06-01T17:24:40.180Z
-updatedAt: 2022-12-22T20:48:43.605Z
-publishedAt: 2022-12-22T20:48:43.605Z
+updatedAt: 2024-03-05T15:28:44.072Z
+publishedAt: 2024-03-05T15:28:44.072Z
 firstPublishedAt: 2018-06-01T17:39:02.287Z
 contentType: knownIssue
 productTeam: Marketing & Merchandising
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: category-score-field-is-not-being-saved
 locale: en
-kiStatus: Backlog
+kiStatus: Fixed
 internalReference: 
 ---
 

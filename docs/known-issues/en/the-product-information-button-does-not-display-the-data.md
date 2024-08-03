@@ -41,5 +41,5 @@ The <i class="fas fa-info-circle"></i> button available on the **Product and SKU
 4. Click on the `Indexed Info` button.
 5. Check the Sales Channel item for information on the SKU as shown below.
 
-![indexed info](//images.contentful.com/alneenqid6w5/7oC2oM6doEqm0pXVAN6Y6u/558f152a4d9c05442178db25e1e4c582/image.png)
+![indexed info](https://images.contentful.com/alneenqid6w5/7oC2oM6doEqm0pXVAN6Y6u/558f152a4d9c05442178db25e1e4c582/image.png)
 

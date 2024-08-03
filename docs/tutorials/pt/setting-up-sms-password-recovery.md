@@ -1,10 +1,10 @@
 ---
 title: 'Configurar recuperação de senha por SMS'
 id: 4MBZmPN2GSBNFooa9la555
-status: PUBLISHED
+status: DRAFT
 createdAt: 2019-03-07T21:02:11.023Z
-updatedAt: 2020-09-17T21:00:30.654Z
-publishedAt: 2020-09-17T21:00:30.654Z
+updatedAt: 2024-05-22T13:29:09.953Z
+publishedAt: 
 firstPublishedAt: 2019-03-07T21:04:24.196Z
 contentType: tutorial
 productTeam: Post-purchase

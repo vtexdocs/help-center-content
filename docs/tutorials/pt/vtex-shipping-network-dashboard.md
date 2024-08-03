@@ -3,8 +3,8 @@ title: 'VTEX Shipping Network: Painel'
 id: 51e8tx1IehiN4ZtURRWU92
 status: PUBLISHED
 createdAt: 2020-04-06T20:01:00.909Z
-updatedAt: 2023-06-09T12:56:22.175Z
-publishedAt: 2023-06-09T12:56:22.175Z
+updatedAt: 2024-02-29T19:20:49.152Z
+publishedAt: 2024-02-29T19:20:49.152Z
 firstPublishedAt: 2020-04-16T21:37:18.831Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -15,8 +15,12 @@ legacySlug: painel-vtex-log
 subcategory: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
+<div class="alert alert-info">
+Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site <a href="https://vtex.com/br-pt/shipping-network/">VTEX Shipping Network</a>.
+</div>
+
 <div class="alert alert-warning">
-<p>O <a href="https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC">VTEX Shipping Network Correios</a> integra sua operação com os serviços PAC e SEDEX dos Correios, e o <a href="https://vtex.com/br-pt/shipping-network/">VTEX Shipping Network</a> integra a sua operação com os Correios e outras transportadoras. Com ambas as soluções você pode usar as funcionalidades:</p><p><ul><li><a href="https://help.vtex.com/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs">Pronto para envio</a></li><li><a href="https://help.vtex.com/pt/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq">Entregas Correios</a></li><li>Painel VTEX Shipping Network</li></ul></p>
+<p>O <a href="https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC">VTEX Shipping Network Correios</a> integra sua operação com os serviços PAC e SEDEX do contrato VTEX junto aos Correios, e o <a href="https://vtex.com/br-pt/shipping-network/">VTEX Shipping Network</a> integra a sua operação com os Correios e outras transportadoras. Com ambas as soluções você pode usar as funcionalidades:</p><p><ul><li><a href="https://help.vtex.com/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs">Pronto para envio</a></li><li><a href="https://help.vtex.com/pt/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq">Entregas Correios</a></li><li>Painel VTEX Shipping Network</li></ul></p>
 </div>
 
 O [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) utiliza os dados de rastreio dos pedidos diretamente das transportadoras, mantendo você e seu cliente atualizados sobre o status de cada entrega.
@@ -51,8 +55,8 @@ A aba `Resumo Financeiro` é voltada para o acompanhamento e supervisão do resu
 | **Receita Faturada VTEX Shipping Network** | Soma de todos os fretes pagos no checkout. Quanto de fato seu cliente pagou pelo frete, filtrando apenas por transportadoras VTEX Shipping Network. Ou seja, é considerado se teve desconto no frete ou se foi frete grátis por exemplo. |
 | **Custo Projetado Geral** | Independente do VTEX Shipping Network ou não, é a soma dos valores de frete estimados pelo módulo de Estoque e Entrega para todos os pedidos. Acompanha setas que indicam a porcentagem de crescimento ou decrescimento de custos. A diminuição de custos nesse  (seta para baixo) card é uma medida positiva para os resultados de uma loja. |
 | **Custo Projetado VTEX Shipping Network** | Soma dos valores de frete estimados pelo módulo Eenvio para todos os pedidos, filtrando apenas transportadoras _VTEX Shipping Network_. Acompanha setas que indicam a porcentagem de crescimento ou decrescimento de custos.  A diminuição de custos nesse (seta para baixo) card é uma medida positiva para os resultados de uma loja. |
-| **Custo Emitido via CTE** | Custo que veio do CONEMB para todos esses pedidos. A VTEX recebe essa informação através do envio dos arquivos CONEMB, que as transportadoras nos enviam. Esse arquivo demonstra quanto a transportadora gastou em detalhe, e o número da nota fiscal do pedido. Acompanha setas que indicam a porcentagem de crescimento ou decrescimento de custos. A diminuição de custos nesse (seta para baixo) card é uma medida positiva para os resultados de uma loja. |
-| **Diferença de Custo apontada** | Diferença entre o custo projetado e do custo emitido via CTE. CTE é o arquivo recebido das transportadoras _VTEX Shipping Network_, que demonstra quanto a transportadora gastou em detalhe, e o número da nota fiscal do pedido. Acompanha setas que indicam a porcentagem de crescimento ou decrescimento de custos. O aumento entre a diferença de custos nesse card é uma medida positiva para os resultados de uma loja. |
+
+* Estamos melhorando o **Custo Emitido via CTE** e a **Diferença de Custo apontada**, e eles estão temporariamente indisponíveis.
 
 ## Aba Performance
 
@@ -92,9 +96,9 @@ Todas as transportadoras **VTEX Shipping Network** possuem selo de verificação
 É importante saber que, no caso em que a transportadora não teve a performance calculada na plataforma, os dados de rastreamento não foram integrados ao <b>VTEX Shipping Network</b>.
 </div>
 
-Para que o cálculo da performance seja feito em transportadoras que não são **VTEX Shipping Network**, os dados devem ser enviados pelo seller por uma API de tracking disponibilizada pela solução **VTEX Shipping Network**. 
+Para que o cálculo da performance seja feito em transportadoras que não são **VTEX Shipping Network**, os dados devem ser enviados pelo seller por uma API de tracking disponibilizada pela solução **VTEX Shipping Network**. Nestes casos, vale ressaltar que os dados do painel podem ser imprecisos, pois não há validação da entrega ser realizada no prazo indicado. 
 
-Para saber mais como realizar essa integração confira o [Overview VTEX Shipping Network](https://developers.vtex.com/vtex-rest-api/reference/vtex-log-api-overview) das nossas APIs.
+Para saber mais como realizar essa integração, confira o [Overview VTEX Shipping Network](https://developers.vtex.com/docs/api-reference/vtex-shipping-network-api) das nossas APIs.
 
 ### Exportar relatório
 

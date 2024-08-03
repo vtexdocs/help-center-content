@@ -3,8 +3,8 @@ title: 'Las promociones por orden de formas de pago no aparecen en la página de
 id: HZ5IoCFFOhuxU0jQWkMPp
 status: PUBLISHED
 createdAt: 2019-08-13T20:45:50.232Z
-updatedAt: 2023-03-31T15:44:56.958Z
-publishedAt: 2023-03-31T15:44:56.958Z
+updatedAt: 2024-07-01T18:48:59.282Z
+publishedAt: 2024-07-01T18:48:59.282Z
 firstPublishedAt: 2019-08-13T21:10:58.244Z
 contentType: knownIssue
 productTeam: Catalog
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Catalog
 slug: las-promociones-por-orden-de-formas-de-pago-no-aparecen-en-la-pagina-del-producto
 locale: es
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 781523
 ---
 

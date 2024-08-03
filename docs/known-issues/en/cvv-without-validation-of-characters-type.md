@@ -3,8 +3,8 @@ title: 'CVV without validation of characters type'
 id: 63MJ3ODCvr3ayfgJiuN1ja
 status: PUBLISHED
 createdAt: 2022-03-27T20:25:43.400Z
-updatedAt: 2022-11-25T22:07:55.541Z
-publishedAt: 2022-11-25T22:07:55.541Z
+updatedAt: 2024-02-16T20:29:04.636Z
+publishedAt: 2024-02-16T20:29:04.636Z
 firstPublishedAt: 2022-03-27T20:25:43.819Z
 contentType: knownIssue
 productTeam: Payments
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Payments
 slug: cvv-without-validation-of-characters-type
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 425204
 ---
 

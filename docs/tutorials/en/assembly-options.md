@@ -3,8 +3,8 @@ title: 'Assembly Options'
 id: 5x5FhNr4f5RUGDEGWzV1nH
 status: PUBLISHED
 createdAt: 2021-10-25T20:22:43.094Z
-updatedAt: 2023-03-29T17:55:49.763Z
-publishedAt: 2023-03-29T17:55:49.763Z
+updatedAt: 2024-06-06T19:38:13.881Z
+publishedAt: 2024-06-06T19:38:13.881Z
 firstPublishedAt: 2021-10-25T21:39:46.746Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

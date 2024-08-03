@@ -3,8 +3,8 @@ title: 'Orders Overview'
 id: tutorials_201
 status: PUBLISHED
 createdAt: 2017-04-27T22:13:42.525Z
-updatedAt: 2023-04-26T14:51:44.363Z
-publishedAt: 2023-04-26T14:51:44.363Z
+updatedAt: 2023-12-21T14:01:20.828Z
+publishedAt: 2023-12-21T14:01:20.828Z
 firstPublishedAt: 2017-04-27T23:03:03.051Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -29,6 +29,17 @@ This section includes the following pages:
 - [Order Details](https://help.vtex.com/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl)   
 - [Transactions](https://help.vtex.com/en/tutorial/how-to-view-transactions-on-pci-gateway--tutorials_461) 
 - [Bank reconciliation](https://help.vtex.com/en/tutorial/bank-reconciliations--tutorials_453) 
+
+Besides searching for orders in **Orders > All Orders**, you can search for orders from any page in the VTEX Admin using the global search bar at the top bar. By default, the search is configured as `Pages`. To search for an order, click on the bar, select `Orders`, and use one of the following criteria:
+
+- Order ID
+- Customer name
+- Customer email
+- Customer document
+
+<div class = "alert alert-info">
+You can only access information from orders created in the last two years, and that same period is valid for customers through <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>.
+</div>
 
 ## Subscriptions
 

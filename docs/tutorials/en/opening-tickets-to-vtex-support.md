@@ -1,10 +1,10 @@
 ---
 title: 'Opening tickets to VTEX support'
 id: 16yOEqpO32UQYygSmMSSAM
-status: CHANGED
+status: PUBLISHED
 createdAt: 2017-11-21T22:18:13.507Z
-updatedAt: 2022-12-16T19:09:29.363Z
-publishedAt: 2022-05-31T21:10:30.601Z
+updatedAt: 2023-12-01T18:51:22.803Z
+publishedAt: 2023-12-01T18:51:22.803Z
 firstPublishedAt: 2017-11-22T02:37:19.330Z
 contentType: tutorial
 productTeam: Others

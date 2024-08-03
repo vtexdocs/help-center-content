@@ -3,8 +3,8 @@ title: 'Permitir substituição de pedidos'
 id: 381eYJw7lrypjGq3hmPtGV
 status: PUBLISHED
 createdAt: 2019-11-18T11:57:28.677Z
-updatedAt: 2023-03-31T22:52:53.575Z
-publishedAt: 2023-03-31T22:52:53.575Z
+updatedAt: 2024-04-01T17:58:20.948Z
+publishedAt: 2024-04-01T17:58:20.948Z
 firstPublishedAt: 2019-11-18T12:20:58.872Z
 contentType: trackArticle
 productTeam: Post-purchase
@@ -17,6 +17,10 @@ trackSlugPT: pedidos
 A **Substituição de pedidos** permite aos clientes da sua loja alterar dados de pedidos já realizados. 
 
 O objetivo é ajudá-los a corrigir erros sem a necessidade de realizar um novo pedido manualmente ou de entrar em contato com seu suporte, o que facilita a operação da sua loja e reduz custos.
+
+<div class = "alert alert-warning">
+Não é possível <a href="https://help.vtex.com/pt/tutorial/como-cancelar-pedido--tutorials_186">cancelar pedidos</a> que já tenham sido <a href="https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe">faturados parcialmente</a>. Caso o cliente deseje substituir ou remover itens do pedido, é possível <a href="https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190">alterar o pedido</a>.
+</div>
 
 ## Como ativar a Substituição de pedidos
 

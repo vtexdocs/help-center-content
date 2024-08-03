@@ -3,8 +3,8 @@ title: '¿Por qué mi transportista no aparece en el checkout?'
 id: frequentlyAskedQuestions_165
 status: PUBLISHED
 createdAt: 2017-04-27T22:39:09.470Z
-updatedAt: 2023-03-20T20:32:20.572Z
-publishedAt: 2023-03-20T20:32:20.572Z
+updatedAt: 2023-08-25T15:13:42.026Z
+publishedAt: 2023-08-25T15:13:42.026Z
 firstPublishedAt: 2017-04-27T23:01:43.444Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
@@ -25,6 +25,10 @@ Vale resaltar que antes de proseguir la lectura de este artículo, es necesario 
 Al momento de registrar una transportadora, es necesario incluir el [tipo de entrega](https://help.vtex.com/es/tutorial/como-funciona-o-tipo-de-entrega/) de esta transportadora. En el checkout, se exhiben los _tipos de entrega_ y no el nombre de las transportadoras.
 
 El checkout exhibe siempre la transportadora más rápida/barata entre las opciones de un mismo tipo de entrega. Así, una transportadora no aparece en el checkout cuando otra del mismo tipo tiene menor plazo/costo registrado.  
+
+<div class="alert alert-warning">
+Cuando hay empate entre dos transportadoras, el criterio de desempate es tener el menor costo de envío.
+</div>
 
 ### Solución
 

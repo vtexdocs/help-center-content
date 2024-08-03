@@ -1,10 +1,10 @@
 ---
 title: 'Configurar gateway Ingenico ePayments (NPS)'
 id: 4DtjieyNQIQeI2O2kymEgq
-status: PUBLISHED
+status: DRAFT
 createdAt: 2018-04-18T13:22:00.721Z
-updatedAt: 2023-03-29T01:15:32.462Z
-publishedAt: 2023-03-29T01:15:32.462Z
+updatedAt: 2024-03-18T19:00:20.612Z
+publishedAt: 
 firstPublishedAt: 2018-04-18T15:09:45.694Z
 contentType: tutorial
 productTeam: Financial
@@ -14,6 +14,8 @@ locale: es
 legacySlug: configurar-gateway-nps
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
+
+<div class="alert alert-danger">Esta integración de pago ya no se puede configurar en la plataforma debido al <a href="https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14">proceso de descontinuación de los proveedores legados</a> y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.</div>
 
 Ingenico ePayments (NPS) es un [gateway](/es/tutorial/que-es-un-gateway-de-pagos) con fuerte actuación en América Latina y que permite que su tienda acepte diversas condiciones de pago.
 

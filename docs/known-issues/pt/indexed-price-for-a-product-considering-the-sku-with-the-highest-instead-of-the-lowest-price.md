@@ -3,8 +3,8 @@ title: 'Preço indexado para um produto considerando a SKU com o preço mais alt
 id: 333mavl9dvgO4Jrgv8ECE6
 status: PUBLISHED
 createdAt: 2023-05-09T14:39:56.338Z
-updatedAt: 2023-05-09T14:39:56.771Z
-publishedAt: 2023-05-09T14:39:56.771Z
+updatedAt: 2023-08-18T17:24:09.314Z
+publishedAt: 2023-08-18T17:24:09.314Z
 firstPublishedAt: 2023-05-09T14:39:56.771Z
 contentType: knownIssue
 productTeam: Intelligent Search
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Intelligent Search
 slug: preco-indexado-para-um-produto-considerando-a-sku-com-o-preco-mais-alto-em-vez-do-mais-baixo
 locale: pt
-kiStatus: Scheduled
+kiStatus: Fixed
 internalReference: 822120
 ---
 

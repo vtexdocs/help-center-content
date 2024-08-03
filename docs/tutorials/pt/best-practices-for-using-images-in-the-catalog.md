@@ -3,8 +3,8 @@ title: 'Boas práticas para o uso de imagens no Catálogo'
 id: 738K2yfq5U86kUI2k4AQIk
 status: PUBLISHED
 createdAt: 2018-01-30T14:45:53.934Z
-updatedAt: 2022-07-07T15:32:57.069Z
-publishedAt: 2022-07-07T15:32:57.069Z
+updatedAt: 2024-01-23T15:54:22.159Z
+publishedAt: 2024-01-23T15:54:22.159Z
 firstPublishedAt: 2018-01-31T18:36:10.087Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -29,7 +29,7 @@ Este artigo tem como objetivo enunciar algumas boas práticas em relação ao us
 - Não recomendamos esticar a imagem para não afetar sua qualidade.
 
 ## Saiba mais
-- [Cadastrar Producto](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL)
-- [Cadastrar SKU](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ)
+- [Cadastrar Producto](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1ROhz3Y7mfSMmCO1I1GxEL)
+- [Cadastrar SKU](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ)
 - [Importar imagens por planilha](https://help.vtex.com/pt/tutorial/importando-imagens-por-planilha--tutorials_262)
 

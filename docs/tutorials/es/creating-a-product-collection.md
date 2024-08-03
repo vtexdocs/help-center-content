@@ -79,7 +79,7 @@ Al contrario de la versión anterior, en la que la inclusión de productos espec
 
 Pese a que los filtros de grupos son muy prácticos para crear agrupamientos de productos en forma automática, es posible que ellos no atiendan sus necesidades en situaciones específicas. Para resolver eso, es posible importar un listado con los SKUs que formarán parte del grupo y consecuentemente, de la colección. El módulo de colecciones acepta archivos en los formatos planilla de Excel (.xls) o CSV (.csv). En el caso de archivos en formato Excel, todos los IDs de los SKUs deben estar dispuestos en la primera columna, sin encabezado, como ejemplifica la figura abajo:
 
-![](//images.contentful.com/alneenqid6w5/6t9b1mIYmsSewCEu8yOagi/c0f73dc7b921e0f7cc65cea1ae572b7b/Importar_lista_de_skus.jpg)
+![](https://images.contentful.com/alneenqid6w5/6t9b1mIYmsSewCEu8yOagi/c0f73dc7b921e0f7cc65cea1ae572b7b/Importar_lista_de_skus.jpg)
 
 Después que el sistema importa la planilla, los SKUs se presentan de la siguiente forma: ![Importar_lista_de_skus](https://images.ctfassets.net/alneenqid6w5/opkyzS2xKCMecIU0c04Iu/ac8b3e545d02267630712b00b3e532f9/Importar_lista_de_skus.gif)
 
@@ -93,7 +93,7 @@ Para evitar que un administrador tenga que excluir manualmente diversos SKUs, un
 
 ![Excluir_lista_de_skus](https://images.ctfassets.net/alneenqid6w5/7fkP3OAKk0Kq0SYM8aAw6M/37026d5804485392c3dac490adad7b40/Excluir_lista_de_skus.gif)
 
-Obtenga un modelo de archivo para importación tanto para inclusión como para exclusión de ítems en la colección [aquí](//assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls "aquí").
+Obtenga un modelo de archivo para importación tanto para inclusión como para exclusión de ítems en la colección [aquí](https://assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls "aquí").
 
 ## Búsqueda de coleciones
 

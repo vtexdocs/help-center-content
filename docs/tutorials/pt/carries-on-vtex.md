@@ -3,8 +3,8 @@ title: 'Transportadoras na VTEX'
 id: 7u9duMD5UQa2QQwukAWMcE
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:39.775Z
-updatedAt: 2023-03-31T01:00:22.710Z
-publishedAt: 2023-03-31T01:00:22.710Z
+updatedAt: 2023-07-31T22:14:54.618Z
+publishedAt: 2023-07-31T22:14:54.618Z
 firstPublishedAt: 2019-01-24T22:14:26.579Z
 contentType: tutorial
 productTeam: Post-purchase

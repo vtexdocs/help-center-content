@@ -3,8 +3,8 @@ title: 'Customer information is not saved in the Profile System'
 id: 1MCiEAJ3ZueJVM04T7x9z2
 status: PUBLISHED
 createdAt: 2023-04-04T22:47:43.035Z
-updatedAt: 2023-04-06T17:51:29.025Z
-publishedAt: 2023-04-06T17:51:29.025Z
+updatedAt: 2023-11-01T12:37:24.071Z
+publishedAt: 2023-11-01T12:37:24.071Z
 firstPublishedAt: 2023-04-04T22:47:43.593Z
 contentType: knownIssue
 productTeam: Checkout
@@ -12,7 +12,7 @@ author: 2mXZkbi0oi061KicTExNjo
 tag: Checkout
 slug: customer-information-is-not-saved-in-the-profile-system
 locale: en
-kiStatus: Backlog
+kiStatus: No Fix
 internalReference: 784763
 ---
 

@@ -3,8 +3,8 @@ title: 'Setting up payments with Nubank (NuPay)'
 id: 4nVjWfJw7PwraBHCoS45tc
 status: PUBLISHED
 createdAt: 2022-07-19T17:39:57.710Z
-updatedAt: 2023-03-26T21:17:16.116Z
-publishedAt: 2023-03-26T21:17:16.116Z
+updatedAt: 2024-01-23T19:13:04.800Z
+publishedAt: 2024-01-23T19:13:04.800Z
 firstPublishedAt: 2022-07-19T18:24:09.993Z
 contentType: tutorial
 productTeam: Financial

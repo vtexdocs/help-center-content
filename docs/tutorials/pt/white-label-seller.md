@@ -3,8 +3,8 @@ title: 'Seller white label'
 id: 5orlGHyDHGAYciQ64oEgKa
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:34.034Z
-updatedAt: 2022-10-17T17:52:42.676Z
-publishedAt: 2022-10-17T17:52:42.676Z
+updatedAt: 2023-07-14T15:15:56.338Z
+publishedAt: 2023-07-14T15:15:56.338Z
 firstPublishedAt: 2019-01-24T22:03:52.175Z
 contentType: tutorial
 productTeam: Channels
@@ -48,3 +48,4 @@ Para adicionar um seller white label é necessário ter esse modelo previsto no 
 - [Seleção de sellers white label](https://help.vtex.com/pt/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa)
 - [Configurar marketplace VTEX](https://help.vtex.com/pt/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb)
 - [Adicionar seller](https://help.vtex.com/pt/tutorial/adicionar-seller--tutorials_392)
+- [Escolher entre conta padrão, conta franquia ou Seller Portal](https://help.vtex.com/pt/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78)

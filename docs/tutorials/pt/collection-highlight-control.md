@@ -3,8 +3,8 @@ title: 'Controle de destaque de coleção'
 id: 1tGdb2ndjqy6yWsk2YwKMu
 status: PUBLISHED
 createdAt: 2018-02-21T19:12:49.216Z
-updatedAt: 2023-03-29T18:01:46.386Z
-publishedAt: 2023-03-29T18:01:46.386Z
+updatedAt: 2023-06-22T17:42:41.479Z
+publishedAt: 2023-06-22T17:42:41.479Z
 firstPublishedAt: 2018-02-21T20:51:49.939Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -16,7 +16,7 @@ subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
 <div class = "alert alert-warning">
-  <p><b>Atenção:</b> existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do CMS</a>.</p>
+  <p> existem duas formas de configurar coleções, por meio do CMS ou utilizando o módulo de Coleções Beta. Este artigo, refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do Portal CMS Legado.</a>.</p>
 </div>
 
 O controle `<vtex.cmc:HightLight/>` (para páginas de produto) ou `$product.HightLight` (para prateleiras) renderiza um elemento HTML com uma classe específica no contexto dos produtos que fizerem parte de uma coleção marcada com a flag __Highlight__.
@@ -28,7 +28,7 @@ Em primeiro lugar, vamos ver onde se encontra a flag Highlight:
 3. Clique em uma coleção.
 4. Marque a flag __Highlight__, que fica na tela da coleção, e clique em __Save Product Cluster__.
 
-![CollectionHighlightFlag](//images.contentful.com/alneenqid6w5/4ced6Gcbeg662KewckyQka/77aaef77fc87cf8112f759c867a6bd4b/CollectionHighlightFlag.png)
+![CollectionHighlightFlag](https://images.contentful.com/alneenqid6w5/4ced6Gcbeg662KewckyQka/77aaef77fc87cf8112f759c867a6bd4b/CollectionHighlightFlag.png)
 
 Ao marcar a flag, você informa ao sistema que sempre que o controle de destaque for usado no template de uma página, os produtos exibidos nessa página que fizerem parte da coleção em questão devem aparecer com o elemento HTML abaixo, onde no lugar de `{nomeDaColecao}` aparece o nome da coleção cadastrada no CMS:
 

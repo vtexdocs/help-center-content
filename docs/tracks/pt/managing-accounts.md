@@ -1,10 +1,10 @@
 ---
-title: 'Gerenciar contas no Customer Credit'
+title: 'Gerenciando contas no Customer Credit'
 id: 4eknoeqaj6EGC20amsm6Gc
 status: PUBLISHED
 createdAt: 2018-11-06T21:15:25.330Z
-updatedAt: 2023-05-12T12:21:21.583Z
-publishedAt: 2023-05-12T12:21:21.583Z
+updatedAt: 2024-02-27T19:44:55.522Z
+publishedAt: 2024-02-27T19:44:55.522Z
 firstPublishedAt: 2018-11-07T17:10:45.883Z
 contentType: trackArticle
 productTeam: Financial
@@ -14,100 +14,66 @@ trackId: 1hCRg21lXYy2seOKgqQ2CC
 trackSlugPT: customer-credit-como-comecar
 ---
 
-A tela de Detalhes da Conta traz tudo o que você precisa saber sobre uma conta e suas configurações.
+Por meio da tela de contas no Admin VTEX (__Aplicativos > Customer Credit > Contas__), você pode ter acesso a informações de todas contas cadastradas no app do Customer Credit em sua loja. 
 
-## Limite de crédito
-O limite de crédito e indica o valor máximo de títulos em aberto que um cliente pode ter em um dado momento. Estabelecê-lo é obrigatório e o super Admin da conta pode alterar esse valor quantas vezes quiser.
+Ao clicar sobre o nome de uma conta específica, a tela __Detalhes da conta__ exibirá os seguintes de dados:
 
-Além disso, lembre-se que as alterações no limite de crédito são atualizadas em poucos minutos no sistema.
+- [Informações do Titular](#titular)
+- [Status de crédito](#status)
+- [Títulos emitidos](#titulos)
+- [Extrato de utilização](#extrato)
+- [Dependentes adicionais](#dependentes-adicionais)
+- [Encerramento de conta](#encerramento-da-conta)
+<br>
+<br>
+![Conta_PT](https://images.ctfassets.net/alneenqid6w5/3Wu6HcL5NbC5XS5YdiF3Dx/7a4da3fc9797c2256f03e5811b06475d/Contas_PT.png)
+
+## Titular
+
+Apresenta informações sobre o status da conta (ativa, inativa), código de identificação, documento e email cadastrados do titular, datas de abertura da conta e da última atualização de dados. 
+
+## Status
+
+Exibe o valor do crédito disponível para o cliente utilizar em compras e o valor total a ser pago (em títulos), por compras já realizadas utilizando o Customer Credit como meio de pagamento.
+
+<div class="alert alert-warning">
+Quando o cliente realiza uma compra utilizando o Customer Credit, mas o pedido ainda não foi faturado (título emitido), o campo <b>Crédito reservado</b> também é exibido nesta tela contendo a informação do valor do pedido.
+</div>
+
+## Gerenciar
+
+Indica o valor máximo de crédito concedido ao cliente e a tolerância a ser utilizada em compras. Estes valores podem ser editados a qualquer momento.
 
 ## Títulos
-O título é o documento gerado quando um cliente fecha uma compra utilizando o Customer Credit como meio de pagamento. 
 
-Em casos de compras parceladas, os títulos são referentes ao número de parcelas. Ou seja, se o cliente optou por fazer um pagamento em 10 parcelas, o sistema computará 10 títulos relacionados ao mesmo pedido. 
+Lista contendo as seguintes informações sobre todos os títulos emitidos em compras realizadas pelo cliente:
 
-Independente do meio de pagamento, todos os títulos no sistema podem ser visualizados e gerenciados pelo Admin e,  assim como as contas, também podem ser exportados e editados em massa. 
+- Data de vencimento
+- Observação (mensagem específica para um título)
+- Id do pedido
+- Valor do título
+- Status do título (Aberto, Pago, Cancelado, Vencido)
 
-### Estados de um título
-Há quatro status possíveis para os títulos.
+## Extrato
 
-São eles:
-
-- Aberto; 
-- Pago; 
-- Vencido;
-- Cancelado. 
-
-Vale ressaltar que um título é sempre criado com o status de aberto e, dependendo de ações feitas no Admin ou de chamadas de API, pode transitar para o estado de Pago ou Cancelado.
-
-### Liquidação dos títulos
-
-A forma como os títulos serão liquidados precisa ser controlada pela loja.
-
-Uma das opções de liquidação de títulos é gerar um link de pagamento. Nesse caso, uma vez que o esteja configurado, o cliente verá um botão "Pagar" junto do título na tela de Meus Créditos, que o levará para o link indicado. 
-
-Além disso, os links de pagamento podem ser adicionados via arquivo CSV pelo Admin ou via API. 
-
-Desse modo, após ter recebido o pagamento referente a um título, basta marcá-lo como pago no nosso sitema. Isto pode ser feito de três maneiras: individualmente, em massa ou pela API.
-
-#### Liquidação individual
-Liquidar um título pelo Admin é bem simples. 
-
-Os passos são:
-
-1. Acesse o __Admin__;
-2. Clique no módulo __Customer Credit__;
-3. Em seguida, clique na seção __Títulos__;
-4. Selecione o __título__ que deseja editar;
-5. Clique no botão azul claro __“Marcar como pago”__.
-
-Assim, o título terá o estado alterado para “Pago”.
-
-#### Liquidação em massa
-Caso sua conta tenha muito títulos em aberto, não é viável alterar o status de cada um individualmente. 
-
-Desse modo, você pode utilizar o recurso de liquidação em massa, processo muito semelhante ao de atualização de contas em massa. O princípio é o mesmo: importar um arquivo CSV com os novos dados para o Admin. 
-
-Nesse caso, você deve alterar os valores da coluna status de “Aberto” para “Pago” e salvar as edições.
-
-Em seguida, basta seguir o passo a passo:
-
-1. Acesse o __Admin__;
-2. Clique no módulo __Customer Credit__;
-3. Em seguida, clique na seção __Títulos__;
-4. Depois, clique no botão __“Atualizar em massa”__;
-5. Clique no botão cinza __“Escolher arquivo”__;
-6. Selecione o __arquivo CSV__ desejado.
-
-Aguarde o upload da planilha e os títulos serão liquidados todos de uma vez.
-
-#### Liquidação por API
-Para liquidar um título por meio de uma API, você pode utilizar o [endpoint](https://developers.vtex.com/docs/api-reference/customer-credit-api#put-/api/creditcontrol/accounts/-creditAccountId-/invoices/-invoiceId- "endpoint") `PUT Change Invoice`. Essa API serve para alterar o estado de um título, não apenas para liquidá-lo.
-
-Preencha o body com as seguintes informações:
-
-```json
-{
-"status": "string [Opened | Cancelled | Paid] (optional)", "observation": "string (optional)",
-"paymentLink": "string (URL) (optional)"
-}
-```
-
-Para mais detalhes, confira nossa [documentação técnica sobre o Customer Credit](https://developers.vtex.com/docs/guides/customer-credit-api-overview "documentação técnica sobre o Customer Credit").
+Exibe um relatório de todas as movimentações de pagamento e títulos realizadas para o cliente durante um período selecionado.
 
 ## Dependentes adicionais
-Conforme suas regras de negócio, você pode compartilhar o limite de crédito das contas com demais usuários. 
 
-A funcionalidade permite você cadastre novos dependentes para uma conta. Estes, por sua vez, poderão compartilhar o mesmo crédito disponível para pagar compras no SmartCheckout.
+A funcionalidade __Dependentes adicionais__ permite que o cliente possa compartilhar os créditos disponíveis para compras com outras pessoas cadastradas na conta.
 
-Para cadastrar novos dependentes para uma conta, siga o passo a passo:
+Para cadastrar um novo dependente, siga os passos abaixo:
 
-1. Acesse o __Admin__;
-2. Clique no módulo __Customer Credit__;
-3. Em seguida, clique na seção __Contas__;
-4. Selecione a __conta__ que deseja editar;
-5. No final da página, clique no botão azul __"Novo"__;
-6. Preencha o campo em branco com o __e-mail__ do novo dependente;
-7. Clique no botão azul __"Confirmar"__.
+1. Dentro da conta do cliente, em __Dependentes adicionais__, clique em `NOVO`.
+2. Insira o email da pessoa a ser adicionada como dependente na conta do cliente.
+3. Clique em `CONFIRMAR`.
 
-Isso fará com que o dependente recém-adicionado seja  exibido no box de dependentes adicionais daquela conta.
+A partir deste momento, o cliente e seu dependente poderão utilizar de forma compartilhada o valor em __Crédito disponível__ para realizar suas compras por meio do Customer Credit.
+
+## Encerramento da conta
+
+Caso deseje encerrar a conta do cliente, na seção __Outros__, clique em `FECHAR CONTA`.
+
+<div class="alert alert-warning">
+Uma conta do Customer Credit fechada não poderá ser reaberta novamente e os dados de títulos, extrato e dependentes adicionais serão apagados. Entretanto, após concluir o encerramento da conta, caso deseje, você poderá <a href="https://help.vtex.com/pt/tracks/customer-credit-como-comecar--1hCRg21lXYy2seOKgqQ2CC/7FHLd0cmxqqGeEUuc8uioU#criar-contas-individualmente">abrir uma nova conta</a> para o cliente utilizando o mesmo email da conta encerrada.
+</div>

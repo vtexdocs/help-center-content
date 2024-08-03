@@ -3,8 +3,8 @@ title: 'Transactional emails for subscription orders'
 id: 2NYHqHMRqZ43Cn6s84ZCB5
 status: PUBLISHED
 createdAt: 2020-02-11T15:13:38.504Z
-updatedAt: 2021-11-30T18:14:37.654Z
-publishedAt: 2021-11-30T18:14:37.654Z
+updatedAt: 2023-12-21T14:14:10.536Z
+publishedAt: 2023-12-21T14:14:10.536Z
 firstPublishedAt: 2020-02-17T21:15:14.903Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -27,6 +27,10 @@ To access transactional emails for Subscription orders, check out the walk-throu
 You can also create your own email template. Learn how to [configure transactional email templates on the VTEX platform](https://help.vtex.com/en/tutorial/understanding-the-message-center--tutorials_84).
 
 ## How your customer tracks their Subscription Orders
+
+<div class = "alert alert-info">
+In <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>, customers can only access their orders from the last two years.
+</div>
 
 Each action that occurs within the Subscription order flow contains a trigger that sends an email notifying your customer. After activating the Subscription, your customer will receive e-mails with details of the status of each subscription order every time they perform an action.
 

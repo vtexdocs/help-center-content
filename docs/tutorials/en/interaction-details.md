@@ -1,10 +1,10 @@
 ---
 title: 'Offer Management: interaction details'
 id: 5qC6XPkyUsYPd0dqKHQNlf
-status: PUBLISHED
+status: DRAFT
 createdAt: 2021-03-17T01:16:13.273Z
-updatedAt: 2023-03-31T04:45:50.134Z
-publishedAt: 2023-03-31T04:45:50.134Z
+updatedAt: 2024-06-20T21:43:33.011Z
+publishedAt: 
 firstPublishedAt: 2021-03-17T01:20:58.901Z
 contentType: tutorial
 productTeam: Channels
@@ -12,8 +12,14 @@ author: 0QBQws7rk0t5Mnu8fgfUv
 slug: interaction-details
 locale: en
 legacySlug: interaction-details
-subcategory: 2zVauFUkYn8vgS0y0MfWeK
+subcategory: 
 ---
+
+<div class="alert alert-info">
+To evolve your experience in synchronizing and updating offers, the VTEX team is developing a new functionality that will replace the current module <b>Offer Management</b>. As a result, the module will not receive new updates or maintenance.
+For connectors and marketplaces already integrated into the module, please contact the development team by email <a href="taissa.araujo@vtex.com.br">taissa.araujo@vtex.com.br</a>.
+For connectors interested in starting the integration, we ask you to wait for the release of the new module, as soon as it is available we will announce it to all customers through the <a href="https://developers.vtex.com/updates/release-notes">Developer Portal's release notes section</a> and <a href="https://help.vtex.com/pt/en/announcements">VTEX Help Center announcements page</a>.
+</div>  
 
 The **Interaction details** page in the [Offer Management](https://help.vtex.com/en/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE) module allows sellers to view all interactions of an offer regarding its sending and syncing processes in a comprehensive manner. Interaction details will be available for ten days after registration.
 
