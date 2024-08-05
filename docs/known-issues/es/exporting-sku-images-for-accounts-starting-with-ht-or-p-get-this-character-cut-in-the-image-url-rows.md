@@ -1,5 +1,5 @@
 ---
-title: "Al exportar imágenes SKU para cuentas que empiezan por 'h','t' o 'p' se corta este carácter en las filas "URL de la imagen'."
+title: "Al exportar imágenes SKU para cuentas que empiezan por 'h','t' o 'p' se corta este carácter en las filas 'URL de la imagen'."
 id: 1IZdnE8IGwkBlbcFhjLrzn
 status: PUBLISHED
 createdAt: 2023-10-13T15:20:49.703Z
