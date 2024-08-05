@@ -1,5 +1,5 @@
 ---
-title: '[Admin] Global Search doesn't recognize "Profile Menu items"'
+title: "[Admin] Global Search doesn't recognize 'Profile Menu items'"
 id: 4AZiu9NXouL6b8z5EHJIWK
 status: PUBLISHED
 createdAt: 2024-01-22T17:09:55.423Z
