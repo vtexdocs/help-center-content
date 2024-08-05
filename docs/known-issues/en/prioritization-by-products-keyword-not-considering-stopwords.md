@@ -1,5 +1,5 @@
 ---
-title: "Prioritization by product's "keyword" not considering stopwords"
+title: "Prioritization by product's "keyword' not considering stopwords"
 id: 55S7nFg61dAyCeGQCIw6aK
 status: PUBLISHED
 createdAt: 2024-05-30T22:05:25.328Z

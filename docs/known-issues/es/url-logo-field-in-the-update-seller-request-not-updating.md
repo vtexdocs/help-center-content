@@ -1,5 +1,5 @@
 ---
-title: 'El campo "Url Logo" en la solicitud de actualización del vendedor no se actualiza'
+title: "El campo 'Url Logo' en la solicitud de actualización del vendedor no se actualiza"
 id: 1WmNl3RgesWAUL8rjitJV1
 status: PUBLISHED
 createdAt: 2022-01-21T15:18:15.945Z

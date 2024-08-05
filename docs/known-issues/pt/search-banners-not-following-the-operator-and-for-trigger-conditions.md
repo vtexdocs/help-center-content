@@ -1,5 +1,5 @@
 ---
-title: 'Os banners de pesquisa não seguem o operador "AND" para condições de acionamento'
+title: "Os banners de pesquisa não seguem o operador 'AND' para condições de acionamento"
 id: 4nQLt5q3Mz2DxvBIyZknXj
 status: PUBLISHED
 createdAt: 2024-06-20T21:17:46.485Z

@@ -1,5 +1,5 @@
 ---
-title: 'Carro creado a partir de una opción "pedir de nuevo" en Mis pedidos, el correo electrónico del cliente no se está colocando como se esperaba en el orderForm'
+title: "Carro creado a partir de una opción 'pedir de nuevo' en Mis pedidos, el correo electrónico del cliente no se está colocando como se esperaba en el orderForm"
 id: 6dDhkaIhquOqaDuNkVZuln
 status: PUBLISHED
 createdAt: 2023-12-04T22:41:21.385Z

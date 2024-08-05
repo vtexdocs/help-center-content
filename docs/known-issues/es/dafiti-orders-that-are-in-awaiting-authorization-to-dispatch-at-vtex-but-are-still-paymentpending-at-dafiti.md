@@ -1,5 +1,5 @@
 ---
-title: '[Dafiti] Pedidos que se encuentran en "A la espera de autorización de envío" en VTEX, pero que siguen en "pago_pendiente" en Dafiti.'
+title: "[Dafiti] Pedidos que se encuentran en 'A la espera de autorización de envío' en VTEX, pero que siguen en 'pago_pendiente' en Dafiti."
 id: 6XbDr2QRAtk0bVAeywagjq
 status: PUBLISHED
 createdAt: 2022-12-20T13:14:31.368Z

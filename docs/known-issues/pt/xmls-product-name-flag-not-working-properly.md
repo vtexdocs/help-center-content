@@ -1,5 +1,5 @@
 ---
-title: 'O sinalizador "Nome do produto" do XML não está funcionando corretamente'
+title: "O sinalizador 'Nome do produto' do XML não está funcionando corretamente"
 id: 6YDbpRns3LCN02bVKM8aaf
 status: PUBLISHED
 createdAt: 2023-10-26T11:35:14.500Z

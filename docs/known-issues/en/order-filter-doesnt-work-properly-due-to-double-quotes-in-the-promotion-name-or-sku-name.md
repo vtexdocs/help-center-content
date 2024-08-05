@@ -1,5 +1,5 @@
 ---
-title: "Order Filter doesn't work properly due to double quotes (") in the Promotion name or SKU name"
+title: "Order Filter doesn't work properly due to double quotes (') in the Promotion name or SKU name"
 id: 4Qm0akQTQXR8sSbkTDiBL7
 status: PUBLISHED
 createdAt: 2024-06-06T15:42:19.747Z

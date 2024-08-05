@@ -1,5 +1,5 @@
 ---
-title: 'Módulo "Recorrência" será descontinuado: migre seus dados até agosto'
+title: "Módulo 'Recorrência' será descontinuado: migre seus dados até agosto"
 id: 6FMxXxKZknbKKULVFII4vQ
 status: PUBLISHED
 createdAt: 2020-06-05T16:09:52.370Z

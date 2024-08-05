@@ -1,5 +1,5 @@
 ---
-title: 'Conflicts with price filters and "isAvailablePerSalesChannel" in searches (Portal and Search) (Again)'
+title: "Conflicts with price filters and 'isAvailablePerSalesChannel' in searches (Portal and Search) (Again)"
 id: 6dLv8lP69Em68ooydjaPzY
 status: PUBLISHED
 createdAt: 2022-02-24T13:24:42.299Z

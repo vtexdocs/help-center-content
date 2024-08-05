@@ -1,5 +1,5 @@
 ---
-title: 'El filtro de precios se aplica sobre el "precio al contado" en lugar del precio normal'
+title: "El filtro de precios se aplica sobre el 'precio al contado' en lugar del precio normal"
 id: 2EEgRV1NxYuns4eF7F0ZqD
 status: PUBLISHED
 createdAt: 2024-02-15T19:39:53.576Z

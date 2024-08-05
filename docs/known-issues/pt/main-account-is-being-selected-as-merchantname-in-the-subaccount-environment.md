@@ -1,5 +1,5 @@
 ---
-title: 'A conta principal está sendo selecionada como "Merchant.Name" no ambiente da sub-conta'
+title: "A conta principal está sendo selecionada como 'Merchant.Name' no ambiente da sub-conta"
 id: 51coXFBM2wtrJukH3oRESy
 status: PUBLISHED
 createdAt: 2023-03-29T20:54:19.877Z

@@ -1,5 +1,5 @@
 ---
-title: 'Addresses are shown in the Checkout when buyer has "Can add shipping" permission'
+title: "Addresses are shown in the Checkout when buyer has 'Can add shipping' permission"
 id: 2ssiTryGJ6kGoZWxWkGnFF
 status: PUBLISHED
 createdAt: 2024-05-21T22:03:55.172Z

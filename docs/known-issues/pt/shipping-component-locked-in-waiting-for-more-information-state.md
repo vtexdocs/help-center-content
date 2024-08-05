@@ -1,5 +1,5 @@
 ---
-title: 'Componente de envio trancado no estado "À espera de mais informações".'
+title: "Componente de envio trancado no estado 'À espera de mais informações'."
 id: 7HHlJdZvZ31NgsB7lTShAz
 status: PUBLISHED
 createdAt: 2023-03-29T19:26:05.971Z

@@ -1,5 +1,5 @@
 ---
-title: 'Incorrect address format on the "My Cards" billing addresses'
+title: "Incorrect address format on the 'My Cards' billing addresses"
 id: 25QxVtMOazrxugHZqFrhSG
 status: PUBLISHED
 createdAt: 2023-04-17T17:40:24.795Z

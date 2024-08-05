@@ -1,5 +1,5 @@
 ---
-title: 'As regras de merchandising não estão funcionando para a faceta "productClusterIds"'
+title: "As regras de merchandising não estão funcionando para a faceta 'productClusterIds'"
 id: 6sLODMgjuoyJD52uc0DBW1
 status: PUBLISHED
 createdAt: 2024-07-09T00:02:40.930Z

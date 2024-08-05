@@ -1,5 +1,5 @@
 ---
-title: 'Los productos de la "lista de productos" que tienen un "itemAttachment" se duplican cuando se aumenta la cantidad'
+title: "Los productos de la 'lista de productos' que tienen un 'itemAttachment' se duplican cuando se aumenta la cantidad"
 id: 4QybxJRoj7wLNvN7NG2FLA
 status: PUBLISHED
 createdAt: 2022-01-24T21:19:51.135Z

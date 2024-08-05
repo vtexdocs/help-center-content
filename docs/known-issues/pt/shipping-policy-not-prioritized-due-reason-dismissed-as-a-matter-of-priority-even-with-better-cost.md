@@ -1,5 +1,5 @@
 ---
-title: 'Política de embarque não priorizada devido ao "Motivo": Dispensada como prioridade" mesmo com melhor custo'
+title: "Política de embarque não priorizada devido ao 'Motivo': Dispensada como prioridade' mesmo com melhor custo"
 id: p1oTHG7CuYITViV4uFZEQ
 status: PUBLISHED
 createdAt: 2022-05-10T18:05:57.097Z

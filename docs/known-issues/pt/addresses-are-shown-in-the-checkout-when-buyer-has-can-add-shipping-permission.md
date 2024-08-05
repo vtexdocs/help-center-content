@@ -1,5 +1,5 @@
 ---
-title: 'Os endereços são exibidos no Checkout quando o comprador tem a permissão "Can add shipping" (Pode adicionar frete)'
+title: "Os endereços são exibidos no Checkout quando o comprador tem a permissão 'Can add shipping' (Pode adicionar frete)"
 id: 2ssiTryGJ6kGoZWxWkGnFF
 status: PUBLISHED
 createdAt: 2024-05-21T22:03:55.172Z

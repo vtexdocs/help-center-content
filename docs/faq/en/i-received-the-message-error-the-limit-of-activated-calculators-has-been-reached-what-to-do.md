@@ -1,5 +1,5 @@
 ---
-title: 'I received the message error "the limit of activated calculators has been reached". What to do?'
+title: "I received the message error 'the limit of activated calculators has been reached'. What to do?"
 id: frequentlyAskedQuestions_349
 status: PUBLISHED
 createdAt: 2017-04-27T22:37:28.949Z

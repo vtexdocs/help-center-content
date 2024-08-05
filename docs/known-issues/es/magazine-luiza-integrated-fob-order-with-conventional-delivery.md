@@ -1,5 +1,5 @@
 ---
-title: '[Magazine Luiza] Pedido FOB integrado con entrega "Convencional'
+title: "[Magazine Luiza] Pedido FOB integrado con entrega 'Convencional"
 id: 74uM19UXEopXguM6m0JbOL
 status: PUBLISHED
 createdAt: 2022-12-23T12:40:05.775Z

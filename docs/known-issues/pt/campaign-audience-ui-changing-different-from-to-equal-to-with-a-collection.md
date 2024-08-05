@@ -1,5 +1,5 @@
 ---
-title: 'IU do público-alvo da campanha alterando "Diferente de" para "Igual a" com uma coleção'
+title: "IU do público-alvo da campanha alterando 'Diferente de' para 'Igual a' com uma coleção"
 id: 6IkWioZ9WRgg1DFEMdnthB
 status: PUBLISHED
 createdAt: 2023-08-15T15:12:54.580Z

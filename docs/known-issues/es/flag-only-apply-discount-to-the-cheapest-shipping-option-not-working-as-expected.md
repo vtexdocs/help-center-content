@@ -1,5 +1,5 @@
 ---
-title: 'La bandera "Aplicar el descuento sólo a la opción de envío más barata" no funciona como se esperaba'
+title: "La bandera 'Aplicar el descuento sólo a la opción de envío más barata' no funciona como se esperaba"
 id: 15irjH6rNkHhkBeRNn9RUI
 status: PUBLISHED
 createdAt: 2022-10-05T18:01:57.821Z

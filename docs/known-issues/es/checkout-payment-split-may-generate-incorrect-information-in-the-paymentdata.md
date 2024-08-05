@@ -1,5 +1,5 @@
 ---
-title: 'Checkout payment split may generate incorrect information in the "paymentData" of orders (NO-PAYMENT)'
+title: "Checkout payment split may generate incorrect information in the 'paymentData' of orders (NO-PAYMENT)"
 id: 1bZ5H0T0isc0DUtkIb38sQ
 status: PUBLISHED
 createdAt: 2022-01-24T20:37:23.861Z

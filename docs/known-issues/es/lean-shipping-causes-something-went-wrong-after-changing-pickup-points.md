@@ -1,5 +1,5 @@
 ---
-title: 'Lean shipping provoca "Algo salió mal" tras cambiar los puntos de recogida'
+title: "Lean shipping provoca 'Algo salió mal' tras cambiar los puntos de recogida"
 id: 45jQODtjZ4vLXniNJIlQZc
 status: PUBLISHED
 createdAt: 2024-06-20T21:11:53.067Z

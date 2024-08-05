@@ -1,5 +1,5 @@
 ---
-title: '"Back" button is not rendered in My Organization'
+title: "'Back' button is not rendered in My Organization"
 id: xzd2JVKP6jcTN0dGWwISB
 status: PUBLISHED
 createdAt: 2023-04-25T21:26:35.401Z

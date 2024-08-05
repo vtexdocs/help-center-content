@@ -1,5 +1,5 @@
 ---
-title: 'Inventario y envío: entienda lo que cambió en la pestaña "Gestión del inventario" '
+title: "Inventario y envío: entienda lo que cambió en la pestaña 'Gestión del inventario' "
 id: 6AKTFKEdVMyjRdDBv3vGkv
 status: PUBLISHED
 createdAt: 2020-10-29T15:15:14.224Z

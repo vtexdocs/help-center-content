@@ -1,5 +1,5 @@
 ---
-title: 'A interface de usuário do checkout não está usando automaticamente o "envio enxuto" para itens sem métodos de envio comuns'
+title: "A interface de usuário do checkout não está usando automaticamente o 'envio enxuto' para itens sem métodos de envio comuns"
 id: 2LXp8VCAay7Ic9MBfbtirT
 status: PUBLISHED
 createdAt: 2024-04-02T15:27:23.003Z

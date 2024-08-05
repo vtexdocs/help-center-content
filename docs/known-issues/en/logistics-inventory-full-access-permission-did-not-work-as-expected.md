@@ -1,5 +1,5 @@
 ---
-title: '"Logistics inventory full access" permission did not work as expected'
+title: "'Logistics inventory full access' permission did not work as expected"
 id: 6F11U5C6cULOeJ3Jo5AgAc
 status: PUBLISHED
 createdAt: 2022-04-27T14:16:03.358Z

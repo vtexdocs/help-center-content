@@ -1,5 +1,5 @@
 ---
-title: 'A compra não pode ser concluída e retorna o erro "o campo do nome do receptor é inválido".'
+title: "A compra não pode ser concluída e retorna o erro 'o campo do nome do receptor é inválido'."
 id: 6ALBFvGzD0SiSuttfXPiQo
 status: PUBLISHED
 createdAt: 2022-05-12T14:53:10.287Z

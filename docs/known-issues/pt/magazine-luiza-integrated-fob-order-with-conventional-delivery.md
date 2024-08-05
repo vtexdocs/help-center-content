@@ -1,5 +1,5 @@
 ---
-title: '[Pedido FOB integrado com entrega "Convencional".'
+title: "[Pedido FOB integrado com entrega 'Convencional'."
 id: 74uM19UXEopXguM6m0JbOL
 status: PUBLISHED
 createdAt: 2022-12-23T12:40:05.775Z

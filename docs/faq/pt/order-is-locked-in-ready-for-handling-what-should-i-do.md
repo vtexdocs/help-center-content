@@ -1,5 +1,5 @@
 ---
-title: 'Pedido está travado em "Pronto para manuseio", o que fazer?'
+title: "Pedido está travado em 'Pronto para manuseio', o que fazer?"
 id: frequentlyAskedQuestions_771
 status: PUBLISHED
 createdAt: 2017-04-27T22:27:37.057Z

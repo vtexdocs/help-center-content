@@ -1,5 +1,5 @@
 ---
-title: 'Mensaje "Código postal no válido" en la interfaz de usuario de la caja cuando la dirección está en las direcciones disponibles con un país diferente.'
+title: "Mensaje 'Código postal no válido' en la interfaz de usuario de la caja cuando la dirección está en las direcciones disponibles con un país diferente."
 id: 4VggIx4xWPNW6OBIrQ0js4
 status: PUBLISHED
 createdAt: 2024-06-21T17:08:59.860Z

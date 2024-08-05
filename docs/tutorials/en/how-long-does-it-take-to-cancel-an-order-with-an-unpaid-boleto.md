@@ -1,5 +1,5 @@
 ---
-title: 'How long does it take to cancel an order with an unpaid "boleto"?'
+title: "How long does it take to cancel an order with an unpaid 'boleto'?"
 id: frequentlyAskedQuestions_300
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:51.983Z

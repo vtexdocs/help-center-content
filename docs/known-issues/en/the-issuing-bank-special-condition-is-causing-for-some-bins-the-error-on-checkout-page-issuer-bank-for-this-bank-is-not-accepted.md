@@ -1,5 +1,5 @@
 ---
-title: 'The Issuing Bank Special Condition is causing for some BINs the error on checkout page "Issuer bank for this bank is not accepted"'
+title: "The Issuing Bank Special Condition is causing for some BINs the error on checkout page 'Issuer bank for this bank is not accepted'"
 id: 7HgNpwcvqQDwSfJfv9KpY8
 status: PUBLISHED
 createdAt: 2022-03-25T19:04:12.310Z

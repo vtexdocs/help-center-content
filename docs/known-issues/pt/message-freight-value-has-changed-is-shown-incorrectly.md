@@ -1,5 +1,5 @@
 ---
-title: 'A mensagem "O valor do frete mudou" é mostrada incorretamente'
+title: "A mensagem 'O valor do frete mudou' é mostrada incorretamente"
 id: 6ct93Q2391vEd0JAt0n5RU
 status: PUBLISHED
 createdAt: 2023-03-21T22:28:23.673Z

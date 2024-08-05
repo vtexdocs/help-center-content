@@ -1,5 +1,5 @@
 ---
-title: 'Insert SKU File API doesnt accept URLs from servers that require "User Agents"'
+title: "Insert SKU File API doesnt accept URLs from servers that require 'User Agents'"
 id: 5Z1PmRXyW78mohsKTMQfzj
 status: PUBLISHED
 createdAt: 2024-07-22T19:49:14.140Z

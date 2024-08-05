@@ -1,5 +1,5 @@
 ---
-title: 'Filtrar productos por "Tienda" en la administración del catálogo puede mostrar una cantidad incorrecta de resultados.'
+title: "Filtrar productos por 'Tienda' en la administración del catálogo puede mostrar una cantidad incorrecta de resultados."
 id: E38Y6a81l7QNtrmh2I2id
 status: PUBLISHED
 createdAt: 2023-02-17T16:01:30.420Z

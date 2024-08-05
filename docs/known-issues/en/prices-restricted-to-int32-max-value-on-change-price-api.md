@@ -1,5 +1,5 @@
 ---
-title: 'Prices restricted to "Int32" max value on Change Price API'
+title: "Prices restricted to 'Int32' max value on Change Price API"
 id: 5mzOjCUYs7vXUkttbsK0za
 status: PUBLISHED
 createdAt: 2022-04-25T17:28:05.159Z

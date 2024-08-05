@@ -1,5 +1,5 @@
 ---
-title: '"número máximo de artículos elegibles para cada cesta" + más por menos aplica un descuento incorrecto al utilizar el mismo artículo.'
+title: "'número máximo de artículos elegibles para cada cesta' + más por menos aplica un descuento incorrecto al utilizar el mismo artículo."
 id: gWIMhi9RCv9BE1RvV6GiM
 status: PUBLISHED
 createdAt: 2024-07-30T17:14:36.972Z

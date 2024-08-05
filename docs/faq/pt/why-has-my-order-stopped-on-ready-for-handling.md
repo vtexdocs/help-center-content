@@ -1,5 +1,5 @@
 ---
-title: 'Por que meu pedido está parado em "Preparando entrega"?'
+title: "Por que meu pedido está parado em 'Preparando entrega'?"
 id: frequentlyAskedQuestions_301
 status: PUBLISHED
 createdAt: 2017-04-27T22:38:27.319Z

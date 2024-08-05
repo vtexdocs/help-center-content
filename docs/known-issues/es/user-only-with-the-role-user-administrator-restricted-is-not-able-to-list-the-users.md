@@ -1,5 +1,5 @@
 ---
-title: 'El usuario sólo con el rol "Administrador de usuarios - RESTRINGIDO" no puede listar los usuarios'
+title: "El usuario sólo con el rol 'Administrador de usuarios - RESTRINGIDO' no puede listar los usuarios"
 id: ifXUAzgJ1xr8ezhqKpRUI
 status: PUBLISHED
 createdAt: 2023-11-08T18:07:14.508Z

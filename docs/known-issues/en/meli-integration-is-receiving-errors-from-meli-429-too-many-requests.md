@@ -1,5 +1,5 @@
 ---
-title: 'MELI integration is receiving errors from MELI "429 too many requests"'
+title: "MELI integration is receiving errors from MELI '429 too many requests'"
 id: 1e4g9nzZFyanywmLbSHq4D
 status: PUBLISHED
 createdAt: 2023-08-03T10:47:41.602Z

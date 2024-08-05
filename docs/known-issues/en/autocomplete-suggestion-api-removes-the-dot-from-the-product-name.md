@@ -1,5 +1,5 @@
 ---
-title: 'Autocomplete Suggestion API removes the dot "." from the product name'
+title: "Autocomplete Suggestion API removes the dot '.' from the product name"
 id: 55185IvERIwGQ3kH6H510O
 status: PUBLISHED
 createdAt: 2024-04-10T13:58:51.138Z

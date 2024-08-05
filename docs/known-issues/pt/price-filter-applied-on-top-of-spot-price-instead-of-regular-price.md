@@ -1,5 +1,5 @@
 ---
-title: 'Filtro de preço aplicado sobre o "preço à vista" em vez do preço normal'
+title: "Filtro de preço aplicado sobre o 'preço à vista' em vez do preço normal"
 id: 2EEgRV1NxYuns4eF7F0ZqD
 status: PUBLISHED
 createdAt: 2024-02-15T19:39:53.576Z

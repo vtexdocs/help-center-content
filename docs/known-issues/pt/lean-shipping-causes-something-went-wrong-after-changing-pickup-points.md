@@ -1,5 +1,5 @@
 ---
-title: 'O transporte enxuto causa "Algo deu errado" depois de mudar os pontos de coleta'
+title: "O transporte enxuto causa 'Algo deu errado' depois de mudar os pontos de coleta"
 id: 45jQODtjZ4vLXniNJIlQZc
 status: PUBLISHED
 createdAt: 2024-06-20T21:11:53.067Z

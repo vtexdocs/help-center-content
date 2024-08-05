@@ -1,5 +1,5 @@
 ---
-title: 'A API SKU Insert File não está respondendo com a propriedade "Text".'
+title: "A API SKU Insert File não está respondendo com a propriedade 'Text'."
 id: 2rPsyAkpGNCVIM4yGlcMBw
 status: PUBLISHED
 createdAt: 2024-04-10T14:59:14.341Z

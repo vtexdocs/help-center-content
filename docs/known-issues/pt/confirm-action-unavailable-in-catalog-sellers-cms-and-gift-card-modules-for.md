@@ -1,5 +1,5 @@
 ---
-title: '"Confirmar Ação" está indisponível no Catálogo, Sellers, CMS, Vale-compra pelo Google Chrome'
+title: "'Confirmar Ação' está indisponível no Catálogo, Sellers, CMS, Vale-compra pelo Google Chrome"
 id: 5UzVaWa63dPwPlbK3n2AH5
 status: PUBLISHED
 createdAt: 2021-07-27T22:29:39.402Z

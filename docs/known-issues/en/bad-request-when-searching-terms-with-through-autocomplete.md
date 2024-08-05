@@ -1,5 +1,5 @@
 ---
-title: 'Bad Request when searching terms with "#" through autocomplete'
+title: "Bad Request when searching terms with '#' through autocomplete"
 id: 18pMsxubB9eSPGlULAN35p
 status: PUBLISHED
 createdAt: 2024-02-06T20:07:52.739Z

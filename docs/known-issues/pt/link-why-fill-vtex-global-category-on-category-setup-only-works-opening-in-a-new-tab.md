@@ -1,5 +1,5 @@
 ---
-title: 'Link "Por que preencher a categoria VTEX Global?" na configuração da categoria só funciona abrindo em uma nova aba'
+title: "Link 'Por que preencher a categoria VTEX Global?' na configuração da categoria só funciona abrindo em uma nova aba"
 id: 3u7aq2otUovQbO98lzjbus
 status: PUBLISHED
 createdAt: 2022-03-16T17:59:14.355Z

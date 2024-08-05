@@ -1,5 +1,5 @@
 ---
-title: '"Something went wrong" when adding an incomplete address and tried to edit it'
+title: "'Something went wrong' when adding an incomplete address and tried to edit it"
 id: 3rWGAr4K86JAetSBJ75q3h
 status: PUBLISHED
 createdAt: 2024-01-02T21:11:17.425Z

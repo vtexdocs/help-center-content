@@ -1,5 +1,5 @@
 ---
-title: 'Merchandising rules not working for the facet "productClusterIds"'
+title: "Merchandising rules not working for the facet 'productClusterIds'"
 id: 6sLODMgjuoyJD52uc0DBW1
 status: PUBLISHED
 createdAt: 2024-07-09T00:02:40.930Z

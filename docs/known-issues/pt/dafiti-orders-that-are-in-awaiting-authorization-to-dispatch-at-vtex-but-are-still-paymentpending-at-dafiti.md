@@ -1,5 +1,5 @@
 ---
-title: '[Ordens que estão em "Aguardando Autorização para Despacho" na VTEX, mas que ainda estão "gastando_de-pagamento" na Dafiti.'
+title: "[Ordens que estão em 'Aguardando Autorização para Despacho' na VTEX, mas que ainda estão 'gastando_de-pagamento' na Dafiti."
 id: 6XbDr2QRAtk0bVAeywagjq
 status: PUBLISHED
 createdAt: 2022-12-20T13:14:31.368Z

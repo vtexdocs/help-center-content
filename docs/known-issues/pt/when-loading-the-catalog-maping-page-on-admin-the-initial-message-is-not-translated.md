@@ -1,5 +1,5 @@
 ---
-title: 'Ao carregar a página "Mapeamento do Catálogo" em admin a mensagem inicial não é traduzida'
+title: "Ao carregar a página 'Mapeamento do Catálogo' em admin a mensagem inicial não é traduzida"
 id: 4WszmRZ5jpeSDNTEuFIdwF
 status: PUBLISHED
 createdAt: 2022-12-15T12:32:17.741Z

@@ -1,5 +1,5 @@
 ---
-title: 'Erro nas operações de reembolso e captura com divisão de pagamento - "O valor nos destinatários * é diferente do valor da operação *".'
+title: "Erro nas operações de reembolso e captura com divisão de pagamento - 'O valor nos destinatários * é diferente do valor da operação *'."
 id: 3Wo9ltN7Ju0ZqVLAQZcd7m
 status: PUBLISHED
 createdAt: 2023-08-23T13:57:20.424Z

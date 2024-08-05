@@ -1,5 +1,5 @@
 ---
-title: 'Campo "items" será removido da API de List Orders'
+title: "Campo 'items' será removido da API de List Orders"
 id: 40UDVKiocUCSi8Uo8eUKui
 status: PUBLISHED
 createdAt: 2018-10-04T20:56:17.252Z

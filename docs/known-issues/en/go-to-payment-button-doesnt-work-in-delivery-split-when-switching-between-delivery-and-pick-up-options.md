@@ -1,5 +1,5 @@
 ---
-title: ""Go to payment" button doesn't work in delivery split when switching between Delivery and Pick up options"
+title: ""Go to payment' button doesn't work in delivery split when switching between Delivery and Pick up options"
 id: 4VDxpsWl6N0SjriaqUtXG9
 status: PUBLISHED
 createdAt: 2023-02-17T18:03:49.526Z

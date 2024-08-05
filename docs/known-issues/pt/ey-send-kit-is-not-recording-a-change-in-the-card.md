@@ -1,5 +1,5 @@
 ---
-title: 'ey "Enviar Kit:" não está registrando uma mudança no Cartão'
+title: "ey 'Enviar Kit:' não está registrando uma mudança no Cartão"
 id: 4J1SynfbrQqXpSIcveAMxJ
 status: PUBLISHED
 createdAt: 2022-06-14T11:56:12.170Z

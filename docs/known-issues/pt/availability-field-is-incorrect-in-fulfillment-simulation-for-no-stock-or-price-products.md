@@ -1,5 +1,5 @@
 ---
-title: 'O campo "disponibilidade" está incorreto na Simulação de Cumprimento para produtos sem estoque ou preço'
+title: "O campo 'disponibilidade' está incorreto na Simulação de Cumprimento para produtos sem estoque ou preço"
 id: 1k2zcLEN5vG6mnksLwEXxp
 status: PUBLISHED
 createdAt: 2023-10-04T14:22:53.519Z

@@ -1,5 +1,5 @@
 ---
-title: 'Los caracteres invisibles en los nombres de categoría provocan errores de "página no encontrada".'
+title: "Los caracteres invisibles en los nombres de categoría provocan errores de 'página no encontrada'."
 id: 4np2BZUF1EmlLmV0KTpnrf
 status: PUBLISHED
 createdAt: 2024-07-05T13:11:13.031Z

@@ -1,5 +1,5 @@
 ---
-title: 'Import collection only accepts the order of products if import is made based on "skuId"'
+title: "Import collection only accepts the order of products if import is made based on 'skuId'"
 id: 7vXi2bDVyGHSMLluQi2ZWZ
 status: PUBLISHED
 createdAt: 2023-12-15T16:35:11.545Z

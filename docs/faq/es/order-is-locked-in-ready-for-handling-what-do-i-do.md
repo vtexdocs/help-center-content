@@ -1,5 +1,5 @@
 ---
-title: 'Pedido está trabado en "Listo para manuseo". ¿Qué se hace?'
+title: "Pedido está trabado en 'Listo para manuseo'. ¿Qué se hace?"
 id: frequentlyAskedQuestions_771
 status: PUBLISHED
 createdAt: 2017-04-27T22:27:37.057Z

@@ -1,5 +1,5 @@
 ---
-title: 'Erro "não pode criar critérios de busca! erro: o filtro já existe: "brandId" ao criar uma promoção excluindo mais de 1 marca.'
+title: "Erro 'não pode criar critérios de busca! erro: o filtro já existe: 'brandId' ao criar uma promoção excluindo mais de 1 marca."
 id: 6s6cvYpImIBEH0SLqE3J2U
 status: PUBLISHED
 createdAt: 2022-09-22T15:53:15.001Z

@@ -1,5 +1,5 @@
 ---
-title: 'Interfaz de usuario de la audiencia de la campaña cambiando "Diferente de" a "Igual a" con una colección'
+title: "Interfaz de usuario de la audiencia de la campaña cambiando 'Diferente de' a 'Igual a' con una colección"
 id: 6IkWioZ9WRgg1DFEMdnthB
 status: PUBLISHED
 createdAt: 2023-08-15T15:12:54.580Z

@@ -1,5 +1,5 @@
 ---
-title: 'What to do when the "Notify me" option is not displayed'
+title: "What to do when the 'Notify me' option is not displayed"
 id: oNb6JK1LPMOQwYsecKKCs
 status: PUBLISHED
 createdAt: 2019-01-24T20:30:45.175Z

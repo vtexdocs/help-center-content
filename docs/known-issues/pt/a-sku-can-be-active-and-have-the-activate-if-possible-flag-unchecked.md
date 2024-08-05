@@ -1,5 +1,5 @@
 ---
-title: 'Uma SKU pode estar ativa e ter o sinalizador "ativar se possível" desmarcado'
+title: "Uma SKU pode estar ativa e ter o sinalizador 'ativar se possível' desmarcado"
 id: 5uXQ65flkoEbYeLkNSw4ig
 status: PUBLISHED
 createdAt: 2023-11-07T11:01:20.612Z

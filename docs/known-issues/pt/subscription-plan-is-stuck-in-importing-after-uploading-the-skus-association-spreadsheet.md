@@ -1,5 +1,5 @@
 ---
-title: 'O plano de assinatura está "preso" na "importação" após o carregamento da planilha da associação SKUs'
+title: "O plano de assinatura está 'preso' na 'importação' após o carregamento da planilha da associação SKUs"
 id: 4BVj2X44OZMttG57vUryHb
 status: PUBLISHED
 createdAt: 2022-05-03T00:28:48.118Z

@@ -1,5 +1,5 @@
 ---
-title: 'Cómo remover el mensaje de error "Request headers must contain only ASCII characters"'
+title: "Cómo remover el mensaje de error 'Request headers must contain only ASCII characters'"
 id: 19psKZvLXrBqqK1bPaTIHG
 status: PUBLISHED
 createdAt: 2024-07-25T16:54:41.663Z

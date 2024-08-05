@@ -1,5 +1,5 @@
 ---
-title: 'Valor divergente al mezclar la configuración "paymentSystemToCheckFirstInstallment" y partidas divididas'
+title: "Valor divergente al mezclar la configuración 'paymentSystemToCheckFirstInstallment' y partidas divididas"
 id: 3h2o69kTBqFdQlzhED2kMN
 status: PUBLISHED
 createdAt: 2023-03-07T18:35:31.215Z

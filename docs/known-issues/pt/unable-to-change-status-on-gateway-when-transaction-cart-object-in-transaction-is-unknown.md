@@ -1,5 +1,5 @@
 ---
-title: 'Incapaz de mudar o status no gateway quando a transação Cart objeto em /transação é "desconhecido".'
+title: "Incapaz de mudar o status no gateway quando a transação Cart objeto em /transação é 'desconhecido'."
 id: 3gWqk1T2xP3eRYZtXZLX3b
 status: PUBLISHED
 createdAt: 2023-03-23T14:27:16.116Z

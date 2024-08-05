@@ -1,5 +1,5 @@
 ---
-title: 'A API de sugestão de preenchimento automático remove o ponto "." do nome do produto'
+title: "A API de sugestão de preenchimento automático remove o ponto '.' do nome do produto"
 id: 55185IvERIwGQ3kH6H510O
 status: PUBLISHED
 createdAt: 2024-04-10T13:58:51.138Z

@@ -1,5 +1,5 @@
 ---
-title: 'La búsqueda "El nombre del producto contiene" con más de un término no funciona en la interfaz de usuario rediseñada del catálogo.'
+title: "La búsqueda 'El nombre del producto contiene' con más de un término no funciona en la interfaz de usuario rediseñada del catálogo."
 id: 2kI6ab0kdpLG6m63ETGGqf
 status: PUBLISHED
 createdAt: 2024-06-05T13:38:38.836Z

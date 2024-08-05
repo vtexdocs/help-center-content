@@ -1,5 +1,5 @@
 ---
-title: 'Error in refund and capture operations with Payout Split - "Value in recipients * is different than operation value *."'
+title: "Error in refund and capture operations with Payout Split - 'Value in recipients * is different than operation value *.'"
 id: 3Wo9ltN7Ju0ZqVLAQZcd7m
 status: PUBLISHED
 createdAt: 2023-08-23T13:57:20.424Z

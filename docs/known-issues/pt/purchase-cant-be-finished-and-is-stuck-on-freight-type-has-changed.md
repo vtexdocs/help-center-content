@@ -1,5 +1,5 @@
 ---
-title: 'A compra não pode ser concluída e está travada em "o tipo de frete foi alterado"'
+title: "A compra não pode ser concluída e está travada em 'o tipo de frete foi alterado'"
 id: mgewQ8QmZ3V3dkc7vdJkV
 status: PUBLISHED
 createdAt: 2023-09-25T13:28:28.121Z

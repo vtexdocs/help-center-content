@@ -1,5 +1,5 @@
 ---
-title: 'La página de inicio del Admin presenta un error en la sección "Cómo mejorar" del Catálogo'
+title: "La página de inicio del Admin presenta un error en la sección 'Cómo mejorar' del Catálogo"
 id: 4f8oPMiiCvBMtjFUoOVIGv
 status: CHANGED
 createdAt: 2021-09-29T14:02:37.809Z

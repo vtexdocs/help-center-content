@@ -1,5 +1,5 @@
 ---
-title: ' La función "Producto visitado" no funciona correctamente'
+title: " La función 'Producto visitado' no funciona correctamente"
 id: 5AiCVwLkGToEgtLkZVPe5i
 status: PUBLISHED
 createdAt: 2022-11-25T18:45:15.389Z

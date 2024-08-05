@@ -1,5 +1,5 @@
 ---
-title: 'Solicitud incorrecta al buscar términos con "#" mediante autocompletar'
+title: "Solicitud incorrecta al buscar términos con '#' mediante autocompletar"
 id: 18pMsxubB9eSPGlULAN35p
 status: PUBLISHED
 createdAt: 2024-02-06T20:07:52.739Z

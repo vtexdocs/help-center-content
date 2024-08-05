@@ -1,5 +1,5 @@
 ---
-title: 'O campo de coleções sempre aparece como "Igual a" no formulário da campanha para o público'
+title: "O campo de coleções sempre aparece como 'Igual a' no formulário da campanha para o público"
 id: 2NPEh7LZkrpO0gf802I7HZ
 status: PUBLISHED
 createdAt: 2022-11-11T21:18:53.386Z

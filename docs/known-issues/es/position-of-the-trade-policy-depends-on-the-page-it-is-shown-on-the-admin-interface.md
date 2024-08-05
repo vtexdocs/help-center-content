@@ -1,5 +1,5 @@
 ---
-title: ' La "posición" de la política comercial depende de la página en la que se muestra en la interfaz de administración'
+title: " La 'posición' de la política comercial depende de la página en la que se muestra en la interfaz de administración"
 id: 3kcSD7J5uuHYGdhBcg1lMa
 status: PUBLISHED
 createdAt: 2022-10-31T20:28:08.565Z

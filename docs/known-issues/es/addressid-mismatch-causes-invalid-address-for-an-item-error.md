@@ -1,5 +1,5 @@
 ---
-title: 'La falta de coincidencia de AddressId provoca el error "dirección no válida para un artículo".'
+title: "La falta de coincidencia de AddressId provoca el error 'dirección no válida para un artículo'."
 id: 5bSac85eHb9NmrOhcTjHNw
 status: PUBLISHED
 createdAt: 2024-03-01T19:28:52.074Z

@@ -1,5 +1,5 @@
 ---
-title: 'Botão "Cancelar" dentro da página MyCards não traduzido para o espanhol'
+title: "Botão 'Cancelar' dentro da página MyCards não traduzido para o espanhol"
 id: 5wIEEoF7gTLYlWnANxDZ7h
 status: PUBLISHED
 createdAt: 2022-02-24T13:18:00.062Z

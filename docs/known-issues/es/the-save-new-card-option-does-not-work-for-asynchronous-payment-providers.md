@@ -1,5 +1,5 @@
 ---
-title: 'La opción "Guardar nueva tarjeta" no funciona para los proveedores de pago asíncronos.'
+title: "La opción 'Guardar nueva tarjeta' no funciona para los proveedores de pago asíncronos."
 id: 3B4gVSNrSeCc8EBXwk5sAu
 status: PUBLISHED
 createdAt: 2022-03-11T17:54:35.664Z

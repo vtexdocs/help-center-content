@@ -1,5 +1,5 @@
 ---
-title: 'Lean shipping causes "Something went wrong" after changing pick-up points'
+title: "Lean shipping causes 'Something went wrong' after changing pick-up points"
 id: 45jQODtjZ4vLXniNJIlQZc
 status: PUBLISHED
 createdAt: 2024-06-20T21:11:53.067Z

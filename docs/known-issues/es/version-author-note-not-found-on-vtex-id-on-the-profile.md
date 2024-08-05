@@ -1,5 +1,5 @@
 ---
-title: 'Autor de la versión "Nota: No encontrado en VTEX ID." en el perfil'
+title: "Autor de la versión 'Nota: No encontrado en VTEX ID.' en el perfil"
 id: 0X6Aj6YdCXXfNweAkDS46
 status: PUBLISHED
 createdAt: 2023-10-04T21:48:14.699Z

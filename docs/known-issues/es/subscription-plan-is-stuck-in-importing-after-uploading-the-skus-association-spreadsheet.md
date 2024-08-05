@@ -1,5 +1,5 @@
 ---
-title: 'El plan de suscripción está "atascado" en la "importación" después de cargar la hoja de cálculo de la asociación de SKUs'
+title: "El plan de suscripción está 'atascado' en la 'importación' después de cargar la hoja de cálculo de la asociación de SKUs"
 id: 4BVj2X44OZMttG57vUryHb
 status: PUBLISHED
 createdAt: 2022-05-03T00:28:48.118Z

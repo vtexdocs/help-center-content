@@ -1,5 +1,5 @@
 ---
-title: '"availability" field is incorrect in Fulfillment Simulation for no stock or price products'
+title: "'availability' field is incorrect in Fulfillment Simulation for no stock or price products"
 id: 1k2zcLEN5vG6mnksLwEXxp
 status: PUBLISHED
 createdAt: 2023-10-04T14:22:53.519Z

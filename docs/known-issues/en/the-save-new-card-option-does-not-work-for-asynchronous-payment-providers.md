@@ -1,5 +1,5 @@
 ---
-title: 'The "Save new card" option does not work for asynchronous Payment Providers'
+title: "The 'Save new card' option does not work for asynchronous Payment Providers"
 id: 3B4gVSNrSeCc8EBXwk5sAu
 status: PUBLISHED
 createdAt: 2022-03-11T17:54:35.664Z

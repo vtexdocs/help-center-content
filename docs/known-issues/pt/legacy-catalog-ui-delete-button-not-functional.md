@@ -1,5 +1,5 @@
 ---
-title: 'O botão "excluir" da interface do usuário do catálogo legado não funciona'
+title: "O botão 'excluir' da interface do usuário do catálogo legado não funciona"
 id: 2soNSJfiQMZcxlpW6jT2FR
 status: PUBLISHED
 createdAt: 2022-01-23T02:51:17.884Z

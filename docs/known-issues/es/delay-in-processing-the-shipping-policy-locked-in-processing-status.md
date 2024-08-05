@@ -1,5 +1,5 @@
 ---
-title: 'Retraso en la tramitación de la póliza de envío (bloqueada en estado de "tramitación")'
+title: "Retraso en la tramitación de la póliza de envío (bloqueada en estado de 'tramitación')"
 id: 5wl2TdIbyQeCF8eoo5oYKl
 status: PUBLISHED
 createdAt: 2022-05-17T17:26:58.778Z

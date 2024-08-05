@@ -1,5 +1,5 @@
 ---
-title: 'Formato de dirección incorrecto en las direcciones de facturación de "Mis tarjetas".'
+title: "Formato de dirección incorrecto en las direcciones de facturación de 'Mis tarjetas'."
 id: 25QxVtMOazrxugHZqFrhSG
 status: PUBLISHED
 createdAt: 2023-04-17T17:40:24.795Z

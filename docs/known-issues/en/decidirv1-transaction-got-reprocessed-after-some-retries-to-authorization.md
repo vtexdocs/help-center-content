@@ -1,5 +1,5 @@
 ---
-title: 'DecidirV1 transaction got "reprocessed" after some retries to authorization'
+title: "DecidirV1 transaction got 'reprocessed' after some retries to authorization"
 id: 2fxfg1IlnFUxAjo9E47HPq
 status: PUBLISHED
 createdAt: 2022-03-03T21:19:22.471Z

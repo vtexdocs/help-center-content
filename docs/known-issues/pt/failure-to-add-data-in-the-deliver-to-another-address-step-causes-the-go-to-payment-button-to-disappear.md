@@ -1,5 +1,5 @@
 ---
-title: 'A não adição de dados na etapa "entregar em outro endereço" faz com que o botão "ir para o pagamento" desapareça'
+title: "A não adição de dados na etapa 'entregar em outro endereço' faz com que o botão 'ir para o pagamento' desapareça"
 id: cdZO8gGXDB1JZSj42AnVh
 status: PUBLISHED
 createdAt: 2022-01-24T21:42:52.750Z

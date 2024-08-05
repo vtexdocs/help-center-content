@@ -1,5 +1,5 @@
 ---
-title: 'Tarjeta regalo - No devuelve los campos "caption" y "relationName" cuando hacemos una petición get.'
+title: "Tarjeta regalo - No devuelve los campos 'caption' y 'relationName' cuando hacemos una petición get."
 id: 2nh2Cc3Hc2Zm0b1INtwDep
 status: PUBLISHED
 createdAt: 2023-06-23T19:33:35.774Z

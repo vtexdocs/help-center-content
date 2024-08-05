@@ -1,5 +1,5 @@
 ---
-title: 'El indicador "Nombre del producto" de XML no funciona correctamente'
+title: "El indicador 'Nombre del producto' de XML no funciona correctamente"
 id: 6YDbpRns3LCN02bVKM8aaf
 status: PUBLISHED
 createdAt: 2023-10-26T11:35:14.500Z

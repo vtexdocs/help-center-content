@@ -1,5 +1,5 @@
 ---
-title: 'Prices restricted to "Int32" max value on checkout APIs'
+title: "Prices restricted to 'Int32' max value on checkout APIs"
 id: 5mzOjCUYs7vXUkttbsK0za
 status: PUBLISHED
 createdAt: 2022-04-25T17:28:05.159Z
