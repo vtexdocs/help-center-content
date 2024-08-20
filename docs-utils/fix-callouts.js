@@ -35,14 +35,32 @@ function convertCallout(htmlCallout) {
         return `\n> ${pContent}`;
     });
 
+    // Convert <ul>, <ol>, and <li> within callouts to markdown lists
+    markdownCallout = markdownCallout
+        .replace(/<ul>(.*?)<\/ul>/gs, (match, ulContent) => {
+            return ulContent
+                .replace(/<li>(.*?)<\/li>/gs, (match, liContent) => `\n> * ${liContent.trim()}`)
+                .replace(/^\n>\s*\* /gm, '\n> *'); // Remove any extra space before list items
+        })
+        .replace(/<ol>(.*?)<\/ol>/gs, (match, olContent) => {
+            let counter = 1;
+            return olContent
+                .replace(/<li>(.*?)<\/li>/gs, (match, liContent) => `\n> ${counter++}. ${liContent.trim()}`)
+                .replace(/^\n>\s*\d+\. /gm, '\n> '); // Remove any extra space before list items
+        });
+
     // Clean up any excessive blank lines that may have been introduced
     markdownCallout = markdownCallout.replace(/(\n\s*){2,}/g, '\n>\n');
 
     // Convert basic HTML tags to markdown
     markdownCallout = markdownCallout.replace(/<strong>(.*?)<\/strong>/g, '**$1**');
+    markdownCallout = markdownCallout.replace(/<b>(.*?)<\/b>/g, '**$1**');
     markdownCallout = markdownCallout.replace(/<em>(.*?)<\/em>/g, '*$1*');
     markdownCallout = markdownCallout.replace(/<code>(.*?)<\/code>/g, '`$1`');  // Convert <code> to backticks
     markdownCallout = markdownCallout.replace(/<a href="(.*?)">(.*?)<\/a>/g, '[$2]($1)');
+
+    // Append '>' to new lines within the div
+    markdownCallout = markdownCallout.replace(/\n(?!>\s)/g, '\n> ');
 
     return markdownCallout;
 }
