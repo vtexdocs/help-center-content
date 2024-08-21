@@ -32,9 +32,7 @@ Access the [Generate your polygons with geojson.io](http://geojson.io/#map=2/20.
 
 This JSON will be used to add the polygon to the platform, that will translate that language to understand which Zip Codes are included in your area.
 
-<div class="alert alert-danger">
-When generating a polygon, it is not possible to delimit overlapping areas, meaning it is not possible to overlap geographic coordinates.
-</div>
+>❗ When generating a polygon, it is not possible to delimit overlapping areas, meaning it is not possible to overlap geographic coordinates.
 
 ## How to add a polygon
 
@@ -60,8 +58,7 @@ Example:
 
 Done! Now just use this same ID in the freight spreadsheet, at the **PolygonName** column. 
 
-<div class="alert alert-warning">It's important to pay attention to the filling, because this time the carrier will not use the <strong>ZipCodeStart</strong> and <strong>ZipCodeStart</strong> columns, which should be left blank.
-</div>
+>⚠️ It's important to pay attention to the filling, because this time the carrier will not use the **ZipCodeStart** and **ZipCodeStart** columns, which should be left blank.
 
 On the [Checkout tab](https://help.vtex.com/en/tutorial/geolocalizacao-no-checkout/) at **Store Settings > Storefront > Checkout**, the API Key field must be filled in with the same key that was used to enable geolocation.
 

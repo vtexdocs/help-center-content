@@ -18,9 +18,7 @@ internalReference: 977033
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se utiliza la colección de la API de catálogo, si se envía un campo JSON de cadena que termina con espacios (por ejemplo productName: "myProductName ") las API de catálogo responderán con una respuesta 400 incorrecta y un cuerpo de respuesta vacío, dejando al usuario sin saber qué se envió incorrectamente.

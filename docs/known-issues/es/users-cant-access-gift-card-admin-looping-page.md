@@ -18,9 +18,7 @@ internalReference: 1025971
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Si los usuarios bloquean las cookies de terceros (configuración del navegador) no podrán acceder al módulo de Tarjeta Regalo en admin, hay una cookie establecida en otro dominio VTEX.

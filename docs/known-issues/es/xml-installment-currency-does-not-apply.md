@@ -18,9 +18,7 @@ internalReference: 976295
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se configura una moneda en un XML, se aplica a todos los campos excepto al campo "Cuota".

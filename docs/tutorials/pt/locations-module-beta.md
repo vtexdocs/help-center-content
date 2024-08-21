@@ -15,9 +15,7 @@ legacySlug: modulo-localidades
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-<div class="alert alert-info">
-Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
-</div>
+>ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 As localidades são pontos físicos envolvidos no processo de [fulfillment](https://help.vtex.com/pt/tutorial/fulfillment-logistics-vtex--53udnvI5eBy8DKo8FOjMoP) de pedidos e englobam etapas como coleta, empacotamento, emissão de faturas, entre outros. Alguns exemplos de localidades são lojas físicas e centros de distribuição.
 
@@ -82,9 +80,7 @@ Para realizar a primeira etapa de **Configurações básicas**, siga os passos a
 4. Em **Identificação**, determine o nome da localidade sendo criada. Este nome é visível somente no seu Admin VTEX.
 5. Em **Seller**, selecione um seller para associar à localidade. O seller é quem possui os produtos sendo vendidos.
 
-  <div class="alert alert-warning">
-Cada localidade pode ser associada a um único seller.
-</div>
+  >⚠️ Cada localidade pode ser associada a um único seller.
 
 6. Em **Endereço**, defina o local físico onde se situa a localidade.
 7. Clique no botão `Próximo`.
@@ -180,9 +176,7 @@ Para ativar ou pausar várias localidades, realize os seguintes passos:
 
 A ação de excluir uma localidade é permanente e não pode ser desfeita. 
 
-<div class="alert alert-warning">
-Quando uma localidade é excluída, isso não tem efeito sobre o seller ao qual ela estava associada. Ou seja, o seller continua recebendo pedidos normalmente.
-</div>
+>⚠️ Quando uma localidade é excluída, isso não tem efeito sobre o seller ao qual ela estava associada. Ou seja, o seller continua recebendo pedidos normalmente.
 
 Você pode realizar esta ação de forma individual ou massiva. Para excluir uma única localidade, siga os passos abaixo:
 

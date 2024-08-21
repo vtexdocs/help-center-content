@@ -18,9 +18,7 @@ internalReference: 740499
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o provedor envia um retorno de chamada logo após a autorização, ele pode acionar uma nova tentativa de autorização. Portanto, em alguns casos, quando a transação tiver mais de um pagamento e um deles for um cartão-presente, uma nova tentativa de autorização poderá cancelar a transação quando ela não tiver fundos.

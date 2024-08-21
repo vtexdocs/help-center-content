@@ -20,9 +20,7 @@ Faça login no Gerenciador de [tags do Google](https://www.google.com/intl/pt-B
 
 Na opção **Contâiner ID**, você encontrará o código. Copie-o.
 
-<div class="alert alert-warning">
-  <p><b>Atenção</b>: Seu ID deve conter o prefixo do GTM.</p>
-</div>
+>⚠️ **Atenção**: Seu ID deve conter o prefixo do GTM.
 
 ![Gerenciador de tags Goggle 2](https://images.ctfassets.net/alneenqid6w5/4UqVluoy3i3PraHgP3upQ3/5f45d8f38635a803a00b417667102433/Gerenciador_de_Tags_Google_2.png)
 

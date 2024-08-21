@@ -29,10 +29,8 @@ Os valores adicionais podem ser configurados conforme:
 
 ![adicionais frete PT](https://images.contentful.com/alneenqid6w5/3j3VNUKq6qTGJRfGWGbc14/32b53f2163eed7c9497bacfb95101b65/adicionais_frete_PT.svg)
 
-<div class="alert alert-danger">
-É importante ressaltar que é possível ter todos os adicionais configurados simultaneamente para uma única tarifa de envio. O cálculo final da <a href="https://help.vtex.com/pt/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM">tarifa de envio</a> é a soma de todos os adicionais cadastrados mais a tarifa fixa do frete. 
-A tarifa de envio não é o custo final de envio.
-</div>
+>❗ É importante ressaltar que é possível ter todos os adicionais configurados simultaneamente para uma única tarifa de envio. O cálculo final da [tarifa de envio](https://help.vtex.com/pt/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) é a soma de todos os adicionais cadastrados mais a tarifa fixa do frete. 
+> A tarifa de envio não é o custo final de envio.
 
 ## Adicional por peso
 
@@ -88,9 +86,7 @@ Adicional de frete: ($10+$0+$9+$5)x10%=$2,4
 Adicionais de frete: ($9+$5+$2,4)=$16,4  
 Tarifa de envio: ($10+$16,4)=$26,4  
 
-<div class="alert alert-danger">
-É importante lembrar que o cálculo do adicional por preço não considera possíveis descontos e promoções, e sim o valor cheio do carrinho. Se o adicional por preço for menor que o adicional de seguro, o adicional por preço é desconsiderado no cálculo final da tarifa de envio.
-</div>
+>❗ É importante lembrar que o cálculo do adicional por preço não considera possíveis descontos e promoções, e sim o valor cheio do carrinho. Se o adicional por preço for menor que o adicional de seguro, o adicional por preço é desconsiderado no cálculo final da tarifa de envio.
 
 ![faixa-peso PT](https://images.contentful.com/alneenqid6w5/4s9nSGox3lNthbGiDUdOFq/dbe9c301826e8e91104cd7a8ded70690/faixa-peso_PT.png)
 
@@ -126,9 +122,7 @@ Tarifa de envio: ($15+10,3)=$25,3
 
 O adicional de seguro é configurado apenas pela [planilha de frete](https://help.vtex.com/pt/tutorial/planilha-de-frete--tutorials_127) pelo campo _MinimumValueInsurance._
 
-<div class="alert alert-danger">
-Se o adicional por preço for menor que o adicional de seguro, o adicional por preço é desconsiderado no cálculo final da tarifa de envio.
-</div>
+>❗ Se o adicional por preço for menor que o adicional de seguro, o adicional por preço é desconsiderado no cálculo final da tarifa de envio.
 
 ## Adicional de frete
 

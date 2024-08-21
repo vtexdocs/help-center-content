@@ -18,9 +18,7 @@ internalReference: 428725
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o método GET é executado para um cartão-presente existente, ele não retorna o campo "caption" nem o campo "relationName", embora esses parâmetros tenham valor.

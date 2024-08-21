@@ -15,9 +15,7 @@ legacySlug: vista-general-de-la-tienda-beta
 subcategory: QPnz120TdtLcXSh65c4Gs
 ---
 
-<div class="alert alert-info"> 
-La versión actualizada de la página Vista general de la tienda (Beta) está disponible para uso gratuito en el Admin VTEX durante su periodo beta, o hasta que VTEX lo decida. Es importante tener en cuenta que en el futuro podrían aplicarse tarifas adicionales. Además, la página de Vista general, actualmente presente en el VTEX Admin, seguirá estando disponible para su uso por el momento.
-</div>
+>ℹ️ La versión actualizada de la página Vista general de la tienda (Beta) está disponible para uso gratuito en el Admin VTEX durante su periodo beta, o hasta que VTEX lo decida. Es importante tener en cuenta que en el futuro podrían aplicarse tarifas adicionales. Además, la página de Vista general, actualmente presente en el VTEX Admin, seguirá estando disponible para su uso por el momento.
 
 La página Vista general (Beta) de tu Admin VTEX proporciona un seguimiento en tiempo real de tu operación en el día actual, ofreciendo visibilidad en las métricas para que tu equipo y tú tengan un rápido feedback sobre las acciones realizadas en la tienda y puedan actuar con prontitud para implementar mejoras. 
 
@@ -65,9 +63,7 @@ Puedes utilizar diferentes  [métricas](#metricas) y gráficos de [monitoreo](#m
 | Resultados financieros  | - [Ingresos capturados](#monitoreo) <br>- [Ticket promedio](#metricas) <br>- [Productos con mayores ingresos](#metricas)                                                                                                                                                                                                               |
 | Conversión              | - [Tasa de conversión](#metricas) <br>- [Embudo de ventas](#embudo-de-ventas) <br>- [Pedidos capturados](#monitoreo), comparado con el número de Pedidos cancelados. Los resultados obtenidos pueden guiar a tu equipo a identificar aquellos problemas operativos en el fulfillment o atención al cliente que causaron los pedidos cancelados. |
 
-<div class="alert alert-info"> 
-Importante: mientras que los gráficos de Monitoreo se actualizan en hasta tres minutos, las Métricas se actualizan cada quince minutos, lo que puede influir en tu análisis de resultados. Más información en <a href="#atualizacion-de-datos">Actualización de datos</a>.
-</div>
+>ℹ️ Importante: mientras que los gráficos de Monitoreo se actualizan en hasta tres minutos, las Métricas se actualizan cada quince minutos, lo que puede influir en tu análisis de resultados. Más información en [Actualización de datos](#atualizacion-de-datos).
 
 ### Analizar resultados de campañas
 

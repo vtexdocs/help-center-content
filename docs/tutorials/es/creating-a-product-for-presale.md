@@ -34,15 +34,11 @@ Para que un producto esté disponible en preventa, sigue los pasos a continuaci�
 5. Rellena los [campos restantes del producto](https://help.vtex.com/es/tutorial/campos-de-registro-de-producto--4dYXWIK3zyS8IceKkQseke).
 6. Haz clic en `Guardar y Crear SKU`.
 7. En la página de creación del SKU, rellena el campo **Fecha de previsión de llegada (preventa)** con la fecha en que el producto estará disponible para su entrega por parte de la tienda en el formato `dd/mm/aaaa`.
-<div class="alert alert-info">
-  <p>Para registrar la fecha de llegada, debe tenerse en cuenta tanto la fecha de lanzamiento como el cálculo del envío: <code>tiempo de entrega final = SLA de entrega + plazo para recibir el lote de suministro</code>.</p>  
-</div>
+>ℹ️ Para registrar la fecha de llegada, debe tenerse en cuenta tanto la fecha de lanzamiento como el cálculo del envío: `tiempo de entrega final = SLA de entrega + plazo para recibir el lote de suministro`.
 8. Rellena los [campos restantes del SKU](https://help.vtex.com/es/tutorial/campos-de-registro-de-sku--21DDItuEQc6mseiW8EakcY).
 9. Haz clic en `Guardar`.
 
-<div class="alert alert-info">
-  <p>El pedido del ítem en preventa solo debe facturarse a partir de la fecha de lanzamiento, es decir, cuando haya disponibilidad real de <i>stock</i> del producto.</p>  
-</div>
+>ℹ️ El pedido del ítem en preventa solo debe facturarse a partir de la fecha de lanzamiento, es decir, cuando haya disponibilidad real de <i>stock</i> del producto.
 
 ## Programar precios
 Para programar los precios fijos de tu tienda para la preventa de un producto, sigue los pasos descritos en el artículo [Programar precios](https://help.vtex.com/es/tutorial/programar-precio--4vVha6TGzYkguWuMOqCcCk). 

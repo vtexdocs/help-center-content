@@ -18,9 +18,7 @@ internalReference: 924411
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Hoy Facebook mira sellingPrice y listPrice para actualizar el precio en el catálogo de Facebook.

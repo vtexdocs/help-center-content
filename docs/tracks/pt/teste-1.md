@@ -32,9 +32,7 @@ O **Guia de onboarding** é composto por três trilhas, são elas:
 - [Próximos passos após o go-live](https://help.vtex.com/pt/tracks/proximos-passos-apos-o-go-live--3J7WFZyvTcoiwkcIVFVhIS)
 - [Suporte na VTEX](https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy)
 
-<div class="alert alert-info">
-As trilhas tem conteúdos complementares, mas são independentes entre si. Isso significa que você pode explorar o conteúdo com liberdade, sem precisar seguir uma sequência.
-</div>
+>ℹ️ As trilhas tem conteúdos complementares, mas são independentes entre si. Isso significa que você pode explorar o conteúdo com liberdade, sem precisar seguir uma sequência.
 
 Nosso objetivo é que clientes, parceiros e todo o ecossistema VTEX se beneficiem do **Guia de onboarding**. E para manter a relevância do material para diferentes negócios, consideramos uma jornada bastante abrangente. 
 Veja a seguir uma [introdução](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/3QfoDZWg9YWl8lwS9MVrnU) do que você encontrará no guia.

@@ -63,17 +63,13 @@ Each column of the subscription plan list displays different information. See be
     * **Active**: means that the plan is available for customers creating new subscriptions with associated products.
     * **Inactive**: means that the plan is not available for customers creating new subscriptions, even if they include associated products.
 
-<div class="alert alert-info">
-<p>Inactive plans are disabled only for new subscriptions. If a customer created a subscription when the plan was active, it would continue to place orders in the next cycle dates for that customer.</p>
-</div>
+>ℹ️ Inactive plans are disabled only for new subscriptions. If a customer created a subscription when the plan was active, it would continue to place orders in the next cycle dates for that customer.
 
 * <i class="fas fa-ellipsis-v"></i> **button**: by clicking on this button, you can perform the following actions.
     * **Edit**: opens the page to edit the subscription plan.
     * **Delete**: allows you to delete the plan permanently. Before deleting it, a window will appear asking you to confirm your choice. If you click on `Delete plan`, this action **cannot** be undone.
 
-<div class="alert alert-warning">
-  <p>When a plan is deleted, customers who have this plan will <strong>not</strong> have their orders placed in the next subscription cycles. To prevent this plan from being used in new subscriptions but keep placing future orders from its pre-existing subscriptions, you should disable the plan instead of deleting it.</p>
-</div>
+>⚠️ When a plan is deleted, customers who have this plan will **not** have their orders placed in the next subscription cycles. To prevent this plan from being used in new subscriptions but keep placing future orders from its pre-existing subscriptions, you should disable the plan instead of deleting it.
 
 ## Show rows
 

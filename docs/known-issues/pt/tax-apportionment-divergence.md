@@ -18,9 +18,7 @@ internalReference: 561466
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O rateio de um valor fiscal feito pelo módulo Promoções considera decimais, resultando em um imposto de valor total diferente do conjunto.

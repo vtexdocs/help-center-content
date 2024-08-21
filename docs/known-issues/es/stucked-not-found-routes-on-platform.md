@@ -18,9 +18,7 @@ internalReference: 793457
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Debido a la falta de notificaciones y problemas de caché, algunas rutas son cacheadas en no encontradas en vbase y en rewriter por store-indexer impactando en la experiencia cuando estas rutas vuelven a estar disponibles, siendo necesario enviar una nueva indexación y nuevas notificaciones o esperar a que el tiempo de store-indexer vuelva a activar la nueva indexación.

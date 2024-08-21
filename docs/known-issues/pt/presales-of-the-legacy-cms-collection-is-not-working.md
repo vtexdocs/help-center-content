@@ -18,9 +18,7 @@ internalReference: 885693
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Esperava-se que, ao marcar a caixa de seleção de pré-venda, a coleção fosse preenchida com produtos cuja data de lançamento tivesse sido preenchida para uma data futura.

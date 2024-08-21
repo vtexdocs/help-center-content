@@ -18,9 +18,7 @@ internalReference: 550097
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se crea una especificación en una categoría VTEX se puede configurar un valor por defecto que se rellenará cuando se cree el sku/producto sin esta información.

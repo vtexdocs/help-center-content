@@ -18,9 +18,7 @@ internalReference: 362017
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, o carregamento de itens para o novo módulo de coleções com uma lista com mais de 1.000 SKUs é impossível, pois o processo atingirá o tempo limite. Ele retorna uma resposta de erro não específica:

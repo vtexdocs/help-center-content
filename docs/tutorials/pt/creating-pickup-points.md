@@ -24,9 +24,7 @@ Há duas formas de cadastrar pontos de retirada pelo Admin:
 * [Cadastro individual](#cadastro-individual).
 * [Cadastro por planilha](#cadastro-por-planilha).
 
-<div class="alert alert-warning">
-O cadastro dos pontos de retirada é um dos passos para o funcionamento correto da funcionalidade. Confira o artigo <a href="https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R">Pontos de retirada</a> e veja as demais <a href="https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R#como-configurar">configurações necessárias</a> para disponibilizar os pontos de retirada para os seus clientes.
-</div>
+>⚠️ O cadastro dos pontos de retirada é um dos passos para o funcionamento correto da funcionalidade. Confira o artigo [Pontos de retirada](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) e veja as demais [configurações necessárias](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R#como-configurar) para disponibilizar os pontos de retirada para os seus clientes.
 
 ## Cadastro individual
 
@@ -43,9 +41,7 @@ O cadastro dos pontos de retirada é um dos passos para o funcionamento correto 
 * **ID:** identificação do ponto de retirada. Se não for preenchido, o sistema escolherá um ID automaticamente. Não utilize caracteres de espaço.
 * **Ponto de retirada de terceiros:** marque com <i class="far fa-check-square"></i>  se o ponto de retirada não for um endereço relacionado à sua loja. Endereços de terceiros são sugeridos com menos relevância do que pontos da própria loja.
 
-  <div class="alert alert-danger">
-A configuração <b>Ponto de retirada de terceiros</b> atualmente não está disponível. 
-</div>
+  >❗ A configuração **Ponto de retirada de terceiros** atualmente não está disponível.
 
 Selecione <i class="fas fa-toggle-on"></i> para que o ponto de retirada fique ativo.
 
@@ -76,9 +72,7 @@ As informações de endereço e a localização no mapa serão exibidas no check
     4. Preencha **Dia** e **Horário;**
     5. Clique em`Adicionar`.
 
-<div class="alert alert-warning">
-O horário de funcionamento cadastrado no ponto de retirada é apenas informativo para o cliente, mas não é utilizado para o cálculo do SLA. Para alterar as configurações que influenciam no prazo de entrega, é preciso estabelecer o horário de funcionamento na <a href="https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140">política de envio</a> relacionada ao ponto de retirada. No caso do cadastro de feriados, as configurações devem ser feitas pela seção de <a href="https://help.vtex.com/pt/tutorial/registrar-feriados--2ItOthSEAoyAmcwsuiO6Yk">feriados</a> para que influenciem no cálculo de prazo.
-</div>
+>⚠️ O horário de funcionamento cadastrado no ponto de retirada é apenas informativo para o cliente, mas não é utilizado para o cálculo do SLA. Para alterar as configurações que influenciam no prazo de entrega, é preciso estabelecer o horário de funcionamento na [política de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) relacionada ao ponto de retirada. No caso do cadastro de feriados, as configurações devem ser feitas pela seção de [feriados](https://help.vtex.com/pt/tutorial/registrar-feriados--2ItOthSEAoyAmcwsuiO6Yk) para que influenciem no cálculo de prazo.
 
 ## Cadastro por planilha
 

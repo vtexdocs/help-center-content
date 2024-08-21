@@ -18,9 +18,7 @@ internalReference: 756587
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En un carrito con al menos 2 productos en el que hay una división de entrega en la que uno de los artículos está disponible para recogida y el otro sólo para entrega programada, la interfaz de usuario no permitirá ir al paso de pago cuando cambie entre las opciones de recogida y entrega si el primer artículo del carrito es el que tiene entrega programada.

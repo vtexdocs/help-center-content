@@ -16,13 +16,9 @@ trackSlugPT: vtex-getting-started
 
 Antes de mais nada, é importante entender a diferença entre SKU e produto - esta diferença diz respeito à plataforma VTEX, mas também ao tratamento dado a esses conceitos pela maioria das operações de e-commerce.
 
-<div class="alert alert-info">
-<strong>SKU:</strong> a menor unidade possível dos itens vendidos na loja. Estoque e preço, por exemplo, são propriedades do SKU.
-</div>
+>ℹ️ **SKU:** a menor unidade possível dos itens vendidos na loja. Estoque e preço, por exemplo, são propriedades do SKU.
 
-<div class="alert alert-info">
-<strong>Produto:</strong> agregador de SKUs.
-</div>
+>ℹ️ **Produto:** agregador de SKUs.
 
 Veja os exemplos abaixo:
 
@@ -34,9 +30,7 @@ Veja os exemplos abaixo:
 Na vitrine da loja, o cliente verá apenas o produto __Calça jeans__, e não três produtos separados: "Calça jeans P", "Calça jeans M" e "Calça jeans G". 
 Já a gestão do seu estoque enxerga separadamente cada um dos SKUs que compõem esse produto. Assim ele consegue saber, por exemplo, que você tem 50 calças jeans M em estoque, mas apenas 2 calças jeans G.
 
-<div class="alert alert-info">
-<strong>Atenção</strong>: Sempre que for criar um SKU, você precisa antes criar o produto.
-</div>
+>ℹ️ **Atenção**: Sempre que for criar um SKU, você precisa antes criar o produto.
 
 Vamos ver como criar o produto.
 

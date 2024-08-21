@@ -45,9 +45,7 @@ Na árvore de categorias exibida na página **Catálogo > Categorias** do Admin 
 
 ## Alterar a árvore de categorias
 
-<div class="alert alert-warning">
-  <p>Mover categorias diretamente pela árvore de categorias pode gerar erros inesperados no seu catálogo. Por isso, recomendamos seguir as instruções abaixo para qualquer alteração nos níveis de categorias. Leia o <a href="https://help.vtex.com/pt/known-issues/mover-categorias-gera-comportamentos-inesperados-na-arvore-de-categorias--6JSa9nnYoAAUQO1zPtzfZD">problema conhecido</a> relacionado a esse cenário para mais informações.</p>
-</div>
+>⚠️ Mover categorias diretamente pela árvore de categorias pode gerar erros inesperados no seu catálogo. Por isso, recomendamos seguir as instruções abaixo para qualquer alteração nos níveis de categorias. Leia o [problema conhecido](https://help.vtex.com/pt/known-issues/mover-categorias-gera-comportamentos-inesperados-na-arvore-de-categorias--6JSa9nnYoAAUQO1zPtzfZD) relacionado a esse cenário para mais informações.
 
 Existem cenários em que é necessário mudar o nível hierárquico de uma categoria. Por exemplo, imagine que uma loja tem uma categoria pai chamada **Acessórios** e uma categoria filha (subcategoria) chamada **Sapatos**, mas deseja transformar a subcategoria **Sapatos** em uma outra categoria pai.
 

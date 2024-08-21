@@ -23,13 +23,12 @@ Para exemplificar, imagine um sistema de controle de uma biblioteca. Esse sistem
 
 Com esses conceitos, é possível configurar os mais diversos cenários de controle de dados pelo Master Data. Por padrão, são inseridas as seguintes entidades de dados: Cliente, Endereço, Stores etc. É possível criar quantas mais entidades de dados desejar, possibilitando um ambiente personalizado, voltado às necessidade de cada loja.
 
-<div class="alert alert-warning">
-<p>Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais:</p>
-    <ul>
-        <li><a href="https://help.vtex.com/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versoes-disponiveis">Características das versões do Master Data</a></li>
-        <li><a href="https://developers.vtex.com/docs/guides/master-data-v2-basics">Master Data v2</a></li>
-    </ul>
-</div>
+>⚠️ Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais:
+>
+> * [Características das versões do Master Data](https://help.vtex.com/pt/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versoes-disponiveis)
+>
+> * [Master Data v2](https://developers.vtex.com/docs/guides/master-data-v2-basics)
+>     
 
 ## Tipos de dados
 
@@ -104,6 +103,4 @@ Siga o passo a passo abaixo para configurar uma nova entidade de dados.
 19. Na linha da nova entidade criada, clique no botão de disquete <i class="fas fa-save"></i> para publicar a entidade de dados criada.
 20. Clique em `OK`.
 
-<div class="alert alert-info">
-    <p>Após a criação da entidade de dados, é necessário <a href="https://help.vtex.com/pt/tutorial/criando-formulario-no-master-data--tutorials_1047">criar o formulário para a inserção, alteração e exibição de dados no Master Data</a>.</p>
-</div>
+>ℹ️ Após a criação da entidade de dados, é necessário [criar o formulário para a inserção, alteração e exibição de dados no Master Data](https://help.vtex.com/pt/tutorial/criando-formulario-no-master-data--tutorials_1047).

@@ -18,9 +18,7 @@ internalReference: 775515
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao remover um item do carrinho, a mensagem "Valor do frete mudou" é mostrada mesmo que o Total do frete seja o mesmo após a mudança.

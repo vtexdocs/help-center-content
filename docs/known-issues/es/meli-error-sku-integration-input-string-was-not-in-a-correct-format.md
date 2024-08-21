@@ -18,9 +18,7 @@ internalReference: 664010
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Algunos skus tienen un error en la integración` "La cadena de entrada no estaba en un formato correcto"`.

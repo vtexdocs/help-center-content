@@ -77,9 +77,7 @@ Sellers can restrict the availability of products in their catalog by using diff
 
 This configuration can be done in the VTEX *Catalog*, when [adding products](https://help.vtex.com/en/tutorial/cadastrando-produtos--tutorials_2567), by indicating which trade policies are associated with it. If no restrictions are set when adding the product, it will be available in all trade policies.
 
-<div class="alert alert-warning">
-We do not recommend attaching trade policies to collections, when determining the product assortment, especially for external marketplaces. When a product is withdrawn from the collection associated to a trade policy, the VTEX system does not warn the marketplace of that update, making the product still available in the marketplace.
-  </div>
+>⚠️ We do not recommend attaching trade policies to collections, when determining the product assortment, especially for external marketplaces. When a product is withdrawn from the collection associated to a trade policy, the VTEX system does not warn the marketplace of that update, making the product still available in the marketplace.
 
 ![EN Catálogo Politica](https://images.ctfassets.net/alneenqid6w5/cXoXS1QSCxmbh89SwVfVP/43607a48ab2590d2f58a50c8281f4879/EN_Cat__logo_Politica.jpg)
 

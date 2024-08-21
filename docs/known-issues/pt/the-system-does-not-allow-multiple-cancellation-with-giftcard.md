@@ -18,9 +18,7 @@ internalReference: 309117
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O sistema não está enviando o cancelamento parcial de uma transação de Giftcard.

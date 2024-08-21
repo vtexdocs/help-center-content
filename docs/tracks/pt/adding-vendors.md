@@ -24,9 +24,7 @@ Clique em __Admin dos vendedores__ para abrir a tabela onde incluiremos um novo 
 
 Caso você já tenha cadastrado um vendedor através do __Easy Setup__, basta clicar em __New line__, inserir os dados do novo vendedor, copiar o ID da Loja da linha superior e clicar em __Save__, como mostra o vídeo abaixo (clique na imagem abaixo para visualizar):
  
-<div class="alert alert-danger">
-<strong>IMPORTANTE</strong>: o e-mail de cada vendedor <strong>NÃO</strong> pode ser o mesmo utilizado na plataforma VTEX, isso porque o seu e-mail de admin possui permissões que um vendedor não deveria ter, por isso é necessário utilizar algum outro e-mail sem privilégios na plataforma.
-</div>
+>❗ **IMPORTANTE**: o e-mail de cada vendedor **NÃO** pode ser o mesmo utilizado na plataforma VTEX, isso porque o seu e-mail de admin possui permissões que um vendedor não deveria ter, por isso é necessário utilizar algum outro e-mail sem privilégios na plataforma.
 
 ![inStore adicionando vendedor](https://images.ctfassets.net/alneenqid6w5/3WGuWnOeY8emcmuIqcE0uE/74586856739dcee97163835710a85780/inStore_adicionando_vendedor.png)
 
@@ -37,6 +35,4 @@ Após cadastrar o vendedor no admin da VTEX, ele precisará fazer login no e-com
 Para definir a senha desse vendedor acesse o __admin__ da sua conta: https://{{AccountName}}.myvtex.com/admin e depois siga esse artigo: https://help.vtex.com/pt/faq/como-recuperar-senha-de-acesso
 __Caso você tente definir a senha diretamente no site do e-commerce, o acesso ao inStore não funcionará.__
 
-<div class="alert alert-warning">
-<strong>Importante</strong>: além de configurar o vendedor no VTable, é necessário criar o usuário no Admin, associando a ele o perfil <b>inStore Sales Person</b>.
-</div>
+>⚠️ **Importante**: além de configurar o vendedor no VTable, é necessário criar o usuário no Admin, associando a ele o perfil **inStore Sales Person**.

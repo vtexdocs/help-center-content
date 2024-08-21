@@ -18,9 +18,7 @@ internalReference: 786216
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El sistema de reporte de pedidos actualmente no puede construir un archivo a partir de filtros de promoción que contengan doble espacio en sus nombres, al intentar construir el reporte el sistema genera un error y no se realiza la exportación, dando como resultado el mensaje "_Exportación completada. Se enviaron 0 pedidos a su correo electrónico"_.

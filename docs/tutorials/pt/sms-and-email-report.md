@@ -47,7 +47,5 @@ Para cada  quadrado há um botão no canto superior à direita que ao clicá-lo 
 
 Para visualizar em formato de tabela e exportar as informações, abaixo dos filtros, clique em `TABELA`. Para baixar a tabela em formato .csv clique no botão `EXPORTAR`.
 
-<div class="alert alert-info"> 
-As mensagens que são enviadas automaticamente aos clientes durante a entrega do serviço são configuradas internamente pela VTEX.
-</div>
+>ℹ️ As mensagens que são enviadas automaticamente aos clientes durante a entrega do serviço são configuradas internamente pela VTEX.
 

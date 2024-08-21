@@ -37,9 +37,7 @@ The following Cybersource apps must be installed in your store account:
 - __vtex.cybersource__
 - __vtex.cybersource-payer-auth__
 
-<div class="alert alert-warning">
-If you intend to use Cybersource's anti-fraud system, but want to transact payments on a non-Cybersource gateway, you will need to install the <b>vtex.cybersource-fraud</b> app.
-  </div>
+>⚠️ If you intend to use Cybersource's anti-fraud system, but want to transact payments on a non-Cybersource gateway, you will need to install the **vtex.cybersource-fraud** app.
 
 Learn more about installing applications on a VTEX account in [Installing an app](https://developers.vtex.com/docs/guides/vtex-io-documentation-installing-an-app). 
 
@@ -47,9 +45,7 @@ Learn more about installing applications on a VTEX account in [Installing an app
 
 After installing the apps, you must create authentication keys in the Cybersource environment.
 
-<div class="alert alert-warning">
-  Settings configured in an environment external to VTEX may be discontinued or modified without prior notice. Please check your Cybersource account for the latest information.
-  </div>
+>⚠️ Settings configured in an environment external to VTEX may be discontinued or modified without prior notice. Please check your Cybersource account for the latest information.
 
 Follow the steps below:
 
@@ -138,8 +134,7 @@ To process credit card payments through Cybersource, follow the steps below:
 8. If you wish, you can also [configure special payment conditions](https://help.vtex.com/en/tutorial/special-conditions--tutorials_456).
 9. Click __Save__.
 
-<div class="alert alert-warning">
-  If you have previously created credit card payment conditions for other gateways (including the legacy Cybersource provider), you can set those conditions to <b>Inactive</b>. In-progress transactions initiated from that provider will still be processed by that provider, even if it is inactive. Only new transactions will be processed by the new Cybersource IO provider. If you need to revert to your previous provider for any reason, simply set their payment conditions to <b>Active</b> and the Cybersource IO payment conditions to <b>Inactive</b>.</div>
+>⚠️ If you have previously created credit card payment conditions for other gateways (including the legacy Cybersource provider), you can set those conditions to **Inactive**. In-progress transactions initiated from that provider will still be processed by that provider, even if it is inactive. Only new transactions will be processed by the new Cybersource IO provider. If you need to revert to your previous provider for any reason, simply set their payment conditions to **Active** and the Cybersource IO payment conditions to **Inactive**.
 
 ## Setting up Cybersource IO Device Fingerprint (optional)
 
@@ -147,9 +142,7 @@ Device Fingerprint is an identifier that acts in payment processing to improve f
 
 By collecting non-sensitive data, Device Fingerprint identifies and analyzes the security level of the device used to perform a given transaction. It also analyzes transactions previously performed with that device.
 
-<div class="alert alert-info">
-Each store must have only one Device Fingerprint registered. Check if you have already registered the Device Fingerprint in another connector, before proceeding with the steps below.
-</div>
+>ℹ️ Each store must have only one Device Fingerprint registered. Check if you have already registered the Device Fingerprint in another connector, before proceeding with the steps below.
 
 To configure Cybersource IO Device Fingerprint, follow the steps below:
 

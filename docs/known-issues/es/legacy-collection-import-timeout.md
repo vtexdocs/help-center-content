@@ -18,9 +18,7 @@ internalReference: 483785
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, cuando un usuario intenta importar datos a través del botón de inserción masiva de skus, si la hoja que se está utilizando es demasiado extensa, el proceso puede fallar.

@@ -31,9 +31,7 @@ Existen diversas formas de configurar las redirecciones, y una de las más conoc
 
 Consulta a continuación instrucciones para configurar redirecciones a la dirección principal de tu tienda utilizando esta sencilla herramienta: [Redirect Center](http://redirect.center/).
 
-<div class="alert alert-warning">
-  <p><a href="http://redirect.center/">Redirect Center</a> no es un servicio de VTEX y no funciona con HTTPS. Existen otros servicios similares, y VTEX no recomienda ninguno en particular. VTEX no se hace responsable de los problemas causados por servicios externos de redirección.</p>
-</div>
+>⚠️ [Redirect Center](http://redirect.center/) no es un servicio de VTEX y no funciona con HTTPS. Existen otros servicios similares, y VTEX no recomienda ninguno en particular. VTEX no se hace responsable de los problemas causados por servicios externos de redirección.
 
 ### Redirección de direcciones sin subdominio (como www)
 

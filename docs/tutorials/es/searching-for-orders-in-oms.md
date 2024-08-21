@@ -15,9 +15,7 @@ legacySlug: como-buscar-el-pedido
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-<div class="alert alert-info">
-<strong>Atención:</strong> sólo es posible hacer consultas utilizando un intervalo máximo de <b>6 meses</b>.
-</div>
+>ℹ️ **Atención:** sólo es posible hacer consultas utilizando un intervalo máximo de **6 meses**.
 
 La barra de búsqueda de Gestión de pedidos permite encontrar los pedidos de varias formas diferentes. Basta digitar una de esas opciones en la barra y pulsar __Enter__. También se puede utilizar junto con los filtros, siempre que sea necesario [filtrar pedidos en Gestión de pedidos](/es/tutorial/como-filtrar-pedidos).
 

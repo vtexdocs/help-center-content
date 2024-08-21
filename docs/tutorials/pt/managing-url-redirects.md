@@ -50,7 +50,5 @@ Alguns editores, como o Google Sheets, exportam arquivos CSV utilizando vírgula
 
 Se deseja exportar seus redirecionamentos, clique em <i class="fas fa-download"></i> `Exportar` e eles serão baixados no seu computador. 
 
-<div class="alert alert-info">
-Não é possível criar redirecionamentos por meio de rotas pré-definidas como “home” "/", "login", "account", etc.). É recomendada a criação manual seguindo as instruções mencionadas acima.
-</div>
+>ℹ️ Não é possível criar redirecionamentos por meio de rotas pré-definidas como “home” "/", "login", "account", etc.). É recomendada a criação manual seguindo as instruções mencionadas acima.
 

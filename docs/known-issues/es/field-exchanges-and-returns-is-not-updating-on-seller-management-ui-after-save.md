@@ -18,9 +18,7 @@ internalReference: 689886
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Después de guardar el campo "Cambios y devoluciones" en la UI la información se actualiza por primera vez pero si intentamos salir del área de gestión o refrescar la página la información se pierde.

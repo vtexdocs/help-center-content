@@ -27,9 +27,7 @@ A plataforma VTEX permite a criação de arquiteturas diferentes para a sua loja
 
 Este artigo apresenta as diferenças entre arquitetura multi-loja e ambiente adicional para que você identifique qual a mais adequada para diferentes cenários. 
 
-<div class="alert alert-info">
-Para arquiteturas de marketplace, também é possível <a href="https://help.vtex.com/pt/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78"> Escolher entre Conta Franquia, Seller Portal ou Conta Padrão</a>, ou utilizar a configuração de <a href="https://help.vtex.com/pt/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4">Multilevel Omnichannel Inventory </a>. 
-</div>
+>ℹ️ Para arquiteturas de marketplace, também é possível [ Escolher entre Conta Franquia, Seller Portal ou Conta Padrão](https://help.vtex.com/pt/tutorial/escolher-entre-conta-padrao-conta-franquia-ou-seller-portal--4S90HzzhMyZESsHqrnUs78), ou utilizar a configuração de [Multilevel Omnichannel Inventory ](https://help.vtex.com/pt/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4).
 
 ## Comparando arquitetura multi-loja e ambiente adicional
 

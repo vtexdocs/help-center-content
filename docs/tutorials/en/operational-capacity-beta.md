@@ -31,9 +31,7 @@ When you go to the VTEX Admin under **Shipping > Operational Capacity**, you wil
 
 ![operational_capacity_image1_EN](https://images.ctfassets.net/alneenqid6w5/5k7wWTuVZk7Ylc2IHpNE5C/87f03e4f1a667a76349095e450244602/operational_capacity_image1_EN.png)
 
-<div class="alert alert-warning">
-The sellers displayed on the interface are your operation's sellers, previously configured by our team. To add a new seller, contact <a href="https://help.vtex.com/en/support">our Support</a> team.
-</div>
+>⚠️ The sellers displayed on the interface are your operation's sellers, previously configured by our team. To add a new seller, contact [our Support](https://help.vtex.com/en/support) team.
 
 The chart shows the following data:
 
@@ -99,9 +97,7 @@ The seller's operational capacity considers the number of orders or order items.
     - **Number of items:** The seller's operational capacity will be based on the number of items in an order.
 5. Click `Save Changes`.
 
-<div class="alert alert-warning">
-The platform has some restrictions regarding <a href="https://help.vtex.com/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI">comprehensive sellers</a>. Learn more in the <a href="https://help.vtex.com/en/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#comprehensive-seller-operational-capacity">Comprehensive seller operational capacity</a> section.
-</div>
+>⚠️ The platform has some restrictions regarding [comprehensive sellers](https://help.vtex.com/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI). Learn more in the [Comprehensive seller operational capacity](https://help.vtex.com/en/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#comprehensive-seller-operational-capacity) section.
 
 ## Actions on the seller details page
 
@@ -119,9 +115,7 @@ At the top right of the seller's details page, you'll find a toggle switch to ac
 - **Activate:** Enable the toggle switch for `Active` and click `Activate`.
 - **Pause:** Toggle the switch for `Paused` and click `Pause`.
 
-<div class="alert alert-warning">
-The platform has some restrictions regarding <a href="https://help.vtex.com/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI">comprehensive sellers</a>. Learn more in the <a href="https://help.vtex.com/en/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#comprehensive-seller-operational-capacity">Comprehensive seller operational capacity</a> section.
-</div>
+>⚠️ The platform has some restrictions regarding [comprehensive sellers](https://help.vtex.com/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI). Learn more in the [Comprehensive seller operational capacity](https://help.vtex.com/en/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#comprehensive-seller-operational-capacity) section.
 
 ### Monitoring capacity usage
 

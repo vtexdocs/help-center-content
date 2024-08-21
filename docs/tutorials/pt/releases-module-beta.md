@@ -15,9 +15,7 @@ legacySlug: modulo-lancamentos-beta
 subcategory: 
 ---
 
-<div class="alert alert-info">
-O módulo <b>Lançamentos</b> está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Esta funcionalidade é válida somente para lojas que usam FastStore.
-</div>
+>ℹ️ O módulo **Lançamentos** está em fase beta, o que significa que estamos trabalhando para aprimorá-lo. Esta funcionalidade é válida somente para lojas que usam FastStore.
 
 O gerenciamento de uma operação de ecommerce requer que o lojista faça uma série de atualizações e modificações na sua loja, que muitas vezes estão relacionadas entre si. Um exemplo é a realização de uma campanha publicitária, em que diferentes elementos do storefront precisam ser configurados.
 
@@ -190,9 +188,7 @@ Outra forma de publicar é entrando na página de detalhes do lançamento, confo
 
 Siga o passo a passo abaixo para excluir um lançamento:
 
-<div class="alert alert-danger">
-Lançamentos excluídos são deletados e não podem ser recuperados. As atualizações que faziam parte do lançamento são mantidas, mas o agrupamento entre elas deixa de existir.
-</div>
+>❗ Lançamentos excluídos são deletados e não podem ser recuperados. As atualizações que faziam parte do lançamento são mantidas, mas o agrupamento entre elas deixa de existir.
 
 1. No Admin VTEX, acesse **Configurações da loja > Lançamentos.**
   > Se sua loja utiliza o Redesigned VTEX Admin, acesse **Storefront > Lançamentos**.

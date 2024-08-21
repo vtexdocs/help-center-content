@@ -15,11 +15,9 @@ legacySlug: offers-listing
 subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---
 
-<div class="alert alert-info">
-To evolve your experience in synchronizing and updating offers, the VTEX team is developing a new functionality that will replace the current module <b>Offer Management</b>. As a result, the module will not receive new updates or maintenance.
-For connectors and marketplaces already integrated into the module, please contact the development team by email <a href="taissa.araujo@vtex.com.br">taissa.araujo@vtex.com.br</a>.
-For connectors interested in starting the integration, we ask you to wait for the release of the new module, as soon as it is available we will announce it to all customers through the <a href="https://developers.vtex.com/updates/release-notes">Developer Portal's release notes section</a> and <a href="https://help.vtex.com/pt/en/announcements">VTEX Help Center announcements page</a>.
-</div>  
+>ℹ️ To evolve your experience in synchronizing and updating offers, the VTEX team is developing a new functionality that will replace the current module **Offer Management**. As a result, the module will not receive new updates or maintenance.
+> For connectors and marketplaces already integrated into the module, please contact the development team by email [taissa.araujo@vtex.com.br](taissa.araujo@vtex.com.br).
+> For connectors interested in starting the integration, we ask you to wait for the release of the new module, as soon as it is available we will announce it to all customers through the [Developer Portal's release notes section](https://developers.vtex.com/updates/release-notes) and [VTEX Help Center announcements page](https://help.vtex.com/pt/en/announcements).  
 
 The **Offer Management** module allows sellers to track the sending and syncing of their offers on all sales channels integrated with the store. On the VTEX platform, an offer is a SKU from a seller that has been sent to a sales channel and whose price and inventory information have been configured.
 

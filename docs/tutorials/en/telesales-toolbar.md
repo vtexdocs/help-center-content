@@ -29,10 +29,7 @@ To enable this toolbar, the store administrator must [assign the Call Center Ope
 
 To learn how to customize the toolbar in the **CMS** module, check out the article [Customizing the telesales toolbar](https://help.vtex.com/en/tutorial/customizar-a-toolbar-de-televendas--1XEz1zqO3KyIuwC4asUsOg).
 
-<div class="alert alert-warning">
-<p>For stores developed with <a href="https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io">VTEX IO</a>, you must configure the <strong>VTEX Telemarketing</strong> app to enable and customize the telesales toolbar. Learn more about this process in our <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-telemarketing">VTEX Telemarketing</a> guide.
-</p>
-</div>
+>⚠️ For stores developed with [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io), you must configure the **VTEX Telemarketing** app to enable and customize the telesales toolbar. Learn more about this process in our [VTEX Telemarketing](https://developers.vtex.com/vtex-developer-docs/docs/vtex-telemarketing) guide.
 
 ## Log in as customer
 

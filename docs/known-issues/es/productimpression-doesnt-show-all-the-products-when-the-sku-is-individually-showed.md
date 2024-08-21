@@ -18,9 +18,7 @@ internalReference: 717617
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando la tienda "separa" el SKU de un producto para mostrarlo individualmente en el escaparate, el ProductImpression del GTM sólo ve los productos por su productID, no por cada SKUId. Así que si el producto tiene 3 SKUs diferentes en la página de búsqueda, el ProductImpression sólo lo mostrará como un producto.

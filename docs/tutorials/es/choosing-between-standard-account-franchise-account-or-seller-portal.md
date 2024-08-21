@@ -23,7 +23,7 @@ En VTEX, existen tres tipos de cuenta, y cada una permite actuar con un perfil d
 - **Cuenta franquicia:** en el momento en que se crea, se asocia a una cuenta estándar, de la cual hereda el catálogo. La [cuenta franquicia](https://help.vtex.com/es/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) puede configurar su propia logística, pagos y precios, y tiene los módulos de la plataforma VTEX en forma parcial, además de un [seller white label](https://help.vtex.com/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa).
 - **Seller Portal:** el [Seller Portal](https://help.vtex.com/es/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) es una edición de la plataforma VTEX que les permite a los _sellers_ conectarse y vender productos en _marketplaces_ del ecosistema VTEX, independientemente de si el _seller_ ya tiene una cuenta en VTEX o no. El Seller Portal brinda acceso parcial a los módulos de la plataforma, y el _seller_ puede ser normal o [white label](https://help.vtex.com/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa).
 
-<div class="alert alert-warning"> El límite para cada cuenta en el Seller Portal es de 100 mil productos. Para obtener más información, póngase en contacto con <a href="https://support.vtex.com/hc/pt-br/requests">nuestro equipo de soporte.</div>
+>⚠️ El límite para cada cuenta en el Seller Portal es de 100 mil productos. Para obtener más información, póngase en contacto con <a href="https://support.vtex.com/hc/pt-br/requests">nuestro equipo de soporte.
 
 La tabla que figura a continuación muestra los principales escenarios de uso de cada tipo de cuenta:
 

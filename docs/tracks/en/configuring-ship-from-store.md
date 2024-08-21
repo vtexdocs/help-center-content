@@ -28,9 +28,7 @@ First of all, you must consider the prerequisites that your store needs to ensur
 
 ## How to implement Ship From Store
 
-<div class="alert alert-info">
-Although it is possible to implement Ship From Store in other ways, in this article we will explain how to do it using the Franchise Account and Seller White Label features. This is the architecture most recommended by VTEX for this type of project.
-</div>
+>ℹ️ Although it is possible to implement Ship From Store in other ways, in this article we will explain how to do it using the Franchise Account and Seller White Label features. This is the architecture most recommended by VTEX for this type of project.
 
 These are the steps to implement __Ship From Store__:
 

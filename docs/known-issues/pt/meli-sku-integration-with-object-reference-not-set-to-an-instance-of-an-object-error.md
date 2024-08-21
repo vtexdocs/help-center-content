@@ -18,9 +18,7 @@ internalReference: 657515
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Alguns skus no Mercado Livre estão com erro de registro: "Referência de objeto não definida para uma instância de um objeto".

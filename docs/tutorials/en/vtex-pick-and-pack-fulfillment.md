@@ -28,9 +28,7 @@ The **VTEX Pick and Pack Fulfillment** module is related to the order handling p
 * [Settings](#settings)
 * [Users](#users)
 
-<div class="alert alert-danger">
-<b>VTEX Pick and Pack</b> is not an invoicing system. After picking and packing, the order must be invoiced and updated as <code>Invoiced</code> in the OMS, so that <b>VTEX Fulfillment</b> can end the picking and packing flow and proceed to shipping.
-</div>
+>❗ **VTEX Pick and Pack** is not an invoicing system. After picking and packing, the order must be invoiced and updated as `Invoiced` in the OMS, so that **VTEX Fulfillment** can end the picking and packing flow and proceed to shipping.
 
 ## Picking and Packing
 
@@ -155,9 +153,7 @@ In the details page, you can do the actions below. The actions available on the 
 * [Add shipping service](#add-shipping-service)
 * [Track order](#track-order)
 
-<div class="alert alert-danger">
-Although the actions above can be performed by <a href="https://help.vtex.com/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#users">users</a> with access to the Admin, typically the actions with an <b>*</b> (asterisk) should be executed only by pickers using their mobile devices, without any access to the store's Admin.
-</div>
+>❗ Although the actions above can be performed by [users](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#users) with access to the Admin, typically the actions with an ***** (asterisk) should be executed only by pickers using their mobile devices, without any access to the store's Admin.
 
 #### Picking
 
@@ -296,9 +292,8 @@ To create a new package, follow the steps below:
 
 You can add a single product to a package or all products at once. After all products are packed, click `Close Packages`. Once you close packages, you are no longer able to add items or make any kind of change.
 
-<div class="alert alert-danger">
-<p><b>VTEX Pick and Pack</b> is not an invoicing system. Once the order gets to <code>Ready for invoicing</code> status, it must be invoiced and updated as <code>Invoiced</code> in OMS. Only after that, <b>VTEX Fulfillment</b> will end the picking and packing flow and proceed to shipping.</p><p>If the order is invoiced in a status different from <code>Ready for invoicing</code>, the system will consider it an external fulfillment and change the order status to <code>Idle</code>, unabling <b>VTEX Pick and Pack</b> to process it.</p>
-</div>
+>❗ **VTEX Pick and Pack** is not an invoicing system. Once the order gets to `Ready for invoicing` status, it must be invoiced and updated as `Invoiced` in OMS. Only after that, **VTEX Fulfillment** will end the picking and packing flow and proceed to shipping.
+> If the order is invoiced in a status different from `Ready for invoicing`, the system will consider it an external fulfillment and change the order status to `Idle`, unabling **VTEX Pick and Pack** to process it.
 
 #### Print receipt and voucher
 
@@ -338,9 +333,7 @@ In **VTEX Pick and Pack**, the **Insights** page provides data and analytics abo
 * [Picking and Packing](#insights-picking-and-packing)
 * [Operation](#insights-operation)
 
-<div class="alert alert-warning">
-To be able to access <b>Insights</b>, you need to have a VTEX Fulfillment Admin user profile, that is different from <a href="https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">roles</a>. For more information, see the <a href="https://help.vtex.com/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#users">Users</a> section.
-</div>
+>⚠️ To be able to access **Insights**, you need to have a VTEX Fulfillment Admin user profile, that is different from [roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). For more information, see the [Users](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#users) section.
 
 ### Insights: Picking and Packing
 
@@ -410,9 +403,7 @@ In order to configure **VTEX Pick and Pack** for your store, in your Admin, go t
 * [Printing](#printing-settings)
 * [Webhooks](#webhooks-settings)
 
-<div class="alert alert-warning">
-To be able to access <b>Settings</b>, you need to be a <a href="https://help.vtex.com/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#users">VTEX Fulfillment admin user</a> or a customer service user.
-</div>
+>⚠️ To be able to access **Settings**, you need to be a [VTEX Fulfillment admin user](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#users) or a customer service user.
 
 ### General settings
 
@@ -626,9 +617,7 @@ To generate an Api-Key, follow the steps below:
 4. Click `Generate`.
 5. Save the Api-Key in a safe place.
 
-  <div class="alert alert-danger">
-You only see the Api-Key once, you will not be able to access this information again, so make sure it is in a safe place.
-</div>
+  >❗ You only see the Api-Key once, you will not be able to access this information again, so make sure it is in a safe place.
 
 6. Enter the password.
 7. Click `Save`.

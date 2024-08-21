@@ -34,9 +34,7 @@ Para activar la funcionalidad, será necesario:
 
 ## 1. Instalar la app de Suscripciones
 
-<div class="alert alert-warning">
-Actualmente, la instalación del módulo de Suscripciones se realiza únicamente mediante solicitud a <a href="https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.
-</div>
+>⚠️ Actualmente, la instalación del módulo de Suscripciones se realiza únicamente mediante solicitud a [nuestro Soporte](https://support.vtex.com/hc/es-419/requests).
 
 Para instalar la aplicación gratis de suscripciones en [VTEX App Store](https://apps.vtex.com/), sigue los pasos a continuación:
 
@@ -63,9 +61,7 @@ Actualmente, los siguientes medios de pago están habilitados para pedidos de su
 - **Tarjeta de crédito**
 - **Boleto bancario** (medio de pago disponible en Brasil)
 
-<div class="alert alert-info">
-  <p>Para colocar a disposición la opción de pago <strong>Tarjeta de crédito</strong>, contacte al adquirente de cu tienda y verifique si acepta transacciones de compras recurrentes de tarjetas con token (sin CVV). El sistema de <strong>Suscripciones</strong> utilizará los mismos datos de la tarjeta empleada en la primera compra para realizar las demás compras de suscripción, garantizando la seguridad de todo el proceso.</p>
-</div>
+>ℹ️ Para colocar a disposición la opción de pago **Tarjeta de crédito**, contacte al adquirente de cu tienda y verifique si acepta transacciones de compras recurrentes de tarjetas con token (sin CVV). El sistema de **Suscripciones** utilizará los mismos datos de la tarjeta empleada en la primera compra para realizar las demás compras de suscripción, garantizando la seguridad de todo el proceso.
 
 Para habilitar este tipo de transacción en el conector, el gestor de la tienda deberá solicitar al adquirente la habilitación para transaccionar pagos recurrentes. Acceda a nuestro artículo sobre [Registrar afiliaciones de gateway](https://help.vtex.com/es/tutorial/afiliaciones-de-gateway--tutorials_444).
 
@@ -79,9 +75,7 @@ Existe otra opción para crear un plan de suscripción, que consiste en crear ma
 
 Hay una serie de recursos relacionados con Suscripciones que están disponibles en el módulo **Perfiles de acceso** de su tienda. Estos recursos permiten el acceso de los usuarios de su Admin VTEX a determinadas funcionalidades, para operar el módulo de Suscripciones. Para saber más sobre los perfiles de acceso, consulte nuestro [artículo](https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#criando-um-perfil-de-acesso).
 
-<div class="alert alert-warning">
-Si el usuario no tiene los permisos necesarios para acceder a los datos en las pantallas de <b>Suscripciones</b>, el sistema mostrará una alerta indicando que no tiene estos permisos, y el usuario no podrá ver los datos.
-</div>
+>⚠️ Si el usuario no tiene los permisos necesarios para acceder a los datos en las pantallas de **Suscripciones**, el sistema mostrará una alerta indicando que no tiene estos permisos, y el usuario no podrá ver los datos.
 
 Vea los recursos relacionados con el módulo de Suscripciones en la siguiente tabla:
 

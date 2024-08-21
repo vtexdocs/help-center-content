@@ -18,9 +18,7 @@ internalReference: 380509
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando el administrador de una cuenta cambia el pedido aplicando descuentos sobre el valor y no sobre los artículos utilizando la API, el correo electrónico de la orden de cambio no se envía al cliente final.

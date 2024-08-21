@@ -18,9 +18,7 @@ internalReference: 534838
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El portal mantiene las UTM's después de cerrar la sesión cuando se utiliza Callcenter Operator.

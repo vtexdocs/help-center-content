@@ -26,9 +26,7 @@ Confira a seguir o passo a passo para cada uma dessas opções:
 
 Recomendamos a criação de perfis que sejam análogos às estruturas hierárquicas da loja. Desta forma, todos os colaboradores são responsáveis pelas informações a que podem ter acesso. Boas práticas de gerenciamento dos perfis de acesso aumentam a segurança de uma operação, além de se reforçar a atenção de todos os envolvidos com dados sensíveis de uma loja e de seus clientes. 
 
-<div class="alert alert-warning">
-  <p>O uso irrestrito de perfis de acesso muito permissivos aumenta o risco de ataques nas lojas caso ocorra o vazamento de credenciais de login.</p>
-</div>
+>⚠️ O uso irrestrito de perfis de acesso muito permissivos aumenta o risco de ataques nas lojas caso ocorra o vazamento de credenciais de login.
 
 ## Utilizar perfil de acesso predefinido
 
@@ -80,9 +78,7 @@ Para criar  um perfil de acesso personalizado para atender as necessidades de ac
 
 7. Escreva um nome para o perfil personalizado no campo **Nome do perfil**.
 
-  <div class="alert alert-warning">
-    <p>É importante escolher nomes descritivos para os perfis de acesso, deixando claro que tipo de usuário deve ter aquele acesso. Recomendamos indicar o cargo na empresa ou atividade a ser desempenhada na plataforma.</p>
-  </div>
+  >⚠️ É importante escolher nomes descritivos para os perfis de acesso, deixando claro que tipo de usuário deve ter aquele acesso. Recomendamos indicar o cargo na empresa ou atividade a ser desempenhada na plataforma.
 
 8. Adicione usuários administrativos ao perfil de acesso, preenchendo o email do usuário a ser inserido em **Adicionar usuários para este perfil de acesso** e clicando em `Adicionar`.
 

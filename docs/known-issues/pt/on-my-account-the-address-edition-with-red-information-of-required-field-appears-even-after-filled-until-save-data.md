@@ -18,9 +18,7 @@ internalReference: 870891
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Na página de edição My Address (Meu endereço) de Minha conta, mesmo que o endereço seja preenchido, a informação vermelha de "Campo obrigatório" aparece até que os dados sejam salvos.

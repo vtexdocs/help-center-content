@@ -72,9 +72,7 @@ Este proceso de priorización se desarrolla en tres etapas:
 
 Una vez determinados los anuncios que se muestran en la página, se determina el valor de las ofertas. La oferta ganadora de la subasta tendrá el valor final de la segunda mayor oferta más USD 0.01.
 
-<div class="alert alert-danger">
-Puede ocurrir que no se seleccione ningún anuncio con el proceso de priorización si no hay productos promocionados que se ajusten al contexto de navegación, a la cobertura de la tienda o que no tienen presupuesto disponible.
-</div>
+>❗ Puede ocurrir que no se seleccione ningún anuncio con el proceso de priorización si no hay productos promocionados que se ajusten al contexto de navegación, a la cobertura de la tienda o que no tienen presupuesto disponible.
 
 ### Nivel de calidad
 
@@ -109,9 +107,7 @@ Consulta a continuación cómo puedes formar parte de **VTEX Ad Network** ya sea
 
 ### Retailers
 
-<div class="alert alert-warning">
-Por el momento, solamente tiendas desarrolladas con <a href="https://help.vtex.com/es/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework">Store Framework</a> pueden ofrecer espacios para anuncios.
-</div>
+>⚠️ Por el momento, solamente tiendas desarrolladas con [Store Framework](https://help.vtex.com/es/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework) pueden ofrecer espacios para anuncios.
 
 Para disponibilizar espacios para anuncios en tu tienda, debe ponerse en contacto con el [Soporte Comercial](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ) para solicitar la instalación de la aplicación VTEX Ad Network para tiendas en su cuenta VTEX.
 

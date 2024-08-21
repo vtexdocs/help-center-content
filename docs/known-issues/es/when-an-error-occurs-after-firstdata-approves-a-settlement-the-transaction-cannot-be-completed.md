@@ -18,9 +18,7 @@ internalReference: 760458
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En ocasiones, pueden producirse errores al procesar nuestras operaciones a través de la pasarela. En el caso del conector de Firstdata, puede surgir un error inmediatamente después de la aprobación de la liquidación por nuestra parte. Para solucionarlo, tenemos que volver a solicitar una liquidación. Sin embargo, debido a la idempotencia, el proveedor no vuelve a enviar una respuesta de "aprobado", lo que puede provocar que la operación se quede atascada en estado "liquidando" hasta que se produzca una nueva actualización de estado.

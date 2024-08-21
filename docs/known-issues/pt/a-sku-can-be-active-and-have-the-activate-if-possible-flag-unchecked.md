@@ -18,9 +18,7 @@ internalReference: 931324
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Espera-se que uma SKU ativa tenha o sinalizador "ativar se possível" marcado; no entanto, esse nem sempre é o caso.

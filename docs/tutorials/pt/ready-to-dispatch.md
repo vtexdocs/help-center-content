@@ -15,13 +15,13 @@ legacySlug: pronto-para-envio
 subcategory: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
-<div class="alert alert-info">
-Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site <a href="https://vtex.com/br-pt/shipping-network/">VTEX Shipping Network</a>.
-</div>
+>ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/).
 
-<div class="alert alert-warning">
-<p>O <a href="https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC">VTEX Shipping Network Correios</a> integra sua operação com os serviços PAC e SEDEX do contrato VTEX junto aos Correios, e o <a href="https://vtex.com/br-pt/shipping-network/">VTEX Shipping Network</a> integra a sua operação com os Correios e outras transportadoras. Com ambas as soluções você pode usar as funcionalidades:</p><p><ul><li><a href="https://help.vtex.com/pt/tutorial/painel-vtex-shipping-network--51e8tx1IehiN4ZtURRWU92">Painel VTEX Shipping Network</a></li><li><a href="https://help.vtex.com/pt/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq">Entregas Correios</a></li><li>Pronto para envio</li></ul></p>
-</div>
+>⚠️ O [VTEX Shipping Network Correios](https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC) integra sua operação com os serviços PAC e SEDEX do contrato VTEX junto aos Correios, e o [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) integra a sua operação com os Correios e outras transportadoras. Com ambas as soluções você pode usar as funcionalidades:
+> 
+> *[Painel VTEX Shipping Network](https://help.vtex.com/pt/tutorial/painel-vtex-shipping-network--51e8tx1IehiN4ZtURRWU92)
+> * [Entregas Correios](https://help.vtex.com/pt/tutorial/entregas-correios-vtex-shipping-network--5CZRA0lq60EecmwZpsjvfq)
+> * Pronto para envio
 
 Quando um pedido está pronto para o envio e com a nota fiscal inserida na plataforma ([faturado](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/2WgQrlHTyVo4hLjhUs1LMT)), a loja providencia a etiqueta de envio e notifica a transportadora que o envio deve ser feito.
 
@@ -71,9 +71,7 @@ Você pode organizar a lista de pacotes de duas formas, clicando nas opções ao
 * `Data da criação`: ordena pela data em que os pedidos foram criados.
 * `Data da fatura`: ordena pela data em que as notas fiscais foram criadas.
 
-<div class="alert alert-warning">
-O <b>Pronto para envio</b> emite etiquetas para todos os <a href="https://help.vtex.com/pt/tutorial/faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v">pedidos faturados</a> no Admin VTEX cujos itens foram referenciados na nota fiscal, seja via API no ERP ou manualmente. No entanto, apenas as etiquetas de transportadoras vinculadas ao <b>VTEX Shipping Network</b> possuem layout e rastreabilidade válidos via API.
-</div>
+>⚠️ O **Pronto para envio** emite etiquetas para todos os [pedidos faturados](https://help.vtex.com/pt/tutorial/faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v) no Admin VTEX cujos itens foram referenciados na nota fiscal, seja via API no ERP ou manualmente. No entanto, apenas as etiquetas de transportadoras vinculadas ao **VTEX Shipping Network** possuem layout e rastreabilidade válidos via API.
 
 ### Impressão de etiquetas
 
@@ -94,9 +92,7 @@ As transportadoras são notificadas quando é feito o download das etiquetas.
 
 ![etiquetas](https://images.contentful.com/alneenqid6w5/1L1fExGcJgTPi3WD5nmWBL/7714df72cacfafda1d915aa86cc1203e/etiquetas.png)
 
-<div class="alert alert-danger">
-Em caso de erros ou dúvidas, entre em contato diretamente com o suporte do <b>VTEX Shipping Network</b> através do email vtexlog@vtex.com.br.
-</div>
+>❗ Em caso de erros ou dúvidas, entre em contato diretamente com o suporte do **VTEX Shipping Network** através do email vtexlog@vtex.com.br.
 
 ### Alterar o tipo do tamanho das etiquetas
 

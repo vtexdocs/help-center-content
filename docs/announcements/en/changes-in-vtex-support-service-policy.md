@@ -15,4 +15,4 @@ announcementImageID: ''
 announcementSynopsisEN: 'Now, the main channel to open a ticket is the VTEX Community.'
 ---
 
-<div class="alert alert-info">This content is being translated.</div>
+>ℹ️ This content is being translated.

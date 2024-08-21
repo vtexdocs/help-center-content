@@ -136,9 +136,7 @@ Digamos que desea ofrecer una condición especial de pago para clientes que pagu
 
 En este caso, debe seleccionar el banco emisor responsable de esta tarjeta seguido del nombre de su tienda en el campo __Co-brand__.
 
-<div class="alert alert-warning">
-Tenga en cuenta que, de manera predeterminada, la información sobre si una tarjeta tiene o no una marca compartida <strong>no</strong> se agrega a la base de datos VTEX. Por lo tanto, si su tienda desea segmentar una condición de pago de acuerdo con las tarjetas, debe enviar un ticket con la lista de tarjetas de marca compartida al equipo de soporte de VTEX.
-</div>
+>⚠️ Tenga en cuenta que, de manera predeterminada, la información sobre si una tarjeta tiene o no una marca compartida **no** se agrega a la base de datos VTEX. Por lo tanto, si su tienda desea segmentar una condición de pago de acuerdo con las tarjetas, debe enviar un ticket con la lista de tarjetas de marca compartida al equipo de soporte de VTEX.
 
 ## Período
 
@@ -160,7 +158,5 @@ Cómo configurar el período en la condición de pago
 
 Imagine que su tienda normalmente ofrece un pago en cuotas en hasta 6x sin intereses, pero usted desea aprovechar las ventas del final de año para ofrecer un pago en cuotas en hasta 12x sin intereses. En ese caso, bastaría seguir los pasos arriba y catastrar el período para la condición de pago, dejar de ser aplicada el 01 de janeiro del año siguiente, por ejemplo.
 
-<div class="alert alert-warning">
-Las condiciones de pago poseen un caché de hasta 10 minutos en el Smart Checkout. Luego, cualquier cambio en las Condiciones de Pago del modulo <strong>Pagos</strong> puede llevar hasta 10 minutos para entrar en producción en el Smart Checkout.
-</div>
+>⚠️ Las condiciones de pago poseen un caché de hasta 10 minutos en el Smart Checkout. Luego, cualquier cambio en las Condiciones de Pago del modulo **Pagos** puede llevar hasta 10 minutos para entrar en producción en el Smart Checkout.
 

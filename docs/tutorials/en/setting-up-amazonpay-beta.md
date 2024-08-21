@@ -15,9 +15,7 @@ legacySlug: setting-up-amazonpay-beta
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-info">
-This feature is in beta, which means that we are working to improve it. If you have any questions, please contact [our Support](https://support.vtex.com/hc/en-us/requests).
-</div>
+>ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact [our Support](https://support.vtex.com/hc/en-us/requests).
 
 AmazonPay Checkout, is a known payment processor and method used
 worldwide. This method is available at VTEX in the affiliations list on the **Settings** page. AmazonPay gateway affiliation supports the AmazonPay payment method.

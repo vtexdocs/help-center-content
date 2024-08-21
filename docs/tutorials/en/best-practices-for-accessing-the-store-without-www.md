@@ -69,6 +69,4 @@ Some DNS providers, such as [Cloudflare](https://www.cloudflare.com/pt-br/), pro
 
 So, if you want to use a pure domain with a CDN in a specific configuration, the first step is to check whether your DNS provider supports CNAME Flattening. If so, you can configure the pure domain accordingly.
 
-<div class="alert alert-warning">
-  <p>When the DNS Flattening solution is used, it will have the same behavior as a<a href="https://help.vtex.com/en/tutorial/por-que-nao-recomendamos-inserir-um-proxy-reverso-em-frente-aos-servicos-da--4PFWsfRAKviNVPf1bYdiir"> reverse-proxy</a>. In this case, a TXT verification entry must be configured.</p>
-</div>
+>⚠️ When the DNS Flattening solution is used, it will have the same behavior as a[ reverse-proxy](https://help.vtex.com/en/tutorial/por-que-nao-recomendamos-inserir-um-proxy-reverso-em-frente-aos-servicos-da--4PFWsfRAKviNVPf1bYdiir). In this case, a TXT verification entry must be configured.

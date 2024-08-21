@@ -19,9 +19,9 @@ Você pode acompanhar a disponibilidade de janelas de entrega e a quantidade de 
 
 Para gerenciar sua **Capacidade de entrega**, você precisa ter [políticas de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) previamente cadastradas, [Entrega agendada](https://help.vtex.com/pt/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi) habilitada e capacidade de entrega previamente configurada.
 
-<div class="alert alert-warning">
-Para que a <a href="https://help.vtex.com/pt/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi">Entrega agendada</a> e a <a href="https://help.vtex.com/pt/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz">Capacidade de entrega</a> funcionem corretamente, você deve observar que:<p><ul><li>A soma {<a href="https://help.vtex.com/pt/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC">account name</a>} + {ID da política de envio} não pode exceder 60 caracteres.</li><li>Não se deve utilizar espaçamento no ID de <a href="https://help.vtex.com/pt/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT">políticas de envio</a>.</li></ul></p>
-</div>
+>⚠️ Para que a [Entrega agendada](https://help.vtex.com/pt/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi) e a [Capacidade de entrega](https://help.vtex.com/pt/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz) funcionem corretamente, você deve observar que:
+> *A soma {[account name](https://help.vtex.com/pt/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC)} + {ID da política de envio} não pode exceder 60 caracteres.
+> * Não se deve utilizar espaçamento no ID de [políticas de envio](https://help.vtex.com/pt/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT).
 
 No Admin VTEX, acesse **Envio > Capacidade de entrega** ou digite **Capacidade de entrega** na barra de busca no topo da página. A **Capacidade de entrega** contém uma lista das janelas de entrega da sua loja, sendo essa lista referente à política de envio selecionada no filtro `Política de envio` e ao período selecionado no filtro `Data`.
 

@@ -31,6 +31,4 @@ To customize the page, you need to:
 2. Authenticate yourself using the __Receive email access code__ or __Access using email and password__ option
 3. Enter __My Account__, located in the upper left side of your screen next to __My Cart__
 
-<div class="alert alert-info">
-Stores created after May 15th, 2019, need not worry about customization adjustments, since the platform already comes with the native app.
-</div>
+>ℹ️ Stores created after May 15th, 2019, need not worry about customization adjustments, since the platform already comes with the native app.

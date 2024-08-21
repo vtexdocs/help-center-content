@@ -18,9 +18,7 @@ internalReference: 361894
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La página de configuración de Redirección de Búsqueda Inteligente tiene una barra de búsqueda para ayudar a encontrar configuraciones de redirección específicas, pero distingue entre mayúsculas y minúsculas y sólo encontrará términos si coinciden exactamente.

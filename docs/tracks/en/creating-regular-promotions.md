@@ -134,9 +134,7 @@ By default, you can add up to 20 payment methods per promotion. You can also cus
 </div>
 
 - **Number of installments:** Discount given if the number of installments selected by the customer is within the specified range. This field does not apply to boletos (Brazilian payment method).
-<div class="alert alert-warning">
-Promotions based on payment method and number of installments do not apply to orders paid for with two cards or vouchers.
-</div>
+>⚠️ Promotions based on payment method and number of installments do not apply to orders paid for with two cards or vouchers.
 
 - **UTM source:** The discount will apply if the customer navigation uses an utm_source parameter corresponding to a listed one in this promotion. Note that the customer can only enter one **utm_source** at checkout.
 - **UTM campaign:** The discount will apply if the customer navigation uses an utm_source parameter corresponding to a listed one in this promotion.

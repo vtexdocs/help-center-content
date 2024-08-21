@@ -18,9 +18,7 @@ internalReference: 503496
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A interface do usuário da marca, `.myvtex.com/admin/Site/Marca.aspx`, não permite que os usuários pesquisem marcas com alguns caracteres especiais no nome, como apóstrofos `'`. Além disso, letras de alfabetos não latinos também não podem ser pesquisadas, por exemplo, do alfabeto polonês, como `Ż`.

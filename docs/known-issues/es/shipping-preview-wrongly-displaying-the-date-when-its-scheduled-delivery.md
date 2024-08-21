@@ -18,9 +18,7 @@ internalReference: 743774
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Checkout UI convierte la hora utilizando la zona horaria del ordenador mostrando la fecha de entrega incorrectamente en shipping-preview (carrito) cuando los artículos son de entrega programada.

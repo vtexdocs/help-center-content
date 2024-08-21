@@ -33,9 +33,7 @@ The **Onboarding guide** has three tracks:
 - [Next steps after the go-live](https://help.vtex.com/en/tracks/next-steps-after-the-go-live--3J7WFZyvTcoiwkcIVFVhIS)
 - [Support at VTEX](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy)
 
-<div class="alert alert-info">
-The tracks include content that complement one another, but they are intended to be standalone. This means you can explore the content freely, without following any specific order.
-</div>
+>ℹ️ The tracks include content that complement one another, but they are intended to be standalone. This means you can explore the content freely, without following any specific order.
 
 Our aim is to allow clients, partners, and the VTEX ecosystem to take advantage of the **Onboarding guide**. We took into account a comprehensive journey to make sure the content stayed relevant for different businesses.
 

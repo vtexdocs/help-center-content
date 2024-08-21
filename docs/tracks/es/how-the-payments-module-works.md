@@ -18,9 +18,7 @@ El módulo de **Pagos** es el sistema responsable en VTEX de gestionar todas las
 
 Antes de explorar las funcionalidades dentro de *Pagos* en el Admin de VTEX, vamos a aclarar algunos conceptos importantes que están relacionados con el flujo de pago de un pedido. Este proceso es realizado por algunos actores dentro del sistema financiero brasileño, que componen la arquitectura del módulo de Pagos.
 
-<div class="alert alert-info">
-Es importante recordar que cada tienda tiene sus particularidades y su propio funcionamiento, lo que influye en la forma de construir el módulo de Pagos de su negocio. Para configurar su flujo financiero, es esencial, por lo tanto, tener en mente las necesidades y los propósitos reales del administrador de la tienda y del proyecto deseado.
-</div>
+>ℹ️ Es importante recordar que cada tienda tiene sus particularidades y su propio funcionamiento, lo que influye en la forma de construir el módulo de Pagos de su negocio. Para configurar su flujo financiero, es esencial, por lo tanto, tener en mente las necesidades y los propósitos reales del administrador de la tienda y del proyecto deseado.
 
 ## Gateway 
 

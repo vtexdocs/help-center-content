@@ -47,9 +47,7 @@ When selecting this worksheet for handling, the app will display the following i
 
 The app will then help you pack each order with its respective items.
 
-<div class="alert alert-warning">
-Worksheets only apply to the order picking and packing steps. You must ship each order separately.
-</div>
+>⚠️ Worksheets only apply to the order picking and packing steps. You must ship each order separately.
 
 ## Creating worksheets
 
@@ -117,9 +115,7 @@ Once picked, the products will be listed in the __Summary__ tab.
 
 There are some scenarios in which products may have to be rejected due to store settings and item availability. 
 
-<div class="alert alert-warning">
-The option to reject items may not be available. If you have any questions, please contact the store admin.
-</div>
+>⚠️ The option to reject items may not be available. If you have any questions, please contact the store admin.
 
 To reject a product from the worksheet, follow the steps below:
 
@@ -135,17 +131,13 @@ To reject all the products from the worksheet at once, follow these steps:
 2. Click the **Set ready for packaging** option.
 3. Click **Reject All Available Items**.
 
-<div class="alert alert-danger">
-If all the items from an order are rejected, the order will be completed automatically.
-</div>
+>❗ If all the items from an order are rejected, the order will be completed automatically.
 
 ## Replacing items
 
 You can also replace the item with another one, depending on the store's settings and the item's availability.
 
-<div class="alert alert-warning">
-The option to replace items may not be available. If you have any questions, please contact the store admin.
-</div>
+>⚠️ The option to replace items may not be available. If you have any questions, please contact the store admin.
 
 To replace worksheet items, follow the steps below:
 
@@ -179,7 +171,7 @@ Follow the steps below to pack items:
 
 1. Under Packing, click the order you want to pack.
 2. Click the <i class="fas fa-plus"></i> button of the product you want to add to the package, or click <i class="fas fa-box"></i> to pack all products at once.
-<div class="alert alert-warning"> If you choose to pack all the order items, the remaining unpacked products will automatically be listed in a new package.</div>
+>⚠️ If you choose to pack all the order items, the remaining unpacked products will automatically be listed in a new package.
 3. Select an existing package or add a new one by clicking `+ Create Package`.
 4. Select the package type you want to add.
 5. Select the number of units of this product you want to add to that package.
@@ -203,9 +195,7 @@ Then, the order will be completed in the app. Depending on your store's settings
 
 The shipping step allows you to create shipping services for orders picked and packed.
 
-<div class="alert alert-warning">
-Shipping is an optional step in the app. It depends on your operation and the store settings.
-</div>
+>⚠️ Shipping is an optional step in the app. It depends on your operation and the store settings.
 
 To ship packages using the Pick and Pack app, follow the steps below:
 

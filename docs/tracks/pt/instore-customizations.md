@@ -14,9 +14,7 @@ trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugPT: instore-customizacoes
 ---
 
-<div class="alert alert-danger">
-A maior parte das customizações do inStore envolvem e alteração do arquivo JavaScript <code>checkout-instore-custom.js</code>. Essa operação deve ser realizada somente por pessoas com experiência em programação. Alterações incorretas nesse arquivo podem causar erros críticos.
-</div> 
+>❗ A maior parte das customizações do inStore envolvem e alteração do arquivo JavaScript `checkout-instore-custom.js`. Essa operação deve ser realizada somente por pessoas com experiência em programação. Alterações incorretas nesse arquivo podem causar erros críticos. 
 
 ## Acessando o arquivo de customização do inStore
 
@@ -50,9 +48,7 @@ Para fazer qualquer alteração, basta incluir ou modificar as linhas de código
 
 ![20. inStore Customizations (intro) - 3](https://images.ctfassets.net/alneenqid6w5/4MRxgu5pLvZYTa8hGObbH1/96489ddb7665b702da05e72fd6d7e1bf/20._inStore_Customizations__intro__-_3.png)
 
-<div class="alert alert-warning">
-Siga sempre as instruções de customização desta documentação e faça apenas as alterações conforme indicadas aqui.
-</div>
+>⚠️ Siga sempre as instruções de customização desta documentação e faça apenas as alterações conforme indicadas aqui.
 
 ## Customizações do inStore
 

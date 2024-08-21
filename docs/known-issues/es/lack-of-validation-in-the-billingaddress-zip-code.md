@@ -18,9 +18,7 @@ internalReference: 375481
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Es posible rellenar y completar la compra rellenando el código postal `billingAddress` con caracteres no numéricos

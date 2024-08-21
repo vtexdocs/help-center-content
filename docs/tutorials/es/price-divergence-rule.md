@@ -19,9 +19,7 @@ Cuando un _seller_ vende en un _marketplace_, a veces hay una diferencia entre e
 
 Para optimizar el procesamiento de los pedidos con errores de diferencia de precios, existe el flujo de Autorización de pedidos, en el que el _seller_ puede [configurar una regla de Divergencia de precios](https://help.vtex.com/es/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe). En el Admin VTEX, accede a **Configuración de la tienda > Pedidos > Autorización de pedidos**, o escribe **Autorización de pedidos** en la barra de búsqueda en la parte superior de la página.
 
-<div class="alert alert-warning">
-Una vez que el seller ha creado la regla de Divergencia de precios, esta se aplica a todos los marketplaces.
-</div>
+>⚠️ Una vez que el seller ha creado la regla de Divergencia de precios, esta se aplica a todos los marketplaces.
 
 La regla de Divergencia de precios se compone de una o varias reglas de autorización de pedidos. Cada regla de autorización corresponde a un rango porcentual del precio del pedido y puede variar del 0% al 100%. Se debe asociar una de las tres acciones a cada regla de autorización:
 
@@ -33,9 +31,7 @@ La regla de Divergencia de precios se compone de una o varias reglas de autoriza
 
 Cuando no se ha [configurado la regla de Divergencia de precios](https://help.vtex.com/es/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe), los pedidos con errores de divergencia de precios se aprueban automáticamente. Esto se aplica a los _marketplaces_ VTEX, a los _marketplaces_ externos y a los conectores certificados (_partners_), pero no a los [conectores nativos](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-con-un-conector-nativo-vtex).
 
-<div class="alert alert-warning">
-Cuando un seller está integrado con un conector nativo, como Mercado Libre, pero no ha configurado una regla de Divergencia de precios, los pedidos con error por diferencia de valores quedan pendientes hasta que se cree la regla. Puedes seguirlos en tu Admin VTEX, en <b>Marketplace > Conexiones > Pedidos</b>.
-</div>
+>⚠️ Cuando un seller está integrado con un conector nativo, como Mercado Libre, pero no ha configurado una regla de Divergencia de precios, los pedidos con error por diferencia de valores quedan pendientes hasta que se cree la regla. Puedes seguirlos en tu Admin VTEX, en **Marketplace > Conexiones > Pedidos**.
 
 Tras la creación de la regla de Divergencia de precios, los pedidos de integraciones con conectores nativos que presentan una diferencia de valores se mostrarán en la página [Todos los pedidos](https://help.vtex.com/es/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi).
 

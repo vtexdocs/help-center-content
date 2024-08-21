@@ -18,9 +18,7 @@ internalReference: 529143
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Para pedidos com método de pagamento usando conectores como aplicativo de pagamento ou redirecionamento, não há GatewayCallback para Checkout, que é responsável por criar a assinatura e enviar um e-mail de novo pedido.

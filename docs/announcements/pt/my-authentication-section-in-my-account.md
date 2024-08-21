@@ -17,9 +17,7 @@ announcementSynopsisPT: 'My Authentication é uma aba do My Account que permite 
 
 My Authentication é uma aba que aparece no painel do My Account dentro da loja e está disponível em todas as contas da VTEX.
 
-<div class="alert alert-danger">
-Esta mudança afetará todas as lojas da VTEX. Como a mudança interfere em alguns componentes na UI da loja, é necessário que você faça alterações manuais nas configurações da sua loja até a data limite de 29/09.
-</div>
+>❗ Esta mudança afetará todas as lojas da VTEX. Como a mudança interfere em alguns componentes na UI da loja, é necessário que você faça alterações manuais nas configurações da sua loja até a data limite de 29/09.
 
 ## O que muda?
 
@@ -55,9 +53,7 @@ Como a habilitação da aba insere um elemento na UI da loja, ela pode precisar 
 - Caso a sua loja seja VTEX IO, utilize o endereço `https://{account}.myvtex.com/account#/authentication`, substituindo `{account}` pelo nome da conta.
 - Caso a sua loja não use o VTEX IO, utilize o endereço `https://{account}.vtexcommercestable.com.br/_secure/account#/authentication`, substituindo `{account}` pelo nome da conta.
 
-<div class="alert alert-warning">
-Antes de acessar a aba de autenticação pela URL é preciso fazer login na loja com uma conta de usuário.
-</div>
+>⚠️ Antes de acessar a aba de autenticação pela URL é preciso fazer login na loja com uma conta de usuário.
 
 Para realizar a customização de aparência da aba, peça para o desenvolvedor seguir o artigo [My Authentication Customization Guide using CMS](https://developers.vtex.com/vtex-rest-api/docs/ui-customization-my-authentication), para lojas que não utilizam o VTEX IO, ou o artigo [My Authentication Customization Guide on VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-my-authentication), para lojas do VTEX IO, no nosso portal para desenvolvedores.
 

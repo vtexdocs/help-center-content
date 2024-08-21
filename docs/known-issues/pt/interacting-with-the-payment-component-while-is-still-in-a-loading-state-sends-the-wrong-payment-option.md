@@ -18,9 +18,7 @@ internalReference: 952086
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o comprador altera o método de pagamento enquanto o componente de pagamento ainda está sendo carregado na página, se o método de pagamento tiver opções, o pagamento enviado ao formulário de pedido está errado. Quando esse comportamento ocorre, o pedido não é criado e uma mensagem para revisar as informações de pagamento é exibida.

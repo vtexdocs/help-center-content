@@ -18,9 +18,7 @@ internalReference: 418253
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O upload do gerenciador de arquivos com dois ou mais arquivos existentes não atualiza todos os arquivos, apenas o primeiro

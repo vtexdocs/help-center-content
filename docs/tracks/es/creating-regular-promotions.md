@@ -137,9 +137,7 @@ técnica</a>.</p>.
 
 - **Número de cuotas:** el descuento se concederá si la cantidad de cuotas seleccionada por el cliente está en el intervalo registrado. Este campo no se aplica a la selección de boleto.
 
-<div class="alert alert-warning">
-Las promociones por medio de pago y número de cuotas no se aplican a pedidos pagados con dos tarjetas o tarjetas de regalo.
-</div>
+>⚠️ Las promociones por medio de pago y número de cuotas no se aplican a pedidos pagados con dos tarjetas o tarjetas de regalo.
 
 - **utm_source:** el descuento se concederá si la navegación utiliza un parámetro utm_source correspondiente a cualquiera de los valores registrados. Es importante resaltar que el cliente solo puede ingresar un **utm_source** en el checkout.
 - **utm_campaign:** el descuento se concederá si la navegación utiliza un parámetro utm_campaign con el valor registrado.

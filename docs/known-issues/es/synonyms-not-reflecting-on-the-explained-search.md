@@ -18,9 +18,7 @@ internalReference: 774307
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Teníamos un escenario en el que un producto, incluso con un sinónimo aplicado a él, no aparecía en la pantalla de Búsqueda Explicada. Esto suele ocurrir con sinónimos unidireccionales.

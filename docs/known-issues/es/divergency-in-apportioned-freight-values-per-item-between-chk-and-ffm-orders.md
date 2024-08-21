@@ -18,9 +18,7 @@ internalReference: 321111
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En algunos casos, los valores de envío prorrateados por artículo entre los pedidos del mercado (lado de la caja) y del vendedor (lado de la ejecución) pueden ser divergentes.

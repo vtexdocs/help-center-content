@@ -18,9 +18,7 @@ internalReference: 945226
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Espera-se que seja possível pesquisar qualquer termo nas lojas do Portal; no entanto, as letras "A" e "P" não são diretamente pesquisáveis por meio da URL.

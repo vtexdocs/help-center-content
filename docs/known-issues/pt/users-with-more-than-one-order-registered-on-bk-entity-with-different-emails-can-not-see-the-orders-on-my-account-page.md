@@ -18,9 +18,7 @@ internalReference: 986324
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Devido à unificação de perfis, alguns usuários podem ter pedidos com e-mails diferentes, e isso é um problema para mostrar os pedidos na página minha conta (meus pedidos).

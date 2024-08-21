@@ -18,9 +18,7 @@ internalReference: 418253
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La carga de archivos con dos o más archivos existentes no actualiza todos los archivos, sólo el primero.

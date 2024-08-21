@@ -50,9 +50,7 @@ Algún producto podrá mostrar el error Insertion error: Ineligible SKU. Este me
 
 **Si algún producto es rechazado, debe revisar los datos y enviarlos nuevamente**. Puede realizar un seguimiento del status de sus productos en Google Merchant Center.
 
-<div class="alert alert-info">
-Asegúrese de que sus productos cumplen con las <a href="https://support.google.com/merchants/answer/7052112?visit_id=637492777706451215-3729304881&rd=1&hl=es-419">Especificaciones de datos de productos</a> definidas por Google. Si algún producto no cumple con los requisitos, el anuncio será rechazado.
-</div>
+>ℹ️ Asegúrese de que sus productos cumplen con las [Especificaciones de datos de productos](https://support.google.com/merchants/answer/7052112?visit_id=637492777706451215-3729304881&rd=1&hl=es-419) definidas por Google. Si algún producto no cumple con los requisitos, el anuncio será rechazado.
 
 En algunas circunstancias el rechazo del producto sucede después de que se ha considerado como activo. A veces esto ocurre cuando una cuenta ha sido creada recientemente.
 
@@ -66,9 +64,7 @@ En Google Shopping, los productos caducan automáticamente si no se actualizan e
 
 Sin embargo, no es algo que le deba preocupar ya que en la integración con la plataforma VTEX, **el sistema actualiza los productos automáticamente cada 29 días.**
 
-<div class="alert alert-info">
-Puede haber un retraso de hasta 30 minutos entre que se procesa el cambio de los datos de un producto y la actualización en el _feed_.
-</div>
+>ℹ️ Puede haber un retraso de hasta 30 minutos entre que se procesa el cambio de los datos de un producto y la actualización en el _feed_.
 
 ## Modificar la categorización automática
 
@@ -80,6 +76,4 @@ Pero antes de considerar un problema en la categorización, asegúrese de que su
 
 Para reemplazar una categoría incorrecta y asegurarse de que el producto sea aprobado, consulte las instrucciones en el artículo de Google [categoría producto Google](https://support.google.com/merchants/answer/6324436?hl=es-419). 
 
-<div class="alert alert-warning">
-Google aceptará un cambio de categoría solo en las situaciones previstas en el artículo <a href="https://support.google.com/merchants/answer/6324436?hl=pt-BR">categoría producto Google.</a>
-</div>
+>⚠️ Google aceptará un cambio de categoría solo en las situaciones previstas en el artículo [categoría producto Google.](https://support.google.com/merchants/answer/6324436?hl=pt-BR)

@@ -18,9 +18,7 @@ internalReference: 445866
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Há um cenário relativo aos modais usados e depreciados sem igual.

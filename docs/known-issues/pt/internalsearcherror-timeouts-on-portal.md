@@ -18,9 +18,7 @@ internalReference: 1043003
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, as lojas que usam a pesquisa legada do Portal podem enfrentar, ao usar vários filtros em sua loja, como filtros de coleção em modelos, tempos limite aleatórios e intermitentes que geralmente são exibidos como um erro "Algo deu errado" para os clientes.

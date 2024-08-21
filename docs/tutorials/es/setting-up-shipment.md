@@ -17,9 +17,7 @@ subcategory: 1UL6Q7nUN6SkA2g2SUsECi
 
 Esta es una configuración ampliamente utilizada cuando un flujo muy grande de pedidos acaba generando una demanda logística considerable, pues posibilita que un paquete espere el tiempo de preparación de otro para ser enviado en grupo, por una misma transportadora, a un destinatario final.
 
-<div class="alert alert-warning">
-Los grupos de envío son creados por la suma del tiempo de costo del inventario hasta el muelle y el tiempo de costo del muelle.
-</div>
+>⚠️ Los grupos de envío son creados por la suma del tiempo de costo del inventario hasta el muelle y el tiempo de costo del muelle.
 
 En la siguiente imagen vemos una configuración de envío de __6 días__. Cada caja representa el costo en días de un paquete, considerando sólo el __costo de inventario y el costo del muelle__.
 

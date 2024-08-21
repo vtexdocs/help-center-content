@@ -18,9 +18,7 @@ internalReference: 685650
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O botão "ver mais" na lista de pontos de coleta pode não aparecer, ocultando algumas opções que são apresentadas no mapa.

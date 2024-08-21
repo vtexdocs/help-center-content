@@ -47,6 +47,4 @@ When notified, the user should:
 
 The remaining orders, classified in the variation % rates with automatic rules will be automatically processed by the system.
 
-<div class="alert alert-warning">
-It's not possible to configure order Authorization to approve orders hierarchically or by approval chain, but instead by a single user.
-</div>
+>⚠️ It's not possible to configure order Authorization to approve orders hierarchically or by approval chain, but instead by a single user.

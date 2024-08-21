@@ -27,9 +27,7 @@ Actualizamos el algoritmo de selección de sellers para asegurar la mayor cobert
 
 Además, para elegir los sellers que ofrecen la opción de recogida, el algoritmo siempre priorizará la distancia de la ubicación de referencia sobre los criterios de precio y plazo para la recogida.
 
-<div class="alert alert-warning">
-Atención: La actualización del algoritmo se aplica a Sellers White Label, e incluye a <a href="https://help.vtex.com/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa">Cuentas Franquicia</a>. El algoritmo de selección de seller es aplicado cuando el cliente consulta las opciones de entrega. Esto significa que se aplica a la previsión de entrega en el carrito o en la etapa de entrega y recogida del checkout.
-</div>
+>⚠️ Atención: La actualización del algoritmo se aplica a Sellers White Label, e incluye a [Cuentas Franquicia](https://help.vtex.com/es/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa). El algoritmo de selección de seller es aplicado cuando el cliente consulta las opciones de entrega. Esto significa que se aplica a la previsión de entrega en el carrito o en la etapa de entrega y recogida del checkout.
 
 ## ¿Por qué realizamos este cambio?
 El objetivo de esta mejora es ayudar a reducir la tasa de abandono de carritos por los compradores en las tiendas de los clientes VTEX. Esto impacta directamente en la tasa de conversión.

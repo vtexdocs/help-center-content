@@ -18,9 +18,7 @@ internalReference: 771986
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Alguns eventos dos relatórios da Pesquisa Inteligente estão duplicados, o que pode afetar a exibição de análise no módulo de administração de pesquisa.

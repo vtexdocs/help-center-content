@@ -15,9 +15,7 @@ legacySlug: split-de-pagos
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-warning">
-Esta es una solución de pagos para marketplace.
-</div>
+>⚠️ Esta es una solución de pagos para marketplace.
 
 Para garantizar que nuestros clientes de [marketplace](https://help.vtex.com/es/tutorial/que-es-un-marketplace--680lLJTnmEAmekcC0MIea8) automáticamente dividan el pago entre todos los [sellers](https://help.vtex.com/es/tutorial/que-es-un-seller--5FkLvhZ3Few4CWWIuYOK2w), establezcan comisiones basadas en un porcentaje fijo y permanece operando de acuerdo con las regulaciones vigentes, VTEX ofrece el __Split de pagos__.
 

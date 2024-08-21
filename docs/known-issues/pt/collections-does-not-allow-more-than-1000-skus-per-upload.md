@@ -18,9 +18,7 @@ internalReference: 793274
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, o upload de itens para o novo módulo de coleções com uma lista que tem mais de 1000 SKUs não é possível, uma vez que o processo terá um timeout.

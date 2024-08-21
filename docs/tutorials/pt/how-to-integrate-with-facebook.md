@@ -49,18 +49,12 @@ __URL do site da loja__: Preencha com o endereço da sua loja. Exemplo: `https:/
 
 Após realizada a configuração, é necessário autorizar a VTEX a fazer alterações na conta do Facebook do lojista. Para isso, é necessário clicar no botão __Autorizar__, no card do Facebook, na seção de __Integrações__. Com isso, as autorizações necessárias serão solicitadas.
 
-<div class="alert alert-info">
-  Para fazer a autorização, deve ser usada a conta do Facebook que tem privilégios administrativos no Business Manager do Facebook. Caso ela não possua privilégios, a autorização não será concedida e o processo ficará em loop.
-</div>
+>ℹ️ Para fazer a autorização, deve ser usada a conta do Facebook que tem privilégios administrativos no Business Manager do Facebook. Caso ela não possua privilégios, a autorização não será concedida e o processo ficará em loop.
 
 Após esse passo, a integração criará um catálogo com o nome `VtexIntegration – {NOME DA LOJA}` no Facebook.
 
 É neste catálogo, dentro do Facebook, que os itens serão criados e ficarão disponíveis para serem usados.
 
-<div class="alert alert-info">
-  Para fazer a autorização, deve ser usada a conta do Facebook que tem privilégios administrativos no Business Manager do Facebook. Caso ela não possua privilégios, a autorização não será concedida e o processo ficará em loop.
-</div>
+>ℹ️ Para fazer a autorização, deve ser usada a conta do Facebook que tem privilégios administrativos no Business Manager do Facebook. Caso ela não possua privilégios, a autorização não será concedida e o processo ficará em loop.
 
-<div class="alert alert-info">
-É possível usar o *pixel app* do Facebook para acompanhar e otimizar os resultados das suas campanhas de marketing através do Google Tag Manager da sua loja. Aprenda o passo a passo <a href="https://www.facebook.com/business/help/1021909254506499">aqui</a>.
-</div>
+>ℹ️ É possível usar o *pixel app* do Facebook para acompanhar e otimizar os resultados das suas campanhas de marketing através do Google Tag Manager da sua loja. Aprenda o passo a passo [aqui](https://www.facebook.com/business/help/1021909254506499).

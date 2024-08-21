@@ -18,9 +18,7 @@ internalReference: 1026103
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al intentar traducir un texto utilizando el editor del sitio para el botón Añadir al carro, los cambios no se aplicarán en el frente de la tienda.

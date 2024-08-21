@@ -58,9 +58,7 @@ Store host: www.store.mycompany.com.br
 
 Note that the subdomain (`store`, `www`, `www.store` or others) and the top-level domain (`.com`, `.com.br`, `.com.ar`, or others) are part of the `{hostname}` and must be in the CNAME destination.
 
-<div class="alert alert-danger">
-There can not be any type A pointing coexisting with the CNAME pointing described above. This coexistence may cause issues in your go-live. Maintain only the CNAME pointing described above.
-</div>
+>❗ There can not be any type A pointing coexisting with the CNAME pointing described above. This coexistence may cause issues in your go-live. Maintain only the CNAME pointing described above.
 
 It takes 24-48 hours for DNS pointing to propagate fully, which means that the configured address may not be accessible to everyone immediately after configuration. Also, [notifying the pointing](#notifying-the-pointing) is required for the store to be available.
 

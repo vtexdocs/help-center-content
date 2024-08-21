@@ -33,6 +33,4 @@ Você pode encontrar os dois IDs através do relatório enviado a partir do pain
 
 ![Pedidos Mercado Livre](https://images.ctfassets.net/alneenqid6w5/2NFqrrWGlqQMYSOugYo8kQ/deba1c9f1ffb01e0db3f2874fb7ee8a3/Pedidos_Mercado_Livre.png)
 
-<div class="alert alert-warning">
-Essa lógica de funcionamento se aplica a todos os tipos de entrega, com exceção daqueles que incluem pickup points. Nesses casos, a plataforma continua a utilizar o ID antigo.
-</div>
+>⚠️ Essa lógica de funcionamento se aplica a todos os tipos de entrega, com exceção daqueles que incluem pickup points. Nesses casos, a plataforma continua a utilizar o ID antigo.

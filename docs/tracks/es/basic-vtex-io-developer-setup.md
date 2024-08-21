@@ -40,9 +40,7 @@ Cuando esté conectado, usted puede utilizar el comando `vtex whoami` para descu
 
 ![Command Line](https://images.ctfassets.net/alneenqid6w5/31AVvcWcRpL1CoKdUyARyu/9ea4d722d8955bb580a76402507e4013/Command_Line.svg)
 
-<div class="alert alert-info">
-Sugerencia: Usted puede configurar su terminal para mostrar automáticamente su cuenta y workspace. La manera más fácil de hacer esto es usar nuestros <a href="https://github.com/vtex/dotfiles">dotfiles</a>, que configuran automáticamente la <a href="https://fishshell.com/">Fish Shell</a> y añaden una <a href="https://github.com/vtex/dotfiles/blob/master/fish/functions/fish_prompt.fish">función de prompt</a> para usted.
-</div>
+>ℹ️ Sugerencia: Usted puede configurar su terminal para mostrar automáticamente su cuenta y workspace. La manera más fácil de hacer esto es usar nuestros [dotfiles](https://github.com/vtex/dotfiles), que configuran automáticamente la [Fish Shell](https://fishshell.com/) y añaden una [función de prompt](https://github.com/vtex/dotfiles/blob/master/fish/functions/fish_prompt.fish) para usted.
 
 ## Workspaces: su ambiente de desarrollo aislado
 
@@ -66,9 +64,7 @@ $ vtex use sunombre
 
 Esto cambia su toolbelt a un workspace llamado `sunombre`, y lo crea si no existe.
 
-<div class="alert alert-info">
-Sugerencia: Usted puede cambiar a (<em>y restablecer</em>) un workspace master con un solo comando con la flag <code>-r</code>. Esto es útil si desea empezar desde cero en el <code>master</code>.
-</div>
+>ℹ️ Sugerencia: Usted puede cambiar a (*y restablecer*) un workspace master con un solo comando con la flag `-r`. Esto es útil si desea empezar desde cero en el `master`.
 
 Los workspaces pueden ser nombrados arbitrariamente, pero generalmente es conveniente asignar su propio nombre cuando usted desea desarrollar en su ambiente.
 

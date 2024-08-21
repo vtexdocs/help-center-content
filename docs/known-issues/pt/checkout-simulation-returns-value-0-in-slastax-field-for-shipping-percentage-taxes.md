@@ -18,9 +18,7 @@ internalReference: 1012724
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Os impostos de porcentagem de envio não são retornados no campo `logisticsInfo.slas.tax` ao realizar uma simulação de checkout, embora as informações de impostos individuais estejam disponíveis no campo `items.priceTags`.

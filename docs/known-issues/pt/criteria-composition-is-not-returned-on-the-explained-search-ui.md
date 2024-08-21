@@ -18,9 +18,7 @@ internalReference: 852898
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando você pesquisa um termo cuja resposta é apenas um produto, esse produto não terá a composição de critérios exibida na tela da pesquisa explicada.

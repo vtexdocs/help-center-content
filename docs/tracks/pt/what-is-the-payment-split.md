@@ -24,9 +24,7 @@ Entretanto, o montante pode, ou não, ser igualmente dividido entre os recebedor
 
 Nesta track, explicaremos como a solução funciona, incluindo alguns conceitos importantes para essa dinâmica, e como configurá-la. 
 
-<div class="alert alert-info">
-Se você já conhece a solução, vá para etapa  Configurar split de pagamento.
-</div>
+>ℹ️ Se você já conhece a solução, vá para etapa  Configurar split de pagamento.
 
 ## Recebível 
 
@@ -42,19 +40,15 @@ Atualmente, o split suporta os seguintes meios de pagamento:
 - Cartão de Débito
 - Boleto bancário
 
-<div class="alert alert-info">
-No caso do cartão de crédito, o split suporta pagamentos realizados com dois cartões diferentes.
-</div>
+>ℹ️ No caso do cartão de crédito, o split suporta pagamentos realizados com dois cartões diferentes.
 
 ## Transação 
 
 Quando um comprador finaliza uma compra e efetua o pagamento, esse valor não necessariamente será capturado e enviado para o lojista no mesmo dia. 
 
-<div class="alert alert-info">
-Existem exceções, como o Pix - Sistema de Pagamentos Instantâneos do Banco Central - em que a transação é efetuada em segundos. 
-
-Porém, a maioria dos meios de pagamento oferecido nos Brasil hoje não envia o pagamento automaticamente ao lojista.
-</div>
+>ℹ️ Existem exceções, como o Pix - Sistema de Pagamentos Instantâneos do Banco Central - em que a transação é efetuada em segundos. 
+>
+> Porém, a maioria dos meios de pagamento oferecido nos Brasil hoje não envia o pagamento automaticamente ao lojista.
 
 Na VTEX, o comportamento padrão é que os dados da compra sejam reunidos em uma transação. Essa transação, por sua vez, passará por várias etapas de validação para garantir que todos esses dados são legítimos. Esse processo de verificação é o que chamamos de [fluxo da transação](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/1xjzgJZvqwaI1rfxLMCC3Y "fluxo da transação"). 
 

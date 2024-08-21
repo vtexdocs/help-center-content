@@ -19,17 +19,16 @@ O módulo **Estoque & entrega** é responsável pelas configurações logística
 
 Esse artigo é o primeiro de uma trilha de primeiros passos para as configurações logísticas. A trilha contém informações básicas para auxiliar no entendimento da logística em lojas VTEX e na forma como as configurações estão estruturadas na plataforma.
 
-<div class="alert alert-danger">
-Antes de configurar a logística da sua loja, você precisa ter configurado:
-<body>
-<ol>
-<li><a href="https://help.vtex.com/pt/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE">Política comercial</a></li>
-<li><a href="https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR">Catálogo</a></li>
-<li><a href="https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu">Preços</a></li>
-  </ol>
-  </body>
-
-</div>
+>❗ Antes de configurar a logística da sua loja, você precisa ter configurado:
+> <body>
+>
+> [Política comercial](https://help.vtex.com/pt/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)
+>
+> [Catálogo](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR)
+>
+> [Preços](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu)
+>
+> </body>
 
 A trilha reúne os artigos:
 

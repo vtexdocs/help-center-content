@@ -18,9 +18,7 @@ internalReference: 347084
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando um cartão é salvo no módulo MyCards, é gerada uma transação de verificação no valor de R$ 1,50, que, após seguir o fluxo de autorização e aprovação, deve ser automaticamente cancelada. Esta transação destina-se a validar que o cartão salvo é autêntico e está transacionando sem problemas.

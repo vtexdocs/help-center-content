@@ -71,9 +71,7 @@ To create the **2nd rule**, click on the `<img class="shadow-4" src="https:////i
 
 Configure the new authorization rule and, once you have configured all the rules you want, click on the **SAVE RULES** button. You will see the following message: _After saving, you can still edit or delete them at any time_. Click **OK** to confirm. Once this is done, the Price Divergence rule will be created.
 
-<div class="alert alert-warning">
-Once the Price Divergence rule is created, it is applied to all marketplaces where you act as a seller.
-</div>
+>⚠️ Once the Price Divergence rule is created, it is applied to all marketplaces where you act as a seller.
 
 ## Editing Price Divergence rule
 
@@ -95,9 +93,7 @@ Once you have made the desired changes, click on the **SAVE RULES** button, and 
 
 When an authorization rule is configured with the option _Create a task in VTEX DO for approval_, this means that at least one user has been assigned to manually approve the order. [Managing orders with price divergence](https://help.vtex.com/en/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW#managing-orders-with-price-divergence) is similar to managing orders from any other sales channel, such as a physical store or ecommerce.
 
-<div class="alert alert-warning">
-It is important to regularly track orders in <b>Orders</b> module. To do this, go to <b>Orders > All Orders</b>. If they require manual approval, orders with price divergence errors remain pending, awaiting approval by an authorized user, defined when the authorization rule was created. Having at least two users authorized to perform manual processing is a good practice.
-</div>
+>⚠️ It is important to regularly track orders in **Orders** module. To do this, go to **Orders > All Orders**. If they require manual approval, orders with price divergence errors remain pending, awaiting approval by an authorized user, defined when the authorization rule was created. Having at least two users authorized to perform manual processing is a good practice.
 
 There are two ways to manually approve an order with price divergence:
 

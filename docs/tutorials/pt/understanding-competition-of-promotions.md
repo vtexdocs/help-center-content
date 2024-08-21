@@ -84,8 +84,7 @@ Logo, a sequência de aplicação é:
 
 ![promocao3 PT](https://images.ctfassets.net/alneenqid6w5/1LKDzbLkhua8Gk284SEwsk/997fdac9b6380c68a729bf4d48e20af8/promocao3_PT.png)
 
-<div class="alert alert-warning">
-Pedidos de origem <a href="https://help.vtex.com/pt/tutorial/configurar-promocao-para-marketplace--tutorials_406">Marketplace</a> e Fulfillment não reconhecem acúmulo de promoção, uma vez que o uso de promoções em Marketplaces VTEX ou externos é restrito a alguns tipos específicos.</div>
+>⚠️ Pedidos de origem [Marketplace](https://help.vtex.com/pt/tutorial/configurar-promocao-para-marketplace--tutorials_406) e Fulfillment não reconhecem acúmulo de promoção, uma vez que o uso de promoções em Marketplaces VTEX ou externos é restrito a alguns tipos específicos.
 
 ## Estratégias de concorrência de promoções
 
@@ -100,8 +99,7 @@ Veja a seguir as duas estratégias de concorrência de promoções:
 - [Concorrência por cenário](#concorrencia-por-cenario)
 - [Concorrência por item](#concorrencia-por-item)
 
-<div class="alert alert-info">
-Por padrão, todas as contas seguem a estratégia de concorrência por cenário. Caso o modelo de concorrência por item atenda melhor suas necessidades de negócio, <a href="https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM">abra um chamado com nosso time de suporte</a> e solicite a mudança.</div>
+>ℹ️ Por padrão, todas as contas seguem a estratégia de concorrência por cenário. Caso o modelo de concorrência por item atenda melhor suas necessidades de negócio, [abra um chamado com nosso time de suporte](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) e solicite a mudança.
 
 ### Concorrência por cenário
 

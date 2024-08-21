@@ -89,9 +89,7 @@ For example: The "color" specification is set as searchable and the product was 
 
 You can include special characters ( `-` and `/`) when searching for a product.
 
-<div class="alert alert-warning">
-	<p>Choosing the search fields affects the <a href="https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0">merchandising rule</a> options, as only searchable fields can be used to set up the rules. For example, if you set only the <strong><code>SKUID</code></strong> field as searchable, you cannot promote a<strong><code> ProductID</code></strong> or a <strong><code>ProductRefID</code></strong> using merchandising rules. </p>
-</div>
+>⚠️ Choosing the search fields affects the [merchandising rule](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0) options, as only searchable fields can be used to set up the rules. For example, if you set only the **`SKUID`** field as searchable, you cannot promote a**` ProductID`** or a **`ProductRefID`** using merchandising rules.
 
 ### Defining and sorting filter fields
 
@@ -105,9 +103,7 @@ _For example_: a merchant configured that "promotion" has greater relevance than
 
 For more information on how to customize the order of results to meet your store's needs, read the article [Relevance settings](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
 
-<div class="alert alert-info">
-	<p>When using Intelligent Search, two options define the sorting order of your collections. By using the <code>map=productClusterIds</code> command, you are setting the order of your collections to be the one pre-defined by the merchant, with its relevance criteria. If you choose to use <code>productClusterNames</code>, you are setting that you want your collections to follow Intelligent Search's own relevance standards.</p>
-</div>
+>ℹ️ When using Intelligent Search, two options define the sorting order of your collections. By using the `map=productClusterIds` command, you are setting the order of your collections to be the one pre-defined by the merchant, with its relevance criteria. If you choose to use `productClusterNames`, you are setting that you want your collections to follow Intelligent Search's own relevance standards.
 
 ## Alternative ways to search
 

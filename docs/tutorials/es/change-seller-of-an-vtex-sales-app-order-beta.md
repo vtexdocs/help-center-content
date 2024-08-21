@@ -15,6 +15,4 @@ legacySlug: cambiar-el-seller-de-un-pedido-instore-beta
 subcategory: 5SE2asHiQtHKfbnFru8RWH
 ---
 
-<div class="alert alert-warning">
-  <p>Este contenido sólo está disponible en portugués.</p>
-</div>
+>⚠️ Este contenido sólo está disponible en portugués.

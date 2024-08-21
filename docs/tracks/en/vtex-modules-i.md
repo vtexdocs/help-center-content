@@ -21,9 +21,7 @@ The VTEX platform is structured in modules for each part of the store's operatio
 - [Promotions](#promotions)
 - [Logistics](#logistics)
 
-<div class="alert alert-info">
-The <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ">VTEX modules II</a> article describes the <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#payments">Payments</a>, <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#orders">Orders</a>, and <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#checkout">Checkout</a> modules.
-</div>
+>ℹ️ The [VTEX modules II](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ) article describes the [Payments](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#payments), [Orders](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#orders), and [Checkout](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#checkout) modules.
 
 ## Catalog
 
@@ -63,9 +61,7 @@ The following table shows the store's main Catalog settings based on their creat
 
 <br>
 
-<div class="alert alert-warning">
-To learn how to import products from an ERP (Enterprise Resource Planning) or PIM (Product Information Manager) system to the VTEX platform, read the <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu">Backend integrations</a> article.
-</div>
+>⚠️ To learn how to import products from an ERP (Enterprise Resource Planning) or PIM (Product Information Manager) system to the VTEX platform, read the [Backend integrations](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) article.
 
 #### Category tree
 
@@ -79,9 +75,7 @@ Before importing the store catalog to VTEX, we recommend that you start working 
 
 ![catalog_arquitecture_table_EN](https://images.ctfassets.net/alneenqid6w5/6Vg5pVKydPdMipVEqj1Spq/f539ab283449f2aa2163be8b8ddd957e/catalog_arquitecture_table_EN.png)
 
-<div class="alert alert-info">
-For more information on how to import back-office specifications, read the <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu">Backend integrations</a> article.
-</div>
+>ℹ️ For more information on how to import back-office specifications, read the [Backend integrations](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) article.
 
 #### Brands
 
@@ -174,9 +168,7 @@ There is a difference between price tables created for [trade policies](https://
 
 Price tables not associated with trade policies can be used in contexts such as __promotions__ and __customer clusters__. Tables created for trade policies can only be associated with the trade policy itself. Thus, the price table associated with a trade policy shows the SKU price specific to that policy and cannot be associated with other contexts.
 
-<div class="alert alert-warning">
-The concepts of <b>price table</b> and <a href="LINK">trade policy</a> are different. Trade policy is the context with which a price list is associated.
-</div>
+>⚠️ The concepts of **price table** and [trade policy](LINK) are different. Trade policy is the context with which a price list is associated.
 
 When setting up a trade policy, you must [specify the currency that will be used in the store](https://help.vtex.com/en/tutorial/creating-a-trade-policy--563tbcL0TYKEKeOY4IAgAE). Creating different trade policies associated with a different currency allows the store to display prices in different currencies to customers. 
 
@@ -227,9 +219,7 @@ For more information on how promotions can be applied, read the [Promotion examp
 
 You can create discount coupons through the [VTEX Admin](https://help.vtex.com/en/tutorial/creating-a-coupon-beta--7lMk3MmhNp2IEccyGApxU) ou via [API](https://developers.vtex.com/docs/guides/creating-and-managing-coupons-with-promotions-api). A coupon must be linked to at least one promotion to be applicable. 
 
-<div class="alert alert-warning">
-There is a maximum number of active coupons. We strongly recommend reusing coupons, as a large number of coupons can compromise the performance of the Promotions module.
-</div>
+>⚠️ There is a maximum number of active coupons. We strongly recommend reusing coupons, as a large number of coupons can compromise the performance of the Promotions module.
 
 ### Criar promoções de campanha
 
@@ -317,9 +307,7 @@ The [carrier](https://help.vtex.com/en/tutorial/carries-on-vtex--7u9duMD5UQa2QQw
 
 Store [inventory](https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139) corresponds to the stored items available for sale. Warehouse is the identification of the physical location of storage location, while inventory is the set of SKUs in stock that are available for sale.
 
-<div class="alert alert-danger">
-On VTEX, the store must manage inventory updates after selling items. Thus, after a sale, the merchant ensures proper control of the remaining items and invoice operations with ERP. Information on inventory import via the back office can be found in the <a href="https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu">Backend integrations</a> article.
-</div>
+>❗ On VTEX, the store must manage inventory updates after selling items. Thus, after a sale, the merchant ensures proper control of the remaining items and invoice operations with ERP. Information on inventory import via the back office can be found in the [Backend integrations](https://help.vtex.com/en/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) article.
 
 ### Lead time
 

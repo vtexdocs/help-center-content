@@ -25,9 +25,7 @@ Check out the [Filling rules](#filling-rules) section to understand the restrict
 
 ![textlink.en](https://images.ctfassets.net/alneenqid6w5/2FDLvlMqvZNRCAiCoFNbfB/3485de69b69d5245045063e617177c70/textlink.en.png)
 
-<div class="alert alert-info">
-  <p>You can also change a product's page URL using the <a href="https://developers.vtex.com/docs/api-reference/catalog-api#overview">Catalog API</a>. In this case, you must change the field <code>LinkId</code>. See <a href="https://developers.vtex.com/vtex-rest-api/reference/catalog-api-put-product">Update Product</a> for more information.</p>
-</div>
+>ℹ️ You can also change a product's page URL using the [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#overview). In this case, you must change the field `LinkId`. See [Update Product](https://developers.vtex.com/vtex-rest-api/reference/catalog-api-put-product) for more information.
 
 ## Filling rules
 
@@ -42,9 +40,7 @@ Follow the rules below to fill in the **textLink** field:
     * `api`
     * `admin`
 
-<div class="alert alert-danger">
-  <p>Please note that not complying with the rules listed above to complete the <strong>textLink</strong> field can affect your store's performance, lead to search issues, and interfere with the proper functioning of pages defined in the VTEX Admin.</p>
-</div>
+>❗ Please note that not complying with the rules listed above to complete the **textLink** field can affect your store's performance, lead to search issues, and interfere with the proper functioning of pages defined in the VTEX Admin.
 
 ## Learn more
 

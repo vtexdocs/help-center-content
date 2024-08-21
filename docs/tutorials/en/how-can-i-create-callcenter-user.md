@@ -43,7 +43,5 @@ To create a user with the telesales role, follow the steps below.
 
 ![Animated GIF showing how to create call center operator ](https://images.ctfassets.net/alneenqid6w5/3oF5zuTnHu0Db8EQ2KdPCY/c41d49badebeb869d2e9d4cef73c74b0/Adicionar_perfil_EN.gif)
 
-<div class="alert alert-warning">
-When creating a  <a href="https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#">role</a>, avoid including call center <a href="https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#">resources</a> with other resources. Otherwise, the role might not work as expected.
-</div>
+>⚠️ When creating a  [role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), avoid including call center [resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) with other resources. Otherwise, the role might not work as expected.
 

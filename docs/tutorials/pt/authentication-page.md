@@ -35,9 +35,7 @@ Atualmente, há quatro formas disponíveis de fazer login:
 | Facebook         | Pode ser habilitada | Não está disponível    |
 | Google           | Pode ser habilitada | É selecionável         |
 
-<div class="alert alert-info">
-Pelo menos uma das quatro formas de login deve estar habilitada para a loja virtual
-</div>
+>ℹ️ Pelo menos uma das quatro formas de login deve estar habilitada para a loja virtual
 
 ## Loja virtual
 

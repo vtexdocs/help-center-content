@@ -18,9 +18,7 @@ internalReference: 857894
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A exportação de um grande número de documentos de uma entidade resulta em processamento excessivo, causando erros na fila do processo e impedindo a exportação da lista de documentos.

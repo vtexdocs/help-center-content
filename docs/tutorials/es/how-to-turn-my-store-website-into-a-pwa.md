@@ -23,9 +23,7 @@ PWA es la abreviatura en inglés de Progressive Web App - un conjunto de técnic
 
 Si ya tiene un sitio web o una aplicación web, puede implementar poco a poco las características que definen un PWA, como notificaciones, caché de archivos, ejecución en modo off-line y otras posibilidades que hacen que el usuario se sienta en una aplicación nativa.
 
-<div class="alert alert-warning">
-La plataforma VTEX <strong>no</strong> posee características nativas para transformar su tienda en PWA. Esta apenas ofrece las condiciones para que se realice esa implementación. Las tiendas desarrolladas con VTEX IO Store Framework tienen este recurso nativamente.
-</div>
+>⚠️ La plataforma VTEX **no** posee características nativas para transformar su tienda en PWA. Esta apenas ofrece las condiciones para que se realice esa implementación. Las tiendas desarrolladas con VTEX IO Store Framework tienen este recurso nativamente.
 
 ## Google define con exactitud lo que se espera de un PWA:
 

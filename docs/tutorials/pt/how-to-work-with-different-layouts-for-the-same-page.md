@@ -50,8 +50,6 @@ Ocorre que as condições ofertadas não estarão presentes em qualquer página:
 
 Sendo assim, não é possível, por exemplo, condicionar produtos específicos a layouts diferentes através de uma coleção. Nesse cenário é necessário cadastrá-los com a condição de produto.
 
-<div class="alert alert-info">
-De acordo com as condições configuradas, existe uma ordem de prioridade estabelecida para a aplicabilidade do template. A ordenação é, caso exista, template de produto, de categoria e, por último, de marca. Dessa forma, um template condicionado para determinado produto se sobrepõe aquele condicionado à categoria na qual este produto está contido e assim sucessivamente. 
-</div>
+>ℹ️ De acordo com as condições configuradas, existe uma ordem de prioridade estabelecida para a aplicabilidade do template. A ordenação é, caso exista, template de produto, de categoria e, por último, de marca. Dessa forma, um template condicionado para determinado produto se sobrepõe aquele condicionado à categoria na qual este produto está contido e assim sucessivamente.
 
 Em caso de dúvidas nessa configuração, recomendamos que use o "lid": [Teste de Layout](/pt/faq/como-validar-um-layout-antes-de-ir-para-producao)

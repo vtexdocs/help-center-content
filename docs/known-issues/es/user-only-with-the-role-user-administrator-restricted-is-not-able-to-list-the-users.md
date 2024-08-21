@@ -18,9 +18,7 @@ internalReference: 932666
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Si un usuario administrador sólo tiene el rol "**Administrador de usuarios - RESTRINGIDO**" (recurso "**Guardar usuario**"), la lista de usuarios no está disponible y no es posible realizar las ediciones o eliminaciones necesarias.

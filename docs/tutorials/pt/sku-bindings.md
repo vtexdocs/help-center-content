@@ -97,9 +97,7 @@ Para remover o vínculo entre o SKU do seller e o SKU do marketplace, realize os
 2. Na linha do item desejado, clique sobre o ícone menu <i class="fas fa-ellipsis-v"></i>.
 3. Clique em <i class="far fa-trash-alt"></i> `Remover`.
 
-<div class="alert alert-warning">
-Remover um vínculo faz com que o SKU do seller deixe de fazer parte do catálogo do Marketplace, desaparecendo da listagem da página <b>Vínculos de SKU</b>. Não é possível recuperar um vínculo removido, mas o seller pode reenviar o SKU para o marketplace, que <a href="https://help.vtex.com/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396">cataloga</a> o SKU novamente e torna-o disponível.
-</div>
+>⚠️ Remover um vínculo faz com que o SKU do seller deixe de fazer parte do catálogo do Marketplace, desaparecendo da listagem da página **Vínculos de SKU**. Não é possível recuperar um vínculo removido, mas o seller pode reenviar o SKU para o marketplace, que [cataloga](https://help.vtex.com/pt/tutorial/sugerindo-e-aprovando-skus--tutorials_396) o SKU novamente e torna-o disponível.
 
 ## Exportar
 

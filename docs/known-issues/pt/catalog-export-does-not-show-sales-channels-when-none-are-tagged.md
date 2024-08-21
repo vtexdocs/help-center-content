@@ -18,9 +18,7 @@ internalReference: 722001
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, os canais de venda a serem verificados na IU do produto têm uma lógica de "se nenhum for verificado, todos eles estão disponíveis".

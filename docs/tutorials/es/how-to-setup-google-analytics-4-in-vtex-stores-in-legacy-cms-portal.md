@@ -15,6 +15,4 @@ legacySlug: configurar-el-google-analytics-4-en-tienda-vtex-en-cms-portal-legado
 subcategory: 1luKrYptdi8WoMYckakUaM
 ---
 
-<div class="alert alert-info">
-  <p>Contenido bajo traducción.</p>
-</div>
+>ℹ️ Contenido bajo traducción.

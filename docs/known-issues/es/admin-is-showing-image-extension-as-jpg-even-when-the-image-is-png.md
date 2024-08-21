@@ -18,9 +18,7 @@ internalReference: 516269
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En la página de exportación de imágenes o en el informe de imágenes exportadas, la URL de las imágenes aparece con la extensión .jpg incluso cuando la imagen es PNG. Sin embargo, la información incorrecta en el Admin no afecta al formato real de la imagen, y accediendo a la URL de la imagen desde el frente se puede ver que la imagen sigue siendo PNG.

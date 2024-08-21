@@ -17,9 +17,7 @@ subcategory: 4D5LrWwlHGmOWMomOaaGee
 
 El objetivo de este artículo es listar las plantillas de e-mails transaccionales que tenemos como estándar en VTEX para el flujo del pedido. Además, vamos a especificar el gatillo necesario para el disparo de cada e-mail.
 
-<div class="alert alert-warning">
-Atención: las solicitudes de origen Fulfillment no reciben correos electrónicos transaccionales de VTEX. En este caso, el disparo de correos electrónicos queda a cargo del propio mercado.
-</div>
+>⚠️ Atención: las solicitudes de origen Fulfillment no reciben correos electrónicos transaccionales de VTEX. En este caso, el disparo de correos electrónicos queda a cargo del propio mercado.
 
 Para acceder a las plantillas, siga los siguientes pasos:
 

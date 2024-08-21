@@ -18,9 +18,7 @@ internalReference: 337933
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Los caracteres especiales en el nombre de la SKU rompen la selección de la SKU en las páginas PDP del Portal Web Store para la selección del tipo de categoría de la caja de radio, por ejemplo, caracteres como `%`.

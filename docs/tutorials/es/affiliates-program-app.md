@@ -84,9 +84,7 @@ Para crear un nuevo afiliado, haz clic en el botón "Agregar afiliado", rellena 
 
 Para buscar un afiliado, escribe en la barra de búsqueda cualquiera de los siguientes datos: _ID de afiliado, nombre, nombre de la tienda, email_ o _teléfono._
 
-<div class="alert alert-warning">
-En la aplicación <b>Affiliates Program</b>, además de que el término afiliado es diferente al <a href="https://help.vtex.com/es/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0">concepto habitual de afiliado en VTEX</a>, el <code>ID de afiliado</code> tampoco coincide con el código por defecto. En la aplicación, el <code>ID de afiliado</code> es un código alfanumérico que se genera automáticamente cuando creas un nuevo afiliado.
-</div>
+>⚠️ En la aplicación **Affiliates Program**, además de que el término afiliado es diferente al [concepto habitual de afiliado en VTEX](https://help.vtex.com/es/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0), el `ID de afiliado` tampoco coincide con el código por defecto. En la aplicación, el `ID de afiliado` es un código alfanumérico que se genera automáticamente cuando creas un nuevo afiliado.
 
 ### Filtrar afiliados
 
@@ -148,9 +146,7 @@ Puedes filtrar la búsqueda de pedidos por los siguientes criterios:
 
 La aplicación **Affiliates Program** te permite exportar una lista con extensión CSV de los pedidos de los afiliados.
 
-<div class="alert alert-warning">
-Para activar la función de exportación de listas, primero debes configurar las plantillas de email, como se describe en la guía para desarrolladores <a href="https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app#email-templates">Affiliates Program app</a>.
-</div>
+>⚠️ Para activar la función de exportación de listas, primero debes configurar las plantillas de email, como se describe en la guía para desarrolladores [Affiliates Program app](https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app#email-templates).
 
 Tras la configuración, para exportar la lista basta con hacer clic en **Exportar** en la página **Gestión de pedidos**. El siguiente mensaje de confirmación deberá aparecer:
 

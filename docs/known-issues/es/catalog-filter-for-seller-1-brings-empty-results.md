@@ -18,9 +18,7 @@ internalReference: 801538
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, al filtrar exclusivamente por el vendedor principal en los menús del Catálogo, no se muestra ningún resultado. Esto sucede porque este filtro está buscando incorrectamente un vendedor específico cuando, en cambio, el vendedor = 1 (el vendedor principal de la cuenta) es el propio mercado.

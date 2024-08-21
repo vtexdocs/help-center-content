@@ -25,9 +25,7 @@ Once the tax receipt is entered with the total amount of the order, the status c
 
 You may also enter a partial tax receipt, which happens when several tax receipts are required to arrive at the total amount of the purchase. 
 
-<div class="alert alert-info">
-<p>Only after the total amount of the order has been reached will the status be changed to <strong>Invoiced</strong>.</p>
-</div>
+>ℹ️ Only after the total amount of the order has been reached will the status be changed to **Invoiced**.
 
 The tax receipt requires attention to the following points: 
 
@@ -39,6 +37,4 @@ In other words, when the tracking URL and code are entered, every time the deliv
 
 The **Conversation Tracker** works only if information is inserted in those fields. In case you don´t have them, insert any value so to activate the notification system.
 
-<div class="alert alert-danger">
-It’s possible to add more than one invoice to the order; however, the total sum of the invoices amounts must match the total amount of the order.
-</div>
+>❗ It’s possible to add more than one invoice to the order; however, the total sum of the invoices amounts must match the total amount of the order.

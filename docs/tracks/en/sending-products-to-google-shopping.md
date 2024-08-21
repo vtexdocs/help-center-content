@@ -50,9 +50,7 @@ A product may eventually report the Insertion error: `Ineligible SKU`. This mean
 
 **If a product is disapproved, you will have to review its data and submit it again**. You can track the status of your products on Google Merchant Center.
 
-<div class="alert alert-info">
-Make sure your products meet the <a href="https://support.google.com/merchants/answer/7052112?visit_id=637492777706451215-3729304881&rd=1&hl=en">Product data specification</a> defined by Google. If a product is not in compliance with the requirements, the ad will be disapproved.
-</div>
+>ℹ️ Make sure your products meet the [Product data specification](https://support.google.com/merchants/answer/7052112?visit_id=637492777706451215-3729304881&rd=1&hl=en) defined by Google. If a product is not in compliance with the requirements, the ad will be disapproved.
 
 There are situations in which the product's disapproval happens after it has already been considered active. It happens more often for recently created accounts.
 
@@ -66,9 +64,7 @@ On Google Shopping, products automatically expire if they are not updated within
 
 However, you do not have to worry about that. Once the integration with the VTEX Platform connector is completed, **the system will automatically update products every 29 days.**
 
-<div class="alert alert-info">
-There may be a delay of up to 30 minutes between processing a product's data change and updating it in the feed.
-</div>
+>ℹ️ There may be a delay of up to 30 minutes between processing a product's data change and updating it in the feed.
 
 ## Modifying the automatic categorization
 
@@ -80,6 +76,4 @@ However, before considering there may be a categorization issue, make sure that 
 
 To replace an incorrect category and ensure that the product will be approved, see the step-by-step instructions in the article [Google product category](https://support.google.com/merchants/answer/6324436?hl=en).
 
-<div class="alert alert-warning">
-Google will accept category changes only in the cases foreseen in the article <a href="https://support.google.com/merchants/answer/6324436?hl=en">Google product category.</a>
-</div>
+>⚠️ Google will accept category changes only in the cases foreseen in the article [Google product category.](https://support.google.com/merchants/answer/6324436?hl=en)

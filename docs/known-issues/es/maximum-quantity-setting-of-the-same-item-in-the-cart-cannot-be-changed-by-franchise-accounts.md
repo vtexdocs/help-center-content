@@ -18,9 +18,7 @@ internalReference: 325273
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La configuración de la cantidad máxima de un mismo artículo en el carrito no puede ser modificada por las cuentas franquiciadas (vendedor whitelabel), ya que tiene lugar en una pantalla heredada del catálogo (/admin/Site/ConfigForm.aspx) - módulo que se elimina de las cuentas franquiciadas, ya que heredan los productos de la cuenta padre.

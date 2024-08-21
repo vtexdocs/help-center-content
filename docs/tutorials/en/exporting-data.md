@@ -17,9 +17,7 @@ subcategory: 2AThnkEZAYbk4G4EIs53rL
 
 The mass export of data records in Master Data v1 can be made through the API or importing the worksheet. The purpose of this document is to show the steps required for exporting data by worksheet.
 
-<div class="alert alert-warning">
-Exporting data from Master Data is not an immediate operation, and its execution time depends on the amount of data in Master Data. Therefore, in stores with a very large amount of data and a high update frequency, the exported file may become outdated in relation to the new data. If this occurs, the solution may be to export the data again, preferably when there are not many updates taking place (for example, outside of business hours or on weekends).
-</div>
+>⚠️ Exporting data from Master Data is not an immediate operation, and its execution time depends on the amount of data in Master Data. Therefore, in stores with a very large amount of data and a high update frequency, the exported file may become outdated in relation to the new data. If this occurs, the solution may be to export the data again, preferably when there are not many updates taking place (for example, outside of business hours or on weekends).
 
 ## Export report with data from Master Data v1
 

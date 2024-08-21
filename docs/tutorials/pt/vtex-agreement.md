@@ -29,7 +29,5 @@ O Master Agreement aplicável a você está disponível na seção **Política d
 
 Também é possível encontrar os Master Agreements mais atualizados, ou seja, aplicáveis aos novos clientes e parceiros, na página [Contrato da VTEX](https://vtex.com/br-pt/privacy-and-agreements/agreements/).
 
-<div class="alert alert-info">
-Caso os <b>MSA, MPA, Anexo 1</b> ou <b>Termos e condições específicos de parceria</b> firmados com a VTEX tragam alguma informação diferente daquela descrita nesta documentação, priorize o seu documento assinado com a VTEX.
-</div>
+>ℹ️ Caso os **MSA, MPA, Anexo 1** ou **Termos e condições específicos de parceria** firmados com a VTEX tragam alguma informação diferente daquela descrita nesta documentação, priorize o seu documento assinado com a VTEX.
 

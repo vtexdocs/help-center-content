@@ -28,7 +28,5 @@ Las funcionalidades de [Moderación](https://help.vtex.com/es/tutorial/gerenciam
 
 Esta actualización es automática y no se requiere ninguna acción por tu parte. El módulo dejará de estar disponible para todos los Admin VTEX a partir de la fecha anteriormente indicada.
 
-<div class="alert alert-info">
-Pronto pondremos a disposición un reemplazo del módulo Gestión de anuncios; accede a las novedades en la página <a href="https://developers.vtex.com/updates/release-notes">Release notes, dentro del Developer portal</a> y <a href="https://help.vtex.com/es/announcements">en la pestaña Noticias de nuestro Help Center</a>.
-</div>
+>ℹ️ Pronto pondremos a disposición un reemplazo del módulo Gestión de anuncios; accede a las novedades en la página [Release notes, dentro del Developer portal](https://developers.vtex.com/updates/release-notes) y [en la pestaña Noticias de nuestro Help Center](https://help.vtex.com/es/announcements).
 

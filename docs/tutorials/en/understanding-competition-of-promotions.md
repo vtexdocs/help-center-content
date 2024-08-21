@@ -84,8 +84,7 @@ Therefore, promotions will be applied in the following order:
 
 ![promocao3 EN](https://images.ctfassets.net/alneenqid6w5/6nz2KJuFk4aS0eU0OGg0sM/7cf285654ec80894e0a346c90918cd33/promocao3_EN.png)
 
-<div class="alert alert-warning">
-Orders originating from the <a href="https://help.vtex.com/en/tutorial/configurar-promocao-para-marketplace--tutorials_406">Marketplace</a> (provided by the store) or Fulfillment (delivered by the store) do not support cumulative promotions. This is because the use of promotions is restricted to specific types on both VTEX and external marketplaces.</div>
+>⚠️ Orders originating from the [Marketplace](https://help.vtex.com/en/tutorial/configurar-promocao-para-marketplace--tutorials_406) (provided by the store) or Fulfillment (delivered by the store) do not support cumulative promotions. This is because the use of promotions is restricted to specific types on both VTEX and external marketplaces.
 
 ## Promotion competition strategies
 
@@ -100,8 +99,7 @@ Here are the two strategies for promotion competition:
 - [Competition by scenario](#competition-by-scenario)
 - [Competition by item](#competition-by-item)
 
-<div class="alert alert-info">
-By default, all accounts follow the competition by scenariostrategy. In case the competition by item strategy is better suited for your business needs, please <a href="https://help.vtex.com/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM">open a ticket</a> with our support team and request the change.</div>
+>ℹ️ By default, all accounts follow the competition by scenariostrategy. In case the competition by item strategy is better suited for your business needs, please [open a ticket](https://help.vtex.com/en/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM) with our support team and request the change.
 
 ### Competition by scenario
 

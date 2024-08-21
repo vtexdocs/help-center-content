@@ -26,48 +26,46 @@ The following steps must be implemented in the app:
 
 Shipping items using Wish ranges from the all-encompassing to the very specific. You can set a general shipping value for any region worldwide, just as you can set a value for a country's specific subregion.
 
-<div class="alert alert-info">
- NOTE: Wish demands that product prices and shipping be sent in USD. However, it does convert order values into BRL directly, making issuing invoices much easier.
-
-This means to highlight that priority will always be given to the **more specific** shipping rate configuration. Let's have a look at the following example for further clarity:
-
-| Shipping      | Specification | Price   |
-| ---------- | ---------- | ---------- |
-| Standard     |            | U$ 30,00   |
-| By country   | Brazil  | U$ 25,00   |
-| By country   | US     | U$ 20,00   |
-| By subregion | New York (metropolitan region)  | U$ 10,00 |
-| By subregion | New York (state)              | U$ 15,00 |
-| By subregion | Chicago (metropolitan region) | U$ 10,00 |
-
-  - If we're shipping to Miami, for example, the cost would be U$ 20,00 as in fits under Cost to US, which is more specific than Standard Shipping.
-  - However if we're shipping to Germany, for example, the cost would fall under the Standard Shipping of U$ 30,00. 
-  - But if we're shipping to New York (State) the price would be _U$ 15,00_
-
-Let's get some more insight on each of the shipping types:
-
-### Standard shipping
-
-Represents the most macro shipping rate available and can be used for both worldwide and local shipping.
-
-_Ex: if you set the price for standard shipping at U$ 30,00 and don't have any other more specific shipping rate, then this will be the set shipping price for anywhere in the world. This means that shipping something to Mexico would cost the same as shipping something to Portugal, to New York or Seattle or anywhere else._
-
-### Shipping by country
-
-Refers to the default shipping rate for a specific country. It's therefore possible to have different shipping rates for different countries. [Click here for more on Wish's shipping by country settings](https://merchantfaq.wish.com/hc/pt/articles/205212607-Como-configuro-as-minhas-configura%C3%A7%C3%B5es-de-frete-).
-
-_Ex: the shipping price for Brazil is U$ 20,00 while for Argentina it stands at U$ 25,00._
-
-### Shipping by subregions
-
-Refers to the specific rate for a country's subregions. You can therefore set different shipping rates for different subregions belonging to the same country.
-
-_Ex: the shipping rate to New York (metropolitan region) is U$ 10,00, while the rate for NY (State) is U$ 15,00._
-
-<div class = "alert alert-info">
-  OBS: shipping by region is only available to sellers that use <strong>Wish Express</strong> <a href="[https://merchantfaq.wish.com/hc/en-us/articles/360018939394-How-to-Ship-Wish-Express-to-Brazil]">(additional info here).</a>
- To configure Wish Express, simply follow <a href="[https://merchantfaq.wish.com/hc/en-us/articles/232047747-Wish-Express-Sign-Up-Flow]">these steps.</a>
-  </div>
+>ℹ️ NOTE: Wish demands that product prices and shipping be sent in USD. However, it does convert order values into BRL directly, making issuing invoices much easier.
+>
+> This means to highlight that priority will always be given to the **more specific** shipping rate configuration. Let's have a look at the following example for further clarity:
+>
+> | Shipping      | Specification | Price   |
+> | ---------- | ---------- | ---------- |
+> | Standard     |            | U$ 30,00   |
+> | By country   | Brazil  | U$ 25,00   |
+> | By country   | US     | U$ 20,00   |
+> | By subregion | New York (metropolitan region)  | U$ 10,00 |
+> | By subregion | New York (state)              | U$ 15,00 |
+> | By subregion | Chicago (metropolitan region) | U$ 10,00 |
+>
+> - If we're shipping to Miami, for example, the cost would be U$ 20,00 as in fits under Cost to US, which is more specific than Standard Shipping.
+>   - However if we're shipping to Germany, for example, the cost would fall under the Standard Shipping of U$ 30,00. 
+>   - But if we're shipping to New York (State) the price would be _U$ 15,00_
+>
+> Let's get some more insight on each of the shipping types:
+>
+> ### Standard shipping
+>
+> Represents the most macro shipping rate available and can be used for both worldwide and local shipping.
+>
+> _Ex: if you set the price for standard shipping at U$ 30,00 and don't have any other more specific shipping rate, then this will be the set shipping price for anywhere in the world. This means that shipping something to Mexico would cost the same as shipping something to Portugal, to New York or Seattle or anywhere else._
+>
+> ### Shipping by country
+>
+> Refers to the default shipping rate for a specific country. It's therefore possible to have different shipping rates for different countries. [Click here for more on Wish's shipping by country settings](https://merchantfaq.wish.com/hc/pt/articles/205212607-Como-configuro-as-minhas-configura%C3%A7%C3%B5es-de-frete-).
+>
+> _Ex: the shipping price for Brazil is U$ 20,00 while for Argentina it stands at U$ 25,00._
+>
+> ### Shipping by subregions
+>
+> Refers to the specific rate for a country's subregions. You can therefore set different shipping rates for different subregions belonging to the same country.
+>
+> _Ex: the shipping rate to New York (metropolitan region) is U$ 10,00, while the rate for NY (State) is U$ 15,00._
+>
+> <div class = "alert alert-info">
+>   OBS: shipping by region is only available to sellers that use **Wish Express** [(additional info here).]([https://merchantfaq.wish.com/hc/en-us/articles/360018939394-How-to-Ship-Wish-Express-to-Brazil])
+>  To configure Wish Express, simply follow [these steps.]([https://merchantfaq.wish.com/hc/en-us/articles/232047747-Wish-Express-Sign-Up-Flow])
   
 Specify if you'll use Wish Express in the setup. In case you won't, you may skip to next step.
 

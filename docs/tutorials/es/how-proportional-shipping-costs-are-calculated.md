@@ -29,9 +29,7 @@ Por ejemplo, en un carrito de compras se calculó que el valor total del flete e
 
 Para facilitar la compresión a los usuarios, utilizamos el término «peso» en vez de «masa» en nuestra documentación, a pesar de que existe una diferencia entre ambos términos y un uso correcto.
 
-<div class="alert alert-danger">
-El peso del producto no puede ser cero. Esto puede provocar problemas en los costos del cálculo del flete.
-</div>
+>❗ El peso del producto no puede ser cero. Esto puede provocar problemas en los costos del cálculo del flete.
 
 ## Cómo visualizar el prorrateo del flete
 

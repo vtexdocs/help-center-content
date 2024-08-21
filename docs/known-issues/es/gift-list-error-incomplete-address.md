@@ -18,9 +18,7 @@ internalReference: 313576
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Algunas listas de regalos se muestran en rojo con el mensaje "dirección incompleta". Al hacer clic en la URL de la lista de regalos la redirigen al siguiente mensaje de error: `.myvtex.com/giftlist?GiftListAddressFail_ID`

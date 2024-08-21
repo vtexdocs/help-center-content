@@ -23,9 +23,7 @@ subcategory: 2AksvvAtAsbAfE7HsBIVDU
 
 Para unirte a VTEX Ad Network y publicar anuncios en tu tienda, solo tienes que instalar la aplicación VTEX Ad Network para retailers.
 
-<div class="alert alert-warning">
-Por el momento, los retailers VTEX solo pueden disponibilizar inventario de anuncios en storefronts creados con <a href="https://help.vtex.com/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework">Store Framework</a>.
-</div>
+>⚠️ Por el momento, los retailers VTEX solo pueden disponibilizar inventario de anuncios en storefronts creados con [Store Framework](https://help.vtex.com/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework).
 
 ## Seguimiento de los resultados
 

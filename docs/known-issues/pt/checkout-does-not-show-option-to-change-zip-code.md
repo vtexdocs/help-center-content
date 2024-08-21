@@ -18,9 +18,7 @@ internalReference: 321598
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Para itens que estão restritos à coleta na loja para determinados endereços, a opção de alterar o código postal está desaparecendo enquanto o usuário estiver na guia de entrega, no carrinho .

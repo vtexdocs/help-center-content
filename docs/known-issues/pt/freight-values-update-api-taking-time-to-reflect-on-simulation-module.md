@@ -18,9 +18,7 @@ internalReference: 621230
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 As atualizações do valor do frete estão levando mais de 1 dia para refletir sobre a simulação de embarque quando a atualização foi solicitada usando o método API POST. Esta questão é intermitente, geralmente a atualização leva apenas alguns minutos.

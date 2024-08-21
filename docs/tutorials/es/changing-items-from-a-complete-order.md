@@ -22,9 +22,7 @@ Hay dos formas de modificar un pedido:
 * [Admin VTEX:](#como-cambiar) esta opción se puede utilizar si el status del pedido es `Preparando entrega`.
 * [API de cambio de pedidos:](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/changes) además de cambiar los ítems, se puede crear descuentos y modificar el precio del pedido. El cambio solo se puede realizar si el status del pedido en la API de pedidos es `handling` o `waiting-for-fulfillment`.
 
-<div class="alert alert-warning">
-Tras el cambio, el cliente recibe una notificación por email si la plantilla <code>Change of information</code> (<a href="https://help.vtex.com/es/tutorial/plantillas-de-emails-transaccionales-del-pedido--3g2S2kqBOoSGcCaqMYK2my">plantillas de emails transaccionales referentes al pedido)</a> está activada en el Centro de mensajes. El cliente recibe los mensajes con la información que se ha rellenado en el formulario de cambio de ítems.
-</div>
+>⚠️ Tras el cambio, el cliente recibe una notificación por email si la plantilla `Change of information` ([plantillas de emails transaccionales referentes al pedido)](https://help.vtex.com/es/tutorial/plantillas-de-emails-transaccionales-del-pedido--3g2S2kqBOoSGcCaqMYK2my) está activada en el Centro de mensajes. El cliente recibe los mensajes con la información que se ha rellenado en el formulario de cambio de ítems.
 
 ## Restricciones
 

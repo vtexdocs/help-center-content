@@ -26,9 +26,7 @@ Before creating a campaign promotion, you need to create a campaign audience to 
 
 For example, if you set up a [campaign audience](https://help.vtex.com/en/tutorial/creating-campaign-audiences--6cnuDZJzIkIeocewAQQK4K) whose target audience is customers who add product A to their cart, in the campaign promotion you can configure that this audience will receive a discount on product B.
 
-<div class="alert alert-info">
-  <p>Campaign audiences and their promotions are only valid for the main store account. This option is not available for seller accounts. If a campaign audience or a campaign promotion are created on a seller account, they will not be activated.</p>
-</div>
+>ℹ️ Campaign audiences and their promotions are only valid for the main store account. This option is not available for seller accounts. If a campaign audience or a campaign promotion are created on a seller account, they will not be activated.
 
 Once the [campaign audience](https://help.vtex.com/en/tutorial/creating-campaign-audiences--6cnuDZJzIkIeocewAQQK4K) is set, go to the Admin and follow the steps below to create a campaign promotion.
 
@@ -136,9 +134,7 @@ See an example below. In this case, the promotion includes all products from the
 
 In the **Products** and **SKUs** fields, you can opt to upload a **.txt** file with one product or SKU ID per row instead of selecting one product or one SKU at a time. To do this, click on **Choose file** and select your **.txt** file.
 
-<div class="alert alert-warning">
-  <p>If you select <b>Apply to the following products</b> and do not fill in any of the selection criteria, the promotion will not be created and the message <b>Define eligible products or apply to all products</b> will be displayed. In this case, you must go back and fill in the selection criteria or click on <b>Apply to all products</b>.</p>
-</div>
+>⚠️ If you select **Apply to the following products** and do not fill in any of the selection criteria, the promotion will not be created and the message **Define eligible products or apply to all products** will be displayed. In this case, you must go back and fill in the selection criteria or click on **Apply to all products**.
 
 To be eligible for the promotion, products must meet all the conditions added in this section.
 

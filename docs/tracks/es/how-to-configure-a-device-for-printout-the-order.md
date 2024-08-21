@@ -40,9 +40,7 @@ configureDeviceEnabled: true,
       }
 }``
 
-<div class="alert alert-info">
-  <strong>NOTA</strong>: Existe una opción para imprimir de forma automática el resumen del pedido, tan pronto sea completado el pedido. La configuración es muy sencilla, basta agregar la propiedad <strong><i>printPageAutomatically</i></strong> con el valor <strong><i>true</i></strong> dentro del objeto <strong><i>printingConfig</i></strong>.
-   </div>
+>ℹ️ **NOTA**: Existe una opción para imprimir de forma automática el resumen del pedido, tan pronto sea completado el pedido. La configuración es muy sencilla, basta agregar la propiedad **<i>printPageAutomatically</i>** con el valor **<i>true</i>** dentro del objeto **<i>printingConfig</i>**.
 
 No elimine ninguna de las otras propiedades presentes en este objeto, pero el resultado debería ser algo como:
 
@@ -56,9 +54,7 @@ printPageAutomatically: true
 
 ## Configurar dispositivo de impresora en inStore
 
-<div class="alert alert-warning">
-  <strong>IMPORTANTE</strong>: Para la configuración de la impresora en inStore, es necesario tener <strong><i>AppKey</i></strong> y <strong><i>AppToken</i></strong> con permisos de al menos un perfil como <i>“Vendedor inStore (inStore Sales Person)”</i>. Vale aclarar que puede ser utilizado un perfil de <i>“Propietario (administrador super)”</i>.
-  </div>
+>⚠️ **IMPORTANTE**: Para la configuración de la impresora en inStore, es necesario tener **<i>AppKey</i>** y **<i>AppToken</i>** con permisos de al menos un perfil como <i>“Vendedor inStore (inStore Sales Person)”</i>. Vale aclarar que puede ser utilizado un perfil de <i>“Propietario (administrador super)”</i>.
 
   1. Conecte la impresora al equipo donde se encuentre instalado inStore (para descargar inStore, acceda a [http://instore.vtex.com/download]). Recordando que debe ser una computadora con sistema operativo Windows (Windows 7 o superior son compatibles).
   2. Abra la aplicación inStore y entre a la tienda donde desea configurar la impresora.

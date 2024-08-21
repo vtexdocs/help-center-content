@@ -33,9 +33,7 @@ Independente de você ter instalado a <a href= "https://apps.vtex.com/vtex-faceb
 8. Em seguida, clique em `Continuar`.
 9. Escolha quais permissões devem ser conferidas à VTEX na integração.
 
-  <div class="alert alert-danger">
-Para que a integração funcione corretamente, o recomendável é conceder todas as permissões apresentadas. Por padrão, elas aparecem como habilitadas.
-</div>
+  >❗ Para que a integração funcione corretamente, o recomendável é conceder todas as permissões apresentadas. Por padrão, elas aparecem como habilitadas.
 
 10. Clique em `Avançar`.
 11. Na janela aberta, aparecerá uma confirmação de que a integração foi realizada. Clique em `Concluir`.

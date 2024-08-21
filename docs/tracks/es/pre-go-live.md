@@ -20,9 +20,7 @@ Esta etapa inicia el _go live_, ya que estos pasos deben programarse cuidadosame
 
 Debes [registrar el dominio en Configuración de la cuenta](https://help.vtex.com/es/tutorial/configurando-dominios-no-license-manager). Eso es lo que conecta la dirección a la tienda.
 
-<div class="alert alert-warning">
-Después de registrar tu dominio, tienes siete días para completar el _go live_. En caso contrario, deberás acceder al registro realizado y volver a guardar.
-</div>
+>⚠️ Después de registrar tu dominio, tienes siete días para completar el _go live_. En caso contrario, deberás acceder al registro realizado y volver a guardar.
 
 ## Solicitar el apuntamiento IO
 

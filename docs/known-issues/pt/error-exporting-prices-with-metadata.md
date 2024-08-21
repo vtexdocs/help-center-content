@@ -18,9 +18,7 @@ internalReference: 860290
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Às vezes, ao tentar exportar os preços com a opção de metadados ativada e sem usar filtros, pode ocorrer um erro. Ao verificar a mensagem no devTools, aparecerá algo semelhante a "Polly broken circuit on service...".

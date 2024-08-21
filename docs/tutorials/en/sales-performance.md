@@ -212,9 +212,7 @@ The list represents the metrics and filters applied to the chart in table format
   - __Absolute__: view in absolute numbers the increase or decrease of the metrics between one period and another.   
   - __Representative__: view the percentage of representativeness of an item within a metric.  
 
-<div class="alert alert-info">
-Note that the metrics <em>Average ticket</em> and <em>Items per order</em> do not have Percent or Representative views available, as these metrics are calculated by dividing others, and the sum of all the parts of each of them does not equal the Total.
-</div>
+>ℹ️ Note that the metrics *Average ticket* and *Items per order* do not have Percent or Representative views available, as these metrics are calculated by dividing others, and the sum of all the parts of each of them does not equal the Total.
 
 ### Exporting data
 

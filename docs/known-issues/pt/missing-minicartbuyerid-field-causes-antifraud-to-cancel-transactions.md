@@ -18,9 +18,7 @@ internalReference: 514335
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Houve casos em que determinadas transações estavam sendo recusadas durante a análise antifraude devido ao valor nulo no campo `minicart.buyer.id`. Portanto, espera-se que o `minicart.buyer.id` seja enviado do checkout para o gateway por meio de `sendAdditionalData`. No entanto, de acordo com a arquitetura atual do checkout, não há nenhum requisito específico para fornecer esse campo em `sendAdditionalData`, e sua definição pode ou não estar disponível em um estágio posterior.

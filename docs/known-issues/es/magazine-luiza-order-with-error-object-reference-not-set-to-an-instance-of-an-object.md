@@ -18,9 +18,7 @@ internalReference: 777298
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Algunos pedidos no se han creado en OMS+Bridge y en el log aparece el error: `"Object reference not set to an instance of an object"`.

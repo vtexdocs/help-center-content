@@ -20,9 +20,7 @@ This stage initiates the go-live as these steps need to be carefully scheduled b
 
 To connect the domain to the store, you must [register the domain in Account Management](https://help.vtex.com/en/tutorial/configurando-dominios-no-license-manager).
 
-<div class="alert alert-warning">
-After registering your domain, you have seven days to complete the go-live. Otherwise, you must go back to the registration and save it again.
-</div>
+>⚠️ After registering your domain, you have seven days to complete the go-live. Otherwise, you must go back to the registration and save it again.
 
 ## Requesting IO pointing
 

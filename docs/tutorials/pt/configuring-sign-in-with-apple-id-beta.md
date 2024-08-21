@@ -15,9 +15,7 @@ legacySlug: configurar-login-com-apple-id-beta
 subcategory: 5uXA9a0laSLMkfbv6jQRDS
 ---
 
-<div class="alert alert-info">
-  <p>Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Caso tenha interesse em implementá-la futuramente, entre em contato com <a href="https://support.vtex.com/hc/pt-br">nosso Suporte</a>.</p>
-</div>
+>ℹ️ Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Caso tenha interesse em implementá-la futuramente, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br).
 
 Na VTEX, não é necessário criar uma conta ou fazer login para realizar uma compra. No entanto, caso o cliente queira efetuar alguma alteração nos dados informados durante a primeira compra, é necessário que ele comprove a posse do email em questão.
 
@@ -72,9 +70,7 @@ Com tudo configurado, você já pode testar o login. Recomendamos que faça isso
 4. Realize a autenticação de dois fatores, se solicitada.
 5. Escolha se deseja compartilhar seu email com o app ou [ocultar o seu email](https://support.apple.com/pt-br/HT210425) e clique em `Continuar`. Recomendamos compartilhar o email, porque existem [limitações](#limitacoes) com relação ao email oculto na VTEX.
 
-<div class="alert alert-info">
-  <p>A opção por compartilhar ou não o email só aparece no primeiro acesso à loja com o Apple ID. Nas demais vezes, é necessário apenas clicar em <code>Continuar</code>. Para redefinir a opção de compartilhamento do email, visite o <a href="https://appleid.apple.com/br/">gerenciamento de Apple ID</a>, revogue a autorização da loja e volte a fazer login.</p>
-</div>
+>ℹ️ A opção por compartilhar ou não o email só aparece no primeiro acesso à loja com o Apple ID. Nas demais vezes, é necessário apenas clicar em `Continuar`. Para redefinir a opção de compartilhamento do email, visite o [gerenciamento de Apple ID](https://appleid.apple.com/br/), revogue a autorização da loja e volte a fazer login.
 
 Feito isso, você estará autenticado(a) na loja.
 

@@ -32,9 +32,7 @@ El formulario de registro de nuevo producto tiene las siguientes secciones:
 *   [SEO](#seo)
 *   [Storefront](#storefront)
 
-<div class="alert alert-info">
-<p>Antes de crear un producto, debe crear la <a href="https://help.vtex.com/es/tutorial/registrando-categoria--tutorials_206">Categoría</a> correspondiente al producto si no se ha registrado anteriormente en su tienda.</p>
-</div>
+>ℹ️ Antes de crear un producto, debe crear la [Categoría](https://help.vtex.com/es/tutorial/registrando-categoria--tutorials_206) correspondiente al producto si no se ha registrado anteriormente en su tienda.
 
 ## Informaciones básicas
 
@@ -81,9 +79,7 @@ Para agregar imágenes al producto, siga las instrucciones a continuación:
 1. Haga clic en el botón `Agregar imágenes` o arrastre y suéltelas en el recuadro punteado.
 2. Inserte todas las imágenes del producto. Incluya las variaciones, como el color y el tamaño. Las imágenes deben estar en formato JPEG, PNG o GIF, con tamaño máximo de 5MB cada una.
 
-<div class="alert alert-warning">
-<p>Recomendamos utilizar imágenes con 600px o más para que la imagen se muestre correctamente en su tienda.</p>
-</div>
+>⚠️ Recomendamos utilizar imágenes con 600px o más para que la imagen se muestre correctamente en su tienda.
 
 Puede hacer clic en una imagen y arrastrarla para posicionarla antes o después de las otras si desea reorganizar las imágenes y cambiar el orden de visualización en la página del producto, como se ilustra a continuación.
 
@@ -142,9 +138,7 @@ Cada producto debe tener al menos un [SKU](https://help.vtex.com/es/tutorial/o-q
 
 Si desea crear más de un SKU, según las posibles variaciones de su producto, haga clic en el botón `+ Crear variacione`.
 
-<div class="alert alert-warning">
-  <p>Al hacer clic en <code>+ Crear variacione</code>, se eliminarán los campos que hubiere rellenado en <b>Información de SKU</b>.</p>
-</div>
+>⚠️ Al hacer clic en `+ Crear variacione`, se eliminarán los campos que hubiere rellenado en **Información de SKU**.
 
 Lo que diferencia entre los SKU o las variaciones de producto son las distintas combinaciones de especificaciones posibles. Por ejemplo: al crear el producto _zapatilla deportiva_ y configurar la especificación _color_ con las opciones _rosa_ y _azul_ y la especificación _tamaño_ con las opciones _36_ y _37_, los SKU serán combinaciones de estas opciones: _zapatilla deportiva rosa 36_, _zapatilla deportiva rosa 37_, _zapatilla deportiva azul 36_ y _zapatilla deportiva azul 37._
 
@@ -173,9 +167,7 @@ Las especificaciones que creó y sus respectivas opciones se muestran en esta se
 
 Puede cambiar la información de cada especificación al hacer clic en el botón <i class="fas fa-pencil-alt"></i> en la línea de cada una.
 
-<div class="alert alert-info">
-  <p>Después de definir la configuración de las especificaciones del producto, no puede eliminar una especificación ni añadir una nueva. Durante la edición, solo puede añadir nuevos valores a la especificación existente.</p>
-</div>
+>ℹ️ Después de definir la configuración de las especificaciones del producto, no puede eliminar una especificación ni añadir una nueva. Durante la edición, solo puede añadir nuevos valores a la especificación existente.
 
 También puede hacer clic en el botón `+ Agregar especificación` para incluir más especificaciones.
 
@@ -201,9 +193,7 @@ Al hacer clic en el botón <i class="fas fa-ellipsis-v"></i>, puede realizar las
   * **Agregar imágenes:** en este panel, también se puede cargar nuevas imágenes haciendo clic en el botón `Agregar imágenes` o arrastrando y soltando los archivos de imagen en el espacio delimitado por la línea punteada.
 * **Desactivar:** desactive la variación en su tienda. 
 
-<div class="alert alert-warning">
-<p>Si agrega especificaciones después de configurar las variaciones, se volverán a calcular todas las variaciones y se volverán a definir sus campos.</p>
-</div>
+>⚠️ Si agrega especificaciones después de configurar las variaciones, se volverán a calcular todas las variaciones y se volverán a definir sus campos.
 
 ### Edición avanzada
 El panel de edición avanzada de variaciones, que se ilustra a continuación, permite ver y editar toda la información y las imágenes relacionadas con cada variación del producto. 

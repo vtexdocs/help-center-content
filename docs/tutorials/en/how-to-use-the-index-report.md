@@ -19,9 +19,7 @@ The **Index Report** shows the indexing status of all products of the store.
 
 ![Indexingreport](https://images.ctfassets.net/alneenqid6w5/3eSr5kdaesUGkCmuAEkQQo/8f9466ec380b282176491d7f6424bbe1/Indexingreport.png)
 
-<div class="alert alert-info">
-<strong>Notice:</strong> For more information, access <a href="/en/tutorial/understanding-how-indexation-works">Understanding the operation of the indexation.</a>
-</div>
+>ℹ️ **Notice:** For more information, access [Understanding the operation of the indexation.](/en/tutorial/understanding-how-indexation-works)
 
 ## How to access the index report
 

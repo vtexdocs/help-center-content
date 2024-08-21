@@ -15,6 +15,4 @@ legacySlug: guia-de-integracion-para-marketplaces-marketplace-non-vtex-con-pago
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---
 
-<div class="alert alert-warning">
-Consulte la versión actualizada de esta <a href="https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide">guía de integración con marketplaces</a> en nuestro Developer Portal.
-</div>
+>⚠️ Consulte la versión actualizada de esta [guía de integración con marketplaces](https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide) en nuestro Developer Portal.

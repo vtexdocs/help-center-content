@@ -26,9 +26,7 @@ Consulta a continuación los pasos a seguir para cada una de estas opciones:
 
 Recomendamos crear roles análogos a las estructuras jerárquicas de la tienda. De este modo, todos los colaboradores son responsables de la información a la que pueden acceder. Las buenas prácticas de gestión de los roles de usuario no solo mejoran la seguridad de las operaciones, sino que también fortalecen el compromiso de todas las partes involucradas en la protección de los datos sensibles de la tienda y tus clientes.
 
-<div class="alert alert-warning">
-  <p>El uso sin restricciones de roles muy permisivos aumenta el riesgo de ataques en las tiendas en caso de que se filtren las credenciales de inicio de sesión.</p>
-</div>
+>⚠️ El uso sin restricciones de roles muy permisivos aumenta el riesgo de ataques en las tiendas en caso de que se filtren las credenciales de inicio de sesión.
 
 ## Rol predefinido
 
@@ -78,9 +76,7 @@ Sigue las instrucciones a continuación para crear un rol personalizado que resp
 
 7. Asigna un nombre para el rol personalizado en el campo **Nombre del rol**.
 
-  <div class="alert alert-warning">
-    <p>Es importante elegir nombres descriptivos para los roles, que indiquen claramente qué tipo de usuario debe tener ese acceso. Se recomienda especificar el cargo en la empresa o la función a desempeñar en la plataforma.</p>
-  </div>
+  >⚠️ Es importante elegir nombres descriptivos para los roles, que indiquen claramente qué tipo de usuario debe tener ese acceso. Se recomienda especificar el cargo en la empresa o la función a desempeñar en la plataforma.
 
 8. Agrega usuarios administrativos al rol rellenando el email del usuario en **Agregar usuarios para este rol** y haciendo clic en `Agregar`.
 

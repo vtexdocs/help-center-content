@@ -176,9 +176,7 @@ To change an existing password, follow the instructions below:
 4. Click on `SAVE PASSWORD`.
 ![My Authentication change password EN](https://images.ctfassets.net/alneenqid6w5/7qyiWDAjdSBEjppq6Ti94c/4a055c06066c293502ffb9652d220c93/My_Authentication_change_password_EN.png)
 
-<div class="alert alert-info">
-If you have forgotten your password, you cannot recover it using the option for resetting passwords. To recover your password, you must log out of your current session, try to log in using your email address and password, and click on <strong>I forgot my password</strong>.
-</div>
+>ℹ️ If you have forgotten your password, you cannot recover it using the option for resetting passwords. To recover your password, you must log out of your current session, try to log in using your email address and password, and click on **I forgot my password**.
 
 ### Session management
 

@@ -18,9 +18,7 @@ internalReference: 664419
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Às vezes, ao tentar abrir uma especificação de produto ou sku nas categorias admin a página não carrega corretamente e é atualizada de volta à página inicial da árvore de categorias.

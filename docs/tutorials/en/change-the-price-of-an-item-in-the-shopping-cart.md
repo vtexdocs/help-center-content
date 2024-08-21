@@ -20,10 +20,8 @@ At VTEX, stores can manually set the price of an item (SKU) available in the Che
 - **Access Profile**: Owner (Admin Super) or Call Center Operator (Telesales) 
 - **Permission**: Shopping Cart Full Access
 
-<div class="alert alert-warning">
-The steps below must be performed on the <i>myvtex</i> domain of each store
- ({accountName}.myvtex.com.br).
-</div>
+>⚠️ The steps below must be performed on the <i>myvtex</i> domain of each store
+>  ({accountName}.myvtex.com.br).
 
 ## Changing the item price
 

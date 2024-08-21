@@ -36,9 +36,7 @@ To view the update history of a SKU, follow the steps below:
   * The quantity of items before the update.
   * The quantity of itemsafter the update.
 
-<div class="alert alert-warning">
-You can only see the last 50 updates in the update log of a given SKU.
-</div>
+>⚠️ You can only see the last 50 updates in the update log of a given SKU.
 
 The total quantity of items on the [Inventory Management](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139) page is updated in real-time, but it may take up to 1 hour to reflect in the inventory history.
 

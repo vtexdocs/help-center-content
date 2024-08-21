@@ -27,9 +27,7 @@ Realice el siguiente paso a paso para registrar una nueva colección:
 4. Rellene los campos del formulario de Colección. Para entender mejor el significado de cada campo, acceda a nuestro artículo sobre [cómo rellenar campos de registro de colección](https://help.vtex.com/es/tutorial/rellenar-campos-de-registro-de-colección--7eKL7CFRW3yGKlnDfQetbj).
 5. Haga clic en __Save Product Cluster__.
 
-<div class="alert alert-warning">
-Cuando la cantidad de colecciones creadas supera el límite de veinte, las colecciones excedentes pueden encontrarse en la interfaz a través del campo de búsqueda. La búsqueda en este campo debe realizarse en base al nombre de la colección deseada. 
-</div>
+>⚠️ Cuando la cantidad de colecciones creadas supera el límite de veinte, las colecciones excedentes pueden encontrarse en la interfaz a través del campo de búsqueda. La búsqueda en este campo debe realizarse en base al nombre de la colección deseada.
 
 La elección de los productos que van a hacer parte de una colección se hace a través de la creación de un __grupo__. Para esto, basta con hacer clic en __New Group__ dentro de la colección deseada. 
 
@@ -54,9 +52,7 @@ Siendo:
 
 Por eso, el primer grupo creado para cualquier colección debe ser obligatoriamente del tipo _Inclusive_.
 
-<div class="alert alert-warning">
-Esté siempre atento al tipo de grupo definido en el registro. Al incluir productos en un grupo tipo <i>Exclusive</i>, por ejemplo, estos <strong>no</strong> se incluirán en una colección por causa de la naturaleza de su grupo. 
-</div>
+>⚠️ Esté siempre atento al tipo de grupo definido en el registro. Al incluir productos en un grupo tipo <i>Exclusive</i>, por ejemplo, estos **no** se incluirán en una colección por causa de la naturaleza de su grupo.
 
 ## Selección de productos
 
@@ -103,15 +99,11 @@ En el campo __Find SKUs__, es posible digitar el ID de cuantos SKUs se deseen, e
 
 Para excluir un SKU de la lista, basta con hacer clic en el botón rojo al lado de este.
 
-<div class="alert alert-info">
-Cuando el número de SKUs en la lista supere los 10 ítems, un control de paginación estará disponible.
-</div>
+>ℹ️ Cuando el número de SKUs en la lista supere los 10 ítems, un control de paginación estará disponible.
 
 #### Por plantilla  
 
-<div class="alert alert-info">
-Obtenga el modelo de archivo para la inclusión y exclusión de SKUs de la colección <a href="//assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls">aquí</a>.
-</div>
+>ℹ️ Obtenga el modelo de archivo para la inclusión y exclusión de SKUs de la colección [aquí](//assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls).
 
 #### Inclusión masiva 
 

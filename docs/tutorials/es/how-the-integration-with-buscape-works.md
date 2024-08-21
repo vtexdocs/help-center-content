@@ -59,9 +59,7 @@ Si el envío se realiza con éxito, el SKU pasará también por un proceso de ca
 ### Visualización del producto
 Con el envío correcto y el proceso de catalogación de Buscapé concluido, todas las variaciones/SKUs de un mismo producto se muestran juntas, en una misma agrupación (siempre que se registre correctamente en VTEX).
 
-<div class="alert alert-info">
-Ex: Camisa Azul (producto) | P, M, G (variaciones/SKUs)
-</div>
+>ℹ️ Ex: Camisa Azul (producto) | P, M, G (variaciones/SKUs)
 
 
 ### Actualizaciones de producto
@@ -82,9 +80,7 @@ Los status de Buscapé reflejan los cambios de stock del producto en VTEX. Esto 
 ## 2. Inventario
 Los inventarios se envían por primera vez junto con el primer envío de productos. A partir de ahí, los inventarios de los anuncios en Buscapé se actualizan automáticamente, SKU por SKU, siempre que haya algún cambio en VTEX. La actualización tarda sólo unos segundos para reflejarse en el marketplace, pero los logs de inventario pueden tardar unos minutos en aparecer en el Admin de VTEX.
 
-<div class="alert alert-info">
-Para acceder a los logs, haga clic en la sección <strong>Integraciones</strong> del menú lateral del Admin. Una lista de opciones se abrirá y, a continuación, usted debe hacer clic en la opción <strong>inventario</strong>.
-</div>
+>ℹ️ Para acceder a los logs, haga clic en la sección **Integraciones** del menú lateral del Admin. Una lista de opciones se abrirá y, a continuación, usted debe hacer clic en la opción **inventario**.
 
 ## 3. Precio
 Los precios se envían por primera vez junto con el primer envío de productos. A partir de ahí, los precios de los anuncios en Buscapé se actualizan automáticamente, SKU por SKU, siempre que haya algún cambio en VTEX. La actualización tarda sólo unos segundos para reflejarse en el marketplace, pero los logs de precios pueden tardar unos minutos en aparecer en el Admin de VTEX.
@@ -93,17 +89,17 @@ Sin embargo, el sistema __no__ notifica a los afiliados cuando llega la fecha fi
 
 Para cada SKU, la integración envía el __precio final__ y el __precio de lista__ (también conocido como `precio de`), basado en el retorno de la simulación de checkout. Normalmente, el precio enviado es siempre el que fue determinado por la política comercial asociada a la integración. Sin embargo, __Promociones__ y __Precios fijos__ pueden influenciar el precio final.
 
-<div class="alert alert-info">
-<strong>Ejemplo 1:</strong>
-<br />
-Una promoción que ofrezca un 10% de descuento para el pago en boleto.
-</div>
+>ℹ️ **Ejemplo 1:**
+>
+>
+> 
+> Una promoción que ofrezca un 10% de descuento para el pago en boleto.
 
-<div class="alert alert-info">
-<strong>Ejemplo 2:</strong>
-<br />
-En la política comercial usada en Buscapé, un SKU tiene un precio de $ 10 y un precio fijo de $ 15. El valor que la integración envía al marketplace es de $ 15.
-</div>
+>ℹ️ **Ejemplo 2:**
+>
+>
+> 
+> En la política comercial usada en Buscapé, un SKU tiene un precio de $ 10 y un precio fijo de $ 15. El valor que la integración envía al marketplace es de $ 15.
 
 La integración envía precios de acuerdo con la forma de pago. Esto significa que, si hay intereses configurados para pagos parcelados, el precio enviado al Buscapé también va a tener intereses.
 

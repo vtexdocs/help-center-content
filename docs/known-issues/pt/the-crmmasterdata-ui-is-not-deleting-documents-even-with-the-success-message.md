@@ -18,9 +18,7 @@ internalReference: 699374
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A IU CRM não está apagando documentos, embora a mensagem de sucesso seja mostrada.

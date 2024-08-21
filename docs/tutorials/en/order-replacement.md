@@ -19,9 +19,7 @@ subcategory: 1qvm3kIrt6KA6IeGc4EQ6k
 
 [Changing items](https://help.vtex.com/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190) is different from replacing orders. When replacing an order, the customer requests changes to the order, and when changing items, the store modifies the order.
 
-<div class="alert alert-danger">
-The feature is available for all stores. You must enable it so that your customers can use it. 
-</div>
+>❗ The feature is available for all stores. You must enable it so that your customers can use it.
 
 This article will cover:
 
@@ -31,9 +29,7 @@ This article will cover:
 
 ## Enabling the feature
 
-<div class="alert alert-danger">
-If Order Replacement is enabled in stores whose My Orders page has customization, you must recreate the customization. The feature replaces the previous version of the page (which is customized) with a new, non-customized page. For these cases, we recommend that before activating the feature in your store, you use a <a href="https://help.vtex.com/en/tutorial/accessing-the-beta-environment--3BHM289568gcSwk2O80Asu">beta environment</a> and validate the activation with customization.
-</div>
+>❗ If Order Replacement is enabled in stores whose My Orders page has customization, you must recreate the customization. The feature replaces the previous version of the page (which is customized) with a new, non-customized page. For these cases, we recommend that before activating the feature in your store, you use a [beta environment](https://help.vtex.com/en/tutorial/accessing-the-beta-environment--3BHM289568gcSwk2O80Asu) and validate the activation with customization.
 
 To enable the feature, follow the steps below:
 
@@ -82,8 +78,6 @@ With the feature enabled, your store customers have access to a new order tracki
 
 After clicking on `Change order` , the customer will be redirected to the shopping cart, and then to checkout. At checkout, they can make changes to the address, type of delivery, payment method, and SKU. The process is only finished when the purchase is completed. The customer is not charged twice for the same order.
 
-<div class="alert alert-warning">
- Reusing the original payment is only allowed if the amount of the new order is the same as the original order. If the previous credit card payment is not used, the charge is automatically refunded.
-<p>For payment methods that expire within 2 days, such as boleto bancário (Brazilian payment method), the payment cannot be reused.
-</div>
+>⚠️ Reusing the original payment is only allowed if the amount of the new order is the same as the original order. If the previous credit card payment is not used, the charge is automatically refunded.
+> <p>For payment methods that expire within 2 days, such as boleto bancário (Brazilian payment method), the payment cannot be reused.
 

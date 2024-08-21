@@ -61,9 +61,7 @@ Con esto en manos, siga los siguientes pasos para configurar su XML:
 13.A partir de aquí debe rellenar los tags según lo definido por el sistema al que enviará el XML. Debe seleccionar la casilla __Exhibe contenido__ en los tags que haya ingresado el nombre. Los tags que ya estén con esa opción seleccionada  y no es posible deshacer la selección son obligatorios.
 14. La URL utilizada para acceder al XML se genera automáticamente, conforme al [dominio registrado en el diccionario del Sitio Web](https://help.vtex.com/es/tutorial/configurar-dominio-del-xml--2RkGK4vHS0c6sYuUw0cUWC), en el CMS.
 
-<div class="alert alert-warning">
-  <p>Si la política comercial tiene restricción de acceso, el XML no se generará.</p>
-</div>
+>⚠️ Si la política comercial tiene restricción de acceso, el XML no se generará.
 
 ## Conectores nativos: una alternativa a XML para integrar con marketplaces
 

@@ -18,9 +18,7 @@ internalReference: 745738
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 Atualmente o sistema de gerenciamento de ofertas mostra o status dos skus enviados de um vendedor para um mercado e suas interações e logs de ações como atualizações de preço e estoque.
 

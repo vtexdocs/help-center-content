@@ -36,9 +36,9 @@ Para crear un cupón de descuento, siga los pasos a continuación:
 6. Haga clic en **Restricciones y limitaciones de uso** y defina la cantidad de productos que se pueden comprar con este cupón, independientemente de cuántas compras se realicen para alcanzar ese número.
 7. Haga clic en el botón **Guardar**.
 
-<div class="alert alert-info">
-No es necesario crear un <code>utm_source</code> y un <code>utm_campaign</code>. Pero es necesario crear <b>por lo menos uno </b> de estos.<br>
-Consulte el artículo <a href="https://help.vtex.com/es/tutorial/que-son-utm-source-utm-campaign-y-utm-medium">Qué son utm_source, utm_campaign y utm_medium</a> para entender mejor lo que son estos UTMs.
-</div>
+>ℹ️ No es necesario crear un `utm_source` y un `utm_campaign`. Pero es necesario crear **por lo menos uno ** de estos.
+>
+> 
+> Consulte el artículo [Qué son utm_source, utm_campaign y utm_medium](https://help.vtex.com/es/tutorial/que-son-utm-source-utm-campaign-y-utm-medium) para entender mejor lo que son estos UTMs.
 
 Al momento de crear una promoción regular, debe seleccionar el flag  `utm_source` y/o `utm_campaign`e ingresar los UTM informados durante la creación del cupón en los campos correspondientes.

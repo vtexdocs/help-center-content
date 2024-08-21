@@ -23,9 +23,7 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 
 Antes de iniciar la configuración, es necesario abrir un ticket con el equipo de soporte de VTEX solicitando la activación de 3DS 2 en su tienda. Para más información acceda al [cómo abrir un ticket](https://help.vtex.com/es/tutorial/abrir-tickets-para-el-soporte-vtex--16yOEqpO32UQYygSmMSSAM).
 
-<div class="alert alert-warning">
-En VTEX, el flujo 3DS 2 no se aplica para realizar compras con dos tarjetas. En caso de que un pedido se realice en esas condiciones, el pago se cancelará.
-</div>
+>⚠️ En VTEX, el flujo 3DS 2 no se aplica para realizar compras con dos tarjetas. En caso de que un pedido se realice en esas condiciones, el pago se cancelará.
 
 ## Configuración de 3DS 2
 
@@ -39,6 +37,4 @@ Para configurar la autenticación 3DS 2 en las afiliaciones, siga los pasos a co
 6. En el campo __Suporte 3DS 2.0__, seleccione la opción __“Yes”__.
 7. Haga clic en __Guardar__. 
 
-<div class="alert alert-warning">
-  La descripción del campo 3DS 2 (<b>"Suporte 3DS 2.0"</b>, informado en el Paso 8) puede variar según el tipo de proveedor de pago que se configure. Consulte con el soporte técnico de su proveedor de pago elegido para identificar el campo correcto para seleccionar para habilitar la autenticación 3DS 2.
-</div>
+>⚠️ La descripción del campo 3DS 2 (**"Suporte 3DS 2.0"**, informado en el Paso 8) puede variar según el tipo de proveedor de pago que se configure. Consulte con el soporte técnico de su proveedor de pago elegido para identificar el campo correcto para seleccionar para habilitar la autenticación 3DS 2.

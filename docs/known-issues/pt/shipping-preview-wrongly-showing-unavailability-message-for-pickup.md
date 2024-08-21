@@ -18,9 +18,7 @@ internalReference: 764457
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando você adiciona a "selectedSla" (deve ser uma pick-up) e "selectedAddresses" via API em um carrinho com promoção de presentes, a loja é configurada para geolocalização e usa polígonos, a pré-visualização do envio mostrará uma mensagem de indisponibilidade para a pick-up, que foi selecionada via API. Este comportamento terá impacto no fluxo de compra, uma vez que não permitirá avançar após o envio.

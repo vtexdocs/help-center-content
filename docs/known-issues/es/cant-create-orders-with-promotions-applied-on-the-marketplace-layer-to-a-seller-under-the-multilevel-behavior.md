@@ -18,9 +18,7 @@ internalReference: 446938
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 No es posible finalizar las compras cuando el marketplace está aplicando promociones a los artículos de los vendedores que están bajo comportamiento multinivel. El cliente verá un mensaje de error genérico.

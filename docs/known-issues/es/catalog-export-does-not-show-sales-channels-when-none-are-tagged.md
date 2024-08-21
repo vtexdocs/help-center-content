@@ -18,9 +18,7 @@ internalReference: 722001
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, los canales de venta que se comprueban en la interfaz de usuario del producto tienen una lógica de "si no se marca ninguno, todos están disponibles".

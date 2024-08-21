@@ -18,9 +18,7 @@ internalReference: 742046
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Para un escenario de split, cuando el usuario realiza una orden de cambio o incluso una simple cancelación después de que el pago ya ha sido capturado, la pasarela ya no permite recibir un nuevo UpdateAdditionalData.

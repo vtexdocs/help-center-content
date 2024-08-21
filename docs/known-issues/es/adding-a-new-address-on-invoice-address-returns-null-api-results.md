@@ -18,9 +18,7 @@ internalReference: 748668
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando hay más de una dirección registrada en el Sistema de Perfiles, se produce una petición "nula" al servicio de código postal si se añade una nueva dirección en "Dirección de Facturación".

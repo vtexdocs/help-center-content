@@ -18,9 +18,7 @@ internalReference: 1070299
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando executamos uma "alteração V2" removendo ou adicionando um item a um pedido, criamos uma alteração na lista de itens do pedido, o que pode aumentar ou diminuir o número de índices na lista de itens no json. Essa alteração, por sua vez, pode não ser consumida por todos os aplicativos ou bancos de dados envolvidos no processamento do pedido, como o aplicativo notificador de faturas;

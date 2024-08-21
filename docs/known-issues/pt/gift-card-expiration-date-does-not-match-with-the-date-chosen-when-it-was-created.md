@@ -18,9 +18,7 @@ internalReference: 378436
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Os clientes estão recebendo um erro ao tentarem pagar com Cartões-Presente quando a data da compra coincide com a data de expiração.

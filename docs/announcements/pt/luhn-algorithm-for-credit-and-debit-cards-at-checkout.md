@@ -35,6 +35,4 @@ A rejeição de uma transação de pagamento por motivo de número de cartão in
 
 Nenhuma ação é necessária. O algoritmo de Luhn já está ativo em todas as lojas VTEX.
 
-<div class="alert alert-warning">
-O algoritmo de Luhn não tem a função restringir fraudes por ataques de cartões. Seu objetivo específico é a verificação de erros de digitação ou preenchimento dos números dos cartões.
-</div>
+>⚠️ O algoritmo de Luhn não tem a função restringir fraudes por ataques de cartões. Seu objetivo específico é a verificação de erros de digitação ou preenchimento dos números dos cartões.

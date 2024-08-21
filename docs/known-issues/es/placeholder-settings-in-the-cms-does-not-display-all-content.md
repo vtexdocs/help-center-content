@@ -18,9 +18,7 @@ internalReference: 547555
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, cuando se añade demasiado contenido dentro de un marcador de posición en un diseño de CMS, Admin no permite el desplazamiento de la página, lo que detiene la edición

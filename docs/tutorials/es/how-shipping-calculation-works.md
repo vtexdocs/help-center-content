@@ -47,14 +47,13 @@ Para su selección, las combinaciones de logística siguen los criterios y el or
 </li>
 </ul>
 <br>
-  <div class="alert alert-warning">
-Si se debe enviar un <a href="https://help.vtex.com/es/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28">kit</a>, hay dos condiciones:  
-  <ul>
-    <li>Los componentes del kit deben tener el mismo<a href="https://help.vtex.com/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj">muelle de carga</a>.</li>
-    <li>Los componentes del kit deben estar disponibles en el <a href="https://help.vtex.com/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/2XyUVa0UKMyHTmwqyA5Bx6">stock</a>.</li>
-  </ul>
-Para más información, consulta el artículo <a href="https://help.vtex.com/es/tutorial/como-e-calculado-o-frete-do-kit--frequentlyAskedQuestions_154">Cómo se calcula el envío de un kit</a>.
-</div>
+  >⚠️ Si se debe enviar un [kit](https://help.vtex.com/es/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28), hay dos condiciones:  
+>
+> * Los componentes del kit deben tener el mismo[muelle de carga](https://help.vtex.com/es/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj).
+>
+> * Los componentes del kit deben estar disponibles en el [stock](https://help.vtex.com/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/2XyUVa0UKMyHTmwqyA5Bx6).
+>
+> Para más información, consulta el artículo [Cómo se calcula el envío de un kit](https://help.vtex.com/es/tutorial/como-e-calculado-o-frete-do-kit--frequentlyAskedQuestions_154).
 
 2. **Prioridad del stock:** las rutas de logística seleccionadas anteriormente se organizan considerando al [stock](https://help.vtex.com/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) como criterio de prioridad. Cuantos menos SKU del pedido haya en stock, más prioridad tendrá la ruta de logística en la selección para evitar que se retenga stock con pocos ítems. A partir de esto, se crea una lista de rutas de logística ordenadas de mayor a menor prioridad, es decir, el ítem con más prioridad ocupa el primer lugar y el ítem con menos prioridad ocupa el último lugar.
 3. **Agrupamiento de paquetes:** la plataforma VTEX calcula la separación de los ítems del pedido en paquetes con el fin de estimar las divisiones de paquetes y [grupos de envíos](https://help.vtex.com/es/tutorial/como-funciona-a-remessa--tutorials_118).

@@ -48,9 +48,7 @@ Para comprobar si el problema está asociado a IO, sigue los pasos a a continuac
     ```
     vtex uninstall {tema}
     ```
-    <div class="alert alert-info">
-    Puedes comprobar si hay algún tema instalado utilizando el comando <code>vtex list</code>, que muestra una lista de todas las aplicaciones instaladas en la tienda.
-    </div>
+    >ℹ️ Puedes comprobar si hay algún tema instalado utilizando el comando `vtex list`, que muestra una lista de todas las aplicaciones instaladas en la tienda.
 4.	Clona el tema predeterminado de Store Framework en tu computadora.
 5.	En la línea de comandos, accede a la carpeta del tema predeterminado.
 6.	Ejecuta el comando:
@@ -59,7 +57,7 @@ Para comprobar si el problema está asociado a IO, sigue los pasos a a continuac
     vtex link
     ```
 
-    <div class="alert alert-warning">Si tu tienda no tiene la aplicación Reviews and Ratings instalada, puede aparecer un error al intentar establecer el vínculo. Para evitar este problema, remueve esta aplicación de la lista de `peer dependencies` del archivo `manifest.json` del tema predeterminado. </div>
+    >⚠️ Si tu tienda no tiene la aplicación Reviews and Ratings instalada, puede aparecer un error al intentar establecer el vínculo. Para evitar este problema, remueve esta aplicación de la lista de `peer dependencies` del archivo `manifest.json` del tema predeterminado.
 
 7.	Accede al storefront de tu workspace mediante la URL:
     ```

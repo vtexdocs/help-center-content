@@ -18,9 +18,7 @@ internalReference: 501829
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al hacer clic en la página de administración para grandes almacenes devuelve un error del servidor, esto está sucediendo a la agregación realizada que es demasiado pesada.

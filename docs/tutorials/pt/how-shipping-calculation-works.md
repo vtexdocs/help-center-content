@@ -46,14 +46,13 @@ A seleção de combinações logísticas acontece de acordo com os seguintes cri
   <li><b>Disponibilidade do inventário:</b> estoque é o local físico de armazenamento de itens, enquanto <a href="https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139">inventário</a> é a relação dos SKUs dos estoques disponíveis para venda. Este critério valida se os itens do pedido estão disponíveis em um estoque, e se esse estoque tem pelo menos uma doca disponível.</li>
 </ul>
 <br>
-  <div class="alert alert-warning">
-Para o caso de se tratar do envio de um <a href="https://help.vtex.com/pt/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28">kit</a>, existem duas condições:
-  <ul>
-    <li>Os componentes do kit devem possuir a mesma <a href="https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj">doca</a>.</li>
-    <li>Deve haver disponibilidade de componentes do kit no <a href="https://help.vtex.com/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/2XyUVa0UKMyHTmwqyA5Bx6">inventário</a>.</li>
-  </ul>
-Para mais informações, veja o artigo <a href="https://help.vtex.com/pt/tutorial/como-e-calculado-o-frete-do-kit--frequentlyAskedQuestions_154">Como é calculado o frete do kit</a>.
-</div>
+  >⚠️ Para o caso de se tratar do envio de um [kit](https://help.vtex.com/pt/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28), existem duas condições:
+>
+> * Os componentes do kit devem possuir a mesma [doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj).
+>
+> * Deve haver disponibilidade de componentes do kit no [inventário](https://help.vtex.com/pt/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/2XyUVa0UKMyHTmwqyA5Bx6).
+>
+> Para mais informações, veja o artigo [Como é calculado o frete do kit](https://help.vtex.com/pt/tutorial/como-e-calculado-o-frete-do-kit--frequentlyAskedQuestions_154).
 
 2. **Priorização de inventário:** as rotas logísticas selecionadas anteriormente são organizadas tendo o [inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139) como critério de priorização. Quanto menor a quantidade de SKUs do pedido em estoque, maior é a prioridade da rota logística na seleção, de forma que inventários com pequenas quantidades de itens não fiquem represados. A partir disso, é composta uma lista ordenada de rotas logísticas, que vai do item mais prioritário em primeiro lugar, até o menos prioritário em último lugar.
 3. **Agrupamento de pacotes:** a plataforma VTEX calcula a separação dos itens do pedido em pacotes, de forma a estimar as divisões de pacotes e [remessas](https://help.vtex.com/pt/tutorial/como-funciona-a-remessa--tutorials_118).

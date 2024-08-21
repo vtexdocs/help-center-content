@@ -19,9 +19,7 @@ Pickup points are a very important aspect of any [omnichannel](/en/announcement/
 
 You can [setup pickup points one by one](/en/tutorial/registering-pickup-points) or in bulk, through an XLS spreadsheet [(like this example file)](https://assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls). By choosing to upload an XLS file, you can register all your pickup points at once (as long as it doesn't exceed 10 MB).
 
-<div class="alert alert-info">
-A <strong>10 MB</strong> XLS file allows you to register an average <strong>50.000 pickup points</strong>. If you have more pickup points to import, you'll need to split them into different spreadsheets and upload them separately.
-</div>
+>ℹ️ A **10 MB** XLS file allows you to register an average **50.000 pickup points**. If you have more pickup points to import, you'll need to split them into different spreadsheets and upload them separately.
 
 
 

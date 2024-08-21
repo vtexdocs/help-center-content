@@ -76,9 +76,7 @@ Para las [estrategias de envío](https://help.vtex.com/es/tutorial/estrategia-de
 6. [Registro de geolocalización](https://help.vtex.com/es/tutorial/registering-geolocation--tutorials_138)
 7. Configuración de los puntos de recogida disponibles en el _checkout_
 
-<div class="alert alert-warning">
-Consulta los pasos detallados sobre <a href="https://help.vtex.com/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R#como-configurar">cómo configurar un punto de recogida.</a> 
-</div>
+>⚠️ Consulta los pasos detallados sobre [cómo configurar un punto de recogida.](https://help.vtex.com/es/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R#como-configurar)
 
 ## Tiempo de envío y feriados
 
@@ -95,9 +93,7 @@ Para ver más detalles sobre el cálculo del SLA, consulta el artículo [Cómo s
 
 Los feriados son importantes para determinar el plazo de envío, ya que está directamente relacionado con el plazo de entrega de los pedidos de tu tienda. VTEX considera que los feriados son los días en los que tu tienda no funcionará.
 
-<div class="alert alert-warning">
-Se recomienda que el registro de los feriados se realice después de la configuración de las estrategias de envío.
-</div>
+>⚠️ Se recomienda que el registro de los feriados se realice después de la configuración de las estrategias de envío.
 
 Para registrar los feriados en la plataforma, puedes:
 

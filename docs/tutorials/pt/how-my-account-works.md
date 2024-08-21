@@ -177,9 +177,7 @@ Para mudar a senha atual:
 4. Clique no botão `SALVAR SENHA` para concluir a mudança de senha.  
 ![My Authentication change password PT](https://images.ctfassets.net/alneenqid6w5/7qyiWDAjdSBEjppq6Ti94c/94f7323e8d97d28a4d5dac042c5c620b/My_Authentication_change_password_PT.png)
 
-<div class="alert alert-info">
-Caso você tenha esquecido a senha, não é possível recuperá-la pelo componente de gerenciamento de senha. Para isso você deve sair da sessão atual, fazer uma tentativa de login usando email e senha, e clicar no link <strong>Esqueci minha senha</strong>.
-</div>
+>ℹ️ Caso você tenha esquecido a senha, não é possível recuperá-la pelo componente de gerenciamento de senha. Para isso você deve sair da sessão atual, fazer uma tentativa de login usando email e senha, e clicar no link **Esqueci minha senha**.
 
 ### Gerenciamento de sessões
 

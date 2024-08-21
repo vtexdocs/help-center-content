@@ -61,9 +61,7 @@ Para configurar uma nova chave, siga os passos abaixo:
 
 Aguarde a chave porque ela será utilizada na etapa [Envio de informações para o KaBuM!](#envio-de-informacoes-para-o-kabum)
 
-<div class="alert alert-warning">
-A chave de acesso gerada só aparece para o usuário esta única vez, não é possível recuperar a informação pelo sistema posteriormente. Portanto, tenha a certeza de guardá-lo em um local seguro.
-</div>
+>⚠️ A chave de acesso gerada só aparece para o usuário esta única vez, não é possível recuperar a informação pelo sistema posteriormente. Portanto, tenha a certeza de guardá-lo em um local seguro.
 
 ### Criar afiliado
 

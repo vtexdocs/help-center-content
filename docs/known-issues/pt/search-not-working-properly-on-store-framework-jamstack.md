@@ -18,9 +18,7 @@ internalReference: 383231
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 As sugestões de busca não funcionam corretamente em SFJ devido à falta de eventos implementados.

@@ -25,6 +25,4 @@ Anteriormente, as promoções com condições de meio de pagamento eram aplicada
 
 No cenário atual, os promoções passam a considerar a condição de meio de pagamento por política comercial. Isso significa que uma promoção com filtro de meio de pagamento pode ser aplicada a mais de uma política comercial. Com esta melhoria, o lojista tem maior flexibilidade para configurar suas promoções.
 
-<div class="alert alert-danger">
-É importante ressaltar que esta feature <strong>não é válida</strong> para políticas comerciais de terceiros.
-</div>
+>❗ É importante ressaltar que esta feature **não é válida** para políticas comerciais de terceiros.

@@ -83,9 +83,7 @@ Os parâmetros acima podem ser combinados de diversas formas, porém, vale ressa
 
 ## Padrão 2
 
-<div class="alert alert-info">
-  Para lojas hospedadas no VTEX IO, o padrão 2 é o modelo indicado.
-  </div>
+>ℹ️ Para lojas hospedadas no VTEX IO, o padrão 2 é o modelo indicado.
 
 URL: www.loja.com.br/**\[NomeCategoria\]**/**\[NomeMarca\]**/**\[IdColeção\]**/**\[ValorBuscado\]?map=c,b,productClusterIds,specificationFilter_\[IdCampoProduto/Sku\]**
 

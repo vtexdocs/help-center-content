@@ -18,9 +18,7 @@ internalReference: 960064
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Durante la etapa de pago utilizando un comprador con un perfil completo, en el paso de rellenar los datos de envío, pulsando en la opción "Entregar en otra dirección", si sólo se añade el código postal y el comprador vuelve a la lista de direcciones (utilizando el botón "volver a la libreta de direcciones") y pulsa en "Actualizar la información de la dirección seleccionada" se produce un error con el mensaje "Algo ha ido mal".

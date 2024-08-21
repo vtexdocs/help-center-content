@@ -35,9 +35,7 @@ Se a sua loja armazena informações de clientes em outras entidades de dados, v
 
 2. Utilize a requisição [Delete document](https://developers.vtex.com/vtex-rest-api/reference/deletedocument-1)
 
-<div class="alert alert-danger">
-Não realize esse processo para as entidades <b>CL</b> e <b>AD</b>.
-</div>
+>❗ Não realize esse processo para as entidades **CL** e **AD**.
 
 ## Solicitar exclusão via suporte
 

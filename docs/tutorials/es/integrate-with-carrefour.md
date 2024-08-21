@@ -49,9 +49,7 @@ Las opciones que aparecen son las siguientes:
 - **Mapeamento de SLA de tipo Econômica:** Aquí se debe insertar el [tipo de transportista](/es/tutorial/como-se-maneja-el-tipo-de-entrega) registrada en VTEX que desea utilizar para la entrega `Economica`.
 - **Mapeamento de SLA de tipo Agendada:** Aquí se debe insertar el [tipo de transportista](/es/tutorial/como-se-maneja-el-tipo-de-entrega) registrada en VTEX que desea utilizar para la entrega `Programada`.
 
-<div class="alert alert-warning">
-Atención: es necesario rellenar al menos uno de los campos del mapeo de SLA. En caso de que ninguno de ellos sea prenchido, no será posible simular el flete en VTEX y, consecuentemente, los pedidos hechos en el Carrefour no serán integrados. Además, tampoco será posible guardar el registro de la integración sin que alguno de los campos esté rellenado.
-</div>
+>⚠️ Atención: es necesario rellenar al menos uno de los campos del mapeo de SLA. En caso de que ninguno de ellos sea prenchido, no será posible simular el flete en VTEX y, consecuentemente, los pedidos hechos en el Carrefour no serán integrados. Además, tampoco será posible guardar el registro de la integración sin que alguno de los campos esté rellenado.
 
 Una vez terminada la configuración de esa pantalla, haga clic en el botón **Salvar Configuração**.
 

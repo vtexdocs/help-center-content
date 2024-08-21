@@ -38,6 +38,4 @@ Você pode, então, customizar o CSS para definir de que maneira a classe `flag 
 
 Este recurso pode ser usado, por exemplo, para fazer com que os produtos de uma coleção chamada "Lançamento" apareçam sempre com uma flag destacando que eles são novidade na loja. Ao adicionar o controle no template da página de categoria, por exemplo, todo produto da coleção Lançamento exibido em uma página de categoria aparecerá com esse destaque.
 
-<div class="alert alert-warning">
-Lembre-se que, se a página for de produto, o controle que deve ser usado é o <code>&lt;vtex.cmc:HightLight/&gt;</code>. Já se for uma página de vitrine, você deve usar o <code>$product.HightLight</code>.
-</div>
+>⚠️ Lembre-se que, se a página for de produto, o controle que deve ser usado é o `&lt;vtex.cmc:HightLight/&gt;`. Já se for uma página de vitrine, você deve usar o `$product.HightLight`.

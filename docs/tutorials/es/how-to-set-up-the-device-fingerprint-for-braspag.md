@@ -19,13 +19,11 @@ __Device Fingerprint__ es un identificador que actúa en el procesamiento de un 
 
 Mediante la recolección de datos no sensibles, Device Fingerprint identifica y analiza el nivel de seguridad del dispositivo utilizado para realizar la transacción, así como las transacciones que se realizaron previamente con este mismo dispositivo.
 
-<div class="alert alert-info">
-Cada tienda debe tener solo un registro de Device fingerprint. Verifique si ya ha registrado el Device Fingerprint en otro conector, antes de continuar con los pasos siguientes.
-</div>
+>ℹ️ Cada tienda debe tener solo un registro de Device fingerprint. Verifique si ya ha registrado el Device Fingerprint en otro conector, antes de continuar con los pasos siguientes.
 
 En este artículo, explicaremos cómo asociar Device Fingerprint con la afiliación Braspag.
 
-<div class="alert alert-info">Las configuraciones documentadas en este artículo se realizan en un ambiente externo a VTEX. Por lo tanto, pueden estar desactualizadas.</div>
+>ℹ️ Las configuraciones documentadas en este artículo se realizan en un ambiente externo a VTEX. Por lo tanto, pueden estar desactualizadas.
 
 Para insertar  los scripts que Braspag/CyberSource requiere para el device fingerprint, es necesario el uso de Google Tag Manager. Para ello, inicie sesión en [http://www.google.com/tagmanager](http://www.google.com/tagmanager/) y acceda a su cuenta.
 

@@ -18,9 +18,7 @@ internalReference: 949411
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La visualización, para tiendas de portales heredados, de productos en PLPs se basa en el canal de venta de la tienda y sus datos básicos de disponibilidad.

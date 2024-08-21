@@ -46,14 +46,13 @@ Cada cuenta franquicia opera automáticamente como un _Seller White Label_ de la
 
 Los clientes finales no eligen ni tienen visibilidad de la existencia de los _Sellers White Label_ en ningún momento del proceso. En esta lógica, la relación de los consumidores es con la marca (cuenta principal) y no con cada tienda física (cuenta franquicia).
 
-<div class="alert alert-info">
-<p>Aunque todas las cuentas franquicia operan como <em>Sellers White Label</em> de la cuenta principal, estos conceptos no significan lo mismo. La cuenta franquicia es un tipo de cuenta, mientras que ser <em>White Label</em> es una propiedad del <em>seller</em>.
-<ul>
-<li><strong>Cuenta</strong>: puede ser del tipo franquicia o puede ser una cuenta normal.</li>
-<li><strong><em>Seller</em></strong>: puede ser del tipo <em>White Label </em>o puede ser del tipo no <em>White Label.</em></li>
-</ul>
-Como estos conceptos son independientes, <strong>eventualmente</strong> es posible que una cuenta franquicia opere como seller no White Label de un marketplace que no es la cuenta principal.</p>
-</div>
+>ℹ️ Aunque todas las cuentas franquicia operan como *Sellers White Label* de la cuenta principal, estos conceptos no significan lo mismo. La cuenta franquicia es un tipo de cuenta, mientras que ser *White Label* es una propiedad del *seller*.
+>
+> ***Cuenta**: puede ser del tipo franquicia o puede ser una cuenta normal.
+>
+> ****Seller***: puede ser del tipo *White Label *o puede ser del tipo no *White Label.*
+>
+> Como estos conceptos son independientes, **eventualmente** es posible que una cuenta franquicia opere como seller no White Label de un marketplace que no es la cuenta principal.
 
 ## Configuración de la cuenta franquicia
 
@@ -96,9 +95,7 @@ VTEX ofrece soluciones de _split_ de pagos que pueden hacer que la distribución
 
 Existen varios tipos de configuración posibles para los precios y medios de pago relacionados con las cuentas franquicia en VTEX, que se indican a continuación. Puedes elegir la forma de uso que mejor se adecue a tu negocio.
 
-<div class="alert alert-warning">
-<p>Si deseas implementar la aplicación VTEX Sales App, es necesario que las tiendas físicas utilicen los medios de pago de la cuenta principal.</p>
-</div>
+>⚠️ Si deseas implementar la aplicación VTEX Sales App, es necesario que las tiendas físicas utilicen los medios de pago de la cuenta principal.
 
 ## Solicitar la creación de una cuenta franquicia
 

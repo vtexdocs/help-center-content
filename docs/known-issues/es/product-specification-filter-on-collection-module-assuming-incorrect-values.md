@@ -18,9 +18,7 @@ internalReference: 926593
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En el módulo Recogida, el filtro Especificaciones del producto no funciona correctamente cuando la especificación tiene el tipo "Texto" y "Texto grande". Cuando se selecciona este tipo de especificación, se abre un cuadro de texto para insertar los posibles valores separados por una coma, tabulador o enter. Sin embargo, cuando se teclea un solo carácter, el sistema lo asume como valor incluso sin separar los términos.

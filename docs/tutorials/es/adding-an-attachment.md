@@ -39,9 +39,7 @@ Después de realizar el registro inicial del anexo, es necesario añadir las cla
 3. Haga clic en `Insertar nuevo`. Si lo desea, puede registrar otras claves repitiendo este proceso.
 4. Para finalizar, haga clic en `Guardar`.
 
-<div class="alert alert-warning">
-<p>Es obligatorio completar el campo <strong>Máximo de caracteres</strong>. Si este campo no se completa, el anexo no aparecerá como una opción de selección en el carrito de su cliente.</p>
-</div>
+>⚠️ Es obligatorio completar el campo **Máximo de caracteres**. Si este campo no se completa, el anexo no aparecerá como una opción de selección en el carrito de su cliente.
 
 ## Asociar el anexo a un SKU
 
@@ -56,6 +54,4 @@ Después de crear el anexo de SKU y de configurar las claves y los valores permi
 
 También puede asociar un anexo al SKU [por API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/skuattachment), si lo desea.
 
-<div class="alert alert-warning">
-<p>VTEX no controla el stock de un anexo. Esta es la función del marketplace o del seller.</p>
-</div>
+>⚠️ VTEX no controla el stock de un anexo. Esta es la función del marketplace o del seller.

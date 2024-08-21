@@ -19,9 +19,7 @@ El árbol de la categoría global es la taxonomía creada por Google para el [Me
 
 Las mismas categorías globales están disponibles para los productos de todas las tiendas.
 
-<div class="alert alert-info">
-Para todas las categorías de su tienda es necesario elegir una categoría global.
-</div>
+>ℹ️ Para todas las categorías de su tienda es necesario elegir una categoría global.
 
 ### ¿Por qué usar?
 
@@ -59,9 +57,7 @@ Siempre debe elegir la categoría global que más se ajuste a los productos de l
 
 Lo ideal es que una categoría global se determine en la configuración de categoría. Esto permite que todos los productos de una categoría pertenezcan a la misma categoría global.
 
-<div class="alert alert-danger">
-La elección de una categoría global en el registro del producto solo se recomienda si tiene que configurarse de manera diferente a la categoría en la que se incorporó.
-</div>
+>❗ La elección de una categoría global en el registro del producto solo se recomienda si tiene que configurarse de manera diferente a la categoría en la que se incorporó.
 
 La configuración global de la categoría se realiza en el Admin y es obligatorio rellenarla. Para su configuración, realice los siguientes pasos:
 
@@ -74,6 +70,4 @@ La configuración global de la categoría se realiza en el Admin y es obligatori
 7. Escriba el nombre de la categoría que desea encontrar y haga clic en el ícono <i class="fas fa-search"></i>. Puede utilizar el campo de búsqueda para encontrar la categoría deseada. 
 8. Haga clic en la categoría deseada para seleccionarla y, a continuación, haga clic en el botón `Guardar`. 
 
-<div class="alert alert-info">
-La categoría global también se puede configurar a través de <a href="https://help.vtex.com/es/tutorial/configuring-xml--tutorials_242">XML</a>.
-</div>
+>ℹ️ La categoría global también se puede configurar a través de [XML](https://help.vtex.com/es/tutorial/configuring-xml--tutorials_242).

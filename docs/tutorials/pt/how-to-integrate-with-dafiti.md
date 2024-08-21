@@ -65,9 +65,7 @@ O mapeamento deve ser feito sempre que um produto for enviado pela primeira vez 
 
 Siga o passo a passo abaixo, fazendo o de/para na __Planilha de Mapeamento__ entre o que está cadastrado no seu produto na VTEX e os valores especificados na __Planilha de Consulta__ da Dafiti.
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> qualquer valor usado que não esteja na Planilha de Consulta vai ocasionar em um erro de integração.
-</div>
+>⚠️ **OBS:** qualquer valor usado que não esteja na Planilha de Consulta vai ocasionar em um erro de integração.
 
 1. __SKU:__ é o ID do SKU na VTEX. Esse é o ID do SKU que você deseja enviar para a Dafiti.
 
@@ -89,10 +87,11 @@ Siga o passo a passo abaixo, fazendo o de/para na __Planilha de Mapeamento__ ent
 7. __Modelo:__ preencha com o valor do modelo do seu SKU. Esse campo é livre para ser preenchido da maneira que você achar mais adequada.
 <br/>_`Ex:` você está mapeando uma calça de moletom. Normalmente, a coluna __Modelo__ é preenchida com o valor `Moletom`._
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> na integração brasileira, a Dafiti exige que o nome dos produtos cadastrados sigam o seguinte padrão: <strong>Tipo de Produto + Marca + Modelo + Cor.</strong>
-<br/>
-Sendo assim, sempre que encontrarmos valores para esses quatro campos na VTEX, criaremos o novo nome de produto automaticamente. Se algum dos campos não estiver presente, enviaremos o nome original do produto.</div>
+>⚠️ **OBS:** na integração brasileira, a Dafiti exige que o nome dos produtos cadastrados sigam o seguinte padrão: **Tipo de Produto + Marca + Modelo + Cor.**
+>
+>
+> 
+> Sendo assim, sempre que encontrarmos valores para esses quatro campos na VTEX, criaremos o novo nome de produto automaticamente. Se algum dos campos não estiver presente, enviaremos o nome original do produto.
 
 
 ## Envio de imagens
@@ -108,9 +107,7 @@ Para fazer o envio pela Planilha de Mapeamento, siga este passo a passo:
 
 Você pode enviar até __oito imagens__. Para isso, você vai precisar adicionar novas colunas, seguindo o padrão indicado: `Image_2`, `Image_3`,..., `Image_8`.
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> lembre-se de sempre usar <code>http</code> ou <code>https</code> no início das URLs. Se você não fizer isso, haverá erro ao tentar realizar o upload da planilha na VTEX.
-</div>
+>⚠️ **OBS:** lembre-se de sempre usar `http` ou `https` no início das URLs. Se você não fizer isso, haverá erro ao tentar realizar o upload da planilha na VTEX.
 
 
 ## Envio da Marca do Produto
@@ -118,9 +115,7 @@ Você pode enviar até __oito imagens__. Para isso, você vai precisar adicionar
 A integração vai enviar a marca que está cadastrada no seu produto no catálogo da VTEX.
 <br/>_`Ex:` se você estiver enviando uma camisa da Adidas, a integração vai enviar `Adidas` como marca._
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> semelhante ao que acontece com categoria e especificações, a Dafiti possui marcas mapeadas em sua plataforma. Nesse caso, se algum de seus produtos tem uma marca que não esteja cadastrada na Dafiti, ele vai sofrer um erro de integração. Se isso acontecer, entre em contato com a Dafiti para solicitar o cadastro da marca em questão no sistema deles.
-</div>
+>⚠️ **OBS:** semelhante ao que acontece com categoria e especificações, a Dafiti possui marcas mapeadas em sua plataforma. Nesse caso, se algum de seus produtos tem uma marca que não esteja cadastrada na Dafiti, ele vai sofrer um erro de integração. Se isso acontecer, entre em contato com a Dafiti para solicitar o cadastro da marca em questão no sistema deles.
 
 
 ## Fazendo o upload

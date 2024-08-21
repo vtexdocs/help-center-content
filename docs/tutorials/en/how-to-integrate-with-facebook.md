@@ -52,14 +52,10 @@ __Store site URL__: Fill in the address of your store. Example: `https://www.you
 
 Once setup is complete, you must authorize VTEX to make changes to the shopper's Facebook account. To do this, you need to click the __Authorize__ button on the Facebook card, in the __Integrations__ section. With that, you will be asked to inform the required authorizations.
 
-<div class="alert alert-info">
-To enable the authorization, the Facebook account which has admin privileges in Business Manager must be used. If it lacks privileges, the authorization will not be granted and the process will be stuck in a loop.
-</div>
+>ℹ️ To enable the authorization, the Facebook account which has admin privileges in Business Manager must be used. If it lacks privileges, the authorization will not be granted and the process will be stuck in a loop.
 
 After this step, the integration will create a catalog named `VtexIntegration - {STORE NAME}` in Facebook.
 
 This is the catalog in which items will be created and become available.
 
-<div class="alert alert-info">
-You can use the Facebook pixel app to track and optimize your marketing campaigns' results on your store's Google Tag Manager. Learn the step-by-step <a href="https://www.facebook.com/business/help/1021909254506499">here</a>.
-</div>
+>ℹ️ You can use the Facebook pixel app to track and optimize your marketing campaigns' results on your store's Google Tag Manager. Learn the step-by-step [here](https://www.facebook.com/business/help/1021909254506499).

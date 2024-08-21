@@ -35,12 +35,13 @@ Para realizar a devolução pelo Admin VTEX, realize os seguintes passos:
 
 ![Devolução de itens de um pedido](https://drive.google.com/uc?export=download&id=1o0QkZZpgn7nXD5LVENxmlp9e_PKTGDva)
 
-<div class="alert alert-warning">
-Note que:
-<ul>
-<li>A devolução de um SKU no <b>Gerenciamento de pedidos</b> não atualiza a quantidade de SKUs que estão disponíveis no inventário. A loja deve atualizar a quantidade de itens no <a href="https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139">inventário</a>.</li>
-<li>O número da nota fiscal de devolução deve ser diferente da nota fiscal de venda.</li>
-<li>Após a devolução, o sistema de pagamentos é notificado para a realização do <a href="https://help.vtex.com/pt/tutorial/como-funciona-estorno-quando-ha-devolucao-do-item">estorno</a>.</li>
-<li>Só é possível realizar a devolução de pedidos que têm pelo menos uma nota fiscal inserida na plataforma.</li>
-</ul>
-</div>
+>⚠️ Note que:
+>
+> *A devolução de um SKU no **Gerenciamento de pedidos** não atualiza a quantidade de SKUs que estão disponíveis no inventário. A loja deve atualizar a quantidade de itens no [inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139).
+>
+> *O número da nota fiscal de devolução deve ser diferente da nota fiscal de venda.
+>
+> *Após a devolução, o sistema de pagamentos é notificado para a realização do [estorno](https://help.vtex.com/pt/tutorial/como-funciona-estorno-quando-ha-devolucao-do-item).
+>
+> *Só é possível realizar a devolução de pedidos que têm pelo menos uma nota fiscal inserida na plataforma.
+> 

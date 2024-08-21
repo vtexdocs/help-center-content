@@ -18,9 +18,7 @@ internalReference: 930849
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al crear una promoción de descuento progresivo el cliente puede establecer el activador por colección, por una lista de SKU o por ambas.

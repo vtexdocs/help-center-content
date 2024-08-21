@@ -35,10 +35,9 @@ O tempo até a conclusão do processo depende do tamanho do arquivo. Caso a plan
 
 Por fim, os produtos das linhas da planilha cujas imagens forem processadas com sucesso serão colocados na fila de indexação.
 
-<div class="alert alert-danger">
-<p>Sempre que uma planilha com a informação de imagens for importada, o sistema fará o upload de uma nova imagem para o SKU. Fique atento(a) a possíveis duplicações.</p>
-<p>Se uma planilha com informações enviadas anteriormente para a VTEX for importada uma segunda vez, a importação não irá sobrescrever a imagem antiga: a imagem será <strong>duplicada</strong> no cadastro do SKU.</p>
-</div>
+>❗ Sempre que uma planilha com a informação de imagens for importada, o sistema fará o upload de uma nova imagem para o SKU. Fique atento(a) a possíveis duplicações.
+>
+> Se uma planilha com informações enviadas anteriormente para a VTEX for importada uma segunda vez, a importação não irá sobrescrever a imagem antiga: a imagem será **duplicada** no cadastro do SKU.
 
 ## Como preencher a planilha para importar imagens
 
@@ -53,9 +52,7 @@ A seguir, explicamos o preenchimento de cada campo da planilha de importação d
 
 ### URL
 
-<div class="alert alert-info">
-<p>Este campo é obrigatório. Não é permitido o uso de caracteres especiais, pontos no nome da imagem ou acentos.</p>
-</div>
+>ℹ️ Este campo é obrigatório. Não é permitido o uso de caracteres especiais, pontos no nome da imagem ou acentos.
 
 Este campo precisa ser preenchido com a URL da imagem a ser associada ao SKU, que deve estar pública e hospedada em um servidor FTP, de onde se origina o link da imagem. A URL deve obrigatoriamente iniciar com o identificador de protocolo HTTP (`http://`) e terminar com a extensão do arquivo (`.jpg`, `.png` ou `.gif`). Exemplo: `http://www.exemploimagem.com.br/imagem03/teste01/exemplo15.jpg`.
 
@@ -65,15 +62,11 @@ Você não precisa ter um servidor FTP próprio para enviar as URLs das imagens.
 
 Além disso, para verificar se as URLs estão corretas, você pode utilizar um serviço externo, o qual verifica se estas são válidas.
 
-<div class="alert alert-warning">
-  <p>Recomendamos que cada imagem não ultrapasse 3000 KB (3 MB).</p>
-</div>
+>⚠️ Recomendamos que cada imagem não ultrapasse 3000 KB (3 MB).
 
 ### NomeImagem
 
-<div class="alert alert-info">
-<p>Este campo é obrigatório. Não é permitido o uso de caracteres especiais, acentos e espaços em branco.</p>
-</div>
+>ℹ️ Este campo é obrigatório. Não é permitido o uso de caracteres especiais, acentos e espaços em branco.
 
 O nome da imagem é o que vem depois da última `/` na URL da imagem, incluindo a extensão do arquivo. Portanto, esse campo precisa ser preenchido com o nome e a extensão do arquivo (`.jpg`, `.png` ou `.gif`). Exemplo: `exemplo15.jpg`.
 
@@ -81,27 +74,23 @@ Esse nome será relacionado à imagem no gerenciador de arquivos do Portal CMS L
 
 ### TextoImagem
 
-<div class="alert alert-info">
-<p>Não é permitido o uso de caracteres especiais e acentos neste campo.</p>
-<p>Não é permitido utilizar o mesmo valor no campo <strong>Label</strong> e no campo <strong>TextoImagem</strong>.</p>
-</div>
+>ℹ️ Não é permitido o uso de caracteres especiais e acentos neste campo.
+>
+> Não é permitido utilizar o mesmo valor no campo **Label** e no campo **TextoImagem**.
 
 O __TextoImagem__ precisa ser preenchido com o texto que será associado à sua imagem. Ele ficará registrado no cadastro do SKU na aba __Imagens__, no campo __Texto__.
 
 ### Label
 
-<div class="alert alert-info">
-<p>Este campo é obrigatório. Não é permitido o uso de caracteres especiais, acentos e espaços em branco.</p>
-<p>Não é permitido utilizar o mesmo valor no campo <strong>Label</strong> e no campo <strong>TextoImagem</strong>.</p>
-</div>
+>ℹ️ Este campo é obrigatório. Não é permitido o uso de caracteres especiais, acentos e espaços em branco.
+>
+> Não é permitido utilizar o mesmo valor no campo **Label** e no campo **TextoImagem**.
 
 __Label__ é a “etiqueta” usada para facilitar na organização do template das páginas do seu site, através do referenciamento do valor preenchido nesta. Exemplos: frontal, lateral, superior.
 
 ### IdSku
 
-<div class="alert alert-info">
-<p>O preenchimento deste campo é obrigatório. A ID informada precisa ser correspondente à ID de um SKU já existente no <strong>Catálogo</strong>.</p>
-</div>
+>ℹ️ O preenchimento deste campo é obrigatório. A ID informada precisa ser correspondente à ID de um SKU já existente no **Catálogo**.
 
 O ID do SKU é o código que identifica o SKU que será associado à imagem. É possível obter este código através da exportação de __Produtos e SKUs__ — leia o artigo [Como exportar planilha de produtos
 ](https://help.vtex.com/pt/tutorial/como-exportar-planilha-de-produtos--2sIroGeqZqaN3NAvaSGwWV) para mais informações.

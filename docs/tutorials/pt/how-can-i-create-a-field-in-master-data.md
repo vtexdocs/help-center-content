@@ -43,7 +43,7 @@ Confira o passo a passo:
 12. Clique no botão vermelho __Ok.__
 13. Clique no botão cinza __Ok.__
 
-<div class="alert alert-info">Mais informações sobre <strong>Configurações gerais</strong> e <strong>Configurações de busca e de filtro</strong> podem ser encontradas na sessão <strong>Como configurar</strong> do artigo <a href="https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#como-configurar">Criar entidade de dados</a>.</div>
+>ℹ️ Mais informações sobre **Configurações gerais** e **Configurações de busca e de filtro** podem ser encontradas na sessão **Como configurar** do artigo [Criar entidade de dados](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#como-configurar).
 
 ![criar campo master data ds](https://images.ctfassets.net/alneenqid6w5/5cWru1fi0SyEAOoEbgShOI/95cabcfa4a60032d87c3294773ba4fd0/criar_campo_master_data_ds.gif)
 

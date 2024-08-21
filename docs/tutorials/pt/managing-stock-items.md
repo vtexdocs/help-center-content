@@ -22,9 +22,7 @@ Este artigo contém informações sobre a página **Gerenciamento de inventário
 * [As informações do inventário estão divididas](#informacoes-do-inventario).
 * [Os filtros de busca estão dispostos para facilitar a procura de SKUs específicos](#filtros-de-busca).
 
-<div class="alert alert-info"> 
-Para acessar o inventário utilizando SKUs, docas ou estoques via API, utilize a <a href="https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-"> Inventory API </a>.
-</div>
+>ℹ️ Para acessar o inventário utilizando SKUs, docas ou estoques via API, utilize a [ Inventory API ](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 
 Outras ações possíveis na página **Gerenciamento de inventário** são:
 
@@ -50,9 +48,7 @@ No Admin VTEX, acesse **Catálogo > Inventário > Gerenciamento de inventário**
     * **Estoque infinito:** permite registrar unidades infinitas do SKU, fazendo com que ele esteja sempre disponível para o checkout da sua loja. Isso descarta a necessidade de atualização da contagem desse SKU.
     * **Lead time (dias):** configuração opcional do tempo de envio a nível de SKU. Defina um tempo para o SKU de um estoque e ele será considerado no [cálculo](https://help.vtex.com/pt/tutorial/como-funciona-o-calculo-de-envio--tutorials_116) do tempo de envio do pedido. Por padrão, o [lead time](https://help.vtex.com/pt/tutorial/lead_time-shipping-time-at-sku-level--16yv5Mkj6bTyWR1hCN2f4B) vem definido como zero dias e sua contagem é feita em dias úteis. Você pode alterar a [contagem para dias corridos](https://help.vtex.com/pt/tutorial/lead_time-shipping-time-at-sku-level--16yv5Mkj6bTyWR1hCN2f4B#configurar-a-contagem-do-lead-time-em-dias-do-calendario-opcional) e, se desejar configurar horas, minutos e segundos, pode usar o endpoint [Update inventory by SKU and warehouse](https://developers.vtex.com/docs/api-reference/logistics-api#put-/api/logistics/pvt/inventory/skus/-skuId-/warehouses/-warehouseId-).
 
-<div class="alert alert-warning">
-Para garantir que os itens adicionados ao estoque fiquem disponíveis para venda na loja, o ID dos SKUs não deve conter o número zero à esquerda. O sistema não reconhece, por exemplo, IDs no formato <code>01, 02, 021,</code> pois é esperado o formato<code> 1, 2, 21</code>.
-</div>
+>⚠️ Para garantir que os itens adicionados ao estoque fiquem disponíveis para venda na loja, o ID dos SKUs não deve conter o número zero à esquerda. O sistema não reconhece, por exemplo, IDs no formato `01, 02, 021,` pois é esperado o formato` 1, 2, 21`.
 
 A quantidade total de itens na página **Gerenciamento de inventário** é atualizada em tempo real, mas pode haver um atraso de até 1 hora para a informação aparecer no [registro de atualizações](https://help.vtex.com/pt/tutorial/historico-de-movimentacoes-do-inventario--5AM7xbmMzmKSEQewakamc2).
 
@@ -68,9 +64,7 @@ Na **Gerenciamento de inventário**, para realizar uma busca pela barra, basta d
 
 *   **Estoque:** selecione um ou mais estoques desejados para retornar todos os itens presentes.
 
-<div class="alert alert-danger">
-A lista do inventário é limitada em até dez mil linhas. Isso significa que, mesmo que um SKU não esteja disponível na lista, ele pode ser encontrado ou acessado utilizando os filtros. O limite de linhas para o inventário melhorar a performance das consultas. Para acessar um SKU que não está disponível na página, busque ou utilize os filtros para maior precisão na busca.
-</div>
+>❗ A lista do inventário é limitada em até dez mil linhas. Isso significa que, mesmo que um SKU não esteja disponível na lista, ele pode ser encontrado ou acessado utilizando os filtros. O limite de linhas para o inventário melhorar a performance das consultas. Para acessar um SKU que não está disponível na página, busque ou utilize os filtros para maior precisão na busca.
 
 ## Artigos relacionados
 

@@ -18,9 +18,7 @@ internalReference: 402976
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 No componente ["vtex.product-list"](https://github.com/vtex-apps/product-list), utilizado no Minicart IO/SF ([vtex.minicart](https://github.com/vtex-apps/minicart) v2) ou no "Cart v0" ([vtex.checkout-cart](https://github.com/vtex-apps/checkout-cart)), quando um carrinho tem o mesmo item fatiado em mais de uma ocorrência (por exemplo, quando é necessário para o rateio de descontos ou talvez quando tem itemAttachments), para alterar a quantidade para sua segunda ocorrência chamará o API para sua primeira ocorrência, portanto, a quantidade somada para o item estará errada.
 

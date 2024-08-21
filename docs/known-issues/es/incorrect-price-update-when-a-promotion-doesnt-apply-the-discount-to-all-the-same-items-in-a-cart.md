@@ -18,9 +18,7 @@ internalReference: 1025539
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando una promoción aplica un descuento a un solo artículo de la misma SKU (por ejemplo, una promoción Más por Menos), si hay una segunda promoción para esa misma SKU, el cálculo del descuento se aplicará a la cantidad ya descontada por la primera promoción - resultando en un descuento menor que el que se aplicaría si la segunda promoción se aplicara al precio inicial de la SKU.

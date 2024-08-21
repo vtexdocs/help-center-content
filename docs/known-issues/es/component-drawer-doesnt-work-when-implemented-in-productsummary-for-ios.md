@@ -18,9 +18,7 @@ internalReference: 833338
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando el componente "drawer" se implementa en "product-summary", hace que la página se recargue después de la página 3 en iOS, y puede que se muestre un mensaje de error.

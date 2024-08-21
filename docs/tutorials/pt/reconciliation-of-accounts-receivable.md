@@ -41,9 +41,7 @@ Para isso, confira o passo a passo:
 6. Selecione um __mês__ do ano;
 7. Clique no botão cinza __Exportar__.
 
-<div class="alert alert-info">
-<strong>Atenção</strong>: o relatório apresenta as datas de captura do adquirente. Ou seja, o momento em que o adquirente detectou o pagamento da compra. Por outro lado, o dia em que a compra foi feita pode ser consultado no módulo Gerenciamento de Pedidos. 
-</div>
+>ℹ️ **Atenção**: o relatório apresenta as datas de captura do adquirente. Ou seja, o momento em que o adquirente detectou o pagamento da compra. Por outro lado, o dia em que a compra foi feita pode ser consultado no módulo Gerenciamento de Pedidos.
 
 Por fim, o relatório é encaminhado para a pasta de download do computador.
 

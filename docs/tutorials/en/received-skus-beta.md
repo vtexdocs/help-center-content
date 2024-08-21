@@ -56,9 +56,7 @@ To check all the specifications of a product, click the name of the product. Thi
 
 The __Issues__ tab contains all the offers that haven't been approved because they have issues that need to be corrected by the seller. The filters, actions, and identification fields of the Issues tab are similar to the ones in the __[Pending](#pending)__ tab.  
 
-<div class="alert alert-info">
- The <b>Issues</b> tab doesn't have the option to request a correction.
-</div>
+>ℹ️ The **Issues** tab doesn't have the option to request a correction.
 
 To identify the issue of an offer, simply click the name of the product. This will open a window with the product information, an error message, and the offer reviewer.  
 
@@ -86,9 +84,7 @@ Each row in the list represents a product and contains the following information
 - __Seller:__ Name of the seller who sent the offer.  
 - __Submitted Date:__ Date when the offer was sent to the marketplace.  
 
-<div class="alert alert-info">
-The offers in this tab are being evaluated by Matcher and Offer Quality or autoApprove, if they're configured. After evaluation, the offer can be sent to the <b>Pending, Issues, Approved, or Blocked</b> tabs, depending on the requirements.
-</div>
+>ℹ️ The offers in this tab are being evaluated by Matcher and Offer Quality or autoApprove, if they're configured. After evaluation, the offer can be sent to the **Pending, Issues, Approved, or Blocked** tabs, depending on the requirements.
 
 ### Blocked  
 
@@ -127,17 +123,13 @@ In this case, the items will be sorted in ascending or descending order when you
 
 All the SKUs displayed in the list are available for cataloging. However, we recommend [mapping the categories and brands](https://help.vtex.com/pt/tutorial/mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta--6NU8LwR6i0tTb8nk30bnbE) before this step to streamline the cataloging process.  
 
-<div class="alert alert-warning">
-The offers in the Pending tab are only available for 30 days. After this period, they automatically expire and the seller will need to submit them again.
-</div>
+>⚠️ The offers in the Pending tab are only available for 30 days. After this period, they automatically expire and the seller will need to submit them again.
 
 ### Cataloging options
 
 To catalog an offer, access the __Received SKUs__ page on the VTEX Admin by going to __Marketplace > Received SKUs__ or typing __Received SKUs__ in the Admin search bar.  
 
-<div class="alert alert-info">
-All the offers on the Pending tab can be cataloged individually or in bulk.
-</div>
+>ℹ️ All the offers on the Pending tab can be cataloged individually or in bulk.
 
 The available cataloging actions are:  
 
@@ -148,9 +140,7 @@ The available cataloging actions are:
 3. 	Complete the Category and Brand fields for each product. If the mapping was previously completed, the fields will be filled automatically.  
 4. 	Click `Approve`.  
 
-<div class="alert alert-info">
-This action can be applied in the offer tabs <b>Pending</b> and <b>Issues</b>.
-</div>
+>ℹ️ This action can be applied in the offer tabs **Pending** and **Issues**.
 
 ![received-skus-create-new-product-en](https://images.ctfassets.net/alneenqid6w5/4H2vmekbrtbXQXUVrwVoSF/2d18fb18e7711cb4cd341795ac0820b4/received-skus-create-new-product-en.png)
 
@@ -167,9 +157,7 @@ Imagine that a marketplace already has the White Shirt SKU in S, M, and L, and a
 
 Creating a new link groups the new sizes with the existing ones. After this, the product will have XS, S, M, L, and XL as available sizes.  
 
-<div class="alert alert-info">
-This action can be applied in the offer tabs <b>Pending</b> and <b>Issues</b>.
-</div>  
+>ℹ️ This action can be applied in the offer tabs **Pending** and **Issues**.  
 
 ![received-skus-bind-to-product-en](https://images.ctfassets.net/alneenqid6w5/2fAWptfykAdJ3UTDSCpNhW/fc02d18fe2771b0603f861f8516ab7ae/received-skus-bind-to-product-en.png)
 
@@ -186,9 +174,7 @@ A possible use case would be a marketplace that has Phone XYZ with a 128 GB memo
 
 Now, let's say the marketplace received the same 128 GB SKU from Seller 2. To avoid duplicates in the catalog, the marketplace would have to link these two SKUs.  
 
-<div class="alert alert-info">
-This action can be applied in the offer tabs <b>Pending</b> and <b>Issues</b>.
-</div>
+>ℹ️ This action can be applied in the offer tabs **Pending** and **Issues**.
 
 ![received-skus-bind-to-sku-en](https://images.ctfassets.net/alneenqid6w5/2326FaqSqhPfQ0qeiD8KWE/8bc6c9b98e03afe02252bd69342005d1/received-skus-bind-to-sku-en.png)
 
@@ -201,9 +187,7 @@ This action can be applied in the offer tabs <b>Pending</b> and <b>Issues</b>.
 
 When the marketplace blocks a SKU, it won't be included with other submitted offers the next time that the seller sends products. A SKU can be unblocked using a REST API if the marketplace wants to receive it as a suggestion from the seller. To learn more about SKU approval, see [Send SKU Suggestion](https://developers.vtex.com/docs/api-reference/marketplace-apis-suggestions#put-/suggestions/-sellerId-/-sellerSkuId-).  
 
-<div class="alert alert-info">
-This action can be applied in the offer tabs <b>Pending</b> and <b>Issues</b>. Blocked offers can be viewed in the <b>Blocked</b> tab.
-</div>
+>ℹ️ This action can be applied in the offer tabs **Pending** and **Issues**. Blocked offers can be viewed in the **Blocked** tab.
 
 ![received-skus-reject-and-block-en](https://images.ctfassets.net/alneenqid6w5/3rfJ5AjzArgvv7thlD3keQ/247d5dcfb554755d091b1367d84db2d5/received-skus-reject-and-block-en.png)
 
@@ -214,9 +198,7 @@ This action can be applied in the offer tabs <b>Pending</b> and <b>Issues</b>. B
 3. 	Enter the information that needs correction in the Corrections field.  
 4. 	Click Reject.  
 
-<div class="alert alert-info">
-	<p>This action can be applied in the offer tab <b>Pending</b>. The offers that need correction will show in the <b>Issues</b> tab.</p>
-</div>  
+>ℹ️ This action can be applied in the offer tab **Pending**. The offers that need correction will show in the **Issues** tab.  
 
 ![received-skus-reject-for-correction-en](https://images.ctfassets.net/alneenqid6w5/62XmAvuM9luOqmLCwLpW2A/7d456cf95d5a4ed7011accdfe0550fba/received-skus-reject-for-correction-en.png)
 

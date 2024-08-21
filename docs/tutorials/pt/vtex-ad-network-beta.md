@@ -72,9 +72,7 @@ Este processo de priorização ocorre em três etapas:
 
 Uma vez determinados os anúncios exibidos na página, determina-se o valor dos lances. O lance vencedor do leilão terá o valor final do segundo maior lance mais R$ 0,01.
 
-<div class="alert alert-danger">
-É possível que nenhum anúncio seja selecionado com o processo de priorização, caso não haja produtos promovidos que se encaixem no contexto de navegação, na cobertura de loja ou que não tenham orçamento disponível.
-</div>
+>❗ É possível que nenhum anúncio seja selecionado com o processo de priorização, caso não haja produtos promovidos que se encaixem no contexto de navegação, na cobertura de loja ou que não tenham orçamento disponível.
 
 ### Índice de qualidade
 
@@ -109,9 +107,7 @@ Confira abaixo como você pode fazer parte do **VTEX Ad Network**, seja como [lo
 
 ### Lojas
 
-<div class="alert alert-warning">
-Por ora, apenas lojas desenvolvidas com <a href="https://help.vtex.com/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework">Store Framework</a> podem disponibilizar espaço de anúncios.
-</div>
+>⚠️ Por ora, apenas lojas desenvolvidas com [Store Framework](https://help.vtex.com/pt/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework) podem disponibilizar espaço de anúncios.
 
 Para disponibilizar espaço publicitário na sua loja, você precisa entrar em contato com o [Suporte Comercial](https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ) para solicitar a instalação do app __VTEX Ad Network para lojas__ na sua conta VTEX.
 

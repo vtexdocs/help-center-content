@@ -18,9 +18,7 @@ internalReference: 558065
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando a transação com o Boleto Bancário usando o conector BrasPag é aprovada, pagamento em autorizado e o API Liquidar a transação é chamado, ocorre um erro na captura devido ao status é como liquidar, o que não permite que a transação seja efetivamente capturada.

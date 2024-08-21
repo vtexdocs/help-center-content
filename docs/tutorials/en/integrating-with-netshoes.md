@@ -45,17 +45,13 @@ Netshoes is one of the largest marketplaces of sporting goods and is available f
 
 _`Example:` suppose you use Correios (PAC) as a carrier and your Carrier Type in the Carriers dashboard is named "Normal". Then, you should write in the field the name __Normal__. Remember that the word should be exactly the same as the one registered in the Inventory & shipping section._
 
-<div class="alert alert-warning">
-<strong>Note:</strong> If the field is left blank, the integration will use the <strong>cheapest carrier available</strong> when integrating the order.
-</div>
+>⚠️ **Note:** If the field is left blank, the integration will use the **cheapest carrier available** when integrating the order.
 
 - __Delivery Type Mapping (SLA) -> Express:__ the [type of carrier](/en/tutorial/how-does-the-type-of-delivery-work) that you want to use for __express__ deliveries.
 
 _`Example:` Suppose  you use the XPTO carrier, which delivers faster but is more expensive. Your Carrier Type in the Carriers dashboard is called "Fast Delivery." Then, you must write in the field the name __Fast Delivery__. Remember that the word should be exactly the same as the one registered in the Inventory & shipping section_.
 
-<div class="alert alert-warning">
-<strong>Note:</strong> If the field is left blank, the integration will use the <strong>cheapest carrier available</strong> at the time of the order.
-</div>
+>⚠️ **Note:** If the field is left blank, the integration will use the **cheapest carrier available** at the time of the order.
 
 _Subtitle:_<br />
 `*` Required fields.<br />
@@ -86,11 +82,9 @@ The implementation of this API allows Netshoes to consult, in real time, the pri
 
 `http://{accountName}.vtexcommercestable.com.br/api/netshoesintegration/freight`
 
-<div class="alert alert-warning">
-<strong>Note:</strong> If Delivery Mappings are not made, there will be no return of shipping and delivery information for this API.</div>
+>⚠️ **Note:** If Delivery Mappings are not made, there will be no return of shipping and delivery information for this API.
 
-<div class="alert alert-warning">
-<strong>Note 2:</strong> For the API query to be successful, the carrier ID and the warehouse dock ID in VTEX must be a value that contains only numbers.</div>
+>⚠️ **Note 2:** For the API query to be successful, the carrier ID and the warehouse dock ID in VTEX must be a value that contains only numbers.
 
 This is the _second step_ of the integration. In order to complete the process, you must send the specifications of your products to Netshoes.
 
@@ -111,9 +105,7 @@ Mapping should be done whenever a product is first sent to Netshoes. This means 
 
 Follow the step-by-step below making the correspondence in the __Mapping Spreadsheet__ between what is registered in your product in VTEX and the values specified according to the Netshoes __Query Spreadsheet__.
 
-<div class="alert alert-warning">
-<strong>Note:</strong> Any value that is not in the Query Spreadsheet will lead to an integration error.
-</div>
+>⚠️ **Note:** Any value that is not in the Query Spreadsheet will lead to an integration error.
 
 1. __SKU ID:__ it is the SKU ID in VTEX. This is the SKU ID that you want to send to Netshoes.
 
@@ -127,8 +119,7 @@ Follow the step-by-step below making the correspondence in the __Mapping Spreads
 <br/>_`Example:` You are mapping a Nike shirt. According to the Query Spreadsheet, the __Brand__ column must be filled with the value `Nike`._
 <br/>
 
-<div class="alert alert-warning">
-<strong>Note:</strong> if the brand you have in your products is not on the Query Spreadsheet, contact Netshoes and ask them to include it in the system. As soon as they confirm the registration, you can use the brand in the mapping. If they have not yet registered it, there will be an integration error for that product.</div>
+>⚠️ **Note:** if the brand you have in your products is not on the Query Spreadsheet, contact Netshoes and ask them to include it in the system. As soon as they confirm the registration, you can use the brand in the mapping. If they have not yet registered it, there will be an integration error for that product.
 
 5. __Color__: fill it in with the SKU Color value.
 <br/>_`Example:` you are mapping a blue and white shorts. According to the Query Spreadsheet, the __Color__ column must be filled with the value `Blue+White`._

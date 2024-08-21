@@ -26,9 +26,7 @@ Antes de crear una campaña de promoción, debe crear un público de campaña pa
 
 Ejemplo: si configura una [audiencia de campaña](https://help.vtex.com/es/tutorial/Crear-audiencia-de-campanas--6cnuDZJzIkIeocewAQQK4K) cuyo público objetivo son los clientes que ponen el «producto A» en el carrito, en la promoción de la campaña puede configurar que este público reciba un descuento en el «producto B».
 
-<div class="alert alert-info">
-  <p>Los públicos de las campañas y sus promociones solo son válidos para la cuenta principal de la tienda. Las cuentas de <i>sellers</i> no tienen esta opción. Si se crean en una cuenta de <i>seller</i>, el público de campaña o la promoción de campaña no se activarán.</p>
-</div>
+>ℹ️ Los públicos de las campañas y sus promociones solo son válidos para la cuenta principal de la tienda. Las cuentas de <i>sellers</i> no tienen esta opción. Si se crean en una cuenta de <i>seller</i>, el público de campaña o la promoción de campaña no se activarán.
 
 Después de definir la [audiencia de la campaña](https://help.vtex.com/es/tutorial/Crear-audiencia-de-campanas--6cnuDZJzIkIeocewAQQK4K), acceda al Admin y siga los pasos a continuación para crear una promoción de campaña.
 
@@ -135,9 +133,7 @@ Vea a continuación un ejemplo de cómo rellenarlo. En este caso, participan en 
 
 En los campos **Productos** y **SKUs**, se puede cargar un archivo **.txt** con un ID de producto o de SKU por fila, en vez de seleccionar un producto o un SKU a la vez. Para ello, debe hacer clic en **Elegir archivo** y seleccionar el archivo **.txt** deseado.
 
-<div class="alert alert-warning">
-  <p>Si selecciona <b>Aplicar a los siguientes productos</b> y no rellena ninguno de los criterios de selección, la promoción no se creará y aparecerá el mensaje <b>Defina los productos elegibles o aplique a todos los productos</b>. En este caso, debe volver y rellenar los criterios de selección o elegir <b>Aplicar a todos los productos</b>.</p>
-</div>
+>⚠️ Si selecciona **Aplicar a los siguientes productos** y no rellena ninguno de los criterios de selección, la promoción no se creará y aparecerá el mensaje **Defina los productos elegibles o aplique a todos los productos**. En este caso, debe volver y rellenar los criterios de selección o elegir **Aplicar a todos los productos**.
 
 Para ser válidos en la promoción, los productos deben cumplir todas las condiciones registradas en esta sección.
 

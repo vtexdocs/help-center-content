@@ -86,9 +86,7 @@ Para vincular un servicio a un SKU, sigue los pasos a continuación:
 ### Campos de la plantilla
 Maneja la plantilla con cuidado, comprobando siempre que la información está correctamente rellenada. Todos los campos de la plantilla deben rellenarse para evitar errores.
 
-<div class="alert alert-warning">
-  <p>Al rellenar la plantilla, no cambie ni elimine los títulos de las columnas en la línea 1. Rellene los valores deseados en las líneas posteriores a los títulos de las columnas para que la importación funcione correctamente.</p>
-</div>  
+>⚠️ Al rellenar la plantilla, no cambie ni elimine los títulos de las columnas en la línea 1. Rellene los valores deseados en las líneas posteriores a los títulos de las columnas para que la importación funcione correctamente.  
 
 - **Nome Serviço:** es el nombre del servicio.
 - **Texto Serviço:** es el texto que se mostrará junto con el servicio.

@@ -18,9 +18,7 @@ internalReference: 921944
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Somente no Safari/iOS, ao preencher o número do documento e percorrer os campos de dados do cliente, o campo do número do documento (RUT) terá o último dígito excluído.

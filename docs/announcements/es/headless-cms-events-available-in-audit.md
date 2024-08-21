@@ -38,9 +38,7 @@ En la columna **Acción**, todos los eventos de Headless CMS también muestran l
 * **VARIANT_ID:** código identificador único de la versión del contenido.
 * **WORKSPACE**: workspace en el que se realizó el cambio.
 
-<div class="alert alert-info">
-  <p>Consulta la<a href="https://help.vtex.com/es/tutorial/eventos-disponibles-en-audit--6r1Mzcu5NmkmmDLJlz9CCZ"> lista completa de eventos disponibles en Audit</a>.</p>
-</div>
+>ℹ️ Consulta la[ lista completa de eventos disponibles en Audit](https://help.vtex.com/es/tutorial/eventos-disponibles-en-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
 
 ## ¿Qué se necesita hacer?
 

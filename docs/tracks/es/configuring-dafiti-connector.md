@@ -44,9 +44,7 @@ La configuración del conector se realiza en el Admin. Para completarla, siga la
 
 - **Enviar Kit*:** si selecciona _No_, los SKU [registrados como kits](https://help.vtex.com/es/tutorial/cadastrando-kit--tutorials_215) no se enviarán a Dafiti. Al activar el _Sí_, todos los ítems de su política comercial se enviarán al marketplace, sin filtrar los SKU registrados como kits. Se pueden realizar cambios en la configuración del conector en cualquier momento, y esto no afecta a los SKU que ya han sido enviados. Por ejemplo, si cambiara su configuración de _Sí_ a _No_, los SKU enviados previamente a Dafiti no se eliminarán ni tendrán ningún cambio.
 
-  <div class="alert alert-info">
-Si se activa la opción <i>No</i>, los intentos de enviar SKU registrados como kits a Dafiti generarán el siguiente mensaje de advertencia: <i>«El conector está configurado para no enviar los SKU del tipo Kit»</i>. Este mensaje puede verse en Admin, en el módulo <b>MARKETPLACE > Integraciones > Productos,</b> al hacer clic en el SKU.
-</div>
+  >ℹ️ Si se activa la opción <i>No</i>, los intentos de enviar SKU registrados como kits a Dafiti generarán el siguiente mensaje de advertencia: <i>«El conector está configurado para no enviar los SKU del tipo Kit»</i>. Este mensaje puede verse en Admin, en el módulo **MARKETPLACE > Integraciones > Productos,** al hacer clic en el SKU.
 
 - **Nombre de SKU*:** determina cuál será la regla para nombrar los SKU en el portal de Dafiti. Debe seleccionar una de las combinaciones disponibles de los siguientes atributos: _Marca_, _Nombre del Producto_ y _Nombre del SKU._
 

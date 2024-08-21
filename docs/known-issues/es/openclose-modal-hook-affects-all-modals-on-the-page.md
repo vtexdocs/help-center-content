@@ -18,9 +18,7 @@ internalReference: 1042165
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al abrir/cerrar un modal la acción afecta a todos los modales de la página

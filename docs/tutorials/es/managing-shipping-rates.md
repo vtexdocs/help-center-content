@@ -22,9 +22,7 @@ Las [tarifas de envío](https://help.vtex.com/es/tutorial/tarifas-de-envio--1Bal
 * [Editar](#editar) las tarifas de envío;
 * [Eliminar](#eliminar) las tarifas de envío.
 
-<div class="alert alert-info">
-Cuando tenga que actualizar o registrar varios precios de envío, recomendamos utilizar la Plantilla de envío (flete) en vez del módulo Tarifas de envío. Si desea comprobar cómo se mostrarán las tarifas de envío registradas al cliente final, utilice el módulo <b><a href="https://help.vtex.com/es/tutorial/simulacao-de-frete--tutorials_144">Simulador de envío</a></b>.
-</div>
+>ℹ️ Cuando tenga que actualizar o registrar varios precios de envío, recomendamos utilizar la Plantilla de envío (flete) en vez del módulo Tarifas de envío. Si desea comprobar cómo se mostrarán las tarifas de envío registradas al cliente final, utilice el módulo **[Simulador de envío](https://help.vtex.com/es/tutorial/simulacao-de-frete--tutorials_144)**.
 
 ## Registrar
 

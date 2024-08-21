@@ -39,9 +39,7 @@ Para configurar o provedor Credimarcas, siga os passos abaixo:
 
 ## Configurar Promissória
 
-<div class="alert alert-warning">
-  <p>Caso ainda não tenha configurado a promissória como método de pagamento em outros conectores de sua loja, acesse <a href="https://help.vtex.com/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ">Configurar pagamentos com Promissória</a>.</p>
-</div>
+>⚠️ Caso ainda não tenha configurado a promissória como método de pagamento em outros conectores de sua loja, acesse [Configurar pagamentos com Promissória](https://help.vtex.com/pt/tutorial/configurar-pagamentos-com-promissoria--5pW7avTwtyQcMu4uiW8quQ).
 
 Para utilizar a Credimarcas com promissórias, siga os passos abaixo:
 

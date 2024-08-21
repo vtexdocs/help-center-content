@@ -18,9 +18,7 @@ internalReference: 395965
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Há uma condição em que os Pedidos de Assinatura não podem ser criados porque estão vinculados a um **presente indisponível**, mesmo que os itens de uma assinatura estejam disponíveis.

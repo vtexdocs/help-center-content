@@ -18,9 +18,7 @@ internalReference: 790828
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En el admin de Fullcleanup, hay un botón para reindexar los productos de la cuenta. Se espera que este botón realice la acción en el primer intento, sin embargo, para que la acción se realice puede ser necesario hacer clic en el botón varias veces.

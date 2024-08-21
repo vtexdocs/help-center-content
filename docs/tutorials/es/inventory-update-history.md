@@ -36,8 +36,6 @@ Para ver los movimientos de un SKU:
   * La cantidad de ítems antes de la actualización.
   * La cantidad de ítems después de la actualización.
 
-<div class="alert alert-warning">
-Solo puedes consultar las últimas 50 actualizaciones en el registro de actualizaciones de un determinado SKU.
-</div>
+>⚠️ Solo puedes consultar las últimas 50 actualizaciones en el registro de actualizaciones de un determinado SKU.
 
 La cantidad total de ítems en la página [Gestión de stock](https://help.vtex.com/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) se actualiza en tiempo real, pero puede haber un retraso de hasta 1 hora para que la información aparezca en el historial de movimientos.

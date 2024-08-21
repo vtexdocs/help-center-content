@@ -15,7 +15,7 @@ legacySlug:
 subcategory: 
 ---
 
-<div class="alert alert-warning">La integración con el Google Shopping por XML es un <strong>método ultrapasado</strong> que no es más recomendado. Vea [aqui](http://help.vtex.com/es/tutorial/nueva-integracion-nativa-con-google-shopping-por-api) cómo funciona la nueva integración del Google Shopping por API.</div>
+>⚠️ La integración con el Google Shopping por XML es un **método ultrapasado** que no es más recomendado. Vea [aqui](http://help.vtex.com/es/tutorial/nueva-integracion-nativa-con-google-shopping-por-api) cómo funciona la nueva integración del Google Shopping por API.
 
 Siguiendo la [Actualización de 2015 de la Especificación del feed del Google Shopping y de la Taxonomía del producto de Google](https://support.google.com/merchants/answer/6231410?hl=pt-BR "Actualización de 2015 de la Especificación del feed del Google Shopping y de la Taxonomía del producto de Google"), incluimos nuevos campos en nuestro formulario de creaciónde XML: Separador de categorías, Categoría Global y Especificaciones de producto.
 

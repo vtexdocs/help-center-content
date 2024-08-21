@@ -19,16 +19,16 @@ El módulo **Inventario y envío** es responsable de la configuración logístic
 
 Este artículo es el primero de una serie de primeros pasos para las configuraciones logísticas. La pista contiene información básica para ayudar a entender la logística en las tiendas VTEX y cómo se estructuran las configuraciones en la plataforma.
 
-<div class="alert alert-danger">
-Antes de configurar la logística de tu tienda, configura lo siguiente:
-<body>
-<ol>
-<li><a href="https://help.vtex.com/es/tutorial/crear-una-politica-comercial--563tbcL0TYKEKeOY4IAgAE">Política comercial</li></a>
-<li><a href="https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR">Catálogo</a></li>
-<li><a href="https://help.vtex.com/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu">Precios</a></li>
-</ol>
-</body>
-</div>
+>❗ Antes de configurar la logística de tu tienda, configura lo siguiente:
+> <body>
+>
+> [Política comercial](https://help.vtex.com/es/tutorial/crear-una-politica-comercial--563tbcL0TYKEKeOY4IAgAE)
+>
+> [Catálogo](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR)
+>
+> [Precios](https://help.vtex.com/es/tracks/precios-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu)
+>
+> </body>
 
 La pista reúne los artículos:
 

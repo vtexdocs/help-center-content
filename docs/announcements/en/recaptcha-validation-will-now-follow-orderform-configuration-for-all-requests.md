@@ -64,17 +64,13 @@ They should be able to follow the diagram below to assess whether an integration
 
 If your development team identified that your integration requires attention, they must follow the instructions provided in the developer guide [Implementing reCAPTCHA in integrations](https://developers.vtex.com/docs/guides/implementing-recaptcha-in-integrations).
 
-<div class="alert alert-warning">
-If you are implementing reCAPTCHA on a native mobile app, use reCAPTCHA v3. Otherwise, reCAPTCHA use v2.
-</div>
+>⚠️ If you are implementing reCAPTCHA on a native mobile app, use reCAPTCHA v3. Otherwise, reCAPTCHA use v2.
 
 Using the reCAPTCHA key returned by the Checkout, the reCAPTCHA widget should be rendered in the user interface of your mobile app/headless storefront (or similar) as described in the [reCAPTCHA v2](https://developers.google.com/recaptcha/docs/display) or [reCAPTCHA v3](https://developers.google.com/recaptcha/docs/v3) documentation provided by Google.
 
 After the shopper has completed the reCAPTCHA challenge, their response (`recaptchaToken`) should be sent to the Checkout API to complete the purchase, as described in the *Final validation* section of [Implementing reCAPTCHA in integrations](https://developers.vtex.com/docs/guides/implementing-recaptcha-in-integrations#final-validation). Checkout API will then [verify the user's response](https://developers.google.com/recaptcha/docs/verify) using the provided token.
 
-<div class="alert alert-danger">
-All integrations using Checkout API to place orders must be reviewed and adjusted before September 1, 2023. Applications that fail to render the reCAPTCHA widget and verify the user's response will not be able to place orders after this date.
-</div>
+>❗ All integrations using Checkout API to place orders must be reviewed and adjusted before September 1, 2023. Applications that fail to render the reCAPTCHA widget and verify the user's response will not be able to place orders after this date.
 
 ## Learn more
 

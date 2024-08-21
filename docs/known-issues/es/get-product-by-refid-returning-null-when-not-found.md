@@ -18,9 +18,7 @@ internalReference: 826702
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La ruta get product by refid (/catalog_system/pvt/products/productgetbyrefid) devuelve un null en lugar de una simple respuesta 404 cuando no se encuentra un id válido en el catálogo de una tienda determinada.

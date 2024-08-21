@@ -22,9 +22,7 @@ Estas variables son propiedades del JSON que constan en el campo __JSON Data__ y
 
 ### Ejemplo
 
-<div class="alert alert-warning">
-Los ejemplos de JSON Data apenas aparecerán en los templates cuando complete la acción deseada en su tienda. Si no ha realizado la transacción de un pedido, una recurrencia o cualquier otra acción, el JSON Data aparecerá en blanco.
-</div>
+>⚠️ Los ejemplos de JSON Data apenas aparecerán en los templates cuando complete la acción deseada en su tienda. Si no ha realizado la transacción de un pedido, una recurrencia o cualquier otra acción, el JSON Data aparecerá en blanco.
 
 Supongamos que desea ingresar el nombre de la transportadora en el correo electrónico de pedido enviado.
 

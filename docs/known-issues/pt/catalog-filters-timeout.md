@@ -18,9 +18,7 @@ internalReference: 922350
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Para lojas com uma grande quantidade de skus (1 milhão ou mais), muitas vezes, ao filtrar usando os filtros da interface do usuário do catálogo, seja para o menu principal ou para a seção de relatórios, se a consulta de filtro retornar um resultado muito grande, a interface do usuário não funcionará mais (504 gateway timeout)

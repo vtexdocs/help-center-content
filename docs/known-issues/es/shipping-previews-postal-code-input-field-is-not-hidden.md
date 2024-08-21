@@ -18,9 +18,7 @@ internalReference: 821984
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Para algunos países, el campo de entrada del código postal de la vista previa de envío no se oculta después de incluir un código postal válido por segunda vez.

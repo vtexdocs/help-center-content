@@ -131,9 +131,7 @@ After understanding and planning the store's [catalog architecture](https://help
 2. **Catalog API:** Create each category by making API calls. For more details, see [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/category).
 3. **Back-office integration:** Import categories from an external back-office software (ERP or PIM) integrated with VTEX. The software may already offer native integration with VTEX or require the development of middleware that uses the [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#overview). See [Category migration from ERP](https://developers.vtex.com/docs/guides/erp-integration-set-up-catalog#category-migration-from-erps) for more details.
 
-<div class="alert alert-warning">
-When importing categories from external software, the category structure in the software may differ from that of VTEX. In this case, we recommend creating an inactive "mock" category. This category will remain invisible on the storefront and serve as a temporary repository to receive all products and SKUs during the import process. Once the import is complete, you can manually organize the products within the VTEX Admin to match the desired category tree.
-</div>
+>⚠️ When importing categories from external software, the category structure in the software may differ from that of VTEX. In this case, we recommend creating an inactive "mock" category. This category will remain invisible on the storefront and serve as a temporary repository to receive all products and SKUs during the import process. Once the import is complete, you can manually organize the products within the VTEX Admin to match the desired category tree.
 
 There are some limitations to be aware of when managing categories:
 
@@ -150,9 +148,7 @@ For more information about importing categories into the back office, check the 
 2. **Catalog API:** Create each brand by making API calls. Learn more in [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/brand).
 3. **Back-office integration:** Import brands from an external back-office software (ERP or PIM) integrated with VTEX. The software may already offer native integration with VTEX or may require the development of middleware that uses the [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#overview). Learn more in [Creating Brands in the Catalog configuration guide for back-office](https://developers.vtex.com/docs/guides/erp-integration-set-up-catalog#create-brands).
 
-<div class="alert alert-warning">
-If the back-office system has no brand information, you can apply the same approach as mentioned previously for category migration by creating an inactive "mock" brand to be used exclusively for migration purposes. Subsequently, product information can then be manually entered.
-</div>
+>⚠️ If the back-office system has no brand information, you can apply the same approach as mentioned previously for category migration by creating an inactive "mock" brand to be used exclusively for migration purposes. Subsequently, product information can then be manually entered.
 
 For more information on importing brands into the back office, check the [Brands](https://developers.vtex.com/docs/guides/brands) article.
 
@@ -203,9 +199,7 @@ You should import products in the order shown in the table below:
 
 <br>
 
-<div class="alert alert-warning">
-The product information in the ERP is often not suitable for use and display in the ecommerce store. For this reason, the information will need to undergo an enhancement process. This can include restructuring categories and creating more descriptive and appealing product descriptions.
-</div>
+>⚠️ The product information in the ERP is often not suitable for use and display in the ecommerce store. For this reason, the information will need to undergo an enhancement process. This can include restructuring categories and creating more descriptive and appealing product descriptions.
 
 After the import, it's also important to ensure that product and SKU information is kept up to date. You can check the instructions in the [Update or delete information](https://developers.vtex.com/docs/guides/erp-integration-updating-and-deleting-information) article.
 

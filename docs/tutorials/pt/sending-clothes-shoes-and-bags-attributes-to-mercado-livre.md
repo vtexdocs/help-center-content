@@ -15,9 +15,7 @@ legacySlug: envio-dos-atributos-de-roupas-calcados-e-bolsas-para-o-mercado-livre
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-<div class="alert alert-info">
-O envio dos atributos dos produtos de tipo Roupas, Calçados ou Bolsas segue um fluxo diferente dos demais. Neste processo de mapeamento, o resultado é que os SKUs serão mostrados todos no mesmo anúncio. Para os outros tipos de produto, o Mercado Livre realiza um mapeamento automático.
-</div>
+>ℹ️ O envio dos atributos dos produtos de tipo Roupas, Calçados ou Bolsas segue um fluxo diferente dos demais. Neste processo de mapeamento, o resultado é que os SKUs serão mostrados todos no mesmo anúncio. Para os outros tipos de produto, o Mercado Livre realiza um mapeamento automático.
 
 Para enviar os atributos dos produtos do tipo __Roupas__, __Calçados__ e __Bolsas__ para o Mercado Livre, siga os passos abaixo:
 
@@ -25,9 +23,7 @@ Para enviar os atributos dos produtos do tipo __Roupas__, __Calçados__ e __Bols
 2. Preencha a planilha modelo com os Ids dos SKUs a serem enviados para o Mercado Livre e com os valores de atributos aceitos pelo Mercado Livre. Os valores aceitos podem ser encontrados nos links abaixo.
 3. Salve a planilha modelo com os valores preenchidos. 
 
-<div class="alert alert-info">
-Os valores aceitos pelo Mercado Livre podem ser encontrados nos links a seguir. Clique no nome do seu país para fazer o download. Você vai encontrar códigos referentes a <u>Cor Principal</u>, <u>Cor Secundária</u>, <u>Tamanho de calçado para adultos</u>, <u>Tamanho de calçado para crianças</u>, <u>Tamanho de roupa para adultos</u> e <u>Tamanho de roupa para crianças</u>. Estes valores deve ser preenchidos adequadamente nos campos <strong>Cor Principal</strong>, <strong>Cor Secundária</strong> e <strong>Tamanho</strong> da planilha modelo. Com exceção do atributo <em>Cor Secundária</em>, todos os outros campos são obrigatórios (SKU_ID, Cor Principal e Tamanho).
-</div>
+>ℹ️ Os valores aceitos pelo Mercado Livre podem ser encontrados nos links a seguir. Clique no nome do seu país para fazer o download. Você vai encontrar códigos referentes a <u>Cor Principal</u>, <u>Cor Secundária</u>, <u>Tamanho de calçado para adultos</u>, <u>Tamanho de calçado para crianças</u>, <u>Tamanho de roupa para adultos</u> e <u>Tamanho de roupa para crianças</u>. Estes valores deve ser preenchidos adequadamente nos campos **Cor Principal**, **Cor Secundária** e **Tamanho** da planilha modelo. Com exceção do atributo *Cor Secundária*, todos os outros campos são obrigatórios (SKU_ID, Cor Principal e Tamanho).
 
 __Links com os valores aceitos pelo Mercado Livre__:
 

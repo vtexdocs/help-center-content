@@ -18,9 +18,7 @@ internalReference: 618756
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La validación de la dirección en el modo de geolocalización (dirección insertada a través de Google Maps) está eliminando información esencial, como la calle y el número, de las direcciones válidas, afectando al flujo de compra.

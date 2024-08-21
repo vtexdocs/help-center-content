@@ -24,9 +24,7 @@ There are two ways to create a pickup point in the Admin:
 * [Creating pickup points individually](#creating-pickup-points-individually)
 * [Creating pickup points using the template](#reating-pickup-points-using-the-template)
 
-<div class="alert alert-warning">
-Creating pickup points is one of the steps required for the feature to work properly. Please refer to the article <a href="https://help.vtex.com/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R">pickup points</a> to see the other <a href="https://help.vtex.com/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R#setup">settings necessary</a> to make pickup points available to your customers.
-</div>
+>⚠️ Creating pickup points is one of the steps required for the feature to work properly. Please refer to the article [pickup points](https://help.vtex.com/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R) to see the other [settings necessary](https://help.vtex.com/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R#setup) to make pickup points available to your customers.
 
 ## Creating pickup points individually
 
@@ -43,9 +41,7 @@ Creating pickup points is one of the steps required for the feature to work prop
 * **ID:** identification of the pickup point. If this field is not filled in, the system will choose an ID automatically. Do not use space characters.
 * **Third-party pickup point:** check this box if the pickup point is not related to your store. Third-party pickup points are displayed with less relevance than those of your own store.
 
-  <div class="alert alert-danger">
-The <b>Third-party pickup point</b> configuration currently is not available.
-</div>
+  >❗ The **Third-party pickup point** configuration currently is not available.
 
 Select <i class="fas fa-toggle-on"></i> to activate the pickup point.
 
@@ -73,9 +69,7 @@ The address information and the location on the map will be displayed at checkou
     4. Fill in the day and time;
     5. Click on `Add`.
 
-<div class="alert alert-warning">
-The business hours defined for a pickup point are for informative purposes only and are not used for SLA calculation. To change the settings that influence the delivery time frame, please specify the business hours in the <a href="https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140">shipping policy</a> related to the pickup point. Holidays must be configured on the <a href="https://help.vtex.com/en/tutorial/registering-holidays--2ItOthSEAoyAmcwsuiO6Yk">Holidays page</a>, so that they can be considered in the delivery time calculation.
-</div>
+>⚠️ The business hours defined for a pickup point are for informative purposes only and are not used for SLA calculation. To change the settings that influence the delivery time frame, please specify the business hours in the [shipping policy](https://help.vtex.com/en/tutorial/shipping-policy--tutorials_140) related to the pickup point. Holidays must be configured on the [Holidays page](https://help.vtex.com/en/tutorial/registering-holidays--2ItOthSEAoyAmcwsuiO6Yk), so that they can be considered in the delivery time calculation.
 
 ## Creating pickup points using the template
 

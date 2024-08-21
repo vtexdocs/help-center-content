@@ -14,9 +14,7 @@ trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugEN: enabling-cart-transfer-between-devices
 ---
 
-<div class="alert alert-danger">
-The feature that lets you enable Cart Transfer, explained in this article, involves changing the JavaScript file <code>checkout-instore-custom.js</code>. This operation should only be performed by people with programming experience. Incorrect changes to this file can cause critical errors.
-</div>
+>❗ The feature that lets you enable Cart Transfer, explained in this article, involves changing the JavaScript file `checkout-instore-custom.js`. This operation should only be performed by people with programming experience. Incorrect changes to this file can cause critical errors.
 
 The __Cart Transfer__ functionality of the inStore allows a purchase initiated on one device to be completed on any other device present in the purchase flow, without the need to re-beep the products.
 

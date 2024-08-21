@@ -18,9 +18,7 @@ internalReference: 1072418
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, al utilizar el buscador de televentas, un usuario puede suplantar la identidad de compradores para ayudar en las compras y, para ello, es necesario introducir, en el buscador nativo, el email de quien se va a suplantar.

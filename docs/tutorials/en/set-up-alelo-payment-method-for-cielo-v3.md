@@ -17,9 +17,7 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 
 This article will cover how to enable the Alelo grocery voucher card as a payment method in our Checkout module.
 
-<div class="alert alert-info">
-<strong>Warning</strong>: The Alelo grocery voucher card is a payment method valid only in Brazil.
-</div>
+>ℹ️ **Warning**: The Alelo grocery voucher card is a payment method valid only in Brazil.
 
 For the time being, on the VTEX platform, the payment acquirer Cielo is the only one to accept Alelo as a payment  method. The first step must therefore be to enable this payment acquirer as a gateway affiliation in your store. You can check out our full tutorial on these configuration steps [here](https://help.vtex.com/en/tutorial/configurar-adquirente-cielo--3avjZ7q65WcM02K8K0eeWu?locale=en "here"). 
 
@@ -41,6 +39,4 @@ Follow the instructions below:
 8. You can also add __special conditions__ for the payment method by clicking on “Add special condition”. 
 9. __Save__ change to complete the setup.
 
-<div class="alert alert-info">
-<strong>Warning</strong>: Remember that special payment conditions take up to 10 minutes to be applied to Checkout.
-</div>
+>ℹ️ **Warning**: Remember that special payment conditions take up to 10 minutes to be applied to Checkout.

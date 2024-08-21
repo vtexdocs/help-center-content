@@ -14,9 +14,7 @@ trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugEN: changing-the-instore-language
 ---
 
-<div class="alert alert-danger">
-The language change explained in this article involves altering the JavaScript file <code>checkout-instore-custom.js</code>. This operation should only be performed by people with programming experience. Incorrect changes to this file can cause critical errors.
-</div>
+>❗ The language change explained in this article involves altering the JavaScript file `checkout-instore-custom.js`. This operation should only be performed by people with programming experience. Incorrect changes to this file can cause critical errors.
 
 Currently, it is possible to use the inStore in __Portuguese__, __English__, or __Spanish__.
 

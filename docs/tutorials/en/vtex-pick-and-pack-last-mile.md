@@ -26,9 +26,7 @@ With **Last Mile**, merchants have complete visibility of shipping and order tra
 * [Shipping services](#shipping-services)
 * [Settings](#settings)
 
-<div class="alert alert-info">
-To start using Last Mile, it is necessary to adjust the feature's Settings.
-</div>
+>ℹ️ To start using Last Mile, it is necessary to adjust the feature's Settings.
 
 ## Shipping services
 
@@ -88,9 +86,7 @@ To manually create a shipping service from an order, follow the steps below:
 2. Click `Create Service`.
 3. Search the order by entering the order ID in the search box or filter orders by creation date, using the `Filter` button. 
 
-  <div class="alert alert-warning">
-Only orders in the <code>invoiced</code> status will appear in the list and search results.
-</div>
+  >⚠️ Only orders in the `invoiced` status will appear in the list and search results.
 
 4. Click the order.  
 5. Click `Create From Order {order ID}` and you will be redirected to the _New Shipping Service_ page.   
@@ -283,9 +279,7 @@ To activate an external carrier, follow these steps:
 
 The **VTEX Pick and Pack** concept of _user_ is different from the common meaning of the term in VTEX. In **Last Mile**, there is the _admin_ user, but it does not mean the [Sponsor user](https://help.vtex.com/en/tutorial/what-is-the-sponsor-user--3oPr7YuIkEYqUGmEqIMSEy) - also referred as _Admin Super_ and _Owner_.
 
-<div class="alert alert-info">
- For more information, see the articles <a href="https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">Roles</a> and <a href="https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3">License Manager</a> resources.
-</div>
+>ℹ️ For more information, see the articles [Roles](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) and [License Manager](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) resources.
 
 To become an admin user in the **Last Mile** module, you must have certain License Manager permissions. We recommend [creating a role](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) identified as “_Fulfillment admin”_, which must have at least the following products and resources associated with it:
 
@@ -294,9 +288,7 @@ To become an admin user in the **Last Mile** module, you must have certain Licen
 |     Insights    | Insights metrics                                                                                                                                                                                                                                                   |
 | License Manager | Get account by identifier<br>Get applications<br>Find user by email<br>View users with account access<br>View all admin users<br>Get resource by key<br>Get role<br>Get paged roles<br>Get paged users<br>Get admin status<br>Get accounts<br>Get accounts by host |
 |    Field Type   | Field's data type. For Read & Write permission, it can be:<br>Number<br>Text<br>Image<br>Date<br>Barcode<br>Check<br>Email<br>For Read Only permission, it can be Number, Text and Email.                                                                          |
-<div class="alert alert-warning">
-If you are an admin user in <a href="link">VTEX Fulfillment</a>, you will automatically be an admin user in Last Mile.
-</div>
+>⚠️ If you are an admin user in [VTEX Fulfillment](link), you will automatically be an admin user in Last Mile.
 
 In **Users**, you can perform the following actions:
 
@@ -361,9 +353,7 @@ To generate an Api-Key, follow the steps below:
 3. Click `Generate`.
 4. Save the Api-Key in a safe place.
 
-  <div class="alert alert-danger">
-You only see the Api-Key once, you will not be able to access this information again, so make sure it is in a safe place.
-</div>
+  >❗ You only see the Api-Key once, you will not be able to access this information again, so make sure it is in a safe place.
 
 5. Enter the password meant for who is using the mobile application.
 6. Click `Save`.

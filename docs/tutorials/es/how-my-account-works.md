@@ -177,9 +177,7 @@ Para cambiar la contraseña actual:
 4. Haga clic en el botón `GUARDAR CONTRASEÑA` para completar el cambio de contraseña.  
 ![My Authentication change password ES](https://images.ctfassets.net/alneenqid6w5/7qyiWDAjdSBEjppq6Ti94c/55e5cdfbb4f5daeb591eadbbccf82183/My_Authentication_change_password_ES.png)
 
-<div class="alert alert-info">
-Si ha olvidado su contraseña, no podrá recuperarla a través del componente de gestión de contraseña. Para ello, debe cerrar la sesión actual, hacer un intento de inicio de sesión con el email y la contraseña, y hacer clic en el link <strong>Olvidé mi contraseña</strong>.
-</div>
+>ℹ️ Si ha olvidado su contraseña, no podrá recuperarla a través del componente de gestión de contraseña. Para ello, debe cerrar la sesión actual, hacer un intento de inicio de sesión con el email y la contraseña, y hacer clic en el link **Olvidé mi contraseña**.
 
 ### Gestión de sesiones 
 

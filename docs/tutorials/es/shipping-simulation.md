@@ -22,14 +22,14 @@ El simulador también se puede utilizar para validar la configuración de la  **
 * **Disponibilidad de un ítem:** el simulador verifica si el ítem cuenta con _stock_ y si se puede realizar su entrega (si hay transportadoras registradas para esa región, por ejemplo). Si uno de los dos criterios no se cumple, el simulador entiende que el ítem no está disponible.
 * **Disponibilidad de Sellers White Label:** el simulador selecciona al franquiciado más cercano a la dirección de entrega (la configuración logística es calculada a través del ambiente del _Seller White Label_, y no por la Main Account).
 
-<div class="alert alert-warning"> 
-Puede haber una divergencia entre el precio final indicado por el simulador y el precio real en su tienda, ya que la simulación no considera:
-<ul>
-<li>Promociones aplicadas a esos ítems.</li>
-<li>Descuentos de flete configurados a través de promociones.</li>
-<li>El plazo de entrega total que se muestra en el resultado de la simulación no contempla el campo <b>Fecha de previsión de llegada (Preventa)</b>  <a href="https://help.vtex.com/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY">del registro del ítem.</li></a>
-</ul>
-</div>
+>⚠️ Puede haber una divergencia entre el precio final indicado por el simulador y el precio real en su tienda, ya que la simulación no considera:
+>
+> *Promociones aplicadas a esos ítems.
+>
+> *Descuentos de flete configurados a través de promociones.
+>
+> *El plazo de entrega total que se muestra en el resultado de la simulación no contempla el campo **Fecha de previsión de llegada (Preventa)**  [del registro del ítem.](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY)
+> 
 
 ## Simular el envío
 

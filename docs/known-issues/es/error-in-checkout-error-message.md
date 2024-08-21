@@ -18,9 +18,7 @@ internalReference: 409895
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se produce un error en el flujo de pago de afiliación de MercadoPagov2 en la página de pago, los detalles del mensaje se muestran sin formato para acentos y caracteres especiales.

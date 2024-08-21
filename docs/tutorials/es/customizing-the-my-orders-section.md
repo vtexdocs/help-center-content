@@ -21,16 +21,16 @@ Ya está disponible en ambiente beta (`accountname.vtexcommercebeta.com.br`) par
 
 Vea abajo una lista con las clases disponibles para customización:
 
-<div class="alert alert-warning">
-Customizaciones de interface <strong>no son oficialmente soportadas por VTEX</strong>.
-<br />
-<br />
-Estas classes y configuraciones pueden ser alteradas o removidas en futuras actualizaciónes. Como buena práctica, recomendamos tratar errores de Javascript para que su código de customización no quiebre en caso de que una classe sea removida en el futuro.
-</div>
+>⚠️ Customizaciones de interface **no son oficialmente soportadas por VTEX**.
+>
+>
+> 
+>
+>
+> 
+> Estas classes y configuraciones pueden ser alteradas o removidas en futuras actualizaciónes. Como buena práctica, recomendamos tratar errores de Javascript para que su código de customización no quiebre en caso de que una classe sea removida en el futuro.
 
-<div class="alert alert-info">
-En el caso de que poseas un archivo de customización para la antigua versión de MyOrders, recomendamos que coloque la nueva customización en un nuevo archivo separado.
-</div>
+>ℹ️ En el caso de que poseas un archivo de customización para la antigua versión de MyOrders, recomendamos que coloque la nueva customización en un nuevo archivo separado.
 
 ### Lista de pedidos
 

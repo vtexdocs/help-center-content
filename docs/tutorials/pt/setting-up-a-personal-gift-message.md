@@ -51,6 +51,4 @@ Você pode visualizar a mensagem escrita em __Minha Conta > Meus Pedidos__:
 
 ![](https://images.contentful.com/alneenqid6w5/6h7iGpA880OgaemumSsEiG/10764ef2d3113be498fb24802e5d35c5/mensagem-meus-pedidos.png)
 
-<div class="alert alert-info">
-  <p>Após a configuração do serviço no SKU, aguarde a indexação para o cadastro ter efeito no site. Após isto já será possível testar a compra com este serviço ativo.</p>
-</div>
+>ℹ️ Após a configuração do serviço no SKU, aguarde a indexação para o cadastro ter efeito no site. Após isto já será possível testar a compra com este serviço ativo.

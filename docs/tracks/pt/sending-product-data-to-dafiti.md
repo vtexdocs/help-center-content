@@ -23,9 +23,7 @@ Para fazer o mapeamento, siga os passos abaixo:
 3. [Preencher a planilha de mapeamento](#3-preencher-a-planilha-de-mapeamento)
 4. [Fazer upload da planilha de mapeamento](#4-fazer-upload-da-planilha-de-mapeamento)
 
-<div class="alert alert-warning">
-Para cadastrar um produto na VTEX, é obrigatório que você vincule o produto a uma marca. Entretanto, para evitar problemas com o envio de produtos, você deve <a href="https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke">preencher</a> o campo <strong>Marca</strong> do produto que será enviado com os nomes das marcas aceitas na Dafiti. Consulte o <a href="https://www.dafiti.com.br/marcas/">glossário de marcas</a> da Dafiti para verificar as marcas aceitas.
-</div>
+>⚠️ Para cadastrar um produto na VTEX, é obrigatório que você vincule o produto a uma marca. Entretanto, para evitar problemas com o envio de produtos, você deve [preencher](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) o campo **Marca** do produto que será enviado com os nomes das marcas aceitas na Dafiti. Consulte o [glossário de marcas](https://www.dafiti.com.br/marcas/) da Dafiti para verificar as marcas aceitas.
 
 ## 1. Fazer download da planilha de consulta da Dafiti
 
@@ -55,9 +53,7 @@ O modelo de planilha de mapeamento fornecido é dividido em três abas:
 | **Attributenames** | Faz a equivalência entre o nome do campo de especificação na VTEX e nome da variação / atributo na Dafiti. |
 | **Attributevalues** | Faz a equivalência entre os valores do campo da especificação na VTEX e valores  da variação / atributo na Dafiti. |
 
-<div class="alert alert-info">
-  A planilha de mapeamento da Dafiti é <em>case sensitive</em>, ou seja, faz distinção entre letras maiúsculas e minúsculas. Leve este fato em consideração quando preencher a planilha.
-</div>
+>ℹ️ A planilha de mapeamento da Dafiti é *case sensitive*, ou seja, faz distinção entre letras maiúsculas e minúsculas. Leve este fato em consideração quando preencher a planilha.
 
 ### Categories
 
@@ -140,6 +136,4 @@ Depois de mapear todos os atributos dos SKUs da sua loja, você deverá fazer up
 
 Não tendo ocorrido nenhum erro com o envio, os produtos serão enviados para a Dafiti com seus respectivos atributos.
 
-<div class="alert alert-info">
- A integração entre VTEX e Dafiti realiza automaticamente o redimensionamento das fotos dos produtos caso elas sejam superiores ao tamanho solicitado pela Dafiti(1000x1000).
-</div>
+>ℹ️ A integração entre VTEX e Dafiti realiza automaticamente o redimensionamento das fotos dos produtos caso elas sejam superiores ao tamanho solicitado pela Dafiti(1000x1000).

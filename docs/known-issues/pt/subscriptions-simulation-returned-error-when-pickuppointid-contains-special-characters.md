@@ -18,9 +18,7 @@ internalReference: 903332
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Para realizar um pedido de assinatura ou atualizar uma assinatura, o sistema de assinatura realiza uma simulação e, nessa simulação, utiliza os dados de entrega retornados pelo sistema de logística e, se nesses dados houver um ponto de coleta cujo ID esteja sublinhado, o sistema de assinatura não conseguirá escolher o SLA corretamente, gerando o erro "Invalid AddressProvider:...." na simulação e, consequentemente, não gerará o pedido.

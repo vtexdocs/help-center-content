@@ -18,9 +18,7 @@ internalReference: 649237
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Alguns métodos de pagamento permanecem na página de checkout mesmo quando a condição de pagamento associada é desativada por mais de 10 minutos. Esta é uma questão intermitente e não há evidências de como reproduzir este comportamento.

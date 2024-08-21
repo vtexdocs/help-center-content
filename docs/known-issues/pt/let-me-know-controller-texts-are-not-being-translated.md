@@ -18,9 +18,7 @@ internalReference: 517165
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao tentar mudar o texto "nome" e "e-mail" do controlador Let Me Know via Store Text para outros idiomas além do EN-BR, o texto não é traduzido e permanece em português

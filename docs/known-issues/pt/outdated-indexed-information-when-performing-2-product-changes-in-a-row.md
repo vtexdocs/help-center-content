@@ -18,9 +18,7 @@ internalReference: 907428
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Para lojas que usam o mecanismo de pesquisa legado, se duas alterações nos dados de um produto forem feitas em uma sucessão rápida (ou seja, você inativou um produto e o reativou logo em seguida) e a última alteração retornar as informações do produto para o que era antes, o estado desse item pode ficar preso na primeira alteração, pois a última não é reconhecida corretamente.

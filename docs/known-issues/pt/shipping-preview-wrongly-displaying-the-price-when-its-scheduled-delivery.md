@@ -18,9 +18,7 @@ internalReference: 532487
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O preço de entrega exibido no shipping-preview (carrinho) está incorreto quando os itens têm entrega programada e todos esses itens saem no mesmo SLA. Mesmo com a API retornando o valor correto, a interface do usuário não reflete essa informação e exibe o valor incorreto.

@@ -80,9 +80,7 @@ In the example above, all products whose **Voltagem**(ID **1**) field is **110v*
 The parameters above can be matched in many ways. However, notice that the search order will be according to the order of the parameters informed. In other words, when you use a category parameter followed by a brand parameter, for example, the category will be searched first and, among the results found, a second search will be made for the brand.
 
 ### Default 2
-<div class="alert alert-info">
-  For stores hosted in VTEX IO, Default 2 should be used as standard.
-  </div>
+>ℹ️ For stores hosted in VTEX IO, Default 2 should be used as standard.
 
 URL: www.loja.com.br/**\[NomeCategoria\]**/**\[NomeMarca\]**/**\[IdColeção\]**/**\[ValorBuscado\]**?map=**c,b,productClusterIds,specificationFilter_\[IdCampoProduto/Sku\]**
 

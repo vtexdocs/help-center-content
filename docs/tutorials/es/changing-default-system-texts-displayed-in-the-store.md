@@ -47,9 +47,8 @@ Para hacer esto de manera dinámica, puedo cambiar el texto de la clave `topbarS
 
 Es decir, estoy usando las variables `preposicaonomeloja2` y `nomeloja`.
 
-<div class="alert alert-warning">>
-Al utilizar variables para crear un texto, reemplace el símbolo <code>#</code> por <code>@</code>. Es decir, <b>#variable#</b> se convierte <b>@variable@</b>.
-</div>
+>⚠️ >
+> Al utilizar variables para crear un texto, reemplace el símbolo `#` por `@`. Es decir, **#variable#** se convierte **@variable@**.
 
 ![textos-importantes es](https://images.ctfassets.net/alneenqid6w5/3Trct11oXCGe0EigiUA4g0/f701207101145a1222f5e45cb61d4073/textos_importantes_es.png)
 

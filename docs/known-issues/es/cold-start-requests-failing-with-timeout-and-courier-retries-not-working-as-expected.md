@@ -18,9 +18,7 @@ internalReference: 789499
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando una app no recibe peticiones durante un tiempo, entra en cold start. Courier entonces hace varios intentos de enviar eventos hasta que la app "despierta". Cuando la app no "despierta" las peticiones a la misma pueden fallar debido a un timeout. Como resultado, resulta que algunos eventos parecen no enviarse nunca. Se trata de un comportamiento intermitente.

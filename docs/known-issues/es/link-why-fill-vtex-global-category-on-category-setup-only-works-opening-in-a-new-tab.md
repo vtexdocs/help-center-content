@@ -18,9 +18,7 @@ internalReference: 544034
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Enlace "¿Por qué llenar VTEX Categoría Global?" en la configuración de la categoría sólo funciona la apertura en una nueva pestaña. tratando de abrir con sólo hacer clic en el enlace se redirige a una página de error.

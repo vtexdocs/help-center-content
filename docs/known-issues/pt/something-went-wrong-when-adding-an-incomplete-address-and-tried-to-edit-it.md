@@ -18,9 +18,7 @@ internalReference: 960064
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Durante a etapa de checkout, usando um comprador com um perfil completo, na etapa de preenchimento dos dados de envio, clicando na opção "Entregar em outro endereço", se apenas o código postal for adicionado e o comprador voltar à lista de endereços (usando o botão "voltar ao catálogo de endereços") e clicar em "Atualizar informações de endereço selecionadas", haverá um erro com a mensagem "Algo deu errado".

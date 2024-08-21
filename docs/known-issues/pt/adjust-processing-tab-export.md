@@ -18,9 +18,7 @@ internalReference: 649311
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A exportação na aba de processamento de skus está falhando:

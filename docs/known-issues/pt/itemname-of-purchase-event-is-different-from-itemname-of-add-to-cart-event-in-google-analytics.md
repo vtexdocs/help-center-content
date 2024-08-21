@@ -18,9 +18,7 @@ internalReference: 878629
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando a SKU tem o mesmo nome que o produto, o item_name da compra é diferente do item_name do evento add-to-cart.

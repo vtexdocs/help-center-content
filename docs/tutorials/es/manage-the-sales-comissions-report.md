@@ -21,9 +21,7 @@ Esa dinámica se debe al split de pagos, funcionalidad sobre la cual puede apren
 
 En este artículo, explicaremos cómo generar ese informe de comisiones y cómo programar la creación del mismo de forma recurrente de acuerdo con una periodicidad.
 
-<div class="alert alert-warning">
-Antes de proceder con la configuración, verifique con su Customer Success Manager (CSM) si el informe de comisiones se incorporó al Admin de su cuenta.
-</div>  
+>⚠️ Antes de proceder con la configuración, verifique con su Customer Success Manager (CSM) si el informe de comisiones se incorporó al Admin de su cuenta.  
 
 ## Genere un informe de comisiones
 
@@ -45,23 +43,17 @@ Posteriormente:
 8. Complete el campo __Dirección de email__ con el email deseado.
 9. Haga clic en el __botón azul Generar__.
 
-<div class="alert alert-danger">
-Es obligatorio definir una fecha de inicio y una fecha de fin. De lo contrario, el informe de comisiones no será creado.
-</div>
+>❗ Es obligatorio definir una fecha de inicio y una fecha de fin. De lo contrario, el informe de comisiones no será creado.
 
-<div class="alert alert-info">
-Si no desea recibir el informe por email, no haga clic en el cuadro de selección Recibir en la dirección de email. 
-
-Haga clic en el botón "Generar". Esto creará un link en el Admin para descargar el informe.
-</div>  
+>ℹ️ Si no desea recibir el informe por email, no haga clic en el cuadro de selección Recibir en la dirección de email. 
+>
+> Haga clic en el botón "Generar". Esto creará un link en el Admin para descargar el informe.  
 
 De esta forma, el mensaje Su informe se generó con éxito se mostrará en la pantalla para indicar que la operación se realizó correctamente. Además, el documento será enviado a la carpeta Descargas de su computador. 
 
 La creación del informe puede demorarse si el volumen de datos analizados es extenso. En estos casos, puede seguir el proceso en la pantalla como se muestra en la siguiente imagen. 
 
-<div class="alert alert-info">
-Salir de la página no afectará la operación.
-</div>
+>ℹ️ Salir de la página no afectará la operación.
 
 ![Informe de Comisiones](https://images.ctfassets.net/alneenqid6w5/1VW72vERimVjQn1cXy5TRM/0bcdb6a335b163625ebee90c5b2ea467/image.png)
 
@@ -73,13 +65,9 @@ Hay situaciones en las que el marketplace necesita analizar sus comisiones con f
 
 Por esta razón, usted puede crear una programación para que el informe se genere automáticamente en cada periodo de tiempo predeterminado. 
 
-<div class="alert alert-warning">
-En el módulo Comisiones, solo se permite crear una programación por cuenta. 
-</div>
+>⚠️ En el módulo Comisiones, solo se permite crear una programación por cuenta.
 
-<div class="alert alert-info">
-La programación es opcional. Si no se configura no afecta la creación manual de los informes de comisiones de ninguna manera.
-</div>
+>ℹ️ La programación es opcional. Si no se configura no afecta la creación manual de los informes de comisiones de ninguna manera.
 
 Toda vez que está en el módulo Comisiones, haga clic en el botón «Programar» al lado derecho de la pantalla para crear una programación. Este se muestra como un modal, similar al de generación del informe. 
 

@@ -18,9 +18,7 @@ internalReference: 669575
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Nuestra API del hub de tarjetas de regalo está añadiendo una barra invertida extra a la solicitud cuando se llama a los proveedores. Esto se debe a la forma en que convertimos la serviceUrl y la concatenamos con la URL proporcionada por el conector.

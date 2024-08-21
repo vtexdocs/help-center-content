@@ -20,8 +20,7 @@ A Livelo é a plataforma de marketplace com o maior programa de recompensas do B
 
 A conﬁguração com a Livelo tem como objetivo conectar sua loja VTEX com o marketplace, permitindo que você anuncie seus produtos, aumente suas vendas e atingindo novos clientes a partir deste novo canal.   
 
-<div class="alert alert-info"> A funcionalidade <a href="https://help.vtex.com/pt/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4">Multilevel Omnichannel Inventory</a> (MOI) não está disponível na integração com a Livelo.
-</div>  
+>ℹ️ A funcionalidade [Multilevel Omnichannel Inventory](https://help.vtex.com/pt/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4) (MOI) não está disponível na integração com a Livelo.  
 
 A conﬁguração da integração está disponível somente para lojas VTEX do Brasil integrarem produtos de todas as categorias.  
 Para realizar a conﬁguração entre VTEX e Livelo, é necessário concluir as etapas:  

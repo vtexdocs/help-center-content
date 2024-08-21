@@ -19,9 +19,7 @@ Os pontos de retirada, também conhecidos como pickup points, são parte importa
 
 Você pode [configurar pontos de retirada um a um](/pt/tutorial/configurar-pontos-de-retirada-pickup-points) ou fazer isso através da importação de uma planilha XLS [(como a deste exemplo)](https://assets.ctfassets.net/alneenqid6w5/2QZFVRKdaoOkykE4AUkw6m/bdf62b6d028819b5b8c08ef7a27eadc6/pickups_example.xls). Usando um arquivo XLS, você cadastra todos os pickup points de uma única vez (desde que ele não ultrapasse 10 MB).
 
-<div class="alert alert-info">
-Um arquivo XLS de <strong>10 MB</strong> permite o cadastro de, aproximadamente, <strong>50 mil</strong> pontos de retirada. Para importar um número maior, é necessário dividi-los em mais de uma planilha e fazer um upload de cada vez.
-</div>
+>ℹ️ Um arquivo XLS de **10 MB** permite o cadastro de, aproximadamente, **50 mil** pontos de retirada. Para importar um número maior, é necessário dividi-los em mais de uma planilha e fazer um upload de cada vez.
 
 
 ## Como fazer o upload da planilha

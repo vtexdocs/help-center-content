@@ -25,12 +25,18 @@ A partir de __31 de março__, as requisições com paginação na API de busca n
 
 Essa mudança já foi implementada na API, mas até a data limite, ainda será possível realizar a request das duas formas. Já o `resources` no header do response vai continuar funcionando normalmente.
 
-<div class="alert alert-warning">
-<b>Importante:</b><br> 
-- Para funcionar, os parâmetros <b>_from</b> e <b>_to</b> não devem ter uma diferença maior do que <b>50</b>. Isso vai fazer com que sejam exibidos, no máximo, 50 resultados de busca por vez.<br>
-<br>
-- Também há um limite de 2500 itens para uma busca. Por isso, não é possível adicionar um valor maior que 2500 ao parâmetro <b>_to</b>.<br>
-</div>
+>⚠️ **Importante:**
+>
+>  
+> - Para funcionar, os parâmetros **_from** e **_to** não devem ter uma diferença maior do que **50**. Isso vai fazer com que sejam exibidos, no máximo, 50 resultados de busca por vez.
+>
+> 
+>
+>
+> 
+> - Também há um limite de 2500 itens para uma busca. Por isso, não é possível adicionar um valor maior que 2500 ao parâmetro **_to**.
+>
+> 
 
 Para saber todos os detalhes do funcionamento das requisições de paginação na API de busca, acesse este [documento](https://developers.vtex.com/docs/api-reference/search-api).
 

@@ -57,17 +57,13 @@ Essa classificação é importante para que o time de suporte priorize os chamad
 
 *Se o nível indicado não se aplicar ao cenário da solicitação, o agente pode modificá-lo.*
 
-<div class="alert alert-info">
-<strong>Normal:</strong> perguntas em geral.
-</div>
+>ℹ️ **Normal:** perguntas em geral.
 
 <div class = "alert alert-warning">
 <strong>Alto:</strong> documentações importantes estão inviabilizando o processo.
 </div>
 
-<div class="alert alert-danger">
-<strong>Urgente:</strong> Admin bloqueado, ameaçando o lucro dos seus negócios.
-</div>
+>❗ **Urgente:** Admin bloqueado, ameaçando o lucro dos seus negócios.
 
 ## Interagindo no chamado
 

@@ -18,9 +18,7 @@ internalReference: 663698
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao criar uma promoção, o cliente pode decidir a quais itens a promoção será aplicada.

@@ -15,9 +15,7 @@ legacySlug: criando-trigger-no-master-data
 subcategory: 2nx7hMJmisofwqwy2P9l2i
 ---
 
-<div class="alert alert-info">
-<p>Este artigo se refere ao Master Data v1. Se você quiser utilizar o Master Data v2, veja os passos do guia <a href="https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2">Setting up triggers in Master Data v2</a>.</p>
-</div>
+>ℹ️ Este artigo se refere ao Master Data v1. Se você quiser utilizar o Master Data v2, veja os passos do guia [Setting up triggers in Master Data v2](https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2).
 
 Conceitualmente, trigger é um recurso de programação que executa uma ação específica sempre que um evento associado ocorre. No Master Data, um trigger é a configuração de um ou mais disparos (eventos) que são acionados quando uma determinada situação ocorre, baseada em diversas variáveis.
 
@@ -123,9 +121,7 @@ Aqui, você deve definir as condições que vão disparar o(s) evento(s) configu
 
    ![filters-pt](https://images.ctfassets.net/alneenqid6w5/go7XW0mqWsuA4ygwYsoMS/34cbeea173c7f4944ee87c22eb406c02/filters-pt.png)
 
-<div class="alert alert-info">
-  <p>O Master Data v1 não permite configuração de retentativas de trigger, diferente do Master Data v2.</p>
-</div>
+>ℹ️ O Master Data v1 não permite configuração de retentativas de trigger, diferente do Master Data v2.
 
 ### Agendar
 

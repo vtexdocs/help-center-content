@@ -25,9 +25,7 @@ On VTEX, your store can receive payments made with __Promissories__. To enable t
 
 To set up a gateway affiliation, access [Registering gateway affiliations](https://help.vtex.com/en/tutorial/afiliacoes-de-gateway--tutorials_444#).
 
-<div class="alert alert-warning">
-Check that the desired gateway affiliation supports promissory payment processing.
-</div>
+>⚠️ Check that the desired gateway affiliation supports promissory payment processing.
 
 ## Promissory Setup
 

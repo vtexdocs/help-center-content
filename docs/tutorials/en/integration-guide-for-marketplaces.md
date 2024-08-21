@@ -15,9 +15,7 @@ legacySlug: integration-guide-for-marketplaces
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---
 
-<div class="alert alert-warning">
-Check out the updated version of this <a href="https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide">marketplace integration guide</a> in our Developer Portal. 
-</div> 
+>⚠️ Check out the updated version of this [marketplace integration guide](https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide) in our Developer Portal. 
 
 ## Marketplaces and sellers
 
@@ -45,7 +43,7 @@ It's very important the integrator get the knowledge of this kind of tools, or o
 
 Every call made to REST APIs from VTEX must be made in “https” and must have in its header the authentication keys. The authentication keys of the header (to access the REST APIs) must be requested to the store administrator or to the operations team that is deploying the store.
 
-<div class="alert alert-warning"><strong>Warning</strong>An exclusive key and token must be created to each integrator, a key from the own store mustn't be used.</div>
+>⚠️ **Warning**An exclusive key and token must be created to each integrator, a key from the own store mustn't be used.
 
 ## Integration models
 

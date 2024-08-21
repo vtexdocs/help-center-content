@@ -22,7 +22,5 @@ When cancellation happens, the user is notified through [VTEX DO](https://help.v
 
 2) If you want to go ahead with fulfillment, follow with the invoicing, informing the customer that the order cannot be canceled.
 
-<div class="alert alert-danger">
-Under <code>Cancellation Window</code> status, only the customer’s cancellation request is unilateral, and the store does not confirm. In all other statuses, the store will be informed of the request through VTEX DO.
-</div>
+>❗ Under `Cancellation Window` status, only the customer’s cancellation request is unilateral, and the store does not confirm. In all other statuses, the store will be informed of the request through VTEX DO.
 

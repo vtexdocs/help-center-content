@@ -18,9 +18,7 @@ internalReference: 925965
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al crear un XML, tenemos dos opciones diferentes para establecer el nombre del producto, en las banderas "Nombre del producto" y "Nombre del producto + Nombre SKU". Sin embargo, la bandera "Nombre del producto" no se tiene en cuenta, y el nombre del producto en el archivo sigue la regla:

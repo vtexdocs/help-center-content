@@ -18,9 +18,7 @@ internalReference: 546267
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O link do campo PaymentLink não está sendo exibido na página Meus Créditos, dentro da MyAccount, embora tenha sido configurado e disponível na página de Faturas de Crédito do Cliente, dentro da Admin.

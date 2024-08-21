@@ -15,7 +15,7 @@ legacySlug: criar-um-produto-beta
 subcategory: 
 ---
 
-<div class="alert alert-info">This feature is currently in beta, which means we are working on improving it. If you have any questions, please contact our <a href="https://support.vtex.com/hc/pt-br/requests">Support team</a>.</div>
+>ℹ️ This feature is currently in beta, which means we are working on improving it. If you have any questions, please contact our [Support team](https://support.vtex.com/hc/pt-br/requests).
 
 The **Add Product (Beta)** page allows you to create and edit[ products](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru) and their corresponding [SKUs](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) in the VTEX Admin. To add a new product, follow the steps below.
 
@@ -36,7 +36,7 @@ If you want to create a product as inactive, click the <i class="fas fa-toggle-o
 
 After that, the product will be activated and available in your store.
 
-<div class="alert alert-info">If the product is not visible on your store after creating it, read the <a href="https://Why is the product not visible on the website?">Why is the product not visible on the website?</a> article to find out how to solve this problem.</div>
+>ℹ️ If the product is not visible on your store after creating it, read the [Why is the product not visible on the website?](https://Why is the product not visible on the website?) article to find out how to solve this problem.
 
 ## Product
 
@@ -130,7 +130,7 @@ Under **Attributes**, the [specification groups](https://help.vtex.com/en/tutori
 
 In this tab, you will add the [SKUs](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA) that will be linked to the product you created earlier.
 
-<div class="alert alert-info"> A product must have at least one active SKU to be available in your store. The SKU must have an image attached to it for it to be activated. </div>
+>ℹ️ A product must have at least one active SKU to be available in your store. The SKU must have an image attached to it for it to be activated.
 
 ### Specifications
 This is where the previously created [specifications](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP) for the SKUs will be displayed. If you have created any required SKU fields, the SKU will only be activated once this specification has been completed.
@@ -146,8 +146,7 @@ This is where the previously created [specifications](https://help.vtex.com/en/t
 
 ### Images
 
-<div class="alert alert-warning">
-SKUs must have at least one image to be active.</div>
+>⚠️ SKUs must have at least one image to be active.
 
 To add an image to your SKU, follow the steps below:
 
@@ -155,8 +154,7 @@ To add an image to your SKU, follow the steps below:
 2. Add the link to your image in the 🔗 field. You can add more than one image to your SKU. To do this, click `+ Add Image` and add the new link. ![image6](https://images.ctfassets.net/alneenqid6w5/7lEnztWcQFXIAPFdMkHIaH/96ff215f5caef65e23ecac650111ee50/image6.png)
 3. Click `Save`.
 
-<div class="alert alert-info">The first image added will be the main image of the SKU and will be displayed in the store and search results.
-</div>
+>ℹ️ The first image added will be the main image of the SKU and will be displayed in the store and search results.
 
 You can edit an image's metadata by clicking the &lt;i class="fas fa-ellipsis-v">&lt;/i> button and selecting <i class="fas fa-pencil-alt"></i>` Edit Metadata`.
 

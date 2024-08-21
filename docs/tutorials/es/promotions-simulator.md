@@ -15,9 +15,7 @@ legacySlug: simulador-de-promocoes
 subcategory: 6iTRZiMeCGXYiO2ckABFZi
 ---
 
-<div class="alert alert-info">
-<p>Este módulo está en versión beta, lo que significa que estamos trabajando para mejorarlo. Si tiene alguna duda, póngase en contacto con <a href= "https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.</p>
-</div>
+>ℹ️ Este módulo está en versión beta, lo que significa que estamos trabajando para mejorarlo. Si tiene alguna duda, póngase en contacto con <a href= "https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.
 
 El **Simulador de promociones** te permite ver las promociones aplicadas a tu carrito y sus condiciones. Con varias posibilidades de configuración de las promociones, es importante tener visibilidad sobre la [competencia](https://help.vtex.com/es/tutorial/entendiendo-la-competencia-de-las-promociones-2--tutorials_2270) y la [acumulación](https://help.vtex.com/es/tutorial/entendiendo-la-competencia-de-las-promociones-2--tutorials_2270#acumulacion) de las promociones durante la compra y las causas de la activación de las promociones.
 

@@ -18,9 +18,7 @@ internalReference: 1024172
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, o método CategoryInputTranslation, para o catálogo graphQL, não está gerando uma atualização nos dados traduzidos para as contas.

@@ -27,6 +27,4 @@ Este artículo tiene como objetivo explicar cómo funciona el flujo básico de u
 
 Con la respuesta del banco emisor, se realiza el flujo inverso y el __Gateway de Pagos__ recibe la información si el pago fue aprobado o negado.
 
-<div class="alert alert-info">
-Es posible incluir el <strong>Antifraude</strong> en este flujo. En este caso, el antifraude recibe la información del gateway de que el pago fue pre-autorizado por el banco emisor. Con la información recibida del gateway, el antifraude envía una respuesta de aprobación o denegación del pago. Si el antifraude niega, el pago se cancela. Si el pago se aprueba, el pedido puede proseguir su flujo normal.
-</div>
+>ℹ️ Es posible incluir el **Antifraude** en este flujo. En este caso, el antifraude recibe la información del gateway de que el pago fue pre-autorizado por el banco emisor. Con la información recibida del gateway, el antifraude envía una respuesta de aprobación o denegación del pago. Si el antifraude niega, el pago se cancela. Si el pago se aprueba, el pedido puede proseguir su flujo normal.

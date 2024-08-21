@@ -18,9 +18,7 @@ internalReference: 753484
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 No está siendo posible cambiar el sku de un pedido porque el OMS utiliza la API de búsqueda (que está relacionada con el catálogo V1) y las cuentas del portal del vendedor utilizan una nueva versión del catálogo. No se ha implementado ningún proxy en esta área.

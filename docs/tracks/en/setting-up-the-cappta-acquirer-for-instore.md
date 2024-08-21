@@ -18,9 +18,7 @@ To allow transactions through card machines using inStore, you need an acquirer 
 
 __Cappta__ is an inStore certified sub-acquirer in Brazil.
 
-<div class="alert alert-warning">
-If you want to use Cappta in a different country or if you want to use another acquirer that is not currently certified, you will need to build the integration with that acquirer’s application. To do so, refer to the article <a href="https://help.vtex.com/en/tracks/instore-integration--6NTqymtXmL9cNy8w1ouAod">Integrating inStore to a new payment acquirer</a>.
-</div>
+>⚠️ If you want to use Cappta in a different country or if you want to use another acquirer that is not currently certified, you will need to build the integration with that acquirer’s application. To do so, refer to the article [Integrating inStore to a new payment acquirer](https://help.vtex.com/en/tracks/instore-integration--6NTqymtXmL9cNy8w1ouAod).
 
 <div class=”alert alert-info”>
 Cappta is currently supported by the following platforms and devices:

@@ -18,9 +18,7 @@ internalReference: 1020548
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando un usuario se conecta a la plataforma VTEX por primera vez (Admin), se le pide que elija su preferencia de inicio de sesión para la próxima vez que se conecte. A continuación, puede elegir entre introducir su dirección de correo electrónico y contraseña, o introducir un código que se le enviará a su dirección de correo electrónico;

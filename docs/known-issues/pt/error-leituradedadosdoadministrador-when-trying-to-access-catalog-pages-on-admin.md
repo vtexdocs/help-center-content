@@ -18,9 +18,7 @@ internalReference: 1055578
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Alguns usuários, mesmo com a função correta, recebem um erro "O usuário xx não tem acesso à página solicitada (LeituraDeDadosDoAdministrador)" ao acessar páginas de catálogo no admin.

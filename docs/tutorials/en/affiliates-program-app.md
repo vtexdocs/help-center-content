@@ -86,9 +86,7 @@ Click the `Add Affiliate` button to create a new affiliate, fill in the fields d
 
 Enter any of the following information in the search bar to search for an affiliate: _Affiliate ID, Name, Store Name, Email_, or _Phone_.
 
-<div class="alert alert-warning">
-In the <b>Affiliates Program app</b>, not only is the term affiliate different from the <a href="https://help.vtex.com/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0">usual VTEX affiliate concept</a>, but the <code>Affiliate ID</code> does not correspond to the default code. In the app, the <code>Affiliate ID</code> is an alphanumeric code automatically generated when you create a new affiliate.
-</div>
+>⚠️ In the **Affiliates Program app**, not only is the term affiliate different from the [usual VTEX affiliate concept](https://help.vtex.com/en/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0), but the `Affiliate ID` does not correspond to the default code. In the app, the `Affiliate ID` is an alphanumeric code automatically generated when you create a new affiliate.
 
 ### Filtering affiliates
 
@@ -150,9 +148,7 @@ You can filter the order search by the following criteria:
 
 The **Affiliates Program app** allows you to export a list with a CSV extension of your affiliate orders. 
 
-<div class="alert alert-warning">
-To enable the list export function, you must first set up email templates described in the <a href="https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app#email-templates">Affiliates Program app</a> developer's guide.
-</div>
+>⚠️ To enable the list export function, you must first set up email templates described in the [Affiliates Program app](https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app#email-templates) developer's guide.
 
 After configuration, click **Export** on the **Order Management** page to export the list. The following confirmation message will be displayed:
 

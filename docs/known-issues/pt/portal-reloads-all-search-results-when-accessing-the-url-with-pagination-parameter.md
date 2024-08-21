@@ -18,9 +18,7 @@ internalReference: 342378
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O portal recarrega todos os resultados da busca ao acessar a URL com um parâmetro de paginação.

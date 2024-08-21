@@ -18,9 +18,7 @@ internalReference: 844893
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando la cuenta ha configurado la posibilidad de que el comprador cambie el pedido por sí mismo, el enlace de cambio de pedido aparecerá en la plantilla de pago/pedido realizado.

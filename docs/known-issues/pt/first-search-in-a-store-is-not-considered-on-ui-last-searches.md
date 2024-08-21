@@ -18,9 +18,7 @@ internalReference: 570971
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao pesquisar em uma loja pela primeira vez, sua primeira busca não aparecerá nas "últimas buscas", mas todas as outras serão consideradas.

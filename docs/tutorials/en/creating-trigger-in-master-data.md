@@ -15,9 +15,7 @@ legacySlug: creating-trigger-in-master-data
 subcategory: 2nx7hMJmisofwqwy2P9l2i
 ---
 
-<div class="alert alert-info">
-<p>This article is about Master Data v1. If you want to use Master Data v2, see the steps in the guide <a href="https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2">Setting up triggers in Master Data v2</a>.</p>
-</div>
+>ℹ️ This article is about Master Data v1. If you want to use Master Data v2, see the steps in the guide [Setting up triggers in Master Data v2](https://developers.vtex.com/docs/guides/setting-up-triggers-in-master-data-v2).
 
 Conceptually, a trigger is a programming resource that performs a specific action whenever an associated event occurs. In Master Data, a trigger consists of configuring one or more events that activate when a particular situation occurs based on different variables.
 
@@ -122,9 +120,7 @@ In this section, you must set the conditions that will fire the event(s) configu
 
    ![filters-en](https://images.ctfassets.net/alneenqid6w5/go7XW0mqWsuA4ygwYsoMS/c0d93fda52ba199ee2101c62028d1c33/filters-en.png)
 
-<div class="alert alert-info">
-  <p>Master Data v1 does not allow the configuration of trigger reattempts, unlike Master Data v2.</p>
-</div>
+>ℹ️ Master Data v1 does not allow the configuration of trigger reattempts, unlike Master Data v2.
 
 ### Schedule
 

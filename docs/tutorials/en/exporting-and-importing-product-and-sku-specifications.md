@@ -49,9 +49,7 @@ In the import worksheet, the only column you have to complete is “ValorEspecif
 
 The structure of the spreadsheet presents one row for each product field or SKU, i.e., the same product or SKU will be presented several times according to the existing fields in its category.
 
-<div class="alert alert-warning">
-  <p>In the exported spreadsheet, the column for "ValorEspecificacao" is "NomeCampoValor (Not Changeable)". When filling the field, the spelling of the characteristics must be exact. Uppercase and lowercase letters make a difference in this case.</p>
-  </div>
+>⚠️ In the exported spreadsheet, the column for "ValorEspecificacao" is "NomeCampoValor (Not Changeable)". When filling the field, the spelling of the characteristics must be exact. Uppercase and lowercase letters make a difference in this case.
 
 Follow the steps below to import the spreadsheet:
 

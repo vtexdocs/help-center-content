@@ -34,9 +34,7 @@ Este artículo cubrirá los siguientes temas:
   - [Establecer datos de marketing](#establecer-datos-de-marketing)
 - [Deshabilitar Cartman](#deshabilitar-cartman) 
 
-<div class="alert alert-warning">
-  Solo el comerciante tiene acceso a <b>Cartman</b>. Sus funciones no están disponibles para el uso de los usuarios en una tienda.
-</div>
+>⚠️ Solo el comerciante tiene acceso a **Cartman**. Sus funciones no están disponibles para el uso de los usuarios en una tienda.
 
 ## Activar Cartman manualmente
 
@@ -106,7 +104,5 @@ Cartman se puede desactivar en cualquier momento según lo requiera el lojista. 
 2. En la esquina inferior derecha de la pantalla, haga clic en el botón <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/>.
 3. En la parte inferior del menú de Cartman, haz clic en `Deshabilitar Cartman`.
 
-<div class="alert alert-info">
-  Si desea reactivar <b>Cartman</b>, vuelva a agregar la query string <code>?cartman=on</code> en una de las páginas de pago de su tienda. De esta forma, el icono azul volverá a estar disponible en la esquina inferior derecha de la página.
-</div>
+>ℹ️ Si desea reactivar **Cartman**, vuelva a agregar la query string `?cartman=on` en una de las páginas de pago de su tienda. De esta forma, el icono azul volverá a estar disponible en la esquina inferior derecha de la página.
 

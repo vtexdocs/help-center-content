@@ -72,9 +72,7 @@ Obrigatoriamente `ProductName` para título do produto ou Obrigatoriamente `Prod
 `B2W_ProductName` para nome do produto e `B2W_ProductDescription` para descrição do produto.    
 3. Clique no botão e uma regra de mapeamento será adicionada a sua integração.  
 
-<div class="alert alert-info">
-Cada regra cadastrada mapeia apenas um campo.
-<p>Caso o campo mapeado não tenha um valor preenchido, será enviado o valor padrão de <code>Título</code> ou <code>Descrição</code> cadastrados no catálogo.
-</div>
+>ℹ️ Cada regra cadastrada mapeia apenas um campo.
+> <p>Caso o campo mapeado não tenha um valor preenchido, será enviado o valor padrão de `Título` ou `Descrição` cadastrados no catálogo.
 
 Após salvar a configuração, a integração envia automaticamente todos os produtos associados à política comercial determinada para a SkyHub, a integradora com a B2W.

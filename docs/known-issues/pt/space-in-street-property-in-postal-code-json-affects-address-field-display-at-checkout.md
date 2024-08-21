@@ -18,9 +18,7 @@ internalReference: 872935
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao ativar o uso da API de código postal no formulário de endereço para países que não estão no modelo BR (país, estado, cidade, bairro, rua), esses países que não têm todos esses campos preenchidos na API e precisam ser capazes de inserir os outros dados de endereço no formulário de endereço no checkout, o campo rua do bloco de endereço não estará disponível se a propriedade rua do JSON estiver com espaço, pois será entendido como preenchido e válido, o que não permite prosseguir com o pedido.

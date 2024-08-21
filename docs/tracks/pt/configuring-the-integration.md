@@ -18,9 +18,7 @@ trackSlugPT: integracao-livelo
 
 O primeiro passo para integrar sua loja VTEX à Livelo é ter as credenciais **AppKey** e **AppToken**, ambas são utilizadas para validar sua integração com o Marketplace.
 
-<div class="alert alert-danger">
-Para obter as suas credenciais e iniciar a integração, entre em contato através com o time de <a href="https://help.vtex.com/pt/support">suporte da VTEX</a>. 
-</div>
+>❗ Para obter as suas credenciais e iniciar a integração, entre em contato através com o time de [suporte da VTEX](https://help.vtex.com/pt/support).
 
 Após solicitar as credenciais, o seller pode seguir com as [Configurações da plataforma VTEX](https://help.vtex.com/pt/tracks/integracao-livelo--4ZSHEiuTkh8HR9ubJQj8BP/HgIbZEzbPr8FQid5MXURQ#conguracoes-na-plataforma-vtex) e configuração da [Regra de divergência.](https://help.vtex.com/pt/tracks/integracao-livelo--4ZSHEiuTkh8HR9ubJQj8BP/4kocvdsHiLcLLcX6eQIVmD)
 

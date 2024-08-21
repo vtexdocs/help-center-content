@@ -18,9 +18,7 @@ internalReference: 295245
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La ordenación manual de las colecciones no funciona como se esperaba. Hay dos maneras de ordenar las SKUs utilizando una colección:

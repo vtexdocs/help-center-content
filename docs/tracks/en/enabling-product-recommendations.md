@@ -14,9 +14,7 @@ trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugEN: enabling-product-recommendations
 ---
 
-<div class="alert alert-danger">
-The enablement of the product recommendation settings in inStore, explained in this article, involves changing the <code>checkout-instore-custom.js</code> and <code>checkout-instore-custom.css</code> files. This operation should only be performed by people with programming experience. Incorrect changes to these files can cause critical errors.
-</div>
+>❗ The enablement of the product recommendation settings in inStore, explained in this article, involves changing the `checkout-instore-custom.js` and `checkout-instore-custom.css` files. This operation should only be performed by people with programming experience. Incorrect changes to these files can cause critical errors.
 
 By default, inStore shows a list of suggested products to the salesperson in two stages of the order:
 - In the cart
@@ -54,6 +52,4 @@ window.INSTORE_CONFIG = {
 
 Save the file with the change, then open the inStore app menu and update the data by clicking the __Reset app local data__ button. Once this is done, the salespeople will no longer see product recommendations.
 
-<div class="alert alert-danger">
-Do not remove any of the other properties present in the <code>window.INSTORE_CONFIG</code> object, to avoid breaking other functionalities.
-</div>
+>❗ Do not remove any of the other properties present in the `window.INSTORE_CONFIG` object, to avoid breaking other functionalities.

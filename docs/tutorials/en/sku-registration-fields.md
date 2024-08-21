@@ -15,9 +15,7 @@ legacySlug: sku-registration-fields
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
-<div class="alert alert-warning">
-  <p>There is a limit of 50 SKUs per product. To request an extension of the limit, please contact <a href= "https://support.vtex.com/hc/pt-br/requests">our Support</a>.</p>
-</div>
+>⚠️ There is a limit of 50 SKUs per product. To request an extension of the limit, please contact <a href= "https://support.vtex.com/hc/pt-br/requests">our Support</a>.
 
 For more information on each field, read their complete description below.
 
@@ -131,7 +129,5 @@ After filling out the required fields, click on Save on the SKU tab.
 - [Filling in product registration fields](/en/tutorial/product-registration-fields--4dYXWIK3zyS8IceKkQseke)
 - [Filling in Import Spreadsheet fields](/en/tutorial/preencher-campos-da-planilha-de-importacao--4nYhx63Q5yokQWaMguaIgI)
 
-<div class="alert alert-danger">
- To ensure the items added to the inventory will be available for sale on the store, the <a href="https://help.vtex.com/en/tutorial/how-to-find-an-sku-id--4VQZsYeb3igGK2YowuEYWW">SKU ID</a> cannot contain <b>a leading zero</b>. For instance, the system does not read IDs with a <code>01</code>, <code>02</code>, <code>021</code> format because the expected format is <code>1</code>, <code>2</code>, <code>21</code>.
-</div>
+>❗ To ensure the items added to the inventory will be available for sale on the store, the [SKU ID](https://help.vtex.com/en/tutorial/how-to-find-an-sku-id--4VQZsYeb3igGK2YowuEYWW) cannot contain **a leading zero**. For instance, the system does not read IDs with a `01`, `02`, `021` format because the expected format is `1`, `2`, `21`.
 

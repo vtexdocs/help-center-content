@@ -39,9 +39,7 @@ Para configurar la afiliación Credimarcas, siga los pasos a continuación:
 
 ## Configurar Pagaré
 
-<div class="alert alert-warning">
-  <p>Si aún no has configurado el pagaré como método de pago en otros conectores de tu tienda, accede a <a href="https://help.vtex.com/es/tutorial/configurar-pagos-con-pagare--5pW7avTwtyQcMu4uiW8quQ">Configurar pagos con Pagaré</a>.</p>
-</div>
+>⚠️ Si aún no has configurado el pagaré como método de pago en otros conectores de tu tienda, accede a [Configurar pagos con Pagaré](https://help.vtex.com/es/tutorial/configurar-pagos-con-pagare--5pW7avTwtyQcMu4uiW8quQ).
 
 Para utilizar Credimarcas con pagarés, sigue los pasos a continuación:
 

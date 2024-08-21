@@ -18,9 +18,7 @@ internalReference: 945609
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando um usuário tem a primeira organização atribuída a ele inválida com o ID do centro de custo errado, o login falha sem nenhuma mensagem.

@@ -15,10 +15,9 @@ legacySlug: entendendo-o-funcionamento-da-indexacao
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
-<div class="alert alert-warning">
-<p>Tutorial válido apenas para lojas que utilizam a busca do <a href="https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">CMS Portal Legado</a>.</p>
-<p>Se a sua loja utiliza o <a href="https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG">Intelligent Search</a>, consulte a página <a href="https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH">Histórico da Indexação</a> para acompanhar o processo de indexação.</p>
-</div>
+>⚠️ Tutorial válido apenas para lojas que utilizam a busca do [CMS Portal Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
+>
+> Se a sua loja utiliza o [Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG), consulte a página [Histórico da Indexação](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/4flMwTaQL8FRKl1YT58ezH) para acompanhar o processo de indexação.
 
 A indexação é um processo que prepara os dados gerais do SKU, tais como dados de catálogo, de preço e de estoque e atualiza as informações para servir de base para pesquisas e montagens das prateleiras do site.
 

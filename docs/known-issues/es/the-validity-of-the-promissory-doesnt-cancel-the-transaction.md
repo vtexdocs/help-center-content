@@ -18,9 +18,7 @@ internalReference: 325491
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Si un cliente realiza un pedido con el método de pago de pagarés y el pago no se realiza, la transacción no es cancelada por la pasarela después de la fecha de vencimiento del pago. En consecuencia, como la OMS no puede identificar el evento de cancelación, el pedido no se cancela

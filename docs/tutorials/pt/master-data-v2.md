@@ -15,8 +15,7 @@ legacySlug: master-data-v2
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---
 
-<div class="alert alert-warning">
-<strong>Atenção:</strong> Esta versão não é compatível com entidades de dados da versão antiga. É possível usar esta configuração somente para novas entidades de dados.</div>
+>⚠️ **Atenção:** Esta versão não é compatível com entidades de dados da versão antiga. É possível usar esta configuração somente para novas entidades de dados.
 
 Este artigo explica como salvar, validar e obter documentos no Master Data da VTEX. Nesta versão, usamos **JSON Schema** para validar documentos.
 

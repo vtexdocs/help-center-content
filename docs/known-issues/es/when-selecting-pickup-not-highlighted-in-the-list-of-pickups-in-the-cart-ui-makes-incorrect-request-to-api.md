@@ -18,9 +18,7 @@ internalReference: 529850
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se selecciona una opción de recogida que no está resaltada, la interfaz de usuario realiza una solicitud incorrecta a la API, y con ello, la solicitud recibe un error y no actualiza los datos de esta recogida seleccionada.

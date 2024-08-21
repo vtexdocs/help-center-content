@@ -14,6 +14,4 @@ locale: es
 legacySlug: como-agregar-mas-agentes-en-un-link-de-whatsapp
 ---
 
-<div class="alert alert-warning">
-  <p>Este contenido sólo está disponible en portugués.</p>
-</div>
+>⚠️ Este contenido sólo está disponible en portugués.

@@ -15,9 +15,7 @@ announcementImageID: ''
 announcementSynopsisES: 'Hasta 7 de mayo, todas las tiendas VTEX van a operar con el nuevo Admin.'
 ---
 
-<div class="alert alert-warning">
-La nueva fecha de liberación del nuevo admin será en el 7 de mayo de 2018 (lunes).
-</div>
+>⚠️ La nueva fecha de liberación del nuevo admin será en el 7 de mayo de 2018 (lunes).
 
 El nuevo ambiente administrativo de VTEX está listo para ser utilizado por todas las tiendas. Después de pasar un tiempo en beta, pudiendo ser probado por una parte de nuestros clientes, el __nuevo Admin__ se ha mejorado y va a empezar a ser liberado poco a poco, en un proceso que comienza esta semana y va hasta 7 de mayo.
 
@@ -29,6 +27,4 @@ Pero quédese tranquilo: esa migración no va a impactar su rutina diaria, ya qu
 
 Usted puede acceder al __nuevo Admin__ usando la url `https://{AccountName}.myvtex.com/admin`, reemplazando _{AccountName}_ por el account name de su tienda.
 
-<div class="alert alert-warning">
-Los módulos de legado (Catálogo, Master Data y CMS) continúan dirigiéndole a ambientes externos.
-</div>
+>⚠️ Los módulos de legado (Catálogo, Master Data y CMS) continúan dirigiéndole a ambientes externos.

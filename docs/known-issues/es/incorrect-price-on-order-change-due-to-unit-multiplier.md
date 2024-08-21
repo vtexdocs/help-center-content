@@ -18,9 +18,7 @@ internalReference: 371066
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Si añade o elimina una SKU de un pedido existente (proceso de modificación de pedido) y la SKU tiene una unidad multiplicadora diferente de 1, la unidad multiplicadora no se tiene en cuenta para calcular el valor del nuevo pedido.

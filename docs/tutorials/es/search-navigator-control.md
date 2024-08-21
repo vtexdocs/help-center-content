@@ -21,9 +21,7 @@ subcategory: 2g6LxtasS4iSeGEqeYUuGW
 
 El control `<vtex.cmc:searchNavigator/>` renderiza un menú de filtros relacionados con el resultado de una búsqueda.
 
-<div class="alert alert-info">
-Este control funciona <b>apenas en páginas con contexto de búsqueda</b>; es decir, páginas donde los resultados mostrados fueron traídos por una búsqueda de usuario.
-</div>
+>ℹ️ Este control funciona **apenas en páginas con contexto de búsqueda**; es decir, páginas donde los resultados mostrados fueron traídos por una búsqueda de usuario.
 
 Cuando el usuario realiza una búsqueda en la tienda, el sistema de VTEX intenta traer resultados de acuerdo con un orden de prioridad de filtros. [Entienda cómo funciona la búsqueda aquí.](/es/tutorial/como-funciona-la-busqueda-de-vtex)
 
@@ -54,9 +52,7 @@ Este flag está en la pantalla de registro de la categoría.
 
 ![Cómo funciona el control Search Navigator ES 2](https://images.ctfassets.net/alneenqid6w5/5Qg0LcxqSc6e2UuEo2M0me/457a81b3196c932f1d3f157582598599/2018-10-23_22-41-18_ES_2.png)
 
-<div class="alert alert-info">
-  <strong>Importante</strong>: El control  <code>&lt;vtex.cmc:searchNavigator/&gt;</code> exhibe, por estándar, apenas la categoría base (primer nivel) y la subcategoría más específica (último nivel) dentro del contexto actual. Se omiten las divisiones intermedias en el árbol de categorías. Además, el control solo funciona en los primeros tres niveles, que son tradicionalmente Departamento, Categoría y Subcategoría. Si su  <a href="https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR">arquitectura de catálogo</a> contiene subdivisiones más allá del tercer nivel, no se mostrarán con el control nativo.
-</div>
+>ℹ️ **Importante**: El control  `&lt;vtex.cmc:searchNavigator/&gt;` exhibe, por estándar, apenas la categoría base (primer nivel) y la subcategoría más específica (último nivel) dentro del contexto actual. Se omiten las divisiones intermedias en el árbol de categorías. Además, el control solo funciona en los primeros tres niveles, que son tradicionalmente Departamento, Categoría y Subcategoría. Si su  [arquitectura de catálogo](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/7kz4uWVq6NoaOdUpiJv4PR) contiene subdivisiones más allá del tercer nivel, no se mostrarán con el control nativo.
 
 ## Marcas
 
@@ -66,9 +62,7 @@ La página de registro de marca no tiene un flag de exhibición en el menú rend
 
 Entonces, por estándar, las marcas siempre se muestran.
 
-<div class="alert alert-warning">
-Sin embargo, en las páginas de departamento o categoría, las marcas solo se mostrarán mediante el control Search Navigator si, en el registro de categoría, el flag <b>Filtro de Marca</b> está seleccionado.
-</div>
+>⚠️ Sin embargo, en las páginas de departamento o categoría, las marcas solo se mostrarán mediante el control Search Navigator si, en el registro de categoría, el flag **Filtro de Marca** está seleccionado.
 
 ### En otras páginas:
 
@@ -95,6 +89,12 @@ Por ser filtros registrados en las categorías, los rangos de precio solo se vis
 
 ---
 
-<div class="alert alert-info">
-Los filtros <strong>siempre</strong> se renderizan en función de los atributos de los productos del contexto de búsqueda. Es decir, en base a la categoría, especificación (color, tamaño), marca, colección, etc.<br><br>Por lo tanto, además de las condiciones señaladas anteriormente para que estos atributos aparezcan como filtros en el menú, es necesario antes de todo que el término buscado devuelva un contexto con productos que tienen esos atributos.<br><br>Si el usuario hace, por ejemplo, una búsqueda por "celular" y la categoría Camisas no contiene ningún celular, esta no aparecerá en el menú, aunque en el registro de esa categoría el flag de exhibición esté seleccionado.
-</div>
+>ℹ️ Los filtros **siempre** se renderizan en función de los atributos de los productos del contexto de búsqueda. Es decir, en base a la categoría, especificación (color, tamaño), marca, colección, etc.
+>
+> 
+>
+> Por lo tanto, además de las condiciones señaladas anteriormente para que estos atributos aparezcan como filtros en el menú, es necesario antes de todo que el término buscado devuelva un contexto con productos que tienen esos atributos.
+>
+> 
+>
+> Si el usuario hace, por ejemplo, una búsqueda por "celular" y la categoría Camisas no contiene ningún celular, esta no aparecerá en el menú, aunque en el registro de esa categoría el flag de exhibición esté seleccionado.

@@ -14,9 +14,7 @@ trackId: 5AF0XfnjfWeopIFBgs3LIQ
 trackSlugEN: catalog-101
 ---
 
-<div class="alert alert-warning">
-  <p>Before creating a collection, you must configure the authorization by having a role with the <b>Write Collections</b> feature enabled in the <b>Collections</b> section of the Catalog profiles. Find out more <a href="https://help.vtex.com/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc">here</a>.</p>
-</div>
+>⚠️ Before creating a collection, you must configure the authorization by having a role with the **Write Collections** feature enabled in the **Collections** section of the Catalog profiles. Find out more [here](https://help.vtex.com/en/tutorial/access-profiles--7HKK5Uau2H6wxE1rH5oRbc).
 
 Follow the step by step below to add a new collection:
 

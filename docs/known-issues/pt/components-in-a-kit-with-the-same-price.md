@@ -18,9 +18,7 @@ internalReference: 989371
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Os componentes em um kit têm o mesmo preço quando uma promoção de presente é configurada e um vendedor regular a cumpre.

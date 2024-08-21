@@ -18,9 +18,7 @@ internalReference: 1061637
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 A veces, cuando un comprador identificado intenta añadir una nueva dirección en el paso de envío de la caja, se solicita un mensaje que requiere autenticación, pero el formulario de dirección no se muestra y no se puede rellenar.

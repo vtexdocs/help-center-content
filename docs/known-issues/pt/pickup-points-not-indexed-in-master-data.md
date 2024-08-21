@@ -18,9 +18,7 @@ internalReference: 530824
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, o sistema de logística usa o MasterData para armazenar informações de pontos de coleta. Como resultado, podemos ter problemas para indexar essa entidade interna ao usar a rota de pesquisa. Isso pode levar a informações desatualizadas, como:

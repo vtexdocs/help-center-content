@@ -31,9 +31,7 @@ Después de ser vendido, un ítem pasa por los siguientes status en el_ stock _d
 
 Puedes seguir el status de la reserva de los ítems a través del Admin VTEX, [como se describe al final de este artículo. ](https://help.vtex.com/es/tutorial/como-se-maneja-la-reserva--tutorials_92#como-seguir-el-status-de-la-reserva)
 
-<div class="alert alert-warning">
-El hecho de añadir productos al carrito no genera reserva ni prioridad. Un ítem solo pasa al status Reserva autorizada tras el cliente finalizar el pedido.
-</div>
+>⚠️ El hecho de añadir productos al carrito no genera reserva ni prioridad. Un ítem solo pasa al status Reserva autorizada tras el cliente finalizar el pedido.
 
 ## Reserva autorizada
 
@@ -49,9 +47,7 @@ _plazo de vencimiento del pago + plazo de reserva en el stock_
     * **cinco días consecutivos:** cuando el día de vencimiento del pago sea miércoles, jueves o viernes.
     * **seis días consecutivos:** cuando el día de vencimiento del pago sea sábado.
 
-<div class="alert alert-danger">
-Los pedidos incompletos tienen un plazo de reserva fijo de 11 días consecutivos. Para saber más, consulta el artículo <a href="https://help.vtex.com/es/tutorial/como-encontrar-un-pedido--tutorials_294">Cómo funcionan los pedidos incompletos.</a> 
-</div>
+>❗ Los pedidos incompletos tienen un plazo de reserva fijo de 11 días consecutivos. Para saber más, consulta el artículo [Cómo funcionan los pedidos incompletos.](https://help.vtex.com/es/tutorial/como-encontrar-un-pedido--tutorials_294)
 
 Para el markeplace externo, si la información del tiempo de reserva se envía por el campo `lockTTL`, el tiempo de reserva no será calculado por la plataforma VTEX, es si determinado por la fecha límite en el campo. Esto se hace mediante el llamado [Place order](https://developers.vtex.com/docs/api-reference/checkout-api#put-/api/checkout/pub/orders).
 
@@ -86,9 +82,7 @@ El inventario de una tienda tiene tres unidades de un ítem. Un cliente realiza 
 
 Cuando el administrador de la tienda o el ERP actualice la cantidad de ese ítem en el inventario, restando la cantidad vendida, la plataforma actualizará la cantidad de ítems disponibles a 2 unidades, lo cual puede interpretarse como una reducción del _stock_. En este caso, la plataforma tiene solo dos unidades de ese ítem en el inventario y ninguna unidad reservada.
 
-<div class="alert alert-danger">
-Al confirmar el inicio de la preparación, el seller pasa a ser el responsable de la reserva de los ítems del pedido. A partir de ese momento, si hay alguna actualización en el inventario, la plataforma de VTEX desestima la reserva de estos SKU. Por lo tanto, actualiza el inventario de los SKU de un pedido determinado únicamente al momento de la facturación. De este modo, se evitan las diferencias de inventario que dependen de la interacción con la <a href="https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide">integración del backoffice</a> de la tienda.
-</div>
+>❗ Al confirmar el inicio de la preparación, el seller pasa a ser el responsable de la reserva de los ítems del pedido. A partir de ese momento, si hay alguna actualización en el inventario, la plataforma de VTEX desestima la reserva de estos SKU. Por lo tanto, actualiza el inventario de los SKU de un pedido determinado únicamente al momento de la facturación. De este modo, se evitan las diferencias de inventario que dependen de la interacción con la [integración del backoffice](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) de la tienda.
 
 ## Cómo seguir el status de la reserva
 

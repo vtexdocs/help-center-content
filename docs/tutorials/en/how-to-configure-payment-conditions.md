@@ -30,9 +30,7 @@ Once you have defined your gateway affiliation, for any pf the payment condition
 
 In addition, it's possible to define whether the payment will be in full or in installments, with or without interest and special conditions.
 
-<div class="alert alert-warning">
- Any changes in payment conditions may take up to 10 minutes to appear at your store's checkout.
-</div>
+>⚠️ Any changes in payment conditions may take up to 10 minutes to appear at your store's checkout.
 
 In the steps below, we will use the credit card as an example of a payment condition.
 
@@ -48,9 +46,7 @@ In the steps below, we will use the credit card as an example of a payment condi
 8. On __In full or in installments?*__, select __In full__.
 9. Click on __Save__.
 
-<div class="alert alert-info">
-In Step 5. you can choose other payment methods such as debit cards, cobranded, private, notes payable, bank invoices, PIX, among others.
-</div>
+>ℹ️ In Step 5. you can choose other payment methods such as debit cards, cobranded, private, notes payable, bank invoices, PIX, among others.
 
 ### Installments without interest
 
@@ -91,9 +87,7 @@ In Step 5. you can choose other payment methods such as debit cards, cobranded, 
 
 In some countries, interest on installment purchases is charged directly by the financial institution. For these cases, you can activate the __External interest__ button. This button fills the amount of interest on the JSON sent to the connector with `null`. This `null` value indicates that interest will be charged at a later date by the financial institution. To activate this feature, click on the button __External interests__ in the configuration of installments with interests.
 
-<div class="alert alert-info">
-  Attention: the external interest functionality is only valid for some gateway affiliations (check that this option is available when registering the desired affiliation). Orders placed by affiliations that do not support this feature will be canceled in the system.
-</div>
+>ℹ️ Attention: the external interest functionality is only valid for some gateway affiliations (check that this option is available when registering the desired affiliation). Orders placed by affiliations that do not support this feature will be canceled in the system.
 
 ## Remove payment condition
 

@@ -18,9 +18,7 @@ internalReference: 793570
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Se o nome da conta é algo como "minha conta", o relatório de busca não recebe dados. Mesmo com os eventos corretamente configurados.

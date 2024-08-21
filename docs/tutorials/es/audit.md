@@ -22,9 +22,7 @@ Para acceder a la página de Audit en el Admin VTEX, ve a **Apps > Apps instalad
 * [Consultar eventos en Audit](#consultar-eventos-en-audit)
 * [Verificar las últimas consultas realizadas en Audit](#verificar-las-ultimas-consultas-realizadas-en-audit)
 
-<div class="alert alert-info">
-  <p>Para visualizar los eventos de Audit, debe tener un <a href="https://help.vtex.com/es/tutorial/perfis-de-acceso--7HKK5Uau2H6wxE1rH5oRbc">perfil de acceso</a> asociado al <a href="https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3">recurso</a> <em>Insights Metrics</em>.</p>
-</div>
+>ℹ️ Para visualizar los eventos de Audit, debe tener un [perfil de acceso](https://help.vtex.com/es/tutorial/perfis-de-acceso--7HKK5Uau2H6wxE1rH5oRbc) asociado al [recurso](https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) *Insights Metrics*.
 
 ![audit-ui-es](https://images.ctfassets.net/alneenqid6w5/5IFUH95vspIgJVYg9CrWMW/7c0a482122fe0605d75492f02b44f20d/audit-ui-es__1_.png)
 

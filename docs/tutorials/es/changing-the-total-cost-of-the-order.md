@@ -17,9 +17,7 @@ subcategory: 3VNOhxDrvYxJThhuJClrYZ
 
 La página [Detalles del pedido](https://help.vtex.com/es/tutorial/pagina-de-detalles-del-pedido-beta--2Y75n54Cc9VizrlG1N6ZNl) permite modificar el valor final del pedido para los pedidos que aún no han sido facturados. Esto ocurre en los escenarios en los que hay descuentos o adiciones al valor.
 
-<div class="alert alert-warning">
-Recuerda que la funcionalidad solo está disponible para los pedidos con el status <code>Preparando entrega</code>.
-</div>
+>⚠️ Recuerda que la funcionalidad solo está disponible para los pedidos con el status `Preparando entrega`.
 
 Para hacer el cambio, sigue los pasos a continuación:
 

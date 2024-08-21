@@ -18,9 +18,7 @@ internalReference: 544034
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Link "Por que preencher VTEX Global Category?" na configuração da categoria só funciona abrindo em uma nova aba. tentar abrir apenas clicando no link irá redirecionar para uma página de erro.

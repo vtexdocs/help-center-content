@@ -25,9 +25,7 @@ Na zona de DNS do seu domínio, você deve criar uma entrada do tipo CNAME no su
 
 Note que o `{domínio}` indicado acima deve ser o mesmo que você [cadastrou na VTEX](https://help.vtex.com/pt/tracks/como-realizar-el-go-live-de-tu-tienda--4Ns5FxIiksmjsdX2yOTduM/7sM5IMx02zaHvAFTm0OxiJ#cadastrar-dominio-na-vtex).
 
-<div class="alert alert-warning">
-Caso você utilize a Cloudflare como zona de DNS, pode ser necessário desabilitar o proxy de DNS e, consequentemente, desativar os serviços de CDN e WAF da Cloudflare. Mais informações podem ser encontradas no artigo <a href="https://help.vtex.com/pt/tutorial/disable-cloudflare-proxy--75QqsXAqR7NdkRc1GZPiXb">Como desabilitar o proxy no Cloudflare</a>.
-</div>
+>⚠️ Caso você utilize a Cloudflare como zona de DNS, pode ser necessário desabilitar o proxy de DNS e, consequentemente, desativar os serviços de CDN e WAF da Cloudflare. Mais informações podem ser encontradas no artigo [Como desabilitar o proxy no Cloudflare](https://help.vtex.com/pt/tutorial/disable-cloudflare-proxy--75QqsXAqR7NdkRc1GZPiXb).
 
 Alguns exemplos:
 
@@ -58,9 +56,7 @@ Endereço da loja: www.loja.minhaempresa.com.br
 
 Atente-se que o início do domínio ("loja", "www", "www.loja" ou qualquer outro) e a terminação (".com", ".com.br", ".com.ar" ou qualquer outro) fazem parte do `{hostname}`, e devem estar no CNAME de destino.
 
-<div class="alert alert-danger">
-Não pode haver nenhum apontamento tipo A coexistindo com o CNAME descrito acima. A coexistência destes dois apontamentos pode causar problemas no Go Live da sua loja. Mantenha apenas o apontamento CNAME descrito acima.
-</div>
+>❗ Não pode haver nenhum apontamento tipo A coexistindo com o CNAME descrito acima. A coexistência destes dois apontamentos pode causar problemas no Go Live da sua loja. Mantenha apenas o apontamento CNAME descrito acima.
 
 A propagação do apontamento de DNS demora de 24 a 48 horas para ocorrer completamente, o que significa que o endereço configurado pode não estar acessível a todas as pessoas logo após a configuração. Além disso é necessário [notificar o apontamento](#notificar-apontamento) para que a loja fique disponível.
 

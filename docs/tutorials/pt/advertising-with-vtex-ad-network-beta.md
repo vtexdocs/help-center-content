@@ -54,9 +54,7 @@ Atualmente a VTEX disponibiliza um único formato de anúncio: resultados de pes
 8. Na seção *Orçamento, bid e cronograma*, clique no botão de editar <i class="fas fa-pencil-alt"></i>.
 9. Defina os valores dos lances para cada produto. Você pode definir cada valor individualmente.
 
-  <div class="alert alert-info">
-O lance de um produto é o custo por clique (CPC), valor gasto quando um usuário clica em um anúcio. Saiba mais sobre <a href="https://help.vtex.com/pt/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#campanhas">campanhas</a> e como fuciona o <a href="https://help.vtex.com/pt/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#priorizacao-de-anuncios">leilão</a>.
-</div>
+  >ℹ️ O lance de um produto é o custo por clique (CPC), valor gasto quando um usuário clica em um anúcio. Saiba mais sobre [campanhas](https://help.vtex.com/pt/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#campanhas) e como fuciona o [leilão](https://help.vtex.com/pt/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#priorizacao-de-anuncios).
 
 10. Clique em `Salvar`.
 11. Defina o orçamento total e a data final da campanha.

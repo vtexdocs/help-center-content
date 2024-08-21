@@ -19,9 +19,7 @@ trackSlugPT: pedidos
 - Por API.
 - Por solicitação do próprio cliente.
 
-<div class="alert alert-warning">
-Uma vez que o pedido seja cancelado, não é possível alterar o seu status. Pedidos com status <b>Faturado</b> não podem ser cancelados.
-</div>
+>⚠️ Uma vez que o pedido seja cancelado, não é possível alterar o seu status. Pedidos com status **Faturado** não podem ser cancelados.
 
 <div class = "alert alert-info">
 Não é possível <a href="https://help.vtex.com/pt/tutorial/como-cancelar-pedido--tutorials_186">cancelar pedidos</a> que já tenham sido <a href="https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe">faturados parcialmente</a>. Caso o cliente deseje substituir ou remover itens do pedido, é possível <a href="https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190">alterar o pedido</a>.

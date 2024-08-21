@@ -18,9 +18,7 @@ internalReference: 712443
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Uma loja precisa configurar a imagem **Principal** independentemente da ordem na qual ela foi carregada no sistema. Atualmente o sistema não respeita a tag **Principal*** e acaba tomando a primeira imagem registrada como a principal.

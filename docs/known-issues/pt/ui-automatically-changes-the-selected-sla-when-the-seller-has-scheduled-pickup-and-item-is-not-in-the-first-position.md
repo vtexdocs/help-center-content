@@ -18,9 +18,7 @@ internalReference: 843602
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Em um carrinho em que há pelo menos dois produtos atendidos por vendedores diferentes, se ambos os vendedores tiverem agendado a retirada e o segundo item tiver várias opções de SLA, a interface do usuário se perde e seleciona automaticamente um SLA diferente e mostra a mensagem "Não há intervalos de tempo disponíveis para esta data.", não permitindo ir para a etapa de pagamento.

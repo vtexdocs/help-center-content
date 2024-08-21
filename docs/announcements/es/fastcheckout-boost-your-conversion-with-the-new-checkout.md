@@ -48,9 +48,7 @@ FastCheckout permite personalizar la experiencia de checkout para adaptarse al c
 
 También es posible incluir elementos completamente personalizados sin necesidad de conocimientos previos de JavaScript o CSS.
 
-<div class="alert alert-warning">
-  <p>La versión inicial de FastCheckout permite personalizaciones limitadas. Pronto será posible personalizar todo el contenido utilizando los puntos de extensión de la plataforma FastStore.</p>
-</div>
+>⚠️ La versión inicial de FastCheckout permite personalizaciones limitadas. Pronto será posible personalizar todo el contenido utilizando los puntos de extensión de la plataforma FastStore.
 
 ### Nuevo flujo de compra
 

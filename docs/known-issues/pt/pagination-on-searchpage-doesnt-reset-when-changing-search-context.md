@@ -18,9 +18,7 @@ internalReference: 857392
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao navegar em uma determinada página de um PLP, buscar para mostrar mais resultados e alterar o contexto para navegar em um departamento diferente, o parâmetro de paginação será mantido e o resultado da pesquisa começará na nova categoria na mesma página em que estávamos anteriormente

@@ -18,9 +18,7 @@ internalReference: 429993
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 Atualmente, está definido no nosso catálogo de regras comerciais que o peso de um KIT SKU deve ser definido pela soma dos seus componentes - https://help.vtex.com/en/tutorial/cadastrando-kit--tutorials_215
 

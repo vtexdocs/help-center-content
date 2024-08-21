@@ -18,9 +18,7 @@ internalReference: 654951
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se utiliza el catálogo graphQL y se traduce la URL utilizando el linkId el rewriter debería almacenar el linkId, pero no está sucediendo: https://developers.vtex.com/docs/guides/catalog-internationalization

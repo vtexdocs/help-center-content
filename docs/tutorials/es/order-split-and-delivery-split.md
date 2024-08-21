@@ -54,8 +54,6 @@ El pedido lo atiende un solo _seller_, pero es necesario realizar más de una en
 
     Esta división se realiza de forma automática y nativa para las tiendas que cuentan con Checkout V6, a través del campo `allowMultipleDeliveries` indicado como `true` en la API [Update orderForm configuration](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pvt/configuration/orderForm). La configuración viene activa por defecto para que sea posible realizar compras con diferentes modalidades de entrega en el mismo carrito.
 
-<div class="alert alert-danger">
-  No recomendamos operar la tienda con el campo <code>allowMultipleDeliveries</code> indicado como <i>false</i>. En esta configuración, cuando hay artículos en el carrito que no tienen ningún método de entrega en común, es decir, los SLAID son diferentes y el carrito tiene un punto de recogida, no será posible completar el pedido.
-</div>
+>❗ No recomendamos operar la tienda con el campo `allowMultipleDeliveries` indicado como <i>false</i>. En esta configuración, cuando hay artículos en el carrito que no tienen ningún método de entrega en común, es decir, los SLAID son diferentes y el carrito tiene un punto de recogida, no será posible completar el pedido.
 
 * **Muelles diferentes:** una misma tienda ofrece todos los ítems de un pedido, pero en el cálculo de la ruta logística están asociados a diferentes muelles. Entonces hay que _dividir los paquetes de entrega_, pero sin dividir el pedido entre diferentes tiendas. La plataforma lo hace automáticamente.

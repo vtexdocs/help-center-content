@@ -28,9 +28,7 @@ Antes de mais nada, verifique os pré-requisitos que sua loja precisa garantir p
 
 ## Implementar Ship From Store
 
-<div class="alert alert-info">
-Embora seja possível implementar Ship From Store de outras maneiras, neste artigo vamos explicar como fazê-lo usando as features de Contra-franquia e Seller White Label. Isto porque essa é a arquitetura mais recomendada pela VTEX para esse tipo de projeto.
-</div>
+>ℹ️ Embora seja possível implementar Ship From Store de outras maneiras, neste artigo vamos explicar como fazê-lo usando as features de Contra-franquia e Seller White Label. Isto porque essa é a arquitetura mais recomendada pela VTEX para esse tipo de projeto.
 
 Estes são os passos para implementar o __Ship From Store__:
 

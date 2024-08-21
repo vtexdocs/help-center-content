@@ -33,17 +33,13 @@ If your store keeps customer information in other data entities, you need to man
 
 2. Use a [Delete Document](https://developers.vtex.com/vtex-rest-api/reference/deletedocument-1) request
 
-<div class="alert alert-danger"> 
-  Do not do this for the <b>CL</b> and <b>AD</b> entities.
-</div> 
+>❗ Do not do this for the **CL** and **AD** entities. 
 
 ## Request deletion via support
 
 You must request the deletion of your customers' personal data from VTEX platform by opening a ticket with the [VTEX Support](https://help.vtex.com/en/support).
 
-<div class="alert alert-warning">
-Please request the deletion of data for only one account, i.e. one shopper email per ticket. If you include more than one email, the ticket will be returned.
-</div>
+>⚠️ Please request the deletion of data for only one account, i.e. one shopper email per ticket. If you include more than one email, the ticket will be returned.
 
 To request the deletion of customer personal data, follow the steps below.
 

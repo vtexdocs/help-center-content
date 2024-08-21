@@ -18,9 +18,7 @@ internalReference: 264441
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Si el carrito tiene varios paquetes con diferentes plazos de entrega, el selector de entrega de la Vista Previa de Envío muestra sólo uno de los plazos, dando información incorrecta.

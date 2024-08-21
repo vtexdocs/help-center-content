@@ -17,8 +17,7 @@ subcategory: 6riYYNZCpO8wyksi8Ksgyq
 
 The VTEX ecosystem offers countless growth opportunities. To expand its collaboration network, VTEX has developed a business plan for external marketplaces that want to become VTEX partners. 
 
-<div class="alert alert-info">
-By joining a business plan, marketplaces get a certification and become certified connectors. Learn more in our <a href="https://vtex.com/us-en/partner/">business plan</a>.</div>
+>ℹ️ By joining a business plan, marketplaces get a certification and become certified connectors. Learn more in our [business plan](https://vtex.com/us-en/partner/).
 
 In addition to providing a set of APIs and instructions to facilitate the integration process with our partners, our team will be available to assist you in your connector's development and homologation processes. We will ensure that you are making proper use of the features so that the integration is set correctly.
 

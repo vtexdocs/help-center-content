@@ -25,9 +25,7 @@ In order to meet these scenarios, we offer the following types of promotions:
 - Progressive Discount
 - Buy One Get One
 
-<div class="alert alert-info">
-The configuration screens for any of the promotions mentioned above follow the same main sections as those explained in the Regular Promotion article. The options in these sections repeat themselves throughout the promotions, with the exception of some specific configurations regarding which conditions to apply the promotion to. Therefore, this article will focus on these specific configurations.
-</div>
+>ℹ️ The configuration screens for any of the promotions mentioned above follow the same main sections as those explained in the Regular Promotion article. The options in these sections repeat themselves throughout the promotions, with the exception of some specific configurations regarding which conditions to apply the promotion to. Therefore, this article will focus on these specific configurations.
 
 ### Buy Together - Bundle
 
@@ -85,9 +83,7 @@ To understand the Buy One Get One promotion in more detail, read our article on 
 
 This setting determines how many items in the cart will be affected by a promotion. 
 
-<div class="alert alert-warning">
-It is important to note that such restrictions are only <strong>valid for regular promotions with percentage discounts</strong>.
-</div>
+>⚠️ It is important to note that such restrictions are only **valid for regular promotions with percentage discounts**.
 
 After filling in all the [regular promotion fields](https://help.vtex.com/en/tutorial/regular-promotion--tutorials_327) with the percentage discount, you can __set a maximum number of items affected per cart__ by checking the box for this option, found in the __restrictions__ section.
 

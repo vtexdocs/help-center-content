@@ -18,9 +18,7 @@ internalReference: 490740
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, se você tiver uma coleção criada inteiramente ou na nova/legacy (CMS) Collections admin, eliminando-a via UI não reindexará os produtos nela contidos, conseqüentemente não os removerá efetivamente da coleção.

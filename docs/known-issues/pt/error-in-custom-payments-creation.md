@@ -18,9 +18,7 @@ internalReference: 995110
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Os comerciantes podem enfrentar um erro ao criar um pagamento personalizado. Depois de preencher tudo e clicar em salvar, a mensagem "O pagamento personalizado foi configurado com sucesso" aparece, mas a criação realmente falhou (não aparece na interface do usuário).

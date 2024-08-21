@@ -33,9 +33,7 @@ Regardless of whether you have installed the <a href= "https://apps.vtex.com/vte
 8. Click on `Continue`.
 9. Choose which permissions must be granted to VTEX for the integration.
 
-  <div class="alert alert-danger">
-For the integration to work properly, we recommended that you grant all the permissions shown. By default, they are set as enabled.
-</div>
+  >❗ For the integration to work properly, we recommended that you grant all the permissions shown. By default, they are set as enabled.
 
 10. Click on `Next`.
 11. In the pop-up window, a confirmation that the integration has been configured will be displayed. Click on `Done`.

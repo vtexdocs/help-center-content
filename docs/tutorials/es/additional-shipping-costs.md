@@ -31,10 +31,8 @@ Los valores adicionales pueden configurarse según:
 
 ![adicionais frete ES](https://images.ctfassets.net/alneenqid6w5/3j3VNUKq6qTGJRfGWGbc14/9aef6304664af38fa0a9c03ed1916f7e/adicionais_frete_ES.svg)
 
-<div class="alert alert-danger">
-Es posible tener todos los adicionales configurados al mismo tiempo para una única tarifa de envío. El cálculo final de la <a href="https://help.vtex.com/es/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM">tarifa de envío</a> es la suma de todos los adicionales registrados más la tarifa fija del flete. 
-La tarifa de envío no es el costo final de envío.
-</div>
+>❗ Es posible tener todos los adicionales configurados al mismo tiempo para una única tarifa de envío. El cálculo final de la [tarifa de envío](https://help.vtex.com/es/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) es la suma de todos los adicionales registrados más la tarifa fija del flete. 
+> La tarifa de envío no es el costo final de envío.
 
 ## Adicional de peso
 
@@ -92,9 +90,7 @@ Adicional de flete: ($10+$0+$9+$5)x10%=$2,4
 Adicionales de flete: ($9+$5+$2,4)=$16,4  
 Tarifa de envío: ($10+$16,4)=$26,4  
 
-<div class="alert alert-danger">
-Es importante recordar que el cálculo del adicional de precio no tiene en cuenta los posibles descuentos y promociones, sino el valor integral del carito. Si el adicional de precio es inferior al adicional de seguro, el adicional de precio no se tiene en cuenta en el cálculo final de la tarifa de envío.
-</div>
+>❗ Es importante recordar que el cálculo del adicional de precio no tiene en cuenta los posibles descuentos y promociones, sino el valor integral del carito. Si el adicional de precio es inferior al adicional de seguro, el adicional de precio no se tiene en cuenta en el cálculo final de la tarifa de envío.
 
 ### Configuración 
 
@@ -128,9 +124,7 @@ Tarifa de envío: ($15+$10,3)=$25,3
 
 El adicional de seguro se configura en la [plantilla de flete](https://help.vtex.com/en/tutorial/planilha-de-frete--tutorials_127), en el campo _MinimumValueInsurance_.
 
-<div class="alert alert-danger">
-Si el adicional de precio es inferior al adicional de seguro, el adicional de precio no se tiene en cuenta en el cálculo final de la tarifa de envío.
-</div>
+>❗ Si el adicional de precio es inferior al adicional de seguro, el adicional de precio no se tiene en cuenta en el cálculo final de la tarifa de envío.
 
 ## Adicional de flete
 

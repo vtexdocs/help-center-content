@@ -15,9 +15,7 @@ legacySlug: crear-regla-de-merchandising-editor-visual-beta
 subcategory: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
-<div class="alert alert-info">
-  <p>Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solamente clientes seleccionados pueden acceder a ella. Si tienes interés en implementarla en tu negocio, comunícate con <a href="https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.</p>
-</div>
+>ℹ️ Esta funcionalidad se encuentra en fase beta cerrada, lo que significa que por el momento solamente clientes seleccionados pueden acceder a ella. Si tienes interés en implementarla en tu negocio, comunícate con [nuestro Soporte](https://support.vtex.com/hc/es-419/requests).
 
 Para configurar una [regla de merchandising](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0) de VTEX Intelligent Search utilizando el [Editor visual](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0#tipos-de-edicao), sigue los pasos a continuación.
 
@@ -47,9 +45,7 @@ Para configurar una [regla de merchandising](https://help.vtex.com/es/tracks/vte
       Más información sobre estas acciones en los puntos **4, 5, 6, 8, 9** y **11** de la sección [Acciones disponibles en el Editor visual](#acciones-disponibles-en-el-editor-visual).
 9. Haz clic en `Guardar`.
 
- <div class="alert alert-info">
-  <p>Una vez guardados, los cambios en las reglas de merchandising tardan un promedio de dos minutos en actualizarse.</p>
-</div>
+ >ℹ️ Una vez guardados, los cambios en las reglas de merchandising tardan un promedio de dos minutos en actualizarse.
 
 ## Acciones disponibles en el Editor visual
 

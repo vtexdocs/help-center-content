@@ -31,6 +31,4 @@ Para realizar las personalizaciones en la página, es necesario:
 2. Autenticarse a través de las opciones __Recibir código de acceso por e-mail__ o __Entrar con e-mail y contraseña__
 3. Ingrese a la sección __Mi cuenta__, ubicada en la esquina superior izquierda de la pantalla al lado de __Mi carrito__
 
-<div class="alert alert-info">
-Para las tiendas creadas a partir del 15 de mayo de 2019, no se requiere ningún ajuste de personalización, ya que el nuevo My Account ya se ha instalado nativamente en la plataforma.
-</div>
+>ℹ️ Para las tiendas creadas a partir del 15 de mayo de 2019, no se requiere ningún ajuste de personalización, ya que el nuevo My Account ya se ha instalado nativamente en la plataforma.

@@ -18,9 +18,7 @@ internalReference: 325273
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A configuração da quantidade máxima do mesmo item no carrinho não pode ser alterada pelas contas de franquia (vendedor whitelabel), pois ocorre em uma tela de catálogo legado (/admin/Site/ConfigForm.aspx) - módulo que é removido das contas de franquia, pois elas herdam os produtos da conta-mãe.

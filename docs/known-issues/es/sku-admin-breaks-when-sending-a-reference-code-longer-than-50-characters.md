@@ -18,9 +18,7 @@ internalReference: 884789
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Se espera que el usuario pueda cambiar el código de referencia de la SKU utilizando el admin. Sin embargo, cuando se introduce un valor de más de 50 caracteres, el administrador se bloquea y muestra un mensaje de error.

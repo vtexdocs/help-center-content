@@ -15,9 +15,7 @@ legacySlug: vtex-shipping-network-correios-faq
 subcategory: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
-<div class="alert alert-info">
-Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site <a href="https://vtex.com/br-pt/shipping-network-correios/">VTEX Shipping Network Correios</a>. Em caso de dúvidas, entre em contato pelo email <i>vtexlog@vtex.com.br</i>.
-</div>
+>ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/). Em caso de dúvidas, entre em contato pelo email <i>vtexlog@vtex.com.br</i>.
 
 Este artigo reúne as dúvidas mais comuns sobre o [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/), a solução da VTEX para você integrar sua operação com os serviços PAC e SEDEX dos Correios pelo Admin VTEX, dispor de recursos exclusivos e aproveitar nossas tarifas competitivas.
 
@@ -110,9 +108,7 @@ A fatura do **VTEX Shipping Network Correios** é feita com emissão de nota fis
 
 Todo mês é gerado um relatório com informações das entregas dos Correios e respectivos custos, e esse documento é enviado para o email do responsável, um contato definido no momento da implantação. Para alterá-lo, entre em contato com o nosso suporte pelo email _vtexlog@vtex.com.br_.
 
-<div class="alert alert-warning">
-A nota fiscal apresenta o valor total de custos com os Correios, no entanto, é possível checar o preço de cada envio no relatório mensal que o responsável recebe por email.
-</div>
+>⚠️ A nota fiscal apresenta o valor total de custos com os Correios, no entanto, é possível checar o preço de cada envio no relatório mensal que o responsável recebe por email.
 
 ## 7. Como contratar o VTEX Shipping Network Correios?
 

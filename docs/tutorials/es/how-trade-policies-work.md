@@ -59,9 +59,7 @@ Puede limitar el acceso a la tienda a públicos específicos, como en un sitio B
 
 ## Gestión de la cuenta
 
-<div class="alert alert-warning">
-Para los clientes que tienen muchas subcuentas o con operaciones en tiendas físicas que permiten la recogida en la tienda o con el envío desde la tienda, la creación de múltiples políticas comerciales no es la mejor solución. Sugerimos abrir nuevos <a href="https://help.vtex.com/es/tutorial/o-que-e-store-name">nombres de tienda</a> para cada una de las tiendas que operan dentro de una <a href="https://help.vtex.com/es/tutorial/o-que-e-account-name">cuenta</a>. 
-</div>
+>⚠️ Para los clientes que tienen muchas subcuentas o con operaciones en tiendas físicas que permiten la recogida en la tienda o con el envío desde la tienda, la creación de múltiples políticas comerciales no es la mejor solución. Sugerimos abrir nuevos [nombres de tienda](https://help.vtex.com/es/tutorial/o-que-e-store-name) para cada una de las tiendas que operan dentro de una [cuenta](https://help.vtex.com/es/tutorial/o-que-e-account-name).
 
 Demasiadas políticas comerciales en un entorno VTEX hace que el proceso de indexación de los productos en la vitrina y la simulación del envío en el checkout sean más lentos, lo que puede afectar la conversión de los pedidos. Al segmentar el catálogo con múltiples políticas comerciales en lugar de crear nombres de tiendas con su propio stock, la tienda también puede perder oportunidades de venta y mejores condiciones de entrega al restringir la oferta de productos. Vea más información sobre [cómo crear un nombre de tienda](https://help.vtex.com/es/tutorial/como-criar-um-store-name).
 

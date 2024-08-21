@@ -18,9 +18,7 @@ internalReference: 923619
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Se tentarmos criar um caminho usando tipos de conteúdo por meio da interface do usuário, a página não funcionará. Ela só funcionará se a criarmos por meio do tema.

@@ -18,9 +18,7 @@ internalReference: 380471
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando a Política de Embarque tem o MaxVolume abaixo na planilha, não há erro de mensagem a respeito disso na Simulação.

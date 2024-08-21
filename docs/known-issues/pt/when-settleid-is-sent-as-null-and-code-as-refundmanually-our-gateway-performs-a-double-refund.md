@@ -18,9 +18,7 @@ internalReference: 615050
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A documentação do PPP indica que quando o processo de reembolso não funcionou, o provedor deve responder com um `nulo` a este campo, e também quando o reembolso deve ser feito manualmente, o campo de código deve ter o valor "reembolso-manual".

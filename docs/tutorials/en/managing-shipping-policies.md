@@ -103,9 +103,7 @@ To activate or deactivate a shipping policy, follow the steps below:
 
 To delete a shipping policy, follow the steps below:
 
-<div class="alert alert-danger">
-Deleting a shipping policy is permanent and cannot be undone.
-</div>
+>❗ Deleting a shipping policy is permanent and cannot be undone.
 
 1. In the VTEX Admin, go to **Shipping > Shipping Strategy** or type **Shipping Strategy** in the search bar at the top of the page.
 2. In the **Shipping Policies** tab, in the row for the shipping policy you want, click the menu icon <i class="fas fa-ellipsis-v"></i>. You can [search](#searching-for-shipping-policies) for policies or [filter by](#filtering-shipping-policies) certain criteria.

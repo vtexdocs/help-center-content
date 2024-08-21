@@ -15,10 +15,8 @@ legacySlug: importar-planilha-de-frete
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-<div class="alert alert-info">
-Aviso: Esta documentação está em processo de atualização para refletir a mudança do conceito de Painéis para 
-<a href="https://help.vtex.com/pt/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl">estratégia de envio</a>.
-</div> 
+>ℹ️ Aviso: Esta documentação está em processo de atualização para refletir a mudança do conceito de Painéis para 
+> [estratégia de envio](https://help.vtex.com/pt/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl). 
 
 
 Antes de fazer a importação, é importante ter a planilha no modelo VTEX, ou seja, __idêntica à nossa Planilha Modelo__, inclusive na formatação das células, com o cabeçalho e formato _.xls_ (Excel 97-2003). Para obter o modelo, clique no link __Download da Planilha Modelo__, que fica dentro de configurações da transportadora.
@@ -32,17 +30,11 @@ Antes de fazer a importação, é importante ter a planilha no modelo VTEX, ou s
 
 Depois disso, será possível visualizar uma tarja laranja sobre a transportadora que teve a inclusão da tabela de frete, com a informação __Em processamento__. O tempo para a planilha ser consumida dependerá da quantidade de linhas contidas nela.
 
-<div class="alert alert-warning">
-Lembre-se que cada nova importação sobrescreve as informações que foram importadas anteriormente.
-</div>
+>⚠️ Lembre-se que cada nova importação sobrescreve as informações que foram importadas anteriormente.
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> caso as 65.536 linhas da versão <em>.xls</em> não sejam suficiente para o cadastro de todos os valores de frete da transportadora, será necessário criar uma nova aba dentro do arquivo, com o mesmo cabeçalho para continuar preenchendo as informações.
-</div>
+>⚠️ **OBS:** caso as 65.536 linhas da versão *.xls* não sejam suficiente para o cadastro de todos os valores de frete da transportadora, será necessário criar uma nova aba dentro do arquivo, com o mesmo cabeçalho para continuar preenchendo as informações.
 
-<div class="alert alert-warning">
-<strong>OBS2:</strong>Caso a planilha tenha mais de 10 MB, será necessário compactá-la no formato <strong>.zip</strong>. Esse arquivo .zip também deve ter menos de 10 MB para o upload funcionar. Se, ainda assim, o arquivo exceder o limite, recomendamos dividir em mais transportadoras.
-</div>
+>⚠️ **OBS2:**Caso a planilha tenha mais de 10 MB, será necessário compactá-la no formato **.zip**. Esse arquivo .zip também deve ter menos de 10 MB para o upload funcionar. Se, ainda assim, o arquivo exceder o limite, recomendamos dividir em mais transportadoras.
 
 ## Gerar planilha automaticamente para os Correios
 

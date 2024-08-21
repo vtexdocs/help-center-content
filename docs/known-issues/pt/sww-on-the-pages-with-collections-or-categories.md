@@ -18,9 +18,7 @@ internalReference: 785324
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Às vezes, quando carregamos uma categoria ou coleção, seja por parte da visualização ou da própria página de coleção/categoria, um erro SWW é exibido em toda a página.

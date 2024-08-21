@@ -63,17 +63,13 @@ Cada columna de la lista de planes de suscripción muestra información sobre el
     * **Activo:** significa que el plan está disponible para que los clientes lo utilicen al crear nuevas suscripciones con los productos asociados.
     * **Inactivo:** significa que el plan no está disponible al crear nuevas suscripciones, aunque tenga productos asociados.
 
-<div class="alert alert-info">
-<p>Los planes inactivos se desactivan solo para las nuevas compras. Si hay clientes que ya habían creado suscripciones mientras el plan estaba activo, el plan seguirá creando pedidos con las frecuencias establecidas durante los siguientes ciclos de esos clientes incluso después de ser desactivado.</p>
-</div>
+>ℹ️ Los planes inactivos se desactivan solo para las nuevas compras. Si hay clientes que ya habían creado suscripciones mientras el plan estaba activo, el plan seguirá creando pedidos con las frecuencias establecidas durante los siguientes ciclos de esos clientes incluso después de ser desactivado.
 
 * **Botón** <i class="fas fa-ellipsis-v"></i>**:** al hacer clic en este botón, puede seleccionar las siguientes acciones.
     * **Editar:** abre la página para editar el plan de suscripción.
     * **Eliminar:** permite eliminar el plan de forma permanente. Antes de eliminar, aparece una pantalla para confirmar la acción. Después de hacer clic en `Eliminar plan`, esta acción **no** puede revertirse.
 
-<div class="alert alert-warning">
-  <p>Cuando elimina un plan, <strong>no</strong> se generarán los pedidos de los clientes que compraban con las frecuencias de ese plan a partir del siguiente ciclo de suscripción. Para evitar que se use el plan al crear nuevas suscripciones, pero mantener los próximos pedidos de los clientes que tienen suscripciones existentes, debe desactivar el plan en lugar de eliminarlo.</p>
-</div>
+>⚠️ Cuando elimina un plan, **no** se generarán los pedidos de los clientes que compraban con las frecuencias de ese plan a partir del siguiente ciclo de suscripción. Para evitar que se use el plan al crear nuevas suscripciones, pero mantener los próximos pedidos de los clientes que tienen suscripciones existentes, debe desactivar el plan en lugar de eliminarlo.
 
 ## Mostrar filas
 

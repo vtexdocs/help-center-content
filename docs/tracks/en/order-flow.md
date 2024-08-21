@@ -25,9 +25,7 @@ Order changes - whether caused by the customer, the store, or external systems -
 - __Marketplace__ is the environment where the order is closed, ie, where the customer performs the checkout process.
 - __Seller__ is the owner of the SKU. It is therefore responsible for the fulfillment - that is, for delivering the product to the customer.
 
-<div class="alert alert-info">
-Every store that sells products in its own environment and makes its own deliveries is a Marketplace and a Seller at the same time.
-</div>
+>ℹ️ Every store that sells products in its own environment and makes its own deliveries is a Marketplace and a Seller at the same time.
 
 It's important to understand these concepts because the Marketplace's order flow is different from the Seller's order flow.
 
@@ -71,14 +69,13 @@ Once the payment has been approved, the order goes to `Payment Approved` and the
 
 That is, in this case both payment and delivery steps are the store's responsibility.
 
-<div class="alert alert-info">
-There are only two possible final statuses for every order:<br>
-<ul>
-  <li>Invoiced</li>
-  <li>Canceled</li>
-</ul>
-</div>
+>ℹ️ There are only two possible final statuses for every order:
+>
+> 
+>
+> * Invoiced
+>
+> * Canceled
+> 
 
-<div class="alert alert-info">
-To understand each order status in more detail, see a table with all statuses at <a href="https://help.vtex.com/en/tutorial/fluxo-de-pedido--tutorials_196#understanding-the-status">Understanding the Status</a>.
-</div>
+>ℹ️ To understand each order status in more detail, see a table with all statuses at [Understanding the Status](https://help.vtex.com/en/tutorial/fluxo-de-pedido--tutorials_196#understanding-the-status).

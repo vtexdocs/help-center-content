@@ -18,9 +18,7 @@ internalReference: 701169
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El activador de producto visitado, que utiliza los datos capturados por Request Capture, está configurado con el filtro "checkout" establecido en "null". Sin embargo, Request Capture necesita pasar por la caja para capturar los datos de usuario y de navegación y rellenarlos en los Datos Maestros. Como resultado, el activador no funciona correctamente porque RC no puede rellenar los datos antes de la salida.

@@ -18,9 +18,7 @@ internalReference: 907567
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Se espera utilizar el admin sin restricciones. Sin embargo, a veces se muestra un error **Something Went Wrong** en el admin del catálogo.

@@ -32,9 +32,7 @@ Após ser vendido, um item passa pelos seguintes status no inventário da sua lo
 
 É possível acompanhar o status da reserva dos itens pelo Admin VTEX, [como descrito ao final deste artigo.](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona--tutorials_92#como-acompanhar-o-status-da-reserva)
 
-<div class="alert alert-warning">
-Produtos inseridos no carrinho não geram reserva ou prioridade. Um item só passa para o status de Reserva autorizada após o cliente finalizar o pedido.
-</div>
+>⚠️ Produtos inseridos no carrinho não geram reserva ou prioridade. Um item só passa para o status de Reserva autorizada após o cliente finalizar o pedido.
 
 ## Reserva autorizada
 
@@ -50,9 +48,7 @@ _Tempo de expiração do pagamento + tempo de reserva no estoque_
     * **cinco dias corridos:** quando o dia de expiração do pagamento for quarta, quinta ou sexta.
     * **seis dias corridos:** quando o dia de expiração do pagamento for sábado.
 
-<div class="alert alert-danger">
-Pedidos incompletos têm o tempo fixo de reserva de 11 dias corridos. Para saber mais, confira o artigo <a href="https://help.vtex.com/pt/tutorial/entendendo-os-pedidos-incompletos">Como funcionam os pedidos incompletos</a>. 
-</div>
+>❗ Pedidos incompletos têm o tempo fixo de reserva de 11 dias corridos. Para saber mais, confira o artigo [Como funcionam os pedidos incompletos](https://help.vtex.com/pt/tutorial/entendendo-os-pedidos-incompletos).
 
 Para marketplace externo, se a informação do tempo da reserva for enviada pelo campo `lockTTL`, o tempo de reserva não será calculado pela plataforma VTEX, e sim determinado pelo prazo no campo. Isso é feito pela chamada [Place order](https://developers.vtex.com/docs/api-reference/checkout-api#put-/api/checkout/pub/orders).
 
@@ -86,9 +82,7 @@ O inventário de uma loja possui três unidades de um item. Um cliente faz uma c
 
 Quando o lojista ou o ERP atualizarem a quantidade desse item no inventário  retirando a quantidade vendida (atualizando com duas unidades), a plataforma atualiza a quantidade de itens disponíveis, o que pode ser interpretado como uma baixa no estoque. A plataforma, nesse caso, mantém apenas duas unidades do item no inventário e nenhuma unidade reservada.
 
-<div class="alert alert-danger">
-Ao confirmar o início do manuseio, o seller assume a responsabilidade da reserva dos itens do pedido. A partir desse momento, se houver qualquer atualização no inventário, a plataforma VTEX desconsidera a reserva destes SKUs. Portanto, atualize o inventário para SKUs de um dado pedido apenas quando este for faturado. Dessa forma evita-se divergência de inventário dependendo da interação com a <a href="https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide">integração de backoffice</a> da sua loja.
-</div>
+>❗ Ao confirmar o início do manuseio, o seller assume a responsabilidade da reserva dos itens do pedido. A partir desse momento, se houver qualquer atualização no inventário, a plataforma VTEX desconsidera a reserva destes SKUs. Portanto, atualize o inventário para SKUs de um dado pedido apenas quando este for faturado. Dessa forma evita-se divergência de inventário dependendo da interação com a [integração de backoffice](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) da sua loja.
 
 ## Como acompanhar o status da reserva
 

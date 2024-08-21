@@ -15,8 +15,7 @@ legacySlug: master-data-v2
 subcategory: 5gtjaqCG7eIseyCI0aSqc2
 ---
 
-<div class="alert alert-warning">
-<strong>Attention:</strong> This version isn't compliant with data entities of old version. It's possible to use this configuration only to new data entities.</div>
+>⚠️ **Attention:** This version isn't compliant with data entities of old version. It's possible to use this configuration only to new data entities.
 
 ## Introduction
 

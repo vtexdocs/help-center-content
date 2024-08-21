@@ -18,9 +18,7 @@ internalReference: 264791
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Valor do "spotPrice" (preço à vista) no "skuJson" do Portal incorreto em produtos com múltiplos vendedores.

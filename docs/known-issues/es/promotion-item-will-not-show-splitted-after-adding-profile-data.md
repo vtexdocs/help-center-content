@@ -18,9 +18,7 @@ internalReference: 842575
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El comportamiento esperado al aplicar una promoción Más por Menos es tener el artículo promocional separado de los artículos normales, pero los artículos se agruparán después de añadir un correo electrónico a la caja.

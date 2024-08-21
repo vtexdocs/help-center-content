@@ -16,7 +16,7 @@ subcategory: 4hisB47iAVZk4r3SEmMoG
 ---
 
 
-<div class="alert alert-warning"> El límite para cada cuenta en el Seller Portal es de 100 mil productos. Para obtener más información, póngase en contacto con <a href="https://support.vtex.com/hc/pt-br/requests">nuestro equipo de soporte.</div>
+>⚠️ El límite para cada cuenta en el Seller Portal es de 100 mil productos. Para obtener más información, póngase en contacto con <a href="https://support.vtex.com/hc/pt-br/requests">nuestro equipo de soporte.
 
 **Productos compartidos** es el módulo donde usted gestiona los productos en común entre su catálogo y lo que ya se oferta en el marketplace. El panel de productos compartidos informa todos los productos que el marketplace ha puesto a disposición de su tienda para venta. Son productos sincronizados con el catálogo del marketplace. 
 

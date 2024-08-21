@@ -26,9 +26,7 @@ Check the steps for each of these options below:
 
 We recommend creating roles that are analogous to the store's hierarchical structures. This approach ensures that all employees are accountable for the information they have access to. Best practices for managing roles not only increase operational security but also heighten the awareness of those handling sensitive store data and customer information.
 
-<div class="alert alert-warning">
-  <p>Unrestricted use of overly permissive roles increases the risk of store attacks through leaked login credentials.</p>
-</div>
+>⚠️ Unrestricted use of overly permissive roles increases the risk of store attacks through leaked login credentials.
 
 ## Using predefined roles
 
@@ -75,9 +73,7 @@ To create a custom role that meets the access needs of a group of users, follow 
     You can add resources from as many products as you need to the role.
 7. Type a name for the custom role in the **Role name** field.
 
-  <div class="alert alert-warning">
-    <p>Choose descriptive names for the roles, clearly indicating the type of user who should have access. We recommend indicating the position in the company or the activity to be carried out on the platform.</p>
-  </div>
+  >⚠️ Choose descriptive names for the roles, clearly indicating the type of user who should have access. We recommend indicating the position in the company or the activity to be carried out on the platform.
 8. Add admin users to the role by entering the user email address in **Add users to this role** and then click `Add`.
 
     ![Role users](https://images.ctfassets.net/alneenqid6w5/1lSnygEawddufMz9IZ45Mj/3d41ef2c9033f8f3add993039c4d8560/usuarios-en.PNG)

@@ -88,9 +88,7 @@ Ejemplo: se configuró que la especificación “color” se puede buscar y el p
 
 Se puede encontrar un producto realizando una búsqueda por caracteres especiales (`-` y `/`).
 
-<div class="alert alert-warning">
-	<p>La selección de los campos de búsqueda afecta las posibilidades de las <a href="https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0">reglas de merchandising</a>, ya que solo se pueden utilizar los campos que permiten búsquedas para configurar reglas. Por ejemplo, al definir solo el campo <code>SKUID</code> para búsquedas, no se podrá promover un <code>ProductID</code> o un <code>ProductRefID</code> utilizando reglas de merchandising.</p>
-</div>
+>⚠️ La selección de los campos de búsqueda afecta las posibilidades de las [reglas de merchandising](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/5tBSYXb9EIdePa0MWTnFd0), ya que solo se pueden utilizar los campos que permiten búsquedas para configurar reglas. Por ejemplo, al definir solo el campo `SKUID` para búsquedas, no se podrá promover un `ProductID` o un `ProductRefID` utilizando reglas de merchandising.
 
 ### Definición y orden de los campos de filtro
 
@@ -104,9 +102,7 @@ Ejemplo: un administrador de la tienda configuró que el criterio “promoción�
 
 Para obtener más información sobre cómo personalizar el orden de los resultados de acuerdo con las necesidades de tu tienda, consulta el artículo [Configuración de relevancia](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1qlObWIib6KqgrfX1FCOXS).
 
-<div class="alert alert-info">
-	<p>Al utilizar Intelligent Search, hay dos opciones que definirán el orden de tus colecciones. Si utilizas el comando <code>map=productClusterIds</code>, estás definiendo que el orden de tus colecciones será el predefinido por el administrador de la tienda, con su propio criterio de relevancia. Si eliges utilizar <code>productClusterNames</code>, estás definiendo que quieres que tus colecciones sigan los estándares de relevancia de Intelligent Search.</p>
-</div>
+>ℹ️ Al utilizar Intelligent Search, hay dos opciones que definirán el orden de tus colecciones. Si utilizas el comando `map=productClusterIds`, estás definiendo que el orden de tus colecciones será el predefinido por el administrador de la tienda, con su propio criterio de relevancia. Si eliges utilizar `productClusterNames`, estás definiendo que quieres que tus colecciones sigan los estándares de relevancia de Intelligent Search.
 
 ## Formas alternativas de búsqueda
 

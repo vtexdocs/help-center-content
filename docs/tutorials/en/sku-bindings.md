@@ -97,9 +97,7 @@ To remove the binding between the seller’s SKU and the marketplace SKU, follow
 2. On the row where you may find the desired item, click on the menu icon <i class="fas fa-ellipsis-v"></i>.
 3. Click on the <i class="far fa-trash-alt"></i> `Remove` button.
 
-<div class="alert alert-warning">
-When you remove a binding, the seller's SKU will no longer be part of the marketplace catalog. Therefore, it'll disappear from the list on the <b>SKU Bindings</b> page. You cannot recover a removed binding. However, the seller can resend the SKU to the marketplace, which will <a href="https://help.vtex.com/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396">catalog</a> the SKU again and make it available.
-</div>
+>⚠️ When you remove a binding, the seller's SKU will no longer be part of the marketplace catalog. Therefore, it'll disappear from the list on the **SKU Bindings** page. You cannot recover a removed binding. However, the seller can resend the SKU to the marketplace, which will [catalog](https://help.vtex.com/en/tutorial/sugerindo-e-aprovando-skus--tutorials_396) the SKU again and make it available.
 
 ## Exporting
 

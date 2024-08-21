@@ -18,9 +18,7 @@ internalReference: 1049543
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O problema parece ocorrer apenas em subcontas, mesmo desativado (também excluído) o método de pagamento é renderizado no checkout

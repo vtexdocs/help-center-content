@@ -19,9 +19,9 @@ Puede hacer un seguimiento de la disponibilidad de las ventanas de entrega y de 
 
 Para gestionar su **Capacidad de entrega**, debe tener [políticas de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140) previamente registradas y la [Capacidad de entrega](https://help.vtex.com/es/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi) previamente configurada. 
 
-<div class="alert alert-warning">
-Para que la <a href="https://help.vtex.com/es/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi">Entrega programada</a> y la <a href="https://help.vtex.com/es/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz">Capacidad de entrega</a> funcionen correctamente, debes tener en cuenta que:<p><ul><li>La suma de {<a href="https://help.vtex.com/es/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC">account name</a>} + {ID de la política de envío} no puede exceder los 60 caracteres.</li><li>No se debe utilizar espacio en el ID de la <a href="https://help.vtex.com/es/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT">política de envío</a>.</li></ul></p>
-</div>
+>⚠️ Para que la [Entrega programada](https://help.vtex.com/es/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi) y la [Capacidad de entrega](https://help.vtex.com/es/tutorial/managing-delivery-capacity--2y217FQZCjD0I1n62yxVcz) funcionen correctamente, debes tener en cuenta que:
+> *La suma de {[account name](https://help.vtex.com/es/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC)} + {ID de la política de envío} no puede exceder los 60 caracteres.
+> * No se debe utilizar espacio en el ID de la [política de envío](https://help.vtex.com/es/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT).
 
 En el Admin VTEX, accede a **Envío > Capacidad de entrega**, o escribe **Capacidad de entrega** en la barra de búsqueda en la parte superior de la página. La **Capacidad de entrega** contiene una lista de las ventanas de entrega de su tienda. La lista mostrada se refiere a la política de envío seleccionada en el filtro `Política de envío` y al periodo seleccionado en el filtro `Fecha`.
 

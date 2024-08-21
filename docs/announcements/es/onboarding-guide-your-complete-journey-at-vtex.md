@@ -33,9 +33,7 @@ La **Guía de onboarding** se compone de 3 series:
 * [Próximos pasos tras el go live](https://help.vtex.com/es/tracks/proximos-pasos-tras-el-go-live--3J7WFZyvTcoiwkcIVFVhIS)
 * [Soporte en VTEX](https://help.vtex.com/es/tracks/soporte-en-vtex--4AXsGdGHqExp9ZkiNq9eMy)
 
-<div class="alert alert-info"> 
-Las series presentan contenidos complementarios, pero son independientes entre sí, lo que significa que se puede explorar el contenido libremente y sin necesidad de seguir una secuencia.
-</div>
+>ℹ️ Las series presentan contenidos complementarios, pero son independientes entre sí, lo que significa que se puede explorar el contenido libremente y sin necesidad de seguir una secuencia.
 
 Nuestra meta es asegurarnos de que tanto clientes como partners, así como todo el ecosistema de VTEX, puedan sacarle el máximo partido a la **Guía de onboarding**. Con este objetivo de garantizar la pertinencia del material para una amplia gama de negocios, hemos cubierto una jornada completa y abarcadora. 
 

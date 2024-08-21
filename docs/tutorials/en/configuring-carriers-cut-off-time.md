@@ -15,9 +15,7 @@ legacySlug: setting-the-carriers-cut-off-time
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-<div class="alert alert-warning">
-Warning: This documentation is being updated to reflect the concept change from Dashboards to <a href="https://help.vtex.com/en/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl">Shipping strategy</a>.
-</div>
+>⚠️ Warning: This documentation is being updated to reflect the concept change from Dashboards to [Shipping strategy](https://help.vtex.com/en/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl).
 
 The carriers, which are called Shipping Policies in the Admin, are the companies responsible for distributing the products sold through an e-commerce platform. It is common for a store to have multiple carriers associated with it. This is because the carriers’ operation and fleet profile **vary according to the route, shipping time, and type of product** that it will deliver.
 

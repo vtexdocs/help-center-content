@@ -18,9 +18,7 @@ internalReference: 727339
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 Al finalizar la compra, el cliente va a la página conocida como **Order Placed**, en esta página tenemos un evento **Request Capture** *(`RequestType: "orderPlaced"`) de nuestra plataforma que captura algunos detalles del pedido y sirve para alimentar de información el **DataLayer**.
 

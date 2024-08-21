@@ -15,12 +15,14 @@ legacySlug: nueva-seccion-de-mis-pedidos
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-<div class="alert alert-warning">
-Esta actualización és una <em>major</em> y <strong>no és compatible con las customizaciones de la página actual de Mis Pedidos</strong>. 
-<br />
-<br />
-Dado que la nueva estrutura de páginas es completamente diferente, será necesário volver a modificar las customizaciones para migrar a esta versión. Ver detalles sobre cómo actualizar su customización en <a href="http://help.vtex.com/es/tutorial/customizando-la-seccion-mis-pedidos">Customizando la sección Mis Pedidos</a>.
-</div>
+>⚠️ Esta actualización és una *major* y **no és compatible con las customizaciones de la página actual de Mis Pedidos**. 
+>
+>
+> 
+>
+>
+> 
+> Dado que la nueva estrutura de páginas es completamente diferente, será necesário volver a modificar las customizaciones para migrar a esta versión. Ver detalles sobre cómo actualizar su customización en [Customizando la sección Mis Pedidos](http://help.vtex.com/es/tutorial/customizando-la-seccion-mis-pedidos).
 
 VTEX busca usar estrategias modernas para crear productos que atiendan cada vez mejor al mercado de e-commerce. Por esa razón, comenzamos a usar las librerías de desarrollo React JS en nuestras features más recientes: la nueva página de **Mis Pedidos** es un ejemplo. Ella viene con nuevas features y nuevo diseño, y fue creada de cero usando React.
 

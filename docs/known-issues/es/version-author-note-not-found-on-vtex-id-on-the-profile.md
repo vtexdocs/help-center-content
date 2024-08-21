@@ -18,9 +18,7 @@ internalReference: 914314
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando el cliente realiza una compra, el autor de la versión recibe un id de usuario (guid) o un servicio, seguido del login/nombre/descripción "`Note: Not found on VTEX ID.`" en el perfil.

@@ -23,9 +23,7 @@ The **Products and SKUs** page allows you to view and manage the list of all pro
 
 ![products-skus-en](https://images.ctfassets.net/alneenqid6w5/3Euar7pKsXKgqIfz1MwOOa/f02b69940302cf42cf3eefd80ec56445/products-skus-en.png)
 
-<div class="alert alert-info">
-  <p>This page is only available to stores operating with the <a href="https://help.vtex.com/en/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa">New VTEX Admin</a>. To access this page and be part of the new experience, join the New VTEX Admin <a href="https://content.vtex.com/participe-do-programa-beta-en/?utm_source=landing_page&utm_medium=help_center&utm_campaign=new_admin_beta">Beta program</a>.</p>
-</div>
+>ℹ️ This page is only available to stores operating with the [New VTEX Admin](https://help.vtex.com/en/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). To access this page and be part of the new experience, join the New VTEX Admin [Beta program](https://content.vtex.com/participe-do-programa-beta-en/?utm_source=landing_page&utm_medium=help_center&utm_campaign=new_admin_beta).
 
 This page allows you to: 
 
@@ -83,9 +81,7 @@ The list of products can be filtered according to your needs. You can use the fo
 
 Select the desired filters and click `Apply` to filter the products. To cancel the selection, click `Clear`.
 
-<div class="alert alert-warning">
-  <p>You cannot filter products by <a href="https://help.vtex.com/en/tutorial/what-is-a-seller--5FkLvhZ3Few4CWWIuYOK2w">seller</a> or pre-sale date in this Catalog version.</p>
-</div>
+>⚠️ You cannot filter products by [seller](https://help.vtex.com/en/tutorial/what-is-a-seller--5FkLvhZ3Few4CWWIuYOK2w) or pre-sale date in this Catalog version.
 
 ## Tracking product status
 

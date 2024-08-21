@@ -18,9 +18,7 @@ internalReference: 1045623
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El sistema de filtrado de pedidos actualmente no devuelve los pedidos con promociones que contienen comillas dobles `"` en sus nombres, esto también se aplica al nombre SKU.

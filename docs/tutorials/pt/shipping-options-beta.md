@@ -15,9 +15,7 @@ legacySlug: delivery-options-beta
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-<div class="alert alert-info">
-<p>Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href= "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
-</div>
+>ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href= "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
 
 **Opções de envio** é a funcionalidade que permite ao lojista criar, editar e gerenciar no mesmo local as opções de envio de pedidos, garantindo mais simplicidade e eficiência na gestão da sua operação. O termo envio é a forma geral de se referir a entrega ou retirada de um pedido. Na configuração de cada opção de envio, o lojista determina:
 

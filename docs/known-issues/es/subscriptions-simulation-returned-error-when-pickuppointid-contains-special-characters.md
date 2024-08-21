@@ -18,9 +18,7 @@ internalReference: 903332
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Para realizar un pedido de suscripción o actualizar una suscripción, el sistema de suscripción realiza una simulación, y en esta simulación utiliza los datos de entrega devueltos por el sistema logístico, y si dentro de estos datos hay un punto de recogida cuyo ID está subrayado, el sistema de suscripción no podrá elegir correctamente el ANS, generando así el error "AddressProvider inválido:...." en la simulación y en consecuencia no generará el pedido.

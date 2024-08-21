@@ -23,4 +23,4 @@ Es posible visualizar la última fecha de actualización del XML. Esa informaci�
 
 ![](https://images.contentful.com/alneenqid6w5/5YwPKBeb5ekeGEu6gcQgUG/585efc76d9e56c5ed434d4faa6e526f0/xml.png)
 
-<div class="alert alert-info">Caso la opción "Exhibir los SKUs sin saldo disponible (agotados) en Stock entre los resultados" no esté señalada, los productos/SKUs que estén agotados <strong>no</strong> surgirán en el XML. Productos inactivos también <strong>no</strong> surgen en el XML.</div>
+>ℹ️ Caso la opción "Exhibir los SKUs sin saldo disponible (agotados) en Stock entre los resultados" no esté señalada, los productos/SKUs que estén agotados **no** surgirán en el XML. Productos inactivos también **no** surgen en el XML.

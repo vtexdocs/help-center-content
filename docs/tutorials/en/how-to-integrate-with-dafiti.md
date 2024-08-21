@@ -64,9 +64,7 @@ The mapping should be done every time a product is sent to Dafiti for the first 
 
 Follow the steps below, doing the to/from on the __Mapping Spreadsheet__ between what VTEX has registered with regards to your product and the specific values found in the Dafiti __Query Spreadsheet__.
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> any value used that is not found in the Query Spreadsheet will trigger an integration error.
-</div>
+>⚠️ **OBS:** any value used that is not found in the Query Spreadsheet will trigger an integration error.
 
 1. __SKU:__ is the SKU ID in VTEX. This is the SKU ID that you want to send to Dafiti.
 
@@ -89,10 +87,11 @@ Follow the steps below, doing the to/from on the __Mapping Spreadsheet__ between
 <br/>_`Ex:` you are mapping a hoodie. Normally, the column __Model__ contains the value `Hoodie`._
 
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> in the Brazilian integration, Dafiti requires that the name of registered product follows the following guidelines: <strong>Type of Product + Brand + Model + Colour.</strong>
-<br/>
-That being the case, whenever we encounter values for these four fields in VTEX, we will automatically create a new product name. If some of the fields are not present, we send the product’s original name. </div>
+>⚠️ **OBS:** in the Brazilian integration, Dafiti requires that the name of registered product follows the following guidelines: **Type of Product + Brand + Model + Colour.**
+>
+>
+> 
+> That being the case, whenever we encounter values for these four fields in VTEX, we will automatically create a new product name. If some of the fields are not present, we send the product’s original name.
 
 
 ## Sending images
@@ -108,9 +107,7 @@ To send through the Mapping Spreadsheet, follow these step-by-step instructions:
 
 You can send up to __eight images__. In order to do this, you will need to add new columns, following the given pattern: `Image_2`, `Image_3`,..., `Image_8`.
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> remember to use <code>http</code> or <code>https</code> at the beginning of your URLs. If you won’t do this, an error will occur when trying to upload the spreadsheet to VTEX.
-</div>
+>⚠️ **OBS:** remember to use `http` or `https` at the beginning of your URLs. If you won’t do this, an error will occur when trying to upload the spreadsheet to VTEX.
 
 
 ## Sending the Product Brand
@@ -118,9 +115,7 @@ You can send up to __eight images__. In order to do this, you will need to add n
 The integration will send the brand that is registered with your product to the VTEX catalogue.
 <br/>_`Ex:` if you are sending an Adidas shirt, the integration will send `Adidas` as the brand._
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> similar to what happens with category and specifications, Dafiti has brands that are mapped on its platform. In this case, if any of your products have a brand that is not registered with Dafiti, an integration error will occur. If this happens, get in touch with Dafiti to ask for the brand in questions to be registered on their system.
-</div>
+>⚠️ **OBS:** similar to what happens with category and specifications, Dafiti has brands that are mapped on its platform. In this case, if any of your products have a brand that is not registered with Dafiti, an integration error will occur. If this happens, get in touch with Dafiti to ask for the brand in questions to be registered on their system.
 
 
 ## Uploading

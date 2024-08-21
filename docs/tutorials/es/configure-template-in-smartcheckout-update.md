@@ -19,9 +19,7 @@ El __portal__ es usado para renderizar las pantallas de __Checkout__ (carrito, d
 
 El módulo __Checkout__ en Admin, muestra los sitios que están registrados para su cuenta. A través de él, también es posible crear un nuevo sitio, editar y configurar información sobre sitios existentes.
 
-<div class="alert alert-info">
-Cada sitio registrado corresponde a un multidominio (si la cuenta tiene multidominios contratados). Para cuentas que no utilizan multidominios, no es necesario registrar más de un sitio en este módulo. Obtenga más información en <a href="https://help.vtex.com/es/tutorial/como-criar-multiloja-multidominio--tutorials_510#">Crear multitienda/multidominio</a>.
-</div>
+>ℹ️ Cada sitio registrado corresponde a un multidominio (si la cuenta tiene multidominios contratados). Para cuentas que no utilizan multidominios, no es necesario registrar más de un sitio en este módulo. Obtenga más información en [Crear multitienda/multidominio](https://help.vtex.com/es/tutorial/como-criar-multiloja-multidominio--tutorials_510#).
 
 ## Crear un nuevo sitio web
 
@@ -100,9 +98,7 @@ El código HTML completado en el template corresponde a lo que aparecerá en las
 
 De templates disponibles, los únicos que no se pueden cambiar son __vtex-checkout__ y __vtex-orderPlaced__. Estos corresponden al funcionamiento nativo de la plataforma, presentando el contenido principal de las páginas de __checkout__ y __order placed__.
 
-<div class="alert alert-warning">
-La plataforma ignorará los Javascripts incluidos directamente en cualquier template del Portal. Es decir, en el momento de renderizar la página, la plataforma la eliminará. Esto se debe a que <a href="https://help.vtex.com/es/tutorial/smartcheckout-preenchimento-automatico-de-dados-do-cliente--2Nuu3xAFzdhIzJIldAdtan#">SmartCheckout</a> solo acepta scripts originados en Google Tag Manager. Por lo tanto, siempre que sea necesario realizar alguna personalización (o incluso la inserción de etiquetas específicas) a través de javascript, utilice <a href="https://help.vtex.com/es/tutorial/integration-with-google-tag%20-%20gerente--frequentlyAskedQuestions_616#">Google Tag Manager</a>.
-</div>
+>⚠️ La plataforma ignorará los Javascripts incluidos directamente en cualquier template del Portal. Es decir, en el momento de renderizar la página, la plataforma la eliminará. Esto se debe a que [SmartCheckout](https://help.vtex.com/es/tutorial/smartcheckout-preenchimento-automatico-de-dados-do-cliente--2Nuu3xAFzdhIzJIldAdtan#) solo acepta scripts originados en Google Tag Manager. Por lo tanto, siempre que sea necesario realizar alguna personalización (o incluso la inserción de etiquetas específicas) a través de javascript, utilice [Google Tag Manager](https://help.vtex.com/es/tutorial/integration-with-google-tag%20-%20gerente--frequentlyAskedQuestions_616#).
 
 ### Ejemplos de cómo rellenar templates 
 

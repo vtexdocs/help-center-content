@@ -18,9 +18,7 @@ internalReference: 1028210
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Se ha detectado que en algunos pedidos en los que existe un descuento asociado a uno o varios artículos, podemos tener una discrepancia en el valor total del campo "artículos a facturar" en la interfaz de usuario del pedido, ya que el cálculo de este campo tiene en cuenta el parámetro "precioVenta", en lugar del parámetro "precioDefiniciones". Por lo tanto, es posible notar diferencias de 0,01 o un poco más del valor total del pedido.

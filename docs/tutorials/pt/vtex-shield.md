@@ -15,9 +15,7 @@ legacySlug: vtex-shield
 subcategory: jrgbOxKaOW0kdZs7rdgvS
 ---
 
-<div class="alert alert-info">
-  <p>Se já é cliente da VTEX e deseja adotar o VTEX Shield no seu negócio, entre em contato com o <a href="https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Suporte Comercial</a>. É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o <a href="https://vtex.com/br-pt/contato/">formulário de contato</a>.</p>
-</div>
+>ℹ️ Se já é cliente da VTEX e deseja adotar o VTEX Shield no seu negócio, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). É possível que taxas adicionais se apliquem. Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
 
 O VTEX Shield oferece camadas adicionais e personalizáveis de proteção para lojas que priorizam a resiliência da plataforma, além dos padrões de segurança garantidos pelas [certificações e práticas de segurança](https://vtex.com/br-pt/security/security-practices/) existentes na VTEX.
 
@@ -52,9 +50,7 @@ Somente lojas com VTEX Shield que optarem por esse recurso podem solicitar a ati
 
 ## Data Protection Plus
 
-<div class="alert alert-info">
-  <p>Esta funcionalidade está em fase beta fechada, disponível apenas para algumas regiões. Em caso de dúvidas, entre em contato com o <a href="https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Suporte Comercial</a>.</p>
-</div>
+>ℹ️ Esta funcionalidade está em fase beta fechada, disponível apenas para algumas regiões. Em caso de dúvidas, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ).
 
 O [Data Protection Plus](https://developers.vtex.com/docs/guides/data-protection-plus) é uma arquitetura de dados que oferece uma camada adicional de proteção para dados pessoais. Nessa arquitetura, todos os dados PII (Personally Identifiable Information) são armazenados no [Profile System](https://developers.vtex.com/docs/guides/profile-system), um serviço desenvolvido especificamente para processar PII seguindo um [conjunto de regras e processos](https://developers.vtex.com/docs/guides/pii-data-architecture-specifications) apropriados para esse objetivo.
 

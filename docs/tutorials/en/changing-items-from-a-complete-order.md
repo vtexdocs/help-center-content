@@ -22,9 +22,7 @@ There are two ways to make a change to an order:
 * [VTEX Admin:](#how-to-change-order-items) it is only possible if the order status is `Handling Shipping`.
 * [Order change API:](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/changes) in addition to changing items, you can create discounts and change the order price. You can only change it if the order status in the order API is `handling` or `waiting-for-fulfillment`.
 
-<div class="alert alert-warning">
-After it has been changed, the customer will receive an email notification if the <code>Change of information</code> template (<a href="https://help.vtex.com/en/tutorial/order-transactional-email-templates--3g2S2kqBOoSGcCaqMYK2my">transactional email template related to the order</a>) is enabled in Message Center. The customer receives the messages with the information that was filled in the item change form.
-</div>
+>⚠️ After it has been changed, the customer will receive an email notification if the `Change of information` template ([transactional email template related to the order](https://help.vtex.com/en/tutorial/order-transactional-email-templates--3g2S2kqBOoSGcCaqMYK2my)) is enabled in Message Center. The customer receives the messages with the information that was filled in the item change form.
 
 ## Restrictions
 

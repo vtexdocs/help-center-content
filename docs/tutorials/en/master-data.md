@@ -21,9 +21,7 @@ By default, Master Data is used to store and organize Customer data from your st
 
 In this article you will learn more about each available version of the Master Data, important concepts, and how to use it.
 
-<div class="alert alert-info">
-Note that depending on the functionality and version you wish to use, it is necessary to contact your development team.
-</div>
+>ℹ️ Note that depending on the functionality and version you wish to use, it is necessary to contact your development team.
 
 ## Versions available
 
@@ -224,9 +222,7 @@ Check the table below to learn more about the different functionalities of each 
    </tbody>
 </table></div>
 
-<div class="alert alert-danger">
-Note that the data entities of the two versions are independent, even if some may be analogous. This means that a data created in a v1 entity cannot be queried or edited using v2 resources and vice versa.
-</div>
+>❗ Note that the data entities of the two versions are independent, even if some may be analogous. This means that a data created in a v1 entity cannot be queried or edited using v2 resources and vice versa.
 
 ## Basic components
 

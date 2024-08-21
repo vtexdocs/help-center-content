@@ -15,9 +15,7 @@ legacySlug: mapeamento-de-categorias-e-marcas-para-marketplace-vtex-beta
 subcategory: 24EN0qRBg4yK0uusGUGosu
 ---
 
-<div class="alert alert-info">
-<p>Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
-</div>
+>ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 A arquitetura de uma loja VTEX possibilita [anunciar e vender produtos](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402) em outras lojas, sejam elas VTEX ou não. Ao vender produtos de outros sellers em seu ambiente, a loja VTEX se torna um [marketplace VTEX](https://help.vtex.com/pt/tutorial/configurar-marketplace-vtex--7splyp5MqIyt2Iyz5jsNzb). 
 

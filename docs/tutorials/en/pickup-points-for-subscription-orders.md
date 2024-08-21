@@ -24,9 +24,7 @@ Check out how to enable this feature:
 - [Requirements](#requirements)
 - [Choosing pickup points](#choosing-pickup-points)
 
-<div class="alert alert-info">
-  <p>The pickup points feature is available only for accounts using the <a href="https://help.vtex.com/en/tutorial/ativar-o-checkout-v6--7qVqv3ptRvpVVplrvg8ruH">Checkout V6</a>.</p>
-</div>
+>ℹ️ The pickup points feature is available only for accounts using the [Checkout V6](https://help.vtex.com/en/tutorial/ativar-o-checkout-v6--7qVqv3ptRvpVVplrvg8ruH).
 
 ## Requirements
 

@@ -18,9 +18,7 @@ internalReference: 1037800
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o comerciante faz alterações ou adiciona novos acessórios à sku, o indexador não está sendo acionado automaticamente.

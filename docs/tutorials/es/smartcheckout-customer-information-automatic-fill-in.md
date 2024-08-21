@@ -17,9 +17,7 @@ subcategory: 6XAvmMxp7yyY06ewYMuggs
 
 SmartCheckout permite que los datos del cliente se completen automáticamente durante el Checkout. Para que esto suceda, el cliente solo debe ingresar el email registrado en la tienda. Esta funcionalidad reduce el tiempo de compra y elimina la necesidad de ingresar los datos cada vez que se realiza una compra en la misma tienda.
 
-<div class="alert alert-info">
-Para que SmartCheckout reutilice los datos del cliente durante el Checkout, es necesario que el cliente haya realizado alguna compra o que tenga un perfil registrado en la tienda.
-</div>
+>ℹ️ Para que SmartCheckout reutilice los datos del cliente durante el Checkout, es necesario que el cliente haya realizado alguna compra o que tenga un perfil registrado en la tienda.
 
 ## Datos de registro del cliente
 

@@ -15,9 +15,7 @@ legacySlug: promotions-simulator
 subcategory: 6iTRZiMeCGXYiO2ckABFZi
 ---
 
-<div class="alert alert-info">
-<p>This module is in beta, which means we are working to improve it. If you have any questions, please contact <a href= "https://support.vtex.com/hc/en-us/requests">our Support</a>.</p>
-</div>
+>ℹ️ This module is in beta, which means we are working to improve it. If you have any questions, please contact <a href= "https://support.vtex.com/hc/en-us/requests">our Support</a>.
 
 The **Promotions Simulator** allows you to view the promotions applied to shopping carts and their conditions. With several possibilities for setting up promotions, it is important to have visibility into their [competition](https://help.vtex.com/en/tutorial/understanding-competition-of-promotions--tutorials_2270) and [combination](https://help.vtex.com/en/tutorial/understanding-competition-of-promotions--tutorials_2270#accumulation) during purchase and how they work.
 

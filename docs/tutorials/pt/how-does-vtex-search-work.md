@@ -37,9 +37,7 @@ De acordo com o termo buscado, o sistema pode renderizar os resultados abaixo,
 
 Se o termo buscado corresponder exatamente ao nome de uma pasta configurada no CMS (ou seja, a uma landing page), essa pasta será renderizada.
 
-<div class="alert alert-warning">
-  <p>Para uma pasta ser buscável ela deve possuir um layout. Mesmo que a pesquisa seja por uma pasta filha, a pai também requer um layout.</p>
-</div>
+>⚠️ Para uma pasta ser buscável ela deve possuir um layout. Mesmo que a pesquisa seja por uma pasta filha, a pai também requer um layout.
 
 ### 2. Marca
 

@@ -18,9 +18,7 @@ internalReference: 594828
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Antes, la funcionalidad "**Fines de semana y festivos**" y "**horario comercial**" funcionaban conjuntamente, es decir, una información dependía de la otra.

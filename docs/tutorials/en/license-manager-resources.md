@@ -19,10 +19,8 @@ VTEX provides several pre-defined [roles](https://help.vtex.com/en/tutorial/role
 
 Therefore, the VTEX platform offers you the possibility to create custom access profiles, allowing you to choose precisely which custom profile can access specific resources. Below you will find the descriptions of the resources available on the VTEX platform by product.
 
-<div class="alert alert-danger">
-  <p>Unrestricted use of resources increases the risk of store attacks by leaking login credentials with access to critical resources.
-If you have questions about the description of a specific feature, please feel free to contact us.</p>
-</div>
+>❗ Unrestricted use of resources increases the risk of store attacks by leaking login credentials with access to critical resources.
+> If you have questions about the description of a specific feature, please feel free to contact us.
 
 <iframe src="https://help.vtex.com/tables/resources/en" title="License Manager resources" frameBorder="0" width="100%" height="850"></iframe>
 

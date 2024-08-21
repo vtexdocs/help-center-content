@@ -15,12 +15,10 @@ legacySlug: detalhes-da-interacao
 subcategory: 
 ---
 
-<div class="alert alert-info">
-Para evoluir sua experiência ao sincronizar e atualizar anúncios, o time da VTEX está desenvolvendo uma nova funcionalidade que irá substituir o atual módulo <b>Gerenciamento de anúncios</b>.
-Por este motivo, o Gerenciamento de anúncios não receberá novas atualizações ou manutenção. 
-Para conectores e marketplaces que já se integraram com o módulo, solicitamos que entre em contato com nosso time de desenvolvimento através do email <a href="taissa.araujo@vtex.com.br">taissa.araujo@vtex.com.br</a>.
-Para os conectores com interesse em iniciar a integração, solicitamos que aguardem o lançamento do novo módulo, assim que disponível avisaremos a todos os clientes através do <a href="https://developers.vtex.com/updates/release-notes">Developer portal na página de release notes</a> e <a href="https://help.vtex.com/pt/en/announcements">VTEX Help Center na página de novidades</a>.
-</div>   
+>ℹ️ Para evoluir sua experiência ao sincronizar e atualizar anúncios, o time da VTEX está desenvolvendo uma nova funcionalidade que irá substituir o atual módulo **Gerenciamento de anúncios**.
+> Por este motivo, o Gerenciamento de anúncios não receberá novas atualizações ou manutenção. 
+> Para conectores e marketplaces que já se integraram com o módulo, solicitamos que entre em contato com nosso time de desenvolvimento através do email [taissa.araujo@vtex.com.br](taissa.araujo@vtex.com.br).
+> Para os conectores com interesse em iniciar a integração, solicitamos que aguardem o lançamento do novo módulo, assim que disponível avisaremos a todos os clientes através do [Developer portal na página de release notes](https://developers.vtex.com/updates/release-notes) e [VTEX Help Center na página de novidades](https://help.vtex.com/pt/en/announcements).   
 
 A página de **Detalhes da interação**, do módulo [Gerenciamento de anúncios](https://help.vtex.com/pt/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE), permite que sellers visualizem de forma mais completa as interações ocorridas a um anúncio durante seu processo de envio e sincronização com um canal. Cada interação do anúncio fica disponível por dez dias a partir do seu registro.
 

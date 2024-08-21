@@ -18,9 +18,7 @@ internalReference: 384009
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Isto acontece quando uma transação recebe o status 480 que significa "REVIEW", e começa a tentar novamente até receber uma carga útil nula. Então, depois disso, "reprocessamos" a transação que causa uma falha e um cancelamento.

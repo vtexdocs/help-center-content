@@ -18,9 +18,7 @@ internalReference: 999476
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Algumas páginas de resultados de pesquisa ocultam os filtros aplicados - já que eles já fazem parte da própria página, portanto, são definidos como "initialAttributes" - para se concentrar nos filtros adicionais que podem ser aplicados. Nesses cenários, os valores do título da página e dos breadcrumbs são basicamente definidos pelo primeiro produto da página.

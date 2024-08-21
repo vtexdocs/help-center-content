@@ -31,6 +31,4 @@ Ou seja:
 
 Além disso, é importante frisar que quando a data esperada de pagamento cai em feriado ou em finais de semana, o dinheiro é transferido para o lojista no próximo dia útil. A regra é aplicada em todos os planos de recebimentos do VTEX Payment.
 
-<div class="alert alert-info">
-<strong>Atenção</strong>: Mudar de plano não interfere na data de recebimento das vendas, tampouco nas taxas aplicadas ao valor do produto. Por exemplo, caso um item seja parcelado em três vezes enquanto o Plano D30 estava em vigor, as taxas e as datas de recebimento aplicadas a esse plano valerão para todas as parcelas. Mesmo que o lojista opte por adotar outro plano nesse intervalo de tempo..    
-</div>
+>ℹ️ **Atenção**: Mudar de plano não interfere na data de recebimento das vendas, tampouco nas taxas aplicadas ao valor do produto. Por exemplo, caso um item seja parcelado em três vezes enquanto o Plano D30 estava em vigor, as taxas e as datas de recebimento aplicadas a esse plano valerão para todas as parcelas. Mesmo que o lojista opte por adotar outro plano nesse intervalo de tempo..

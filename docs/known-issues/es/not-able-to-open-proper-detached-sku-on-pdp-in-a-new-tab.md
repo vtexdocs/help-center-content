@@ -18,9 +18,7 @@ internalReference: 871848
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se utiliza la función detach para dividir productos por alguna especificación SKU y se intenta abrir una nueva pestaña de PLP a PDP, no reconoce el parámetro de propiedad que se pasa a la URL para seleccionar el SKU correcto, sólo muestra el SKU adecuado al abrir en la misma pestaña.

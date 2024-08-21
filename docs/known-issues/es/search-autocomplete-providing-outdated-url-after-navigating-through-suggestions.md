@@ -18,9 +18,7 @@ internalReference: 968604
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En el componente "search-bar" con "autocomplete-result-list.v2", al pasar el ratón por las sugerencias de búsqueda también cambiarán los productos sugeridos, así como el texto de "ver todos {n} los productos" para mencionar la búsqueda seleccionada, pero el hipervínculo de "ver todos" sigue el término de búsqueda original en lugar del seleccionado.

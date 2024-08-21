@@ -15,7 +15,7 @@ legacySlug: criar-um-produto-beta
 subcategory: 
 ---
 
-<div class="alert alert-info"> Essa funcionalidade está em fase beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso<a href="https://support.vtex.com/hc/pt-br/requests">Suporte</a>.</div>
+>ℹ️ Essa funcionalidade está em fase beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso[Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 A página **Adicionar produto (Beta)** possibilita criar e editar produtos e seus SKUs relacionados de forma completa no Admin VTEX. Para adicionar um novo produto, siga o passo a passo abaixo. 
 
@@ -33,7 +33,7 @@ Caso você queira criar um produto no modo inativo, clique no botão <i class="f
 
 Feito isso, o produto será ativado e estará disponível na sua loja.
 
-<div class="alert alert-info">Se o seu produto não aparecer no site da sua loja após o cadastro, confira o artigo  <a href="https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382">Por que o produto não aparece no site?</a> para entender como resolver esse problema.</div>
+>ℹ️ Se o seu produto não aparecer no site da sua loja após o cadastro, confira o artigo  [Por que o produto não aparece no site?](https://help.vtex.com/pt/faq/por-que-o-produto-nao-aparece-no-site--frequentlyAskedQuestions_382) para entender como resolver esse problema.
 
 # Produto
 Nesta aba, você vai realizar o cadastro do produto preenchendo os campos descritos abaixo com as características do item.
@@ -127,7 +127,7 @@ Aqui serão exibidas as especificações criadas anteriormente para os SKUs. Se 
 
 ## Imagens
 
-<div class="alert alert-warning">SKUs devem ter pelo menos uma imagem para estar ativo.</div>
+>⚠️ SKUs devem ter pelo menos uma imagem para estar ativo.
 
 Para adicionar uma imagem a seu SKU, siga os passos abaixo:
 
@@ -135,7 +135,7 @@ Para adicionar uma imagem a seu SKU, siga os passos abaixo:
 2. Adicione o link da sua imagem no campo 🔗. Você pode adicionar mais de uma imagem ano seu SKU. Para isso, clique em + Adicionar imagem e adicione o novo link.![image6](https://images.ctfassets.net/alneenqid6w5/7lEnztWcQFXIAPFdMkHIaH/96ff215f5caef65e23ecac650111ee50/image6.png)
 3. Clique em `Salvar`.
 
-<div class="alert alert-info"> A primeira imagem adicionada será a imagem principal do SKU que será exibida na loja e nos resultados de busca. </div>
+>ℹ️ A primeira imagem adicionada será a imagem principal do SKU que será exibida na loja e nos resultados de busca.
 
  Você pode editar os metadados de uma imagem clicando no botão <i class="fas fa-ellipsis-v"></i> e selecione <i class="fas fa-pencil-alt"></i> Editar metadados.
 

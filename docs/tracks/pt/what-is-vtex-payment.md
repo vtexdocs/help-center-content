@@ -66,11 +66,7 @@ Siga o passo a passo abaixo para realizar o preenchimento destes campos:
 
 O VTEX Payment permite configurar cartão de crédito e boleto bancário como formas de pagamento. Para maiores informações, veja como [configurar condições de pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento--tutorials_455?&utm_source=autocomplete).
 
-<div class="alert alert-warning">
-No VTEX Payment, o prazo padrão para vencimento de boletos bancários é de 3 dias. Caso deseje alterar este prazo, entre em contato com o atendimento da VTEX.
-</div>
+>⚠️ No VTEX Payment, o prazo padrão para vencimento de boletos bancários é de 3 dias. Caso deseje alterar este prazo, entre em contato com o atendimento da VTEX.
 
-<div class="alert alert-warning">
-  Caso o VTEX Payment não esteja disponível no Admin da sua loja, entre em contato com a VTEX para que o seu perfil de acesso seja criado e o conector disponibilizado para instalação e configuração.
-  </div>
+>⚠️ Caso o VTEX Payment não esteja disponível no Admin da sua loja, entre em contato com a VTEX para que o seu perfil de acesso seja criado e o conector disponibilizado para instalação e configuração.
 

@@ -18,16 +18,13 @@ Once you have configured the initial integration settings, you can send the prod
 
 To send your products to Amazon, you need to map the product [categories](https://help.vtex.com/en/tutorial/o-que-e-uma-categoria--6HV4Q3E2FauUoOQoiCCgCg) and [attributes](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/2NQoBv8m4Yz3oQaLgDRagP).  
 
-<div class="alert alert-info">
-Your products need to have the <a href="https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">warehouse</a> and <a href="https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP">price</a> configured before sending them to Amazon.  </div>
+>ℹ️ Your products need to have the [warehouse](https://help.vtex.com/en/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) and [price](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configured before sending them to Amazon.
 
 ## Mapping categories  
 
 The mapping process can be done through the [VTEX Admin](#mapping-through-the-vtex-admin), or a [spreadsheet](#mapping-via-spreadsheet). See below how to do it in each case. 
 
-<div class="alert alert-danger">
-When mapping a category using the VTEX Admin, the category mapping previously done via a spreadsheet will be overwritten and cannot be recovered.
-</div>  
+>❗ When mapping a category using the VTEX Admin, the category mapping previously done via a spreadsheet will be overwritten and cannot be recovered.  
 
 ### Mapping through the VTEX Admin (BETA)  
 
@@ -54,10 +51,10 @@ To map a category, follow these steps:
 4. Match the attributes in the side window, as shown in the image below: ![Amazon Mapper Attributes](https://downloads.ctfassets.net/alneenqid6w5/3gw5pXd6bvjIMs4ydBLmwv/da4ea7365efc744b036e55305feaea6f/mapper_amazon_atributos.gif)  
 5. Click the `Save Changes` button.  
 
-<div class="alert alert-danger">
-Fields with an * asterisks are required.
-<br>Completing an attribute can trigger new required fields that only become visible under <b>Marketplace > Connections > Products</b> after the mapping has been saved.</br>
-</div>
+>❗ Fields with an * asterisks are required.
+>
+>
+> Completing an attribute can trigger new required fields that only become visible under **Marketplace > Connections > Products** after the mapping has been saved.</br>
 
 ### Mapping via spreadsheet  
 
@@ -180,9 +177,7 @@ The template contains the following columns:
 | F | VTEXValue | Name of the value used in the SKU field on the VTEX platform |
 | G | AmazonValue | Name of the values accepted by Amazon |
 
-<div class="alert alert-info">
-The Amazon mapping template is case-sensitive.
-</div>
+>ℹ️ The Amazon mapping template is case-sensitive.
 
 Follow the steps below for each product:
 
@@ -199,9 +194,7 @@ Follow the steps below for each product:
 6. Fill in the **VTEXValue** column with the values of the product attribute on VTEX.
 7. Fill in the **AmazonValue** column with the attribute values accepted by Amazon. To view the values accepted by Amazon, go to the [Amazon required attribute spreadsheet](#2-amazon-attributes-template) and look for the `VALORES VÁLIDOS` tab.
 
-<div class="alert alert-warning">
-Depending on the category, the <b>VariationTheme</b> values may be similar. There are categories in which <b>VariationTheme</b> can be: <i>SizeColor</i>, <i>Color</i> e <i>Size</i>, while there are other categories in which it can be: <i>ColorSize</i>, <i>Color</i> e <i>Size</i>. The difference is in the order. In <i>SizeColor</i>, the checkboxes on the product page will be sorted by size and color, while in <i>ColorSize</I> they will be sorted by color and size. Pay attention to the values valid for each category that will be mapped. 
-</div>
+>⚠️ Depending on the category, the **VariationTheme** values may be similar. There are categories in which **VariationTheme** can be: <i>SizeColor</i>, <i>Color</i> e <i>Size</i>, while there are other categories in which it can be: <i>ColorSize</i>, <i>Color</i> e <i>Size</i>. The difference is in the order. In <i>SizeColor</i>, the checkboxes on the product page will be sorted by size and color, while in <i>ColorSize</I> they will be sorted by color and size. Pay attention to the values valid for each category that will be mapped.
 
 #### Example
 

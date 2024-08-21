@@ -18,9 +18,7 @@ internalReference: 1026103
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao tentar traduzir um texto usando o editor do site para o botão Adicionar ao carrinho, as alterações não são aplicadas na frente da loja.

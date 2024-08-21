@@ -15,9 +15,7 @@ legacySlug: puntos-de-recogida-para-pedidos-de-suscripcion-beta
 subcategory: 3RmFd9bgAeRAVGeBd7XDUr
 ---
 
-<div class="alert alert-info">
-  <p>Esta funcionalidad se encuentra en fase Beta, lo que significa que estamos trabajando para mejorarla. En caso de que tenga alguna duda, contacte a <a href="https://support.vtex.com/hc/pt-br/requests">nuestro Soporte</a>.</p>
-</div>
+>ℹ️ Esta funcionalidad se encuentra en fase Beta, lo que significa que estamos trabajando para mejorarla. En caso de que tenga alguna duda, contacte a [nuestro Soporte](https://support.vtex.com/hc/pt-br/requests).
 
 Un punto de recogida es un lugar físico donde el cliente tiene la opción de recoger su pedido, en vez de recibirlo en casa. Un ejemplo de escenario para esta funcionalidad es la recogida en la tienda.
 
@@ -28,9 +26,7 @@ A continuación, vea lo que se requiere para habilitar esta funcionalidad.
 - [Requisitos](#requisitos)
 - [Eligir puntos de recogida](#eligir-puntos-de-recogida)
 
-<div class="alert alert-info">
-  <p>La funcionalidad de puntos de recogida solo está disponible para las cuentas que ya tienen acceso a <b>Checkout V6</b>.</p>
-</div>
+>ℹ️ La funcionalidad de puntos de recogida solo está disponible para las cuentas que ya tienen acceso a **Checkout V6**.
 
 ## Requisitos
 

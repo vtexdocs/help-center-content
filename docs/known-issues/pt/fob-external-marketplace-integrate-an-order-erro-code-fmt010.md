@@ -18,9 +18,7 @@ internalReference: 532377
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O mercado externo (parceiro) ao tentar integrar as ordens FOB está recebendo o erro:

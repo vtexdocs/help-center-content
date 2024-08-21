@@ -20,11 +20,7 @@ Política de envío es un conjunto de reglas que definen las opciones y condicio
 
 Todos estos ajustes se basan principalmente en el contrato que su tienda tiene con una [transportadora](https://help.vtex.com/es/tutorial/o-que-e-uma-transportadora--7u9duMD5UQa2QQwukAWMcE), un prestador de servicios o cualquier otro tipo de contrato de servicio de envío que su tienda ofrece a los consumidores.
 
-<div class="alert alert-info">
-
-Es posible que una misma transportadora sea la base de varias políticas de envío, cada una con sus particularidades. A continuación, se explica cómo crear, editar y eliminar políticas de envío
-
-</div>
+>ℹ️ Es posible que una misma transportadora sea la base de varias políticas de envío, cada una con sus particularidades. A continuación, se explica cómo crear, editar y eliminar políticas de envío
 
 A través de la plataforma VTEX es posible: 
 

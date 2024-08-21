@@ -50,6 +50,4 @@ Puede ver el mensaje escrito en la página de __Mi Cuenta > Mis Pedidos__:
 
 ![](https://images.contentful.com/alneenqid6w5/6h7iGpA880OgaemumSsEiG/10764ef2d3113be498fb24802e5d35c5/mensagem-meus-pedidos.png)
 
-<div class="alert alert-info">
-  <p>Después de configurar el servicio en el SKU aguarde la indexación para que el registro tenga efecto en el sitio. Después de esto ya será posible probar la compra con este servicio activo.</p>
-</div>
+>ℹ️ Después de configurar el servicio en el SKU aguarde la indexación para que el registro tenga efecto en el sitio. Después de esto ya será posible probar la compra con este servicio activo.

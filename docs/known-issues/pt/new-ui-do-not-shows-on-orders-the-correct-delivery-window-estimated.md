@@ -18,9 +18,7 @@ internalReference: 620668
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 Na nova IU, alguns pedidos não mostram corretamente a entrega estimada.
 

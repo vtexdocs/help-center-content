@@ -18,9 +18,7 @@ internalReference: 776361
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Algunas órdenes de Skyhub no se están integrando en la plataforma, debido al error `"Parameter count mismatch"`, cuando la orden no se crea en OMS (VTEX)

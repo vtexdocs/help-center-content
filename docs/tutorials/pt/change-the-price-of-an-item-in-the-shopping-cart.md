@@ -21,9 +21,7 @@ Na VTEX, as lojas podem definir manualmente o preço de um item (SKU) disponíve
 
 - **Permissão**: Shopping Cart Full Access
 
-<div class="alert alert-warning">
-  Os passos abaixo indicados devem ser realizados no domínio <i>myvtex</i> de cada loja ({accountName}.myvtex.com.br).
-</div>
+>⚠️ Os passos abaixo indicados devem ser realizados no domínio <i>myvtex</i> de cada loja ({accountName}.myvtex.com.br).
 
 ## Modificando o preço do item
 

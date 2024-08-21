@@ -18,9 +18,7 @@ internalReference: 743529
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Em uma opção de montagem PDP, quando o usuário seleciona diferentes quantidades para um único item e vai para o carrinho de compras, a seleção é ignorada e as quantidades são redefinidas para a quantidade inicial. Mas se o usuário aumenta, para **todos** os itens, em 1 quantidade pelo menos a seleção é persistida.

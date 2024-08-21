@@ -18,9 +18,7 @@ internalReference: 329846
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 As configurações da interface do usuário do checkout permitem que você desative o envio simples (otimizações do modo de entrega), mas isso só é possível se todos os itens no carrinho tiverem os mesmos métodos de entrega em comum. Caso contrário, o envio enxuto deve aparecer de forma forçada no carrinho, mesmo com a opção desativada.

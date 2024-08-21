@@ -18,9 +18,7 @@ internalReference: 434752
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se utiliza la Búsqueda Explicada en el admin para depurar y buscar un producto con acento en el nombre como por ejemplo "Pão Francês", tenemos un sinónimo que funciona como se espera pero esta información no se refleja en la pantalla para que el equipo pueda depurar y comprobar si está funcionando.

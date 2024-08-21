@@ -18,9 +18,7 @@ internalReference: 916423
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando las promociones de envío aplican para diferentes SLAs, siendo uno de ellos el envío gratuito, causa divergencia en la solicitud enviada por el Tax Hub, impidiendo que el pedido sea realizado.

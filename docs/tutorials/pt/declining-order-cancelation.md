@@ -43,13 +43,12 @@ Segue a descrição de cada etapa:
 3. Se o pedido estiver dentro da janela para cancelamento, ele será cancelado automaticamente, seguindo o comportamento padrão da plataforma. As próximas etapas se aplicam quando a janela para cancelamento termina.
 4. O seller recebe a solicitação de cancelamento do pedido e decide se vai aceitá-la ou não. As próximas etapas se aplicam quando o seller decide não cancelar o pedido.
 
-  <div class="alert alert-danger">
-Para recusar uma solicitação de cancelamento do pedido, o status do pedido para o marketplace e para o seller deve ser o seguinte:
-<ul>
-<li><b>Status do marketplace:</b> Aguardando decisão do seller.</li>
-<li><b>Status do seller:</b> Cancelamento solicitado.</li>
-</ul>
-</div>
+  >❗ Para recusar uma solicitação de cancelamento do pedido, o status do pedido para o marketplace e para o seller deve ser o seguinte:
+>
+> ***Status do marketplace:** Aguardando decisão do seller.
+>
+> ***Status do seller:** Cancelamento solicitado.
+> 
 
 5. O seller recusa o cancelamento do pedido e notifica o marketplace.
 6. Depois que o marketplace recebe a solicitação recusada, o pedido progride no fluxo de pedidos.
@@ -60,9 +59,7 @@ A solicitação de cancelamento de um pedido pode ser feita pelo marketplace ou 
 
 Depois disso, o pedido permanecerá com o [status](https://help.vtex.com/en/tutorial/order-flow-and-status--tutorials_196) de `cancelamento solicitado` para o marketplace e `aguardando decisão do seller` para o seller até que ele aceite ou não a solicitação. 
 
-<div class="alert alert-warning">
-Se, dentro de 30 dias, o seller não fizer nada em relação à solicitação de cancelamento do pedido, o pedido será cancelado automaticamente pela plataforma da VTEX.
-</div>
+>⚠️ Se, dentro de 30 dias, o seller não fizer nada em relação à solicitação de cancelamento do pedido, o pedido será cancelado automaticamente pela plataforma da VTEX.
 
 Para recusar uma solicitação de cancelamento do pedido pelo Admin VTEX, siga os passos a seguir:
 
@@ -76,9 +73,7 @@ Para recusar uma solicitação de cancelamento do pedido pelo Admin VTEX, siga o
 
   ![deny_cancel_request_reason_PT_v2](https://images.ctfassets.net/alneenqid6w5/2j1DgDKBaWJFMeVfuxfwYL/08eae24f54f83caa4d8449a3dd465d31/deny_cancel_request_reason_PT_v2.png)
 
-  <div class="alert alert-warning">
-Lembre-se de que a mensagem contida nesse campo poderá ser exibida ao cliente pela <a href="https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Minha conta</a> ou enviada pelo marketplace.
-</div>
+  >⚠️ Lembre-se de que a mensagem contida nesse campo poderá ser exibida ao cliente pela [Minha conta](https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh) ou enviada pelo marketplace.
 
 5. Clique em `Recusar solicitação`.
 

@@ -38,6 +38,4 @@ Usted puede, entonces, personalizar el CSS para definir de qué manera la clase 
 
 Esta feature se puede utilizar, por ejemplo, para hacer que los productos de una colección llamada "Lanzamiento" aparezcan siempre con una flag que señala que son novedad en la tienda. Al agregar el control en el template de la página de categoría, por ejemplo, todos los productos de la colección Lanzamiento que aparecen en una página de categoría se mostrarán con este destaque.
 
-<div class="alert alert-warning">
-Recuerde que si la página es de producto, el control que se debe utilizar es el <code>&lt;vtex.cmc:HightLight/&gt;</code>. Si es una página de vitrina, usted debe utilizar el <code>$product.HightLight</code>.
-</div>
+>⚠️ Recuerde que si la página es de producto, el control que se debe utilizar es el `&lt;vtex.cmc:HightLight/&gt;`. Si es una página de vitrina, usted debe utilizar el `$product.HightLight`.

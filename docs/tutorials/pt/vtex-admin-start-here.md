@@ -52,9 +52,7 @@ Confira nossos artigos sobre a visão geral de cada menu do seu Admin VTEX, para
 - [Configurações de usuário](https://help.vtex.com/pt/v4/docs/visao-geral-configuracoes-usuario--1qYAvOTZBVYMosJ7tQm3Ry)
 - [Faturas](https://help.vtex.com/pt/v4/docs/billing-overview--CcugO41lhNJzQKpazKYQC)
 
-<div class="alert alert-info">
-Também é possível utilizar a barra de busca na parte superior do Admin VTEX para encontrar páginas específicas no menu lateral. 
-</div>
+>ℹ️ Também é possível utilizar a barra de busca na parte superior do Admin VTEX para encontrar páginas específicas no menu lateral.
 
 ### Central de Informações
 

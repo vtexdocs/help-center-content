@@ -21,18 +21,14 @@ We don't recommend using <a href="https://help.vtex.com/en/tutorial/otimizar-as-
 ## How the search engine works 
 VTEX has an intelligent algorithm that, based on the term searched for, identifies the best result for the user, i.e., it always shoes the result that will generate more conversions into sales.
 
-<div class="alert alert-info">
-See more details on <a href="https://help.vtex.com/en/tutorial/how-does-vtex-search-work--tutorials_542">how the search engine works</a> at VTEX.
-</div>
+>ℹ️ See more details on [how the search engine works](https://help.vtex.com/en/tutorial/how-does-vtex-search-work--tutorials_542) at VTEX.
 
 ## How useful is a substitute word
 If the search engine does not identify the Landing Page, Brand or Department according to the term searched for, it applies a search for a Substitute Word (key work). 
 
 Despite having a low weight in the indexer, the use a substitute words is an extremely important resource, since it permits to reach users that search for grammatically incorrect terms (spagetti), phonetic writing (espagueti) or misspelled words due to typing mistakes (spaguetto), but with the same semantics of the original word (spaguetti).
 
-<div class="alert alert-info">
-A resource frequently used by the internal teams to expedite searches is to input RefId/EAN as the Substitute Word in the product. Therefore, it is possible to make faster searches, with only results and to quickly find the product searched for.
-</div>
+>ℹ️ A resource frequently used by the internal teams to expedite searches is to input RefId/EAN as the Substitute Word in the product. Therefore, it is possible to make faster searches, with only results and to quickly find the product searched for.
 
 ## How do I input a substitute word 
 

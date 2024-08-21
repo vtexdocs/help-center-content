@@ -18,9 +18,7 @@ internalReference: 391197
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Las solicitudes para obtener cuotas externas en la pasarela a un vendedor distinto del mercado se realizan siempre con salesChannel = 1.

@@ -24,9 +24,7 @@ The mapping will only be done once for each category. With that, even once you h
 2. Fill in the fields of the mapping spreadsheet as follows:
 
 
-<div class="alert alert-danger">
-Note: If <strong>none</strong> of the category attributes is required by Amazon, then <strong>no mapping is required</strong>. Just reindex your products so they are shipped directly through the integration.
-</div>
+>❗ Note: If **none** of the category attributes is required by Amazon, then **no mapping is required**. Just reindex your products so they are shipped directly through the integration.
 
 1. __ID category:__ it's the category ID in VTEX. You can find it next to the name of each category as you expand the tree.
 2. __VariationTheme:__ it's the way the SKU varies in the marketplace. You must fill with Variations Themes that fit the category of your products and respective PTDs.

@@ -18,9 +18,7 @@ internalReference: 694809
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al acceder a "mis pedidos", el nombre que aparece es el nombre del "ProductName" sin la información del "SKU Name", sólo en la interfaz IO.

@@ -21,10 +21,9 @@ A cause of benefit is any condition that generates a benefit.
 
 For example: the retailer can set up a benefit to be applied if the customer chooses a particular payment method. In this case, the payment method is the cause of the benefit.
 
-<div class="alert alert-danger">You can't save a benefit that violates any limits. So if your store currently has benefits that exceed any of these limits, be careful.
-
-Any changes to any of these benefits will cause the new limits to apply. Therefore, you will not be able to save the benefit using the previous settings.
-</div>
+>❗ You can't save a benefit that violates any limits. So if your store currently has benefits that exceed any of these limits, be careful.
+>
+> Any changes to any of these benefits will cause the new limits to apply. Therefore, you will not be able to save the benefit using the previous settings.
 
 Here are the new limits for each cause of benefit:
 

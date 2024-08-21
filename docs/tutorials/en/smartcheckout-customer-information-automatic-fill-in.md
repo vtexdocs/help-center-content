@@ -17,9 +17,7 @@ subcategory: 6XAvmMxp7yyY06ewYMuggs
 
 With SmartCheckout, the customer's information is automatically filled in at Checkout, and you are only required to enter your store's email. This function reduces the purchase time as customers do not need to re-enter their data for each purchase made at the same store.
 
-<div class="alert alert-info">
-For SmartCheckout to reuse the information at Checkout, the customer must have already made a previous purchase or must have created a profile in the store.
-</div>
+>ℹ️ For SmartCheckout to reuse the information at Checkout, the customer must have already made a previous purchase or must have created a profile in the store.
 
 ## Customer information
 

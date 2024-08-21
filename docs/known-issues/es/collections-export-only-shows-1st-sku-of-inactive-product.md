@@ -18,9 +18,7 @@ internalReference: 1040753
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se utiliza el módulo de colecciones y se intenta exportar registros, si el producto listado en una colección dada tiene todos sus skus configurados como inactivos, la hoja exportada sólo listará 1 de los skus del producto, en lugar de todos.

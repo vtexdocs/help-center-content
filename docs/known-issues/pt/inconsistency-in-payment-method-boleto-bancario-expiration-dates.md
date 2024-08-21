@@ -18,9 +18,7 @@ internalReference: 489460
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Alguns Boleto Bancário gerados a partir do conector ItauShopLine podem ter um prazo de validade diferente daquele configurado na afiliação

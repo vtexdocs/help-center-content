@@ -186,9 +186,7 @@ Another way to publish is to go to the release details page, following the steps
 
 To delete a release, follow the step-by-step instructions below: 
 
-<div class="alert alert-danger">
-Deleted releases cannot be recovered. The updates included in the release remain, but they are no longer grouped together.
-</div>
+>❗ Deleted releases cannot be recovered. The updates included in the release remain, but they are no longer grouped together.
 
 1. In the VTEX Admin, access **Store Settings > Releases**.
 2. On the line corresponding to the desired release, click the <i class="fas fa-ellipsis-v"></i> menu icon. 

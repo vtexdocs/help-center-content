@@ -35,9 +35,7 @@ Siga o passo a passo abaixo para cadastrar a regra de preço da sua loja:
 
 ## API REST
 
-<div class="alert alert-warning">
-As autenticações para as chamadas de API REST do módulo de Preços devem ser feitas via AppKey e AppToken. Para entender mais, acesse nosso artigo sobre <a href="https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication">como gerar um Appkey e um AppToken para autenticar suas integrações</a>
-</div>
+>⚠️ As autenticações para as chamadas de API REST do módulo de Preços devem ser feitas via AppKey e AppToken. Para entender mais, acesse nosso artigo sobre [como gerar um Appkey e um AppToken para autenticar suas integrações](https://developers.vtex.com/vtex-developer-docs/docs/getting-started-authentication)
 
 Para cadastrar uma **regra de preço**, você precisa enviar um __POST__ para o seguinte endpoint:
 

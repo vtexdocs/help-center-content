@@ -23,9 +23,7 @@ La asignación sólo se realizará una vez para cada categoría. De esta forma, 
 
 2. Rellene los campos de la hoja de asignación de acuerdo con las indicaciones siguientes:
 
-<div class="alert alert-danger">
-Nota: si <strong>ningún</strong> de los atributos de su categoría es requerido obligatoriamente por Amazon, entonces <strong>no es necesario hacer el mapeo</strong>. Basta con reindexar sus productos para que sean enviados directamente por la integración.
-</div>
+>❗ Nota: si **ningún** de los atributos de su categoría es requerido obligatoriamente por Amazon, entonces **no es necesario hacer el mapeo**. Basta con reindexar sus productos para que sean enviados directamente por la integración.
 
 1. __ID categoría:__ es el ID de categoría en VTEX. Usted puede encontrarlo en el lado del nombre de cada categoría al expandir el árbol.
 2. __VariationTheme:__ es la manera que el SKU varía en el mercado. Usted debe llenar con los Variations Themes que se adecuan a la categoría de sus productos y respectivos PTDs.
@@ -47,9 +45,7 @@ Planilla de ejemplo usando la categoría Clothing & Accessories:
 
 ![Amazon Mapeamento ](https://images.ctfassets.net/alneenqid6w5/5p6RrFb0T6my86cCOmW0c8/a5e93f7732929c9d9ea4cc0dd855b9a1/Amazon_Mapeamento.png)
 
-<div class="alert alert-danger">
-Recuerde que estos valores deben estar de acuerdo con los valores acceptados por Amazon. Consulte los términos permitidos y haga el De/Para entre lo que está registrado en su campo SKU en VTEX y los valores acceptador por Amazon.
-</div>
+>❗ Recuerde que estos valores deben estar de acuerdo con los valores acceptados por Amazon. Consulte los términos permitidos y haga el De/Para entre lo que está registrado en su campo SKU en VTEX y los valores acceptador por Amazon.
 
 Después de rellenar la hoja de trabajo, acceda a __Integraciones__ en el menú Admin:
 

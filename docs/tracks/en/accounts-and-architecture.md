@@ -40,12 +40,17 @@ The following image is an overview to help you [choose between standard, franchi
 | Franchise account | <ul><li>Does not have its own frontend or website.</li><li>Has its own VTEX Admin environment to manage its operation.</li><li>Does not have its own catalog; instead, it follows the exact catalog structure of the main account.</li><li>Allows configuring prices and promotions.</li><li>Has its own warehouse and inventory.</li><li>The franchise account inventory can be sold on other VTEX marketplaces connected to the main account via <a href="https://help.vtex.com/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4">Multilevel Omnichannel Inventory (MOI).</a></li></ul> |
 | Seller Portal account | <ul><li>Does not have its own frontend or website.</li><li>The main account has an area for <a href="https://help.vtex.com/en/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv"> managing sellers</a>, and each seller has its environment in the Seller Portal Admin.</li><li>The seller can configure inventory and pricing, manage products shared with the marketplace, invoice orders, activate promotions, process payments, and have their own logistics.</li></ul> |
 
-<div class="alert alert-info">
-<p><b>Marketplace on VTEX</p></b><p>Besides offering great flexibility in store architecture, our ecosystem allows each store to have multiple <a href="https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402">marketplace strategies</a>, such as:</p><ul><li>Becoming a seller or marketplace for other VTEXstores.</li><li>Integrating with the big players such as <a href="https://help.vtex.com/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Libre</a> and <a href="https://help.vtex.com/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP">Amazon</a>.</li>
-<li>Integrating with <a href="https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-marketplaces-partners">partner marketplaces</a> certified by VTEX.</li>
-<li>Being a marketplace for sellers with a <a href="https://help.vtex.com/en/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK">Seller Portal</a> account.</li>
-<li>Being a <a href="https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa">white label seller</a>.</li><li>Creating your own integrations with <a href="https://developers.vtex.com/docs/guides/external-seller-integration-guide">external marketplaces and external sellers.</a></li></ul>
-</div>
+>ℹ️ **Marketplace on VTEX**
+> Besides offering great flexibility in store architecture, our ecosystem allows each store to have multiple [marketplace strategies](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402), such as:
+> *Becoming a seller or marketplace for other VTEXstores.
+> * Integrating with the big players such as [Mercado Libre](https://help.vtex.com/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) and [Amazon](https://help.vtex.com/en/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP).
+>
+> *Integrating with [partner marketplaces](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrating-with-marketplaces-partners) certified by VTEX.
+>
+> *Being a marketplace for sellers with a [Seller Portal](https://help.vtex.com/en/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) account.
+>
+> *Being a [white label seller](https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa).
+> * Creating your own integrations with [external marketplaces and external sellers.](https://developers.vtex.com/docs/guides/external-seller-integration-guide)
 
 ## Store architecture
 
@@ -120,6 +125,4 @@ When building a store, it is common for agencies and [implementation partners](h
 
 The [VTEX Quadrant](https://vtex.com/pt-br/blog/parceiros/quadrante_vtex_2023/) is a program in which VTEX internally evaluates the performance and successful results of its partners' operations. This annual acknowledgment and reward is for those with the highest commitment and excellence. See the results of the 2022 Quadrant [here](https://vtex.com/pt-br/blog/parceiros/quadrante_vtex_2023/). The VTEX Quadrant is an exclusive program for implementation partners in Brazil.
 
-<div class="alert alert-info">
-The <a href="https://vtex.com/pt-br/blog/parceiros/quadrante_vtex_2023/">VTEX Quadrant</a> is an exclusive program for implementation partners in Brazil.
-</div>
+>ℹ️ The [VTEX Quadrant](https://vtex.com/pt-br/blog/parceiros/quadrante_vtex_2023/) is an exclusive program for implementation partners in Brazil.

@@ -19,9 +19,7 @@ subcategory: 2xWRgEIlR2ookieEmm4KQu
 
 Para adicionar um seller não identificável, também chamado de [seller white label](https://help.vtex.com/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa), é necessário ter esse modelo previsto no contrato com a VTEX. Uma vez ajustado o contrato com o representante comercial da VTEX responsável por seu marketplace, solicite a [adição de uma conta franquia](https://help.vtex.com/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) por meio do nosso Suporte. Toda conta franquia é criada como seller white label e não é possível mudar o tipo de seller após a sua criação. 
 
-<div class="alert alert-info">
-Se quiser encontrar novos parceiros para venderem em seu marketplace, utilize o Marketplace Network, que facilita a identificação e contato entre marketplaces e sellers que operam no ecossistema VTEX, além de conectores certificados (parceiros).
-</div>
+>ℹ️ Se quiser encontrar novos parceiros para venderem em seu marketplace, utilize o Marketplace Network, que facilita a identificação e contato entre marketplaces e sellers que operam no ecossistema VTEX, além de conectores certificados (parceiros).
 
 1. No seu Admin VTEX, acesse *MARKETPLACE > Sellers > Gerenciamento*.
 2. Clique em `Adicionar Seller`.
@@ -65,9 +63,7 @@ Se quiser encontrar novos parceiros para venderem em seu marketplace, utilize o 
 - **Trocas e devoluções:** descrição da política de trocas e devoluções acordadas previamente entre marketplace e seller.     
 - **Política de Privacidade de Segurança:** descrição da política de segurança acordada previamente entre marketplace e seller.  
 
-<div class="alert alert-info">
-Com a nova versão da página, lançada em 2022, retiramos da tela o campo Endpoint de Catálogo, pois não é mais necessário para a integração com um novo seller. Caso necessário, ainda é possível realizar o gerenciamento do campo por meio de API.
-</div>
+>ℹ️ Com a nova versão da página, lançada em 2022, retiramos da tela o campo Endpoint de Catálogo, pois não é mais necessário para a integração com um novo seller. Caso necessário, ainda é possível realizar o gerenciamento do campo por meio de API.
 
 Uma vez preenchido o formulário e clicado em **Salvar**, seu seller será adicionado ao marketplace. Para que a configuração da sua loja como marketplace seja concluída, é preciso também [Mapear marcas, categorias e especificações do catálogo do seller](https://help.vtex.com/pt/tutorial/mapeando-categorias-e-marcas-para-marketplace/) e [Aprovar anúncios recebidos](https://help.vtex.com/pt/tutorial/sugerindo-e-aprovando-skus/).
 

@@ -15,10 +15,9 @@ legacySlug: dynamic-relevance-in-intelligent-search-beta
 subcategory: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
-<div class="alert alert-info">
-  <p>This feature is in closed beta, which means that only specific customers can access it now. If you want to implement it in the future, please contact <a href="https://support.vtex.com/hc/pt-br/requests">our support</a>.</p>
-  <p>For selected customers, the functionality is available for free use in the VTEX Admin during its Beta period, or until decided by VTEX. Extra fees may apply in the future.</p>
-</div>
+>ℹ️ This feature is in closed beta, which means that only specific customers can access it now. If you want to implement it in the future, please contact [our support](https://support.vtex.com/hc/pt-br/requests).
+>
+> For selected customers, the functionality is available for free use in the VTEX Admin during its Beta period, or until decided by VTEX. Extra fees may apply in the future.
 
 Relevance is the feature that defines the ranking of products in search results. This configuration allows you to set weights and prioritize certain criteria, such as popularity, release date, and participation in promotions. Intelligent Search determines the relevance of each product by combining weights and priorities defined by each merchant.
 

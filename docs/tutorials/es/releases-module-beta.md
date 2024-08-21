@@ -186,9 +186,7 @@ Otra forma de publicar es ingresar en la página de detalles del lanzamiento y s
 
 Sigue estas instrucciones paso a paso para eliminar un lanzamiento:
 
-<div class="alert alert-danger">
-Los lanzamientos eliminados se borran y son irrecuperables. Se mantienen las actualizaciones que formaban parte del lanzamiento, pero deja de existir como grupo.
-</div>
+>❗ Los lanzamientos eliminados se borran y son irrecuperables. Se mantienen las actualizaciones que formaban parte del lanzamiento, pero deja de existir como grupo.
 
 1. En el Admin VTEX, accede a **Configuración de la tienda > Lanzamientos**.
 2. En la línea correspondiente al lanzamiento deseado, haz clic en el ícono de menú <i class="fas fa-ellipsis-v"></i>. 

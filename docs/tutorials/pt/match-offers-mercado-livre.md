@@ -15,9 +15,7 @@ legacySlug: match-de-anuncios-mercado-livre
 subcategory: 
 ---
 
-<div class="alert alert-info">
-  Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso <a href="https://vtexhelp.zendesk.com/auth/v2/login/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fpt-br%2Frequests&theme=hc&locale=pt-br&brand_id=144968&auth_origin=144968%2Ctrue%2Ctrue">Suporte</a>.
-  </div>  
+>ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com nosso [Suporte](https://vtexhelp.zendesk.com/auth/v2/login/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fpt-br%2Frequests&theme=hc&locale=pt-br&brand_id=144968&auth_origin=144968%2Ctrue%2Ctrue).  
 
 Antes de iniciar a leitura do artigo, é importante a leitura da tabela abaixo para compreendimento de alguns termos de uso específico da funcionalidade **Match de anúncios Mercado Livre.**
 

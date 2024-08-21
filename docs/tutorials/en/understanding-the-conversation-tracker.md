@@ -24,9 +24,7 @@ The Conversation Tracker can one of the following two settings:
 - **Hard** - Creates an unreadable alias (alternate email), thereby avoiding identification by external systems, in addition to linking any email sent to this address to the order's timeline. The alias of a store having such configuration would be similar to the following: `ff2e6348a53a4d449af92be2a1011328@ct.vtex.com.br`
 - **Soft** - Creates a less complex alias (alternate email) for the buying user's email, making this email readable in the OMS UI and when looking at the order's JSON. Another important aspect is that the store's address (issuer address) is also masked in the same way as the user's email in JSON, this being necessary to allow the system to link the emails associated with that purchase to the order's timeline. The alias in such as configured store would be similar to the following: `johndoe@vtex.com.br-207700027841b.ct.vtex.com.br`
 
-<div class="alert alert-info">
-NOTE: Stores are configured as <strong>hard by default</strong>.
-</div>
+>ℹ️ NOTE: Stores are configured as **hard by default**.
 
 This  Conversation Tracker offers several other advantages, mainly in terms of security:
 

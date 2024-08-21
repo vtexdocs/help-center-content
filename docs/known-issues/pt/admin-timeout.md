@@ -18,9 +18,7 @@ internalReference: 1051070
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O aplicativo de mensagens está recebendo um erro de tempo limite aleatoriamente e algumas páginas de administração podem precisar de uma atualização para funcionar corretamente.

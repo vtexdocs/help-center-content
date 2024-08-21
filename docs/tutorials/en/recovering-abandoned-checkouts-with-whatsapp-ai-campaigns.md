@@ -86,9 +86,7 @@ We recommend creating a new phone number exclusively for linking to WhatsApp Bus
   <li>Paste the phone number you copied in the previous step, select the option <strong>SMS</strong>, and click <code>Send Code</code>.</li>
 </ol>
 
-<div class="alert alert-warning">
-  The number generated may be American, but if your Facebook page is verified, your customers will see your company name. If it is not verified, we recommend following the <a href="https://www.facebook.com/business/help/2058515294227817?id=180505742745347">verification process with Meta</a>.
-</div>
+>⚠️ The number generated may be American, but if your Facebook page is verified, your customers will see your company name. If it is not verified, we recommend following the [verification process with Meta](https://www.facebook.com/business/help/2058515294227817?id=180505742745347).
 
 <ol start="13">
   <li>Copy the verification code displayed in the VTEX Admin.</li>
@@ -106,9 +104,7 @@ We recommend creating a new phone number exclusively for linking to WhatsApp Bus
   <li>Click <code>Complete</code>.</li>
 </ol>
 
-<div class="alert alert-warning">
-Once an abandoned checkout recovery campaign has been activated, it can take up to 48 hours for analytics metrics to start being displayed.
-</div>
+>⚠️ Once an abandoned checkout recovery campaign has been activated, it can take up to 48 hours for analytics metrics to start being displayed.
 
 <div class = "alert alert-info">
 Learn more about <a href="https://help.vtex.com/en/tutorial/gerenciamento-e-detalhes-do-whatsapp-ai-campaigns--q9JqDErMqGV4zvsYqkD4s">WhatsApp AI Campaigns management and details</a>.

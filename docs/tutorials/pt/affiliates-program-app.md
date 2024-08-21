@@ -84,9 +84,7 @@ Para criar um novo afiliado, clique no botão `Adicionar afiliado`, preencha os 
 
 Para pesquisar um afiliado, digite na barra de busca por alguma das seguintes informações: _ID do afiliado, Nome, Nome da Loja, Email_ ou_ Telefone. _
 
-<div class="alert alert-warning">
-No aplicativo <b>Affiliates Program</b>, além do termo afiliado ser diferente do <a href="https://help.vtex.com/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0">conceito usual de afiliado na VTEX</a>, o <code>ID do Afiliado</code> também não corresponde ao código padrão. No aplicativo, o <code>ID do Afiliado</code> é um código alfanumérico gerado automaticamente quando você cria um novo afiliado.
-</div>
+>⚠️ No aplicativo **Affiliates Program**, além do termo afiliado ser diferente do [conceito usual de afiliado na VTEX](https://help.vtex.com/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0), o `ID do Afiliado` também não corresponde ao código padrão. No aplicativo, o `ID do Afiliado` é um código alfanumérico gerado automaticamente quando você cria um novo afiliado.
 
 ### Filtrar afiliados
 
@@ -148,9 +146,7 @@ Para pesquisar um pedido, digite na barra de busca o `ID do afiliado` relacionad
 
 O aplicativo **Affiliates Program** permite que você exporte uma lista com extensão CSV dos pedidos de afiliados. 
 
-<div class="alert alert-warning">
-Para habilitar a função de exportar lista, primeiro é necessário configurar templates de email, conforme descrito no guia para desenvolvedores <a href="https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app#email-templates">Affiliates Program app</a>.
-</div>
+>⚠️ Para habilitar a função de exportar lista, primeiro é necessário configurar templates de email, conforme descrito no guia para desenvolvedores [Affiliates Program app](https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app#email-templates).
 
 Após a configuração, para exportar a lista basta clicar em **Exportar**, na página **Gerenciamento de Pedidos**. A seguinte mensagem de confirmação deve aparecer:
 

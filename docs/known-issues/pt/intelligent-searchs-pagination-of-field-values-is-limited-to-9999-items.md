@@ -18,9 +18,7 @@ internalReference: 428486
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A Intelligent Search tem um problema com a paginação de valores. Isto resulta em alguns valores não serem exibidos ao selecioná-lo em um filtro de condições, como as condições das Regras de Merchandising, por exemplo. Se o campo selecionado contiver mais de 9.999 valores, somente os primeiros 9.999 serão exibidos no dropdown de visualização.

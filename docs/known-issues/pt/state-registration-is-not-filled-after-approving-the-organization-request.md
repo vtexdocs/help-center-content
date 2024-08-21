@@ -18,9 +18,7 @@ internalReference: 825127
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O campo Registro de Estado não é preenchido após a aprovação da Solicitação de Organização no administrador.

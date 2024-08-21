@@ -60,9 +60,7 @@ O código da tabela de preços no ERP deve ser cadastrada manualmente na VTEX ut
 2. Na lista de preços, abra o campo **PriceTables(1)** e, em seguida, clique em `+ Create New Price Tables`.
 3. No campo **Type the name of the price table that you want to create**, insira o código da tabela que você coletou do ERP (deve ser exatamente igual).
 
-<div class="alert alert-warning">
-  <p>O código da tabela de preços no ERP deve conter letras e números.</p>
-</div>  
+>⚠️ O código da tabela de preços no ERP deve conter letras e números.  
 
 ### Configurar a integração das Transportadoras
 

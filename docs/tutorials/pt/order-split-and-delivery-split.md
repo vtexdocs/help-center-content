@@ -52,8 +52,6 @@ O pedido é atendido por um único seller, mas é preciso realizar mais de uma e
 
     Essa divisão é feita de forma automática e nativa para as lojas que possuem o Checkout V6, por meio do campo `allowMultipleDeliveries` indicado como `true` na API [Update orderForm configuration](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pvt/configuration/orderForm). A configuração padrão vem como "ativa" para que seja possível a realização de compras com modalidades de entrega diferentes em um mesmo carrinho.
 
-<div class="alert alert-danger">
-  Não recomendamos operar a loja com o campo <code>allowMultipleDeliveries</code> indicado como <i>false</i>. Nesta configuração, quando existirem itens no carrinho que não possuam nenhum método de entrega do tipo delivery em comum, ou seja, os SLAIDs são distintos, e o carrinho tenha algum pickup-point, não será possível concluir o pedido.
-</div>
+>❗ Não recomendamos operar a loja com o campo `allowMultipleDeliveries` indicado como <i>false</i>. Nesta configuração, quando existirem itens no carrinho que não possuam nenhum método de entrega do tipo delivery em comum, ou seja, os SLAIDs são distintos, e o carrinho tenha algum pickup-point, não será possível concluir o pedido.
 
 * **Docas distintas:** uma única loja oferece todos os itens de um pedido, mas no cálculo da rota de envio eles envolvem docas diferentes. Então é preciso _dividir os pacotes de entrega,_ mas sem dividir o pedido entre lojas distintas. Isso é feito automaticamente pela plataforma.

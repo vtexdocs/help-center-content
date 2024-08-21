@@ -24,6 +24,4 @@ Siempre que tu accedes una página segura, que sea protegida por un certificado 
 No necesita más solicitar la compra del certificado SSL (provido antes por Digicert).
 El certificado ahora es creado vía Let’s Encrypt y la creación es de responsabilidad de VTEX y es hecha [en el _GoLive_ de la tienda](https://help.vtex.com/es/tutorial/configurando-el-apuntamiento-del-dns-para-vtex--tutorials_4280).
 
-<div class="alert alert-warning">
-Ten en cuenta que VTEX genera un certificado SSL para tu tienda y garantiza su renovación automática. Por lo tanto, no recomendamos instalar ningún otro certificado. Sin embargo, si necesitas instalar otro certificado, solicítalo a nuestro [soporte](https://help.vtex.com/es/support)
-</div>
+>⚠️ Ten en cuenta que VTEX genera un certificado SSL para tu tienda y garantiza su renovación automática. Por lo tanto, no recomendamos instalar ningún otro certificado. Sin embargo, si necesitas instalar otro certificado, solicítalo a nuestro [soporte](https://help.vtex.com/es/support)

@@ -49,9 +49,7 @@ To check if the problem is associated with IO, follow the steps below:
     vtex uninstall {theme}
     ```
 
-    <div class="alert alert-info">
-    You can check for any installed themes using the <code>vtex list</code> command, which lists all the applications installed in the store.
-    </div>
+    >ℹ️ You can check for any installed themes using the `vtex list` command, which lists all the applications installed in the store.
 
 4.	Clone the default Store Framework theme on your computer.
 5.	At the command prompt, access the default theme folder.
@@ -59,7 +57,7 @@ To check if the problem is associated with IO, follow the steps below:
     ```
     vtex link
     ```
-    <div class="alert alert-warning"> If your store doesn't have the Reviews and Ratings app installed, you may receive an error when trying to create the link. To avoid this, remove this app from the `peer dependencies` list in the `manifest.json` file of the default theme. </div>
+    >⚠️ If your store doesn't have the Reviews and Ratings app installed, you may receive an error when trying to create the link. To avoid this, remove this app from the `peer dependencies` list in the `manifest.json` file of the default theme.
 
 7.	Access your workspace's storefront using the URL:
     ```

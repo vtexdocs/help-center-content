@@ -15,4 +15,4 @@ announcementImageID: ''
 announcementSynopsisES: 'Nueva versión trae features que permiten más flexibilidad de configuración de las estructuras almacenadas en Master Data'
 ---
 
-<div class="alert alert-warning">Contenido bajo traducción</div>
+>⚠️ Contenido bajo traducción

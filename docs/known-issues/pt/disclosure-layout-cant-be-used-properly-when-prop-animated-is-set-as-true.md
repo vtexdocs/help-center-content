@@ -18,9 +18,7 @@ internalReference: 417947
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Há um problema no layout de divulgação que só está desencadeando o bloco a ser mostrado, mas não está fechando. Isto é causado pelo propulsor animado, que não está funcionando corretamente quando definido no layout de divulgação e não permite esconder o elemento após a abertura.

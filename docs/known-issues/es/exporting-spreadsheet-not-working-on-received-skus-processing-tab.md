@@ -18,9 +18,7 @@ internalReference: 792511
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al intentar exportar la lista de skus que se encuentran en la pestaña de procesamiento del módulo de Skus Recibidos, aparece un error en pantalla:

@@ -18,9 +18,7 @@ internalReference: 1046263
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Se o usuário não tiver nenhuma das permissões do CMS, ele não deverá ser capaz de acessar ou mesmo ver os módulos do CMS. Mas isso não está acontecendo.

@@ -18,9 +18,7 @@ internalReference: 775515
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al eliminar un artículo del carrito, se muestra el mensaje "El valor del flete ha cambiado" aunque el Total de envío sea el mismo después del cambio.

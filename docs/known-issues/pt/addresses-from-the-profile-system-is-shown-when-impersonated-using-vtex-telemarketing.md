@@ -18,9 +18,7 @@ internalReference: 860375
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o comprador tem endereços registrados no Profile System e se faz passar por ele usando a VTEX Telemarketing, os endereços do Profile System e das Organizações são mostrados

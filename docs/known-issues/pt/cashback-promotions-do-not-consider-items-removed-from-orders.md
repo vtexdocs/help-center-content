@@ -18,9 +18,7 @@ internalReference: 1019864
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, ao usar promoções de cashback, os cálculos são totalmente realizados no momento em que os itens são inseridos no carrinho.

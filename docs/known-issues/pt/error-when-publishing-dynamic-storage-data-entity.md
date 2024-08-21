@@ -18,9 +18,7 @@ internalReference: 666357
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o armazenamento cria ou atualiza uma entidade de dados e tenta publicá-la, pode ocorrer o seguinte erro:

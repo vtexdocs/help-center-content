@@ -16,9 +16,7 @@ trackSlugPT: vtex-getting-started
 
 Todo SKU precisa de pelo menos uma imagem para ser exibido na loja.
 
-<div class="alert alert-warning">
-Se nenhuma imagem for associada a um SKU, ele não ficará ativo.
-</div>
+>⚠️ Se nenhuma imagem for associada a um SKU, ele não ficará ativo.
 
 Por isso, depois que terminar de preencher as configurações do seu novo SKU e clicar em __Salvar__, você será levado para a tela de cadastro de imagem, onde a mensagem abaixo é exibida.
 

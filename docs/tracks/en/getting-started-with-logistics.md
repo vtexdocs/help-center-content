@@ -19,16 +19,16 @@ The **Inventory & shipping** module is where you set up the logistics of your VT
 
 This article is the first in a series of five articles for getting started with logistics in your store. The series contains essential information to help you understand logistics in VTEX stores and how settings are structured on the platform.
 
-<div class="alert alert-danger">
-Before setting up your store logistics, please configure the following:
-<body>
-<ol>
-<li><a href="https://help.vtex.com/en/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE">Trade policy</li></a>
-<li><a href="https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR">Catalog</li></a>
-<li><a href="https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu">Prices</li></a>
-  </ol>
-  </body>
-</div>
+>❗ Before setting up your store logistics, please configure the following:
+> <body>
+>
+> [Trade policy](https://help.vtex.com/en/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE)
+>
+> [Catalog](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR)
+>
+> [Prices](https://help.vtex.com/en/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3N9xYhnampRQOrfaTAOxNu)
+>
+> </body>
 
 This walkthrough brings together the following articles:
 

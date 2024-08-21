@@ -18,9 +18,7 @@ internalReference: 412632
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O carregamento de uma imagem em miniatura para um bloco de vídeo só a atualiza para a versão desktop, a miniatura móvel se mantém vazia.

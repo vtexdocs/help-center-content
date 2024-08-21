@@ -15,9 +15,7 @@ announcementImageID: ''
 announcementSynopsisEN: 'All stores still using the Recurrence module should migrate to Subscriptions module until August 3, 2020'
 ---
 
-<div class="alert alert-info">
-The discontinuation will only affect stores that still have the Recurrences module. For stores that are already using the Subscriptions module or that don’t have this functionality, nothing will change.
-</div>
+>ℹ️ The discontinuation will only affect stores that still have the Recurrences module. For stores that are already using the Subscriptions module or that don’t have this functionality, nothing will change.
 
 The *Recurrences* module is an earlier version of our current *Subscriptions* module. This version will be discontinued, and all stores that still use it must migrate to the *Subscriptions* module by **August 3rd, 2020**.
 

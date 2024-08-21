@@ -87,9 +87,7 @@ Se recomienda crear un nuevo número de teléfono exclusivamente para vincularlo
   <li>Pega el número de teléfono que has copiado en la etapa anterior y selecciona la opción <strong>SMS</strong>. Haz clic en <code>Continuar</code>.</li>
 </ol>
 
-<div class="alert alert-warning">
-  El número generado puede ser estadounidense, pero si tu página de Meta está verificada, tus clientes verán el nombre de tu empresa. Si no está verificada, recomendamos seguir el <a href="https://www.facebook.com/business/help/2058515294227817?id=180505742745347">proceso de verificación con Meta</a>.
-</div>
+>⚠️ El número generado puede ser estadounidense, pero si tu página de Meta está verificada, tus clientes verán el nombre de tu empresa. Si no está verificada, recomendamos seguir el [proceso de verificación con Meta](https://www.facebook.com/business/help/2058515294227817?id=180505742745347).
 
 <ol start="13">
   <li>Copia el código de verificación que se muestra en el Admin VTEX.</li>
@@ -107,9 +105,7 @@ Se recomienda crear un nuevo número de teléfono exclusivamente para vincularlo
   <li>Haz clic en <code>Finalizar</code>.</li>
 </ol>
 
-<div class="alert alert-warning">
-Una vez que se ha activado una campaña de recuperación de checkout abandonado pueden transcurrir hasta 48 horas para que comiencen a mostrarse las métricas de análisis.
-</div>
+>⚠️ Una vez que se ha activado una campaña de recuperación de checkout abandonado pueden transcurrir hasta 48 horas para que comiencen a mostrarse las métricas de análisis.
 
 <div class = "alert alert-info">
 Aprende más sobre <a href="https://help.vtex.com/es/tutorial/gerenciamento-e-detalhes-do-whatsapp-ai-campaigns--q9JqDErMqGV4zvsYqkD4s">Gestión y detalles de WhatsApp AI Campaigns</a>.

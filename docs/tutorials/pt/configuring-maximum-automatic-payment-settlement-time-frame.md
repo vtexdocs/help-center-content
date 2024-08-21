@@ -19,9 +19,7 @@ Neste artigo, explicaremos como configurar o recurso de prazo máximo para liqui
 
 Antes de partirmos para o passo a passo em si, é importante esclarecermos a diferença entre __liquidação por faturamento__, __liquidação automática__ e __liquidação antecipada__ - três conceitos presentes no mercado de pagamentos. Em alguns conectores de pagamentos da plataforma, esses termos são referidos como __captura por faturamento__, __captura automática__ e __captura antecipada__.
 
-<div class="alert alert-warning">
-As informações a seguir são válidas para pagamentos realizados com cartão de crédito
-</div>
+>⚠️ As informações a seguir são válidas para pagamentos realizados com cartão de crédito
 
 ## Liquidação por faturamento
 A liquidação por faturamento é uma das etapas do [fluxo da transação](https://help.vtex.com/pt/tutorial/fluxo-da-transacao-no-pagamentos--Er2oWmqPIWWyeIy4IoEoQ "fluxo da transação") - o processo interno da VTEX que ocorre depois que um cliente realiza o pagamento de um pedido. Ou seja, o cliente não participa dessa dinâmica.
@@ -42,9 +40,7 @@ No momento que o processo de autorização começa, o sistema espera um limite d
 
 Lojista e adquirente acordam qual será o limite de tempo para que a liquidação automática seja acionada. 
 
-<div class="alert alert-info">
-Geralmente, o tempo máximo definido para que a liquidação aconteça é de quatro dias. Entretanto, essa <strong>não</strong> é uma regra. Cada adquirente pode definir o período que achar mais adequado.
-</div>
+>ℹ️ Geralmente, o tempo máximo definido para que a liquidação aconteça é de quatro dias. Entretanto, essa **não** é uma regra. Cada adquirente pode definir o período que achar mais adequado.
 
 Para configurar essa liquidação, siga o passo a passo:
 

@@ -18,9 +18,7 @@ internalReference: 910328
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Si los correos electrónicos tienen algún rol de ventas asociado, no se les permite suplantar utilizando la función Organizaciones B2B.

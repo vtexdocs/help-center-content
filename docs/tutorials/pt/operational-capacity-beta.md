@@ -31,9 +31,7 @@ Ao acessar no Admin VTEX **Envio > Capacidade operacional**, você encontra uma 
 
 ![operational_capacity_image1_PT](https://images.ctfassets.net/alneenqid6w5/5k7wWTuVZk7Ylc2IHpNE5C/750c0ac19cbb24293a58ccadeb4604b8/operational_capacity_image1_PT.png)
 
-<div class="alert alert-warning">
-Os sellers que aparecem na interface são os sellers da sua operação, e eles são previamente configurados pela nossa equipe. Para acrescentar um novo seller, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
-</div>
+>⚠️ Os sellers que aparecem na interface são os sellers da sua operação, e eles são previamente configurados pela nossa equipe. Para acrescentar um novo seller, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 O gráfico apresenta os dados abaixo:
 
@@ -99,9 +97,7 @@ A capacidade operacional do seller pode ser contabilizada em número de pedidos 
     * **Quantidade de itens:** a capacidade operacional do seller será contada por número de itens do pedido.
 5. Clique em `Salvar alterações`.
 
-<div class="alert alert-warning">
-A plataforma tem algumas restrições com relação a <a href="https://help.vtex.com/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI">sellers abrangentes</a>, saiba mais na seção <a href="https://help.vtex.com/pt/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#capacidade-operacional-de-seller-abrangente">Capacidade operacional de seller abrangente</a>.
-</div>
+>⚠️ A plataforma tem algumas restrições com relação a [sellers abrangentes](https://help.vtex.com/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI), saiba mais na seção [Capacidade operacional de seller abrangente](https://help.vtex.com/pt/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#capacidade-operacional-de-seller-abrangente).
 
 ## Ações na página de detalhes do seller
 
@@ -119,9 +115,7 @@ No topo direito da página de detalhes do seller, existe um toggle para ativar o
 * **Ativar:** habilite o toggle para `Ativo` e clique em `Ativar`.
 * **Desativar:** desabilite o toggle para `Pausado` e clique em `Pausar`.
 
-<div class="alert alert-warning">
-A plataforma tem algumas restrições com relação a <a href="https://help.vtex.com/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI">sellers abrangentes</a>, saiba mais na seção <a href="https://help.vtex.com/pt/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#capacidade-operacional-de-seller-abrangente">Capacidade operacional de seller abrangente</a>.
-</div>
+>⚠️ A plataforma tem algumas restrições com relação a [sellers abrangentes](https://help.vtex.com/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI), saiba mais na seção [Capacidade operacional de seller abrangente](https://help.vtex.com/pt/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#capacidade-operacional-de-seller-abrangente).
 
 ### Acompanhar capacidade utilizada
 

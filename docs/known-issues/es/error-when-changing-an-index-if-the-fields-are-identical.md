@@ -18,9 +18,7 @@ internalReference: 854634
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La actualización de un índice de esquema puede dar lugar a un error 500 Internal Server cuando no hay cambios que realizar, esto significa que los valores de los campos son idénticos a los actuales.

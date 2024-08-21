@@ -16,9 +16,7 @@ subcategory: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
 
-<div class="alert alert-info">
-  <p>This feature is available for accounts that have a minimum number of sessions and orders for the Artificial Intelligence model to be trained. If you want to implement it in the future, please contact <a href="https://support.vtex.com/hc/pt-br/requests">our support</a>. Extra fees may apply in the future.</p>
-</div>
+>ℹ️ This feature is available for accounts that have a minimum number of sessions and orders for the Artificial Intelligence model to be trained. If you want to implement it in the future, please contact [our support](https://support.vtex.com/hc/pt-br/requests). Extra fees may apply in the future.
 
 The [Synonyms](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) feature of [VTEX Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) allows you to add words, or similar sentences, as synonyms for customer search terms, increasing the chance of successful searches.
 

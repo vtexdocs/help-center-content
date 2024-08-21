@@ -18,9 +18,7 @@ internalReference: 934687
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Nas APIs de pesquisa inteligente (GraphQL ou REST), a propriedade `spotPrice` do objeto `items.sellers.commertialOffer` está incorreta para itens em que o `unitMultiplier` é maior que `1`.

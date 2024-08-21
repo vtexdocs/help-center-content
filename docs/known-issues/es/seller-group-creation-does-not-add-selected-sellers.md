@@ -18,9 +18,7 @@ internalReference: 926969
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El mercado puede crear grupos con algunos vendedores en la interfaz de usuario de gestión de vendedores.

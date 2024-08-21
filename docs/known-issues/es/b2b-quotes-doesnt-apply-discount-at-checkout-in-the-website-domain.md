@@ -18,9 +18,7 @@ internalReference: 849080
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando una cotización tiene un descuento aplicado por un vendedor, las Cotizaciones B2B no aplicarán el descuento al momento de pagar en el dominio del sitio web.

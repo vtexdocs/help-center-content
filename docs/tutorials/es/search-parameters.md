@@ -81,9 +81,7 @@ Los parámetros arriba pueden ser combinados de diversas formas, pero vale refor
 
 ### Estándar 2
 
-<div class="alert alert-info">
-  Para tiendas en VTEX IO, el Estándar es el modelo indicado.
-  </div>
+>ℹ️ Para tiendas en VTEX IO, el Estándar es el modelo indicado.
 
 URL: www.loja.com.br/**\[NomeCategoria\]**/**\[NomeMarca\]**/**\[IdColeção\]**/**\[ValorBuscado\]**?map=**c,b,productClusterIds,specificationFilter_\[IdCampoProduto/Sku\]**
 

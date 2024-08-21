@@ -18,9 +18,7 @@ internalReference: 965484
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se establece una promoción de suscripción en el módulo de suscripción, el comerciante tiene la posibilidad de elegir la frecuencia con la que se aplicará esta promoción en la suscripción.

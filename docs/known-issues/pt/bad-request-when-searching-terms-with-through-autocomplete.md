@@ -18,9 +18,7 @@ internalReference: 978136
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao pesquisar um termo com "#" diretamente por meio do preenchimento automático, a página nunca é carregada

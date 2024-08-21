@@ -16,9 +16,7 @@ trackSlugEN: vtex-getting-started
 
 Any SKU in your store needs a price to be displayed to the end user.
 
-<div class="alert alert-warning">
-Even an SKU that will be offered as a gift needs to have a price.
-</div>
+>⚠️ Even an SKU that will be offered as a gift needs to have a price.
 
 To register the price, follow the steps below.
 1. In the __Catalog__ module, hover over __Products Management__ tab, go to __Products and SKUs__ and click the __Products and SKUs Management__ option.

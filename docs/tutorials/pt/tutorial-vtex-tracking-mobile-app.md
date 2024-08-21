@@ -24,9 +24,7 @@ O aplicativo móvel do [VTEX Tracking](https://help.vtex.com/pt/tutorial/visao-g
   - [Pausar entrega](#pausar-entrega).
   - [Coletar dados do recebedor](#finalizacao-da-entrega).
 
-<div class="alert alert-info">
-A disponibilidade das funcionalidades listadas acima está condicionada à ativação por parte  da empresa de serviço de entrega.
-</div>
+>ℹ️ A disponibilidade das funcionalidades listadas acima está condicionada à ativação por parte  da empresa de serviço de entrega.
 
 ## Como instalar
 
@@ -37,9 +35,7 @@ Para instalar o aplicativo:
 3. Clique em __Instalar__.
 4. Aguarde o download e instalação.
 
-<div class="alert alert-warning">
-O aplicativo VTEX Tracking está disponível atualmente apenas para sistema Android.
-</div>
+>⚠️ O aplicativo VTEX Tracking está disponível atualmente apenas para sistema Android.
 
 ## Como acessar
 
@@ -56,9 +52,7 @@ Com os dados do cadastro em mãos, siga as instruções abaixo para acesso:
   <img src="https:////images.ctfassets.net/alneenqid6w5/3a3HtOlFA2xpLn5UsufytL/affee1c9cccda41ad54258fd8e99e09d/tela1seriousblack.png" width="250" height="450">
 </p>
 
-<div class="alert alert-warning">
-Caso o aplicativo apresente instabilidade, recomendamos a limpeza do cache do dispositivo móvel  e/ou a re-instalação do aplicativo.
-</div>
+>⚠️ Caso o aplicativo apresente instabilidade, recomendamos a limpeza do cache do dispositivo móvel  e/ou a re-instalação do aplicativo.
 
 ### Recuperar senha
 
@@ -70,9 +64,7 @@ Abra o aplicativo.
 3. Preencha o email.
 4. Clique em __ENVIAR__.
 
-<div class="alert alert-warning">
-Utilize como email de recuperação o mesmo email que foi cadastrado na plataforma web (veja Como acessar). Caso você não tenha a informação sobre um email cadastrado, entre em contato com a empresa de serviço de entrega.
-</div>
+>⚠️ Utilize como email de recuperação o mesmo email que foi cadastrado na plataforma web (veja Como acessar). Caso você não tenha a informação sobre um email cadastrado, entre em contato com a empresa de serviço de entrega.
 
 <p align="center">
   <img src="//images.ctfassets.net/alneenqid6w5/1CSmj8fe1tImUFUT6URnUc/42133d558ae524c9559cac2a13d2a5a8/tela2seriousblack.png" width="250" height="450">
@@ -81,16 +73,12 @@ Utilize como email de recuperação o mesmo email que foi cadastrado na platafor
  ## Como fazer uma entrega 
 
 O aplicativo apresenta na tela inicial, uma lista com as as entregas do dia a serem realizadas de acordo com a rota configurada. As rotas são os trajetos planejados a serem percorridos desde o ponto de coleta até o ponto de entrega. 
-<div class="alert alert-info">
-Para que as rotas estejam disponíveis no aplicativo é necessário que elas sejam previamente planejadas na plataforma web pela empresa de serviço de entregas. Entre em contato com a empresa, caso não tenha rotas disponíveis para você. 
-</div>
+>ℹ️ Para que as rotas estejam disponíveis no aplicativo é necessário que elas sejam previamente planejadas na plataforma web pela empresa de serviço de entregas. Entre em contato com a empresa, caso não tenha rotas disponíveis para você.
 
 <p align="center">
   <img src="//images.ctfassets.net/alneenqid6w5/5qjV5bJ7TIcbw1gNMZ41sB/ebd8ec4093e7e46852e0f297d705cac6/tela3seriousblack.png" width="230" height="450">
 </p>
-<div class="alert alert-danger">
-  Use a opção <b>PAUSAR</b> com cautela pois ao iniciar novamente a rota, os destinatários receberão notificações do novo início da entrega. 
-</div>
+>❗ Use a opção **PAUSAR** com cautela pois ao iniciar novamente a rota, os destinatários receberão notificações do novo início da entrega.
 
 ### Realizar entrega
 Para realizar uma entrega é necessário primeiro iniciá-la. Para tanto:
@@ -102,9 +90,7 @@ Abra o aplicativo.
 
 Após a inicialização da entrega, o destinatário passa a receber notificações via SMS com atualizações automáticas da rota de entrega e você tem acesso à detalhes como nome do destinatário, número de nota fiscal, série da nota fiscal, tipo de entrega e endereço de entrega podendo  usar aplicativos externos como Google Maps ou o Waze para abrir no mapa.
 
-<div class="alert alert-warning">
-É importante ressaltar que por conta de configurações específicas, é possível que seu aplicativo não apresente todas as funcionalidades ou apareçam de forma diferente na sua tela.
-</div>
+>⚠️ É importante ressaltar que por conta de configurações específicas, é possível que seu aplicativo não apresente todas as funcionalidades ou apareçam de forma diferente na sua tela.
 
 <a id="Fotos"> Durante a entrega,</a> você pode adicionar fotos que comprovem, por exemplo, a sua localização, a execução da entrega ou quaisquer outros motivos que requeiram registro fotográfico. Para adicionar:
 
@@ -116,26 +102,26 @@ Após a inicialização da entrega, o destinatário passa a receber notificaçõ
   <img src="//images.ctfassets.net/alneenqid6w5/5t3tVl6Y5y2okAuB50jDkH/b73c7ae1b8a208c22396855e5216c4c8/tela4seriousblack.png" width="230" height="450">
 </p>
 
-<div class="alert alert-info">
-Essa opção pode também estar disponível antes do início da rota mediante a configuração  pela empresa de serviço de entrega. Assim, ao invés de FOTOS estar disponível durante a entrega, ela aparecerá antes mesmo do início da rota. Se este for o caso, é preciso fotografar antes de realizar o início da rota. Então:
-<ol>
-  <li>Clique em <b>Fotografar.</b></li>
-  <li>Tire a foto.</li>
-  <li>Clique em <b>Iniciar</b> para iniciar a rota.</li>
-</ol>
-  <figure class="half">
-  <table class="center">
-    <tr>
-      <td>
-        <img src="//images.ctfassets.net/alneenqid6w5/7ISKJH3ZW7nEQZkR95hKjk/f51efbf5bcdfe29e73c96728baad3519/tela5seriousblack.png" width="250" height="450">
-      </td>
-      <td>
-        <img src="//images.ctfassets.net/alneenqid6w5/6buR2z5OvycFvz340pLxsI/52aed865af8c9b7d557c99dfda43896d/tela6seriousblack.png" width="250" height="450">
-      </td>
-    </tr>
-  </table>
-</figure>
- </div>
+>ℹ️ Essa opção pode também estar disponível antes do início da rota mediante a configuração  pela empresa de serviço de entrega. Assim, ao invés de FOTOS estar disponível durante a entrega, ela aparecerá antes mesmo do início da rota. Se este for o caso, é preciso fotografar antes de realizar o início da rota. Então:
+>
+> 1. Clique em **Fotografar.**
+>
+> 2. Tire a foto.
+>
+> 3. Clique em **Iniciar** para iniciar a rota.
+>
+> <figure class="half">
+>   <table class="center">
+>     <tr>
+>       <td>
+>         <img src="//images.ctfassets.net/alneenqid6w5/7ISKJH3ZW7nEQZkR95hKjk/f51efbf5bcdfe29e73c96728baad3519/tela5seriousblack.png" width="250" height="450">
+>       </td>
+>       <td>
+>         <img src="//images.ctfassets.net/alneenqid6w5/6buR2z5OvycFvz340pLxsI/52aed865af8c9b7d557c99dfda43896d/tela6seriousblack.png" width="250" height="450">
+>       </td>
+>     </tr>
+>   </table>
+> </figure>
 
   ### Ocorrências durante a entrega
 <a id="Reportar_problemas">Durante a entrega, </a> caso aconteça uma ocorrência, como por exemplo ausência do morador e/ou endereço errado, é possível fazer um reporte. 
@@ -182,9 +168,7 @@ Ao escolher uma ocorrência que tenha possibilidade de abertura de chat, uma men
   <img src="//images.ctfassets.net/alneenqid6w5/5KMsyiWbF99kWOHlLR4cLO/78f5f101f39f66d04bcdeea3e80c7645/tela8seriousblack.jpg" width="230" height="450">
 </p>
 
-<div class="alert alert-danger">
-  Use a opção <b>PAUSAR</b> com cautela pois ao iniciar novamente a rota, os destinatários receberão notificações do novo início da entrega. 
-</div>
+>❗ Use a opção **PAUSAR** com cautela pois ao iniciar novamente a rota, os destinatários receberão notificações do novo início da entrega.
 
 ### Finalização da Entrega
 <a id="FinalEntrega">Depois de chegar ao</a> destinatário e efetuar a entrega, é preciso finalizar a entrega no aplicativo e colher os dados do recebedor: 
@@ -226,9 +210,7 @@ Ao voltar para a página de finalização, será preciso escrever um comentário
 
 Após esses passos, a entrega é finalizada e o  aplicativo  abre uma caixa de diálogo perguntando se você deseja iniciar a próxima entrega da lista. Caso deseje, clique em __SIM__. 
 
-<div class="alert alert-info">
-Se esta caixa de diálogo não abrir automaticamente, na próxima entrega da tela de listas de entrega, clique em <b>Iniciar</b> e siga novamente as instruções de <a href="#Iniciar_rota">Como fazer uma entrega</a>.
-</div>
+>ℹ️ Se esta caixa de diálogo não abrir automaticamente, na próxima entrega da tela de listas de entrega, clique em **Iniciar** e siga novamente as instruções de [Como fazer uma entrega](#Iniciar_rota).
 
 <figure class="half">
   <table class="center">

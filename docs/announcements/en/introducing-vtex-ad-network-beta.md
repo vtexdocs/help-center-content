@@ -39,9 +39,7 @@ See below how you can join **VTEX Ad Network** as a merchant or an advertiser.
 
 To make ad space available in your store, install the [VTEX Ad Network for stores]() app in your VTEX account. Learn more in the [Displaying VTEX Ad Network ads in your store (Beta)](https://help.vtex.com/en/tutorial/exibindo-anuncios-do-vtex-ad-network-na-sua-loja-beta--6gWgZrMLcS5FDFFdl5LETA) article.
 
-<div class="alert alert-danger">
-Currently, only stores developed with <a href="https://help.vtex.com/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework">Store Framework</a> can offer ad space.
-</div>
+>❗ Currently, only stores developed with [Store Framework](https://help.vtex.com/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework) can offer ad space.
 
 ### Advertisers
 

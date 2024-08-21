@@ -18,9 +18,7 @@ subcategory: oMrzcOMVbBpH0reeMFHFg
 The navigation dataset operates with two main tables: `pageviews` and `sessions`. A `pageview` refers to each new page that a user accesses while browsing a store, while a `session` is the set of all pageviews made by a user in a single visit.
 Each `session` remains active until no new `pageviews` occur for a period of 30 minutes.
 
-<div class="alert alert-warning">
-The navigation dataset does not capture all types of events that occur during browsing. For example, specific clicks, special events, and interactions with the mini cart are not recorded.
-  </div>
+>⚠️ The navigation dataset does not capture all types of events that occur during browsing. For example, specific clicks, special events, and interactions with the mini cart are not recorded.
 
 This section includes the following information:
 
@@ -39,10 +37,8 @@ This section includes the following information:
 | History | The data is retained for two years, starting 2022 for clients who already use the VTEX platform. |
 | Minimum update interval | One hour. |
 
-<div class="alert alert-warning">
-  Data Pipeline only provides data from sessions originating from VTEX storefront solutions: Legacy CMS, Store Framework, and FastStore. VTEX does not have access to sessions originating from third-party marketplaces or proprietary storefronts. Furthermore, storefront customizations   may interfere with or even disable the script, resulting in some sessions not being recorded, or in discrepancies in the conversion rate observed in the dashboard.
-To minimize the impact on store performance, the script is configured to be the last element to load on the page. This means that very brief sessions may not be captured.
-</div>
+>⚠️ Data Pipeline only provides data from sessions originating from VTEX storefront solutions: Legacy CMS, Store Framework, and FastStore. VTEX does not have access to sessions originating from third-party marketplaces or proprietary storefronts. Furthermore, storefront customizations   may interfere with or even disable the script, resulting in some sessions not being recorded, or in discrepancies in the conversion rate observed in the dashboard.
+> To minimize the impact on store performance, the script is configured to be the last element to load on the page. This means that very brief sessions may not be captured.
 
 ## Table: sessions
 

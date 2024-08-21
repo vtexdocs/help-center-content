@@ -22,9 +22,7 @@ Since with SmartCheckout purchases can be closed just with the email and with th
 
 In other words, if the customer concludes the purchase using only the email and the CVV of the credit card, and if the operator’s approval does not occur after 3 consecutive attempts, a user ID screen is displayed so that the customer can continue trying to purchase. This countdown starts again when the customer logs in and successfully completes their purchase.
 
-<div class="alert alert-warning">
-Requiring a new authentication is only related to the established limit of 3 unsuccessful purchase attempts with the same card. This means that, <strong> regardless of the time interval between each attempt, authentication will be requested when the customer tries for the third time to end a purchase without success.</strong>
-</div>
+>⚠️ Requiring a new authentication is only related to the established limit of 3 unsuccessful purchase attempts with the same card. This means that, ** regardless of the time interval between each attempt, authentication will be requested when the customer tries for the third time to end a purchase without success.**
 
 This measure is aimed at the security of customer data against counter-attacks and attempts at fraud.
 

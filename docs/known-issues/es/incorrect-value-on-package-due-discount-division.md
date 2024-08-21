@@ -18,9 +18,7 @@ internalReference: 605517
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El paquete tiene un valor diferente del total del pedido sin el valor del envío. Esto sucede debido a que los descuentos no tienen una división adecuada con la cantidad de itens de la orden.

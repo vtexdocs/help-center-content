@@ -17,9 +17,7 @@ subcategory: 2AThnkEZAYbk4G4EIs53rL
 
 A exportação de dados em massa de registros no Master Data v1 pode ser feita tanto por API quanto por planilha. Este documento tem como objetivo demonstrar o passo a passo necessário para a exportação de dados por planilha.
 
-<div class="alert alert-warning">
-A operação de exportar dados do Master Data não é instantânea, e o tempo de execução dela depende da quantidade de dados no Master Data. Por isso, em lojas com muitos dados e com uma alta frequência de atualização, o arquivo exportado pode ficar desatualizado em relação aos novos dados. Caso isso ocorra, a solução deve ser exportar os dados novamente, de preferência quando não há muitas atualizações ocorrendo (por exemplo, fora do horário comercial ou em fins de semana).
-</div>
+>⚠️ A operação de exportar dados do Master Data não é instantânea, e o tempo de execução dela depende da quantidade de dados no Master Data. Por isso, em lojas com muitos dados e com uma alta frequência de atualização, o arquivo exportado pode ficar desatualizado em relação aos novos dados. Caso isso ocorra, a solução deve ser exportar os dados novamente, de preferência quando não há muitas atualizações ocorrendo (por exemplo, fora do horário comercial ou em fins de semana).
 
 ## Exportar relatório com dados do Master Data v1
 

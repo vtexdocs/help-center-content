@@ -18,9 +18,7 @@ internalReference: 780673
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A UI de Checkout não torna o componente de envio ao acessar a página de checkout diretamente através de etapa específica na URL (exceto para /cart e /expedição), os "dados de envio" estão incompletos, e há um aumento da latência no pedidoFormar solicitações API. Você verá a mensagem "À espera de mais informações" e não poderá prosseguir com a compra.

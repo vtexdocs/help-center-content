@@ -15,6 +15,4 @@ legacySlug: avisos-de-integracion-de-google
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-<div class="alert alert-warning">
-Contenido en traducción.
-</div>
+>⚠️ Contenido en traducción.

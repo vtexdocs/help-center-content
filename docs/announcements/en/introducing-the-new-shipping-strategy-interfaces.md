@@ -38,7 +38,5 @@ Starting from May 31st, the beta version of **Shipping Strategy** is available f
 
 After testing it, if you wish to go back to the previous version, click the menu <i class="fas fa-ellipsis-v"></i> at the top of the page, select `Switch to Previous Version` and give us some feedback. The return to the previous experience will be automatic.
 
-<div class="alert alert-warning">
-Starting from July 26th, the new <b>Shipping Strategy</b> interfaces will be the standard for all VTEX stores.
-</div>
+>⚠️ Starting from July 26th, the new **Shipping Strategy** interfaces will be the standard for all VTEX stores.
 

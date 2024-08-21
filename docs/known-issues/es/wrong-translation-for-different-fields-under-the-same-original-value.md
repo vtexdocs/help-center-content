@@ -18,9 +18,7 @@ internalReference: 982848
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La Búsqueda Inteligente puede utilizar una traducción errónea para un campo cuyo valor en el idioma primario es el mismo entre diferentes campos.

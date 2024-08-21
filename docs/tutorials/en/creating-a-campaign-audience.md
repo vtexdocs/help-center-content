@@ -26,9 +26,7 @@ Follow the steps below to create a new campaign audience:
 5. Fill in the fields described in the [Create new target audience](#creating-a-new-target-audience) section.
 6. Click `Save`.
 
-<div class="alert alert-warning">
-  <p>After creating a campaign audience, you have to associate it with a campaign promotion to take effect. Follow the steps described in the <a href="https://help.vtex.com/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume">Creating a campaign promotion</a> guide.</p>
-</div>
+>⚠️ After creating a campaign audience, you have to associate it with a campaign promotion to take effect. Follow the steps described in the [Creating a campaign promotion](https://help.vtex.com/en/tutorial/campaign-promotion--1ChYXhK2AQGuS6wAqS8Ume) guide.
 
 ## General data
 
@@ -45,10 +43,9 @@ When creating a new campaign audience, you must enter the following information 
     * **End Date:** End date scheduled for deactivating the campaign audience.
     * **End Hour:** End hour scheduled for deactivating the campaign audience.
 
-<div class="alert alert-warning">
-  <p>When scheduling a campaign audience, the <strong>Start Date</strong> or <strong>Start Hour</strong> must be subsequent to your current date or hour.</p>
-<p>The time zone will be the same as the one on the user's device when creating the campaign audience — you cannot adjust the hour to a different time zone.</p>
-</div>
+>⚠️ When scheduling a campaign audience, the **Start Date** or **Start Hour** must be subsequent to your current date or hour.
+>
+> The time zone will be the same as the one on the user's device when creating the campaign audience — you cannot adjust the hour to a different time zone.
 
 ## Creating a new target audience
 
@@ -102,9 +99,7 @@ For example: The target audience includes items whose brand is **Nike**, as illu
 * **Shipping to postal code should Include / Exclude from __ to __:** Allows including or excluding shipping code ranges for order shipment. The campaign audience will be activated if the shipping code meets the rule set for the target audience.
 * **Affiliates:** Allows selecting [affiliates](https://help.vtex.com/en/tutorial/what-is-an-affiliate--4bN3e1YarSEammk2yOeMc0) from a list. A campaign audience will be activated if the purchase is made in one of those affiliate marketplaces.
 
-  <div class="alert alert-warning">
-    <p>The <strong>Affiliates</strong> option only applies if the affiliate is a VTEX store.</p>
-  </div>
+  >⚠️ The **Affiliates** option only applies if the affiliate is a VTEX store.
 
 * **utm_source:** Allows selecting the desired [utm_source](https://help.vtex.com/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) or creating a new one to be linked to the campaign audience. The campaign audience will be activated if customer navigation is made using the utm_source corresponding to any entered values. It is important to note that customers can only enter one utm_source at checkout.
 * **utm_campaign:** Allows selecting the desired [utm_campaign](https://help.vtex.com/en/tutorial/what-are-utm-source-utm-campaign-and-utm-medium--2wTz7QJ8KUG6skGAoAQuii) or creating a new one to be linked to the campaign audience. The discount will be granted if the customer navigation uses a utm_campaign corresponding to the entered value.
@@ -112,9 +107,7 @@ For example: The target audience includes items whose brand is **Nike**, as illu
 * **Apply selected discount only when one of the above carriers is selected by the customer:** The campaign audience will be activated only after the customer selects the order delivery method.
 * **Payment system:** Allows selecting the payment methods that will be included in the target audience. The campaign audience will be activated if the payment method selected by the customer is the one configured for this target audience.
 
-  <div class="alert alert-warning">
-    <p>Campaign audiences defined by <strong>Payment system</strong> or <strong>Maximum number of installments</strong> will not apply to orders paid using two credit cards or vouchers.</p>
-  </div>
+  >⚠️ Campaign audiences defined by **Payment system** or **Maximum number of installments** will not apply to orders paid using two credit cards or vouchers.
 
 ## Learn more
 

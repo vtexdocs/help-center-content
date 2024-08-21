@@ -18,9 +18,7 @@ internalReference: 860375
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando el comprador tiene direcciones registradas en el Sistema de Perfiles, y es suplantado utilizando VTEX Telemarketing, se muestran las direcciones del Sistema de Perfiles y Organizaciones

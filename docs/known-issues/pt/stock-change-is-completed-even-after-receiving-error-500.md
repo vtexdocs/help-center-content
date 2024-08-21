@@ -18,9 +18,7 @@ internalReference: 388176
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O cliente está tentando atualizar a quantidade de sku no inventário e a solicitação recebeu o erro 500. Apesar do erro, a quantidade em estoque é alterada.

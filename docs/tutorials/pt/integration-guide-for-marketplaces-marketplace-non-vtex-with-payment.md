@@ -15,9 +15,7 @@ legacySlug: guia-de-integracao-para-marketplaces-marketplace-nao-vtex-com-pagame
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---
 
-<div class="alert alert-warning">
-Confira a versão atualizada desse <a href="https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide">guia de integração com marketplace</a> em nosso Developer Portal. 
-</div> 
+>⚠️ Confira a versão atualizada desse [guia de integração com marketplace](https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide) em nosso Developer Portal. 
 
 ## Marketplace Não Hospedado na Plataforma VTEX vendendo para Sellers Hospedados na Plataforma VTEX com Pagamento
 
@@ -116,7 +114,7 @@ O Marketplace irá usar esse endpoint para autorizar o andamento do pagamento no
  [Exemplo Completo: Informar tracking de um pedido](#a13)<br/>
  [Exemplo Completo: Solicitar cancelamento de um pedido sem nota fiscal](#a14)<br/>
 
-<div class="alert alert-warning">No POST do pedido feito pelo Marketplace, o campo <code>marketplaceserviceendpoint</code> deve vir preenchido com o url base de serviços do Marketplace.</div>
+>⚠️ No POST do pedido feito pelo Marketplace, o campo `marketplaceserviceendpoint` deve vir preenchido com o url base de serviços do Marketplace.
 
 12. Implementar rotina que captura ou cancela o pagamento no Seller - Marketplace vai chamar endpoint do Seller.
 O Marketplace deve capturar o pagamento ao receber a nota fiscal e deve cancelar o pagamento ao receber um cancelamento de pedido.

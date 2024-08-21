@@ -18,9 +18,7 @@ internalReference: 514335
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Ha habido casos en los que ciertas transacciones han sido rechazadas durante el análisis antifraude debido al valor nulo en el campo `minicart.buyer.id`. Por lo tanto, se espera que el campo `minicart.buyer.id` se envíe desde la caja a la pasarela a través de `sendAdditionalData`. Sin embargo, de acuerdo con la arquitectura actual de la caja, no hay ningún requisito específico para proporcionar este campo en `sendAdditionalData`, y su definición puede o no estar disponible en una etapa posterior.

@@ -16,9 +16,7 @@ trackSlugPT: proximos-passos-apos-o-go-live
 
 Produtos Add-on são soluções oferecidas pela VTEX para atender demandas específicas de um negócio e que podem ser adquiridas separadamente por meio de um contrato de assinatura.
 
-<div class="alert alert-warning">
-  <p>Para implementar as soluções abaixo, é necessário entrar em contato com o nosso <a href="https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Suporte Comercial VTEX</a>.</p> 
-</div>
+>⚠️ Para implementar as soluções abaixo, é necessário entrar em contato com o nosso [Suporte Comercial VTEX](https://help.vtex.com/pt/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ).
 
 ## VTEX Ad Network
 
@@ -84,9 +82,7 @@ O **VTEX Shipping Network** proporciona a possibilidade de conectar transportado
 
 Para mais informações, é preciso acessar a página sobre [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/).
 
-<div class="alert alert-warning">
-  <p>As soluções <strong>VTEX Shipping Network</strong> e <strong>VTEX Shipping Network Correios</strong> são exclusivas para operações no Brasil.</p>
-</div>
+>⚠️ As soluções **VTEX Shipping Network** e **VTEX Shipping Network Correios** são exclusivas para operações no Brasil.
 
 ## VTEX Shipping Network Correios
 

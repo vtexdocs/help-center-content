@@ -38,10 +38,9 @@ Para configurar o ClearSaleV3, siga os passos abaixo:
 </ul>
 7. Clique em `Salvar`.
 
-<div class="alert alert-info">
-<p>Caso possua uma aplicação mobile que utilize as APIs da VTEX na finalização da compra é necessário realizar a implementação da coleta de dados do fingerprint a serem enviados para Clearsale, de acordo com a plataforma utilizada pelo aplicativo. Saiba mais em <a href="https://api.clearsale.com.br/docs/behavior-analytics" target="_blank">Clearsale Behavior Analytics</a>.</p>
-<p>Com a implementação do SDK é necessário coletar o valor de <span class="bg-muted-4">sessionId</span> e enviá-lo no campo <span class="bg-muted-4">deviceFingerprint</span> via <a href="https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments">API na criação do pagamento</a>.</p>  
-</div>
+>ℹ️ Caso possua uma aplicação mobile que utilize as APIs da VTEX na finalização da compra é necessário realizar a implementação da coleta de dados do fingerprint a serem enviados para Clearsale, de acordo com a plataforma utilizada pelo aplicativo. Saiba mais em [Clearsale Behavior Analytics](https://api.clearsale.com.br/docs/behavior-analytics" target="_blank).
+>
+> Com a implementação do SDK é necessário coletar o valor de <span class="bg-muted-4">sessionId</span> e enviá-lo no campo <span class="bg-muted-4">deviceFingerprint</span> via [API na criação do pagamento](https://developers.vtex.com/docs/api-reference/payment-provider-protocol#post-/payments).
 
 ## Criando a tag do Google Tag Manager
 
@@ -91,6 +90,4 @@ O `shippingEstimate` pode ser obtido nos itens de `shippingData.logisticsInfo[]`
 
 O valor de `deliverySlaInMinutes` é a conversão de `shippingEstimate` em minutos. Se a unidade for `m` (minutos) será o mesmo valor, se a unidade for `h` (horas) o valor é multiplicado por 60 e se a unidade for `d` (dias corridos) ou `bd` (dias úteis) o valor é multiplicado por 1440. Por exemplo, três dias corridos ou `3d` é representado como `4320`. O `deliverySlaInMinutes` é utilizado em cada item do `minicart` no request body dos endpoints <a href="https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow#sendantifraudpreanalysisdata" target="_blank">Send Antifraud Pre-Analysis Data</a> e <a href="https://developers.vtex.com/vtex-rest-api/reference/antifraud-flow#sendantifrauddata" target="_blank">Send Antifraud Data</a>.
 
-<div class="alert alert-info">
-Apesar de a conversão do tempo em dias corridos (<code>d</code>) e dias úteis (<code>bd</code>) para minutos  ser a mesma no campo <code>deliverySlaInMinutes</code>, a data da entrega pode divergir dependendo do calendário (quando há finais de semana e feriados dentro do período de entrega).
-</div>
+>ℹ️ Apesar de a conversão do tempo em dias corridos (`d`) e dias úteis (`bd`) para minutos  ser a mesma no campo `deliverySlaInMinutes`, a data da entrega pode divergir dependendo do calendário (quando há finais de semana e feriados dentro do período de entrega).

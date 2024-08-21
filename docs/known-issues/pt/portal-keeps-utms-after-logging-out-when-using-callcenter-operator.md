@@ -18,9 +18,7 @@ internalReference: 534838
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O Portal mantém os UTM's após o log out quando se utiliza o Callcenter Operator.

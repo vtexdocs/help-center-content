@@ -18,9 +18,7 @@ internalReference: 778611
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Si el proceso de pago del cliente envía datos de usuario sin la validación adecuada, como un número de teléfono con menos de tres dígitos, estos datos se pasan a la pasarela tal cual, lo que puede provocar errores inesperados durante el procesamiento. Por ejemplo, nuestro analizador puede lanzar una excepción y cancelar la transacción.

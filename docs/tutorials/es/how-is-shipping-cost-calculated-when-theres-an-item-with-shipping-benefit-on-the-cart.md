@@ -25,9 +25,7 @@ Cuando hay más de un elemento en el carrito, el costo del envío dividido por c
 
 Vamos a analizar cómo se calcula la división del costo de envío en un carro con 5 ítems, con un costo total de envío de 200 unidades monetarias:
 
-<div class="alert alert-info">
-Para descubrir el costo de envío de un carrito, haga una <a href="http://help.vtex.com/es/tutorial/simulacion-de-flete"> simulación de flete </a>. Para saber el peso de un SKU, acceda a <strong>Productos y SKUs</strong> en el menú Catálogo y busque por <strong>Peso para Envío</strong>.
-</div>
+>ℹ️ Para descubrir el costo de envío de un carrito, haga una [ simulación de flete ](http://help.vtex.com/es/tutorial/simulacion-de-flete). Para saber el peso de un SKU, acceda a **Productos y SKUs** en el menú Catálogo y busque por **Peso para Envío**.
 
 - __Costo total de envío: __ 200
 - __Peso del producto A: __ 20

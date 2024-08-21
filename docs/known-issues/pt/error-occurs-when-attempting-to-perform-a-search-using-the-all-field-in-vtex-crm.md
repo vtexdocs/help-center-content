@@ -18,9 +18,7 @@ internalReference: 925679
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Esse caso ocorre com entidades que contêm um grande número de campos e milhões de registros em uma entidade. O problema ocorre porque o mecanismo de busca usa o campo "All", que envia solicitações individuais para cada campo pesquisável da entidade e multiplica a carga de solicitações para cada documento.

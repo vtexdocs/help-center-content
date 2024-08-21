@@ -211,9 +211,7 @@ La lista representa las métricas y los filtros aplicados al gráfico en formato
   - __Absoluta__: visualiza en números absolutos el aumento o disminución de las métricas de la lista entre un periodo y otro.   
   - __Representativa__: visualiza el porcentaje de representatividad de un elemento dentro de una métrica.  
 
-<div class="alert alert-info">
-Ten en cuenta que las métricas <i>Ticket promedio</i> y <i>Ítems por pedido</i> no tendrán disponible una vista de Porcentaje o Representativa, ya que son métricas que se calculan dividiendo otras, y la suma de todas las partes de cada una no es igual al Total.
-  </div>
+>ℹ️ Ten en cuenta que las métricas <i>Ticket promedio</i> y <i>Ítems por pedido</i> no tendrán disponible una vista de Porcentaje o Representativa, ya que son métricas que se calculan dividiendo otras, y la suma de todas las partes de cada una no es igual al Total.
 
 ### Exportar datos
 

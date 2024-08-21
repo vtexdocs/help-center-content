@@ -18,9 +18,7 @@ internalReference: 326899
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Incapaz de criar "Produtos Relacionados" Elemento Personalizado no CMS

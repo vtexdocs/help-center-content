@@ -19,9 +19,7 @@ Um relacionamento entre entidades é uma referência entre documentos que perten
 
 Por exemplo, sua loja tem uma entidade **Clientes** e outra **Lista de Compras**, e você quer que cada cliente possa ter várias listas de compras. Para isso, é necessário criar um campo na entidade **Lista de Compras** para informar a qual cliente ela pertence. 
 
-<div class="alert alert-info">
-<p>O Master Data já possui por padrão alguns relacionamentos pré-definidos, como os de Cliente (CL) e Endereço (AD).</p>
-</div>
+>ℹ️ O Master Data já possui por padrão alguns relacionamentos pré-definidos, como os de Cliente (CL) e Endereço (AD).
 
 ## Criar um relacionamento entre entidades de dados
 

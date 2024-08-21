@@ -18,9 +18,7 @@ internalReference: 590934
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Eventualmente, dependendo do número de produtos que temos dentro de uma categoria, se selecionarmos os filtros da categoria na IU de coleção legada, ela poderá devolver produtos que não pertencem a estas categorias.

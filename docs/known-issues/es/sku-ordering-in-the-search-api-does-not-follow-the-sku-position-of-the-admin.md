@@ -18,9 +18,7 @@ internalReference: 515042
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, la respuesta de la API de búsqueda no respeta el posicionamiento de las SKU dentro del producto en Admin. En la respuesta, las SKU se ordenan en orden ascendente de SkuId.

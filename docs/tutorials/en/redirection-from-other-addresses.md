@@ -28,9 +28,7 @@ You can also use DNS redirection, as provided by several services, including dom
 
 To perform a DNS redirection in a simple manner, there are instructions below on how to use the [redirect.center](http://redirect.center/) service.
 
-<div class="alert alert-warning">
-Note that Redirect Center is not a VTEX service and does not work with HTTPS. There are other similar services, but VTEX does not recommend any specific one. VTEX is not responsible for problems caused by external redirect services.
-</div>
+>⚠️ Note that Redirect Center is not a VTEX service and does not work with HTTPS. There are other similar services, but VTEX does not recommend any specific one. VTEX is not responsible for problems caused by external redirect services.
 
 This guide contains the instructions so you can redirect other domains to your store's main address. See this other article to learn [how to configure access without www](https://help.vtex.com/en/tutorial/configurando-acesso-sem-www--tutorials_4278).
 

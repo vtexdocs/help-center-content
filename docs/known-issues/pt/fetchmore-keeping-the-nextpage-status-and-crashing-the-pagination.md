@@ -18,9 +18,7 @@ internalReference: 560014
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Se você acessar uma loja e clicar em mostrar mais, navegar por algumas páginas, e depois clicar novamente no link "categoria" para reiniciar a navegação, o fetch mais trará o status (página) da última navegação, não retornando ao início.

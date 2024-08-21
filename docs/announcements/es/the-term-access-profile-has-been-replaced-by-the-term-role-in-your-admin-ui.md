@@ -15,6 +15,4 @@ announcementImageID: ''
 announcementSynopsisES: 'El término ‘Access Profile’ ha sido sustituido por el término ‘Role’ para reflejar mejor el concepto al que se refiere.'
 ---
 
-<div class="alert alert-warning">
-Este cambio se refiere a un término utilizado únicamente en la lengua inglesa. Consulte este anuncio en inglés para obtener más información.
-</div>
+>⚠️ Este cambio se refiere a un término utilizado únicamente en la lengua inglesa. Consulte este anuncio en inglés para obtener más información.

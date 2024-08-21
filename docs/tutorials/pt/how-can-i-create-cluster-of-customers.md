@@ -17,21 +17,16 @@ subcategory: 42hDtnYXHw5ExG6l19RP1l
 
 Clusterização de clientes é o mesmo que segmentação de clientes. Essas duas abordagens servem para dar ao lojista uma maior identificação de qual é o perfil do cliente, para obter mais assertividade nas atividades relacionadas a esse usuário.
 
-<div class="alert alert-warning">
-Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais:
-<ul>
-<li>
-<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
-Características das versões do Master Data
-</a>
-</li>
-<li>
-<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
-Master Data v2
-</a>
-</li>
-</ul>
-</div>
+>⚠️ Este artigo diz respeito ao funcionamento do Master Data v1. É importante avaliar qual versão do Master Data atende as necessidades ou está em uso na sua operação. Saiba mais:
+>
+> *<a href="https://help.vtex.com/tutorial/master-data--4otjBnR27u4WUIciQsmkAw#versions-available">
+> Características das versões do Master Data
+> </a>
+>
+> *<a href="https://developers.vtex.com/vtex-rest-api/docs/getting-started-1">
+> Master Data v2
+> </a>
+> 
 
 Esse dado, quando adquirido, é muito válido para o marketing e a publicidade da empresa. Cada loja pode definir quais serão seus clusters e quais serão as regras para que um cliente entre em cada um deles.
 

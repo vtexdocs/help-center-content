@@ -18,9 +18,7 @@ internalReference: 889045
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 No módulo Master Data, o mecanismo de pesquisa do administrador redireciona para o URL errado.

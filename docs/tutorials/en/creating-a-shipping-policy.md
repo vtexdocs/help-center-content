@@ -51,9 +51,7 @@ To create a shipping policy, follow the steps below:
         *   Select the `Day of the week` and the `Pickup time`.
         *   To add more days of the week, click on `Add pickup time`.
 
-<div class="alert alert-warning">
-The <b>Shipping Window</b> and <b>Pickup Time</b> are options that exclude each other since a period cannot simultaneously be allocated to different actions.
-</div> 
+>⚠️ The **Shipping Window** and **Pickup Time** are options that exclude each other since a period cannot simultaneously be allocated to different actions. 
 
 *   **[Scheduled delivery](https://help.vtex.com/en/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi)**: this feature can be enabled if this service is included in your shipping policy. Here you must add the delivery windows that will be displayed to customers at checkout. To use this feature, click the toggle and fill in the following fields:
     *    **Maximum delivery time:** the maximum number of days to deliver a product.

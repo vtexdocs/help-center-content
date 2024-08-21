@@ -23,9 +23,7 @@ O Google Pay™ é um serviço de pagamentos digitais que possibilita ao usuári
 
 Os termos de serviço da API do Google Pay se aplicam sempre que o serviço Google Pay for oferecido por um lojista. Para ler os termos, acesse [Google Pay API Terms of Service](https://payments.developers.google.com/terms/sellertos).
 
-<div class="alert alert-warning">
-<p>O Google Pay não está disponível para Checkout V5 ou versões anteriores do Checkout.</p>
-</div>
+>⚠️ O Google Pay não está disponível para Checkout V5 ou versões anteriores do Checkout.
 
 ## Ativar Google Pay
 
@@ -34,26 +32,20 @@ Para ativar o Google Pay, siga o passo a passo abaixo.
 1. No Admin VTEX, acesse **Configurações da loja > Pagamentos > Carteiras** ou digite **Carteiras **na barra de busca no topo da página.
 2. Selecione a opção **Ativar** para modificar o checkout para incluir a extensão do Google Pay.
 
-<div class="alert alert-info">
-<p>As bandeiras suportadas no Google Pay são as mesmas bandeiras configuradas nas condições de pagamento.</p>
-</div>
+>ℹ️ As bandeiras suportadas no Google Pay são as mesmas bandeiras configuradas nas condições de pagamento.
 
 Feito isso, o Google Pay estará disponível no checkout da sua loja VTEX como nova forma de pagamento. É possível que demore em torno de 10 minutos para que a configuração apareça no Checkout.
 
 ![google pay - PT](https://images.ctfassets.net/alneenqid6w5/IhdcOpZC0MPaZLYbPUYw1/a8bca906bd64bf229ac9521848a7c029/image.png)
 
-<div class="alert alert-warning">
-<p>Google Pay, neste momento, não vai suportar assinatura.</p>
-</div>
+>⚠️ Google Pay, neste momento, não vai suportar assinatura.
 
 É necessário ter os seguintes requisitos para utilizar o Google Pay:
 
 * Ter pelo menos uma [condição de pagamento](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/6bzGxlz4inf8sKmvZ1c7i3) ativa configurada para cartões de crédito ou débito com um [adquirente](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/kdPbEIWf8Xq8tESQvViMB#adquirente), definindo qual adquirente irá processar o pagamento da carteira.
 * Utilizar o [Checkout VTEX](https://help.vtex.com/pt/tutorial/checkout-vtex-visao-geral--7wcprkM7yZUflOqbzAN5SI) na sua loja.
 
-<div class="alert alert-warning">
-  <p>Nas lojas que têm o fluxo de autenticação <a href="https://help.vtex.com/pt/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa">3DS</a> configurado e suportado pelo adquirente, o pagamento com o Google Pay seguirá o fluxo nativo de cartão, sendo submetido também ao 3DS. Para mais informações sobre como configurar o fluxo de autenticação, consulte <a href="https://help.vtex.com/pt/tutorial/configurar-fluxo-de-autenticacao-3ds-2--58XMn5LOA6fwrSkoDoAsg2">Configurar fluxo de autenticação 3DS 2</a>.</p>
-</div>
+>⚠️ Nas lojas que têm o fluxo de autenticação [3DS](https://help.vtex.com/pt/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) configurado e suportado pelo adquirente, o pagamento com o Google Pay seguirá o fluxo nativo de cartão, sendo submetido também ao 3DS. Para mais informações sobre como configurar o fluxo de autenticação, consulte [Configurar fluxo de autenticação 3DS 2](https://help.vtex.com/pt/tutorial/configurar-fluxo-de-autenticacao-3ds-2--58XMn5LOA6fwrSkoDoAsg2).
 
 ## Consultar transações finalizadas com o Google Pay
 
@@ -71,9 +63,7 @@ Para adicionar a informação que o pedido foi realizado com um cartão advindo 
 
 Com isso, após qualquer menção aos últimos quatro dígitos do cartão desses templates de email, será adicionada a informação "(Google Pay)" caso o pagamento tenha sido feito com a carteira.
 
-<div class="alert alert-info">
-<p>Para lojas provisionadas a partir de Março de 2023, os templates já estarão atualizados com a informação do pagamento do pedido feito com o Google Pay.</p>
-</div>
+>ℹ️ Para lojas provisionadas a partir de Março de 2023, os templates já estarão atualizados com a informação do pagamento do pedido feito com o Google Pay.
 
 ## FAQ
 

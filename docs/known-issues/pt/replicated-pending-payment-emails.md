@@ -18,9 +18,7 @@ internalReference: 348932
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Há alguns pedidos que têm um email replicado de pagamento pendente em poucos minutos. Até mesmo dez e-mails.

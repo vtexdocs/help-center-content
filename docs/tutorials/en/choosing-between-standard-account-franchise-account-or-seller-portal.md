@@ -23,7 +23,7 @@ There are three types of accounts on the VTEX platform and each one allows you t
 - **Franchise account:** It is associated with a standard account, inheriting its catalog. [Franchise accounts](https://help.vtex.com/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl) can configure their own logistics, payment and prices, and use the VTEX platform modules partially. This type of seller is called a [white label seller](https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa).
 - **Seller Portal:** The [Seller Portal](https://help.vtex.com/en/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK) is a feature of the VTEX platform that allows sellers to connect and sell their products on marketplaces of the VTEX ecosystem, regardless of whether the seller already has a VTEX account. The Seller Portal allows partial access to the platform modules, and the seller type can be standard or [white label seller](https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa).
 
-<div class="alert alert-warning"> The limit for each Seller Portal account is 100 thousand products. For more information, please contact our <a href="https://support.vtex.com/hc/pt-br/requests">Support.</div>
+>⚠️ The limit for each Seller Portal account is 100 thousand products. For more information, please contact our <a href="https://support.vtex.com/hc/pt-br/requests">Support.
 
 The table below presents the main use cases for each account type:
 

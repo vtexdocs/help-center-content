@@ -18,9 +18,7 @@ internalReference: 1043039
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Después de suplantar otro email, se espera que se muestre un botón "Detener suplantación", pero cuando el `showModal` está habilitado, no se muestra.

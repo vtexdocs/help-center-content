@@ -15,9 +15,7 @@ legacySlug: como-ver-un-ranking-de-los-productos-mas-vendidos
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-<div class="alert alert-warning">
-El módulo <strong>Pedidos</strong> no fue creado con el objetivo de servir como herramienta de BI (Business Inteligence). Normalmente, es en el ERP que la tienda tiene acceso a informes de ventas.
-</div>
+>⚠️ El módulo **Pedidos** no fue creado con el objetivo de servir como herramienta de BI (Business Inteligence). Normalmente, es en el ERP que la tienda tiene acceso a informes de ventas.
 
 Aunque el objetivo principal del módulo **Pedidos** es gestionar el flujo de pedidos, es posible manipular los datos del [informe de pedidos](https://help.vtex.com/es/tutorial/planilha-de-pedidos) para extraer algunas informaciones que pueden ser útiles a su negocio.
 

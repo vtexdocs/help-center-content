@@ -22,18 +22,14 @@ No recomendamos el uso de <a href="https://help.vtex.com/es/tutorial/otimizar-as
 ## Cómo funciona el buscador
 El buscador de VTEX posee un algoritmo inteligente que, a partir del término buscado, identifica cuál es el mejor resultado para presentarle al usuario, o sea, se le presenta siempre el resultado que generará más conversión de venta.
 
-<div class="alert alert-info">
-Ver más detalles de <a href="https://help.vtex.com/es/tutorial/como-funciona-la-busqueda-de-vtex--tutorials_542">como funciona la búsqueda</a> en VTEX.
-</div>
+>ℹ️ Ver más detalles de [como funciona la búsqueda](https://help.vtex.com/es/tutorial/como-funciona-la-busqueda-de-vtex--tutorials_542) en VTEX.
 
 ## Que utilidad tiene una palabra sustituta
 Si el sistema de búsqueda no identifica Landing Page, Marca o Departamento de acuerdo al término buscado, aplica una búsqueda por Palabra Sustituta (palabra clave). 
 
 Pese a tener un peso bajo para la puntuación del indexador, la utilización de palabras sustitutas es un recurso extremadamente importante, ya que hace posible alcanzar a usuarios que realizan búsquedas por términos con errores gramaticales (spagetti), redacción fonética (espagueti) o palabras mal escritas por accidentes al teclearlas (spaguetto), pero con la misma semántica que la palabra original (spaguetti).
 
-<div class="alert alert-info">
-Un recurso muy utilizado para agilizar las búsquedas del equipo interno es colocar el RefId/EAN como Palabra Sustituta en el producto. De este modo, se pueden hacer búsquedas más veloces, con resultados únicos y encontrar ágilmente el producto buscado.
-</div>
+>ℹ️ Un recurso muy utilizado para agilizar las búsquedas del equipo interno es colocar el RefId/EAN como Palabra Sustituta en el producto. De este modo, se pueden hacer búsquedas más veloces, con resultados únicos y encontrar ágilmente el producto buscado.
 
 ## Cómo cargo una palabra sustituta
 

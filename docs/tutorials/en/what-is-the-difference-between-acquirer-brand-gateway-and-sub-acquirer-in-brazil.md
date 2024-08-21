@@ -73,6 +73,4 @@ It collects data about the behavior of users and compares them with suspicious p
 
 At VTEX, the payment operator first approves the purchase and then the anti-fraud assesses the order. If everything goes OK, it follows its normal flow. Some examples of anti-fraud are: ClearSale and Konduto. 
 
-<div class="alert alert-info">
-It is important to emphasize that each business depends on specific factors that influence the decision of which modality to use. There are several variables that can determine the choice of a payment method and what your financial flow will be. It is critical, therefore, to keep the actual needs and purposes of the retailer and desired project in mind.
-</div>
+>ℹ️ It is important to emphasize that each business depends on specific factors that influence the decision of which modality to use. There are several variables that can determine the choice of a payment method and what your financial flow will be. It is critical, therefore, to keep the actual needs and purposes of the retailer and desired project in mind.

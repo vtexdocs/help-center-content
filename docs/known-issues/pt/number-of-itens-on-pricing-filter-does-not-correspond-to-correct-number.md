@@ -18,9 +18,7 @@ internalReference: 371405
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Na IU de Preços, somos capazes de filtrar por marca ou categoria. Depois de fazer um filtro, a IU retorna apenas os produtos no filtro, mas o total de itens retornados no menu é na verdade o total sem nenhum filtro, e os dados mostrados são filtrados como esperado.

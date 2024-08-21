@@ -18,9 +18,7 @@ internalReference: 714879
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Algunos pedidos de "b2wentregadirect" que deberían entrar como (FOB), pero se están integrando con el flete calculado aquí en nuestro lado.

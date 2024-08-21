@@ -35,9 +35,7 @@ To configure Decidir, follow the steps below:
 13. In the __Change Margin__ field, set the percentage margin to which the payment amount may be changed.
 14. Click __Save__.
 
-<div class="alert alert-warning">
-Warning: if you decide to contract <strong>CyberSource</strong> anti-fraud services, we recommend contacting the Cybersource team directly for more info on the Checkout configuration.
-</div>
+>⚠️ Warning: if you decide to contract **CyberSource** anti-fraud services, we recommend contacting the Cybersource team directly for more info on the Checkout configuration.
 
 ## Setting up the payment condition
 

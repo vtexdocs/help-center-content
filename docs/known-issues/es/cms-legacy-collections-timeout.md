@@ -18,9 +18,7 @@ internalReference: 434026
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 A menudo, al intentar guardar los datos de un grupo de colecciones utilizando la aplicación de colecciones heredada, en la ruta /admin/a e intentando Guardar grupo, el usuario, en casos de catálogos grandes (gran cantidad de categorías, marcas, productos), se encontrará con un mensaje de error de tiempo de espera y no podrá guardar sus cambios.
 

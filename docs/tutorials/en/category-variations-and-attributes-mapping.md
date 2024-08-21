@@ -92,14 +92,11 @@ Given this information, continue completing the spreadsheet by following the gui
 5. __MeliValue:__ in this column you must fill values accepted by Mercado Livre, corresponding to the values used in the `VtexValue` field. In the Mercado Livre Variation Spreadsheet, go to the tab corresponding to __your country__ and look for the accepted values for each specification you filled in the `MeliEspc` column.
 <br/>_`Ex:` If you filled in `MeliEspc` with "Size" and `VtexValue` with "Small", you will see that Mercado Livre accepted value is "S"._
 
-<div class="alert alert-warning">
-<strong>Note:</strong> Once an ad is first created, <strong>it's no longer possible to change its variations</strong>. If you want to make adjustments such as changing the color, for example, it will be necessary to finish the ad in Mercado Livre and then redo the spreadsheet mapping.</div>
+>⚠️ **Note:** Once an ad is first created, **it's no longer possible to change its variations**. If you want to make adjustments such as changing the color, for example, it will be necessary to finish the ad in Mercado Livre and then redo the spreadsheet mapping.
 
-<div class="alert alert-warning">
-<strong>Note 2:</strong> Mercado Livre <strong>does not allow you to use different prices</strong> for each variation of an ad. For example, a shirt can not cost R$ 40 for size "S" and R$ 50 for size "M".</div>
+>⚠️ **Note 2:** Mercado Livre **does not allow you to use different prices** for each variation of an ad. For example, a shirt can not cost R$ 40 for size "S" and R$ 50 for size "M".
 
-<div class="alert alert-warning">
-<strong>Note 3:</strong> If the SKU does not have a certain specification (such as color, for example), you will need to register it in VTEX before completing the integration process. We recommend adding the missing attribute as a <strong>product </strong> specification. Therefore, this information will not be displayed on the website.</div>
+>⚠️ **Note 3:** If the SKU does not have a certain specification (such as color, for example), you will need to register it in VTEX before completing the integration process. We recommend adding the missing attribute as a **product ** specification. Therefore, this information will not be displayed on the website.
 
 ## Attributes
 
@@ -211,8 +208,6 @@ After filling out the spreadsheet, access __Integrations__ from the Admin menu:
 
 After the upload is completed, the integration automatically sends all products from the categories used in the spreadsheet to Mercado Livre.
 
-<div class="alert alert-warning">
-<strong>Note:</strong> products will only be sent to Mercado Livre if integration authentication has already been performed. If you have not already done so, go to the next step of the tutorial.
-</div>
+>⚠️ **Note:** products will only be sent to Mercado Livre if integration authentication has already been performed. If you have not already done so, go to the next step of the tutorial.
 
 You have completed the fifth step of the integration. Now we are moving to the last step, where we will authorize Mercado Livre integration in VTEX panel.

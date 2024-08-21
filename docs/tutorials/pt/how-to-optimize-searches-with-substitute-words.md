@@ -31,9 +31,7 @@ Se o sistema de busca não identifica Landing Page, Marca ou Departamento de aco
 
 Apesar de ter um peso baixo para a pontuação do indexador, a utilização de palavras substitutas é um recurso extremamente importante, já que torna possível alcançar usuários que realizam buscas por termos com erros gramaticais (spagetti), redação fonética (espagueti) ou palavras mal escritas por erros de digitação (spaguetto), mas com a mesma semântica da palavra original (spaguetti).
 
-<div class="alert alert-info">
-Um recurso muito utilizado para agilizar as buscas da equipe interna é colocar o RefId/EAN como Palavra Substituta no produto. Assim, é possível fazer buscas mais rápidas, com resultados únicos e encontrar agilmente o produto buscado.
-</div>
+>ℹ️ Um recurso muito utilizado para agilizar as buscas da equipe interna é colocar o RefId/EAN como Palavra Substituta no produto. Assim, é possível fazer buscas mais rápidas, com resultados únicos e encontrar agilmente o produto buscado.
 
 ## Como carrego uma palavra substituta
 

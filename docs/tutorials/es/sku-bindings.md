@@ -97,9 +97,7 @@ Para remover el vínculo entre el SKU del _seller_ y el SKU del _marketplace_, s
 2. En la línea del ítem deseado, haz clic en el ícono menú <i class="fas fa-ellipsis-v"></i>.
 3. Haz clic en <i class="far fa-trash-alt"></i> `Remover`.
 
-<div class="alert alert-warning">
-Remover un vínculo hace que el SKU del <i>seller</i> deje de formar parte del catálogo del <i>marketplace</i>; por lo tanto, desaparece de la lista de la página <b>Vínculos de SKU</b>. No se puede recuperar un vínculo que se removió, pero el <i>seller</i> puede reenviarle el SKU al <i>marketplace</i>, el cual <a href="https://help.vtex.com/es/tutorial/sugerindo-e-aprovando-skus--tutorials_396">cataloga</a> el SKU nuevamente y hace que esté disponible otra vez.
-</div>
+>⚠️ Remover un vínculo hace que el SKU del <i>seller</i> deje de formar parte del catálogo del <i>marketplace</i>; por lo tanto, desaparece de la lista de la página **Vínculos de SKU**. No se puede recuperar un vínculo que se removió, pero el <i>seller</i> puede reenviarle el SKU al <i>marketplace</i>, el cual [cataloga](https://help.vtex.com/es/tutorial/sugerindo-e-aprovando-skus--tutorials_396) el SKU nuevamente y hace que esté disponible otra vez.
 
 ## Exportar
 

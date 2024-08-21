@@ -29,6 +29,4 @@ When the ERP queries and enters this order in your base, it has to inform VTEX t
 
 > You must have a [OMS - Full access role](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access "Perfis de acesso - OMS Full access") in order to perform this action.
 
-<div class="alert alert-warning">
-<p>If the order is moved manually from the <b>Start handling</b> status, it will not be possible to move the order down to the ERP afterwards.</p>
-</div>
+>⚠️ If the order is moved manually from the **Start handling** status, it will not be possible to move the order down to the ERP afterwards.

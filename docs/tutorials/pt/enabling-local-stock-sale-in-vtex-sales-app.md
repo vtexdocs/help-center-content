@@ -25,9 +25,7 @@ A Venda de estoque local permite o vendedor de uma loja física realizar vendas 
 6. [Conectar conta franquia a loja física](#conectar-conta-franquia-a-loja-fisica)
 7. [Integração de ponto de venda](#integracao-de-ponto-de-venda)
 
-<div class="alert alert-info">
-<p>A Venda de estoque local só pode ser configurada em lojas que já utilizam o VTEX Sales App. Saiba como contratar e configurar na nossa track <a href="https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc">VTEX Sales App - Primeiros passos e configurações</a>.</p> 
-</div>
+>ℹ️ A Venda de estoque local só pode ser configurada em lojas que já utilizam o VTEX Sales App. Saiba como contratar e configurar na nossa track [VTEX Sales App - Primeiros passos e configurações](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc).
 
 ## Criar uma conta franquia
 
@@ -64,9 +62,7 @@ Caso todos os seus produtos estejam listados sem quantidade, será necessário a
 
 Você pode [habilitar venda de item sem estoque](#habilitar-venda-de-item-sem-estoque-opcional), caso você queira garantir que o item em mãos estará sempre disponível para o cliente em loja. 
 
-<div class="alert alert-info">
-Caso você tenha criado dois estoques diferentes - um para o ecommerce e outro para o VTEX Sales App -, fique atento para gerenciar corretamente a quantidade de peças para cada um dos estoques.
-</div>
+>ℹ️ Caso você tenha criado dois estoques diferentes - um para o ecommerce e outro para o VTEX Sales App -, fique atento para gerenciar corretamente a quantidade de peças para cada um dos estoques.
 
 ## Conectar conta franquia a loja física
 
@@ -79,9 +75,7 @@ Para isso, escolha um vendedor cadastrado na loja em que deseja testar a Venda e
 2. Busque por um item que existe no estoque da conta franquia cadastrado. Este item deverá estar exibindo a quantidade disponível correspondente ao inventário do seller.
 ![instore-pdp-pt](https://images.ctfassets.net/alneenqid6w5/7CtYO9vUzaunI2qO8onP7B/861791e5b4f8f2304ae1a5a7ae577ad8/image.png)
 
-<div class="alert alert-info">
-<p>Caso você tenha habilitado estoque infinito, o número exibido será uma quantidade acima de 1 milhão de itens e não será alterado ao realizar uma venda.</p> 
-</div>
+>ℹ️ Caso você tenha habilitado estoque infinito, o número exibido será uma quantidade acima de 1 milhão de itens e não será alterado ao realizar uma venda.
 
 ### Habilitar venda de item sem estoque (opcional)
 

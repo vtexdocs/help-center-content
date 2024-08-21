@@ -20,9 +20,7 @@ Este estágio dá inicio ao go-live já que estes passos precisam ser cuidadosam
 
 Você deve [cadastrar o domínio no Gerenciamento da conta](https://help.vtex.com/pt/tutorial/configurando-dominios-no-license-manager). É isso que conecta o endereço à loja.
 
-<div class="alert alert-warning">
-Após o cadastro do seu domínio, você tem sete dias para concluir o go-live. Caso contrário, deverá acessar o cadastro realizado e salvar novamente.
-</div>
+>⚠️ Após o cadastro do seu domínio, você tem sete dias para concluir o go-live. Caso contrário, deverá acessar o cadastro realizado e salvar novamente.
 
 ## Solicitar apontamento IO
 

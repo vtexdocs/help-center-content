@@ -34,9 +34,7 @@ O fator de cubagem é o coeficiente resultante da relação entre peso e volume 
 
 O cálculo do peso cubado é realizado efetuando a multiplicação do Comprimento pela Largura e pela Altura e, em seguida, a divisão pelo Fator de cubagem fornecido pela transportadora.
 
-<div class="alert alert-warning">
-Ao realizar o cálculo do peso cúbico, a plataforma VTEX não utiliza unidades de medida e os números gerados são absolutos. Ou seja, os números e medidas que você levar em consideração serão aqueles do resultado final. Vale ressaltar que a unidade de medida do seu cálculo deve ser igual àquela utilizada pela transportadora em questão.
-</div>
+>⚠️ Ao realizar o cálculo do peso cúbico, a plataforma VTEX não utiliza unidades de medida e os números gerados são absolutos. Ou seja, os números e medidas que você levar em consideração serão aqueles do resultado final. Vale ressaltar que a unidade de medida do seu cálculo deve ser igual àquela utilizada pela transportadora em questão.
 
 Observe o exemplo a seguir:
 

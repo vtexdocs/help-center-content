@@ -18,9 +18,7 @@ internalReference: 659909
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Basicamente, existe uma função que recebe o estado atualizado do valor sendo controlado na tela pelo usuário (é um estado de uso). Esta função é usada em todo o componente para lidar com atualizações de estado de quantidade. Para que este estado seja atualizado automaticamente quando o usuário excede a quantidade retornada no contexto, relacionado à disponibilidade do item, ele é passado dentro de um useEffect.

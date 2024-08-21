@@ -134,9 +134,7 @@ O pedido do cliente deve atender às condições cadastradas nesta seção para 
 Por padrão, você pode cadastrar até 20 meios de pagamento por promoção. Além disso, existe a possibilidade de customização para incluir até 100 meios de pagamento. Caso precise utilizar mais de 20, entre em contato com o [nosso Suporte.](https://vtexhelp.zendesk.com/auth/v2/login/signin?return_to=https%3A%2F%2Fsupport.vtex.com%2Fhc%2Fpt-br%2Frequests&theme=hc&locale=pt-br&brand_id=144968&auth_origin=144968%2Ctrue%2Ctrue)
 </div>
 - **Número de parcelas:** o desconto será concedido caso o número de parcelas selecionadas pelo cliente estiver no intervalo cadastrado. Esse campo não se aplica para a seleção de boleto.
- <div class="alert alert-warning">
-Promoções por forma de pagamento e número de parcelas não atendem a pedidos pagos com dois cartões ou vale-compras.
-</div>
+ >⚠️ Promoções por forma de pagamento e número de parcelas não atendem a pedidos pagos com dois cartões ou vale-compras.
 - **utm_source:** o desconto será concedido caso a navegação seja realizada com as **utm_source** correspondente a qualquer um dos valores cadastrados. É importante destacar que o cliente pode inserir apenas um **utm_source** no checkout.
 - **utm_campaign:** o desconto será concedido caso a navegação seja realizada com a utm_campaign com o valor cadastrado.
 - **Criar cupom a partir das UTMs acima:** cria um cupom a partir das UTMs cadastradas para dar ao cliente acesso à essa promoção sem a necessidade das utms, apenas com o código do cupom.

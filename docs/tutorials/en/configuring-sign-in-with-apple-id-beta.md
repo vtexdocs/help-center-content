@@ -15,9 +15,7 @@ legacySlug: configuring-sign-in-with-apple-id-beta
 subcategory: 5uXA9a0laSLMkfbv6jQRDS
 ---
 
-<div class="alert alert-info">
-  <p>This feature is in closed beta, which means that only specific customers can access it now. If you want to implement it in the future, please contact <a href="https://support.vtex.com/hc/en-us/">our support</a>.</p>
-</div>
+>ℹ️ This feature is in closed beta, which means that only specific customers can access it now. If you want to implement it in the future, please contact [our support](https://support.vtex.com/hc/en-us/).
 
 On VTEX, customers don't need to create an account or log in to make a purchase. However, if they want to change the information provided during their first purchase, they must prove the email belongs to them.
 
@@ -72,9 +70,7 @@ Once everything is configured, you can test it. We recommend that you test the c
 4. Complete the two-factor authentication if requested.
 5. Choose whether to share your email with the app or [hide it](https://support.apple.com/en-us/HT210425) and click `Continue`. We recommend sharing the email, as there are [limitations](#limitations) with hidden email on VTEX.
 
-<div class="alert alert-info">
-  <p>The option of whether to share your email appears only when you first access the store with your Apple ID. After that, you only need to click <code>Continue</code>. To reset the email sharing option, visit <a href="https://appleid.apple.com/us/">Apple ID management</a>, revoke your store authorization, and log in again.</p>
-</div>
+>ℹ️ The option of whether to share your email appears only when you first access the store with your Apple ID. After that, you only need to click `Continue`. To reset the email sharing option, visit [Apple ID management](https://appleid.apple.com/us/), revoke your store authorization, and log in again.
 
 By doing so, you will be logged in to the store.
 

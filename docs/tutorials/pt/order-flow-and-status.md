@@ -34,9 +34,7 @@ Há quatro fluxos de pedidos possíveis na VTEX:
 - [Fluxo completo](https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196#fluxo-completo): é o fluxo de um pedido feito na loja responsável pela venda e entrega do pedido. Nesse caso, a loja atua simultaneamente como seller e marketplace. 
 - [Fluxo chain](https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196#fluxo-chain): é o fluxo do pedido visto pela loja que intermedia a venda entre marketplace e seller. Esse fluxo é similar ao fluxo de marketplace, no entanto, o processo de pagamento é feito somente no marketplace, e não na loja que atua como chain. Esse fluxo ocorre nos cenários de venda de [Multilevel Omnichannel Inventory](https://help.vtex.com/pt/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4).
 
-<div class="alert alert-warning">
-Para os casos de pedidos incompletos, confira o artigo <a href="https://help.vtex.com/pt/tutorial/entendendo-os-pedidos-incompletos--tutorials_294">Como funcionam os pedidos incompletos</a> para entender os motivos desse fluxo e de seu cancelamento.
-</div>
+>⚠️ Para os casos de pedidos incompletos, confira o artigo [Como funcionam os pedidos incompletos](https://help.vtex.com/pt/tutorial/entendendo-os-pedidos-incompletos--tutorials_294) para entender os motivos desse fluxo e de seu cancelamento.
 
 ### Fluxo do marketplace
 
@@ -64,9 +62,7 @@ Esse é o fluxo do pedido visto pela loja responsável pelo envio dos produtos q
 1. Quando o pedido é recebido pelo seller, seu status inicial é `Pedido aceito`.
 2. Logo após o pedido ser recebido pelo seller, o status do pedido passa automaticamente para `Aguardando autorização para despachar`. Esse é um status de espera, para que o marketplace sinalize que obteve a confirmação do pagamento do pedido.
 
-  <div class="alert alert-danger">
-  A plataforma permite o avanço manual do status <i>Aguardando autorização para despachar</i> clicando em <code>Autorizar despacho</code>. Porém, quando o seller avança manualmente, não significa que o marketplace liberou o pedido para manuseio, e isso implica em um desencontro de informações. Utilize a movimentação manual com cautela. Recomendamos utilizá-la somente mediante autorização do marketplace para o despacho do pedido.
-</div>
+  >❗ A plataforma permite o avanço manual do status <i>Aguardando autorização para despachar</i> clicando em `Autorizar despacho`. Porém, quando o seller avança manualmente, não significa que o marketplace liberou o pedido para manuseio, e isso implica em um desencontro de informações. Utilize a movimentação manual com cautela. Recomendamos utilizá-la somente mediante autorização do marketplace para o despacho do pedido.
 
 3. O status passa automaticamente para `Janela para cancelamento`. O pedido ficará nesse estágio até o limite da [janela para cancelamento](https://help.vtex.com/pt/tutorial/configuracoes-gerais/#pedidos).
 
@@ -78,20 +74,17 @@ A carência do cancelamento existe para que o cliente possa cancelar a compra se
     * **Pedido não cancelado**: se o tempo de carência expira e o cliente não solicita o cancelamento da compra, o status segue para `Pronto para manuseio`. Esse é o status que indica ao seller que o pedido já deve ser preparado para o envio.
     * **Pedido cancelado**: caso o cliente tenha solicitado o cancelamento, ao invés de seguir para o manuseio, o pedido segue para cancelamento, e o status passará para `Iniciando cancelamento`. 
 5. O pedido permanecerá no status `Pronto para manuseio` até que haja uma confirmação do seller de que ele iniciou o manuseio do pedido. A confirmação pode ser feita manualmente pelo Admi ou via integração com ERP utilizando a API [Start handling order](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/start-handling).
-<div class="alert alert-danger">
-Ao confirmar o início do manuseio, o seller assume a responsabilidade da reserva dos itens do pedido. A partir desse momento, se houver qualquer atualização no inventário, a plataforma VTEX desconsidera a reserva destes SKUs. Portanto, atualize o inventário para SKUs de um dado pedido apenas quando este for faturado. Dessa forma, evita-se a divergência de inventário dependendo da interação com a <a href="https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide">integração de backoffice</a> da sua loja.
-</div>
+>❗ Ao confirmar o início do manuseio, o seller assume a responsabilidade da reserva dos itens do pedido. A partir desse momento, se houver qualquer atualização no inventário, a plataforma VTEX desconsidera a reserva destes SKUs. Portanto, atualize o inventário para SKUs de um dado pedido apenas quando este for faturado. Dessa forma, evita-se a divergência de inventário dependendo da interação com a [integração de backoffice](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) da sua loja.
 
 6. Uma vez que o manuseio foi iniciado, é hora de faturar o pedido. A plataforma espera que a nota fiscal seja incluída. Caso haja algum erro, o status do pedido poderá permanecer em `Verificando nota fiscal`. Confira os [casos mais comuns](https://help.vtex.com/pt/tutorial/por-que-o-pedido-esta-no-status-verificando-fatura--5VJjxRjeH6SimiG0Wkk2gm) para que o pedido permaneça nesse status. Vale lembrar que se o pedido estiver parcialmente faturado, ele poderá voltar para o status `Pagamento aprovado` até que o lojista [inclua as notas fiscais](https://help.vtex.com/pt/tutorial/como-faturar-um-pedido-manualmente-beta--7p1h852V5t54KyscpgxE2v), que somadas devem corresponder ao valor total do pedido.
 7. O último status do fluxo é o `Faturado`, após o qual o seller deve concluir o envio do pedido.
 
-<div class="alert alert-danger">
-Note que:
-<ul>
-<li>O <b>cancelamento do pedido</b> pode ser iniciado em vários estágios do fluxo do pedido, seja por parte do cliente ou da loja. Nesse caso, após solicitado, o cancelamento o processo se dá de forma automática, incluindo o ressarcimento do valor pago ao cliente. O processo de cancelamento é finalizado quando chega ao estágio <i>Cancelado</i>.</li>
-<li>Sellers têm autonomia para forçar manualmente a movimentação de pedido durante o status <i>Aguardando autorização para despachar</i>. Isso implica em realizar a entrega sem que o marketplace tenha confirmado a liberação e sem o recebimento do pagamento do pedido. Em caso de movimentação manual, é dever do seller conferir se o pedido está apto a ser manuseado, inclusive se o pagamento foi confirmado.</li>
-</ul>
-</div>
+>❗ Note que:
+>
+> *O **cancelamento do pedido** pode ser iniciado em vários estágios do fluxo do pedido, seja por parte do cliente ou da loja. Nesse caso, após solicitado, o cancelamento o processo se dá de forma automática, incluindo o ressarcimento do valor pago ao cliente. O processo de cancelamento é finalizado quando chega ao estágio <i>Cancelado</i>.
+>
+> *Sellers têm autonomia para forçar manualmente a movimentação de pedido durante o status <i>Aguardando autorização para despachar</i>. Isso implica em realizar a entrega sem que o marketplace tenha confirmado a liberação e sem o recebimento do pagamento do pedido. Em caso de movimentação manual, é dever do seller conferir se o pedido está apto a ser manuseado, inclusive se o pagamento foi confirmado.
+> 
 
 ### Fluxo completo
 
@@ -105,8 +98,7 @@ O fluxo completo do pedido é visto pela loja que realiza a venda e entrega do p
     * **O pagamento do pedido é aprovado:** o status do pedido passa para `Pagamento aprovado` e começa o status `Janela para cancelamento`. Esse status delimita o tempo que o cliente tem para cancelar a compra sem a aprovação da loja. O pedido permanece nesse status até o [limite de tempo que foi configurado](https://help.vtex.com/pt/tutorial/configuracoes-gerais/#pedidos).
     * **O pagamento do pedido não é aprovado:** a plataforma inicia o processo de cancelamento. Isso acontece automaticamente com o status do pedido passando por `Pagamento negado` e `Cancelando`. O pedido permanece nesse status até que a plataforma finalize o cancelamento, e o status mude para `Cancelado`. Depois de o pedido ser cancelado, o fluxo é finalizado.
 4. Com o pagamento aprovado e o tempo de cancelamento expirado, o status do pedido passa para `Pronto para manuseio`. Esse status sinaliza para o lojista que o pagamento foi confirmado e que agora deve ser feito o manuseio do pedido. A loja deve confirmar para a plataforma que iniciou o manuseio para o pedido progredir no fluxo. A confirmação pode ser feita manualmente pelo Admin ou via [API](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) com um ERP, por exemplo, utilizando a rota [Start handling order](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/start-handling).
-<div class="alert alert-danger">
-Ao confirmar o início do manuseio, o seller assume a responsabilidade da reserva dos itens do pedido. A partir desse momento, se houver qualquer atualização no inventário, a plataforma VTEX desconsidera a reserva destes SKUs. Portanto, atualize o inventário para SKUs de um dado pedido apenas quando este for faturado. Dessa forma, evita-se divergência de inventário dependendo da interação com a <a href="https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide">integração de backoffice</a> da sua loja.</div>
+>❗ Ao confirmar o início do manuseio, o seller assume a responsabilidade da reserva dos itens do pedido. A partir desse momento, se houver qualquer atualização no inventário, a plataforma VTEX desconsidera a reserva destes SKUs. Portanto, atualize o inventário para SKUs de um dado pedido apenas quando este for faturado. Dessa forma, evita-se divergência de inventário dependendo da interação com a [integração de backoffice](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) da sua loja.
 
 5. Com o manuseio iniciado, o status do pedido passa para `Preparando entrega` e a próxima etapa é faturar o pedido. O sistema espera a nota fiscal com o status  `Verificando nota fiscal`. É preciso [incluir a Nota Fiscal](https://help.vtex.com/pt/tutorial/como-faturar-um-pedido-manualmente-beta--7p1h852V5t54KyscpgxE2v) que corresponda ao valor total do pedido. 
 6. Com as notas fiscais incluídas, o status do pedido passa para o último status do fluxo: `Faturado`. A loja deve então concluir o envio do pedido.
@@ -131,9 +123,7 @@ Saiba mais sobre cancelamento e reembolso nos artigos <a href="https://help.vtex
 
 Enquanto o cancelamento está sendo processado, o status do pedido permanece em `Cancelando`. Depois que o cancelamento é concluído, o status do pedido passa para `Cancelado`. 
 
-<div class="alert alert-danger">
-Observe que quando o cancelamento ocorre antes da loja iniciar o manuseio do pedido (status <i>Preparando manuseio</i>), os itens têm a <a href="https://help.vtex.com/pt/tutorial/how-does-reservation-work--tutorials_92">reserva cancelada</a> no inventário.  No entanto, se o cancelamento é feito após esse status, os itens já terão a <a href="https://help.vtex.com/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-reconhecida">reserva reconhecida</a> no inventário e a loja deve atualizar a quantidade de itens do inventário para que os SKUs de um pedido cancelado tenham também a sua reserva cancelada. 
-</div>
+>❗ Observe que quando o cancelamento ocorre antes da loja iniciar o manuseio do pedido (status <i>Preparando manuseio</i>), os itens têm a [reserva cancelada](https://help.vtex.com/pt/tutorial/how-does-reservation-work--tutorials_92) no inventário.  No entanto, se o cancelamento é feito após esse status, os itens já terão a [reserva reconhecida](https://help.vtex.com/pt/tutorial/como-a-reserva-funciona--tutorials_92#reserva-reconhecida) no inventário e a loja deve atualizar a quantidade de itens do inventário para que os SKUs de um pedido cancelado tenham também a sua reserva cancelada.
 
 Para saber mais sobre cancelamento de pedidos, confira o artigo [Por que meu pedido foi cancelado](https://help.vtex.com/pt/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493).
 
@@ -160,9 +150,7 @@ Veja abaixo a tabela com os status de pedido. As informações da tabela estão 
 - **Visto por:** em qual fluxo o status fica visível (marketplace, seller, chain e completo).
 - **Significado:** significado detalhado do status.  
 
-<div class="alert alert-warning">
-Observe que os status do fluxo completo do pedido (fluxo visto pelas lojas responsáveis pela venda e entrega dos pedidos) coincidem com os status de marketplace e seller. Alguns status podem ser vistos via API, mas não ficam visíveis no fluxo do pedido visto no Admin no módulo <b>Todos os pedidos</b>.
-</div>
+>⚠️ Observe que os status do fluxo completo do pedido (fluxo visto pelas lojas responsáveis pela venda e entrega dos pedidos) coincidem com os status de marketplace e seller. Alguns status podem ser vistos via API, mas não ficam visíveis no fluxo do pedido visto no Admin no módulo **Todos os pedidos**.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}

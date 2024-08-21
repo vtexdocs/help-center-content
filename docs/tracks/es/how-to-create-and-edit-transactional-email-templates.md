@@ -33,9 +33,7 @@ El __preview__ renderizado por este código se muestra en el box justo debajo. P
 
 El campo __JSON Data__ muestra un *ejemplo* de objeto JSON que contiene información sobre el asunto del correo electrónico. Las llaves de este objeto se pueden utilizar como variables en el código HTML del template. Aprenderemos cómo hacer esto en el próximo artículo.
 
-<div class="alert alert-warning">
-Atención: para personalizar el layout del correo electrónico, debe ingresar el <strong>código CSS inline</strong>. <u>No</u> ingrese el CSS en el head del template, ya que los correos electrónicos no lidian bien con eso.
-</div>
+>⚠️ Atención: para personalizar el layout del correo electrónico, debe ingresar el **código CSS inline**. <u>No</u> ingrese el CSS en el head del template, ya que los correos electrónicos no lidian bien con eso.
 
 Al final, haga clic en el botón __Guardar__.
 

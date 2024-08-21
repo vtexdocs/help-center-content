@@ -18,9 +18,7 @@ internalReference: 889993
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 la búsqueda global no encuentra información sobre "usuarios"

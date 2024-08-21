@@ -18,9 +18,7 @@ internalReference: 434752
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao utilizar a Busca Explicada no administrador para depurar e pesquisar um produto com acento no nome como por exemplo "Pão Francês", temos um sinônimo funcionando como esperado, mas esta informação não é refletida na tela para a equipe depurar e verificar se está funcionando.

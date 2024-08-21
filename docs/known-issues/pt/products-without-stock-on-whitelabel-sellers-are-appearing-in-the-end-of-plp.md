@@ -18,9 +18,7 @@ internalReference: 495741
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Os produtos que não têm estoque nos vendedores da WL estão aparecendo no final do PLP.

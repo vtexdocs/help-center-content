@@ -15,10 +15,8 @@ legacySlug: credit-control-overview
 subcategory: 7EWKfPIGfmI0G8iMYK8Aiy
 ---
 
-<div class="alert alert-warning">
-<strong>WARNING:</strong> Credit Control is unavailable as of <strong> December 2018</strong>. Now, to offer credit as a payment method right on your store's checkout, you need to use <a href="https://help.vtex.com/en/tutorial/customer-credit-overview">Customer Credit</a>.</br>
-Learn more about the Customer Credit's setup process on this <a href="http://help.vtex.com/en/tracks/customer-credit-getting-started">article</a>. 
-</div>
+>⚠️ **WARNING:** Credit Control is unavailable as of ** December 2018**. Now, to offer credit as a payment method right on your store's checkout, you need to use [Customer Credit](https://help.vtex.com/en/tutorial/customer-credit-overview).</br>
+> Learn more about the Customer Credit's setup process on this [article](http://help.vtex.com/en/tracks/customer-credit-getting-started).
 
 
 ## What it is

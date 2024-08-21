@@ -15,9 +15,7 @@ legacySlug: planner-actions-on-releases-beta
 subcategory: 3vXj7HrnYK8V5riTOwUuYv
 ---
 
-<div class="alert alert-info">
-  <p>The <strong>Releases</strong> is in beta version, which means we are working to improve it. This feature is only available for stores using <a href="https://www.faststore.dev/">FastStore</a>.</p>
-</div>
+>ℹ️ The **Releases** is in beta version, which means we are working to improve it. This feature is only available for stores using [FastStore](https://www.faststore.dev/).
 
 The **Releases** module allows you to manage [releases](https://help.vtex.com/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ) so that you can coordinate the creation, schedule and publication of the changes in your store. A release is a change or a group of changes that can be published together.
 
@@ -36,9 +34,7 @@ Each page displays a view of the releases and allows you to perform different ac
 * [Publish a release](#publish-a-release)
 * [Delete a release](#delete-a-release)
 
-<div class="alert alert-warning">
-  <p>In the beta version, releases must be <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">CMS</a>-related, because other VTEX platform modules are not yet included. To use the <strong>Releases</strong>, you must configure the CMS as described in <a href="https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS">Installing Releases on VTEX Headless CMS</a>.</p>
-</div>
+>⚠️ In the beta version, releases must be [CMS](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2)-related, because other VTEX platform modules are not yet included. To use the **Releases**, you must configure the CMS as described in [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 ## Create a release
 
@@ -113,9 +109,7 @@ In order to publish a release and make the changes available in the storefront o
 
 A release can be deleted in every [release status](https://help.vtex.com/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ#status-of-releases), i.e., it can be deleted permanently.
 
-<div class="alert alert-info">
-  <p>If instead of deleting a release you want to archive it, you should unpublish it so that it is not deleted and you can republish it at any time.</p>
-</div>
+>ℹ️ If instead of deleting a release you want to archive it, you should unpublish it so that it is not deleted and you can republish it at any time.
 
 When you delete a release in the `Published` status, its changes remain in the storefront of the store, the only thing that no longer exists is the release with the changes.
 

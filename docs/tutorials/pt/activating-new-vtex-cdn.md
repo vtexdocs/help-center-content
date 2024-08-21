@@ -15,9 +15,7 @@ legacySlug: ativar-nova-cdn-da-vtex
 subcategory: 2Za4fjGfxYOo6oqykukgyy
 ---
 
-<div class="alert alert-warning">
-Em um compromisso de constante evolução do nosso produto, a VTEX está disponibilizando às suas lojas uma nova CDN (Content Delivery Network). Neste novo modelo, <strong>todas as páginas do site serão entregues a partir dessa nova CDN especializada</strong>, não se limitando aos arquivos estáticos.
-</div>
+>⚠️ Em um compromisso de constante evolução do nosso produto, a VTEX está disponibilizando às suas lojas uma nova CDN (Content Delivery Network). Neste novo modelo, **todas as páginas do site serão entregues a partir dessa nova CDN especializada**, não se limitando aos arquivos estáticos.
 
 Uma Rede de Entrega de Conteúdo (tradução livre de seu acrônimo) foca em segurança, baixa latência e altas velocidades de transferência, trabalhando com as melhores tecnologias para este fim, inclusive sendo geograficamente próxima do cliente que acessa a loja virtual.
 
@@ -36,9 +34,7 @@ Cumpridos os requisitos deste artigo, deve ser feito o preenchimento [deste form
 
 ### Ativar HTTPS em todo o site
 
-<div class="alert alert-info">
-Um dos requisitos para a nova CDN é que o site seja disponibilizado totalmente em HTTPS.
-</div>
+>ℹ️ Um dos requisitos para a nova CDN é que o site seja disponibilizado totalmente em HTTPS.
 
 Isto porque, com a nova CDN, qualquer página HTTP será automaticamente redirecionada para HTTPS. Mas antes é importante configurar sua loja na VTEX para que ela aceite o tráfego neste protocolo. Em caso contrário, ela será redirecionada novamente para HTTP - criando um loop de redirecionamento, o que quebrará a navegação destas páginas.
 
@@ -94,9 +90,7 @@ Apontamentos antigos usam endereços como:
 
 Independentemente de qual for o caso da sua loja, você deverá fazer a atualização para o novo padrão.
 
-<div class="alert alert-danger">
-<strong>Importante:</strong> o CNAME antigo <strong>deve ser removido</strong>. A existência de duas entradas em seu DNS provavelmente vão ocasionar em problemas. Deve ser mantida somente a nova entrada CNAME.
-</div>
+>❗ **Importante:** o CNAME antigo **deve ser removido**. A existência de duas entradas em seu DNS provavelmente vão ocasionar em problemas. Deve ser mantida somente a nova entrada CNAME.
 
 Não se esqueça de solicitar a ativação final pelo [formulário](https://docs.google.com/forms/d/e/1FAIpQLSdI2FBXGmlSOXEtWxrYfVveln7xOJcmYotqrKfgFgmHn771Fg/viewform). A loja vai funcionar somente com o CNAME e HTTPS, mas o seu preenchimento nos ajuda a ativar de forma antecipada a CDN para sua loja, para que sua loja possa desfrutar dos novos recursos.
 

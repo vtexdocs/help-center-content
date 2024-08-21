@@ -18,9 +18,7 @@ internalReference: 324416
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Função `getCurrentProductWithVariations` da VTEX.js traz dados do Componente SKU em vez do KIT SKU.

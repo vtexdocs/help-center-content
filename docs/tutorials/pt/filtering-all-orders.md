@@ -65,9 +65,7 @@ Para buscar em todos os pedidos, digite o termo desejado na caixa de busca. Isso
 
 ![search_bar_without_time_limit_PT](https://images.ctfassets.net/alneenqid6w5/2ii9VFh5uRpG4Ad0nwIIN0/c87949487d1e9ad947ea437c3f368431/search_bar_without_time_limit_PT.png)
 
-<div class="alert alert-danger">
-A busca em todos os pedidos não pode ser associada a outros filtros. Ou seja, ao remover o limite de datas da busca, qualquer filtro ativo se torna inativo. Se o termo da busca é removido ou o switch <i class="fas fa-toggle-off"></i> de busca em todos os pedidos é desativado, os filtros anteriormente configurados se tornam ativos novamente.
-</div>
+>❗ A busca em todos os pedidos não pode ser associada a outros filtros. Ou seja, ao remover o limite de datas da busca, qualquer filtro ativo se torna inativo. Se o termo da busca é removido ou o switch <i class="fas fa-toggle-off"></i> de busca em todos os pedidos é desativado, os filtros anteriormente configurados se tornam ativos novamente.
 
 ### Buscar associando filtros
 

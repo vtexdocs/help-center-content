@@ -18,9 +18,7 @@ internalReference: 1053614
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 As condições para banners de pesquisa (gerenciados por meio de "/admin/search/v4/banners/") não são compatíveis com o operador "AND", conforme apresentado em suas regras de acionamento. A interface do usuário está errada, e o operador se comporta como "OR" de forma fixa.

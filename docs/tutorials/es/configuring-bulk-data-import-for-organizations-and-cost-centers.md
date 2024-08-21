@@ -17,9 +17,7 @@ subcategory: 6bSdupUQgvuXjBL9Igawxl
 
 La importación de datos en masa simplifica el proceso de actualización y mantenimiento de información para organizaciones compradoras y sus usuarios (miembros) y centros de costo.
 
-<div class="alert alert-warning">
-Antes de configurar la funcionalidad de importación en masa, necesitas tener la aplicación <a href="https://developers.vtex.com/docs/apps/vtex.b2b-suite">B2B Suite</a> instalada en tu tienda.
-</div>
+>⚠️ Antes de configurar la funcionalidad de importación en masa, necesitas tener la aplicación [B2B Suite](https://developers.vtex.com/docs/apps/vtex.b2b-suite) instalada en tu tienda.
 
 Para importar los datos en masa a la plataforma VTEX, sigue los pasos a continuación:
 

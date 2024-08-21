@@ -15,9 +15,7 @@ legacySlug: como-criar-um-anexo-de-assinatura
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
 
- <div class="alert alert-info">
-  <p>Caso você utilize o módulo de <strong>Assinaturas Beta</strong>, o caminho mais recomendado para criar um plano de assinatura é diretamente no módulo de <strong>Assinaturas</strong>. Leia o artigo <a href="https://help.vtex.com/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC">Como criar um plano de assinatura (Beta)</a> para mais informações.</p>
-</div>
+ >ℹ️ Caso você utilize o módulo de **Assinaturas Beta**, o caminho mais recomendado para criar um plano de assinatura é diretamente no módulo de **Assinaturas**. Leia o artigo [Como criar um plano de assinatura (Beta)](https://help.vtex.com/pt/tutorial/como-criar-um-plano-de-assinatura-beta--1qGRoFczm98Wgt81f9mUqC) para mais informações.
 
 O **Anexo de SKU** é responsável por indicar que a funcionalidade de Assinatura está ativa para esse SKU, e também quais são as frequências disponíveis.
 
@@ -41,9 +39,7 @@ Para criar um anexo de SKU, siga os passos descritos abaixo.
      * `vtex.subscription.teste`
 5. Deixe a caixa de seleção **Anexo obrigatório** desmarcada.
 
- <div class="alert alert-warning">
-  <p>O campo <strong>Anexo obrigatório</strong> não pode ser marcado. Se o anexo for marcado como obrigatório, o sistema de <strong>Assinaturas</strong> tenta enviar um pedido com assinatura para um item que já possui um anexo obrigatório, gerando um erro no sistema. Caso isso ocorra por engano, desmarque a obrigatoriedade do anexo e, em seguida, solicite ao cliente da sua loja uma nova tentativa de realizar o pedido.</p>
-</div>
+ >⚠️ O campo **Anexo obrigatório** não pode ser marcado. Se o anexo for marcado como obrigatório, o sistema de **Assinaturas** tenta enviar um pedido com assinatura para um item que já possui um anexo obrigatório, gerando um erro no sistema. Caso isso ocorra por engano, desmarque a obrigatoriedade do anexo e, em seguida, solicite ao cliente da sua loja uma nova tentativa de realizar o pedido.
 
 6. Em **Status**, marque a caixa de seleção **Ativa/Desativa o anexo** e clique em `Salvar`.
 
@@ -77,9 +73,7 @@ Siga o passo a passo abaixo para configurar as frequências e datas de ciclo de 
 
         ![PT Assinatura Exemplo Valores month](https://images.ctfassets.net/alneenqid6w5/3ogGjc6DLexe7YeL3qyiuI/748b3dd8e63870c539b58f3404521031/PT_Assinatura_Exemplo_Valores_month.png)
 
-<div class="alert alert-info">
-  <p>Caso nenhum valor seja inserido no campo <strong>Valores Permitidos</strong>, a data do ciclo de assinatura será o mesmo dia da semana (caso a frequência seja semanal) ou dia do mês (caso a frequência seja mensal) do pedido original.</p>
-</div>
+>ℹ️ Caso nenhum valor seja inserido no campo **Valores Permitidos**, a data do ciclo de assinatura será o mesmo dia da semana (caso a frequência seja semanal) ou dia do mês (caso a frequência seja mensal) do pedido original.
 
 ### Associar o anexo a um SKU
 

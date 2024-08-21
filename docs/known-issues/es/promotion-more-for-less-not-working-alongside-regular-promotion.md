@@ -18,9 +18,7 @@ internalReference: 637586
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El descuento final en el carrito de la compra no es correcto cuando se está aplicando una promoción Más por Menos junto con una promoción normal. El descuento es mayor de lo esperado.

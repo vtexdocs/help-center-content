@@ -17,7 +17,7 @@ subcategory: yMp6sKDiJEi66CGAIQ4ma
 
 A mudança de domínio consiste na mudança do nome do site. Ou seja, se alguma loja VTEX, por exemplo, possui o domínio **_minhaloja.com_** e deseja mudar para **_nossaloja.com_**, deve seguir esse tutorial.
 
-<div class="alert alert-warning"> Indicamos a NÃO exclusão de HOST previamente configurados, enquanto a nova configuração não estiver propagada (Tempo médio de propagação: 15 minutos ).</div>
+>⚠️ Indicamos a NÃO exclusão de HOST previamente configurados, enquanto a nova configuração não estiver propagada (Tempo médio de propagação: 15 minutos ).
 
 A plataforma VTEX é preparada para suportar mudanças de domínios sem impactos negativos. Para isso, basta seguir o passo a passo abaixo:
 

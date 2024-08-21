@@ -18,9 +18,7 @@ internalReference: 862830
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Si la función de programación de entregas está en uso y la capacidad de entrega está habilitada, hay dos escenarios conocidos que pueden hacer que la ventana esté disponible incluso después de haber alcanzado su límite máximo de capacidad configurada.

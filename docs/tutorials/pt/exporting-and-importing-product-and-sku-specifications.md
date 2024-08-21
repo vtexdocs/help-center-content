@@ -51,9 +51,7 @@ Na planilha de importação, a única coluna a ser preenchida é a `ValorEspecif
 
 A estrutura da planilha apresenta uma linha para cada campo do produto ou SKU, ou seja, o mesmo produto ou SKU será apresentado diversas vezes de acordo com os campos existentes em sua categoria.
 
-<div class="alert alert-warning">
-  <p>Na planilha exportada, a coluna referente a "ValorEspecificacao" é "NomeCampoValor (Não alterável)". Ao preencher o campo, a grafia das características deve ser exata. Letras maiúsculas e minúsculas fazem diferença nesse caso.</p>
-  </div>
+>⚠️ Na planilha exportada, a coluna referente a "ValorEspecificacao" é "NomeCampoValor (Não alterável)". Ao preencher o campo, a grafia das características deve ser exata. Letras maiúsculas e minúsculas fazem diferença nesse caso.
 
 Siga os passos abaixo para importar a planilha:
 

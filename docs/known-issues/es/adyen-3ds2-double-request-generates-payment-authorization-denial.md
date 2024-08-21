@@ -18,9 +18,7 @@ internalReference: 884154
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando la solicitud 3DS2 de Adyen se envía dos veces, obtiene un error en la respuesta y el pago se deniega automáticamente.

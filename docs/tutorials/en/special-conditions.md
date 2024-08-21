@@ -136,9 +136,7 @@ Suppose that you want to offer a special payment condition to customers paying b
 
 In this case, you must select the issuing bank which responsible for this card followed by the name of your store in the __Co-brand__ field.
 
-<div class="alert alert-warning">
-Be aware that by default, the info as to whether or not a card has co-brand is <strong>not</strong> added in the VTEX database. Therefore, if you store wants to segment a payment condition according to cards, you need to send a ticket with the co-brand card list to the VTEX support team.
-</div>
+>⚠️ Be aware that by default, the info as to whether or not a card has co-brand is **not** added in the VTEX database. Therefore, if you store wants to segment a payment condition according to cards, you need to send a ticket with the co-brand card list to the VTEX support team.
 
 ## Period
 

@@ -21,9 +21,7 @@ A promoção __Preço máximo por item__ é utilizada para definir um preço má
 
 Por se tratar de uma promoção, os preços cadastrados como máximo não poderão ser maiores do que o preço do produto.
 
-<div class="alert alert-warning">
-<strong>Atenção:</strong> Para que a promoção Preço máximo por item funcione é <strong>obrigatório escolher um meio de pagamento</strong>.
-</div>
+>⚠️ **Atenção:** Para que a promoção Preço máximo por item funcione é **obrigatório escolher um meio de pagamento**.
 
 ## Dados gerais da promoção
 
@@ -42,9 +40,7 @@ Por se tratar de uma promoção, os preços cadastrados como máximo não poder�
 - __Preço:__ Neste campo deve ser definido o preço máximo pelo qual será vendido o produto. Só é possível definir o preço máximo de um item por vez. Para adicionar produtos à promoção, clique no botão __+__.
 - __Meio de  pagamento__: Selecione os meios de pagamento desejados para ativar a promoção.
 
-<div class="alert alert-info">
-É possível fazer a importação de uma lista de SKUs, que deve estar salva em um arquivo .xls, com cada ID em uma linha diferente, seguido pelo preço máximo correspondente. Para ver um modelo, clique no link <strong>download de planilha exemplo</strong>.
-</div>
+>ℹ️ É possível fazer a importação de uma lista de SKUs, que deve estar salva em um arquivo .xls, com cada ID em uma linha diferente, seguido pelo preço máximo correspondente. Para ver um modelo, clique no link **download de planilha exemplo**.
 
 ## Condições para a promoção ser válida
 

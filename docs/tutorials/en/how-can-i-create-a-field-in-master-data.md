@@ -42,7 +42,7 @@ Follow the step-by-step below:
 11. If required, fill out the __Description__ field.
 12. Click on __Save.__
 
-<div class="alert alert-info">More information about <strong>General Settings</strong> and <strong>Search and Filter Configurations</strong> can be found in our article on <a href="https://help.vtex.com/en/tutorial/criando-entidade-de-dados--tutorials_1265#como-configurar">Creating a data entity</a>, subsection <strong>How to set up</strong>.</div>
+>ℹ️ More information about **General Settings** and **Search and Filter Configurations** can be found in our article on [Creating a data entity](https://help.vtex.com/en/tutorial/criando-entidade-de-dados--tutorials_1265#como-configurar), subsection **How to set up**.
 
 ![criar campo master data ds](https://images.ctfassets.net/alneenqid6w5/5cWru1fi0SyEAOoEbgShOI/95cabcfa4a60032d87c3294773ba4fd0/criar_campo_master_data_ds.gif)
 

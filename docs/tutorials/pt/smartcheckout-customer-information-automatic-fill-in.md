@@ -17,9 +17,7 @@ subcategory: 6XAvmMxp7yyY06ewYMuggs
 
 O SmartCheckout permite que os dados do cliente possam ser preenchidos no Checkout de forma automática, sendo necessário apenas informar o seu email cadastrado na loja. Esta função reduz o tempo de compra e elimina a necessidade de inserir dados novamente a cada compra realizada na mesma loja.
 
-<div class="alert alert-info">
-Para que o SmartCheckout reutilize os dados do cliente no Checkout, é necessário que o mesmo já tenha realizado uma compra anteriormente ou criado um perfil cadastrado na loja.
-</div>
+>ℹ️ Para que o SmartCheckout reutilize os dados do cliente no Checkout, é necessário que o mesmo já tenha realizado uma compra anteriormente ou criado um perfil cadastrado na loja.
 
 ## Dados de cadastro do cliente
 

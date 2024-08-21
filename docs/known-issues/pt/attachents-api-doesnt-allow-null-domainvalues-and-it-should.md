@@ -18,9 +18,7 @@ internalReference: 897480
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 As solicitações de atualização para a API /api/catalog/pvt/attachment/ não estão permitindo atualizações para o campo Valor do domínio como um valor nulo.

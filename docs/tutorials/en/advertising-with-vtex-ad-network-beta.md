@@ -52,9 +52,7 @@ VTEX currently offers a single ad format: search results. Learn more about this 
 7. In the *Budget, bid, and schedule* section, click the edit button <i class="fas fa-pencil-alt"></i>.
 8. Set the bid amount for each product. You can set each value individually.
 
-  <div class="alert alert-info">
-The bid for a product is the cost per click (CPC), i.e., the amount spent when a user clicks an ad. Learn more about <a href="https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#campaigns">campaigns</a> and how an <a href="https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#ad-priority">auction</a> works.
-</div>
+  >ℹ️ The bid for a product is the cost per click (CPC), i.e., the amount spent when a user clicks an ad. Learn more about [campaigns](https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#campaigns) and how an [auction](https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#ad-priority) works.
 
 9. Click `Save`.
 10. Set the campaign's total budget and end date.

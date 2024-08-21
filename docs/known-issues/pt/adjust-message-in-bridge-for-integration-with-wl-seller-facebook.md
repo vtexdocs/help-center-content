@@ -18,9 +18,7 @@ internalReference: 600208
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ajustar mensagem em ponte para integração com o vendedor WL

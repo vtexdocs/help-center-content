@@ -18,9 +18,7 @@ internalReference: 571101
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 Ao usar a Pesquisa Inteligente (via PLP ou mesmo sua API) junto com a regionalização (regionId) ou a variação da política comercial, a classificação e a filtragem de itens por preço não funcionam corretamente.
 

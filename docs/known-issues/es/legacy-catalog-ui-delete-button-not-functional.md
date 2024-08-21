@@ -18,9 +18,7 @@ internalReference: 326408
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El botón para eliminar productos en el catálogo no funciona, simplemente no reconoce ningún clic del usuario

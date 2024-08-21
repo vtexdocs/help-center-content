@@ -28,7 +28,5 @@ Essa alteração visa aumentar a segurança e simplificar o acesso do usuário a
 ## O que precisa ser feito?
 Certifique-se de que os usuários do Site Editor e do Mídia estejam associados ao recurso `CMS GraphQL API` em seus perfis de acesso, seja [criando um novo perfil de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete#creating-a-role) ou editando um existente.
 
-<div class="alert alert-warning">
-  <p> Para gerenciar usuários e perfis de acesso, é necessário ter o recurso <code>Save access profile</code> do produto <bold>License Manager</bold> associado ao perfil de acesso do usuário. Por exemplo, o <a href="https://help.vtex.com/pt/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted">User Administrator - RESTRICTED</a> é um perfil de acesso predefinido que tem o recurso <code>Save access profile</code> associado a ele.</p>
-</div>
+>⚠️ Para gerenciar usuários e perfis de acesso, é necessário ter o recurso `Save access profile` do produto <bold>License Manager</bold> associado ao perfil de acesso do usuário. Por exemplo, o [User Administrator - RESTRICTED](https://help.vtex.com/pt/tutorial/predefined-roles--jGDurZKJHvHJS13LnO7Dy#user-administrator-restricted) é um perfil de acesso predefinido que tem o recurso `Save access profile` associado a ele.
 

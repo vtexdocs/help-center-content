@@ -42,9 +42,7 @@ You can create your own custom email template or use the default template option
 
 ![template xhtml](https://images.ctfassets.net/alneenqid6w5/44IZ7N3din2EELL15z5FeQ/d48bd1624a47451e2314e2296237992f/Template_XHTML.PNG)
 
-<div class="alert alert-warning">
-We recommend that template customization should be performed by professionals with experience in the CMS module, and preferably, who have already configured other page and shelf templates.
-</div>
+>⚠️ We recommend that template customization should be performed by professionals with experience in the CMS module, and preferably, who have already configured other page and shelf templates.
 
 1. In the VTEX Admin, go to __Storefront > Layout__, or type __Layout__ in the search bar at the top of the page.
 2. Under __CMS > HTML__ Templates, click on the `CEM-Abandoned-Cart` icon.
@@ -128,9 +126,7 @@ In addition, we also have the "Cart" and "Last Cart" filters. Although they seem
 
 ![Filter master data 2](https://images.ctfassets.net/alneenqid6w5/6aME0zp72kjwJiulRdoRNl/6408ac4ab3b36d015790bcf1b1b5d667/Filter_Master_Data.PNG)
 
-<div class="alert alert-warning">
-  In addition to the filters indicated above, it is recommended to insert another filter in the following format: <code>Receives newsletter? - Equal to - True</code>. This ensures compliance with <a href="https://help.vtex.com/en/tutorial/data-subject-rights--6imchxTx09icupKMbzHVIM">data subject rights</a>, as only customers subscribed to the newsletter will receive abandoned cart emails. Subscription to your store's newsletter can be managed at checkout or in the <a href="https://help.vtex.com/en/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#profile">My Account</a> section of your store.
-</div>
+>⚠️ In addition to the filters indicated above, it is recommended to insert another filter in the following format: `Receives newsletter? - Equal to - True`. This ensures compliance with [data subject rights](https://help.vtex.com/en/tutorial/data-subject-rights--6imchxTx09icupKMbzHVIM), as only customers subscribed to the newsletter will receive abandoned cart emails. Subscription to your store's newsletter can be managed at checkout or in the [My Account](https://help.vtex.com/en/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh#profile) section of your store.
 
 <blockquote><ui> 10. Click on the <b>Schedule</b> tab and select whether to send the email on a specific date or on a dynamic date.</ui>
 
@@ -142,8 +138,7 @@ In addition, we also have the "Cart" and "Last Cart" filters. Although they seem
 
 <blockquote><blockquote><ui>b. In <b>Recipient</b>, to perform a system test, enter your email and click <b>Add Static email</b>.</ui>
 
-<div class="alert alert-warning">Once you have completed the other settings below and verified that you have received the abandoned cart message in your email, return to this step, select the option <strong>CL</strong>: <strong>Email</strong>, click in <strong>Add Dynamic email</strong>, and then in <strong>Save</strong>.
-</div>
+>⚠️ Once you have completed the other settings below and verified that you have received the abandoned cart message in your email, return to this step, select the option **CL**: **Email**, click in **Add Dynamic email**, and then in **Save**.
 
 <blockquote><blockquote><ui>c. In <b>Email body format</b>, select <b>Html</b>.</ui>
 
@@ -159,8 +154,7 @@ In addition, we also have the "Cart" and "Last Cart" filters. Although they seem
 
 ![PastasCarrinhoAbandonado](https://images.ctfassets.net/alneenqid6w5/4DSsVaeDvWmaaw2iwySCOy/b579eb818e0bcda140dba0ae96ecc90f/PastasCarrinhoAbandonado.png)  
 
-<div class="alert alert-warning">The URL address must be the real one of the store, not the URL with vtexcommercestable.
-</div>
+>⚠️ The URL address must be the real one of the store, not the URL with vtexcommercestable.
 
 <blockquote><blockquote><ui>i. In <b>Add utm_source to all links whose value is</b>, fill with "CEM", to facilitate the identification of purchases by abandoned cart.</ui>
 

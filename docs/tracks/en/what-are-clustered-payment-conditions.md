@@ -16,8 +16,6 @@ trackSlugEN: clustered-payment-conditions
 
 Clustered Payments Conditions are a new [Customer Credit](https://help.vtex.com/en/announcements/de-credito-aos-seus-melhores-clientes-com-o-customer-credit--6M2V1Oc1UIaGSM6QayWkmq?&utm_source=autocomplete "Customer Credit") feature that allows stores to set a given deadline and enact an installment rule that will be valid for one or more customers of their trust. This filter is made using clusters - a segmentation method.
 
-<div class="alert alert-info">
-This functionality is currently in Closed Beta (testing stage) and is not available for installation in new stores.
-</div>  
+>ℹ️ This functionality is currently in Closed Beta (testing stage) and is not available for installation in new stores.  
 
 This customization is done using our [Master Data](https://help.vtex.com/en/tutorial/what-is-master-data--4otjBnR27u4WUIciQsmkAw "Master Data") database. 

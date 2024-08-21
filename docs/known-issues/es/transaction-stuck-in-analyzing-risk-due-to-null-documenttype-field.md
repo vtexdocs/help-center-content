@@ -18,9 +18,7 @@ internalReference: 697107
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Las transacciones se están atascando en la etapa de "Análisis de Riesgo" porque el campo `documentType` es nulo.

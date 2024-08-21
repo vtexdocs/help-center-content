@@ -18,9 +18,7 @@ internalReference: 1046365
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La transacción estaba atascada en estado aprobado, a pesar de que el pago fue cancelado.

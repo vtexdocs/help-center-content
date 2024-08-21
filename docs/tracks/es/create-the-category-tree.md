@@ -22,9 +22,7 @@ Entonces es por ella que necesitamos empezar.
 
 ## ¿Qué es un árbol de categorías?
 
-<div class="alert alert-info">
-El árbol de categorías es el conjunto de categorías de su sitio, <strong>distribuidas según relaciones de jerarquía</strong>.
-</div>
+>ℹ️ El árbol de categorías es el conjunto de categorías de su sitio, **distribuidas según relaciones de jerarquía**.
 
 ## Ejemplo
 

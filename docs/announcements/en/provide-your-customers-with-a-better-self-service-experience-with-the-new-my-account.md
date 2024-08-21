@@ -38,9 +38,7 @@ All VTEX stores already have the new app installed in a test environment, meanin
 
 By adding new visual elements, __the new My Account warrants a page revision together with the agency responsible for the your customization__. 
 
-<div class="alert alert-danger">
-<strong>VTEX will massively migrate the new My Account on the 3rd of July 2019.</strong> It is therefore imperative to begin reviewing page customizations now.
-</div>
+>❗ **VTEX will massively migrate the new My Account on the 3rd of July 2019.** It is therefore imperative to begin reviewing page customizations now.
 
 For more on new My Account __[settings](https://help.vtex.com/en/tutorial/setting-up-my-account--23Ayv5D6b86UBnYfoXqZL1)__ and __[functionality](https://help.vtex.com/en/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh)__, access the documentation available on our Help page.
 

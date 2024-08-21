@@ -18,9 +18,7 @@ internalReference: 870845
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando un usuario registrado (no logueado) inicia el checkout con Entrega como opción de envío, y posteriormente cambia a recolección, al intentar finalizar el checkout aparece el mensaje de error "El campo Número en el adjunto de envío no es válido" y no permite realizar el pedido.

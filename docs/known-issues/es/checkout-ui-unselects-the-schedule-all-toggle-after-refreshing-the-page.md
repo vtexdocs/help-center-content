@@ -18,9 +18,7 @@ internalReference: 784693
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La interfaz de usuario del proceso de pago anula la selección del conmutador "Programar todo" en el paso de envío después de actualizar la página, aunque la API siga seleccionada. Este comportamiento no tiene ningún impacto; el pedido tendrá seleccionada la entrega programada.

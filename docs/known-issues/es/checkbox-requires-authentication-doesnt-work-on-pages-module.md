@@ -18,9 +18,7 @@ internalReference: 577306
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La función de autenticación, que se gestiona mediante la selección de una casilla de verificación en el módulo Páginas, no funciona correctamente. El usuario no es redirigido a una página de solicitud de autenticación cuando la casilla está marcada.

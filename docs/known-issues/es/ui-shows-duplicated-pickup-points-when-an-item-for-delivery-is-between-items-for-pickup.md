@@ -18,9 +18,7 @@ internalReference: 906549
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En un carro con al menos tres productos, donde los pedidos de artículos son: 1º es para recogida, 2º es para entrega y 3º es para recogida, la IU mostrará el punto de recogida duplicado. Esto sucede porque la API agrupará el 1er artículo y el 3er artículo ya que es el mismo SLA.

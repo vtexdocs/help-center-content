@@ -18,9 +18,7 @@ internalReference: 428725
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se ejecuta el método GET para una tarjeta regalo existente, no devuelve el campo "caption" ni el campo "relationName" aunque estos parámetros tengan valor.

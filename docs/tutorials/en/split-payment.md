@@ -15,9 +15,7 @@ legacySlug: split-payment
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-warning">
-This is a marketplace payment solution.
-</div>
+>⚠️ This is a marketplace payment solution.
 
 To guarantee that our [marketplace](https://help.vtex.com/en/tutorial/what-is-a-marketplace--680lLJTnmEAmekcC0MIea8) clients automatically divide the payment between all [sellers](https://help.vtex.com/en/tutorial/what-is-a-seller--5FkLvhZ3Few4CWWIuYOK2w), set a commission based on a fixed percentage, and remain operating in accordance with current regulations, VTEX offers the __Split Payment__.
 
@@ -26,9 +24,7 @@ Below are two examples of split payment application scenarios where a consumer a
 1. When the marketplace is responsible for processing payment for the purchase, VTEX automatically divides this payment so that each beneficiary receives their share directly into their own bank account, thus carrying out the [Payout Split](https://help.vtex.com/tutorial/split-payment--6k5JidhYRUxileNolY2VLx#payout-split).
 2. When the cart involves sellers who are responsible for processing their own payment method (without depending on the marketplace), VTEX creates different payment transactions for the Marketplace and the sellers, performing the [Transaction Split](https://help.vtex.com/tutorial/split-payment--6k5JidhYRUxileNolY2VLx#transaction-split).
 
-<div class="alert alert-warning">
-The distribution of purchase amounts is always carried out in accordance with pre-defined commission percentage agreements between the marketplace and sellers.
-</div>
+>⚠️ The distribution of purchase amounts is always carried out in accordance with pre-defined commission percentage agreements between the marketplace and sellers.
 
 Check below for more details about each of the split payment models:
 

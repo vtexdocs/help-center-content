@@ -41,9 +41,7 @@ You can also use DNS redirection, as provided by several services, including dom
 
 To perform a DNS redirection in a simple manner, there are instructions below on how to use the [redirect.center](http://redirect.center/) service.
 
-<div class="alert alert-warning">
-Note that Direcionar is not a VTEX service and does not work with HTTPS. There are other similar services, but VTEX does not recommend any specific one. VTEX is not responsible for problems caused by external redirect services.
-</div>
+>⚠️ Note that Direcionar is not a VTEX service and does not work with HTTPS. There are other similar services, but VTEX does not recommend any specific one. VTEX is not responsible for problems caused by external redirect services.
 
 See this other article to learn how to [configure redirection from other addresses](https://help.vtex.com/en/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ).
 

@@ -15,11 +15,9 @@ legacySlug: sent-offers-buybox-opportunities-beta
 subcategory: 
 ---
 
-<div class="alert alert-info">
-To evolve your experience in synchronizing and updating offers, the VTEX team is developing a new functionality that will replace the current module <b>Offer Management</b>. As a result, the module will not receive new updates or maintenance.
-For connectors and marketplaces already integrated into the module, please contact the development team by email <a href="taissa.araujo@vtex.com.br">taissa.araujo@vtex.com.br</a>.
-For connectors interested in starting the integration, we ask you to wait for the release of the new module, as soon as it is available we will announce it to all customers through the <a href="https://developers.vtex.com/updates/release-notes">Developer Portal's release notes section</a> and <a href="https://help.vtex.com/pt/en/announcements">VTEX Help Center announcements page</a>.
-</div>  
+>ℹ️ To evolve your experience in synchronizing and updating offers, the VTEX team is developing a new functionality that will replace the current module **Offer Management**. As a result, the module will not receive new updates or maintenance.
+> For connectors and marketplaces already integrated into the module, please contact the development team by email [taissa.araujo@vtex.com.br](taissa.araujo@vtex.com.br).
+> For connectors interested in starting the integration, we ask you to wait for the release of the new module, as soon as it is available we will announce it to all customers through the [Developer Portal's release notes section](https://developers.vtex.com/updates/release-notes) and [VTEX Help Center announcements page](https://help.vtex.com/pt/en/announcements).  
 
 An offer is a SKU from a seller that has been sent to a sales channel and whose price and inventory have been configured. The [Offer Management](https://help.vtex.com/en/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE) module in the VTEX Admin allows sellers to monitor their offers’ submission and sync on marketplaces. Besides, it can lead to an increase in your product sales. 
 
@@ -60,9 +58,7 @@ Follow the steps below to add your offer to the Buybox:
 4. On the **Offer opportunity** page, make sure your product is the same as the one already for sale on the marketplace. If they are the same, click on `Add to Buybox`. 
 5. Click on `Add`. 
 
-<div class="alert alert-warning">
-This action cannot be undone, so make sure you are offering the correct product. If your offer is not for the same product listed on the marketplace, you must not add it to the Buybox. Adding offers for different products to the Buybox can damage your reputation in that marketplace.  
-</div>
+>⚠️ This action cannot be undone, so make sure you are offering the correct product. If your offer is not for the same product listed on the marketplace, you must not add it to the Buybox. Adding offers for different products to the Buybox can damage your reputation in that marketplace.
 
 To be well-positioned on the Buybox, perform the configurations indicated in the [Winning or losing the Buybox](#winning-or-losing-the-buybox) section of this article.
 

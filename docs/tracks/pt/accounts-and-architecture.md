@@ -39,9 +39,14 @@ Existem vários fatores para [escolher entre conta padrão, conta franquia ou Se
 | Conta franquia | <ul><li>Não tem frontend e site próprio.</li><li>Possui ambiente próprio no Admin VTEX para gerir a operação.</li><li>Não possui <a href="https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalogo">catálogo</a> próprio, e sim reflete a exata estrutura de catálogo da conta principal.</li><li>Pode configurar <a href="https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#precos">preços e promoções</a>.</li><li>Tem estoque e inventário próprios.</li><li>O inventário da conta franquia pode ser vendido em outros marketplaces VTEX conectados à conta principal, por meio da <a href="https://help.vtex.com/pt/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4">Multilevel Omnichannel Inventory (MOI)</a>.</li></ul> |
 | Conta Seller Portal | <ul><li>Não tem frontend e site próprio.</li><li>A conta principal tem uma área para <a href="https://help.vtex.com/pt/tutorial/gerenciamento-de-sellers--6eEiOISwxuAWJ8w6MtK7iv">gerenciar os sellers</a> e cada seller tem um ambiente próprio separado no Admin do Seller Portal.</li><li>O seller pode configurar estoque e preço, gerenciar produtos compartilhados com o marketplace, faturar pedidos, ativar promoções, processar pagamentos e ter logística própria.</li></ul> |
 
-<div class="alert alert-info">
-<b>Marketplace na VTEX</b><p>Além de oferecer grande versatilidade na arquitetura da loja, nosso ecossistema possibilita a cada loja ter uma série de <a href="https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402">estratégias de marketplace</a>, tais como:</p><p><ul><li>Tornar-se seller ou marketplace de outras lojas VTEX.</li><li>Integrar com os grandes players do mercado, como o <a href="https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Livre</a> e a <a href="https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP">Amazon</a>.</li><li>Integrar com os <a href="https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-marketplaces-parceiros">marketplaces parceiros</a> certificados pela VTEX.</li><li>Ser marketplace para sellers com conta <a href="https://help.vtex.com/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK">Seller Portal</a>.</li><li>Ser <a href="https://help.vtex.com/pt/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa">seller white label</a>.</li><li>Criar integrações próprias com <a href="https://developers.vtex.com/docs/guides/external-seller-integration-guide">marketplaces e sellers externos</a>.</li></ul></p>
-</div>
+>ℹ️ **Marketplace na VTEX**Além de oferecer grande versatilidade na arquitetura da loja, nosso ecossistema possibilita a cada loja ter uma série de [estratégias de marketplace](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402), tais como:
+> 
+> *Tornar-se seller ou marketplace de outras lojas VTEX.
+> * Integrar com os grandes players do mercado, como o [Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) e a [Amazon](https://help.vtex.com/pt/tracks/configurar-integracao-com-a-amazon--6sgd4Pagy3wNsWKBvmIFrP).
+> * Integrar com os [marketplaces parceiros](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-marketplaces-parceiros) certificados pela VTEX.
+> * Ser marketplace para sellers com conta [Seller Portal](https://help.vtex.com/pt/tutorial/seller-portal-primeiros-passos--6w1vBdRH2uuBGmUqgNQjwK).
+> * Ser [seller white label](https://help.vtex.com/pt/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa).
+> * Criar integrações próprias com [marketplaces e sellers externos](https://developers.vtex.com/docs/guides/external-seller-integration-guide).
 
 ## Arquitetura da loja
 
@@ -116,7 +121,5 @@ Para auxiliar decisões sobre quais produtos e configurações incluir no planej
 
 O [Quadrante VTEX](https://vtex.com/pt-br/blog/parceiros/quadrante_vtex_2023/) é um programa em que a VTEX avalia internamente a performance e os resultados de sucesso da operação dos seus parceiros. Esta é uma forma de reconhecer e premiar anualmente aqueles que apresentam o maior nível de entrega e excelência. Veja [aqui](https://vtex.com/pt-br/blog/parceiros/quadrante_vtex_2023/) o resultado do Quadrante de 2023.
 
-<div class="alert alert-info">
-O <a href="https://vtex.com/pt-br/blog/parceiros/quadrante_vtex_2023/">Quadrante VTEX</a> é um programa exclusivo para parceiros de implementação do Brasil.
-</div>
+>ℹ️ O [Quadrante VTEX](https://vtex.com/pt-br/blog/parceiros/quadrante_vtex_2023/) é um programa exclusivo para parceiros de implementação do Brasil.
 

@@ -18,9 +18,7 @@ internalReference: 1062457
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 As regras de merchandising não são aplicadas à faceta "productClusterIds". Isso acontece porque essa faceta tem o comportamento especial de classificar os produtos pela ordem da coleção, em vez de regras de relevância e de merchandising.

@@ -18,9 +18,7 @@ internalReference: 940998
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando um sku é reprovado nas regras de Qualidade da Oferta criadas pelo Marketplace, ele vai diretamente para a "Guia Revisão" ou "Guia Rejeitado" dos Skus Recebidos.

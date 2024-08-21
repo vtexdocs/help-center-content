@@ -27,9 +27,7 @@ Los pedidos realizados en un marketplace pueden contener ítems de varios seller
 
 Si el _seller _es el procesador de pagos, debe operar bajo las condiciones establecidas en nuestro [Split de transacción](https://help.vtex.com/es/tutorial/split-payment#split-de-transacao). Asimismo, si el marketplace VTEX se encarga de procesar los pagos, debe seguir el flujo del [Split de cobros](https://help.vtex.com/es/tutorial/split-payment--6k5JidhYRUxileNolY2VLx#split-de-recebiveis) o realizar sus transferencias fuera del entorno VTEX. 
 
-<div class="alert alert-info">
-Los clientes de VTEX en Brasil pueden utilizar tanto el split de transacción como el split de cobros. Los clientes de VTEX en otros países solo deben utilizar el split de transacción. Ten en cuenta que algunos países imponen restricciones a la transferencia de valores entre sellers y marketplaces. Infórmate de las restricciones con las autoridades financieras de tu país antes de construir tu arquitectura de pagos.
-</div>
+>ℹ️ Los clientes de VTEX en Brasil pueden utilizar tanto el split de transacción como el split de cobros. Los clientes de VTEX en otros países solo deben utilizar el split de transacción. Ten en cuenta que algunos países imponen restricciones a la transferencia de valores entre sellers y marketplaces. Infórmate de las restricciones con las autoridades financieras de tu país antes de construir tu arquitectura de pagos.
 
 Para establecer los valores de transferencias externas al entorno VTEX, utiliza los [informes del OMS](https://help.vtex.com/es/tutorial/planilha-de-pedidos--31m1ewsmsEe0WS4So2aGMY) para calcular las comisiones. En Brasil, la transferencia de valores en un entorno externo, sin la participación de la plataforma VTEX, solo puede realizarse por las instituciones financieras.
 
@@ -37,9 +35,7 @@ Para establecer los valores de transferencias externas al entorno VTEX, utiliza 
 
 Consulta a continuación la configuración necesaria en tu Admin VTEX para crear comisiones sobre pedidos de _sellers _y para hacer que el _seller_ o el _marketplace_ sea el procesador de pagos.
 
-<div class="alert alert-info">
-En caso de que la integración con sellers externos o sellers VTEX se haga mediante API, consulta <a href = "https://developers.vtex.com/vtex-rest-api/docs/external-seller-processing-payments">External seller processing payment</a>. 
-</div>
+>ℹ️ En caso de que la integración con sellers externos o sellers VTEX se haga mediante API, consulta <a href = "https://developers.vtex.com/vtex-rest-api/docs/external-seller-processing-payments">External seller processing payment</a>.
 
 ### Configurar comisiones para los _sellers_
 

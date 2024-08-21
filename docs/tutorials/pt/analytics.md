@@ -41,9 +41,7 @@ Os dados que compõem o relatório são atualizados a cada quatro horas e contê
 * **Pedidos**: quantidades de pedidos realizados a partir da busca. Para calcular essa métrica, consideramos que a busca gera um pedido sempre que, após buscar por um termo, o cliente clica em algum produto que aparece nos resultados e depois compra um produto qualquer (não necessariamente o que ele clicou).
 * **Vendas**: valor total de receitas geradas por pedidos realizados a partir da busca. O cálculo segue a mesma lógica da métrica de **Pedidos**, a diferença é que o resultado reflete as receitas em vez da quantidade de pedidos.
 
-<div class="alert alert-info">
-  <p>Os dados exibidos no relatório são limitados aos 10 mil termos mais pesquisados. Caso deseje os dados completos da busca da sua loja, é necessário <a href="https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m#exportacao">exportar o relatório</a>.</p>
-</div>
+>ℹ️ Os dados exibidos no relatório são limitados aos 10 mil termos mais pesquisados. Caso deseje os dados completos da busca da sua loja, é necessário [exportar o relatório](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m#exportacao).
 
 Quando você optar por [exportar um relatório](#exportacao), existe também a possibilidade de gerá-lo **Com métricas de funil**. Caso essa opção seja selecionada, quatro novas colunas serão adicionadas ao arquivo:
 

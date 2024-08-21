@@ -15,9 +15,7 @@ legacySlug: planner-concepto-de-lanzamiento-beta
 subcategory: 3vXj7HrnYK8V5riTOwUuYv
 ---
 
-<div class="alert alert-info">
-  <p>El <strong>Releases</strong> se encuentra en la versión Beta, por lo tanto, estamos trabajando para mejorarlo. Esta funcionalidad es válida únicamente para las tiendas que usan <a href="https://www.faststore.dev/">FastStore</a>.</p>
-</div>
+>ℹ️ El **Releases** se encuentra en la versión Beta, por lo tanto, estamos trabajando para mejorarlo. Esta funcionalidad es válida únicamente para las tiendas que usan [FastStore](https://www.faststore.dev/).
 
 La gestión de una operación de _ecommerce_ exige que el _retailer_ haga una serie de actualizaciones en su tienda que, muchas veces, suelen relacionarse entre sí. Por ejemplo, una campaña publicitaria en la cual se deben configurar distintos elementos del _storefront_.
 
@@ -30,9 +28,7 @@ Un release es un cambio o un grupo de cambios que pueden publicarse en conjunto.
 * Mayor control al probar y revisar los cambios antes de publicarlos.
 * Facilidad para programar o eliminar grupos de cambios.
 
-<div class="alert alert-warning">
-  <p>En la etapa Beta, los releases deben estar relacionados al <a href="https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">CMS</a> porque hay otros módulos de la plataforma VTEX que aún no están incluidos. Para usar el <strong>Releases</strong>, se debe configurar el CMS tal como se describe en <a href="https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS">Installing Releases on VTEX Headless CMS</a>.</p>
-</div>
+>⚠️ En la etapa Beta, los releases deben estar relacionados al [CMS](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2) porque hay otros módulos de la plataforma VTEX que aún no están incluidos. Para usar el **Releases**, se debe configurar el CMS tal como se describe en [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 Se puede acceder a esta funcionalidad a través del menú de navegación del **Releases** en el Admin VTEX, donde encontrarás las siguientes páginas:
 

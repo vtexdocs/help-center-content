@@ -18,9 +18,7 @@ internalReference: 856984
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En el paso de seguimiento algunos pedidos están devolviendo el siguiente error `"Data de Entrega ao Cliente' deve ser maior que a 'Data de Despacho' e deve ser igual ou menor a data de hoje"`

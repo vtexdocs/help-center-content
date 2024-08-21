@@ -58,7 +58,5 @@ An error with product missing information can happen when the product has no inv
 3. In the `Edit XML` tab, for the option **Show unavailable SKUs**, select the checkbox `Show out-of-stock (sold-out) SKUs in the results`.
 4. Click `Save`.
 
-<div class="alert alert-warning">
-You can have invoicing errors when trying to invoice an order with incorrect or missing XML information.
-</div>
+>⚠️ You can have invoicing errors when trying to invoice an order with incorrect or missing XML information.
 

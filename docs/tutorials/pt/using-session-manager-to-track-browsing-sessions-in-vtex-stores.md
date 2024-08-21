@@ -32,7 +32,7 @@ Por exemplo, um usuário com um link de campanha específico pode ter uma tabela
 
 Além de obter informações de sessão para um dispositivo que esteja navegando pela infraestrutura da VTEX, o Session Manager permite que você armazene *dados customizados* naquela sessão. Estas informações são facilmente recuperáveis e permitem que você evite fazer algo como configurar um cookie para registrar informações específicas sobre um usuário. 
 
-<div class="alert alert-info">O Session Manager também foi construído para permitir que desenvolvedores criem seus próprios triggers e lógica de processamento. Ainda estamos finalizando o desenvolvimento desta solução extensível, mas no futuro você deverá poder configurar a execução condicional de código customizado, de acordo com a presença de valores específicos de parâmetros nos dados de sessão de um usuário.</div>
+>ℹ️ O Session Manager também foi construído para permitir que desenvolvedores criem seus próprios triggers e lógica de processamento. Ainda estamos finalizando o desenvolvimento desta solução extensível, mas no futuro você deverá poder configurar a execução condicional de código customizado, de acordo com a presença de valores específicos de parâmetros nos dados de sessão de um usuário.
 
 ## Agregação de dados de sessão: chamadas create e transform
 Estritamente falando, o Session Manager é um sistema backend de API que armazena e processa dados de sessão contidos em objetos JSON. Cada conta VTEX tem configurações que indicam quais apps instaladas têm uma dependência de sessão e como elas pretendem processar estas informações.
@@ -51,7 +51,7 @@ Transforms frequentemente disparam outras transforms, repetindo até que nenhuma
 6. A App C monitorava o parâmetro de sessão Z, o que disparou a Transform 3
 7. A Transform 3 não teve efeitos colaterais em parâmetros monitorados por apps, portanto o ciclo se encerrou e a sessão foi salva até que outras mudanças sejam feitas.
 
-<div class="alert alert-info">Chamadas transform são feitas para todas as apps simultaneamente para otimização de desempenho. É por isso que a App C foi afetada tanto pela Transform 2 quanto pela Transform 3 - ela não tinha como saber que o resultado da Transform 2 na App B levaria à necessidade de mudanças adicionais nos seus parâmetros de saída.</div>
+>ℹ️ Chamadas transform são feitas para todas as apps simultaneamente para otimização de desempenho. É por isso que a App C foi afetada tanto pela Transform 2 quanto pela Transform 3 - ela não tinha como saber que o resultado da Transform 2 na App B levaria à necessidade de mudanças adicionais nos seus parâmetros de saída.
 
 Quando uma nova sessão é criada, uma versão mais simples desse ciclo é executada, que chamamos de **chamada create**. Todas as apps que tiverem a configuração `RunOnCreate: true` serão notificadas para executar simultaneamente com uma entrada vazia. Se estas apps modificarem quaisquer parâmetros monitorados por outras apps, isto dispara um ciclo de transform que será executado até que as dependências de entrada sejam resolvidas.
 

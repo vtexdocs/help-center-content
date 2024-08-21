@@ -18,9 +18,7 @@ internalReference: 503153
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La API del catálogo Crear archivo SKU sólo funciona con la opción 1 ( enviar una imagen a través de la URL)

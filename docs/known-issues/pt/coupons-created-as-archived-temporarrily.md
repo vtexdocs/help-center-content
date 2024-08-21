@@ -18,9 +18,7 @@ internalReference: 892041
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, quando um cupom é criado, a interface do usuário/API mostra que ele está arquivado por alguns minutos (~2) quando, na verdade (no banco de dados de preços), o cupom está ativo.

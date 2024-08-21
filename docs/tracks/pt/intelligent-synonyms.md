@@ -14,9 +14,7 @@ trackId: 19wrbB7nEQcmwzDPl1l4Cb
 trackSlugPT: vtex-intelligent-search
 ---
 
-<div class="alert alert-info">
-  <p>Esta funcionalidade está  disponível para contas que tenham um número mínimo de sessões e pedidos para que o modelo de Inteligência Artificial seja treinado. Caso tenha interesse em implementá-la, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>. É possível que taxas extras se apliquem futuramente.</p>
-</div>
+>ℹ️ Esta funcionalidade está  disponível para contas que tenham um número mínimo de sessões e pedidos para que o modelo de Inteligência Artificial seja treinado. Caso tenha interesse em implementá-la, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests). É possível que taxas extras se apliquem futuramente.
 
 A funcionalidade de [Sinônimos](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) do [VTEX Intelligent Search](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) permite cadastrar palavras, ou expressões de mesmo sentido, para termos de busca utilizados pelos clientes ao realizar pesquisas na sua loja, aumentando a chance deles obterem resultados relevantes nas buscas.
 

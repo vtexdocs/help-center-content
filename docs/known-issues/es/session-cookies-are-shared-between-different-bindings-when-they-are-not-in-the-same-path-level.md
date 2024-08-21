@@ -18,9 +18,7 @@ internalReference: 925071
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Las cookies para la información de sesión son exclusivas de la vinculación de cuenta específica, pero las vinculaciones que no están en el mismo nivel de ruta pueden recibir cookies de niveles inferiores, lo que provoca problemas.

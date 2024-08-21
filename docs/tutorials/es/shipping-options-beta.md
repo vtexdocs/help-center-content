@@ -15,9 +15,7 @@ legacySlug: delivery-options-beta
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-<div class="alert alert-info">
-<p>Esta funcionalidad se encuentra en la versión Beta, por lo tanto, estamos trabajando para mejorarla. Si tienes alguna duda, ponte en contacto con <a href= "https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.</p>
-</div>
+>ℹ️ Esta funcionalidad se encuentra en la versión Beta, por lo tanto, estamos trabajando para mejorarla. Si tienes alguna duda, ponte en contacto con <a href= "https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.
 
 **Opciones de envío** es la funcionalidad que permite a los administradores de la tienda crear, editar y gestionar las opciones de envío desde un mismo lugar y garantizar mayor simplicidad y eficiencia en la gestión de su operación. El término «envío» es la forma general de referirse a la entrega o recogida de un pedido. Al configurar cada opción de envío, el administrador de la tienda determina:
 

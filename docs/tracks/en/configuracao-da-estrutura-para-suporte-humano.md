@@ -21,9 +21,7 @@ There are two pre-integrated partner options with VTEX Conversational Commerce:
 * [Zenvia](#zenvia-integration)
 * [Zendesk](#zendesk-integration)
 
-<div class="alert alert-info">
-  <p>Get in touch with the VTEX development team if you want to integrate with other platforms.</p>
-</div>
+>ℹ️ Get in touch with the VTEX development team if you want to integrate with other platforms.
 
 ## Zenvia Integration
 

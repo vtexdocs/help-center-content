@@ -15,9 +15,7 @@ announcementImageID: ''
 announcementSynopsisPT: 'Possibilidade de limitar perfis de acesso a tela Configuração'
 ---
 
-<div class="alert alert-warning">
-A partir do dia 25 de junho de 2019, o usuário que não tiver acesso vinculado ao perfil com o produto <code>Checkout</code>  não terá permissão para editar a tela de Configurações do módulo Gerenciamento de Pedidos. 
-</div>
+>⚠️ A partir do dia 25 de junho de 2019, o usuário que não tiver acesso vinculado ao perfil com o produto `Checkout`  não terá permissão para editar a tela de Configurações do módulo Gerenciamento de Pedidos.
 
 Buscando garantir maior segurança, criamos a possibilidade de limitar perfis de acesso a tela de **Configurações** do módulo Gerenciamento de Pedidos, permitindo que somente alguns usuários editem as informações.
 

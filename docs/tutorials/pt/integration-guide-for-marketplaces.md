@@ -15,9 +15,7 @@ legacySlug: guia-de-integracao-para-marketplaces
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---
 
-<div class="alert alert-warning">
-Confira a versão atualizada desse <a href="https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide">guia de integração com marketplace</a> em nosso Developer Portal. 
-</div> 
+>⚠️ Confira a versão atualizada desse [guia de integração com marketplace](https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide) em nosso Developer Portal. 
 
 ## Marketplaces e sellers
 
@@ -45,7 +43,7 @@ Extensão do navegador chrome, nesta ferramenta pode se testar, armazenar histó
 
 Toda chamada feita as APIs REST da VTEX devem ser feitas em "https" e devem conter em seu header as chaves de autenticação. As chaves de autenticação do header(para acessar as APIs REST) devem ser solicitados ao administrador da loja, ou ao time de operações que está implantando a loja.
 
-<div class="alert alert-warning"><strong>Atenção</strong>: Deverá ser criada uma chave e um token exclusivos para cada integrador. **Não** se deve usar a chave da própria loja.</div>
+>⚠️ **Atenção**: Deverá ser criada uma chave e um token exclusivos para cada integrador. **Não** se deve usar a chave da própria loja.
 
 ## Modelos de integração
 

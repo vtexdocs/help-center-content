@@ -18,9 +18,7 @@ internalReference: 1051070
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La aplicación de mensajes está recibiendo un error de tiempo de espera al azar y algunas páginas de administración pueden necesitar una actualización para funcionar correctamente.

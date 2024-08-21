@@ -28,15 +28,11 @@ Para iniciar uma busca no Audit, selecione a guia **Eventos de auditoria**. No m
 
 Usando o botão **Data selecionada** é possível escolher uma data pré-definida para a busca. Para selecionar o exato período onde a busca deve ocorrer, clique no botão **Usar datas personalizadas.**
 
-<div class="alert alert-warning">
-Apenas registros dos últimos 3 meses são armazenados.
-</div>
+>⚠️ Apenas registros dos últimos 3 meses são armazenados.
 
 É possível adicionar mais filtros para realizar a busca de eventos com mais precisão. Para isso, clique no botão **Adicionar Filtro**. No painel que aparece, selecione o parâmetro de filtragem (_Ação_, _Detalhes do Evento_ ou _Autor_) e a qual valor este tópico deve ser comparado. 
 
-<div class="alert alert-info">
-Os resultados da busca correspondem exatamente ao conteúdo escrito no tópico do filtro. Para evitar resultados inesperados, certifique-se de que não foram digitados espaços desnecessários nos termos da busca.
-</div>
+>ℹ️ Os resultados da busca correspondem exatamente ao conteúdo escrito no tópico do filtro. Para evitar resultados inesperados, certifique-se de que não foram digitados espaços desnecessários nos termos da busca.
 
 Note que é possível adicionar mais de um filtro,  inclusive com o mesmo tópico. Neste caso, serão buscados eventos que se igualem a qualquer um dos valores inseridos. 
 
@@ -48,9 +44,7 @@ Após selecionada a aplicação, a data e os demais filtros da busca, clique no 
 
 Note que toda busca realizada é salva na aba **Últimas Buscas**. Para refazer uma busca, clique nesse aba, e clique no botão <img src="https://images.ctfassets.net/alneenqid6w5/4gWsOnbLMOUeWh0r5YRDz/9b7148d995c03ca84b39473f266b46a9/refresh.png" width="15"> correspondente à busca que deseja ser refeita.
 
-<div class="alert alert-warning">
-Apenas 50 buscas ficam gravadas neste painel. Se quiser salvar uma busca indefinidamente, realize a mesma e adicione aos favoritos do seu browser.
-</div>
+>⚠️ Apenas 50 buscas ficam gravadas neste painel. Se quiser salvar uma busca indefinidamente, realize a mesma e adicione aos favoritos do seu browser.
 
 <div class = "alert alert-info">
 Confira a <a href="https://help.vtex.com/pt/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ">lista de eventos disponíveis no Audit</a>.

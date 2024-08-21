@@ -15,9 +15,7 @@ announcementImageID: ''
 announcementSynopsisES: 'A partir del 5 de junio, el uso de la extensión a la página "Mis pedidos" será obligatorio para todas las tiendas.'
 ---
 
-<div class="alert alert-info">
-Como se anunció aquí, <strong>My Orders</strong> ya es obligatorio para todas las tiendas. Desde el <strong>6 de junio</strong> está disponible de forma predeterminada y ya no es necesario instalarla a través de la App Store de VTEX.
-</div>
+>ℹ️ Como se anunció aquí, **My Orders** ya es obligatorio para todas las tiendas. Desde el **6 de junio** está disponible de forma predeterminada y ya no es necesario instalarla a través de la App Store de VTEX.
 
 Ya está disponible en la __App Store__ de VTEX el __My Orders__, una extensión que trae una serie de mejoras a la página "Mis Pedidos". Por todas las ventajas que ofrece (incluyendo facilidad de personalización y aumentos de rendimiento de la página), su uso pasará a ser obligatorio a partir del __5 de junio__.
 
@@ -25,7 +23,7 @@ Entre las novedades de la nueva extensión están el soporte para visualización
 
 Otra característica importante es que ahora los datos de los pedidos vienen de la API del OMS. Un cambio que deja el status del pedido mucho más preciso.
 
-<div class="alert alert-warning">
-<strong>Atención</strong><br>
-Recomendamos que instale el <strong>My Orders</strong> en su tienda cuanto antes, sobre todo si ya tiene alguna personalización en la página "Mis Pedidos". Dessa forma, você vai poder testar todas as possibilidades da nova extensão e evitar quebras quando ela se tornar obrigatória. De esta manera, usted podrá probar todas las posibilidades de la nueva extensión y evitar errores cuando se convierta en obligatoria.
-</div>
+>⚠️ **Atención**
+>
+> 
+> Recomendamos que instale el **My Orders** en su tienda cuanto antes, sobre todo si ya tiene alguna personalización en la página "Mis Pedidos". Dessa forma, você vai poder testar todas as possibilidades da nova extensão e evitar quebras quando ela se tornar obrigatória. De esta manera, usted podrá probar todas las posibilidades de la nueva extensión y evitar errores cuando se convierta en obligatoria.

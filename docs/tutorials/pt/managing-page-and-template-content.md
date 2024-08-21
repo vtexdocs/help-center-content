@@ -34,9 +34,7 @@ Exercite sua autonomia sobre o código e construa o cenário de loja desejado de
 
 2. Clique em `Versões` no canto superior direito.
 
-<div class="alert alert-info">
-O conteúdo que você vê ao clicar em um bloco é o que está ativo no momento. Para mais informações sobre o recurso <b>Versões</b>, acesse <a href="https://help.vtex.com/pt/tutorial/managing-content-versions--4loXo98CZncY0NnjKrScbG">Gerenciando versões de conteúdo</a> e <a href="https://help.vtex.com/pt/tutorial/scheduling-content-updates--5L93gED3wgSRoWpFJlJ2ns">Agendando atualizações de conteúdo</a>
-</div>
+>ℹ️ O conteúdo que você vê ao clicar em um bloco é o que está ativo no momento. Para mais informações sobre o recurso **Versões**, acesse [Gerenciando versões de conteúdo](https://help.vtex.com/pt/tutorial/managing-content-versions--4loXo98CZncY0NnjKrScbG) e [Agendando atualizações de conteúdo](https://help.vtex.com/pt/tutorial/scheduling-content-updates--5L93gED3wgSRoWpFJlJ2ns)
 
 3. Clique no botão `Novo conteúdo`.
 4. Faça as alterações desejadas de acordo com as configurações disponíveis para o bloco.

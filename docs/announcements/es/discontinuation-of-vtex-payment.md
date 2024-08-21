@@ -15,6 +15,4 @@ announcementImageID: ''
 announcementSynopsisES: 'Suspensión de VTEX Payment'
 ---
 
-<div class="alert alert-warning">
-Este contenido no está disponible en este idioma, ya que VTEX Payment solo está disponible para las tiendas de Brasil.
-</div>
+>⚠️ Este contenido no está disponible en este idioma, ya que VTEX Payment solo está disponible para las tiendas de Brasil.

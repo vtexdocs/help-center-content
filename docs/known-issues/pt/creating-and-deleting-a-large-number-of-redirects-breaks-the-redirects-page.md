@@ -18,9 +18,7 @@ internalReference: 1010392
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Lidar com uma grande quantidade de redirecionamentos pode quebrar a página da interface do usuário. Se você tiver muitos redirecionamentos ou precisar excluir essa grande quantidade, isso poderá levar a um erro em que a página da interface do usuário estará sempre carregando e nunca retornará as informações dos redirecionamentos. Achamos que isso pode acontecer porque, quando excluímos uma grande quantidade de redirecionamentos, as primeiras páginas da consulta `listRedirects` ficam em branco e a interface do usuário procura essas primeiras páginas para carregar os primeiros redirecionamentos e nunca as encontra.

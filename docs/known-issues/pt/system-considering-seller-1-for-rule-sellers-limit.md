@@ -18,9 +18,7 @@ internalReference: 564614
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Hoje, em um cenário onde temos uma conta que usa uma arquitetura no modelo MOI (marketplace/multilevel seller), o sistema considera o vendedor 1 como parte do cálculo para limitar o número de vendedores no carrinho que pode ser configurado usando a chave maxNumberOfWhiteLabelSellers

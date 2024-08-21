@@ -15,9 +15,7 @@ legacySlug: delivery-options-beta
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-<div class="alert alert-info">
-<p>This feature is in beta, which means that we are working to improve it. If you have any questions, please contact <a href= "https://support.vtex.com/hc/en-us/requests">our Support</a>.</p>
-</div>
+>ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact <a href= "https://support.vtex.com/hc/en-us/requests">our Support</a>.
 
 The **shipping options** feature allows the retailer to create, edit, and manage the order shipping options in a single place, ensuring more simplicity and efficiency in managing your operation. The term "shipping" is the general way to indicate the order's delivery or pickup. In each shipping option configuration, the retailer determines:
 

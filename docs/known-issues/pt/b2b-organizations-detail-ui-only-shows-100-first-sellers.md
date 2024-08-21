@@ -18,9 +18,7 @@ internalReference: 966450
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A interface de usuário de detalhes das organizações B2B mostra apenas os 100 primeiros vendedores; a interface de usuário não tem paginação, tornando impossível selecionar um vendedor se não estiver na primeira página

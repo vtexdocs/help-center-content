@@ -18,9 +18,7 @@ internalReference: 1002115
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando hay una cantidad dividida en el `priceDefinition` debido al redondeo para el multiplicador de unidades, la pasarela no puede recibir ningún valor para `deliveryType` en el objeto del carrito. Por lo tanto, esto podría causar que el proveedor de pago denegar el pago si utilizan este campo..

@@ -64,7 +64,7 @@ Para descargar su boleto, realice los siguientes pasos:
 6. Haga clic en **Efectuar Pago**.
 7. Se generará un boleto, la multa y los intereses se incluirán automáticamente. 
 
-<div class="alert alert-info">En Brasil, una factura púrpura puede indicar que está atrasada pero se ha generado un nuevo boleto para una fecha cercana. En este caso, la factura permanecerá atrasada hasta que se realice el pago. Si no se paga el nuevo boleto, la factura se pondrá en rojo.</div>
+>ℹ️ En Brasil, una factura púrpura puede indicar que está atrasada pero se ha generado un nuevo boleto para una fecha cercana. En este caso, la factura permanecerá atrasada hasta que se realice el pago. Si no se paga el nuevo boleto, la factura se pondrá en rojo.
 
 ![baixar boletos es](https://images.ctfassets.net/alneenqid6w5/6JSRhGjBxWs4KDpVm9P5LL/57eb4cb973d27d600710cd8a91f7f4a6/baixar_boletos_es.gif)
 

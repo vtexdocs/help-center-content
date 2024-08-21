@@ -18,9 +18,7 @@ internalReference: 408868
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Algumas contas do Portal do Vendedor não são capazes de exportar `basePrice'.

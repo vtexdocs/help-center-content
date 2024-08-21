@@ -18,9 +18,7 @@ internalReference: 1073363
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando a localização do cliente não é definida, os itens aparecem disponíveis mesmo quando não há estoque disponível e nenhuma etiqueta branca do vendedor é abrangente. Isso acontece somente se a SKU tiver estoque no vendedor de etiqueta branca em um depósito associado a um canal de vendas diferente daquele registrado no endpoint de atendimento do vendedor.

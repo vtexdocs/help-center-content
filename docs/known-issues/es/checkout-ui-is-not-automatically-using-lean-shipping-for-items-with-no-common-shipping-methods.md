@@ -18,9 +18,7 @@ internalReference: 329846
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La configuración de Checkout UI permite desactivar el lean shipping (optimizaciones del modo de entrega), pero esto sólo es posible si todos los artículos del carrito tienen en común los mismos métodos de entrega. De lo contrario, el lean shipping debe aparecer forzosamente en el carrito incluso con la opción desactivada.

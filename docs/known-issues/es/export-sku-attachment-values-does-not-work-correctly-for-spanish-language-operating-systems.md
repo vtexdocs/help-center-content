@@ -18,9 +18,7 @@ internalReference: 566393
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando el idioma del sistema operativo es el español (Perú), la exportación de los valores del anexo SKU genera una hoja de cálculo con las columnas "Valor" y "Custo" incorrectamente rellenadas

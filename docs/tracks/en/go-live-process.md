@@ -30,9 +30,7 @@ Before going live, you need to ensure that you have set up all configurations fo
 
 Copy this [Store configuration checklist](https://assets.ctfassets.net/alneenqid6w5/3yv1ofQRJ5xeX7J5EGglGy/be48d84768e5fb014f3903ad23927a11/Store_configuration_checklist_EN.xlsx) and check if you have configured each item according to your desired operation.
 
-<div class="alert alert-warning">
-The checklist above lists the basic features and configurations required to run a VTEX store. It is your team's responsibility to determine which features to implement in your store and how to configure them to create the desired store experience. Therefore, this list may only cover some of the features your store uses, and you must check all aspects of your store's operation, even if they are not on the suggested list.
-</div>
+>⚠️ The checklist above lists the basic features and configurations required to run a VTEX store. It is your team's responsibility to determine which features to implement in your store and how to configure them to create the desired store experience. Therefore, this list may only cover some of the features your store uses, and you must check all aspects of your store's operation, even if they are not on the suggested list.
 
 ## Instructions
 

@@ -18,9 +18,7 @@ internalReference: 587394
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando a loja configura o campo "quantidade máxima da mesma SKU no carrinho" e é uma ordem proveniente de um mercado, se a quantidade de itens na ordem é maior do que a configurada no administrador, está permitindo que as ordens sejam integradas, não respeitando a quantidade máxima de skus configurados.

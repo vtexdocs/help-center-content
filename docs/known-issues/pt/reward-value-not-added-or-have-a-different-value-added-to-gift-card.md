@@ -18,9 +18,7 @@ internalReference: 844079
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O valor do prêmio pode não ser ou ter um valor diferente adicionado ao cartão-presente do comprador quando a promoção estiver configurada para aplicar o valor do prêmio quando o status do pedido mudar para pagamento aprovado.

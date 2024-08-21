@@ -18,9 +18,7 @@ internalReference: 821741
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Nos casos em que um vendedor atua como vendedor de marca branca e como vendedor regular para itens diferentes no mesmo carrinho, o valor do pagamento será duplicado com o valor do frete.

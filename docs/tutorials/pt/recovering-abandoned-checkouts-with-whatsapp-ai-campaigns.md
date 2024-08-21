@@ -76,9 +76,7 @@ Para configurar um novo número de WhatsApp você precisará ter acesso de admin
   <li>Cole o número de telefone copiado na etapa anterior, e selecione a opção de <strong>SMS</strong>, clique em <code>Avançar</code>.</li>
 </ol>
 
-<div class="alert alert-warning">
-  O número gerado pode ser americano, mas se a sua página do Facebook for verificada, seus clientes verão o nome da empresa. Caso não esteja verificada, recomendamos seguir o <a href="https://www.facebook.com/business/help/2058515294227817?id=180505742745347">processo de verificação com a Meta</a>.
-</div>
+>⚠️ O número gerado pode ser americano, mas se a sua página do Facebook for verificada, seus clientes verão o nome da empresa. Caso não esteja verificada, recomendamos seguir o [processo de verificação com a Meta](https://www.facebook.com/business/help/2058515294227817?id=180505742745347).
 
 <ol start="13">
   <li>Copie o código de verificação exibido no Admin VTEX.</li>
@@ -96,9 +94,7 @@ Para configurar um novo número de WhatsApp você precisará ter acesso de admin
   <li>Clique em <code>Finalizar</code>.</li>
 </ol>
 
-<div class="alert alert-warning">
-Após ativada uma campanha de recuperação de checkout abandonado, pode levar até 48 horas para as métricas de análise começarem a ser exibidas.
-</div>
+>⚠️ Após ativada uma campanha de recuperação de checkout abandonado, pode levar até 48 horas para as métricas de análise começarem a ser exibidas.
 
 <div class = "alert alert-info">
 Saiba mais sobre o <a href="https://help.vtex.com/pt/tutorial/gerenciamento-e-detalhes-do-whatsapp-ai-campaigns--q9JqDErMqGV4zvsYqkD4s">Gerenciamento e detalhes do WhatsApp AI Campaigns</a>.

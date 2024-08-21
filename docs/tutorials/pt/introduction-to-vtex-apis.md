@@ -118,8 +118,6 @@ Elas ficam divididas por módulo ou funcionalidade. Entrando em um destes, você
  
 Para algumas APIs, há também uma Sample Response, que é um exemplo de resposta àquele request.
 
-<div class="alert alert-warning">
-Todo conteúdo que aparece entre chaves (**{{conteúdo}}**) é uma variável, e deve ser substituído pelo dado correto antes de se realizar o request. É o caso, por exemplo, do nome da sua loja, do ambiente desejado e dos valores de AppKey e AppToken.
-</div>
+>⚠️ Todo conteúdo que aparece entre chaves (**{{conteúdo}}**) é uma variável, e deve ser substituído pelo dado correto antes de se realizar o request. É o caso, por exemplo, do nome da sua loja, do ambiente desejado e dos valores de AppKey e AppToken.
 
 Veja como criar o seu appKey e appToken no artigo [Criar appKey e appToken para autenticar integrações](/pt/tutorial/criar-appkey-e-apptoken-para-autenticar-integracoes).

@@ -18,9 +18,7 @@ internalReference: 698005
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Devido a problemas de arredondamento ao recalcular os destinatários de uma transação com Payout Split, seja na captura ou no reembolso, recebemos a seguinte exceção do gateway, pois a soma do valor do destinatário é diferente do valor da transação.

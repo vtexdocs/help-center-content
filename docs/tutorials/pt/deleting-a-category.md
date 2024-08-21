@@ -37,7 +37,7 @@ Outra opção é [limpar o catálogo](https://help.vtex.com/pt/tutorial/entenden
 2. Clique em `Apagar Produtos/SKUs`. Atenção: ao apagar esses elementos, seus Produtos e SKUs, além dos seus itens relacionados, serão removidos de forma definitiva da sua loja. 
 3. Depois, clique em `Apagar Categorias e Marcas`. Atenção: ao apagar esses elementos, Categorias, Marcas e Especificações, além dos seus itens relacionados, serão removidos de forma definitiva da sua loja.
 
-<div class="alert alert-warning"> <p>Por questões de segurança, somente o <a href="https://help.vtex.com/pt/tutorial/o-que-e-o-usuario-master--3oPr7YuIkEYqUGmEqIMSEy">usuário Titular</a> da conta possui acesso à limpeza da base de dados. Caso outro usuário tente acessar esta página, todos os botões estarão inativos.</p></div>
+>⚠️ Por questões de segurança, somente o [usuário Titular](https://help.vtex.com/pt/tutorial/o-que-e-o-usuario-master--3oPr7YuIkEYqUGmEqIMSEy) da conta possui acesso à limpeza da base de dados. Caso outro usuário tente acessar esta página, todos os botões estarão inativos.
 
 ### Artigos relacionados
 - [Cadastrar uma categoria](/pt/tutorial/cadastrando-categoria)

@@ -15,9 +15,7 @@ legacySlug: visao-geral-da-loja-beta
 subcategory: QPnz120TdtLcXSh65c4Gs
 ---
 
-<div class="alert alert-info"> 
-A versão atualizada da página Visão Geral da Loja (Beta) está disponível para uso gratuito no Admin VTEX durante seu período Beta, ou até decidido pela VTEX. É importante observar que podem ser aplicadas taxas extras no futuro. Além disso, a página Visão Geral atualmente presente no Admin VTEX continuará disponível para uso por enquanto.
-</div>
+>ℹ️ A versão atualizada da página Visão Geral da Loja (Beta) está disponível para uso gratuito no Admin VTEX durante seu período Beta, ou até decidido pela VTEX. É importante observar que podem ser aplicadas taxas extras no futuro. Além disso, a página Visão Geral atualmente presente no Admin VTEX continuará disponível para uso por enquanto.
 
 A página Visão Geral (Beta) em seu Admin VTEX fornece um acompanhamento em tempo real da sua operação no dia atual, oferecendo visibilidade sobre indicadores para que você e sua equipe tenham um feedback rápido das ações realizadas na loja e possam atuar prontamente em melhorias. 
 
@@ -65,9 +63,7 @@ Os dados da página são atualizados com frequências diferentes. Os gráficos n
 | Resultados financeiros | - [Receita captada](#monitoramento) <br>- [Ticket Médio](#metricas)<br>- [Produtos com maior receita](#metricas)                                                                                                                                                                                                                         |
 | Conversão              | - [Taxa de Conversão](#metricas) <br>- [Funil de vendas](#funil-de-vendas) <br>- [Pedidos captados](#monitoramento), comparando com o número de Pedidos cancelados. Dependendo do resultado, isso pode direcionar sua equipe a identificar problemas operacionais no fulfillment ou atendimento ao consumidor que causaram os pedidos cancelados. |
 
-<div class="alert alert-info"> 
-Note que enquanto os gráficos em Monitoramento são atualizados em até três minutos, as Métricas são atualizadas de quinze em quinze minutos, o que pode influenciar a sua análise de resultados. Saiba mais em <a href="#atualizacao-de-dados">Atualização de dados</a>.
-</div>
+>ℹ️ Note que enquanto os gráficos em Monitoramento são atualizados em até três minutos, as Métricas são atualizadas de quinze em quinze minutos, o que pode influenciar a sua análise de resultados. Saiba mais em [Atualização de dados](#atualizacao-de-dados).
 
 ### Analisar resultados de campanhas
 

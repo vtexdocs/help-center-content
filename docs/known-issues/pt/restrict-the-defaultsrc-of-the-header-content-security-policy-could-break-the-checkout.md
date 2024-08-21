@@ -18,9 +18,7 @@ internalReference: 763359
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A restrição do cabeçalho da Política de Segurança de Conteúdo pode fazer com que os arquivos de checkout não sejam carregados. Por exemplo, a configuração `default-src 'self'` pode fazer com que arquivos provenientes do vtex.com não sejam carregados.

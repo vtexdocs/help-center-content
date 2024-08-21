@@ -71,9 +71,7 @@ Para criar a **2ª regra**, clique no `<img class="shadow-4" src="https:////imag
 
 Configure a nova regra de autorização e, após definir todas as regras desejadas, clique no botão **SALVAR REGRAS**. Você verá a seguinte mensagem: _Após salvar, você ainda poderá editá-las ou excluí-las quando quiser_. Clique em **OK** para  confirmar. Feito isso, você terá concluído a criação da regra de Divergência de valores.
 
-<div class="alert alert-warning">
-Uma vez que você configure a regra de Divergência de valores, ela passa a valer para todos os marketplaces nos quais você seja seller.
-</div>
+>⚠️ Uma vez que você configure a regra de Divergência de valores, ela passa a valer para todos os marketplaces nos quais você seja seller.
 
 ## Editar regra de Divergência de valores
 
@@ -95,9 +93,7 @@ Uma vez concluídas as alterações desejadas, clique no botão **SALVAR REGRAS*
 
 Quando uma regra de autorização de pedido é configurada para _Criar uma tarefa no VTEX DO para aprovação_, isso significa que ao menos um usuário foi designado para autorizar manualmente o pedido. O [gerenciamento de pedidos com Divergência de valores](https://help.vtex.com/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW#gerenciamento-de-pedidos-com-divergencia-de-valores) é similar ao de outros canais de venda, como loja física ou ecommerce.
 
-<div class="alert alert-warning">
-É importante acompanhar regularmente os pedidos pelo módulo <b>Pedidos</b>, em <b>Pedidos > Todos os pedidos</b>. Caso exijam aprovação manual, os pedidos com erro de divergência de valores permanecem pendentes, aguardando a autorização de um usuário habilitado, definido na criação da regra de autorização. Uma boa prática é ter ao menos dois usuários habilitados a autorizar a aprovação manual.
-</div>
+>⚠️ É importante acompanhar regularmente os pedidos pelo módulo **Pedidos**, em **Pedidos > Todos os pedidos**. Caso exijam aprovação manual, os pedidos com erro de divergência de valores permanecem pendentes, aguardando a autorização de um usuário habilitado, definido na criação da regra de autorização. Uma boa prática é ter ao menos dois usuários habilitados a autorizar a aprovação manual.
 
 Existem duas maneiras de um usuário habilitado autorizar manualmente um pedido com divergência de preço:
 

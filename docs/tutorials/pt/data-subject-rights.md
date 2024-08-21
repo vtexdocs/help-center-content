@@ -25,9 +25,7 @@ Neste artigo, você aprenderá como cumprir com os seguintes direitos dos titula
 - [Consentimento](#consentimento)
 - [Exclusão](#exclusão)
 
-<div class="alert alert-danger">
-A VTEX não se responsabiliza por dados pessoais armazenados por sistemas integrados à sua loja, como por exemplo: ERPs, marketplaces externos, sellers externos, aplicativos de terceiros disponíveis na <a href="https://help.vtex.com/pt/tutorial/visao-geral-apps--4xfsHXyAQTjbZNuiKl6Y0e">VTEX App Store</a> ou customizações implementadas pelo seu time de desenvolvimento. Você deve mapear estes dados e garantir a aplicabilidade dos direitos dos titulares de dados pessoais nestas instâncias, além dos processos descritos abaixo.
-</div>
+>❗ A VTEX não se responsabiliza por dados pessoais armazenados por sistemas integrados à sua loja, como por exemplo: ERPs, marketplaces externos, sellers externos, aplicativos de terceiros disponíveis na [VTEX App Store](https://help.vtex.com/pt/tutorial/visao-geral-apps--4xfsHXyAQTjbZNuiKl6Y0e) ou customizações implementadas pelo seu time de desenvolvimento. Você deve mapear estes dados e garantir a aplicabilidade dos direitos dos titulares de dados pessoais nestas instâncias, além dos processos descritos abaixo.
 
 ## Acesso e portabilidade
 

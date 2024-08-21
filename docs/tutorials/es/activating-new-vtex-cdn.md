@@ -15,9 +15,7 @@ legacySlug: activar-nueva-cdn-de-vtex
 subcategory: 2Za4fjGfxYOo6oqykukgyy
 ---
 
-<div class="alert alert-warning">
-En un compromiso de constante evolución de nuestro producto, VTEX está poniendo a disposición de tus tiendas una nueva CDN (Content Delivery Network). En este nuevo modelo, <strong>todas las páginas del sitio se entregarán a partir de esa nueva CDN especializada</strong>, sin limitarse a los archivos estáticos.
-</div>
+>⚠️ En un compromiso de constante evolución de nuestro producto, VTEX está poniendo a disposición de tus tiendas una nueva CDN (Content Delivery Network). En este nuevo modelo, **todas las páginas del sitio se entregarán a partir de esa nueva CDN especializada**, sin limitarse a los archivos estáticos.
 
 Una Red de Entrega de Contenido (traducción libre de su acrónimo) tiene su foco en seguridad, baja latencia y altas velocidades de transferencia, trabajando con las mejores tecnologías para este propósito, incluso siendo geográficamente cercana al cliente que accede a la tienda virtual.
 
@@ -94,9 +92,7 @@ Indicaciones antiguas usan direcciones como:
 
 Independientemente de cuál sea el caso de tu tienda, deberá realizar la actualización al nuevo estándar.
 
-<div class="alert alert-danger">
-<strong>Importante:</strong> el CNAME antiguo<strong> se debe eliminar</strong>. La existencia de dos entradas en su DNS probablemente va a ocasionar problemas. Se debe mantener sólo la nueva entrada CNAME.
-</div>
+>❗ **Importante:** el CNAME antiguo** se debe eliminar**. La existencia de dos entradas en su DNS probablemente va a ocasionar problemas. Se debe mantener sólo la nueva entrada CNAME.
 
 Não se esqueça de solicitar a ativação final pelo [formulário](https://docs.google.com/forms/d/e/1FAIpQLSdI2FBXGmlSOXEtWxrYfVveln7xOJcmYotqrKfgFgmHn771Fg/viewform). La tienda va a funcionar sólo con CNAME y HTTPS, pero su llenado nos ayuda a activar de forma anticipada la CDN para su tienda, para que disfrutes de las nuevas features.
 

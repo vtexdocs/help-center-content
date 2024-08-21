@@ -30,6 +30,4 @@ Your request will enter a queue, which can be followed through the OMS. When you
 
 To get the information about your best selling products, after downloading the spreadsheet, you must make the account between the columns __AH (Quantity_SKU) __, which says the amount of SKU that was sold, and the column __AI (ID_SKU) __, which refers to the SKU in question.
 
-<div class="alert alert-danger">
-Exports can be made within a 31-day time frame.
-</div>
+>❗ Exports can be made within a 31-day time frame.

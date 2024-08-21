@@ -18,9 +18,7 @@ internalReference: 497880
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, quando a data final de uma coleção programada é atingida, o processo de reindexação dos produtos contidos nela não é acionado, fazendo com que a programação da data final não funcione como um todo.

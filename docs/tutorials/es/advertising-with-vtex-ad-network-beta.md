@@ -51,9 +51,7 @@ Actualmente, VTEX cuenta con un único formato de anuncio: resultados de búsque
 
 7. En la sección **Presupuesto, oferta y cronograma**, haz clic en el botón de editar <i class="fas fa-pencil-alt"></i>.
 8. Define los valores de las ofertas para cada producto. Puedes definir cada valor individualmente.
-	<div class="alert alert-info">
-	La oferta de un producto es el costo por clic (CPC), el valor gastado cuando un usuario hace clic en el anuncio. Más información sobre <a href="https://help.vtex.com/es/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#campanas">campañas</a> y cómo funciona la <a href="https://help.vtex.com/es/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#priorizacion-de-anuncios">subasta</a>.
-	</div>
+	>ℹ️ La oferta de un producto es el costo por clic (CPC), el valor gastado cuando un usuario hace clic en el anuncio. Más información sobre [campañas](https://help.vtex.com/es/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#campanas) y cómo funciona la [subasta](https://help.vtex.com/es/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#priorizacion-de-anuncios).
 9. Haz clic en `Siguiente`.
 10. Define el presupuesto diario de la campaña.
 11. Define la duración de la campaña seleccionando la fecha de fin.

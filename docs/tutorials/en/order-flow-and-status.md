@@ -35,9 +35,7 @@ There are four possible order flows on the VTEX platform:
 - [Complete flow](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196#complete-flow): The order flow visible to the store responsible for the order's sale and delivery. In this case, the store acts both as a seller and marketplace.
 - [Chain flow](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196#chain-flow): The order flow visible to the store that acts as an intermediary between the marketplace and the seller. This flow is similar to the marketplace flow. However, the payment is made only in the marketplace, not in the store that acts as a chain. This flow occurs in [Multilevel Omnichannel Inventory](https://help.vtex.com/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4) sales scenarios.
 
-<div class="alert alert-warning">
-For incomplete orders, check out the article <a href="https://help.vtex.com/en/tutorial/entendendo-os-pedidos-incompletos--tutorials_294">How incomplete orders work</a> to understand their flow and cancellation.
-</div>
+>⚠️ For incomplete orders, check out the article [How incomplete orders work](https://help.vtex.com/en/tutorial/entendendo-os-pedidos-incompletos--tutorials_294) to understand their flow and cancellation.
 
 ### Marketplace flow
 
@@ -65,9 +63,7 @@ This is the order flow visible to the store responsible for shipping the order p
 1. When the seller receives the order, its initial status is `Order accepted`.
 2. Then the order status automatically changes to `Waiting for fulfillment authorization`. This is a waiting status for the marketplace to indicate that the order payment has been confirmed. 
 
-  <div class="alert alert-danger">
-The platform allows you to manually change the status <i>Waiting for fulfillment authorization</i> by clicking <i>Authorize fulfillment</i>. However, when the seller does that manually, it does not necessarily mean that the marketplace has authorized the order fulfillment, which can lead to a mismatch of information. So use this option with caution. We recommend using it only if the marketplace has authorized the order fulfillment.
-</div>
+  >❗ The platform allows you to manually change the status <i>Waiting for fulfillment authorization</i> by clicking <i>Authorize fulfillment</i>. However, when the seller does that manually, it does not necessarily mean that the marketplace has authorized the order fulfillment, which can lead to a mismatch of information. So use this option with caution. We recommend using it only if the marketplace has authorized the order fulfillment.
 
 3. The status automatically changes to `Cancellation window`. The order will remain at this status until the [cancellation window is closed](https://help.vtex.com/en/tutorial/configuracoes-gerais/#orders).
 
@@ -80,20 +76,17 @@ The <i>Cancellation window</i> allows the customer to cancel the purchase withou
     * **Canceled order**: If the customer has requested the order cancellation within the grace period, the order status will change to `Canceling`.
 5. The order will remain in the status `Ready for handling` until the seller changes it by confirming they have started the order handling. The seller can confirm it manually in the Admin, or via ERP API integration using the [Start handling order](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/start-handling) request.
 
-  <div class="alert alert-danger">
-By confirming the order handling, the seller takes responsibility for reserving the order items. From that moment on, if there are any updates in the inventory, the VTEX platform dismisses these SKUs' reservation. Therefore, update the inventory only after the order has been invoiced. By doing so, you avoid inventory discrepancies in the <a href="https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide">integration with your store's backoffice</a>.
-</div>
+  >❗ By confirming the order handling, the seller takes responsibility for reserving the order items. From that moment on, if there are any updates in the inventory, the VTEX platform dismisses these SKUs' reservation. Therefore, update the inventory only after the order has been invoiced. By doing so, you avoid inventory discrepancies in the [integration with your store's backoffice](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide).
 
 6. Once the order is handled, it is time to invoice it. You have to add the invoice to the platform to move to the next stage. In case there are any errors, the order status can remain at `Verifying invoice`. Check out the [most common reasons](https://help.vtex.com/en/tutorial/por-que-o-pedido-esta-no-status-verificando-fatura--5VJjxRjeH6SimiG0Wkk2gm) for the order to remain in this status. Remember that if the order is only partially invoiced, its status may go back to 'Payment approved', and the retailer must add the invoices (the sum of which corresponds to the total value of the order).
 7. The last status of this flow is `Invoiced`. After that, the seller must deliver the order.
 
-<div class="alert alert-danger">
-Please note that:
-<ul>
-  <li>The <b>order can be canceled</b> at various stages of the order flow, either by the customer or the store. In this case, once requested, the cancellation process occurs automatically, as well as the order refund to the customer. The cancellation process is finished when the order status is <i>Canceled</i>.</li>
-  <li>Sellers have the autonomy to manually change the order status when the order is <i>Waiting for fulfillment authorization</i>. In this case, the seller assumes the responsibility of delivering the order without the marketplace confirmation and without receiving the order payment. If the order status has been changed manually, it is the seller's responsibility to check whether the order is ready for handling and the payment has been confirmed.</li>
-</ul>
-</div>
+>❗ Please note that:
+>
+> * The **order can be canceled** at various stages of the order flow, either by the customer or the store. In this case, once requested, the cancellation process occurs automatically, as well as the order refund to the customer. The cancellation process is finished when the order status is <i>Canceled</i>.
+>
+> * Sellers have the autonomy to manually change the order status when the order is <i>Waiting for fulfillment authorization</i>. In this case, the seller assumes the responsibility of delivering the order without the marketplace confirmation and without receiving the order payment. If the order status has been changed manually, it is the seller's responsibility to check whether the order is ready for handling and the payment has been confirmed.
+> 
 
 ### Complete flow
 
@@ -108,9 +101,7 @@ The complete order flow is visible to the store that sells and delivers the orde
     * **The payment of the order is not approved:** The platform initiates the cancellation process. This happens automatically as the order status goes from `Payment denied` to `Canceling`. Once the platform completes the cancellation, the status changes to `Canceled`, which is the last stage of the flow. With the payment approved and the cancellation window expired, the order status changes to `Ready for handling`.
 4. This status shows the retailer that the payment has been confirmed, and they can start handling the order. The store must confirm the order handling has started for the order to advance in the flow. This confirmation can be done manually in the Admin or via an ERP [API](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide) using the [Start handling order](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/start-handling) request.
 
-  <div class="alert alert-danger">
-By confirming the order handling, the seller takes responsibility for reserving the order items. From that moment on, if there are any updates in the inventory, the VTEX platform dismisses these SKUs' reservation. Therefore, update their inventory only after the order has been invoiced. By doing so, you avoid inventory discrepancies in the <a href="https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide">integration with your store's backoffice</a>.
-</div>
+  >❗ By confirming the order handling, the seller takes responsibility for reserving the order items. From that moment on, if there are any updates in the inventory, the VTEX platform dismisses these SKUs' reservation. Therefore, update their inventory only after the order has been invoiced. By doing so, you avoid inventory discrepancies in the [integration with your store's backoffice](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide).
 
 5. Once the order handling starts, the order status changes to `Handling shipping` and the next step is to invoice the order. The system waits for the invoice with status `Verifying invoice`. You must [add the invoice](https://help.vtex.com/en/tutorial/como-faturar-um-pedido-manualmente-beta--7p1h852V5t54KyscpgxE2v) that corresponds to the total value of the order. 
 6. Once this is done, the order status changes to the last status, which is `Invoiced` and the store must ship the order.
@@ -134,9 +125,7 @@ Learn more about cancellation and refunds in the articles <a href="https://help.
 
 While the cancellation is being processed, the order status remains at `Canceling`. The order status changes to `Canceled` when the cancellation is complete.
 
-<div class="alert alert-danger">
-Note that when the cancellation occurs before the store starts handling the order, the items have the <a href="https://help.vtex.com/en/tutorial/how-does-reservation-work--tutorials_92">reservation cancelled</a> in inventory.  However, if the cancellation is made after this stage, the <a href="https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92#acknowledged-reservation">items will already be reserved</a> in the inventory. So the store must update the number of items in stock. This will make the order SKUs available for sale again.
-</div>
+>❗ Note that when the cancellation occurs before the store starts handling the order, the items have the [reservation cancelled](https://help.vtex.com/en/tutorial/how-does-reservation-work--tutorials_92) in inventory.  However, if the cancellation is made after this stage, the [items will already be reserved](https://help.vtex.com/en/tutorial/como-a-reserva-funciona--tutorials_92#acknowledged-reservation) in the inventory. So the store must update the number of items in stock. This will make the order SKUs available for sale again.
 
 Learn more about order cancellation in the article [Why was my order cancelled?](https://help.vtex.com/en/faq/por-que-meu-pedido-foi-cancelado--frequentlyAskedQuestions_493).
 
@@ -163,9 +152,7 @@ Here is a table with more details about each order status. The table is divided 
 - **Viewed by**: The flow in which the status is visible (marketplace, seller, chain, and complete).
 - **Meaning:** The detailed status meaning.
 
-<div class="alert alert-warning">
-Note that the complete order flow (visible to the stores responsible for selling and delivering orders) matches the marketplace and seller flows. Some statuses are visible via API, but not in the order flow in <b>All Orders</b> module.
-</div>
+>⚠️ Note that the complete order flow (visible to the stores responsible for selling and delivering orders) matches the marketplace and seller flows. Some statuses are visible via API, but not in the order flow in **All Orders** module.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}

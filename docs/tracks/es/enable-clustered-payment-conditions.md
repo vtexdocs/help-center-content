@@ -22,9 +22,7 @@ El segundo paso es configurar la propia Clustered Payment Conditions en su tiend
 
 ## Habilitar Customer Credit
 
-<div class="alert alert-info">
-Si Customer Credit ya está instalado y configurado en el Admin, diríjase al paso “Habilitar Clustered Payment Conditions”.
-</div>
+>ℹ️ Si Customer Credit ya está instalado y configurado en el Admin, diríjase al paso “Habilitar Clustered Payment Conditions”.
 
 ### 1. Instalación de la aplicación
 
@@ -40,9 +38,7 @@ Hay algunas [configuraciones básicas](https://help.vtex.com/es/tracks/customer-
 
 ## Habilitar Clustered Payment Conditions en la tienda
 
-<div class="alert alert-warning">
-Esta funcionalidad se encuentra actualmente en Beta Cerrada (etapa de prueba) y no está disponible para su instalación en tiendas nuevas.           
-</div>  
+>⚠️ Esta funcionalidad se encuentra actualmente en Beta Cerrada (etapa de prueba) y no está disponible para su instalación en tiendas nuevas.  
 
 Ahora que Customer Credit funciona en su tienda, puede habilitar Clustered Payment Conditions. Para esto, póngase en contacto con el equipo de soporte de VTEX. Abra un [ticket](https://help.vtex.com/es/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM "ticket") y pida que se active la funcionalidad de su tienda.
 

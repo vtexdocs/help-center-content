@@ -87,9 +87,7 @@ Para vincular um serviço a um SKU, siga os passos abaixo:
 ### Campos da planilha
 Manipule a planilha com cautela, sempre verificando se as informações contidas estão preenchidas corretamente. A planilha precisa estar com todos os campos preenchidos para evitar erros.
 
-<div class="alert alert-warning">
-  <p>Ao preencher a planilha, não altere ou apague os cabeçalhos das colunas na linha 1. Preencha os valores desejados nas linhas após os cabeçalhos das colunas para que a importação funcione corretamente.</p>
-</div>  
+>⚠️ Ao preencher a planilha, não altere ou apague os cabeçalhos das colunas na linha 1. Preencha os valores desejados nas linhas após os cabeçalhos das colunas para que a importação funcione corretamente.  
 
 - **Nome Serviço:** nome do serviço.
 - **Texto Serviço:** texto que será exibido junto com o serviço.

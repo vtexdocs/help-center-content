@@ -83,9 +83,7 @@ Un _marketplace_ puede obtener la información de ubicación del usuario en el _
 
 Incluso cuando VTEX Session no tiene acceso a la ubicación del consumidor, sigue siendo necesario orientar un surtido de productos de los _sellers_ en la experiencia de compra. En este caso, el algoritmo de selección de _sellers_ indica [sellers de extensa cobertura](https://help.vtex.com/es/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI) que pueden entregar pedidos en todas las regiones atendidas por tu _marketplace_.
 
-<div class="alert alert-info">
-La funcionalidad Region solo está adaptada a las tiendas que utilizan VTEX IO, y no es válida para el Portal CMS Legado. 
-</div>
+>ℹ️ La funcionalidad Region solo está adaptada a las tiendas que utilizan VTEX IO, y no es válida para el Portal CMS Legado.
 
 ## Configurar storefront
 

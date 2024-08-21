@@ -18,9 +18,7 @@ internalReference: 670424
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando el usuario elige pagar con dos tarjetas, luego cambia el método de pago y vuelve a pagar con dos tarjetas, aparecerá el mensaje "_Error inesperado"_ en la caja de opciones de pago.

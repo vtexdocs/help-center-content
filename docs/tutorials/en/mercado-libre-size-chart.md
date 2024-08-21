@@ -15,6 +15,4 @@ legacySlug: mercado-libre-size-chart
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-<div class="alert alert-warning">
-  This is a regional exclusive content not applicable to English speaking countries.
-  </div>
+>⚠️ This is a regional exclusive content not applicable to English speaking countries.

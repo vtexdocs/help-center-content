@@ -18,9 +18,7 @@ internalReference: 982830
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Un producto cuyo precio de venta sea inferior a su precio de lista será marcado como parte de una promoción a efectos de filtrado de búsqueda. Los productos con algún multiplicador de unidades pueden dar lugar a un cálculo erróneo que puede afectar a esta comparación, dando lugar a que reciban erróneamente esta bandera.

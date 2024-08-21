@@ -30,6 +30,4 @@ Permite que você utilize um cartão de crédito da Loja com uma das seguintes b
 
 Após essa configuração, será necessária a criação da [Condição de Pagamento](https://help.vtex.com/pt/tutorial/condicoes-de-pagamento).
 
-<div class="alert alert-warning">
-Recomendamos o uso da aprovação automática apenas em casos em que o pagamento será realizado no momento da entrega ou da retirada na loja. Essa opção autoriza o pagamento do pedido, ou seja, o pedido passa automaticamente para o status de Preparando Entrega, sem a verificação do pagamento.
-  </div>
+>⚠️ Recomendamos o uso da aprovação automática apenas em casos em que o pagamento será realizado no momento da entrega ou da retirada na loja. Essa opção autoriza o pagamento do pedido, ou seja, o pedido passa automaticamente para o status de Preparando Entrega, sem a verificação do pagamento.

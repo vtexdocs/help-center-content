@@ -46,7 +46,5 @@ En el caso de Carrito Abandonado, es importante configurar dos filtros: "Checkou
 
 Después de la verificación, es imprescindible guardar todas las informaciones hechas. Posteriormente, los correos electrónicos serán enviados como de costumbre.
 
-<div class="alert alert-warning">
-Además, es importante resaltar que el tiempo de una sesión dura <strong>30 minutos</strong>. Solo después de ese tiempo el sistema considerará la programación del Trigger de Carrito Abandonado. Es decir, el tiempo considerado es el del período de la sesión sumado a la programación del Trigger.
-</div>
+>⚠️ Además, es importante resaltar que el tiempo de una sesión dura **30 minutos**. Solo después de ese tiempo el sistema considerará la programación del Trigger de Carrito Abandonado. Es decir, el tiempo considerado es el del período de la sesión sumado a la programación del Trigger.
 

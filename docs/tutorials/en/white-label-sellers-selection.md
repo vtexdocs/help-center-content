@@ -51,9 +51,7 @@ When a customer is browsing the marketplace from an undefined location, only the
 
 When the marketplace has access to the customer's location, either through captured geolocation or customer provided data, the VTEX platform queries for all the sellers covering that specific region to display the product price and availability in the window display. Learn more in [Setting up price and availability of SKUs by Region](https://help.vtex.com/en/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc).
 
-<div class="alert alert-warning">
-When the customer location is known, the VTEX platform queries for all sellers by default, using the <a href="https://developers.vtex.com/vtex-developer-docs/changelog/region-v2-release">Region v2</a> feature. However, some VTEX stores may still be operating with Region v1, which has a limited seller selection for the window display.
-</div>
+>⚠️ When the customer location is known, the VTEX platform queries for all sellers by default, using the [Region v2](https://developers.vtex.com/vtex-developer-docs/changelog/region-v2-release) feature. However, some VTEX stores may still be operating with Region v1, which has a limited seller selection for the window display.
 
 ## Seller selection in the shopping cart
 

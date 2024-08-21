@@ -34,7 +34,5 @@ Este cambio está motivado por la demanda de los comerciantes de configurar manu
 
 Para activar la funcionalidad Precio Manual para Suscripciones, asegúrate de seguir los pasos descritos en la guía [Enabling manual prices for Subscriptions v3](https://developers.vtex.com/vtex-rest-api/docs/enabling-manual-prices-for-subscriptions-v3).
 
-<div class="alert alert-warning">
-<p>La funcionalidad Precio Manual solo está disponible para Suscripciones v3. Si estás utilizando una versión anterior del sistema de Suscripciones, consulta la guía <a href="https://developers.vtex.com/vtex-rest-api/docs/subscriptions-v3-migration-guide">Subscriptions v3 migration guide</a>.</p>
-</div>
+>⚠️ La funcionalidad Precio Manual solo está disponible para Suscripciones v3. Si estás utilizando una versión anterior del sistema de Suscripciones, consulta la guía [Subscriptions v3 migration guide](https://developers.vtex.com/vtex-rest-api/docs/subscriptions-v3-migration-guide).
 

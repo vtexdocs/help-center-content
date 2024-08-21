@@ -29,6 +29,4 @@ Quando o ERP consulta e insere este pedido em sua base, é preciso que ele infor
 
 > É necessário ter um [perfil de acesso com permissão OMS - Full access](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access "Perfis de acesso - OMS Full access") para realizar esta ação.
 
-<div class="alert alert-warning">
-<p>Se o pedido passar do status <b>Iniciar manuseio</b> manualmente, não será possível enviar o pedido para o ERP posteriormente.</p>
-</div>
+>⚠️ Se o pedido passar do status **Iniciar manuseio** manualmente, não será possível enviar o pedido para o ERP posteriormente.

@@ -23,9 +23,7 @@ This feature is designed for sellers who previously integrated their store's pro
 
 This feature enables sellers to maintain the relevance of their Google Shopping ads. By migrating your integration to the VTEX connector, you preserve the relevance history of your ads.
 
-<div class="alert alert-info">
-Catalog migration maps and matches products in the VTEX catalog with the existing ads in the Google Merchant Center.
-</div>
+>ℹ️ Catalog migration maps and matches products in the VTEX catalog with the existing ads in the Google Merchant Center.
 
 Catalog migration maps and matches products in the VTEX catalog with the existing ads in the Google Merchant Center.
 

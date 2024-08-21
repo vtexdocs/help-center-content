@@ -18,9 +18,7 @@ internalReference: 1069222
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Un **user-agent** es una cadena de texto que un navegador web u otro cliente envía a un servidor web en una cabecera de petición HTTP para identificarse. Esta cadena contiene información sobre el tipo de navegador, sistema operativo, y a veces detalles adicionales como la versión del navegador y el motor de renderizado utilizado.

@@ -18,9 +18,7 @@ internalReference: 382382
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao procurar termos com caracteres especiais como vírgulas (`,`), apóstrofes (```), hashes (``#`) e colons (`:``), isso desencadeia fallback e fuzzy, fazendo com que os resultados da busca pareçam estranhos.

@@ -32,9 +32,7 @@ By setting up the product’s price and inventory conditions, the seller prepare
 - **Containing errors**: when the system detects an issue that prevents an offer from being sent or updated on a channel. This status means that the offer requires manual review.  
 - **Unavailable**: when the offer is discarded for being inactive or not included in the trade policy determined for the channel.
 
-<div class="alert alert-info">
-By clicking on <code>View list</code>, you will be redirected to the <a href="https://help.vtex.com/en/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE">Offers List</a>.
-</div>
+>ℹ️ By clicking on `View list`, you will be redirected to the [Offers List](https://help.vtex.com/en/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE).
 
 ## Channels
 

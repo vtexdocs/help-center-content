@@ -18,9 +18,7 @@ internalReference: 464837
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Las transacciones con 3 métodos de pago que son una de sus tarjetas de regalo tienen importes de reembolso incorrectos. En algunos casos tenemos un reembolso negativo que hace que se cancele el pago.

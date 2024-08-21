@@ -18,9 +18,7 @@ internalReference: 1042779
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 AD BuyBox no actualiza shipping_mode para ME2

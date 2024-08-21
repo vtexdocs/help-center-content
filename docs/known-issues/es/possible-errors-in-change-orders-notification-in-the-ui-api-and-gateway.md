@@ -18,9 +18,7 @@ internalReference: 955489
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Se identificaron algunos problemas en la arquitectura Change Orders V1, donde algunos casos no eran notificados en la interacción de la orden en la UI, no eran notificados en la API Get Orders, sin embargo, había un descuento o incremento en el valor. También hemos visto escenarios donde la notificación ocurre en la UI y API, sin embargo, el descuento o incremento no se realiza en el gateway.

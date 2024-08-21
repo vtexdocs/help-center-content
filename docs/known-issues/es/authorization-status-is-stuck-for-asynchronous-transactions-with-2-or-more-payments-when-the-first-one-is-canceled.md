@@ -18,9 +18,7 @@ internalReference: 929517
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando una transacción tiene múltiples pagos y se vuelve asíncrona debido al modo Sherlock o Defensa, y si el primer intento de autorización de pago falla, puede resultar en que los otros pagos se queden atascados en un estado "Autorizado". Esto se debe a que se cancela toda la transacción, pero nuestro trabajador no lo reconoce y procede con un intento de autorización para el segundo pago. En consecuencia, el segundo pago no puede ser cancelado, ya que la transacción ya ha sido cancelada, y no permite una solicitud de cancelación.

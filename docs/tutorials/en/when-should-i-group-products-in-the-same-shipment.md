@@ -23,9 +23,7 @@ It's very common that within a single purchase products come from different inve
 
 This is a valid practice, for example, in the case of carriers such as Correios (in Brazil), where for each delivery the invoice is required, which is often the same for several items, or in a scenario where a tore has physically distant inventories, which share the same warehouse dock.
 
-<div class="alert alert-warning">
-Shipping groups are created by summing the cost of the inventory and warehouse costs.
-</div>
+>⚠️ Shipping groups are created by summing the cost of the inventory and warehouse costs.
 
 ### Related articles
 - [How to set up shipment](https://help.vtex.com/en/tutorial/como-funciona-a-remessa?locale=en)

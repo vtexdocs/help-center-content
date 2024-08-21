@@ -18,9 +18,7 @@ internalReference: 904482
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La página de administración de búsqueda explicada tiene problemas con las reglas de comercialización y las áreas de campo de búsqueda cuando una búsqueda o un producto tiene demasiada información allí, textos superpuestos entre diferentes secciones/productos.

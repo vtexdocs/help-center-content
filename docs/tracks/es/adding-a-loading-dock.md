@@ -38,11 +38,7 @@ Siga el procedimiento a continuación para registrar un muelle en su tienda:
 - _Transportadoras asociadas_: transportadoras que este muelle atenderá.
 - _Tiempo de Costo_: tiempo que se agregará al cálculo de la entrega debido a la etapa de este muelle. > _Ej.: _ Tiempo de costo del inventario (2 días) + Tiempo de costo del muelle (3 días) + Tiempo de costo de la transportadora (1 día) = La entrega se realizará en 6 días.
 
-<div class="alert alert-info">
-
-<strong>Atención</strong>: el plazo de un muelle es independiente de si una transportadora opera o no los fines de semana y feriados. El tiempo de entrega será siempre la suma del tiempo del stock, de la transportadora y del muelle.
-
-</div>
+>ℹ️ **Atención**: el plazo de un muelle es independiente de si una transportadora opera o no los fines de semana y feriados. El tiempo de entrega será siempre la suma del tiempo del stock, de la transportadora y del muelle.
 
 - _Overhead de tiempo de costo_: valor que se utilizará para elegir el muelle más ventajoso en una entrega determinada. Este valor no se agrega al cálculo del tiempo de entrega.
 > _Ej.: _ Los muelles A y B tienen tiempo de costo de 3 días, pero el muelle A tiene overhead de 1 día, mientras que el muelle B tiene overhead de 2 días. En este caso, se elegirá el muelle A.
@@ -53,9 +49,7 @@ Siga el procedimiento a continuación para registrar un muelle en su tienda:
 
 ## API REST
 
-<div class="alert alert-warning">
-Las autenticaciones para las llamadas de API REST del módulo de Inventario y Envío deben realizarse a través de AppKey y AppToken. Para entender más, acceda a nuestro artículo sobre <a href="https://help.vtex.com/es/tutorial/crear-appkey-y-apptoken-para-autenticar-las-integraciones--43tQeyQJgAKGEuCqQKAOI2"> cómo generar un Appkey y un AppToken para autenticar sus integraciones</a>
-</div>
+>⚠️ Las autenticaciones para las llamadas de API REST del módulo de Inventario y Envío deben realizarse a través de AppKey y AppToken. Para entender más, acceda a nuestro artículo sobre [ cómo generar un Appkey y un AppToken para autenticar sus integraciones](https://help.vtex.com/es/tutorial/crear-appkey-y-apptoken-para-autenticar-las-integraciones--43tQeyQJgAKGEuCqQKAOI2)
 
 Para registrar un **Muelle** por API, debe enviar un __POST__ para el siguiente  endpoint:
 

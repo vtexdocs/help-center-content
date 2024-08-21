@@ -46,14 +46,13 @@ Toda conta franquia atua automaticamente como um Seller White Label da conta pri
 
 Os clientes finais não escolhem e não têm visibilidade da existência dos Sellers White Label em nenhum momento do processo. Nessa lógica, a relação dos consumidores é com a marca (conta principal) e não com cada loja física (conta franquia).
 
-<div class="alert alert-info">
-<p>Apesar de toda conta franquia atuar como Seller White Label da conta principal, esses conceitos não significam a mesma coisa. A conta franquia é um tipo de conta, enquanto ser White Label é uma propriedade de um seller.
-<ul>
-<li><strong>Conta</strong>: pode ser do tipo franquia ou pode ser uma conta normal.</li>
-<li><strong>Seller</strong>: pode ser do tipo White Label ou pode ser do tipo não White Label.</li>
-</ul>
-Como esses conceitos são independentes, <strong>eventualmente</strong> é possível que uma conta franquia atue como seller não White Label de um outro marketplace, diferente da conta principal.</p>
-</div>
+>ℹ️ Apesar de toda conta franquia atuar como Seller White Label da conta principal, esses conceitos não significam a mesma coisa. A conta franquia é um tipo de conta, enquanto ser White Label é uma propriedade de um seller.
+>
+> ***Conta**: pode ser do tipo franquia ou pode ser uma conta normal.
+>
+> ***Seller**: pode ser do tipo White Label ou pode ser do tipo não White Label.
+>
+> Como esses conceitos são independentes, **eventualmente** é possível que uma conta franquia atue como seller não White Label de um outro marketplace, diferente da conta principal.
 
 ## Configurações da conta franquia
 
@@ -96,9 +95,7 @@ Uma vez que você tenha [alterado essa configuração](#configurar-meios-de-paga
 
 A VTEX oferece soluções de split de pagamentos que podem tornar automática a distribuição de recebíveis para sellers. Recomendamos a leitura do artigo [Split de pagamento](https://help.vtex.com/pt/tutorial/split-de-pagamento--6k5JidhYRUxileNolY2VLx) para mais informações.
 
-<div class="alert alert-warning">
-<p>Caso você deseje implementar o VTEX Sales App,é necessario que as lojas físicas utilizem os meios de pagamento da conta principal.</p>
-</div>
+>⚠️ Caso você deseje implementar o VTEX Sales App,é necessario que as lojas físicas utilizem os meios de pagamento da conta principal.
 
 ## Solicitar criação de conta franquia
 

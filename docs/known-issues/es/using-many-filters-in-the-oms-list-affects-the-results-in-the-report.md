@@ -18,9 +18,7 @@ internalReference: 756198
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El uso de filtros en la Lista de Gestión de Pedidos genera un parámetro en la URL que ayuda a definir lo que se muestra al cargar la página y a generar el informe de pedidos exportados. En ese sentido, a medida que usamos más y más filtros, los parámetros incluidos en la URL aumentan proporcionalmente, y la cadena de consulta también, alcanzando puntos (tamaño) que pueden generar varios tipos de comportamientos no deseados.

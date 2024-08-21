@@ -18,9 +18,7 @@ internalReference: 563507
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o endereço é inserido através do código postal API e estes dados são atualizados nos dados de envio antes de chegar ao checkout. Se nosso API postal não retornar todos os dados completos, por exemplo, rua, bairro, etc. Eles estarão faltando nos dados de envio. O problema é que quando o cliente usa o componente de geolocalização em seu checkout, ele não executa a validação que falta nestes campos, deixando o usuário para ir para a etapa de pagamento sem preencher os dados que não estão completos.

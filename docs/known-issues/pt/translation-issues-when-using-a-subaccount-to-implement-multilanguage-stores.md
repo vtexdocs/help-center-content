@@ -18,9 +18,7 @@ internalReference: 848524
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A indexação unificada do catálogo considera as traduções das mensagens apenas da conta principal, mesmo quando se usa uma arquitetura de subconta para implementar armazenamentos internacionais.

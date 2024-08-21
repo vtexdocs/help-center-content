@@ -18,9 +18,7 @@ internalReference: 449341
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al utilizar cualquier promoción que provoque la división de un artículo y se seleccionen dos vendedores diferentes, al hacer clic en "Comprar ahora" aparecerá el mensaje "El tipo de carga ha cambiado", lo que impedirá que se complete la compra.

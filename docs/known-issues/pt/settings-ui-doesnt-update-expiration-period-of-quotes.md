@@ -18,9 +18,7 @@ internalReference: 876576
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A UI de configurações de cotação B2B não atualiza o valor do período de expiração; ele é sempre 30.

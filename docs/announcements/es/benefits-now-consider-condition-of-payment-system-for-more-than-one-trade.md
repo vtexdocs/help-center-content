@@ -25,6 +25,4 @@ Anteriormente, las promociones con condiciones de medio de pago sólo se aplicab
 
 En el escenario actual, las promociones pasan a considerar la condición de medio de pago por política comercial. Esto significa que una promoción con filtro de medio de pago puede aplicarse a más de una política comercial. Con esta mejora, el minorista tiene mayor flexibilidad para configurar sus promociones.
 
-<div class="alert alert-danger">
-Es importante resaltar que esta feature <strong>no es válida</strong> para las políticas comerciales de terceros.
-</div>
+>❗ Es importante resaltar que esta feature **no es válida** para las políticas comerciales de terceros.

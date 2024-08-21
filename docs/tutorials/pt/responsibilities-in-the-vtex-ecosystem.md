@@ -178,9 +178,7 @@ Ainda assim, podem existir lojas parceiras estratégicas para o seu negócio que
 
 Para o suporte de uma operação nesse cenário, é importante que o lojista entenda quais as responsabilidades de cada participante dessa operação, detalhadas a seguir.
 
-<div class="alert alert-warning">
-  <p>As seções a seguir consideram uma loja que já está operando integrada com um marketplace externo via conector externo. Para saber como integrar o seu Catálogo da VTEX com um conector externo pela primeira vez, acesse o guia <a href="https://developers.vtex.com/docs/guides/external-marketplace-integration-catalog" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Catalog Integration</a>.</p>
-</div>
+>⚠️ As seções a seguir consideram uma loja que já está operando integrada com um marketplace externo via conector externo. Para saber como integrar o seu Catálogo da VTEX com um conector externo pela primeira vez, acesse o guia [Catalog Integration](https://developers.vtex.com/docs/guides/external-marketplace-integration-catalog" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word).
 
 ### Atualização ou envio de novos produtos e SKUs
 

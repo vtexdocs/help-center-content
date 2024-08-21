@@ -18,9 +18,7 @@ internalReference: 852869
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, cuando un archivo de imagen SKU se actualiza a través de la API para estar en la misma posición que uno anterior, su etiqueta de versión (?v=) en la página del producto no se actualiza correctamente.

@@ -39,9 +39,7 @@ La información aplicada para establecer la relevancia es:
 
 El conjunto de distribución de pesos y criterios genera una puntuación para el producto, lo que ayuda a su posicionamiento en el orden del resultado de la búsqueda.
 
-<div class="alert alert-warning">
-  <p>Si deseas utilizar los criterios de prioridad, recomendamos agregar solo un criterio en este campo. Agregar más criterios compromete la ordenación de los resultados de búsqueda, ya que solo se considerará el primer criterio.</p>
-</div>
+>⚠️ Si deseas utilizar los criterios de prioridad, recomendamos agregar solo un criterio en este campo. Agregar más criterios compromete la ordenación de los resultados de búsqueda, ya que solo se considerará el primer criterio.
 
 De esta manera, es posible adaptar el comportamiento del resultado de búsqueda a una estrategia específica.
 

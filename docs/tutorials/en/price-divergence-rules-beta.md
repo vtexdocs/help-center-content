@@ -33,7 +33,7 @@ You can manage and manually approve orders via OMS or [VTEX DO](https://help.vte
 
 The default configuration in a price divergence rule is to `automatically deny` orders that present a divergence percentage from 0% to 30%. But you can change this configuration or even create new rules.
 
-<div class="alert alert-info">If you have a price divergence rule (Beta) configured, you no longer need to configure the Price Divergence field in the marketplace integration. If the Price Divergence field has already been configured in your integration, it will no longer be valid.</div>
+>ℹ️ If you have a price divergence rule (Beta) configured, you no longer need to configure the Price Divergence field in the marketplace integration. If the Price Divergence field has already been configured in your integration, it will no longer be valid.
 
 ## Configuring the price divergence rule (Beta)
 
@@ -84,10 +84,8 @@ You can approve orders with the status `Waiting for manual authorization` by:
 - [Manually authorizing orders in the OMS](#manually-authorizing-orders-in-the-oms)
 - [Authorizing orders via VTEX DO](#authorizing-orders-via-vtex-do)
 
-<div class="alert alert-warning">
-You must have permission from the account owner to authorize requests, otherwise, the following message will be displayed: 
-“You do not have authorization rules yet. Then all cases of divergences are automatically denied.”
-</div>
+>⚠️ You must have permission from the account owner to authorize requests, otherwise, the following message will be displayed: 
+> “You do not have authorization rules yet. Then all cases of divergences are automatically denied.”
 
 ### Manually authorizing orders in the OMS
 

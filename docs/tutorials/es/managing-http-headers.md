@@ -45,9 +45,7 @@ A continuación se indican los encabezados que admiten modificación:
 
 Puedes configurar un encabezado personalizado, es decir, un valor que no está estandarizado y que es una adaptación a los requisitos o funcionalidades particulares de las necesidades de la tienda.
 
-<div class="alert alert-warning">
-Solo se puede agregar un encabezado personalizado por cuenta.
-</div>
+>⚠️ Solo se puede agregar un encabezado personalizado por cuenta.
 
 Si necesitas configurar un encabezado personalizado, abre un ticket con el soporte VTEX y proporciona las claves y valores. Esta información es tu responsabilidad. Puedes utilizar la documentación de [MDN HTTP headers](https://developer.mozilla.org/es/docs/Web/HTTP/Headers) como guía.
 

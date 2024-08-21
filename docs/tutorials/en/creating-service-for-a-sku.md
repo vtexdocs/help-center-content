@@ -86,9 +86,7 @@ To link a service to a SKU, please follow the steps below:
 ### Template fields
 Use the template carefully, always making sure that the information is correctly filled in. In order to avoid errors, all fields in the template must be filled in.
 
-<div class="alert alert-warning">
-  <p>When filling the spreadsheet, do not change or delete the column headings in row 1. Fill in the desired values in the rows after the column headings for the import to work correctly.</p>
-</div>  
+>⚠️ When filling the spreadsheet, do not change or delete the column headings in row 1. Fill in the desired values in the rows after the column headings for the import to work correctly.  
 
 - **Nome Serviço:** name of the service.
 - **Texto Serviço:** text that will be displayed along with the service.

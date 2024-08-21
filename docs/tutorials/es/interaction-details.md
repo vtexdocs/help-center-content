@@ -15,12 +15,10 @@ legacySlug: detalles-del-interaccion
 subcategory: 
 ---
 
-<div class="alert alert-info">
-Para evolucionar su experiencia al sincronizar y actualizar anuncios, el equipo de VTEX está desarrollando una nueva funcionalidad que sustituirá el módulo de <b>Gestión de anuncios</b>.
-Por este motivo, Gestión de anuncios no recibirá más actualizaciones ni mantenimiento.
-Para conectores y marketplaces que ya se integraron con el módulo, comuníquese con nuestro equipo de desarrollo por email <a href="taissa.araujo@vtex.com.br">taissa.araujo@vtex.com.br</a>.
-Para los conectores interesados en comenzar la integración, les pedimos que esperen el lanzamiento del nuevo módulo, tan pronto como esté disponible, notificaremos a todos los clientes a través del <a href="https://developers.vtex.com/updates/release-notes">Developer Portal</a> y el <a href="https://help.vtex.com/pt/en/announcements">VTEX Help Center</a>.
- </div>  
+>ℹ️ Para evolucionar su experiencia al sincronizar y actualizar anuncios, el equipo de VTEX está desarrollando una nueva funcionalidad que sustituirá el módulo de **Gestión de anuncios**.
+> Por este motivo, Gestión de anuncios no recibirá más actualizaciones ni mantenimiento.
+> Para conectores y marketplaces que ya se integraron con el módulo, comuníquese con nuestro equipo de desarrollo por email [taissa.araujo@vtex.com.br](taissa.araujo@vtex.com.br).
+> Para los conectores interesados en comenzar la integración, les pedimos que esperen el lanzamiento del nuevo módulo, tan pronto como esté disponible, notificaremos a todos los clientes a través del [Developer Portal](https://developers.vtex.com/updates/release-notes) y el [VTEX Help Center](https://help.vtex.com/pt/en/announcements).  
 
 La página **Detalles de la interacción** del módulo [Gestión de anuncios](https://help.vtex.com/es/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE) permite que los sellers visualicen de forma más completa todas las interacciones que ocurren en un anuncio durante su proceso de envío y sincronización con un canal. Detalles de la interacción estarán disponibles durante diez días después del registro.
 

@@ -32,9 +32,7 @@ Si deseas configurar una [regla de merchandising](https://help.vtex.com/es/track
   Para aplicar el efecto de personalización deseado, debes definir una o varias condiciones en esta etapa. Si deseas conocer cómo registrar una condición, lee [Condiciones de las reglas de merchandising](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3Dvava8LSVcFKeS2S6J7XW).
 10. Haz clic en `Guardar`.
 
-<div class="alert alert-info">
-  <p>Una vez guardados, la actualización de los cambios en las reglas de merchandising demoran un promedio de dos minutos.</p>
-</div>
+>ℹ️ Una vez guardados, la actualización de los cambios en las reglas de merchandising demoran un promedio de dos minutos.
 
 ## Ejemplo
 
@@ -78,9 +76,7 @@ Considera el siguiente ejemplo: deseas promover productos de la marca Beautyx du
 
 * **Remover**: excluye las condiciones seleccionadas del resultado, es decir, elimina los productos que estarán en el resultado de la búsqueda.
 
-  <div class="alert alert-info">
-   <p><strong>Agregar</strong> y <strong>Eliminar</strong> son compatibles con otros tipos de formas de ordenar que no se basan en la relevancia configurada. Por lo tanto, si agregas o eliminas un producto utilizando una regla de <em>merchandising </em>y si, por ejemplo, el cliente de tu tienda ordena los resultados de búsqueda por precio, los productos se ordenarán por precio, pero los productos mostrados respetarán la regla de <em>merchandising</em>.</p>
-  </div>
+  >ℹ️ **Agregar** y **Eliminar** son compatibles con otros tipos de formas de ordenar que no se basan en la relevancia configurada. Por lo tanto, si agregas o eliminas un producto utilizando una regla de *merchandising *y si, por ejemplo, el cliente de tu tienda ordena los resultados de búsqueda por precio, los productos se ordenarán por precio, pero los productos mostrados respetarán la regla de *merchandising*.
 
 * **Promover**: resalta las condiciones seleccionadas en el resultado. Da más relevancia a un producto que ya aparecería en el resultado de la búsqueda.
 
@@ -88,10 +84,6 @@ Considera el siguiente ejemplo: deseas promover productos de la marca Beautyx du
 
 * **Dejar de promover**: oculta las condiciones seleccionadas en el resultado. Permite dejar de priorizar un producto que ya aparece en los resultados de la búsqueda.
 
-  <div class="alert alert-info">
-   <p><strong>Promover</strong> y <strong>Dejar de promover</strong> solo funcionan cuando el cliente de la tienda ordena los resultados de la búsqueda por relevancia. En cambio, si ordena los resultados por precio, por ejemplo, los productos se ordenarán estrictamente por precio y no se utilizará la regla de <em>merchandising</em>.</p>
-  </div>
+  >ℹ️ **Promover** y **Dejar de promover** solo funcionan cuando el cliente de la tienda ordena los resultados de la búsqueda por relevancia. En cambio, si ordena los resultados por precio, por ejemplo, los productos se ordenarán estrictamente por precio y no se utilizará la regla de *merchandising*.
 
-  <div class="alert alert-warning">
-   <p>No configures condiciones que afecten a los mismos productos tanto en la sección <strong>Promover</strong> como en la sección <strong>Dejar de promover</strong> porque se producirán efectos opuestos. Si la configuración de esta condición es incorrecta, esa configuración incorrecta afecta negativamente el comportamiento de la funcionalidad y no se mostrarán los resultados deseados.</p>
-  </div>
+  >⚠️ No configures condiciones que afecten a los mismos productos tanto en la sección **Promover** como en la sección **Dejar de promover** porque se producirán efectos opuestos. Si la configuración de esta condición es incorrecta, esa configuración incorrecta afecta negativamente el comportamiento de la funcionalidad y no se mostrarán los resultados deseados.

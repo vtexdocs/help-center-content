@@ -105,9 +105,7 @@ Para ativar ou desativar uma política de envio, realize os passos abaixo:
 
 Para excluir uma política de envio, realize os passos abaixo:
 
-<div class="alert alert-danger">
-A ação de excluir uma política de envio é permanente e não pode ser desfeita.
-</div>
+>❗ A ação de excluir uma política de envio é permanente e não pode ser desfeita.
 
 1. No Admin VTEX, acesse **Envio > Estratégia de Envio** ou digite **Estratégia de envio** na barra de busca no topo da página.
 2. Na aba **Políticas de envio**, na linha correspondente à política desejada, clique no ícone menu <i class="fas fa-ellipsis-v"></i>. Você pode [pesquisar](#pesquisar-politica-de-envio) ou [filtrar](#filtrar-politicas-de-envio) políticas.

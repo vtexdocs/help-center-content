@@ -18,9 +18,7 @@ internalReference: 1044571
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Na lista de produtos reformulada do catálogo, um dos campos de pesquisa é "Product name contains" (O nome do produto contém). Atualmente, ao pesquisar um nome de produto com mais de um termo, podem ocorrer duas situações:

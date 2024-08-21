@@ -18,9 +18,7 @@ internalReference: 929428
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al duplicar una forma de pago que no tiene fraccionamiento, el operador recibe en pantalla el siguiente mensaje: "El sistema de pago actual no permite opciones de fraccionamiento". Esto sucede porque al crear el cuerpo de la solicitud de creación de la nueva regla, se insertan por defecto algunos campos, entre ellos installmentOptions, pero este campo no existe para pagos en efectivo como débito y boleto(Brasil).

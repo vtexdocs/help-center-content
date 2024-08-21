@@ -45,9 +45,7 @@ Quando tiver as chaves em mãos, entre em contato novamente com a Provu e inform
 
 Por fim, a Provu lhe informará as suas credenciais - Key e Token -, necessárias para cadastrar finalizar o cadastro da afiliação.
 
-<div class="alert alert-danger">
-Guarde as credenciais da Provu em lugar seguro, em que não irá perdê-las. Os valores da Key e do Token são imprescindíveis para o cadastro da afiliação. 
-</div>
+>❗ Guarde as credenciais da Provu em lugar seguro, em que não irá perdê-las. Os valores da Key e do Token são imprescindíveis para o cadastro da afiliação.
 
 ### 2. Cadastro da afiliação
 
@@ -60,9 +58,7 @@ Com as credenciais da Provu em mãos, prossiga com as instruções a seguir:
 3. Digite o nome __Lendico__ na barra de busca e clique sobre o nome do provedor.
 4. Preencha o campo __Nome da Afiliação__.
 5. Logo abaixo, clique no botão __Live/Produção__ para ativar a afiliação.
-<div class="alert alert-warning">
-Confira se a área ao redor do botão mudou a cor para verde. Isso indica que a afiliação será ativada ao final da configuração. 
-</div>
+>⚠️ Confira se a área ao redor do botão mudou a cor para verde. Isso indica que a afiliação será ativada ao final da configuração.
 6. Do lado direito da tela, preencha os campos __Aplication Key__ e __Aplication Token__ com os respectivos dados fornecidos pela própria Lendico.
 7. Clique em __Salvar__.
 

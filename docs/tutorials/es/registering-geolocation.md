@@ -32,9 +32,7 @@ Accediendo a través del enlace [Genere sus polígonos con geojson.io](http://ge
 
 Usted usará ese JSon para añadir el polígono en la plataforma, que comprenderá a partir de ese lenguaje cuáles códigos postales están incluidos en esa área.
 
-<div class="alert alert-danger">
-En la configuración de un polígono, no es posible delimitar áreas superpuestas, o sea, no es posible superponer coordenadas geográficas.
-</div>
+>❗ En la configuración de un polígono, no es posible delimitar áreas superpuestas, o sea, no es posible superponer coordenadas geográficas.
 
 ## Cómo añadir un Polígono
 

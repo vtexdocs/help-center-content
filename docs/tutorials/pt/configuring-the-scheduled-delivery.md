@@ -15,10 +15,8 @@ legacySlug: como-funciona-a-entrega-agendada
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-<div class="alert alert-info">
-Aviso: Esta documentação está em processo de atualização para refletir a mudança do conceito de Painéis para 
-<a href="https://help.vtex.com/pt/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl">estratégia de envio</a>.
-</div> 
+>ℹ️ Aviso: Esta documentação está em processo de atualização para refletir a mudança do conceito de Painéis para 
+> [estratégia de envio](https://help.vtex.com/pt/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl). 
 
 
 A entrega agendada é uma funcionalidade que permite definir períodos de entrega personalizados, podendo definir prazos e preços específicos, disponibilizando para o cliente a escolha do intervalo de horário em que deseja receber seu pedido. 

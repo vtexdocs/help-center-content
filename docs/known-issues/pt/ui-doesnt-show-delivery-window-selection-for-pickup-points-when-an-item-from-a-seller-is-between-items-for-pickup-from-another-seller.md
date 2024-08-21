@@ -18,9 +18,7 @@ internalReference: 954108
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Em um carrinho com pelo menos três produtos, onde os pedidos de itens são: O primeiro é para a retirada programada 1, o segundo é para a retirada programada 2 (vendedor diferente) e o terceiro é para a retirada programada 1, a interface do usuário não mostrará as janelas de entrega para selecionar a data/hora da segunda retirada. Isso acontece porque a API agrupará o 1º item e o 3º item, já que se trata do mesmo SLA.

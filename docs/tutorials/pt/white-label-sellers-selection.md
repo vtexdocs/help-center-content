@@ -51,9 +51,7 @@ Quando um cliente está navegando no marketplace e sua localização não é con
 
 Seja por meio de geocoordenadas capturadas ou por dados fornecidos pelo cliente, quando o marketplace dispõe da localização do cliente, a plataforma VTEX consegue consultar todos os sellers que atendem àquela região para exibir preço e disponibilidade de produtos na vitrine. Saiba mais em [Configurar preço e disponibilidade de SKUs por Region](https://help.vtex.com/pt/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc).
 
-<div class="alert alert-warning">
-Quando a localização do cliente é conhecida, a consulta a todos os sellers é o comportamento padrão da plataforma VTEX, conforme a funcionalidade <a href="https://developers.vtex.com/vtex-developer-docs/changelog/region-v2-release">Region v2</a>. No entanto, é possível que algumas lojas VTEX ainda operem com o Region v1, que possui limitações na seleção de sellers para a vitrine.
-</div>
+>⚠️ Quando a localização do cliente é conhecida, a consulta a todos os sellers é o comportamento padrão da plataforma VTEX, conforme a funcionalidade [Region v2](https://developers.vtex.com/vtex-developer-docs/changelog/region-v2-release). No entanto, é possível que algumas lojas VTEX ainda operem com o Region v1, que possui limitações na seleção de sellers para a vitrine.
 
 ## Seleção de sellers no carrinho
 

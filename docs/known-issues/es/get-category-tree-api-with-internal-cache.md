@@ -18,9 +18,7 @@ internalReference: 480892
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La API GET Árbol de Categorías tiene una caché interna. Cuando se realiza una petición utilizando el dominio interno de VTEX y luego, se realiza la misma petición utilizando el dominio del cliente, la primera petición se almacenará en la caché y en la respuesta de la segunda petición, realizada utilizando el dominio del cliente, devolveremos las URL de las categorías con el dominio interno de VTEX.

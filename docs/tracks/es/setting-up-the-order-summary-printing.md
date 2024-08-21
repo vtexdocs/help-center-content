@@ -25,9 +25,7 @@ Se requieren dos pasos:
 
 ## Habilite la opción de configuración del dispositivo
 
-<div class="alert alert-danger">
-La habilitación de la opción de configuración del dispositivo se realiza mediante un cambio en el archivo JavaScript <code>checkout-instore-custom.js</code>. Esta operación solo debe ser realizada por personas con experiencia en programación. Cambios incorrectos en este archivo pueden causar errores críticos.
-</div>
+>❗ La habilitación de la opción de configuración del dispositivo se realiza mediante un cambio en el archivo JavaScript `checkout-instore-custom.js`. Esta operación solo debe ser realizada por personas con experiencia en programación. Cambios incorrectos en este archivo pueden causar errores críticos.
 
 Primero, abra el archivo `checkout-instore-custom.js`, disponible en el Admin de su cuenta VTEX (si no sabe cómo acceder a este archivo, consulte el tutorial [Cómo personalizar el inStore](https://help.vtex.com/es/tracks/instore-customizacoes--1z9kBm12oBPyVNDo1ivVc2)).
 
@@ -44,17 +42,13 @@ window.INSTORE_CONFIG = {
 }
 ```
 
-<div class="alert alert-danger">
-No elimine ninguna de las otras propiedades presentes en el objeto <code>window.INSTORE_CONFIG</code>, para evitar romper otras funciones.
-</div>
+>❗ No elimine ninguna de las otras propiedades presentes en el objeto `window.INSTORE_CONFIG`, para evitar romper otras funciones.
 
 Este cambio hará que la opción __Configurar dispositivo__ aparezca en el menú principal de inStore, como se muestra en la imagen a continuación. Es a través de esta opción que configuraremos la impresora.
 
 ![15. Configurar impressão de resumo do pedido - 2](https://images.ctfassets.net/alneenqid6w5/KxD08Gfiwa8mj6y6KzaKu/7fab9110af8d1337f5646252b8c9387c/15._Configurar_impress__o_de_resumo_do_pedido_-_2.png)
 
-<div class="alert alert-info">
-<strong>Nota:</strong> hay una opción para imprimir automáticamente el resumen del pedido tan pronto como se complete el pedido. Para habilitarla, agregue la propiedad <code>printPageAutomatically</code> con el valor <code>true</code> dentro del objeto <code>printingConfig</code>. Vea a continuación cómo se vería el código en este caso.
-</div>
+>ℹ️ **Nota:** hay una opción para imprimir automáticamente el resumen del pedido tan pronto como se complete el pedido. Para habilitarla, agregue la propiedad `printPageAutomatically` con el valor `true` dentro del objeto `printingConfig`. Vea a continuación cómo se vería el código en este caso.
 
 ```json
 window.INSTORE_CONFIG = { 
@@ -66,17 +60,13 @@ window.INSTORE_CONFIG = {
 }
 ```
 
-<div class="alert alert-danger">
-Nuevamente, no elimine ninguna de las otras propiedades presentes en el objeto <code>window.INSTORE_CONFIG</code>, para evitar romper otras funciones.
-</div>
+>❗ Nuevamente, no elimine ninguna de las otras propiedades presentes en el objeto `window.INSTORE_CONFIG`, para evitar romper otras funciones.
 
 ## Configure el dispositivo de impresora en inStore
 
 Ahora veamos cómo configurar una impresora conectada a inStore para imprimir resúmenes de pedidos.
 
-<div class="alert alert-warning">
-En primer lugar, para conectar una impresora al sistema de inStore, es necesario tener un par de credenciales VTEX (AppKey y AppToken) con los permisos de acceso adecuados. Recomendamos que el perfil de acceso vinculado a estas credenciales sea <code>inStore Sales Person</code>. Sin embargo, también se puede usar un perfil con más poderes, como Admin Super.
-</div>
+>⚠️ En primer lugar, para conectar una impresora al sistema de inStore, es necesario tener un par de credenciales VTEX (AppKey y AppToken) con los permisos de acceso adecuados. Recomendamos que el perfil de acceso vinculado a estas credenciales sea `inStore Sales Person`. Sin embargo, también se puede usar un perfil con más poderes, como Admin Super.
 
 Con AppKey y AppToken en mano, siga los pasos a continuación:
 

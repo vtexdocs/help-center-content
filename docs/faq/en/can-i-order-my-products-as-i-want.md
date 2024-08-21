@@ -36,6 +36,4 @@ The parameters are as follows:
 
 For example: `http://www.{AccountName}.com/{departament}/{category}?O=OrderByPriceASC`
 
-<div class="alert alert-warning">
-<strong>You can only use one product order parameter at a time.</strong> Therefore, you have to choose the one that best suits your store's needs (remember that parameters can be changed at will).
-</div>
+>⚠️ **You can only use one product order parameter at a time.** Therefore, you have to choose the one that best suits your store's needs (remember that parameters can be changed at will).

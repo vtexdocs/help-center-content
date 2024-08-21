@@ -18,9 +18,7 @@ internalReference: 566142
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La API REST de Checkout Cambiar precio no admite precios superiores a un valor "Int32". Por lo tanto, aplicar un "precio manual" estará restringido hasta el número "2.147.483.647" (número en decimales).

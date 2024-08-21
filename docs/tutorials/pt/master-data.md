@@ -209,9 +209,7 @@ Confira a tabela abaixo para saber mais sobre as funcionalidades de cada versão
    </table>
 </div>
 
-<div class="alert alert-danger">
-Note que as entidades de dados das duas versões são independentes, mesmo que algumas possam ser análogas. Isso significa que um dado criado em uma entidade da v1 não pode ser consultado nem editado usando recursos da v2 e vice versa.
-</div>
+>❗ Note que as entidades de dados das duas versões são independentes, mesmo que algumas possam ser análogas. Isso significa que um dado criado em uma entidade da v1 não pode ser consultado nem editado usando recursos da v2 e vice versa.
 
 ## Componentes básicos
 

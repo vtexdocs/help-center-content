@@ -125,9 +125,7 @@ Para ver los eventos ocurridos en un día específico, pasa el mouse sobre la fe
 
 ![statuspage-8](https://images.ctfassets.net/alneenqid6w5/2aRBMeTVELfszcFQFpXyUJ/0fff21b4393a61f149857c0bb353ef4a/statuspage-8.png)
 
-<div class="alert alert-warning">
-  <p>Si un mantenimiento programado dura más de un día, solo se marcará la fecha de inicio en el calendario. Debes abrir el <a href="#registro-de-mantenimiento-programado">registro de mantenimiento</a> para ver la fecha de inicio y la fecha de fin.</p>
-</div>
+>⚠️ Si un mantenimiento programado dura más de un día, solo se marcará la fecha de inicio en el calendario. Debes abrir el [registro de mantenimiento](#registro-de-mantenimiento-programado) para ver la fecha de inicio y la fecha de fin.
 
 A continueación, describimos la información disponible en el registro del incidente y en el registro de mantenimiento programado.
 

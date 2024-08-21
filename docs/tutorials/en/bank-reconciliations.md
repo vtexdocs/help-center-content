@@ -21,9 +21,7 @@ The complete flow is: purchase closed with slip option on the website&gt; order 
 
 As explained in our document [How long until an order whose slip was not paid is cancelled?](/hc/pt-br/articles/215033318 "How long until an order whose slip was not paid is cancelled?"), there is a deadline for the cancellation of the order, if it is not reported as paid on the Approved Payment status (manually in the OMS or by bank reconciliation). In this case, the order will remain in the Pending Payment status until it is canceled.
 
-<div class="alert alert-warning">
-The procedures in this article are not applicable to integrations that perform bank reconciliation automatically.
-</div>
+>⚠️ The procedures in this article are not applicable to integrations that perform bank reconciliation automatically.
 
 ## How to upload
 

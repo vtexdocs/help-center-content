@@ -40,7 +40,7 @@ Para adicionar seu código nesses templates, basta acessar o módulo Portal e, n
 
 ### Customização de estilos
 
-<div class="alert alert-warning">Todas estas formas de customização podem ser alteradas no futuro. Ao usá-las, você entende que sua loja deve acompanhar atualizações da plataforma para que sua customização continue funcionando corretamente.</div>
+>⚠️ Todas estas formas de customização podem ser alteradas no futuro. Ao usá-las, você entende que sua loja deve acompanhar atualizações da plataforma para que sua customização continue funcionando corretamente.
 
 Também é possível editar a interface do Checkout Confirmation via classes CSS. Seus estilos devem ser adicionados numa `<style>` tag em um dos templates HTML carregados na página.
 

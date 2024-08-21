@@ -19,9 +19,7 @@ As metas do **Google Analytics** servem para ajudar a avaliar se os objetivos de
 
 Com o funil de vendas configurado, é possível acompanhar e analisar os passos do cliente até a finalização de um pedido. Para configurar o funil de vendas vamos levar em conta que o processo de compra se inicia na tela do seu produto e passa pelo carrinho de compras, checkout (dados pessoais, entrega e frete, pagamento) e chega até a meta, que é a página de pedido confirmado.
 
-<div class="alert alert-info">
-Para facilitar, toda a configuração apresentada neste artigo pode ser <a href="https://support.google.com/analytics/answer/1032415?hl=pt-BR" target="_blank">importada diretamente para o Google Analytics</a> com <a href="https://analytics.google.com/analytics/web/template?uid=tTp2GkIJRiGodszJbq8RsA" target="_blank">este modelo</a>.
-</div>
+>ℹ️ Para facilitar, toda a configuração apresentada neste artigo pode ser [importada diretamente para o Google Analytics](https://support.google.com/analytics/answer/1032415?hl=pt-BR" target="_blank) com [este modelo](https://analytics.google.com/analytics/web/template?uid=tTp2GkIJRiGodszJbq8RsA" target="_blank).
 
 Para configuração manual ou edição de uma meta já existente, o primeiro passo é acessar o Analytics e clicar no botão __Administrador__ no canto inferior esquerdo. Em seguida, ir na opção __Metas__, da coluna "Vista".
 
@@ -62,30 +60,35 @@ Agora é só salvar a meta e aguardar o tempo que o sistema leva para começar a
 
 Para visualizar seu funil, consulte os relatórios do Analytics e acesse o menu __Conversões__ e a opção __Metas__.
 
-<div class="alert alert-warning">
-<p> Se você tiver uma loja multilíngue com idiomas como <a href="https://support.google.com/webmasters/answer/182192?hl=pt-BR#locale-specific-urls">subdiretórios com gTLD</a> você deve substituir cada <a href="https://support.google.com/analytics/answer/1034376?hl=pt-BR&ref_topic=1034375">circunflexo</a> (<code>^</code>) por uma <a href="https://support.google.com/analytics/answer/1034324?hl=en">regex </a> que corresponda aos diferentes subdiretórios. Por exemplo, se o seu site estiver disponível em:</p>
-  <ul>
-    <li><strong>Italiano: </strong><code>example.com/it</code></li>
-    <li><strong>Espanhol: </strong><code>example.com/es</code></li>
-    <li><strong>Francês: </strong><code>example.com/fr</code></li>
-  </ul>
-  <p>Você teria que alterar seu destino:</p>
-  <ul>
-<li><strong>De: </strong><code>^/checkout/orderPlaced</code></li> 
-<li><strong>Para: </strong><code>^/(it|es|fr)/checkout/orderPlaced</code></li>
-  </ul>
-  <p>Isso também precisaria ser feito para cada etapa do funil.</p>
-</div>
+>⚠️ Se você tiver uma loja multilíngue com idiomas como [subdiretórios com gTLD](https://support.google.com/webmasters/answer/182192?hl=pt-BR#locale-specific-urls) você deve substituir cada [circunflexo](https://support.google.com/analytics/answer/1034376?hl=pt-BR&ref_topic=1034375) (`^`) por uma [regex ](https://support.google.com/analytics/answer/1034324?hl=en) que corresponda aos diferentes subdiretórios. Por exemplo, se o seu site estiver disponível em:
+>
+> * **Italiano: **`example.com/it`
+>
+> * **Espanhol: **`example.com/es`
+>
+> * **Francês: **`example.com/fr`
+>
+> Você teria que alterar seu destino:
+>
+> ***De: **`^/checkout/orderPlaced` 
+>
+> ***Para: **`^/(it|es|fr)/checkout/orderPlaced`
+>
+> Isso também precisaria ser feito para cada etapa do funil.
 
-<div class="alert alert-warning">
-<p>As configurações de funil deste artigo foram atualizadas para acompanhar a nova versão de <a href="http://help.vtex.com/pt/tutorial/o-que-e-o-carrinho-compartilhado">carrinho compartilhado do SmartCheckout</a>.</p>
-<p>Para efeito de comparação, abaixo temos a configuração antiga:</p>
-<ol>
-<li>Produto: <code>/p($|\?)</code> (não obrigatório)</li>
-<li>Carrinho: <code>^/checkout/(#/cart)?$</code></li>
-<li>Identificação: <code>^/checkout/#/email</code></li>
-<li>Dados Pessoais: <code>^/checkout/#/profile</code></li>
-<li>Entrega: <code>^/checkout/#/shipping</code></li>
-<li>Pagamento: <code>^/checkout/#/payment</code></li>
-</ol>
-</div>
+>⚠️ As configurações de funil deste artigo foram atualizadas para acompanhar a nova versão de [carrinho compartilhado do SmartCheckout](http://help.vtex.com/pt/tutorial/o-que-e-o-carrinho-compartilhado).
+>
+> Para efeito de comparação, abaixo temos a configuração antiga:
+>
+> Produto: `/p($|\?)` (não obrigatório)
+>
+> Carrinho: `^/checkout/(#/cart)?$`
+>
+> Identificação: `^/checkout/#/email`
+>
+> Dados Pessoais: `^/checkout/#/profile`
+>
+> Entrega: `^/checkout/#/shipping`
+>
+> Pagamento: `^/checkout/#/payment`
+> 

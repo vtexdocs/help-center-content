@@ -18,9 +18,7 @@ internalReference: 399339
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O editor do site tem problemas intermitentes de renderização em telas menores que 1366px de largura.

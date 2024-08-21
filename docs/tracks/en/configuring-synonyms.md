@@ -40,9 +40,7 @@ Follow the step-by-step procedure to configure synonyms individually in the VTEX
 
 Changes can take up to two hours to take effect.
 
-<div class="alert alert-info">
-<p> This feature is available on VTEX Intelligent Search Multilanguage. Read our article <a href="https://help.vtex.com/en/tutorial/vtex-intelligent-search-multilanguage-settings-beta--2WahlTESLXIJ9XBdQMdTYO#synonyms">VTEX Intelligent Search: Multilanguage settings (Beta)</a>to learn more.</p>
-</div>
+>ℹ️ This feature is available on VTEX Intelligent Search Multilanguage. Read our article [VTEX Intelligent Search: Multilanguage settings (Beta)](https://help.vtex.com/en/tutorial/vtex-intelligent-search-multilanguage-settings-beta--2WahlTESLXIJ9XBdQMdTYO#synonyms)to learn more.
 
 ## Importing CSV spreadsheet
 
@@ -89,7 +87,5 @@ Stores using  [Multilanguage settings (Beta)](https://help.vtex.com/en/tutorial/
     __Example:__
     - `tv,smart tv;true;en-GB`: When searching for one of these terms in the store in English (`locale en-GB`), the search results will return any product that contains one of these terms.
 
-<div class="alert alert-warning">
-  <p>If the imported .csv file does not have the <code>locale</code>, the synonym will be valid for all languages available in the store.</p>
-</div>
+>⚠️ If the imported .csv file does not have the `locale`, the synonym will be valid for all languages available in the store.
 

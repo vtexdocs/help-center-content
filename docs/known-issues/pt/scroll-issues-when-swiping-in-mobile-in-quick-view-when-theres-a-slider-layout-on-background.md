@@ -18,9 +18,7 @@ internalReference: 985097
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao deslizar a imagem de um produto na visualização rápida em dispositivos móveis quando há um layout de controle deslizante em segundo plano, ambos os controles deslizantes são movidos para o próximo em vez de apenas a imagem na visualização rápida

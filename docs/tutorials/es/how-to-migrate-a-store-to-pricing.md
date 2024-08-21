@@ -43,9 +43,7 @@ El Pricing tiene algunas diferencias importantes con respecto a la primera versi
 
 ## Migrar una tienda para el Pricing v2
 
-<div class="alert alert-info">
-Toda nueva tienda VTEX ya está creada con el Pricing v2.
-</div>
+>ℹ️ Toda nueva tienda VTEX ya está creada con el Pricing v2.
 
 Pricing v2 está disponible para las tiendas que desean migrar al nuevo módulo. Actualmente, tenemos un proceso de migración automática, en que verificamos la compatibilidad de las features del Pricing v2 con las features utilizadas actualmente por la tienda.
 

@@ -65,17 +65,13 @@ Tu tienda utiliza reCAPTCHA en el Checkout y está preparada para exhibirlo corr
 
 Si tu equipo de desarrolladores identifica que tu integración requiere algún tipo de atención, deben seguir las instrucciones proporcionadas en el artículo [Implementing reCAPTCHA in integrations](https://developers.vtex.com/docs/guides/implementing-recaptcha-in-integrations).
 
-<div class="alert alert-warning">
-Si está implementando reCAPTCHA en una aplicación móvil nativa, use reCAPTCHA v3. De lo contrario, use reCAPTCHA v2.
-</div>
+>⚠️ Si está implementando reCAPTCHA en una aplicación móvil nativa, use reCAPTCHA v3. De lo contrario, use reCAPTCHA v2.
 
 Al utilizar el `recaptchaKey` que devolvió el Checkout, el widget reCAPTCHA debe ser renderizado en la interfaz de usuario de tu aplicación móvil/entorno de tienda headless (o similar) como se describe en el artículo de [reCAPTCHA v2](https://developers.google.com/recaptcha/docs/display?hl=es-419) o [reCAPTCHA v3](https://developers.google.com/recaptcha/docs/v3?hl=es-419) proporcionado por Google.
 
 Después de que el comprador resuelva el reCAPTCHA, su respuesta (`recaptchaToken`) se debe enviar a la API de Checkout para completar la compra, tal y como se describe en la sección *Final validation* del artículo [Implementing reCAPTCHA in integrations](https://developers.vtex.com/docs/guides/implementing-recaptcha-in-integrations#final-validation). En este momento, la API de Checkout [verificará la respuesta del usuario](https://developers.google.com/recaptcha/docs/verify?hl=es-419) utilizando el token proporcionado.
 
-<div class="alert alert-danger">
-Todas las integraciones que utilicen la API de Checkout para realizar pedidos deben revisarse y ajustarse antes del 1 de septiembre de 2023. Las aplicaciones que no tengan la capacidad de mostrar el widget reCAPTCHA y verificar la respuesta del usuario no podrán realizar pedidos a partir de esta fecha.
-</div>
+>❗ Todas las integraciones que utilicen la API de Checkout para realizar pedidos deben revisarse y ajustarse antes del 1 de septiembre de 2023. Las aplicaciones que no tengan la capacidad de mostrar el widget reCAPTCHA y verificar la respuesta del usuario no podrán realizar pedidos a partir de esta fecha.
 
 ## Más información
 

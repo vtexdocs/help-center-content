@@ -19,7 +19,9 @@ La interfaz de Web Service permite que el responsable de la tienda acceda práct
 
 [Download](https://assets.ctfassets.net/alneenqid6w5/4OdeCFbcVQtEgkuWsuuidl/80b79448cf2b327e07b567a8411afaa0/vtex_WebServiceGuide.pdf)
 
-<div class="alert alert-danger"><p>Atenção: sólo los métodos SOAP correspondientes al <strong>catálogo</strong> son válidos.</p>
-<p><strong>Todos los demás métodos serán descontinuados a partir del 28/02/2017.</strong></p>
-<p>Utilice las API REST equivalentes disponibles en nuestro <a href="//help.vtex.com/developer-docs/">Developer Docs</a>.</p></div>
+>❗ Atenção: sólo los métodos SOAP correspondientes al **catálogo** son válidos.
+>
+> **Todos los demás métodos serán descontinuados a partir del 28/02/2017.**
+>
+> Utilice las API REST equivalentes disponibles en nuestro [Developer Docs](//help.vtex.com/developer-docs/).
 

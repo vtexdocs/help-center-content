@@ -22,9 +22,7 @@ As [tarifas de envio](https://help.vtex.com/pt/tutorial/tarifas-de-envio--1Balpg
 * [Editar](#editar) as tarifas de envio;
 * [Excluir](#excluir) as tarifas de envio.
 
-<div class="alert alert-info">
-Para casos em que há vários preços de envio para serem atualizados ou cadastrados, recomendamos utilizar a Planilha de frete em vez do módulo <b>Tarifas de envio</b>. Caso queira conferir como as tarifas de envio cadastradas serão apresentadas ao cliente final, utilize o módulo <b><a href="https://help.vtex.com/pt/tutorial/simulacao-de-frete--tutorials_144">Simulador de envio</b></a>.
-</div>
+>ℹ️ Para casos em que há vários preços de envio para serem atualizados ou cadastrados, recomendamos utilizar a Planilha de frete em vez do módulo **Tarifas de envio**. Caso queira conferir como as tarifas de envio cadastradas serão apresentadas ao cliente final, utilize o módulo **[Simulador de envio**](https://help.vtex.com/pt/tutorial/simulacao-de-frete--tutorials_144).
 
 ## Cadastrar
 

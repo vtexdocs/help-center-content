@@ -22,9 +22,7 @@ The fixed price therefore overlaps the __base price__, even when a __price rule_
 
 This means that for a price table, the fixed price has priority over both the base price and the configured price rule.
 
-<div class="alert alert-warning">
-  <p>Only <a href="https://help.vtex.com/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj">fixed prices</a> are used by our native marketplace integrations. Other scenarios seen in our <a href="https://help.vtex.com/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx">price system architecture</a> are available only in VTEX marketplaces.</p>
-</div>
+>⚠️ Only [fixed prices](https://help.vtex.com/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/3g39iXkQza4AW7C7L814mj) are used by our native marketplace integrations. Other scenarios seen in our [price system architecture](https://help.vtex.com/en/tracks/prices-101--6f8pwCns3PJHqMvQSugNfP/7GptzvlPDVM11ojEjywIQx) are available only in VTEX marketplaces.
 
 ## Functionalities
 

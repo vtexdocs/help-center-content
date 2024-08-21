@@ -18,9 +18,7 @@ internalReference: 550658
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Error de tiempo de espera al intentar exportar una gran cantidad de tarjetas regalo, aunque el periodo de consulta sea corto.

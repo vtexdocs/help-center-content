@@ -15,13 +15,13 @@ legacySlug: entregas-correios-vtex-log
 subcategory: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
-<div class="alert alert-info">
-Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site <a href="https://vtex.com/br-pt/shipping-network/">VTEX Shipping Network</a>.
-</div>
+>ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/).
 
-<div class="alert alert-warning">
-<p>O <a href="https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC">VTEX Shipping Network Correios</a> integra sua operação com os serviços PAC e SEDEX do contrato VTEX junto aos Correios, e o <a href="https://vtex.com/br-pt/shipping-network/">VTEX Shipping Network</a> integra a sua operação com os Correios e outras transportadoras. Com ambas as soluções você pode usar as funcionalidades:</p><p><ul><li><a href="https://help.vtex.com/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs">Pronto para envio</a></li><li><a href="https://help.vtex.com/pt/tutorial/painel-vtex-shipping-network--51e8tx1IehiN4ZtURRWU92">Painel VTEX Shipping Network</a></li><li>Entregas Correios</li></ul></p>
-</div>
+>⚠️ O [VTEX Shipping Network Correios](https://help.vtex.com/pt/tutorial/vtex-shipping-network-correios-faq--2Wavf7Wie5GEUAEHKtn5oC) integra sua operação com os serviços PAC e SEDEX do contrato VTEX junto aos Correios, e o [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) integra a sua operação com os Correios e outras transportadoras. Com ambas as soluções você pode usar as funcionalidades:
+> 
+> *[Pronto para envio](https://help.vtex.com/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs)
+> * [Painel VTEX Shipping Network](https://help.vtex.com/pt/tutorial/painel-vtex-shipping-network--51e8tx1IehiN4ZtURRWU92)
+> * Entregas Correios
 
 **Entregas Correios** é a funcionalidade do [VTEX Shipping Network](https://vtex.com/br-pt/log/) que permite ao lojista acompanhar as informações e o andamento de pacotes postados nos [Correios](https://www.correios.com.br/). A solução permite solicitar um Pedido de Informação (PI) para entregas que estão atrasadas, extraviadas ou foram feitas indevidamente.
 

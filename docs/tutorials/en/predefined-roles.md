@@ -19,9 +19,7 @@ subcategory: 1HSqkejwuYcQSMC400uY84
 
 In this document, are listed the roles that are predefined for new VTEX stores and their respective resources. To access them directly, use the list below.
 
-<div class="alert alert-info">
-<p>Learn more about each resource listed in the roles below in <a href="https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#">License Manager Resources</a>.</p>
-</div>
+>ℹ️ Learn more about each resource listed in the roles below in [License Manager Resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#).
 
 * [Admin - Start page only](#admin-start-page-only)
 * [Checkout Admin](#checkout-admin)
@@ -75,9 +73,7 @@ The Assisted Sales resource causes the user to be automatically redirected to th
 
 We therefore recommend using two separate accounts (with different emails) for telesales users: one account for the __Call center operator__ role (with the *Assisted Sales* and *View order* resources) and another account for carrying out operations in Admin, if necessary.
 
-<div class="alert alert-warning">
-When creating a <a href="https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#">role</a>, avoid including call center <a href="https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#">resources</a> with other resources. Otherwise, the role might not work as expected.
-</div>
+>⚠️ When creating a [role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), avoid including call center [resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) with other resources. Otherwise, the role might not work as expected.
 
 Resource table:
 
@@ -144,9 +140,7 @@ Resource table:
 
 ## Sales App - Sales Associate
 
-<div class="alert alert-warning">
-  <p>Sales associates registered in Sales App cannot access the VTEX Admin, only Sales App.</p>
-</div>
+>⚠️ Sales associates registered in Sales App cannot access the VTEX Admin, only Sales App.
 
 Resource table:
 

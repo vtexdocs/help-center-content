@@ -15,9 +15,7 @@ legacySlug: planner-releases-page-beta
 subcategory: 3vXj7HrnYK8V5riTOwUuYv
 ---
 
-<div class="alert alert-info">
-  <p>The <strong>Releases</strong> is in beta version, which means we are working to improve it. This feature is only available for stores using <a href="https://www.faststore.dev/">FastStore</a>.</p>
-</div>
+>ℹ️ The **Releases** is in beta version, which means we are working to improve it. This feature is only available for stores using [FastStore](https://www.faststore.dev/).
 
 The **Releases** module allows you to [manage your releases](https://help.vtex.com/en/tutorial/planner-release-concept-beta--4pWhQTXG0aIIsi2TYxxRkZ) so that you can coordinate the creation, schedule and publication of the changes in your store.
 
@@ -27,9 +25,7 @@ On the **Releases** page, you'll see all existing releases listed by the `Not sc
 
 The order of the scheduled releases is based on the publication date: The further into the future a release is, the sooner it'll appear on the list. However, the older the release is, the latest it'll appear.
 
-<div class="alert alert-warning">
-  <p>In the beta version, releases must be <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">CMS</a>-related, because other VTEX platform modules are not yet included. To use the <strong>Releases</strong>, you must configure the CMS as described in <a href="https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS">Installing Releases on VTEX Headless CMS</a>.</p>
-</div>
+>⚠️ In the beta version, releases must be [CMS](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2)-related, because other VTEX platform modules are not yet included. To use the **Releases**, you must configure the CMS as described in [Installing Releases on VTEX Headless CMS](https://www.faststore.dev/how-to-guides/cms/vtex-headless-cms/Installing%20Releases%20on%20VTEX%20Headless%20CMS).
 
 ## List view
 

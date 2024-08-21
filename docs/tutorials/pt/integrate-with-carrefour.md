@@ -57,9 +57,7 @@ _`Ex:` imagine que você usa a transportadora XPTO, que entrega mais devagar, po
 
 _`Ex:` imagine que você usa a transportadora XPTO, que entrega mais devagar, porém é mais barata. Seu Tipo de Transportadora no painel logístico da VTEX se chama "Agendada". Então, você deve escrever no campo o nome __Agendada__. Lembre-se que a palavra deve ser exatamente igual à cadastrada na logística._
 
-<div class="alert alert-warning">
-<strong>OBS:</strong> é necessário preencher pelo menos um dos campos do mapeamento de SLA. Caso nenhum deles seja prenchido, <strong>não</strong> será possível simular o frete na VTEX e, consequentemente, os pedidos feitos no Carrefour não serão integrados. Além disso, também não será possível salvar o cadastro da integração sem que algum dos campos esteja preenchido.
-</div>
+>⚠️ **OBS:** é necessário preencher pelo menos um dos campos do mapeamento de SLA. Caso nenhum deles seja prenchido, **não** será possível simular o frete na VTEX e, consequentemente, os pedidos feitos no Carrefour não serão integrados. Além disso, também não será possível salvar o cadastro da integração sem que algum dos campos esteja preenchido.
 
 _Legenda:_<br />
 `*` Campos obrigatórios.<br />

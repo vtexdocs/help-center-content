@@ -18,9 +18,7 @@ internalReference: 982200
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao exibir o PLP na visualização de lista, as tags dos itens.

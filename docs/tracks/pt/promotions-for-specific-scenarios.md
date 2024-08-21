@@ -26,9 +26,7 @@ No entanto, às vezes sua loja pode ter a necessidade de criar promoções para 
 - Compre e Ganhe.
 - Limite de itens com promoção no carrinho.
 
-<div class="alert alert-info">
-As telas de configuração de todas as promoções apresentam as mesmas seções principais que as explicadas no artigo sobre Promoção Regular. As opções presentes nessas seções se repetem em todas as promoções, à exceção de algumas configurações específicas de condições para aplicação da promoção. Por isso, neste artigo nos concentramos nessas configurações específicas.
-</div>
+>ℹ️ As telas de configuração de todas as promoções apresentam as mesmas seções principais que as explicadas no artigo sobre Promoção Regular. As opções presentes nessas seções se repetem em todas as promoções, à exceção de algumas configurações específicas de condições para aplicação da promoção. Por isso, neste artigo nos concentramos nessas configurações específicas.
 
 ### Compre Junto
 
@@ -86,9 +84,7 @@ Para entender a promoção do tipo Compre e Ganhe em mais detalhes, veja o artig
 
 Esta configuração define quantos itens do carrinho serão afetados pela promoção.
 
-<div class="alert alert-warning">
-É importante ressaltar que essa possibilidade é <strong>válida apenas para uma promoção regular com desconto percentual</strong>.
-</div>
+>⚠️ É importante ressaltar que essa possibilidade é **válida apenas para uma promoção regular com desconto percentual**.
 
 Depois de preencher todos [os campos de uma promoção regular](https://help.vtex.com/pt/tutorial/regular-promotion--tutorials_327) com desconto percentual, você pode selecionar a opção __Definir quantidade máxima de itens afetados por carrinho__ na seção __Restrições e limites de uso__.
 

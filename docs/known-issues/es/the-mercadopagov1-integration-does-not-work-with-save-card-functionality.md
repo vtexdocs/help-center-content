@@ -18,9 +18,7 @@ internalReference: 283727
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La integración de MercadoPagoV1 no funciona con la funcionalidad de guardar la tarjeta en la sección Mi cuenta.

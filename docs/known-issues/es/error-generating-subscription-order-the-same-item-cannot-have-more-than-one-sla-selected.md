@@ -18,9 +18,7 @@ internalReference: 658185
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En los escenarios de pedidos de suscripción en los que un mismo artículo de compra acaba dividido en diferentes entradas, como la compra de 10 unidades del mismo artículo que se presenta como 7 unidades (A) y 3 unidades (B), el flujo de ejecución del ciclo de suscripción puede acabar eligiendo diferentes métodos de entrega entre el artículo A y el B, aunque sean la misma SKU.

@@ -15,9 +15,7 @@ legacySlug: how-change-order-works-beta
 subcategory: 3LQ1Tl0u4frEOd45BkjFAm
 ---
 
-<div class="alert alert-info">
-This feature is in beta, which means that we are working to improve it. If you wish to use <b>Change order (Beta)</b>, please contact <a href="https://help.vtex.com/en/support">our Support</a> and provide the <a href="https://help.vtex.com/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC">account name(s)</a> in which to activate it.
-</div>
+>ℹ️ This feature is in beta, which means that we are working to improve it. If you wish to use **Change order (Beta)**, please contact [our Support](https://help.vtex.com/en/support) and provide the [account name(s)](https://help.vtex.com/en/tutorial/what-is-an-account-name--i0mIGLcg3QyEy8OCicEoC) in which to activate it.
 
 The **Change order (beta)** feature allows you to edit an order in different ways, either due to customer requests, product unavailability, or other reasons. These are the main order changes that can be made:
 

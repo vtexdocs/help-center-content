@@ -52,8 +52,6 @@ The order is fulfilled by a single seller, but more than one delivery is require
 
     This split is done automatically and natively for stores that have Checkout V6, through the `allowMultipleDeliveries` field indicated as `true` in the API [Update orderForm configuration](https://developers.vtex.com/docs/api-reference/checkout-api#post-/api/checkout/pvt/configuration/orderForm). The configuration is enabled by default so that it is possible to make purchases with different delivery methods in the same cart.
 
-<div class="alert alert-danger">
-  We do not recommend operating the store with the <code>allowMultipleDeliveries</code> field indicated as <i>false</i>. In this configuration, when there are items in the cart that do not have any delivery method in common, that is, the SLAIDs are different, and the cart has a pickup-point, it will not be possible to complete the order.
-</div>
+>❗ We do not recommend operating the store with the `allowMultipleDeliveries` field indicated as <i>false</i>. In this configuration, when there are items in the cart that do not have any delivery method in common, that is, the SLAIDs are different, and the cart has a pickup-point, it will not be possible to complete the order.
 
 * **Different loading docks:** a single store offers all the items in an order, but in the calculated logistic route they are related to different docks. Then, _the delivery packages must be split_, but without splitting the order between different stores. The platform does this automatically.

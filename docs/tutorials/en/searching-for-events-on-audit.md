@@ -28,15 +28,11 @@ To start your search in Audit, select the **Audit events** tab. From the **Appli
 
 By clicking on the **Selected date** button, you can choose a pre-defined date for the search. To select an exact period, click the toggle the **Use custom dates.**
 
-<div class="alert alert-warning">
-The system only stores records for the last three months.
-</div>
+>⚠️ The system only stores records for the last three months.
 
 You can add more filters to search for events more precisely. Click the **+ Add Filter** button. Select the filtering parameter (_Action_, _Event Details_, or _Author_) and to which value this topic should be compared. 
 
-<div class="alert alert-info">
-The search results will match exactly the value entered in the field. To avoid unexpected results, make sure there are no extra spaces in the search terms.
-</div>
+>ℹ️ The search results will match exactly the value entered in the field. To avoid unexpected results, make sure there are no extra spaces in the search terms.
 
 Note that you can add more than one filter, even with the same value. In this case, search results will return events matching any of the values you have entered. 
 
@@ -48,9 +44,7 @@ After selecting the application, the date, and other search filters, click the *
 
 Every search you perform will be saved in the **Last searches** tab. To redo a search, go to this tab, and click the <img src="https://images.ctfassets.net/alneenqid6w5/4gWsOnbLMOUeWh0r5YRDz/9b7148d995c03ca84b39473f266b46a9/refresh.png" width="15"> button corresponding to the search you want to perform again.
 
-<div class="alert alert-warning">
-This page shows only the last 50 searches. If you want to save a search indefinitely, perform the same search and add it to your browser favorites.
-</div>
+>⚠️ This page shows only the last 50 searches. If you want to save a search indefinitely, perform the same search and add it to your browser favorites.
 
 <div class = "alert alert-info">
 You may find the full <a href="https://help.vtex.com/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ">list of events in Audit</a>.

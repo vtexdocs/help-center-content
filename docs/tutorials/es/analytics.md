@@ -41,9 +41,7 @@ Los datos que componen el informe se actualizan cada 4 horas y contienen la sigu
 *   **Pedidos**: número de pedidos realizados desde la búsqueda. Para calcular esta métrica, consideramos que la búsqueda genera un pedido cada vez que, después buscar un término, el cliente hace clic en algún producto que aparece en los resultados y luego compra cualquier producto (no necesariamente el producto en el que hizo clic). 
 *   **Ventas**: ingresos totales generados por los pedidos realizados a partir de la búsqueda. El cálculo sigue la misma lógica que la métrica de **Pedidos**, la diferencia es que el resultado refleja los ingresos en lugar del número de pedidos.
 
-<div class="alert alert-info">
-  <p>Los datos mostrados en el informe se limitan a los 10 mil términos más buscados. Si deseas obtener los datos de búsqueda completos de tu tienda, tienes que <a href="https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m#exportacion">exportar el informe</a>.</p>
-</div>
+>ℹ️ Los datos mostrados en el informe se limitan a los 10 mil términos más buscados. Si deseas obtener los datos de búsqueda completos de tu tienda, tienes que [exportar el informe](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3JcuptYAkwr1GLZEM3IQ2m#exportacion).
 
 Cuando se elige [exportar un informe](#exportacion), también existe la posibilidad de generarlo con las __métricas de embudo__. Si se selecciona esa opción, se agregarán 4 nuevas columnas al archivo:
 

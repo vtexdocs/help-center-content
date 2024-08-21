@@ -18,9 +18,7 @@ internalReference: 380904
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Na configuração do Gerente de Licenças, podemos selecionar qual recurso o usuário pode acessar. O gerenciamento dos Canais de Vendas não está dando acesso à página de configuração do Canal de Vendas: `account.myvtex.com/admin/Site/Store.aspx'.

@@ -14,9 +14,7 @@ trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugES: habilitar-transferencia-de-carrito-entre-dispositivos
 ---
 
-<div class="alert alert-danger">
-La habilitación de la transferencia de carrito, explicada en este artículo, implica cambiar el archivo JavaScript <code>checkout-instore-custom.js</code>. Esta operación solo debe ser realizada por personas con experiencia en programación. Cambios incorrectos en este archivo pueden causar errores críticos.
-</div>
+>❗ La habilitación de la transferencia de carrito, explicada en este artículo, implica cambiar el archivo JavaScript `checkout-instore-custom.js`. Esta operación solo debe ser realizada por personas con experiencia en programación. Cambios incorrectos en este archivo pueden causar errores críticos.
 
 La funcionalidad de __Transferencia de Carrito__ de inStore permite que una compra iniciada en un dispositivo se complete en cualquier otro dispositivo presente en el flujo de compra, sin la necesidad de leer otra vez el código de los productos.
 

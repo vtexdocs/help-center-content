@@ -28,10 +28,8 @@ You can configure the following additional costs:
 
 ![adicionais frete EN](https://images.ctfassets.net/alneenqid6w5/3j3VNUKq6qTGJRfGWGbc14/eee27446335556a96fece61f8d2f0e8f/adicionais_frete_EN.svg)
 
-<div class="alert alert-danger">
-Note that all of them can be simultaneously considered for composing the shipping rate. The final calculation of the <a href="https://help.vtex.com/en/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM">shipping rate</a> is the sum of all additional charges plus the flat rate. 
-The shipping rate is not the total shipping cost.
-</div>
+>❗ Note that all of them can be simultaneously considered for composing the shipping rate. The final calculation of the [shipping rate](https://help.vtex.com/en/tutorial/tarifas-de-envio--1Balpg3rv0854udEPedvMM) is the sum of all additional charges plus the flat rate. 
+> The shipping rate is not the total shipping cost.
 
 ## Weight-based additional shipping charge
 
@@ -93,9 +91,7 @@ Additional shipping charge: ($10+$0+$9+$5)x10%=$2,4
 Additional shipping costs:($9+$5+$2,4)=$16,4  
 Shipping rate: ($10+$16,4)=$26,4  
 
-<div class="alert alert-danger">
-Note that the calculation of the price-based charge considers the cart's total price — without discounts and promotions. If the price-based charge is lower than the insurance charge, it will not be considered for the total shipping cost.
-</div>
+>❗ Note that the calculation of the price-based charge considers the cart's total price — without discounts and promotions. If the price-based charge is lower than the insurance charge, it will not be considered for the total shipping cost.
 
 ### Configuration instructions 
 
@@ -132,9 +128,7 @@ Shipping rate: ($15 + $10.3) = $25.3
 
 You can only configure the additional insurance charge via the [shipping rate template](https://help.vtex.com/en/tutorial/planilha-de-frete--tutorials_127) in the _MinimumValueInsurance_ field.
 
-<div class="alert alert-danger">
-If the price-based charge is lower than the insurance charge, it will not be considered for the total shipping cost.
-</div>
+>❗ If the price-based charge is lower than the insurance charge, it will not be considered for the total shipping cost.
 
 ## Additional shipping charge
 

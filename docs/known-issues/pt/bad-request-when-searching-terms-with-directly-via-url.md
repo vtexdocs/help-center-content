@@ -18,9 +18,7 @@ internalReference: 775524
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao pesquisar um termo com "%" diretamente via URL, a página retorna uma solicitação 400 Bad Request.

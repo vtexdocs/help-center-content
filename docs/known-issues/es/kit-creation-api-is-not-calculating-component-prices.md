@@ -18,9 +18,7 @@ internalReference: 739693
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, la carga útil de la API de insertar KIT tiene un formato que solicita los componentes de los que consta este kit y sus cantidades y precios correspondientes.

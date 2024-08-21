@@ -27,9 +27,7 @@ Orders placed in a marketplace may contain items from multiple sellers, which ar
 
 If the seller is the payment processor, they must operate under the conditions determined in our [Transaction split](https://help.vtex.com/en/tutorial/split-payment#transaction-split). Similarly, if the VTEX marketplace is the payment processor, it must follow the [Payout split](https://help.vtex.com/en/tutorial/split-payment#payout-split) flow or perform its transactions outside the VTEX environment.
 
-<div class="alert alert-info">
-VTEX clients in Brazil can use both transaction splits and payout splits. However, VTEX clients in other countries must only use transaction splits. Please note that some countries impose restrictions on transfers between sellers and marketplaces. Get in touch with your country's financial authorities to learn more about these restrictions before building your payment architecture.
-</div>
+>ℹ️ VTEX clients in Brazil can use both transaction splits and payout splits. However, VTEX clients in other countries must only use transaction splits. Please note that some countries impose restrictions on transfers between sellers and marketplaces. Get in touch with your country's financial authorities to learn more about these restrictions before building your payment architecture.
 
 Use the OMS reports to calculate commissions when setting the amounts for transfers outside the VTEX environment. In Brazil, transfers in external environments, without the participation of platforms such as VTEX, can only be performed by financial institutions.
 
@@ -37,9 +35,7 @@ Use the OMS reports to calculate commissions when setting the amounts for transf
 
 See below for the necessary configurations to create commissions for sellers and to configure a seller or a marketplace as the payment processor.
 
-<div class="alert alert-info">
-If your integration with external sellers or VTEX sellers is done via API, please refer to the article <a href = "https://developers.vtex.com/vtex-rest-api/docs/external-seller-processing-payments">External seller processing payment</a>. 
-</div>
+>ℹ️ If your integration with external sellers or VTEX sellers is done via API, please refer to the article <a href = "https://developers.vtex.com/vtex-rest-api/docs/external-seller-processing-payments">External seller processing payment</a>.
 
 ### Configuring commissions for sellers
 

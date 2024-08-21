@@ -44,7 +44,7 @@ Saiba alguns detalhes sobre o Seller Portal:
 
 ## Configurar sua loja
 
-<div class="alert alert-warning"> O limite para cada conta do Seller Portal é de 100 mil produtos. Para mais informações, entre em contato com nosso <a href="https://support.vtex.com/hc/pt-br/requests">Suporte.</div>
+>⚠️ O limite para cada conta do Seller Portal é de 100 mil produtos. Para mais informações, entre em contato com nosso <a href="https://support.vtex.com/hc/pt-br/requests">Suporte.
 
 Para começar a vender seus produtos no marketplace, é preciso configurar a sua loja no Seller Portal. Este artigo explica o fluxo completo dessa configuração inicial e indica outras documentações para que você acesse cada passo em mais detalhes. A configuração básica do Seller Portal inclui os passos listados abaixo.
 
@@ -203,6 +203,4 @@ Optando pela integração, não haverá necessidade de configuração manual por
 
 Para realizar esta ação, siga as instruções em nosso [guia de integração com ERP](https://developers.vtex.com/docs/guides/erp-integration-guide).
 
-<div class="alert alert-info"> 
-<p>Para gerar as chaves de acesso necessárias para integrar com seu ERP, clique no <strong>avatar do seu perfil</strong>, marcado pela inicial do seu email e acesse <strong>Configurações da conta > Chaves de aplicação</strong>.</p>
-</div>
+>ℹ️ Para gerar as chaves de acesso necessárias para integrar com seu ERP, clique no **avatar do seu perfil**, marcado pela inicial do seu email e acesse **Configurações da conta > Chaves de aplicação**.

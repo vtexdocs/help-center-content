@@ -71,9 +71,7 @@ Ejemplo: El Kit tiene dos componentes. El componente 1 tiene 30 unidades en stoc
 
 Los componentes del Kit pueden estar en distintos stocks, siempre que se envíen desde el mismo muelle. Si no salen por el mismo muelle, todo el Kit deja de estar disponible. 
 
-<div class="alert alert-info">
-<p>Este escenario no ocurre con Kit Look, porque el Kit Look puede venderse con los componentes que quedan en stock, sin necesidad de tener todos los componentes del Kit con stock.</p>
-</div>
+>ℹ️ Este escenario no ocurre con Kit Look, porque el Kit Look puede venderse con los componentes que quedan en stock, sin necesidad de tener todos los componentes del Kit con stock.
 
 ## Precio
 

@@ -18,9 +18,7 @@ internalReference: 872530
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Os clientes que usam transportadoras parceiras da Shipping Network, ao solicitarem a emissão de etiquetas no Ready to Ship, podem receber o arquivo com o código de barras incompleto, o que pode impedir que o pacote seja postado.

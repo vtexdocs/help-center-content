@@ -33,9 +33,7 @@ Independientemente de que tengas instalada la <a href= "https://apps.vtex.com/vt
 8. A continuación, haz clic en `Continuar`.
 9. Elige qué permisos deben concederse a VTEX en la integración.
 
-  <div class="alert alert-danger">
-Para que la integración funcione correctamente, se recomienda conceder todos los permisos indicados. Por estándar, aparecen como habilitados.
-</div>
+  >❗ Para que la integración funcione correctamente, se recomienda conceder todos los permisos indicados. Por estándar, aparecen como habilitados.
 
 10. Haz clic en `Siguiente`.
 11. En la ventana abierta, aparecerá una confirmación de que la integración se ha realizado. Haz clic en `Listo`.

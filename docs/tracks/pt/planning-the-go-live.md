@@ -68,9 +68,7 @@ Após a data do lançamento oficial, com a loja operando plenamente, os desenvol
 
 Antes de realizar o go-live, é essencial garantir todas as configurações essenciais para o bom funcionamento da loja. Para isso, recomendamos verificar a [Checklist de configuração de loja](https://assets.ctfassets.net/alneenqid6w5/3yv1ofQRJ5xeX7J5EGglGy/dbe5b9175ab01586916c6155ac5681fa/Checklist_de_configura____o_de_loja.xlsx). É preciso confirmar em cada item se as configurações foram concluídas de acordo com as características de operação da loja.
 
-<div class="alert alert-warning">
-  <p>A checklist indicada acima lista funcionalidades e configurações básicas para o funcionamento de uma loja VTEX. É de responsabilidade da <a href="https://help.vtex.com/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#parceiros-de-implementacao">equipe de implementação</a> de cada loja definir quais funcionalidades e configurações devem ser aplicadas de maneira a produzir a experiência de compra desejada para os clientes. Recomendamos verificar todos os aspectos operacionais da loja e acrescentá-los à lista, caso não estejam presentes.</p>
-</div>
+>⚠️ A checklist indicada acima lista funcionalidades e configurações básicas para o funcionamento de uma loja VTEX. É de responsabilidade da [equipe de implementação](https://help.vtex.com/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#parceiros-de-implementacao) de cada loja definir quais funcionalidades e configurações devem ser aplicadas de maneira a produzir a experiência de compra desejada para os clientes. Recomendamos verificar todos os aspectos operacionais da loja e acrescentá-los à lista, caso não estejam presentes.
 
 ## 3. Configurações de domínio e conta
 
@@ -80,9 +78,7 @@ Assim que as configurações internas da lojas forem concluídas, será preciso 
 2. [Configurar registro CAA](https://help.vtex.com/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7wFsbWgN4rnZsbjhv8IItX#configurar-registro-caa): indicar que a autoridade certificadora (CA) **Let’s Encrypt** está autorizada a gerar e renovar certificados que atestam a identidade do domínio. Passo necessário apenas se há registro de CAA no servidor DNS.
 3. [Colocar conta em produção](https://help.vtex.com/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7wFsbWgN4rnZsbjhv8IItX#colocar-conta-em-producao): ativar a conta VTEX em produção. Mesmo após essa ativação, a loja permanece indisponível para acesso de clientes externos. A visualização e compra de produtos na loja só poderão ser efetuadas após a conclusão do go-live, conforme os passos descritos nas próximas seções deste artigo.
 
-<div class="alert alert-warning">
-  <p>A partir do momento em que a conta entra em produção, todos os pedidos serão cobrados automaticamente e o <a href="https://help.vtex.com/pt/tutorial/compreenda-o-valor-da-receita-aprovada--tutorials_4322#valores-da-receita-aprovada">Take Rate</a> será aplicado de acordo com o plano contratado com a VTEX. Isso inclui pedidos realizados no domínio <code>{nomedaloja}.myvtex.com</code>, mesmo que tenham sido realizados para testes.</p>
-</div>
+>⚠️ A partir do momento em que a conta entra em produção, todos os pedidos serão cobrados automaticamente e o [Take Rate](https://help.vtex.com/pt/tutorial/compreenda-o-valor-da-receita-aprovada--tutorials_4322#valores-da-receita-aprovada) será aplicado de acordo com o plano contratado com a VTEX. Isso inclui pedidos realizados no domínio `{nomedaloja}.myvtex.com`, mesmo que tenham sido realizados para testes.
 
 Para obter mais informações, basta consultar o artigo [Configurações](https://help.vtex.com/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/7wFsbWgN4rnZsbjhv8IItX), parte da trilha detalhada sobre [Go-live](https://help.vtex.com/pt/tracks/realizando-o-go-live-da-sua-loja--4Ns5FxIiksmjsdX2yOTduM/1iP90RcJvlrfQhnlxM54wo).
 
@@ -94,9 +90,7 @@ Na VTEX, é possível criar ambientes separados para esses testes. Nesse caso, �
 
 Para planejar a fase de testes, vale entrar em contato com o [nosso suporte](https://help.vtex.com/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy), que é por onde é feita a [contratação de um ambiente de teste](https://help.vtex.com/pt/tutorial/contratar-ambiente-de-testes--2nmZAHlfQoGsCWmEWGIoGy).
 
-<div class="alert alert-info">
-  <p>Se a loja for <a href="https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#ambiente-de-desenvolvimento">construída com VTEX IO</a>, é possível realizar testes A/B entre workspaces, ou seja, comparar a performance de ambientes de desenvolvimento de frente de loja. Para mais detalhes, basta acessar o guia para desenvolvedores <a href="https://developers.vtex.com/docs/guides/vtex-io-documentation-running-native-ab-testing">Running A/B tests</a>.</p>
-</div>
+>ℹ️ Se a loja for [construída com VTEX IO](https://help.vtex.com/pt/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#ambiente-de-desenvolvimento), é possível realizar testes A/B entre workspaces, ou seja, comparar a performance de ambientes de desenvolvimento de frente de loja. Para mais detalhes, basta acessar o guia para desenvolvedores [Running A/B tests](https://developers.vtex.com/docs/guides/vtex-io-documentation-running-native-ab-testing).
 
 ### _Quality Assurance_ (QA)
 
@@ -116,9 +110,7 @@ Após a conclusão dos testes e ajustes necessários, é preciso preparar a loja
 
 1. [Cadastrar domínio na VTEX](https://help.vtex.com/pt/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450): acessar as **Configurações da conta** no Admin VTEX para conectar o endereço à loja.
 
-   <div class="alert alert-warning">
-    <p>Após realizar o cadastro, existe um prazo de sete dias para concluir o go-live. Caso a loja não conclua os procedimentos necessários para go-live neste período, será preciso acessar o cadastro realizado e salvá-lo novamente.</p>
-   </div>
+   >⚠️ Após realizar o cadastro, existe um prazo de sete dias para concluir o go-live. Caso a loja não conclua os procedimentos necessários para go-live neste período, será preciso acessar o cadastro realizado e salvá-lo novamente.
 
 2. **Solicitar apontamento interno:** abrir um ticket para o [Suporte VTEX](https://help.vtex.com/tracks/suporte-na-vtex--4AXsGdGHqExp9ZkiNq9eMy) para solicitar o apontamento interno de DNS. O tempo para a conclusão desta solicitação pode ser de até três dias úteis.
 
@@ -152,9 +144,7 @@ Independente do tipo de solicitação a ser encaminhada, o ticket para o Suporte
 - Informar se a loja tem regras condicionais de [políticas comerciais](https://help.vtex.com/pt/tutorial/o-que-e-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE).
 - Caso já exista um site no ar que esteja sendo migrado para a VTEX, informar se utiliza a CDN da Azion ou Cloudfront.
 
-<div class="alert alert-warning">
- <p>Após receber a confirmação do apontamento interno, é necessário realizar o apontamento comum de DNS em até cinco dias. Caso contrário, o apontamento interno será excluído e uma nova solicitação será necessária.</p>
-</div>
+>⚠️ Após receber a confirmação do apontamento interno, é necessário realizar o apontamento comum de DNS em até cinco dias. Caso contrário, o apontamento interno será excluído e uma nova solicitação será necessária.
 
 ## 6. Go-live
 
@@ -162,15 +152,11 @@ No momento do go-live, após a confirmação do apontamento interno realizado na
 
 1. [Realizar apontamento de DNS](https://help.vtex.com/pt/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#realizar-apontamento-de-dnshttps://help.vtex.com/pt/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#realizar-apontamento-de-dns): na zona de DNS do domínio, criar uma entrada do tipo CNAME no subdomínio desejado para o destino ``{domínio}.cdn.vtex.com``. O ``{domínio}`` deve ser o mesmo cadastrado na VTEX.
 
-   <div class="alert alert-warning">
-    <p>A propagação do apontamento de DNS pode levar entre 24 a 48 horas para ser concluída, o que significa que o endereço configurado pode não estar acessível a todas as pessoas logo após a configuração.</p>
-   </div>
+   >⚠️ A propagação do apontamento de DNS pode levar entre 24 a 48 horas para ser concluída, o que significa que o endereço configurado pode não estar acessível a todas as pessoas logo após a configuração.
 
 2. [Notificar apontamento](https://help.vtex.com/pt/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#notificar-apontamento): para que a loja fique disponível ao público em geral, é preciso notificar a plataforma VTEX que o apontamento foi realizado. Para isso, é necessário salvar novamente as **Configurações da conta** no Admin VTEX.
 
-   <div class="alert alert-info">
-    <p>Se a loja tiver sido construída com <a href="link-implement-frontend-faststore">FastStore</a>, também será necessário seguir os passos descritos no artigo <a href="https://www.faststore.dev/docs/go-live/2-configuring-external-dns">Configuring external DNS for a custom domain</a>.</p>
-   </div>
+   >ℹ️ Se a loja tiver sido construída com [FastStore](link-implement-frontend-faststore), também será necessário seguir os passos descritos no artigo [Configuring external DNS for a custom domain](https://www.faststore.dev/docs/go-live/2-configuring-external-dns).
 
 Uma vez que as etapas acima forem concluídas, a loja estará disponível no domínio cadastrado para que clientes a acessem e realizem compras.
 

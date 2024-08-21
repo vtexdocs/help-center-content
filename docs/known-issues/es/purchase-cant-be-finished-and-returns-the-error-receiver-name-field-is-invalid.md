@@ -18,9 +18,7 @@ internalReference: 313945
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Hay un alto volumen de errores en el proceso de creación de un pedido con el mensaje "_El campo del nombre del destinatario en el archivo adjunto de envío no es válido_". Parece ser algo relacionado con nuestra interfaz de usuario de pago. No tenemos recursos para entender hasta qué punto está afectando o bloqueando las ventas.

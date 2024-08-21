@@ -40,7 +40,7 @@ It's important to notice that the customization with templates is the same for O
 
 ### Customizing styles
 
-<div class="alert alert-warning">All these forms of customization may be changed in the future. By using them, you understand that your store must track platform updates so that your customization continues to function properly.</div>
+>⚠️ All these forms of customization may be changed in the future. By using them, you understand that your store must track platform updates so that your customization continues to function properly.
 
 You can also edit the Checkout Confirmation interface via CSS classes. Your styles should be added in a `<style>` tag in one of the HTML templates loaded on the page.
 

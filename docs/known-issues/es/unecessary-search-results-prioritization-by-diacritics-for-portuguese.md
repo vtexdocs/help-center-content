@@ -18,9 +18,7 @@ internalReference: 1028763
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La Búsqueda Inteligente prioriza los resultados que tienen una coincidencia exacta, teniendo en cuenta los diacríticos del término buscado y los productos.

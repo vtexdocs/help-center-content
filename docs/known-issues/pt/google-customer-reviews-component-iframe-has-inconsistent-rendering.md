@@ -18,9 +18,7 @@ internalReference: 578443
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O iframe, responsável pelo emblema do Google Customer Review, tem renderização inconsistente dentro do elemento div do componente Google Customer Reviews.

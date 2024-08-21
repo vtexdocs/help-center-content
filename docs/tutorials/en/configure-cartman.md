@@ -34,9 +34,7 @@ This article will cover the following topics:
   - [Define marketing data](#define-marketing-data)
 - [Disable Cartman](#disable-cartman) 
 
-<div class="alert alert-warning">
-  Only the merchant has access to <b>Cartman</b>. Its features are not available for use by users in a store.
-</div>
+>⚠️ Only the merchant has access to **Cartman**. Its features are not available for use by users in a store.
 
 ## Activate Cartman manually
 
@@ -106,7 +104,5 @@ Cartman can be deactivated at any time as required by the merchant. To disable i
 2. In the lower right corner of the screen, click the button  <img src="//images.ctfassets.net/alneenqid6w5/2Z1d5lHtVM7E7SvL58C8UW/acc0fa24cc8ae2e008d4a8d0f466b035/cartman-removebg-preview.png" alt="cartman-icon" width="25"/>.
 3. At the bottom of Cartman's menu, click  `Disable Cartman`.
 
-<div class="alert alert-info">
-  If you want to reactivate <b>Cartman</b>, re-add the query string <code>?cartman=on</code> in one of your store's Checkout pages. In this way, the blue icon will be available again in the lower right corner of the page.
-</div>
+>ℹ️ If you want to reactivate **Cartman**, re-add the query string `?cartman=on` in one of your store's Checkout pages. In this way, the blue icon will be available again in the lower right corner of the page.
 

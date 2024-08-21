@@ -37,7 +37,7 @@ Otra opción es [limpiar el catálogo](https://help.vtex.com/es/tutorial/entende
 2. Haga clic en `Eliminar los productos y SKUs`. Atención: al eliminar estos elementos, sus «Productos» y «SKUs», así como sus ítems relacionados, serán borrados de forma definitiva de su tienda.
 3. Después, haga clic en `Eliminar Categorías y Marcas`. Atención: al eliminar estos elementos, «Categorías», «Marcas» y «Especificaciones», así como sus ítems relacionados, serán borrados de forma definitiva de su tienda.
 
-<div class="alert alert-warning"> <p>Por razones de seguridad, solo el <a href="https://help.vtex.com/es/tutorial/o-que-e-o-usuario-master--3oPr7YuIkEYqUGmEqIMSEy">usuario Titular</a> de la cuenta tiene acceso a la limpieza de la base. Si otro usuario intenta acceder a esta página, todos los botones estarán inactivos.</p></div>
+>⚠️ Por razones de seguridad, solo el [usuario Titular](https://help.vtex.com/es/tutorial/o-que-e-o-usuario-master--3oPr7YuIkEYqUGmEqIMSEy) de la cuenta tiene acceso a la limpieza de la base. Si otro usuario intenta acceder a esta página, todos los botones estarán inactivos.
 
 ### Artículos relacionados
 - [Registrar categoría](/es/tutorial/cadastrando-categoria)

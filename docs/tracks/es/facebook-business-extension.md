@@ -30,9 +30,7 @@ La aplicación _Facebook Business Extension y Conversions API_ es totalmente com
 
 Obtenga más información sobre la configuración requerida para cada uno en nuestra guía [Facebook Business Extension](https://developers.vtex.com/docs/guides/vtex-facebook-fbe#compatibility) en el Developer Portal.
 
-<div class="alert alert-warning">
-En VTEX, hay una <a href= "https://help.vtex.com/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">guía para la integración con Facebook </a>. Sin embargo, la integración con la aplicación <i>Facebook Business Extension y Conversions API</i> debería ser tu elección por defecto, ya que FBE es la solución más completa de Facebook. Independientemente de que tengas configurada la otra integración, debes proceder normalmente con la configuración de esta integración.
-</div>
+>⚠️ En VTEX, hay una <a href= "https://help.vtex.com/es/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">guía para la integración con Facebook </a>. Sin embargo, la integración con la aplicación <i>Facebook Business Extension y Conversions API</i> debería ser tu elección por defecto, ya que FBE es la solución más completa de Facebook. Independientemente de que tengas configurada la otra integración, debes proceder normalmente con la configuración de esta integración.
 
 ## Píxel de Facebook
 

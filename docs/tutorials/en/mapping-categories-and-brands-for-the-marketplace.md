@@ -52,8 +52,7 @@ To complete the template:
 4. Save the template __XLS file__.  
 5. In *Categories mapping*, upload the updated template using the __Change categories mapping button__.   
 
-<div class="alert alert-info"> 
-If the program you used for opening the template uses semicolons (“;”) as separators, you have to replace them with commas (“,”) before importing the file. </div>
+>ℹ️ If the program you used for opening the template uses semicolons (“;”) as separators, you have to replace them with commas (“,”) before importing the file.
 
 ### Example
 In this example, we downloaded the current template, which has the following values in the columns:
@@ -72,8 +71,7 @@ We will map the seller's categories, trying to find the best possible match with
 | [3] Women \| [28] Jeans                 | Jeans / Shorts            |                                    |
 | [3] Women \| [28] Jeans                 | Jeans / Bermudas          |                                    |
 
-<div class="alert alert-info">
-Note that more than one category in the seller's catalog fell in the same marketplace category (Women / Jeans). In that case, duplicate the row in <b>Marketplace categories</b> and paste the values from <i>Unmapped categories sent by seller</i> into each duplicated row. </div>
+>ℹ️ Note that more than one category in the seller's catalog fell in the same marketplace category (Women / Jeans). In that case, duplicate the row in **Marketplace categories** and paste the values from <i>Unmapped categories sent by seller</i> into each duplicated row.
 
 ## Mapping Brands
 After the seller [sends the products to the marketplace](https://help.vtex.com/en/tutorial/entendendo-a-catalogacao-de-produtos-para-o-marketplace), the marketplace has to map the brands. Matching between marketplace and seller brands is done through a template.  
@@ -93,9 +91,7 @@ You can download the updated template by clicking the Download current mapping t
 4. Save the template __XLS file__.  
 5. In *Brands mapping*, upload the updated template using the __Change categories mapping__ button.   
 
-<div class="alert alert-info">
-If the program you used for opening the template uses semicolons (“;”) as separators, you have to replace them with commas (“,”) before importing the file.
-</div>
+>ℹ️ If the program you used for opening the template uses semicolons (“;”) as separators, you have to replace them with commas (“,”) before importing the file.
 
 ### Example
 In this example, we downloaded the current template, which has the following values in the columns:

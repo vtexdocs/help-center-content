@@ -24,9 +24,7 @@ However, this amount may or may not be equally divided among recipients. The dis
 
 This track will explain how this solution works, including some essential concepts for this dynamic and how to configure it.   
 
-<div class="alert alert-info">
-If you are already familiar with the solution, go to “Configure payment split.”  
-</div>
+>ℹ️ If you are already familiar with the solution, go to “Configure payment split.”
 
 ## Receivable 
 Before we proceed, it is essential to understand what a receivable is - a concept that is not only addressed by VTEX but also used in numerous market scenarios.
@@ -40,16 +38,12 @@ Currently, Split supports the following payment methods:
 - Credit card
 - Debit card
 
-<div class="alert alert-info">
-For credit cards, the payment split supports payments made using two different cards.
-</div>  
+>ℹ️ For credit cards, the payment split supports payments made using two different cards.  
 
 ## Transaction
 When a customer finishes a purchase and pays for it, this amount will not necessarily be captured and sent to the seller in real-time. 
 
-<div class="alert alert-info">
-There are exceptions to this rule, such as the FedNow instant payment service or Clearing House’s RTP Network - a real-time payments platform that all federally insured U.S. depository institutions are eligible to use for payments innovation.
-</div>  
+>ℹ️ There are exceptions to this rule, such as the FedNow instant payment service or Clearing House’s RTP Network - a real-time payments platform that all federally insured U.S. depository institutions are eligible to use for payments innovation.  
 
 On VTEX, the default behavior is for purchase data to be gathered in a transaction, which then goes through several validation steps meant to ensure that all data is valid. This verification process is what we call the [transaction flow](https://help.vtex.com/en/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG/1xjzgJZvqwaI1rfxLMCC3Y "transaction flow"). 
 

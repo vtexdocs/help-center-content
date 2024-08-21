@@ -79,9 +79,7 @@ Sellers podem restringir a disponibilidade dos produtos em seu catálogo por mei
 
 Essa configuração é feita no *Catálogo* da VTEX, ao [cadastrar produtos](https://help.vtex.com/pt/tutorial/cadastrando-produtos--tutorials_2567), indicando para cada produto quais políticas comerciais estão vinculadas a ele. Se nenhuma restrição é feita na criação do produto, o produto estará disponível em todas as políticas comerciais. 
 
-<div class="alert alert-warning">
-Não é recomendado vincular políticas comerciais a coleções, para determinar o sortimento de produtos, sobretudo em casos de marketplaces externos à VTEX. Quando um produto é retirado da coleção da política comercial, o sistema VTEX não avisa o marketplace dessa atualização, fazendo com que o produto continue disponível no marketplace. 
-</div>  
+>⚠️ Não é recomendado vincular políticas comerciais a coleções, para determinar o sortimento de produtos, sobretudo em casos de marketplaces externos à VTEX. Quando um produto é retirado da coleção da política comercial, o sistema VTEX não avisa o marketplace dessa atualização, fazendo com que o produto continue disponível no marketplace.  
 
 ![Pt Catálogo Politica](https://images.ctfassets.net/alneenqid6w5/cXoXS1QSCxmbh89SwVfVP/63eea6b22e93fa4e94840a5c9a88db94/Pt_Cat__logo_Politica.jpg)
 

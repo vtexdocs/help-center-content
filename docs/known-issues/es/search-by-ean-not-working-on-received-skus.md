@@ -18,9 +18,7 @@ internalReference: 510907
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La función de búsqueda de Skus Recibidos permite al marketplace buscar un producto o sku por los siguientes criterios:

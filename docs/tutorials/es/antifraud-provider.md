@@ -142,9 +142,7 @@ Estas llaves deben estar disponibles por usted y van a servir para identificar l
 ## Configuración del documento del titular de la tarjeta
 Durante el proceso de revisión de las transacciones de pago, algunos proveedores antifraude pueden optar por no utilizar información adicional como: la identificación personal del titular de la tarjeta. En estos casos, el administrador de la tienda tiene autonomía para decidir si solicita o no esta información a su cliente durante el proceso de checkout.
 
-<div class="alert alert-warning">
-  La opción de configuración <b>Campo de documento del titular de la tarjeta</b> solo estará disponible para el administrador de la tienda, si el provedor antifraude declara el campo del documento del titular de la tarjeta (<code>cardholderDocument</code>) como <code>opcional</code> em su <a href="https://developers.vtex.com/vtex-rest-api/reference/manifest">manifesto</a>. Mas información en <a href="https://developers.vtex.com/vtex-rest-api/docs/cardholder-document-configuration">Cardholder Document Configuration</a>.
-  </div>
+>⚠️ La opción de configuración **Campo de documento del titular de la tarjeta** solo estará disponible para el administrador de la tienda, si el provedor antifraude declara el campo del documento del titular de la tarjeta (`cardholderDocument`) como `opcional` em su [manifesto](https://developers.vtex.com/vtex-rest-api/reference/manifest). Mas información en [Cardholder Document Configuration](https://developers.vtex.com/vtex-rest-api/docs/cardholder-document-configuration).
 
 Para configurar la visualización del campo del documento del titular de la tarjeta, siga los siguientes pasos:
 

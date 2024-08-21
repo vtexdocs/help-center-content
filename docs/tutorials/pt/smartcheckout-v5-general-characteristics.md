@@ -55,9 +55,7 @@ Você pode usar os arquivos `checkout5-custom.js` e `orderplaced2-custom.js` p
 4. No menu __Arquivos__, localizado no lado direito da página, clique naqueles em que desejar realizar ajustes no código.
 5. Clique no botão `Salvar`.
 
-<div class="alert alert-warning">
-  Customizar arquivos de Javascript pode danificar seu Checkout. A VTEX <b>não recomenda</b> customizações e não se responsabiliza por qualquer dano causado por esse código.
-</div>
+>⚠️ Customizar arquivos de Javascript pode danificar seu Checkout. A VTEX **não recomenda** customizações e não se responsabiliza por qualquer dano causado por esse código.
 
 __IMPORTANTE:__ não use esses arquivos para inserir tags de marketing e integrações. Se precisar delas, faça isso pelo Google Tag Manager.
 

@@ -17,9 +17,7 @@ announcementSynopsisPT: 'Recomendamos que você atualize as entradas CAA dos seu
 
 Com a aproximação da __Black Friday__, recomendamos que você atualize as entradas CAA dos seus gerenciadores de DNS até __9 de novembro__. Essa ação é necessária para que o certificado SSL seja gerado e/ou renovado. Só assim é possível usar a CDN da VTEX.
 
-<div class="alert alert-warning">
-<strong>Atenção:</strong> esses tipos de entrada podem não estar disponíveis na interface do seu gerenciador de DNS, mas muitas vezes é possível gerenciá-los através de chamados no suporte da ferramenta específica.
-</div>
+>⚠️ **Atenção:** esses tipos de entrada podem não estar disponíveis na interface do seu gerenciador de DNS, mas muitas vezes é possível gerenciá-los através de chamados no suporte da ferramenta específica.
 
 
 ## O que você precisa fazer?
@@ -34,9 +32,7 @@ Nas configurações do __Gerenciador de DNS__, confira (ou peça para o respons�
 ## Qual o impacto?
 Cadastrar as novas entradas apenas permite que as entidades __Digicert__, __Comodo__, __Globalsign__ e __Let's encrypt__ possam gerar e renovar certificados para seu domínio. __Esses certificados são fundamentais para que sua loja possa usar a CDN da VTEX e ter uma performance superior.__ Se a atualização não for feita, sua loja pode ter problemas de performance e demorar mais para ser carregada.
 
-<div class="alert alert-info">
-Lojas que não têm nenhuma entrada CAA configurada <strong>não precisam fazer a configuração</strong> e <strong>não serão afetadas</strong>.
-</div>
+>ℹ️ Lojas que não têm nenhuma entrada CAA configurada **não precisam fazer a configuração** e **não serão afetadas**.
 
 
 ## Conteúdos úteis

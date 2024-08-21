@@ -25,6 +25,4 @@ Cuando el ERP consulta e inserta este pedido en su base, es necesario que él le
 
 > Es necesario tener un [perfil de acceso con permiso OMS - Full access](https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#oms-full-access "Perfis de acesso - OMS Full access") para llevar a cabo esta acción.
 
-<div class="alert alert-warning">
-<p>Si el pedido pasa del status <b>Iniciar preparación</b> manualmente, no será posible bajar el pedido para el ERP posteriormente.</p>
-</div>
+>⚠️ Si el pedido pasa del status **Iniciar preparación** manualmente, no será posible bajar el pedido para el ERP posteriormente.

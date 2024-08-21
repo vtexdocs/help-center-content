@@ -39,9 +39,7 @@ Este artículo tiene por objetivo orientar el registro de la integración con Vi
 
 &bull; __Nombre del campo de especificación de producto que contiene su descripción__: si desea utilizar una descripción diferente de la que ya está registrada en el catálogo de VTEX, usted tiene la opción de crear un [campo de producto](/es/tutorial/criando-um-campo-de-produto) de tipo _Texto Grande_. Rellenando ese campo, la integración va a priorizar el envío de la descripción contenida en él (en lugar de la descripción original del producto).
 
-<div class="alert alert-danger">
-<strong>OBS:</strong> atente a las configuraciones en la creación de este nuevo campo para que la nueva información creada <strong>no</strong> aparezca en su sitio.
-</div>
+>❗ **OBS:** atente a las configuraciones en la creación de este nuevo campo para que la nueva información creada **no** aparezca en su sitio.
 
 & bull; __Tasa de Divergencia de Precio\*:__ es la tasa de aceptación de la diferencia de valor de un pedido. Cualquier pedido que tenga una diferencia entre el precio de venta en el marketplace y el precio determinado por el seller [será comparado con ese valor](/es/faq/por-que-el-pedido-fue-cerrado-con-el-precio-incorrecto). Si la divergencia, en porcentual, es menor que el valor definido en ese campo, el pedido se integrará normalmente. En caso contrario, el pedido no se integrará y usted podrá verlo en la pestaña de pedidos [dentro de la sección de integraciones en el Admin](/es/tutorial/como-verificar-la-integracion-en-bridge).
 

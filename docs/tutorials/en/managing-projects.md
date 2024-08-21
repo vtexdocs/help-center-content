@@ -23,9 +23,7 @@ Each project is customized with its own settings, content, and branding accordin
 
 In this guide, you will learn how to manage each frontend project of your store.
 
-<div class="alert alert-warning">
-  <a href="https://developers.vtex.com/docs/guides/faststore/1-onboarding-overview"> FastStore WebOps users</a>: Changes made through the Headless CMS in VTEX Admin, such as creating new content types, adding sections, or updating fields, may not automatically appear in the storefront once you publish them. This is a known issue, and you should contact your development team to implement the necessary workaround. For detailed instructions, refer to the <a href="https://help.vtex.com/known-issues/webops-app-is-not-fully-integrated-with-headless-cms--577fIocKB9BYYCOkN9dZfW"> WebOps app is not fully integrated with Headless CMS</a> known issue article.
-</div>
+>⚠️ [ FastStore WebOps users](https://developers.vtex.com/docs/guides/faststore/1-onboarding-overview): Changes made through the Headless CMS in VTEX Admin, such as creating new content types, adding sections, or updating fields, may not automatically appear in the storefront once you publish them. This is a known issue, and you should contact your development team to implement the necessary workaround. For detailed instructions, refer to the [ WebOps app is not fully integrated with Headless CMS](https://help.vtex.com/known-issues/webops-app-is-not-fully-integrated-with-headless-cms--577fIocKB9BYYCOkN9dZfW) known issue article.
 
 ## Before you begin
 For the Headless CMS management, make sure the [resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) `See CMS menu on the top-bar`, `Settings*`, and `CMS GraphQL API` are associated with your [user role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc). Otherwise, [create a custom user role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) and add these resources to it or add these resources to an existing user role.

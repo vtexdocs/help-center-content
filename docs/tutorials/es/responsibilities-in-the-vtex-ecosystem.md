@@ -164,9 +164,7 @@ Aun así, pueden existir tiendas partner estratégicas para tu empresa que opere
 
 Respecto al soporte a una operación en este contexto, es importante que el retailer comprenda las responsabilidades de cada participante en la operación, que se detallan a continuación.
 
-<div class="alert alert-warning">
-  <p>Las secciones siguientes contemplan una tienda en operación integrada con un marketplace externo vía conector externo. Para saber cómo integrar por primera vez tu catálogo de VTEX con un conector externo, consulta el tutorial <a href="https://developers.vtex.com/docs/guides/external-marketplace-integration-catalog" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">Catalog Integration</a>.</p>
-</div>
+>⚠️ Las secciones siguientes contemplan una tienda en operación integrada con un marketplace externo vía conector externo. Para saber cómo integrar por primera vez tu catálogo de VTEX con un conector externo, consulta el tutorial [Catalog Integration](https://developers.vtex.com/docs/guides/external-marketplace-integration-catalog" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word).
 
 ### Actualización o envío de nuevos productos y SKU
 

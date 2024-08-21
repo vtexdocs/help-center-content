@@ -18,9 +18,7 @@ internalReference: 956264
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando el informe 'Notifícame' no tiene SKUs, al intentar exportarlo se generará un archivo corrupto a Excel

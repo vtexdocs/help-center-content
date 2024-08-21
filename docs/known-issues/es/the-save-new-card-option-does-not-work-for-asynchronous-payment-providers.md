@@ -18,9 +18,7 @@ internalReference: 308892
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando el cliente intenta añadir una nueva tarjeta en la sección Mi cuenta de las tiendas cuyas afiliaciones no devuelven una respuesta sincrónica, el sistema devolverá _ocurrió un error al intentar registrar la tarjeta_ y se podrá generar un cargo indebido de R$1,50.

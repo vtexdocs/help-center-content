@@ -38,17 +38,13 @@ Para una mejor comprensión, presentaremos un escenario (dividido en 3 pasos), d
 |------------------|------------------|
 | Haga clic en `Ir para la Entrega`. | Checkout solicita a RC.JS que transfiera la dirección de correo electrónico y la información del carrito a Master Data (a través del Profile System). |
 
-<div class="alert alert-warning">
-Para que se pueda utilizar la función <a href="https://help.vtex.com/es/tutorial/acesse-o-carrinho-abandonado-dos-clientes--4bbXy1TlzJaiCr41xKDN4e#">carrito abandonado</a>, es necesario que el usuario haya rellenado los siguientes datos: e-mail, nombre, apellidos y CPF. La falta de alguno de estos datos, imposibilita la utilización del carrito abandonado.
-</div>
+>⚠️ Para que se pueda utilizar la función [carrito abandonado](https://help.vtex.com/es/tutorial/acesse-o-carrinho-abandonado-dos-clientes--4bbXy1TlzJaiCr41xKDN4e#), es necesario que el usuario haya rellenado los siguientes datos: e-mail, nombre, apellidos y CPF. La falta de alguno de estos datos, imposibilita la utilización del carrito abandonado.
 
 | __Usuario__ | __Plataforma VTEX__ |
 |------------------|------------------|
 | Rellena los datos de envío y pago. | The Checkout orderForm becomes an order and is transmitted to the VTEX OMS. El orderForm de Checkout se convierte en un pedido y se transmite al VTEX OMS. La información completa del usuario (nombre, apellido, correo electrónico, carrito y toda la información adicional) se transmite a Master Data. La captura de correo electrónico puede tardar hasta 46 minutos en reflejarse correctamente en CRM. |
 
-<div class="alert alert-info">
-Cada módulo VTEX es responsable de solicitar RC.JS para transmitir los datos capturados en la sesión. RC.JS está destinado a actuar como un "mensajero" de información.
-</div>
+>ℹ️ Cada módulo VTEX es responsable de solicitar RC.JS para transmitir los datos capturados en la sesión. RC.JS está destinado a actuar como un "mensajero" de información.
 
 ![image (3)](https://images.ctfassets.net/alneenqid6w5/18dCifD9tOEo8mgUocamIc/958e0da9d2c7aa724f5c1c80bb0b616e/image__3_.png)
 

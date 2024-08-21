@@ -34,4 +34,4 @@ The next spreadsheet fields are optional, being used only to make SKU identifica
 - **Ref ID (View Only):** unique reference code, usually created by a store's internal systems, that facilitates the catalog's product organization.
 - **EAN (View Only):** SKU's identification code (barcode).
 
-<div class="alert alert-warning">Imported price spreadsheets have a size limit of 1 MB. If your current spreadsheet exceeds that limit, we recommend dividing it into multiple files, <strong>making sure that prices that refer to the same SKU are kept together</strong>.</div>
+>⚠️ Imported price spreadsheets have a size limit of 1 MB. If your current spreadsheet exceeds that limit, we recommend dividing it into multiple files, **making sure that prices that refer to the same SKU are kept together**.

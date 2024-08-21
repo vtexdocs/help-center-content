@@ -18,9 +18,7 @@ internalReference: 930491
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Durante o processo de envio de faturas, é possível que o usuário envie faturas de saída e de entrada, mas se forem feitas duas faturas parciais em um pedido, uma de saída e outra de entrada, o sistema soma esses valores para validar se o pedido pode receber uma nova fatura, impossibilitando que pedidos cujo item foi faturado e depois devolvido não tenham seu valor total faturado.

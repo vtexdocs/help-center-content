@@ -18,9 +18,7 @@ internalReference: 899508
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se inicia una búsqueda desde el filtro "productClusterIds", al aplicar cualquier filtro adicional se convertirá en "productClusterNames", perdiendo la característica de presentar los ítems con la ordenación definida manualmente en la colección de productos.

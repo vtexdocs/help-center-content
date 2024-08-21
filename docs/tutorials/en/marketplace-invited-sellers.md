@@ -47,10 +47,8 @@ You can invite sellers by sending them a link by email with all the necessary in
 
 The seller will receive an invitation by email to sell on your marketplace. 
 
-<div class="alert alert-info">
-The link sent to the seller by email is valid for seven days. Once the link is opened, the seller has six hours to complete the registration form, without interruption. 
-If the registration cannot be completed within six hours, the marketplace needs to send the invitation again. To resend the invitation, access MARKETPLACE > Invite sellers. Select the seller in the list and click on the  <i class="fas fa-paper-plane"></i> Resend invitation button.
-</div>
+>ℹ️ The link sent to the seller by email is valid for seven days. Once the link is opened, the seller has six hours to complete the registration form, without interruption. 
+> If the registration cannot be completed within six hours, the marketplace needs to send the invitation again. To resend the invitation, access MARKETPLACE > Invite sellers. Select the seller in the list and click on the  <i class="fas fa-paper-plane"></i> Resend invitation button.
 
 ## Connecting sellers
 

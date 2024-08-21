@@ -16,9 +16,7 @@ trackSlugPT: catalogo-101
 
 Há três formas de cadastrar suas especificações: por meio do admin, por planilha ou por API.
 
-<div class="alert alert-warning">
-<p>Na VTEX, as especificações seguem uma lógica de “herança”, ou seja, ao criar uma especificação em um nível de categoria mais alto, a especificação será apresentada em todos os níveis de categoria abaixo dela. Portanto, se for necessário criar uma especificação de produto ou SKU que se aplique a apenas uma categoria, esta deve ser criada no nível dessa categoria.</p>
-</div>
+>⚠️ Na VTEX, as especificações seguem uma lógica de “herança”, ou seja, ao criar uma especificação em um nível de categoria mais alto, a especificação será apresentada em todos os níveis de categoria abaixo dela. Portanto, se for necessário criar uma especificação de produto ou SKU que se aplique a apenas uma categoria, esta deve ser criada no nível dessa categoria.
 
 Siga o passo a passo abaixo para cadastrar as especificações:
 

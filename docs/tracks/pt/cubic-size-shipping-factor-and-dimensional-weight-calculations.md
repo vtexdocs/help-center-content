@@ -44,9 +44,7 @@ Exemplo:
 
 Neste caso, ao comparar o peso real com o peso cubado do pacote, a transportadora fará a cobrança pelo peso real, pois ele é maior que o peso cubado.
 
-<div class="alert alert-warning">
-  Verifique com sua transportadora se a unidade de medidas está em <strong>gramas</strong>, que é a unidade utilizada na VTEX.
-</div>
+>⚠️ Verifique com sua transportadora se a unidade de medidas está em **gramas**, que é a unidade utilizada na VTEX.
 
 Ao realizar o cadastro da sua transportadora, esse é o valor que você deve preencher no campo Fator Cúbico de Peso.
 

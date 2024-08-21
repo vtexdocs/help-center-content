@@ -15,11 +15,13 @@ legacySlug: probando-webservice-con-soapui
 subcategory: 1vwB9FtTSQmcSewQw02QoW
 ---
 
-<div class="alert alert-danger"><p>Atención: sólo los métodos SOAP pertinentes al <strong>catálogo</strong> son válidos.</p>
-<p><strong>Todos los demás métodos del Web Service serán discontinuados después de 28/02/2017.</strong></p>
-<p>Utilice las API REST equivalentes disponibles en nuestro<a href="//help.vtex.com/developer-docs/">Developer Docs</a>.</p></div>
+>❗ Atención: sólo los métodos SOAP pertinentes al **catálogo** son válidos.
+>
+> **Todos los demás métodos del Web Service serán discontinuados después de 28/02/2017.**
+>
+> Utilice las API REST equivalentes disponibles en nuestro[Developer Docs](//help.vtex.com/developer-docs/).
 
-<div class="alert alert-warning">Las configuraciones documentadas en este artículo son realizadas en un ambiente fuera de VTEX, por lo tanto, pueden ser discontinuadas sin previo aviso.</div>
+>⚠️ Las configuraciones documentadas en este artículo son realizadas en un ambiente fuera de VTEX, por lo tanto, pueden ser discontinuadas sin previo aviso.
 
 SoapUI es una herramienta que puede ser utilizada para simular conexión y ejecución de métodos de un determinado webservice, sin tener la necesidad de hacer eso vía desarrollo.
 
@@ -44,6 +46,8 @@ Efectúe el login con los datos de webservice deseado. Después de efectuar el l
 3. Localice el botón __"Auth"__ y repita la autenticación antes de ejecutar el método;
 4. Ejecute el método.
 
-<div class="alert alert-danger"><p>Atenção: sólo los métodos SOAP correspondientes al <strong>catálogo</strong> son válidos.</p>
-<p><strong>Todos los demás métodos están descontinuados.</strong></p>
-<p>Utilice las API REST equivalentes disponibles en nuestro <a href="//help.vtex.com/developer-docs/">Developer Docs</a>.</p></div>
+>❗ Atenção: sólo los métodos SOAP correspondientes al **catálogo** son válidos.
+>
+> **Todos los demás métodos están descontinuados.**
+>
+> Utilice las API REST equivalentes disponibles en nuestro [Developer Docs](//help.vtex.com/developer-docs/).

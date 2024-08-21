@@ -18,9 +18,7 @@ internalReference: 992503
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O anexo de carrinho `shippingData` suporta o campo `addressId` em alguns objetos diferentes: `logisticsInfo`, `address` e `selectedAddresses`.

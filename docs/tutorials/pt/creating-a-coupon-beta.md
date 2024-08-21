@@ -69,9 +69,7 @@ A seção **Geral** apresenta campos que você deve preencher com as informaçõ
     * **Número de cupons:** permite definir o número de códigos a serem gerados a partir do prefixo definido em **Código do cupom**. O número máximo é 1000.
     * **Exportar cupons:** botão que permite exportar os códigos do grupo de cupons. Essa opção fica disponível apenas ao editar um grupo de cupons já existente.
 
-<div class="alert alert-warning">
-<p>Ao menos uma das UTMs precisa ser definida, ou seja, é obrigatório preencher a <strong>UTM source</strong> ou a <strong>UTM campaign</strong>. Também é possível preencher ambos os campos.</p>
-</div>
+>⚠️ Ao menos uma das UTMs precisa ser definida, ou seja, é obrigatório preencher a **UTM source** ou a **UTM campaign**. Também é possível preencher ambos os campos.
 
 ### Restrições
 
@@ -81,9 +79,7 @@ Nesta seção do formulário, você pode configurar as seguintes restrições de
 
   Ao manter essa opção desativada, o cupom pode ser utilizado por uma quantidade ilimitada de vezes.
 
-  <div class="alert alert-warning">
-<p>Caso ocorra o cancelamento de um pedido com cupom de uso limitado, o limite será recalculado. Isso significa que pedidos com status <strong>Cancelado </strong>não contam no limite de vezes que o cupom poderá ser utilizado.</p>
-  </div>
+  >⚠️ Caso ocorra o cancelamento de um pedido com cupom de uso limitado, o limite será recalculado. Isso significa que pedidos com status **Cancelado **não contam no limite de vezes que o cupom poderá ser utilizado.
 
 ## Cupons gerados
 

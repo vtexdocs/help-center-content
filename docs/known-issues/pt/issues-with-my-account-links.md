@@ -18,9 +18,7 @@ internalReference: 522514
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Os links em Minha conta (menu do cabeçalho) não funcionam se o usuário já estiver na seção Minha conta

@@ -131,9 +131,7 @@ Después de definir y planificar la [arquitectura del catálogo](https://help.vt
 2. **API de Catálogo:** crear cada categoría mediante llamadas de API. Consulta los detalles en [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/category).
 3. **Integración con back office:** importar categorías a partir de un software de back office externo (ERP o PIM) integrado a VTEX. El software puede ofrecer una integración nativa con VTEX o requerir el desarrollo de middleware que utilice la [API de Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#overview). Consulta los detalles en [Category migration from ERPs](https://developers.vtex.com/docs/guides/erp-integration-set-up-catalog#category-migration-from-erps).
 
-<div class="alert alert-warning">
-Al importar las categorías de un software externo, la estructura de categorías en el software puede diferir de la de VTEX. En este caso, recomendamos crear una categoría simulada inactiva que no será visible en el storefront y que se puede utilizar para recibir todos los productos y SKU durante la importación. Una vez finalizada la importación, los productos pueden organizarse manualmente en el Admin VTEX para ajustarse al árbol de categorías deseado.
-</div>
+>⚠️ Al importar las categorías de un software externo, la estructura de categorías en el software puede diferir de la de VTEX. En este caso, recomendamos crear una categoría simulada inactiva que no será visible en el storefront y que se puede utilizar para recibir todos los productos y SKU durante la importación. Una vez finalizada la importación, los productos pueden organizarse manualmente en el Admin VTEX para ajustarse al árbol de categorías deseado.
 
 Las categorías tienen algunas limitaciones:
 
@@ -150,9 +148,7 @@ Las [marcas](https://help.vtex.com/es/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ
 2. **API de Catálogo:** crear cada marca mediante llamadas de API. Consulta los detalles en [Catalog API](https://developers.vtex.com/docs/api-reference/catalog-api#post-/api/catalog/pvt/brand).
 3. **Integración con back office:** importar marcas a partir de un software de back office externo (ERP o PIM) integrado a VTEX. El software puede ofrecer una integración nativa con VTEX o requerir el desarrollo de middleware que utilice la [API de Catálogo](https://developers.vtex.com/docs/api-reference/catalog-api#overview). Consulta los detalles en la sección [Create Brands](https://developers.vtex.com/docs/guides/erp-integration-set-up-catalog#create-brands) de la guía de configuración de Catálogo para back office.
 
-<div class="alert alert-warning">
-Si el sistema de back office no tiene la información sobre marcas, se puede aplicar el mismo procedimiento mencionado anteriormente para categorías en el que se crea una marca simulada inactiva que solo se usa para la migración. Luego, la información de los productos puede ingresarse manualmente.
-</div>
+>⚠️ Si el sistema de back office no tiene la información sobre marcas, se puede aplicar el mismo procedimiento mencionado anteriormente para categorías en el que se crea una marca simulada inactiva que solo se usa para la migración. Luego, la información de los productos puede ingresarse manualmente.
 
 Para más información sobre la importación de marcas al back office, consulta [Brands](https://developers.vtex.com/docs/guides/brands).
 
@@ -201,9 +197,7 @@ La importación de productos debe seguir el orden descrito en la tabla a continu
 
 <br>
 
-<div class="alert alert-warning">
-Es común que los datos de productos en el ERP no sean adecuados para uso y visualización en una tienda online. Por esta razón, debe llevarse a cabo un proceso de enriquecimiento, que puede incluir reestructuración de categorías y la creación de descripciones de productos más detalladas y atractivas.
-</div>
+>⚠️ Es común que los datos de productos en el ERP no sean adecuados para uso y visualización en una tienda online. Por esta razón, debe llevarse a cabo un proceso de enriquecimiento, que puede incluir reestructuración de categorías y la creación de descripciones de productos más detalladas y atractivas.
 
 Después de la importación, también es importante garantizar que los datos de los productos y SKU se mantengan actualizados. Consulta las instrucciones en el artículo [Update or delete information](https://developers.vtex.com/docs/guides/erp-integration-updating-and-deleting-information).
 

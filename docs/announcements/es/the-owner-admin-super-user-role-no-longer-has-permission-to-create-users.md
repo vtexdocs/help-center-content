@@ -59,9 +59,7 @@ Si deseas que algún usuario de tu tienda pueda realizar las acciones asociadas 
 
 Las claves de aplicación con el rol de usuario **Owner (Admin Super)** no recibirán el rol **User Administrator - RESTRICTED** automáticamente. Por lo tanto, si deseas que alguna clave de aplicación pueda realizar las acciones asociadas al recurso **Save user** antes mencionadas, debes asegurarte de que la clave tenga el rol **User Administrator - RESTRICTED** o crear un [rol de usuario personalizado](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#tipos-de-roles) que incluya el recurso **Save user**.
 
-<div class="alert alert-warning">
-Ten en cuenta que con los cambios descritos anteriormente, las claves de aplicación dejarán de tener el recurso <b>Save user</b> y será necesario que un usuario con este recurso se lo asigne, de ser necesario.
-</div>
+>⚠️ Ten en cuenta que con los cambios descritos anteriormente, las claves de aplicación dejarán de tener el recurso **Save user** y será necesario que un usuario con este recurso se lo asigne, de ser necesario.
 
 ## ¿Cómo proteger las llaves de tu tienda?
 

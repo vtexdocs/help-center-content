@@ -71,9 +71,7 @@ Para crear la **segunda regla**, haz clic en el `<img class="shadow-4" src="http
 
 Configura la nueva regla de autorización y, después de definir todas las reglas que desees, haz clic en el botón **GUARDAR REGLAS**. Verás el siguiente mensaje: _Después de guardar las reglas, puedes editarlas o eliminarlas cuando quieras_. Haz clic en **OK** para confirmar. Una vez que hayas hecho esto, se creará la regla de divergencia de precios.
 
-<div class="alert alert-warning">
-Después de que hayas configurado la regla de divergencia de precios, esta se aplicará a todos los <i>marketplaces</i> en los que actúes como seller.
-</div>
+>⚠️ Después de que hayas configurado la regla de divergencia de precios, esta se aplicará a todos los <i>marketplaces</i> en los que actúes como seller.
 
 ## Editar una regla de divergencia de precios
 
@@ -95,9 +93,7 @@ Una vez que hayas hecho los cambios deseados, haz clic en el botón **GUARDAR RE
 
 Cuando una regla de autorización se configura con la opción _Crear una tarea en VTEX DO para aprobación_, esto significa que se ha asignado al menos un usuario para autorizar manualmente el pedido. La [gestión de pedidos con divergencia de precios](https://help.vtex.com/es/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW#gestion-de-pedidos-con-divergencia-de-precios) es similar a la de otros canales de venta, como la tienda física o el ecommerce.
 
-<div class="alert alert-warning">
-Es importante hacer un seguimiento regular de los pedidos en <b>Pedidos > Todos los pedidos</b>. Si requieren aprobación manual, los pedidos con errores de divergencia de precios quedan pendientes de autorización por parte de un usuario habilitado, definido al crear la regla de autorización. Una buena práctica es tener al menos dos usuarios con autorización para realizar el procesamiento manual.
-</div>
+>⚠️ Es importante hacer un seguimiento regular de los pedidos en **Pedidos > Todos los pedidos**. Si requieren aprobación manual, los pedidos con errores de divergencia de precios quedan pendientes de autorización por parte de un usuario habilitado, definido al crear la regla de autorización. Una buena práctica es tener al menos dos usuarios con autorización para realizar el procesamiento manual.
 
 Hay dos maneras de autorizar manualmente un pedido con divergencia de precios:
 

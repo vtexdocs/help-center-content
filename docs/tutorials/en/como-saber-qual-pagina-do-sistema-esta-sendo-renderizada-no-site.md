@@ -31,8 +31,6 @@ See below the relationship between the folder in the CMS and the store's source 
 
 ![CommerceContext](https://images.contentful.com/alneenqid6w5/6diTrNVvl6OuwGKmoICSA0/4e958baa7ab163bcf06ac5963795feff/CommerceContext.png)
 
-<div class="alert alert-info">
-This line of code is always commented out. Therefore, it has only informative function. That is, it does not take any action.
-</div>
+>ℹ️ This line of code is always commented out. Therefore, it has only informative function. That is, it does not take any action.
 
 This information is useful, for example, to know which folder the search for a certain term is returning in your store.

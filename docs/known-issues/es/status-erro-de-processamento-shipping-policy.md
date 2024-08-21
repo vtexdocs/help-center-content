@@ -18,9 +18,7 @@ internalReference: 445793
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Hay un escenario con respecto al estado de la Política de Envío después de crear/actualizar los valores de carga de la API. El estado sigue pendiente como "Error al procesar" en caso de creación sin hoja de cálculo.

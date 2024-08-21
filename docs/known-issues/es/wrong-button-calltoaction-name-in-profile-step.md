@@ -18,9 +18,7 @@ internalReference: 514532
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al rellenar los datos en el paso de perfil en la compra y pasar al paso de envío, al volver pulsando la flecha de retorno del navegador, al llegar de nuevo al perfil el botón para pasar al siguiente paso, debería estar con el nombre de '**Ir a la entrega**' sin embargo dice '**Ir al pago**', incluso con el componente de envío aún sin rellenar.

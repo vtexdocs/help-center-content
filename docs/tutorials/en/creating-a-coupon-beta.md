@@ -71,9 +71,7 @@ The **General** section presents several fields you must fill in with general in
     * **Number of coupons:** Allows to define the number of codes generated in a coupon batch. The maximum number is 1000.
     * **Export coupons:** This button allows you to export the coupon codes within a coupon batch. This option only becomes available when editing already existing coupon batches.
 
-<div class="alert alert-warning">
-<p>You must define at least one UTM. This means it is required to fill in either the <strong>UTM source</strong> or the <strong>UTM campaign</strong> field. You can also fill in both fields.</p>
-</div>
+>⚠️ You must define at least one UTM. This means it is required to fill in either the **UTM source** or the **UTM campaign** field. You can also fill in both fields.
 
 ### Restrictions
 
@@ -83,9 +81,7 @@ In this section of the form, you can configure the following coupon usage restri
 
   If this option remains disabled, the coupon can be used for an unlimited number of times.
 
-  <div class="alert alert-warning">
-<p>In case an order with a limited usage coupon applied is canceled, the limit will be recalculated. This means that orders with the <strong>Canceled</strong> status will not be calculated into the coupon usage limit.</p>
-  </div>
+  >⚠️ In case an order with a limited usage coupon applied is canceled, the limit will be recalculated. This means that orders with the **Canceled** status will not be calculated into the coupon usage limit.
 
 ## Generated coupons
 

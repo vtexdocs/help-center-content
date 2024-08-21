@@ -43,6 +43,4 @@ Only the Sponsor user can perform these critical maintenance and authorization a
 
 In addition, when VTEX needs to communicate store-sensitive information, such as changes in roles, such communication is done directly and exclusively with the Sponsor user.
 
-<div class="alert alert-info">
-The creation of <a href="https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet">authentication credentials</a> (appKey/appToken) for API integrations is no longer restricted to the Sponsor user. See this <a href="https://help.vtex.com/en/announcements/changes-in-the-name-and-restricted-actions-available-to-the-master-user">announcement</a> for more details about this change.
-</div>
+>ℹ️ The creation of [authentication credentials](https://help.vtex.com/en/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) (appKey/appToken) for API integrations is no longer restricted to the Sponsor user. See this [announcement](https://help.vtex.com/en/announcements/changes-in-the-name-and-restricted-actions-available-to-the-master-user) for more details about this change.

@@ -18,9 +18,7 @@ internalReference: 466147
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O controle `<vtex:contentPlaceHolder id="Acessorios"/>` deve trazer uma visão dos produtos relacionados definidos como o tipo `acessorios` para a página do produto.

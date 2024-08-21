@@ -41,8 +41,7 @@ Para definir o catálogo de produtos que vai ser enviado ao marketplace, o lojis
 4. Marque a flag __Políticas Comerciais__ para as políticas comerciais escolhidas.
 5. Clique em __Salvar__.
 
-<div class="alert alert-danger">A VTEX não recomenda realizar a gestão de catálogo de produtos para marketplace através de coleções. Esse mecanismo gera muitas complexidades na organização, sendo recomendada a gestão através da flag Políticas Comerciais.
-</div>
+>❗ A VTEX não recomenda realizar a gestão de catálogo de produtos para marketplace através de coleções. Esse mecanismo gera muitas complexidades na organização, sendo recomendada a gestão através da flag Políticas Comerciais.
 
 ## Definindo a logística
 

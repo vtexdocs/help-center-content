@@ -18,9 +18,7 @@ internalReference: 671748
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Estamos tendo alguns casos em que o valor do frete não é mostrado dentro dos detalhes das transações de pagamento - OMS

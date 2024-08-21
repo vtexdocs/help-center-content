@@ -18,9 +18,7 @@ internalReference: 797989
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El campo `reference` de la dirección del punto de recogida siempre se establece como nulo aunque esté registrado en la API del punto de recogida.

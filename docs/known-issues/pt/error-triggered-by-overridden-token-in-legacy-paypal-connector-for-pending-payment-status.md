@@ -18,9 +18,7 @@ internalReference: 308214
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Em nosso conector legado do PayPal, enfrentamos um problema relacionado à substituição do campo `TOKEN` por `PAYMENTINFO_0_TRANSACTIONID`. O problema surge quando o provedor envia um status de pagamento como pendente. Consequentemente, o TOKEN é substituído por nossa implementação do conector, levando a um erro acionado pelo PayPal durante as solicitações subsequentes. Como resultado, a transação fica presa com uma mensagem de "token inválido".

@@ -18,9 +18,7 @@ internalReference: 449341
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao usar qualquer promoção que cause a divisão de um item e dois vendedores diferentes forem selecionados, clicar em "Comprar agora" exibirá a mensagem "o tipo de frete foi alterado", impedindo a conclusão da compra.

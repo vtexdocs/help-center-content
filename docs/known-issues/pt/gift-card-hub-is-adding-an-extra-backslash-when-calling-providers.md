@@ -18,9 +18,7 @@ internalReference: 669575
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Nossa API do hub Gift Card está adicionando uma contrabarra extra ao pedido ao ligar para os fornecedores. Isto é causado pela forma como convertemos o serviçoUrl e o concatenamos com a URL fornecida pelo conector.

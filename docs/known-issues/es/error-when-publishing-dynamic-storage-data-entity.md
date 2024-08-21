@@ -18,9 +18,7 @@ internalReference: 666357
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando la tienda crea o actualiza una Entidad de Datos y luego intenta publicarla, puede ocurrir el siguiente error:

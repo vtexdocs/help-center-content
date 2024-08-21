@@ -18,9 +18,7 @@ internalReference: 1012724
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Los impuestos del porcentaje de envío no se devuelven en el campo `logisticsInfo.slas.tax` al realizar una simulación de pago aunque la información de los impuestos individuales esté disponible en el campo `items.priceTags`.

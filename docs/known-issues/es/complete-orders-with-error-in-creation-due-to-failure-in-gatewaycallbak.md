@@ -18,9 +18,7 @@ internalReference: 416936
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Hemos recibido algunas consultas sobre pedidos que estaban atascados en el estado de pago aprobado pero que ya lo estaban, lo que no debería ocurrir en el flujo normal de pedidos.

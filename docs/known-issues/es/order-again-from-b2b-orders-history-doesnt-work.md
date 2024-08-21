@@ -18,9 +18,7 @@ internalReference: 819920
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se utiliza la aplicación Historial de Pedidos B2B, la funcionalidad Volver a Pedir no funciona.

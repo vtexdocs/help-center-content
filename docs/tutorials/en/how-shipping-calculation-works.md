@@ -46,14 +46,13 @@ The selection of logistics combinations is made according to the criteria below,
   <li><b>Inventory availability:</b> The stock is the physical location where items are stored, while <a href="https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139">inventory</a> is the list of SKUs of available stocks for sale. This criterion confirms the order items are available in a stock, and that the stock has at least one loading dock available.</li>
 </ul>
 <br>
-  <div class="alert alert-warning">
-In case of a <a href="https://help.vtex.com/en/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28">kit</a> shipment, there are two conditions:
-  <ul>
-    <li>The kit components must have the same <a href="https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj">loading dock</a>.</li>
-    <li>The kit components must be available in the <a href="https://help.vtex.com/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/2XyUVa0UKMyHTmwqyA5Bx6">inventory</a>.</li>
-  </ul>
-For more information, please see the article <a href="https://help.vtex.com/en/tutorial/como-e-calculado-o-frete-do-kit--frequentlyAskedQuestions_154">How to calculate the kit shipping rate</a>.
-</div>
+  >⚠️ In case of a [kit](https://help.vtex.com/en/tutorial/o-que-e-um-kit--5ov5s3eHM4AqAAgqWwoc28) shipment, there are two conditions:
+>
+> * The kit components must have the same [loading dock](https://help.vtex.com/en/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj).
+>
+> * The kit components must be available in the [inventory](https://help.vtex.com/en/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/2XyUVa0UKMyHTmwqyA5Bx6).
+>
+> For more information, please see the article [How to calculate the kit shipping rate](https://help.vtex.com/en/tutorial/como-e-calculado-o-frete-do-kit--frequentlyAskedQuestions_154).
 
 2. **Inventory prioritization:** The previously selected logistics routes are organized with the [inventory](https://help.vtex.com/en/tutorial/gerenciar-itens-em-estoque--tutorials_139) as a priority criterion. The lower the order of SKU quantity in stock, the higher the priority of the logistics route selection. So inventories with small item quantities are not blocked out. The logistics routes are listed in order, placing the top priority item in the first place and the lowest priority item in the last place.
 3. **Package grouping:** The VTEX platform calculates how the item orders may be split into packages to estimate the division into packages and [consignments](https://help.vtex.com/en/tutorial/como-funciona-a-remessa--tutorials_118).

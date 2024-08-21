@@ -18,9 +18,7 @@ internalReference: 844079
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El valor de la recompensa puede no ser o tener un valor diferente añadido a la tarjeta regalo del comprador cuando la promoción está configurada para aplicar el importe de la recompensa cuando el estado del pedido cambia a pago aprobado.

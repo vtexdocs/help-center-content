@@ -18,9 +18,7 @@ internalReference: 1053959
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Checkout UI utiliza el país registrado en su estado para validar la entrada del código postal.

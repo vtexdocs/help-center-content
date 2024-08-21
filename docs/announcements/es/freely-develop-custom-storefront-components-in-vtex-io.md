@@ -27,9 +27,7 @@ Si su tienda está construida con [VTEX Store Framework](https://developers.vtex
 
 A partir de ahora, **desarrolle componentes personalizados de *storefront* en [VTEX IO](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io) utilizando las tecnologías VTEX Store Framework y [React](https://reactjs.org/)** de acuerdo con sus necesidades de negocio, sin pedir permiso a VTEX.
 
-<div class="alert alert-info">
-Store Framework es la solución de VTEX para construir <i>storefronts</i> a altísima velocidad. Los clientes VTEX pueden aprovechar todos sus beneficios utilizando la plataforma de desarrollo de VTEX IO. Si no está familiarizado con VTEX IO, póngase en contacto con su Customer Success, Account Manager o Agencia Partner SI (integradora de sistemas) para saber cómo empezar.
-</div>
+>ℹ️ Store Framework es la solución de VTEX para construir <i>storefronts</i> a altísima velocidad. Los clientes VTEX pueden aprovechar todos sus beneficios utilizando la plataforma de desarrollo de VTEX IO. Si no está familiarizado con VTEX IO, póngase en contacto con su Customer Success, Account Manager o Agencia Partner SI (integradora de sistemas) para saber cómo empezar.
 
 ## ¿Qué cambió?
 
@@ -37,9 +35,7 @@ Antes, se requería que los desarrolladores interesados en crear componentes per
 
 Esto ya no es necesario, ya que **hemos pasado nuestro *builder* React oficialmente al status de beta abierta**. Puede disfrutar de esta autonomía para personalizar y mejorar su experiencia de storefront utilizando la tecnología [React](https://reactjs.org/).
 
-<div class="alert alert-warning">
-<bold>Este cambio se aplica únicamente al <i>builder</i> React.</bold> Aún se requiere que complete el <a href="https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io">Formulario de solicitud para desarrollo</a> y espere nuestra aprobación si su proyecto depende de <i>builders</i> que todavía están en beta cerrada. Esto incluye, por ejemplo, integraciones de <i>back-end</i> utilizando Node.js y GraphQL.  
-</div>
+>⚠️ <bold>Este cambio se aplica únicamente al <i>builder</i> React.</bold> Aún se requiere que complete el [Formulario de solicitud para desarrollo](https://developers.vtex.com/vtex-developer-docs/docs/what-is-vtex-io) y espere nuestra aprobación si su proyecto depende de <i>builders</i> que todavía están en beta cerrada. Esto incluye, por ejemplo, integraciones de <i>back-end</i> utilizando Node.js y GraphQL.
 
 ## ¿Por qué realizamos este cambio?
 
@@ -49,7 +45,5 @@ Entendemos que VTEX IO ha alcanzado suficiente madurez y estabilidad como plataf
 
 No se requiere ninguna acción por su parte. No obstante, tenga en cuenta que **VTEX no ofrece soporte para componentes personalizados desarrollados por terceros**. Su mantenimiento, desempeño y calidad están bajo la responsabilidad del proveedor de la aplicación.
 
-<div class="alert alert-info">
-Consulte nuestra documentación sobre <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-developing-custom-storefront-components">las mejores prácticas para el desarrollo de componentes personalizados de <i>storefront</i></a>!
-</div>
+>ℹ️ Consulte nuestra documentación sobre [las mejores prácticas para el desarrollo de componentes personalizados de <i>storefront</i>](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-developing-custom-storefront-components)!
 

@@ -25,9 +25,7 @@ To use Itaú Rede, you must:
 
 ## Obtain credentials in the Userede environment
 
-<div class="alert alert-warning">
-Configurations made in an environment external to VTEX may be discontinued or modified without prior notice. Check your Itaú Rede account for updated information.
-</div>
+>⚠️ Configurations made in an environment external to VTEX may be discontinued or modified without prior notice. Check your Itaú Rede account for updated information.
 
 To obtain the __App key__ and __App token__ credentials necessary to configure Itaú Rede on VTEX, follow the steps below:
 
@@ -59,9 +57,7 @@ To obtain the __App key__ and __App token__ credentials necessary to configure I
 
 <blockquote><ui>8. After creating the new key, click <b>copiar</b> and preserve the information in a safe location. This key must be used in the <b>Token de aplicação</b> field in the section <a href="#setting-up-itau-rede-on-vtex">Setting up Itaú Rede on VTEX</a>.
 
-<blockquote><ui><div class="alert alert-warning">
-Once an "chave de integração" is created in the Network environment, it cannot be accessed again from other locations. Record the "chave" information in a protected location, and if lost, repeat the process to generate a new key.
-  </div></ui></blockquote>
+<blockquote><ui>>⚠️ Once an "chave de integração" is created in the Network environment, it cannot be accessed again from other locations. Record the "chave" information in a protected location, and if lost, repeat the process to generate a new key.</ui></blockquote>
 
 ## Setting up Itaú Rede on VTEX
 

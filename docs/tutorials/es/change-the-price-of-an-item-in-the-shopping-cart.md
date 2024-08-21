@@ -20,9 +20,7 @@ En VTEX, las tiendas pueden configurar manualmente el precio de un artículo (SK
 - **Perfil de acceso**: Owner (Admin Super) o Call Center Operator (Telesales) 
 - **Permiso**: Shopping Cart Full Access
 
-<div class="alert alert-warning">
-  Los pasos a continuación se deben realizar en el dominio <i>myvtex</i> de cada tienda ({accountName}.myvtex.com.br).
-</div>
+>⚠️ Los pasos a continuación se deben realizar en el dominio <i>myvtex</i> de cada tienda ({accountName}.myvtex.com.br).
 
 ## Cambiar el precio del ítem
 

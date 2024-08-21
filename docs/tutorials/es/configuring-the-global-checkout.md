@@ -58,9 +58,7 @@ Supones que tu queiras enviar para clientes en Reino Unido. Para eso, es necesar
 1. [Creación de nueva transportadora](/es/tutorial/gestionar-transportista/);
 2. Crea, para la nueva transportadora, una planilla de envío con la columna “Country” con el código ISO de 3 digito del país deseado.
 
-<div class="alert alert-info">
-El valor de la columna “Country” debe ser un código ISO de 3 digitos para países. Para consultar los códigos aceitos, sugerimos usar el sítio<a href="https://countrycode.org/">https://countrycode.org/</a>.
-</div>
+>ℹ️ El valor de la columna “Country” debe ser un código ISO de 3 digitos para países. Para consultar los códigos aceitos, sugerimos usar el sítio[https://countrycode.org/](https://countrycode.org/).
 
 Después de la configuración de envío para los países que desea, un nuevo campo será exhibido en el formulario de envío en el checkout de la tienda, permitiendo al usuario elegir la opción de envío internacional deseada.
 

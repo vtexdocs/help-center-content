@@ -79,9 +79,7 @@ Para subir una plantilla con los puntos de recogida, siga los pasos a continuaci
 ## API REST
 
 
-<div class="alert alert-warning">
-Las autenticaciones para las llamadas de API REST del módulo de Logística se deben realizar vía  AppKey y AppToken. Para entender más, acceda a nuestro artículo sobre  <a href="https://help.vtex.com/es/tutorial/crear-appkey-y-apptoken-para-autenticar-las-integraciones--43tQeyQJgAKGEuCqQKAOI2">cómo generar un Appkey y un AppToken para autenticar sus integraciones</a>
-</div>
+>⚠️ Las autenticaciones para las llamadas de API REST del módulo de Logística se deben realizar vía  AppKey y AppToken. Para entender más, acceda a nuestro artículo sobre  [cómo generar un Appkey y un AppToken para autenticar sus integraciones](https://help.vtex.com/es/tutorial/crear-appkey-y-apptoken-para-autenticar-las-integraciones--43tQeyQJgAKGEuCqQKAOI2)
 
 Para registrar un **Punto de Recogida** por API, debe  enviar un __POST__ para el siguiente  endpoint:
 

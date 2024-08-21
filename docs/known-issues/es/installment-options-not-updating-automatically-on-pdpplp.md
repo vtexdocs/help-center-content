@@ -18,9 +18,7 @@ internalReference: 987467
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando una cuenta cambia las opciones de pago a plazos de un producto, a pesar de que el producto está correctamente indexado, las opciones de pago a plazos no se actualizan en el PLP o en el PDP (a veces en ambos).

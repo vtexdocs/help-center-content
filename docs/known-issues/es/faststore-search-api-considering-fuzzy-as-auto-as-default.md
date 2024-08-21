@@ -18,9 +18,7 @@ internalReference: 889321
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En el paquete @fatstore/api, para el Intelligent Search resolver, estamos considerando fuzzy como auto por defecto cuando deberia ser 0, esto esta causando que el comportamiento de fuzzy se aplique causando un "fake missmatch" en los resultados de busqueda cuando realmente tenemos una coincidencia exacta con el termino buscado, pero, mostramos mas resultados a pesar de que

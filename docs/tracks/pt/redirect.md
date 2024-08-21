@@ -16,9 +16,7 @@ trackSlugPT: vtex-intelligent-search
 
 **Redirecionamentos** direciona o cliente para qualquer outra página, seja interna ou externa à loja. Esse redirecionamento é feito na área de busca do seu storefront, utilizando termos ou filtros selecionados pelo cliente. Desse modo, uma das vantagens dos Redirecionamentos é contemplar cenários de comunicação que a busca de catálogo da loja não abrange, como o redirecionamento de uma pesquisa por uma marca para a sua página promocional.
 
-<div class="alert alert-warning">
-<p>Essa funcionalidade está disponível no VTEX Intelligent Search Multi-idioma. Leia o nosso artigo VTEX Intelligent Search: configurações Multi-idioma (Beta) para saber mais.</p>
-</div>
+>⚠️ Essa funcionalidade está disponível no VTEX Intelligent Search Multi-idioma. Leia o nosso artigo VTEX Intelligent Search: configurações Multi-idioma (Beta) para saber mais.
 
 ## Como o redirecionamento funciona
 

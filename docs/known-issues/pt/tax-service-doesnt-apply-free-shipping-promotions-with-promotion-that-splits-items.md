@@ -18,9 +18,7 @@ internalReference: 995527
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao usar o serviço de impostos, se houver uma promoção que divida os itens, por exemplo, uma promoção "Mais por menos" e uma promoção de frete grátis, o frete grátis não é aplicado corretamente para todos os itens na solicitação do serviço de impostos, causando um cálculo errado e evitando que o pedido seja criado com a mensagem "O pedido solicitado não pôde ser criado. Please try again."

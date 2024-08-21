@@ -15,9 +15,7 @@ legacySlug: order-allocation-algorithm-beta
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-<div class="alert alert-info">
-<p>This feature is in beta, which means that we are working to improve it. If you have any questions, please contact <a href= "https://support.vtex.com/hc/en-us/requests">our Support</a>.</p>
-</div>
+>ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact <a href= "https://support.vtex.com/hc/en-us/requests">our Support</a>.
 
 **Order Allocation Algorithm** is the VTEX platform algorithm that aims to select the seller that will ship orders at the lowest cost given by their configured [carrier's shipping rate templates](https://help.vtex.com/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE).
 

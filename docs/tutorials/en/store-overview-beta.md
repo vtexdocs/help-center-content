@@ -15,9 +15,7 @@ legacySlug: store-overview-beta
 subcategory: QPnz120TdtLcXSh65c4Gs
 ---
 
-<div class="alert alert-info">
-The updated version of the Store Overview (beta) page is available for use free of charge on the VTEX Admin during the beta phase or until stipulated by VTEX. It is important to note that charges may apply in the future. For the time being, the current version of the Store Overview page on the VTEX Admin will continue to be available.
-</div>
+>ℹ️ The updated version of the Store Overview (beta) page is available for use free of charge on the VTEX Admin during the beta phase or until stipulated by VTEX. It is important to note that charges may apply in the future. For the time being, the current version of the Store Overview page on the VTEX Admin will continue to be available.
 
 The Store Overview (Beta) page in your VTEX Admin provides real-time tracking of your operation on the current day, giving visibility into indicators that allow you and your team to get feedback about actions applied to the store and to quickly implement improvements.
 
@@ -65,8 +63,7 @@ You can use different metrics and monitoring charts for analyzing results, depen
 | Financial results | - Revenue captured <br>- [Average ticket](#monitoring) <br>- [Highest grossing products](#metrics)                                                                                                                                                                                         |
 | Conversion        | - [Conversion rate](#metrics) <br>- [Sales funnel](#sales-funnel) <br>- [Orders captured](#monitoring), compared to the number of canceled orders. Depending on the outcome, this can guide your team to identify operational problems in fulfillment or customer service that resulted in canceled orders. |
 
-<div class="alert alert-info"> Keep in mind that while the Monitoring charts are updated within three minutes, Metrics charts take fifteen minutes to be updated, which can influence the analysis of results. Learn more in <a href="#data-update">Data update</a>.
-</div>
+>ℹ️ Keep in mind that while the Monitoring charts are updated within three minutes, Metrics charts take fifteen minutes to be updated, which can influence the analysis of results. Learn more in [Data update](#data-update).
 
 ### Analyzing campaign results
 

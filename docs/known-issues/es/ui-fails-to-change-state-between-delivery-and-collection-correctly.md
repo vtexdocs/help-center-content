@@ -18,9 +18,7 @@ internalReference: 526736
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 A veces, cuando el usuario cambia el tipo de entrega entre entrega y recogida en el Checkout (importante que sea en el checkout y no en el carrito, aunque probablemente también ocurra en el carrito), el orderForm guarda el estado de entrega en `logisticsInfo` cuando se selecciona la recogida.

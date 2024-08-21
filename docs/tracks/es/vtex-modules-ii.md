@@ -28,9 +28,7 @@ El módulo [Pagos](https://help.vtex.com/es/tracks/pagos--6GAS7ZzGAm7AGoEAwDbwJG
 
 Para procesar y recibir los pagos de las compras realizadas en una tienda VTEX, es necesario contratar los servicios de uno o más proveedores de pago. Este contrato se realiza directamente entre el retailer y el proveedor respectivo, sin intervención ni participación de VTEX. Accede a la [Lista de proveedores de pago](https://help.vtex.com/es/tutorial/lista-de-proveedores-de-pago-por-pais--2im3BEGXxSAcRuxEaIHPvp) para consultar la disponibilidad de proveedores en VTEX en cada país.
 
-<div class="alert alert-warning">
-Recomendamos integrar más de un proveedor de pago en tu tienda para proporcionar una experiencia óptima al cliente al ofrecer diversos medios y condiciones de pago. Esto permite operar con diferentes tarifas y costos, mejorando el desempeño del negocio.
-</div>
+>⚠️ Recomendamos integrar más de un proveedor de pago en tu tienda para proporcionar una experiencia óptima al cliente al ofrecer diversos medios y condiciones de pago. Esto permite operar con diferentes tarifas y costos, mejorando el desempeño del negocio.
 
 Los ajustes de pago descritos en esta serie pueden realizarse en cualquier momento durante el proceso de onboarding. No obstante, para que la tienda pueda realizar cualquier tipo de transacción relacionada con pagos, es necesario que previamente se hayan configurado los módulos [Catálogo](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalogo), [Precios](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#precios) y [Logística](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistica).
 
@@ -191,9 +189,7 @@ Para ubicar el registro de una compra en el Admin VTEX, además de poder [filtra
 - Email del cliente
 - Documento del cliente
 
-<div class="alert alert-warning">
-Solo se puede acceder a la información de los pedidos creados en los dos últimos años. Este mismo periodo es aplicable para que los clientes accedan a sus pedidos a través de <a href="">Mi cuenta</a>.
-</div>
+>⚠️ Solo se puede acceder a la información de los pedidos creados en los dos últimos años. Este mismo periodo es aplicable para que los clientes accedan a sus pedidos a través de [Mi cuenta]().
 
 VTEX proporciona dos funcionalidades importantes para que los clientes de la tienda puedan hacer un seguimiento de sus pedidos: [emails transaccionales](#emails-transaccionales) y el espacio de los clientes denominado [Mi Cuenta](#funcionalidad-mi-cuenta).
 
@@ -261,9 +257,7 @@ Más información en [Optimización de opciones de entrega en el checkout](https
 
 Funcionalidad que permite enviar emails a los clientes como recordatorio de un carrito que crearon previamente, pero no se completó la compra.
 
-<div class="alert alert-warning">
-Configurar el carrito abandonado durante el onboarding permite que todos los carritos que se creen se envíen nuevamente al cliente, brindándole la oportunidad de evaluarlos y completar la compra.
-</div>
+>⚠️ Configurar el carrito abandonado durante el onboarding permite que todos los carritos que se creen se envíen nuevamente al cliente, brindándole la oportunidad de evaluarlos y completar la compra.
 
 Más información en [Configurar carrito abandonado](https://help.vtex.com/es/tutorial/configurar-carrito-abandonado--tutorials_740).
 
@@ -271,9 +265,7 @@ Más información en [Configurar carrito abandonado](https://help.vtex.com/es/tu
 
 En la plataforma VTEX, las tiendas tienen la opción de ajustar manualmente el precio de un ítem (SKU) en el carrito de checkout. Esta funcionalidad puede utilizarse para aplicar descuentos especiales, corregir errores de precios, crear ofertas personalizadas, resolver reclamaciones relacionadas con precios o ajustar el costo de envío.
 
-<div class="alert alert-warning">
-Solo usuarios con <a href="https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">roles</a> y permisos debidamente registrados en el VTEX Admin pueden realizar este cambio.
-</div>
+>⚠️ Solo usuarios con [roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) y permisos debidamente registrados en el VTEX Admin pueden realizar este cambio.
 
 Más información en [Cambiar el precio de un ítem en el carrito de compras](https://help.vtex.com/es/tutorial/cambiar-el-precio-de-un-item-en-el-carrito-de-compras--7Cd37aCAmtL1qmoZJJvjNf).
 

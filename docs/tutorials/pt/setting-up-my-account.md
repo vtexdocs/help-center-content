@@ -31,6 +31,4 @@ Para realizar as customizações na página, é necessário:
 2. Se autenticar através das opções __Receber código de acesso por e-mail__ ou __Entrar com e-mail e senha__
 3. Entrar na seção __Minha conta__, localizada no canto superior esquerdo da tela ao lado de __Meu carrinho__
 
-<div class="alert alert-info">
-Para lojas criadas a partir de 15 de maio de 2019, nenhum ajuste de customização é necessário, uma vez que o novo My Account já foi instalado nativamente na plataforma.
-</div>
+>ℹ️ Para lojas criadas a partir de 15 de maio de 2019, nenhum ajuste de customização é necessário, uma vez que o novo My Account já foi instalado nativamente na plataforma.

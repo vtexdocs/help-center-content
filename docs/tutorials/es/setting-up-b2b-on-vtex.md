@@ -65,9 +65,7 @@ El usuario que aún no está registrado en el sitio necesita tener una interface
 
 Así, es necesario definir los campos de este registro previo. Normalmente, los B2Bs usan información de cliente (nombre, e-mail, teléfono, etc.) y dirección (calle, barrio, ciudad, etc.) para este registro previo. Consulte el artículo [Importar datos de clientes](https://help.vtex.com/es/tutorial/importando-dados-de-clientes-brasil--2zWYVOyj0sISYQmeUwCsI0 "Importar datos de clientes - Brasil") para obtener más información sobre los datos necesarios.
 
-<div class="alert alert-warning">
-  <p>El campo utilizado como regla condicional en la política comercial nunca podrá hacer parte de este formulario, una vez que el propio usuario no puede realizar su propia aprobación. Esta responsabilidad es de la tienda.</p>
-</div>
+>⚠️ El campo utilizado como regla condicional en la política comercial nunca podrá hacer parte de este formulario, una vez que el propio usuario no puede realizar su propia aprobación. Esta responsabilidad es de la tienda.
 
 ## 4. Crear formulario de registro prévio
 
@@ -79,6 +77,4 @@ La información colocada en el formulario deberá ser enviada al CRM a través d
 
 Con todo configurado y, finalmente, el B2B en producción, la rutina del dueño de la tienda dependerá de las reglas y necesidades de su negocio. Básicamente, a cada nuevo registro, el dueño de la tienda deberá evaluar al usuario, aprobándolo o no, en la interface del CRM, al que se puede acceder a través de la URL `http://{nombre_de_cuenta}.vtexcrm.com.br/`.
 
-<div class="alert alert-info">
-  <p>Este artículo describe las configuraciones básicas de un B2B, pero, es posible personalizar el sistema para esa necesidad de varias formas, incluso enviando emails (triggers) a partir de eventos predefinidos.</p>
-</div>
+>ℹ️ Este artículo describe las configuraciones básicas de un B2B, pero, es posible personalizar el sistema para esa necesidad de varias formas, incluso enviando emails (triggers) a partir de eventos predefinidos.

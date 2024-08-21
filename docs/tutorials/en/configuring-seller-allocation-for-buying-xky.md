@@ -45,7 +45,6 @@ To assign sellers to a particular buying organization, follow the steps below:
 From now on, whenever the organization searches on the VTEX platform, only the products from the sellers assigned to it will be displayed.
 </ol>
 
-<div class="alert alert-warning">
-Buying organizations that do not assign sellers will be able to access information and purchase from all the sellers available on the marketplace.</div>
+>⚠️ Buying organizations that do not assign sellers will be able to access information and purchase from all the sellers available on the marketplace.
 
 For more information on how to integrate a new seller, read the[ Adding a seller](https://help.vtex.com/pt/tutorial/adicionar-seller--tutorials_392) article.

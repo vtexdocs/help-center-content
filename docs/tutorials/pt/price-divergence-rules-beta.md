@@ -15,9 +15,7 @@ legacySlug: regra-de-alcada-em-divergencias-de-preco-para-sellers
 subcategory: 4ZBiXqnPntLbsijZ0djFcD
 ---
 
-<div class="alert alert-info">
-  <p>Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href = "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
-</div>
+>ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href = "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
 
 Integrações entre sellers VTEX e [conectores nativos](https://help.vtex.com/pt/tutorial/integrando-com-marketplace--tutorials_402#integrado-a-conector-nativo-vtex) podem apresentar divergências nos preços configurados na VTEX e o que aparece na vitrine do marketplace, o que pode gerar erros no OMS.
 
@@ -35,9 +33,7 @@ Pedidos devem ser gerenciados e aprovados manualmente pelo OMS ou pelo [VTEX DO]
 
 Uma regra é configurada automaticamente com percentual de divergência entre 0% a 30% para `Negar automaticamente` os pedidos em seu Admin VTEX, e é possível alterá-la ou até mesmo criar mais de uma regra ao fazer a configuração.
 
-<div class="alert alert-info">
-Depois de configurar o mecanismo de regra de divergência de valores (Beta), não será mais necessário configurar o campo Divergência de Preço dentro da integração do marketplace. Caso você já tenha configurado o campo dentro da integração, a configuração realizada não será mais válida.
-</div>
+>ℹ️ Depois de configurar o mecanismo de regra de divergência de valores (Beta), não será mais necessário configurar o campo Divergência de Preço dentro da integração do marketplace. Caso você já tenha configurado o campo dentro da integração, a configuração realizada não será mais válida.
 
 ## Configuração de regra de divergência de valores (Beta)
 
@@ -88,10 +84,8 @@ Você tem duas formas de autorizar os pedidos com status `Aguardando autorizaç�
 - [Autorizar manualmente no OMS](#autorizacao-de-pedidos)
 - [Autorizar pelo VTEX DO](#autorizacao-pelo-vtex-do)
 
-<div class="alert alert-warning">
-Você precisa ter permissão do owner da conta para autorizar os pedidos, caso contrário, a seguinte mensagem aparecerá na tela: 
-“Você ainda não possui regras de autorização. Então todos os casos de divergências são negados automaticamente."
-</div>
+>⚠️ Você precisa ter permissão do owner da conta para autorizar os pedidos, caso contrário, a seguinte mensagem aparecerá na tela: 
+> “Você ainda não possui regras de autorização. Então todos os casos de divergências são negados automaticamente."
 
 ### Autorização manual no OMS
 

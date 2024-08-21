@@ -15,10 +15,9 @@ legacySlug: relevancia-dinamica-no-intelligent-search-beta
 subcategory: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
-<div class="alert alert-info">
-  <p>Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Caso tenha interesse em implementá-la futuramente, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
-  <p>Para os clientes selecionados, a funcionalidade está disponível para uso gratuito no Admin VTEX durante seu período Beta, ou até decidido pela VTEX. É possível que taxas extras se apliquem futuramente.</p>
-</div>
+>ℹ️ Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Caso tenha interesse em implementá-la futuramente, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
+>
+> Para os clientes selecionados, a funcionalidade está disponível para uso gratuito no Admin VTEX durante seu período Beta, ou até decidido pela VTEX. É possível que taxas extras se apliquem futuramente.
 
 O Intelligent Search é uma solução de busca da plataforma VTEX. Ele apresenta resultados relevantes com base no catálogo desde a primeira interação do usuário com a loja, seja por meio da barra de busca, navegando pelas categorias, ou mesmo pelas vitrines de produtos. 
 

@@ -18,9 +18,7 @@ internalReference: 490428
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Algumas transações retornam uma falha de comunicação ou integração entre a Braspag e a aquisição, em outras palavras, um erro de timeout. O código de erro para este comportamento é BP901.

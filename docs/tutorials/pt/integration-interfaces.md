@@ -46,9 +46,7 @@ Veja abaixo documentações que podem auxiliar a iniciar as integrações pela i
 
 ### Web Service
 
-<div class="alert alert-warning">
-O Web Service VTEX deve ser usado o mínimo possível para os processos de integração.
-</div>
+>⚠️ O Web Service VTEX deve ser usado o mínimo possível para os processos de integração.
 
 Com exceção do Catálogo (Categorias, Marcas, Produtos e SKUs), que está com sua API REST em desenvolvimento, todos os outros módulos da VTEX possuem APIs REST bem definidas e de alta performance.
 

@@ -18,9 +18,7 @@ internalReference: 766454
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando a conta tiver configurado "paymentSystemToCheckFirstInstallment" em OrderForm Configuration, o cálculo de checkout enviará dois pedidos ao módulo de promoções. Se houver itens divididos no carrinho (por exemplo, Mais para menos promoção), a primeira solicitação enviará os itens corretamente, mas a segunda enviará os itens divididos com base na aplicação da promoção.

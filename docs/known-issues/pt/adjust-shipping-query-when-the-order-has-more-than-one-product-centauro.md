@@ -18,9 +18,7 @@ internalReference: 599380
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ajuste a consulta de envio quando o pedido tem mais de um produto

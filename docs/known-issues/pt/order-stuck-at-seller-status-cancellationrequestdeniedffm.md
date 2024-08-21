@@ -18,9 +18,7 @@ internalReference: 1004978
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Identificamos que alguns vendedores, na estrutura do vendedor e do marketplace da VTEX, ao solicitarem o cancelamento, recusam esse cancelamento por meio da interface do usuário ou chamam a API "cancellation-request-denied-ffm", como se estivessem negando a própria solicitação de cancelamento, por algum motivo, a solicitação para negar o cancelamento se sobrepõe à solicitação de cancelamento.

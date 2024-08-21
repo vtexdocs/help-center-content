@@ -15,9 +15,7 @@ legacySlug: setting-up-customized-payments-using-mercadopago-latin-america
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-warning">
-This article concerns settings which are applicable in stores that operate in the following Latin American countries: <strong>Argentina</strong>, <strong>Chile</strong>, <strong>Colombia</strong> and <strong>Uruguai</strong>.
-</div>
+>⚠️ This article concerns settings which are applicable in stores that operate in the following Latin American countries: **Argentina**, **Chile**, **Colombia** and **Uruguai**.
 
 You can use Mercado Pago to offer customized payments (using local credit cards) in your store. For this, you first need to register the [MercadoPagoV1 gateway affiliation](/en/tutorial/setting-up-mercadopagov1-sub-acquirer). Then, just follow the steps below:
 

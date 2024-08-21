@@ -53,9 +53,7 @@ En la planilla de importación, la única columna que debe rellenarse es la de �
 
 La estructura de la plantilla presenta una línea para cada campo de producto o de SKU, o sea, el mismo producto o SKU será presentado diversas veces de acuerdo a los campos existentes en su categoría.
 
-<div class="alert alert-warning">
-  <p>En plantilla exportada, la columna que hace referencia a "ValueSpecification" es "NameFieldValue (Não alterável)". Al rellenar el campo, la ortografía de las características debe ser exacta. Las mayúsculas y las minúsculas marcan la diferencia en este caso.</p>
-  </div>
+>⚠️ En plantilla exportada, la columna que hace referencia a "ValueSpecification" es "NameFieldValue (Não alterável)". Al rellenar el campo, la ortografía de las características debe ser exacta. Las mayúsculas y las minúsculas marcan la diferencia en este caso.
 
 Siga los pasos a continuación para importar la plantilla:
 

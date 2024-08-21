@@ -78,9 +78,7 @@ When configuring [shipping strategies](https://help.vtex.com/en/tutorial/shippin
 6. [Geolocation](https://help.vtex.com/en/tutorial/registering-geolocation--tutorials_138);
 7. Configuration of the pickup points available at checkout.
 
-<div class="alert alert-warning">
-For more information, please refer to the article <a href="https://help.vtex.com/en/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R#setup">Configuring pickup points.</a> 
-</div>
+>⚠️ For more information, please refer to the article [Configuring pickup points.](https://help.vtex.com/en/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R#setup)
 
 ## Shipping time and holidays
 
@@ -97,9 +95,7 @@ For more details about the SLA calculation, read the article [How is the deliver
 
 Holidays are important in determining the shipping time, as they are directly related to the delivery time of your store's orders. VTEX considers holidays to be days when the store does not operate.
 
-<div class="alert alert-warning">
-We recommended that you register holidays after configuring the <a href="https://help.vtex.com/en/tutorial/shipping-strategy--58vLBDbjYVQzJ6rRc5QNz3">shipping strategies</a>.
-</div>
+>⚠️ We recommended that you register holidays after configuring the [shipping strategies](https://help.vtex.com/en/tutorial/shipping-strategy--58vLBDbjYVQzJ6rRc5QNz3).
 
 To register holidays on the platform, you can:
 

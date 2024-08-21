@@ -18,9 +18,7 @@ internalReference: 1066548
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao tentar carregar um arquivo com mais de 200 redirecionamentos, o front entra em um loop e lê esses redirecionamentos três vezes. Isso pode levar a mais redirecionamentos na mensagem de erro na tela ou no modal de carregamento. Os redirecionamentos não estão sendo duplicados, mas estão sendo lidos mais de uma vez.

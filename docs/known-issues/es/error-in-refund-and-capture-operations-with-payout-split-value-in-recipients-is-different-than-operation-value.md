@@ -18,9 +18,7 @@ internalReference: 698005
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Debido a problemas de redondeo al recalcular los destinatarios de una transacción con Payout Split, ya sea en la captura o en el reembolso, recibimos la siguiente excepción de la pasarela, ya que la suma del valor del destinatario difiere del valor de la transacción.

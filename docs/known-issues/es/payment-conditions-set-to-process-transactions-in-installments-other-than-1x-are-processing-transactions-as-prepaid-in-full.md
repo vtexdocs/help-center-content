@@ -18,9 +18,7 @@ internalReference: 1030652
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Las condiciones de pago configuradas para procesar transacciones en un número de plazos distinto de 1x están pudiendo procesar pagos en 1x. El problema solo se produce en los pagos en los que el usuario ha optado por el prepago total.

@@ -18,9 +18,7 @@ internalReference: 961591
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A visão geral do administrador tem algumas informações de análise. A informação sobre as sessões da página do produto deveria retornar os valores desse evento, mas às vezes está retornando zero

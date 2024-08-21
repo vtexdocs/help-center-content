@@ -18,9 +18,7 @@ internalReference: 931225
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Checkout permite añadir dos direcciones diferentes para la entrega en el orderForm, por ejemplo, una "comercial" y una "residencial" (definidas por el campo 'addressType'), cuando una de ellas es desechable.

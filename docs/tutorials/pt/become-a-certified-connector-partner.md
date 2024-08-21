@@ -17,8 +17,7 @@ subcategory: 6riYYNZCpO8wyksi8Ksgyq
 
 O ecossistema VTEX oferece inúmeras oportunidades de crescimento. Visando ampliar sua rede de colaboração, a VTEX desenvolveu um plano comercial para marketplaces externos que queiram se tornar parceiros.
 
-<div class="alert alert-info">
-Ao aderir ao plano comercial, um marketplace obtém uma certificação e passa a ser chamado de conector certificado. Veja mais em <a href="https://vtex.com/br-pt/partner/">plano comercial</a>.</div>
+>ℹ️ Ao aderir ao plano comercial, um marketplace obtém uma certificação e passa a ser chamado de conector certificado. Veja mais em [plano comercial](https://vtex.com/br-pt/partner/).
 
 Além de disponibilizarmos um conjunto de APIs e instruções para facilitar o processo de integração com parceiros, uma de nossas equipes também acompanha o desenvolvimento e homologação do conector. Ou seja, a VTEX verifica se está sendo feito um uso adequado das funcionalidades para que a integração aconteça corretamente.
 

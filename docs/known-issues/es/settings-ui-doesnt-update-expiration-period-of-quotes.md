@@ -18,9 +18,7 @@ internalReference: 876576
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 B2B Quote settings UI no actualiza el valor del periodo de expiración; siempre es 30.

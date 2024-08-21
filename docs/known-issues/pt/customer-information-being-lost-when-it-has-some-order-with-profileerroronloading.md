@@ -18,9 +18,7 @@ internalReference: 340036
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o pedido tem "profileErrorOnLoading=true", o comportamento esperado é que o perfil do cliente, o endereço e o cartão de crédito não sejam salvos/atualizados no Profile System.

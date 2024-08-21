@@ -28,8 +28,6 @@ The [Moderation](https://help.vtex.com/pt/tutorial/gerenciamento-de-anuncios-mod
 
 This update is automatic, so no action is required from you. As of the date indicated above, the module will be completely discontinued from the VTEX Admin.  
 
-<div class="alert alert-info">
-We will soon have a replacement module for Offer Management. Follow the updates through the <a href="https://developers.vtex.com/updates/release-notes">Release Notes page on the Developer Portal</a> and the <a href="https://help.vtex.com/en/announcements">News page in the VTEX Help Center</a>.
-</div>
+>ℹ️ We will soon have a replacement module for Offer Management. Follow the updates through the [Release Notes page on the Developer Portal](https://developers.vtex.com/updates/release-notes) and the [News page in the VTEX Help Center](https://help.vtex.com/en/announcements).
 
 

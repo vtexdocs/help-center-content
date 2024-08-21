@@ -108,9 +108,7 @@ Você será redirecionado à página correspondente para realizar as alteraçõe
 
 Para exportar a lista de anúncios publicados em formato XLSX, clique sobre o  ícone seta para baixo <i class="fas fa-download"></i>, localizado no topo da interface. O arquivo será enviado para o email do usuário logado, sendo que o tempo da exportação dependerá do volume de anúncios da listagem exportada e questões de processamento da plataforma VTEX.
 
-<div class="alert alert-info">
-O conteúdo exportado é referente ao total de anúncios da listagem no momento da exportação. Se algum filtro estiver ativo, somente os anúncios selecionados serão exportados.
-</div>
+>ℹ️ O conteúdo exportado é referente ao total de anúncios da listagem no momento da exportação. Se algum filtro estiver ativo, somente os anúncios selecionados serão exportados.
 
 ## Aba Problemas
 
@@ -180,9 +178,7 @@ Você será redirecionado à página correspondente para realizar as alteraçõe
 
 Para exportar a lista de anúncios com problemas em formato XLSX, clique sobre o  ícone seta para baixo <i class="fas fa-download"></i>, localizado no topo da interface. O arquivo será enviado para o email do usuário logado, sendo que o tempo da exportação dependerá do volume de anúncios da listagem exportada e questões de processamento da plataforma VTEX. 
 
-<div class="alert alert-info">
-  O conteúdo exportado é referente ao total de anúncios da listagem no momento da exportação. Se algum filtro estiver ativo, somente os anúncios selecionados serão exportados.
-  </div>
+>ℹ️ O conteúdo exportado é referente ao total de anúncios da listagem no momento da exportação. Se algum filtro estiver ativo, somente os anúncios selecionados serão exportados.
 
 ## Aba Aguardando Conclusão
 
@@ -234,6 +230,4 @@ Você será redirecionado à página correspondente para realizar as alteraçõe
 
 Para exportar a lista de anúncios aguardando conclusão em formato XLSX, clique sobre o ícone seta para baixo <i class="fas fa-download"></i>, localizado no topo da interface. O arquivo será enviado para o email do usuário logado, sendo que o tempo da exportação dependerá do volume de anúncios da listagem exportada e questões de processamento da plataforma VTEX.
 
-<div class="alert alert-info">
-O conteúdo exportado é referente ao total de anúncios da listagem no momento da exportação. Se algum filtro estiver ativo, somente os anúncios selecionados serão exportados.
-</div>
+>ℹ️ O conteúdo exportado é referente ao total de anúncios da listagem no momento da exportação. Se algum filtro estiver ativo, somente os anúncios selecionados serão exportados.

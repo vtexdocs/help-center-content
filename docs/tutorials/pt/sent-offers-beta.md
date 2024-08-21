@@ -33,9 +33,7 @@ Quando um seller configura condições de preço e estoque, ele está preparando
 -   **Com erro:** quando o sistema encontra um problema que previne um anúncio de ser enviado, ou atualizado em um canal. Esse status significa que o anúncio requer correção manual. 
 -   **Indisponível:** quando o anúncio é descartado, por estar inativo ou não incluído na política comercial determinada para o canal.
 
-<div class="alert alert-info">
-Ao clicar em  <code>Ver Lista</code>  você será redirecionado à <a href="https://help.vtex.com/pt/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE">listagem de Anúncios</a>.
-</div>
+>ℹ️ Ao clicar em  `Ver Lista`  você será redirecionado à [listagem de Anúncios](https://help.vtex.com/pt/tutorial/listagem-de-anuncios--7MRb9S78aBdZjFGpbuffpE).
 
 ## Canais
 

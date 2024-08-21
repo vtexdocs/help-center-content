@@ -23,14 +23,15 @@ O simulador pode ser utilizado também para validar as configurações das  **[E
 
 * **Disponibilidade de Sellers White Label:** o simulador seleciona o franqueado mais próximo ao endereço de entrega (a configuração logística é calculada através do ambiente do _Seller White Label_, e não no Main Account).
 
-<div class="alert alert-warning"> 
-Pode haver divergência entre o preço final apontado pelo simulador, e o preço real em sua loja, visto que a simulação não leva em consideração:
-<body>
-<ul>
-<li>Promoções aplicadas àqueles itens.</li>
-<li>Descontos de frete configurados através de promoções.</li>
-<li>O Prazo de Entrega Total apresentado no resultado da simulação não considera o campo <b>Data Previsão Chegada (pré-venda)</b> <a href="https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY">do cadastro do item.</a></li>
-</ul></body></div>
+>⚠️ Pode haver divergência entre o preço final apontado pelo simulador, e o preço real em sua loja, visto que a simulação não leva em consideração:
+> <body>
+>
+> *Promoções aplicadas àqueles itens.
+>
+> *Descontos de frete configurados através de promoções.
+>
+> *O Prazo de Entrega Total apresentado no resultado da simulação não considera o campo **Data Previsão Chegada (pré-venda)** [do cadastro do item.](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-sku--21DDItuEQc6mseiW8EakcY)
+> </body>
 
 Nesse artigo contém:
 

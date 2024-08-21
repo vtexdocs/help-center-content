@@ -35,8 +35,7 @@ O cadastro do conector é feito no Admin da VTEX. Para realizá-la, siga as inst
 - __Estoque mínimo:__ determina o valor mínimo de estoque de segurança. Se a quantidade de itens de um produto em estoque estiver abaixo do valor escolhido, seu anúncio é pausado para evitar que sejam feitas vendas sem estoque durante o tempo de atualização do Carrefour pela VTEX. O valor de estoque mínimo é aplicado a todos os produtos, portanto verifique se algum produto deixaria de ser anunciado devido ao seu estoque inicial.
 - __Enviar KIT*:__ ao escolher `Não`, SKUs [cadastrados como kit](https://help.vtex.com/pt/tutorial/cadastrando-kit--tutorials_215) não são enviados para o Carrefour. Ao habilitar `Sim`, todos os itens da sua política comercial são enviados para o marketplace, sem filtrar SKUs cadastrados como kit. Mudanças na configuração do conector podem ser feitas a qualquer momento, sendo que isso não afeta SKUs que já tenham sido enviados. Por exemplo, se você mudasse sua configuração de `Sim` para `Não`, SKUs enviados anteriormente para o Carrefour não seriam removidos ou sofreriam qualquer alteração. Se você mudar sua configuração de `Não` para `Sim`, você precisará [reindexar a base](https://help.vtex.com/pt/tutorial/manutencao-de-base-full-cleanup--34P9LGs7BCIQK6acQom802) para que a configuração seja aplicada.
 
-<div class="alert alert-info">
-Com a opção <i>Não</i> ativada, tentativas de envio para o Carrefour de SKUs cadastrados como kit resultarão no seguinte aviso: <i>O conector está configurado para não enviar SKUs do tipo Kit</i>. Esta mensagem pode ser visualizada no Admin, no módulo <b> MARKETPLACE > Integrações > Produtos</b>, ao se clicar sobre o SKU.</div>
+>ℹ️ Com a opção <i>Não</i> ativada, tentativas de envio para o Carrefour de SKUs cadastrados como kit resultarão no seguinte aviso: <i>O conector está configurado para não enviar SKUs do tipo Kit</i>. Esta mensagem pode ser visualizada no Admin, no módulo ** MARKETPLACE > Integrações > Produtos**, ao se clicar sobre o SKU.
 
 - **Mapeamento de Certificados de Homologação (Opções aceitas pelo marketplace: ANATEL, INMETRO, ANVISA, MAPA e Não Se Aplica):** devido a uma definição do Carrefour, produtos de determinadas categorias deverão possuir obrigatoriamente uma [especificação de produto](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) cadastrada com o código de homologação de cada agência reguladora para serem comercializados no marketplace. Por isso, para as [categorias elegíveis](#categorias-elegiveis), é necessário preencher este campo com o nome da especificação de produto criada e o código de homologação do produto disponibilizado pelas agências reguladoras.
 
@@ -75,10 +74,8 @@ Obrigatoriamente `ProductName` para título do produto ou Obrigatoriamente `Prod
 `CRF_ProductName` para nome do produto e `CRF_ProductDescription` para descrição do produto.    
 3. Clique no botão e uma regra de mapeamento será adicionada a sua integração.  
 
-<div class="alert alert-info">
-Cada regra cadastrada mapeia apenas um campo.
-<p>Caso o campo mapeado não tenha um valor preenchido, será enviado o valor padrão de <code>Título</code> ou <code>Descrição</code> cadastrados no catálogo.
-</div>  
+>ℹ️ Cada regra cadastrada mapeia apenas um campo.
+> <p>Caso o campo mapeado não tenha um valor preenchido, será enviado o valor padrão de `Título` ou `Descrição` cadastrados no catálogo.  
 
 ### Categorias elegíveis
 

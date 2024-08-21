@@ -18,9 +18,7 @@ internalReference: 409225
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 Al introducir la información de seguimiento cuando el número de factura contiene espacios, se produce el siguiente error (ya sea a través de la interfaz de usuario o de la API) "`An error has occurred`".
 

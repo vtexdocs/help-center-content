@@ -35,9 +35,7 @@ No screenshot das métricas acima, podemos ver as seguintes informações:
 - Já no mesmo dia da semana passada, também até 20h50, houve 1856 pedidos;
 - Por fim, em relação a um ano atrás houve um aumento expressivo no número de pedidos: no mesmo dia do ano passado, até o mesmo horário, foram 1425 pedidos, contra os 2464 deste ano.
 
-<div class="alert alert-info">
-O cálculo de pedidos feitos no <b>ano passado</b> é feito subtraindo 52 semanas do dia atual. Dessa forma, mantém-se o dia da semana. Por exemplo: o dia 24/novembro/2017 será comparado com o dia 25/novembro/2016, aonde ambas as datas caem numa sexta-feira.
-</div>
+>ℹ️ O cálculo de pedidos feitos no **ano passado** é feito subtraindo 52 semanas do dia atual. Dessa forma, mantém-se o dia da semana. Por exemplo: o dia 24/novembro/2017 será comparado com o dia 25/novembro/2016, aonde ambas as datas caem numa sexta-feira.
 
 O ranking localizado no canto direito da barra com esses dados mostra a posição da loja entre todas as lojas VTEX, com a métrica ao lado indicando a evolução entre ontem e hoje.
 

@@ -17,15 +17,13 @@ subcategory: yMp6sKDiJEi66CGAIQ4ma
 
 Configuring domains ensures that the address access is directed correctly to the VTEX store. Below you can learn how to [register a new domain](#register-new-domain) or [change the domain of an active store](#change-store-domain).
 
-<div class="alert alert-danger">
-In case your operation has more than one VTEX account or subaccounts, do not trade domains among them. This will cause errors in different aspects of your store.
-</div>
+>❗ In case your operation has more than one VTEX account or subaccounts, do not trade domains among them. This will cause errors in different aspects of your store.
 
-<div class="alert alert-warning">
-If you add more than one domain as your store's host, they will all display the same content. However, we recommend registering only one domain and using redirections for the other ones. Learn more about redirections:
-<ul><li><a href=”https://help.vtex.com/en/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ”>Redirection from other addresses</a></li>
-<li><a href=”https://help.vtex.com/en/tutorial/configurando-acesso-sem-www--tutorials_4278”>Configuring access without www</a></li></ul>  
-</div>
+>⚠️ If you add more than one domain as your store's host, they will all display the same content. However, we recommend registering only one domain and using redirections for the other ones. Learn more about redirections:
+>
+> *<a href=”https://help.vtex.com/en/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ”>Redirection from other addresses</a>
+>
+> *<a href=”https://help.vtex.com/en/tutorial/configurando-acesso-sem-www--tutorials_4278”>Configuring access without www</a>
 
 ## Subdomain
 

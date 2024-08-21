@@ -18,9 +18,7 @@ internalReference: 547555
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, ao adicionar muito conteúdo dentro de um espaço reservado em um layout CMS, Admin não permite a rolagem da página, o que pára a edição

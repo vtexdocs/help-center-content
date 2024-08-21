@@ -19,9 +19,7 @@ Ao finalizar a [integração](https://help.vtex.com/pt/tracks/configurar-integra
 
 Além da integração básica, lojistas VTEX podem integrar com o [**Fulfillment Magalu**](https://unimagalu.com.br/full/), que é um serviço disponível a lojistas que já vendem no Magalu Marketplace. Este serviço disponibiliza a operação de armazenamento e entrega do Magalu para seus produtos mais vendidos no marketplace. 
 
-<div class="alert alert-warning">
-Somente os produtos mais vendidos de uma loja, podem ser configurados com a opção de venda pelo Fulfillment Magalu.
-</div>
+>⚠️ Somente os produtos mais vendidos de uma loja, podem ser configurados com a opção de venda pelo Fulfillment Magalu.
 
 Todos os pedidos do tipo __Fulfillment Magalu__ podem ser acompanhados na tela de [Pedidos](https://help.vtex.com/pt/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi) do Admin VTEX. O status desses pedidos são atualizados pelo Magalu Marketplace.
 
@@ -106,9 +104,7 @@ Para preencher especificações de produtos em massa por planilha, é necessári
 10. Clique em __Select__ para selecionar o arquivo com a planilha preenchida no seu computador.  
 11. Clique em `Importar`.  
 
-<div class="alert alert-danger">
-  Os SKUs que estiverem com o valor da especificação <code> magalu_fulfillment</code> preenchida como <code> false </code> ou um valor diferente de <code> true</code>, não serão apresentados no Magalu marketplace com a opção de envio Fulfillment Magalu.
-</div>
+>❗ Os SKUs que estiverem com o valor da especificação ` magalu_fulfillment` preenchida como ` false ` ou um valor diferente de ` true`, não serão apresentados no Magalu marketplace com a opção de envio Fulfillment Magalu.
 
 ### Configuração do conector  
 

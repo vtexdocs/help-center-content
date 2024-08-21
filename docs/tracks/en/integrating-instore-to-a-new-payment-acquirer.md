@@ -36,9 +36,7 @@ If necessary, InStore can send additional information. Example with the sub-acqu
 - `administrativePassword`: string - default password. For example, `cappta`.
 - `cnpj`: string.
 
-<div class="alert alert-info">
-To create any extra configuration, you need to send to the inStore team (instoredevs@vtex.com.br) every extra the app needs to complete the transaction. With that, we will create a form on the Payments module so that customers can configure their acquirer.
-</div>
+>ℹ️ To create any extra configuration, you need to send to the inStore team (instoredevs@vtex.com.br) every extra the app needs to complete the transaction. With that, we will create a form on the Payments module so that customers can configure their acquirer.
 
 ## Sending URI and response URI for each action
 
@@ -184,9 +182,7 @@ For the integration to work, the customer must set up the InStore connector on t
 
 AppLinking integration doesn't include other dependencies, since communication between the inStore application and the payment application happens with specific URIs containing all the configuration and payment parameters required for the action.
 
-<div class="alert alert-warning">
-On Android, all communication must happen with a new <code>Intent</code>. This means that you should not send the response as a callback from the initial <code>Intent</code> call. Instead, send a new <code>Intent</code> to the inStore application with the previous response.
-</div>
+>⚠️ On Android, all communication must happen with a new `Intent`. This means that you should not send the response as a callback from the initial `Intent` call. Instead, send a new `Intent` to the inStore application with the previous response.
 
 To configure the inStore connector, follow the steps below:
 

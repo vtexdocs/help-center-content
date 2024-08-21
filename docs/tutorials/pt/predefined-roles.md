@@ -75,9 +75,7 @@ O recurso **Assisted Sales** causa o redirecionamento automático do usuário pa
 
 Portanto, recomendamos a utilização de duas contas separadas (com emails distintos) para usuários de televendas: uma conta para o perfil __Call center operator__ (com os recursos <em>Assisted Sales</em> e <em>View order</em>) e outra conta para realizar operações no Admin, se necessário.
 
-<div class="alert alert-warning">
-  Ao criar um <a href="https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#">perfil de acesso</a>, evite incluir <a href="https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#">recursos</a> de televendas junto com outros recursos. Do contrário, o perfil pode não funcionar como esperado.
-</div>
+>⚠️ Ao criar um [perfil de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#), evite incluir [recursos](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#) de televendas junto com outros recursos. Do contrário, o perfil pode não funcionar como esperado.
 
 Tabela de recursos:
 
@@ -144,9 +142,7 @@ Tabela de recursos:
 
 ## Sales App - Sales Associate
 
-<div class="alert alert-warning">
-  <p>Vendedores registrados no Sales App não têm acesso ao Admin VTEX, apenas ao Sales App.</p>
-</div>
+>⚠️ Vendedores registrados no Sales App não têm acesso ao Admin VTEX, apenas ao Sales App.
 
 Tabela de recursos:
 

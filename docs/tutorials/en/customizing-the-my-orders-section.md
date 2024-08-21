@@ -21,16 +21,16 @@ It's already available in beta environment (`accountname.vtexcommercebeta.com.br
 
 See below a list of the classes available to aid in the customization.
 
-<div class="alert alert-warning">
-Interface customizations <strong>are not officially supported by VTEX</strong>.
-<br />
-<br /> 
-These classes and configurations can be changed or removed in future updates. As a best practice, we recommed treating javascript errors so your customization code won't break in case any class is removed in the future.
-</div>
+>⚠️ Interface customizations **are not officially supported by VTEX**.
+>
+>
+> 
+>
+>
+>  
+> These classes and configurations can be changed or removed in future updates. As a best practice, we recommed treating javascript errors so your customization code won't break in case any class is removed in the future.
 
-<div class="alert alert-info">
-If you already have a customization file for the previous version of the My Orders, we recommend you put the new customization in a separate file.
-</div>
+>ℹ️ If you already have a customization file for the previous version of the My Orders, we recommend you put the new customization in a separate file.
 
 ### Order list
 

@@ -64,9 +64,7 @@ Como resultado, no será posible ingresar un nombre que ya haya sido registrado 
 
 En el ejemplo anterior, como ya existe un registro con el **Nombre** igual a **María**, no es posible registrar otro con el mismo valor.
 
-<div class="alert alert-warning">
-  <p>Utiliza la opción <strong>Valores únicos</strong> con precaución: si deseas permitir que un valor se repita, configurarlo como único hará que el sistema bloquee la inserción de registros duplicados, impidiendo su registro.</p>
-</div>
+>⚠️ Utiliza la opción **Valores únicos** con precaución: si deseas permitir que un valor se repita, configurarlo como único hará que el sistema bloquee la inserción de registros duplicados, impidiendo su registro.
 
 #### Varios campos en el índice
 
@@ -82,6 +80,4 @@ En este caso, se puede repetir o el valor del **Nombre** o el valor del **Docume
 
 En el ejemplo anterior, ya existe un registro con el **Nombre** igual a **María**. Es posible incluir otro registro con el mismo **Nombre**, siempre que el valor del **Documento** sea diferente.
 
-<div class="alert alert-warning">
-  <p>Si se repite la misma combinación de valores, el registro no se guardará. Utiliza la opción <strong>Valores únicos</strong> solo cuando no haya ninguna posibilidad de que un conjunto de valores se repita en registros diferentes.</p>
-</div>
+>⚠️ Si se repite la misma combinación de valores, el registro no se guardará. Utiliza la opción **Valores únicos** solo cuando no haya ninguna posibilidad de que un conjunto de valores se repita en registros diferentes.

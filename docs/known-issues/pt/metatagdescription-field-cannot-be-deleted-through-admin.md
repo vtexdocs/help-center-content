@@ -18,9 +18,7 @@ internalReference: 979691
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Há um comportamento inconsistente no campo `MetaTagDescription` no registro do produto, que não pode ser excluído por meio do Admin, mas é possível excluir por meio da API. No Admin, ao clicar em "salvar" com esse campo vazio, o valor do campo `Description` é copiado. Esse cenário não acontece quando se usa a API, o valor é excluído corretamente.

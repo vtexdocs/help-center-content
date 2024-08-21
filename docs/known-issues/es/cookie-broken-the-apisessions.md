@@ -18,9 +18,7 @@ internalReference: 779014
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando hay un script que genera una cookie para rastrear a los usuarios y su cookie rompe la llamada a /api/sessions, por ejemplo porque tiene una carta especial en el valor cookie. Entonces necesitamos descartar esa cookie malformada de nuestro lado y mantener todas las demás, para que no afecte el comportamiento.

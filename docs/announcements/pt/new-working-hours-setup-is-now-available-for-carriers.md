@@ -33,10 +33,6 @@ Para configurar horários de funcionamento para transportadoras, siga os passos 
 ## Próximos passos
 Em breve, também será permitida a criação de mais de um horário por dia. Assim, lojas que fecham na hora do almoço, por exemplo, vão poder cadastrar seus horários de pausa. Confira o artigo de configuração do [Horário de Funcionamento das Transportadoras](https://help.vtex.com/pt/tutorial/configurar-horario-de-funcionamento-para-transportadoras--2oGpbInIgdxSWUi3TZjdCS).
 
-<div class="alert alert-info">
-A configuração vem, por default, com todos os dias marcados e com os horários de 00:00 a 23:59 (sempre em horário local).
-</div>
+>ℹ️ A configuração vem, por default, com todos os dias marcados e com os horários de 00:00 a 23:59 (sempre em horário local).
 
-<div class="alert alert-warning">
-Ao usar a opção de horário de funcionamento, não é possível a utilização do horário de corte. Isso quer dizer que você vai precisar escolher qual das configurações faz mais sentido para sua loja.
-</div>
+>⚠️ Ao usar a opção de horário de funcionamento, não é possível a utilização do horário de corte. Isso quer dizer que você vai precisar escolher qual das configurações faz mais sentido para sua loja.

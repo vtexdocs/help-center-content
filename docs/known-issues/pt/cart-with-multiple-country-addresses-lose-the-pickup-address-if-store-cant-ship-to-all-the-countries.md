@@ -18,9 +18,7 @@ internalReference: 1068197
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Se um comprador tiver vários endereços em seu perfil de diferentes países e a loja não fizer entregas em nenhum desses endereços, ao selecionar a retirada em um endereço válido e passar para a etapa de pagamento, a interface do usuário do checkout redirecionará o comprador de volta para a etapa de envio.

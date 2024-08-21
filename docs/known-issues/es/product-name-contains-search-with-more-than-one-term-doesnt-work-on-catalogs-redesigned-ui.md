@@ -18,9 +18,7 @@ internalReference: 1044571
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En la lista de productos rediseñada del catálogo, uno de los campos de búsqueda es "El nombre del producto contiene". Actualmente, al buscar un nombre de producto con más de un término, pueden darse dos situaciones:

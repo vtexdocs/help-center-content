@@ -17,9 +17,7 @@ subcategory:
 
 # FAQ - Security (restricted content)
 
-<div class="alert alert-danger">
-  <p>Please do not share the information in this FAQ with users who do not have access to the VTEX Admin.</p>
-</div>
+>❗ Please do not share the information in this FAQ with users who do not have access to the VTEX Admin.
 
 VTEX provides FAQ pages that address the main questions and answers concerning the platform's structure and security to assist in customer risk assessments. This content is restricted to users with access to the VTEX Admin. Public questions and answers are available in the Security FAQ in the VTEX Help Center.
 

@@ -26,15 +26,16 @@ Para crear un template de estante, siga los pasos abajo:
 3. Haga clic en __Shelves Templates__.
 4. Haga clic en __new template__.
 5. Rellene el campo __Shelf Template Name__.
-<div class="alert alert-danger">
-  <p>Al rellenar el <b>Shelf Template Name</b>, evita utilizar las siguientes palabras reservadas, ya que esto puede perjudicar el rendimiento de tu tienda e interferir con el funcionamiento de las páginas del Admin VTEX. Consulta la lista de palabras reservadas a continuación.
-  <ul>
-<li><code>a</code></li>
-<li><code>meta</code></li>
-<li><code>api</code></li>
-<li><code>admin</code></li>
-</ul></p>
-</div>
+>❗ Al rellenar el **Shelf Template Name**, evita utilizar las siguientes palabras reservadas, ya que esto puede perjudicar el rendimiento de tu tienda e interferir con el funcionamiento de las páginas del Admin VTEX. Consulta la lista de palabras reservadas a continuación.
+>
+> *`a`
+>
+> *`meta`
+>
+> *`api`
+>
+> *`admin`
+> 
 6. El campo __CSS Class__ cree una *tag class* para este template. Este campo es opcional.
 7. Haga clic en el cuadro __Rounded corners__ para que el template tenga bordes redondeados.
 8. En __Template Code__ usted debe llenar el código de su template. Utilice los templates predeterminados como base para la creación del nuevo. [Vea aquí el ejemplo de un código básico](https://gist.githubusercontent.com/DeboraFerreira/a4126e2a60a6a0abb6c0/raw/8600e6e4c718c626158e472cdcee60ed03009a0f/template-prateleira).

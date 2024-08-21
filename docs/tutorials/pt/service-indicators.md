@@ -15,9 +15,7 @@ legacySlug: indicadores-de-servico
 subcategory: 2A1RNDhwU4kqCN3XimtaD2
 ---
 
-<div class="alert alert-info"> 
- Esse artigo está relacionado com a funcionalidade de <b>Relatório de Indicadores</b>. Caso queira saber mais, acesse<a href="https://help.vtex.com/pt/tutorial/relatorio-de-indicadores--7lbICsrCArXDxUYeeHJ2c5">  Relatório de Indicadores</a>.
-</div>
+>ℹ️ Esse artigo está relacionado com a funcionalidade de **Relatório de Indicadores**. Caso queira saber mais, acesse[  Relatório de Indicadores](https://help.vtex.com/pt/tutorial/relatorio-de-indicadores--7lbICsrCArXDxUYeeHJ2c5).
 
 ## Serviço
 

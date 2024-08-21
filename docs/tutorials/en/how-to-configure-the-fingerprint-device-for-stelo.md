@@ -19,15 +19,11 @@ __Device Fingerprint__ is an identifier that acts in payment processing to impro
 
 By collecting non-sensitive data, Device Fingerprint identifies and analyzes the security level of the device used to perform a given transaction. It also analyzes transactions previously performed with that device.
 
-<div class="alert alert-info">
-Each store must have only one Device Fingerprint registered. Check if you have already registered the Device Fingerprint in another connector, before proceeding with the steps below.
-</div>
+>ℹ️ Each store must have only one Device Fingerprint registered. Check if you have already registered the Device Fingerprint in another connector, before proceeding with the steps below.
 
 This article will explain how to associate the Device Fingerprint feature with the Stelo affiliation.
 
-<div class="alert alert-info">
-The configurations documented in this article are done in an environment outside VTEX. They may therefore be out of date.
-</div>
+>ℹ️ The configurations documented in this article are done in an environment outside VTEX. They may therefore be out of date.
 
 To enter the scripts that Stelo requires for the fingerprint device, you must use Google Tag Manager. To do this, log into your account at [http://www.google.com/tagmanager](http://www.google.com/tagmanager "http://www.google.com/tagmanager"). Then proceed as follows:
 

@@ -15,21 +15,15 @@ legacySlug: integrating-with-amazon
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-<div class="alert alert-warning"> 
-This integration is valid only for the <b>Outdoor</b>, <b>Luggage</b>, <b>Camera and Photo, <b>House and Garden</b>, <b>Computers</b>, <b>Electronics</b>, <b>Sports</b>, <b>Jewelry</b>, <b>Books</b>, <b>Office Material</b>, <b>Tool Kit</b>, <b>Games</b>, <b>Shoes</b> and <b>Clothing</b> categories.
-</div>
+>⚠️ This integration is valid only for the **Outdoor**, **Luggage**, **Camera and Photo, <b>House and Garden**, **Computers**, **Electronics**, **Sports**, **Jewelry**, **Books**, **Office Material**, **Tool Kit**, **Games**, **Shoes** and **Clothing** categories.
 
-<div class="alert alert-warning">
-This integration is available for Brazil, Mexico, the United States, Canada and Europe.
-</div>
+>⚠️ This integration is available for Brazil, Mexico, the United States, Canada and Europe.
 
 ## Authorize VTEX on the Amazon dashboard
 
 In order to integrate with the Amazon Marketplace, it is necessary for the retailer to give authorization to VTEX in his Amazon Seller Central account through the US Market (_www.amazon.com_).
 
-<div class="alert alert-danger">
-In the Amazon dashboard, make sure you're still connected to the US market (www.amazon.com) during all the steps. If it is not, you will receive an error message and you will need to change the market to the US (www.amazon.com) again.
-</div>
+>❗ In the Amazon dashboard, make sure you're still connected to the US market (www.amazon.com) during all the steps. If it is not, you will receive an error message and you will need to change the market to the US (www.amazon.com) again.
 
  When in the Amazon developer registration step, fill in the fields as follows:  
   - Developer’s Name: VTEX  
@@ -48,9 +42,7 @@ Before configuring the integration, you should make sure that all products that 
   
   -  __Time Cost__: on Amazon there is the `fulfillment latency` field, which is __used to configure the time to prepare the delivery of a given product__. In order to fill it up massively via integration, it is necessary to fill in the [Cost Time](https://help.vtex.com/en/tutorial/how-to-register-a-dock) field in the dock associated with the sales policy used for Amazon. If this field is not filled, Amazon will use their _default_ value (2 days).
 
-<div class="alert alert-warning">
-NOTE: it is important to fill in this field because if your store is not perfoming according to the configured time, i.e. delayed delivery, your account may be blocked.
-</div>
+>⚠️ NOTE: it is important to fill in this field because if your store is not perfoming according to the configured time, i.e. delayed delivery, your account may be blocked.
 
 ## Integration settings
 

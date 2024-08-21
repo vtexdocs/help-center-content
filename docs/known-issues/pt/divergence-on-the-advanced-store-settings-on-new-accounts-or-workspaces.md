@@ -18,9 +18,7 @@ internalReference: 1064235
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Em novos espaços de trabalho ou contas que nunca alteraram as configurações avançadas das Configurações da loja, é possível verificar uma inconsistência entre as informações na interface do usuário e o sinalizador aplicado à conta.

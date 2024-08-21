@@ -18,9 +18,7 @@ internalReference: 1020548
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando um usuário faz logon na plataforma VTEX pela primeira vez (Admin), ele é solicitado a escolher sua preferência de login para a próxima vez que fizer logon. Em seguida, ele pode escolher entre digitar seu endereço de e-mail e senha ou digitar um código que será enviado para seu endereço de e-mail;

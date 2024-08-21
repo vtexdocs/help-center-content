@@ -17,8 +17,7 @@ announcementSynopsisPT: ' A VTEX descontinuará o suporte ao CORS do Master Data
 
 Com o principal objetivo de fornecer uma experiência cada vez mais eficiente para você e seus clientes, **a VTEX descontinuará o suporte ao CORS do Master Data.** Siga as instruções deste artigo e evite qualquer falha na operação e na navegação da sua loja.
 
-<div class="alert alert-warning"> A descontinuação estava agendada para setembro de 2019, anteriormente. Porém, em alinhamento com a parceria que temos com nossos clientes e garantindo o mínimo de atrito em suas operações, prorrogamos a data da descontinuação deste recurso para o dia 07 de outubro de 2019. 
-</div>
+>⚠️ A descontinuação estava agendada para setembro de 2019, anteriormente. Porém, em alinhamento com a parceria que temos com nossos clientes e garantindo o mínimo de atrito em suas operações, prorrogamos a data da descontinuação deste recurso para o dia 07 de outubro de 2019.
 
 
 ### O que é CORS?

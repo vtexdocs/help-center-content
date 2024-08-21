@@ -18,9 +18,7 @@ internalReference: 786685
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando el cliente cierra una compra utilizando una tarjeta regalo y la app de pago MercadoPago, el botón "volver al sitio" no le lleva a la página de realizar pedido, sino a `/gatewayCallback//Success`.

@@ -18,9 +18,7 @@ internalReference: 470143
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El vtex.search-resolver@1.x guarda la información de un producto en cuanto a su porcentaje de impuestos, pero el valor registrado puede ser ligeramente incorrecto debido al redondeo de los números.

@@ -90,6 +90,4 @@ Lojas que utilizam [Configurações Multi-idioma (Beta)](https://help.vtex.com/p
      __Exemplo:__
      - `tv,smart tv;true;en-GB`: ao pesquisar por qualquer um dos termos na loja no idioma inglês (`locale = en-GB`), qualquer produto que contenha um desses termos irá aparecer nos resultados da busca.
 
-<div class="alert alert-warning">
-<p> Se o arquivo CSV importado não apresentar o <code>locale</code>, o sinônimo será válido para todos os idiomas disponíveis na loja.</p>
-</div>
+>⚠️ Se o arquivo CSV importado não apresentar o `locale`, o sinônimo será válido para todos os idiomas disponíveis na loja.

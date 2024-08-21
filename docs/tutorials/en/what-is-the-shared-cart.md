@@ -33,15 +33,11 @@ Example:
 
 - **Shared cart URL**: `https://www.{storename}.com/checkout/?orderFormId=31155bb8fd6944c99829c171aa8ed5c4#/cart`
 
-<div class="alert alert-warning">
-When building the shared cart URL, make sure that the querystring <b>?orderFormId=...</b> is placed between <b>/checkout/</b> and <b>#/cart</b>.
-</div>
+>⚠️ When building the shared cart URL, make sure that the querystring **?orderFormId=...** is placed between **/checkout/** and **#/cart**.
 
 To gain access to cart identification information, access [Checkout API](https://developers.vtex.com/vtex-rest-api/reference/checkout-api-overview).
 
-<div class="alert alert-info">
-The use of the abandoned cart functionality is optional, generating no impact for stores that do not use it.
-</div>
+>ℹ️ The use of the abandoned cart functionality is optional, generating no impact for stores that do not use it.
 
 ## Information security
 
@@ -53,6 +49,4 @@ To learn more about data protection, visit [SmartCheckout Security](https://help
 
 When new parameters are inserted into a URL, such as a `querystring`, page tracking can change, impacting assessments performed by systems such as the Google Analytics conversion funnel. To use page tracking service with additional parameters, see updated rules at [Setting up the sales funnel on Google Analytics](https://help.vtex.com/tutorial/configurar-funil-de-vendas-no-google-analytics#).
 
-<div class="alert alert-info">
-If you use another page tracking system in your store, check the internal documentation for that system.
-</div>
+>ℹ️ If you use another page tracking system in your store, check the internal documentation for that system.

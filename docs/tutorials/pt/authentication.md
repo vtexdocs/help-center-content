@@ -35,13 +35,9 @@ Na VTEX, a autenticação por login ocorre em dois contextos: na loja virtual, q
 | Google | O usuário faz login usando sua conta do Google. Confira o guia [Configurar login com Facebook e Google](https://help.vtex.com/pt/tutorial/configurar-login-com-facebook-e-google--tutorials_513) para mais detalhes. | Pode ser habilitada | Pode ser habilitada |
 | Integração com outros provedores de identidades | O usuário pode fazer login usando sua conta de outros provedores de identidades externos, a partir de uma integração. Confira o guia para desenvolvedores [Login (SSO)](https://developers.vtex.com/docs/guides/login-integration-guide) para mais detalhes. | Pode ser habilitada, utilizando o protocolo OAuth.  Confira o guia para desenvolvedores [Webstore (OAuth 2.0)](https://developers.vtex.com/docs/guides/login-integration-guide-webstore-oauth2) para mais detalhes. | Pode ser habilitada, utilizando o protocolo SAML. Confira o guia para desenvolvedores [Admin (SAML 2.0)](https://developers.vtex.com/docs/guides/login-integration-guide-admin-saml2) para mais detalhes. |
 
-<div class="alert alert-info">
-  <p>Pelo menos uma das formas de login da tabela acima deve estar habilitada para a loja virtual.</p>
-</div>
+>ℹ️ Pelo menos uma das formas de login da tabela acima deve estar habilitada para a loja virtual.
 
-<div class="alert alert-warning">
-  <p>Para logar no Admin VTEX, é preciso ter um <a href="https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512">usuário</a> administrativo cadastrado. Os <a href="https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc">perfis de acesso</a> relacionados ao usuário e as permissões incluídas no perfil determinam quais <a href="https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3">recursos</a> ele pode utilizar no Admin.</p>
-</div>
+>⚠️ Para logar no Admin VTEX, é preciso ter um [usuário](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512) administrativo cadastrado. Os [perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) relacionados ao usuário e as permissões incluídas no perfil determinam quais [recursos](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) ele pode utilizar no Admin.
 
 ### Habilitar formas de login
 

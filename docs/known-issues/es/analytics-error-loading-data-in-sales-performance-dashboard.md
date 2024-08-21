@@ -18,9 +18,7 @@ internalReference: 799899
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Error al cargar los datos en el cuadro de mandos `rendimiento de ventas

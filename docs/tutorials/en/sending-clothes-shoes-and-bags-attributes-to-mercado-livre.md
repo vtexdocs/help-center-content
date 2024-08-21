@@ -15,9 +15,7 @@ legacySlug: sending-clothes-shoes-and-bags-attributes-to-mercado-livre
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-<div class="alert alert-info">
-The sending of the products attributes Clothes, Shoes and Bags follows a different flow from the others. In this mapping process, the result is that the SKUs will all be shown in the same ad. For other product types, Mercado Livre performs an automatic mapping.
-</div>
+>ℹ️ The sending of the products attributes Clothes, Shoes and Bags follows a different flow from the others. In this mapping process, the result is that the SKUs will all be shown in the same ad. For other product types, Mercado Livre performs an automatic mapping.
 
 To send the attributes of the products of type __Clothes__, __Shoes__ and __Bags__ to Mercado Livre, follow the steps below:
 
@@ -25,9 +23,7 @@ To send the attributes of the products of type __Clothes__, __Shoes__ and __Bags
 2. Fill in the template worksheet with the SKU IDs to be sent to Mercado Livre and with the values of attributes accepted by Mercado Livre. The accepted values can be found in the links below.
 3. Save the template worksheet with the filled-in values.
 
-<div class="alert alert-info">
-The values accepted by Mercado Livre can be found in the following links. Click the name of your country to download. You will find codes for <u>Main Color</u>, <u>Secondary Color</u>, <u>Adult Size</u>, <u>Children's Footwear Size</u>, <u>Adult's Clothing Size</u> and <u>Children's Clothing Size</u>. These values must be filled in properly in the <strong>Main Color</strong>, <strong>Secondary Color</strong> and <strong>Size</strong> fields of the template worksheet. With the exception of the <em>Secondary Color</em> attribute, all other fields are required (SKU_ID, Main Color, and Size).
-</div>
+>ℹ️ The values accepted by Mercado Livre can be found in the following links. Click the name of your country to download. You will find codes for <u>Main Color</u>, <u>Secondary Color</u>, <u>Adult Size</u>, <u>Children's Footwear Size</u>, <u>Adult's Clothing Size</u> and <u>Children's Clothing Size</u>. These values must be filled in properly in the **Main Color**, **Secondary Color** and **Size** fields of the template worksheet. With the exception of the *Secondary Color* attribute, all other fields are required (SKU_ID, Main Color, and Size).
 
 __Links with the values accepted by Mercado Livre__:
 

@@ -78,9 +78,7 @@ Los *sellers* pueden restringir la disponibilidad de los productos en su catálo
 
 Esta configuración se realiza en el módulo *Catálogo*, al [registrar productos](https://help.vtex.com/es/tutorial/cadastrando-produtos--tutorials_2567) e indicar a qué políticas comerciales estarán vinculados. Si no se establecen restricciones al crear el producto, estará disponible en todas las políticas comerciales. 
 
-<div class="alert alert-warning">
-  No recomendamos vincular políticas comerciales a colecciones para determinar el surtido de productos, especialmente para los marketplaces fuera de VTEX. Cuando se elimina un producto de la colección de políticas comerciales, el sistema VTEX no notifica al marketplace de esta actualización, lo que hace que el producto continúe disponible en el marketplace.
-  </div>
+>⚠️ No recomendamos vincular políticas comerciales a colecciones para determinar el surtido de productos, especialmente para los marketplaces fuera de VTEX. Cuando se elimina un producto de la colección de políticas comerciales, el sistema VTEX no notifica al marketplace de esta actualización, lo que hace que el producto continúe disponible en el marketplace.
 
 [![ES Catalogo Politica](https://images.ctfassets.net/alneenqid6w5/cXoXS1QSCxmbh89SwVfVP/7be99b14d44e2f31d29e740e71954830/ES_Catalogo_Politica.jpg)
 

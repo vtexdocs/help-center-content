@@ -18,9 +18,7 @@ internalReference: 481330
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Links de paginação em `SearchResult' que não funcionam em `Giftlist'.

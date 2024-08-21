@@ -36,9 +36,7 @@ Se optar por não utilizar, é necessário definir uma mensagem de indisponibili
 ![Fuso horário](https://images.ctfassets.net/alneenqid6w5/6cJ4PNNKSc4LQl7MHuBLNA/70da2f837c8ace1dcf4f03196d03eeb6/Hor__rios_de_funcionamento.png)
 3. Selecione os dias e defina os horários de funcionamento do seu Atendimento Humano. É possível definir mais de um período de atendimento por dia de semana. 
 
-<div class="alert alert-info">
-Em caso de feriados fixos, regionais ou outras datas em que não possua atendimento, informe a data e o horário em que o atendimento não estará disponível. Caso os períodos se repitam anualmente, é possível selecionar “recorrência anual”, pré-definindo a configuração para os próximos períodos.
-</div>
+>ℹ️ Em caso de feriados fixos, regionais ou outras datas em que não possua atendimento, informe a data e o horário em que o atendimento não estará disponível. Caso os períodos se repitam anualmente, é possível selecionar “recorrência anual”, pré-definindo a configuração para os próximos períodos.
 
 <ol start="4">
   <li>Se houver alguma exceção de atendimento, informe os períodos de indisponibilidade.<br><img src="//images.ctfassets.net/alneenqid6w5/2z0LWtsZqBbxpjbf060Hvu/b9e85eff01bcd5f86a685720b7b9a1f0/image4.png" alt="Exceções ou feriados"></li>

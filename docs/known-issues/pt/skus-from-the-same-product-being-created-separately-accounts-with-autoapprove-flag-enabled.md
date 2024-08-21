@@ -18,9 +18,7 @@ internalReference: 467112
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O vendedor envia um lote com skus do mesmo produto (todas as variações possíveis do produto).

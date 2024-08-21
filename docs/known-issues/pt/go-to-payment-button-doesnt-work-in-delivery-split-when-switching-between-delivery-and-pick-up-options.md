@@ -18,9 +18,7 @@ internalReference: 756587
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Em um carrinho com pelo menos 2 produtos onde há uma divisão de entrega em que um dos itens está disponível para retirada e o outro apenas para entrega programada, a IU não permitirá a etapa de pagamento quando você mudar entre as opções de retirada e entrega se o primeiro item no carrinho for aquele com entrega programada

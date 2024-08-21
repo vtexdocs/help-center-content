@@ -48,9 +48,7 @@ FastCheckout allows you to create a customizable checkout experience, adapting t
 
 We allow you to add fully custom elements, without having to be familiar with JavaScript or CSS.
 
-<div class="alert alert-warning">
-  <p>The first version released of FastCheckout allows limited customization. Soon, you will be able to fully customize the content using the FastStore Platform extensions.</p>
-</div>
+>⚠️ The first version released of FastCheckout allows limited customization. Soon, you will be able to fully customize the content using the FastStore Platform extensions.
 
 ### New purchase flow
 

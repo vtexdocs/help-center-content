@@ -14,9 +14,7 @@ trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugES: habilitar-filtro-de-pedidos-por-vendedor
 ---
 
-<div class="alert alert-danger">
-El cambio en la configuración de filtro por vendedor, explicado en este artículo, implica editar el archivo <code>checkout-instore-custom.js</code>. Esta operación solo debe ser realizada por personas con experiencia en programación. Cambios incorrectos en este archivo pueden causar errores críticos.
-</div>
+>❗ El cambio en la configuración de filtro por vendedor, explicado en este artículo, implica editar el archivo `checkout-instore-custom.js`. Esta operación solo debe ser realizada por personas con experiencia en programación. Cambios incorrectos en este archivo pueden causar errores críticos.
 
 En inStore, es posible ver la lista de todos los pedidos completados en una tienda. Sin embargo, a veces puede ser mejor que el vendedor vea solo los pedidos que ha completado. Para habilitar esta opción, es necesario editar el archivo `checkout-instore-custom.js`.
 
@@ -33,8 +31,6 @@ window.INSTORE_CONFIG = {
 
 Con eso, filtramos los pedidos para mostrar solo los realizados por el vendedor actualmente conectado en la tienda.
 
-<div class="alert alert-danger">
-No elimine ninguna de las otras propiedades presentes en el objeto <code>window.INSTORE_CONFIG</code>, para evitar romper otras funciones.
-</div>
+>❗ No elimine ninguna de las otras propiedades presentes en el objeto `window.INSTORE_CONFIG`, para evitar romper otras funciones.
 
 Después de volver a cargar los datos de inStore, al hacer clic en el botón __Restaurar datos__, el vendedor solo verá los pedidos cerrados por él o ella.

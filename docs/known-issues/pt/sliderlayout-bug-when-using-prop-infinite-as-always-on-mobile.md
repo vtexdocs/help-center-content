@@ -18,9 +18,7 @@ internalReference: 920725
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o layout do controle deslizante é definido como `infinito: "sempre"` no celular, o componente apresenta um bug intermitente. Após algum tempo de rolagem da prateleira, os produtos param de aparecer e, em vez disso, aparece um espaço em branco.

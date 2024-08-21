@@ -18,9 +18,7 @@ internalReference: 640925
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El vendedor de pedidos 1, donde el MKT y el FFMT están en la misma cuenta, no tiene notificaciones en el tipo de gancho FromOrders para el estado "Payment-Approved".

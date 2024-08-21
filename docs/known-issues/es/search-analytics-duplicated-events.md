@@ -18,9 +18,7 @@ internalReference: 771986
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Algunos eventos de los informes de búsqueda inteligente están duplicados, lo que puede afectar a la vista de análisis del módulo de administración de búsqueda.

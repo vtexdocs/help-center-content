@@ -18,9 +18,7 @@ internalReference: 892041
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Actualmente, cuando se crea un cupón, la UI/API muestra que está archivado durante unos minutos (~2) cuando en realidad (en la base de datos de precios), el cupón está activo.

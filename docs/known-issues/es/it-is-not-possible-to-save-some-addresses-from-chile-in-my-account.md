@@ -18,9 +18,7 @@ internalReference: 386030
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Hay un caso de algunas direcciones que no se pueden guardar en la página de la sección Mi Cuenta en las cuentas de Chile.

@@ -15,9 +15,7 @@ legacySlug: pagina-de-detalhes-da-localidade
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-<div class="alert alert-info">
-Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href= "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
-</div>
+>ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href= "https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
 
 No [módulo Localidades](https://help.vtex.com/pt/tutorial/modulo-localidades--2thSYLMAS8KAd8V4XuBLSy) do seu Admin VTEX, em **Envio > Localidades**, ao clicar sobre uma localidade você é direcionado para sua página de detalhes, como a imagem a seguir:
 

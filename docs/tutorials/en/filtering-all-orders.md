@@ -65,9 +65,7 @@ Enter the desired term in the search bar to search on All orders. This will make
 
 ![search_bar_without_time_limit_EN](https://images.ctfassets.net/alneenqid6w5/2ii9VFh5uRpG4Ad0nwIIN0/c861b2b825068d861850bce56660aa30/search_bar_without_time_limit_EN.png)
 
-<div class="alert alert-danger">
-The search on All orders cannot be combined with other filters. So, once you remove the date limit from the search, any active filters become inactive. If the search term is removed or the <i class="fas fa-toggle-off"></i> <b>Remove date limit</b> is disabled, the previously configured filters become active again.
-</div>
+>❗ The search on All orders cannot be combined with other filters. So, once you remove the date limit from the search, any active filters become inactive. If the search term is removed or the <i class="fas fa-toggle-off"></i> **Remove date limit** is disabled, the previously configured filters become active again.
 
 ### Search by combining filters
 

@@ -18,9 +18,7 @@ internalReference: 871848
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao usar o recurso de desanexação para dividir produtos por alguma especificação de SKU e tentar abrir uma nova guia do PLP para o PDP, ele não reconhece o parâmetro de propriedade que está sendo passado para o URL para selecionar o SKU correto, apenas exibe o SKU adequado ao abrir na mesma guia.

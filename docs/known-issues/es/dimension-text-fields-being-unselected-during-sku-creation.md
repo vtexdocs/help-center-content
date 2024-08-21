@@ -18,9 +18,7 @@ internalReference: 786048
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se crea un SKU desde Admin, es necesario registrar las dimensiones para el envío y las dimensiones reales. Sin embargo, al rellenar uno de los campos de texto y hacer clic (o utilizar el tabulador) para rellenar otro, este campo se deselecciona y es necesario volver a hacer clic en el campo de texto para poder insertar/editar el valor.

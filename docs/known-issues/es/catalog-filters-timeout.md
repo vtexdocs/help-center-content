@@ -18,9 +18,7 @@ internalReference: 922350
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Para las tiendas con una gran cantidad de skus (1 millón o más), a menudo, al filtrar utilizando los filtros de la interfaz de usuario del catálogo, ya sea para el menú principal o para la sección de informes, si la consulta de filtro devuelve un resultado muy grande, la interfaz de usuario se agota (504 tiempo de espera de la puerta de enlace).

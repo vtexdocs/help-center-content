@@ -24,9 +24,7 @@ Veja o exemplo abaixo:
 
 Esse redirecionamento pode ser feito de inúmeras formas, sendo o uso do `htaccess` no servidor uma das mais conhecidas. Mas por ser uma solução bastante técnica e que depende de outros fatores, sugerimos o uso do serviço [Direcionar.com.br](http://direcionar.com.br).
 
-<div class="alert alert-warning">
-<strong> Vale ressaltar que o Direcionar não é um serviço da VTEX e não funciona com HTTPS</strong>. Existem outros serviços similares, e você é livre para escolher a opção que mais lhe convenha.
-</div>
+>⚠️ ** Vale ressaltar que o Direcionar não é um serviço da VTEX e não funciona com HTTPS**. Existem outros serviços similares, e você é livre para escolher a opção que mais lhe convenha.
 
 Este guia contém as instruções para que você faça redirecionamentos para o endereço principal da sua loja. Confira este outro artigo para saber como [configurar acesso sem www](https://help.vtex.com/pt/tutorial/configurando-acesso-sem-www--tutorials_4278).
 

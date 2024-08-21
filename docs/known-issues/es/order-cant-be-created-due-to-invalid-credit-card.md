@@ -18,9 +18,7 @@ internalReference: 607742
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La creación de un pedido puede fallar con la excepción genérica "_Se ha producido un error de comunicación con la pasarela y los datos de pago de la transacción {id} no se han recibido correctamente_", que tienen diferentes causas de origen. Una de ellas estará relacionada con la excepción interna "_La información de la cuenta solicitada no existe_", que puede verse en el historial de transacciones/pagos relacionado con el pedido incompleto.

@@ -21,10 +21,7 @@ In the Admin, you can create customized landing pages, such as pages for special
 
 1. In the VTEX Admin, access **Storefront > Pages**
 
-<div class="alert alert-warning">
-<p>If your store has multiple trade policies or is a cross-border store, select the <a href="https://help.vtex.com/en/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W">binding</a> corresponding to the store to which you want to add a new landing page using the dropdown menu displayed at the top right.
-</p>
-</div>
+>⚠️ If your store has multiple trade policies or is a cross-border store, select the [binding](https://help.vtex.com/en/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W) corresponding to the store to which you want to add a new landing page using the dropdown menu displayed at the top right.
 
 2.Click **CREATE NEW**.
 
@@ -40,10 +37,7 @@ In the Admin, you can create customized landing pages, such as pages for special
 | Description | Summary of the new web page to be displayed in search engine result pages. |
 | Keywords | Topics that define the page content and  help deliver the page to interested users in search engine results. |
 
-<div class="alert alert-warning">
-<p>To avoid conflicts and protect the integrity of the system, changing an existing URL route is not allowed. If you need to change a URL, we recommend creating a new page with the desired path and deactivating the old one if necessary.
-</p>
-</div>
+>⚠️ To avoid conflicts and protect the integrity of the system, changing an existing URL route is not allowed. If you need to change a URL, we recommend creating a new page with the desired path and deactivating the old one if necessary.
 
 <div class = "alert alert-info">
 <p>The five fields above have a direct impact on store hits and search engine results rankings. Before filling in the page metadata, keep SEO best practices in mind.

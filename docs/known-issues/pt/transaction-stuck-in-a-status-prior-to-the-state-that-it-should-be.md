@@ -18,9 +18,7 @@ internalReference: 1037765
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O caso mais comum é o de uma transação presa em autorizada quando deveria ser aprovada; nesse cenário, o pedido não pode ser faturado.

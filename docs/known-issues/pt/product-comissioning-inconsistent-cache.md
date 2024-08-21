@@ -18,9 +18,7 @@ internalReference: 872364
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 Existem, a partir de 2023, dois conjuntos de APIs distintos para atualizar as informações de um vendedor em um marketplace, são eles:
 https://developers.vtex.com/docs/api-reference/catalog-api#put-/api/catalog_system/pvt/seller

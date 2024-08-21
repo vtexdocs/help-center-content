@@ -18,9 +18,7 @@ internalReference: 1005799
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al seleccionar un departamento para establecer una comisión específica en la gestión de vendedores la tabla no está cargando el nombre del departamento. Este comportamiento no ocurre con las categorías inferiores.

@@ -55,7 +55,5 @@ Después de ese paso, la integración creará un catálogo con el nombre `VtexIn
 
 Es en este catálogo, dentro de Facebook, que se crearán los ítems y donde estarán disponibles para ser usados.
 
-<div class="alert alert-info">
-Puede utilizar el <i>pixel app</i> de Facebook para rastrear y optimizar los resultados de sus campañas de marketing en el Google Tag Manager de su tienda. Aprenda el paso a paso aquí
-<a href="https://www.facebook.com/business/help/1021909254506499">aquí</a>.
-</div>
+>ℹ️ Puede utilizar el <i>pixel app</i> de Facebook para rastrear y optimizar los resultados de sus campañas de marketing en el Google Tag Manager de su tienda. Aprenda el paso a paso aquí
+> [aquí](https://www.facebook.com/business/help/1021909254506499).

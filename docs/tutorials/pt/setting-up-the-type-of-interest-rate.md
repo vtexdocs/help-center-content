@@ -41,6 +41,4 @@ O response que retornou a chamada anterior "GET Rule by ID" será o request da s
 
 https://developers.vtex.com/reference/configuration-1#putrulebyid
 
-<div class="alert alert-danger">
-IMPORTANTE: Atualmente, a forma de pagamento somente pode ser modificada via API. Caso seja necessário modificar a forma de pagamento a partir da interface do usuário, o processo de configuração por API deverá ser repetido, pois ao Salvar as alterações, será considerado valor vazio por padrão.
-</div>
+>❗ IMPORTANTE: Atualmente, a forma de pagamento somente pode ser modificada via API. Caso seja necessário modificar a forma de pagamento a partir da interface do usuário, o processo de configuração por API deverá ser repetido, pois ao Salvar as alterações, será considerado valor vazio por padrão.

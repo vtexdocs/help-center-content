@@ -18,9 +18,7 @@ internalReference: 1052895
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando uma conta tem um público-alvo de campanha e um usuário conectado é correspondido, o checkout usa as informações registradas na sessão, que tem apenas o ID da campanha. Em `marketingTags`, ele deveria ter o nome da campanha, mas é `nulo`, pois não há informações disponíveis na sessão.

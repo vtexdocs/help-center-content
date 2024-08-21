@@ -18,9 +18,7 @@ internalReference: 464837
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 As transações com 3 métodos de pagamento sendo um de seus cartões-presente têm valores de reembolso incorretos. Em alguns casos, temos um reembolso negativo que faz com que o pagamento seja cancelado.

@@ -18,9 +18,7 @@ internalReference: 502409
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Em Coleções (Beta), devemos poder alterar a ordem dos produtos dentro de uma coleção usando o recurso "Mover para a posição":

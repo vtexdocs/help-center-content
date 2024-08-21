@@ -18,9 +18,7 @@ internalReference: 308896
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A plataforma permite que você envie um BIN com outra bandeira de marca de cartão. Por exemplo, o BIN: Um BIN VISA pode ser informado, mas você pode marcar a bandeira de marca do cartão Mastercard.

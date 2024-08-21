@@ -15,12 +15,14 @@ legacySlug: new-my-orders-area
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-<div class="alert alert-warning">
-This update is a <em>major</em> and <strong>not compatible with the customizations of the current My Orders section</strong>. 
-<br />
-<br />
-Because the new page structure is completely different, it will be necessary to remake the customizations to migrate to this version. See details on how to update your customization in <a href="http://help.vtex.com/pt/tutorial/customizando-a-secao-meus-pedidos">Customizando a Seção Meus Pedidos</a>.
-</div>
+>⚠️ This update is a *major* and **not compatible with the customizations of the current My Orders section**. 
+>
+>
+> 
+>
+>
+> 
+> Because the new page structure is completely different, it will be necessary to remake the customizations to migrate to this version. See details on how to update your customization in [Customizando a Seção Meus Pedidos](http://help.vtex.com/pt/tutorial/customizando-a-secao-meus-pedidos).
 
 VTEX is always looking to use a modern stack to create products that deliver more value to the ecosystem. For this reason, we started using the React JS library in our most recent systems and features: the new **My Orders** feature is one example. The newest version comes with new features and design, and was created from scratch using React.
 

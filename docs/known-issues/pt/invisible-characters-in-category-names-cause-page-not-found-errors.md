@@ -18,9 +18,7 @@ internalReference: 1061149
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao criar categorias por meio da API ou do painel de administração, o nome da categoria não é validado corretamente, permitindo a inclusão de caracteres invisíveis. Como o nome da categoria é usado para gerar o URL da categoria, esses caracteres invisíveis também são incluídos no URL. Isso faz com que a página da categoria não funcione corretamente e retorne um erro "Página não encontrada".

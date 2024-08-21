@@ -20,9 +20,7 @@ O Suporte VTEX é prestado de forma online e permite a abertura de tickets com d
 - Login usando a conta do Google.
 - Email e senha com autenticação de dois fatores via aplicativo ou SMS.
 
-<div class="alert alert-warning">
-Para obter a autorização de autenticação, é necessário que o <a href="https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512">usuário</a> tenha acesso ao Admin VTEX e um <a href="https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete">perfil de acesso</a> associado a <a href="https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3">recursos do License Manager</a>.
-</div>
+>⚠️ Para obter a autorização de autenticação, é necessário que o [usuário](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512) tenha acesso ao Admin VTEX e um [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc?&utm_source=autocomplete) associado a [recursos do License Manager](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3).
 
 O Suporte VTEX é dividido por regiões, e cada região possui sua própria definição de nível de serviço (SLA de atendimento), prioridade e disponibilidade da equipe de Customer Excellence (CX) daquela região. As regiões onde o suporte atua são as seguintes:
 

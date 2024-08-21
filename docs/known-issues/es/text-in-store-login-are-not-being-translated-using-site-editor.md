@@ -18,9 +18,7 @@ internalReference: 911757
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al tratar de traducir un texto utilizando el editor de sitio para el inicio de sesión de la tienda, los cambios no se aplicarán en el frente de la tienda.

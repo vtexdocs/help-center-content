@@ -15,9 +15,7 @@ announcementImageID: ''
 announcementSynopsisEN: 'Order Management Module Feed v1 and v2 will be discontinued'
 ---
 
-<div class="alert alert-warning">
-From July 25<sup>th</sup>, 2019, the Order Management Module Feed v1 and v2 will be discontinued, meaning that after this date, only Feed v3 will be available for use.
-</div>
+>⚠️ From July 25<sup>th</sup>, 2019, the Order Management Module Feed v1 and v2 will be discontinued, meaning that after this date, only Feed v3 will be available for use.
 
 ## Why is VTEX removing the older versions?
 

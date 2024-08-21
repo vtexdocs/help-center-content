@@ -18,9 +18,7 @@ A experiência do VTEX Sales App é customizável: você pode aplicar funcionali
 
 Para isso, é necessário editar arquivos JavaScript e CSS, conforme descrito no guia para desenvolvedores [How to customize VTEX Sales App](https://developers.vtex.com/docs/guides/how-to-customize-vtex-sales-app).
 
-<div class="alert alert-warning">
-<p>Somente pessoas com experiência em programação devem customizar o VTEX Sales App, pois alterações incorretas nestes arquivos podem causar erros críticos.</p>
-</div>
+>⚠️ Somente pessoas com experiência em programação devem customizar o VTEX Sales App, pois alterações incorretas nestes arquivos podem causar erros críticos.
 
 Veja abaixo as customizações disponíveis para uso no VTEX Sales App. Você pode clicar no nome de cada uma para acessar seu respectivo guia de implementação.
 

@@ -18,9 +18,7 @@ internalReference: 833338
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o componente "drawer" (gaveta) é implementado em "product-summary" (resumo do produto), ele faz com que a página seja recarregada após a página 3 no iOS, e uma mensagem de erro pode ser exibida.

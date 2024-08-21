@@ -18,9 +18,7 @@ internalReference: 1043470
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Las páginas de resultados de búsqueda personalizadas configuradas con el id de colección no funcionan cuando se asignan diferentes colecciones de productos a una organización.

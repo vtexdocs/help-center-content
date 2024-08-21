@@ -18,9 +18,7 @@ internalReference: 1070336
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Si un artículo se añade al carrito como opción (también conocido como hijo) desde Opciones de montaje, y el mismo artículo se añade al carrito como artículo normal; los precios se mezclan, y cada uno se aplica al incorrecto.

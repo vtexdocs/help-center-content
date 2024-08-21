@@ -59,9 +59,7 @@ Al igual que la promoción, la programación de las tasas se realiza durante su 
 
 La programación de contenidos a través de Site Editor se puede hacer tanto al [crear](https://help.vtex.com/es/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37#crear-contenido) como al [editar](https://help.vtex.com/es/tutorial/managing-page-and-template-content--3tMbx6HXy4Fy5r9EhboG37#editar-contenido) un bloque.  
 
-<div class="alert alert-warning">
-  <p>La programación de contenidos solo está disponible para las tiendas desarrolladas en <a href="https://vtex.com/es-es/store-framework/">VTEX IO</a>.</p>
-</div> 
+>⚠️ La programación de contenidos solo está disponible para las tiendas desarrolladas en [VTEX IO](https://vtex.com/es-es/store-framework/). 
 
 Para programar un contenido, siga los pasos a continuación:
 

@@ -38,9 +38,9 @@ In accordance with the search term, the system may render the following result p
 
 If the term searched for corresponds to the name of a folder which is set up in Portal Manager (the landing page), this folder will be rendered.
 
-<div class="alert alert-warning">
-<b>Notice</b>: a folder needs to have a layout in order to be searchable.<br><b>Even if the search in done in the subfolder, the parent folder also requires layout.</b>
-</div>
+>⚠️ **Notice**: a folder needs to have a layout in order to be searchable.
+>
+> **Even if the search in done in the subfolder, the parent folder also requires layout.**
 
 ### 2. Brand
 

@@ -48,10 +48,8 @@ O convite é feito por meio de um link enviado por email ao seller, que contém 
 
 O seller receberá por email o convite para vender em seu marketplace. 
 
-<div class="alert alert-info">
-O link enviado por email para o seller é válido por 7 dias. Uma vez aberto, o seller tem seis horas para completar o formulário de cadastro, sem interrupções. 
-Caso não seja possível concluir o cadastro nesse período, o marketplace precisa enviar o convite novamente. Isso pode ser feito acessando o módulo MARKETPLACE > Convidar sellers > selecione o seller na lista > clique no botão  <i class="fas fa-paper-plane"></i> Reenviar convite. 
-</div>
+>ℹ️ O link enviado por email para o seller é válido por 7 dias. Uma vez aberto, o seller tem seis horas para completar o formulário de cadastro, sem interrupções. 
+> Caso não seja possível concluir o cadastro nesse período, o marketplace precisa enviar o convite novamente. Isso pode ser feito acessando o módulo MARKETPLACE > Convidar sellers > selecione o seller na lista > clique no botão  <i class="fas fa-paper-plane"></i> Reenviar convite.
 
 ## Conectar seller
 

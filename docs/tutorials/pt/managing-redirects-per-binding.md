@@ -50,17 +50,13 @@ No Admin VTEX:
 
 ![pt-redirectdelete](https://images.ctfassets.net/alneenqid6w5/3dRsZxKTYJTaOPrm6rBU84/3e5a9c1f27986e34fa7fd7b32f1a636e/pt-redirectdelete.png)
 
-<div class="alert alert-warning">
-Um <i>bug</i> pode ser encontrado ao tentar clicar em redirecionamentos com parâmetros de consulta na URL (<i>query strings</i>). O time de produto da VTEX já está ciente do comportamento inesperado e trabalhando na correção. Caso você não consiga clicar no redirecionamento desejado para excluí-lo, prefira fazê-lo por meio da importação da planilha enquanto o problema não é resolvido.
-</div>
+>⚠️ Um <i>bug</i> pode ser encontrado ao tentar clicar em redirecionamentos com parâmetros de consulta na URL (<i>query strings</i>). O time de produto da VTEX já está ciente do comportamento inesperado e trabalhando na correção. Caso você não consiga clicar no redirecionamento desejado para excluí-lo, prefira fazê-lo por meio da importação da planilha enquanto o problema não é resolvido.
 
 ## Importando e exportando redirecionamentos
 
 Para gerenciar em massa os redirecionamentos da sua loja, você pode usar uma planilha de importação e exportação.
 
-<div class="alert alert-warning">
-Os redirecionamentos listados na planilha serão obrigatoriamente criados ou excluídos da lista de redirecionamentos da loja - não é possível criar <i>e</i> excluir redirecionamentos usando a mesma planilha. Antes de preencher e enviar a sua planilha no admin, tenha em mente seu objetivo final com ela.
-</div>
+>⚠️ Os redirecionamentos listados na planilha serão obrigatoriamente criados ou excluídos da lista de redirecionamentos da loja - não é possível criar <i>e</i> excluir redirecionamentos usando a mesma planilha. Antes de preencher e enviar a sua planilha no admin, tenha em mente seu objetivo final com ela.
 
 1. Clique no botão `Importar` e depois em` Baixar modelo`. Clique no botão `Exportar` se desejar fazer o download da lista de redirecionamentos pré-salva na loja e modificá-la.
 2. Abra a planilha assim que o *download* for concluído e preencha as células das colunas de acordo com a tabela abaixo:
@@ -79,9 +75,7 @@ Os redirecionamentos listados na planilha serão obrigatoriamente criados ou exc
 
 ![pt-planilharedirect](https://images.ctfassets.net/alneenqid6w5/1Vjku4KoOrCbO7mcdehcCt/e7979dca1ef4b2f159bb3c09a42d9716/pt-planilharedirect.png)
 
-<div class="alert alert-warning">
-Ao clicar no botão <code>Salvar</code>, você criará todos os redirecionamentos listados em sua planilha, ao passo que clicar no botão <code>Excluir</couirde> removerá todos eles do banco de dados de redirecionamentos da sua loja.
-</div>
+>⚠️ Ao clicar no botão `Salvar`, você criará todos os redirecionamentos listados em sua planilha, ao passo que clicar no botão <code>Excluir</couirde> removerá todos eles do banco de dados de redirecionamentos da sua loja.
 
 6. Carregue a planilha a partir dos seus arquivos locais.
 7. Clique no botão `Importar arquivo`.

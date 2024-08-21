@@ -18,9 +18,7 @@ internalReference: 328464
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El modal de puntos de recogida, desde el checkout, muestra en azul las opciones válidas como SLA calculadas para el carrito y en gris otras opciones que no estaban calculadas previamente como SLA, para que el comprador pueda conocer estas opciones e incluso comprobar su disponibilidad bajo demanda. Estas opciones provienen de la API `/api/checkout/pub/pickup-points` (que no es más que un proxy al servicio de Logística), que listará todos los puntos de recogida de la tienda.

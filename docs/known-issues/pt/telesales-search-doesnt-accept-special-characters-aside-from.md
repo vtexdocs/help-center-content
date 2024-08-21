@@ -18,9 +18,7 @@ internalReference: 1072418
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Atualmente, ao usar a caixa de pesquisa de televendas, um usuário pode se passar por comprador para ajudar nas compras e, para isso, é necessário inserir, na caixa de pesquisa nativa, o e-mail de quem será representado.

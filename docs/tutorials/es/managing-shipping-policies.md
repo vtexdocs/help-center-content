@@ -103,9 +103,7 @@ Para activar o desactivar una política de envío, sigue estos pasos:
 
 Para eliminar una política de envío, sigue estos pasos:
 
-<div class="alert alert-danger">
-La acción de eliminar una política de envío es permanente y no se puede deshacer.
-</div>
+>❗ La acción de eliminar una política de envío es permanente y no se puede deshacer.
 
 1. En el Admin VTEX, accede a **Envío > Estrategia de envío** o ingresa **Estrategia de envío** en la barra de búsqueda en la parte superior de la página.
 2. En la pestaña **Políticas de envío**, en la fila correspondiente al política deseada, haz clic en el ícono de menú <i class="fas fa-ellipsis-v"></i>. Puedes [buscar](#buscar-politicas-de-envio) o [filtrar](#filtrar-politicas-de-envio) políticas.

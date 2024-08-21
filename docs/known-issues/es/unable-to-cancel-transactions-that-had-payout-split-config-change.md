@@ -18,9 +18,7 @@ internalReference: 364382
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se produce un cambio en la configuración, añadiendo la división del pago, y esto hace que las nuevas transacciones tengan información que no estaba disponible antes y que ahora se utilizará en la operación de cancelación, lo que hace que las transacciones creadas antes de esta configuración no se estén cancelando.

@@ -41,9 +41,7 @@ También se puede utilizar la redirección de DNS, según provista por diferente
 
 Para realizar una redirección de DNS de forma sencilla, a continuación están las instrucciones para la redirección con el servicio [redirect.center](http://redirect.center/).
 
-<div class="alert alert-warning">
-Cabe resaltar que Redirect Center no es un servicio de VTEX y no funciona con HTTPS. Hay otros servicios similares, pero VTEX no recomienda ninguno en específico. VTEX no se hace responsable por problemas causados por servicios externos de redirección.
-</div>
+>⚠️ Cabe resaltar que Redirect Center no es un servicio de VTEX y no funciona con HTTPS. Hay otros servicios similares, pero VTEX no recomienda ninguno en específico. VTEX no se hace responsable por problemas causados por servicios externos de redirección.
 
 Consulta este otro artículo para saber cómo [configurar redirección de otras direcciones](https://help.vtex.com/es/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ).
 

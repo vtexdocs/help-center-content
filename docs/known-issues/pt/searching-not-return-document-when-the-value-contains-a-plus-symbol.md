@@ -18,9 +18,7 @@ internalReference: 828170
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Ao pesquisar um documento usando um valor de campo que inclui o símbolo "+", a pesquisa não retorna o documento. Isso acontece porque o símbolo "+" é interpretado incorretamente, o que faz com que o valor da pesquisa não corresponda ao valor existente.

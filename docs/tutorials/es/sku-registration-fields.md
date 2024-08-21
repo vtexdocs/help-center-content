@@ -15,9 +15,7 @@ legacySlug: campos-de-registro-de-sku
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
-<div class="alert alert-warning">
-  <p>Hay un límite de 50 SKU por producto. Para solicitar que se amplíe el límite, ponte en contacto con <a href= "https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.</p>
-</div>
+>⚠️ Hay un límite de 50 SKU por producto. Para solicitar que se amplíe el límite, ponte en contacto con <a href= "https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.
 
 Para entender mejor el significado de cada campo del registro, vea la descripción completa de los ítems relacionados en la página:
 
@@ -77,9 +75,7 @@ Luego de rellenar los campos, haga clic en Guardar. Para continuar con el regist
 
 ## Imágenes
 
-<div class="alert alert-info">
-  <p>La imagen del SKU tiene un límite de tamaño de 3200 x 3200 píxeles.</p>
-</div>
+>ℹ️ La imagen del SKU tiene un límite de tamaño de 3200 x 3200 píxeles.
 
 Cómo registrar una nueva imagen:
 
@@ -138,7 +134,5 @@ Luego de rellenar los campos necesarios, basta con hacer clic en Guardar, en la 
 - [Rellenar campos de registro del producto](/es/tutorial/campos-de-registro-de-producto--4dYXWIK3zyS8IceKkQseke)
 - [Rellenar campos de la plantilla de importación](/es/tutorial/preencher-campos-da-planilha-de-importacao--4nYhx63Q5yokQWaMguaIgI)
 
-<div class="alert alert-danger">
- Para garantizar que los ítems agregados al stock estén disponibles para venta en la tienda, el <a href="url">ID del SKU</a> no debe contener <b>el número cero a la izquierda</b>. Por ejemplo, el sistema no reconoce ID con el formato <code>01</code>, <code>02</code> , <code>021</code>, ya que espera el formato <code>1</code>, <code>2</code>, <code>21</code>.
-</div>
+>❗ Para garantizar que los ítems agregados al stock estén disponibles para venta en la tienda, el [ID del SKU](url) no debe contener **el número cero a la izquierda**. Por ejemplo, el sistema no reconoce ID con el formato `01`, `02` , `021`, ya que espera el formato `1`, `2`, `21`.
 

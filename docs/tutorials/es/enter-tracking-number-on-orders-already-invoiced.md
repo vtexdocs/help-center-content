@@ -24,9 +24,7 @@ Usted puede introducir el número de seguimiento de entrega en pedidos ya factur
 5. Introduzca el número en el campo **Número de rastreo**.
 6. Haga clic en `Guardar`.
 
-<div class="alert alert-warning">
-El Admin de VTEX no permite la importación en masa, por archivos, de los números de seguimiento de pedidos. El método normalmente utilizado para ello es a través de integración entre VTEX y el ERP de la tienda. Si su ERP está integrado a VTEX, es posible hacer esta importación vía API.
-</div>
+>⚠️ El Admin de VTEX no permite la importación en masa, por archivos, de los números de seguimiento de pedidos. El método normalmente utilizado para ello es a través de integración entre VTEX y el ERP de la tienda. Si su ERP está integrado a VTEX, es posible hacer esta importación vía API.
 
 ### Sepa más
 

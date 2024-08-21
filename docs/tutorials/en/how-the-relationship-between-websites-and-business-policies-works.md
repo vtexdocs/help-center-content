@@ -38,9 +38,7 @@ To know the ordering of trade policies, follow the steps below:
 1. In your VTEX Admin, access **Store Settings > Channels > Trade Policies**.
 2. In the __Position__ column, you will see the ordering of your trade policies. Position 1 displays the highest priority trade policy.
 
-<div class="alert alert-danger">
-We recommend that you do not change the position of the trade policy with <strong>ID 1</strong>.
-</div>
+>❗ We recommend that you do not change the position of the trade policy with **ID 1**.
 
 ### Examples
 

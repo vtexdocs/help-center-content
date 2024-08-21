@@ -18,9 +18,7 @@ internalReference: 798330
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 La aplicación de permisos de la tienda siempre establece el campo "clientProfileData.documentType" como "cpf" en el orderForm. Esto puede causar que la transacción sea denegada por el proveedor.

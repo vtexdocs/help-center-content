@@ -18,9 +18,7 @@ internalReference: 328415
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 As informações sobre a categoria do produto na dataLayer nas páginas de checkout são mostradas na ordenação errada. Isto é representado pela propriedade "categoryTree".

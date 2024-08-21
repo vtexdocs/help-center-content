@@ -21,9 +21,7 @@ El flujo completo es: compra acordada con boleto en el sitio web &gt; pedido en
 
 Conforme explicado en el FAQ [¿Cuánto tiempo lleva para la cancelación de un pedido de boleto sin pago?](/hc/es-419/articles/215033318 "¿Cuánto tiempo lleva para la cancelación de un pedido de boleto sin pago?"), existe un plazo para la cancelación del pedido, caso este no sea notificado como pagado en el status de Pago Aprobado (ya sea manualmente en el OMS el por conciliación). En ese caso, el pedido permanecerá en el status de Pago Pendiente hasta que sea cancelado.
 
-<div class="alert alert-warning">
-Los procedimientos de este artículo no se aplican a las integraciones que realizan la conciliación bancaria de forma automática.
-</div>
+>⚠️ Los procedimientos de este artículo no se aplican a las integraciones que realizan la conciliación bancaria de forma automática.
 
 ## Cómo hacer el upload
 

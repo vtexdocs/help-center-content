@@ -39,9 +39,7 @@ The page displays a list of all roles added to the account and their respective 
 
 In a newly created account, only the *Owner (Admin Super)* role will be listed. This role gives the user unrestricted access to all native resources of the platform.
 
-<div class="alert alert-warning">
-  <p>The number of users with the <em>Owner (Admin Super)</em> role should be as few as possible. In addition, make sure there is visibility and control over who is granted this access.</p>
-</div>
+>⚠️ The number of users with the *Owner (Admin Super)* role should be as few as possible. In addition, make sure there is visibility and control over who is granted this access.
 
 ## Creating a role
 
@@ -59,9 +57,7 @@ You can edit the resources and users associated with a role. To do so, click ⫶
 
 To delete a role, click `⫶` in the row of the role you want to delete, and then click <i class="far fa-trash-alt"></i> `Delete`.
 
-<div class="alert alert-warning">
-  <p>By deleting a role, users associated with that role will lose access to the <a href="https://help.vtex.com/entutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3">License Manager resources</a> from the deleted role, unless they are also assigned other roles with the same permissions.</p>
-</div>
+>⚠️ By deleting a role, users associated with that role will lose access to the [License Manager resources](https://help.vtex.com/entutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) from the deleted role, unless they are also assigned other roles with the same permissions.
 
 ## Learn more
 

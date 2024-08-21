@@ -18,9 +18,7 @@ internalReference: 920970
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Os valores permitidos do anexo não são atualizados se ele foi adicionado a um item antes de alterar seus valores no administrador. Isso causará um erro no carrinho com a mensagem "Não foi possível se comunicar com o vendedor".

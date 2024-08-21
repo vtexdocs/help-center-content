@@ -17,9 +17,7 @@ subcategory: 3VNOhxDrvYxJThhuJClrYZ
 
 The [Order Details page](https://help.vtex.com/en/tutorial/order-details-page-beta--2Y75n54Cc9VizrlG1N6ZNl) allows you to change the final cost of orders that have not yet been invoiced. This occurs when there are discounts or additions to the order total.
 
-<div class="alert alert-warning">
-Remember that this feature is only available for orders whose status is <code>Preparing delivery</code>.
-</div>
+>⚠️ Remember that this feature is only available for orders whose status is `Preparing delivery`.
 
 To make the change, follow the steps below:
 

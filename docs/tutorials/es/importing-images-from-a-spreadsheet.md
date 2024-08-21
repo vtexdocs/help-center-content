@@ -35,10 +35,9 @@ El tiempo que tarde este proceso dependerá del tamaño del archivo. Si la plant
 
 Por último, los productos de las filas de la plantilla cuyas imágenes se procesaron con éxito se pondrán en la cola de indexación.
 
-<div class="alert alert-danger">
-<p>Siempre que se importe una plantilla con información de imágenes, el sistema cargará la nueva imagen del SKU. Presta atención a posibles duplicaciones.</p>
-<p>Si se importa por segunda vez una plantilla con información que ya se envió previamente a VTEX, la información no sobrescribirá la imagen anterior: la imagen se duplicará en el registro del SKU.</p>
-</div>
+>❗ Siempre que se importe una plantilla con información de imágenes, el sistema cargará la nueva imagen del SKU. Presta atención a posibles duplicaciones.
+>
+> Si se importa por segunda vez una plantilla con información que ya se envió previamente a VTEX, la información no sobrescribirá la imagen anterior: la imagen se duplicará en el registro del SKU.
 
 ## Cómo completar la plantilla para importar imágenes
 
@@ -65,9 +64,7 @@ No es necesario que cuentes con un servidor FTP propio para enviar las URL de la
 
 Además, para verificar si las URL son correctas, puedes usar un servicio externo que verifique su validez.
 
-<div class="alert alert-warning">
-  <p>Recomendamos que cada imagen no pese más de 3000 KB (3 MB).</p>
-</div>
+>⚠️ Recomendamos que cada imagen no pese más de 3000 KB (3 MB).
 
 ### NomeImagem
 

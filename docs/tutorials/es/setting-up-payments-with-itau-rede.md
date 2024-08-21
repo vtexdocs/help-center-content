@@ -25,9 +25,7 @@ Para utilizar Itaú Rede, debes:
 
 ## Obtener credenciales en el entorno de Userede
 
-<div class="alert alert-warning">
-Las configuraciones realizadas en un entorno externo a VTEX podrán ser discontinuadas o modificadas sin previo aviso. Consulta tu cuenta de Itaú Rede para obtener información actualizada.
-</div>
+>⚠️ Las configuraciones realizadas en un entorno externo a VTEX podrán ser discontinuadas o modificadas sin previo aviso. Consulta tu cuenta de Itaú Rede para obtener información actualizada.
 
 Para obtener las credenciales __Clave de aplicación__ y __Token de aplicación__ necesarias para configurar Itaú Rede en VTEX, siga los pasos a continuación:
 
@@ -59,9 +57,7 @@ Para obtener las credenciales __Clave de aplicación__ y __Token de aplicación_
 
 <blockquote><ui>8. Después de crear la nueva clave, haga clic en <b>copiar</b> y conserve la información en un lugar seguro. Esta clave debe ser utilizada en el campo <b>Token de aplicación</b> de la sección <a href="#configurar-itau-rede-en-vtex">Configurar Itaú Rede en VTEX</a>.</ui>
 
-<blockquote><ui><div class="alert alert-warning">
-Una vez que se crea una "chave de integração" en el entorno de red, no se puede volver a acceder a ella desde otras ubicaciones. Registre la información de la clave en una ubicación protegida y, si se pierde, repita el proceso para generar una nueva clave.
-  </div></ui></blockquote>
+<blockquote><ui>>⚠️ Una vez que se crea una "chave de integração" en el entorno de red, no se puede volver a acceder a ella desde otras ubicaciones. Registre la información de la clave en una ubicación protegida y, si se pierde, repita el proceso para generar una nueva clave.</ui></blockquote>
 
 ## Configurar Itaú Rede en VTEX
 

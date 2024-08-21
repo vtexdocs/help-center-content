@@ -15,7 +15,7 @@ legacySlug: configurar-gateway-payu
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-danger">Esta integración de pago ya no se puede configurar en la plataforma debido al <a href="https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14">proceso de descontinuación de los proveedores legados</a> y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.</div>
+>❗ Esta integración de pago ya no se puede configurar en la plataforma debido al [proceso de descontinuación de los proveedores legados](https://help.vtex.com/es/announcements/descontinuacion-de-conectores-de-pago-legados-en-2024--4R5YIjUu1IWkiOHzXtQU14) y el artículo pronto se eliminará del Help Center. Consulte con su proveedor para obtener más información sobre el desarrollo de la nueva integración de pago y los pasos necesarios para migrar la configuración en su tienda.
 
 PayU es un [gateway](/es/tutorial/que-es-un-gateway-de-pagos) que ofrece una serie de soluciones para facilitar (y dejar más seguras) las transacciones realizadas en su tienda. Con certificación [PCI](/es/faq/que-es-el-pci-ssc), esta solución es exclusiva para Argentina, Brasil, Chile, Colombia, México, Panamá y Perú.
 

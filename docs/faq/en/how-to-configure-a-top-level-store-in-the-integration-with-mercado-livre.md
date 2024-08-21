@@ -14,4 +14,4 @@ locale: en
 legacySlug: how-to-configure-a-top-level-store-in-the-integration-with-mercado-livre
 ---
 
-<div class="alert alert-warning">Content under translation</div>
+>⚠️ Content under translation

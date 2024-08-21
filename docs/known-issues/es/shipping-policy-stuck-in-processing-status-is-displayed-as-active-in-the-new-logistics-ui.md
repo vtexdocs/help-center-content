@@ -18,9 +18,7 @@ internalReference: 925914
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En ocasiones la póliza de transporte puede quedarse atascada en el estado de tramitación, pero en la nueva UI de logística no se ve porque informa de que el estado está activo.

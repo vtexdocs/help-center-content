@@ -26,9 +26,7 @@ Antes de criar uma promoção de campanha, você precisa criar uma audiência de
 
 Exemplo: se você configurar uma [audiência de campanha](https://help.vtex.com/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K) cujo público alvo é de clientes que colocam o produto A no carrinho, na promoção de campanha você pode configurar que esse público vai receber um desconto sobre o produto B.
 
-<div class="alert alert-info">
-  <p>Audiências de campanha e suas promoções são válidas apenas para a conta principal da loja. Contas de sellers não apresentam essa opção. Caso sejam criadas em uma conta de sellers, a audiência de campanha ou a promoção de campanha não serão ativadas.</p>
-</div>
+>ℹ️ Audiências de campanha e suas promoções são válidas apenas para a conta principal da loja. Contas de sellers não apresentam essa opção. Caso sejam criadas em uma conta de sellers, a audiência de campanha ou a promoção de campanha não serão ativadas.
 
 Uma vez definida a [audiência de campanha](https://help.vtex.com/pt/tutorial/criar-audiencia-de-campanhas--6cnuDZJzIkIeocewAQQK4K), acesse o Admin e siga os passos abaixo para criar uma promoção de campanha.
 
@@ -136,9 +134,7 @@ Veja um exemplo de preenchimento abaixo. Nesse caso, participam da promoção to
 
 Nos campos **Produtos** e **SKUs**, existe a opção de fazer o upload de um arquivo **.txt** com um ID de produto ou de SKU por linha, em vez de selecionar um produto ou um SKU de cada vez. Para isso, você precisa clicar em **Escolher arquivo** e selecionar o arquivo **.txt** desejado.
 
-<div class="alert alert-warning">
-  <p>Se você selecionar <b>Aplicar aos seguintes produtos</b> e não preencher nenhum dos critérios de seleção, a promoção não será cadastrada e a mensagem <b>Defina os produtos elegíveis ou aplique a todos os produtos</b> será exibida. Nesse caso, você deve retornar e preencher os critérios de seleção ou optar por <b>Aplicar a todos os produtos</b>.</p>
-</div>
+>⚠️ Se você selecionar **Aplicar aos seguintes produtos** e não preencher nenhum dos critérios de seleção, a promoção não será cadastrada e a mensagem **Defina os produtos elegíveis ou aplique a todos os produtos** será exibida. Nesse caso, você deve retornar e preencher os critérios de seleção ou optar por **Aplicar a todos os produtos**.
 
 Para serem válidos na promoção, os produtos precisam atender a todas as condições cadastradas nesta seção.
 

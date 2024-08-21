@@ -19,9 +19,7 @@ internalReference: 429993
 ## Sumario
 
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés
 
 Actualmente, las reglas de negocio de nuestro catálogo establecen que el peso de la carga de un KIT SKU debe ser definido por la suma de sus componentes - https://help.vtex.com/en/tutorial/cadastrando-kit--tutorials_215
 

@@ -18,9 +18,7 @@ internalReference: 966499
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Espera-se que o administrador de especificações do produto sempre apresente os valores corretos para as especificações de um produto. No entanto, isso pode não ser sempre o caso.

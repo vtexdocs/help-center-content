@@ -63,9 +63,7 @@ Users not registered on the website need an interface for pre-registration. The 
 
 Accordingly, all pre-registration fields must be defined. B2B usually uses client information (name, email, phone etc.) and their address (street, district, city etc.) for purposes of pre-registration. Check our article [Import customer data - Brazil](https://help.vtex.com/en/tutorial/importando-dados-de-clientes-brasil--2zWYVOyj0sISYQmeUwCsI0 "Importar dados de clientes - Brasil") for more information about the required data.
 
-<div class="alert alert-warning">
-  <p>The field used as conditional rule in the commercial policy should not be included in this form, since users cannot approve themselves, this being under the responsibility of the store.</p>
-</div>
+>⚠️ The field used as conditional rule in the commercial policy should not be included in this form, since users cannot approve themselves, this being under the responsibility of the store.
 
 ## 4. Create a pre-registration form
 
@@ -75,6 +73,4 @@ Upon the definition of fields, the pre-registration form must be created on the 
 
 Once the settings have been completed and the B2B is finally operating, the store owner’s routine will depend on their business rules and needs. Basically, at each new registration, the store owner should analyze and approve the user using the CRM interface, that they can access using the following URL: `http://{nome_da_conta}.vtexcrm.com.br/`.
 
-<div class="alert alert-info">
-  <p>This article describes basic B2B settings; however, there are several ways to customize the system according to this need, including by sending emails (triggers) based on pre-defined events.</p>
-</div>
+>ℹ️ This article describes basic B2B settings; however, there are several ways to customize the system according to this need, including by sending emails (triggers) based on pre-defined events.

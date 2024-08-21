@@ -15,9 +15,7 @@ announcementImageID: ''
 announcementSynopsisEN: 'Now available detailed information about the calculation of shipping of the order'
 ---
 
-<div class="alert alert-warning">
-Due to technical reasons, the launch of this feature was postponed until further notice.
-</div>
+>⚠️ Due to technical reasons, the launch of this feature was postponed until further notice.
 
 Starting  April 1, 2019, the request JSON will return a new object called `alternativeTotals`. It will appear in the totalizers that are inside the array of `totals`, for queries made by the APIs Get Order.
 

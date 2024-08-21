@@ -18,9 +18,7 @@ internalReference: 886168
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando el Matcher procesa los skus en el módulo de sugerencias del marketplace las infos de Altura, Anchura, Peso y Longitud se están poniendo a 0.1 en lugar de respetar los valores enviados por el vendedor.

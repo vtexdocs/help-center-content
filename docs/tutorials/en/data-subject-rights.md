@@ -25,9 +25,7 @@ This article explains how to comply with the following data subject rights:
 - [Consent](#consent)
 - [Erasure](#erasure)
 
-<div class="alert alert-danger">
-VTEX is not responsible for personal data stored by systems integrated with your store, such as ERPs, third-party marketplaces, third-party sellers, third-party applications available in the <a href="https://help.vtex.com/en/tutorial/visao-geral-apps--4xfsHXyAQTjbZNuiKl6Y0e">VTEX App Store</a> or customizations implemented by your development team. You must map this data and ensure the enforceability of the rights of personal data subjects in these instances, in addition to the processes described below.
-</div>
+>❗ VTEX is not responsible for personal data stored by systems integrated with your store, such as ERPs, third-party marketplaces, third-party sellers, third-party applications available in the [VTEX App Store](https://help.vtex.com/en/tutorial/visao-geral-apps--4xfsHXyAQTjbZNuiKl6Y0e) or customizations implemented by your development team. You must map this data and ensure the enforceability of the rights of personal data subjects in these instances, in addition to the processes described below.
 
 ## Access and portability
 

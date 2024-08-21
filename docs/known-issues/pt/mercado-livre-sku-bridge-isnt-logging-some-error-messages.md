@@ -18,9 +18,7 @@ internalReference: 1069692
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Contexto correto: Em alguns casos, o vendedor não consegue integrar a SKU, pois a mensagem de erro com o motivo pelo qual o item foi moderado não aparece corretamente no Bridge.

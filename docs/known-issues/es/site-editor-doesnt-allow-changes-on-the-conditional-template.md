@@ -18,9 +18,7 @@ internalReference: 861920
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando una plantilla se establece como la condicional no es capaz de realizar cambios en él a través del editor del sitio.

@@ -18,9 +18,7 @@ internalReference: 423628
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O Checkout não mapeia todos os fluxos em que o "GatewayCallback" deve acionar o evento "Raised OrderPlaced", de modo que os fluxos não mapeados podem não acionar esse evento como esperado, afetando diretamente o e-mail de confirmação do pedido a ser enviado.

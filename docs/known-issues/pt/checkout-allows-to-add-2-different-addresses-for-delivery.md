@@ -18,9 +18,7 @@ internalReference: 931225
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O checkout permite adicionar dois endereços diferentes para entrega no formulário de pedido, por exemplo, um "comercial" e um "residencial" (definido pelo campo "addressType"), quando um deles é descartável.

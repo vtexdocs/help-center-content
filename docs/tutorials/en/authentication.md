@@ -35,13 +35,9 @@ You need to configure which authentication method will be available in each cont
 | Google | The user logs in using their Google account. Check out the [Configuring login with Facebook and Google](https://help.vtex.com/en/tutorial/configurar-login-com-facebook-e-google--tutorials_513) guide for more information. | Can be enabled | Can be enabled |
 | Integration with other ID providers | The user logs in using their account from other external ID providers through an integration. Read the [Login (SSO)](https://developers.vtex.com/docs/guides/login-integration-guide) developer guide to learn more. | Can be enabled using the OAuth protocol.  Read the [Webstore (OAuth 2.0)](https://developers.vtex.com/docs/guides/login-integration-guide-webstore-oauth2) developer guide to learn more. | Can be enabled using the SAML protocol. Read the [Admin (SAML 2.0)](https://developers.vtex.com/docs/guides/login-integration-guide-admin-saml2) developer guide to learn more. |
 
-<div class="alert alert-info">
-  <p>At least one of the login methods in the table above must be enabled for the webstore.</p>
-</div>
+>ℹ️ At least one of the login methods in the table above must be enabled for the webstore.
 
-<div class="alert alert-warning">
-  <p>You must have a valid admin <a href="https://help.vtex.com/en/tutorial/managing-users--tutorials_512">user</a> to log in to the VTEX Admin. The <a href="https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">roles</a> and permissions assigned to the user specify which<a href="https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3"> resources</a> they can use in the Admin.</p>
-</div>
+>⚠️ You must have a valid admin [user](https://help.vtex.com/en/tutorial/managing-users--tutorials_512) to log in to the VTEX Admin. The [roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) and permissions assigned to the user specify which[ resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) they can use in the Admin.
 
 ### Enabling login methods
 

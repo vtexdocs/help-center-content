@@ -15,9 +15,7 @@ legacySlug: sugerencias-de-sinonimos-de-intelligent-search-beta
 subcategory: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
-<div class="alert alert-info">
-  <p>Esta funcionalidad está disponible para cuentas que tengan un número mínimo de sesiones y pedidos para que el modelo de Inteligencia Artificial sea entrenado. Si estás interesado en implementarla en el futuro, ponte en contacto con <a href="https://help.vtex.com/es/support">nuestro Soporte</a>. Pueden aplicarse cargos adicionales en el futuro.</p>
-</div>
+>ℹ️ Esta funcionalidad está disponible para cuentas que tengan un número mínimo de sesiones y pedidos para que el modelo de Inteligencia Artificial sea entrenado. Si estás interesado en implementarla en el futuro, ponte en contacto con [nuestro Soporte](https://help.vtex.com/es/support). Pueden aplicarse cargos adicionales en el futuro.
 
 La funcionalidad [Sinónimos](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) de [VTEX Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) te permite registrar palabras o expresiones con el mismo significado para los términos de búsqueda utilizados por los clientes al realizar búsquedas en tu tienda, lo que aumenta las posibilidades de que obtengan resultados de búsqueda relevantes.
 

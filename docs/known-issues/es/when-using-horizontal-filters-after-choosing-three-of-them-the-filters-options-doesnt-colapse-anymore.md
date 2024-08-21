@@ -18,9 +18,7 @@ internalReference: 859382
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando la tienda está utilizando los filtros en la opción horizontal cada vez que haga clic en un filtro de sus opciones se derrumbará. Pero, cuando se hace clic en un filtro por tercera vez el filtro no se derrumbará más. Se bloqueará.

@@ -22,15 +22,11 @@ VTEX uses two CDN providers in the stores: **Cloudfront** and **Azion**. Your st
 
 So, if you have the store domain registered on the **Cloudfront** or **Azion** platform, delete it before pointing the DNS to VTEX.
 
-<div class="alert alert-warning">
-If you are unable to delete your store's domain registration on the <strong>Cloudfront</strong> or <strong>Azion</strong> platforms, please contact <a href="https://help.vtex.com/en/support">VTEX support</a> to explain the situation. VTEX will help you ensure your store is running smoothly at go-live.
-</div>
+>⚠️ If you are unable to delete your store's domain registration on the **Cloudfront** or **Azion** platforms, please contact [VTEX support](https://help.vtex.com/en/support) to explain the situation. VTEX will help you ensure your store is running smoothly at go-live.
 
 ## Configuring CAA records
 
-<div class="alert alert-warning">
-You will only need to configure CAA records, as described in this section if there is a CAA record in your DNS server. Otherwise, proceed to the next section of this guide.
-</div>
+>⚠️ You will only need to configure CAA records, as described in this section if there is a CAA record in your DNS server. Otherwise, proceed to the next section of this guide.
 
 CAA records indicate which certificate authorities (CAs) are entitled to generate and renew certificates to confirm your domain identity. Proper configuration of these records is necessary to generate [SSL certificates](https://help.vtex.com/en/tutorial/certificado-de-seguranca-ssl-a-que-se-refere-e-como-contratar--tutorials_1308) and use the VTEX CDN.
 
@@ -44,9 +40,7 @@ This means that the **Let's Encrypt** certificate authority can issue certificat
 
 Although not recommended, another alternative would be not including CAA records in your DNS server, indicating that all certificate authorities are authorized to issue and renew certificates for your domain.
 
-<div class="alert alert-info">
-These types of entries may not be available in the interface of your DNS manager, but you can usually manage them by calling the support of the specific tool.
-</div>
+>ℹ️ These types of entries may not be available in the interface of your DNS manager, but you can usually manage them by calling the support of the specific tool.
 
 To easily create/verify your CAA records, you can use [CAA Record Helper by SSLMate](https://sslmate.com/caa/). The [DiG](https://www.hostinger.com/tutorials/how-to-use-the-dig-command-in-linux/) program can also help you verify your records with the `dig domain.com CAA` command – a `SERVFAIL` status can indicate non-compliance of your DNS server.
 

@@ -18,9 +18,7 @@ internalReference: 872411
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al crear un servicio el comerciante puede elegir si va a ser un campo obligatorio en el pago o no.

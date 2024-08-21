@@ -44,9 +44,7 @@ Below, check the headers that accept editing:
 
 It is possible to configure a custom header, which is a value that is not standardized and is specific to the store's particular requirements or functionalities.
 
-<div class="alert alert-warning">
-Each account is limited to adding a single custom header.
-</div>
+>⚠️ Each account is limited to adding a single custom header.
 
 If you need to configure a custom header, open a ticket to the VTEX Support, providing the keys and values to be set, as you are entirely responsible for this information. To guide you, refer to the MDN’s documentation about [Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers). 
 

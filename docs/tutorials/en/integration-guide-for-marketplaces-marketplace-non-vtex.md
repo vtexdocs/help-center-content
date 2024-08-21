@@ -15,9 +15,7 @@ legacySlug: integration-guide-for-marketplaces-marketplace-non-vtex
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---
 
-<div class="alert alert-warning">
-Check out the updated version of this <a href="https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide">marketplace integration guide</a> in our Developer Portal. 
-</div> 
+>⚠️ Check out the updated version of this [marketplace integration guide](https://developers.vtex.com/vtex-developer-docs/docs/external-marketplace-integration-guide) in our Developer Portal. 
 
 This document assists in integrating a non-VTEX-hosted Marketplace with a VTEX-hosted Seller.
 

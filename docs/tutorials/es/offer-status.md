@@ -108,9 +108,7 @@ Serás redirigido a la página correspondiente para realizar los cambios necesar
 
 Para exportar la lista de anuncios publicados en formato XLSX, haz clic sobre el ícono flecha hacia abajo, ubicado en la parte superior de la interfaz. El archivo se enviará al email del usuario registrado. El tiempo que tarde la exportación dependerá de la cantidad de anuncios de la lista exportada y de cuestiones de procesamiento de la plataforma VTEX.
 
-<div class="alert alert-info">
-El contenido exportado incluirá el total de anuncios de la lista al momento de la exportación. Si hay algún filtro activo, solo se exportarán los anuncios seleccionados.
-  </div>
+>ℹ️ El contenido exportado incluirá el total de anuncios de la lista al momento de la exportación. Si hay algún filtro activo, solo se exportarán los anuncios seleccionados.
 
 ## Pestaña Problemas
 
@@ -185,9 +183,7 @@ Serás redirigido a la página correspondiente para realizar los cambios necesar
 
 Para exportar la lista de anuncios con problemas en formato XLSX, haz clic sobre el ícono flecha hacia abajo, ubicado en la parte superior de la interfaz. El archivo se enviará al email del usuario registrado. El tiempo que tarde la exportación dependerá de la cantidad de anuncios de la lista exportada y de cuestiones de procesamiento de la plataforma VTEX.
 
-<div class="alert alert-info">
-El contenido exportado incluirá el total de anuncios de la lista al momento de la exportación. Si hay algún filtro activo, solo se exportarán los anuncios seleccionados.
-  </div>
+>ℹ️ El contenido exportado incluirá el total de anuncios de la lista al momento de la exportación. Si hay algún filtro activo, solo se exportarán los anuncios seleccionados.
 
 ## Pestaña A la espera de finalización
 
@@ -242,6 +238,4 @@ Serás redirigido a la página correspondiente para realizar los cambios necesar
 
 Para exportar la lista de anuncios en espera de finalización en formato XLSX, haz clic sobre el ícono flecha hacia abajo, ubicado en la parte superior de la interfaz. El archivo se enviará al email del usuario registrado. El tiempo que tarde la exportación dependerá de la cantidad de anuncios de la lista exportada y de cuestiones de procesamiento de la plataforma VTEX.
 
-<div class="alert alert-info">
-El contenido exportado incluirá el total de anuncios de la lista al momento de la exportación. Si hay algún filtro activo, solo se exportarán los anuncios seleccionados.
-  </div>
+>ℹ️ El contenido exportado incluirá el total de anuncios de la lista al momento de la exportación. Si hay algún filtro activo, solo se exportarán los anuncios seleccionados.

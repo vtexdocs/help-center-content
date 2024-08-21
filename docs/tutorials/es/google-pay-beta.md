@@ -23,9 +23,7 @@ Google Pay™ es un servicio de pagos digitales que permite a los usuarios no co
 
 Los términos de la API de Google Pay se aplican siempre que el administrador de la tienda ofrezca Google Pay como medio de pago. Para leer los términos, accede a [Google Pay API Terms of Service](https://payments.developers.google.com/terms/sellertos).
 
-<div class="alert alert-warning">
-<p>Google Pay no está disponible para Checkout V5 o versiones anteriores de Checkout.h</p>
-</div>
+>⚠️ Google Pay no está disponible para Checkout V5 o versiones anteriores de Checkout.h
 
 ## Activar Google Pay
 

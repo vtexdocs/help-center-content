@@ -41,9 +41,7 @@ Veja abaixo como você pode fazer parte da **VTEX Ad Network**, seja como loja o
 
 Para disponibilizar espaço publicitário na sua loja, basta instalar o app [VTEX Ad Network para lojas]() na sua conta VTEX. Saiba mais com o artigo [Exibindo anúncios do VTEX Ad Network na sua loja (Beta)](https://help.vtex.com/pt/tutorial/exibindo-anuncios-do-vtex-ad-network-na-sua-loja-beta--6gWgZrMLcS5FDFFdl5LETA).
 
-<div class="alert alert-danger">
-Por hora, podem disponibilizar espaço de anúncios apenas lojas desenvolvidas com <a href="https://help.vtex.com/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework">Store Framework</a>.
-</div>
+>❗ Por hora, podem disponibilizar espaço de anúncios apenas lojas desenvolvidas com [Store Framework](https://help.vtex.com/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework).
 
 ### Anunciantes
 

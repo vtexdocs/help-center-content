@@ -28,9 +28,7 @@ The [Payments](https://help.vtex.com/en/tracks/payments--6GAS7ZzGAm7AGoEAwDbwJG/
 
 To process and receive payments for purchases in a VTEX store, you need to have a service agreement with one or more payment providers. These agreements are established directly between the merchant and the provider, without mediation or participation from VTEX. To view available providers on VTEX in each country, check the [List of Payment Providers by Country](https://help.vtex.com/en/tutorial/list-of-payment-providers-by-country--2im3BEGXxSAcRuxEaIHPvp).
 
-<div class="alert alert-warning">
-We recommend integrating multiple payment providers in your store to enhance customer experience by offering a variety of payment methods and conditions. This approach also allows operating with diverse rates and costs, thereby improving business performance.
-</div>
+>⚠️ We recommend integrating multiple payment providers in your store to enhance customer experience by offering a variety of payment methods and conditions. This approach also allows operating with diverse rates and costs, thereby improving business performance.
 
 The payment settings described in this track can be configured at any time during the onboarding process. However, for the store to be able to process any type of payment transaction, the [Catalog](https://help.vtex.com/en/tracks/track-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#catalog), [Pricing](https://help.vtex.com/en/tracks/track-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#prices), and [Logistics](https://help.vtex.com/en/tracks/track-overview--eSDNk26pdvemF3XKM0nK9/75MX4aorniD0BYAB8Nwbo7#logistic) modules must have been configured beforehand.
 
@@ -189,9 +187,7 @@ To find a purchase record in the VTEX Admin, you can either [filter orders](http
 - Customer email
 - Customer ID
 
-<div class="alert alert-warning">
-You can only access details about orders created in the last two years. This same period applies to customers accessing their orders via the <a href="">My Account</a> page.
-</div>
+>⚠️ You can only access details about orders created in the last two years. This same period applies to customers accessing their orders via the [My Account]() page.
 
 To enable customers to track their orders, VTEX offers two important features: [transactional emails](#transactional-emails) and a dedicated customer area called [My Account](#my-account-feature).
 
@@ -270,9 +266,7 @@ Learn more in [Setting up Cart Abandonment](https://help.vtex.com/en/tutorial/co
 
 On the VTEX platform, stores can manually adjust the price of an item (SKU) in the cart at checkout. This feature can be used to apply special discounts, correct pricing errors, create custom offers, address price-related complaints, or adjust shipping costs.
 
-<div class="alert alert-warning">
-Only users with the necessary <a href="https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">roles</a> and permissions within the VTEX Admin can make these changes.
-</div>
+>⚠️ Only users with the necessary [roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) and permissions within the VTEX Admin can make these changes.
 
 Learn more in [Change the price of an item in the shopping cart](https://help.vtex.com/en/tutorial/modificar-o-preco-de-um-item-no-carrinho-de-compras--7Cd37aCAmtL1qmoZJJvjNf).
 

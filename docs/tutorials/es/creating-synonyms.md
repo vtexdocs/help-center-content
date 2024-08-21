@@ -42,9 +42,7 @@ Siga el proceso paso a paso para configurar sinónimos individualmente en VTEX A
 
 La alteración puede tardar hasta dos horas en aplicarse.
 
-<div class="alert alert-info">
-<p>Esta funcionalidad está disponible en VTEX Intelligent Search Multidioma. Lea nuestro artículo <a href="https://help.vtex.com/es/tutorial/vtex-intelligent-search-configuracion-multidioma-beta--2WahlTESLXIJ9XBdQMdTYO#sinonimos">VTEX Intelligent Search: configuración Multidioma (Beta)</a> para saber más.</p>
-</div>
+>ℹ️ Esta funcionalidad está disponible en VTEX Intelligent Search Multidioma. Lea nuestro artículo [VTEX Intelligent Search: configuración Multidioma (Beta)](https://help.vtex.com/es/tutorial/vtex-intelligent-search-configuracion-multidioma-beta--2WahlTESLXIJ9XBdQMdTYO#sinonimos) para saber más.
 
 ## Importar CSV
 
@@ -91,6 +89,4 @@ Tiendas que utilizan configuración multidioma (beta) deben seguir la siguiente 
    __Ejemplo:__
    - `tv,smart tv;true;en-GB`: al buscar cualquiera de estos términos en la tienda en el idioma inglés (`locale en-GB`), se mostrará cualquier producto que contenga uno de esos términos en los resultados de búsqueda.
 
-<div class="alert alert-warning">
-  <p> Si el archivo .csv importado no contiene el <code>locale</code>, el sinónimo será válido para todos los idiomas disponibles en la tienda. </p>
-</div>
+>⚠️ Si el archivo .csv importado no contiene el `locale`, el sinónimo será válido para todos los idiomas disponibles en la tienda.

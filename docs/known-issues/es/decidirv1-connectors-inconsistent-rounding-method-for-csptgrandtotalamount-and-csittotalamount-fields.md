@@ -18,9 +18,7 @@ internalReference: 787367
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El conector heredado DecidirV1 utiliza un método interno para calcular los campos `CSPTGRANDTOTALAMOUNT` y `CSITTOTALAMOUNT`, que es el producto entre el valor del producto y la cantidad. Este método da como resultado una cadena con dos decimales. En consecuencia, cuando el precio del producto contiene más de dos decimales, el valor del campo `CSPTGRANDTOTALAMOUNT` diverge, ya que es el propio valor del pago.

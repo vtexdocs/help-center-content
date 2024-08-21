@@ -65,9 +65,7 @@ Para buscar en todos los pedidos, ingresa el término deseado en la casilla de b
 
 ![search_bar_without_time_limit_ES](https://images.ctfassets.net/alneenqid6w5/2ii9VFh5uRpG4Ad0nwIIN0/3e96ddad7e6e25df9bfc57510655390b/search_bar_without_time_limit_ES.png)
 
-<div class="alert alert-danger">
-La búsqueda en todos los pedidos no se puede asociar a otros filtros. Es decir, al remover el límite de fechas de búsqueda, cualquier filtro activo pasa a estar inactivo. Si se remueve el término de búsqueda o se desactiva el botón de alternancia <i class="fas fa-toggle-off"></i>, los filtros configurados anteriormente se vuelven a activar.
-</div>
+>❗ La búsqueda en todos los pedidos no se puede asociar a otros filtros. Es decir, al remover el límite de fechas de búsqueda, cualquier filtro activo pasa a estar inactivo. Si se remueve el término de búsqueda o se desactiva el botón de alternancia <i class="fas fa-toggle-off"></i>, los filtros configurados anteriormente se vuelven a activar.
 
 ### Buscar asociando filtros
 

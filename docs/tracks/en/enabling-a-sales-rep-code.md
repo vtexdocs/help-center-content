@@ -20,21 +20,15 @@ One possible customization offered by inStore is to change the [Observation](htt
 
 Once this customization is enabled, the `Vendor` field will be displayed at the top of the page, and a new step will be added to the purchase flow. The sales rep must identify the order with their code before proceeding to Shipping.
 
-<div class="alert alert-danger">
-<strong>Warning</strong>: In this case, you cannot complete a sale without entering the sales rep code in the <code>Vendor</code> field.
-</div>
+>❗ **Warning**: In this case, you cannot complete a sale without entering the sales rep code in the `Vendor` field.
 
 ## Editing the JavaScript file
 
 To enable the sales rep code, you must edit the JavaScript code `checkout-instore-custom.js` saved on the VTEX Admin dashboard.
 
-<div class="alert alert-warning">
-It is <strong>expressly recommended</strong> that the person responsible for editing the code has <strong>experience with programming</strong>.
-</div>  
+>⚠️ It is **expressly recommended** that the person responsible for editing the code has **experience with programming**.  
 
-<div class="alert alert-info">
-The sales rep code can <strong>only</strong> be enabled via JavaScript.
-</div>
+>ℹ️ The sales rep code can **only** be enabled via JavaScript.
 
 First, customize the file as described in the article [Enabling the remarks field in the order screen](https://help.vtex.com/en/tracks/instore-customizacoes--1z9kBm12oBPyVNDo1ivVc2/8Aj21R8bll0tdrxHWjVOs).
 
@@ -56,9 +50,7 @@ window.INSTORE_CONFIG = {
 }
 ```
 
-<div class="alert alert-danger">
-Do not delete any other property of the <code>window.INSTORE_CONFIG</code> object. Otherwise, this action will possibly affect other features of your store. Also, please note that the code above is only one example of several configuration possibilities.
-</div>
+>❗ Do not delete any other property of the `window.INSTORE_CONFIG` object. Otherwise, this action will possibly affect other features of your store. Also, please note that the code above is only one example of several configuration possibilities.
 
 The properties of the `window.INSTORE_CONFIG` object must be filled in according to how the customization is expected to work for the store.
 

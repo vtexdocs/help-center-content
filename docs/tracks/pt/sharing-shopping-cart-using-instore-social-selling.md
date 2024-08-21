@@ -41,9 +41,7 @@ Veja o passo a passo ilustrado a seguir.
 
 O vendedor pode enviar o mesmo link para vários clientes, quantas vezes desejar. Cada vez que uma pessoa acessar esse link, um novo carrinho será gerado, exatamente igual ao criado no inStore. Cada carrinho acessado também fica associado à conta do vendedor e, se houver, ao código do vendedor.
 
-<div class="alert alert-info">
-<p>Se o código do vendedor estiver habilitado, será obrigatório preenchê-lo antes de compartilhar o carrinho. Para mais informações sobre o código do vendedor, acesse o guia <a href="https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/Rby973h1l9tEM4C1YrzwZ">Customizar o inStore</a> e o guia para desenvolvedores <a href="https://developers.vtex.com/vtex-rest-api/docs/sales-rep-code">Enable the Sales Rep Code</a>.</p>
-</div>
+>ℹ️ Se o código do vendedor estiver habilitado, será obrigatório preenchê-lo antes de compartilhar o carrinho. Para mais informações sobre o código do vendedor, acesse o guia [Customizar o inStore](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/Rby973h1l9tEM4C1YrzwZ) e o guia para desenvolvedores [Enable the Sales Rep Code](https://developers.vtex.com/vtex-rest-api/docs/sales-rep-code).
 
 ## Link para pagamento
 

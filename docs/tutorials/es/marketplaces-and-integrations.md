@@ -24,10 +24,8 @@ Entre los marketplaces disponibles, existen marketplaces VTEX y marketplaces ext
 | **VTEX** | Estos son los perfiles de los clientes VTEX que optaron por abrir su entorno para que otros sellers pongan sus productos a la venta. |
 | **Externo** | Se trata de marketplaces que no son clientes de VTEX pero desarrollaron la integración, siendo esta certificada o partner. |  
 
-<div class="alert alert-info">
-  Importante: <b>Marketplaces e integraciones</b> es una herramienta que promueve el contacto entre posibles partners, pero no es obligatorio hacer uso de ella para convertirse en un marketplace VTEX.  
-Si quieres actuar como marketplace VTEX, lee el artículo <a href="https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex">Estrategias de marketplace en VTEX</a>.
-</div>  
+>ℹ️ Importante: **Marketplaces e integraciones** es una herramienta que promueve el contacto entre posibles partners, pero no es obligatorio hacer uso de ella para convertirse en un marketplace VTEX.  
+> Si quieres actuar como marketplace VTEX, lee el artículo [Estrategias de marketplace en VTEX](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex).  
 
 ## Encontrar marketplaces
 
@@ -82,9 +80,7 @@ En la pantalla aparecerá un mensaje de éxito.
 
 Si el seller necesita establecer un nuevo contacto con el mismo marketplace, repite los pasos anteriores.  
 
-<div class="alert alert-info">
-El potencial partner comercial recibirá un email con la información en el campo Mensaje. Si el interés es mutuo, la persona responsable del seller o del marketplace puede ponerse en contacto contigo y negociar las condiciones del acuerdo entre marketplace y seller.
-</div>
+>ℹ️ El potencial partner comercial recibirá un email con la información en el campo Mensaje. Si el interés es mutuo, la persona responsable del seller o del marketplace puede ponerse en contacto contigo y negociar las condiciones del acuerdo entre marketplace y seller.
 
 ## Editar
 

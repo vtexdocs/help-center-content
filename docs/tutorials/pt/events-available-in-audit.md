@@ -39,9 +39,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](https://
   <p>Caso você visualize no Audit algum evento que não esteja listado aqui, por favor nos informe usando a <a href="https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform">página de feedback de documentação</a>.</p>
   </div>
 
-<div class="alert alert-warning">
-  <p>Nas opções de filtros do Audit, você pode encontrar <strong>Opções de envio</strong>, <strong>Profile System</strong> e <strong>Billing</strong> além das aplicações citadas abaixo. Essas opções se referem a recursos internos ou funcionalidades em fase beta fechada, portanto, a maior parte das contas não terão eventos associados.</p>
-</div>
+>⚠️ Nas opções de filtros do Audit, você pode encontrar **Opções de envio**, **Profile System** e **Billing** além das aplicações citadas abaixo. Essas opções se referem a recursos internos ou funcionalidades em fase beta fechada, portanto, a maior parte das contas não terão eventos associados.
 
 ## OMS
 

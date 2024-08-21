@@ -50,9 +50,7 @@ A aprovação dos seus produtos pelo Google vai torná-los ativos, e isso imedia
 
 **Se um produto é reprovado, é necessário revisar seus dados e enviá-los novamente**. Você pode acompanhar o status dos seus produtos no Google Merchant Center.
 
-<div class="alert alert-info">
-Verifique se os seus produtos atendem a <a href="https://support.google.com/merchants/answer/7052112?visit_id=637492777706451215-3729304881&rd=1&hl=pt-BR">Especificação dos dados do produto</a> definida pelo Google. Caso algum produto esteja em desacordo com as exigências, o anúncio será reprovado.
-</div>
+>ℹ️ Verifique se os seus produtos atendem a [Especificação dos dados do produto](https://support.google.com/merchants/answer/7052112?visit_id=637492777706451215-3729304881&rd=1&hl=pt-BR) definida pelo Google. Caso algum produto esteja em desacordo com as exigências, o anúncio será reprovado.
 
 Há situações nas quais a reprovação do produto acontece posteriormente a ele já ter sido considerado ativo. Isso é visto por vezes quando uma conta foi criada recentemente.
 
@@ -66,9 +64,7 @@ No Google Shopping, os produtos automaticamente expiram caso não sejam atualiza
 
 Entretanto, não é algo com o qual você precise se preocupar, pois na integração com o conector da Plataforma VTEX, **os produtos são automaticamente atualizados pelo sistema a cada 29 dias.**
 
-<div class="alert alert-info">
-É possível haver um delay de até 30 minutos entre o processamento da alteração de dados de um produto e sua atualização no feed.
-</div>
+>ℹ️ É possível haver um delay de até 30 minutos entre o processamento da alteração de dados de um produto e sua atualização no feed.
 
 ## Modificar categorização automática
 
@@ -80,6 +76,4 @@ Antes de considerar um problema na categorização, porém, tenha a certeza de q
 
 Para substituir uma categoria incorreta e garantir que o produto seja aprovado, veja o passo-a-passo no artigo do Google [categoria Google do produto](https://support.google.com/merchants/answer/6324436?hl=pt-BR). 
 
-<div class="alert alert-warning">
-O Google aceitará uma modificação de categoria apenas nas situações previstas no artigo <a href="https://support.google.com/merchants/answer/6324436?hl=pt-BR">categoria Google do produto.</a>
-</div>
+>⚠️ O Google aceitará uma modificação de categoria apenas nas situações previstas no artigo [categoria Google do produto.](https://support.google.com/merchants/answer/6324436?hl=pt-BR)

@@ -18,9 +18,7 @@ internalReference: 1030652
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 As condições de pagamento configuradas para processar transações em um número de parcelas diferente de 1x estão sendo capazes de processar pagamentos em 1x. O problema ocorre apenas para pagamentos em que o usuário optou por pagar como pré-pago integralmente.

@@ -18,9 +18,7 @@ internalReference: 415388
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Algunas direcciones devueltas desde el campo de búsqueda de Google no se están guardando cuando se añaden a través del flujo Mi cuenta, y la interfaz de usuario no devuelve ninguna respuesta al usuario.

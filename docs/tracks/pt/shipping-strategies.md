@@ -78,9 +78,7 @@ Para [estratégias de envio](https://help.vtex.com/pt/tutorial/estrategia-de-env
 6. [Cadastro de geolocalização](https://help.vtex.com/pt/tutorial/registering-geolocation--tutorials_138)
 7. Configuração dos pontos de retirada disponíveis no checkout
 
-<div class="alert alert-warning">
-Confira os passos detalhados no artigo <a href="https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R#como-configurar">Como configurar um ponto de retirada.</a>
-</div>
+>⚠️ Confira os passos detalhados no artigo [Como configurar um ponto de retirada.](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R#como-configurar)
 
 ## Tempo de envio e feriados
 
@@ -102,9 +100,7 @@ Para cadastrar feriados na plataforma, você pode:
 * Utilizar a seção [Feriados](https://help.vtex.com/pt/tutorial/cadastrar-feriados--2ItOthSEAoyAmcwsuiO6Yk) no Admin VTEX.
 * Utilizar a [API de Feriados](https://developers.vtex.com/vtex-rest-api/reference/holidays).
 
-<div class="alert alert-warning">
-É recomendado que o cadastro de feriados seja feito depois de configurar as <a href="https://help.vtex.com/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3">Estratégias de envio</a>.
-</div>
+>⚠️ É recomendado que o cadastro de feriados seja feito depois de configurar as [Estratégias de envio](https://help.vtex.com/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3).
 
 É possível cadastrar horários de entrega para envios agendados de transportadoras e pontos de retirada. A funcionalidade **[Entrega agendada](https://help.vtex.com/pt/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi)** permite que a loja ofereça janelas de entrega para seus clientes.
 

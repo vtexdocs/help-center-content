@@ -33,9 +33,7 @@ Abaixo você encontrar informações sobre como você efetua a configuração do
 11. Preencha o campo  app-Key com o valor configurado no ambiente VTEX.
 12. Preencha o campo appToken com o valor gerado no ambiente VTEX.
 13. Por fim, clique no botão `SALVAR`. Aguarde o adaptador fazer a validação das configurações junto ao ambiente da VTEX. 
-<div class="alert alert-info">
-<p>Em caso de falha, você deve revisar as configurações inseridas em cada um dos campos. é importante garantir que não existem espaços (Antes e depois) dos valores contidos nas caixas.</p>
-</div>
+>ℹ️ Em caso de falha, você deve revisar as configurações inseridas em cada um dos campos. é importante garantir que não existem espaços (Antes e depois) dos valores contidos nas caixas.
 14. Após a confirmação de sucesso na autenticação, você já pode fechar a tela.
 
 ## Procedimento para configurar campos de controle da integração com ERP
@@ -44,9 +42,7 @@ Você deve criar os campos da tabela abaixo dentro do MasterData.
 
 ![imagem-adaptador-5](https://images.contentful.com/alneenqid6w5/5X8ejWR6ag2C9yv16v8Rjy/ef95d8b91860e8a3b1c170e067f15030/image.png)
 
-<div class="alert alert-warning">
-<p>Você deve criar estes campos antes de executar as operações de migração de dados da Ciashop para VTEX.</p>
-</div>
+>⚠️ Você deve criar estes campos antes de executar as operações de migração de dados da Ciashop para VTEX.
 
 Você deve criar os campos acima individualmente, para isso siga os passos a seguir:
 
@@ -74,9 +70,7 @@ Para colocar o campo criado dentro do fórmulário de clientes, você deve segui
 7. Arraste o campo da lista **Campos disponíveis** para coluna **Campos da coluna 2**.
 8. No canto inferior direito da tela, clique no botão `Salvar`.
 
-<div class="alert alert-warning">
-<p>Caso estes passos não sejam executados, não será possível enviar os clientes criados na VTEX para o ERP.</p>
-</div>
+>⚠️ Caso estes passos não sejam executados, não será possível enviar os clientes criados na VTEX para o ERP.
 
 ## Configurar campos customizados
 

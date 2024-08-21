@@ -18,13 +18,9 @@ To allow transactions through card machines using inStore, you need an acquirer 
 
 __Cielo LIO__ is an inStore certified acquirer in Brazil.
 
-<div class="alert alert-warning">
-If you want to use Cielo LIO in a different country or if you want to use another acquirer which is not currently certified, you will need to build the integration with that acquirer’s application. To do so, refer to the article <a href="https://help.vtex.com/en/tracks/instore-integration--6NTqymtXmL9cNy8w1ouAod">Integrating inStore to a new payment acquirer</a>.
-</div>
+>⚠️ If you want to use Cielo LIO in a different country or if you want to use another acquirer which is not currently certified, you will need to build the integration with that acquirer’s application. To do so, refer to the article [Integrating inStore to a new payment acquirer](https://help.vtex.com/en/tracks/instore-integration--6NTqymtXmL9cNy8w1ouAod).
 
-<div class="alert alert-info">
-Cielo LIO is currently supported only by Android systems. You may use CieloLio V2 or CieloLio+.
-</div>
+>ℹ️ Cielo LIO is currently supported only by Android systems. You may use CieloLio V2 or CieloLio+.
 
 Before installing Cielo LIO’s application, make sure you have completed the previous step of setting up the Payments module.
 

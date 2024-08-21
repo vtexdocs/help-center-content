@@ -58,7 +58,5 @@ Puede ocurrir un error debido a la falta de información del producto cuando no 
 3. En la pestaña `Editar XML`, en la opción **Mostrar SKU no disponibles,** selecciona la casilla `Mostrar SKU sin stock (agotados) en los resultados`.
 4. Haz clic en `Guardar`.
 
-<div class="alert alert-warning">
-Pueden ocurrir errores al intentar facturar un pedido si hay información XML incorrecta o faltante.
-</div>
+>⚠️ Pueden ocurrir errores al intentar facturar un pedido si hay información XML incorrecta o faltante.
 

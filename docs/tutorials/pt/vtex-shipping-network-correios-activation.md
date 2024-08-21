@@ -15,9 +15,7 @@ legacySlug: vtex-shipping-network-correios-ativacao
 subcategory: 5n5MnINzWTQUX1I2EZl4Ib
 ---
 
-<div class="alert alert-info">
-Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site <a href="https://vtex.com/br-pt/shipping-network-correios/">VTEX Shipping Network Correios</a>. Em caso de dúvidas, entre em contato pelo email <i>vtexlog@vtex.com.br</i>.
-</div>
+>ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Caso tenha interesse em adotar essa funcionalidade no seu negócio, acesse o site [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/). Em caso de dúvidas, entre em contato pelo email <i>vtexlog@vtex.com.br</i>.
 
 [VTEX Shipping Network Correios](https://vtex.com/br-pt/shipping-network-correios/) é a solução para você integrar sua operação com os serviços PAC e SEDEX dos Correios pelo Admin VTEX e obter de recursos exclusivos. Para lojas VTEX, as tabelas dos Correios ofertadas têm preços especiais, de forma a reduzir os custos logísticos do seu negócio. 
 
@@ -44,9 +42,7 @@ Para realizar a ativação, siga o passo a passo abaixo:
 
   b. Em **Sua tabela dos Correios**, selecione uma das seguintes opções: <p><ul><li>Não possuo contrato com os Correios</li><li>Bronze</li><li>Prata</li><li>Ouro</li><li>Platinum</li></ul></p>
 
-  <div class="alert alert-warning">
-Caso você já possua um contrato com os Correios, antes de ativar o <b>VTEX Shipping Network Correios</b> você deve desativá-lo nas suas <a href="https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140">políticas de envio</a> ou removê-lo das <a href="https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj">docas</a>. Se isso não for feito, a plataforma VTEX pode gerar erros de duplicidade e outros problemas, inclusive erros na emissão de etiquetas no <a href="https://help.vtex.com/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs">Pronto para envio</a>.
-</div>
+  >⚠️ Caso você já possua um contrato com os Correios, antes de ativar o **VTEX Shipping Network Correios** você deve desativá-lo nas suas [políticas de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) ou removê-lo das [docas](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj). Se isso não for feito, a plataforma VTEX pode gerar erros de duplicidade e outros problemas, inclusive erros na emissão de etiquetas no [Pronto para envio](https://help.vtex.com/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs).
 
   c. Clique em **Conhecer Oferta**.
 
@@ -73,6 +69,4 @@ Caso você já possua um contrato com os Correios, antes de ativar o <b>VTEX Shi
 
 Feito isso, a ativação do **VTEX Shipping Network Correios** terá sido concluída.
 
-<div class="alert alert-danger">
-Para as novas políticas de envio serem válidas, além de estarem ativadas, é necessário que todas as <a href="https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj">docas</a> da sua operação tenham o endereço cadastrado. Caso contrário, a plataforma vai apresentar erros. Portanto, certifique-se de configurar o endereço de todas as docas, mesmo aquelas não associadas aos Correios.
-</div>
+>❗ Para as novas políticas de envio serem válidas, além de estarem ativadas, é necessário que todas as [docas](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) da sua operação tenham o endereço cadastrado. Caso contrário, a plataforma vai apresentar erros. Portanto, certifique-se de configurar o endereço de todas as docas, mesmo aquelas não associadas aos Correios.

@@ -23,9 +23,7 @@ With [VTEX Ad Network (Beta)](https://help.vtex.com/en/tutorial/vtex-ad-network-
 
 To become a part of the VTEX Ad Network and start displaying ads in your store, install the VTEX Ad Network for stores app.
 
-<div class="alert alert-warning">
-Currently, VTEX stores can only offer ad space on stores using <a href="https://help.vtex.com/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework">Store Framework</a>.
-</div>
+>⚠️ Currently, VTEX stores can only offer ad space on stores using [Store Framework](https://help.vtex.com/tracks/vtex-store-overview--eSDNk26pdvemF3XKM0nK9/67SCtUreXxKYWhZh8n0zvZ#store-framework).
 
 ## Monitoring results
 

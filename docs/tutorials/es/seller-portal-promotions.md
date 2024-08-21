@@ -91,6 +91,4 @@ Para acceder a la página **Promociones archivadas**, haz clic en el ícono <i c
 
 Puedes desarchivar o duplicar promociones archivadas haciendo clic en el ícono <i class="fas fa-ellipsis-v"></i>. 
 
- <div class="alert alert-info">
-  <p>Al desarchivar una promoción, su status cambiará a <code>Pausada</code>.</p>
-  </div>
+ >ℹ️ Al desarchivar una promoción, su status cambiará a `Pausada`.

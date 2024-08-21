@@ -30,10 +30,9 @@ Este artigo explica os principais meios de investigar no Admin VTEX o que deve s
 - [Logística](#logistica)
 - [CMS](#cms)
 
-<div class="alert alert-info">
-<p>Após ajustar qualquer informação de produtos e SKUs ou alterar configurações de Logística, aguarde a indexação do produto. Você pode verificar o status da indexação a partir da <a href="https://help.vtex.com/pt/tutorial/entendendo-o-funcionamento-da-indexacao">fila de indexação</a> em <strong>Catálogo > Relatórios > Indexação de produtos</strong>.</p>
-<p>Quando a indexação for concluída, tente acessar a página do produto por uma aba anônima no seu navegador, para visualizar a página na sua versão mais atualizada, evitando problemas com cache.</p>
-</div>
+>ℹ️ Após ajustar qualquer informação de produtos e SKUs ou alterar configurações de Logística, aguarde a indexação do produto. Você pode verificar o status da indexação a partir da [fila de indexação](https://help.vtex.com/pt/tutorial/entendendo-o-funcionamento-da-indexacao) em **Catálogo > Relatórios > Indexação de produtos**.
+>
+> Quando a indexação for concluída, tente acessar a página do produto por uma aba anônima no seu navegador, para visualizar a página na sua versão mais atualizada, evitando problemas com cache.
 
 ## Catálogo
 
@@ -59,10 +58,9 @@ Para verificar as configurações do produto, é importante seguir os passos aba
    * **Marca:** confira o nome da marca associada ao produto e observe se ela está ativa.
    * **Categoria:** confira o nome da categoria associada ao produto e observe se ela está ativa.
 
-   <div class="alert alert-warning">
-      <p>Ao criar um novo produto, é preciso associá-lo a uma marca e uma categoria que estejam ativas para que ele seja ativado pela primeira vez. Porém, uma vez que um produto já existe e já está ativo, desativar a categoria e a marca não vai desativá-lo por completo.</p>
-<p>O produto com categoria e marca inativas se torna invisível na loja, ou seja, não aparece na busca e não tem página própria. Para torná-lo indisponível para compra, também é necessário zerar a sua quantidade em estoque.</p>
-   </div>
+   >⚠️ Ao criar um novo produto, é preciso associá-lo a uma marca e uma categoria que estejam ativas para que ele seja ativado pela primeira vez. Porém, uma vez que um produto já existe e já está ativo, desativar a categoria e a marca não vai desativá-lo por completo.
+>
+> O produto com categoria e marca inativas se torna invisível na loja, ou seja, não aparece na busca e não tem página própria. Para torná-lo indisponível para compra, também é necessário zerar a sua quantidade em estoque.
    * **Políticas Comerciais:** veja se o produto está associado a uma [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV). Caso não esteja, use a caixa de seleção para marcar a política comercial em que deseja incluí-lo.
    * **Data de lançamento no mercado:** confira se a data de lançamento no mercado está correta. Se for uma data futura, o produto só será exibido no site na data indicada.
    * **Exibir no site:** verifique se a opção **Sim** está marcada. Caso contrário, o produto não será exibido.
@@ -131,10 +129,9 @@ Um SKU ativo e sem erros terá o registro no indexador similar ao ilustrado a se
 
 ![11-indexed-info-code-active](https://images.ctfassets.net/alneenqid6w5/3Sd3Ta5gzKo0LY9dMHmCqp/a5c498ba9733244ba7d9c85cd02d801c/11-indexed-info-code-active.png)
 
-<div class="alert alert-info">
-<p>Se as informações de indexação não apontarem nenhum motivo para a indisponibilidade dos produtos e se você não tiver encontrado nenhum erro no cadastro dos produtos e dos SKUs, é possível que reindexar o produto resolva o problema.</p>
-<p>Para isso, altere algum campo dentro do cadastro do produto ou de um dos seus SKUs e salve suas alterações. Isso forçará a reindexação.</p>
-</div>
+>ℹ️ Se as informações de indexação não apontarem nenhum motivo para a indisponibilidade dos produtos e se você não tiver encontrado nenhum erro no cadastro dos produtos e dos SKUs, é possível que reindexar o produto resolva o problema.
+>
+> Para isso, altere algum campo dentro do cadastro do produto ou de um dos seus SKUs e salve suas alterações. Isso forçará a reindexação.
 
 ## Preços
 
@@ -177,9 +174,7 @@ O **Simulador de envio** serve para verificar se o item existe em estoque e se s
 
 ![13-simular-frete-pt](https://images.ctfassets.net/alneenqid6w5/rJE0n5ZijrAerIWzzf2Gy/4acf4052c5e41e259ef8374afae39472/13-simular-frete-pt.png)
 
-<div class="alert alert-info">
-<p>Para investigar um item específico, você deve realizar essa simulação com um <strong>Código postal</strong> atendido por todas as <a href="https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140">Políticas de envio</a> cadastradas, pois saberá que, se o item não estiver disponível para esse CEP, não estará disponível para nenhum outro.</p>
-</div>
+>ℹ️ Para investigar um item específico, você deve realizar essa simulação com um **Código postal** atendido por todas as [Políticas de envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140) cadastradas, pois saberá que, se o item não estiver disponível para esse CEP, não estará disponível para nenhum outro.
 
 O resultado obtido indica se o produto está disponível ou não para entrega no endereço informado e quais são as melhores opções de frete. Exemplo: caso não existam itens suficientes disponíveis em estoque, o simulador apresenta a seguinte mensagem:
 
@@ -212,9 +207,7 @@ Para mais informações, leia o tutorial [Gerenciar inventário](https://help.vt
 
 Se o seu produto não aparecer no site mesmo após verificar todas as configurações de **Catálogo**, **Preços **e **Logística**, é importante conferir o [CMS](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC) da sua loja. A seguir, veja como investigar se o [binding](https://help.vtex.com/pt/tutorial/o-que-e-binding--4NcN3NJd0IeYccgWCI8O2W) da sua loja está correto e verifique as configurações específicas para [CMS - Portal Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) e [VTEX IO](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2).
 
-<div class="alert alert-warning">
-<p>Para realizar a investigação no CMS descrita a seguir, é necessário solicitar apoio da equipe de desenvolvedores responsável pela sua loja.</p>
-</div>
+>⚠️ Para realizar a investigação no CMS descrita a seguir, é necessário solicitar apoio da equipe de desenvolvedores responsável pela sua loja.
 
 ### Binding
 

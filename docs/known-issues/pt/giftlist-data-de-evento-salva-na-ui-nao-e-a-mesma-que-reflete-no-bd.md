@@ -18,9 +18,7 @@ internalReference: 402134
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Salvando o evento da lista de presentes datado de 31/12/2021, ele se registra na UI 30/12/2021, mas é 31/12/2021 na exportação (a data correta)

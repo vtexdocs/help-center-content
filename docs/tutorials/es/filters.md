@@ -21,17 +21,13 @@ Cuando un cliente selecciona un filtro (precio, color, tamaño y marca), esta in
 
 **VTEX Intelligent Search** utiliza el contexto de los productos que se muestran como resultados de la búsqueda para saber exactamente qué filtros deben mostrarse al cliente, de acuerdo con la configuración del catálogo.
 
-<div class="alert alert-info">
-  <p>El orden de los filtros de marca, departamento, categoría y subcategoría se determina por la cantidad de productos registrados en cada uno de los filtros.</p>
-</div>
+>ℹ️ El orden de los filtros de marca, departamento, categoría y subcategoría se determina por la cantidad de productos registrados en cada uno de los filtros.
 
 Ejemplo: tenga en cuenta que el filtro *Tamaño* está registrado en el catálogo de una tienda y que solo el producto *zapatilla* tiene la especificación *Tamaño* rellenada. En una búsqueda por el término *zapatilla*, *Tamaño* aparecerá como un filtro. En la búsqueda de cualquier otro término, como *gorra*, esta especificación no se mostrará como un filtro.
 
 El resultado de búsqueda no mostrará una especificación si solo existe como filtro o si el cliente accede a ella a través del menú de la tienda. Ejemplo: si el cliente selecciona el filtro Electrodomésticos directamente en el menú, no se mostrará Departamento como filtro lateral.
 
-<div class="alert alert-info">
-  <p>Si el resultado de la búsqueda devuelve más de 30 mil productos, se omitirán algunos valores de filtros, ya que solo se considerarán las especificaciones de una parte de estos productos.</p>
-</div>
+>ℹ️ Si el resultado de la búsqueda devuelve más de 30 mil productos, se omitirán algunos valores de filtros, ya que solo se considerarán las especificaciones de una parte de estos productos.
 
 La funcionalidad Filtros tiene las siguientes funciones:
 
@@ -46,6 +42,4 @@ La funcionalidad Filtros tiene las siguientes funciones:
 
 Consulte la guía [Search Result](https://developers.vtex.com/docs/apps/vtex.search-result#:~:text=%7D-,filter%2Dnavigator.v3%20block,-This%20block%20renders) en el Developer Portal para obtener más detalles técnicos sobre el uso de filtros.
 
-<div class="alert alert-warning">
-  <p>Aunque las tiendas regionalizadas solo muestran productos disponibles en una determinada región en la página de lista de productos, los filtros no tienen en cuenta la regionalización. Debido a esta limitación, es posible que los clientes de la tienda seleccionen filtros que resulten en productos que no están disponibles en su región.</p>
-</div>
+>⚠️ Aunque las tiendas regionalizadas solo muestran productos disponibles en una determinada región en la página de lista de productos, los filtros no tienen en cuenta la regionalización. Debido a esta limitación, es posible que los clientes de la tienda seleccionen filtros que resulten en productos que no están disponibles en su región.

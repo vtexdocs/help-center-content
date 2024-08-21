@@ -18,9 +18,7 @@ internalReference: 1041462
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 A inserção de um código postal no modal do seletor de ponto de coleta aciona uma solicitação para obter os SLAs disponíveis para esse local. Se a conta não tiver uma chave de API do Google Maps definida em suas configurações de Checkout, essa solicitação não incluirá informações de geoCoordinates. Isso pode fazer com que os pontos de coleta dentro de um intervalo válido não sejam exibidos, como aqueles cujas tabelas de frete são baseadas em polígonos.

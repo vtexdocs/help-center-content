@@ -37,4 +37,4 @@ Utilizar email y contraseña para la autenticación compromete la seguridad de s
 - Compruebe si su tienda utiliza email y contraseña en alguna integración con las API de VTEX.
 - Si lo usa, cree un par de appKey y appToken para esa integración. Vea como en el artículo [Crear appKey y appToken para autenticar integraciones](http://help.vtex.com/en/tutorial/creating-appkeys-and-apptokens-to-authenticate-integrations).
 
-<div class="alert alert-warning"><strong>Atención</strong>: todo par de appKey y appToken, cuando se crea, nace sin estar vinculado a un perfil de acceso. Entonces, después de crearlo, es necesario vincular la appKey y el appToken al perfil de acceso deseado.</div>
+>⚠️ **Atención**: todo par de appKey y appToken, cuando se crea, nace sin estar vinculado a un perfil de acceso. Entonces, después de crearlo, es necesario vincular la appKey y el appToken al perfil de acceso deseado.

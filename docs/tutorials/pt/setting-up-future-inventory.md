@@ -15,17 +15,13 @@ legacySlug: configurar-estoque-futuro
 subcategory: 32vrn4K2ZscjUaIBe6w5fm
 ---
 
-<div class="alert alert-info">
-<p>Essa funcionalidade está em fase closed Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
-</div>
+>ℹ️ Essa funcionalidade está em fase closed Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 Para algumas operações de e-commerce, é útil ter a capacidade de vender um item que não esteja disponível para pronta entrega, mas que tenha data prevista de chegada ao estoque. A feature de __Estoque Futuro__ permite exatamente isso.
 
 ## Como funciona o Estoque Futuro
 
-<div class="alert alert-warning">
-Atualmente a configuração de Estoque Futuro está disponível somente <a target="_blank" href="https://developers.vtex.com/reference/inventory#savesupplylot">via API</a>.
-</div>
+>⚠️ Atualmente a configuração de Estoque Futuro está disponível somente <a target="_blank" href="https://developers.vtex.com/reference/inventory#savesupplylot">via API</a>.
 
 A API de Estoque Futuro permite cadastrar um __Lote de Abastecimento__. Esse lote representa o estoque futuro e carrega duas informações principais:
 - Quantidade de itens.
@@ -37,8 +33,7 @@ Neste caso, compras desses SKUs irão consumir os itens disponíveis no lote de 
 
 >Tempo final de entrega = SLA de entrega + prazo de recebimento do lote de abastecimento
 
-<div class="alert alert-info">
-Caso a data do recebimento seja anterior à data do cálculo do frete, o tempo adicional será 0 (zero), já que - neste caso - o lote de abastecimento já foi recebido.</div>
+>ℹ️ Caso a data do recebimento seja anterior à data do cálculo do frete, o tempo adicional será 0 (zero), já que - neste caso - o lote de abastecimento já foi recebido.
 
 Veja a documentação do endpoint usado para salvar um Estoque Futuro:
 [Save Supply Lot](https://developers.vtex.com/reference/inventory#savesupplylot)
@@ -58,9 +53,7 @@ Ao usar a API de Estoque Futuro, fique atento às seguintes restrições:
 
 É possível transferir inventário de um lote de abastecimento para o estoque de pronta entrega. Essa transferência faz com que os itens passem a ser considerados imediatamente disponíveis. Com isso, deixa de haver adição de prazo ao tempo de entrega para eles.
 
-<div class="alert alert-info">
-A transferência para pronta entrega libera espaço para o cadastro de um novo lote. Ou seja, se sua loja tem 10 lotes cadastrados (limite permitido) e transfere 2 deles para pronta entrega, você passa a ter 8 lotes cadastrados e dois espaços disponíveis.
-</div>
+>ℹ️ A transferência para pronta entrega libera espaço para o cadastro de um novo lote. Ou seja, se sua loja tem 10 lotes cadastrados (limite permitido) e transfere 2 deles para pronta entrega, você passa a ter 8 lotes cadastrados e dois espaços disponíveis.
 
 Veja a documentação do endpoint usado para transferir um Estoque Futuro para pronta entrega:
 [Transfer Supply Lot](https://developers.vtex.com/reference/inventory#transfersupplylot)

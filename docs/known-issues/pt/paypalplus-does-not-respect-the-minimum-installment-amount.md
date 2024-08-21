@@ -18,9 +18,7 @@ internalReference: 370271
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Mesmo com o valor mínimo da parcela configurado no prazo de pagamento PayPalPlus, exibimos parcelas no checkout que não respeitam esta configuração

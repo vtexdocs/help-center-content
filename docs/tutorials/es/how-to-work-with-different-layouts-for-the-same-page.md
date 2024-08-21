@@ -51,9 +51,7 @@ Sucede que las condiciones ofrecidas no están presentes en ninguna página:
 
 Por lo tanto, no es posible asignar condiciones a un producto específico o a diferentes diseños a través de una colección. Deberá registrarlos junto con la condición del producto.
 
-<div class="alert alert-info">
-Según las condiciones elegidas, se establece un orden de prioridad para la aplicabilidad del layout. La ordenación es, si existe, template del producto, de la categoría y, finalmente, de la marca. Por lo tanto, un template acondicionado para un producto se superpone al template de la categoría en que está contenido este producto y así sucesivamente.
-</div>
+>ℹ️ Según las condiciones elegidas, se establece un orden de prioridad para la aplicabilidad del layout. La ordenación es, si existe, template del producto, de la categoría y, finalmente, de la marca. Por lo tanto, un template acondicionado para un producto se superpone al template de la categoría en que está contenido este producto y así sucesivamente.
 
 Si tiene dudas en esta configuración, le recomendamos que use la lid: [Prueba de Layout](/es/faq/validar-un-layout-antes-de-ir-a-produccion)
 

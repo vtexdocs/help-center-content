@@ -18,9 +18,7 @@ subcategory: 5HsDDU48ZP58JHWU3WbCPc
 La tipografía del sitio web de tu tienda es una herramienta para comunicar la identidad de tu marca a los clientes. 
 En el Admin, tienes la flexibilidad de personalizar la tipografía de tu tienda para acomodar las necesidades de tu negocio.
 
-<div class="alert alert-warning">
-  <p>Ten en cuenta que los cambios en la tipografía de tu tienda en el <b>Storefront</b> sobrescriben los cambios de tipografía en el código de tu tienda. Por favor, ponte en contacto con tu equipo de desarrollo y asegúrate de que los cambios se realicen en el Storefront o mediante el código de la tienda.</p>
-</div>
+>⚠️ Ten en cuenta que los cambios en la tipografía de tu tienda en el **Storefront** sobrescriben los cambios de tipografía en el código de tu tienda. Por favor, ponte en contacto con tu equipo de desarrollo y asegúrate de que los cambios se realicen en el Storefront o mediante el código de la tienda.
 
 ## Agregar familias de fuentes personalizadas
 
@@ -33,9 +31,7 @@ En el Admin, tienes la flexibilidad de personalizar la tipografía de tu tienda 
 
 4. Luego, haz clic en **Add Custom Font (Agregar fuente personalizada)** y carga el archivo de fuente deseado. En el campo **Font Family (Familia de fuentes)**, ingresa un nombre para la fuente.
 
-<div class="alert alert-warning">
-  <p>Debes cargar el archivo de la familia de fuentes utilizando las siguientes extensiones de archivo: <i>.ttf</i> o <i>.woff</i>.</p>
-</div>
+>⚠️ Debes cargar el archivo de la familia de fuentes utilizando las siguientes extensiones de archivo: <i>.ttf</i> o <i>.woff</i>.
 
 5. Haz clic en Save (Guardar) para guardar los cambios. 
 

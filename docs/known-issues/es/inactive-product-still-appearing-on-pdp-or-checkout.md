@@ -18,9 +18,7 @@ internalReference: 542264
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Desactivar sólo el producto por API hace que el producto permanezca activo para el PDP y la caja

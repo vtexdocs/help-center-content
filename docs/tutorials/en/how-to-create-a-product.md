@@ -32,9 +32,7 @@ The form to add a new product contains the following sections:
 *   [SEO](#seo)
 *   [Storefront](#storefront)
 
-<div class="alert alert-info">
-  <p>Before creating a product, you must create the corresponding <a href="https://help.vtex.com/en/tutorial/registering-a-category--tutorials_206">Category</a> for the product, if it has not been previously registered in your store.</p>
-</div>
+>ℹ️ Before creating a product, you must create the corresponding [Category](https://help.vtex.com/en/tutorial/registering-a-category--tutorials_206) for the product, if it has not been previously registered in your store.
 
 ## Basic information
 
@@ -83,9 +81,7 @@ To add images to the product, follow the instructions below:
 1. Click on the `Add images` button or drop the images within the dotted line frame.
 2. Insert all product images, including their variations, such as color and size. Images must be in JPEG, PNG, or GIF format, up to 5 MB each.
 
-<div class="alert alert-warning">
-<p>We recommend using images of at least 600 x 600 pixels, to ensure that they will be displayed properly in your store.</p>
-</div>
+>⚠️ We recommend using images of at least 600 x 600 pixels, to ensure that they will be displayed properly in your store.
 
 To rearrange the images and change their display order on the product page, you can click on an image and then drag and drop it to a certain position, as shown below.
 
@@ -144,9 +140,7 @@ Each product must have at least one [SKU](https://help.vtex.com/en/tutorial/what
 
  If you want to create **more than one SKU** according to your product's variations, click on the `+ Add variations` button.
 
-<div class="alert alert-warning">
-  <p>Clicking on <code>+ Add variations</code> will delete the data you have entered in the <b>SKU information fields</b>.</p>
-</div>
+>⚠️ Clicking on `+ Add variations` will delete the data you have entered in the **SKU information fields**.
 
 What differentiates one SKU or product variation from another is the many possible combinations of specifications.  For example, you add _a pair of sneakers_ and configure its _color_ specification with the _pink_ and _blue_ options and its _size_ specification with the sizes _7_ and _8_. This product's SKUs will be the combinations of the previous options: _pink sneakers size 7_, _pink sneakers size 8, blue sneakers size 7,_ and _blue sneakers size 8_.
 
@@ -175,9 +169,7 @@ In this section, you can find the specifications you’ve created and the option
 
 You can edit the specification info by clicking on the <i class="fas fa-pencil-alt"></i> button on each row.
 
-<div class="alert alert-info">
-  <p>Once you have configured product specifications, you cannot delete a specification or add a new one. While editing, you can only add new values to the existing specification.</p>
-</div>
+>ℹ️ Once you have configured product specifications, you cannot delete a specification or add a new one. While editing, you can only add new values to the existing specification.
 
 You can also click on the `+ Add specifications` button to include more specifications.
 
@@ -203,9 +195,7 @@ By clicking on the button, you can perform the following actions:
   * **Add images:** on this page, you can also upload new images by clicking on the `Add images` button or by dropping image files into the dotted space.
 * **Deactivate:** deactivate the SKU.
 
-<div class="alert alert-warning">
-<p>If you add specifications after configuring the variations, the system will recalculate all variations and redefine their fields.</p>
-</div>
+>⚠️ If you add specifications after configuring the variations, the system will recalculate all variations and redefine their fields.
 
 ###  Advanced Editing
 

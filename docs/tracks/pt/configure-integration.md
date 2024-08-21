@@ -66,7 +66,5 @@ O preenchimento desse campo deve ser realizado da seguinte maneira:
 2. Preencha o campo PARA com o nome do novo campo.   `MGZ_ProductName` para nome do produto e `MGZ_ProductDescription` para descrição do produto.    
 3. Clique no botão e uma regra de mapeamento será adicionada a sua integração.  
 
-<div class="alert alert-info">
-Cada regra cadastrada mapeia apenas um campo.
-<p>Caso o campo mapeado não tenha um valor preenchido, será enviado o valor padrão de <code>Título</code> ou <code>Descrição</code> cadastrados no catálogo.
-</div>
+>ℹ️ Cada regra cadastrada mapeia apenas um campo.
+> <p>Caso o campo mapeado não tenha um valor preenchido, será enviado o valor padrão de `Título` ou `Descrição` cadastrados no catálogo.

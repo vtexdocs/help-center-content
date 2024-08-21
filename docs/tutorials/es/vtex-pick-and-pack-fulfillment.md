@@ -380,9 +380,7 @@ Los límites de cambios de cantidad y precio de ítems en el pedido te permiten 
 
 #### Tags de hojas de trabajo
 
-<div class="alert alert-warning">
-Solo debes hacer clic sobre el campo para crearlo o eliminarlo del listado.
-</div>
+>⚠️ Solo debes hacer clic sobre el campo para crearlo o eliminarlo del listado.
 
 Las tags ayudan como identificadores de las hojas de trabajo para poder realizar configuraciones, filtros o asignaciones  necesarias dentro del sistema.
 
@@ -403,9 +401,7 @@ Puedes seleccionar los tres tipos de configuraciones para la tienda.
 Si quieres eliminar un tipo puedes hacerlo dentro del campo haciendo clic sobre la X que lo acompaña.
 </div>
 
-<div class="alert alert-danger">
-EAN dinámico es un código que se genera con el peso del producto para calcular el precio.
-</div>
+>❗ EAN dinámico es un código que se genera con el peso del producto para calcular el precio.
 
 ### Configuración de categorías
 

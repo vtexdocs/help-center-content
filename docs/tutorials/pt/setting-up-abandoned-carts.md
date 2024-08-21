@@ -42,9 +42,7 @@ Você pode criar o seu próprio template de email customizado ou utilizar a opç
 
 ![template xhtml](https://images.ctfassets.net/alneenqid6w5/44IZ7N3din2EELL15z5FeQ/5e4164dc9abd8f5139d7934cae41e44c/Template_XHTML.PNG)
 
-<div class="alert alert-warning">
-Recomendamos que a customização de template seja realizada por profissionais com experiência no módulo CMS, e preferencialmente, que já tenham realizado configurações de outros templates de página e prateleira.
-</div>
+>⚠️ Recomendamos que a customização de template seja realizada por profissionais com experiência no módulo CMS, e preferencialmente, que já tenham realizado configurações de outros templates de página e prateleira.
 
 Para utilizar uma opção padrão de template, siga os seguintes passos:
 
@@ -131,9 +129,7 @@ Para que o disparo da trigger seja realizado, os filtros precisam estar obrigato
 13. Clique em `Salvar`.
 14. Crie um carrinho e feche a página para testar a trigger.
 
-  <div class="alert alert-warning">
-    <p>A sessão de uma página expira em 30 minutos. Somente depois desse período o Master Data inicia a contagem do período agendado para o disparo da trigger de Carrinho Abandonado. Logo, o tempo até o email chegar corresponde ao tempo da sessão (30 minutos) mais o período agendado na trigger.</p>
-</div>
+  >⚠️ A sessão de uma página expira em 30 minutos. Somente depois desse período o Master Data inicia a contagem do período agendado para o disparo da trigger de Carrinho Abandonado. Logo, o tempo até o email chegar corresponde ao tempo da sessão (30 minutos) mais o período agendado na trigger.
 
 14. Uma vez que você houver recebido a mensagem do carrinho abandonado em seu email, no campo __Destinatário__ (passo 12), selecione a opção __CL:Email__ e  clique em `Adicionar email dinâmico`.
 15. Clique em `Salvar`.

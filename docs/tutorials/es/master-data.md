@@ -21,9 +21,7 @@ Por defecto, Master Data se usa para almacenar y organizar los datos de los clie
 
 En este artículo, encontrarás más detalles sobre cada versión disponible de Master Data, así como conceptos importantes y cómo utilizarlo.
 
-<div class="alert alert-info">
-Ten en cuenta que, según la funcionalidad y la versión que desees utilizar, se recomienda ponerse en contacto con el equipo de desarrollo de tu operación.
-</div>
+>ℹ️ Ten en cuenta que, según la funcionalidad y la versión que desees utilizar, se recomienda ponerse en contacto con el equipo de desarrollo de tu operación.
 
 ## Versiones disponibles
 
@@ -240,9 +238,7 @@ En la tabla a continuación, obtendrás más información sobre las diferencias 
   </tr>
 </table>
 
-<div class="alert alert-danger">
-Las entidades de datos de ambas versiones son independientes, aunque algunas pueden ser análogas. Esto significa que un dato creado en una entidad de la v1 no se puede consultar ni editar usando recursos de la v2 y viceversa.
-</div>
+>❗ Las entidades de datos de ambas versiones son independientes, aunque algunas pueden ser análogas. Esto significa que un dato creado en una entidad de la v1 no se puede consultar ni editar usando recursos de la v2 y viceversa.
 
 ## Componentes básicos
 

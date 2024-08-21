@@ -15,9 +15,7 @@ legacySlug: configurar-regra-de-preco-para-politica-comercial
 subcategory: wUepkh8pzimEywO8oGUIc
 ---
 
-<div class="alert alert-info">
-Este artigo se refere à versão mais recente do Pricing da VTEX. Caso a sua loja ainda não esteja nessa nova versão, você pode solicitar a migração entrando em contato com o nosso time de atendimento.
-</div>
+>ℹ️ Este artigo se refere à versão mais recente do Pricing da VTEX. Caso a sua loja ainda não esteja nessa nova versão, você pode solicitar a migração entrando em contato com o nosso time de atendimento.
 
 Uma __regra de preço__ é um conjunto de condições que determinam os preços para uma certa política comercial. 
 

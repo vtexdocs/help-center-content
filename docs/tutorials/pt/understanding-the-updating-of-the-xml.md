@@ -23,4 +23,6 @@ Essa consulta significa que o XML foi chamado em menos de 48 horas. Aqueles XML 
 
 [![xml](https://images.contentful.com/alneenqid6w5/4f0ryUsnO8UQM8micg88EQ/8127b7bad05fd3b27fcc84f0754e7ea0/xml.png)](https://images.contentful.com/alneenqid6w5/4f0ryUsnO8UQM8micg88EQ/8127b7bad05fd3b27fcc84f0754e7ea0/xml.png "![xml](https://images.contentful.com/alneenqid6w5/4f0ryUsnO8UQM8micg88EQ/8127b7bad05fd3b27fcc84f0754e7ea0/xml.png)")
 
-<div class="alert alert-info">Caso a opção "Exibir os SKUs sem saldo disponível (esgotados) em Estoque entre os resultados" esteja desmarcada, os produtos/SKUs que estiverem esgotados não aparecerão no XML. <br>Produtos inativos também <strong>não</strong> aparecem no XML.</div>
+>ℹ️ Caso a opção "Exibir os SKUs sem saldo disponível (esgotados) em Estoque entre os resultados" esteja desmarcada, os produtos/SKUs que estiverem esgotados não aparecerão no XML. 
+>
+> Produtos inativos também **não** aparecem no XML.

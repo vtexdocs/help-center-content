@@ -58,7 +58,5 @@ Quando o produto não tem estoque e a integração não está configurada para e
 3. Na aba `Editar XML`, na opção **Exibir SKUs indisponíveis**, marque a caixa de seleção `Exibir SKUs fora de estoque (esgotados) entre os resultados`.
 4. Clique em `Salvar`. 
 
-<div class="alert alert-warning">
-Podem ocorrer erros ao tentar faturar um pedido com informações XML incorretas ou faltantes.
-</div>
+>⚠️ Podem ocorrer erros ao tentar faturar um pedido com informações XML incorretas ou faltantes.
 

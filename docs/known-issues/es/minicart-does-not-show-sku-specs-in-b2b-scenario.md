@@ -18,9 +18,7 @@ internalReference: 687308
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando se añade un artículo al minicart en una tienda B2B, no se presenta la información relacionada con sus especificaciones, registradas en el Catálogo.

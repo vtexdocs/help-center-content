@@ -31,9 +31,7 @@ After an item is sold, it goes through the following statuses in your store's in
 
 You can track the reservation status in the VTEX Admin, [as described at the end of this article](https://help.vtex.com/en/tutorial/how-does-reservation-work--tutorials_92#how-to-track-reservation-status).
 
-<div class="alert alert-warning">
-Adding products to the cart does not generate a reservation or priority. The Authorized reservation status is only displayed after the order is placed by the customer.
-</div>
+>⚠️ Adding products to the cart does not generate a reservation or priority. The Authorized reservation status is only displayed after the order is placed by the customer.
 
 ## Authorized reservation
 
@@ -49,9 +47,7 @@ _Payment expiration period + inventory reservation period_
     - **five calendar days:** when the payment is due on a Wednesday, Thursday or Friday.
     - **six calendar days:** when the payment is due on a Saturday.
 
-<div class="alert alert-danger">
-Incomplete orders have a fixed reservation period of 11 calendar days. To learn more, please refer to the article <a href="https://help.vtex.com/en/tutorial/understanding-incomplete-orders--tutorials_294">How incomplete orders work.</a>
-</div>
+>❗ Incomplete orders have a fixed reservation period of 11 calendar days. To learn more, please refer to the article [How incomplete orders work.](https://help.vtex.com/en/tutorial/understanding-incomplete-orders--tutorials_294)
 
 For an external marketplace, if the reservation period is sent by the `lockTTL` field, the reservation will not be calculated by VTEX platform but determined by the period in the field. This can be done using the [Place order](https://developers.vtex.com/docs/api-reference/checkout-api#put-/api/checkout/pub/orders) endpoint.
 
@@ -85,9 +81,7 @@ A store's inventory holds three units of an item. A customer makes a purchase, a
 
 When the retailer or the ERP updates the quantity of that item in the inventory, removing the sold quantity (updating it to two units), the platform updates the quantity of available items. Thus, this may be interpreted as a removal from inventory. Consequently, only two units of the item remain in the platform's inventory and no reserved units.
 
-<div class="alert alert-danger">
-By confirming the order handling, the seller takes responsibility for reserving the order items. From that moment on, if there are any updates in the inventory, the VTEX platform dismisses these SKUs' reservation. Therefore, we recommended updating the SKU inventory for a specific order only after the order has been invoiced. By doing so, you avoid inventory discrepancies in the <a href="https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide">integration with your store's backoffice</a>.
-</div>
+>❗ By confirming the order handling, the seller takes responsibility for reserving the order items. From that moment on, if there are any updates in the inventory, the VTEX platform dismisses these SKUs' reservation. Therefore, we recommended updating the SKU inventory for a specific order only after the order has been invoiced. By doing so, you avoid inventory discrepancies in the [integration with your store's backoffice](https://developers.vtex.com/vtex-rest-api/docs/erp-integration-guide).
 
 ## How to track reservation status
 

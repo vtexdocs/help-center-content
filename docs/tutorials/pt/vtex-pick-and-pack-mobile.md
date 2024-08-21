@@ -48,9 +48,7 @@ Ao selecionar esta ordem de serviço para manuseio, o aplicativo indicará a sep
 
 Em seguida, o aplicativo te auxiliará no empacotamento de cada pedido com seus respectivos itens.
 
-<div class="alert alert-warning">
-Ordens de serviço se aplicam apenas às fases de separação e empacotamento de pedidos. Você deve fazer o envio de cada pedido separadamente.
-</div>
+>⚠️ Ordens de serviço se aplicam apenas às fases de separação e empacotamento de pedidos. Você deve fazer o envio de cada pedido separadamente.
 
 ### Criar ordem de serviço
 
@@ -117,9 +115,7 @@ Uma vez separados, os produtos são listados na aba __Resumo__.
 
 Há cenários em que pode ser necessário recusar produtos por conta das configurações da loja e disponibilidade dos itens no inventário. 
 
-<div class="alert alert-warning">
-A opção de recusar itens pode não estar disponível. Em caso de dúvida, consulte a administração da loja.
-</div>
+>⚠️ A opção de recusar itens pode não estar disponível. Em caso de dúvida, consulte a administração da loja.
 
 Para recusar um produto da ordem de serviço, siga os passos abaixo:
 
@@ -136,17 +132,13 @@ Para recusar todos os produtos da ordem de serviço de uma única vez, siga este
 2. Clique na opção **Marcar como pronto para empacotar.** 
 3. Toque em **Recusar todos os itens disponíveis.**
 
-<div class="alert alert-danger">
-Se todos os itens de um pedido forem recusados, o pedido será concluído automaticamente.
-</div>
+>❗ Se todos os itens de um pedido forem recusados, o pedido será concluído automaticamente.
 
 ## Substituir itens
 
 Outra opção para casos de itens indisponíveis é substituir o item por um outro, a depender das configurações da loja e disponibilidade dos itens no inventário.
 
-<div class="alert alert-warning">
-A opção de substituir itens pode não estar disponível. Em caso de dúvida, consulte a administração da loja.
-</div>
+>⚠️ A opção de substituir itens pode não estar disponível. Em caso de dúvida, consulte a administração da loja.
 
 Para substituir itens da ordem de serviço, siga os passos abaixo:
 
@@ -181,9 +173,7 @@ Siga os passos abaixo para empacotar itens:
 
 1. Em Empacotamento, clique no pedido que deseja empacotar. 
 2. Clique no botão <i class="fas fa-plus"></i> do produto que deseja adicionar no pacote ou clique em <i class="fas fa-box"></i> para empacotar todos os produtos ao mesmo tempo.
-<div class="alert alert-warning">
-Caso opte por empacotar todos os itens do pedido, os produtos que ainda não foram empacotados serão registrados em um único novo pacote.
-</div>
+>⚠️ Caso opte por empacotar todos os itens do pedido, os produtos que ainda não foram empacotados serão registrados em um único novo pacote.
 4. Selecione um pacote já registrado ou adicione um novo pacote clicando em `+ Criar pacote`. 
 5. Selecione o tipo do pacote que deseja adicionar.
 6. Selecione o número de unidades deste produto que deseja adicionar àquele pacote.
@@ -203,9 +193,7 @@ __Pedidos e pacotes__
 
 A fase de envio permite criar serviços de envio referentes a pedidos que foram separados e empacotados.
 
-<div class="alert alert-warning">
-O envio é uma etapa opcional do aplicativo, a depender da sua operação e configurações feitas pelo administrador de loja.
-</div>
+>⚠️ O envio é uma etapa opcional do aplicativo, a depender da sua operação e configurações feitas pelo administrador de loja.
 
 Para enviar pacotes no aplicativo Pick and Pack, siga os passos abaixo:
 

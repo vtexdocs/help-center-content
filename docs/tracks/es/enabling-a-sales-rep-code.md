@@ -20,21 +20,15 @@ Por lo tanto, una de las opciones de personalización de inStore es cambiar el c
 
 Una vez que se habilite, esta personalización muestra el campo `Vendor` en la parte superior de la página y añade una etapa al flujo de compra: antes del Envío, el vendedor está obligado a identificar esa venta con su código.
 
-<div class="alert alert-danger">
-<strong>Atención</strong>: en este caso, no es posible finalizar una venta sin completar el campo <code>Vendor</code> con el código del vendedor.
-</div>
+>❗ **Atención**: en este caso, no es posible finalizar una venta sin completar el campo `Vendor` con el código del vendedor.
 
 ## Editando el archivo Javascript
 
 Para habilitar el código del vendedor, se necesita realizar una alteración en el código JavaScript `checkout-custom-inStore.js` que está guardado en el panel administrativo de VTEX.
 
-<div class="alert alert-warning">
-Se <strong>recomienda expresamente</strong> que el responsable de modificar el código sea una persona con <strong>experiencia en programación</strong>. 
-</div>  
+>⚠️ Se **recomienda expresamente** que el responsable de modificar el código sea una persona con **experiencia en programación**.  
 
-<div class="alert alert-info">
-El código del vendedor es habilitado <strong>solo</strong> por JavaScript.
-</div>
+>ℹ️ El código del vendedor es habilitado **solo** por JavaScript.
 
 En primer lugar, realice los ajustes descritos en el artículo [Habilitar campo de observación en la pantalla de pedido](https://help.vtex.com/es/tracks/instore-customizacoes--1z9kBm12oBPyVNDo1ivVc2/8Aj21R8bll0tdrxHWjVOs).
 
@@ -56,9 +50,7 @@ window.INSTORE_CONFIG = {
 }
 ```
 
-<div class="alert alert-danger">
-No remueva ninguna de las otras propiedades del objeto <code>window.INSTORE_CONFIG</code>. De lo contrario, las otras funcionalidades de su tienda podrían verse afectadas.
-</div>
+>❗ No remueva ninguna de las otras propiedades del objeto `window.INSTORE_CONFIG`. De lo contrario, las otras funcionalidades de su tienda podrían verse afectadas.
 
 Además, recuerde que el anterior código es solo una opción de configuración.  
 

@@ -21,9 +21,7 @@ La plataforma VTEX se compone de diferentes módulos, cada uno responsable de un
 - [Promociones](#promociones)
 - [Logística](#logistica)
 
-<div class="alert alert-info">
-El artículo <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ">Módulos de VTEX II</a> presenta los módulos <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#pagos">Pagos</a>, <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#pedidos">Pedidos</a>, y <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#checkout">Checkout</a>.
-</div>
+>ℹ️ El artículo [Módulos de VTEX II](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ) presenta los módulos [Pagos](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#pagos), [Pedidos](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#pedidos), y [Checkout](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/3MYcZaojb5HSUg6ufm6GxQ#checkout).
 
 ## Catálogo
 
@@ -63,9 +61,7 @@ La siguiente tabla muestra los principales ajustes de Catálogo para la tienda, 
 
 <br>
 
-<div class="alert alert-warning">
-Puedes obtener información detallada sobre la importación de productos a la plataforma VTEX desde un sistema ERP (Enterprise Resource Planning) o PIM (Product Information Manager) consultando el artículo <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu">Integraciones de backend</a>.
-</div>
+>⚠️ Puedes obtener información detallada sobre la importación de productos a la plataforma VTEX desde un sistema ERP (Enterprise Resource Planning) o PIM (Product Information Manager) consultando el artículo [Integraciones de backend](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu).
 
 #### Árbol de categorías
 
@@ -79,9 +75,7 @@ Antes de importar el catálogo de la tienda a VTEX, recomendamos empezar a traba
 
 ![catalog_arquitecture_table_ES](https://images.ctfassets.net/alneenqid6w5/6Vg5pVKydPdMipVEqj1Spq/60756721b1e21b27b981dee2f2a5e9ad/catalog_arquitecture_table_ES.png)
 
-<div class="alert alert-info">
-En el artículo <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu">Integraciones de backend</a> puedes consultar más información sobre cómo importar especificaciones para back office.
-</div>
+>ℹ️ En el artículo [Integraciones de backend](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) puedes consultar más información sobre cómo importar especificaciones para back office.
 
 #### Marcas
 
@@ -174,9 +168,7 @@ Existe una diferencia entre las tablas de precios creadas para [políticas comer
 
 Las listas de precios no asociadas a políticas comerciales pueden utilizarse en contextos como __promociones__ y __clústeres de clientes__. Las tablas creadas para políticas comerciales solo pueden asociarse a la propia política comercial. Así, la tabla de precios asociada a una política comercial informa el precio de los SKU de esa política y no puede asociarse a otros contextos.
 
-<div class="alert alert-warning">
-Los conceptos de <b>tabla de precios</b> y <a href="LINK">política comercial</a> son diferentes. La política comercial es el contexto al que se asocia una tabla de precios.
-</div>
+>⚠️ Los conceptos de **tabla de precios** y [política comercial](LINK) son diferentes. La política comercial es el contexto al que se asocia una tabla de precios.
 
 A la hora de configurar una política comercial, es imprescindible [especificar la moneda que se utilizará en la tienda](https://help.vtex.com/es/tutorial/criar-uma-politica-comercial--563tbcL0TYKEKeOY4IAgAE). La creación de diferentes políticas comerciales, cada una asociada a una moneda distinta, permite a la tienda mostrar a los clientes los precios en diferentes monedas. 
 
@@ -227,9 +219,7 @@ Consulta más información sobre las posibilidades de aplicar promociones en el 
 
 Puedes crear cupones de descuento en el [Admin VTEX](https://help.vtex.com/es/tutorial/criar-cupom-beta--7lMk3MmhNp2IEccyGApxU) o a través de [API](https://developers.vtex.com/docs/guides/creating-and-managing-coupons-with-promotions-api). Para utilizarlo, el cupón debe estar vinculado al menos a una promoción.
 
-<div class="alert alert-warning">
-Hay una cantidad limitada de cupones activos. Se recomienda encarecidamente la reutilización de los cupones, ya que un exceso de estos podría afectar el desempeño del módulo Promociones.
-</div>
+>⚠️ Hay una cantidad limitada de cupones activos. Se recomienda encarecidamente la reutilización de los cupones, ya que un exceso de estos podría afectar el desempeño del módulo Promociones.
 
 ### Crear promociones de campaña
 
@@ -317,9 +307,7 @@ La [transportadora](https://help.vtex.com/es/tutorial/o-que-e-uma-transportadora
 
 El [stock](https://help.vtex.com/es/tutorial/gerenciar-itens-em-estoque--tutorials_139) de la tienda corresponde a los ítems almacenados que están disponibles para la venta. El almacén es la identificación de la ubicación física de almacenamiento, mientras que el stock es el conjunto de SKU disponibles para la venta.
 
-<div class="alert alert-danger">
-En VTEX, la actualización del stock una vez vendidos los ítems debe ser controlada por la propia tienda. De esta forma, tras la venta, el retailer garantiza un control de la cantidad de ítems restantes y de las operaciones de facturación con ERP. En el artículo  <a href="https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu">Integraciones de backend</a> puedes consultar más información sobre cómo importar stock a través del back office.
-</div>
+>❗ En VTEX, la actualización del stock una vez vendidos los ítems debe ser controlada por la propia tienda. De esta forma, tras la venta, el retailer garantiza un control de la cantidad de ítems restantes y de las operaciones de facturación con ERP. En el artículo  [Integraciones de backend](https://help.vtex.com/es/tracks/serie-de-la-tienda-vtex--eSDNk26pdvemF3XKM0nK9/7euXDZR5CCnVFSrXyczIhu) puedes consultar más información sobre cómo importar stock a través del back office.
 
 ### Lead time
 

@@ -18,9 +18,7 @@ internalReference: 391549
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El uso de las condiciones especiales en el método de pago para filtrar el emisor está causando que la caja muestre un error "El banco emisor no es aceptado". El problema es intermitente y se notó por primera vez al utilizar la tarjeta de marca compartida de pago personalizado, pero también ocurrió en el método de pago con tarjeta de crédito.

@@ -17,9 +17,7 @@ subcategory: 27t6x0lngvjI3bnUg5AgEO
 
 O Mídia é uma funcionalidade responsável por gerenciar os arquivos de mídia da sua loja, como imagens e vídeos. Para imagens, você pode fazer o upload e organizar arquivos de mídia de até 5 MB usando o Mídia nos seguintes formatos: `png`, `jpg`, `gif`, `svg` e `webp`. Para vídeos, você pode adicionar uma URL para o provedor de vídeo hospedado externamente, como YouTube ou Vimeo.
 
-<div class="alert alert-warning">
-  Para upload, os arquivos devem ter uma extensão em minúsculo, por exemplo, <code>store.png</code>, e tamanho de até <b>5 MB</b>.
-</div>
+>⚠️ Para upload, os arquivos devem ter uma extensão em minúsculo, por exemplo, `store.png`, e tamanho de até **5 MB**.
 
 ![Mídia Visão Geral](https://images.ctfassets.net/alneenqid6w5/3HL6n5pBx5OpIyJMmPccuZ/1daf233a39aa1f3e4bd5b42b1f4b8805/pt-m__dia-overview.png)
 
@@ -39,9 +37,7 @@ Há três maneiras de acessar o Mídia no Admin:
 
 - **Headless CMS**:  no VTEX Admin, acesse **Storefront > Headless CMS** e escolha uma das páginas criadas, por exemplo, uma Página de Produto. Nas seções disponíveis, selecione uma na qual você possa adicionar uma imagem, por exemplo, [Hero](https://developers.vtex.com/docs/guides/faststore/organisms-hero). Clique no componente de imagem do Hero e um painel do Mídia será aberto.
 
-<div class="alert alert-warning">
-A seção disponível deve utilizar o <a href="https://developers.vtex.com/docs/guides/faststore/headless-cms-3-adding-content-types-and-sections#step-3-adding-sections-to-the-headless-cms">media-gallery</a> para aproveitar o Mídia. Para projetos <a href="https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore">FastStore</a>, as seções que utilizam o widget  <i>media-gallery</i> são <a href="https://developers.vtex.com/docs/guides/faststore/organisms-navbar">Navbar</a> and <a href="https://developers.vtex.com/docs/guides/faststore/organisms-hero">Hero</a>.
-</div>
+>⚠️ A seção disponível deve utilizar o [media-gallery](https://developers.vtex.com/docs/guides/faststore/headless-cms-3-adding-content-types-and-sections#step-3-adding-sections-to-the-headless-cms) para aproveitar o Mídia. Para projetos [FastStore](https://developers.vtex.com/docs/guides/faststore/docs-what-is-faststore), as seções que utilizam o widget  <i>media-gallery</i> são [Navbar](https://developers.vtex.com/docs/guides/faststore/organisms-navbar) and [Hero](https://developers.vtex.com/docs/guides/faststore/organisms-hero).
 
 Na imagem a seguir, confira a visão geral da interface do Mídia e as ações disponíveis para gerenciar seus arquivos de mídia:
 
@@ -64,15 +60,11 @@ No Mídia, você pode fazer upload de imagens nos seguintes formatos: `png`, `jp
 
 1. Na página ou no painel **Mídia**, clique em `Adicionar novo(a)` e clique em `Imagem`.
 
-<div class="alert alert-warning">
-  <p>No painel Mídia disponível no Headless CMS e no Site Editor, você pode arrastar e soltar imagens.</p>
-</div>
+>⚠️ No painel Mídia disponível no Headless CMS e no Site Editor, você pode arrastar e soltar imagens.
 
 2. Escolha a imagem que deseja adicionar e clique em `Abrir`.
 
-<div class="alert alert-warning">
- Lembre-se, o Mídia aceita os seguintes formatos: <code>png</code>, <code>jpg</code>, <code>gif</code>, <code>svg</code>, e <code>webp</code>, em minúsculo e com um limite de tamanho de arquivo de 5 MB.
-</div>
+>⚠️ Lembre-se, o Mídia aceita os seguintes formatos: `png`, `jpg`, `gif`, `svg`, e `webp`, em minúsculo e com um limite de tamanho de arquivo de 5 MB.
 
 3. Depois que a imagem é carregada, uma mensagem de sucesso será exibida. Agora, você pode executar outras ações clicando em `Mais ações` (três pontos verticais) na miniatura da imagem e escolhendo uma das seguintes ações:
 
@@ -83,9 +75,7 @@ No Mídia, você pode fazer upload de imagens nos seguintes formatos: `png`, `jp
 | **Baixar** | Faz o download da imagem para o seu computador. |
 | **Excluir** |	Remove a imagem do repositório. |
 
-<div class="alert alert-warning">
-Excluir a imagem apenas a removerá do repositório do Mídia. Se você adicionou a imagem em um componente Hero, por exemplo, a imagem continuará sendo utilizada neste componente. Porém, você não poderá usá-la em outros componentes.
-</div>
+>⚠️ Excluir a imagem apenas a removerá do repositório do Mídia. Se você adicionou a imagem em um componente Hero, por exemplo, a imagem continuará sendo utilizada neste componente. Porém, você não poderá usá-la em outros componentes.
 
 ### Adicionar vídeos
 

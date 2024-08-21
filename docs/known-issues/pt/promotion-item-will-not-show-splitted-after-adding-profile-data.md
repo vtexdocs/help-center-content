@@ -18,9 +18,7 @@ internalReference: 842575
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 O comportamento esperado ao aplicar uma promoção Mais por Menos é ter o item promocional separado dos itens regulares, mas os itens serão agrupados depois de adicionar um e-mail ao checkout.

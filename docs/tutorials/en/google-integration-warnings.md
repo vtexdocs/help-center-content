@@ -15,6 +15,4 @@ legacySlug: google-integration-warnings
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-<div class="alert alert-warning">
-Content in translation.
-</div>
+>⚠️ Content in translation.

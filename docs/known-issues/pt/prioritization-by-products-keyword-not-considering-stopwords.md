@@ -18,9 +18,7 @@ internalReference: 1041743
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Os produtos podem ser priorizados nos resultados da pesquisa por sua "palavra-chave", uma palavra do nome do produto definida como relevante por um algoritmo. Stopwords são termos de pesquisa filtrados dos termos originais porque não são significativos para a pesquisa.

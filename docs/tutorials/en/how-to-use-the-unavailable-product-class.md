@@ -43,9 +43,7 @@ You can customize your CSS file so that this class displays, for example, a cut 
 
 ## Determining to which specification the classed will be assigned
 
-<div class="alert alert-warning">
-The unavailable product class is only assigned to the specification that <b>last</b> appears in the SKU specifications list in the Catalog module.
-</div>
+>⚠️ The unavailable product class is only assigned to the specification that **last** appears in the SKU specifications list in the Catalog module.
 
 For example, in the case of a SKU that only the `Tamanho` specification will receive the unavailability class.
 

@@ -25,15 +25,16 @@ __Palabras Sustitutas:__ sinónimos de términos relacionados al nombre dado par
 
 __TextLink:__ utilizado para crear la URL del producto. Campo obligatorio. Para más información, consulte el artículo [¿Cómo es montada la URL de producto?](https://help.vtex.com/es/tutorial/como-es-montada-la-url-de-producto--frequentlyAskedQuestions_368).
 
-<div class="alert alert-danger">
-  <p>Al rellenar el <b>textLink</b> del producto, evita utilizar las siguientes palabras reservadas, ya que esto puede perjudicar el rendimiento de tu tienda e interferir con el funcionamiento de las páginas del Admin VTEX.  Consulta la lista de palabras reservadas a continuación.
-  <ul>
-<li><code>a</code></li>
-<li><code>meta</code></li>
-<li><code>api</code></li>
-<li><code>admin</code></li>
-</ul></p>
-</div>
+>❗ Al rellenar el **textLink** del producto, evita utilizar las siguientes palabras reservadas, ya que esto puede perjudicar el rendimiento de tu tienda e interferir con el funcionamiento de las páginas del Admin VTEX.  Consulta la lista de palabras reservadas a continuación.
+>
+> *`a`
+>
+> *`meta`
+>
+> *`api`
+>
+> *`admin`
+> 
 
 __Título de la página (Metatag Title):__ texto que queda en la pestaña del navegador y corresponde al título de la página del producto. Este campo es importante para SEO.
 
@@ -73,9 +74,7 @@ Vea cómo crear las [especificaciones de sus productos](https://help.vtex.com/es
 
 Si ha creado algún campo de producto obligatorio, el producto sólo podrá activarse después de haber rellenado esta especificación.
 
-<div class="alert alert-info">
-Si su producto no aparece en el sitio web de su tienda después del registro, consulte el artículo <a href="https://help.vtex.com/es/faq/por-que-el-producto-no-aparece-en-el-sitio--frequentlyAskedQuestions_382">¿Por qué el producto no aparece en el sitio?</a> para entender cómo resolver este problema.
-</div>
+>ℹ️ Si su producto no aparece en el sitio web de su tienda después del registro, consulte el artículo [¿Por qué el producto no aparece en el sitio?](https://help.vtex.com/es/faq/por-que-el-producto-no-aparece-en-el-sitio--frequentlyAskedQuestions_382) para entender cómo resolver este problema.
 
 ### Más información
 - [Productos - Definición de concepto](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru)

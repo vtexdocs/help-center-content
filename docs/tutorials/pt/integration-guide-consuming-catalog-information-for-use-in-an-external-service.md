@@ -293,10 +293,6 @@ Recebendo este payload, o integrador deve utilizar estas informações para deci
 - Caso tenha ocorrido alteração de preço ou estoque, o integrador deve chamar a rota `https://{accountName}.vtexcommercestable.com.br/api/fulfillment/pvt/orderForms/simulation?sc={salesChannel}&affiliateId={affiliateId}`, conforme descrito na seção [Obter os dados de preço e estoque dos SKUs](#3-obter-os-dados-de-preco-e-estoque-dos-skus).
 - Caso tenha ocorrido uma alteração no SKU que não seja de preço ou estoque, o integrador deve chamar a rota `http://{{accountName}}.vtexcommercestable.com.br/api/catalog_system/pvt/sku/stockkeepingunitbyid/{{skuId}}`, conforme descrito na seção [Obter os dados sobre as propriedades dos SKUs](#2-obter-os-dados-sobre-as-propriedades-dos-skus).
 
-<div class="alert alert-warning">
-Caso um novo SKU seja inserido no Catálogo, ele será notificado no Endpoint de cada afiliado. Por se tratar de um novo SKU, é necessário realizar o preenchimento dos dados deste novo SKU na base de dados do serviço externo. O integrador deve verificar se o SKU notificado se trata de um SKU que ainda não existe na base de dados do serviço externo. Caso se trate de um novo SKU, o integrador deve seguir os mesmos passos descritos na seção <strong>Realizar a primeira carga com os dados dos SKUs</strong>. Caso seja um SKU já existente, o integrador deve seguir os passos da seção <strong>Atualizar os dados dos SKUs</strong>
-</div>
+>⚠️ Caso um novo SKU seja inserido no Catálogo, ele será notificado no Endpoint de cada afiliado. Por se tratar de um novo SKU, é necessário realizar o preenchimento dos dados deste novo SKU na base de dados do serviço externo. O integrador deve verificar se o SKU notificado se trata de um SKU que ainda não existe na base de dados do serviço externo. Caso se trate de um novo SKU, o integrador deve seguir os mesmos passos descritos na seção **Realizar a primeira carga com os dados dos SKUs**. Caso seja um SKU já existente, o integrador deve seguir os passos da seção **Atualizar os dados dos SKUs**
 
-<div class="alert alert-info">
-Caso queira integrar as formas de pagamento de um seller VTEX com um marketplace externo, <a href="https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-guide">acesse nossa documentação</a>.
-</div>
+>ℹ️ Caso queira integrar as formas de pagamento de um seller VTEX com um marketplace externo, [acesse nossa documentação](https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-guide).

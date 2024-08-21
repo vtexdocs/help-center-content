@@ -41,9 +41,7 @@ Também existe a possibilidade de usar redirecionamento de DNS, como disponibili
 
 Afim de realizar um redirecionamento de DNS de forma simples, você encontra abaixo as instruções para realizar o redirecionamento com o serviço [Direcionar.com.br](http://direcionar.com.br).
 
-<div class="alert alert-warning">
-Vale ressaltar que o Direcionar não é um serviço da VTEX e não funciona com HTTPS. Existem outros serviços similares, e a VTEX não recomenda nenhum específico. A VTEX não se responsabiliza por problemas causados por serviços externos de redirecionamento.
-</div>
+>⚠️ Vale ressaltar que o Direcionar não é um serviço da VTEX e não funciona com HTTPS. Existem outros serviços similares, e a VTEX não recomenda nenhum específico. A VTEX não se responsabiliza por problemas causados por serviços externos de redirecionamento.
 
 Confira este outro artigo para saber como [configurar redirecionamentos de outros endereços](https://help.vtex.com/pt/tutorial/redirecionamento-de-outros-enderecos--3Xi2AeLUx2QpJQu8DTX8KQ).
 

@@ -25,9 +25,7 @@ For each of these payment methods there are different setup requirements:
     - __Klarna__: you need to [setting up Klarna affiliation](/es/tutorial/setting-up-klarna-pay-now-y-klarna-pay-later-as-payment-method#setting-up-klarna-affiliation) and install the _vtexdemoemea.klarna@2.0.9_ (or later version) in your store. Learn more how to install the app at [Installing an app](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-installing-an-app).
     - __Adyen__: you need to [setting up Adyen affiliation](https://help.vtex.com/en/tutorial/how-to-configure-the-adyen-gateway-on-vtex--tutorials_2337#). To complete this configuration, ask Adyen to enable the field __Live Endpoint URL Prefix__ in your shop and fill in according to the information described in [this documentation](https://www.adyen.help/hc/en-us/articles/360014322079-How-can-I-find-the-endpoint-URL-for-my-LIVE-account-).
 
-<div class="alert alert-warning">
-Klarna Pay Now and Klarna Pay Later are only enabled for SmartCheckout V6, and only customers from the European and US markets can use their solutions, so they are not applicable payment methods for Brazilian customers.
-</div>
+>⚠️ Klarna Pay Now and Klarna Pay Later are only enabled for SmartCheckout V6, and only customers from the European and US markets can use their solutions, so they are not applicable payment methods for Brazilian customers.
 
 ## Setting up Klarna affiliation
 
@@ -41,9 +39,7 @@ To configure Klarna affiliation, follow the steps below:
 6. Fill in the __Application Key__ and __Application Token__ fields with data provided by Klarna.
 7. Click on __Save__.  
 
-<div class="alert alert-warning">
-  If you are using the Klarna connector in a Test environment, the <b>Application Key</b> must be set to <i>playground.{Klarna User}</i>. When used in a Production environment, the <b>Application Key</b> field should be your <i>Klarna User</i>.
-</div>
+>⚠️ If you are using the Klarna connector in a Test environment, the **Application Key** must be set to <i>playground.{Klarna User}</i>. When used in a Production environment, the **Application Key** field should be your <i>Klarna User</i>.
 
 ## Klarna Pay Now
 

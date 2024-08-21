@@ -18,9 +18,7 @@ internalReference: 943629
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Al utilizar la tarjeta regalo de fidelización, los usuarios pueden tener una mala experiencia al seleccionar la opción "Utilizar sólo parte del valor", ya que no hay ningún botón "Añadir" después de rellenar "Valor a utilizar" (la entrada se acepta automáticamente), por lo que si un valor no se rellena lo suficientemente rápido, se actualizará sólo con los primeros dígitos, obligando al usuario a repetir el procedimiento. Esta experiencia es peor a través del sitio web para móviles.

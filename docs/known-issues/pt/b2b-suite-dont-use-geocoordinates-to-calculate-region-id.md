@@ -18,9 +18,7 @@ internalReference: 1055033
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 É possível usar taxas de remessa usando códigos postais ou coordenadas geográficas, mas as organizações B2B usam somente códigos postais para calcular IDs de região. Se uma conta tiver geolocalização (polígonos) registrada em suas taxas de envio, os produtos serão mostrados como indisponíveis na vitrine.

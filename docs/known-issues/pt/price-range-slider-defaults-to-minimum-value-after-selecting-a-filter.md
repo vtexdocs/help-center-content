@@ -18,9 +18,7 @@ internalReference: 843442
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Esta é uma faixa de preço, é um controle deslizante e tem dois seletores (marcadores), um para o mínimo e outro para o máximo, para que ele saiba onde se posicionar no controle deslizante.

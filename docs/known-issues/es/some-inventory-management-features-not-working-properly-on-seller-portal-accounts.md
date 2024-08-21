@@ -18,9 +18,7 @@ internalReference: 1001665
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Las funciones de gestión de inventario (como los enlaces a los productos) no se comportan como se espera en las cuentas del portal del vendedor. Esto ocurre porque este tipo de cuentas utilizan una versión diferente del catálogo.

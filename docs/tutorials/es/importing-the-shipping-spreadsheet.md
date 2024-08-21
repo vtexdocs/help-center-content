@@ -15,9 +15,7 @@ legacySlug: importar-planilla-de-envio
 subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 ---
 
-<div class="alert alert-info">
-Atención: Esa documentación está en proceso de actualizarse para reflejar los cambios del término Paneles a <a href="https://help.vtex.com/es/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl">estratégia de envío</a>.
-</div>  
+>ℹ️ Atención: Esa documentación está en proceso de actualizarse para reflejar los cambios del término Paneles a [estratégia de envío](https://help.vtex.com/es/announcements/estoque-e-entrega-entenda-o-que-mudou-na-aba-paineis--1YNfaeNG206XKI2UbGBRSl).  
 
 Antes de hacer la importación, es importante ter la plantilla en el modelo VTEX guardada en su máquina, es decir, __idéntica a nuestra Planilla Modelo__, incluso en el formato de las células, con el header y ya en el formato _.xls_ (Excel 97-2003). Para obtener el modelo, haga clic en el enlace __Download de la plantilla modelo__, que queda dentro en la plantilla de configuraciones del transportista.
 
@@ -30,17 +28,11 @@ Antes de hacer la importación, es importante ter la plantilla en el modelo VTEX
 
 Después, quedará una cinta color naranja sobre el transportista que tuvo la inclusión de la tabla de flete, con la información _En procesamiento_. Dependiendo del tamaño del archivo, ese proceso será breve.
 
-<div class="alert alert-warning">
-Recuerde que cada nueva importación sobrescribe las informaciones que fueron importadas anteriormente.
-</div>
+>⚠️ Recuerde que cada nueva importación sobrescribe las informaciones que fueron importadas anteriormente.
 
-<div class="alert alert-warning">
-<strong>Nota 1:</strong> caso las 65.536 líneas de la versión <em>.xls</em> no sean suficientes para el catastro de todos los valores de flete del transportista, será necesario que cree una nueva pestaña dentro del mismo archivo, con el mismo encabezado para seguir llenando las informaciones.
-</div>
+>⚠️ **Nota 1:** caso las 65.536 líneas de la versión *.xls* no sean suficientes para el catastro de todos los valores de flete del transportista, será necesario que cree una nueva pestaña dentro del mismo archivo, con el mismo encabezado para seguir llenando las informaciones.
   
-<div class="alert alert-warning">  
-<strong>Nota 2:</strong>Ponga atención en el tamaño del archivo, pues si él pasa de 10MB será necesario con la extensión <em>.zip</em>. Este archivo .zip también debe tener menos de 10 MB para que el upload funcione. Si, aún así, el archivo excede el límite, recomendamos dividir en más transportistas.
-</div>
+>⚠️ **Nota 2:**Ponga atención en el tamaño del archivo, pues si él pasa de 10MB será necesario con la extensión *.zip*. Este archivo .zip también debe tener menos de 10 MB para que el upload funcione. Si, aún así, el archivo excede el límite, recomendamos dividir en más transportistas.
 
 Para saber cómo registrar el transportista, acceda al artículo [Gestionar transportista](http://help.vtex.com/es/tutorial/gestionar-transportista).
 

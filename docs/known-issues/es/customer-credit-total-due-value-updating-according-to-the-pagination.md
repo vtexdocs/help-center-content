@@ -18,9 +18,7 @@ internalReference: 432587
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 El valor del "Total a pagar" en una cuenta de crédito de cliente no está mostrando el valor total, sino el valor total en la paginación actual de la UI

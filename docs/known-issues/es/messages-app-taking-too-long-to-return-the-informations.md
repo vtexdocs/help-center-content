@@ -18,9 +18,7 @@ internalReference: 567305
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 En el proceso de indexación, llamamos a la aplicación de mensajes para guardar la información traducida de los productos, el principal problema es que las peticiones están tardando demasiado en volver y con eso, algunas tiendas que tienen muchos idiomas no indexan completamente o tienen sus indexaciones atascadas.

@@ -45,9 +45,7 @@ Veja abaixo os cabeçalhos que aceitam edição:
 
 É possível configurar um cabeçalho personalizado, ou seja, um valor que não padronizado e é específico para os requisitos ou as funcionalidades específicas da loja.
 
-<div class="alert alert-warning">
-Cada conta só pode adicionar um único cabeçalho personalizado.
-</div>
+>⚠️ Cada conta só pode adicionar um único cabeçalho personalizado.
 
 Se você precisar configurar um cabeçalho personalizado, abra um ticket para o Suporte da VTEX, fornecendo as chaves e os valores a serem definidos, pois você será totalmente responsável por essas informações. Consulte a documentação do MDN sobre [cabeçalhos](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers) para usar como guia.
 

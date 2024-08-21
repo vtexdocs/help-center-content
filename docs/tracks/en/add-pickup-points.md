@@ -74,9 +74,7 @@ To upload a spreadsheet containing pickup points, follow the steps below:
 
 ## API REST
 
-<div class="alert alert-warning">
-Authentications for the Logisitics module API REST calls must be made using AppKey and AppToken. For more info, accesss our article on <a href="https://help.vtex.com/en/tutorial/create-appkey-and-apptoken-to-authenticate-integrations--43tQeyQJgAKGEuCqQKAOI2">how to create an Appkey and AppToken to authenticate your integrations</a>
-</div>
+>⚠️ Authentications for the Logisitics module API REST calls must be made using AppKey and AppToken. For more info, accesss our article on [how to create an Appkey and AppToken to authenticate your integrations](https://help.vtex.com/en/tutorial/create-appkey-and-apptoken-to-authenticate-integrations--43tQeyQJgAKGEuCqQKAOI2)
 
 To add a **Pickup Point** through API, you need to send a __POST__ to the following endpoint:
 

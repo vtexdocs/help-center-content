@@ -18,9 +18,7 @@ internalReference: 907294
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Às vezes, quando alteramos a edição de uma conta ou espaço de trabalho, podemos encontrar o seguinte erro:

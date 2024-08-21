@@ -18,9 +18,7 @@ internalReference: 529043
 
 ## Sumario
 
-<div class="alert alert-info">
-  <p>Este problema conocido ha sido traducido automáticamente del inglés.</p>
-</div>
+>ℹ️ Este problema conocido ha sido traducido automáticamente del inglés.
 
 
 Cuando el carrito está compuesto por dos artículos, y el tipo de envío es programado, al añadir el primer artículo al carrito con envío gratuito, y se trata del mismo SLA, la caja acaba cobrando el valor de este envío, ya que no sabe cómo tratar el cálculo de la distribución de los valores de los portes entre los artículos, ya que se trata de un envío programado y el precio de la ventana es para un paquete en su conjunto.

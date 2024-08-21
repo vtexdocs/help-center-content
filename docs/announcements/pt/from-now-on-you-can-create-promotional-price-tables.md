@@ -39,12 +39,8 @@ Caso você ainda não tenha uma tabela de preços ou se quiser criar uma nova, o
 
 Completando os passos acima, sua tabela de preços promocionais vai estar ativa e pronta para ser aplicada. Mas lembre-se de que a promoção leva __10 minutos__ até ficar visível e começar a ser refletida nos pedidos na loja.
 
-<div class="alert alert-info">
-Há algumas características específicas dessa promoção que devem ser levadas em conta no momento da criação e utilização:</br>
-<strong>1-</strong> O preço configurado na tabela de preço vai ser aplicado apenas se o valor for menor que o configurado na política comercial usada pelo site. <em>Exemplo:</em> o item que possui um preço de R$ 199,00 só terá o valor da tabela aplicado se este último for menor do que R$ 199,00.</br>
-<strong>2-</strong> Promoções de tabelas de preços concorrem entre si e com as demais promoções configuradas que manipulam preços. Ou seja, caso exista mais de uma promoção de tabela de preço configurada e ao menos uma promoção de desconto percentual, nominal ou fórmula (ativas e elegíveis ao carrinho em questão), o menor preço entre elas é o que será aplicado.
-</div>
+>ℹ️ Há algumas características específicas dessa promoção que devem ser levadas em conta no momento da criação e utilização:</br>
+> **1-** O preço configurado na tabela de preço vai ser aplicado apenas se o valor for menor que o configurado na política comercial usada pelo site. *Exemplo:* o item que possui um preço de R$ 199,00 só terá o valor da tabela aplicado se este último for menor do que R$ 199,00.</br>
+> **2-** Promoções de tabelas de preços concorrem entre si e com as demais promoções configuradas que manipulam preços. Ou seja, caso exista mais de uma promoção de tabela de preço configurada e ao menos uma promoção de desconto percentual, nominal ou fórmula (ativas e elegíveis ao carrinho em questão), o menor preço entre elas é o que será aplicado.
 
-<div class="alert alert-warning">
-Só é possível configurar <strong>uma tabela de preço por promoção</strong>. E, hoje, há um limite de <strong>até 5 promoções de tabelas de preços simultâneas</strong> para cada loja.
-</div>
+>⚠️ Só é possível configurar **uma tabela de preço por promoção**. E, hoje, há um limite de **até 5 promoções de tabelas de preços simultâneas** para cada loja.

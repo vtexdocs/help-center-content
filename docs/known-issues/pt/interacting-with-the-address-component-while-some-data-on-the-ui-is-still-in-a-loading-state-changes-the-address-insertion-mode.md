@@ -18,9 +18,7 @@ internalReference: 423811
 
 ## Sumário
 
-<div class="alert alert-info">
-  <p>Este problema conhecido foi traduzido automaticamente do inglês.</p>
-</div>
+>ℹ️ Este problema conhecido foi traduzido automaticamente do inglês.
 
 
 Quando o usuário decide alterar seu endereço enquanto alguns dados respectivos ainda estão sendo carregados na página, o componente de endereço muda de geolocalização para o componente com um menu suspenso. Os dados podem ser, por exemplo, a seleção de uma loja para retirada. Enquanto os dados são carregados na interface, o usuário clica em "alterar endereço" e, com isso, o endereço de retorno fica em outro componente, não no componente de geolocalização.

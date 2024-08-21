@@ -24,10 +24,8 @@ Among the marketplaces available, there are VTEX marketplaces and external marke
 | **VTEX** | These are the profiles of VTEX clients that chose to make their environment available for sellers to sell products. |
 | **External** | Marketplaces that are not VTEX clients and did the integration, whether certified or partner. |  
 
-<div class="alert alert-info">
-Note that <b>Marketplaces and Integrations</b> is a tool that fosters contact between potential partners, yet it is not a mandatory step in becoming a VTEX marketplace.  
-If you want to act as a VTEX marketplace, read the <a href="https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex">Marketplace strategies at VTEX</a>.  
-</div>
+>ℹ️ Note that **Marketplaces and Integrations** is a tool that fosters contact between potential partners, yet it is not a mandatory step in becoming a VTEX marketplace.  
+> If you want to act as a VTEX marketplace, read the [Marketplace strategies at VTEX](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#sendo-seller-vtex).
 
 ## Looking for marketplaces  
 

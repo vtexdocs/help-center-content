@@ -38,4 +38,4 @@ https://documenter.getpostman.com/view/322855/pci/Hs3y#56ae3651-0086-7cbc-faec-5
 El response que devolvió la llamada "GET Rule by ID" anterior, será el request de la siguiente llamada "POST Rule by ID", para grabar la nueva configuración, en donde se deberá modificar únicamente el valor "interestRateMethod": 1:
 https://documenter.getpostman.com/view/322855/pci/Hs3y#80db2e68-0913-668b-36ea-b484a839d9ab
 
-<div class="alert alert-danger">IMPORTANTE: Actualmente, solo se logra modificar la forma de pago mediante API. En caso de necesitar modificar la forma de pago desde la interfáz de usuario, se deberá repetir el proceso de configuración por API, ya que al Guardar los cambios, se irá a tomar valor vacío por defecto.</div>
+>❗ IMPORTANTE: Actualmente, solo se logra modificar la forma de pago mediante API. En caso de necesitar modificar la forma de pago desde la interfáz de usuario, se deberá repetir el proceso de configuración por API, ya que al Guardar los cambios, se irá a tomar valor vacío por defecto.
