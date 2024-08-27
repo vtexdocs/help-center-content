@@ -53,7 +53,7 @@ Para realizar el mapeo de categorías:
 
 5. Haz clic en el botón `Guardar cambios`.
 
->❗ Los campos marcados con un asterisco * son obligatorios.
+>❗ Los campos marcados con un asterisco (`*`) son obligatorios.
 >
 >
 > Al ingresar un atributo pueden activarse nuevos campos obligatorios que solo serán visibles en la página **Marketplace > Conexiones > Productos,** después de guardar el mapeo.</br>

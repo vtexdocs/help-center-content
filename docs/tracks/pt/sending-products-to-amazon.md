@@ -54,7 +54,7 @@ Para realizar o mapeamento de categorias:
 
 5. Clique no botão __`Salvar Alterações`__.  
 
->❗ Os campos sinalizados com o asterisco ***** são obrigatórios.  
+>❗ Os campos sinalizados com o asterisco (`*`) são obrigatórios.  
 > O preenchimento de um atributo pode desencadear novos campos obrigatórios que só ficarão visíveis na página ** Marketplace> Conexões> Produtos, ** após salvar o mapeamento.  
 
 ### Mapeamento via Planilha  

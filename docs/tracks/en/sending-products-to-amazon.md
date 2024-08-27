@@ -51,7 +51,7 @@ To map a category, follow these steps:
 4. Match the attributes in the side window, as shown in the image below: ![Amazon Mapper Attributes](https://downloads.ctfassets.net/alneenqid6w5/3gw5pXd6bvjIMs4ydBLmwv/da4ea7365efc744b036e55305feaea6f/mapper_amazon_atributos.gif)  
 5. Click the `Save Changes` button.  
 
->❗ Fields with an * asterisks are required.
+>❗ Fields with an asterisk (`*`) are required.
 >
 >
 > Completing an attribute can trigger new required fields that only become visible under **Marketplace > Connections > Products** after the mapping has been saved.</br>
