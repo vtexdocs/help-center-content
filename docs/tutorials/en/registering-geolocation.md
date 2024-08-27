@@ -83,5 +83,4 @@ If you need to change some delivery area of a polygon that already exists, you c
 
 Here the process is even simpler, because you don't need to change any information on the freight spreadsheet, since the system performs the search by ID.
 
-<div class = "alert alert-warning"> If the carrier and freight worksheet were created before registering the Polygon, we recommend that you edit the carrier that has a link with this Polygon to update the relationship. With this after Creating or Modifying a Polygon, open the carrier and click Save, just to raise awareness of an update.
-</div>
+>⚠️ If the carrier and freight worksheet were created before registering the Polygon, we recommend that you edit the carrier that has a link with this Polygon to update the relationship. With this after Creating or Modifying a Polygon, open the carrier and click Save, just to raise awareness of an update.

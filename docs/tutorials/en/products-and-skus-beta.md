@@ -15,9 +15,7 @@ legacySlug: products-and-skus-beta
 subcategory: 6XPsLadoT3moZ7eTduCg3c
 ---
 
-<div class = "alert alert-info">
-  <p>This feature is in beta, which means that we are working to improve it. If you have any questions, please contact <a href = "https://support.vtex.com/hc/pt-br/requests">our Support</a>.</p>
-</div>
+>ℹ️ This feature is in beta, which means that we are working to improve it. If you have any questions, please contact <a href = "https://support.vtex.com/hc/pt-br/requests">our Support</a>.
 
 The **Products and SKUs** page allows you to view and manage the list of all products in your store, including information about SKUs, last updated, and status. To access it, go to **Catalog > Products and SKUs**.
 

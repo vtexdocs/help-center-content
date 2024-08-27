@@ -38,10 +38,9 @@ La pista reúne los artículos:
 * [Costos y simulación de envío](https://help.vtex.com/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/3by48jFhzpZEseYFpH9uVt): explica cómo registrar los costos de envío y cómo utilizar la herramienta de simulación de envío de la tienda.
 * [Entregas programadas y capacidad de entrega](https://help.vtex.com/es/tracks/logistica-101--13TFDwDttPl9ki9OXQhyjx/5TuyqHRCCwYMaDv4r8rZdo): explica cómo la tienda debe ofrecer a los clientes las entregas programadas, así como gestionar la capacidad de entrega. 
 
-<div class = "alert alert-info"> Si tu tienda ya ha dado los primeros pasos en el módulo de <b>Inventario y envío</b>, consulta el artículo <a href="https://help.vtex.com/es/tutorial/logistics--53udnvI5eBy8DKo8FOjMoP">Logística</a>, para acceder rápidamente a la información de las secciones del módulo <b>Inventario y envío</b>. 
-Consulta el artículo <a href="https://help.vtex.com/en/tutorial/logistics-glossary--16DSSiXn548rsidi0A8Hby">Glosario de logística</a> para consultar el significado de los términos logísticos utilizados en VTEX.
-Las configuraciones logísticas disponibles mediante <a href="https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview">API</a>. 
-</div>
+>ℹ️ Si tu tienda ya ha dado los primeros pasos en el módulo de **Inventario y envío**, consulta el artículo [Logística](https://help.vtex.com/es/tutorial/logistics--53udnvI5eBy8DKo8FOjMoP), para acceder rápidamente a la información de las secciones del módulo **Inventario y envío**. 
+> Consulta el artículo [Glosario de logística](https://help.vtex.com/en/tutorial/logistics-glossary--16DSSiXn548rsidi0A8Hby) para consultar el significado de los términos logísticos utilizados en VTEX.
+> Las configuraciones logísticas disponibles mediante [API](https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview).
 
 El módulo de **Inventario y envío** se divide en las siguientes secciones:
 
@@ -57,9 +56,7 @@ El módulo de **Inventario y envío** se divide en las siguientes secciones:
 
 ![estoque e entregaES](https://images.ctfassets.net/alneenqid6w5/21rlEVE55jPh2hYBKTn99U/a66b016481c796b9170823b1c111d3d9/estoque_e_entregaES.png)
 
-<div class = "alert alert-info">
-Los clientes que utilizan <a href="https://vtex.com/ar-es/">VTEX Shipping Network</a> acceden a la funcionalidad a través del módulo Inventario y envío.
-</div>
+>ℹ️ Los clientes que utilizan [VTEX Shipping Network](https://vtex.com/ar-es/) acceden a la funcionalidad a través del módulo Inventario y envío.
 
 Consulta los siguientes artículos de la pista para conocer el orden en que deben configurarse estas secciones y cómo interpreta la plataforma esta configuración.
 

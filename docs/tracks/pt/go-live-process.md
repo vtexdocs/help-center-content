@@ -20,9 +20,7 @@ Neste tutorial você encontra o passo a passo detalhado de como realizar o go-li
 
 ![Go-live](https://images.ctfassets.net/alneenqid6w5/1DBW4Cw10Z3Gt4orXMAqWE/032594f36e1fe4fda13252502060b753/go_live_pt.jpg)
 
-<div class = "alert alert-info">
-Note que uma loja em produção é diferente de uma conta em produção. De modo geral, pode-se dizer que para ter uma loja em produção é necessário colocar a conta em produção e realizar o apontamento de DNS. Confira abaixo todos os passos envolvidos nesse processo.
-</div>
+>ℹ️ Note que uma loja em produção é diferente de uma conta em produção. De modo geral, pode-se dizer que para ter uma loja em produção é necessário colocar a conta em produção e realizar o apontamento de DNS. Confira abaixo todos os passos envolvidos nesse processo.
 
 ## Antes de começar
 
@@ -36,9 +34,7 @@ Copie esta [Checklist de configuração de loja](https://assets.ctfassets.net/al
 
 O processo de go-live da sua loja pode ter variações dependendo de algumas características da sua operação. Além disso, alguns passos são sensíveis ao tempo. Por esses motivos recomendamos que planeje o processo completo do seu go-live com no mínimo 15 dias de antecedência.
 
-<div class = "alert alert-info">
-  <p>Se você usa o CMS Legado Portal e deseja migrar para uma frente de loja construída com <a href="https://help.vtex.com/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">VTEX IO</a>, siga as instruções no guia <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io">Migrando sua frente de loja do CMS Legado Portal para Store Framework</a>.</p>
-</div>
+>ℹ️ Se você usa o CMS Legado Portal e deseja migrar para uma frente de loja construída com [VTEX IO](https://help.vtex.com/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), siga as instruções no guia [Migrando sua frente de loja do CMS Legado Portal para Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io).
 
 Por motivo de organização e conveniência, este guia divide os passos envolvidos no go-live em quatro estágios:
 

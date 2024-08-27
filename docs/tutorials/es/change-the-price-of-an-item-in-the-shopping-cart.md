@@ -41,7 +41,5 @@ La seguridad operativa de esta funcionalidad se basa en controlar el acceso de p
 
 Una vez que se cierra el pedido, el precio ingresado manualmente debe ser aprobado por el administrador de la tienda o un usuario con permiso en el sistema de [Autorización de pedidos](https://help.vtex.com/es/tutorial/how-order-authorization-works--3MBK6CmKHAuUjMBieDU0pn).
 
-<div class = "alert alert-info">
-Una vez validado el valor del precio manual, el pedido sigue el flujo de facturación normal.
-</div>
+>ℹ️ Una vez validado el valor del precio manual, el pedido sigue el flujo de facturación normal.
 

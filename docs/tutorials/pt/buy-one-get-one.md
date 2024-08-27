@@ -64,9 +64,7 @@ Nesta seção, é possível definir para quais sellers a promoção será aplica
 
 Para que a promoção seja válida para todos os sellers, deixe a seleção vazia.
 
-<div class = "alert alert-warning">
-  <p>Não é possível selecionar diretamente um seller white label. Para incluir um seller white na promoção, existem duas opções:</p><ol>1. Restringir os sellers à loja principal. Essa restrição adiciona todos os sellers white label da sua loja à promoção.</ol><ol>2. Deixar a seleção vazia, incluindo todos os sellers. Aqui, todos os tipos de sellers - white label ou não - serão adicionados à promoção.</ol>
-</div>
+>⚠️ Não é possível selecionar diretamente um seller white label. Para incluir um seller white na promoção, existem duas opções:1. Restringir os sellers à loja principal. Essa restrição adiciona todos os sellers white label da sua loja à promoção.2. Deixar a seleção vazia, incluindo todos os sellers. Aqui, todos os tipos de sellers - white label ou não - serão adicionados à promoção.
 
 ![Restringir esta promoção a produtos dos sellers](https://images.ctfassets.net/alneenqid6w5/3Up0CJMzHHY9rZO0LLRXuw/cf6fdde6e939077f04001cb3e76f02b5/Restringir_esta_promo__o_a_produtos_dos_sellers.png)
 
@@ -91,13 +89,9 @@ Esta seção define as coleções, SKUs e quantidade mínima que devem ser preen
 - **SKUs**: permite inserir o nome ou ID dos SKUs nos quais deseja que o desconto seja aplicado. É possível realizar a  importação de uma lista de SKUs, que deve estar salvo em um arquivo de texto (**.txt**) com cada ID descrito em uma linha diferente.
 - **Quantidade mínima**: permite definir a quantidade mínima de produtos que devem ser inseridos no carrinho, para que o desconto seja concedido. Esse campo é de preenchimento obrigatório.
 
-<div class = "alert alert-warning">
-<p>A promoção não será criada caso os campos de Coleções ou SKUs não estejam preenchidos.</p>
-</div>
+>⚠️ A promoção não será criada caso os campos de Coleções ou SKUs não estejam preenchidos.
 
-<div class = "alert alert-warning">
-<p>Uma promoção Compre e Ganhe pode ser criada com o máximo de 100 SKUs diferentes ao mesmo tempo.</p>
-</div>
+>⚠️ Uma promoção Compre e Ganhe pode ser criada com o máximo de 100 SKUs diferentes ao mesmo tempo.
 
 ![Compre e Ganhe](https://images.ctfassets.net/alneenqid6w5/27rGDqH0dMTcgA8m7cWs27/e818e8a1252f1b46032be2d043fa62cb/Compre_e_Ganhe.png)
 

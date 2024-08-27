@@ -125,7 +125,5 @@ Es común que agencias y [partners de implementación ](https://vtex.com/mx-es/p
 
 El [Cuadrante VTEX](https://vtex.com/pt-br/blog/parceiros/quadrante_vtex_2023/) es un programa en que VTEX evalúa internamente el rendimiento y los resultados de éxito de operación de sus partners. Es una forma de reconocer y recompensar anualmente a los partners que demuestren el máximo nivel de entrega y excelencia. [Aquí](https://vtex.com/pt-br/blog/parceiros/quadrante_vtex_2023/) puedes ver el resultado del Cuadrante VTEX 2023.
 
-<div class = "alert alert-info">
-El <a href="https://vtex.com/pt-br/blog/parceiros/quadrante_vtex_2023/">Cuadrante VTEX</a> es un programa exclusivo para partners de implementación en Brasil.
-</div>
+>ℹ️ El [Cuadrante VTEX](https://vtex.com/pt-br/blog/parceiros/quadrante_vtex_2023/) es un programa exclusivo para partners de implementación en Brasil.
 

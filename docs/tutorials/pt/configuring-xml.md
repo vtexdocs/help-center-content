@@ -36,9 +36,7 @@ Veja a seguir alguns exemplos de parceiros que integram com o XML da VTEX:
 - UOL Dynad
 - Zanox
 
-<div class = "alert alert-info">
-  <p>Alterações no XML levam em média duas horas para serem atualizadas.</p>
-</div>
+>ℹ️ Alterações no XML levam em média duas horas para serem atualizadas.
 
 ## Novo XML
 

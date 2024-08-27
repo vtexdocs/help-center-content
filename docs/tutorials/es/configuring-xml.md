@@ -36,9 +36,7 @@ He aquí algunos ejemplos de *partners* que se integran con VTEX XML:
 - UOL Dynad
 - Zanox
 
-<div class = "alert alert-info">
-  <p>Los cambios en XML tardan en promedio dos horas en actualizarse.</p>
-</div>
+>ℹ️ Los cambios en XML tardan en promedio dos horas en actualizarse.
 
 ## Nuevo XML
 

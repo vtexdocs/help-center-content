@@ -46,9 +46,7 @@ These fields were removed from the connector registers and the following message
 
 > Note: Orders with price divergence between the marketplace and VTEX will only be integrated after [configuring a Price Divergence rule](https://help.vtex.com/en/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe).
 
-<div class = "alert alert-info">
-When first integrating with a native connector, it is recommended that the seller create the Price Divergence rule before configuring the integration. Not following the recommendation does not prevent the integration from being completed.
-</div>
+>ℹ️ When first integrating with a native connector, it is recommended that the seller create the Price Divergence rule before configuring the integration. Not following the recommendation does not prevent the integration from being completed.
 
 For the seller that integrates with a native connector for the first time and does not create the Price Divergence rule, orders with price divergence error will be pending in the VTEX Admin, in **MARKETPLACE > Integrations > Orders**. The error message on the interface is as follows:
 

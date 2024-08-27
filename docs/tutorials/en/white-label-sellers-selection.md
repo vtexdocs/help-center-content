@@ -22,9 +22,7 @@ There are two types of sellers on the VTEX platform:
 - **Common seller:** The seller is visible for customers in the marketplace and can be chosen by the customer during their shopping experience.
 - **[White label seller](https://help.vtex.com/en/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa):** The seller remains unknown to the customer during their shopping experience and is automatically selected by the VTEX platform to deliver the order. 
 
-<div class = "alert alert-info">
-At VTEX, a franchise account is associated with a main account, and it acts as a white label seller of the main account. This business model is strategic for retailers who want to connect physical stores to their digital sales channel. Learn more in <a href="https://help.vtex.com/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl">What is a franchise account?</a>.
-</div>
+>ℹ️ At VTEX, a franchise account is associated with a main account, and it acts as a white label seller of the main account. This business model is strategic for retailers who want to connect physical stores to their digital sales channel. Learn more in [What is a franchise account?](https://help.vtex.com/en/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl).
 
 When the customer browses the marketplace, either the window display or the shopping cart, the seller information regarding item availability and shipping options may vary, depending on the marketplace knowing or not the buyer's location. Therefore, this article is divided into the following:
 
@@ -39,9 +37,7 @@ When customers browse the marketplace, they expect to view products that can be 
 - [Window display when customer location is not defined.](#window-display-when-customer-location-is-not-defined)
 - [Window display when customer location is defined.](#window-display-when-customer-location-is-defined)
 
-<div class = "alert alert-info">
-During the window display stage of the shopping experience, the VTEX platform does not consider the sellers' shipping options. This only happens when the customer enters the address at checkout. However, the price and availability presented in the window display may change when completing the purchase.
-</div>
+>ℹ️ During the window display stage of the shopping experience, the VTEX platform does not consider the sellers' shipping options. This only happens when the customer enters the address at checkout. However, the price and availability presented in the window display may change when completing the purchase.
 
 ### Window display when customer location is not defined
 
@@ -79,9 +75,7 @@ After filtering all sellers based on the criteria above, up to six sellers will 
 - [Delivery](#shipping-method-delivery): the customer receives the order at their address.
 - [Pickup](#shipping-method-pickup): the customer picks up the order from a [pickup point](https://help.vtex.com/en/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R).
 
-<div class = "alert alert-info">
-By default, from a total of up to twelve sellers, up to six do delivery and up to six offer pickup. However, if less than six sellers meet the criteria for one shipping method, the other category may list more than six sellers. For example, if there are only five sellers for order delivery, the pickup list may have seven sellers, so that the total adds up to twelve sellers.
-</div>
+>ℹ️ By default, from a total of up to twelve sellers, up to six do delivery and up to six offer pickup. However, if less than six sellers meet the criteria for one shipping method, the other category may list more than six sellers. For example, if there are only five sellers for order delivery, the pickup list may have seven sellers, so that the total adds up to twelve sellers.
 
 #### Shipping method: delivery
 
@@ -96,13 +90,12 @@ The selection of up to six white label sellers for delivery shipping consists of
 6. Based on the selection of sellers covering the shopping cart, the VTEX platform calculates the combinations with the lowest number of sellers.
 7. Out of these combinations, a list of maximum six sellers is made for delivery shipping.
 
-<div class = "alert alert-info">
-During selection, different sellers may come to a tie. In that case, the selection is divided into two criteria in order to choose:
-  <ul>
-    <li>Up to three sellers with the best cost.</li>
-    <li>Up to three sellers with the best time.</li>
-  </ul>
-</div>
+>ℹ️ During selection, different sellers may come to a tie. In that case, the selection is divided into two criteria in order to choose:
+>
+> * Up to three sellers with the best cost.
+>
+> * Up to three sellers with the best time.
+>   
 
 If there is a tie between sellers on the best cost or time, the tiebreaker criterion is the seller with the highest quantity of SKUs in stock.
 
@@ -168,9 +161,7 @@ The selection of up to six sellers is made for the customer to get all shopping 
     - **Best time:** Sellers which make the products available for pickup in the shortest time.
     - **Best cost:** Sellers which offer the cheapest prices for order pickup.
 
-<div class = "alert alert-info">
-When there is a tie between the best cost and best time, the tiebreak criterion is the seller with the highest quantity of SKUs in stock.
-</div>
+>ℹ️ When there is a tie between the best cost and best time, the tiebreak criterion is the seller with the highest quantity of SKUs in stock.
 
 ##### Example for pickup shipping
 

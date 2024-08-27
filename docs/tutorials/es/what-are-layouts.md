@@ -19,10 +19,10 @@ Los __layouts__ son los responsables de determinar qué [placeholders](/es/tutor
 
 Esto se hace primero a partir de la configuración del placeholder, que va a decir qué tipo es utilizado y el archivo que va a llenarlo. Después, para que el layout se sea funcional, debe estar vinculado a un [template](/es/tutorial/que-son-templates). Así, el código de la página en la que se mostrará el placeholder va a saber exactamente de dónde viene la información.
 
-<div class = "alert alert-warning">
-<strong>Importante:</strong><br>
-Para funcionar, cada layout debe estar vinculado a un solo template.
-</div>
+>⚠️ **Importante:**
+>
+> 
+> Para funcionar, cada layout debe estar vinculado a un solo template.
 
 ### Artículos relacionados
 - [¿Qué es el CMS?](/es/faq/que-es-el-cms)

@@ -17,9 +17,7 @@ subcategory: 2t00bBkcAwIkgSCGKsMOwY
 
 Os clientes da sua loja podem solicitar a troca ou devolução de itens de um pedido. Dessa forma, a funcionalidade **Devolução de itens** permite remover itens de um pedido para que produtos sejam devolvidos.
 
-<div class = "alert alert-info">
-Consulte o artigo <a href="https://help.vtex.com/pt/tutorial/como-devolver-itens-do-pedido-beta--2bSNWwD0g8fcUmuupLao9i">Como devolver itens do pedido (Beta)</a> para saber como utilizar a funcionalidade no Admin V4.
-</div>
+>ℹ️ Consulte o artigo [Como devolver itens do pedido (Beta)](https://help.vtex.com/pt/tutorial/como-devolver-itens-do-pedido-beta--2bSNWwD0g8fcUmuupLao9i) para saber como utilizar a funcionalidade no Admin V4.
 
 Para realizar a devolução pelo Admin VTEX, realize os seguintes passos:
 

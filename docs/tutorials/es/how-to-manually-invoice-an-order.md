@@ -24,9 +24,7 @@ Facturar un pedido en la plataforma VTEX significa ingresar la factura de los í
 * A través de la [API](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice) de envío de facturas.
 * A través del Admin VTEX.
 
-<div class = "alert alert-info">
-Al facturar un pedido, es posible cambiar la <a href="https://help.vtex.com/es/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE">transportadora</a> asociada al pedido. Para hacer esto, en la sección <b>Seguimiento del pedido</b>, haga clic en <i>Transportadora</i> y seleccione la opción deseada.
-</div>
+>ℹ️ Al facturar un pedido, es posible cambiar la [transportadora](https://help.vtex.com/es/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) asociada al pedido. Para hacer esto, en la sección **Seguimiento del pedido**, haga clic en <i>Transportadora</i> y seleccione la opción deseada.
 
 Para enviar una factura a través del Admin VTEX, siga los pasos a continuación:
 

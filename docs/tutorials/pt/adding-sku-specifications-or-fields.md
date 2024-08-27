@@ -33,9 +33,7 @@ Neste artigo, explicamos como funciona a herança das especificações que você
         * [Cadastro do SKU](#cadastro-do-sku)
         * [Planilha](#planilha)
 
-<div class = "alert alert-info">
-  <p>Para criar uma especificação de SKU utilizando a <strong>Catalog API</strong>, siga o guia para desenvolvedores <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a>.</p>
-</div>
+>ℹ️ Para criar uma especificação de SKU utilizando a **Catalog API**, siga o guia para desenvolvedores [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification).
 
 ## Herança de especificações de SKU
 
@@ -55,9 +53,7 @@ Veja o passo a passo completo nas seções a seguir.
 
 ### Criar um campo de SKU
 
-<div class = "alert alert-warning">
-  <p>Uma vez criados, campos de SKU não podem ser apagados. Se você tornar o campo inativo, todos os SKUs que estão na categoria ficarão inativos, até que o campo fique ativo novamente. Não preencher uma especificação no cadastro do SKU pode ser uma das causas para que o SKU não apareça no site, pois ele fica inativo.</p>
-</div>
+>⚠️ Uma vez criados, campos de SKU não podem ser apagados. Se você tornar o campo inativo, todos os SKUs que estão na categoria ficarão inativos, até que o campo fique ativo novamente. Não preencher uma especificação no cadastro do SKU pode ser uma das causas para que o SKU não apareça no site, pois ele fica inativo.
 
 Para criar um campo de SKU, siga as instruções abaixo:
 
@@ -65,9 +61,7 @@ Para criar um campo de SKU, siga as instruções abaixo:
 2. Clique em **Categorias**.
 3. Clique na categoria associada ao grupo de especificações em que você deseja criar um campo de SKU.
 
-    <div class = "alert alert-warning">
-      <p>Observe que ao criar um campo em um nível de categoria mais alto, a especificação será apresentada em todos os níveis de categoria abaixo dela.</p>
-    </div>
+    >⚠️ Observe que ao criar um campo em um nível de categoria mais alto, a especificação será apresentada em todos os níveis de categoria abaixo dela.
 
 3. Clique em `Ações` <i class="fas fa-angle-down"></i>.
 4. Clique em `Campo (SKU)`.
@@ -138,9 +132,7 @@ Os **Valores** dos campos de SKU irão variar de acordo com o tipo do campo esco
 
 ![sku-spec-2](https://images.ctfassets.net/alneenqid6w5/5MwO6aTSuIzCbxlrnzjTHQ/066317aa51dbd5521e83f85d9923782f/pt-sku-spec-2.gif)
 
-<div class = "alert alert-info">
-  <p>Caso esteja cadastrando os primeiros valores de um campo, é necessário voltar no formulário daquele campo específico e marcar a opção <strong>Ativo</strong>.</p>
-</div>
+>ℹ️ Caso esteja cadastrando os primeiros valores de um campo, é necessário voltar no formulário daquele campo específico e marcar a opção **Ativo**.
 
 #### Acessar ou editar valores cadastrados
 

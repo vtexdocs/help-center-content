@@ -19,9 +19,7 @@ Customers may request to cancel their order for various reasons. They can [cance
 
 >❗ Once an order is canceled, it is no longer possible to change its status.
 
-<div class = "alert alert-warning">
-Orders with <a href="https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe">partial invoices</a> cannot be <a href="https://help.vtex.com/en/tutorial/como-cancelar-pedido--tutorials_186">canceled</a>. If the customer wants to replace or remove items from the order, it is possible to <a href="https://help.vtex.com/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190">change the order</a>.
-</div>
+>⚠️ Orders with [partial invoices](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](https://help.vtex.com/en/tutorial/como-cancelar-pedido--tutorials_186). If the customer wants to replace or remove items from the order, it is possible to [change the order](https://help.vtex.com/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
 ## Cancellation within the grace period
 
@@ -29,9 +27,7 @@ When the customer requests to cancel an order during the [grace period](https://
 
 * Customers must request the cancellation in __My Orders__, by clicking `Request order cancellation`.
 
-<div class = "alert alert-info">
-When the customer requests the order's cancellation within the grace period, the notification of this action is sent only to the <a href="https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">Sponsor user</a> (admin master) of the account.
-</div>
+>ℹ️ When the customer requests the order's cancellation within the grace period, the notification of this action is sent only to the [Sponsor user](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) (admin master) of the account.
 
 ## Cancellation approved by the retailer
 

@@ -15,9 +15,7 @@ legacySlug: anunciando-com-vtex-ad-network-beta
 subcategory: 2AksvvAtAsbAfE7HsBIVDU
 ---
 
-<div class = "alert alert-info">
-<p>O VTEX Ad Network está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o <a href="https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Suporte Comercial</a>. Se ainda não é cliente, mas tem interesse nesta solução, preencha o <a href="https://vtex.com/br-pt/contato/">formulário de contato</a>.</p>
-</div>
+>ℹ️ O VTEX Ad Network está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Se já é cliente da VTEX e deseja adotar essa funcionalidade em seu negócio, entre em contato com o [Suporte Comercial](https://help.vtex.com/pt/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). Se ainda não é cliente, mas tem interesse nesta solução, preencha o [formulário de contato](https://vtex.com/br-pt/contato/).
 
 Com [VTEX Ad Network (Beta)](https://help.vtex.com/pt/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur), você pode anunciar produtos da sua marca em frentes de lojas VTEX que possuem seu produto no catálogo.
 
@@ -36,9 +34,7 @@ Se você já é um anunciante do **VTEX Ad Network**, confira neste artigo como 
 
 Para criar uma [campanha](https://help.vtex.com/pt/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#campanhas), siga os passos abaixo:
 
-<div class = "alert alert-info">
-Atualmente a VTEX disponibiliza um único formato de anúncio: resultados de pesquisa. Saiba mais sobre este <a href="https://help.vtex.com/pt/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#formato-de-anuncio">formato de anúncio</a>.
-</div>
+>ℹ️ Atualmente a VTEX disponibiliza um único formato de anúncio: resultados de pesquisa. Saiba mais sobre este [formato de anúncio](https://help.vtex.com/pt/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#formato-de-anuncio).
 
 1. No Admin VTEX, acesse **Storefront > Ad Network > Campanhas**.
 2. Clique em `Criar Campanha`.
@@ -125,9 +121,7 @@ Abaixo você encontra uma tabela com informações de cada campanha:
 - **Orçamento:** orçamento total.
 - **Orçamento restante:** orçamento ainda disponível até o momento.
 
-<div class = "alert alert-info">
-Saiba mais sobre <a href="https://help.vtex.com/pt/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#janela-de-atribuicao">atribuição de vendas a anúncios</a>.
-</div>
+>ℹ️ Saiba mais sobre [atribuição de vendas a anúncios](https://help.vtex.com/pt/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#janela-de-atribuicao).
 
 Você pode filtrar os dados da tabela de acordo com estes filtros:
 
@@ -157,7 +151,5 @@ Abaixo dos dados agregados você encontra uma tabela com informações sobre o d
 - **ROAS:** retorno sobre investimento em publicidade.
 - **Orçamento restante:** orçamento ainda disponível até o momento.
 
-<div class = "alert alert-info">
-Saiba mais sobre <a href="https://help.vtex.com/pt/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#janela-de-atribuicao">atribuição de vendas a anúncios</a>.
-</div>
+>ℹ️ Saiba mais sobre [atribuição de vendas a anúncios](https://help.vtex.com/pt/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#janela-de-atribuicao).
 

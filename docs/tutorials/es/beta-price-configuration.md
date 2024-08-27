@@ -15,9 +15,7 @@ legacySlug: configuracion-de-precios-beta
 subcategory: 2XTQ6yFYeU5bGHK8Qq3f4I
 ---
 
-<div class = "alert alert-info">
-  <p>Esta funcionalidad está en versión Beta, lo que significa que estamos trabajando para mejorarla. Si tiene alguna pregunta, póngase en contacto con <a href = "https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.</p>
-</div>
+>ℹ️ Esta funcionalidad está en versión Beta, lo que significa que estamos trabajando para mejorarla. Si tiene alguna pregunta, póngase en contacto con <a href = "https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.
 
 Esta nueva sección de Configuración de precios (Beta) permite crear y gestionar reglas para las tablas de precios, así como cambiar la configuración general de forma práctica y rápida. 
 
@@ -39,9 +37,7 @@ En esta sección, usted puede definir el markup estándar y el límite de variac
 
 - **Sobrescribir precios de sellers:**  esta opción sobrescribe todos los precios de sellers con los de la cuenta actual.
 
-<div class = "alert alert-info">
-  <p>La configuración <b>Sobrescribir precios de sellers</b> no está disponible para sellers White label.</p>
-</div>
+>ℹ️ La configuración **Sobrescribir precios de sellers** no está disponible para sellers White label.
 
 ## Reglas para tablas de precios
 

@@ -28,9 +28,7 @@ Também é possível criar seu próprio template de e-mail. Entenda melhor como 
 
 ## Como seu cliente acompanha seus Pedidos de Assinatura
 
-<div class = "alert alert-info">
-Em <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Minha Conta</a>, os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
-</div>
+>ℹ️ Em [Minha Conta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), os clientes conseguem acessar somente os seus pedidos criados nos últimos dois anos.
 
 Cada ação, ocorrida dentro do fluxo de pedidos de Assinatura, contém um gatilho que dispara um e-mail notificando o seu cliente. Após a ativação da Assinatura, seu cliente receberá e-mails com detalhes do estado de cada pedido da assinatura toda vez que realizar uma ação. 
 

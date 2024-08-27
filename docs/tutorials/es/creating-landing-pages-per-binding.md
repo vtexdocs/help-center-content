@@ -33,15 +33,11 @@ En el Admin, puede crear páginas de destino personalizadas según el [*binding*
 - `Descripción` - Resumen de la nueva página web que se mostrará en las páginas de resultados de los motores de búsqueda. 
 - `Palabras clave` - Temas que definen de qué se trata el contenido de la página para que ella sea más fácil de encontrar para los usuarios que naveguen las páginas de resultados de los motores de búsqueda.
 
-  <div class = "alert alert-info">
-Los cinco campos anteriores afectan directamente los accesos y el posicionamiento de la tienda en las páginas de resultados de los motores de búsqueda. Antes de rellenar los metadatos de la página, consulte las prácticas recomendadas de SEO. 
-</div>
+  >ℹ️ Los cinco campos anteriores afectan directamente los accesos y el posicionamiento de la tienda en las páginas de resultados de los motores de búsqueda. Antes de rellenar los metadatos de la página, consulte las prácticas recomendadas de SEO.
 
 5. Elija un *template* para que se muestre en la página de destino de entre los que están disponibles en el campo `Estándar`.
 6. Si desea crear una plantilla condicional, haga clic en el botón `Añadir template condicional` y rellene los campos según las condiciones deseadas.
 
-  <div class = "alert alert-warning">
-Tenga en cuenta que el <i>template</i> condicional solo se mostrará cuando una <i>o</i> todas las condiciones predefinidas coincidan en la interfaz. 
-</div>
+  >⚠️ Tenga en cuenta que el <i>template</i> condicional solo se mostrará cuando una <i>o</i> todas las condiciones predefinidas coincidan en la interfaz.
 
 7. Guarde los cambios.

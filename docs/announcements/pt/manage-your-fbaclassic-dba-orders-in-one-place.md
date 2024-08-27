@@ -43,6 +43,4 @@ Aprimoramos a integração com a Amazon para permitir que sellers VTEX
 
 Todo seller que utilize a [integração nativa](https://help.vtex.com/pt/tutorial/integrando-com-marketplace/) VTEX - Amazon poderá se beneficiar dessa melhoria sem custo adicional atrelado à VTEX. Para ativar a funcionalidade no Admin VTEX, é necessário registrar e configurar uma das opções no [Seller Central](https://sellercentral.amazon.com/) da Amazon e seguir as instruções na página de [Importação dos pedidos do FBA Classic ou DBA](https://help.vtex.com/pt/tutorial/importacao-de-pedidos-amazon-fba-dba).
 
-<div class = "alert alert-info">
-A funcionalidade Importação dos pedidos do DBA está disponível para lojas VTEX no Brasil.
-</div>
+>ℹ️ A funcionalidade Importação dos pedidos do DBA está disponível para lojas VTEX no Brasil.

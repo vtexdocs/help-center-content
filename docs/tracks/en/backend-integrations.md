@@ -182,9 +182,7 @@ On VTEX, it is important to understand the distinction between products and SKUs
 - [Product](https://help.vtex.com/en/tracks/catalog-101--5AF0XfnjfWeopIFBgs3LIQ/1wmX3QvQVxbKVmalhIE5Ru): Abstract catalog unit, visible on the store shelves.
 - [SKU](https://help.vtex.com/en/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3mJbIqMlz6oKDmyZ2bKJoA): Concrete catalog unit in stock, representing specific variations of a product, such as color, size, and other attributes. SKUs are displayed as individual items on product pages. SKUs are displayed as individual items on product pages.
 
-<div class = "alert alert-info">
-The way in which products and SKUs are structured directly influences the customer's shopping experience.
-</div>
+>ℹ️ The way in which products and SKUs are structured directly influences the customer's shopping experience.
 
 You should import products in the order shown in the table below:
 
@@ -265,9 +263,7 @@ There are two ways of tracking order status changes on VTEX:
 
 For both types of integration, you can apply [filters](https://developers.vtex.com/docs/guides/orders-feed#filter) to select the types of events that the back office should process.
 
-<div class = "alert alert-info">
-For most cases, VTEX recommends integrating orders via <a href="https://developers.vtex.com/docs/guides/orders-feed">Feed v3</a> due to its resilience.
-</div>
+>ℹ️ For most cases, VTEX recommends integrating orders via [Feed v3](https://developers.vtex.com/docs/guides/orders-feed) due to its resilience.
 
 #### Obtaining order details
 
@@ -394,9 +390,7 @@ If you can't find an app that meets the needs of your VTEX store, you can develo
 
   d. **(Optional) Validate whether the app meets your business needs:** Once the version has been published, it may be beneficial to install the app in a [production workspace](https://developers.vtex.com/docs/guides/vtex-io-documentation-creating-a-production-workspace) and conduct an [A/B test](https://developers.vtex.com/docs/guides/ab-tests) in order to compare the sales conversion rate before and after using your new app.
 
-<div class = "alert alert-info">
-If you're interested in learning more about app development, we recommend visiting our <a href="https://learn.vtex.com/">Learning Center</a>.
-</div>
+>ℹ️ If you're interested in learning more about app development, we recommend visiting our [Learning Center](https://learn.vtex.com/).
 
 - **Considering making your app publicly available?** You can [make the app available](https://developers.vtex.com/docs/guides/vtex-io-documentation-making-your-new-app-version-publicly-available) in the App Store, allowing other accounts to leverage the solution you've developed.
 - **Do you want to make your app available on the App Store?** There are some advantages to making your app available on the App Store, such as increasing its visibility and the potential for [monetization](https://developers.vtex.com/docs/guides/vtex-io-documentation-setting-your-apps-billing-model). To do this, you need to follow a few steps and comply with certain rules. In summary, you must become a [registered developer](https://developers.vtex.com/docs/guides/vtex-io-documentation-becoming-a-registered-vtex-app-store-developer), ensure the app code is stored in a [GitHub](https://github.com) repository, develop the app in accordance with the [App Store's best practices](https://developers.vtex.com/docs/guides/vtex-io-documentation-homologation-requirements-for-vtex-app-store), and [submit it](https://developers.vtex.com/docs/guides/vtex-io-documentation-submitting-your-app-in-the-vtex-app-store) to the homologation process. Once it is approved, your app will be available on the App Store.

@@ -15,9 +15,7 @@ legacySlug: vtex-pick-and-pack-hojas-de-trabajo
 subcategory: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-<div class = "alert alert-info">
-Esta función se encuentra en fase beta cerrada, por lo que sólo los clientes seleccionados pueden acceder a ella ahora. Si desea implementarla en el futuro, rellene nuestro <a href="https://vtex.com/co-es/contacto/">formulario</a> apontaby introduciendo el nombre del producto en el campo <code>Comentarios</code>.
-</div>
+>ℹ️ Esta función se encuentra en fase beta cerrada, por lo que sólo los clientes seleccionados pueden acceder a ella ahora. Si desea implementarla en el futuro, rellene nuestro [formulario](https://vtex.com/co-es/contacto/) apontaby introduciendo el nombre del producto en el campo `Comentarios`.
 
 **Hojas de trabajo** es una sección del Admin que gestiona, en tiempo real, las hojas de trabajo que utilizan los alistadores para agrupar y alistar los ítems de cada pedido. El alistador puede agrupar tantos pedidos como desee en cada hoja de trabajo. 
 

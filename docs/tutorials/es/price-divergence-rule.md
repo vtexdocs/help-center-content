@@ -47,9 +47,7 @@ Para crear una regla de Divergencia de precios, el usuario debe tener el rol Adm
 
 Puedes hacer el seguimiento de los pedidos integrados a partir de la regla de Divergencia de precios en el Admin VTEX, en **Pedidos > [Todos los pedidos](https://help.vtex.com/es/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi)**.
 
-<div class = "alert alert-info">
-Es importante hacer un seguimiento periódico de los pedidos en la Gestión de pedidos. Si requieren aprobación manual, los pedidos quedan pendientes hasta que un usuario habilitado conceda la autorización necesaria.
-</div>
+>ℹ️ Es importante hacer un seguimiento periódico de los pedidos en la Gestión de pedidos. Si requieren aprobación manual, los pedidos quedan pendientes hasta que un usuario habilitado conceda la autorización necesaria.
 
 ### Más información
 

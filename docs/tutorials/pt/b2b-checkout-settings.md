@@ -62,9 +62,7 @@ Siga as instruções abaixo para personalizar o processo de checkout B2B na sua 
 <li>Ao habilitar <code>Mostrar botão Criar uma cotação</code>, será adicionado o botão <code>Criar uma cotação</code> no checkout, que permite criar um orçamento usando o conteúdo atual do carrinho.</li>
 </ol>
 
-<div class = "alert alert-info">
-Você deve habilitar o botão <code>Criar uma Cotação</code> somente se sua loja tiver o aplicativo Cotações B2B instalado. Para mais informações acesse <a href="https://developers.vtex.com/docs/apps/vtex.b2b-quotes">B2B Quotes & Carts</a>.
-</div>
+>ℹ️ Você deve habilitar o botão `Criar uma Cotação` somente se sua loja tiver o aplicativo Cotações B2B instalado. Para mais informações acesse [B2B Quotes & Carts](https://developers.vtex.com/docs/apps/vtex.b2b-quotes).
 
 <ol start="4">
 <li>Clique em <code>Salvar</code>.</li>

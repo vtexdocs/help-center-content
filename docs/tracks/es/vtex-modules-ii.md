@@ -73,9 +73,7 @@ Es necesario activar los proveedores de pago en la tienda a fin de permitir la t
 2. Selecciona el proveedor deseado haciendo clic en el respectivo link en la tabla.
 3. En el Admin VTEX, configura el proveedor según las instrucciones descritas en el artículo de configuración.
 
-<div class = "alert alert-info">
-También se puede acceder a los artículos de configuración de proveedores escribiendo el nombre del proveedor deseado en la barra de búsqueda del <a href="https://help.vtex.com/es/">Help Center</a>.
-</div>
+>ℹ️ También se puede acceder a los artículos de configuración de proveedores escribiendo el nombre del proveedor deseado en la barra de búsqueda del [Help Center](https://help.vtex.com/es/).
 
 #### Definir medios y condiciones de pago
 

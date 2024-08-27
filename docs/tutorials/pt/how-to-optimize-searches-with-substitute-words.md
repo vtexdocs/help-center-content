@@ -15,16 +15,12 @@ legacySlug: otimizar-as-buscas-com-palavras-substitutas
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
-<div class = "alert alert-warning">
-As operações da configuração <a href="https://help.vtex.com/pt/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu?&utm_source=autocomplete">Palavras Substitutas</a> não são recomendadas para a sua loja em caso de utilização do Intelligent Search. Para relacionar palavras ao produto, é recomendada a utilização da configuração de <a href="https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV">Sinônimos</a>, que possibilita uma gestão mais escalável de termos por produto. Para mais informações, entre em contato com nosso <a href="https://support.vtex.com/hc/pt-br/requests">Suporte</a>.
-</div>
+>⚠️ As operações da configuração [Palavras Substitutas](https://help.vtex.com/pt/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu?&utm_source=autocomplete) não são recomendadas para a sua loja em caso de utilização do Intelligent Search. Para relacionar palavras ao produto, é recomendada a utilização da configuração de [Sinônimos](https://help.vtex.com/pt/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV), que possibilita uma gestão mais escalável de termos por produto. Para mais informações, entre em contato com nosso [Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 ## Como funciona o buscador
 O buscador da VTEX possui um algoritmo inteligente que, a partir do termo de busca, identifica qual é o melhor resultado para apresentar ao usuário, ou seja, a ele é apresentado sempre o resultado que gerará mais conversão de venda.
 
-<div class = "alert alert-info">
-Veja mais detalhes de <a href="https://help.vtex.com/pt/tutorial/como-funciona-a-busca-da-vtex--tutorials_542">como funciona a busca</a> na VTEX.
-</div>
+>ℹ️ Veja mais detalhes de [como funciona a busca](https://help.vtex.com/pt/tutorial/como-funciona-a-busca-da-vtex--tutorials_542) na VTEX.
 
 ## Para que serve uma palavra substituta
 Se o sistema de busca não identifica Landing Page, Marca ou Departamento de acordo com o termo buscado, aplica uma Busca por Palavra Substituta (palavra chave). 

@@ -27,9 +27,7 @@ Para crear una nueva promoción como seller en el Seller Portal, sigue los pasos
 
 Después, se activará la promoción y se aplicará a tu tienda.
 
-<div class = "alert alert-info">
-Las promociones que puedan aplicarse a los mismos ítems del carrito se comparan por su valor de descuento. A este respecto, el módulo Promociones intenta siempre aplicar la promoción más ventajosa para el comprador.
-</div>
+>ℹ️ Las promociones que puedan aplicarse a los mismos ítems del carrito se comparan por su valor de descuento. A este respecto, el módulo Promociones intenta siempre aplicar la promoción más ventajosa para el comprador.
 
 ## Campos de registro de la promoción
 

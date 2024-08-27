@@ -22,9 +22,7 @@ Os cabeçalhos desempenham um papel fundamental na comunicação HTTP, fornecend
 - **Cabeçalhos de requisição:** Enviados pelo cliente ao servidor. Eles contêm informações sobre a requisição feita, como o tipo de método HTTP usado, o tipo de conteúdo aceito, cookies, entre outros.
 - **Cabeçalhos de resposta:** Enviados pelo servidor para o cliente. Fornecem informações sobre a resposta enviada, como o status da resposta, o tipo de conteúdo retornado, cookies, entre outros.
 
-<div class = "alert alert-info">
-Para mais informações, leia o guia de MDN <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP">HTTP</a> e as documentações relacionadas.
-</div>
+>ℹ️ Para mais informações, leia o guia de MDN [HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP) e as documentações relacionadas.
 
 Neste guia, você aprenderá a gerenciar os cabeçalhos de resposta de segurança na sua loja desenvolvida com Store Framework.
 

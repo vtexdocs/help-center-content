@@ -42,7 +42,5 @@ The operational security of this functionality is based on controlling the acces
 
 After the order is closed, the manual price entered needs to be approved by the store administrator or a user with permission in the [Order Authorization system](https://help.vtex.com/en/tutorial/how-order-authorization-works--3MBK6CmKHAuUjMBieDU0pn).
 
-<div class = "alert alert-info">
-Once the manual price value has been validated, the order follows the normal invoicing flow.
-</div>
+>ℹ️ Once the manual price value has been validated, the order follows the normal invoicing flow.
 

@@ -15,9 +15,7 @@ legacySlug: oms-page-structure
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-<div class = "alert alert-info">
-For documentation on the new Order Management System (OMS) interface, see <a href="https://help.vtex.com/en/tutorial/order-list-beta--2QTduKHAJMFIZ3BAsi6Pi">Order List (Beta)</a>.
-</div>
+>ℹ️ For documentation on the new Order Management System (OMS) interface, see [Order List (Beta)](https://help.vtex.com/en/tutorial/order-list-beta--2QTduKHAJMFIZ3BAsi6Pi).
 
 To better understand the __Orders Management__, see the descriptive of each area of the module responsible for the display and management of your store's orders.
 
@@ -33,9 +31,7 @@ The bar doesn't show the exact position of the stores that are in the top 5 posi
 
 For all the data of order variations, and also for the numbers of evolution in the ranking, the green color indicates a positive result; blue, neutral; and red, negative.
 
-<div class = "alert alert-warning">
-Important: If the order comparison is done based on 0 orders in the past, the variation is 0%.
-</div>
+>⚠️ Important: If the order comparison is done based on 0 orders in the past, the variation is 0%.
 
 ![barra-status-oms en](https://images.ctfassets.net/alneenqid6w5/3B36BC5ZO8q66GYEOoeOK4/051f7dea8deea96f4bdc321251cfca31/status_bar_en.png)
 

@@ -32,9 +32,7 @@ To create a new gift card, follow the step by step:
   <br>
   <li>Click on the <b>New Gift Card</b> button.</li> 
   <br>
-  <div class = "alert alert-info">
-  <p>On the gift card creation screen, the <b>Gift card</b> field is automatically filled in by the VTEX system with the ID code of the new gift card. This is the code to be entered by the customer on the checkout screen to apply the gift card to the cart and reduce the payment value of the order.</p>
-</div>
+  >ℹ️ On the gift card creation screen, the **Gift card** field is automatically filled in by the VTEX system with the ID code of the new gift card. This is the code to be entered by the customer on the checkout screen to apply the gift card to the cart and reduce the payment value of the order.
 <br>
   <li>Fill in the fields that will be displayed as explained below:</li>
   <br>

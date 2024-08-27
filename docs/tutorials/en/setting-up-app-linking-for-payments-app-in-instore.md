@@ -122,9 +122,7 @@ Final URI that the payment app will receive to perform the refund action with th
 super-acquirer://payment-reversal?acquirerAuthorizationCode=86273634-3a05-4f0a-a430-f55ed3f21eab&acquirerId=954090369&transactionId=1093019039&paymentId=1093019888&acquirerTid=1093019888&administrativeCode=11010103033&sellerName=instoreqa&autoConfirm=True&scheme=instore&urlCallback=instore://payment-reversal
 ```
 
-<div class = "alert alert-warning">
-<strong>NOTE:</strong> Not all parameters will be used by all payment acquirers/apps. Example: <code>transactionId</code>. This parameter is the ID of a transaction in VTEX that identifies all payments of a complete order on VTEX PCI Gateway. A transaction can contain multiple payments, such as when an order is paid with multiple credit or debit cards.
-</div>
+>⚠️ **NOTE:** Not all parameters will be used by all payment acquirers/apps. Example: `transactionId`. This parameter is the ID of a transaction in VTEX that identifies all payments of a complete order on VTEX PCI Gateway. A transaction can contain multiple payments, such as when an order is paid with multiple credit or debit cards.
 
 ## Examples of response URIs for each action
 

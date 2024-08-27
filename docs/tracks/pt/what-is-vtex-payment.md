@@ -18,9 +18,7 @@ O VTEX Payment é uma solução de pagamentos corporativa para clientes VTEX. Cr
 
 Para gerir suas operações, o cliente tem acesso a uma conta digital.
 
-<div class = "alert alert-info">
-O VTEX Payment é um gateway opcional de pagamentos para uso dos clientes VTEX. Sua ativação pode ser solicitada e implementada de maneira rápida (plug and play), pois é nativamente integrada ao sistema VTEX.
-</div>
+>ℹ️ O VTEX Payment é um gateway opcional de pagamentos para uso dos clientes VTEX. Sua ativação pode ser solicitada e implementada de maneira rápida (plug and play), pois é nativamente integrada ao sistema VTEX.
 
 ## Antifraude
 

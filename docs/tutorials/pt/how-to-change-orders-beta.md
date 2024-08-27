@@ -77,9 +77,7 @@ Uma vez na página de detalhes do pedido, você pode realizar as seguintes alter
 * [Substituir itens](#substituir-itens)
 * [Alterar peso](#alterar-peso)
 
-<div class = "alert alert-info">
-É possível realizar uma única alteração no pedido ou combinar várias de uma só vez. Não existe um limite para quantas vezes um pedido pode ser alterado. Para mais informações, veja o artigo <a href="https://help.vtex.com/pt/tutorial/como-funciona-a-alterar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ">Como funciona a Alterar pedido (Beta)</a>.
-</div>
+>ℹ️ É possível realizar uma única alteração no pedido ou combinar várias de uma só vez. Não existe um limite para quantas vezes um pedido pode ser alterado. Para mais informações, veja o artigo [Como funciona a Alterar pedido (Beta)](https://help.vtex.com/pt/tutorial/como-funciona-a-alterar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ).
 
 ### Adicionar itens
 

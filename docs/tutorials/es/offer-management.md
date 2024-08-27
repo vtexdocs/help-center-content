@@ -98,9 +98,7 @@ Puedes hacer clic sobre los nombres de las columnas para ordenar los anuncios de
 
 Para exportar la lista de anuncios en formato XLSX, haz clic sobre el ícono <i class="fa-solid fa-arrow-down-to-line"></i> flecha hacia abajo, ubicado en la parte superior de la interfaz. El archivo se enviará al email del usuario registrado. El tiempo que tarde la exportación dependerá de la cantidad de anuncios de la lista exportada y de cuestiones de procesamiento de la plataforma VTEX.
 
-<div class = "alert alert-info">
-El contenido exportado incluirá el total de anuncios de la lista al momento de la exportación. Si hay algún filtro activo, solo se exportarán los anuncios seleccionados.
-</div>
+>ℹ️ El contenido exportado incluirá el total de anuncios de la lista al momento de la exportación. Si hay algún filtro activo, solo se exportarán los anuncios seleccionados.
 
 ## Consultar los anuncios no disponibles
 

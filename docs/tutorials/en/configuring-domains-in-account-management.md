@@ -33,9 +33,7 @@ Any domain registered this way needs to contain a subdomain, that may or may not
 - `www.mystore.com` - Valid domain.
 - `store.mybrand.com` - Valid domain.
 
-<div class = "alert alert-info">
-  Learn how to <a href="https://help.vtex.com/en/tutorial/configuring-access-without-www--tutorials_4278">configure access without www</a>.
-</div>
+>ℹ️ Learn how to [configure access without www](https://help.vtex.com/en/tutorial/configuring-access-without-www--tutorials_4278).
 
 ## Register new domain
 

@@ -35,6 +35,4 @@ Veja as configurações disponíveis a seguir:
 
 - **Sobrescrever preços de sellers:** permite sobrescrever todos os preços de sellers com os da conta atual.
 
-  <div class = "alert alert-info">
-    <p>A configuração <b>Sobrescrever preços de sellers</b> não é disponível para sellers white label.</p>
-  </div>
+  >ℹ️ A configuração **Sobrescrever preços de sellers** não é disponível para sellers white label.

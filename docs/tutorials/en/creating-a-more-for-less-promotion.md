@@ -62,11 +62,9 @@ In this section, you can define to which sellers the promotion will apply. You c
 
 For the promotion to be valid for all sellers, leave the field blank.
 
-<div class = "alert alert-warning">
-  <p>You cannot select a white label seller directly. To include a white label seller in the promotion, you have two options:</p><ol>1. Restrict sellers to the main store. This restriction adds all your store's white label sellers to the promotion.
-</ol><ol>2. Leave the selection empty, including all sellers. Here, all types of sellers — white label or not — will be added to the promotion.
-</ol>
-</div>
+>⚠️ You cannot select a white label seller directly. To include a white label seller in the promotion, you have two options:1. Restrict sellers to the main store. This restriction adds all your store's white label sellers to the promotion.
+> 2. Leave the selection empty, including all sellers. Here, all types of sellers — white label or not — will be added to the promotion.
+> 
 
 ![Restringir - EN](https://images.ctfassets.net/alneenqid6w5/7KJhtOylpPsj0g5Q1lF2T0/8dba06aef0da8ce4d546c0e2fea91917/Restringir_-_EN.png)
 
@@ -91,9 +89,7 @@ In this section, you can define the products, number of items, and discounts inc
     - **SKUs**: names or IDs of the SKUs to which the discount will apply. You can import a list of SKUs by clicking on the `Select a .txt file` button. The text file (.txt) must contain each SKU ID in a different row. You can also download the list of SKUs added to the field by clicking on the `Download SKU list` button.
     - **Collections**: Collections to which the promotion will apply. The promotion will only be applied to products in the collections listed in this field. You can add a collection by entering its name. You can also select more than one collection.
 
-<div class = "alert alert-info">
-  <p>If you do not inform any product collection or SKU, the platform will not allow the creation of the promotion.</p> <p>
-</div>
+>ℹ️ If you do not inform any product collection or SKU, the platform will not allow the creation of the promotion. <p>
 
 - **And gets** `number` **of these products**: the number of items defined to receive the discount. Required field.
    - **With a discount of**: the percentage discount the customer will receive if they buy the number of items defined in the promotion.
@@ -132,9 +128,7 @@ In this section, we will detail the conditions you must apply for a promotion to
 - **Create a new coupon with the UTMs above**: Create a coupon based on the UTM values selected above to give customers access to this promotion using only the coupon code.
 - **Payment system**: Allows you to choose if the promotion will be applied to one or more of the selected payment methods.
 
-  <div class = "alert alert-info">
-  <p> By default, you can add up to 20 payment methods per promotion. You can also customize it to add up to 100 payment methods. If you need to use more than 20 payment methods, please contact <a href="https://support.vtex.com/hc/en-us/requests">our Support</a>.</p>
- </div>
+  >ℹ️ By default, you can add up to 20 payment methods per promotion. You can also customize it to add up to 100 payment methods. If you need to use more than 20 payment methods, please contact [our Support](https://support.vtex.com/hc/en-us/requests).
 
 ![Condições de promoção - EN](https://images.ctfassets.net/alneenqid6w5/1mPsbqBbsHGXaSKeoFL1vY/8efc11e8c289f9777a22e3b7d29362d5/Condi__es_de_promo__o_-_EN.png)
 

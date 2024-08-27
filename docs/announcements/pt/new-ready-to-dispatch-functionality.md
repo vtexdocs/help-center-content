@@ -21,9 +21,7 @@ Para que o envio de pacotes seja feito pelas transportadoras é preciso que cada
 
 A nova funcionalidade permite notificar transportadoras e imprimir etiquetas padronizadas para o envio de pacotes. Com a ferramenta, a loja também consulta as etiquetas de pacotes que estão prontos para envio (pacotes de pedidos faturados) e pedidos que já tiveram as etiquetas impressas.
 
-<div class = "alert alert-info">
-As etiquetas geradas seguem o padrão VTEX Shipping Network para transportadoras que possuem integração com essa solução.
-</div>
+>ℹ️ As etiquetas geradas seguem o padrão VTEX Shipping Network para transportadoras que possuem integração com essa solução.
 
 ## Por que realizamos esta mudança?
 

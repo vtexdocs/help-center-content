@@ -17,9 +17,7 @@ trackSlugES: instore-usando-el-app
 
 El [pasillo infinito](https://help.vtex.com/es/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) de VTEX Sales App le permite al vendedor buscar y agregar al carrito productos más allá del stock de su tienda. Para buscar un producto, haz clic en el ícono de lupa <i class="fas fa-search"></i>. Se mostrará la barra de búsqueda en la parte superior de la página de inicio de la tienda.  Ingresa el nombre del producto, código de referencia, ID de SKU o EAN para buscar.
 
-<div class = "alert alert-info">
-Para mejorar la experiencia en situaciones en que la conexión de internet esté lenta, esta funcionalidad tiene recursos de optimización que utilizan la caché del navegador para agilizar la búsqueda.
-</div>
+>ℹ️ Para mejorar la experiencia en situaciones en que la conexión de internet esté lenta, esta funcionalidad tiene recursos de optimización que utilizan la caché del navegador para agilizar la búsqueda.
 
 ![Barra busca - ES](https://images.ctfassets.net/alneenqid6w5/3bfHAUCI0TwYoAkLMf67yw/1ad8c720186c675630364918f1d9e0f1/Tela_1_barra_busca.gif)
 

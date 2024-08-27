@@ -15,9 +15,7 @@ legacySlug: cadastrar-colecoes
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class = "alert alert-warning">
-  <p>Existem duas formas de configurar coleções: por meio do Portal CMS Legado ou utilizando o módulo de <a href="https://help.vtex.com/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye">Coleções Beta</a>. Este artigo refere-se à configuração de coleções por meio do Portal CMS Legado.</p>
-</div>
+>⚠️ Existem duas formas de configurar coleções: por meio do Portal CMS Legado ou utilizando o módulo de [Coleções Beta](https://help.vtex.com/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye). Este artigo refere-se à configuração de coleções por meio do Portal CMS Legado.
 
 Siga o passo a passo abaixo para cadastrar uma nova coleção:
 

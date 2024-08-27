@@ -32,9 +32,7 @@ On the **Interaction details** page, you will see the following sections:
 - [Interaction result](#interaction-result)      
 - [Timeline](#timeline)
 
-<div class = "alert alert-info">
-In <b>Offer Management</b> , you can track offers using <a href="https://help.vtex.com/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Libre</a> (Classic and Premium), <a href="https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm">Netshoes</a> and VTEX marketplaces. For connectors to integrate via API, see <a href="https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors">Offer Management Integration Guide</a>.
-</div>
+>ℹ️ In **Offer Management** , you can track offers using [Mercado Libre](https://help.vtex.com/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic and Premium), [Netshoes](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) and VTEX marketplaces. For connectors to integrate via API, see [Offer Management Integration Guide](https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors).
 
 ## Header
 ![Interaction details PT cabeçalho](https://images.ctfassets.net/alneenqid6w5/7zEocS2MW5dSRzZaaqNDUc/d28534c5926b61794e3b16ac91636f86/Interaction_details_EN_cabe__alho.jpg)

@@ -51,6 +51,4 @@ La API de Conversiones está diseñada para crear una conexión directa entre tu
 - Mejora de la medición de los datos de _marketing_.
 - Mayor control sobre los datos.
 
-<div class = "alert alert-info">
-Descubre más en la documentación de Facebook <a href= "https://www.facebook.com/business/help/2041148702652965?locale=es_LA">Información sobre la API de Conversiones</a>.
-</div>
+>ℹ️ Descubre más en la documentación de Facebook <a href= "https://www.facebook.com/business/help/2041148702652965?locale=es_LA">Información sobre la API de Conversiones</a>.

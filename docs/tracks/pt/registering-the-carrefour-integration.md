@@ -45,9 +45,7 @@ Caso a categoria de produtos não exija o mapeamento de certificados, o campo de
 
 - __Política comercial*__: ID da [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que será utilizada para a integração com o Carrefour. São os produtos dessa política comercial que serão enviados para o marketplace.
 
-<div class = "alert alert-info">
-  Preencha ao menos um dos campos do <b>mapeamento de SLA</b> mesmo que eles não sejam obrigatórios. Caso nenhum deles seja preenchido, não será possível simular o frete na VTEX e, consequentemente, os pedidos feitos no Carrefour não serão integrados.
-</div>
+>ℹ️ Preencha ao menos um dos campos do **mapeamento de SLA** mesmo que eles não sejam obrigatórios. Caso nenhum deles seja preenchido, não será possível simular o frete na VTEX e, consequentemente, os pedidos feitos no Carrefour não serão integrados.
 
 - __Mapeamento de SLA de tipo Normal*:__ preencha com o nome do [Método de Envio](https://help.vtex.com/pt/tutorial/como-funciona-o-tipo-de-entrega--tutorials_126) cadastrado na [Política de Envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_1400). Por exemplo, se você cadastrou como `Normal`, então, deve preencher esse campo o nome exatamente igual.
 - __Mapeamento de SLA de tipo Expressa*:__ preencha com o nome do [Método de Envio](https://help.vtex.com/pt/tutorial/como-funciona-o-tipo-de-entrega--tutorials_126) cadastrado na [Política de Envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_1400). Por exemplo, se você cadastrou como `Expressa`, então, deve preencher esse campo o nome exatamente igual.
@@ -55,10 +53,8 @@ Caso a categoria de produtos não exija o mapeamento de certificados, o campo de
 - __Mapeamento de SLA de tipo Agendada*:__ preencha com o nome do [Método de Envio](https://help.vtex.com/pt/tutorial/como-funciona-o-tipo-de-entrega--tutorials_126) cadastrado na [Política de Envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_1400). Por exemplo, se você cadastrou como `Agendada`, então, deve preencher esse campo o nome exatamente igual.
 - **Mapeamento de Campos Customizados (Nome e descrição):**  Para utilizar esse mapeamento é necessário criar um campo customizado. Para saber como criar campos customizados, acesse a documentação [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/tutorial/criando-um-campo-de-produto--tutorials_106).  
 
-<div class = "alert alert-info">
-  O mapeamento de campos customizáveis está disponível apenas para <b>nome do produto</b> e <b>descrição do produto</b>.
-  <p><b>Exemplo de nome para o novo campo:</b> <code>CRF_ProductName</code> para nome do produto e <code>CRF_ProductDescription</code> para descrição do produto.</p>
-</div>  
+>ℹ️ O mapeamento de campos customizáveis está disponível apenas para **nome do produto** e **descrição do produto**.
+>   **Exemplo de nome para o novo campo:** `CRF_ProductName` para nome do produto e `CRF_ProductDescription` para descrição do produto.  
 
 Para o mapeamento funcionar, é necessário o seller seguir os seguintes passos:  
 

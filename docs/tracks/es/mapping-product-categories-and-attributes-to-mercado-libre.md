@@ -21,9 +21,7 @@ Para enviar tus productos a Mercado Libre, debes:
 1. [Mapear las categorías de los productos.](#mapear-categorias)
 2. [Mapear los atributos de los productos.](#mapear-atributos)
 
-<div class = "alert alert-info">
-Tus productos deben tener el <a href="https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Stock</a> e <a href="https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP">Precio</a> configurados antes de enviarlos a Mercado Libre.
-</div>
+>ℹ️ Tus productos deben tener el [Stock](https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e [Precio](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configurados antes de enviarlos a Mercado Libre.
 
 ## Mapear categorías
 

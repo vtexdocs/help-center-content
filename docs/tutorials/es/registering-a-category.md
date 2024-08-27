@@ -15,9 +15,7 @@ legacySlug: registrando-categoria
 subcategory: 1E7tziZCkY4w8i4EmUuwec
 ---
 
-<div class = "alert alert-info">
-En la plataforma VTEX, la estructura Departamento, Categoría y subcategoría no está predefinida. Se varía de acuerdo con la estructura de su tienda, no siendo obligatoria la creación de estos 3 niveles jerárquicos.
-</div>
+>ℹ️ En la plataforma VTEX, la estructura Departamento, Categoría y subcategoría no está predefinida. Se varía de acuerdo con la estructura de su tienda, no siendo obligatoria la creación de estos 3 niveles jerárquicos.
 
 El registro de una Categoría ocurre dentro del Catálogo, en el Admin VTEX.
 

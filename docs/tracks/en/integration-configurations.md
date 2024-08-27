@@ -63,29 +63,28 @@ Shipping items using Wish ranges from the all-encompassing to the very specific.
 >
 > _Ex: the shipping rate to New York (metropolitan region) is U$ 10,00, while the rate for NY (State) is U$ 15,00._
 >
-> <div class = "alert alert-info">
->   OBS: shipping by region is only available to sellers that use **Wish Express** [(additional info here).]([https://merchantfaq.wish.com/hc/en-us/articles/360018939394-How-to-Ship-Wish-Express-to-Brazil])
+> >ℹ️ >   OBS: shipping by region is only available to sellers that use **Wish Express** [(additional info here).]([https://merchantfaq.wish.com/hc/en-us/articles/360018939394-How-to-Ship-Wish-Express-to-Brazil])
 >  To configure Wish Express, simply follow [these steps.]([https://merchantfaq.wish.com/hc/en-us/articles/232047747-Wish-Express-Sign-Up-Flow])
-  
-Specify if you'll use Wish Express in the setup. In case you won't, you may skip to next step.
-
-Remember that the shipping rate will be automatically set based on the [Logistics module shipping tables](https://help.vtex.com/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/2Pj1gKR80QIuUhc0orMraD). This means that it the shipping will be dynamic and may vary due a change in the carrier's price table or even according to item availability.
-
-_ex: Carrier X has a shipping rate of U$ 7,00 to Atlanta (metropolitan region) in its price table. However, that price table is updated to U$ 9,55. Next time the inventory is updated, the shipping rate for that region will be updated for your Wish products._
- 
-## Defining the available carriers
-
-To indicate which of your store's carriers corresponds to [those accepted by Wish](https://merchant.wish.com/documentation/shippingproviders), you'll need to perform a from/to in your configuration.
-
-  1. Using the first selector (_dropdown_), indicate which carrier will be used for Wish;
-  2. Using the second selector, indicate which VTEX [carrier type]([https://help.vtex.com/tutorial/difference-between-delivery-types--tutorials_126] would correspond to the one selected during the previous step;
-
-  _Ex: Suppose that you're using TNT as a carrier and that your VTEX Shipping Networkistics panel identifies this carrier or delivery type as "standard". Therefore, the field should be called "Standard". Remember that the word should exactly match the one appearing in your Logistics module. 
-  
-  3. Click on "save" to conclude the setup.
-
-<div class = "alert alert-info">
-  OBS: if a non-Wish certified carrier is added, orders will not benefit from tracking, and consequently, <strong>no commission</strong> will be transferred. Use extra caution when performing this step.</div>
+>
+> Specify if you'll use Wish Express in the setup. In case you won't, you may skip to next step.
+>
+> Remember that the shipping rate will be automatically set based on the [Logistics module shipping tables](https://help.vtex.com/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/2Pj1gKR80QIuUhc0orMraD). This means that it the shipping will be dynamic and may vary due a change in the carrier's price table or even according to item availability.
+>
+> _ex: Carrier X has a shipping rate of U$ 7,00 to Atlanta (metropolitan region) in its price table. However, that price table is updated to U$ 9,55. Next time the inventory is updated, the shipping rate for that region will be updated for your Wish products._
+>
+> ## Defining the available carriers
+>
+> To indicate which of your store's carriers corresponds to [those accepted by Wish](https://merchant.wish.com/documentation/shippingproviders), you'll need to perform a from/to in your configuration.
+>
+> 1. Using the first selector (_dropdown_), indicate which carrier will be used for Wish;
+>   2. Using the second selector, indicate which VTEX [carrier type]([https://help.vtex.com/tutorial/difference-between-delivery-types--tutorials_126] would correspond to the one selected during the previous step;
+>
+> _Ex: Suppose that you're using TNT as a carrier and that your VTEX Shipping Networkistics panel identifies this carrier or delivery type as "standard". Therefore, the field should be called "Standard". Remember that the word should exactly match the one appearing in your Logistics module. 
+>
+> 3. Click on "save" to conclude the setup.
+>
+> <div class = "alert alert-info">
+>   OBS: if a non-Wish certified carrier is added, orders will not benefit from tracking, and consequently, **no commission** will be transferred. Use extra caution when performing this step.
 
 ## Price divergence rates
  

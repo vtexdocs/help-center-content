@@ -28,9 +28,11 @@ To delete a CMS folder, follow the steps below:
 
 ![erroDeletarPasta2](https://images.contentful.com/alneenqid6w5/5LV3bGobResaCycAs4e4oS/0644cad6454dd3d6c0beb1eb8afc1da8/erroDeletarPasta2.png)
 
-<div class = "alert alert-danger">
-Some folders are required. Your store will not function properly without them. Others are important, so it's not a good idea to delete them.<br><br>Understand this theme deeper by reading the article <a href="http://help.vtex.com/en/tutorial/cms-folder-structure">CMS folder structure</a>.
-</div>
+>❗ Some folders are required. Your store will not function properly without them. Others are important, so it's not a good idea to delete them.
+>
+> 
+>
+> Understand this theme deeper by reading the article [CMS folder structure](http://help.vtex.com/en/tutorial/cms-folder-structure).
 
 If a folder contains other folders, you must delete all internal folders before deleting the more external one. Otherwise, the system will return the error "Object reference not set to an instance of an object", as in the image below.
 

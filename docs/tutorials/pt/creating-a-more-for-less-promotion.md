@@ -60,9 +60,7 @@ Nesta seção, é possível definir para quais sellers a promoção será aplica
 
 Para que a promoção seja válida para todos os sellers, deixe a seleção vazia.
 
-<div class = "alert alert-warning">
-  <p>Não é possível selecionar diretamente um seller white label. Para incluir um seller white na promoção, existem duas opções:</p><ol>1. Restringir os sellers à loja principal. Essa restrição adiciona todos os sellers white label da sua loja à promoção.</ol><ol>2. Deixar a seleção vazia, incluindo todos os sellers. Aqui, todos os tipos de sellers - white label ou não - serão adicionados à promoção.</ol>
-</div>
+>⚠️ Não é possível selecionar diretamente um seller white label. Para incluir um seller white na promoção, existem duas opções:1. Restringir os sellers à loja principal. Essa restrição adiciona todos os sellers white label da sua loja à promoção.2. Deixar a seleção vazia, incluindo todos os sellers. Aqui, todos os tipos de sellers - white label ou não - serão adicionados à promoção.
 
 ![Restringir - PT](https://images.ctfassets.net/alneenqid6w5/7KJhtOylpPsj0g5Q1lF2T0/6a43d51af7293cbfee1e0f9a2de2428a/Restringir_-_PT.png)
 
@@ -87,9 +85,7 @@ Esta seção define os produtos, a quantidade e o desconto que serão afetados p
     - **SKUs:** nomes ou IDs dos SKUs que terão o desconto aplicado. Você pode fazer a importação de uma lista de SKUs clicando no botão `Selecione um arquivo .txt`. O arquivo de texto (.txt) deve ter cada SKU ID em uma linha diferente. Você também pode baixar a lista de SKUs adicionada no campo clicando no botão `Download da lista de SKUs`.
 - **Coleções:** seleção de coleções que serão incluídas na promoção. A promoção será aplicada somente aos produtos que estejam nas coleções cadastradas neste campo. Para isso, digite o nome da coleção de produtos que deseja oferecer esse tipo de desconto. É possível selecionar mais de uma coleção.
 
-<div class = "alert alert-info">
-  <p>Se não forem informados produtos por coleção ou por SKU, a plataforma não permitirá a criação da promoção.</p>
-</div>
+>ℹ️ Se não forem informados produtos por coleção ou por SKU, a plataforma não permitirá a criação da promoção.
 
 - **E leva `quantidade` desses produtos:** quantidade de unidades do produto que receberá o desconto configurado. Campo de preenchimento obrigatório.
     - **Com desconto de:** o cliente levará a quantidade selecionada de produtos com um desconto percentual definido no campo.
@@ -128,9 +124,7 @@ Nesta seção, detalharemos as condições em que você deve aplicar para que um
 - **Criar cupom a partir das UTMs acima:** cria um cupom a partir das UTMs cadastradas para dar ao cliente acesso à essa promoção apenas com o código do cupom.
 - **Meio de pagamento:** permite escolher se a promoção será aplicada em um ou mais tipos de meios de pagamento selecionados.
 
- <div class = "alert alert-info">
-  <p> Por padrão, você pode cadastrar até 20 meios de pagamento por promoção. Além disso, existe a possibilidade de customização para incluir até 100 meios de pagamento. Caso precise utilizar mais de 20, entre em contato com o <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
- </div>
+ >ℹ️ Por padrão, você pode cadastrar até 20 meios de pagamento por promoção. Além disso, existe a possibilidade de customização para incluir até 100 meios de pagamento. Caso precise utilizar mais de 20, entre em contato com o [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 ![Condições de promoção - PT](https://images.ctfassets.net/alneenqid6w5/1mPsbqBbsHGXaSKeoFL1vY/d5a51e69868ee890a701dba2dfe8a1f2/Condi__es_de_promo__o_-_PT.png)
 

@@ -15,9 +15,7 @@ legacySlug: configuración-de-my-account
 subcategory: 1RWR7qSyaREbD5RfgCjdYG
 ---
 
-<div class = "alert alert-info">
-En <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi Cuenta</a>, los clientes solo pueden acceder a los pedidos de los últimos dos años.
-</div>
+>ℹ️ En [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), los clientes solo pueden acceder a los pedidos de los últimos dos años.
 
 El nuevo [My Account](https://help.vtex.com/es/tutorial/como-funciona-el-my-account--2BQ3GiqhqGJTXsWVuio3Xh) ya está instalado en todas las cuentas VTEX en un <strong>ambiente de prueba</strong>, permitiendo ajustes en la nueva página sin impactos en la experiencia de usuario.
 

@@ -46,9 +46,7 @@ Sample spreadsheet using the Clothing & Accessories category:
 
 ![Amazon Mapeamento ](https://images.ctfassets.net/alneenqid6w5/5p6RrFb0T6my86cCOmW0c8/a5e93f7732929c9d9ea4cc0dd855b9a1/Amazon_Mapeamento.png)
 
-<div class = "alert alert-danger">
-Note that these values must conform to the ones from Amazon. Check which terms are allowed and make the From/To between what is registered in your SKU field in VTEX and the values accepted by Amazon.
-</div>
+>❗ Note that these values must conform to the ones from Amazon. Check which terms are allowed and make the From/To between what is registered in your SKU field in VTEX and the values accepted by Amazon.
 
 After filling out the spreadsheet, access __Integrations__ from the Admin menu:
 

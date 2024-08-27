@@ -127,6 +127,4 @@ Los principales beneficios de la funcionalidad son:
 
 **Aumento de las tasas de conversión y ventas:** incentiva a los clientes a volver a la página de checkout para finalizar su compra, aumentando así las ventas y las tasas de conversión de los retailers.
 
-<div class = "alert alert-info">
-WhatsApp AI Campaigns solamente está disponible para tiendas que utilizan <a href="https://help.vtex.com/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl#store-framework">Store Framework</a> y no tienen personalizaciones en Checkout.
-</div>
+>ℹ️ WhatsApp AI Campaigns solamente está disponible para tiendas que utilizan [Store Framework](https://help.vtex.com/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl#store-framework) y no tienen personalizaciones en Checkout.

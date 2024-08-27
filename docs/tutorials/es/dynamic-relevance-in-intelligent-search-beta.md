@@ -30,9 +30,7 @@ En Intelligent Search, hay dos formas de configurar la relevancia de búsqueda:
 
 Solamente una de ellas se aplica a tu tienda por vez, pero puedes [cambiar el tipo de relevancia](#cambiar-el-tipo-de-relevancia) configurado. Si cambias la relevancia manual a dinámica, todas las reglas manuales ya registradas se seguirán guardando.
 
-<div class = "alert alert-info">
-La relevancia manual está configurada como predeterminada en la tienda.
-</div>
+>ℹ️ La relevancia manual está configurada como predeterminada en la tienda.
 
 ## Manual 
 
@@ -67,9 +65,7 @@ Para activar la relevancia dinámica, sigue estos pasos:
 
 Para cambiar el tipo de relevancia sigue los pasos a continuación:
 
-<div class = "alert alert-warning">
-No recomendamos cambiar constantemente el tipo de relevancia que utiliza tu tienda. El sistema necesita una semana para asentarse.
-</div>
+>⚠️ No recomendamos cambiar constantemente el tipo de relevancia que utiliza tu tienda. El sistema necesita una semana para asentarse.
 
 1. En el Admin VTEX, accede a **Storefront > Intelligent Search > Reglas de relevancia**  o ingresa **Reglas de relevancia** en la barra de búsqueda de la parte superior de la página.
 2. Haz clic en `Cambiar`.

@@ -33,9 +33,7 @@ Neste artigo, explicamos como funciona a herança das especificações que você
         * [Cadastro do produto](#cadastro-do-produto)
         * [Planilha](#planilha)
 
-<div class = "alert alert-info">
-  <p>Para criar uma especificação de produto utilizando a<strong> Catalog API</strong>, siga o guia para desenvolvedores <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a>.</p>
-</div>
+>ℹ️ Para criar uma especificação de produto utilizando a** Catalog API**, siga o guia para desenvolvedores [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification).
 
 ## Herança de especificações de produto
 
@@ -148,9 +146,7 @@ Já para os campos de tipo **Combo**, **Radio** e **CheckBox**, é necessário c
 
 ![product-spec-2](https://images.ctfassets.net/alneenqid6w5/5F0K7fQTFOf2b7opIrgpP6/283b1aca04c1790b548ee51438fe132f/PT_ProdutoGif_2_Alterado.gif)
 
-<div class = "alert alert-info">
-  <p>Caso esteja cadastrando os primeiros valores de um campo, é necessário voltar no formulário daquele campo específico e marcar a opção <strong>Ativo</strong>.</p>
-</div>
+>ℹ️ Caso esteja cadastrando os primeiros valores de um campo, é necessário voltar no formulário daquele campo específico e marcar a opção **Ativo**.
 
 #### Acessar ou editar valores cadastrados
 

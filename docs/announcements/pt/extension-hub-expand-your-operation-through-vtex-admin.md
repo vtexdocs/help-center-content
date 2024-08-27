@@ -31,9 +31,7 @@ Com o Hub de Extensões, toda a experiência de navegação e compra de apps aco
 
 Os preços na **App Store** aparecem em reais (BRL) para lojas no Brasil e em dólares (USD) para lojas em outros países. Os pagamentos pela aquisição, assinatura e utilização de apps são processados automaticamente e os valores correspondentes são adicionados à sua [fatura VTEX](https://help.vtex.com/pt/tutorial/visao-geral-faturas--6UxfCl4fw4GmyQwoUuIcQs) na sua moeda local, eliminando a necessidade de pagamento por cartão de crédito. Caso a sua operação não esteja localizada no Brasil e a sua fatura esteja em uma moeda diferente de USD, faremos a conversão do valor em USD para a sua moeda local.
 
-<div class = "alert alert-info">
-O <a href="http://apps.vtex.com/">site da App Store</a> continuará existindo apenas para visualização de apps de forma pública. Não será mais possível fazer a compra de apps pelo site. As compras podem ser feitas apenas no Admin VTEX.
-</div>
+>ℹ️ O [site da App Store](http://apps.vtex.com/) continuará existindo apenas para visualização de apps de forma pública. Não será mais possível fazer a compra de apps pelo site. As compras podem ser feitas apenas no Admin VTEX.
 
 ### Parceiros
 

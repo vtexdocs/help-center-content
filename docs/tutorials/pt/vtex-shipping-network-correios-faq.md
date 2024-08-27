@@ -126,9 +126,7 @@ Um motivo recorrente é quando o peso ou as dimensões (comprimento, largura e a
 
 Portanto, certifique-se de que o peso e as dimensões dos itens no Catálogo refletem exatamente as características dos seus produtos.
 
-<div class = "alert alert-info">
-Quando existe uma divergência no cálculo de frete no relatório de envios dos Correios, você deve entrar em contato pelo email <i>vtexlog@vtex.com.br</i> e abrir um ticket solicitando a análise dos custos e detalhes dos envios. O relatório mencionado é enviado mensalmente para o email do contato definido na etapa de contração do <b>VTEX Shipping Network Correios</b>.
-</div>
+>ℹ️ Quando existe uma divergência no cálculo de frete no relatório de envios dos Correios, você deve entrar em contato pelo email <i>vtexlog@vtex.com.br</i> e abrir um ticket solicitando a análise dos custos e detalhes dos envios. O relatório mencionado é enviado mensalmente para o email do contato definido na etapa de contração do **VTEX Shipping Network Correios**.
 
 ## 9. Como posso emitir etiquetas de envio?
 
@@ -146,9 +144,7 @@ Você pode [escolher o tipo de formato das etiquetas de envio](https://help.vtex
 
 Essa fatura é feita pelo Admin VTEX como qualquer outra fatura e em determinado momento você seleciona a opção de referenciar os itens do pedido. Para o passo a passo completo, veja o artigo [Como faturar um pedido](https://help.vtex.com/pt/tutorial/faturar-um-pedido-manualmente--7p1h852V5t54KyscpgxE2v).
 
-<div class = "alert alert-info">
-Vale ressaltar que etiquetas de envio ficam disponíveis para impressão no <a href="https://help.vtex.com/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs">Pronto para Envio</a> somente quando os itens do pedido foram referenciados na Nota Fiscal e o status de um pedido é <i>faturado</i>.
-</div>
+>ℹ️ Vale ressaltar que etiquetas de envio ficam disponíveis para impressão no [Pronto para Envio](https://help.vtex.com/pt/tutorial/pronto-para-envio--5YOZV7Aotv3pap0fGNESDs) somente quando os itens do pedido foram referenciados na Nota Fiscal e o status de um pedido é <i>faturado</i>.
 
 ## 11. É possível conciliar as minhas transportadoras atuais com o serviço dos Correios do VTEX Shipping Network Correios?
 
@@ -183,9 +179,7 @@ No Admin VTEX, a funcionalidade **Solicitar Informações** permite abrir um _Pe
 
 O seu contrato com o **VTEX Shipping Network Correios** permite utilizar o serviço de [Logística Reversa dos Correios](https://www.correios.com.br/enviar/encomendas/logistica-reversa). Para isso, a VTEX disponibiliza um login e uma senha para você utilizar no site dos Correios e gerar uma autorização de postagem.
 
-<div class = "alert alert-info">
-Para solicitar o seu login e senha para o serviço de <i>Logística Reversa dos Correios</i>, entre em contato com a VTEX pelo email <i>vtexlog@vtex.com.br</i>.
-</div>
+>ℹ️ Para solicitar o seu login e senha para o serviço de <i>Logística Reversa dos Correios</i>, entre em contato com a VTEX pelo email <i>vtexlog@vtex.com.br</i>.
 
 ## 16. Como descobrir a URL de rastreio de um pedido?
 

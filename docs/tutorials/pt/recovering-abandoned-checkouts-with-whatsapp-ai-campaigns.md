@@ -25,9 +25,7 @@ Os principais benefícios dessa funcionalidade são:
 
 - **Aumento nas taxas de conversão e vendas:** incentiva que os clientes retornem à página de pagamento para finalizar sua compra, aumentando desta forma as vendas e taxas de conversão para lojistas.
 
-<div class = "alert alert-info">
-O WhatsApp AI Campaigns está disponível  apenas para lojas que utilizam <a href="https://help.vtex.com/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl#store-framework">Store Framework</a> que não tenham customizações no Checkout.
-</div>
+>ℹ️ O WhatsApp AI Campaigns está disponível  apenas para lojas que utilizam [Store Framework](https://help.vtex.com/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl#store-framework) que não tenham customizações no Checkout.
 
 ## Ativando WhatsApp AI Campaigns
 
@@ -96,7 +94,5 @@ Para configurar um novo número de WhatsApp você precisará ter acesso de admin
 
 >⚠️ Após ativada uma campanha de recuperação de checkout abandonado, pode levar até 48 horas para as métricas de análise começarem a ser exibidas.
 
-<div class = "alert alert-info">
-Saiba mais sobre o <a href="https://help.vtex.com/pt/tutorial/gerenciamento-e-detalhes-do-whatsapp-ai-campaigns--q9JqDErMqGV4zvsYqkD4s">Gerenciamento e detalhes do WhatsApp AI Campaigns</a>.
-</div>
+>ℹ️ Saiba mais sobre o [Gerenciamento e detalhes do WhatsApp AI Campaigns](https://help.vtex.com/pt/tutorial/gerenciamento-e-detalhes-do-whatsapp-ai-campaigns--q9JqDErMqGV4zvsYqkD4s).
 

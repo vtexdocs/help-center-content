@@ -15,9 +15,7 @@ legacySlug: aplicativo-affiliates-program
 subcategory: 6GWaAkVqXQYN79ilMgUsPr
 ---
 
-<div class = "alert alert-info">
-O <b>Affiliates Program</b> é um aplicativo compatível apenas com lojas <a href="https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">VTEX IO</a>, e não está disponível para lojas que utilizam <a href="https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">CMS Portal Legado</a> ou <a href="https://faststore.dev/tutorials/cms/0#vtex-headless-cms">Headless CMS</a>. Para instalar e configurar o aplicativo na sua loja VTEX, acesse o guia para desenvolvedores Affiliates Program app.
-</div>
+>ℹ️ O **Affiliates Program** é um aplicativo compatível apenas com lojas [VTEX IO](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), e não está disponível para lojas que utilizam [CMS Portal Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) ou [Headless CMS](https://faststore.dev/tutorials/cms/0#vtex-headless-cms). Para instalar e configurar o aplicativo na sua loja VTEX, acesse o guia para desenvolvedores Affiliates Program app.
 
 No aplicativo **Affiliates Program**, um afiliado é alguém que se associa a sua loja VTEX para promover as vendas em troca de uma comissão. O termo é, portanto, diferente do [conceito usual de afiliado na VTEX](https://help.vtex.com/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0).
 
@@ -48,9 +46,7 @@ A **página de perfil do afiliado** é uma interface pela qual ele pode acompanh
 
 A **página de cadastro** permite que os próprios interessados em se tornar afiliados preencham seus dados para solicitar registro junto a sua loja VTEX.
 
-<div class = "alert alert-info">
-As páginas dos afiliados são customizáveis. Para mais informações, veja o guia para desenvolvedores <a href="https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app">Affiliates Program app</a>.
-</div>
+>ℹ️ As páginas dos afiliados são customizáveis. Para mais informações, veja o guia para desenvolvedores [Affiliates Program app](https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app).
 
 ### Páginas no Admin VTEX
 
@@ -127,9 +123,7 @@ No topo da página, você visualiza as seguintes métricas sobre os pedidos real
 - **Total do pedido:** soma dos valores dos pedidos, feita a partir do preço dos itens e sem incluir os custos de envio.
 - **Total da comissão do pedido:**  soma dos valores das comissões dos afiliados sobre os pedidos.
 
-<div class = "alert alert-info">
-Para acompanhar o fluxo de um pedido, clique sobre o `ID do pedido`. Desta forma, você é redirecionado para o Admin VTEX em <b>Pedidos > Todos os pedidos</b>.
-</div>
+>ℹ️ Para acompanhar o fluxo de um pedido, clique sobre o `ID do pedido`. Desta forma, você é redirecionado para o Admin VTEX em **Pedidos > Todos os pedidos**.
 
 ### Pesquisar pedidos
 
@@ -195,9 +189,7 @@ Para exportar uma planilha de comissionamento por SKU com extensão CSV, no topo
 
 O arquivo será enviado para o email do [usuário](https://help.vtex.com/pt/tutorial/gerenciando-usuarios--tutorials_512) logado.
 
-<div class = "alert alert-info">
-O conteúdo exportado é referente ao comissionamento dos SKUs da listagem no momento da exportação. Se algum filtro estiver ativo, somente as comissões de SKU selecionadas serão exportadas.
-</div>
+>ℹ️ O conteúdo exportado é referente ao comissionamento dos SKUs da listagem no momento da exportação. Se algum filtro estiver ativo, somente as comissões de SKU selecionadas serão exportadas.
 
 ### Importar comissões
 
@@ -213,9 +205,7 @@ Confira se a seguinte mensagem aparece:
 
 O nome do arquivo adicionado vai aparecer próximo ao campo `Última importação`.
 
-<div class = "alert alert-info">
-É possível identificar a data de importação e o usuário que executou a ação, passando o cursor sobre o símbolo `?` em `Última importação`.
-</div>
+>ℹ️ É possível identificar a data de importação e o usuário que executou a ação, passando o cursor sobre o símbolo `?` em `Última importação`.
 
 ### Fazer o download da última importação
 

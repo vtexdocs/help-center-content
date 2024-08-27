@@ -71,9 +71,7 @@ Payment providers must be enabled in a store to transmit and receive the informa
 2. Select the desired provider by clicking the corresponding link in the table.
 3. Go to the VTEX Admin to configure the provider and follow the instructions listed in the specific configuration article.
 
-<div class = "alert alert-info">
-You can also find provider configuration articles by entering the name of the provider in the search bar of the <a href="https://help.vtex.com/en">Help Center</a>.
-</div>
+>ℹ️ You can also find provider configuration articles by entering the name of the provider in the search bar of the [Help Center](https://help.vtex.com/en).
 
 #### Defining payment methods and payment conditions
 
@@ -256,9 +254,7 @@ Learn more in [Optimization of shipping options at Checkout](https://help.vtex.c
 
 This feature allows sending emails to customers who have created a shopping cart but have not completed the purchase.
 
-<div class = "alert alert-info">
-Configuring the abandoned cart feature during the onboarding process allows forwarding all future carts for customer review, encouraging them to complete their purchases.
-</div>
+>ℹ️ Configuring the abandoned cart feature during the onboarding process allows forwarding all future carts for customer review, encouraging them to complete their purchases.
 
 Learn more in [Setting up Cart Abandonment](https://help.vtex.com/en/tutorial/configurar-carrinho-abandonado--tutorials_740).
 

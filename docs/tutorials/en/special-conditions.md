@@ -158,6 +158,4 @@ How to configure the payment condition period:
 
 Suppose that your store usually offers a payment with in to 6x, without interest, but wants to use the end-of-year sales to offer payment in up to 12x, without interest. In this case, follow the steps above, and add the period of the payment condition. Its application can cease on January 1st of the following year, for example.
 
-<div class = "alert alert-warning">
-  <p>Payment conditions have a cache of up to 10 minutes it Smart Checkout. Thus, any change in Payment Conditions in the <strong>Payments</strong> module can take up to 10 minutes to start operating in Smart Checkout.</p>
-</div>
+>⚠️ Payment conditions have a cache of up to 10 minutes it Smart Checkout. Thus, any change in Payment Conditions in the **Payments** module can take up to 10 minutes to start operating in Smart Checkout.

@@ -16,9 +16,7 @@ trackSlugES: vtex-getting-started
 
 Cualquier SKU de su tienda necesita un precio para ser exhibido al cliente final.
 
-<div class = "alert alert-warning">
-Incluso un SKU que se ofrecerá como regalo necesita tener un precio registrado.
-</div>
+>⚠️ Incluso un SKU que se ofrecerá como regalo necesita tener un precio registrado.
 
 Para registrar el precio, siga los pasos abajo.
 1. En el módulo __Catalog__, pase el ratón sobre __Cadastro de Productos__, vaya a __Productos y SKUs__ y haga clic en la opción __Cadastro de Productos y SKUs__.

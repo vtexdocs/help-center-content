@@ -56,9 +56,7 @@ Para configurar a integração e ser capaz de cadastrar e mapear corretamente se
 - [Status de pedidos na Loopi](https://help.vtex.com/pt/tutorial/integracao-com-loopi--2wmap3hWksLxJ0IYe7nYFP#status-de-pedidos-na-loopi)
 - [Operação logística na Loopi](https://help.vtex.com/pt/tutorial/integracao-com-loopi--2wmap3hWksLxJ0IYe7nYFP#operacao-logistica-na-loopi)
 
-<div class = "alert alert-info">
-Para anunciar e vender na Loopi é necessário estar em conformidade com os <a href="https://loopi.shop/termos-de-uso">termos e condições legais do marketplace</a>.
-</div>
+>ℹ️ Para anunciar e vender na Loopi é necessário estar em conformidade com os [termos e condições legais do marketplace](https://loopi.shop/termos-de-uso).
 
 ### Cadastramento de produtos na Loopi
 
@@ -127,9 +125,7 @@ O consumidor é notificado sobre todas as mudanças de _status_ de pedidos. As n
 
 O cálculo de frete e o prazo de entrega dos pedidos é fechado no ambiente da Loopi, no momento da compra. As configurações logísticas serão aquelas que você escolher na Estratégia de Envio definida para a integração. Essa configuração será feita adiante, como parte da etapa de configurações no seu Admin VTEX.
 
-<div class = "alert alert-info">
-O fullfilment, ou seja, a responsabilidade da entrega do pedido ao cliente, é responsabilidade da loja VTEX.
-</div>
+>ℹ️ O fullfilment, ou seja, a responsabilidade da entrega do pedido ao cliente, é responsabilidade da loja VTEX.
 
 ## Configurações na plataforma VTEX
 
@@ -236,9 +232,7 @@ Dentro do mapeamento de um atributo, seja ele _cor_ ou _tamanho_, existe o campo
 
 Para ter certeza de que todas as categorias da sua loja VTEX foram mapeadas corretamente na Loopi, você deve ser capaz de visualizar no _Loopi Mapper_ o ícone de _mapeamento completo_ ao longo de toda a lista de categorias da sua loja VTEX.
 
-<div class = "alert alert-info">
-Em seu canal no Youtube, a Loopi disponibiliza o <a href="https://www.youtube.com/watch?v=ryfqmh8qpo4">vídeo Mapeamento de categorias</a>, no qual apresenta um exemplo de item de moda sendo mapeado.
-</div>
+>ℹ️ Em seu canal no Youtube, a Loopi disponibiliza o [vídeo Mapeamento de categorias](https://www.youtube.com/watch?v=ryfqmh8qpo4), no qual apresenta um exemplo de item de moda sendo mapeado.
 
 #### Mapeamento de especificações
 
@@ -250,9 +244,7 @@ Após realizar o mapeamento de categorias, variações e atributos dos seus prod
 
 Após a realização da carga inicial, a integração da sua loja VTEX com o marketplace estará concluída.
 
-<div class = "alert alert-info">
-Em caso de dúvidas, entre em contato com a Loopi pelo email <i>contato@loopi.shop</i>.
-</div>
+>ℹ️ Em caso de dúvidas, entre em contato com a Loopi pelo email <i>contato@loopi.shop</i>.
 
 <br></br>
 ### Saiba mais

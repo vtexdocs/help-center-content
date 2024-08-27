@@ -15,9 +15,7 @@ legacySlug: vtex-pick-and-pack-configuracoes
 subcategory: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-<div class = "alert alert-info">
-Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Caso tenha interesse em implementá-la futuramente, preencha nosso <a href="https://vtex.com/br-pt/contato/">formulário</a> apontando no campo <code>Comentários</code> o nome do produto desejado.
-</div>
+>ℹ️ Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Caso tenha interesse em implementá-la futuramente, preencha nosso [formulário](https://vtex.com/br-pt/contato/) apontando no campo `Comentários` o nome do produto desejado.
 
 **Configurações** é uma página do Admin VTEX que permite selecionar as configurações desejadas para o funcionamento do VTEX Pick and Pack na sua loja. As configurações estão distribuídas nas seguintes abas:
 
@@ -40,9 +38,7 @@ Nesta aba, você encontrará as configurações relacionadas à etapa de separa�
 
 Nesta seção, você pode definir o tipo de estratégia de separação que deseja para os seus separadores.
 
-<div class = "alert alert-info">
-  Apenas a estratégia <strong>Separação por ondas</strong> está disponível no momento.
-</div>
+>ℹ️ Apenas a estratégia **Separação por ondas** está disponível no momento.
 
 ### Alterações no pedido
 
@@ -252,9 +248,7 @@ Você pode adicionar SKU IDs e EANs dos seus produtos em massa, por meio de um a
 
 Você também pode indexar o catálogo para atualizar a listagem de produtos. Para isso, clique em `Indexar catálogo` e depois em `Continuar`.
 
-<div class = "alert alert-danger">
-A indexação do catálogo irá apagar e recriar todo o conteúdo dele, o que significa que você poderá perder todos os códigos EAN e SKU personalizados.
-</div>
+>❗ A indexação do catálogo irá apagar e recriar todo o conteúdo dele, o que significa que você poderá perder todos os códigos EAN e SKU personalizados.
 
 ## Instalações
 

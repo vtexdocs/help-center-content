@@ -15,9 +15,7 @@ legacySlug: vtex-pick-and-pack-settings
 subcategory: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-<div class = "alert alert-info">
-This feature is in closed beta, so only selected customers can access it now. If you want to implement it in the future, please complete our <a href="https://vtex.com/us-en/contact/">form</a> apontaby entering the product name in the <code>Comments</code> field.
-</div>
+>ℹ️ This feature is in closed beta, so only selected customers can access it now. If you want to implement it in the future, please complete our [form](https://vtex.com/us-en/contact/) apontaby entering the product name in the `Comments` field.
 
 **Settings** is a VTEX Admin page that allows you to select the VTEX Pick and Pack settings for your store. The settings are distributed in the following tabs:
 
@@ -40,9 +38,7 @@ In this tab, you'll find the settings related to the picking of order items. Her
 
 In this section, you can define the picking strategy types you would like for your pickers.
 
-<div class = "alert alert-info">
-  Only the <strong>Wave picking</strong> strategy is currently available.
-</div>
+>ℹ️ Only the **Wave picking** strategy is currently available.
 
 ### Order Changes
 
@@ -250,9 +246,7 @@ You can add bulk SKU IDs and EANs for your products via a CSV file. To do this, 
 
 You can also index the catalog to update the product list. To do this, click `Index Catalog` and then `Continue`.
 
-<div class = "alert alert-danger">
-Indexing the catalog will delete and recreate all its contents, so you could lose all your custom EAN and SKU codes.
-</div>
+>❗ Indexing the catalog will delete and recreate all its contents, so you could lose all your custom EAN and SKU codes.
 
 ## Facilities
 

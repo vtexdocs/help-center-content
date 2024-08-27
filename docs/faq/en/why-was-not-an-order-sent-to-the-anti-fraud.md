@@ -18,6 +18,4 @@ Whenever a payment is made, the payment gateway connector performs some initial 
 
 After several attempts, if you don't get the expected responses, the payment and the order are both canceled. Orders in this situation are not sent to the anti-fraud.
 
-<div class = "alert alert-warning">
-You can not resubmit a canceled order to the anti-fraud.
-</div>
+>⚠️ You can not resubmit a canceled order to the anti-fraud.

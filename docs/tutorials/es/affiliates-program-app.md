@@ -15,9 +15,7 @@ legacySlug: aplicacion-affiliates-program
 subcategory: 6GWaAkVqXQYN79ilMgUsPr
 ---
 
-<div class = "alert alert-info">
-<b>Affiliates program</b> es una aplicación solo compatible con las tiendas <a href="https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2">VTEX IO</a>, y no está disponible para las tiendas que utilizan <a href="https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj">CMS - Portal Legado</a> o <a href="https://faststore.dev/tutorials/cms/0#vtex-headless-cms">Headless CMS</a>. Para instalar y configurar la app en tu tienda VTEX, consulta la guía del desarrollador <a href="https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app">Affiliates Program app</a>.
-</div>
+>ℹ️ **Affiliates program** es una aplicación solo compatible con las tiendas [VTEX IO](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/4yB9wSl79cArd68aRBnBZ2), y no está disponible para las tiendas que utilizan [CMS - Portal Legado](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj) o [Headless CMS](https://faststore.dev/tutorials/cms/0#vtex-headless-cms). Para instalar y configurar la app en tu tienda VTEX, consulta la guía del desarrollador [Affiliates Program app](https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app).
 
 En la aplicación **Affiliates Program**, un afiliado es alguien que se asocia con tu tienda VTEX para promover las ventas a cambio de una comisión. El término es, por tanto, diferente del [concepto habitual de afiliado en VTEX](https://help.vtex.com/es/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0).
 
@@ -48,9 +46,7 @@ La **página del perfil del afiliado** es una interfaz a través de la cual pued
 
 La página de **registro** permite que los interesados en convertirse en afiliados completen sus datos para solicitar el registro en su tienda VTEX.
 
-<div class = "alert alert-info">
-Las páginas de afiliación son personalizables. Para más información, consulta la guía del desarrollador <a href="https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app">Affiliates program app</a>.
-</div>
+>ℹ️ Las páginas de afiliación son personalizables. Para más información, consulta la guía del desarrollador [Affiliates program app](https://developers.vtex.com/vtex-developer-docs/docs/affiliates-program-app).
 
 ### Páginas en el Admin VTEX
 
@@ -127,9 +123,7 @@ En la parte superior de la página, verás las siguientes métricas sobre los pe
 - **Total del pedido:** suma de los valores del pedido, realizada a partir del precio de los ítems y sin incluir los gastos de envío.
 - **Total de la comisión del pedido:** suma de los valores de las comisiones de los afiliados sobre los pedidos.
 
-<div class = "alert alert-info">
-Para seguir el flujo de un pedido, haz clic en el <code>ID del pedido</code>. De este modo, se te redirigirá a <b>Pedidos > Todos los pedidos</b> en el Admin VTEX.
-</div> 
+>ℹ️ Para seguir el flujo de un pedido, haz clic en el `ID del pedido`. De este modo, se te redirigirá a **Pedidos > Todos los pedidos** en el Admin VTEX. 
 
 ### Buscar pedidos
 
@@ -195,9 +189,7 @@ Para exportar una plantilla de comisiones por SKU con extensión .CSV, en la par
 
 El archivo se enviará al email del [usuario](https://help.vtex.com/es/tutorial/gerenciando-usuarios--tutorials_512) conectado.
 
-<div class = "alert alert-info">
-El contenido exportado se refiere a las comisiones de los SKU de la lista en el momento de la exportación. Si algún filtro está activo, solo se exportarán las comisiones de SKU seleccionadas.
-</div>
+>ℹ️ El contenido exportado se refiere a las comisiones de los SKU de la lista en el momento de la exportación. Si algún filtro está activo, solo se exportarán las comisiones de SKU seleccionadas.
 
 ### Importar comisiones
 
@@ -213,9 +205,7 @@ Comprueba que aparece el siguiente mensaje:
 
 El nombre del archivo agregado aparecerá junto al campo `Última importación`.
 
-<div class = "alert alert-info">
-Puedes identificar la fecha de importación y el usuario que realizó la acción pasando el cursor por encima del símbolo <code>?</code> debajo de `Última importación`.
-</div>
+>ℹ️ Puedes identificar la fecha de importación y el usuario que realizó la acción pasando el cursor por encima del símbolo `?` debajo de `Última importación`.
 
 ### Descargar la última importación
 

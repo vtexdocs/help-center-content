@@ -27,6 +27,4 @@ Após realizar o [envio desses produtos](https://help.vtex.com/pt/tracks/configu
 
 Após ter feito a confirmação do ASIN, você terá concluído o *matching* do produto.
 
-<div class = "alert alert-danger">
-Ainda é possível utilizar o <em>matching</em> automático através da sua ativação no card da integração, entretanto o seller assume a responsabilidade por possíveis <em>mismatchs</em>(erro de compatibilidade) que esse fluxo pode gerar.
-</div>
+>❗ Ainda é possível utilizar o *matching* automático através da sua ativação no card da integração, entretanto o seller assume a responsabilidade por possíveis *mismatchs*(erro de compatibilidade) que esse fluxo pode gerar.

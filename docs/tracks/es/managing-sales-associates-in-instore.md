@@ -40,9 +40,7 @@ Puedes realizar el registro de un vendedor siguiendo los pasos a continuación:
 
 Una vez registrado, el vendedor recibirá un email de confirmación de registro y será redirigido a la aplicación VTEX Sales App para iniciar sesión como vendedor.
 
-<div class ="alert alert-warning">
-<p>Los vendedores registrados en VTEX Sales App no tienen permiso para acceder al Admin VTEX. Si un vendedor intenta iniciar sesión en el Admin, se eliminará su registro.</p> 
-</div>
+>⚠️ Los vendedores registrados en VTEX Sales App no tienen permiso para acceder al Admin VTEX. Si un vendedor intenta iniciar sesión en el Admin, se eliminará su registro.
 
 ### Campos de registro del vendedor
 
@@ -57,9 +55,7 @@ Una vez registrado, el vendedor recibirá un email de confirmación de registro 
 
 * **Tienda:** [cuenta franquicia](https://help.vtex.com/es/tutorial/que-es-una-cuenta-franquicia--kWQC6RkFSCUFGgY5gSjdl) en la que el vendedor será registrado. Campo obligatorio.
 
-<div class ="alert alert-info">
-<p>Los cambios pueden tardar hasta 15 minutos en procesarse y aplicarse en VTEX Sales App.</p> 
-</div>
+>ℹ️ Los cambios pueden tardar hasta 15 minutos en procesarse y aplicarse en VTEX Sales App.
 
 ## Buscar vendedor
 

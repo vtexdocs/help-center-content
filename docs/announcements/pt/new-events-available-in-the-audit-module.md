@@ -228,9 +228,7 @@ A VTEX adicionou os seguintes eventos à [lista de eventos registrados pelo Audi
   </tr>
 </table>
 
-<div class = "alert alert-info">
-Confira a <a href="https://help.vtex.com/pt/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ">lista completa de eventos disponíveis no Audit</a>.
-</div>
+>ℹ️ Confira a [lista completa de eventos disponíveis no Audit](https://help.vtex.com/pt/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
 
 ## O que precisa ser feito?
 

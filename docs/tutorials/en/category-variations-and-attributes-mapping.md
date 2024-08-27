@@ -15,9 +15,7 @@ legacySlug: category-variations-and-attributes-mapping
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-<div class = "alert alert-info">
-The Mercado Livre plataform is available only in spanish and portuguese, so the related terms in the article below do not have a translation.   
-  </div>
+>ℹ️ The Mercado Livre plataform is available only in spanish and portuguese, so the related terms in the article below do not have a translation.
 
 After making the initial settings for integration with Mercado Livre, we are now going to categorize and send product variations and attributes to the marketplace. You will send this information through the __upload of the mapping spreadsheet__, which contains a correspondence table.
 

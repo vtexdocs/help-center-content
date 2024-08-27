@@ -21,9 +21,7 @@ Events are reported by our team whenever our automatic monitoring system identif
 
 Below, you will find details about the VTEX platform status page elements.
 
-<div class = "alert alert-info">
-The status page is built on Atlassian Statuspage.
-</div>
+>ℹ️ The status page is built on Atlassian Statuspage.
 
 ## Notifications
 

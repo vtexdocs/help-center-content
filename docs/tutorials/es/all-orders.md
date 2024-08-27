@@ -15,9 +15,7 @@ legacySlug: lista-de-pedidos-beta
 subcategory: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-<div class = "alert alert-info">
-Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi Cuenta</a>.
-</div>
+>ℹ️ Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 La página **Todos los pedidos** permite a los administradores de la tienda hacer seguimiento de los pedidos de su tienda y extraer información para la gestión inteligente de su negocio. Para acceder a la página, en el menú del Admin VTEX, haz clic en **Pedidos > Todos los pedidos**. En esta página puedes: 
 

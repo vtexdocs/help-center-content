@@ -26,9 +26,7 @@ Es posible configurar qué pestañas aparecen para el consumidor en las [configu
 - [Suscripciones](#subscripciones)
 - [Autenticación](#autenticacion)
 
-<div class = "alert alert-info">
-Para saper sobre cómo personalizar la funcionalidad <b>Mi cuenta</b>, consulte la documentación para desarrolladores <a href="https://developers.vtex.com/docs/guides/vtex-my-account">My Account - StoreV2 version</a>. Es importante señalar que VTEX no presta soporte a <b>Mi cuenta</b> que es personalizada.
-</div>
+>ℹ️ Para saper sobre cómo personalizar la funcionalidad **Mi cuenta**, consulte la documentación para desarrolladores [My Account - StoreV2 version](https://developers.vtex.com/docs/guides/vtex-my-account). Es importante señalar que VTEX no presta soporte a **Mi cuenta** que es personalizada.
 
 ## Perfil
 
@@ -77,9 +75,7 @@ El botón `Añadir dirección` permite incluir direcciones diferentes a las que 
 
 ## Pedidos
 
-<div class = "alert alert-info">
-En <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi Cuenta</a>, los clientes solo pueden acceder a los pedidos de los últimos dos años.
-</div>
+>ℹ️ En [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), los clientes solo pueden acceder a los pedidos de los últimos dos años.
 
 Esta pestaña proporciona una lista completa de los pedidos realizados por un cliente en su tienda. La lista se ordena por fecha de creación y muestra detalles como la fecha del pedido, el valor total de la compra, el ID del pedido, el _status_ y los ítems comprados.
 

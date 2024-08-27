@@ -72,9 +72,7 @@ Veja abaixo a descrição de todos os campos que você precisa preencher para cr
   - **Frete grátis**: desconto total sobre o valor do frete.
   - **Brinde**: desconto total sobre o valor do produto definido como brinde. Você pode selecionar um ou mais SKUs como brinde ou mais de uma unidade do mesmo SKU. Para definir mais de um brinde, selecione a opção **Ativar multiplicador de brindes** e defina a quantidade desejada. Saiba mais sobre essa opção neste [artigo](https://help.vtex.com/pt/tutorial/o-que-significa-ativar-o-multiplicador-de-brinde-em-uma-promocao--1gydgkmjEWcoo2CskUwuYK#).
 
-  <div class = "alert alert-info">
-  <p>O produto <b>Brinde</b> também precisa ter um preço cadastrado, mesmo sendo dado de graça ao cliente.</p>
- </div>
+  >ℹ️ O produto **Brinde** também precisa ter um preço cadastrado, mesmo sendo dado de graça ao cliente.
 
   - **Desconto nominal baseado em fórmula**: desconto é calculado com a soma dos preços de produtos (total), com o frete (freight) e com o percentual de desconto desejado. É importante destacar que o frete implementado na fórmula será o menor disponível para o pedido, independente da seleção do cliente. O separador decimal deve ser sempre o ponto. Exemplo: o desconto será de 30% do valor do produto + valor do frete. Logo, a fórmula deve ser preenchida da seguinte maneira: `((total + freight) * 0.3)`.
   - **Valor fidelidade nominal**: crédito que será adicionado no programa de fidelidade da loja. 
@@ -101,9 +99,7 @@ Nesta seção, é possível definir para quais sellers a promoção será aplica
 
 Para que a promoção seja válida para todos os sellers, deixe a seleção vazia.
 
-<div class = "alert alert-warning">
-  <p><b>Atenção:</b> não é possível selecionar diretamente um seller white label. Para incluir um seller white na promoção, existem duas opções:</p><ol>1. Restringir os sellers à loja principal. Essa restrição adiciona todos os sellers white label da sua loja à promoção.</ol><ol>2. Deixar a seleção vazia, incluindo todos os sellers. Aqui, todos os tipos de sellers - white label ou não - serão adicionados à promoção.</ol>
-</div>
+>⚠️ **Atenção:** não é possível selecionar diretamente um seller white label. Para incluir um seller white na promoção, existem duas opções:1. Restringir os sellers à loja principal. Essa restrição adiciona todos os sellers white label da sua loja à promoção.2. Deixar a seleção vazia, incluindo todos os sellers. Aqui, todos os tipos de sellers - white label ou não - serão adicionados à promoção.
 
 #### Política Comercial
 

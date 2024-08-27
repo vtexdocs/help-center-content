@@ -89,9 +89,7 @@ Tipo de feedback (marca una o varias casillas):
 
 **Agregar captura de pantalla para ayudarnos a comprender mejor tu opinión:** campo opcional para adjuntar capturas de pantalla u otros documentos que faciliten la comprensión.
 
-<div class = "alert alert-info">
-Este proceso de feedback no debe utilizarse para abrir un ticket o solicitud de soporte técnico en VTEX.
-</div>
+>ℹ️ Este proceso de feedback no debe utilizarse para abrir un ticket o solicitud de soporte técnico en VTEX.
 
 ### Configuración de la cuenta y del usuario
 

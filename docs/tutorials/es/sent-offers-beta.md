@@ -37,9 +37,7 @@ Cuando un seller configura condiciones de precios y stock, prepara su producto p
 
 Este componente realiza una lista de todos los canales integrados, así como del número de anuncios enviados, anuncios en procesamiento y anuncios con error, en cada canal. A través de la lista, los sellers tienen una mayor visibilidad sobre el estado de sus integraciones con canales externos.
 
-<div class = "alert alert-info">
-Anuncios enviados permite hacer un seguimiento de los anuncios con <a href="https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Libre Classic</a>, <a href="https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Libre Premium</a>, <a href="https://help.vtex.com/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm">Netshoes</a> y <a href="https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-un-marketplace-vtex">marketplaces VTEX</a>.
-</div>
+>ℹ️ Anuncios enviados permite hacer un seguimiento de los anuncios con [Mercado Libre Classic](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), [Mercado Libre Premium](https://help.vtex.com/es/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), [Netshoes](https://help.vtex.com/es/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) y [marketplaces VTEX](https://help.vtex.com/es/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-un-marketplace-vtex).
 
 ## Conozca más
 

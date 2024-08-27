@@ -31,9 +31,7 @@ With Extensions Hub, the entire navigation and app purchasing experience happens
 
 The **App Store** displays prices in US dollars (USD) for stores all over the world, and in Brazilian reais (BRL) for stores in Brazil. Payments for app purchases, subscriptions, and usage are processed automatically, and the corresponding amounts are added to your [VTEX invoice](https://help.vtex.com/en/tutorial/billing-overview--6UxfCl4fw4GmyQwoUuIcQs) in your local currency, eliminating the need for credit card payment. If your operation is located outside Brazil and your invoice is in a currency other than USD, we will convert the USD amount to your local currency.
 
-<div class = "alert alert-info">
-The <a href="http://apps.vtex.com/">App Store website</a> will still exist for viewing apps in a public way, but it will no longer support app purchases. Purchases can only be made through the VTEX Admin.
-</div>
+>ℹ️ The [App Store website](http://apps.vtex.com/) will still exist for viewing apps in a public way, but it will no longer support app purchases. Purchases can only be made through the VTEX Admin.
 
 ### Partners
 

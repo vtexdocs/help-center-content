@@ -21,9 +21,7 @@ Every time a seller sends its products to a VTEX marketplace, the marketplace [c
 
 Once the marketplace has cataloged the SKUs, either via the **Received SKUs** page or by using the [VTEX Matcher](https://help.vtex.com/en/tutorial/entendendo-a-pontuacao-do-vtex-matcher--tutorials_424), the bindings between the seller’s SKUs and the marketplace SKUs appear on the **SKU Bindings** page. Bindings will automatically have the _Bind_ status.
 
-<div class = "alert alert-info">
-By default, <a href="https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa">white label sellers</a> do not have that binding between their SKUs and the ones from the marketplace.
-</div>
+>ℹ️ By default, [white label sellers](https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) do not have that binding between their SKUs and the ones from the marketplace.
 
 The **SKU Bindings** page allows the marketplace to track and manage the binding relationship between the seller’s SKUs and the ones from the marketplace. To access the page, go to the VTEX Admin, **Marketplace > Sellers > SKU Bindings**. You'll see the following interface:
 
@@ -65,17 +63,13 @@ You can also search through the list by filtering per binding status. To do this
 
 To return to the list with all the binding statuses, click on the `Clear all` button. This button will only clear the status filter, not the terms you have entered into the search boxes.
 
-<div class = "alert alert-info">
-If the search returns no results, check the spelling of the words you have written or check the combination of filters you have used.
-</div>
+>ℹ️ If the search returns no results, check the spelling of the words you have written or check the combination of filters you have used.
 
 ## Unbinding a SKU
 
 To undo a SKU binding, click on the _switch_ <i class="fas fa-toggle-on"></i> option and confirm the option `Unbind SKU`. 
 
-<div class = "alert alert-info">
-When you unbind the seller's SKU, the SKU will no longer receive price and stock updates, and it will be shown as unavailable in the marketplace catalog. You may rebind the SKU at any time. To do so, you do not have to catalog the seller's SKU again.
-</div>
+>ℹ️ When you unbind the seller's SKU, the SKU will no longer receive price and stock updates, and it will be shown as unavailable in the marketplace catalog. You may rebind the SKU at any time. To do so, you do not have to catalog the seller's SKU again.
 
 If you want to reestablish the binding between the seller’s SKU and the marketplace SKU, select the _switch_ option <i class="fas fa-toggle-on"></i> again by clicking on it.
 
@@ -109,9 +103,7 @@ To export the SKU binding list in XLSX format, follow the steps below:
 
 The spreadsheet will be sent to the email of the user that is currently logged in. Export time depends on processing factors of the VTEX platform and on the size of the file.
 
-<div class = "alert alert-info">
-When exporting, the exported file will have a list with the bindings of the SKUs. If there's an active search or filter, only the selected bindings will be exported.
-</div>
+>ℹ️ When exporting, the exported file will have a list with the bindings of the SKUs. If there's an active search or filter, only the selected bindings will be exported.
 
 ## Learn more
 

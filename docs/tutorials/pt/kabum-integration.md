@@ -83,9 +83,7 @@ O [afiliado](https://help.vtex.com/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk
 
 ## Envio de informações para o KaBuM!
 
-<div class = "alert alert-info">
-O processo de onboarding com conectores certificados é responsabilidade dos próprios parceiros.
-</div>
+>ℹ️ O processo de onboarding com conectores certificados é responsabilidade dos próprios parceiros.
 
 Após concluir as configurações na plataforma VTEX, para dar prosseguimento a integração com o KaBuM!, você precisará possuir uma **chave de API da KaBuM!**. Caso não possua, saiba como obtê-la lendo o artigo da KaBuM! [Geração de chave de API](https://kabum.movidesk.com/kb/article/269610/geracao-de-chave-de-api).
 

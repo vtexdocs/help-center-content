@@ -22,9 +22,7 @@ See below for the main differences between order split and package split scenari
 * **[Order split](#order-split)**: occurs when more than one seller fulfills the same purchase. This means that if a single purchase will be fulfilled by three sellers, three orders will be generated.
 * **[Delivery split](#package-split-delivery-split)**: occurs when there is more than one delivery for an order. For example, when a single seller is responsible for delivery, but the order is delivered in more than one shipment.
 
-<div class = "alert alert-info">
-Whenever there is an order split, there is a delivery split. In addition, a seller may choose to split the same order into more than one package; thus, at the end of the purchase, the number of packages will always be greater than or equal to the number of orders generated.
-</div>
+>ℹ️ Whenever there is an order split, there is a delivery split. In addition, a seller may choose to split the same order into more than one package; thus, at the end of the purchase, the number of packages will always be greater than or equal to the number of orders generated.
 
 To facilitate the identification of cases in which there are order splits and delivery splits, see some examples below:
 

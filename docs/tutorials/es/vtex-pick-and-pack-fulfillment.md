@@ -15,9 +15,7 @@ legacySlug: vtex-pick-and-pack-fulfillment
 subcategory: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-<div class = "alert alert-info">
-Si tienes interés en implementarla en tu negocio, rellena nuestro <a href="https://vtex.com/co-es/contacto/">formulario</a> indicando en el campo <code>Comentarios</code> el nombre del producto deseado.
-</div>
+>ℹ️ Si tienes interés en implementarla en tu negocio, rellena nuestro [formulario](https://vtex.com/co-es/contacto/) indicando en el campo `Comentarios` el nombre del producto deseado.
 
 - [Ingreso a la aplicación](#ingreso-a-la-aplicacion)
     - [Página de inicio](#pagina-de-inicio)
@@ -90,9 +88,7 @@ Al ingresar, encontrarás pedidos que están listos para preparación, organizad
 
 Los pedidos en color rojo son aquellos que llevan mucho tiempo sin ser gestionados y el verde representa aquellos más recientes.
 
-<div class = "alert alert-info">
-Las hojas de trabajo permitirán combinar varios pedidos, de modo que todos los ítems puedan ser alistados.
-</div>
+>ℹ️ Las hojas de trabajo permitirán combinar varios pedidos, de modo que todos los ítems puedan ser alistados.
 
 Elige los pedidos que deseas gestionar y haz clic en la opción  **Empezar a alistar.** En ese momento el sistema crea las hojas de trabajo, con su respectivo número de identificación, que estarán compuestas por los ítems de los pedidos seleccionados.
 
@@ -346,9 +342,7 @@ La estrategia de alistamiento está estructurada por olas, e incluye:
 - Tags de hojas de trabajo.
 - Activar códigos EAN dinámicos.
 
-<div class = "alert alert-info">
-Alistamiento por olas significa que a medida que van llegando los pedidos estos pueden alistarse.
-</div>
+>ℹ️ Alistamiento por olas significa que a medida que van llegando los pedidos estos pueden alistarse.
 
 ### Cambios en los pedidos
 
@@ -393,13 +387,9 @@ Existen tres tipos: precio, peso y cantidad. La configuración se compone de:
 - **Decimales:** cantidad de decimales que soporta.
 - **Prueba:** permite verificar que la configuración esté correcta.
 
-<div class = "alert alert-info">
-Puedes seleccionar los tres tipos de configuraciones para la tienda.
-</div>
+>ℹ️ Puedes seleccionar los tres tipos de configuraciones para la tienda.
 
-<div class = "alert alert-info">
-Si quieres eliminar un tipo puedes hacerlo dentro del campo haciendo clic sobre la X que lo acompaña.
-</div>
+>ℹ️ Si quieres eliminar un tipo puedes hacerlo dentro del campo haciendo clic sobre la X que lo acompaña.
 
 >❗ EAN dinámico es un código que se genera con el peso del producto para calcular el precio.
 
@@ -460,9 +450,7 @@ Para la gestión del usuario alistador, es importante la asignación de instalac
 
 Los alistadores pueden vincularse a una o varias instalaciones.
 
-<div class = "alert alert-info">
-Instalación: es el lugar físico donde existen alistadores recolectando productos.
-</div>
+>ℹ️ Instalación: es el lugar físico donde existen alistadores recolectando productos.
 
 ### Configuración de catálogo
 

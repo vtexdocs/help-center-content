@@ -14,9 +14,7 @@ trackId: 7h8KvIC4DbRRc8VlyJ8PFc
 trackSlugEN: facebook-integration
 ---
 
-<div class = "alert alert-info">
-There is an integration with the <a href= "https://help.vtex.com/en/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D">Facebook Business Extension and Conversions API</a> that should be your default selection when integrating with Facebook. This is valid even if the <a href= "https://help.vtex.com/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">Facebook Integration</a> has already been completed because the app integration ensures that previous features as well as others work, such as the Conversions API and Facebook Pixels.
-</div>
+>ℹ️ There is an integration with the <a href= "https://help.vtex.com/en/tracks/integracao-com-o-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D">Facebook Business Extension and Conversions API</a> that should be your default selection when integrating with Facebook. This is valid even if the <a href= "https://help.vtex.com/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc">Facebook Integration</a> has already been completed because the app integration ensures that previous features as well as others work, such as the Conversions API and Facebook Pixels.
 
 [Facebook](https://about.fb.com) is the social network with the largest number of users in the world. Created in 2004, it is the platform where more than three billion people connect and share information every day.
 

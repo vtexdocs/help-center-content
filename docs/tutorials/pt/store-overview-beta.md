@@ -36,9 +36,7 @@ Neste artigo, apresentamos as principais seções e ações presentes na página
 
 As métricas da página incluem dados sobre pedidos e navegação, que são captados de sistemas diferentes.
 
-<div class ="alert alert-warning">
-É provável que existam diferenças entre as métricas de receita e ticket médio registradas no OMS e no Performance de Vendas, por exemplo. Isso ocorre porque o Performance de Vendas considera o valor dos itens, enquanto o OMS também considera os descontos, frete, taxas e promoções sobre o pedido - o que pode aumentar ou diminuir seu valor final. 
-</div>
+>⚠️ É provável que existam diferenças entre as métricas de receita e ticket médio registradas no OMS e no Performance de Vendas, por exemplo. Isso ocorre porque o Performance de Vendas considera o valor dos itens, enquanto o OMS também considera os descontos, frete, taxas e promoções sobre o pedido - o que pode aumentar ou diminuir seu valor final.
 
 * **Pedidos e receitas:** os dados sobre pedidos e receitas vêm do OMS, ou Sistema de Gerenciamento de Pedidos da VTEX e incluem pedidos realizados em todos os seus canais de venda.
 * **Sessões:** os dados de navegação vêm do sistema interno da plataforma que capta sessões dos usuários no storefront de lojas VTEX. Sessões são representadas pelo conjunto de visualizações das páginas acessadas por um mesmo usuário  ao navegar em seu ecommerce, desconsiderando marketplaces, apps, Sales App e qualquer outro canal de venda.

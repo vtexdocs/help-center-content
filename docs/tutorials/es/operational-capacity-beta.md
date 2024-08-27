@@ -15,9 +15,7 @@ legacySlug: modulo-localidades
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-<div class = "alert alert-info">
-Esta funcionalidad se encuentra en la versión beta, por lo tanto, estamos trabajando para mejorarla. Si deseas utilizar la <b>Capacidad operativa (Beta)</b>, completa el <a href="https://docs.google.com/forms/d/e/1FAIpQLScgmHPJEnVfd1EK9znevW-bcdxL2WVqzNZdrwri9auKayZDJA/viewform">formulario de contacto</a>. El requisito para usar la funcionalidad es tener <a href="https://help.vtex.com/es/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl">cuentas franquicia</a> asociadas a la <a href="https://help.vtex.com/es/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-cuenta-vtex">cuenta principal</a>.
-</div>
+>ℹ️ Esta funcionalidad se encuentra en la versión beta, por lo tanto, estamos trabajando para mejorarla. Si deseas utilizar la **Capacidad operativa (Beta)**, completa el [formulario de contacto](https://docs.google.com/forms/d/e/1FAIpQLScgmHPJEnVfd1EK9znevW-bcdxL2WVqzNZdrwri9auKayZDJA/viewform). El requisito para usar la funcionalidad es tener [cuentas franquicia](https://help.vtex.com/es/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) asociadas a la [cuenta principal](https://help.vtex.com/es/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#tipos-de-cuenta-vtex).
 
 La página **Capacidad operativa** permite gestionar la capacidad de los sellers para recibir y preparar pedidos de la tienda, lo que te permite optimizar tu red logística. Puedes monitorear la distribución de pedidos entre los sellers y realizar [acciones](https://help.vtex.com/es/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#acciones-en-la-pagina-de-detalles-del-seller) para mejorarla.
 
@@ -63,9 +61,7 @@ En la página **Envío > Capacidad operativa** del Admin VTEX, puedes realizar l
 
 En la barra de búsqueda puedes escribir el nombre de un seller para encontrarlo.
 
-<div class = "alert alert-info">
-Puedes asociar la búsqueda de sellers con el <a href="https://help.vtex.com/es/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#filtrar-sellers">filtro de status</a>. Si no se devuelve ningún resultado, comprueba que no haya ningún filtro activo.
-</div>
+>ℹ️ Puedes asociar la búsqueda de sellers con el [filtro de status](https://help.vtex.com/es/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#filtrar-sellers). Si no se devuelve ningún resultado, comprueba que no haya ningún filtro activo.
 
 ### Filtrar sellers
 

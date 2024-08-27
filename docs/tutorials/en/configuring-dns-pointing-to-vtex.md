@@ -68,16 +68,14 @@ Although not recommended, another alternative would be not including CAA records
 
 To easily create/verify your CAA records, you can use [CAA Record Helper by SSLMate](https://sslmate.com/caa/). The [DiG](https://www.hostinger.com/tutorials/how-to-use-the-dig-command-in-linux/) program can also help you verify your records with the `dig domain.com CAA` command – a `SERVFAIL` status can indicate non-compliance of your DNS server.
 
-<div class = "alert alert-info">
-Learn more:
-<p>
-<ul>
-<li><a href="https://sslmate.com/caa/">CAA Record Helper by SSLMate</a></li>
-<li><a href="https://letsencrypt.org/docs/caa/">Let's Encrypt: Certificate Authority Authorization (CAA)</a></li>
-<li><a href="https://sslmate.com/caa/about">SSL Mate: About CAA</a></li>
-</ul>
-</p>
-</div>
+>ℹ️ Learn more:
+>
+> *[CAA Record Helper by SSLMate](https://sslmate.com/caa/)
+>
+> *[Let's Encrypt: Certificate Authority Authorization (CAA)](https://letsencrypt.org/docs/caa/)
+>
+> *[SSL Mate: About CAA](https://sslmate.com/caa/about)
+> 
 
 ## Pointing the DNS
 
@@ -93,9 +91,7 @@ If your storefront is powered by [CMS IO](https://help.vtex.com/en/tracks/cms--2
 
 After you receive the internal pointing confirmation, you must do the [common DNS pointing](#common-dns-pointing) within 5 days. Otherwise the internal pointing will be deleted and you will need to redo the request.
 
-<div class = "alert alert-info">
-Learn more at <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-go-live">Go live with Store Framework</a> or <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io">Migration from legacy CMS to Store Framework</a>.
-</div>
+>ℹ️ Learn more at [Go live with Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-go-live) or [Migration from legacy CMS to Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io).
 
 ### Common DNS pointing
 

@@ -158,6 +158,4 @@ Veja a seguir como configurar o período na condição de pagamento:
 
 Imagine que sua loja normalmente oferece um parcelamento em até 6x sem juros, mas quer aproveitar as vendas do final de ano para oferecer um parcelamento em até 12x sem juros. Nesse caso, bastaria seguir os passos acima e cadastrar o período para a condição de pagamento, deixar de ser aplicada em 01 de janeiro do ano seguinte, por exemplo.
 
-<div class = "alert alert-warning">
-  <p>As condições de pagamento possuem um cache de até 10 minutos no Smart Checkout. Logo, qualquer mudança nas Condições de Pagamento do módulo <strong>Pagamentos</strong> pode levar até 10 minutos para entrar em produção no Smart Checkout.</p>
-</div>
+>⚠️ As condições de pagamento possuem um cache de até 10 minutos no Smart Checkout. Logo, qualquer mudança nas Condições de Pagamento do módulo **Pagamentos** pode levar até 10 minutos para entrar em produção no Smart Checkout.

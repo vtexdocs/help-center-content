@@ -44,9 +44,7 @@ Porém, caso mais de uma promoção seja aplicada, o que aparecerá será apenas
 
 ## orderForm
 
-<div class = "alert alert-warning">
-  <p>Para realizar a investigação documentada nesta seção, é necessário utilizar o Google Chrome. Por se tratar de uma ferramenta externa à VTEX, ela pode ser atualizada sem aviso prévio.</p>
-</div>
+>⚠️ Para realizar a investigação documentada nesta seção, é necessário utilizar o Google Chrome. Por se tratar de uma ferramenta externa à VTEX, ela pode ser atualizada sem aviso prévio.
 
 Na página do carrinho, você pode verificar o orderForm, que é um arquivo em formato JSON com todas as informações correspondentes ao pedido que está sendo criado.
 

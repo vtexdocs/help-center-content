@@ -27,9 +27,7 @@ Adoptamos esa taxonomía porque es ampliamente aplicable a cualquier contexto, y
 
 Se utiliza, por ejemplo, como referencia para la integración de productos con Amazon, Buscapé y marketplaces.
 
-<div class = "alert alert-info">
-El comportamiento predeterminado de nuestra integración con Google Shopping es <strong>no enviar</strong> esta información. Por lo tanto, la mayoría de las tiendas se basan en la propia categorización automática de Google. Si prefiere la categorización manual, <a href="https://help.vtex.com/es/tutorial/abrir-tikets-para-el-soporte-vtex--16yOEqpO32UQYygSmMSSAM" target="_blank">contacte nuestro soporte</a>.
-</div>
+>ℹ️ El comportamiento predeterminado de nuestra integración con Google Shopping es **no enviar** esta información. Por lo tanto, la mayoría de las tiendas se basan en la propia categorización automática de Google. Si prefiere la categorización manual, [contacte nuestro soporte](https://help.vtex.com/es/tutorial/abrir-tikets-para-el-soporte-vtex--16yOEqpO32UQYygSmMSSAM" target="_blank).
 
 ### ¿Cuándo se aplica?
 

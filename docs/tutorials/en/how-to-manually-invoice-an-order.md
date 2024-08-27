@@ -24,9 +24,7 @@ To invoice the order on the VTEX platform, you need to add the items' invoice to
 * Via [API](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).
 * Via VTEX Admin.
 
-<div class = "alert alert-info">
-You can change the <a href="https://help.vtex.com/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE">carrier</a> associated with the order when invoicing it. To do so, in the <b>Order Tracking</b> section, click <i>Carrier</i> and select the desired option.
-</div>
+>ℹ️ You can change the [carrier](https://help.vtex.com/en/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE) associated with the order when invoicing it. To do so, in the **Order Tracking** section, click <i>Carrier</i> and select the desired option.
 
 To send the invoice via VTEX Admin, follow the steps below:
 

@@ -59,9 +59,7 @@ Essa classificação é importante para que o time de suporte priorize os chamad
 
 >ℹ️ **Normal:** perguntas em geral.
 
-<div class = "alert alert-warning">
-<strong>Alto:</strong> documentações importantes estão inviabilizando o processo.
-</div>
+>⚠️ **Alto:** documentações importantes estão inviabilizando o processo.
 
 >❗ **Urgente:** Admin bloqueado, ameaçando o lucro dos seus negócios.
 
