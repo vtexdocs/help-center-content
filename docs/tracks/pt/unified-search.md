@@ -16,9 +16,7 @@ trackSlugPT: instore-usando-o-app
 
 Com a [prateleira infinita](https://help.vtex.com/pt/tracks/estrategias-de-comercio-unificado--3WGDRRhc3vf1MJb9zGncnv/40KMlmGI5tN0r0KPCDWgGn) do VTEX Sales App, o vendedor pode buscar por produtos que não estão limitados ao estoque da loja e adicioná-los ao carrinho. Para buscar um produto, clique no ícone de lupa <i class="fas fa-search"></i> e a barra de busca será exibida no topo da página inicial da loja.  Digite o nome do produto, código referência, SKU ID  ou EAN para encontrar o que precisa.
 
-<div class = "alert alert-info">
-Para melhorar a experiência em cenários em que a conexão com a internet esteja em baixa velocidade, esta funcionalidade conta com recursos otimizados que fazem uso do cache do navegador para otimizar a busca.
-</div>
+>ℹ️ Para melhorar a experiência em cenários em que a conexão com a internet esteja em baixa velocidade, esta funcionalidade conta com recursos otimizados que fazem uso do cache do navegador para otimizar a busca.
 
 ![Barra busca - PT](https://images.ctfassets.net/alneenqid6w5/3bfHAUCI0TwYoAkLMf67yw/3c7031056980ae911e2436933bee89fa/Tela_1_barra_busca.gif)
 

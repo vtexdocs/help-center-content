@@ -75,9 +75,7 @@ Você pode cadastrar uma loja física seguindo os passos a seguir:
 * **Política comercial:** [política comercial](https://help.vtex.com/pt/tutorial/como-funciona-uma-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que será aplicada na loja física. Campo obrigatório.
 * **Ponto de retirada:** [ponto de retirada](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R) cadastrado para essa loja física, onde clientes retiram seus pedidos. 
 
-<div class ="alert alert-info">
-<p>As alterações podem levar até 15 minutos para serem processadas e aplicadas no VTEX Sales App.</p> 
-</div>
+>ℹ️ As alterações podem levar até 15 minutos para serem processadas e aplicadas no VTEX Sales App.
 
 ## Buscar loja física
 

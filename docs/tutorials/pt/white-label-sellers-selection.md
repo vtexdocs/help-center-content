@@ -22,9 +22,7 @@ Existem dois tipos de sellers na VTEX:
 - **Seller comum:** o seller é visível na vitrine do marketplace e pode ser escolhido pelo consumidor durante sua experiência de compra.
 - **[Seller white label](https://help.vtex.com/pt/tutorial/definicoes-de-conta-franquia-e-seller-white-label--5orlGHyDHGAYciQ64oEgKa):** o seller permanece oculto na experiência de compra do consumidor e é selecionado de forma automática pela plataforma VTEX para realizar o envio do pedido.
 
-<div class = "alert alert-info">
-Na VTEX, a conta franquia é um tipo de conta criada associada a uma conta principal e tem a característica de ser um seller white label da conta principal. Esse modelo de negócio é estratégico para lojistas que desejam conectar lojas físicas ao seu canal digital de venda, saiba mais em <a href="https://help.vtex.com/pt/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl">O que é conta franquia</a>.
-</div>
+>ℹ️ Na VTEX, a conta franquia é um tipo de conta criada associada a uma conta principal e tem a característica de ser um seller white label da conta principal. Esse modelo de negócio é estratégico para lojistas que desejam conectar lojas físicas ao seu canal digital de venda, saiba mais em [O que é conta franquia](https://help.vtex.com/pt/tutorial/what-is-a-franchise-account--kWQC6RkFSCUFGgY5gSjdl).
 
 Quando o consumidor navega no marketplace, seja na etapa da vitrine ou no carrinho, as informações sobre disponibilidade dos itens e opções de envio dos sellers apresentadas ao consumidor podem variar, a depender do marketplace saber ou não a localização desse comprador. Diante disso, este artigo se divide em:
 
@@ -39,9 +37,7 @@ Quando os clientes navegam pelo marketplace, sua expectativa é visualizar produ
 - [Vitrine sem localização do cliente](#vitrine-sem-localizacao-do-cliente)
 - [Vitrine com localização do cliente](#vitrine-com-localizacao-do-cliente)
 
-<div class = "alert alert-info">
-Na etapa da vitrine, a plataforma VTEX não considera as opções de envio dos sellers, isso só é feito quando o cliente insere seu endereço no checkout. Portanto, é possível que o preço e a disponibilidade apresentados na vitrine sejam diferentes no fechamento da compra.
-</div>
+>ℹ️ Na etapa da vitrine, a plataforma VTEX não considera as opções de envio dos sellers, isso só é feito quando o cliente insere seu endereço no checkout. Portanto, é possível que o preço e a disponibilidade apresentados na vitrine sejam diferentes no fechamento da compra.
 
 ### Vitrine sem localização do cliente
 
@@ -79,9 +75,7 @@ Após filtrar todos os sellers com base nos critérios apresentados, é feita um
 - [Entrega](#tipo-de-envio-entrega): o cliente recebe o pedido no seu endereço.
 - [Retirada](#tipo-de-envio-retirada): o cliente retira o pedido em um [ponto de retirada](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R).
 
-<div class = "alert alert-info">
-Por padrão, do total de até doze sellers, até seis realizam a entrega e até seis a retirada. No entanto, se menos de seis sellers atenderem aos critérios de um tipo de envio, é possível que a lista de sellers do outro tipo seja maior que seis. Por exemplo, se somente cinco sellers entregam o pedido, a lista de retirada pode ser composta de sete sellers, de forma a totalizar doze sellers.
-</div>
+>ℹ️ Por padrão, do total de até doze sellers, até seis realizam a entrega e até seis a retirada. No entanto, se menos de seis sellers atenderem aos critérios de um tipo de envio, é possível que a lista de sellers do outro tipo seja maior que seis. Por exemplo, se somente cinco sellers entregam o pedido, a lista de retirada pode ser composta de sete sellers, de forma a totalizar doze sellers.
 
 #### Tipo de envio: entrega
 
@@ -96,13 +90,12 @@ A seleção de até seis sellers white label para envio do tipo entrega é feita
 6. A partir dos sellers selecionados para cobrir o carrinho, a plataforma VTEX calcula as combinações menos numerosas de sellers.
 7. Dentre essas combinações, é feita uma lista de, no máximo, seis sellers para envio do tipo entrega.
 
-<div class = "alert alert-info">
-É possível que em alguma etapa da seleção haja um empate de sellers. Quando isso ocorre, a seleção se divide em duas frentes, de forma a selecionar:
-<ul>
-  <li>Até três sellers que apresentam o melhor custo.</li>
-  <li>Até três sellers que apresentam o melhor prazo.</li>
-</ul>
-</div>
+>ℹ️ É possível que em alguma etapa da seleção haja um empate de sellers. Quando isso ocorre, a seleção se divide em duas frentes, de forma a selecionar:
+>
+> * Até três sellers que apresentam o melhor custo.
+>
+> * Até três sellers que apresentam o melhor prazo.
+> 
 
 Se existir um empate entre sellers nos critérios de melhor custo ou prazo, o critério do desempate é o seller ter a maior quantidade de SKUs em estoque.
 
@@ -168,9 +161,7 @@ A seleção de até seis sellers para envio do tipo retirada é planejada para o
       - **Melhor prazo:** sellers que disponibilizam os produtos para a coleta em menos tempo.
       - **Melhor custo:** sellers que oferecem menores preços para retirada do pedido.
 
-<div class = "alert alert-info">
-Quando existe um empate no critério de melhor custo ou melhor prazo, o fator de desempate é o seller ter a maior quantidade de SKUs no estoque.
-</div>
+>ℹ️ Quando existe um empate no critério de melhor custo ou melhor prazo, o fator de desempate é o seller ter a maior quantidade de SKUs no estoque.
 
 ##### Exemplo para envio tipo retirada
 

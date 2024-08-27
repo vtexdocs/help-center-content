@@ -33,9 +33,7 @@ O objetivo com as **Opções de envio**, no entanto, não é substituir [políti
 
 Com as **Opções de envio**, é feita uma separação entre o que é cobrado dos consumidores pelo envio do pedido e o custo do frete para o lojista, pois é possível configurar diferentes regras de precificação para a tarifa de envio. 
 
-<div class = "alert alert-info">
-Para que a escolha das transportadoras para envio do pedido seja feita corretamente, é necessário inserir nas planilhas de frete o custo real que as transportadoras cobram para realizar o envio.
-</div>
+>ℹ️ Para que a escolha das transportadoras para envio do pedido seja feita corretamente, é necessário inserir nas planilhas de frete o custo real que as transportadoras cobram para realizar o envio.
 
 As **Opções de envio** permitem ao lojista configurar a tarifa de envio a partir de:
 
@@ -57,9 +55,7 @@ Em cada opção de envio, o lojista registra um SLA (_Service Level Agreement_),
 
 O algoritmo da plataforma VTEX, o [Order Allocation Algorithm](https://help.vtex.com/pt/tutorial/order-allocation-algorithm-beta--1zLCAyEdnVe3EsE9Kz88xA), analisa as combinações de lojas e centros de distribuição que atendem cada uma das opções de envio e busca selecionar aquelas que apresentam o menor custo de envio. No exemplo, o resultado é uma combinação de menor custo de envio no mesmo dia, e outra combinação de menor custo de envio em até 5 dias úteis.
 
-<div class = "alert alert-info">
-Com as <b>Opções de envio</b>, existe a garantia de que uma opção de envio disponível para a localidade sempre será apresentada ao consumidor, o que não ocorria antes. A única exceção é se não houver seller e política de envio que atendam às condições de uma shipping option. Neste caso, nenhuma shipping option aparecerá para o consumidor no checkout.
-</div>
+>ℹ️ Com as **Opções de envio**, existe a garantia de que uma opção de envio disponível para a localidade sempre será apresentada ao consumidor, o que não ocorria antes. A única exceção é se não houver seller e política de envio que atendam às condições de uma shipping option. Neste caso, nenhuma shipping option aparecerá para o consumidor no checkout.
 
 ## Ações e configurações
 

@@ -62,10 +62,8 @@ Es el precio específico para cada una de las subregiones de un país. De esta m
 
 _Ej.: el precio de envío a Rio de Janeiro (región metropolitana) es de R$ 10,00, mientras que para Rio de Janeiro (interior) es de R$ 15,00._
 
-<div class = "alert alert-info">
-  OBS: el envío por región está disponible apenas para sellers que usan <strong>Wish Express</strong> <a href="https://merchantfaq.wish.com/hc/pt/articles/360018939394-Como-enviar-usando-o-Wish-Express-Brasil-">(sepa más aquí).</a>
- Para configurar Wish Express, basta seguir <a href="https://merchantfaq.wish.com/hc/pt/articles/232047747-Wish-Express-Fluxo-de-Inscri%C3%A7%C3%A3o">estos pasos.</a>
-  </div>
+>ℹ️ OBS: el envío por región está disponible apenas para sellers que usan **Wish Express** [(sepa más aquí).](https://merchantfaq.wish.com/hc/pt/articles/360018939394-Como-enviar-usando-o-Wish-Express-Brasil-)
+>  Para configurar Wish Express, basta seguir [estos pasos.](https://merchantfaq.wish.com/hc/pt/articles/232047747-Wish-Express-Fluxo-de-Inscri%C3%A7%C3%A3o)
   
 Indique en la configuración si va a utilizar Wish Express. Si no es así, puede pasar al siguiente paso.
 
@@ -84,8 +82,7 @@ Para indicar cuál transportadora de su tienda corresponde a las [transportadora
 
   3. Haga clic en el botón “Guardar” para finalizar.
 
-<div class = "alert alert-info">
-  OBS: si se mapea alguna transportadora no certificada por Wish, los pedidos no podrán ser rastreados y, consecuentemente, <strong>no habrá</strong> transferencia de comisión. Por lo tanto, es necesario ser muy cuidadoso en esta etapa.</div>
+>ℹ️ OBS: si se mapea alguna transportadora no certificada por Wish, los pedidos no podrán ser rastreados y, consecuentemente, **no habrá** transferencia de comisión. Por lo tanto, es necesario ser muy cuidadoso en esta etapa.
 
 ## Tasa de divergencia de precios
  

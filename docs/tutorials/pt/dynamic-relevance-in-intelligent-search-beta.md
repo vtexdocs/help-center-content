@@ -30,9 +30,7 @@ No Intelligent Search, existem duas formas de configurar a relevância da sua bu
 
 Apenas uma delas é aplicada à sua loja por vez e você pode [alterar o tipo de relevância](#alterar-o-tipo-de-relevancia) configurado na sua loja. Caso você altere a relevância manual para dinâmica, todas as regras manuais já cadastradas continuam salvas.
 
-<div class = "alert alert-info">
-A relevância manual é configurada como padrão da loja.
-</div>
+>ℹ️ A relevância manual é configurada como padrão da loja.
 
 ## Manual 
 
@@ -67,9 +65,7 @@ Para ativar a relevância dinâmica, siga os seguintes passos:
 
 Para alterar o tipo de relevância, siga os passos abaixo:
 
-<div class = "alert alert-warning">
-Não recomendamos a troca constante do tipo de relevância utilizado pela sua loja. O sistema precisa de uma semana para se estabelecer.
-</div>
+>⚠️ Não recomendamos a troca constante do tipo de relevância utilizado pela sua loja. O sistema precisa de uma semana para se estabelecer.
 
 1. No Admin VTEX, acesse **Storefront > Intelligent Search > Regras de relevância**  ou digite **Regras de relevância** na barra de busca no topo da página.
 2. Clique em `Alterar` .

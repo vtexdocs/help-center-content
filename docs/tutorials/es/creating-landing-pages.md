@@ -39,17 +39,11 @@ En el Admin puedes crear páginas de destino personalizadas, como páginas para 
 
 >⚠️ Para evitar conflictos y garantizar la integridad del sistema, no se permite modificar la URL de una ruta existente. Si es necesario modificarla, se recomienda crear una nueva página con la nueva ruta y, de ser necesario, desactivar la anterior.
 
-<div class = "alert alert-info">
-<p>Los cinco campos anteriores impactan directamente en los accesos a la tienda y en el posicionamiento en las páginas de resultados de los motores de búsqueda. Antes de rellenar los metadatos de la página, ten en cuenta las mejores prácticas de SEO.
-</p>
-</div>
+>ℹ️ Los cinco campos anteriores impactan directamente en los accesos a la tienda y en el posicionamiento en las páginas de resultados de los motores de búsqueda. Antes de rellenar los metadatos de la página, ten en cuenta las mejores prácticas de SEO.
 
 4.Elige un template para tu nueva página de destino desde el menú desplegable **Templates**.
 
-<div class = "alert alert-info">
-  <p>Si deseas crear un template condicional, haz clic en <strong>Agregar template condicional</strong> y rellena los campos según las condiciones deseadas. Ten en cuenta que el template condicional solo se mostrará cuando una o todas las condiciones predefinidas coincidan en la interfaz.
-</p>
-</div>
+>ℹ️ Si deseas crear un template condicional, haz clic en **Agregar template condicional** y rellena los campos según las condiciones deseadas. Ten en cuenta que el template condicional solo se mostrará cuando una o todas las condiciones predefinidas coincidan en la interfaz.
 
 5.Guarda los cambios.
 

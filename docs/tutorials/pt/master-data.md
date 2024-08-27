@@ -21,17 +21,13 @@ Por padrão, o Master Data é usado para armazenar e organizar dados de clientes
 
 Neste artigo você saberá mais detalhes sobre cada versão disponível do Master Data, conceitos importantes e como utilizar.
 
-<div class = "alert alert-info">
-Note que a depender da funcionalidade e versão que deseja utilizar, você deverá entrar em contato com o time de desenvolvimento da sua operação.
-</div>
+>ℹ️ Note que a depender da funcionalidade e versão que deseja utilizar, você deverá entrar em contato com o time de desenvolvimento da sua operação.
 
 ## Versões disponíveis
 
 Atualmente existem duas versões disponíveis e você pode escolher aquela que melhor se adequa às necessidades da sua operação. A principal diferença entre as duas é que a v2 não possui interface gráfica, podendo ser utilizada apenas por meio da [API do Master Data v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2), ainda que possua outras funcionalidades relevantes, como o uso de [JSON schemas](https://developers.vtex.com/docs/guides/starting-to-work-on-master-data-with-json-schema).
 
-<div class = "alert alert-info">
-Vale ressaltar a plataforma VTEX nativamente salva dados de clientes da sua loja no Master Data v1.
-</div>
+>ℹ️ Vale ressaltar a plataforma VTEX nativamente salva dados de clientes da sua loja no Master Data v1.
 
 Confira a tabela abaixo para saber mais sobre as funcionalidades de cada versão versões se diferem.
 
@@ -257,9 +253,7 @@ Como mencionado acima, cada documento tem um ID gerado automaticamente pela plat
 
 Por exemplo, é possível consultar um documento com informações de um cliente especificando o valor do campo `email` referente ao cliente.
 
-<div class = "alert alert-info">
-Saiba mais sobre como <a href=https://help.vtex.com/pt/tutorial/setting-up-an-index-on-master-data--tutorials_785>configurar índices no Master Data v1</a> ou <a href=https://developers.vtex.com/vtex-rest-api/reference/putindices>configurar índices com a API do Master Data v2</a>.
-</div>
+>ℹ️ Saiba mais sobre como <a href=https://help.vtex.com/pt/tutorial/setting-up-an-index-on-master-data--tutorials_785>configurar índices no Master Data v1</a> ou <a href=https://developers.vtex.com/vtex-rest-api/reference/putindices>configurar índices com a API do Master Data v2</a>.
 
 ## Triggers
 
@@ -274,17 +268,13 @@ Saiba mais sobre como [configurar triggers no Master Data v1](https://help.vtex.
 
 Com a v2 do Master Data, você pode definir formatos de dados com JSON schemas. Este formato indica como o Master Data deve validar e indexar documentos.
 
-<div class = "alert alert-info">
-  Saiba mais sobre <a href=https://json-schema.org/>JSON schemas</a>.
-</div>
+>ℹ️ Saiba mais sobre <a href=https://json-schema.org/>JSON schemas</a>.
 
 Você pode salvar um documento em qualquer entidade de dados se o conteúdo for um JSON válido. Uma entidade de dados pode ou não ter múltiplos JSON schemas associados.
 
 ![Master Data schemas](https://images.ctfassets.net/alneenqid6w5/CaidhUAHIxcwas8eWLQZu/908c8b04ea9e32271a494eeb0f2f7a56/schemas_pt.jpg)
 
-<div class = "alert alert-info">
-Um documento pode ser compatível com múltiplos JSON Schemas, mas também com nenhum.
-</div>
+>ℹ️ Um documento pode ser compatível com múltiplos JSON Schemas, mas também com nenhum.
 
 ## Casos de uso
 

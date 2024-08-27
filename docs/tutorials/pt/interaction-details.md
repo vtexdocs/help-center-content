@@ -33,9 +33,7 @@ A página **Detalhes da interação** apresenta as seguintes seções:
 - [Resultado da Interação](#resultado-da-interacao)    
 - [Linha do tempo](#linha-do-tempo)     
 
-<div class = "alert alert-info">
-O <b>Gerenciamento de anúncios</b> permite acompanhar anúncios com o <a href="https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Livre</a> (Classic e Premium), <a href="https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm">Netshoes</a> e marketplaces VTEX. Para conectores que desejam integrar via API, existe o <a href="https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors">Guia de integração da Gerenciamento de anúncios</a>.
-</div>
+>ℹ️ O **Gerenciamento de anúncios** permite acompanhar anúncios com o [Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic e Premium), [Netshoes](https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) e marketplaces VTEX. Para conectores que desejam integrar via API, existe o [Guia de integração da Gerenciamento de anúncios](https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors).
 
 ## Cabeçalho
 ![Interaction details PT cabeçalho](https://images.ctfassets.net/alneenqid6w5/7zEocS2MW5dSRzZaaqNDUc/13e23260eaabde52ec1c38246a05be68/Interaction_details_PT_cabe__alho.jpg)

@@ -15,9 +15,7 @@ legacySlug: importacao-de-pedidos-amazon-dba
 subcategory: 4uqMnZjwBO04uWgCom8QiA
 ---
 
-<div class = "alert alert-info">
-A funcionalidade Importação de Pedidos Amazon DBA está disponível apenas para sellers VTEX Brasil.  
-</div>  
+>ℹ️ A funcionalidade Importação de Pedidos Amazon DBA está disponível apenas para sellers VTEX Brasil.  
 
 Existem três tipos de configuração logística para atender aos pedidos realizados na Amazon:
 

@@ -15,9 +15,7 @@ legacySlug: vtex-pick-and-pack-fulfillment
 subcategory: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-<div class = "alert alert-info">
-If you are interested in implementing for your business, fill out our <a href="https://vtex.com/us-en/contact/">form</a> and indicate the name of the desired product in the <code>Comments</code> section.
-</div>
+>ℹ️ If you are interested in implementing for your business, fill out our [form](https://vtex.com/us-en/contact/) and indicate the name of the desired product in the `Comments` section.
 
 [VTEX Pick and Pack](https://help.vtex.com/en/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU) is a solution to streamline stores’ fulfillment processes by optimizing orders’ picking and packing, and the last-mile delivery. The solution is composed of the [Last Mile](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) and **VTEX Pick and Pack Fulfillment** features, and appears in your VTEX Admin in **Apps**.
 
@@ -349,9 +347,7 @@ You can combine multiple filters to filter the information you want to see in th
 * City
 * Seller
 
-<div class = "alert alert-info">
-The filter <b>Seller</b> is visible only for the account that operates as a marketplace. <a href="https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa">White label sellers</a> do not have that filter option in <b>Insights</b>.
-</div>
+>ℹ️ The filter **Seller** is visible only for the account that operates as a marketplace. [White label sellers](https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) do not have that filter option in **Insights**.
 
 Besides the **Total orders** chart, there is a sequence of charts where you obtain data about _Payment methods_ and orders that were:
 
@@ -370,9 +366,7 @@ Below **Total orders**, you will find a chart about the number of orders and uni
 
 In the tab **Operation**, you will see the Picking and Packing **Order flow**, a chart with the total amount of orders distributed per day in the last seven days. The darker the blue, the more orders, the lighter the blue, the less.
 
-<div class = "alert alert-info">
-The Picking and Packing <b>Order flow</b> chart is calculated taking into account all orders of the last 7 days, and distributes them in hours, going from 0 to 23. Even if you change the period to 15 days, for example, the chart will remain fixed considering 7 days.
-</div>
+>ℹ️ The Picking and Packing **Order flow** chart is calculated taking into account all orders of the last 7 days, and distributes them in hours, going from 0 to 23. Even if you change the period to 15 days, for example, the chart will remain fixed considering 7 days.
 
 Below the **Order flow**, there is another chart with orders data filtered by picker. You will see information about:
 
@@ -463,9 +457,7 @@ To create a package, do the following:
 2. Fill in the name that will identify the package.
 3. Fill in with the package’s measures: height, width and length, using numbers only. 
 
-  <div class = "alert alert-info">
-The measurement unit is the one configured in the tab General, in <b>Units of measure</b>.
-</div>
+  >ℹ️ The measurement unit is the one configured in the tab General, in **Units of measure**.
 
 4. Click `Add`.
 
@@ -510,9 +502,7 @@ Once you are done with the printing settings, click `Save`.
 
 In this tab, you can configure a webhook to be notified about orders’ status changes and to get information about a given order. 
 
-<div class = "alert alert-info">
-For more information, see our VTEX <a href="https://developers.vtex.com/docs/guides/vtex-pick-and-pack-get-order-status-and-information-api">Pick and Pack documentation</a> for developers.
-</div>
+>ℹ️ For more information, see our VTEX [Pick and Pack documentation](https://developers.vtex.com/docs/guides/vtex-pick-and-pack-get-order-status-and-information-api) for developers.
 
 ## Users
 
@@ -563,9 +553,7 @@ To create a new _picker_, follow the steps below:
     * **Stores:** Select the environment the picker will be associated with. Each environment can have multiple [white label sellers](https://help.vtex.com/en/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) associated with it.
     * **Categories:** Select up to four categories related to the products the picker will collect.
 
-  <div class = "alert alert-info">
-The categories related to the picker optimize the algorithm when determining which picker will get the order. However, it is not a limitation, any picker can be assigned to tasks from all categories.
-</div>
+  >ℹ️ The categories related to the picker optimize the algorithm when determining which picker will get the order. However, it is not a limitation, any picker can be assigned to tasks from all categories.
 
 4. Click `Save user`.
 

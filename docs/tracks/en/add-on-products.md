@@ -125,6 +125,4 @@ The main advantages of this feature are:
 
 - **Increased conversion rates and sales:** The feature encourages customers to return to the payment page to complete their purchase, thereby increasing sales and conversion rates for retailers.
 
-<div class = "alert alert-info">
-WhatsApp AI Campaigns is only available for stores using <a href="https://help.vtex.com/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl#store-framework">Store Framework</a> that don't have Checkout customizations.
-</div>
+>ℹ️ WhatsApp AI Campaigns is only available for stores using [Store Framework](https://help.vtex.com/tracks/store-development--3fHF3GIjK8UugnQKIakpl9/5DTcawNjc5MovtD7HNqURl#store-framework) that don't have Checkout customizations.

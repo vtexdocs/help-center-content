@@ -23,9 +23,7 @@ Antes, el registro de la [integración con Google Shopping](https://help.vtex.co
 - __Enviar precio base (para precios con descuento):__ solo muestra los productos registrados con [precio de lista](https://help.vtex.com/es/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP/3XcXp0r5WrJvogB8KIX4Kx#preco-de-lista).  
 - __Aplicar descuento al precio enviado:__ muestra los productos de la tienda VTEX en Google Shopping con el descuento y medio de pago registrados.  
 
-<div class = "alert alert-warning">
-  La configuración <b>Aplicar descuento al precio enviado</b> solo está disponible para tiendas VTEX en Brasil.
-</div>
+>⚠️ La configuración **Aplicar descuento al precio enviado** solo está disponible para tiendas VTEX en Brasil.
 
 ![envio-de-precos-google-es](https://images.ctfassets.net/alneenqid6w5/5ZZihnxaawRM55WkmZ8YJA/afc4f30ca92f564cb47326e9956b21df/envio-de-precos-google-es.png)
 

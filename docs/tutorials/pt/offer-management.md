@@ -98,9 +98,7 @@ Na lista de anúncios, existem colunas com as seguintes informações:
 
 Para exportar a lista de anúncios em formato XLSX, clique sobre o <i class="fas fa-arrow-to-bottom"></i> ícone seta para baixo, localizado no topo da interface. O arquivo será enviado para o email do usuário logado, sendo que o tempo da exportação vai depender do volume de anúncios da listagem exportada e questões de processamento da plataforma VTEX.
 
-<div class = "alert alert-info">
-O conteúdo exportado é referente ao total de anúncios da listagem no momento da exportação. Se algum filtro estiver ativo, somente os anúncios selecionados serão exportados.
-</div>
+>ℹ️ O conteúdo exportado é referente ao total de anúncios da listagem no momento da exportação. Se algum filtro estiver ativo, somente os anúncios selecionados serão exportados.
 
 ## Consultar anúncios indisponíveis
 

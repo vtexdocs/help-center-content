@@ -71,6 +71,6 @@ When you select **Change order**, the customers are taken to a screen where they
 
 To complete the change, customers are taken to the cart and the Checkout, where they can alter address, freight, payment method and SKU.
 
-<div class = "alert alert-warning">The purchase must be closed for the process to be completed, but <em>customers are never charged twice</em>. In some cases the previous payment will be reused; when this is not possible, the previous charge on the credit card will automatically be reversed.</div>
+>⚠️ The purchase must be closed for the process to be completed, but *customers are never charged twice*. In some cases the previous payment will be reused; when this is not possible, the previous charge on the credit card will automatically be reversed.
 
 Payment reuse can only be applied if the value of the new order is the same as the original order. Also, if the payment expires within 2 days, it can not be reused.

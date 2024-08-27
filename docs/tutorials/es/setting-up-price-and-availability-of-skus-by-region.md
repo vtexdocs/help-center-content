@@ -27,9 +27,7 @@ Para regionalizar los precios y la disponibilidad de SKU, debe:
 
 >⚠️ Para [Multilevel Omnichannel Inventory](https://help.vtex.com/es/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4#), un marketplace (nivel 1) no puede configurar la exhibición de los precios y la disponibilidad de los productos para los sellers white label (nivel 3) con la funcionalidad de regionalización.
 
-<div class = "alert alert-info">
-La funcionalidad <b>Region</b> funciona tanto para las tiendas Portal CMS Legado como para las tiendas desarrolladas con <a href="https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC">VTEX IO</a>, pero la funcionalidad <a href="https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG">VTEX Intelligent Search</a> solo es válida para las tiendas VTEX IO. Como resultado, las tiendas con Portal CMS Legado tienen una limitación en la indexación de datos regionalizados y no es posible ordenar correctamente los sellers que atienden la ventana de un RegionId en función de la disponibilidad de ítems.
-</div>
+>ℹ️ La funcionalidad **Region** funciona tanto para las tiendas Portal CMS Legado como para las tiendas desarrolladas con [VTEX IO](https://help.vtex.com/es/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC), pero la funcionalidad [VTEX Intelligent Search](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) solo es válida para las tiendas VTEX IO. Como resultado, las tiendas con Portal CMS Legado tienen una limitación en la indexación de datos regionalizados y no es posible ordenar correctamente los sellers que atienden la ventana de un RegionId en función de la disponibilidad de ítems.
 
 ## Configurar la entrega en la Cuenta Franquicia/Seller White Label
 

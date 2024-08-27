@@ -15,9 +15,7 @@ legacySlug: vtex-pick-and-pack-fulfillment
 subcategory: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-<div class = "alert alert-info">
-Caso tenha interesse em adotar essa funcionalidade no seu negócio, preencha nosso <a href="https://vtex.com/br-pt/contato/">formulário</a> apontando no campo <code>Comentários</code> o nome do produto desejado.
-</div>
+>ℹ️ Caso tenha interesse em adotar essa funcionalidade no seu negócio, preencha nosso [formulário](https://vtex.com/br-pt/contato/) apontando no campo `Comentários` o nome do produto desejado.
 
 [VTEX Pick and Pack](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU) é uma solução para otimizar os processos de fulfillment das lojas, otimizando a coleta e o empacotamento dos pedidos, além da entrega last mile. A solução é composta pelas páginas de [Last Mile](https://help.vtex.com/en/tutorial/vtex-pick-and-pack-last-mile--HN7WKV0xoq2ssVjsJlfzr) e **VTEX Pick and Pack Fulfillment**, e aparece em seu Admin VTEX em **Apps**.
 
@@ -349,9 +347,7 @@ Você pode combinar vários filtros para filtrar as informações que deseja ver
 * Cidade
 * Seller
 
-<div class = "alert alert-info">
-O filtro <b>Seller</b> está disponível apenas para contas que operam como marketplace. <a href="https://help.vtex.com/pt/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa">Sellers white label</a> não têm essa opção de filtro em <b>Insights</b>.
-</div>
+>ℹ️ O filtro **Seller** está disponível apenas para contas que operam como marketplace. [Sellers white label](https://help.vtex.com/pt/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) não têm essa opção de filtro em **Insights**.
 
 Além da métrica de **total de pedidos**, há uma sequência de métricas para obter dados sobre _meios de pagamento_ e pedidos:
 
@@ -370,9 +366,7 @@ Abaixo do **total de pedidos**, você encontrará métricas sobre o número de p
 
 Na aba **Operação**, você verá o **fluxo de pedidos** de Coleta e empacotamento, que mostrará a quantidade total de pedidos distribuídos por dia nos últimos sete dias. Quanto mais escuro for o tom de azul, mais pedidos, quanto mais claro, menos.
 
-<div class = "alert alert-info">
-O fluxo de <b>Coleta e empacotamento</b> é calculado considerando todos os pedidos dos últimos 7 dias e os distribui em horas, de 0 a 23. Mesmo se você mudar o período para 15 dias, por exemplo, a visualização permanecerá fixa considerando 7 dias.
-</div>
+>ℹ️ O fluxo de **Coleta e empacotamento** é calculado considerando todos os pedidos dos últimos 7 dias e os distribui em horas, de 0 a 23. Mesmo se você mudar o período para 15 dias, por exemplo, a visualização permanecerá fixa considerando 7 dias.
 
 Abaixo do **fluxo de pedidos**, há uma métrica com pedidos filtrados por entregador. Você irá ver informações sobre:
 
@@ -463,9 +457,7 @@ Para criar um pacote, faça o seguinte:
 2. Preencha o nome que identificará o pacote.
 3. Preencha as medidas do pacote: altura, largura e comprimento, usando apenas números. 
 
-  <div class = "alert alert-info">
-A unidade de medida é aquela configurada na aba <a href="https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#configuracoes-gerais">Geral</a>, em <b>Unidades de medida</b>.
-</div>
+  >ℹ️ A unidade de medida é aquela configurada na aba [Geral](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack-fulfillment--1zGUEItEEVsal6cuBEBNcA#configuracoes-gerais), em **Unidades de medida**.
 
 4. Clique em `Adicionar`.
 
@@ -510,9 +502,7 @@ Ao terminar de definir as configurações de impressão, clique em `Salvar`.
 
 Nesta aba, você pode configurar um webhook para ser notificado sobre alterações de status dos pedidos e [obter informações](https://developers.vtex.com/docs/guides/vtex-pick-and-pack-get-order-status-and-information-api) sobre um pedido específico.
 
-<div class = "alert alert-info">
-Para mais informações, veja nossa documentação do <a href="https://developers.vtex.com/docs/guides/vtex-pick-and-pack-get-order-status-and-information-api#webhook">VTEX Pick and Pack para desenvolvedores</a>.
-</div>
+>ℹ️ Para mais informações, veja nossa documentação do [VTEX Pick and Pack para desenvolvedores](https://developers.vtex.com/docs/guides/vtex-pick-and-pack-get-order-status-and-information-api#webhook).
 
 ## Usuários
 
@@ -563,9 +553,7 @@ Para criar um novo _entregador_, siga os passos abaixo:
     * **Lojas:** selecione o ambiente ao qual o entregador será associado. Cada ambiente pode ter múltiplos [sellers white label](https://help.vtex.com/pt/tutorial/seller-white-label--5orlGHyDHGAYciQ64oEgKa) associados a ele.
     * **Categorias:** selecione até quatro categorias relacionadas aos produtos que o entregador irá coletar.
 
-  <div class = "alert alert-info">
-As categorias relacionadas ao entregador otimizam o algoritmo ao determinar qual entregador receberá o pedido. Mas essa não é uma limitação: qualquer entregador pode ser alocado para serviços de todas as categorias.
-</div>
+  >ℹ️ As categorias relacionadas ao entregador otimizam o algoritmo ao determinar qual entregador receberá o pedido. Mas essa não é uma limitação: qualquer entregador pode ser alocado para serviços de todas as categorias.
 
 4. Clique em `Salvar usuário`.
 

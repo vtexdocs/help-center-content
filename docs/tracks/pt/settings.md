@@ -44,16 +44,14 @@ Outra alternativa, embora não recomendada, seria não incluir registros CAA no 
 
 Para facilitar o trabalho de criar/verificar seus registros CAA, você pode usar o [CAA Record Helper by SSLMate](https://sslmate.com/caa/). O programa [DiG](https://www.hostinger.com/tutorials/how-to-use-the-dig-command-in-linux/) também pode ajudar na verificação dos registros, através do comando `dig domain.com CAA` - um status `SERVFAIL` pode indicar não-conformidade do seu servidor DNS.
 
-<div class = "alert alert-info">
-Saiba mais:
-<p>
-<ul>
-<li><a href="https://sslmate.com/caa/">CAA Record Helper by SSLMate</a></li>
-<li><a href="https://letsencrypt.org/docs/caa/">Let's Encrypt: Certificate Authority Authorization (CAA)</a></li>
-<li><a href="https://sslmate.com/caa/about">SSL Mate: About CAA</a></li>
-</ul>
-</p>
-</div>
+>ℹ️ Saiba mais:
+>
+> *[CAA Record Helper by SSLMate](https://sslmate.com/caa/)
+>
+> *[Let's Encrypt: Certificate Authority Authorization (CAA)](https://letsencrypt.org/docs/caa/)
+>
+> *[SSL Mate: About CAA](https://sslmate.com/caa/about)
+> 
 
 ## Colocar conta em produção
 

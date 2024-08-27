@@ -46,9 +46,7 @@ Every search you perform will be saved in the **Last searches** tab. To redo a s
 
 >⚠️ This page shows only the last 50 searches. If you want to save a search indefinitely, perform the same search and add it to your browser favorites.
 
-<div class = "alert alert-info">
-You may find the full <a href="https://help.vtex.com/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ">list of events in Audit</a>.
-</div>
+>ℹ️ You may find the full [list of events in Audit](https://help.vtex.com/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
 
 ## Examples of search filters 
 
@@ -77,7 +75,5 @@ You may find the full <a href="https://help.vtex.com/en/tutorial/events-availabl
 
 To see some more examples of filters you can use, click on the **Guide ** tab. 
 
-<div class = "alert alert-info">
-In the Audit application, <a href="https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3">License Manager resources</a> are identified by the corresponding keys.
-</div>
+>ℹ️ In the Audit application, [License Manager resources](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) are identified by the corresponding keys.
 

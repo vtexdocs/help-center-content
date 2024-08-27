@@ -15,9 +15,7 @@ legacySlug: vtex-pick-and-pack-configuracion
 subcategory: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-<div class = "alert alert-info">
-Esta función se encuentra en fase beta cerrada, por lo que sólo los clientes seleccionados pueden acceder a ella ahora. Si desea implementarla en el futuro, rellene nuestro <a href="https://vtex.com/co-es/contacto/">formulario</a> apontaby introduciendo el nombre del producto en el campo <code>Comentarios</code>.
-</div>
+>ℹ️ Esta función se encuentra en fase beta cerrada, por lo que sólo los clientes seleccionados pueden acceder a ella ahora. Si desea implementarla en el futuro, rellene nuestro [formulario](https://vtex.com/co-es/contacto/) apontaby introduciendo el nombre del producto en el campo `Comentarios`.
 
 __Configuración__ es una página del Admin VTEX donde puedes realizar los ajustes de VTEX Pick and Pack para tu tienda. Los ajustes se distribuyen en las siguientes secciones:
 
@@ -40,9 +38,7 @@ En esta sección se encuentran los ajustes relativos a la etapa de alistamiento,
 
 En esta sección puedes definir el tipo de estrategia de alistamiento que deseas que realicen los alistadores.
 
-<div class = "alert alert-info">
-  Actualmente solo está disponible la estrategia <strong>Alistamiento por olas</strong>.
-</div>
+>ℹ️ Actualmente solo está disponible la estrategia **Alistamiento por olas**.
 
 #### Cambios en el pedido
 
@@ -252,9 +248,7 @@ Puedes agregar ID de SKU y EAN de tus productos masivamente, a través de un arc
 
 También puedes indexar el catálogo para actualizar la lista de productos. Para hacerlo, haz clic en `Indexar catálogo` y después en `Continuar`.
 
-<div class = "alert alert-danger">
-  La indexación del catálogo borrará y recreará todo su contenido, lo que significa que puedes perder todos tus códigos EAN y SKU personalizados.
-</div>
+>❗ La indexación del catálogo borrará y recreará todo su contenido, lo que significa que puedes perder todos tus códigos EAN y SKU personalizados.
 
 ## Instalaciones
 

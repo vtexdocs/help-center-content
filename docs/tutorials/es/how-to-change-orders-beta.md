@@ -77,9 +77,7 @@ Una vez en la página de detalles del pedido, puedes realizar las siguientes mod
 * [Sustituir ítems](#sustituir-items)
 * [Modificar peso](#modificar-peso)
 
-<div class = "alert alert-info">
-Se puede realizar una sola modificación en el pedido o combinar varias a la vez. No hay un límite específico respecto a la cantidad de veces que el pedido puede modificarse. Para obtener más información, consulta el artículo <a href="https://help.vtex.com/es/tutorial/como-funciona-modificar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ">Cómo funciona Modificar pedido (beta)</a>.
-</div>
+>ℹ️ Se puede realizar una sola modificación en el pedido o combinar varias a la vez. No hay un límite específico respecto a la cantidad de veces que el pedido puede modificarse. Para obtener más información, consulta el artículo [Cómo funciona Modificar pedido (beta)](https://help.vtex.com/es/tutorial/como-funciona-modificar-pedido-beta--56TO0bOFXsfmpc7YZ3wIUZ).
 
 ### Agregar ítems
 

@@ -15,9 +15,7 @@ legacySlug: locations-module
 subcategory: 13sVE3TApOK1C8jMVLTJRh
 ---
 
-<div class = "alert alert-info">
-This feature is in beta, which means that we are working to improve it. To use <b>Operational Capability (Beta)</b>, fill out the <a href="https://docs.google.com/forms/d/e/1FAIpQLScgmHPJEnVfd1EK9znevW-bcdxL2WVqzNZdrwri9auKayZDJA/viewform">contact form</a>. To use the feature, it is required to have <a href="https://help.vtex.com/en/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl">franchise accounts</a> associated with the <a href="https://help.vtex.com/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#vtex-account-types">main account</a>.
-</div>
+>ℹ️ This feature is in beta, which means that we are working to improve it. To use **Operational Capability (Beta)**, fill out the [contact form](https://docs.google.com/forms/d/e/1FAIpQLScgmHPJEnVfd1EK9znevW-bcdxL2WVqzNZdrwri9auKayZDJA/viewform). To use the feature, it is required to have [franchise accounts](https://help.vtex.com/en/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) associated with the [main account](https://help.vtex.com/en/tracks/trilha-da-loja-vtex--eSDNk26pdvemF3XKM0nK9/4yPqZQyj0t675QpcG7H6yl#vtex-account-types).
 
 The **Operational Capacity** page allows you to manage the sellers' capacity to receive and handle the store's orders to optimize your logistics network. You can monitor the order allocation between sellers and perform [actions](#acoes-na-pagina-de-detalhes-do-seller) to improve order allocation between them.
 
@@ -63,9 +61,7 @@ In the VTEX Admin, under **Shipping > Operational Capacity**, you can do the fol
 
 Using the search bar, you can search for sellers by their name.
 
-<div class = "alert alert-info">
-You can associate the search for sellers with the <a href="https://help.vtex.com/en/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#filtering-sellers">filter by status</a>. If your search did not return any results, make sure no filters are active.
-</div>
+>ℹ️ You can associate the search for sellers with the [filter by status](https://help.vtex.com/en/tutorial/capacidade-operacional-beta--2thSYLMAS8KAd8V4XuBLSy#filtering-sellers). If your search did not return any results, make sure no filters are active.
 
 ### Filtering sellers
 

@@ -36,9 +36,7 @@ In this article, we describe the main page sections and actions. You will learn 
 
 The metrics on this page include order and browsing data collected by different systems.
 
-<div class ="alert alert-warning">
-The revenue metric may differ from the average ticket metric recorded in the OMS and Sales Performance, for example. This is because Sales Performance considers an order's item values, while OMS also considers discounts, freight, fees, and promotions applied to the order, which may increase or decrease its final total.
-</div>
+>⚠️ The revenue metric may differ from the average ticket metric recorded in the OMS and Sales Performance, for example. This is because Sales Performance considers an order's item values, while OMS also considers discounts, freight, fees, and promotions applied to the order, which may increase or decrease its final total.
 
 -	**Orders and revenue:** The order and revenue data comes from the VTEX Order Management System (OMS) and includes orders placed on all your sales channels.
 -	**Sessions:** The browsing data comes from the platform’s internal system, which collects user sessions from storefronts of VTEX stores. Sessions represent the total number of views on pages accessed by a single user while browsing through your ecommerce store, excluding marketplaces, apps, VTEX Sales App, or other sales channels.

@@ -35,10 +35,8 @@ Nessa etapa, você realizará o cadastro da sua loja na integração da Centauro
 
 **Mapeamento de Campos Customizados (Nome e descrição):**  Para utilizar esse mapeamento é necessário criar um campo customizado. Para saber como criar campos customizados, acesse a documentação [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/tutorial/criando-um-campo-de-produto--tutorials_106).  
 
-<div class = "alert alert-info">
-  O mapeamento de campos customizáveis está disponível apenas para <b>nome do produto</b> e <b>descrição do produto</b>.
-  <p><b>Exemplo de nome para o novo campo:</b> <code>CTR_ProductName</code> para nome do produto e <code>CTR_ProductDescription</code> para descrição do produto.</p>
-</div>  
+>ℹ️ O mapeamento de campos customizáveis está disponível apenas para **nome do produto** e **descrição do produto**.
+>   **Exemplo de nome para o novo campo:** `CTR_ProductName` para nome do produto e `CTR_ProductDescription` para descrição do produto.  
 
 Para o mapeamento funcionar, é necessário o seller seguir os seguintes passos:  
 

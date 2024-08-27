@@ -24,9 +24,7 @@ Therefore, the VTEX platform offers you the possibility to create custom access 
 
 <iframe src="https://help.vtex.com/tables/resources/en" title="License Manager resources" frameBorder="0" width="100%" height="850"></iframe>
 
-<div class = "alert alert-info">
-  <p>In the <a href="https://help.vtex.com/en/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA">Audit</a> application, License Manager resources are identified by the corresponding keys.</p>
-</div>
+>ℹ️ In the [Audit](https://help.vtex.com/en/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA) application, License Manager resources are identified by the corresponding keys.
 
 ## Internal or deprecated resources
 

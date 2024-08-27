@@ -15,8 +15,7 @@ legacySlug: how-to-optimize-searches-with-substitute-words
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
-<div class = "alert alert-warning">
-We don't recommend using <a href="https://help.vtex.com/en/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu">Substitute Words</a> when using Intelligent Search. To associate words with products, we recommend using <a href="https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV">Synonyms</a>, which allows you to manage terms per product in a more scalable way. For more information, contact our <a href="https://support.vtex.com/hc/pt-br/requests">Support team</a>.</div>
+>⚠️ We don't recommend using [Substitute Words](https://help.vtex.com/en/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu) when using Intelligent Search. To associate words with products, we recommend using [Synonyms](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV), which allows you to manage terms per product in a more scalable way. For more information, contact our [Support team](https://support.vtex.com/hc/pt-br/requests).
 
 ## How the search engine works 
 VTEX has an intelligent algorithm that, based on the term searched for, identifies the best result for the user, i.e., it always shoes the result that will generate more conversions into sales.

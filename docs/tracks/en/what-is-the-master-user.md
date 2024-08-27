@@ -18,9 +18,7 @@ For the VTEX platform, the **Sponsor user** is the user who is primarily respons
 
 By default, the Sponsor user email is the one of the person who was responsible for hiring VTEX. But after receiving the VTEX environment, it can exchanged by the Sponsor user.
 
-<div class = "alert alert-warning">
-The Sponsor user is not the same as the <b>Owner (Admin Super)</b>. The <b>Owner (Admin Super)</b> is a License Manager role that defines the permissions of a user in your store. It can even be assigned to multiple users.
-</div>
+>⚠️ The Sponsor user is not the same as the **Owner (Admin Super)**. The **Owner (Admin Super)** is a License Manager role that defines the permissions of a user in your store. It can even be assigned to multiple users.
 
 If your user has role to the Account management module, you can verify who is the Sponsor user by accessing the __Accounts__ tab and searching for the name of the store.
 

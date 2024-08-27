@@ -35,6 +35,4 @@ Consulte los ajustes disponibles a continuación:
 
 - **Sobrescribir precios de sellers:**  esta opción sobrescribe todos los precios de sellers con los de la cuenta actual.
 
-  <div class = "alert alert-info">
-    <p>La configuración <b>Sobrescribir precios de sellers</b> no está disponible para sellers White label.</p>
-  </div>
+  >ℹ️ La configuración **Sobrescribir precios de sellers** no está disponible para sellers White label.

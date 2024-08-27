@@ -22,9 +22,7 @@ Para configurar um banner, siga os seguintes passos:
 
 - **Posição**: área que o banner aparecerá na página de resultado de busca. Temos já definidas **quatro áreas**. **Duas acima** do resultado de busca e **duas  abaixo**. 
 
-<div class = "alert alert-warning">
-  OBS.: São dois banners em cada área pois um fica em modo "full",  ocupando a área horizontal toda da loja, e a outra fica no bloco do resultado de busca (área da direita onde se tem a listagem de produtos - que normalmente ocupa 70% da tela, e os 30% restantes correspondem a área de filtros) ⇒ explicar melhor
-  </div>
+>⚠️ OBS.: São dois banners em cada área pois um fica em modo "full",  ocupando a área horizontal toda da loja, e a outra fica no bloco do resultado de busca (área da direita onde se tem a listagem de produtos - que normalmente ocupa 70% da tela, e os 30% restantes correspondem a área de filtros) ⇒ explicar melhor
 
 - **Datas de início e de fim**: datas que definem o início e o fim da disponibilidade do banner. O gestor pode agendar campanhas futuras, facilitando o seu controle.
 

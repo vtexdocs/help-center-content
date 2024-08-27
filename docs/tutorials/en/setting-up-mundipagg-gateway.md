@@ -35,9 +35,7 @@ To configure Mundipagg, follow the steps below:
 12. In __Captura de segurança antecipada__ ("Early security capture"), choose how long you want the capture to take after the transaction approval and the anti-fraud analysis. You can also disable this function.
 13. Click __Save__.
 
-<div class = "alert alert-info">
-The steps indicated in steps <strong>8</strong>, <strong>9</strong>, <strong>11</strong> and <strong>12</strong> must be completed if you want to offer bank slips as payment conditions in your store.
-</div>
+>ℹ️ The steps indicated in steps **8**, **9**, **11** and **12** must be completed if you want to offer bank slips as payment conditions in your store.
 
 ## Setting up the payment condition
 After following the steps indicated above, Mundipagg will be configured in your store. Thus, while you're registering a payment condition, it will be available in the __Process with affiliation__ field (provided the payment method is compatible with Mundipagg). To learn how to set up payment conditions, visit [this Help article](/en/tutorial/how-to-configure-payment-conditions).

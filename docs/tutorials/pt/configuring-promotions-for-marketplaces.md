@@ -50,9 +50,7 @@ Para este tipo de promoção, é importante ter em mente as seguintes informaç�
 
 Existem diferenças entre as configurações disponíveis para marketplaces VTEX e para marketplaces externos. Veja na tabela abaixo quais funcionalidades se aplicam a cada caso.
 
-<div class = "alert alert-warning">
-  <p>No caso de integrações externas, as configurações são únicas de cada marketplace, e estes decidem quais funcionalidades vão utilizar.</p>
-</div>
+>⚠️ No caso de integrações externas, as configurações são únicas de cada marketplace, e estes decidem quais funcionalidades vão utilizar.
 
 | Nome  | Descrição      | Disponível para marketplace VTEX? | Disponível para marketplace externo? |
 | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------------ |
@@ -135,6 +133,4 @@ Se necessário, é possível segmentar promoções para marketplaces específico
 3. Na seção **Política Comercial**, selecione as opções **Iguais a** e **Entregue por mim (Lojas de terceiros)**.
 4. Clique em `Salvar`.
 
-<div class = "alert alert-warning">
-  <p>Uma vez que você crie a promoção, lembre-se de <a href = "https://help.vtex.com/pt/tutorial/entendendo-a-manutencao-da-base-de-dados--34P9LGs7BCIQK6acQom802">reindexar os produtos afetados</a> no inicio e fim das promoções. Dessa forma, os seus produtos terão os preços atualizados.</p>
-</div>
+>⚠️ Uma vez que você crie a promoção, lembre-se de <a href = "https://help.vtex.com/pt/tutorial/entendendo-a-manutencao-da-base-de-dados--34P9LGs7BCIQK6acQom802">reindexar os produtos afetados</a> no inicio e fim das promoções. Dessa forma, os seus produtos terão os preços atualizados.

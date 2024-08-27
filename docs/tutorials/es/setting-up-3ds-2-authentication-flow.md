@@ -17,9 +17,7 @@ subcategory: 3tDGibM2tqMyqIyukqmmMw
 
 3D Secure 2.0 (3DS 2) es un flujo de autenticación que aumenta la seguridad en los pagos realizados con tarjetas de crédito y débito, mediante el análisis interno de una gran cantidad de datos presentes en cada transacción.
 
-<div class = "alert alert-warning">
-<p>3DS 2 solo es compatible con algunas afiliaciones de VTEX. Consulte con su proveedor de pago y Admin VTEX si esta funcionalidad está disponible.</p>
-</div>
+>⚠️ 3DS 2 solo es compatible con algunas afiliaciones de VTEX. Consulte con su proveedor de pago y Admin VTEX si esta funcionalidad está disponible.
 
 Antes de iniciar la configuración, es necesario abrir un ticket con el equipo de soporte de VTEX solicitando la activación de 3DS 2 en su tienda. Para más información acceda al [cómo abrir un ticket](https://help.vtex.com/es/tutorial/abrir-tickets-para-el-soporte-vtex--16yOEqpO32UQYygSmMSSAM).
 

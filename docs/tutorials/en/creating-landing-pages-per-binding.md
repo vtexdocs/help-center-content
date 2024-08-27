@@ -33,16 +33,12 @@ In the Admin, you can create customized landing pages by [binding](https://help.
 - `Description` — Summary of the new web page to be displayed on search engines' result pages. 
 - `Keywords` — Topics that define what the page content is about, helping to deliver the latter to the interested users navigating on search engines' result pages.
 
-  <div class = "alert alert-info">
-All five fields above directly impact the store accesses and positioning on search engines' result pages. Before filling the page's metadata out, be mindful of SEO best practices.
-</div>
+  >ℹ️ All five fields above directly impact the store accesses and positioning on search engines' result pages. Before filling the page's metadata out, be mindful of SEO best practices.
 
 5. Choose a template from the available ones to be displayed on your new landing page in the `Default` field.
 6. If you desire to create a conditional template, click on the `Add conditional template` button and fill out the fields according to the desired conditions. 
 
-  <div class = "alert alert-warning">
-Notice that the condition template will only be displayed when one <i>or</i> all predefined conditions are matched on the interface.
-</div>
+  >⚠️ Notice that the condition template will only be displayed when one <i>or</i> all predefined conditions are matched on the interface.
 
 7. Save your changes.
 

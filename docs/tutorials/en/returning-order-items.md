@@ -17,9 +17,7 @@ subcategory: 2t00bBkcAwIkgSCGKsMOwY
 
 Customers can request to exchange or return items from an order. The **Return items** feature allows you to remove items from an order in order to return them.
 
-<div class = "alert alert-info">
-See the article <a href="https://help.vtex.com/en/tutorial/como-devolver-itens-do-pedido-beta--2bSNWwD0g8fcUmuupLao9i">How to return items from an order (Beta)</a> and learn how to use this feature in Admin V4.
-</div>
+>ℹ️ See the article [How to return items from an order (Beta)](https://help.vtex.com/en/tutorial/como-devolver-itens-do-pedido-beta--2bSNWwD0g8fcUmuupLao9i) and learn how to use this feature in Admin V4.
 
 To return order items, follow the steps below:
 

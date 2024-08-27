@@ -31,9 +31,7 @@ __Reference Code:__ Unique reference code used internally for organizational pur
 
 __Shipping Weight:__ Shipping weight, which must have a value greater than zero to make the <a href="https://help.vtex.com/en/tutorial/how-proportional-shipping-costs-are-calculated--frequentlyAskedQuestions_155">proportional shipping cost</a> work properly.
 
-<div class = "alert alert-info">
-The <b>Inventory & Shipping/Shipping</b> module does not take units of measure into account in the fields below. It is only necessary to be consistent with what is registered in the SKU and in the <a href="https://help.vtex.com/en/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke">product registration fields</a>.
-</div>
+>ℹ️ The **Inventory & Shipping/Shipping** module does not take units of measure into account in the fields below. It is only necessary to be consistent with what is registered in the SKU and in the [product registration fields](https://help.vtex.com/en/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke).
 
 __Shipping Height:__ Shipping height.
 

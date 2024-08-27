@@ -33,9 +33,7 @@ Qualquer domínio registrado desta forma precisa conter subdomínio, que pode ou
 - `www.minhaloja.com` - Domínio válido.
 - `loja.minhamarca.com` - Domínio válido.
 
-<div class = "alert alert-info">
-  Saiba mais sobre como <a href="https://help.vtex.com/pt/tutorial/configuring-access-without-www--tutorials_4278">configurar acesso sem www</a>.
-</div>
+>ℹ️ Saiba mais sobre como [configurar acesso sem www](https://help.vtex.com/pt/tutorial/configuring-access-without-www--tutorials_4278).
 
 ## Cadastrar um novo domínio
 

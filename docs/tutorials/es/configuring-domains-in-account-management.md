@@ -33,9 +33,7 @@ Todo dominio registrado de esta forma debe contener un subdominio, que puede ser
 - `www.mitienda.com` - Dominio válido.
 - `tienda.mimarca.com` - Dominio válido.
 
-<div class = "alert alert-info">
-  Obtenga más información sobre como <a href="https://help.vtex.com/es/tutorial/configuring-access-without-www--tutorials_4278">configurar acceso sin www</a>.
-</div>
+>ℹ️ Obtenga más información sobre como [configurar acceso sin www](https://help.vtex.com/es/tutorial/configuring-access-without-www--tutorials_4278).
 
 ## Registrar nuevo dominio
 

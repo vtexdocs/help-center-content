@@ -62,9 +62,7 @@ After the test, if the message from VTEX has not been sent to the email address 
 
 Check if the external SMTP server is configured according to the [SPF system](https://help.vtex.com/en/tutorial/best-practices-on-spf--42t0lkl2VyC6Yewc4wA6wI), which prevents unauthorized servers from sending emails on behalf of a specific domain. You can configure [SPF](https://developers.vtex.com/docs/guides/setting-up-the-spf) and [DKIM](https://developers.vtex.com/docs/guides/setting-up-dkim-for-transactional-emails) (DomainKeys Identified Mail) on the server if necessary.
 
-<div class ="alert alert-warning">
-Check your spam folder to ensure that VTEX emails are not being sent there. This may be due to internal mail server rules.
-</div>
+>⚠️ Check your spam folder to ensure that VTEX emails are not being sent there. This may be due to internal mail server rules.
 
 ### Configuring order and payment notifications
 
@@ -82,9 +80,7 @@ Amazon (AWS) has an email platform called Amazon Simple Email Service ([Amazon S
 
 Generally, an email can be added to the AWS suppression list and removed after approximately 12 hours. During this period, emails sent by VTEX will not be received by the email address added to the list.
 
-<div class ="alert alert-warning">
-AWS manages the suppression list, and VTEX has no control over the addresses on and off the list.
-</div>
+>⚠️ AWS manages the suppression list, and VTEX has no control over the addresses on and off the list.
 
 If you suspect AWS has blocked your email, wait 12 hours and try resending an email to the blocked address.
 

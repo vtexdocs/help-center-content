@@ -23,9 +23,7 @@ A continuación se indican los pasos necesarios para acceder a la página:
 1. En el Admin VTEX, accede a **Storefront**, o escribe **Storefront** en la barra de búsqueda en la parte superior de la página.
 2. En __Intelligent Search__, haz clic en __Analytics__. 
 
-<div class = "alert alert-info">
-  <p>La página <strong>Analytics</strong> es nativa en VTEX Intelligent Search. No se puede deshabilitar en el Admin.</p>
-</div>
+>ℹ️ La página **Analytics** es nativa en VTEX Intelligent Search. No se puede deshabilitar en el Admin.
 
 ## Datos
 
@@ -71,9 +69,7 @@ Para exportar un informe en formato CSV, debe seguir los pasos que se indican a 
 5. Espere a que el archivo esté disponible para su descarga. Salir de esta página no interrumpe el proceso. 
 6. Haga clic en `Descargar`. 
 
-<div class = "alert alert-info">
-  <p>El archivo permanece disponible para descarga durante 48 horas.</p>
-</div>
+>ℹ️ El archivo permanece disponible para descarga durante 48 horas.
 
 El informe CSV descargado tiene dos tablas. La primera tabla, que se muestra a continuación, contiene información sobre los términos de búsqueda y las métricas de embudo (desde la columna **ProductsClick** hasta la columna **ProductsSold**), si se ha seleccionado esa opción.
 

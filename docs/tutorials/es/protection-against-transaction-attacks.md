@@ -21,8 +21,7 @@ La protección contra los ataques a las transacciones es una de las soluciones q
 
 En su primera versión, cuando se active, la protección consistirá en aplicar un cambio en el flujo de pago de la compra. Esto no provocará un aumento del tiempo del pedido ni una disminución de la conversión de la tienda. Una vez cerrado el pedido, el consumidor recibirá posteriormente el mensaje de pago aprobado (o rechazado) a través de un mensaje electrónico (email o SMS).
 
-<div class = "alert alert-info"> La protección no impide totalmente que la tienda sufra ataques a tarjetas, pero reduce considerablemente el número de estos eventos. De este modo, las transacciones se vuelven más seguras.
-</div>
+>ℹ️ La protección no impide totalmente que la tienda sufra ataques a tarjetas, pero reduce considerablemente el número de estos eventos. De este modo, las transacciones se vuelven más seguras.
 
 ### ¿Cómo activar la protección contra los ataques a las transacciones?
 
@@ -42,8 +41,7 @@ Para activar la protección, mira el paso a paso que se muestra a continuación.
 
 ### ¿Cómo desactivar la protección contra los ataques a las transacciones?
 
-<div class = "alert alert-danger"> Desactivar la protección contra los ataques a las transacciones aumenta el riesgo de fraude de pruebas de tarjetas (operación realizada por un defraudador que utiliza un gran número de datos de tarjetas para realizar transacciones fraudulentas). En caso de ataques que puedan dañar uno o varios sistemas internos de VTEX, la plataforma podrá reactivar obligatoriamente la protección contra ataques, y el administrador de la tienda será informado de esta operación.
-</div>
+>❗ Desactivar la protección contra los ataques a las transacciones aumenta el riesgo de fraude de pruebas de tarjetas (operación realizada por un defraudador que utiliza un gran número de datos de tarjetas para realizar transacciones fraudulentas). En caso de ataques que puedan dañar uno o varios sistemas internos de VTEX, la plataforma podrá reactivar obligatoriamente la protección contra ataques, y el administrador de la tienda será informado de esta operación.
 
 Para desactivar la protección, mira el paso a paso que se muestra a continuación.
 

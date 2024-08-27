@@ -17,9 +17,7 @@ subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 
 During the shopping experience, when the customer enters their location at checkout, the VTEX platform analyzes the [shipping strategies](https://help.vtex.com/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) suitable for the order and displays the available shipping options to the customer.
 
-<div class = "alert alert-info">
-In the window display stage of the shopping flow, when the customer has not yet informed their address, the products displayed belong to the sellers already configured as <a href="https://help.vtex.com/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI">comprehensive sellers</a> or using the <a href="https://help.vtex.com/en/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc">Region</a> feature. These sellers are able to ship orders to all regions covered by the marketplace operation.
-</div>
+>ℹ️ In the window display stage of the shopping flow, when the customer has not yet informed their address, the products displayed belong to the sellers already configured as [comprehensive sellers](https://help.vtex.com/en/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI) or using the [Region](https://help.vtex.com/en/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc) feature. These sellers are able to ship orders to all regions covered by the marketplace operation.
 
 This article presents a general overview of the shipping calculation and is divided into the following sections:
 
@@ -34,9 +32,7 @@ To determine which combination of logistics steps configured by the store is the
 - **Delivery:** The customer receives the order at their address. 
 - **Pickup:** The customer picks up the order from a [pickup point](https://help.vtex.com/en/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R).
 
-<div class = "alert alert-info">
-Both delivery and pickup have the same selection criteria. However, the pickup option has one additional criterion, described further on in this article.
-</div>
+>ℹ️ Both delivery and pickup have the same selection criteria. However, the pickup option has one additional criterion, described further on in this article.
 
 The selection of logistics combinations is made according to the criteria below, applied in the following order:
 
@@ -64,9 +60,7 @@ The selection of logistics combinations is made according to the criteria below,
   <li><a href="https://help.vtex.com/en/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW#campos-de-cadastro">Priority loading docks</a></li>
 </ul>
 <br>
-  <div class = "alert alert-info">
-When there is a tie between loading docks, the tiebreak criterion is the <a href="https://help.vtex.com/en/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW">overhead</a>, which represents a value in number of days that will determine the most advantageous loading dock for a given shipment. The lower the overhead, the higher the chances for a loading dock to be selected. Please note that the overhead is not considered when calculating the shipping time.
-</div>
+  >ℹ️ When there is a tie between loading docks, the tiebreak criterion is the [overhead](https://help.vtex.com/en/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW), which represents a value in number of days that will determine the most advantageous loading dock for a given shipment. The lower the overhead, the higher the chances for a loading dock to be selected. Please note that the overhead is not considered when calculating the shipping time.
 
 5. **Exclusive criterion for the pickup option:** There is an additional step in the selection when analyzing [pickup points](https://help.vtex.com/en/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R). The VTEX platform creates a list of eligible pickup points, using as criterion the shortest distance between the pickup point and the customer's location.
 
@@ -95,9 +89,7 @@ The SLA is calculated using the following fields and parameters:
 
 A shipping time estimate can be obtained using the [Shipping simulator](https://help.vtex.com/en/tutorial/simulador-de-envio--tutorials_144), which considers the VTEX store [shipping strategies](https://help.vtex.com/en/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3).
 
-<div class = "alert alert-info">
-The <a href="https://help.vtex.com/en/tutorial/simulador-de-envio--tutorials_144">Shipping simulator</a> result is only an approximation since the determining factors are only provided at checkout, such as carrier availability at the time of purchase, payment confirmation time and <a href="https://help.vtex.com/en/tutorial/selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa">white label sellers' selection</a> result.
-</div>
+>ℹ️ The [Shipping simulator](https://help.vtex.com/en/tutorial/simulador-de-envio--tutorials_144) result is only an approximation since the determining factors are only provided at checkout, such as carrier availability at the time of purchase, payment confirmation time and [white label sellers' selection](https://help.vtex.com/en/tutorial/selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa) result.
 
 ## Learn more	
 

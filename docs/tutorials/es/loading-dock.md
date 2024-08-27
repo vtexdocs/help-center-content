@@ -22,16 +22,14 @@ En VTEX, el muelle es un intermediario entre el almacenamiento de ítems y la en
 
 ![Doca ES](https://images.ctfassets.net/alneenqid6w5/4SyPLXtyDFTNbilUXZMsiM/e3f7d64c72c143e395895e7bf2865663/Doca_ES.svg)
 
-<div class = "alert alert-info">
-El almacén es el espacio físico de almacenamiento de los productos vendidos por la tienda; la política comercial es la configuración de las estrategias de venta de la tienda; y la política de envío es un conjunto de reglas que definen las opciones y condiciones de envío.
-El orden de registro sugerido en la plataforma VTEX para el funcionamiento previsto del sistema logístico es:
-<body>
-<ol>
-<li><a href="https://help.vtex.com/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV">Política comercial</a>;</li>
-<li><a href="https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140">Política de envío</a>;</li>
-<li>Muelle;</li>
-<li><a href="https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Almacén</a>.</li>
-</div>
+>ℹ️ El almacén es el espacio físico de almacenamiento de los productos vendidos por la tienda; la política comercial es la configuración de las estrategias de venta de la tienda; y la política de envío es un conjunto de reglas que definen las opciones y condiciones de envío.
+> El orden de registro sugerido en la plataforma VTEX para el funcionamiento previsto del sistema logístico es:
+> <body>
+> <ol>
+> <li>[Política comercial](https://help.vtex.com/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV);</li>
+> <li>[Política de envío](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140);</li>
+> <li>Muelle;</li>
+> <li>[Almacén](https://help.vtex.com/es/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb).</li>
 
 ## Casos de uso
 

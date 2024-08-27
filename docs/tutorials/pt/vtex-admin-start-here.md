@@ -90,9 +90,7 @@ Tipo de feedback (selecione um ou mais campos):
 
 **Uma captura de tela nos ajudará a entender melhor seu feedback (opcional):** campo opcional para adicionar capturas de tela ou documentos que possam nos auxiliar na compreensão do seu feedback.
 
-<div class = "alert alert-info">
-Este processo de envio de feedback não deve ser utilizado para criar um ticket ou solicitação de suporte técnico na VTEX.
-</div>
+>ℹ️ Este processo de envio de feedback não deve ser utilizado para criar um ticket ou solicitação de suporte técnico na VTEX.
 
 ### Configurações da conta e do usuário
 

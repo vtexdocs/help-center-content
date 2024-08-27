@@ -27,9 +27,7 @@ Quando um pedido está pronto para o envio e com a nota fiscal inserida na plata
 
 Para gerar etiquetas padronizadas e notificar as transportadoras do envio automaticamente, o [VTEX Shipping Network](https://vtex.com/br-pt/shipping-network/) tem a funcionalidade **Pronto para envio**.
 
-<div class = "alert alert-info">
-Além de emitir etiquetas de envio pelo Admin VTEX com a funcionalidade <b>Pronto para envio</b>, você pode fazer isso por API conectada diretamente ao seu ERP. Saiba  mais na nossa documentação para desenvolvedores <a href="https://developers.vtex.com/docs/guides/vtex-shipping-network-labels-integration">VTEX Shipping Network Labels Integration</a>.
-</div>
+>ℹ️ Além de emitir etiquetas de envio pelo Admin VTEX com a funcionalidade **Pronto para envio**, você pode fazer isso por API conectada diretamente ao seu ERP. Saiba  mais na nossa documentação para desenvolvedores [VTEX Shipping Network Labels Integration](https://developers.vtex.com/docs/guides/vtex-shipping-network-labels-integration).
 
 O sistema da VTEX identifica o número de pacotes de um pedido de acordo com o número de notas fiscais desse pedido, de forma que o número de etiquetas que o lojista pode imprimir para cada pedido corresponde ao número de notas fiscais. 
 
@@ -40,9 +38,7 @@ Para emitir etiquetas pelo seu Admin VTEX, acesse **Envio > Pronto para envio**,
 * Imprimir uma nova etiqueta de envio, na aba [Pronto para etiquetar](#pronto-para-etiquetar).
 * Acessar etiquetas impressas previamente, na aba [Pacotes enviados](#pacotes-enviados).
 
-<div class = "alert alert-info">
-O pedido só aparecerá em <b>Pronto para envio</b> após o <a href="https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196#tabela-de-status-de-pedidos">status</a> <i>faturado</i>. Não é possível gerar a etiqueta de um pedido não faturado.
-</div>
+>ℹ️ O pedido só aparecerá em **Pronto para envio** após o [status](https://help.vtex.com/pt/tutorial/fluxo-e-status-de-pedidos--tutorials_196#tabela-de-status-de-pedidos) <i>faturado</i>. Não é possível gerar a etiqueta de um pedido não faturado.
 
 ## Aba Pronto para etiquetar 
 
@@ -112,9 +108,7 @@ Feito isso, você terá alterado o tipo das dimensões das etiquetas.
 
 No seu Admin VTEX, em **Envio > Pronto para envio**, a aba `Pacotes enviados` disponibiliza a consulta de pacotes que já tiveram as etiquetas de envio baixadas. Além disso, você pode reimprimir as etiquetas e _Notfis_.
 
-<div class = "alert alert-info">
-<i>Notfis</i> é o arquivo da mensagem usada na comunicação entre a sua loja e a transportadora. Esse arquivo contém os dados das notas fiscais dos pacotes enviados. Quando uma transportadora não é integrada ao <b>VTEX Shipping Network</b>, apenas o arquivo <i>notfis</i> fica disponível para download.
-</div>
+>ℹ️ <i>Notfis</i> é o arquivo da mensagem usada na comunicação entre a sua loja e a transportadora. Esse arquivo contém os dados das notas fiscais dos pacotes enviados. Quando uma transportadora não é integrada ao **VTEX Shipping Network**, apenas o arquivo <i>notfis</i> fica disponível para download.
 
 Na aba `Pacotes enviados`, para buscar por pedidos na lista de pacotes com etiquetas baixadas, você pode:
 

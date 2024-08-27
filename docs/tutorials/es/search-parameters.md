@@ -15,9 +15,7 @@ legacySlug: parametros-de-busqueda
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
-<div class = "alert alert-warning">
-  <strong>Atención</strong>: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
-</div>
+>⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
 
 Al realizar búsquedas en la VTEX, existen algunas posibilidades de urls. Tenemos las urls de Departamentos y Categorías, que son formadas de la siguiente forma:
 
@@ -57,9 +55,7 @@ Donde:
 
 ![](https://images.contentful.com/alneenqid6w5/2CuMf8UzCIkiYyMKUiIOcy/9c354e12e064bdb7f310611f7fc0ee41/id_marca.png)
 
-<div class = "alert alert-warning">
-  <p><b>Atención:</b> existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones Beta. Este artículo se refiere a <a href = "https://help.vtex.com/es/tutorial/registrar-una-coleccion-cms--2YBy6P6X0NFRpkD2ZBxF6L">la configuración de colecciones mediante el CMS</a>.</p>
-</div>
+>⚠️ **Atención:** existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones Beta. Este artículo se refiere a <a href = "https://help.vtex.com/es/tutorial/registrar-una-coleccion-cms--2YBy6P6X0NFRpkD2ZBxF6L">la configuración de colecciones mediante el CMS</a>.
 
 **H:\[IdColeção\]**: Retorna productos de una determinada colección, de acuerdo al ID informado. Este código se informa en la edición de la colección, en **Configurações &gt; Portal &gt; Pasta Portal &gt; Subpasta Coleções:**
 

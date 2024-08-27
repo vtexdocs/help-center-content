@@ -53,7 +53,7 @@ Ao clicar em **`Salvar`**, você receberá notificações no Admin acerca da per
 |**Segmentação***|Você irá definir quais sellers ou grupo de sellers serão afetados pelo valor definido em **Valor limite.**|
 |**Limite preferível**|Valor definido para alertar que o seller está se aproximando do **Valor limite.**|
 
-<div class ="alert alert-info"> Quando há variação configurada em uma métrica, a ordenação define a prioridade. Para casos em que só existe uma segmentação por grupo e outra por exceção, não existe conflito independente da ordenação. </div> 
+>ℹ️ Quando há variação configurada em uma métrica, a ordenação define a prioridade. Para casos em que só existe uma segmentação por grupo e outra por exceção, não existe conflito independente da ordenação. 
 
 ## Editando a métrica
 

@@ -54,9 +54,7 @@ Si lo desea, puede seleccionar la casilla `Simular ítems individualmente`.
 
  10. Haga clic en el botón `Simular Envío`.  
 
-<div class = "alert alert-info">
-En el resultado de la simulación, las medidas del ítem aparecen en centímetros y gramos, pero el valor real considerado en el Checkout son las unidades de medida registradas en los <a href="https://help.vtex.com/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke">campos de registro del producto</a> y SKU.
-</div>
+>ℹ️ En el resultado de la simulación, las medidas del ítem aparecen en centímetros y gramos, pero el valor real considerado en el Checkout son las unidades de medida registradas en los [campos de registro del producto](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) y SKU.
 
 ## Detalles de la simulación
 

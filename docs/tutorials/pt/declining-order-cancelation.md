@@ -23,13 +23,9 @@ O fluxo de pedidos tem uma[ janela para cancelamento](https://help.vtex.com/pt/t
 
 Para conferir nosso conteúdo para desenvolvedores, veja [Order canceling improvements](https://developers.vtex.com/docs/guides/order-canceling-improvements).
 
-<div class = "alert alert-info">
-Neste artigo, os termos marketplace e seller se referem ao <a href="https://help.vtex.com/pt/tutorial/marketplace-strategies-at-vtex--tutorials_402#ser-um-marketplace-vtex">marketplace VTEX</a> e ao <a href="https://help.vtex.com/pt/tutorial/marketplace-strategies-at-vtex--tutorials_402#sendo-seller-vtex">seller VTEX</a>. A funcionalidade de recusar solicitação de cancelamento não está disponível para sellers e marketplaces externos.
-</div>
+>ℹ️ Neste artigo, os termos marketplace e seller se referem ao [marketplace VTEX](https://help.vtex.com/pt/tutorial/marketplace-strategies-at-vtex--tutorials_402#ser-um-marketplace-vtex) e ao [seller VTEX](https://help.vtex.com/pt/tutorial/marketplace-strategies-at-vtex--tutorials_402#sendo-seller-vtex). A funcionalidade de recusar solicitação de cancelamento não está disponível para sellers e marketplaces externos.
 
-<div class = "alert alert-warning">
-Não é possível <a href="https://help.vtex.com/pt/tutorial/como-cancelar-pedido--tutorials_186">cancelar pedidos</a> que já tenham sido <a href="https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe">faturados parcialmente</a>. Caso o cliente deseje substituir ou remover itens do pedido, é possível <a href="https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190">alterar o pedido</a>.
-</div>
+>⚠️ Não é possível [cancelar pedidos](https://help.vtex.com/pt/tutorial/como-cancelar-pedido--tutorials_186) que já tenham sido [faturados parcialmente](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
 ## Diagrama de cancelamento de pedido recusado
 A imagem a seguir mostra o fluxo de recusa da solicitação de cancelamento de um pedido após a janela para cancelamento:

@@ -31,9 +31,7 @@ Your main domain needs to contain a subdomain, that may or may not be `www`. See
 - `store.mybrand.com` - Valid main domain.
 - `mystore.com` - Not a valid main domain because it does not have a subdomain, but can be redirected.
 
-<div class = "alert alert-info">
-  Learn how to <a href="https://help.vtex.com/pt/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450">configure your store's main domain</a>.
-</div>
+>ℹ️ Learn how to [configure your store's main domain](https://help.vtex.com/pt/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450).
 
 This redirection can be done in many ways. Although being quite technical and dependent on other factors, the most popular one is using `htaccess` on the server.
 

@@ -45,9 +45,7 @@ Na página **Chaves de aplicação**, você pode gerenciar as chaves de aplicaç
 
 Para visualizar essa página, na barra superior do Admin VTEX, clique no **avatar do seu perfil**, marcado pela inicial do seu email, e depois em **Configurações da conta** > **Chaves de aplicação**.
 
-<div class = "alert alert-info">
-<p>Saiba mais sobre <a href="https://help.vtex.com/pt/tutorial/boas-praticas-chaves-de-aplicacao--7b6nD1VMHa49aI5brlOvJm">Boas práticas na utilização de chaves de aplicação</a>.</p>
-</div>
+>ℹ️ Saiba mais sobre [Boas práticas na utilização de chaves de aplicação](https://help.vtex.com/pt/tutorial/boas-praticas-chaves-de-aplicacao--7b6nD1VMHa49aI5brlOvJm).
 
 ## Gerar chaves de aplicação internas
 

@@ -23,9 +23,7 @@ The XML configuration functionality in VTEX makes use of this feature of being a
 
 This means that, when entering the tag names in the __Id do Produto__ field, for example, with __Product_Id__, the VTEX database will understand that this information has to be entered there, making it possible to understand by Google, Facebook, Buscapé and many other systems that will read the structure.
 
-<div class = "alert alert-info">
-  <p>Changes to XML take an average of two hours to be updated.</p>
-</div>
+>ℹ️ Changes to XML take an average of two hours to be updated.
 
 Here are some examples of partners that integrate with VTEX XML:
 

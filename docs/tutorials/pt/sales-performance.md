@@ -35,9 +35,7 @@ Para garantir que você tenha acesso tanto aos últimos dados atualizados e tamb
 
 Esses grupos também são processados por sistemas diferentes, o que pode causar uma diferença entre dados do OMS e do Performance de Vendas, apesar de buscarmos apresentar no máximo 5% de divergência. 
 
-<div class ="alert alert-warning">
-É provável que existam diferenças entre as métricas de receita e ticket médio registradas no OMS e no Performance de Vendas, por exemplo. Isso ocorre porque o Performance de Vendas considera o valor dos itens, enquanto o OMS também considera os descontos, frete, taxas e promoções sobre o pedido - o que pode aumentar ou diminuir seu valor final. 
-</div>
+>⚠️ É provável que existam diferenças entre as métricas de receita e ticket médio registradas no OMS e no Performance de Vendas, por exemplo. Isso ocorre porque o Performance de Vendas considera o valor dos itens, enquanto o OMS também considera os descontos, frete, taxas e promoções sobre o pedido - o que pode aumentar ou diminuir seu valor final.
 
 ## Período
 

@@ -22,9 +22,7 @@ Ve a continuación las principales diferencias entre los escenarios de división
 * **[División de pedidos](#division-de-pedidos):** se produce cuando hay más de un _seller_ que atiende la misma compra. Esto significa que si hay tres _sellers_ para atender una misma compra, se generan tres pedidos. 
 * **[División de paquetes](#division-de-paquetes-entregas):** se produce cuando hay más de una entrega para un mismo pedido. Por ejemplo, cuando un único _seller_ es responsable de la entrega, pero el pedido se entrega en más de un envío. 
 
-<div class = "alert alert-info">
-Siempre que hay una división de pedidos, hay una división de paquetes. Además, un seller puede optar por dividir un mismo pedido en más de un paquete; así, al final de la compra, el número de paquetes siempre será mayor o igual que el número de pedidos generados.
-</div>
+>ℹ️ Siempre que hay una división de pedidos, hay una división de paquetes. Además, un seller puede optar por dividir un mismo pedido en más de un paquete; así, al final de la compra, el número de paquetes siempre será mayor o igual que el número de pedidos generados.
 
 Para facilitar la identificación de los casos en los que hay división de pedidos y división de entregas, mira algunos ejemplos a continuación:
 

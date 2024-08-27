@@ -32,9 +32,7 @@ Para criar um novo vale-presente, confira o passo a passo:
   <br>
   <li>Clique no botão azul <b>Criar vale</b>.</li>  
   <br>
-<div class = "alert alert-info">
-  <p>Na tela de criação do vale, o campo <b>Vale-presente</b> é automaticamente preenchido pelo sistema VTEX com o código ID do novo vale. Esse é o código a ser inserido pelo cliente na tela do checkout para aplicar o vale-presente no carrinho e reduzir o valor de pagamento do pedido.</p>
-</div>
+>ℹ️ Na tela de criação do vale, o campo **Vale-presente** é automaticamente preenchido pelo sistema VTEX com o código ID do novo vale. Esse é o código a ser inserido pelo cliente na tela do checkout para aplicar o vale-presente no carrinho e reduzir o valor de pagamento do pedido.
 <br>
   <li>Preencha os demais campos apresentados conforme as orientações abaixo:</li>
   <br>

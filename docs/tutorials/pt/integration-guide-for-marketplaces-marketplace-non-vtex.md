@@ -52,9 +52,7 @@ Neste artigo, você confere a visão geral do processo de integração de ambos 
 
 3) Marketplace busca preço, estoque e dados de frete do SKU pela API de Fullfillment.  
 
-<div class = "alert alert-info">
-Saiba mais na documentação para desenvolvedores <a href="https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-guide">External Marketplace</a>.
-</div>
+>ℹ️ Saiba mais na documentação para desenvolvedores [External Marketplace](https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-guide).
 
 ## B) Fluxo referente ao Envio e Processamento de Pedidos 
 
@@ -92,6 +90,4 @@ O fluxo de integrações referente ao envio e processamento de pedidos pode ser 
 
 6) Enviar solicitação de cancelamento.
 
-<div class = "alert alert-info">
-Saiba mais na documentação para desenvolvedores <a href="https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-guide">External Marketplace</a>.
-</div>
+>ℹ️ Saiba mais na documentação para desenvolvedores [External Marketplace](https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-guide).

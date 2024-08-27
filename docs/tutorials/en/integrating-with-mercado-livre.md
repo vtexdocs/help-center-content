@@ -72,9 +72,7 @@ The initial steps are essential for a successful configuration:
 
 ### Sending Product Attributes to Mercado Livre
 
-<div class = "alert alert-danger">
-This step is only required for stores that sell products like <strong>clothing, shoes and bags</strong>. If your store has these types of product, it's necessary to register their specifications. Go to <a href="https://help.vtex.com/en/tutorial/sending-clothes-shoes-and-bags-attributes-to-mercado-livre">this article</a> to learn how to perform such registration. If your store does not have these products, go directly to the <strong>Template configuration</strong> step.
-</div>
+>❗ This step is only required for stores that sell products like **clothing, shoes and bags**. If your store has these types of product, it's necessary to register their specifications. Go to [this article](https://help.vtex.com/en/tutorial/sending-clothes-shoes-and-bags-attributes-to-mercado-livre) to learn how to perform such registration. If your store does not have these products, go directly to the **Template configuration** step.
 
 __You've finished configuring the *first step* of the integration. Now let's go to the __Template Configuration__ step.
 

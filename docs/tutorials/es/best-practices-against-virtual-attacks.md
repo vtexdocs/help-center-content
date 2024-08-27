@@ -22,9 +22,7 @@ VTEX cuenta con varias protecciones contra posibles ataques a las tiendas. Sin e
 - [reCAPTCHA v3 en el checkout](#recaptcha-v3-en-el-checkout)
 - [Desactivar el inicio de sesión con contraseña](#desactivar-el-inicio-de-sesión-con-contrasena)
 
-<div class = "alert alert-info">
-Las medidas mencionadas en esta guía no eliminan por completo la posibilidad de ataques, pero sí pueden disminuir las probabilidades de que ocurran si se aplican adecuadamente.
-</div>
+>ℹ️ Las medidas mencionadas en esta guía no eliminan por completo la posibilidad de ataques, pero sí pueden disminuir las probabilidades de que ocurran si se aplican adecuadamente.
 
 ## Antifraude
 
@@ -48,9 +46,7 @@ Recomendamos utilizar [reCAPTCHA v3](https://help.vtex.com/es/tutorial/using-rec
 
 Aprende a configurar esta validación en el checkout de tu tienda en [reCAPTCHA en el checkout](https://help.vtex.com/es/tutorial/recaptcha-no-checkout--18Te3oDd7f4qcjKu9jhNzP). Para implementar reCAPTCHA v3 en una tienda VTEX, consulta la guía de desarrolladores [reCAPTCHA](https://developers.vtex.com/docs/guides/recaptcha#recaptcha-v3-score).
 
-<div class = "alert alert-info">
-La validación por reCAPTCHA también está activada de forma predeterminada en el flujo de <a href=tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#cartoes>registro de tarjetas</a> de los clientes de la tienda; por lo tanto, no es necesario que la tienda la configure.
-</div>
+>ℹ️ La validación por reCAPTCHA también está activada de forma predeterminada en el flujo de <a href=tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh#cartoes>registro de tarjetas</a> de los clientes de la tienda; por lo tanto, no es necesario que la tienda la configure.
 
 ## Configuración de orderForm
 

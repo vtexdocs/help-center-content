@@ -62,9 +62,7 @@ En este artículo, obtendrá una visión general del proceso de integración de 
 
 3) Marketplace busca precio, inventario y datos de flete del SKU a través de la API de Fullfillment.  
 
-<div class = "alert alert-info">
-Más información en la documentación para desarrolladores <a href="https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-guide">External Marketplace</a>.
-</div>
+>ℹ️ Más información en la documentación para desarrolladores [External Marketplace](https://developers.vtex.com/vtex-rest-api/docs/external-marketplace-integration-guide).
 
 ## B) Flujo Referente al Envío y Procesamiento de Pedidos
 

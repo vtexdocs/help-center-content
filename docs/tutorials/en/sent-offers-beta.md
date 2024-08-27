@@ -38,9 +38,7 @@ By setting up the product’s price and inventory conditions, the seller prepare
 
 This component lists all channels that have been integrated and the number of offers sent, processing and containing errors on each channel. This list provides sellers with greater visibility into the health of their integrations with external channels.
 
-<div class = "alert alert-info">
-In <b>Sent Offers</b> , you can track offers using <a href="https://help.vtex.com/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Libre Classic</a>, <a href="https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Libre Premium</a>, <a href="https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm">Netshoes</a> and <a href="https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#being-a-vtex-marketplace">VTEX marketplaces</a>.
-</div>
+>ℹ️ In **Sent Offers** , you can track offers using [Mercado Libre Classic](https://help.vtex.com/en/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), [Mercado Libre Premium](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), [Netshoes](https://help.vtex.com/en/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) and [VTEX marketplaces](https://help.vtex.com/en/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#being-a-vtex-marketplace).
 
 ## Learn more
 

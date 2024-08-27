@@ -34,9 +34,7 @@ A página **Detalhes do anúncio** apresenta as seguintes seções:
 - [Status do anúncio](#status-do-anuncio)  
 - [Lista de Interações](#lista-de-interacoes)
 
-<div class = "alert alert-info">
-O <b>Gerenciamento de anúncios</b> permite acompanhar anúncios com o <a href="https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Livre</a> (Classic e Premium), <a href="https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm">Netshoes</a> e marketplaces VTEX. Para conectores que desejam integrar via API, existe o <a href="https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors">Guia de integração da Gerenciamento de anúncios</a>.
-</div>
+>ℹ️ O **Gerenciamento de anúncios** permite acompanhar anúncios com o [Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic e Premium), [Netshoes](https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) e marketplaces VTEX. Para conectores que desejam integrar via API, existe o [Guia de integração da Gerenciamento de anúncios](https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors).
 
 ## Cabeçalho
 

@@ -17,9 +17,7 @@ subcategory: 6bSdupUQgvuXjBL9Igawxl
 
 Bulk data import simplifies the process of updating and maintaining information for buyer organizations, their users (members), and cost centers.
 
-<div class = "alert alert-info">
-Before configuring the bulk import feature, you should have the <a href="https://developers.vtex.com/docs/apps/vtex.b2b-suite">B2B Suite</a> installed in your store.
-</div>
+>ℹ️ Before configuring the bulk import feature, you should have the [B2B Suite](https://developers.vtex.com/docs/apps/vtex.b2b-suite) installed in your store.
 
 Here's how to import data in bulk into the VTEX platform:
 
@@ -27,17 +25,13 @@ Here's how to import data in bulk into the VTEX platform:
 
 2. In the Organizations tab, click **New**, and then Bulk Import. Click the Upload button and select your **XLSX file**, or drag and drop the file into the dashed area. The imported file must be smaller than 50 MB.
 
-<div class = "alert alert-info">
-If necessary, download a template file by clicking VTEX File Template at the bottom of the import window and enter the import data.
-</div>
+>ℹ️ If necessary, download a template file by clicking VTEX File Template at the bottom of the import window and enter the import data.
 
 <ol start="3">
 	<li>Once the platform has verified the imported file and found no errors, click Import.</li>
 </ol>
 
-<div class = "alert alert-info">
-If the platform detects any errors, check the section <b>Import errors</b>.
-</div>
+>ℹ️ If the platform detects any errors, check the section **Import errors**.
 
 <ol start="4">
 	<li>Once the import process is complete, you can click View Import Details to access the import report.</li>
@@ -55,9 +49,7 @@ To get a detailed overview of the detected problems, follow the steps below:
 2. Download the spreadsheet by clicking **Download Reviewed XLSX**. This spreadsheet shows the error details.
 3. After fixing the errors, you can restart the import process by uploading the corrected file again.
 
-<div class = "alert alert-info">
-Make sure you only upload the file with corrections to the previously detected errors to ensure a successful import.
-</div>
+>ℹ️ Make sure you only upload the file with corrections to the previously detected errors to ensure a successful import.
 
 ![Bulk import - EN](https://images.ctfassets.net/alneenqid6w5/xXZgwvWu4ngsY9D9hjQsO/f15af7d4180b8949ef33c25c761122a8/Bulk_import_vers_o_error-gif-EN.gif)
 

@@ -40,9 +40,7 @@ In this section, you can set the default markup and price variation limit for yo
 
 - **Overwrite seller prices:** this option overwrites all seller prices with the ones from the current account. 
 
-<div class = "alert alert-info">
-  <p>The configuration <b>Overwrite prices for sellers</b> is not available for white label sellers.</p>
-</div>
+>ℹ️ The configuration **Overwrite prices for sellers** is not available for white label sellers.
 
 ## Price table rules
 

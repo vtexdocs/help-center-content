@@ -29,9 +29,7 @@ Este artigo apresenta como acompanhar e gerenciar suas políticas de envio. No A
 * [Ativar ou desativar política de envio](#ativar-ou-desativar-politica-de-envio)
 * [Excluir política de envio](#excluir-politica-de-envio)
 
-<div class = "alert alert-info">
-Também é possível criar políticas de envio, confira o passo a passo no artigo <a href="https://help.vtex.com/pt/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT">Criar uma política de envio</a>.
-</div>
+>ℹ️ Também é possível criar políticas de envio, confira o passo a passo no artigo [Criar uma política de envio](https://help.vtex.com/pt/tutorial/criar-uma-politica-de-envio--66rJO4LKBdyMJOH6Z3dsaT).
 
 ## Visualizar lista de políticas de envio
 
@@ -54,9 +52,7 @@ As informações apresentadas nessa página estão descritas na tabela a seguir:
 
 Na caixa de busca com o ícone lupa <i class="fas fa-search"></i>, é possível buscar políticas de envio pelo nome. Ao digitar um caractere na barra de busca, a pesquisa é imediatamente realizada. Para limpar a busca, clique no ícone fechar <i class="far fa-times-circle"></i>.
 
-<div class = "alert alert-info">
-Caso não haja um resultado para a pesquisa, verifique a ortografia usada na busca e se existe algum filtro selecionado.
-</div>
+>ℹ️ Caso não haja um resultado para a pesquisa, verifique a ortografia usada na busca e se existe algum filtro selecionado.
 
 ## Filtrar políticas de envio
 

@@ -228,9 +228,7 @@ VTEX has added the following events to the [list of events available in Audit](h
   </tr>
 </table>
 
-<div class = "alert alert-info">
-See the <a href="https://help.vtex.com/pt/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ">full list of events available in Audit</a>.
-</div>
+>ℹ️ See the [full list of events available in Audit](https://help.vtex.com/pt/tutorial/eventos-disponiveis-no-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
 
 ## What needs to be done?
 

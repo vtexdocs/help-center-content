@@ -31,9 +31,7 @@ __Código de Referencia__: código de referencia único creado para ayudar con l
 
 __Peso para Flete:__ calculado para flete. Debe registrarse con un valor mayor que cero para que el <a href="https://help.vtex.com/es/tutorial/como-se-realiza-el-prorrateo-del-flete--frequentlyAskedQuestions_155">prorrateo del flete</a> funcione correctamente.
 
-<div class = "alert alert-info">
-<p>El módulo <b>Inventario y envío/Envío</b> no tiene en cuenta las unidades de medida en los campos a continuación. Solo sea consistente con lo que está registrado en los <a href="https://help.vtex.com/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke">campos de registro de producto</a> y de SKU.</p>
-</div>
+>ℹ️ El módulo **Inventario y envío/Envío** no tiene en cuenta las unidades de medida en los campos a continuación. Solo sea consistente con lo que está registrado en los [campos de registro de producto](https://help.vtex.com/es/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) y de SKU.
 
 __Altura para Flete:__ calculada para flete.
 

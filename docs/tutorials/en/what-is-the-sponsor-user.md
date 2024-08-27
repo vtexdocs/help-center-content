@@ -17,9 +17,7 @@ subcategory: 63DHe3VQEEE6Uuua8gIs2M
 
 Each VTEX account has a single Sponsor user – the only one who is granted full access to every section in the Admin, including critical maintenance and authorization actions.
 
-<div class = "alert alert-warning">
-The Sponsor user is not the same as the <b>Owner (Admin Super)</b>. The <b>Owner (Admin Super)</b> is a License Manager role that defines the permissions of a user in your store. It can even be assigned to multiple users.
-</div>
+>⚠️ The Sponsor user is not the same as the **Owner (Admin Super)**. The **Owner (Admin Super)** is a License Manager role that defines the permissions of a user in your store. It can even be assigned to multiple users.
 
 The Sponsor management page allows you to identify the current Sponsor user, transfer store ownership and view the activity log associated with Sponsor user actions. To access this page, navigate to **Account settings** > **Account management** > **Account**, scroll down to the Contact section and click `Sponsor management`.
 

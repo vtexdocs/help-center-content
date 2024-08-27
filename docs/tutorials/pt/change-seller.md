@@ -17,9 +17,7 @@ subcategory: 5m1qqfnmfYKsO0KiOQC8Ky
 
 O Change Seller é a funcionalidade que dá aos marketplaces autonomia para trocar o seller que vai realizar o fulfillment do pedido.
 
-<div class = "alert alert-info">
-A funcionalidade Change Seller só pode ser configurada por meio de APIs. Para mais informações, consulte a <a href="https://developers.vtex.com/vtex-rest-api/docs/change-seller">documentação para desenvolvedores Change Seller</a>.
-</div>
+>ℹ️ A funcionalidade Change Seller só pode ser configurada por meio de APIs. Para mais informações, consulte a [documentação para desenvolvedores Change Seller](https://developers.vtex.com/vtex-rest-api/docs/change-seller).
 
 A troca de seller pode ocorrer em duas situações:
 

@@ -15,9 +15,7 @@ legacySlug: registering-a-category
 subcategory: 1E7tziZCkY4w8i4EmUuwec
 ---
 
-<div class = "alert alert-info">
-On the VTEX platform, Department, Category, and Subcategory structure is not predefined. It varies according to the structure of your store, and it is not mandatory to create these 3 hierarchical levels.
-</div>
+>ℹ️ On the VTEX platform, Department, Category, and Subcategory structure is not predefined. It varies according to the structure of your store, and it is not mandatory to create these 3 hierarchical levels.
 
 The registration of a category happens inside the __Catalog__ on VTEX Admin.
 

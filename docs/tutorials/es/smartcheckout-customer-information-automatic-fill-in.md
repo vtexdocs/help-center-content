@@ -40,9 +40,7 @@ Los datos del cliente que se usan en el checkout provienen de la información re
    - street
    - receiverName
 
-<div class = "alert alert-warning">
-Si la información de uno o más campos no está completa en el Master Data, SmartCheckout no mostrará ningún dato del cliente de manera automática en la pantalla del Checkout. En este caso, el cliente deberá completar todos los datos de identificación de manera manual en cada compra que realice.  
-</div>
+>⚠️ Si la información de uno o más campos no está completa en el Master Data, SmartCheckout no mostrará ningún dato del cliente de manera automática en la pantalla del Checkout. En este caso, el cliente deberá completar todos los datos de identificación de manera manual en cada compra que realice.
 
 ## Procedimiento de compra con SmartCheckout
 
@@ -53,19 +51,16 @@ El flujo de rellenado automático de los datos del cliente en el Checkout es el 
 3. SmartCheckout verifica que el email ingresado pertenezca a un cliente registrado en la tienda.  
 4. Al verificar el email, los campos de identificación del cliente se completan automáticamente con los datos que se recuperan del Master Data durante el Checkout.
 
-<div class = "alert alert-warning">
-Para proteger los datos del cliente, la información de identificación se mostrará parcialmente en la pantalla del checkout (parte de los datos están enmascarados de acuerdo con el estándar <a href="https://help.vtex.com/es/tutorial/what-is-the-pci-ssc--4jo3Vkox3amSO2w4qIWa0E#">PCI-DSS</a> de seguridad de pagos). Este procedimiento le permite al cliente identificar si sus datos son correctos y elegir entre las distintas direcciones registradas para la entrega, en caso de que corresponda.
-</div>
+>⚠️ Para proteger los datos del cliente, la información de identificación se mostrará parcialmente en la pantalla del checkout (parte de los datos están enmascarados de acuerdo con el estándar [PCI-DSS](https://help.vtex.com/es/tutorial/what-is-the-pci-ssc--4jo3Vkox3amSO2w4qIWa0E#) de seguridad de pagos). Este procedimiento le permite al cliente identificar si sus datos son correctos y elegir entre las distintas direcciones registradas para la entrega, en caso de que corresponda.
 <ul>
 5. El cliente selecciona los medios de entrega y pago, y termina el pedido de compra.
 </ul>
-<div class = "alert alert-warning">
-Si el cliente elije tarjeta de crédito o débito como medio de pago, se adoptarán los criterios adicionales de seguridad a continuación:
-  <ul>
-    <li>Solicitación del CVV (código de seguridad de la tarjeta) para la validación final y finalización del pedido de compra.</li>
-    <li>Imposibilidad de realizar compras con tarjeta si se utiliza una dirección diferente a la registrada en el perfil del cliente.</li>
-  </ul>
-</div>
+>⚠️ Si el cliente elije tarjeta de crédito o débito como medio de pago, se adoptarán los criterios adicionales de seguridad a continuación:
+>
+> * Solicitación del CVV (código de seguridad de la tarjeta) para la validación final y finalización del pedido de compra.
+>
+> * Imposibilidad de realizar compras con tarjeta si se utiliza una dirección diferente a la registrada en el perfil del cliente.
+>   
 
 Cualquier modificación en los datos registrados, como la dirección o el teléfono, solo se permitirá una vez que el cliente haya [iniciado sesión en la tienda](https://help.vtex.com/es/tutorial/como-meu-cliente-pode-fazer-login-na-minha-loja--3FCNpwbpZe0U4auiI4CC0C). 
 

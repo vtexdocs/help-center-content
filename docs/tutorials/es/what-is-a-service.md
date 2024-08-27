@@ -17,9 +17,8 @@ subcategory: pwxWmUu7T222QyuGogs68
 
 Un servicio es un ítem, opcional y con coste, que puede venir acompañando un producto. Se utiliza para asignar un valor, a menudo emocional, pero también de un adicional de servicio propiamente dicho a un SKU. Por ejemplo, una embalaje de regalo, una cinta diferenciada, una tarjeta de regalo o una instalación de producto.
 
-<div class = "alert alert-warning">>
-Es importante recordar que un servicio siempre se cobra. Sin embargo, VTEX no controla el stock de un servicio. Esta es una función del marketplace o del seller.
-</div>
+>⚠️ >
+> Es importante recordar que un servicio siempre se cobra. Sin embargo, VTEX no controla el stock de un servicio. Esta es una función del marketplace o del seller.
 
 Si su producto comprado es una Camisa de la Selección Brasileña, el nombre de su Servicio puede ser __Embalaje de Regalo__, y ser exhibido durante el flujo de pedido en la pantalla que usted elija: producto, carrito o servicio.
 

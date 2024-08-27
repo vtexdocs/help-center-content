@@ -15,9 +15,7 @@ announcementImageID: ''
 announcementSynopsisES: 'Expanda sus canales de ventas y conéctese a marketplaces líderes del mercado con Marketplace Seller Network.'
 ---
 
-<div class = "alert alert-info">
-  <p>Esta aplicación está disponible exclusivamente para Brasil y pronto se lanzará en otras regiones. Si desea ser uno de los primeros en tener acceso, solo tiene que descargar la aplicación e inscribirse, le avisaremos cuando se incorporen nuevos partners en su región.  </p>
-</div>
+>ℹ️ Esta aplicación está disponible exclusivamente para Brasil y pronto se lanzará en otras regiones. Si desea ser uno de los primeros en tener acceso, solo tiene que descargar la aplicación e inscribirse, le avisaremos cuando se incorporen nuevos partners en su región.
 
 Imagine expandir sus fuentes de ingresos con menos inversión y más velocidad. Para los marketplaces y sellers de nuestro ecosistema, uno de los mayores retos es conectarse con nuevos partners para ampliar sus ofertas y su alcance. Por eso, desarrollamos la aplicación Marketplace Seller Network.
 

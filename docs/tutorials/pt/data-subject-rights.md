@@ -57,9 +57,7 @@ Para exportar dados do Master Data v1 pelo painel Admin, siga estes passos:
 
 Repita este passo a passo para as entidades de dados de clientes (**CL**), endereços (**AD**) e quaisquer outra que tenha configurado para receber informações pessoais de seus clientes.
 
-<div class = "alert alert-info">
-Saiba mais sobre como <a href="https://help.vtex.com/tutorial/filtering-data-on-master-data--tutorials_778#how-to-use-filters">filtrar dados</a> e <a href="https://help.vtex.com/pt/tutorial/exporting-data--tutorials_1125">exportar dados</a>. na interface do Master Data v1.
-</div>
+>ℹ️ Saiba mais sobre como [filtrar dados](https://help.vtex.com/tutorial/filtering-data-on-master-data--tutorials_778#how-to-use-filters) e [exportar dados](https://help.vtex.com/pt/tutorial/exporting-data--tutorials_1125). na interface do Master Data v1.
 
 #### Master Data v2
 
@@ -87,9 +85,7 @@ Seus clientes podem exercer seu direito de consentimento e de retificação de d
 - Visualizar e editar seus endereços cadastrados.
 - Visualizar e editar seus meios de pagamento registrados.
 
-<div class = "alert alert-info">
-Saiba mais sobre a página <a href="https://help.vtex.com/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh">Minha Conta</a>.
-</div>
+>ℹ️ Saiba mais sobre a página [Minha Conta](https://help.vtex.com/pt/tutorial/como-funciona-a-minha-conta--2BQ3GiqhqGJTXsWVuio3Xh).
 
 ## Consentimento
 
@@ -103,9 +99,7 @@ Ao concluir uma compra no checkout VTEX, seus clientes poderão optar por se ins
 
 Caso seja necessário, seu time de desenvolvimento pode [ajustar diretamente a opção de inscrição de um cliente específico](https://developers.vtex.com/docs/guides/newsletter-inclusion-master-data-v1) usando a API do Master Data v1.
 
-<div class = "alert alert-info">
-Saiba mais sobre a página Minha Conta. Confira também como seu time de desenvolvimento pode <a href="https://developers.vtex.com/docs/guides/newsletter-inclusion-master-data-v1">ajustar diretamente a inscrição de um cliente na newsletter</a>.
-</div>
+>ℹ️ Saiba mais sobre a página Minha Conta. Confira também como seu time de desenvolvimento pode [ajustar diretamente a inscrição de um cliente na newsletter](https://developers.vtex.com/docs/guides/newsletter-inclusion-master-data-v1).
 
 ### Carrinho abandonado
 
@@ -125,9 +119,7 @@ O direito de consentimento permite que pessoas façam compras na sua loja sem qu
 
 Entre em contato com o seu time de desenvolvimento para disponibilizar esta opção de acordo com o guia [Habilitando opção de salvar dados de usuário](https://developers.vtex.com/docs/guides/enable-the-save-user-data-opt-in).
 
-<div class = "alert alert-info">
-Saiba mais sobre <a href="https://help.vtex.com/pt/tutorial/configurar-carrinho-abandonado--tutorials_740">automação de carrinho abandonado</a>.
-</div>
+>ℹ️ Saiba mais sobre [automação de carrinho abandonado](https://help.vtex.com/pt/tutorial/configurar-carrinho-abandonado--tutorials_740).
 
 ## Exclusão
 

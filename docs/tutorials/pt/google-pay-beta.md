@@ -15,9 +15,7 @@ legacySlug: google-pay-beta
 subcategory: 3lZEaiSilZPwa3eCUUzwyr
 ---
 
-<div class = "alert alert-info">
-Este módulo está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Em caso de dúvidas, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
-</div>
+>ℹ️ Este módulo está em fase Beta, o que significa que estamos trabalhando para aprimorá-lo. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 O Google Pay™ é um serviço de pagamentos digitais que possibilita ao usuário não compartilhar os dados reais do seu cartão com a loja, trazendo mais segurança e acelerando a etapa de checkout. Com Google Pay o usuário pode realizar pagamentos por meio de cartões de crédito ou de débito, sem a necessidade de preencher qualquer dado manualmente, e o Google Pay também está disponível em diversos apps, sites e na Carteira do Google
 

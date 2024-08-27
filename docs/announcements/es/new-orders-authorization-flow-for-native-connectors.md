@@ -46,9 +46,7 @@ Estos campos se eliminaron de los registros del conector y se agregó el siguien
 
 > Atención: los pedidos con divergencia de precio entre el marketplace y VTEX solo se integrarán mediante la [configuración de una regla de Divergencia de precios](https://help.vtex.com/es/tutorial/configuracao-da-regra-de-divergencia-de-valores--awAKP0sS5J8jgLs2g7pPe).
 
-<div class = "alert alert-info">
-Al realizar la primera integración con un conector nativo, es recomendable que el seller cree la regla de Divergencia de precios antes de configurar la integración. No seguir la recomendación no impide que se complete la integración.
-</div>
+>ℹ️ Al realizar la primera integración con un conector nativo, es recomendable que el seller cree la regla de Divergencia de precios antes de configurar la integración. No seguir la recomendación no impide que se complete la integración.
 
 Para el seller que se integra con un conector nativo por primera vez y no crea la regla de Divergencia de precios, los pedidos con error de divergencia de valores estarán pendientes en el Admin VTEX, en **MARKETPLACE > Integraciones > Pedidos**. El mensaje de error en la interfaz es el siguiente:
 

@@ -19,9 +19,7 @@ subcategory: 1HSqkejwuYcQSMC400uY84
 
 Neste documento estão listados os perfis de acesso que estão predefinidos para novas lojas VTEX e respectivos recursos. Para acessá-los diretamente, use a lista abaixo.
 
-<div class = "alert alert-info">
-<p>Para saber mais sobre cada recurso listado nos perfis, veja o artigo <a href="https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#">Recursos do License Manager</a>.</p>
-</div>
+>ℹ️ Para saber mais sobre cada recurso listado nos perfis, veja o artigo [Recursos do License Manager](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3#).
 
 * [Admin - Start page only](#admin-start-page-only)
 * [Checkout Admin](#checkout-admin)

@@ -33,9 +33,7 @@ We recommend that the seller creates the Price Divergence rule before configurin
 
 The [Price Divergence rule](https://help.vtex.com/en/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW) is composed of one or more order authorization rules, which correspond to ranges between 0% and 100% of the order price. The configuration is done so that each range is associated with an automatic processing action.
 
-<div class = "alert alert-info">
-To create a Price Divergence rule, the user must have a Super Admin (Owner) or OMS Full role. To ensure security in the management of your operations, please refer to the article Best practices for secure user management.
-</div>
+>ℹ️ To create a Price Divergence rule, the user must have a Super Admin (Owner) or OMS Full role. To ensure security in the management of your operations, please refer to the article Best practices for secure user management.
 
 To create a price divergence rule, follow the steps below:
 
@@ -79,9 +77,7 @@ You can edit Price Divergence rule at any time. To do this, log in to your VTEX 
 
 On this page, you can delete the price divergence rule by clicking on **DELETE RULES**. This causes all configured authorization rules to be permanently deleted.
 
-<div class = "alert alert-info">
-This action cannot be undone. If you want to reapply the rules, you need to configure them again. The same applies to the authorization rules that make up the Price Divergence rule.
-</div>
+>ℹ️ This action cannot be undone. If you want to reapply the rules, you need to configure them again. The same applies to the authorization rules that make up the Price Divergence rule.
 
 On the same page, in the **All** tab, you can see the list of all the order authorization rules created. To delete an authorization rule, click on the **DELETE RULE** button next to the rule you want to delete.
 

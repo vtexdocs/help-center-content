@@ -46,9 +46,7 @@ Note que toda busca realizada é salva na aba **Últimas Buscas**. Para refazer 
 
 >⚠️ Apenas 50 buscas ficam gravadas neste painel. Se quiser salvar uma busca indefinidamente, realize a mesma e adicione aos favoritos do seu browser.
 
-<div class = "alert alert-info">
-Confira a <a href="https://help.vtex.com/pt/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ">lista de eventos disponíveis no Audit</a>.
-</div>
+>ℹ️ Confira a [lista de eventos disponíveis no Audit](https://help.vtex.com/pt/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
 
 ## Exemplos de filtros de busca 
 
@@ -77,6 +75,4 @@ Confira a <a href="https://help.vtex.com/pt/tutorial/events-available-in-audit--
 
 Para ver mais alguns exemplos de filtros que podem ser utilizados, clique na aba **Guia**. 
 
-<div class = "alert alert-info">
-No aplicativo Audit, <a href="https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3">recursos do License Manager</a> são identificados pelas respectivas chaves.
-</div>
+>ℹ️ No aplicativo Audit, [recursos do License Manager](https://help.vtex.com/pt/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) são identificados pelas respectivas chaves.

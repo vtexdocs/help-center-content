@@ -45,9 +45,7 @@ On the **Application Keys** page, you can manage the [internal](#internal-app-ke
 
 To view this page, at the top bar of the VTEX Admin, click your **profile avatar** — indicated by the first letter of your email — and then click **Account settings** > **Application Keys**.
 
-<div class = "alert alert-info">
-<p>Learn more about <a href="https://help.vtex.com/en/tutorial/boas-praticas-chaves-de-aplicacao--7b6nD1VMHa49aI5brlOvJm">best practices for using application keys</a>.</p>
-</div>
+>ℹ️ Learn more about [best practices for using application keys](https://help.vtex.com/en/tutorial/boas-praticas-chaves-de-aplicacao--7b6nD1VMHa49aI5brlOvJm).
 
 ## Generating internal application keys
 

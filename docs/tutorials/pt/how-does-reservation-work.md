@@ -17,11 +17,9 @@ subcategory: 3PQwnyOcNyYgawy06oe6gE
 
 A reserva é uma solução VTEX que impede que um mesmo item seja vendido mais de uma vez. Após a finalização de uma compra, o item comprado é subtraído do inventário disponível e, internamente, passa para o status **Reservado**.
 
-<div class = "alert alert-info">
-Na VTEX, Estoque é o local físico onde os itens são armazenados. Para poder identificar de qual estoque os itens serão retirados pelas transportadoras, é preciso cadastrar os estoques na plataforma. Consulte o artigo <a href="https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Estoque</a> para saber mais. 
-<p>
-O inventário é a relação dos itens que sua loja possui em estoque. Você pode adicionar e acompanhar os itens disponíveis na sua loja pelo Gerenciamento de Inventário. Consulte o artigo <a href="https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139">Gerenciar inventário</a> para saber mais.
-</div>
+>ℹ️ Na VTEX, Estoque é o local físico onde os itens são armazenados. Para poder identificar de qual estoque os itens serão retirados pelas transportadoras, é preciso cadastrar os estoques na plataforma. Consulte o artigo [Estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) para saber mais. 
+> <p>
+> O inventário é a relação dos itens que sua loja possui em estoque. Você pode adicionar e acompanhar os itens disponíveis na sua loja pelo Gerenciamento de Inventário. Consulte o artigo [Gerenciar inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139) para saber mais.
 
 Após ser vendido, um item passa pelos seguintes status no inventário da sua loja:
 
@@ -93,8 +91,6 @@ Quando o lojista ou o ERP atualizarem a quantidade desse item no inventário  re
 
 Como descrito acima, a baixa no estoque é uma consequência da atualização do inventário pelo lojista. Portanto, não é possível visualizar esse status na plataforma. É possível apenas conferir a quantidade de itens disponíveis para venda e a movimentação dos itens pelo [Gerenciamento de inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139).
 
-<div class = "alert alert-info">
-É importante lembrar que todos os status aqui descritos são internos e exclusivos da VTEX para o controle de venda de itens.
-<p>O status da reserva é consequência do status do pedido. Algumas mudanças dependem de atitudes do comprador, e outras, de atualização manual ou do ERP.
-</div>
+>ℹ️ É importante lembrar que todos os status aqui descritos são internos e exclusivos da VTEX para o controle de venda de itens.
+> <p>O status da reserva é consequência do status do pedido. Algumas mudanças dependem de atitudes do comprador, e outras, de atualização manual ou do ERP.
 

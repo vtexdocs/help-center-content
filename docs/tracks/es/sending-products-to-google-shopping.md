@@ -20,9 +20,7 @@ En Google Shopping, solamente los [catálogos](https://help.vtex.com/es/tracks/c
 
 Después de configurar la integración y autenticar su cuenta, el envío de productos al _marketplace_ no es automático sino que será necesario que el _seller_ [reindexe la base](https://help.vtex.com/es/tutorial/entendendo-o-funcionamento-da-indexacao). Este proceso prepara los datos de los SKU y de los productos y envía al _marketplace_ la información general sobre el catálogo, los precios y el _stock_. 
 
-<div class = "alert alert-info">
-Solo el <a href="https://help.vtex.com/es/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA">usuario titular (owner)</a> tiene permiso para reindexar la base de una tienda VTEX. Durante el periodo de reindexación, que es variable, los productos ingresan en una fila para que se actualicen los datos, pero siguen disponibles para la venta en el sitio web de la tienda. 
-</div>
+>ℹ️ Solo el [usuario titular (owner)](https://help.vtex.com/es/tracks/contas-e-permissoes--5PxyAgZrtiYlaYZBTlhJ2A/56Bd0KpwbvAji1aFs94xdA) tiene permiso para reindexar la base de una tienda VTEX. Durante el periodo de reindexación, que es variable, los productos ingresan en una fila para que se actualicen los datos, pero siguen disponibles para la venta en el sitio web de la tienda.
 
 Para reindexar la base, copia en tu navegador la dirección a continuación y reemplaza «{nomedaloja}» con el nombre de tu tienda:
 

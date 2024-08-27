@@ -23,13 +23,9 @@ The order flow has a [cancellation window](https://help.vtex.com/en/tutorial/ord
 
 For developer’s content, see [Order canceling improvements](https://developers.vtex.com/docs/guides/order-canceling-improvements).
 
-<div class = "alert alert-info">
-In this article, the terms marketplace and seller refer to <a href="https://help.vtex.com/en/tutorial/marketplace-strategies-at-vtex--tutorials_402#being-a-vtex-marketplace">VTEX marketplace</a> and <a href="https://help.vtex.com/en/tutorial/marketplace-strategies-at-vtex--tutorials_402#being-a-vtex-marketplace">VTEX seller</a>. The decline cancellation request feature is not available for external sellers and marketplaces.
-</div>
+>ℹ️ In this article, the terms marketplace and seller refer to [VTEX marketplace](https://help.vtex.com/en/tutorial/marketplace-strategies-at-vtex--tutorials_402#being-a-vtex-marketplace) and [VTEX seller](https://help.vtex.com/en/tutorial/marketplace-strategies-at-vtex--tutorials_402#being-a-vtex-marketplace). The decline cancellation request feature is not available for external sellers and marketplaces.
 
-<div class = "alert alert-warning">
-Orders with <a href="https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe">partial invoices</a> cannot be <a href="https://help.vtex.com/en/tutorial/como-cancelar-pedido--tutorials_186">canceled</a>. If the customer wants to replace or remove items from the order, it is possible to <a href="https://help.vtex.com/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190">change the order</a>.
-</div>
+>⚠️ Orders with [partial invoices](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](https://help.vtex.com/en/tutorial/como-cancelar-pedido--tutorials_186). If the customer wants to replace or remove items from the order, it is possible to [change the order](https://help.vtex.com/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
 ## Order cancellation declined diagram
 

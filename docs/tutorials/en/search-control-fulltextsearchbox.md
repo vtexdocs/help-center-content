@@ -15,9 +15,7 @@ legacySlug: search-control-fulltextsearchbox
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class = "alert alert-warning">
-  <strong>Warning</strong>: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see <a href = "https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">this track</a>.
-</div>
+>⚠️ **Warning**: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see <a href = "https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">this track</a>.
 
 The `<vtex.cmc:fullTextSearchBox />` control is responsible for generating the search box. Besides the search filed, the control renders a combo for restricting a search in one department. Below we have an example of the control with no application of css:
 

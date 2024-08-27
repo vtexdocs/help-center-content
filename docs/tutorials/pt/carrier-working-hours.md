@@ -31,9 +31,7 @@ As configurações de horário de funcionamento influenciam o cálculo do tempo 
 
   >❗ Para autorizar a transportadora a receber pedidos nos finais de semana, este toggle deve ser marcado como `Ativo`. Mesmo se sábados e domingos estiverem configurados como janelas válidas, a ativação do toggle é obrigatória para autorizar a transportadora a receber pedidos fora do horário de funcionamento.
 
-  <div class = "alert alert-info">
-Quando esta opção está habilitada, o <a href="https://help.vtex.com/pt/tutorial/how-shipping-calculation-works--tutorials_116">cálculo de envio</a> do pedido é influenciado, e o tempo desde a realização do pedido até o horário de início de funcionamento da transportadora é somado ao tempo de envio total de envio.
-</div>
+  >ℹ️ Quando esta opção está habilitada, o [cálculo de envio](https://help.vtex.com/pt/tutorial/how-shipping-calculation-works--tutorials_116) do pedido é influenciado, e o tempo desde a realização do pedido até o horário de início de funcionamento da transportadora é somado ao tempo de envio total de envio.
 
 3. Selecione o `Dia da semana` e respectivamente o `Horário de início` e `Horário de término` do envio, sendo:
     * **Dia da semana:** os dias da semana que a transportadora faz as entregas.

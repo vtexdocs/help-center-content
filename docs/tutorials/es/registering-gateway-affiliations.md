@@ -35,13 +35,9 @@ Para agregar un nuevo proveedor de pago o antifraude a tu tienda, sigue los paso
 5. Si aparece un mensaje de alerta que diga que se debe instalar la aplicación, haz clic en el botón __Instalar aplicación__ y sigue las instrucciones de instalación. El mensaje solo se muestra en algunos tipos de proveedores de gateway.
 6. Haz clic en `Guardar`.
 
-<div class = "alert alert-info">
-  <p>Si hay otros campos que rellenar además de Clave de aplicación y Token de aplicación (paso 6), la configuración del proveedor de gateway se debe llevar a cabo siguiendo el tutorial correspondiente. Para más información, consulta la subsección <a href="https://help.vtex.com/es/subcategory/configuracion-de-pagos--3tDGibM2tqMyqIyukqmmMw">Configuración de Pagos</a>.</p>
-</div>
+>ℹ️ Si hay otros campos que rellenar además de Clave de aplicación y Token de aplicación (paso 6), la configuración del proveedor de gateway se debe llevar a cabo siguiendo el tutorial correspondiente. Para más información, consulta la subsección [Configuración de Pagos](https://help.vtex.com/es/subcategory/configuracion-de-pagos--3tDGibM2tqMyqIyukqmmMw).
 
-<div class = "alert alert-danger">
-Las credenciales utilizadas para rellenar los campos Clave de aplicación y Token de aplicación las debe informar el proveedor de pago para identificar la tienda. No se deben utilizar las credenciales <a href="https://help.vtex.com/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet">generadas en el Admin</a>, que empiezan por <code>vtexappkey-</code>.
-</div>
+>❗ Las credenciales utilizadas para rellenar los campos Clave de aplicación y Token de aplicación las debe informar el proveedor de pago para identificar la tienda. No se deben utilizar las credenciales [generadas en el Admin](https://help.vtex.com/es/tutorial/claves-de-aplicacion--2iffYzlvvz4BDMr6WGUtet), que empiezan por `vtexappkey-`.
 
 Para configurar los medios de pago que el proveedor escogido procesará, accede a [Configurar condiciones de pago](https://help.vtex.com/es/tutorial/condiciones-de-pago--tutorials_455). 
 
@@ -75,8 +71,7 @@ Para cambiar la lista de proveedores usando filtros, accede a la página de gest
 
 ![interface_provedor_ES_6](https://images.ctfassets.net/alneenqid6w5/36BloW94uLYLN7qGFO1HeP/5aae0659cf9128a58fe3ce02d03a6023/interface_provedor_ES_6.JPG)
 
-<div class = "alert alert-danger">
-Para remover los filtros aplicados y ver todos los proveedores registrados en la tienda, haz clic en el botón <code>Limpiar todo</code>.</div>
+>❗ Para remover los filtros aplicados y ver todos los proveedores registrados en la tienda, haz clic en el botón `Limpiar todo`.
 
 ## Editar configuración de un proveedor
 
@@ -89,5 +84,4 @@ Para editar la configuración de un proveedor de pago o antifraude registrado en
 
 ![interface_provedor_ES_7](https://images.ctfassets.net/alneenqid6w5/49bqIpjzfjB6VGrjwMiYEK/4931462bfe35657876f4a5e6c63d5386/artigo_interface_provedor_ES_7.JPG)
 
-<div class = "alert alert-danger">
-Antes de editar la configuración de un proveedor, como datos de autorización, modo de procesamiento o tipo de reembolso, asegúrate de verificar que la nueva información no afecte el rendimiento operativo de la tienda.</div>
+>❗ Antes de editar la configuración de un proveedor, como datos de autorización, modo de procesamiento o tipo de reembolso, asegúrate de verificar que la nueva información no afecte el rendimiento operativo de la tienda.

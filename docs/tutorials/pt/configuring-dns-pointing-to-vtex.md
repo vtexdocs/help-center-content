@@ -68,16 +68,14 @@ Outra alternativa, embora não recomendada, seria não incluir registros CAA no 
 
 Para facilitar o trabalho de criar/verificar seus registros CAA, você pode usar o [CAA Record Helper by SSLMate](https://sslmate.com/caa/). O programa [DiG](https://www.hostinger.com/tutorials/how-to-use-the-dig-command-in-linux/) também pode ajudar na verificação dos registros, através do comando `dig domain.com CAA` - um status `SERVFAIL` pode indicar não-conformidade do seu servidor DNS.
 
-<div class = "alert alert-info">
-Saiba mais:
-<p>
-<ul>
-<li><a href="https://sslmate.com/caa/">CAA Record Helper by SSLMate</a></li>
-<li><a href="https://letsencrypt.org/docs/caa/">Let's Encrypt: Certificate Authority Authorization (CAA)</a></li>
-<li><a href="https://sslmate.com/caa/about">SSL Mate: About CAA</a></li>
-</ul>
-</p>
-</div>
+>ℹ️ Saiba mais:
+>
+> *[CAA Record Helper by SSLMate](https://sslmate.com/caa/)
+>
+> *[Let's Encrypt: Certificate Authority Authorization (CAA)](https://letsencrypt.org/docs/caa/)
+>
+> *[SSL Mate: About CAA](https://sslmate.com/caa/about)
+> 
 
 ## Apontamento de DNS
 
@@ -93,9 +91,7 @@ Se sua frente de loja é feita com [CMS IO](https://help.vtex.com/pt/tracks/cms-
 
 Após receber a confirmação do apontamento interno, você deverá realizar o [apontamento comum de DNS](#apontamento-comum-de-dns) em até cinco dias. Do contrário o apontamento interno será excluído e você precisará refazer esta solicitação.
 
-<div class = "alert alert-info">
-Saiba mais sobre <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-go-live">Go live com Store Framework</a> ou <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io">Migração do CMS legado para Store Framework</a>.
-</div>
+>ℹ️ Saiba mais sobre [Go live com Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-go-live) ou [Migração do CMS legado para Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io).
 
 ### Apontamento comum de DNS
 

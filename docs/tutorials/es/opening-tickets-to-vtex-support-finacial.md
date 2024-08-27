@@ -57,17 +57,11 @@ Esta clasificación es importante para que el equipo de soporte priorice los lla
 
 *Si el nivel indicado no se aplica al escenario del ticket, el agente puede modificarlo.*
 
-<div class = "alert alert-info">
-<strong>Normal:</strong> preguntas en general.
-</div>
+>ℹ️ **Normal:** preguntas en general.
 
-<div class = "alert alert-warning">
-<strong>Alto:</strong> las documentaciones importantes están inviabilizando el proceso.
-</div>
+>⚠️ **Alto:** las documentaciones importantes están inviabilizando el proceso.
 
-<div class = "alert alert-danger">
-<strong>Urgente:</strong> Admin bloqueado, amenazando el beneficio de su negocio.
-</div>
+>❗ **Urgente:** Admin bloqueado, amenazando el beneficio de su negocio.
 
 ## Interactuando en el ticket
 

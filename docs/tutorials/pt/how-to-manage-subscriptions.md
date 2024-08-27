@@ -39,9 +39,7 @@ A seção **Assinaturas Únicas** permite:
 
 ### Pedidos de Assinatura
 
-<div class = "alert alert-info">
-É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo <a href="https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Minha Conta</a>.
-</div>
+>ℹ️ É possível acessar informações somente de pedidos criados nos últimos dois anos, sendo o mesmo período válido para clientes acessarem pedidos pelo [Minha Conta](https://help.vtex.com/pt/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 A seção **Pedidos de Assinatura** permite:
 

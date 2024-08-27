@@ -33,9 +33,7 @@ In this article, we explain how the specification inheritance works for the adde
         * [Product registration](#product-registration)
         * [Spreadsheet](#spreadsheet)
 
-<div class = "alert alert-info">
-  <p>To create a product specification using <strong>Catalog API</strong>, follow the <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a> developer's guide.</p>
-</div>
+>ℹ️ To create a product specification using **Catalog API**, follow the [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification) developer's guide.
 
 ## Product specifications inheritance
 
@@ -148,9 +146,7 @@ For the **Combo**, **Radio** and **CheckBox** field types, you must add preset v
 
 ![product-spec-2](https://images.ctfassets.net/alneenqid6w5/5F0K7fQTFOf2b7opIrgpP6/c8c76e2f734ee038be20a6c273fdf987/EN_ProdutoGif_2_Alterado.gif)
 
-<div class = "alert alert-info">
-  <p>If you are adding values for the first time in a field, you must return to the form of that specific field and check the <strong>Active</strong> option.</p>
-</div>
+>ℹ️ If you are adding values for the first time in a field, you must return to the form of that specific field and check the **Active** option.
 
 #### Accessing or editing values
 

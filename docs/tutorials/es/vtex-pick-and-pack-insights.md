@@ -15,9 +15,7 @@ legacySlug: vtex-pick-and-pack-analisis
 subcategory: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-<div class = "alert alert-info">
-Esta función se encuentra en fase beta cerrada, por lo que sólo los clientes seleccionados pueden acceder a ella ahora. Si desea implementarla en el futuro, rellene nuestro <a href="https://vtex.com/co-es/contacto/">formulario</a> apontaby introduciendo el nombre del producto en el campo <code>Comentarios</code>.
-</div>
+>ℹ️ Esta función se encuentra en fase beta cerrada, por lo que sólo los clientes seleccionados pueden acceder a ella ahora. Si desea implementarla en el futuro, rellene nuestro [formulario](https://vtex.com/co-es/contacto/) apontaby introduciendo el nombre del producto en el campo `Comentarios`.
 
 **Análisis** es una página del Admin VTEX que muestra información sobre el desempeño de tu tienda en relación con VTEX Pick and Pack.
 

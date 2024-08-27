@@ -15,9 +15,7 @@ legacySlug: autocomplete
 subcategory: 30Kdgc6wJkMWgcXLB8mGr7
 ---
 
-<div class = "alert alert-warning">
-O Autocomplete é uma ferramenta já ativa no VTEX Intelligent Search. Não é possível desligá-la no Admin.
-    </div>
+>⚠️ O Autocomplete é uma ferramenta já ativa no VTEX Intelligent Search. Não é possível desligá-la no Admin.
 
 O Autocomplete funciona com base nas informações obtidas por meio do histórico de busca de termos relacionados ao Catálogo. Esses resultados são apresentados em quatro listas diferentes, que podem estar juntas ou separadas, dependendo da interação com o cliente. As seções existentes são:
 
@@ -35,19 +33,14 @@ Durante a interação com a barra de busca, o VTEX Intelligent Search exibe imed
 
 Quando o usuário começa a digitar, o sistema mostra as _Sugestões de busca_ e _Sugestões de produtos_ e remove as listas anteriores.
 
-<div class = "alert alert-info">
-  <p>As informações das seções <b>Termos mais buscados</b> e <b>Sugestão de busca</b> são atualizadas diariamente. Para isso, são utilizados os dados dos últimos 14 dias da interação dos clientes com a busca.</p>
-  </div>
+>ℹ️ As informações das seções **Termos mais buscados** e **Sugestão de busca** são atualizadas diariamente. Para isso, são utilizados os dados dos últimos 14 dias da interação dos clientes com a busca.
 
 Dessa forma, é possível proporcionar ao cliente uma experiência de pesquisa mais fluida e personalizada. Ele consegue visualizar o resultado de maneira rápida, além de receber sugestões baseadas na sua busca.
 
 Outra vantagem para o gestor da loja é o aumento de conversão, resultado dessa dinâmica de usabilidade e experiência.
 
-<div class = "alert alert-info">
-  <p> O Autocomplete oferece sugestões de pesquisa mesmo quando a loja é totalmente nova e ainda não dispõe de dados de interações com clientes, como cliques e buscas.
-    Nesse caso, a funcionalidade gera sugestões de busca a partir de um algoritmo que extrai palavras-chave do catálogo, dos produtos, das marcas e das categorias registradas na loja.
-</p>
-  </div>
+>ℹ️ O Autocomplete oferece sugestões de pesquisa mesmo quando a loja é totalmente nova e ainda não dispõe de dados de interações com clientes, como cliques e buscas.
+>     Nesse caso, a funcionalidade gera sugestões de busca a partir de um algoritmo que extrai palavras-chave do catálogo, dos produtos, das marcas e das categorias registradas na loja.
 
 ## Termos mais buscados
 

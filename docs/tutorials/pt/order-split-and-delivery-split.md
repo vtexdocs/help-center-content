@@ -22,9 +22,7 @@ Veja a seguir as principais diferenças entre os cenários de divisão de pedido
 * **[Divisão de pedidos](#divisao-de-pedidos):** ocorre quando há mais de um seller atendendo a uma mesma compra. Isso significa que, se há três sellers para atender a uma única compra, há três pedidos gerados. 
 * **[Divisão de pacotes](#divisao-de-pacotes-entregas):** ocorre quando há mais de uma entrega para um pedido. Por exemplo, quando um único seller é responsável pela entrega, mas a entrega do pedido é feita em mais de uma remessa de pacote. 
 
- <div class = "alert alert-info">
-Sempre que há uma divisão de pedidos, há divisão de pacotes. Além disso, um seller pode optar por dividir um único pedido em mais de um pacote; portanto, ao final da compra, o número de pacotes será sempre maior ou igual ao número de pedidos gerados.
-</div>
+ >ℹ️ Sempre que há uma divisão de pedidos, há divisão de pacotes. Além disso, um seller pode optar por dividir um único pedido em mais de um pacote; portanto, ao final da compra, o número de pacotes será sempre maior ou igual ao número de pedidos gerados.
 
 Para facilitar a identificação dos casos em que há divisão de pedidos e divisão de entregas, confira alguns exemplos abaixo:
 

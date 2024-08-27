@@ -74,9 +74,7 @@ Os provedores de pagamento precisam ser habilitados em uma loja de modo que tran
 2. Selecionar o provedor desejado, clicando no respectivo link da tabela.
 3. Acessar o Admin VTEX para configurar o provedor conforme as instruções descritas no respectivo artigo de configuração.
 
-<div class = "alert alert-info">
-Os artigos de configuração de provedores também podem ser acessados ao digitar o nome do provedor desejado na barra de busca do <a href="https://help.vtex.com/pt/">Help Center</a>.
-</div>
+>ℹ️ Os artigos de configuração de provedores também podem ser acessados ao digitar o nome do provedor desejado na barra de busca do [Help Center](https://help.vtex.com/pt/).
 
 #### Definindo meios e condições de pagamento
 
@@ -256,9 +254,7 @@ Mais informações em [Otimização das opções de entrega no Checkout](https:/
 
 Funcionalidade que permite envio de e-mails aos clientes para recordá-los sobre a conclusão da compra de um carrinho que tenha sido criado anteriormente, mas não finalizado.
 
-<div class = "alert alert-info">
-Configurar o carrinho abandonado durante o Onboarding, permitirá que todos os carrinhos que ainda serão criados, possam ser encaminhados para avaliação do cliente ou finalizados.
-</div>
+>ℹ️ Configurar o carrinho abandonado durante o Onboarding, permitirá que todos os carrinhos que ainda serão criados, possam ser encaminhados para avaliação do cliente ou finalizados.
 
 Mais informações em [Configurar carrinho abandonado](https://help.vtex.com/pt/tutorial/configurar-carrinho-abandonado--tutorials_740).
 

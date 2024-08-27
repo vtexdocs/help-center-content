@@ -15,9 +15,7 @@ legacySlug: como-incluir-una-coleccion-de-productos-en-la-vitrina-de-la-tienda
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class = "alert alert-warning">
-  <p><b>Atención:</b> existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones Beta. Este artículo se refiere a <a href = "https://help.vtex.com/es/tutorial/registrar-una-coleccion-cms--2YBy6P6X0NFRpkD2ZBxF6L">la configuración de colecciones mediante el CMS</a>.</p>
-</div>
+>⚠️ **Atención:** existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo Colecciones Beta. Este artículo se refiere a <a href = "https://help.vtex.com/es/tutorial/registrar-una-coleccion-cms--2YBy6P6X0NFRpkD2ZBxF6L">la configuración de colecciones mediante el CMS</a>.
 
 Las vitrinas se usan en el destaque de productos en diversas páginas. Se pueden usar también para recomendaciones, en la página del producto.
 

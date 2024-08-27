@@ -35,9 +35,7 @@ Confira a seguir a lista dos possíveis eventos disponíveis no [Audit](https://
 * [Headless CMS](#headless-cms)
 * [Gerenciamento de sellers](#gerenciamento-de-sellers)
 
-<div class = "alert alert-info">
-  <p>Caso você visualize no Audit algum evento que não esteja listado aqui, por favor nos informe usando a <a href="https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform">página de feedback de documentação</a>.</p>
-  </div>
+>ℹ️ Caso você visualize no Audit algum evento que não esteja listado aqui, por favor nos informe usando a [página de feedback de documentação](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
 >⚠️ Nas opções de filtros do Audit, você pode encontrar **Opções de envio**, **Profile System** e **Billing** além das aplicações citadas abaixo. Essas opções se referem a recursos internos ou funcionalidades em fase beta fechada, portanto, a maior parte das contas não terão eventos associados.
 

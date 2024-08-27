@@ -15,9 +15,7 @@ legacySlug: creando-colecciones-de-productos
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
-<div class = "alert alert-warning">
-  <p>Existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo <a href="https://help.vtex.com/es/tutorial/registrar-colecciones-beta--yJBHqNMViOAnnnq4fyOye">Colecciones Beta</a>. Este artículo se refiere a <a href = "https://help.vtex.com/es/tutorial/registrar-una-coleccion-cms--2YBy6P6X0NFRpkD2ZBxF6L">la configuración de colecciones mediante el CMS</a>.</p>
-</div>
+>⚠️ Existen dos formas de configurar colecciones, mediante el CMS o utilizando el módulo [Colecciones Beta](https://help.vtex.com/es/tutorial/registrar-colecciones-beta--yJBHqNMViOAnnnq4fyOye). Este artículo se refiere a <a href = "https://help.vtex.com/es/tutorial/registrar-una-coleccion-cms--2YBy6P6X0NFRpkD2ZBxF6L">la configuración de colecciones mediante el CMS</a>.
 
 Para crear una colección, siga las siguientes instrucciones:
 

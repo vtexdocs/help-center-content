@@ -22,9 +22,7 @@ Access to a VTEX account gives you access to the [support dashboard](https://sup
 
 ![Support imagem 1 - EN](https://images.ctfassets.net/alneenqid6w5/75ezzwg9iant6cmq04FhTz/c0f1b4654f82949a438f82b2416a11c7/support_imagem1_EN.gif)
 
-<div class = "alert alert-info">
-Learn more about how to open a ticket and ticket types in the article <a href="https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM">Opening tickets to VTEX support. </a>
-</div>
+>ℹ️ Learn more about how to open a ticket and ticket types in the article [Opening tickets to VTEX support. ](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM)
 
 ## Support types
 

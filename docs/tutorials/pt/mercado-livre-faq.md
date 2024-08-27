@@ -50,9 +50,7 @@ Existem três formas de enviar a descrição do seu produto para o Mercado Livre
 - Criar uma especificação de produto
 - Criar template na Central de Mensagens (opcional)
 
-<div class = "alert alert-info">
-Leia o artigo do Mercado Livre <a href="https://www.mercadolivre.com.br/ajuda/completar_informacao_dos_seus_produtos_3147">“Como descrever os seus produtos”</a> para dicas de como descrever seus produtos.
-</div>
+>ℹ️ Leia o artigo do Mercado Livre [“Como descrever os seus produtos”](https://www.mercadolivre.com.br/ajuda/completar_informacao_dos_seus_produtos_3147) para dicas de como descrever seus produtos.
 
 #### Preencher o campo Descrição do produto
 

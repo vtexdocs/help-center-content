@@ -22,9 +22,7 @@ This article will present the following information:
 - A [table with all the order statuses available on the Admin and via API](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196#order-status-details).
 - [Scenarios in which orders are canceled](https://help.vtex.com/en/tutorial/fluxo-e-status-de-pedidos--tutorials_196#order-cancellation).
 
-<div class = "alert alert-info">
-Learn how to track an order flow in the article <a href="https://help.vtex.com/en/tutorial/acompanhamento-de-pedidos--et0Ei7F3bjcrEmVAR2kKS">Order tracking</a>.
-</div>
+>ℹ️ Learn how to track an order flow in the article [Order tracking](https://help.vtex.com/en/tutorial/acompanhamento-de-pedidos--et0Ei7F3bjcrEmVAR2kKS).
 
 ## Flow types
 
@@ -67,9 +65,7 @@ This is the order flow visible to the store responsible for shipping the order p
 
 3. The status automatically changes to `Cancellation window`. The order will remain at this status until the [cancellation window is closed](https://help.vtex.com/en/tutorial/configuracoes-gerais/#orders).
 
-  <div class = "alert alert-info">
-The <i>Cancellation window</i> allows the customer to cancel the purchase without the store's approval, within a period of time previously configured by the store. After this period, the store must authorize the customer's cancellation request.
-</div>
+  >ℹ️ The <i>Cancellation window</i> allows the customer to cancel the purchase without the store's approval, within a period of time previously configured by the store. After this period, the store must authorize the customer's cancellation request.
 
 4. At this stage, there are two possible statuses:
     * **Order not canceled:** If the cancellation window period expires and the customer does not request the purchase cancellation, the status changes to `Ready for handling`. This status indicates to the seller that they can begin handling the order for delivery.
@@ -119,9 +115,7 @@ Once there is a request to cancel an order, the platform processes the order can
 
 Orders with [partial invoices](https://help.vtex.com/en/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe) cannot be [canceled](https://help.vtex.com/en/tutorial/como-cancelar-pedido--tutorials_186). If the customer wants to replace or remove items from the order, it is possible to [change the order](https://help.vtex.com/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
-<div class = "alert alert-info">
-Learn more about cancellation and refunds in the articles <a href="https://help.vtex.com/en/faq/por-que-meu-pedido-cancelado-foi-cobrado-na-fatura-do-cliente">Why was my cancelled order charged in the customer's invoice?</a>, and <a href="https://help.vtex.com/en/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#reembolsocancelamento">Refund or cancellation</a>.
-</div>
+>ℹ️ Learn more about cancellation and refunds in the articles [Why was my cancelled order charged in the customer's invoice?](https://help.vtex.com/en/faq/por-que-meu-pedido-cancelado-foi-cobrado-na-fatura-do-cliente), and [Refund or cancellation](https://help.vtex.com/en/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#reembolsocancelamento).
 
 While the cancellation is being processed, the order status remains at `Canceling`. The order status changes to `Canceled` when the cancellation is complete.
 
@@ -366,7 +360,5 @@ Here is a table with more details about each order status. The table is divided 
 
 <br></br>
 
-<div class = "alert alert-info">
-The statuses marked with asterisks (*) in the table do not allow modification or cancellation because the platform changes them automatically.
-</div>
+>ℹ️ The statuses marked with asterisks (*) in the table do not allow modification or cancellation because the platform changes them automatically.
 

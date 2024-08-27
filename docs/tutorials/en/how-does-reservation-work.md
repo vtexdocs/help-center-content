@@ -17,10 +17,8 @@ subcategory: 3PQwnyOcNyYgawy06oe6gE
 
 Reservation is a VTEX solution that prevents the same item from being sold more than once. After a purchase is completed, the purchased item is subtracted from the available inventory and its status is changed to **Reserved**.
 
-<div class = "alert alert-info">
-On the VTEX platform, warehouse refers to the physical location where items are stored. To identify at which warehouse items will be picked up by the carriers, you must add the warehouses to the platform. To learn more, please refer to the article <a href="https://help.vtex.com/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb">Warehouses.</a>
-<p>Inventory is a list of the items your store has in stock. You can add and track the available items in your store on the Inventory management page. To learn more, please refer to the article <a href="https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139">Inventory management</a>.
-</div>
+>ℹ️ On the VTEX platform, warehouse refers to the physical location where items are stored. To identify at which warehouse items will be picked up by the carriers, you must add the warehouses to the platform. To learn more, please refer to the article [Warehouses.](https://help.vtex.com/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb)
+> <p>Inventory is a list of the items your store has in stock. You can add and track the available items in your store on the Inventory management page. To learn more, please refer to the article [Inventory management](https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139).
 
 After an item is sold, it goes through the following statuses in your store's inventory:
 
@@ -92,8 +90,6 @@ When the retailer or the ERP updates the quantity of that item in the inventory,
 
 As explained above, removal from inventory is a consequence of the retailer updating the inventory. Therefore, it is not possible to view this status on the platform. It is only possible to view the number of items available for sale and the movement of items in the [Inventory Management](https://help.vtex.com/en/tutorial/managing-stock-items--tutorials_139) page.
 
-<div class = "alert alert-info">
-All the statuses described here are internal and exclusive to VTEX for item sales control.
-<p>The reservation status is a consequence of the order status. Some changes depend on buyers' actions, and others depend on manual or ERP updates.
-</div>
+>ℹ️ All the statuses described here are internal and exclusive to VTEX for item sales control.
+> <p>The reservation status is a consequence of the order status. Some changes depend on buyers' actions, and others depend on manual or ERP updates.
 

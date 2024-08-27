@@ -21,9 +21,7 @@ O 3D Secure 2.0 (3DS 2) é um fluxo de autenticação que aumenta a segurança n
 
 Antes de iniciar a configuração, é necessário abrir um chamado com o time de suporte da VTEX solicitando a habilitação do 3DS 2 na sua loja. Para maiores informações, acesse [como abrir um ticket](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex--16yOEqpO32UQYygSmMSSAM).
 
-<div class = "alert alert-warning">
-<p>Na VTEX, o 3DS 2 não efetua compras realizadas em dois cartões. Caso um pedido seja realizado nessas condições, o pagamento será cancelado.</p>
-</div>
+>⚠️ Na VTEX, o 3DS 2 não efetua compras realizadas em dois cartões. Caso um pedido seja realizado nessas condições, o pagamento será cancelado.
 
 ## Configurando o 3DS 2 
 

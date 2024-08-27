@@ -15,9 +15,7 @@ legacySlug: como-configurar-suscripcion-v2
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-<div class = "alert alert-info">
-La instalación del módulo de Suscripciones se realiza solicitando <a href="https://support.vtex.com/hc/es-419/requests">nuestro Soporte</a>.
-</div>
+>ℹ️ La instalación del módulo de Suscripciones se realiza solicitando [nuestro Soporte](https://support.vtex.com/hc/es-419/requests).
 
 El sistema de **Suscripciones** es una aplicación desarrollada por VTEX para facilitar las ventas recurrentes. Funciona como un programador automático, que repite un pedido en la frecuencia deseada por el cliente de su tienda.
 

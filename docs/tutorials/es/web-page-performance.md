@@ -15,9 +15,7 @@ legacySlug: rendimiento-de-paginas-web
 subcategory: QPnz120TdtLcXSh65c4Gs
 ---
 
-<div class = "alert alert-info">
-Esta página solo está disponible para las tiendas que operan con el <a href="https://help.vtex.com/es/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa">nuevo Admin VTEX</a>. Para acceder a esta página y formar parte de una nueva experiencia, únete al <a href="https://content.vtex.com/participe-do-programa-beta-es/?utm_source=landing_page&utm_medium=help_center&utm_campaign=new_admin_beta">programa Beta</a> del nuevo Admin VTEX.
-</div>
+>ℹ️ Esta página solo está disponible para las tiendas que operan con el [nuevo Admin VTEX](https://help.vtex.com/es/announcements/bem-vindo-ao-novo-admin-vtex--5tLPBodp6Xu03vYdyBTGTa). Para acceder a esta página y formar parte de una nueva experiencia, únete al [programa Beta](https://content.vtex.com/participe-do-programa-beta-es/?utm_source=landing_page&utm_medium=help_center&utm_campaign=new_admin_beta) del nuevo Admin VTEX.
 
 [PageSpeed Insights](https://developers.google.com/speed/docs/insights/v5/about) es una herramienta desarrollada por Google para generar informes de rendimiento de una página, tanto en dispositivos móviles como de escritorio, y brinda sugerencias sobre cómo se podría mejorar. Utiliza las [Métricas web principales de Google](https://web.dev/vitals/#core-web-vitals) para evaluar el rendimiento _online_. 
 
@@ -46,9 +44,7 @@ Las métricas de rendimiento se pueden medir con dos tipos de datos:
 
 Ten en cuenta que no deberías comparar los resultados de los dos tipos de datos. No son comparables porque provienen de distintas fuentes y cumplen distintos propósitos. Obtén más información sobre cómo se puede aplicar cada tipo de dato en el documento de Google [Cómo se miden las métricas](https://web.dev/user-centric-performance-metrics/#how-metrics-are-measured).
 
-<div class = "alert alert-info">
-  Para asegurarte de que tu sitio web alcance el objetivo recomendado para todas las métricas, PageSpeed Insights mide la actividad del percentil 75 de las cargas de la página, dividida entre los dispositivos móviles y de escritorio.
-</div>
+>ℹ️ Para asegurarte de que tu sitio web alcance el objetivo recomendado para todas las métricas, PageSpeed Insights mide la actividad del percentil 75 de las cargas de la página, dividida entre los dispositivos móviles y de escritorio.
 
 ### Cómo usar los datos de campo y de laboratorio para mejorar las Métricas web principales
 
@@ -169,9 +165,7 @@ La sección Rendimiento de Rendimiento de las páginas web incluye una puntuaci�
 * **Necesita mejorar:** de 50 a 90. El código de color es naranja.
 * **Mala**: por debajo de 50. El código de color es rojo.
 
-<div class = "alert alert-warning">
-Ten en cuenta que el rendimiento varía mucho entre las tiendas y depende de cómo se creó la arquitectura del storefront. Los storefronts complejos, con códigos externos y funcionalidades, suelen tener un rendimiento con puntuaciones bajas. Para las tiendas creadas en VTEX IO, consulta <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-debugging-performance-issues">VTEX IO: Debugging Performance Issues (Depuración de problemas de rendimiento)</a>. Para las tiendas que usan <a href="https://www.faststore.dev/">FastStore</a>, hay un <a href="https://www.faststore.dev/releases/2022/04/22/webops">informe automático de Lighthouse para desplegar vistas previas</a>.
-</div>
+>⚠️ Ten en cuenta que el rendimiento varía mucho entre las tiendas y depende de cómo se creó la arquitectura del storefront. Los storefronts complejos, con códigos externos y funcionalidades, suelen tener un rendimiento con puntuaciones bajas. Para las tiendas creadas en VTEX IO, consulta [VTEX IO: Debugging Performance Issues (Depuración de problemas de rendimiento)](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-debugging-performance-issues). Para las tiendas que usan [FastStore](https://www.faststore.dev/), hay un [informe automático de Lighthouse para desplegar vistas previas](https://www.faststore.dev/releases/2022/04/22/webops).
 
 Debajo de la puntuación verás cada puntuación individual que se logró a través de un listado de Métricas web principales, junto con un código de color que indica su límite. Puedes actualizar la puntuación manualmente haciendo clic en el ícono de actualizar <i class='fa fa-refresh'></i>.
 

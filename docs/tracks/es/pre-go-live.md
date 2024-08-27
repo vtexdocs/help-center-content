@@ -28,9 +28,7 @@ Si tu storefront se creó con [CMS IO](https://help.vtex.com/es/tracks/cms--2Ycp
 
 Después de recibir la confirmación del apuntamiento interno, debes realizar el [apuntamiento de DNS común](https://help.vtex.com/es/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#realizar-el-apuntamiento-de-dns) dentro de cinco días. De lo contrario, se eliminará el apuntamiento interno y tendrás que volver a solicitarlo.
 
-<div class = "alert alert-info">
-Aprende más sobre el <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-go-live">go-live con Store Framework</a> o la <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io">Migración del CMS heredado a Store Framework</a>.
-</div>
+>ℹ️ Aprende más sobre el [go-live con Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-go-live) o la [Migración del CMS heredado a Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io).
 
 ## Solicitar el apuntamiento especial
 

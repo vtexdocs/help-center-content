@@ -45,9 +45,7 @@ Para ello, solo hay que entrar a la página **Mi cuenta** en el sitio web de su 
 
 ## Cómo el cliente de su tienda visualiza las Suscripciones
 
-<div class = "alert alert-info">
-En <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi Cuenta</a>, los clientes solo pueden acceder a los pedidos de los últimos dos años.
-</div>
+>ℹ️ En [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), los clientes solo pueden acceder a los pedidos de los últimos dos años.
 
 Después de finalizar el pedido con Suscripción, su cliente visualiza en la página **Mi cuenta** la sección **Suscripciones**. En esta sección, el cliente también puede encontrar la lista de suscripciones realizadas con los detalles y el estado individual. Su cliente también recibirá por *email* una confirmación de la suscripción y del pedido generado.
 

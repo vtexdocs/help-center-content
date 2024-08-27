@@ -31,9 +31,7 @@ Aplicamos as seguintes melhorias na experiência de gerenciamento de promoções
 
 **Otimização de recursos:** melhoria no carregamento e performance da lista de promoções.
 
-<div class = "alert alert-info">
-Para visualizar as promoções que foram arquivadas automaticamente, você pode acessar no Admin VTEX <b>Promoções > Promoções</b>, ou digite <b>Promoções</b> na barra de busca no topo da página, e no canto superior direito clique nos <i class="fas fa-ellipsis-v" aria-hidden="true"></i> e em Promoções aplicadas.
-</div>
+>ℹ️ Para visualizar as promoções que foram arquivadas automaticamente, você pode acessar no Admin VTEX **Promoções > Promoções**, ou digite **Promoções** na barra de busca no topo da página, e no canto superior direito clique nos <i class="fas fa-ellipsis-v" aria-hidden="true"></i> e em Promoções aplicadas.
 
 ## O que precisa ser feito?
 

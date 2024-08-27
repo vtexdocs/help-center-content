@@ -31,6 +31,4 @@ A nova página de gerenciamento de provedores de pagamento e antifraude já est�
 
 Para mais detalhes sobre as funcionalidades da nova interface, acesse [Cadastrar provedores de pagamento e antifraude](https://help.vtex.com/pt/tutorial/afiliacoes-de-gateway--tutorials_444).
 
-<div class = "alert alert-warning">
-  A versão anterior da interface de gerenciamento de afiliações, disponível em <b>Configurações da loja > Pagamentos > Configurações > Afiliações de gateways</b>, ainda poderá ser acessada até 14 de janeiro de 2024.
-</div>
+>⚠️ A versão anterior da interface de gerenciamento de afiliações, disponível em **Configurações da loja > Pagamentos > Configurações > Afiliações de gateways**, ainda poderá ser acessada até 14 de janeiro de 2024.

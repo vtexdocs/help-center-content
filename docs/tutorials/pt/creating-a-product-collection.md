@@ -15,9 +15,7 @@ legacySlug: criando-colecao-de-produtos
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
-<div class = "alert alert-warning">
-  <p>Existem duas formas de configurar coleções, por meio do Portal CMS Legado ou utilizando o módulo de <a href="https://help.vtex.com/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye">Coleções Beta</a>. Este artigo refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do Portal CMS Legado</a>.</p>
-</div>
+>⚠️ Existem duas formas de configurar coleções, por meio do Portal CMS Legado ou utilizando o módulo de [Coleções Beta](https://help.vtex.com/pt/tutorial/cadastrar-colecoes-beta--yJBHqNMViOAnnnq4fyOye). Este artigo refere-se à <a href = "https://help.vtex.com/pt/tutorial/cadastro-de-colecoes-cms--2YBy6P6X0NFRpkD2ZBxF6L">configuração de coleções por meio do Portal CMS Legado</a>.
 
 Para criar uma coleção, siga as instruções abaixo:
 

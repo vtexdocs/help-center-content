@@ -26,9 +26,7 @@ The shipping strategy is defined by three logistics entities:
 * [Warehouse](https://help.vtex.com/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb): location where the items are stored. The shipping policy is not the only variable for choosing the delivery; it is also necessary to consider in which warehouse the products are stored.
 * [Loading dock](https://help.vtex.com/en/tutorial/loading-dock--5DY8xHEjOLYDVL41Urd5qj): location where items will be picked up. The stores use the loading dock to configure the collection of packages. The carriers pick up the packages from the loading docks.
 
-<div class = "alert alert-info">
-There are other possible scenarios for using loading docks. To learn about use cases, read the article Loading docks. To learn more about the flow of deliveries, see the article <a href="https://help.vtex.com/en/tutorial/como-funciona-o-fluxo-de-entregas--4ku3QKWfxmUO8UgA0yqgUq"> How does the delivery flow work</a>.
-</div>
+>ℹ️ There are other possible scenarios for using loading docks. To learn about use cases, read the article Loading docks. To learn more about the flow of deliveries, see the article [ How does the delivery flow work](https://help.vtex.com/en/tutorial/como-funciona-o-fluxo-de-entregas--4ku3QKWfxmUO8UgA0yqgUq).
 
 Please note that:
 
@@ -54,17 +52,15 @@ For cases where a store offers [pickup points](https://help.vtex.com/en/tutorial
 
 The pickup point is displayed at checkout as a shipping option. The customer can choose between **delivery** and **pickup**.
 
-<div class = "alert alert-info">
-The shipping strategy can also be configured via API. You can use the following APIs:
-<body>
-<ul>
-<li><a href="https://developers.vtex.com/vtex-rest-api/reference/docks">Loading docks API</a>;
-<li><a href="https://developers.vtex.com/vtex-rest-api/reference/createupdatewarehouse">Warehouses API</a>;
-<li><a href="https://developers.vtex.com/vtex-rest-api/reference/get_logistics-pvt-shipping-policies-id">Shipping policies API</a>;
-<li><a href="https://developers.vtex.com/vtex-rest-api/reference/listallpickupppoints">Pickup points API</a>.
-</ul>
-</body>
-</div>
+>ℹ️ The shipping strategy can also be configured via API. You can use the following APIs:
+> <body>
+>
+> <li>[Loading docks API](https://developers.vtex.com/vtex-rest-api/reference/docks);
+> <li>[Warehouses API](https://developers.vtex.com/vtex-rest-api/reference/createupdatewarehouse);
+> <li>[Shipping policies API](https://developers.vtex.com/vtex-rest-api/reference/get_logistics-pvt-shipping-policies-id);
+> <li>[Pickup points API](https://developers.vtex.com/vtex-rest-api/reference/listallpickupppoints).
+>
+> </body>
 
 ### Configuration
 
@@ -104,7 +100,5 @@ To register holidays on the platform, you can:
 
 You can register delivery times for scheduled deliveries from carriers and pickup points. The **[Scheduled delivery](https://help.vtex.com/en/tutorial/scheduled-delivery--22g3HAVCGLFiU7xugShOBi)** feature allows stores to offer delivery windows to their customers.
 
-<div class = "alert alert-info">
-Shipping also depends on the <a href="https://help.vtex.com/en/tutorial/total-shipping-cost--5bwhIO108VA5Y2YOpef9lV">shipping cost</a> that your store offers to customers. This subject will be covered in the following articles. For more information about how carriers are chosen to for deliveries, read the article <a href="https://help.vtex.com/en/tutorial/hoy-shipping-calculation-works--tutorials_116"> How shipping is calculated</a>.
-</div>
+>ℹ️ Shipping also depends on the [shipping cost](https://help.vtex.com/en/tutorial/total-shipping-cost--5bwhIO108VA5Y2YOpef9lV) that your store offers to customers. This subject will be covered in the following articles. For more information about how carriers are chosen to for deliveries, read the article [ How shipping is calculated](https://help.vtex.com/en/tutorial/hoy-shipping-calculation-works--tutorials_116).
 

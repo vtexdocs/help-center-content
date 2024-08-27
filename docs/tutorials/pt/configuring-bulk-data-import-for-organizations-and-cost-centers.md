@@ -25,17 +25,13 @@ Veja abaixo como realizar a importação em massa de dados na plataforma VTEX:
 
 2. Na aba Organizações, clique no botão **Novo**, e selecione Importar em massa. Clique no botão **Enviar** e selecione seu arquivo **XLSX**, ou arraste e solte o arquivo na área tracejada. O arquivo importado deve ser menor que 50 MB.
 
-<div class = "alert alert-info">
-Caso necessário, baixe um arquivo modelo clicando em VTEX file template no rodapé da janela de importação e preencha os dados de importação.
-</div>
+>ℹ️ Caso necessário, baixe um arquivo modelo clicando em VTEX file template no rodapé da janela de importação e preencha os dados de importação.
 
 <ol start="3">
 	<li>Após a plataforma realizar uma verificação no arquivo importado e não indicar erros, clique em Importar.</li>
 </ol>
 
-<div class = "alert alert-info">
-  Caso a plataforma encontre algum tipo de erro, verifique a seção <b>Erros de importação</b>.
-</div>
+>ℹ️ Caso a plataforma encontre algum tipo de erro, verifique a seção **Erros de importação**.
 
 <ol start="4">
 	<li>Após o processo de importação ser concluído, você pode clicar em  Exibir detalhes de importação para acessar o relatório de importação.</li>
@@ -55,9 +51,7 @@ Para obter uma visão detalhada dos problemas encontrados, siga os passos abaixo
 
 3. Após corrigir os erros, você pode reiniciar o processo de importação, fazendo upload do arquivo corrigido novamente.
 
-<div class = "alert alert-info">
- Certifique-se de carregar apenas o arquivo contendo as correções dos erros previamente identificados para garantir uma importação bem-sucedida.
-</div>
+>ℹ️ Certifique-se de carregar apenas o arquivo contendo as correções dos erros previamente identificados para garantir uma importação bem-sucedida.
 
 ![Bulk import - PT](https://images.ctfassets.net/alneenqid6w5/xXZgwvWu4ngsY9D9hjQsO/4ebe7b4b5b1c0d5b2d7feb36134d9a5e/Bulk_import_vers_o_error-gif-PT.gif)
 

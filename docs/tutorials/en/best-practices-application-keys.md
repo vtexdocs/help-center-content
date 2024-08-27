@@ -17,9 +17,7 @@ subcategory: 6uJgdHqWf1Mo0rUfgxseTn
 
 VTEX has several APIs available for customers and partners to develop highly customizable integrations with the platform. [Application keys](https://help.vtex.com/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) are used to provide secure access to data consumed by integrations without exposing your account to unauthorized users or apps.
 
-<div class = "alert alert-info">
-This type of credential is used to authenticate identities via API.
-</div>
+>ℹ️ This type of credential is used to authenticate identities via API.
 
 Improper handling of [application keys](https://help.vtex.com/tutorial/application-keys--2iffYzlvvz4BDMr6WGUtet) can generate leaks, consequently leading to improper access scenarios. Below, you can see the best practices we recommend to manage the credentials you can implement to increase the security of your store.
 

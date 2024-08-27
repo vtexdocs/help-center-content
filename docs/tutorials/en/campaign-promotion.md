@@ -72,9 +72,7 @@ Below is a description of all the fields you need to fill in to create a campaig
   - **Free shipping:** full discount on the shipping cost.
   - **Gift:** full discount on the product defined as a gift. You can select one or more SKUs or more than one unit of the same SKU as a giveaway. To define more than one gift, select the **Activate Gift Multiplier** option and set the quantity. Learn more about this option in [this article](https://help.vtex.com/en/tutorial/what-does-it-mean-to-activate-a-gift-multiplier-on-a-promotion--1gydgkmjEWcoo2CskUwuYK).
 
-  <div class = "alert alert-info">
-  <p>The <b>Gift</b> product must have a price associated with it, even though it is given to the customer for free.</p>
- </div>
+  >ℹ️ The **Gift** product must have a price associated with it, even though it is given to the customer for free.
 
   - **Formula-based nominal discount:** the discount is calculated based on the total of the product prices, the shipping cost and the desired discount percentage rate. The shipping rate used in the formula will be the lowest available for the order, regardless of what the customer selects. You must always use dot as decimal separator. For example, the discount will be 30% of the product price + shipping rate. Therefore, the formula should be as follows: `(total price + shipping rate) * 0.3)`.
   - **Nominal reward value:** credit that will be added to the store's loyalty program. 
@@ -101,9 +99,7 @@ In this section, you can define to which sellers the promotion will apply. You c
 
 For the promotion to be valid for all sellers, leave the field blank.
 
-<div class = "alert alert-warning">
-  <p><b>Warning:</b> it is not possible to select a white label seller. There are two ways to include a white label seller in the promotion:</p><ol>1. Restrict sellers to the main store. This will add all white label sellers in your store to the promotion.</ol><ol>2. Leave the field blank.  This way, all sellers will be included in the promotion.</ol>
-</div>
+>⚠️ **Warning:** it is not possible to select a white label seller. There are two ways to include a white label seller in the promotion:1. Restrict sellers to the main store. This will add all white label sellers in your store to the promotion.2. Leave the field blank.  This way, all sellers will be included in the promotion.
 
 #### Trade Policy
 

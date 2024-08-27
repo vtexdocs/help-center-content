@@ -15,9 +15,7 @@ legacySlug: vtex-pick-and-pack-worksheets
 subcategory: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-<div class = "alert alert-info">
-This feature is in closed beta, so only selected customers can access it now. If you want to implement it in the future, please complete our <a href="https://vtex.com/us-en/contact/">form</a> apontaby entering the product name in the <code>Comments</code> field.
-</div>
+>ℹ️ This feature is in closed beta, so only selected customers can access it now. If you want to implement it in the future, please complete our [form](https://vtex.com/us-en/contact/) apontaby entering the product name in the `Comments` field.
 
 **Worksheets** is a VTEX Admin page to manage the worksheets used by pickers to group and pick the order items in real time. Pickers can group as many orders as they like in each worksheet.
 

@@ -46,7 +46,7 @@ __Business manager Id__: Facebook __Business Manager__ account ID, which can be 
 
 __Store site URL__: Fill in the address of your store. Example: `https://www.yourstore.com`. This field is used to form the complete URL of the product that is sent.
 
-<div class = "alert alert-info">All fields are required for full integration.</div>
+>ℹ️ All fields are required for full integration.
 
 ## Authorization
 

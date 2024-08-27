@@ -57,17 +57,11 @@ This classification is important for the support team to prioritize the most urg
 
 *If the indicated level does not apply to the scenario, the agent can modify it.*
 
-<div class = "alert alert-info">
-<strong>Normal:</strong> general questions.
-</div>
+>ℹ️ **Normal:** general questions.
 
-<div class = "alert alert-warning">
-<strong>High:</strong> important documentation is making the process unfeasible.
-</div>
+>⚠️ **High:** important documentation is making the process unfeasible.
 
-<div class = "alert alert-danger">
-<strong>Urgent:</strong> Admin blocked, threatening the profit of their business.
-</div>
+>❗ **Urgent:** Admin blocked, threatening the profit of their business.
 
 ## Interacting with the support
 

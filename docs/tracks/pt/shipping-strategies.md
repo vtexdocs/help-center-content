@@ -26,9 +26,7 @@ A estratégia de envio é definida por três entidades logísticas:
 * [Estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb): identificação do local de armazenamento dos itens. A política de envio não é a única variável para a escolha da entrega; é preciso considerar, também, em qual estoque estão os produtos do pedido.
 * [Doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj): ponto de retirada do estoque. É pela doca que a loja define a retirada dos pacotes. As transportadoras retiram os pacotes para envio pela doca.
 
-<div class = "alert alert-info">
-Há outros cenários possíveis para o uso de docas. Consulte o artigo <a href="https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj">Doca</a> e confira os casos de uso. Para saber mais sobre o fluxo das entregas, consulte o artigo <a href="https://help.vtex.com/pt/tutorial/como-funciona-o-fluxo-de-entregas--4ku3QKWfxmUO8UgA0yqgUq">Como funciona o fluxo de entregas</a>.
-</div>
+>ℹ️ Há outros cenários possíveis para o uso de docas. Consulte o artigo [Doca](https://help.vtex.com/pt/tutorial/doca--5DY8xHEjOLYDVL41Urd5qj) e confira os casos de uso. Para saber mais sobre o fluxo das entregas, consulte o artigo [Como funciona o fluxo de entregas](https://help.vtex.com/pt/tutorial/como-funciona-o-fluxo-de-entregas--4ku3QKWfxmUO8UgA0yqgUq).
 
 Note que:
 
@@ -54,17 +52,18 @@ Para os casos em que a loja oferece [pontos de retirada](https://help.vtex.com/p
 
 O ponto de retirada fica disponível no checkout como uma opção de envio, e o cliente escolhe entre **Entrega** (transportadora) e **Retirada** (ponto de retirada).
 
-<div class = "alert alert-info">
-As configurações da Estratégia de envio também podem ser feitas via API. Confira as APIs disponíveis:
-<body>
-<ul>
-<li><a href="https://developers.vtex.com/vtex-rest-api/reference/docks">API de docas</a></li>
-<li><a href="https://developers.vtex.com/vtex-rest-api/reference/createupdatewarehouse">API de estoques</a></li>
-<li><a href="https://developers.vtex.com/vtex-rest-api/reference/get_logistics-pvt-shipping-policies-id">API de políticas de envio</a></li>
-<li><a href="https://developers.vtex.com/vtex-rest-api/reference/listallpickupppoints">API de pontos de retirada</a></li>
-  </ul>
-  </body>
-</div>
+>ℹ️ As configurações da Estratégia de envio também podem ser feitas via API. Confira as APIs disponíveis:
+> <body>
+>
+> *[API de docas](https://developers.vtex.com/vtex-rest-api/reference/docks)
+>
+> *[API de estoques](https://developers.vtex.com/vtex-rest-api/reference/createupdatewarehouse)
+>
+> *[API de políticas de envio](https://developers.vtex.com/vtex-rest-api/reference/get_logistics-pvt-shipping-policies-id)
+>
+> *[API de pontos de retirada](https://developers.vtex.com/vtex-rest-api/reference/listallpickupppoints)
+>
+> </body>
 
 ### Como configurar
 
@@ -104,7 +103,5 @@ Para cadastrar feriados na plataforma, você pode:
 
 É possível cadastrar horários de entrega para envios agendados de transportadoras e pontos de retirada. A funcionalidade **[Entrega agendada](https://help.vtex.com/pt/tutorial/entrega-agendada--22g3HAVCGLFiU7xugShOBi)** permite que a loja ofereça janelas de entrega para seus clientes.
 
-<div class = "alert alert-info">
-O envio depende também do <a href="https://help.vtex.com/pt/tutorial/custo-final-do-envio--5bwhIO108VA5Y2YOpef9lV">custo de envio</a> que a sua loja oferece aos clientes. Esse assunto será abordado nos artigos seguintes. Para mais informações sobre como é feita a escolha das transportadoras para realizar uma entrega, consulte o artigo <a href="https://help.vtex.com/pt/tutorial/como-funciona-o-calculo-de-frete--tutorials_116">Como funciona o cálculo do frete.</a>
-</div>
+>ℹ️ O envio depende também do [custo de envio](https://help.vtex.com/pt/tutorial/custo-final-do-envio--5bwhIO108VA5Y2YOpef9lV) que a sua loja oferece aos clientes. Esse assunto será abordado nos artigos seguintes. Para mais informações sobre como é feita a escolha das transportadoras para realizar uma entrega, consulte o artigo [Como funciona o cálculo do frete.](https://help.vtex.com/pt/tutorial/como-funciona-o-calculo-de-frete--tutorials_116)
 

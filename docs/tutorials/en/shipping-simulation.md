@@ -52,9 +52,7 @@ If you want, you can check the `Simulate items individually` box.
 
  10. Click on the `Shipping simulation` button.
 
-<div class = "alert alert-info">
-The items measurements in the simulation result appear in centimeters and grams; however, the actual values for the Checkout are the measurement units registered in the SKU and <a href="https://help.vtex.com/en/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke">product registration fields</a>.
-</div>
+>ℹ️ The items measurements in the simulation result appear in centimeters and grams; however, the actual values for the Checkout are the measurement units registered in the SKU and [product registration fields](https://help.vtex.com/en/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke).
 
 ## Simulation details
 

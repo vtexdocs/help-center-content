@@ -23,13 +23,9 @@ En el flujo de pedidos hay un [periodo de cancelación](https://help.vtex.com/es
 
 Para contenido para desarrolladores, consulte [Order canceling improvements](https://developers.vtex.com/docs/guides/order-canceling-improvements).
 
-<div class = "alert alert-info">
-En este artículo, los términos marketplace y seller se refieren a <a href="https://help.vtex.com/es/tutorial/marketplace-strategies-at-vtex--tutorials_402#being-a-vtex-marketplace">marketplace VTEX</a> y <a href="https://help.vtex.com/es/tutorial/marketplace-strategies-at-vtex--tutorials_402#being-a-vtex-seller">seller VTEX</a>. La funcionalidad de denegar solicitudes de cancelación de pedidos no está disponible para sellers o marketplaces externos.
-</div>
+>ℹ️ En este artículo, los términos marketplace y seller se refieren a [marketplace VTEX](https://help.vtex.com/es/tutorial/marketplace-strategies-at-vtex--tutorials_402#being-a-vtex-marketplace) y [seller VTEX](https://help.vtex.com/es/tutorial/marketplace-strategies-at-vtex--tutorials_402#being-a-vtex-seller). La funcionalidad de denegar solicitudes de cancelación de pedidos no está disponible para sellers o marketplaces externos.
 
-<div class = "alert alert-warning">
-No es posible <a href="https://help.vtex.com/es/tutorial/como-cancelar-pedido--tutorials_186">cancelar</a> pedidos <a href="https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe">parcialmente facturados</a>. Si el cliente desea sustituir o remover ítems del pedido, es posible <a href="https://help.vtex.com/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190">modificar el pedido</a>.
-</div>
+>⚠️ No es posible [cancelar](https://help.vtex.com/es/tutorial/como-cancelar-pedido--tutorials_186) pedidos [parcialmente facturados](https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](https://help.vtex.com/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
 ## Diagrama de denegación de cancelación de pedidos
 
