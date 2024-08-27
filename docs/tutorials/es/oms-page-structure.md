@@ -15,9 +15,7 @@ legacySlug: estructura-de-la-pagina-del-oms
 subcategory: 2t00bBkcAwIkgSCGKsMOwY
 ---
 
-<div class = "alert alert-info">
-Sobre la nueva interfaz del Order Management System (OMS), ver el artículo <a href="https://help.vtex.com/es/tutorial/order-list-beta--2QTduKHAJMFIZ3BAsi6Pi">Lista de Pedidos (Beta)</a>.
-</div>
+>ℹ️ Sobre la nueva interfaz del Order Management System (OMS), ver el artículo [Lista de Pedidos (Beta)](https://help.vtex.com/es/tutorial/order-list-beta--2QTduKHAJMFIZ3BAsi6Pi).
 
 Para entender mejor el __Gestión de Pedidos__, vea el descriptivo de cada área del módulo responsable por la visualización y gestión de los pedidos de su tienda.
 

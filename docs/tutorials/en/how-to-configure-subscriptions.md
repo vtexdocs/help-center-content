@@ -15,9 +15,7 @@ legacySlug: how-to-configure-subscription-v2
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-<div class = "alert alert-info">
-To install the Subscriptions module, please contact <a href="https://support.vtex.com/hc/en-us/requests">our Support</a>.
-</div>
+>ℹ️ To install the Subscriptions module, please contact [our Support](https://support.vtex.com/hc/en-us/requests).
 
 The **Subscriptions** system is an app developed by VTEX to facilitate recurring sales. It works as an automatic scheduler, repeating orders according to the frequency chosen by your customer.
 

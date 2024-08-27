@@ -40,9 +40,7 @@ Você pode cadastrar um vendedor seguindo os passos abaixo:
 
 Após o cadastro, o vendedor irá receber um email de confirmação do cadastramento, e com redirecionamento para a opção de login do vendedor ao aplicativo Sales App.
 
-<div class ="alert alert-warning">
-<p>Os vendedores cadastrados no Sales App não apresentam permissão para acessar o Admin VTEX. Caso um vendedor tente realizar o login no Admin, seu cadastro será excluído.</p> 
-</div>
+>⚠️ Os vendedores cadastrados no Sales App não apresentam permissão para acessar o Admin VTEX. Caso um vendedor tente realizar o login no Admin, seu cadastro será excluído.
 
 ### Campos de cadastro do vendedor
 
@@ -57,9 +55,7 @@ Após o cadastro, o vendedor irá receber um email de confirmação do cadastram
 
 * **Loja:** [conta franquia](https://help.vtex.com/pt/tutorial/o-que-e-conta-franquia--kWQC6RkFSCUFGgY5gSjdl) em que o vendedor será cadastrado. Campo obrigatório.
 
-<div class ="alert alert-info">
-<p>As alterações podem levar até 15 minutos para serem processadas e aplicadas no Sales App.</p> 
-</div>
+>ℹ️ As alterações podem levar até 15 minutos para serem processadas e aplicadas no Sales App.
 
 ## Buscar vendedor
 

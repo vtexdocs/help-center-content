@@ -31,9 +31,7 @@ __Código de Referência:__ código de referência único criado para ajudar na 
 
 __Peso para Frete:__ calculado para frete. Deve ser cadastrado com valor maior do que zero para o funcionamento correto do <a href="https://help.vtex.com/pt/tutorial/como-e-feito-o-rateio-de-frete--frequentlyAskedQuestions_155">rateio de frete</a>.
 
-<div class = "alert alert-info">
-<p>O módulo de <strong>Envio/Estoque e Entrega</strong> não leva em consideração unidades de medida nos campos abaixo. Basta ser consistente com o que é cadastrado nos <a href="https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke">campos de cadastro do produto</a> e do SKU.</p>
-</div>
+>ℹ️ O módulo de **Envio/Estoque e Entrega** não leva em consideração unidades de medida nos campos abaixo. Basta ser consistente com o que é cadastrado nos [campos de cadastro do produto](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) e do SKU.
 
 __Altura para Frete:__ calculada para frete.
 

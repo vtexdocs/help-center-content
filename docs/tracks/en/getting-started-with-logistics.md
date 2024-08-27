@@ -38,11 +38,10 @@ This walkthrough brings together the following articles:
 * [Shipping costs and simulation](https://help.vtex.com/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/3by48jFhzpZEseYFpH9uVt): Explains how to set up shipping costs and use the shipping rate simulation tool.
 * [Scheduled deliveries and delivery capacity](https://help.vtex.com/en/tracks/logistics-101--13TFDwDttPl9ki9OXQhyjx/5TuyqHRCCwYMaDv4r8rZdo): Explains how to make scheduled deliveries available to customers and manage the delivery capacity of such deliveries. 
 
-<div class = "alert alert-info">If you have already made the first steps in the <b>Inventory & shipping</b> module, check out this complementary content:
-The article <a href="https://help.vtex.com/en/tutorial/logistics--53udnvI5eBy8DKo8FOjMoP">Logistics</a>, for quick access to information on the <b>Inventory & shipping</b> sections. 
-Our <a href="https://help.vtex.com/en/tutorial/logistics-glossary--16DSSiXn548rsidi0A8Hby">Logistics Glossary</a>, in which you can find the definitions of logistics terms used at VTEX.
-The logistics settings available via <a href="https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview">API</a>. 
-</div>
+>ℹ️ If you have already made the first steps in the **Inventory & shipping** module, check out this complementary content:
+> The article [Logistics](https://help.vtex.com/en/tutorial/logistics--53udnvI5eBy8DKo8FOjMoP), for quick access to information on the **Inventory & shipping** sections. 
+> Our [Logistics Glossary](https://help.vtex.com/en/tutorial/logistics-glossary--16DSSiXn548rsidi0A8Hby), in which you can find the definitions of logistics terms used at VTEX.
+> The logistics settings available via [API](https://developers.vtex.com/vtex-rest-api/reference/logistics-api-overview).
 
 Basically, the **Inventory & shipping** module is divided into the following sections:
 
@@ -58,8 +57,7 @@ Basically, the **Inventory & shipping** module is divided into the following sec
 
 ![estoque e entregaEN](https://images.ctfassets.net/alneenqid6w5/21rlEVE55jPh2hYBKTn99U/8286563b415555a4ab5e56cb8e6e290c/estoque_e_entregaEN.png)
 
-<div class = "alert alert-info"> Clients using <a href="https://vtex.com/us-en/">VTEX Shipping Network</a> can access this feature in the Inventory & shipping module.
-</div>
+>ℹ️ Clients using [VTEX Shipping Network](https://vtex.com/us-en/) can access this feature in the Inventory & shipping module.
 
 Check out the following articles of this series to learn the order you should configure these sections and how the platform interprets these settings.
 

@@ -45,9 +45,7 @@ En la página **Claves de aplicación** puedes gestionar las claves de aplicaci�
 
 Para acceder a esta página, en la barra superior del Admin VTEX, haz clic en el **avatar de tu perfil** (marcado con la inicial de tu email) y luego en **Configuración de la cuenta** > **Claves de aplicación**.
 
-<div class = "alert alert-info">
- <p>Consulta este artículo para saber más sobre <a href="https://help.vtex.com/es/tutorial/boas-praticas-chaves-de-aplicacao--7b6nD1VMHa49aI5brlOvJm">buenas prácticas para el uso de claves de aplicación.</p></a>
-</div>
+>ℹ️ Consulta este artículo para saber más sobre [buenas prácticas para el uso de claves de aplicación.](https://help.vtex.com/es/tutorial/boas-praticas-chaves-de-aplicacao--7b6nD1VMHa49aI5brlOvJm)
 
 ## Generar claves de aplicación internas
 

@@ -97,9 +97,7 @@ You can click on a column name to sort the offers in ascending or descending ord
 
 To export the offer list in XLSX format, click the <i class="fa-solid fa-arrow-down-to-line"></i> down arrow icon at the top of the interface. The file will be sent to the email of the logged-in user. The export time depends on the volume of offers exported and on the processing circumstances of the VTEX platform.
 
-<div class = "alert alert-info">
-The exported content refers to all items in the offer list at the moment of exporting. If any of the filters are active, only the selected offers will be exported.
-</div>
+>ℹ️ The exported content refers to all items in the offer list at the moment of exporting. If any of the filters are active, only the selected offers will be exported.
 
 ## Consulting discarded offers
 

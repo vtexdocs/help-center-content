@@ -28,9 +28,7 @@ In Intelligent Search, you can configure your search relevance in two ways:
 
 Only one of these is applied to your store at a time, and you can [change the relevance type configured](#changing-relevance-type). If you change the relevance from manual to dynamic, all the manual rules you have set will remain saved.
 
-<div class = "alert alert-info">
-Manual relevance is the store default setting.
-</div>
+>ℹ️ Manual relevance is the store default setting.
 
 ## Manual relevance
 
@@ -65,9 +63,7 @@ To enable dynamic relevance, follow these steps:
 
 To change the relevance type, follow the steps below:
 
-<div class = "alert alert-warning">
-We do not recommend constantly changing the relevance type used by your store. The system needs a week to settle.
-</div>
+>⚠️ We do not recommend constantly changing the relevance type used by your store. The system needs a week to settle.
 
 1. In the VTEX Admin, go to **Storefront > Intelligent Search > Relevance Rules** or type **Relevance Rules** in the search bar at the top of the page.
 2. Click `Change`.

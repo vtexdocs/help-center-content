@@ -41,12 +41,13 @@ Es importante observar que:
 * VTEX limita la ubicación a un radio de 50 km entre el punto de recogida y la dirección del cliente.
 * Cuando hay transporte entre el [stock](https://help.vtex.com/en/tutorial/warehouse--6oIxvsVDTtGpO7y6zwhGpb) y el punto de recogida, VTEX también toma en cuenta la existencia de la ruta a la hora de elegir el punto de recogida.
 
-<div class = "alert alert-info">Con los puntos de recogida, VTEX también hace posible que el administrador de la tienda:
-<body>
-<ul>
-<li>Configure puntos de recogida de contingencia: puntos de recogida que pueden suministrar stock a otros puntos cuando sea necesario y así permitir la elección más conveniente para el comprador. Para obtener más información, visite <a href="https://help.vtex.com/en/tutorial/creating-a-contingency-pickup-point-to-guarantee-it-as-an-option-at-checkout--3mowqWEfjyM2g6WoWgE0Ao">Punto de recogida de contingencia.</a></li>
-<li>Configure un seller white label como punto de recogida. Obtenga más información en <a href="https://help.vtex.com/en/tutorial/setting-up-seller-white-label-as-a-pickup-point--6fSUE2O0taaoKieAaiuc4e">Configurar seller white label como punto de recogida (pickup point)</a>.</li>
-</ul></body></div>
+>ℹ️ Con los puntos de recogida, VTEX también hace posible que el administrador de la tienda:
+> <body>
+>
+> *Configure puntos de recogida de contingencia: puntos de recogida que pueden suministrar stock a otros puntos cuando sea necesario y así permitir la elección más conveniente para el comprador. Para obtener más información, visite [Punto de recogida de contingencia.](https://help.vtex.com/en/tutorial/creating-a-contingency-pickup-point-to-guarantee-it-as-an-option-at-checkout--3mowqWEfjyM2g6WoWgE0Ao)
+>
+> *Configure un seller white label como punto de recogida. Obtenga más información en [Configurar seller white label como punto de recogida (pickup point)](https://help.vtex.com/en/tutorial/setting-up-seller-white-label-as-a-pickup-point--6fSUE2O0taaoKieAaiuc4e).
+> </body>
 
 Es importante verificar que la configuración de la cantidad de puntos de recogida esté dentro de los límites aceptados y de acuerdo con la estrategia de ventas de la tienda. Esto permite que la [simulación de envío](https://help.vtex.com/es/tutorial/simulador-de-envio--tutorials_144) considere correctamente los datos y asegura, por ejemplo, que el número de puntos de recogida no limita la operación de la tienda.
 
@@ -68,9 +69,9 @@ VTEX considera que el punto de recogida es una forma de envío. Es por eso que l
     - Paso 2: Haz clic en la pestaña **Políticas de envío**, selecciona la política de envío creada para el punto de recogida.
     - Paso 3: En la columna **Acciones**, haz clic en el ícono <i class="fas fa-pen"></i> para editar.
     - Paso 4: Activa el botón <i class="fas fa-toggle-on"></i> del campo **Asociar puntos de recogida**.
-    - Paso 5: Selecciona el punto de recogida mediante los campos disponibles.![relacionarpontosretiradaES](https://images.ctfassets.net/alneenqid6w5/6BvdDCekjMPgqE0ULZmNaV/d72f0278d6fdbb3041d883fa4685f436/relacionarpontosretiradaES.png) <div class = "alert alert-info">Para las tiendas que tienen más de 50 puntos de recogida, recomendamos utilizar el campo Tags de <a href="https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140#registrar-politica-de-envio">los puntos de recogida al crear un punto de recogida</a>. Utilizar tags facilita la búsqueda de los puntos de recogida al asociarlos con la política de envío.También recuerda que la política de envío que está asociada a un punto de recogida no estará disponible para otros tipos de envíos. Recomendamos crear una política de envío dedicada al punto de recogida.</div>
+    - Paso 5: Selecciona el punto de recogida mediante los campos disponibles.![relacionarpontosretiradaES](https://images.ctfassets.net/alneenqid6w5/6BvdDCekjMPgqE0ULZmNaV/d72f0278d6fdbb3041d883fa4685f436/relacionarpontosretiradaES.png) >ℹ️ Para las tiendas que tienen más de 50 puntos de recogida, recomendamos utilizar el campo Tags de [los puntos de recogida al crear un punto de recogida](https://help.vtex.com/es/tutorial/politica-de-envio--tutorials_140#registrar-politica-de-envio). Utilizar tags facilita la búsqueda de los puntos de recogida al asociarlos con la política de envío.También recuerda que la política de envío que está asociada a un punto de recogida no estará disponible para otros tipos de envíos. Recomendamos crear una política de envío dedicada al punto de recogida.
 
-4. [Registrar la geolocalización](https://help.vtex.com/es/tutorial/gestionar-geolocalizacion--tutorials_138): para una mayor precisión de la ubicación de los puntos de recogida en el _checkout_.<div class = "alert alert-info">La visualización de los puntos de recogida con el mapa y la hora en el checkout solo está disponible para Checkout V6.</div>
+4. [Registrar la geolocalización](https://help.vtex.com/es/tutorial/gestionar-geolocalizacion--tutorials_138): para una mayor precisión de la ubicación de los puntos de recogida en el _checkout_.>ℹ️ La visualización de los puntos de recogida con el mapa y la hora en el checkout solo está disponible para Checkout V6.
 
 5. Habilitar la solicitud de dirección en el checkout. De este modo, el cliente tiene que agregar la dirección que se utilizará en la factura:
     - Paso 1: En el Admin VTEX, accede a **Configuración de la tienda > Storefront > Checkout**, o escribe *Checkout* en la barra de búsqueda en la parte superior de la página.  

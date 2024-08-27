@@ -38,9 +38,7 @@ Follow the instructions to search for an event using the filters available in Au
 2. In the **Application** menu under **Filters**, select the application related to the query.
 3. In the **Date** menu, choose a predefined date for the query. If you prefer to set the exact date range for the query, select the **Custom** option and choose the **Start** and **End** dates for the query.
 
-   <div class= "alert alert-info">
-     <p>Only records from the last 3 months are stored.</p>
-   </div>
+   >ℹ️ Only records from the last 3 months are stored.
 
 4. If you wish, add a filter by Action. To do this, in the field next to `Action` **must be**, type the name of the action and press `Enter`. You can enter more than one value by pressing `Enter` after each selection. Check the name of each action in [Events available in Audit](https://help.vtex.com/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
 5. If necessary, you can add specific filters to search for events more accurately. To do this, click the `Add Filter` button.
@@ -56,9 +54,7 @@ Follow the instructions to search for an event using the filters available in Au
 
     Check the [Results](#results) section to see how the events are displayed.
 
-<div class= "alert alert-warning">
-  <p>The query results correspond exactly to the content entered in the filter field. To avoid unexpected results, make sure you haven't typed extra spaces in the query terms.</p>
-</div>
+>⚠️ The query results correspond exactly to the content entered in the filter field. To avoid unexpected results, make sure you haven't typed extra spaces in the query terms.
 
 If you wish, you can share a query with another user. To do this, click `Share Query` in the top right-hand corner of the page. The link to the Audit search will be copied to your clipboard.
 
@@ -129,6 +125,4 @@ See below the information available in this tab:
 | Period | Start and end date of the period selected for the query. |
 | Redo Query | Button to redo the query. |
 
-<div class= "alert alert-warning">
-  <p>The <strong>Last queries</strong> tab only saves up to 50 queries. If you want to save a query beyond this limit, add it to your browser favorites.</p>
-</div>
+>⚠️ The **Last queries** tab only saves up to 50 queries. If you want to save a query beyond this limit, add it to your browser favorites.

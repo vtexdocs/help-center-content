@@ -24,9 +24,7 @@ Por lo tanto, la plataforma VTEX ofrece la posibilidad de crear roles de usuario
 
 <iframe src="https://help.vtex.com/tables/resources/es" title="Recursos del License Manager" frameBorder="0" width="100%" height="850"></iframe>
 
-<div class = "alert alert-info">
-  <p>En la aplicación <a href="https://help.vtex.com/es/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA">Audit</a>, los recursos de License Manager son identificados por las respectivas claves.</p>
-</div>
+>ℹ️ En la aplicación [Audit](https://help.vtex.com/es/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA), los recursos de License Manager son identificados por las respectivas claves.
 
 ## Recursos internos o obsoletos
 

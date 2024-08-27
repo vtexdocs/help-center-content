@@ -22,9 +22,7 @@ Headers play a crucial role in HTTP communication, providing additional informat
 - __Request Headers:__ Sent by the client to the server. They contain information about the request made, such as the type of HTTP method used, the type of accepted content, cookies, among others.
 - __Response Headers:__ Sent by the server to the client. They provide information about the sent response, such as the response status, type of returned content, cookies, among others.
 
-<div class = "alert alert-info">
-For more information, refer to the <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP">MDN’s HTTP</a> guide and related documentation.
-</div>
+>ℹ️ For more information, refer to the [MDN’s HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP) guide and related documentation.
 
 In this guide, you will learn how to manage Security Response Headers in your Store Framework store.
 ## Security Response Headers

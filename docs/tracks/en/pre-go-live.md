@@ -28,9 +28,7 @@ If your storefront is powered by [CMS IO](https://help.vtex.com/en/tracks/cms--2
 
 After you receive the internal pointing confirmation, you must do the [common DNS pointing](https://help.vtex.com/tracks/go-live-your-store--4Ns5FxIiksmjsdX2yOTduM/12bQlMbJ68Ot0LIaO6Btkj#setting-up-dns-pointing) within 5 days. Otherwise the internal pointing will be deleted and you will need to redo the request.
 
-<div class = "alert alert-info">
-Learn more at <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-go-live">Go live with Store Framework</a> or <a href="https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io">Migration from legacy CMS to Store Framework</a>.
-</div>
+>ℹ️ Learn more at [Go live with Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-go-live) or [Migration from legacy CMS to Store Framework](https://developers.vtex.com/vtex-developer-docs/docs/vtex-io-documentation-migrating-storefront-from-legacy-to-io).
 
 ## Requesting special pointing
 

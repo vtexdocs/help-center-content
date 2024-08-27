@@ -34,9 +34,7 @@ It's possible to send tracking updates via API, with emails continuing to be sen
 
 Delivery confirmation via OMS is also passed on to the marketplaces.
 
-<div class = "alert alert-info">
-Now, we offer the <a href="https://help.vtex.com/pt/subcategory/vtex-shipping-network--5n5MnINzWTQUX1I2EZl4Ib">VTEX Shipping Network</a>, a logistics solution to integrate your operation with Correios and/or carriers with partnerships with VTEX. All of your store's orders linked to this solution will have the tracking automatically updated. (Valid only for Brazil)
-</div>
+>ℹ️ Now, we offer the [VTEX Shipping Network](https://help.vtex.com/pt/subcategory/vtex-shipping-network--5n5MnINzWTQUX1I2EZl4Ib), a logistics solution to integrate your operation with Correios and/or carriers with partnerships with VTEX. All of your store's orders linked to this solution will have the tracking automatically updated. (Valid only for Brazil)
 
 Another option is to use solutions developed by partners to track deliveries by Correios, such as [XP Agência's tracking system](https://rastreio.xpagencia.com.br/).
 

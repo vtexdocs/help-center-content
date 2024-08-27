@@ -15,9 +15,7 @@ legacySlug: physical-store-instore-beta
 subcategory: 5SE2asHiQtHKfbnFru8RWH
 ---
 
-<div class ="alert alert-info">
-<p>This functionality is in Beta stage, which means we are working to improve it. If in doubt, contact <a href="https://support.vtex.com/hc/en-us/requests">our Support</a>.</p>
-</div>
+>ℹ️ This functionality is in Beta stage, which means we are working to improve it. If in doubt, contact [our Support](https://support.vtex.com/hc/en-us/requests).
 
 **Physical store** is a page in the VTEX Admin **Store Settings** that displays the physical stores added to the [inStore](https://help.vtex.com/pt/tracks/instore-primeiros-passos-e-configuracoes--zav76TFEZlAjnyBVL5tRc/7fnnVlG3Kv1Tay9iagc5yf) app and allows you to manage their information.
 
@@ -77,9 +75,7 @@ You can add a physical store by following the steps below:
 * **Trade policy:** the [trade policy](https://help.vtex.com/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) that will be applied in the physical store. Mandatory field.
 * **Pickup point:** the [pickup point](https://help.vtex.com/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R) associated to this physical store, where customers pick up their orders. 
 
-<div class ="alert alert-info">
-<p>Changes can take up to 15 minutes to be processed and applied to inStore.</p> 
-</div>
+>ℹ️ Changes can take up to 15 minutes to be processed and applied to inStore.
 
 ## Searching for a store
 

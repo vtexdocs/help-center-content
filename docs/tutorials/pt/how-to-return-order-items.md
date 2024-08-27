@@ -40,6 +40,4 @@ A página de **Detalhes do Pedido** permite orquestrar essa operação, seguindo
 
 Após o reembolso ser processado pelo sistema, os itens devolvidos e suas informações aparecerão na seção **Itens Devolvidos**.
 
-<div class = "alert alert-info">
-A alteração de pedidos via API é feita pelo endpoint <a href="https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes">Create order change</a> e a emissão de faturas após alterações é feita pelo endpoint <a href="https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice">Order invoice notification</a>.
-</div>
+>ℹ️ A alteração de pedidos via API é feita pelo endpoint [Create order change](https://developers.vtex.com/docs/api-reference/orders-api#patch-/api/order-system/orders/-changeOrderId-/changes) e a emissão de faturas após alterações é feita pelo endpoint [Order invoice notification](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/invoice).

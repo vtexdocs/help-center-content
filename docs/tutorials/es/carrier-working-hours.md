@@ -31,9 +31,7 @@ La configuración del horario laboral influye en el cálculo del tiempo de entre
 
   >❗ Para autorizar la transportadora a recibir pedidos los fines de semana, este interruptor debe estar marcado como `Activo`. Incluso si los sábados y domingos están configurados como ventanas válidas, activar el interruptor es obligatorio para autorizar al transportista a recibir pedidos fuera del horario laboral.
 
-  <div class = "alert alert-info">
-Cuando esta opción está habilitada, el <a href="https://help.vtex.com/es/tutorial/how-shipping-calculation-works--tutorials_116">cálculo del envío</a> del pedido se ve influenciado y al tiempo total de envío se suma el tiempo desde que se realiza el pedido hasta la hora de apertura del transportista.
-</div>
+  >ℹ️ Cuando esta opción está habilitada, el [cálculo del envío](https://help.vtex.com/es/tutorial/how-shipping-calculation-works--tutorials_116) del pedido se ve influenciado y al tiempo total de envío se suma el tiempo desde que se realiza el pedido hasta la hora de apertura del transportista.
 
 3. Seleccione el `Día de la semana`, así como la `Hora de inicio` y `Hora de fin` del periodo de envío, considerando que:
     * **Día de la semana:** los días de la semana en que la transportadora realiza entregas.

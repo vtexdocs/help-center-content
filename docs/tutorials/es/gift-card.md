@@ -32,9 +32,7 @@ Para crear un nuevo vale de compra, siga los pasos a continuación:
   <br>
   <li>Haga clic en el botón azul <b>Nuevo vale</b>.</li>
   <br>   
-<div class = "alert alert-info">
-  <p>En la pantalla de creación del vale, el campo <b>Vale</b> es llenado automáticamente por el sistema VTEX con el código ID del nuevo vale. Este es el código que debe ingresar el cliente en la pantalla de checkout para aplicar el vale al carrito y reducir el valor de pago del pedido.</p>
-</div>
+>ℹ️ En la pantalla de creación del vale, el campo **Vale** es llenado automáticamente por el sistema VTEX con el código ID del nuevo vale. Este es el código que debe ingresar el cliente en la pantalla de checkout para aplicar el vale al carrito y reducir el valor de pago del pedido.
 <br>
   <li>Complete los campos presentados de acuerdo con las orientaciones que se indican a continuación:</li>
   <br>

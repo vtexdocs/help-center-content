@@ -31,9 +31,7 @@ subcategory: 13sVE3TApOK1C8jMVLTJRh
 | 6. Para cada opción de envío aplicable, el algoritmo calcula la tarifa que se mostrará al consumidor en el checkout según la regla de precios configurada en la opción de envío. | 6. El algoritmo calcula la tarifa que se mostrará al consumidor en el checkout según la regla de precios configurada en la opción de envío. |
 | 7. En la fase de checkout, se muestran al consumidor las opciones de envío seleccionadas junto con la previsión de costo y plazo de envío. | 7. En la fase de checkout, se muestran al consumidor todos los puntos de recogida que cubren los ítems del carrito. |
 
-<div class = "alert alert-info">
-El criterio de prioridad del <a href="https://help.vtex.com/es/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa">algoritmo actual</a> es buscar la menor división de paquetes del pedido. <b>Order Allocation Algorithm</b> tiene como criterio principal buscar el menor costo de envío para el administrador de la tienda.
-</div>
+>ℹ️ El criterio de prioridad del [algoritmo actual](https://help.vtex.com/es/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa) es buscar la menor división de paquetes del pedido. **Order Allocation Algorithm** tiene como criterio principal buscar el menor costo de envío para el administrador de la tienda.
 
 Las próximas secciones presentan los detalles del funcionamiento del algoritmo y se dividen en:
 
@@ -74,8 +72,6 @@ Al analizar las combinaciones de puntos de fulfillment, el algoritmo toma en cue
 
 A través de la política de envío, el **Order Allocation Algorithm** simula las combinaciones de puntos de fulfillment buscando las que cumplen con el pedido al menor costo para el administrador de la tienda. El proceso se realiza mediante consultas a la [plantilla de envío](https://help.vtex.com/es/tutorial/planilha-de-frete--tutorials_127) y análisis de costo de las [transportadoras](https://help.vtex.com/es/tutorial/transportadoras-na-vtex--7u9duMD5UQa2QQwukAWMcE).
 
-<div class = "alert alert-info">
-En el <a href="https://help.vtex.com/es/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa">algoritmo actual</a>, muchas veces el administrador de la tienda configura la <a href="https://help.vtex.com/es/tutorial/planilha-de-frete--tutorials_127">plantilla de envío</a> con los valores que desea presentar al consumidor en el checkout y no con el costo real de las transportadoras. Con el <b>Order Allocation Algorithm</b>, el administrador de la tienda no tiene que tener en cuenta cómo el costo de la plantilla de envío se refleja en la experiencia de compra del consumidor, ya que ahora esto lo determina la configuración de las <a href="https://help.vtex.com/es/tutorial/shipping-options-beta--7gsdck3519Z3VPqzwFFHJL">opciones de envío</a>. Además, el <b>Order Allocation Algorithm</b> es más preciso al tomar como referencia los costos reales de las transportadoras.
-</div>
+>ℹ️ En el [algoritmo actual](https://help.vtex.com/es/tutorial/algoritmo-de-selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa), muchas veces el administrador de la tienda configura la [plantilla de envío](https://help.vtex.com/es/tutorial/planilha-de-frete--tutorials_127) con los valores que desea presentar al consumidor en el checkout y no con el costo real de las transportadoras. Con el **Order Allocation Algorithm**, el administrador de la tienda no tiene que tener en cuenta cómo el costo de la plantilla de envío se refleja en la experiencia de compra del consumidor, ya que ahora esto lo determina la configuración de las [opciones de envío](https://help.vtex.com/es/tutorial/shipping-options-beta--7gsdck3519Z3VPqzwFFHJL). Además, el **Order Allocation Algorithm** es más preciso al tomar como referencia los costos reales de las transportadoras.
 
 Después de analizar las posibles simulaciones, el **Order Allocation Algorithm** determina un resultado de combinaciones de puntos de fulfillment para cada opción de envío. En el checkout, se muestran al consumidor todas las opciones de envío que tienen por lo menos una combinación válida de puntos de fulfillment que cumplen con el pedido.

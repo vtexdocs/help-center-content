@@ -74,9 +74,9 @@ function processFile(filePath) {
 
         // Replace HTML structures with corresponding markdown symbols
         const newData = data
-            .replace(/<div class="alert alert-info">(.*?)<\/div>/gs, (match, p1) => `>ℹ️ ${convertCallout(p1)}`)
-            .replace(/<div class="alert alert-warning">(.*?)<\/div>/gs, (match, p1) => `>⚠️ ${convertCallout(p1)}`)
-            .replace(/<div class="alert alert-danger">(.*?)<\/div>/gs, (match, p1) => `>❗ ${convertCallout(p1)}`);
+            .replace(/<div\s+class\s*=\s*"alert alert-info">(.*?)<\/div>/gs, (match, p1) => `>ℹ️ ${convertCallout(p1)}`)
+            .replace(/<div\s+class\s*=\s*"alert alert-warning">(.*?)<\/div>/gs, (match, p1) => `>⚠️ ${convertCallout(p1)}`)
+            .replace(/<div\s+class\s*=\s*"alert alert-danger">(.*?)<\/div>/gs, (match, p1) => `>❗ ${convertCallout(p1)}`);
 
         // Write the modified content back to the file
         fs.writeFile(filePath, newData, 'utf8', (err) => {

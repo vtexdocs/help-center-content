@@ -27,9 +27,7 @@ En este artículo, encontrarás más detalles sobre cada versión disponible de 
 
 Actualmente existen dos versiones disponibles y puedes elegir la que mejor se adapte a las necesidades de tu operación. La principal diferencia entre ambas es que la v2 no incluye interfaz gráfica, por lo que se puede usar solo a través de la [API del Master Data v2](https://developers.vtex.com/docs/api-reference/master-data-api-v2), pero sí tiene otras funcionalidades importantes, por ejemplo, [esquemas JSON](https://developers.vtex.com/docs/guides/starting-to-work-on-master-data-with-json-schema).
 
-<div class = "alert alert-info">
-La plataforma VTEX guarda de forma nativa los datos de los clientes de tu tienda en Master Data v1.
-</div>
+>ℹ️ La plataforma VTEX guarda de forma nativa los datos de los clientes de tu tienda en Master Data v1.
 
 En la tabla a continuación, obtendrás más información sobre las diferencias en las funcionalidades de cada versión.
 
@@ -286,9 +284,7 @@ Como se dijo anteriormente, cada documento tiene un ID que la plataforma genera 
 
 Por ejemplo, puedes consultar un documento con información de un cliente especificando el valor del campo `email` del cliente.
 
-<div class = "alert alert-info">
-Obtén más información sobre cómo <a href=https://help.vtex.com/es/tutorial/setting-up-an-index-on-master-data--tutorials_785>configurar índices en Master Data v1</a> o <a href=https://developers.vtex.com/vtex-rest-api/reference/putindices>configurar índices con la API del Master Data v2</a>.
-</div>
+>ℹ️ Obtén más información sobre cómo <a href=https://help.vtex.com/es/tutorial/setting-up-an-index-on-master-data--tutorials_785>configurar índices en Master Data v1</a> o <a href=https://developers.vtex.com/vtex-rest-api/reference/putindices>configurar índices con la API del Master Data v2</a>.
 
 ## Triggers
 
@@ -303,17 +299,13 @@ Obtén más información sobre cómo [configurar triggers en el Master Data v1] 
 
 Con la v2 de Master Data puedes definir formatos de datos con esquemas JSON. Este formato indica cómo Master Data debe validar e indexar los documentos.
 
-<div class = "alert alert-info">
-Obtén más información en <a href=https://json-schema.org/>esquemas JSON</a>.
-</div>
+>ℹ️ Obtén más información en <a href=https://json-schema.org/>esquemas JSON</a>.
 
 Puedes guardar un documento en cualquier entidad de datos si el contenido es un JSON válido. Una entidad de datos puede tener asociados o no varios esquemas JSON.
 
 ![Master Data schemas](https://images.ctfassets.net/alneenqid6w5/CaidhUAHIxcwas8eWLQZu/3b032813aed32ec745e01d4d32cf4e87/schemas_es.jpg)
 
-<div class = "alert alert-info">
-Un documento puede ser compatible con varios esquemas JSON, o con ninguno.
-</div>
+>ℹ️ Un documento puede ser compatible con varios esquemas JSON, o con ninguno.
 
 ## Aplicaciones
 

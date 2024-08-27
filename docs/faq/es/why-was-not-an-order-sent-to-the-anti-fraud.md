@@ -18,6 +18,4 @@ Cada vez que se realiza un pago, el conector de gateway de pago realiza algunas 
 
 Después de varios intentos, si no obtiene las respuestas esperadas, el pago y el pedido se cancelan. Los pedidos en esta situación no se envían al antifraude.
 
-<div class = "alert alert-warning">
-No se puede reenviar un pedido cancelado para el antifraude.
-</div>
+>⚠️ No se puede reenviar un pedido cancelado para el antifraude.

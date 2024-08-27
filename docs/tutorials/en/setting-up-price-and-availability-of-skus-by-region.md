@@ -27,9 +27,7 @@ To regionalize SKU prices and availability, it is necessary:
 
 >⚠️ In case of [Multilevel Omnichannel Inventory](https://help.vtex.com/en/tutorial/multilevel-omnichannel-inventory--7M1xyCZWUyCB7PcjNtOyw4#), a marketplace (level 1) cannot configure the display of prices and availability of White Label Seller products (level 3) with the regionalization feature.
 
-<div class = "alert alert-info">
-The feature <b>Region</b> works for both CMS Portal Legacy stores and stores developed using <a href="https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC">VTEX IO</a>, but the feature <a href="https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG">VTEX Intelligent Search</a> is available only for stores using VTEX IO. As a result, stores with CMS Portal Legacy have a limitation in indexing regionalized data, and it is not possible to correctly order the sellers that serve the storefront of a RegionId based on the availability of items.
-</div>
+>ℹ️ The feature **Region** works for both CMS Portal Legacy stores and stores developed using [VTEX IO](https://help.vtex.com/en/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/6OCY6S9tqBXPD5mgpbBInC), but the feature [VTEX Intelligent Search](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/3qgT47zY08biLP3d5os3DG) is available only for stores using VTEX IO. As a result, stores with CMS Portal Legacy have a limitation in indexing regionalized data, and it is not possible to correctly order the sellers that serve the storefront of a RegionId based on the availability of items.
 
 ## Setting up delivery in Franchise Account/White Label Seller
 

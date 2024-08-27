@@ -24,9 +24,7 @@ Por isso, a plataforma VTEX oferece a possibilidade de criar perfis de acessos c
 
 <iframe src="https://help.vtex.com/tables/resources/pt" title="Recursos do License Manager" frameBorder="0" width="100%" height="850"></iframe>
 
-<div class = "alert alert-info">
-  <p>No aplicativo <a href="https://help.vtex.com/pt/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA">Audit</a>, recursos do License Manager são identificados pelas respectivas chaves.</p>
-</div>
+>ℹ️ No aplicativo [Audit](https://help.vtex.com/pt/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA), recursos do License Manager são identificados pelas respectivas chaves.
 
 ## Recursos internos ou deprecados
 

@@ -62,9 +62,7 @@ A aba **Categories** da planilha de mapeamento possui duas colunas para serem pr
 - **VTEXCategoryId:** ID da Categoria na VTEX. O ID da categoria pode ser encontrado ao lado do nome da Categoria, ao navegar pela árvore de categorias no Admin VTEX, em *Produtos > Catálogo > Categorias*.
 - **DafitiCategoryId:**  ID da Categoria na Dafiti. Você deve procurar a melhor equivalência possível na planilha de consulta da Dafiti correspondente ao produto que está sendo mapeado.
 
-<div class = "alert alert-info">
-É possível mapear uma categoria VTEX para múltiplas categorias Dafiti. Para isso, é necessário separar os IDs na coluna da Dafiti por vírgula. Nesse caso, todos os produtos desta categoria na VTEX serão relacionados às categorias selecionadas na Dafiti.
-</div>
+>ℹ️ É possível mapear uma categoria VTEX para múltiplas categorias Dafiti. Para isso, é necessário separar os IDs na coluna da Dafiti por vírgula. Nesse caso, todos os produtos desta categoria na VTEX serão relacionados às categorias selecionadas na Dafiti.
 
 ### Attributenames
 

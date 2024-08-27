@@ -15,9 +15,7 @@ legacySlug: como-configurar-assinatura-v2
 subcategory: 1rA9wuuskW3PpjvMrhatAM
 ---
 
-<div class = "alert alert-info">
-A instalação do módulo Assinaturas é feita por meio de solicitação ao <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.
-</div>
+>ℹ️ A instalação do módulo Assinaturas é feita por meio de solicitação ao [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 O sistema de __Assinaturas__ é um aplicativo desenvolvido pela VTEX para facilitar as vendas recorrentes. Funciona como um agendador automático, repetindo um pedido na frequência desejada pelo cliente da sua loja.
 

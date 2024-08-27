@@ -33,9 +33,7 @@ Recomendamos que el _seller_ cree la regla de Divergencia de precios antes de co
 
 La [regla de divergencia de precios](https://help.vtex.com/es/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW) se compone de una o varias reglas de autorización de pedidos, que corresponden a intervalos entre el 0% y el 100% del precio del pedido. La configuración se realiza de forma que cada intervalo esté asociado a una acción automática de procesamiento.
 
-<div class = "alert alert-info">
-Para crear una regla de divergencia de precios, el usuario debe tener el <a href="https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc">rol</a> Admin Super (Owner) o OMS Full. Garantiza la seguridad en la gestión de tus operaciones y consulta las <a href="https://help.vtex.com/es/faq/metodos-de-seguranca-para-criacao-de-perfis-de-usuarios-em-uma-loja--15YDwC9jGgqWi3rvcDaiGM">buenas prácticas de seguridad para la gestión de usuarios</a>.
-</div>
+>ℹ️ Para crear una regla de divergencia de precios, el usuario debe tener el [rol](https://help.vtex.com/es/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) Admin Super (Owner) o OMS Full. Garantiza la seguridad en la gestión de tus operaciones y consulta las [buenas prácticas de seguridad para la gestión de usuarios](https://help.vtex.com/es/faq/metodos-de-seguranca-para-criacao-de-perfis-de-usuarios-em-uma-loja--15YDwC9jGgqWi3rvcDaiGM).
 
 Para crear una regla de divergencia de precios, sigue los pasos a continuación:
 
@@ -79,9 +77,7 @@ La regla de divergencia de precios se puede editar en cualquier momento. Para ha
 
 En la página de edición de reglas, puedes eliminar la regla de divergencia de precios haciendo clic en **ELIMINAR REGLAS**. Esto hace que todas las reglas de autorización configuradas se eliminen permanentemente.
 
-<div class = "alert alert-info">
-Si eliminas la regla de divergencia de precios, esta acción no se puede revertir. Para que vuelva a aplicarse, será necesario configurarla de nuevo. Lo mismo se aplica a las reglas de autorización que componen la regla de divergencia de precios.
-</div>
+>ℹ️ Si eliminas la regla de divergencia de precios, esta acción no se puede revertir. Para que vuelva a aplicarse, será necesario configurarla de nuevo. Lo mismo se aplica a las reglas de autorización que componen la regla de divergencia de precios.
 
 En la misma página, en la pestaña **Todas**, puedes ver la lista de todas las reglas de autorización de pedidos creadas. Para eliminar una regla de autorización, haz clic en el botón **ELIMINAR REGLA** junto a la regla que deseas eliminar.
 

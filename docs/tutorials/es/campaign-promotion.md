@@ -72,9 +72,7 @@ A continuación se describen todos los campos que debe rellenar para crear una p
   - **Flete gratis:** es el descuento total sobre el valor del flete.
   - **Regalo:** es el descuento total sobre el valor del producto definido como regalo. Puede seleccionar uno o más SKU como regalos, o más de una unidad para el mismo SKU. Para definir más de un regalo, escoja la opción **Activar multiplicador de regalo** y defina la cantidad deseada. Lea más sobre esta opción en este [artículo](https://help.vtex.com/es/tutorial/que-significa-activar-el-multiplicador-de-regalo-en-una-promocion--1gydgkmjEWcoo2CskUwuYK).
 
-  <div class = "alert alert-info">
-  <p>El producto de <b>Regalo</b> también debe tener un precio registrado aunque se dé al cliente de forma gratuita.</p>
- </div>
+  >ℹ️ El producto de **Regalo** también debe tener un precio registrado aunque se dé al cliente de forma gratuita.
 
   - **Descuento nominal basado en la fórmula:** el descuento se calcula sumando los precios de los productos (total), el flete (<i>freight</i>) y el porcentaje de descuento deseado. Es importante destacar que el valor del flete que se incluirá en la fórmula será el valor menor que esté disponible para el pedido, independientemente de la selección del cliente. El separador decimal debe ser siempre el punto. Ejemplo: el descuento será del 30 % del valor del producto + el valor del flete. Entonces, la fórmula debe rellenarse así: ((total + freight) * 0.3).
   - **Valor de fidelidad nominal:** es el crédito que será añadido al programa de fidelidad de la tienda. 
@@ -100,9 +98,7 @@ En esta sección puede definir en qué <i>sellers</i> se aplicará la promoción
 
 Para que la promoción sea válida para todos los <i>sellers</i>, deje la selección sin marcar.
 
-<div class = "alert alert-warning">
-  <p><b>Atención:</b> no es posible seleccionar directamente un <i>seller white label</i>. Para incluir a un <i>seller white label</i> en la promoción, tiene dos opciones:</p><ol>1. Restringir los <i>sellers</i> a la tienda principal. Esta restricción agrega todos los <i>sellers white label</i> de su tienda a la promoción.</ol><ol>2. Dejar la selección sin marcar para incluir a todos los <i>sellers</i>. Aquí, todos los tipos de <i>sellers, white label</i> o no, se agregarán a la promoción.</ol>
-</div>
+>⚠️ **Atención:** no es posible seleccionar directamente un <i>seller white label</i>. Para incluir a un <i>seller white label</i> en la promoción, tiene dos opciones:1. Restringir los <i>sellers</i> a la tienda principal. Esta restricción agrega todos los <i>sellers white label</i> de su tienda a la promoción.2. Dejar la selección sin marcar para incluir a todos los <i>sellers</i>. Aquí, todos los tipos de <i>sellers, white label</i> o no, se agregarán a la promoción.
 
 #### Política comercial
 

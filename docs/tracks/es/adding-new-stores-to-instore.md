@@ -74,9 +74,7 @@ Puedes crear una tienda física siguiendo los pasos a continuación:
 * **Política comercial:** [política comercial](https://help.vtex.com/es/tutorial/como-funciona-una-politica-comercial--6Xef8PZiFm40kg2STrMkMV) que será aplicada na loja física. Campo obrigatório.
 * **Punto de recogida:** [punto de recogida](https://help.vtex.com/es/tutorial/puntos-de-recogida--2fljn6wLjn8M4lJHA6HP3R) registrado para esta tienda física, donde los clientes recogen sus pedidos.
 
-<div class ="alert alert-info">
-<p>Los cambios pueden tardar hasta 15 minutos en procesarse y aplicarse en inStore.</p> 
-</div>
+>ℹ️ Los cambios pueden tardar hasta 15 minutos en procesarse y aplicarse en inStore.
 
 ## Buscar tienda física
 

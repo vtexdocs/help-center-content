@@ -15,9 +15,7 @@ legacySlug: tornar-colecao-de-produtos-encontravel-pela-busca
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class = "alert alert-warning">
-  <strong>Warning</strong>: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see <a href = "https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">this track</a>.
-</div>
+>⚠️ **Warning**: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see <a href = "https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">this track</a>.
 
 You can make it possible for the user to find products associated with a specific collection when searching for it by name on the store's page.
 

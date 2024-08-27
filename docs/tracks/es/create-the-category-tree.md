@@ -42,15 +42,11 @@ __OBS__: la nomenclatura __Departamento / Categoría / Subcategoría__ es solame
 
 Pero atención:
 
-<div class = "alert alert-warning">
-Recomendamos que se creen <strong>como máximo 3 niveles de categoría</strong>. Más niveles pueden hacer que la operación de su catálogo sea demasiado compleja.
-</div>
+>⚠️ Recomendamos que se creen **como máximo 3 niveles de categoría**. Más niveles pueden hacer que la operación de su catálogo sea demasiado compleja.
 
 Dos puntos fundamentales:
 
 - ¿Quién planea la distribución de las categorías de su sitio? __Usted! Esta planificación debe reflejar los objetivos de su negocio.__
 - ¿Cuándo debe definirse la distribución de las categorías? __Antes que las categorías se insertan en la plataforma.__
 
-<div class = "alert alert-warning">
-Es muy importante que su equipo defina la composición del árbol de categorías <strong>antes</strong> de montarla en la plataforma. Después de que usted comienza a insertar productos, necesitar mover las categorías puede convertirse en un problema de estructuración complejo.
-</div>
+>⚠️ Es muy importante que su equipo defina la composición del árbol de categorías **antes** de montarla en la plataforma. Después de que usted comienza a insertar productos, necesitar mover las categorías puede convertirse en un problema de estructuración complejo.

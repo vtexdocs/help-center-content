@@ -74,9 +74,7 @@ You can add a physical store by following the steps below:
 * **Trade policy:** the [trade policy](https://help.vtex.com/en/tutorial/how-trade-policies-work--6Xef8PZiFm40kg2STrMkMV) that will be applied in the physical store. Mandatory field.
 * **Pickup point:** the [pickup point](https://help.vtex.com/en/tutorial/pickup-points--2fljn6wLjn8M4lJHA6HP3R) associated to this physical store, where customers pick up their orders. 
 
-<div class ="alert alert-info">
-<p>Changes can take up to 15 minutes to be processed and applied to VTEX Sales App.</p> 
-</div>
+>ℹ️ Changes can take up to 15 minutes to be processed and applied to VTEX Sales App.
 
 ## Searching for a physical store
 

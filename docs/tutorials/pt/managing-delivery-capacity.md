@@ -34,6 +34,4 @@ Uma vez selecionada a política de envio e a data a serem apresentadas na lista,
 *   **Disponível**: quantos itens/pedidos ainda estão disponíveis para agendamento (a quantidade de capacidade menos reservado)
 *   **Status**: pode ser visível ou não visível, dependendo da janela de entrega ainda está disponível. A janela ficará com status visível para seus clientes se ela ainda estiver disponível.
 
-<div class = "alert alert-info">
-Você pode clicar em <b>EDITAR POLÍTICA DE ENVIO</b> para ser redirecionado à tela de edição da política de envio selecionada no filtro Política de envio.
-</div>
+>ℹ️ Você pode clicar em **EDITAR POLÍTICA DE ENVIO** para ser redirecionado à tela de edição da política de envio selecionada no filtro Política de envio.

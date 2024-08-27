@@ -32,9 +32,7 @@ You can see the sections and fields correspondence between the old version of th
 
 The six-month filter is now replaced by an unlimited date search that returns all orders related to the criteria used, regardless of their creation date. You can, for example, view a customer's full purchase history using the customer's name, email, or document. Read the article [Filter orders on All Orders](https://help.vtex.com/en/tutorial/como-filtrar-pedidos--tutorials_192) to learn more. 
 
-<div class = "alert alert-info">
-The search in All Orders cannot be combined with other filters. So, once you remove the date limit from the search, any active filters become inactive. However, you can combine filters and select the custom period of six months, for example.
-</div>
+>ℹ️ The search in All Orders cannot be combined with other filters. So, once you remove the date limit from the search, any active filters become inactive. However, you can combine filters and select the custom period of six months, for example.
 
 Enter the desired term in the search bar to search all orders. This will make the <i class="fas fa-toggle-off"></i> `Remove date limit` option visible. Then, activate it to search.
 

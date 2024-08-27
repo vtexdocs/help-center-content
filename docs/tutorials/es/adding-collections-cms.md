@@ -15,9 +15,7 @@ legacySlug: registrar-una-coleccion
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class = "alert alert-warning">
-  <p>Existen dos formas de configurar colecciones, mediante el Portal CMS Legado o utilizando el módulo <a href="https://help.vtex.com/es/tutorial/registrar-colecciones-beta--yJBHqNMViOAnnnq4fyOye">Colecciones Beta</a>. Este artículo se refiere a la configuración de colecciones mediante el Portal CMS Legado.</p>
-</div>
+>⚠️ Existen dos formas de configurar colecciones, mediante el Portal CMS Legado o utilizando el módulo [Colecciones Beta](https://help.vtex.com/es/tutorial/registrar-colecciones-beta--yJBHqNMViOAnnnq4fyOye). Este artículo se refiere a la configuración de colecciones mediante el Portal CMS Legado.
 
 Realice el siguiente paso a paso para registrar una nueva colección:  
 

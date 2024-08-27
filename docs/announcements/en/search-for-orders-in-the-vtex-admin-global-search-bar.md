@@ -34,9 +34,7 @@ To do this, click the search bar, select the `Orders` option, and search for wha
 
 By clicking a result, you will be redirected to the [Order Details page](https://help.vtex.com/en/tutorial/pagina-de-detalhes-do-pedido--2Y75n54Cc9VizrlG1N6ZNl). The last 10 orders you searched for will be recorded in your recent search history, making access more convenient. The search record is stored at the [user](https://help.vtex.com/en/tutorial/gerenciando-usuarios--tutorials_512) level and not shared among users.
 
-<div class = "alert alert-info">
-To access orders via the VTEX Admin global search, the user <a href="https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">role</a> must be associated with the <b>View Order</b> resource (OMSViewer key) of the Order Management System (OMS).
-</div>
+>ℹ️ To access orders via the VTEX Admin global search, the user [role](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) must be associated with the **View Order** resource (OMSViewer key) of the Order Management System (OMS).
 
 ## Why did we make this change?
 

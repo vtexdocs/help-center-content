@@ -47,9 +47,7 @@ A missing product in a search result may come from incomplete fields during the 
 
 <blockquote><ui>1. In the Admin VTEX, go to </b>Catalog > All Products</b>.</ui>
 
-<blockquote><ui><div class ="alert alert-warning">
-  Stores using the <b>Produtos and SKUS (Beta)</b> page should check the product registration fields by going to <b>Catalog > Products and SKUs</b> in the VTEX Admin. Learn more about <a href="https://help.vtex.com/en/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By">Produtos and SKUS (Beta)</a>.
-</div></blockquote>
+<blockquote><ui>>⚠️ Stores using the **Produtos and SKUS (Beta)** page should check the product registration fields by going to **Catalog > Products and SKUs** in the VTEX Admin. Learn more about [Produtos and SKUS (Beta)](https://help.vtex.com/en/tutorial/products-and-skus-beta--2ig7TmROlirWirZjFWZ3By).</blockquote>
 
 <blockquote><ui>2. Find the product you want and click <b>Edit product</b>.</ui>
 
@@ -63,9 +61,7 @@ A missing product in a search result may come from incomplete fields during the 
 
 <blockquote><ui>7. Go to the store's website, search for the desired term, and ensure that the products displayed in the search results are the same as the ones available on the <b>Explained Search</b> page under Intelligent Search (<b>Storefront > Intelligent Search > Explained Search</b>).</ui>
 
-<blockquote><ui><div class ="alert alert-warning">
-  If the search term is included in the product's name or description, but the product belongs to a different brand than the term specified in the search, proceed with the other steps to solve the problem.
-</div></blockquote>
+<blockquote><ui>>⚠️ If the search term is included in the product's name or description, but the product belongs to a different brand than the term specified in the search, proceed with the other steps to solve the problem.</blockquote>
 
 ### Changing search filters in Rewriter
 
@@ -123,9 +119,7 @@ internal {
 }
 ```
 
-<blockquote><ui><div class ="alert alert-warning">
-  The value <i>ft</i> (full text) instead of <i>b</i> (brand) in the <i>map</i> parameter indicates that products with the term <i>Pendleton</i> in the name or description will also be displayed in the search.
-</div></blockquote>
+<blockquote><ui>>⚠️ The value <i>ft</i> (full text) instead of <i>b</i> (brand) in the <i>map</i> parameter indicates that products with the term <i>Pendleton</i> in the name or description will also be displayed in the search.</blockquote>
 
 <blockquote><ui>7. Click the GraphiQL IDE arrow (next to <b>GraphiQL</b>) to update the search filter. The display of the following message in the GraphiQL IDE results field will confirm the new default search filter for the term.</ui>
 
@@ -154,9 +148,7 @@ internal {
 
 <blockquote><ui>8. Go to the store's website, search for the desired term, and ensure that the products displayed in the search results are the same as the ones available on the <b>Explained Search</b> page under Intelligent Search (<b>Storefront > Intelligent Search > Explained Search</b>).</ui>
 
-<blockquote><ui><div class ="alert alert-warning">
-  If the search term is associated with a brand that no longer exists on your site, you will need to remove the internal search route within the Rewriter app, as described in the solution below</a>.
-</div></blockquote>
+<blockquote><ui>>⚠️ If the search term is associated with a brand that no longer exists on your site, you will need to remove the internal search route within the Rewriter app, as described in the solution below</a>.</blockquote>
 
 ### Removing internal search route in Rewriter
 

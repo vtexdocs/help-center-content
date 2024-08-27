@@ -15,9 +15,7 @@ legacySlug: advertising-with-vtex-ad-network-beta
 subcategory: 2AksvvAtAsbAfE7HsBIVDU
 ---
 
-<div class = "alert alert-info">
-<p>VTEX Ad Network is in beta, which means that we are working to improve. If you are already a VTEX customer and wish to adopt this functionality for your business, please contact <a href="https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ">Commercial Support</a>. If you are not yet a customer but are interested in this solution, please fill out the <a href="https://vtex.com/us-en/contact/">contact form</a>.</p>
-</div>
+>ℹ️ VTEX Ad Network is in beta, which means that we are working to improve. If you are already a VTEX customer and wish to adopt this functionality for your business, please contact [Commercial Support](https://help.vtex.com/en/tracks/support-at-vtex--4AXsGdGHqExp9ZkiNq9eMy/3KQWGgkPOwbFTPfBxL7YwZ). If you are not yet a customer but are interested in this solution, please fill out the [contact form](https://vtex.com/us-en/contact/).
 
 [VTEX Ad Network (Beta)](https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur) allows you to advertise your products on VTEX stores that have them listed in their catalog.
 
@@ -35,9 +33,7 @@ If you're already a **VTEX Ad Network** advertiser, check this article to learn 
 
 Follow the steps below to create a [VTEX Ad Network campaign](https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#campaigns):
 
-<div class = "alert alert-info">
-VTEX currently offers a single ad format: search results. Learn more about this <a href="https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#ad-format">ad format</a>.
-</div>
+>ℹ️ VTEX currently offers a single ad format: search results. Learn more about this [ad format](https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#ad-format).
 
 1. On VTEX Admin, go to **Storefront > Ad Network > Campaigns**.
 2. Click `Create campaign`.
@@ -123,9 +119,7 @@ Below you will find a table with details about each campaign:
 - **Budget:** Total budget.
 - **Remaining:** Budget still available at the moment.
 
-<div class = "alert alert-info">
-Learn more about <a href="https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#attribution-window">sales attribution to ads</a>.
-</div>
+>ℹ️ Learn more about [sales attribution to ads](https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#attribution-window).
 
 You can filter the table data using the following options:
 
@@ -155,7 +149,5 @@ You'll find a table below the aggregated data detailing each product's performan
 - **ROAS:** Return on advertising spend.
 - **Remaining:** Budget still available at the moment.
 
-<div class = "alert alert-info">
-Learn more about <a href="https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#attribution-window">sales attribution to ads</a>.
-</div>
+>ℹ️ Learn more about [sales attribution to ads](https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#attribution-window).
 

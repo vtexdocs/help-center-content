@@ -14,9 +14,7 @@ trackId: 1z9kBm12oBPyVNDo1ivVc2
 trackSlugES: habilitar-recomendacion-de-producto
 ---
 
-<div class = "alert alert-danger">
-El cambio en la configuración de recomendaciones de productos en inStore, explicado en este artículo, implica cambiar los archivos <code>checkout-instore-custom.js</code> y <code>checkout-instore-custom.css</code>. Esta operación solo debe ser realizada por personas con experiencia en programación. Cambios incorrectos en estos archivos pueden causar errores críticos.
-</div>
+>❗ El cambio en la configuración de recomendaciones de productos en inStore, explicado en este artículo, implica cambiar los archivos `checkout-instore-custom.js` y `checkout-instore-custom.css`. Esta operación solo debe ser realizada por personas con experiencia en programación. Cambios incorrectos en estos archivos pueden causar errores críticos.
 
 Por defecto, inStore muestra una lista de productos sugeridos al vendedor en dos etapas del pedido:
 - En el carrito

@@ -92,9 +92,7 @@ Primero, debe validar cada una de las URL deseadas. Una vez que este paso se com
 
 Finalmente, es necesario importar este archivo al sistema de VTEX a través de Postman - herramienta de gestión de [APIs](https://help.vtex.com/es/tutorial/introduccion-a-las-apis-vtex--3SjAqQ0BeUqu2ge8AiIkmW "APIs").
 
-<div class = "alert alert-warning">
-<strong>Importante:</strong> solo puede hacerse esta validación de un dominio a la vez. Esto significa que si su tienda usa 10 dominios diferentes, el proceso tendrá que repetirse 10 veces.
-</div>
+>⚠️ **Importante:** solo puede hacerse esta validación de un dominio a la vez. Esto significa que si su tienda usa 10 dominios diferentes, el proceso tendrá que repetirse 10 veces.
 
 Verifique las instrucciones:
 

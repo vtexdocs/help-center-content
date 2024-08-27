@@ -15,7 +15,7 @@ legacySlug: configuring-synonyms
 subcategory: BBzMtJan1UTxC9QZODnlN
 ---
 
-<div class = "alert alert-info"> We recommend using <a href="https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV">Synonyms</a> instead of <a href="https://help.vtex.com/en/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu?&utm_source=autocomplete">Substitute Words</a> to associate words with products, as synonyms allow you to manage terms per product in a more scalable way. Contact our <a href="https://support.vtex.com/hc/pt-br/requests">Support team</a> for more information.</div>
+>ℹ️ We recommend using [Synonyms](https://help.vtex.com/en/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZV) instead of [Substitute Words](https://help.vtex.com/en/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu?&utm_source=autocomplete) to associate words with products, as synonyms allow you to manage terms per product in a more scalable way. Contact our [Support team](https://support.vtex.com/hc/pt-br/requests) for more information.
 
 There are two ways to set up synonyms in VTEX Admin: [individually](#creating-synonyms-individually) or by [importing a spreadsheet in CSV format](#importing-csv-spreadsheet). If you need to register synonyms in bulk, we recommend using the spreadsheet. See the instructions for each configuration form in the following sections.
 

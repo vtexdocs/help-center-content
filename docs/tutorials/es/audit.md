@@ -38,9 +38,7 @@ Para consultar un evento utilizando los filtros disponibles en Audit, sigue esto
 2. En el menú **Aplicación** dentro de la sección **Filtros**, selecciona la aplicación relacionada con la consulta.
 3. En el menú **Fecha**, escoge una de las fechas predefinidas para la consulta. Si prefieres definir el intervalo de fechas exacto, activa la opción de usar una fecha **Personalizada **y selecciona la fecha de **Inicio** y **Fin** para la consulta.
 
-   <div class= "alert alert-info">
-     <p>Solo se almacenan los registros de los últimos tres meses.</p>
-   </div>
+   >ℹ️ Solo se almacenan los registros de los últimos tres meses.
 
 4. Si lo desea, añada un filtro por Acción. Para ello, en el campo situado junto a `Acción debe ser`, escriba el nombre de la acción y pulse `Enter`. Puede introducir más de un valor pulsando `Enter` después de cada selección. Compruebe el nombre de cada acción en [Eventos disponibles en Audit](https://help.vtex.com/es/tutorial/eventos-disponibles-en-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
 5. Puedes agregar filtros más específicos para consultar eventos con más precisión haciendo clic en el botón `Agregar filtro`.
@@ -58,9 +56,7 @@ Para consultar un evento utilizando los filtros disponibles en Audit, sigue esto
 
     Consulta la sección [Resultados](#resultados) para entender la presentación de los eventos.
 
-<div class= "alert alert-warning">
-  <p>Los resultados de consulta corresponden exactamente al contenido ingresado en la casilla del filtro. Para evitar resultados inesperados, comprueba que no se hayan ingresado espacios adicionales en los términos de consulta.</p>
-</div>
+>⚠️ Los resultados de consulta corresponden exactamente al contenido ingresado en la casilla del filtro. Para evitar resultados inesperados, comprueba que no se hayan ingresado espacios adicionales en los términos de consulta.
 
 Si lo deseas, puedes compartir la consulta con otro usuario haciendo clic en `Compartir consulta` en la parte superior derecha de la página. El enlace a la búsqueda de Audit se copiará en su portapapeles.
 
@@ -131,7 +127,5 @@ Esta pestaña contiene la siguiente información:
 | Periodo | Fecha de inicio y fin del periodo seleccionado para la consulta. |
 | Rehacer consulta | Botón que permite repetir la consulta. |
 
-<div class= "alert alert-warning">
-  <p>Solo se almacenan 50 consultas en la pestaña <strong>Últimas consultas</strong>. Si deseas guardar consultas por encima de límite, agrégalas a los favoritos de tu navegador.</p>
-</div>
+>⚠️ Solo se almacenan 50 consultas en la pestaña **Últimas consultas**. Si deseas guardar consultas por encima de límite, agrégalas a los favoritos de tu navegador.
 

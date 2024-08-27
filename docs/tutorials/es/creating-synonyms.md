@@ -15,7 +15,7 @@ legacySlug: configurar-sinonimos
 subcategory: BBzMtJan1UTxC9QZODnlN
 ---
 
-<div class = "alert alert-info"> Recomendamos usar <a href="https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZ">Sinónimos</a> en lugar de <a href="https://help.vtex.com/es/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu?&utm_source=autocomplete">Palabras sustitutas</a> para asociar palabras con productos, ya que los sinónimos permiten gestionar los términos por producto de una forma más escalable. Para más información, ponte en contacto con <a href="https://support.vtex.com/hc/es/requests">nuestro equipo de soporte</a>. </div>
+>ℹ️ Recomendamos usar [Sinónimos](https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb/1pxAWPEglBey1UFdvcetZ) en lugar de [Palabras sustitutas](https://help.vtex.com/es/tutorial/otimizar-as-buscas-com-palavras-substitutas--32FqSsl5VuQyiIMEc02Uwu?&utm_source=autocomplete) para asociar palabras con productos, ya que los sinónimos permiten gestionar los términos por producto de una forma más escalable. Para más información, ponte en contacto con [nuestro equipo de soporte](https://support.vtex.com/hc/es/requests).
 
 Hay dos formas de configurar sinónimos en VTEX Admin: [individualmente](#crear-sinonimos-individualmente) o [importando una hoja de cálculo en formato CSV](#). Si necesita registrar sinónimos en bloque, le recomendamos que utilice la hoja de cálculo. Consulte las instrucciones para cada método de configuración en las secciones siguientes.
 

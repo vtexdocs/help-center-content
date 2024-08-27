@@ -51,6 +51,4 @@ The Conversions API is designed to create a direct connection between your marke
 - Improved measurement of marketing data.
 - Increased data control.
 
-<div class = "alert alert-info">
-Learn more in the Facebook documentation <a href= "https://www.facebook.com/business/help/2041148702652965?locale=en_US">About Conversions API</a>.
-</div>
+>ℹ️ Learn more in the Facebook documentation <a href= "https://www.facebook.com/business/help/2041148702652965?locale=en_US">About Conversions API</a>.

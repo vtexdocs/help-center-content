@@ -39,9 +39,7 @@ The **Unique Subscriptions** section allows you to:
 
 ### Subscription Orders
 
-<div class = "alert alert-info">
-You can only access information from orders created in the last two years, and that same period is valid for customers through <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>.
-</div>
+>ℹ️ You can only access information from orders created in the last two years, and that same period is valid for customers through [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 The **Subscription Orders** section allows you to:
 

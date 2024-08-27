@@ -33,9 +33,7 @@ Depois de criar sua conta na Shopee, você estará apto(a) para realizar as segu
 - [Gerenciar produtos](#gerenciar-produtos)
 - [Gerenciamento de pedidos da Shopee na plataforma VTEX](#gerenciamento-de-pedidos-da-shopee-na-plataforma-vtex)
 
-<div class = "alert alert-info">
-A integração com a Shopee não consegue integrar pedidos de produtos cujo os anúncios já existem na Shopee. A partir da ativação da integração, os pedidos que serão fechados na Shopee, serão integrados na VTEX.
-</div>
+>ℹ️ A integração com a Shopee não consegue integrar pedidos de produtos cujo os anúncios já existem na Shopee. A partir da ativação da integração, os pedidos que serão fechados na Shopee, serão integrados na VTEX.
 
 ## Configurar política comercial para Shopee
 
@@ -52,9 +50,7 @@ Só será necessário [configurar uma política comercial para marketplace](http
 
 Para [contratar políticas comerciais adicionais](https://help.vtex.com/pt/tutorial/contratacao-de-politica-comercial-adicional--61vuFOw4yGh6nwSmkLJL1X), basta psolicitar via ticket em nosso [Suporte](https://help.vtex.com/pt/support) selecionando a opção **Comercial** e o tipo de solicitação `Criação de Política Comercial`.
 
-<div class = "alert alert-info">
-A integração com a Shopee não é um <a href="https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro">conector certificado (parceiro)</a> da VTEX, fazendo que a contratação de política comercial adicional não seja isenta de taxas.
-</div>
+>ℹ️ A integração com a Shopee não é um [conector certificado (parceiro)](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#integrado-a-conector-certificado-parceiro) da VTEX, fazendo que a contratação de política comercial adicional não seja isenta de taxas.
 
 ## Definir Doca e Estoque
 
@@ -184,9 +180,7 @@ Para enviar os seus produtos para a Shopee, você deverá:
 1. [Mapear as categorias dos produtos.](#mapear-categorias)
 2. [Mapear os atributos dos produtos.](#mapear-atributos)
 
-<div class = "alert alert-info">
-Seus produtos precisam ter o <a href="https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">Estoque</a> e <a href="https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP">Preço</a> configurados antes de enviá-los ao marketplace.
-</div>
+>ℹ️ Seus produtos precisam ter o [Estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) e [Preço](https://help.vtex.com/pt/tracks/precos-101--6f8pwCns3PJHqMvQSugNfP) configurados antes de enviá-los ao marketplace.
 
 ### Mapear categorias
 

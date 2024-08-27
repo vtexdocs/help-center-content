@@ -29,8 +29,6 @@ Para calcular los ingresos totales de la planilla, sigue los pasos a continuaci�
 4. Quite todos los valores duplicados de la segunda columna (__Order__). Esto debe hacerse porque, en los casos de compras de más de un SKU, se generan varias líneas para el mismo pedido - una para cada SKU.
 5. Agregue los valores de la columna __Total Value__. En esta columna queda el valor total del pedido (es decir, ya considerando todos los SKUs del carrito).
 
-<div class = "alert alert-info">
-La suma de los valores de la columna Total Value (después de la eliminación de los pedidos duplicados) es el ingreso total obtenido con los pedidos seleccionados en la planilla.
-</div>
+>ℹ️ La suma de los valores de la columna Total Value (después de la eliminación de los pedidos duplicados) es el ingreso total obtenido con los pedidos seleccionados en la planilla.
 
 Para entender todas las columnas de la planilla, vea el artículo [Informe de pedidos](https://help.vtex.com/es/tutorial/planilha-de-pedidos--31m1ewsmsEe0WS4So2aGMY).

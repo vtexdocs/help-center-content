@@ -19,9 +19,7 @@ Existem cenários em que os clientes podem solicitar o cancelamento de um pedido
 
 >❗ Uma vez que o pedido é cancelado, não é mais possível alterar o status do pedido.
 
-<div class = "alert alert-warning">
-Não é possível <a href="https://help.vtex.com/pt/tutorial/como-cancelar-pedido--tutorials_186">cancelar pedidos</a> que já tenham sido <a href="https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe">faturados parcialmente</a>. Caso o cliente deseje substituir ou remover itens do pedido, é possível <a href="https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190">alterar o pedido</a>.
-</div>
+>⚠️ Não é possível [cancelar pedidos](https://help.vtex.com/pt/tutorial/como-cancelar-pedido--tutorials_186) que já tenham sido [faturados parcialmente](https://help.vtex.com/pt/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Caso o cliente deseje substituir ou remover itens do pedido, é possível [alterar o pedido](https://help.vtex.com/pt/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
 ## Cancelamento no prazo de carência
 
@@ -29,9 +27,7 @@ Ocorre quando o cliente solicita cancelamento no [tempo carência](https://help.
 
 * Essa ação é feita pelo cliente em __Meus pedidos__, ao clicar em `Solicitar cancelamento do pedido`.
 
-<div class = "alert alert-info">
-Quando o cliente solicita o cancelamento do pedido durante o prazo de carência, a notificação desta ação é enviada somente para o usuário com <a href="https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc">perfil de acesso</a> de Titular da conta (usuário master).
-</div>
+>ℹ️ Quando o cliente solicita o cancelamento do pedido durante o prazo de carência, a notificação desta ação é enviada somente para o usuário com [perfil de acesso](https://help.vtex.com/pt/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) de Titular da conta (usuário master).
 
 ## Cancelamento aprovado pelo lojista
 

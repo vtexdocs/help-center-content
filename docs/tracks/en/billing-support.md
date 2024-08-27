@@ -26,9 +26,7 @@ VTEX is committed to ensuring compliance with the procedures and policies for pa
 
 - [Accounts Payable - International](https://help.vtex.com/en/tutorial/accounts-payable-international--3yea9sIlsA0KgUC28ASCGs): Practices to follow for all payments to suppliers related to the accounts payable procedures of VTEX branches outside Brazil.
 
-<div class = "alert alert-info">
-To check the list of VTEX international offices and to find out in which country the invoice is issued, see the <a href="https://help.vtex.com/en/tutorial/names-of-vtex-branches-worldwide--zg05n6OIOZOEmLW7dcq9z">Names of VTEX branches worldwide</a> article.
-</div>
+>ℹ️ To check the list of VTEX international offices and to find out in which country the invoice is issued, see the [Names of VTEX branches worldwide](https://help.vtex.com/en/tutorial/names-of-vtex-branches-worldwide--zg05n6OIOZOEmLW7dcq9z) article.
 
 Revenue refers to orders with the `Approved orders` status on the [Order Details page](https://help.vtex.com/en/tutorial/order-details-page--2Y75n54Cc9VizrlG1N6ZNl). Once an order is financially approved, the invoice reflects the total amount, including shipping and taxes. This is regardless of subsequent cancellations due to using the platform's infrastructure.
 
@@ -46,6 +44,4 @@ After the [first access](https://help.vtex.com/en/tracks/vtex-store-overview--eS
 
 To make these changes, you need to [open a ticket to billing support](https://help.vtex.com/en/tutorial/opening-tickets-to-vtex-support--16yOEqpO32UQYygSmMSSAM#financial), indicating the type of change you need.
 
-<div class = "alert alert-info">
-For more information on how to request an SLA verification and the discounts granted for SLA violations, read the <a href="https://help.vtex.com/en/tutorial/how-to-request-sla-verification--3L99VeoLhYEwMqqkWKu86i">How to request a platform SLA verification? </a>
-</div>
+>ℹ️ For more information on how to request an SLA verification and the discounts granted for SLA violations, read the [How to request a platform SLA verification? ](https://help.vtex.com/en/tutorial/how-to-request-sla-verification--3L99VeoLhYEwMqqkWKu86i)

@@ -37,9 +37,7 @@ Você acompanha em tempo real quanto da capacidade de cada dia foi utilizada e p
 
 Também é possível [aumentar a capacidade operacional](#aumentar-capacidade-operacional) da localidade pela página de detalhes.
 
-<div class = "alert alert-info">
-Para ver todas as ações que você pode realizar com localidades, veja o artigo <a href="https://help.vtex.com/pt/tutorial/modulo-localidades--2thSYLMAS8KAd8V4XuBLSy">Módulo Localidades</a>.
-</div>
+>ℹ️ Para ver todas as ações que você pode realizar com localidades, veja o artigo [Módulo Localidades](https://help.vtex.com/pt/tutorial/modulo-localidades--2thSYLMAS8KAd8V4XuBLSy).
 
 ## Ver histórico
 

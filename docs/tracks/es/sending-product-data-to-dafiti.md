@@ -62,9 +62,7 @@ La pestaña *Categories* de la plantilla de mapeo tiene dos columnas para rellen
 - **VTEXCategoryId:** ID de la categoría en VTEX. El ID de la categoría se encuentra al lado del nombre de la categoría al navegar por el árbol de categorías en el Admin VTEX, en *Productos > Catálogo > Categorías*.
 - **DafitiCategoryId:**  ID de la categoría en Dafiti. Debes buscar la mejor equivalencia posible del producto que estás mapeando en la plantilla de consulta de Dafiti.
 
-<div class = "alert alert-info">
-Puedes mapear una categoría de VTEX en varias categorías de Dafiti. Para hacerlo, debes separar los ID en la columna de Dafiti con comas. En ese caso, todos los productos de esa categoría en VTEX se relacionarán con las categorías seleccionadas en Dafiti.
-</div>
+>ℹ️ Puedes mapear una categoría de VTEX en varias categorías de Dafiti. Para hacerlo, debes separar los ID en la columna de Dafiti con comas. En ese caso, todos los productos de esa categoría en VTEX se relacionarán con las categorías seleccionadas en Dafiti.
 
 ### Attributenames
 

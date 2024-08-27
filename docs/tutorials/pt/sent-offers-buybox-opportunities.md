@@ -28,9 +28,7 @@ Um exemplo de oportunidade é a funcionalidade de Catálogo MeLi. O Catálogo Me
 
 As *Oportunidades* acompanham a presença de um anúncio nas diferentes páginas do módulo **Gerenciamento de anúncios**, como será visto nas imagens a seguir.
 
-<div class = "alert alert-info">
-O <b>Gerenciamento de anúncios</b> permite acompanhar anúncios com o <a href="https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Livre Classic</a>, <a href="https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq">Mercado Livre Premium</a>, <a href="https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm">Netshoes</a> e <a href="https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-um-marketplace-vtex">marketplaces VTEX</a>. Para conectores que desejam integrar via API, existe o <a href="https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors">Guia de integração do Gerenciamento de anúncios</a>.
-</div>
+>ℹ️ O **Gerenciamento de anúncios** permite acompanhar anúncios com o [Mercado Livre Classic](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), [Mercado Livre Premium](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq), [Netshoes](https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) e [marketplaces VTEX](https://help.vtex.com/pt/tutorial/estrategias-de-marketplace-na-vtex--tutorials_402#ser-um-marketplace-vtex). Para conectores que desejam integrar via API, existe o [Guia de integração do Gerenciamento de anúncios](https://developers.vtex.com/vtex-rest-api/docs/sent-offers-integration-guide-connectors).
 
 ## Listagem de Anúncios
 

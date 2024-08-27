@@ -19,9 +19,7 @@ When you export an order report on the [All Orders](https://help.vtex.com/en/tut
 
 Each row in the spreadsheet refers to a [SKU](https://help.vtex.com/en/tutorial/o-que-e-um-sku--1K75s4RXAQyOuGUYKMM68u). For example, if an order contains 3 SKUs, it will be listed in 3 rows of the report, each dedicated to data of one SKU.
 
-<div class = "alert alert-info">
-The order report link is available for download for six hours.
-</div>
+>ℹ️ The order report link is available for download for six hours.
 
 Each column corresponds to specific information, as described below.
 

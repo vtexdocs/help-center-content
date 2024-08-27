@@ -47,9 +47,7 @@ To create a Price Divergence rule, the user must have a Super Admin (Owner) or O
 
 You can track orders integrated using the Price Divergence rule in the VTEX Admin by clicking on **Orders > [All Orders](https://help.vtex.com/en/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi)**.
 
-<div class = "alert alert-info">
-It is important to regularly track orders in the <b>Orders</b> module. Orders that need to be manually approved remain in pending status until being approved by an authorized user.
-</div>
+>ℹ️ It is important to regularly track orders in the **Orders** module. Orders that need to be manually approved remain in pending status until being approved by an authorized user.
 
 ### Learn more
 

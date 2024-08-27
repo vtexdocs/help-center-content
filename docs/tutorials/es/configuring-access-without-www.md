@@ -31,9 +31,7 @@ El dominio principal de tu tienda debe contener un subdominio, que puede ser o n
 - `tienda.mimarca.com` - Dominio principal válido.
 - `mitienda.com` - No puede ser su dominio principal ya que no contiene un subdominio, pero puede ser redireccionado.
 
-<div class = "alert alert-info">
-  Obtenga más información sobre como <a href="https://help.vtex.com/es/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450">configurar el dominio principal de su tienda</a>.
-</div>
+>ℹ️ Obtenga más información sobre como [configurar el dominio principal de su tienda](https://help.vtex.com/es/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450).
 
 Esta redirección se puede realizar de muchas formas. El uso de `htaccess` en el servidor es una de las más conocidas, pero es muy técnica y depende de otros factores.
 

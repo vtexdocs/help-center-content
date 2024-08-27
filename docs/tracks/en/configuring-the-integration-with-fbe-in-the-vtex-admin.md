@@ -22,9 +22,7 @@ To start configuring the integration, please follow the steps below:
 2. By default, the fields related to **region and currency** and the **URL** of your VTEX store will be filled in. Check the information and, if necessary, make changes.
 3. Unless you have a custom Facebook Pixel implementation, keep the option_ Enable Pixel configuration_ enabled.
 
-  <div class = "alert alert-info">
-Regardless of whether you have installed the <a href= "https://apps.vtex.com/vtex-facebook-pixel/p">Facebook Pixel app</a>, the recommendation is that the <b>Enable Pixel configuration</b> option remains enabled. The exception is when you already use the Google Tag Manager. More information on <a href= "https://help.vtex.com/en/tracks/integration-with-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D/434Z1iWnaa0zbOMDyr6oi#facebook-pixel">Facebook Pixel</a>.
-</div>
+  >ℹ️ Regardless of whether you have installed the <a href= "https://apps.vtex.com/vtex-facebook-pixel/p">Facebook Pixel app</a>, the recommendation is that the **Enable Pixel configuration** option remains enabled. The exception is when you already use the Google Tag Manager. More information on <a href= "https://help.vtex.com/en/tracks/integration-with-facebook-business-extension--2hS3ANSZ7vlHCcba4h7k8D/434Z1iWnaa0zbOMDyr6oi#facebook-pixel">Facebook Pixel</a>.
 
 4. Click on `CONTINUE WITH FACEBOOK`.
 5. The next screen asks for your Facebook account. Fill in your information and click on `Log in`. If you have the [Facebook integration](https://help.vtex.com/en/tracks/integracao-com-o-facebook--7h8KvIC4DbRRc8VlyJ8PFc) configured, your data will already be saved.

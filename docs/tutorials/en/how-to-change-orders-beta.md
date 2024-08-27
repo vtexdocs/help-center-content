@@ -77,9 +77,7 @@ On the order details page, you can do the following:
 - [Replace items](#replacing-items)
 - [Change weight](#changing-weight)
 
-<div class = "alert alert-info">
-You can make a single change to the order or combine several at once. There is no limit to how many times an order can be changed. Read the <a href="https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ">How Change order works (Beta)</a> article to learn more.
-</div>
+>ℹ️ You can make a single change to the order or combine several at once. There is no limit to how many times an order can be changed. Read the [How Change order works (Beta)](https://help.vtex.com/en/tutorial/how-change-order-works-beta--56TO0bOFXsfmpc7YZ3wIUZ) article to learn more.
 
 ### Adding items
 

@@ -18,9 +18,7 @@ internalReference:
 
 ## Sumário
 
-<div class = "alert alert-warning">
-  <strong>Atenção</strong>: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse <a href = "https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nossa track</a>.
-</div>
+>⚠️ **Atenção**: a VTEX apresenta duas opções da busca - a busca VTEX e o VTEX Intelligent Search. Esse artigo se refere à busca VTEX. Para saber mais sobre o aplicativo VTEX Intelligent Search acesse <a href = "https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nossa track</a>.
 
 Ao fazer qualquer tipo de busca (categoria, marca, por termo etc), o controle searchNavigator exibe, normalmente na lateral, todos os filtros possíveis para o resultado. Do lado de cada filtro, o sistema exibe o totalizador, ou seja, a quantidade de produtos que existe para cada opção. Eventualmente esse totalizador não apresenta um valor correto e, ao clicar na opção, o resultado exibe mais ou menos produtos do que a quantidade indicada no filtro.
 

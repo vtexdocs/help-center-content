@@ -52,9 +52,7 @@ La información de la lista se describe en la siguiente tabla:
 
 La caja de búsqueda que tiene el ícono de lupa <i class="fas fa-search"></i> te permite buscar políticas de envío por nombre. Ingresar un carácter en la barra de búsqueda activa la búsqueda inmediatamente. Para limpiar la búsqueda, haz clic en el ícono de cerrar <i class="far fa-times-circle"></i>.
 
-<div class = "alert alert-info">
-Si la búsqueda no devuelve ningún resultado, comprueba la ortografía del término o si hay algún filtro seleccionado.
-</div>
+>ℹ️ Si la búsqueda no devuelve ningún resultado, comprueba la ortografía del término o si hay algún filtro seleccionado.
 
 ## Filtrar políticas de envío
 

@@ -19,9 +19,11 @@ As of __27 April 2020__, the VTEX Checkout UI will receive an important change: 
 
 This change aims to comply with data protection laws, keeping your store in line with recent changes in legislation.
 
-<div class = "alert alert-warning">
-<strong>Attention:</strong> if your store currently performs any customization of the VTEX Checkout that changes the behavior of the newsletter flag (for example, clearing the flag via script), the change we are announcing may affect the expected behavior. In cases where currently the customization via script unchecks the flag, for example, it may be that now it will start doing just the opposite, i.e., checking the flag.<br><br>So, if your store has implemented any customization that changes the standard behavior of the newsletter flag, it's important to ensure that your development team is aware of the change and makes adjustments if necessary.
-</div>
+>⚠️ **Attention:** if your store currently performs any customization of the VTEX Checkout that changes the behavior of the newsletter flag (for example, clearing the flag via script), the change we are announcing may affect the expected behavior. In cases where currently the customization via script unchecks the flag, for example, it may be that now it will start doing just the opposite, i.e., checking the flag.
+>
+> 
+>
+> So, if your store has implemented any customization that changes the standard behavior of the newsletter flag, it's important to ensure that your development team is aware of the change and makes adjustments if necessary.
 
 - __Date and time of change__: April 27, 2020, at 11am (Brazil Time).
 - __What you need to do__: if your store customizes the Checkout newsletter flag (and only in this case), your development team should check if the change will impact the flag's behavior.

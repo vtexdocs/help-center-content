@@ -22,9 +22,7 @@ Este artículo contiene la siguiente información:
 - Una [tabla con todos los status mostrados en el Admin y las APIs](https://help.vtex.com/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196#tabla-de-status-de-los-pedidos).
 - Los [casos en que se produce la cancelación de un pedido](https://help.vtex.com/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196#cancelacion-del-pedido).
 
-<div class = "alert alert-info">
-Para saber cómo seguir el flujo de un pedido, consulta el artículo <a href="https://help.vtex.com/es/tutorial/acompanhamento-de-pedidos--et0Ei7F3bjcrEmVAR2kKS">Seguimiento de pedidos</a>.
-</div>
+>ℹ️ Para saber cómo seguir el flujo de un pedido, consulta el artículo [Seguimiento de pedidos](https://help.vtex.com/es/tutorial/acompanhamento-de-pedidos--et0Ei7F3bjcrEmVAR2kKS).
 
 ## Tipos de flujo
 
@@ -66,9 +64,7 @@ Este es el flujo del pedido visto por la tienda responsable de enviar los produc
 
 3. El status cambia automáticamente a `Periodo de cancelación`. El pedido permanecerá en esta etapa hasta que haya transcurrido el [tiempo de espera para cancelar configurado](https://help.vtex.com/es/tutorial/configuracoes-gerais/#pedidos). 
 
-  <div class = "alert alert-info">
-El Periodo de cancelación existe para que el cliente pueda cancelar la compra sin la aprobación de la tienda en un determinado periodo de tiempo previamente configurado. Después de este periodo, la tienda debe autorizar la solicitud de cancelación del cliente.
-</div>
+  >ℹ️ El Periodo de cancelación existe para que el cliente pueda cancelar la compra sin la aprobación de la tienda en un determinado periodo de tiempo previamente configurado. Después de este periodo, la tienda debe autorizar la solicitud de cancelación del cliente.
 
 4. En esta etapa hay dos posibilidades:
     * **Pedido no cancelado:** si la ventana de cancelación vence y el cliente no solicita la cancelación de la compra, el status pasa a `Listo para preparación`. Este status indica al _seller_ que el pedido ya debe ser preparado para el envío.
@@ -121,9 +117,7 @@ Cuando se solicita la cancelación de un pedido, la plataforma procesa automáti
 
 No es posible [cancelar](https://help.vtex.com/es/tutorial/como-cancelar-pedido--tutorials_186) pedidos [parcialmente facturados](https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/q9GPspTb9cHlMeAZfdEUe). Si el cliente desea sustituir o remover ítems del pedido, es posible [modificar el pedido](https://help.vtex.com/es/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190).
 
-<div class = "alert alert-info">
-Ve más información sobre la cancelación y el reembolso en los artículos <a href="https://help.vtex.com/pt/faq/por-que-meu-pedido-cancelado-foi-cobrado-na-fatura-do-cliente">¿Por qué se cobró en la factura del cliente mi pedido cancelado?</a> y <a href="https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#reembolsocancelamento">Reembolso o cancelación</a>.
-</div>
+>ℹ️ Ve más información sobre la cancelación y el reembolso en los artículos [¿Por qué se cobró en la factura del cliente mi pedido cancelado?](https://help.vtex.com/pt/faq/por-que-meu-pedido-cancelado-foi-cobrado-na-fatura-do-cliente) y [Reembolso o cancelación](https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m#reembolsocancelamento).
 
 Mientras se realiza el proceso de cancelación, el status permanece en `Cancelando`. Una vez completada la cancelación, el status del pedido cambia a `Cancelado`. 
 
@@ -368,7 +362,5 @@ A continuación se muestra la tabla con los status de los pedidos. La informaci�
 
 <br></br>
 
-<div class = "alert alert-info">
-Los status marcados con asteriscos (*) en la tabla no permiten cambio o cancelación, ya que están bajo la acción de la plataforma.
-</div>
+>ℹ️ Los status marcados con asteriscos (*) en la tabla no permiten cambio o cancelación, ya que están bajo la acción de la plataforma.
 

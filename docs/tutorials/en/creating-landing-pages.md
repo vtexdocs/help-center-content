@@ -39,17 +39,11 @@ In the Admin, you can create customized landing pages, such as pages for special
 
 >⚠️ To avoid conflicts and protect the integrity of the system, changing an existing URL route is not allowed. If you need to change a URL, we recommend creating a new page with the desired path and deactivating the old one if necessary.
 
-<div class = "alert alert-info">
-<p>The five fields above have a direct impact on store hits and search engine results rankings. Before filling in the page metadata, keep SEO best practices in mind.
-</p>
-</div>
+>ℹ️ The five fields above have a direct impact on store hits and search engine results rankings. Before filling in the page metadata, keep SEO best practices in mind.
 
 4.Choose a template for your new landing page from the **Templates** dropdown menu.
 
-<div class = "alert alert-info">
-  <p>If you want to create a conditional template, click on <strong>Add Conditional Template</strong> and fill in the fields according to the desired conditions. Please note that the conditional template will only be displayed when one or all of the predefined conditions match in the interface.
-</p>
-</div>
+>ℹ️ If you want to create a conditional template, click on **Add Conditional Template** and fill in the fields according to the desired conditions. Please note that the conditional template will only be displayed when one or all of the predefined conditions match in the interface.
 
 5.Save your changes.
 

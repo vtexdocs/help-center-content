@@ -16,9 +16,7 @@ trackSlugPT: logistica-101
 
 O inventário é a funcionalidade de gerenciamento dos produtos disponíveis para venda. Depois que os[ produtos são cadastrados](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) no [catálogo](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/3rA2tTpIoEXdv2nzC27zxR), é preciso adicioná-los a um estoque da loja para que eles fiquem de fato disponíveis para venda. O módulo [Gerenciar inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139) é onde os itens do catálogo são vinculados a um estoque.
 
-<div class = "alert alert-info">
-Lembre-se de adicionar pelo menos um <a href="https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb">estoque</a> em sua loja antes de usufruir do <a href="https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139">Inventário</a>. 
-</div>
+>ℹ️ Lembre-se de adicionar pelo menos um [estoque](https://help.vtex.com/pt/tutorial/estoque--6oIxvsVDTtGpO7y6zwhGpb) em sua loja antes de usufruir do [Inventário](https://help.vtex.com/pt/tutorial/gerenciar-itens-em-estoque--tutorials_139).
 
 Com o inventário, o lojista também pode conferir:
 
@@ -31,9 +29,7 @@ Para inserir itens em massa no inventário, utilize a planilha de importação d
 
 Utilize o[ alerta de estoque crítico](https://help.vtex.com/pt/tutorial/configurar-o-alerta-de-estoque-critico--6FD0GHeQPCsKIMgkQ88SGu) para receber notificações de itens que estão próximos de serem esgotados.
 
-<div class = "alert alert-info">
-As configurações do inventário também podem ser feitas via  <a href="https://developers.vtex.com/vtex-rest-api/reference/inventory">API de inventário</a>.
-</div>
+>ℹ️ As configurações do inventário também podem ser feitas via  [API de inventário](https://developers.vtex.com/vtex-rest-api/reference/inventory).
 
 ### Saiba mais
 

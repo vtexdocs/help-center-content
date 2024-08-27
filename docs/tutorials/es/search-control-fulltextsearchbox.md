@@ -15,9 +15,7 @@ legacySlug: controle-de-busca-fulltextsearchbox
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class = "alert alert-warning">
-  <strong>Atención</strong>: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
-</div>
+>⚠️ **Atención**: VTEX presenta dos opciones de búsqueda - La búsqueda VTEX y VTEX Intelligent Search. Este artículo se refiere a la búsqueda VTEX. Para saber más sobre la aplicación VTEX Intelligent Search, consulte <a href = "https://help.vtex.com/es/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">nuestra guía</a>.
 
 El control `<vtex.cmc:fullTextSearchBox />`es responsable de generar la caja de búsqueda. Además del campo de búsqueda, el control renderiza un combo para restringir una búsqueda en un departamento. Tenemos abajo un ejemplo del control sin ninguna aplicación de css:
 

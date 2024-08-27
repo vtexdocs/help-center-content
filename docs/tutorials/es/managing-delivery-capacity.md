@@ -34,6 +34,4 @@ Una vez que haya seleccionado la política de envío y la fecha que se mostrará
 *   **Disponible:** cuántos ítems/pedidos están disponibles para programarse (cantidad de capacidad menos reservado) 
 *   **Status:** puede ser visible o no visible, dependiendo de si la ventana de entrega todavía está disponible. Si todavía está disponible, la ventana tendrá el status visible para sus clientes. 
 
-<div class = "alert alert-info">
-Puede hacer clic en <b>EDITAR POLÍTICA DE ENVÍO</b> para ser redirigido a la pantalla de edición de la política de envío seleccionada en el filtro Política de envío.
-</div>
+>ℹ️ Puede hacer clic en **EDITAR POLÍTICA DE ENVÍO** para ser redirigido a la pantalla de edición de la política de envío seleccionada en el filtro Política de envío.

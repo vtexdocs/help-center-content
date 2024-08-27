@@ -43,7 +43,7 @@ __Id do business manager__: ID da conta do __Business Manager__ do Facebook, que
 
 __URL do site da loja__: Preencha com o endereço da sua loja. Exemplo: `https://www.sualoja.com.br`. Este campo é usado para formar a URL completa do produto que é enviado.
 
-<div class = "alert alert-info">Todos os campos são obrigatórios para o pleno funcionamento da integração.</div>
+>ℹ️ Todos os campos são obrigatórios para o pleno funcionamento da integração.
 
 ## Autorização
 

@@ -43,9 +43,7 @@ Las siguientes soluciones se centran en la gestión del stock a través del Admi
 * **Actualizar recuento de stock:** en la fila correspondiente al SKU y almacén deseados, en la columna _Actualizar recuento_, ingresa el número de ítems disponibles para la venta y haz clic en `Guardar`. Este número debe ser positivo; lo contrario resultaría en un [stock negativo](https://help.vtex.com/es/faq/why-is-my-stock-negative--frequentlyAskedQuestions_159).
 * **Configurar stock ilimitado:** en la fila correspondiente al SKU y almacén deseados, en la columna Stock infinito, haz clic en el botón de activación y después en `Guardar`. Cuando se activa esta configuración, el ítem se considera siempre disponible para la venta y la tienda nunca presentará productos sin stock (agotados).
 
-<div class = "alert alert-info">
-Para realizar la configuración y que los productos sin stock (agotados) se muestren en tu storefront, accede al <b>Admin VTEX > Catálogo > Todos los productos</b> y en la página de configuración del producto, en la pestaña <b>Producto</b>, marca la opción <b>Sí</b> en el campo <i>Mostrar producto sin stock (agotado)</i>.
-</div>
+>ℹ️ Para realizar la configuración y que los productos sin stock (agotados) se muestren en tu storefront, accede al **Admin VTEX > Catálogo > Todos los productos** y en la página de configuración del producto, en la pestaña **Producto**, marca la opción **Sí** en el campo <i>Mostrar producto sin stock (agotado)</i>.
 
 ### Revisar la integración XML
 

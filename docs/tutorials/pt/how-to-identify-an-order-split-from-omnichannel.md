@@ -26,9 +26,7 @@ Quando é feito o split do pedido, um sufixo é adicionado ao código, como `-01
 
 > Exemplo: no ambiente do marketplace, o código do pedido com divisão é `527103869572-01` ou `v527103anml-01`. 
 
-<div class = "alert alert-info">
-O pedido realizado no marketplace tem um código identificador no ambiente dos sellers. Cada seller tem acesso restrito à sua própria parte do pedido e não dispõe de qualquer acesso aos pedidos de outros sellers.
-</div>
+>ℹ️ O pedido realizado no marketplace tem um código identificador no ambiente dos sellers. Cada seller tem acesso restrito à sua própria parte do pedido e não dispõe de qualquer acesso aos pedidos de outros sellers.
 
 O código identificador do pedido no ambiente do seller tem como base a mesma sequência usada no marketplace, com a adição do prefixo correspondente ao [ID do afiliado](https://help.vtex.com/pt/tutorial/o-que-e-afiliado--4bN3e1YarSEammk2yOeMc0), o código de três consoantes que identifica o seller no marketplace.
 

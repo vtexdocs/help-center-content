@@ -15,9 +15,7 @@ legacySlug: pagina-de-detalles-del-pedido-beta
 subcategory: 3VNOhxDrvYxJThhuJClrYZ
 ---
 
-<div class = "alert alert-info">
-Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de <a href="https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">Mi Cuenta</a>.
-</div>
+>ℹ️ Solo puedes acceder a la información de los pedidos creados en los últimos años. Este periodo también se aplica a los pedidos de los clientes a través de [Mi Cuenta](https://help.vtex.com/es/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh).
 
 La página **Detalles del pedido** permite ver toda la información sobre un pedido y gestionarlo en un solo lugar. Para ver la página, haz clic en **Pedidos > [Todos los pedidos](https://help.vtex.com/es/tutorial/todos-los-pedidos--2QTduKHAJMFIZ3BAsi6Pi)** y selecciona un pedido de la lista.
 
@@ -44,9 +42,7 @@ La página **Detalles del pedido** está dividida en bloques que agrupan informa
 
 Para más información sobre el status y el flujo del pedido, consulta el artículo [Flujo y status de pedidos](https://help.vtex.com/es/tutorial/fluxo-e-status-de-pedidos--tutorials_196).
 
-<div class = "alert alert-info">
-A continuación, se detallan todas las secciones posibles de la página <b>Detalles del pedido</b>, pero ten en cuenta que solo serán visibles las secciones que se aplican al pedido en cuestión.
-</div>
+>ℹ️ A continuación, se detallan todas las secciones posibles de la página **Detalles del pedido**, pero ten en cuenta que solo serán visibles las secciones que se aplican al pedido en cuestión.
 
 ## Barra superior
 
@@ -76,9 +72,7 @@ La información general del pedido se muestra en la parte superior de la página
   - Contacto (celular e email)    
 * **Entrega/Recogida:** datos del domicilio y del destinatario para realizar el envío a través de una transportadora o para que el cliente recoja el pedido de la tienda.    
 
-<div class = "alert alert-info">
-Haz clic en el ícono <i class="fas fa-chevron-right"></i> para ampliar el bloque.
-</div>
+>ℹ️ Haz clic en el ícono <i class="fas fa-chevron-right"></i> para ampliar el bloque.
 
 ### Status del pedido
 

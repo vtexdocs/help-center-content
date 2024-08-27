@@ -26,10 +26,8 @@ There are two ways to make a change to an order:
 
 You can edit order items provided they have not been invoiced yet. To add or remove an item or change its number, please follow the step-by-step instructions below.
 
-<div class = "alert alert-info">
-To edit the order, its status must be <code> Handling shipping</code> which is equivalent to the <code>handling</code> status in the <a href="https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/changes">API</a>.  Read our article <a href="https://help.vtex.com/en/tutorial/order-status-table-oms--frequentlyAskedQuestions_773">Order status table </a>to learn more.
-Check the <a href="https://help.vtex.com/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190#restrictions">Restrictions</a> section for the conditions for using the feature.
-</div>
+>ℹ️ To edit the order, its status must be ` Handling shipping` which is equivalent to the `handling` status in the [API](https://developers.vtex.com/docs/api-reference/orders-api#post-/api/oms/pvt/orders/-orderId-/changes).  Read our article [Order status table ](https://help.vtex.com/en/tutorial/order-status-table-oms--frequentlyAskedQuestions_773)to learn more.
+> Check the [Restrictions](https://help.vtex.com/en/tutorial/alteracao-de-itens-de-um-pedido-finalizado--tutorials_190#restrictions) section for the conditions for using the feature.
 
 1. In the VTEX Admin, go to **Orders > All Orders**, or type **All Orders** in the search bar at the top of the page.    
 2. Search for the order by using the search bar [or the filters](https://help.vtex.com/en/tutorial/como-filtrar-pedidos--tutorials_192) and select the desired order.    
@@ -55,6 +53,4 @@ When [changing or removing items from an order](https://help.vtex.com/en/tutoria
 
 The order total will be updated once the invoice is added, corresponding to what is captured by the VTEX payment gateway. The VTEX Payments system will automatically refund the customer if an item is returned.
 
-<div class = "alert alert-info">
-The partial invoices feature is available to all VTEX stores, but the partial settlement in the gateway is in beta. Besides, for partial invoices to trigger partial settlements in the transaction, it is necessary to use a connector with the <a href="https://help.vtex.com/en/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m">Payment Provider Protocol</a>. Legacy connectors do not support the functionality.
-</div>
+>ℹ️ The partial invoices feature is available to all VTEX stores, but the partial settlement in the gateway is in beta. Besides, for partial invoices to trigger partial settlements in the transaction, it is necessary to use a connector with the [Payment Provider Protocol](https://help.vtex.com/en/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). Legacy connectors do not support the functionality.

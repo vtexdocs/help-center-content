@@ -17,10 +17,8 @@ subcategory: 3PQwnyOcNyYgawy06oe6gE
 
 La reserva es una solución VTEX que impide que el mismo ítem se venda más de una vez. Una vez finalizada la compra, el ítem comprado se resta del _stock_ disponible y pasa internamente al status **Reservado**.
 
-<div class = "alert alert-info">
-En VTEX, Almacén es el lugar físico donde se almacenan los ítems. Para que se pueda identificar de qué almacén recogerán los ítems las transportadoras, los almacenes deben estar registrados en la plataforma. Consulta el artículo <a href="https://help.vtex.com/es/tutorial/almacen--6oIxvsVDTtGpO7y6zwhGpb">Almacén</a> para obtener más información. 
-<p>El stock es una lista de los ítems que tu tienda tiene en stock. Puedes añadir y hacer un seguimiento de los ítems disponibles en tu tienda a través de la Gestión del stock. Consulta el artículo <a href="https://help.vtex.com/es/tutorial/gestionar-items-en-inventario--tutorials_139">Gestión del stock</a> para obtener más información.
-</div>
+>ℹ️ En VTEX, Almacén es el lugar físico donde se almacenan los ítems. Para que se pueda identificar de qué almacén recogerán los ítems las transportadoras, los almacenes deben estar registrados en la plataforma. Consulta el artículo [Almacén](https://help.vtex.com/es/tutorial/almacen--6oIxvsVDTtGpO7y6zwhGpb) para obtener más información. 
+> <p>El stock es una lista de los ítems que tu tienda tiene en stock. Puedes añadir y hacer un seguimiento de los ítems disponibles en tu tienda a través de la Gestión del stock. Consulta el artículo [Gestión del stock](https://help.vtex.com/es/tutorial/gestionar-items-en-inventario--tutorials_139) para obtener más información.
 
 Después de ser vendido, un ítem pasa por los siguientes status en el_ stock _de tu tienda:
 
@@ -93,8 +91,6 @@ Cuando el administrador de la tienda o el ERP actualice la cantidad de ese ítem
 
 Como se ha descrito anteriormente, el status dado de baja en el stock resulta de la actualización del stock por parte del administrador de la tienda. Por lo tanto, no es posible ver este status en la plataforma. Solo puedes consultar la cantidad de ítems disponibles para la venta y el movimiento de los ítems a través de la [Gestión del stock](https://help.vtex.com/es/tutorial/gestionar-items-en-inventario--tutorials_139).
 
-<div class = "alert alert-info">
-Todos los status aquí descritos son internos y exclusivos de VTEX para el control de la venta de los ítems.
-<p>El status de la reserva es una consecuencia del status del pedido. Algunos cambios dependen de acciones de los compradores, y otros de actualizaciones manuales o del ERP.
-</div>
+>ℹ️ Todos los status aquí descritos son internos y exclusivos de VTEX para el control de la venta de los ítems.
+> <p>El status de la reserva es una consecuencia del status del pedido. Algunos cambios dependen de acciones de los compradores, y otros de actualizaciones manuales o del ERP.
 

@@ -17,9 +17,7 @@ subcategory: 7fTH6bP0C4IaM8qWi0kkQC
 
 Na experiência de compra, quando o consumidor insere sua localização no checkout, a plataforma VTEX analisa quais [estratégias de envio](https://help.vtex.com/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) atendem o pedido e apresenta ao consumidor as opções de envio disponíveis.
 
-<div class = "alert alert-info">
-Durante o fluxo de compra, na etapa da vitrine, quando o consumidor ainda não inseriu o seu endereço, os produtos que serão apresentados são aqueles pertencentes a sellers que tenham configurado a funcionalidade <a href="https://help.vtex.com/pt/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc">Region</a> ou <a href="https://help.vtex.com/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI">sellers abrangentes</a>, que são aqueles capazes de enviar pedidos para todas as regiões atendidas pela operação do marketplace.
-</div>
+>ℹ️ Durante o fluxo de compra, na etapa da vitrine, quando o consumidor ainda não inseriu o seu endereço, os produtos que serão apresentados são aqueles pertencentes a sellers que tenham configurado a funcionalidade [Region](https://help.vtex.com/pt/tutorial/configurar-preco-e-disponibilidade-de-skus-por-region--12ne58BmvYsYuGsimmugoc) ou [sellers abrangentes](https://help.vtex.com/pt/tutorial/seller-abrangente--5Qn4O2GpjUIzWTPpvLUfkI), que são aqueles capazes de enviar pedidos para todas as regiões atendidas pela operação do marketplace.
 
 Este artigo apresenta uma visão geral do cálculo de envio e está dividido nas seguintes seções:
 
@@ -34,9 +32,7 @@ Para determinar qual combinação de etapas logísticas configuradas pela loja s
 - **Entrega:** o consumidor recebe o pedido no endereço informado. 
 - **Retirada:** o consumidor busca o pedido em um [ponto de retirada](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R).
 
-<div class = "alert alert-info">
-Entrega e retirada possuem os mesmo critérios de seleção, existe apenas um critério adicional na retirada, que será abordado adiante.
-</div>
+>ℹ️ Entrega e retirada possuem os mesmo critérios de seleção, existe apenas um critério adicional na retirada, que será abordado adiante.
 
 A seleção de combinações logísticas acontece de acordo com os seguintes critérios, nesta ordem de aplicação:
 
@@ -64,9 +60,7 @@ A seleção de combinações logísticas acontece de acordo com os seguintes cri
   <li><a href="https://help.vtex.com/pt/tutorial/gerenciar-doca--7K3FultD8I2cuuA6iyGEiW#campos-de-cadastro">Docas prioritárias</a></li>
 </ul>
 <br>
-  <div class = "alert alert-info">
-Quando existe um empate entre docas, o critério de desempate é o overhead, que é o valor em dias para a escolha da doca mais vantajosa para determinado envio. Quanto menor o overhead, maiores são as chances de seleção da doca. Vale ressaltar que o overhead não é considerado no cálculo do tempo de envio.
-</div>
+  >ℹ️ Quando existe um empate entre docas, o critério de desempate é o overhead, que é o valor em dias para a escolha da doca mais vantajosa para determinado envio. Quanto menor o overhead, maiores são as chances de seleção da doca. Vale ressaltar que o overhead não é considerado no cálculo do tempo de envio.
 
 5. **Etapa exclusiva para envio do tipo retirada:** existe um passo adicional na seleção para analisar os [pontos de retirada](https://help.vtex.com/pt/tutorial/pontos-de-retirada--2fljn6wLjn8M4lJHA6HP3R). A plataforma VTEX cria uma lista com os pontos de retirada elegíveis, utilizando o critério menor distância entre o ponto de retirada e a localização do consumidor.
 
@@ -95,9 +89,7 @@ O cálculo do SLA é feito utilizando os seguintes campos e parâmetros:
 
 É possível obter uma estimativa do tempo de envio por meio do [Simulador de envio](https://help.vtex.com/pt/tutorial/simulador-de-envio--tutorials_144), sendo que a simulação considera as configurações das [estratégias de envio](https://help.vtex.com/pt/tutorial/estrategia-de-envio--58vLBDbjYVQzJ6rRc5QNz3) da loja VTEX.
 
-<div class = "alert alert-info">
-O resultado obtido com o <a href="https://help.vtex.com/pt/tutorial/simulador-de-envio--tutorials_144">Simulador de envio</a> é apenas aproximado, pois fatores determinantes são conhecidos somente no checkout, tais como disponibilidade de transportadora no horário da compra, tempo de confirmação do pagamento e resultado da <a href="https://help.vtex.com/pt/tutorial/selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa">seleção de sellers white label</a>.
-</div>
+>ℹ️ O resultado obtido com o [Simulador de envio](https://help.vtex.com/pt/tutorial/simulador-de-envio--tutorials_144) é apenas aproximado, pois fatores determinantes são conhecidos somente no checkout, tais como disponibilidade de transportadora no horário da compra, tempo de confirmação do pagamento e resultado da [seleção de sellers white label](https://help.vtex.com/pt/tutorial/selecao-de-sellers-white-label--3MemNQ4pKkWCpMdzI27AHa).
 
 ## Saiba mais	
 

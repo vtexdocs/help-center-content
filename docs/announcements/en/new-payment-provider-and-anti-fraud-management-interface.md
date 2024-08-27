@@ -31,6 +31,4 @@ The new payment and anti-fraud provider management page is now automatically ava
 
 Learn more about the new interface features in [Register payment and anti-fraud providers](https://help.vtex.com/en/tutorial/registering-gateway-affiliations--tutorials_444).
 
-<div class = "alert alert-warning">
-  The previous version of the affiliations management interface, available at <b>Store Settings > Payment > Settings > Gateway Affiliations</b>, will still be accessible until January 14, 2024.
-</div>
+>⚠️ The previous version of the affiliations management interface, available at **Store Settings > Payment > Settings > Gateway Affiliations**, will still be accessible until January 14, 2024.

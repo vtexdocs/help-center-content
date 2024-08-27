@@ -55,10 +55,8 @@ A configuração do conector é feita no Admin. Para realizá-la, siga as instru
 - **Client Secret:** código único utilizado para autenticação da integração.
 - **Mapeamento de Campos Customizados (Nome e descrição):**  Para utilizar esse mapeamento é necessário criar um campo customizado. Para saber como criar campos customizados, acesse a documentação [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/tutorial/criando-um-campo-de-produto--tutorials_106).  
 
-<div class = "alert alert-info">
-  O mapeamento de campos customizáveis está disponível apenas para <b>nome do produto</b> e <b>descrição do produto</b>.
-  <p><b>Exemplo de nome para o novo campo:</b> <code>DFT_ProductName</code> para nome do produto e <code>DFT_ProductDescription</code> para descrição do produto.</p>
-</div>  
+>ℹ️ O mapeamento de campos customizáveis está disponível apenas para **nome do produto** e **descrição do produto**.
+>   **Exemplo de nome para o novo campo:** `DFT_ProductName` para nome do produto e `DFT_ProductDescription` para descrição do produto.  
 
 Para o mapeamento funcionar, é necessário o seller seguir os seguintes passos:  
 

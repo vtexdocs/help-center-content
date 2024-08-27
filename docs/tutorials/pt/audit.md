@@ -38,9 +38,7 @@ Confira o passo a passo para buscar por um evento utilizando os filtros disponí
 2. Em **Filtros**, no menu **Aplicação**, selecione a aplicação relacionada à busca.
 3. No menu **Data**, escolha uma data pré-definida para a busca. Se preferir definir o exato intervalo de datas para a busca, ative a opção **Personalizada** e determine as datas de **Início** e **Fim** para a busca.
 
-   <div class= "alert alert-info">
-     <p>Apenas registros dos últimos três meses são armazenados.</p>
-   </div>
+   >ℹ️ Apenas registros dos últimos três meses são armazenados.
 
 4. Se desejar, inclua um filtro por Ação. Para isso, no campo ao lado de `Ação deve ser`, digite o nome da ação e tecle `Enter`. Você pode inserir mais de um valor teclando `Enter` após cada seleção. Confira o nome de cada ação em [Eventos disponíveis no Audit](https://help.vtex.com/pt/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ).
 5. Se necessário, você pode adicionar filtros mais específicos para realizar a busca por eventos com mais precisão. Para isso, clique no botão `Adicionar Filtro`.
@@ -56,9 +54,7 @@ Confira o passo a passo para buscar por um evento utilizando os filtros disponí
 
     Confira [Resultados](#resultados) para entender como os eventos são apresentados.
 
-<div class= "alert alert-warning">
-  <p>Os resultados da busca correspondem exatamente ao conteúdo escrito no tópico do filtro. Para evitar resultados inesperados, certifique-se de que você não digitou espaços desnecessários nos termos da busca.</p>
-</div>
+>⚠️ Os resultados da busca correspondem exatamente ao conteúdo escrito no tópico do filtro. Para evitar resultados inesperados, certifique-se de que você não digitou espaços desnecessários nos termos da busca.
 
 Se desejar, você pode compartilhar uma busca com outro usuário. Para isso, clique em `Compartilhar busca`, no canto superior direito da página. O link para a busca no Audit será copiado para a sua área de transferência.
 
@@ -129,6 +125,4 @@ Confira a seguir as informações disponíveis nesta aba:
 | Período buscado | Data de início e fim do período selecionado para a busca. |
 | Refazer busca | Botão que permite repetir a busca. |
 
-<div class= "alert alert-warning">
-  <p>Apenas 50 buscas ficam gravadas na aba <b>Últimas buscas</b>. Se quiser salvar uma busca além desse limite, adicione-a aos favoritos do seu browser.</p>
-</div>
+>⚠️ Apenas 50 buscas ficam gravadas na aba **Últimas buscas**. Se quiser salvar uma busca além desse limite, adicione-a aos favoritos do seu browser.

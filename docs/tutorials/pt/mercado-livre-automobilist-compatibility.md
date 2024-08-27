@@ -15,9 +15,7 @@ legacySlug: mercado-livre-compatibilidade-automobilistica
 subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---
 
-<div class = "alert alert-info">
-Este recurso está disponível apenas para sellers VTEX que vendem produtos automobilísticos da Argentina, Brasil e México.
-</div>  
+>ℹ️ Este recurso está disponível apenas para sellers VTEX que vendem produtos automobilísticos da Argentina, Brasil e México.  
 
 No módulo [Gerenciamento de anúncios](https://help.vtex.com/pt/tutorial/gerenciamento-de-anuncios--7MRb9S78aBdZjFGpbuffpE), os sellers de lojas VTEX podem acompanhar e gerenciar os anúncios enviados aos canais de vendas, [Mercado Livre](https://help.vtex.com/pt/tracks/configurar-integracao-do-mercado-livre--2YfvI3Jxe0CGIKoWIGQEIq) (Classic e Premium), [Netshoes](https://help.vtex.com/pt/tracks/configurar-integracao-da-netshoes--5Ua87lhFg4m0kEcuyqmcCm) e outros marketplaces VTEX. 
 
@@ -25,9 +23,7 @@ A compatibilidade automobilística, possibilita aos sellers informar com quais v
 
 Nos anúncios enviados ao Mercado Livre é possível identificar quais apresentam o erro `Compatibilidade com Meli`, esse erro ocorre quando o anúncio de um acessório automobilístico é enviado sem as informações de qual veículo ele é compatível ou quando as configurações estão cadastradas de maneira incorreta. 
 
-<div class = "alert alert-warning">
-Os anúncios que apresentarem erro, não serão enviados ao Mercado Livre até que seja corrigido.
-</div>  
+>⚠️ Os anúncios que apresentarem erro, não serão enviados ao Mercado Livre até que seja corrigido.  
 
 ![Mercado Livre: Compatibilidade Automobilística](https://images.ctfassets.net/alneenqid6w5/7JjKhuTHSN7j1V51FzjT5v/71bc2c07df8a14d172a0f58afb4e99f8/compatibilidade_automobilistica_1.png)  
 
@@ -46,9 +42,7 @@ Para corrigir os erros de `Compatibilidade com Meli`, siga o passo a passo abaix
 
 Realizado o passo a passo, seu anúncio está pronto para ser enviado ao Mercado Livre.  
 
-<div class = "alert alert-info">
-Não é possível informar a compatibilidade automobilística para lubrificantes, fluido refrigerante e fluido para freios.
-</div>
+>ℹ️ Não é possível informar a compatibilidade automobilística para lubrificantes, fluido refrigerante e fluido para freios.
 
 Artigos relacionados:
 

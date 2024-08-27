@@ -22,9 +22,7 @@ O acesso a uma conta VTEX possibilita acessar o [painel de suporte](https://supp
 
 ![Support imagem 1 - PT](https://images.ctfassets.net/alneenqid6w5/75ezzwg9iant6cmq04FhTz/8b56af5455d0c5ce1879a98aaa6b6768/support_imagem1_PT.gif)
 
-<div class = "alert alert-info">
-Para obter mais informações sobre como abrir um chamado e sobre tipos de chamado, basta acessar o artigo <a href="https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex">Abrir chamados para o suporte VTEX</a>.
-</div>
+>ℹ️ Para obter mais informações sobre como abrir um chamado e sobre tipos de chamado, basta acessar o artigo [Abrir chamados para o suporte VTEX](https://help.vtex.com/pt/tutorial/abrir-chamados-para-o-suporte-vtex).
 
 ## Tipos de suporte
 

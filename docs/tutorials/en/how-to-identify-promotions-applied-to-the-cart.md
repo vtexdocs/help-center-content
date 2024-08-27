@@ -46,9 +46,7 @@ However, if more than one promotion is applied, what appears will be the sum of 
 
 ## orderForm
 
-<div class = "alert alert-warning">
-  <p>To conduct the investigation documented in this section, you must use Google Chrome. Because it is a tool external to VTEX, it can be updated without prior notice.</p>
-</div>
+>⚠️ To conduct the investigation documented in this section, you must use Google Chrome. Because it is a tool external to VTEX, it can be updated without prior notice.
 
 On the cart page, you can check the `orderForm`, which is a file in JSON format with all the information corresponding to the order being created.
 

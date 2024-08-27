@@ -27,9 +27,7 @@ Existen tres formas de enviar a Mercado Libre la descripción de un producto:
 - Crear una especificación de producto
 - Crear una plantilla en el Centro de mensajes (opcional)
 
-<div class = "alert alert-info">
-Consulta el artículo de Mercado Libre <a href="https://www.mercadolibre.com.ar/ayuda/completar_datos_productos_3147#:~:text=Ingres%C3%A1%20desde%20Modificar%2C%20en%20el%20listado%20de%20publicaciones.&text=Ahora%20bien%2C%20si%20ten%C3%A9s%20muchas,las%20publicaciones%20ordenadas%20por%20categor%C3%ADa.">“Cómo describir tus productos”</a> para obtener sugerencias sobre cómo describir tus productos.
-</div>
+>ℹ️ Consulta el artículo de Mercado Libre [“Cómo describir tus productos”](https://www.mercadolibre.com.ar/ayuda/completar_datos_productos_3147#:~:text=Ingres%C3%A1%20desde%20Modificar%2C%20en%20el%20listado%20de%20publicaciones.&text=Ahora%20bien%2C%20si%20ten%C3%A9s%20muchas,las%20publicaciones%20ordenadas%20por%20categor%C3%ADa.) para obtener sugerencias sobre cómo describir tus productos.
 
 #### Rellenar el campo Descripción de producto
 

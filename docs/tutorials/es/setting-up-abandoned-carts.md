@@ -63,9 +63,7 @@ Una vez que se haya creado el nuevo template de email o se hayan utilizado los d
 7. En __Html__, ingrese la información del template de email creado o predeterminado.
 8. Haga clic `Save`. 
 
-<div class = "alert alert-info">
-El campo JSON Data no debe completarse ni sus datos deben usarse en el template de email. Solo contiene información para permitir una vista previa del formato en el que se verán los datos en el email.
-</div>
+>ℹ️ El campo JSON Data no debe completarse ni sus datos deben usarse en el template de email. Solo contiene información para permitir una vista previa del formato en el que se verán los datos en el email.
 
 ![New template - message center](https://images.ctfassets.net/alneenqid6w5/7nX1YnaZoesV51yG24Z3ls/68a8a4f2f7ad9f9911598b3aab475817/Novo_template.PNG)
 

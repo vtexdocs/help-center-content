@@ -24,9 +24,7 @@ Para esto, VTEX Intelligent Search recibe el término buscado por el cliente y l
 
 Así, si hay una regla de sinónimos, no importa cómo el cliente busque o cómo está registrado el nombre del producto, siempre encontrará lo que busca.
 
-<div class = "alert alert-warning">
-Los sinónimos no deben ser usados para resolver errores de ortografía, plural y singular o incluso pronombres, artículos y preposiciones en los términos investigados. En todos estos puntos, VTEX Intelligent Search es capaz de interpretar, aprender y resolver automáticamente por medio de algoritmos.
-</div>
+>⚠️ Los sinónimos no deben ser usados para resolver errores de ortografía, plural y singular o incluso pronombres, artículos y preposiciones en los términos investigados. En todos estos puntos, VTEX Intelligent Search es capaz de interpretar, aprender y resolver automáticamente por medio de algoritmos.
 
 ## Tipos de sinónimos
 

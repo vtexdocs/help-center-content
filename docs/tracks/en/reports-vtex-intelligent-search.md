@@ -23,9 +23,7 @@ Follow the steps below to access the page:
 1. In the VTEX Admin, go to **Storefront**, or type **Storefront** in the search bar at the top of the page.
 2. Under __Intelligent Search__, click __Analytics__. 
 
-<div class = "alert alert-info">
-  <p>The <b>Analytics</b> page is native to VTEX Intelligent Search. You cannot disable it in the Admin.</p>
-</div>
+>ℹ️ The **Analytics** page is native to VTEX Intelligent Search. You cannot disable it in the Admin.
 
 ## Data
 
@@ -71,9 +69,7 @@ To export a report in .csv format, you must follow the steps below:
 5. Wait until the file is available for download. Leaving this page will not interrupt the process.
 6. Click on `Download`.
 
-<div class = "alert alert-info">
-  <p>The file will be available for download for 48 hours.</p>
-</div>
+>ℹ️ The file will be available for download for 48 hours.
 
 The report (CSV file) you have downloaded contains two tables. The first table contains information about searched terms, as illustrated below. It also shows funnel metrics (from the **ProductsClick** column to the **ProductsSold** column) if you have selected this option.
 

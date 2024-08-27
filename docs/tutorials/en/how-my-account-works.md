@@ -26,9 +26,7 @@ In [basic settings](#basic-settings), you can configure which sections will appe
 - [Subscriptions](#subscriptions)
 - [Authentication](#authentication)
 
-<div class = "alert alert-info">
-To learn about <b>My Account</b> customization, see our developer documentation <a href="https://developers.vtex.com/docs/guides/vtex-my-account">My Account - StoreV2 version</a>. Be aware that VTEX does not offer support for <b>My Account</b> when customized.
-</div>
+>ℹ️ To learn about **My Account** customization, see our developer documentation [My Account - StoreV2 version](https://developers.vtex.com/docs/guides/vtex-my-account). Be aware that VTEX does not offer support for **My Account** when customized.
 
 ## Profile
 
@@ -77,9 +75,7 @@ The `Add address` button allows customers to include new addresses besides the o
 
 ## Orders
 
-<div class = "alert alert-info">
-In <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>, customers can only access their orders from the last two years.
-</div>
+>ℹ️ In [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), customers can only access their orders from the last two years.
 
 This section displays a list of all orders placed by the customer in your store. The list is sorted by creation date and displays details such as order date, total price of the order, order ID, status, and items purchased.
 

@@ -18,9 +18,7 @@ internalReference:
 
 ## Summary
 
-<div class = "alert alert-warning">
-  <strong>Warning</strong>: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see <a href = "https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">this track</a>.
-</div>
+>⚠️ **Warning**: VTEX has two search options - VTEX search and VTEX Intelligent Search. This article refers to the VTEX search. To learn more about the VTEX Intelligent Search application, see <a href = "https://help.vtex.com/tracks/vtex-intelligent-search--19wrbB7nEQcmwzDPl1l4Cb">this track</a>.
 
 When a user searches for a term and thereafter applies a filter to the multi-selection options (in the searchNavigator control), the searched term is initially removed from the query, meaning that the filter ignores the term and performs the search query only by considering the options chosen by the user.
 

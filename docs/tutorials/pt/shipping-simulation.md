@@ -61,9 +61,7 @@ Se desejar, pode preencher o box `Simular itens individualmente`.
 
  10. Clique no botão `Simular Frete`.
 
-<div class = "alert alert-info">
-No resultado da simulação, as medidas dos itens aparecem em centímetros e gramas, mas o valor real considerado no Checkout são as unidades de medida cadastradas nos <a href="https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke">campos de cadastro do produto</a> e do SKU.
-</div>
+>ℹ️ No resultado da simulação, as medidas dos itens aparecem em centímetros e gramas, mas o valor real considerado no Checkout são as unidades de medida cadastradas nos [campos de cadastro do produto](https://help.vtex.com/pt/tutorial/campos-de-cadastro-de-produto--4dYXWIK3zyS8IceKkQseke) e do SKU.
 
 ## Detalhes da Simulação
 

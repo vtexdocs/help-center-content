@@ -33,16 +33,12 @@ No Admin, é possível criar *landing pages* customizadas por [*binding*](https:
 - `Descrição` - Resumo da nova página a ser exibido nas páginas de resultados dos mecanismos de busca.
 - `Palavras-chave` - Tópicos que definem o conteúdo da página, ajudando a distribuí-la aos usuários interessados que navegam nas páginas de resultados dos mecanismos de busca.
 
-  <div class = "alert alert-info">
-Todos os cinco campos acima impactam diretamente os acessos à loja e o posicionamento da mesma nas páginas de resultados dos mecanismos de busca. Antes de preencher os metadados da página, esteja ciente das práticas recomendadas de <i>SEO</i>.
-</div>
+  >ℹ️ Todos os cinco campos acima impactam diretamente os acessos à loja e o posicionamento da mesma nas páginas de resultados dos mecanismos de busca. Antes de preencher os metadados da página, esteja ciente das práticas recomendadas de <i>SEO</i>.
 
 5. Escolha um *template* para ser exibido em sua nova *landing page* no campo `Padrão`.
 6. Se você deseja criar um *template* condicional, clique no botão `Adicionar template condicional` e preencha os campos de acordo com as condições desejadas.
 
-  <div class = "alert alert-warning">
-Observe que o <i>template</i> de condição só será exibido quando uma <i>ou</i> todas as condições predefinidas forem realizadas na interface.
-</div>
+  >⚠️ Observe que o <i>template</i> de condição só será exibido quando uma <i>ou</i> todas as condições predefinidas forem realizadas na interface.
 
 7. Salve suas alterações.
 

@@ -38,10 +38,8 @@ O cadastro do conector é feito no Admin da VTEX. Para realizá-lo, siga as inst
 
 **Mapeamento de Campos Customizados (Nome e descrição):**  Para utilizar esse mapeamento é necessário criar um campo customizado. Para saber como criar campos customizados, acesse a documentação [Cadastrar especificações ou campos de produto](https://help.vtex.com/pt/tutorial/criando-um-campo-de-produto--tutorials_106).  
 
-<div class = "alert alert-info">
-  O mapeamento de campos customizáveis está disponível apenas para <b>nome do produto</b> e <b>descrição do produto</b>.
-<p><b>Exemplo de nome para o novo campo:</b> <code>CBH_ProductName</code> para nome do produto e <code>CBH_ProductDescription</code> para descrição do produto.</p>
-</div>  
+>ℹ️ O mapeamento de campos customizáveis está disponível apenas para **nome do produto** e **descrição do produto**.
+> **Exemplo de nome para o novo campo:** `CBH_ProductName` para nome do produto e `CBH_ProductDescription` para descrição do produto.  
 
 Para o mapeamento funcionar, é necessário o seller seguir os seguintes passos:  
 

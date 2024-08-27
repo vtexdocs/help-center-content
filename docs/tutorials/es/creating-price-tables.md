@@ -32,12 +32,8 @@ Para encontrar una Tabla de Precio:
 
 Para añadir precios en la tabla de precios, registra un precio base a sus SKU. Mira como hacerlo en este [tutorial](https://help.vtex.com/es/tutorial/registrar-el-precio-base-de-un-producto--4S9SbPWlVmOAAWO6yq8wE6).
 
-<div class = "alert alert-info">
-No puede crear tablas de precio con nombres iguales.
-No se pueden añadir caracteres especiales a los nombres de las tablas de precios. Sólo letras y números.
-</div>
+>ℹ️ No puede crear tablas de precio con nombres iguales.
+> No se pueden añadir caracteres especiales a los nombres de las tablas de precios. Sólo letras y números.
 
-<div class = "alert alert-warning">
-Por motivos de seguridad, no se puede eliminar tablas de precio manualmente. Si necesita borrar una tabla de precios, abra una llamada con el soporte de VTEX.
-</div>
+>⚠️ Por motivos de seguridad, no se puede eliminar tablas de precio manualmente. Si necesita borrar una tabla de precios, abra una llamada con el soporte de VTEX.
 

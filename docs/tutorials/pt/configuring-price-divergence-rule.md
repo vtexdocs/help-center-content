@@ -33,9 +33,7 @@ Quando um seller está integrado a um conector nativo, como o Mercado Livre ou a
 
 A [regra de Divergência de valores](https://help.vtex.com/pt/tutorial/regra-de-divergencia-de-valores--6RlFLhD1rIRRshl83KnCjW) é composta de uma ou múltiplas regras de autorização de pedidos, que correspondem a intervalos entre 0% a 100% do preço do pedido. A configuração é feita de forma que cada intervalo é associado a uma ação automática de processamento.
 
-<div class = "alert alert-info">
-Para criar uma regra de Divergência de valores, o usuário precisa ter o <a href="https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc">perfil de acesso</a> de Admin Super (Owner) ou OMS Full. Garanta a segurança na gestão das suas operações e confira as <a href="https://help.vtex.com/pt/faq/metodos-de-seguranca-para-criacao-de-perfis-de-usuarios-em-uma-loja--15YDwC9jGgqWi3rvcDaiGM">melhores práticas de segurança para gestão de usuários</a>.
-</div>
+>ℹ️ Para criar uma regra de Divergência de valores, o usuário precisa ter o [perfil de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) de Admin Super (Owner) ou OMS Full. Garanta a segurança na gestão das suas operações e confira as [melhores práticas de segurança para gestão de usuários](https://help.vtex.com/pt/faq/metodos-de-seguranca-para-criacao-de-perfis-de-usuarios-em-uma-loja--15YDwC9jGgqWi3rvcDaiGM).
 
 Para criar uma regra de Divergência de valores, siga os passos abaixo:
 
@@ -79,9 +77,7 @@ A edição da regra de Divergência de valores pode ser feita a qualquer momento
 
 Na página de edição de regras, existe a opção de deletar a regra de Divergência de valores, clicando em **EXCLUIR REGRAS**. Isso faz com que todas as regras de autorização configuradas sejam permanentemente deletadas.
 
-<div class = "alert alert-info">
-Caso você exclua a regra de Divergência de valores, essa ação não pode ser desfeita. Para voltar a valer, será necessário configurá-la novamente. Isso se aplica também às regras de autorização que compõem a regra de Divergência de valores.
-</div>
+>ℹ️ Caso você exclua a regra de Divergência de valores, essa ação não pode ser desfeita. Para voltar a valer, será necessário configurá-la novamente. Isso se aplica também às regras de autorização que compõem a regra de Divergência de valores.
 
 Na mesma página, na aba **Todas**, é possível identificar a lista de todas as regras de autorização de pedidos criadas. Para excluir uma regra de autorização, você pode clicar no botão **EXCLUIR REGRA** ao lado da regra que deseja deletar.
 

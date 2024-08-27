@@ -15,9 +15,7 @@ legacySlug: setting-up-my-account
 subcategory: 1RWR7qSyaREbD5RfgCjdYG
 ---
 
-<div class = "alert alert-info">
-In <a href="https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh">My Account</a>, customers can only access their orders from the last two years.
-</div>
+>ℹ️ In [My Account](https://help.vtex.com/en/tutorial/how-my-account-works--2BQ3GiqhqGJTXsWVuio3Xh), customers can only access their orders from the last two years.
 
 The new [My Account](https://help.vtex.com/en/tutorial/how-does-my-account-work--2BQ3GiqhqGJTXsWVuio3Xh) is already installed in all VTEX accounts pertaining to a <strong>test environment</strong>, allowing adjustments on the new page to be implemented without impacting user experience.
 

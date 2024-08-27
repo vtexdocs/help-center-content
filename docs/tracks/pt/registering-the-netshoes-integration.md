@@ -52,10 +52,8 @@ trackSlugPT: configurar-integracao-da-netshoes
 
 Para o mapeamento funcionar, é necessário o seller seguir os seguintes passos:  
 
-<div class = "alert alert-info">
-  O mapeamento de campos customizáveis está disponível apenas para <b>nome do produto</b> e <b>descrição do produto</b>.
-  <p><b>Exemplo de nome para o novo campo:</b> <code>NTS_ProductName</code> para nome do produto e <code>NTS_ProductDescription</code> para descrição do produto.</p>
-</div>  
+>ℹ️ O mapeamento de campos customizáveis está disponível apenas para **nome do produto** e **descrição do produto**.
+>   **Exemplo de nome para o novo campo:** `NTS_ProductName` para nome do produto e `NTS_ProductDescription` para descrição do produto.  
 
 Para o mapeamento funcionar, é necessário o seller seguir os seguintes passos:  
 

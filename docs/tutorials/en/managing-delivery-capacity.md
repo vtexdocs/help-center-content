@@ -34,6 +34,4 @@ Once you have selected a shipping policy and a date, you will see the delivery w
 *   **Available**: number of items/orders that can still be scheduled (the total capacity minus the booked items).
 *   **Status**: classified as visible or not visible, depending on the availability of the delivery window. The delivery window will be shown as visible for your customers if its capacity hasn’t been reached yet.
 
-<div class = "alert alert-info">
-By clicking on <b>EDIT SHIPPING POLICY</b>, you’ll be redirected to the shipping policy page selected in the Shipping policy filter, where you can edit it.
-</div>
+>ℹ️ By clicking on **EDIT SHIPPING POLICY**, you’ll be redirected to the shipping policy page selected in the Shipping policy filter, where you can edit it.

@@ -23,9 +23,7 @@ An example of a catalog structure would be as follows:
 
 ![img como funciona o catalogo](https://images.contentful.com/alneenqid6w5/3AXUNSkDagO06cKmMsq6w4/5e80021d54e3fa58f9b0c6a261e1f407/img_como_funciona_o_catalogo.png)
 
-<div class = "alert alert-warning">
-Your categories tree does not need to have three levels. The hierarchy shown above is just an example. The amount of category levels to be created depends very much on the sector of activity of each store.
-</div>
+>⚠️ Your categories tree does not need to have three levels. The hierarchy shown above is just an example. The amount of category levels to be created depends very much on the sector of activity of each store.
 
 Once you create your store and register your products, you'll get a more concrete and organized view of what you've read here.
 

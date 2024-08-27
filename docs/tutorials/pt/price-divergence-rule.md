@@ -47,9 +47,7 @@ Para criar uma regra de Divergência de valores, o usuário precisa ter o perfil
 
 Você pode acompanhar pedidos integrados a partir da regra de Divergência de valores no Admin VTEX, em **Pedidos > [Todos os pedidos](https://help.vtex.com/pt/tutorial/todos-os-pedidos--2QTduKHAJMFIZ3BAsi6Pi)**.
 
-<div class = "alert alert-info">
-É importante acompanhar regularmente os pedidos no módulo <b>Pedidos</b> Caso exijam aprovação manual, os pedidos permanecem pendentes até que um usuário habilitado conceda a autorização necessária.
-</div>
+>ℹ️ É importante acompanhar regularmente os pedidos no módulo **Pedidos** Caso exijam aprovação manual, os pedidos permanecem pendentes até que um usuário habilitado conceda a autorização necessária.
 
 ### Saiba mais
 

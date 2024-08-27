@@ -31,9 +31,7 @@ O domínio principal da sua loja precisa conter subdomínio, que pode ou não se
 - `www.minhaloja.com` - Domínio principal válido.
 - `loja.minhamarca.com` - Domínio principal válido.
 
-<div class = "alert alert-info">
-  Saiba mais sobre como <a href="https://help.vtex.com/pt/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450">configurar o domínio principal da sua loja</a>.
-</div>
+>ℹ️ Saiba mais sobre como [configurar o domínio principal da sua loja](https://help.vtex.com/pt/tutorial/configurando-dominios-no-gerenciamento-da-conta--tutorials_2450).
 
 Este redirecionamento pode ser feito de inúmeras formas, sendo o uso do `htaccess` no servidor uma das mais conhecidas, mas bastante técnica e que depende de outros fatores.
 

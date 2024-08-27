@@ -52,9 +52,7 @@ The information displayed on this page is described in the table below:
 
 In the search box with the magnifying glass icon <i class="fas fa-search"></i>, you can search for shipping policies by name. Typing a character into the search bar immediately initiates the search. To clear the search, click the close icon <i class="far fa-times-circle"></i>.
 
-<div class = "alert alert-info">
-If the search does not return any results, check the spelling used in the search and if a filter has been selected.
-</div>
+>ℹ️ If the search does not return any results, check the spelling used in the search and if a filter has been selected.
 
 ## Filtering shipping policies
 

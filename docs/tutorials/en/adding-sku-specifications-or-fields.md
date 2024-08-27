@@ -33,9 +33,7 @@ In this article, we explain how the specification inheritance works for the adde
         * [SKU Registration](#sku-registration)
         * [Spreadsheet](#spreadsheet)
 
-<div class = "alert alert-info">
-  <p>To create an SKU specification using <strong>Catalog API</strong>, follow the <a href="https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification">How to create a specification</a> developer's guide.</p>
-</div>
+>ℹ️ To create an SKU specification using **Catalog API**, follow the [How to create a specification](https://developers.vtex.com/vtex-developer-docs/docs/how-to-create-a-specification) developer's guide.
 
 ## SKU Specification inheritance
 
@@ -55,9 +53,7 @@ See the step-by-step instructions below.
 
 ### Creating an SKU field
 
-<div class = "alert alert-warning">
-  <p>Once created, the SKU fields cannot be deleted. If you uncheck the field, all the SKUs in that category will become inactive, until the field is checked again. If you do not fill out a specification when adding an SKU, it may cause the SKU not to appear on the website, because it is inactive.</p>
-</div>
+>⚠️ Once created, the SKU fields cannot be deleted. If you uncheck the field, all the SKUs in that category will become inactive, until the field is checked again. If you do not fill out a specification when adding an SKU, it may cause the SKU not to appear on the website, because it is inactive.
 
 To create an SKU field, follow the instructions below:
 
@@ -65,9 +61,7 @@ To create an SKU field, follow the instructions below:
 2. Click on **Categories**.
 3. Click the category associated with the specification group in which you want to create the SKU field.
 
-  <div class = "alert alert-warning">
-    <p>Please note that when you create a specification for a higher category level, it will appear in all the sublevels of that category.</p>
-  </div>
+  >⚠️ Please note that when you create a specification for a higher category level, it will appear in all the sublevels of that category.
 
 3. Click `Actions` <i class="fas fa-angle-down"></i>.
 4. Click `Field (SKU)`.
@@ -138,9 +132,7 @@ The **Values** of the SKU fields will vary according to the selected field type:
 
 ![sku-spec-2](https://images.ctfassets.net/alneenqid6w5/5MwO6aTSuIzCbxlrnzjTHQ/a6da423b96ac0edb46837b590e7a030f/en-sku-spec-2.gif)
 
-<div class = "alert alert-info">
-  <p>If you are adding values for the first time in a field, you must return to the form of that specific field and check the <strong>Active</strong> option.</p>
-</div>
+>ℹ️ If you are adding values for the first time in a field, you must return to the form of that specific field and check the **Active** option.
 
 #### Accessing or editing values
 

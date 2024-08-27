@@ -75,9 +75,7 @@ Para vincular un servicio a un SKU, sigue los pasos a continuación:
 5. Haz clic en `Exportar`.
 6. Guarda la plantilla en formato CSV que se exportará en su ordenador.
 7. Rellena los [campos de la plantilla](#campos-de-la-plantilla). Mantén el formato CSV del archivo al guardar los cambios.
-<div class = "alert alert-warning">
-  <p>El tamaño del archivo de la plantilla no debe superar los 4Mb (4096KB).</p>
-</div>
+>⚠️ El tamaño del archivo de la plantilla no debe superar los 4Mb (4096KB).
 8. Haz clic en la barra que se encuentra junto al botón `Select`, que se muestra a continuación.
   ![Anexos - ES](https://images.ctfassets.net/alneenqid6w5/76FSnqnRMroOc0Ex2knz1Z/844c4cb0282e3b4e32c9b494906b0597/sku-services-ES.png)
 9. Selecciona la plantilla CSV actualizada.
@@ -103,6 +101,4 @@ Maneja la plantilla con cuidado, comprobando siempre que la información está c
 - **Custo:** es el costo del servicio para la tienda.
 - **Ativo:** es el status del servicio. Introduce `1` para mantener el servicio activo y `0` para mantenerlo inactivo.
 
-<div class = "alert alert-warning">
-  <p>Añadir una nueva plantilla no sustituirá los servicios ya vinculados al SKU. Para desvincular un servicio, utiliza el <i>endpoint</i> <a href ="https://developers.vtex.com/docs/api-reference/catalog-api#delete-/api/catalog/pvt/skuservice/-skuServiceId-">Dissociate SKU Service</a>.</p>
-</div>
+>⚠️ Añadir una nueva plantilla no sustituirá los servicios ya vinculados al SKU. Para desvincular un servicio, utiliza el <i>endpoint</i> <a href ="https://developers.vtex.com/docs/api-reference/catalog-api#delete-/api/catalog/pvt/skuservice/-skuServiceId-">Dissociate SKU Service</a>.

@@ -50,8 +50,7 @@ Select <i class="fas fa-toggle-on"></i> to activate the pickup point.
 * **Country:** the country where the pickup point is located.
 * **Search address:** enter the address information for the search. You can use the zip code, street, city, number, and additional address information. 
 * To edit the address information, click `Edit`. 
-* To add a different address, click `Clear` and search again.<div class = "alert alert-info">
-The address information and the location on the map will be displayed at checkout.</div>
+* To add a different address, click `Clear` and search again.>ℹ️ The address information and the location on the map will be displayed at checkout.
 
 #### Additional information
 
@@ -62,7 +61,7 @@ The address information and the location on the map will be displayed at checkou
 
 * **Days of the week:**
     1. Check the boxes for the days the pickup point will be available for your customers to pick up their orders. 
-    2. Select the pickup point's business hours for each day.<div class = "alert alert-info">If this field is not filled in, the platform will consider that the pickup point operates 24 hours a day.</div>
+    2. Select the pickup point's business hours for each day.>ℹ️ If this field is not filled in, the platform will consider that the pickup point operates 24 hours a day.
 
 * **Exceptions or holidays:** to add specific days when the pickup point is not operating, follow the steps below.
     3. Click `Add an exception`;
@@ -75,13 +74,11 @@ The address information and the location on the map will be displayed at checkou
 
 You can create pickup points by importing the template (XLS file). This way, you can create more than one pickup point at a time.
 
-<div class = "alert alert-info">
-The XLS file must not exceed 10MB (approximately 50,000 pick points). If necessary, you can upload more than one template. 
-</div>
+>ℹ️ The XLS file must not exceed 10MB (approximately 50,000 pick points). If necessary, you can upload more than one template.
 
 1. In the VTEX Admin, go to **Shipping > Pickup points**, or type *Pickup points* in the search bar at the top of the page. 
 2. Click <i class="fas fa-upload"></i> `Upload an XLS`.
-3. Download the template and fill in the [fields](#template-fields).<div class = "alert alert-info">Please note that the template comes with example values, which must be replaced with the data from your store's pickup points.</div>
+3. Download the template and fill in the [fields](#template-fields).>ℹ️ Please note that the template comes with example values, which must be replaced with the data from your store's pickup points.
 4. After uploading the template, click `OK`.   
 
 ### Template fields

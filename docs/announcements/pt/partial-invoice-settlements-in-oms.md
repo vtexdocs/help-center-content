@@ -19,9 +19,7 @@ Ao gerenciar pedidos no OMS, o sistema gerenciador de pedidos da VTEX, inserir a
 
 Desenvolvemos uma melhoria no OMS que fará com que as faturas parciais inseridas nos pedidos também disparem liquidações parciais na transação. O valor total do pedido será atualizado após a inserção da nota fiscal, e corresponde ao que é captado pelo gateway de pagamentos da VTEX. 
 
-<div class = "alert alert-info">
-A funcionalidade faturas parciais está disponível para toda a base de clientes VTEX, mas a liquidação parcial no gateway está em fase Beta. Além disso, para que as faturas parciais inseridas nos pedidos disparem liquidações parciais na transação, é necessário usar um conector que utiliza o <a href="https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m">Payment Provider Protocol</a>. Conectores legados não possuem suporte à funcionalidade.
-</div>
+>ℹ️ A funcionalidade faturas parciais está disponível para toda a base de clientes VTEX, mas a liquidação parcial no gateway está em fase Beta. Além disso, para que as faturas parciais inseridas nos pedidos disparem liquidações parciais na transação, é necessário usar um conector que utiliza o [Payment Provider Protocol](https://help.vtex.com/pt/tutorial/payment-provider-protocol--RdsT2spdq80MMwwOeEq0m). Conectores legados não possuem suporte à funcionalidade.
 
 ## O que mudou?
 

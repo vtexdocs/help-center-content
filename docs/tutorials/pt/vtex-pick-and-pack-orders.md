@@ -15,9 +15,7 @@ legacySlug: vtex-pick-and-pack-pedidos
 subcategory: 7Kllu6CmeLNV3tYXlCFvOt
 ---
 
-<div class = "alert alert-info">
-Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Caso tenha interesse em implementá-la futuramente, preencha nosso <a href="https://vtex.com/br-pt/contato/">formulário</a> apontando no campo <code>Comentários</code> o nome do produto desejado.
-</div>
+>ℹ️ Essa funcionalidade está na fase Beta fechado, o que significa que somente clientes selecionados têm acesso a ela no momento. Caso tenha interesse em implementá-la futuramente, preencha nosso [formulário](https://vtex.com/br-pt/contato/) apontando no campo `Comentários` o nome do produto desejado.
 
 **Pedidos** é uma página do Admin VTEX que exibe as informações dos pedidos realizados e gerenciados pelo [VTEX Pick and Pack](https://help.vtex.com/pt/tutorial/vtex-pick-and-pack--1OOops3WrUyz7e0bnhkfXU).  
 

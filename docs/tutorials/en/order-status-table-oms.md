@@ -17,9 +17,7 @@ subcategory: 2t00bBkcAwIkgSCGKsMOwY
 
 The purpose of this article is to list the compatible status values in the various systems internal and external to VTEX.
 
-<div class = "alert alert-warning">
-Valid for when the order has only one transaction.
-</div>
+>⚠️ Valid for when the order has only one transaction.
 
 <table style="width: 619px;" border="1" cellspacing="0" cellpadding="0"><tbody><tr style="height: 56px;"><td style="width: 113px; height: 56px;" valign="top"><p align="center"><b>Orders Management</b>
 </td><td style="width: 113px; height: 56px;" valign="top"><p align="center"><b>My Orders</b>

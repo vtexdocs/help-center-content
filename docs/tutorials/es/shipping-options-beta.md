@@ -33,9 +33,7 @@ Sin embargo, el objetivo de las **Opciones de envío** no es sustituir las [pol�
 
 Con las **Opciones de envío**, se separa lo que se cobra a los consumidores por el envío del pedido y el costo de envío para el administrador de la tienda, ya que se pueden configurar diferentes reglas de precios para la tarifa de envío.
 
-<div class = "alert alert-info">
-Para que la selección de las transportadoras para el envío se realice correctamente, se debe ingresar en las plantillas de envío el costo real que las transportadoras cobran por realizar el envío.
-</div>
+>ℹ️ Para que la selección de las transportadoras para el envío se realice correctamente, se debe ingresar en las plantillas de envío el costo real que las transportadoras cobran por realizar el envío.
 
 La funcionalidad **Opciones de envío** permite al administrador de la tienda configurar la tarifa de envío a partir de:
 
@@ -57,9 +55,7 @@ En cada opción de envío, el administrador de la tienda registra un SLA (_Servi
 
 El algoritmo de la plataforma VTEX, [Order Allocation Algorithm](https://help.vtex.com/es/tutorial/order-allocation-algorithm-beta--1zLCAyEdnVe3EsE9Kz88xA), analiza las combinaciones de tiendas y centros de distribución que dan servicio a cada una de las opciones de envío y busca seleccionar las que tienen el menor costo de envío. En el ejemplo, el resultado es una combinación del menor costo de envío el mismo día y otra combinación del menor costo de envío en hasta 5 días laborales.
 
-<div class = "alert alert-info">
-Con las <b>Opciones de envío</b>, existe la garantía de que siempre se presentará al consumidor una opción de envío disponible para la ubicación, lo que antes no ocurría. La única excepción es si no hay un seller ni política de envío que cumpla las condiciones de una opción de envío. En este caso, no se mostrará ninguna opción de envío al consumidor en el checkout.
-</div>
+>ℹ️ Con las **Opciones de envío**, existe la garantía de que siempre se presentará al consumidor una opción de envío disponible para la ubicación, lo que antes no ocurría. La única excepción es si no hay un seller ni política de envío que cumpla las condiciones de una opción de envío. En este caso, no se mostrará ninguna opción de envío al consumidor en el checkout.
 
 ## Acciones y configuración
 
