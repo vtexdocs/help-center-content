@@ -3,8 +3,8 @@ title: 'Salvar novo cartão não funciona com o uso do 3DS'
 id: 20INELA5LVhY1XqFWG7047
 status: PUBLISHED
 createdAt: 2021-06-15T17:10:05.803Z
-updatedAt: 2022-12-22T14:45:20.486Z
-publishedAt: 2022-12-22T14:45:20.486Z
+updatedAt: 2024-08-20T19:15:09.444Z
+publishedAt: 2024-08-20T19:15:09.444Z
 firstPublishedAt: 2021-06-15T18:33:22.941Z
 contentType: knownIssue
 productTeam: Financial
@@ -24,7 +24,7 @@ Este erro acontece caso o cartão não tenha sido validado pelo sistema. Para va
 
 No momento em que essa transação de BRL 1,50 for gerada, caso a loja utilize o [3DS](https://help.vtex.com/pt/tutorial/o-que-e-3d-secure--1eWPdop8mECuaEomQgkAIa) em suas adquirentes, o fluxo de autenticação será ativado e a validação do cartão será solicitada. Nesta etapa, a validação não poderá ser concluída pois não se trata de uma compra de um produto, o que impossibilita abrir o challenge do 3DS para conclusão do processo. Por esse motivo, o erro citado acima é exibido ao salvar um cartão.
 
-### Simulação
+## Simulação
 
 Caso queira simular as etapas que levam até o erro, siga o passo a passo abaixo:
 
@@ -39,15 +39,7 @@ Caso queira simular as etapas que levam até o erro, siga o passo a passo abaixo
 9. Preencha todos os campos e clique em __Salvar novo cartão__.
 10. Um erro será gerado depois desse processo.
 
-### Solução
-
-Para solucionar este erro, você pode criar uma condição de pagamento para cartão de crédito atrelado a uma adquirente que não esteja fazendo uso do 3DS (v1 ou v2).
-
-## Simulação
-
-
-
 ## Workaround
 
-
+Para solucionar este erro, você pode criar uma condição de pagamento para cartão de crédito atrelado a uma adquirente que não esteja fazendo uso do 3DS (v1 ou v2).
 

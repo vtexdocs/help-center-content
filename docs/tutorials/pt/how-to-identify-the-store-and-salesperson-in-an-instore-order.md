@@ -84,7 +84,7 @@ O identificador do vendedor e da loja podem ser usados para consultar os dados d
 
 ![PT - Admin inStore](https://images.ctfassets.net/alneenqid6w5/4k1KmCEABh6BJBBCBh5B4F/fe249d924308d3d2f8b7fbfbec739f05/Screen_Shot_2020-11-09_at_15.20.50.png)
 
-<div class="alert alert-info" role="alert">As instruções abaixo explicam como fazer essas consultas usando os identificadores que aparecem em um pedido. Se necessário, entretanto, é possível buscar usando qualquer campo do cadastro de lojas e vendedores.</div>
+>ℹ️ As instruções abaixo explicam como fazer essas consultas usando os identificadores que aparecem em um pedido. Se necessário, entretanto, é possível buscar usando qualquer campo do cadastro de lojas e vendedores.
 
 ### Busca por vendedor
 

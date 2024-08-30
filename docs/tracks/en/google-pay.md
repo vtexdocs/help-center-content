@@ -3,8 +3,8 @@ title: 'Google Pay'
 id: 61JMBvM5Vanqj6RaJsP8CT
 status: PUBLISHED
 createdAt: 2023-06-27T21:28:37.755Z
-updatedAt: 2024-08-01T17:59:31.657Z
-publishedAt: 2024-08-01T17:59:31.657Z
+updatedAt: 2024-08-02T13:49:01.227Z
+publishedAt: 2024-08-02T13:49:01.227Z
 firstPublishedAt: 2023-06-27T21:46:39.537Z
 contentType: trackArticle
 productTeam: Shopping

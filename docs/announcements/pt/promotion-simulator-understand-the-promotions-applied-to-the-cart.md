@@ -32,7 +32,7 @@ A partir de agora, o **Simulador de promoções** está disponível para todas a
 * **Testar a aplicação** de outras promoções ao carrinho antes de ativá-las, incluindo promoções agendadas e inativas.
 * **Entender os motivos** de uma promoção não ter sido aplicada ao carrinho.
 
-![promotions simulator - pt-gif 3](https://downloads.ctfassets.net/alneenqid6w5/5RwzKZuP1klBEZfpUYAivG/54f7514e928050ff2ae19ce3fc3a93d4/promotions_simulator_announcement.gif)
+![promotions simulator - pt-gif 3](//downloads.ctfassets.net/alneenqid6w5/5RwzKZuP1klBEZfpUYAivG/54f7514e928050ff2ae19ce3fc3a93d4/promotions_simulator_announcement.gif)
 
 ## O que precisa ser feito?
 

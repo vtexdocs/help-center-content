@@ -3,8 +3,8 @@ title: 'VTEX Shipping Network: Panel '
 id: 51e8tx1IehiN4ZtURRWU92
 status: PUBLISHED
 createdAt: 2020-04-06T20:01:00.909Z
-updatedAt: 2024-02-29T19:20:49.152Z
-publishedAt: 2024-02-29T19:20:49.152Z
+updatedAt: 2024-08-28T13:00:44.671Z
+publishedAt: 2024-08-28T13:00:44.671Z
 firstPublishedAt: 2020-04-16T21:37:18.831Z
 contentType: tutorial
 productTeam: Post-purchase

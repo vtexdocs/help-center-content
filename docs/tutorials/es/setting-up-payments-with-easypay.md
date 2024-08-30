@@ -25,7 +25,7 @@ Para utilizar easypay, debes:
 - [Configurar la afiliación de easypay](#configurar-la-afiliacion-de-easypay)
 - [Configurar el pago con Apple Pay en easypay (opcional)](#configurar-el-pago-con-apple-pay-en-easypay-opcional)    
 
-<div class="alert alert-warning" role="alert">Si eres marketplace o seller, consulta los artículos <a href="https://help.vtex.com/es/tutorial/configurar-pago-con-easypay-marketplace--3YllWiITcPEOpteuToEdO7">Configurar pago con easypay en marketplace</a> o <a href="https://help.vtex.com/es/tutorial/configurar-pago-con-easypay-seller--5mYMCM1tiRiZO6PozuUncE">Configurar pago con easypay seller account</a>.</div>
+>⚠️ Si eres marketplace o seller, consulta los artículos [Configurar pago con easypay en marketplace](https://help.vtex.com/es/tutorial/configurar-pago-con-easypay-marketplace--3YllWiITcPEOpteuToEdO7) o [Configurar pago con easypay seller account](https://help.vtex.com/es/tutorial/configurar-pago-con-easypay-seller--5mYMCM1tiRiZO6PozuUncE).
 
 ## Instalar la aplicación easypay
 
@@ -50,7 +50,7 @@ La información de configuración se divide en cuatro secciones:
 
 ![easypay_pt_1](https://images.ctfassets.net/alneenqid6w5/5SQRO4e7bYL1o8CG383UBE/03f939e9444e2655b4b9b540a4e521cc/easypay_pt_1.png)
 
-<div class="alert alert-warning" role="alert">Debes realizar la configuración en <a href="https://backoffice.easypay.pt/">el entorno easypay</a>. El control de estas configuraciones es responsabilidad de easypay, por lo tanto, VTEX no garantiza que los pasos a continuación estén siempre actualizados. Utiliza este documento como referencia y consulta tu cuenta en el <a href="https://backoffice.easypay.pt/">entorno de easypay</a> para obtener información actualizada.</div>
+>⚠️ Debes realizar la configuración en [el entorno easypay](https://backoffice.easypay.pt/). El control de estas configuraciones es responsabilidad de easypay, por lo tanto, VTEX no garantiza que los pasos a continuación estén siempre actualizados. Utiliza este documento como referencia y consulta tu cuenta en el [entorno de easypay](https://backoffice.easypay.pt/) para obtener información actualizada.
 
 ### Credenciales de easypay
 
@@ -82,7 +82,7 @@ __Merchant account UID__: identificación de la cuenta del comerciante en la que
 
 __Margin account UID__: identificación de la cuenta de margen.
 
-<div class="alert alert-info" role="alert">Este campo solo debe rellenarse cuando la tienda es un marketplace y realiza split de pagos. Para más información, consulta el artículo <a href="https://help.vtex.com/es/tutorial/configurar-pago-con-easypay-marketplace--3YllWiITcPEOpteuToEdO7">Configurar pago con easypay en marketplaces</a>.</div>
+>ℹ️ Este campo solo debe rellenarse cuando la tienda es un marketplace y realiza split de pagos. Para más información, consulta el artículo [Configurar pago con easypay en marketplaces](https://help.vtex.com/es/tutorial/configurar-pago-con-easypay-marketplace--3YllWiITcPEOpteuToEdO7).
 
 __Refund account ID e Refund account key__: si no existe una cuenta específica para reembolso, el valor de __Key ID__ deberá rellenarse en el campo __Refund account ID__, y el valor de __Key value__ en __Refund account key__.
 
@@ -100,7 +100,7 @@ Ejemplo:
 | ---------------- | ---------------- |
 | mb,dd,vi,sc | mb, dd, vi, sc |
 
-<div class="alert alert-warning" role="alert">Si se rellena este campo, también será obligatorio rellenar el campo <b>Días para que expiren los pagos asíncronos</b>.</div>
+>⚠️ Si se rellena este campo, también será obligatorio rellenar el campo **Días para que expiren los pagos asíncronos**.
 
 __Tipos de pago síncronos aceptados__: medios de pago síncronos disponibles para el cliente. Ingresa solamente las siglas de los tipos de pago síncronos, separados por comas, sin puntos ni espacios.
 
@@ -160,7 +160,7 @@ Ejemplo:
 | ---------------- | ---------------- |
 | 11 | 11px |
 
-<div class="alert alert-warning" role="alert">No utilices fuentes de más de 12 píxeles, ya que pueden distorsionar la visualización del layout.</b></div>
+>⚠️ No utilices fuentes de más de 12 píxeles, ya que pueden distorsionar la visualización del layout.</b>
 
 ### Modo Sandbox
 

@@ -3,8 +3,8 @@ title: 'Informe de pedidos'
 id: 31m1ewsmsEe0WS4So2aGMY
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:42.311Z
-updatedAt: 2024-03-01T01:28:57.258Z
-publishedAt: 2024-03-01T01:28:57.258Z
+updatedAt: 2024-08-06T15:12:56.223Z
+publishedAt: 2024-08-06T15:12:56.223Z
 firstPublishedAt: 2019-01-24T22:03:18.967Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -88,8 +88,8 @@ Las columnas corresponden a información específica sobre el pedido, conforme s
 *   **Seller Order Id**: es el ID del pedido en el _seller_, si se trata de una venta como _marketplace_.
 *   **Acquirer**: es el adquirente que intervino en la transacción.
 *   **Authorization Id**: es la ID de la autorización.
-*   **TID**: [es el Transaction ID](https://app.contentful.com/pt/faq/como-achar-nsu-e-tid-do-pedido) del pedido.
-*   **NSU**: [es el número secuencial único](https://app.contentful.com/pt/faq/como-achar-nsu-e-tid-do-pedido) del pedido.
+*   **TID**: [es el Transaction ID](https://help.vtex.com/es/tutorial/como-achar-nsu-e-tid-do-pedido--frequentlyAskedQuestions_477) del pedido.
+*   **NSU**: [es el número secuencial único](https://help.vtex.com/es/tutorial/como-achar-nsu-e-tid-do-pedido--frequentlyAskedQuestions_477) del pedido.
 *   **Card First Digits**: son los seis primeros dígitos de la tarjeta utilizada en la compra.
 *   **Card Last Digits**: son los cuatro últimos dígitos de la tarjeta utilizada en la compra.
 *   **Payment Approved By**: es el _email_ de la persona que aprobó el pago (aplicado cuando la aprobación se realiza manualmente).

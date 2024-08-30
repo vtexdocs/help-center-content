@@ -3,8 +3,8 @@ title: 'Contas a Pagar - Brasil'
 id: tutorials_660
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:25.003Z
-updatedAt: 2024-02-23T15:08:20.685Z
-publishedAt: 2024-02-23T15:08:20.685Z
+updatedAt: 2024-08-30T16:45:42.652Z
+publishedAt: 2024-08-30T16:45:42.652Z
 firstPublishedAt: 2017-04-27T23:03:40.609Z
 contentType: tutorial
 productTeam: Billing
@@ -67,10 +67,3 @@ Abaixo incluímos informações complementares que devem ser utilizadas nos proc
 - **Endereço:** Rua Antônio Rabelo Júnior, 161 , 25º andar, Sala 2506 - Miramar - João Pessoa - PB
 - **CEP:** 58032-090
 
-### Curitiba Office
-
-- **Razão social:** VTEX BRASIL TECNOLOGIA PARA E-COMMERCE LTDA
-- **Nome fantasia:** VTEX BRASIL
-- **CNPJ Matriz:** 05.314.972/0005-06
-- **Endereço:** Rua Antônio Rabelo Júnior, 161 , 25º andar, Sala 2506 - Miramar - João Pessoa - PB
-- **CEP:** 80030-000

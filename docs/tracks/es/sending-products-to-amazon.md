@@ -3,8 +3,8 @@ title: 'Envío y mapeo de categorías de productos a Amazon'
 id: 5xklf2wSdeztQh4iy5kJvD
 status: PUBLISHED
 createdAt: 2019-02-28T23:12:40.204Z
-updatedAt: 2023-10-18T19:47:04.829Z
-publishedAt: 2023-10-18T19:47:04.829Z
+updatedAt: 2024-08-27T17:55:46.602Z
+publishedAt: 2024-08-27T17:55:46.602Z
 firstPublishedAt: 2019-02-28T23:13:35.624Z
 contentType: trackArticle
 productTeam: Channels
@@ -49,7 +49,7 @@ Para realizar el mapeo de categorías:
 3. Selecciona la categoría de Amazon correspondiente al producto que deseas enviar.
 4. Haz la correspondencia de los atributos en la ventana lateral, como se muestra en la imagen a continuación:
 
-![Atributos del mapeador de Amazon](https://downloads.ctfassets.net/alneenqid6w5/3gw5pXd6bvjIMs4ydBLmwv/9dbef07f676b7bf29ef81bfda39d9bda/mapper_amazon_atributos.gif)
+![Atributos del mapeador de Amazon](//downloads.ctfassets.net/alneenqid6w5/3gw5pXd6bvjIMs4ydBLmwv/9dbef07f676b7bf29ef81bfda39d9bda/mapper_amazon_atributos.gif)
 
 5. Haz clic en el botón `Guardar cambios`.
 

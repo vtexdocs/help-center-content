@@ -1,10 +1,10 @@
 ---
 title: "Why is the order in the 'Verifying Invoice' status?"
 id: 5VJjxRjeH6SimiG0Wkk2gm
-status: PUBLISHED
+status: DRAFT
 createdAt: 2019-01-24T20:45:44.680Z
-updatedAt: 2022-07-19T13:18:05.248Z
-publishedAt: 2022-07-19T13:18:05.248Z
+updatedAt: 2024-08-16T19:04:12.849Z
+publishedAt: 
 firstPublishedAt: 2019-01-24T21:53:54.764Z
 contentType: tutorial
 productTeam: Post-purchase

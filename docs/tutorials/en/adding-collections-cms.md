@@ -15,9 +15,7 @@ legacySlug: adding-collections
 subcategory: 2g6LxtasS4iSeGEqeYUuGW
 ---
 
-<div class = "alert alert-warning" >
-  <p>There are two ways to configure collections: through the Legacy CMS Portal or the <a href="https://help.vtex.com/en/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye">Collections Beta</a> module. This article is about how to configure collections through the Legacy CMS Portal.</p>
-</div>
+>⚠️ There are two ways to configure collections: through the Legacy CMS Portal or the [Collections Beta](https://help.vtex.com/en/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye) module. This article is about how to configure collections through the Legacy CMS Portal.
 
 Follow the steps below to add a new collection:
 

@@ -15,9 +15,7 @@ legacySlug: price-divergence-authorization-rules-for-sellers
 subcategory: 4ZBiXqnPntLbsijZ0djFcD
 ---
 
-<div class="alert alert-info" >
-  <p>This feature is in Beta stage, meaning we are working to improve it. If you have any questions, please contact <a href = "https://support.vtex.com/hc/en-us/requests">our Support Center</a>.</p>
-</div>
+>ℹ️ This feature is in Beta stage, meaning we are working to improve it. If you have any questions, please contact <a href = "https://support.vtex.com/hc/en-us/requests">our Support Center</a>.
 
 Integrations between VTEX sellers and [native connectors](https://help.vtex.com/en/tutorial/integrando-com-marketplace--tutorials_402#integrating-with-a-native-connector-vtex) can present divergences between the prices configured on the VTEX platform and the ones displayed in the marketplace, which can generate errors in the Order Management System (OMS).
 

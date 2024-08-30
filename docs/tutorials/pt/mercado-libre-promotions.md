@@ -173,7 +173,7 @@ Caso o seller deseje modificar o preço de um produto que participa desta campan
 
 Os produtos que poderão participar da campanha são selecionados pelo marketplace. Ao selecionar a campanha tipo **Desconto por volume**, você encontrará duas seções diferentes.
 
-<div class="alert alert-info" role="alert">A campanha tipo Desconto por volume possui um prazo para que o seller participe. Caso esse prazo tenha se esgotado, só será exibida a seção <b>Disponíveis</b>.</div>
+>ℹ️ A campanha tipo Desconto por volume possui um prazo para que o seller participe. Caso esse prazo tenha se esgotado, só será exibida a seção **Disponíveis**.
 
 #### Disponíveis
 

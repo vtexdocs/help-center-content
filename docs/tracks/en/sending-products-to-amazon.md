@@ -3,8 +3,8 @@ title: 'Mapping and sending product categories to Amazon'
 id: 5xklf2wSdeztQh4iy5kJvD
 status: PUBLISHED
 createdAt: 2019-02-28T23:12:40.204Z
-updatedAt: 2023-10-18T19:47:04.829Z
-publishedAt: 2023-10-18T19:47:04.829Z
+updatedAt: 2024-08-27T17:55:46.602Z
+publishedAt: 2024-08-27T17:55:46.602Z
 firstPublishedAt: 2019-02-28T23:13:35.624Z
 contentType: trackArticle
 productTeam: Channels
@@ -48,7 +48,7 @@ To map a category, follow these steps:
 1. In the Admin, go to **Marketplace > Marketplaces and Integrations > Amazon > Perform Mapping.**  
 2. Select the category you want to map.
 3. Select the corresponding category on Amazon for the product you want to send.
-4. Match the attributes in the side window, as shown in the image below: ![Amazon Mapper Attributes](https://downloads.ctfassets.net/alneenqid6w5/3gw5pXd6bvjIMs4ydBLmwv/da4ea7365efc744b036e55305feaea6f/mapper_amazon_atributos.gif)  
+4. Match the attributes in the side window, as shown in the image below: ![Amazon Mapper Attributes](//downloads.ctfassets.net/alneenqid6w5/3gw5pXd6bvjIMs4ydBLmwv/da4ea7365efc744b036e55305feaea6f/mapper_amazon_atributos.gif)  
 5. Click the `Save Changes` button.  
 
 >❗ Fields with an asterisk (`*`) are required.

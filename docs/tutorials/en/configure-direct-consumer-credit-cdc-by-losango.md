@@ -15,4 +15,4 @@ legacySlug: configure-direct-consumer-credit-cdc-by-losango
 subcategory: 3tDGibM2tqMyqIyukqmmMw
 ---
 
-<div class="alert alert-warning" role="alert">Content under translation.</div>
+>⚠️ Content under translation.

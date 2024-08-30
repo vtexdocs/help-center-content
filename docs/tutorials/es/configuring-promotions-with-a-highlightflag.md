@@ -3,8 +3,8 @@ title: 'Configurar promoción con destaque / flag'
 id: tutorials_2295
 status: PUBLISHED
 createdAt: 2017-04-27T21:55:19.949Z
-updatedAt: 2024-07-29T18:59:29.549Z
-publishedAt: 2024-07-29T18:59:29.549Z
+updatedAt: 2024-08-05T17:14:38.358Z
+publishedAt: 2024-08-05T17:14:38.358Z
 firstPublishedAt: 2017-04-27T23:03:51.539Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -15,9 +15,7 @@ legacySlug: configurando-promocion-con-destaque-flag
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-<div class="alert alert-warning" role="alert">
-Tutorial válido solo para tiendas CMS Portal Legado.
-</div>
+>⚠️ Tutorial válido solo para tiendas CMS Portal Legado.
 
 El destaque en la promoción es un aviso que puede ser colocado en los estantes y en las páginas de los productos, informando que el producto es elegible para una promoción. Un ejemplo muy común es una imagen debajo de la imagen del producto indicando flete gratis.
 
@@ -33,7 +31,6 @@ No todas las promociones son elegibles para tener destaque. Esta posibilidad est
 Además, **no se puede configurar un destaque cuando la promoción tiene alguna restricción en el carrito**, como: 
 
 - Rango de código postal.
-- Valor del pedido, a menos que el producto ya tenga un valor más alto o más bajo que el configurado en este campo.
 - Valor acumulado en las compras.
 - Restricción de promoción por BIN.
 - Clúster de clientes.

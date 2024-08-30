@@ -26,7 +26,7 @@ Geralmente, as lojas solicitam apenas documentações pessoais, como RG, CPF, co
 
 Para utilizar o __Crédito Direto ao Consumidor (CDC) da Losango__ na sua loja, siga as instruções abaixo. Se essa for a primeira vez que você configura um meio de pagamento na VTEX, recomendamos aprender os [fundamentos do módulo de Pagamentos](https://help.vtex.com/pt/tracks/pagamentos--6GAS7ZzGAm7AGoEAwDbwJG) antes de seguir em frente.
 
-<div class="alert alert-info" role="alert">Caso deseje mais informações técnicas sobre a integração, consulte a <a href="https://assets.ctfassets.net/alneenqid6w5/5FVOQoVWOAgaZsKlNHoCCr/83db071b0a7c04c02736d0d4d9fcadc0/DOC_TECNICO_Overview_de_Integrac__a__o_-_CDC_Online_-_v20191111.pdf" target="_blank">documentação técnica da Losango</a>.</div>
+>ℹ️ Caso deseje mais informações técnicas sobre a integração, consulte a [documentação técnica da Losango](https://assets.ctfassets.net/alneenqid6w5/5FVOQoVWOAgaZsKlNHoCCr/83db071b0a7c04c02736d0d4d9fcadc0/DOC_TECNICO_Overview_de_Integrac__a__o_-_CDC_Online_-_v20191111.pdf" target="_blank).
 
 ## Cadastro como parceiro Losango
 
@@ -54,7 +54,7 @@ Com isso, a opção de pagamento __Losango em até 24x__ aparecerá corretamente
 
 ![CDC-Losango-4](https://images.ctfassets.net/alneenqid6w5/5dzHuCYPxHpy88Q2RjfZeJ/4ad6d24322184f7f756a9d994ed63e94/CDC-Losango-4.png)
 
-<div class="alert alert-warning" role="alert"><strong>Atenção:</strong> Modificar de forma incorreta os scripts de customização do checkout podem quebrar sua loja ou parar as vendas. Em caso de erros, por favor, apague o conteúdo deste script.</div>
+>⚠️ **Atenção:** Modificar de forma incorreta os scripts de customização do checkout podem quebrar sua loja ou parar as vendas. Em caso de erros, por favor, apague o conteúdo deste script.
 
 ### Configuração do conector de pagamentos
 

@@ -51,7 +51,7 @@ Según la preferencia del cliente y la orientación de su tienda, podrá rellena
 
 ![shareable-cart-customerdetails](https://images.ctfassets.net/alneenqid6w5/4JY5ktzka93UkWov5cMnb6/8d2cccb0e7189da93ed6bf98c37d7752/shareable-cart-customerdetails.gif)
 
-<div class="alert alert-danger" role="alert"><strong>Nunca pida los datos de pago al enviar el carrito.</strong> Incluso si el cliente insiste, informe que es por la seguridad de todos que él debe ingresar los datos de pago.</div>
+>❗ **Nunca pida los datos de pago al enviar el carrito.** Incluso si el cliente insiste, informe que es por la seguridad de todos que él debe ingresar los datos de pago.
 
 ## Compartir carrito
 
@@ -68,7 +68,7 @@ Para compartir el carrito por WhatsApp:
 3. (Opcional) Personalice el mensaje en WhatsApp.
 4. Envíe el mensaje por WhatsApp.
 
-<div class="alert alert-warning" role="alert">Antes de compartir un carrito a través de WhatsApp, es necesario configurar una cuenta en su celular o <a href="https://faq.whatsapp.com/pt_br/web/26000012/?category=5245235&lang=es" target="_blank">computadora</a>.  Si lo prefiere, puede instalar <a href="https://faq.whatsapp.com/pt_br/general/26000092/?category=5245246&lang=es" target="_blank">WhatsApp Business</a> para separar su cuenta personal de la cuenta de la tienda.</div>
+>⚠️ Antes de compartir un carrito a través de WhatsApp, es necesario configurar una cuenta en su celular o [computadora](https://faq.whatsapp.com/pt_br/web/26000012/?category=5245235&lang=es" target="_blank).  Si lo prefiere, puede instalar [WhatsApp Business](https://faq.whatsapp.com/pt_br/general/26000092/?category=5245246&lang=es" target="_blank) para separar su cuenta personal de la cuenta de la tienda.
 
 ### Facebook Messenger
 
@@ -79,10 +79,9 @@ Para compartir el carrito por Facebook Messenger:
 3. Personalice el mensaje en Facebook Messenger.
 4. Envíe el mensaje por Facebook Messenger.
 
-<div class="alert alert-info" role="alert">
-No es posible compartir carritos en Messenger para perfiles desconocidos. Si el perfil del cliente no aparece en el paso 2, puede utilizar la opción de compartir por enlace y enviar una <a href="https://es-la.facebook.com/help/208160052556047?helpref=uf_permalink" target="_blank">solicitud de mensaje</a> al perfil del cliente.</div>
+>ℹ️ No es posible compartir carritos en Messenger para perfiles desconocidos. Si el perfil del cliente no aparece en el paso 2, puede utilizar la opción de compartir por enlace y enviar una [solicitud de mensaje](https://es-la.facebook.com/help/208160052556047?helpref=uf_permalink" target="_blank) al perfil del cliente.
 
-<div class="alert alert-warning" role="alert">Antes de poder compartir un carrito a través de Facebook Messenger, debe <a href="https://es-la.facebook.com/help/messenger-app/218228001910904?helpref=typeahead_suggestions&sr=2&query=instalar" target="_blank">configurar una cuenta</a> en su celular o computadora. Si lo prefiere, puede usar <a href="https://es-la.facebook.com/business/help/499491430453591?helpref=search&sr=2&query=messenger" target="_blank">Messenger para empresas</a> para separar su cuenta personal de la cuenta de la tienda.</div>
+>⚠️ Antes de poder compartir un carrito a través de Facebook Messenger, debe [configurar una cuenta](https://es-la.facebook.com/help/messenger-app/218228001910904?helpref=typeahead_suggestions&sr=2&query=instalar" target="_blank) en su celular o computadora. Si lo prefiere, puede usar [Messenger para empresas](https://es-la.facebook.com/business/help/499491430453591?helpref=search&sr=2&query=messenger" target="_blank) para separar su cuenta personal de la cuenta de la tienda.
 
 ### SMS
 
@@ -111,7 +110,7 @@ Para compartir el carrito por Gmail:
 3. (Opcional) Personalice el mensaje en Gmail.
 4. Envíe el mensaje por Gmail.
 
-<div class="alert alert-warning" role="alert">Antes de poder compartir un carrito a través de Gmail, debe <a href="https://support.google.com/mail/answer/8494?co=GENIE.Platform%3DDesktop&hl=es" target="_blank">iniciar sesión</a> en su celular o computadora. Si lo prefiere, puede <a href="https://support.google.com/accounts/answer/1721977?co=GENIE.Platform%3DDesktop&hl=es" target="_blank">alternar entre cuentas</a> para escoger enviar el mensaje utilizando su cuenta personal o la cuenta de la tienda. </div>
+>⚠️ Antes de poder compartir un carrito a través de Gmail, debe [iniciar sesión](https://support.google.com/mail/answer/8494?co=GENIE.Platform%3DDesktop&hl=es" target="_blank) en su celular o computadora. Si lo prefiere, puede [alternar entre cuentas](https://support.google.com/accounts/answer/1721977?co=GENIE.Platform%3DDesktop&hl=es" target="_blank) para escoger enviar el mensaje utilizando su cuenta personal o la cuenta de la tienda.
 
 ### Correo Electrónico
 
@@ -122,15 +121,15 @@ Para compartir el carrito por Correo Electrónico:
 3. (Opcional) Personalice el mensaje en su aplicación de correo electrónico.
 4. Envíe el mensaje por su aplicación de correo electrónico.
 
-<div class="alert alert-warning" role="alert">Antes de poder compartir un carrito por correo electrónico, debe tener una aplicación configurada para abrir y enviar correos electrónicos en su celular o computadora.</div>
+>⚠️ Antes de poder compartir un carrito por correo electrónico, debe tener una aplicación configurada para abrir y enviar correos electrónicos en su celular o computadora.
 
 ## Limpiar carrito
 
 Después de terminar la atención de un cliente, haga clic en el botón <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/2fM6iuMfYNkTWlPA1vaSFM/c5c7c03611d846d609907d272b66684b/image5.png"/> para limpiar su carrito y escoger nuevos productos para otro cliente.
 
-<div class="alert alert-info" role="alert"><strong>¡Cada vendedor puede trabajar con varios clientes!</strong> Recomendamos guardar los enlaces ya compartidos en una plantilla o en un cuaderno de notas. De esta manera, mantiene sus carritos organizados y podrá hacer cambios cuando lo solicite un cliente.</div>
+>ℹ️ **¡Cada vendedor puede trabajar con varios clientes!** Recomendamos guardar los enlaces ya compartidos en una plantilla o en un cuaderno de notas. De esta manera, mantiene sus carritos organizados y podrá hacer cambios cuando lo solicite un cliente.
 
-<div class="alert alert-warning" role="alert">El cliente deberá actualizar la página o acceder de nuevo al enlace para ver los cambios realizados en el carrito.</div>
+>⚠️ El cliente deberá actualizar la página o acceder de nuevo al enlace para ver los cambios realizados en el carrito.
 
 
 

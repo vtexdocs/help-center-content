@@ -1,9 +1,9 @@
 ---
 title: 'Gestionar las tarifas de envío'
 id: tutorials_141
-status: PUBLISHED
+status: CHANGED
 createdAt: 2017-04-27T22:17:04.172Z
-updatedAt: 2023-03-29T15:06:40.531Z
+updatedAt: 2024-08-22T17:59:31.012Z
 publishedAt: 2023-03-29T15:06:40.531Z
 firstPublishedAt: 2017-04-27T23:00:45.116Z
 contentType: tutorial
@@ -22,7 +22,7 @@ Las [tarifas de envío](https://help.vtex.com/es/tutorial/tarifas-de-envio--1Bal
 * [Editar](#editar) las tarifas de envío;
 * [Eliminar](#eliminar) las tarifas de envío.
 
->ℹ️ Cuando tenga que actualizar o registrar varios precios de envío, recomendamos utilizar la Plantilla de envío (flete) en vez del módulo Tarifas de envío. Si desea comprobar cómo se mostrarán las tarifas de envío registradas al cliente final, utilice el módulo **[Simulador de envío](https://help.vtex.com/es/tutorial/simulacao-de-frete--tutorials_144)**.
+>ℹ️ Cuando tenga que actualizar o registrar varios precios de envío, recomendamos utilizar la Plantilla de envío (flete) en vez del módulo Tarifas de envío. Si desea comprobar cómo se mostrarán las tarifas de envío registradas al cliente final, utilice el módulo [Simulador de envío](https://help.vtex.com/es/tutorial/simulacao-de-frete--tutorials_144).
 
 ## Registrar
 

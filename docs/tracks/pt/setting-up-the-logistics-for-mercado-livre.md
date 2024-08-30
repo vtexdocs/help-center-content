@@ -3,8 +3,8 @@ title: 'Configurar logística para o Mercado Livre'
 id: 4551ZlEQI8qmiSWieigoKy
 status: PUBLISHED
 createdAt: 2018-08-13T12:53:57.008Z
-updatedAt: 2024-07-23T22:07:18.063Z
-publishedAt: 2024-07-23T22:07:18.063Z
+updatedAt: 2024-08-19T17:36:50.573Z
+publishedAt: 2024-08-19T17:36:50.573Z
 firstPublishedAt: 2018-08-13T14:27:58.483Z
 contentType: trackArticle
 productTeam: Channels
@@ -69,7 +69,7 @@ Alguns tipos logísticos possuem a obrigatoriedade de envio de nota fiscal ou co
 - [Flex](#flex)
 - [Mercado Envios Full](#mercado-envios-full)
 
->ℹ️ Para Segmentar qual tipo de frete utilizado pela loja, é necessário criar um [<i>atributo de produto</i>](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) com o nome `meli_shipping_mode`, onde estará preenchido se é ME1 ou ME2.
+>ℹ️ Para Segmentar qual tipo de frete utilizado pela loja, é necessário criar um [<i>atributo de produto</i>](https://help.vtex.com/pt/tutorial/campos-customizaveis-de-produto--6tJOSJ2o9phVIb8XXG6QSk) com o nome `meli_shipping_mode`, onde estará preenchido se é ME1 ou ME2.
 
 ### Drop Off
 

@@ -15,4 +15,4 @@ legacySlug: service-indicators
 subcategory: 2A1RNDhwU4kqCN3XimtaD2
 ---
 
-<div class="alert alert-warning" role="alert">The VTEX Tracking solution is currently available exclusively in Brazil. Therefore, this content is only presented in Portuguese.</div>
+>⚠️ The VTEX Tracking solution is currently available exclusively in Brazil. Therefore, this content is only presented in Portuguese.

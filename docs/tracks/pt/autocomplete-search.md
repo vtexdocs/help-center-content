@@ -23,10 +23,7 @@ O Autocomplete funciona com base nas informações obtidas por meio do históric
 - Sugestão de produtos.
 - Termos mais buscados.
 
-<div class="alert alert-warning" role="alert">
-<p>Ao pesquisar um termo não cadastrado, o Autocomplete não encontrará produtos com as especificações desejadas e não exibirá nenhuma sugestão.
-</p>
-</div>
+>⚠️ Ao pesquisar um termo não cadastrado, o Autocomplete não encontrará produtos com as especificações desejadas e não exibirá nenhuma sugestão.
 
 Durante a interação com a barra de busca, o VTEX Intelligent Search exibe imediatamente o conjunto de _Termos mais buscados_ e _Últimas pesquisas_, caso o cliente já tenha feito alguma.
 

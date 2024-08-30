@@ -15,4 +15,4 @@ legacySlug: errores-de-configuracion-en-la-integracion-de-amazon
 subcategory: 4HBbKdnwneGew2qGGykSM8
 ---
 
-<div class="alert alert-warning" role="alert">Contenido bajo traducción.</div>
+>⚠️ Contenido bajo traducción.

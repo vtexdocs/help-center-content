@@ -44,15 +44,15 @@ A senha deverá ter pelo menos oito caracteres e um número, uma letra maiúscul
 1. Na barra superior do Admin VTEX, clique no **avatar do seu perfil**, marcado pela inicial do seu email, e depois em **Configurações da conta** > __Usuários__.
 2. Para editar um usuário já cadastrado, clique em seu nome a partir da listagem de usuários. Outra possibilidade é clicar no botão de menu <i class="fas fa-ellipsis-v"></i> na linha do usuário desejado e então em **Editar**.
   ![Botão Editar Usuário User Management PT](https://images.ctfassets.net/alneenqid6w5/5XzJuCftOAty7JHkxHO5Th/4795fe5b550804de645180f2ce973cb0/Bot__o_Editar_Usu__rio_User_Management_PT.png)
-  <div class="alert alert-warning" role="alert">Não é possível alterar o email de um usuário cadastrado. Neste caso, é necessário excluir o cadastro anterior e fazer um novo cadastro.</div>
+  >⚠️ Não é possível alterar o email de um usuário cadastrado. Neste caso, é necessário excluir o cadastro anterior e fazer um novo cadastro.
 3. Na tela de edição, é possível adicionar e remover [Perfis de acesso](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) do usuário, conforme ilustrado a seguir.
   ![Selecionar perfis User Management PT](https://images.ctfassets.net/alneenqid6w5/4wSp2QkYZH114DFFEOo3ly/f04120c62872db0a334a94cd6eaa27d0/Selecionar_perfis_User_Management__PT.png) 
 4. Clique em `Adicionar perfis` para confirmar a seleção.
 5. Clique em `Salvar`.
 
-<div class="alert alert-info" role="alert">Um alerta irá aparecer ao adicionar perfis de acesso a um usuário que não utiliza autenticação de múltiplos fatores (MFA). O artigo <a href="https://help.vtex.com/pt/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ">Habilitar login por autenticação de 2 fatores</a> mostra como habilitar essa configuração.</div>
+>ℹ️ Um alerta irá aparecer ao adicionar perfis de acesso a um usuário que não utiliza autenticação de múltiplos fatores (MFA). O artigo [Habilitar login por autenticação de 2 fatores](https://help.vtex.com/pt/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ) mostra como habilitar essa configuração.
 
-<div class="alert alert-warning" role="alert">Se todos os perfis de acesso forem removidos do usuário, ele também não conseguirá mais acessar o Admin VTEX.</div>
+>⚠️ Se todos os perfis de acesso forem removidos do usuário, ele também não conseguirá mais acessar o Admin VTEX.
 
 ## Excluir um usuário
 

@@ -3,8 +3,8 @@ title: 'Advertising with VTEX Ad Network (Beta)'
 id: 5WoXcJzHc7EQElpPjziqse
 status: PUBLISHED
 createdAt: 2024-04-23T18:57:14.559Z
-updatedAt: 2024-07-30T15:01:46.734Z
-publishedAt: 2024-07-30T15:01:46.734Z
+updatedAt: 2024-08-05T22:33:07.827Z
+publishedAt: 2024-08-05T22:33:07.827Z
 firstPublishedAt: 2024-04-23T19:16:43.333Z
 contentType: tutorial
 productTeam: Others
@@ -29,6 +29,12 @@ If you're already a **VTEX Ad Network** advertiser, check this article to learn 
 - [Tracking your campaigns](#tracking-your-campaigns)
 - [Viewing more details by campaign and product](#viewing-more-details-by-campaign-and-product)
 
+>ℹ️ Ad Network provides records of changes to campaigns in <a
+> href="https://help.vtex.com/en/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA">
+> Audit</a>. For more information, see <a
+> href="https://help.vtex.com/en/tutorial/events-available-in-audit--6r1Mzcu5NmkmmDLJlz9CCZ#ad-network">
+>   the list of events available in Audit</a>.
+
 ## Creating campaigns
 
 Follow the steps below to create a [VTEX Ad Network campaign](https://help.vtex.com/en/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#campaigns):
@@ -43,7 +49,7 @@ Follow the steps below to create a [VTEX Ad Network campaign](https://help.vtex.
 6. Select the products you want to advertise using one of the following options:
 
    * __Search products by EAN:__ Search for products in your catalog by EAN.
-   * __Upload File:__ Upload a CSV file with a list of EAN codes, as in [this example](https://assets.ctfassets.net/alneenqid6w5/37tlx8GVGFxhOS48l73Ehz/75958f41bc4628e283ab1d8e060a01ab/teste-ads.csv). EANs are mandatory and bids are optional in the file.
+   * __Upload File:__ Upload a CSV file with a list of EAN codes, as in [this example](//assets.ctfassets.net/alneenqid6w5/37tlx8GVGFxhOS48l73Ehz/75958f41bc4628e283ab1d8e060a01ab/teste-ads.csv). EANs are mandatory and bids are optional in the file.
 
 7. In the *Budget, bid, and schedule* section, click the edit button <i class="fas fa-pencil-alt"></i>.
 8. Set the bid amount for each product. You can set each value individually.

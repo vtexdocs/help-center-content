@@ -14,5 +14,5 @@ trackId: 4wF4RBx9ygEkimW6SsKw8i
 trackSlugEN: dafiti-integration-setup
 ---
 
-<div class="alert alert-warning" role="alert">This is a regional exclusive content not applicable to 
-English speaking countries.</div>
+>⚠️ This is a regional exclusive content not applicable to 
+> English speaking countries.

@@ -3,8 +3,8 @@ title: 'Exporting data from Master Data v1'
 id: tutorials_1125
 status: PUBLISHED
 createdAt: 2017-04-27T21:57:19.601Z
-updatedAt: 2024-06-20T15:09:14.414Z
-publishedAt: 2024-06-20T15:09:14.414Z
+updatedAt: 2024-08-15T20:57:37.911Z
+publishedAt: 2024-08-15T20:57:37.911Z
 firstPublishedAt: 2017-04-27T23:03:43.216Z
 contentType: tutorial
 productTeam: Master Data
@@ -15,7 +15,12 @@ legacySlug: exporting-data
 subcategory: 2AThnkEZAYbk4G4EIs53rL
 ---
 
-The mass export of data records in Master Data v1 can be made through the API or importing the worksheet. The purpose of this document is to show the steps required for exporting data by worksheet.
+Exporting bulk data from records in Master Data v1 can be done in two ways:
+
+* Downloading a spreadsheet via the Master Data interface.
+* Using the [Scroll documents](https://developers.vtex.com/docs/api-reference/masterdata-api#get-/api/dataentities/-acronym-/scroll) endpoint from the Master Data v1 API.
+
+The purpose of this document is to show the steps required for __exporting data to a spreadsheet__.
 
 >⚠️ Exporting data from Master Data is not an immediate operation, and its execution time depends on the amount of data in Master Data. Therefore, in stores with a very large amount of data and a high update frequency, the exported file may become outdated in relation to the new data. If this occurs, the solution may be to export the data again, preferably when there are not many updates taking place (for example, outside of business hours or on weekends).
 

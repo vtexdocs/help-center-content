@@ -15,4 +15,4 @@ legacySlug: what-is-a-dispute
 subcategory: 204Hz794zvcUIJXLcShY43
 ---
 
-<div class="alert alert-warning" role="alert">This is a regional exclusive content not applicable to English speaking countries.</div>
+>⚠️ This is a regional exclusive content not applicable to English speaking countries.

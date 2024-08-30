@@ -24,7 +24,7 @@ Para utilizar a afiliação EasyPay no seu marketplace, é necessário:
 - [Configurar Webhook easypay](#configurar-webhook-easypay)
 - [Configurar afiliação easypay](#configurar-afiliacao-easypay)  
 
-<div class="alert alert-warning" role="alert">Caso sua loja não seja um marketplace, acesse os artigos <a href="https://help.vtex.com/pt/tutorial/configurar-pagamento-com-easypay--3xJQqjMIn0ARDI1HcwK88J">Configurar pagamento com easypay</a> ou <a href="https://help.vtex.com/pt/tutorial/configurar-pagamento-com-easypay-seller--5mYMCM1tiRiZO6PozuUncE">Configurar pagamento com easypay seller</a>.</div>
+>⚠️ Caso sua loja não seja um marketplace, acesse os artigos [Configurar pagamento com easypay](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-easypay--3xJQqjMIn0ARDI1HcwK88J) ou [Configurar pagamento com easypay seller](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-easypay-seller--5mYMCM1tiRiZO6PozuUncE).
 
 ## Instalar o app easypay
 
@@ -49,7 +49,7 @@ As informações de configuração estão divididas em quatro seções:
 
 ![easypay_pt_1](https://images.ctfassets.net/alneenqid6w5/5SQRO4e7bYL1o8CG383UBE/03f939e9444e2655b4b9b540a4e521cc/easypay_pt_1.png)
 
-<div class="alert alert-warning" role="alert">Você deve realizar as configurações abaixo no <a href="https://backoffice.easypay.pt/">ambiente easypay</a>. O controle destas configurações é de responsabilidade da easypay, e portanto, a VTEX não garante que os passos abaixo estejam atualizados permanentemente. Utilize este documento como uma referência e consulte sua conta no <a href="https://backoffice.easypay.pt/">ambiente easypay</a> para informações atualizadas.</div>
+>⚠️ Você deve realizar as configurações abaixo no [ambiente easypay](https://backoffice.easypay.pt/). O controle destas configurações é de responsabilidade da easypay, e portanto, a VTEX não garante que os passos abaixo estejam atualizados permanentemente. Utilize este documento como uma referência e consulte sua conta no [ambiente easypay](https://backoffice.easypay.pt/) para informações atualizadas.
 
 ### Credenciais easypay
 
@@ -110,7 +110,7 @@ __Refund account ID e Refund account key__: easypay refund keys ID e value.
 
 ![easypay_pt_17](https://images.ctfassets.net/alneenqid6w5/4Syc7o7Twuasd3uFyw9F0W/b22ae772f368d8e25db2723ff88b5276/easypay_pt_17.png)
 
-<div class="alert alert-warning" role="alert">Os reembolsos são debitados diretamente de uma conta pertencente ao marketplace. Posteriormente, o marketplace deve solicitar ao seller o valor reembolsado.</div>
+>⚠️ Os reembolsos são debitados diretamente de uma conta pertencente ao marketplace. Posteriormente, o marketplace deve solicitar ao seller o valor reembolsado.
 
 ### Pagamento
 
@@ -126,7 +126,7 @@ Exemplo:
 | ---------------- | ---------------- |
 | mb,dd,vi,sc | mb, dd, vi, sc |
 
-<div class="alert alert-warning" role="alert">Caso este campo seja preenchido, será obrigatório o preenchimento do campo <b>Dias para expiração de pagamentos assíncronos</b>.</div>
+>⚠️ Caso este campo seja preenchido, será obrigatório o preenchimento do campo **Dias para expiração de pagamentos assíncronos**.
 
 __Tipos de pagamento síncronos aceites__: métodos de pagamento síncronos disponíveis para o cliente. Preencha apenas com as siglas dos tipos de Síncronos, separados por vírgula, sem pontos e sem espaços.
 
@@ -184,7 +184,7 @@ Exemplo:
 | ---------------- | ---------------- |
 | 11 | 11px |
 
-<div class="alert alert-warning" role="alert">Não utilize fontes acima de 12 pixels, pois poderão distorcer a visualização do layout.</b>.</div>
+>⚠️ Não utilize fontes acima de 12 pixels, pois poderão distorcer a visualização do layout.</b>.
 
 ### Modo Sandbox
 
@@ -208,7 +208,7 @@ Para configurar o webhook da easypay, sig os passos abaixo:
 
 ![easypay_pt_9](https://images.ctfassets.net/alneenqid6w5/2f7UMqQzrIqNbtslGCFxyC/5724ef2676c10b5f1eff6594eafb5412/easypay_pt_9.PNG)
 
-<div class="alert alert-warning" role="alert">Caso haja mais de uma conta de pagamento em seu marketplace, adicione um link para cada uma das contas existentes.</div>
+>⚠️ Caso haja mais de uma conta de pagamento em seu marketplace, adicione um link para cada uma das contas existentes.
 
    <ui>4. Clique em __Submeter__.</ui>
 

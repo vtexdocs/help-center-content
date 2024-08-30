@@ -3,8 +3,8 @@ title: 'The transaction flow'
 id: 1xjzgJZvqwaI1rfxLMCC3Y
 status: PUBLISHED
 createdAt: 2019-11-26T17:45:13.678Z
-updatedAt: 2022-07-19T14:29:24.191Z
-publishedAt: 2022-07-19T14:29:24.191Z
+updatedAt: 2024-08-21T14:18:31.189Z
+publishedAt: 2024-08-21T14:18:31.189Z
 firstPublishedAt: 2019-11-26T18:08:32.132Z
 contentType: trackArticle
 productTeam: Financial

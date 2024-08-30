@@ -3,8 +3,8 @@ title: 'Configurar Categoria Similar'
 id: tutorials_204
 status: PUBLISHED
 createdAt: 2017-04-27T22:16:03.892Z
-updatedAt: 2023-02-13T19:52:52.306Z
-publishedAt: 2023-02-13T19:52:52.306Z
+updatedAt: 2024-08-08T19:19:13.231Z
+publishedAt: 2024-08-08T19:19:13.231Z
 firstPublishedAt: 2017-04-27T23:00:46.323Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -38,6 +38,8 @@ Somente a categoria principal do produto definirá os campos, especificações e
 Da mesma maneira, se filtrar por __Jarras de vidro__ na categoria __Jarras__, você não vai ver os copos de vidro, já que é impossível preencher um campo da categoria similar para um produto da categoria principal.
 
 ## Categoria Similar em outra categoria
+
+>⚠️ Esta configuração é compatível apenas com lojas que utilizam o [Portal CMS Legado](https://help.vtex.com/pt/tracks/cms--2YcpgIljVaLVQYMzxQbc3z/1oN446gRGcR2s70RvBCAmj).
 
 Ao editar uma categoria, é possível configurar sua categoria similar. Ao concluir esse tipo de configuração a nível de categoria, o menu de navegação passa a exibir um link para a categoria similar no nível da categoria original.
 

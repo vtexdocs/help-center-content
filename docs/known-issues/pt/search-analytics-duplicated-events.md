@@ -3,8 +3,8 @@ title: 'Pesquisar eventos duplicados do Analytics'
 id: 48h3ObR7qqRHvU36weCvjC
 status: PUBLISHED
 createdAt: 2023-03-15T19:40:23.229Z
-updatedAt: 2023-09-20T18:49:19.673Z
-publishedAt: 2023-09-20T18:49:19.673Z
+updatedAt: 2024-08-05T16:28:52.160Z
+publishedAt: 2024-08-05T16:28:52.160Z
 firstPublishedAt: 2023-03-15T19:40:23.835Z
 contentType: knownIssue
 productTeam: Intelligent Search

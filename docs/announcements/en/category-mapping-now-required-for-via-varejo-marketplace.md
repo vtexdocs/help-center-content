@@ -21,7 +21,7 @@ The product integration flow on the Via Varejo Marketplace was [modified in thei
 
 There was no need for mapping to activate the Via Varejo Integration before this change. Mapping categories, variations and attributes for your products is henceforth __mandatory__.
 
-<div class="alert alert-warning" role="alert"><strong>Attention:</strong> Products created or updated after this change will only be integrated if their category, variations and attributes are mapped out.</div>
+>⚠️ **Attention:** Products created or updated after this change will only be integrated if their category, variations and attributes are mapped out.
 
 ## Why did we make this change?
 
@@ -36,4 +36,4 @@ To ensure the best positioning and experience for our clients in the certified m
 
 Map categories, variations and attributes according to our [documentation](https://help.vtex.com/en/tracks/configurar-integracao-da-via-varejo--3E9XylGaJ2wqwISGyw4GuY/5QVZFYNfuRIQKdq34MbTxz#fazendo-o-upload).
 
-<div class="alert alert-info" role="alert">This process can be performed gradually according to your needs and only needs to be done once per category. Once a category and its variations/attributes are mapped, all products in that category will be integrated normally without requiring any additional action.</div>
+>ℹ️ This process can be performed gradually according to your needs and only needs to be done once per category. Once a category and its variations/attributes are mapped, all products in that category will be integrated normally without requiring any additional action.

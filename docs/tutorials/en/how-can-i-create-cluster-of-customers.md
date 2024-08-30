@@ -3,8 +3,8 @@ title: 'Create a cluster of customers'
 id: frequentlyAskedQuestions_1724
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:58.065Z
-updatedAt: 2024-05-24T19:15:04.156Z
-publishedAt: 2024-05-24T19:15:04.156Z
+updatedAt: 2024-08-12T16:09:00.345Z
+publishedAt: 2024-08-12T16:09:00.345Z
 firstPublishedAt: 2019-01-24T22:05:41.666Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -32,8 +32,15 @@ These details, once obtained, are very useful for the company’s marketing and 
 
 The purpose of this article is to show how to configure your CRM to create a cluster.
 
-1. The first step is to create a field in the MasterData with the name of the cluster you want. E.g.: Dealers. In this way customers who are dealers will be highlighted, and can be offered an exclusive promotion, for example. [Access our manual on how to create a field](/en/faq/how-can-i-create-field-in-master-data/).
-2. Then create this field in the form, so that the data can be seen. [For this, see our manual](/en/faq/how-can-i-create-field-in-master-data/).
+<ol start="1">
+    <li>The first step is to create a field in MasterData with the name of the desired cluster. Example: Resellers. This way, customers who are resellers will be highlighted, receiving an exclusive promotion, for example. <a href="https://help.vtex.com/tutorial/como-crio-um-campo-no-master-data">Access our manual on how to create a field.</a></li>
+</ol>
+
+>ℹ️ For a cluster to work correctly in a promotion, define the newly created custom field as **searchable** and **filterable** in MasterData.
+
+<ol start="2">
+    <li>The second step is to create this field in the form so that it is possible to view the data. <a href="https://help.vtex.com/en/tutorial/como-crio-um-campo-no-master-data">For that, see our manual.</a></li>
+</ol>
 
 So technically, a cluster in CRM is nothing more than a field.
 

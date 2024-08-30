@@ -15,4 +15,4 @@ legacySlug: reconciliation-of-accounts-receivable
 subcategory: 23PYStKNPteW4CqklwXXQN
 ---
 
-<div class="alert alert-warning" role="alert">Content under translation.</div>
+>⚠️ Content under translation.

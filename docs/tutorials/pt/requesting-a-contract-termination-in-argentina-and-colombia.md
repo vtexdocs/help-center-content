@@ -15,7 +15,7 @@ legacySlug: solicitar-rescisao-contratual-na-argentina-e-colombia
 subcategory: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-<div class="alert alert-info" role="alert">Para realizar a rescisão de contrato, sua loja não pode ter nenhuma dívida com a VTEX. E, caso haja, a dívida deverá ser quitada para seguir adiante com o processo. Saiba <a href="https://help.vtex.com/pt/tutorial/como-baixar-boletos-e-notas-fiscais-da-vtex--tutorials_653" target="_blank">como pagar sua fatura</a>.</div>
+>ℹ️ Para realizar a rescisão de contrato, sua loja não pode ter nenhuma dívida com a VTEX. E, caso haja, a dívida deverá ser quitada para seguir adiante com o processo. Saiba [como pagar sua fatura](https://help.vtex.com/pt/tutorial/como-baixar-boletos-e-notas-fiscais-da-vtex--tutorials_653" target="_blank).
 
 Para solicitar rescisão, por favor entre em contato com nosso time financeiro por meio de um [ticket](https://help.vtex.com/pt/tutorial/opening-tickets-to-vtex-support-finacial--1ad3TguXzCSKq4yuYSK80c). A abertura de um ticket produzirá uma resposta da VTEX. Após esse contato, você deverá enviar os documentos obrigatórios. 
 

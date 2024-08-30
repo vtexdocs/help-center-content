@@ -67,9 +67,7 @@ After installing VTEX Insurance, you need to complete the Catalog setup to cover
 
 10. [Bind the insurance to the desired](https://help.vtex.com/en/tutorial/adding-specifications-or-product-fields--tutorials_106) product.
 
-<div class="alert alert-info" role="alert">
-<p> You need to repeat this process for all categories and products that offer insurance coverage. </p>
-</div>
+>ℹ️ You need to repeat this process for all categories and products that offer insurance coverage.
 
 ## Configuring Insurance
 After setting up the catalog, your store will have the products bound to insurance. In **Insurance** > **Configuration**, complete the VTEX Insurance setup.

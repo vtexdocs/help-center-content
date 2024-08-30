@@ -25,10 +25,7 @@ Autocomplete funciona según la información obtenida a través del historial de
 - Sugerencia de productos.
 - Términos más buscados.
 
-<div class="alert alert-warning" role="alert">
-<p>Cuando se busca un término no registrado, Autocomplete no encuentra productos con las especificaciones deseadas y no muestra ninguna sugerencia.
-</p>
-</div>
+>⚠️ Cuando se busca un término no registrado, Autocomplete no encuentra productos con las especificaciones deseadas y no muestra ninguna sugerencia.
 
 Durante la interacción con la barra de búsqueda, VTEX Intelligent Search inmediatamente muestra el conjunto de Términos más buscados y Últimas búsquedas, si el cliente ya ha realizado alguna búsqueda.
 

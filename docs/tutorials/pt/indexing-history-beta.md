@@ -15,9 +15,7 @@ legacySlug: historico-da-indexacao-beta
 subcategory: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
-<div class="alert alert-info" role="alert">
-<p>Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com <a href="https://support.vtex.com/hc/pt-br/requests">nosso Suporte</a>.</p>
-</div>
+>ℹ️ Essa funcionalidade está em fase Beta, o que significa que estamos trabalhando para aprimorá-la. Em caso de dúvidas, entre em contato com [nosso Suporte](https://support.vtex.com/hc/pt-br/requests).
 
 **Histórico da Indexação** é a página que monitora a situação de sincronização de todos os produtos do Catálogo enviados para o Intelligent Search. Ele permite visualizar de forma ampla o progresso da indexação da sua loja.
 

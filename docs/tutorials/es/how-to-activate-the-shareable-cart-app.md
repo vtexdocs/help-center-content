@@ -33,7 +33,7 @@ Para instalar la aplicación en su tienda, realice los siguientes pasos:
 
 Una vez completados estos pasos, la app se instalará en la cuenta informada. El siguiente paso es revisar la configuración de la app para ajustarla a las necesidades de su tienda.
 
-<div class="alert alert-warning" role="alert">El nombre de su cuenta es el identificador utilizado para acceder a su Admin, en el lugar de <code class="c-link">{accountName}</code> en la dirección: <code>https://<span class="c-link">{accountName}</span>.myvtex.com/admin</code></div>
+>⚠️ El nombre de su cuenta es el identificador utilizado para acceder a su Admin, en el lugar de <code class="c-link">{accountName}</code> en la dirección: `https://<span class="c-link">{accountName}</span>.myvtex.com/admin`
 
 ## Configuración
 
@@ -63,7 +63,7 @@ La elección del campo en el que se ingresará el código del vendedor depende d
 
 Si se seleccionan ambas alternativas, el vendedor debe indicar qué campo está rellenando en la interfaz de carrito compartible.
 
-<div class="alert alert-info" role="alert">La información registrada puede encontrarse en el card <strong>Promociones y Marketing</strong> en los <a href="https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/204AjAQseJe8RLUi8GAhiC?locale=pt" target="_blank">detalles del pedido</a> o en el objeto <code>marketingData</code> devuelto al obtener la información del pedido mediante <a href="https://developers.vtex.com/reference/orders#getorder">Orders API</a>.</div>
+>ℹ️ La información registrada puede encontrarse en el card **Promociones y Marketing** en los [detalles del pedido](https://help.vtex.com/es/tracks/pedidos--2xkTisx4SXOWXQel8Jg8sa/204AjAQseJe8RLUi8GAhiC?locale=pt" target="_blank) o en el objeto `marketingData` devuelto al obtener la información del pedido mediante [Orders API](https://developers.vtex.com/reference/orders#getorder).
 
 ### Canales
 
@@ -76,7 +76,7 @@ Esta configuración le permite activar los canales que desea utilizar en la inte
 - Gmail
 - Correo electrónico 
 
-<div class="alert alert-warning" role="alert">Recuerde que el vendedor deberá iniciar sesión en las cuentas de las redes sociales y aplicaciones utilizadas para compartir en el dispositivo empleado para crear el carrito.</div>
+>⚠️ Recuerde que el vendedor deberá iniciar sesión en las cuentas de las redes sociales y aplicaciones utilizadas para compartir en el dispositivo empleado para crear el carrito.
 
 ## Personalización (opcional)
 
@@ -88,7 +88,7 @@ En la siguiente imagen, la opción A muestra los colores originales y la opción
 
 El código que figura a continuación debe añadirse al final del archivo `checkout5-custom.css` o `checkout6-custom.css`, disponible para su personalización en *Configuración de la tienda > Checkout > Código*. El archivo que debe editarse depende de la versión de Checkout utilizada por su tienda.
 
-<div class="alert alert-danger" role="alert"><strong>Atención:</strong> Errores en la personalización del checkout pueden afectar el flujo de compras de sus clientes. En caso de que no entienda el siguiente código, pida ayuda a su equipo técnico.</div>
+>❗ **Atención:** Errores en la personalización del checkout pueden afectar el flujo de compras de sus clientes. En caso de que no entienda el siguiente código, pida ayuda a su equipo técnico.
 
 Luego, basta con cambiar las propiedades en el código CSS según sea necesario. 
 
@@ -230,7 +230,7 @@ Presentamos algunas posibilidades en la tabla de abajo. Recomendamos que el equi
   </tbody>
 </table>
 
-<div class="alert alert-info" role="alert">En el escenario 4 es necesario <a href="https://help.vtex.com/es/tutorial/consigo-gerar-um-cupom-em-massa--frequentlyAskedQuestions_348?locale=pt">generar cupones masivamente</a>, para que cada vendedor tenga su propio cupón para la identificación y la activación del descuento.</div>
+>ℹ️ En el escenario 4 es necesario [generar cupones masivamente](https://help.vtex.com/es/tutorial/consigo-gerar-um-cupom-em-massa--frequentlyAskedQuestions_348?locale=pt), para que cada vendedor tenga su propio cupón para la identificación y la activación del descuento.
 
 ### ¿Quién rellena los datos personales y la dirección: el vendedor o el cliente?
 

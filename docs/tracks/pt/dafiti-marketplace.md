@@ -3,8 +3,8 @@ title: 'Dafiti marketplace'
 id: 5lAIj7OCqizD5EisLJvatx
 status: PUBLISHED
 createdAt: 2021-05-26T15:09:29.538Z
-updatedAt: 2024-06-26T15:28:29.564Z
-publishedAt: 2024-06-26T15:28:29.564Z
+updatedAt: 2024-08-06T13:44:01.046Z
+publishedAt: 2024-08-06T13:44:01.046Z
 firstPublishedAt: 2021-05-26T15:28:12.852Z
 contentType: trackArticle
 productTeam: Channels
@@ -22,7 +22,7 @@ Na Dafiti você pode vender produtos de diversas categorias, tais como roupas, e
 
 Por meio do conector nativo da VTEX, você pode anunciar seus produtos na Dafiti de forma simples e eficiente, garantindo mais visibilidade para seus produtos e aumentando suas chances de conversão. 
 
-Atualmente, a Dafiti opera no Brasil, Argentina, Chile e Colômbia. Entretanto, **o conector nativo da VTEX só está disponível para integração com Brasil e Colômbia. **É necessário definir um desses países para configurar a integração, assim a venda dos seus produtos será feita exclusivamente no país escolhido.
+Atualmente, a Dafiti opera no Brasil, Argentina, Chile e Colômbia. Entretanto, **o conector nativo da VTEX só está disponível para integração com Brasil e Colômbia**. É necessário definir um desses países para configurar a integração, assim a venda dos seus produtos será feita exclusivamente no país escolhido.
 
 Antes de começar, é necessário que você [faça seu cadastro no portal da Dafiti](https://www.dafiti.com.br/quero-vender-na-dafiti/). Uma vez concluída esta etapa, você poderá prosseguir com a configuração da integração.
 

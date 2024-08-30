@@ -81,9 +81,9 @@ O nome delas deve seguir exatamente os valores aceitos pelo Mercado Livre. [Baix
 
 São variações adicionais que podem ser criadas de acordo com sua necessidade. Só é possível ter uma variação customizável por produto. O nome da variação e seus respectivos valores são de livre escolha.
 
-<div class="alert alert-info" role="alert">Caso o SKU não tenha especificação (cor, por exemplo), será necessário <a href="https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin">cadastrá-la na VTEX</a> antes de completar o processo de integração. É recomendável que seja adicionado o tributo que falta como uma especificação de produto.</div> 
+>ℹ️ Caso o SKU não tenha especificação (cor, por exemplo), será necessário [cadastrá-la na VTEX](https://help.vtex.com/pt/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/4fcdmJzQ6QYA9zWf3bLWin) antes de completar o processo de integração. É recomendável que seja adicionado o tributo que falta como uma especificação de produto. 
 
-<div class="alert alert-warning" role="alert">O Mercado Livre não permite usar preços diferentes para cada variação de um anúncio, o preço dos SKUs precisam ser rigorosamente os mesmos. Para modificar o preço do seu produto, acesse Produtos > Preços > Lista de preços.</div>
+>⚠️ O Mercado Livre não permite usar preços diferentes para cada variação de um anúncio, o preço dos SKUs precisam ser rigorosamente os mesmos. Para modificar o preço do seu produto, acesse Produtos > Preços > Lista de preços.
 
 ## Atributos
 
@@ -95,7 +95,7 @@ Para descobrir as especificações do seu produto no Mercado Livre, copie a URL 
 
 `http://portal.vtexcommercestable.com.br/api/meliintegration/category/{CategoryId}/attributes`
 
-<div class="alert alert-info" role="alert">Caso esteja mapeando a categoria “Camisetas” (MLB31447), você perceberá que é possível cadastrar vários atributos, entre eles “Gênero”, que aceita apenas os valores “Masculino”, “Feminino”, “Meninas”, “Meninos”, “Bebês”, “Sem gênero”. Qualquer valor diferente não será aceito pelo Mercado Livre. Perceba também que é possível cadastrar atributos com valores que possuem <strong>Texto Livre</strong>, ou seja, qualquer valor poderá ser inserido para esses atributos.</div>
+>ℹ️ Caso esteja mapeando a categoria “Camisetas” (MLB31447), você perceberá que é possível cadastrar vários atributos, entre eles “Gênero”, que aceita apenas os valores “Masculino”, “Feminino”, “Meninas”, “Meninos”, “Bebês”, “Sem gênero”. Qualquer valor diferente não será aceito pelo Mercado Livre. Perceba também que é possível cadastrar atributos com valores que possuem **Texto Livre**, ou seja, qualquer valor poderá ser inserido para esses atributos.
 
 ## Preenchendo as variações e atributos na planilha de mapeamento 
 
@@ -143,7 +143,7 @@ Sendo um atributo, preencha com o nome do valor correspondente aos que você uso
 1. Você preencheu o `MeliEspc` com Tamanho e o `VtexValue` com "Pequeno", verá que o valor aceito pelo Mercado Livre é "P". 
 2. Se você preencheu o `VtexValue` com "32GB", então você também usaria "32GB" no `MeliValue`.
 
-<div class="alert alert-warning" role="alert">O mapeamento de categorias, variações e atributos do Mercado Livre é case sensitive, ou seja, é sensível para o uso de letras maiúsculas e minúsculas. Por isso, recomendamos preencher sua planilha de mapeamento exatamente como os exemplos a seguir.</div>
+>⚠️ O mapeamento de categorias, variações e atributos do Mercado Livre é case sensitive, ou seja, é sensível para o uso de letras maiúsculas e minúsculas. Por isso, recomendamos preencher sua planilha de mapeamento exatamente como os exemplos a seguir.
 
 #### Exemplos
 

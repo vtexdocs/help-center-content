@@ -3,8 +3,8 @@ title: 'Carteira digital (ewallet)'
 id: 7jLbdfch9Oe2yYbQa9zwE1
 status: PUBLISHED
 createdAt: 2023-06-27T21:10:04.185Z
-updatedAt: 2023-09-26T15:11:41.781Z
-publishedAt: 2023-09-26T15:11:41.781Z
+updatedAt: 2024-08-06T18:38:03.613Z
+publishedAt: 2024-08-06T18:38:03.613Z
 firstPublishedAt: 2023-06-27T21:47:02.764Z
 contentType: trackArticle
 productTeam: Shopping
@@ -20,5 +20,5 @@ Comprar com uma carteira digital oferece mais segurança para o usuário, uma ve
 
 Com identidade confirmada e meio de pagamento escolhido, a compra volta ao fluxo normal e o pedido é concluído. Algumas carteiras digitais funcionam ainda como subadquirentes, permitindo que mesmo uma pessoa que não tenha cadastro seja capaz de realizar a compra por meio do seu ambiente.
 
-São exemplos de carteiras digitais que podem ser configuradas para a realização de pagamentos na sua loja VTEX: **Carteira Google**, **[Apple Pay](https://help.vtex.com/pt/tutorial/configurar-pagamentos-com-apple-pay--5L3NWMgvdKswWQa6eIc008),** **Samsung Pay, Paypal**, **Mercado** **Pago**, **PagSeguro**, **Stelo**, entre outras.
+São exemplos de carteiras digitais que podem ser configuradas para a realização de pagamentos na sua loja VTEX: [Google Pay](https://help.vtex.com/pt/tracks/carteira-digital-e-wallet--6X8YyZBoVJpz5R8oXciTyu/61JMBvM5Vanqj6RaJsP8CT), [Apple Pay](https://help.vtex.com/pt/tracks/carteira-digital-e-wallet--6X8YyZBoVJpz5R8oXciTyu/STKWiXJSR9ImPt5EEC2aL), [Samsung Pay](https://help.vtex.com/pt/tutorial/configurar-samsung-pay-como-meio-de-pagamento--5Yj9rgzOCVYuGmAumQlfpP), [Paypal](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-paypalv2--2nGiQVk3YKvOAu8Zg4RKFr), entre outras.
 

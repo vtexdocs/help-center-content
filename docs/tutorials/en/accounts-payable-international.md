@@ -15,7 +15,7 @@ legacySlug: accounts-payable-procedures-international
 subcategory: 22TaEgFhwE6a6CG2KASYkC
 ---
 
-<div class="alert alert-info" role="alert"><strong>This procedure applies only to VTEX's international offices.</strong></div>
+>ℹ️ **This procedure applies only to VTEX's international offices.**
 
 To ensure the conformity of overseas payments, the following procedures must be followed:  
 

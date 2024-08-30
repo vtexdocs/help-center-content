@@ -3,8 +3,8 @@ title: 'Configurar pagamento com MercadoPagoV2'
 id: 1y6k8lCSzJYfPs2yObNFo4
 status: PUBLISHED
 createdAt: 2021-11-30T18:49:42.837Z
-updatedAt: 2024-03-11T18:11:39.540Z
-publishedAt: 2024-03-11T18:11:39.540Z
+updatedAt: 2024-08-26T15:35:49.762Z
+publishedAt: 2024-08-26T15:35:49.762Z
 firstPublishedAt: 2021-11-30T19:32:27.420Z
 contentType: tutorial
 productTeam: Financial
@@ -38,7 +38,7 @@ Para configurar o MercadoPagoV2, siga os passos abaixo:
 17. Em __Modo de processamento__, escolha como você deseja utilizar MercadoPagoV2: subadquirente (agreggator) ou gateway. Para maiores informações, acesse [O que é um subadquirente?](https://help.vtex.com/pt/tutorial/o-que-e-um-subadquirente--64aX6PeRQQ66O8uCqo0W4q#) e [O que é um gateway de pagamentos?](https://help.vtex.com/pt/tutorial/o-que-e-um-gateway-de-pagamentos--2KH9Wdi7F6swOU4amECSOk#). 
 18. Em __Integrator ID__, indique o código identificador do programador ou agência que realiza a configuração do Mercado Pago.
 19. Em __Moeda__, escolha se a moeda utilizada no pagamento será "Local" (cada país) ou "Dólar Americano" (USD)
-20. O campo __Merchant Account ID__ identifica a conta do merchant. Não é necessário preeenche-lo.
+20. O campo __Merchant Account ID__ identifica a conta do merchant. Não é necessário preeenchê-lo.
 21. Em __Prazo de captura de pagamento aprovado__, selecione o prazo desejado para captura do pagamento.
 22. Em __Tempo para cancelar compras de um carrinho abandonado__, insira o intervalo de tempo que deve ser aguardado até que os meios de pagamento habilitados não estejam disponíveis para efetuar a compra. 
 23. Clique em __Salvar__.

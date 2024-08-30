@@ -3,8 +3,8 @@ title: 'Why was my canceled order charged in the client invoice?'
 id: frequentlyAskedQuestions_492
 status: PUBLISHED
 createdAt: 2017-04-27T22:34:48.023Z
-updatedAt: 2023-03-20T21:28:24.133Z
-publishedAt: 2023-03-20T21:28:24.133Z
+updatedAt: 2024-08-13T18:57:07.052Z
+publishedAt: 2024-08-13T18:57:07.052Z
 firstPublishedAt: 2017-04-27T23:02:22.399Z
 contentType: frequentlyAskedQuestion
 productTeam: Post-purchase
@@ -20,6 +20,6 @@ However, the connector may not always authorize the automatic reversal and retur
 
 When the payments module sends an email informing about the need to make the reversal manually, the following message will be shown in the transaction interaction:
 
-> Source Message: `The e-mail with subject gateway-manual-reversal-requested has been successfully sent to user@store.com`. 
+Source Message: `The e-mail with subject gateway-manual-reversal-requested has been successfully sent to user@store.com`. 
 
 If this message appears in the interaction after an attempt to cancel and reverse a transaction whose payment had been approved and/or settled, this means that the automatic online reversal has not been made with the connector, and the reversal will have to be made manually.

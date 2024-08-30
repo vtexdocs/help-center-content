@@ -173,7 +173,7 @@ Si el seller desea modificar el precio de un producto que participa de esta camp
 
 El marketplace selecciona los productos que podrán participar de la campaña. Al seleccionar el tipo de campaña Descuento por cantidad, encontrarás estas dos secciones.
 
-<div class="alert alert-info" role="alert">El tipo de campaña «Descuento por cantidad» tiene un plazo para que el seller participe. En caso de que ese plazo se venza, solo se mostrará la sección <b>Disponibles.</b></div>
+>ℹ️ El tipo de campaña «Descuento por cantidad» tiene un plazo para que el seller participe. En caso de que ese plazo se venza, solo se mostrará la sección **Disponibles.**
 
 #### Disponibles
 

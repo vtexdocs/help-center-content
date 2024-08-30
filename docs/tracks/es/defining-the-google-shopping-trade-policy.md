@@ -3,8 +3,8 @@ title: 'Definir la política comercial'
 id: 3AqbcsWrge8zLt0BC5CtGd
 status: PUBLISHED
 createdAt: 2021-04-14T17:58:41.545Z
-updatedAt: 2023-10-23T20:22:26.830Z
-publishedAt: 2023-10-23T20:22:26.830Z
+updatedAt: 2024-08-06T17:51:23.468Z
+publishedAt: 2024-08-06T17:51:23.468Z
 firstPublishedAt: 2021-04-15T17:41:14.352Z
 contentType: trackArticle
 productTeam: Channels

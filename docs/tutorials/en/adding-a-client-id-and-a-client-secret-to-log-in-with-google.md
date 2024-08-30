@@ -23,9 +23,7 @@ These values are derived from a project that needs to be created in the Google C
 
 To get these values, do the following:
 
-<div class="alert alert-warning" role="alert">
-The steps mentioned below describe a third-party platform and may therefore be outdated. For the latest information related to these steps, please access the following Google articles: <a href="https://support.google.com/cloud/answer/6158849">Setting up OAuth 2.0</a> and <a href="https://developers.google.com/identity/protocols/oauth2/openid-connect">OpenID Connect</a>.
-</div>
+>⚠️ The steps mentioned below describe a third-party platform and may therefore be outdated. For the latest information related to these steps, please access the following Google articles: [Setting up OAuth 2.0](https://support.google.com/cloud/answer/6158849) and [OpenID Connect](https://developers.google.com/identity/protocols/oauth2/openid-connect).
 
 1. Access the link [`https://console.developers.google.com/`](https://console.developers.google.com/);
 2. In the side tab, click on __Credentials__;

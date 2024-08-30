@@ -15,5 +15,5 @@ legacySlug: mapping-categories-and-brands-for-the-marketplace-beta
 subcategory: 24EN0qRBg4yK0uusGUGosu
 ---
 
-<div class="alert alert-warning" role="alert">This is a regional exclusive content not applicable to 
-English speaking countries.</div>
+>⚠️ This is a regional exclusive content not applicable to 
+> English speaking countries.

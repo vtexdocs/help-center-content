@@ -26,10 +26,7 @@ Autocomplete is the functionality that displays previous search results based on
 
 - Most searched terms.
 
-<div class="alert alert-warning" role="alert">
-<p>When searching for a term not listed, Autocomplete will not find products with that specification and will not display any suggestions.
-</p>
-</div>
+>⚠️ When searching for a term not listed, Autocomplete will not find products with that specification and will not display any suggestions.
 
 During the interaction with the search bar, VTEX Intelligent Search immediately displays the set of _Most searched terms_ and _Last searches_ (if the customer has done searches before).
 

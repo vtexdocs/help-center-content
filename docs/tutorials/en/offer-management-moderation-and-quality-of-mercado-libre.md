@@ -15,4 +15,4 @@ legacySlug: offer-management-moderation-and-quality-of-mercado-libre
 subcategory: 2zVauFUkYn8vgS0y0MfWeK
 ---
 
-<div class="alert alert-warning" role="alert">This is a regional exclusive content not applicable to English speaking countries.</div>
+>⚠️ This is a regional exclusive content not applicable to English speaking countries.

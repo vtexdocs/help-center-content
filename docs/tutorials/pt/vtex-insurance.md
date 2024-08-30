@@ -59,9 +59,7 @@ Após a instalação do VTEX Insurance, é necessário realizar a preparação d
 9. [Vincule os SKUs criados](https://help.vtex.com/pt/tutorial/vinculos-de-sku--1SmrVgNwjJX17hdqwLa0TX?&utm_source=autocomplete) com o seller da Assurant.
 10.  [Vincule o seguro com o produto](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106#preencher-especificacoes-de-produto) desejado.
 
-<div class="alert alert-info" role="alert">
-<p> É preciso replicar esse processo em todas as categorias e produtos em que algum seguro será oferecido. </p>
-</div>
+>ℹ️ É preciso replicar esse processo em todas as categorias e produtos em que algum seguro será oferecido.
 
 ## Configurar Insurance
 Após a preparação do catálogo, sua loja já tem o vínculo do seguro com os produtos. Em **Seguro** > **Configuração**, você realizará as configurações de cadastro do VTEX Insurance. 

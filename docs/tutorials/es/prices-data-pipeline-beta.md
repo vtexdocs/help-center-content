@@ -3,8 +3,8 @@ title: 'Precios Data Pipeline (beta)'
 id: 3NMGJ8dtv73Bwvo9PSz1fz
 status: PUBLISHED
 createdAt: 2024-06-21T14:58:43.084Z
-updatedAt: 2024-06-21T16:20:22.452Z
-publishedAt: 2024-06-21T16:20:22.452Z
+updatedAt: 2024-08-30T14:44:16.241Z
+publishedAt: 2024-08-30T14:44:16.241Z
 firstPublishedAt: 2024-06-21T15:27:43.768Z
 contentType: tutorial
 productTeam: Channels
@@ -16,6 +16,10 @@ subcategory: oMrzcOMVbBpH0reeMFHFg
 ---
 
 El conjunto de datos de precios incluye información histórica de los precios de cada SKU de la tienda de un retailer, lo que permite analizar los valores de markup y las tendencias mensuales de los precios.  
+
+<div class=alerta alerta-advertencia>
+Los datos de precios que están disponibles son solo datos de la tabla <code>price_table_main</code>.
+</div>
 
 En este artículo puedes consultar la siguiente información:  
 

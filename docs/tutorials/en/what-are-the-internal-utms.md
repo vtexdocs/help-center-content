@@ -3,8 +3,8 @@ title: 'What are the internal UTMs utmi_cp, utmi_pc and utmi_p'
 id: 5Pvo8ufYWs00AUeCCEY68a
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:40.618Z
-updatedAt: 2023-03-29T00:26:24.796Z
-publishedAt: 2023-03-29T00:26:24.796Z
+updatedAt: 2024-08-05T11:11:38.459Z
+publishedAt: 2024-08-05T11:11:38.459Z
 firstPublishedAt: 2019-01-24T22:01:12.633Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -41,4 +41,5 @@ They can be found inside the `marketingData` node.
 
 ### Related articles
 
-- [What are utm_source, utm_campaign and utm_medium](/en/faq/what-are-utm-source-utm-campaign-and-utm-medium)
+- [What are utm_source, utm_campaign and utm_medium](https://help.vtex.com/en/tutorial/o-que-sao-utm_source-utm_campaign-e-utm_medium)
+- [Creating a coupon](https://help.vtex.com/en/tutorial/criar-cupom-beta--7lMk3MmhNp2IEccyGApxU)

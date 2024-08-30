@@ -3,8 +3,8 @@ title: 'Creating a coupon'
 id: 7lMk3MmhNp2IEccyGApxU
 status: PUBLISHED
 createdAt: 2022-04-28T20:25:24.998Z
-updatedAt: 2023-04-14T21:08:17.586Z
-publishedAt: 2023-04-14T21:08:17.586Z
+updatedAt: 2024-08-14T17:40:13.842Z
+publishedAt: 2024-08-14T17:40:13.842Z
 firstPublishedAt: 2022-04-28T20:42:45.525Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -91,6 +91,11 @@ If you have created a [coupon batch](https://help.vtex.com/en/tutorial/coupons-b
 * **Export:** Allows exporting the generated coupons to a CSV file. The exported file contains a single column, with one code per row.
 
 ![cupons-gerados-en](https://images.ctfassets.net/alneenqid6w5/3Ar3vHIyynacQr9vJ5qUf3/640d534c61c09cae6bb345bbbca25173/cupons-gerados-en.gif)
+
+### Generating coupons in bulk
+Coupon [creation for promotions](#creating-coupon) must be done in the Promotions & Taxes module. However, there may be situations when you need to create many coupons at once due to a campaign or marketing initiative.
+
+You cannot generate coupons in bulk in the VTEX Admin, only using the [Promotions & Taxes API](https://developers.vtex.com/docs/api-reference/promotions-and-taxes-api). For more information, read our guide [Creating and managing coupons with Promotions API](https://developers.vtex.com/docs/guides/creating-and-managing-coupons-with-promotions-api).
 
 ## Associating a coupon with a promotion 
 

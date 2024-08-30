@@ -3,8 +3,8 @@ title: 'Registrar promociones de envío'
 id: 6Lo5BR61KMiUFAAHGCdgfW
 status: PUBLISHED
 createdAt: 2019-03-27T19:50:39.607Z
-updatedAt: 2022-01-28T16:27:40.386Z
-publishedAt: 2022-01-28T16:27:40.386Z
+updatedAt: 2024-08-12T13:24:18.788Z
+publishedAt: 2024-08-12T13:24:18.788Z
 firstPublishedAt: 2019-03-27T20:04:38.299Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -35,6 +35,8 @@ A continuación, explicamos algunos escenarios que se pueden configurar en la pl
 ### Escenario 1:
 
 Si habilita la opción **Aplicar el descuento solo para la opción de envío más barata**, el descuento del flete se aplicará únicamente al valor de flete estimado más bajo. Esta opción ya aparece habilitada de manera predeterminada, pero la puede desactivar si prefiere configurar la promoción según el [Escenario 3](#escenario-3) o el [Escenario 4](escenario-4). 
+
+Si la tienda configura la estrategia de envío __Retiro__, que tiene un costo de R$ 0,00 para el cliente, la promoción puede considerar este valor como el más bajo y no aplicar el descuento en los costos de envío. Para garantizar que la promoción funcione como se espera, aplicando el descuento de envío gratuito a los costos de envío, selecciona todos los métodos en el cuadro, excepto Retiro en Tienda.
 
 #### Configuración
 ![Aplicar el descuento solo para la opción de envío más barata - ES](https://images.contentful.com/alneenqid6w5/4dO4pM8BrIVl4r27K5xgqT/d8a5a9992eb31f05591aaf88c79f4268/image.png)

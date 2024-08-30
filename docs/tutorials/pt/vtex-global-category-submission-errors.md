@@ -15,4 +15,4 @@ legacySlug: erros-no-envio-da-categoria-global-vtex
 subcategory: 4HBbKdnwneGew2qGGykSM8
 ---
 
-<div class="alert alert-warning" role="alert">Conteúdo em tradução.</div>
+>⚠️ Conteúdo em tradução.

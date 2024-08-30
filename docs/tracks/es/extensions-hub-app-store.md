@@ -60,9 +60,7 @@ Si deseas comprar una aplicación para tu cuenta:
 3. Marca la opción **Acepto el medio de pago**, si estás de acuerdo con las condiciones.
 4. Haz clic en el botón **Obtener app**.
 
-<div class="alert alert-warning" role="alert">
-Antes de comprar una aplicación, recomendamos consultar los términos y condiciones del proveedor y los términos de VTEX a través de los enlaces disponibles debajo del botón <b>Obtener app</b>.
-</div>
+>⚠️ Antes de comprar una aplicación, recomendamos consultar los términos y condiciones del proveedor y los términos de VTEX a través de los enlaces disponibles debajo del botón **Obtener app**.
 
 El costo de una aplicación puede ser:
 

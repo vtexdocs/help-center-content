@@ -44,15 +44,15 @@ La contraseña debe tener al menos 8 caracteres, incluyendo un número, una letr
 1. En la barra superior de VTEX Admin, haga clic en el **avatar de tu perfil**, marcado con la inicial de tu correo electrónico, y luego en **Configuración de la cuenta** > **Cuenta**.
 2. Para editar un usuario ya registrado, haga clic en su nombre. Esto también es posible haciendo clic en los tres puntos al lado derecho del usuario en la lista y luego en la opción **Editar**.
   ![Botão Editar Usuário User Management ES](https://images.ctfassets.net/alneenqid6w5/5XzJuCftOAty7JHkxHO5Th/6063958f0625ce0beabac99f407a3b87/Bot__o_Editar_Usu__rio_User_Management_ES.png)
-  <div class="alert alert-warning" role="alert">El email no puede ser cambiado. Si desea hacer esto, se deberá realizar un nuevo registro.</div>
+  >⚠️ El email no puede ser cambiado. Si desea hacer esto, se deberá realizar un nuevo registro.
 3. En la pantalla de edición, se pueden agregar o eliminar los [roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) de los usuarios.  
   ![Selecionar perfis User Management ES](https://images.ctfassets.net/alneenqid6w5/4wSp2QkYZH114DFFEOo3ly/fed2df535522db7b5d7288845497b8d4/seleccionar-roles.PNG)
 4. Haga clic en `Agregar rol` para confirmar la selección.
 5. Haga clic en `Guardar`.
 
-<div class="alert alert-info" role="alert">Aparecerá una alerta al agregar nuevos roles para un usuario que no utiliza autenticación de múltiples factores (MFA). El artículo <a href="https://help.vtex.com/es/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ">Habilitar login por autenticación de 2 factores</a> muestra como habilitar esta configuración.</div>
+>ℹ️ Aparecerá una alerta al agregar nuevos roles para un usuario que no utiliza autenticación de múltiples factores (MFA). El artículo [Habilitar login por autenticación de 2 factores](https://help.vtex.com/es/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ) muestra como habilitar esta configuración.
 
-<div class="alert alert-warning" role="alert">Si se remueven todos los roles del usuario, el mismo no podrá más acceder al Admin.</div>
+>⚠️ Si se remueven todos los roles del usuario, el mismo no podrá más acceder al Admin.
 
 ## Eliminando un usuario
 

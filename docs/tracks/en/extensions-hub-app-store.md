@@ -62,9 +62,7 @@ Follow the steps below to get an app:
 
 After completing these steps, the app will be available in your account and installed in the store you are currently using.
 
-<div class="alert alert-warning" role="alert">
-Before buying an app, we recommend reading the vendor terms and conditions and VTEX terms through the links available under the <b>Get App</b> button.
-</div>
+>⚠️ Before buying an app, we recommend reading the vendor terms and conditions and VTEX terms through the links available under the **Get App** button.
 
 The app pricing can be as follows:
 

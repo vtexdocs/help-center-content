@@ -31,7 +31,7 @@ A partir de ahora, el **Simulador de promociones** estará accesible para todas 
 * **Probar la aplicación** de otras promociones en el carrito antes de activarlas, incluidas las promociones programadas o inactivas.
 * **Comprender los motivos** por los que no se ha aplicado una promoción al carrito.
 
-![promotions simulator - es-gif 3](https://downloads.ctfassets.net/alneenqid6w5/5RwzKZuP1klBEZfpUYAivG/57780b2b9e038420e502eda2c41f4357/promotions_simulator_gi-3.gif)
+![promotions simulator - es-gif 3](//downloads.ctfassets.net/alneenqid6w5/5RwzKZuP1klBEZfpUYAivG/57780b2b9e038420e502eda2c41f4357/promotions_simulator_gi-3.gif)
 
 ## ¿Qué se necesita hacer?
 

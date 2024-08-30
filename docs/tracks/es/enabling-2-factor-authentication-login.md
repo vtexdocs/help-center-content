@@ -3,8 +3,8 @@ title: 'Habilitar autenticación de dos factores (2FA)'
 id: 1ccQYubR9DvRJ08RgO8JW8
 status: PUBLISHED
 createdAt: 2020-01-07T21:12:36.958Z
-updatedAt: 2021-03-22T20:46:32.393Z
-publishedAt: 2021-03-22T20:46:32.393Z
+updatedAt: 2024-08-22T14:02:07.053Z
+publishedAt: 2024-08-22T14:02:07.053Z
 firstPublishedAt: 2020-01-13T14:33:33.691Z
 contentType: trackArticle
 productTeam: Identity
@@ -35,7 +35,7 @@ Hay dos opciones de autenticación:
 
 >⚠️ Recomendamos el uso de la [aplicación de autenticación](#habilitar-o-2fa-por-aplicativo) para que las fallas del servicio de su operador de telefonía no impidan su inicio de sesión. A través de la aplicación, la clave de acceso siempre estará disponible para que la utilice.
 
->ℹ️ Debido a que algunas empresas restringen el uso de celulares a los operadores de televenta, los usuarios que tienen el [ perfil de acceso de televentas](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#call-center-operator" target="_blank) no están obligados a habilitar 2FA cuando inician sesión utilizando el email y la contraseña.
+>ℹ️ Debido a que algunas empresas restringen el uso de celulares a los operadores de televenta, los usuarios que tienen el [ perfil de acceso de televentas](https://help.vtex.com/pt/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc#call-center-operator) no están obligados a habilitar 2FA cuando inician sesión utilizando el email y la contraseña.
 
 ### Habilitar 2FA por aplicación
 

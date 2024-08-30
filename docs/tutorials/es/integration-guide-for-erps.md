@@ -15,9 +15,7 @@ legacySlug: guia-de-integracion-de-erps
 subcategory: 5fKgQZhrCw88ACy6Su6GUc
 ---
 
-<div class="alert alert-danger" role="alert">
-   Esta guía de integración está desactualizada y se archivará en <strong> junio de 2020 </strong>. No recomendamos usar el Webservice desde el anuncio de la <a href="https://developers.vtex.com/changelog/new-endpoints-available-in-catalog-api" target="_blank">nueva API del Catálogo</a>. Consulte la<a href="https://developers.vtex.com/docs/erp-integration-guide" target="_blank">nueva guía de integración de ERP</a> disponible en nuestro Developer Portal.
-</div>
+>❗ Esta guía de integración está desactualizada y se archivará en ** junio de 2020 **. No recomendamos usar el Webservice desde el anuncio de la [nueva API del Catálogo](https://developers.vtex.com/changelog/new-endpoints-available-in-catalog-api" target="_blank). Consulte la[nueva guía de integración de ERP](https://developers.vtex.com/docs/erp-integration-guide" target="_blank) disponible en nuestro Developer Portal.
 
 La integración de ERPs con tiendas VTEX se realiza a través de Webservice (SOAP: XML), y API REST (JSON). El [Webservice VTEX](https://help.vtex.com/tutorial/manual-de-clases-y-metodos-utilizados-en-webservice--tutorials_749) debe ser utilizado lo menos posible para los procesos de integración. Hoy con excepción del **catálogo**, todos los demás módulos de VTEX poseen APIs REST bien definidas y de alto rendimiento.
 

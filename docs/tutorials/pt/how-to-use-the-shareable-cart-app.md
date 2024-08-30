@@ -51,7 +51,7 @@ Conforme a preferência do cliente e as orientações da sua loja, você poderá
 
 ![shareable-cart-customerdetails](https://images.ctfassets.net/alneenqid6w5/4JY5ktzka93UkWov5cMnb6/8d2cccb0e7189da93ed6bf98c37d7752/shareable-cart-customerdetails.gif)
 
-<div class="alert alert-danger" role="alert"><strong>Nunca peça dados de pagamento ao enviar o carrinho.</strong> Mesmo que o cliente insista, informe que é para a segurança de todos que o pagamento seja informado por ele.</div>
+>❗ **Nunca peça dados de pagamento ao enviar o carrinho.** Mesmo que o cliente insista, informe que é para a segurança de todos que o pagamento seja informado por ele.
 
 ## Compartilhar carrinho
 
@@ -68,7 +68,7 @@ Para compartilhar o carrinho por WhatsApp:
 3. (Opcional) Customize a mensagem no WhatsApp
 4. Envie a mensagem pelo WhatsApp
 
-<div class="alert alert-warning" role="alert">Antes de compartilhar um carrinho via WhatsApp, é preciso configurar uma conta no seu celular ou <a href="https://faq.whatsapp.com/pt_br/web/26000012/?category=5245235" target="_blank">computador</a>. Se preferir, você pode instalar o <a href="https://faq.whatsapp.com/pt_br/general/26000092/?category=5245246" target="_blank">WhatsApp Business</a> para separar sua conta pessoal e a conta da loja.</div>
+>⚠️ Antes de compartilhar um carrinho via WhatsApp, é preciso configurar uma conta no seu celular ou [computador](https://faq.whatsapp.com/pt_br/web/26000012/?category=5245235" target="_blank). Se preferir, você pode instalar o [WhatsApp Business](https://faq.whatsapp.com/pt_br/general/26000092/?category=5245246" target="_blank) para separar sua conta pessoal e a conta da loja.
 
 ### Facebook Messenger
 
@@ -79,10 +79,9 @@ Para compartilhar o carrinho por Facebook Messenger:
 3. Customize a mensagem no Facebook Messenger
 4. Envie a mensagem pelo Facebook Messenger
 
-<div class="alert alert-info" role="alert">
-Não é possível compartilhar carrinhos no Messenger para perfis desconhecidos. Caso o perfil do cliente não apareça no passo 2, você pode utilizar a opção de compartilhamento por link e enviar uma <a href="https://pt-br.facebook.com/help/208160052556047?helpref=uf_permalink" target="_blank">solicitação de mensagem</a> para o perfil do cliente.</div>
+>ℹ️ Não é possível compartilhar carrinhos no Messenger para perfis desconhecidos. Caso o perfil do cliente não apareça no passo 2, você pode utilizar a opção de compartilhamento por link e enviar uma [solicitação de mensagem](https://pt-br.facebook.com/help/208160052556047?helpref=uf_permalink" target="_blank) para o perfil do cliente.
 
-<div class="alert alert-warning" role="alert">Antes de compartilhar um carrinho via Facebook Messenger, é preciso <a href="https://www.facebook.com/help/messenger-app/218228001910904?helpref=typeahead_suggestions&sr=2&query=instalar" target="_blank">configurar uma conta</a> no seu celular ou computador. Se preferir, você pode usar o <a href="https://www.facebook.com/business/help/499491430453591?helpref=search&sr=2&query=messenger#" target="_blank">Messenger para empresas</a> para separar sua conta pessoal e a conta da loja.</div>
+>⚠️ Antes de compartilhar um carrinho via Facebook Messenger, é preciso [configurar uma conta](https://www.facebook.com/help/messenger-app/218228001910904?helpref=typeahead_suggestions&sr=2&query=instalar" target="_blank) no seu celular ou computador. Se preferir, você pode usar o [Messenger para empresas](https://www.facebook.com/business/help/499491430453591?helpref=search&sr=2&query=messenger#" target="_blank) para separar sua conta pessoal e a conta da loja.
 
 ### SMS
 
@@ -111,7 +110,7 @@ Para compartilhar o carrinho por Gmail:
 3. (Opcional) Customize a mensagem no Gmail
 4. Envie a mensagem pelo Gmail
 
-<div class="alert alert-warning" role="alert">Antes de compartilhar um carrinho via Gmail, é preciso <a href="https://support.google.com/mail/answer/8494?co=GENIE.Platform%3DDesktop&hl=pt-BR" target="_blank">fazer login</a> no seu celular ou computador. Se preferir, você pode <a href="https://support.google.com/accounts/answer/1721977?co=GENIE.Platform%3DDesktop&hl=pt-BR" target="_blank">alternar entre contas</a> para escolher enviar a mensagem usando sua conta pessoal ou a conta da loja.</div>
+>⚠️ Antes de compartilhar um carrinho via Gmail, é preciso [fazer login](https://support.google.com/mail/answer/8494?co=GENIE.Platform%3DDesktop&hl=pt-BR" target="_blank) no seu celular ou computador. Se preferir, você pode [alternar entre contas](https://support.google.com/accounts/answer/1721977?co=GENIE.Platform%3DDesktop&hl=pt-BR" target="_blank) para escolher enviar a mensagem usando sua conta pessoal ou a conta da loja.
 
 ### Email
 
@@ -122,13 +121,13 @@ Para compartilhar o carrinho por Email:
 3. (Opcional) Customize a mensagem no seu aplicativo de e-mail
 4. Envie a mensagem pelo seu aplicativo de e-mail
 
-<div class="alert alert-warning" role="alert">Antes de compartilhar um carrinho por e-mail, você deve ter um aplicativo configurado para abertura e envio de e-mails no seu celular ou computador.</div>
+>⚠️ Antes de compartilhar um carrinho por e-mail, você deve ter um aplicativo configurado para abertura e envio de e-mails no seu celular ou computador.
 
 ## Limpar carrinho
 
 Após concluir o atendimento de um cliente, clique no botão <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/2fM6iuMfYNkTWlPA1vaSFM/c5c7c03611d846d609907d272b66684b/image5.png"/> para limpar seu carrinho e escolher novos produtos para outro cliente.
 
-<div class="alert alert-info" role="alert"><strong>Cada vendedor pode trabalhar com vários clientes!</strong> Recomendamos guardar os links já compartilhados em uma planilha ou bloco de notas. Assim você mantém seus carrinhos organizados e poderá fazer alterações sempre que solicitado por um cliente.</div>
+>ℹ️ **Cada vendedor pode trabalhar com vários clientes!** Recomendamos guardar os links já compartilhados em uma planilha ou bloco de notas. Assim você mantém seus carrinhos organizados e poderá fazer alterações sempre que solicitado por um cliente.
 
-<div class="alert alert-warning" role="alert">O cliente precisará atualizar a página ou acessar o link novamente para visualizar qualquer alteração feita no carrinho.</div>
+>⚠️ O cliente precisará atualizar a página ou acessar o link novamente para visualizar qualquer alteração feita no carrinho.
 

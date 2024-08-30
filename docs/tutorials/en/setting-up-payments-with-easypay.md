@@ -25,7 +25,7 @@ To use easypay, you need to:
 - [Configure the easypay affiliation](#configure-the-easypay-affiliation)
 - [Configure payment with Apple Pay on easypay (optional)](#configure-payment-with-apple-pay-on-easypay-optional)     
 
-<div class="alert alert-warning" role="alert">If you are a marketplace or seller, read <a href="https://help.vtex.com/en/tutorial/setting-up-payments-with-easypay-marketplace--3YllWiITcPEOpteuToEdO7">Configuring payment with easypay in a marketplace</a> or <a href="https://help.vtex.com/en/tutorial/setting-up-payments-with-easypay-seller--5mYMCM1tiRiZO6PozuUncE">Configuring payment with easypay seller</a>.</div>
+>⚠️ If you are a marketplace or seller, read [Configuring payment with easypay in a marketplace](https://help.vtex.com/en/tutorial/setting-up-payments-with-easypay-marketplace--3YllWiITcPEOpteuToEdO7) or [Configuring payment with easypay seller](https://help.vtex.com/en/tutorial/setting-up-payments-with-easypay-seller--5mYMCM1tiRiZO6PozuUncE).
 
 ## Install the easypay app
 
@@ -50,7 +50,7 @@ Configuration is divided in four sections:
 
 ![easypay_pt_1](https://images.ctfassets.net/alneenqid6w5/5SQRO4e7bYL1o8CG383UBE/03f939e9444e2655b4b9b540a4e521cc/easypay_pt_1.png)
 
-<div class="alert alert-warning" role="alert">You must set up the following configurations in the <a href="https://backoffice.easypay.pt/">easypay environment</a>. easypay controls these settings, therefore, VTEX does not guarantee that the steps below will be permanently updated. Use this document as a reference and check your <a href="https://backoffice.easypay.pt/">easypay environment</a> for up-to-date information.</div>
+>⚠️ You must set up the following configurations in the [easypay environment](https://backoffice.easypay.pt/). easypay controls these settings, therefore, VTEX does not guarantee that the steps below will be permanently updated. Use this document as a reference and check your [easypay environment](https://backoffice.easypay.pt/) for up-to-date information.
 
 ### easypay credentials
 
@@ -82,7 +82,7 @@ __Merchant account UID__: identification of the merchant account where purchase 
 
 __Margin account UID__: identification of the margin account. 
 
-<div class="alert alert-info" role="alert">This field should only be completed if the store is a marketplace and splits payments. Learn more in the <a href="https://help.vtex.com/en/tutorial/setting-up-payments-with-easypay-marketplace--3YllWiITcPEOpteuToEdO7">Configuring payment with easypay in a marketplace</a> article.</div>
+>ℹ️ This field should only be completed if the store is a marketplace and splits payments. Learn more in the [Configuring payment with easypay in a marketplace](https://help.vtex.com/en/tutorial/setting-up-payments-with-easypay-marketplace--3YllWiITcPEOpteuToEdO7) article.
 
 __Refund account ID and Refund account key__: If there is no specific refund account, the __Key ID__ value must be entered in the __Refund account ID__ field, and the __Key value__ in the __Refund account key__.
 
@@ -100,7 +100,7 @@ Example:
 | ---------------- | ---------------- |
 | mb,dd,vi,sc | mb, dd, vi, sc |
 
-<div class="alert alert-warning" role="alert">If you complete this field, you must also complete the <b>Expiration days for asynchronous payments</b> field.</div>
+>⚠️ If you complete this field, you must also complete the **Expiration days for asynchronous payments** field.
 
 __Accepted synchronous payment types__: synchronous payment methods available to the customer. Only enter the acronyms of the synchronous payment types, separated by commas without periods or spaces.
 
@@ -160,7 +160,7 @@ Example:
 | ---------------- | ---------------- |
 | 11 | 11px |
 
-<div class="alert alert-warning" role="alert">Do not use fonts over 12 pixels, as they can blur the layout.</b></div>
+>⚠️ Do not use fonts over 12 pixels, as they can blur the layout.</b>
 
 ### Sandbox mode
 

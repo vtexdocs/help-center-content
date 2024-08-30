@@ -15,9 +15,7 @@ legacySlug: indexing-history-beta
 subcategory: 23WdCYqmn2V2Z7SDlc14DF
 ---
 
-<div class="alert alert-info" role="alert">
-<p>This feature is in beta phase, which means that we are working to improve it. If you have any questions, please contact our <a href="https://support.vtex.com/hc/en-us/requests">Support team</a>.</p>
-</div>
+>ℹ️ This feature is in beta phase, which means that we are working to improve it. If you have any questions, please contact our [Support team](https://support.vtex.com/hc/en-us/requests).
 
 **Indexing history** is the page that monitors the synchronization status of all products in the Catalog sent to Intelligent Search. It provides a broad view of the indexing progress of your store.
 

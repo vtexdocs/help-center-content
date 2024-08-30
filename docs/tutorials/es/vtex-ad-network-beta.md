@@ -1,10 +1,10 @@
 ---
 title: 'VTEX Ad Network (Beta)'
 id: 2cgqXcBuJmXN2livQvClur
-status: CHANGED
+status: PUBLISHED
 createdAt: 2024-04-23T17:38:07.378Z
-updatedAt: 2024-07-05T13:14:45.135Z
-publishedAt: 2024-07-05T13:13:03.955Z
+updatedAt: 2024-08-09T21:21:48.620Z
+publishedAt: 2024-08-09T21:21:48.620Z
 firstPublishedAt: 2024-04-23T19:11:42.313Z
 contentType: tutorial
 productTeam: Others

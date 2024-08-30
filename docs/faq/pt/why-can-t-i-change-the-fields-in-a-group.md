@@ -36,6 +36,6 @@ Uma vez localizado o campo, prossiga com as instruções a seguir:
 6. Clique em __Alterar__
 ![campos3](https://images.ctfassets.net/alneenqid6w5/5k3B7j47J6TBfSAyzeNUGS/5bbb39dfcd00093401e71f036efcb3e0/campos3.PNG)
 7. Após fazer as mudanças necessárias, clique em __Salvar__
-![PTgrupo4](https://images.ctfassets.net/alneenqid6w5/TwYOgTmuhvs1buHQoWEf4/4b75359b1604b842446960bb64d8f6da/PTgrupo4.png)![ENgrupo4](https://images.ctfassets.net/alneenqid6w5/6O7gv1HlM2P2cD0lj6y1Fg/7531c48a52521c1cca9dc4bc2225bd30/ENgrupo4.png)
+![PTgrupo4](https://images.ctfassets.net/alneenqid6w5/TwYOgTmuhvs1buHQoWEf4/4b75359b1604b842446960bb64d8f6da/PTgrupo4.png)![ENg(https://imagestps://images.ctfassets.net/alneenqid6w5/6O7gv1HlM2P2cD0lj6y1Fg/7531c48a52521c1cca9dc4bc2225bd30/ENgrupo4.png)
 
 Pronto, campos alterados! Não se esqueça de salvar as configurações para que as alterações sejam exibidas no front da loja.

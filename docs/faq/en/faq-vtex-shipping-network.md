@@ -14,4 +14,4 @@ locale: en
 legacySlug: faq-vtex-log
 ---
 
-<div class="alert alert-warning" role="alert">Content under translation.</div>
+>⚠️ Content under translation.

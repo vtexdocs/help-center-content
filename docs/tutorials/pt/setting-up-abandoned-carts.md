@@ -3,8 +3,8 @@ title: 'Configurar Carrinho Abandonado'
 id: tutorials_740
 status: PUBLISHED
 createdAt: 2017-04-27T21:59:05.882Z
-updatedAt: 2024-06-24T14:49:04.124Z
-publishedAt: 2024-06-24T14:49:04.124Z
+updatedAt: 2024-08-09T13:03:53.859Z
+publishedAt: 2024-08-09T13:03:53.859Z
 firstPublishedAt: 2017-04-27T23:03:41.572Z
 contentType: tutorial
 productTeam: Shopping

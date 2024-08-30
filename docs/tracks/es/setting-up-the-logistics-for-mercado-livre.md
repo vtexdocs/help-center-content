@@ -3,8 +3,8 @@ title: 'Configurar logística para Mercado Libre'
 id: 4551ZlEQI8qmiSWieigoKy
 status: PUBLISHED
 createdAt: 2018-08-13T12:53:57.008Z
-updatedAt: 2024-07-23T22:07:18.063Z
-publishedAt: 2024-07-23T22:07:18.063Z
+updatedAt: 2024-08-19T17:36:50.573Z
+publishedAt: 2024-08-19T17:36:50.573Z
 firstPublishedAt: 2018-08-13T14:27:58.483Z
 contentType: trackArticle
 productTeam: Channels
@@ -69,7 +69,7 @@ Algunos tipos de logística tienen la obligación de enviar una factura o config
 - [Flex](#flex)
 - [Mercado Envíos Full](#mercado-envios-full)
 
->ℹ️ Para segmentar qué tipo de envío utiliza la tienda, es necesario crear un [<i>atributo de producto</i>](https://help.vtex.com/pt/tutorial/cadastrar-especificacoes-ou-campos-de-produto--tutorials_106) con el nombre `meli_shipping_mode`, donde estará completado si es ME1 o ME2.
+>ℹ️ Para segmentar qué tipo de envío utiliza la tienda, es necesario crear un [<i>atributo de producto</i>](https://help.vtex.com/es/tutorial/campos-customizaveis-de-produto--6tJOSJ2o9phVIb8XXG6QSk) con el nombre `meli_shipping_mode`, donde estará completado si es ME1 o ME2.
 
 ### Drop Off
 

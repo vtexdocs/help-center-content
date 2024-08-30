@@ -44,15 +44,15 @@ The password must have at least eight characters and a number, a capital letter 
 1. Click on your **profile avatar** on the VTEX Admin top bar, marked by the initial of your email, and click on **Account settings** > __Users__ .
 2. To edit an existing user, click on their name in the list of users. Another possibility is to click on the menu button <i class="fas fa-ellipsis-v"></i> next to the desired user and then on **Edit**.
   ![Botão Editar Usuário User Management EN](https://images.ctfassets.net/alneenqid6w5/5XzJuCftOAty7JHkxHO5Th/03aa67401cc9eb46480cd9a6bbb9a65e/Bot__o_Editar_Usu__rio_User_Management_EN.png)
-   <div class="alert alert-warning" role="alert">It is not possible to change the email of an existing user. In this case, it is necessary to delete the user and create them again with the new email.</div>
+   >⚠️ It is not possible to change the email of an existing user. In this case, it is necessary to delete the user and create them again with the new email.
 3. In the editing page you can add and remove the [Roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc) of the user, as shown in the image below. 
   ![Select User Management roles EN](https://images.ctfassets.net/alneenqid6w5/4wSp2QkYZH114DFFEOo3ly/b06bd642bf1763e915d49e3016ab845a/select-roles.PNG)
 4. Click on `Add roles` to confirm the selection.
 5. Click on `Save`.
 
-<div class="alert alert-info" role="alert">An alert will appear when adding roles to a user who does not use multiple factor authentication (MFA). The article <a href="https://help.vtex.com/en/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ">Enable login by 2-factor authentication</a> shows how to enable this setting.</div>
+>ℹ️ An alert will appear when adding roles to a user who does not use multiple factor authentication (MFA). The article [Enable login by 2-factor authentication](https://help.vtex.com/en/tutorial/habilitar-login-por-autenticacao-de-2-fatores--4Ae1fcQi12g8u4SkQKCqWQ) shows how to enable this setting.
 
-<div class="alert alert-warning" role="alert">If all roles are removed from the user, they will no longer be able to access VTEX Admin.</div>
+>⚠️ If all roles are removed from the user, they will no longer be able to access VTEX Admin.
 
 ## Deleting a user
 

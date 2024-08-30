@@ -190,7 +190,7 @@ O envio da planilha é feito no cadastro ou na edição de **Política de Envio.
 3. Após fazer download da planilha modelo e [preencher os campos](#preencher-os-campos-da-planilha), faça upload do arquivo na seção Upload de tarifas de envio.
 4. Ao finalizar, clique em `Salvar Alterações`.
 
-![upload tarifas envioPT]   (//images.contentful.com/alneenqid6w5/1qNl0ZaHhZMpshuBWRQhs9/f5814cef893c4f139a8497ec1985cbb2/upload_tarifas_envioPT.png)
+![upload tarifas envioPT]   (https://images.contentful.com/alneenqid6w5/1qNl0ZaHhZMpshuBWRQhs9/f5814cef893c4f139a8497ec1985cbb2/upload_tarifas_envioPT.png)
 
 >⚠️ Para cadastrar uma **nova** Política de Envio, é preciso preencher outros campos além da Planilha de frete. Entenda como criar, editar e preencher todos os campos necessários no artigo [Política de Envio](https://help.vtex.com/pt/tutorial/politica-de-envio--tutorials_140).
 

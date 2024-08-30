@@ -51,7 +51,7 @@ Depending on the customer's preference and your store’s guidelines, you can fi
 
 ![shareable-cart-customerdetails](https://images.ctfassets.net/alneenqid6w5/4JY5ktzka93UkWov5cMnb6/8d2cccb0e7189da93ed6bf98c37d7752/shareable-cart-customerdetails.gif)
 
-<div class="alert alert-danger" role="alert"><strong>Never ask for payment details when sending the cart.</strong> Even if the customer insists, explain that they should fill in the payment details for security reasons.</div>
+>❗ **Never ask for payment details when sending the cart.** Even if the customer insists, explain that they should fill in the payment details for security reasons.
 
 ## Sharing the cart
 
@@ -68,7 +68,7 @@ To share the cart via WhatsApp:
 3. (Optional) Customize the message on WhatsApp
 4. Send the message via WhatsApp
 
-<div class="alert alert-warning" role="alert">Before sharing a cart via WhatsApp, you need to configure an account on your phone or <a href="https://faq.whatsapp.com/pt_br/web/26000012/?category=5245235&lang=en" target="_blank">computer</a>. If you prefer, you can instal <a href="https://faq.whatsapp.com/pt_br/general/26000092/?category=5245246&lang=en" target="_blank">WhatsApp Business</a> to separate your personal account from the store account.</div>
+>⚠️ Before sharing a cart via WhatsApp, you need to configure an account on your phone or [computer](https://faq.whatsapp.com/pt_br/web/26000012/?category=5245235&lang=en" target="_blank). If you prefer, you can instal [WhatsApp Business](https://faq.whatsapp.com/pt_br/general/26000092/?category=5245246&lang=en" target="_blank) to separate your personal account from the store account.
 
 ### Facebook Messenger
 
@@ -79,10 +79,9 @@ To share the cart via Facebook Messenger:
 3. Customize the message on Facebook Messenger
 4. Send the message via Facebook Messenger
 
-<div class="alert alert-info" role="alert">
-You cannot share carts in Messenger with people you’re not friends with on Facebook. If the customer's profile does not appear in step 2, you can use the sharing via link option and send a <a href="https://www.facebook.com/help/208160052556047?helpref=uf_permalink" target="_blank">message request</a> to the customer profile.</div>
+>ℹ️ You cannot share carts in Messenger with people you’re not friends with on Facebook. If the customer's profile does not appear in step 2, you can use the sharing via link option and send a [message request](https://www.facebook.com/help/208160052556047?helpref=uf_permalink" target="_blank) to the customer profile.
 
-<div class="alert alert-warning" role="alert">Before sharing a cart via Facebook Messenger, you need to <a href="https://www.facebook.com/help/messenger-app/218228001910904?helpref=search&sr=2&query=install&search_session_id=ebf3a38e8eb0ff10297f2b0629ad97ef" target="_blank">configure an account</a>  on your phone or computer. If you prefer, you can use <a href="https://www.facebook.com/business/help/499491430453591?helpref=search&sr=2&query=messenger" target="_blank">Messenger for business</a>  to separate your personal account from the store account.</div>
+>⚠️ Before sharing a cart via Facebook Messenger, you need to [configure an account](https://www.facebook.com/help/messenger-app/218228001910904?helpref=search&sr=2&query=install&search_session_id=ebf3a38e8eb0ff10297f2b0629ad97ef" target="_blank)  on your phone or computer. If you prefer, you can use [Messenger for business](https://www.facebook.com/business/help/499491430453591?helpref=search&sr=2&query=messenger" target="_blank)  to separate your personal account from the store account.
 
 ### SMS
 
@@ -111,7 +110,7 @@ To share the cart via Gmail:
 3. (Optional) Customize the message in Gmail
 4. Send the message via Gmail
 
-<div class="alert alert-warning" role="alert">Before sharing a cart via Gmail, you need to <a href="https://support.google.com/mail/answer/8494?co=GENIE.Platform%3DDesktop&hl=en" target="_blank">sign in</a> on your phone or computer. Alternatively, you can <a href="https://support.google.com/accounts/answer/1721977?co=GENIE.Platform%3DDesktop&hl=en" target="_blank">switch between account</a> and send the message using your personal account or the store account.</div>
+>⚠️ Before sharing a cart via Gmail, you need to [sign in](https://support.google.com/mail/answer/8494?co=GENIE.Platform%3DDesktop&hl=en" target="_blank) on your phone or computer. Alternatively, you can [switch between account](https://support.google.com/accounts/answer/1721977?co=GENIE.Platform%3DDesktop&hl=en" target="_blank) and send the message using your personal account or the store account.
 
 ### Email
 
@@ -120,14 +119,14 @@ To share the cart via Gmail:
 3. (Optional) Customize the message in your email app 
 4. Send the message via email
 
-<div class="alert alert-warning" role="alert">Before sharing a cart via email, you must have an application configured to open and send emails on your phone or computer.</div>
+>⚠️ Before sharing a cart via email, you must have an application configured to open and send emails on your phone or computer.
 
 ## Clearing the cart
 
 After finishing assisting a customer, click on the <img class="shadow-4" src="https://images.ctfassets.net/alneenqid6w5/2fM6iuMfYNkTWlPA1vaSFM/c5c7c03611d846d609907d272b66684b/image5.png"/> button to empty your cart and choose new products for another customer.
 
-<div class="alert alert-info" role="alert"><strong>Each salesperson can serve multiple customers!</strong> We recommend keeping the links you’ve shared in a spreadsheet or notepad. This way you keep your carts organized and can make changes whenever a customer requests.</div>
+>ℹ️ **Each salesperson can serve multiple customers!** We recommend keeping the links you’ve shared in a spreadsheet or notepad. This way you keep your carts organized and can make changes whenever a customer requests.
 
-<div class="alert alert-warning" role="alert">The customer will need to refresh the page or access the link again to view the changes you’ve made to the cart.</div>
+>⚠️ The customer will need to refresh the page or access the link again to view the changes you’ve made to the cart.
 
 

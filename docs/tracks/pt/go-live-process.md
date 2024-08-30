@@ -26,7 +26,7 @@ Neste tutorial você encontra o passo a passo detalhado de como realizar o go-li
 
 Antes de realizar o go-live da sua loja, é essencial garantir que você tenha realizado todas as configurações necessárias para o bom funcionamento da sua loja.
 
-Copie esta [Checklist de configuração de loja](https://assets.ctfassets.net/alneenqid6w5/3yv1ofQRJ5xeX7J5EGglGy/f504033fb6e8bf38b639547c5fd8790a/Checklist_de_configura__o_de_loja.xlsx) e verifique, para cada item, se realizou as configurações de acordo com o funcionamento desejado da loja.
+Copie esta [Checklist de configuração de loja](//assets.ctfassets.net/alneenqid6w5/3yv1ofQRJ5xeX7J5EGglGy/f504033fb6e8bf38b639547c5fd8790a/Checklist_de_configura__o_de_loja.xlsx) e verifique, para cada item, se realizou as configurações de acordo com o funcionamento desejado da loja.
 
 >⚠️ A checklist indicada acima lista funcionalidades e configurações básicas para o funcionamento de uma loja VTEX. Cabe à sua equipe definir quais funcionalidades implementar na sua loja e como deverão ser configuradas de maneira a produzir a experiência de loja desejada. Isso significa que a lista pode não contemplar todas as funcionalidades usadas pela sua loja. Ainda assim, é importante verificar todos os aspectos do funcionamento da sua loja, mesmo que não estejam na lista sugerida.
 

@@ -15,10 +15,9 @@ legacySlug: cadastrar-colecoes-beta
 subcategory: 3aExYJkji3NIu9Ks8bxbWx
 ---
 
-<div class = "alert alert-info" >
-  <p>There are two ways to configure collections, through the <b>CMS</b> or using the <b>Collections (Beta)</b> module. This article is about configuring collections through the <b>Collections (Beta)</b> module.</p>
-    <p>This feature is in Beta stage and available for environments starting from Admin v3. If you have any questions, please <a href="https://support.vtex.com/hc/en-us/requests" target="_blank">contact our Support team</a>.</p>
-</div>
+>ℹ️ There are two ways to configure collections, through the **CMS** or using the **Collections (Beta)** module. This article is about configuring collections through the **Collections (Beta)** module.
+>
+> This feature is in Beta stage and available for environments starting from Admin v3. If you have any questions, please [contact our Support team](https://support.vtex.com/hc/en-us/requests" target="_blank).
 
 The new __Collections (Beta)__ module allows you to create and manage collections in a practical and quick way. 
 
@@ -104,9 +103,7 @@ If you want to add in bulk, apply one of the filters and click on the `Add All` 
 
 ![EN-colecao-adicionar-todos](https://images.ctfassets.net/alneenqid6w5/3Ftzj2gJy9qIskElyIE6u/f638b1ae74f9d545fe74ea8c15cec9f8/EN-colecao-adicionar-todos.png)
 
-<div class = "alert alert-danger" >
-  <p> Do not bulk add more than 150,000 products. This may affect the indexing of the Catalog and the operation of your store.
-</div>
+>❗ <p> Do not bulk add more than 150,000 products. This may affect the indexing of the Catalog and the operation of your store.
 
 #### By spreadsheet
 
@@ -122,9 +119,7 @@ You can also add items to a collection using a spreadsheet by following the step
   6. After filling out the spreadsheet, save the changes, and import the document into the VTEX Admin. You can drop the file in the indicated area or click on **Choose a file**. Files in CSV or XML format are accepted.
   7. To finish, click on `Import`.
 
- <div class = "alert alert-warning" >
-  <p>The spreadsheet can contain up to 10,000 rows. However, in stores with a large catalog, we recommend including a maximum of 50 rows at a time to ensure the import works correctly.</p>
-</div>
+ >⚠️ The spreadsheet can contain up to 10,000 rows. However, in stores with a large catalog, we recommend including a maximum of 50 rows at a time to ensure the import works correctly.
 
 ### Product removal
 
@@ -142,9 +137,7 @@ If you wish to remove in bulk, apply one of the filters and click on the `Remove
 
 You can also click on the button <i class="far fa-check-circle" title = "check in circle"></i> (**Products in this collection**) in the top bar and then click `Remove All`.
 
-<div class = "alert alert-danger" >
-  <p> Do not bulk remove more than 150,000 products. This may affect the indexing of the Catalog and the operation of your store.
-</div>
+>❗ <p> Do not bulk remove more than 150,000 products. This may affect the indexing of the Catalog and the operation of your store.
 
 #### By spreadsheet
 
@@ -165,9 +158,7 @@ To change your collection's order, follow the steps below:
 
   a. Click on the <i class="fas fa-grip-vertical" title="drag vertical"></i> icon, drag the item and release it on the desired position.
 
-  <div class = "alert alert-info" >
-    <p> You cannot use this option if a filter is active.</p>
-  </div>
+  >ℹ️ You cannot use this option if a filter is active.
 
   b. Select the box of products you wish to change and click on `Move to Position`. Enter the number of the new position and click on `Move` to complete the change. These options allows you to rearrange items in bulk.
 

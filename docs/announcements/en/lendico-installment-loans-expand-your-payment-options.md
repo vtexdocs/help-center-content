@@ -19,7 +19,7 @@ Nowadays, consumers seek diversity and ease of payments, and it is essential to 
 
 That's why VTEX entered into a partnership with Lendico, which launched the installments loans function, aiming to democratize purchasing power and contribute exponentially to increase your sales.
 
-<div class="alert alert-info" role="alert">This payment option is only available in Brazil.</div>
+>ℹ️ This payment option is only available in Brazil.
 
 ## Who is Lendico?
 

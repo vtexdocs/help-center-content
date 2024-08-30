@@ -14,9 +14,7 @@ locale: en
 legacySlug: nao-encontro-uma-colecao-o-que-fazer
 ---
 
-<div class = "alert alert-warning" >
-  <p><b>Warning:</b> there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.</p>
-</div>
+>⚠️ **Warning:** there are two ways to configure collections, through the CMS or the Collection module (Beta). This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the CMS</a>.
 
 By default, the CMS module only displays the __last 20 collections__ updated.
 

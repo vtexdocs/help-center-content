@@ -18,9 +18,7 @@ announcementSynopsisEN: 'Solve problems faster and autonomously with our redesig
 VTEX is constantly evolving to enhance the customer support experience and empower our clients to solve problems more efficiently and autonomously.
 To facilitate access to support, now you can use the Troubleshooting guides available in the [Help Center](https://help.vtex.com/subcategory/store-operations--2Q0IQjRcOqSgJTh6wRHVMB) and [Developer Portal](https://developers.vtex.com/docs/troubleshooting). These guides detail potential error scenarios in store operations and during store or app development, as well as provide instructions on how to proceed to restore expected performance for your store.
 
-<div class="alert alert-info" role="alert"> 
-  Would you like to contribute to this initiative? Complete this <a href="https://forms.gle/PdVNZmMDMjiDfJaf8">Feedback form</a>.
-</div>
+>ℹ️ Would you like to contribute to this initiative? Complete this [Feedback form](https://forms.gle/PdVNZmMDMjiDfJaf8).
 
 ## How are the Troubleshooting guides organized?
 The Troubleshooting guides are available in the [Help Center](https://help.vtex.com/subcategory/store-operations--2Q0IQjRcOqSgJTh6wRHVMB) and [Developer Portal](https://developers.vtex.com/docs/troubleshooting), organized into categories as follows:
@@ -32,9 +30,7 @@ The Troubleshooting guides are available in the [Help Center](https://help.vtex.
   - **Development**: This section is designed to address errors related to storefront and app development.
   - **Store performance**: This section includes procedures for debugging errors and restoring the store to operational condition if it is down or malfunctioning.
 
-<div class="alert alert-info" role="alert"> 
-  At the time of this announcement's publication, 15 guides are available for consultation, with more in production.
-</div>
+>ℹ️ At the time of this announcement's publication, 15 guides are available for consultation, with more in production.
 
 ## Why did we create this initiative?
 Our goal is to simplify and streamline the VTEX support experience. With the new Troubleshooting guides, you can:

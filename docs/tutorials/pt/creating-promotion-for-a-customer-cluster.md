@@ -3,8 +3,8 @@ title: 'Criar promoção para um cluster de clientes'
 id: tutorials_342
 status: PUBLISHED
 createdAt: 2017-04-27T22:07:51.509Z
-updatedAt: 2023-03-31T19:54:04.703Z
-publishedAt: 2023-03-31T19:54:04.703Z
+updatedAt: 2024-08-05T17:40:23.033Z
+publishedAt: 2024-08-05T17:40:23.033Z
 firstPublishedAt: 2017-04-27T23:03:15.652Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -39,16 +39,16 @@ Com a propriedade definida, siga as instruções abaixo.
 
 Existem dois critérios possíveis para a seleção de um cluster para a promoção e, portanto, duas opções de preenchimento do campo **Cluster de clientes**: 
 
-*   com uma [função de igualdade](#funcao-de-igualdade): `{nomedapropriedade}={valor}
+*   com uma [função de igualdade](#funcao-de-igualdade): `{nomedapropriedade}={"valor"}`.
 *   com uma [função `contains`](#funcao-contains): `{nomedapropriedade} contains {valor}`
 
-Perceba que, em ambas opções, `{nomedapropriedade}` deve ser alterado pelo nome do campo na entidade de dados e `{valor}` deve ser substituído pelo valor definido no Master Data.
+Perceba que, em ambas opções, `{nomedapropriedade}` deve ser alterado pelo nome do campo na entidade de dados e `{"valor"}` deve ser substituído pelo valor definido no Master Data.
 
 >ℹ️ O uso das aspas duplas varia [de acordo com o tipo de campo](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos) criado no Master Data.
 
 ### Função de igualdade
 
-A expressão `{nomedapropriedade}={valor}` deve ser utilizada caso a informação contida no perfil do cliente referente à propriedade em questão deva ser **exatamente igual** ao valor preenchido na expressão.
+A expressão `{nomedapropriedade}={"valor"}` deve ser utilizada caso a informação contida no perfil do cliente referente à propriedade em questão deva ser **exatamente igual** ao valor preenchido na expressão.
 
 Na configuração abaixo, por exemplo, apenas registros `funcionario` com o valor `true` (utilizado em um campo do tipo **[Boolean](https://help.vtex.com/pt/tutorial/criando-entidade-de-dados--tutorials_1265#entendendo-os-tipos)**, em que os valores são sempre verdadeiro ou falso) receberão a promoção. 
 

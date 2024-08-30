@@ -14,4 +14,4 @@ trackId: 2KDrouPiE4HDKUFFSG3KdN
 trackSlugES: integracion-de-lengow
 ---
 
-<div class="alert alert-warning" role="alert">Contenido bajo traducción.</div>
+>⚠️ Contenido bajo traducción.

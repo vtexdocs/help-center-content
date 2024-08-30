@@ -19,7 +19,7 @@ subcategory: 2zVauFUkYn8vgS0y0MfWeK
 
 O **Status de anúncios** permite acompanhar anúncios enviados somente a marketplaces VTEX. Para encontrar o módulo no Admin VTEX, acesse **Marketplace > Conexões > Status de anúncios,** ou digite **Status de anúncios** na barra de busca. Feito isso, a seguinte página aparecerá:  
 
-![Tela Offer Status](https://downloads.ctfassets.net/alneenqid6w5/5elFaSW31IgANpXseTApPo/e007c56b38b37f10eb1765dcef3d4945/-PT-_Offer_Status_-_GIF.gif)
+![Tela Offer Status](//downloads.ctfassets.net/alneenqid6w5/5elFaSW31IgANpXseTApPo/e007c56b38b37f10eb1765dcef3d4945/-PT-_Offer_Status_-_GIF.gif)
 
 A página **Status de anúncios** é composta por três abas, a [**aba Publicados**](#aba-publicados), a [**aba Problemas**](#aba-problemas) e a [**aba Aguardando conclusão**](#aba-aguardando-conclusao), todas apresentam uma listagem de seus anúncios conforme o status que ele se encontra. Em cada anúncio é possível acessar e conferir seus detalhes, que mostram o status, o estoque, preço, data de atualização e motivos de rejeição no marketplace.  
 

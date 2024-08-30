@@ -3,8 +3,8 @@ title: 'Desabilitar um e-mail transacional'
 id: frequentlyAskedQuestions_6715
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:33.622Z
-updatedAt: 2022-08-11T13:40:24.421Z
-publishedAt: 2022-08-11T13:40:24.421Z
+updatedAt: 2024-08-02T14:23:24.488Z
+publishedAt: 2024-08-02T14:23:24.488Z
 firstPublishedAt: 2019-01-24T22:02:41.053Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -19,17 +19,16 @@ Na VTEX, o usuário tem a possibilidade de automatizar o disparo de emails para 
 
 Contudo, essa funcionalidade não é obrigatória. É possível desabilitar o envio dessas mensagens caso não seja vantajoso para a loja. 
 
-Como exemplo, usaremos o passo a passo de como desabilitar o email de pagamento pendente. Neste caso, o email é enviado 48 horas após a finalização do pedido. Vale lembrar que não há possibilidade de personalizar esse intervalo de tempo.
+Como exemplo, usaremos o passo a passo de como desabilitar o email de pagamento de boleto pendente. Neste caso, o email é enviado 48 horas após a finalização do pedido. Vale lembrar que não há possibilidade de personalizar esse intervalo de tempo.
 
 Confira o passo a passo a seguir:
 
-1. Acesse __Central de Mensagens__.
-2. Clique em __Templates__.
-3. Pesquise por __Payment Pending__ na caixa de busca.
-4. Desmarque a opção __Ativar envio de e-mail__.
+1. No Admin VTEX, acesse __Configurações da loja > Templates de email > Templates__ ou digite __Templates__ na barra de busca no topo da página.
+2. Pesquise por __Payment Pending__ na caixa de busca.
+3. Desmarque a opção __Ativar o envio de e-mails?__.
 
-  ![Message Center - Desativar - PT](https://images.ctfassets.net/alneenqid6w5/dlSCQPRLKf46SnYGl7X9a/3ed63d224e34fc3b5a52540cc880ba4a/dlSCQPRLKf46SnYGl7X9a_PT_Payment_Pending.jpg)
+![Message Center - Desativar Template - PT](https://images.ctfassets.net/alneenqid6w5/dlSCQPRLKf46SnYGl7X9a/fa7cbe1e7c4aa18475066a865bf95583/payment_pending_pt.png)
 
-5. Clique em __Salvar__.
+4. Clique em `Salvar`.
 
-A partir de agora, os e-mails de pagamento pendente não serão mais enviados.
+A partir de agora, os e-mails de pagamento de boletos pendentes não serão mais enviados.

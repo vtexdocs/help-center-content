@@ -19,7 +19,7 @@ The **Offer Status** module allows sellers to track the sending and syncing of t
 
 **Offer Status** allows you to track offers sent only to VTEX marketplaces. To access the module, in the VTEX Admin, go to **Marketplace > Connections > Offer Status**, or type **Offer Status** in the search bar.
 
-![Offer Status Screen](https://downloads.ctfassets.net/alneenqid6w5/5elFaSW31IgANpXseTApPo/2de2b349e1c114b7b50db65533eee1df/-EN-_Offer_Status_-_GIF.gif)
+![Offer Status Screen](//downloads.ctfassets.net/alneenqid6w5/5elFaSW31IgANpXseTApPo/2de2b349e1c114b7b50db65533eee1df/-EN-_Offer_Status_-_GIF.gif)
 
 The **Offer Status** page comprises three tabs: [**Published**](#published-tab), [**Issues**](#issue-tab), and [**Awaiting Completion**](#awaiting-completion-tab), all listing your offers according to their status. You can access and view details of each offer, such as their status, inventory, price, update date, and reasons for being rejected by the marketplace.
 

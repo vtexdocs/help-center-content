@@ -71,7 +71,7 @@ Así, es necesario definir los campos de este registro previo. Normalmente, los 
 
 Luego de definir los campos, deberá crear el formulario de registro previo en la carpeta **/sistema/401**, que es la única carpeta adonde el usuario anónimo siempre será dirigido.
 
-La información colocada en el formulario deberá ser enviada al CRM a través de las APIs del Master Data ([vea documentación](https://developers.vtex.com/reference/master-data-api-v2-overview)), o sea, será necesario desarrollar un JavaScript para aplicar esta función. Para ello, consulte un [ejemplo de plantilla HTML y JavaScript](https://assets.contentful.com/alneenqid6w5/5PJaFVGdOwomgCYG66g2M4/ac29ba69fdd11cb8c87b88a0a6a62795/ExemploTemplateB2B.rar "Ejemplo de plantilla HTML y JavaScript").
+La información colocada en el formulario deberá ser enviada al CRM a través de las APIs del Master Data ([vea documentación](https://developers.vtex.com/reference/master-data-api-v2-overview)), o sea, será necesario desarrollar un JavaScript para aplicar esta función. Para ello, consulte un [ejemplo de plantilla HTML y JavaScript](//assets.contentful.com/alneenqid6w5/5PJaFVGdOwomgCYG66g2M4/ac29ba69fdd11cb8c87b88a0a6a62795/ExemploTemplateB2B.rar "Ejemplo de plantilla HTML y JavaScript").
 
 ## 5. Operación
 

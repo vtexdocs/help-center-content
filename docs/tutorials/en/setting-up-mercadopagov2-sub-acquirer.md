@@ -3,8 +3,8 @@ title: 'Setting up payments with MercadoPagoV2'
 id: 1y6k8lCSzJYfPs2yObNFo4
 status: PUBLISHED
 createdAt: 2021-11-30T18:49:42.837Z
-updatedAt: 2024-03-11T18:11:39.540Z
-publishedAt: 2024-03-11T18:11:39.540Z
+updatedAt: 2024-08-26T15:35:49.762Z
+publishedAt: 2024-08-26T15:35:49.762Z
 firstPublishedAt: 2021-11-30T19:32:27.420Z
 contentType: tutorial
 productTeam: Financial

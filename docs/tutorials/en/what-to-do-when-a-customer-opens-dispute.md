@@ -15,4 +15,4 @@ legacySlug: what-to-do-when-a-customer-opens-a-vtex-payment-dispute
 subcategory: 204Hz794zvcUIJXLcShY43
 ---
 
-<div class="alert alert-warning" role="alert">This is a regional exclusive content not applicable to English speaking countries.</div>
+>⚠️ This is a regional exclusive content not applicable to English speaking countries.

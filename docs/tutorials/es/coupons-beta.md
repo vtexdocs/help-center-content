@@ -1,10 +1,10 @@
 ---
-title: 'Cupones'
+title: 'Cupones promocionales: tipos y grupos'
 id: 1aAEN3ADpz19ss5JCIEBdL
 status: PUBLISHED
 createdAt: 2022-04-28T20:08:46.916Z
-updatedAt: 2023-04-20T19:06:44.916Z
-publishedAt: 2023-04-20T19:06:44.916Z
+updatedAt: 2024-08-15T11:27:28.984Z
+publishedAt: 2024-08-15T11:27:28.984Z
 firstPublishedAt: 2022-04-28T20:24:24.046Z
 contentType: tutorial
 productTeam: Marketing & Merchandising

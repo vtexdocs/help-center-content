@@ -15,9 +15,7 @@ legacySlug: asociacion-de-sku-a-una-politica-comercial
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
-<div class="alert alert-warning" role="alert">
-  <p>El siguiente tutorial es válido para asociar los SKU <b>ya existentes</b> a una determinada <a href="https://help.vtex.com/es/tutorial/crear-una-politica-comercial--563tbcL0TYKEKeOY4IAgAE">Política Comercial</a>. Para registrar un nuevo SKU, consulte el tutorial <a href="https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ">Registrar SKU</a>.</p>
-</div>
+>⚠️ El siguiente tutorial es válido para asociar los SKU **ya existentes** a una determinada [Política Comercial](https://help.vtex.com/es/tutorial/crear-una-politica-comercial--563tbcL0TYKEKeOY4IAgAE). Para registrar un nuevo SKU, consulte el tutorial [Registrar SKU](https://help.vtex.com/es/tracks/catalogo-101--5AF0XfnjfWeopIFBgs3LIQ/17PxekVPmVYI4c3OCQ0ddJ).
 
 En la página de configuración de cada SKU, existe la opción de asociar solo aquel artículo con una o varias Políticas Comerciales.
 
@@ -29,8 +27,6 @@ En la página de configuración de cada SKU, existe la opción de asociar solo a
 6. Marque la casilla correspondiente a la Política Comercial del escenario B2B.
 7. Al final de la página, haga clic en el botón `Guardar` para registrar los cambios.
 
-<div class="alert alert-warning" role="alert">
-  <p>Si no se selecciona una política comercial específica en la configuración del SKU, todas las políticas comerciales tendrán acceso al SKU.</p>
-</div>
+>⚠️ Si no se selecciona una política comercial específica en la configuración del SKU, todas las políticas comerciales tendrán acceso al SKU.
 
 Cada cambio realizado en un SKU necesita tiempo para procesarse completamente, incluidas las asociaciones a las Políticas Comerciales. Usted puede conocer más detalles en el artículo [Cómo funciona la indexación](https://help.vtex.com/es/tutorial/entendiendo-el-funcionamento-de-la-indexacion--tutorials_256).

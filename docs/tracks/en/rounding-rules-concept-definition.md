@@ -3,8 +3,8 @@ title: 'Rounding Rules - Concept Definition'
 id: 1tUIUvF6BUkDgMsknGaMkF
 status: PUBLISHED
 createdAt: 2019-07-04T13:53:48.537Z
-updatedAt: 2020-08-31T20:07:41.201Z
-publishedAt: 2020-08-31T20:07:41.201Z
+updatedAt: 2024-08-27T17:14:21.711Z
+publishedAt: 2024-08-27T17:14:21.711Z
 firstPublishedAt: 2019-07-17T19:47:01.156Z
 contentType: trackArticle
 productTeam: Marketing & Merchandising
@@ -29,6 +29,8 @@ A rounding rule's creation depends on three conditions:
 - The price range
 - The number of digits being rounded
 - The rounding methods.
+
+The rounding rules for prices are applicable only to the initial value of the product before the application of any discounts or promotions (base price). They do not apply to fixed prices and promotions. In these cases, the amounts are considered final and exact, being displayed to customers exactly as they were defined, without any additional adjustments.
 
 ## Price range
 

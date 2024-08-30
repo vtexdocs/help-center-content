@@ -15,9 +15,7 @@ legacySlug: price-configuration-beta
 subcategory: 2XTQ6yFYeU5bGHK8Qq3f4I
 ---
 
-<div class = "alert alert-info" >
-  <p>This feature is in Beta stage, meaning we are working to improve it. If you have any questions, please contact <a href = "https://support.vtex.com/hc/en-us/requests">our Support Center</a>.</p>
-</div>
+>ℹ️ This feature is in Beta stage, meaning we are working to improve it. If you have any questions, please contact <a href = "https://support.vtex.com/hc/en-us/requests">our Support Center</a>.
 
 This new Price Settings (Beta) section allows you to create and manage rules for price lists and change general settings in an easy and fast way. 
 
@@ -44,9 +42,7 @@ In this section, you can set the default markup and price variation limit for yo
 
 ## Price table rules
 
-<div class = "alert alert-warning" >
-  <p>This section is the alternative for clients who used to configure their prices through Pricing V1 UTM. Now you can select a price table for UTM scenarios.</p>
-</div>
+>⚠️ This section is the alternative for clients who used to configure their prices through Pricing V1 UTM. Now you can select a price table for UTM scenarios.
 
 In this section you can create pricing table prioritization rules from specific conditions.
 

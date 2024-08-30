@@ -21,9 +21,7 @@ Las tiendas que tienen varios dominios suelen solicitar gestionar la redirecció
 
 Con esto en mente, VTEX le permite gestionar sus redirecciones de URL de acuerdo con el *binding* de la tienda a través de la interfaz del Admin.
 
-<div class="alert alert-warning" role="alert">
-Para crear, editar o eliminar redirecciones, el usuario del Admin VTEX debe tener un rol de acceso con el <a href="https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3">recurso de License Manager</a> <strong>CMS Settings</strong>. Puedes asignar al usuario un rol de acceso con el recurso siguiendo las instrucciones del artículo <a href="https://help.vtex.com/es/tutorial/gestionar-usuarios--tutorials_512#editando-usuarios">Gestionar usuarios</a>, o crear un nuevo rol de acceso que incluya dicho recurso consultando las instrucciones del artículo <a href="https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol">Roles</a>.
-</div>
+>⚠️ Para crear, editar o eliminar redirecciones, el usuario del Admin VTEX debe tener un rol de acceso con el [recurso de License Manager](https://help.vtex.com/es/tutorial/recursos-del-license-manager--3q6ztrC8YynQf6rdc6euk3) **CMS Settings**. Puedes asignar al usuario un rol de acceso con el recurso siguiendo las instrucciones del artículo [Gestionar usuarios](https://help.vtex.com/es/tutorial/gestionar-usuarios--tutorials_512#editando-usuarios), o crear un nuevo rol de acceso que incluya dicho recurso consultando las instrucciones del artículo [Roles](https://help.vtex.com/es/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creando-un-rol).
 
 En el Admin VTEX:
 

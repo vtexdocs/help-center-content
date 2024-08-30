@@ -3,8 +3,8 @@ title: 'Anunciar con VTEX Ad Network (Beta)'
 id: 5WoXcJzHc7EQElpPjziqse
 status: PUBLISHED
 createdAt: 2024-04-23T18:57:14.559Z
-updatedAt: 2024-07-30T15:01:46.734Z
-publishedAt: 2024-07-30T15:01:46.734Z
+updatedAt: 2024-08-05T22:33:07.827Z
+publishedAt: 2024-08-05T22:33:07.827Z
 firstPublishedAt: 2024-04-23T19:16:43.333Z
 contentType: tutorial
 productTeam: Others
@@ -29,6 +29,12 @@ Si ya eres un anunciante de **VTEX Ad Network**, en este artículo puedes ver de
 - [Monitorear campañas](#monitorear-campanas)
 - [Ver más detalles por campaña y producto](#ver-mas-detalles-por-campana-y-producto)
 
+>ℹ️ Ad Network proporciona registros de los cambios realizados en las campañas en el <a
+> href="https://help.vtex.com/es/tutorial/audit--5RXf9WJ5YLFBcS8q8KcxTA">
+> Audit</a>. Para más detalles, consulte la <a
+> href="https://help.vtex.com/es/tutorial/eventos-disponibles-en-audit--6r1Mzcu5NmkmmDLJlz9CCZ#ad-network">
+> lista de los eventos disponibles en Audit</a>.
+
 ## Crear campaña
 
 Para crear una [campaña de VTEX Ad Network](https://help.vtex.com/es/tutorial/vtex-ad-network-beta--2cgqXcBuJmXN2livQvClur#campanas), sigue los pasos a continuación:
@@ -43,7 +49,7 @@ Para crear una [campaña de VTEX Ad Network](https://help.vtex.com/es/tutorial/v
 6. Selecciona los productos que deseas anunciar utilizando una de las siguientes opciones:
 
    * __Buscar productos por EAN:__ buscar productos de tu catálogo por EAN.
-   * __Cargar archivo:__ enviar un archivo CSV con una lista de códigos EAN y ofertas, según [este ejemplo](https://assets.ctfassets.net/alneenqid6w5/37tlx8GVGFxhOS48l73Ehz/c61c4a27f462bb3fa85457eed1bad0b8/teste-ads.csv). Los EAN son obligatorios y las ofertas son opcionales en el archivo.
+   * __Cargar archivo:__ enviar un archivo CSV con una lista de códigos EAN y ofertas, según [este ejemplo](//assets.ctfassets.net/alneenqid6w5/37tlx8GVGFxhOS48l73Ehz/c61c4a27f462bb3fa85457eed1bad0b8/teste-ads.csv). Los EAN son obligatorios y las ofertas son opcionales en el archivo.
 
 7. En la sección **Presupuesto, oferta y cronograma**, haz clic en el botón de editar <i class="fas fa-pencil-alt"></i>.
 8. Define los valores de las ofertas para cada producto. Puedes definir cada valor individualmente.

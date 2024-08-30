@@ -86,7 +86,7 @@ Após realizar o envio, você pode conferir se teve sucesso seguindo esses passo
 
 Se a nota fiscal estiver correta, o envio ocorreu como esperado.
 
-<div class="alert alert-warning" role="alert">Observe o padrão de notas fiscais em XML estabelecido pela Secretaria de Estado da Fazenda (Sefaz) pertinente à sua operação.</div>
+>⚠️ Observe o padrão de notas fiscais em XML estabelecido pela Secretaria de Estado da Fazenda (Sefaz) pertinente à sua operação.
 
 ### Atualização do status de entrega nos pedidos
 

@@ -17,9 +17,7 @@ subcategory: 1znnjA17XqaUNdNFr42PW5
 
 **Redirects** is a feature that redirects the customer to any other internal or external page. It is done in the search area using selected terms or filters.
 
-<div class="alert alert-warning" role="alert">
-To create, edit, or remove redirects, the Admin user must have a role that has the <a href="https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3">License Manager</a> <strong>CMS Settings</strong> resource. You can grant the user a role with the resource by following the instructions in the <a href="https://help.vtex.com/en/tutorial/managing-users--tutorials_512#editing-users">How to manage users</a> article or create a new role including the resource by following the instructions in the <a href="https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role">Roles</a> article.
-</div>
+>⚠️ To create, edit, or remove redirects, the Admin user must have a role that has the [License Manager](https://help.vtex.com/en/tutorial/license-manager-resources--3q6ztrC8YynQf6rdc6euk3) **CMS Settings** resource. You can grant the user a role with the resource by following the instructions in the [How to manage users](https://help.vtex.com/en/tutorial/managing-users--tutorials_512#editing-users) article or create a new role including the resource by following the instructions in the [Roles](https://help.vtex.com/en/tutorial/roles--7HKK5Uau2H6wxE1rH5oRbc#creating-a-role) article.
 
 Multiple redirects are possible in a single URL. To create a redirect, follow the instructions below. 
 
@@ -40,10 +38,12 @@ Follow the steps below to import a redirect.
 3. Click `Import File`.
 4. Click `Save`.
 
-<div class="alert alert-warning" role="alert">
-Please note that some editors can automatically change the separator. Therefore, before importing a file, make sure that it is correctly formatted as CSV and that it uses a semicolon (<code>;</code>) as the value separator. Files containing other separators, such as comma (<code>,</code>) or tab (<code>&nbsp;&nbsp;</code>), are not supported.<br><br>
-Some editors, such as Google Sheets, export CSV files using a comma (<code>,</code>) as the default separator and may not accept semicolons (<code>;</code>). In these cases, we recommend using other editors that allow you to replace separators or save the file using semicolons (<code>;</code>) as separators.
-</div>
+>⚠️ Please note that some editors can automatically change the separator. Therefore, before importing a file, make sure that it is correctly formatted as CSV and that it uses a semicolon (`;`) as the value separator. Files containing other separators, such as comma (`,`) or tab (`&nbsp;&nbsp;`), are not supported.
+>
+> 
+>
+> 
+> Some editors, such as Google Sheets, export CSV files using a comma (`,`) as the default separator and may not accept semicolons (`;`). In these cases, we recommend using other editors that allow you to replace separators or save the file using semicolons (`;`) as separators.
 
 ## Exporting redirects 
 

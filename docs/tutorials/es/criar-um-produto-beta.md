@@ -132,7 +132,7 @@ Aquí se mostrarán las especificaciones anteriormente creadas para los SKU. Si 
 
 ## Imágenes
 
-<div class="alert alert-info" role="alert">Es necesario adjuntar al menos una imagen a cada SKU para activarlos.</div>
+>ℹ️ Es necesario adjuntar al menos una imagen a cada SKU para activarlos.
 
 Para agregar una imagen al SKU, sigue los pasos a continuación:
 

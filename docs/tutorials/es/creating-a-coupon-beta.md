@@ -3,8 +3,8 @@ title: 'Crear cupón'
 id: 7lMk3MmhNp2IEccyGApxU
 status: PUBLISHED
 createdAt: 2022-04-28T20:25:24.998Z
-updatedAt: 2023-04-14T21:08:17.586Z
-publishedAt: 2023-04-14T21:08:17.586Z
+updatedAt: 2024-08-14T17:40:13.842Z
+publishedAt: 2024-08-14T17:40:13.842Z
 firstPublishedAt: 2022-04-28T20:42:45.525Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -89,6 +89,11 @@ Si creaste un [lote de cupones](https://help.vtex.com/es/tutorial/cupones-beta--
 * **Exportar:** permite exportar los códigos generados a un archivo CSV. El archivo exportado tiene una columna con un código por línea.
 
 ![cupons-gerados-es](https://images.ctfassets.net/alneenqid6w5/3Ar3vHIyynacQr9vJ5qUf3/8e8d4674d5df0558a76a9c3b1bc72af6/cupons-gerados-es.gif)
+
+### Generar cupones masivamente
+La [creación de cupones](#crear-cupón) para promociones se debe realizar a través del módulo Tasas y Promociones. Sin embargo, pueden presentarse casos en los que se necesita crear muchos cupones a la vez, debido a alguna campaña o acción de marketing.
+
+La creación masiva de cupones no se puede realizar por el Admin VTEX, solo por la [Promotions & Taxes API](https://developers.vtex.com/docs/api-reference/promotions-and-taxes-api). Vea cómo generar cupones de forma masiva en la guía [Creating and managing coupons with Promotions API](https://developers.vtex.com/docs/guides/creating-and-managing-coupons-with-promotions-api).
 
 ## Asociar el cupón con una promoción
 

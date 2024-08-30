@@ -32,7 +32,7 @@ Now fill out the following fields according to the instructions:
 
 See picture below:
 
-![en.smartcheckout1](https://images.ctfassets.net/alneenqid6w5/3AYhqb6FiwUChorOlxafDS/4d675c4f1310ba14a041f36ee49911ee/en.smartcheckout1.png) ![en.smartcheckout2](https://images.ctfassets.net/alneenqid6w5/rm9LNEvgCOJvKAWpGf5XI/f520942d072cd958262f4c9961e7d9d7/en.smartcheckout2.png)
+![en.smartcheckout1](https://images.ctfassets.net/alneenqid6w5/3AYhqb6FiwUChorOlxafDS/4d675c4f1310ba14a041f36ee49911ee/en.smartcheckout1.png) ![en.smartchec(https://imagestps://images.ctfassets.net/alneenqid6w5/rm9LNEvgCOJvKAWpGf5XI/f520942d072cd958262f4c9961e7d9d7/en.smartcheckout2.png)
 
 Click on Save to conclude the registration of the new site.
 
@@ -78,29 +78,29 @@ Of these templates, the only ones that cannot be changed are **vtex-checkout **
 
 In the next picture, we show the area affected at the checkout by the setting of the **checkout-footer **template. This is merely an example of an empty template.
 
-![en.smartcheckout8](https://images.ctfassets.net/alneenqid6w5/SWI577sEU85XKjwtAOURD/4a6c0cf38aa2c80666eb972ed9ca3528/en.smartcheckout8.png) ![en.smartcheckout9](https://images.ctfassets.net/alneenqid6w5/6ntrDKAHUd6l9dfopU63Z7/d870b01102fd965c76c530279dbc1654/en.smartcheckout9.png)
+![en.smartcheckout8](https://images.ctfassets.net/alneenqid6w5/SWI577sEU85XKjwtAOURD/4a6c0cf38aa2c80666eb972ed9ca3528/en.smartcheckout8.png) ![en.smartchec(https://imagestps://images.ctfassets.net/alneenqid6w5/6ntrDKAHUd6l9dfopU63Z7/d870b01102fd965c76c530279dbc1654/en.smartcheckout9.png)
 
 In the next picture, we have an equivalent example to the previous one; however, this time with the HTML code filled out. Note that the code filled out on the left corresponds to the upper right-hand area. This is the **checkout-header **template.
 
-![en.smartcheckout10](https://images.ctfassets.net/alneenqid6w5/2wkWd5eLmhEjF0qrtYt09O/639eefb3539d9ceac3483cb36ce1daf6/en.smartcheckout10.png) ![en.smartcheckout11](https://images.ctfassets.net/alneenqid6w5/wE8y5BGPJ98vqY5uWBK88/0a357d212ba62e0627dd2348bd6c56de/en.smartcheckout11.png)
+![en.smartcheckout10](https://images.ctfassets.net/alneenqid6w5/2wkWd5eLmhEjF0qrtYt09O/639eefb3539d9ceac3483cb36ce1daf6/en.smartcheckout10.png) ![en.smartcheck(https://imagestps://images.ctfassets.net/alneenqid6w5/wE8y5BGPJ98vqY5uWBK88/0a357d212ba62e0627dd2348bd6c56de/en.smartcheckout11.png)
 
 As we can see in the next picture, all templates with the **checkout** prefix will be used on all Checkout pages. In this example, we are on the Forma de Pagamento page. Note that the header loaded is the same as in the previous example.
 
-![en.smartcheckout12](https://images.ctfassets.net/alneenqid6w5/3eQbQDODquTDApkbuMZeik/7b692e4dac58e13e41578263a1e739ac/en.smartcheckout12.png) ![en.smartcheckout13](https://images.ctfassets.net/alneenqid6w5/241khOdkptYYcD9wLqd3Xk/db163752009b17887990cd4272541e89/en.smartcheckout13.png)
+![en.smartcheckout12](https://images.ctfassets.net/alneenqid6w5/3eQbQDODquTDApkbuMZeik/7b692e4dac58e13e41578263a1e739ac/en.smartcheckout12.png) ![en.smartcheck(https://imagestps://images.ctfassets.net/alneenqid6w5/241khOdkptYYcD9wLqd3Xk/db163752009b17887990cd4272541e89/en.smartcheckout13.png)
 
 Just as in the **checkout **templates, the same happens with the orderPlaced templates. In other words, templates with the **orderPlaced** prefix only correspond to the OrderPlaced (Purchase Confirmation) page.
 
-![en.smartcheckout14](https://images.ctfassets.net/alneenqid6w5/3R5BgiNGjgvwGord10U26t/567703d54d381bd197a5e674b035802b/en.smartcheckout14.png) ![en.smartcheckout15](https://images.ctfassets.net/alneenqid6w5/pzZig7wTU8YNCBG9wqFYe/d6c1c563cc7ebad9df6cfa1878cd8730/en.smartcheckout15.png)
+![en.smartcheckout14](https://images.ctfassets.net/alneenqid6w5/3R5BgiNGjgvwGord10U26t/567703d54d381bd197a5e674b035802b/en.smartcheckout14.png) ![en.smartcheck(https://imagestps://images.ctfassets.net/alneenqid6w5/pzZig7wTU8YNCBG9wqFYe/d6c1c563cc7ebad9df6cfa1878cd8730/en.smartcheckout15.png)
 
 As explained above, the only templates where alterations are not permitted are **vtex-checkout** and **vtex-orderPlaced**. These templates render the basic content of the Checkout and OrderPlaced pages. Below are examples of the content rendered by the templates.
 
 **vtex-checkout **template:
 
-![en.smartcheckout16](https://images.ctfassets.net/alneenqid6w5/57XEgJ13YRpGLREovFUyNU/8a842c82fb418f9df729202bc52c7548/en.smartcheckout16.png) ![en.smartcheckout17](https://images.ctfassets.net/alneenqid6w5/4XmnSmdoN3DugDECxgbeOD/0082a842c288dad52d577bb52722822b/en.smartcheckout17.png)
+![en.smartcheckout16](https://images.ctfassets.net/alneenqid6w5/57XEgJ13YRpGLREovFUyNU/8a842c82fb418f9df729202bc52c7548/en.smartcheckout16.png) ![en.smartcheck(https://imagestps://images.ctfassets.net/alneenqid6w5/4XmnSmdoN3DugDECxgbeOD/0082a842c288dad52d577bb52722822b/en.smartcheckout17.png)
 
 **vtex-orderPlaced **template:
 
-![en.smartcheckout18](https://images.ctfassets.net/alneenqid6w5/3bYwEo8B9sI9IEw024oIvi/df9818cfec61bbfc5847dbbbfd611b98/en.smartcheckout18.png) ![en.smartcheckout19](https://images.ctfassets.net/alneenqid6w5/34ypWrIjyTvUf1GZJP8YpC/49b3c81844d0543664af9104b1e985d8/en.smartcheckout19.png)
+![en.smartcheckout18](https://images.ctfassets.net/alneenqid6w5/3bYwEo8B9sI9IEw024oIvi/df9818cfec61bbfc5847dbbbfd611b98/en.smartcheckout18.png) ![en.smartcheck(https://imagestps://images.ctfassets.net/alneenqid6w5/34ypWrIjyTvUf1GZJP8YpC/49b3c81844d0543664af9104b1e985d8/en.smartcheckout19.png)
 
 Multi-domain accounts can only use one site, if the need arises for specific configurations. This is because, although only one Site exists, the platform includes a class in the tag &lt;body&gt; according to the domain accessed. This makes it simple to apply different layouts to the same site.
 

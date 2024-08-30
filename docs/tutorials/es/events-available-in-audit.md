@@ -3,8 +3,8 @@ title: 'Eventos disponibles en Audit'
 id: 6r1Mzcu5NmkmmDLJlz9CCZ
 status: PUBLISHED
 createdAt: 2022-06-22T16:05:16.214Z
-updatedAt: 2024-06-28T18:16:11.762Z
-publishedAt: 2024-06-28T18:16:11.762Z
+updatedAt: 2024-08-16T20:08:11.733Z
+publishedAt: 2024-08-16T20:08:11.733Z
 firstPublishedAt: 2022-06-22T16:28:52.801Z
 contentType: tutorial
 productTeam: Master Data
@@ -34,6 +34,8 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit] (htt
 * [VTEX ID](#vtex-id)
 * [Headless CMS](#headless-cms)
 * [Gestión de sellers](#gestion-de-sellers)
+* [Site Editor](#site-editor)
+* [Ad Network](#ad-network)
 
 >ℹ️ Si, en Audit, ves algún evento no incluido en esta lista, por favor, envíanos más información a través de la [página de feedback sobre documentación](https://docs.google.com/forms/d/e/1FAIpQLSfmnotPvPjw-SjiE7lt2Nt3RQgNUe10ixXZmuO2v9enOJReoQ/viewform).
 
@@ -76,14 +78,21 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit] (htt
 |---|---|---|
 | Carrier Create | Creación de transportadora. | ID de la transportadora. |
 | Carrier Update | Actualización de transportadora. | ID de la transportadora. |
-| Carrier Delete | Eliminación de la transportadora. | ID de la transportadora. |
-| Dock Create | Creación de almacén. | ID del almacén. |
-| Dock Update | Actualización de almacén. | ID del almacén. |
-| Dock Delete | Eliminación de almacén. | ID del almacén. |
-| Warehouse Create | Creación de stock. | ID del stock. |
+| Dock Create | Creación de muelle de carga. | ID del muelle de carga. |
+| Dock Update | Actualización de muelle de carga. | ID del muelle de carga. |
 | Warehouse Update | Actualización de stock. | ID del stock. |
-| Warehouse Delete | Eliminación de stock. | ID del stock. |
+| warehouse deactivate | Desactivación de stock. | ID del stock. |
 | Pickup Point Save | Creación o modificación del punto de recogida. | ID del punto de recogida. |
+| UPDATE-ITEM-AVAILABILITY | Actualización de disponibilidad del artículo. | Cantidad anterior y nueva del artículo, ID del SKU y ID del stock. Ejemplo: `The quantity of 17_andreia-estoque-sp was updated from 30.0 to 200.0.` |
+| item-availability-delete | Eliminación de la disponibilidad del artículo. | ID del SKU y ID del stock. Ejemplo: `112233_andreia-estoque-sp was deleted.` |
+| Pickup Point Delete | Eliminación del punto de recogida. | ID del punto de recogida. |
+| Carrier New Freight Values | Actualización de tabla de fletes. | ID de la política de envío. |
+| Holiday Update | Actualización de feriado. | ID del feriado. |
+| Polygon Create | Creación de polígono. | ID del polígono. |
+| Holiday Create | Creación de feriado. | ID del feriado. |
+| Holiday Delete | Eliminación de feriado. | ID del feriado. |
+| Reservation Create | Creación de reserva de SKU. | Cantidad del artículo, ID del SKU y ID del stock. Ejemplo: `A quantity of 1.0 from 1_1_1 was reserved.` |
+| Reservation Cancel | Cancelación de reserva de SKU. | Cantidad del artículo, ID del SKU y ID del stock. Ejemplo: `The reservation of 1.0 from 2000534_1_1 was canceled.` |
 
 ## Catálogo (Admin)
 
@@ -217,6 +226,8 @@ A continuación, verás la lista de posibles eventos disponibles en [Audit] (htt
 | TRY_UNPUBLISHING_AND_OVERWRITING | Intento de despublicar y sobrescribir una página. | ID del evento. |
 | done.invoke.deleteContent | Eliminación de contenido. | ID del evento. |
 | done.invoke.deleteContentVariant | Eliminación de una versión del contenido. | ID del evento. |
+| Create new media | Creación de archivo multimedia. | ID del evento. |
+| Delete media | Eliminación de archivo multimedia. | ID del evento. |
 
 En la columna **Acción**, todos los eventos de Headless CMS también muestran la siguiente información:
 
@@ -230,3 +241,28 @@ En la columna **Acción**, todos los eventos de Headless CMS también muestran l
 |---|---|---|
 | Update Seller | Edición de seller. | Seller ID. |
 | Save Seller | Creación de seller. | Seller ID. |
+
+## Site Editor
+
+| Acción | Descripción del evento | Detalle del evento |
+|:---:|:---:|:---:|
+| Schedule change | Programa la edición de contenido. | ID de entidad modificado. |
+| Edit content block | Edita el bloque de contenido. | ID de entidad modificado. |
+| Create content block | Creación de bloco de conteúdo. | ID de entidad modificado. |
+| Activate content block version | Activa la versión del bloque de contenido. | ID de entidad modificado. |
+| Reset content block version | Restablece la versión del bloque de contenido. | ID de entidad modificado. |
+| Delete content block version | Elimina la versión del bloque de contenido. | ID de entidad modificado. |
+| Edit style | Edita el estilo. | ID de entidad modificado. |
+| Create new style | Crea un nuevo estilo. | ID de entidad modificado. |
+| Select main style | Selecciona el estilo principal. | ID de entidad modificado. |
+| Delete style | Elimina el estilo. | ID de entidad modificado. |
+| Copy binding content | Copia el contenido vinculado. | ID de entidad modificado. |
+
+## Ad Network
+
+| Acción | Descripción del evento | Detalles del evento |
+|---|---|---|
+| Create ads | Creación de un nuevo anuncio. | ID del anuncio. |
+| Create campaign | Creación de una nueva campaña. | ID de la campaña. |
+| Update ads | Actualización de un anuncio. | ID del anuncio. |
+| Update campaign | Actualización de una campaña. | ID de la campaña. |

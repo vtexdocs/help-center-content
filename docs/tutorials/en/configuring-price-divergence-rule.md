@@ -3,8 +3,8 @@ title: 'Configuring Price Divergence rule'
 id: awAKP0sS5J8jgLs2g7pPe
 status: PUBLISHED
 createdAt: 2021-12-03T01:24:41.194Z
-updatedAt: 2024-03-27T21:10:37.241Z
-publishedAt: 2024-03-27T21:10:37.241Z
+updatedAt: 2024-08-13T20:39:38.157Z
+publishedAt: 2024-08-13T20:39:38.157Z
 firstPublishedAt: 2021-12-03T01:31:08.666Z
 contentType: tutorial
 productTeam: Channels
@@ -63,7 +63,7 @@ Once you have defined the authorization rule range, select one of the following 
 
 To configure a hierarchy of users responsible for approving orders, you must enter more than one email address and sort the registered users. You can change these users at any time by editing the order authorization rule. Please note that only users with the Super Admin (Owner) or OMS Full [roles](https://help.vtex.com/en/tutorial/perfis-de-acesso--7HKK5Uau2H6wxE1rH5oRbc) can edit the rule.
 
-To create the **2nd rule**, click on the `<img class="shadow-4" src="https:////images.ctfassets.net/alneenqid6w5/7E2BhdEapQ5Lmm4fLRKxpp/2770eaaa5af9653a71416c2f9677eb37/__cone_regras.JPG" />` plus sign. The same applies to creating a third or fourth rule, and so on. Once you click on the icon, the following interface is displayed:
+To create the **2nd rule**, click on the <i class="fas fa-plus" aria-hidden="true"></i> plus sign. The same applies to creating a third or fourth rule, and so on. Once you click on the icon, the following interface is displayed:
 
 ![print_03_EN](https://images.ctfassets.net/alneenqid6w5/6Yxvh93ja2V69Yywn3CyWt/9c85616fd03154cf6130dc5addc22cc4/print_03_EN.png)
 

@@ -3,8 +3,8 @@ title: 'Possíveis erros na notificação de ordens de alteração na interface 
 id: 1UeG6MyFYIUVCnH8kPwNIJ
 status: PUBLISHED
 createdAt: 2023-12-19T19:37:47.313Z
-updatedAt: 2023-12-19T19:37:47.950Z
-publishedAt: 2023-12-19T19:37:47.950Z
+updatedAt: 2024-08-08T19:29:16.923Z
+publishedAt: 2024-08-08T19:29:16.923Z
 firstPublishedAt: 2023-12-19T19:37:47.950Z
 contentType: knownIssue
 productTeam: Order Management
@@ -33,9 +33,6 @@ Não é possível realizar uma simulação, pois os cenários são esporádicos 
 ## Workaround
 
 
-Inicialmente não temos uma solução alternativa, no entanto, vale mencionar que alguns cenários poderemos ajustar manualmente, como, por exemplo, se o registro de pedidos de alteração ocorrer no gateway e não ocorrer no Marketplace ou na interação do pedido de atendimento e também na API.
-
-
-
-
+Inicialmente, não temos uma solução alternativa, no entanto, vale mencionar que alguns cenários poderemos ajustar manualmente, como, por exemplo, se o registro de pedidos de alteração ocorrer no gateway e não ocorrer no Marketplace ou na interação do pedido de atendimento e também na API.
+No entanto, sugerimos usar o novo Change V2, já que houve um esforço para criar esse novo recurso.
 

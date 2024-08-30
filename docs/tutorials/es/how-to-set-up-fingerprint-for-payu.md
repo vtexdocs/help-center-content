@@ -89,7 +89,7 @@ Una vez que ya configuramos la etiqueta tenemos que guardar el JS que se manda a
 
 - Acceder al panel VTEX en el menú CMS >> Diseño >> Administrador de archivos >> Administración de archivos .js >> Agregar.
 
-__Anexo__: [md5.js](https://assets.contentful.com/alneenqid6w5/5PeWM49nPykYYeWI4cOCy4/60c61b5bcf0b4ce92f211f944ab261ad/md5.js)
+__Anexo__: [md5.js](//assets.contentful.com/alneenqid6w5/5PeWM49nPykYYeWI4cOCy4/60c61b5bcf0b4ce92f211f944ab261ad/md5.js)
 
 ### Validación
 

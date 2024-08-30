@@ -19,7 +19,7 @@ Em um cenário onde o consumidor busca diversidade e facilidade de pagamentos, �
 
 Por isso, a VTEX firmou uma parceria com a Lendico, que lançou a função [Boleto Parcelado](https://lendico.com.br/boleto-parcelado-varejista/), visando democratizar o poder de compra e contribuir exponencialmente para o aumento das suas vendas.
 
-<div class="alert alert-info" role="alert">Esta opção de pagamento está disponível apenas no Brasil.</div>
+>ℹ️ Esta opção de pagamento está disponível apenas no Brasil.
 
 ## Quem é a Lendico?
 

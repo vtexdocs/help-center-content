@@ -191,7 +191,5 @@ As coleções apresentam três status distintos:
 - **Inativa**: uma coleção está inativa quando a data de término é anterior à data atual.
 - **Agendada**: uma coleção está agendada quando a data de início é posterior à data atual.
 
-<div class="alert alert-info" role="alert">
-<p>Ao utilizar o Intelligent Search, existem duas opções que definirão a ordem de suas coleções.  Usando o comando `map=productClusterIds`, estará definindo que a ordem de suas coleções será a que foi pré definida pelo lojista, com seu próprio critério de relevância. Se você optar por usar `productClusterNames`, definirá que deseja que suas coleções sigam os padrões de relevância do próprio Intelligent Search. </p>
-</div>
+>ℹ️ Ao utilizar o Intelligent Search, existem duas opções que definirão a ordem de suas coleções.  Usando o comando `map=productClusterIds`, estará definindo que a ordem de suas coleções será a que foi pré definida pelo lojista, com seu próprio critério de relevância. Se você optar por usar `productClusterNames`, definirá que deseja que suas coleções sigam os padrões de relevância do próprio Intelligent Search.
 

@@ -3,8 +3,8 @@ title: 'Cómo funciona Suscripciones '
 id: frequentlyAskedQuestions_4453
 status: PUBLISHED
 createdAt: 2019-01-24T20:46:00.886Z
-updatedAt: 2024-07-24T17:36:44.989Z
-publishedAt: 2024-07-24T17:36:44.989Z
+updatedAt: 2024-08-29T15:23:33.643Z
+publishedAt: 2024-08-29T15:23:33.643Z
 firstPublishedAt: 2019-01-24T22:14:56.290Z
 contentType: tutorial
 productTeam: Post-purchase
@@ -86,7 +86,7 @@ No es posible registrar más de una dirección en la misma suscripción.
 El plazo de entrega y la regla de flete se basan en las políticas de entrega vigentes en la tienda en el momento del ciclo del pedido.
 
 5. **¿Puede mi cliente pagar en cuotas sus pedidos de suscripción?**
-No es posible pagar en cuotas una suscripción. El pago en cuotas puede ocurrir apenas en el primer pedido; pero a partir del segundo, el valor se cobrará al contado.
+Sí, cuando se configure la tienda para permitir el pago de pedidos de suscripción en cuotas. Esto se realiza a través del endpoint [Editar configuración de suscripciones](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#post-/api/rns/settings), marcando los campos `isMultipleInstallmentsEnabledOnCreation` y `isMultipleInstallmentsEnabledOnUpdate` como `true` (verdadero).
 
 6. **¿Qué pasa si la tarjeta de mi cliente es cancelada?**
 La suscripción no se generará por falta de posibilidad de pago.
@@ -95,7 +95,7 @@ La suscripción no se generará por falta de posibilidad de pago.
 Todavía no es posible solicitar entregas programadas para pedidos de Suscripción. Ese escenario no se atiende para que su cliente no se vea afectado negativamente si la configuración logística de su tienda cambia. Sin embargo, su cliente puede crear una nueva suscripción con la fecha futura de la primera entrega en el día que desee.   
 
 8. **¿Cómo puedo cancelar, omitir o pausar un pedido de suscripción de mi cliente?**
-Todavía no es posible hacer cambios en los pedidos de suscripción de sus clientes a través del Admin de VTEX. Solo es posible pausar, omitir o cancelar un pedido de suscripción por medio del acceso a Televentas, en el painel de subscripción de su cliente, o por medio de nuestras [APIs](https://developers.vtex.com/vtex-rest-api/reference/subscriptions-api-v3-overview).
+Todavía no es posible hacer cambios en los pedidos de suscripción de sus clientes a través del Admin de VTEX. Solo es posible pausar, omitir o cancelar un pedido de suscripción por medio del acceso a Televentas, en el painel de subscripción de su cliente, o por medio de nuestras [APIs](https://developers.vtex.com/docs/api-reference/subscriptions-api-v3#overview).
 
 9. **¿Es posible agregar ítems de Sellers o Marketplaces en un pedido de Suscripción?**
 Suscripciones pueden ser creadas con ítems de la propia tienda, de sellers VTEX o de sellers white lable (cuenta franquicia).

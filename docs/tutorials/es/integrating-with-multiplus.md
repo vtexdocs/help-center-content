@@ -15,4 +15,4 @@ legacySlug: integrando-con-multiplus
 subcategory: 6riYYNZCpO8wyksi8Ksgyq
 ---
 
-<div class="alert alert-warning" role="alert">Desde diciembre de 2018, hemos deshabilitado la integración con Multiplus.</div>
+>⚠️ Desde diciembre de 2018, hemos deshabilitado la integración con Multiplus.

@@ -15,9 +15,7 @@ legacySlug: creating-a-product-collection
 subcategory: pwxWmUu7T222QyuGogs68
 ---
 
-<div class = "alert alert-warning" >
-  <p>There are two ways to configure collections, through the Legacy CMS Portal or the <a href="https://help.vtex.com/en/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye">Collection module (Beta)</a>. This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the Legacy CMS Portal</a>.</p>
-</div>
+>⚠️ There are two ways to configure collections, through the Legacy CMS Portal or the [Collection module (Beta)](https://help.vtex.com/en/tutorial/creating-collections-beta--yJBHqNMViOAnnnq4fyOye). This article is about how to <a href = "https://help.vtex.com/en/tutorial/adding-collections-cms--2YBy6P6X0NFRpkD2ZBxF6L">configure collections through the Legacy CMS Portal</a>.
 
 To create a collection, follow the instructions below.
 
@@ -93,7 +91,7 @@ So the Administrator won't have to manually exclude several SKUs one by one, it 
 
 ![Excluir_lista_de_skus](https://images.ctfassets.net/alneenqid6w5/7fkP3OAKk0Kq0SYM8aAw6M/37026d5804485392c3dac490adad7b40/Excluir_lista_de_skus.gif)
 
-Obtain a model of a file for importation, both for including and excluding items from the collection [here](https://assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls "here").
+Obtain a model of a file for importation, both for including and excluding items from the collection [here](//assets.contentful.com/alneenqid6w5/Lo7Y0tXh6eKyyUSs4MESQ/209e614248978f0e86a37e4ddff50162/Colecao.xls "here").
 
 ## Searching collections
 

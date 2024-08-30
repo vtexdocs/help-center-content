@@ -25,7 +25,7 @@ Para utilizar easypay, é necessário:
 - [Configurar afiliação easypay](#configurar-afiliacao-easypay)
 - [Configurar pagamento com Apple Pay na easypay (opcional)](#configurar-pagamento-com-apple-pay-na-easypay-opcional)    
 
-<div class="alert alert-warning" role="alert">Caso você seja um marketplace ou seller, acesse os artigos <a href="https://help.vtex.com/pt/tutorial/configurar-pagamento-com-easypay-marketplace--3YllWiITcPEOpteuToEdO7">Configurar pagamento com easypay no Marketplace</a> ou <a href="https://help.vtex.com/pt/tutorial/configurar-pagamento-com-easypay-seller--5mYMCM1tiRiZO6PozuUncE">Configurar pagamento com easypay seller</a>.</div>
+>⚠️ Caso você seja um marketplace ou seller, acesse os artigos [Configurar pagamento com easypay no Marketplace](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-easypay-marketplace--3YllWiITcPEOpteuToEdO7) ou [Configurar pagamento com easypay seller](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-easypay-seller--5mYMCM1tiRiZO6PozuUncE).
 
 ## Instalar o app easypay
 
@@ -50,7 +50,7 @@ As informações de configuração estão divididas em quatro seções:
 
 ![easypay_pt_1](https://images.ctfassets.net/alneenqid6w5/5SQRO4e7bYL1o8CG383UBE/03f939e9444e2655b4b9b540a4e521cc/easypay_pt_1.png)
 
-<div class="alert alert-warning" role="alert">Você deve realizar as configurações abaixo no <a href="https://backoffice.easypay.pt/">ambiente easypay</a>. O controle destas configurações é de responsabilidade da easypay, e portanto, a VTEX não garante que os passos abaixo estejam atualizados permanentemente. Utilize este documento como uma referência e consulte sua conta no <a href="https://backoffice.easypay.pt/">ambiente easypay</a> para informações atualizadas.</div>
+>⚠️ Você deve realizar as configurações abaixo no [ambiente easypay](https://backoffice.easypay.pt/). O controle destas configurações é de responsabilidade da easypay, e portanto, a VTEX não garante que os passos abaixo estejam atualizados permanentemente. Utilize este documento como uma referência e consulte sua conta no [ambiente easypay](https://backoffice.easypay.pt/) para informações atualizadas.
 
 ### Credenciais easypay
 
@@ -82,7 +82,7 @@ __Merchant account UID__: identificação da conta do comerciante onde serão de
 
 __Margin account UID__: identificação da conta de margens. 
 
-<div class="alert alert-info" role="alert">Este campo somente deverá ser preenchido quando a loja for um marketplace e realizar split de pagamentos. Saiba mais em <a href="https://help.vtex.com/pt/tutorial/configurar-pagamento-com-easypay-marketplace--3YllWiITcPEOpteuToEdO7">Configurar pagamento com easypay no Marketplace</a>.</div>
+>ℹ️ Este campo somente deverá ser preenchido quando a loja for um marketplace e realizar split de pagamentos. Saiba mais em [Configurar pagamento com easypay no Marketplace](https://help.vtex.com/pt/tutorial/configurar-pagamento-com-easypay-marketplace--3YllWiITcPEOpteuToEdO7).
 
 __Refund account ID e Refund account key__: caso não exista conta específica de reembolso, o valor do __Key ID__ deverá ser preenchido no campo __Refund account ID__, e o valor de __Key value__ em __Refund account key__.
 
@@ -100,7 +100,7 @@ Exemplo:
 | ---------------- | ---------------- |
 | mb,dd,vi,sc | mb, dd, vi, sc |
 
-<div class="alert alert-warning" role="alert">Caso este campo seja preenchido, será obrigatório o preenchimento do campo <b>Dias para expiração de pagamentos assíncronos</b>.</div>
+>⚠️ Caso este campo seja preenchido, será obrigatório o preenchimento do campo **Dias para expiração de pagamentos assíncronos**.
 
 __Tipos de pagamento síncronos aceites__: métodos de pagamento síncronos disponíveis para o cliente. Preencha apenas com as siglas dos tipos de Síncronos, separados por vírgula, sem pontos e sem espaços.
 
@@ -160,7 +160,7 @@ Exemplo:
 | ---------------- | ---------------- |
 | 11 | 11px |
 
-<div class="alert alert-warning" role="alert">Não utilize fontes acima de 12 pixels, pois poderão distorcer a visualização do layout.</b></div>
+>⚠️ Não utilize fontes acima de 12 pixels, pois poderão distorcer a visualização do layout.</b>
 
 ### Modo Sandbox
 

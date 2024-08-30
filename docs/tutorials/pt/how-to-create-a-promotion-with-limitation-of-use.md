@@ -3,8 +3,8 @@ title: 'Criar promoção com limitação de uso'
 id: frequentlyAskedQuestions_341
 status: PUBLISHED
 createdAt: 2019-01-24T20:45:52.321Z
-updatedAt: 2022-08-23T15:07:25.648Z
-publishedAt: 2022-08-23T15:07:25.648Z
+updatedAt: 2024-08-09T17:32:38.424Z
+publishedAt: 2024-08-09T17:32:38.424Z
 firstPublishedAt: 2019-01-24T22:13:40.303Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -25,4 +25,4 @@ Também é possível configurar o limite por cliente, ao invés de limite por pr
 
 ## Saiba mais
 
-- [Entenda mais sobre cada tipo de promoção](/pt/tutorial/como-criar-promocoes/).
+- [Entenda mais sobre cada tipo de promoção](https://help.vtex.com/pt/tutorial/como-criar-promocoes--tutorials_320).

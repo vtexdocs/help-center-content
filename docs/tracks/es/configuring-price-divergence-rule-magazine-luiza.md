@@ -14,5 +14,5 @@ trackId: 5Yx5IrNa7Y48c6aSC8wu2Y
 trackSlugES: configurar-la-integracion-de-magazine-luiza
 ---
 
-<div class="alert alert-warning" role="alert">Este contenido es exclusivamente regional; 
-por lo tanto, no se aplica a los países de habla española.</div>
+>⚠️ Este contenido es exclusivamente regional; 
+> por lo tanto, no se aplica a los países de habla española.

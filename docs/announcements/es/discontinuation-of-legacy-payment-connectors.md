@@ -3,8 +3,8 @@ title: 'Descontinuación de conectores de pago legados'
 id: 11SHyRwcAr4fs46K7PccOr
 status: PUBLISHED
 createdAt: 2024-03-15T10:19:40.450Z
-updatedAt: 2024-04-08T19:55:00.286Z
-publishedAt: 2024-04-08T19:55:00.286Z
+updatedAt: 2024-08-20T13:27:49.613Z
+publishedAt: 2024-08-20T13:27:49.613Z
 contentType: updates
 productTeam: Financial
 author: 6DODK49lJPk3yvcoe6GB6g
@@ -20,64 +20,30 @@ Como parte del proceso en curso para descontinuar [conectores de pago legados](h
 | **Conector legado** | **Nueva versión (Conector PPP)** |
 | :---: | :---: |
 | Adyen | AdyenV3 |
-| Alignet | AlignetV2 |
-| Amex | - |
 | AuthorizeNet/AuthorizeDotNet | - |
-| BanamexInvoice | - |
 | BankInvoiceItau/BankIssuedInvoiceItau | MaxiPagoV4 |
 | BankInvoiceSantander/BankIssuedInvoiceSantander | Egetnet |
-| Bcash | - |
-| BoldCron | - |
-| Bradesco/RegisteredBankInvoiceBradesco | - |
+| Bradesco/RegisteredBankInvoiceBradesco | ShopfacilPayment |
 | Braspag/BraspagV2 | CieloEcommerce |
 | Cielo/CieloV3 | CieloEcommerce |
-| Conductor | - |
 | Credomatic | - |
 | CyberSource | Cybersource IO |
 | Decidir/DecidirV1 | Payway |
 | ERede/E-Rede V2/ERedeRest | Itaú Rede |
-| Evolucard | - |
 | Firstdata | - |
-| IPay88 | - |
 | ItauShopline | MaxiPagoV4 |
-| Koin | Koin-Payments |
 | MaxiPago | MaxiPagoV4 |
-| MeoWallet | - |
 | MercadoPagoV1 | MercadoPagoV2 |
-| MobilPay | - |
-| Moip | YamiSplitMoipV1 |
-| MOLPay | - |
-| Mundipagg/MundipaggFraudPrevention | PagarmeV3 |
-| Nexxpago | - |
-| NPS | - |
-| PagamentoDigital | - |
-| PagBrasil | PagBrasilV2 |
 | PagHiper | PagHiperV2 o PagHiperV3 |
 | PagoEfectivo | PagoEfectivoV2  |
 | PagosNet | - |
-| PagosWeb | - |
-| PagSeguro/PagSeguroDirect | - |
-| PayClub | - |
-| Payme | PayMee |
-| Paymentez | PaymentezV2 |
-| PaymentHub | - |
-| PaymentsOS | PayUv2 |
+| PagosWeb | bamboo |
+| PagSeguro/PagSeguroDirect | PagBankV3 |
 | PayPal/PayPalPlus | PayPalV2 |
 | PayU/PayUGlobal | PayUv2 |
-| Payzen | - |
-| Place2Pay/PlaceToPay | PlaceToPayLatam |
-| Rede Pay/RedePay | Itaú Rede |
-| Redecard | Itaú Rede |
-| Redsys/RedsysV2 | - |
-| SafetyPay | SafetyPayV2 |
-| SalesMachine | - |
-| Scopus | - |
+| Redsys/RedsysV2 | RedsysEXP |
 | Sitef/SitefDirectSale/SitefPreauth | ESITEF |
-| Stelo | SteloM1V2 |
-| TNSPay | EvoPayments |
-| TodoPago | - |
-| WebPay/WebPay2P | - |
-| WorldPay | Worldpay-Payments-Via-WPG |
+| WebPay/WebPay2P | Transbank Webpay |
 
 ## ¿Qué se necesita hacer?
 

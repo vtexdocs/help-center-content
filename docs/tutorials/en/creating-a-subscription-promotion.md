@@ -3,8 +3,8 @@ title: 'Creating a subscription promotion'
 id: 3ROT13HYNeUIv0plDqgNed
 status: PUBLISHED
 createdAt: 2019-10-31T14:21:23.412Z
-updatedAt: 2022-08-23T15:53:07.251Z
-publishedAt: 2022-08-23T15:53:07.251Z
+updatedAt: 2024-08-09T19:35:32.700Z
+publishedAt: 2024-08-09T19:35:32.700Z
 firstPublishedAt: 2019-11-05T18:40:57.634Z
 contentType: tutorial
 productTeam: Marketing & Merchandising
@@ -30,7 +30,10 @@ In this article, you will find the step-by-step instructions to create subscript
 - **Filter by**: selection that filters subscription orders valid for the promotion.
   - **Frequency**: selection of the subscription order frequency valid for the promotion in days, weeks, months or years.
   - **Cycle number**: selection of subscription cycles valid for the promotion. This option is unlocked if the **Recurring orders** field has been selected.
- 	Example: By setting the **Frequency** to every 2 weeks and the **Cycle number** to 4, the promotion will only apply on the fourth cycle, i.e., as soon as the order is placed again. This scenario is illustrated below.
+
+Configure the frequency and cycle correctly to ensure that the promotion is applied to recurring orders. The frequency defines the interval between orders, while the cycle determines from which order the promotion will be applied. If you do not configure both parameters, the promotion may not be applied as expected, affecting only the first order or none of the recurring orders. Therefore, select and configure both parameters according to the specific needs of the promotion.
+
+**Example:** By setting the **Frequency** to every 2 weeks and the **Cycle number** to 4, the promotion will only apply on the fourth cycle, i.e., as soon as the order is placed again. This scenario is illustrated below.
 
 | Date | Cycle number | Validity |
 |------------|-----------------|----------------------------|
@@ -39,10 +42,7 @@ In this article, you will find the step-by-step instructions to create subscript
 | 01/22/2022 | Third cycle | Promotion will not be valid |
 | 02/05/2022 | Fourth cycle | Promotion will be valid |
 
-<div class="alert alert-info" role="alert">
- <p>
-You cannot configure UTM promotions and subscription promotions using coupons on recurring orders. Coupons can only be applied to first orders.</p>
-</div>
+>ℹ️ You cannot configure UTM promotions and subscription promotions using coupons on recurring orders. Coupons can only be applied to first orders.
 
 <ol start="6">
 <li> Fill in the <a href="https://help.vtex.com/en/tutorial/regular-promotion--tutorials_327" rel="noopener noreferrer" target="_blank" class="t-body mv5 lh-copy c-link active-c-link hover-c-link visited-c-link hover-c-link break-word">fields of this promotion</a>.</li><br>

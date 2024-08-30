@@ -15,9 +15,7 @@ legacySlug: how-to-identify-promotions-attributed-to-an-sku
 subcategory: 1yTYB5p4b6iwMsUg8uieyq
 ---
 
-<div class="alert alert-warning" role="alert">
-<p>The steps described in this article use Google Chrome. Since this tool is not part of VTEX, it may be updated without notice.</p>
-</div>
+>⚠️ The steps described in this article use Google Chrome. Since this tool is not part of VTEX, it may be updated without notice.
 
 We have written this article in response to a frequent query from users of the VTEX platform: what is the reason for a promotion to be applied to an SKU when apparently it should not be?
 
